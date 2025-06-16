@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: skepvox-site
+    env: static
+    buildCommand: |
+      curl -LO https://quarto.org/download/latest/quarto-linux-amd64.deb
+      sudo dpkg -i quarto-linux-amd64.deb
+      pip install -r requirements.txt
+      quarto render
+    staticPublishPath: docs
+    buildFilter:
+      paths:
+        - "*.qmd"
+        - "**/*.qmd"
+        - "_quarto.yml"
+        - "styles.css"
