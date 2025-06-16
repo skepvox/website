@@ -1,6 +1,6 @@
 # Quarto output
 _site/
-index.html
+# index.html
 index_files/
 # !docs/
 # !docs/index.html
