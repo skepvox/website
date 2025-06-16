@@ -1,0 +1,13 @@
+---
+title: "Posts"
+description: '<br>'
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: numbered
+  sort-ui: true
+  filter-ui: true
+  feed: true
+page-layout: full
+---

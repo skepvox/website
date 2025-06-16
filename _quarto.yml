@@ -1,0 +1,57 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "SkepVox"
+  site-url: "https://skepvox.com"
+  favicon: ./assets/skep-vox.png
+  twitter-card: true
+  
+  # sidebar:
+    # style: 'docked'
+    # contents: auto
+
+  navbar:
+    pinned: true
+    logo: ./assets/skep-vox.png
+    background: '#093145'
+    left:
+      - href: index.qmd
+        text: Home
+      - href: blog/index.qmd
+        text: Blog
+    # tools:
+    #   - icon: instagram
+    #     href: https://www.instagram.com/skepvox
+
+  search:
+    location: navbar
+    type: textbox
+
+  page-footer: 
+    center: 'Copyright SkepVox 2025'
+    right:
+      - icon: instagram
+        href: https://www.instagram.com/skepvox
+      - icon: twitter
+        href: https://www.x.com/skepvox
+      - icon: github
+        href: https://www.github.com/skepvox
+      - icon: linkedin
+        href: https://www.linkedin.com/in/skepvox
+
+# date-format: 'D MMMM YYYY'
+
+format:
+  html:
+    page-layout: full
+    theme:
+      - yeti
+    fontsize: 0.75em
+    html-math-method: katex
+    toc: true
+    css: styles.css
+
+
+
