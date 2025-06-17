@@ -447,3 +447,71 @@ img:hover {
         box-shadow: 0 0 8px #ffb72b, 0 0 4px #ffb72b;
     }
 }
+
+.spotify-tag {
+    display: flex;
+    align-items: center;
+    background: rgba(255, 183, 43, 0.08);
+    border-left: 4px solid #ffb72b;
+    padding: 0.4rem 0.8rem;
+    border-radius: 6px;
+    margin: 1.5rem 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+
+.spotify-tag p {
+    margin: 0;
+    display: flex;
+    align-items: center;
+}
+
+.spotify-tag a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: #ffb72b;
+    font-size: 1rem;
+    text-decoration: none;
+    font-weight: 500;
+    animation: pulse 2s infinite;
+}
+
+.spotify-icon {
+    display: inline-block;
+    flex-shrink: 0;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+        opacity: 0.85;
+    }
+
+    50% {
+        transform: scale(1.02);
+        opacity: 1;
+    }
+
+    100% {
+        transform: scale(1);
+        opacity: 0.85;
+    }
+}
+
+/* Estilização para ícones do rodapé */
+.footer .quarto-listing-footer-tools a,
+.footer-items .nav-link i {
+    font-size: 1.2rem;
+    /* Tamanho ajustável conforme visual */
+    margin: 0 0.5rem;
+    color: #ffb72b !important;
+    transition: transform 0.2s ease;
+}
+
+.footer .quarto-listing-footer-tools a:hover,
+.footer-items .nav-link:hover i {
+    transform: scale(1.2);
+    color: #ffa500 !important;
+}

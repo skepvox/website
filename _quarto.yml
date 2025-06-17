@@ -38,8 +38,8 @@ website:
         href: https://www.x.com/skepvox
       - icon: github
         href: https://www.github.com/skepvox
-      - icon: linkedin
-        href: https://www.linkedin.com/in/skepvox
+      - icon: spotify
+        href: https://open.spotify.com/show/2Y9rVGkHYQYdt6WfedYyZu?si=-Qj7bKtzSYi8gbTfYSq1lQ
 
 # date-format: 'D MMMM YYYY'
 
@@ -48,7 +48,7 @@ format:
     page-layout: full
     theme:
       - yeti
-    fontsize: 0.75em
+    fontsize: 0.80em
     html-math-method: katex
     toc: true
     css: styles.css

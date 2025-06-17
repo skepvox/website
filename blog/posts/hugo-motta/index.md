@@ -11,6 +11,24 @@ description: |
     A eleição de Hugo Motta para a presidência da Câmara dos Deputados em fevereiro de 2025 representa mais do que a ascensão de um jovem político ao poder. Aos 35 anos, Motta tornou-se o mais jovem presidente da Casa desde a redemocratização, mas sua trajetória revela os vícios estruturais da política brasileira: o nepotismo, o clientelismo e a perpetuação de dinastias familiares que corroem as instituições democráticas. Este artigo argumenta que a precocidade de Hugo Motta não representa renovação política, mas sim a continuidade de práticas oligárquicas que prejudicam tanto a democracia nacional quanto o desenvolvimento do povo paraibano.
 ---
 
+<div class="spotify-tag">
+  <a href="https://open.spotify.com/episode/5Nzm0ozf9L4B5iZ1Xhrg5p?si=df7RyNRQTga6ueiAAdmE4w" target="_blank" rel="noopener">
+    <svg class="spotify-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 168 168" width="20" height="20">
+      <circle cx="84" cy="84" r="84" fill="#ffb72b"/>
+      <path fill="#fff" d="M119.5 113.2c-1.6 2.6-5 3.3-7.5 1.7-20.6-12.6-46.5-15.5-77.1-8.5-3 0.7-6-1.2-6.7-4.3-0.8-3.1 1.1-6.2 4.2-6.9 34.3-7.7 64.2-4.2 88.3 10.5 2.6 1.5 3.3 5 1.8 7.5zm9.3-22.9c-2 3.2-6.2 4.1-9.3 2.1-23.5-14.5-59.3-18.7-86.9-10.2-3.6 1.1-7.4-0.9-8.5-4.5-1.1-3.6 0.9-7.4 4.5-8.5 32.4-9.9 74.6-5.3 101.7 12.1 3.2 2 4.1 6.2 2.1 9.3zm10.7-23.5c-2.5 3.9-7.8 5.1-11.6 2.6-27-17-71.9-18.3-98.1-9.9-4.4 1.4-9.1-1.1-10.5-5.5s1.1-9.1 5.5-10.5c31.4-10 82.2-8.5 114.9 11 3.9 2.4 5.1 7.7 2.6 11.4z"/>
+    </svg>
+    <span class="spotify-text">Ouça no Spotify</span>
+  </a>
+</div>
+
+
+
+
+
+
+
+
+
 ## Introdução
 
 A eleição de Hugo Motta para a presidência da Câmara dos Deputados em fevereiro de 2025 representa mais do que a ascensão de um jovem político ao poder [@source10]. Aos 35 anos, Motta tornou-se o mais jovem presidente da Casa desde a redemocratização [@source15], mas sua trajetória revela os vícios estruturais da política brasileira: o nepotismo, o clientelismo e a perpetuação de dinastias familiares que corroem as instituições democráticas. Este artigo argumenta que a precocidade de Hugo Motta não representa renovação política, mas sim a continuidade de práticas oligárquicas que prejudicam tanto a democracia nacional quanto o desenvolvimento do povo paraibano.
