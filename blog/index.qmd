@@ -2,7 +2,7 @@
 title: "Posts"
 description: '<br>'
 listing:
-  contents: posts
+  contents: .
   sort: "date desc"
   type: default
   categories: numbered

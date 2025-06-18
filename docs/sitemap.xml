@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://skepvox.com/blog/index.html</loc>
-    <lastmod>2025-06-15T16:29:50.119Z</lastmod>
+    <loc>https://skepvox.com/blog/dinastia-motta/index.html</loc>
+    <lastmod>2025-06-18T23:47:30.073Z</lastmod>
   </url>
   <url>
     <loc>https://skepvox.com/index.html</loc>
     <lastmod>2025-06-15T20:46:19.669Z</lastmod>
   </url>
   <url>
-    <loc>https://skepvox.com/blog/posts/hugo-motta/index.html</loc>
-    <lastmod>2025-06-18T10:49:01.497Z</lastmod>
+    <loc>https://skepvox.com/draft/razao-emocao-politica/index.html</loc>
+    <lastmod>2025-06-18T23:47:21.901Z</lastmod>
+  </url>
+  <url>
+    <loc>https://skepvox.com/draft/bolsa-familia/index.html</loc>
+    <lastmod>2025-06-18T23:47:06.868Z</lastmod>
+  </url>
+  <url>
+    <loc>https://skepvox.com/blog/index.html</loc>
+    <lastmod>2025-06-18T21:51:58.958Z</lastmod>
   </url>
 </urlset>
