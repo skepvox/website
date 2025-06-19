@@ -171,8 +171,8 @@ document.addEventListener("DOMContentLoaded", () => {
                   <strong>${data.title}</strong><br>
                   <p>${data.description}</p>
                   <div style="margin-top: 0.5rem;">
-                    <a href="#" class="close-preview">✖ Close</a> &nbsp;|&nbsp;
-                    <a href="${data.url}" target="_blank" class="open-preview">↗ Open full page</a>
+                    <a href="#" class="close-preview">✖ Fechar</a> &nbsp;|&nbsp;
+                    <a href="${data.url}" target="_blank" class="open-preview">↗ Ir para Página</a>
                   </div>
                 </div>
               </div>
@@ -285,91 +285,91 @@ document.addEventListener("DOMContentLoaded", () => {
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" data-entry-spacing="0" data-line-spacing="2">
 <div id="ref-source10" class="csl-entry">
-<div class="csl-left-margin">1. </div><div class="csl-right-inline">Deputados, C. dos. <a href="https://www.camara.leg.br/noticias/1128935-hugo-motta-e-o-novo-presidente-da-camara-dos-deputados">Hugo motta é o novo presidente da câmara dos deputados - notícias</a>. (2025).</div>
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Câmara dos Deputados. <a href="https://www.camara.leg.br/noticias/1128935-hugo-motta-e-o-novo-presidente-da-camara-dos-deputados"><span class="nocase">Hugo Motta é o novo presidente da Câmara dos Deputados - Notícias</span></a>. (2025).</div>
 </div>
 <div id="ref-source15" class="csl-entry">
-<div class="csl-left-margin">2. </div><div class="csl-right-inline">Migalhas. <a href="https://www.migalhas.com.br/quentes/423887/mais-jovem-a-assumir-o-cargo-hugo-motta-e-eleito-presidente-da-camara">Mais jovem a assumir o cargo, hugo motta é eleito presidente da câmara</a>. (2025).</div>
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Migalhas. <a href="https://www.migalhas.com.br/quentes/423887/mais-jovem-a-assumir-o-cargo-hugo-motta-e-eleito-presidente-da-camara"><span class="nocase">Mais jovem a assumir o cargo, Hugo Motta é eleito presidente da Câmara</span></a>. (2025).</div>
 </div>
 <div id="ref-source3" class="csl-entry">
-<div class="csl-left-margin">3. </div><div class="csl-right-inline">Wikipedia. <a href="https://pt.wikipedia.org/wiki/Hugo_Motta">Hugo motta – wikipédia, a enciclopédia livre</a>. (2013).</div>
+<div class="csl-left-margin">3. </div><div class="csl-right-inline">Wikipedia. <a href="https://pt.wikipedia.org/wiki/Hugo_Motta"><span class="nocase">Hugo Motta – Wikipédia, a enciclopédia livre</span></a>. (2013).</div>
 </div>
 <div id="ref-source11" class="csl-entry">
-<div class="csl-left-margin">4. </div><div class="csl-right-inline">G1. <a href="https://g1.globo.com/politica/noticia/2025/02/01/mais-jovem-a-presidir-a-camara-hugo-motta-tem-forca-nos-bastidores-une-adversarios-e-foi-discipulo-de-cunha-conheca-o-politico.ghtml">Mais jovem a presidir a câmara, hugo motta tem força nos bastidores, une adversários e foi discípulo de cunha: Conheça o político</a>. (2025).</div>
+<div class="csl-left-margin">4. </div><div class="csl-right-inline">G1. <a href="https://g1.globo.com/politica/noticia/2025/02/01/mais-jovem-a-presidir-a-camara-hugo-motta-tem-forca-nos-bastidores-une-adversarios-e-foi-discipulo-de-cunha-conheca-o-politico.ghtml"><span class="nocase">Mais jovem a presidir a Câmara, Hugo Motta tem força nos bastidores, une adversários e foi discípulo de Cunha: conheça o político</span></a>. (2025).</div>
 </div>
 <div id="ref-source17" class="csl-entry">
-<div class="csl-left-margin">5. </div><div class="csl-right-inline">Deputados, C. dos. <a href="https://www.camara.leg.br/noticias/451224-apos-instalacao-cpi-da-petrobras-elege-hugo-motta-presidente/">Após instalação, CPI da petrobras elege hugo motta presidente</a>. (2015).</div>
+<div class="csl-left-margin">5. </div><div class="csl-right-inline">Câmara dos Deputados. <a href="https://www.camara.leg.br/noticias/451224-apos-instalacao-cpi-da-petrobras-elege-hugo-motta-presidente/"><span class="nocase">Após instalação, CPI da Petrobras elege Hugo Motta presidente</span></a>. (2015).</div>
 </div>
 <div id="ref-source4" class="csl-entry">
-<div class="csl-left-margin">6. </div><div class="csl-right-inline">Econômico, V. <a href="https://valor.globo.com/politica/artigo/quem-e-hugo-motta.ghtml">Quem é hugo motta, presidente da câmara dos deputados | política</a>. (2025).</div>
+<div class="csl-left-margin">6. </div><div class="csl-right-inline">Valor Econômico. <a href="https://valor.globo.com/politica/artigo/quem-e-hugo-motta.ghtml"><span class="nocase">Política - Quem é Hugo Motta, presidente da Câmara dos Deputados</span></a>. (2025).</div>
 </div>
 <div id="ref-source2" class="csl-entry">
-<div class="csl-left-margin">7. </div><div class="csl-right-inline">Jordan Bezerra, B. do. <a href="https://blogdojordanbezerra.com/noticia/politica/37900/ricardo-coutinho-critica-postura-de-hugo-motta-vai-perdendo-a-credibilidade-video">Ricardo coutinho critica postura de hugo motta: "Vai perdendo a credibilidade"</a>. (2025).</div>
+<div class="csl-left-margin">7. </div><div class="csl-right-inline">Blog do Jordan Bezerra. <a href="https://blogdojordanbezerra.com/noticia/politica/37900/ricardo-coutinho-critica-postura-de-hugo-motta-vai-perdendo-a-credibilidade-video"><span class="nocase">Ricardo Coutinho critica postura de Hugo Motta: "vai perdendo a credibilidade"</span></a>. (2025).</div>
 </div>
 <div id="ref-source28" class="csl-entry">
-<div class="csl-left-margin">8. </div><div class="csl-right-inline">Brasil, C. <a href="https://www.cnnbrasil.com.br/politica/hugo-motta-e-cobrado-sobre-zambelli-e-promete-votar-perda-de-mandato/">Hugo motta é cobrado sobre zambelli e promete votar perda de mandato</a>. (2025).</div>
+<div class="csl-left-margin">8. </div><div class="csl-right-inline">CNN Brasil. <a href="https://www.cnnbrasil.com.br/politica/hugo-motta-e-cobrado-sobre-zambelli-e-promete-votar-perda-de-mandato/"><span class="nocase">Hugo Motta é cobrado sobre Zambelli e promete votar perda de mandato</span></a>. (2025).</div>
 </div>
 <div id="ref-source32" class="csl-entry">
-<div class="csl-left-margin">9. </div><div class="csl-right-inline">Brasil, C. <a href="https://www.cnnbrasil.com.br/politica/hugo-motta-envia-a-ccj-decisao-do-stf-sobre-perda-de-mandato-de-zambelli/">Hugo motta envia à CCJ decisão do STF sobre perda de mandato de zambelli</a>. (2025).</div>
+<div class="csl-left-margin">9. </div><div class="csl-right-inline">CNN Brasil. <a href="https://www.cnnbrasil.com.br/politica/hugo-motta-envia-a-ccj-decisao-do-stf-sobre-perda-de-mandato-de-zambelli/"><span class="nocase">Hugo Motta envia à CCJ decisão do STF sobre perda de mandato de Zambelli</span></a>. (2025).</div>
 </div>
 <div id="ref-source31" class="csl-entry">
-<div class="csl-left-margin">10. </div><div class="csl-right-inline">Globo, O. <a href="https://oglobo.globo.com/blogs/vera-magalhaes/coluna/2025/04/hugo-motta-ganha-tempo-mas-arrisca-autoridade.ghtml">Hugo motta ganha tempo, mas arrisca autoridade</a>. (2025).</div>
+<div class="csl-left-margin">10. </div><div class="csl-right-inline">O Globo. <a href="https://oglobo.globo.com/blogs/vera-magalhaes/coluna/2025/04/hugo-motta-ganha-tempo-mas-arrisca-autoridade.ghtml"><span class="nocase">Hugo Motta ganha tempo, mas arrisca autoridade</span></a>. (2025).</div>
 </div>
 <div id="ref-source12" class="csl-entry">
-<div class="csl-left-margin">11. </div><div class="csl-right-inline">Veja. <a href="https://veja.abril.com.br/brasil/novo-favorito-para-presidir-a-camara-pode-levar-dinastia-de-patos-ao-poder/">Novo favorito para presidir a câmara pode levar dinastia de patos ao poder</a>. (2024).</div>
+<div class="csl-left-margin">11. </div><div class="csl-right-inline">Veja. <a href="https://veja.abril.com.br/brasil/novo-favorito-para-presidir-a-camara-pode-levar-dinastia-de-patos-ao-poder/"><span class="nocase">Novo favorito para presidir a Câmara pode levar dinastia de Patos ao poder</span></a>. (2024).</div>
 </div>
 <div id="ref-source13" class="csl-entry">
-<div class="csl-left-margin">12. </div><div class="csl-right-inline">Wikipedia. <a href="https://pt.wikipedia.org/wiki/Nabor_Wanderley">Nabor wanderley – wikipédia, a enciclopédia livre</a>. (2016).</div>
+<div class="csl-left-margin">12. </div><div class="csl-right-inline">Wikipedia. <a href="https://pt.wikipedia.org/wiki/Nabor_Wanderley"><span class="nocase">Nabor Wanderley – Wikipédia, a enciclopédia livre</span></a>. (2016).</div>
 </div>
 <div id="ref-source30" class="csl-entry">
-<div class="csl-left-margin">13. </div><div class="csl-right-inline">Fato PB, B. de. <a href="https://www.brasildefatopb.com.br/2022/10/04/representacao-politica-na-paraiba-ainda-segue-logica-do-familismo-afirma-cientista-politico">Representação política na paraíba ainda segue lógica do familismo, afirma cientista político</a>. (2022).</div>
+<div class="csl-left-margin">13. </div><div class="csl-right-inline">Brasil de Fato PB. <a href="https://www.brasildefatopb.com.br/2022/10/04/representacao-politica-na-paraiba-ainda-segue-logica-do-familismo-afirma-cientista-politico"><span class="nocase">Representação política na Paraíba ainda segue lógica do familismo, afirma cientista político</span></a>. (2022).</div>
 </div>
 <div id="ref-source16" class="csl-entry">
-<div class="csl-left-margin">14. </div><div class="csl-right-inline">UOL. <a href="https://noticias.uol.com.br/videos/2024/10/17/hugo-motta-favorito-a-camara-e-fruto-de-uniao-entre-dinastias-na-paraiba--podcast-uol-prime-40.htm">Hugo motta, favorito à câmara, é fruto de união entre dinastias na paraíba</a>. (2024).</div>
+<div class="csl-left-margin">14. </div><div class="csl-right-inline">UOL. <a href="https://noticias.uol.com.br/videos/2024/10/17/hugo-motta-favorito-a-camara-e-fruto-de-uniao-entre-dinastias-na-paraiba--podcast-uol-prime-40.htm"><span class="nocase">Hugo Motta, favorito à Câmara, é fruto de união entre dinastias na Paraíba</span></a>. (2024).</div>
 </div>
 <div id="ref-source39" class="csl-entry">
-<div class="csl-left-margin">15. </div><div class="csl-right-inline">Povo, G. do. <a href="https://www.gazetadopovo.com.br/ideias/falta-asfalto-sobra-violencia-conheca-feudo-eleitoral-familia-hugo-motta/">Falta asfalto, sobra violência: Conheça o feudo eleitoral da família de hugo motta</a>. (2025).</div>
+<div class="csl-left-margin">15. </div><div class="csl-right-inline">Gazeta do Povo. <a href="https://www.gazetadopovo.com.br/ideias/falta-asfalto-sobra-violencia-conheca-feudo-eleitoral-familia-hugo-motta/"><span class="nocase">Falta asfalto, sobra violência: conheça o feudo eleitoral da família de Hugo Motta</span></a>. (2025).</div>
 </div>
 <div id="ref-source14" class="csl-entry">
-<div class="csl-left-margin">16. </div><div class="csl-right-inline">ClickPB. <a href="https://www.clickpb.com.br/politica/francisca-motta-e-oficializada-como-pre-candidata-a-prefeitura-de-patos-143282.html">Deputada francisca motta é oficializada como pré-candidata à prefeitura de patos</a>. (2015).</div>
+<div class="csl-left-margin">16. </div><div class="csl-right-inline">ClickPB. <a href="https://www.clickpb.com.br/politica/francisca-motta-e-oficializada-como-pre-candidata-a-prefeitura-de-patos-143282.html"><span class="nocase">Deputada Francisca Motta é oficializada como pré-candidata à prefeitura de Patos</span></a>. (2015).</div>
 </div>
 <div id="ref-source6" class="csl-entry">
-<div class="csl-left-margin">17. </div><div class="csl-right-inline">Fórum, R. <a href="https://revistaforum.com.br/politica/2025/3/20/seria-10-diz-empresario-sobre-suposta-propina-hugo-motta-176016.html">"Seria 10</a>. (2025).</div>
+<div class="csl-left-margin">17. </div><div class="csl-right-inline"><a href="https://revistaforum.com.br/politica/2025/3/20/seria-10-diz-empresario-sobre-suposta-propina-hugo-motta-176016.html">Revista Fórum. (2025)</a>.</div>
 </div>
 <div id="ref-source24" class="csl-entry">
-<div class="csl-left-margin">18. </div><div class="csl-right-inline">YouTube. <a href="https://www.youtube.com/watch?v=U2QDOGLDlrI">Justiça cita hugo motta em esquema de propina com emendas parlamentares</a>. (2025).</div>
+<div class="csl-left-margin">18. </div><div class="csl-right-inline">YouTube. <a href="https://www.youtube.com/watch?v=U2QDOGLDlrI"><span class="nocase">Justiça Cita Hugo Motta em Esquema de Propina com Emendas Parlamentares</span></a>. (2025).</div>
 </div>
 <div id="ref-source38" class="csl-entry">
-<div class="csl-left-margin">19. </div><div class="csl-right-inline">União, A. <a href="https://auniao.pb.gov.br/noticias/caderno_politicas/grupo-politico-dos-motta-e-investigado-em-operacao">Grupo político dos motta é investigado em operação</a>. (2016).</div>
+<div class="csl-left-margin">19. </div><div class="csl-right-inline">A União. <a href="https://auniao.pb.gov.br/noticias/caderno_politicas/grupo-politico-dos-motta-e-investigado-em-operacao"><span class="nocase">Grupo político dos Motta é investigado em operação</span></a>. (2016).</div>
 </div>
 <div id="ref-source5" class="csl-entry">
-<div class="csl-left-margin">20. </div><div class="csl-right-inline">Globo, O. <a href="https://oglobo.globo.com/politica/noticia/2025/04/03/servidora-alvo-de-investigacao-atuava-como-ponte-entre-empresario-e-hugo-motta-diz-pf.ghtml">Servidora alvo de investigação atuava como "ponte" entre empresário e hugo motta, diz PF</a>. (2025).</div>
+<div class="csl-left-margin">20. </div><div class="csl-right-inline">O Globo. <a href="https://oglobo.globo.com/politica/noticia/2025/04/03/servidora-alvo-de-investigacao-atuava-como-ponte-entre-empresario-e-hugo-motta-diz-pf.ghtml"><span class="nocase">Servidora alvo de investigação atuava como "PONTE" entre Empresário e Hugo Motta, diz PF</span></a>. (2025).</div>
 </div>
 <div id="ref-source23" class="csl-entry">
-<div class="csl-left-margin">21. </div><div class="csl-right-inline">G1. <a href="https://g1.globo.com/politica/noticia/2025/02/13/hugo-motta-diz-que-acompanha-operacao-sobre-emendas-e-deve-se-reunir-com-deputado-citado-ainda-nesta-quinta.ghtml">Hugo motta diz que acompanha operação sobre emendas e deve se reunir com deputado citado ainda nesta quinta</a>. (2025).</div>
+<div class="csl-left-margin">21. </div><div class="csl-right-inline">G1. <a href="https://g1.globo.com/politica/noticia/2025/02/13/hugo-motta-diz-que-acompanha-operacao-sobre-emendas-e-deve-se-reunir-com-deputado-citado-ainda-nesta-quinta.ghtml"><span class="nocase">Hugo Motta diz que acompanha operação sobre emendas e deve se reunir com deputado citado ainda nesta quinta</span></a>. (2025).</div>
 </div>
 <div id="ref-source37" class="csl-entry">
-<div class="csl-left-margin">22. </div><div class="csl-right-inline">Paraíba, J. da. <a href="https://jornaldaparaiba.com.br/politica/justica-suspende-direitos-de-nabor-wanderley-em-patos">Justiça suspende direitos de nabor wanderley em patos</a>. (2013).</div>
+<div class="csl-left-margin">22. </div><div class="csl-right-inline">Jornal da Paraíba. <a href="https://jornaldaparaiba.com.br/politica/justica-suspende-direitos-de-nabor-wanderley-em-patos"><span class="nocase">Justiça suspende direitos de Nabor Wanderley em Patos</span></a>. (2013).</div>
 </div>
 <div id="ref-source25" class="csl-entry">
-<div class="csl-left-margin">23. </div><div class="csl-right-inline">Estadão. <a href="https://www.estadao.com.br/politica/hugo-motta-candidato-presidente-camara-deputados-pupilo-eduardo-cunha-governo-lula-fernando-haddad-arthur-lira-nprp/">Hugo motta foi pupilo de eduardo cunha e "subiu degraus"</a>. (2024).</div>
+<div class="csl-left-margin">23. </div><div class="csl-right-inline">Estadão. <a href="https://www.estadao.com.br/politica/hugo-motta-candidato-presidente-camara-deputados-pupilo-eduardo-cunha-governo-lula-fernando-haddad-arthur-lira-nprp/"><span class="nocase">Hugo Motta foi pupilo de Eduardo Cunha e "subiu degraus"</span></a>. (2024).</div>
 </div>
 <div id="ref-source18" class="csl-entry">
-<div class="csl-left-margin">24. </div><div class="csl-right-inline">Brasil, A. <a href="https://agenciabrasil.ebc.com.br/politica/noticia/2015-10/para-presidente-cpi-da-petrobras-nao-acaba-em-pizza">Relatório final da CPI da petrobras não indicia nenhum parlamentar</a>. (2015).</div>
+<div class="csl-left-margin">24. </div><div class="csl-right-inline">Agência Brasil. <a href="https://agenciabrasil.ebc.com.br/politica/noticia/2015-10/para-presidente-cpi-da-petrobras-nao-acaba-em-pizza"><span class="nocase">Relatório final da CPI da Petrobras não indicia nenhum parlamentar</span></a>. (2015).</div>
 </div>
 <div id="ref-source19" class="csl-entry">
-<div class="csl-left-margin">25. </div><div class="csl-right-inline">Federal, S. <a href="https://www12.senado.leg.br/noticias/materias/2015/02/26/instalada-cpi-da-petrobras-na-camara">Instalada CPI da petrobras na câmara - senado federal</a>. (2015).</div>
+<div class="csl-left-margin">25. </div><div class="csl-right-inline">Senado Federal. <a href="https://www12.senado.leg.br/noticias/materias/2015/02/26/instalada-cpi-da-petrobras-na-camara"><span class="nocase">Instalada CPI da Petrobras na Câmara</span></a>. (2015).</div>
 </div>
 <div id="ref-source20" class="csl-entry">
-<div class="csl-left-margin">26. </div><div class="csl-right-inline">Época. <a href="https://epoca.globo.com/tempo/filtro/noticia/2015/03/bvossa-excelencia-e-molequeb-o-bate-boca-na-cpi-da-petrobras.html">"Vossa excelência é moleque": O bate-boca na CPI da petrobras</a>. (2015).</div>
+<div class="csl-left-margin">26. </div><div class="csl-right-inline">Época. <a href="https://epoca.globo.com/tempo/filtro/noticia/2015/03/bvossa-excelencia-e-molequeb-o-bate-boca-na-cpi-da-petrobras.html"><span class="nocase">"Vossa Excelência é moleque": O bate-boca na CPI da Petrobras</span></a>. (2015).</div>
 </div>
 <div id="ref-source36" class="csl-entry">
-<div class="csl-left-margin">27. </div><div class="csl-right-inline">Brasil, T. I. <a href="https://www.intercept.com.br/2025/02/03/hugo-motta-camara-deputados/">O estilo de hugo motta - intercept brasil</a>. (2025).</div>
+<div class="csl-left-margin">27. </div><div class="csl-right-inline">The Intercept Brasil. <a href="https://www.intercept.com.br/2025/02/03/hugo-motta-camara-deputados/"><span class="nocase">O estilo de Hugo Motta</span></a>. (2025).</div>
 </div>
 <div id="ref-source1" class="csl-entry">
-<div class="csl-left-margin">28. </div><div class="csl-right-inline">Povo, G. do. <a href="https://www.gazetadopovo.com.br/economia/motta-salario-duplo-parlamentares-aposentados-exercicio/">Motta quer salário duplo a parlamentares aposentados em exercício</a>. (2025).</div>
+<div class="csl-left-margin">28. </div><div class="csl-right-inline">Gazeta do Povo. <a href="https://www.gazetadopovo.com.br/economia/motta-salario-duplo-parlamentares-aposentados-exercicio/">Motta quer salário duplo a parlamentares aposentados em exercício</a>. (2025).</div>
 </div>
 <div id="ref-source35" class="csl-entry">
-<div class="csl-left-margin">29. </div><div class="csl-right-inline">Povo, G. do. <a href="https://www.gazetadopovo.com.br/vozes/marcel-van-hattem/hugo-motta-brasil-tem-jornais-censurados-cidadaos-perseguidos-exilados-politicos/">Hugo motta, o brasil tem, sim, censura e cidadãos perseguidos</a>. (2025).</div>
+<div class="csl-left-margin">29. </div><div class="csl-right-inline">Gazeta do Povo. <a href="https://www.gazetadopovo.com.br/vozes/marcel-van-hattem/hugo-motta-brasil-tem-jornais-censurados-cidadaos-perseguidos-exilados-politicos/"><span class="nocase">Hugo Motta, o Brasil tem, sim, censura e cidadãos perseguidos</span></a>. (2025).</div>
 </div>
 </div></section></div> ]]></description>
   <category>Hugo-Motta</category>
@@ -379,7 +379,7 @@ document.addEventListener("DOMContentLoaded", () => {
   <category>Democracia</category>
   <guid>https://skepvox.com/blog/dinastia-motta/</guid>
   <pubDate>Sun, 01 Jun 2025 03:00:00 GMT</pubDate>
-  <media:content url="https://skepvox.com/blog/dinastia-motta/hugo-motta-propina.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://skepvox.com/blog/dinastia-motta/hugo-motta-propina-8-bit.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 </channel>
 </rss>

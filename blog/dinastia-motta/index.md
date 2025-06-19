@@ -4,8 +4,8 @@ author: "SkepVox"
 date: "2025-06-01"
 categories: [Hugo-Motta, Dinastia Poítica, Oligarquia, Corrupção, Democracia]
 bibliography: referencias.bib
-image: hugo-motta-propina.jpg
-csl: nature.csl
+image: hugo-motta-propina-8-bit.png
+csl: nature-skepvox.csl
 format: html
 description: |
     A eleição de Hugo Motta para a presidência da Câmara dos Deputados em fevereiro de 2025 representa mais do que a ascensão de um jovem político ao poder. Aos 35 anos, Motta tornou-se o mais jovem presidente da Casa desde a redemocratização, mas sua trajetória revela os vícios estruturais da política brasileira: o nepotismo, o clientelismo e a perpetuação de dinastias familiares que corroem as instituições democráticas. Este artigo argumenta que a precocidade de Hugo Motta não representa renovação política, mas sim a continuidade de práticas oligárquicas que prejudicam tanto a democracia nacional quanto o desenvolvimento do povo paraibano.
@@ -175,8 +175,8 @@ document.addEventListener("DOMContentLoaded", () => {
                   <strong>${data.title}</strong><br>
                   <p>${data.description}</p>
                   <div style="margin-top: 0.5rem;">
-                    <a href="#" class="close-preview">✖ Close</a> &nbsp;|&nbsp;
-                    <a href="${data.url}" target="_blank" class="open-preview">↗ Open full page</a>
+                    <a href="#" class="close-preview">✖ Fechar</a> &nbsp;|&nbsp;
+                    <a href="${data.url}" target="_blank" class="open-preview">↗ Ir para Página</a>
                   </div>
                 </div>
               </div>

@@ -5,7 +5,7 @@ project:
 website:
   title: "SkepVox"
   site-url: "https://skepvox.com"
-  favicon: ./assets/skep-vox.png
+  favicon: ./assets/skep-vox-favicon.png
   twitter-card: true
   
   # sidebar:
@@ -14,7 +14,7 @@ website:
 
   navbar:
     pinned: true
-    logo: ./assets/skep-vox.png
+    logo: ./assets/skep-vox-logo.png
     background: '#093145'
     left:
       - href: index.qmd
