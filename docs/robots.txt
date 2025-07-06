@@ -1,1 +1,200 @@
+# robots.txt — Seguro e otimizado para SEO e performance
+# Permite bots legítimos e bloqueia bots maliciosos/conhecidos
+
+# === BOTS LEGÍTIMOS PERMITIDOS ===
+
+# Google
+User-agent: Googlebot
+User-agent: Googlebot-Image
+User-agent: Googlebot-Mobile
+User-agent: Googlebot-Video
+Disallow:
+Crawl-delay: 0
+
+# Bing / MSN
+User-agent: Bingbot
+User-agent: MSNBot
+Disallow:
+Crawl-delay: 1
+
+# Outros buscadores confiáveis
+User-agent: Slurp           # Yahoo
+User-agent: DuckDuckBot     # DuckDuckGo
+User-agent: Baiduspider     # Baidu
+User-agent: YandexBot       # Yandex
+Disallow:
+Crawl-delay: 1
+
+# === BOTS BLOQUEADOS (Scrapers, spam, mineração etc.) ===
+
+User-agent: MJ12bot
+User-agent: AhrefsBot
+User-agent: SemrushBot
+User-agent: DotBot
+User-agent: MauiBot
+User-agent: EmailCollector
+User-agent: EmailSiphon
+User-agent: EmailWolf
+User-agent: WebZIP
+User-agent: WebCopier
+User-agent: Offline Explorer
+User-agent: HTTrack
+User-agent: ia_archiver
+User-agent: Alexibot
+User-agent: Aqua_Products
+User-agent: asterias
+User-agent: b2w/0.1
+User-agent: BackDoorBot
+User-agent: Black Hole
+User-agent: BlowFish
+User-agent: BotALot
+User-agent: BuiltBotTough
+User-agent: Bullseye
+User-agent: BunnySlippers
+User-agent: Cegbfeieh
+User-agent: CheeseBot
+User-agent: CherryPicker
+User-agent: CopyRightCheck
+User-agent: cosmos
+User-agent: Crescent
+User-agent: DittoSpyder
+User-agent: EroCrawler
+User-agent: ExtractorPro
+User-agent: Foobot
+User-agent: Harvest
+User-agent: hloader
+User-agent: httplib
+User-agent: humanlinks
+User-agent: InfoNaviRobot
+User-agent: JennyBot
+User-agent: k2spider
+User-agent: Kenjin Spider
+User-agent: Keyword Density/0.9
+User-agent: larbin
+User-agent: LexiBot
+User-agent: libWeb/clsHTTP
+User-agent: LinkextractorPro
+User-agent: LinkScan/8.1a Unix
+User-agent: LinkWalker
+User-agent: LNSpiderguy
+User-agent: lwp-trivial
+User-agent: magpie-crawler
+User-agent: Mata Hari
+User-agent: Microsoft URL Control
+User-agent: MIIxpc
+User-agent: Mister PiX
+User-agent: moget
+User-agent: Mon Ami
+User-agent: MovableType
+User-agent: NetAnts
+User-agent: NetMechanic
+User-agent: NetSpider
+User-agent: NICErsPRO
+User-agent: Openfind
+User-agent: ProPowerBot/2.14
+User-agent: ProWebWalker
+User-agent: Python-urllib
+User-agent: QueryN Metasearch
+User-agent: RepoMonkey
+User-agent: RMA
+User-agent: SiteSnagger
+User-agent: SpankBot
+User-agent: spanner
+User-agent: suzuran
+User-agent: Szukacz/1.4
+User-agent: Teleport
+User-agent: TeleportPro
+User-agent: Telesoft
+User-agent: The Intraformant
+User-agent: TheNomad
+User-agent: TightTwatBot
+User-agent: Titan
+User-agent: True_Robot
+User-agent: turingos
+User-agent: TurnitinBot
+User-agent: URLy Warning
+User-agent: VCI
+User-agent: WebAuto
+User-agent: WebBandit
+User-agent: WebEnhancer
+User-agent: WebmasterWorldForumBot
+User-agent: WebReaper
+User-agent: WebSauger
+User-agent: Website Quester
+User-agent: Webster Pro
+User-agent: WebStripper
+User-agent: WebZip
+User-agent: Wget
+User-agent: Widow
+User-agent: WWWOFFLE
+User-agent: Xenu's
+User-agent: Zeus
+User-agent: ZyBORG
+Disallow: /
+
+# === REGRAS GERAIS ===
+
+# Todos os outros bots
+User-agent: *
+Disallow:
+
+# Crawl-delay para evitar sobrecarga
+Crawl-delay: 2
+
+# Diretórios protegidos
+Disallow: /admin/
+Disallow: /backup/
+Disallow: /cgi-bin/
+Disallow: /config/
+Disallow: /database/
+Disallow: /downloads/
+Disallow: /error_log
+Disallow: /logs/
+Disallow: /private/
+Disallow: /scripts/
+Disallow: /stats/
+Disallow: /temp/
+Disallow: /tmp/
+Disallow: /_vti_bin/
+Disallow: /_vti_cnf/
+Disallow: /_vti_log/
+Disallow: /_vti_pvt/
+Disallow: /_vti_txt/
+
+# Bloqueio de arquivos sensíveis
+Disallow: /*.sql$
+Disallow: /*.sql.gz$
+Disallow: /*.log$
+Disallow: /*.sh$
+Disallow: /*.env$
+Disallow: /*.yml$
+Disallow: /*.yaml$
+Disallow: /*.ini$
+Disallow: /*.conf$
+Disallow: /*.config$
+Disallow: /*.bak$
+Disallow: /*.backup$
+Disallow: /*.old$
+Disallow: /*.save$
+Disallow: /*.swp$
+Disallow: /*.swo$
+Disallow: /*~$
+Disallow: /*.tmp$
+
+# Permitir recursos necessários para renderização
+Allow: /assets/css/
+Allow: /assets/js/
+Allow: /assets/images/
+Allow: /*.css$
+Allow: /*.js$
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.png$
+Allow: /*.gif$
+Allow: /*.svg$
+Allow: /*.webp$
+Allow: /*.woff$
+Allow: /*.woff2$
+
+# Sitemap
 Sitemap: https://skepvox.com/sitemap.xml
