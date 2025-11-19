@@ -13,18 +13,17 @@ onMounted(load)
   <section id="hero">
     <img id="uwu" alt="Vue.js Kawaii Logo by @icarusgkx" />
     <h1 class="tagline">
-      The
-      <span class="accent">Progressive</span>
-      <br />JavaScript Framework
+      
+      <span class="accent">Skepvox</span>
+      <br />ENEM, Matemática & Filosofia
     </h1>
     <p class="description">
-      An approachable, performant and versatile framework for building web
-      user interfaces.
+      Conteúdo para Estudantes, Leitores e Filósofos
     </p>
     <p class="actions">
       <VueMasteryModal />
       <a class="get-started" href="/guide/introduction.html">
-        Get Started
+        Iniciar
         <svg
           class="icon"
           xmlns="http://www.w3.org/2000/svg"
@@ -37,9 +36,9 @@ onMounted(load)
           />
         </svg>
       </a>
-      <a class="setup" href="/guide/quick-start.html">Install</a>
-      <a class="security" href="https://v2.vuejs.org/eol/" target="_blank">
-        Get Security Updates for Vue 2
+      <a class="setup" href="/guide/quick-start.html">Explorar Conteúdo</a>
+      <a class="security" href="/about/" target="_blank">
+        Sobre o Projeto
         <svg
           class="icon"
           xmlns="http://www.w3.org/2000/svg"

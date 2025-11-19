@@ -17,134 +17,160 @@ import {
 
 const nav: ThemeConfig['nav'] = [
   {
-    text: 'Docs',
-    activeMatch: `^/(guide|style-guide|cookbook|examples)/`,
-    items: [
-      { text: 'Guide', link: '/guide/introduction' },
-      { text: 'Tutorial', link: '/tutorial/' },
-      { text: 'Examples', link: '/examples/' },
-      { text: 'Quick Start', link: '/guide/quick-start' },
-      // { text: 'Style Guide', link: '/style-guide/' },
-      { text: 'Glossary', link: '/glossary/' },
-      { text: 'Error Reference', link: '/error-reference/' },
-      {
-        text: 'Vue 2 Docs',
-        link: 'https://v2.vuejs.org'
-      },
-      {
-        text: 'Migration from Vue 2',
-        link: 'https://v3-migration.vuejs.org/'
-      }
-    ]
+    text: 'Home',
+    link: '/'
   },
   {
-    text: 'API',
-    activeMatch: `^/api/`,
-    link: '/api/'
+    text: 'Enem',
+    activeMatch: `^/enem/`,
+    link: '/enem/'
   },
   {
-    text: 'Playground',
-    link: 'https://play.vuejs.org'
+    text: 'Literatura',
+    activeMatch: '^/literatura/',
+    link: '/literatura/'
   },
   {
-    text: 'Ecosystem',
-    activeMatch: `^/ecosystem/`,
-    items: [
-      {
-        text: 'Resources',
-        items: [
-          { text: 'Partners', link: '/partners/' },
-          { text: 'Themes', link: '/ecosystem/themes' },
-          { text: 'UI Components', link: 'https://ui-libs.vercel.app/' },
-          {
-            text: 'Plugins Collection',
-            link: 'https://www.vue-plugins.org/'
-          },
-          {
-            text: 'Certification',
-            link: 'https://certificates.dev/vuejs/?ref=vuejs-nav'
-          },
-          { text: 'Jobs', link: 'https://vuejobs.com/?ref=vuejs' },
-          { text: 'T-Shirt Shop', link: 'https://vue.threadless.com/' }
-        ]
-      },
-      {
-        text: 'Official Libraries',
-        items: [
-          { text: 'Vue Router', link: 'https://router.vuejs.org/' },
-          { text: 'Pinia', link: 'https://pinia.vuejs.org/' },
-          { text: 'Tooling Guide', link: '/guide/scaling-up/tooling.html' }
-        ]
-      },
-      {
-        text: 'Video Courses',
-        items: [
-          {
-            text: 'Vue Mastery',
-            link: 'https://www.vuemastery.com/courses/'
-          },
-          {
-            text: 'Vue School',
-            link: 'https://vueschool.io/?friend=vuejs&utm_source=Vuejs.org&utm_medium=Link&utm_content=Navbar%20Dropdown'
-          }
-        ]
-      },
-      {
-        text: 'Help',
-        items: [
-          {
-            text: 'Discord Chat',
-            link: 'https://discord.com/invite/HBherRA'
-          },
-          {
-            text: 'GitHub Discussions',
-            link: 'https://github.com/vuejs/core/discussions'
-          },
-          { text: 'DEV Community', link: 'https://dev.to/t/vue' }
-        ]
-      },
-      {
-        text: 'News',
-        items: [
-          { text: 'Blog', link: 'https://blog.vuejs.org/' },
-          { text: 'Twitter', link: 'https://x.com/vuejs' },
-          { text: 'Events', link: 'https://events.vuejs.org/' },
-          { text: 'Newsletters', link: '/ecosystem/newsletters' }
-        ]
-      }
-    ]
+    text: 'Latim',
+    activeMatch: `^/latim/`,
+    link: '/latim/',
   },
   {
-    text: 'About',
+    text: 'Filosofia',
+    activeMatch: `^/filosofia/`,
+    link: '/filosofia/'
+  },
+  {
+    text: 'Blog',
+    activeMatch: `^/blog/`,
+    link: '/blog/'
+  },
+  {
+    text: 'Sobre',
     activeMatch: `^/about/`,
-    items: [
-      { text: 'FAQ', link: '/about/faq' },
-      { text: 'Team', link: '/about/team' },
-      { text: 'Releases', link: '/about/releases' },
-      {
-        text: 'Community Guide',
-        link: '/about/community-guide'
-      },
-      { text: 'Code of Conduct', link: '/about/coc' },
-      { text: 'Privacy Policy', link: '/about/privacy' },
-      {
-        text: 'The Documentary',
-        link: 'https://www.youtube.com/watch?v=OrxmtDw4pVI'
-      }
-    ]
-  },
-  {
-    text: 'Sponsor',
-    link: '/sponsor/'
-  },
-  {
-    text: 'Partners',
-    activeMatch: `^/partners/`,
-    link: '/partners/'
+    link: '/about/faq'
   }
 ]
 
 export const sidebar: ThemeConfig['sidebar'] = {
+  '/enem/': [
+    {
+      text: 'Matemática',
+      items: [
+        { text: 'Visão geral', link: '/enem/matematica/' },
+        { text: '2025', link: '/enem/matematica/2025/' },
+        { text: '2024', link: '/enem/matematica/2024/' },
+        { text: '2023', link: '/enem/matematica/2023/' },
+        { text: '2022', link: '/enem/matematica/2022/' }
+      ]
+    },
+    {
+      text: 'Física',
+      items: [
+        { text: 'Visão geral', link: '/enem/fisica/' },
+        { text: '2025', link: '/enem/fisica/2025/' },
+        { text: '2024', link: '/enem/fisica/2024/' },
+        { text: '2023', link: '/enem/fisica/2023/' }
+      ]
+    },
+    {
+      text: 'Química',
+      items: [
+        { text: 'Visão geral', link: '/enem/quimica/' },
+        { text: '2025', link: '/enem/quimica/2025/' },
+        { text: '2024', link: '/enem/quimica/2024/' }
+      ]
+    },
+    {
+      text: 'Biologia',
+      items: [
+        { text: 'Visão geral', link: '/enem/biologia/' },
+        { text: '2025', link: '/enem/biologia/2025/' }
+      ]
+    },
+    {
+      text: 'História',
+      items: [
+        { text: 'Visão geral', link: '/enem/historia/' },
+        { text: '2025', link: '/enem/historia/2025/' }
+      ]
+    },
+    {
+      text: 'Geografia',
+      items: [
+        { text: 'Visão geral', link: '/enem/geografia/' },
+        { text: '2025', link: '/enem/geografia/2025/' }
+      ]
+    },
+    {
+      text: 'Língua Portuguesa',
+      items: [
+        { text: 'Visão geral', link: '/enem/lingua-portuguesa/' },
+        { text: '2025', link: '/enem/lingua-portuguesa/2025/' }
+      ]
+    },
+    {
+      text: 'Inglês',
+      items: [
+        { text: 'Visão geral', link: '/enem/ingles/' },
+        { text: '2025', link: '/enem/ingles/2025/' }
+      ]
+    }
+  ],
+
+  '/literatura/': [
+    {
+      text: 'Machado de Assis',
+      items: [
+        { text: 'Visão geral', link: '/literatura/machado-de-assis/' }
+        // depois: livros específicos
+      ]
+    },
+    {
+      text: 'Graciliano Ramos',
+      items: [
+        { text: 'Visão geral', link: '/literatura/graciliano-ramos/' }
+      ]
+    }
+  ],
+
+  '/filosofia/': [
+    {
+      text: 'Louis Lavelle',
+      items: [
+        { text: 'Visão geral', link: '/filosofia/louis-lavelle/' }
+        // depois: obras com FR ↔ PT
+      ]
+    }
+  ],
+
+  '/latim/': [
+    {
+      text: 'Conteúdo',
+      items: [
+        { text: 'Visão geral', link: '/latim/' }
+      ]
+    }
+  ],
+
+  '/blog/': [
+    {
+      text: 'Blog',
+      items: [
+        { text: 'Todos os posts', link: '/blog/' }
+      ]
+    }
+  ],
+
+  '/about/': [
+    {
+      text: 'Sobre o Skepvox',
+      items: [
+        { text: 'FAQ', link: '/about/faq' }
+      ]
+    }
+  ], 
+
   '/guide/': [
     {
       text: 'Getting Started',
@@ -589,25 +615,25 @@ export default defineConfigWithTheme<ThemeConfig>({
   extends: baseConfig,
 
   sitemap: {
-    hostname: 'https://vuejs.org'
+    hostname: 'https://skepvox.com'
   },
 
-  lang: 'en-US',
-  title: 'Vue.js',
-  description: 'Vue.js - The Progressive JavaScript Framework',
+  lang: 'pt-BR',
+  title: 'Skepvox',
+  description: 'Skepvox — ENEM, Matemática, Filosofia & Reflexões',
   srcDir: 'src',
   srcExclude: ['tutorial/**/description.md'],
 
   head: [
     ['meta', { name: 'theme-color', content: '#3c8772' }],
-    ['meta', { property: 'og:url', content: 'https://vuejs.org/' }],
+    ['meta', { property: 'og:url', content: 'https://skepvox.com/' }],
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:title', content: 'Vue.js' }],
+    ['meta', { property: 'og:title', content: 'Skepvox' }],
     [
       'meta',
       {
         property: 'og:description',
-        content: 'Vue.js - The Progressive JavaScript Framework'
+        content: 'Skepvox — ENEM, Matemática, Filosofia & Reflexões'
       }
     ],
     [
