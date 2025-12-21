@@ -1,3 +1,4 @@
+import './ssr-shim'
 import './styles/index.css'
 import { h, App } from 'vue'
 import { VPTheme } from '@vue/theme'
