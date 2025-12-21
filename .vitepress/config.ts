@@ -24,15 +24,18 @@ const nav: ThemeConfig['nav'] = [
     text: 'Literatura',
     activeMatch: '^/literatura/',
     items: [
-      { text: 'Machado de Assis', link: '/literatura/machado-de-assis/' },
-      { text: 'Graciliano Ramos', link: '/literatura/graciliano-ramos/' },
+      { text: 'Machado de Assis', link: '/literatura/machado-de-assis/bras-cubas' },
+      { text: 'Graciliano Ramos', link: '/literatura/graciliano-ramos/sao-bernardo' },
+      { text: 'Raul Pompeia', link: '/literatura/raul-pompeia/o-ateneu' },
     ]
   },
   {
     text: 'Filosofia',
     activeMatch: `^/filosofia/`,
     items: [
-      { text: 'Louis Lavelle', link: '/filosofia/louis-lavelle/' },
+      { text: 'Platão', link: '/filosofia/plato/the-republic' },
+      { text: 'Santo Agostinho', link: '/filosofia/augustine/confissoes' },
+      { text: 'Louis Lavelle', link: '/filosofia/louis-lavelle/de-l-etre' },
     ]
   },
 ]
@@ -40,26 +43,59 @@ const nav: ThemeConfig['nav'] = [
 export const sidebar: ThemeConfig['sidebar'] = {
   '/literatura/': [
     {
-      text: 'Machado de Assis',
+      text: 'Machado de Assis', 
       items: [
-        { text: 'Visão geral', link: '/literatura/machado-de-assis/' }
+        // { text: 'Visão geral', link: '/literatura/machado-de-assis/' },
+        { text: 'Memórias Póstumas de Brás Cubas', link: '/literatura/machado-de-assis/bras-cubas' },
+        { text: 'Quincas Borba', link: '/literatura/machado-de-assis/quincas-borba' },
+        { text: 'Dom Casmurro', link: '/literatura/machado-de-assis/dom-casmurro' },
+        { text: 'Esaú e Jacó', link: '/literatura/machado-de-assis/esau-e-jaco' },
+        { text: 'O Alienista', link: '/literatura/machado-de-assis/o-alienista' },
+        { text: 'A Cartomante', link: '/literatura/machado-de-assis/a-cartomante' },
         // depois: livros específicos
       ]
     },
     {
       text: 'Graciliano Ramos',
       items: [
-        { text: 'Visão geral', link: '/literatura/graciliano-ramos/' }
+        // { text: 'Visão geral', link: '/literatura/graciliano-ramos/' },
+        { text: 'São Bernardo', link: '/literatura/graciliano-ramos/sao-bernardo' },
+        { text: 'Angústia', link: '/literatura/graciliano-ramos/angustia' },
+        { text: 'Vidas Secas', link: '/literatura/graciliano-ramos/vidas-secas' },
       ]
-    }
+    },
+    {
+      text: 'Raul Pompeia', 
+      items: [
+        // { text: 'Visão geral', link: '/literatura/machado-de-assis/' },
+        { text: 'O Ateneu', link: '/literatura/raul-pompeia/o-ateneu' },
+        // depois: livros específicos
+      ]
+    },
   ],
 
   '/filosofia/': [
     {
+      text: 'Platão',
+      items: [
+        // { text: 'Visão geral', link: '/filosofia/louis-lavelle/' },
+        { text: "A República", link: '/filosofia/plato/the-republic' },
+      ]
+    },
+    {
+      text: 'Santo Agostinho',
+      items: [
+        // { text: 'Visão geral', link: '/filosofia/louis-lavelle/' },
+        { text: "Confissões", link: '/filosofia/augustine/confissoes' },
+      ]
+    },
+    {
       text: 'Louis Lavelle',
       items: [
-        { text: 'Visão geral', link: '/filosofia/louis-lavelle/' },
-        { text: "L'Erreur de Narcisse", link: '/filosofia/louis-lavelle/l-erreur-de-narcisse' }
+        // { text: 'Visão geral', link: '/filosofia/louis-lavelle/' },
+        { text: "De l'Être", link: '/filosofia/louis-lavelle/de-l-etre' },
+        { text: "L'Erreur de Narcisse", link: '/filosofia/louis-lavelle/l-erreur-de-narcisse' },
+        { text: "Quatre Saints", link: '/filosofia/louis-lavelle/quatre-saints' },
       ]
     }
   ],
