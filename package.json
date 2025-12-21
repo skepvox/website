@@ -1,6 +1,6 @@
 {
   "engines": {
-    "node": ">=18.0.0"
+    "node": "22.x"
   },
   "type": "module",
   "scripts": {
@@ -27,5 +27,5 @@
     "vitepress-plugin-llms": "^0.0.8",
     "vue-tsc": "^2.1.6"
   },
-  "packageManager": "pnpm@9.12.1"
+  "packageManager": "pnpm@10.13.1"
 }
