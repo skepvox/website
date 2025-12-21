@@ -13,6 +13,7 @@ import VueSchoolLink from './components/VueSchoolLink.vue'
 import ScrimbaLink from './components/ScrimbaLink.vue'
 // import Banner from './components/Banner.vue'
 // import TextAd from './components/TextAd.vue'
+import NavBarTitleSkepvox from './components/NavBarTitleSkepvox.vue'
 
 import 'vitepress/dist/client/theme-default/styles/components/vp-code-group.css'
 import 'virtual:group-icons.css'
@@ -22,6 +23,7 @@ export default Object.assign({}, VPTheme, {
     // @ts-ignore
     return h(VPTheme.Layout, null, {
       // banner: () => h(Banner),
+      'navbar-title': () => h(NavBarTitleSkepvox),
       'sidebar-top': () => h(PreferenceSwitch),
       'sidebar-bottom': () => h(SecurityUpdateBtn),
       'aside-mid': () => h(SponsorsAside)

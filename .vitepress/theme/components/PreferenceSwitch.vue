@@ -12,9 +12,9 @@ import PreferenceTooltip from './PreferenceTooltip.vue'
 
 const route = useRoute()
 const show = computed(() =>
-  /^\/(guide|tutorial|examples|style-guide)\//.test(route.path)
+  /^\/(guide|tutorial|examples|style-guide|filosofia)\//.test(route.path)
 )
-const showSFC = computed(() => !/^\/guide|style-guide/.test(route.path))
+const showSFC = computed(() => !/^\/guide|style-guide|filosofia/.test(route.path))
 
 let isOpen = ref(true)
 
@@ -69,13 +69,13 @@ function useToggleFn(
       @mousedown="removeOutline"
       @blur="restoreOutline"
     >
-      <span>API Preference</span>
+      <span>Edição</span>
       <VTIconChevronDown class="vt-link-icon" :class="{ open: isOpen }" />
     </button>
     <div id="preference-switches" :hidden="!isOpen" :aria-hidden="!isOpen">
       <div class="switch-container">
         <label class="options-label" @click="toggleCompositionAPI(false)"
-          >Options</label
+          >Original</label
         >
         <VTSwitch
           class="api-switch"
@@ -86,7 +86,7 @@ function useToggleFn(
         <label
           class="composition-label"
           @click="toggleCompositionAPI(true)"
-          >Composition</label
+          >Português</label
         >
         <a
           class="switch-link"

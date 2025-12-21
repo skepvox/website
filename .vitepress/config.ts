@@ -17,134 +17,62 @@ import {
 
 const nav: ThemeConfig['nav'] = [
   {
-    text: 'Docs',
-    activeMatch: `^/(guide|style-guide|cookbook|examples)/`,
+    text: 'Home',
+    link: '/'
+  },
+  {
+    text: 'Literatura',
+    activeMatch: '^/literatura/',
     items: [
-      { text: 'Guide', link: '/guide/introduction' },
-      { text: 'Tutorial', link: '/tutorial/' },
-      { text: 'Examples', link: '/examples/' },
-      { text: 'Quick Start', link: '/guide/quick-start' },
-      // { text: 'Style Guide', link: '/style-guide/' },
-      { text: 'Glossary', link: '/glossary/' },
-      { text: 'Error Reference', link: '/error-reference/' },
-      {
-        text: 'Vue 2 Docs',
-        link: 'https://v2.vuejs.org'
-      },
-      {
-        text: 'Migration from Vue 2',
-        link: 'https://v3-migration.vuejs.org/'
-      }
+      { text: 'Machado de Assis', link: '/literatura/machado-de-assis/' },
+      { text: 'Graciliano Ramos', link: '/literatura/graciliano-ramos/' },
     ]
   },
   {
-    text: 'API',
-    activeMatch: `^/api/`,
-    link: '/api/'
-  },
-  {
-    text: 'Playground',
-    link: 'https://play.vuejs.org'
-  },
-  {
-    text: 'Ecosystem',
-    activeMatch: `^/ecosystem/`,
+    text: 'Filosofia',
+    activeMatch: `^/filosofia/`,
     items: [
-      {
-        text: 'Resources',
-        items: [
-          { text: 'Partners', link: '/partners/' },
-          { text: 'Themes', link: '/ecosystem/themes' },
-          { text: 'UI Components', link: 'https://ui-libs.vercel.app/' },
-          {
-            text: 'Plugins Collection',
-            link: 'https://www.vue-plugins.org/'
-          },
-          {
-            text: 'Certification',
-            link: 'https://certificates.dev/vuejs/?ref=vuejs-nav'
-          },
-          { text: 'Jobs', link: 'https://vuejobs.com/?ref=vuejs' },
-          { text: 'T-Shirt Shop', link: 'https://vue.threadless.com/' }
-        ]
-      },
-      {
-        text: 'Official Libraries',
-        items: [
-          { text: 'Vue Router', link: 'https://router.vuejs.org/' },
-          { text: 'Pinia', link: 'https://pinia.vuejs.org/' },
-          { text: 'Tooling Guide', link: '/guide/scaling-up/tooling.html' }
-        ]
-      },
-      {
-        text: 'Video Courses',
-        items: [
-          {
-            text: 'Vue Mastery',
-            link: 'https://www.vuemastery.com/courses/'
-          },
-          {
-            text: 'Vue School',
-            link: 'https://vueschool.io/?friend=vuejs&utm_source=Vuejs.org&utm_medium=Link&utm_content=Navbar%20Dropdown'
-          }
-        ]
-      },
-      {
-        text: 'Help',
-        items: [
-          {
-            text: 'Discord Chat',
-            link: 'https://discord.com/invite/HBherRA'
-          },
-          {
-            text: 'GitHub Discussions',
-            link: 'https://github.com/vuejs/core/discussions'
-          },
-          { text: 'DEV Community', link: 'https://dev.to/t/vue' }
-        ]
-      },
-      {
-        text: 'News',
-        items: [
-          { text: 'Blog', link: 'https://blog.vuejs.org/' },
-          { text: 'Twitter', link: 'https://x.com/vuejs' },
-          { text: 'Events', link: 'https://events.vuejs.org/' },
-          { text: 'Newsletters', link: '/ecosystem/newsletters' }
-        ]
-      }
+      { text: 'Louis Lavelle', link: '/filosofia/louis-lavelle/' },
     ]
   },
-  {
-    text: 'About',
-    activeMatch: `^/about/`,
-    items: [
-      { text: 'FAQ', link: '/about/faq' },
-      { text: 'Team', link: '/about/team' },
-      { text: 'Releases', link: '/about/releases' },
-      {
-        text: 'Community Guide',
-        link: '/about/community-guide'
-      },
-      { text: 'Code of Conduct', link: '/about/coc' },
-      { text: 'Privacy Policy', link: '/about/privacy' },
-      {
-        text: 'The Documentary',
-        link: 'https://www.youtube.com/watch?v=OrxmtDw4pVI'
-      }
-    ]
-  },
-  {
-    text: 'Sponsor',
-    link: '/sponsor/'
-  },
-  {
-    text: 'Partners',
-    activeMatch: `^/partners/`,
-    link: '/partners/'
-  }
 ]
 
 export const sidebar: ThemeConfig['sidebar'] = {
+  '/literatura/': [
+    {
+      text: 'Machado de Assis',
+      items: [
+        { text: 'Visão geral', link: '/literatura/machado-de-assis/' }
+        // depois: livros específicos
+      ]
+    },
+    {
+      text: 'Graciliano Ramos',
+      items: [
+        { text: 'Visão geral', link: '/literatura/graciliano-ramos/' }
+      ]
+    }
+  ],
+
+  '/filosofia/': [
+    {
+      text: 'Louis Lavelle',
+      items: [
+        { text: 'Visão geral', link: '/filosofia/louis-lavelle/' },
+        { text: "L'Erreur de Narcisse", link: '/filosofia/louis-lavelle/l-erreur-de-narcisse' }
+      ]
+    }
+  ],
+
+  '/about/': [
+    {
+      text: 'Sobre o Skepvox',
+      items: [
+        { text: 'FAQ', link: '/about/faq' }
+      ]
+    }
+  ], 
+
   '/guide/': [
     {
       text: 'Getting Started',
@@ -570,9 +498,12 @@ export const sidebar: ThemeConfig['sidebar'] = {
   ]
 }
 
-// Placeholder of the i18n config for @vuejs-translations.
-// const i18n: ThemeConfig['i18n'] = {
-// }
+const i18n: ThemeConfig['i18n'] = {
+  menu: 'Navegar',          // label in the mobile nav
+  toc: 'Nesta página',   // "On this page"
+  returnToTop: 'Retornar ao início', // "Return to top"
+  appearance: 'Modo de leitura'
+}
 
 function inlineScript(file: string): HeadConfig {
   return [
@@ -589,35 +520,43 @@ export default defineConfigWithTheme<ThemeConfig>({
   extends: baseConfig,
 
   sitemap: {
-    hostname: 'https://vuejs.org'
+    hostname: 'https://skepvox.com'
   },
 
-  lang: 'en-US',
-  title: 'Vue.js',
-  description: 'Vue.js - The Progressive JavaScript Framework',
+  lang: 'pt-BR',
+  title: 'Skepvox — Engenharia de Letras',
+  description: 'Louis Lavelle, Literatura & Filosofia',
   srcDir: 'src',
   srcExclude: ['tutorial/**/description.md'],
 
   head: [
+    ['link', { rel: 'icon', type: 'image/png', href: '/logo.png' }],
     ['meta', { name: 'theme-color', content: '#3c8772' }],
-    ['meta', { property: 'og:url', content: 'https://vuejs.org/' }],
+    ['meta', { property: 'og:url', content: 'https://skepvox.com/' }],
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:title', content: 'Vue.js' }],
+    ['meta', { property: 'og:title', content: 'Skepvox — Engenharia de Letras' }],
     [
       'meta',
       {
         property: 'og:description',
-        content: 'Vue.js - The Progressive JavaScript Framework'
+        content: 'Louis Lavelle, Literatura & Filosofia'
       }
     ],
     [
       'meta',
       {
         property: 'og:image',
-        content: 'https://vuejs.org/images/logo.png'
+        content: 'https://skepvox.com/og-skepvox-square.png'
       }
     ],
-    ['meta', { name: 'twitter:site', content: '@vuejs' }],
+    [
+      'meta',
+      {
+        name: 'twitter:image',
+        content: 'https://skepvox.com/og-skepvox-square.png'
+      }
+    ],
+    ['meta', { name: 'twitter:site', content: '@skepvox' }],
     ['meta', { name: 'twitter:card', content: 'summary' }],
     [
       'link',
@@ -637,125 +576,52 @@ export default defineConfigWithTheme<ThemeConfig>({
         defer: ''
       }
     ],
-    [
-      'script',
-      {
-        src: 'https://media.bitterbrains.com/main.js?from=vuejs&type=top',
-        async: 'true'
-      }
-    ]
+    // This script is injecting the external banner at the top of the page
+    // [
+    //   'script',
+    //   {
+    //     src: 'https://media.bitterbrains.com/main.js?from=vuejs&type=top',
+    //     async: 'true'
+    //   }
+    // ]
   ],
 
   themeConfig: {
     nav,
     sidebar,
-    // Placeholder of the i18n config for @vuejs-translations.
-    // i18n,
+    i18n,
 
-    localeLinks: [
-      {
-        link: 'https://cn.vuejs.org',
-        text: '简体中文',
-        repo: 'https://github.com/vuejs-translations/docs-zh-cn'
-      },
-      {
-        link: 'https://ja.vuejs.org',
-        text: '日本語',
-        repo: 'https://github.com/vuejs-translations/docs-ja'
-      },
-      {
-        link: 'https://ua.vuejs.org',
-        text: 'Українська',
-        repo: 'https://github.com/vuejs-translations/docs-uk'
-      },
-      {
-        link: 'https://fr.vuejs.org',
-        text: 'Français',
-        repo: 'https://github.com/vuejs-translations/docs-fr'
-      },
-      {
-        link: 'https://ko.vuejs.org',
-        text: '한국어',
-        repo: 'https://github.com/vuejs-translations/docs-ko'
-      },
-      {
-        link: 'https://pt.vuejs.org',
-        text: 'Português',
-        repo: 'https://github.com/vuejs-translations/docs-pt'
-      },
-      {
-        link: 'https://bn.vuejs.org',
-        text: 'বাংলা',
-        repo: 'https://github.com/vuejs-translations/docs-bn'
-      },
-      {
-        link: 'https://it.vuejs.org',
-        text: 'Italiano',
-        repo: 'https://github.com/vuejs-translations/docs-it'
-      },
-      {
-        link: 'https://fa.vuejs.org',
-        text: 'فارسی',
-        repo: 'https://github.com/vuejs-translations/docs-fa'
-      },
-      {
-        link: 'https://ru.vuejs.org',
-        text: 'Русский',
-        repo: 'https://github.com/vuejs-translations/docs-ru'
-      },
-      {
-        link: 'https://cs.vuejs.org',
-        text: 'Čeština',
-        repo: 'https://github.com/vuejs-translations/docs-cs'
-      },
-      {
-        link: 'https://zh-hk.vuejs.org',
-        text: '繁體中文',
-        repo: 'https://github.com/vuejs-translations/docs-zh-hk'
-      },
-      {
-        link: 'https://pl.vuejs.org',
-        text: 'Polski',
-        repo: 'https://github.com/vuejs-translations/docs-pl'
-      },
-      {
-        link: '/translations/',
-        text: 'Help Us Translate!',
-        isTranslationsDesc: true
-      }
-    ],
+    // algolia: {
+    //   indexName: 'vuejs',
+    //   appId: 'ML0LEBN7FQ',
+    //   apiKey: '21cf9df0734770a2448a9da64a700c22',
+    //   searchParameters: {
+    //     facetFilters: ['version:v3']
+    //   }
+    // },
 
-    algolia: {
-      indexName: 'vuejs',
-      appId: 'ML0LEBN7FQ',
-      apiKey: '21cf9df0734770a2448a9da64a700c22',
-      searchParameters: {
-        facetFilters: ['version:v3']
-      }
-    },
-
-    carbonAds: {
-      code: 'CEBDT27Y',
-      placement: 'vuejsorg'
-    },
+    // carbonAds: {
+    //   code: 'CEBDT27Y',
+    //   placement: 'vuejsorg'
+    // },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/' },
-      { icon: 'twitter', link: 'https://x.com/vuejs' },
-      { icon: 'discord', link: 'https://discord.com/invite/vue' }
+      { icon: 'github', link: 'https://github.com/skepvox/' },
+      { icon: 'twitter', link: 'https://x.com/skepvox' },
+      { icon: 'facebook', link: 'https://instagram.com/skepvox' }
     ],
 
-    editLink: {
-      repo: 'vuejs/docs',
-      text: 'Edit this page on GitHub'
-    },
+    // editLink: {
+    //   repo: 'vuejs/docs',
+    //   text: 'Edit this page on GitHub'
+    // },
 
     footer: {
-      license: {
-        text: 'MIT License',
-        link: 'https://opensource.org/licenses/MIT'
-      },
-      copyright: `Copyright © 2014-${new Date().getFullYear()} Evan You`
+      // license: {
+      //   text: 'MIT License',
+      //   link: 'https://opensource.org/licenses/MIT'
+      // },
+      copyright: `${new Date().getFullYear()} © Thiago Oliveira`
     }
   },
 
@@ -804,14 +670,17 @@ export default defineConfigWithTheme<ThemeConfig>({
           'examples/**/*',
           'partners/**/*',
           'sponsor/**/*',
+          'enem/**/*',
+          'latim/**/*',
+          'blog/**/*',
           'index.md'
         ],
         customLLMsTxtTemplate: `\
-# Vue.js
+# Skepvox
 
-Vue.js - The Progressive JavaScript Framework
+Skepvox - Literatura & Filosofia
 
-## Table of Contents
+## Índice de Conteúdos
 
 {toc}`
       }) as Plugin,
