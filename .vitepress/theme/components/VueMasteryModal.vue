@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { ref, watch } from 'vue'
 
-const VIDEO_SOURCE = 'https://player.vimeo.com/video/647441538?autoplay=1'
+const VIDEO_SOURCE = 'https://www.youtube.com/embed/cVLpdzhcU0g?autoplay=1'
 const showWhyVue = ref(false)
 
 watch(
@@ -65,21 +65,14 @@ watch(
 
           <div class="vuemastery-modal-footer">
             <p class="vuemastery-modal-footer-text">
-              Quer saber mais? Leia
+              Jeffrey Brenzel: 
               <a
-                href="/about/faq"
+                href="https://www.youtube.com/watch?v=cVLpdzhcU0g"
                 target="_blank"
                 rel="sponsored noopener"
                 title="Sobre Skepvox"
               >
-                sobre o projeto.</a
-              > Conheça a coleção especial das obras de
-              <a
-                href="/about/faq"
-                rel="sponsored noopener"
-                title="Louis Lavelle"
-              >
-                Louis Lavelle.</a
+                The Essential Value of a Classic Education</a
               >
             </p>
           </div>

@@ -21,103 +21,23 @@ const nav: ThemeConfig['nav'] = [
     link: '/'
   },
   {
-    text: 'Enem',
-    activeMatch: `^/enem/`,
-    link: '/enem/'
-  },
-  {
     text: 'Literatura',
     activeMatch: '^/literatura/',
-    link: '/literatura/'
-  },
-  {
-    text: 'Latim',
-    activeMatch: `^/latim/`,
-    link: '/latim/',
+    items: [
+      { text: 'Machado de Assis', link: '/literatura/machado-de-assis/' },
+      { text: 'Graciliano Ramos', link: '/literatura/graciliano-ramos/' },
+    ]
   },
   {
     text: 'Filosofia',
     activeMatch: `^/filosofia/`,
-    link: '/filosofia/'
+    items: [
+      { text: 'Louis Lavelle', link: '/filosofia/louis-lavelle/' },
+    ]
   },
-  {
-    text: 'Blog',
-    activeMatch: `^/blog/`,
-    link: '/blog/'
-  },
-  {
-    text: 'Sobre',
-    activeMatch: `^/about/`,
-    link: '/about/faq'
-  }
 ]
 
 export const sidebar: ThemeConfig['sidebar'] = {
-  '/enem/': [
-    {
-      text: 'Matemática',
-      items: [
-        { text: 'Visão geral', link: '/enem/matematica/' },
-        { text: '2025', link: '/enem/matematica/2025/' },
-        { text: '2024', link: '/enem/matematica/2024/' },
-        { text: '2023', link: '/enem/matematica/2023/' },
-        { text: '2022', link: '/enem/matematica/2022/' }
-      ]
-    },
-    {
-      text: 'Física',
-      items: [
-        { text: 'Visão geral', link: '/enem/fisica/' },
-        { text: '2025', link: '/enem/fisica/2025/' },
-        { text: '2024', link: '/enem/fisica/2024/' },
-        { text: '2023', link: '/enem/fisica/2023/' }
-      ]
-    },
-    {
-      text: 'Química',
-      items: [
-        { text: 'Visão geral', link: '/enem/quimica/' },
-        { text: '2025', link: '/enem/quimica/2025/' },
-        { text: '2024', link: '/enem/quimica/2024/' }
-      ]
-    },
-    {
-      text: 'Biologia',
-      items: [
-        { text: 'Visão geral', link: '/enem/biologia/' },
-        { text: '2025', link: '/enem/biologia/2025/' }
-      ]
-    },
-    {
-      text: 'História',
-      items: [
-        { text: 'Visão geral', link: '/enem/historia/' },
-        { text: '2025', link: '/enem/historia/2025/' }
-      ]
-    },
-    {
-      text: 'Geografia',
-      items: [
-        { text: 'Visão geral', link: '/enem/geografia/' },
-        { text: '2025', link: '/enem/geografia/2025/' }
-      ]
-    },
-    {
-      text: 'Língua Portuguesa',
-      items: [
-        { text: 'Visão geral', link: '/enem/lingua-portuguesa/' },
-        { text: '2025', link: '/enem/lingua-portuguesa/2025/' }
-      ]
-    },
-    {
-      text: 'Inglês',
-      items: [
-        { text: 'Visão geral', link: '/enem/ingles/' },
-        { text: '2025', link: '/enem/ingles/2025/' }
-      ]
-    }
-  ],
-
   '/literatura/': [
     {
       text: 'Machado de Assis',
@@ -138,26 +58,8 @@ export const sidebar: ThemeConfig['sidebar'] = {
     {
       text: 'Louis Lavelle',
       items: [
-        { text: 'Visão geral', link: '/filosofia/louis-lavelle/' }
-        // depois: obras com FR ↔ PT
-      ]
-    }
-  ],
-
-  '/latim/': [
-    {
-      text: 'Conteúdo',
-      items: [
-        { text: 'Visão geral', link: '/latim/' }
-      ]
-    }
-  ],
-
-  '/blog/': [
-    {
-      text: 'Blog',
-      items: [
-        { text: 'Todos os posts', link: '/blog/' }
+        { text: 'Visão geral', link: '/filosofia/louis-lavelle/' },
+        { text: "L'Erreur de Narcisse", link: '/filosofia/louis-lavelle/l-erreur-de-narcisse' }
       ]
     }
   ],
@@ -596,9 +498,12 @@ export const sidebar: ThemeConfig['sidebar'] = {
   ]
 }
 
-// Placeholder of the i18n config for @vuejs-translations.
-// const i18n: ThemeConfig['i18n'] = {
-// }
+const i18n: ThemeConfig['i18n'] = {
+  menu: 'Navegar',          // label in the mobile nav
+  toc: 'Nesta página',   // "On this page"
+  returnToTop: 'Retornar ao início', // "Return to top"
+  appearance: 'Modo de leitura'
+}
 
 function inlineScript(file: string): HeadConfig {
   return [
@@ -619,31 +524,39 @@ export default defineConfigWithTheme<ThemeConfig>({
   },
 
   lang: 'pt-BR',
-  title: 'Skepvox',
-  description: 'Skepvox — ENEM, Matemática, Filosofia & Reflexões',
+  title: 'Skepvox — Engenharia de Letras',
+  description: 'Louis Lavelle, Literatura & Filosofia',
   srcDir: 'src',
   srcExclude: ['tutorial/**/description.md'],
 
   head: [
+    ['link', { rel: 'icon', type: 'image/png', href: '/logo.png' }],
     ['meta', { name: 'theme-color', content: '#3c8772' }],
     ['meta', { property: 'og:url', content: 'https://skepvox.com/' }],
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:title', content: 'Skepvox' }],
+    ['meta', { property: 'og:title', content: 'Skepvox — Engenharia de Letras' }],
     [
       'meta',
       {
         property: 'og:description',
-        content: 'Skepvox — ENEM, Matemática, Filosofia & Reflexões'
+        content: 'Louis Lavelle, Literatura & Filosofia'
       }
     ],
     [
       'meta',
       {
         property: 'og:image',
-        content: 'https://vuejs.org/images/logo.png'
+        content: 'https://skepvox.com/og-skepvox-square.png'
       }
     ],
-    ['meta', { name: 'twitter:site', content: '@vuejs' }],
+    [
+      'meta',
+      {
+        name: 'twitter:image',
+        content: 'https://skepvox.com/og-skepvox-square.png'
+      }
+    ],
+    ['meta', { name: 'twitter:site', content: '@skepvox' }],
     ['meta', { name: 'twitter:card', content: 'summary' }],
     [
       'link',
@@ -663,125 +576,52 @@ export default defineConfigWithTheme<ThemeConfig>({
         defer: ''
       }
     ],
-    [
-      'script',
-      {
-        src: 'https://media.bitterbrains.com/main.js?from=vuejs&type=top',
-        async: 'true'
-      }
-    ]
+    // This script is injecting the external banner at the top of the page
+    // [
+    //   'script',
+    //   {
+    //     src: 'https://media.bitterbrains.com/main.js?from=vuejs&type=top',
+    //     async: 'true'
+    //   }
+    // ]
   ],
 
   themeConfig: {
     nav,
     sidebar,
-    // Placeholder of the i18n config for @vuejs-translations.
-    // i18n,
+    i18n,
 
-    localeLinks: [
-      {
-        link: 'https://cn.vuejs.org',
-        text: '简体中文',
-        repo: 'https://github.com/vuejs-translations/docs-zh-cn'
-      },
-      {
-        link: 'https://ja.vuejs.org',
-        text: '日本語',
-        repo: 'https://github.com/vuejs-translations/docs-ja'
-      },
-      {
-        link: 'https://ua.vuejs.org',
-        text: 'Українська',
-        repo: 'https://github.com/vuejs-translations/docs-uk'
-      },
-      {
-        link: 'https://fr.vuejs.org',
-        text: 'Français',
-        repo: 'https://github.com/vuejs-translations/docs-fr'
-      },
-      {
-        link: 'https://ko.vuejs.org',
-        text: '한국어',
-        repo: 'https://github.com/vuejs-translations/docs-ko'
-      },
-      {
-        link: 'https://pt.vuejs.org',
-        text: 'Português',
-        repo: 'https://github.com/vuejs-translations/docs-pt'
-      },
-      {
-        link: 'https://bn.vuejs.org',
-        text: 'বাংলা',
-        repo: 'https://github.com/vuejs-translations/docs-bn'
-      },
-      {
-        link: 'https://it.vuejs.org',
-        text: 'Italiano',
-        repo: 'https://github.com/vuejs-translations/docs-it'
-      },
-      {
-        link: 'https://fa.vuejs.org',
-        text: 'فارسی',
-        repo: 'https://github.com/vuejs-translations/docs-fa'
-      },
-      {
-        link: 'https://ru.vuejs.org',
-        text: 'Русский',
-        repo: 'https://github.com/vuejs-translations/docs-ru'
-      },
-      {
-        link: 'https://cs.vuejs.org',
-        text: 'Čeština',
-        repo: 'https://github.com/vuejs-translations/docs-cs'
-      },
-      {
-        link: 'https://zh-hk.vuejs.org',
-        text: '繁體中文',
-        repo: 'https://github.com/vuejs-translations/docs-zh-hk'
-      },
-      {
-        link: 'https://pl.vuejs.org',
-        text: 'Polski',
-        repo: 'https://github.com/vuejs-translations/docs-pl'
-      },
-      {
-        link: '/translations/',
-        text: 'Help Us Translate!',
-        isTranslationsDesc: true
-      }
-    ],
+    // algolia: {
+    //   indexName: 'vuejs',
+    //   appId: 'ML0LEBN7FQ',
+    //   apiKey: '21cf9df0734770a2448a9da64a700c22',
+    //   searchParameters: {
+    //     facetFilters: ['version:v3']
+    //   }
+    // },
 
-    algolia: {
-      indexName: 'vuejs',
-      appId: 'ML0LEBN7FQ',
-      apiKey: '21cf9df0734770a2448a9da64a700c22',
-      searchParameters: {
-        facetFilters: ['version:v3']
-      }
-    },
-
-    carbonAds: {
-      code: 'CEBDT27Y',
-      placement: 'vuejsorg'
-    },
+    // carbonAds: {
+    //   code: 'CEBDT27Y',
+    //   placement: 'vuejsorg'
+    // },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/' },
-      { icon: 'twitter', link: 'https://x.com/vuejs' },
-      { icon: 'discord', link: 'https://discord.com/invite/vue' }
+      { icon: 'github', link: 'https://github.com/skepvox/' },
+      { icon: 'twitter', link: 'https://x.com/skepvox' },
+      { icon: 'facebook', link: 'https://instagram.com/skepvox' }
     ],
 
-    editLink: {
-      repo: 'vuejs/docs',
-      text: 'Edit this page on GitHub'
-    },
+    // editLink: {
+    //   repo: 'vuejs/docs',
+    //   text: 'Edit this page on GitHub'
+    // },
 
     footer: {
-      license: {
-        text: 'MIT License',
-        link: 'https://opensource.org/licenses/MIT'
-      },
-      copyright: `Copyright © 2014-${new Date().getFullYear()} Evan You`
+      // license: {
+      //   text: 'MIT License',
+      //   link: 'https://opensource.org/licenses/MIT'
+      // },
+      copyright: `${new Date().getFullYear()} © Thiago Oliveira`
     }
   },
 
@@ -830,14 +670,17 @@ export default defineConfigWithTheme<ThemeConfig>({
           'examples/**/*',
           'partners/**/*',
           'sponsor/**/*',
+          'enem/**/*',
+          'latim/**/*',
+          'blog/**/*',
           'index.md'
         ],
         customLLMsTxtTemplate: `\
-# Vue.js
+# Skepvox
 
-Vue.js - The Progressive JavaScript Framework
+Skepvox - Literatura & Filosofia
 
-## Table of Contents
+## Índice de Conteúdos
 
 {toc}`
       }) as Plugin,
