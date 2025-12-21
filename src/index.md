@@ -1,6 +1,6 @@
 ---
 page: true
-title: Vue.js - The Progressive JavaScript Framework
+title: Skepvox — Engenharia de Letras
 ---
 
 <script setup>

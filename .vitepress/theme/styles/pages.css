@@ -13,3 +13,13 @@
 .vt-doc.sponsor h3 .header-anchor {
   display: none;
 }
+
+ /* Hide the "Translations" card in the mobile nav sidebar */
+.VPNavBarLocaleScreen {
+  display: none !important;
+}
+
+/* Add back some space before the Appearance card */
+.VPNavScreenAppearance {
+  margin-top: 16px;
+}
