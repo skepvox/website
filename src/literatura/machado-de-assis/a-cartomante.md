@@ -7,23 +7,23 @@ outline: [2, 3]
 
 HAMLET observa a Horácio que há mais cousas no céu e na terra do que sonha a nossa filosofia. Era a mesma explicação que dava a bela Rita ao moço Camilo, numa sexta-feira de novembro de 1869, quando este ria dela, por ter ido na véspera consultar uma cartomante; a diferença é que o fazia por outras palavras.
 
-- Ria, ria. Os homens são assim; não acreditam em nada. Pois saiba que fui, e que ela adivinhou o motivo da consulta, antes mesmo que eu lhe dissesse o que era. Apenas começou a botar as cartas, disse-me: "A senhora gosta de uma pessoa..." Confessei que sim, e então ela continuou a botar as cartas, combinou-as, e no fim declarou-me que eu tinha medo de que você me esquecesse, mas que não era verdade...
+— Ria, ria. Os homens são assim; não acreditam em nada. Pois saiba que fui, e que ela adivinhou o motivo da consulta, antes mesmo que eu lhe dissesse o que era. Apenas começou a botar as cartas, disse-me: "A senhora gosta de uma pessoa..." Confessei que sim, e então ela continuou a botar as cartas, combinou-as, e no fim declarou-me que eu tinha medo de que você me esquecesse, mas que não era verdade...
 
-- Errou! interrompeu Camilo, rindo.
+— Errou! interrompeu Camilo, rindo.
 
-- Não diga isso, Camilo. Se você soubesse como eu tenho andado, por sua causa. Você sabe; já lhe disse. Não ria de mim, não ria...
+— Não diga isso, Camilo. Se você soubesse como eu tenho andado, por sua causa. Você sabe; já lhe disse. Não ria de mim, não ria...
 
 Camilo pegou-lhe nas mãos, e olhou para ela sério e fixo. Jurou que lhe queria muito, que os seus sustos pareciam de criança; em todo o caso, quando tivesse algum receio, a melhor cartomante era ele mesmo. Depois, repreendeu-a; disse-lhe que era imprudente andar por essas casas. Vilela podia sabê-lo, e depois...
 
-- Qual saber! tive muita cautela, ao entrar na casa.
+— Qual saber! tive muita cautela, ao entrar na casa.
 
-- Onde é a casa?
+— Onde é a casa?
 
-- Aqui perto, na Rua da Guarda Velha; não passava ninguém nessa ocasião. Descansa; eu não sou maluca.
+— Aqui perto, na Rua da Guarda Velha; não passava ninguém nessa ocasião. Descansa; eu não sou maluca.
 
 Camilo riu outra vez:
 
-- Tu crês deveras nessas cousas? perguntou-lhe.
+— Tu crês deveras nessas cousas? perguntou-lhe.
 
 Foi então que ela, sem saber que traduzia Hamlet em vulgar, disse-lhe que havia muita cousa misteriosa e verdadeira neste mundo. Se ele não acreditava, paciência; mas o certo é que a cartomante adivinhara tudo. Que mais? A prova é que ela agora estava tranquila e satisfeita.
 
@@ -33,7 +33,7 @@ Separaram-se contentes, ele ainda mais que ela. Rita estava certa de ser amada; 
 
 Vilela, Camilo e Rita, três nomes, uma aventura e nenhuma explicação das origens. Vamos a ela. Os dois primeiros eram amigos de infância. Vilela seguiu a carreira de magistrado. Camilo entrou no funcionalismo, contra a vontade do pai, que queria vê-lo médico; mas o pai morreu, e Camilo preferiu não ser nada, até que a mãe lhe arranjou um emprego público. No princípio de 1869, voltou Vilela da província, onde casara com uma dama formosa e tonta; abandonou a magistratura e veio abrir banca de advogado. Camilo arranjou-lhe casa para os lados de Botafogo, e foi a bordo recebê-lo.
 
-- É o senhor? exclamou Rita, estendendo-lhe a mão. Não imagina como meu marido é seu amigo, falava sempre do senhor.
+— É o senhor? exclamou Rita, estendendo-lhe a mão. Não imagina como meu marido é seu amigo, falava sempre do senhor.
 
 Camilo e Vilela olharam-se com ternura. Eram amigos deveras. Depois, Camilo confessou de si para si que a mulher do Vilela não desmentia as cartas do marido. Realmente, era graciosa e viva nos gestos, olhos cálidos, boca fina e interrogativa. Era um pouco mais velha que ambos: contava trinta anos, Vilela vinte e nove e Camilo vinte e seis. Entretanto, o porte grave de Vilela fazia-o parecer mais velho que a mulher, enquanto Camilo era um ingénuo na vida moral e prática. Faltava-lhe tanto a ação do tempo, como os óculos de cristal, que a natureza põe no berço de alguns para adiantar os anos. Nem experiência, nem intuição.
 
@@ -53,13 +53,13 @@ Nem por isso Camilo ficou mais sossegado; temia que o anónimo fosse ter com Vil
 
 era possível.
 
-- Bem, disse ela; eu levo os sobrescritos para comparar a letra com as das cartas que lá aparecerem; se alguma for igual, guardo-a e rasgo-a...
+— Bem, disse ela; eu levo os sobrescritos para comparar a letra com as das cartas que lá aparecerem; se alguma for igual, guardo-a e rasgo-a...
 
 Nenhuma apareceu; mas daí a algum tempo Vilela começou a mostrar-se sombrio, falando pouco, como desconfiado. Rita deu-se pressa em dizê-lo ao outro, e sobre isso deliberaram. A opinião dela é que Camilo devia tornar à casa deles, tatear o marido, e pode ser até que lhe ouvisse a confidência de algum negócio particular. Camilo divergia; aparecer depois de tantos meses era confirmar a suspeita ou denúncia. Mais valia acautelarem-se, sacrificando-se por algumas semanas. Combinaram os meios de se corresponderem, em caso de necessidade, e separaram-se com lágrimas.
 
 No dia seguinte, estando na repartição, recebeu Camilo este bilhete de Vilela: "Vem já, já, à nossa casa; preciso falar-te sem demora." Era mais de meio-dia. Camilo saiu logo; na rua, advertiu que teria sido mais natural chamá-lo ao escritório; por que em casa? Tudo indicava matéria especial, e a letra, fosse realidade ou ilusão, afigurou-se-lhe trémula. Ele combinou todas essas cousas com a notícia da véspera.
 
-- Vem já, já, à nossa casa; preciso falar-te sem demora, - repetia ele com os olhos no papel.
+— Vem já, já, à nossa casa; preciso falar-te sem demora, - repetia ele com os olhos no papel.
 
 Imaginariamente, viu a ponta da orelha de um drama, Rita subjugada e lacrimosa, Vilela indignado, pegando da pena e escrevendo o bilhete, certo de que ele acudiria, e esperando-o para matá-lo. Camilo estremeceu, tinha medo: depois sorriu amarelo, e em todo caso repugnava-lhe a ideia de recuar, e foi andando. De caminho, lembrou-se de ir a casa; podia achar algum recado de Rita, que lhe explicasse tudo. Não achou nada, nem ninguém. Voltou à rua, e a ideia de estarem descobertos parecia-lhe cada vez mais verossímil; era natural uma denúncia anónima, até da própria pessoa que o ameaçara antes; podia ser que Vilela conhecesse agora tudo. A mesma suspensão das suas visitas, sem motivo aparente, apenas com um pretexto fútil, viria confirmar o resto.
 
@@ -73,7 +73,7 @@ fim de cinco minutos, reparou que ao lado, à esquerda, ao pé do tílburi, fica
 
 Camilo reclinou-se no tílburi, para não ver nada. A agitação dele era grande, extraordinária, e do fundo das camadas morais emergiam alguns fantasmas de outro tempo, as velhas crenças, as superstições antigas. O cocheiro propôs-lhe voltar à primeira travessa, e ir por outro caminho: ele respondeu que não, que esperasse. E inclinava-se para fitar a casa... Depois fez um gesto incrédulo: era a ideia de ouvir a cartomante, que lhe passava ao longe, muito longe, com vastas asas cinzentas; desapareceu, reapareceu, e tornou a esvair-se no cérebro; mas daí a ponco moveu outra vez as asas, mais perto, fazendo uns giros concêntricos... Na rua, gritavam os homens, safando a carroça:
 
-- Anda! agora! empurra! vá! vá!
+— Anda! agora! empurra! vá! vá!
 
 Daí a pouco estaria removido o obstáculo. Camilo fechava os olhos, pensava em outras cousas: mas a voz do marido sussurrava-lhe a orelhas as palavras da carta: "Vem, já, já..." E ele via as contorções do drama e tremia. A casa olhava para ele. As pernas queriam descer e entrar. Camilo achou-se diante de um longo véu opaco... pensou rapidamente no inexplicável de tantas cousas. A voz da mãe repetia-lhe uma porção de casos extraordinários: e a mesma frase do príncipe de Dinamarca reboava-lhe dentro: "Há mais cousas no céu e na terra do que sonha a filosofia... " Que perdia ele, se...?
 
@@ -81,41 +81,41 @@ Deu por si na calçada, ao pé da porta: disse ao cocheiro que esperasse, e ráp
 
 A cartomante fê-lo sentar diante da mesa, e sentou-se do lado oposto, com as costas para a janela, de maneira que a pouca luz de fora batia em cheio no rosto de Camilo. Abriu uma gaveta e tirou um baralho de cartas compridas e enxovalhadas. Enquanto as baralhava, rapidamente, olhava para ele, não de rosto, mas por baixo dos olhos. Era uma mulher de quarenta anos, italiana, morena e magra, com grandes olhos sonsos e agudos. Voltou três cartas sobre a mesa, e disse-lhe:
 
-- Vejamos primeiro o que é que o traz aqui. O senhor tem um grande susto...
+— Vejamos primeiro o que é que o traz aqui. O senhor tem um grande susto...
 
 Camilo, maravilhado, fez um gesto afirmativo.
 
-- E quer saber, continuou ela, se lhe acontecerá alguma cousa ou não...
+— E quer saber, continuou ela, se lhe acontecerá alguma cousa ou não...
 
-- A mim e a ela, explicou vivamente ele.
+— A mim e a ela, explicou vivamente ele.
 
 A cartomante não sorriu: disse-lhe só que esperasse. Rápido pegou outra vez das cartas e baralhou-as, com os longos dedos finos, de unhas descuradas; baralhou-as bem, transpôs os maços, uma, duas. três vezes; depois começou a estendê-las. Camilo tinha os olhos nela curioso e ansioso.
 
-- As cartas dizem-me...
+— As cartas dizem-me...
 
 Camilo inclinou-se para beber uma a uma as palavras. Então ela declarou-lhe que não tivesse medo de nada. Nada aconteceria nem a um nem a outro; ele, o terceiro, ignorava tudo. Não obstante, era indispensável muita cautela: ferviam invejas e despeitos. Falou-lhe do amor que os ligava, da beleza de Rita... Camilo estava deslumbrado. A cartomante acabou, recolheu as cartas e fechou-as na gaveta.
 
-- A senhora restituiu-me a paz ao espírito, disse ele estendedo a mão por cima da mesa e apertando a da cartomante.
+— A senhora restituiu-me a paz ao espírito, disse ele estendedo a mão por cima da mesa e apertando a da cartomante.
 
 Esta levantou-se, rindo.
 
-- Vá, disse ela; vá, ragazzo innamorato...
+— Vá, disse ela; vá, ragazzo innamorato...
 
 E de pé, com o dedo indicador, tocou-lhe na testa. Camilo estremeceu, como se fosse a mão da própria sibila, e levantou-se também. A cartomante foi à cómoda, sobre a qual estava um prato com passas, tirou um cacho destas, começou a despencá-las e comê-las, mostrando duas fileiras de dentes que desmentiam as unhas. Nessa mesma ação comum, a mulher tinha um ar particular. Camilo, ansioso por sair, não sabia como pagasse; ignorava o preço.
 
-- Passas custam dinheiro, disse ele afinal, tirando a carteira. Quantas quer mandar buscar?
+— Passas custam dinheiro, disse ele afinal, tirando a carteira. Quantas quer mandar buscar?
 
-- Pergunte ao seu coração, respondeu ela.
+— Pergunte ao seu coração, respondeu ela.
 
 Camilo tirou uma nota de dez mil-réis, e deu-lha. Os olhos da cartomante fuzilaram. O preço usual era dois mil-réis.
 
-- Vejo bem que o senhor gosta muito dela... E faz bem; ela gosta muito do senhor. Vá, vá, tranquilo. Olhe a escada, é escura; ponha o chapéu...
+— Vejo bem que o senhor gosta muito dela... E faz bem; ela gosta muito do senhor. Vá, vá, tranquilo. Olhe a escada, é escura; ponha o chapéu...
 
 A cartomante tinha j á guardado a nota na algibeira, e descia com ele, falando, com um leve sotaque. Camilo despediu-se dela embaixo, e desceu a escada que levava à rua, enquanto a cartomante, alegre com a paga, tornava acima, cantarolando uma barcarola. Camilo achou o tílburi esperando; a rua estava livre. Entrou e seguiu a trote largo.
 
 Tudo lhe parecia agora melhor, as outras cousas traziam outro aspecto, o céu estava límpido e as caras joviais. Chegou a rir dos seus receios, que chamou pueris; recordou os termos da carta de Vilela e reconheceu que eram íntimos e familiares. Onde é que ele lhe descobrira a ameaça? Advertiu também que eram urgentes, e que fizera mal em demorar-se tanto; podia ser algum negócio grave e gravíssimo.
 
-- Vamos, vamos depressa, repetia ele ao cocheiro.
+— Vamos, vamos depressa, repetia ele ao cocheiro.
 
 E consigo, para explicar a demora ao amigo, engenhou qualquer cousa; parece que formou também o plano de aproveitar o incidente para tornar à antiga assiduidade... De volta com os planos, reboavam-lhe na alma as palavras da cartomante. Em verdade, ela adivinhara o objeto da consulta, o estado dele, a existência de um terceiro; por que não adivinharia o resto? O
 
