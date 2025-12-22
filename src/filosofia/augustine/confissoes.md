@@ -9,7 +9,1172 @@ outline: 2
 
 ## Livro I \*
 
+<!-- PLACEHOLDER: Texto original da seção: Livro I -->
+
 ### I Louvor e invocação \*
+
+<!-- PLACEHOLDER: Texto original da seção: I Louvor e invocação -->
+
+### II Como invocar a Deus? \*
+
+<!-- PLACEHOLDER: Texto original da seção: II Como invocar a Deus? -->
+
+### III Onde está Deus? \*
+
+<!-- PLACEHOLDER: Texto original da seção: III Onde está Deus? -->
+
+### IV As perfeições de Deus \*
+
+<!-- PLACEHOLDER: Texto original da seção: IV As perfeições de Deus -->
+
+### V Súplica \*
+
+<!-- PLACEHOLDER: Texto original da seção: V Súplica -->
+
+### VI Os primeiros anos \*
+
+<!-- PLACEHOLDER: Texto original da seção: VI Os primeiros anos -->
+
+### VII Os pecados da primeira infância \*
+
+<!-- PLACEHOLDER: Texto original da seção: VII Os pecados da primeira infância -->
+
+### VIII As primeiras palavras \*
+
+<!-- PLACEHOLDER: Texto original da seção: VIII As primeiras palavras -->
+
+### IX Estudos e jogos \*
+
+<!-- PLACEHOLDER: Texto original da seção: IX Estudos e jogos -->
+
+### X Amor ao jogo \*
+
+<!-- PLACEHOLDER: Texto original da seção: X Amor ao jogo -->
+
+### XI O batismo diferido \*
+
+<!-- PLACEHOLDER: Texto original da seção: XI O batismo diferido -->
+
+### XII Ódio ao estudo \*
+
+<!-- PLACEHOLDER: Texto original da seção: XII Ódio ao estudo -->
+
+### XIII Gosto pelo latim \*
+
+<!-- PLACEHOLDER: Texto original da seção: XIII Gosto pelo latim -->
+
+### XIV Aversão pelo grego \*
+
+<!-- PLACEHOLDER: Texto original da seção: XIV Aversão pelo grego -->
+
+### XV Oração \*
+
+<!-- PLACEHOLDER: Texto original da seção: XV Oração -->
+
+### XVI O mal da mitologia \*
+
+<!-- PLACEHOLDER: Texto original da seção: XVI O mal da mitologia -->
+
+### XVII Êxitos escolares \*
+
+<!-- PLACEHOLDER: Texto original da seção: XVII Êxitos escolares -->
+
+### XVIII Leis gramaticais, leis de Deus \*
+
+<!-- PLACEHOLDER: Texto original da seção: XVIII Leis gramaticais, leis de Deus -->
+
+### XIX Mau perdedor \*
+
+<!-- PLACEHOLDER: Texto original da seção: XIX Mau perdedor -->
+
+### XX Ação de graças \*
+
+<!-- PLACEHOLDER: Texto original da seção: XX Ação de graças -->
+
+## Livro II \*
+
+<!-- PLACEHOLDER: Texto original da seção: Livro II -->
+
+### I A adolescência \*
+
+<!-- PLACEHOLDER: Texto original da seção: I A adolescência -->
+
+### II As primeiras paixões \*
+
+<!-- PLACEHOLDER: Texto original da seção: II As primeiras paixões -->
+
+### III Cegueira do pai, cuidados da mãe \*
+
+<!-- PLACEHOLDER: Texto original da seção: III Cegueira do pai, cuidados da mãe -->
+
+### IV O furto das peras \*
+
+<!-- PLACEHOLDER: Texto original da seção: IV O furto das peras -->
+
+### V A causa do pecado \*
+
+<!-- PLACEHOLDER: Texto original da seção: V A causa do pecado -->
+
+### VI O crime gratuito \*
+
+<!-- PLACEHOLDER: Texto original da seção: VI O crime gratuito -->
+
+### VII Ação de graças \*
+
+<!-- PLACEHOLDER: Texto original da seção: VII Ação de graças -->
+
+### VIII O prazer da cumplicidade \*
+
+<!-- PLACEHOLDER: Texto original da seção: VIII O prazer da cumplicidade -->
+
+### IX O prazer do pecado \*
+
+<!-- PLACEHOLDER: Texto original da seção: IX O prazer do pecado -->
+
+### X Deus, o sumo bem \*
+
+<!-- PLACEHOLDER: Texto original da seção: X Deus, o sumo bem -->
+
+## Livro III \*
+
+<!-- PLACEHOLDER: Texto original da seção: Livro III -->
+
+### I O gosto do amor \*
+
+<!-- PLACEHOLDER: Texto original da seção: I O gosto do amor -->
+
+### II A paixão dos espetáculos \*
+
+<!-- PLACEHOLDER: Texto original da seção: II A paixão dos espetáculos -->
+
+### III O estudo da retórica e os demolidores \*
+
+<!-- PLACEHOLDER: Texto original da seção: III O estudo da retórica e os demolidores -->
+
+### IV O Hortênsio de Cícero \*
+
+<!-- PLACEHOLDER: Texto original da seção: IV O Hortênsio de Cícero -->
+
+### V A desilusão das Escrituras \*
+
+<!-- PLACEHOLDER: Texto original da seção: V A desilusão das Escrituras -->
+
+### VI A sedução do maniqueísmo \*
+
+<!-- PLACEHOLDER: Texto original da seção: VI A sedução do maniqueísmo -->
+
+### VII Alguns erros dos maniqueus \*
+
+<!-- PLACEHOLDER: Texto original da seção: VII Alguns erros dos maniqueus -->
+
+### VIII Moral e costumes \*
+
+<!-- PLACEHOLDER: Texto original da seção: VIII Moral e costumes -->
+
+### IX Pecados e imperfeições \*
+
+<!-- PLACEHOLDER: Texto original da seção: IX Pecados e imperfeições -->
+
+### X Ridicularias dos maniqueus \*
+
+<!-- PLACEHOLDER: Texto original da seção: X Ridicularias dos maniqueus -->
+
+### XI O sonho de Mônica \*
+
+<!-- PLACEHOLDER: Texto original da seção: XI O sonho de Mônica -->
+
+### XII Uma profecia \*
+
+<!-- PLACEHOLDER: Texto original da seção: XII Uma profecia -->
+
+## Livro IV \*
+
+<!-- PLACEHOLDER: Texto original da seção: Livro IV -->
+
+### I Dos 19 aos 28 anos \*
+
+<!-- PLACEHOLDER: Texto original da seção: I Dos 19 aos 28 anos -->
+
+### II Professor de retórica \*
+
+<!-- PLACEHOLDER: Texto original da seção: II Professor de retórica -->
+
+### III A atração da astrologia \*
+
+<!-- PLACEHOLDER: Texto original da seção: III A atração da astrologia -->
+
+### IV A morte do amigo \*
+
+<!-- PLACEHOLDER: Texto original da seção: IV A morte do amigo -->
+
+### V O conforto das lágrimas \*
+
+<!-- PLACEHOLDER: Texto original da seção: V O conforto das lágrimas -->
+
+### VI Inconsolável \*
+
+<!-- PLACEHOLDER: Texto original da seção: VI Inconsolável -->
+
+### VII De Tagaste para Cartago \*
+
+<!-- PLACEHOLDER: Texto original da seção: VII De Tagaste para Cartago -->
+
+### VIII O consolo do tempo e da amizade \*
+
+<!-- PLACEHOLDER: Texto original da seção: VIII O consolo do tempo e da amizade -->
+
+### IX O amigo Deus \*
+
+<!-- PLACEHOLDER: Texto original da seção: IX O amigo Deus -->
+
+### X As mentiras da beleza \*
+
+<!-- PLACEHOLDER: Texto original da seção: X As mentiras da beleza -->
+
+### XI A verdade de Deus \*
+
+<!-- PLACEHOLDER: Texto original da seção: XI A verdade de Deus -->
+
+### XII O amor em Deus \*
+
+<!-- PLACEHOLDER: Texto original da seção: XII O amor em Deus -->
+
+### XIII O problema do belo \*
+
+<!-- PLACEHOLDER: Texto original da seção: XIII O problema do belo -->
+
+### XIV Razões de uma dedicatória \*
+
+<!-- PLACEHOLDER: Texto original da seção: XIV Razões de uma dedicatória -->
+
+### XV Os primeiros livros \*
+
+<!-- PLACEHOLDER: Texto original da seção: XV Os primeiros livros -->
+
+### XVI As dez categorias de Aristóteles \*
+
+<!-- PLACEHOLDER: Texto original da seção: XVI As dez categorias de Aristóteles -->
+
+## Livro V \*
+
+<!-- PLACEHOLDER: Texto original da seção: Livro V -->
+
+### I Oração \*
+
+<!-- PLACEHOLDER: Texto original da seção: I Oração -->
+
+### II Os que fogem de Deus \*
+
+<!-- PLACEHOLDER: Texto original da seção: II Os que fogem de Deus -->
+
+### III Fausto e o maniqueísmo \*
+
+<!-- PLACEHOLDER: Texto original da seção: III Fausto e o maniqueísmo -->
+
+### IV Ciência e ignorância \*
+
+<!-- PLACEHOLDER: Texto original da seção: IV Ciência e ignorância -->
+
+### V Loucuras de Manés \*
+
+<!-- PLACEHOLDER: Texto original da seção: V Loucuras de Manés -->
+
+### VI A eloquência de Fausto \*
+
+<!-- PLACEHOLDER: Texto original da seção: VI A eloquência de Fausto -->
+
+### VII Desilusão \*
+
+<!-- PLACEHOLDER: Texto original da seção: VII Desilusão -->
+
+### VIII Viagem a Roma \*
+
+<!-- PLACEHOLDER: Texto original da seção: VIII Viagem a Roma -->
+
+### IX Enfermo \*
+
+<!-- PLACEHOLDER: Texto original da seção: IX Enfermo -->
+
+### X Agostinho e os erros dos maniqueus \*
+
+<!-- PLACEHOLDER: Texto original da seção: X Agostinho e os erros dos maniqueus -->
+
+### XI Desculpas dos maniqueus \*
+
+<!-- PLACEHOLDER: Texto original da seção: XI Desculpas dos maniqueus -->
+
+### XII Os estudantes de Roma \*
+
+<!-- PLACEHOLDER: Texto original da seção: XII Os estudantes de Roma -->
+
+### XIII Viagem a Milão. Santo Ambrósio \*
+
+<!-- PLACEHOLDER: Texto original da seção: XIII Viagem a Milão. Santo Ambrósio -->
+
+### XIV Catecúmeno \*
+
+<!-- PLACEHOLDER: Texto original da seção: XIV Catecúmeno -->
+
+## Livro VI \*
+
+<!-- PLACEHOLDER: Texto original da seção: Livro VI -->
+
+### I Esperanças \*
+
+<!-- PLACEHOLDER: Texto original da seção: I Esperanças -->
+
+### II Obediência de Mônica \*
+
+<!-- PLACEHOLDER: Texto original da seção: II Obediência de Mônica -->
+
+### III Primeiras conquistas \*
+
+<!-- PLACEHOLDER: Texto original da seção: III Primeiras conquistas -->
+
+### IV O espírito da letra \*
+
+<!-- PLACEHOLDER: Texto original da seção: IV O espírito da letra -->
+
+### V Os mistérios da Bíblia \*
+
+<!-- PLACEHOLDER: Texto original da seção: V Os mistérios da Bíblia -->
+
+### VI Alegria de bêbado \*
+
+<!-- PLACEHOLDER: Texto original da seção: VI Alegria de bêbado -->
+
+### VII Alípio \*
+
+<!-- PLACEHOLDER: Texto original da seção: VII Alípio -->
+
+### VIII A atração do anfiteatro \*
+
+<!-- PLACEHOLDER: Texto original da seção: VIII A atração do anfiteatro -->
+
+### IX Alípio, ladrão a contragosto \*
+
+<!-- PLACEHOLDER: Texto original da seção: IX Alípio, ladrão a contragosto -->
+
+### X Os três amigos \*
+
+<!-- PLACEHOLDER: Texto original da seção: X Os três amigos -->
+
+### XI Entre Deus e o mundo \*
+
+<!-- PLACEHOLDER: Texto original da seção: XI Entre Deus e o mundo -->
+
+### XII Casar ou não? \*
+
+<!-- PLACEHOLDER: Texto original da seção: XII Casar ou não? -->
+
+### XIII O pedido de casamento \*
+
+<!-- PLACEHOLDER: Texto original da seção: XIII O pedido de casamento -->
+
+### XIV Um projeto desfeito \*
+
+<!-- PLACEHOLDER: Texto original da seção: XIV Um projeto desfeito -->
+
+### XV A separação da amante \*
+
+<!-- PLACEHOLDER: Texto original da seção: XV A separação da amante -->
+
+### XVI A aproximação de Deus \*
+
+<!-- PLACEHOLDER: Texto original da seção: XVI A aproximação de Deus -->
+
+## Livro VII \*
+
+<!-- PLACEHOLDER: Texto original da seção: Livro VII -->
+
+### I A ideia de Deus \*
+
+<!-- PLACEHOLDER: Texto original da seção: I A ideia de Deus -->
+
+### II Objeção contra o maniqueísmo \*
+
+<!-- PLACEHOLDER: Texto original da seção: II Objeção contra o maniqueísmo -->
+
+### III Deus e o mal \*
+
+<!-- PLACEHOLDER: Texto original da seção: III Deus e o mal -->
+
+### IV A substância de Deus \*
+
+<!-- PLACEHOLDER: Texto original da seção: IV A substância de Deus -->
+
+### V A origem do mal \*
+
+<!-- PLACEHOLDER: Texto original da seção: V A origem do mal -->
+
+### VI O absurdo dos horóscopos \*
+
+<!-- PLACEHOLDER: Texto original da seção: VI O absurdo dos horóscopos -->
+
+### VII Ainda a origem do mal \*
+
+<!-- PLACEHOLDER: Texto original da seção: VII Ainda a origem do mal -->
+
+### VIII A piedade de Deus \*
+
+<!-- PLACEHOLDER: Texto original da seção: VIII A piedade de Deus -->
+
+### IX Agostinho e o neoplatonismo \*
+
+<!-- PLACEHOLDER: Texto original da seção: IX Agostinho e o neoplatonismo -->
+
+### X A descoberta de Deus \*
+
+<!-- PLACEHOLDER: Texto original da seção: X A descoberta de Deus -->
+
+### XI Deus e as criaturas \*
+
+<!-- PLACEHOLDER: Texto original da seção: XI Deus e as criaturas -->
+
+### XII O mal e o bem da Criação \*
+
+<!-- PLACEHOLDER: Texto original da seção: XII O mal e o bem da Criação -->
+
+### XIII Os louvores da Criação \*
+
+<!-- PLACEHOLDER: Texto original da seção: XIII Os louvores da Criação -->
+
+### XIV Recapitulação \*
+
+<!-- PLACEHOLDER: Texto original da seção: XIV Recapitulação -->
+
+### XV Deus e a Criação \*
+
+<!-- PLACEHOLDER: Texto original da seção: XV Deus e a Criação -->
+
+### XVI Onde está o mal \*
+
+<!-- PLACEHOLDER: Texto original da seção: XVI Onde está o mal -->
+
+### XVII Caminho para Deus \*
+
+<!-- PLACEHOLDER: Texto original da seção: XVII Caminho para Deus -->
+
+### XVIII A senda da humildade \*
+
+<!-- PLACEHOLDER: Texto original da seção: XVIII A senda da humildade -->
+
+### XIX A doutrina do Verbo \*
+
+<!-- PLACEHOLDER: Texto original da seção: XIX A doutrina do Verbo -->
+
+### XX Do platonismo às Escrituras \*
+
+<!-- PLACEHOLDER: Texto original da seção: XX Do platonismo às Escrituras -->
+
+### XXI A verdade das Escrituras \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXI A verdade das Escrituras -->
+
+## Livro VIII \*
+
+<!-- PLACEHOLDER: Texto original da seção: Livro VIII -->
+
+### I Hesitações \*
+
+<!-- PLACEHOLDER: Texto original da seção: I Hesitações -->
+
+### II Visita a Simpliciano. Conversão de Vitorino \*
+
+<!-- PLACEHOLDER: Texto original da seção: II Visita a Simpliciano. Conversão de Vitorino -->
+
+### III A alegria das coisas perdidas \*
+
+<!-- PLACEHOLDER: Texto original da seção: III A alegria das coisas perdidas -->
+
+### IV A conversão dos grandes \*
+
+<!-- PLACEHOLDER: Texto original da seção: IV A conversão dos grandes -->
+
+### V As duas vontades \*
+
+<!-- PLACEHOLDER: Texto original da seção: V As duas vontades -->
+
+### VI A narração de Ponticiano \*
+
+<!-- PLACEHOLDER: Texto original da seção: VI A narração de Ponticiano -->
+
+### VII A reação de Agostinho \*
+
+<!-- PLACEHOLDER: Texto original da seção: VII A reação de Agostinho -->
+
+### VIII Luta espiritual \*
+
+<!-- PLACEHOLDER: Texto original da seção: VIII Luta espiritual -->
+
+### IX A desobediência da vontade \*
+
+<!-- PLACEHOLDER: Texto original da seção: IX A desobediência da vontade -->
+
+### X Contra os maniqueus \*
+
+<!-- PLACEHOLDER: Texto original da seção: X Contra os maniqueus -->
+
+### XI Últimas resistências \*
+
+<!-- PLACEHOLDER: Texto original da seção: XI Últimas resistências -->
+
+### XII A conversão \*
+
+<!-- PLACEHOLDER: Texto original da seção: XII A conversão -->
+
+## Livro IX \*
+
+<!-- PLACEHOLDER: Texto original da seção: Livro IX -->
+
+### I Colóquio \*
+
+<!-- PLACEHOLDER: Texto original da seção: I Colóquio -->
+
+### II Adeus ao magistério \*
+
+<!-- PLACEHOLDER: Texto original da seção: II Adeus ao magistério -->
+
+### III Dois amigos \*
+
+<!-- PLACEHOLDER: Texto original da seção: III Dois amigos -->
+
+### IV A doçura dos salmos \*
+
+<!-- PLACEHOLDER: Texto original da seção: IV A doçura dos salmos -->
+
+### V O conselho de Ambrósio \*
+
+<!-- PLACEHOLDER: Texto original da seção: V O conselho de Ambrósio -->
+
+### VI Batismo de Agostinho. Seu filho Adeodato \*
+
+<!-- PLACEHOLDER: Texto original da seção: VI Batismo de Agostinho. Seu filho Adeodato -->
+
+### VII O canto dos fiéis. Os corpos de são Gervásio e de são Protásio \*
+
+<!-- PLACEHOLDER: Texto original da seção: VII O canto dos fiéis. Os corpos de são Gervásio e de são Protásio -->
+
+### VIII Mônica \*
+
+<!-- PLACEHOLDER: Texto original da seção: VIII Mônica -->
+
+### IX Esposa e mãe exemplar \*
+
+<!-- PLACEHOLDER: Texto original da seção: IX Esposa e mãe exemplar -->
+
+### X O êxtase de Óstia \*
+
+<!-- PLACEHOLDER: Texto original da seção: X O êxtase de Óstia -->
+
+### XI A morte de Mônica \*
+
+<!-- PLACEHOLDER: Texto original da seção: XI A morte de Mônica -->
+
+### XII As lágrimas negadas \*
+
+<!-- PLACEHOLDER: Texto original da seção: XII As lágrimas negadas -->
+
+### XIII Preces pela mãe morta \*
+
+<!-- PLACEHOLDER: Texto original da seção: XIII Preces pela mãe morta -->
+
+## Livro X \*
+
+<!-- PLACEHOLDER: Texto original da seção: Livro X -->
+
+### I Finalidade do livro \*
+
+<!-- PLACEHOLDER: Texto original da seção: I Finalidade do livro -->
+
+### II O que é confessar a Deus \*
+
+<!-- PLACEHOLDER: Texto original da seção: II O que é confessar a Deus -->
+
+### III Por que confessar-se aos homens? \*
+
+<!-- PLACEHOLDER: Texto original da seção: III Por que confessar-se aos homens? -->
+
+### IV O fruto das confissões \*
+
+<!-- PLACEHOLDER: Texto original da seção: IV O fruto das confissões -->
+
+### V A ignorância do homem \*
+
+<!-- PLACEHOLDER: Texto original da seção: V A ignorância do homem -->
+
+### VI Quem é Deus? \*
+
+<!-- PLACEHOLDER: Texto original da seção: VI Quem é Deus? -->
+
+### VII Deus e os sentidos \*
+
+<!-- PLACEHOLDER: Texto original da seção: VII Deus e os sentidos -->
+
+### VIII O milagre da memória \*
+
+<!-- PLACEHOLDER: Texto original da seção: VIII O milagre da memória -->
+
+### IX A memória intelectual \*
+
+<!-- PLACEHOLDER: Texto original da seção: IX A memória intelectual -->
+
+### X Memória e sentidos \*
+
+<!-- PLACEHOLDER: Texto original da seção: X Memória e sentidos -->
+
+### XI Ideias inatas \*
+
+<!-- PLACEHOLDER: Texto original da seção: XI Ideias inatas -->
+
+### XII A memória e as matemáticas \*
+
+<!-- PLACEHOLDER: Texto original da seção: XII A memória e as matemáticas -->
+
+### XIII A memória da memória \*
+
+<!-- PLACEHOLDER: Texto original da seção: XIII A memória da memória -->
+
+### XIV A lembrança dos sentimentos \*
+
+<!-- PLACEHOLDER: Texto original da seção: XIV A lembrança dos sentimentos -->
+
+### XV A memória das coisas ausentes \*
+
+<!-- PLACEHOLDER: Texto original da seção: XV A memória das coisas ausentes -->
+
+### XVI A memória do esquecimento \*
+
+<!-- PLACEHOLDER: Texto original da seção: XVI A memória do esquecimento -->
+
+### XVII Deus e a memória \*
+
+<!-- PLACEHOLDER: Texto original da seção: XVII Deus e a memória -->
+
+### XVIII A memória das coisas perdidas \*
+
+<!-- PLACEHOLDER: Texto original da seção: XVIII A memória das coisas perdidas -->
+
+### XIX A memória das lembranças \*
+
+<!-- PLACEHOLDER: Texto original da seção: XIX A memória das lembranças -->
+
+### XX A memória da felicidade \*
+
+<!-- PLACEHOLDER: Texto original da seção: XX A memória da felicidade -->
+
+### XXI A memória do que nunca tivemos \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXI A memória do que nunca tivemos -->
+
+### XXII A verdadeira felicidade \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXII A verdadeira felicidade -->
+
+### XXIII Felicidade e verdade \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXIII Felicidade e verdade -->
+
+### XXIV Deus e a memória \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXIV Deus e a memória -->
+
+### XXV Recapitulação \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXV Recapitulação -->
+
+### XXVI Onde encontrar Deus? \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXVI Onde encontrar Deus? -->
+
+### XXVII Solilóquio de amor \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXVII Solilóquio de amor -->
+
+### XXVIII A vida do homem \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXVIII A vida do homem -->
+
+### XXIX Esperança em Deus \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXIX Esperança em Deus -->
+
+### XXX Sonho e voluptuosidade \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXX Sonho e voluptuosidade -->
+
+### XXXI A intemperança \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXXI A intemperança -->
+
+### XXXII Os prazeres do olfato \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXXII Os prazeres do olfato -->
+
+### XXXIII Os prazeres do ouvido \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXXIII Os prazeres do ouvido -->
+
+### XXXIV O prazer dos olhos \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXXIV O prazer dos olhos -->
+
+### XXXV A curiosidade \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXXV A curiosidade -->
+
+### XXXVI O orgulho \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXXVI O orgulho -->
+
+### XXXVII A tentação do orgulho \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXXVII A tentação do orgulho -->
+
+### XXXVIII A vanglória \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXXVIII A vanglória -->
+
+### XXXIX O amor-próprio \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXXIX O amor-próprio -->
+
+### XL À procura de Deus \*
+
+<!-- PLACEHOLDER: Texto original da seção: XL À procura de Deus -->
+
+### XLI Deus e a mentira \*
+
+<!-- PLACEHOLDER: Texto original da seção: XLI Deus e a mentira -->
+
+### XLII Os neoplatônicos e o caminho para Deus \*
+
+<!-- PLACEHOLDER: Texto original da seção: XLII Os neoplatônicos e o caminho para Deus -->
+
+### XLIII Cristo, o único mediador \*
+
+<!-- PLACEHOLDER: Texto original da seção: XLIII Cristo, o único mediador -->
+
+## Livro XI \*
+
+<!-- PLACEHOLDER: Texto original da seção: Livro XI -->
+
+### I Finalidade das confissões \*
+
+<!-- PLACEHOLDER: Texto original da seção: I Finalidade das confissões -->
+
+### II A inteligência das Escrituras \*
+
+<!-- PLACEHOLDER: Texto original da seção: II A inteligência das Escrituras -->
+
+### III O que disse Moisés \*
+
+<!-- PLACEHOLDER: Texto original da seção: III O que disse Moisés -->
+
+### IV O céu e a terra \*
+
+<!-- PLACEHOLDER: Texto original da seção: IV O céu e a terra -->
+
+### V A palavra e a Criação \*
+
+<!-- PLACEHOLDER: Texto original da seção: V A palavra e a Criação -->
+
+### VI Como falou Deus? \*
+
+<!-- PLACEHOLDER: Texto original da seção: VI Como falou Deus? -->
+
+### VII A palavra coeterna \*
+
+<!-- PLACEHOLDER: Texto original da seção: VII A palavra coeterna -->
+
+### VIII A verdadeira luz \*
+
+<!-- PLACEHOLDER: Texto original da seção: VIII A verdadeira luz -->
+
+### IX A voz do Verbo \*
+
+<!-- PLACEHOLDER: Texto original da seção: IX A voz do Verbo -->
+
+### X Que fazia Deus antes da Criação \*
+
+<!-- PLACEHOLDER: Texto original da seção: X Que fazia Deus antes da Criação -->
+
+### XI Tempo e eternidade \*
+
+<!-- PLACEHOLDER: Texto original da seção: XI Tempo e eternidade -->
+
+### XII Deus antes da Criação \*
+
+<!-- PLACEHOLDER: Texto original da seção: XII Deus antes da Criação -->
+
+### XIII O tempo antes da Criação \*
+
+<!-- PLACEHOLDER: Texto original da seção: XIII O tempo antes da Criação -->
+
+### XIV Que é o tempo? \*
+
+<!-- PLACEHOLDER: Texto original da seção: XIV Que é o tempo? -->
+
+### XV Tempo longo, tempo breve \*
+
+<!-- PLACEHOLDER: Texto original da seção: XV Tempo longo, tempo breve -->
+
+### XVI A medida do presente \*
+
+<!-- PLACEHOLDER: Texto original da seção: XVI A medida do presente -->
+
+### XVII O passado e o futuro \*
+
+<!-- PLACEHOLDER: Texto original da seção: XVII O passado e o futuro -->
+
+### XVIII As previsões \*
+
+<!-- PLACEHOLDER: Texto original da seção: XVIII As previsões -->
+
+### XIX Oração \*
+
+<!-- PLACEHOLDER: Texto original da seção: XIX Oração -->
+
+### XX Conclusão \*
+
+<!-- PLACEHOLDER: Texto original da seção: XX Conclusão -->
+
+### XXI A medida do tempo \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXI A medida do tempo -->
+
+### XXII O enigma \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXII O enigma -->
+
+### XXIII O tempo e o movimento \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXIII O tempo e o movimento -->
+
+### XXIV O tempo, medida do movimento \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXIV O tempo, medida do movimento -->
+
+### XXV Prece \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXV Prece -->
+
+### XXVI O tempo, distensão da alma \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXVI O tempo, distensão da alma -->
+
+### XXVII A medida do passado \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXVII A medida do passado -->
+
+### XXVIII A medida do futuro \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXVIII A medida do futuro -->
+
+### XXIX A eternidade de Deus \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXIX A eternidade de Deus -->
+
+### XXX Deus e o tempo \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXX Deus e o tempo -->
+
+### XXXI Conclusão \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXXI Conclusão -->
+
+## Livro XII \*
+
+<!-- PLACEHOLDER: Texto original da seção: Livro XII -->
+
+### I Prece \*
+
+<!-- PLACEHOLDER: Texto original da seção: I Prece -->
+
+### II O céu do céu \*
+
+<!-- PLACEHOLDER: Texto original da seção: II O céu do céu -->
+
+### III As trevas sobre o abismo \*
+
+<!-- PLACEHOLDER: Texto original da seção: III As trevas sobre o abismo -->
+
+### IV A matéria informe \*
+
+<!-- PLACEHOLDER: Texto original da seção: IV A matéria informe -->
+
+### V Sua natureza \*
+
+<!-- PLACEHOLDER: Texto original da seção: V Sua natureza -->
+
+### VI Em que consiste \*
+
+<!-- PLACEHOLDER: Texto original da seção: VI Em que consiste -->
+
+### VII A criação do nada \*
+
+<!-- PLACEHOLDER: Texto original da seção: VII A criação do nada -->
+
+### VIII A terra invisível \*
+
+<!-- PLACEHOLDER: Texto original da seção: VIII A terra invisível -->
+
+### IX A criação do tempo \*
+
+<!-- PLACEHOLDER: Texto original da seção: IX A criação do tempo -->
+
+### X Invocação à verdade \*
+
+<!-- PLACEHOLDER: Texto original da seção: X Invocação à verdade -->
+
+### XI As criaturas e o Criador \*
+
+<!-- PLACEHOLDER: Texto original da seção: XI As criaturas e o Criador -->
+
+### XII A Criação e a eternidade \*
+
+<!-- PLACEHOLDER: Texto original da seção: XII A Criação e a eternidade -->
+
+### XIII O céu e a terra no Gênesis \*
+
+<!-- PLACEHOLDER: Texto original da seção: XIII O céu e a terra no Gênesis -->
+
+### XIV A profundidade das Escrituras \*
+
+<!-- PLACEHOLDER: Texto original da seção: XIV A profundidade das Escrituras -->
+
+### XV O que dizem seus inimigos \*
+
+<!-- PLACEHOLDER: Texto original da seção: XV O que dizem seus inimigos -->
+
+### XVI Outros adversários das Escrituras \*
+
+<!-- PLACEHOLDER: Texto original da seção: XVI Outros adversários das Escrituras -->
+
+### XVII Opiniões diversas sobre o céu e a terra \*
+
+<!-- PLACEHOLDER: Texto original da seção: XVII Opiniões diversas sobre o céu e a terra -->
+
+### XVIII Outras interpretações \*
+
+<!-- PLACEHOLDER: Texto original da seção: XVIII Outras interpretações -->
+
+### XIX A verdade \*
+
+<!-- PLACEHOLDER: Texto original da seção: XIX A verdade -->
+
+### XX O princípio e suas interpretações \*
+
+<!-- PLACEHOLDER: Texto original da seção: XX O princípio e suas interpretações -->
+
+### XXI A terra invisível \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXI A terra invisível -->
+
+### XXII Objeções \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXII Objeções -->
+
+### XXIII A opinião de Agostinho \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXIII A opinião de Agostinho -->
+
+### XXIV Qual a verdade? \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXIV Qual a verdade? -->
+
+### XXV Os diversos partidos \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXV Os diversos partidos -->
+
+### XXVI Agostinho no lugar de Moisés \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXVI Agostinho no lugar de Moisés -->
+
+### XXVII Os diversos sentidos da Escritura \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXVII Os diversos sentidos da Escritura -->
+
+### XXVIII Divergências \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXVIII Divergências -->
+
+### XXIX Dificuldades \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXIX Dificuldades -->
+
+### XXX Espírito de caridade \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXX Espírito de caridade -->
+
+### XXXI O Gênesis e seu autor \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXXI O Gênesis e seu autor -->
+
+### XXXII Oração \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXXII Oração -->
+
+## Livro XIII \*
+
+<!-- PLACEHOLDER: Texto original da seção: Livro XIII -->
+
+### I Invocação \*
+
+<!-- PLACEHOLDER: Texto original da seção: I Invocação -->
+
+### II A Criação e a bondade de Deus \*
+
+<!-- PLACEHOLDER: Texto original da seção: II A Criação e a bondade de Deus -->
+
+### III A luz \*
+
+<!-- PLACEHOLDER: Texto original da seção: III A luz -->
+
+### IV A bondade criadora \*
+
+<!-- PLACEHOLDER: Texto original da seção: IV A bondade criadora -->
+
+### V A Trindade \*
+
+<!-- PLACEHOLDER: Texto original da seção: V A Trindade -->
+
+### VI O Espírito sobre as águas \*
+
+<!-- PLACEHOLDER: Texto original da seção: VI O Espírito sobre as águas -->
+
+### VII As águas sem substância \*
+
+<!-- PLACEHOLDER: Texto original da seção: VII As águas sem substância -->
+
+### VIII À luz que ilumina as trevas \*
+
+<!-- PLACEHOLDER: Texto original da seção: VIII À luz que ilumina as trevas -->
+
+### IX O amor de Deus \*
+
+<!-- PLACEHOLDER: Texto original da seção: IX O amor de Deus -->
+
+### X Os dons de Deus \*
+
+<!-- PLACEHOLDER: Texto original da seção: X Os dons de Deus -->
+
+### XI O homem e a Trindade \*
+
+<!-- PLACEHOLDER: Texto original da seção: XI O homem e a Trindade -->
+
+### XII A Criação e a Igreja \*
+
+<!-- PLACEHOLDER: Texto original da seção: XII A Criação e a Igreja -->
+
+### XIII Nós e a luz \*
+
+<!-- PLACEHOLDER: Texto original da seção: XIII Nós e a luz -->
+
+### XIV Esperança \*
+
+<!-- PLACEHOLDER: Texto original da seção: XIV Esperança -->
+
+### XV Símbolos \*
+
+<!-- PLACEHOLDER: Texto original da seção: XV Símbolos -->
+
+### XVI Deus, fonte de luz \*
+
+<!-- PLACEHOLDER: Texto original da seção: XVI Deus, fonte de luz -->
+
+### XVII As águas amargas \*
+
+<!-- PLACEHOLDER: Texto original da seção: XVII As águas amargas -->
+
+### XVIII Meditação \*
+
+<!-- PLACEHOLDER: Texto original da seção: XVIII Meditação -->
+
+### XIX Ainda a terra seca \*
+
+<!-- PLACEHOLDER: Texto original da seção: XIX Ainda a terra seca -->
+
+### XX Os répteis e as aves \*
+
+<!-- PLACEHOLDER: Texto original da seção: XX Os répteis e as aves -->
+
+### XXI A alma viva \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXI A alma viva -->
+
+### XXII Sentido místico da criação do homem \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXII Sentido místico da criação do homem -->
+
+### XXIII O julgamento do homem espiritual \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXIII O julgamento do homem espiritual -->
+
+### XXIV Crescei e multiplicai-vos \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXIV Crescei e multiplicai-vos -->
+
+### XXV Os frutos da terra \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXV Os frutos da terra -->
+
+### XXVI O dom e o fruto \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXVI O dom e o fruto -->
+
+### XXVII Peixes e cetáceos \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXVII Peixes e cetáceos -->
+
+### XXVIII A bondade da Criação \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXVIII A bondade da Criação -->
+
+### XXIX A palavra de Deus e o tempo \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXIX A palavra de Deus e o tempo -->
+
+### XXX Um erro dos maniqueus \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXX Um erro dos maniqueus -->
+
+### XXXI A luz do Espírito Divino \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXXI A luz do Espírito Divino -->
+
+### XXXII A Criação \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXXII A Criação -->
+
+### XXXIII A matéria e a forma \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXXIII A matéria e a forma -->
+
+### XXXIV Alegoria da Criação \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXXIV Alegoria da Criação -->
+
+### XXXV Prece \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXXV Prece -->
+
+### XXXVI O repouso de Deus \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXXVI O repouso de Deus -->
+
+### XXXVII O repouso da alma \*
+
+<!-- PLACEHOLDER: Texto original da seção: XXXVII O repouso da alma -->
+</div>
+
+<div class="composition-api">
+
+# Confissões
+
+## Livro I \*\*
+
+### I Louvor e invocação \*\*
 
 1. Grande és, Senhor, e infinitamente digno de ser louvado; grande é teu poder, e incomensurável tua sabedoria. E pretende louvar-te o homem, pequena parte de tua criação, e precisamente o homem que, revestido de sua mortalidade, leva consigo o testemunho do pecado e o testemunho de que resistes aos soberbos? Contudo, o homem, pequena parte de tua criação, deseja louvar-te. Tu mesmo o excitas a isso, fazendo com que se deleite em te louvar, porque nos fizeste para ti, e nosso coração está inquieto enquanto não encontrar em ti descanso. Faze, Senhor, que eu entenda e conheça se é mais importante invocar-te e louvar-te, ou se devo antes conhecer-te, para depois te invocar. Mas haverá alguém que te invoque antes de te conhecer? Porque, não te conhecendo, facilmente poderá enganar-se em suas invocações. Ou, porventura, deves antes ser invocado para depois ser conhecido? Mas como invocarão aquele em quem não creem? Ou como haverão de crer sem pregador?
 
@@ -17,29 +1182,29 @@ Com certeza, louvarão ao Senhor os que o buscam, porque os que o buscam o encon
 
 Que eu, Senhor, te busque invocando-te, e te invoque crendo em ti, pois já me falaram de ti. Invoca-te, Senhor, minha fé, a fé que tu me deste e inspiraste pela humanidade de teu Filho e o ministério de teu pregador.
 
-### II Como invocar a Deus? \*
+### II Como invocar a Deus? \*\*
 
 2. Mas como invocarei a meu Deus, a meu Deus e Senhor, se ao invocá-lo o hei de chamar a mim? E que lugar há em mim para receber a meu Deus, onde Deus venha a mim, o Deus que fez o céu e terra? Senhor, haverá em mim algum lugar que te possa conter? Acaso te contêm o céu e a terra, que tu criaste, e dentro dos quais também criaste a mim? Ou talvez, porque nada de quanto existe pode existir sem ti, tudo o que existe te contém? Pois, se efetivamente existo, por que peço que venhas a mim, uma vez que não existiria se não existisses em mim? Ainda não estive no inferno, mas também ali estás presente, pois, se descer ao inferno, ali estarás.
 
 Eu nada seria, meu Deus, nada seria em absoluto se não estivesses em mim; porém, não seria melhor dizer que eu não existiria de modo algum se não estivesse em ti, de quem, por quem e em quem existem todas as coisas? Assim é, Senhor, assim é. Como, pois, posso chamar-te se já estou em ti, ou de onde hás de vir a mim, ou a que parte do céu e da terra me hei de dirigir, para que ali venha meu Deus a mim, ele que disse: "Eu encho o céu e a terra!"?
 
-### III Onde está Deus? \*
+### III Onde está Deus? \*\*
 
 3. Porventura o céu e a terra te contêm, pelo fato de que os enches? Ou é mais certo dizer que os enches, mas que ainda sobra alguma parte de ti, já que eles não te podem conter? E onde deixarás isso que sobra de ti, depois de cheios o céu e a terra? Mas, por acaso, tens necessidade de ser contido em algum lugar, tu que conténs todas as coisas, visto que as que enches o fazes contendo-as? Porque não são os vasos cheios de ti os que te tornam estável, já que, embora se quebrem, tu não te derramarás; e se se diz que te derramas sobre nós, isso não o fazes porque cais, mas porque nos levantas, nem porque te dispersas, mas porque nos recolhes. No entanto, todas as coisas que enches, enche-as todas com todo o teu ser, ou talvez, por não te poderem conter totalmente todas, contêm apenas parte de ti? E essa parte de ti a contêm todas e ao mesmo tempo, ou cada uma a sua, as maiores a maior parte e as menores a menor parte? Mas haverá em ti partes maiores e partes menores? Acaso não estás todo em todas as partes, sem que haja coisa alguma que te contenha totalmente?
 
-### IV As perfeições de Deus \*
+### IV As perfeições de Deus \*\*
 
 4. Que és, portanto, ó meu Deus? Que és, repito, senão o Senhor Deus? E que Senhor pode haver fora do Senhor, ou que Deus além de nosso Deus? Sumo, ótimo, poderosíssimo, onipotentíssimo, misericordiosíssimo e justíssimo; secretíssimo e presentíssimo, formosíssimo e fortíssimo, estável e incompreensível; imutável, mudando todas as coisas; nunca novo e nunca velho; renovador de todas as coisas; conduzindo à velhice os soberbos sem que eles o saibam; sempre agindo e sempre em repouso; sempre granjeando e nunca necessitado; sempre sustentando, enchendo e protegendo; sempre criando, nutrindo e aperfeiçoando; sempre buscando, ainda que nada te falte.
 
 Amas, e não sentes paixão; tens zelos, e estás seguro; te arrependes, e não sentes dor; te iras, e continuas tranquilo; mudas de obra, mas não de resolução; recebes o que encontras, e nunca perdeste nada; não és avaro, e exiges lucro. A ti oferecemos tudo, para que sejas nosso devedor; porém, quem há que tenha algo que não seja teu, pois pagas dívidas que a ninguém deves, e perdoas dívidas sem que nada perca com isso? E que é o que até aqui dissemos, meu Deus, minha vida, minha doçura santa, ou que é o que pode dizer alguém quando fala de ti? Mas ai dos que nada dizem de ti, porque não passam de mudos charlatães.
 
-### V Súplica \*
+### V Súplica \*\*
 
 5. Quem me dera descansar em ti? Quem me dera que viesses a meu coração e que o embriagásseis, para que eu me esqueça de minhas maldades e me abrace contigo, meu único bem? Que és para mim? Tem piedade de mim, para que eu possa falar. E que sou eu para ti, para que me mandes que te ame, e, se não o faço, te ires contra mim e me ameaces com terríveis castigos? Acaso é pequena a miséria de não te amar? Ai de mim! Dize-me, por tuas misericórdias, meu Senhor e meu Deus, que és para mim? Dize a minha alma: "Eu sou a tua salvação." Que eu corra atrás dessa voz e te alcance. Não queiras esconder-me teu rosto. Morra eu para que não morra, e para que eu possa vê-lo.
 
 6. Estreita é a casa de minha alma para que venhas até ela: que seja ampliada por ti. Está em ruínas: repara-a. Há nela coisas que ofendem a teus olhos: confesso-o, pois eu o sei; porém, quem a limpará, ou a quem clamarei além de ti: Livra-me, Senhor, dos pecados ocultos, e perdoa a teu servo os alheios! Creio, e por isso falo. Tu o sabes, Senhor. Acaso não confessei diante de ti meus delitos contra mim, ó meu Deus! E não me perdoaste a impiedade de meu coração? Não quero contender em juízos contigo, que és a verdade, e não quero enganar-me a mim mesmo, para que não se engane a si mesma minha iniquidade. Não quero contender em juízos contigo, porque, se dás atenção às iniquidades, Senhor, quem, Senhor, subsistirá?
 
-### VI Os primeiros anos \*
+### VI Os primeiros anos \*\*
 
 7. Deixa, porém, que eu fale em presença de tua misericórdia, a mim, terra e cinza; deixa que eu fale, porque é a tua misericórdia, e não ao homem, que de mim se ri, a quem falo. Talvez também tu te risses de mim, mas, voltado para mim, terás compaixão.
 
@@ -65,7 +1230,7 @@ Com efeito, de onde poderia vir semelhante criatura, senão de ti, Senhor? Acaso
 
 Que importa que alguém não entenda essas coisas? Que este se ria e diga: Que é isto? Que se ria assim, e que prefira encontrar-te não indagando do que, indagando, não te encontrar.
 
-### VII Os pecados da primeira infância \*
+### VII Os pecados da primeira infância \*\*
 
 11. Escuta-me, ó Deus! Ai dos pecados dos homens! E isto o diz um homem, e tu te compadeces dele porque o fizeste, embora não fizesses o pecado que nele existe.
 
@@ -81,7 +1246,7 @@ Tenho vergonha, Senhor, de ter que juntar à vida que agora vivo aquela idade qu
 
 Assim, se fui concebido em iniquidade, e se em pecado me alimentou minha mãe, onde, suplico-te, meu Deus, onde, Senhor, eu, teu servo, onde e quando fui inocente? Mas eis que omito esse tempo. Para que ocupar-me dele, se dele já não conservo nenhum vestígio?
 
-### VIII As primeiras palavras \*
+### VIII As primeiras palavras \*\*
 
 13. Acaso não foi caminhando da infância até aqui que cheguei à puerícia? Ou, para dizer melhor, esta veio a mim, e suplantou a infância, em que ela se retirasse, porque, para onde poderia ir? Contudo, deixou de existir, porque eu já não era mais infante, que não falava, mas um menino que sabia falar. Disso me recordo; mas como aprendi a falar, só mais tarde é que vim a saber. Certamente não mo ensinaram os mais velhos, apresentando-me as palavras com certa ordem e método, como logo depois me ensinaram as letras, mas eu mesmo, com o entendimento que me deste, meu Deus, ao querer manifestar meus sentimentos com gemidos e vozes várias, e diversos movimentos do corpo, a fim de que atendessem a meus desejos, e ao ver que não podia exteriorizar tudo o que queria, nem ser compreendido por todos aqueles a quem me dirigia. Assim, pois, quando me designavam alguma coisa pelo nome, eu a retinha na memória, e, se ao pronunciar de novo a tal palavra, moviam o corpo na direção do objeto, eu entendia e notava que aquele objeto era o denominado com a palavra que pronunciavam, porque assim o chamavam quando o desejavam mostrar.
 
@@ -89,7 +1254,7 @@ Que esta fosse sua intenção, deduzia-o eu dos movimentos do corpo, que são co
 
 Foi assim que comecei a fazer uso dos sinais comunicativos de meus desejos com as pessoas entre as quais vivia, e entrei a fazer parte do proceloso mar da sociedade, dependendo da autoridade de meus pais e das indicações das pessoas mais velhas.
 
-### IX Estudos e jogos \*
+### IX Estudos e jogos \*\*
 
 14. Ó meu Deus, meu Deus! Que de misérias e enganos não experimentei então, quando se me propunha a mim, menino, como norma de bem viver, obedecer aos que me admoestavam a brilhar neste mundo, e sobressair nas artes da língua, com as quais depois pudesse lograr honras humanas e falsas riquezas! Para este fim puseram-me na escola, para que aprendesse as letras, nas quais eu, miserável, desconhecia o que havia de útil. Contudo, se era preguiçoso para aprendê-las, era fustigado, sistema louvado pelos mais velhos, muitos dos quais levaram esse gênero de vida antes de nós, nos traçaram caminhos tão trabalhosos, pelos quais éramos obrigados a caminhar, multiplicando assim o trabalho e a dor aos filhos de Adão.
 
@@ -101,11 +1266,11 @@ Contudo, pecávamos escrevendo ou lendo, estudando menos do que nos era exigido,
 
 Acaso fazia outra coisa o mesmo que me castigava? Se nalguma questiúncula era vencido por algum colega seu, não era mais atormentado pela cólera e pela inveja do que eu, quando em uma partida de bola era vencido por meu companheiro?
 
-### X Amor ao jogo \*
+### X Amor ao jogo \*\*
 
 16. Contudo, Senhor meu, ordenador e criador da natureza, mas do pecado somente ordenador, eu pecava; pecava agindo contra as ordens de meus pais e mestres, porque podia no futuro fazer bom uso das letras que desejavam que eu aprendesse, qualquer que fosse sua intenção. Eu não era desobediente para me ocupar de coisas melhores, mas por amor do jogo, buscando nos combates soberbas vitórias, deleitando-me com histórias frívolas, com as quais incentivava sempre mais minha curiosidade, ao mesmo tempo que, igualmente curiosos, meus olhos se abriam sempre mais para os jogos e espetáculos dos adultos, jogos que dão tão grande dignidade a quem os oferece, que quase todos desejam as mesmas dignidades para seus filhos, a quem, contudo, gostam de castigar se com tais espetáculos fogem dos estudos, por meio dos quais desejam que eles venham um dia a oferecer espetáculos semelhantes. Senhor, olha misericordiosamente para essas coisas, e livra-nos delas a nós que já te invocamos; mas livra também os que ainda não te invocam, a fim de que te invoquem, e sejam igualmente libertados.
 
-### XI O batismo diferido \*
+### XI O batismo diferido \*\*
 
 17. Sendo ainda menino, ouvi falar da vida eterna, que nos está prometida pela humildade de Deus, nosso Senhor, que desceu até nossa soberba; e fui assinalado com o sinal da cruz, sendo-me dado saborear de seu sal logo que saí do ventre de minha mãe, que sempre esperou muito em ti.
 
@@ -117,13 +1282,13 @@ Nessa época eu já acreditava, juntamente com minha mãe e com toda a casa, com
 
 Quanto melhor teria sido para mim receber logo a saúde, e que meus cuidados e os dos meus fossem empregados em conservar intacta debaixo de tua proteção a saúde de minha alma, que me havias concedido! Melhor fora, por certo; porém, como minha mãe, sem dúvida, já previa quantas e quão grandes ondas de tentações me ameaçariam depois da meninice, preferiu-me expor a elas como terra grosseira que depois receberia forma, do que já como imagem tua.
 
-### XII Ódio ao estudo \*
+### XII Ódio ao estudo \*\*
 
 19. Nessa minha meninice, na qual eu tinha menos que temer por mim do que em minha adolescência, eu não gostava dos estudos e odiava que me obrigassem a estudar. Contudo, era coagido, e me faziam grande bem. Quem não fazia bem era eu, que não estudava a não ser obrigado, pois ninguém faz bem o que faz contra vontade, mesmo que seja bom o que faz. Tampouco os que me obrigavam a estudar agiam corretamente; antes, todo o bem que eu recebia me vinha de ti, meu Deus, porque eles não tinham outro fim ao me obrigarem a estudar senão saciar o apetite de abundante miséria e de glória ignominiosa. Mas tu, Senhor, que tens contados os cabelos de nossa cabeça, usavas do erro de todos os que me coagiam a estudar para minha utilidade e do meu não querer estudar para meu castigo, de que certamente não era indigno, sendo ainda tão pequeno, e tão grande pecador.
 
 Assim, convertias em bem o mal que eles me faziam, e dos meus pecados me davas justa retribuição porque é teu desígnio, e assim acontece, que toda alma desordenada seja castigo de si mesma.
 
-### XIII Gosto pelo latim \*
+### XIII Gosto pelo latim \*\*
 
 20. Por que odiava eu as letras gregas, que me ensinavam quando eu era criança? Não o sei, nem agora o posso explicar. Em compensação, as letras latinas me apaixonavam, não as que ensinavam os professores primários, mas a que é explicada pelos chamados gramáticos, porque aquelas primeiras, com as quais se aprende a ler, a escrever e a contar, não me foram menos pesadas e insuportáveis que as gregas. Mas donde podia proceder essa aversão, senão do pecado e da vaidade da vida, porque eu era carne e vento que caminha e não volta?
 
@@ -137,7 +1302,7 @@ Não gritem contra mim aqueles a quem já não temo, enquanto confesso a ti os d
 
 Do mesmo modo, se lhes perguntar que seria mais prejudicial para a vida humana: esquecer-se alguém de saber ler e escrever, ou de todas as invenções dos poetas, quem não vê o que responderia logo quem não estivesse de todo esquecido de si? Pequei, pois, em minha meninice, ao preferir conhecimentos vãos aos proveitosos, arrastado unicamente pelo gosto. Ou, para dizer melhor, ao amar àqueles e ao odiar a estes, porque odiosa canção era para mim aquele "um e um, dois; dois e dois, quatro", enquanto considerava espetáculo dulcíssimo e divertido a história do cavalo de pau cheio de gente armada, e o incêndio de Troia, "e até a sombra de Creusa".
 
-### XIV Aversão pelo grego \*
+### XIV Aversão pelo grego \*\*
 
 23. Por que então esse ódio pela literatura grega, na qual se cantam tais coisas? Porque também Homero é perito em inventar essas historiazinhas, dulcíssimo na sua frivolidade, embora para mim, menino, fosse bem amargo. Creio que o mesmo acontecerá com Virgílio para os meninos gregos, obrigados a estudá-lo, como a mim me faziam com relação a Homero. Era a dificuldade; sim, a dificuldade de ter que aprender totalmente uma língua estranha era como fel que aspergia de amargura todas as doçuras gregas das histórias fabulosas.
 
@@ -145,11 +1310,11 @@ Porque eu ainda não conhecia uma palavra daquela língua, e já me obrigavam co
 
 Por aqui se vê claramente quanto maior força tem para instruir a curiosidade livre do que a necessidade inspirada pelo medo. Contudo, os excessos da curiosidade encontram nesse constrangimento um freio segundo tuas leis, ó Deus, que desde as palmatórias dos professores até os tormentos dos mártires sabem dosar suas salutares amarguras, que nos reconduzem a ti desde o pestífero deleite que de ti nos apartara.
 
-### XV Oração \*
+### XV Oração \*\*
 
 24. Ouvi, Senhor, minha oração, a fim de que não desfaleça minha alma sob tua disciplina, nem me canse em confessar tuas misericórdias, com as quais me arrancaste de meus péssimos caminhos; que tua doçura sobrepuje todas as doçuras que segui, e assim te ame fortissimamente, e aperte tua mão com toda a minha alma, e me livres de toda tentação até o fim de meus dias. Pois, se és, Senhor, meu rei e meu Deus, a ti consagro quanto aprendi de útil quando criança, e para teu serviço seja quanto falo, escrevo, leio e conto, pois quando aprendia aquelas futilidades, tu eras o que me davas a verdadeira ciência, e já me perdoaste os pecados de deleite cometidos naquelas vaidades. Muitas palavras úteis aprendi nelas, é verdade; porém, estas também se podem aprender em estudos sérios, e este é o caminho seguro pelo qual deveriam caminhar as crianças.
 
-### XVI O mal da mitologia \*
+### XVI O mal da mitologia \*\*
 
 25. Mas, ai de ti, torrente dos hábitos humanos! Quem há que te resista? Quando te secarás? Até quando deixarás de arrastar os filhos de Eva a esse mar imenso e espantoso, que apenas logram passar os que subiram sobre o lenho da cruz?
 
@@ -175,13 +1340,13 @@ De modo algum, de maneira nenhuma se aprendem com semelhante torpeza aquelas pal
 
 E, não obstante, meu Deus, cuja presença afasta o perigo dessa lembrança, confesso que aprendi essas coisas com gosto, e que me deleitei nelas, miserável, sendo por isso chamado menino de grandes esperanças.
 
-### XVII Êxitos escolares \*
+### XVII Êxitos escolares \*\*
 
 27. Permite-me, Senhor, que diga também algo de meu talento, dádiva tua, e dos delírios em que o empregava. Propunha-se-me como assunto - coisa mui inquietante para minha alma, tanto pelo prêmio de louvor ou desonra, como por medo dos açoites - que repetisse as palavras de Juno, irada e ressentida por não poder "afastar da Itália ao rei dos troianos", embora jamais tenha ouvido que tivessem sido pronunciadas por Juno. Mas obrigavam-nos a errar seguindo os passos das invenções poéticas e a repetir em prosa o que o poeta havia dito em verso, dizendo-o mais elogiosamente aquele que, conformando-se à dignidade da pessoa representada, soubesse pintar com mais vivacidade e semelhança, e revestir com palavras mais apropriadas seus afetos de ira ou de dor.
 
 Mas, de que me serviria - ó vida verdadeira, meu Deus! -, de que me serviria ser aplaudido por minha declamação mais que todos os meus coetâneos e condiscípulos? Não era tudo aquilo fumo e vento? Acaso não havia outra coisa em que exercitar meu talento e minha língua? Teus louvores, Senhor, teus louvores, contidos em tuas Escrituras, poderiam sustentar os frágeis ramos de meu coração, e eu não teria sido arrebatado pela vaidade de bagatelas, presa imunda das aves. Com efeito, há mais de um modo de oferecer sacrifício aos anjos rebeldes.
 
-### XVIII Leis gramaticais, leis de Deus \*
+### XVIII Leis gramaticais, leis de Deus \*\*
 
 28. Mas, que milagre poderia haver, se eu me deixava arrastar pelas vaidades e me afastar de ti, meu Deus, se me propunham como modelos para imitar a uns homens que se, ao contar alguma boa ação, deixavam escapar algum barbarismo ou solecismo, se enchiam de confusão, e, pelo contrário, quando eram elogiados por referir suas desonestidades com palavras castiças e apropriadas, de modo eloquente e elegante, inchavam-se de vaidade?
 
@@ -193,7 +1358,7 @@ Como se o homem pudesse ter inimigo mais pernicioso que o mesmo ódio com que se
 
 Oh! Como és misterioso, tu, que habitando silencioso nos céus, Deus grande e único, espalhas com lei infatigável cegueiras vingadoras sobre as concupiscências ilícitas! Quando o homem, aspirando à fama de eloquente, ataca a seu inimigo com ódio feroz diante do juiz, rodeado de grande multidão de homens, toma todo o cuidado para que, por um lapsus linguae, não se lhe escape um inter ominibus, e não lhe importa que com o furor de seu ódio se tire um homem de entre os homens.
 
-### XIX Mau perdedor \*
+### XIX Mau perdedor \*\*
 
 30. À beira de tais costumes jazia eu, pobre criança, sendo esta a arena em que me exercitava, temendo mais cometer um barbarismo do que cuidando de não invejar, se o cometia, aqueles que o tinham evitado.
 
@@ -201,7 +1366,7 @@ Digo e confesso diante de ti, meu Deus, essas misérias, que me granjeavam o lou
 
 Também cometia furtos na despensa e na mesa de meus pais, ora provocado pela gula, ora para ter que dar aos meninos para brincar com eles, associação que lhes dava tanto prazer quanto a mim, mas que eles me faziam pagar. No jogo procurava frequentemente conseguir vitórias fraudulentas, vencido pelo desejo vão de sobressair. Contudo, que podia haver que eu quisesse mais evitar, e que repreendesse mais atrozmente em outros, se o descobrisse, que o mesmo que eu fazia aos demais? Mas ainda, se por casualidade eu era o prejudicado e o acusado, ficava furioso, mas não cedia. Será essa a inocência infantil? Não, Senhor, não o é, eu to confesso, meu Deus. Porque essas mesmas coisas que se fazem com os criados e mestres por causa de nozes, bolas e passarinhos, se fazem quando se chega à maioridade com os prefeitos e reis por causa de dinheiro, palácios e servos, do mesmo modo que à palmatória sucedem-se maiores castigos. Assim, quando tu, nosso rei, disseste: "Desses é o reino dos céus", quiseste sem dúvida dar-nos na pequenez de sua estatura um símbolo de humildade.
 
-### XX Ação de graças \*
+### XX Ação de graças \*\*
 
 31. Contudo, Senhor, graças te sejam dadas, excelentíssimo e ótimo criador e governador do universo, nosso Deus, mesmo que te limitasses a me fazer apenas menino. Porque, mesmo então eu existia, vivia, sentia, cuidava de minha integridade, vestígio de tua secretíssima unidade, fonte de minha existência.
 
@@ -211,15 +1376,15 @@ O que me criou, portanto, é bom, e ele próprio é o meu bem; a ele quero enalt
 
 Graças a ti, minha doçura, minha esperança e meu Deus, graças a ti por teus dons; que eles fiquem, porém, sob tua guarda. Assim me guardarás também a mim, e se aumentarão e aperfeiçoarão os dons que me deste, e eu estarei contigo, porque também me deste a existência.
 
-## Livro II \*
+## Livro II \*\*
 
-### I A adolescência \*
+### I A adolescência \*\*
 
 1. Quero recordar minhas torpezas passadas e as impurezas carnais de minha alma, não porque as ame, mas por te amar, ó meu Deus. Por amor de teu amor o faço, percorrendo com a memória, cheia de amargura, aqueles meus perversíssimos caminhos, para que tu me sejas doce, doçura sem engano, ditosa e eterna doçura, e me recolhas da dispersão em que me dissipei, quando, afastando-me de tua unidade, me desvaneci em muitas coisas.
 
 Por que houve tempo de minha adolescência em que ardi em desejos de me fartar das coisas mais baixas e ousei animalizar-me com vários e sombrios amores, e se murchou minha beleza, e me transformei em podridão diante de teus olhos, para agradar-me a mim e desejar agradar aos olhos dos homens.
 
-### II As primeiras paixões \*
+### II As primeiras paixões \*\*
 
 2. E que era o que me deleitava, senão amar e ser amado? Mas eu não era moderado, indo de alma para alma, de acordo com os sinais luminosos da amizade, mas, da lodosa concupiscência de minha carne e do manancial da puberdade, levantava-se como que uma névoa que obscurecia e ofuscava meu coração, a ponto de não discernir a serenidade da dileção da tenebrosidade da libido. Uma e outra abrasavam e arrastavam minha fraca idade pelo declive abrupto de meus apetites, afogando-me em um mar de torpezas. Tua ira se acumulava sobre mim, e eu não o sabia. Fiquei surdo com o ruído da cadeia de minha mortalidade, e cada vez mais me afastava de ti, e tu o consentias; e me agitava, e me dissipava, e me multiplicava, e fervia com minha concupiscência, e tu te calavas - ó alegria que tão tarde encontrei! - tu te calavas então, e eu me ia cada vez mais para longe de ti, atrás de muitíssimas sementes estéreis de dores, com soberba baixeza e inquieto cansaço.
 
@@ -233,7 +1398,7 @@ Mas onde estava eu? Oh! e quão longe, desterrado das delícias de tua casa naqu
 
 Nem mesmo os meus pensavam em livrar-me pelo casamento ao ver-me cair; cuidavam apenas de que eu aprendesse a compor discursos magníficos e a persuadir com a palavra.
 
-### III Cegueira do pai, cuidados da mãe \*
+### III Cegueira do pai, cuidados da mãe \*\*
 
 5. Nesse mesmo ano tive de interromper meus estudos, quando voltei de Madaura, cidade vizinha, onde fora estudar literatura e oratória, enquanto se faziam os preparativos necessários para minha viagem mais longa a Cartago, levado mais pela ambição de meu pai do que pela abundância de seus bens, pois era mui modesto cidadão de Tagaste.
 
@@ -261,7 +1426,7 @@ Nem então minha mãe carnal, que já havia começado a fugir do meio de Babilô
 
 Por esse motivo também soltavam-me as rédeas para o jogo mais do que o permite uma moderada severidade, deixando-me ir em pós da dissolução de várias paixões, e em todas havia uma obscuridade que me interceptava, ó meu Deus, a luz de tua verdade, e, por assim dizer, de meu corpo brotava minha iniquidade.
 
-### IV O furto das peras \*
+### IV O furto das peras \*\*
 
 9. É certo, Senhor, que tua lei castiga o furto, lei de tal modo escrita no coração dos homens, que nem a própria iniquidade a pode apagar. Que ladrão há que suporte com paciência que o roubem? Nem mesmo o rico tolera isto ao que o faz forçado pela indigência. Também eu quis cometer um furto, e o cometi, não forçado pela necessidade, senão por penúria, fastio de justiça e abundância de iniquidade, pois roubei o que tinha em abundância, e muito melhor. Nem me atraía ao furto o gozo que me proporcionava seu resultado, mas atraía-me o mesmo furto em si, o pecado.
 
@@ -269,7 +1434,7 @@ Nas imediações de nossa vinha, havia uma pereira carregada de frutos, que nem 
 
 Aí está meu coração, Senhor, meu coração, do qual tiveste misericórdia quando se encontrava na profundeza do abismo. Que este meu coração te diga agora que era o que ali buscava, para fazer o mal gratuitamente, não tendo minha maldade outra razão que a própria maldade. Era feia, e eu a amei; amei minha morte, amei meu pecado; não o objeto que me fazia cair, mas minha própria queda. Torpe alma minha, que, saltando para fora de tua base, te lançavas ao extermínio, não buscando na ignomínia senão a própria ignomínia.
 
-### V A causa do pecado \*
+### V A causa do pecado \*\*
 
 10. Todos os corpos que são formosos, como o ouro, a prata e todos os demais, têm, com efeito, seu aspecto grato. No tato carnal intervém grandemente a congruência das partes, e cada um dos demais sentidos percebe nos corpos certa modalidade própria. Também a honra temporal e o poder de mandar e dominar tem seu atrativo, de onde nasce o desejo de vingança.
 
@@ -285,7 +1450,7 @@ Porque, mesmo de certo homem sem entranhas e excessivamente cruel, de quem se di
 
 Todavia, se indagares por que isso é assim, dir-te-ei que para com aquele exercício de crimes, tomada a cidade, conseguisse honras, poderes e riquezas, libertando-se do medo das leis e das dificuldades da vida, causados pela pobreza de seu patrimônio e a consciência de seus crimes. Assim, pois, nem o próprio Catilina amava seus crimes, mas outra coisa, por cujo motivo os cometia.
 
-### VI O crime gratuito \*
+### VI O crime gratuito \*\*
 
 12. Que amei, então, em ti, ó meu furto, crime noturno de meus 16 anos? Porque não eras belo, já que eras furto. Mas, por acaso és algo para que eu fale contigo? Belas eram as peras que roubamos, por serem criaturas tuas, ó formosíssimo Criador de todas as coisas, bom Deus, Deus sumo, meu bem e meu verdadeiro bem: belas eram aquelas peras! Porém, não eram elas que apeteciam minha alma miserável. Eu as tinha em abundância, e melhores. Mas arranquei-as da árvore só para roubar, pois apenas colhidas joguei-as fora, saboreando nelas apenas a iniquidade, que me proporcionava prazer. Porque se alguma delas entrou em minha boca, somente o crime é que lhe deu sabor.
 
@@ -301,7 +1466,7 @@ Que amei, então, naquele furto, ou em que imitei, embora viciosa e imperfeitame
 
 Eis aqui o servo que, fugindo de seu senhor, seguiu uma sombra. Ó podridão! Ó monstro da vida e abismo da morte! Como pôde agradar-me o ilícito, e não por outro motivo, senão porque não era lícito?
 
-### VII Ação de graças \*
+### VII Ação de graças \*\*
 
 15. Como agradecerei ao Senhor por poder recordar minha memória todas estas coisas sem que minha alma sinta medo algum? Amar-te-ei, Senhor, e dar-te-ei graças, e confessarei teu nome, porque me perdoaste tantas e tão nefandas ações. Devo à tua graça e misericórdia teres-me dissolvido os pecados como gelo, como também todo o mal que não pratiquei. Que pecados, realmente, não poderia cometer, eu que amei gratuitamente o crime?
 
@@ -309,13 +1474,13 @@ Confesso que todos já me foram perdoados, tanto os cometidos voluntariamente, c
 
 Aquele, pois, que, chamado por ti, seguiu tua voz e evitou todas essas coisas que lê de mim, e que eu recordo e confesso, não se ria de mim por haver sido curado, estando enfermo, pelo mesmo médico que o preservou de cair enfermo, ou melhor, de que adoecesse tanto. Antes, esse deve amar-te tanto e ainda mais do que eu, porque o mesmo que me sarou de tantas e tão graves enfermidades, esse mesmo o livrou de cair.
 
-### VIII O prazer da cumplicidade \*
+### VIII O prazer da cumplicidade \*\*
 
 16. E que fruto tirei eu, miserável, daquelas ações que agora recordo com rubor? Sobretudo daquele furto em que amei o próprio furto, e não outra coisa? Nenhum, pois o furto em si nada valia, ficando eu mais miserável com ele. Contudo, é certo que eu sozinho não o teria praticado - a julgar pela disposição de meu ânimo na ocasião; não, de modo algum; eu sozinho não o faria. Portanto, apreciei também nessa ocasião a companhia de outros culpados, com quem o cometi. Logo, tampouco, é certo que não apreciei nada mais além do furto, embora não apreciasse nada mais, pois também essa cumplicidade era nada.
 
 Mas que é na verdade? E quem mo poderá ensinar, senão o que ilumina meu coração e rasga suas sombras? De onde me vem a ideia desta pesquisa, desta discussão, destas considerações? Se eu então amei as peras que roubei, e queria apenas seu deleite, podia ter cometido sozinho, se isso bastasse, aquela iniquidade pela qual alcançaria aquele deleite, sem necessidade de excitar o prurido de meu apetite com a conivência de almas cúmplices. Porém, como não achava deleite algum nas peras, colocava este no próprio pecado, que consistia na companhia dos que pecavam comigo.
 
-### IX O prazer do pecado \*
+### IX O prazer do pecado \*\*
 
 17. E que sentimento era aquele de minha alma? Certamente, mui torpe, e eu, um desgraçado por alimentá-lo. Mas, que era na realidade? E quem há que entenda os pecados? Era como um riso, como que a fazer-nos cócegas no coração, provocado por ver que enganávamos os que não suspeitavam de nós tais coisas, e porque sabíamos que haviam de detestá-las.
 
@@ -323,13 +1488,13 @@ Porém, por que me deleitava o não pecar sozinho? Acaso por que ninguém se ri 
 
 Ó amizade inimiga! Sedução inescrutável da alma, vontade de fazer mal por passatempo e brinquedo, apetite do dano alheio sem proveito algum próprio e sem desejo de vingança! Só porque sentimos vergonha de não ser sem-vergonhas quando nos dizem: "Vamos! Façamos!"
 
-### X Deus, o sumo bem \*
+### X Deus, o sumo bem \*\*
 
 Quem desatará esse nó, tão enredado e emaranhado? Como é feio! Não quero voltar para ele os olhos, não quero nem mesmo vê-lo. Só a ti quero, justiça e inocência, tão belas e graciosas aos olhos puros, e com insaciável saciedade. Só em ti se acha o descanso supremo e a vida sem perturbação. Quem entra em ti entra no gozo de seu Senhor, e não temerá, e se sentirá sumamente bem no sumo bem. Eu me afastei de ti e andei errante, meu Deus, mui longe de teu apoio em minha adolescência, e cheguei a ser para mim região de esterilidade.
 
-## Livro III \*
+## Livro III \*\*
 
-### I O gosto do amor \*
+### I O gosto do amor \*\*
 
 1. Cheguei a Cartago, e por toda parte crepitava a meu redor a sertã de amores impuros. Ainda não amava, mas já gostava de amar, e com secreta indigência odiava a mim próprio por não me sentir mais indigente. Gostando do amor buscava o que amar, e odiava a segurança e os caminhos sem perigos, porque tinha dentro de mim fome de alimento interior, de ti mesmo, ó meu Deus, embora eu não sentisse essa fome como tal; antes, estava sem apetite algum dos manjares incorruptíveis não porque estivesse saciado deles, mas porque, quanto mais vazio, tanto mais enfastiado me sentia.
 
@@ -339,7 +1504,7 @@ Amar e ser amado era para mim a coisa mais doce, sobretudo se podia gozar do cor
 
 Caí também no amor, em que desejava ser colhido. Porém, ó meu Deus, misericórdia minha, quanto fel não misturaste àquela suavidade, e quão bom foste ao fazê-lo! Porque, enfim, fui amado, e cheguei secretamente aos laços do prazer, e me deixei atar alegre com trabalhosos laços, para ser logo açoitado com as varas de ferro ardente do ciúme, das suspeitas, dos temores, das iras e das contendas.
 
-### II A paixão dos espetáculos \*
+### II A paixão dos espetáculos \*\*
 
 2. Arrebatavam-me os espetáculos teatrais, cheios de imagens de minhas misérias e incentivos para o fogo de minha paixão. Mas por que quer o homem condoer-se quando contempla coisas tristes e trágicas, que de modo algum gostaria de padecer? Contudo, o espectador deseja sofrer como elas, e até essa mesma dor é seu deleite. Que é isso, senão incompreensível loucura? Porque tanto mais se comove alguém com elas quanto menos livre se está de semelhantes afetos, embora chamemos de misérias os sofrimentos, e de misericórdia a compaixão.
 
@@ -361,7 +1526,7 @@ Mas que pode haver de estranho em que eu, infeliz ovelhinha transviada de teu re
 
 Tal era minha vida. Mas seria isto vida, meu Deus?
 
-### III O estudo da retórica e os demolidores \*
+### III O estudo da retórica e os demolidores \*\*
 
 5. Entretanto, tua misericórdia, fiel, de longe pairava sobre mim. Mas em quantas iniquidades não me consumi, meu Deus, levado por sacrílega curiosidade, que, separando-me de ti, conduzia-me aos mais baixos, desleais e enganosos obséquios aos demônios a quem sacrificava minhas ações, sendo em todas castigado com duro açoite por ti!
 
@@ -371,7 +1536,7 @@ Tive também a ousadia de apetecer ardentemente e de procurar meios para a morte
 
 Eu já conseguira ser o primeiro da escola de retórica, e por isso me vangloriava soberbamente, e me inflava de orgulho. Contudo, tu sabes, Senhor, que eu era muito mais sossegado que os demais, e totalmente alheio às turbulências dos eversores (demolidores) - nome sinistro e diabólico que logrou converter-se em distintivo de urbanidade, entre os quais vivia com impudente pudor por não pertencer a seu grupo. É verdade que andava com eles, e que me deleitava às vezes com sua amizade, porém, sempre aborreci o que faziam, as troças com que impudentemente surpreendiam e ridicularizavam a timidez dos novatos, sem outra finalidade senão divertir-se enganando-os, fazendo disso alimento para suas malévolas alegrias. Nada há mais parecido a essas ações que as dos demônios, pelo que nenhum nome lhes quadra melhor que o de eversores ou perversores, por serem eles antes transtornados e pervertidos totalmente pelos espíritos malignos, que assim os burlam e enganam, sem que o saibam, justamente no que eles gostavam de ludibriar ou enganar aos demais.
 
-### IV O Hortênsio de Cícero \*
+### IV O Hortênsio de Cícero \*\*
 
 7. Entre esses tais estudava, em tão tenra idade, os livros da eloquência na qual desejava sobressair com o fim condenável e vão de satisfazer a vaidade humana. Mas, seguindo a ordem usada no ensino desses estudos, cheguei a um livro de um tal Cícero, cuja linguagem quase todos admiram, embora o mesmo não aconteça com seu conteúdo.
 
@@ -381,11 +1546,11 @@ Esse livro contém uma exortação sua à filosofia, e se chama Hortênsio. Esse
 
 Mas então - tu bem o sabes, luz de meu coração -, como eu ainda não conhecia o conselho de teu Apóstolo, só me deleitava naquela exortação o fato de me excitarem fortemente, inflamando-me com sua palavra a amar, a buscar, a conquistar, a reter e a abraçar energicamente não a esta ou àquela seita, senão a própria sabedoria, onde quer que estivesse. Só uma coisa me esfriava tão grande incêndio: não ver ali o nome de Cristo. Porque este nome, Senhor, este nome de meu Salvador, teu Filho, por tua misericórdia eu o bebera piedosamente com o leite de minha mãe, e o conservava no mais profundo de meu coração; e assim, tudo quanto fosse escrito sem este nome, por mui verídico, elegante e erudito que fosse, não me arrebatava totalmente.
 
-### V A desilusão das Escrituras \*
+### V A desilusão das Escrituras \*\*
 
 9. Em vista disso, decidi dedicar-me ao estudo da Sagrada Escritura, para a conhecer. Mas eis que deparo com algo encoberto para os soberbos e obscuro para as crianças, mas humilde a princípio e sublime à medida que se avança e coberto de mistérios, e eu não era tal que pudesse entrar por ela, dobrando a cerviz à sua passagem. Contudo, ao fixar nela a atenção, não pensei o que agora estou dizendo, mas simplesmente me pareceu indigna de ser comparada com a majestade dos escritos de Túlio. Meu orgulho recusava seu estilo, e minha mente não lhe penetrava o íntimo. Contudo, as Escrituras eram tais que haveriam de crescer com os pequenos; mas eu de nenhum modo queria ser criança, e, enfatuado de soberba, considerava-me grande.
 
-### VI A sedução do maniqueísmo \*
+### VI A sedução do maniqueísmo \*\*
 
 10. Desse modo vim a dar com uns homens que deliravam soberbamente, demasiado carnais e loquazes, em cuja boca há laços diabólicos e liga viscosa feita com as sílabas de teu nome, do de nosso Senhor, Jesus Cristo, e do de nosso Paráclito e Consolador, o Espírito Santo. Estes nomes nunca se afastavam de seus lábios, porém, só no som e ruído da boca, pois nos demais seu coração estava vazio de toda verdade.
 
@@ -409,7 +1574,7 @@ Ai de mim, por que degraus fui descendo até a profundidade do abismo, cheio de 
 
 Assim vim a encontrar aquela mulher procaz e desprovida de prudência - enigma de Salomão - que, sentada em uma cadeira à porta de sua casa, diz aos que passam: comei à vontade dos pães escondidos, e bebei da doçura da água roubada, a qual me seduziu por andar vagando fora de mim, debaixo do império do sentido carnal da vista, ruminando em meu íntimo o que meus olhos haviam devorado.
 
-### VII Alguns erros dos maniqueus \*
+### VII Alguns erros dos maniqueus \*\*
 
 12. Não conhecia em outra realidade - a verdadeira - e me sentia como que movido por um aguilhão a concordar com a opinião daqueles insensatos impostores quando me perguntavam de onde procedia o mal, se Deus estava limitado por forma corpórea, se tinha cabelos e unhas, e se deviam ser considerados justos os que tinham várias mulheres simultaneamente e os que causavam a morte de outros ou sacrificavam animais.
 
@@ -427,7 +1592,7 @@ Diremos, por isso, que a justiça é vária e volúvel? O que acontece é que os
 
 14. Ignorava eu então estas coisas, e não as advertia, e, embora de todos os lados me ferissem os olhos, eu não as via; e embora visse, quando declamava algum poema, que não me era lícito pôr um pé qualquer em qualquer parte do verso, senão em uma espécie de metro uns e em outra outros, e em um mesmo verso nem sempre em todas as partes o mesmo pé, e que a própria arte conforme a qual declamava, não obstante mandar coisas tão distantes, não era diversa em cada parte, senão uma em todas elas, contudo, não via como a justiça, à qual serviram aqueles varões bons e santos, pudesse conter simultaneamente, de modo muito mais excelente e sublime, preceitos tão diversos, sem variar em nenhuma parte, apesar de não mandar ou distribuir aos diferentes tempos todas as coisas simultaneamente, mas a cada um as que lhe são próprias. E, cego, censurava aqueles piedosos patriarcas, que não só usavam do presente como Deus lhes mandava e inspirava, mas também prediziam o futuro conforme Deus lhes revelava.
 
-### VIII Moral e costumes \*
+### VIII Moral e costumes \*\*
 
 15. Acaso foi alguma vez ou em alguma parte injusto amar a Deus de todo o coração, com toda a alma e com toda a mente, e amar ao próximo como a nós mesmos? Por isso, todos os pecados contra a natureza, como o foram os dos sodomitas, hão de ser detestados e castigados sempre e em toda parte, pois, mesmo que todos os cometessem, não seriam menos réus de crime diante da lei divina, que não fez os homens para usar tão torpemente de si, pois viola-se a união que devemos manter com Deus quando a natureza, da qual é autor, se mancha com a perversidade da libido.
 
@@ -447,7 +1612,7 @@ Também se fazem réus dos mesmos crimes os que com o pensamento e a palavra se 
 
 Essa é a razão pela qual só se pode voltar para ti com piedade humilde, e assim nos purificas dos maus costumes, e te mostras propício com os pecados dos que te confessam, e ouves os gemidos dos cativos, e nos livras dos grilhões que nós mesmos forjamos, contanto que não ergamos contra ti os chifres de uma falsa liberdade, quer arrastados pela ânsia de possuir mais, quer pelo temor de perder tudo, preferindo nosso próprio interesse a ti, bem de todos.
 
-### IX Pecados e imperfeições \*
+### IX Pecados e imperfeições \*\*
 
 17. Mas entre maldades, crimes e tanta multidão de iniquidades estão os pecados dos que progridem, pecados que os homens de bom juízo vituperam, de acordo com a regra da perfeição, e louvam pela esperança de frutos futuros, como o verde que antecede as colheitas.
 
@@ -457,13 +1622,13 @@ Por isso, muitas ações que parecem condenáveis aos homens são aprovadas por 
 
 Mas quando mandas, de repente, algo insólito e imprevisto, mesmo que o tenhas proibido uma vez, mesmo que escondas por algum tempo as razões de teu mandamento, mesmo que seja contra o pacto de alguns homens da sociedade, quem pode duvidar de que se há de obedecer, sendo justa a sociedade humana que te serve? Mas, felizes dos que sabem que tu o mandaste, porque os que te servem fazem tudo o que mandas, ou porque assim o exige o tempo presente, ou para prefigurar o futuro.
 
-### X Ridicularias dos maniqueus \*
+### X Ridicularias dos maniqueus \*\*
 
 18. Desconhecendo eu estas verdades, ria-me de teus santos servos e profetas. Mas, que fazia eu quando me ria deles, senão dar motivo para que te risses de mim, deixando-me cair insensivelmente, e pouco a pouco, em tais ridicularias, a ponto de acreditar que o figo, quando colhido, juntamente com sua mãe, a árvore, chora lágrimas de leite, e que se um santo da seita comia o tal figo, colhido não por delito próprio, mas alheio, misturando-o em suas entranhas, depois, gemendo e arrotando enquanto rezava, exalava anjos e até mesmo partículas de Deus, partículas essas do verdadeiro Deus que ficariam cativas para sempre naquele fruto se não fossem libertadas pelos dentes e pelo estômago do santo eleito?
 
 Também acreditei, miserável, que se devia ter mais misericórdia com os frutos da terra que com os homens para os quais foram criados, porque, se algum faminto, que não fosse maniqueu, me pedisse de comer, parecia-me que atendê-lo era como condenar aquele bocado à pena de morte.
 
-### XI O sonho de Mônica \*
+### XI O sonho de Mônica \*\*
 
 19. Mas estendeste tua mão do alto e livraste minha alma deste abismo de trevas, enquanto minha mãe, tua fiel serva, chorava-me diante de ti muito mais do que as outras mães costumam chorar sobre o cadáver dos filhos, porque via minha morte com a fé e o espírito que havia recebido de ti. E tu a escutaste, Senhor, tu a escutaste e não desprezaste suas lágrimas, que, correndo abundantes, regavam o solo debaixo de seus olhos por toda parte onde fazia sua oração; sim, tu a escutaste, Senhor. Com efeito, donde podia vir aquele sonho, com que a consolaste, condescendendo por isso a me admitir em sua companhia e mesa, o que havia começado a me negar, porque aborrecia e detestava as blasfêmias de meu erro?
 
@@ -477,15 +1642,15 @@ Confesso, Senhor, e muitas vezes disse que, pelo que me recordo, me comoveu mais
 
 Seguiram-se, efetivamente, quase nove anos, durante os quais continuei a me revolver naquele abismo de lodo e trevas de erro, afundando-me tanto mais quanto mais esforços fazia para me libertar. Entretanto, aquela piedosa viúva, casta e sóbria como as que tu amas, já um pouco mais alegre com a esperança, porém não menos solícita em suas lágrimas e gemidos, não cessava de chorar por mim em tua presença em todas as horas de suas orações; e suas preces eram aceitas a teus olhos, mas deixavas-me ainda revolver-me e envolver-me naquela escuridão.
 
-### XII Uma profecia \*
+### XII Uma profecia \*\*
 
 21. Nessa mesma ocasião lhe deste outra resposta, de que ainda me lembro - pois passo em silêncio muitas circunstâncias, pela pressa que tenho de chegar àquelas que te devo confessar com mais urgência, ou porque não as recordo. Deste, digo, outra resposta à minha mãe por meio de um sacerdote teu, um bispo educado em tua Igreja e exercitado em tuas Escrituras, a quem, como ela pedisse que se dignasse falar comigo, para refutar meus erros, desenganar-me de minhas más doutrinas e ensinar-me as boas - isto fazia com quantos julgava idôneos -, ele negou-se com muita prudência, pelo que pude ver depois, contestando-lhe que eu estava incapacitado para receber qualquer ensinamento, por estar muito orgulhoso com a novidade da heresia maniqueísta, e por haver posto em apuros muitos ignorantes com algumas questões fáceis, como ela mesma lhe havia indicado: "Deixe-o", disse, "e unicamente ore por ele ao Senhor! Ele mesmo, lendo os livros dos hereges, descobrirá o erro e conhecerá sua grande impiedade". Ao mesmo tempo contou-lhe como, quando criança, sua mãe, seduzida pelo erro, entregara-o aos maniqueus, chegando não só a ler, mas a copiar quase todas as suas obras, e como ele mesmo, sem necessidade de que ninguém o contestasse ou convencesse, chegou a conhecer quão digna de desprezo era aquela seita, abandonando-a enfim.
 
 Mas como, depois de assim falar, minha mãe não se aquietasse, instando com maiores rogos e mais abundantes lágrimas a que me visitasse, para discutir comigo sobre o tal assunto, o bispo, cansado já de sua insistência, lhe disse: "Vai-te em paz, mulher, e continua a viver assim, que não é possível que pereça o filho de tantas lágrimas" - palavras que ela recebeu como vindas do céu, segundo me recordava muitas vezes em seus colóquios comigo.
 
-## Livro IV \*
+## Livro IV \*\*
 
-### I Dos 19 aos 28 anos \*
+### I Dos 19 aos 28 anos \*\*
 
 1. Durante esse período de nove anos - desde os 19 até os 28 -, fui seduzido e sedutor, enganado e enganador, de acordo com a diversidade de minhas paixões; publicamente, por meio daquelas doutrinas que se chamam liberais; ocultamente, com o falso nome de religião, mostrando-me aqui soberbo, ali supersticioso, e em toda parte vaidoso. De um lado, perseguindo a aura da glória popular até os aplausos do teatro, os certames poéticos, os torneios de coroas de feno, as bagatelas de espetáculos e a intemperança da concupiscência; por outro lado, desejando muito purificar-me dessas imundícies, levando alimento aos chamados eleitos e santos, para que na oficina de seu estômago fabricassem anjos e deuses que me libertassem. Tais coisas seguia eu e praticava com meus amigos, iludidos comigo e por mim.
 
@@ -495,7 +1660,7 @@ Porque, sem ti, que sou eu para mim mesmo, senão um guia que conduz ao precipí
 
 Riam-se de nós os fortes e poderosos, que nós, débeis e pobres, confessaremos teu santo nome.
 
-### II Professor de retórica \*
+### II Professor de retórica \*\*
 
 2. Naqueles anos eu ensinava retórica, e, vencido pela cobiça, vendia a arte de vencer pela loquacidade. Contudo, bem sabes, Senhor, que preferia ter bons discípulos, dos que se chamam "bons", aos quais ensinava sem artifício a arte de enganar, não para que usassem dela contra a vida de um inocente, mas para algum dia defender algum culpado. Mas, ó Deus, tu me viste de longe vacilar sobre um caminho escorregadio, viste brilhar, entre espesso fumo, os fulgores da boa-fé que eu demonstrava ao ensinar àqueles amantes da vaidade, aqueles pesquisadores de mentiras, eu, seu irmão, seu semelhante.
 
@@ -505,7 +1670,7 @@ Por essa mesma época tive em minha companhia uma mulher não reconhecida pelo c
 
 Mas, confesso, Deus de meu coração, que, se repudiei semelhante maldade, não o fiz por amor da tua pureza, porque ainda não te sabia amar, eu, que sabia conceber apenas resplendores corpóreos. Porque não é verdade que a alma que suspira por semelhantes fábulas não fornica longe de ti, e se apoia na falsidade, e se apascenta de vento? Mas eis que, não querendo que se oferecessem sacrifícios aos demônios, eu mesmo me sacrificava a eles com aquela superstição. Com efeito, que significa apascentar ventos, senão apascentar os espíritos diabólicos, isto é, tornando-nos, por nossos erros, objeto de riso e de escárnio?
 
-### III A atração da astrologia \*
+### III A atração da astrologia \*\*
 
 4. Por isso, não cessava de consultar os impostores chamados matemáticos, porque não usavam em suas adivinhações de quase nenhum sacrifício, nem dirigiam preces a nenhum espírito, o que também, consequentemente, é condenado e repelido com razão pela piedade cristã e verdadeira. Porque o bom é confessar-te a ti, Senhor, e dizer-te: tem misericórdia de mim, e cura minha alma, porque pecou contra ti, e não abusar de tua indulgência para pecar mais livremente, mas ter sempre presente a sentença do Senhor: "Eis-te curado: não peques mais, para que te não suceda algo pior" - palavras cuja eficácia pretendem os astrólogos destruir dizendo: "A necessidade de pecar vem dos céus; foram Vênus, Saturno ou Marte que fizeram isto", e tudo para que o homem, que é carne, e sangue, e soberba podridão, fique sem culpa, e se atribua esta ao criador e ordenador do céu e das estrelas. E quem é este, senão tu, nosso Deus, suavidade e fonte de justiça, que dás a cada um de acordo com suas obras, e não desprezas ao coração contrito e humilhado?
 
@@ -517,7 +1682,7 @@ Mas, como eu lhe perguntasse por que muitas das coisas prognosticadas pela tal c
 
 6. E isto, Senhor, me ensinou ele, ou melhor, me ensinaste por seu intermédio, e delineaste em minha memória o que eu mesmo mais tarde devia procurar. Mas então, nem ele, nem meu caríssimo Nebrídio, jovem adolescente muito bom e casto, que zombava de toda aquela arte divinatória, puderam persuadir-me a que abandonasse essas coisas, porque impressionava-me mais a autoridade daqueles autores, e não havia encontrado ainda argumento certo, qual eu desejava, que me demonstrasse sem ambiguidade que os presságios que os astrólogos acertam são obra da sorte ou casualidade, e não da arte de observar os astros.
 
-### IV A morte do amigo \*
+### IV A morte do amigo \*\*
 
 7. Por aqueles anos, quando pela primeira vez comecei a ensinar em minha cidade natal, conheci um amigo, a quem amei excessivamente por ser meu condiscípulo, de minha idade, e por estarmos ambos na flor da adolescência. Juntos fomos criados quando crianças, juntos íamos à escola, juntos havíamos brincado. Mas nessa época não era amigo tão íntimo como o foi depois, embora também depois não o fosse tanto quanto o exige a verdadeira amizade, porque não há verdadeira amizade senão entre os que unes por meio da caridade, derramada em nossos corações pelo Espírito Santo que nos foi dado.
 
@@ -533,19 +1698,19 @@ A realidade, contudo, foi muito outra. Porque, melhorando, e sendo posto a salvo
 
 9. Com que dor se ensombreou meu coração! Tudo o que via era morte para mim. A pátria me era um suplício, e a casa paterna tormento insuportável, e tudo o que o lembrava transformava-se para mim em crudelíssimo martírio. Buscavam-no por toda parte meus olhos, e ele não aparecia. Cheguei a odiar todas as coisas, porque nada o continha, e ninguém mais me podia dizer como antes, quando chegava depois de alguma ausência: "Ali vem ele." Tornei-me para mim mesmo um grande problema, perguntando a minha alma por que estava triste, e me conturbava tanto, e ela não sabia que responder-me. E se eu lhe dizia "Espera em Deus", minha alma não me obedecia, e com razão, porque para mim era mais real e melhor o amigo queridíssimo que perdera que o fantasma em que mandava que esperasse. Só o pranto me era doce, e ocupava o lugar de meu amigo nas delícias de meu coração.
 
-### V O conforto das lágrimas \*
+### V O conforto das lágrimas \*\*
 
 10. Mas agora, Senhor, que já se passaram essas coisas, agora que o tempo suavizou minha ferida, poderei ouvir de ti, que és a própria verdade, aproximando o ouvido de meu coração de tua boca, para que me digas por que o pranto é doce aos desgraçados? Acaso, embora presente em toda parte, lançaste para longe de ti nossa miséria, permanecendo imutável em ti, enquanto deixas que sejamos atormentados por nossas provas? E, contudo, se nossos gemidos não chegassem a teus ouvidos, não haveria esperança alguma para nós.
 
 Mas por que motivo o gemer, o chorar, o suspirar e o queixar-se são colhidos da amargura da vida como fruto doce? Por acaso por que esperamos que nos ouças? Isso acontece quando se trata de súplicas, que sempre levam em si o desejo de chegar a ti; porém, poder-se-á dizer o mesmo da perda ou do pranto que então me inundava? Eu não esperava ressuscitar meu amigo com minhas lágrimas, mas limitava-me a me condoer e a chorar, porque era miserável e havia perdido minha alegria. Ou será que o pranto, que de si é amargo, se nos torna agradável quando, pelo fastio, aborrecemos os prazeres que antes nos eram gratos?
 
-### VI Inconsolável \*
+### VI Inconsolável \*\*
 
 11. Mas para que falar dessas coisas, se agora não é tempo de investigar, mas de me confessar a ti? Eu era miserável, como o é toda alma prisioneira do amor das coisas temporais, que se sente despedaçar quando as perde, sentindo então sua miséria, que a torna miserável antes mesmo de as perder. Assim era eu naquele tempo, e, chorando muito amargamente, descansava na amargura. E era tão miserável que, muito mais que ao amigo caríssimo, eu amava minha vida miserável, porque mesmo que quisesse trocá-la, não queria, contudo, perdê-la como ao amigo, e ainda não sei se gostaria de perdê-la por ele, como se conta de Orestes e Pílades - se não é coisa inventada -, que queriam morrer juntos um pelo outro, porque para eles viver separados era pior que a morte. Mas não sei que novo afeto nascera em mim, muito contrário a este, porque sentia grandíssimo tédio de viver, e ao mesmo tempo tinha medo de morrer. Creio que quanto mais amava o amigo tanto mais odiava e temia a morte, como inimigo feroz que mo havia arrebatado, e pensava que ela acabaria de repente com todos os homens, como o fizera com ele. Assim era eu então, pelo que me lembro.
 
 Meu Deus, eis aqui meu coração, ei-lo por dentro! Vê, porque sei, esperança minha, que me purificas da impureza desses afetos, atraindo para ti meus olhos, e libertando meus pés dos laços que me aprisionavam. Maravilhava-me de que vivessem os outros mortais depois da morte daquele a quem haviam amado como se nunca houvera de morrer; e mais me maravilhava ainda de que, morto ele, eu continuasse a viver, porque eu era outro ele. Bem disse um poeta quando chamou ao amigo "metade de sua alma". Porque senti que minha alma e a sua não eram mais que uma em dois corpos, e por isso causava-me horror a vida, porque não queria viver pela metade, e ao mesmo tempo tinha muito medo de morrer, para que não morresse de todo aquele a quem eu tanto amara.
 
-### VII De Tagaste para Cartago \*
+### VII De Tagaste para Cartago \*\*
 
 12. Ó loucura, que não sabe amar os homens humanamente! Ó homem insensato, que sofre imoderadamente os reveses humanos! Tudo isso era eu então, e assim agitava-me, suspirava, chorava, perturbava-me, e não encontrava descanso nem conselho. Trazia a alma rota e ensanguentada, impaciente de ser levada por mim, e não encontrava lugar onde a pudesse depor. Nem os bosques amenos, nem os jogos e cantos, nem os lugares suavemente perfumados, nem os banquetes esplêndidos, nem os deleites da alcova e do leito, nem, finalmente, os livros e os versos podiam dar-lhe descanso. Tudo me causava horror, até a própria luz. Tudo o que não era o que ele era se me tornava insuportável e odioso, exceto gemer e chorar, pois somente nisto achava algum descanso. E se minha alma deixava de chorar, logo pesava sobre mim o grande fardo de minha miséria.
 
@@ -553,19 +1718,19 @@ A ti, Senhor, deveria ser elevada, para ter cura. Eu o sabia, mas não o queria 
 
 Por isso fugi de minha pátria, porque meus olhos buscariam menos meu amigo onde não estavam acostumados a vê-lo. E assim me fui de Tagaste para Cartago.
 
-### VIII O consolo do tempo e da amizade \*
+### VIII O consolo do tempo e da amizade \*\*
 
 13. O tempo não corre debalde, nem passa inutilmente sobre os sentidos; antes, causa na alma efeitos maravilhosos. Assim vinha e passava, dias após dias, e vindo e passando deixava em mim novas esperanças e novas recordações, e pouco a pouco restituía-me a meus prazeres de outrora, a que ia cedendo minha dor, certamente, substituída não por novas dores, mas por sementes de novas dores. Mas por que me penetrara aquela dor tão facilmente, até o mais íntimo de meu ser, senão porque derramei minha alma sobre a areia, amando a um mortal como se não o fora? O que mais me confortava e alegrava eram sobretudo as consolações de outros amigos, com os quais amava o que amava em teu lugar, isto é, uma fábula enorme, uma grande mentira, a cujo contato impuro se corrompia nossa mente, arrastada pelo prurido de tudo ouvir, fábula que não morria para mim, ainda que morresse algum de meus amigos.
 
 Outras coisas havia que cativavam mais fortemente minha alma a eles, como conversar, rir, servir-nos mutuamente com amabilidade, ler juntos livros bem escritos, gracejar uns com os outros e divertir-nos juntos; às vezes discutir, mas sem ódio, como quando discordamos de nós mesmos, para com tais dissensões, muito raras, condimentar as muitas conformidades; ensinar ou aprender reciprocamente muitas coisas, suspirar impacientes pelos ausentes e receber alegres os que chegavam. Esses sinais, e outros semelhantes, que procedem de corações amantes e amados, e que se manifestam no rosto, na língua, nos olhos, e em mil outros gestos graciosos, inflamavam nossas almas, como em uma centelha, fazendo de muitas uma só.
 
-### IX O amigo Deus \*
+### IX O amigo Deus \*\*
 
 14. Isto é o que se ama nos amigos; e de tal modo se ama, que a consciência humana se considera culpada se não ama ao que a ama, ou se não retribui amor com amor, sem procurar na pessoa do amigo mais que o sinal exterior de sua benevolência. Daqui o pranto quando morre um amigo, e as trevas de dores, e as lágrimas do coração, e a doçura que se transforma em angústia, e a morte dos que morrem transformada na morte dos que vivem.
 
 Bem-aventurado o que te ama, Senhor, e ao amigo em ti, e ao inimigo por ti, porque só não perde o amigo quem tem a todos por amigos naquele que se não pode perder. E quem é este, senão nosso Deus, o Deus que fez o céu e a terra, e os enche, porque, enchendo-os, os criou? Ninguém, Senhor, te perde, senão o que te abandona. Mas, quem te deixa, para onde vai, ou para onde foge, senão de ti manso para ti irado? Onde não achará tua lei para seu castigo? Porque tua lei é a verdade, e a verdade és tu.
 
-### X As mentiras da beleza \*
+### X As mentiras da beleza \*\*
 
 15. Ó Deus das virtudes! Converte-nos e mostra-nos tua face, e seremos salvos! Porque, para onde quer que se volte a alma humana, onde quer que se estabeleça fora de ti, sempre encontrará dor, mesmo que se trate das formosuras que estão fora de ti e fora dela, as quais, todavia, nada seriam se não existissem em ti. Elas nascem e morrem, e, nascendo, começam a existir, e crescem para alcançar a perfeição, e, uma vez perfeitas, começam a envelhecer e morrem. Embora nem tudo chegue à velhice, tudo perece. Logo, quando nascem e se esforçam por existir, quanto mais depressa crescem para existir, tanto mais se apressam para não existir. Essa é sua condição. Eis tudo o que lhes deste, porque são partes de coisas que não existem todas a um só tempo, mas, morrendo e sucedendo-se umas às outras, formam o conjunto de que são partes.
 
@@ -573,7 +1738,7 @@ De modo semelhante forma-se também nosso discurso, por meio dos sinais sonoros,
 
 Que minha alma te louve por todas essas coisas, ó Deus, criador de quanto existe, mas não se pegue a elas com o visco do amor sensível, porque também elas caminham para o não ser, e dilaceram a alma com desejos pestilenciais, e ela quer existir e gosta de descansar nas coisas que ama. Mas nelas não acha onde descansar, porque não são estáveis. Elas fogem, e quem poderá segui-las com os sentidos da carne? Ou quem as pode alcançar, embora estejam presentes? Tardo é o sentido da carne, por ser sentido da carne, mas essa é a sua condição. É suficiente para o que foi criado, mas não o é para deter o curso das coisas, do princípio que lhes foi fixado, até o fim que lhes foi sinalado, porque em teu Verbo, que as criou, ouvem estas palavras: "Desde aqui... até ali."
 
-### XI A verdade de Deus \*
+### XI A verdade de Deus \*\*
 
 16. Não queiras ser vã, ó minha alma, nem ensurdeças o ouvido de teu coração com o tumulto de tua vaidade. Ou vê também tu: o próprio Verbo clama para que voltes, porque só acharás lugar de descanso imperturbável lá onde o amor não é abandonado se ele não nos abandona. Eis que essas coisas passam para dar lugar a outras, e para que assim se componha este universo inferior em todas as suas partes. "Mas, por acaso, passo de um lugar para outro?", diz o Verbo de Deus. Pois fixa nele tua morada, confia a ele tudo o que dele recebeste, alma minha, já que estás cansada de tantos enganos. Confia à Verdade quanto da Verdade recebeste, e não perderás nada; antes, tua podridão se cobrirá de flores, e serão curadas todas as tuas enfermidades, e serão reformadas e renovadas, estreitamente unidas a ti tuas partes inconsistentes, e já não te arrastarão para o lugar para onde caminham, mas permanecerão contigo para sempre onde está Deus, que é eternamente imutável.
 
@@ -581,7 +1746,7 @@ Que minha alma te louve por todas essas coisas, ó Deus, criador de quanto exist
 
 O que falamos também ouves pelo sentido da carne, e não queres, certamente, que as sílabas se detenham, mas que voem, para que venham as outras, e assim ouvires o conjunto. O mesmo acontece sempre com todas as coisas que compõem um todo, quando essas partes, que o formam, não existem ao mesmo tempo: há mais encanto no todo do que nas partes percebidas separadamente, se se pode percebê-las em sua totalidade. Mas, melhor do que todas elas, é o que as fez, que é nosso Deus, que não passa, porque nada vem depois dele.
 
-### XII O amor em Deus \*
+### XII O amor em Deus \*\*
 
 18. Se te agradam os corpos, louva a Deus neles, e dirige teu amor para seu artífice, para que não o desagrades nas mesmas coisas que te agradam.
 
@@ -597,13 +1762,13 @@ Filhos dos homens, até quando sereis duros de coração? Será possível que, d
 
 Dize-lhes isto, minha alma, para que chorem neste vale de lágrimas, e assim os arrebates contigo para Deus, porque, se dizes estas palavras ardendo em chamas de caridade, com espírito divino as dizes.
 
-### XIII O problema do belo \*
+### XIII O problema do belo \*\*
 
 20. Então, eu nada sabia dessas coisas, e por isso amava as belezas inferiores, e caminhava para o abismo, dizendo a meus amigos: "Porventura, amamos algo que não é belo? E que é o belo? E que é a beleza? Que é que nos atrai e prende às coisas que amamos? Porque, certamente, se nelas não houvesse certa graça e formosura, de nenhum modo nos atrairiam."
 
 E eu notava e via que nos próprios corpos uma coisa era o todo, e, como tal, belo, e outra o que lhe era conveniente, por acomodar-se de maneira perfeita a alguma coisa, como a parte do corpo em relação ao conjunto, o calçado em relação ao pé, e outras coisas semelhantes. Essa consideração brotou em minha alma do íntimo de meu coração, e escrevi alguns livros sobre o belo e o conveniente, creio que dois ou três - tu o sabes, Senhor -, pois já me esqueci, e não os tenho mais porque se me extraviaram não sei como.
 
-### XIV Razões de uma dedicatória \*
+### XIV Razões de uma dedicatória \*\*
 
 21. Mas, meu Senhor e meu Deus, por que dediquei esses livros a Hiério, orador de Roma, a quem não conhecia, apreciando-o apenas pela fama de sua doutrina, que era grande, e por alguns ditos seus, que ouvira, e que me agradaram? Mas eu o apreciava principalmente porque ele agradava aos outros, que o exaltavam com estupendos elogios, admirados de que um sírio, educado na eloquência grega, chegasse tão depressa a ser orador admirável na latina, e grande conhecedor de todas as matérias relativas ao estudo da sabedoria. Assim, ouve-se louvar a um homem, e, embora ausente, começa-se a amá-lo. Será que o amor entra no coração do que ouve pela boca do que louva? De maneira alguma, mas o amor de um se inflama ao contato do amor do outro. Esta é a razão pela qual se ama ao que é louvado, porém, só quando se está persuadido de que o louvor vem de coração sincero ou, o que é o mesmo, quando o louvor é inspirado pelo amor.
 
@@ -619,7 +1784,7 @@ Eis onde jaz enferma a alma débil que ainda não se apoiou na firmeza da verdad
 
 Para mim era importante que aquele homem conhecesse meu estilo e meus trabalhos. Se ele os considerasse bons, me entusiasmaria ainda mais por ele; mas se, pelo contrário, os reprovasse, meu coração, fútil e vazio de tua firmeza, se lastimaria. Contudo, meu prazer era pensar e refletir no problema do belo e do conveniente, objeto do livro que lhe dedicam, admirando-o na minha imaginação, mesmo que ninguém o louvasse.
 
-### XV Os primeiros livros \*
+### XV Os primeiros livros \*\*
 
 24. Mas não acertava ainda em ver a chave de tão grandes obras em tua arte, ó Deus onipotente, único criador de maravilhas, e assim ia-se minha alma pelas formas corpóreas, e definia o belo como o que agrada por si mesmo, e o conveniente como o que agrada por sua acomodação a outra coisa, e apoiava essa distinção com exemplos tomados dos corpos.
 
@@ -635,7 +1800,7 @@ Eu não sabia imaginar mais do que formas corporais; carne, acusava a carne; esp
 
 27. Teria eu 26 ou 27 anos quando escrevi esses volumes, revolvendo dentro de mim apenas imagens corporais, cujo ruído aturdia os ouvidos de meu coração, os quais procurava eu aplicar - ó doce verdade! - à tua melodia interior, quando meditava sobre o belo e o conveniente. Meu desejo era estar diante de ti, e ouvir tua voz, e alegrar-me intensamente com a voz do esposo; mas não podia, porque as vozes de meu erro me arrebatavam para fora, e, com o peso de minha soberba, caía no abismo, pois ainda não davas gozo e alegria a meus ouvidos, nem exultavam meus ossos, porque ainda não haviam sido humilhados.
 
-### XVI As dez categorias de Aristóteles \*
+### XVI As dez categorias de Aristóteles \*\*
 
 28. E de que me servia que, tendo vinte anos de idade, pouco mais ou menos, e chegando-me às mãos a obra de Aristóteles, intitulada As dez categorias - que meu mestre, o retórico de Cartago, e outros, considerados doutos, citavam com grande ênfase e ponderação, fazendo-me suspirar por ela como por algo grandioso e divino -, de que me servia ler essa obra e compreendê-la sozinho? Falando com outros, que afirmavam apenas ter conseguido entendê-la por intermédio de mestres eruditíssimos, que lha haviam explicado não apenas com palavras, mas também com figuras pintadas na areia, nada me souberam dizer que eu já não tivesse entendido em minha leitura particular.
 
@@ -655,21 +1820,21 @@ De que me serviam dons tão preciosos, se não usava bem deles? Porque só compr
 
 Ó Deus e Senhor nosso! Esperemos, ao abrigo de tuas asas; protege-nos, leva-nos! Tu levarás os pequeninos, e até que sejam anciãos tu os levarás, porque nossa firmeza só é firmeza quando está em ti; mas quando é nossa, então é debilidade. Nosso bem vive sempre contigo, e, porque nos afastamos dele, nos pervertemos. Voltemos já, Senhor, para que não sejamos destruídos, porque em ti vive nosso bem, que és tu sem deficiência alguma, sem medo de não o encontrar quando voltarmos, pois dali viemos, e, embora ausentes, nem por isso desaba nossa casa, tua eternidade.
 
-## Livro V \*
+## Livro V \*\*
 
-### I Oração \*
+### I Oração \*\*
 
 1. Recebe, Senhor, o sacrifício de minhas confissões por intermédio de minha língua, que tu formaste e impeliste a confessar teu nome, e cura a todos os meus ossos, e que eles digam: "Senhor, quem semelhante a ti?" Na verdade, quem se dirige a ti, nada te ensina do que se passa em si, porque não há coração fechado que se possa subtrair em teu olhar, nem dureza de homem que possa repelir tua mão, antes a abrandas quando queres, ou para compadecer-te, ou para castigar; não há quem se esconda de teu calor.
 
 Mas que minha alma te louve para que te ame, e confessa tuas misericórdias para que te louve. Não interrompem, nem calam teus louvores as criaturas todas do Universo, nem os espíritos todos, com sua boca voltada para ti, nem os animais e coisas corporais, pela boca dos que os contemplam, a fim de que, apoiando-se em tua Criação, nossa alma se levante de sua fraqueza, e chegue a ti, seu admirável criador, onde encontrará rejuvenescimento e verdadeira fortaleza.
 
-### II Os que fogem de Deus \*
+### II Os que fogem de Deus \*\*
 
 2. Afastem-se e fujam de ti os inquietos e os pecadores. Tu os vês e distingues suas sombras. E eis que, apesar deles, todas as coisas continuam belas; somente eles são feios. E em que te poderiam causar danos? Ou em que poderiam desonrar teu império, justo e íntegro desde os céus até as coisas mais ínfimas? E para onde fugiram quando fugiram de tua presença? E em que lugar não os podes encontrar? Fugiram, sim, para não ver-te a ti, que os estás vendo, mas tropeçaram contigo, que não abandonas nada do que criaste; tropeçaram contigo, injustos, para assim serem justamente castigados por se terem subtraído à tua brandura, por terem ofendido tua santidade, por terem caído sob teus rigores. Estes, evidentemente, ignoram que estás em toda parte, que nenhum lugar te limita, e que só tu estás presente mesmo nos que se afastam de ti. Que se convertam, pois, e te busquem, porque não abandonas tua criatura, como elas abandonaram a seu Criador. Que se convertam, e logo estarás em seus corações, nos corações dos que te confessam, dos que se lançam em ti, dos que choram em teu regaço depois de percorrerem caminhos difíceis. E tu, fácil, enxugarás suas lágrimas; e chorarão ainda mais, mas serão felizes por chorar, porque és tu, Senhor, e nenhum homem de carne e sangue, tu, Senhor, que os criaste, que os consolas e robusteces.
 
 E onde estava eu quando te buscava? Certamente, estavas diante de mim, mas eu me havia afastado de mim mesmo, e não me encontrava, e muito menos a ti!
 
-### III Fausto e o maniqueísmo \*
+### III Fausto e o maniqueísmo \*\*
 
 3. Falarei, na presença de meu Deus, do ano 29o de minha vida. Já havia chegado a Cartago um dos bispos maniqueus, chamado Fausto, grande laço do demônio, no qual caíam muitos pelo encanto sedutor de sua eloquência, que, embora também exaltada por mim, eu a sabia contudo distinguir das verdades objetivas, que eu desejava conhecer. Não era o prato do estilo que eu considerava, mas o alimento doutrinal que nele me era servido por aquele famoso Fausto, tão reputado entre os seus.
 
@@ -689,13 +1854,13 @@ Admiram-se disto os ignorantes, e ficam pasmados, mas os sábios gloriam-se diss
 
 Contudo, mandavam-me que acreditasse nessas doutrinas, embora não concordassem absolutamente com meus cálculos e com o que meus olhos testemunhavam.
 
-### IV Ciência e ignorância \*
+### IV Ciência e ignorância \*\*
 
 7. Senhor, Deus de verdade, acaso, para te agradar, basta conhecer essas coisas? Infeliz do homem que, conhecendo-as todas, te ignora; mas feliz de quem te conhece, embora as ignore! Quanto ao que conhece a ti e a elas, este não é mais feliz por causa de sua ciência, mas só é feliz por ti, se, conhecendo-te, te glorifica como Deus, e te dá graças, e não se desvanece em seus pensamentos.
 
 Porque, assim como é melhor quem reconhece estar na posse de uma árvore e te dá graças por sua utilidade, embora ignore quantos côvados tem de altura e quantos de largura, que o que a mede, e conta todos os seus ramos, mas não a possui, nem conhece, nem ama a seu Criador, assim o homem fiel, a quem pertencem todas as riquezas do mundo, e que, nada possuindo, possui tudo, por estar unido a ti, a quem servem todas as coisas - embora desconheça até o curso dos setentriões, seria insensatez duvidar -, é certamente melhor do que o que mede os céus e conta as estrelas, e pesa os elementos, mas é negligente contigo, que dispuseste todas as coisas em número, peso e medida.
 
-### V Loucuras de Manés \*
+### V Loucuras de Manés \*\*
 
 8. Mas quem pediu ao tal Manés que escrevesse sobre coisas cujo conhecimento não é necessário à piedade? Porque disseste ao homem: vê que a piedade é a sabedoria. Manés podia muito bem ignorar essa piedade e, todavia, ser muito instruído nas ciências profanas. Mas, porque não as conhecia, e se atrevia desavergonhadamente a ensiná-las, claramente indicava que de nenhum modo conhecia a piedade. Porque é por certo vaidade alardear conhecimentos humanos, mesmo verdadeiros, e é piedade confessar-te a ti. Por isso Manés, afastando-se dessa regra, falou tanto sobre essas coisas, que, convencido de ignorante pelos que as conhecem bem, viu-se claramente o crédito que merecia em matérias mais obscuras. Porque ele não quis ser pouco estimado, mas empenhou-se em persuadir aos demais de que tinha em si, pessoalmente, na plenitude de seu poder, o Espírito Santo, que consola e enriquece teus fiéis. Assim surpreendido em erro ao falar do céu e das estrelas, e do curso do Sol e da Lua, embora tais coisas não pertençam à doutrina da religião, claramente se descobre ser sacrílego seu atrevimento ao dizer coisas não só ignoradas, mas também falsas, e isso com tão insensato orgulho a ponto de querer atribuí-las à pretensa divindade de sua pessoa.
 
@@ -705,7 +1870,7 @@ Quanto a Manés, que se atreveu a se fazer de doutor, de autor, de guia e cabeç
 
 Contudo, eu ainda não estava certo se o que havia lido em outros livros, sobre as mudanças dos dias e das noites, uns mais longos, outros mais curtos, e sobre o suceder-se dos dias e das noites, e dos eclipses do Sol e da Lua, e outros fenômenos semelhantes, poderiam ser explicados conforme sua doutrina. Caso isso fosse possível, eu ainda ficaria em dúvida quanto ao modo por que se realizariam esses fenômenos, caso em que anteporia à minha fé a autoridade de Manés, pelo grande crédito de santidade em que o tinha.
 
-### VI A eloquência de Fausto \*
+### VI A eloquência de Fausto \*\*
 
 10. Durante os quase nove anos em que meu espírito errante deu ouvidos aos maniqueus, esperei ansiosamente a vinda de Fausto. Porque os demais adeptos, com os quais topava casualmente, não sabendo responder às objeções que eu lhes fazia, mandavam-me a ele, que, à sua chegada com uma simples entrevista, resolveria facilmente todas aquelas minhas dificuldades e ainda outras maiores que me ocorressem, de maneira claríssima.
 
@@ -719,7 +1884,7 @@ Contudo, na reunião dos ouvintes, molestava-me não poder apresentar-lhe minhas
 
 É ou não assim como estou contando, meu Senhor e meu Deus, juiz de minha consciência? Diante de ti estão meu coração e minha memória, e que já então guiavas no segredo oculto de tua providência, pondo diante de meus olhos meus erros vergonhosos, para que os visse e odiasse.
 
-### VII Desilusão \*
+### VII Desilusão \*\*
 
 12. Por isso, quando reconheci sua ignorância naquelas artes em que eu o julgava mui avantajado, comecei a desesperar de que me pudesse esclarecer e resolver as dificuldades que me preocupavam. É verdade que podia ignorar tais coisas e possuir a verdadeira piedade, contanto que não fosse maniqueu, porque seus livros estão cheios de fábulas intermináveis acerca do céu e dos astros, do Sol e da Lua, as quais eu já não esperava que mas pudesse explicar tão sutilmente como eu o desejava, cotejando-as com os cálculos matemáticos que eu lera em outras partes, para ver se deveria preferir o que diziam os livros de Manés, ou se, pelo menos, estes apresentavam demonstrações de igual valor.
 
@@ -731,7 +1896,7 @@ Quanto ao mais, todo o empenho que eu havia posto em progredir na seita desapare
 
 E tu, Senhor, agiste comigo de modo admirável, pois isso foi obra tua, meu Deus. Porque o Senhor é quem dirige os passos do homem e quem escolhe seu caminho. E quem poderá dar-nos a salvação, senão tua mão, que refaz o que fez?
 
-### VIII Viagem a Roma \*
+### VIII Viagem a Roma \*\*
 
 14. Também foi obra tua o fato de me persuadirem a ir a Roma, para ali lecionar o que ensinava em Cartago. Mas não deixarei de confessar-te o motivo que me moveu, porque também nestas coisas se descobre a profundidade de teu desígnio, e merece ser meditada e exaltada tua misericórdia sempre presente. O motivo que me levou a Roma não foram maiores lucros e maior consideração, como me prometiam os amigos que tal me aconselhavam - embora também essas razões fossem importantes para mim nesse tempo -, mas o principal e quase único motivo de minha determinação era saber que os jovens de Roma eram mais sossegados nas classes, mercê da rigorosa disciplina a que estavam sujeitos, segundo a qual não lhes era lícito entrar desordenada e turbulentamente nas aulas dos professores, dos quais não eram alunos, nem sequer entrar nas mesmas sem permissão, o contrário do que acontecia em Cartago, onde a liberdade dos estudantes é tão vergonhosa e desmedida que invadem única e furiosamente as aulas, e transtornam a ordem estabelecida pelos mestres em seu próprio interesse. Além do mais, com incrível estupidez, cometem uma multidão de insolências, que deveriam ser castigadas pelas leis, se a tradição não os protegesse. Aliás, essa tradição apenas manifesta o que há de lamentável no caso desses jovens, que já fazem como lícito o que jamais será permitido por tua lei eterna, e julgam agir impunemente, quando a cegueira com que agem é seu maior castigo, padecendo, eles incomparavelmente maiores males do que os que fazem aos outros.
 
@@ -745,7 +1910,7 @@ Soprou o vento, enfunou nossas velas, e desapareceu de nossas vistas a praia, on
 
 Por fim, depois de me haver acusado de mentiroso e de mau filho, pôs-se de novo a rogar por mim, e voltou para sua vida habitual, enquanto eu me dirigia a Roma.
 
-### IX Enfermo \*
+### IX Enfermo \*\*
 
 16. Em Roma fui recebido com o açoite de uma enfermidade corporal, que esteve a ponto de me mandar para a sepultura carregado de todos os pecados que havia cometido contra ti, contra mim e contra o próximo, pecados numerosos e pesados, que se acrescentavam à cadeia do pecado original, pelo qual todos morremos em Adão. Ainda não me tinhas perdoado nenhum deles em Cristo, nem ele havia desfeito em sua cruz as inimizades que contraíra contigo com meus pecados. E como poderia ele desfazê-los por uma cruz onde eu não via mais que um fantasma? Porque tão falsa me parecia a morte de sua carne como verdadeira a morte de minha alma, e tão verdadeira a morte de sua carne como falsa a vida de minha alma, que disto se não persuadia. Entretanto, agravando-se as febres, eu estava a ponto de partir e de perecer. Mas, para onde iria, se então tivesse que sair deste mundo, senão para o fogo e tormentos merecidos por minhas ações, de acordo com a verdade da ordem por ti estabelecida? Minha mãe tudo ignorava, mas, ausente, orava por mim, e tu, presente em todas as partes onde ela estava, lhe davas ouvidos, e exercias tua misericórdia para comigo onde eu estava, restituindo-me a saúde do corpo; mas meu coração sacrílego continuava enfermo. Na verdade, estando em tão grande perigo, não desejava teu batismo. Quando menino, eu era melhor, porque então o supliquei à piedade de minha mãe, como já recordei e confessei. Mas, para minha vergonha, eu havia crescido, e, em minha loucura, zombava dos conselhos de tua medicina, que não me deixou morrer duas vezes em tais sentimentos.
 
@@ -755,7 +1920,7 @@ Se o coração de minha mãe fosse transpassado por essa ferida, nunca haveria d
 
 Como poderias enganá-la naquelas visões e respostas, de algumas das quais já falamos, e de outras que passo em silêncio, que ela guardava em seu coração fiel, e que te apresentava em suas orações contínuas como compromissos assinados por tua mão, e que devias cumprir. Porque, por tua misericórdia infinita, gostas de te fazer devedor daqueles a quem perdoas todas as dívidas.
 
-### X Agostinho e os erros dos maniqueus \*
+### X Agostinho e os erros dos maniqueus \*\*
 
 18. Restabeleceste-me, pois, daquela doença, e por então salvaste o filho de tua serva enquanto ao corpo, a fim de poder mais tarde salvá-lo melhor e mais seguramente. Em Roma juntei-me ainda com os que se diziam santos, falsos e enganadores, e não só convivia com os ouvintes entre os quais se contava o dono da casa em que eu adoecera e convalescera - mas também com os que se chamam eleitos.
 
@@ -773,7 +1938,7 @@ Também supunha que nosso Salvador, teu Filho Unigênito, saíra, para nos salva
 
 Sem dúvida agora teus fiéis se rirão branda e amorosamente se lerem estas minhas confissões; mas eu, realmente, era assim.
 
-### XI Desculpas dos maniqueus \*
+### XI Desculpas dos maniqueus \*\*
 
 21. Por outra parte, eu já não acreditava que se pudessem defender os pontos que os maniqueus criticavam em tuas Escrituras. Contudo, às vezes desejava sinceramente discutir cada um desses pontos com algum varão, grande conhecedor de seus livros, para ver o que realmente sentia a respeito. Quando ainda em Cartago, já me mostrara interessado pelos discursos de um tal Elpídio, que falava e discutia publicamente contra os maniqueus, alegando citações da Sagrada Escritura que não era fácil refutar.
 
@@ -781,7 +1946,7 @@ Por sua vez, as respostas dos maniqueus me pareciam fracas, e mesmo assim não a
 
 Mas o que principalmente me mantinha cativo, e como que sufocado, eram as tais grandes massas, que pareciam oprimir-me, e debaixo de cujo peso, arquejante, me era impossível respirar a aura pura e simples de tua verdade.
 
-### XII Os estudantes de Roma \*
+### XII Os estudantes de Roma \*\*
 
 22. Com toda a diligência começara a pôr em obra o desígnio que me levara a Roma, que era ensinar a arte retórica, começando por reunir a princípio alguns estudantes em casa, para me tornar conhecido deles, e, por seu intermédio, dos demais.
 
@@ -789,7 +1954,7 @@ Mas logo vim a saber, com surpresa, que os estudantes de Roma faziam outras trav
 
 Também a estes odiava meu coração, porém, não com ódio perfeito, porque, na realidade, mais os aborrecia pelo prejuízo que me podiam causar do que pela simples injustiça de seu comportamento. Sem dúvida são infames os que assim agem, e se maculam longe de ti, amando passatempos e enganos passageiros e a recompensa de lodo, que não se pode colher com as mãos sem manchá-las, agarrando-se a um mundo que foge e desprezando a ti, que permaneces eternamente, a ti que chamas e perdoas a alma humana, quando, depois de suas prostituições, se volta para ti. Mesmo ainda agora aborrece-me gente tão depravada e sem modos, embora deseje que se corrijam, a fim de que prefiram ao dinheiro a ciência que aprendem, e a essa mesma ciência a ti, Deus, verdade e abundância de verdadeiro bem e paz castíssima. Mas naquele tempo - confesso - preferia que não fossem maus para meu interesse do que bons por teu amor.
 
-### XIII Viagem a Milão. Santo Ambrósio \*
+### XIII Viagem a Milão. Santo Ambrósio \*\*
 
 23. Por isso, quando a cidade de Milão escreveu ao prefeito de Roma pedindo para aquela cidade um professor de retórica, com viagem paga pelo Estado, eu mesmo solicitei esse emprego por intermédio dos mesmos amigos que estavam embriagados com as vaidades dos maniqueus, dos quais ia-me separar, sem que eles ou eu o soubéssemos. Símaco, então prefeito da cidade, propôs-me o tema de um discurso, e, sendo eu aprovado, mandou-me para Milão.
 
@@ -797,7 +1962,7 @@ Chegado a Milão, visitei o bispo Ambrósio, famoso entre os melhores da terra, 
 
 Esse homem de Deus recebeu-me paternalmente e se interessou muito por minha viagem, como bispo. Comecei a amá-lo; a princípio, não certamente como mestre da verdade, que eu desesperava de achar em tua Igreja, mas como homem afável para comigo. Ouvia-o atentamente quando pregava ao povo, não com a devida intenção, mas como se quisesse sondar sua eloquência, para ver se correspondia à sua fama, ou se era maior ou menor que a que se apregoava, ficando suspenso com suas palavras, mas sem cuidar no que dizia, coisa que eu até desprezava. Deleitava-me com a suavidade dos sermões, os quais, embora mais eruditos que os de Fausto, eram, contudo, menos alegres e agradáveis no estilo. Quanto à substância dos mesmos não havia comparação, pois Fausto se perdia por entre as fábulas dos maniqueus, e Ambrósio ensinava salutarmente a mais sã doutrina da salvação. Mas a salvação anda longe dos pecadores, tal como eu era então. Todavia, insensivelmente e sem o saber, ia-me aproximando dela.
 
-### XIV Catecúmeno \*
+### XIV Catecúmeno \*\*
 
 24. Embora sem cuidar de aprender o que dizia, interessado apenas em ouvir como dizia - era este gosto frívolo o único que ainda permanecia em mim, desesperado já de que se abrisse para o homem caminho que o levasse a ti -, infiltravam-se em meu espírito, juntamente com as palavras que me agradavam, as coisas que desprezava, por não poder separar umas das outras, e assim, ao abrir meu coração à sua eloquência, nele entrava ao mesmo tempo a verdade, mas isso gradualmente.
 
@@ -811,9 +1976,9 @@ Contudo, considerando e comparando sempre mais o que os filósofos haviam sentid
 
 Em consequência, resolvi tornar-me catecúmeno na Igreja Católica, que me havia sido recomendada por meus pais, até que alguma claridade certa viesse dirigir meus passos.
 
-## Livro VI \*
+## Livro VI \*\*
 
-### I Esperanças \*
+### I Esperanças \*\*
 
 1. Ó minha esperança desde a minha juventude! Onde estavas para mim, ou a que lugar te havias retirado? Acaso não foste tu que me criaste, diferenciando-me dos quadrúpedes, fazendo-me mais sábio do que as aves do céu? Mas eu caminhava por trevas e resvaladouros, e te procurava fora de mim, e não encontrava o Deus de meu coração, e caí nas profundezas do mar. Eu perdera a confiança e desesperava de encontrar a verdade.
 
@@ -825,7 +1990,7 @@ Nem se turbou seu coração com imoderada alegria ao ouvir quanto já se havia c
 
 Foi o que me disse. Mas diante de ti, ó fonte das misericórdias, redobrava suas orações e lágrimas, para que apressasses teu auxílio e esclarecesses minhas trevas, e corria com maior solicitude à Igreja para ficar suspensa dos lábios de Ambrósio, como da fonte de água viva que jorra para a vida eterna. Minha mãe amava a este varão como a um anjo de Deus, pois sabia que fora ele quem me fizera flutuar naquela indecisão, pela qual antevia, segura, que eu haveria de passar da enfermidade para a saúde, depois de um perigo mais grave, que os médicos chamam de crítico.
 
-### II Obediência de Mônica \*
+### II Obediência de Mônica \*\*
 
 2. Assim, um dia, como costumava na África, minha mãe levou papas, pão e vinho puro à sepultura dos mártires, mas o porteiro não quis receber suas ofertas. Quando soube que essa proibição vinha do bispo, resignou-se tão piedosa e obedientemente que eu mesmo me admirei de que tão facilmente se pusesse a condenar aquele costume, e não a criticar a proibição de Ambrósio.
 
@@ -833,7 +1998,7 @@ Foi o que me disse. Mas diante de ti, ó fonte das misericórdias, redobrava sua
 
 Mas, parece-me, meu Senhor e meu Deus - e assim o crê meu coração em tua presença -, que minha mãe não teria abandonado tão facilmente esse costume - que, todavia, era necessário cortar - se outro a houvesse proibido, outro a quem não amasse tanto como a Ambrósio. De fato, ela o estimava muito por minha salvação, e ele a tinha em grande consideração pela religiosidade e fervor com que frequentava a Igreja, na prática das boas obras. Por isso, muitas vezes quando me encontrava com ele, costumava prorromper em louvores à minha mãe, e me felicitava por ser seu filho, ignorando o filho que ela tinha em mim, filho que duvidava de tudo e julgava impossível achar o caminho da vida.
 
-### III Primeiras conquistas \*
+### III Primeiras conquistas \*\*
 
 3. Eu ainda não gemia ao orar para que me socorresses, mas meu espírito achava-se ocupado em investigar e inquieto por discutir, considerando ao próprio Ambrósio como homem feliz segundo o mundo, vendo-o tão honrado pelas mais altas autoridades. Somente seu celibato me parecia difícil. Mas eu não podia imaginar, por nunca o ter experimentado, as esperanças que o animavam, nem a luta que tinha de travar contra as tentações de sua própria grandeza, nem os consolos de que gozava na adversidade, nem os saborosos deleites que experimentava na boca interior de seu coração quando ruminava teu alimento. Ele, por sua vez, desconhecia minha inquietação e o precipício em que estava para cair, porque não lhe podia perguntar, como desejava, o que queria. Uma multidão de homens de negócios, a quem ele acudia nas dificuldades, impediam-me de o ouvir e de lhe falar.
 
@@ -847,7 +2012,7 @@ Em todo caso, qualquer que fosse sua intenção, só poderia ser boa em um homem
 
 Assim, quando verifiquei que vossos filhos espirituais, a quem regeneraste no seio da santa mãe, a Igreja, não entendiam aquelas palavras, "Fizeste o homem à sua imagem" , de modo a acreditar que estavas encerrado na forma do corpo humano - embora eu então não imaginasse, nem sequer suspeitasse de longe o que fosse uma substância espiritual -, alegrei-me com isso, envergonhando-me por ter ladrado durante tantos anos, não contra a fé católica, mas contra invenções de minha inteligência carnal. Tinha sido ímpio e temerário por criticar uma doutrina que eu deveria ter procurado conhecer. Mas tu - que estás ao mesmo tempo tão alto e tão perto de nós, tão escondido e tão presente, tu que não tens membros maiores nem menores, que estás inteiro em toda parte sem estar todo em nenhum lugar, certamente não tens nossa forma corpórea, e, contudo, fizeste o homem à tua imagem, e eis que ele, da cabeça aos pés, é limitado pelo espaço.
 
-### IV O espírito da letra \*
+### IV O espírito da letra \*\*
 
 5. Não sabendo, pois, como poderia subsistir esta tua imagem no homem, eu deveria bater na porta, procurando conhecer de que modo deveria entender essa crença, em lugar de me opor insolentemente, como se ela fosse o que eu imaginava. E assim, tanto mais fortemente me roía o coração o cuidado de ter alguma certeza, tanto mais me envergonhava de ter sido o joguete dos que me haviam prometido a certeza, e por ter sustentado com pueril empenho e animosidade tantas coisas duvidosas como certas.
 
@@ -861,7 +2026,7 @@ Abstinha meu coração de qualquer adesão, temendo cair em um precipício; mas 
 
 É verdade que poderia sarar crendo, e deste modo, purificado pela fé, o olhar de meu espírito pudesse dirigir-se de algum modo até tua verdade, sempre imutável e indefectível. Mas, como sói acontecer ao que caiu nas mãos de um mau médico, que depois receia entregar-se nas mãos de um bom, assim me sucedia a mim no que diz respeito à saúde de minha alma, que, não podendo sarar senão pela fé, recusava-se a sarar por temor de crer em falsidades. Minha alma resistia às tuas mãos, ó meu Deus, que preparaste o remédio da fé, e o derramaste sobre as enfermidades da terra, dando-lhe tanta autoridade e eficácia.
 
-### V Os mistérios da Bíblia \*
+### V Os mistérios da Bíblia \*\*
 
 7. Contudo, desde esse tempo, comecei a dar preferência à doutrina católica, porque me parecia que nela se mandava com mais modéstia, e sem mentira, a crer no que não era demonstrado - ou porque, embora existindo provas, estas não fossem acessíveis a todos, ou porque não existiam -, o que não acontecia entre os maniqueus, que desprezavam a fé, e prometiam com temerária arrogância a ciência, e depois nos obrigavam a acreditar em uma infinidade de fábulas completamente absurdas, na impossibilidade de demonstrá-las.
 
@@ -873,7 +2038,7 @@ E, quanto aos absurdos em que antes costumava tropeçar, e que eu ouvira explica
 
 Pensava eu nessas coisas, e me assistias; suspirava, e me ouvias; vacilava, e me governavas; andava pela via larga do século, e não me abandonavas.
 
-### VI Alegria de bêbado \*
+### VI Alegria de bêbado \*\*
 
 9. Eu aspirava às honras, às riquezas e ao matrimônio, e tu te rias de mim. E nesses desejos sofria grandes amarguras, sendo-me tu tanto mais propício quanto menos consentias que eu achasse doçura no que não eras tu. Vê, Senhor, meu coração, tu que quiseste que eu te recordasse estas lembranças e tas confessasse. Una-se agora a ti minha alma, a quem livraste do visco tenaz da morte. Como era infeliz! E tu a picavas no mais dolorido de sua ferida, para que deixasse tudo e se convertesse a ti, que estás acima de tudo. Sem ti nada existiria. Ferias minha alma para que se voltasse para ti, e fosse curada.
 
@@ -887,7 +2052,7 @@ Importa, é certo, conhecer os motivos da alegria de cada um, eu o sei, e a aleg
 
 Muitas coisas disse então a meus amigos a esse propósito, e muitas vezes eu costumava examinar minha situação, e achava que ia mal. Isso me fazia sofrer, e redobrava minha dor; se me sorria alguma ventura, não me movia para apanhá-la, porque voava-me das mãos antes mesmo que a pudesse alcançar.
 
-### VII Alípio \*
+### VII Alípio \*\*
 
 11. Os que convivíamos em boa amizade lamentávamos estas coisas, mas de modo especial e familiaríssimo eu o fazia com Alípio e Nebrídio. Alípio, como eu, era do município de Tagaste, nascido de uma das melhores famílias da cidade. Mas era mais jovem do que eu, pois havia sido meu discípulo quando comecei a ensinar em nossa cidade, e depois em Cartago. Ele me queria muito, por lhe parecer bom e douto, assim como eu a ele, por sua grande inclinação à virtude, que já se manifestava nele em tão tenra idade.
 
@@ -903,7 +2068,7 @@ Senhor, cale teus louvores quem não percebe tuas misericórdias, que eu te conf
 
 Depois venceu a resistência paterna para me escolher como mestre, e seu pai cedeu e consentiu. Voltando a ser meu discípulo, foi envolvido comigo na superstição dos maniqueus, apreciando neles aquela ostentação de continência, que ele julgava legítima e sincera. Na realidade, era uma loucura sedutora, um laço onde caíam almas preciosas, ainda inábeis para sondar o fundo da virtude, e, por isso mesmo, vítimas fáceis da aparência que mascarava uma virtude hipócrita e fingida.
 
-### VIII A atração do anfiteatro \*
+### VIII A atração do anfiteatro \*\*
 
 13. Não querendo de nenhum modo deixar a carreira do mundo, tão decantada por seus pais, partira antes de mim para Roma, a fim de estudar direito, e lá se deixou arrebatar de novo, de modo incrível e com incrível paixão, pelos espetáculos de gladiadores.
 
@@ -917,7 +2082,7 @@ Já não era o mesmo que ali viera, mas um da turba, com a qual se misturara, di
 
 Que mais direi? Contemplou o espetáculo, gritou, apaixonou-se, e foi atacado da loucura, que havia de estimulá-lo a voltar, não só com os que a princípio o haviam levado, mas à sua frente, e arrastando a outros consigo! Mas tu te dignaste, Senhor, livrá-lo deste estado com mão poderosa e cheia de misericórdia, ensinando-o a não confiar em si, mas em ti, embora isto acontecesse muito tempo depois.
 
-### IX Alípio, ladrão a contragosto \*
+### IX Alípio, ladrão a contragosto \*\*
 
 14. Contudo, essa aventura gravara-se em sua memória como remédio para o futuro. O mesmo se deu com outra, que aconteceu quando ainda era estudante em Cartago e seguia meus cursos. Era meio-dia. Alípio estava repassando uma declamação, segundo o costume dos estudantes, quando foi preso como ladrão pelos guardas do foro. Sem dúvida o permitiste, meu Deus, apenas para que esse jovem, que haveria de ser tão grande no futuro, começasse já a aprender que, ao julgar outro homem, alguém deve condenar alguém levianamente, e com temerária credulidade.
 
@@ -931,7 +2096,7 @@ Sabendo o que se passara, o arquiteto deu ordens à turba alvoroçada e enfureci
 
 Deste modo, o processo foi transferido para aquela casa, para confusão da turba, que já começava a triunfar de Alípio. O futuro dispensador de tua palavra, e juiz de tantas causas de tua Igreja, saiu dessa aventura com mais experiência e sabedoria.
 
-### X Os três amigos \*
+### X Os três amigos \*\*
 
 16. Encontrei Alípio em Roma, onde se uniu a mim com tão estreito vínculo de amizade, que foi comigo para Milão, tanto para não se separar de mim como para exercitar um pouco do que havia aprendido de direito, embora isto fizesse mais para agradar aos pais do que por vontade própria. Já por três vezes fora assessor, deixando a todos admirados por sua inteireza, e ficando ele mais admirado ainda de que juízes preferissem o dinheiro à inocência.
 
@@ -947,7 +2112,7 @@ Assim era então este amigo, tão intimamente unido a mim, e que comigo vacilava
 
 Eram três bocas famintas que comunicavam mutuamente a própria fome, esperando que lhes desses comida no tempo oportuno. Na amargura, que por tua misericórdia se seguia a todas as nossas ações mundanas, se desejávamos averiguar a causa de tais sofrimentos, encontrávamos trevas. Afastávamo-nos gemendo e clamando: até quando durará este sofrimento? E isto repetíamos frequentemente, mas, dizendo-o, não abandonávamos nosso modo de vida, porque não víamos nenhuma certeza a que nos pudéssemos abraçar, se o abandonássemos.
 
-### XI Entre Deus e o mundo \*
+### XI Entre Deus e o mundo \*\*
 
 18. É com espanto que minha memória me recordava diligentemente todo o tempo decorrido desde meus 19 anos, quando comecei a arder no desejo da sabedoria, propondo, achada esta, abandonar todas as vãs esperanças e enganadoras loucuras das paixões.
 
@@ -967,7 +2132,7 @@ Mas já tinha trinta anos, e ainda continuava preso ao mesmo lodaçal, ávido de
 
 20. Enquanto dizia isto, e se alternavam estes ventos, que impeliam meu coração de aqui para ali, o tempo passava, e eu me demonstrava a me converter ao Senhor, adiando de dia para dia o viver em ti, embora não deixasse de morrer todos os dias em mim. Amando a vida feliz, temia buscá-la em sua morada, procurando-a e fugindo dela ao mesmo tempo. Pensava que haveria de ser mui desgraçado se me visse privado das carícias da mulher, e não pensava no remédio de tua misericórdia, que cura esta enfermidade, porque não o havia experimentado ainda. Julgava que a continência é obra de nossa própria energia, energia que eu não tinha a consciência de possuir. Eu era bastante néscio para ignorar que ninguém, como está escrito, é casto sem que tu lhe dês força. Essa força tu certamente ma darias se eu ferisse teus ouvidos com os gemidos de minha alma, e se com fé sólida lançasse em ti meus cuidados.
 
-### XII Casar ou não? \*
+### XII Casar ou não? \*\*
 
 21. Proibia-me Alípio que me casasse, dizendo-me repetidas vezes que, se o fizesse, não poderíamos dedicar-nos juntos, com segura tranquilidade, ao amor da sabedoria, como há muito desejávamos. Alípio, nessa matéria, era castíssimo, de tal modo que causava admiração, porque, no princípio de sua juventude, experimentara o prazer carnal, mas não se prendera a ele. Antes, arrependeu-se muito e o desprezou, vivendo depois em perfeita continência.
 
@@ -979,7 +2144,7 @@ Além do mais, a serpente infernal falava por minha boca a Alípio, e por minha 
 
 Certamente que nem ele nem eu dávamos muita importância ao que há de decoroso ou honesto no matrimônio, como a direção da família e a educação dos filhos. Mas o que me mantinha cativo e me atormentava violentamente era o hábito de saciar minha insaciável concupiscência, e a ele era a admiração que o arrastava para o mesmo cativeiro. Assim éramos, Senhor, até que tu, ó Altíssimo, que não desamparas nosso lodo, compadecido, por modos maravilhosos e ocultos, viestes em socorro destes infelizes.
 
-### XIII O pedido de casamento \*
+### XIII O pedido de casamento \*\*
 
 23. Instavam solicitamente comigo para que me casasse. Já havia feito o pedido, já havia recebido uma promessa, ajudado principalmente por minha mãe, que esperava que eu, uma vez casado, seria regenerado nas águas salutares do batismo. Minha mãe alegrava-se por me ver cada dia mais apto para recebê-lo, vendo que na minha fé se realizavam seus votos e tuas promessas.
 
@@ -987,7 +2152,7 @@ Contudo, minha mãe, por meu pedido como por seu desejo, te suplicava com forte 
 
 Contudo, insistia no matrimônio, e pediu-se a mão de uma jovem, a que ainda faltavam dois anos para ser núbil; mas, como ela agradava, era preciso esperar.
 
-### XIV Um projeto desfeito \*
+### XIV Um projeto desfeito \*\*
 
 24. Éramos muitos os amigos que detestávamos as turbulentas preocupações da vida humana. Em nossas conversas havíamos debatido e quase resolvido separar-nos de todos para viver sossegadamente. Tínhamos pensado em organizar esse modo de vida de tal sorte que tudo o que tivéssemos seria posto em comum, formando de todos os patrimônios um patrimônio único. Graças à nossa amizade sincera não haveria mais a fortuna deste ou daquele, mas uma só fortuna comum.
 
@@ -995,7 +2160,7 @@ Seríamos cerca de dez homens os que desejávamos formar essa sociedade, alguns 
 
 Voltamos novamente aos suspiros e gemidos, e a caminhar pelos largos e batidos caminhos do século, porque em nosso coração havia mil pensamentos, mas teu conselho permanece eternamente. Do alto de tua sabedoria te rias de nossos projetos e preparavas o cumprimento dos teus, a fim de dar-nos alimento no tempo oportuno, abrindo tuas mãos e enchendo-nos de bênçãos.
 
-### XV A separação da amante \*
+### XV A separação da amante \*\*
 
 25. Entretanto, multiplicavam-se meus pecados, e quando arrancaram de meu lado, como empecilho para meu casamento, aquela com quem partilhava meu leito, meu coração, ao qual ela estava unida, ficou ferido e ensanguentado. Ela, por sua vez, voltando para a África, fez-te voto, Senhor, de não conhecer outro homem, deixando em minha companhia o filho natural que dela tivera.
 
@@ -1003,7 +2168,7 @@ Mas eu, desgraçado, incapaz de imitar uma mulher, e não podendo suportar o pra
 
 Mas nem por isso sarava a chaga causada pela separação da primeira mulher; mas, depois de ardor e sofrimento agudíssimos, começava a se corromper, doendo tanto mais desesperadamente quanto menos ardente se tornava.
 
-### XVI A aproximação de Deus \*
+### XVI A aproximação de Deus \*\*
 
 26. Louvor e glória a ti, ó fonte das misericórdias! Eu me tornava cada vez mais miserável, e tu te aproximavas cada vez mais de mim. Já estava junto de mim tua destra, para me arrancar do lodo dos meus vícios e me purificar, e eu não o sabia. Mas nada havia que me apartasse do profundo abismo dos prazeres carnais, senão o medo da morte e de teu juízo futuro, que jamais se apartou de meu coração, através das várias doutrinas que segui.
 
@@ -1011,9 +2176,9 @@ Discutia com meus amigos Alípio e Nebrídio a respeito do sumo bem e do sumo ma
 
 Ó caminhos tortuosos! Pobre da alma temerária que, apartando-se de ti, esperava achar algo melhor! Dá voltas e mais voltas, de costas, de lado, de bruços, mas tudo lhe é duro, porque só tu és seu descanso. Mas logo te fazes presente, e nos livras de nossos miseráveis erros, e nos pões em teu caminho, e nos consolas, e dizes: "Correi, que eu vos levarei e conduzirei ao termo, e serei vosso sustento!"
 
-## Livro VII \*
+## Livro VII \*\*
 
-### I A ideia de Deus \*
+### I A ideia de Deus \*\*
 
 1. Já estava morta minha adolescência má e nefanda; entrava na juventude, e quanto mais avançava em idade, mais vergonhosa se tornava minha vaidade, a ponto de não poder imaginar uma substância que não se pudesse perceber com os olhos.
 
@@ -1025,7 +2190,7 @@ Meu coração clamava violentamente contra todas essas minhas imaginações, e m
 
 E também a ti, vida de minha vida, te imaginava como um Ser imenso, penetrando, por todas as partes, através dos espaços infinitos, toda a massa do mundo, alastrando-se sem limites na imensidão, de sorte que a terra, o céu e todas as coisas te continham, e tudo isso tinha em ti seu limite, sem que te limitasses em parte alguma. Mas assim como a massa do ar - deste ar que está sobre a terra - não impede que passe por ele a luz do Sol, não o impede de a atravessar, de a penetrar sem romper ou cortar, antes enchendo-a totalmente, assim eu pensava que não somente o corpo do céu, do ar e do mar, mas também o da terra, se deixava atravessar e penetrar por ti em todas as suas partes, grandes e pequenas, para captar tua presença, que, com secreta inspiração, governa interior e exteriormente tudo o que criaste. Assim conjecturava eu, por não poder imaginar outra coisa; mas minha hipótese era falsa. Porque, se fosse assim, uma parte maior da terra conteria maior parte de ti; e uma parte menor da terra conteria uma parte menor. E de tal modo estariam as coisas cheias de ti, que o corpo de um elefante ocuparia tanto mais de teu ser que o corpo do passarinho, pois aquele é maior do que este, e ocupa mais espaço. Assim, fragmentado entre as partes do Universo, estarias presente nas grandes partes do Universo por grandes partes de ti, e nas pequenas por pequenas, o que não acontece. Mas ainda não tinhas iluminado minhas trevas.
 
-### II Objeção contra o maniqueísmo \*
+### II Objeção contra o maniqueísmo \*\*
 
 3. Bastava-me, Senhor, para arruinar aqueles enganados enganadores e mudos charlatães - porque tua palavra não soava em sua boca -, bastava-me, certamente, o argumento que há muito tempo, estando ainda em Cartago, costumava opor-lhes Nebrídio, impressionando a todos os que então o ouvimos.
 
@@ -1037,7 +2202,7 @@ E assim, se os maniqueus declaram incorruptível tudo o que és, isto é, a subs
 
 Bastava-me, pois, este argumento contra aqueles homens para lançá-los completamente de meu peito angustiado, porque, sentindo e dizendo de ti tais coisas, não tinham outra saída que um horrível sacrilégio de coração e de língua.
 
-### III Deus e o mal \*
+### III Deus e o mal \*\*
 
 4. Mas eu, mesmo quando afirmava e cria firmemente que és incorruptível, inalterável, absolutamente imutável, nosso Senhor, Deus verdadeiro, que não só és criador de nossas almas, mas de nossos corpos, e não somente de nossas almas e corpos, mas de todas as criaturas e de todas as coisas. Contudo, eu não tinha ainda a explicação, a solução do problema da causa do mal, qualquer que ela fosse, estava certo de que deveria procurá-la de modo que não me visse obrigado por sua causa a julgar mutável a um Deus imutável, porque isso seria transformar-me no que procurava.
 
@@ -1051,7 +2216,7 @@ Mas de novo refletia: "Quem me criou? Por acaso não foi Deus, que não só é b
 
 Esses pensamentos tornavam a me deprimir e sufocar, mas não me arrastavam até esse abismo de erro onde ninguém te confessa, e onde se prefere fazer-te escravo do mal que pensar considerar o homem capaz de o cometer.
 
-### IV A substância de Deus \*
+### IV A substância de Deus \*\*
 
 6. Assim, pois, empenhava-me por descobrir as outras verdades, como havia descoberto que o incorruptível é melhor que o corruptível, e por isso confessava que tu, qualquer que fosse tua natureza, devias ser incorruptível. Porque ninguém pôde nem poderá jamais conceber algo melhor do que tu, que és o sumo bem por excelência. Por isso, sendo certíssimo e absolutamente verdadeiro que o incorruptível deve ser preferido ao corruptível, o que eu já fazia, meu pensamento já poderia conceber algo melhor do que o meu Deus, se não fosse incorruptível.
 
@@ -1061,7 +2226,7 @@ Tampouco podes ser obrigado, contra tua vontade, seja ao que for, porque tua von
 
 Mas por que tantas palavras para demonstrar que a substância de Deus não é corruptível, já que, se o fosse, não seria Deus?
 
-### V A origem do mal \*
+### V A origem do mal \*\*
 
 7. Buscava eu a origem do mal, mas buscava-a mal, e não via o mal que havia em meu modo de buscá-la. Diante dos olhos de minha alma colocava toda a Criação, tanto o que podemos ver, como a terra, o mar, o ar, as estrelas, as árvores, os animais, como o que não podemos ver, como o firmamento, e todos os anjos e seres espirituais, porém, estes como se fossem corpos colocados nos respectivos lugares, de acordo com minha fantasia. Fiz de tua criação uma espécie de massa imensa, especificada por diversos gêneros de corpos, corpos verdadeiros e espíritos, que eu imaginava como corpos.
 
@@ -1071,7 +2236,7 @@ E eu a imaginava imensa, não quanto ela era realmente - que isto era impossíve
 
 Tais eram os pensamentos de meu coração miserável, oprimido pelos devoradores cuidados da morte e por não ter encontrado a verdade. Contudo, de modo estável, firmara-se em meu coração a fé de teu Cristo, nosso Senhor e Salvador, professada pela Igreja Católica, ainda informe, certamente, em muitos pontos, e como que flutuando fora das normas da doutrina; contudo, minha alma não a abandonava, mas cada dia mais se abraçava a ela.
 
-### VI O absurdo dos horóscopos \*
+### VI O absurdo dos horóscopos \*\*
 
 8. Também já havia rechaçado as enganosas predições e os ímpios delírios dos astrólogos.
 
@@ -1099,7 +2264,7 @@ De onde concluí com toda a certeza que os horóscopos verdadeiros não se podem
 
 O astrólogo, portanto, deveria prognosticar coisas falsas, ou, no caso de falar coisas verdadeiras, estas forçosamente deveriam ser diferentes, a despeito da identidade das observações. Logo, se seus prognósticos fossem verdadeiros, não o seriam por efeito da arte, mas do acaso. Porque tu, Senhor, governador justíssimo do Universo, por inspiração secreta, desconhecida dos consulentes e astrólogos, fazes que cada um receba a resposta que lhe convém, de acordo com os méritos das almas, do fundo do abismo de teu justo juízo, ao qual o homem não pode dizer: "Que é isto? Por que isto?" Não o diga, não o diga, porque é um simples homem.
 
-### VII Ainda a origem do mal \*
+### VII Ainda a origem do mal \*\*
 
 11. Deste modo, ó meu auxílio, já me havias libertado daquelas ataduras, embora eu buscasse ainda a origem do mal, e não encontrasse solução. Mas não permitias que as ondas de meu pensamento me apartassem daquela fé, que me assegurava que existias, que tua substância é imutável, que cuidas dos homens, que hás de julgá-los, e que traçaste o caminho da salvação dos homens em direção àquela vida que há de sobrevir depois da morte, em Cristo, teu Filho e Senhor nosso, e nas Sagradas Escrituras, recomendadas pela autoridade de tua Igreja Católica.
 
@@ -1109,11 +2274,11 @@ Sabes o que eu padecia, mas nenhum homem o sabia. Com efeito, quão pouco era o 
 
 Quando eu as olhava, elas me vinham ao encontro amontoada e confusamente de todas as partes; mas, quando pensava nelas, opunham-se as mesmas imagens dos corpos a que me retirasse, como se me dissessem: "Para onde vais, indigno e impuro?" Mas essas coisas cobravam novas forças com a minha chaga, porque humilhaste o soberbo como a um homem ferido, e meu orgulho me separava de ti, e meu rosto, inchado ao extremo, fechava meus olhos.
 
-### VIII A piedade de Deus \*
+### VIII A piedade de Deus \*\*
 
 12. Mas tu, Senhor, permaneces eternamente, e não te iras eternamente contra nós, porque te compadeceste da terra e da cinza, e foi de teu agrado corrigir minhas deformidades. Tu me aguilhoaste com estímulos interiores para que estivesse impaciente, até que, por uma visão interior, te transformasses para mim em objeto de certeza. E a inchação de meu orgulho baixava graças à mão secreta de tua medicina, e a vista de minha alma, turbada e obscurecida, ia sarando dia a dia graças ao colírio enérgico das dores salutares.
 
-### IX Agostinho e o neoplatonismo \*
+### IX Agostinho e o neoplatonismo \*\*
 
 13. E, primeiramente, querendo tu mostrar-me como resistes aos soberbos e dás tua graça aos humildes, e com quanta misericórdia mostraste aos homens a senda da humildade, por se ter feito carne teu Verbo, e ter habitado entre os homens, me deparaste, por meio de um homem inchado de monstruosa soberba, alguns livros dos platônicos, traduzidos do grego para o latim.
 
@@ -1135,7 +2300,7 @@ Foi o que encontrei nesses livros, mas não me alimentei dessas afirmações, po
 
 Também eu vinha dentre os gentios para ti, e pus minha atenção no ouro que quiseste que teu povo levasse do Egito, pois era teu onde quer que estivesse. E disseste aos atenienses, por boca de teu Apóstolo, que em ti vivemos, nos movemos e existimos, como alguns deles o disseram, e é deles que vinham os livros que me ocupavam. Mas não me fixei nos ídolos dos egípcios, aos quais ofereciam teu ouro os que mudaram a verdade de Deus em mentira, adorando e servindo antes à criatura do que ao Criador.
 
-### X A descoberta de Deus \*
+### X A descoberta de Deus \*\*
 
 16. Admoestado por essas leituras a voltar a mim mesmo, entrei guiado por ti em meu interior, e o pude fazer porque te fizeste minha ajuda. Entrei e vi com os olhos de minha alma, fosse como fosse, acima desses mesmos olhos, acima de minha inteligência, a luz imutável; não esta vulgar e visível a toda carne, nem outra quase do mesmo gênero, embora maior, mas aparentemente mais poderosa, e enchendo com sua força todo o espaço. Não, não era esta luz, mas uma luz diferente, completamente diferente.
 
@@ -1145,41 +2310,41 @@ Ela não estava sobre meu espírito como o azeite sobre a água, como o céu sob
 
 E conheci então que "castigaste o homem por causa de sua iniquidade", e "que secaste minha alma como uma teia de aranha"; e eu disse: "Porventura não é nada a verdade, porque não se acha difundida pelos espaços finitos e infinitos?" E tu me gritaste de longe: "Pelo contrário. Eu sou o que sou" - e eu ouvi como se costuma ouvir no coração, sem deixar lugar para dúvidas; antes, mais facilmente duvidaria de minha vida que da existência da verdade, que se manifesta à inteligência pela Criação.
 
-### XI Deus e as criaturas \*
+### XI Deus e as criaturas \*\*
 
 17. E contemplei as outras coisas que estão abaixo de ti, e vi que nem existem absolutamente nem absolutamente deixam de existir. Certamente existem, porque procedem de ti; mas não existem, pois não são o que tu és, porque só existe verdadeiramente o que permanece imutável. Mas para mim é bom apegar-me a Deus, porque, se não permaneço nele, tampouco poderei permanecer em mim. Ele, porém, permanecendo em si, renova todas as coisas, e tu és meu Senhor, porque não necessitas de meus bens.
 
-### XII O mal e o bem da Criação \*
+### XII O mal e o bem da Criação \*\*
 
 18. Do mesmo modo se me deu a entender que também são boas as coisas que se corrompem. Se fossem sumamente boas, não poderiam se corromper, como tampouco o poderiam se não fossem boas de algum modo. Com efeito, se fossem sumamente boas, seriam incorruptíveis; e se não tivessem nenhuma bondade, nada haveria nelas que se pudesse corromper. Porque a corrupção é nociva, e não poderia ser nociva se não diminuísse o que é bom. Logo, ou a corrupção é inofensiva, o que não é possível, ou, o que é certíssimo, tudo o que se corrompe é privado de algum bem. E assim, se algo for privado de todo o bem, ficará reduzido a nada. E se algo subsiste escapando à corrupção, seria ainda melhor, porque permaneceria incorruptível. E que há de mais monstruoso do que afirmar que uma coisa se torna melhor pela perda do que tem de bom? Logo, ser privado de todo bem é o nada absoluto. De onde se segue que, enquanto as coisas existem, elas são boas. Portanto, tudo o que existe é bom; e o mal, cuja origem eu procurava, não é uma substância, porque se fosse substância seria um bem. Ou ele seria uma substância incorruptível, e, consequentemente, um grande bem; ou seria uma substância corruptível, que não se poderia corromper se não fosse boa.
 
 Vi, pois, e me foi manifestado que tu eras o autor de todos os bens, e que não há em absoluto substância alguma que não tenha sido criada por ti. E como não fizeste todas as coisas iguais, por isso todas elas existem, porque cada uma de per si é boa, e todas juntas muito boas, porque nosso Deus fez todas as coisas boas em extremo.
 
-### XIII Os louvores da Criação \*
+### XIII Os louvores da Criação \*\*
 
 19. E certamente para ti, Senhor, não existe absolutamente o mal; e não só para ti, mas nem para a universalidade de tua Criação, porque nada existe fora dela capaz de romper ou de corromper a ordem que tu lhe impuseste. Mas, porque, nos pormenores, determinados elementos não se harmonizam com outros, estes são considerados maus. Mas, como esses mesmos elementos convêm a outros, são da mesma forma bons, e bons em si mesmos. E mesmo esses elementos, que não concordam entre si, concordam com a parte inferior das criaturas que chamamos terra, com seu céu cheio de nuvens e de ventos, como lhe é conveniente. Não queira Deus que eu diga: "Oxalá não existissem estas coisas!" Embora, considerando-as separadamente, eu as desejasse melhores, somente o fato de existirem deveria bastar para eu te louvar, porque louváveis se mostram na terra os dragões e todos os abismos; o fogo, o granizo, a neve, o vento da tempestade, que executam tuas ordens; os montes e todas as colinas; as árvores frutíferas e todos os cedros; as feras e todos os gados; os répteis e todos os voláteis empenhados; os reis da terra e todos os povos; os príncipes e todos os juízes da terra, os jovens e as virgens, os anciões e as crianças; todos louvam teu nome.
 
 Mas como também do alto dos céus és louvado, sim, louvado, nosso Deus, porque lá no alto todos os teus anjos, todas as tuas virtudes, o Sol e a Lua, todas as estrelas e a luz, os céus dos céus, e as águas que estão sobre os céus glorificam teu nome, eu não desejava nada melhor, porque, considerando o todo, os elementos superiores me pareciam sem dúvida melhores que os inferiores; mas um julgamento mais sadio me fazia considerar o todo melhor que os elementos superiores tomados à parte.
 
-### XIV Recapitulação \*
+### XIV Recapitulação \*\*
 
 20. Não têm juízo são aqueles aos quais desagrada alguma parte de tua Criação, como acontecia comigo, quando me desagradavam tantas de tuas obras. Mas, porque minha alma não se atrevia a dizer que meu Deus lhe desagradava, por isso não queria considerar como teu o que lhe desagradava. Por isso fora atrás da teoria das duas substâncias, na qual não achava descanso, e disse coisas estranhas. Mas desembaraçando-se desses erros, inventara para si um deus que se difundia pelos espaços infinitos de todos os lugares, e, julgando que eras tu, colocou-o em seu coração, e de novo se tornou o templo de seu ídolo, coisa abominável a teus olhos.
 
 Mas, depois que afagaste minha cabeça, sem eu o saber, e fechaste meus olhos para que não vissem a vaidade, desprendi-me um pouco de mim mesmo, e minha loucura adormeceu profundamente; quando despertei em ti, vi que eras infinito, e esta visão não procedia da carne.
 
-### XV Deus e a Criação \*
+### XV Deus e a Criação \*\*
 
 21. Contemplei depois as outras coisas e vi que deviam a ti sua existência, e que todas estão contidas em ti, não como em um lugar, mas de modo diferente: conservas todas elas em tua verdade, como em tua mão; todas as coisas são verdadeiras enquanto existem, e só é falso o que julgamos existir, mas não existe.
 
 Também vi que cada coisa adapta-se não só a seus lugares, mas também a seus tempos, e que tu, que és o único eterno, não começaste a obrar depois de infinitos espaços de tempo, porque todos os espaços de tempo - passados ou futuros - não poderiam passar nem vir se não agisses e permanecesses.
 
-### XVI Onde está o mal \*
+### XVI Onde está o mal \*\*
 
 22. E conheci por experiência que não é de admirar que o pão seja um tormento para o paladar enfermo, embora seja agradável para o paladar sadio, e que olhos enfermos considerem odiosa a luz, que para os puros é amável. Se tua justiça desagrada aos maus, muito mais desagradam a víbora e o caruncho, que criaste bons e convenientes para a parte inferior de tua Criação, com a qual também os maus e tanto mais se assemelham quanto mais diferem de ti, assim como se assemelham às partes superiores do mundo na medida em que se assemelham a ti.
 
 Perguntei que era a iniquidade, e não achei substância, mas a perversidade de uma vontade que se aparta da suprema substância de ti, meu Deus - e se inclina para as coisas baixas, e que derrama suas entranhas, e se incha por fora.
 
-### XVII Caminho para Deus \*
+### XVII Caminho para Deus \*\*
 
 23. Admirava-me de já te amar, e não a um fantasma em teu lugar; mas não me repousava no gozo de meu Deus. Era arrebatado a ti por tua beleza, e logo apartado de ti por meu peso e me precipitava sobre estas coisas a gemer. Meu peso eram os hábitos carnais. Mas tua lembrança me acompanhava. Nem de modo algum duvidava já de que existia um ser a quem eu devia unir-me, mas a quem eu não estava em condições de me unir, porque o corpo, que se corrompe, sobrecarrega a alma, e a morada terrena deprime a mente que pensa em muitas coisas. Assim mesmo estava certíssimo de que tuas belezas invisíveis se descobrem à inteligência desde a criação do Universo através de tuas obras, bem como tua virtude sempiterna e tua divindade.
 
@@ -1187,13 +2352,13 @@ Com efeito, procurando saber de onde procedia minha faculdade de apreciar a bele
 
 E, gradualmente, fui subindo dos corpos para a alma, que sente por intermédio do corpo; e dela à sua força interior à qual os órgãos dos sentidos anunciam as coisas exteriores, até onde alcançam os animais. Daqui passei novamente para a potência raciocinante, à qual pertence julgar as percepções dos sentidos corporais, e que, por sua vez, julgando-se sujeita a mudanças, levantou-se até a sua própria inteligência, e afastou o pensamento de suas cogitações habituais, e se apartou da multidão de fantasmas contraditórios, para ver de que luz estava inundada quando, sem nenhuma dúvida, clamava que o imutável deve ser preferido ao mutável, e de onde tirava o conhecimento do próprio imutável, porque, se não tivesse dele alguma noção, de nenhum modo o preferira ao mutável com tanta certeza. E, finalmente, chegou ao que é num abrir e fechar de olhos. Foi então que tuas perfeições invisíveis se manifestaram à minha inteligência através de tuas obras, mas não pude fixar nelas os olhos; minha fraqueza recuou, e voltei a meus hábitos, não levando comigo senão uma lembrança amorosa, que, por assim dizer, desejava o perfume de manjares saborosos, que eu ainda não podia provar.
 
-### XVIII A senda da humildade \*
+### XVIII A senda da humildade \*\*
 
 24. Buscava um meio de adquirir a fortaleza necessária para te gozar, e não a encontrei enquanto não me abracei ao Mediador entre Deus e os homens, o homem Cristo Jesus, que está sobre todas as coisas, Deus bendito por todos os séculos, o qual clama e diz: "Eu sou o caminho, a verdade e a vida", e o alimento unido à carne (que eu não tinha forças para tomar), porque o Verbo se fez carne, a fim de que fosse amamentada nossa infância pela tua sabedoria, pela qual criaste todas as coisas.
 
 Sem humildade, eu não possuía o Deus da humildade, e não sabia o que nos poderia ensinar sua fraqueza. Porque teu Verbo, verdade eterna, dominando as partes superiores de tua Criação, levanta a si as que se lhe sujeitam, e, nas partes inferiores, construiu para si, com o nosso lodo, uma casa humilde, para humilhar e afastar de si aqueles que deseja sujeitar e atrair, curando-lhes a soberba e alimentando-lhes o amor, para que, confiados em si, não se afastassem para mais longe, mas, pelo contrário, se humilhassem, vendo a seus pés a humildade de um Deus que também se vestiu de nossa túnica de carne, e, cansados, se prostrem diante dela, para que, ao se levantar, a exaltem.
 
-### XIX A doutrina do Verbo \*
+### XIX A doutrina do Verbo \*\*
 
 25. Mas eu então julgava de outra maneira. Não considerava meu Senhor Jesus Cristo mais que um homem de extraordinária sabedoria, a quem ninguém pode igualar. Sobretudo seu miraculoso nascimento de uma virgem, que nos ensina a desprezar os bens temporais em troca da imortalidade, e parecia-me ter-lhe merecido, por decreto da Providência divina, uma soberana autoridade para ensinar os homens.
 
@@ -1203,13 +2368,13 @@ Quanto a Alípio, pensava que os católicos, crendo em um Deus revestido de carn
 
 Eu, porém, confesso que só aprendi mais tarde a diferença existente quanto à interpretação das palavras o "Verbo se fez carne", entre a verdade católica e o erro de Fotino. A reprovação dos hereges põe em maior evidência o sentimento de tua Igreja e o que esta considera como doutrina sã. Porque convém que haja heresias, para que os provados se descobrissem entre os fracos.
 
-### XX Do platonismo às Escrituras \*
+### XX Do platonismo às Escrituras \*\*
 
 26. Mas então, tendo lido aqueles livros dos platônicos, induzido por eles a buscar a verdade incorpórea, vi manifestar-se à minha inteligência, através de tuas obras, tuas perfeições visíveis. Rejeitado para longe de ti, compreendi em que consistia essa verdade, que as trevas de minha alma me impediam de contemplar. Estava certo de que existes, e de que és infinito, sem contudo te estenderes por lugares finitos ou infinitos; e de que és verdadeiramente aquele que é, sempre idêntico a si mesmo, sem se mudar em outro, nem sofrer alteração alguma, que parcialmente ou com algum movimento, quer de qualquer outro modo; e de que tudo o mais vem de ti, pela única e indiscutível razão de que existe. Tinha certeza de todas estas verdades, mas também de que me achava demasiado fraco para gozar de ti. Tagarelava muito sobre essas coisas, como se fora instruído, e, se não procurasse o caminho da verdade em Cristo, nosso Salvador, não seria perito, mas perituro, porque já começava a querer parecer sábio, cheio de meu castigo, e não chorava, mas inchava-me com a ciência. Onde estava aquela caridade que edifica sobre o fundamento da humildade, que é Cristo Jesus? Ou quando ma ensinariam aqueles livros, com os quais, creio, quiseste que me encontrasse antes de ler tuas Escrituras, para que ficassem gravados em minha memória os afetos que produziram em mim, e para que depois, quando encontrasse em teus livros a paz do coração, tocando com teus dedos suaves as feridas de minha alma, pudesse discernir e perceber a diferença existente entre presunção e confissão, entre os que, vendo para onde se deve ir, não veem por onde se vai, nem o caminho que conduz à pátria bem-aventurada, não só para contemplá-la, mas também para habitá-la?
 
 Porém, se antes de tudo me tivesse instruído em tuas sagradas letras, e em sua intimidade tivesse experimentado tua doçura, para depois conhecer os livros dos platônicos, talvez eles me arrancassem dos sólidos fundamentos da piedade; ou, se tivesse persistido nos sentimentos salutares de que estava impregnado, talvez julgasse que só por esses livros se poderia tirar o mesmo proveito.
 
-### XXI A verdade das Escrituras \*
+### XXI A verdade das Escrituras \*\*
 
 27. Por isso lancei-me avidamente sobre as veneráveis Escrituras inspiradas por teu Espírito, sobretudo as do Apóstolo Paulo. E se desvaneceram todas aquelas dificuldades nas quais julguei descobrir contradições entre ele e seu texto, em desacordo com os testemunhos da lei e dos profetas. Descobri a unidade daqueles castos oráculos, e aprendi a me alegrar com tremor.
 
@@ -1229,9 +2394,9 @@ Uma coisa é ver uma colina agreste a pátria da paz, e não encontrar o caminho
 
 Esses pensamentos penetravam-me as entranhas por modos maravilhosos, quando eu lia ao menor de teus Apóstolos. Considerava tuas obras, e me enchia de assombro.
 
-## Livro VIII \*
+## Livro VIII \*\*
 
-### I Hesitações \*
+### I Hesitações \*\*
 
 1. Meu Deus, que eu me lembre de ti em ação de graças, e confesse tuas misericórdias para comigo. Que meus ossos se penetrem de teu amor e digam: "Senhor, quem semelhante a ti? Rompeste meus grilhões, e te oferecerei um sacrifício de louvor." Contarei como os rompeste, e todos os que te adoram dirão quando me ouvirem: "Bendito seja o Senhor no céu e na terra! Grande e admirável é seu nome!" Tuas palavras, Senhor, tinham-se gravado em minhas entranhas, e me via cercado de ti por todas as partes. Tinha certeza de tua vida eterna, embora não a visse mais que em enigma e como em espelho. Já não tinha a menor dúvida quanto à tua substância incorruptível, nem de que toda substância procedia dela. E o que desejava não era tanto estar mais certo de ti, mas mais firme em ti.
 
@@ -1249,7 +2414,7 @@ Há ainda outro gênero de ímpios: o dos que, conhecendo a Deus, não o glorifi
 
 Já havia encontrado, finalmente, a pérola preciosa, que devia comprar com a venda de tudo o que possuía. Mas vacilava ainda.
 
-### II Visita a Simpliciano. Conversão de Vitorino \*
+### II Visita a Simpliciano. Conversão de Vitorino \*\*
 
 3. Dirigi-me, portanto, a Simpliciano, pai espiritual do então bispo Ambrósio, que o amava verdadeiramente como pai. Contei-lhe os labirintos de meu erro. Mas quando lhe disse que havia lido alguns livros dos platônicos, traduzidos em latim por Vitorino, outrora retórico em Roma - e do qual ouvira dizer que morrera cristão -, ele me felicitou por não ter lido as obras de outros filósofos, cheias de erros e de enganos, segundo os elementos deste mundo, mas apenas estes, que insinuam por mil modos a Deus e a seu Verbo.
 
@@ -1267,7 +2432,7 @@ Mas depois que hauriu forças nessas leituras maravilhosas, temendo ser renegado
 
 Assim, logo que subiu para fazer a profissão, todos unanimemente, conforme o iam conhecendo, repetiram seu nome como um murmúrio de regozijo - e quem ali não o conhecia? -, e um grito reprimido saiu da boca de todos os que com ele se alegravam: "Vitorino! Vitorino!" Ao verem-no, logo se puseram a gritar de júbilo, mas logo se calaram pelo desejo de ouvi-lo. Vitorino pronunciou sua profissão da verdadeira fé com grande firmeza, e todos queriam raptá-lo para dentro de seus corações. E realmente o fizeram: seu amor e alegria eram as mãos que o arrebatavam.
 
-### III A alegria das coisas perdidas \*
+### III A alegria das coisas perdidas \*\*
 
 6. Bom Deus, que se passa no homem para que se alegre mais com a salvação de uma alma desesperada, quando salva do maior perigo, do que se ela sempre tivesse dado esperanças, ou se o perigo tivesse sido menor? Também tu, Pai misericordioso, sentes mais alegria por um pecador arrependido do que por 99 justos que não têm necessidade de penitência. Nós também ouvimos com grande prazer falar da alegria do pastor trazendo de volta sobre os ombros a ovelha desgarrada, e da mulher que repõe em teus tesouros, para satisfação geral dos vizinhos, a dracma perdida. E arranca lágrimas de nossos olhos as alegres festas de tua casa quando se lê que teu filho menor estava morto e reviveu, estava perdido e foi encontrado.
 
@@ -1289,7 +2454,7 @@ Por que isto, Senhor, meu Deus, quando tu mesmo és tua alegria eterna, e quando
 
 Ai de mim! Quão elevado és nas alturas e quão profundo nos abismos! Jamais te afastas para parte alguma, e, contudo, quanto esforço para voltar a ti!
 
-### IV A conversão dos grandes \*
+### IV A conversão dos grandes \*\*
 
 9. E vamos, Senhor, mãos à obra! Desperta-nos, chama-nos, inflama-nos, arrebata-nos; derrama teus perfumes, encanta-nos: amemos, corramos!
 
@@ -1305,7 +2470,7 @@ Não obstante isto, o menor de teus Apóstolos, por cuja boca pronunciaste essas
 
 Assim, quanto mais favorável a ideia que se fazia do coração de Vitorino - que o demônio havia ocupado como fortaleza inexpugnável - e de sua língua, dardo poderoso e agudo, que tantas vezes havia dado a morte a muitos, tanto mais abundantemente deviam exultar teus filhos, ao verem que nosso Rei agrilhoara o forte, e que seus vasos roubados eram agora purificados e destinados à tua honra, convertendo-se em instrumentos úteis ao Senhor para toda obra boa.
 
-### V As duas vontades \*
+### V As duas vontades \*\*
 
 10. Mas apenas teu servo Simpliciano me contou a conversão de Vitorino, inflamei-me no desejo de imitá-lo; era esta a finalidade da narração de Simpliciano. Mas quando depois acrescentou que nos tempos do imperador Juliano uma lei proibia aos cristãos ensinar literatura e oratória, Vitorino, dócil à lei, preferiu abandonar a escola de palradores a abandonar teu Verbo, que torna eloquentes as línguas dos meninos, não me pareceu tão valente como afortunado por ter encontrado ocasião de se consagrar a ti. Por isso eu suspirava, atado não com os ferros de uma vontade estranha, mas por minha férrea vontade.
 
@@ -1321,7 +2486,7 @@ Eu já não tinha tampouco aquela desculpa, com a qual costumava persuadir-me de
 
 Já não tinha que responder-te quando me dizias: "Desperta, ó tu que dormes, levanta-te de entre os mortos, e Cristo te há de iluminar." E quando por toda parte me mostravas a verdade do que dizias, não tinha absolutamente nada para responder, convencido que estava dessa verdade, senão umas palavras lentas e sonolentas: Agora... Depois... Um pouquinho mais. Mas este agora não tinha fim, e este um pouquinho mais se ia prolongando. Em vão me deleitava em tua lei, segundo o homem interior, porque em meus membros outra lei combatia a lei de meu espírito, mantendo-me cativo sob a lei do pecado que estava em meus membros. Com efeito, a lei do pecado é a violência do hábito, pelo qual a alma é arrastada e presa, mesmo contra sua vontade, mas merecidamente, porque se deixa arrastar por vontade própria. Miserável! Quem poderia libertar-me deste corpo de morte senão tua graça, por Cristo, nosso Senhor?
 
-### VI A narração de Ponticiano \*
+### VI A narração de Ponticiano \*\*
 
 13. Também contarei de que modo me livraste do vínculo do desejo carnal, que me prendia fortemente, e da servidão dos negócios do mundo, e confessarei teu nome, ó Senhor, meu auxílio e minha redenção. Levava a vida de costume com crescente angústia; todos os dias suspirava por ti, frequentava tua Igreja, quando me deixavam livre os negócios, cujo peso me fazia gemer.
 
@@ -1355,7 +2520,7 @@ Então Ponticiano e seu companheiro, que passeavam em outro local do jardim, pro
 
 Ambos estavam noivos; mas quando suas futuras esposas ouviram o sucedido, também te consagraram sua virgindade.
 
-### VII A reação de Agostinho \*
+### VII A reação de Agostinho \*\*
 
 16. Eis o que me contou Ponticiano. E tu, Senhor, enquanto ele falava, me fazias refletir, tirando-me da posição de costas, em que me tinha colocado, para não me ver a mim mesmo. Tu me colocavas diante de meu rosto para que visse como estava feio, disforme, sujo, manchado e ulceroso.
 
@@ -1369,7 +2534,7 @@ Mas eu, jovem miserável, sim, miserável desde o limiar da adolescência, já t
 
 Assim me roía interiormente, devorado por violenta e horrível vergonha, enquanto Ponticiano referia tais coisas. Finda a conversa, e resolvida a questão que motivara sua vinda, Ponticiano voltou para sua casa, e eu para mim. Que coisas não disse contra mim? Com que açoite de palavras não flagelei minha alma, a fim de obrigá-la a me seguir em meus esforços para te alcançar. Ela resistia, recusava-se, sem alegar a menor desculpa. Todos os argumentos já estavam esgotados e refutados. Nada lhe restava, senão uma angústia muda: tinha medo, como da morte, de ser desviada da corrente do hábito, onde se corrompia mortalmente.
 
-### VIII Luta espiritual \*
+### VIII Luta espiritual \*\*
 
 19. Então, em meio àquela grande luta interior que eu travava contra minha alma na câmara secreta que é nosso coração perturbado no rosto e no espírito, lanço-me sobre Alípio exclamando: "Que se passa conosco? Ouviste? Levantam-se os ignorantes e arrebatam o céu, e nós, com todo nosso saber, sem coração, nos revolvemos na carne e no sangue! Acaso temos vergonha de segui-los porque nos precederam, e não temos vergonha de os não seguir?"
 
@@ -1385,7 +2550,7 @@ E, contudo, eu não fazia o que desejava com ardor incomparavelmente maior, e qu
 
 Contudo, nada fazia, e meu corpo obedecia mais facilmente ao mais leve desejo de minha alma, movendo seus membros segundo sua vontade, do que a própria alma a si mesma para realizar seu grande desejo apenas com a vontade.
 
-### IX A desobediência da vontade \*
+### IX A desobediência da vontade \*\*
 
 21. Mas de onde vinha este prodígio? Qual sua causa? Resplandeça tua misericórdia, e perguntarei - se é que me podem responder - aos obscuros castigos infligidos aos homens, e as tenebrosas misérias dos filhos de Adão: De onde vem este prodígio? E qual sua causa?
 
@@ -1395,7 +2560,7 @@ Manda, digo, que queira - e não mandara se não quisera - e, não obstante, nã
 
 Não há, portanto, prodígio algum em querer em parte e em parte não querer; é uma enfermidade da alma. Esta, elevada pela verdade, não se levanta totalmente, porque está oprimida pelo peso do hábito. Há, portanto, duas vontades, ambas incompletas, e o que uma possui faz falta à outra.
 
-### X Contra os maniqueus \*
+### X Contra os maniqueus \*\*
 
 22. Desapareçam de tua presença, ó Deus, como vãos faladores e sedutores de inteligências, aqueles que, ao observarem que a vontade é dupla quando delibera, concluem que temos duas almas de naturezas diferentes, uma boa, outra má.
 
@@ -1413,7 +2578,7 @@ O mesmo acontece com os desejos bons. Porque se eu lhes pergunto se é bom delei
 
 Todas essas vontades são boas, e lutam entre si, até que se tome uma decisão, que unifique a vontade, antes dividida. Assim também acontece quando a eternidade agrada à parte superior, e o desejo do bem temporal nos prende fortemente à inferior: é a mesma alma que, sem vontade completa, quer um e outro desses bens. Por isso despedaça-se com grande dor: a verdade nos faz preferir a eternidade, mas o hábito não quer abandonar os bens temporais.
 
-### XI Últimas resistências \*
+### XI Últimas resistências \*\*
 
 25. Assim sofria e me atormentava, acusando-me mais duramente que de costume, rolando-me e debatendo-me sobre minhas cadeias, para ver se se quebravam por completo. Elas me prendiam apenas, mas ainda me prendiam. E tu, Senhor, me apressavas no segredo de minha alma, e com severa misericórdia redobravas os açoites do temor e da vergonha, a fim de que eu não me abandonasse de novo e se quebrasse minha pequena e leve cadeia, para que não readquirisse forças para me prender mais energicamente.
 
@@ -1437,7 +2602,7 @@ Mas de novo aquela voz parece que me dizia: "Não dês ouvidos às tentações d
 
 Essa luta se desenrolava em meu coração, de mim contra mim mesmo. Alípio, sem se afastar de meu lado, aguardava em silêncio o desenlace de minha insólita emoção.
 
-### XII A conversão \*
+### XII A conversão \*\*
 
 28. Mas logo que uma análise profunda tirou do abismo misterioso de minha alma e amontoou toda a minha miséria à vista de meu coração, caiu sobre minha alma enorme tormenta, portadora de copiosa chuva de lágrimas; e para derramá-las todas com seus gemidos, afastei-me de Alípio. A solidão parecia-me mais cômoda para chorar, e me afastei o mais longe possível, para que sua presença não me fosse embaraçosa. Tal era o estado em que me encontrava! Alípio percebeu-o, pois, não sei o que eu disse ao me levantar, com um timbre de voz que parecia carregado de lágrimas.
 
@@ -1459,9 +2624,9 @@ Entramos depois à procura de minha mãe, que ao saber do sucedido ficou muito a
 
 De tal forma me converteste a ti, que já não procurava esposa nem abrigava esperança alguma deste mundo, estando já naquela "regra de fé" sobre a qual há tantos anos me havias mostrado à minha mãe. E assim converteste seu pranto em alegria, muito mais fecunda do que havia desejado, e muito mais cara e pura que a que podia esperar dos netos nascidos de minha carne.
 
-## Livro IX \*
+## Livro IX \*\*
 
-### I Colóquio \*
+### I Colóquio \*\*
 
 1. Ó Senhor, sou teu servo e filho de tua serva. Rompeste minhas prisões: eu te sacrificarei uma hóstia de louvor. Louvem-te meu coração e minha língua, e que todos os meus ossos te digam: "Senhor, quem semelhante a ti?" Que eles te digam essas palavras e que me respondas e digas à minha alma: "Eu sou tua salvação."
 
@@ -1473,7 +2638,7 @@ Oh! que doçura foi para mim carecer de repente de doçuras fúteis! Temia entã
 
 Livre estava já minha alma dos devoradores cuidados da ambição, do ganho, e do lodo em que se revolvia, e do prurido dos apetites carnais; e falava muito contigo, ó Deus e Senhor meu, minha luz, minha riqueza, minha salvação!
 
-### II Adeus ao magistério \*
+### II Adeus ao magistério \*\*
 
 2. Pareceu-me bem, em tua presença, não abandonar de modo ostensivo, mas retirar suavemente do mercado da loquacidade o ministério de minha língua, para que dali por diante os jovens que não se preocupam com tua lei ou paz, mas com as enganosas loucuras e contendas forenses, não comprassem de minha boca armas para seu furor. Felizmente faltavam pouquíssimos dias para as férias das vindimas. Decidi suportá-los até lá. Então me retiraria, como de costume, e, resgatado por ti, não tornaria mais a me vender.
 
@@ -1489,7 +2654,7 @@ Cheio dessa alegria, esperava que se passasse aquele tempo - talvez uns vinte di
 
 Talvez algum de teus servos, meus irmãos, dirá que nisso pequei, porque, estando já com o coração cheio de desejos de te servir, não suportei ficar nem mais uma hora sentado na cátedra da mentira. Não discutirei. Mas tu, Senhor misericordiosíssimo, acaso não me perdoaste e resgataste também este pecado com todos os demais, horrendos e cheios de morte, na água santa do batismo?
 
-### III Dois amigos \*
+### III Dois amigos \*\*
 
 5. Angustiava-se Verecundo por este nosso bem, porque se via obrigado a abandonar nossa companhia por causa dos vínculos matrimoniais que o aprisionavam fortemente. Não era ainda cristão, como sua mulher, mas justamente nela encontrava o maior obstáculo que o impedia de entrar pelo caminho que havíamos começado a trilhar, pois não queria ser cristão, dizia, senão do modo que justamente lhe era proibido.
 
@@ -1503,7 +2668,7 @@ Não muito depois de nossa conversão e regeneração por teu batismo, fez-se po
 
 Essa era a nossa situação. Consolávamos a Verecundo, que, sem dano da amizade, entristecia-se com nossa conversão; nós o exortávamos a se manter fiel a seu estado, isto é, à sua vida conjugal. Quanto a Nebrídio, esperávamos que nos seguisse, pois facilmente poderia fazê-lo, e já estava quase a ponto de se decidir. Enfim, eis que se passaram aqueles dias, que me pareceram tão longos e numerosos, tal era meu desejo de liberdade e descanso, para cantar do fundo de meu ser: "A ti diz meu coração: procurei teu rosto; teu rosto, Senhor, hei de buscar."
 
-### IV A doçura dos salmos \*
+### IV A doçura dos salmos \*\*
 
 7. Por fim, chegou o dia em que me libertaria da profissão de retórico, da qual já me libertara em pensamento. Assim aconteceu. Livraste minha língua de onde já havias tirado meu coração. Eu te bendizia contente, e parti com todos os meus, a caminho da quinta de Verecundo. Os trabalhos literários que lá executei, já com o pensamento de te servir, mas ainda com a respiração ofegante do lutador durante uma pausa, ainda me ressentindo da soberba da escola, são atestados pelos livros nos quais anotava meus debates com meus amigos ou comigo mesmo em tua presença. Do que tratei com Nebrídio, então ausente, claramente o indicam minhas cartas. Mas quando encontraria bastante tempo para recordar todos os teus grandes benefícios para comigo, sobretudo nessa época de minha vida, pois tenho pressa para chegar a outros assuntos mais importantes? Porque me vinha à memória - e me é doce confessá-lo, Senhor - a lembrança dos estímulos internos com que me domaste; o modo como aplanaste minha alma abatendo as colinas e montanhas de meus pensamentos; como endireitaste meus caminhos tortuosos e suavizaste minhas asperezas; como venceste a Alípio - o irmão de meu coração - em nome de teu Filho único, Jesus Cristo, Senhor e Salvador nosso, nome que seu desprezo não podia admitir em minhas obras, porque preferia que cheirassem como os cedros das escolas, já abatidos pelo Senhor, e não como as salutares ervas de tua Igreja, antídoto para o veneno das serpentes.
 
@@ -1537,7 +2702,7 @@ Atormentas-te-me então com uma dor de dentes, que se agravara a tal ponto que m
 
 No fundo de meu coração reconheci um sinal da tua vontade, e, contente na fé, louvei teu nome. Contudo, esta fé não me deixava viver tranquilo quanto a meus pecados passados, que ainda não me haviam sido perdoados por teu batismo.
 
-### V O conselho de Ambrósio \*
+### V O conselho de Ambrósio \*\*
 
 13. Terminadas as férias, informei aos milaneses que providenciassem para seus estudantes outro vendedor de palavras, visto que me decidira a consagrar-me a teu serviço, e, porque, aliás, não podia exercer aquela profissão pela dificuldade de respirar e pelas dores que sentia no peito.
 
@@ -1545,7 +2710,7 @@ Também insinuei por escrito a teu bispo e santo varão Ambrósio, com meus anti
 
 Ele me indicou o profeta Isaías, creio que porque anuncia mais claramente que os demais o Evangelho e vocação dos gentios. Contudo, nada tendo compreendido na primeira leitura, e julgando que toda a obra era assim, decidi voltar a ela quando estivesse mais familiarizado com a palavra divina.
 
-### VI Batismo de Agostinho. Seu filho Adeodato \*
+### VI Batismo de Agostinho. Seu filho Adeodato \*\*
 
 14. Chegado o tempo em que nos deveríamos inscrever, deixamos o campo e voltamos para Milão.
 
@@ -1557,7 +2722,7 @@ Há um livro meu que se intitula O mestre, no qual Adeodato dialoga comigo. Tu s
 
 Naqueles dias eu não me fartava de considerar a profundidade de teus desígnios para a salvação do gênero humano, pela doçura admirável que sentia. Quanto chorei ao ouvir, profundamente comovido, teus hinos e cânticos, que ressoavam suavemente em tua Igreja! Penetravam aquelas vozes em meus ouvidos e destilavam a verdade em meu coração. Acendia-se em mim um afeto piedoso, corriam-me lágrimas dos olhos, e me fazia bem chorar.
 
-### VII O canto dos fiéis. Os corpos de são Gervásio e de são Protásio \*
+### VII O canto dos fiéis. Os corpos de são Gervásio e de são Protásio \*\*
 
 15. Não havia muito tempo que a Igreja de Milão começara a adotar essa prática consoladora e edificante do canto, com grande entusiasmo dos irmãos, que uniam em um só coro as vozes e o coração. Havia um ano, ou pouco mais, que Justina, mãe do jovem imperador Valentiniano, seduzida pelos arianos, perseguiu, em favor de sua heresia, teu servo Ambrósio. O povo fiel passava as noites na Igreja, disposto a morrer com seu bispo.
 
@@ -1575,7 +2740,7 @@ Graças te sejam dadas, meu Deus! De onde e para onde chamaste minha memória, p
 
 E, contudo, quando assim se exalava o odor de teus perfumes, nós não corremos atrás de ti. Eis o que redobrava minhas lágrimas ao ouvir teus cânticos. Outrora eu suspirava por ti, e, enfim, respirava, quanto o permite o ar de uma choça de olmo.
 
-### VIII Mônica \*
+### VIII Mônica \*\*
 
 17. Tu, que fazes morar na mesma casa os que têm uma só alma, trouxeste para nossa companhia a Evódio, jovem de nosso município que, militando como agente de negócios do imperador, se convertera antes de nós, e recebendo o batismo abandonara a milícia do século, alistando-se na tua.
 
@@ -1597,7 +2762,7 @@ A criada que costumava acompanhá-la à adega, discutindo com sua jovem senhora,
 
 Assim como muitas vezes as lisonjas dos amigos nos pervertem, assim os insultos dos inimigos nos corrigem. Mas não é o bem que nos fazes por seu intermédio que retribuis, mas a intenção com que o fazem. Aquela criada zangada pretendia ofender sua jovem senhora, e não corrigi-la; e se o fez ocultamente foi porque assim as surpreendeu a circunstância do lugar e tempo, ou para que não viesse a sofrer por denunciar tão tarde o costume de sua senhora. Mas, tu, Senhor, governador do céu e da terra, que desvias para teus desígnios as profundezas da torrente e o curso dos séculos em sua desordem ordenada, curaste a loucura de uma alma com a insânia de outra, para que ninguém, ao advertir no caso, atribua a seu poder pessoal o mérito de ter corrigido com suas palavras a alguém cuja emenda deseja conseguir.
 
-### IX Esposa e mãe exemplar \*
+### IX Esposa e mãe exemplar \*\*
 
 19. Educada assim na virtude e na temperança, mais sujeita por ti a seus pais que por seus pais a ti, logo que chegou a idade núbil foi dada em matrimônio a um homem, a quem serviu como a um senhor. Procurou ganhá-lo para ti, falando-lhe de ti com suas virtudes, com as quais a tornavas formosa e reverentemente amável e admirável ante seus olhos. De tal modo tolerou suas infidelidades, que sobre este ponto jamais teve com ele a menor rixa, pois esperava que tua misericórdia viria sobre ele, e que lhe trouxesse, com a fé, a castidade.
 
@@ -1619,7 +2784,7 @@ Havia sido mulher de um só homem, saldara para com os pais sua dívida de grati
 
 Quanto a nós, Senhor, que nos chamamos teus servos por tua permissão, nós, que vivemos em comum na graça de teu batismo, antes de adormecer em tua paz, ela cuidou de nós como se todos fôssemos seus filhos, e de tal modo nos serviu como se fosse filha de cada um de nós.
 
-### X O êxtase de Óstia \*
+### X O êxtase de Óstia \*\*
 
 23. Estando já próximo o dia em que teria de partir desta vida - que tu, Senhor, conhecias, e nós ignorávamos -, sucedeu, creio, por disposição de teus ocultos desígnios, que nos encontrássemos sós, eu e ela, apoiados a uma janela, que dava para o jardim interior da casa em que morávamos em Óstia Tiberina, de onde, separados de todos, depois das fadigas de uma longa viagem, recobrávamos forças para a viagem por mar.
 
@@ -1635,7 +2800,7 @@ E enquanto falávamos dessa sabedoria, e suspirávamos por ela, chegamos a tocá
 
 26. Tais coisas dizia eu, embora não deste modo, nem com estas palavras. Mas tu sabes, Senhor, que naquele dia, enquanto falávamos destas coisas - e à medida que falávamos nos parecia mais vil este mundo, com todos os seus deleites -, disse-me minha mãe: "Filho, quanto a mim, já nada mais me atrai nesta vida. Não sei o que faço ainda aqui, nem por que ainda continuo viva, se já se desvaneceram para mim todas as esperanças do mundo. Uma só coisa me fazia desejar viver um pouco mais, e era ver-te cristão e católico antes de morrer. Deus me concedeu esta graça superabundantemente, pois, desprezada a felicidade terrena, já vejo que és seu servo. Que faço, pois, aqui?"
 
-### XI A morte de Mônica \*
+### XI A morte de Mônica \*\*
 
 27. Não recordo bem o que respondi a essas palavras. Mas cerca de cinco dias mais tarde, ou pouco mais, caiu de cama com febres. Estando enferma, teve um dia um desmaio, ficando por pouco tempo privada dos sentidos. Acudimos correndo, mas logo voltou a si, e vendo-nos presentes a mim e a meu irmão, disse-nos, como quem pergunta algo: "Onde estava eu?"
 
@@ -1649,7 +2814,7 @@ Soube também depois que em Óstia, estando eu ausente, falou certo dia com algu
 
 Assim, pois, nove dias depois de cair enferma, aos 56 anos de sua idade e aos trinta da minha, essa alma santa e piedosa foi libertada do corpo.
 
-### XII As lágrimas negadas \*
+### XII As lágrimas negadas \*\*
 
 29. Fechei-lhe os olhos, e uma tristeza imensa me afluiu ao coração, e já me ia desfazer em lágrimas, quando ao mesmo tempo meus olhos, dóceis ao enérgico poder de minha vontade, fechavam sua fonte até secá-la. Como foi dolorosa essa luta! Foi então, quando ela deu o último suspiro, que o menino Adeodato se pôs a chorar aos gritos; mas, reprimido por todos nós, se calou. Deste modo sua voz juvenil, voz do coração, reprimiu em mim essa espécie de emoção pueril que me provocava o pranto. Porque não julgávamos conveniente celebrar aquele luto com queixas lastimosas e gemidos, com os quais se costuma deplorar frequentemente o triste destino dos que morrem ou sua total extinção. A morte de minha mãe nada tinha de triste, e ela não morria por completo, e disto estávamos certos pelo testemunho de seus costumes, por sua fé não fingida e outras razões irrefutáveis.
 
@@ -1689,7 +2854,7 @@ E os peitos de pena oprimidos.
 
 E agora, Senhor, eu to confesso nestas linhas: leia-o quem quiser, interprete-o como quiser. E se algum leitor vir um pecado nessas lágrimas que derramei por minha mãe por alguns instantes, por minha mãe então morta a meus olhos, ela que me havia chorado tantos anos para que eu vivesse aos teus, não se ria, mas antes, se é grande sua caridade, chore por meus pecados diante de ti, Pai de todos os irmãos de teu Cristo!
 
-### XIII Preces pela mãe morta \*
+### XIII Preces pela mãe morta \*\*
 
 34. Agora, curado já meu coração desta ferida, na qual se podia criticar um afeto muito carnal, derramo diante de ti, meu Deus, por tua serva, outro gênero de lágrimas muito diversas das lágrimas que brotam do espírito comovido à vista dos perigos que corre toda alma que morre em Adão. Sem dúvida, minha mãe, vivificada em Cristo, antes mesmo de romper os laços da carne, viveu de tal modo, que teu nome é louvado em sua fé e em seus costumes; e contudo não me atrevo a dizer que desde que a regeneraste no batismo não saiu de sua boca nenhuma palavra contrária à tua lei. Porque a Verdade, teu Filho disse: "Quem chamar a seu irmão de louco será réu do fogo do inferno." Ai da vida dos homens, por mais louvável que seja, se tu a examinas deixando de lado tua misericórdia! Mas porque sabemos que não esquadrinhas nossos pecados com rigor, confiadamente esperamos tomar lugar a teu lado. Quem enumera diante de ti seus próprios méritos, que enumera a não ser teus dons? Oh! se os homens se reconhecessem como homens! Se quem se glorifica se glorificasse no Senhor!
 
@@ -1701,9 +2866,9 @@ Quem poderá devolver-lhe seu sangue inocente? Quem poderá restituir-lhe o pre�
 
 37. Que ela repouse em paz com seu marido, antes do qual e depois do qual não teve outro; a quem serviu com uma paciência cujo fruto te oferecia, a fim de o ganhar também para ti. Mas inspira-nos, meu Senhor e meu Deus, inspira a teus servos, meus irmãos, a teus filhos, meus senhores, a quem sirvo de coração, com a palavra e com a pena, para que quantos lerem estas páginas se lembrem ante teu altar de Mônica, tua serva, e de Patrício, outrora seu esposo, pelos quais me introduziste nesta vida, não sei como. Que eles se lembrem com piedoso afeto dos que foram meus pais nesta luz transitória, e meus irmãos em ti, ó Pai, na Igreja Católica, nossa mãe, e meus concidadãos na Jerusalém eterna, objeto dos suspiros de teu povo em sua peregrinação desde a saída até o regresso. Assim, graças às minhas confissões, seu último desejo será mais amplamente satisfeito com essas numerosas orações do que só pelas minhas.
 
-## Livro X \*
+## Livro X \*\*
 
-### I Finalidade do livro \*
+### I Finalidade do livro \*\*
 
 1. Que eu te conheça, meu conhecedor, que eu te conheça como de ti sou conhecido. Virtude de minha alma, penetra-a, adapta-a a ti, para que a tenhas e possuas sem mancha nem ruga.
 
@@ -1711,7 +2876,7 @@ Esta é a esperança com que falo, e nesta esperança encontro minha alegria, qu
 
 Eis que amaste a verdade, porque quem a pratica alcança a luz. Eu desejo praticá-la em meu coração, diante de ti, por esta minha confissão, e diante de muitas testemunhas por este meu livro.
 
-### II O que é confessar a Deus \*
+### II O que é confessar a Deus \*\*
 
 2. E certamente, Senhor, cujos olhos desnudam o abismo da consciência humana, que poderia haver de oculto em mim, embora eu não to quisesse confessar? Nada mais faria que esconder-te de mim, e não me esconder de ti. Mas agora que meus gemidos são testemunho do desgosto que sinto por mim, tu brilhas, e és amado e desejado a ponto de eu me envergonhar de mim. Fujo de mim para te escolher, e não quero agradar a ti ou a mim senão por ti.
 
@@ -1719,7 +2884,7 @@ Portanto, quem quer que eu seja, Senhor, tu me conheces. Já te disse com que fr
 
 Assim, meu Deus, a confissão que faço em tua presença, é e não é silenciosa; minha boca se cala, mas meu coração clama. Não digo aos homens nada de verdadeiro que já não tenhas ouvido de mim, nem ouves nada de mim que antes não me tivesses dito.
 
-### III Por que confessar-se aos homens? \*
+### III Por que confessar-se aos homens? \*\*
 
 3. Que tenho, pois, que ver com os homens para que ouçam minhas confissões, como se eles fossem curar todas as minhas enfermidades? Gente curiosa para conhecer a vida alheia, mas preguiçosa para corrigir a própria! Por que desejam ouvir de mim quem sou, eles que não querem ouvir de ti o que são? E como sabem, quando me ouvem falar de mim mesmo, se lhes digo a verdade, já que nenhum dos homens sabe o que se passa no homem, senão o espírito do homem que nele habita? Mas, se te ouvissem falar deles, não poderiam dizer: "O Senhor mente." Porque que é ouvir-te falar a seu respeito se não conhecerem-se a si mesmos. E quem há que, conhecendo-se, pode dizer "é falso" sem mentir?
 
@@ -1733,7 +2898,7 @@ Mas que proveito, Senhor - a quem todos os dias se abre minha consciência, agor
 
 Mas há muitos que me conhecem, e outros que não me conhecem, que desejam saber quem sou agora, neste momento em que escrevo as Confissões. Esses já ouviram de mim ou de outros alguma coisa a meu respeito, mas não podem aplicar seu ouvido a meu coração, onde eu sou o que sou. Eles querem, sem dúvida, saber por confissão minha o que sou interiormente, lá onde não podem penetrar com a vista, com o ouvido ou com a mente. Estão dispostos a acreditar em mim. Mas estarão dispostos a me conhecer? A caridade, que os torna bons, lhes diz que eu não minto quando confesso tais coisas de mim. É ela quem faz com que eles creiam em mim.
 
-### IV O fruto das confissões \*
+### IV O fruto das confissões \*\*
 
 5. Mas com que fruto desejam ouvir-me? Por acaso desejam congratular-se comigo, ao ouvir quanto me aproximei de ti por tua graça, e orar por mim, ao ouvir quanto me retardei por culpa de meu peso? Mostrar-lhes-ei quem sou, porque não é pequeno fruto, Senhor meu Deus, que sejam muitos os que te deem graças por mim, e que muitos te roguem por mim. Possa o coração de meus irmãos amar em mim o que ensinas a amar e deplorar em mim o que ensinas a aborrecer! Mas esses sentimentos eu só os desejo em uma alma irmã, e não em almas estranhas, ou nesses filhos espúrios, cuja boca fala vaidade, e cuja direita é a direita da iniquidade; em sua alma fraterna que, quando me aprova, se alegra por mim, e quando me reprova se aflige por mim, porque, quer me aprove, quer me reprove, me ama.
 
@@ -1749,7 +2914,7 @@ Sou uma criança, mas meu Pai vive eternamente, e é o tutor que me convém; ele
 
 Dar-me-ei, pois, a conhecer a estes, a quem mandas que sirva, não como fui, mas como já sou agora, e como continuo a ser. Mas não quero julgar-me a mim mesmo. Assim é que desejo ser ouvido.
 
-### V A ignorância do homem \*
+### V A ignorância do homem \*\*
 
 7. Tu és, Senhor, quem me julga, porque embora nenhum homem a não ser o espírito do homem que conheça o que se passa no homem nele está, contudo há no homem coisas que até o espírito que nele habita ignora. Mas tu, Senhor, que o criaste, conheces todas as suas coisas, e eu, embora em tua presença me despreze e me considere terra e cinza, sei algo de ti que ignoro de mim. É certo que agora vemos por espelho, em enigmas, e não face a face, pelo que, enquanto peregrino fora de ti, estou mais presente a mim do que a ti. Contudo, sei que em nada podes ser prejudicado, mas ignoro a que tentações posso resistir e a quais não posso.
 
@@ -1757,7 +2922,7 @@ Minha esperança é que és fiel e que não permitirás que sejamos tentados al�
 
 Confessarei, portanto, o que sei de mim, e também o que de mim ignoro, porque o que sei de mim só o sei porque me iluminas, e o que de mim ignoro não o saberei enquanto minhas trevas não se converterem como meio-dia em tua presença.
 
-### VI Quem é Deus? \*
+### VI Quem é Deus? \*\*
 
 8. O que sei com certeza, Senhor, é que te amo. Feriste meu coração com tua palavra, e te amei. Mas também o céu, a terra e tudo quanto neles existe, de todas as partes me dizem que te ame; nem deixam de dizê-lo a todos os homens, a fim de que sejam inescusáveis. Mas, te compadecerás profundamente daquele de quem já te compadeceste, e usarás de misericórdia com quem já foste misericordioso. De outro modo, o céu e a terra cantariam teus louvores a surdos.
 
@@ -1775,7 +2940,7 @@ Interroguei ao Universo acerca de meu Deus, e ele me respondeu: "Não sou eu, ma
 
 Os animais, pequenos e grandes, a veem; mas não podem interrogá-la, porque não têm uma razão encarregada, como juiz, de recolher as mensagens dos sentidos. Os homens, sim, podem interrogá-la, a fim de que as perfeições invisíveis de Deus se manifestem à inteligência através de suas obras. Mas o amor que têm pelas coisas criadas os escraviza, e essa submissão os torna incapazes de julgá-las. Ora, elas não respondem senão aos que as interrogam ao julgá-las. Elas não mudam a voz, isto é, a beleza, quando alguém se limita apenas a vê-las, enquanto que outro, quando as vê, interroga-as; elas não lhes apresentam aparências diferentes, mas, conservando o mesmo aspecto exterior, ficam mudas para uns, enquanto falam a outros. Ou melhor: elas falam a todos, mas apenas são compreendidas pelos que comparam sua voz exterior com a verdade interior. Porque a verdade me diz: "Teu Deus não é nem o céu, nem a terra, nem corpo algum." Sua natureza o diz. Para quem sabe ver, a matéria é menor em seus elementos que em seu todo. Por isso, minha alma, digo-te que és melhor, porque vivificas a matéria do corpo, dando-lhe vida, que nenhum corpo pode dar a outro corpo. Mas teu Deus é também para ti a vida de tua vida.
 
-### VII Deus e os sentidos \*
+### VII Deus e os sentidos \*\*
 
 11. Que amo, então, quando amo a meu Deus? Quem é aquele que está no cimo da minha alma? É por minha alma, portanto, que subirei até ele. Vencerei a força que me une ao corpo e que enche seu organismo de vida, pois não encontro nela o meu Deus. De outra maneira, o cavalo e o burro, que não têm inteligência, também o encontrariam, porque essa mesma força dá vida a seus corpos.
 
@@ -1783,7 +2948,7 @@ Existe outra força, que não só dá vida, mas que também torna sensível minh
 
 Vencerei também essa força, porque também a possuem o cavalo e o burro, pois também eles sentem por meio do corpo.
 
-### VIII O milagre da memória \*
+### VIII O milagre da memória \*\*
 
 12. Vencerei também esta força de minha natureza, subindo por degraus até meu Criador.
 
@@ -1805,21 +2970,21 @@ Do mesmo modo as demais impressões introduzidas e acumuladas em mim pelos outro
 
 15. Grande é este poder da memória, prodigiosamente grande, meu Deus! É um santuário amplo e infinito. Quem o pôde sondar até suas profundezas? Contudo, a memória nada mais é que um poder próprio de minha alma, que pertence à minha natureza; mas eu não sou capaz de compreender inteiramente o que sou. Será o espírito demasiado estreito para se conter a si mesmo? Onde, então, se passa o que ele não pode conter de si? Estaria fora dele e não nele? Como então não o contém? Esta ideia me causa muita admiração e me enche de espanto. Viajam os homens para admirar as alturas dos montes, as ondas enormes do mar, as largas correntes dos rios, a imensidão do oceano, o giro dos astros, e se esquecem de si mesmos! Nem se admiram de que eu fale de todas essas coisas sem vê-las com os olhos; contudo, eu não as poderia enumerar se esses montes, se essas ondas, se esses rios, se esses astros, que eu vi, se esse oceano, no qual acredito pelo testemunho de outrem, eu não os visse interiormente com dimensões tão grandes como se realmente os visse. Mas quando eu os vi com meus olhos, eu não os absorvi; não são essas coisas que se encontram dentro de mim, mas apenas suas imagens. O único que sei é por que sentido do corpo recebi a impressão de cada uma delas.
 
-### IX A memória intelectual \*
+### IX A memória intelectual \*\*
 
 16. Mas não é só isto o que encerra a imensa capacidade de minha memória. Ali estão, como em um lugar interior, remoto, que aliás não é um lugar, todas aquelas noções aprendidas das artes liberais, pelo menos o que ainda não esqueci. Mas, neste caso, não são mais as imagens delas que levo comigo, mas as próprias realidades em si. Em que consiste a literatura, a dialética, as diferentes espécies de questões, tudo o que sei a respeito desses problemas está de tal modo em minha memória, que não está ali como a imagem solta de uma coisa, cuja realidade se deixou fora; como um som que ressoa e passa, ou como a voz que deixa no ouvido um rastro, que faz com que a julguemos ouvir, como se continuasse a soar quando já não ressoa; ou como o perfume que, passando e desvanecendo-se no vento, afeta o olfato e envia sua imagem à memória, imagem que a lembrança reproduz; ou como o manjar que perde o sabor no estômago, mas de algum modo o conserva na memória; ou como um corpo que se sente pelo tato, e que, em sua ausência é imaginado pela memória. Todas essas realidades não são introduzidas na memória, mas apenas são captadas as suas imagens com maravilhosa rapidez, e depositadas, por assim dizer, em casulos maravilhosos, de onde são extraídas pelo milagre da lembrança.
 
-### X Memória e sentidos \*
+### X Memória e sentidos \*\*
 
 17. Mas quando ouço dizer que há três gêneros de questões a saber: se uma coisa existe, qual a sua natureza e qual a sua qualidade - retenho a imagem dos sons de que se compõem estas palavras, e sei que estes sons passaram pelo ar com ruído e já não existem. Mas as realidades significadas por estes sons, eu jamais as toquei com nenhum sentido do corpo, nem as vi em nenhuma parte fora de minha alma; nem o que depositei em minha memória são as suas imagens, mas as próprias realidades. Que me digam, se podem, por onde entraram em mim! Percorro em vão todas as portas de minha carne e não descubro por onde poderiam ter entrado. Com efeito, os olhos dizem: "Se são coloridas, fomos nós que as anunciamos." Os ouvidos dizem: "Se eram sonoras, foram por nós reveladas." As narinas dizem: "Se tinham cheiro, passaram por aqui." O gosto diz: "Se não tem sabor, não me pergunteis por elas." E o tato declara: "Se não têm corpo, eu não as toquei, e se não as toquei, não poderia revelá-las."
 
 De onde, então, e por onde entraram em minha memória? Não o sei. Aprendi-as dando crédito à inteligência de outros, mas eu as reconheci em minha alma e aprovei-as como verdadeiras; confiei-as a meu espírito como em depósito, de onde poderei tirá-las quando quiser. Ali estavam, pois, antes mesmo que eu as aprendesse, porém não na memória. E onde estavam então? E por que, ao serem nomeadas, eu as reconheci e disse "É assim mesmo, é verdade", senão porque já estavam em minha memória, mas tão escondidas e sepultadas em tão secretos abismos que, se alguém não as arrancasse dali com suas perguntas, talvez eu nem pudesse concebê-las.
 
-### XI Ideias inatas \*
+### XI Ideias inatas \*\*
 
 18. Por esta razão descobrimos que adquirir tais conhecimentos - cujas imagens não recebemos por meio dos sentidos, mas que percebemos em nós, sem o auxílio de imagens, tais como são em si mesmos, nada mais é do que coligir com o pensamento os elementos esparsos na memória, e, graças à atenção, obrigá-los a estarem sempre como que à mão da memória, onde antes se ocultavam dispersos e descuidados, de modo que se apresentem facilmente ao chamado familiar de nosso espírito. E quantos conhecimentos dessa espécie não encerra minha memória, conhecimentos já descobertos, e, conforme disse, postos como que à mão; eis o que chamamos de "aprender" e "saber". Se os deixo de recordar de quando em quando, de tal modo se submergem e se dispersam em seus esconderijos mais profundos, que é preciso, como se fossem novos, reuni-los uma segunda vez ( cogenda ) - pois não têm outra habitação - e juntá-los de novo para que possam ser objeto do saber, isto é: é necessário tirá-los de seu estado de dispersão e juntá-los novamente. Daí a palavra cogitare, porque cogo e cogito são como ago e agito, e fado, facito. Contudo, a inteligência reivindicou essa palavra ( cogito ) como própria, de tal modo que essa operação de coligir, de reunir no espírito e não em outra parte, é propriamente o que se chama pensar ( cogitare ).
 
-### XII A memória e as matemáticas \*
+### XII A memória e as matemáticas \*\*
 
 19. A memória também contém as razões e leis infinitas dos números e dimensões, e nenhuma dessas ideias foi impressa em nós pelos sentidos do corpo, porque não são nem coloridas nem sonoras, nem têm cheiro nem gosto, nem são tangíveis. Ouço, quando se fala, os sons das palavras que as exprimem; mas uma coisa são os sons e outra, muito distinta, são as ideias que eles significam. As palavras soam de um modo em grego e de outro em latim; mas as ideias nem são gregas nem latinas, nem de nenhuma outra língua.
 
@@ -1829,11 +2994,11 @@ Também conheci os números com que contamos pelos sentidos do corpo: mas bem di
 
 Ria-se de mim quem não pode conceber esses números, que saberei compadecer-me de sua zombaria.
 
-### XIII A memória da memória \*
+### XIII A memória da memória \*\*
 
 20. Todos estes conhecimentos eu os guardo em minha memória, como guardo na memória o modo pelo qual os aprendi. Também guardo na memória muitas objeções infundadas que ouvi contra essas verdades. Essas objeções sem dúvida são falsas, mas não é falso recordá-las, e saber distinguir entre essas verdades e os erros de que as acusam. Também guardo isto na memória, e vejo que uma coisa é essa distinção que faço agora, e outra o recordar ter feito muitas vezes tal distinção, quando nelas refleti muitas vezes. Lembro-me, portanto, de ter muitas vezes compreendido essas coisas, e, quanto ao ato atual de distingui-las e compreendê-las, conservo-o na memória, a fim de me lembrar mais tarde de que hoje as compreendi. Lembro-me então de que me lembrei; e se ulteriormente me lembro de que agora pude recordar essas coisas, isso acontecerá ainda por força da memória.
 
-### XIV A lembrança dos sentimentos \*
+### XIV A lembrança dos sentimentos \*\*
 
 21. Essa mesma memória conserva também os estados afetivos da alma, não do modo como estão na alma quando os experimenta, mas de outro modo muito diverso, segundo o exige a força da memória. Lembro-me de ter estado alegre, sem que o esteja de novo; recordo minha tristeza passada, sem estar triste; lembro-me de ter sentido medo, sem senti-lo de novo; lembro-me de ter cobiçado outrora, sem que o mesmo aconteça agora. Outras vezes, pelo contrário, lembro-me com alegria de minha tristeza passada, e com tristeza da alegria que experimentei. Isto nada tem de estranho quando se trata de emoções simplesmente orgânicas, porque uma coisa é a alma e outra, o corpo; e, assim, não é maravilha que me alegre com a lembrança de um sofrimento físico já passado. Porém, aqui o espírito é a própria memória. Quando encarregamos alguém de algum negócio, dizemos: "Tenha-o bem no espírito." Quando nos esquecemos de algo, dizemos: "Não o tinha mais no espírito", "fugiu-me do espírito". É, portanto, a memória que chamamos de espírito. Sendo assim, por que quando me recordo com alegria de uma tristeza passada, meu espírito sente alegria e minha memória, tristeza, de modo que meu espírito se alegra com a alegria que tem em si e minha memória não se entristece com a tristeza que também tem em si? Seria a memória estranha ao espírito? Quem ousaria afirmá-lo? Sem dúvida a memória é como o estômago da alma, e a alegria e a tristeza, como um manjar, doce ou amargo; quando esses sentimentos são confiados à memória, depois de passarem de algum modo por esse estômago, podem ali ser guardados, mas já perderam o sabor. Seria ridículo pensar que essas coisas se assemelham. Contudo, elas não são de todo dessemelhantes.
 
@@ -1841,7 +3006,7 @@ Ria-se de mim quem não pode conceber esses números, que saberei compadecer-me 
 
 E, contudo, certamente não poderíamos falar desses sentimentos, se não encontrássemos na memória não apenas os sons que compõem essas palavras, de acordo com a imagem gravada em nós pelos sentidos, mas ainda as noções dos sentimentos que elas exprimem. Essas noções, nós não as recebemos por intermédio de nenhuma porta da carne, mas a própria alma, sentindo-as pela experiência de suas paixões, confiou-as à memória; ou então a própria memória as reteve, sem que ninguém lhas confiasse.
 
-### XV A memória das coisas ausentes \*
+### XV A memória das coisas ausentes \*\*
 
 23. Mas, se essa recordação se fez por meio das imagens ou não, quem o poderá dizer?
 
@@ -1857,7 +3022,7 @@ Falo da imagem do Sol, e esta se apresenta à minha memória; e não evoco a ima
 
 Falo em memória, e sei do que falo; mas de onde o sei, senão da própria memória? Acaso também ela está presente a si própria por meio de sua imagem, e não por si mesma?
 
-### XVI A memória do esquecimento \*
+### XVI A memória do esquecimento \*\*
 
 24. Que me dirás quando falo do esquecimento, e ao mesmo tempo reconheço de que falo, como poderia eu reconhecê-lo se não o recordasse? Não falo do som dessa palavra, mas da realidade que ela significa. Se eu a tivesse esquecido, não seria capaz de reconhecer o significado de tal som. Por isso, quando me lembro da memória, é por ela mesma que a memória se apresenta à memória; mas quando me lembro do esquecimento, o esquecimento e a memória fazem-se presentes simultaneamente: a memória, com que me recordo, e o esquecimento, de que me recordo.
 
@@ -1869,13 +3034,13 @@ Que direi então, desde que tenho a certeza de que me lembro do esquecimento? Di
 
 Se, pois, o esquecimento está na memória em imagem, e não por si mesmo, é evidente que esteve presente para que sua imagem fosse recolhida. Mas, se estava presente, como podia traçar na memória sua imagem, se o esquecimento apaga com sua presença tudo o que lá está delineado? E, contudo, seja qual for o mecanismo desse fenômeno, e por mais incompreensível e inexplicável que seja, estou certo de que me lembro do esquecimento, que apaga da memória todas as nossas lembranças.
 
-### XVII Deus e a memória \*
+### XVII Deus e a memória \*\*
 
 26. Grande é o poder da memória! E ela tem algo que me causa horror, meu Deus, em sua multiplicidade infinita e profunda. E isto é o espírito, e isto sou eu mesmo. Que sou, pois, meu Deus? Que natureza é a minha? Vida vária e multiforme, e sobremaneira imensa. Vede o que há em minha memória: campos, antros, inumeráveis cavernas, tudo isso infinitamente cheio de toda espécie de coisas, também inumeráveis. Umas aí figuram em imagens, como é o caso de todos os corpos; outras, como as ciências, aí estão realmente presentes; outras ainda aí estão sob a forma de não sei que noções ou notações: são os estados afetivos da alma, que a memória conserva quando a alma já não os sente, embora tudo o que está na memória também esteja na alma. Percorro em todos os sentidos este mundo interior, vou de um lado para outro, e nele penetro tanto quanto possível, sem encontrar limites!
 
 Que farei, pois, meu Deus, minha verdadeira vida? Ultrapassarei também esta minha força que se chama memória? Ultrapassá-la-ei para chegar a ti, doce luz? Que dizes? Eis que, subindo pela alma a ti, que estás acima de mim, ultrapassarei também esta minha força, que se chama memória, porque desejo atingir-te pelo lado em que és acessível e unir-me a ti por onde é possível fazê-lo. Também os animais e as aves têm memória, porque de outro modo não voltariam a seus covis e ninhos nem fariam muitas outras coisas com as quais se acostumam, pois nem mesmo poderiam adquirir hábitos sem a memória. Passarei, pois, além da memória para chegar àquele que me separou dos animais e me fez mais sábio que as aves do céu. Passarei além da memória, mas onde te hei de achar, ó Deus verdadeiramente bom, suavidade segura? Onde te hei de encontrar? Se te encontro fora de minha memória, estou esquecido de ti, e se não me lembro de ti, como te poderei encontrar?
 
-### XVIII A memória das coisas perdidas \*
+### XVIII A memória das coisas perdidas \*\*
 
 27. Uma mulher perdeu uma dracma e a procurou com sua lanterna. Mas se não se tivesse lembrado dela, tampouco a haveria de encontrar; porque, se não se lembrasse, como poderia saber, ao achá-la, que era aquela a dracma que procurava?
 
@@ -1883,7 +3048,7 @@ Lembro-me também de ter procurado e achado muitas coisas perdidas; e sei isto p
 
 Se por acaso alguma coisa desaparece de nossos olhos, sem desaparecer da memória - como sucede com um corpo qualquer visível -, conservamos interiormente sua imagem e a procuramos até que apareça a nossos olhos. Quando for encontrada, será reconhecida de acordo com essa imagem interior. E não dizemos ter encontrado um objeto perdido se não o reconhecemos, nem o podemos reconhecer se não o recordamos. Esse objeto desaparecera para os olhos, mas era conservado pela memória.
 
-### XIX A memória das lembranças \*
+### XIX A memória das lembranças \*\*
 
 28. E que acontece quando a própria memória perde uma lembrança, como ocorre quando nos esquecemos de alguma coisa e procuramos recordá-la? Onde, enfim, a buscamos, senão na própria memória? E se ela, por casualidade, nos oferece uma coisa por outra, a repelimos até que apareça a que estamos buscando. E quando aparece dizemos "É isto!" - o que não diríamos se não a reconhecêssemos, nem a reconheceríamos se não nos lembrássemos dela. É certo, portanto, que já a havíamos esquecido. Ou será que ela não saiu inteiramente de nossa memória, e nos servimos da parte que nos ficou impressa para procurar a outra? A memória, nessa hipótese, teria consciência de não poder, como de ordinário, descrever a lembrança em seu conjunto, e, truncada em seus hábitos, e como a coxear, reclamaria a parte que lhe faltava. É o que acontece quando vemos uma pessoa conhecida, ou quando pensamos nela sem poder recordar-lhe o nome. Nós o procuramos, e se um outro nome se nos apresenta ao espírito, ele não se associa à ideia da pessoa, porque não temos o costume de associá-los em nosso pensamento; por isso o afastamos, até que se apresenta um que consiga a adesão total de nossa representação costumeira da pessoa.
 
@@ -1891,7 +3056,7 @@ Mas donde nos vem este nome, senão da própria memória? Mesmo quando nos lembr
 
 Não se pode, pois, dizer que nos esquecemos totalmente daquilo de que nos lembramos ter esquecido. De nenhum modo poderíamos procurar uma lembrança perdida se seu esquecimento fosse absoluto.
 
-### XX A memória da felicidade \*
+### XX A memória da felicidade \*\*
 
 29. E a ti, Senhor, como te hei de buscar? Quando te procuro, meu Deus, estou à procura da felicidade. Que eu te procure para que minha alma viva, porque meu corpo vive de minha alma, e minha alma vive de ti. Como, pois, busco a felicidade? Porque não a possuirei até que diga basta, quando convém que o diga. Como, pois, procurá-la? Acaso pela lembrança, como se a tivera esquecido, conservando, porém, a lembrança do esquecimento? Ou talvez pelo desejo de conhecer algo ignorado, ou por não o ter conhecido, ou por tê-lo esquecido por completo, a ponto de não ter consciência de meu esquecimento?
 
@@ -1899,7 +3064,7 @@ Mas acaso não é a felicidade o que todos desejam, sem que ninguém a despreze?
 
 Logo, a felicidade é conhecida de todos, e se fosse possível perguntar-lhes a uma voz "Quereis ser felizes?", todos responderiam afirmativamente, sem vacilar. E isso não poderia acontecer se a memória não possuísse em si o conceito de felicidade, representado por essa palavra.
 
-### XXI A memória do que nunca tivemos \*
+### XXI A memória do que nunca tivemos \*\*
 
 30. Essa lembrança é comparável à que conserva de Cartago quem a viu? Não, porque a felicidade não se vê com os olhos, pois não é corpo. Acaso é comparável à lembrança dos números? Não, porque quem conhece os números não deseja adquiri-los, quando, pelo contrário, é a ideia que temos da felicidade que nos inclina a amá-la e a querer possuí-la, para sermos felizes.
 
@@ -1913,11 +3078,11 @@ Porque também me senti inundado de alegria causada por ações vergonhosas, cuj
 
 Que significa isto: se perguntarmos a dois homens se querem alistar-se no exército, talvez um responda afirmativamente e o outro negativamente. Mas, perguntemos se desejam ser felizes, e ambos responderão afirmativamente, sem nenhuma hesitação. E um, desejando engajar-se, e o outro, recusando-se, obedecem igualmente a este desejo de felicidade. Um gosta disto, outro daquilo, mas ambos concordam em ser felizes, como concordariam respondendo afirmativamente a quem lhes perguntasse se desejariam estar alegres. Essa alegria é o que eles chamam de felicidade. E assim, embora um siga por um caminho e outro por outro, a finalidade de todos é uma só: a alegria. Como a alegria é um sentimento do qual ninguém se pode dizer inexperiente, nós a encontramos em nossa memória e a reconhecemos ao ouvir pronunciar o nome felicidade.
 
-### XXII A verdadeira felicidade \*
+### XXII A verdadeira felicidade \*\*
 
 32. Longe de meu coração, longe do coração de teu servo, que se confessa a ti, Senhor, o pensamento de encontrar a felicidade não importa em que alegria! Porque a felicidade é uma alegria que não é dada aos ímpios, mas àqueles que te servem de modo desinteressado: tu és essa alegria! Alegrar-se de ti, em ti e por ti: isso é felicidade. E não há outra. Os que imaginam outra felicidade prendem-se a uma alegria que não é a verdadeira. Contudo, sempre há uma imagem da alegria da qual sua vontade não se afasta.
 
-### XXIII Felicidade e verdade \*
+### XXIII Felicidade e verdade \*\*
 
 33. Então, não é verdade que todos desejam ser felizes, porque os que não querem buscar em ti sua alegria, tu que és a única felicidade, não querem verdadeiramente a felicidade? Ou acaso todos a desejam, mas, como a carne combate contra o espírito, e o espírito contra a carne, eles não fazem o que querem, recaem naquilo que podem, e aí se acomodam, porque aquilo que não podem não o querem bastante energicamente para o poderem fazer?
 
@@ -1933,11 +3098,11 @@ Há ainda um pouco de luz entre os homens: caminhem, caminhem, para que as treva
 
 Será, portanto, feliz, quando, livre de toda inquietação, se alegrar somente na verdade, princípio de tudo o que é verdadeiro.
 
-### XXIV Deus e a memória \*
+### XXIV Deus e a memória \*\*
 
 35. Vê como explorei o campo de minha memória em tua procura, Senhor; não me foi possível encontrar-te fora dela. Porque nada encontrei de ti que não fosse lembrança desde que aprendi a te conhecer, e nunca me esqueci de ti desde que te conheci. Onde encontrei a verdade, aí encontrei meu Deus, que é a própria verdade; e desde que aprendi a conhecer a verdade, nunca mais a esqueci. Por isso, desde que te conheço, permaneces em minha memória. É lá que te encontro quando me lembro de ti e quando sou feliz em ti. Estas são as santas delícias que me deste em tua misericórdia, pondo os olhos em minha pobreza.
 
-### XXV Recapitulação \*
+### XXV Recapitulação \*\*
 
 36. Mas onde ficas em minha memória, Senhor, em que lugar dela estás? Que esconderijo construíste aí? Que santuário aí edificaste para ti? Deste à minha memória a honra de nela morar; mas em que parte dela resides? Isso é o que quero considerar agora.
 
@@ -1945,15 +3110,15 @@ Quando te procurei pela lembrança, ultrapassei aquela parte de minha memória q
 
 Mas, por que perguntar em que lugar da memória habitas, como se a memória tivesse lugares? O que é certo é que habitas nela desde que te conheço, e é nela que te encontro, quando penso em ti.
 
-### XXVI Onde encontrar Deus? \*
+### XXVI Onde encontrar Deus? \*\*
 
 37. Onde, então, te encontrei, para te conhecer? Não estavas ainda em minha memória antes que eu te conhecesse. Onde, então, te encontrei, para te conhecer, senão em ti, acima de mim? Aí não há absolutamente espaço. Quer nos afastemos de ti, quer nos aproximemos, aí não existe espaço algum, ó Verdade, por toda parte dás ouvidos aos que te consultam, e respondes ao mesmo tempo a todas essas diversas consultas. Todos te consultam sobre o que querem, mas nem sempre ouvem as respostas que querem. Teu melhor servo é o que não pensa em receber de ti a resposta que quer, mas em querer a resposta que lhe dás.
 
-### XXVII Solilóquio de amor \*
+### XXVII Solilóquio de amor \*\*
 
 38. Tarde te amei, Beleza tão antiga e tão nova, tarde te amei! E, no entanto, estavas dentro de mim, e eu fora, a te procurar! Minha feiura se lançava sobre toda a beleza que criaste. Estavas comigo, e eu longe de ti. Prendiam-me longe de ti coisas que nem existiriam, se não existissem em ti. Tu me chamaste, gritaste por mim, e venceste minha surdez. Brilhaste, e teu esplendor pôs em fuga minha cegueira. Exalaste teu perfume, respirei-o, e agora suspiro por ti. Eu te saboreei, e agora sinto fome e sede. Tocaste-me, e o desejo de tua paz me inflama.
 
-### XXVIII A vida do homem \*
+### XXVIII A vida do homem \*\*
 
 39. Quando me unir a ti com todo o meu ser, para mim não haverá mais dor ou fadiga; minha vida, cheia de ti, será então a verdadeira vida. Tornas leves aqueles que enches de ti; mas, como ainda não estou pleno de ti, sou um peso para mim. Minhas alegrias, dignas de serem choradas, lutam com meus sofrimentos, pelos quais deveria alegrar-me, e ignoro de que lado está a vitória.
 
@@ -1961,13 +3126,13 @@ Ai! Senhor, tem piedade de mim! Minhas tristezas más lutam com minhas santas al
 
 Ai das prosperidades do século, nas quais se teme a adversidade e onde a alegria é corrompida! Ai das adversidades do século, uma, duas, três vezes ai! Porque no mundo se deseja a felicidade, mas a adversidade é dura, e quebra a paciência! Acaso a vida do homem na terra não é uma contínua tentação.
 
-### XXIX Esperança em Deus \*
+### XXIX Esperança em Deus \*\*
 
 40. Toda a minha esperança não está senão na grandeza de tua misericórdia. Dá o que mandas e manda o que quiseres. Mandas que sejamos castos. "E como sei", diz alguém, "que ninguém pode ser casto se Deus não lhe dá forças, já é sabedoria saber de quem procede este dom". Com efeito, a continência reúne os elementos de nossa pessoa, reduzindo-os à unidade que perdemos dispersando-nos por tantos seres e coisas. Não te ama bastante quem te ama juntamente com algum outro objeto, e não o ama por ti.
 
 Ó amor, que sempre ardes e nunca te extingues! Ó caridade, meu Deus, inflama-me! Mandas a continência? Dá-me o que mandas e manda o que quiseres!
 
-### XXX Sonho e voluptuosidade \*
+### XXX Sonho e voluptuosidade \*\*
 
 41. É certo que me mandas reprimir a concupiscência da carne, a concupiscência dos olhos e a ambição do século. Proibiste as uniões ilícitas, e, quanto ao casamento, embora o tenhas permitido, ensinaste que há um estado que lhe é preferível. E, com tua graça, optei por esse estado, antes mesmo de me tornar dispensador de teu sacramento.
 
@@ -1979,7 +3144,7 @@ Mas por que, muitas vezes, mesmo no sono resistimos, lembrados de nossos firmes 
 
 Agora, disse a meu bom Senhor em que estado me encontro neste gênero de misérias, alegrando-me com tremor, pelos dons que já me concedeste e gemendo pelo que ainda há em mim de inacabado. Espero que aperfeiçoarás em mim tuas misericórdias, até a paz total de que gozarão em ti meu ser interior e exterior, quando a morte for absorvida pela vitória.
 
-### XXXI A intemperança \*
+### XXXI A intemperança \*\*
 
 43. O dia me traz nova miséria, e oxalá que ela lhe baste! Comendo e bebendo, reparamos as perdas cotidianas de nosso corpo, até o momento em que destruirás o alimento e o estômago, matando minha indigência por uma maravilhosa saciedade e revestindo este corpo corruptível de eterna incorrupção.
 
@@ -2005,11 +3170,11 @@ Sei que Noé teve permissão de comer toda espécie de carne que pudesse servir 
 
 47. Exposto a essas tentações, luto todos os dias contra a concupiscência do comer e do beber, por que isso não é coisa que se possa cortar de uma vez por todas, com um simples propósito de jamais tocá-la no futuro como fiz em relação à mulher. É um freio que devo pôr a meu paladar, ora para afrouxá-lo, ora para reprimi-lo. E quem é, Senhor, que não se deixa levar um pouco além dos limites da necessidade? Se há alguém assim, esse tal é grande e deve engrandecer teu nome. Quanto a mim, não sou desse número, porque sou pecador. Contudo, também eu engrandeço teu nome, e Aquele que venceu o mundo intercede junto a ti por meus pecados contando-me entre os membros enfermos de seu corpo, porque teus olhos viram suas imperfeições e porque todos serão inscritos em teu livro.
 
-### XXXII Os prazeres do olfato \*
+### XXXII Os prazeres do olfato \*\*
 
 48. Quanto à sedução dos perfumes, não me inquieto muito. Quando ausentes, não vou à sua procura; quando presentes, não os afasto; estou sempre disposto a carecer deles. Pelo menos é o que me parece, embora talvez me engane. Porque há em mim trevas deploráveis, que me escondem a vista de minhas faculdades ocultas, de sorte que, quando meu espírito se interroga a respeito de suas forças, bem sabe que não deve fiar-se em si mesmo, porque seu conteúdo muitas vezes permanece oculto, até que a experiência lho dá a conhecer. Por isso ninguém deve estar seguro nesta vida, que se chama de tentação perpétua, para que não aconteça que, assim como podemos nos tornar de piores melhores, não voltemos a nos tornar de melhores piores. Nossa única esperança, nossa única confiança, nossa firme promessa é tua misericórdia.
 
-### XXXIII Os prazeres do ouvido \*
+### XXXIII Os prazeres do ouvido \*\*
 
 49. Os prazeres do ouvido me haviam enredado e subjugado com mais força, mas tu me desligaste, me libertaste.
 
@@ -2027,7 +3192,7 @@ Assim, flutuo entre o perigo do prazer e a constatação dos bons efeitos que o 
 
 Eis em que ponto estou! Chorai comigo, e chorai por mim, vós que experimentais no coração inclinações virtuosas, fonte de boas obras. Porque vós, que não as conheceis, sois insensíveis a tudo isso. E tu, Senhor meu Deus, escuta, olha e vê; tem piedade de mim, dá-me saúde. Eis que me transformei para mim mesmo em um problema, sob teus olhos, e aí reside precisamente meu mal.
 
-### XXXIV O prazer dos olhos \*
+### XXXIV O prazer dos olhos \*\*
 
 51. Resta ainda o prazer destes olhos carnais. Gostaria que os ouvidos fraternos e piedosos de teu templo escutassem a confissão que vou fazer, terminando assim com as tentações da concupiscência da carne, que ainda me incitam, a despeito de meus gemidos e dos desejos de ser revestido de meu tabernáculo, que está no céu.
 
@@ -2045,7 +3210,7 @@ Os artistas e seguidores das belezas exteriores tiram dessa beleza soberana apen
 
 Mesmo eu, que afirmo e compreendo essas verdades, deixo que meus passos se enredem nessas belezas; mas tu me livras de seu laço, tu me libertas, porque tua misericórdia está diante de meus olhos. Deixo-me prender miseravelmente, e tu me libertas misericordiosamente, às vezes sem que eu o sinta, quando minha queda não foi brutal, às vezes infligindo-me um sofrimento, quando eu começava a me apegar.
 
-### XXXV A curiosidade \*
+### XXXV A curiosidade \*\*
 
 54. A esta acrescente-se outra forma de tentação, que oferece maiores perigos. Além da concupiscência da carne, que consiste no deleite voluptuoso de todos os sentidos, e cuja escravidão perde os que se afastam de ti, há ainda na alma uma outra cobiça, que se exerce pelos mesmos sentidos corporais, mas tende menos a uma satisfação carnal do que a fazer experiências por meio da carne: vã curiosidade, que se acoberta sob o nome de conhecimento e de ciência. Como se origina no apetite de conhecer, e como entre os sentidos os olhos são os principais instrumentos do conhecimento, o oráculo divino chamou-a de concupiscência dos olhos.
 
@@ -2067,7 +3232,7 @@ E que dizer quando, sentado em minha casa, uma lagartixa anda à caça de moscas
 
 E dessas quedas minha vida está cheia, e minha única esperança está em tua extrema misericórdia. Nosso coração torna-se receptáculo de semelhantes misérias, e leva em si uma multidão enorme de vaidades, que chegam muitas vezes até a interromper e perturbar nossas orações; e enquanto, em tua presença, levantamos a voz de nosso coração até teus ouvidos, esses pensamentos fúteis lançam-se sobre nós, não sei de onde, e vêm perturbar uma ação de tanta importância.
 
-### XXXVI O orgulho \*
+### XXXVI O orgulho \*\*
 
 58. Terei também essas fraquezas como desprezíveis? Ou algo poderá restituir-nos a esperança, além de tua misericórdia, muito conhecida, desde que começaste a me transformar? Sabes até que ponto já me transformaste, tu que, em primeiro lugar, me curaste da paixão da vingança, para socorrer-me também em todas as minhas iniquidades, curar todos os meus males, resgatar minha vida da corrupção, coroar-me na piedade e na misericórdia e saciar de bens meu desejo; tu, que reprimiste meu orgulho pelo temor que me inspiraste, dobrando meu pescoço a teu jugo. Agora eu o carrego, e teu jugo me é doce, como me prometeste e o cumpriste. Na verdade, teu jugo já era doce, mas eu não o sabia quando tinha medo de me sujeitar a ele.
 
@@ -2077,7 +3242,7 @@ Porque é necessário, para cumprir alguns deveres na sociedade, fazer-se amar e
 
 Mas nós, Senhor, vê, somos tua pequenina grei: sê nosso dono. Estende tuas asas, para que nos sirvam de refúgio. Sê nossa glória; que nos amem por tua causa e que seja tua palavra temida em nós. Quem deseja ser louvado pelos homens, quando o reprovas, não será defendido pelos homens quando o condenares, e não poderá furtar-se à tua condenação. Mas quando não é um pecador o que é louvado nos desejos de sua alma, nem um artífice de iniquidades o que é abençoado, mas um homem que se louva pelos dons que lhe concedeste, se ele se compraz mais no louvor do que no dom pelo qual é louvado, também este é louvado com tua reprovação, a despeito dos louvores que recebe. E o que o louva é melhor do que o que é louvado, porque o que a um agradou é o dom de Deus; o outro preferiu ao dom de Deus o dom do homem.
 
-### XXXVII A tentação do orgulho \*
+### XXXVII A tentação do orgulho \*\*
 
 60. Diariamente estamos às voltas com essas tentações, Senhor, somos tentados sem trégua. A língua dos homens é uma fornalha onde todos os dias somos postos à prova. Também neste ponto mandas que sejamos senhores de nós mesmos: dá o que mandas, e manda o que quiseres.
 
@@ -2099,27 +3264,27 @@ Mas, repito-o, como saber se esse desgosto não provém de minha repugnância ao
 
 Afasta de mim, Senhor, esta loucura, de medo que minhas palavras não sejam para mim óleo de pecador para ungir minha cabeça.
 
-### XXXVIII A vanglória \*
+### XXXVIII A vanglória \*\*
 
 63. Sou pobre e necessitado, e nada valho, senão quando, com gemidos secretos, desagrado a mim mesmo e procuro tua misericórdia, até o dia em que minhas imperfeições forem reparadas e aperfeiçoadas, experimentando a paz ignorada pelo olho soberbo! Mas as palavras de nossa boca, ou as de nossos atos, que são conhecidas pelo público, nos expõem a uma tentação muito perigosa, filha desse amor aos louvores, que, para nos fazer valer, recolhe e mendiga os pareceres alheios. Essa paixão ainda me tenta quando eu a critico em mim, e é por isso mesmo que eu a critico. Muitas vezes, por um cúmulo de vaidade, há quem se glorie até mesmo desse desprezo da vanglória: mas na verdade não é mais o desprezo da vanglória que se glorifica, porque ninguém a despreza quando se gloria de a desprezar.
 
-### XXXIX O amor-próprio \*
+### XXXIX O amor-próprio \*\*
 
 64. Há ainda em nós, bem dentro de nós, outra tentação do mesmo gênero: é a fonte da vaidade daqueles que se comprazem em si mesmos, embora não agradem aos outros, ou porque lhes desagradem ou porque não procuram absolutamente agradar-lhes. Por mais contentes que estejam consigo mesmos, te desagradam muito, não apenas quando se gloriam dos males como se foram bens, mas ainda quando consideram como seu bem próprio o bem de que és o autor, ou quando, reconhecendo em si tua obra, eles a atribuem a seus merecimentos; ou ainda quando, atribuindo-os à tua graça, eles não associam os outros à sua alegria, e dela se apropriam invejosamente.
 
 Em meio a todos os perigos e provas dessa espécie, tu vês o temor de meu coração, e sinto que são mais as feridas que curas em mim do que as que eu vejo ou sinto.
 
-### XL À procura de Deus \*
+### XL À procura de Deus \*\*
 
 65. Quando deixaste de me acompanhar em minha caminhada terrestre, ó Verdade, para me ensinar o que eu devia evitar ou procurar, enquanto eu te consultei, tanto quanto me era possível, submetendo a ti meus medíocres pontos de vista? Percorri com meus sentidos, como me pude, o mundo exterior. Observei a vida de meu corpo e os próprios sentidos. Depois penetrei pelos ocultos labirintos da memória em seus múltiplos domínios, tão maravilhosamente cheios de inúmeras riquezas; considerei tudo isso e fiquei estupefato. Sem teu socorro nada poderia distinguir, mas reconheci que nada disto eras. Explorei todas essas coisas, fiz todos os esforços para distinguir cada uma delas e para estimá-las em seu devido valor, recebendo umas pelo testemunho dos sentidos e interrogando-as, e sentindo outras unidas a mim, examinando, enumerando os sentidos, esses mensageiros, e nas vastas reservas da memória analisando certas lembranças, encerrando umas e retirando outras. Mas não era eu quem descobria todas essas coisas, e nessa pesquisa eu, ou antes, a força pela qual eu a empreendia, não eras tu. Porque és a luz permanente que eu consultava sobre todas essas coisas para saber se elas existiam, o que eram, o que valiam, e eu ouvia tuas lições e tuas ordens. Costumo fazê-lo muitas vezes; essa é a minha alegria, e, na medida em que minhas ocupações me permitem algum lazer, refugio-me nesse prazer.
 
 Em todas essas coisas que percorro consultando-te não encontro segurança para minha alma senão em ti: tu és o lugar onde se reúnem meus sentimentos esparsos, sem que nada se parta em mim. Todavia, fazes com que eu conheça uma extraordinária plenitude de vida interior, na qual experimento misteriosa doçura, que, se chegasse à perfeição, não sei o que seria, porque esta vida não poderia subsistir. Mas torno a cair neste mundo inferior, cujo peso me acabrunha, volto a ser presa de meus hábitos, que me prendem, e, malgrado minhas lágrimas, elas não me libertam. Tal é o peso do hábito! Não quero estar onde posso e não posso estar onde quero: miséria em ambos os casos!
 
-### XLI Deus e a mentira \*
+### XLI Deus e a mentira \*\*
 
 66. Por isso considerei minhas fraquezas de pecador nas três concupiscências e invoquei tua destra para minha cura. Porque, com o coração ferido, vi teu esplendor, e, forçado a recuar, disse: "Quem pode chegar até lá? Fui lançado para longe de teus olhos." És a verdade que preside a todas as coisas. E eu, em minha avareza, não queria perder-te, mas queria possuir ao mesmo tempo a ti e à mentira, como os que não querem mentir a ponto de perderem a noção de verdade. Eis por que te perdi, porque não admites que ninguém te possua juntamente com a mentira.
 
-### XLII Os neoplatônicos e o caminho para Deus \*
+### XLII Os neoplatônicos e o caminho para Deus \*\*
 
 67. Quem poderia eu encontrar que me reconciliasse contigo? Deveria eu recorrer aos anjos? E com que orações, com que ritos? Muitos que se esforçavam para voltar a ti, não o podendo por si mesmos, tentaram este caminho, segundo ouço dizer, e caíram na curiosidade de visões estranhas, sendo por isso justamente punidos pelas ilusões.
 
@@ -2129,7 +3294,7 @@ Era necessário ao mediador entre Deus e o homem alguma semelhança com Deus e a
 
 Mas esse falso mediador, a quem teus secretos juízos dão licença para iludir a soberba, não tem de comum com os homens senão uma coisa, isto é, o pecado. Ele bem gostaria de parecer ter algum traço comum com Deus; e por isso, como não está revestido de carne mortal, pretende ser imortal. Mas, como a morte é o salário do pecado, ele tem de comum com os homens o que o faz condenar, como eles, à morte.
 
-### XLIII Cristo, o único mediador \*
+### XLIII Cristo, o único mediador \*\*
 
 68. O verdadeiro mediador que, em tua secreta misericórdia, enviaste e revelaste aos homens, a fim de que, por seu exemplo, aprendessem a humildade, esse mediador entre Deus e os homens, o homem Jesus Cristo, apareceu como mediador entre os pecadores mortais e o Justo imortal: mortal como os homens e justo como Deus. E, como a vida e a paz são a recompensa da justiça, pela justiça que o une a Deus ele suprimiu a morte entre os ímpios justificados e quis morrer como eles.
 
@@ -2141,9 +3306,9 @@ Foi revelado aos santos dos antigos dias, para que eles encontrassem a salvaçã
 
 Eis, Senhor, que lanço em ti minhas preocupações para viver e considerarei as maravilhas de tua lei. Conheces minha ignorância e minha fraqueza: ensina-me, cura-me. Teu Filho único, em quem estão escondidos todos os tesouros da sabedoria e da ciência, me remiu com seu sangue. Que os soberbos não me caluniem mais, porque eu conheço o preço de meu resgate. Como o corpo e bebo o sangue da vítima redentora, distribuo-a aos outros, e, pobre, desejo saciar-me dela na companhia daqueles que a comem e são saciados. E louvarão ao Senhor os que o buscam!
 
-## Livro XI \*
+## Livro XI \*\*
 
-### I Finalidade das confissões \*
+### I Finalidade das confissões \*\*
 
 1. Porventura, Senhor, sendo tua a eternidade, ignoras o que te digo, ou vês no tempo o que se passa no tempo? Por que motivo, então, fazer-te uma relação dessas coisas todas? Certamente não é para te instruir; é para excitar em mim e nos que me leem nosso amor por ti, a fim de que todos digamos: Grande é o Senhor, e infinitamente digno de louvores! Já disse e torno a dizer: "É por amor de teu amor que faço isso."
 
@@ -2151,7 +3316,7 @@ Também nós oramos, e, não obstante, a verdade nos diz: "O Pai conhece vossas 
 
 Eis que te contei muitas coisas, de acordo com meu poder e minha vontade, porque o quiseste primeiro, a fim de que te confessasse, Senhor meu Deus, porque és bom, e porque tua misericórdia é eterna.
 
-### II A inteligência das Escrituras \*
+### II A inteligência das Escrituras \*\*
 
 2. Mas quando poderei eu contar devidamente com a língua de minha pena todas as exortações, todos os terrores, as consolações, as inspirações através dos quais me levaste a pregar tua palavra e dispensar teu sacramento a teu povo?
 
@@ -2171,7 +3336,7 @@ Eu to suplico por nosso Senhor Jesus Cristo, teu Filho, o homem que está sentad
 
 Eu te conjuro por aquele que está sentado à tua direita, e que intercede por nós, no qual estão ocultos todos os tesouros da sabedoria e da ciência, que procuro em teus livros. Moisés escreveu a seu respeito: "Isto diz ele, isto diz a verdade."
 
-### III O que disse Moisés \*
+### III O que disse Moisés \*\*
 
 5. Senhor, faze com que eu ouça e compreenda como no princípio criaste o céu e a terra. Moisés escreveu isto. Escreveu e desapareceu, foi-se daqui, onde lhe falaste, para junto de ti, e não está mais diante de mim. Se estivesse aqui, detê-lo-ia, para lhe pedir que me esclarecesse em teu nome o sentido deste texto, e aplicaria meus ouvidos às palavras que brotassem de sua boca. Se me falasse em hebraico, sua voz bateria em vão em meus ouvidos, e meu espírito nada entenderia; mas se me falasse em latim, eu compreenderia suas palavras.
 
@@ -2179,11 +3344,11 @@ Mas como saberia se ele dizia a verdade? E, dado que o soubesse, sabê-lo-ia por
 
 Mas não podendo interrogá-lo, é a ti, ó Verdade, que enchias seu espírito quando ele dizia essas palavras verdadeiras, é a ti, meu Deus, que dirijo minha prece: perdoa meus pecados. Concedeste que teu servo dissesse essas coisas: faze agora com que eu as compreenda.
 
-### IV O céu e a terra \*
+### IV O céu e a terra \*\*
 
 6. Eis que existem o céu e a terra, que clamam que foram criados, porque se transformam e estão sujeitos a mudanças. Mas o que não foi criado, e, contudo, existe, nada pode conter que antes já não existisse, e nisso consiste o mudar-se e o variar. Proclamam também que não foram criados por si mesmos: "Existimos porque fomos criados. Não existíamos antes, de modo que pudéssemos criar a nós mesmos." E essa voz que nos fala é a voz da própria evidência. Tu és, Senhor, quem as criaste. E porque és belo, eles são belos; porque és bom, eles são bons; porque existes, eles existem. Mas tuas obras não são belas, não são boas, não existem de modo perfeito como tu, seu Criador. Comparadas contigo, nem são boas, nem belas, nem existem. Isso sabemos, e por isso te rendemos graças, e nossa ciência, comparada com tua ciência, é ignorância.
 
-### V A palavra e a Criação \*
+### V A palavra e a Criação \*\*
 
 7. Mas como criaste o céu e a terra, e de que máquina te serviste para levar a cabo tão grande obra? Porque não fizeste como o artista, que forma um corpo de outro corpo, de acordo com a concepção de seu espírito, que tem o poder de exteriorizar a forma que percebe em si mesmo por meio do olho interior. De onde vem esse poder do espírito, se não tivesses criado o espírito? E essa forma, ele a impõe a uma matéria que já existe, própria a ser transformada, como a terra, a pedra, a madeira, o ouro e tantas outras substâncias.
 
@@ -2191,55 +3356,55 @@ Mas de onde essas coisas tirariam a existência se não as tivesses criado? Cria
 
 Mas como os fizeste? Como criaste, meu Deus, o céu e a terra? Por certo não criaste o céu e a terra no céu e na terra. Nem tampouco os criaste no ar, nem sob as águas que dependem do céu e da terra. Não criaste o Universo no Universo, porque não havia espaço onde pudesse ser criado. Não tinhas na mão a matéria para modelar o céu e a terra. De onde teria vindo isso que não tinhas feito para dele fazer alguma coisa? Que criatura pode existir sem subentender tua existência? Contudo, falaste e o mundo foi feito. Tua palavra o criou.
 
-### VI Como falou Deus? \*
+### VI Como falou Deus? \*\*
 
 8. Mas, como falaste? Porventura do mesmo modo como esta voz que, saindo da nuvem, diz: "Este é meu Filho bem-amado" ? Essa voz fez-se ouvir e passou; teve começo e fim; suas sílabas ressoaram, depois passaram a segunda sucedendo à primeira, a terceira, à segunda, e assim por diante até a última, que vem depois de todas as outras - depois do que foi o silêncio. Por onde se vê clara e evidentemente que essa voz foi proferida pelo órgão móvel e temporal de uma criatura a serviço de tua vontade eterna. E essas palavras, pronunciadas no tempo, foram comunicadas pelo ouvido exterior à inteligência, cujo ouvido interior está atento à tua palavra eterna. Mas a inteligência comparou essas palavras que tinham soado no tempo com o silêncio de tua palavra eterna, e disse: "É diferente, muito diferente. Essas palavras estão bem abaixo de mim, porque não existem, pois fogem e passam; mas o Verbo de Deus permanece acima de mim eternamente."
 
 Se, pois, é com palavras sonoras e passageiras que disseste "Que se façam o céu e a terra!", se é assim que os criaste, é que já havia, antes do céu e da terra, uma criatura corporal, cujos movimentos temporais haviam feito vibrar essa voz no tempo. Mas não havia corpo algum antes do céu e da terra, ou se algum existia, tu certamente já o tinhas criado sem o intermédio de uma voz de palavras sucessivas, a fim de que precisamente pudesse ser criada por ti essa voz de palavras sucessivas que devia pronunciar "Façam-se o céu e a terra!" - porque um corpo, fosse o que fosse, condição da existência de tal voz, não teria existido se não o tivesses criado. Mas para criar esse corpo graças ao qual teriam podido ser emitidas essas palavras, de que palavra te serviste?
 
-### VII A palavra coeterna \*
+### VII A palavra coeterna \*\*
 
 9. E assim nos convidas a compreender o Verbo, que é Deus junto de ti, que também és Deus, palavra pronunciada eternamente e na qual tudo é pronunciado eternamente. Não é uma sequência de palavras, ou uma palavra que termina e é seguida por outra, de modo que no fim tudo possa ser dito; mas tudo é dito ao mesmo tempo e eternamente. Do contrário, haveria tempo e mudança, e não a verdadeira eternidade nem a verdadeira imortalidade.
 
 Isto eu o sei, meu Deus, e por isso te dou graças. Eu o sei, eu to confesso, Senhor; e o sabe comigo tudo o que não é ingrato à infalível Verdade. Sabemos, Senhor, sabemos que não existir mais depois de ter existido, ou passar a existir quando ainda não se existia é morrer e nascer. Mas em teu Verbo, verdadeiramente imortal e eterno, nele não há nem passagem, nem sucessão. Por isso é por teu Verbo, que te é coeterno, que dizes eternamente tudo o que dizes e que existe tudo o que mandas que exista. Não é doutro modo, senão dizendo que crias: todavia as criaturas criadas por tua palavra não chegam à existência todas ao mesmo tempo nem de toda a eternidade.
 
-### VIII A verdadeira luz \*
+### VIII A verdadeira luz \*\*
 
 10. Por que, eu to suplico, Senhor meu Deus? Em um sentido eu o compreendo, mas não sei como declará-lo. Deve-se dizer que tudo o que tem começo e fim começa e acaba quando a razão eterna, onde não há começo nem fim, sabe que deve começar ou acabar? Essa razão é teu Verbo, que é o princípio, porque também nos fala. Assim falou-nos no Evangelho pela voz da carne, e essa palavra ressoou exteriormente aos ouvidos dos homens, a fim de que cressem nele, e o buscassem em si mesmos, e o encontrassem na eterna verdade, onde um bom mestre, um só mestre instrui todos os seus discípulos.
 
 Aí ouço tua voz, que me diz que só nos fala realmente quem nos ensina, e que quem não nos ensina, mesmo que fale, não nos diz nada. Mas quem nos ensina, senão a verdade imutável? Porque as lições da criatura instável só têm valor para nos conduzir à verdade, que é estável. Nela nos instruímos verdadeiramente quando, de pé, a ouvimos, alegrando-nos por causa da voz do Esposo e reunindo-nos àquele de quem viemos. Essa é a razão pela qual ele é o princípio, porque, se ele não subsistisse, não saberíamos para onde voltar de nossos erros. Quando voltamos de um erro, bem entendido, temos consciência dessa volta, e é para que tomemos consciência de nossos erros que ele nos instrui, porque ele é o princípio, e sua palavra é endereçada a nós.
 
-### IX A voz do Verbo \*
+### IX A voz do Verbo \*\*
 
 11. E nesse princípio, ó Deus, que criaste o céu e a terra; é em teu Verbo, em teu Filho, em tua virtude, em tua sabedoria, em tua verdade, e tua palavra e tua ação foram igualmente admiráveis. Quem o compreenderá? Quem o explicará? Que luz é essa que me ilumina de quando em quando e que fere meu coração sem o ofender? Tremo e inflamo-me de amor: tremo porque, de certo modo, sou tão diferente dela; e me inflamo, porque também sou semelhante a ela. A sabedoria, é a própria sabedoria que me ilumina de quando em quando: ela rasga as nuvens de minha alma, que tornam a me cobrir, se desfaleço, pelas trevas e pelo peso de minhas enfermidades. Porque, na indigência, minha força enfraqueceu de tal modo que nem mesmo sou mais capaz de suportar a meu bem, até que tu, Senhor, que te mostraste compassivo com todos os meus pecados, cures também todas as minhas enfermidades. Redimirás minha vida da corrupção, e me coroarás na piedade e na misericórdia, e saciarás com teus bens meus desejos, porque minha juventude será renovada com a da águia. É pela esperança que fomos salvos, é pela esperança que esperamos pacientemente em tuas promessas.
 
 Quem puder ouça tua voz interior, que eu quero gritar, cheio de fé em teu oráculo: "Como são excelentes as tuas obras, Senhor, que tudo criaste em tua sabedoria! Ela é o princípio, e é nesse princípio que criaste o céu e a terra."
 
-### X Que fazia Deus antes da Criação \*
+### X Que fazia Deus antes da Criação \*\*
 
 12. Não é verdade que ainda estão cheios do erro do velho homem os que nos dizem: "Que fazia Deus antes de criar o céu e a terra?" Se estava ocioso, se nada fazia, porque não continuou a se abster sempre de qualquer ação? Se em Deus apareceu um movimento novo, uma vontade nova de criar o que ainda não tinha criado, como falar de uma eternidade verdadeira onde nasce uma vontade que não existia antes? Porque a vontade de Deus não é uma criatura, ela precede a toda criatura: nenhuma criação seria possível se a vontade do Criador não a precedesse. A vontade de Deus, portanto, pertence à sua própria substância. Logo, se na substância de Deus nasce algo que antes não existia, não se pode mais com verdade chamá-la eterna. E se, desde toda a eternidade, Deus quis a existência da criatura, por que a criatura também não é eterna?
 
-### XI Tempo e eternidade \*
+### XI Tempo e eternidade \*\*
 
 13. Os que assim falam não te compreendem ainda, ó sabedoria de Deus, luz das inteligências! Não compreendem ainda como é criado o que é criado por ti e em ti. Empenham-se por conhecer o gosto das coisas eternas, mas seu espírito voa ainda cheio de vaidade sobre as ondas do passado e do futuro. Quem poderá deter essa inteligência, quem a fixará para que adquira um pouco de estabilidade, para que entreveja por um momento o esplendor da eternidade sempre estável, e a compare com os tempos que nunca permanecem, e veja que qualquer comparação é impossível? Então veria que a sucessão dos tempos não é feita senão de uma multidão de instantes, que não podem correr simultaneamente; que, pelo contrário, na eternidade, nada é sucessivo, tudo é presente, enquanto que o tempo não pode ser todo presente. Veria que todo o passado é repelido pelo futuro, que todo o futuro segue o passado, que todo passado e futuro tiram sua existência e curso do eterno presente. Quem poderá deter a inteligência do homem para que pare e veja como, sempre estável, a eternidade, que não é futura nem passada, determina o futuro e o passado? Acaso poderá realizar isto minha mão? Ou esta mão de minha boca, que é minha palavra, poderia realizar tal obra?
 
-### XII Deus antes da Criação \*
+### XII Deus antes da Criação \*\*
 
 14. Eis minha resposta à questão: "Que fazia Deus antes de criar o céu e a terra?" Não quero responder como o fez jocosamente alguém para fugir à dificuldade do problema: "Preparava suplícios para os que esquadrinham esses mistérios profundos." Uma coisa é ver claro e outra é pilheriar. Não, essa não é minha resposta. Preferiria dizer: "Não sei" - quando não sei. E não ridicularizar quem faz pergunta tão profunda, ou louvar quem responde tão mal.
 
 Mas eu digo que tu, nosso Deus, és o Criador de toda criatura; e, se por céu e terra se entende toda criatura, ouso dizer: "Antes que Deus criasse o céu e a terra, nada fazia." Porque, se tivesse feito alguma coisa, que poderia ter feito senão uma criatura? E queira Deus que eu saiba tudo o que desejo saber para meu proveito tão evidentemente como sei que nenhuma criatura foi criada antes da Criação.
 
-### XIII O tempo antes da Criação \*
+### XIII O tempo antes da Criação \*\*
 
 15. Se algum espírito leviano, vagando através das imagens dos tempos passados, se admira de que tu, o Deus Todo-Poderoso, que criaste e conservas todas as coisas, ó artífice do céu e da terra, te abstivesse, até o dia da Criação, por séculos e séculos, de tal obra, que esse desperte e tome consciência do erro que está ligado à sua admiração. Como poderiam transcorrer séculos e séculos, se tu, o autor da Criação, ainda não os tinhas criado? Que tempos poderiam existir antes que os criasses? E como poderiam eles passar, se jamais haviam existido? Desde que és o artífice de todos os tempos, se antes da criação do céu e da terra existiu algum tempo, por que então se diz que ficaste ocioso? Porque também esse tempo mesmo foi criado por ti, e o tempo não poderia passar antes que fizesses o tempo. Se, pelo contrário, antes do céu e da terra não houvesse nenhum tempo, por que perguntam o que fazias, então? Não há então quando ainda não havia tempo.
 
 16. Não é no tempo que precedes o tempo: de outro modo não precederias a todos os tempos. Mas precedes a todo o passado da altura de tua eternidade sempre presente e dominas todo o futuro porque é futuro, e que, apenas chegado, será passado, enquanto que tu és sempre o mesmo, e teus anos não passam jamais. Teus anos não vão nem vêm; mas os nossos vão e vêm, a fim de que todos possam existir. Teus anos existem todos simultaneamente, porque permanecem; não passam, não são excluídos pelos que chegam, porque não passam; enquanto que os nossos só existirão todos quando não mais existirem. Teus anos não passam de um dia, e teu dia não é um acontecimento cotidiano e um perpétuo hoje, porque teu hoje não cede o lugar ao amanhã e o amanhã não sucede ao ontem. Teu hoje é a eternidade: por isso geraste um filho coeterno, a quem disseste: "Hoje te gerei." Todos os tempos são obra tua, e tu existes antes de todos os tempos, e é impossível que tenha existido tempo quando o tempo ainda não existia.
 
-### XIV Que é o tempo? \*
+### XIV Que é o tempo? \*\*
 
 17. Não houve, pois, tempo algum em que nada fizestes, pois o próprio tempo é obra tua. E nenhum tempo te pode ser coeterno, porque és imutável; se o tempo também o fosse, não seria tempo. Que é então o tempo? Quem seria capaz de explicá-lo de maneira breve e fácil? Quem pode concebê-lo, mesmo no pensamento, bastante nitidamente para exprimir por meio de palavras a ideia que dele faz? E, contudo, há noção mais familiar e mais conhecida de que usamos em nossas conversações? Quando falamos de tempo, sem dúvida compreendemos o que dizemos; o mesmo acontecerá se ouvirmos alguém falar do tempo. Que é, pois, o tempo? Se ninguém mo pergunta, eu o sei; mas se me perguntam, e quero explicar, não sei mais nada. Contudo, eu o declaro sem hesitar, e sei que, se nada passasse, não haveria tempo passado; que se nada sucedesse, não haveria tempo futuro; e que se nada existisse atualmente, não haveria tempo presente. Como então esses dois tempos, o passado e o futuro, existem, se o passado não existe mais e se o futuro ainda não existe? Quanto ao presente, se fosse sempre presente, se não se fosse juntar ao passado, não seria tempo, mas eternidade. Portanto, se o presente, para ser tempo, deve unir-se ao passado, como podemos declarar que existe, se não pode existir senão deixando de existir? Tanto que o que nos autoriza a afirmar que o tempo existe é a sua tendência para deixar de existir.
 
-### XV Tempo longo, tempo breve \*
+### XV Tempo longo, tempo breve \*\*
 
 18. Contudo, dizemos que o tempo é longo ou breve, coisas que só podemos dizer do passado e do futuro. Por exemplo, chamamos longo os cem anos passados antes do momento em que falamos, e longo os cem anos que se seguirão a esse momento; um passado curto para nós, penso eu, são os dez dias anteriores ao dia em que estamos, e breve futuro os dez dias seguintes. Mas como pode ser longo ou curto o que não existe? O passado não existe mais e o futuro não existe ainda. Por isso não dizemos: "O passado é longo", mas dizemos do passado: "Foi longo", e do futuro: "Será longo."
 
@@ -2255,17 +3420,17 @@ Se se puder conceber um tempo tal que não possa ser dividido em partículas de 
 
 Onde está, pois, o tempo que podemos chamar de longo? Será acaso o futuro? Mas nós não dizemos que o futuro é longo, porque ainda não existe, e por isso não pode ser longo. Mas dizemos: "Será longo." Quando então dar-se-á isso. Se atualmente ele ainda está no futuro, não pode ser longo: não existindo ainda, não pode ser longo. Se não deve ser longo senão na hora em que, emergindo do futuro, que ainda não existe, começar a ser e a se tornar presente, de sorte que possa ser uma realidade suscetível de ser longa, nesse caso o presente nos clama com as palavras que acima dissemos, que ele não pode ser longo.
 
-### XVI A medida do presente \*
+### XVI A medida do presente \*\*
 
 21. E, contudo, Senhor, temos consciência dos intervalos de tempo, e os comparamos entre si, e dizemos que uns são mais longos e outros mais breves. Medimos também de quanto tal duração é mais longa ou mais curta que outra qualquer; e respondemos que esta é o dobro ou o triplo de outra; que aquela é simples, ou que ambas são apenas iguais.
 
 Mas é o tempo que passa que medimos quando o sentimos passar. Quanto ao passado, que não existe mais, quem poderá medi-lo, a menos que se ouse pretender que o nada pode ser medido? Assim, quando o tempo passa, pode ser percebido pela consciência e medido. Mas quando já passou ninguém o pode medir ou sentir, porque já passou.
 
-### XVII O passado e o futuro \*
+### XVII O passado e o futuro \*\*
 
 22. Pai, estou perguntando, e não afirmando; meu Deus, ajuda-me, dirige-me. Quem ousaria afirmar que não existem três partes do tempo, como aprendemos quando crianças e como ensinamos às crianças, o passado, o presente e o futuro, e que só o presente existe, porque os demais, o passado e o futuro, não existem? Ou será que eles também existem, mas que o presente sai de algum lugar secreto, quando de futuro se torna presente, e o passado também se retira para um lugar secreto, quando de presente se torna passado? Por que os que predizem o futuro, onde o viram, se ele ainda não existe? É impossível ver-se o que ainda não existe. E os que contam o passado narrariam mentiras se não vissem os acontecimentos com o espírito. Se esse passado não tivesse existência alguma, seria absolutamente impossível vê-lo. Por conseguinte, o futuro e o passado também existem.
 
-### XVIII As previsões \*
+### XVIII As previsões \*\*
 
 23. Permite-me, Senhor, que eu leve adiante minhas investigações, tu que és minha esperança; faze com que meu esforço não seja perturbado. Se o futuro e o passado existem, quero saber onde estão. Se ainda não sou capaz disso, pelo menos sei que, onde quer que estejam, não existem nem enquanto futuro, nem enquanto passado, mas apenas enquanto presentes. Porque, se o futuro ali estiver enquanto futuro, então ainda não existirá; se o passado aí estiver como passado, não existirá mais. Portanto, onde estiverem, do modo que estiverem, só podem existir como presentes. Quando narramos acontecimentos verídicos do passado, o que vem à nossa memória não são os próprios acontecimentos, que já deixaram de existir, mas termos concebidos de acordo com as imagens das coisas, as quais, atravessando nossos sentidos, gravaram em nosso espírito suas pegadas. Minha infância, por exemplo, que não existe mais, está em um passado que também desapareceu; mas quando eu a evoco e passo a narrá-la, é no presente que vejo sua imagem, porque essa imagem ainda está em minha memória. A predição do futuro seguiria o mesmo processo? Os acontecimentos que ainda não existem são representados antecipadamente em nosso espírito por imagens já existentes? Confesso, meu Deus, que eu o ignoro. Mas o que sei é que habitualmente premeditamos nossas ações futuras, e que essa premeditação pertence ao presente, enquanto que a ação premeditada ainda não existe, pois ainda é futura. Quando a empreendermos, e começarmos a realizar o que havíamos premeditado, então a ação começará a existir, porque então não será mais futura, mas presente.
 
@@ -2273,29 +3438,29 @@ Mas é o tempo que passa que medimos quando o sentimos passar. Quanto ao passado
 
 Gostaria de apelar para a eloquência de um exemplo tomado entre uma multidão de outros. Contemplo a aurora, e anuncio o nascimento do Sol. O que tenho sob os olhos é presente, o que anuncio é futuro: não o Sol, que já existe, mas seu nascimento, que ainda não se deu. Contudo, se eu não tivesse uma imagem mental desse nascimento, como agora quando falo dele, ser-me-ia impossível predizê-lo. Mas essa aurora que vejo no céu não é o nascimento do Sol, embora o preceda; nem o é tampouco a imagem que levo em meu espírito: mas essas duas coisas estão presentes, eu as vejo, e assim posso dizer com antecipação o que vai acontecer. O futuro, portanto, ainda não existe; se ainda não existe, não existe, e se não existe não pode ser visto de modo algum, mas pode ser predito de acordo com os sinais presentes, que já existem e podem ser vistos.
 
-### XIX Oração \*
+### XIX Oração \*\*
 
 25. Mas tu, que reinas sobre tua Criação, de que modo ensinas às almas o que deve acontecer, como fazes com teus profetas? De que modo ensinas o futuro, se para ti o futuro não existe? Ou antes, como ensinas os sinais presentes do futuro? Pois o que ainda não existe não pode ser ensinado. O meio de que te serves está muito acima de minha inteligência, sobrepuja minhas forças; por mim mesmo eu não o poderia alcançar, mas somente por ti, quando o quiseres, ó doce Luz dos olhos de minha alma!
 
-### XX Conclusão \*
+### XX Conclusão \*\*
 
 26. Mas o que agora parece claro e manifesto é que nem o futuro nem o passado existem, e nem se pode dizer com propriedade que há três tempos: o passado, o presente e o futuro. Talvez fosse mais certo dizer-se: há três tempos: o presente do passado, o presente do presente e o presente do futuro, porque essas três espécies de tempo existem em nosso espírito, e não as vejo em outra parte. O presente do passado é a memória; o presente do presente é a intuição direta; o presente do futuro é a esperança.
 
 Se me for permitido falar assim, vejo e confesso que há três tempos. Pode-se dizer também que são três os tempos: presente, passado e futuro, como abusivamente o exige o costume. Não me importo, nem me oponho, nem critico esse modo de falar, contanto que se entenda bem o que se diz, e que não se acredite que o futuro já existe e que o passado ainda existe. Uma linguagem constituída de termos próprios é coisa rara: com muita frequência falamos com impropriedade, mas todos entendemos o que queremos dizer.
 
-### XXI A medida do tempo \*
+### XXI A medida do tempo \*\*
 
 27. Disse há pouco que medimos o tempo enquanto passa, de maneira que podemos dizer que um lapso de tempo é o duplo de outro, ou igual a um outro, e enunciar entre as partes do tempo outras relações, mediante esse processo de medida. Portanto, como eu dizia, medimos o tempo no momento em que passa. Se me perguntassem: "Mas como o sabe?", eu responderia: "Sei, porque o medimos, e porque é impossível medir o que não existe; ora, o passado e o futuro não existem." Quanto ao presente, como poderíamos medi-lo, se não tem duração? Portanto, só poderemos medi-lo enquanto passa; quando passou, não o medimos mais, porque não há mais nada a medir.
 
 Mas de onde vem, por onde passa, para onde vai o tempo quando o medimos? De onde vem, senão do futuro? Por onde passa, senão pelo presente? Para onde vai, senão para o passado? Do que ainda não existe, através do que não tem duração, o tempo corre para o que não existe mais. Contudo, que medimos, senão o tempo em um determinado espaço? Quando dizemos de um tempo que é simples, duplo, ou triplo, ou igual, ou quando formulamos qualquer outra relação dessa espécie, nada mais fazemos do que medir espaços de tempo. Em que espaço medimos então o tempo no momento em que passa? No futuro, donde vem para passar? Mas o que ainda não existe não pode ser medido. No presente, por onde ele passa? Mas, como medir o que não tem duração? No passado, para onde caminha? Mas o que não existe mais escapa a qualquer medida.
 
-### XXII O enigma \*
+### XXII O enigma \*\*
 
 28. Minha alma se inflama no desejo de saber o resultado deste enigma tão complicado! Senhor, meu Deus, meu bom Pai, eu to suplico por Cristo; não queiras ocultar a meu desejo problemas tão familiares e obscuros; permite que eu consiga penetrá-los e faze com que se esclareçam com a luz de tua misericórdia, ó Senhor! A quem poderia eu interrogar a este respeito? A quem confessaria minha ignorância com maior fruto do que a ti, que não podes ver com desprazer o zelo violento que me inflama por tuas Escrituras? Dá-me o que amo, porque amo, e o amor é um dom teu. Dá-me, ó Pai, esta graça, tu que só sabes dar coisas boas a teus filhos. Dá-me essa graça, porque tenho o propósito de conhecê-las, e meu esforço é rude até que me reveles esses mistérios. Eu to suplico, por Cristo, em nome do santo dos santos, que ninguém me perturbe nesta pesquisa. Tive fé, e por isso falo. Minha esperança, a esperança pela qual vivo, é contemplar as delícias do Senhor. Eis que tornaste velhos os meus dias, e eles passam, não sei como.
 
 Nós só falamos de tempo, e de tempo, e de tempos e de tempos. "Quanto tempo esse homem falou?" "Quanto tempo ele gastou para fazer isso?" "Há quanto tempo não vejo isto!" "A duração desta sílaba é o dobro daquela, que é breve." Eis o que dizemos e ouvimos, e todos nos compreendem, e nós nos compreendemos. São palavras evidentes e de uso corrente, e contudo são cheias de mistérios, e compreendê-las seria uma verdadeira descoberta.
 
-### XXIII O tempo e o movimento \*
+### XXIII O tempo e o movimento \*\*
 
 29. Ouvi uma pessoa culta dizer que o tempo é propriamente o movimento do Sol, da Lua e dos astros, Não sou dessa opinião. Por que, então, não há de ser o tempo o movimento de todos os corpos? Se os astros do céu parassem, e a roda de um oleiro continuasse a rodar, acaso não haveria mais tempo para medir as voltas, para nos permitir dizer que elas se completavam a intervalos iguais, ou ora mais rapidamente, ora mais lentamente, e que umas demoravam mais e outras, menos? E, dizendo isto, não estaríamos falando no tempo? Não haveria em nossas palavras sílabas longas e breves, porque umas ressoam por mais tempo e outras por menos tempo?
 
@@ -2311,17 +3476,17 @@ Ninguém, portanto, me diga que o tempo é o movimento dos corpos celestes. Quan
 
 Vejo, pois, que o tempo é uma espécie de distensão. Mas eu o vejo ou apenas tenho a impressão de vê-lo? Tu mo demonstrarás, ó Luz, ó Verdade!
 
-### XXIV O tempo, medida do movimento \*
+### XXIV O tempo, medida do movimento \*\*
 
 31. É de tua vontade que eu aprove a quem diz que o tempo é o movimento de um corpo? Não, não é. Ouço dizer que não há corpo que não se mova no tempo: tu mesmo o dizes. Mas que esse movimento de um corpo seja justamente o tempo, isso não o ouço dizer, e nem tu o dizes. Quando um corpo se move, é o tempo que me serve para medir a duração de seu movimento do começo ao fim. Se não vejo o começo, e percebo seu movimento sem ver quando para, fico sem meios de medi-lo, a não ser talvez do momento em que começo a ver o corpo mover-se até o momento em que não o vejo mais. Se o vejo por muito tempo, apenas posso dizer que a duração de seu movimento é longa, mas não posso dizer quanto é longa, porque só determinamos o valor de uma duração comparando-a. Dizemos, por exemplo: "Isto durou tanto quanto aquilo", ou "essa duração é o dobro daquela", e outras expressões semelhantes. Se podemos notar o ponto do espaço de onde parte um corpo em movimento, e o ponto de chegada, ou suas partes, se ele se movesse como um torno, poderíamos dizer quanto tempo levou para ir de um ponto a outro o movimento de um corpo ou dessas partes.
 
 Assim, sendo o movimento de um corpo outra coisa que a medida de sua duração, quem não vê à qual dessas coisas se pode dar o nome de tempo? Um corpo se move às vezes com movimento mais ou menos rápido, e outras vezes se detém: ora, é o tempo que nos permite medir, não somente seu movimento, mas seu repouso, e dizer: "Ficou em repouso por tanto tempo quanto em movimento", ou: "Ficou em repouso duas, três vezes mais do que em movimento", ou qualquer outra determinação, quer seja exata, quer seja, como se diz, aproximativa.
 
-### XXV Prece \*
+### XXV Prece \*\*
 
 32. Confesso-te, Senhor, que ainda ignoro a natureza do tempo. E torno a confessar, Senhor, que sei que é no tempo que digo estas coisas, e que há muito tempo estou falando do tempo, e que esse longo tempo também não seria o que é senão pela duração do tempo. Mas como posso saber isso, se desconheço o que é o tempo? Talvez eu ignore a arte de exprimir o que sei. Ai de mim, que não sei nem mesmo o que ignoro! Eis-me, meu Deus, em sua presença: tu vês que não minto e que falo de acordo com meu coração. Acenderás minha candeia, Senhor meu Deus, e iluminarás minhas trevas.
 
-### XXVI O tempo, distensão da alma \*
+### XXVI O tempo, distensão da alma \*\*
 
 33. Acaso minha alma não te faz confissão sincera confessando-te que posso medir o tempo? De fato, meu Deus, eu o meço, e não sei o que meço. Meço o movimento dos corpos com o auxílio do tempo, e não poderei medir o tempo? E acaso poderia eu medir o movimento de um corpo; sua duração, o tempo que emprega para ir de um lugar a outro, se não medisse o tempo em que se efetua esse movimento?
 
@@ -2331,7 +3496,7 @@ Mas, mesmo assim, não conseguimos uma medida exata do tempo: pode acontecer que
 
 Por esse motivo é que o tempo me pareceu não ser nada mais que uma distensão. Mas distensão de que não saberia dizê-lo exatamente; talvez uma distensão da própria alma. Portanto, dize-me, meu Deus, que é o que meço quando digo um tanto vagamente: "Este tempo é mais longo do que aquele" - ou mais exatamente: "Este tempo é o dobro daquele?" Meço o tempo, eu o sei. Mas não meço o futuro, que ainda não existe, nem o presente, porque não tem duração, nem o passado, porque não existe mais. Que meço, então? Acaso o tempo que passa, e não o tempo passado, como disse acima?
 
-### XXVII A medida do passado \*
+### XXVII A medida do passado \*\*
 
 34. Insiste, ó meu espírito, e presta grande atenção: Deus é nosso apoio. Ele é que nos criou, e não nós. Dirige tua atenção para o lado onde desponta a aurora da verdade.
 
@@ -2353,7 +3518,7 @@ Mas quando medimos silêncios, e dizemos que este silêncio teve a mesma duraç�
 
 Se alguém quisesse pronunciar um som prolongado, e determinar antecipadamente, no espírito, sua duração, toma em silêncio a medida dessa duração, e, confiando-a à memória, começa a proferir esse som, que vibra até que atinja o limite fixado. Ou melhor: esse som vibra e vibrará, porque a parte que passou soou; a que ainda resta soará, e dessa maneira chegará a seu fim, enquanto a atenção presente vai fazendo o futuro passar para o passado, e o passado enriquecer-se com a parte que lhe é deixada pelo futuro, até que, esgotando-se o futuro, não haja mais que passado.
 
-### XXVIII A medida do futuro \*
+### XXVIII A medida do futuro \*\*
 
 37. Mas como o futuro, que ainda não existe, pode diminuir ou esgotar-se? Como o passado, que não existe mais, pode aumentar, senão porque no espírito, autor dessas transformações, se realizam três ações: o espírito espera, está atento e se recorda. O objeto de sua espera passa pela atenção e se transforma em lembrança.
 
@@ -2363,27 +3528,27 @@ Com efeito: quem ousará negar que o futuro ainda não existe? Contudo, a espera
 
 E o que acontece com a melodia tomada em seu conjunto acontece com cada uma de suas partes, com cada uma de suas sílabas, e também com uma ação mais extensa, da qual essa melodia não seja talvez mais que uma pequena parte. O mesmo acontece com toda a vida do homem, cujas ações humanas são outras tantas partes, e, enfim, com a série de gerações humanas, das quais cada existência não passa de uma parte.
 
-### XXIX A eternidade de Deus \*
+### XXIX A eternidade de Deus \*\*
 
 39. Mas tua misericórdia vale mais que todas as vidas, e eis que minha vida não passa de dissipação, e tua destra me acolheu em meu Senhor, o Filho do homem, mediador entre ti, que és um, e nós, que somos muitos, mediador em muitas coisas e por muitos meios, a fim de que por ele eu me una àqueles que por ele se uniu a nós, e que, libertado dos antigos dias, recolha meu ser seguindo tua Unidade. Esquecido do passado, sem me dispersar pelas coisas futuras e transitórias, atento apenas às presentes, não é na dispersão, mas na união de todas as minhas forças, que procuro a palma da vocação celeste, onde ouvirei a voz de teu louvor, e onde contemplarei tua alegria, que não vem nem passa.
 
 Agora meus anos transcorrem em gemidos, e tu, meu consolo, ó Senhor, meu Pai, tu és eterno. Mas eu me dissipei no tempo, cuja ordem ignoro; tumultuosas vicissitudes despedaçam meus pensamentos e as profundas entranhas de minha alma, até o dia em que me unir contigo, purificado e derretido no fogo de teu amor.
 
-### XXX Deus e o tempo \*
+### XXX Deus e o tempo \*\*
 
 40. Então repousarei e estarei firme em ti, em tua verdade, na minha forma; não serei mais atormentado pelas perguntas das pessoas que, por uma enfermidade, que é pena de seu pecado, querem beber mais do que podem, e dizem: "Que fazia Deus antes de criar o céu e a terra?" Ou: "Como lhe veio a ideia de criar algo, se antes nunca criara coisa alguma?" Concede-lhes, Senhor, que reflitam no que dizem, que compreendam que não se pode falar em nunca onde não há tempo. Quando se diz que alguém nunca fez nada, que se quer dizer senão que esse tal nada fez em tempo algum? Que eles, portanto, vejam que não pode existir tempo na ausência da Criação e deixem de semelhante futilidade.
 
 Que também atentem para o que têm diante de si, que compreendam que tu, antes de todos os tempos, és o Criador eterno de todos os tempos, e que nenhum tempo te é coeterno, nem criatura alguma, embora algumas estejam acima dos tempos.
 
-### XXXI Conclusão \*
+### XXXI Conclusão \*\*
 
 41. Senhor, meu Deus, que abismos profundos em teus segredos, e como as consequências de minhas faltas me lançaram longe! Cura meus olhos, para que eu me alegre com tua luz!
 
 Certamente, se houvesse um espírito de ciência e de presciência tão grandes para conhecer o passado e o futuro como conheço qualquer canto popular, esse espírito nos encheria de extraordinária admiração, e de um espanto que iria até o terror. Nada, com efeito, lhe ficaria misterioso no passado e no futuro dos séculos, exatamente como, quando canto essa melodia, sei tudo o que cantei desde o começo, e tudo o que ainda me resta para cantar até o fim. Mas, longe de mim a pretensão de identificar esse conhecimento ao conhecimento que tens de todas as coisas futuras e passadas, ó Criador do Universo, Criador dos espíritos e dos corpos. Tua ciência é muito mais admirável, muito mais misteriosa. Porque aquele que canta ou que ouve cantar uma melodia conhecida, dividido entre a espera das notas que ainda vêm e a lembrança das notas passadas, passa por impressões diferentes, e seus sentidos estão distendidos. Mas contigo não se dá nada semelhante, tu que és imutavelmente eterno, Criador verdadeiramente eterno dos espíritos. Como no princípio conheceste o céu e a terra, sem que teu espírito sofresse mudança alguma, assim criaste no princípio o céu e a terra, sem que tua ação passasse por etapas distintas. Que aquele que compreende isto te louve, assim como o que não compreende. Oh! como és sublime, e os de corações humildes são tua casa! Porque levantas os que caíram, e os que graças a ti permanecem de pé não caem nunca.
 
-## Livro XII \*
+## Livro XII \*\*
 
-### I Prece \*
+### I Prece \*\*
 
 1. Meu coração se atormenta, Senhor, quando, na indigência de minha vida, recebe o choque das palavras de tua Escritura Sagrada. Eis por que, comumente, a abundância de palavras é testemunho da pobreza da inteligência humana. A investigação usa mais palavras que a descoberta; é mais larga a petição que a obtenção; a mão que bate cansa-se mais do que a mão que recebe.
 
@@ -2391,7 +3556,7 @@ Mas nós temos tua promessa: quem poderá desvirtuá-la? Se Deus está conosco, 
 
 São promessas tuas. E quem poderá ter medo de ser enganado, quando a promessa vem da Verdade?
 
-### II O céu do céu \*
+### II O céu do céu \*\*
 
 2. Que minha língua humilde confesse à tua grandeza que criaste o céu e a terra, o céu que vejo, esta terra que piso, e de onde foi tirada a terra que trago comigo. Sim, criaste tudo isso.
 
@@ -2399,23 +3564,23 @@ Mas, Senhor, onde está o céu de que nos falou a voz do Salmista: "O céu do c�
 
 Porque todo este mundo material, cujo fundo é a terra, embora não seja perfeitamente belo por toda parte, é revestido, até em seus últimos elementos, de uma aparência agradável. Mas, comparado com esse céu do céu, o céu de nossa terra também não passa de terra. Por isso não é absurdo chamar de terra esses dois grandes corpos, se os compararmos a esse céu misterioso que pertence ao Senhor, e não aos filhos dos homens.
 
-### III As trevas sobre o abismo \*
+### III As trevas sobre o abismo \*\*
 
 3. Mas esta terra era invisível e informe, era não sei que profundo abismo acima do qual não pairava nenhuma luz, porque não tinha nenhuma forma determinada. Daí essas palavras inspiradas por ti: "As trevas estavam sobre o abismo." - Mas que são as trevas, senão ausência de luz? Por que, onde estaria a luz, se então existisse, senão sobre a terra, para iluminá-la? Mas porque a luz ainda não existia, que era a presença das trevas, senão a ausência da luz? As trevas, portanto, estendiam-se sobre o abismo porque a luz estava ausente, do mesmo modo que onde não há ruído reina o silêncio. E que significa: o silêncio reina, senão não há ruído?
 
 Não ensinaste, Senhor, esta verdade à alma que se confessa a ti? Não me ensinaste, Senhor, que antes de dares forma e figura a esta matéria informe, não existia nada, nem cor, nem figura, nem corpo, nem espírito? Não era um verdadeiro nada, mas algo informe, sem figura alguma.
 
-### IV A matéria informe \*
+### IV A matéria informe \*\*
 
 4. Que nome dar a isto, como sugerir sua ideia às inteligências preguiçosas, senão apelando para um termo de uso corrente? Que se pode encontrar no mundo que esteja mais próximo dessa ausência total de forma que a terra e o abismo? Situados no mais baixo grau da Criação, eles não têm a beleza dos corpos que no alto brilham de luz fulgurante.
 
 Por que, então, não haverias de consentir que essa matéria informe, que criaste privada de beleza para com ela fazer um mundo cheio de beleza, fosse comodamente designada aos homens por esses termos de terra invisível e sem forma?
 
-### V Sua natureza \*
+### V Sua natureza \*\*
 
 5. Assim, quando o pensamento pergunta a si mesmo o que nossos sentidos podem atingir a respeito dessa matéria e responde para si próprio: "Não é nem uma forma inteligível, como a vida, como a justiça, porque é a matéria que serviu para a criação dos corpos, nem uma forma sensível, porque nada há que se possa ver ou perceber no que é invisível e sem forma." Quando o pensamento humano fala desse modo, procura conhecê-la ignorando-a, ou ignorá-la conhecendo-a.
 
-### VI Em que consiste \*
+### VI Em que consiste \*\*
 
 6. Quanto a mim, Senhor, se minha boca e minha pena devem confessar-te o que me ensinaste sobre essa matéria, eu te diria que outrora, ouvindo, sem nada compreender, pronunciar seu nome por pessoas que também não a entendiam, procurei concebê-la sob formas inúmeras e diversas, e não o consegui. Meu espírito revolvia-se em extrema confusão de formas feias e horríveis; mas enfim, formas, e eu chamava de informe não o que carecia de forma, mas o que tinha tal forma que, se me aparecesse, seu aspecto insólito e bizarro desencaminharia meus sentidos e confundiria minha fraqueza de homem.
 
@@ -2427,7 +3592,7 @@ Mas eu queria saber, e não apenas supor; e se minha voz, minha pena te confessa
 
 É a mutabilidade das coisas mutáveis que é suscetível de tomar todas as formas em que se mudam as coisas mutáveis. E em que consiste essa mutabilidade? É por acaso espírito? É talvez corpo? Seria uma espécie de espírito ou de corpo? Se se pudesse dizer: um nada que é algo, ou o que é e não é, eu a chamaria assim. E, contudo, era necessário que ela existisse de alguma maneira, para tomar essas formas visíveis e ordenadas.
 
-### VII A criação do nada \*
+### VII A criação do nada \*\*
 
 7. Mas de onde tirava ela a matéria de sua existência, senão de ti, por quem existem todas as coisas, seja qual for o modo de sua existência? Mas, quanto menos uma coisa se te assemelha, mais longe de ti está - e não se trata de distância no espaço.
 
@@ -2437,7 +3602,7 @@ Mas fora de ti nada existia com que pudesses fazer o céu e a terra, ó Trindade
 
 Fora de ti nada havia, e desse nada fizeste o céu e a terra, tuas duas obras, uma próxima de ti, a outra próxima do nada; uma acima da qual nada existe além de ti e outra abaixo da qual não existe além do nada.
 
-### VIII A terra invisível \*
+### VIII A terra invisível \*\*
 
 8. Mas o céu do céu é teu, Senhor; quanto à terra, que deste aos filhos dos homens para ser visível e tangível, não era tal como agora a vemos e tocamos. A terra era invisível e informe: um abismo sobre o qual não havia luz. As trevas se estendiam sobre o abismo - isto é: mais profundas do que no abismo. Porque esse abismo das águas, agora visíveis, possui até em suas profundezas uma espécie de luz, perceptível aos peixes e aos animais que se arrastam em seu fundo. Mas tudo isso era quase o nada, sendo ainda completamente informe; e, contudo, estava apto a receber uma forma.
 
@@ -2445,15 +3610,15 @@ Senhor, criaste o mundo com uma matéria sem forma; de nada fizeste este quase n
 
 Já havias criado outro céu antes de haver dia, mas era o céu deste céu, porque no princípio criaste o céu e a terra. Quanto a esta terra, tua obra, nada mais era que matéria informe, sendo invisível, caótica, e as trevas reinando sobre o abismo. É desta terra invisível, caótica, desta massa informe, deste quase nada, que devias formar todas as coisas de que consta e não consta este mundo mutável, domínio da transformação, que torna possíveis a consciência e a medida do tempo. Porque o tempo é feito de mudanças que se produzem nas coisas, de vicissitudes de transformações das aparências, e a matéria das coisas e das aparências é esta terra invisível, de que falei acima.
 
-### IX A criação do tempo \*
+### IX A criação do tempo \*\*
 
 9. E por isso o Espírito que instruiu teu servo, quando relata que criaste no princípio o céu e a terra, cala-se sobre os tempos, guarda silêncio sobre os dias. Porque o céu do céu, que fizeste no começo, é de alguma maneira uma criatura inteligente que, sem te ser coeterna, ó Trindade, participa todavia de tua eternidade. A doçura deliciosa de te contemplar detém sua mobilidade, e, unida a ti sem desfalecimento, desde sua Criação, escapa às vicissitudes fugazes do tempo. Quanto a esta massa informe, a esta terra invisível, a este caos, tu também não o incluíste no número dos dias, porque onde não há forma nem ordem nada vem, nada passa, e, por conseguinte, aí não há nem dias nem vicissitudes de espaços temporais.
 
-### X Invocação à verdade \*
+### X Invocação à verdade \*\*
 
 10. Ó Verdade, luz de meu coração, faze com que se calem as trevas que me envolvem. Deixei-me cair nas trevas e fiquei às escuras; mas, do fundo desse abismo, sim, desse abismo, eu te amei ardentemente. Andei errante, mas me lembrei de ti. Ouvi tua voz que, atrás de mim, me dizia que voltasse; mas dificilmente podia escutá-la, por causa do tumulto de minhas paixões insatisfeitas. E agora eis que, ardente e anelante, volto à tua fonte. Que ninguém mo proíba: beberei de tua água, e então hei de viver. Que não seja eu minha própria vida! Vivi mal por minha culpa e fui a causa de minha morte. Em ti eu revivo! Fala-me, ensina-me. Creio em teus livros, e tuas palavras encerram profundos arcanos.
 
-### XI As criaturas e o Criador \*
+### XI As criaturas e o Criador \*\*
 
 11. Já me disseste, Senhor, a altas vozes ao ouvido de minha alma, que és eterno, e que só tu possuis a imortalidade, porque não mudas nem de forma nem de movimento, e tua vontade não varia de acordo com os movimentos, porque a vontade que muda não é imortal. Esta verdade é clara para mim em tua presença. Faze, te peço, com que ela se torne para mim cada vez mais clara, e que ao abrigo de tuas asas eu persevere sabiamente nessa evidência.
 
@@ -2465,25 +3630,25 @@ Também disseste, Senhor, a altas vozes a meu ouvido interior, que todas as natu
 
 14. Vejo claramente não sei que matéria informe nessas transformações das coisas baixas e ínfimas. Mas quem, salvo o insensato, cujo espírito vagabundo rola de quimera em quimera à mercê de seus fantasmas, quem, salvo esse insensato poderá dizer-me que, se toda forma fosse destruída, abolida, restando apenas esta matéria sem forma, graças à qual as coisas se transformam e passam de uma forma para outra, ela poderia produzir as vicissitudes do tempo? Isso lhe seria absolutamente impossível, porque sem variedade de movimentos não existe tempo; e não há variedade onde não há forma.
 
-### XII A Criação e a eternidade \*
+### XII A Criação e a eternidade \*\*
 
 15. Bem consideradas estas coisas, na medida em que mo permitiste, meu Deus, e na medida em que me incitaste a bater, e em que me abres quando bato, encontro duas obras tuas que carecem de tempo, embora nenhuma delas te seja coeterna: a primeira, que criaste de tal modo que, sem nunca deixar de te contemplar, sem que nenhuma mudança intervenha em sua atividade, livre de mudanças, embora mutável por natureza, goza de tua eternidade e de tua imutabilidade; a segunda, informe, a ponto de lhe ser impossível passar de uma forma para outra, quer no movimento, quer no repouso, e, por conseguinte, incapaz de obedecer ao tempo. Mas tu não a deixaste nesse estado informe, pois, antes que houvesse dias, fizeste no princípio o céu e a terra, as duas obras de que falava.
 
 Mas a terra era invisível e caótica, e as trevas reinavam sobre o abismo. Por essas palavras a Escritura sugere a ideia de algo informe, para obter pouco a pouco a compreensão dos espíritos que não podem conceber que a privação absoluta de forma não se confunde com o nada. É dessa coisa informe que deveria ser criado um segundo céu, uma terra visível, ordenada, a beleza da água, enfim, tudo o que, na criação deste mundo, foi feito, de acordo com a tradição das Escrituras, em dias determinados. E essa obra é tal que, como consequência da transformação regular de seus movimentos e de suas formas, está sujeita às vicissitudes do tempo.
 
-### XIII O céu e a terra no Gênesis \*
+### XIII O céu e a terra no Gênesis \*\*
 
 16. Meu Deus, quando ouço estas palavras de tua Escritura: "No princípio criou Deus o céu e a terra. A terra era invisível e caótica, e as trevas se estendiam sobre o abismo" e não encontro menção do dia em que criaste essas coisas, concluo dessa omissão que se trata do céu do céu, do céu intelectual, onde é dado à inteligência conhecer simultânea e não parcialmente; não em enigma, não como em espelho, mas absolutamente, em plena luz, face a face; de conhecer não ora isto, ora aquilo, mas, como disse, simultaneamente, sem nenhuma vicissitude de tempo; concluo que se trata também da terra invisível, caótica, estranha às vicissitudes do tempo, que ora causam isto, ora aquilo, porque onde não há forma não pode haver isto ou aquilo.
 
 É, pois, a propósito dessas duas coisas, uma de forma acabada desde o início, a outra absolutamente informe: o céu, isto é: o céu do céu, e a terra, isto é: terra invisível e caótica, é bem a propósito delas que tua Escritura diz, sem mencionar o dia: "No princípio criou Deus o céu e a terra." E acrescenta imediatamente de que terra se trata. E, indicando o segundo dia como data da criação do firmamento, que foi chamado de céu, dá a entender também de que céu falara precedentemente sem precisar o dia.
 
-### XIV A profundidade das Escrituras \*
+### XIV A profundidade das Escrituras \*\*
 
 17. Admirável profundidade a de tuas Escrituras, sob uma superfície que nos acaricia, como se acariciam as crianças! Sim, admirável profundidade, meu Deus, admirável profundidade! É impossível meditá-las sem um arrepio sagrado, arrepio de respeito, estremecimento de amor. Odeio violentamente seus inimigos. Oh! Se pudesses fazê-los morrer sob teu gládio de dois fios, a fim de que elas não tenham mais inimigos! Gostaria que eles morressem para si mesmos e que vivessem só para ti.
 
 Mas eis aqui outros que não criticam, mas, pelo contrário, admiram o livro do Gênesis, que dizem: "Não é isto, o que quis dizer por essas palavras o Espírito de Deus que as inspirou a Moisés, seu servidor. Não, o que ele quis dizer não é o que dizes, mas outra coisa: o que nós dizemos." Eis, ó Deus de todos nós, o que eu lhes respondo: sê nosso árbitro.
 
-### XV O que dizem seus inimigos \*
+### XV O que dizem seus inimigos \*\*
 
 18. Direis que é falso o que, com voz forte, a Verdade disse ao ouvido de minha alma sobre a verdadeira eternidade do Criador: a saber, que sua substância não varia no tempo e que sua vontade se confunde com sua substância? De onde se segue que ele não quer ora isto, ora aquilo, mas quer o que sempre quer, simultaneamente e para sempre. Vontade que não se exerce por decisões sucessivas, que não se propõe ora esta, ora aquela finalidade, que não quer o que antes não queria, nem deixa de querer o que antes queria, porque semelhante vontade estaria sujeita a mudanças, e o que está sujeito a mudanças não é eterno: ora, nosso Deus é eterno.
 
@@ -2505,13 +3670,13 @@ Mas, nas palavras que meu coração clamou a Deus, escutando interiormente a voz
 
 "Tampouco negamos isto", dizem eles.
 
-### XVI Outros adversários das Escrituras \*
+### XVI Outros adversários das Escrituras \*\*
 
 23. Não quero discutir diante de ti senão com os que reconhecem que tua verdade fez ouvir a minha inteligência em meu íntimo. Para os que o negam, que ladrem quanto quiserem, a ponto de não ouvirem mais a si mesmos. Tentarei persuadi-los a que se acalmem e deem acesso em seus corações à tua palavra. Se eles não o quiserem e me rejeitarem, conjuro-te, meu Deus, não te cales, não te afastes de mim. Fala com verdade em meu coração, porque só tu sabes falar assim. E que eu os deixe fora, soprando no pó e levantando terra contra seus olhos. Que me retire em mim mesmo, que levante a ti cantos de amor, que gema indizivelmente, durante minha peregrinação terrestre, lembrando-me de Jerusalém, levantando a ela meu coração - Jerusalém, minha pátria, Jerusalém, minha mãe - e para ti, que reinas sobre ela, seu pai, sua luz, seu tutor, seu esposo, suas castas e grandes delícias, sua sólida alegria, seu conjunto de todos os bens inefáveis, porque és o soberano Bem e o Bem verdadeiro. Não me apartarei mais de ti, até que, na paz dessa mãe muito amada, onde estão as primícias de meu espírito, e de onde me vêm minhas certezas, reúnas todos os elementos de minha pessoa, libertada da dispersão e da deformidade presentes, e nela me reformes e confirmes por toda a eternidade, ó meu Deus, minha misericórdia.
 
 Quanto aos que, sem negar essas verdades, respeitando tua Escritura Sagrada, obra do piedoso Moisés, e reconhecendo nela, conosco, a mais alta autoridade a seguir, contudo nos opõem certas objeções, eu lhes digo isto: "Tu, que és nosso Deus, serás juiz entre minhas confissões e suas objeções."
 
-### XVII Opiniões diversas sobre o céu e a terra \*
+### XVII Opiniões diversas sobre o céu e a terra \*\*
 
 24. Com efeito, eles dizem: "Sem dúvida, isso é verdade, mas não era nisso que Moisés pensava quando, inspirado pelo Espírito Santo, dizia: 'No princípio criou Deus o céu e a terra.' Não, pela palavra céu ele não quis significar essa criatura espiritual ou intelectual, que contemplaria eternamente a face de Deus; e pela palavra terra uma matéria informe. Que quis dizer então? O que dizemos nós, respondem, isso é o que Moisés quis dizer, e o que expressou naquelas palavras. E que foi que ele disse? Pelas palavras céu e terra quis significar, em primeiro lugar, globalmente e de forma reduzida, todo este mundo visível, para em seguida pormenorizar, enumerando os dias, e como artigo por artigo, esse conjunto que aprouve ao Espírito Santo designar com uma expressão global. O povo rude e carnal ao qual falava compunha-se de tais homens que, segundo pensava, ele não podia dar-lhes a conhecer senão as obras visíveis de Deus."
 
@@ -2523,23 +3688,23 @@ O quê? Algum outro dirá, talvez, que a realidade invisível e visível não fo
 
 26. Alguém mais poderia dizer também, se quisesse: "Esses termos céu e terra não significam realidades formadas e acabadas, lá onde lemos: 'No princípio criou Deus o céu e a terra', mas um esboço ainda informe, uma matéria que poderia tomar forma e servir para a Criação, porque nela já existiam confusamente, sem distinção de formas e de qualidades, essas criaturas, uma espiritual, a outra corporal, que, ordenadas como agora, são chamadas de céu e de terra."
 
-### XVIII Outras interpretações \*
+### XVIII Outras interpretações \*\*
 
 27. Ouço e examino todas essas opiniões, mas não quero discutir por questões de palavras, o que não serve para nada, senão para confusão dos ouvintes. Pelo contrário, a lei é boa para a edificação se dela se fez uso legítimo, porque sua finalidade é a caridade que nasce de um coração puro, de uma boa consciência e de uma fé não fingida. Nosso Mestre bem sabe quais os dois preceitos em que encerrou toda a lei dos profetas. A mim, que os confesso ardorosamente, ó meu Deus, Luz de meus olhos na escuridão, que me faz com que eu possa encontrar sentidos diferentes para essas palavras que são verdadeiras de todos os modos? Que me interessa, digo eu, que um outro compreenda o texto de Moisés de modo diferente do meu?! Nós todos que o lemos procuramos averiguar e compreender o que quis dizer o autor que lemos. E, como o julgamos verídico, não temos a temeridade de admitir que ele pudesse dizer o que sabemos ou o que consideramos falso.
 
 Assim, nesses esforços que cada um fez para compreender, na Escritura Sagrada, o verdadeiro pensamento do escritor, onde está o mal se o leitor considera verdadeiro o sentido que tu, Luz de todas as inteligências sinceras, lhe fazes parecer verdadeiro, embora não tenha sido este o pensamento do autor que lemos, levando-se em conta que ele, pensando de outra maneira, só pensou verdades?
 
-### XIX A verdade \*
+### XIX A verdade \*\*
 
 28. A verdade, Senhor, é que criaste o céu e a terra. A verdade é que o princípio é tua sabedoria, na qual criaste todas as coisas. A verdade é que este mundo visível compõe-se de duas grandes partes, o céu e a terra, expressões que resumem todas as realidades criadas e formadas. É verdade também que tudo o que está sujeito a mudança evoca a nosso pensamento a ideia de algo informe, suscetível de tomar forma, de mudar e de se transformar. A verdade é que uma criatura tão intimamente unida a uma forma imutável que, embora sujeita a mudanças, nunca se transforma, não está sujeita ao tempo. A verdade é que a ausência de forma, que é quase o nada, não pode conhecer as vicissitudes do tempo. A verdade é que a matéria de que uma coisa é feita, se assim podemos falar, toma o nome dessa coisa, e que assim podemos chamar de céu e de terra a essa massa informe com a qual foram feitos o céu e a terra. A verdade é que, de tudo o que recebeu forma, nada há que esteja mais perto do informe que a terra e o abismo. A verdade é que não apenas tudo o que foi criado e formado, mas ainda tudo o que poderia ser criado e formado é obra tua, tu que és o autor de tudo quanto existe. A verdade é que tudo o que é formado, de matéria informe, primeiro é informe, e depois recebe forma.
 
-### XX O princípio e suas interpretações \*
+### XX O princípio e suas interpretações \*\*
 
 29. De todas essas verdades, das quais não duvidam os que de ti receberam a graça de ver com os olhos da alma, e que creem firmemente que Moisés, teu servidor, falou em espírito de verdade, um escolhe uma e diz: "No princípio Deus criou o céu e a terra", isto é, Deus criou, em seu Verbo, que lhe é coeterno, o mundo inteligível e sensível, ou espiritual e corporal. Outro diz: "No princípio Deus criou o céu e a terra", isto é: Deus criou em seu Verbo, que lhe é coeterno, toda a massa desse mundo corporal, com tudo o que contém de realidades aparentes e conhecidas. Um terceiro diz: "No princípio Deus criou o céu e a terra", isto é: Deus criou em seu Verbo, que lhe é coeterno, a matéria informe das criaturas espirituais e corporais. Um quarto diz: "No princípio Deus criou o céu e a terra", isto é: Deus criou a matéria informe das criaturas corporais, onde estavam ainda confundidos o céu e a terra, que agora distinguimos na massa do Universo, com suas formas distintas e determinadas.
 
 Um último diz: "No princípio Deus criou o céu e a terra", isto é: desde que começou a agir, Deus criou a matéria informe, onde estavam contidos confusamente em potência o céu e a terra, de onde foram formados, e que agora se mostram e brilham com tudo o que neles existe.
 
-### XXI A terra invisível \*
+### XXI A terra invisível \*\*
 
 30. O mesmo se dá quanto à interpretação das palavras que se seguem. Entre essas interpretações, que são todas verdadeiras, cada um escolhe a sua. Este diz: "A terra era invisível e caótica, e as trevas se estendiam sobre o abismo", isto é: essa massa corpórea, que Deus fez, era a matéria ainda sem forma, sem ordem, sem luz, das coisas corporais.
 
@@ -2551,7 +3716,7 @@ Outro diz ainda: "A terra era invisível e caótica, e as trevas se estendiam so
 
 E outro ainda: "A terra era invisível e caótica, e as trevas se estendiam sobre o abismo", isto é: já existia uma matéria informe, da qual a Escritura diz que Deus criou o céu e a terra, a saber, toda a massa corporal do mundo, dividido em duas grandes partes, uma superior, outra inferior, com todas as criaturas que elas encerram e que nos são familiares.
 
-### XXII Objeções \*
+### XXII Objeções \*\*
 
 31. Mas a essas últimas interpretações alguém poderia opor a seguinte objeção: "Se não quereis que as palavras céu e terra signifiquem a matéria informe, haveria então alguma coisa não criada por Deus e da qual ele deveria se servir para criar o céu e a terra? Porque a Escritura não diz que Deus criou essa matéria, a menos que entendamos como tal o sentido dado às palavras céu e terra quando diz: No princípio, Deus criou o céu e a terra." No que se segue: "A terra era invisível e caótica" - mesmo que Moisés quisesse designar assim a matéria informe, nós não poderíamos entender com isso senão a matéria criada por Deus, conforme ao que está escrito: "Criou o céu e a terra." Os partidários das duas últimas opiniões que acabamos de expor, ou de uma das duas, respondem dizendo: "Não negamos que esta matéria informe seja obra de Deus, de quem vem tudo o que é bom. Consideramos como bem superior o que é criado e plenamente formado, mas confessamos também que o que é suscetível de ser criado e formado, embora seja um bem inferior, é ainda um bem."
 
@@ -2561,13 +3726,13 @@ Se se entende que a palavra terra também as designa, como compreender por essa 
 
 Assim, se o Gênesis se cala sobre a criação por Deus de certas coisas, criação essa que está fora de dúvidas aos olhos de uma fé sadia e de uma inteligência firme, e se nenhuma ciência racional ousará sustentar que essas águas são coeternas a Deus, sob o pretexto de que as vemos mencionadas no Gênesis, sem encontrar aí a indicação do momento de sua criação, por que não haveríamos de entender, à luz da verdade, que essa matéria, também informe, que a Escritura chama de terra invisível e caótica e de abismo tenebroso, foi feita por Deus de nada e não é coeterna a Deus, embora a narração da Escritura tenha negligenciado de mencionar o momento em que foi criada?
 
-### XXIII A opinião de Agostinho \*
+### XXIII A opinião de Agostinho \*\*
 
 32. Ouço e examino essas opiniões na medida de meus fracos meios, que confesso a Deus, o qual, aliás, bem os conhece. Vejo que se pode elevar duas espécies de opiniões a propósito de um testemunho formulado com a ajuda de sinais por intérpretes verídicos. Uma é relativa à variedade das coisas, a outra à intenção daquele que as exprime. Procurar conhecer a verdade sobre a Criação é uma coisa; procurar saber o que Moisés, famoso servo de tua lei, quis dar a entender por suas palavras ao leitor ou ao ouvinte é outra.
 
 No que diz respeito à primeira dessa opinião, longe de mim todos esses que têm como verdades os seus erros! Quanto à segunda, longe de mim todos os que creem que Moisés disse falsidades. Mas possa eu unir-me em ti, alegrar-me em ti, Senhor, juntamente com os que se alimentam de tua verdade na imensidão de teu amor. Aproximemo-nos juntos das palavras de teu Livro e procuremos tuas intenções nas intenções de teu servo, por cuja pena tu no-las revelaste.
 
-### XXIV Qual a verdade? \*
+### XXIV Qual a verdade? \*\*
 
 33. Mas quem de nós, entre tantas verdades possíveis, que se oferecem aos estudiosos sob as diversas interpretações de tuas palavras, saberá descobrir essas intenções e poderá declarar com segurança: "Eis o pensamento de Moisés, eis como ele quer que se entenda sua narração?" Quem poderá declará-lo, com a mesma segurança que ele, que essa narração é verdadeira, quer Moisés tenha tido esse pensamento, quer tenha tido outro?
 
@@ -2575,7 +3740,7 @@ Por mim, meu Deus, eis que eu, teu servo, que te dediquei nesta obra o sacrifíc
 
 Mas poderei dizer com a mesma confiança que Moisés teve esse pensamento, e não outro, quando escreveu: "No princípio, criou Deus o céu e a terra?" Não porque a primeira afirmação me parece incerta, enquanto que não vejo com igual certeza o que Moisés pretendia ao escrever essas palavras. Por essa expressão "no princípio" pode ter entendido "no começo da Criação". Pelos termos de céu e de terra, pode querer dar-nos a entender, não a natureza espiritual e corporal, já formada e perfeita, mas uma e outra, apenas esboçada e ainda informe. Vejo que ambos os sentidos são igualmente plausíveis. Mas em qual dos dois pensava Moisés quando escrevia essas palavras eu não o posso distinguir tão bem. Aliás, quer sua intenção, ao exprimir essas palavras, fosse um desses dois sentidos ou algum outro que não indiquei, eu não poderia duvidar de que tão grande homem tenha visto a verdade e a tenha formulado convenientemente.
 
-### XXV Os diversos partidos \*
+### XXV Os diversos partidos \*\*
 
 34. Que deixem, portanto, de me importunar dizendo: "O pensamento de Moisés não é o que pretendes; é o que afirmo eu." Se apenas me dissessem: "Como sabes que Moisés verdadeiramente entendia essas palavras no sentido que lhe atribuis?", eu não deveria me agastar, e responder talvez o que respondi acima, mais explicitamente, mesmo se meu contraditor fosse duro de convencer.
 
@@ -2591,13 +3756,13 @@ Uma vez que concordamos sobre essa luz do Senhor, nosso Deus, por que disputar s
 
 Vê, pois: quando uma multidão de pensamentos igualmente verdadeiros podem ser tirados dessas palavras, que loucura é afirmar temerariamente que Moisés teve este pensamento e não aquele, ferindo com nossas disputas perniciosas a caridade, por amor da qual ele escreveu todas as palavras que procuramos explicar!
 
-### XXVI Agostinho no lugar de Moisés \*
+### XXVI Agostinho no lugar de Moisés \*\*
 
 36. Contudo, meu Deus, tu que me elevas quando me humilho, que descansas minha fadiga, que ouves minhas confissões e perdoas meus pecados, já que mandas que eu ame a meu próximo como a mim mesmo, não posso crer que Moisés, teu servo muito fiel, tenha sido contemplado com menos dons do que eu teria desejado e apetecido se tivesse nascido em seu tempo, e me tivesses posto em seu lugar, para te servir com meu coração e minha língua, e distribuir essas Escrituras que, tanto tempo depois, deveriam beneficiar a todas as nações, e, no mundo inteiro, dominar com o prestígio de sua autoridade as afirmações das doutrinas mentirosas e cheias de orgulho.
 
 Se eu fosse Moisés - porque todos procedemos da mesma massa, e que é o homem se não te lembrares dele? - se eu fosse Moisés, e me tivesses confiado a missão de escrever o Gênesis, gostaria de receber de ti tal arte de expressão, tal qualidade de estilo, que mesmo os espíritos incapazes de compreender como Deus criou não pudessem rejeitar minhas palavras como superiores às suas forças; que os que já fossem capazes descobrissem integralmente, nas raras palavras de teu servo, todas as verdades que sua reflexão já lhes tivesse proporcionado; e que se algum outro leitor, à luz de tua verdade, nelas percebesse outro significado, também ele o pudesse encontrar nessas mesmas palavras.
 
-### XXVII Os diversos sentidos da Escritura \*
+### XXVII Os diversos sentidos da Escritura \*\*
 
 37. Assim como uma fonte, fechada em pequeno reservatório, é mais abundante e, pelos diversos regatos que alimenta, banha espaços muito mais amplos que qualquer um desses regatos que deslizam através de muitas regiões, assim a narração do ministro de tua palavra, que deveria servir a tantos intérpretes, faz brotar de seu estilo sóbrio e simples uma torrente de límpida verdade, de que cada um tira para si a verdade que pode, para depois desenvolvê-la em largos rodeios de palavras.
 
@@ -2607,7 +3772,7 @@ Nisto são como crianças, sem vida espiritual; enquanto essa linguagem humilde 
 
 Mas se alguém, desprezando a quase pobreza de tuas palavras, sem sua orgulhosa debilidade, se lança para fora do ninho onde é alimentado, então cairá miseravelmente. Senhor Deus, tem piedade dele! Que os transeuntes não o pisem, passarinho implume; manda teu anjo para que o reponha no ninho, a fim de que viva até se tornar capaz de voar!
 
-### XXVIII Divergências \*
+### XXVIII Divergências \*\*
 
 38. Para outros essas palavras já não são ninho, mas vergel ensombreado onde se descobrem a eles os frutos ocultos que procuram e bicam, voando alegremente e gorjeando.
 
@@ -2619,7 +3784,7 @@ Outro considera as mesmas palavras e entende por princípio o começo da criaç�
 
 Mas nem mesmo os que acreditam que nesse texto céu e terra significam as criaturas tendo já recebido sua forma e lugar, um acredita que se trata do mundo invisível e visível, outro que se trata apenas do mundo visível, onde vemos o céu luminoso e a terra tenebrosa, com tudo o que eles contêm.
 
-### XXIX Dificuldades \*
+### XXIX Dificuldades \*\*
 
 40. Mas aquele que compreende a palavra: "No princípio criou Deus..." como se ela quisesse dizer: "Primeiramente Deus criou..." não pode entender por céu e terra, se quer permanecer na verdade, senão a matéria do céu e da terra, isto é, da Criação universal, tanto dos espíritos como dos corpos.
 
@@ -2633,7 +3798,7 @@ Com efeito, essas matérias precedem no tempo os objetos que delas são feitos. 
 
 Compreenda quem puder, por esse exemplo, que a matéria das coisas foi criada antes, e chamada de céu e terra, porque dela foram tirados o céu e a terra. Não foi criada antes na ordem do tempo, porque o tempo só tem início com a forma das coisas; ora, a matéria era informe, e não se mostrou no tempo senão juntamente com o tempo. Contudo, não se pode falar dela como se tivesse alguma prioridade temporal, embora ocupe a última categoria na escala de valores (o que tem forma é evidentemente superior ao que não tem forma), ou que a eternidade do Criador a tenha precedido, para que fosse feito de nada o que deveria servir a fazer as coisas.
 
-### XXX Espírito de caridade \*
+### XXX Espírito de caridade \*\*
 
 41. Nessa diversidade de opiniões verdadeiras, que a própria verdade faça nascer a concórdia e que nosso Deus tenha piedade de nós, para que usemos legitimamente da lei e do fim do preceito, que é a caridade,
 
@@ -2641,7 +3806,7 @@ Assim, pois, se me perguntarem qual dessas opiniões é a de Moisés, eu não fa
 
 Sei, contudo, que essas opiniões são verdadeiras, salvo as interpretações carnais, a cujo respeito já disse tudo o que pensava. Os que as admitem são, contudo, como meninos de boa esperança, que não têm medo das palavras de teu Livro, tão profundas em sua humildade, tão substanciais em sua concisão. Mas nós todos que, eu o declaro, distinguimos e dizemos a verdade sobre essas palavras, amemo-nos uns aos outros; e possamos amar-te igualmente, a ti, nosso Deus, fonte de verdade, se temos sede, e não de vaidades, mas da própria verdade. Honremos a teu servo, dispensador de tua Escritura, cheio de teu espírito, e acreditemos que, escrevendo o que lhe revelaste, ele não teve em mente senão o que há de melhor nessas revelações, verdades brilhantes e frutos proveitosos.
 
-### XXXI O Gênesis e seu autor \*
+### XXXI O Gênesis e seu autor \*\*
 
 42. Assim, quando alguém me diz: "O pensamento de Moisés é o meu", e outro diz: "Não, ele pensou como eu", creio conformar-me mais verdadeiramente ao espírito da religião dizendo: "Por que não teria ele antes admitido ambos os pontos de vista, se ambos são verdadeiros?" E se se descobrirem nessas palavras um terceiro, um quarto sentido, e outros ainda, desde que sejam verdadeiros, por que não acreditar que Moisés viu todas essas interpretações, ele por quem o Deus único adaptou as sagradas letras às inteligências da multidão, que deveria atribuir-lhe significados diversos, mas todos verdadeiros?
 
@@ -2649,15 +3814,15 @@ Quanto a mim, digo-o sem hesitar e do fundo do coração: se, investido da mais 
 
 Moisés, redigindo esses textos, pensou, concebeu todas as verdades que neles pudemos encontrar, e também todas as que não pudemos, ou ainda as que ainda não pudemos descobrir, mas que podem ser descobertas.
 
-### XXXII Oração \*
+### XXXII Oração \*\*
 
 43. Enfim, Senhor, tu que és Deus, e não criatura de carne e sangue, se um homem não pôde ver tudo, teu Espírito Santo, que me deve conduzir pelo reto caminho, poderia ignorar alguma coisa do que tiveste a intenção de revelar por essas palavras a seus leitores vindouros, mesmo quando aquele por quem essas palavras foram pronunciadas não tivesse em mente senão um desses numerosos sentidos verdadeiros? Se assim é, o sentido por ele pensado era mais excelente que todos os demais. Mas a nós, Senhor, ensina-nos esse sentido, ou algum outro sentido verdadeiro que for de teu agrado; e quer nos mostres o mesmo sentido que ao homem de Deus, quer nos mostres um outro inspirado pelas mesmas palavras, alimenta nosso espírito, guarda-nos da ilusão do erro.
 
 Eis, Senhor meu Deus! Quantas páginas escrevi sobre algumas palavras, quantas páginas! Sendo assim, minhas forças e o tempo de que disponho seriam suficientes para comentar todos os teus livros? Permite-me, pois, abreviar minhas confissões no que lhes diz respeito, e adotar uma única interpretação, que me farás conhecer como verdadeira, certa e boa, mesmo que outras muitas se me apresentem, quando isso puder acontecer. Que minha confissão seja bastante fiel para que eu expresse perfeitamente bem o pensamento de teu intérprete, porque isto é o que devo intentar; e, se não o conseguir, que eu pelo menos diga o que tua verdade me quis dizer por essas palavras, como ela disse a Moisés o que lhe aprouve.
 
-## Livro XIII \*
+## Livro XIII \*\*
 
-### I Invocação \*
+### I Invocação \*\*
 
 1. Eu te invoco, ó meu Deus, minha misericórdia, que me criaste e que não te esqueceste daquele que te esqueceu. Chamo-te à minha alma, que preparas para te receber fazendo-te desejar por ela.
 
@@ -2667,7 +3832,7 @@ Foste tu, Senhor, que apagaste todas as minhas faltas, para não ter o que casti
 
 Contudo, eis que existo, graças à tua bondade que precedeu em mim tudo o que sou e tudo aquilo de que me fizeste. Não tinhas necessidade de mim, eu não era um bem que te pudesse ser útil, ó meu Senhor e meu Deus; se tenho o dever de te servir, isso não acontece porque a ação te cansa, ou porque, privado de meus serviços, teu poder diminua por isso, nem porque meu culto seja para ti o que é a cultura para a terra, que sem ela ficaria inculta: não, eu tenho o dever de te honrar a fim de ser feliz em ti, a quem devo meu ser capaz de felicidade.
 
-### II A Criação e a bondade de Deus \*
+### II A Criação e a bondade de Deus \*\*
 
 2. Porque é pela plenitude de tua bondade que toda criatura subsiste, a fim de que um bem, para ti perfeitamente inútil, ou de nenhum modo igual a ti, embora saído de ti, não fosse, contudo, privado da existência, porque podias dar-lhe existência. Com efeito, que poderiam merecer de ti o céu e a terra, que criaste no princípio? Que proclamem os méritos que tinham a teus olhos a natureza espiritual e a corporal, que criaste em tua sabedoria, para que a essa sabedoria se prendesse mesmo o que mostram de inacabada e de informe o ser espiritual e corporal, quando tendem à desordem e se afastam quanto possível de tua semelhança. O que é de natureza espiritual, mesmo informe, é ainda superior a um corpo que recebeu forma; um corpo sem forma é superior ao puro nada; ora, todas essas coisas continuariam informes sem tua palavra, se essa mesma palavra não as chamasse à tua Unidade, comunicando-lhes a forma e a excelência que têm sua fonte apenas em ti, soberano Bem. Mas que merecimentos teriam a teus olhos para existir, mesmo informes essas criaturas, que sem ti nem teriam existido?
 
@@ -2675,17 +3840,17 @@ Contudo, eis que existo, graças à tua bondade que precedeu em mim tudo o que s
 
 Mas seu bem está em se unir sempre a ti, a fim de não perder, afastando-se, a luz que adquiriu ao se aproximar de ti, tornando a cair em uma vida semelhante a um abismo de trevas. E também nós, que por nossa alma somos criatura espiritual, nós nos afastamos de ti, nossa luz, nós fomos outrora trevas nesta vida, e ainda padecemos no que ainda resta de nossas trevas, até que sejamos um dia justiça em teu Filho único, como as montanhas de Deus, porque fomos objeto de teus juízos, semelhantes a um abismo profundo.
 
-### III A luz \*
+### III A luz \*\*
 
 4. Quanto ao que nos disseste no começo da Criação - "Faça-se a luz, e a luz foi feita" -, eu o entendo, sem incongruência, da criatura espiritual, que já era uma espécie de vida apta a receber tua luz. Mas do mesmo modo que ela não tinha merecido de ti ser dessa espécie de vida apta a receber a luz, assim, uma vez criada, ela não mereceu de ti essa iluminação. Porque sua ausência de forma alguma te agradaria se não se tivesse tornado luz, não se contentando com existir, mas contemplando a luz que a iluminava, unindo-se intimamente a ela. Assim, ela não devia a existência, e a existência feliz, senão à tua graça, voltada, por uma feliz transformação, para o que não pode mudar nem para melhor, nem para pior. Porque só tu existes, só teu ser é simples, pois, para ti, viver e viver feliz não são coisas distintas, porque és tua própria felicidade.
 
-### IV A bondade criadora \*
+### IV A bondade criadora \*\*
 
 5. Que faltaria, pois, a esse bem, que se confunde com teu ser, se não existisse nenhuma dessas criaturas, ou se todas tivessem permanecido informes? Tu as criaste, não porque tiveste necessidade delas, mas levado pela plenitude de tua bondade, impondo-lhes, comunicando-lhes uma forma, sem que tua felicidade aumentasse com isso. Perfeito como és, não gostas de sua imperfeição; tu as aperfeiçoas para que elas te agradem; não és um ser imperfeito, que necessitasse de sua perfeição para se aperfeiçoar.
 
 Com efeito, teu bom Espírito era levado por sobre as águas, e não pelas águas, como se nelas descansasse. Aqueles nos quais se diz que teu Espírito descansa, a estes ele faz repousar em si. Incorruptível, imutável, bastando-se a si mesma, tua vontade era levada acima da vida, de que era o autor, e para quem viver não é o mesmo que viver feliz, porque ela vive, mesmo quando flutua nessas trevas; mas falta-lhe ainda voltar-se para seu Criador, para viver cada vez mais perto da fonte da vida, para ver a luz em sua luz, e nela haurir perfeição, brilho e felicidade.
 
-### V A Trindade \*
+### V A Trindade \*\*
 
 6. Mas eis que se mostra a mim em enigma a Trindade que és, meu Deus, porque tu, Pai, no princípio de nossa sabedoria, que é tua sabedoria, nascida de ti, igual e coeterna, a ti, isto é, em teu Filho, criaste o céu e a terra.
 
@@ -2693,19 +3858,19 @@ Já falei longamente do céu do céu, da terra invisível e caótica, e do abism
 
 Na palavra Deus eu já entendia o Pai, que criou essas coisas, e na palavra princípio eu entendia o Filho, em quem ele as criou, e, como eu acreditava na Trindade de meu Deus, eu a procurava em tuas santas palavras. E vi em tuas Escrituras que teu Espírito era levado sobre as águas. Eis tua Trindade, meu Deus, Pai, Filho e Espírito Santo, Criador de toda criatura!
 
-### VI O Espírito sobre as águas \*
+### VI O Espírito sobre as águas \*\*
 
 7. Mas, ó luz verídica, qual o motivo que me faz aproximar de ti meu coração? Para que ele não me ensine vaidades, dissipa-lhe as trevas e dize-me, eu to suplico, por nossa mãe, a caridade, sim, eu to suplico, dize-me, por que só depois de ter nomeado o céu, a terra invisível e caótica e as trevas que flutuavam sobre o abismo, por que só então é que tuas Escrituras falam de teu Espírito? Será porque era necessário propor a noção de tal sorte que se pudesse dizer dele que pairava sobre alguma coisa, o que não seria possível se não se começasse por designar a coisa sobre a qual poder-se-ia imaginá-lo? De fato, não era acima do Pai nem do Filho que ele pairava, e seria impróprio falar que ele pairava, se não pairasse acima de nada.
 
 Por isso era necessário dizer em primeiro lugar acima do que ele pairava, pois não convinha falar dele senão dizendo que pairava sobre alguma coisa. Mas por que não convinha propor sua noção senão dizendo assim que pairava?
 
-### VII As águas sem substância \*
+### VII As águas sem substância \*\*
 
 8. E agora, siga quem puder, pela inteligência, a teu Apóstolo, quando ele diz que tua caridade se difundiu em nossos corações pelo Espírito Santo que nos foi dado, quando nos ensina as coisas espirituais e nos indica o caminho supereminente da caridade, e dobra o joelho por nós diante de ti, para que conheçamos a ciência supereminente de Cristo. E é porque era supereminente desde o princípio que ela pairava sobre as águas.
 
 A quem falar, como falar do peso da concupiscência, que nos lança em um abismo abrupto, e da caridade que nos eleva, com a ajuda de teu Espírito, que era levado por sobre as águas? A quem falar, como falar? Nós submergimos e emergimos. Mas não é em um abismo espacial que submergimos e emergimos. A metáfora é ao mesmo tempo muito exata e muito inexata. São nossas paixões, nossos amores, a impureza de nosso espírito que nos arrastam para baixo sob o peso das inquietações tão queridas. E é tua santidade que nos eleva pelo amor de tua paz, a fim de que levantemos nossos corações a ti, onde teu Espírito era levado por sobre as águas, e alcancemos o repouso supremo, quando nossa alma tiver atravessado essas águas que são sem substância.
 
-### VIII À luz que ilumina as trevas \*
+### VIII À luz que ilumina as trevas \*\*
 
 9. O anjo caiu, a alma do homem caiu, mostrando assim em que profundas trevas teria caído o abismo que compreendia todas as criaturas espirituais, se não tivesses dito desde o começo: "Faça-se a luz!" - se a luz não se tivesse feito, se todas as inteligências de tua cidade não se tivessem unido e sujeitado a ti, se não tivessem repousado em teu Espírito, que paira, sem nunca mudar, por sobre as criaturas mutáveis. De outro modo, ainda o mesmo céu do céu não seria mais que abismo de trevas, enquanto que agora é luz no Senhor.
 
@@ -2715,33 +3880,33 @@ Dá-te a mim, meu Deus, dá-te a mim, porque te amo. Se meu amor é muito medío
 
 Só isto sei: que me sinto mal onde quer que não estejas, não somente fora de mim, mas até em mim mesmo; e que toda a abundância de bens que não é meu Deus não é para mim mais que miséria.
 
-### IX O amor de Deus \*
+### IX O amor de Deus \*\*
 
 10. Mas o Pai e o Filho também não pairavam por sobre as águas? Se os imaginamos como um corpo em um espaço, isso não é verdade nem quanto ao Espírito Santo. Se se entender por isso a excelência imutável da divindade acima de tudo o que é mutável, então o Pai, o Filho e o Espírito Santo pairavam por sobre as águas. Mas por que o texto não menciona senão teu Espírito? Por que se menciona apenas a seu respeito um lugar onde ele estava, e que, no entanto, não é um lugar? Também apenas dele se disse que era um dom de Deus, e é em teu dom que repousamos; é nele que gozamos de ti. Nosso repouso é nosso lugar. Eis até onde o amor nos levanta, e teu Espírito exalta nossa baixeza, longe das portas da morte. A paz, para nós, reside na boa vontade. Os corpos tendem por seu peso para o lugar que lhes é próprio; mas um peso não tende forçosamente para baixo; tende para o lugar que lhe é próprio. O fogo sobe, a pedra cai. Cada um é movido por seu peso e tende a seu lugar. O óleo, lançado à água, coloca-se sobre ela; a água, lançada ao óleo, coloca-se abaixo dele; ambos são arrastados por seu peso e procuram o lugar que lhes é próprio. As coisas que não estão em seu lugar se agitam; mas quando o encontram, descansam.
 
 Meu peso é meu amor; para onde quer que eu vá, é ele quem me leva. Teu dom nos inflama e nos eleva: queimamo-nos e partimos. Subimos os degraus do coração e cantamos o cântico dos degraus. É com teu fogo, com teu fogo benfeitor que nos queimamos e caminhamos, subindo para a paz da Jerusalém celeste. Regozijei-me ao ouvir essas palavras: "Vamos para a casa do Senhor!" Ali nos há de instalar nossa boa vontade, e não desejaremos nada mais do que morar ali eternamente.
 
-### X Os dons de Deus \*
+### X Os dons de Deus \*\*
 
 11. Feliz a criatura que não conheceu outro estado! Não seria o que é se, apenas criada, teu dom, que paira por sobre todas as coisas mutáveis, não a tivesse elevado imediatamente a este apelo: "Faça-se a luz", de onde nasceu a luz. Em nós, o tempo em que éramos trevas e o tempo em que nos tornamos luz são dois tempos distintos. Mas dessa criatura não se diz o que ela teria sido se não fosse iluminada por Deus. Fala-se dela como se tivesse sido flutuante e tenebrosa, para nos descobrir a causa que a transformou, isto é, que a voltou para a luz inextinguível, para que também fosse luz. Quem o puder, compreenda; quem não o puder, que te peça a graça de o compreender. Por que se há de molestar a mim, como se eu fosse a luz que ilumina a todo homem que vem a este mundo?
 
-### XI O homem e a Trindade \*
+### XI O homem e a Trindade \*\*
 
 12. Quem é capaz de compreender a Trindade todo-poderosa? Contudo, quem não fala dela, se é que dela fala? Rara é a alma que, falando dela, sabe o que diz. Discute-se, disputa-se, mas ninguém sem paz interior, seria capaz de contemplar esta visão.
 
 Gostaria que os homens refletissem sobre três coisas que podem perceber em si mesmos. Elas diferem muito da Trindade, e eu não as menciono senão para que lhes sirvam de tema para exercitar e experimentar o pensamento, e lhes façam assim compreender como estão longe deste mistério. Eis essas três coisas: ser, conhecer, querer. Porque existo, conheço, quero e vejo. Eu sou aquele que conhece e quer. Sei que existo e que quero, e quero existir e saber. Como nessas três coisas a vida forma um todo indivisível, a unidade da vida, a unidade da inteligência, a unidade da essência, a impossibilidade de distinguir elementos inseparáveis e, contudo, distintos, quem o puder que o entenda. O que é certo é que o homem está diante de si; que ele examine, veja e me responda. Aliás, por ter encontrado e reconhecido esta analogia, não se creia por isso ter compreendido o Ser imutável, que transcende esses atributos, que existe imutavelmente, conhece imutavelmente e quer imutavelmente. Mas é porque tais atributos pertencem juntamente a Deus que é a Trindade, ou esses três atributos pertencem a cada pessoa divina, cada uma sendo assim una e tríplice? Ou ambas as coisas são verdadeiras: a Trindade, miraculosamente simples e múltipla, sendo para si mesmo seu próprio fim infinito, o que faz com que exista, se conheça e se baste imutavelmente na grandeza superabundante de sua unidade? Quem poderia conceber facilmente este mistério? Quem poderia exprimi-lo? Quem ousaria enunciá-lo de algum modo?
 
-### XII A Criação e a Igreja \*
+### XII A Criação e a Igreja \*\*
 
 13. Vai adiante, minha fé, em tua confissão. Dize a teu Senhor: "Santo, santo, santo! Meu Senhor, meu Deus!" Em teu nome fomos batizados, Pai, Filho e Espírito Santo; em teu nome batizamos, Pai, Filho e Espírito Santo. Porque também entre nós Deus criou por seu Cristo um céu e uma terra, ou melhor, os espirituais e os carnais de sua Igreja. E nossa terra, antes de receber a forma da doutrina, era invisível e caótica, e estávamos cobertos das trevas da ignorância, porque castigaste o homem por causa de sua iniquidade, e teus juízos são semelhantes a abismos profundos.
 
 Mas como teu Espírito pairava por sobre as águas, tua misericórdia não abandonou nossa miséria, e disseste: "Faça-se a luz." Fazei penitência, porque se aproxima o reino de Deus. Fazei penitência, faça-se a luz! E porque nossa alma se tinha conturbado dentro de nós mesmos, nós nos lembramos de ti, Senhor, às margens do Jordão, sobre essa montanha que tem a tua altura, mas que se tornou pequena por nós. Nossas trevas nos desagradaram, nós nos voltamos para ti, e a luz se fez. E eis que outrora fomos trevas e que agora somos luz no Senhor.
 
-### XIII Nós e a luz \*
+### XIII Nós e a luz \*\*
 
 14. Contudo, somos luz apenas pela fé, e não por uma visão clara. Porque é na esperança que fomos salvos, e a esperança que vê não é mais esperança. O abismo clama pelo abismo, mas já pela voz de tuas cataratas. O que diz: "Não pude falar-vos como a criaturas espirituais, mas como a carnais", este não julga ainda ter atingido seu termo, e, esquecendo-se do que fica para trás, avança para o que está diante dele, e geme sob o peso que o esmaga, e sua alma tem sede do Deus vivo, como o cervo tem sede da água das fontes, e diz: "Quando hei de chegar?" Porque ele deseja o abrigo de sua morada, que está no céu, e interpela o abismo inferior nestes termos: "Não vos conformeis com este mundo, mas reformai-vos e renovai vosso coração, e não queirais fazer-vos crianças pela inteligência, mas sede pequeninos quanto à malícia, para que sejais perfeitos na inteligência." E ainda: "Ó gálatas néscios, quem vos fascinou?" Mas não é mais sua voz que fala assim, é a tua voz, porque mandaste teu Espírito do alto do céu por Aquele que subiu ao céu e abriu as cataratas de seus dons, a fim de que uma torrente de alegria animasse tua cidade. É por essa cidade que suspira o amigo do esposo, que já possui as primícias do Espírito, mas que ainda geme, porque está à espera da adoção e do resgate de sua pessoa. É por ela que ele suspira, porque ele é membro da Esposa de Cristo; por ela ele está cheio de zelo, porque ele é o amigo do esposo; por ela, não por si mesmo, porque é pela voz de tuas cataratas, e não por sua própria voz, que ele se dirige ao outro abismo, objeto de seu zelo e de sua crença. Ele teme que, como a serpente enganou a Eva com sua astúcia, assim as inteligências débeis não se corrompam e não decaiam da pureza que está em teu Esposo, teu Filho único. Como será brilhante essa luz, quando o veremos tal como ele é, e quando passarão essas lágrimas que se transformaram no pão de meus dias e de minhas noites, enquanto todos os dias me perguntam: "Onde está o teu Deus?"
 
-### XIV Esperança \*
+### XIV Esperança \*\*
 
 15. Também eu digo: "Onde estás, meu Deus? Onde estás?" Respiro um pouco em ti quando derramo minha alma sobre mim mesmo em um grito de exaltação e de louvor, verdadeiro grito de festa. Mas minha alma ainda está triste, porque ela torna a cair e a ser abismo, ou melhor, porque sente que ainda é abismo.
 
@@ -2749,7 +3914,7 @@ Minha fé, que acendeste à noite diante de meus pés, lhe diz: "Por que estás 
 
 Por isso, em nossa peregrinação sobre a terra recebemos dele o penhor para que nos tornemos luz; ele já nos salvou em esperança, e de filhos da noite e das trevas que éramos, ele fez filhos da luz e do dia. Entre uns e outros, na incerteza terrestre da ciência humana, só tu és capaz de distinguir, porque pões nossos corações à prova e chamas à luz dia e às trevas, noite. Quem sabe fazer essa diferença além de ti? E que temos que não o tenhamos recebido de ti? Porque nós, vasos de honra, fomos feitos da mesma massa que serviu para fazer os vasos de ignomínia.
 
-### XV Símbolos \*
+### XV Símbolos \*\*
 
 16. E quem, senão tu, nosso Deus, criou sobre nós um firmamento de autoridade, em tua divina Escritura? O céu se enrolará como um pergaminho, e agora ele se estende sobre nós como uma pele. Porque mais sublime é a autoridade de tua divina Escritura depois que morreram os mortais por cujo intermédio no-las comunicaste. E sabes, Senhor, sabes como cobriste de pele os homens, quando o pecado os tornou mortais. Por isso estendeste como uma pele o firmamento de teu Livro, tuas palavras em tudo concordes, que dispuseste sobre nós pelo ministério de homens mortais. Por sua própria morte, a autoridade de tuas palavras, que eles publicaram, desenvolve sua força sobre tudo o que está situado embaixo; ela não se levantava tão alto enquanto eles viviam. É que ainda não tinhas desenrolado o céu como uma pele, nem tinhas ainda dilatado a glória de sua morte por toda parte.
 
@@ -2757,17 +3922,17 @@ Por isso, em nossa peregrinação sobre a terra recebemos dele o penhor para que
 
 18. Há outras águas, creio eu, sobre esse firmamento: águas imortais e ao abrigo da corrupção terrestre. Que elas louvem teu nome! Que os povos celestes de teus anjos te louvem, pois não têm necessidade de contemplar esse firmamento, nem de ler para aprender a conhecer tua palavra! Porque eles sempre veem tua face, e ali leem, sem que as sílabas passem no tempo, o objeto de tua vontade eterna. Leem, escolhem, amam. Leem perpetuamente, e o que eles leem não passa jamais. Escolhendo-os e amando-os, leem teus imutáveis desígnios. Seu Livro jamais se fecha, jamais se enrola, porque tu mesmo és esse Livro, e o és pela eternidade; porque os estabeleceste por sobre este firmamento, levantado por ti acima da fraqueza dos povos inferiores, para que estes, olhando-o, conheçam tua misericórdia, que te anuncia no tempo, tu que criaste o tempo. Porque tua misericórdia está no céu e tua verdade se eleva até as nuvens. As nuvens passam, mas o céu permanece. Os que pregam tua palavra passam desta vida para uma outra vida, mas tua Escritura se estende por sobre os povos até o fim dos séculos. O céu e a terra hão de passar, mas tuas palavras não passarão. O pergaminho se há de enrolar, e a erva sobre o qual se estendia passará com seu brilho, mas tua palavra permanece eternamente. Agora é no enigma das nuvens e através do espelho dos céus, e não como é na realidade que ela nos aparece, porque a nós também, malgrado o amor que nos devota teu Filho, não é fácil ainda distinguir o que seremos. Ele nos olhou através de seu véu de carne, e nos acariciou, e nos inflamou de amor, e nós corremos atrás de seu perfume. Mas quando ele aparecer seremos semelhantes a ele, porque o veremos tal como ele realmente é. Vê-lo tal qual é será nossa felicidade, mas nós ainda não a possuímos.
 
-### XVI Deus, fonte de luz \*
+### XVI Deus, fonte de luz \*\*
 
 19. Do mesmo modo como só tu existes absolutamente, só tu possuis o conhecimento absoluto: imutável, com efeito, é teu ser, imutável teu saber, imutável tua vontade. Tua essência sabe e quer imutavelmente, tua ciência existe e quer imutavelmente, tua vontade existe e quer imutavelmente. Não é justo a teus olhos que a luz imutável seja conhecida pelo ser mutável, que ela ilumina, como ela se conhece a si própria. Por isso minha alma é como terra sem água, porque assim como não pode tirar de si mesma a luz, não se pode saciar por seus próprios meios. Porque em ti está a fonte da vida, e em tua luz é que veremos a luz.
 
-### XVII As águas amargas \*
+### XVII As águas amargas \*\*
 
 20. Quem reuniu em um só mar essas águas amargas? Seu fim é o mesmo: uma felicidade temporal, terrena, móvel de todas as suas ações, a despeito de inumerável diversidade de cuidados que as agitam. Quem, senão tu, Senhor, poderia dizer a essas águas que se reunissem em um só lugar, e ao elemento seco que aparecesse, sedento de ti? Porque o mar é obra tua, e tu o fizeste, e tuas mãos formaram a terra seca. Não é a amargura das vontades, mas a reunião das águas que chamamos de mar. Também refreias as paixões más das almas e fixas os limites até onde permites que avancem, a fim de que suas ondas se quebrem sobre si mesmas; e assim, crias o mar, submetendo-o à ordem de teu poder, que reina sobre todas as coisas.
 
 21. Quanto às almas sedentas de ti, que estão sob teus olhos, e que separaste das ondas do mar com outra finalidade, tu as orvalhas com uma água viva, misteriosa e doce, a fim de que a terra produza seu fruto, e a terra o produz; submissa às tuas ordens, ó Senhor que és seu Deus, nossa alma faz brotar as obras de misericórdia, de acordo com sua espécie: ela ama o próximo e vem em seu auxílio em suas necessidades temporais. Carrega em si a semente dessa piedade, em razão de uma semelhança de natureza, porque é o sentimento de nossa enfermidade que nos inclina a compadecer das misérias dos que são privados de tudo, a socorrê-los, como quiséramos que nos socorressem se estivéssemos na mesma necessidade. E não se trata apenas de apoio fácil, como uma haste ligeira, mas de proteção, de apoio enérgico, vigoroso como a árvore que carrega frutos, símbolos de benefícios, para arrancar da mão do poderoso a vítima de uma injustiça, dando-lhe um abrigo ensombreado, a ajuda sólida de uma justiça verdadeiramente justa.
 
-### XVIII Meditação \*
+### XVIII Meditação \*\*
 
 22. Senhor, do mesmo modo que crias e proporcionas alegria e força, eu te peço que nasça da terra a verdade, e que a justiça lance os olhos sobre nós do alto dos céus, e que no firmamento brilhem luminares! Dividamos nosso pão com o que tem fome, acolhamos em nossa morada o pobre sem teto, vistamos o que está nu, e não desprezemos os que pertencem à nossa mesma raça! Quando tais frutos nascem de nossa terra, olha e diz: "Isso é bom"; faze com que tua luz brilhe no momento oportuno; graças a essa messe de boas obras, por mais medíocre que seja, que nos possamos elevar a uma contemplação deliciosa do Verbo da Vida, e aparecer no mundo como luminares, fixados no firmamento de tua Escritura.
 
@@ -2781,7 +3946,7 @@ Mas a palavra de ciência, em que estão encerrados todos os mistérios, que var
 
 Quanto ao homem carnal, que, semelhante a um menino em Cristo, só bebe leite até adquirir forças para tomar alimento sólido, e que suporta o brilho do Sol, que este não se julgue abandonado em sua noite, que saiba contentar-se com a Luz da lua e das estrelas. Eis as ações que nos dás, nosso Deus, perfeitamente sábio, em teu Livro, que é nosso firmamento, para que não distingamos todas as coisas em contemplação admirável, embora ainda estejamos sob a lei dos sinais, dos tempos, dos dias e dos anos.
 
-### XIX Ainda a terra seca \*
+### XIX Ainda a terra seca \*\*
 
 24. Mas antes lavai-vos, purificai-vos, arrancai o mal de vossos corações e de meus olhos, para que se mostre a terra seca. Aprendei a fazer o bem, sede justos para com o órfão e defendei a viúva, a fim de que a terra produza erva tenra e árvores pejadas de frutos. Vinde e disputemos, diz o Senhor, e assim no firmamento do céu se acenderão luminares que brilharão por sobre a terra.
 
@@ -2795,7 +3960,7 @@ De onde vêm pois tantos espinhos, se a terra é fértil? Vá, arranca os espess
 
 Como se Deus tivesse dito "Façam-se luminares no firmamento", e logo se fez ouvir um ruído no céu, semelhante ao de um vento violento, e foram vistas línguas de fogo, que se dividiram e se colocaram sobre cada um deles, e apareceram luminares no céu, que possuíam a palavra de vida. Correi por toda parte, fogos sagrados, fogos admiráveis. Vós sois a luz do mundo, e não estais debaixo do alqueire. Aquele a quem vos unistes foi exaltado e ele vos exaltou. Correi e manifestai-vos a todas as nações.
 
-### XX Os répteis e as aves \*
+### XX Os répteis e as aves \*\*
 
 26. Que o mar também conceba e dê à luz tuas obras; que as águas produzam répteis dotados de almas vivas. Porque, separando-se o precioso do vil, vos tornastes a boca de Deus, pela qual ele diz: "Produzam as águas...", não a alma viva, filha da terra, mas répteis dourados de almas vivas, e pássaros que voam sobre a terra. Como esses répteis, teus sacramentos, ó meu Deus, deslizaram, graças às obras de teus santos, por entre as ondas das tentações do século para impregnar os povos de vosso nome em teu batismo.
 
@@ -2805,7 +3970,7 @@ Assim se fizeram grandes maravilhas, semelhantes a enormes cetáceos, e as palav
 
 28. Tudo o que fazes é belo, mas és inefavelmente mais belo tu, que criaste tudo o que existe. Se Adão não se tivesse separado de ti por sua queda, de seu seio não teria saído o oceano amargo do gênero humano com sua profunda curiosidade, seu orgulho cheio de tempestades, suas ondas instáveis. E os dispensadores de tuas palavras não teriam necessidade de representar no meio do mar imenso, por meio de operações físicas e sensíveis, teus atos e palavras místicas. Porque é nesse sentido que entendo esses répteis e essas aves; mas os homens iniciados nesses sinais, deles impregnados, não saberiam progredir além dos sacramentos materiais, aos quais estão sujeitos, se sua alma não se elevasse à vida do espírito, e, depois da primeira palavra, não tendesse à perfeição.
 
-### XXI A alma viva \*
+### XXI A alma viva \*\*
 
 29. E assim, graças a teu Verbo, não são mais as profundezas do mar, mas a terra livre do amargor das águas que produz, não mais os répteis dotados de almas vivas e os pássaros, mas a alma viva. E essa alma não mais tem necessidade de batismo (necessário para os gentios), como tinha necessidade enquanto as águas as cobriam. Porque não se entra de outro modo no reino dos céus, desde que estabeleceste que essa seria a regra. Para ter fé, ela não mais pede grandes maravilhas. É sem ter visto sinais e prodígios que ela crê, porque é terra fiel, já separada das águas do mar que a infidelidade torna amargas, e as línguas são um sinal, não para os fiéis, mas para os infiéis.
 
@@ -2817,13 +3982,13 @@ Também as aves, ainda que nascidas no mar, multiplicam-se sobre a terra. As pri
 
 31. Mas tua palavra, meu Deus, é a fonte da vida eterna, e não passa. Por isso ela nos proíbe que nos afastemos de ti por estas palavras: "Não vos conformeis com o século em que vivemos, a fim de que a terra, fertilizada pela fonte da vida, produza uma alma viva, alma que busque em tua palavra, transmitida por teus evangelistas, a força de se dominar, imitando os imitadores de teu Cristo." É assim que se deve entender a expressão "segundo sua espécie", porque o amigo gosta de imitar o amigo. "Sede como eu", diz o Apóstolo, "porque sou como vós." Assim não haverá na alma viva senão animais sem maldade, agindo com doçura. Porque nos deste este mandamento: "Fazei tudo o que fazeis com doçura, e sereis amados por todos." Também os animais domésticos serão bons: se comerem, não sofrerão por seus excessos, e, se não comerem, sua privação não lhes será dolorosa. As serpentes, tornando-se boas, serão incapazes de causar danos, mas continuarão hábeis em sua cautela; não procurarão conhecer a natureza da natureza temporal, senão na medida necessária para compreender e contemplar a eternidade através das coisas criadas. Esses animais, as paixões, obedecem à razão, quando, afastando-se de seus caminhos mortais, vivem e se tornam bons.
 
-### XXII Sentido místico da criação do homem \*
+### XXII Sentido místico da criação do homem \*\*
 
 32. Assim, Senhor, nosso Deus e nosso Criador, quando nossos sentimentos, que nos causam a morte porque nos faziam viver mal, se libertarem do amor do século, quando nossa alma, vivendo bem, começará a se tornar alma viva, e quando for cumprida a palavra que disseste pela boca de teu Apóstolo: "Não vos conformeis com o século em que vivemos", então se realizará o mandamento que acrescentaste imediatamente ao dizer: "Mas reformai-vos na novidade de vosso coração." Não disseste: "Segundo vossa espécie" como se devêssemos imitar nossos predecessores ou viver de acordo com os exemplos de um homem melhor que nós. Não disseste: "Que o homem seja feito de acordo com sua espécie", mas "façamos o homem à nossa imagem e semelhança" , para que pudéssemos reconhecer tua vontade. Para este fim o dispensador de teu pensamento, que gerou filhos pelo Evangelho, não querendo senão ter crianças para alimentar com leite e agasalhar em seu seio como uma ama, dizia: "Reformai-vos renovando vosso coração, a fim de conhecer a vontade de Deus, que é boa, agradável e perfeita." Também não dizes: "Faça-se o homem", mas "façamos o homem"; nem dizes "segundo sua espécie", mas "à nossa imagem e semelhança". Porque aquele cujo coração é renovado, e que compreende e conhece tua verdade, não tem mais necessidade de que um outro lhe ensine a imitar sua espécie. Seguindo tuas lições, ele mesmo conhece qual é tua vontade, que é boa, agradável e perfeita. Tu lhe ensinas - seu espírito é capaz de receber esse ensinamento - a ver a Trindade da Unidade e a Unidade da Trindade.
 
 Eis por que, depois desta palavra no plural: "Façamos o homem", se diz no singular: "E Deus criou o homem." Depois deste plural: "À nossa imagem", este singular: "A imagem de Deus." Assim o homem "se renova pelo conhecimento de Deus, à imagem de seu Criador" , e, "tornando-se espiritual, julga todas as coisas", que certamente hão de ser julgadas, "mas ele não é julgado por ninguém".
 
-### XXIII O julgamento do homem espiritual \*
+### XXIII O julgamento do homem espiritual \*\*
 
 33. Ele julga tudo, quer dizer: tem autoridade sobre os peixes do mar, sobre os pássaros do céu, sobre os animais domésticos e selvagens, sobre toda a terra e sobre todos os répteis que se arrastam pela superfície do solo. Exerce essa autoridade pela inteligência, que o torna apto a perceber as coisas que são do Espírito de Deus. Aliás, elevado a tão grande honra, o homem não entendeu sua dignidade, sendo comparado aos jumentos insensatos, tornando-se semelhante a eles.
 
@@ -2833,7 +3998,7 @@ Tampouco julga o homem, embora espiritual, os povos turbulentos deste século. P
 
 34. Por isso, o homem, que criaste à tua imagem, não recebeu poder sobre os luminares do céu, nem sobre o mesmo céu invisível, nem sobre esse dia e essa noite que chamaste à existência antes da criação do céu, nem sobre essa reunião das águas, que é o mar. Mas recebeu poder sobre os peixes do mar, sobre os pássaros do céu, sobre todos os animais, sobre toda a terra, e sobre tudo o que se arrasta pela superfície do solo. Ele julga e aprova o que acha bom e reprova o que acha mau, quer na celebração dos sacramentos, com que são iniciados os que tua misericórdia tira das águas profundas, quer nas cerimônias em que se serve esse peixe pescado nas profundezas e que come a terra piedosa, quer nas palavras e discursos sujeitos à autoridade de teu Livro, e que, semelhantes aos pássaros, voam debaixo do firmamento: interpretações, exposições, discussões, controvérsias, bênçãos, invocações que jorram da boca em sinais sonoros, para que o povo responda: "Amém!" É necessário que essas palavras sejam enunciadas fisicamente, e a razão disto está no abismo do século e na cegueira da carne que, impossibilitada de ver o pensamento, tem necessidade de sons que firam os ouvidos. Assim, sem dúvida é sobre a terra que os pássaros se multiplicam, embora tenham suas origens na água. O espiritual julga ainda aprovando o que encontra de bom, reprovando o que encontra de mau nas obras e nos costumes dos fiéis, em suas esmolas, comparáveis aos frutos da terra; ele julga a alma viva pelas paixões dominadas pela castidade, os jejuns, os pensamentos piedosos, na medida em que essas coisas são perceptíveis aos sentidos do corpo. Em resumo, é juiz de tudo o que pode corrigir.
 
-### XXIV Crescei e multiplicai-vos \*
+### XXIV Crescei e multiplicai-vos \*\*
 
 35. Mas que é isto? Que mistério é este? Eis que abençoas os homens, Senhor, a fim de que eles cresçam, se multipliquem e encham a terra. Não queres nisto dar-nos a entender alguma coisa? Por que também não abençoaste a luz, que chamaste dia, nem o firmamento, nem os luminares celestes, nem os astros, nem a terra, nem o mar? Eu diria, meu Deus, que nos criaste à tua imagem, diria que quiseste outorgar especialmente ao homem o benefício dessa bênção, se não tivesses abençoado igualmente os peixes e os monstros do mar, a fim de que cresçam, se multipliquem, encham as águas do mar, e os pássaros, a fim de que se multipliquem sobre a terra.
 
@@ -2853,7 +4018,7 @@ E é por isso, Senhor, que disseste, creio eu, tanto às águas como aos homens:
 
 É assim que as águas do mar se povoam, e suas vagas simbolizam as diversas interpretações, que podem receber das palavras. É assim também que a terra se povoa de gerações humanas; sua aridez se revela à sua paixão pela verdade, e está sujeita ao poder da razão.
 
-### XXV Os frutos da terra \*
+### XXV Os frutos da terra \*\*
 
 38. Quero dizer também, Senhor meu Deus, o que me sugere tua Escritura no que segue. E o farei sem medo, porque direi a verdade. Não vem de ti, acaso, a inspiração do que queres que eu diga? Não creio que eu possa ser verídico se tu não me inspirares, pois tu és a verdade própria, e todo homem é mentiroso. Por isto, quem fala mentira fala do que é seu. Logo, para falar a verdade, só falarei o que me dizes.
 
@@ -2861,7 +4026,7 @@ Tu nos deste para alimento todas as plantas que têm semente e que cobrem toda a
 
 É o que também fizeram os irmãos que, de Macedônia, lhe forneceram o que lhe faltava, produzindo também abundante messe. E como o Apóstolo se queixa de certas árvores que não lhe tinham dado o fruto devido, quando escreve: "Em minha primeira defesa ninguém me socorreu; todos me abandonaram. Não lhes seja isto imputado!" Porque esses frutos são devidos aos que nos ministram doutrina de razão, fazendo-nos compreender os mistérios divinos. E nós lhes devemos isto como a homens, como a almas vivas, que nos oferecem exemplos de todas as virtudes; e nós também os devemos a eles como a pássaros do céu, por causa das bênçãos que distribuem abundantemente sobre a terra, porque sua voz se fez ouvir abundantemente por toda a terra.
 
-### XXVI O dom e o fruto \*
+### XXVI O dom e o fruto \*\*
 
 39. Nutrem-se com esses alimentos os que neles encontram sua alegria; não encontram neles alegria os homens que têm a seu ventre por Deus. Porque também entre os que carregam esses frutos, o fruto não é o que eles dão, mas o espírito com que o dão. Por isso, aquele que servia a seu Deus e não a seu ventre, vejo claramente a fonte de sua alegria e participo plenamente de sua alegria. Ele acabava de receber os presentes que os filipenses lhe tinham mandado por intermédio de Epafrodito. Vejo bem a razão de sua alegria. E é dela que se alimentava, porque ele diz com verdade: "Alegrei-me muito no Senhor, vendo enfim reflorescer para mim vossas antigas simpatias, da qual já andáveis desgostados." Os filipenses, portanto, estavam aborrecidos, e, como que secos, não produziam mais o fruto das boas obras; e se Paulo se alegra, é por eles, porque suas simpatias tornaram a florescer, e não por ele, porque eles socorreram sua indigência. Porque ele diz em seguida: "Não é por causa de minhas necessidades que falo assim; aprendi a me contentar com o que tenho. Sei acomodar-me às privações e sei viver na abundância. Em tudo e por tudo habituei-me à saciedade e à fome, à abundância e à penúria. Tudo posso naquele que me dá forças."
 
@@ -2869,25 +4034,25 @@ Tu nos deste para alimento todas as plantas que têm semente e que cobrem toda a
 
 41. É acaso o pensamento de seus interesses que o faz dizer: "Socorrestes as minhas necessidades?" É acaso este o motivo de sua alegria? Absolutamente. E como o sabemos? Porque ele diz em seguida: "Eu não procuro o dom, mas o fruto." Aprendi contigo, meu Deus, a distinguir o dom do fruto. O dom é a própria coisa dada por aquele que acode as nossas necessidades; é o dinheiro, a comida, a bebida, a roupa, um abrigo, um auxílio. O fruto é a vontade boa e reta do doador. Porque o bom Mestre não se limita a dizer: "Aquele que receber um profeta", mas acrescenta: "na qualidade de profeta". Ele não se limita a dizer: "Aquele que receber um justo...", mas acrescenta: "na qualidade de justo". Porque somente assim um receberá a recompensa de um profeta e o outro a de um justo. Ele não diz apenas: "Aquele que der um copo de água fresca a um de meus pequeninos", mas acrescenta: "em sua qualidade de discípulos". E prossegue: "Na verdade vos digo: este não perderá sua recompensa." Dom é receber o profeta, receber o justo, dar um copo de água fresca a um discípulo; fruto é fazer isso em consideração de sua qualidade de profeta, de justo, de discípulo. É com essa espécie de frutos que Elias era alimentado pela viúva: ela sabia que dava de comer a um homem de Deus, e é por isso que o alimentava. Quanto aos alimentos que lhe eram levados pelo corvo, estes não passavam de um dom, e não era o Elias interior, mas o Elias exterior que recebia esse alimento, o que poderia morrer por falta desse alimento.
 
-### XXVII Peixes e cetáceos \*
+### XXVII Peixes e cetáceos \*\*
 
 42. Por isso, Senhor, direi diante de ti a verdade. Quando ignorantes e infiéis que, para serem iniciados e conquistados à fé, têm necessidade desses sacramentos de iniciação e desses milagres maravilhosos, significados, a meu ver, pelos peixes e pelos cetáceos, recebem teus filhos para assegurar-lhes a refeição corporal, ou auxiliá-los nas necessidades da vida presente, sem saberem por que o devem fazer, nem em vista de que devem agir, essas pessoas nem os alimentam, nem são alimentados por eles, porque os primeiros não o fazem com vontade santa e reta, e os segundos não se alegram com os dons recebidos, não descobrindo neles fruto algum. Ora, a alma só se alimenta com o que lhe proporciona alegria. É esta a razão pela qual os peixes e os cetáceos não se nutrem de alimentos que a terra não poderia produzir senão depois de separados e purificados da amargura das ondas do mar.
 
-### XXVIII A bondade da Criação \*
+### XXVIII A bondade da Criação \*\*
 
 43. Viste, meu Deus, que tudo o que criaste te pareceu excelente. Também nós vemos tua Criação, e ela nos parece excelente. Para cada espécie de obra criada, depois de ter dito: "Faça-se", e quando elas se fizeram, viste que eram boas. Sete vezes está escrito, eu as contei, que viste a bondade de tua obra; e na oitava vez contemplaste toda tua Criação, e disseste que era não apenas boa, mas excelente em seu conjunto. Consideradas separadamente, tuas obras eram apenas boas; consideradas em seu conjunto, elas eram boas e até excelentes. A beleza dos corpos também se presta ao mesmo julgamento. Um corpo, formado de membros todos belos, é muito mais bonito que todos esses membros cuja harmoniosa organização forma o conjunto, embora, considerados à parte, também eles tenham sua beleza.
 
-### XXIX A palavra de Deus e o tempo \*
+### XXIX A palavra de Deus e o tempo \*\*
 
 44. Procurei ver com atenção se foram sete ou oito vezes que viste a bondade de tuas obras quando elas te agradaram. E não achei que tua visão estivesse sujeita à lei do tempo, o que me teria feito compreender que foi esse o número de vezes que viste o que fizeste. Então disse: "Senhor, tua Escritura não é verdadeira, inspirada por ti, a própria sinceridade e verdade? Por que então me dizes que tua visão das coisas não está sujeita ao tempo, enquanto que tua Escritura me diz que cada dia viste a bondade de tuas obras? E calculei quantas vezes o fizeste."
 
 A isto me respondes, porque és meu Deus, falando com voz forte no ouvido interior de teu servo, e fazendo violência à minha surdez, me dizes gritando: "Ó homem, o que minha Escritura diz, isto também digo eu. Mas ela fala no tempo, enquanto minha Palavra nada tem a ver com o tempo, porque ela permanece em mim, eterna como eu. Assim, o que vês por meu Espírito, sou eu quem o vê; o que dizes por meu Espírito, sou eu quem o diz. Mas enquanto vês essas coisas no tempo, eu não as vejo no tempo; e assim como as dizes no tempo, eu não as digo no tempo."
 
-### XXX Um erro dos maniqueus \*
+### XXX Um erro dos maniqueus \*\*
 
 45. Ouvi, Senhor, meu Deus, tua voz, e recolhi em meu coração uma gota suave de tua verdade. Compreendi que há homens aos quais desagradam tuas obras. Eles pretendem quem foi constrangido pela necessidade que fizeste muitas delas, como a estrutura dos céus, a ordem dos astros; que não as criaste por ti mesmo, mas que elas já existiam alhures, no estado de coisas criadas; que te limitaste a reuni-las, a ordená-las, a entrelaçá-las; que com elas construíste as muralhas do mundo, depois de vencidos teus inimigos, a fim de que essa construção os mantivesse submissos, e não pudessem mais revoltar-se contra ti; que nem criaste, nem organizaste outros seres, como os organismos corpóreos, os animais pequenos e tudo o que se prende à terra por meio de raízes; que foi um espírito hostil, uma outra natureza, que não foi criada por ti, e que se opõe a ti nas regiões inferiores do mundo, que as gerou e organizou. Esses insensatos se exprimem assim porque não veem tuas obras através de teu Espírito, nem te reconhecem nelas.
 
-### XXXI A luz do Espírito Divino \*
+### XXXI A luz do Espírito Divino \*\*
 
 46. Mas os que veem tuas obras através de teu Espírito, tu és quem as vês neles. Assim, quando veem que elas são boas, tu também vês essa bondade; em tudo o que lhes agrada por tua causa, tu és que nos agradas, e o que nos agrada através de teu Espírito, é em nós que te agrada. Com efeito, quem dentre os homens sabe das coisas do homem, senão o espírito do homem que nele está? Do mesmo modo, o que está em Deus ninguém o sabe a não ser o Espírito de Deus. "Quanto a nós", diz ainda Paulo, "não nos foi dado o espírito deste mundo, mas o Espírito de Deus, a fim de que conheçamos os dons que nos veem de Deus".
 
@@ -2895,1198 +4060,32 @@ Por isso tenho razões para dizer: certamente ninguém sabe das coisas de Deus, 
 
 Por isso, uma coisa é julgar mau o que é bom, como o fazem os homens de que falei acima, e outra coisa ver que o que é bom é bom. Por exemplo: muitas pessoas amam tua Criação porque é boa, mas não te amam nessa criação; e por isso preferem gozar dela que de ti. Há ainda um terceiro caso: um homem vê que uma coisa é boa, mas é Deus que nele vê que essa coisa é boa, e é Deus que é amado em sua Criação. Ele não o poderia ser senão graças ao Espírito que Deus nos deu, porque o amor de Deus se difundiu em nossos corações pelo Espírito Santo que nos foi dado, e por quem vemos que tudo o que de algum modo existe é bom, porque recebe a existência daquele que existe, não de um modo qualquer, mas de modo absoluto.
 
-### XXXII A Criação \*
+### XXXII A Criação \*\*
 
 47. Graças te sejam dadas, Senhor! Vemos o céu e a terra, isto é, a parte superior e inferior do mundo material, ou seja, a criação espiritual e a material; e, como adorno dessas partes de que se compõe, quer o conjunto do Universo, quer o conjunto de toda a Criação, vemos que a luz foi criada e separada das trevas. Vemos o firmamento do céu, quer o que está situado entre as águas espirituais superiores e as águas materiais inferiores, o primeiro corpo do mundo que foi criado, quer ainda esses espaços de ar, chamados também de céu, onde vagueiam pássaros do céu entre as águas que se levantam em vapores e nas noites serenas se condensam em orvalho, e as que correm pesadas sobre a terra. Vemos a beleza das águas reunidas nas planícies do mar, e a terra seca, ora nua, ora tomando forma visível e ordenada, mãe das plantas e das árvores. Vemos os luminares do céu brilhando acima de nós, o Sol bastar para o dia, a Lua e as estrelas consolando a noite, e todos esses astros marcando e assinalando os momentos do tempo. Vemos pulular no elemento úmido peixes, monstros, animais alados, porque a densidade do ar que sustenta o voo dos pássaros é formada pelas emanações das águas. Vemos a face da Terra adornar-se de animais terrestres, e o homem, criado à tua imagem e semelhança, senhor de todos os animais irracionais, precisamente porque foi feito à tua imagem e se assemelha a ti, isto é, pela virtude da razão e da inteligência. E como na alma humana há uma parte que domina pela reflexão e outra que se submete e obedece, assim a mulher foi criada fisicamente para o homem; é fora de dúvida que ela possui um espírito e uma inteligência racionais, iguais aos do homem, mas seu sexo a coloca sob a dependência do sexo masculino: é desse modo que o desejo, princípio da ação, se submete à razão para dela tirar a arte de obrar retamente. Eis o que vemos, e que cada uma dessas coisas, tomadas à parte, e que todas, em seu conjunto, são muito boas.
 
-### XXXIII A matéria e a forma \*
+### XXXIII A matéria e a forma \*\*
 
 48. Que tuas obras te louvem para que te amemos, e faze que te amemos, para que tuas obras te louvem! Elas têm seu princípio e fim no tempo, seu nascimento e ocaso, seu progresso e decadência, sua beleza e seus defeitos. Elas têm, portanto, sucessivamente sua manhã e sua noite, umas de modo misterioso, outras claramente.
 
 Foram feitas por ti de nada, não de tua substância, nem de nenhuma substância estranha ou anterior a ti, mas de matéria concriada, isto é, criada por ti ao mesmo tempo. Por que sem nenhum intervalo de tempo deste forma à matéria informe. Sem dúvida, a matéria do céu e da terra é uma coisa e sua forma é outra; a matéria tu a fizeste de nada, a forma tu a tiraste da matéria informe. Contudo, criaste uma e outra simultaneamente, de maneira que entre a matéria e a forma não houvesse de permeio nenhum espaço de tempo.
 
-### XXXIV Alegoria da Criação \*
+### XXXIV Alegoria da Criação \*\*
 
 49. Também refletimos acerca do significado figurado da ordem segundo a qual se fez tua Criação e da ordem pela qual a Escritura a relata. Vimos que tuas obras, consideradas separadamente, são boas, e em seu conjunto, excelentes; em teu Verbo, em teu Filho único, vimos o céu e a terra, a cabeça e o corpo da Igreja, predestinados antes de todos os tempos, quando ainda não havia nem manhã nem tarde. E desde que começaste a executar no tempo o que decidiste fazer fora do tempo, a fim de revelar o que estava escondido e de dar ordem às nossas desordens, porque nossos pecados estavam sobre nós e nos perdíamos longe de ti em trevas profundas, e teu Espírito benevolamente pairava sobre nós, para nos socorrer no momento oportuno, tu justificaste os ímpios; tu os separaste dos pecadores; e afirmaste solidamente a autoridade de teu Livro entre os superiores, que te eram dóceis, e os inferiores, que a eles se haveriam de submeter; reuniste em um corpo único, dotado da mesma alma, a sociedade dos infiéis, a fim de que aparecesse o zelo dos fiéis fecundo em obras de misericórdia e distribuindo aos pobres os bens da terra para adquirir os do céu.
 
 Acendeste então os luminares no firmamento: teus santos, que possuíam a palavra de vida e brilhavam de sublime autoridade devida a seus dons espirituais. Depois, para converter as nações infiéis, fizeste com a matéria corporal dos sacramentos os milagres visíveis, as vozes das palavras sagradas, conformes ao firmamento de teu Livro, pelo qual seriam abençoados teus fiéis. Formaste depois a alma viva dos fiéis, pela disciplina das paixões bem-ordenadas e pela força da castidade. E depois essa alma, que não estava sujeita senão a ti, e que não tinha mais necessidade de nenhuma autoridade humana para imitar, tu a renovaste à tua imagem e semelhança; submeteste, como a mulher ao homem, a ação racional à superioridade da inteligência; e, como teus ministros são necessários ao progresso dos fiéis nesta vida, quiseste que esses mesmos fiéis lhes proporcionassem o necessário para suas necessidades temporais, boas obras cujos frutos recolherão mais tarde. Vemos todas essas coisas, e todas são muito boas, porque tu as vês em nós, tu que nos deste o Espírito, a fim de que por ele nos fosse possível vê-las e amar-te nelas.
 
-### XXXV Prece \*
+### XXXV Prece \*\*
 
 50. Senhor Deus, tu que nos deste tudo, dá-nos a paz do descanso, a paz do sábado, a paz que não tem tarde. Porque essa ordem magnífica de coisas excelentes passará quando atingir o termo de seu destino, e terá sua tarde como teve sua manhã.
 
-### XXXVI O repouso de Deus \*
+### XXXVI O repouso de Deus \*\*
 
 51. Mas o sétimo é dia sem tarde e não tem ocaso, porque o santificaste para que se prolongue eternamente. E falando-nos do repouso de teu sétimo dia, depois de ter criado tuas excelentes obras, embora as tivesses criado sem te cansares, a voz de teu Livro nos anuncia que também nós, depois de cumpridas as nossas obras, que são excelentes porque nos deste a graça de realizá-las, encontraremos o repouso em ti, no sábado da vida eterna.
 
-### XXXVII O repouso da alma \*
-
-52. Então também descansarás em nós, como hoje obras em nós; e o repouso de que gozaremos será teu, como as obras que fazemos são tuas. Mas tu, Senhor, sempre estás ativo e sempre estás em repouso. Tu não vês no tempo, não ages no tempo nem repousas no tempo. E, contudo, fazes com que vejamos no tempo, fazes o mesmo tempo e o repouso depois do tempo.
-
-</div>
-
-<div class="composition-api">
-
-# Confissões
-
-## Livro I \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: Livro I -->
-
-### I Louvor e invocação \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: I Louvor e invocação -->
-
-### II Como invocar a Deus? \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: II Como invocar a Deus? -->
-
-### III Onde está Deus? \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: III Onde está Deus? -->
-
-### IV As perfeições de Deus \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: IV As perfeições de Deus -->
-
-### V Súplica \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: V Súplica -->
-
-### VI Os primeiros anos \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VI Os primeiros anos -->
-
-### VII Os pecados da primeira infância \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VII Os pecados da primeira infância -->
-
-### VIII As primeiras palavras \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VIII As primeiras palavras -->
-
-### IX Estudos e jogos \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: IX Estudos e jogos -->
-
-### X Amor ao jogo \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: X Amor ao jogo -->
-
-### XI O batismo diferido \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XI O batismo diferido -->
-
-### XII Ódio ao estudo \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XII Ódio ao estudo -->
-
-### XIII Gosto pelo latim \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XIII Gosto pelo latim -->
-
-### XIV Aversão pelo grego \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XIV Aversão pelo grego -->
-
-### XV Oração \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XV Oração -->
-
-### XVI O mal da mitologia \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XVI O mal da mitologia -->
-
-### XVII Êxitos escolares \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XVII Êxitos escolares -->
-
-### XVIII Leis gramaticais, leis de Deus \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XVIII Leis gramaticais, leis de Deus -->
-
-### XIX Mau perdedor \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XIX Mau perdedor -->
-
-### XX Ação de graças \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XX Ação de graças -->
-
-## Livro II \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: Livro II -->
-
-### I A adolescência \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: I A adolescência -->
-
-### II As primeiras paixões \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: II As primeiras paixões -->
-
-### III Cegueira do pai, cuidados da mãe \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: III Cegueira do pai, cuidados da mãe -->
-
-### IV O furto das peras \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: IV O furto das peras -->
-
-### V A causa do pecado \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: V A causa do pecado -->
-
-### VI O crime gratuito \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VI O crime gratuito -->
-
-### VII Ação de graças \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VII Ação de graças -->
-
-### VIII O prazer da cumplicidade \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VIII O prazer da cumplicidade -->
-
-### IX O prazer do pecado \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: IX O prazer do pecado -->
-
-### X Deus, o sumo bem \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: X Deus, o sumo bem -->
-
-## Livro III \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: Livro III -->
-
-### I O gosto do amor \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: I O gosto do amor -->
-
-### II A paixão dos espetáculos \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: II A paixão dos espetáculos -->
-
-### III O estudo da retórica e os demolidores \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: III O estudo da retórica e os demolidores -->
-
-### IV O Hortênsio de Cícero \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: IV O Hortênsio de Cícero -->
-
-### V A desilusão das Escrituras \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: V A desilusão das Escrituras -->
-
-### VI A sedução do maniqueísmo \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VI A sedução do maniqueísmo -->
-
-### VII Alguns erros dos maniqueus \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VII Alguns erros dos maniqueus -->
-
-### VIII Moral e costumes \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VIII Moral e costumes -->
-
-### IX Pecados e imperfeições \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: IX Pecados e imperfeições -->
-
-### X Ridicularias dos maniqueus \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: X Ridicularias dos maniqueus -->
-
-### XI O sonho de Mônica \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XI O sonho de Mônica -->
-
-### XII Uma profecia \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XII Uma profecia -->
-
-## Livro IV \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: Livro IV -->
-
-### I Dos 19 aos 28 anos \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: I Dos 19 aos 28 anos -->
-
-### II Professor de retórica \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: II Professor de retórica -->
-
-### III A atração da astrologia \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: III A atração da astrologia -->
-
-### IV A morte do amigo \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: IV A morte do amigo -->
-
-### V O conforto das lágrimas \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: V O conforto das lágrimas -->
-
-### VI Inconsolável \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VI Inconsolável -->
-
-### VII De Tagaste para Cartago \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VII De Tagaste para Cartago -->
-
-### VIII O consolo do tempo e da amizade \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VIII O consolo do tempo e da amizade -->
-
-### IX O amigo Deus \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: IX O amigo Deus -->
-
-### X As mentiras da beleza \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: X As mentiras da beleza -->
-
-### XI A verdade de Deus \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XI A verdade de Deus -->
-
-### XII O amor em Deus \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XII O amor em Deus -->
-
-### XIII O problema do belo \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XIII O problema do belo -->
-
-### XIV Razões de uma dedicatória \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XIV Razões de uma dedicatória -->
-
-### XV Os primeiros livros \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XV Os primeiros livros -->
-
-### XVI As dez categorias de Aristóteles \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XVI As dez categorias de Aristóteles -->
-
-## Livro V \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: Livro V -->
-
-### I Oração \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: I Oração -->
-
-### II Os que fogem de Deus \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: II Os que fogem de Deus -->
-
-### III Fausto e o maniqueísmo \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: III Fausto e o maniqueísmo -->
-
-### IV Ciência e ignorância \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: IV Ciência e ignorância -->
-
-### V Loucuras de Manés \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: V Loucuras de Manés -->
-
-### VI A eloquência de Fausto \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VI A eloquência de Fausto -->
-
-### VII Desilusão \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VII Desilusão -->
-
-### VIII Viagem a Roma \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VIII Viagem a Roma -->
-
-### IX Enfermo \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: IX Enfermo -->
-
-### X Agostinho e os erros dos maniqueus \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: X Agostinho e os erros dos maniqueus -->
-
-### XI Desculpas dos maniqueus \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XI Desculpas dos maniqueus -->
-
-### XII Os estudantes de Roma \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XII Os estudantes de Roma -->
-
-### XIII Viagem a Milão. Santo Ambrósio \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XIII Viagem a Milão. Santo Ambrósio -->
-
-### XIV Catecúmeno \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XIV Catecúmeno -->
-
-## Livro VI \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: Livro VI -->
-
-### I Esperanças \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: I Esperanças -->
-
-### II Obediência de Mônica \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: II Obediência de Mônica -->
-
-### III Primeiras conquistas \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: III Primeiras conquistas -->
-
-### IV O espírito da letra \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: IV O espírito da letra -->
-
-### V Os mistérios da Bíblia \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: V Os mistérios da Bíblia -->
-
-### VI Alegria de bêbado \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VI Alegria de bêbado -->
-
-### VII Alípio \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VII Alípio -->
-
-### VIII A atração do anfiteatro \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VIII A atração do anfiteatro -->
-
-### IX Alípio, ladrão a contragosto \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: IX Alípio, ladrão a contragosto -->
-
-### X Os três amigos \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: X Os três amigos -->
-
-### XI Entre Deus e o mundo \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XI Entre Deus e o mundo -->
-
-### XII Casar ou não? \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XII Casar ou não? -->
-
-### XIII O pedido de casamento \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XIII O pedido de casamento -->
-
-### XIV Um projeto desfeito \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XIV Um projeto desfeito -->
-
-### XV A separação da amante \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XV A separação da amante -->
-
-### XVI A aproximação de Deus \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XVI A aproximação de Deus -->
-
-## Livro VII \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: Livro VII -->
-
-### I A ideia de Deus \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: I A ideia de Deus -->
-
-### II Objeção contra o maniqueísmo \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: II Objeção contra o maniqueísmo -->
-
-### III Deus e o mal \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: III Deus e o mal -->
-
-### IV A substância de Deus \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: IV A substância de Deus -->
-
-### V A origem do mal \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: V A origem do mal -->
-
-### VI O absurdo dos horóscopos \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VI O absurdo dos horóscopos -->
-
-### VII Ainda a origem do mal \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VII Ainda a origem do mal -->
-
-### VIII A piedade de Deus \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VIII A piedade de Deus -->
-
-### IX Agostinho e o neoplatonismo \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: IX Agostinho e o neoplatonismo -->
-
-### X A descoberta de Deus \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: X A descoberta de Deus -->
-
-### XI Deus e as criaturas \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XI Deus e as criaturas -->
-
-### XII O mal e o bem da Criação \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XII O mal e o bem da Criação -->
-
-### XIII Os louvores da Criação \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XIII Os louvores da Criação -->
-
-### XIV Recapitulação \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XIV Recapitulação -->
-
-### XV Deus e a Criação \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XV Deus e a Criação -->
-
-### XVI Onde está o mal \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XVI Onde está o mal -->
-
-### XVII Caminho para Deus \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XVII Caminho para Deus -->
-
-### XVIII A senda da humildade \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XVIII A senda da humildade -->
-
-### XIX A doutrina do Verbo \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XIX A doutrina do Verbo -->
-
-### XX Do platonismo às Escrituras \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XX Do platonismo às Escrituras -->
-
-### XXI A verdade das Escrituras \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXI A verdade das Escrituras -->
-
-## Livro VIII \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: Livro VIII -->
-
-### I Hesitações \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: I Hesitações -->
-
-### II Visita a Simpliciano. Conversão de Vitorino \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: II Visita a Simpliciano. Conversão de Vitorino -->
-
-### III A alegria das coisas perdidas \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: III A alegria das coisas perdidas -->
-
-### IV A conversão dos grandes \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: IV A conversão dos grandes -->
-
-### V As duas vontades \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: V As duas vontades -->
-
-### VI A narração de Ponticiano \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VI A narração de Ponticiano -->
-
-### VII A reação de Agostinho \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VII A reação de Agostinho -->
-
-### VIII Luta espiritual \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VIII Luta espiritual -->
-
-### IX A desobediência da vontade \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: IX A desobediência da vontade -->
-
-### X Contra os maniqueus \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: X Contra os maniqueus -->
-
-### XI Últimas resistências \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XI Últimas resistências -->
-
-### XII A conversão \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XII A conversão -->
-
-## Livro IX \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: Livro IX -->
-
-### I Colóquio \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: I Colóquio -->
-
-### II Adeus ao magistério \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: II Adeus ao magistério -->
-
-### III Dois amigos \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: III Dois amigos -->
-
-### IV A doçura dos salmos \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: IV A doçura dos salmos -->
-
-### V O conselho de Ambrósio \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: V O conselho de Ambrósio -->
-
-### VI Batismo de Agostinho. Seu filho Adeodato \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VI Batismo de Agostinho. Seu filho Adeodato -->
-
-### VII O canto dos fiéis. Os corpos de são Gervásio e de são Protásio \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VII O canto dos fiéis. Os corpos de são Gervásio e de são Protásio -->
-
-### VIII Mônica \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VIII Mônica -->
-
-### IX Esposa e mãe exemplar \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: IX Esposa e mãe exemplar -->
-
-### X O êxtase de Óstia \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: X O êxtase de Óstia -->
-
-### XI A morte de Mônica \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XI A morte de Mônica -->
-
-### XII As lágrimas negadas \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XII As lágrimas negadas -->
-
-### XIII Preces pela mãe morta \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XIII Preces pela mãe morta -->
-
-## Livro X \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: Livro X -->
-
-### I Finalidade do livro \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: I Finalidade do livro -->
-
-### II O que é confessar a Deus \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: II O que é confessar a Deus -->
-
-### III Por que confessar-se aos homens? \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: III Por que confessar-se aos homens? -->
-
-### IV O fruto das confissões \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: IV O fruto das confissões -->
-
-### V A ignorância do homem \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: V A ignorância do homem -->
-
-### VI Quem é Deus? \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VI Quem é Deus? -->
-
-### VII Deus e os sentidos \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VII Deus e os sentidos -->
-
-### VIII O milagre da memória \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VIII O milagre da memória -->
-
-### IX A memória intelectual \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: IX A memória intelectual -->
-
-### X Memória e sentidos \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: X Memória e sentidos -->
-
-### XI Ideias inatas \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XI Ideias inatas -->
-
-### XII A memória e as matemáticas \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XII A memória e as matemáticas -->
-
-### XIII A memória da memória \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XIII A memória da memória -->
-
-### XIV A lembrança dos sentimentos \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XIV A lembrança dos sentimentos -->
-
-### XV A memória das coisas ausentes \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XV A memória das coisas ausentes -->
-
-### XVI A memória do esquecimento \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XVI A memória do esquecimento -->
-
-### XVII Deus e a memória \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XVII Deus e a memória -->
-
-### XVIII A memória das coisas perdidas \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XVIII A memória das coisas perdidas -->
-
-### XIX A memória das lembranças \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XIX A memória das lembranças -->
-
-### XX A memória da felicidade \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XX A memória da felicidade -->
-
-### XXI A memória do que nunca tivemos \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXI A memória do que nunca tivemos -->
-
-### XXII A verdadeira felicidade \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXII A verdadeira felicidade -->
-
-### XXIII Felicidade e verdade \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXIII Felicidade e verdade -->
-
-### XXIV Deus e a memória \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXIV Deus e a memória -->
-
-### XXV Recapitulação \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXV Recapitulação -->
-
-### XXVI Onde encontrar Deus? \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXVI Onde encontrar Deus? -->
-
-### XXVII Solilóquio de amor \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXVII Solilóquio de amor -->
-
-### XXVIII A vida do homem \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXVIII A vida do homem -->
-
-### XXIX Esperança em Deus \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXIX Esperança em Deus -->
-
-### XXX Sonho e voluptuosidade \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXX Sonho e voluptuosidade -->
-
-### XXXI A intemperança \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXXI A intemperança -->
-
-### XXXII Os prazeres do olfato \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXXII Os prazeres do olfato -->
-
-### XXXIII Os prazeres do ouvido \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXXIII Os prazeres do ouvido -->
-
-### XXXIV O prazer dos olhos \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXXIV O prazer dos olhos -->
-
-### XXXV A curiosidade \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXXV A curiosidade -->
-
-### XXXVI O orgulho \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXXVI O orgulho -->
-
-### XXXVII A tentação do orgulho \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXXVII A tentação do orgulho -->
-
-### XXXVIII A vanglória \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXXVIII A vanglória -->
-
-### XXXIX O amor-próprio \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXXIX O amor-próprio -->
-
-### XL À procura de Deus \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XL À procura de Deus -->
-
-### XLI Deus e a mentira \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XLI Deus e a mentira -->
-
-### XLII Os neoplatônicos e o caminho para Deus \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XLII Os neoplatônicos e o caminho para Deus -->
-
-### XLIII Cristo, o único mediador \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XLIII Cristo, o único mediador -->
-
-## Livro XI \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: Livro XI -->
-
-### I Finalidade das confissões \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: I Finalidade das confissões -->
-
-### II A inteligência das Escrituras \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: II A inteligência das Escrituras -->
-
-### III O que disse Moisés \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: III O que disse Moisés -->
-
-### IV O céu e a terra \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: IV O céu e a terra -->
-
-### V A palavra e a Criação \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: V A palavra e a Criação -->
-
-### VI Como falou Deus? \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VI Como falou Deus? -->
-
-### VII A palavra coeterna \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VII A palavra coeterna -->
-
-### VIII A verdadeira luz \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VIII A verdadeira luz -->
-
-### IX A voz do Verbo \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: IX A voz do Verbo -->
-
-### X Que fazia Deus antes da Criação \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: X Que fazia Deus antes da Criação -->
-
-### XI Tempo e eternidade \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XI Tempo e eternidade -->
-
-### XII Deus antes da Criação \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XII Deus antes da Criação -->
-
-### XIII O tempo antes da Criação \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XIII O tempo antes da Criação -->
-
-### XIV Que é o tempo? \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XIV Que é o tempo? -->
-
-### XV Tempo longo, tempo breve \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XV Tempo longo, tempo breve -->
-
-### XVI A medida do presente \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XVI A medida do presente -->
-
-### XVII O passado e o futuro \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XVII O passado e o futuro -->
-
-### XVIII As previsões \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XVIII As previsões -->
-
-### XIX Oração \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XIX Oração -->
-
-### XX Conclusão \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XX Conclusão -->
-
-### XXI A medida do tempo \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXI A medida do tempo -->
-
-### XXII O enigma \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXII O enigma -->
-
-### XXIII O tempo e o movimento \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXIII O tempo e o movimento -->
-
-### XXIV O tempo, medida do movimento \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXIV O tempo, medida do movimento -->
-
-### XXV Prece \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXV Prece -->
-
-### XXVI O tempo, distensão da alma \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXVI O tempo, distensão da alma -->
-
-### XXVII A medida do passado \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXVII A medida do passado -->
-
-### XXVIII A medida do futuro \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXVIII A medida do futuro -->
-
-### XXIX A eternidade de Deus \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXIX A eternidade de Deus -->
-
-### XXX Deus e o tempo \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXX Deus e o tempo -->
-
-### XXXI Conclusão \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXXI Conclusão -->
-
-## Livro XII \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: Livro XII -->
-
-### I Prece \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: I Prece -->
-
-### II O céu do céu \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: II O céu do céu -->
-
-### III As trevas sobre o abismo \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: III As trevas sobre o abismo -->
-
-### IV A matéria informe \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: IV A matéria informe -->
-
-### V Sua natureza \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: V Sua natureza -->
-
-### VI Em que consiste \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VI Em que consiste -->
-
-### VII A criação do nada \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VII A criação do nada -->
-
-### VIII A terra invisível \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VIII A terra invisível -->
-
-### IX A criação do tempo \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: IX A criação do tempo -->
-
-### X Invocação à verdade \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: X Invocação à verdade -->
-
-### XI As criaturas e o Criador \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XI As criaturas e o Criador -->
-
-### XII A Criação e a eternidade \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XII A Criação e a eternidade -->
-
-### XIII O céu e a terra no Gênesis \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XIII O céu e a terra no Gênesis -->
-
-### XIV A profundidade das Escrituras \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XIV A profundidade das Escrituras -->
-
-### XV O que dizem seus inimigos \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XV O que dizem seus inimigos -->
-
-### XVI Outros adversários das Escrituras \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XVI Outros adversários das Escrituras -->
-
-### XVII Opiniões diversas sobre o céu e a terra \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XVII Opiniões diversas sobre o céu e a terra -->
-
-### XVIII Outras interpretações \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XVIII Outras interpretações -->
-
-### XIX A verdade \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XIX A verdade -->
-
-### XX O princípio e suas interpretações \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XX O princípio e suas interpretações -->
-
-### XXI A terra invisível \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXI A terra invisível -->
-
-### XXII Objeções \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXII Objeções -->
-
-### XXIII A opinião de Agostinho \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXIII A opinião de Agostinho -->
-
-### XXIV Qual a verdade? \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXIV Qual a verdade? -->
-
-### XXV Os diversos partidos \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXV Os diversos partidos -->
-
-### XXVI Agostinho no lugar de Moisés \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXVI Agostinho no lugar de Moisés -->
-
-### XXVII Os diversos sentidos da Escritura \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXVII Os diversos sentidos da Escritura -->
-
-### XXVIII Divergências \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXVIII Divergências -->
-
-### XXIX Dificuldades \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXIX Dificuldades -->
-
-### XXX Espírito de caridade \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXX Espírito de caridade -->
-
-### XXXI O Gênesis e seu autor \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXXI O Gênesis e seu autor -->
-
-### XXXII Oração \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXXII Oração -->
-
-## Livro XIII \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: Livro XIII -->
-
-### I Invocação \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: I Invocação -->
-
-### II A Criação e a bondade de Deus \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: II A Criação e a bondade de Deus -->
-
-### III A luz \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: III A luz -->
-
-### IV A bondade criadora \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: IV A bondade criadora -->
-
-### V A Trindade \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: V A Trindade -->
-
-### VI O Espírito sobre as águas \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VI O Espírito sobre as águas -->
-
-### VII As águas sem substância \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VII As águas sem substância -->
-
-### VIII À luz que ilumina as trevas \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: VIII À luz que ilumina as trevas -->
-
-### IX O amor de Deus \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: IX O amor de Deus -->
-
-### X Os dons de Deus \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: X Os dons de Deus -->
-
-### XI O homem e a Trindade \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XI O homem e a Trindade -->
-
-### XII A Criação e a Igreja \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XII A Criação e a Igreja -->
-
-### XIII Nós e a luz \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XIII Nós e a luz -->
-
-### XIV Esperança \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XIV Esperança -->
-
-### XV Símbolos \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XV Símbolos -->
-
-### XVI Deus, fonte de luz \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XVI Deus, fonte de luz -->
-
-### XVII As águas amargas \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XVII As águas amargas -->
-
-### XVIII Meditação \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XVIII Meditação -->
-
-### XIX Ainda a terra seca \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XIX Ainda a terra seca -->
-
-### XX Os répteis e as aves \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XX Os répteis e as aves -->
-
-### XXI A alma viva \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXI A alma viva -->
-
-### XXII Sentido místico da criação do homem \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXII Sentido místico da criação do homem -->
-
-### XXIII O julgamento do homem espiritual \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXIII O julgamento do homem espiritual -->
-
-### XXIV Crescei e multiplicai-vos \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXIV Crescei e multiplicai-vos -->
-
-### XXV Os frutos da terra \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXV Os frutos da terra -->
-
-### XXVI O dom e o fruto \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXVI O dom e o fruto -->
-
-### XXVII Peixes e cetáceos \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXVII Peixes e cetáceos -->
-
-### XXVIII A bondade da Criação \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXVIII A bondade da Criação -->
-
-### XXIX A palavra de Deus e o tempo \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXIX A palavra de Deus e o tempo -->
-
-### XXX Um erro dos maniqueus \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXX Um erro dos maniqueus -->
-
-### XXXI A luz do Espírito Divino \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXXI A luz do Espírito Divino -->
-
-### XXXII A Criação \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXXII A Criação -->
-
-### XXXIII A matéria e a forma \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXXIII A matéria e a forma -->
-
-### XXXIV Alegoria da Criação \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXXIV Alegoria da Criação -->
-
-### XXXV Prece \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXXV Prece -->
-
-### XXXVI O repouso de Deus \*\*
-
-<!-- PLACEHOLDER: Tradução da seção: XXXVI O repouso de Deus -->
-
 ### XXXVII O repouso da alma \*\*
 
-<!-- PLACEHOLDER: Tradução da seção: XXXVII O repouso da alma -->
+52. Então também descansarás em nós, como hoje obras em nós; e o repouso de que gozaremos será teu, como as obras que fazemos são tuas. Mas tu, Senhor, sempre estás ativo e sempre estás em repouso. Tu não vês no tempo, não ages no tempo nem repousas no tempo. E, contudo, fazes com que vejamos no tempo, fazes o mesmo tempo e o repouso depois do tempo.
 
 </div>

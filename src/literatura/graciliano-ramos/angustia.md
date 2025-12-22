@@ -63,33 +63,33 @@ Volto a ser criança, revejo a figura de meu avô, Trajano Pereira de Aquino Cav
 
 Eu andava no pátio, arrastando um chocalho, brincando de boi. Minha avó, sinha Germana, passava os dias falando só, xingando as escravas, que não existiam. Trajano Pereira de Aquino Cavalcante e Silva tomava pileques tremendos. Às vezes subia à vila, descomposto, um camisão vermelho por cima da ceroula de algodão encaroçado, chapéu de ouricuri, alpercatas e varapau. Nos dias santos, de volta da igreja, mestre Domingos, que havia sido escravo dele, e agora possuía venda sortida, encontrava o antigo senhor escorado no balcão de Teotoninho Sabiá, bebendo cachaça e jogando três-setes com os soldados. O preto era um sujeito perfeitamente respeitável. Em horas de solenidade usava sobrecasaca de chita, correntão de ouro atravessado de um bolso a outro do colete, chinelos de trança, por causa dos calos, que não aguentavam sapatos. Por baixo do chapéu duro, a testa retinta, úmida, de suor, brilhava como um espelho. Pois, apesar de tantas vantagens, mestre Domingos, quando via meu avô naquela desordem, dava-lhe o braço, levava-o para casa, curava-lhe a bebedeira com amoníaco. Trajano Pereira de Aquino Cavalcante e Silva vomitava na sobrecasaca de mestre Domingos e gritava:
 
-- Negro, tu não respeitas teu senhor não, negro!
+— Negro, tu não respeitas teu senhor não, negro!
 
 Quando o carro para, essas sombras antigas desaparecem de supetão - e vejo coisas que não me excitam nenhum interesse: os focos da iluminação pública, espaçados, cochilando, piongos, tão piongos como luzes de cemitério; um palácio transformado em albergue de vagabundos; escuridões, capoeiras, barreiras cortadas a pique no monte; a frontaria de uma fábrica de tecidos; e, de longe em longe, através de ramagens, pedaços de mangue, cinzentos. À medida que nos aproximamos do fim da linha as paradas são menos frequentes. Os postes cintados de branco passam correndo, o carro está quase vazio, as recordações da minha infância precipitam-se. E a decadência de Trajano Pereira de Aquino Cavalcante e Silva precipita-se também.
 
 Estava pegando um século quando entrou a caducar. Encolhido na cama de couro cru, mijava-se todo, contava os dedos dos pés e caía na madorna. De repente acordava sobressaltado:
 
-- Sinha Germana!
+— Sinha Germana!
 
 Meu pai largava o Carlos Magno, abria o tabaqueiro, deixava a rede, impaciente:
 
-- Que é que há?
+— Que é que há?
 
-- Homem, você não me dirá onde está sua mãe? Aqui mais de uma hora chamando essa mulher!
+— Homem, você não me dirá onde está sua mãe? Aqui mais de uma hora chamando essa mulher!
 
-- Morreu.
+— Morreu.
 
-- Que está me dizendo? - estranhava o velho arregalando os olhos quase cegos. - Quando foi isso?
+— Que está me dizendo? - estranhava o velho arregalando os olhos quase cegos. - Quando foi isso?
 
 Camilo Pereira da Silva amolava-se:
 
-- Deixe de arrelia. Morreu o ano passado.
+— Deixe de arrelia. Morreu o ano passado.
 
-- Tanto tempo! - dizia Trajano. - E vocês calados...
+— Tanto tempo! - dizia Trajano. - E vocês calados...
 
 Punha-se a folgar com os dedos e pegava no sono. Quinze minutos depois estava berrando:
 
-- Sinha Germana!
+— Sinha Germana!
 
 Acabou-se numa agonia leve que não queria ter fim. E enterrou-se na catacumba desmantelada que nossa família tinha no cemitério da vila. Mestre Domingos pegou na alça do caixão e declarou a meu pai que a morte é um mundéu. Fomos morar na vila. Meteram-me na escola de seu Antônio Justino, para desasnar, pois, como disse Camilo quando me apresentou ao mestre, eu era um cavalo de dez anos e não conhecia a mão direita. Aprendi leitura, o catecismo, a conjugação dos verbos. O professor dormia durante as lições. E a gente bocejava olhando as paredes, esperando que uma réstia chegasse ao risco de lápis que marcava duas horas. Saíamos em algazarra. Eu ia jogar pião, sozinho, ou empinar papagaio. Sempre brinquei só.
 
@@ -143,13 +143,13 @@ Voltei à sala, nas pontas dos pés. Ninguém me viu. Camilo Pereira da Silva co
 
 Sempre abafando os passos, dirigi-me novamente ao fundo do quintal, com medo daquela gente que nem me havia mandado buscar à escola para assistir à morte de meu pai. Até a preta Quitéria se esquecera de mim. Ao passar pela cozinha, encontrei-a mexendo nas panelas e lastimando-se. Sentei-me na prensa, cansado, o estômago doendo. Que iria fazer por aí à toa, miúdo, tão miúdo que ninguém me via? Encostei-me ao muro, escorreguei por cima da madeira bichada, adormeci pensando nos mergulhos do poço da Pedra, nos bolos e nos pés de Camilo Pereira da Silva. E, enquanto dormia, ouvia a cantiga dos sapos no açude da Penha, o burburinho dos intrusos que se acavalavam no corredor, o barulho do descaroçador de algodão no Cavalo-Morto. Vozes chegavam-me, confusas, e eu não conseguia apreender o sentido delas. Visões também. Via a casa da fazenda, arruinada, os bichos definhando na morrinha, o chiqueiro bodejando, relâmpagos cortando o céu. A chuva caía, eu andava pelo pátio, nu, montado num cabo de vassoura. Quem me acordou foi Rosenda, que me trazia uma xícara de café.
 
-- Muito obrigado, Rosenda.
+— Muito obrigado, Rosenda.
 
 E comecei a soluçar como um desgraçado.
 
 Desde esse dia tenho recebido muito coice. Também me apareceram alguns sujeitos que me fizeram favores. Mas até hoje, que me lembre, nada me sensibilizou tanto como aquele braço estirado, aquela fala mansa que me despertava.
 
-- Obrigado, Rosenda.
+— Obrigado, Rosenda.
 
 Iam levando o cadáver de Camilo Pereira da Silva. Corri para a sala, chorando. Na verdade chorava por causa da xícara de café de Rosenda, mas consegui enganar-me e evitei remorsos.
 
@@ -181,11 +181,11 @@ Tenho contudo a impressão de que os transeuntes me olham espantados por eu esta
 
 Imóvel. Camilo Pereira da Silva também estava imóvel, debaixo da terra. D. Conceição vinha oferecer-me comida. As meninas dela, d. Maria e Teresa, tentavam consolar-me. Retraía-me como um animal acuado, fechava os ouvidos às consolações, cerrava os olhos, apalpava a cabeça e sentia a dureza de ossos, dava estalos com os dedos e ouvia o som de ossos.
 
-- Obrigado, muito obrigado.
+— Obrigado, muito obrigado.
 
 Não precisava de nada. Os ossos de Camilo Pereira da Silva desconjuntavam-se na podridão da cova, e a alma já não me fazia medo. Era uma alma que envelhecia e estava fora da terra, provavelmente no purgatório. Quitéria rezava alto na cozinha:
 
-- Ofereço este padre-nosso e esta ave-maria às almas do purgatório.
+— Ofereço este padre-nosso e esta ave-maria às almas do purgatório.
 
 Era lá que devia estacionar uma parte de meu pai, curando uns restos de pecados. Leves pecados. Apenas muita preguiça. Por isso eu aguentava fome e ouvia as lamentações de Quitéria.
 
@@ -201,19 +201,19 @@ Há o grupo dos médicos, o dos advogados, o dos comerciantes, o dos funcionári
 
 Pois ultimamente precisei renunciar ao café, por causa de Moisés. Ele também se esquivava. Há dias deu de cara comigo ao dobrar uma esquina e empalideceu, balbuciou na sua língua avariada:
 
-- Olá! Como vai? Estou com muita pressa.
+— Olá! Como vai? Estou com muita pressa.
 
 É um péssimo cobrador. Dei-lhe este mês cem mil-réis para pôr termo a esses vexames. Mas ainda devo muito, nem sei quanto. A culpa é minha. Quando me vendeu as fazendas, Moisés foi franco:
 
-- Isto é caro como o diabo. Você faz melhor negócio comprando a dinheiro noutra loja.
+— Isto é caro como o diabo. Você faz melhor negócio comprando a dinheiro noutra loja.
 
 Mas eu estava na pindaíba e precisava adquirir os trapos para Marina. Desde então venho suando para reduzir o débito. Quando me atraso, Moisés foge de mim. Agora, depois de receber o cobre, declarou-me que as mercadorias já tinham sido pagas. Infelizmente não me podia dar quitação, porque os troços que vende são do tio, judeu verdadeiro.
 
-- Está muito bem.
+— Está muito bem.
 
 E o constrangimento desapareceu. Às seis horas estamos de novo sentados junto à vitrina dos cigarros. Moisés fala com abundância, desforrando-se do silêncio em que estivemos ultimamente. Procura a expressão, coça a testa, franze os beiços numa careta que lhe mostra os dentes largos e diz:
 
-- Está percebendo?
+— Está percebendo?
 
 Sim, percebo, embora ele tenha sintaxe medonha e pronúncia incrível. Faz rodeios fatigantes, deturpa o sentido das palavras e usa esdrúxulas de maneira insensata. Escuto-o. Os ouvidos são para ele, os olhos para as figuras habituais do café. Os olhos estão quase invisíveis por baixo da aba do chapéu, e uma folha da porta oculta-me o corpo. Uma criaturinha insignificante, um percevejo social, acanhado, encolhido para não ser empurrado pelos que entram e pelos que saem.
 
@@ -225,63 +225,63 @@ De repente cala-se: foi o doutor chefe de polícia que apareceu e começou a coc
 
 Estava tão abandonado neste deserto... Só se dirigiam a mim para dar ordens:
 
-- Seu Luís, é bom modificar esta informação. Corrija isto, seu Luís.
+— Seu Luís, é bom modificar esta informação. Corrija isto, seu Luís.
 
 Fora daí, o silêncio, a indiferença. Agradavam-me os passageiros que me pisavam os pés, nos bondes, e se voltavam atenciosos:
 
-- Perdão, perdão. Faz favor de desculpar.
+— Perdão, perdão. Faz favor de desculpar.
 
-- Sem dúvida. Ora essa.
+— Sem dúvida. Ora essa.
 
 Ou então:
 
-- Tem a bondade de me dizer onde fica a rua do Apolo?
+— Tem a bondade de me dizer onde fica a rua do Apolo?
 
-- Perfeitamente, minha senhora. Vamos para lá. É o meu caminho.
+— Perfeitamente, minha senhora. Vamos para lá. É o meu caminho.
 
 Agora estou defronte de um amigo, amigo que me liga pouca importância, é verdade, amigo todo entregue aos telegramas estrangeiros, mas que me custou cem mil-réis. Parece-me que até certo ponto Moisés é propriedade minha. Os cem mil-réis me vão fazer muita falta.
 
 Estremeço: dr. Gouveia entra na sala, marcha para a vitrina dos cigarros.
 
-- Vamos dar o fora, Moisés?
+— Vamos dar o fora, Moisés?
 
 Dois minutos depois estamos sentados num banco da praça Montepio. Aqui há sossego, não vêm cá certos indivíduos impertinentes. O que me desgosta é ver de relance, nos bancos do centro, que a folhagem disfarça mal, pessoas atracadas. Sinto furores de moralista. Cães! Amando-se em público, descaradamente! Cães! Tremo de indignação. Depois esmoreço: julguei distinguir entre as folhas dos crótons o vulto de Marina. Foi ilusão, mas a imagem permanece. Cachorrada!
 
 Moisés fala em políticos reacionários. Encho-me de ferocidade:
 
-- Malandros! ladrões!
+— Malandros! ladrões!
 
 Agora Moisés está contando as perseguições aos judeus, na Europa. Lembro-me do tio dele e digo comigo que provavelmente a narração é exagerada. Se Moisés não fosse inteligente, com certeza muitos daqueles fatos não existiriam. Sofrimentos. Iniquidades.
 
-- Aqui há tanto disso! Mas somos fatalistas, estamos habituados e não temos imaginação como vocês.
+— Aqui há tanto disso! Mas somos fatalistas, estamos habituados e não temos imaginação como vocês.
 
 Entro a falar sobre a minha vida de cigano, de fazenda em fazenda, transformado em mestre de meninos. Quando ensinava tudo que seu Antônio Justino me ensinara, passava a outra escola. Tinha o sustento. Depois era a caserna. Todas as manhãs nos exercícios. - "Meia-volta! Ordinário!" As peças do fuzil, marchas na lama, a bandeira nacional, o hino, as tarimbas sujas, os desaforos do sargento. Em seguida vinha a banca de revisão: seis horas de trabalho por noite, os olhos queimando junto a um foco de cem velas, cinco mil-réis de salário, multas, suspensões.
 
 E coisas piores, que me envergonham e não conto a Moisés. Empregos vasqueiros, a bainha das calças roída, o estômago roído, noites passadas num banco, importunado pelo guarda. Farejava o provinciano de longe, conhecia o nordestino pela roupa, pela cor desbotada, pela pronúncia. E assaltava-o:
 
-- Um filho do Nordeste, perseguido pela adversidade, apela para a generosidade de v. exa.
+— Um filho do Nordeste, perseguido pela adversidade, apela para a generosidade de v. exa.
 
 Valorizava a esmola:
 
-- Trago um romance entre os meus papéis. Compus um livro de versos, um livro de contos. Sou obrigado a recorrer aos meus conterrâneos. Até que me arranje, até que possa editar as minhas obras.
+— Trago um romance entre os meus papéis. Compus um livro de versos, um livro de contos. Sou obrigado a recorrer aos meus conterrâneos. Até que me arranje, até que possa editar as minhas obras.
 
 Recebia, com um sorriso, o níquel e o gesto de desprezo. O frege-moscas fedia a vinho podre, e o galego, de tamancos, coberto de nódoas, era asqueroso. Mais tarde, já aqui em Maceió, gastando sola pelas repartições, indignidades, curvaturas, mentiras, na caça ao pistolão.
 
-- Escrevi muito atacando a República Velha, doutor; sacrifiquei-me, endividei-me, estive preso por causa da ideologia, doutor.
+— Escrevi muito atacando a República Velha, doutor; sacrifiquei-me, endividei-me, estive preso por causa da ideologia, doutor.
 
 Afinal, para se livrarem de mim, atiraram-me este osso que vou roendo com ódio.
 
-- Chegue mais cedo amanhã, seu Luís.
+— Chegue mais cedo amanhã, seu Luís.
 
 E eu chego.
 
-- Informe lá, seu Luís.
+— Informe lá, seu Luís.
 
 E eu informo. Como sou diferente de meu avô!
 
 Um dia um cabra de Cabo Preto apareceu na fazenda com uma carta do chefe. Deixou o clavinote encostado a um dos juazeiros do fim do pátio, e de longe ia varrendo o chão com a aba do chapéu de couro. Trajano Pereira de Aquino Cavalcante e Silva soletrou o papel que o homem lhe deu e mandou Amaro laçar uma novilha. O cabra jantou, recebeu uma nota de vinte mil-réis, que naquele tempo era muito dinheiro, e atravessou o Ipanema, tangendo o bicho. Dia de Natal meu avô foi à vila, com a mulher, e encontrou no caminho o grupo de Cabo Preto, que se meteu na capoeira para não assustar a dona. Sinha Germana, de saias arregaçadas, escanchada na sela, um mosquetão na maçaneta, não viu nada, mas meu avô fez um gesto de agradecimento aos angicos e aos mandacarus que marginavam a estrada. Quando a política de padre Inácio caiu, o delegado prendeu um cangaceiro de Cabo Preto. O velho Trajano subiu à vila e pediu ao doutor juiz de direito a soltura do criminoso. Impossível. Andou, virou, mexeu, gastou dinheiro com habeas corpus - e o doutor duro como chifre.
 
-- Está direito - exclamou Trajano plantando o sapatão de couro cru na palha da cadeira do juiz. - Eu vou soltar o rapaz.
+— Está direito - exclamou Trajano plantando o sapatão de couro cru na palha da cadeira do juiz. - Eu vou soltar o rapaz.
 
 No sábado reuniu o povo da feira, homens e mulheres, moços e velhos, mandou desmanchar o cercado do vigário, armou todos com estacas e foi derrubar a cadeia.
 
@@ -301,17 +301,17 @@ Torrado no caco.
 
 O papagaio prega na velha o olho redondo. Em seguida cerra as pálpebras e baixa a cabeça. Às vezes se aborrece da gaiola e bate as asas. A dona corre para o quintal e espia a folhagem da mangueira:
 
-- Meu louro, meu louro! Currupaco, papaco. Meu louro! Onde andará o sem-vergonha desse papagaio?
+— Meu louro, meu louro! Currupaco, papaco. Meu louro! Onde andará o sem-vergonha desse papagaio?
 
 Só se acomoda depois de percorrer a vizinhança e encontrar o fugitivo. Pega então a parolar com ele, que não diz nada. Quando se cansa, agarra o jornal e lê com atenção os nomes dos navios que chegam e dos que saem. Nunca embarcou, sempre viveu em Maceió, mas tem o espírito cheio de barcos. Dá-me frequentemente notícias deste gênero:
 
-- O Pedro ii chega amanhã. O Aratimbó vem com atraso. Terá havido desastre?
+— O Pedro ii chega amanhã. O Aratimbó vem com atraso. Terá havido desastre?
 
 Não sei como se pode capacitar de que a comunicação me interessa. Há três anos, quando a conheci, a mania dela me espantava. Agora estou habituado. Leio o jornal e deixo-o em cima da mesa, dobrado na página em que se publica o movimento do porto. Vitória toma a folha e vai para a cozinha ler ao papagaio a lista dos viajantes.
 
 No princípio do mês, quando se aproxima o recebimento do ordenado, excita-se e não larga o Diário Oficial.
 
-- Faltam dois dias, falta um dia, é hoje.
+— Faltam dois dias, falta um dia, é hoje.
 
 E faz cálculos que não acabam, cálculos inúteis, porque não gasta nada: usa os meus sapatos velhos e traz um xale preto amarelento que deve ter dez anos. Recolhe a mensalidade e mete-se no fundo do quintal, põe-se a esgaravatar a terra como se plantasse qualquer coisa. Esquece os navios e as lições ao papagaio.
 
@@ -319,11 +319,11 @@ Volta a tratar das ocupações domésticas, mas de quando em quando lá vai rond
 
 Observo esses manejos. Sentindo-se observada, levanta-se, deita água no caco das galinhas, vai ao banheiro, sai com uma braçada de roupa, que estende no arame esticado entre a cerca e um dos ramos da mangueira. Entra em casa, abre o jornal e anuncia:
 
-- O delegado fiscal viajou ontem.
+— O delegado fiscal viajou ontem.
 
 Nota, pela minha cara, que o delegado fiscal não me interessa e dá uma notícia importante:
 
-- O arcebispo chegou do Rio.
+— O arcebispo chegou do Rio.
 
 Escapole-se, vai consertar a cerca, tapar os buracos por onde passam bichos que estragam a horta. Da minha cadeira vejo-lhe o cocó grisalho, a cabeça curva, atenta sobre a terra que escava, fingindo tratar dos canteiros ou fincar as estacas da cerca. No outro dia tirará as estacas, que, de tanto removidas, fizeram ali uma espécie de porteira.
 
@@ -339,35 +339,35 @@ Logo que me entrou em casa, descobri nela uma particularidade alarmante. Sou um 
 
 Assustei-me a princípio, depois me tranquilizei. A nota de cinquenta mil-réis foi achada entre as páginas de um livro. E as moedas voltam para os lugares donde saíram. Finjo não prestar atenção a elas, para a mulher não se ofender, meto algumas no bolso, com indiferença. Só quando estou necessitado, digo por alto, escolhendo as palavras:
 
-- Vitória, hoje pela manhã deixei cair umas pratas no chão. Apanhei duas ou três, mas parece que as outras rolaram para trás da cama. Você, varrendo o quarto, não terá encontrado algumas?
+— Vitória, hoje pela manhã deixei cair umas pratas no chão. Apanhei duas ou três, mas parece que as outras rolaram para trás da cama. Você, varrendo o quarto, não terá encontrado algumas?
 
 Vitória estica-se, o pescoço encarquilhado incha, os olhos miúdos fuzilam, as verrugas tremem indignadas:
 
-- O senhor tem cada uma! Se não está satisfeito comigo, é dizer. Já vivi em muita casa de gente rica, seu Luís. Criei-me vendo dinheiro, seu Luís. Se não está achando bom, é arriar a trouxa. Desconfiança comigo, não.
+— O senhor tem cada uma! Se não está satisfeito comigo, é dizer. Já vivi em muita casa de gente rica, seu Luís. Criei-me vendo dinheiro, seu Luís. Se não está achando bom, é arriar a trouxa. Desconfiança comigo, não.
 
-- Deixe disso, criatura. Quem falou em desconfiança? É que derrubei as moedas. Que você não viu está claro, não se discute. Dê uma busca.
+— Deixe disso, criatura. Quem falou em desconfiança? É que derrubei as moedas. Que você não viu está claro, não se discute. Dê uma busca.
 
-- Ah! - exclama Vitória. - Eu não tinha compreendido bem.
+— Ah! - exclama Vitória. - Eu não tinha compreendido bem.
 
 Torna-se amável, coça o queixo cabeludo, puxa conversa fora de propósito, a voz sumida, uns risinhos encabulados. Julgando-me distraído, afasta-se nas pontas dos pés, olhando-me com o rabo do olho, e vai apanhar alfaces. Daí a pouco volta, entra no quarto, arrasta a cama, examina os cantos da parede:
 
-- Só vejo teia de aranha.
+— Só vejo teia de aranha.
 
 De repente aparece chocalhando as moedas:
 
-- Estão aqui. Não sei quando o senhor quer tomar jeito. A vida inteira perdendo dinheiro!
+— Estão aqui. Não sei quando o senhor quer tomar jeito. A vida inteira perdendo dinheiro!
 
 Guardo algumas pratas e deixo o resto em cima da mesa. Não há perigo. Receio é que Vitória se engane nas contas e me traga mais que o que tirou.
 
 Em janeiro do ano passado estava eu uma tarde no quintal, deitado numa espreguiçadeira, fumando e lendo um romance. O romance não prestava, mas os meus negócios iam equilibrados, os chefes me toleravam, as dívidas eram pequenas - e eu rosnava com um bocejo tranquilo:
 
-- Tem coisas boas este livro.
+— Tem coisas boas este livro.
 
 Lia desatento, e as letras esmoreciam na sombra que a mangueira estirava sobre o quintal.
 
 Moisés e Pimentel apareciam-me às vezes, e alguns rapazes acanhados vinham pedir-me em segredo artigos e composições poéticas, que eu vendia a dez, a quinze mil-réis. Isto chegava para o aluguel da casa - e dr. Gouveia não me importunava. Distraía-me com leituras inúteis. Quando me caía nas mãos uma obra ordinária, ficava contentíssimo:
 
-- Ora, muito bem. Isto é tão ruim que eu, com trabalho, poderia fazer coisa igual.
+— Ora, muito bem. Isto é tão ruim que eu, com trabalho, poderia fazer coisa igual.
 
 Os livros idiotas animam a gente. Se não fossem eles, nem sei quem se atreveria a começar.
 
@@ -379,21 +379,21 @@ O vulto que se mexia não era a senhora idosa: era uma sujeitinha vermelhaça, d
 
 Onde andaria a senhora idosa, que todas as manhãs ia regar as plantas, com um pano branco amarrado à cabeça? Mudara-se, provavelmente, e aquela que ali estava devia ser moradora nova.
 
-- Sim senhor - disse comigo -, muito poética, aí entre as roseiras, com os cabelos pegando fogo e a cara pintada.
+— Sim senhor - disse comigo -, muito poética, aí entre as roseiras, com os cabelos pegando fogo e a cara pintada.
 
 Sentia a ausência da senhora idosa, cheia de rugas, tranquila, um pano amarrado à cabeça e o regador na mão, movendo-se tão devagar que era como se estivesse parada. Essa outra estava em todos os lugares ao mesmo tempo, ocupava o quintal inteiro. Um azougue.
 
-- Que diabo tem ela?
+— Que diabo tem ela?
 
 E mergulhei na leitura, desatento, está claro, porque o livro não valia nada. Virava a página muitas vezes, e quando isto acontecia, olhava, fingindo desinteresse, a mulher dos cabelos de fogo. Tinha as unhas pintadas.
 
-- Lambisgoia!
+— Lambisgoia!
 
 Fiquei lendo o romance, péssimo romance, enquanto a tipinha se mexeu entre as roseiras. Notei, notei positivamente que ela me observava. Encabulei. Sou tímido: quando me vejo diante de senhoras, emburro, digo besteiras. Trinta e cinco anos, funcionário público, homem de ocupações marcadas pelo regulamento. O Estado não me paga para eu olhar as pernas das garotas. E aquilo era uma garota. Além de tudo sei que sou feio. Perfeitamente, tenho espelho em casa. Os olhos baços, a boca muito grande, o nariz grosso. Como se chamava a senhora idosa que vinha regar as plantas? A verdade é que nunca me empatou a leitura. Fiquei ali até que escureceu e a mulherinha deu o fora. Mais tarde informei-me:
 
-- Ó Vitória, a vizinha aqui da direita mudou-se?
+— Ó Vitória, a vizinha aqui da direita mudou-se?
 
-- Morreu - disse Vitória depois de me fazer repetir a pergunta quatro vezes, porque era lua nova e ela estava inteiramente surda. - O senhor não viu o enterro? Pois é. Agora há outros moradores.
+— Morreu - disse Vitória depois de me fazer repetir a pergunta quatro vezes, porque era lua nova e ela estava inteiramente surda. - O senhor não viu o enterro? Pois é. Agora há outros moradores.
 
 Pobre da velha. Morta e enterrada, e eu nem havia percebido alteração na casa.
 
@@ -401,7 +401,7 @@ Moisés e Pimentel apareceram à noite e conversaram muito, mas ouvi-os distraí
 
 Além das plantas mencionadas, havia também um mamoeiro no quintal vizinho. Era engraçada o diabo da pequena. Para o inferno. Um homem lido e corrido, pegando trinta e cinco anos, amolecendo, preocupando-se com aquela guenza!
 
-- Vamos deixar de tolice.
+— Vamos deixar de tolice.
 
 E contrariei Pimentel e Moisés, arranjei umas opiniões descabidas, porque realmente não sabia o que eles estavam dizendo.
 
@@ -411,33 +411,33 @@ Apesar destas desvantagens, os negócios não iam mal. E foi exatamente por me c
 
 Nestes últimos tempos nem por isso. Antigamente era uma existência de cachorro. As mulheres tinham cheiros excessivos, e eu me sentia impelido violentamente para elas. Mas a voz do chefe da revisão estava colada aos meus ouvidos:
 
-- Suspenso por cinco dias, seu Silva.
+— Suspenso por cinco dias, seu Silva.
 
 A unha suja de tinta riscava na prova o corpo de delito. Vida de cachorro. Como iria pagar a pensão?
 
-- D. Aurora, tenha paciência. Veja se me arranja um quarto mais barato. Os tempos andam safados, d. Aurora.
+— D. Aurora, tenha paciência. Veja se me arranja um quarto mais barato. Os tempos andam safados, d. Aurora.
 
 As ruas estavam cheias de mulheres. E o rato roía-me por dentro.
 
 Ora, um dia, sem motivo, convidei d. Aurora para o cinema. Tenho desses rompantes idiotas. Faço uma tolice sabendo perfeitamente que estou fazendo tolice. Quando tento corrigir o disparate, caio noutro e cada vez mais me complico. Foi o que se deu. Convidei d. Aurora e a neta para o cinema. Arrependi-me e ofereci-lhes refrescos. Aceitaram tudo - e começou a minha tortura. Lá fui com elas, capiongo, pagar bonde, sorvetes e três cadeiras. Tipo besta.
 
-- Aguenta, maluco, trouxa, filho de uma puta.
+— Aguenta, maluco, trouxa, filho de uma puta.
 
 E contava mentalmente o dinheiro suado e mesquinho. Na sala de projeção a neta de d. Aurora abriu um leque enorme em cima das coxas e meteu a minha perna entre as dela. Subitamente o rato deixou de roer-me. O que eu estava era indignado. E calculava. Três passagens de bonde - mil e duzentos. Três sorvetes - três vezes cinco, quinze. E entradas no cinema. As coxas da moça eram frias. Com certeza fazia aquilo por hábito. Naquele tempo eu andava como um bode. Mas esfriei também. Cinco mil-réis por seis horas de trabalho à noite, suspensões, multas, o jornal indo para cima e para baixo. Era um sofrimento a ideia de que no fim da quinzena ficaríamos sem o cobre que estava enganchado.
 
-- Hoje ninguém recebe.
+— Hoje ninguém recebe.
 
 Lá ia, de cabeça baixa, beber um copo de caldo de cana e comer um pastel. Os níqueis amarrados como dinheiro de matuto. Pois, numa quebradeira assim, bonde, sorvete, cinema. E ainda faltavam as passagens de volta. A fita era tão comprida! A moça tinha as pernas frias.
 
 Aquela que estava ali a meia dúzia de passos, cortando os ramos secos das roseiras, vermelha como pimenta, os braços levantados mostrando os sovacos, devia ser quente demais.
 
-- Carga de risco!
+— Carga de risco!
 
 A mulher sardenta e sarará tinha traços dela.
 
 Com o livro esquecido nos joelhos, o cigarro apagado, o olho meio cerrado, lembrei-me com preguiça de coisas vagas, sem importância. Havia no Cavalo-Morto uma rapariga desbragadíssima. Não tinha decoro, amava aos gritos, como os gatos e os ciganos. Em horas de recolhimento natural berrava danadamente:
 
-- Rasga, diabo! Vai fazer isso com tua mãe, peste!
+— Rasga, diabo! Vai fazer isso com tua mãe, peste!
 
 Eu era muito moço, e aquela fúria me espantava. Amores selvagens.
 
@@ -445,41 +445,41 @@ Da janela de seu Antônio Justino via-se um jardim bem tratado, onde três mulhe
 
 Berta, uma alemãzinha bonita que antigamente conheci, também tinha as unhas pintadas e pontiagudas. Aquilo arranhava docemente. A primeira mulher de jeito com quem me atraquei. Eu levava no bolso uns dinheiros curtos ganhos no jogo e a carta de recomendação que um deputado, depois de muitos salamaleques e muitas viagens, me havia dado na câmara para o diretor de um jornal. Cada solecismo horrível. Metia a mão no bolso e certificava-me de que as pelegas machucadas e os solecismos existiam. Ia de cabeça baixa, ruminando projetos. De repente uma voz estrangeirada, cheia de rr, gargarejou perto de mim:
 
-- Senhor não quer entrar?
+— Senhor não quer entrar?
 
 E duas mãos miúdas agarraram-me um braço, arrastaram-me por uma porta até a escada. Escorei-me ao corrimão, acuado, pigarreei com um nó na garganta:
 
-- Madame, eu sou um bicho do mato, nunca me encostei a uma pessoa como a senhora. Seja franca, madame. Quanto é que lhe devo dar?
+— Madame, eu sou um bicho do mato, nunca me encostei a uma pessoa como a senhora. Seja franca, madame. Quanto é que lhe devo dar?
 
 Berta era engraçada: lourinha, gordinha, uma voz suave, apesar dos rr.
 
-- Deixa disso. Não faz feio.
+— Deixa disso. Não faz feio.
 
 E eu, a mão no bolso, apertando os cobres:
 
-- Não brinque, madame. Sou um sertanejo, um bruto, um selvagem. Quanto é que a senhora costuma receber?
+— Não brinque, madame. Sou um sertanejo, um bruto, um selvagem. Quanto é que a senhora costuma receber?
 
 Bonitinha, Berta. E mais decente que a neta de d. Aurora. Bonde, cinema, refrescos. Menina viciada. Dagoberto fugia dela. Uma piranha. Ser roído por aquilo! Ah! não. Lembrava-me dos bancos do passeio, das botinas de elástico bambo.
 
-- Senhor, um nordestino perseguido pela adversidade apela para v. excia.
+— Senhor, um nordestino perseguido pela adversidade apela para v. excia.
 
 E o frege-moscas fedorento, as toalhas cobertas de nódoas de vinho, boia nauseabunda, o galego, de tamancos, sujo, cantando. Com semelhantes recordações, quem pensa em mulheres?
 
 A mocinha, no lado de lá da cerca, não me dava atenção. Perua. Cabelos de milho, unhas pintadas, beiços vermelhos e o pernão aparecendo.
 
-- Às vezes aquilo é só a casca. Por baixo - marcas de feridas e molambos. Sirigaita. Sou um homem prático, passado pelos corrimboques do diabo, lido e corrido. Para o inferno.
+— Às vezes aquilo é só a casca. Por baixo - marcas de feridas e molambos. Sirigaita. Sou um homem prático, passado pelos corrimboques do diabo, lido e corrido. Para o inferno.
 
 Levantei-me, aprumei-me e recolhi-me, com o livro debaixo do braço, a cara enferrujada, importante. Na véspera o diretor me tinha dito:
 
-- Necessitamos um governo forte, seu Luís, um governo que estique a corda. Esse povo anda de rédea solta. Um governo duro.
+— Necessitamos um governo forte, seu Luís, um governo que estique a corda. Esse povo anda de rédea solta. Um governo duro.
 
 E eu havia concordado, naturalmente:
 
-- É o que eu digo, doutor. Um governo duro. E que reconheça os valores.
+— É o que eu digo, doutor. Um governo duro. E que reconheça os valores.
 
 Considerava-me um valor, valor miúdo, uma espécie de níquel social, mas enfim valor. O aluguel da casa estava pago. Andava em todas as ruas sem precisar dobrar esquinas. Por uma diferença de dois votos, tinha deixado de ser eleito secretário da Associação Alagoana de Imprensa. Quinhentos mil-réis de ordenado. Com alguns ganchos, embirava uns setecentos. Podia até casar. Casar ou amigar-me com uma criatura sensata, amante da ordem. Nada de melindrosas pintadas. Mulher direita, sisuda. Passar a vida naquela insipidez, aguentando uma criada surda, reumática, cheia de manias!
 
-- Ó Vitória - gritei ao ouvido da velha -, quem é essa gente que chegou aí ao lado?
+— Ó Vitória - gritei ao ouvido da velha -, quem é essa gente que chegou aí ao lado?
 
 Vitória não sabia. Tentei ler um artigo político de Pimentel, mas estava distraído, pensava em Berta, na neta de d. Aurora e na rapariga do Cavalo-Morto. Deitei-me cedo. Não pude dormir: os cabelos de fogo, os olhos e especialmente as pernas da vizinha começaram a bulir comigo. Aquilo devia ser uma pimenta. Passei a noite imaginando cenas terríveis com ela. No outro dia levantei-me aperreado. Quando me aparecem esses acessos, fico assim uma semana, calado, murcho, pensando em safadezas.
 
@@ -493,59 +493,59 @@ O meu horizonte ali era o quintal da casa à direita: as roseiras, o monte de li
 
 Tornei-me, pois, amigo de Marina. Com certeza começamos por olhares, movimentos de cabeça, sorrisos, como sempre acontece. Depois, palavra aqui, palavra ali, em pouco tempo estávamos camaradas, tratando-nos por você. Procurando reproduzir os nossos diálogos, compreendo que não dizíamos nada. Frívola, incapaz de agarrar uma ideia, a mocinha pulava como uma cabra em redor dos canteiros e pulava de um assunto para outro. O que me aborrecia nela eram certas inclinações imbecis ou safadas.
 
-- Por que é que você não manda fazer um smoking, Luís? Um rapaz que ganha dinheiro andar com essas roupas mal-amanhadas! Eu, se fosse você, brilhava, vivia no trinque.
+— Por que é que você não manda fazer um smoking, Luís? Um rapaz que ganha dinheiro andar com essas roupas mal-amanhadas! Eu, se fosse você, brilhava, vivia no trinque.
 
 Eu pilheriava com ela:
 
-- Marina, nem só de smoking vive o homem.
+— Marina, nem só de smoking vive o homem.
 
 Outras vezes:
 
-- D. Mercedes estava hoje chamando a atenção de todo mundo na igreja do Rosário. Vestido cor de cinza com vivos encarnados, luvas cor de cinza, bolsa encarnada, chapéu encarnado e sapatos encarnados. Você gosta do encarnado?
+— D. Mercedes estava hoje chamando a atenção de todo mundo na igreja do Rosário. Vestido cor de cinza com vivos encarnados, luvas cor de cinza, bolsa encarnada, chapéu encarnado e sapatos encarnados. Você gosta do encarnado?
 
 D. Mercedes é uma espanhola madura da vizinhança, amigada em segredo com uma personagem oficial que lhe entra em casa alta noite. Possui mobília complicadíssima, passa os dias olhando-se ao espelho e polindo as unhas, metida num penhoar de seda, e quando mergulha na banheira, sente-se de longe o cheiro da água-de-colônia. Marina admirava-a com exagero, arregalando os olhos:
 
-- D. Mercedes é linda. Parece uma artista de cinema.
+— D. Mercedes é linda. Parece uma artista de cinema.
 
 Eu me aperreava:
 
-- Que tolice! Você elogiando uma tipa ordinária, uma galega de arribação que ninguém sabe donde saiu! Não está direito. Uma bicha feia e velha, um couro, um canhão!
+— Que tolice! Você elogiando uma tipa ordinária, uma galega de arribação que ninguém sabe donde saiu! Não está direito. Uma bicha feia e velha, um couro, um canhão!
 
 Marina excitava-se:
 
-- Que couro, que nada! D. Mercedes é uma senhora vistosa, bem conservada, muito distinta. E rica. Tem filha no colégio e manda dinheiro ao marido.
+— Que couro, que nada! D. Mercedes é uma senhora vistosa, bem conservada, muito distinta. E rica. Tem filha no colégio e manda dinheiro ao marido.
 
 Vejam que miolo. E que tendências. Eu, se não fosse um idiota com fumaças de homem prático, lido e corrido, teria cortado relações com aquela criatura. Admirar uma estrangeira que vive só, tem filha no colégio e sustenta marido ausente!
 
 Estirava-me na espreguiçadeira, abria o livro, carran­cudo. A leitura não me atraía, mas atirava-me a ela. Marina ficava por ali, rondando, machucando pétalas de rosas, acanhada, o nariz comprido, procurando conversa. Dava um giro entre os canteiros, temperava a goela e, de repente:
 
-- Que livro é esse que você está lendo?
+— Que livro é esse que você está lendo?
 
 Fingia-me distraído, encostava a cara ao volume.
 
-- Deve ser uma obra interessante.
+— Deve ser uma obra interessante.
 
-- Nem por isso.
+— Nem por isso.
 
-- Eu também estou lendo um livro interessante, da biblioteca das moças. Muito penoso.
+— Eu também estou lendo um livro interessante, da biblioteca das moças. Muito penoso.
 
 Olhava-a com ódio:
 
-- Passe bem, Marina.
+— Passe bem, Marina.
 
 Aproximando-me da cozinha, percebia a voz de Vitória, que resmungava junto à gaiola do Currupaco:
 
-- Franguinha assanhada. Cochichando com um homem no escuro! Cabrita enxerida.
+— Franguinha assanhada. Cochichando com um homem no escuro! Cabrita enxerida.
 
 Realmente estava escuro. Às vezes a gente se esquecia do tempo e entrava pela noite na prosa. Um foco da iluminação da rua embranquecia um pedaço do muro.
 
 Currupaco pregava-me o olho redondo, encolhia a perna e escondia a cabeça com tédio.
 
-- Safadinha, enxerida - insistia Vitória quando me via as costas.
+— Safadinha, enxerida - insistia Vitória quando me via as costas.
 
 Punha-me a passear pela casa. Chegava à porta da rua, voltava, marchava até a sala de jantar, fazia meia-volta, e assim por diante, pisando com força. Um smoking, imaginem. Para que diabo queria eu um smoking? Teria graça estar ali contando os passos ou ir ao café, vestido num smoking. Estúpida.
 
-- Um romance comovente. Esqueci o nome do autor. Enredo bonito.
+— Um romance comovente. Esqueci o nome do autor. Enredo bonito.
 
 Estúpida. Lia as notas sociais, casamentos, batizados, aniversários, coisas deste gênero. Estúpida.
 
@@ -555,53 +555,53 @@ A quanto subiria a fortuna que Vitória tinha ali enterrada? A minha situação 
 
 Pela porta da cozinha via-se na parede a sombra da cabeça de Vitória, enorme, por cima da sombra do jornal.
 
-- Ó Vitória, prepare o café.
+— Ó Vitória, prepare o café.
 
 Precisava ir sacudi-la:
 
-- O café, Vitória.
+— O café, Vitória.
 
-- An!
+— An!
 
 Afastava-me. A chaleira chiava no fogão. A sombra desaparecia. Arrastar de pés e sons resmungados:
 
-- Peruinha, cabritinha descarada.
+— Peruinha, cabritinha descarada.
 
 Punha-me também a arrastar os pés na sala de jantar, fumava, bebia um trago de aguardente.
 
-- Mulheres há muitas.
+— Mulheres há muitas.
 
 E o diabo da música dos grilos. As letras do anúncio eram enormes.
 
 Daí a pouco lá ia de novo para o corredor, chegava à janela da frente, abria o postigo, olhava a rua. Mas não me voltava para a direita. Os paralelepípedos, os arames, a sarjeta. A bichinha sem-vergonha devia andar ali perto, saracoteando na calçada, indo espiar a sala de d. Mercedes e os móveis de d. Mercedes. Não me voltava.
 
-- Para o diabo. Aqui me preocupando com aquela burra! Unhas pintadas, beiços pintados, biblioteca das moças, preguiça, admiração a d. Mercedes - total: rua da Lama. Acaba na rua da Lama, sangrando na pedra-lipes. Vamos deixar de besteira, seu Luís. Um homem é um homem.
+— Para o diabo. Aqui me preocupando com aquela burra! Unhas pintadas, beiços pintados, biblioteca das moças, preguiça, admiração a d. Mercedes - total: rua da Lama. Acaba na rua da Lama, sangrando na pedra-lipes. Vamos deixar de besteira, seu Luís. Um homem é um homem.
 
 Foi por aquele tempo que Julião Tavares deu para aparecer aqui em casa. Lembram-se dele. Os jornais andaram a elogiá-lo, mas disseram mentira. Julião Tavares não tinha nenhuma das qualidades que lhe atribuíram. Era um sujeito gordo, vermelho, risonho, patriota, falador e escrevedor. No relógio oficial, nos cafés e noutros lugares frequentados cumprimentava-me de longe, fingindo superioridade:
 
-- Como vai, Silva?
+— Como vai, Silva?
 
 À noite chegava-me a casa, empurrava a porta e, quando eu menos esperava, desembocava na sala de jantar, que, não sei se já disse, é o meu gabinete de trabalho. E lá vinham intimidades que me aborreciam. Linguagem arrevesada, muitos adjetivos, pensamento nenhum.
 
 Conheci esse monstro numa festa de arte no Instituto Histórico. De quando em quando um cidadão se levantava e lia uma composição literária. Em seguida uma senhora abancava ao piano e tocava. Depois outra declamava. Aí chegava de novo a vez do homem, e assim por diante. Pelo meio da função um sujeito gordo assaltou a tribuna e gritou um discurso furioso e patriótico. Citou os coqueiros, as praias, o céu azul, os canais e outras preciosidades alagoanas, desceu e começou a bater palmas terríveis aos oradores, aos poetas e às cantoras que vieram depois dele. À saída deu-me um encontrão, segurou-me um braço e impediu que me despencasse pela escada abaixo. Desculpou-se por me haver empurrado, agradeci ter-me agarrado o braço e saímos juntos pela rua do Sol. Repetiu pouco mais ou menos o que tinha dito no discurso e afirmou que adorava o Brasil.
 
-- Ah! Eu vi perfeitamente que o senhor é patriota.
+— Ah! Eu vi perfeitamente que o senhor é patriota.
 
 Foi a conta.
 
-- Quem o não é, meu amigo? Nesta hora trágica em que a sorte da nacionalidade está em jogo...
+— Quem o não é, meu amigo? Nesta hora trágica em que a sorte da nacionalidade está em jogo...
 
-- Efetivamente - murmurei -, as coisas andam pretas.
+— Efetivamente - murmurei -, as coisas andam pretas.
 
 Conversa vai, conversa vem, fiquei sabendo por alto a vida, o nome e as intenções do homem. Família rica. Tavares & Cia., negociantes de secos e molhados, donos de prédios, membros influentes da Associação Comercial, eram uns ratos. Quando eu passava pela rua do Comércio, via-os por detrás do balcão, dois sujeitos papudos, carrancudos, vestidos de linho pardo e absolutamente iguais. Esse Julião, literato e bacharel, filho de um deles, tinha os dentes miúdos, afiados, e devia ser um rato, como o pai. Reacionário e católico.
 
-- Por disciplina, entende? Considero a religião um sustentáculo da ordem, uma necessidade social.
+— Por disciplina, entende? Considero a religião um sustentáculo da ordem, uma necessidade social.
 
-- Se o senhor permite...
+— Se o senhor permite...
 
 E divergi dele, porque o achei horrivelmente antipático. Ouviu-me atento e mostrou desejo de saber o que eu era. Encolhi os ombros, olhei os quatro cantos, fiz um gesto vago, procurando no ar fragmentos da minha existência espalhada.
 
-- Luís da Silva. Rua do Macena, número tanto. Prazer em conhecê-lo.
+— Luís da Silva. Rua do Macena, número tanto. Prazer em conhecê-lo.
 
 E meti-me no primeiro bonde que passou. Mas não consegui desembaraçar-me do homem. Dias depois fez­-me uma visita. Em seguida familiarizou-se. E era Luís para aqui, Luís para ali, elogios na tábua da venta, só com o fim de receber outros. Não tenho jeito para isso. Duas, três horas de chateação, que me deixavam enervado, besta, roendo as unhas.
 
@@ -609,11 +609,11 @@ Habituei-me a escrever, como já disse. Nunca estudei, sou um ignorante, e julgo
 
 Trabalho num jornal. À noite, dou um salto por lá, escrevo umas linhas. Os chefes políticos do interior brigam demais. Procuram-me, explicam os acontecimentos locais, e faço diatribes medonhas que, assinadas por eles, vão para a matéria paga. Ganho pela redação, e ganho uns tantos por cento pela publicação. Arrumo desaforos em quantidade, e para redigi-los necessito longas explicações, porque os matutos são confusos, e acontece-me defender sujeitos que deviam ser atacados. Além disso recebo de casas editoras de segunda ordem traduções feitas à pressa, livros idiotas, desses que Marina aprecia. Passo uma vista nisso, alinhavo notas ligeiras e vendo os volumes no sebo. Alguns rapazes vêm consultar-me:
 
-- Fulano é bom escritor, Luís?
+— Fulano é bom escritor, Luís?
 
 Quando não conheço Fulano, respondo sempre:
 
-- É uma besta.
+— É uma besta.
 
 E os rapazes acreditam.
 
@@ -621,59 +621,59 @@ Ora, foi uma vida assim cheia de ocupações cacetes que Julião Tavares veio pe
 
 Às vezes eu estava espremendo o miolo para obter uma coluna de amabilidades ou descomposturas. É o que sei fazer, alinhar adjetivos, doces ou amargos, em conformidade com a encomenda. Moisés entrava, puxava uma cadeira, sentava-se, abria o jornal. Vinha Pimentel, amarelo, triste, silencioso. Seu Ivo, bêbedo, acocorava-se a um canto e punha-se a babar, cochilando. Nenhuma dessas pessoas me incomodava. Trabalhava diante delas como se estivesse só, e ninguém me interrompia.
 
-- Revolução na China - dizia Moisés.
+— Revolução na China - dizia Moisés.
 
 Pimentel estirava o pescoço e enrugava a testa, farejando assunto. E lá vinham confusamente os chineses do telegrama. Seu Ivo queixava-se da carestia dos gêneros. Apertava o cinturão, bocejava, pedia comida. Eu dava respostas sem perceber direito as perguntas e sem interromper o trabalho. As frases iam pingando no papel, umas traziam as outras, e no fim lá estava aquela prosa medida, certinha, que me enjoava. Quando a expressão fugia ou as ideias se misturavam, acendia um cigarro. E, enquanto desanuviava a cabeça, punha os olhos distraídos na figura aniquilada de seu Ivo, que ali estava no canto da parede, babando-se, as pálpebras cerradas. As mãos eram dois calos escuros, os pés descalços eram patas achatadas.
 
 Seu Ivo não mora em parte nenhuma. Conhece o Estado inteiro, julgo que viaja por todo o Nordeste. Entra nas casas sem se anunciar, como um cachorro, dirige-se às pessoas familiarmente, sempre a pedir comida. Passa alguns meses numa cidade, some-se de repente; aboleta-se nas povoações, nas fazendas, na capital. Frequenta as salas de jantar e as cozinhas. Quase não fala: balbucia frases ambíguas, aperreado, sempre na carraspana. Faz o que lhe mandam, recebe o que lhe dão, mas não agradece e não faz nada com jeito.
 
-- Seu Luisinho, sinha Vitória, cadê a boia?
+— Seu Luisinho, sinha Vitória, cadê a boia?
 
 Se não lhe damos atenção, conversa com o gato, conversa com o papagaio, acaba mexendo nas panelas, furtando objetos miúdos que não utiliza.
 
 Depois de um ano de ausência, pergunto-lhe:
 
-- Como vai, seu Ivo?
+— Como vai, seu Ivo?
 
 Mas estou pensando noutra coisa.
 
-- Ruim, tudo safado, seu Luisinho. A barriga tinindo.
+— Ruim, tudo safado, seu Luisinho. A barriga tinindo.
 
 E põe-se a chorar como um desgraçado. Continuo a construir mentalmente o período interrompido.
 
-- Vá comer, seu Ivo. Vitória, um prato para seu Ivo.
+— Vá comer, seu Ivo. Vitória, um prato para seu Ivo.
 
 O homem do Instituto atrapalhou-me a vida e separou-me dos meus amigos.
 
-- Que diabo vem fazer este sujeito? - murmurei com raiva no dia em que Julião Tavares atravessou o corredor sem pedir licença e entrou na sala de jantar, vermelho e com modos de camarada.
+— Que diabo vem fazer este sujeito? - murmurei com raiva no dia em que Julião Tavares atravessou o corredor sem pedir licença e entrou na sala de jantar, vermelho e com modos de camarada.
 
 Soltei a pena, Moisés dobrou o jornal, Pimentel roeu as unhas. E assim ficamos seis meses, roendo as unhas, o jornal dobrado, a pena suspensa, ouvindo opiniões muito diferentes das nossas. As de Moisés são francamente revolucionárias; as minhas são fragmentadas, instáveis e numerosas; Pimentel às vezes está comigo, outras vezes inclina-se para Moisés.
 
 Raramente discutíamos. O judeu cansava-se em dissertações longas, que eu aprovava ou desaprovava com a cabeça. Acontecia aprovar agora e reprovar depois. Quando bebia, tornava-me loquaz e discordava de tudo, só por espírito de contradição:
 
-- História! Esta porcaria não endireita. Revolução no Brasil! Conversa! Quem vai fazer revolução? Os operários? Espere por isso. Estão encolhidos, homem. E os camponeses votam com o governo, gostam do vigário.
+— História! Esta porcaria não endireita. Revolução no Brasil! Conversa! Quem vai fazer revolução? Os operários? Espere por isso. Estão encolhidos, homem. E os camponeses votam com o governo, gostam do vigário.
 
 O que eu queria era convencer-me de que não tinha razão. Desejava que Moisés estirasse argumentos e seu Ivo se revoltasse.
 
-- Números. Nada de tapeação. Estatística.
+— Números. Nada de tapeação. Estatística.
 
 O judeu falava em milhões de desempregados, em consciência de classe, voltava-se para seu Ivo, que não compreendia a língua dele:
 
-- Não entendo. Vossemecês são brancos, lá se arrumem.
+— Não entendo. Vossemecês são brancos, lá se arrumem.
 
 Eu gritava ao ouvido da criada:
 
-- Ele diz que a gente não precisa de Deus. Nem de Deus nem de padres. Vai acabar tudo.
+— Ele diz que a gente não precisa de Deus. Nem de Deus nem de padres. Vai acabar tudo.
 
-- Credo em cruz! - opinava a mulher.
+— Credo em cruz! - opinava a mulher.
 
 E ia para a cozinha. Julgo que nunca se ocupou com assuntos referentes à alma. Rezava em voz alta. À noite sapecava o padre-nosso e a ave-maria, antes das somas. Agora dizia "Credo em cruz!" e ia preparar o café, ler os embarques e os desembarques, junto à gaiola do Currupaco. Seu Ivo metia os olhos gulosos pelos vidros do guarda-comidas:
 
-- Seu Luisinho vai bem. Tanto pão! tanta carne!
+— Seu Luisinho vai bem. Tanto pão! tanta carne!
 
 Escancarava a boca, mostrava os dentes brancos, estirava os braços musculosos.
 
-- Uma força perdida - dizia Moisés.
+— Uma força perdida - dizia Moisés.
 
 Talvez houvesse também alguma inteligência perdida por detrás daqueles olhos mortos pela cachaça. Um sujeito inútil, sujo, descontente, remendado, faminto.
 
@@ -683,155 +683,155 @@ Além disso Julião Tavares tinha educação diferente da nossa. Vestia casaca, 
 
 Pois foram tolices assim que aquele tipo nos veio impingir. Horrível. Diante dele eu me sentia estúpido. Sorria, esfregava as mãos com esta covardia que a vida áspera me deu e não encontrava uma palavra para dizer. A minha linguagem é baixa, acanalhada. Às vezes sapeco palavrões obscenos. Não os adoto escrevendo por falta de hábito e porque os jornais não os publicariam, mas é a minha maneira ordinária de falar quando não estou na presença dos chefes. Com Moisés dá-se coisa semelhante. Apenas, se lhe acontece engasgar-se, recorre a locuções estrangeiras. As nossas conversas são naturais, não temos papas na língua. Abro um livro, fico alguns minutos fazendo cacoetes, de repente dou um grito:
 
-- Que sujeito burro! Puta que o pariu! Isto é um cavalo.
+— Que sujeito burro! Puta que o pariu! Isto é um cavalo.
 
 Moisés toma o volume, lê uma página com atenção fungando:
 
-- Tem coisas boas, tem ideias.
+— Tem coisas boas, tem ideias.
 
-- Que ideia! Isto é um sendeiro, não sabe escrever.
+— Que ideia! Isto é um sendeiro, não sabe escrever.
 
 Julião Tavares veio tomar impossíveis expansões assim. Dizia, referindo-se a um poeta morto:
 
-- Era um grande espírito, um nobre espírito. Quanta emoção! Além disso conhecimento perfeito da língua. Artista privilegiado.
+— Era um grande espírito, um nobre espírito. Quanta emoção! Além disso conhecimento perfeito da língua. Artista privilegiado.
 
 Filho de uma puta. Esse artista privilegiado aperreou-me durante semanas, tirou-me o apetite. Na repartição, no cinema, no jornal, no café, perseguia-me a lembrança da voz antipática:
 
-- Um grande espírito, um nobre espírito. Emoção e conhecimento perfeito da língua.
+— Um grande espírito, um nobre espírito. Emoção e conhecimento perfeito da língua.
 
 Filho de uma puta. Não podia ser nosso amigo. Encontrava-me na rua:
 
-- Como vai, Silva?
+— Como vai, Silva?
 
 E ali, no outro lado da mesa, as pernas cruzadas, com a intenção de se demorar - sorrisos, patriotismo, a grandeza do poeta morto.
 
 Comecei a odiar Julião Tavares. Farejava-o, percebia-o de longe, só pelo modo de empurrar a porta e atravessar o corredor.
 
-- Canalha!
+— Canalha!
 
 E rangia os dentes, arrumava os papéis tremendo de raiva. Tudo nele era postiço, tudo dos outros.
 
 Se aquele patife tivesse chegado aqui naturalmente, eu não me zangaria. Se me tivesse encomendado e pago um artigo de elogio à firma Tavares & Cia., eu teria escrito o artigo. É isto. Pratiquei neste mundo muita safadeza. Para que dizer que não pratiquei safadezas? Se eu as pratiquei! É melhor botar a trouxa abaixo e contar a história direito. Teria escrito o artigo e recebido o dinheiro. O que não achava certo era ouvir Julião Tavares todos os dias afirmar, em linguagem pulha, que o Brasil é um mundo, os poetas alagoanos uns poetas enormes e Tavares pai, chefe da firma Tavares & Cia., um talento notável, porque juntou dinheiro. Essas coisas a gente diz no jornal, e nenhuma pessoa medianamente sensata liga importância a elas. Mas na sala de jantar, fumando, de perna traçada, é falta de vergonha. Francamente, é falta de vergonha.
 
-- Boa tarde, d. Adélia. Como vai a senhora?
+— Boa tarde, d. Adélia. Como vai a senhora?
 
-- Assim, assim - respondeu a mãe de Marina encostando-se à janela para esconder a saia encardida. - Hoje em dia quem é que vai bem?
+— Assim, assim - respondeu a mãe de Marina encostando-se à janela para esconder a saia encardida. - Hoje em dia quem é que vai bem?
 
 Agora eu conhecia mais ou menos d. Adélia, falava com ela, parava na calçada às vezes: - "Bom dia, boa tarde, sim senhora, como tem passado?". Conhecia também o marido, seu Ramalho, sujeito calado, sério, asmático, eletricista da Nordeste. Não gostava de mim, provavelmente por causa das minhas palestras com a filha. Perturbava-nos:
 
-- Marina, venha lavar os pratos. Marina, venha cuidar das panelas. Lugar de moça é a cozinha.
+— Marina, venha lavar os pratos. Marina, venha cuidar das panelas. Lugar de moça é a cozinha.
 
 Ora se Marina lidava com pratos e panelas!
 
-- Velho pau!
+— Velho pau!
 
 E continuava na prosa.
 
-- Cuidado com o sereno, Marina.
+— Cuidado com o sereno, Marina.
 
-- Se isto é coisa que se suporte!
+— Se isto é coisa que se suporte!
 
 Entrava dando muxoxos, arreliada.
 
 Seu Ramalho era uma criatura seca por natureza e humilde por ofício. Tinha um sorriso franzido, um ombro alto e outro baixo. D. Adélia, bamba, a voz sumida, os olhos assustados, parecia viver escondendo-se. Agora estava resolvida a conversar. Seria a respeito do meu namoro com Marina? Suspirou, mexeu os beiços, tornou a suspirar:
 
-- Tudo pela hora da morte, seu Luís.
+— Tudo pela hora da morte, seu Luís.
 
-- É verdade, tudo pela hora da morte, d. Adélia. A senhora já reparou nos preços dos remédios? A farmácia tem uma goela!
+— É verdade, tudo pela hora da morte, d. Adélia. A senhora já reparou nos preços dos remédios? A farmácia tem uma goela!
 
 Adélia fez um gesto de desalento:
 
-- Nem me fale. A gente não pode adoecer mais não, seu Luís.
+— Nem me fale. A gente não pode adoecer mais não, seu Luís.
 
 Ficamos um instante calados, olhando a rua, constrangidos.
 
-- Sim senhora, murmurei esfregando as mãos e sorrindo para o mulherão sardento.
+— Sim senhora, murmurei esfregando as mãos e sorrindo para o mulherão sardento.
 
-- É isso mesmo, respondeu d. Adélia.
+— É isso mesmo, respondeu d. Adélia.
 
 E, depois de um silêncio comprido, enrolando as mãos no babado da roupa:
 
-- Para sustentar uma casa a gente torce a orelha.
+— Para sustentar uma casa a gente torce a orelha.
 
 Concordei com alvoroço:
 
-- Torce, d. Adélia. Que dúvida! Depois do dia 20 é preciso que uma pessoa se tranque para encurtar a despesa. Porque na rua é o café, o bilhete de teatro, a subscrição. Um horror.
+— Torce, d. Adélia. Que dúvida! Depois do dia 20 é preciso que uma pessoa se tranque para encurtar a despesa. Porque na rua é o café, o bilhete de teatro, a subscrição. Um horror.
 
-- E o mercado, seu Luís! Quer chova, quer faça sol, é ali no duro. Ninguém pode passar sem comer.
+— E o mercado, seu Luís! Quer chova, quer faça sol, é ali no duro. Ninguém pode passar sem comer.
 
-- Perfeitamente, d. Adélia. Ninguém pode passar sem comer. O pior é o aluguel da casa. O aluguel da casa, d. Adélia! Quanto paga a senhora pelo aluguel da casa?
+— Perfeitamente, d. Adélia. Ninguém pode passar sem comer. O pior é o aluguel da casa. O aluguel da casa, d. Adélia! Quanto paga a senhora pelo aluguel da casa?
 
-- Cento e trinta mil-réis. Um roubo.
+— Cento e trinta mil-réis. Um roubo.
 
-- Eu pago cento e vinte. Um roubo maior, que aquilo não é casa. Uns quartinhos escuros, sujos. E tanto buraco de rato como nunca se viu. Uns ratinhos miúdos, deste tamanho, não sei se a senhora conhece, danados para roer pano. Não tenho um lenço inteiro, tudo furado.
+— Eu pago cento e vinte. Um roubo maior, que aquilo não é casa. Uns quartinhos escuros, sujos. E tanto buraco de rato como nunca se viu. Uns ratinhos miúdos, deste tamanho, não sei se a senhora conhece, danados para roer pano. Não tenho um lenço inteiro, tudo furado.
 
-- Aqui é o mesmo - declarou d. Adélia.
+— Aqui é o mesmo - declarou d. Adélia.
 
 Deu um suspiro que elevou o peito volumoso, curvou-se mais para fora:
 
-- Ó seu Luís, eu queria pedir-lhe um favor. Faz uma semana que estou matutando e sem coragem. Hoje botei a vergonha de banda.
+— Ó seu Luís, eu queria pedir-lhe um favor. Faz uma semana que estou matutando e sem coragem. Hoje botei a vergonha de banda.
 
-- Que é que há, d. Adélia?
+— Que é que há, d. Adélia?
 
 D. Adélia reeditou o suspiro:
 
-- Estive pensando... Se o senhor puder, ouviu? Pedir não é desonra. A gente faz das tripas coração. Necessidade tem cara de herege.
+— Estive pensando... Se o senhor puder, ouviu? Pedir não é desonra. A gente faz das tripas coração. Necessidade tem cara de herege.
 
-- Diga, d. Adélia.
+— Diga, d. Adélia.
 
 A vizinha baixou mais a voz, que tremia, e o carão sardento ficou encarnado como o vestido de chita:
 
-- É por causa da Marina. Assim desocupada, com as mãos abanando... Ela não é preguiçosa. Cose, borda, mas trabalho de mulher em casa não adianta. Gasta-se tempo sem fim num bordado e recebe-se uma ninharia. Se fosse possível arranjar um emprego para Marina...
+— É por causa da Marina. Assim desocupada, com as mãos abanando... Ela não é preguiçosa. Cose, borda, mas trabalho de mulher em casa não adianta. Gasta-se tempo sem fim num bordado e recebe-se uma ninharia. Se fosse possível arranjar um emprego para Marina...
 
 Acendi um cigarro, pus-me a contar os paralelepípedos sem me animar a desiludir a vizinha.
 
-- Dê uma penada por ela.
+— Dê uma penada por ela.
 
 Coitado de mim.
 
-- Difícil. É preciso pistolão.
+— Difícil. É preciso pistolão.
 
-- Eu sei - disse d. Adélia. - Foi por isso que me lembrei do senhor, que é bem relacionado. Só conhecemos o senhor.
+— Eu sei - disse d. Adélia. - Foi por isso que me lembrei do senhor, que é bem relacionado. Só conhecemos o senhor.
 
-- Mas d. Adélia - respondi aflito -, a senhora está enganada. Eu sou um infeliz, não tenho onde cair morto. Uma recomendação minha não serve. Mas vou tentar, ouviu?
+— Mas d. Adélia - respondi aflito -, a senhora está enganada. Eu sou um infeliz, não tenho onde cair morto. Uma recomendação minha não serve. Mas vou tentar, ouviu?
 
 Seu Ramalho dobrou o beco da usina elétrica e veio vindo, lento, negro de azeite e carvão.
 
-- Boa tarde.
+— Boa tarde.
 
-- Boa tarde, seu Ramalho. Como vai essa gordura? Estávamos falando sobre a carestia.
+— Boa tarde, seu Ramalho. Como vai essa gordura? Estávamos falando sobre a carestia.
 
 Seu Ramalho estirou o beiço:
 
-- Cada dia vai ficando pior. É de fazer um cristão endoidecer. Ora, eu lhe conto.
+— Cada dia vai ficando pior. É de fazer um cristão endoidecer. Ora, eu lhe conto.
 
 Mas não contou nada. Costuma deixar as frases em meio.
 
-- Pois é como lhe disse - murmurei. - Vamos ver. Que, para ser franco, nem sei se a Marina se ajeita. Ela sabe datilografia?
+— Pois é como lhe disse - murmurei. - Vamos ver. Que, para ser franco, nem sei se a Marina se ajeita. Ela sabe datilografia?
 
-- Não sabe nada - atalhou seu Ramalho. - Você foi amolar o rapaz com peditórios, mulher? Eu não lhe tinha dito que não tocasse nisso?
+— Não sabe nada - atalhou seu Ramalho. - Você foi amolar o rapaz com peditórios, mulher? Eu não lhe tinha dito que não tocasse nisso?
 
-- Que é que tem, seu Ramalho? Ela quer que a moça trabalhe. É natural.
+— Que é que tem, seu Ramalho? Ela quer que a moça trabalhe. É natural.
 
-- Trabalhar em quê, meu amigo? Só se for em pintar a cara, que é o que ela sabe fazer.
+— Trabalhar em quê, meu amigo? Só se for em pintar a cara, que é o que ela sabe fazer.
 
 D. Adélia, vexada, continuava a enrolar os dedos trêmulos no vestido.
 
-- Eu falei por falar. Se fosse possível. Um ordenadozinho que desse para a roupa. Não há tantas moças empregadas? Nos telefones, nos correios...
+— Eu falei por falar. Se fosse possível. Um ordenadozinho que desse para a roupa. Não há tantas moças empregadas? Nos telefones, nos correios...
 
-- São pessoas que sabem onde têm as ventas, criatura - interrompeu seu Ramalho. - Ou que arranjaram proteção. E sua filha entrou na escola e saiu como entrou. Ou as escolas não prestam ou ela é bruta demais. Emprego para roupa. Tem graça. Cinquenta mil-réis de sapatos todos os meses. Não há dinheiro que chegue.
+— São pessoas que sabem onde têm as ventas, criatura - interrompeu seu Ramalho. - Ou que arranjaram proteção. E sua filha entrou na escola e saiu como entrou. Ou as escolas não prestam ou ela é bruta demais. Emprego para roupa. Tem graça. Cinquenta mil-réis de sapatos todos os meses. Não há dinheiro que chegue.
 
-- O senhor é duro, seu Ramalho - arrisquei.
+— O senhor é duro, seu Ramalho - arrisquei.
 
-- Pois sim - respondeu o homem arquejando por causa da asma. - É que vivo no toco, roendo um chifre.
+— Pois sim - respondeu o homem arquejando por causa da asma. - É que vivo no toco, roendo um chifre.
 
 Falava de cabeça baixa, os olhos no chão, os músculos da cara imóveis, a boca entreaberta, a voz branda, provavelmente pelo hábito de obedecer.
 
-- Eu falei por falar - gaguejou d. Adélia caindo para uma banda, as banhas derramadas no parapeito da janela, onde fincava o cotovelo. - Foi, a menina com as mãos abanando...
+— Eu falei por falar - gaguejou d. Adélia caindo para uma banda, as banhas derramadas no parapeito da janela, onde fincava o cotovelo. - Foi, a menina com as mãos abanando...
 
 Seu Ramalho acendeu o cachimbo e pôs-se a esgaravatar as unhas com o fósforo queimado:
 
-- É isso. Eu aqui não sei nada. Todo mundo de rédea no pescoço. Casa de Gonçalo. As mulheres mandam, e o corno velho é o último que tem conhecimento das coisas.
+— É isso. Eu aqui não sei nada. Todo mundo de rédea no pescoço. Casa de Gonçalo. As mulheres mandam, e o corno velho é o último que tem conhecimento das coisas.
 
 Antônia, a criada de d. Rosália, passou bamboleando-se, foi até a esquina da rua Augusta e esteve algum tempo conversando com um soldado de polícia. Voltou, sempre se rebolando e com as pernas abertas.
 
@@ -839,39 +839,39 @@ Antônia, a criada de d. Rosália, passou bamboleando-se, foi até a esquina da 
 
 Todas as tardes, findo o serviço, arruma a louça, veste os trapos melhores, calça os sapatos de verniz e sai. Se arranja algum dinheiro, deixa o emprego e amiga-se. Erra sempre. Gasta as economias, volta ao trabalho, vai acumu­lar novo pecúlio para sustentar novos amantes, novas decepções. É doida pelas crianças: passa o dia gritando, brincando com elas. Mas à noite esquece tudo e corre para a crápula. D. Rosália atura-a por causa dos filhos. Quando lhe faz as contas, diz numa voz áspera que ouço perfeitamente na sala de jantar:
 
-- Pegue o seu ordenado, Antônia, e suma-se, não torne a aparecer aqui.
+— Pegue o seu ordenado, Antônia, e suma-se, não torne a aparecer aqui.
 
 Antônia recebe o salário, entrouxa os cacarecos, beija as crianças e sai cantando, certa de que encontrou um homem. Volta faminta, com marcas novas de feridas.
 
-- Tu acabas no hospital, Antônia.
+— Tu acabas no hospital, Antônia.
 
 Mas as crianças fazem um berreiro feio - e Antônia fica.
 
 A presença dessa criatura vagabunda e galicada traz-me sentimentos bons.
 
-- Como vai, Antônia?
+— Como vai, Antônia?
 
 A cabocla respondeu descerrando os beiços grossos e mostrando os dentes largos num sorriso infantil. Seu Ramalho não a viu: estava de cabeça baixa, monologando, remexendo a cinza do cachimbo com o fósforo. D. Adélia continuava encalistrada, bicuda, machucando o vestido. Senti-me leve, quase alegre, e espantei-me de ver aquelas caras fúnebres.
 
-- Isso não tem importância. Procurando bem... Há muitas por aí cavando a vida. Vamos ver se arranjamos alguma coisa, d. Adélia. Vamos ver. Depois lhe digo.
+— Isso não tem importância. Procurando bem... Há muitas por aí cavando a vida. Vamos ver se arranjamos alguma coisa, d. Adélia. Vamos ver. Depois lhe digo.
 
-- História - murmurou seu Ramalho com desânimo. - Aquela não dá para nada. O homem que casar com ela faz negócio ruim.
+— História - murmurou seu Ramalho com desânimo. - Aquela não dá para nada. O homem que casar com ela faz negócio ruim.
 
 Como era grande o calor, abri a janela do quintal. Uma ba­forada de ar quente bateu-me no rosto. Debrucei-me e distraí-me acompanhando com a vista os movimentos da mulher que lava garrafas. O gato pulou de um galho da mangueira, saltou o muro, trepou num monte de lixo e cacos de vidro. O homem triste andava entre as pipas, debaixo do telheiro, a encher dornas.
 
 Que estaria fazendo Marina? Pensei em d. Mercedes. Vida bem sossegada a dessa galega. Um sem-vergonha o figurão que a sustentava, um caloteiro: devia os cabelos da cabeça e dava festas, punha automóveis à disposição da amásia. Como diabo podia um macho gostar daquela tipa de carnes bambas?
 
-- Ladrões, velhacos, porcos!
+— Ladrões, velhacos, porcos!
 
 Bati a janela com força. Depois voltei a abri-la. A mulher magra, de cócoras, a saia entalada entre as pernas, continuava a lavar garrafas. O homem triste passeava entre as pipas.
 
 Com certeza a minha vizinha àquela hora pintava as unhas. Indignei-me:
 
-- Ó Vitória, por que não varre esta casa direito? Cisco por toda parte, montes de cisco. Tudo cheio de poeira.
+— Ó Vitória, por que não varre esta casa direito? Cisco por toda parte, montes de cisco. Tudo cheio de poeira.
 
 Vitória não percebeu a repreensão. Agarrei uma toalha e esfreguei com ela o guarda-louça:
 
-- Porcaria!
+— Porcaria!
 
 Peguei um livro, abri a porta e desci os degraus do quintal, furioso com o amante de d. Mercedes. Velhaco. Devia nas lojas, devia nas mercearias, devia ao alfaiate. Atracado aos usineiros, aos banqueiros, aos homens da Associação Comercial, numa adulação torpe. Os credores miúdos deixavam-se esfolar com medo; os grandes sangravam por conveniência: tinham interesses, arranjavam o que queriam. E um safado como aquele era troço no Estado. Que desgraça!
 
@@ -885,27 +885,27 @@ Se aquela tonta prestasse, estaria ajudando a mãe, ensaboando panos. Preguiça.
 
 Fazia uma semana que eu andava cavando uma colocação para ela. Arranjar emprego, como não ignoram, é dificuldade. As pessoas a que a gente se dirige sorriem. Tudo fácil, às ordens, perfeitamente. Escutam as choradeiras com paciência e escrevem cartões a outras pessoas. Estas escrevem outros cartões, e assim por diante. Cada um se desaperta. Eu falara ao diretor da minha repartição:
 
-- Doutor, tenho uma vizinha que faz pena, moça prendada. Mata-se para ajudar a família, mas, como sabe, trabalho de mulher em casa não rende. Se o senhor pudesse, com a sua influência...
+— Doutor, tenho uma vizinha que faz pena, moça prendada. Mata-se para ajudar a família, mas, como sabe, trabalho de mulher em casa não rende. Se o senhor pudesse, com a sua influência...
 
 O diretor respondera distraído:
 
-- Está bem. Vamos ver.
+— Está bem. Vamos ver.
 
 Noutras repartições, a mesma história com pequenas variantes:
 
-- Moça decente, instruída, matando-se para auxiliar a família. Um modelo. A mãe doente...
+— Moça decente, instruída, matando-se para auxiliar a família. Um modelo. A mãe doente...
 
 Enfim uma cambada de mentiras inúteis. Nos bancos:
 
-- Moça digna, alguns conhecimentos de escrituração mercantil e de aritmética.
+— Moça digna, alguns conhecimentos de escrituração mercantil e de aritmética.
 
 Nos armazéns:
 
-- Muito preparo, muita leitura, excelente calculista. Podia encarregar-se da correspondência.
+— Muito preparo, muita leitura, excelente calculista. Podia encarregar-se da correspondência.
 
 Nas redações:
 
-- Ó Fulano, você não me arranja aí na expedição qualquer coisa para uma moça que eu conheço? Um osso, uma sinecura que justifique dois ou três vales por mês.
+— Ó Fulano, você não me arranja aí na expedição qualquer coisa para uma moça que eu conheço? Um osso, uma sinecura que justifique dois ou três vales por mês.
 
 Afinal fora encontrar para Marina um emprego de cem mil-réis numa loja de fazendas. E ali estava espiando o quintal com o rabo do olho.
 
@@ -917,21 +917,21 @@ Talvez a franguinha tivesse percebido que eu fingia dormir: pôs-se a ciscar por
 
 Voltava-me as costas:
 
-- Chi, chi, chi.
+— Chi, chi, chi.
 
 Um riso semelhante a um cochicho. Curvava-se para a frente: a cintura fina sumia-se, os quadris aumentavam. O pano marcava-lhe a separação das nádegas. Um passo, outro passo. As ancas morriam, agora eram as coxas grossas. Outro passo: uma ruga na meia cor de creme mostrava a articulação da coxa com a perna. E a perna cheia ia adelgaçando até findar num jarrete fino encastoado no tacão vermelho do sapato.
 
-- Chi, chi, chi.
+— Chi, chi, chi.
 
 O cochicho risonho afastava-se, chegava-me aos ouvidos como o chiar de um rato. Chiar de rato, exatamente. Chiar de rato ou carne assada na grelha. Parecia-me que aquilo estava chiando dentro de mim, que a minha carne se assava e chiava. Os tacões vermelhos viravam-se para o outro lado. As biqueiras surgiam e avançavam. Lá vinham pedaços de canelas. As mãos puxavam a saia para trás, distinguiam-se os joelhos e as coxas. Como vinha curvada para a frente, a barriga desaparecia.
 
-- Chi, chi, chi.
+— Chi, chi, chi.
 
 O rato roía-me por dentro. Senti cheiro de carne assada. Não, cheiro de fêmea, o mesmo cheiro que antigamente me perseguia, em meses de quebradeira. - "D. Aurora, veja se me arranja um quarto mais barato. Os tempos andam safados, d. Aurora."
 
 As pernas de Berta eram assim bem torneadas. Apenas as de Berta eram nuas, tudo em Berta era nu.
 
-- Chi, chi, chi.
+— Chi, chi, chi.
 
 Lá estavam novamente os quadris expostos. Para que aqueles panos? Gritei interiormente. Não era melhor que se descobrisse tudo? Coxas descobertas, rabo descoberto.
 
@@ -941,331 +941,331 @@ Tolice. D. Adélia, fria, com o pensamento distante de coisas assim, espremia ca
 
 Chape, chape, chape. A mulher magra não acabava de lavar garrafas. A torneira derramava líquido na dorna. Ouvia-se perfeitamente. A princípio chegava-me um som confuso. Agora, porém, os sentidos irritados percebiam tudo. O chape-chape da mulher, o rumor do líquido, pregões de vendedores ambulantes, rolar de automóveis, a correria dos filhos de d. Rosália no quintal próximo, o cheiro das flores, dos monturos, da água estagnada, da carne de Marina, entravam-me no corpo violentamente. Apertei as pálpebras. A poça de água, os canteiros mofinos, o monte de lixo, sumiram-se. O que eu via bem eram os quartos brancos de Marina curvada, as coxas brancas.
 
-- Chi, chi, chi.
+— Chi, chi, chi.
 
 Devia estar um pouco afastada, mostrando apenas os tacões ou as biqueiras dos sapatos. Mais perto, mais perto, o cheiro mais vivo, o chichichi mais perceptível - e eu sentia uma espécie de desmaio com aquela aproximação. O livro caiu, cruzei as pernas, sentei-me, vi Marina em pé junto da cerca, rindo como uma doida:
 
-- Puxa! Que olhos abotoados! Parece que vai ter uma congestão.
+— Puxa! Que olhos abotoados! Parece que vai ter uma congestão.
 
 Eu devia estar ridículo. Baixei a cara, com vergonha, e pus-me a esfregar as pálpebras, a agitar a cabeça para espalhar as ruindades que havia dentro dela. Quando terminei a esfregação, Marina continuava no mesmo lugar, exibindo os dentinhos, com tanta malícia no rosto que fiquei besta, acuado. Felizmente podia vê-la da barriga para cima.
 
-- Cara de mal-assombrado - pilheriou Marina. - Sonhou com alma do outro mundo?
+— Cara de mal-assombrado - pilheriou Marina. - Sonhou com alma do outro mundo?
 
 A visão obscena e os desejos lúbricos esmoreceram.
 
-- Sonhei nada!
+— Sonhei nada!
 
 Estava num entorpecimento estúpido. Tive a impressão extravagante de que o ar havia tomado de repente a consistência mole e pegajosa de goma-arábica. Nesse ambiente gelatinoso Marina se movia, nadava, desesperadamente bonita, o peitinho redondo subindo e descendo, a querer saltar pelo decote baixo, pimenta nos olhos azuis, os cabelos de fogo desmanchando-se ao vento morno e empestado que soprava dos quintais. Veio-me o pensamento maluco de que tinham dividido Marina. Serrada viva, como se fazia antigamente. Esta ideia absurda e sanguinária deu-me grande satisfação. Nádegas e pernas para um lado, cabeça e tronco para outro. A parte inferior mexia-se como um rabo de lagartixa cortado. Mas eu não reparava na parte inferior, que tanto me perturbara: recebia as faíscas dos olhos azuis e desejava enxugar com beijos a saliva que umedecia os beiços um pouco grossos da minha amiga. Estava linda. Tinha corrido por ali alguns minutos como um rato, chiando. Eu era um gato ordinário. Podia saltar em cima dela e abocanhá-la: ao pé das estacas podres que Vitória remove todos os meses, desafiava-me com os olhos e com os dentes miúdos. Não saltei. O que fiz foi arranjar uma carranca séria, que devia ser burlesca, porque Marina soltou uma gargalhada.
 
-- Marina - grunhi -, sua mãe não lhe falou?
+— Marina - grunhi -, sua mãe não lhe falou?
 
-- Sobre quê?
+— Sobre quê?
 
-- Sobre uma colocação. Uma colocação para você. Sim, é bom uma pessoa pensar no futuro. Vocês não conversaram?
+— Sobre uma colocação. Uma colocação para você. Sim, é bom uma pessoa pensar no futuro. Vocês não conversaram?
 
-- Não.
+— Não.
 
-- Ah! Pensei que tivessem conversado. Pois é. Sua mãe me falou e eu andei por aí martelando. Fiz o que pude.
+— Ah! Pensei que tivessem conversado. Pois é. Sua mãe me falou e eu andei por aí martelando. Fiz o que pude.
 
 Marina tinha agora o rosto comprido e uma ruga entre as sobrancelhas:
 
-- Parece que minha mãe está com pena do bocado que me dá.
+— Parece que minha mãe está com pena do bocado que me dá.
 
-- Não diga isso, criatura. É para o seu bem.
+— Não diga isso, criatura. É para o seu bem.
 
 D. Adélia saiu do banheiro com uma bacia de roupa molhada, que ia enxugar lá dentro, a ferro.
 
-- Boa noite, gritou de longe.
+— Boa noite, gritou de longe.
 
 E entrou logo. Ia escurecendo, e aquele boa-noite era uma espécie de censura, que ela não fazia claramente porque tinha medo da filha.
 
-- Está aí, Marina. A pobre a esta hora lavando roupa!
+— Está aí, Marina. A pobre a esta hora lavando roupa!
 
 Marina, em silêncio, quebrava torrões com o salto do sapato.
 
-- Você me desculpa a franqueza. Eu não devia estar dando opinião sobre sua casa. É porque lhe tenho muita amizade. Por isso andei pedindo por aí.
+— Você me desculpa a franqueza. Eu não devia estar dando opinião sobre sua casa. É porque lhe tenho muita amizade. Por isso andei pedindo por aí.
 
-- Encontrou alguma coisa? - perguntou Marina sem entusiasmo.
+— Encontrou alguma coisa? - perguntou Marina sem entusiasmo.
 
-- Encontrei. Para bem dizer, não encontrei coisa boa não. Emprego público não há. Tudo fechado, tudo escuro. Enfim sempre achei um gancho.
+— Encontrei. Para bem dizer, não encontrei coisa boa não. Emprego público não há. Tudo fechado, tudo escuro. Enfim sempre achei um gancho.
 
-- Onde é?
+— Onde é?
 
-- Numa loja. Cem mil-réis por mês. Um princípio. Depois a gente cava serviço mais fácil e mais rendoso. O que é preciso é começar.
+— Numa loja. Cem mil-réis por mês. Um princípio. Depois a gente cava serviço mais fácil e mais rendoso. O que é preciso é começar.
 
-- Numa loja? - disse Marina com um risinho mau. - Obrigação de aturar pilhérias e até descomposturas dos fregueses. E beliscões dos empregados. Muito bom.
+— Numa loja? - disse Marina com um risinho mau. - Obrigação de aturar pilhérias e até descomposturas dos fregueses. E beliscões dos empregados. Muito bom.
 
-- Oh! Marina!
+— Oh! Marina!
 
-- Julgo que minha mãe está com intenção de me ver na rua. E você também está.
+— Julgo que minha mãe está com intenção de me ver na rua. E você também está.
 
-- Oh! Marina! Que horror! Se você não quer, acabou-se. Meti-me nisso porque sua mãe me pediu, compreende? E porque lhe quero muito bem.
+— Oh! Marina! Que horror! Se você não quer, acabou-se. Meti-me nisso porque sua mãe me pediu, compreende? E porque lhe quero muito bem.
 
 Marina sensibilizou-se. Os olhos aguaram-se, o beicinho tremeu:
 
-- Obrigada, Luís.
+— Obrigada, Luís.
 
 E estirou a mão. Levantei-me, tomei-lhe os dedos. O contato da pele quente deu-me tremuras, acendeu os desejos brutais que tinham esmorecido. Olhando-a de cima para baixo, via-lhe os seios, que subiam e desciam, as coxas, a curva dos quadris. Veio-me a tentação de rasgar-lhe a saia. E repetia como um demente:
 
-- É porque lhe quero muito bem, Marina.
+— É porque lhe quero muito bem, Marina.
 
 Apertei-lhe a mão, mordi-a, mordi o pulso e o braço. Marina, pálida, só fazia perguntar:
 
-- Que é isso, Luís? Que doidice é essa?
+— Que é isso, Luís? Que doidice é essa?
 
 Mas não se afastava. Desloquei as estacas podres, puxei Marina para junto de mim, abracei-a, beijei-lhe a boca, o colo. Enquanto fazia isto, as minhas mãos percorriam-lhe o corpo. Quando nos separamos, ficamos comendo-nos com os olhos, tremendo. Tudo em redor girava. E Marina estava tão perturbada que se esqueceu de recolher um peito que havia escapado da roupa. Eu queria mordê-lo e receava ao mesmo tempo que d. Adélia nos surpreendesse, encontrasse a filha descomposta.
 
-- Meu Deus! - exclamou Marina sobressaltada.
+— Meu Deus! - exclamou Marina sobressaltada.
 
 E virou-se rapidamente. Quando tornou a mostrar o rosto, o peito havia desaparecido.
 
-- Que foi que nós fizemos, Luís?
+— Que foi que nós fizemos, Luís?
 
 E começou a choramigar. A comoção dela me trouxe alguma vaidade, um pouco de arrependimento e quase a certeza de que nunca ninguém lhe havia tocado nos peitos. Apesar da admiração idiota que Marina tinha a d. Mercedes, tomei aqueles soluços como prova de inocência.
 
-- Que foi que nós fizemos, Luís?
+— Que foi que nós fizemos, Luís?
 
 A cantilena chorosa arrasava-me os nervos. Cocei a testa, agoniado:
 
-- É o diabo, Marina. Ninguém tem culpa. Foi uma topada. E agora é continuar. Qualquer dia a gente casa. É verdade, precisamos tratar disso. Você que acha?
+— É o diabo, Marina. Ninguém tem culpa. Foi uma topada. E agora é continuar. Qualquer dia a gente casa. É verdade, precisamos tratar disso. Você que acha?
 
 Concordou passivamente, numa sílaba:
 
-- É.
+— É.
 
 Esta anuência chocha me desorientou. Várias vezes tinha pensado em amarrar-me a ela, e nunca me passara pela cabeça a ideia de que a minha amiga hesitasse. Mordi os beiços, despeitado:
 
-- Falei nisto porque pensei... Compreende. Sim, perfeitamente. Enfim você é quem sabe.
+— Falei nisto porque pensei... Compreende. Sim, perfeitamente. Enfim você é quem sabe.
 
-- Marina! - gritou lá de dentro seu Ramalho. - Cuidado com o sereno.
+— Marina! - gritou lá de dentro seu Ramalho. - Cuidado com o sereno.
 
-- Está certo - disse Marina rapidamente. - Velho pau. Se você acha que deve ser... Adeus.
+— Está certo - disse Marina rapidamente. - Velho pau. Se você acha que deve ser... Adeus.
 
-- Adeus, Marina. Outra coisa. Vamos deixar de besteira. Por que é que a gente não se encontra aqui no escuro, meia-noite, quando estiverem dormindo? Valeu? Dá cá um beijo.
+— Adeus, Marina. Outra coisa. Vamos deixar de besteira. Por que é que a gente não se encontra aqui no escuro, meia-noite, quando estiverem dormindo? Valeu? Dá cá um beijo.
 
-- Venha lavar os pratos, Marina.
+— Venha lavar os pratos, Marina.
 
-- Já vou.
+— Já vou.
 
 E escapuliu-se correndo. Sentei-me na espreguiçadeira, apanhei o livro:
 
-- É uma dos diabos. Eu queria dar a ela alguma independência. Acabou-se. Gosto da pequena, amarro uma pedra no pescoço e mergulho.
+— É uma dos diabos. Eu queria dar a ela alguma independência. Acabou-se. Gosto da pequena, amarro uma pedra no pescoço e mergulho.
 
 Defronte da minha casa veio morar uma família esquisita, que não se relacionou com a vizinhança: um velho barbudo, encolhido, e três moças amarelas, sujas, malvestidas, ruivas e arrepiadas. O homem, de nome ignorado, andava olhando os pés, carrancudo, e não cumprimentava ninguém. Às vezes surgia a figura de uma das moças à janela; mas se alguém aparecia na rua, o postigo se fechava silenciosamente.
 
-- Eu queria saber que espécie de gente é aquela - resmungava d. Adélia. - Só bicho.
+— Eu queria saber que espécie de gente é aquela - resmungava d. Adélia. - Só bicho.
 
-- É mesmo, d. Adélia - concordava Antônia. - Tudo entocado. Só bicho.
+— É mesmo, d. Adélia - concordava Antônia. - Tudo entocado. Só bicho.
 
 Seu Ivo procurou entrar na toca, bateu, pediu comida: não teve resposta. Um dia d. Mercedes atracou-me na passagem:
 
-- O senhor não me dirá que mistério é esse?
+— O senhor não me dirá que mistério é esse?
 
-- E eu sei? Minha senhora.
+— E eu sei? Minha senhora.
 
-- De que viverão eles? - perguntava d. Adélia.
+— De que viverão eles? - perguntava d. Adélia.
 
 Seu Ramalho explicava:
 
-- Cada qual tem os seus ganchos.
+— Cada qual tem os seus ganchos.
 
-- É exato - confirmava d. Adélia.
+— É exato - confirmava d. Adélia.
 
 Enquanto a criada andava em busca de machos, d. Rosália esquecia os meninos e ficava horas ganhando calos nos cotovelos, o olho pregado na casa da família esquisita:
 
-- Que vida! Uma pessoa assim cria mofo. Nem vão à igreja.
+— Que vida! Uma pessoa assim cria mofo. Nem vão à igreja.
 
-- Talvez sejam protestantes - comentava seu Ramalho.
+— Talvez sejam protestantes - comentava seu Ramalho.
 
-- Com certeza. Devem ser bodes.
+— Com certeza. Devem ser bodes.
 
 Até Marina fervia de curiosidade:
 
-- Luís, descubra isso, meu filho.
+— Luís, descubra isso, meu filho.
 
 De repente começaram a circular boatos feios: as moças eram filhas e amantes do velho.
 
-- Que horror! Logo três!
+— Que horror! Logo três!
 
-- É por isso que ele anda capiongo. São remorsos.
+— É por isso que ele anda capiongo. São remorsos.
 
-- Provavelmente.
+— Provavelmente.
 
-- Eu queria que me dissessem como se soube.
+— Eu queria que me dissessem como se soube.
 
-- Ora como se soube! Sabe-se tudo.
+— Ora como se soube! Sabe-se tudo.
 
-- Mas quem viu?
+— Mas quem viu?
 
 O carvoeiro tinha visto o homem abotoado a uma das sujeitas, no quarto. Porcaria. Nem fechavam a porta. D. Mercedes resumiu o caso:
 
-- É verdade.
+— É verdade.
 
-- O carvoeiro lhe contou, d. Mercedes?
+— O carvoeiro lhe contou, d. Mercedes?
 
-- Não, foi outra pessoa. Na cidade onde eles moravam todo mundo falava. Foi o que me disseram. Sei de fonte limpa.
+— Não, foi outra pessoa. Na cidade onde eles moravam todo mundo falava. Foi o que me disseram. Sei de fonte limpa.
 
 Quem teria dito? Com certeza a personagem graúda que vivia com ela.
 
-- Estão ouvindo? D. Mercedes garantiu.
+— Estão ouvindo? D. Mercedes garantiu.
 
-- Até dá engulhos - exclamou Antônia cuspindo. - Comer três filhas! Que lobisomem!
+— Até dá engulhos - exclamou Antônia cuspindo. - Comer três filhas! Que lobisomem!
 
 Daí em diante o velho se chamou Lobisomem.
 
-- Parece que Lobisomem amanheceu doente. Não saiu hoje.
+— Parece que Lobisomem amanheceu doente. Não saiu hoje.
 
-- São pecados.
+— São pecados.
 
 As crianças de d. Rosália contavam histórias de lobisomens, e o herói delas era o vizinho. A notícia chegou aos ouvidos de Julião Tavares:
 
-- Diz que um velho por aqui destambocou as filhas? Como é?
+— Diz que um velho por aqui destambocou as filhas? Como é?
 
-- Calúnias - respondeu Moisés.
+— Calúnias - respondeu Moisés.
 
-- Em todo caso é bom verificar isso. Talvez a gente pudesse agarrar uma.
+— Em todo caso é bom verificar isso. Talvez a gente pudesse agarrar uma.
 
 Cachorro! Lobisomem continuava como tinha chegado, indiferente, a cara enferrujada, tão distraído que esbarrava com as pessoas, e os choferes paravam os autos violentamente para não atropelá-lo. E as filhas, coitadas, amarelas, feias, nem se penteavam. Saberiam alguma coisa? Talvez não soubessem. Ao mudar-se para ali, certamente já traziam uma carga de infelicidades. E era possível que houvessem percebido fragmentos de horrores, gestos de desprezo, pilhérias ladradas na rua. Pobre do Lobisomem! Não tinha hora para sair, hora para chegar. Sempre só. Nem um guarda­-chuva, nem uma bengala, trastes necessários a homem tão curvado. Ora para um lado, ora para outro, sem destino. Que vida! Nem um hábito. Esta ideia de uma pessoa viver sem hábitos era para mim extremamente dolorosa. Apesar de haver atravessado uma existência horrível, sempre encontrara nela, mesmo nos tempos mais duros, ocupações que me entretinham. Comparava-me a Lobisomem. Eu era quase feliz, e a comparação me atenazava.
 
 Marina tinha deixado de ver-me à tarde, mas todas as noites a gente se reunia no fundo do quintal. Ela passava pelo buraco da cerca, encostava-se ao tronco da mangueira, e eram beijos, amolegações que nos enervavam.
 
-- Vamos entrar, descansar um bocado, Marina. Já que chegou aqui, dê mais uns passos.
+— Vamos entrar, descansar um bocado, Marina. Já que chegou aqui, dê mais uns passos.
 
-- Você está maluco? Eu vou dar o fora. Qualquer dia a gente mete o rabo na ratoeira. Os velhos descobrem tudo, estrilam, e é um fuzuê da desgraça.
+— Você está maluco? Eu vou dar o fora. Qualquer dia a gente mete o rabo na ratoeira. Os velhos descobrem tudo, estrilam, e é um fuzuê da desgraça.
 
-- Deixa disso, Marina, vamos lá para dentro.
+— Deixa disso, Marina, vamos lá para dentro.
 
-- Good-bye.
+— Good-bye.
 
-- Vem cá, Marina.
+— Vem cá, Marina.
 
-- Vai-te embora, lobisomem.
+— Vai-te embora, lobisomem.
 
 Até ali, àquela hora, surgia o nome do vizinho. O que mais me aborrecia era não saber se as pessoas que falavam dele acreditavam na história suja. Enchia-me de raiva por não conseguir livrar-me dos fuxicos. Desprezava involuntariamente o desgraçado Lobisomem. Se aquilo fosse verdade? Não tinha verossimilhança, era aleive, disparate. Mas tanta gente repetindo as mesmas palavras... E casos iguais já se tinham visto.
 
-- Besteira. Perdendo tempo com bobagens. Para o inferno.
+— Besteira. Perdendo tempo com bobagens. Para o inferno.
 
 Realmente a cara de Lobisomem não inspirava simpatia. E as filhas, de boca aberta, brancas, enroscadas, mo­les... Gente suspeita. Estas dúvidas eram terríveis. Aga­r­rava­-me ao judeu para libertar-me delas:
 
-- Isto é o diabo. Uma criatura inofensiva, uma criatura parada!
+— Isto é o diabo. Uma criatura inofensiva, uma criatura parada!
 
-- Safadeza - dizia Moisés tranquilamente.
+— Safadeza - dizia Moisés tranquilamente.
 
-- Infâmia. Esta canalha precisa chicote.
+— Infâmia. Esta canalha precisa chicote.
 
-- Pois não fale nisso, homem. Para que mexer em porcaria?
+— Pois não fale nisso, homem. Para que mexer em porcaria?
 
-- Não é tanto assim - intervinha Julião Tavares. - O incesto é natural, explica-se.
+— Não é tanto assim - intervinha Julião Tavares. - O incesto é natural, explica-se.
 
-- Lá vem pedantismo.
+— Lá vem pedantismo.
 
 E não prestava atenção à conversa de Julião Tavares. Lembrava-me de outro indivíduo infeliz, um sertanejo que vi há muitos anos, quando ele saía da prisão depois de cumprir sentença. Era um cearense esfomeado que tinha aparecido na vila em tempo de seca. Esmolambado, cheio de feridas, trazia escanchada no pescoço uma filhinha de quatro anos. Tinham ido morar na rua das putas e viviam de esmolas. Um dia as vizinhas ouviram gritos na casinha de palha e taipa que eles ocupavam. Juntaram-se curiosos, olharam por um buraco da parede e viram o homem na esteira, nu, abrindo à força as pernas da filha nua, ensanguentada. Arrombaram a porta, passaram o homem na embira, deram-lhe pancada de criar bicho - e ele confessou, debaixo do zinco, meio morto, que tinha estuprado a menina. Processo, condenação no júri. Anos depois os médicos examinaram a pequena: estava inteirinha. O que havia era sujidade e um corrimento. Tratando a doença da filha com remédios brutos da medicina sertaneja, o homem tinha sido preso, espancado, julgado e condenado.
 
-- Está ouvindo, seu Moisés? Cipó de boi, facão e pé no tronco.
+— Está ouvindo, seu Moisés? Cipó de boi, facão e pé no tronco.
 
 Moisés inflamava-se. Julião Tavares bocejava:
 
-- Natural. A justiça não é infalível.
+— Natural. A justiça não é infalível.
 
-- Marina, a gente deve acabar com isto, minha filha. Vamos para dentro.
+— Marina, a gente deve acabar com isto, minha filha. Vamos para dentro.
 
-- Vou nada!
+— Vou nada!
 
 Torcia o corpo, defendia a virgindade com unhas e dentes.
 
-- Está direito. Então é melhor apressar o casório.
+— Está direito. Então é melhor apressar o casório.
 
-- Com que roupa? - disse Marina.
+— Com que roupa? - disse Marina.
 
-- Que é que falta?
+— Que é que falta?
 
-- Tudo. Eu sou uma noiva pelada, meu filho.
+— Tudo. Eu sou uma noiva pelada, meu filho.
 
 Impacientei-me:
 
-- Ora! Ora! Ora! Entre nós não há cerimônia. Arranja-se. Eu tenho umas economias, pouco, mas tenho. Também você não precisa de muita coisa. Umas fronhas, umas camisas...
+— Ora! Ora! Ora! Entre nós não há cerimônia. Arranja-se. Eu tenho umas economias, pouco, mas tenho. Também você não precisa de muita coisa. Umas fronhas, umas camisas...
 
 Como veem, eu tinha boa vontade. O que receava era transformar as nossas relações, miúdas, num acontecimento social importante.
 
 Aquilo viera pouco a pouco, sem a gente sentir. Naturalmente gastei meses construindo esta Marina que vive dentro de mim, que é diferente da outra, mas se confunde com ela. Antes de eu conhecer a mocinha dos cabelos de fogo, ela me aparecia dividida numa grande quantidade de pedaços de mulher, e às vezes os pedaços não se combinavam bem, davam-me a impressão de que a vizinha estava desconjuntada. Agora mesmo temo deixar aqui uma sucessão de peças e de qualidades: nádegas, coxas, olhos, braços, inquietação, vivacidade, amor ao luxo, quentura, admiração a d. Mercedes. Foi difícil reunir essas coisas e muitas outras, formar com elas a máquina que ia encontrar-me à noite, ao pé da mangueira. Preguiçosa, ingrata, leviana. Os defeitos, porém, só me pareceram censuráveis no começo das nossas relações. Logo que se juntaram para formar com o resto uma criatura completa, achei-os naturais, e não poderia imaginar Marina sem eles, como não a poderia imaginar sem corpo. Além disso ela era meiga, muito limpa. Asseio, cuidado excessivo com as mãos. Passava uma hora no banheiro, e a roupa branca que vestia cheirava. Nos nossos momentos de intimidade eu sentia às vezes uma tentação maluca: baixava-me, agarrava-lhe a orla da camisa, beijava-a, mordia-a. Isto me dava um prazer muito vivo.
 
-- O pior é que você ainda não me pediu - gemeu Marina.
+— O pior é que você ainda não me pediu - gemeu Marina.
 
 E fingiu-se amuada. Liguei pouca importância ao amuo, mas fiquei remoendo aquela ideia desagradável de explicar­-me aos outros sobre coisas que só eram interessantes para nós. Explicações horríveis. Necessário entender-me com seu Ramalho, pedir o consentimento dele, dizer besteiras. Ia escrever-lhe uma carta com laços sagrados, felicidade conjugal, himeneu. Infâmia. Só a ideia de escrever isto me dava náuseas. Intenções puras. E era preciso comprar móveis, trastes de cozinha, cortinas para janelas, almofadas. Intenções puras. Domingo, na missa, o padre leria: - "Querem casar-se Luís Pereira da Silva, com trinta e cinco anos etc. etc., e Marina Ramalho, etc. etc.". Luís Pereira da Silva, com trinta e cinco anos, estava longe da igreja e dos banhos. Que necessidade tinha Luís Pereira da Silva daquela verbiagem? Depois os cartões de comunicação, grandes, com letras douradas, aos colegas da repartição, aos conhecidos, às amigas de Marina, ao padrinho, oficial do exército. Indispensável um cartão ao padrinho, que era oficial do exército e servia em Mato Grosso. Alguém me mandaria um telegrama. Intenções puras. Marina dá grande valor aos telegramas.
 
-- Peço amanhã - murmurei compondo mentalmente as frases bestas da carta. - Falo amanhã. Ou escrevo.
+— Peço amanhã - murmurei compondo mentalmente as frases bestas da carta. - Falo amanhã. Ou escrevo.
 
 Mão de esposo, união conjugal, intenções puras - Marina gosta disto. Provavelmente iria recortar e guardar com cuidado a notícia que o jornal publicaria na sétima página, junto aos versos. Em pé, diante do livro aberto, o juiz me perguntaria: - "O senhor Luís da Silva quer casar com d. Marina Ramalho?". Eu, encabulado, mastigaria uma sílaba, esfregando as mãos. Marina, de roupa branca e flores de laranjeira, afirmaria com a cabeça, pálida e comovida. O diretor me diria: - "Entrou no rol dos homens sérios, seu Luís". D. Adélia choraria abraçada à filha, como é de costume. Os sapatos me apertariam os calos, e o telegrama seria pouco mais ou menos assim: "Felicitações ao prezado amigo". Automóveis da casa para a igreja e da igreja para a casa. Haveria na minha sala alguns troços novos e inúteis. À noite, quando eu fosse procurar em minha mulher as últimas novidades, ela me falaria com entusiasmo naquela glória toda. No dia seguinte d. Rosália se penduraria à janela para gritar: - "Estava muito bonita a sua grinalda, minha negra". Quanto iriam custar tantas maçadas? Talvez os três contos de réis voassem.
 
-- É o diabo, Marina. Vamos ver se arranjamos isto com simplicidade.
+— É o diabo, Marina. Vamos ver se arranjamos isto com simplicidade.
 
 No outro dia retirei quinhentos mil-réis do banco e fui à casa vizinha:
 
-- Ó d. Adélia, faça o favor de chamar a Marina.
+— Ó d. Adélia, faça o favor de chamar a Marina.
 
 E, enquanto esperava:
 
-- Ela contou à senhora, não contou? Pois é. Parece que o mês vindouro a gente se engancha. Tenha a bondade de explicar isto a seu Ramalho. Ele já sabe, não?
+— Ela contou à senhora, não contou? Pois é. Parece que o mês vindouro a gente se engancha. Tenha a bondade de explicar isto a seu Ramalho. Ele já sabe, não?
 
 D. Adélia embrenhou-se em circunlóquios para dizer que o marido sabia e não sabia. Sabia que eu gostava da menina. Isto se via perfeitamente. Agora ir para a igreja assim tão depressa era surpresa.
 
 Marina se vestia num quarto próximo, topando nos móveis, derrubando as coisas.
 
-- É isto, d. Adélia. Quem tem de se empenhar que se venda logo. A senhora não acha? Explique a seu Ramalho. Esse negócio de pedido de casamento é muito pau, não tenho jeito. Apareça, Marina.
+— É isto, d. Adélia. Quem tem de se empenhar que se venda logo. A senhora não acha? Explique a seu Ramalho. Esse negócio de pedido de casamento é muito pau, não tenho jeito. Apareça, Marina.
 
-- Um minuto - respondeu a minha amiga mostrando um pedaço da cara pela porta entreaberta. - Estou acabando de me calçar.
+— Um minuto - respondeu a minha amiga mostrando um pedaço da cara pela porta entreaberta. - Estou acabando de me calçar.
 
-- Está nada! Está pintando os beiços. Essa sua filha é uma pintura, d. Adélia.
+— Está nada! Está pintando os beiços. Essa sua filha é uma pintura, d. Adélia.
 
 Sem saber se aquilo era elogio ou censura, d. Adélia sorriu vexada e justificou Marina:
 
-- É a mocidade.
+— É a mocidade.
 
 Meti a mão no bolso para tirar os quinhentos mil-réis, acanhei-me. Tirei um cigarro, que machuquei olhando as figuras das paredes:
 
-- A senhora tem um Coração de Jesus muito bonito.
+— A senhora tem um Coração de Jesus muito bonito.
 
 Marina apareceu, enroscando-se como uma cobra de cipó e tão bem-vestida como se fosse para uma festa. Ao pegar-me a mão, ficou agarrada, os dedos contraídos, o braço estirado, mostrando-se, na faixa de luz que entrava pela janela. Isto me dava a impressão de que o meu braço havia crescido enormemente. Na extremidade dele um formigueiro em rebuliço tinha tomado subitamente a conformação de um corpo de mulher. As formigas iam e vinham, entravam-me pelos dedos, pela palma e pelas costas da mão, corriam-me por baixo da pele, e eram ferroadas medonhas, eu estava cheio de calombos envenenados. Não distinguia os movimentos desses bichinhos insignificantes que formavam o peito, a cara, as coxas e as nádegas de Marina, mas sentia as picadas - e tinha provavelmente os olhos acesos e esbugalhados. Com uma sacudidela, desembaracei-me da garra que me prendia e tornei-me um sujeito razoável:
 
-- Estávamos combinando, Marina. Quanto mais depressa melhor, foi o que eu disse a d. Adélia. Gente pobre não tem luxo.
+— Estávamos combinando, Marina. Quanto mais depressa melhor, foi o que eu disse a d. Adélia. Gente pobre não tem luxo.
 
-- É preciso fazer as coisas com decência - opinou Marina.
+— É preciso fazer as coisas com decência - opinou Marina.
 
-- Claro. Mas com modéstia. Não é, d. Adélia? Dispensa-se o véu. Para que véu? Eu por mim casava hoje.
+— Claro. Mas com modéstia. Não é, d. Adélia? Dispensa-se o véu. Para que véu? Eu por mim casava hoje.
 
 Marina escandalizou-se, trombuda. E d. Adélia, mexendo-se aflita na cadeira, que rangia sob as banhas excessivas, baixava os olhos, escondia as mãos papudas debaixo do avental, dava razão a mim, dava razão à filha, num desconchavo:
 
-- É mesmo, seu Luís, gente pobre não tem luxo. Com decência, e então? Antigamente um noivado era serviço. Preparar a roupa branca, bordar a colcha, que trabalhão! Tarefa para meses. Hoje em dia, na máquina, vuco, vuco, vuco, num instante se borda uma colcha.
+— É mesmo, seu Luís, gente pobre não tem luxo. Com decência, e então? Antigamente um noivado era serviço. Preparar a roupa branca, bordar a colcha, que trabalhão! Tarefa para meses. Hoje em dia, na máquina, vuco, vuco, vuco, num instante se borda uma colcha.
 
-- A gente podia passar sem a colcha bordada.
+— A gente podia passar sem a colcha bordada.
 
-- Isso é casamento de cambembe - disse Marina.
+— Isso é casamento de cambembe - disse Marina.
 
 D. Adélia, com os olhos suplicantes, pedia silêncio.
 
-- A propósito de roupa branca, d. Adélia...
+— A propósito de roupa branca, d. Adélia...
 
 Calei-me, com vergonha de oferecer os quinhentos mil-réis. O mulherão suspirou:
 
-- No meu tempo de moça um pedido de casamento era coisa muito séria.
+— No meu tempo de moça um pedido de casamento era coisa muito séria.
 
 Agora eu estava ali conversando sobre lençóis.
 
-- A propósito de roupa branca, d. Adélia, estive pensando... Até falei com a Marina, provavelmente ela disse à senhora. Para abreviar, compreende?
+— A propósito de roupa branca, d. Adélia, estive pensando... Até falei com a Marina, provavelmente ela disse à senhora. Para abreviar, compreende?
 
 Compreendia.
 
-- Cedo ou tarde eu havia de comprar esses panos. Para que etiqueta? Por isso me lembrei de propor a Marina... A senhora não leva a mal, suponho.
+— Cedo ou tarde eu havia de comprar esses panos. Para que etiqueta? Por isso me lembrei de propor a Marina... A senhora não leva a mal, suponho.
 
 Não levava:
 
-- Quando duas pessoas se entendem...
+— Quando duas pessoas se entendem...
 
-- Pois é. Uma espécie de adiantamento. É tirar de uma mão e botar na outra. Fica tudo em casa.
+— Pois é. Uma espécie de adiantamento. É tirar de uma mão e botar na outra. Fica tudo em casa.
 
 Entreguei a Marina a pelega de quinhentos:
 
-- Está aqui, minha filha. Comece os arranjos. E adeus, que não quero perder o ponto.
+— Está aqui, minha filha. Comece os arranjos. E adeus, que não quero perder o ponto.
 
 Marina recebeu o dinheiro sem constrangimento, e eu me sensibilizei julgando que ela procedia assim por estar identificada comigo. Fiz-lhe algumas recomendações miúdas e retirei-me.
 
@@ -1275,39 +1275,39 @@ Se eu pegasse a sorte grande, Marina teria colchas bordadas a mão. Pobre de Mar
 
 As cadeiras da minha casa eram bem ordinárias. No tijolo safado não havia tapete. Nem um quadro na parede. E o colchão, duro como pedra, faria escoriações no corpo de Marina. Contento-me com muito pouco, habituei-me cedo a dormir nas estradas, nos bancos dos jardins.
 
-- 16 384 - gemia o cego batendo com a bengala no cimento.
+— 16 384 - gemia o cego batendo com a bengala no cimento.
 
 Ou seria outro número. Cem contos de réis, dinheiro bastante para a felicidade de Marina. Se eu possuísse aquilo, construiria um bangalô no alto do Farol, um bangalô com vista para a lagoa. Sentar-me-ia ali, de volta da repartição, à tarde, como Tavares & Cia., dr. Gouveia e os outros, contaria histórias à minha mulher, olhando os coqueiros, as canoas dos pescadores.
 
-- 16 384.
+— 16 384.
 
 Vestido de pijama, fumando, olharia lá de cima os te­lhados da cidade, os bondes pequeninos a rodar quase parados e sem rumor, os focos da iluminação pública, os coqueiros negros à noite. Uns quadros a óleo enfeitariam a minha sala. Marina dormiria num colchão de paina. E quando saltasse da cama, pisaria num tapete felpudo que lhe acariciaria os pés descalços.
 
-- 16 384.
+— 16 384.
 
 Um tapete fofo, sem dúvida. E a cama teria uma colcha bordada cobrindo o colchão de paina, uma colcha bordada em seis meses.
 
 Alguns dias depois Marina me chamou para mostrar os objetos que tinha comprado. Não era quase nada: calças de seda, camisas de seda e outras ninharias.
 
-- Que é do resto?
+— Que é do resto?
 
-- Que resto? - perguntou espantada. - É só isto. Veja se as camisas estão bem-feitas, diga se as cores lhe agradam.
+— Que resto? - perguntou espantada. - É só isto. Veja se as camisas estão bem-feitas, diga se as cores lhe agradam.
 
-- Muito boas - murmurei.
+— Muito boas - murmurei.
 
-- Mas você nem está olhando.
+— Mas você nem está olhando.
 
-- Para quê? Não entendo. O que vejo é que falta quase tudo.
+— Para quê? Não entendo. O que vejo é que falta quase tudo.
 
-- Que se há de fazer? É a carestia. Em todo caso julgo que você aprova...
+— Que se há de fazer? É a carestia. Em todo caso julgo que você aprova...
 
 Que remédio! Havia de brigar com ela, dizer-lhe que tivesse juízo, explicar que sou pobre, não posso comprar camisas de seda, pó de arroz caro, seis pares de meias de uma vez? Seis pares de meias, que desperdício! Se ela suasse no veio da máquina ou aguentasse as enxaquecas do chefe na repartição, não faria semelhante loucura. Mas não despropositei, como o coração me pedia.
 
-- Está bem. Vamos comprar o resto. Faça economia, ouviu? Os cobres estão escassos.
+— Está bem. Vamos comprar o resto. Faça economia, ouviu? Os cobres estão escassos.
 
 Sangrei mais quinhentos mil-réis. Depois sangrei duzentos, adquiri móveis em leilão e vesti-me de novo, porque as minhas camisas estavam esfiapadas e o paletó se cobria de nódoas. Marina aplaudia a transformação que se ia operando no meu exterior:
 
-- Precisa é mandar consertar essa gola. O corpo está bom. Os pés não prestam, com esses sapatos indecentes. Dê por visto um pavão.
+— Precisa é mandar consertar essa gola. O corpo está bom. Os pés não prestam, com esses sapatos indecentes. Dê por visto um pavão.
 
 Ofereci a seu Ivo os meus sapatos cambados e reformei os pés. O dinheiro sumia-se, essas alterações chupavam­-me as reservas acumuladas com paciência. Eu vivia preocupado, fazendo cálculos na rua. E ainda não havia comprado uma lembrança para Marina.
 
@@ -1315,17 +1315,17 @@ Liquidei a minha conta no banco, estudei cuidadosamente uma vitrina de joias, es
 
 Ia cheio de satisfação maluca. Não tirava a mão do bolso, apalpava as caixinhas, sentia através do papel de seda a macieza do veludo. Na alvura do braço roliço a fita do relógio faria uma cinta negra; a pedrinha branca faiscaria no dedo miúdo.
 
-- Moisés me emprestará cinquenta mil-réis até o mês vindouro.
+— Moisés me emprestará cinquenta mil-réis até o mês vindouro.
 
 Ao chegar à rua do Macena recebi um choque tremendo. Foi a decepção maior que já experimentei. À janela da minha casa, caído para fora, vermelho, papudo, Julião Tavares pregava os olhos em Marina, que, da casa vizinha, se derretia para ele, tão embebida que não percebeu a minha chegada. Empurrei a porta brutalmente, o coração estalando de raiva, e fiquei em pé diante de Julião Tavares, sentindo um desejo enorme de apertar-lhe as goelas. O homem perturbou-se, sorriu amarelo, esgueirou-se para o sofá, onde se abateu.
 
-- Tem negócio comigo?
+— Tem negócio comigo?
 
 A cólera engasgava-me. Julião Tavares começou a falar e pouco a pouco serenou, mas não compreendi o que ele disse. Canalha. Meses atrás se entalara num processo de defloramento, de que se tinha livrado graças ao dinheiro do pai. Com o olho guloso em cima das mulheres bonitas, estava mesmo precisando uma surra. E um cachorro daquele fazia versos, era poeta.
 
 Aprumava-se, as palavras corriam-lhe facilmente, mas continuei a ignorar o que significavam.
 
-- Tem negócio comigo? - repeti sem pensar que o tipo já havia provavelmente dado resposta.
+— Tem negócio comigo? - repeti sem pensar que o tipo já havia provavelmente dado resposta.
 
 A loquacidade de Julião Tavares aborrecia-me. Uma voz líquida e oleosa que escorria sem parar. A minha cólera esfriava, o suor colava-me a camisa ao corpo.
 
@@ -1333,27 +1333,27 @@ A roupa do intruso era bem-feita, os sapatos brilhavam. Baixei a cabeça. Os meu
 
 Julião Tavares falou sobre a política do país. A enxurrada cobria-se de nódoas de gordura, que se alastravam. Ia lá discutir com aquele bandido? O meu desejo era insultá-lo.
 
-- Nunca estou em casa a esta hora. Estou no serviço, percebe? Sou um homem ocupado.
+— Nunca estou em casa a esta hora. Estou no serviço, percebe? Sou um homem ocupado.
 
-- Perfeitamente - respondeu Julião Tavares. - Uma vida cheia, uma vida nobre, dedicada ao trabalho.
+— Perfeitamente - respondeu Julião Tavares. - Uma vida cheia, uma vida nobre, dedicada ao trabalho.
 
 Só a pontapés.
 
-- Muito bonito, seu doutor.
+— Muito bonito, seu doutor.
 
 Ultimamente, embora repugnado, eu o tratava por você.
 
-- Uma coisa é jogar frases em cima do trabalho alheio, outra é pegar no pesado.
+— Uma coisa é jogar frases em cima do trabalho alheio, outra é pegar no pesado.
 
 Julião Tavares fechou a cara:
 
-- Todos nós temos as nossas obrigações, homem. Cada qual sabe onde o sapato lhe aperta.
+— Todos nós temos as nossas obrigações, homem. Cada qual sabe onde o sapato lhe aperta.
 
 Olhei os pés dele, e o meu ódio aumentou:
 
-- Os seus não devem apertar muito.
+— Os seus não devem apertar muito.
 
-- Acha?
+— Acha?
 
 Baixei a cabeça, mordi os beiços para não gritar os desaforos que me subiam à garganta e que eu engolia, pus-me a marchar na sala estreita, batendo os calcanhares com força. De uma parede a outra quatro passos. A porta, que tinha ficado aberta, mostrava-me os paralelepípedos, as sarjetas, as pernas dos transeuntes, só as pernas, porque, como já disse, eu tinha a cabeça baixa. A minha curiosidade se concentrava nos sapatos dos transeuntes. Passaram os tamancos de um carregador, os chinelos de Antônia, umas botinas velhas que julguei serem de Lobisomem. As crianças de d. Rosália corriam e gritavam, mas estavam descalças.
 
@@ -1367,159 +1367,159 @@ Estremeci. Os meus dedos contraíram-se, moveram-se para Julião Tavares. Com um
 
 Pensei em seu Evaristo e na cobra enrolada no pescoço do velho Trajano. Parei no meio da sala, aterrado com a imagem medonha que me apareceu. O pescoço do homem estirava-se, os ossos afastavam-se, os beiços entreabriam-se, roxos, intumescidos, mostrando a língua escura e os dentinhos de rato.
 
-- Está doente? - perguntou-me Julião Tavares.
+— Está doente? - perguntou-me Julião Tavares.
 
 Suponho que a minha resposta foi despropositada.
 
 O rapaz levantou-se, aproximou-se, e eu me desviei dele com um palavrão. Não me lembro do que disse, mas sei perfeitamente que terminei com um palavrão obsceno. Julião Tavares aprumou-se.
 
-- Puta que o pariu - resmunguei.
+— Puta que o pariu - resmunguei.
 
 Parece que ele ouviu. Mas fingiu que não tinha ouvido. Agarrou o chapéu e saiu.
 
-- Bonito!
+— Bonito!
 
 E pus-me a esfregar as mãos:
 
-- Por causa de uma guenza de maus costumes estar um homem a aperrear-se. Enrolem-se, durmam, danem-se, vão para a casa do diabo.
+— Por causa de uma guenza de maus costumes estar um homem a aperrear-se. Enrolem-se, durmam, danem-se, vão para a casa do diabo.
 
 Fui à cozinha e conversei um minuto com o Currupaco.
 
-- O jantar está na mesa - disse Vitória.
+— O jantar está na mesa - disse Vitória.
 
 Entrei na sala de jantar, bebi um pouco de aguardente, fiquei um instante olhando, por cima do muro, a mulher que lava garrafas e o homem que enche dornas.
 
 A sombra da mangueira ia cobrindo o quintal.
 
-- As moscas estão comendo o jantar - gritou Vitória.
+— As moscas estão comendo o jantar - gritou Vitória.
 
 Cheguei-me à mesa, bebi mais um trago de aguardente e tomei o caminho da rua. Marina estava à janela:
 
-- Que é isso? Vai com tanta pressa! Fale com os pobres.
+— Que é isso? Vai com tanta pressa! Fale com os pobres.
 
 Pareceu-me contrafeita. Sem-vergonha.
 
-- Não matei seu boi não, moço. Me largue.
+— Não matei seu boi não, moço. Me largue.
 
 Passeei à toa pelas ruas, parando em frente às vitrinas, com a tentação de destruir os objetos expostos. As mulheres que ali estavam em pasmaceira, admirando aquelas porcarias, mereciam chicote. Fui ao jornal, li os telegramas. Eram notícias sem importância, mas julguei perceber nelas graves sintomas de decomposição social. Estive olhando sem ler os cartazes do cinema, entrei maquinalmente. O porteiro sabe que trabalho na imprensa e não pediu bilhete de ingresso. Na sala de projeção fiquei de pé, ao fundo, por baixo da cabina, sem ver a tela. Nunca presto atenção às coisas, não sei para que diabo quero olhos. Trancado num quarto, sapecando as pestanas em cima de um livro, como sou vaidoso e como sou besta! Caminhei tanto, e o que fiz foi mastigar papel impresso. Idiota. Podia estar ali a distrair-me com a fita. Depois, finda a projeção, instruir-me vendo as caras. Sou uma besta. Quando a realidade me entra pelos olhos, o meu pequeno mundo desaba. À saída encontrei Moisés encostado a um poste da iluminação, lendo um jornal.
 
-- Acabe com essa literatura, Moisés - exclamei impaciente. - Não serve.
+— Acabe com essa literatura, Moisés - exclamei impaciente. - Não serve.
 
 Moisés dobrou a folha, sorrindo:
 
-- Que história é essa?
+— Que história é essa?
 
-- É o que lhe digo. Não serve. A linguagem escrita é uma safadeza que vocês inventaram para enganar a humanidade, em negócios ou com mentiras.
+— É o que lhe digo. Não serve. A linguagem escrita é uma safadeza que vocês inventaram para enganar a humanidade, em negócios ou com mentiras.
 
-- Que diabo tem você? - perguntou Moisés.
+— Que diabo tem você? - perguntou Moisés.
 
-- Não é nada não. É que não vale a pena, acredite que não vale a pena. Uma pessoa passa a vida remoendo essas bobagens. Tempo perdido. Uma criança mete a gente num chinelo, Moisés; qualquer imbecil mete a gente num chinelo, Moisés.
+— Não é nada não. É que não vale a pena, acredite que não vale a pena. Uma pessoa passa a vida remoendo essas bobagens. Tempo perdido. Uma criança mete a gente num chinelo, Moisés; qualquer imbecil mete a gente num chinelo, Moisés.
 
 Às onze horas achava-me encostado a uma banca do Helvética, bebendo aguardente e não distinguindo bem as pessoas que se serviam nas outras mesas, funcionários, políticos, negociantes, choferes, prostitutas. Uma criaturinha magra empurrou uma das portinholas que dão para a igreja do Livramento, avançou de manso. Ninguém lhe prestou atenção.
 
-- Pst. Senta aí.
+— Pst. Senta aí.
 
 Chegou-se acanhada e esperou a repetição do convite.
 
-- Senta aí.
+— Senta aí.
 
 Sentou-se. O peito era uma tábua, os braços finos, as pernas uns cambitos que nem sei como aguentavam o corpo. A carinha não era feia, talvez tivesse sido bonita.
 
-- Beba alguma coisa.
+— Beba alguma coisa.
 
-- Não, muito obrigada.
+— Não, muito obrigada.
 
 E espalhou a vista pelas mesas.
 
-- Procurando alguém?
+— Procurando alguém?
 
-- Era. Parece que ele hoje não vem. Já é tão tarde!
+— Era. Parece que ele hoje não vem. Já é tão tarde!
 
-- Onde mora?
+— Onde mora?
 
-- Aqui na rua da Lama. É perto.
+— Aqui na rua da Lama. É perto.
 
 E mostrou a chave que trazia na mão.
 
-- Beba alguma coisa - insisti.
+— Beba alguma coisa - insisti.
 
-- Não senhor, eu não bebo.
+— Não senhor, eu não bebo.
 
 Tossia e olhava a porta da cozinha.
 
-- Um petisco.
+— Um petisco.
 
 Pimentel entrou na sala e perguntou-me ao ouvido:
 
-- Onde diabo arranjou esse canhão?
+— Onde diabo arranjou esse canhão?
 
 Coitadinha. Não era feia, o que estava era estragada.
 
-- Aceite.
+— Aceite.
 
 A criatura hesitava, afogueada. Afinal se resolveu:
 
-- Muito obrigada. Eu aceito. O senhor vai comigo, não? É aqui pertinho.
+— Muito obrigada. Eu aceito. O senhor vai comigo, não? É aqui pertinho.
 
 Comeu de cabeça baixa, em silêncio, e repetiu o prato. Só falou ao terminar o café:
 
-- Vamos?
+— Vamos?
 
 Meti a mão no bolso e lembrei-me de que me restava uma cédula de vinte mil-réis. Recebi o troco e levantei-me.
 
-- Vai comigo? - tornou a perguntar a mulher.
+— Vai comigo? - tornou a perguntar a mulher.
 
 Bebi o resto da aguardente:
 
-- Vamos lá.
+— Vamos lá.
 
 No quartinho sujo a rapariga despiu-se e veio abraçar­-me desajeitada. O cabelo tinha um óleo de cheiro enjoativo.
 
-- Esteja quieta.
+— Esteja quieta.
 
 E afastei-me, sentei-me na cama, sem tirar o chapéu. Ela acomodou-se, as pernas cruzadas, os braços cruzados escondendo os peitos bambos. Curvada, mostrava apenas um pedaço da barriga engelhada e escura.
 
-- Anda na vida há muito tempo?
+— Anda na vida há muito tempo?
 
-- Nem por isso. Quatro anos.
+— Nem por isso. Quatro anos.
 
-- An.
+— An.
 
 Quatro anos. E ali estava aquela carcaça comida pe­lo treponema. Panos caídos no chão, o irrigador com per­manganato. Na mesinha da cabeceira essências ordinárias disfarçavam um cheiro forte de esperma. Tive necessidade de fumar. Encontrei cigarros, mas procurei fósforos em todos os bolsos, e o que achei foi o pacote com as caixinhas de veludo - o relógio-pulseira e o anel.
 
-- Faz o obséquio de me arranjar uma caixa de fósforos?
+— Faz o obséquio de me arranjar uma caixa de fósforos?
 
 A mulher levantou-se. Escanzelada, coxas finas com marcas de varizes, nádegas murchas. Chi! que peleiro!
 
-- Muito obrigado.
+— Muito obrigado.
 
 Acendi o cigarro. A mulher sentou-se junto de mim e começou o seu trabalho de abraços, beijos etc.
 
-- Esteja quieta.
+— Esteja quieta.
 
 Meti a mão no bolso, senti através do papel de seda a macieza do veludo. A fita do relógio faria uma cinta negra no braço roliço, um braço macio como veludo. Os beijos começavam no pulso, onde a fita se enrolaria. O tique-taque seria do relógio ou do sangue correndo na artéria? Na escuridão do quintal os meus beiços avançavam na pele, que se cobria de borbulhas pequenas como pontas de alfinetes.
 
-- Sempre foi assim magra?
+— Sempre foi assim magra?
 
-- Ah! não! - respondeu a mulher ocultando as pelancas dos peitos com os cotovelos ossudos. - Era cheia, gordinha.
+— Ah! não! - respondeu a mulher ocultando as pelancas dos peitos com os cotovelos ossudos. - Era cheia, gordinha.
 
 Acariciei com as pontas dos dedos o papel de seda. A mulher bocejava, caceteada. Que horas seriam? Talvez uma hora. A folhagem da mangueira estendia um pretume no quintal. Os mais insignificantes rumores cresciam: o salto dos grilos nos canteiros, a queda das folhas, o trabalho das formigas. A luz vermelha do farol espalhava-se pelo telhado. Um minuto depois não era vermelha, era branca. Usávamos precauções excessivas, receávamos que os nossos suspiros fossem ouvidos nas casas fechadas.
 
-- Parece que isso rende pouco, hem? - perguntei abarcando com a vista a mesinha, o espelho rachado, o irrigador, as camisas sujas, toda a miséria do quarto.
+— Parece que isso rende pouco, hem? - perguntei abarcando com a vista a mesinha, o espelho rachado, o irrigador, as camisas sujas, toda a miséria do quarto.
 
 A mulher teve um gesto de esmorecimento:
 
-- E então! Não está vendo?
+— E então! Não está vendo?
 
-- É. Não se dá. Por que não arranja outra vida?
+— É. Não se dá. Por que não arranja outra vida?
 
 Levantou os ombros, quase agastada:
 
-- Ora outra vida! Que vida? Sempre os mesmos conselhos. Daqui só para a cova.
+— Ora outra vida! Que vida? Sempre os mesmos conselhos. Daqui só para a cova.
 
 Realmente, coitada, dali era para a cova, com escala pelo hospital. Infelicidade. Eu é que me podia considerar um sujeito feliz. Repetia isto maquinalmente, enquanto apalpava as caixinhas de veludo. Soltei-as com raiva, ergui­-me, esfreguei as mãos. O sentido das palavras que me dançavam no espírito tornou-se claro. Perfeitamente, um sujeito feliz. Que é que me faltava? Livre. Se me viesse aquela desgraça depois do casamento? A sem­-vergonha, admiradora de d. Mercedes, tinha feitio para cornear marido mais vigilante que eu. - "D. Mercedes é linda, parece uma artista de cinema." Sem-vergonha. Recuperava a minha liberdade. Muito bem. Fazia tempo que não frequentava as mulheres. Pois estava em casa de uma. O pior é que só me restavam catorze mil-réis e uns níqueis. O dinheiro tinha voado, tinha-se esbagaçado, virara camisas de seda, pó de arroz. Dos males o menor.
 
-- Vão-se os anéis, fiquem os dedos.
+— Vão-se os anéis, fiquem os dedos.
 
 Magnífica solução. Liberdade, liberdade completa.
 
@@ -1529,139 +1529,139 @@ Liberdade, liberdade,
 
 Abre as asas sobre nós...
 
-- Está indisposto? - perguntou a mulher. - É bom deitar-se, descansar. Vamos dormir.
+— Está indisposto? - perguntou a mulher. - É bom deitar-se, descansar. Vamos dormir.
 
 Dormir, que lembrança!
 
-- Não, adeus. Está aqui. Não lhe dou mais porque não tenho, ouviu? Desculpe.
+— Não, adeus. Está aqui. Não lhe dou mais porque não tenho, ouviu? Desculpe.
 
 A criatura recusou os dez mil-réis que lhe apresentei:
 
-- Pode guardar. Nós não fizemos nada. Além disso pagou a ceia. Eu estava com fome.
+— Pode guardar. Nós não fizemos nada. Além disso pagou a ceia. Eu estava com fome.
 
-- Não senhora. Receba. É o que tenho.
+— Não senhora. Receba. É o que tenho.
 
-- Muito obrigada. Já não lhe disse que não aceito? Eu estava com fome.
+— Muito obrigada. Já não lhe disse que não aceito? Eu estava com fome.
 
 Encolerizei-me de verdade e despropositei:
 
-- Não me faça cometer um desatino. A senhora é relógio para trabalhar de graça? A senhora tem obrigação de andar nua diante de mim? Duas horas de chateação, de conversa mole! A senhora é relógio? A senhora não é relógio.
+— Não me faça cometer um desatino. A senhora é relógio para trabalhar de graça? A senhora tem obrigação de andar nua diante de mim? Duas horas de chateação, de conversa mole! A senhora é relógio? A senhora não é relógio.
 
 A mulher recebeu o dinheiro, espantada. Julgou-me doido, suponho. Realmente as últimas palavras me haviam tornado furioso.
 
 Marina me explicou muito direitinho que eu não tinha razão. O que tinha era falta de confiança nela. Chorou, e fiquei meio lá, meio cá, propenso a acreditar que me havia enganado.
 
-- Posso obrigar uma pessoa a não olhar para mim? Posso furar os olhos do povo?
+— Posso obrigar uma pessoa a não olhar para mim? Posso furar os olhos do povo?
 
 Não senhora. A coisa era diferente. Eles tinham sido pegados com a boca na botija, grelando, esquecidos do mundo. Tinham ou não tinham? Sim senhor, mas sem malícia.
 
-- Posso furar os olhos do povo?
+— Posso furar os olhos do povo?
 
 Esta frase besta foi repetida muitas vezes, e, em falta de coisa melhor, aceitei-a. Sem dúvida. As mulheres hoje não vivem como antigamente, escondidas, evitando os homens. Tudo é descoberto, cara a cara. Uma pessoa topa outra. Se gostou, gostou; se não gostou, até logo. E eu de fato não tinha visto nada. As aparências mentem. A Terra não é redonda? Esta prova da inocência de Marina me pareceu considerável. Tantos indivíduos condenados injustamente neste mundo ruim! O retirante que fora encontrado violando a filha de quatro anos - estava aí um exemplo. As vizinhas tinham visto o homem afastando as pernas da menina, todo mundo pensava que ele era um monstro. Engano. Quem pode lá jurar que isto é assim ou assado? Procurei mesmo capacitar-me de que Julião Tavares não existia. Julião Tavares era uma sensação. Uma sensação desagradável, que eu pretendia afastar de minha casa quando me juntasse àquela sensação agradável que ali estava a choramigar.
 
-- Pois bem, minha filha, não vale a pena falar mais nisso. Enxugue os olhos. Se você diz que não foi, não foi. Acabou-se, não se discute. Está aqui uma lembrancinha que eu lhe trouxe. Vamos ver se fica bonito.
+— Pois bem, minha filha, não vale a pena falar mais nisso. Enxugue os olhos. Se você diz que não foi, não foi. Acabou-se, não se discute. Está aqui uma lembrancinha que eu lhe trouxe. Vamos ver se fica bonito.
 
 Marina desembaraçou-se das lamúrias, passou a uma alegria ruidosa. Muitos agradecimentos, uns beijos ainda com a cara molhada. Estranhei aquela mudança repentina.
 
-- Nervoso. Quando casar, endireita.
+— Nervoso. Quando casar, endireita.
 
 Marina examinava o relógio e o anel: levantava a mão, afastava-a, aproximava-a.
 
-- Uma beleza. Você tomando incômodo!
+— Uma beleza. Você tomando incômodo!
 
 Incômodo! Eu estava com o bolso pegando fogo e devendo cinquenta mil-réis a Pimentel.
 
-- Não se preocupe. O que precisamos é acertar essa história do casamento. Quando é isso?
+— Não se preocupe. O que precisamos é acertar essa história do casamento. Quando é isso?
 
 Respondeu vagamente. Andava bordando umas guarnições, preparando umas almofadas. E faltavam certas coisas. Impacientei-me:
 
-- Se você só se decidir quando tiver tudo... Assim ninguém acaba. Vamos marcar o dia. Valeu? Dê uma nota dos troços que faltam.
+— Se você só se decidir quando tiver tudo... Assim ninguém acaba. Vamos marcar o dia. Valeu? Dê uma nota dos troços que faltam.
 
-- Talvez fosse melhor eu fazer a compra.
+— Talvez fosse melhor eu fazer a compra.
 
-- É. Talvez fosse, gaguejei aflito. Eu vou ser franco. Estou na pindaíba, ouviu? É necessário a gente escolher mercadoria barata.
+— É. Talvez fosse, gaguejei aflito. Eu vou ser franco. Estou na pindaíba, ouviu? É necessário a gente escolher mercadoria barata.
 
 Esperei que minha noiva se conformasse com a situação. Baixou a cabeça, e as partes do rosto que não estavam pintadas empalideceram:
 
-- Bem.
+— Bem.
 
-- Dá cá a nota.
+— Dá cá a nota.
 
-- Para quê? Assim com essa pobreza...
+— Para quê? Assim com essa pobreza...
 
-- Deixa disso - murmurei ressentido. - Donde vem tanto luxo? Riqueza não tenho, mas para vivermos com decência o que há chega. Dá cá a nota.
+— Deixa disso - murmurei ressentido. - Donde vem tanto luxo? Riqueza não tenho, mas para vivermos com decência o que há chega. Dá cá a nota.
 
 Marina entregou-me lápis e papel, ditou coisas absurdas, com um risinho ruim, e eu percebi nela a intenção perversa de me humilhar. Quando falou em tapetes e tapeçarias, não me contive:
 
-- Oh! Isso também é demais. Eu estou fazendo das fraquezas forças, compreenda. Diga os objetos indispensáveis. Meu avô não possuía tapetes e foi um homem feliz.
+— Oh! Isso também é demais. Eu estou fazendo das fraquezas forças, compreenda. Diga os objetos indispensáveis. Meu avô não possuía tapetes e foi um homem feliz.
 
-- Naquele tempo era diferente - respondeu Marina.
+— Naquele tempo era diferente - respondeu Marina.
 
-- Está bem.
+— Está bem.
 
 Não escrevi as tapeçarias, terminei a nota e despedi-me bastante aperreado. Tudo aquilo estava fora dos eixos. Mais tarde encontrei Moisés:
 
-- Olhe cá. Seu tio me quererá vender estas porcarias a crédito?
+— Olhe cá. Seu tio me quererá vender estas porcarias a crédito?
 
-- Esse negócio de prestações é por preço horrível - disse Moisés. - Era melhor você comprar a dinheiro.
+— Esse negócio de prestações é por preço horrível - disse Moisés. - Era melhor você comprar a dinheiro.
 
-- Mas se não tenho! Estou na quebradeira, Moisés. Mande as fazendas.
+— Mas se não tenho! Estou na quebradeira, Moisés. Mande as fazendas.
 
 Assim, acabei de encalacrar-me. Marina recebeu os panos friamente, insensível ao sacrifício que eu fazia, aquela ingrata. Se eu não tivesse cataratas no entendimento, teria percebido logo que ela estava com a cabeça virada. Virada para um sujeito que podia pagar-lhe camisas de seda, meias de seda. Que valiam os tecidos grosseiros comprados ao velho Abraão, ou Salomão, o tio de Moisés? Nem olhou os pobres trapos, que ficaram em cima de uma cadeira, esquecidos.
 
 Lembro-me perfeitamente da cena muda que houve naquela tarde. Sentada, a cabeça caída para o encosto da cadeira, as pernas cruzadas, os dedos cruzados num joelho, não me via, era como se estivesse só. A cara parada mostrava cansaço, enjoo. De longe em longe batia com o calcanhar no chão. A saia esticada exibia a coxa, mas a minha atenção se concentrava nos braços e nos dedos. Não trazia o relógio nem o anel que eu lhe tinha oferecido na véspera. Isto me desapontava, arrancava-me pragas e insultos, que eu engolia com medo de praticar uma violência. - "Ordinária! Arrasa-se a gente para ser agradável a uma peste assim, e o resultado é este: coice. Ordinária. Safada." Desejei falar novamente em Julião Tavares, mas temi não convencer-me de que me havia enganado. O rosto imóvel, como se eu não estivesse ali. As mãos finas cruzadas sobre o joelho. Ia escurecendo. Àquela hora seu Ramalho, coberto de azeite, abreviava os dias no calor da usina elétrica, limando bronzes. D. Adélia, na cozinha, enchia-se de fumaça, envenenava-se. Marina permanecia imóvel. Que é que eu estava fazendo, naquele constrangimento, olhando o pacote aberto, estripado, em cima de uma cadeira? As entrevistas no quintal eram coisas muito antigas. O relógio e o anel tinham sido oferecidos na véspera, mas eram antigos também. E parecia­-me que tinham sido dados a outra pessoa. Em que estaria pensando Marina? Agora eu não lhe via o rosto: as feições diluíam-se na escuridão. Sentia-me atordoado, com um nó na garganta. Se falasse, diria injúrias. Uma ingratidão assim! Não esperava aquilo. Fatos e indivíduos desencontrados, velhos e novos, fervilhavam-me na cabeça, misturavam-se. No copiar da fazenda José Baía explicava-me as virtudes da oração da cabra preta. Seu Evaristo balançava, pendurado num galho de carrapateira. Berta me havia segurado um braço e arrastado até a escada. E eu, agarrando-me ao corrimão: - "Madame, a senhora não está vendo que não posso encostar-me a uma criatura da sua marca?". Tavares & Cia., negociantes de secos e molhados na rua do Comércio, vestidos de brim de linho, viviam escondidos por detrás dos fardos e eram uns ratos. - "Escrevi muito atacando a Primeira República, doutor. As minhas opiniões são conhecidas." Pobre da mulher da rua da Lama. Rondando as mesas, com fome, às onze horas da noite.
 
-- Bem. Parece que me vou embora, Marina. Boa noite.
+— Bem. Parece que me vou embora, Marina. Boa noite.
 
-- Já vai? - perguntou Marina sem se mexer.
+— Já vai? - perguntou Marina sem se mexer.
 
-- Já.
+— Já.
 
 Saí, resmungando:
 
-- Escolher marido por dinheiro. Que miséria! Não há pior espécie de prostituição.
+— Escolher marido por dinheiro. Que miséria! Não há pior espécie de prostituição.
 
 Por que foi que aquela criatura não procedeu com franqueza? Devia ter-me chamado e dito: - "Luís, vamos acabar com isto. Pensei que gostava de você, enganei-me, estou embeiçada por outro. Fica zangado comigo?". E eu teria respondido: - "Não fico não, Marina. Você havia de casar contra vontade? Seria um desastre. Adeus. Seja feliz". Era o que eu teria dito. Sentiria despeito, mas nenhuma desgraça teria acontecido. Lembrar-me-ia de Marina com vaidade, até com orgulho: - "Sim senhor, gostei de uma mulher de caráter, mulher de cabelo na venta". Não seria esta miséria, esta recordação de coisas mesquinhas.
 
 De todo aquele romance as particularidades que melhor guardei na memória foram os montes de cisco, a água empapando a terra, o cheiro dos monturos, urubus nos galhos da mangueira farejando ratos em decomposição no lixo. Tão morno, tão chato! Nesse ambiente empestado Marina continuava a oferecer-se negaceando. Conservava-me preso, fazendo gatimanhos, esticando a saia estreita que lhe mostrava bem as coxas e as nádegas.
 
-- Marina, esse procedimento é incorreto. Por que não me larga? Dê o fora, desocupe o beco.
+— Marina, esse procedimento é incorreto. Por que não me larga? Dê o fora, desocupe o beco.
 
-- Está roendo courana. Coitadinho dele.
+— Está roendo courana. Coitadinho dele.
 
 Não tornamos a falar em casamento. Creio que ela pro­cedeu assim por hábito. Ou talvez quisesse pagar os objetos que tinham esgotado a minha fortuna. Mas ia-se distanciando, e eu não podia agarrá-la. Às vezes ficava trombuda, aparentando gravidade. As distrações eram constantes, aquele modo de se descangotar, abrir a boca e olhar por cima da cabeça da gente. Isto me amarrava e atenazava. Presumo que a intenção dela era desembaraçar-se de mim lentamente, ou desembaraçar-se ela própria do costume que havia adquirido.
 
 À tarde eram aqueles manejos, mas pela manhã, quando eu saía para a repartição, plantava os cotovelos na janela e enxeria-se com Julião Tavares. Uma vez por semana eu largava o serviço antes do meio-dia, só para pegá-los. Ao dobrar a rua Augusta, avistava Julião Tavares na prosa com ela, vermelho, soprando, derretendo-se, a roupa de brim com manchas de suor nos sovacos. Vendo-me, o canalha voltava as costas, porque estava intrigado comigo. Abri-me com d. Adélia, comentei aquele escândalo:
 
-- A senhora aprova o comportamento de sua filha?
+— A senhora aprova o comportamento de sua filha?
 
 D. Adélia torceu as mãos, engoliu em seco e respondeu numa atrapalhação:
 
-- É a mocidade.
+— É a mocidade.
 
 Perdi os estribos:
 
-- Que mocidade! É sem-vergonheza. Não lhe invejo a sorte, d. Adélia. Sua filha acaba mal.
+— Que mocidade! É sem-vergonheza. Não lhe invejo a sorte, d. Adélia. Sua filha acaba mal.
 
-- Quem tem família está sujeito a tudo, seu Luís. Ninguém deve dizer "Deste pão não comerei nem desta água beberei".
+— Quem tem família está sujeito a tudo, seu Luís. Ninguém deve dizer "Deste pão não comerei nem desta água beberei".
 
-- Não deve não, d. Adélia. É uma tristeza. A senhora lavando, engomando, cozinhando, e seu Ramalho na quentura da usina elétrica, matando-se para sustentar os luxos daquela tonta. Sua filha não tem coração.
+— Não deve não, d. Adélia. É uma tristeza. A senhora lavando, engomando, cozinhando, e seu Ramalho na quentura da usina elétrica, matando-se para sustentar os luxos daquela tonta. Sua filha não tem coração.
 
-- Muito nova, dizia a mãe. Depois endireita. Quando casar, endireita.
+— Muito nova, dizia a mãe. Depois endireita. Quando casar, endireita.
 
-- E a senhora pensa que há no mundo um trouxa que se engane com ela? Não casa não, d. Adélia. Aquela dá com os burros na água.
+— E a senhora pensa que há no mundo um trouxa que se engane com ela? Não casa não, d. Adélia. Aquela dá com os burros na água.
 
 D. Adélia tinha lágrimas na voz e gaguejava frases truncadas:
 
-- Então... Eu não sabia. Uma coisa apalavrada... Não há motivo, seu Luís, acredite que não há motivo. Por que foi?
+— Então... Eu não sabia. Uma coisa apalavrada... Não há motivo, seu Luís, acredite que não há motivo. Por que foi?
 
 Eu sentia prazer em atormentar a pobre da velha:
 
-- D. Adélia, olhe para a minha cara. A senhora me acha com jeito de corno?
+— D. Adélia, olhe para a minha cara. A senhora me acha com jeito de corno?
 
-- Deus me livre, seu Luís - exclamava a mulher recuando e arregalando os olhos. - Eu havia de achar semelhante barbaridade?
+— Deus me livre, seu Luís - exclamava a mulher recuando e arregalando os olhos. - Eu havia de achar semelhante barbaridade?
 
-- Então, se não me acha com jeito de corno, não me faça perguntas dessa natureza.
+— Então, se não me acha com jeito de corno, não me faça perguntas dessa natureza.
 
 O meu desejo era desligar-me daquela gente, passar calado, carrancudo, as mãos nos bolsos, o chapéu embicado. Esforçava-me por me dedicar às minhas ocupações cacetes: escrever elogios ao governo, ler romances e arranjar uma opinião sobre eles. Não há maçada pior. A princípio a gente lê por gosto. Mas quando aquilo se torna obrigação e é preciso o sujeito dizer se a coisa é boa ou não é e por quê, não há livro que não seja um estrupício.
 
@@ -1671,7 +1671,7 @@ Os grilos não me incomodavam, escrevo perfeitamente ouvindo os grilos. Havia um
 
 Os ratos é que me roíam a paciência. Corrote, corrote - era como se roessem qualquer coisa dentro de mim. Lembrava-me do tempo em que andava pelas ruas sentindo o cheiro das mulheres. Miudinhos, deviam ser catitas. Corriam pela sala de jantar, vinham mexer nos meus chinelos, sem medo, sem vergonha. Levantava-me, abria as portas do guarda-comidas, saltavam três, quatro, que se escapuliam para os buracos das paredes. Voltavam, assustados, ganhavam confiança, aproximavam-se, bonitinhos, os olhos vivos e as orelhas arrebitadas. O meio de obrigá-los ao silêncio durante uns minutos era espalhar na sala pedaços de miolo de pão, que eles devoravam depressa. Casa infame. E dr. Gouveia cobrava-me cento e vinte mil-réis de aluguel! De quando em quando o madeiramento bichado estalava.
 
-- Qualquer dia esta cumeeira vem abaixo - gemia Vitória. Por que é que o senhor não se muda?
+— Qualquer dia esta cumeeira vem abaixo - gemia Vitória. Por que é que o senhor não se muda?
 
 As noites eram medonhas. Os galos marcavam o tempo, importunavam mais que os relógios. E os ratos não descansavam. Enquanto alguns roíam a madeira do guarda­-comidas, outros deviam estar lá dentro no armário, devastando os manuscritos, morrendo na literatura. Fogo nos livros imundos. Mas a casa enchia-se de pulgas. O gato amava nos telhados, gato ordinário. Uns miados estridentes, indiscretos: - "Rasga, diabo!". Marina, quando se excitava, enrolava-se como uma gata e miava. Miava baixinho, para não acordar a vizinhança.
 
@@ -1691,51 +1691,51 @@ Seu Ramalho tossia. Assaltava-me o desejo de ver Julião Tavares sujo de azeite 
 
 Pouco a pouco nos fomos distanciando, um mês depois éramos inimigos. A princípio houve brigas, reconciliações desajeitadas, conversas azedas com d. Adélia. Tempo perdido. Marina estava realmente com a cabeça virada para Julião Tavares. Comecei a passar trombudo pela calçada, remoendo a decepção, que procurei recalcar.
 
-- Mulheres não faltam.
+— Mulheres não faltam.
 
 Entrei a procurá-las, a observá-las. Por que só haveria de servir aquela safadinha? Uma datilógrafa que me aparecia em toda parte era bem engraçada. Bonitinha, com olhos verdes e rosto de santa. Eu ia dobrar uma esquina - dava de cara com ela; tomava o bonde - ela era minha companheira de viagem. Depois de tantos acasos, a gente se cumprimentava, embora sem saber que rumo cada um ia tomar. Às vezes eu estava distraído, pensando em coisas à toa. Quando menos esperava, surgiam os olhos de gato da datilógrafa. Outras vezes chegava-me de supetão a ideia de que ia vê-la. E acontecia acertar. Sumiu-se umas semanas. Se não se tivesse sumido, é possível que a minha vida fosse hoje diferente. E talvez não fosse. Duas criaturas juntam-se um minuto, mas entre elas há um obstáculo. Provavelmente a datilógrafa dos olhos verdes, enquanto sorria para mim no bonde ou na esquina, pensava numa espécie de Julião Tavares que iria visitá-la horas depois. Morava numa casa de quintal sujo, lia romances tolos, admirava uma quenga semelhante a d. Mercedes. O pai era um pobre homem carregado de achaques e consumido pelo trabalho, a mãe lavava roupa e queixava-se da carestia.
 
 Vitória é que tinha razão:
 
-- Cabritinha enxerida. Esfregando-se nos homens.
+— Cabritinha enxerida. Esfregando-se nos homens.
 
 O sem-vergonha metera-se na casa, ficava lá horas, íntimo da família, unha com carne. Empurrava a porta, entrava como se aquilo fosse dele. Seu Ramalho nem se voltava: debruçado à janela, aperreado, fumando cachimbo, mordia os beiços, encolhia os ombros. Vinha conversar comigo, desabafava:
 
-- Não se case, seu Luís. É o conselho que lhe dou.
+— Não se case, seu Luís. É o conselho que lhe dou.
 
 Quando o intruso saía, começava a arenga:
 
-- Isto tem cabimento? Entra quem quer.
+— Isto tem cabimento? Entra quem quer.
 
 Marina defendia-se, malcriada:
 
-- Entrou porque deixaram. Eu tenho culpa? Não mandei. Posso amarrar as pernas dos outros?
+— Entrou porque deixaram. Eu tenho culpa? Não mandei. Posso amarrar as pernas dos outros?
 
-- Falem baixo - pedia d. Adélia. - Os vizinhos estão ouvindo.
+— Falem baixo - pedia d. Adélia. - Os vizinhos estão ouvindo.
 
-- Que vizinhos! - gritava seu Ramalho. - Faço um escândalo. Isto é pensão?
+— Que vizinhos! - gritava seu Ramalho. - Faço um escândalo. Isto é pensão?
 
 Não fez o escândalo. E Julião Tavares continuou a frequentar a casa, levando presentes às mulheres. Às vezes jantava lá. Nesses dias um carregador trazia do armazém de Tavares & Cia. um caixão com embrulhos, latas e garrafas. Da minha sala de jantar, eu ouvia as conversas, as risadas, o barulho dos vidros e dos talheres. No fim a coisa descambava em discurso.
 
 Seu Ramalho não tomava parte nessas orgias: embicava o chapéu, acendia o cachimbo e saía. D. Rosália balançava a cabeça com um sorrisinho safado:
 
-- Feias coisas. Não dou um ano que isto cheire a al­fazema.
+— Feias coisas. Não dou um ano que isto cheire a al­fazema.
 
 Antônia ia comentar a história com o guarda-civil da esquina.
 
 Punha-me a passear pelo corredor, olhando as biqueiras dos sapatos, os tijolos gastos, o rodapé vermelho da parede úmida. Por ali passava um cano. Algumas porcas das juntas estavam mal apertadas e por elas a água esguichava, formando poças no tijolo gasto. O cano estirava-se como uma corda grossa bem esticada, uma corda muito comprida. Eu andava para cima e para baixo, o ouvido atento aos mais insignificantes rumores da casa vizinha. Preocupava-me sobretudo o silêncio. Enquanto estavam batendo nos copos, tagarelando, nem por isso. Mas quando se calavam, vinham-me suposições que me davam tremuras. Provavelmente d. Adélia tinha ido à cozinha preparar o café. E os dois aproveitavam o tempo. Sem dúvida. Imaginava o que eles faziam. Era aquilo, sem dúvida.
 
-- Que é que o senhor tem? - perguntava-me Vitória.
+— Que é que o senhor tem? - perguntava-me Vitória.
 
 Sem dúvida. Imaginava perfeitamente. E não tirava os olhos da parede manchada, do rodapé vermelho, do cano.
 
-- Um pedaço daquilo é arma terrível. Arma terrível, sim senhor, rebenta a cabeça de um homem. Já se tem visto.
+— Um pedaço daquilo é arma terrível. Arma terrível, sim senhor, rebenta a cabeça de um homem. Já se tem visto.
 
 Mas aquele, comprido demais, pregado ao chão, não tinha jeito de arma: parecia uma corda estirada. Quando vinha o silêncio, detinha-me na sala de jantar, contígua à outra sala onde a súcia se regalava, punha a mão atrás da orelha, continha a respiração. Furava com os olhos a cal que se descascava e dava ao muro a aparência de uma cara sardenta, furava o reboco, furava os tijolos. No outro lado a mesa num desarranjo, restos de comida, pontas de cigarros, nódoas na toalha, garrafas abertas, os dois juntos, perna com perna. D. Adélia, encostada ao fogão, respirava fumaça, engelhava as pálpebras, gemia uma desculpa: - "É a mocidade". Estava invisível e escaldava os dedos torcendo o pano de café. Os dois, grudados, cochichavam, esfregavam-se. Alguns botões tinham saído dos lugares. Afinal tudo era suposição. Talvez d. Adélia estivesse ali, um pouco afastada, os olhos atentos, observando o que se passava por baixo da mesa. História! Escondia-se e justificava aquela sem-vergonha: - "É a mocidade". Indecência. Atracados, os olhos vermelhos, baba no canto da boca, uns bichos. Aproximava-me da parede. Ali a poucos passos, tontos pela bebida, beijando­-se. Conservavam-se em silêncio um instante, mas isto me parecia tempo excessivo, suficiente para todas as patifarias. Risos, a continuação de uma conversa interrompida. A voz precipitada de Marina era ininteligível; a de Julião Tavares percebia-se distintamente e causava-me arrepios: fazia-me pensar em gordura, em brancura, em moleza, em qualquer coisa semelhante a toicinho cru. Pescoço enorme, sem ossos, tudo banha. Quando o homem andava na rua, olhando para cima, risonho, aprumado, com passinhos curtos, a papada tremia. Aquilo era bambo, flácido, devia ter a consistência de filhó. De repente d. Adélia começava a falar. As mesmas queixas de sempre, lamentações tranquilas. Nunca ouvi ninguém se lamentar assim. Palavras arrastadas, monótonas, um pequeno assobio no fim de cada pausa. Aquele sossego me irritava quase tanto como os derramamentos de Julião Tavares. Afastava-me, sacudia a cabeça para não escutar a conversa, passeava pelo corredor, tossindo, batendo os pés, encaminhando o pensamento para coisas diversas, que se embaralhavam. Muitos crimes depois da revolução de 30. Valeria a pena escrever isto? Impossível, porque eu trabalhava em jornal do governo. Moisés se tinha ausentado: a polícia incomodava os rapazes que liam livros suspeitos e falavam baixo. Seu Ivo furtara-me uns pratos. A menina dos olhos agateados desaparecera. A mulher da rua da Lama, a que eu encontrara uma noite no Helvética, andava caipora, no hospital, com doença do mundo. A voz oleosa de Julião Tavares continuava a perseguir-me. Era como se eu estivesse diante de um aparelho de rádio, ouvindo língua estranha. Distanciava-me. As palavras gordas iam comigo. Umas chegavam completas, outras alteravam-se - ruídos confusos e vogais indistintas. Necessário dar cabo daquela voz. Se o homem se calasse, as minhas apoquentações diminuiriam. A criatura faminta da rua da Lama, seu Ivo, Moisés, a menina dos olhos agateados, tudo isto me passava pelo espírito sem se fixar. Um tropel, depois nada. O que ficava era aquela gordura que se derramava pelas paredes. Às vezes eu estava certo de que Julião Tavares se tinha calado, mas a voz não deixava de perseguir-me. Mexia-me, tossia. E olhava com insistência o cano que se estirava ao pé da parede, como uma corda.
 
 Aos domingos iam ao cinema, juntos, de braço dado, bancando marido e mulher - ele com ar bicudo e saciado, ela bem-vestida como uma boneca e toda dengosa. Seda, veludo, peles caras, tanto ouro nas mãos e no pescoço que era uma vergonha. O pessoal da vizinhança povoava as janelas. D. Mercedes indignava-se, as filhas de Lobisomem mostravam as caras espantadas entre as rótulas, Antônia andava como lançadeira, ouvindo os comentários. As exclamações iam de um lado para outro. Só queriam saber se ainda estava inteira. As opiniões variavam. Discutiam as modificações do tipo: a grossura da barriga, o modo de andar. Eu, com os ouvidos abertos, simulando indiferença, escutava palavra aqui, palavra ali.
 
-- Que é que temos, Antônia?
+— Que é que temos, Antônia?
 
 Antônia, bamboleando-se, cosia pedaços daqueles fuxicos.
 
@@ -1765,7 +1765,7 @@ Com certeza àquela hora o Capitólio se esvaziava, uma exposição de roupas de
 
 Que diabo fazia eu ali, debruçado à janela? Entrava, ia para a sala de jantar, abria um livro, punha-me a ler marcando os períodos com o dedo. Quando terminava um período, baixava o dedo a um lugar onde era provável haver ponto-final. Parecia-me que este exercício me fixava a atenção na leitura: às vezes conseguia compreender uma página inteira. Mas o dedo fatigava-se, entorpecia, e os olhos desviavam-se das letras, pregavam-se na toalha, nas moscas adormecidas sobre as nódoas. Um relógio batia. Julião Tavares e Marina ausentes. Vitória falava alto na cozinha. Antônia embalava o filho mais novo de d. Rosália, e a criança manhosa berrava com desespero. Felizmente ainda era cedo para os ratos roerem a madeira do guarda-comidas. A vitrola de d. Mercedes começava a tocar, o galo de d. Adélia batia as asas. Alguma cantiga distante, de bêbedo. Que fim teria levado seu Ivo, coitado? Apito de trem, provavelmente dez horas. O relógio da sala de jantar quase sempre parado. Passos na calçada. Quem seria? Muito tarde. O rolar dos veículos esmorecia. O gato já andava miando nos telhados. Os papéis, livros com as folhas intactas, esquecidos nas cadeiras, causavam-me enjoo. Rumor de ferrolho na casa vizinha, pisadas no corredor. Com certeza tinham voltado. Engano. Era seu Ramalho que entrava, aperreado, ia arengar com a mulher por causa do procedimento da filha. Às vezes a discussão se arrastava durante horas, mastigada e rancorosa. E Marina ausente.
 
-- Isso tem jeito?
+— Isso tem jeito?
 
 D. Adélia chorava, assoava-se, gemia desculpas sem pé nem cabeça.
 
@@ -1785,13 +1785,13 @@ Nu, deitado de costas na cama de ferro, esfregava-me no colchão estreito e coç
 
 Não havia regulamento, nem janela, nem mostruários. O que havia eram duas camas próximas. Uma delas rangia escandalosamente. - "Bichinha, taludinha..." Esses diminutivos contrastavam com a voz do homem, grossa, arrastada. Além disso d. Rosália tinha bem quarenta anos e não era taluda: era magra, cheia de ângulos, o carão chupado com duas olheiras fundas que no dia seguinte estariam medonhas. Silêncio de alguns minutos. Iam deixar-me dormir. Nada. Acendia outro cigarro e continuava com a vista presa na brasa, que se aproximava e afastava, em movimentos bruscos, como uma coisa viva mordida pelas pulgas. Aquela espécie de fogo-corredor me fascinava. Se Marina voltasse... Por que não? A água lava tudo, as feridas cicatrizam. Não valia a pena pensar no outro. Julião Tavares era um caminho errado. Tantos caminhos errados na vida! Quem sabe lá escolher com segurança os atalhos menos perigosos? A gente vai, vem, faz curvas e zigue-zagues, e dá topadas de arrancar as unhas. A água lava tudo, as feridas mais graves cicatrizam. Lembrava-me de uma queda antiga que me tinha jogado à cama quinze dias. O cavalo se havia empinado, eu caíra nas pedras do Ipanema, rachara a cabeça, esfolara a coxa. Por que era que uma ferida devia ser vergonhosa e outra não? Depois desse tombo, andara uns tempos bambo, tossindo, e nunca me havia consolidado, nem com os exercícios da caserna.
 
-- Ora aí estão ferimentos que me deviam envergonhar, porque me tornaram fraco. E não me envergonham.
+— Ora aí estão ferimentos que me deviam envergonhar, porque me tornaram fraco. E não me envergonham.
 
 A brasa do cigarro chegava-me perto dos beiços, brilhava, faiscava, parecia mangar de mim na escuridão. Sinha Germana só tinha aberto os olhos diante do velho Trajano. Sem dúvida. Mas eu queria ver sinha Germana agora, no cinema, ou correndo as ruas, com uma pasta debaixo do braço, e mais tarde no escritório, batendo no teclado da máquina, ouvindo as cantigas dos marmanjos. Hábitos diferentes, necessidades novas.
 
 Afinal por que seria que d. Rosália afirmava que Marina dera com os burros na água? Não havia certeza. E para que certeza?
 
-- Que me importa o que se passa nas casas alheias?
+— Que me importa o que se passa nas casas alheias?
 
 O que se passava na cama de d. Rosália era quase público, pelo menos estava no conhecimento dos vizinhos. Fazia minutos que os dois se conservavam em silêncio. Enjoados, provavelmente, separados, cada um com o seu lençol. Engano. O barulho recomeçava: cochichos que iam crescendo e se transformavam em gritos, beijos compridos, chupões gorgolejados.
 
@@ -1799,15 +1799,15 @@ Quando se debruçava à janela, fiscalizando a rua, d. Rosália usava linguagem 
 
 Uma criança urinava na cama e chorava. Distinguia-se perfeitamente o som das gotas que batiam no chão.
 
-- Cala a boca! - ordenava d. Rosália.
+— Cala a boca! - ordenava d. Rosália.
 
 O choro findava, mas as gotas continuavam a cair, e a respiração do homem se arrastava, entrecortada, encatarroada, fungada, interrompida por um pigarro, uma respiração de quem se está estrangulando. Aquilo me irritava tanto que eu apertava as mãos nos ouvidos e mordia as cobertas para não gritar. O resfolegar de cachorro cansado atravessava-me as palmas das mãos, rasgava-me os ouvidos, e os pingos de urina, penetrando a palha podre do colchão, caíam-me dentro da cabeça como marteladas. A criança recomeçava a chorar.
 
-- Cala a boca.
+— Cala a boca.
 
 Soluços engolidos da criança e a respiração arquejante do homem. Inútil apertar os ouvidos, que se pegavam às palmas como ventosas. Estirava-me, espreguiçava-me. De costas, as mãos sobre o peito, experimentava relaxar os músculos e não pensar. Através das pálpebras meio cerradas via apenas a brasa do cigarro, que se cobria de cinza. Tranquilo, tranquilo, nenhum pensamento. Sentia vontade de chorar, tinha um bolo na garganta.
 
-- Tranquilo, tranquilo.
+— Tranquilo, tranquilo.
 
 Esta repetição me exasperava e endoidecia. O corpo em completo sossego, o cigarro apagado. Não sabia em que posição estavam as pernas. As mãos pesavam em cima do peito. Mas as pernas, onde estariam elas? Flutuava como um balão. O corpo quase adormecido e sem pernas. As ideias, porém, não me deixavam, ideias truncadas. Uma guerra na Europa. D. Mercedes comprara discos novos para a vitrola. Moisés se ocultava, com medo da polícia. Um espírito puro, um espírito boiando, livre da matéria. As botinas de Lobisomem estavam cada vez mais cambadas. Onde andaria seu Ivo? Um espírito boiando. Como seria? O espírito de Deus era levado sobre as águas.
 
@@ -1815,7 +1815,7 @@ As pulgas mordiam-me. Sem mudar de posição, esforçava-me por não fixar o pen
 
 Suava frio, mas prolongava a tortura que produziam as picadas das pulgas e a imobilidade. Afinal as picadas das pulgas e a imobilidade me distrairiam daqueles beijos e daqueles uivos. Outra vez o choro da criança, novamente a voz de d. Rosália, arreliada:
 
-- Cala a boca, diabo!
+— Cala a boca, diabo!
 
 O pranto continuava. Pisadas de pés descalços, palmadas, muxicões. A criança choramigava baixinho e aquietava-se. Novos passos abafados e um baque na cama, que rangia. O espírito de Deus boiava sobre as águas. Como estariam as minhas pernas? Cruzadas ou afastadas? Seria mais fácil saber como estavam as pernas de d. Rosália. O resfolegar prosseguia, resfolegar de porco fossando. Quantas horas aquilo duraria ainda? Seu Ivo, os discos da vitrola, Moisés, as botinas de Lobisomem, tudo inútil. Inúteis as picadas das pulgas. O homem calvo e moreno, com os olhos abotoados, fungava e arquejava, a baba escorrendo no beiço e umedecendo a pele seca de d. Rosália. Estava mesmo assim: os olhos arregalados, as ventas muito abertas; a boca pingando gosma, a cara barbuda arranhando e escovando o couro de d. Rosália. E aquela respiração estertorosa de bicho sufocado!
 
@@ -1825,89 +1825,89 @@ Há nas minhas recordações estranhos hiatos. Fixaram-se coisas insignificantes
 
 À noite sentava-me à calçada e olhava a rua. Seu Ramalho fazia o mesmo. Palavra de cá, palavra de lá - como falávamos baixo, era necessário aproximarmos as cadeiras. Depois do namoro da filha com Julião Tavares, d. Adélia mostrava-me antipatia. A princípio era aquela subserviência, tremura, cumplicidade; mas agora nem me via: enrugava a testa e grunhia "Hum! Hum!" com um modo insuportável. Seu Ramalho, que meses atrás me olhava desconfiado, tornara-se um excelente amigo e dava-me conselhos:
 
-- Não se case, seu Luís. Casamento é buraco. O mundo está perdido.
+— Não se case, seu Luís. Casamento é buraco. O mundo está perdido.
 
-- Isso é por causa do cinema, seu Ramalho. O senhor nunca vai lá. É feliz. Nem calcula as sem-vergonhezas que há na tela.
+— Isso é por causa do cinema, seu Ramalho. O senhor nunca vai lá. É feliz. Nem calcula as sem-vergonhezas que há na tela.
 
 Seu Ramalho baixava a cabeça, pensativo:
 
-- Deve ser também por falta de religião.
+— Deve ser também por falta de religião.
 
-- É. Deve ser também por isso.
+— É. Deve ser também por isso.
 
 Realmente a minha vizinha desconhecia as igrejas, e isto não me preocupava.
 
-- O cinema é o diabo, seu Ramalho. O senhor não ima­gina. São uns beijos safados, língua com língua, nem lhe conto. Provavelmente as moças saem de lá esquentadas.
+— O cinema é o diabo, seu Ramalho. O senhor não ima­gina. São uns beijos safados, língua com língua, nem lhe conto. Provavelmente as moças saem de lá esquentadas.
 
-- Devem sair, concordava seu Ramalho. Por isso há tanta gente de rédea no pescoço.
+— Devem sair, concordava seu Ramalho. Por isso há tanta gente de rédea no pescoço.
 
-- Que rédea! Hoje não há rédea. Um sujeito corre atrás de uma saia, pega a mulher, larga, pega outra, e é aquela garapa.
+— Que rédea! Hoje não há rédea. Um sujeito corre atrás de uma saia, pega a mulher, larga, pega outra, e é aquela garapa.
 
-- Safadeza.
+— Safadeza.
 
-- É. Tudo é safadeza. Antigamente essa história de honra era coisa séria. Mulher falada não tinha valia.
+— É. Tudo é safadeza. Antigamente essa história de honra era coisa séria. Mulher falada não tinha valia.
 
-- Nenhuma - exclamava seu Ramalho, cansado, tossindo. - E eram vinganças medonhas.
+— Nenhuma - exclamava seu Ramalho, cansado, tossindo. - E eram vinganças medonhas.
 
-- Vinganças horrorosas - bradava eu excitado.
+— Vinganças horrorosas - bradava eu excitado.
 
 Nesse ponto da conversa contávamos sempre uma série de casos que ilustravam as nossas afirmações. Animado, o cachimbo apertado entre os dentes, seu Ramalho assobiava as mesmas anedotas, empregando o mesmo vocabulário. Às vezes eu o interrompia:
 
-- O senhor já contou essa.
+— O senhor já contou essa.
 
 Mas seu Ramalho continuava sem se perturbar: falava para dar prazer a si mesmo, não me escutava. Talvez quisesse enganar-se e convencer-se de que seria também capaz de praticar façanhas. As palavras saíam-lhe sem variações. Era amigo da verdade e tinha imaginação fraca. As minhas narrativas não se comparavam às dele: sendo muito numerosas, eu esquecia frequentemente certas passagens, ficavam brechas, soluções de continuidade. Além disso eram transmitidas em linguagem artificial, que o vizinho achava falsa e retocava.
 
 O conto sensacional de seu Ramalho era o seguinte. Um moleque de bagaceira tinha arrancado os tampos da filha do senhor de engenho. Sabendo a patifaria, o senhor de engenho mandara amarrar o cabra e à boca da noite começara a furá-lo devagar, com ponta de faca. De madrugada o paciente ainda bulia, mas todo picado. Aí cortaram-lhe os testículos e meteram-lhos pela garganta, a punhal. Em seguida tiraram-lhe os beiços. E afinal abriram-lhe a veia do pescoço, porque vinha amanhecendo e era impossível continuar a tortura.
 
-- Medonho! Seu Ramalho. Que coisa extraordinária!
+— Medonho! Seu Ramalho. Que coisa extraordinária!
 
 Pedia-lhe explicações:
 
-- Por que foi que arrancaram os quibas antes dos beiços?
+— Por que foi que arrancaram os quibas antes dos beiços?
 
-- Quem sabe?
+— Quem sabe?
 
 No dia seguinte reproduziria o mesmo caso: o moleque morreria lentamente, sem beiços, a boca enchumaçada, por causa dos gritos. Eu desejava que seu Ramalho acrescentasse alguma coisa à história. Mas seu Ramalho só sabia aquilo e era incapaz de inventar. Por isso fazia pausas para recordar os fatos com segurança, batia na testa, interrogava-se a cada instante e acusava-se quando avançava uma informação inverídica:
 
-- 1910. Minto, 1911. 1911, Manuel?
+— 1910. Minto, 1911. 1911, Manuel?
 
 As duas datas produziam-lhe verdadeira aflição. Nunca pôde fixar-se em nenhuma. Detinha-se em cálculos, sempre se reportando a acontecimentos notáveis na sua pequena vida: o dia do casamento, a mudança para a capital, o sarampo da filha. D. Adélia, com flores de laranjeira, sem aquele corpo mole e pesado, era bem bonita; na viagem, em estrada de ferro, o trem da Great Western descarrilara; Marina ficara coberta de calombos e vergões encarnados.
 
 Naquela noite seu Ramalho voltou a referir-se a esses três casos importantes. Nunca tinha viajado em estrada de ferro. Um descarrilamento para começar.
 
-- Não é esquisito? Todos os dias rodam trens, que chegam no horário. Pois justamente quando eu embarco vem o desastre. Não parece que estava ali um diabo esperando por mim para botar as rodas fora dos trilhos?
+— Não é esquisito? Todos os dias rodam trens, que chegam no horário. Pois justamente quando eu embarco vem o desastre. Não parece que estava ali um diabo esperando por mim para botar as rodas fora dos trilhos?
 
 E descreveu a cena. Abandonados no campo, os passageiros metiam os olhos pelas vidraças, e só enxergavam uma luzinha distante. Fazia frio. Ele tirava o paletó e enrolava a menina, que esperneava no banco do carro de segunda classe. Alguns trabalhadores, de malotes, dormiam. Uma velha gemia de quando em quando: - "Fechem essa janela". Uma rapariga cheirosa encostava-se aos homens. Ele acalentava a menina, que se arreliava no banco imundo. E olhava desconfiado a rapariga, receando que ela se aproximasse de d. Adélia. Mulher da vida, cheirosa, roçando-se nos homens, ali no carro pequeno, cheio de gente e quase sem luz. Apenas um lampião fumacento, de vidros tisnados.
 
 D. Adélia, corada, risonha, de carnes enxutas, era um mulherão. O casamento fora quatro anos antes da viagem. Bonita de verdade. Com o véu, a grinalda de flores de laranjeira, dançara uma noite sem descansar. Olhava os moços cara a cara, e eles baixavam a cabeça.
 
-- An! Os marmanjos desanimavam.
+— An! Os marmanjos desanimavam.
 
 O sarampo de Marina tinha sido dez anos depois da viagem. Estivera, vai não vai, batendo a caçoleta.
 
-- Antes tivesse batido, que era inocente e não dava desgosto a ninguém.
+— Antes tivesse batido, que era inocente e não dava desgosto a ninguém.
 
 A febre durara muitos dias. Mal respirava, magrinha como um palito, e por cima dos olhos vidrados as moscas passeavam. D. Adélia, bamba, arrastava os chinelos de trança que pareciam dois sapos. Estava mole, encolhida, machucada, e habituara-se a falar cochichando e a baixar a cabeça diante de toda gente.
 
 Seu Ramalho deu um suspiro e empurrou a história do moleque da bagaceira, o que havia arrancado os tampos da filha do patrão.
 
-- 1 910 ou 1911?
+— 1 910 ou 1911?
 
 Nunca pude saber com precisão a data da morte do moleque. Isto não tinha importância: não guardo números, e a angustiada confusão de seu Ramalho irritava-me. Enquanto ele batia na testa, avançava e recuava, eu ia pouco a pouco distinguindo uma figura nua e preta estirada nas pedras da rua. O ventre era uma pasta escura de carne retalhada; os membros, torcidos na agonia, estavam cobertos de buracos que esguichavam sangue; a boca, sem beiços, mostrava dentes acavalados e vermelhos, numa careta medonha; os olhos esbugalhados tornavam-se vermelhos. O negro arquejava. Corria sangue entre as frestas dos paralelepípedos e empoçava na sarjeta. A poça crescia, em pouco tempo transformava-se num regato espumoso e vermelho.
 
-- Ai, ai! - suspirou seu Ramalho. - Vou chegando ao serviço.
+— Ai, ai! - suspirou seu Ramalho. - Vou chegando ao serviço.
 
 Ergueu-se como se levantasse da cadeira um peso enorme. E, descontente, arfando, um ombro alto, outro baixo, o cachimbo entre os dentes, lá se foi para a usina elétrica. Segui-o com a vista até a esquina. Quando ele desceu da calçada, estremeci: pareceu-me que tinha sujado os sapatos no sangue.
 
 A vitrola de d. Mercedes rodava marchas de carnaval; d. Adélia abriu os postigos: - "Hum! hum!"; a cabeça de d. Rosália tinha os cabelos vermelhos. Antônia, pintada de vermelho, as pernas abertas, passou bamboleando-se. Das saias dela desprendeu-se um cheiro forte de sangue. Provavelmente estava menstruada e não se lavava. Os arames da Nordeste balançavam como cordas. Eu receava que os transeuntes tropeçassem no moleque estendido no calçamento. Rangia os dentes e dizia baixinho:
 
-- Que estupidez! Que estupidez!
+— Que estupidez! Que estupidez!
 
 Mas a figura continuava a escabujar no chão. Agora não era preta nem estava nua. Pouco a pouco ia embranquecendo e engordando, o sangue estancava, as feridas saravam.
 
 Àquela hora Marina devia descansar, escanchada na rede, deitada de costas. Uma perna dava o impulso para o balanço, e os armadores rangiam: ran, ran. Provavelmente se estragava pensando num romance besta. O ar refrescava­-lhe as coxas suadas. E os armadores faziam: ran, ran.
 
-- Que estupidez! Que estupidez!
+— Que estupidez! Que estupidez!
 
 A figura deitada no calçamento estava branca e vestida de linho pardo, com manchas de suor nos sovacos. Felizmente o sangue tinha desaparecido, já não havia a umidade pegajosa na sarjeta, nos cabelos de d. Rosália, nas saias de Antônia. Em redor tudo calmo. Gente indo e vindo, crianças brincando, roncos de automóveis. O homem tinha os olhos esbugalhados e estrebuchava desesperadamente. Um pedaço de corda amarrado no pescoço entrava-lhe na carne branca, e duas mãos repuxavam as extremidades da corda, que parecia quebrada. Só havia as pontas, que as mãos seguravam: o meio tinha desaparecido, mergulhado na gordura balofa como toicinho.
 
@@ -1917,11 +1917,11 @@ Quando a companhia lírica chegou, eu estava completamente arrasado. Dívidas, t
 
 Agarrava a papelada com entusiasmo de fogo de palha. Tempo perdido. Marina não ia para o diabo. E eu me metia por estas ruas, passava horas no café, lesando, bebendo. Seria fácil regularizar a minha vida, liquidar as contas, botar tudo de novo nos trilhos. Um pouco de boa vontade, método.
 
-- Outro conhaque.
+— Outro conhaque.
 
 Método, perfeitamente, tudo se arranjaria. Saía dali, ia olhar as vitrinas e os cartazes. Bacharel idiota, aperreando um bom inquilino. Porcaria.
 
-- Quem andou por este mundo roendo chifre não se engancha em bobagens. Porcaria. Tenho comido toicinho com mais cabelo.
+— Quem andou por este mundo roendo chifre não se engancha em bobagens. Porcaria. Tenho comido toicinho com mais cabelo.
 
 Foi nesta disposição que li os cartazes da companhia lírica. Não dei importância a ela. Companhia vagabunda, com pessoal rouco, as cantoras canhões, provavelmente. Encolhi os ombros: não sei música e tenho péssimo ouvido. As paredes dos cafés cobriam-se de retratos de artistas. Vista no papel, havia uma soprano bem regular.
 
@@ -1943,11 +1943,11 @@ Lembrava-me da minha chegada à vila. As ruas me causavam grande espanto: nunca 
 
 E ali estava encostado ao balcão, sem perceber o que diziam, meio bêbedo, suscetível e vaidoso, desconfiado como um bicho. Tudo aquilo me envergonhava: as conversas simples, a alegria, especialmente os músculos do homem que falava ao engraxate. Músculos e mãos enormes, que esganariam facilmente um inimigo. Levantava-me.
 
-- Insuportável.
+— Insuportável.
 
 A mulher cheirava a gasolina. O violão tocava óperas.
 
-- Insuportável.
+— Insuportável.
 
 Os bíceps e as mãos do homem acaboclado eram realmente enormes.
 
@@ -1965,7 +1965,7 @@ D. Mercedes entrou no carro. A personagem oficial não a acompanhava. Tipo de re
 
 Se Pimentel aparecesse, talvez me arranjasse o ingresso do jornal. Ou um empréstimo. Dentro de cinco dias, seis quando muito, o tesouro pingaria o ordenado da gente.
 
-- Daqui a dez anos terei esse ordenado?
+— Daqui a dez anos terei esse ordenado?
 
 E Julião Tavares? Julião Tavares estaria expatriado, fuzilado ou enforcado. Enforcado, Julião Tavares enforcado. Marina deixaria de pintar as unhas e iria trabalhar no asilo das órfãs.
 
@@ -1995,7 +1995,7 @@ A casa devia estar cheia, o homem da bilheteria cochilava. Um olho, no palco, ob
 
 Afinal Vitória encontrava sempre moedas minhas no chão quando varria a casa. Depois elas apareciam em cima da mesa de jantar, nas cadeiras, debaixo dos travesseiros, mas antes tinham estado ocultas naqueles lugares que eu conhecia bem. Muito provável que a velha se enganasse nas contas e deixasse algumas lá enterradas. Natural estarem ali vinte mil-réis meus. Indignei-me com a pobre e entrei a descompô-la mentalmente:
 
-- Ladra! Estar um homem em dificuldade por causa de vinte mil-réis, uma porcaria, e saber que essa miserável esconde as economias dele, economias suadas, em buracos no chão.
+— Ladra! Estar um homem em dificuldade por causa de vinte mil-réis, uma porcaria, e saber que essa miserável esconde as economias dele, economias suadas, em buracos no chão.
 
 Decidi-me a ir pisar mais uma vez a terra que Marina havia pisado, encostar-me ao tronco da mangueira, onde ela estivera nua, enrolada na escuridão, torcendo-se e mordendo os braços para não gritar por causa dos beijos que eu lhe dava na barriga e nas coxas. Desci os degraus. Na porta do banheiro meti o pé numa poça.
 
@@ -2013,23 +2013,23 @@ D. Basílio comparava a calúnia a um incêndio. Que fazia Marina, chateada, boc
 
 As minhas mãos encontraram-se esgaravatando a raiz da mangueira.
 
-- Que miséria! Que miséria!
+— Que miséria! Que miséria!
 
 Repetia as palavras como um idiota, olhando as duas brasas imóveis em cima do muro. Mas os dedos continuavam a remexer os torrões. Cavando a terra com as unhas, como um gato!
 
-- Que miséria! Que miséria!
+— Que miséria! Que miséria!
 
 Umidade pegajosa corria-me pelos braços, molhava a camisa. Cinco dias, seis dias depois, receberia o dinheiro no tesouro. Receberia o dinheiro, trocaria uma cédula por pratas e deitaria ali as moedas, com acréscimo de cento por cento. Se Moisés tivesse aparecido... Moisés e Pimentel só apareciam quando não eram necessários. Restituiria as moedas com aumento. Considerei que Vitória não se assemelhava ao tio de Moisés. Vitória não tinha a paixão do lucro: apenas guardava enterrado o dinheiro ganho. E queria que, muito ou pouco, ele estivesse ali em segurança. A ideia de que ela ia surgir, resmungando, arrastando os pés reumáticos, paralisou-me os dedos. Surpreendi-me a dizer e a repetir em voz baixa:
 
-- O dinheiro foi feito para circular.
+— O dinheiro foi feito para circular.
 
 Com certeza Vitória estava dormindo, sonhando com os navios e com o Currupaco. Os olhos do gato cresciam, cresciam extraordinariamente, iluminavam o quintal todo.
 
-- Sim ou não. Sim ou não. É estúpido, absolutamente estúpido. Afinal o dinheiro foi feito para circular.
+— Sim ou não. Sim ou não. É estúpido, absolutamente estúpido. Afinal o dinheiro foi feito para circular.
 
 Lembrei-me do jogo das crianças. Cara ou cunho? Se desse cara, sim; se desse cunho, não. Mergulharia a mão na terra úmida, tiraria uma moeda, acenderia um fósforo. Se saísse cunho, iria deitar-me, não tornaria a ver Marina. Tantos tormentos por causa de uma fêmea! Dormir, dormir. Senti as pálpebras pesadas; julgo que, fascinado pelos olhos do gato, deixei a cabeça inclinar-se num cochilo. Se saísse cara, acabaria depressa com aquilo e iria ao teatro. Tinha quase a certeza de que, indo ao teatro, tudo se arranjaria: Marina voltaria para mim, Julião Tavares se achataria, se desagregaria, como um pouco de azeite em água corrente. Meter a mão na terra, agarrar um dobrão do império, riscar um fósforo. Afastei a ideia. Que lembrança! Bastavam as luzes medonhas dos olhos do gato. Acabar depressa, acabar depressa. Não era nenhum selvagem para adotar recursos infantis. Sim ou não. Um homem livre. Perfeitamente, um homem livre de superstições. Comecei a cavar a terra com desespero, ralando os dedos. Estava decidido. Pronto! Seis dias depois colocaria no buraco o duplo da quantia retirada.
 
-- Nenhuma ação indigna. Nenhuma ação indigna.
+— Nenhuma ação indigna. Nenhuma ação indigna.
 
 Continuei a aprofundar a cova com as unhas, como um gato. Restituiria o dinheiro com acréscimo de cento por cento. Um roubo. Roubaria de mim mesmo para aumentar o tesouro da ladra. Sobressaltei-me. Se as moedas não estivessem ali? Se a velha as tivesse transportado para outro lugar? Revolvi apressado a terra mole. Chegaria a tempo de alcançar o segundo ato? Agora não sentia vergonha: indignava-me por causa da hesitação que tinha consumido uma eternidade. Um homem livre, sem dúvida. O que me incomodava era o gato. Se não fosse o receio de fazer barulho, atiraria um punhado de torrões no animal. As tochas desapareceriam, eu me tranquilizaria.
 
@@ -2045,47 +2045,47 @@ No dia seguinte paguei o salário dela. E vi-a, como todos os meses, andar numa 
 
 Levantei-me cedo e encontrei Vitória muito velha e muito bamba. Deixava-se cair a um canto da cozinha, e era difícil arrancar-se dali. Interrompeu as idas ao quintal e abandonou as lições ao Currupaco. Notei que as covas estavam revolvidas e mal cobertas.
 
-- Vitória!
+— Vitória!
 
 Tinha vergonha de chamá-la, temia que ela me pregasse os olhos brancos e cansados, cheios de aflição.
 
-- Vitória!
+— Vitória!
 
 Estava sentada, encolhida, movendo em silêncio os beiços moles. E quando levantava a cabeça, mostrava no rosto uma suspeita agoniada. Se ela andava com as suas contas em ordem, certamente se espantava de haver achado em um dos buracos vinte e seis mil-réis a mais; se as contas não estavam em regra, talvez se julgasse roubada. E Vitória engolia em seco, olhava o Currupaco ansiosa, numa interrogação desalentada que fazia pena.
 
-- Vá descansar, Vitória. Você está doente.
+— Vá descansar, Vitória. Você está doente.
 
 Não podia descansar, e a minha piedade era inútil.
 
 Levei o desespero a uma alma que vivia sossegada. To­da a segurança daquela vida perdeu-se. A linha traçada do quarto à raiz da mangueira, uma linha curta que os passos trôpegos e vagarosos percorriam na escuridão, fora de repente cortada.
 
-- Vá descansar, Vitória.
+— Vá descansar, Vitória.
 
 Conselho inútil. O céu de Vitória, miudinho, onde grilos e formigas moravam, tinha sido violado.
 
 As visitas de Julião Tavares foram escasseando e a alegria ruidosa de Marina pouco a pouco desapareceu. Havia grande silêncio na casa vizinha. Seu Ramalho estava contente.
 
-- Parece que a tonta criou juízo.
+— Parece que a tonta criou juízo.
 
-- Acha? - perguntei incrédulo.
+— Acha? - perguntei incrédulo.
 
-- É cá uma ideia. Essa gente moça desembesta e faz tolice. É o sangue. Mas um dia acerta a pisada.
+— É cá uma ideia. Essa gente moça desembesta e faz tolice. É o sangue. Mas um dia acerta a pisada.
 
 D. Adélia andava com a cara comprida e o nariz vermelho, assoando-se e soltando longos suspiros. Uma tarde encontrei Marina engulhando junto ao mamoeiro. Eram arrancos que a sacudiam toda, a faziam torcer-se agarrada ao tronco, o rosto contraído, muito descorado. Não me viu e entrou em casa cuspindo.
 
-- Que terá ela? - disse comigo sem atinar com o motivo dos engulhos, da palidez e das cusparadas.
+— Que terá ela? - disse comigo sem atinar com o motivo dos engulhos, da palidez e das cusparadas.
 
 An! Estava feia. Bem. Estava feia demais, amarela, torcendo-se, enxugando na manga a cara molhada de suor, tentando vomitar, cuspindo à toa na roupa.
 
-- Ótimo!
+— Ótimo!
 
 Onde andavam os vestidos caros, as tintas, os tremeliques e os modos insolentes que escandalizavam d. Rosália? Estava ali com os músculos da cara repuxados, fechando os olhos, agitando a cabeça como uma lagartixa.
 
-- Que diabo tem ela?
+— Que diabo tem ela?
 
 Desgovernada, cuspindo-se.
 
-- Ótimo! Está muito bem assim. Que se lixe.
+— Ótimo! Está muito bem assim. Que se lixe.
 
 Uma criatura dissipou as fumaças mesquinhas de vingança, uma figura que apareceu numa esquina e logo se sumiu, mas que me ficou profundamente gravada na cabeça.
 
@@ -2093,25 +2093,25 @@ Como certos acontecimentos insignificantes tomam vulto, perturbam a gente! Vamos
 
 A pessoa a que me referi surgiu de supetão entre a rua Primeiro de Março e a rua do Comércio. Eu ia dobrar a esquina, ela vinha em sentido contrário - e foi uma colisão feia. A aba do meu chapéu de palha bateu-lhe na testa, provavelmente feriu-a.
 
-- Perdão! Perdão!
+— Perdão! Perdão!
 
 Dei um passo para trás e distingui uma criatura enorme que também havia recuado com o choque e estava diante de mim, a mão cobrindo um dos olhos, onde tinha batido a aba do chapéu. O olho descoberto, os beiços contraídos, as rugas da cara, exprimiam espanto, raiva e dor. Encostei-me à parede, deixei-a passar. Foi um tempo insignificante, mas deu para vê-la da cabeça aos pés. Um minuto depois tinha desaparecido, a banda do rosto crispada, o olho disponível voltado para mim com um brilho de ódio. O espaço que ocupara na calçada era atravessado por outros corpos que iam e vinham, sem me despertar interesse. Mas a imagem do primeiro corpo vivia em mim. Era uma mulher gorda, amarela, malvestida, com uma barriga monstruosa. Não sei como podia andar na rua conduzindo aquela gravidez que estava por dias. A saia, esticada na frente, levantava-se exibindo pernas sujas e inchadas. Os pés, sujos e inchados, cresciam demais nos sapatos cheios de buracos. Com uma das mãos segurava o braço de uma criança magra e pálida, com a outra escondia o olho e um pedaço da cara. Eu encostava-me à parede, resmungando atrapalhado:
 
-- Perdão! Perdão!
+— Perdão! Perdão!
 
 Findo o primeiro momento, aquela figura me provocara cócegas na garganta e um desejo idiota de rir. A barriga disforme resistia ao pano desbotado que tentava contê-la e empinava-se, tinha uma forma agressiva. Estava ali um cidadão que, antes de nascer, ameaçava a gente. A mãe, que só tinha uma banda de rosto, torcia-se por causa da pancada recebida e cravava-me um olhar duro, a metade de um olhar irritado e cheio de sofrimento.
 
-- Perdão! Perdão!
+— Perdão! Perdão!
 
 Subitamente as cócegas desapareceram, a vontade de rir morreu, e atentei vexado naquela barriga enorme que me provocava. A roupa esgarçava-se, desbotada, fuxicada e remendada; os pés, metidos à força nos sapatos furados, pareciam bolos. Dera, recuando, um puxão na criança que se pusera a chorar. Nenhuma palavra, apenas uma interjeição de dor e raiva, grito rouco, perfeitamente selvagem. Com certeza já vinha recebendo encontrões, e aquele, demasiado rude, lhe esgotara a paciência. Andar no meio da multidão, aos emboléus, com semelhante barriga! Só muita necessidade.
 
 Era o tipo da mulher de subúrbio mesquinho, que varre a casa, lava as panelas e prega os botões com as dores do parto, pare sozinha e se levanta três dias depois, vai tratar da vida. Vida infeliz, vida porca. O homem para um lado, ela para outro, arrastando a filha pequena, a barriga deformada, estazando-se, aguentando pancadas nos olhos. Talvez estivesse na véspera de ter menino, talvez estivesse no dia, talvez já sentisse as entranhas se contraírem. Rebolar-se-ia dentro de algumas horas na cama dura, a carne cansada se rasgaria, os dentes morderiam as cobertas remendadas. E o macho ausente, ninguém para ir chamar a parteira dos pobres. Uma vizinha tomaria conta da casa, faria o fogo, prepararia tisanas, aos repelões, rosnando:
 
-- Porcaria. Que gente!
+— Porcaria. Que gente!
 
 Depois ofereceria consolações:
 
-- Tenha paciência. Isso vai logo. Faça força.
+— Tenha paciência. Isso vai logo. Faça força.
 
 A mulher tinha desaparecido, a banda do rosto passara cravando-me o olho carregado de ódio. Eu não sentia desejo de rir. Na calçada um ventre extraordinário ia inchando, ventre que tomava proporções fantásticas. Os transeuntes atravessavam aquela barriga transparente, às vezes paravam dentro dela, e isto era absurdo, dava-me a ideia de gestações extravagantes.
 
@@ -2121,9 +2121,9 @@ Eu fervia de raiva. Se tivesse encontrado Julião Tavares naquele dia, um de nó
 
 Alguns dias depois achava-me no banheiro, nu, fumando, fantasiando maluqueiras, o que sempre me acontece. Fico assim duas horas, sentado no cimento. Tomo uma xícara de café às seis horas e entro no banheiro. Saio às oito, depois das oito. Visto-me à pressa e corro para a repartição. Enquanto estou fumando, nu, as pernas estiradas, dão-se grandes revoluções na minha vida. Faço um livro, livro notável, um romance. Os jornais gritam, uns me atacam, outros me defendem. O diretor olha-me com raiva, mas sei perfeitamente que aquilo é ciúme e não me incomodo. Vou crescer muito. Quando o homem me repreender por causa da informação errada, compreenderei que se zanga porque o meu livro é comentado nas cidades grandes. E ouvirei as censuras resignado. Um sujeito me dirá:
 
-- Meus parabéns, seu Silva. O senhor escreveu uma obra excelente. Está aqui a opinião dos críticos.
+— Meus parabéns, seu Silva. O senhor escreveu uma obra excelente. Está aqui a opinião dos críticos.
 
-- Muito obrigado, doutor.
+— Muito obrigado, doutor.
 
 Abro a torneira, molho os pés. Às vezes passo uma semana compondo esse livro que vai ter grande êxito e acaba traduzido em línguas distantes. Mas isto me enerva. Ando no mundo da lua. Quando saio de casa, não vejo os conhecidos. Chego atrasado à repartição. Escrevo omitindo palavras, e se alguém me fala, acontece-me responder verdadeiros contrassensos. Para limitar-me às práticas ordinárias, necessito esforço enorme, e isto é doloroso. Não consigo voltar a ser o Luís da Silva de todos os dias. Olham-me surpreendidos: naturalmente digo tolices, sinto que tenho um ar apalermado. Tento reprimir essas crises de megalomania, luto desesperadamente para afastá-las. Não me dão prazer: excitam-me e abatem-me. Felizmente passam-se meses sem que isto me apareça.
 
@@ -2131,11 +2131,11 @@ De ordinário fico no banheiro, sentado, sem pensar, ou pensando em muitas coisa
 
 O banheiro da casa de seu Ramalho é junto, separado do meu por uma parede estreita. Sentado no cimento, brincando com a formiga ou pensando no livro, distingo as pessoas que se banham lá. Seu Ramalho chega tossindo, escarra e bate a porta com força. Molha-se com três baldes de água e nunca se esfrega. Bate a porta de novo, pronto. Aquilo dura um minuto. D. Adélia vem docemente, lava-se docemente e canta baixinho: - "Bendito, louvado seja...". Marina entra com um estouvamento ruidoso. Entrava. Agora está reservada e silenciosa, mas o ano passado surgia como um pé de vento e despia-se às arrancadas, falando alto. Se os botões não saíam logo das casas, dava um repelão na roupa e largava uma praga: - "Com os diabos!". Lá se iam os botões, lá se rasgava o pano. Notavam-se todas as minudências do banho comprido. Gastava dez minutos escovando os dentes. Pancadas de água no cimento e o chiar da escova, interrompido por palavras soltas, que não tinham sentido. Em seguida mijava. Eu continha a respiração e aguçava o ouvido para aquela mijada longa que me tornava Marina preciosa. Mesmo depois que ela brigou comigo, nunca deixei de esperar aquele momento e dedicar a ele uma atenção concentrada. Quando Marina se desnudou junto de mim, não experimentei prazer muito grande. Aquilo veio de supetão, atordoou-me. E a minha amiga opôs uma resistência desarrazoada: cerrava as coxas, curvava­-se, cobria os peitos com as mãos, e não havia meio de estar quieta. Agora arrancava os botões, praguejava, escovava os dentes, mijava. Abria-se a torneira: rumor de água, uns gritinhos, resfolegar de animal novo. A torneira se fechava - e era uma esfregação interminável.
 
-- Para casa, Marina - bradava d. Adélia. - Acabe com isso. Você gasta o sabão todo.
+— Para casa, Marina - bradava d. Adélia. - Acabe com isso. Você gasta o sabão todo.
 
 Marina dava um muxoxo, e o movimento das mãos friccionando a pele macia continuava.
 
-- Baixe o fogo, Marina! Venha para casa.
+— Baixe o fogo, Marina! Venha para casa.
 
 A espuma entrando nos sovacos e nas virilhas fazia um gluglu que me excitava extraordinariamente. Parecia que Marina queria esfolar-se. Imaginava-a em carne viva, toda vermelha. Imaginava-a branquinha, coberta de uma pasta de sabão que se rachava, os cabelos alvos, como uma velha. Essas duas imagens me davam muito prazer. Queria que aparecesse a Julião Tavares assim encarnada e pingando sangue, ou encarquilhada e decrépita, os pelos do ventre como um capulho de algodão. A torneira se abria. Lá estava Marina outra vez nova e fresca, enchendo a boca e atirando bochechos nas paredes, resfolegando, sapecando frases desconexas.
 
@@ -2143,11 +2143,11 @@ Nunca tive o desejo de vê-la nesse estado. No alto da parede há um tijolo desl
 
 Pois tudo isso desapareceu. Fazia algum tempo que os rumores familiares se vinham atenuando, mas naquele dia tudo se tornou claro, a suspeita que tive na rua se confirmou. Marina entrou no banheiro e esteve uns minutos em silêncio, despindo-se com lentidão. Os movimentos dela eram tão vagarosos que eu os percebia a custo. Era preciso adivinhá-los. Assoou-se e lavou as mãos na torneira.
 
-- Virgem Nossa Senhora!
+— Virgem Nossa Senhora!
 
 E punha-se a cuspir. Aquela queixa mostrava um desengano enorme. Pareceu-me que o mundo se tinha despovoado e Marina estava completamente só. Senti o desejo de bater na parede e chamá-la:
 
-- Marina, que foi que aconteceu?
+— Marina, que foi que aconteceu?
 
 Queria que ela me iludisse, jurasse que não havia acontecido nada. Mordi as mãos para não gritar.
 
@@ -2155,11 +2155,11 @@ Afastei-me, como um bêbedo. Mas o ventre disforme continuava a perseguir-me. Er
 
 Com certeza não precisava de mim. Precisava de Julião Tavares, que tinha levado sumiço. As cusparadas sucediam-se. Marina assoava-se e lavava os dedos. Os soluços subiam e desciam. Aquele muco que a água levava, as lágrimas, a saliva abundante, aquela miséria, aquele abandono, tudo me atraía.
 
-- Valha-me Nossa Senhora.
+— Valha-me Nossa Senhora.
 
 Isto me cortava o coração e aumentava o meu ódio a Julião Tavares. Vi-o claramente como o vi na tarde em que o surpreendi à minha janela, derretendo-se para Marina. Atrapalhado, procurara tapear-me com adulações. Eu resmungava pragas obscenas e andava de uma parede a outra, sentia desejo imenso de fugir, pensava na fazenda, em Camilo Pereira da Silva, em Amaro vaqueiro e nas cobras, especialmente numa que se enrolara no pescoço do velho Trajano.
 
-- Que vai ser de mim, santo Deus?
+— Que vai ser de mim, santo Deus?
 
 O escorrego de Marina era evidente. Lembrei-me do meu despeito, de palavras duras jogadas a d. Adélia meses antes: - "A senhora pensa que ela endireita? Perca as esperanças. Aquela dá com os burros na água". Estava agora ali, enojada, cuspindo, apalpando a barriga e os peitos intumescidos. E o pranto subia e descia, era às vezes um lamento de criança fatigada, outras vezes os soluços rebentavam, numa rajada de gritos histéricos e bestiais. Olharia realmente a barriga e os peitos que se avolumavam? Impossível imaginar qualquer coisa sobre os movimentos dela. Gemidos e choro. Nenhum outro som. Desespero estúpido, revolta de bicho logrado. Nem palavras soltas, nem cantigas, nem passos no cimento molhado, nem água correndo da torneira. Dias antes esses rumores combinados me davam uma imagem quase perfeita de Marina. Sabia quando ela se baixava, quando se levantava, quando enxugava os cabelos, quando acariciava com espuma o umbigo, os bicos dos peitos, as virilhas. Gritinhos, respiração diferente da respiração ordinária.
 
@@ -2167,53 +2167,53 @@ Agora estava provavelmente imóvel. Esses gestos não lhe dariam nenhum prazer. 
 
 Houve umas pancadas na porta, o choro desapareceu. O meu banheiro tornou-se vazio. Agucei o ouvido, arregacei as narinas: apenas o cheiro desagradável da água que escapava da sarjeta e se estagnava numa poça, a parolagem do Currupaco, que arengava com outros Currupacos invisíveis. Novas pancadas na porta e a voz de d. Adélia:
 
-- Marina!
+— Marina!
 
 Marina abriu a torneira e entrou a lavar-se, cantando uma cantiga rouca, estrangulada, medonha. Mas as pancadas e a voz cresciam.
 
-- Marina, abra a porta. Abra a porta, minha filha.
+— Marina, abra a porta. Abra a porta, minha filha.
 
 Uma súplica zangada e arquejante que exigia grande esforço. Marina devia estar quase limpa. O suor, o catarro, a poeira, as lágrimas e as tintas rolavam no enxurro, e Marina era outra, vermelha, o espinhaço levantado, como um ano antes, quando havia surgido entre os canteiros, empinando-se, os cabelos pegando fogo. As visões do sono tinham-se dissipado.
 
-- Marina!
+— Marina!
 
 Marina continuava a cantar, a gritar, em grande espalhafato. Para que serviam as queixas e as exprobrações de d. Adélia? A água corria e se desperdiçava, abafando a voz aguda e trêmula. E Marina enxugava-se cantando com raiva.
 
-- Abra, meu coração.
+— Abra, meu coração.
 
 O ferrolho correu, a porta se abriu de chofre e tornou a fechar-se. Estavam as duas cara a cara, num silêncio de atrapalhação. Sentei-me à beira do tanque, olhei o tijolo deslocado.
 
-- Que latomia é essa? - perguntou d. Adélia com autoridade mole. - Creio em Deus Padre. Parece que morreu gente.
+— Que latomia é essa? - perguntou d. Adélia com autoridade mole. - Creio em Deus Padre. Parece que morreu gente.
 
 Provavelmente d. Adélia conhecia mais ou menos o que tinha sucedido. Mas queria acreditar que não houvera infelicidade sem remédio, ou então, caso isto não fosse possível, botar os quartos de banda, lamentar-se e atirar a responsabilidade para o destino.
 
-- Estou desconhecendo você. Que foi que houve?
+— Estou desconhecendo você. Que foi que houve?
 
 Aí o pranto de Marina rebentou novamente, enrolado com palavras ásperas que não entendi. D. Adélia baixou a pancada:
 
-- Que horror, filha da minha alma! Santo Deus! Valha-me Nossa Senhora do Amparo.
+— Que horror, filha da minha alma! Santo Deus! Valha-me Nossa Senhora do Amparo.
 
-- Que Deus, que Nossa Senhora, que nada! - gritou Marina reduzindo a cacos as lamúrias e a religião da mãe. - De quem é a culpa? A senhora não sabia? Para que fingir que não sabia? A senhora sabia.
+— Que Deus, que Nossa Senhora, que nada! - gritou Marina reduzindo a cacos as lamúrias e a religião da mãe. - De quem é a culpa? A senhora não sabia? Para que fingir que não sabia? A senhora sabia.
 
 Calaram-se, fungando.
 
-- Criar uma filha tantos anos - gemeu d. Adélia -, passar a vida sonhando com a felicidade dela, e de repente uma desgraça desta!
+— Criar uma filha tantos anos - gemeu d. Adélia -, passar a vida sonhando com a felicidade dela, e de repente uma desgraça desta!
 
-- Pois sim - disse Marina com um risinho. - Bonita criação. Está vendo?
+— Pois sim - disse Marina com um risinho. - Bonita criação. Está vendo?
 
 Tinha-se acalmado um pouco e podia falar, já não estava sozinha no mundo, urrando lamentações. Arremetia contra a mãe, arfando, grunhindo, como um bicho mal domesticado que quer morder:
 
-- Coitadinha! Não via, não sabia. Tão inocente! Agora já sabe. Pois é. Escangalhada, com um filho na barriga. Não faça essa carinha de santa não. É o que lhe digo. Estou mentindo? Arrombada, com um moleque no bucho. Não quer ouvir não? Tape os ouvidos.
+— Coitadinha! Não via, não sabia. Tão inocente! Agora já sabe. Pois é. Escangalhada, com um filho na barriga. Não faça essa carinha de santa não. É o que lhe digo. Estou mentindo? Arrombada, com um moleque no bucho. Não quer ouvir não? Tape os ouvidos.
 
-- Cale a boca, Marina - gaguejou d. Adélia tremendo. - Me respeite, Marina.
+— Cale a boca, Marina - gaguejou d. Adélia tremendo. - Me respeite, Marina.
 
 Esta ordem bamba pareceu-me ridícula e despropositada, mas produziu um efeito que me espantou: Marina deitou água na fervura. Virei d. Adélia por todos os lados e não achei que ela fosse digna de respeito. Nem de respeito nem de ódio. Lembrei-me das referências do marido: - "Com as flores de laranjeira na cabeça, dançava como carrapeta, olhava os homens sem baixar as pestanas. An! E eles se atrapalhavam". Agora, aquela moleza, aquela confusão angustiada, o desejo de minguar, achatar­-se, a pisada macia do chinelo de corda, os modos lentos e sutis de quem pega nas coisas às escondidas e tem medo de quebrá-las, de levar carão. Nada disso podia inspirar respeito. Toda ela era uma desgraça arrastada e oblíqua, destinada a suportar grosserias e repelões. Quando o homem da casa vinha receber o aluguel atrasado, gritava: - "Boto-lhe os troços na rua". Seu Ramalho brigava por causa das cuecas sem botões. Coitada! Ela era uma só para tanto trabalho! D. Rosália escarnecia dela: - "A senhora não se aperta. Tem quem lhe dê tudo". D. Adélia torcia as mãos, engolia em seco. Julião Tavares dirigia-lhe graçolas pesadas, aquele cachorro. D. Adélia baixava a cabeça. Apenas um grunhido de reprovação, quase imperceptível: - "Hum! hum!".
 
-- Me respeite, Marina.
+— Me respeite, Marina.
 
 Aquela ordem gaguejada nem era ordem: era um pedido assustado em voz de choro. Marina calou-se e entrou a soluçar. Tive o desejo de gritar através da parede estreita:
 
-- A senhora não tem culpa de viver nesse estado, d. Adélia. A senhora não nasceu assim. Era corada, risonha, dançava como carrapeta, olhava os homens cara a cara, e os homens se desaprumavam. Seu marido impava de orgulho e fazia: - "An!". Depois transformaram a senhora nisso, d. Adélia. Um trapo, uma velha sem-vergonha. Qualquer caixeiro de bodega chega-lhe à porta e berra para dentro: - "Mande pagar a conta, madama. O patrão está às cascas". E a senhora sofre com isso, porque tem uns restos de dignidade e quer que a respeitem. Nunca se acaba a dignidade da gente, d. Adélia. A gente é molambo sujo de pus e rola nos monturos com outras porcarias, mas recorda-se do tempo em que estava na peça, antes de servir. D. Adélia se lembra das flores de laranjeira que lhe enfeitavam a cabeça bonita. Tantas esperanças! Hoje é essa miséria que se vê. Fizeram da senhora uma bola de bilhar, uma coisa que vai para onde a empurram. Entretanto a senhora dançava como carrapeta, e seu Ramalho estava contente.
+— A senhora não tem culpa de viver nesse estado, d. Adélia. A senhora não nasceu assim. Era corada, risonha, dançava como carrapeta, olhava os homens cara a cara, e os homens se desaprumavam. Seu marido impava de orgulho e fazia: - "An!". Depois transformaram a senhora nisso, d. Adélia. Um trapo, uma velha sem-vergonha. Qualquer caixeiro de bodega chega-lhe à porta e berra para dentro: - "Mande pagar a conta, madama. O patrão está às cascas". E a senhora sofre com isso, porque tem uns restos de dignidade e quer que a respeitem. Nunca se acaba a dignidade da gente, d. Adélia. A gente é molambo sujo de pus e rola nos monturos com outras porcarias, mas recorda-se do tempo em que estava na peça, antes de servir. D. Adélia se lembra das flores de laranjeira que lhe enfeitavam a cabeça bonita. Tantas esperanças! Hoje é essa miséria que se vê. Fizeram da senhora uma bola de bilhar, uma coisa que vai para onde a empurram. Entretanto a senhora dançava como carrapeta, e seu Ramalho estava contente.
 
 Marina continuava a chorar. D. Adélia queixava-se baixinho. Eu tinha vontade de chorar também, condoía-me da sorte das duas mulheres e da minha própria sorte.
 
@@ -2245,7 +2245,7 @@ Que eu tenho na barriga.
 
 Depois uma coisa se derramava e sinha Terta dizia:
 
-- Louvado seja Nosso Senhor Jesus Cristo.
+— Louvado seja Nosso Senhor Jesus Cristo.
 
 Meu avô serenava.
 
@@ -2257,11 +2257,11 @@ Pensava no homem acaboclado que encontrei no alto do Farol, membrudo como os suj
 
 As cascavéis torciam-se por ali. Uma delas enroscou­-se no pescoço de Trajano, que dormia no banco do alpendre. Trajano acordou, mas não acordou inteiramente, porque estava caduco. Levantou-se, tropeçando, gritando, e sapateou desengonçado como um doente de coreia. Uma alpercata saltou-lhe do pé. E ele, arrepiado, metia os dedos entre os anéis do colar vivo:
 
-- Tira, tira, tira.
+— Tira, tira, tira.
 
 Quem ia tirar a cascavel que chocalhava no pescoço do velho? Eu era miúdo e olhava aquilo com espanto. Parecia-me que a cobra era um enfeite, uma coisa que Trajano enrolara no pescoço para ficar diferente dos outros velhos. Quem ia tocar nela?
 
-- Tira, tira, tira.
+— Tira, tira, tira.
 
 Quitéria puxava o rosário de contas brancas e azuis: - "Misericórdia!". Trajano Pereira de Aquino Cavalcante e Silva dançava no chão de terra batida. Afinal a cobra se soltou, Camilo Pereira da Silva matou-a com o macete de capar boi e Quitéria levou-a pendurada num pau, a cabeça encostada ao rabo, balançando como uma corda, e foi jogá­-la para lá dos juazeiros.
 
@@ -2269,29 +2269,29 @@ Agora Quitéria estava morta. E os filhos dela e os das outras pretas que, depoi
 
 Seu Ivo apareceu aqui em casa faminto, meio nu e meio bêbedo, como sempre. Enquanto Vitória lhe preparava a comida, fez-me um presente:
 
-- Está aqui, seu Luisinho, que eu lhe trouxe.
+— Está aqui, seu Luisinho, que eu lhe trouxe.
 
 E pôs em cima da mesa uma peça de corda.
 
-- Para que me serve isso, seu Ivo? Onde foi que você furtou isso?
+— Para que me serve isso, seu Ivo? Onde foi que você furtou isso?
 
-- Não furtei não, seu Luisinho, achei na rua. Guarde para o senhor. É bonitinha.
+— Não furtei não, seu Luisinho, achei na rua. Guarde para o senhor. É bonitinha.
 
 E entregou-se ao prato que Vitória lhe ofereceu.
 
-- Muito obrigado, seu Ivo.
+— Muito obrigado, seu Ivo.
 
 Aproximei-me da mesa, desenrolei a peça de corda. Mas, com um estremecimento, larguei-a e meti as mãos nos bolsos, indignado com o caboclo:
 
-- Retire isso daí, seu Ivo. Que diabo de lembrança idiota foi essa?
+— Retire isso daí, seu Ivo. Que diabo de lembrança idiota foi essa?
 
 O homem espantou-se:
 
-- Por quê? Guarde, seu Luisinho. É dada de bom coração. Serve para armar rede.
+— Por quê? Guarde, seu Luisinho. É dada de bom coração. Serve para armar rede.
 
 Pensei na rede onde Marina descansava à noite e que me roubava o sono, ringindo nos armadores.
 
-- Não quero. Tire isso depressa.
+— Não quero. Tire isso depressa.
 
 Evitava dizer o nome da coisa que ali estava em cima da mesa, junto ao prato de seu Ivo. Parecia-me que, se pronunciasse o nome, uma parte das minhas preocupações se revelaria. Enquanto estivera dobrada, não tinha semelhança com o objeto que me perseguia. Era um rolo pequeno, inofensivo. Logo que se desenroscara, dera-me um choque violento, fizera-me recuar tremendo. Antes de refletir, tive a impressão de que aquilo me ia amarrar ou morder.
 
@@ -2299,19 +2299,19 @@ Lembrei-me de Chico Cobra, um curandeiro que na vila andava sempre com um cabaç
 
 Desejei insultar seu Ivo. Pareceu-me que ele tinha vindo aqui mangar de mim. Não era justo. Empurrava a porta, entrava sem vergonha, nunca lhe faltou a boia. Zombar de mim! Não me contive:
 
-- Caboclo safado, mal-agradecido.
+— Caboclo safado, mal-agradecido.
 
 Seu Ivo olhou-me com assombro:
 
-- Oh! xente!
+— Oh! xente!
 
 Acanhei-me. Dizendo tolices.
 
-- Está bem. Não discutamos.
+— Está bem. Não discutamos.
 
 Entrei a caminhar de uma parede a outra, mas como numa das viagens batia com a biqueira do sapato no cano de água, desisti do exercício e pus-me a andar em torno da mesa, descrevendo círculos que pouco a pouco se reduziam. Afinal ia quase tocando as cadeiras, e isto me dava a impressão de que seu Ivo e a mesa estavam sendo amarrados. Sentei-me. O horror que a corda me inspirava foi diminuindo, mas o desconchavo nos meus modos e nas minhas ideias continuou. Pareceu-me que uma das ideias estava ali em cima da mesa, simulando laçadas e espirais. Isto era tão burlesco, tão extravagante, que me veio de repente um acesso besta de hilaridade que espantou seu Ivo. O conjunto daquelas voltas emaranhadas formava um molho no centro da mesa e tinha feição vagamente arredondada. Com um pouco de esforço podia admitir-se que fosse redondo, mais ou menos redondo, comparável a uma cabeça chata feita de curvas caprichosas que se torciam como tripas. Pensei em circunvoluções cerebrais, levantei-me e fui beber um gole de aguardente. Voltei a sentar-me. Continuava a rir, mas sem vontade de rir. Seu Ivo arregalou os olhos, e isto me paralisou o riso idiota. Sentindo-me fiscalizado, reprimi aquela manifestação ruidosa. Acalmei-me, aparentemente. Nem riso nervoso nem raiva despropositada. Toda a minha atenção se concentrava no molho confuso de anéis que ali estava em cima da mesa.
 
-- Coma descansado.
+— Coma descansado.
 
 Seu Ivo comeu tudo, Vitória retirou o prato. Bebi mais um pouco de aguardente e fiquei arriado na cadeira, as mãos esquecidas na toalha coberta de manchas, olhando a corda.
 
@@ -2319,7 +2319,7 @@ Recordei-me da morte de Fabrício, amigo e compadre de meu pai. Nunca tinha vist
 
 Seu Ivo pediu uma pinga. Enchi um cálice para ele, outro para mim.
 
-- À sua saúde, seu Luisinho.
+— À sua saúde, seu Luisinho.
 
 Foi acocorar-se e cochilar encostado à parede, junto ao cano de água. Sentei-me outra vez à mesa, o braço sobre a toalha, a mão perto da corda. Estava meio entorpecido, as pálpebras pesadas. Os armadores na casa vizinha rangiam. Seu Ivo tinha dito: - "Guarde, seu Luisinho. Dá para armar rede". Avancei os dedos em direção aos anéis, mas quando ia tocá-los, um se desfez e bateu-me na mão como coisa viva.
 
@@ -2329,21 +2329,21 @@ Defuntos não me comovem. Na vila apareciam muitas pessoas acabadas a tiro e a f
 
 Agora estava ali com medo de pegar numa corda.
 
-- Você já matou gente, seu Ivo?
+— Você já matou gente, seu Ivo?
 
 O caboclo abriu os olhos, espantado:
 
-- Eu? Deus me livre. Dou pra isso não, seu Luisinho. Nunca matei um pinto.
+— Eu? Deus me livre. Dou pra isso não, seu Luisinho. Nunca matei um pinto.
 
-- Mas tem tido vontade, não?
+— Mas tem tido vontade, não?
 
-- Deixe de história, seu Luisinho. Isso é conversa?
+— Deixe de história, seu Luisinho. Isso é conversa?
 
 Pus-me a rir de novo, esfregando as mãos. De repente o riso se imobilizou, e fiquei em pé diante de seu Ivo, com as mãos postas, engasgado.
 
 Às vezes, horas depois de entrar na vila a rede coberta de vermelho, uma tropa de cachimbos invadia a praça, conduzindo o criminoso amarrado. Os cachimbos falavam alto e mostravam, cheios de suficiência, facões e lazarinas; o matador tinha os braços presos, da barriga para cima estava todo embirado de cordas. A gente se alvoroçava. Os tabuleiros de gamão ficavam abandonados nos tamboretes. Seu Acrísio, quase cego, batia com o cajado no chão e pedia explicações às paredes. O doutor juiz de direito, que mentia demais, contava casos do Amazonas. Como o Amazonas era longe e ninguém ia apurar a veracidade das narrações, o doutor juiz de direito mentia à vontade. Seu Batista saía de casa vestido em robe de chambre. André Laerte, com os bigodes tesos como um gato, andava à pressa, sem rumor, como um gato. Padre Inácio sacudia o guarda-chuva e gritava: - "Canalha! Raça de cachorro com porco!". Cabo José da Luz, banzeiro, arrastava a importância, marchava para a cadeia, bambo, os passos lerdos, o cinturão frouxo, cantando bai­xinho: - "Assentei praça. Na polícia eu vivo...". E o criminoso, pisando com força, atravessava o quadro, a cabeça erguida, a testa cortada de rugas, o olhar feroz, trombudo, impando de orgulho. Algumas horas depois estaria acocorado a um canto da prisão, sem vontade, como seu Ivo. Mas ali, diante dos curiosos que se empurravam, representava o papel de bicho: franzia as ventas, mordia os beiços, dava puxões na corda e grunhia. Olhavam para ele com admiração, e os cachimbos se envaideciam por havê-lo pegado vivo. Rosenda pasmava.
 
-- Estamos costumados a amansar brabo, minha negra.
+— Estamos costumados a amansar brabo, minha negra.
 
 O carcereiro balançava as chaves, e o delegado dava encontrões no povo, carrancudo, quase tão importante como o preso. As três mulheres velhas que pareciam formigas chegavam à janela, em seguida escondiam-se precipitadamente. Seu Filipe Benigno alisava a barba e gastava palavras difíceis e compridas. O povaréu se apertava na calçada da cadeia. Os cachimbos iam matar o bicho no balcão de Teotoninho Sabiá. E o criminoso, entregue à polícia, furava a multidão, entrava no corpo da guarda, preto de poeira e azeitado de suor. Na escuridão do cárcere, depois que a chave tilintava na fechadura da grade, o juiz da cadeia recebia os duzentos réis do torno e desfazia os laços que deslocavam os ossos, entravam na carne do homem. Um ladrão de cavalos seria maltratado, aguentaria facão, de joelhos, nu da barriga para cima, um soldado segurando-lhe o braço direito e batendo-lhe no peito, outro segurando o braço esquerdo e batendo nas costas. Depois os presos se aproximariam, camaradas, de repente lhe afastariam as pernas. O corpo cairia na pedra negra, suja de escarros, sangue, pus e lama. O cipó de boi chiaria no ar, cortaria o lombo descoberto. Mas isto era com os ladrões, os vagabundos, os autores de delitos miúdos. Um criminoso de morte era diferente, merecia consideração. Quando ele chegava à calçada, toda gente se espremia, abrindo caminho, e os olhos se arregalavam num pasmo quase religioso, mistura de aprovação e medo. Na presença da personagem havia silêncio. Depois vinham as conversas cochichadas em que se exagerava o feito. As ações de outros criminosos empalideciam. Aquele, sim, era turuna. Contavam-se as facadas ou os tiros. Nas tarimbas sujas os soldados bocejavam, fartos de sangue. O sujeito representava o seu papel de brabo, a cara enferrujada, escuro de poeira e molhado de suor. Eu procurava descobrir nele semelhança com o meu amigo José Baía.
 
@@ -2351,7 +2351,7 @@ Vitória retirou o prato e limpou a toalha. Com uma sacudidela que deu, a corda 
 
 Pensei em Amaro vaqueiro e em seu Evaristo. Trepado no mourão do curral, Amaro passava uma hora aboiando.
 
-- Vou laçar a novilha careta.
+— Vou laçar a novilha careta.
 
 E a corda de couro girava. Na extremidade o laço ia acima e vinha abaixo. Na escola de seu Antônio Justino, decorando a geografia, eu comparava Amaro vaqueiro ao Sol. Amaro vaqueiro era uma espécie de Sol trepado num mourão. O laço que girava em redor dele era a Terra. De repente essa Terra esquisita caía sobre a novilha careta e prendia-lhe os chifres. Quando havia poucas reses, o exercício era brincadeira. Mas em tempo de pega o curral se enchia, os cornos se chocavam, e mal se distinguia a cabeça do animal visado.
 
@@ -2361,61 +2361,61 @@ Seu Evaristo sofria necessidades. Tinha vivido em boas condições, fora eleitor
 
 Homem de poucas palavras, trabalhador, o sujeito mais sério do mundo. Dedicava-se a vários ofícios, era agricultor, redigia procurações e petições. Beirando os setenta, começou a vender macacos. Os olhos cansaram, a memória emperrou, os braços descarnados não tiveram força para manejar a enxada, a garlopa, o martelo de ferreiro e a tesoura de cortar metais. Seu Evaristo fabricava muitas coisas, mas não se ajeitava em nenhuma profissão. E quando a velhice chegou, sentiu-se fraco, uma tremura nos dedos, que seguravam mal o cajado. Andando, formava dois arcos: um por detrás, nas pernas, outro adiante, no peito; sentado, firmava as mãos na extremidade do cacete, e sobre as mãos, duras e peludas, de veias enormes, assentava o queixo, donde pendiam pelancas escuras que balançavam como teias de pucumã. Foi baixando, baixando, e na casinha que se escondia no fim da rua da Cruz o fogo se apagou. Nos meses compridos daqueles invernos de serra seu Evaristo e a mulher tremiam e começavam a tresvariar, porque a fome era grande. À noite andavam tropeçando nos cacarecos, pois na casa não havia candeia, olhavam a rua triste sob a chuvinha impertinente que embaçava os vidros dos lampiões esmorecidos. Apertavam-se para enganar o frio, e os moleques que passavam na calçada metiam os olhos pelos buracos das janelas e gritavam:
 
-- Velhos imorais! Abraçados, fazendo safadeza.
+— Velhos imorais! Abraçados, fazendo safadeza.
 
 A caridade chegou: seu Filipe Benigno, André Laerte, o velho Acrísio, as três mulheres que pareciam formigas, fizeram uma subscrição - e seu Evaristo começou a receber dez mil-réis por semana. Passou-se o inverno. Plantou uma roça no quintal. E quando o feijão verde apareceu e o milho deu bonecas, mastigou uns agradecimentos e dispensou a caridade.
 
-- Pobre orgulhoso - disse uma das mulheres que pareciam formigas.
+— Pobre orgulhoso - disse uma das mulheres que pareciam formigas.
 
 Rosenda e cabo José da Luz concordaram.
 
 A safra acabou, o velho sentiu fome, olhou os quatro cantos e não encontrou amparo. Procurou trabalho, mas tinha setenta anos, e ninguém confiava nele. Um dia, com a mão na barriga, entrou na padaria de seu José Inácio.
 
-- Uma esmola pelo amor de Deus - cochichou.
+— Uma esmola pelo amor de Deus - cochichou.
 
 Seu José Inácio estava aporrinhado.
 
-- Uma esmola pelo amor de Deus - gemeu seu Evaristo quase sem voz.
+— Uma esmola pelo amor de Deus - gemeu seu Evaristo quase sem voz.
 
-- Ora...
+— Ora...
 
 Seu José Inácio gritou uma praga que ofendeu os ouvidos de seu Evaristo.
 
-- Estou pedindo uma esmola pelo amor de Deus - rosnou o velho espantado, sem saber que aquele despropósito era com ele.
+— Estou pedindo uma esmola pelo amor de Deus - rosnou o velho espantado, sem saber que aquele despropósito era com ele.
 
 Tinha auxiliado muito mendigo, nunca fora grosseiro. Chegava num momento em que o dono da padaria estava zangado.
 
-- Estou pedindo uma esmola pelo amor de Deus - repetiu baixinho.
+— Estou pedindo uma esmola pelo amor de Deus - repetiu baixinho.
 
 Seu José Inácio apontou um cesto de pães dormidos e gritou brutalmente:
 
-- Tira ali.
+— Tira ali.
 
 Mais tarde arrependeu-se, como disse a Teotoninho Sabiá, lembrou-se de que o velho nunca havia importunado ninguém. Ainda chegou à porta para chamá-lo e pedir desculpa, mas a rua estava deserta.
 
 Nesse dia seu Evaristo entrou em casa arrastando-se como um aleijado e deu um pão seco à companheira. Ficou uns minutos vendo-a meter as gengivas na crosta dura, em seguida avizinhou-se da parede, onde havia uma corda pendurada a um torno.
 
-- Hum! hum! - exclamou a mulher. - Pior que mastigar chifre.
+— Hum! hum! - exclamou a mulher. - Pior que mastigar chifre.
 
-- Com certeza - murmurou seu Evaristo.
+— Com certeza - murmurou seu Evaristo.
 
 A mulher comeu o pão e foi deitar-se na esteira. Viu o marido passar a mão pela parede, mas como estava com a vista curta, não percebeu o que ele fazia.
 
-- Só vi que passava a mão pela parede - confessou no dia seguinte a André Laerte. - Virei-me na esteira e peguei no sono.
+— Só vi que passava a mão pela parede - confessou no dia seguinte a André Laerte. - Virei-me na esteira e peguei no sono.
 
 Horas depois encontraram seu Evaristo enforcado num galho de carrapateira. Fui vê-lo, mas não tive coragem de me aproximar: fiquei de longe, olhando o corpo que balançava, os pés tocando o chão, como se estivessem preparando um salto. Eu estranhava que uma pessoa pudesse aguentar-se numa coisa tão frágil como um galho de carrapateira. Rosenda me disse que no momento em que um cristão bota o laço no pescoço o diabo monta nos ombros dele. Seu Evaristo balançava. Às vezes apareciam as costas curvadas. Outras vezes surgiam a barba branca, a língua fora da boca, os olhos abotoados, a careca, e era como se ele fosse dar um salto. Esta ideia absurda de um homem saltar depois de morto bulia comigo. Aquele defunto levantado, com os pés no chão, ameaçando-me com um salto que poderia trazê-lo para junto de mim, apavorava-me. A corda que o sustinha, apenas visível de longe, fininha como aquela que ali estava em cima da mesa, torcia-se e destorcia-se. A mulher de seu Evaristo, caduca, olhava-o, sem lágrimas.
 
 Vitória, na cozinha, lia o jornal. Os armadores se tinham calado. Seu Ivo dormia encostado à parede, com a boca aberta. Agarrei a corda, fiz dela um bolo, meti-a no bolso. O coração batia-me desesperadamente.
 
-- Vá para o diabo, seu Ivo - berrei.
+— Vá para o diabo, seu Ivo - berrei.
 
 Seu Ivo roncava. Sacudi-o. Levantou-se e ficou inclinado, como se estivesse armando um salto.
 
-- Vá para o diabo. Aqui amolando! Eu tenho nada com você? Suma-se.
+— Vá para o diabo. Aqui amolando! Eu tenho nada com você? Suma-se.
 
 Seu Ivo baixou a cabeça:
 
-- Está direito. Até logo, seu Luisinho. Deus lhe acrescente.
+— Está direito. Até logo, seu Luisinho. Deus lhe acrescente.
 
 Julião Tavares entrava no café. Ia sentar-me longe dele, voltava-lhe as costas, mas examinava o espelho coberto de letras brancas. Afetava desprezo, aparentemente ignorava a existência do homem. Via, porém, a roupa molhada nos sovacos, os olhos que saltavam das órbitas, o cabelo escorrido, a papada balofa, as bochechas enormes, tudo riscado de traços brancos que anunciavam bebidas. Se me falavam, eu respondia com uma interjeição qualquer, voz selvagem, gutural, ouvida antigamente aos almocreves e aos tangerinos e que não perdi, apesar dos anos de cidade. Enquanto lançava distraído esses gritos estranhos e ásperos, lia os anúncios que havia no espelho. Juntava letras das palavras mais compridas e formava nomes novos.
 
@@ -2431,9 +2431,9 @@ Eu procurava um cigarro, sentia a aspereza da corda. Ficara no bolso desde aquel
 
 As letras dos anúncios desapareciam, e toda a minha atenção se concentrava em Julião Tavares. Lembrava-me do primeiro encontro que tivemos, no Instituto. Ele catalogava frases monstruosas a respeito da bandeira nacional. À saída dava-me um empurrão, segurava-me um braço e escorregava na intimidade. Meia hora depois expunha-me projetos de reforma.
 
-- O país precisa isto, precisa aquilo.
+— O país precisa isto, precisa aquilo.
 
-- Ah! Eu conheci logo que o senhor era patriota.
+— Ah! Eu conheci logo que o senhor era patriota.
 
 Lá estava amolando outro, com o cotovelo no mármore, a voz oleosa, o olho derramado sobre as mulheres. Agitava-me, rangia os dentes, grunhia uma obscenidade.
 
@@ -2449,7 +2449,7 @@ Medo de Julião Tavares? Não havia motivo, Julião Tavares procuraria levantar-
 
 Medo da opinião pública? Não existe opinião pública. O leitor de jornais admite uma chusma de opiniões desencontradas, assevera isto, assevera aquilo, atrapalha-se e não sabe para que banda vai. Ouvindo-o, penso no tempo em que os homens não liam jornais. Penso em Filipe Benigno, que tinha um certo número de ideias bastante seguras, no velho Trajano, que tinha ideias muito reduzidas, em mestre Domingos, que era privado de ideias e vivia feliz. E lamento esta balbúrdia, esta torre de Babel em que se atarantam os frequentadores do café. Quero bradar:
 
-- Eles escrevem assim porque receberam ordem para escrever assim. Depois escreverão de outra forma. É tapeação, é safadeza.
+— Eles escrevem assim porque receberam ordem para escrever assim. Depois escreverão de outra forma. É tapeação, é safadeza.
 
 Aborreço a lida enfadonha, que só serve para gerar confusão no espírito de seu Ramalho. Pimentel é um malandro. Por que será que Pimentel não escreve sempre as mesmas coisas? Repetindo-as, ele próprio, que não acredita em nada, acabaria acreditando nos seus artigos.
 
@@ -2459,7 +2459,7 @@ Eu não podia temer a opinião pública. E talvez temesse. Com certeza temia tud
 
 Onde estariam os descendentes de Amaro vaqueiro? Talvez o guarda-civil do relógio oficial fosse um deles. Se eu matasse Julião Tavares, o guarda-civil não levantaria o cassetete: apitaria. Chegariam outros, que me ameaçariam de longe. O guarda-civil não tem coragem. Se tivesse, não olharia os automóveis horas e horas, junto ao relógio oficial: ocupar-se-ia devastando fazendas, incendiando casas, deflorando moças brancas, enforcando proprietários nos galhos dos juazeiros. Os sertanejos fortes revoltaram-se e andam matando, roubando, violando, quase selvagens, sujos, os cabelos compridos, enfeitados de penduricalhos, os chapéus de couro cobertos de medalhas, as cartucheiras pesadas, enormes. Nenhum respeito à autoridade. Se um oficial de polícia viajar pela estrada, morre na tocaia. E se não morrer logo, é pior: levam-no para a capoeira e torturam-no. Os campos estão desertos, o gado enegreceu com o carrapato, os homens valentes pegaram o rifle, amarraram a cartucheira na cintura. O guarda-civil do relógio oficial veio para a cidade e arranjou emprego. É um sujeito magro como eu, civilizado como eu. Se houver barulho na rua, ele apita. Se houver greve nas fábricas e lhe mandarem atirar contra os grevistas, atira tremendo. As greves acabam. E ele voltará para a chateação do ponto, magro, triste. É pouco mais ou menos como eu.
 
-- Escreva um artigo a respeito de salários, seu Luís.
+— Escreva um artigo a respeito de salários, seu Luís.
 
 Bocejo e sapeco uma literatura ordinária, constrangido. Sei que estou praticando safadeza. Penso no que acontecerá depois. Quando houver uma reviravolta, utilizarão as minhas habilidades de escrevedor? E o guarda-civil? Continuará junto ao relógio, olhando os automóveis, apitando em caso de necessidade? E Julião Tavares, patriota e versejador? Para que serviria Julião Tavares? Agora era uma figura importante demais. Tavares & Cia., negociantes de secos e molhados na rua do Comércio, eram uns ratos. A personagem oficial que visitava d. Mercedes, alta noite, devia muito a Tavares & Cia. E Julião Tavares era importante. Fazia receio matar um sujeito importante como Julião Tavares.
 
@@ -2471,77 +2471,77 @@ Logo que me afastava da repartição, tudo mudava. Tropeçando no paralelepíped
 
 Os relógios batiam. Com certeza os machos olhavam os mostradores, pensando em entrevistas. Apressava-me. Três horas metido entre as paredes de uma catacumba oficial. Imaginava o que teria podido acontecer nessas três horas e aterrorizava-me. Corria para casa desembestado. A sala de jantar, a barra vermelha com manchas de umidade, o cano de ferro. Vitória punha os pratos na mesa. Esforçava-me por conversar, lembrava-me das moedas e sentia remorso, falava nos vapores. Vitória dizia a lista dos passageiros. Tentara fazer Currupaco decorar uma das listas, mas Currupaco não dera conta do recado e ficara nos versos da mulher do macaco, que fia e cose e toma tabaco há muitos anos.
 
-- O senhor está magro como um cassaco. Não come!
+— O senhor está magro como um cassaco. Não come!
 
 Arreliava-se e dava-me conselhos. Como eu não lhe prestava atenção, afastava-se e ia explicar junto à gaiola do Currupaco:
 
-- Papagaio não comeu, morreu.
+— Papagaio não comeu, morreu.
 
 Eu mastigava uns bocados, enganava o estômago, olhava o quintal, enfadado com a tagarelice da velha. Zangava-me e tinha vontade de lhe pedir silêncio. Continuando a falar tão alto, não me deixaria ouvir mais nada.
 
-- Vá comprar um maço de cigarros, Vitória.
+— Vá comprar um maço de cigarros, Vitória.
 
 Quando ela voltava, dava-lhe outra incumbência e conseguia ficar só algum tempo. Aproximava-me da parede manchada, aumentava a orelha com a mão e esperava, esperava, até que percebia aquela voz sacudida que ia ficando quebrada. Afastava-me, atravessava o corredor, chegava à porta da rua.
 
 Dez minutos depois entrava no café. Lá estava Julião Tavares na prosa. Ia sentar-me no meu lugar. Se Moisés e Pimentel apareciam, conversávamos, discutíamos os fuxicos do jornal, metíamos o pau nos literatos da terra. Sentia-me em segurança. Na animação da palestra procurava cigarros, mas retirava a mão do bolso como se tivesse sido mordido. Aquela coisa punha termo aos momentos de tranquilidade.
 
-- Um maço de cigarros.
+— Um maço de cigarros.
 
 Abria o maço de cigarros e deixava-o sobre a mesa. No dia seguinte jogaria a corda por cima do muro de d. Rosália.
 
-- Fume um cigarro, Pimentel.
+— Fume um cigarro, Pimentel.
 
 Não. As crianças pegariam aquilo, brincariam com aquilo, e aquilo era sujo e perigoso. Atiraria a corda por cima do muro do fundo, no monte de lixo e cacos de vidro, onde lançam ratos mortos. Seu Ivo, aquele cachorro, achava poucas as minhas aporrinhações e ainda me trazia encrencas. Seu Ivo que fosse para o diabo.
 
-- A arte deve ser assim e assado - explicava Moisés.
+— A arte deve ser assim e assado - explicava Moisés.
 
 A tecla de sempre, arte como instrumento de propaganda política. Eu queria contrariar o judeu, mas esmorecia, sem coragem para a discussão.
 
-- Estou em segurança, em perfeita segurança.
+— Estou em segurança, em perfeita segurança.
 
 Cada vez mais me convencia, porém, de que não estava numa segurança assim tão perfeita. Parecia-me que na calçada inimigos embiocados me espiavam.
 
-- Um homem de repartição habitua-se a não ver na­da fora dos processos. Vive lesando, como um cego, não é verdade, Pimentel?
+— Um homem de repartição habitua-se a não ver na­da fora dos processos. Vive lesando, como um cego, não é verdade, Pimentel?
 
-- Sem dúvida.
+— Sem dúvida.
 
 Pimentel concordava distraído! Não desgosta ninguém. Escrevendo, agarra uma opinião e, sinta quem sentir, sapeca tudo no papel. Saem artigos furiosos, agressivos como uma peste. Mas em conversa aprova o que a gente diz.
 
-- Continue, Moisés. Como é lá isso?
+— Continue, Moisés. Como é lá isso?
 
 Tranquilo, perfeitamente tranquilo. Seu Ivo era um grande patife. Onde andaria seu Ivo? Vagabundeando pelos municípios. Uma tristeza pensar em seu Ivo, que só servia para incomodar os outros.
 
-- Vai tudo muito mal, minha gente. Vai tudo escangalhado. Não há segurança nenhuma.
+— Vai tudo muito mal, minha gente. Vai tudo escangalhado. Não há segurança nenhuma.
 
 Não havia. A tranquilidade era pouco a pouco substituída por uma inquietação que me tornava brutal com os companheiros. Instabilidade, ruína, o mundo perdido. Não argumentava, não me explicava: queria descontentar Moisés.
 
-- Não há remédio não. História. Tudo perdido.
+— Não há remédio não. História. Tudo perdido.
 
 Repisava no mesmo terreno, desajeitado. Uma teimosia estúpida. Procurava andar para diante, sentia-me burro, e isto me irritava mais. Ridículo, absolutamente ridículo. E zangava-me com Moisés, que falava sem se alterar. De quando em quando tudo escurecia - ficavam-me diante dos olhos listras coloridas. Receava-me de ofender gravemente Moisés. As minhas mãos dirigiam-se para ele, apertavam-se, como se o fossem estrangular. Eu procurava qualquer coisa, apalpava o bolso que tinha a corda e fazia um chumaço no paletó velho. Baixava a cabeça, prendia as mãos entre as pernas, envergonhado, perguntava a mim mesmo se Moisés teria percebido a tentação e os movimentos. Parecia-me ter cometido uma falta. Selvagem.
 
-- Ora, sim senhor. Em conversinhas como esta é que se armam fuzuês medonhos.
+— Ora, sim senhor. Em conversinhas como esta é que se armam fuzuês medonhos.
 
 Dizia isto em voz baixa, mas os dois amigos ouviam algumas palavras e espantavam-se. Fuzuês medonhos, brigas, sopapos, tiros. Lá vinha o título enorme da notícia, em quatro colunas: "Comunista assassinado num café". Ruim título. Pimentel arranjaria outro melhor. E escreveria durante uma semana coisas interessantes. Enquanto matutava nestes absurdos, olhava-me ao espelho: uma cara besta. Evidentemente o pessoal mangava de mim; Julião Tavares, no outro lado da sala, mangava de mim, via-se muito bem entre as linhas brancas do espelho. Esforçava-me por endireitar o rosto descomposto, procurava entender o discurso de Moisés. Com os olhos arregalados e os queixos contraídos, o que me dava à boca uma aparência de focinho, era como um rato, um rato bem-educado, as patas remexendo o maço de cigarros.
 
-- Perfeitamente, perfeitamente.
+— Perfeitamente, perfeitamente.
 
 Agora concordava com tudo. Eu tinha lá convicção! Baixava a mão lentamente, tocava no bolso volumoso. Pensava em Chico Cobra e no cabaço cheio de jararacas. Faltava-me qualquer coisa.
 
-- Perfeitamente.
+— Perfeitamente.
 
 Levantava-me:
 
-- Está bem. Já volto.
+— Está bem. Já volto.
 
 Corria à rua do Macena, entrava em casa, ia à sala de jantar, ao quintal, ao banheiro, demorava-me até perceber sinais da presença de Marina. Então voltava à conversa interrompida com os amigos.
 
-- Tranquilo, tranquilo.
+— Tranquilo, tranquilo.
 
 Quando não encontrava Julião Tavares, detinha-me um instante à porta, depois saía pelas ruas, a procurá-lo.
 
 Marina caminhava depressa, virava esquinas, voltava-se, como se tivesse medo de ser perseguida. Entrou em várias lojas, escondeu-se num cinema. Distanciei-me dela e estive quase a perdê-la de vista. Aproximei-me de novo. Marina andava de um lado para outro, como formiga desnorteada. Parecia ter o diabo no couro. Meteu-se por uma rua onde os sapatos mergulhavam na areia. Seguia com dificuldade, curva, passando o lenço na cara. Escondi­-me numa esquina, porque de quando em quando ela se aprumava e examinava a rua. Duas vezes parou, descalçou-se e esvaziou os sapatos cheios de areia. Em seguida começou a observar os números das casas. Como se afastasse muito de mim, saí, atravessei rapidamente um quarteirão e fui ocultar-me noutra esquina. Arrisquei-me depois a nova escapada e avizinhei-me bastante dela. O bairro era uma desgraça: mato nas calçadas, lixo, cães soltos, um ou outro maloqueiro vadiando à porta de quitandas miseráveis. As casas sujas, muitas riscadas com letras a carvão profundamente revolucionárias. Pensei em Tavares & Cia. e no dr. Gouveia.
 
-- Com certeza Moisés anda por aqui, distribuindo boletins a esta gente.
+— Com certeza Moisés anda por aqui, distribuindo boletins a esta gente.
 
 Mas não se via a gente. Apenas maloqueiros cochilando, alguns mendigos, crianças barrigudas e amarelas. O resto devia estar no trabalho: os homens nas oficinas, nos estribos dos bondes da Nordeste, nos quartéis, em todos os infernos que há por aí; as mulheres lavando roupa, amando por dinheiro, preparando a comida ruim e insuficiente. Os filhos, roídos pelos vermes, seriam vagabundos mais tarde, dormiriam ao meio-dia nas portas das bodegas. Dormiriam? Quando eles crescessem, haveria pessoas dormindo ao meio-dia nas portas das bodegas? Muitos agora tiritavam, batendo os dentes como porcos caititus, na maleita que a lama da lagoa oferece aos pobres.
 
@@ -2549,7 +2549,7 @@ Mas não se via a gente. Apenas maloqueiros cochilando, alguns mendigos, crianç
 
 Aquela maneira de escrever comendo os sinais indignou­-me. Não dispenso as vírgulas e os traços. Quereriam fazer uma revolução sem vírgulas e sem traços? Numa revolução de tal ordem não haveria lugar para mim. Mas então?
 
-- Um homem sapeca as pestanas, conhece literatura, colabora nos jornais, e isto não vale nada? Pois sim. É só pegar um carvão, sujar a parede. Pois sim. Moisés que se arranje.
+— Um homem sapeca as pestanas, conhece literatura, colabora nos jornais, e isto não vale nada? Pois sim. É só pegar um carvão, sujar a parede. Pois sim. Moisés que se arranje.
 
 Senti despeito. Afastar-me-iam da repartição e do jornal, outros me substituiriam. Eu seria um anacronismo, uma inutilidade, e me queixaria dos tempos novos, bradaria contra os bárbaros que escrevem sem vírgulas e sem traços.
 
@@ -2557,33 +2557,33 @@ Marina parou diante de uma casinha baixa, hesitou, bateu à porta. Toda a minha 
 
 Crianças de azul e branco, naturalmente de volta da escola, tinham a pele enxofrada, o rosto magro cheio de fome. Sentia-me intruso. A minha roupa era velha, a gravata enrolada como uma corda. Com certeza os rapazes do bairro tinham melhor aparência. Em dias de descanso usavam roupa nova, lenço de seda, sapatos lustrosos. Mas havia em mim qualquer coisa que denunciava um estranho. As crianças olhavam-me como olham os homens que aparecem nas escolas pelos exames. Eu era uma das criaturas que elas estavam acostumadas a aborrecer, uma das criaturas que dizem palavras compridas em discursos. Voltei, parei novamente diante da casa de d. Albertina de tal, parteira diplomada. Atravessei a rua, entrei numa bodega.
 
-- Faz o obséquio de me dar um pouco de aguardente?
+— Faz o obséquio de me dar um pouco de aguardente?
 
 O homem da venda trouxe a garrafa, pôs-se a despejá-la num copo sujo. Como eu não o interrompesse, derramou a bebida com sovinice.
 
-- Quer que encha?
+— Quer que encha?
 
-- Vá botando.
+— Vá botando.
 
-- An! bom. É o que se leva deste mundo, opinou entregando-me o copo cheio.
+— An! bom. É o que se leva deste mundo, opinou entregando-me o copo cheio.
 
 Sentei-me e comecei a beber, olhando a casa fronteira, o pensamento espalhado.
 
-- Seu Ivo deve andar por aqui, não?
+— Seu Ivo deve andar por aqui, não?
 
 O homem não respondeu logo: franziu a testa e agitou vagamente o braço peludo. Não conhecia seu Ivo. Naturalmente. Mas senti uma espécie de decepção, as casas em redor pareceram mais fechadas, o dono da bodega mais cabeludo e mais silencioso.
 
-- D. Albertina estará em casa?
+— D. Albertina estará em casa?
 
 O bodegueiro interrogou-me com a cabeça. Apontei a casa:
 
-- D. Albertina...
+— D. Albertina...
 
-- Talvez esteja - respondeu o sujeito depois de algum tempo. - Sua mulher precisa dela?
+— Talvez esteja - respondeu o sujeito depois de algum tempo. - Sua mulher precisa dela?
 
-- Não. É outra coisa.
+— Não. É outra coisa.
 
-- Está bem.
+— Está bem.
 
 Esta aprovação desgostou-me, tive o desejo de contrariá-lo, mas limitei-me a beber metade da aguardente e bater com o copo no balcão. Não havia nada que estivesse bem.
 
@@ -2591,55 +2591,55 @@ Vista dali, a placa azul de d. Albertina era ilegível. Mesmo de perto, dificilm
 
 As rótulas verdes de d. Albertina estavam cerradas, a porta fechada. E Marina lá dentro. Lembrei-me de anúncios revistos há muitos anos: "Fulana de tal, parteira diplomada, com longa prática etc., faz voltarem as regras etc.". Trancada num quarto, deitada na cama, Marina se deixava apalpar demoradamente. A água fervia na caixinha de lata, a chama do álcool empalidecia as figuras.
 
-- Quantos meses? - perguntava d. Albertina.
+— Quantos meses? - perguntava d. Albertina.
 
 Na casa vizinha um dístico horrível tomava a parede toda. Letras grandes, letras pequenas, maiúsculas no meio das palavras. E linhas verticais, verdes, produzidas pela água da chuva, cortando a ameaça aos ricos.
 
-- Andam muitos agitadores por aqui, não?
+— Andam muitos agitadores por aqui, não?
 
-- An?
+— An?
 
-- Pessoas descontentes que pretendem arrasar isto, construir de novo. Que acha?
+— Pessoas descontentes que pretendem arrasar isto, construir de novo. Que acha?
 
 Apontei a inscrição violenta. O sujeito cabeludo espiou-me com o rabo do olho e amoitou-se:
 
-- Aquela sempre esteve ali.
+— Aquela sempre esteve ali.
 
-- Sempre?
+— Sempre?
 
 Meninos abandonados batiam nas portas, pediam esmolas.
 
-- Sempre? Como é lá isso?
+— Sempre? Como é lá isso?
 
-- É um modo de dizer - respondeu o tipo. - Aí uns três anos. Quando abri o estabelecimento, ela já estava acolá, assim mesmo, com uns pedaços verdes. A gente se acostuma.
+— É um modo de dizer - respondeu o tipo. - Aí uns três anos. Quando abri o estabelecimento, ela já estava acolá, assim mesmo, com uns pedaços verdes. A gente se acostuma.
 
-- Acha? - perguntei enjoado. - Ora essa! Qual é a sua opinião?
+— Acha? - perguntei enjoado. - Ora essa! Qual é a sua opinião?
 
 Bebi um gole de aguardente, acendi um cigarro, pus-me a bater com os dedos na tábua preta e gordurosa.
 
-- Essa d. Albertina faz negócio? Qual é a sua opinião?
+— Essa d. Albertina faz negócio? Qual é a sua opinião?
 
-- Sobre quê?
+— Sobre quê?
 
 Abarquei com um gesto as garrafas das prateleiras, as casas arruinadas, a rua coberta de capim e as crianças que pediam esmolas:
 
-- Tudo. Quando a encrenca vier, o senhor perde pouco.
+— Tudo. Quando a encrenca vier, o senhor perde pouco.
 
-- Sei lá! Não leio, não vou aos meetings. Só cuido da minha vida.
+— Sei lá! Não leio, não vou aos meetings. Só cuido da minha vida.
 
 Puxei a cadeira, afastei-me daquele homem indiferente. Estupidez. Imaginar que as letras sempre tinham estado na parede. Inútil conversar com ele. Tenho lido muitos livros em línguas estrangeiras. Habituei-me a entender algumas. Nunca me serviram para falar, mas sei o que há nos livros. Certas personagens de romances familiarizaram-se comigo. Apesar de serem de outras raças, viverem noutros continentes, estão perto de mim, mais perto que aquele homem da minha raça, talvez meu parente, inquilino de um dr. Gouveia, policiado pelos mesmos indivíduos que me policiam. Bebi o resto da aguardente, pensando em coisas sagradas, Deus, pátria, família, coisas distantes. Por cima da armação da bodega havia a litografia de uma santinha bonita. Lembrei-me do Deus antigo que incendiava cidades:
 
-- A humanidade está ficando pulha.
+— A humanidade está ficando pulha.
 
-- Hum?
+— Hum?
 
-- É cá uma história. Faz o favor de trazer mais aguardente?
+— É cá uma história. Faz o favor de trazer mais aguardente?
 
 O homem cabeludo trouxe a garrafa:
 
-- É o que se aproveita neste mundo.
+— É o que se aproveita neste mundo.
 
-- Mais ou menos.
+— Mais ou menos.
 
 Uma pátria dominada por dr. Gouveia, Julião Tavares, o diretor da minha repartição, o amante de d. Mercedes, outros desta marca, era chinfrim. Tudo odioso e estúpido, mais odioso e estúpido que o sujeito cabeludo que despejava aguardente no copo sujo.
 
@@ -2651,69 +2651,69 @@ Os toques de corneta e os rufos de tambor cresciam. A minha pátria era a vila p
 
 Como seria a cara de d. Albertina? Imaginei-a magra, pálida, séria, correta. Não havia motivo para Marina esconder os olhos.
 
-- Faça o favor de descobrir o rosto. Não se acanhe. Tão natural!
+— Faça o favor de descobrir o rosto. Não se acanhe. Tão natural!
 
 Depois voltariam as regras.
 
-- Dois meses? Perfeitamente. Agora a senhora toma precauções, usa isto, usa aquilo.
+— Dois meses? Perfeitamente. Agora a senhora toma precauções, usa isto, usa aquilo.
 
 Exatamente como se Marina estivesse no consultório de um médico, sarjando um tumor. Nenhum sinal de crime ou de ação proibida. A seringa na água que borbulhava, um frasco sobre a mesa da cabeceira, quadros de anatomia nas paredes, a chama do álcool tremendo, a voz calma de d. Albertina a prescrever medidas de segurança. Uma senhora pálida e franzina, de rosto sereno e boas intenções.
 
-- Não se acanhe. Fique à vontade.
+— Não se acanhe. Fique à vontade.
 
 Nenhuma alusão a qualquer espécie de falta. Direita, fria, falando baixinho, empregando termos escolhidos.
 
 Mas por que era que d. Albertina, parteira diplomada, com longa prática, deveria ser assim e não de outra forma? Talvez fosse diferente. Os anúncios não valem nada, papel aguenta tudo, como dizem os matutos. D. Albertina era uma velha gorda e mole, sem diploma nem prática, de óculos ordinários e hálito desagradável, mal-educada, resmungona. Marina estava deitada numa cama nojenta; nas paredes nojentas não havia gravuras de anatomia: havia quadros de santos, retratos coloridos, páginas de revistas. Sem lavar as mãos duras, de unhas compridas e negras, d. Albertina examinava brutalmente o corpo de Marina, arranhando-a, machucando-a, rosnando:
 
-- Era melhor deixar-se de vergonhas e descobrir a cara. Quando andam na pândega, não têm esses luxos. E depois parem bem na bananeira. Feias coisas.
+— Era melhor deixar-se de vergonhas e descobrir a cara. Quando andam na pândega, não têm esses luxos. E depois parem bem na bananeira. Feias coisas.
 
 Mostrava os dentes amarelos de selvagem. Seria assim d. Albertina? A cliente mordia as cobertas sujas, continha a respiração, fechava os olhos, apertava as coxas e engolia o choro.
 
-- Abra as pernas, criatura. Donde vêm esses dengues? Assim ninguém pode trabalhar.
+— Abra as pernas, criatura. Donde vêm esses dengues? Assim ninguém pode trabalhar.
 
 O dinheiro do trabalho fora recebido adiantadamente. Marina dera nome falso e endereço errado, temendo a exploração de d. Albertina.
 
-- Não vale a pena a senhora se incomodar. Eu apareço, compreende? Se houver necessidade, eu apareço.
+— Não vale a pena a senhora se incomodar. Eu apareço, compreende? Se houver necessidade, eu apareço.
 
-- Quanto devo?
+— Quanto devo?
 
 O homem cabeludo deu a conta. Joguei uns níqueis no balcão, disse frases sem sentido, olhando a legenda medonha no muro cortado de listras verdes. Que vida teria d. Albertina? D. Albertina sabia umas coisas, como eu, e como eu usava linguagem diferente da linguagem das outras pessoas. Ordinariamente não é preciso que me digam: - "Faça isto. Escreva assim". Basta que me mostrem ser conveniente fazer isto e escrever assim. Depois os amigos me felicitam, juram que um artigo que ninguém leu foi muito apreciado. Marina provavelmente não dissera o que desejava: falara por meias-palavras, aludira a dificuldades de ordem econômica, desavenças de família etc. D. Albertina riscara um fósforo para desinfetar a seringa na caixinha de lata. A segunda d. Albertina, desleixada, suja, de unhas compridas e pretas que arranhavam o corpo das clientes, sumiu-se. Voltou a outra, delicada e limpa:
 
-- Como não? Perfeitamente. Pode confiar. Sem dúvida.
+— Como não? Perfeitamente. Pode confiar. Sem dúvida.
 
 As mãos finas de unhas polidas, a voz baixa e grave:
 
-- Perfeitamente.
+— Perfeitamente.
 
 O filho de Julião Tavares rebentaria como um tumor. D. Albertina lavaria as mãos, sorrindo:
 
-- A senhora tem uns lindos cabelos.
+— A senhora tem uns lindos cabelos.
 
 E ajeitaria os cabelos desconcertados de Marina. Receberia o envelope indiferente, como se aquilo não tivesse importância:
 
-- Ora essa!
+— Ora essa!
 
 A mulher suja e balofa desaparecera, o quarto sujo desaparecera. Uma senhora decente, parteira diplomada, com longa prática, as mãos brancas e macias, linguagem correta, sorrisos:
 
-- Quando quiser. Perfeitamente.
+— Quando quiser. Perfeitamente.
 
 O filho de Julião Tavares não viria ao mundo penar, cantar na escola o hino do Ipiranga, mover-se no exercício militar, curtir fome nos bancos dos jardins, amolar-se nas repartições, adular nos jornais o governo. E a família de seu Ramalho nada sofreria.
 
 Pensando bem, d. Albertina atentara apenas contra Deus e contra a pátria. Se aquilo fosse julgado pelo júri, o promotor gritaria um discurso patético, e os jurados se arrepiariam com indignação. Se o cura da sé ouvisse um pecado tão grande no confessionário, daria às duas mulheres penitência dura. Mas não haveria discurso, não haveria penitência, que elas não se julgavam culpadas e despediam-se de coração leve, Marina ainda confusa, d. Albertina fingindo acreditar que ela era casada:
 
-- Para que ter filhos, minha senhora? A gente sofre, mas se eles vivessem, podia ser pior, não é verdade? Criar infelizes... Uma responsabilidade, minha senhora, responsabilidade enorme.
+— Para que ter filhos, minha senhora? A gente sofre, mas se eles vivessem, podia ser pior, não é verdade? Criar infelizes... Uma responsabilidade, minha senhora, responsabilidade enorme.
 
 A justiça e a religião não tomariam conhecimento do caso. E a família de seu Ramalho continuaria, como estava, sem um escândalo para alimentar d. Rosália, sem peso novo no orçamento, uma criatura que seria necessário vestir, calçar, nutrir e mandar à escola. D. Adélia censuraria aquele passo arriscado e teria um suspiro de alívio:
 
-- Que loucura! Pisou na beira da cova.
+— Que loucura! Pisou na beira da cova.
 
 Seu Ramalho, hostil e distante, perceberia vagamente que a maluca estava criando juízo. Tudo certo. Marina de cabeça erguida, criticando a vida suspeita de Lobisomem; d. Rosália e d. Mercedes falando com ela naturalmente; Julião Tavares, no café, exigindo um governo forte; d. Adélia apertando as mãos, gemendo conselhos:
 
-- Tenha cuidado, minha filha. Não se exponha, não sacrifique a sua vida por causa desses safados. Conserve-se, pode ser que arranje casamento.
+— Tenha cuidado, minha filha. Não se exponha, não sacrifique a sua vida por causa desses safados. Conserve-se, pode ser que arranje casamento.
 
 Levantei-me:
 
-- Adeus.
+— Adeus.
 
 Mas não saí: fiquei junto ao balcão, atrapalhado, olhando, à porta da casa fronteira, o rosto de Marina. Por detrás dela os cabelos brancos de d. Albertina agitavam-se. Só se percebiam os cabelos. Vistas de longe, as duas figuras confundiam-se, e tive a impressão de que Marina envelhecera e se purificará depois do trabalho da outra. Inutilizara nas entranhas uma coisa ruim que se atormentaria se vivesse, aguentaria coices por onde andasse: em casa, no quarto de pensão, na rua, no jornal, no quartel, na repartição. Tudo continuaria como anteriormente.
 
@@ -2721,7 +2721,7 @@ A neta de d. Aurora iria ao cinema com os hóspedes que a convidassem. D. Aurora
 
 Impacientei-me e falei ao bodegueiro, tentando explicar­-lhe as letras pretas manchadas de verde. A neta de d. Aurora não era Marina e devia estar madura, talvez senhora honesta, dona de pensão, casada, gorda. E Dagoberto já não era estudante: era médico no Pará ou no Amazonas, um destes lugares. Àquela hora estaria examinando a Marina de uma ruela do Pará:
 
-- Qual foi a parteira que lhe fez isso? Onde andava a senhora com a cabeça?
+— Qual foi a parteira que lhe fez isso? Onde andava a senhora com a cabeça?
 
 Gritos, indignação. E a Marina do Pará, compreendendo que havia feito doidice, temeria as doenças de nomes complicados. Mas não denunciaria nenhuma d. Albertina. Dagoberto que lhe desse um remédio, se quisesse. Como estaria Dagoberto, depois de dez anos de separação? Devia estar gordo, encanecido, rico, cheio de filhos, com óculos.
 
@@ -2731,107 +2731,107 @@ Fazia minutos que me havia despedido do bodegueiro, mas prosseguia na conversa, 
 
 Subitamente os cabelos brancos desapareceram e Marina saiu. Findei a exposição capenga:
 
-- Até logo.
+— Até logo.
 
 Atravessei a rua e cheguei-me a Marina, que se afastava com dificuldade, mergulhando na areia os sapatos vermelhos. Sentia-me perturbado e intimamente armava diálogos que ela não entenderia. Os sapatos velhos, rachados e cambados. A roupa desfiando-se nas costuras. Tão miúda, tão reles! Estava quase a pisar-lhe os calcanhares. Tossi:
 
-- Faz favor?
+— Faz favor?
 
 Continuou a marcha penosa, mais lenta e mais cansada depois que dobrou uma esquina. O suor corria-lhe pela nuca, entre os cabelinhos arrepiados. De quando em quando a mão que enxugava a cara surgia por cima de um ombro e esfregava com o lenço a penugem amarela.
 
-- Faz favor?
+— Faz favor?
 
 Aí ela parou. Em seguida apressou o passo, meteu com vontade os pés na areia frouxa, e a penugem amarela empastou-se, grudou-se à pele e escureceu.
 
-- Deixa disso. Não há motivo para esse orgulho todo. Baixa a pancada. Donde vem uma soberbia tão grande?
+— Deixa disso. Não há motivo para esse orgulho todo. Baixa a pancada. Donde vem uma soberbia tão grande?
 
 Os músculos do pescoço tremeram, os sapatos vermelhos plantaram-se na areia, mexeram-se como se quisessem arrancar-se, ficaram imóveis. Avancei dois metros, fiz meia-volta e achei-me em frente de Marina:
 
-- Boa tarde. Como vai a saúde? Há que tempo!
+— Boa tarde. Como vai a saúde? Há que tempo!
 
 Vista de costas, o que nela avultava era a nuca molhada. Agora percebia-se a testa, molhada também e coberta de rugas. Parecia que o resto do corpo se ocultava sob as pálpebras caídas e roxas. O peito cavava-se, a barriga sumia-se. Examinei-lhe brutalmente a barriga, barriga comum, nem grande nem pequena. Uma pessoa modesta andando na rua, encolhendo-se para não dar nas vistas.
 
-- Sim senhora, muito digna. Levanta a cabeça.
+— Sim senhora, muito digna. Levanta a cabeça.
 
 Marina estremeceu e olhou de esguelha para os lados, como se procurasse auxílio.
 
-- Levanta a cabeça. Deixa de inocência.
+— Levanta a cabeça. Deixa de inocência.
 
 Aqueles modos pudicos, aqueles movimentos quase imperceptíveis das pálpebras roxas que velavam olhos inúteis, irritaram-me. Lembrei-me dos armadores que rangiam, das cantigas, dos banhos ruidosos. E atirei-lhe à cara, com raiva:
 
-- Puta!
+— Puta!
 
 Marina ouviu isto sem se revoltar. Apenas ficou mais branca, estirou o beiço quase chorando.
 
-- Me largue, balbuciou.
+— Me largue, balbuciou.
 
-- Está bem. Ninguém tem nada com isso, não é? Vamos andando. Puta!
+— Está bem. Ninguém tem nada com isso, não é? Vamos andando. Puta!
 
 Dizia-lhe o insulto, mas estava cheio de piedade. Não sentia cólera, o que sentia era desgosto.
 
 Marina estava como uma defunta em pé. Pensei em Cirilo de Engrácia, visto dias antes em fotografia - um cangaceiro morto, amarrado a uma árvore. Parecia vivo e era medonho. O que tinha de morto eram os pés, suspensos, com os dedos quase tocando o chão. Os pés de Camilo Pereira da Silva, ossudos, magros, eram assim desgovernados. Os de Marina estavam metidos na areia. E Marina parecia morta.
 
-- Puta!
+— Puta!
 
 Teria dito e repetido outra palavra que insistisse em vir-me à boca, dessas coisas que a gente diz à toa e conserva porque vieram espontaneamente e são insubstituíveis e absurdas. Quanto mais olhava Marina menos me inclinava a admitir que ela fosse uma puta. As pálpebras roxas ocultando olhos aguados, o beiço trêmulo, a barriga encolhida, a cara mal pintada, a testa amarela coberta de rugas.
 
-- Vamos caminhando.
+— Vamos caminhando.
 
 Marina pôs-se a andar como um mamulengo.
 
 O homem cabeludo só cuidava da sua vida; a datilógrafa dos olhos de gato copiava um boletim na máquina estragada; d. Albertina guardava os cem mil-réis na gaveta; as crianças que voltavam do grupo escolar soletravam as legendas estiradas nas paredes. O filho de Marina morria, talvez já tivesse morrido. Pensei nos ratos, em d. Mercedes, no quintal cheio de lixo, na mulher que lava garrafas e no homem que enche dornas. Estas lembranças me produziram um aperto no coração. Quase todas me pareceram regulares, mas a ideia dos ratos era extravagante, e isto me enfureceu. Que vinham fazer os ratos ali, àquela hora?
 
-- Puta! - exclamei metendo com raiva os pés na areia.
+— Puta! - exclamei metendo com raiva os pés na areia.
 
 Talvez não me referisse a Marina: referia-me aos ratos, a coisas vagas. A palavra infamante tinha extensão enorme. Nada se fixava no meu espírito. Aberrações, monstruosidades, os uivos compridos de d. Rosália, a respiração ofegante do marido de d. Rosália, Antônia, Berta, a mulher da rua da Lama, a neta de d. Aurora, a banca da redação, o cinema, o teatro. E aparecia-me na rua uma criatura pálida, silenciosa. Mais forte que aquelas ideias indecisas e misturadas, a lembrança dos ratos continuava a atormentar-me.
 
-- Puta!
+— Puta!
 
 Os beiços de Marina estavam como os de uma defunta, os olhos procuravam socorro, e eu cravava as unhas nas palmas das mãos, mordia a língua por haver deixado escapar mais uma vez a injúria que nada significava. Deu-me uma tontura, cambaleei. Meses antes Marina ficara nua, a carne arrepiada se cobrira de carocinhos. Quando o marido voltava do interior, d. Rosália soltava uns gritos que não me deixavam dormir. A mulher da rua da Lama ia para o hospital, vinha do hospital, continuava o trabalho enfadonho no quarto sujo, nua e triste. Os dedos cruzavam-se nos joelhos agudos como dedos mortos. - "A água lava tudo, as feridas cicatrizam." Repeti mentalmente esta frase, mas não pude saber de quem era ela.
 
-- Enfim tudo se acabou, não é? - perguntei. - O filho morreu, boa solução.
+— Enfim tudo se acabou, não é? - perguntei. - O filho morreu, boa solução.
 
 Marina estremeceu violentamente e parou, olhando-me pela primeira vez. O rosto contraído esmoreceu num desmaio, o corpo diminuiu. Pareceu-me que ia enterrar-se todo na areia. A voz morria-lhe na garganta, sons roucos e incompreensíveis, mas os olhos apavorados negavam, a cabeça agitava-se desordenadamente, negando.
 
-- Merecia estar na cadeia - resmunguei sentindo uma necessidade urgente de justiça.
+— Merecia estar na cadeia - resmunguei sentindo uma necessidade urgente de justiça.
 
 Palavras antigas, esquecidas, voltavam-me. - "Os que têm fome de justiça", cantavam os alunos de mestre Antônio Justino. Sede ou fome de justiça? Não me lembrava. Também já não sabia as vantagens que o catecismo reserva aos que têm fome ou sede de justiça.
 
-- Na cadeia, percebe? Comendo bacalhau e dormindo na esteira. Sem-vergonha.
+— Na cadeia, percebe? Comendo bacalhau e dormindo na esteira. Sem-vergonha.
 
 A frase antiga me perseguia, mas, por mais que tentasse reconstruí-la, não havia meio de tê-la completa. - "Bem-aventurados os que têm sede de justiça..." E o resto? Que aconteceria a esses bem-aventurados? O esforço para recordar-me exasperava-me. Insultava Marina. Puta. A justiça havia de agarrá-la, jogá-la para lá das grades pretas que a gente não pode tocar. Vinham-me tiradas incoerentes, que embranqueciam e enegreciam Marina.
 
-- Fez muito bem. Prejuízo pequeno, insignificância. É o que lhe digo. Sem falar nas responsabilidades, nas encrencas.
+— Fez muito bem. Prejuízo pequeno, insignificância. É o que lhe digo. Sem falar nas responsabilidades, nas encrencas.
 
 E logo:
 
-- D. Albertina guarda segredo? Se não guardar, a reputação de Marina dá em ossos de minhoca.
+— D. Albertina guarda segredo? Se não guardar, a reputação de Marina dá em ossos de minhoca.
 
-- D. Albertina? - perguntou Marina, pálida como flor de algodão.
+— D. Albertina? - perguntou Marina, pálida como flor de algodão.
 
-- Sim, d. Albertina, minha sem-vergonha. Vamos para diante. Marcha!
+— Sim, d. Albertina, minha sem-vergonha. Vamos para diante. Marcha!
 
 Continuamos a caminhada, segurei o braço mole de Marina.
 
-- Eu vi a placa na porta. Estava defronte, conversando com o homem da venda.
+— Eu vi a placa na porta. Estava defronte, conversando com o homem da venda.
 
-- Me deixe, pelo amor de Deus - gritou Marina desesperada. - Não lhe fiz mal, vou quieta pelo meu caminho. Me deixe. Que é que você quer comigo?
+— Me deixe, pelo amor de Deus - gritou Marina desesperada. - Não lhe fiz mal, vou quieta pelo meu caminho. Me deixe. Que é que você quer comigo?
 
 Olhou os quatro cantos. Um soldado de polícia e um soldado do exército passaram, os quepes de banda.
 
-- Atraca-te com um deles. Tu só dás para isso.
+— Atraca-te com um deles. Tu só dás para isso.
 
 Atirei-lhe assim o pior ultraje. Como os pequenos militares são desprezados, julguei demolir Marina apontando­-lhe os dois rapazes. Bem-aventurados os que têm sede de justiça. Esta coisa, repetida, dava-me fúrias de cachorro doido. Para que agarrar-me a sombras? Um juiz de direito bocejando, fatigado; o promotor declamando a acusação e afastando-se dos autos, que não tinha lido; o advogado, que poderia ser Julião Tavares, soluçando a defesa e apelando para os sentimentos religiosos dos jurados; oito sujeitos cochilando, chateados e comprometidos a absolver ou condenar a ré. Marina escondia a cara e inspirava compaixão. Todos os jurados tinham as feições de dr. Gouveia. Sacudi os ombros:
 
-- Ande. Que diabo tem você nas pernas que não caminha?
+— Ande. Que diabo tem você nas pernas que não caminha?
 
 A marcha na areia solta era penosa em extremo.
 
-- Vá-se embora. Me largue, pelo amor de Deus - arquejou Marina. - Não lhe fiz mal. Por que não me deixa em paz?
+— Vá-se embora. Me largue, pelo amor de Deus - arquejou Marina. - Não lhe fiz mal. Por que não me deixa em paz?
 
 Em paz. Grunhi de novo o desaforo imundo. Em paz. Nenhum caso importante. Não haveria juiz amolado tocando o tímpano, nem advogado pernóstico, nem promotor botando sabedoria em cima de dr. Gouveia multiplicado nas cadeiras. Marina dormiria tranquila, os armadores guardariam silêncio.
 
-- Sem dúvida. Os tempos estão duros. Em frente, ordinário, marche! Tudo isto é uma peste.
+— Sem dúvida. Os tempos estão duros. Em frente, ordinário, marche! Tudo isto é uma peste.
 
 Entramos na cidade e separamo-nos. Mas logo me veio a ideia de que ela se ia juntar com o amante.
 
@@ -2847,7 +2847,7 @@ Por que andava com tanta pressa quando deixava o café? Entrava num bonde, espal
 
 Que fim teria levado seu Ivo? À toa, procurando nas fazendas e nas povoações muitas vezes percorridas alguma coisa ignorada. Bêbedo sempre, cochilando, babando, seu Ivo não encontra sossego. Uns foram para o Amazonas e acabaram-se no beribéri; outros andam pelo Sul, em concorrência com o estrangeiro. Seu Ivo, incapaz de fixar-se, índio e cigano, corre fazendas e povoações, pedindo, furtando. Não sabe tomar os objetos que necessita: pede, furta, é um indivíduo inferior. Por isso digo a Vitória quando ele me entra em casa:
 
-- Vitória, preste atenção a seu Ivo. Cuidado para que ele não me abafe um livro.
+— Vitória, preste atenção a seu Ivo. Cuidado para que ele não me abafe um livro.
 
 Inútil. O livro é abafado e oferecido adiante, como a corda que ele me deu.
 
@@ -2871,17 +2871,17 @@ Agora Julião Tavares marchava no escuro, depois de ter abraçado a mocinha sard
 
 Lembrava-me de sinha Germana, de Quitéria, das negras da fazenda. Sinha Germana só tinha conhecido um homem. As pretas não se envergonhavam de conhecer muitos homens. Que diferença! Descendo de sinha Germana, que dormiu meio século numa cama dura e nunca teve desejos. Adquiro ideias novas, mas estas ideias brigam com sentimentos que não me deixam. Sinha Germana dormia no couro de boi com o velho Trajano, e se dormisse de outra forma, não dava certo. Os costumes de sinha Germana eram superiores aos de Quitéria. Por quê? Não havia por quê, e isto me enraivecia. Um sujeito capaz de escrever sobre muitos assuntos entendendo-os mal, ou sem entendê-los, aceitar as opiniões de Camilo Pereira da Silva, de padre Inácio, de d. Rosália! Essas opiniões não tinham pé nem cabeça. Marina valia o que tinha valido antes de engrossar a barriga e procurar d. Albertina. As mesmas pernas bem-feitas, os mesmos braços que mexiam as roseiras do quintal pobre, os mesmos cabelos que pareciam oxigenados, os mesmos olhos traquinas. Mas as pernas não se curvavam para mostrar as nádegas apertadas na saia estreita, os braços moviam-se vagarosamente, pesados, os cabelos amarelos caíam sobre a testa enrugada, os olhos baixavam-se, cheios de culpa, desviando-se dos outros olhos. Esta consciência de inferioridade era contagiosa. Marina tinha descido. Logo me revoltava. Absurdo.
 
-- Como as outras, como as outras. Mais bonita que a maioria das outras.
+— Como as outras, como as outras. Mais bonita que a maioria das outras.
 
 Repetições inúteis. Não podia evitar a ideia de uma queda. De qualquer forma ela havia diminuído e habituava-se a esgueirar-se, a pedir desculpa a toda gente.
 
 Seria para o futuro um trapo como d. Adélia:
 
-- A senhora tem razão, d. Rosália. É isso mesmo, d. Rosália.
+— A senhora tem razão, d. Rosália. É isso mesmo, d. Rosália.
 
 Os sapatos vermelhos com o verniz rachado e os saltos gastos, roupas ordinárias, as unhas estragadas, a voz esmorecendo numa cantilena de aprovação.
 
-- Como as outras. Estúpido, absolutamente estúpido.
+— Como as outras. Estúpido, absolutamente estúpido.
 
 Furores perdidos. Marina permaneceria de vista baixa, esconder-se-ia como um rato e falaria gemendo, concordando com d. Rosália.
 
@@ -2889,17 +2889,17 @@ Fui até o fim da linha de bonde e parei, como se me tivesse faltado a corda de 
 
 A verdade é que estava com as pernas bambas. Caminhada tão extensa! Mais de uma hora. O mesmo tempo para voltar - um, dois, um, dois - exatamente o mesmo número de minutos gastos na vinda.
 
-- Está bem.
+— Está bem.
 
 Deviam ser duas horas da madrugada.
 
-- Sem dúvida.
+— Sem dúvida.
 
 Julião Tavares não tardaria em deixar a casinha que se trepa no morro, junto a uma barreira vermelha.
 
 Seguiria pela rodagem? pela estrada de ferro? Só vendo. Esta necessidade de ver encolerizou-me:
 
-- Besta! Farejando imundícies como um cachorro.
+— Besta! Farejando imundícies como um cachorro.
 
 Procurei um cigarro para acalmar-me. Não encontrei cigarros. O que achei foi a corda que seu Ivo me havia oferecido. Desleixado. Conservar no bolso aquele traste e esquecer os cigarros! Olhei os quatro cantos. Nenhuma bodega. Esperei a passagem de alguém que me desse um cigarro. Ninguém. Idiota! Que estava fazendo ali, pisando a ponta do trilho? Farejando imundícies como um cachorro, como um urubu. Que horas seriam? Duas, aproximadamente. Aguardei as pancadas de um relógio. Com certeza Julião Tavares tinha deixado a cama da mocinha sardenta e recolhia-se, leve como um balão, saciado, fumando, a brasa do cigarro esmorecendo e avivando­-se. O certo era que eu não podia ficar ali subordinado a um relógio duvidoso ou a um transeunte que talvez não tivesse cigarros. Julião Tavares deixara a mocinha sardenta. Seria a mocinha sardenta a amante dele? Na casa havia outras mulheres. Por que imaginei que havia de ser a mocinha sardenta? Uma garoa que se adensava ia toldando as luzes capiongas. Um, dois - impossível contar os postes de iluminação, que a neblina ocultava. Senti frio. Enquanto marchava, não tinha frio, nem cansaço, nem desejo de fumar. Agora a falta de cigarros me afligia. Levantei a gola, apertou-me a necessidade urgente de voltar. Tinha certeza de que na volta me apareceriam cigarros. Virei-me, pus-me a caminhar desordenadamente. De quando em quando parava, as pernas bambas. Não haveria uma bodega, um transeunte? A marcha regular era impossível. Estava irritado como um bicho e levava a mão ao bolso, num gesto maquinal. Encontrava os anéis da corda. Provavelmente Julião Tavares ia de volta, fumando. Que me importava Julião Tavares? A figura de Cirilo de Engrácia passou-me diante dos olhos, mas desapareceu logo. Por que me achava àquela hora da noite em Bebedouro, andando à toa como uma barata, parando, correndo? Soprava, enxugava o rosto com a manga. Cansado.
 
@@ -2911,7 +2911,7 @@ As meninas de Teotoninho Sabiá cantavam, à porta da nossa casa estalava uma gr
 
 Julião Tavares ia afastar-se, dissipar-se, virar neblina. Apressei-me, pus-me quase a correr. Bem. Continuava invisível, mas as pisadas ouviam-se distintamente.
 
-- Bem.
+— Bem.
 
 Dizia isto, e sentia que tudo ia mal, aporrinhava-me por estar perdendo tempo a acompanhar Julião Tavares. Afligia-me pensar que dentro em pouco ele entraria na cidade e dormiria tranquilo. Cirilo de Engrácia, morto, em pé, amarrado a uma árvore, coberto de cartucheiras e punhais, tinha os cabelos compridos e era medonho. Eu não poderia dormir. O caminho encurtava-se. Mas então? Para que seguir o homem odioso que tinha tudo, mulheres, cigarros? Agora estávamos perto um do outro, mas a cidade se aproximava, e em breve estaríamos afastados, ele chupando um cigarro, eu aguentando os roncos do marido de d. Rosália, que tinha chegado na véspera. Pelo resto da noite ouviria os gemidos e os roncos dos vizinhos. O cansaço desaparecera. Desejaria caminhar léguas, até fatigar-me novamente e adormecer. Quantos metros faltariam para desembocarmos na Levada? Quantas horas faltariam para se abrirem os cafés e as bodegas? A ideia de que nos íamos separar me desesperava. Ali era como se ele dependesse de mim. Distinguiam-se perfeitamente os passos; nas luzes que espirravam das travessas a figura surgia, escura e bojuda, com o chapéu desabado e a gola do paletó erguida. De repente senti uma piedade inexplicável, e qualquer coisa me esfriou mais as mãos. Julião Tavares era fraco e andava desprevenido, como uma criança, naquele ermo, sob ramos de árvores dos quintais mudos. Uma hora, meia hora depois, passaria pelo guarda adormecido junto a um poste, seria forte, mas ali, debaixo das árvores, era um ser mesquinho e abandonado. Contraí as mãos frias e molhadas de suor, meti-as nos bolsos para aquecê-las. Para aquecê-las ou levado pelo hábito. A aspereza da corda aumentou-me a frieza das mãos e fez-me parar na estrada, mas a necessidade de fumar deu-me raiva e atirou-me para a frente. Entrei a caminhar depressa, receando que Julião Tavares escapasse. Novamente os passos leves no chão coberto de folhas secas. Distinguia-se agora muito bem a sombra escura na garoa peganhenta. A garoa me entrava no bolso e gelava os dedos, que esfregavam a corda. Por que andava com segurança o homem gordo? Olhos atentos procuravam enxergá-lo, dedos crispados moviam-se em direção a ele. - "Matos têm olhos, paredes têm ouvidos", dizia Quitéria sentada na prensa do quintal. Pareceu-me que as árvores em redor estavam vivas e espiavam Julião Tavares, que os galhos iam enlaçar-lhe o pescoço. E ele andava sossegado como se ali houvesse guardas-civis.
 
@@ -2921,43 +2921,43 @@ O desejo de fumar levava-me ao desespero. O acesso de piedade sumiu-se, o ódio 
 
 José Baía vinha contar-me histórias no copiar, cantava mostrando os dentes tortos muito brancos. Era bom e ria sempre. Dava-me explicações a respeito de visagens, mencionava as orações mais fortes. Não me ensinou as orações, para não quebrar a virtude delas, mas ofereceu-me conselhos, que esqueci. Tão bom José Baía! O clavinote dele tinha vários riscos na coronha. Ninguém falava alto a José Baía, ninguém lhe mostrava cara feia. E ele ria, exibindo os dentes acavalados, e quando avistava o vigário ou outro hóspede importante, a aba do chapéu de couro varria o pátio da fazenda. Não me seria possível imaginar José Baía atacado de uma crise de ódio como a que me fazia pregar as unhas nas palmas. Provavelmente ele ficava sossegado na capoeira, tirando um trago do cigarro de palha, que apagava logo com saliva e guardava atrás da orelha, para a fumaça não denunciar a emboscada. O ouvido atento a qualquer rumor que viesse do caminho estreito, o joelho no chão, em cima do chapéu de couro, o olho na mira, a arma escorada a uma forquilha, com certeza não pensava, não sentia. Estava ali forçado pela necessidade. No dia seguinte faria com a faca de ponta novo risco na coronha do clavinote e contaria no alpendre histórias de onças.
 
-- Que fim levou, José Baía?
+— Que fim levou, José Baía?
 
-- Por aí, caminhando.
+— Por aí, caminhando.
 
 Nenhum remorso. Fora a necessidade. Nenhum pensamento. O patrão, que dera a ordem, devia ter lá as suas razões. As histórias do alpendre eram simples: as onças que armavam ciladas aos bodes não tinham ferocidade. José Baía, bom tipo. Quando passasse pela cruzinha de pau que ia apodrecer numa volta do caminho, rezaria um padre-nosso e uma ave-maria pelo defunto. A fraqueza estirou-me os dedos e retardou-me a caminhada. Tive saudade de José Baía e das conversas infantis do copiar.
 
-- José Baía, meu irmão, onde estarás a esta hora? Terás morrido em tocaia ou mofarás numa cadeia nojenta de grades pretas e gordurosas? Entraste um dia na vila, amarrado de cordas, negro de suor e poeira, cercado por uma tropa de cachimbos. Os teus olhos claros se arregalavam num espanto verdadeiro. Envelheceste e és outro, uma inutilidade feita pela justiça. Os teus ouvidos e a tua vista se estragaram, as tuas mãos tremem, estás sério e esqueceste a criança a quem dizias as virtudes da oração da cabra preta.
+— José Baía, meu irmão, onde estarás a esta hora? Terás morrido em tocaia ou mofarás numa cadeia nojenta de grades pretas e gordurosas? Entraste um dia na vila, amarrado de cordas, negro de suor e poeira, cercado por uma tropa de cachimbos. Os teus olhos claros se arregalavam num espanto verdadeiro. Envelheceste e és outro, uma inutilidade feita pela justiça. Os teus ouvidos e a tua vista se estragaram, as tuas mãos tremem, estás sério e esqueceste a criança a quem dizias as virtudes da oração da cabra preta.
 
 Quanto tempo duraram as recordações e o enfraquecimento? Um minuto, ou menos. Novamente as mãos se contraíram e as pernas se estiraram no caminho extenso. Desejei que Julião Tavares fugisse e me livrasse daquele tormento. Se ele corresse pela estrada deserta, estaria tudo acabado. Eu tentaria alcançá-lo. Inutilmente. Pensei em gritar, avisá-lo de que havia perigo, mas o grito morreu-me na garganta. Não grito: habituei-me a falar baixinho na presença dos chefes. Era preciso que alguma coisa prevenisse Julião Tavares e o afastasse dali. Ao mesmo tempo encolerizei-me por ele estar pejando o caminho, a desafiar-me. Então eu não era nada? Não bastavam as humilhações recebidas em público? No relógio oficial, nas ruas, nos cafés, virava-me as costas. Eu era um cachorro, um ninguém. - "É conveniente escrever um artigo, seu Luís." Eu escrevia. E pronto, nem muito obrigado. Um Julião Tavares me voltava as costas e me ignorava. Nas redações, na repartição, no bonde, eu era um trouxa, um infeliz, amarrado. Mas ali, na estrada deserta, voltar-me as costas como a um cachorro sem dentes! Não. Donde vinha aquela grandeza? Por que aquela segurança? Eu era um homem. Ali era um homem.
 
-- Um homem, percebe? Um homem.
+— Um homem, percebe? Um homem.
 
 Julião Tavares não ouviu e continuou a andar tranquilamente.
 
-- Corre, peste.
+— Corre, peste.
 
 Por que era que o miserável não corria, não se livrava dos meus instintos ruins? Estaria recordando as carícias da mocinha sardenta?
 
-- Isso não vale nada, Julião Tavares. Marina, a mocinha sardenta, a datilógrafa dos olhos de gato, não valem nada. O que vale é a tua vida. Foge.
+— Isso não vale nada, Julião Tavares. Marina, a mocinha sardenta, a datilógrafa dos olhos de gato, não valem nada. O que vale é a tua vida. Foge.
 
 Julião Tavares parou e acendeu um cigarro. Por que parou naquele momento? Eu queria que ele se afastasse de mim. Pelo menos que seguisse o seu caminho sem ofender-me. Mas assim... Faltavam-me os cigarros, e aquela parada repentina, a luz do fósforo, a brasa esmorecendo e avivando-se na escuridão, endoideciam-me. Fiz um esforço desesperado para readquirir sentimentos humanos:
 
-- José Baia, meu irmão...
+— José Baia, meu irmão...
 
 José Baía não era meu irmão: era um estranho de cabelos brancos que apodrecia numa cadeia imunda, cumprindo sentença por homicídio. - "Recebeu cópia do libelo?" José Baía não soubera responder. Tinha recebido e não tinha. Que resposta devia dar àquela pergunta incompreensível? O presidente se contentaria se ele dissesse que sim? Ou seria melhor dizer que não? E José Baía balançava a cabeça, indeciso: tinha recebido e não tinha. Afinal que me importava José Baía, estirado numa esteira por detrás das grades negras e pegajosas? Que me importavam as grades negras e pegajosas?
 
 Retirei a corda do bolso e em alguns saltos, silenciosos como os das onças de José Baía, estava ao pé de Julião Tavares. Tudo isto é absurdo, é incrível, mas realizou-se naturalmente. A corda enlaçou o pescoço do homem, e as minhas mãos apertadas afastaram-se. Houve uma luta rápida, um gorgolejo, braços a debater-se. Exatamente o que eu havia imaginado. O corpo de Julião Tavares ora tombava para a frente e ameaçava arrastar-me, ora se inclinava para trás e queria cair em cima de mim. A obsessão ia desaparecer. Tive um deslumbramento. O homenzinho da repartição e do jornal não era eu. Esta convicção afastou qualquer receio de perigo. Uma alegria enorme encheu-me. Pessoas que aparecessem ali seriam figurinhas insignificantes, todos os moradores da cidade eram figurinhas insignificantes. Tinham-me enganado. Em trinta e cinco anos haviam-me convencido de que só me podia mexer pela vontade dos outros. Os mergulhos que meu pai me dava no poço da Pedra, a palmatória de mestre Antônio Justino, os berros do sargento, a grosseria do chefe da revisão, a impertinência macia do diretor, tudo virou fumaça. Julião Tavares estrebuchava. Tanta empáfia, tanta lorota, tanto adjetivo besta em discurso - e estava ali, amunhecando, vencido pelo próprio peso, esmorecendo, escorregando para o chão coberto de folhas secas, amortalhado na neblina. Ao ser alcançado pela corda, tivera um arranco de bicho brabo. Aquietava-se, inclinava-se para a frente, os joelhos dobravam-se, o corpo amolecia. Eu tinha os braços doídos e as mãos cortadas. Enquanto Julião Tavares estivesse com a cabeça erguida, a minha responsabilidade não seria tão grande como depois da queda. Quando bebia demais, seu Ivo tinha aquele jeito de arriar, não havia conversa que o levantasse. A lembrança de seu Ivo enfureceu-me.
 
-- Com os diabos!
+— Com os diabos!
 
 E larguei o corpo, que foi bater numa cerca, por baixo de uns galhos de árvore que aumentavam a escuridão.
 
-- Com os diabos!
+— Com os diabos!
 
 Sentei-me ao pé da cerca, enxuguei o suor que me corria pela testa. Cansado. A mão direita doía-me horrivelmente, mas continuei a apertar com ela a corda que a circulava. A mão esquerda estava livre. Levei-a ao bolso à procura de cigarros, mas retirei-a logo. A figura de seu Ivo, bêbedo, encostado à parede, voltou. Que horas seriam? As estacas da cerca magoavam-me as costas. Pareceu-me inconveniente permanecer ali, mas não me veio a ideia de que houvesse perigo. Necessário continuar a marcha. Continuar a marcha, evidentemente. Fiquei sentado e mudei de posição, porque as estacas da cerca me feriam os ombros. Como conduzir Julião Tavares, tão pesado? Não compreendi que devia deixá-lo apodrecendo nas folhas, debaixo da árvore. Precisava transportá-lo, isto não me saía da cabeça. Transportá-lo sem dúvida. Apesar de não sentir medo, percebia que era urgente retirar-me. Agucei o ouvido. Apenas o zum-zum dos mosquitos. A lagoa próxima fervilhava de carapanãs. Como estaria Julião Tavares? Procurei distingui-lo, avancei a cabeça para o lugar onde supunha ter ele ficado. Um vulto quase imperceptível na escuridão leitosa. O rosto encostado à terra, naturalmente. Como estariam os olhos dele? Os de seu Evaristo, que vi de longe, esbugalhavam-se. E a boca se escancarava, mostrando a língua escura e grossa. Provavelmente Julião Tavares tinha também os olhos muito abertos e o queixo desgovernado.
 
-- Mas que diabo estou fazendo aqui?
+— Mas que diabo estou fazendo aqui?
 
 Necessitava levantar-me, afastar-me depressa, entrar em casa, dormir. Àquela hora o marido de d. Rosália resfolegava, arranhava com a barba o couro amarelo de d. Rosália. O marido de d. Rosália resfolegava como um bicho. E Julião Tavares parado. Minutos antes andava na maciota, o cigarro aceso, o pensamento na cama da mocinha sardenta. Agora ali junto da cerca, estirado. Inconveniente ficar ao lado dele. Inconveniente. As carapanãs zumbiam, voavam perto da minha cara, picavam-me as orelhas e as mãos escalavradas. Inconveniente.
 
@@ -2965,254 +2965,254 @@ Matos têm olhos, paredes têm ouvidos.
 
 Quitéria, Rosenda e a prensa velha vieram-me à memória. Olhei os arredores, tentei varar a escuridão. Tudo invisível. A lagoa, povoada de carapanãs, invisível. Uma grande fraqueza abateu-me, suor abundante ensopou-me a camisa. Passei a mão na cara molhada, senti na pele a dureza da corda. Se viesse alguém?
 
-- Recebeu cópia do libelo?
+— Recebeu cópia do libelo?
 
 Os amigos de Julião Tavares iriam julgar-me. Pimentel e Moisés não eram jurados. Que diriam os jornais? De seu Evaristo não tinham dito nada, dos homens que apareciam mortos nos caminhos não diziam nada. Mas agora falariam muito. Quem foi? Por que foi? Pimentel escreveria artigos horríveis. Pus-me a discutir com Pimentel, gesticulei, uma das mãos bateu no corpo de Julião Tavares. Encolhi-me, o suor aumentou na friagem da noite.
 
 José Baía, velho e manso, dormia na esteira de pipiri, por baixo das cortinas de pucumã. Seu Evaristo balançava, pendurado num galho de carrapateira. Seu Evaristo era tão magro, tão cheio de fome, que um galho de carrapateira podia sustentá-lo. Cirilo de Engrácia, morto, em pé, amarrado a uma árvore, parecia vivo. Os cabelos compridos, caídos para a frente, escureciam-lhe o rosto feroz. Só os pés estavam bem mortos, suspensos, os dedos para baixo. O frio aumentava, comecei a bater os queixos como um caititu. Se alguém surgisse na estrada, eu não teria coragem de fugir. Haveria pessoas ali perto? Julguei perceber um ruído esquisito, mas provavelmente era apenas o eco das pancadas dos meus dentes, que não descansavam. Tive a impressão de que os meus dentes estavam longe, fazendo um barulho que se misturava ao zumbido irritante das carapanãs. Apertei os queixos, mas as castanholas permaneceram, e veio-me a certeza de que me havia tornado velho e impotente.
 
-- Inútil, tudo inútil.
+— Inútil, tudo inútil.
 
 Mordi a manga do paletó. Os dentes continuavam a entrechocar-se, mas produziam um som abafado. Mastiguei o pano, desejei recolher-me. Beberia um copo de cachaça, os dentes se calariam. Os relógios da vizinhança não me deixariam dormir. Certamente Julião Tavares devia ficar ali deitado. Pensei em ocultá-lo, enterrá-lo debaixo de uma camada de folhas. A ideia absurda de levá-lo comigo para a cidade tinha desaparecido. Bem. Pus-me a afastar as folhas e a cavar a terra com as unhas. A tentativa de fazer com os dedos uma cova para enterrar um homem era tão disparatada que me levantei, receoso de tornar-me idiota. Como estaria a cara de Julião Tavares? Afigura que me veio ao espírito foi a de Cirilo de Engrácia, terrível, amarrado a um tronco, os cabelos compridos ensombrando o rosto, os pés suspensos, mortos. Pensei também em seu Evaristo, curvado sob a carrapateira, como se preparasse um salto. Recuei precipitadamente e bati com os ombros na cerca. Julião Tavares podia ficar assim, pendurado a um galho, como um suicida. Acreditariam que ele fosse um suicida? Acreditariam. Não acreditariam. Os jornais fariam escândalo, publicariam o retrato da mocinha sardenta. Um rapaz desvairado, perfeitamente, rapaz desvairado. Desembaracei a mão direita e numa das extremidades da corda fiz um laço. Vinha-me afinal uma resolução. Entrei a mexer-me, com medo de perdê-la. Se os pensamentos se sumissem? Se voltasse aquele marasmo?
 
-- Tudo inútil.
+— Tudo inútil.
 
 Os dentes já não batiam. Curvei-me, procurando a cabeça de Julião Tavares. Encontrei o chapéu caído, um braço, que soltei arrepiado porque nunca havia tocado em cadáveres. A ideia de que Julião Tavares era um cadáver estarreceu-me. Não tinha pensado nisto. Horrível o corpo imóvel, esfriando. Lá estava a cabeça ainda morna. Enjoado, cuspindo muitas vezes, ergui-a, passei o laço no pescoço. Prendi nos dentes a outra ponta da corda, subi a cerca, trepei-me num galho da árvore. E comecei o trabalho de guindar o morto. A mão direita puxava a corda, que se movia lenta por cima do ramo; do outro lado a mão esquerda aguentava o peso do corpo. Moço desvairado. Duas tarjas grossas, uma no princípio, outra no fim da página. Qualidades, Julião Tavares tinha muitas qualidades. A literatura dele reproduzida nas folhas, em tipo graúdo. Comentários. Por que foi? Como foi? Enterro complicado, automóveis, todos os automóveis da praça, bondes especiais. O discurso no cemitério, discurso empolado. E o túmulo com uma coluna partida. Muitos túmulos com colunas partidas. Colunas de mármore, colunas de cimento. Moço desvairado. Todos os mortos importantes eram colunas partidas. Julião Tavares era uma coluna de mármore partida. O capitel no chão, esverdinhando-se.
 
 O corpo subia. No princípio o esforço não era grande demais. A cada movimento passavam no galho algumas polegadas da corda. Mas quando a massa obesa se elevou, as dificuldades foram enormes para correrem uns centímetros.
 
-- Mais um pouco, mais um pouco.
+— Mais um pouco, mais um pouco.
 
 Estas palavras não me deixavam. O corpo devia estar todo erguido, e os meus ossos estalavam. O galho curvava­-se. Ia quebrar-se, atirar-nos ao chão. Tudo perdido. A polícia, a cadeia. Denunciar-me-ia no primeiro interrogatório. Segurei-me à corda, com o intuito de amarrá-la. Desceria. Livre do meu peso, o galho se elevaria, os pés de Julião Tavares ficariam suspensos como os de Cirilo de Engrácia.
 
-- Bem.
+— Bem.
 
 Apareceram vozes na estrada. Vozes? Ou seria que eu estava tresvariando? Alucinação. Não queria acreditar que pessoas normais se avizinhassem de mim sossegadamente. Agarrava-me com desespero à corda.
 
-- Trinta anos de prisão, trinta anos de prisão.
+— Trinta anos de prisão, trinta anos de prisão.
 
 As grades que a gente não pode tocar, tão nojentas são elas, as esteiras, as cortinas de pucumã, os muros grossos, fome, sede, caldo de bacalhau, e nesta miséria José Baía fabricando piteiras, pentes de tartaruga, objetos miúdos de casca de coco.
 
-- Vão-se embora. Vão-se embora. Não venham, que se desgraçam. Um homem perdido não respeita nada.
+— Vão-se embora. Vão-se embora. Não venham, que se desgraçam. Um homem perdido não respeita nada.
 
 O homem perdido ofegava apavorado. As vozes cada vez mais distintas, grossas, finas. Machos e fêmeas. Certamente iam para a farra. Mentira, tudo mentira. Eu não tinha trinta e cinco anos: tinha dez e estudava a lição difícil na sala de nossa casa na vila. A sala enchia-se de rumores estranhos que vinham de fora e saíam das paredes. Provavelmente eram os sapos do açude da Penha. Não eram sapos: eram homens e mulheres que se aproximavam. As palavras tornaram-se claras. Alguém dizia:
 
-- Deixa de luxo, minha filha. Será o que Deus quiser.
+— Deixa de luxo, minha filha. Será o que Deus quiser.
 
 Não me lembro de outra frase. Risos, falas truncadas. O grupo foi-se chegando, passou por baixo da árvore. Uma pessoa bateu em Julião Tavares e resmungou: - "Desculpe". A corda resvalou, recuou uns dez centímetros, com certeza Julião Tavares curvou-se um pouco na escuridão. Eu repetia baixinho:
 
-- Será o que Deus quiser.
+— Será o que Deus quiser.
 
 Os meus dedos se imobilizavam, feridos, a corda molhada de suor ameaçava correr sobre o galho, emborcar no chão úmido o corpo de Julião Tavares. Não o poderia levantar outra vez, a polícia encontrá-lo-ia deitado nas folhas e iria farejar-me.
 
-- Trinta anos de prisão. Trinta anos de prisão.
+— Trinta anos de prisão. Trinta anos de prisão.
 
 O riso de uma das mulheres que tinham passado sob a árvore estalou a alguns metros de distância. Estaria mangando de mim? mangando dos esforços que eu fazia para recuperar os dez centímetros de corda? Senti que ia fraquejar, que a corda continuaria a escorregar na madeira. Julião Tavares, inclinado para a frente, balançava. Seu Ivo andava assim, zambeta, balançando, os olhos vidrados, sem ver ninguém. Outras gargalhadas, longe. Seria a mulher que tinha rido? Ou viriam outras pessoas falar debaixo da árvore, bater no ombro de Julião Tavares, pedir-lhe desculpa? Não havia perigo, não havia perigo, entrei a repetir baixinho que não havia perigo. Estava em segurança, escondido na folhagem, enrolado no nevoeiro. Podiam passar, parar, tocar em Julião Tavares, que se afastaria duro como uma marionete pesada demais.
 
-- Não há perigo, nenhum perigo.
+— Não há perigo, nenhum perigo.
 
 Não havia outra coisa. E pareceu-me falta de senso comum alguém rir naquele lugar amaldiçoado. Por que amaldiçoado? Tanta importância! Eu e Julião Tavares éramos umas excrescências miseráveis. As risadas zombeteiras extinguiam-se, distantes.
 
-- Luís da Silva, Julião Tavares, isso não vale nada. Sujeitos úteis morrem de morte violenta ou acabam-se nas prisões. Não faz mal que vocês desapareçam. Propriamente, vocês nunca viveram.
+— Luís da Silva, Julião Tavares, isso não vale nada. Sujeitos úteis morrem de morte violenta ou acabam-se nas prisões. Não faz mal que vocês desapareçam. Propriamente, vocês nunca viveram.
 
 Ia adormecer entre as folhas, com os braços estirados, afastando-me da árvore para fazer contrapeso ao corpo de Julião Tavares. Apoiava-me à curva da perna direita, presa ao galho. De quando em quando soltava a corda e ia pegá-la mais abaixo. A mão esquerda aguentava o peso, os dedos estavam a ponto de quebrar-se. Julião Tavares teria subido, ou a corda mergulhara no pescoço balofo? Qualquer movimento à toa me faria perder o equilíbrio. Abria os olhos desmedidamente, mas tinha medo de virar a cabeça para ver o corpo que se alongava e emagrecia.
 
-- Sobe, Julião Tavares. Para que serve essa resistência atrasada?
+— Sobe, Julião Tavares. Para que serve essa resistência atrasada?
 
 Uma lentidão de lesma. Subitamente notei que o corpo subia e balançava. Passei rápido a corda pelo galho. Outra volta, outras voltas, um nó que me levou o resto da energia, e fiquei ali arquejando, desmanchando-me em suor. Desejaria achatar-me, confundir-me com as coisas moles e úmidas que os meus dedos tinham esmagado sobre a casca da árvore. Agora os dedos seguravam mal aquele suporte incômodo e oscilante. Enorme preguiça e enorme sono prendiam-me ao galho. Creio que dormi uns minutos. Seria bom cair: talvez a queda sacudisse o torpor e me restituísse a vontade necessária para entrar em casa e embriagar-me. Embriagar-me, naturalmente. Teria dormido? Meus parentes sertanejos dormiam montados, viajavam assim. Equilibrava-me não sei como. - "Currupaco, papaco. A mulher do macaco..." Vitória sonhava com as moedas escondidas em qualquer parte, depois que os canteiros tinham sido descobertos. Como me seria possível alcançar outro ramo? Passando a outro ramo, estaria em segurança. Se pudesse retirar-me dali... Tive a ideia extravagante de chegar à cidade andando sobre as árvores.
 
-- Em segurança, em segurança.
+— Em segurança, em segurança.
 
 Evidentemente era preciso descer, mas isto me apavorava. Lá embaixo numerosos inimigos iam perseguir-me. Necessário descer. Soltar-me-ia, tombaria como um macaco ferido. Os dedos inteiriçavam-se. Escancarei os olhos. O que vi foi o corpo de Julião Tavares deformado pela escuridão. Balancei a cabeça, encolhi-me com um arrepio, o receio de na queda tocar o corpo de Julião Tavares. Não caí. Escorreguei na madeira molhada, abracei-me a ela. Uma pancada no joelho, as pernas estrepando-se na cerca de pau a pique, um rasgão nas calças. Dei um salto para trás e caí sentado nas folhas secas. A ideia do perigo assaltou-me com tanta intensidade que me pus a soluçar. Tentei levantar-me, as pernas vergaram. Arrastei-me chorando, apalpando o chão, a procurar qualquer coisa. Procurava o chapéu, caído na luta, mas não sabia o que procurava. As carapanãs esvoaçavam-me em torno da cabeça e picavam-me a carne moída. Encontrei um chapéu, que não dava para mim, era pequeno demais. Atirei para longe, cheio de repugnância, o chapéu de Julião Tavares. Continuei a engatinhar, já agora sabendo perfeitamente que procurava o meu chapéu. Achei-o, mas ficou-me a dúvida de que fosse o mesmo experimentado minutos antes. Não se acomodava bem na minha cabeça. Rastejei ao longo da cerca. Alguns metros que me afastasse representavam uma conquista. Estava aborrecido com Moisés. Que me havia feito Moisés? Não me lembrava de nada, mas era certo que o judeu me pregara uma peça. Pareceu-me que ele rondava por ali, mangando de mim. Rastejando como as cobras! Nova tentativa e consegui levantar-me, lá fui caminhando lentamente, amparado à cerca. Faltou-me de repente o amparo, andei como uma criança que ensaia os primeiros passos. Se pudesse correr... Evidentemente o perigo crescia. Quantos metros teria percorrido? Estava certo de que homens e mulheres me acompanhavam. Tinham passado por baixo da árvore, visto o homem enforcado, iam encontrar-me e denunciar-me. A gargalhada e a frase da mulher atenazavam-me.
 
-- Será o que Deus quiser, sem dúvida.
+— Será o que Deus quiser, sem dúvida.
 
 Um, dois, um, dois. Inútil. Não podia marchar. Um aleijado, um velho. Mais cem metros, e talvez fosse a salvação. Horrível atravessar os espaços iluminados. Se alguém desembocasse de uma travessa e me reconhecesse? Desejava olhar para trás. Impossível. Consegui reunir uns restos de força e correr. Uma carreira bamba e trôpega, a boca aberta, contrações na carne enregelada. Corria e chorava, certo de que o esforço era perdido, porque o meu chapéu tinha ficado à beira do caminho, sobre as moitas. No dia seguinte passaria de mão em mão e chegaria à minha cabeça.
 
-- Trinta anos de cadeia.
+— Trinta anos de cadeia.
 
 Que utilidade tinha aquela carreira desengonçada e trêmula? Se me vissem correndo e chorando ali nos fundos dos quintais? Precisava parar, mas as pernas, levadas pelo medo, não quiseram obedecer. Insuportáveis os zumbidos e as ferroadas das carapanãs. Um chapéu muito pequeno. Dei um tropeção e estaquei. Para que lado me dirigia? Ia para a cidade ou voltava para Bebedouro? Inteiramente desorientado. Teria de passar outra vez pela árvore onde Julião Tavares se balançava? Vagar a noite inteira, como um judeu errante! Continuei a andar. Bem. Se me encaminhasse a Bebedouro, voltaria pela rodagem, entraria em casa antes de amanhecer. Apareceram luzes, as carolinas que enfeitam o canal, os eucaliptos da Levada. Avancei lentamente até o bueiro, sentei-me. Estava ali um vagabundo, que acordou com a minha chegada. Eu ia perseguido por criaturas inexistentes, mas a presença daquele vagabundo não me produziu medo.
 
-- Boa noite.
+— Boa noite.
 
 A voz saiu-me abafada e incerta. Julião Tavares estava longe. Sacudi a cabeça para esquecê-lo e para afugentar as carapanãs. Exausto. Descansaria, entraria em casa dentro de alguns minutos, beberia aguardente, dormiria. A garrafa tinha ficado quase cheia. Embriagar-me, dormir. Tentei cruzar as mãos sobre os joelhos, mas os dedos feridos endureciam e qualquer contato era extremamente doloroso. Sem nenhum receio, dava as costas ao maloqueiro, escondia a cara instintivamente. As mãos grossas esquecidas nos joelhos pesavam em demasia. Levei-as aos bolsos, senti a ausência dos cigarros e a ausência da corda.
 
-- Faz favor de me dar um cigarro?
+— Faz favor de me dar um cigarro?
 
 O homem remexeu-se:
 
-- Hum!
+— Hum!
 
-- Há muitas horas que não fumo. Para quem tem vício... Desculpe. É a peste do cigarro que me faz falta. O senhor terá um por acaso?
+— Há muitas horas que não fumo. Para quem tem vício... Desculpe. É a peste do cigarro que me faz falta. O senhor terá um por acaso?
 
 Olhei-o com um olho por cima do ombro, vi-o levantar a cabeça e bulir nos molambos.
 
-- Realmente... É isso mesmo. Eu estava dormindo.
+— Realmente... É isso mesmo. Eu estava dormindo.
 
 Depois de uma busca demorada, grunhiu:
 
-- An! Tome lá.
+— An! Tome lá.
 
 Estirei a mão ensanguentada e recebi o cigarro de fumo picado que se desmanchava:
 
-- Muito obrigado.
+— Muito obrigado.
 
 Encontrei a caixa de fósforos, comecei a fumar. A cabeça pesada parecia ter crescido. Tirei o chapéu, examinei-o. Tive um suspiro de alívio: era o meu, todo machucado e sujo de lama. Pus-me a esfregá-lo com a aba do paletó.
 
-- Muito obrigado. Sinto muito dar-lhe incômodo.
+— Muito obrigado. Sinto muito dar-lhe incômodo.
 
-- Hem?
+— Hem?
 
 Esta exclamação mostrou-me que o homem havia percebido em mim um animal diferente dele. As luzes da Nordeste cochilavam. Olhei a minha roupa. Estava imundo, com um rasgão no joelho, desarranjado. Mas usava palavras de gente bem-vestida. - "Sinto muito dar-lhe incômodo." Para que tapeação? Queria fumar. Bem. Voltariam as forças.
 
-- Dorme aqui sempre?
+— Dorme aqui sempre?
 
 O homem virou-se e enrolou-se mais nos molambos. Arrependi-me de ter feito a pergunta. Horríveis aqueles modos. Devia muito ao vagabundo. Chegaria a casa facilmente, beberia, dormiria, esqueceria Julião Tavares.
 
-- Não tive intenção de ofendê-lo. Foi uma palavra à toa. O senhor me desculpa. Fazia horas que não fumava. Um grande favor, entende? Muito obrigado.
+— Não tive intenção de ofendê-lo. Foi uma palavra à toa. O senhor me desculpa. Fazia horas que não fumava. Um grande favor, entende? Muito obrigado.
 
 As minhas frases eram convencionais e não valiam o cigarro que se apagava a cada instante.
 
-- Eu estava dormindo - respondeu o maloqueiro. - Não tem de quê. Foi incômodo não. Boa noite.
+— Eu estava dormindo - respondeu o maloqueiro. - Não tem de quê. Foi incômodo não. Boa noite.
 
 Remoeu umas coisas guturais e começou a roncar. Impossível qualquer aproximação. O isolamento em companhia de uma pessoa era mais opressivo que a solidão completa. Parecia-me que aquele homem estava morto. Esta ideia afligiu-me tanto que desejei sacudi-lo, conversar com ele, explicar-me, convencê-lo de que estava agradecido.
 
-- Diabo! - murmurei. - Eu também fui vagabundo, dormi nos bancos dos jardins e curti fome, mas nunca fui assim grosseiro.
+— Diabo! - murmurei. - Eu também fui vagabundo, dormi nos bancos dos jardins e curti fome, mas nunca fui assim grosseiro.
 
 Esqueci o benefício recebido, e novamente me surgiu a ideia de que o homem estava morto. Levantei-me, entrei na rua do Apolo. O rasgão mostrava-me a cabeça do joelho, o colarinho tinha-se desprendido da camisa, a roupa estava preta de limo e terra, as mãos estavam pretas de limo, terra e sangue. Se alguém me visse em semelhante desordem... O cigarro de fumo picado findava, a ponta colava-se aos beiços e queimava-os. Precisava entrar em casa. Aproximava-me, e não tinha certeza disto. As distâncias desapareciam. O galho que sustentava Julião Tavares balançava por cima do bueiro, e Julião Tavares confundia-se com o homem que me havia oferecido o cigarro. Um, dois, um, dois. Agora podia marchar. Com algumas pernadas estaria em casa, mas a casa se afastava sempre. Veio-me um desânimo extraordinário. Quase a chegar, depois de esforços imensos, ia ser descoberto e agarrado. Um transeunte notaria o desarranjo da roupa, a gravata fora do lugar, o rasgão no joelho.
 
-- Onde passou a noite de tal dia?
+— Onde passou a noite de tal dia?
 
-- Em casa, na redação.
+— Em casa, na redação.
 
 Perceberiam logo a mentira. Em seguida viriam perguntas insignificantes em tom misterioso, e eu me cansaria inutilmente para desviar-me delas. Quando estivesse distraído, jogariam de novo a coisa perversa:
 
-- Mas onde foi que o senhor passou a noite de tal dia?
+— Mas onde foi que o senhor passou a noite de tal dia?
 
 A testemunha, que me havia encontrado com um rasgão no joelho e o colarinho desabotoado, arrumaria o seu depoimento de cabeça baixa, em poucas palavras para não cair em contradição. Quem seria o advogado? o dr. Fulano, o dr. Sicrano... Esses falavam de papo e tinham recursos para inutilizar o depoimento:
 
-- Que horas eram quando o senhor viu o acusado?
+— Que horas eram quando o senhor viu o acusado?
 
-- Três horas.
+— Três horas.
 
 Quinze minutos depois a mesma pergunta.
 
-- Quatro horas.
+— Quatro horas.
 
 O escrivão registraria as duas respostas, a testemunha atordoada não se lembraria de dizer que era impossível saber a hora exata em que via passar uma pessoa na rua, o dr. Fulano ou o dr. Sicrano exploraria a atrapalhação do homem - e a defesa levantaria a cabeça. Apenas eu não podia contratar os serviços de um dos advogados hábeis, contentar-me-ia com um bacharel novo, gratuito e desastrado. A acusação ficaria de pé, o interrogatório rolaria uma eternidade na máquina de escrever. Coisas simples, malícia nenhuma. Quando eu menos esperasse, surgiria a intenção ruim - e daí em diante todas as perguntas seriam como cobras enrodilhadas que se preparavam para armar o bote. Um, dois, um, dois. Não apareceria aquela casa amaldiçoada? As luzes da Nordeste subiam e desciam. Olhei os quatro cantos numa ansiedade, certo de que a testemunha ia de repente dobrar a esquina e avançar na rua. Viria com passo firme, de cabeça baixa. Quando passasse por mim, levantaria os olhos - e estaria tudo perdido. Para que então aquele desespero, aquela agonia?
 
-- Será o que Deus quiser. O que tem de ser tem muita força.
+— Será o que Deus quiser. O que tem de ser tem muita força.
 
 Era melhor voltar. Tive a ideia absurda de voltar, sentar­-me outra vez no bueiro, conversar com o vagabundo, pedir-lhe outro cigarro. E depois seguir em frente, sempre em frente, parar debaixo da árvore que sustentava Julião Tavares. Quando a polícia chegasse, eu contaria tudo:
 
-- Não me matem de fome nem me deem água de bacalhau. Eu me explico. Foi assim.
+— Não me matem de fome nem me deem água de bacalhau. Eu me explico. Foi assim.
 
 Ninguém teria interesse em descobrir incongruências nas minhas palavras. Voltar, esperar tranquilamente as grades úmidas e pegajosas. Embrutecer-me-ia por detrás delas, tornar-me-ia criança, ouviria as histórias ingênuas de algum José Baía, que me diria as virtudes da oração da cabra preta. Teriam encontrado Julião Tavares esticado no caminho escuro? Estariam metendo uma colher na boca de Julião Tavares? No sertão introduzem uma colher de prata na boca do homem assassinado - e o criminoso que não sabe orações fica preso: desorienta-se e acaba voltando para junto da vítima. Outros homens e outras mulheres tinham passado, por baixo do galho, cortado a corda, levado Julião Tavares para uma casa da travessa mais próxima. Estava lá o cadáver emborcado, com uma colher de prata na boca. E eu regressaria, com medo da testemunha, que ia aparecer na esquina. Tudo se sumiu de chofre. A chave rangendo na fechadura, como todos os dias, devagar para não acordar Vitória, o ferrolho corrido por dentro, passos abafados no corredor. Cheguei à sala de jantar às apalpadelas, abri o comutador e fiquei ao pé da mesa, piscando os olhos à luz. Tive um arrepio, os cabelos se levantaram, senti uma dor aguda no couro cabeludo. Tirei o chapéu e pus-me a escová-lo com a manga. Era o meu, sem dúvida. Voltei à sala e fui pendurá-lo ao cabide. Puxei a corrente da lâmpada, olhei-me ao espelho. Diferente, magro, velho, as pálpebras empapuçadas, rugas, terra seca na barba crescida.
 
-- Peste! Andei rolando pelo chão como um porco.
+— Peste! Andei rolando pelo chão como um porco.
 
 Os olhos, ordinariamente embaciados, tinham um pequeno brilho duro. Apaguei a luz e dirigi-me novamente à sala de jantar. Lembrei-me da garrafa de aguardente, mas quando ia pegá-la, senti a necessidade de lavar as mãos. Estava imundo e receava contaminar os objetos. Tomei um pedaço de papel, segurei com ele o ferrolho e abri a porta do quintal. Fui ao banheiro, meti as mãos no balde de água e lavei-as, muito lentamente porque as feridas começavam a doer em demasia. Deitei fora a água, mergulhei o balde no tanque e recomecei a lavagem. Enxuguei as mãos nos cabelos, voltei para a sala de jantar, bebi um pouco de aguardente. A garrafa estava quase cheia. Bebi outro gole, mas o meu desejo era tornar ao banheiro. Os cabelos estavam sujos e tinham sujado as mãos. Lembrei-me de ter posto na cabeça o chapéu de Julião Tavares. Lembrança intolerável. Fui ao quarto, descalcei-me, despi-me às escuras, deixei a roupa e os sapatos numa trouxa a um canto, agarrei a toalha e voltei, nu, meio atordoado pelo álcool. Achei na borda do tanque um pedaço de sabão ordinário e esfreguei cuidadosamente as mãos e os cabelos. O corpo todo estava sujo, mas o que mais me preocupava eram os cabelos e as mãos. O banho durou uma eternidade. Que horas seriam? Não me viera a ideia de olhar a parede da sala de jantar. A cabeça começou a pesar-me. Bem. Ia dormir como um porco. Certamente... Dormir como um porco. Banhava-me devagar, para não fazer barulho. Se os vizinhos ouvissem as pancadas de água no cimento? Uma culpa grave. Se fosse descoberto, infelicidades me chegariam. Todos os gestos eram culpas graves. Pisava como um gato. Talvez no banheiro próximo estivessem pessoas escondidas. Que horas seriam? A cabeça pesava. Certamente... Sim, certamente era preciso dormir, ajudar a noite que não queria acabar. Tinha topado num buraco enorme, ia caindo nele, mas conseguira escapar agarrando­-me às estacas de uma cerca e metendo as mãos na terra fofa. Esfregava os dedos. Para lá daquele buraco escuro havia um nevoeiro. Marina, d. Adélia, seu Ramalho, Julião Tavares, tudo era nevoeiro. Enrolei-me na toalha e voltei à sala de jantar. Em cima do guarda-comidas encontrei cigarros e fósforos. Bem. Agora estava limpo. Acendi um cigarro e bebi mais aguardente. Queria embebedar-me e dormir, mas tive a ideia de que só poderia dormir sentado, encostado à parede. A cama estava suja, tinham-se espojado nela criaturas que se agatanhavam com raiva, babando, uivando. Três pancadas. Olhei a parede, mas não consegui distinguir as letras e os ponteiros. Aproximei-me, estirei o pescoço para o mostrador, fiquei nas pontas dos pés. Pensei em Cirilo de Engrácia e recuei até a mesa sem ver as horas. Com os diabos! Tinha ouvido distintamente três pancadas. Enchi o copo e continuei a beber. Aproximei-me novamente da parede: uma neblina diante do mostrador. Felizmente agora estava fumando, quase tranquilo. Teria ouvido as três pancadas? Então aquilo tinha acontecido de meia-noite a três horas! A marcha ao longo da linha de bonde, a volta, a necessidade de fumar, a escuridão cheia de zum-zum das carapanãs, aquela coisa terrível - tudo de meia-noite a três horas. Sentei-me, deitei fora o cigarro apagado, acendi outro e pus-me a esgaravatar as unhas com o fósforo. As unhas doídas iam-se entorpecendo. Olhei-as, mas entre os olhos e as mãos havia um nevoeiro que engrossava. As paredes tornaram-se inconsistentes. Fechei os olhos, encostei a cabeça à mesa, remexi os dedos com o fósforo queimado. Um rumor enchia-me os ouvidos, burburinho que ia crescendo e me dava a impressão de que a casa, a cidade, tudo, caía lentamente. As paredes se desmoronavam como pastas de algodão. E no ruído confuso surgiam sons que me arrastavam à realidade: o tique-taque do relógio, o apito do guarda-civil, o canto de um galo, um miar de gato no telhado. Essas notas familiares me exasperavam. Queria deixar-me embalar pelo rumor abafado e dormir. Impossível. Os dedos agitavam-se despedaçando o fósforo. Levantei a cabeça, arregalei os olhos e novamente cheguei a eles os dedos, que desapareciam no nevoeiro. Ergui-me, dei uns passos cambaleantes. O burburinho morreu: o que se ouvia era a respiração de Vitória. Fechei os olhos com força, tornei a abri-los. O nevoeiro adelgaçou-se: as mãos esfoladas e grossas, terra nas unhas. Tomei outro fósforo e recomecei a limpá-las. Em seguida fui ao banheiro lavá-las, livrá-las daquela porcaria. Voltei desanimado, enxuguei as pontas dos dedos tempo sem fim. Provavelmente não conseguiria dormir. Um, dois, um, dois. Eram as pancadas do pêndulo, mas eu pensava em marchas. Olhei a porta aberta. Vi apenas um buraco escuro, mas era como se visse a luz do farol espalhando-se sobre a folhagem da mangueira. Estremeci. Os galhos iluminados de vermelho, de branco. Que loucura ter deixado aquela porta aberta! Se alguém, oculto entre as folhas, me espiasse? Fechei a porta. Estava em segurança. Tentei encaminhar o pensamento para coisas simples e ordinárias, mas estas coisas fugiam, truncavam-se. Em segurança. Quantos dias faltavam para receber o ordenado? Precisava dar uns dinheiros a Moisés. Pimentel tinha-me pedido um artigo sobre... Sobre quê? Lobisomem agora trazia sapatos novos. D. Rosália e o marido estariam dormindo? Tão tarde... O marido de d. Rosália chegara do interior. Dar uns cobres a Moisés, sem dúvida, quando recebesse o ordenado. Um artigo para Pimentel. Os sapatos de Lobisomem. O marido de d. Rosália com certeza estava cansado e dormia. Eu também estava cansado, mas não podia dormir. Enxugava as mãos entorpecidas, lentamente, e quase não sentia as escoriações. Dei uns passos, estaquei. Que ia fazer? Avancei até o corredor. Uma felicidade não pensar, andar assim trôpego como um papagaio. Fui fechar a porta da cozinha, devagar para não acordar Currupaco, que dormia com a cabeça debaixo da asa. De repente estranhei achar-me ali em pé, nu, com a toalha no ombro, enxugando os dedos. Dormir, acabar aquela noite imensa. Bebi o resto da aguardente. O estômago contraiu-se, embrulhado, o pescoço entortou-se, a boca encheu-se de saliva. Senti que ia vomitar, encostei-me à mesa para não cair. Fechei os olhos - e o burburinho recomeçou. Pancadas na porta da frente. Abri os olhos numa agonia. O suor corria-me pela cara, ensopava a toalha, não havia jeito de estancá-lo. Teriam realmente batido na porta? Ia arrastar-me, bambeando, pé aqui, pé acolá, até o quarto, vestiria o pijama aos tombos, engulhando, arrotando. Quem seria?
 
-- Estava lendo, fumando, bebendo. Falta de sono. É costume velho, entende? Não sei nada. Estou aqui há muitas horas assim.
+— Estava lendo, fumando, bebendo. Falta de sono. É costume velho, entende? Não sei nada. Estou aqui há muitas horas assim.
 
 Poderia falar? Quem teria batido? Só se ouviam os roncos de Vitória, o tique-taque do relógio e o chiar dos ratos. O estômago embrulhava-se, o suor corria, a boca era pequena para conter a saliva. Quem estaria lá fora, na calçada? O relógio bateu meia hora e depois quatro. Não me lembro de ter feito nenhum movimento na derradeira meia hora, mas quando veio a primeira pancada eu estava de pé, quando soaram as quatro estava sentado, o queixo encostado à mesa. Levantei-me, dirigi-me ao quarto, firmando-me às paredes, tombei na cama, pesado, como um morto.
 
-- Ó Vitória, faça o favor de ir ali à esquina, ouviu? Telefone à repartição, diga que não vou ao serviço hoje. Estou doente.
+— Ó Vitória, faça o favor de ir ali à esquina, ouviu? Telefone à repartição, diga que não vou ao serviço hoje. Estou doente.
 
 Quando ela saiu, deitei no saco a roupa branca que tinha vestido na véspera. Em seguida escondi o paletó e a calça rasgada debaixo do colchão.
 
 Se dessem busca na casa? Fui remexer o saco, ver se na roupa branca havia sinais que me pudessem comprometer. O paletó e a calça não estavam bem escondidos. Pensei em queimá-los, enterrá-los. Levantei o colchão, tirei-os. Sujos de lama. Não podiam ficar ali. Se fossem descobertos? Atirei-os para trás da mala, apanhei do chão a gravata e fui para a sala de jantar.
 
-- Telefonou, Vitória?
+— Telefonou, Vitória?
 
-- Telefonei.
+— Telefonei.
 
-- Muito obrigado. É que estou com febre, morrinhento. Que há de novo?
+— Muito obrigado. É que estou com febre, morrinhento. Que há de novo?
 
-- Um senador que chegou do Rio.
+— Um senador que chegou do Rio.
 
-- Está bem.
+— Está bem.
 
 Bebi uma xícara de café, procurei uma tesourinha e pus-me a cortar as unhas, que ainda tinham terra. Estava com febre e aturdido pela cachaça.
 
-- Ó Vitória, se não estiver muito ocupada, leve a roupa à lavadeira, ouviu? Preciso camisas.
+— Ó Vitória, se não estiver muito ocupada, leve a roupa à lavadeira, ouviu? Preciso camisas.
 
 Vitória afastou-se e daí a pouco saiu com uma trouxa de roupa suja. A porta da frente abriu-se e fechou-se. Acabei de cortar as unhas arroxeadas. As mãos engrossavam e deformavam-se, a direita com uma esfoladura na palma, a esquerda cheia de fibras de madeira, que extraí com a ponta da tesoura. A gravata estava enrolada, como uma corda, exatamente igual a todas as gravatas que tenho tido, mas senti a necessidade de destruí-la. Cortei-a em pedacinhos, que desfiei, juntando os fios em cima da coxa. Vitória, arrastando os pés, ficaria muito tempo na rua. Dediquei-me nervosamente a desfiar os pedaços da gravata. Tossia e limpava os olhos, que lacrimejavam. Uma felicidade estar com febre. Os rumores externos eram os mesmos de todos os dias. D. Rosália despropositava com Antônia, d. Adélia cantava no banheiro, o trem passava apitando, automóveis e bondes rolavam longe. Desejei ver seu Ivo, pensei em oferecer qualquer coisa a seu Ivo. Isto me aliviaria. As alfaces no canteiro amarelavam. O homem triste enchia dornas. A mulher magra agitava garrafas e sacolejava-se como se tocasse ganzá. Nenhuma novidade. Moisés e Pimentel me seriam desagradáveis naquele momento, mas a companhia de seu Ivo me daria prazer. Subitamente imaginei que o homem triste e a mulher magra me espionavam. Afastei a cadeira para não ver o homem que enche dornas e a mulher que lava garrafas, continuei a tarefa. Quando a terminasse, ficaria tranquilo. Cortaria depois a calça e o paletó em pedacinhos que seriam desfiados. Ficaria inteiramente tranquilo. Nenhuma novidade. Apenas a viagem de um senador desconhecido. Tranquilo. Deitar-me-ia, descansaria. De minuto a minuto suspendia o trabalho para enxugar os olhos, e a umidade que havia no lenço era quente demais. Respirava com dificuldade, o corpo se derreava na cadeira, bocejos enormes. Compreendia que o exercício a que me entregava era inútil, perigoso talvez. Se alguém entrasse de repente e me visse desfiando pedaços de pano? Mas continuava a desfiá-los à pressa, e escondia o molho de fios entre as pernas. Vitória não chegava. Com certeza a comida ia esturrar. Que esturrasse. Podre de rica, Vitória: prata, libras esterlinas. Tentei pensar nas moedas. Impossível. Não acabaria a destruição da gravata? Sentia um medo horrível e ao mesmo tempo desejava que um grito me anunciasse qualquer acontecimento extraordinário. Aquele silêncio, aqueles rumores comuns, espantavam-me. Seria tudo ilusão? Findei a tarefa, ergui-me, desci os degraus e fui espalhar no quintal os fios da gravata. Seria tudo ilusão? Voltei, atravessei o corredor, cheguei à sala, olhei a rua pelas tabuinhas da rótula. Uma das filhas de Lobisomem mostrou a cabeça arrepiada. Antônia passou com o filho mais novo de d. Rosália pela mão, uma bicicleta rodou no paralelepípedo. Enxuguei os olhos. A cabeça doía-me. Encostei os cotovelos à janela. Entre duas tabuinhas afastadas distinguia a cara amarela, os olhos abotoados e os cabelos ruivos da filha de Lobisomem. Pelas outras tabuinhas só percebia os pés dos transeuntes. Iam e vinham, ocupados. Todos os dias acontecem desgraças. Estava doente, ia piorar, e isto me alegrava. Deitar-me, dormir, o pensamento embaralhar-se longe daquelas porcarias. Senti uma sede horrível. Os beiços secos, queimados, rachavam-se. Evidentemente a sede tinha horas, mas só então me apareceu clara a necessidade de beber água. Quis ver-me ao espelho. Tive preguiça, fiquei pregado à janela, olhando as pernas dos transeuntes. Esfreguei a cara com a mão estragada. Os pelos duros feriram-me a palma em carne viva.
 
-- Todos os dias nasce gente, morre gente. Isso não tem importância.
+— Todos os dias nasce gente, morre gente. Isso não tem importância.
 
 Repetia frases assim e soprava a palma ferida, mas não prestava atenção ao que dizia, pensava em coisas diferentes, em muitas coisas que se misturavam. Ia haver uma escuridão, uma desordem. Parecia-me que os acontecimentos subiam e desciam numa panela, fervendo.
 
-- Em segurança.
+— Em segurança.
 
 Com os cotovelos presos à janela, olhava a rua e tremia. Morto de sede, não me aventurava a tirar-me dali. As pernas fraquejavam, bambas. As que andavam na rua atravessavam o minguado espaço que a minha vista alcançava, eram bem-vestidas, rotas, nuas - e isto me bastava para adivinhar as caras. Iam lentas ou apressadas, ignoravam a existência de outras que giravam, encostando as pontas dos pés no chão coberto de folhas secas. Duas pernas pararam no meio da rua, voltaram as biqueiras dos sapatos para o meu lado. Olhos atentos, sob a mão em pala na testa, deviam estar observando o número da casa. Isso durou um minuto. As biqueiras avançaram em direção a mim. Descobriram-se os joelhos das calças ordinárias e surradas. Provavelmente era um investigador, um desses homens que frequentam os cafés, escutam conversas e fogem como sombras, olhando por baixo da aba do chapéu embicado. Ia aproximar-se macio, bater palmas discretamente para não atrair a atenção dos vizinhos:
 
-- Ó de casa!
+— Ó de casa!
 
 Eu me afastaria da janela, arrastando as pernas que pesavam arrobas, iria abrir a porta. Perguntas sem pé nem cabeça, uma busca na casa; a roupa machucada e rasgada atrás da mala, as minhas mãos feridas, as unhas roxas, provocando suspeitas que se acumulavam e viravam certeza. Eu me atrapalharia logo e diria o que o sujeito quisesse. Não seria preciso me darem água de bacalhau. A garganta ardia-me, passei a língua seca nos beiços gretados. Água de bacalhau, dias de fome, noites em claro, um tipo martelando horas a fio:
 
-- É bom o senhor contar. Para que esconder? Tudo se descobre. Confesse.
+— É bom o senhor contar. Para que esconder? Tudo se descobre. Confesse.
 
 Eu arriaria a trouxa com facilidade. Tudo se descobre, sem dúvida. Que papéis haveria nos bolsos da roupa que estava atrás da mala? Bilhetes de dr. Gouveia, correspondência do interior, a carteira vazia, artigos manuscritos, recortes de jornais. Se algum desses papéis tivesse caído na estrada? Perdido, trinta anos de cadeia, a imundície; os trabalhos dos encarcerados: fabricação de pentes, esteiras, objetos miúdos de tartaruga. Faria um livro na prisão. Amarelo, papudo, faria um grande livro, que seria traduzido e circularia em muitos países. Escrevê-lo-ia a lápis, em papel de embrulho, nas margens de jornais velhos. O carcereiro me pediria umas explicações. Eu responderia: - "Isto é assim e assado". Teria consideração, deixar-me-iam escrever o livro. Dormiria numa rede e viveria afastado dos outros presos. A garganta doía-me, os beiços colavam-se. Precisava beber água e pensava no caldo de bacalhau. Confessaria tudo, mostraria a roupa rasgada, os bilhetes, as cartas, os artigos. Os olhos pestanejavam e choravam lágrimas quentes que eu enxugava na manga. Não podia ver bem a rua. As pernas teriam marchado para mim ou estacionariam no paralelepípedo, indecisas? Tanto tempo a ameaçar-me com as biqueiras dos sapatos cambados e as joelheiras das calças ordinárias! As biqueiras volveram à esquerda e sumiram-se. Não era gente da polícia: seria talvez um servente de casa comercial, carregado de embrulhos, distribuindo mercadorias. Provavelmente conduzia troços para d. Mercedes e estava em pé na calçada, batendo palmas. D. Mercedes vinha devagar, cheirosa, o penhoar exibindo o peito maduro. Recebia os pacotes, dava uns níqueis ao carregador, entrava, ia desatar os cordões e examinar as compras. Entre as duas tabuinhas mais afastadas da rótula vi de novo o rosto espantado da filha de Lobisomem. Por que se espantava? Não havia motivo. Tudo em ordem na rua. A barriga e as pernas de um homem passaram na calçada e pararam à porta de d. Rosália. Alguns rapazes dirigiam-se ao colégio Diocesano. Um moleque de tabuleiro deu um grito estridente que me assustou. Evidentemente... A rua sossegada, como nos outros dias. O grito do moleque continuava a furar-me os ouvidos. Evidentemente... Que é que ia dizer? O pensamento partia-se. Ia cair de cama, delirar, morrer. A carne estremecia, os pés dos cabelos doíam-me. De quando em quando levava a mão ao rosto, e o contato da palma com a barba crescida arrancava­-me palavrões obscenos grunhidos em voz baixa. Um porco, parecia um porco. Esta comparação não me entristecia. Desejava ser como os bichos e afastar-me dos outros homens. As mãos doíam-me, as pernas doíam-me, os pés dos cabelos doíam-me. Não queria imaginar o que aconteceria lá fora, o que tinha acontecido. Fatos possíveis misturavam-se a coisas absurdas. Evidentemente... Esta palavra solta, repetida, enfurecia-me. Pouco a pouco serenava. Seu Ramalho, no meio das conversas, dizia: - "Eu lhe conto". E não contava nada. D. Adélia censurava a filha com um gemido: - "Hum! hum!". Antônia dava uma risadinha ruim e piscava um olho: - "Safada moda". Agora a rua estava em silêncio. Noutra rua havia lágrimas, desespero e cabelos arrancados. Um médico vestia o avental, chegava-se ao mármore do necrotério. O homem dos caixões de defuntos preparava coroas de flores roxas, muitas coroas de flores roxas com fitas roxas. Onde andaria Vitória? Surda, a cabeça cheia de moedas e navios, arrastando-se pelas bodegas. Uma senhora gorda e mole, com os sovacos molhados, chorava noutra rua. Fui ao quarto, levantei a roupa caída atrás da mala, estendi-a em cima da cama, examinei o joelho rasgado, as bainhas puídas, a gola embranquecida. Machucada, suja de poeira, lama seca e teias de aranha. Cortá-la-ia em pedacinhos, que seriam desfiados e atirados ao monturo. Procurei uma escova e pus-me a limpar os trapos. De momento a momento suspendia o trabalho e soprava a mão ferida. Estupidez deixar aquilo no chão, entre a mala e a parede. Bem. Agora os panos estavam quase decentes. Algumas pancadas na porta gelaram-me o sangue. Caí sentado na cama. Tudo perdido. Lá estava o sujeito da polícia com o chapéu embicado. Olhei o rasgão do joelho, as mãos grossas. Difícil dobrar os dedos. E nas costas da mão direita, a mais estragada, corria um traço largo que escurecia. Ao amanhecer estava vermelho, mas agora ia ficando azulado. Enfim tudo perdido. Era sair, entregar-me, contar a história botando os pontos nos ii. Faria um livro na prisão, estudaria, arranjaria camaradagem com dois ou três presos mansos. Habituar-me-ia. A gente se habitua em toda parte. Dorme à beira das estradas, nos bancos dos jardins. Depois de meia-noite as letras miúdas dançavam na prova molhada, a saleta da revisão enchia-se de fantasmas, a gente lia cochilando, emendava cochilando. Um galego dava ordens aos berros. Nas mesinhas estreitas, forradas com papel de impressão, as vozes esmoreciam, as canetas sujas, nojentas, calavam-se. Vida porca, safada. Agora estava menos porca e mais safada. Adulações, medo de perder o emprego, de voltar às estradas, à caserna, aos bancos dos jardins, à mesa da revisão. O suor molhava-me o pescoço, a vista escurecia, a memória dava saltos, a respiração encurtava-se. Uma lembrança vaga de cavalos perseguia-me. Onde teria eu visto aqueles cavalos? Nunca fui cavaleiro, nunca montei direito. Uma queda nas pedras do Ipanema ia-me desmantelando. Era estranho que aqueles animais viessem perturbar-me. Fazia um minuto que o homem da polícia tinha batido. Sentado na cama, suando, tossindo, as mãos esfoladas, encolhia-me. Os animais aperreavam-me. A princípio não conseguira distingui-los. Era um tropel distante, rumor que se confundia com a cantiga dos sapos do açude da Penha e o zumbido das carapanãs. Agora percebia que eram cavalos correndo. Novas pancadas. Levantei-me, cheguei à porta do quarto, estirei a cabeça. Um maloqueiro, um vagabundo que pedia esmola. Enfureci-me e gritei:
 
-- Puta que o pariu.
+— Puta que o pariu.
 
 Estar, um homem em casa, sossegado, escovando a roupa, e de repente pancadas, amolações, peditórios.
 
-- Isso tem cabimento? Dá o fora, vai para o diabo.
+— Isso tem cabimento? Dá o fora, vai para o diabo.
 
 Pus o paletó no encosto de uma cadeira, dobrei a calça, ocultando a parte rasgada, e coloquei-a em cima da mala.
 
-- Onde vamos parar com tantos mendigos? Isso tem jeito?
+— Onde vamos parar com tantos mendigos? Isso tem jeito?
 
 O quarto estava como nos outros dias. O meu desejo era deitar-me, mas fui à sala de jantar, ainda bastante zangado:
 
-- Canalhas, preguiçosos.
+— Canalhas, preguiçosos.
 
 Derreei-me na cadeira, um peso enorme nos braços:
 
-- Safados.
+— Safados.
 
 Não me referia apenas aos maloqueiros. De quando em quando passava a manga do pijama nos olhos molhados. E soprava a palma ferida, mas o ar saía quente e a dor não diminuía. Esse movimento de soprar a mão quase encostando-a à boca fez-me pensar nos gatos. Ia adormecer, perder a consciência. As coisas afastavam-se ou aproximavam-se de maneira absurda, as paredes moviam-se. Não ter consciência. Soprava a mão. Ser como um gato que lambe os pés.
 
 Que direito tinha aquele bandido de me vir incomodar quando eu estava ocupado, escovando a roupa? Então não pode um homem pôr em ordem os seus troços sem ser perturbado?
 
-- Isto é casa de puta para qualquer um bater e entrar?
+— Isto é casa de puta para qualquer um bater e entrar?
 
 Por que era que o vagabundo me havia enganado fazendo-se passar por gente da polícia? Dentro em pouco outras pancadas me esfriariam o sangue, num segundo rolariam multidões de pavores. Tudo se repetiria - as mesmas caras, as mesmas perguntas, as mesmas ameaças, o julgamento, discursos, a escuridão entre quatro paredes, portas de ferro, fechaduras enormes, ferrolhos enormes. Levantar-me-ia, atravessaria o corredor como se me arrastassem. Outro vagabundo, um vendedor ambulante, qualquer pessoa levada por endereço errado:
 
-- Não é aqui não. Desculpe.
+— Não é aqui não. Desculpe.
 
 Voltaria para junto da mesa, aguardaria novas pancadas, novas torturas. Por que não se acabava logo aquilo? Bati com a mão na mesa e isto me arrancou um grito que abafei e se transformou em praga imunda. Por que não me vinham buscar os miseráveis da polícia? Por que faziam comigo aquela brincadeira de gato com rato? Eu os acompanharia, mostraria a roupa rasgada, os fios da gravata no monturo, falaria no cigarro oferecido pelo vagabundo. Por que não vinham logo? Muitos anos nas redes sujas, nas esteiras de pipiri. Escreveria um livro. A ideia do livro aparecia com regularidade. Tentei afastá­-la, porque realmente era absurdo escrever um livro numa rede, numa esteira, nas pedras cobertas de lama, pus, escarro e sangue. Olhava as telhas, movediças, a garrafa de aguardente, movediça. O livro só poderia ser escrito na prisão, em cima das pedras, na esteira, na rede, sob as cortinas de pucumã. Um livro escrito a lápis, nas margens de jornais velhos. Os objetos deformavam-se. A janela e a porta do quintal, a porta da cozinha e a do corredor estavam cheias de gente. Estirei o pescoço, observei o homem que enche dornas e a mulher que lava garrafas. Retraí-me. Em vez de se entregarem ao trabalho, eles me espionavam. O movimento de estirar o pescoço para vê-los era horrível. O que mais me doía eram os braços, principalmente as mãos. Encolhi o pescoço, tentei metê-lo no corpo. Um, dois, um, dois. Eram as pancadas do pêndulo. Não prestava atenção a elas durante o dia. À noite percebiam-se bem, mas de dia, com o barulho que vinha de fora, não havia relógio. Como Vitória se demorava! O galope dos cavalos não me saía dos ouvidos, crescia, como se avançasse no paralelepípedo. Donde vinham aqueles cavalos? A cabeça tombou num cochilo. Aprumei-me, bocejei, estirei os braços doloridos. Recostei-me na cadeira e cerrei os olhos. Passei a língua seca como língua de papagaio pelos beiços gretados e cobertos de películas. Arrastei-me até a moringa, bebi alguns copos de água. Tantas horas com a garganta pegando fogo, suportando aquilo inutilmente. Com certeza a febre ia crescer. O corpo morrinhento pedia cama. O rumor das carapanãs misturava-se ao tropel dos cavalos. Achei-me sentado, murmurando palavras desconexas. O suor corria entre os pelos da barba. Passei o lenço na cara e no pescoço, mas retirei logo a mão.
 
-- Sou uma pessoa muito hábil.
+— Sou uma pessoa muito hábil.
 
 Os cavalos tinham agora um trote macio que não se distinguia da música das carapanãs. Aborrecia-me saber que os cavalos não existiam, as carapanãs não existiam, os indivíduos que atravancavam as portas não existiam.
 
-- Uma pessoa muito hábil.
+— Uma pessoa muito hábil.
 
 A roupa molhada colava-se ao corpo. A sede voltou, bebi outro copo de água. Pensei em fumar e isto me produziu um estremecimento. Mas então? Um sujeito hábil, sem dúvida. Tudo muito direito. Na casa de d. Rosália as crianças gritavam e Antônia lavava a louça. Na casa de seu Ramalho d. Adélia varria a sala de jantar. Ouvia-se o chiar da vassoura. Pancadas de pratos, gritos de crianças, risos, pragas.
 
-- Um sujeito hábil.
+— Um sujeito hábil.
 
 Que burrice repetir isso! Estirei a cabeça cautelosamente. A mulher magra e o homem triste dedicavam-se às suas ocupações e não me viam. Uma criatura ordinária, um funcionário que faltava à repartição. Vitória voltou, mas isto não teve importância. As carapanãs e os cavalos preocupavam-me demais para prestar atenção a Vitória. Um funcionário. Pus-me a rir como um idiota. Continuaria a escrever informações, a bater no teclado da máquina, a redigir artigos bestas. - "Perfeitamente." O sorriso sem-vergonha concordando com tudo. - "Perfeitamente." Não tinha praticado nenhuma façanha, não tinha conversado com o vagabundo, na véspera. Eu? No quarto pequeno junto à escada, o cheiro do gás era insuportável. Andavam percevejos no papel da parede, manchado e descolado. Aborrecia-me o estudo cacete de Dagoberto. Mas quando ele empurrava a porta, jogava na cama a cesta e o compêndio, acovardava-me, sorria, abria o livro ou pegava o osso e começava a amolação. - "Perfeitamente, Dagoberto." Para que diabo me servia conhecer as vértebras e o frontal? Não ia ser médico. Mas lia, para não desgostar o rapaz. Olhei a garrafa de aguardente, vazia, pensei em seu Ivo, em seu Evaristo e em Cirilo de Engrácia. Com os braços esmorecidos sobre a mesa, via as paredes afastarem-se, as telhas subirem e descerem. Ia dormir, descansar, tresvariar. Levantei-me de chofre. Um rebuliço na casa de seu Ramalho. Fui encostar-me à parede. Gritos, o cabo da vassoura batendo no chão, risos nervosos e a fala morna de d. Adélia:
 
-- Quem faz neste mundo paga é aqui mesmo. Quando Deus tarda, vem em caminho.
+— Quem faz neste mundo paga é aqui mesmo. Quando Deus tarda, vem em caminho.
 
 Olhei os quatro cantos. Não tinha nada com aquilo. Ia trancar-me, enrolar-me nos lençóis, tremer, ranger os dentes como um caititu. Não tinha nada com aquilo. A garrafa de aguardente estava vazia. As carapanãs zumbiam. O vagabundo me dera um cigarro. A mulher tinha dito: - "Deixa de luxo, minha filha. Será o que Deus quiser". Eu ficava afastado de tudo. Afastei-me da parede e arregalei os olhos para a mulher que lava garrafas e o homem que enche dornas. Não tinha nada com aquilo. - "Um artigo, seu Luís." Seu Luís escrevia. - "Perfeitamente, Dagoberto." Eu? As telhas dançavam, era extraordinário que se pudessem equilibrar, não viessem espatifar-se no chão, bater-me na cabeça.
 
-- Não fui eu - gritei recuando e tropeçando na cadeira.
+— Não fui eu - gritei recuando e tropeçando na cadeira.
 
 Os cabelos arrepiavam-se, um frio agudo entrou-me na carne, os dentes tocaram castanholas. Nada havia acontecido comigo. Senti-me vítima de uma grande injustiça e tive desejo de chorar. Vieram-me lágrimas, que esmaguei. Eu estava de parte, ouvindo o zum-zum das carapanãs.
 
-- Não fui eu. Escrevo, invento mentiras sem dificuldade. Mas as minhas mãos são fracas, e nunca realizo o que imagino.
+— Não fui eu. Escrevo, invento mentiras sem dificuldade. Mas as minhas mãos são fracas, e nunca realizo o que imagino.
 
 Olhei as mãos. Pareceram mais curtas e mais largas que as mãos ordinárias que escreviam artigos elogiando o governo. Os dedos inchados eram mais curtos e mais grossos. Necessário fechar as portas. Outro vagabundo viria bater e confundir-se com o homem da polícia. Os braços doíam-me, as mãos penduradas doíam-me. Cruzei os braços, fui à cozinha. Vitória cortava carne em cima da mesa preta.
 
-- Vitória, estou sem fome, ouviu?
+— Vitória, estou sem fome, ouviu?
 
 A mesa preta do necrotério. O médico, de avental. Nu­ma rua afastada, uma mulher chorando. As minhas mãos em carne viva.
 
-- Estou muito doente, Vitória. Não quero almoçar. Dê a boia a algum maloqueiro que aparecer por aí. E feche as portas depois. Vou deitar-me, não me aguento nas pernas.
+— Estou muito doente, Vitória. Não quero almoçar. Dê a boia a algum maloqueiro que aparecer por aí. E feche as portas depois. Vou deitar-me, não me aguento nas pernas.
 
 A réstia descia a parede, viajava em cima da cama, saltava no tijolo - e era por aí que se via que o tempo passava. Mas no tempo não havia horas. O relógio da sala de jantar tinha parado. Certamente fazia semanas que eu me estirava no colchão duro, longe de tudo. Nos rumores que vinham de fora as pancadas dos relógios da vizinhança morriam durante o dia. E o dia estava dividido em quatro partes desiguais: uma parede, uma cama estreita, alguns metros de tijolo, outra parede. Depois a escuridão cheia de pancadas, que às vezes não se podiam contar porque batiam vários relógios simultaneamente, gritos de crianças, a voz arreliada de d. Rosália, o barulho dos ratos no armário dos livros, ranger de armadores, silêncios compridos. Eu escorregava nesses silêncios, boiava nesses silêncios como numa água pesada. Mergulhava neles, subia, descia ao fundo, voltava à superfície, tentava segurar-me a um galho. Estava um galho por cima de mim, e era-me impossível alcançá-lo. Ia mergulhar outra vez, mergulhar para sempre, fugir das bocas da treva que me queriam morder, dos braços da treva que me queriam agarrar. O som de uma vitrola coava-se nos meus ouvidos, acariciava-me, e eu diminuía, embalado nos lençóis, que se transformavam numa rede. Minha mãe me embalava cantando aquela cantiga sem palavras. A cantiga morria e se avivava. Uma criancinha dormindo um sono curto, cheio de estremecimentos. Em alguns minutos a criança crescia, ganhava cabelos brancos e rugas. Não era minha mãe a cantar: era uma vitrola distante, tão distante que eu tinha a ilusão de que sobre o disco passeavam pernas de aranha. Um disco a rodar sem interrupção a noite inteira. Não. Estávamos na segunda parede, e eu subia a parede, acompanhava a réstia como uma lagartixa. Marasmo de muitas horas, solução de continuidade que se ia repetir. Cairia da parede, como uma lagartixa desprecatada, ficaria no chão, moído da queda. Quem teria entrado no quarto durante a inconsciência prolongada? Moisés e Pimentel teriam vindo? Seu Ivo teria vindo? Lembrava-me de figuras curvadas sobre a cama. Não eram os meus amigos. Eram tipos de caras esquisitas, todos iguais, de bocas negras, línguas enormes, grossas e escuras. Quantos dias ali no colchão áspero, como um defunto? Um homem sem rosto, sentado na cadeira onde tinha ficado o paletó, falava muito. Que dizia ele? Esforçava-me por entendê-lo, mas tinha a impressão que o visitante usava língua estrangeira. Era como se me achasse num cinema. Apenas compreendia de longe em longe algumas palavras. Cansava-me e desejava que o homem se fosse embora. Não percebia que me importunava, que me obrigava a esforços enormes para entender uma língua estranha? O desconhecido continuava a falar. Eu subia a parede novamente e corria atrás da réstia. Cairia no tijolo outra vez, achatar-me-ia ouvindo o monólogo incompreensível. Receava que o homem sem rosto me julgasse estúpido. Queria dormir, arregalava os olhos e abria os ouvidos. Certamente dizia coisas sem nexo, e o desconhecido me chamava imbecil, com palavras inglesas. Um buraco ao pé de uma cerca. Eu tombava no buraco, ia descendo lentamente. E, enquanto descia, encontrava no caminho muitas flores que desciam também, sem peso, como flocos de algodão. Subia, era como se o meu corpo se transformasse em nevoeiro. Tornava a descer, tornava a subir, as flores caíam sempre numa chuva silenciosa. As flores não me davam nenhum prazer. Desejava livrar-me delas, interromper aquelas viagens para cima e para baixo, andar na terra. Escancarava os olhos. O homem sem rosto havia desaparecido, e eu tinha agora um livro aberto sobre o colchão. Não sabia quem me trouxera o livro, se ele surgira antes ou depois da visita. As letras saíam dos lugares, deixavam espaços em branco, espalhavam-se numa chuva silenciosa. Apertando as pálpebras, esfregando-as, aproximando e afastando o papel, conseguia conter a dispersão. Impossível adivinhar o sentido de uma palavra. Língua estrangeira, tão estrangeira como o solilóquio monótono. Sem memória, um idiota. Chorava, batia com a cabeça no ferro da cama, puxava os cabelos. Olhava as mãos. As unhas crescidas e sujas, a escoriação da palma secando e cicatrizando, os dedos compridos, escuros, com uns nós muito grossos. Sem memória. Que teria acontecido antes? A confusão se dissipava, a réstia avançava no tijolo, trepava na cadeira onde o homem se tinha sentado, ganhava o paletó estendido no encosto. O paletó me espiava com um olho amarelo que mudava de lugar. A calça continuava dobrada sobre a mala coberta de poeira. A sentinela cochilava no portão do palácio, encostada ao fuzil; André Laerte andava como um gato; Amaro vaqueiro, aboiando, laçava a novilha careta; cabo José da Luz caminhava para a cadeia pública, todo pachola; Dagoberto punha na minha cama a cesta de ossos e o compêndio de anatomia. Eu pegava o livro que estava aberto em cima do colchão. Tinham deixado ali aquele volume inútil. Lia-o pensando em ossos. Provavelmente fora Moisés que o trouxera para me distrair. As palavras iam-se tornando claras, mas não se reuniam. Bom camarada, Moisés. Dera-me um livro para me distrair. A réstia descia a cadeira, atravessava os tijolos e ganhava a parede. O cego dos bilhetes de loteria apregoava o número, batendo com o cajado no chão do café; a mulher da rua da Lama cruzava os dedos magros nos joelhos; Lobisomem parecia um velho decrépito. Essas figuras vinham sem nitidez, confundiam-se. Antônia arrastava os chinelos, mostrava as pernas cobertas de marcas de feridas e cantava uma cantiga vagabunda. Mas a cantiga se transformava: "Assentei praça. Na polícia eu vivo...". E Antônia era o cabo José da Luz. Em pé, defronte da prensa de farinha, oferecia-me uma xícara de café. Antônia, cabo José da Luz, Rosenda - uma pessoa só. Às vezes apareciam três corpos juntos com rostos iguais, outras vezes era um corpo com três cabeças. Afinal surgia um vivente que tinha três nomes. Agarrava-me ao livro, compreendia vagamente o que estava escrito, mas ficava-me a certeza de que havia ali vários trabalhos, feitos por muitos indivíduos. Chineses. Uns chineses brigões, revoltados. Lembrava­-me dos chineses que lavam roupa, fabricam ventarolas, vendem bagatelas, juntam-se às caboclas. Muitos livros arrumados, formando um livro incompreensível. Fernando Inguitai andava pela rua do Comércio, o braço carregado de voltas de contas, o cigarro babado no beiço que se arregaçava, descobrindo os dentes enormes num sorriso parado. O som da vitrola ia quase desaparecendo, a lagartixa subia a parede. Amaro vaqueiro, agitando o laço, mastigava o cigarro de palha e mostrava os dentes pretos num sorriso parado. A cadeira suja de poeira, a mala suja de poeira. A roupa havia desaparecido. Seria bom levantar-me, procurar qualquer coisa para me vestir. Pouco tempo antes a roupa estava ali, no encosto da cadeira e em cima da mala. De repente um sumiço. Quem me tinha dito aquele nome estranho? Fernando Inguitai, a lagartixa, a réstia, Amaro vaqueiro. A vitrola cantava baixinho: - "Fernando Inguitai". Tentava sentar-me. Se isto me fosse possível, procuraria a roupa. Virava-me com dificuldade. Por que não entrava logo a pessoa que estava na sala? - "Obrigado, Vitória. Não quero comer. Traga um copo de água." Vitória afastava-se arrastando os pés, levando a bandeja com a comida que me dava engulhos. Minutos depois, lá vinha, chape, chape, resmungando, a cara fechada, e entregava-me o copo. Eu bebia, molhando as cobertas. - "Obrigado, Rosenda." Ficava suando e arquejando, a vista escurecia, estirava-me na prensa de farinha, junto ao muro. O barulho do descaroçador de algodão não me deixava dormir, os passos de Vitória morriam no corredor. Meu pai estava deitado, muito comprido, envolto num pano que se dobrava entre as pernas e tinha no lugar da cara uma nódoa vermelha cheia de moscas. As moscas não se mexiam, mas faziam um zumbido horrível de carapanãs. O olho de vidro de padre Inácio estava parado, suspenso no ar, fora do corpo. A batina de padre Inácio, o capote do velho Acrísio, a farda de cabo José da Luz e o vestido vermelho de Rosenda estavam parados, suspensos no ar, sem corpos. As carapanãs zumbiam. Os pés de Camilo Pereira da Silva, escuros, ossudos, saíam por uma das pontas do marquesão, medonhos. Eu atravessava o corredor, ia à sala, voltava a deitar-me na prensa, abria o livro que tinha chineses revoltados. Mas as pálpebras cerravam-se, as carapanãs e o descaroçador enchiam-me a cabeça. Que motivo tinha Fernando Inguitai para rir-se? Empurrava os travesseiros e tentava abrir os olhos. Se pudesse levantar-me, tudo aquilo desapareceria. Iria conversar com o homem que me esperava na sala. - "Não há chinês chamado Fernando." Onde tinha ouvido aquele nome de Inguitai? Se Vitória me trouxesse um copo de água... Ali com sede, morrendo, sem um diabo que me desse uma xícara de café, um copo de água! Embalava-me com isto: - "Sozinho, sozinho, morrendo à míngua, com sede". Era bom que todos estivessem longe. O contínuo da repartição, tão magro, tão velho, tão triste, movia-se trôpego. D. Adélia dançara como carrapeta, e agora era aquilo que se via, mole, acabada, uma lástima. Albertina de tal, parteira diplomada. Quando eu entrava na repartição, apressado e fora da hora, o contínuo velho tinha um sorriso doce e alguma informação útil. Os meus olhos abriam-se, fechavam-se, tornavam a abrir-se. Os caibros engrossavam, torciam-se, alvacentos e repugnantes como cobras descascadas. "Greve no caso de reação." Alguns letreiros estavam raspados, outros desapareciam sob as manchas que as águas da chuva tinham produzido. Mas havia letreiros novos. As crianças das escolas olhavam para eles. O homem cabeludo que vendia aguardente só cuidava da sua vida. Albertina de tal, parteira diplomada. Onde estava a minha roupa? Queria vestir-me, sair pela rua, ler os jornais. Que diziam os jornais? Subir o morro do Farol, entrar nas bodegas, beber cachaça. Seu Ivo me visitara, acocorara-se junto à parede. - "Leve a roupa, seu Ivo." Seu Ivo tinha vestido a calça rasgada e o paletó sujo. Talvez não tivesse vestido aquela imundície, talvez fosse tudo um sonho. Um homem na sala esperava com paciência que me restabelecesse. Sair, entrar no café, viajar nos bondes. Onde estava a minha roupa? A cadeira perto da cama, o livro fechado sobre a palha. - "Leve isso daí, seu Ivo. A calça está rasgada. Cosa o rasgão com uma corda." Albertina de tal, parteira diplomada. Escuridão. Um estremecimento, uma queda. Ia cair da cama, o chão se abriria, eu rolaria pelos séculos dos séculos fora disto. O espírito de Deus boiava sobre as águas. Livrava-me do susto, pouco a pouco ia resvalando no entorpecimento. Os caibros faziam voltas, as telhas se equilibravam por milagre. Algumas dobras daquelas coisas brancas e moles desciam, aproximavam-se da minha boca, davam-me náuseas. A vitrola dizia: - "Fernando Inguitai". Os reisados cantavam defronte da casa de seu Batista. Os mateus gritavam: - "Abra a porta, ioiô". E as figuras todas: - "Aqui estou na vossa porta como um feixinho de lenha". Seu Batista não abria: esperava a cantiga que fazia as janelas se escancararem. E as figuras, o embaixador, o rei, a burrinha, os mateus, ficavam na calçada como um feixinho de lenha, fedendo a suor, gemendo os versos, até que seu Batista, importante, abria a sala, surgia vistoso, baixinho, vestido em robe de chambre. O feixinho de lenha entrava e cantava, seu Batista recolhia os capacetes dos mateus, a coroa do rei, a espada do embaixador, os lenços das figuras, punha uns níqueis em tudo isso. O zumbido das carapanãs era insuportável. - "Um copo de água, Vitória." Vitória não ouvia, e a leseira recomeçava. Não havia escuridão, a réstia subia a parede. - "Leve a roupa, seu Ivo." Seu Ivo se acocorara a um canto, silencioso, babando-se. Pimentel não aparecia. Devia ter aparecido, mas não me lembrava dele. Com certeza viera num momento em que a febre era muito forte. Que doidices teria eu dito na presença de Pimentel? Um, dois, um, dois. Marchava - e não podia levantar-me da cama. Quatro paredes. As quatro paredes da repartição esmagavam-me. Algumas horas depois da função, o feixinho de lenha, composto de mateus, figuras, burrinha, rei, embaixador, suaria arrastando a enxada no eito. - "Parem essa vitrola." Fernando Inguitai, o braço carregado de voltas de contas, andava pela rua do Comércio, fumando, sorrindo. Haveria alguém neste mundo que se chamasse Inguitai? As cascavéis e as jararacas tomavam banho com a gente no poço da Pedra. Uma delas se enroscara no pescoço de meu avô. Trajano Pereira de Aquino Cavalcante e Silva sapateava no chão de terra batida, uma alpercata saltava-lhe do pé. Instituto Histórico e Geográfico do Espírito Santo, Instituto Histórico e Geográfico do Rio Grande do Sul. Ria-me como um idiota. Provavelmente havia institutos históricos e geográficos por esses lugares. Certas pessoas empurravam outras nas escadas e diziam: - "Desculpe". O cego dos bilhetes de loteria cantava o número, batendo com o cajado no cimento do café. Virava-me para o espelho. Por detrás das letras brancas, rostos medonhos arreganhavam os dentes e piscavam os olhos. As letras torciam-se, os caibros torciam-se, baixavam, brancos, moles, como cobras descascadas. 384. O cajado batendo no cimento, avançando para mim, ameaçando-me com uma tira de papel, que engrossava e queria morder-me. Moisés aproximava-se, comprava a tira de papel, que se enrolava nos dedos dele, e lia em voz alta uma infinidade de vezes: - " 384 ". Eu ia fugir, mas Fernando Inguitai estava na calçada, esperando-me para vender uma volta de contas. - "Vai-te embora, Moisés." Não queria voltas de contas nem queria ouvir a leitura daquele número. Não era número: eram palavras incompreensíveis, histórias da China. Moisés virava a página, que ficava mexendo-se. A cadeira mexia-se. Afastava-me, com medo da cadeira. No dia seguinte, quando viesse varrer o quarto, Vitória a poria no lugar de costume, junto à mala, mas durante uma noite inteira o móvel caprichoso não me deixaria descansar. Eu tremia e receava que Moisés se fosse embora. Voltaria o silêncio, a cadeira se chegaria mais à cama. - "Continue, Moisés. É isso mesmo." Não o entendia, mas aprovava-o com a cabeça e com palavras assim. A voz rolava, lenta e monótona, o dedo comprido virava a página e gesticulava diante da minha cara. Passavam chineses armados. E o dedo enrolava-se, dava um nó. A leitura era um zumbido, um enxame de carapanãs lia o livro difícil. Estava a balançar-se numa rede, ia acima e vinha abaixo. E quando subia, abria os olhos, via o dedo perto das minhas ventas; quando descia, ouvia o arranhar da vitrola. Os ratos do armário dos livros roíam o disco da vitrola, e a vitrola dizia baixinho: - "Fernando Inguitai". A réstia sumia-se. Moisés levantava-se, puxava a correntinha da lâmpada, tornava a sentar-se. - "Obrigado, Moisés." Ali perdendo tempo, lendo para me distrair. Excelente camarada. - "É preciso que dr. Gouveia mande limpar estas paredes." Caía em mim, arrependia-me de ter falado. Certamente as paredes necessitavam limpeza, zangar-me-ia se alguém me dissesse que não, mas a necessidade exigia explicação, e não me poderia fazer compreender. Ao mesmo tempo temia que o judeu mangasse de mim por eu haver interrompido a leitura com uma frase besta. Íamos discutir. Receava encolerizar-me e ser grosseiro com um visitante. Se ele concordasse comigo, seria por eu estar doente. Não me conformava com isto. Preciso da condescendência dos outros? Sou alguma criança? Por que tinha ele suspendido a leitura e esbugalhava para mim aqueles olhos de mal-assombrado? Seria melhor destampar logo e declarar francamente que as paredes não necessitavam limpeza. De qualquer modo seria fácil um rompimento entre nós. Cada qual para o seu lado, cada qual com as suas ideias. Moisés levantava-se, despedia-se. Eu escondia as mãos nas cobertas, enrolava o pano debaixo do queixo e tremia, pedia-lhe com os olhos que não me deixasse só entre aquelas paredes horríveis. Agora Moisés me havia abandonado, e eu batia os dentes como um caititu. As paredes cobriam-se de letreiros incendiários, de lágrimas pretas de piche. As letras moviam-se, deixavam espaços que eram preenchidos. Estava ali um tipógrafo emendando composição. E o piche corria, derramava-se no tijolo. Ameaças de greves, pedaços da Internacional. Um, dois... Impossível contar as legendas subversivas. Havia umas enormes, que iam de um ao outro lado do quarto; umas pequeninas, que se torciam como cobras, arregalavam os olhinhos de cobras, mostravam a língua e chocalhavam a cauda. As letras tinham cara de gente e arregaçavam os beiços com ferocidade. A mulher que lava garrafas e o homem que enche dornas agitavam-se na parede como borboletas espetadas e formavam letreiros com outras pessoas que lavavam garrafas, enchiam dornas e faziam coisas diferentes. A datilógrafa dos olhos agateados tossia, as filhas de Lobisomem encolhiam-se por detrás das outras letras, Antônia arrastava as pernas grossas cobertas de marcas de feridas, a mulher da rua da Lama cruzava as mãos sobre o joelho magro e curvava-se para esconder as pelancas da barriga escura. Um choro longo subia e descia: - "Que será de mim? Valha-me Nossa Senhora". Um moleque morria devagar, mutilado, porque havia arrancado os tampos da filha do patrão. Fazia um gorgolejo medonho e vertia piche das chagas. 384. O cego dos bilhetes batia com o cajado na parede. - "Afastem esta cadeira." Seu Ivo estava de cócoras, misturado às outras letras. A calça rasgada e o paletó sujo eram cor de piche. Cirilo de Engrácia, carregado de cartucheiras e punhais, encostava-se a uma árvore, amarrado, os cabelos cobrindo o rosto, os pés com os dedos para baixo. A sentinela cochilava no portão do palácio. Um ventre enorme crescia na parede, uma criatura malvestida passava arrastando a filha pequena, um brilho de ódio no olho único. Sinha Terta gemia: - "Minha santa Margarida...". O dono da bodega, triste, fincava os cotovelos no balcão engordurado. As crianças faziam voltas em redor da barca de terra e varas. A rapariga pintada de vermelho espalhava um cheiro esquisito. O engraxate escutava histórias de capoeiras. O homem acaboclado cruzava os braços, mostrando bíceps enormes. O mendigo estirava a perna entrapada e ensanguentada. As moscas dormiam, e o mendigo, com a muleta esquecida, bebia cachaça e ria. Passos na calçada. Quem ia entrar? Quem tinha negócio comigo àquela hora? Necessário Vitória fechar as portas e despedir o hóspede incômodo que não se arredava da sala. Mas Vitória contava moedas, na parede, resmungava a entrada e a saída dos navios. A placa azul de d. Albertina escondia-se a um canto, suja de piche. Todo aquele pessoal entendia-se perfeitamente. O homem cabeludo que só cuidava da sua vida, a mulher que trazia uma garrafa pendurada ao dedo por um cordão, Rosenda, cabo José da Luz, Amaro vaqueiro, as figuras do reisado, um vagabundo que dormia nos bancos dos jardins, outro vagabundo que dormia debaixo das árvores, tudo estava na parede, fazendo um zumbido de carapanãs, um burburinho que ia crescendo e se transformava em grande clamor. José Baía acenava-me de longe, sorrindo, mostrando as gengivas banguelas e agitando os cabelos brancos. - "José Baía, meu irmão, estás também aí?" José Baía, trôpego, rompia a marcha. Um, dois, um, dois... A multidão que fervilhava na parede acompanhava José Baía e vinha deitar-se na minha cama. Quitéria, sinha Terta, o cego dos bilhetes, o contínuo da repartição, os cangaceiros e os vagabundos, vinham deitar-se na minha cama. Cirilo de Engrácia, esticado, amarrado, marchando nas pontas dos pés mortos que não tocavam o chão, vinha deitar-se na minha cama. Fernando Inguitai, com o braço carregado de voltas de contas, vinha deitar-se na minha cama. As riscas de piche cruzavam-se, formavam grades. - "José Baía, meu irmão, há que tempo!" As crianças corriam em torno da barca. - "José Baía, meu irmão, estamos tão velhos!" Acomodavam-se todos. 384. Um colchão de paina. Milhares de figurinhas insignificantes. Eu era uma figurinha insignificante e mexia-me com cuidado para não molestar as outras. 384. Íamos descansar. Um colchão de paina.

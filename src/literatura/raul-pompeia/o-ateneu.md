@@ -107,31 +107,31 @@ As impressões recentes derrogavam o meu Aristarco; mas a hipérbole essencial d
 
 "Como se chama o amiguinho?" perguntou-me o diretor.
 
-- Sérgio... dei o nome todo, baixando os olhos e sem esquecer o "seu criado" da estrita cortesia.
+— Sérgio... dei o nome todo, baixando os olhos e sem esquecer o "seu criado" da estrita cortesia.
 
-- Pois, meu caro Sr. Sérgio, o amigo há de ter a bondade de ir ao cabeleireiro deitar fora estes cachinhos...
+— Pois, meu caro Sr. Sérgio, o amigo há de ter a bondade de ir ao cabeleireiro deitar fora estes cachinhos...
 
 Eu tinha ainda os cabelos compridos, por um capricho amoroso de minha mãe. O conselho era visivelmente salgado de censura. O diretor, explicando a meu pai, acrescentou com o risinho nasal que sabia fazer: "Sim, senhor, os meninos bonitos não provam bem no meu colégio..."
 
-- Peço licença para defender os meninos bonitos... objetou alguém entrando.
+— Peço licença para defender os meninos bonitos... objetou alguém entrando.
 
 Surpreendendo-nos com esta frase, untuosamente escoada por um sorriso, chegou a senhora do diretor, D. Ema. Bela mulher em plena prosperidade dos trinta anos de Balzac, formas alongadas por graciosa magreza, erigindo porém o tronco sobre quadris amplos, fortes como a maternidade; olhos negros, pupilas retintas de uma cor só, que pareciam encher o talho folgado das pálpebras; de um moreno rosa que algumas formosuras possuem, e que seria também a cor do jambo, se jambo fosse rigorosamente o fruto proibido. Adiantava-se por movimentos oscilados, cadência de minueto harmonioso e mole que o corpo alternava. Vestia cetim preto justo sobre as formas, reluzente como pano molhado; e o cetim vivia com ousada transparência a vida oculta da carne. Esta aparição maravilhou-me.
 
 Houve as apresentações de cerimônia, e a senhora com um nadinha de excessivo desembaraço sentou-se ao divã perto de mim.
 
-- Quantos anos tem? perguntou-me.
+— Quantos anos tem? perguntou-me.
 
-- Onze anos...
+— Onze anos...
 
-- Parece ter seis, com estes lindos cabelos.
+— Parece ter seis, com estes lindos cabelos.
 
 Eu não era realmente desenvolvido. A senhora colhia-me o cabelo nos dedos:
 
-- Corte e ofereça a mamãe, aconselhou com uma carícia; é a infância que aí fica, nos cabelos louros... Depois, os filhos nada mais têm para as mães...
+— Corte e ofereça a mamãe, aconselhou com uma carícia; é a infância que aí fica, nos cabelos louros... Depois, os filhos nada mais têm para as mães...
 
 O poemeto de amor materno deliciou-me como uma divina música. Olhei furtivamente para a senhora. Ela conservava sobre mim as grandes pupilas negras, lúcidas, numa expressão de infinda bondade! Que boa mãe para os meninos, pensava eu. Depois, voltada para meu pai, formulou sentidamente observações a respeito da solidão das crianças no internato.
 
-- Mas o Sérgio é dos fortes, disse Aristarco, apoderando-se da palavra. Demais, o meu colégio é apenas maior que o lar doméstico. O amor não é precisamente o mesmo, mas os cuidados de vigilância são mais ativos. São as crianças os meus prediletos. Os meus esforços mais desvelados são para os pequenos. Se adoecem e a família está fora, não os confio a um correspondente... Trato-os aqui, em minha casa. Minha senhora é a enfermeira. Queria que o vissem os detratores...
+— Mas o Sérgio é dos fortes, disse Aristarco, apoderando-se da palavra. Demais, o meu colégio é apenas maior que o lar doméstico. O amor não é precisamente o mesmo, mas os cuidados de vigilância são mais ativos. São as crianças os meus prediletos. Os meus esforços mais desvelados são para os pequenos. Se adoecem e a família está fora, não os confio a um correspondente... Trato-os aqui, em minha casa. Minha senhora é a enfermeira. Queria que o vissem os detratores...
 
 Enveredando pelo tema querido do elogio próprio e do Ateneu, ninguém mais pôde falar...
 
@@ -195,9 +195,9 @@ A rouparia ocupava grande parte do subchão do imenso edifício, entre o vigamen
 
 Era hora de descanso, passeávamos, conversando. Falamos dos colegas. Vi, então, de dentro da brandura patriarcal do Rabelo descascar-se uma espécie de inesperado Tersito, produzindo injúrias e maldições. "Uma cáfila! uma corja! Não imagina, meu caro Sérgio. Conte como uma desgraça ter de viver com esta gente." E esbeiçou um lábio sarcástico para os rapazes que passavam. "Aí vão as carinhas sonsas, generosa mocidade... Uns perversos! Têm mais pecados na consciência que um confessor no ouvido; uma mentira em cada dente, um vício em cada polegada de pele. Fiem-se neles. São servis, traidores, brutais, adulões. Vão juntos. Pensa-se que são amigos... Sócios de bandalheira! Fuja deles, fuja deles. Cheiram a corrupção, empestam de longe. Corja de hipócritas! Imorais! Cada dia de vida tem-lhes vergonha da véspera. Mas você é criança; não digo tudo o que vale a generosa mocidade. Com eles mesmos há de aprender o que são... Aquele é o Malheiro, um grande em ginástica. Entrou graúdo trazendo para cá os bons costumes de quanto colégio por aí. O pai é oficial. Cresceu num quartel no meio da chacota das praças. Forte como um touro, todos o temem, muitos o cercam, os inspetores não podem com ele; o diretor respeita-o; faz-se a vista larga para os seus abusos... Este que passou por nós, olhando muito, é o Cândido, com aqueles modos de mulher, aquele arzinho de quem saiu da cama, com preguiça nos olhos... Este sujeito... Há de ser seu conhecido. Mas faço exceções: ali vem o Ribas, está vendo? feio coitadinho como tudo, mas uma pérola. É a mansidão em pessoa. Primeira voz do Orfeão, uma vozinha de moça que o diretor adora. É estudioso e protegido. Faz a vida cantando como os serafins. Uma pérola!"
 
-- Ali está um de joelhos?...
+— Ali está um de joelhos?...
 
-- De joelhos... Não há perguntar; é o Franco. Uma alma penada. Hoje é o primeiro dia, ali está de joelhos o Franco. Assim atravessa as semanas, os meses, assim o conheço nesta casa, desde que entrei. De joelhos como um penitente expiando a culpa de uma raça. O diretor chama-lhe cão, diz que tem calos na cara. Se não tivesse calos ao joelho, não haveria canto do Ateneu que ele não marcasse com o sangue de uma penitência. O pai é de Mato Grosso; mandou-o para aqui com uma carta em que o recomendava como incorrigível, pedindo severidade. O correspondente envia de tempos a tempos um caixeiro, que faz os pagamentos e deixa lembranças. Não sai nunca... Afastemo-nos que aí vem um grupo de gaiatos.
+— De joelhos... Não há perguntar; é o Franco. Uma alma penada. Hoje é o primeiro dia, ali está de joelhos o Franco. Assim atravessa as semanas, os meses, assim o conheço nesta casa, desde que entrei. De joelhos como um penitente expiando a culpa de uma raça. O diretor chama-lhe cão, diz que tem calos na cara. Se não tivesse calos ao joelho, não haveria canto do Ateneu que ele não marcasse com o sangue de uma penitência. O pai é de Mato Grosso; mandou-o para aqui com uma carta em que o recomendava como incorrigível, pedindo severidade. O correspondente envia de tempos a tempos um caixeiro, que faz os pagamentos e deixa lembranças. Não sai nunca... Afastemo-nos que aí vem um grupo de gaiatos.
 
 Um tropel de rapazes atravessou-nos a frente, provocando-me com surriadas.
 
@@ -545,7 +545,7 @@ A princípio fugia de mim, resmungando coisas indecifráveis. Depois aceitou-me.
 
 Uma vez recebeu carta da província, uma das poucas que lhe chegavam por ano. Depois da leitura percebi que tinha lágrimas nos olhos. O pranto era-lhe um acontecimento na fisionomia, invariavelmente de uma pasmaceira de máscara de arame. Interessei-me por aquele sofrimento; ele deu-me a carta a ler. O pai do Franco era um pobre desembargador desterrado nos confins de Mato Grosso, com oito filhos. Uma carta dolorosa. Fora entregue diretamente pelo caixeiro do correspondente, escapando à curiosidade do diretor, que gostava de espiar a correspondência dos alunos. Falava em vir à corte no fim do ano, com todos os sacrifícios, falava em encontrar o filho bom menino, educado, estudioso. Contava depois, entre exclamações consternadas, que uma filha, a mais velha, desaparecera do colégio onde estava, em companhia de um professor de piano, homem casado, sendo encontrada três ou quatro dias depois ao abandono. Em vão tinham feito perguntas à infeliz no interesse da punição do culpado; sepultara-se a mocinha num mutismo desolador, como se houvesse perdido a voz, recusando alimento, não tirando do chão os olhos desvairados, escravos da contemplação demente da vergonha.
 
-- Como tem descido Sérgio, lastimavam os inspetores, palestrando a ordem do dia com o diretor, é o íntimo do Franco.
+— Como tem descido Sérgio, lastimavam os inspetores, palestrando a ordem do dia com o diretor, é o íntimo do Franco.
 
 Ainda que isso não fosse rigorosamente exato, não foi surpresa para mim ver o excomungado convidar-me para uma extraordinária empresa à noite. "Vingar-me da corja!" murmurava, gargarejando um riso incompleto e azedo. Isto à tardinha, depois da ginástica, no mesmo dia do processo da bomba.
 
@@ -789,7 +789,7 @@ Impressionou-me para sempre o desfalecimento flácido dos membros, quando levant
 
 Após a rede, pela escada da cozinha, saíram todos; eu fiquei. Examinava ainda o chão alagado de sangue quando alguém, passando, afagou-me os cabelos: era Ângela!
 
-- Morió, disse, indicando o sangue, arregalando as sobrancelhas, e desapareceu com o andar de bamboleio.
+— Morió, disse, indicando o sangue, arregalando as sobrancelhas, e desapareceu com o andar de bamboleio.
 
 Primeira vez que reparei que era bonita a canarina. Sim, senhor! E para o demônio culpado de tão horrível incidente fui de uma benevolência tal de opinião que me nasceram remorsos.
 
@@ -959,9 +959,9 @@ Calculem agora que estava entre os convidados o Dr. Zé Lobo, pai de um aluno, d
 
 "Quem protesta contra o sebo da tirania é burro!" redarguiu ao apartista com a pachorra temível dos velhos insolentes.
 
-- Burro não! clamou o outro empalidecendo sob a vergasta da injúria, nervoso, perturbado pela atenção da sala inteira que o encarava. "Burro não! tais expressões são indignas de V. Ex a, um senador e um velho!..."
+— Burro não! clamou o outro empalidecendo sob a vergasta da injúria, nervoso, perturbado pela atenção da sala inteira que o encarava. "Burro não! tais expressões são indignas de V. Ex a, um senador e um velho!..."
 
-- Burro sim! repetia o outro vagarosamente, com um arreganho enfastiado de insulto. "Burro sim!..."
+— Burro sim! repetia o outro vagarosamente, com um arreganho enfastiado de insulto. "Burro sim!..."
 
 Aristarco conservava-se à presidência, na pasmaceira de pau dos ídolos afrontados. O salão enorme, alunos e convidados, tumultuava em vagalhões, fragmentado em partidos opostos, uns pelo senador e pela anarquia, outros pelo advogado e pela ordem pública. Muitos gesticulavam de pé; havia estudantes gritando em cima dos bancos. Os insultos voavam como pelouros; os protestos rangiam como escudos feridos; havia mãos pelo ar que pediam espadas.
 
@@ -1211,15 +1211,15 @@ No salão dos médios:
 
 "D. Ema... D. Ema... não se murmura à toa... Reparem na maneira de falar do Crisóstomo... Tem motivo, um rapagão... Palavra que os apanhei sozinhos, juntinhos, conversando, à distância de um beijo...
 
-- O melhor é que o Crisóstomo não vai para a rua... Que diabo, nem tanto vale o grego, que se pague a beijocas descontadas pela mulher... Tenho para mim que o negócio ainda acaba mal e porcamente, kakôs kai ruparôs, com uma estralada...
+— O melhor é que o Crisóstomo não vai para a rua... Que diabo, nem tanto vale o grego, que se pague a beijocas descontadas pela mulher... Tenho para mim que o negócio ainda acaba mal e porcamente, kakôs kai ruparôs, com uma estralada...
 
-- Ora, diretores! empresários! fabricantes de ciência barata e prodígios de carregação, com que empulham os papais basbaques... O que querem é a frequência do negócio... Falem cá em anúncios... Mulher ao balcão... Que chamariz, uma carinha sedutora! Eu por mim, se fosse diretor, inaugurava um Kindergarten para taludos; uma bonita diretora à testa e quatro adjuntas amáveis... Não haveria nhonhô graúdo que não morresse pelo ensino intuitivo. Como não haviam de pagar para cortar pauzinhos no meu jardim! E que serviço ao progresso do meu país: estimular à Froebel as inteligências perrengues e as adolescências atrasadas...
+— Ora, diretores! empresários! fabricantes de ciência barata e prodígios de carregação, com que empulham os papais basbaques... O que querem é a frequência do negócio... Falem cá em anúncios... Mulher ao balcão... Que chamariz, uma carinha sedutora! Eu por mim, se fosse diretor, inaugurava um Kindergarten para taludos; uma bonita diretora à testa e quatro adjuntas amáveis... Não haveria nhonhô graúdo que não morresse pelo ensino intuitivo. Como não haviam de pagar para cortar pauzinhos no meu jardim! E que serviço ao progresso do meu país: estimular à Froebel as inteligências perrengues e as adolescências atrasadas...
 
-- Pois eu seria capaz de guerrear o estabelecimento. Se fosse diretor, teria o cuidado de ser também ministro do Império... Revogava a Instrução Pública e aprovava a minha gente por decreto, tudo de pancada e com distinção.
+— Pois eu seria capaz de guerrear o estabelecimento. Se fosse diretor, teria o cuidado de ser também ministro do Império... Revogava a Instrução Pública e aprovava a minha gente por decreto, tudo de pancada e com distinção.
 
-- Qual! eu, se fosse diretor, seria safado! Não há nada neste mundo como ser safado! Uma bonita meninada, que festança! Os meninos gostam da gente, a gente gosta dos meninos e o colégio cresce: crescite!... Daí a pouco tanta matrícula, que precisaríamos mudar de casa...
+— Qual! eu, se fosse diretor, seria safado! Não há nada neste mundo como ser safado! Uma bonita meninada, que festança! Os meninos gostam da gente, a gente gosta dos meninos e o colégio cresce: crescite!... Daí a pouco tanta matrícula, que precisaríamos mudar de casa...
 
-- Que canalha! Que linguinhas... Safa! Pois eu cá só digo mal daquele tipo do Liceu Marcelo, que tem na face a costura cicatrizada do talho que lhe fez um discípulo em certa aventura com o mais pacífico dos utensílios, e que, ainda assim, foi apanhado no Cassino deixando aberto num divã o carnê de baile, cuidadosamente ilustrado de símbolos... pedagógicos."
+— Que canalha! Que linguinhas... Safa! Pois eu cá só digo mal daquele tipo do Liceu Marcelo, que tem na face a costura cicatrizada do talho que lhe fez um discípulo em certa aventura com o mais pacífico dos utensílios, e que, ainda assim, foi apanhado no Cassino deixando aberto num divã o carnê de baile, cuidadosamente ilustrado de símbolos... pedagógicos."
 
 A palestra no pérola era muito mais cândida e, principalmente, nada pessoal.
 
@@ -1483,15 +1483,15 @@ Respondi-lhe com violência.
 
 Em vez de confessar, segurei-lhe o vigoroso bigode. Fervia-me ainda a excitação do primeiro combate; não podia olhar conveniências de respeito. Esperneei, contorci-me no espaço como um escorpião pisado. O diretor arremessou-me ao chão. E, modificando o tom, falou: "Sérgio! ousaste tocar-me!"
 
-- Fui primeiro tocado! repliquei fortemente.
+— Fui primeiro tocado! repliquei fortemente.
 
-- Criança! feriste um velho!
+— Criança! feriste um velho!
 
 Reparei que havia no chão fios brancos de bigode.
 
-- Fui vilmente injuriado, disse.
+— Fui vilmente injuriado, disse.
 
-- Ah! meu filho, ferir a um mestre é como ferir ao próprio pai, e os parricidas serão malditos.
+— Ah! meu filho, ferir a um mestre é como ferir ao próprio pai, e os parricidas serão malditos.
 
 O tom comovido deste final inesperado impressionou--me até o íntimo d'alma. Estava vencido. Fiquei por um minuto horrorizado de mim mesmo. De volta do atordoamento, achei-me só no corredor. A saída dramática do diretor aumentou-me ainda remorsos. Houve uma reação de esforço moral e desatei nervosamente em pranto, chorei a valer, amparando-me ao peitoril de uma janela.
 
@@ -1611,9 +1611,9 @@ Outras vezes, subíamos ao duplo trapézio. Embalávamo-nos primeiro brando, afr
 
 Líamos muito em companhia. Páginas que não terminavam, de leituras delicadas, fecundas em cisma: Robinson Crusoé, a solidão e a indústria humana; Paulo e Virgínia, a solidão e o sentimento. Construíamos risonhas hipóteses: que faria um de nós, vendo-se nos apuros de uma ilha deserta?
 
-- Eu, por mim, iniciava logo uma furiosa propaganda a favor da imigração e ia clamar às praias, até que me ouvisse o mundo.
+— Eu, por mim, iniciava logo uma furiosa propaganda a favor da imigração e ia clamar às praias, até que me ouvisse o mundo.
 
-- Eu faria coisa melhor: decretava preventivamente o casamento obrigatório e punha-me a esperar pelo tempo.
+— Eu faria coisa melhor: decretava preventivamente o casamento obrigatório e punha-me a esperar pelo tempo.
 
 A pastoral de Bernardin de Saint-Pierre foi principalmente o nosso enlevo. Parecia-nos ter o poema no coração. A baía do Túmulo, de águas profundas e sombrias, festejada apenas algumas horas pelo sol a prumo, em suave tristeza sempre; ao longe, por uma bocaina, a fachada, à vista, branca, da igreja rústica de Pamplemousses.
 
@@ -1663,7 +1663,7 @@ Lembro-me, entretanto, que havia flores sobre a mesa, que estava a queimar a sop
 
 Uma atenção absorveu-me exclusiva e única. D. Ema reconheceu-me: era aquele pequeno das madeixas compridas! Conversou muito comigo. Um fiapo branco pousava-me ao ombro do uniforme; a boa senhora tomou-o finamente entre os dedos, soltou-o e mostrou-me, sorrindo, o fio levíssimo a cair lentamente no ar calmo... Estava desenvolvido! Que diferença do que era há dois anos! Tinha ideia de haver estado comigo rapidamente, no dia da exposição artística...
 
-- Um peraltinha! interrompeu Aristarco, entre mordaz e condescendente, de uma janela a cujo vão conversava com o professor Crisóstomo.
+— Um peraltinha! interrompeu Aristarco, entre mordaz e condescendente, de uma janela a cujo vão conversava com o professor Crisóstomo.
 
 Eu quis inventar uma boa réplica sem grosseria, mas a senhora me prendia a mão nas dela, maternalmente, suavemente, de tal modo que me prendia a vivacidade também, prendia-me todo, como se eu existisse apenas naquela mão retida.
 
@@ -1721,7 +1721,7 @@ Um rebuliço extraordinário agitou a multidão. Acabava-se de descobrir na cal,
 
 Nem de propósito! na mesma ocasião entrava e lançava-se precipitadamente pela escada o terrível professor. "Não o conhece? Lá vai!" indicou-me um companheiro mais próximo.
 
-- Não o conhecia...
+— Não o conhecia...
 
 Vi-o, magro, anguloso, feio, olhando com ferocidade contínua, não se sabia felizmente para quem, porque era estrábico. Por ele começou o meu improvisado informante, e, conhecendo que eu andava atrasado a respeito, não me deixou mais: "Se tem empenho, fura; se não tem, babau. Bancas de peixe! O peixe é caro às vezes, mas é sempre peixe de mercado. Olhe o Meireles da filosofia, aquele compridão de barba ruça; o empenho é a Ritinha Pernambucana da rua dos Arcos; o Simas da mesa de geografia, um pançudo apelidado esfera terrestre, mimoseiem-no com um par de galos de briga... o Barros Andrade... comprem-lhe os pontos... aquele diabo da retórica que me bombeou há dias... falem-lhe nos versos, que não há suíças mais amáveis. O seu diretor é que os compreende. Quando entra aqui é uma onça; o próprio teto branco empalidece; levantam-se, saúdam o soberano! Agora, há homens respeitáveis: o velho Moreira, o simpático Ramiro, de sorriso patriarcal..."
 
@@ -1991,7 +1991,7 @@ A estátua não era mais uma aspiração: batiam-na ali. Ele sentia metalizar-se
 
 Neste momento, o Clímaco, estrategicamente postado, puxou com força um cordão. Da capa verde dilacerada, emergiu a surpresa: o busto da oferta. Um pouco de sol rasteiro, passando a lona, vinha de encomenda estilhaçar-se contra o metal novo.
 
-- Coroemo-lo! repetia Venâncio, num vendaval de aclamações. E sacando da tribuna, esplêndida coroa de louros, que ninguém vira, colocou-a sobre a figura.
+— Coroemo-lo! repetia Venâncio, num vendaval de aclamações. E sacando da tribuna, esplêndida coroa de louros, que ninguém vira, colocou-a sobre a figura.
 
 Aristarco caiu em si. Referia-se ao busto toda a oração encomiástica de Venâncio. Nada para ele das belas apóstrofes! Teve ciúmes. O gozo da metamorfose fora uma alucinação. O aclamado, o endeusado era o busto: ele continuava a ser o pobre Aristarco, mortal, de carne e osso. O próprio Venâncio, o fiel Venâncio, abandonava-o. E por causa daquilo, daquela coisa mesquinha sobre a peanha, aquele pedaço de Aristarco, que nem ao menos era gente!
 
