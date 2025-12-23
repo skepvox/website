@@ -5,27 +5,13 @@ outline: 2
 
 # Memórias póstumas de Brás Cubas
 
-## Dedicatória ao verme
+## Dedicatoria
 
-Ao verme
-
-que
-
-primeiro roeu as frias carnes
-
-do meu cadáver
-
-dedico
-
-como saudosa lembrança
-
-estas
-
-Memórias póstumas
+Ao verme que primeiro roeu as frias carnes do meu cadáver dedico como saudosa lembrança estas Memórias póstumas
 
 ## Prólogo
 
-A primeira edição destas Memórias póstumas de Brás Cubas ** foi feita aos pedaços na Revista Brasileira, pelos anos de 1880. Postas mais tarde em livro, corrigi o texto em vários lugares. Agora que tive de o rever para a terceira edição, emendei ainda alguma cousa e suprimi duas ou três dúzias de linhas. Assim composto, sai novamente à luz esta obra que alguma benevolência parece ter encontrado no público.
+A primeira edição destas Memórias póstumas de Brás Cubas foi feita aos pedaços na Revista Brasileira, pelos anos de 1880. Postas mais tarde em livro, corrigi o texto em vários lugares. Agora que tive de o rever para a terceira edição, emendei ainda alguma cousa e suprimi duas ou três dúzias de linhas. Assim composto, sai novamente à luz esta obra que alguma benevolência parece ter encontrado no público.
 
 Capistrano de Abreu, noticiando a publicação do livro, perguntava: "As Memórias póstumas de Brás Cubas são um romance?". Macedo Soares, em carta que me escreveu por esse tempo, recordava amigamente as Viagens na minha terra. Ao primeiro respondia já o defunto Brás Cubas (como o leitor viu e verá no prólogo dele que vai adiante) que sim e que não, que era romance para uns e não o era para outros. Quanto ao segundo, assim se explicou o finado: "Trata-se de uma obra difusa, na qual eu, Brás Cubas, se adotei a forma livre de um Sterne ou de um Xavier de Maistre, não sei se lhe meti algumas rabugens de pessimismo". Toda essa gente viajou: Xavier de Maistre, à roda do quarto, Garrett, na terra dele, Sterne, na terra dos outros. De Brás Cubas se pode talvez dizer que viajou à roda da vida.
 
@@ -33,23 +19,17 @@ O que faz do meu Brás Cubas um autor particular é o que ele chama "rabugens de
 
 MACHADO DE ASSIS
 
-* Publicado na quarta edição do romance, terceira em livro, visto que a primeira saiu em fascículos na Revista Brasileira.
-
-** O título do romance alude a Memórias de além-túmulo, obra autobiográfica que René de Chateaubriand ( 1768 - 1848 ) pretendia fosse publicada depois de sua morte. Os primeiros volumes, no entanto, saíram no último ano de vida do autor.
-
 ## Ao leitor
 
-Que Stendhal confessasse haver escrito um de seus livros para cem leitores, cousa é que admira e consterna. * O que não admira, nem provavelmente consternará é se este outro livro não tiver os cem leitores de Stendhal, nem cinquenta, nem vinte, e quando muito, dez. Dez? Talvez cinco. Trata-se, na verdade, de uma obra difusa, na qual eu, Brás Cubas, se adotei a forma livre de um Sterne, ou de um Xavier de Maistre, não sei se lhe meti algumas rabugens de pessimismo. Pode ser. Obra de finado. Escrevi-a com a pena da galhofa e a tinta da melancolia, e não é difícil antever o que poderá sair desse conúbio. Acresce que a gente grave achará no livro umas aparências de puro romance, ao passo que a gente frívola não achará nele o seu romance usual; ei-lo aí fica privado da estima dos graves e do amor dos frívolos, que são as duas colunas máximas da opinião.
+Que Stendhal confessasse haver escrito um de seus livros para cem leitores, cousa é que admira e consterna. O que não admira, nem provavelmente consternará é se este outro livro não tiver os cem leitores de Stendhal, nem cinquenta, nem vinte, e quando muito, dez. Dez? Talvez cinco. Trata-se, na verdade, de uma obra difusa, na qual eu, Brás Cubas, se adotei a forma livre de um Sterne, ou de um Xavier de Maistre, não sei se lhe meti algumas rabugens de pessimismo. Pode ser. Obra de finado. Escrevi-a com a pena da galhofa e a tinta da melancolia, e não é difícil antever o que poderá sair desse conúbio. Acresce que a gente grave achará no livro umas aparências de puro romance, ao passo que a gente frívola não achará nele o seu romance usual; ei-lo aí fica privado da estima dos graves e do amor dos frívolos, que são as duas colunas máximas da opinião.
 
 Mas eu ainda espero angariar as simpatias da opinião, e o primeiro remédio é fugir a um prólogo explícito e longo. O melhor prólogo é o que contém menos cousas, ou o que as diz de um jeito obscuro e truncado. Conseguintemente, evito contar o processo extraordinário que empreguei na composição destas Memórias, trabalhadas cá no outro mundo. Seria curioso, mas nimiamente extenso, e aliás desnecessário ao entendimento da obra. A obra em si mesma é tudo: se te agradar, fino leitor, pago-me da tarefa; se te não agradar, pago-te com um piparote, e adeus.
 
 Brás Cubas
 
-* N o prefácio da segunda edição ( 1853 ) de sua obra De l'amour ( 1822 ), escrito em 18 34, Stendhal ( 1783 - 1842 ) diz ter escrito o livro para cem leitores.
+## Capítulos 001 — 010
 
-## Capítulos 1 a 10
-
-### I. Óbito do autor
+### 001 — Óbito do Autor
 
 Algum tempo hesitei se devia abrir estas memórias pelo princípio ou pelo fim, isto é, se poria em primeiro lugar o meu nascimento ou a minha morte. Suposto o uso vulgar seja começar pelo nascimento, duas considerações me levaram a adotar diferente método: a primeira é que eu não sou propriamente um autor defunto, mas um defunto autor, para quem a campa foi outro berço; a segunda é que o escrito ficaria assim mais galante e mais novo. Moisés, que também contou a sua morte, não a pôs no introito, mas no cabo: diferença radical entre este livro e o Pentateuco.
 
@@ -57,19 +37,15 @@ Dito isto, expirei às duas horas da tarde de uma sexta-feira do mês de agosto 
 
 — Vós, que o conhecestes, meus senhores, vós podeis dizer comigo que a natureza parece estar chorando a perda irreparável de um dos mais belos caracteres que têm honrado a humanidade. Este ar sombrio, estas gotas do céu, aquelas nuvens escuras que cobrem o azul como um crepe funéreo, tudo isso é a dor crua e má que lhe rói à natureza as mais íntimas entranhas; tudo isso é um sublime louvor ao nosso ilustre finado.
 
-Bom e fiel amigo! Não, não me arrependo das vinte apólices que lhe deixei. E foi assim que cheguei à cláusula dos meus dias; foi assim que me encaminhei para o undiscovered country de Hamlet, * sem as ânsias nem as dúvidas do moço príncipe, mas pausado e trôpego como quem se retira tarde do espetáculo. Tarde e aborrecido. Viram-me ir umas nove ou dez pessoas, entre elas três senhoras, minha irmã Sabina, casada com o Cotrim, a filha - um lírio do vale - e... Tenham paciência! Daqui a pouco lhes direi quem era a terceira senhora. Contentem-se de saber que essa anônima, ainda que não parenta, padeceu mais do que as parentas. É verdade, padeceu mais. Não digo que se carpisse, não digo que se deixasse rolar pelo chão, convulsa. Nem o meu óbito era cousa altamente dramática... Um solteirão que expira aos sessenta e quatro anos não parece que reúna em si todos os elementos de uma tragédia. E dado que sim, o que menos convinha a essa anônima era aparentá-lo. De pé, à cabeceira da cama, com os olhos estúpidos, a boca entreaberta, a triste senhora mal podia crer na minha extinção.
+Bom e fiel amigo! Não, não me arrependo das vinte apólices que lhe deixei. E foi assim que cheguei à cláusula dos meus dias; foi assim que me encaminhei para o undiscovered country de Hamlet, sem as ânsias nem as dúvidas do moço príncipe, mas pausado e trôpego como quem se retira tarde do espetáculo. Tarde e aborrecido. Viram-me ir umas nove ou dez pessoas, entre elas três senhoras, minha irmã Sabina, casada com o Cotrim, a filha - um lírio do vale - e... Tenham paciência! Daqui a pouco lhes direi quem era a terceira senhora. Contentem-se de saber que essa anônima, ainda que não parenta, padeceu mais do que as parentas. É verdade, padeceu mais. Não digo que se carpisse, não digo que se deixasse rolar pelo chão, convulsa. Nem o meu óbito era cousa altamente dramática... Um solteirão que expira aos sessenta e quatro anos não parece que reúna em si todos os elementos de uma tragédia. E dado que sim, o que menos convinha a essa anônima era aparentá-lo. De pé, à cabeceira da cama, com os olhos estúpidos, a boca entreaberta, a triste senhora mal podia crer na minha extinção.
 
 — Morto! morto! - dizia consigo.
 
-E a imaginação dela, como as cegonhas que um ilustre viajante viu desferirem o voo desde o Ilisso às ribas africanas, ** sem embargo das ruínas e dos tempos - a imaginação dessa senhora também voou por sobre os destroços presentes até às ribas de uma África juvenil... Deixá-la ir; lá iremos mais tarde; lá iremos quando eu me restituir aos primeiros anos. Agora, quero morrer tranquilamente, metodicamente, ouvindo os soluços das damas, as falas baixas dos homens, a chuva que tamborila nas folhas de tinhorão da chácara, e o som estrídulo de uma navalha que um amolador está afiando lá fora, à porta de um correeiro. Juro-lhes que essa orquestra da morte foi muito menos triste do que podia parecer. De certo ponto em diante chegou a ser deliciosa. A vida estrebuchava-me no peito, com uns ímpetos de vaga marinha, esvaía-se-me a consciência, eu descia à imobilidade física e moral, e o corpo fazia-se-me planta, e pedra, e lodo, e cousa nenhuma.
+E a imaginação dela, como as cegonhas que um ilustre viajante viu desferirem o voo desde o Ilisso às ribas africanas, sem embargo das ruínas e dos tempos - a imaginação dessa senhora também voou por sobre os destroços presentes até às ribas de uma África juvenil... Deixá-la ir; lá iremos mais tarde; lá iremos quando eu me restituir aos primeiros anos. Agora, quero morrer tranquilamente, metodicamente, ouvindo os soluços das damas, as falas baixas dos homens, a chuva que tamborila nas folhas de tinhorão da chácara, e o som estrídulo de uma navalha que um amolador está afiando lá fora, à porta de um correeiro. Juro-lhes que essa orquestra da morte foi muito menos triste do que podia parecer. De certo ponto em diante chegou a ser deliciosa. A vida estrebuchava-me no peito, com uns ímpetos de vaga marinha, esvaía-se-me a consciência, eu descia à imobilidade física e moral, e o corpo fazia-se-me planta, e pedra, e lodo, e cousa nenhuma.
 
 Morri de uma pneumonia; mas se lhe disser que foi menos a pneumonia, do que uma ideia grandiosa e útil, a causa da minha morte, é possível que o leitor me não creia, e todavia é verdade. Vou expor-lhe sumariamente o caso. Julgue-o por si mesmo.
 
-* O narrador alude ao ato III, cena I da peça Hamlet, de William Shakespeare: "The undiscovered country, from whose bourn/ No traveller returns" [O país misterioso de cujas fronteiras nenhum viajante retorna].
-
-** As cegonhas do Ilisso figuram no livro Itinerário de Paris a Jerusalém ( 1811 ), de Chateaubriand. A viagem das cegonhas consta no primeiro capítulo, "Viagem à Grécia", e também no canto XV de sua obra Os mártires. Na Grécia antiga, o Ilisso era um rio divinizado, na região da Ática, que atravessava a cidade de Atenas e desaguava no golfo Sarônico, ao sul do Pireu.
-
-### II. O emplasto
+### 002 — O Emplasto
 
 Com efeito, um dia de manhã, estando a passear na chácara, pendurou-se-me uma ideia no trapézio que eu tinha no cérebro. Uma vez pendurada, entrou a bracejar, a pernear, a fazer as mais arrojadas cabriolas de volatim, que é impossível crer. Eu deixei-me estar a contemplá-la. Súbito, deu um grande salto, estendeu os braços e as pernas, até tomar a forma de um X: decifra-me ou devoro-te.
 
@@ -79,39 +55,27 @@ Um tio meu, cônego de prebenda inteira, costumava dizer que o amor da glória t
 
 Decida o leitor entre o militar e o cônego; eu volto ao emplasto.
 
-### III. Genealogia
+### 003 — Genealogia
 
 Mas, já que falei nos meus dous tios, deixem-me fazer aqui um curto esboço genealógico.
 
 O fundador da minha família foi um certo Damião Cubas, que floresceu na primeira metade do século XVIII. Era tanoeiro de ofício, natural do Rio de Janeiro, onde teria morrido na penúria e na obscuridade, se somente exercesse a tanoaria. Mas não; fez-se lavrador, plantou, colheu, permutou o seu produto por boas e honradas patacas, até que morreu, deixando grosso cabedal a um filho, o licenciado Luís Cubas. Neste rapaz é que verdadeiramente começa a série de meus avós - dos avós que a minha família sempre confessou -, porque o Damião Cubas era afinal de contas um tanoeiro, e talvez mau tanoeiro, ao passo que o Luís Cubas estudou em Coimbra, primou no Estado, e foi um dos amigos particulares do vice-rei conde da Cunha.
 
-Como este apelido de Cubas lhe cheirasse excessivamente a tanoaria, alegava meu pai, bisneto de Damião, que o dito apelido fora dado a um cavaleiro, herói nas jornadas da África, * em prêmio da façanha que praticou, arrebatando trezentas cubas aos mouros. Meu pai era homem de imaginação; escapou à tanoaria nas asas de um calembour. Era um bom caráter, meu pai, varão digno e leal como poucos. Tinha, é verdade, uns fumos de pacholice; mas quem não é um pouco pachola nesse mundo? Releva notar que ele não recorreu à inventiva senão depois de experimentar a falsificação; primeiramente, entroncou-se na família daquele meu famoso homônimo, o capitão-mor Brás Cubas, ** que fundou a vila de São Vicente onde morreu em 1592, e por esse motivo é que me deu o nome de Brás. Opôs-se-lhe, porém, a família do capitão-mor, e foi então que ele imaginou as trezentas cubas mouriscas.
+Como este apelido de Cubas lhe cheirasse excessivamente a tanoaria, alegava meu pai, bisneto de Damião, que o dito apelido fora dado a um cavaleiro, herói nas jornadas da África, em prêmio da façanha que praticou, arrebatando trezentas cubas aos mouros. Meu pai era homem de imaginação; escapou à tanoaria nas asas de um calembour. Era um bom caráter, meu pai, varão digno e leal como poucos. Tinha, é verdade, uns fumos de pacholice; mas quem não é um pouco pachola nesse mundo? Releva notar que ele não recorreu à inventiva senão depois de experimentar a falsificação; primeiramente, entroncou-se na família daquele meu famoso homônimo, o capitão-mor Brás Cubas, que fundou a vila de São Vicente onde morreu em 1592, e por esse motivo é que me deu o nome de Brás. Opôs-se-lhe, porém, a família do capitão-mor, e foi então que ele imaginou as trezentas cubas mouriscas.
 
 Vivem ainda alguns membros de minha família, minha sobrinha Venância, por exemplo, o lírio do vale, que é a flor das damas do seu tempo; vive o pai, o Cotrim, um sujeito que... Mas não antecipemos os sucessos; acabemos de uma vez com o nosso emplasto.
 
-* Referência às campanhas dos portugueses cristãos no norte africano, combatendo os mouros muçulmanos.
+### 004 — A Ideia Fixa
 
-** A vila de São Vicente foi fundada em 1532 pelo português Martim Afonso de Sousa. Brás Cubas, que, segundo reza a lenda, teria vivido quase cem anos, fundou a vila de Santos.
-
-### IV. A ideia fixa
-
-A minha ideia, depois de tantas cabriolas, constituíra-se ideia fixa. Deus te livre, leitor, de uma ideia fixa; antes um argueiro, antes uma trave no olho. Vê o Cavour; foi a ideia fixa da unidade italiana que o matou. Verdade é que Bismarck não morreu; mas cumpre advertir que a natureza é uma grande caprichosa e a história, uma eterna loureira. Por exemplo, Suetônio deu-nos um Cláudio, que era um simplório, ou "uma abóbora" como lhe chamou Sêneca, e um Tito, que mereceu ser as delícias de Roma. Veio modernamente um professor * e achou meio de demonstrar que dos dous césares, o delicioso, o verdadeiro delicioso, foi o "abóbora" de Sêneca. E tu, madama Lucrécia, flor dos Bórgias, se um poeta te pintou como a Messalina católica, ** apareceu um Gregorovius incrédulo que te apagou muito essa qualidade, e, se não vieste a lírio, também não ficaste pântano. Eu deixo-me estar entre o poeta e o sábio.
+A minha ideia, depois de tantas cabriolas, constituíra-se ideia fixa. Deus te livre, leitor, de uma ideia fixa; antes um argueiro, antes uma trave no olho. Vê o Cavour; foi a ideia fixa da unidade italiana que o matou. Verdade é que Bismarck não morreu; mas cumpre advertir que a natureza é uma grande caprichosa e a história, uma eterna loureira. Por exemplo, Suetônio deu-nos um Cláudio, que era um simplório, ou "uma abóbora" como lhe chamou Sêneca, e um Tito, que mereceu ser as delícias de Roma. Veio modernamente um professor e achou meio de demonstrar que dos dous césares, o delicioso, o verdadeiro delicioso, foi o "abóbora" de Sêneca. E tu, madama Lucrécia, flor dos Bórgias, se um poeta te pintou como a Messalina católica, apareceu um Gregorovius incrédulo que te apagou muito essa qualidade, e, se não vieste a lírio, também não ficaste pântano. Eu deixo-me estar entre o poeta e o sábio.
 
 Viva pois a história, a volúvel história que dá para tudo; e, tornando à ideia fixa, direi que é ela a que faz os varões fortes e os doudos; a ideia móbil, vaga ou furta-cor é a que faz os Cláudios - fórmula Suetônio.
 
-Era fixa a minha ideia, fixa como... Não me ocorre nada que seja assaz fixo nesse mundo: talvez a lua, talvez as pirâmides do Egito, talvez a finada dieta germânica. *** Veja o leitor a comparação que melhor lhe quadrar, veja-a e não esteja daí a torcer-me o nariz, só porque ainda não chegamos à parte narrativa destas memórias. Lá iremos. Creio que prefere a anedota à reflexão, como os outros leitores, seus confrades, e acho que faz muito bem. Pois lá iremos. Todavia, importa dizer que este livro é escrito com pachorra, com a pachorra de um homem já desafrontado da brevidade do século, obra supinamente filosófica, de uma filosofia desigual, agora austera, logo brincalhona, cousa que não edifica nem destrói, não inflama nem regela, e é todavia mais do que passatempo e menos do que apostolado.
+Era fixa a minha ideia, fixa como... Não me ocorre nada que seja assaz fixo nesse mundo: talvez a lua, talvez as pirâmides do Egito, talvez a finada dieta germânica. Veja o leitor a comparação que melhor lhe quadrar, veja-a e não esteja daí a torcer-me o nariz, só porque ainda não chegamos à parte narrativa destas memórias. Lá iremos. Creio que prefere a anedota à reflexão, como os outros leitores, seus confrades, e acho que faz muito bem. Pois lá iremos. Todavia, importa dizer que este livro é escrito com pachorra, com a pachorra de um homem já desafrontado da brevidade do século, obra supinamente filosófica, de uma filosofia desigual, agora austera, logo brincalhona, cousa que não edifica nem destrói, não inflama nem regela, e é todavia mais do que passatempo e menos do que apostolado.
 
 Vamos lá; retifique o seu nariz, e tornemos ao emplasto. Deixemos a história com os seus caprichos de dama elegante. Nenhum de nós pelejou a batalha de Salamina, nenhum escreveu a confissão de Augsburgo; pela minha parte, se alguma vez me lembro de Cromwell, é só pela ideia de que Sua Alteza, com a mesma mão que trancara o parlamento, teria imposto aos ingleses o emplasto Brás Cubas. Não se riam dessa vitória comum da farmácia e do puritanismo. Quem não sabe que ao pé de cada bandeira grande, pública, ostensiva, há muitas vezes várias outras bandeiras modestamente particulares, que se hasteiam e flutuam à sombra daquela, e não poucas vezes lhe sobrevivem? Mal comparando, é como a arraia-miúda, que se acolhia à sombra do castelo feudal; caiu este e a arraia ficou. Verdade é que se fez graúda e castelã... Não, a comparação não presta.
 
-* Trata-se do historiador alemão Ferdinand Gregorovius ( 1821 - 91 ), que escreveu História da cidade de Roma, na qual, de certo modo, reabilita a personagem do imperador Cláudio. É também autor de um livro intitulado Lucrécia Bórgia.
-
-** O poeta a que o narrador se refere é Victor Hugo ( 1802 - 85 ), que escreveu o drama histórico intitulado Lucrécia Bórgia, no qual compara a personagem-título a Messalina ( 15 - 48 d.C.), terceira mulher do imperador Cláudio, famosa por seus excessos.
-
-*** A Dieta Germânica era o órgão representativo da Confederação Germânica ( 1815 - 66 ), que se reunia em Frankfurt-am-Main, e na qual os Habsburgo detinham a liderança. O Império Austríaco e o Reino da Prússia eram os maiores e mais importantes membros da Confederação.
-
-### V. Em que aparece a orelha
-
-de uma senhora
+### 005 — Em que Aparece a Orelha de uma Senhora
 
 Senão quando, estando eu ocupado em preparar e apurar a minha invenção, recebi em cheio um golpe de ar; adoeci logo, e não me tratei. Tinha o emplasto no cérebro; trazia comigo a ideia fixa dos doudos e dos fortes. Via-me, ao longe, ascender do chão das turbas, e remontar ao céu, como uma águia imortal, e não é diante de tão excelso espetáculo que um homem pode sentir a dor que o punge. No outro dia estava pior; tratei-me enfim, mas incompletamente, sem método, nem cuidado, nem persistência; tal foi a origem do mal que me trouxe à eternidade. Sabem já que morri numa sexta-feira, dia aziago, e creio haver provado que foi a minha invenção que me matou. Há demonstrações menos lúcidas e não menos triunfantes.
 
@@ -119,11 +83,9 @@ Não era impossível, entretanto, que eu chegasse a galgar o cimo de um século,
 
 Com esta reflexão me despedi eu da mulher, não direi mais discreta, mas com certeza mais formosa entre as contemporâneas suas, a anônima do primeiro capítulo, a tal, cuja imaginação à semelhança das cegonhas do Ilisso... Tinha então cinquenta e quatro anos, era uma ruína, uma imponente ruína. Imagine o leitor que nos amamos, ela e eu, muitos anos antes, e que um dia, já enfermo, vejo-a assomar à porta da alcova...
 
-### VI. Chimène, qui l'eût dit?
+### 006 — Chimène, Qui l'eût Dit? Rodrigue, Qui l'eût Cru?
 
-Rodrigue, qui l'eût cru? *
-
-Vejo-a assomar à porta da alcova, pálida, comovida, trajada de preto, e ali ficar durante um minuto, sem ânimo de entrar, ou detida pela presença de um homem que estava comigo. Da cama, onde jazia, contemplei-a durante esse tempo, esquecido de lhe dizer nada ou de fazer nenhum gesto. Havia já dous anos que nos não víamos, e eu via-a agora não qual era, mas qual fora, quais fôramos ambos, porque um Ezequias misterioso fizera recuar o sol ** até os dias juvenis. Recuou o sol, sacudi todas as misérias, e este punhado de pó, que a morte ia espalhar na eternidade do nada, pôde mais do que o tempo, que é o ministro da morte. Nenhuma água de Juventa igualaria ali a simples saudade.
+Vejo-a assomar à porta da alcova, pálida, comovida, trajada de preto, e ali ficar durante um minuto, sem ânimo de entrar, ou detida pela presença de um homem que estava comigo. Da cama, onde jazia, contemplei-a durante esse tempo, esquecido de lhe dizer nada ou de fazer nenhum gesto. Havia já dous anos que nos não víamos, e eu via-a agora não qual era, mas qual fora, quais fôramos ambos, porque um Ezequias misterioso fizera recuar o sol até os dias juvenis. Recuou o sol, sacudi todas as misérias, e este punhado de pó, que a morte ia espalhar na eternidade do nada, pôde mais do que o tempo, que é o ministro da morte. Nenhuma água de Juventa igualaria ali a simples saudade.
 
 Creiam-me, o menos mau é recordar; ninguém se fie da felicidade presente; há nela uma gota da baba de Caim. Corrido o tempo e cessado o espasmo, então sim, então talvez se pode gozar deveras, porque entre uma e outra dessas duas ilusões, melhor é a que se gosta sem doer.
 
@@ -163,11 +125,7 @@ Sorriu o filho, eu creio que também sorri, e tudo acabou em pura galhofa. Virg�
 
 Era o meu delírio que começava.
 
-* A citação, retirada do ato III, cena IV da tragédia O Cid ( 1637 ), de Corneille ( 1606 - 84 ), está invertida e ganhou dois pontos de interrogação inexistentes no original, em que se lê: " CHIMÈNE: Rodrigue, qui l'eût cru.../ DON RODRIGUE: Chimène, qui l'eût dit..." [ XIMENA: Rodrigo, quem o teria acreditado.../ DOM RODRIGO: Ximena, quem o teria dito...].
-
-** Ezequias, rei da Judeia, filho de Acaz, lutou contra Senaqueribe, rei da Assíria. Na passagem bíblica ( Isaías 38, 8 ), não é Ezequias quem faz recuar o sol, mas, sim, o próprio Senhor, pela voz do profeta Isaías, como sinal de que Deus ouvira a prece a Ele feita por Ezequias.
-
-### VII. O delírio
+### 007 — O Delírio
 
 Que me conste, ainda ninguém relatou o seu próprio delírio; faço-o eu, e a ciência mo agradecerá. Se o leitor não é dado à contemplação destes fenômenos mentais, pode saltar o capítulo; vá direito à narração. Mas, por menos curioso que seja, sempre lhe digo que é interessante saber o que se passou na minha cabeça durante uns vinte a trinta minutos.
 
@@ -179,7 +137,7 @@ Ultimamente, restituído à forma humana, vi chegar um hipopótamo, que me arreb
 
 — Engana-se - replicou o animal -, nós vamos à origem dos séculos.
 
-Insinuei que deveria ser muitíssimo longe; mas o hipopótamo não me entendeu ou não me ouviu, se é que não fingiu uma dessas cousas; e, perguntando-lhe, visto que ele falava, se era descendente do cavalo de Aquiles ou da asna de Balaão, * retorquiu-me com um gesto peculiar a estes dous quadrúpedes: abanou as orelhas. Pela minha parte fechei os olhos e deixei-me ir à ventura. Já agora não se me dá de confessar que sentia umas tais ou quais cócegas de curiosidade, por saber onde ficava a origem dos séculos, se era tão misteriosa como a origem do Nilo, e sobretudo se valia alguma cousa mais ou menos do que a consumação dos mesmos séculos: reflexões de cérebro enfermo. Como ia de olhos fechados, não via o caminho; lembra-me só que a sensação de frio aumentava com a jornada, e que chegou uma ocasião em que me pareceu entrar na região dos gelos eternos. Com efeito, abri os olhos e vi que o meu animal galopava numa planície branca de neve, com uma ou outra montanha de neve, vegetação de neve, e vários animais grandes e de neve. Tudo neve; chegava a gelar-nos um sol de neve. Tentei falar, mas apenas pude grunhir esta pergunta:
+Insinuei que deveria ser muitíssimo longe; mas o hipopótamo não me entendeu ou não me ouviu, se é que não fingiu uma dessas cousas; e, perguntando-lhe, visto que ele falava, se era descendente do cavalo de Aquiles ou da asna de Balaão, retorquiu-me com um gesto peculiar a estes dous quadrúpedes: abanou as orelhas. Pela minha parte fechei os olhos e deixei-me ir à ventura. Já agora não se me dá de confessar que sentia umas tais ou quais cócegas de curiosidade, por saber onde ficava a origem dos séculos, se era tão misteriosa como a origem do Nilo, e sobretudo se valia alguma cousa mais ou menos do que a consumação dos mesmos séculos: reflexões de cérebro enfermo. Como ia de olhos fechados, não via o caminho; lembra-me só que a sensação de frio aumentava com a jornada, e que chegou uma ocasião em que me pareceu entrar na região dos gelos eternos. Com efeito, abri os olhos e vi que o meu animal galopava numa planície branca de neve, com uma ou outra montanha de neve, vegetação de neve, e vários animais grandes e de neve. Tudo neve; chegava a gelar-nos um sol de neve. Tentei falar, mas apenas pude grunhir esta pergunta:
 
 — Onde estamos?
 
@@ -231,13 +189,11 @@ Ao contemplar tanta calamidade, não pude reter um grito de angústia, que Natur
 
 A resposta foi compelir-me fortemente a olhar para baixo, e a ver os séculos que continuavam a passar, velozes e turbulentos, as gerações que se superpunham às gerações, umas tristes, como os Hebreus do cativeiro, outras alegres, como os devassos de Cômodo, e todas elas pontuais na sepultura. Quis fugir, mas uma força misteriosa me retinha os pés; então disse comigo: "Bem, os séculos vão passando, chegará o meu, e passará também, até o último, que me dará a decifração da eternidade". E fixei os olhos, e continuei a ver as idades, que vinham chegando e passando, já então tranquilo e resoluto, não sei até se alegre. Talvez alegre. Cada século trazia a sua porção de sombra e de luz, de apatia e de combate, de verdade e de erro e o seu cortejo de sistemas, de ideias novas, de novas ilusões; em cada um deles rebentavam as verduras de uma primavera, e amareleciam depois, para remoçar mais tarde. Ao passo que a vida tinha assim uma regularidade de calendário, fazia-se a história e a civilização, e o homem, nu e desarmado, armava-se e vestia-se, construía o tugúrio e o palácio, a rude aldeia e Tebas de cem portas, criava a ciência, que perscruta, e a arte que enleva, fazia-se orador, mecânico, filósofo, corria a face do globo, descia ao ventre da terra, subia à esfera das nuvens, colaborando assim na obra misteriosa, com que entretinha a necessidade da vida e a melancolia do desamparo. Meu olhar, enfarado e distraído, viu enfim chegar o século presente, e atrás dele os futuros. Aquele vinha ágil, destro, vibrante, cheio de si, um pouco difuso, audaz, sabedor, mas ao cabo tão miserável como os primeiros, e assim passou e assim passaram os outros, com a mesma rapidez e igual monotonia. Redobrei de atenção; fitei a vista; ia enfim ver o último - o último! Mas então já a rapidez da marcha era tal, que escapava a toda a compreensão; ao pé dela o relâmpago seria um século. Talvez por isso entraram os objetos a trocarem-se; uns cresceram, outros minguaram, outros perderam-se no ambiente; um nevoeiro cobriu tudo - menos o hipopótamo que ali me trouxera, e que aliás começou a diminuir, a diminuir, a diminuir, até ficar do tamanho de um gato. Era efetivamente um gato. Encarei-o bem; era o meu gato Sultão, que brincava à porta da alcova, com uma bola de papel...
 
-* No canto XIX da Ilíada, poema épico atribuído a Homero, o cavalo (Xanto) do herói Aquiles o avisa de que aquela será a última batalha que lutarão juntos. Por sua vez, a asna de Balaão (adivinho do Antigo Testamento) foi milagrosamente dotada com o dom da palavra, como se lê em Números 22, 28.
-
-### VIII. Razão contra sandice
+### 008 — Razão Contra Sandice
 
 Já o leitor compreendeu que era a Razão que voltava à casa, e convidava a Sandice a sair, clamando, e com melhor jus, as palavras de Tartufo:
 
-La maison est à moi, c'est à vous d'en sortir. *
+La maison est à moi, c'est à vous d'en sortir.
 
 Mas é sestro antigo da Sandice criar amor às casas alheias, de modo que, apenas senhora de uma, dificilmente lha farão despejar. É sestro; não se tira daí; há muito que lhe calejou a vergonha. Agora, se advertirmos no imenso número de casas que ocupa, umas de vez, outras durante as suas estações calmosas, concluiremos que esta amável peregrina é o terror dos proprietários. No nosso caso, houve quase um distúrbio à porta do meu cérebro, porque a adventícia não queria entregar a casa, e a dona não cedia da intenção de tomar o que era seu. Afinal, já a Sandice se contentava com um cantinho no sótão.
 
@@ -255,13 +211,11 @@ A Razão pôs-se a rir.
 
 E, dizendo isto, travou-lhe dos pulsos e arrastou-a para fora; depois entrou e fechou-se. A Sandice ainda gemeu algumas súplicas, grunhiu algumas zangas; mas desenganou-se depressa, deitou a língua de fora, em ar de surriada, e foi andando...
 
-* Machado adultera dois versos do ato IV, cena VII, versos 18 - 9 da peça Tartufo, de Molière ( 1622 - 73 ), e os condensa em apenas um. Os versos originais são: "C'est à vous d'en sortir, vous qui parlez en maître./ La maison m'appartient, je le ferai connaître" [Sois vós que deveis sair, vós que falais como dono./ A casa me pertence, e eu farei com que se saiba disto]. Adulteração e condensação eram recorrentes no século XIX.
-
-### IX. Transição
+### 009 — Transição
 
 E vejam agora com que destreza, com que arte faço eu a maior transição deste livro. Vejam: o meu delírio começou em presença de Virgília; Virgília foi o meu grão pecado da juventude; não há juventude sem meninice; meninice supõe nascimento; e eis aqui como chegamos nós, sem esforço, ao dia 20 de outubro de 1805, em que nasci. Viram? Nenhuma juntura aparente, nada que divirta a atenção pausada do leitor: nada. De modo que o livro fica assim com todas as vantagens do método, sem a rigidez do método. Na verdade, era tempo. Que isto de método, sendo, como é, uma cousa indispensável, todavia é melhor tê-lo sem gravata nem suspensórios, mas um pouco à fresca e à solta, como quem não se lhe dá da vizinha fronteira, nem do inspetor de quarteirão. É como a eloquência, que há uma genuína e vibrante, de uma arte natural e feiticeira, e outra tesa, engomada e chocha. Vamos ao dia 20 de outubro.
 
-### X. Naquele dia
+### 010 — Naquele Dia
 
 Naquele dia, a árvore dos Cubas brotou uma graciosa flor. Nasci; recebeu-me nos braços a Pascoela, insigne parteira minhota, que se gabava de ter aberto a porta do mundo a uma geração inteira de fidalgos. Não é impossível que meu pai lhe ouvisse tal declaração; creio, todavia, que o sentimento paterno é que o induziu a gratificá-la com duas meias dobras. Lavado e enfaixado, fui desde logo o herói da nossa casa. Cada qual prognosticava a meu respeito o que mais lhe quadrava ao sabor. Meu tio João, o antigo oficial de infantaria, achava-me um certo olhar de Bonaparte, cousa que meu pai não pôde ouvir sem náuseas; meu tio Ildefonso, então simples padre, farejava-me cônego.
 
@@ -269,7 +223,7 @@ Naquele dia, a árvore dos Cubas brotou uma graciosa flor. Nasci; recebeu-me nos
 
 Meu pai respondia a todos que eu seria o que Deus quisesse; e alçava-me ao ar, como se intentasse mostrar-me à cidade e ao mundo; perguntava a todos se eu me parecia com ele, se era inteligente, bonito...
 
-Digo essas cousas por alto, segundo as ouvi narrar anos depois; ignoro a mor parte dos pormenores daquele famoso dia. Sei que a vizinhança veio ou mandou cumprimentar o recém-nascido, e que durante as primeiras semanas muitas foram as visitas em nossa casa. Não houve cadeirinha * que não trabalhasse; aventou-se muita casaca e muito calção. Se não conto os mimos, os beijos, as admirações, as bênçãos, é porque, se os contasse, não acabaria mais o capítulo, e é preciso acabá-lo.
+Digo essas cousas por alto, segundo as ouvi narrar anos depois; ignoro a mor parte dos pormenores daquele famoso dia. Sei que a vizinhança veio ou mandou cumprimentar o recém-nascido, e que durante as primeiras semanas muitas foram as visitas em nossa casa. Não houve cadeirinha que não trabalhasse; aventou-se muita casaca e muito calção. Se não conto os mimos, os beijos, as admirações, as bênçãos, é porque, se os contasse, não acabaria mais o capítulo, e é preciso acabá-lo.
 
 Item, não posso dizer nada do meu batizado, porque nada me referiram a tal respeito, a não ser que foi uma das mais galhardas festas do ano seguinte, 1806; batizei-me na igreja de São Domingos, uma terça-feira de março, dia claro, luminoso e puro, sendo padrinhos o coronel Rodrigues de Matos e sua senhora. Um e outro descendiam de velhas famílias do Norte e honravam deveras o sangue que lhes corria nas veias, outrora derramado na guerra contra Holanda. Cuido que os nomes de ambos foram das primeiras cousas que aprendi; e certamente os dizia com muita graça, ou revelava algum talento precoce, porque não havia pessoa estranha diante de quem me não obrigassem a recitá-los.
 
@@ -287,11 +241,9 @@ Item, comecei a andar, não sei bem quando, mas antes do tempo. Talvez por apres
 
 E eu, atraído pelo chocalho de lata, que minha mãe agitava diante de mim, lá ia para a frente, cai aqui, cai acolá; e andava, provavelmente mal, mas andava, e fiquei andando.
 
-* Referência ao meio de transporte individual que consiste em um assento com encosto, montado sobre dois longos varais paralelos e geralmente conduzido por escravos.
+## Capítulos 011 — 020
 
-## Capítulos 11 a 20
-
-### XI. O menino é pai do homem *
+### 011 — O Menino É Pai do Homem
 
 Cresci; e nisso é que a família não interveio; cresci naturalmente, como crescem as magnólias e os gatos. Talvez os gatos são menos matreiros, e, com certeza, as magnólias são menos inquietas do que eu era na minha infância. Um poeta dizia que o menino é pai do homem. Se isto é verdade, vejamos alguns lineamentos do menino.
 
@@ -307,31 +259,27 @@ De envolta com a transmissão e a educação, houve ainda o exemplo estranho, o 
 
 — Cruz, diabo!... Este sinhô João é o diabo!
 
-Bem diferente era o tio cônego. Esse tinha muita austeridade e pureza; tais dotes, contudo, não realçavam um espírito superior, apenas compensavam um espírito medíocre. Não era homem que visse a parte substancial da Igreja; via o lado externo, a hierarquia, as preeminências, as sobrepelizes, as circunflexões. Vinha antes da sacristia que do altar. Uma lacuna no ritual excitava-o mais do que uma infração dos mandamentos. Agora, a tantos anos de distância, não estou certo se ele poderia atinar facilmente com um trecho de Tertuliano, ou expor, sem titubear, a história do símbolo de Niceia; ** mas ninguém, nas festas cantadas, sabia melhor o número e o caso das cortesias que se deviam ao oficiante. Cônego foi a única ambição de sua vida; e dizia de coração que era a maior dignidade a que podia aspirar. Piedoso, severo nos costumes, minucioso na observância das regras, frouxo, acanhado, subalterno, possuía algumas virtudes, em que era exemplar, mas carecia absolutamente da força de as incutir, de as impor aos outros.
+Bem diferente era o tio cônego. Esse tinha muita austeridade e pureza; tais dotes, contudo, não realçavam um espírito superior, apenas compensavam um espírito medíocre. Não era homem que visse a parte substancial da Igreja; via o lado externo, a hierarquia, as preeminências, as sobrepelizes, as circunflexões. Vinha antes da sacristia que do altar. Uma lacuna no ritual excitava-o mais do que uma infração dos mandamentos. Agora, a tantos anos de distância, não estou certo se ele poderia atinar facilmente com um trecho de Tertuliano, ou expor, sem titubear, a história do símbolo de Niceia; mas ninguém, nas festas cantadas, sabia melhor o número e o caso das cortesias que se deviam ao oficiante. Cônego foi a única ambição de sua vida; e dizia de coração que era a maior dignidade a que podia aspirar. Piedoso, severo nos costumes, minucioso na observância das regras, frouxo, acanhado, subalterno, possuía algumas virtudes, em que era exemplar, mas carecia absolutamente da força de as incutir, de as impor aos outros.
 
 Não digo nada de minha tia materna, d. Emerenciana, e aliás era a pessoa que mais autoridade tinha sobre mim; essa diferençava-se grandemente dos outros; mas viveu pouco tempo em nossa companhia, uns dous anos. Outros parentes e alguns íntimos não merecem a pena de ser citados; não tivemos vida comum, mas intermitente, com grandes claros de separação. O que importa é a expressão geral do meio doméstico, e essa aí fica indicada - vulgaridade de caracteres, amor das aparências rutilantes, do arruído, frouxidão da vontade, domínio do capricho, e o mais. Dessa terra e desse estrume é que nasceu esta flor.
 
-* Este título apropria-se de um verso do poeta inglês William Wordsworth ( 1770 - 1850 ), "The child is father of the man", de um poema conhecido por seu primeiro verso: "My heart leaps up when I behold" [Meu coração dá um salto quando contemplo].
-
-** O símbolo de Niceia (cidade da Ásia Menor que foi palco de dois concílios ecumênicos) é uma versão extensa da oração do Credo, em que se afirma a divindade de Jesus Cristo, bem como a do Espírito Santo, que havia sido posta em dúvida pelas heresias de Ário e de Macedônio.
-
-### XII. Um episódio de 1814
+### 012 — Um Episódio de 1814
 
 Mas eu não quero passar adiante, sem contar sumariamente um galante episódio de 1814; tinha nove anos.
 
 Napoleão, quando eu nasci, estava já em todo o esplendor da glória e do poder; era imperador e granjeara inteiramente a admiração dos homens. Meu pai, que à força de persuadir os outros da nossa nobreza acabara persuadindo-se a si próprio, nutria contra ele um ódio puramente mental. Era isso motivo de renhidas contendas em nossa casa, porque meu tio João, não sei se por espírito de classe e simpatia de ofício, perdoava no déspota o que admirava no general, meu tio padre era inflexível contra o corso, os outros parentes dividiam-se; daí as controvérsias e as rusgas.
 
-Chegando ao Rio de Janeiro a notícia da primeira queda de Napoleão, houve naturalmente grande abalo em nossa casa, mas nenhum chasco ou remoque. Os vencidos, testemunhas do regozijo público, julgaram mais decoroso o silêncio; alguns foram além e bateram palmas. A população, cordialmente alegre, não regateou demonstrações de afeto à real família; houve iluminações, i salvas, Te Deum, cortejo e aclamações. Figurei nesses dias com um espadim novo, que meu padrinho me dera no dia de Santo Antônio; e, francamente, interessava-me mais o espadim do que a queda de Bonaparte. Nunca me esqueceu esse fenômeno. Nunca mais deixei de pensar comigo que o nosso espadim é sempre maior do que a espada de Napoleão. E notem que eu ouvi muito discurso, quando era vivo, li muita página rumorosa de grandes ideias e maiores palavras, mas não sei por quê, no fundo dos aplausos que me arrancavam da boca, lá ecoava alguma vez este conceito de experimentado:
+Chegando ao Rio de Janeiro a notícia da primeira queda de Napoleão, houve naturalmente grande abalo em nossa casa, mas nenhum chasco ou remoque. Os vencidos, testemunhas do regozijo público, julgaram mais decoroso o silêncio; alguns foram além e bateram palmas. A população, cordialmente alegre, não regateou demonstrações de afeto à real família; houve iluminações, salvas, Te Deum, cortejo e aclamações. Figurei nesses dias com um espadim novo, que meu padrinho me dera no dia de Santo Antônio; e, francamente, interessava-me mais o espadim do que a queda de Bonaparte. Nunca me esqueceu esse fenômeno. Nunca mais deixei de pensar comigo que o nosso espadim é sempre maior do que a espada de Napoleão. E notem que eu ouvi muito discurso, quando era vivo, li muita página rumorosa de grandes ideias e maiores palavras, mas não sei por quê, no fundo dos aplausos que me arrancavam da boca, lá ecoava alguma vez este conceito de experimentado:
 
 — Vai-te embora, tu só cuidas do espadim.
 
-Não se contentou a minha família em ter um quinhão anônimo no regozijo público; entendeu oportuno e indispensável celebrar a destituição do imperador com um jantar, ii e tal jantar que o ruído das aclamações chegasse aos ouvidos de Sua Alteza, ou quando menos de seus ministros. Dito e feito. Veio abaixo toda a velha prataria, herdada do meu avô Luís Cubas; vieram as toalhas de Flandres, as grandes jarras da Índia; matou-se um capado; encomendaram-se às madres da Ajuda as compotas e marmeladas; lavaram-se, arearam-se, poliram-se as salas, escadas, castiçais, arandelas, as vastas mangas de vidro, todos os aparelhos do luxo clássico.
+Não se contentou a minha família em ter um quinhão anônimo no regozijo público; entendeu oportuno e indispensável celebrar a destituição do imperador com um jantar, e tal jantar que o ruído das aclamações chegasse aos ouvidos de Sua Alteza, ou quando menos de seus ministros. Dito e feito. Veio abaixo toda a velha prataria, herdada do meu avô Luís Cubas; vieram as toalhas de Flandres, as grandes jarras da Índia; matou-se um capado; encomendaram-se às madres da Ajuda as compotas e marmeladas; lavaram-se, arearam-se, poliram-se as salas, escadas, castiçais, arandelas, as vastas mangas de vidro, todos os aparelhos do luxo clássico.
 
 Dada a hora, achou-se reunida uma sociedade seleta, o juiz de fora, três ou quatro oficiais militares, alguns comerciantes e letrados, vários funcionários da administração, uns com suas mulheres e filhas, outros sem elas, mas todos comungando no desejo de atolar a memória de Bonaparte no papo de um peru. Não era um jantar, mas um Te Deum; foi o que pouco mais ou menos disse um dos letrados presentes, o Dr. Vilaça, glosador insigne, que acrescentou aos pratos de casa o acepipe das musas. Lembra-me, como se fosse ontem, lembra-me de o ver erguer-se, com a sua longa cabeleira de rabicho, casaca de seda, uma esmeralda no dedo, pedir a meu tio padre que lhe repetisse o mote, e, repetido o mote, cravar os olhos na testa de uma senhora, depois tossir, alçar a mão direita, toda fechada, menos o dedo índice, que apontava para o teto; e, assim posto e composto, devolver o mote glosado. Não fez uma glosa, mas três; depois jurou aos seus deuses não acabar mais. Pedia um mote, davam-lho, ele glosava-o prontamente, e logo pedia outro e mais outro; a tal ponto que uma das senhoras presentes não pôde calar a sua grande admiração.
 
-— A senhora diz isso - retorquia modestamente o Vilaça - porque nunca ouviu o Bocage, como eu ouvi, no fim do século, em Lisboa. Aquilo sim! Que facilidade! E que versos! Tivemos lutas de uma e duas horas, no botequim do Nicola, iii a glosarmos, no meio de palmas e bravos. Imenso talento o do Bocage! Era o que me dizia, há dias, a Sra. duquesa de Cadaval...
+— A senhora diz isso - retorquia modestamente o Vilaça - porque nunca ouviu o Bocage, como eu ouvi, no fim do século, em Lisboa. Aquilo sim! Que facilidade! E que versos! Tivemos lutas de uma e duas horas, no botequim do Nicola, a glosarmos, no meio de palmas e bravos. Imenso talento o do Bocage! Era o que me dizia, há dias, a Sra. duquesa de Cadaval...
 
-E estas três palavras últimas, expressas com muita ênfase, produziram em toda a assembleia um frêmito de admiração e pasmo. Pois esse homem tão dado, tão simples, além de pleitear com poetas, discreteava com duquesas! Um Bocage e uma Cadaval! Ao contato de tal homem, as damas sentiam-se superfinas; os varões olhavam-no com respeito, alguns, com inveja, não raros, com incredulidade. Ele, entretanto, ia caminho, a acumular adjetivo sobre adjetivo, advérbio sobre advérbio, a desfiar todas as rimas de tirano e de usurpador. Era à sobremesa; ninguém já pensava em comer. No intervalo das glosas, corria um burburinho alegre, um palavrear de estômagos satisfeitos; os olhos moles e úmidos, ou vivos e cálidos, espreguiçavam-se ou saltitavam de uma ponta à outra da mesa, atulhada de doces e frutas, aqui o ananás em fatias, ali o melão em talhadas, as compoteiras de cristal deixando ver o doce de coco, finamente ralado, amarelo como uma gema - ou então o melado escuro e grosso, não longe do queijo e do cará. De quando em quando um riso jovial, amplo, desabotoado, um riso de família, vinha quebrar a gravidade política do banquete. No meio do interesse grande e comum, agitavam-se também os pequenos e particulares. As moças falavam das modinhas que haviam de cantar ao cravo, e do minuete e do solo inglês; iv nem faltava matrona que prometesse bailar um oitavado de compasso, só para mostrar como folgara nos seus bons tempos de criança. Um sujeito, ao pé de mim, dava a outro notícia recente dos negros novos que estavam a vir, segundo cartas que recebera de Luanda, uma carta em que o sobrinho lhe dizia ter já negociado cerca de quarenta cabeças, e outra carta em que... Trazia-as justamente na algibeira, mas não as podia ler naquela ocasião. O que afiançava é que podíamos contar, só nessa viagem, uns cento e vinte negros, pelo menos.
+E estas três palavras últimas, expressas com muita ênfase, produziram em toda a assembleia um frêmito de admiração e pasmo. Pois esse homem tão dado, tão simples, além de pleitear com poetas, discreteava com duquesas! Um Bocage e uma Cadaval! Ao contato de tal homem, as damas sentiam-se superfinas; os varões olhavam-no com respeito, alguns, com inveja, não raros, com incredulidade. Ele, entretanto, ia caminho, a acumular adjetivo sobre adjetivo, advérbio sobre advérbio, a desfiar todas as rimas de tirano e de usurpador. Era à sobremesa; ninguém já pensava em comer. No intervalo das glosas, corria um burburinho alegre, um palavrear de estômagos satisfeitos; os olhos moles e úmidos, ou vivos e cálidos, espreguiçavam-se ou saltitavam de uma ponta à outra da mesa, atulhada de doces e frutas, aqui o ananás em fatias, ali o melão em talhadas, as compoteiras de cristal deixando ver o doce de coco, finamente ralado, amarelo como uma gema - ou então o melado escuro e grosso, não longe do queijo e do cará. De quando em quando um riso jovial, amplo, desabotoado, um riso de família, vinha quebrar a gravidade política do banquete. No meio do interesse grande e comum, agitavam-se também os pequenos e particulares. As moças falavam das modinhas que haviam de cantar ao cravo, e do minuete e do solo inglês; nem faltava matrona que prometesse bailar um oitavado de compasso, só para mostrar como folgara nos seus bons tempos de criança. Um sujeito, ao pé de mim, dava a outro notícia recente dos negros novos que estavam a vir, segundo cartas que recebera de Luanda, uma carta em que o sobrinho lhe dizia ter já negociado cerca de quarenta cabeças, e outra carta em que... Trazia-as justamente na algibeira, mas não as podia ler naquela ocasião. O que afiançava é que podíamos contar, só nessa viagem, uns cento e vinte negros, pelo menos.
 
 — Trás... trás... trás... - fazia o Vilaça batendo com as mãos uma na outra. O rumor cessava de súbito, como um estacado de orquestra, e todos os olhos se voltavam para o glosador. Quem ficava longe aconcheava a mão atrás da orelha para não perder palavra; a mor parte, antes mesmo da glosa, tinha já um meio riso de aplauso, trivial e cândido.
 
@@ -353,7 +301,7 @@ Tinham penetrado numa pequena moita; era lusco-fusco; eu segui-os. O Vilaça lev
 
 D. Eusébia levou o lenço aos olhos. O glosador vasculhava na memória algum pedaço literário e achou este, que mais tarde verifiquei ser de uma das óperas do Judeu.
 
-— Não chores, meu bem; não queiras que o dia amanheça com duas auroras. v
+— Não chores, meu bem; não queiras que o dia amanheça com duas auroras.
 
 Disse isto; puxou-a para si; ela resistiu um pouco, mas deixou-se ir; uniram-se os rostos, e eu ouvi estalar, muito ao de leve, um beijo, o mais medroso dos beijos.
 
@@ -363,43 +311,25 @@ Foi um estouro esta minha palavra; a estupefação imobilizou a todos; os olhos 
 
 — Ah! Brejeiro! Ah! Brejeiro!
 
-i Nas "iluminações" ou "festas de luminárias", a população era chamada a enfeitar a cidade para celebrar acontecimentos especiais.
-
-ii No Brasil do século XIX, o jantar era a refeição mais substancial do dia, servida na parte da tarde, e não à noite.
-
-iii No século XVIII, um italiano chamado Nicola inaugurou no largo do Rossio, na Baixa de Lisboa, um dos primeiros cafés da cidade, frequentado por escritores, artistas e políticos. Entre os mais assíduos clientes figurava o poeta Bocage ( 1765 - 1805 ).
-
-iv O "solo inglês" é uma dança com sapateado, executada por apenas uma pessoa, muito popular na primeira metade do século XIX no Brasil.
-
-v O "Judeu" é Antônio José da Silva, comediógrafo português nascido no Rio de Janeiro em 1705, que morreu queimado em Lisboa, em 1739, por sentença da Inquisição. A referência é à peça (aqui chamada de "ópera") Anfitrião, ou Júpiter e Alcmena (parte I, cena V ), na qual Júpiter, disfarçado de Anfitrião, fala a Alcmena, cheia de tristeza ao vê-lo partir, depois de terem passado a noite juntos.
-
-vi No Brasil do século XIX, o almoço era a primeira refeição substancial do dia, servida depois do desjejum, ainda durante a manhã.
-
-### XIII. Um salto
+### 013 — Um Salto
 
 Unamos agora os pés e demos um salto por cima da escola, a enfadonha escola, onde aprendi a ler, escrever, contar, dar cacholetas, apanhá-las, e ir fazer diabruras, ora nos morros, ora nas praias, onde quer que fosse propício a ociosos.
 
-Tinha amarguras esse tempo; tinha os ralhos, os castigos, as lições árduas e longas, e pouco mais, mui pouco e mui leve. Só era pesada a palmatória, e ainda assim... Ó palmatória, terror dos meus dias pueris, tu que foste o compelle intrare * com que um velho mestre, ossudo e calvo, me incutiu no cérebro o alfabeto, a prosódia, a sintaxe, e o mais que ele sabia, benta palmatória, tão praguejada dos modernos, quem me dera ter ficado sob o teu jugo, com a minha alma imberbe, as minhas ignorâncias, e o meu espadim, aquele espadim de 1814, tão superior à espada de Napoleão! Que querias tu, afinal, meu velho mestre de primeiras letras? Lição de cor e compostura na aula; nada mais, nada menos do que quer a vida, que é das últimas letras; com a diferença que tu, se me metias medo, nunca me meteste zanga. Vejo-te ainda agora entrar na sala, com as tuas chinelas de couro branco, capote, lenço na mão, calva à mostra, barba rapada; vejo-te sentar, bufar, grunhir, absorver uma pitada inicial, ** e chamar-nos depois à lição. E fizeste isto durante vinte e três anos, calado, obscuro, pontual, metido numa casinha da rua do Piolho, sem enfadar o mundo com a tua mediocridade, até que um dia deste o grande mergulho nas trevas, e ninguém te chorou, salvo um preto velho - ninguém, nem eu, que te devo os rudimentos da escrita.
+Tinha amarguras esse tempo; tinha os ralhos, os castigos, as lições árduas e longas, e pouco mais, mui pouco e mui leve. Só era pesada a palmatória, e ainda assim... Ó palmatória, terror dos meus dias pueris, tu que foste o compelle intrare com que um velho mestre, ossudo e calvo, me incutiu no cérebro o alfabeto, a prosódia, a sintaxe, e o mais que ele sabia, benta palmatória, tão praguejada dos modernos, quem me dera ter ficado sob o teu jugo, com a minha alma imberbe, as minhas ignorâncias, e o meu espadim, aquele espadim de 1814, tão superior à espada de Napoleão! Que querias tu, afinal, meu velho mestre de primeiras letras? Lição de cor e compostura na aula; nada mais, nada menos do que quer a vida, que é das últimas letras; com a diferença que tu, se me metias medo, nunca me meteste zanga. Vejo-te ainda agora entrar na sala, com as tuas chinelas de couro branco, capote, lenço na mão, calva à mostra, barba rapada; vejo-te sentar, bufar, grunhir, absorver uma pitada inicial, e chamar-nos depois à lição. E fizeste isto durante vinte e três anos, calado, obscuro, pontual, metido numa casinha da rua do Piolho, sem enfadar o mundo com a tua mediocridade, até que um dia deste o grande mergulho nas trevas, e ninguém te chorou, salvo um preto velho - ninguém, nem eu, que te devo os rudimentos da escrita.
 
-Chamava-se Ludgero o mestre; quero escrever-lhe o nome todo nesta página: Ludgero Barata - um nome funesto, que servia aos meninos de eterno mote a chufas. Um de nós, o Quincas Borba, *** esse então era cruel com o pobre homem. Duas, três vezes por semana, havia de lhe deixar na algibeira das calças - umas largas calças de enfiar -, ou na gaveta da mesa, ou ao pé do tinteiro, uma barata morta. Se ele a encontrava ainda nas horas da aula, dava um pulo, circulava os olhos chamejantes, dizia-nos os últimos nomes: éramos sevandijas, capadócios, malcriados, moleques. Uns tremiam, outros rosnavam; o Quincas Borba, porém, deixava-se estar quieto, com os olhos espetados no ar.
+Chamava-se Ludgero o mestre; quero escrever-lhe o nome todo nesta página: Ludgero Barata - um nome funesto, que servia aos meninos de eterno mote a chufas. Um de nós, o Quincas Borba, esse então era cruel com o pobre homem. Duas, três vezes por semana, havia de lhe deixar na algibeira das calças - umas largas calças de enfiar -, ou na gaveta da mesa, ou ao pé do tinteiro, uma barata morta. Se ele a encontrava ainda nas horas da aula, dava um pulo, circulava os olhos chamejantes, dizia-nos os últimos nomes: éramos sevandijas, capadócios, malcriados, moleques. Uns tremiam, outros rosnavam; o Quincas Borba, porém, deixava-se estar quieto, com os olhos espetados no ar.
 
 Uma flor, o Quincas Borba. Nunca em minha infância, nunca em toda a minha vida, achei um menino mais gracioso, inventivo e travesso. Era a flor, e não já da escola, senão de toda a cidade. A mãe, viúva, com alguma cousa de seu, adorava o filho e trazia-o amimado, asseado, enfeitado, com um vistoso pajem atrás, um pajem que nos deixava gazear a escola, ir caçar ninhos de pássaros, ou perseguir lagartixas nos morros do Livramento e da Conceição ou simplesmente arruar, à toa, como dous peraltas sem emprego. E de imperador! Era um gosto ver o Quincas Borba fazer de imperador nas festas do Espírito Santo. De resto, nos nossos jogos pueris, ele escolhia sempre um papel de rei, ministro, general, uma supremacia, qualquer que fosse. Tinha garbo, o traquinas, e gravidade, certa magnificência nas atitudes, nos meneios. Quem diria que... Suspendamos a pena; não adiantemos os sucessos. Vamos de um salto a 1822, data da nossa independência política, e do meu primeiro cativeiro pessoal.
 
-* A expressão, empregada por Jesus Cristo na parábola da grande ceia, narrada no evangelho de Lucas ( 14, 23 ), significa: "Obriga-os a entrar".
-
-** A "pitada" era de rapé. O hábito de cheirar rapé foi muito popular nos séculos XVIII e XIX.
-
-*** Quincas Borba é uma personagem central no romance homônimo de Machado de Assis, publicado em livro em 1891, dez anos depois da publicação em livro de Memórias póstumas de Brás Cubas.
-
-### XIV. O primeiro beijo
+### 014 — O Primeiro Beijo
 
 Tinha dezessete anos; pungia-me um buçozinho que eu forcejava por trazer a bigode. Os olhos, vivos e resolutos, eram a minha feição verdadeiramente máscula. Como ostentasse certa arrogância, não se distinguia bem se era uma criança com fumos de homem, se um homem com ares de menino. Ao cabo, era um lindo garção, lindo e audaz, que entrava na vida de botas e esporas, chicote na mão e sangue nas veias, cavalgando um corcel nervoso, rijo, veloz, como o corcel das antigas baladas, que o romantismo foi buscar ao castelo medieval, para dar com ele nas ruas do nosso século. O pior é que o estafaram a tal ponto, que foi preciso deitá-lo à margem, onde o realismo o veio achar, comido de lazeira e vermes, e, por compaixão, o transportou para os seus livros.
 
-Sim, eu era esse garção bonito, airoso, abastado; e facilmente se imagina que mais de uma dama inclinou diante de mim a fronte pensativa, ou levantou para mim os olhos cobiçosos. De todas porém a que me cativou logo foi uma... uma... não sei se diga; este livro é casto, ao menos na intenção; na intenção é castíssimo. Mas vá lá; ou se há de dizer tudo ou nada. A que me cativou foi uma dama espanhola, Marcela, a "linda Marcela", como lhe chamavam os rapazes do tempo. E tinham razão os rapazes. Era filha de um hortelão das Astúrias; disse-mo ela mesma, num dia de sinceridade, porque a opinião aceita é que nascera de um letrado de Madri, vítima da invasão francesa, * ferido, encarcerado, espingardeado, quando ela tinha apenas doze anos. Cosas de España. Quem quer que fosse, porém, o pai, letrado ou hortelão, a verdade é que Marcela não possuía a inocência rústica, e mal chegava a entender a moral do código. Era boa moça, lépida, sem escrúpulos, um pouco tolhida pela austeridade do tempo, que lhe não permitia arrastar pelas ruas os seus estouvamentos e berlindas; luxuosa, impaciente, amiga de dinheiro e de rapazes. Naquele ano, morria de amores por um certo Xavier, sujeito abastado e tísico - uma pérola.
+Sim, eu era esse garção bonito, airoso, abastado; e facilmente se imagina que mais de uma dama inclinou diante de mim a fronte pensativa, ou levantou para mim os olhos cobiçosos. De todas porém a que me cativou logo foi uma... uma... não sei se diga; este livro é casto, ao menos na intenção; na intenção é castíssimo. Mas vá lá; ou se há de dizer tudo ou nada. A que me cativou foi uma dama espanhola, Marcela, a "linda Marcela", como lhe chamavam os rapazes do tempo. E tinham razão os rapazes. Era filha de um hortelão das Astúrias; disse-mo ela mesma, num dia de sinceridade, porque a opinião aceita é que nascera de um letrado de Madri, vítima da invasão francesa, ferido, encarcerado, espingardeado, quando ela tinha apenas doze anos. Cosas de España. Quem quer que fosse, porém, o pai, letrado ou hortelão, a verdade é que Marcela não possuía a inocência rústica, e mal chegava a entender a moral do código. Era boa moça, lépida, sem escrúpulos, um pouco tolhida pela austeridade do tempo, que lhe não permitia arrastar pelas ruas os seus estouvamentos e berlindas; luxuosa, impaciente, amiga de dinheiro e de rapazes. Naquele ano, morria de amores por um certo Xavier, sujeito abastado e tísico - uma pérola.
 
 Vi-a pela primeira vez, no Rossio Grande, na noite das luminárias, logo que constou a declaração da independência, uma festa de primavera, um amanhecer da alma pública. Éramos dous rapazes, o povo e eu; vínhamos da infância, com todos os arrebatamentos da juventude. Vi-a sair de uma cadeirinha, airosa e vistosa, um corpo esbelto, ondulante, um desgarre, alguma cousa que nunca achara nas mulheres puras. - Segue-me - disse ela ao pajem. E eu segui-a, tão pajem como o outro, como se a ordem me fosse dada, deixei-me ir namorado, vibrante, cheio das primeiras auroras. A meio caminho, chamaram-lhe "linda Marcela", lembrou-me que ouvira tal nome a meu tio João, e fiquei, confesso que fiquei tonto.
 
-Três dias depois perguntou-me meu tio, em segredo, se queria ir a uma ceia de moças, nos Cajueiros. Fomos; era em casa de Marcela. O Xavier, com todos os seus tubérculos, presidia ao banquete noturno, em que eu pouco ou nada comi, porque só tinha olhos para a dona da casa. Que gentil que estava a espanhola! Havia mais uma meia dúzia de mulheres - todas de partido -, ** e bonitas, cheias de graça, mas a espanhola... O entusiasmo, alguns goles de vinho, o gênio imperioso, estouvado, tudo isso me levou a fazer uma cousa única; à saída, à porta da rua, disse a meu tio que esperasse um instante, e tornei a subir as escadas.
+Três dias depois perguntou-me meu tio, em segredo, se queria ir a uma ceia de moças, nos Cajueiros. Fomos; era em casa de Marcela. O Xavier, com todos os seus tubérculos, presidia ao banquete noturno, em que eu pouco ou nada comi, porque só tinha olhos para a dona da casa. Que gentil que estava a espanhola! Havia mais uma meia dúzia de mulheres - todas de partido -, e bonitas, cheias de graça, mas a espanhola... O entusiasmo, alguns goles de vinho, o gênio imperioso, estouvado, tudo isso me levou a fazer uma cousa única; à saída, à porta da rua, disse a meu tio que esperasse um instante, e tornei a subir as escadas.
 
 — Esqueceu alguma cousa? - perguntou Marcela de pé, no patamar.
 
@@ -407,21 +337,17 @@ Três dias depois perguntou-me meu tio, em segredo, se queria ir a uma ceia de m
 
 Ela ia abrir-me caminho para tornar à sala; eu segurei-lhe nas mãos, puxei-a para mim, e dei-lhe um beijo. Não sei se ela disse alguma cousa, se gritou, se chamou alguém; não sei nada; sei que desci outra vez as escadas, veloz como um tufão, e incerto como um ébrio.
 
-* Referência à invasão da Península Ibérica pelas tropas napoleônicas, no início do século XIX.
+### 015 — Marcela
 
-** Referência às cortesãs, que trocavam seus afetos por dinheiro ou presentes de alto valor.
-
-### XV. Marcela
-
-Gastei trinta dias para ir do Rossio Grande ao coração de Marcela, não já cavalgando o corcel do cego desejo, mas o asno da paciência, a um tempo manhoso e teimoso. Que, em verdade, há dous meios de granjear a vontade das mulheres: o violento, como o touro de Europa, e o insinuativo, como o cisne de Leda e a chuva de ouro de Dânae, três inventos do padre Zeus, i que, por estarem fora da moda, aí ficam trocados no cavalo e no asno. Não direi as traças ii que urdi, nem as peitas, nem as alternativas de confiança e temor, nem as esperas baldadas, nem nenhuma outra dessas cousas preliminares. Afirmo-lhes que o asno foi digno do corcel - um asno de Sancho, deveras filósofo, que me levou à casa dela, no fim do citado período; apeei-me, bati-lhe na anca e mandei-o pastar.
+Gastei trinta dias para ir do Rossio Grande ao coração de Marcela, não já cavalgando o corcel do cego desejo, mas o asno da paciência, a um tempo manhoso e teimoso. Que, em verdade, há dous meios de granjear a vontade das mulheres: o violento, como o touro de Europa, e o insinuativo, como o cisne de Leda e a chuva de ouro de Dânae, três inventos do padre Zeus, que, por estarem fora da moda, aí ficam trocados no cavalo e no asno. Não direi as traças que urdi, nem as peitas, nem as alternativas de confiança e temor, nem as esperas baldadas, nem nenhuma outra dessas cousas preliminares. Afirmo-lhes que o asno foi digno do corcel - um asno de Sancho, deveras filósofo, que me levou à casa dela, no fim do citado período; apeei-me, bati-lhe na anca e mandei-o pastar.
 
 Primeira comoção da minha juventude, que doce que me foste! Tal devia ser, na criação bíblica, o efeito do primeiro sol. Imagina tu esse efeito do primeiro sol, a bater de chapa na face de um mundo em flor. Pois foi a mesma cousa, leitor amigo, e se alguma vez contaste dezoito anos, deves lembrar-te que foi assim mesmo.
 
-Teve duas fases a nossa paixão, ou ligação, ou qualquer outro nome, que eu de nomes não curo; teve a fase consular e a fase imperial. iii Na primeira, que foi curta, regemos o Xavier e eu, sem que ele jamais acreditasse dividir comigo o governo de Roma; mas, quando a credulidade não pôde resistir à evidência, o Xavier depôs as insígnias, e eu concentrei todos os poderes na minha mão; foi a fase cesariana. Era meu o universo; mas, ai triste! Não o era de graça. Foi-me preciso coligir dinheiro, multiplicá-lo, inventá-lo. Primeiro explorei as larguezas de meu pai; ele dava-me tudo o que eu lhe pedia sem repreensão, sem demora, sem frieza; dizia a todos que eu era rapaz e que ele o fora também. Mas a tal extremo chegou o abuso, que ele restringiu um pouco as franquezas, depois mais, depois mais. Então recorri a minha mãe, e induzi-a a desviar alguma cousa, que me dava às escondidas. Era pouco; lancei mão de um recurso último: entrei a sacar sobre a herança de meu pai, a assinar obrigações, que devia resgatar um dia com usura.
+Teve duas fases a nossa paixão, ou ligação, ou qualquer outro nome, que eu de nomes não curo; teve a fase consular e a fase imperial. Na primeira, que foi curta, regemos o Xavier e eu, sem que ele jamais acreditasse dividir comigo o governo de Roma; mas, quando a credulidade não pôde resistir à evidência, o Xavier depôs as insígnias, e eu concentrei todos os poderes na minha mão; foi a fase cesariana. Era meu o universo; mas, ai triste! Não o era de graça. Foi-me preciso coligir dinheiro, multiplicá-lo, inventá-lo. Primeiro explorei as larguezas de meu pai; ele dava-me tudo o que eu lhe pedia sem repreensão, sem demora, sem frieza; dizia a todos que eu era rapaz e que ele o fora também. Mas a tal extremo chegou o abuso, que ele restringiu um pouco as franquezas, depois mais, depois mais. Então recorri a minha mãe, e induzi-a a desviar alguma cousa, que me dava às escondidas. Era pouco; lancei mão de um recurso último: entrei a sacar sobre a herança de meu pai, a assinar obrigações, que devia resgatar um dia com usura.
 
 — Em verdade - dizia-me Marcela, quando eu lhe levava alguma seda, alguma joia -, em verdade, você quer brigar comigo... Pois isto é cousa que se faça... um presente tão caro...
 
-E, se era joia, dizia isto a contemplá-la entre os dedos, a procurar melhor luz, a ensaiá-la em si, e a rir, e a beijar-me com uma reincidência impetuosa e sincera; mas, protestando, derramava-se-lhe a felicidade dos olhos, e eu sentia-me feliz com vê-la assim. Gostava muito das nossas antigas dobras de ouro, e eu levava-lhe quantas podia obter; Marcela juntava-as todas dentro de uma caixinha de ferro, cuja chave ninguém nunca jamais soube onde ficava; escondia-a por medo dos escravos. A casa em que morava, nos Cajueiros, era própria. Eram sólidos e bons os móveis, de jacarandá lavrado, e todas as demais alfaias, espelhos, jarras, baixela - uma linda baixela da Índia, que lhe doara um desembargador. Baixela do diabo, deste-me grandes repelões aos nervos. Disse-o muita vez à própria dona; não lhe dissimulava o tédio que me faziam esses e outros despojos dos seus amores de antanho. Ela ouvia-me e ria, com uma expressão cândida - cândida e outra cousa, que eu nesse tempo não entendia bem; mas agora, relembrando o caso, penso que era um riso misto, como devia ter a criatura que nascesse, por exemplo, de uma bruxa de Shakespeare com um serafim de Klopstock. iv Não sei se me explico. E porque tinha notícia dos meus zelos tardios, parece que gostava de os açular mais. Assim foi que um dia, como eu lhe não pudesse dar certo colar, que ela vira num joalheiro, retorquiu-me que era um simples gracejo, que o nosso amor não precisava de tão vulgar estímulo.
+E, se era joia, dizia isto a contemplá-la entre os dedos, a procurar melhor luz, a ensaiá-la em si, e a rir, e a beijar-me com uma reincidência impetuosa e sincera; mas, protestando, derramava-se-lhe a felicidade dos olhos, e eu sentia-me feliz com vê-la assim. Gostava muito das nossas antigas dobras de ouro, e eu levava-lhe quantas podia obter; Marcela juntava-as todas dentro de uma caixinha de ferro, cuja chave ninguém nunca jamais soube onde ficava; escondia-a por medo dos escravos. A casa em que morava, nos Cajueiros, era própria. Eram sólidos e bons os móveis, de jacarandá lavrado, e todas as demais alfaias, espelhos, jarras, baixela - uma linda baixela da Índia, que lhe doara um desembargador. Baixela do diabo, deste-me grandes repelões aos nervos. Disse-o muita vez à própria dona; não lhe dissimulava o tédio que me faziam esses e outros despojos dos seus amores de antanho. Ela ouvia-me e ria, com uma expressão cândida - cândida e outra cousa, que eu nesse tempo não entendia bem; mas agora, relembrando o caso, penso que era um riso misto, como devia ter a criatura que nascesse, por exemplo, de uma bruxa de Shakespeare com um serafim de Klopstock. Não sei se me explico. E porque tinha notícia dos meus zelos tardios, parece que gostava de os açular mais. Assim foi que um dia, como eu lhe não pudesse dar certo colar, que ela vira num joalheiro, retorquiu-me que era um simples gracejo, que o nosso amor não precisava de tão vulgar estímulo.
 
 — Não lhe perdoo, se você fizer de mim essa triste ideia - concluiu ameaçando-me com o dedo.
 
@@ -457,19 +383,11 @@ Entretanto, pagava-me à farta os sacrifícios; espreitava os meus mais recôndi
 
 E ia a pôr o vestido, a renda, os brincos, com uma obediência de encantar.
 
-i Segundo a mitologia clássica, Europa foi raptada por Zeus transformado em touro, que a levou para Creta, onde ela deu à luz Minos, Sarpédon e Radamanto; já para conquistar Leda, Zeus tomou a forma de um cisne; para chegar a Dânae, que era mantida reclusa em uma torre pelo pai (Acrísio, o rei de Argos), Zeus transformou-se em uma chuva de ouro, encontro do qual nasceu Perseu.
-
-ii "Traças" é aqui empregado no sentido de "modo ardiloso de conseguir alguma coisa; artifício, manha, ardil".
-
-iii Durante a República romana, o poder civil e o comando militar cabiam a dois cônsules. No Império, o poder foi centralizado no imperador (ou césar, daí, "fase cesariana").
-
-iv Possível alusão à tragédia Macbeth ( c. 1606 ), na qual há três bruxas. O serafim de Klopstock ( 1724 - 1803 ) é provavelmente um personagem do poema Messíada, sua obra mais conhecida.
-
-### XVI. Uma reflexão imoral
+### 016 — Uma Reflexão Imoral
 
 Ocorre-me uma reflexão imoral, que é ao mesmo tempo uma correção de estilo. Cuido haver dito, no capítulo XIV, que Marcela morria de amores pelo Xavier. Não morria, vivia. Viver não é a mesma cousa que morrer; assim o afirmam todos os joalheiros desse mundo, gente muito vista na gramática. Bons joalheiros, que seria do amor se não fossem os vossos dixes e fiados? Um terço ou um quinto do universal comércio dos corações. Esta é a reflexão imoral que eu pretendia fazer, a qual é ainda mais obscura do que imoral, porque não se entende bem o que eu quero dizer. O que eu quero dizer é que a mais bela testa do mundo não fica menos bela, se a cingir um diadema de pedras finas; nem menos bela, nem menos amada. Marcela, por exemplo, que era bem bonita, Marcela amou-me...
 
-### XVII. Do trapézio e outras cousas
+### 017 — Do Trapézio e Outras Cousas
 
 ... Marcela amou-me durante quinze meses e onze contos de réis; nada menos. Meu pai, logo que teve aragem dos onze contos, sobressaltou-se deveras; achou que o caso excedia as raias de um capricho juvenil.
 
@@ -533,7 +451,7 @@ Marcela refletiu um instante. Não gostei da expressão com que passeava os olho
 
 Agradeci-lho de joelhos. Tinha achado a minha Marcela dos primeiros dias, e disse-lho; ela sorriu, e foi guardar a joia, enquanto eu descia a escada.
 
-### XVIII. Visão do corredor
+### 018 — Visão do Corredor
 
 No fim da escada, ao fundo do corredor escuro, parei alguns instantes para respirar, apalpar-me, convocar as ideias dispersas, reaver-me enfim no meio de tantas sensações profundas e contrárias. Achava-me feliz. Certo é que os diamantes corrompiam-me um pouco a felicidade; mas não é menos certo que uma dama bonita pode muito bem amar os gregos e os seus presentes. E depois eu confiava na minha boa Marcela; podia ter defeitos, mas amava-me...
 
@@ -541,11 +459,9 @@ No fim da escada, ao fundo do corredor escuro, parei alguns instantes para respi
 
 E aí, como um escárnio, vi o olhar de Marcela, aquele olhar que pouco antes me dera uma sombra de desconfiança, o qual chispava de cima de um nariz, que era ao mesmo tempo o nariz de Bakbarah e o meu. Pobre namorado das Mil e uma noites! Vi-te ali mesmo correr atrás da mulher do vizir, ao longo da galeria, ela a acenar-te com a posse, e tu a correr, a correr, a correr, até a alameda comprida, donde saíste à rua, onde todos os correeiros te apuparam e desancaram. Então pareceu-me que o corredor de Marcela era a alameda, e que a rua era a de Bagdá. Com efeito, olhando para a porta, vi na calçada três dos correeiros, um de batina, outro de libré, outro à paisana, os quais todos três entraram no corredor, tomaram-me pelos braços, meteram-me numa sege, meu pai à direita, meu tio cônego à esquerda, o da libré na boleia, e lá me levaram à casa do intendente de polícia, donde fui transportado a uma galera que devia seguir para Lisboa. Imaginem se resisti; mas toda a resistência era inútil.
 
-Três dias depois segui barra fora, * abatido e mudo. Não chorava sequer; tinha uma ideia fixa... Malditas ideias fixas! A dessa ocasião era dar um mergulho no oceano, repetindo o nome de Marcela.
+Três dias depois segui barra fora, abatido e mudo. Não chorava sequer; tinha uma ideia fixa... Malditas ideias fixas! A dessa ocasião era dar um mergulho no oceano, repetindo o nome de Marcela.
 
-* Barra é a entrada da baía de Guanabara, entre os morros Cara de Cão, no Rio de Janeiro, e Santa Cruz, em Niterói. Para entrar ou sair do Rio de Janeiro por mar, tem-se de passar por ali para chegar ao oceano Atlântico.
-
-### XIX. A bordo
+### 019 — A Bordo
 
 Éramos onze passageiros, um homem doudo, acompanhado pela mulher, dous rapazes que iam a passeio, quatro comerciantes e dous criados. Meu pai recomendou-me a todos, começando pelo capitão do navio, que aliás tinha muito que cuidar de si, porque, além do mais, levava a mulher tísica em último grau.
 
@@ -609,15 +525,15 @@ No dia seguinte veio ler-me um epicédio composto de fresco, em que estavam memo
 
 Ele levantou os ombros, olhou para o papel, e tornou a recitar a composição, mas já então sem tremuras, acentuando as intenções literárias, dando relevo às imagens e melodia aos versos. No fim, confessou-me que era a sua obra mais acabada; eu disse-lhe que sim; ele apertou-me muito a mão e predisse-me um grande futuro.
 
-### XX. Bacharelo-me
+### 020 — Bacharelo-me
 
 Um grande futuro! Enquanto esta palavra me batia no ouvido, devolvia eu os olhos, ao longe, no horizonte misterioso e vago. Uma ideia expelia outra, a ambição desmontava Marcela. Grande futuro? Talvez naturalista, literato, arqueólogo, banqueiro, político, ou até bispo - bispo que fosse -, uma vez que fosse um cargo, uma preeminência, uma grande reputação, uma posição superior. A ambição, dado que fosse águia, quebrou nessa ocasião o ovo, e desvendou a pupila fulva e penetrante. Adeus, amores! Adeus, Marcela! Dias de delírio, joias sem preço, vida sem regímen, adeus! Cá me vou às fadigas e à glória; deixo-vos com as calcinhas da primeira idade.
 
 E foi assim que desembarquei em Lisboa e segui para Coimbra. A Universidade esperava-me com as suas matérias árduas; estudei-as muito mediocremente, e nem por isso perdi o grau de bacharel; deram-mo com a solenidade do estilo, após os anos da lei; uma bela festa que me encheu de orgulho e de saudades - principalmente de saudades. Tinha eu conquistado em Coimbra uma grande nomeada de folião; era um acadêmico estroina, superficial, tumultuário e petulante, dado às aventuras, fazendo romantismo prático e liberalismo teórico, vivendo na pura fé dos olhos pretos e das constituições escritas. No dia em que a Universidade me atestou, em pergaminho, uma ciência que eu estava longe de trazer arraigada no cérebro, confesso que me achei de algum modo logrado, ainda que orgulhoso. Explico-me: o diploma era uma carta de alforria; se me dava a liberdade, dava-me a responsabilidade. Guardei-o, deixei as margens do Mondego, e vim por ali fora assaz desconsolado, mas sentindo já uns ímpetos, uma curiosidade, um desejo de acotovelar os outros, de influir, de gozar, de viver - de prolongar a Universidade pela vida adiante...
 
-## Capítulos 21 a 30
+## Capítulos 021 — 030
 
-### XXI. O almocreve
+### 021 — O Almocreve
 
 Vai então, empacou o jumento em que eu vinha montado; fustiguei-o, ele deu dous corcovos, depois mais três, enfim mais um, que me sacudiu fora da sela, com tal desastre, que o pé esquerdo me ficou preso no estribo; tento agarrar-me ao ventre do animal, mas já então, espantado, disparou pela estrada fora. Digo mal: tentou disparar, e efetivamente deu dous saltos, mas um almocreve, que ali estava, acudiu a tempo de lhe pegar na rédea e detê-lo, não sem esforço nem perigo. Dominado o bruto, desvencilhei-me do estribo e pus-me de pé.
 
@@ -643,23 +559,19 @@ Fui aos alforjes, tirei um colete velho, em cujo bolso trazia as cinco moedas de
 
 Ri-me, hesitei, meti-lhe na mão um cruzado em prata, cavalguei o jumento, e segui a trote largo, um pouco vexado, melhor direi um pouco incerto do efeito da pratinha. Mas a algumas braças de distância, olhei para trás, o almocreve fazia-me grandes cortesias, com evidentes mostras de contentamento. Adverti que devia ser assim mesmo; eu pagara-lhe bem, pagara-lhe talvez demais. Meti os dedos no bolso do colete que trazia no corpo e senti umas moedas de cobre; eram os vinténs que eu devera ter dado ao almocreve, em lugar do cruzado em prata. Porque, enfim, ele não levou em mira nenhuma recompensa ou virtude, cedeu a um impulso natural, ao temperamento, aos hábitos do ofício; acresce que a circunstância de estar, não mais adiante nem mais atrás, mas justamente no ponto do desastre, parecia constituí-lo simples instrumento da Providência; e de um ou de outro modo, o mérito do ato era positivamente nenhum. Fiquei desconsolado com esta reflexão, chamei-me pródigo, lancei o cruzado à conta das minhas dissipações antigas; tive (por que não direi tudo?), tive remorsos.
 
-### XXII. Volta ao Rio
+### 022 — Volta ao Rio
 
 Jumento de uma figa, cortaste-me o fio às reflexões. Já agora não digo o que pensei dali até Lisboa, nem o que fiz em Lisboa, na península e em outros lugares da Europa, da velha Europa, que nesse tempo parecia remoçar. Não, não direi que assisti às alvoradas do romantismo, que também eu fui fazer poesia efetiva no regaço da Itália; não direi cousa nenhuma. Teria de escrever um diário de viagem e não umas memórias, como estas são, nas quais só entra a substância da vida.
 
 Ao cabo de alguns anos de peregrinação, atendi às súplicas de meu pai: "Vem", dizia ele na última carta; "se não vieres depressa, acharás tua mãe morta!". Esta última palavra foi para mim um golpe. Eu amava minha mãe; tinha ainda diante dos olhos as circunstâncias da última bênção que ela me dera, a bordo do navio. "Meu triste filho, nunca mais te verei", soluçava a pobre senhora apertando-me ao peito. E essas palavras ressoavam-me agora, como uma profecia realizada.
 
-Note-se que eu estava em Veneza, ainda recendente aos versos de lord Byron; * lá estava, mergulhado em pleno sonho, revivendo o pretérito, crendo-me na Sereníssima República. É verdade; uma vez aconteceu-me perguntar ao locandeiro se o doge ia a passeio nesse dia. - Que doge, signor mio? - Caí em mim, mas não confessei a ilusão; disse-lhe que a minha pergunta era um gênero de charada americana; ele mostrou compreender, e acrescentou que gostava muitos das charadas americanas. Era um locandeiro. Pois deixei tudo isso, o locandeiro, o doge, a ponte dos Suspiros, a gôndola, os versos do lord, as damas do Rialto, deixei tudo e disparei como uma bala na direção do Rio de Janeiro.
+Note-se que eu estava em Veneza, ainda recendente aos versos de lord Byron; lá estava, mergulhado em pleno sonho, revivendo o pretérito, crendo-me na Sereníssima República. É verdade; uma vez aconteceu-me perguntar ao locandeiro se o doge ia a passeio nesse dia. - Que doge, signor mio? - Caí em mim, mas não confessei a ilusão; disse-lhe que a minha pergunta era um gênero de charada americana; ele mostrou compreender, e acrescentou que gostava muitos das charadas americanas. Era um locandeiro. Pois deixei tudo isso, o locandeiro, o doge, a ponte dos Suspiros, a gôndola, os versos do lord, as damas do Rialto, deixei tudo e disparei como uma bala na direção do Rio de Janeiro.
 
-Vim... Mas não; não alonguemos este capítulo. Às vezes, esqueço-me a escrever, e a pena vai comendo papel, com grave prejuízo meu, que sou autor. Capítulos compridos quadram melhor a leitores pesadões; e nós não somos um público in-folio, mas in- 12, ** pouco texto, larga margem, tipo elegante, corte dourado e vinhetas... principalmente vinhetas... Não, não alonguemos o capítulo.
+Vim... Mas não; não alonguemos este capítulo. Às vezes, esqueço-me a escrever, e a pena vai comendo papel, com grave prejuízo meu, que sou autor. Capítulos compridos quadram melhor a leitores pesadões; e nós não somos um público in-folio, mas in- 12, pouco texto, larga margem, tipo elegante, corte dourado e vinhetas... principalmente vinhetas... Não, não alonguemos o capítulo.
 
-* George Gordon, Lord Byron ( 1788 - 1 824 ), foi um dos expoentes do romantismo inglês. Foi para Veneza (a Sereníssima República) em 1816 e residiu na Itália por seis anos.
+### 023 — Triste, mas Curto
 
-** "In- 12 " ou " in duodecimo " é um tipo de livro em que a folha para impressão foi dobrada de tal modo que resulte em 24 páginas impressas. Entre os séculos XVII e XIX, esse tipo de livro tinha dimensões semelhantes às dos livros de bolso atuais.
-
-### XXIII. Triste, mas curto
-
-Vim. Não nego que, ao avistar a cidade natal, tive uma sensação nova. Não era efeito da minha pátria política; era-o do lugar da infância, a rua, a torre, o chafariz da esquina, a mulher de mantilha, o preto do ganho, * as cousas e cenas da meninice, buriladas na memória. Nada menos que uma renascença. O espírito, como um pássaro, não se lhe deu da corrente dos anos, arrepiou o voo na direção da fonte original, e foi beber da água fresca e pura, ainda não mesclada do enxurro da vida.
+Vim. Não nego que, ao avistar a cidade natal, tive uma sensação nova. Não era efeito da minha pátria política; era-o do lugar da infância, a rua, a torre, o chafariz da esquina, a mulher de mantilha, o preto do ganho, as cousas e cenas da meninice, buriladas na memória. Nada menos que uma renascença. O espírito, como um pássaro, não se lhe deu da corrente dos anos, arrepiou o voo na direção da fonte original, e foi beber da água fresca e pura, ainda não mesclada do enxurro da vida.
 
 Reparando bem, há aí um lugar-comum. Outro lugar-comum, tristemente comum, foi a consternação da família. Meu pai abraçou-me com lágrimas.
 
@@ -671,17 +583,11 @@ Com efeito, não era já o reumatismo que a matava, era um cancro no estômago. 
 
 A dor suspendeu por um pouco as tenazes; um sorriso alumiou o rosto da enferma, sobre o qual a morte batia a asa eterna. Era menos um rosto do que uma caveira: a beleza passara, como um dia brilhante; restavam os ossos, que não emagrecem nunca. Mal poderia conhecê-la; havia oito ou nove anos que nos não víamos. Ajoelhado, ao pé da cama, com as mãos dela entre as minhas, fiquei mudo e quieto, sem ousar falar, porque cada palavra seria um soluço, e nós temíamos avisá-la do fim. Vão temor! Ela sabia que estava prestes a acabar; disse-mo; verificamo-lo na seguinte manhã.
 
-Longa foi a agonia, longa e cruel, de uma crueldade minuciosa, fria, repisada, que me encheu de dor e estupefação. Era a primeira vez que eu via morrer alguém. Conhecia a morte de outiva; quando muito, tinha-a visto já petrificada no rosto de algum cadáver que acompanhei ao cemitério, ou trazia-lhe a ideia embrulhada nas amplificações de retórica dos professores de cousas antigas - a morte aleivosa de César, a austera de Sócrates, a orgulhosa de Catão. ** Mas esse duelo do ser e do não ser, *** a morte em ação, dolorida, contraída, convulsa, sem aparelho político ou filosófico, a morte de uma pessoa amada, essa foi a primeira vez que a pude encarar. Não chorei; lembra-me que não chorei durante o espetáculo: tinha os olhos estúpidos, a garganta presa, a consciência boquiaberta. Quê? Uma criatura tão dócil, tão meiga, tão santa, que nunca jamais fizera verter uma lágrima de desgosto, mãe carinhosa, esposa imaculada, era força que morresse assim, trateada, mordida pelo dente tenaz de uma doença sem misericórdia? Confesso que tudo aquilo me pareceu obscuro, incongruente, insano...
+Longa foi a agonia, longa e cruel, de uma crueldade minuciosa, fria, repisada, que me encheu de dor e estupefação. Era a primeira vez que eu via morrer alguém. Conhecia a morte de outiva; quando muito, tinha-a visto já petrificada no rosto de algum cadáver que acompanhei ao cemitério, ou trazia-lhe a ideia embrulhada nas amplificações de retórica dos professores de cousas antigas - a morte aleivosa de César, a austera de Sócrates, a orgulhosa de Catão. Mas esse duelo do ser e do não ser, a morte em ação, dolorida, contraída, convulsa, sem aparelho político ou filosófico, a morte de uma pessoa amada, essa foi a primeira vez que a pude encarar. Não chorei; lembra-me que não chorei durante o espetáculo: tinha os olhos estúpidos, a garganta presa, a consciência boquiaberta. Quê? Uma criatura tão dócil, tão meiga, tão santa, que nunca jamais fizera verter uma lágrima de desgosto, mãe carinhosa, esposa imaculada, era força que morresse assim, trateada, mordida pelo dente tenaz de uma doença sem misericórdia? Confesso que tudo aquilo me pareceu obscuro, incongruente, insano...
 
 Triste capítulo; passemos a outro mais alegre.
 
-* "Os pretos de ganho" eram os escravos negros alugados pelos senhores para realizarem serviços para outras pessoas.
-
-** César ( 101 - 44 a.C.) foi assassinado no Senado por um grupo de conspiradores, temerosos de que se tornasse imperador, dando fim à República romana. Sócrates ( 470 - 399 a.C.) foi condenado ao suicídio, morrendo, segundo Platão, com uma simplicidade verdadeiramente estoica. Catão de Utica ( 95 - 46 a.C.), ferrenho defensor da liberdade e do Senado contra César, matou-se com a própria espada, em Utica, depois que César derrotou Pompeu em Tapso.
-
-*** Alusão ao célebre solilóquio de Hamlet, no ato III, cena I: "Ser ou não ser: eis a questão".
-
-### XXIV. Curto, mas alegre
+### 024 — Curto, mas Alegre
 
 Fiquei prostrado. E contudo era eu, nesse tempo, um fiel compêndio de trivialidade e presunção. Jamais o problema da vida e da morte me oprimira o cérebro; nunca até esse dia me debruçara sobre o abismo do inexplicável; faltava-me o essencial, que é o estímulo, a vertigem...
 
@@ -689,13 +595,13 @@ Para lhes dizer a verdade toda, eu refletia as opiniões de um cabeleireiro, que
 
 Talvez espante ao leitor a franqueza com que lhe exponho e realço a minha mediocridade; advirta que a franqueza é a primeira virtude de um defunto. Na vida, o olhar da opinião, o contraste dos interesses, a luta das cobiças obrigam a gente a calar os trapos velhos, a disfarçar os rasgões e os remendos, a não estender ao mundo as revelações que faz à consciência; e o melhor da obrigação é quando, à força de embaçar os outros, embaça-se um homem a si mesmo, porque em tal caso poupa-se o vexame, que é uma sensação penosa, e a hipocrisia, que é um vício hediondo. Mas, na morte, que diferença! Que desabafo! Que liberdade! Como a gente pode sacudir fora a capa, deitar ao fosso as lentejoulas, despregar-se, despintar-se, desafeitar-se, confessar lisamente o que foi e o que deixou de ser! Porque, em suma, já não há vizinhos, nem amigos, nem inimigos, nem conhecidos, nem estranhos; não há plateia. O olhar da opinião, esse olhar agudo e judicial, perde a virtude, logo que pisamos o território da morte; não digo que ele se não estenda para cá, e nos não examine e julgue; mas a nós é que não se nos dá do exame nem do julgamento. Senhores vivos, não há nada tão incomensurável como o desdém dos finados.
 
-### XXV. Na Tijuca
+### 025 — Na Tijuca
 
 Ui! Lá me ia a pena a escorregar para o enfático. Sejamos simples, como era simples a vida que levei na Tijuca, durante as primeiras semanas depois da morte de minha mãe.
 
 No sétimo dia, acabada a missa fúnebre, travei de uma espingarda, alguns livros, roupa, charutos, um moleque - o Prudêncio do capítulo XI -, e fui meter-me numa velha casa de nossa propriedade. Meu pai forcejou por me torcer a resolução, mas eu é que não podia nem queria obedecer-lhe. Sabina desejava que eu fosse morar com ela algum tempo, duas semanas, ao menos; meu cunhado esteve a ponto de me levar à fina força. Era um bom rapaz este Cotrim; passara de estroina a circunspecto. Agora comerciava em gêneros de estiva, labutava de manhã até à noite, com ardor, com perseverança. De noite, sentado à janela, a encaracolar as suíças, não pensava em outra cousa. Amava a mulher e um filho, que então tinha, e que lhe morreu alguns anos depois. Diziam que era avaro.
 
-Renunciei tudo; tinha o espírito atônito. Creio que por então é que começou a desabotoar em mim a hipocondria, essa flor amarela, solitária e mórbida, de um cheiro inebriante e subtil. "Que bom que é estar triste e não dizer cousa nenhuma!" * Quando esta palavra de Shakespeare me chamou a atenção, confesso que senti em mim um eco, um eco delicioso. Lembra-me que estava sentado, debaixo de um tamarineiro, com o livro do poeta aberto nas mãos e o espírito ainda mais cabisbaixo do que a figura - ou jururu, como dizemos das galinhas tristes. Apertava ao peito a minha dor taciturna, com uma sensação única, uma cousa a que poderia chamar volúpia do aborrecimento. Volúpia do aborrecimento: decora esta expressão, leitor; guarda-a, examina-a, e se não chegares a entendê-la, podes concluir que ignoras uma das sensações mais subtis desse mundo e daquele tempo.
+Renunciei tudo; tinha o espírito atônito. Creio que por então é que começou a desabotoar em mim a hipocondria, essa flor amarela, solitária e mórbida, de um cheiro inebriante e subtil. "Que bom que é estar triste e não dizer cousa nenhuma!" Quando esta palavra de Shakespeare me chamou a atenção, confesso que senti em mim um eco, um eco delicioso. Lembra-me que estava sentado, debaixo de um tamarineiro, com o livro do poeta aberto nas mãos e o espírito ainda mais cabisbaixo do que a figura - ou jururu, como dizemos das galinhas tristes. Apertava ao peito a minha dor taciturna, com uma sensação única, uma cousa a que poderia chamar volúpia do aborrecimento. Volúpia do aborrecimento: decora esta expressão, leitor; guarda-a, examina-a, e se não chegares a entendê-la, podes concluir que ignoras uma das sensações mais subtis desse mundo e daquele tempo.
 
 Às vezes caçava, outras dormia, outras lia - lia muito -, outras enfim não fazia nada; deixava-me atoar de ideia em ideia, de imaginação em imaginação, como uma borboleta vadia ou faminta. As horas iam pingando uma a uma, o sol caía, as sombras da noite velavam a montanha e a cidade. Ninguém me visitava; recomendei expressamente que me deixassem só. Um dia, dous dias, três dias, uma semana inteira passada assim, sem dizer palavra, era bastante para sacudir-me da Tijuca fora e restituir-me ao bulício. Com efeito, ao cabo de sete dias, estava farto da solidão; a dor aplacara; o espírito já se não contentava com o uso da espingarda e dos livros, nem com a vista do arvoredo e do céu. Reagia a mocidade, era preciso viver. Meti no baú o problema da vida e da morte, os hipocondríacos do poeta, as camisas, as meditações, as gravatas, e ia fechá-lo quando o moleque Prudêncio me disse que uma pessoa do meu conhecimento se mudara na véspera para uma casa roxa, situada a duzentos passos da nossa.
 
@@ -713,9 +619,7 @@ Ocorreu-me logo o episódio de 1814, e senti-me vexado; mas adverti que os acont
 
 Lembrei-me que a vira, entre outras senhoras, por ocasião da morte e do enterro; ignorava porém que ela houvesse prestado a minha mãe esse derradeiro obséquio. A ponderação do moleque era razoável; eu devia-lhe uma visita; determinei fazê-la imediatamente e descer.
 
-* Referência ao ato IV, cena I da peça Como gostais, encenada pela primeira vez por volta de 1600.
-
-### XXVI. O autor hesita
+### 026 — O Autor Hesita
 
 Súbito ouço uma voz:
 
@@ -727,7 +631,7 @@ Era meu pai, que chegava com duas propostas na algibeira. Sentei-me no baú e re
 
 — Já me conformei - foi a minha resposta, e beijei-lhe a mão.
 
-Não tinha almoçado; almoçamos juntos. Nenhum de nós aludiu ao triste motivo da minha reclusão. Uma só vez falamos nisso, de passagem, quando meu pai fez recair a conversa na Regência: i foi então que aludiu à carta de pêsames que um dos regentes lhe mandara. Trazia a carta consigo, já bastante amarrotada, talvez por havê-la lido a muitas outras pessoas. Creio haver dito que era de um dos regentes. Leu-ma duas vezes.
+Não tinha almoçado; almoçamos juntos. Nenhum de nós aludiu ao triste motivo da minha reclusão. Uma só vez falamos nisso, de passagem, quando meu pai fez recair a conversa na Regência: foi então que aludiu à carta de pêsames que um dos regentes lhe mandara. Trazia a carta consigo, já bastante amarrotada, talvez por havê-la lido a muitas outras pessoas. Creio haver dito que era de um dos regentes. Leu-ma duas vezes.
 
 — Já lhe fui agradecer este sinal de consideração - concluiu meu pai -, e acho que deves ir também...
 
@@ -749,9 +653,9 @@ Riu-se meu pai, e depois de rir, tornou a falar sério. Era-me necessária a car
 
 — Não vou daqui sem uma resposta definitiva - disse meu pai. - De-fi-ni-ti-va! - repetiu, batendo as sílabas com o dedo.
 
-Bebeu o último gole de café; repotreou-se e entrou a falar de tudo, do Senado, da Câmara, da Regência, da Restauração, ii do Evaristo, iii de um coche que pretendia comprar, da nossa casa de Mata-Cavalos... Eu deixava-me estar ao canto da mesa, a escrever desvairadamente num pedaço de papel, com uma ponta de lápis; traçava uma palavra, uma frase, um verso, um nariz, um triângulo, e repetia-os muitas vezes, sem ordem, ao acaso, assim:
+Bebeu o último gole de café; repotreou-se e entrou a falar de tudo, do Senado, da Câmara, da Regência, da Restauração, do Evaristo, de um coche que pretendia comprar, da nossa casa de Mata-Cavalos... Eu deixava-me estar ao canto da mesa, a escrever desvairadamente num pedaço de papel, com uma ponta de lápis; traçava uma palavra, uma frase, um verso, um nariz, um triângulo, e repetia-os muitas vezes, sem ordem, ao acaso, assim:
 
-arma virumque cano iv
+arma virumque cano
 
 A
 
@@ -783,15 +687,7 @@ Meu pai, um pouco despeitado com aquela indiferença, ergueu-se, veio a mim, lan
 
 — Virgílio! - exclamou. - És tu, meu rapaz; a tua noiva chama-se justamente Virgília.
 
-i A Regência durou de 1831, quando d. Pedro I abdicou em favor de seu filho menor, d. Pedro de Alcântara, até 1840, quando foi declarada a maioridade dele, que subiu ao trono como Pedro II.
-
-ii A "Restauração" é, possivelmente, uma alusão ao Partido Restaurador (dos caramurus), que queriam a volta de d. Pedro I ao poder.
-
-iii Evaristo da Veiga ( 1799 - 1837 ) foi jornalista e político durante o Primeiro Reinado e a Regência.
-
-iv " Arma virumque cano " [Eu canto as armas e o varão] é o verso inicial da Eneida, de Virgílio ( 71 - 19 a.C.), poema épico que conta a origem de Roma.
-
-### XXVII. Virgília?
+### 027 — Virgília?
 
 Virgília? Mas então era a mesma senhora que alguns anos depois...? A mesma; era justamente a senhora que em 1869 devia assistir aos meus últimos dias, e que antes, muito antes, teve larga parte nas minhas mais íntimas sensações. Naquele tempo contava apenas uns quinze ou dezesseis anos; era talvez a mais atrevida criatura da nossa raça, e, com certeza, a mais voluntariosa. Não digo que já lhe coubesse a primazia da beleza entre as mocinhas do tempo, porque isto não é romance, em que o autor sobredoura a realidade e fecha os olhos às sardas e espinhas; mas também não digo que lhe maculasse o rosto nenhuma sarda ou espinha, não. Era bonita, fresca, saía das mãos da natureza cheia daquele feitiço, precário e eterno, que o indivíduo passa a outro indivíduo, para os fins secretos da criação. Era isto Virgília, e era clara, muito clara, faceira, ignorante, pueril, cheia de uns ímpetos misteriosos; muita preguiça e alguma devoção - devoção, ou talvez medo; creio que medo.
 
@@ -799,11 +695,9 @@ Aí tem o leitor, em poucas linhas, o retrato físico e moral da pessoa que devi
 
 — Mas - dirás tu -, como é que podes assim discernir a verdade daquele tempo, e exprimi-la depois de tantos anos?
 
-Ah! Indiscreta! Ah! Ignorantona! Mas é isso mesmo que nos faz senhores da terra, é esse poder de restaurar o passado, para tocar a instabilidade das nossas impressões e a vaidade dos nossos afetos. Deixa lá dizer Pascal que o homem é um caniço pensante. Não; é uma errata pensante, isso sim. Cada estação da vida é uma edição, que corrige a anterior, e que será corrigida também, até a edição definitiva, que o editor dá de * graça aos vermes.
+Ah! Indiscreta! Ah! Ignorantona! Mas é isso mesmo que nos faz senhores da terra, é esse poder de restaurar o passado, para tocar a instabilidade das nossas impressões e a vaidade dos nossos afetos. Deixa lá dizer Pascal que o homem é um caniço pensante. Não; é uma errata pensante, isso sim. Cada estação da vida é uma edição, que corrige a anterior, e que será corrigida também, até a edição definitiva, que o editor dá de graça aos vermes.
 
-* Blaise Pascal ( 1623 - 62 ), filósofo e matemático francês, é autor de Provinciais e de Pensamentos. A passagem está no Fragmento 264 (ed. Pléiade).
-
-### XXVIII. Contanto que...
+### 028 — Contanto que...
 
 — Virgília? - interrompi eu.
 
@@ -827,7 +721,7 @@ Não respondi logo; fitei por alguns segundos a ponta do botim; declarei depois 
 
 E foi por diante o mágico, a agitar diante de mim um chocalho, como me faziam, em pequeno, para eu andar depressa, e a flor da hipocondria recolheu-se ao botão para deixar a outra flor menos amarela, e nada mórbida - o amor da nomeada, o emplasto Brás Cubas.
 
-### XXIX. A visita
+### 029 — A Visita
 
 Vencera meu pai; dispus-me a aceitar o diploma e o casamento, Virgília e a Câmara dos Deputados.
 
@@ -847,7 +741,7 @@ Disse-lhe que sim, que não era possível esquecer uma amiga tão familiar de no
 
 — Mamãe... mamãe...
 
-### XXX. A flor da moita
+### 030 — A Flor da Moita
 
 A voz e as saias pertenciam a uma mocinha morena, que se deteve à porta, alguns instantes, ao ver gente estranha. Silêncio curto e constrangido. D. Eusébia quebrou-o, enfim, com resolução e franqueza:
 
@@ -873,7 +767,7 @@ E beijou-a com tão expansiva ternura que me comoveu um pouco; lembrou-me minha 
 
 — Dezesseis. Pois então! É uma moça.
 
-Não pôde Eugênia encobrir a satisfação que sentia com esta minha palavra, mas emendou-se logo, e ficou como dantes, erecta, fria e muda. Em verdade, parecia ainda mais mulher do que era; seria criança nos seus folgares de moça; mas assim quieta, impassível, tinha a compostura da mulher casada. Talvez essa circunstância lhe diminuía um pouco da graça virginal. Depressa nos familiarizamos; a mãe fazia-lhe grandes elogios, eu escutava-os de boa sombra, * e ela sorria, com os olhos fúlgidos, como se lá dentro do cérebro lhe estivesse a voar uma borboletinha de asas de ouro e olhos de diamante...
+Não pôde Eugênia encobrir a satisfação que sentia com esta minha palavra, mas emendou-se logo, e ficou como dantes, erecta, fria e muda. Em verdade, parecia ainda mais mulher do que era; seria criança nos seus folgares de moça; mas assim quieta, impassível, tinha a compostura da mulher casada. Talvez essa circunstância lhe diminuía um pouco da graça virginal. Depressa nos familiarizamos; a mãe fazia-lhe grandes elogios, eu escutava-os de boa sombra, e ela sorria, com os olhos fúlgidos, como se lá dentro do cérebro lhe estivesse a voar uma borboletinha de asas de ouro e olhos de diamante...
 
 Digo lá dentro, porque cá fora o que esvoaçou foi uma borboleta preta, que subitamente penetrou na varanda, e começou a bater as asas em derredor de D. Eusébia. D. Eusébia deu um grito, levantou-se, praguejou umas palavras soltas:
 
@@ -883,11 +777,9 @@ Digo lá dentro, porque cá fora o que esvoaçou foi uma borboleta preta, que su
 
 D. Eusébia sentou-se outra vez, ofegante, um pouco envergonhada; a filha, pode ser que pálida de medo, dissimulava a impressão com muita força de vontade. Apertei-lhes a mão e saí, a rir comigo da superstição das duas mulheres, um rir filosófico, desinteressado, superior. De tarde, vi passar a cavalo a filha de D. Eusébia, seguida de um pajem; fez-me um cumprimento com a ponta do chicote. Confesso que me lisonjeei com a ideia de que, alguns passos adiante, ela voltaria a cabeça para trás; mas não voltou.
 
-* De boa cara, com ar benévolo.
+## Capítulos 031 — 040
 
-## Capítulos 31 a 40
-
-### XXXI. A borboleta preta
+### 031 — A Borboleta Preta
 
 No dia seguinte, como eu estivesse a preparar-me para descer, entrou no meu quarto uma borboleta, tão negra como a outra, e muito maior do que ela. Lembrou-me o caso da véspera, e ri-me; entrei logo a pensar na filha de D. Eusébia, no susto que tivera, e na dignidade que, apesar dele, soube conservar. A borboleta, depois de esvoaçar muito em torno de mim, pousou-me na testa. Sacudi-a, ela foi pousar na vidraça; e, porque eu a sacudisse de novo, saiu dali e veio parar em cima de um velho retrato de meu pai. Era negra como a noite. O gesto brando com que, uma vez posta, começou a mover as asas, tinha um certo ar escarninho, que me aborreceu muito. Dei de ombros, saí do quarto; mas tornando lá, minutos depois, e achando-a ainda no mesmo lugar, senti um repelão dos nervos, lancei mão de uma toalha, bati-lhe e ela caiu.
 
@@ -899,11 +791,11 @@ E esta reflexão - uma das mais profundas que se tem feito, desde a invenção d
 
 Pois um golpe de toalha rematou a aventura. Não lhe valeu a imensidade azul, nem a alegria das flores, nem a pompa das folhas verdes, contra uma toalha de rosto, dous palmos de linho cru. Vejam como é bom ser superior às borboletas! Porque, é justo dizê-lo, se ela fosse azul, ou cor de laranja, não teria mais segura a vida; não era impossível que eu a atravessasse com um alfinete, para recreio dos olhos. Não era. Esta última ideia restituiu-me a consolação; uni o dedo grande ao polegar, despedi um piparote e o cadáver caiu no jardim. Era tempo; aí vinham já as próvidas formigas... Não, volto à primeira ideia; creio que para ela era melhor ter nascido azul.
 
-### XXXII. Coxa de nascença
+### 032 — Coxa de Nascença
 
 Fui dali acabar os preparativos da viagem. Já agora não me demoro mais. Desço imediatamente; desço, ainda que algum leitor circunspecto me detenha para perguntar se o capítulo passado é apenas uma sensaboria ou se chega a empulhação... Ai, não contava com D. Eusébia. Estava pronto, quando me entrou por casa. Vinha convidar-me para transferir a descida, e ir lá jantar nesse dia. Cheguei a recusar; mas instou tanto, tanto, tanto, que não pude deixar de aceitar; demais, era-lhe devida aquela compensação; fui.
 
-Eugênia desataviou-se nesse dia por minha causa. Creio que foi por minha causa, se é que não andava muita vez assim. Nem as bichas * de ouro, que trazia na véspera, lhe pendiam agora das orelhas, duas orelhas finamente recortadas numa cabeça de ninfa. Um simples vestido branco, de cassa, sem enfeites, tendo ao colo, em vez de broche, um botão de madrepérola, e outro botão nos punhos, fechando as mangas, e nem sombra de pulseira.
+Eugênia desataviou-se nesse dia por minha causa. Creio que foi por minha causa, se é que não andava muita vez assim. Nem as bichas de ouro, que trazia na véspera, lhe pendiam agora das orelhas, duas orelhas finamente recortadas numa cabeça de ninfa. Um simples vestido branco, de cassa, sem enfeites, tendo ao colo, em vez de broche, um botão de madrepérola, e outro botão nos punhos, fechando as mangas, e nem sombra de pulseira.
 
 Era isso no corpo; não era outra cousa no espírito. Ideias claras, maneiras chãs, certa graça natural, um ar de senhora, e não sei se alguma outra cousa; sim, a boca, exatamente a boca da mãe, a qual me lembrava o episódio de 1814, e então dava-me ímpetos de glosar o mesmo mote à filha...
 
@@ -919,11 +811,7 @@ Tratei de apagar os vestígios de meu desazo; não me foi difícil, porque a mã
 
 Palavra que o olhar de Eugênia não era coxo, mas direito, perfeitamente são; vinha de uns olhos pretos e tranquilos. Creio que duas ou três vezes baixaram estes, um pouco turvados; mas duas ou três vezes somente; em geral, fitavam-me com franqueza, sem temeridade, nem biocos.
 
-* Brincos em forma de cobra.
-
-### XXXIII. Bem-aventurados
-
-os que não descem
+### 033 — Bem-aventurados Os que Não Descem
 
 O pior é que era coxa. Uns olhos tão lúcidos, uma boca tão fresca, uma compostura tão senhoril; e coxa! Esse contraste faria suspeitar que a natureza é às vezes um imenso escárnio. Por que bonita, se coxa? Por que coxa, se bonita? Tal era a pergunta que eu vinha fazendo a mim mesmo ao voltar para casa, de noite, sem atinar com a solução do enigma. O melhor que há, quando se não resolve um enigma, é sacudi-lo pela janela fora; foi o que eu fiz; lancei mão de uma toalha e enxotei essa outra borboleta preta, que me adejava no cérebro. Fiquei aliviado e fui dormir. Mas o sonho, que é uma fresta do espírito, deixou novamente entrar o bichinho, e aí fiquei eu a noite toda a cavar o mistério, sem explicá-lo.
 
@@ -939,13 +827,11 @@ Não desci, e acrescentei um versículo ao Evangelho: - Bem-aventurados os que n
 
 D. Eusébia entrou inesperadamente, mas não tão súbita, que nos apanhasse ao pé um do outro. Eu fui até à janela; Eugênia sentou-se a concertar uma das tranças. Que dissimulação graciosa! Que arte infinita e delicada! Que tartufice profunda! E tudo isso natural, vivo, não estudado, natural como o apetite, natural como o sono. Tanto melhor! D. Eusébia não suspeitou nada.
 
-### XXXIV. A uma alma sensível
+### 034 — A uma Alma Sensível
 
-Há aí, entre as cinco ou dez pessoas que me leem, há aí uma alma sensível, que está decerto um tanto agastada com o capítulo anterior, começa a tremer pela sorte de Eugênia, e talvez... sim, talvez, lá no fundo de si mesma, me chame cínico. Eu cínico, alma sensível? Pela coxa de Diana! Esta injúria merecia ser lavada com sangue, se o sangue lavasse alguma cousa nesse mundo. Não, alma sensível, eu não sou cínico, eu fui homem; meu cérebro foi um tablado em que se deram peças de todo gênero, o drama sacro, o austero, o piegas, a comédia louçã, a desgrenhada farsa, os autos, as bufonerias, um pandemonium, alma sensível, uma barafunda de cousas e pessoas, em que podias ver tudo, desde a rosa de Esmirna * até a arruda do teu quintal, desde o magnífico leito de Cleópatra até o recanto da praia em que o mendigo tirita o seu sono. Cruzavam-se nele pensamentos de vária casta e feição. Não havia ali a atmosfera somente da águia e do beija-flor; havia também a da lesma e do sapo. Retira, pois, a expressão, alma sensível, castiga os nervos, limpa os óculos - que isso às vezes é dos óculos - e acabemos de uma vez com esta flor da moita.
+Há aí, entre as cinco ou dez pessoas que me leem, há aí uma alma sensível, que está decerto um tanto agastada com o capítulo anterior, começa a tremer pela sorte de Eugênia, e talvez... sim, talvez, lá no fundo de si mesma, me chame cínico. Eu cínico, alma sensível? Pela coxa de Diana! Esta injúria merecia ser lavada com sangue, se o sangue lavasse alguma cousa nesse mundo. Não, alma sensível, eu não sou cínico, eu fui homem; meu cérebro foi um tablado em que se deram peças de todo gênero, o drama sacro, o austero, o piegas, a comédia louçã, a desgrenhada farsa, os autos, as bufonerias, um pandemonium, alma sensível, uma barafunda de cousas e pessoas, em que podias ver tudo, desde a rosa de Esmirna até a arruda do teu quintal, desde o magnífico leito de Cleópatra até o recanto da praia em que o mendigo tirita o seu sono. Cruzavam-se nele pensamentos de vária casta e feição. Não havia ali a atmosfera somente da águia e do beija-flor; havia também a da lesma e do sapo. Retira, pois, a expressão, alma sensível, castiga os nervos, limpa os óculos - que isso às vezes é dos óculos - e acabemos de uma vez com esta flor da moita.
 
-* Segundo a lenda, a princesa Esmirna foi transformada em árvore, da qual nasceu o belíssimo Adônis, amado e protegido da deusa Afrodite (ou Vênus). Há algumas variantes, mas é recorrente o relato de que, depois da morte do jovem, de cada lágrima de Afrodite brota uma rosa, de vida breve como o próprio Adônis.
-
-### XXXV. O caminho de Damasco *
+### 035 — O Caminho de Damasco
 
 Ora aconteceu que, oito dias depois, como eu estivesse no caminho de Damasco, ouvi uma voz misteriosa, que me sussurrou as palavras da Escritura (At. IX, 7 ): "Levanta-te, e entra na cidade". Essa voz saía de mim mesmo, e tinha duas origens: a piedade, que me desarmava ante a candura da pequena, e o terror de vir a amar deveras, e desposá-la. Uma mulher coxa! Quanto a este motivo da minha descida, não há duvidar que ela o achou e mo disse. Foi na varanda, na tarde de uma segunda-feira, ao anunciar-lhe que na seguinte manhã viria para baixo.
 
@@ -959,9 +845,7 @@ Ia dizer-lhe que não; ela retirou-se lentamente, engolindo as lágrimas. Alcanc
 
 Quis retê-la, mas o olhar que me lançou não foi já de súplica, senão de império. Desci da Tijuca, na manhã seguinte, um pouco amargurado, outro pouco satisfeito. Vinha dizendo a mim mesmo que era justo obedecer a meu pai, que era conveniente abraçar a carreira política... que a Constituição... que a minha noiva... que o meu cavalo...
 
-* O caminho de Damasco é o lugar em que Saulo se converte ao cristianismo (Atos 9, 7 ), assumindo o nome de Paulo e depois tornando-se um dos mais importantes apóstolos de Jesus.
-
-### XXXVI. A propósito de botas
+### 036 — A Propósito de Botas
 
 Meu pai, que me não esperava, abraçou-me cheio de ternura e agradecimento.
 
@@ -971,7 +855,7 @@ Deixei-o nessa reticência, e fui descalçar as botas, que estavam apertadas. Um
 
 Tu, minha Eugênia, é que não as descalçaste nunca; foste aí pela estrada da vida, manquejando da perna e do amor, triste como os enterros pobres, solitária, calada, laboriosa, até que vieste também para esta outra margem... O que eu não sei é se a tua existência era muito necessária ao século. Quem sabe? Talvez um comparsa de menos fizesse patear a tragédia humana.
 
-### XXXVII. Enfim!
+### 037 — Enfim!
 
 Enfim! Eis aqui Virgília. Antes de ir à casa do conselheiro Dutra, perguntei a meu pai se havia algum ajuste prévio de casamento.
 
@@ -983,7 +867,7 @@ Enfim! Eis aqui Virgília. Antes de ir à casa do conselheiro Dutra, perguntei a
 
 Fomos dali à casa do Dutra. Era uma pérola esse homem, risonho, jovial, patriota, um pouco irritado com os males públicos, mas não desesperando de os curar depressa. Achou que a minha candidatura era legítima; convinha, porém, esperar alguns meses. E logo me apresentou à mulher - uma estimável senhora - e à filha, que não desmentiu em nada o panegírico de meu pai. Juro-vos que em nada. Relede o capítulo XXVII. Eu, que levava ideias a respeito da pequena, fitei-a de certo modo; ela, que não sei se as tinha, não me fitou de modo diferente; e o nosso olhar primeiro foi pura e simplesmente conjugal. No fim de um mês estávamos íntimos.
 
-### XXXVIII. A quarta edição
+### 038 — A Quarta Edição
 
 — Venha cá jantar amanhã - disse-me o Dutra uma noite.
 
@@ -1007,11 +891,9 @@ Marcela lançou os olhos para a rua, com a atonia de quem reflete ou relembra; e
 
 — Não, supunha entrar numa casa de relojoeiro; queria comprar um vidro para este relógio; vou a outra parte; desculpe-me; tenho pressa.
 
-Marcela suspirou com tristeza. A verdade é que eu me sentia pungido e aborrecido, ao mesmo tempo, e ansiava por me ver fora daquela casa. Marcela, entretanto, chamou um moleque, deu-lhe o relógio, e, apesar da minha oposição, mandou-o a uma loja na vizinhança comprar o vidro. Não havia remédio; sentei-me outra vez. Disse ela então que desejava ter a proteção dos conhecidos de outro tempo; ponderou que mais tarde ou mais cedo era natural que me casasse, e afiançou que me daria finas joias por preços baratos. Não disse preços baratos, mas usou uma metáfora delicada e transparente. Entrei a desconfiar que não padecera nenhum desastre (salvo a moléstia), que tinha o dinheiro a bom recado, * e que negociava com o único fim de acudir à paixão do lucro, que era o verme roedor daquela existência; foi isso mesmo que me disseram depois.
+Marcela suspirou com tristeza. A verdade é que eu me sentia pungido e aborrecido, ao mesmo tempo, e ansiava por me ver fora daquela casa. Marcela, entretanto, chamou um moleque, deu-lhe o relógio, e, apesar da minha oposição, mandou-o a uma loja na vizinhança comprar o vidro. Não havia remédio; sentei-me outra vez. Disse ela então que desejava ter a proteção dos conhecidos de outro tempo; ponderou que mais tarde ou mais cedo era natural que me casasse, e afiançou que me daria finas joias por preços baratos. Não disse preços baratos, mas usou uma metáfora delicada e transparente. Entrei a desconfiar que não padecera nenhum desastre (salvo a moléstia), que tinha o dinheiro a bom recado, e que negociava com o único fim de acudir à paixão do lucro, que era o verme roedor daquela existência; foi isso mesmo que me disseram depois.
 
-* Guardado em lugar seguro, escondido, protegido.
-
-### XXXIX. O vizinho
+### 039 — O Vizinho
 
 Enquanto eu fazia comigo mesmo aquela reflexão, entrou na loja um sujeito baixo, sem chapéu, trazendo pela mão uma menina de quatro anos.
 
@@ -1039,7 +921,7 @@ Contou mais algumas cousas o sujeito, todas mui agradáveis, até que saiu levan
 
 Ao proferir estas palavras havia um tremor de alegria na voz de Marcela; e no rosto como que se lhe espraiou uma onda de ventura...
 
-### XL. Na sege
+### 040 — Na Sege
 
 Nisto entrou o moleque trazendo o relógio com o vidro novo. Era tempo; já me custava estar ali; dei uma moedinha de prata ao moleque; disse a Marcela que voltaria noutra ocasião, e saí a passo largo. Para dizer tudo, devo confessar que o coração me batia um pouco; mas era uma espécie de dobre de finados. O espírito ia travado de impressões opostas. Notem que aquele dia amanhecera alegre para mim. Meu pai, ao almoço, repetiu-me, por antecipação, o primeiro discurso que eu tinha de proferir na Câmara dos Deputados; rimo-nos muito, e o sol também, que estava brilhante, como nos mais belos dias do mundo; do mesmo modo que Virgília devia rir, quando eu lhe contasse as nossas fantasias do almoço. Vai senão quando, cai-me o vidro do relógio; entro na primeira loja que me fica à mão; e eis me surge o passado, ei-lo que me lacera e beija; ei-lo que me interroga, com um rosto cortado de saudades e bexigas...
 
@@ -1049,9 +931,9 @@ Lá o deixei; meti-me às pressas na sege, que me esperava no largo de São Fran
 
 — Uê! Nhonhô! Já estamos parados na porta de sinhô conselheiro.
 
-## Capítulos 41 a 50
+## Capítulos 041 — 050
 
-### XLI. A alucinação
+### 041 — A Alucinação
 
 Era verdade. Entrei apressado; achei Virgília ansiosa, mau humor, fronte nublada. A mãe, que era surda, estava na sala com ela. No fim dos cumprimentos disse-me a moça com sequidão:
 
@@ -1067,17 +949,13 @@ Virgília afastou-se, e foi sentar-se no sofá. Eu fiquei algum tempo a olhar pa
 
 Sentei-me, enquanto Virgília, calada, fazia estalar as unhas. Seguiram-se alguns segundos de pausa. Falei-lhe de cousas estranhas ao incidente; ela porém não me respondia nada, nem olhava para mim. Menos o estalido, era a estátua do Silêncio. Uma só vez me deitou os olhos, mas muito de cima, soerguendo a pontinha esquerda do lábio, contraindo as sobrancelhas, ao ponto de as unir; todo esse conjunto de cousas dava-lhe ao rosto uma expressão média, entre cômica e trágica.
 
-Havia alguma afetação naquele desdém; era um arrebique do gesto. * Lá dentro, ela padecia, e não pouco - ou fosse mágoa pura, ou só despeito; e porque a dor que se dissimula dói mais, é mui provável que Virgília padecesse em dobro do que realmente devia padecer. Creio que isto é metafísica.
+Havia alguma afetação naquele desdém; era um arrebique do gesto. Lá dentro, ela padecia, e não pouco - ou fosse mágoa pura, ou só despeito; e porque a dor que se dissimula dói mais, é mui provável que Virgília padecesse em dobro do que realmente devia padecer. Creio que isto é metafísica.
 
-* "Gesto" é aqui empregado no sentido de rosto, fisionomia.
-
-### XLII. Que escapou a Aristóteles
+### 042 — Que Escapou a Aristóteles
 
 Outra cousa que também me parece metafísica é isto: dá-se movimento a uma bola, por exemplo; rola esta, encontra outra bola, transmite-lhe o impulso, e eis a segunda bola a rolar como a primeira rolou. Suponhamos que a primeira bola se chama... Marcela - é uma simples suposição -; a segunda, Brás Cubas; a terceira, Virgília. Temos que Marcela, recebendo um piparote do passado, rolou até tocar em Brás Cubas, o qual, cedendo à força impulsiva, entrou a rolar também até esbarrar em Virgília, que não tinha nada com a primeira bola; e eis aí como, pela simples transmissão de uma força, se tocam os extremos sociais, e se estabelece uma cousa que poderemos chamar - solidariedade do aborrecimento humano. Como é que este capítulo escapou a Aristóteles?
 
-### XLIII. Marquesa, porque
-
-eu serei marquês
+### 043 — Marquesa, Porque Eu Serei Marquês
 
 Positivamente, era um diabrete Virgília, um diabrete angélico, se querem, mas era-o, e então...
 
@@ -1093,7 +971,7 @@ Virgília replicou:
 
 Desde então fiquei perdido. Virgília comparou a águia e o pavão, e elegeu a águia, deixando o pavão com o seu espanto, o seu despeito, e três ou quatro beijos que lhe dera. Talvez cinco beijos; mas dez que fossem não queria dizer cousa nenhuma. O lábio do homem não é como a pata do cavalo de Átila, que esterilizava o solo em que batia; é justamente o contrário.
 
-### XLIV. Um Cubas!
+### 044 — Um Cubas!
 
 Meu pai ficou atônito com o desenlace, e quer-me parecer que não morreu de outra cousa. Eram tantos os castelos que engenhara, tantos e tantíssimos os sonhos, que não podia vê-los assim esboroados, sem padecer um forte abalo no organismo. A princípio não quis crê-lo. Um Cubas! Um galho da árvore ilustre dos Cubas! E dizia isto com tal convicção, que eu, já então informado da nossa tanoaria, esqueci um instante a volúvel dama, para só contemplar aquele fenômeno, não raro, mas curioso: uma imaginação graduada em consciência.
 
@@ -1109,11 +987,11 @@ Morreu alguns dias depois da visita do ministro, uma manhã de maio, entre os do
 
 — Um Cubas!
 
-### XLV. Notas
+### 045 — Notas
 
 Soluços, lágrimas, casa armada, veludo preto nos portais, um homem que veio vestir o cadáver, outro que tomou a medida do caixão, caixão, essa, tocheiros, convites, convidados que entravam, lentamente, a passo surdo, e apertavam a mão à família, alguns tristes, todos sérios e calados, padre e sacristão, rezas, aspersões d'água benta, o fechar do caixão, a prego e martelo, seis pessoas que o tomam da essa, e o levantam, e o descem a custo pela escada, não obstante os gritos, soluços e novas lágrimas da família, e vão até o coche fúnebre, e o colocam em cima e traspassam e apertam as correias, o rodar do coche, o rodar dos carros, um a um... Isto, que parece um simples inventário, eram notas que eu havia tomado para um capítulo triste e vulgar que não escrevo.
 
-### XLVI. A herança
+### 046 — A Herança
 
 Veja-nos agora o leitor, oito dias depois da morte de meu pai - minha irmã sentada num sofá - pouco adiante, Cotrim, de pé, encostado a um consolo, com os braços cruzados e a morder o bigode - eu a passear de um lado para outro, com os olhos no chão. Luto pesado. Profundo silêncio.
 
@@ -1121,7 +999,7 @@ Veja-nos agora o leitor, oito dias depois da morte de meu pai - minha irmã sent
 
 — Vale cinquenta - ponderei -; Sabina sabe que custou cinquenta e oito...
 
-— Podia custar até sessenta - tornou Cotrim -; mas não se segue que os valesse, e menos ainda que os valha hoje. Você sabe que as casas, aqui há anos, baixaram muito. Olhe, se esta vale os cinquenta contos, quantos não vale a que você deseja para si, a do Campo? *
+— Podia custar até sessenta - tornou Cotrim -; mas não se segue que os valesse, e menos ainda que os valha hoje. Você sabe que as casas, aqui há anos, baixaram muito. Olhe, se esta vale os cinquenta contos, quantos não vale a que você deseja para si, a do Campo?
 
 — Não fale nisso! Uma casa velha.
 
@@ -1145,7 +1023,7 @@ Veja-nos agora o leitor, oito dias depois da morte de meu pai - minha irmã sent
 
 Tínhamos falado na prata, a velha prataria do tempo de D. José I, a porção mais grave da herança, já pelo lavor, já pela vetustez, já pela origem da propriedade; dizia meu pai que o conde da Cunha, quando vice-rei do Brasil, a dera de presente a meu bisavô Luís Cubas.
 
-— Quanto à prata - continuou Cotrim -, eu não faria questão nenhuma, se não fosse o desejo que sua irmã tem de ficar com ela; e acho-lhe razão. Sabina é casada, e precisa de uma copa ** digna, apresentável. Você é solteiro, não recebe, não...
+— Quanto à prata - continuou Cotrim -, eu não faria questão nenhuma, se não fosse o desejo que sua irmã tem de ficar com ela; e acho-lhe razão. Sabina é casada, e precisa de uma copa digna, apresentável. Você é solteiro, não recebe, não...
 
 — Mas posso casar.
 
@@ -1163,7 +1041,7 @@ Abanei a cabeça.
 
 — Não falta mais nada. Quer a sege, quer o boleeiro, quer a prata, quer tudo. Olhe, é muito mais sumário citar-nos a juízo e provar com testemunhas que Sabina não é sua irmã, que eu não sou seu cunhado e que Deus não é Deus. Faça isto, e não perde nada, nem uma colherinha. Ora, meu amigo, outro ofício!
 
-Estava tão agastado, e eu não menos, que entendi oferecer um meio de conciliação; dividir a prata. Riu-se e perguntou-me a quem caberia o bule e a quem o açucareiro; e depois desta pergunta, declarou que teríamos tempo de liquidar a pretensão, quando menos em juízo. Entretanto, *** Sabina fora até à janela que dava para a chácara, e, depois de um instante, voltou, e propôs ceder o Paulo e outro preto, com a condição de ficar com a prata; eu ia dizer que não me convinha, mas Cotrim adiantou-se e disse a mesma cousa.
+Estava tão agastado, e eu não menos, que entendi oferecer um meio de conciliação; dividir a prata. Riu-se e perguntou-me a quem caberia o bule e a quem o açucareiro; e depois desta pergunta, declarou que teríamos tempo de liquidar a pretensão, quando menos em juízo. Entretanto, Sabina fora até à janela que dava para a chácara, e, depois de um instante, voltou, e propôs ceder o Paulo e outro preto, com a condição de ficar com a prata; eu ia dizer que não me convinha, mas Cotrim adiantou-se e disse a mesma cousa.
 
 — Isso nunca! Não faço esmolas! - disse ele.
 
@@ -1177,31 +1055,23 @@ Mas Cotrim:
 
 Fizeram-se finalmente as partilhas, mas nós estávamos brigados. E digo-lhes que, ainda assim, custou-me muito a brigar com Sabina. Éramos tão amigos! Jogos pueris, fúrias de criança, risos e tristezas da idade adulta, dividimos muita vez esse pão da alegria e da miséria, irmãmente, como bons irmãos que éramos. Mas estávamos brigados. Tal qual a beleza de Marcela, que se esvaiu com as bexigas.
 
-* Trata-se do campo da Aclamação, que, em 1873, viria a sofrer uma ampla reforma urbanística, de autoria do paisagista francês Glaziou, tornando-se um lugar elegante e bem frequentado. Como a República foi proclamada ali, foi renomeado como praça da República.
-
-** Baixela, ou seja, o conjunto de artefatos que compõem as mesas luxuosas.
-
-*** "Entretanto" é aqui empregado como advérbio e quer dizer "nesse meio-tempo".
-
-### XLVII. O recluso
+### 047 — O Recluso
 
 Marcela, Sabina, Virgília... aí estou eu a fundir todos os contrastes, como se esses nomes e pessoas não fossem mais do que modos de ser da minha afeição interior. Pena de maus costumes, ata uma gravata ao estilo, veste-lhe um colete menos sórdido; e depois sim, depois vem comigo, entra nessa casa, estira-te nessa rede que me embalou a melhor parte dos anos que decorreram desde o inventário de meu pai até 1842. Vem: se te cheirar a algum aroma de toucador, não cuides que o mandei derramar para meu regalo; é um vestígio da N. ou da Z. ou da U. - que todas essas letras maiúsculas embalaram aí a sua elegante abjeção. Mas, se além do aroma, quiseres outra cousa, fica-te com o desejo, porque eu não guardei retratos, nem cartas, nem memórias; a mesma comoção esvaiu-se, e só me ficaram as letras iniciais.
 
 Vivi meio recluso, indo de longe em longe a algum baile, ou teatro, ou palestra, mas a mor parte do tempo, passei-a comigo mesmo. Vivia; deixava-me ir ao curso e recurso dos sucessos e dos dias, ora buliçoso, ora apático, entre a ambição e o desânimo. Escrevia política e fazia literatura. Mandava artigos e versos para as folhas públicas, e cheguei a alcançar certa reputação de polemista e de poeta. Quando me lembrava do Lobo Neves, que era já deputado, e de Virgília, futura marquesa, perguntava a mim mesmo por que não seria melhor deputado e melhor marquês do que o Lobo Neves - eu, que valia mais, muito mais do que ele - e dizia isto a olhar para a ponta do nariz...
 
-### XLVIII. Um primo de Virgília
+### 048 — Um Primo de Virgília
 
 — Sabe quem chegou ontem de São Paulo? - perguntou-me uma noite Luís Dutra.
 
 Luís Dutra era um primo de Virgília, que também privava com as musas. Os versos dele agradavam e valiam mais do que os meus; mas ele tinha necessidade da sanção de alguns, que lhe confirmasse o aplauso dos outros. Como fosse acanhado, não interrogava a ninguém; mas deleitava-se com ouvir alguma palavra de apreço; então criava novas forças e arremetia juvenilmente ao trabalho.
 
-Pobre Luís Dutra! Apenas publicava alguma cousa, corria à minha casa, e entrava a girar em volta de mim, à espreita de um juízo, de uma palavra, de um gesto, que lhe aprovasse a recente produção, e eu falava-lhe de mil cousas diferentes - do último baile do Catete, * da discussão das câmaras, de berlindas e cavalos -, de tudo, menos dos seus versos ou prosas. Ele respondia-me, a princípio com animação, depois mais frouxo, torcia a rédea da conversa para o assunto dele, abria um livro, perguntava-me se tinha algum trabalho novo, e eu dizia-lhe que sim ou que não, mas torcia a rédea para o outro lado, e lá ia ele atrás de mim, até que empacava de todo e saía triste. Minha intenção era fazê-lo duvidar de si mesmo, desanimá-lo, eliminá-lo. E tudo isto a olhar para a ponta do nariz...
+Pobre Luís Dutra! Apenas publicava alguma cousa, corria à minha casa, e entrava a girar em volta de mim, à espreita de um juízo, de uma palavra, de um gesto, que lhe aprovasse a recente produção, e eu falava-lhe de mil cousas diferentes - do último baile do Catete, da discussão das câmaras, de berlindas e cavalos -, de tudo, menos dos seus versos ou prosas. Ele respondia-me, a princípio com animação, depois mais frouxo, torcia a rédea da conversa para o assunto dele, abria um livro, perguntava-me se tinha algum trabalho novo, e eu dizia-lhe que sim ou que não, mas torcia a rédea para o outro lado, e lá ia ele atrás de mim, até que empacava de todo e saía triste. Minha intenção era fazê-lo duvidar de si mesmo, desanimá-lo, eliminá-lo. E tudo isto a olhar para a ponta do nariz...
 
-* Os bailes do Catete eram os bailes da Assembleia dos Estrangeiros, uma sociedade privada, restrita à elite. A sede ficava próxima ao Palácio do Catete, atual Museu da República.
+### 049 — A Ponta do Nariz
 
-### XLIX. A ponta do nariz
-
-Nariz, consciência sem remorsos, tu me valeste muito na vida... Já meditaste alguma vez no destino do nariz, amado leitor? A explicação do doutor Pangloss * é que o nariz foi criado para uso dos óculos - e tal explicação, confesso que até certo tempo me pareceu definitiva; mas veio um dia em que, estando a ruminar esse e outros pontos obscuros de filosofia, atinei com a única, verdadeira e definitiva explicação.
+Nariz, consciência sem remorsos, tu me valeste muito na vida... Já meditaste alguma vez no destino do nariz, amado leitor? A explicação do doutor Pangloss é que o nariz foi criado para uso dos óculos - e tal explicação, confesso que até certo tempo me pareceu definitiva; mas veio um dia em que, estando a ruminar esse e outros pontos obscuros de filosofia, atinei com a única, verdadeira e definitiva explicação.
 
 Com efeito, bastou-me atentar no costume do faquir. Sabe o leitor que o faquir gasta longas horas a olhar para a ponta do nariz, com o fim único de ver a luz celeste. Quando ele finca os olhos na ponta do nariz, perde o sentimento das cousas externas, embeleza-se no invisível, apreende o impalpável, desvincula-se da terra, dissolve-se, eteriza-se. Essa sublimação do ser pela ponta do nariz é o fenômeno mais excelso do espírito, e a faculdade de a obter não pertence ao faquir somente: é universal. Cada homem tem necessidade e poder de contemplar o seu próprio nariz, para o fim de ver a luz celeste, e tal contemplação, cujo efeito é a subordinação do universo a um nariz somente, constitui o equilíbrio das sociedades. Se os narizes se contemplassem exclusivamente uns aos outros, o gênero humano não chegaria a durar dois séculos: extinguia-se com as primeiras tribos.
 
@@ -1211,9 +1081,7 @@ Leitor obtuso, isso prova que nunca entraste no cérebro de um chapeleiro. Um ch
 
 A conclusão, portanto, é que há duas forças capitais: o amor, que multiplica a espécie, e o nariz, que a subordina ao indivíduo. Procriação, equilíbrio.
 
-* Pangloss é personagem da obra Cândido, ou o otimismo ( 1759 ), de Voltaire ( 1694 - 1778 ), e é uma caricatura dos filósofos otimistas do idealismo clássico alemão.
-
-### L. Virgília casada
+### 050 — Virgília Casada
 
 — Quem chegou de São Paulo foi minha prima Virgília, casada com o Lobo Neves - continuou Luís Dutra.
 
@@ -1229,7 +1097,7 @@ A conclusão, portanto, é que há duas forças capitais: o amor, que multiplica
 
 — Ela mesma. Falei-lhe muito em você, e ela então contou-me tudo.
 
-No dia seguinte, estando na rua do Ouvidor, à porta da tipografia do Plancher, * vi assomar, a distância, uma mulher esplêndida. Era ela; só a reconheci a poucos passos, tão outra estava, a tal ponto a natureza e a arte lhe haviam dado o último apuro. Cortejamo-nos; ela seguiu; entrou com o marido na carruagem, que os esperava um pouco acima; fiquei atônito.
+No dia seguinte, estando na rua do Ouvidor, à porta da tipografia do Plancher, vi assomar, a distância, uma mulher esplêndida. Era ela; só a reconheci a poucos passos, tão outra estava, a tal ponto a natureza e a arte lhe haviam dado o último apuro. Cortejamo-nos; ela seguiu; entrou com o marido na carruagem, que os esperava um pouco acima; fiquei atônito.
 
 Oito dias depois, encontrei-a num baile; creio que chegamos a trocar duas ou três palavras. Mas noutro baile, dado daí a um mês, em casa de uma senhora que ornara os salões do Primeiro Reinado, e não desornava então os do Segundo, a aproximação foi maior e mais longa, porque conversamos e valsamos. A valsa é uma deliciosa cousa. Valsamos; não nego que, ao conchegar ao meu corpo aquele corpo flexível e magnífico, tive uma singular sensação, uma sensação de homem roubado.
 
@@ -1243,15 +1111,11 @@ Cerca de três semanas depois recebi um convite dele para uma reunião íntima. 
 
 — O senhor hoje há de valsar comigo.
 
-Em verdade, eu tinha fama e era valsista emérito; não admira que ela me preferisse. Valsamos uma vez, e mais outra vez. Um livro perdeu Francesca; ** cá foi a valsa que nos perdeu. Creio que nessa noite apertei-lhe a mão com muita força, e ela deixou-a ficar, como esquecida, e eu a abraçá-la, e todos com os olhos em nós, e nos outros que também se abraçavam e giravam... Um delírio.
+Em verdade, eu tinha fama e era valsista emérito; não admira que ela me preferisse. Valsamos uma vez, e mais outra vez. Um livro perdeu Francesca; cá foi a valsa que nos perdeu. Creio que nessa noite apertei-lhe a mão com muita força, e ela deixou-a ficar, como esquecida, e eu a abraçá-la, e todos com os olhos em nós, e nos outros que também se abraçavam e giravam... Um delírio.
 
-* Pierre Plancher Noé ( 1779 - 1844 ), editor e jornalista francês, atuou no mercado brasileiro à época do Primeiro Reinado, tendo sido o fundador do Jornal do Commercio.
+## Capítulos 051 — 060
 
-** O episódio de Francesca de Rimini e Paolo Malatesta está na Divina comédia ( 1318 ), de Dante ( 1265 - 1321 ), em "Inferno" V: 116 - 38.
-
-## Capítulos 51 a 60
-
-### LI. É minha!
+### 051 — É Minha!
 
 "É minha!", disse eu comigo, logo que a passei a outro cavalheiro; e confesso que durante o resto da noite, foi-se-me a ideia entranhando no espírito, não à força de martelo, mas de verruma, que é mais insinuativa.
 
@@ -1271,7 +1135,7 @@ E a boa dama sacou um espelho e abriu-mo diante dos olhos. Vi, claramente vista,
 
 Assim, eu, Brás Cubas, descobri uma lei sublime, a lei da equivalência das janelas, e estabeleci que o modo de compensar uma janela fechada é abrir outra, a fim de que a moral possa arejar continuamente a consciência. Talvez não entendas o que aí fica; talvez queiras uma cousa mais concreta, um embrulho, por exemplo, um embrulho misterioso. Pois toma lá o embrulho misterioso.
 
-### LII. O embrulho misterioso
+### 052 — O Embrulho Misterioso
 
 Foi o caso quê, alguns dias depois, indo eu a Botafogo, tropecei num embrulho que estava na praia. Não digo bem; houve menos tropeção que pontapé. Vendo um embrulho, não grande, mas limpo e corretamente feito, atado com um barbante rijo, uma cousa que parecia alguma cousa, lembrou-me bater-lhe com o pé, assim por experiência, e bati, e o embrulho resistiu. Relanceei os olhos em volta de mim; a praia estava deserta; ao longe uns meninos brincavam - um pescador curava as redes ainda mais longe -, ninguém que pudesse ver a minha ação; inclinei-me, apanhei o embrulho e segui.
 
@@ -1289,13 +1153,11 @@ De noite, no dia seguinte, em toda aquela semana pensei o menos que pude nos cin
 
 Nesse mesmo dia levei-os ao Banco do Brasil. Lá me receberam com muitas e delicadas alusões ao caso da meia dobra, cuja notícia andava já espalhada entre as pessoas do meu conhecimento; respondi enfadado que a cousa não valia a pena de tamanho estrondo; louvaram-me então a modéstia - e porque eu me encolerizasse, replicaram-me que era simplesmente grande.
 
-### LIII........ Virgília é que já se não lembrava da meia dobra; toda ela estava concentrada em mim, nos meus olhos, na minha vida, no meu pensamento - era o que dizia, e era verdade.
+### 053 — Virgília É que Já Se Não Lembrava da Meia Dobra; Toda Ela Estava Concentrada em Mim, nos Meus Olhos, na Minha Vida, no Meu Pensamento - Era o que Dizia, e Era Verdade.
 
-Há umas plantas que nascem e crescem depressa; outras são tardias e pecas. O nosso amor era daquelas; brotou com tal ímpeto e tanta seiva, que, dentro em pouco, era a mais vasta, folhuda e exuberante criatura dos bosques. Não lhes poderei dizer, ao certo, os dias que durou esse crescimento. Lembra-me, sim, que, em certa noite, abotoou-se * a flor, ou o beijo, se assim lhe quiserem chamar, um beijo que ela me deu, trêmula - coitadinha -, trêmula de medo, porque era ao portão da chácara. Uniu-nos esse beijo único - breve como a ocasião, ardente como o amor, prólogo de uma vida de delícias, de terrores, de remorsos, de prazeres que rematavam em dor, de aflições que desabrochavam em alegria -, uma hipocrisia paciente e sistemática, único freio de uma paixão sem freio - vida de agitações, de cóleras, de desesperos e de ciúmes, que uma hora pagava à farta e de sobra; mas outra hora vinha e engolia aquela, como tudo mais, para deixar à tona as agitações e o resto, e o resto do resto, que é o fastio e a saciedade: tal foi o livro daquele prólogo.
+Há umas plantas que nascem e crescem depressa; outras são tardias e pecas. O nosso amor era daquelas; brotou com tal ímpeto e tanta seiva, que, dentro em pouco, era a mais vasta, folhuda e exuberante criatura dos bosques. Não lhes poderei dizer, ao certo, os dias que durou esse crescimento. Lembra-me, sim, que, em certa noite, abotoou-se a flor, ou o beijo, se assim lhe quiserem chamar, um beijo que ela me deu, trêmula - coitadinha -, trêmula de medo, porque era ao portão da chácara. Uniu-nos esse beijo único - breve como a ocasião, ardente como o amor, prólogo de uma vida de delícias, de terrores, de remorsos, de prazeres que rematavam em dor, de aflições que desabrochavam em alegria -, uma hipocrisia paciente e sistemática, único freio de uma paixão sem freio - vida de agitações, de cóleras, de desesperos e de ciúmes, que uma hora pagava à farta e de sobra; mas outra hora vinha e engolia aquela, como tudo mais, para deixar à tona as agitações e o resto, e o resto do resto, que é o fastio e a saciedade: tal foi o livro daquele prólogo.
 
-* "Abotoou-se" é aqui empregado no sentido de "abriu-se uma flor em botão".
-
-### LIV. A pêndula
+### 054 — A Pêndula
 
 Saí dali a saborear o beijo. Não pude dormir; estirei-me na cama, é certo, mas foi o mesmo que nada. Ouvi as horas todas da noite. Usualmente, quando eu perdia o sono, o bater da pêndula fazia-me muito mal; esse tic-tac soturno, vagaroso e seco parecia dizer a cada golpe que eu ia ter um instante menos de vida. Imaginava então um velho diabo, sentado entre dous sacos, o da vida e o da morte, a tirar as moedas da vida para dá-las à morte, e a contá-las assim:
 
@@ -1311,7 +1173,7 @@ O mais singular é que, se o relógio parava, eu dava-lhe corda, para que ele n�
 
 Naquela noite não padeci essa triste sensação de enfado, mas outra, e deleitosa. As fantasias tumultuavam-me cá dentro, vinham umas sobre outras, à semelhança de devotas que se abalroam para ver o anjo cantor das procissões. Não ouvia os instantes perdidos, mas os minutos ganhados. De certo tempo em diante não ouvi cousa nenhuma, porque o meu pensamento, ardiloso e traquinas, saltou pela janela fora e bateu as asas na direção da casa de Virgília. Aí achou ao peitoril de uma janela o pensamento de Virgília, saudaram-se e ficaram de palestra. Nós a rolarmos na cama, talvez com frio, necessitados de repouso, e os dous vadios ali postos, a repetirem o velho diálogo de Adão e Eva.
 
-### LV. O velho diálogo de Adão e Eva
+### 055 — O Velho Diálogo de Adão e Eva
 
 BRÁS CUBAS.......................?
 
@@ -1361,7 +1223,7 @@ BRÁS CUBAS......................................!
 
 VIRGÍLIA....................................!
 
-### LVI. O momento oportuno
+### 056 — O Momento Oportuno
 
 Mas, com a breca! Quem me explicará a razão desta diferença? Um dia vimo-nos, tratamos o casamento, desfizemo-lo e separamo-nos, a frio, sem dor, porque não houvera paixão nenhuma; mordeu-me apenas algum despeito e nada mais. Correm anos, torno a vê-la, damos três ou quatro giros de valsa, e eis-nos a amar um ao outro com delírio. A beleza de Virgília chegara, é certo, a um alto grau de apuro, mas nós éramos substancialmente os mesmos, e eu, à minha parte, não me tornara mais bonito nem mais elegante. Quem me explicará a razão dessa diferença?
 
@@ -1371,11 +1233,11 @@ A razão não podia ser outra senão o momento oportuno. Não era oportuno o pri
 
 Estremeci, fitei-a, vi que a indignação era sincera; então ocorreu-me que talvez eu tivesse provocado alguma vez aquela mesma careta, e compreendi logo toda a grandeza da minha evolução. Tinha vindo de importuno a oportuno.
 
-### LVII. Destino
+### 057 — Destino
 
 Sim, senhor, amávamos. Agora, que todas as leis sociais no-lo impediam, agora é que nos amávamos deveras. Achávamo-nos jungidos um ao outro, como as duas almas que o poeta encontrou no Purgatório:
 
-Di pari, come buoi, che vanno a giogo; *
+Di pari, come buoi, che vanno a giogo;
 
 e digo mal, comparando-nos a bois, porque nós éramos outra espécie de animal menos tardo, mais velhaco e lascivo. Eis-nos a caminhar sem saber até onde, nem por que estradas escusas; problema que me assustou, durante algumas semanas, mas cuja solução entreguei ao destino. Pobre Destino! Onde andarás agora, grande procurador dos negócios humanos? Talvez estejas a criar pele nova, outra cara, outras maneiras, outro nome, e não é impossível que... Já me não lembra onde estava... Ah! Nas estradas escusas. Disse eu comigo que já agora seria o que Deus quisesse. Era a nossa sorte amar-nos; se assim não fora, como explicaríamos a valsa e o resto? Virgília pensava a mesma cousa. Um dia, depois de me confessar que tinha momentos de remorsos, como eu lhe dissesse que, se tinha remorsos, é porque me não tinha amor, Virgília cingiu-me com os seus magníficos braços, murmurando:
 
@@ -1383,9 +1245,7 @@ e digo mal, comparando-nos a bois, porque nós éramos outra espécie de animal 
 
 E esta palavra não vinha à toa; Virgília era um pouco religiosa. Não ouvia missa aos domingos, é verdade, e creio até que só ia às igrejas em dia de festa, e quando havia lugar vago em alguma tribuna. Mas rezava todas as noites, com fervor, ou, pelo menos, com sono. Tinha medo às trovoadas; nessas ocasiões, tapava os ouvidos, e resmoneava todas as orações do catecismo. Na alcova dela havia um oratoriozinho de jacarandá, obra de talha, de três palmos de altura, com três imagens dentro; mas não falava dele às amigas; ao contrário, tachava de beatas as que eram só religiosas. Algum tempo desconfiei que havia nela certo vexame de crer, e que a sua religião era uma espécie de camisa de flanela, preservativa e clandestina; mas evidentemente era engano meu.
 
-* Na Divina comédia, não são duas almas que o poeta encontra nesta passagem do Purgatório; é ele próprio que caminha por um trecho junto com Oderisi, mestre da iluminura, que purga o pecado da soberba. O verso está em "Purgatório" XII, 1, e pode ser traduzido como: "De par, como bois que vão na canga".
-
-### LVIII. Confidência
+### 058 — Confidência
 
 Lobo Neves, a princípio, metia-me grandes sustos. Pura ilusão! Como adorasse a mulher, não se vexava de mo dizer muitas vezes; achava que Virgília era a perfeição mesma, um conjunto de qualidades sólidas e finas, amorável, elegante, austera, um modelo. E a confiança não parava aí. De fresta que era, chegou a porta escancarada. Um dia confessou-me que trazia uma triste carcoma na existência; faltava-lhe a glória pública. Animei-o; disse-lhe muitas cousas bonitas, que ele ouviu com aquela unção religiosa de um desejo que não quer acabar de morrer; então compreendi que a ambição dele andava cansada de bater as asas, sem poder abrir o voo. Dias depois disse-me todos os seus tédios e desfalecimentos, as amarguras engolidas, as raivas sopitadas; contou-me que a vida política era um tecido de invejas, despeitos, intrigas, perfídias, interesses, vaidades. Evidentemente havia aí uma crise de melancolia; tratei de combatê-la.
 
@@ -1397,7 +1257,7 @@ Calou-se, profundamente abatido, com os olhos no ar, parecendo não ouvir cousa 
 
 E ria, de um jeito sombrio e triste; depois pediu-me que não referisse a ninguém o que se passara entre nós; ponderei-lhe que a rigor não se passara nada. Entraram dous deputados e um chefe político da paróquia. Lobo Neves recebeu-os com alegria, a princípio um tanto postiça, mas logo depois natural. No fim de meia hora, ninguém diria que ele não era o mais afortunado dos homens; conversava, chasqueava, e ria, e riam todos.
 
-### LIX. Um encontro
+### 059 — Um Encontro
 
 "Deve ser um vinho enérgico a política", dizia eu comigo, ao sair da casa de Lobo Neves; e fui andando, fui andando, até que na rua dos Barbonos vi uma sege, e dentro um dos ministros, meu antigo companheiro de colégio. Cortejamo-nos afetuosamente, a sege seguiu, e eu fui andando... andando... andando...
 
@@ -1405,7 +1265,7 @@ E ria, de um jeito sombrio e triste; depois pediu-me que não referisse a ningu�
 
 Esta ideia, rútila e grande - trajada ao bizarro, como diria o padre Bernardes -, esta ideia começou uma vertigem de cabriolas e eu deixei-me estar com os olhos nela, a achar-lhe graça. Não pensei mais na tristeza de Lobo Neves; sentia a atração do abismo. Recordei aquele companheiro de colégio, as correrias nos morros, as alegrias e travessuras, e comparei o menino com o homem, e perguntei a mim mesmo por que não seria eu como ele. Entrava então no Passeio Público, e tudo me parecia dizer a mesma cousa. - Por que não serás ministro, Cubas? - Cubas, por que não serás ministro de Estado? Ao ouvi-lo, uma deliciosa sensação me refrescava todo o organismo. Entrei, fui sentar-me num banco, a remoer aquela ideia. E Virgília que havia de gostar! Alguns minutos depois vejo encaminhar-se para mim uma cara, que não me pareceu desconhecida. Conhecia-a, fosse donde fosse.
 
-Imaginem um homem de trinta e oito a quarenta anos, alto, magro e pálido. As roupas, salvo o feitio, pareciam ter escapado ao cativeiro de Babilônia; o chapéu era contemporâneo do de Gessler. Imaginem agora uma sobrecasaca, mais larga do que pediam as carnes - ou, literalmente, os ossos da pessoa; a cor preta ia cedendo o passo a um amarelo sem brilho; o pelo desaparecia aos poucos; dos oito primitivos botões restavam três. As calças, de brim pardo, tinham duas fortes joelheiras, enquanto as bainhas eram roídas pelo tacão de um botim sem misericórdia nem graxa. Ao pescoço flutuavam as pontas de uma gravata de duas cores, ambas desmaiadas, apertando um colarinho de oito dias. * Creio que trazia também colete, um colete de seda escura, roto a espaços, e desabotoado.
+Imaginem um homem de trinta e oito a quarenta anos, alto, magro e pálido. As roupas, salvo o feitio, pareciam ter escapado ao cativeiro de Babilônia; o chapéu era contemporâneo do de Gessler. Imaginem agora uma sobrecasaca, mais larga do que pediam as carnes - ou, literalmente, os ossos da pessoa; a cor preta ia cedendo o passo a um amarelo sem brilho; o pelo desaparecia aos poucos; dos oito primitivos botões restavam três. As calças, de brim pardo, tinham duas fortes joelheiras, enquanto as bainhas eram roídas pelo tacão de um botim sem misericórdia nem graxa. Ao pescoço flutuavam as pontas de uma gravata de duas cores, ambas desmaiadas, apertando um colarinho de oito dias. Creio que trazia também colete, um colete de seda escura, roto a espaços, e desabotoado.
 
 — Aposto que me não conhece, Sr. Dr. Cubas? - disse ele.
 
@@ -1423,7 +1283,7 @@ E alçando a mão direita e os ombros, com um ar de indiferença, parecia resign
 
 Um sorriso magnífico lhe abriu os lábios.
 
-— Não é o primeiro que me promete alguma cousa - replicou -, e não sei se será o último que não me fará nada. E para quê? Eu nada peço, a não ser dinheiro; dinheiro sim, porque é necessário comer, e as casas de pasto não fiam. Nem as quitandeiras. ** Uma cousa de nada, uns dous vinténs de angu, nem isso fiam as malditas quitandeiras... Um inferno, meu... ia dizer meu amigo... Um inferno! O diabo! Todos os diabos! Olhe, ainda hoje não almocei.
+— Não é o primeiro que me promete alguma cousa - replicou -, e não sei se será o último que não me fará nada. E para quê? Eu nada peço, a não ser dinheiro; dinheiro sim, porque é necessário comer, e as casas de pasto não fiam. Nem as quitandeiras. Uma cousa de nada, uns dous vinténs de angu, nem isso fiam as malditas quitandeiras... Um inferno, meu... ia dizer meu amigo... Um inferno! O diabo! Todos os diabos! Olhe, ainda hoje não almocei.
 
 — Não?
 
@@ -1431,7 +1291,7 @@ Um sorriso magnífico lhe abriu os lábios.
 
 Tirei a carteira, escolhi uma nota de cinco mil-réis - a menos limpa - e dei-lha. Ele recebeu-ma com os olhos cintilantes de cobiça. Levantou a nota ao ar, e agitou-a entusiasmado.
 
-— In hoc signo vinces! *** - bradou.
+— In hoc signo vinces! - bradou.
 
 E depois beijou-a, com muitos ademanes de ternura, e tão ruidosa expansão, que me produziu um sentimento misto de nojo e lástima. Ele, que era arguto, entendeu-me; ficou sério, grotescamente sério, e pediu-me desculpa da alegria, dizendo que era alegria de pobre que não via, desde muitos anos, uma nota de cinco mil-réis.
 
@@ -1445,13 +1305,7 @@ Fez um gesto de desdém; calou-se alguns instantes; depois disse-me positivament
 
 — Não vá sem eu lhe ensinar a minha filosofia da miséria - disse ele, escarranchando-se diante de mim.
 
-* O colarinho era separado da camisa, e era frequente mudar-se apenas ele, já que a camisa era discretamente encoberta pela sobrecasaca. Um colarinho de oito dias, portanto, é um colarinho sujo.
-
-** As casas de pasto eram restaurantes populares, tavernas. As quitandeiras eram vendedoras ambulantes de quitutes caseiros.
-
-*** Frase latina que significa "Por este sinal vencerás". Segundo a tradição, Constantino ( 272 - 337 ), imperador romano que se converteu ao cristianismo no século IV, teve uma visão da cruz com essa inscrição latina antes de uma importante batalha. Venceu-a e, a partir daí, o cristianismo passou a ser a religião oficial do Império Romano.
-
-### LX. O abraço
+### 060 — O Abraço
 
 Cuidei que o pobre-diabo estivesse doudo, e ia afastar-me, quando ele me pegou no pulso, e olhou alguns instantes para o brilhante que eu trazia no dedo. Senti-lhe na mão uns estremeções de cobiça, uns pruridos de posse.
 
@@ -1479,9 +1333,9 @@ E dizendo isto abraçou-me com tal ímpeto, que não pude evitá-lo. Separamo-no
 
 Meto a mão no colete e não acho o relógio. Última desilusão! O Borba furtara-mo no abraço.
 
-## Capítulos 61 a 70
+## Capítulos 061 — 070
 
-### LXI. Um projeto
+### 061 — Um Projeto
 
 Jantei triste. Não era a falta do relógio que me pungia, era a imagem do autor do furto, e as reminiscências de criança, e outra vez a comparação, e a conclusão... Desde a sopa, começou a abrir em mim a flor amarela e mórbida do capítulo XXV, e então jantei depressa, para correr à casa de Virgília. Virgília era o presente; eu queria refugiar-me nele, para escapar às opressões do passado, porque o encontro do Quincas Borba tornara-me aos olhos o passado, não qual fora deveras, mas um passado roto, abjeto, mendigo e gatuno.
 
@@ -1493,11 +1347,11 @@ Saí de casa, mas era cedo; iria achá-los à mesa. Outra vez pensei no Quincas 
 
 Não era impossível encontrá-lo noutra ocasião; prometi a mim mesmo lá voltar. A necessidade de o regenerar, de o trazer ao trabalho e ao respeito de sua pessoa enchia-me o coração; eu começava a sentir um bem-estar, uma elevação, uma admiração de mim próprio... Nisto caía a noite; fui ter com Virgília.
 
-### LXII. O travesseiro
+### 062 — O Travesseiro
 
 Fui ter com Virgília; depressa esqueci o Quincas Borba. Virgília era o travesseiro do meu espírito, um travesseiro mole, tépido, aromático, enfronhado em cambraia e bruxelas. Era ali que ele costumava repousar de todas as sensações más, simplesmente enfadonhas, ou até dolorosas. E, bem pesadas as cousas, não era outra a razão da existência de Virgília; não podia ser. Cinco minutos bastaram para olvidar inteiramente o Quincas Borba; cinco minutos de uma contemplação mútua, com as mãos presas umas nas outras; cinco minutos e um beijo. E lá se foi a lembrança do Quincas Borba... Escrófula da vida, andrajo do passado, que me importa que existas, que molestes os olhos dos outros, se eu tenho dous palmos de um travesseiro divino, para fechar os olhos e dormir?
 
-### LXIII. Fujamos!
+### 063 — Fujamos!
 
 Ai! Nem sempre dormir. Três semanas depois, indo à casa de Virgília - eram quatro horas da tarde -, achei-a triste e abatida. Não me quis dizer o que era; mas, como eu instasse muito:
 
@@ -1549,7 +1403,7 @@ Virgília sentara-se ao lado dele, pegou-lhe numa das mãos, compôs-lhe a grava
 
 — Nada menos que um camarote.
 
-— Para a Candiani? *
+— Para a Candiani?
 
 — Para a Candiani.
 
@@ -1569,9 +1423,7 @@ Ao jantar, desmenti-o; bebi mais do que costumava; ainda assim, menos do que era
 
 E saí.
 
-* Augusta Candiani ( 1820 - 90 ), cantora lírica italiana que foi uma das mais importantes prima-donas do teatro brasileiro do século XIX.
-
-### LXIV. A transação
+### 064 — A Transação
 
 Vaguei pelas ruas e recolhi-me às nove horas. Não podendo dormir, atirei-me a ler e escrever. Às onze horas estava arrependido de não ter ido ao teatro, consultei o relógio, quis vestir-me, e sair. Julguei, porém, que chegaria tarde; demais, era dar prova de fraqueza. Evidentemente, Virgília começava a aborrecer-se de mim, pensava eu. E esta ideia fez-me sucessivamente desesperado e frio, disposto a esquecê-la e a matá-la. Via-a dali mesmo, reclinada no camarote, com os seus magníficos braços nus - os braços que eram meus, só meus -, fascinando os olhos de todos, com o vestido soberbo que havia de ter, o colo de leite, os cabelos postos em bandós, à maneira do tempo, e os brilhantes, menos luzidios que os olhos dela... Via-a assim, e doía-me que a vissem outros. Depois, começava a despi-la, a pôr de lado as joias e sedas, a despenteá-la com as minhas mãos sôfregas e lascivas, a torná-la - não sei se mais bela, se mais natural -, a torná-la minha, somente minha, unicamente minha.
 
@@ -1611,7 +1463,7 @@ Virgília desatou a chorar, e para não atrair gente, metia o lenço na boca, re
 
 Estava ainda excitada; pedi-lhe que esquecesse tudo, que me perdoasse, que eu era um doudo, mas que a minha insânia provinha dela e com ela acabaria. Virgília enxugou os olhos e estendeu-me a mão. Sorrimos ambos; minutos depois, tornávamos ao assunto da casinha solitária, em alguma rua escusa...
 
-### LXV. Olheiros e escutas
+### 065 — Olheiros e Escutas
 
 Interrompeu-nos o rumor de um carro na chácara. Veio um escravo dizer que era a baronesa X. Virgília consultou-me com os olhos.
 
@@ -1641,13 +1493,13 @@ A segunda pessoa era um parente de Virgília, o Viegas, um cangalho de setenta i
 
 Havia ainda o primo de Virgília, o Luís Dutra, que eu agora desarmava à força de lhe falar nos versos e prosas, e de o apresentar aos conhecidos. Quando estes, ligando o nome à pessoa, se mostravam contentes da apresentação, não há dúvida que Luís Dutra exultava de felicidade; mas eu curava-me da felicidade com a esperança de que ele nos não denunciasse nunca. Havia, enfim, umas duas ou três senhoras, vários gamenhos, e os fâmulos, que naturalmente se desforravam assim da condição servil, e tudo isso constituía uma verdadeira floresta de olheiros e escutas, por entre os quais tínhamos de resvalar com a tática e maciez das cobras.
 
-### LXVI. As pernas
+### 066 — As Pernas
 
 Ora, enquanto eu pensava naquela gente, iam-me as pernas levando, ruas abaixo, de modo que insensivelmente me achei à porta do hotel Pharoux. De costume jantava aí; mas, não tendo deliberadamente andado, nenhum merecimento da ação me cabe, e sim às pernas, que a fizeram. Abençoadas pernas! E há quem vos trate com desdém ou indiferença. Eu mesmo, até então, tinha-vos em má conta, zangava-me quando vos fatigáveis, quando não podíeis ir além de certo ponto, e me deixáveis com o desejo a avoaçar, à semelhança de galinha atada pelos pés.
 
 Aquele caso, porém, foi um raio de luz. Sim, pernas amigas, vós deixastes à minha cabeça o trabalho de pensar em Virgília, e dissestes uma à outra: "Ele precisa comer, são horas de jantar, vamos levá-lo ao Pharoux; dividamos a consciência dele, uma parte fique lá com a dama, tomemos nós a outra, para que ele vá direito, não abalroe as gentes e as carroças, tire o chapéu aos conhecidos, e finalmente chegue são e salvo ao hotel". E cumpristes à risca o vosso propósito, amáveis pernas, o que me obriga a imortalizar-vos nesta página.
 
-### LXVII. A casinha
+### 067 — A Casinha
 
 Jantei e fui a casa. Lá achei uma caixa de charutos, que me mandara o Lobo Neves, embrulhada em papel de seda, e ornada de fitinhas cor-de-rosa. Entendi, abri-a, e tirei este bilhete:
 
@@ -1671,7 +1523,7 @@ Convencionamos que iria morar ali uma mulher, conhecida de Virgília, em cuja ca
 
 Para mim era aquilo uma situação nova do nosso amor, uma aparência de posse exclusiva, de domínio absoluto, alguma cousa que me faria adormecer a consciência e resguardar o decoro. Já estava cansado das cortinas do outro, das cadeiras, do tapete, do canapé, de todas essas cousas, que me traziam aos olhos constantemente a nossa duplicidade. Agora podia evitar os jantares frequentes, o chá de todas as noites, enfim a presença do filho deles, meu cúmplice e meu inimigo. A casa resgatava-me tudo; o mundo vulgar terminaria à porta; dali para dentro era o infinito, um mundo eterno, superior, excepcional, nosso, somente nosso, sem leis, sem instituições, sem baronesas, sem olheiros, sem escutas - um só mundo, um só casal, uma só vida, uma só vontade, uma só afeição -, a unidade moral de todas as cousas pela exclusão das que me eram contrárias.
 
-### LXVIII. O vergalho
+### 068 — O Vergalho
 
 Tais eram as reflexões que eu vinha fazendo, por aquele Valongo fora, logo depois de ver e ajustar a casa. Interrompeu-mas um ajuntamento; era um preto que vergalhava outro na praça. O outro não se atrevia a fugir; gemia somente estas únicas palavras:
 
@@ -1699,7 +1551,7 @@ Parei, olhei... Justos céus! Quem havia de ser o do vergalho? Nada menos que o 
 
 Saí do grupo, que me olhava espantado e cochichava as suas conjecturas. Segui caminho, a desfiar uma infinidade de reflexões, que sinto haver inteiramente perdido; aliás, seria matéria para um bom capítulo, e talvez alegre. Eu gosto dos capítulos alegres; é o meu fraco. Exteriormente, era torvo o episódio do Valongo; mas só exteriormente. Logo que meti mais dentro a faca do raciocínio achei-lhe um miolo gaiato, fino, e até profundo. Era um modo que o Prudêncio tinha de se desfazer das pancadas recebidas - transmitindo-as a outro. Eu, em criança, montava-o, punha-lhe um freio na boca, e desancava-o sem compaixão; ele gemia e sofria. Agora, porém, que era livre, dispunha de si mesmo, dos braços, das pernas, podia trabalhar, folgar, dormir, desagrilhoado da antiga condição, agora é que ele se desbancava: comprou um escravo, e ia-lhe pagando, com alto juro, as quantias que de mim recebera. Vejam as subtilezas do maroto!
 
-### LXIX. Um grão de sandice
+### 069 — Um Grão de Sandice
 
 Este caso faz-me lembrar um doudo que conheci. Chamava-se Romualdo e dizia ser Tamerlão. Era a sua grande e única mania, e tinha uma curiosa maneira de a explicar.
 
@@ -1707,7 +1559,7 @@ Este caso faz-me lembrar um doudo que conheci. Chamava-se Romualdo e dizia ser T
 
 Pobre Romualdo! A gente ria da resposta, mas é provável que o leitor não se ria, e com razão; eu não lhe acho graça nenhuma. Ouvida, tinha algum chiste; mas assim contada, no papel, e a propósito de um vergalho recebido e transferido, força é confessar que é muito melhor voltar à casinha da Gamboa; deixemos os Romualdos e Prudêncios.
 
-### LXX. D. Plácida
+### 070 — D. Plácida
 
 Voltemos à casinha. Não serias capaz de lá entrar hoje, curioso leitor; envelheceu, enegreceu, apodreceu, e o proprietário deitou-a abaixo para substituí-la por outra, três vezes maior, mas juro-te que muito menor que a primeira. O mundo era estreito para Alexandre; um desvão de telhado é o infinito para as andorinhas.
 
@@ -1719,15 +1571,15 @@ Custou-lhe muito a aceitar a casa; farejara a intenção, e doía-lhe o ofício;
 
 Não fui ingrato; fiz-lhe um pecúlio de cinco contos - os cinco contos achados em Botafogo -, como um pão para a velhice. D. Plácida agradeceu-me com lágrimas nos olhos, e nunca mais deixou de rezar por mim, todas as noites, diante de uma imagem da Virgem, que tinha no quarto. Foi assim que lhe acabou o nojo.
 
-## Capítulos 71 a 80
+## Capítulos 071 — 080
 
-### LXXI. O senão do livro
+### 071 — O Senão do Livro
 
 Começo a arrepender-me deste livro. Não que ele me canse; eu não tenho que fazer; e, realmente, expedir alguns magros capítulos para esse mundo sempre é tarefa que distrai um pouco da eternidade. Mas o livro é enfadonho, cheira a sepulcro, traz certa contração cadavérica; vício grave, e aliás ínfimo, porque o maior defeito deste livro és tu, leitor. Tu tens pressa de envelhecer, e o livro anda devagar; tu amas a narração direita e nutrida, o estilo regular e fluente, e este livro e o meu estilo são como os ébrios, guinam à direita e à esquerda, andam e param, resmungam, urram, gargalham, ameaçam o céu, escorregam e caem...
 
 E caem! - Folhas misérrimas do meu cipreste, heis de cair, como quaisquer outras belas e vistosas; e, se eu tivesse olhos, dar-vos-ia uma lágrima de saudade. Esta é a grande vantagem da morte, que, se não deixa boca para rir, também não deixa olhos para chorar... Heis de cair.
 
-### LXXII. O bibliômano
+### 072 — O Bibliômano
 
 Talvez suprima o capítulo anterior; entre outros motivos, há aí, nas últimas linhas, uma frase muito parecida com despropósito, e eu não quero dar pasto à crítica do futuro.
 
@@ -1737,7 +1589,7 @@ Olhai: daqui a setenta anos, um sujeito magro, amarelo, grisalho, que não ama n
 
 O pior é o despropósito. Lá continua o homem inclinado sobre a página, com uma lente no olho direito, todo entregue à nobre e áspera função de decifrar o despropósito. Já prometeu a si mesmo escrever uma breve memória, na qual relate o achado do livro e a descoberta da sublimidade, se a houver por baixo daquela frase obscura. Ao cabo, não descobre nada e contenta-se com a posse. Fecha o livro, mira-o, remira-o, chega-se à janela e mostra-o ao sol. Um exemplar único! Nesse momento passa-lhe por baixo da janela um César ou um Cromwell, a caminho do poder. Ele dá de ombros, fecha a janela, estira-se na rede e folheia o livro devagar, com amor, aos goles... Um exemplar único!
 
-### LXXIII. O luncheon
+### 073 — O Luncheon
 
 O despropósito fez-me perder outro capítulo. Que melhor não era dizer as cousas lisamente, sem todos estes solavancos! Já comparei o meu estilo ao andar dos ébrios. Se a ideia vos parece indecorosa, direi que ele é o que eram as minhas refeições com Virgília, na casinha da Gamboa, onde às vezes fazíamos a nossa patuscada, o nosso luncheon. Vinho, fruta, compotas. Comíamos, é verdade, mas era um comer virgulado de palavrinhas doces, de olhares ternos, de criancices, uma infinidade desses apartes do coração, aliás o verdadeiro, o ininterrupto discurso do amor. Às vezes vinha o arrufo temperar o nímio adocicado da situação. Ela deixava-me, refugiava-se num canto do canapé, ou ia para o interior ouvir as denguices de D. Plácida. Cinco ou dez minutos depois, reatávamos a palestra, como eu reato a narração, para desatá-la outra vez. Note-se que, longe de termos horror ao método, era nosso costume convidá-lo, na pessoa de D. Plácida, a sentar-se conosco à mesa; mas D. Plácida não aceitava nunca.
 
@@ -1747,7 +1599,7 @@ O despropósito fez-me perder outro capítulo. Que melhor não era dizer as cous
 
 E, pegando-lhe nas mãos, olhou-a fixamente, fixamente, fixamente, até molharem-se-lhe os olhos, de tão fixo que era. Virgília acariciou-a muito; eu deixei-lhe uma pratinha na algibeira do vestido.
 
-### LXXIV. História de D. Plácida
+### 074 — História de D. Plácida
 
 Não te arrependas de ser generoso; a pratinha rendeu-me uma confidência de D. Plácida, e conseguintemente, este capítulo. Dias depois, como eu a achasse só em casa, travamos palestra, e ela contou-me em breves termos a sua história. Era filha natural de um sacristão da Sé e de uma mulher que fazia doces para fora. Perdeu o pai aos dez anos. Já então ralava coco e fazia não sei que outros trabalhos de doceira, compatíveis com a idade. Aos quinze ou dezesseis casou com um alfaiate, que morreu tísico algum tempo depois, deixando-lhe uma filha. Viúva e moça, ficaram a seu cargo a filha, com dous anos, e a mãe, cansada de trabalhar. Tinha de sustentar a três pessoas. Fazia doces, que era o seu ofício, mas cosia também, de dia e de noite, com afinco, para três ou quatro lojas, e ensinava algumas crianças do bairro, a dez tostões por mês. Com isto iam-se passando os anos, não a beleza, porque não a tivera nunca. Apareceram-lhe alguns namoros, propostas, seduções, a que resistia.
 
@@ -1757,7 +1609,7 @@ Um dos pretendentes conseguiu fazer-se aceito; não sendo, porém, mais delicado
 
 — Queres ser melhor do que eu? Não sei donde te vêm essas fidúcias de pessoa rica. Minha camarada, a vida não se arranja à toa; não se come vento. Ora esta! Moços tão bons como o Policarpo da venda, coitado... Esperas algum fidalgo, não é?
 
-D. Plácida jurou-me que não esperava fidalgo nenhum. Era gênio. Queria ser casada. Sabia muito bem que a mãe o não fora, e conhecia algumas que tinham só o seu moço delas; mas era gênio e queria ser casada. Não queria também que a filha fosse outra cousa. Trabalhava muito, queimando os dedos ao fogão, e os olhos ao candeeiro, para comer e não cair. Emagreceu, adoeceu, perdeu a mãe, enterrou-a por subscrição, * e continuou a trabalhar. A filha estava com quatorze anos; mas era muito fraquinha, e não fazia nada, a não ser namorar os capadócios que lhe rondavam a rótula. D. Plácida vivia com imensos cuidados, levando-a consigo, quando tinha de ir entregar costuras. A gente das lojas arregalava e piscava os olhos, convencida de que ela a levava para colher marido ou outra cousa. Alguns diziam graçolas, faziam cumprimentos; a mãe chegou a receber propostas de dinheiro...
+D. Plácida jurou-me que não esperava fidalgo nenhum. Era gênio. Queria ser casada. Sabia muito bem que a mãe o não fora, e conhecia algumas que tinham só o seu moço delas; mas era gênio e queria ser casada. Não queria também que a filha fosse outra cousa. Trabalhava muito, queimando os dedos ao fogão, e os olhos ao candeeiro, para comer e não cair. Emagreceu, adoeceu, perdeu a mãe, enterrou-a por subscrição, e continuou a trabalhar. A filha estava com quatorze anos; mas era muito fraquinha, e não fazia nada, a não ser namorar os capadócios que lhe rondavam a rótula. D. Plácida vivia com imensos cuidados, levando-a consigo, quando tinha de ir entregar costuras. A gente das lojas arregalava e piscava os olhos, convencida de que ela a levava para colher marido ou outra cousa. Alguns diziam graçolas, faziam cumprimentos; a mãe chegou a receber propostas de dinheiro...
 
 Interrompeu-se um instante, e continuou logo:
 
@@ -1765,21 +1617,19 @@ Interrompeu-se um instante, e continuou logo:
 
 Ao soltar a última frase, D. Plácida teve um calafrio. Depois, como se tornasse a si, pareceu atentar na inconveniência daquela confissão ao amante de uma mulher casada, e começou a rir, a desdizer-se, a chamar-se tola, "cheia de fidúcias", como lhe dizia a mãe; enfim, cansada do meu silêncio, retirou-se da sala. Eu fiquei a olhar para a ponta do botim.
 
-* Enterrou-a com dinheiro de doações.
-
-### LXXV. Comigo
+### 075 — Comigo
 
 Podendo acontecer que algum dos meus leitores tenha pulado o capítulo anterior, observo que é preciso lê-lo para entender o que eu disse comigo, logo depois que D. Plácida saiu da sala. O que eu disse foi isto:
 
 "Assim, pois, o sacristão da Sé, um dia, ajudando à missa, viu entrar a dama, que devia ser sua colaboradora na vida de D. Plácida. Viu-a outros dias, durante semanas inteiras, gostou, disse-lhe alguma graça, pisou-lhe o pé, ao acender os altares, nos dias de festa. Ela gostou dele, acercaram-se, amaram-se. Dessa conjunção de luxúrias vadias brotou D. Plácida. É de crer que D. Plácida não falasse ainda quando nasceu, mas se falasse podia dizer aos autores de seus dias: - Aqui estou. Para que me chamastes? - E o sacristão e a sacristã naturalmente lhe responderiam: - Chamamos-te para queimar os dedos nos tachos, os olhos na costura, comer mal, ou não comer, andar de um lado para outro, na faina, adoecendo e sarando, com o fim de tornar a adoecer e sarar outra vez, triste agora, logo desesperada, amanhã resignada, mas sempre com as mãos no tacho e os olhos na costura, até acabar um dia na lama ou no hospital; foi para isso que te chamamos, num momento de simpatia."
 
-### LXXVI. O estrume
+### 076 — O Estrume
 
 Súbito deu-me a consciência um repelão, acusou-me de ter feito capitular a probidade de D. Plácida, obrigando-a a um papel torpe, depois de uma longa vida de trabalho e privações. Medianeira não era melhor que concubina, e eu tinha-a baixado a esse ofício, à custa de obséquios e dinheiros. Foi o que me disse a consciência; fiquei uns dez minutos sem saber que lhe replicasse. Ela acrescentou que eu me aproveitara da fascinação exercida por Virgília sobre a ex-costureira, da gratidão desta, enfim da necessidade. Notou a resistência de D. Plácida, as lágrimas dos primeiros dias, as caras feias, os silêncios, os olhos baixos, e a minha arte em suportar tudo isso, até vencê-la. E repuxou-me outra vez de um modo irritado e nervoso.
 
 Concordei que assim era, mas aleguei que a velhice de D. Plácida estava agora ao abrigo da mendicidade: era uma compensação. Se não fossem os meus amores, provavelmente D. Plácida acabaria como tantas outras criaturas humanas; donde se poderia deduzir que o vício é muitas vezes o estrume da virtude. O que não impede que a virtude seja uma flor cheirosa e sã. A consciência concordou, e eu fui abrir a porta a Virgília.
 
-### LXXVII. Entrevista
+### 077 — Entrevista
 
 Virgília entrou risonha e sossegada. Os tempos tinham levado os sustos e vexames. Que doce que era vê-la chegar, nos primeiros dias, envergonhada e trêmula! Ia de sege, velado o rosto, envolvida numa espécie de mantéu, que lhe disfarçava as ondulações do talhe. Da primeira vez deixou-se cair no canapé, ofegante, escarlate, com os olhos no chão; e - palavra! - em nenhuma outra ocasião a achei tão bela, talvez porque nunca me senti mais lisonjeado.
 
@@ -1799,7 +1649,7 @@ Agora mesmo, custava-me responder alguma cousa, mas enfim contei-lhe o motivo da
 
 E foi tirar o chapéu, lépida, jovial, como a menina que torna do colégio; depois veio a mim, que estava sentado, deu-me pancadinhas na testa, com um só dedo, a repetir: - Isto, isto -; e eu não tive remédio senão rir também, e tudo acabou em galhofa. Era claro que me enganara.
 
-### LXXVIII. A presidência
+### 078 — A Presidência
 
 Certo dia, meses depois, entrou Lobo Neves em casa, dizendo que iria talvez ocupar uma presidência de província. Olhei para Virgília, que empalideceu; ele, que a viu empalidecer, perguntou-lhe:
 
@@ -1839,13 +1689,13 @@ Virgília teve um gesto aflitivo; eu fui encostar-me ao consolo fronteiro. Decor
 
 Virgília quis agarrar-me, mas eu já estava fora da porta. Cheguei a ouvir um prorromper de lágrimas, e digo-lhes que estive a ponto de voltar, para as enxugar com um beijo; mas subjuguei-me e saí.
 
-### LXXIX. Compromisso
+### 079 — Compromisso
 
 Não acabaria se houvesse de contar pelo miúdo o que padeci nas primeiras horas. Vacilava entre um querer e um não querer, entre a piedade que me empuxava à casa de Virgília e outro sentimento - egoísmo, suponhamos -, que me dizia: - Fica; deixa-a a sós com o problema, deixa-a que ela o resolverá no sentido do amor. - Creio que essas duas forças tinham igual intensidade, investiam e resistiam ao mesmo tempo, com ardor, com tenacidade, e nenhuma cedia definitivamente. Às vezes sentia um dentezinho de remorso; parecia-me que abusava da fraqueza de uma mulher amante e culpada, sem nada sacrificar nem arriscar de mim próprio; e, quando ia a capitular, vinha outra vez o amor, e me repetia o conselho egoísta, e eu ficava irresoluto e inquieto, desejoso de a ver, e receoso de que a vista me levasse a compartir a responsabilidade da solução.
 
 Por fim interveio um compromisso entre o egoísmo e a piedade; eu iria vê-la em casa, e só em casa, em presença do marido, para lhe não dizer nada, à espera do efeito da minha intimação. Deste modo poderia conciliar as duas forças. Agora, que isto escrevo, quer-me parecer que o compromisso era uma burla, que essa piedade era ainda uma forma de egoísmo, e que a resolução de ir consolar Virgília não passava de uma sugestão de meu próprio padecimento.
 
-### LXXX. De secretário
+### 080 — De Secretário
 
 Na noite seguinte fui efetivamente à casa do Lobo Neves; estavam ambos, Virgília muito triste, ele muito jovial. Juro que ela sentiu certo alívio, quando os nossos olhos se encontraram, cheios de curiosidade e ternura. Lobo Neves contou-me os planos que levava para a presidência, as dificuldades locais, as esperanças, as resoluções; estava tão contente! Tão esperançado! Virgília, ao pé da mesa, fingia ler um livro, mas por cima da página olhava-me de quando em quando, interrogativa e ansiosa.
 
@@ -1865,9 +1715,9 @@ Não sei o que lhe disse.
 
 Meu espírito deu um salto para trás, como se descobrisse uma serpente diante de si. Encarei o Lobo Neves, fixamente, imperiosamente, a ver se lhe apanhava algum pensamento oculto... Nem sombra disso; o olhar vinha direito e franco, a placidez do rosto era natural, não violenta, uma placidez salpicada de alegria. Respirei, e não tive ânimo de olhar para Virgília; senti por cima da página o olhar dela, que me pedia também a mesma cousa, e disse que sim, que iria. Na verdade, um presidente, uma presidenta, um secretário, era resolver as cousas de um modo administrativo.
 
-## Capítulos 81 a 90
+## Capítulos 081 — 090
 
-### LXXXI. A reconciliação
+### 081 — A Reconciliação
 
 Contudo, ao sair de lá, tive umas sombras de dúvida; cogitei se não ia expor insanamente a reputação de Virgília, se não haveria outro meio razoável de combinar o Estado e a Gamboa. Não achei nada. No dia seguinte, ao levantar-me da cama, trazia o espírito feito e resoluto a aceitar a nomeação. Ao meio-dia, veio o criado dizer-me que estava na sala uma senhora, coberta com um véu. Corro; era minha irmã Sabina.
 
@@ -1875,7 +1725,7 @@ Contudo, ao sair de lá, tive umas sombras de dúvida; cogitei se não ia expor 
 
 — Mas se eu não te peço outra cousa, mana! - bradei estendendo-lhe os braços.
 
-Sentei-a ao pé de mim, falei-lhe do marido, da filha, dos negócios, de tudo. Tudo ia bem; a filha estava linda como os amores. * O marido viria mostrar-ma, se eu consentisse.
+Sentei-a ao pé de mim, falei-lhe do marido, da filha, dos negócios, de tudo. Tudo ia bem; a filha estava linda como os amores. O marido viria mostrar-ma, se eu consentisse.
 
 — Ora essa! Irei eu mesmo vê-la.
 
@@ -1903,9 +1753,7 @@ Era minha sobrinha. Apanhei-a do chão, beijei-a muitas vezes; a pequena, espant
 
 Cotrim reprimiu-a com um gesto, que não entendi bem. Não importa; a reconciliação de uma família vale bem um gesto enigmático.
 
-* A figura dos Amores é frequentemente representada na arte ocidental cercando Vênus, como se fossem vários cupidos.
-
-### LXXXII. Questão de botânica
+### 082 — Questão de Botânica
 
 Digam o que quiserem dizer os hipocondríacos: a vida é uma cousa doce. Foi o que eu pensei comigo, ao ver Sabina, o marido e a filha descerem de tropel as escadas, dizendo muitas palavras afetuosas para cima, onde eu ficava - no patamar -, a dizer-lhes outras tantas para baixo. Continuei a pensar que, na verdade, era feliz. Amava-me uma mulher, tinha a confiança do marido, ia por secretário de ambos, e reconciliava-me com os meus. Que podia desejar mais, em vinte e quatro horas?
 
@@ -1919,11 +1767,9 @@ Mas a alusão mais rasgada que me fizeram foi em casa de Sabina, três dias depo
 
 — Pois então? Seu mano é um grande latinista. Traduz Virgílio de relance. Olhe que é Virgílio, e não Virgília... não confunda...
 
-E ria, de um riso grosso, rasteiro e frívolo. Sabina olhou para mim receosa de alguma réplica; mas sorriu, quando me viu sorrir, e voltou o rosto para disfarçá-lo. As outras pessoas olhavam-me com um ar de curiosidade, indulgência e simpatia; era transparente que não acabavam de ouvir nenhuma novidade. O caso dos meus amores andava mais público do que eu podia supor. Entretanto sorri, um sorriso curto, fugitivo e guloso - palreiro como as pegas de Sintra. * Virgília era um belo erro, e é tão fácil confessar um belo erro! Costumava ficar carrancudo, a princípio, quando ouvia alguma alusão aos nossos amores; mas - palavra de honra! - sentia cá dentro uma impressão suave e lisonjeira. Uma vez, porém, aconteceu-me sorrir, e continuei a fazê-lo das outras vezes. Não sei se há aí alguém que explique o fenômeno. Eu explico-o assim: a princípio, o contentamento, sendo interior, era por assim dizer o mesmo sorriso, mas abotoado; andando o tempo, desabotoou-se em flor, e apareceu aos olhos do próximo. Simples questão de botânica.
+E ria, de um riso grosso, rasteiro e frívolo. Sabina olhou para mim receosa de alguma réplica; mas sorriu, quando me viu sorrir, e voltou o rosto para disfarçá-lo. As outras pessoas olhavam-me com um ar de curiosidade, indulgência e simpatia; era transparente que não acabavam de ouvir nenhuma novidade. O caso dos meus amores andava mais público do que eu podia supor. Entretanto sorri, um sorriso curto, fugitivo e guloso - palreiro como as pegas de Sintra. Virgília era um belo erro, e é tão fácil confessar um belo erro! Costumava ficar carrancudo, a princípio, quando ouvia alguma alusão aos nossos amores; mas - palavra de honra! - sentia cá dentro uma impressão suave e lisonjeira. Uma vez, porém, aconteceu-me sorrir, e continuei a fazê-lo das outras vezes. Não sei se há aí alguém que explique o fenômeno. Eu explico-o assim: a princípio, o contentamento, sendo interior, era por assim dizer o mesmo sorriso, mas abotoado; andando o tempo, desabotoou-se em flor, e apareceu aos olhos do próximo. Simples questão de botânica.
 
-* Segundo a lenda, as pegas, pássaros que repetem o que ouvem, teriam saído em voo do jardim do palácio de Sintra, repetindo a frase "Foi por bem", que o rei d. João I teria dito depois de ser surpreendido pela rainha d. Filipa junto a uma dama da corte.
-
-### LXXXIII. 13
+### 083 — 13
 
 Cotrim tirou-me daquele gozo, levando-me à janela.
 
@@ -1963,23 +1809,19 @@ Virgília deixou-se cair, no canapé, a rir.
 
 Contou-me que o marido ia recusar a nomeação, e por motivo que só lhe disse, a ela, pedindo-lhe o maior segredo; não podia confessá-lo a ninguém mais. - É pueril - observou ele -, é ridículo; mas, em suma, é um motivo poderoso para mim. - Referiu-lhe que o decreto trazia a data de 13, e que esse número significava para ele uma recordação fúnebre. O pai morreu num dia 13, treze dias depois de um jantar em que havia treze pessoas. A casa em que morrera a mãe tinha o n o 13. Et cætera. Era um algarismo fatídico. Não podia alegar semelhante cousa ao ministro; dir-lhe-ia que tinha razões particulares para não aceitar. Eu fiquei como há de estar o leitor - um pouco assombrado com esse sacrifício a um número; mas, sendo ele ambicioso, o sacrifício devia ser sincero...
 
-### LXXXIV. O conflito
+### 084 — O Conflito
 
-Número fatídico, lembras-te que te abençoei muitas vezes? Assim também as virgens ruivas de Tebas deviam abençoar a égua, de ruiva crina, que as substituiu no sacrifício de Pelópidas - * uma donosa égua, que lá morreu, coberta de flores, sem que ninguém lhe desse nunca uma palavra de saudade. Pois dou-ta eu, égua piedosa, não só pela morte havida, como porque, entre as donzelas escapas, não é impossível que figurasse uma avó dos Cubas... Número fatídico, tu foste a nossa salvação. Não me confessou o marido a causa da recusa; disse-me também que eram negócios particulares, e o rosto sério, convencido, com que eu o escutei fez honra à dissimulação humana. Ele é que mal podia encobrir a tristeza profunda que o minava; falava pouco, absorvia-se, metia-se em casa, a ler. Outras vezes recebia, e então conversava e ria muito, com estrépito e afetação. Oprimiam-no duas cousas - a ambição, que um escrúpulo desazara, e logo depois a dúvida -, e talvez o arrependimento, mas um arrependimento que viria outra vez, se se repetisse a hipótese, porque o fundo supersticioso existia. Duvidava da superstição, sem chegar a rejeitá-la. Essa persistência de um sentimento que repugna ao mesmo indivíduo era um fenômeno digno de alguma atenção. Mas eu preferia a pura ingenuidade de D. Plácida, quando confessava não poder ver um sapato voltado para o ar.
+Número fatídico, lembras-te que te abençoei muitas vezes? Assim também as virgens ruivas de Tebas deviam abençoar a égua, de ruiva crina, que as substituiu no sacrifício de Pelópidas - uma donosa égua, que lá morreu, coberta de flores, sem que ninguém lhe desse nunca uma palavra de saudade. Pois dou-ta eu, égua piedosa, não só pela morte havida, como porque, entre as donzelas escapas, não é impossível que figurasse uma avó dos Cubas... Número fatídico, tu foste a nossa salvação. Não me confessou o marido a causa da recusa; disse-me também que eram negócios particulares, e o rosto sério, convencido, com que eu o escutei fez honra à dissimulação humana. Ele é que mal podia encobrir a tristeza profunda que o minava; falava pouco, absorvia-se, metia-se em casa, a ler. Outras vezes recebia, e então conversava e ria muito, com estrépito e afetação. Oprimiam-no duas cousas - a ambição, que um escrúpulo desazara, e logo depois a dúvida -, e talvez o arrependimento, mas um arrependimento que viria outra vez, se se repetisse a hipótese, porque o fundo supersticioso existia. Duvidava da superstição, sem chegar a rejeitá-la. Essa persistência de um sentimento que repugna ao mesmo indivíduo era um fenômeno digno de alguma atenção. Mas eu preferia a pura ingenuidade de D. Plácida, quando confessava não poder ver um sapato voltado para o ar.
 
 — Que tem isso? - perguntava-lhe eu.
 
 — Faz mal - era a sua resposta.
 
-Isto somente, esta única resposta, que valia para ela o livro dos sete selos. ** Faz mal. Disseram-lhe isso em criança, sem outra explicação, e ela contentava-se com a certeza do mal. Já não acontecia a mesma cousa quando se falava de apontar uma estrela com o dedo; aí sabia perfeitamente que era caso de criar uma verruga.
+Isto somente, esta única resposta, que valia para ela o livro dos sete selos. Faz mal. Disseram-lhe isso em criança, sem outra explicação, e ela contentava-se com a certeza do mal. Já não acontecia a mesma cousa quando se falava de apontar uma estrela com o dedo; aí sabia perfeitamente que era caso de criar uma verruga.
 
 Ou verruga ou outra cousa, que valia isso, para quem não perde uma presidência de província? Tolera-se uma superstição gratuita ou barata; é insuportável a que leva uma parte da vida. Este era o caso do Lobo Neves com o acréscimo da dúvida e do terror de haver sido ridículo. E mais este outro acréscimo, que o ministro não acreditou nos motivos particulares; atribuiu a recusa do Lobo Neves a manejos políticos, ilusão complicada de algumas aparências; tratou-o mal, comunicou a desconfiança aos colegas; sobrevieram incidentes; enfim, com o tempo, o presidente resignatário foi para a oposição.
 
-* No capítulo de Vidas paralelas dedicado a Pelópidas ( 420 - 364 a.C.), Plutarco conta a história de uma égua de pelo cor de fogo, sacrificada em substituição a uma jovem tebana.
-
-** O livro dos sete selos é assunto do capítulo 5 do Apocalipse, último dos livros bíblicos. É descrito como um rolo sete vezes selado, que guarda um mistério e uma revelação.
-
-### LXXXV. O cimo da montanha
+### 085 — O Cimo da Montanha
 
 Quem escapa a um perigo ama a vida com outra intensidade. Entrei a amar Virgília com muito mais ardor, depois que estive a pique de a perder, e a mesma cousa lhe aconteceu a ela. Assim, a presidência não fez mais do que avivar a afeição primitiva; foi a droga com que tornamos mais saboroso o nosso amor, e mais prezado também. Nos primeiros dias, depois daquele incidente, folgávamos de imaginar a dor da separação, se houvesse separação, a tristeza de um e de outro, à proporção que o mar, como uma toalha elástica, se fosse dilatando entre nós; e, semelhantes às crianças, que se achegam ao regaço das mães para fugir a uma simples careta, fugíamos do suposto perigo, apertando-nos com abraços.
 
@@ -1993,11 +1835,11 @@ Quem escapa a um perigo ama a vida com outra intensidade. Entrei a amar Virgíli
 
 E assim reatamos o fio da aventura, como a sultana Scheherazade, o dos seus contos. Esse foi, cuido eu, o ponto máximo do nosso amor, o cimo da montanha, donde por algum tempo divisamos os vales de leste e de oeste, e por cima de nós, o céu tranquilo e azul. Repousado esse tempo, começamos a descer a encosta, com as mãos presas ou soltas, mas a descer, a descer...
 
-### LXXXVI. O mistério
+### 086 — O Mistério
 
 Serra abaixo, como eu a visse um pouco diferente, não sei se abatida ou outra cousa, perguntei-lhe o que tinha; calou-se, fez um gesto de enfado, de mal-estar, de fadiga; ateimei, ela disse-me que... Um fluido subtil percorreu todo o meu corpo: sensação forte, rápida, singular, que eu não chegarei jamais a fixar no papel. Travei-lhe das mãos, puxei-a levemente a mim, e beijei-a na testa, com uma delicadeza de zéfiro e uma gravidade de Abraão. Ela estremeceu, colheu-me a cabeça entre as palmas, fitou-me os olhos, depois afagou-me com um gesto maternal... Eis aí um mistério; deixemos ao leitor o tempo de decifrar este mistério.
 
-### LXXXVII. Geologia
+### 087 — Geologia
 
 Sucedeu por esse tempo um desastre: a morte do Viegas. O Viegas passou aí de relance, com os seus setenta anos, abafados de asma, desconjuntados de reumatismo, e uma lesão de coração por quebra. Foi um dos finos espreitadores da nossa aventura. Virgília nutria grandes esperanças em que esse velho parente, avaro como um sepulcro, lhe amparasse o futuro do filho, com algum legado; e, se o marido tinha iguais pensamentos, encobria-os ou estrangulava-os. Tudo se deve dizer: havia no Lobo Neves certa dignidade fundamental, uma camada de rocha, que resistia ao comércio dos homens. As outras, as camadas de cima, terra solta e areia, levou-lhas a vida, que é um enxurro perpétuo. Se o leitor ainda se lembra do capítulo XXIII, observará que é agora a segunda vez que eu comparo a vida a um enxurro; mas também há de reparar que desta vez acrescento-lhe um adjetivo - perpétuo. E Deus sabe a força de um adjetivo, principalmente em países novos e cálidos.
 
@@ -2013,7 +1855,7 @@ Jacó foi recebê-lo, afirmando que cuidava ser outra pessoa, e não ele, e acre
 
 Retirou-se o Dr. B. e respiramos. Uma vez respirados, disse eu ao Jacó que ele acabava de mentir quatro vezes, em menos de duas horas: a primeira, negando-se, a segunda, alegrando-se com a presença do importuno; a terceira, dizendo que ia sair; a quarta, acrescentando que com a mulher. Jacó refletiu um instante, depois confessou a justeza da minha observação, mas desculpou-se dizendo que a veracidade absoluta era incompatível com um estado social adiantado, e que a paz das cidades só se podia obter à custa de embaçadelas recíprocas... Ah! Lembra-me agora: chamava-se Jacó Tavares.
 
-### LXXXVIII. O enfermo
+### 088 — O Enfermo
 
 Não é preciso dizer que refutei tão perniciosa doutrina, com os mais elementares argumentos; mas ele estava tão vexado do meu reparo, que resistiu até o fim, mostrando certo calor fictício, talvez para atordoar a consciência.
 
@@ -2033,7 +1875,7 @@ Repetia-se isto, com variantes. Como o Viegas gostasse de jogar damas, Virgília
 
 Falava, como se pode supor, lentamente e a custo, intervalado de uma arfagem incômoda para ele e para os outros. De quando em quando, vinha um acesso de tosse; curvo, gemendo, levava o lenço à boca, e investigava-o; passado o acesso, tornava ao plano da casa, que devia ter tais e tais quartos, um terraço, cocheira, um primor.
 
-### LXXXIX. In extremis
+### 089 — In Extremis
 
 — Amanhã vou passar o dia em casa do Viegas - disse-me ela uma vez. - Coitado! Não tem ninguém...
 
@@ -2065,9 +1907,7 @@ O sujeito magro aproximou-se da cama, pegou-lhe na mão, e sentiu-a fria. Eu ach
 
 Teve um acesso de tosse, e foi o último; daí a pouco expirava ele, com grande consternação do sujeito magro, que me confessou depois a disposição em que estava de oferecer os quarenta contos; mas era tarde.
 
-### XC. O velho colóquio
-
-de Adão e Caim
+### 090 — O Velho Colóquio de Adão e Caim
 
 Nada. Nenhuma lembrança testamentária, uma pastilha que fosse, com que do todo em todo não parecesse ingrato ou esquecido. Nada. Virgília tragou raivosa esse malogro, e disse-mo com certa cautela, não pela cousa em si, senão porque entendia com o filho, de quem sabia que eu não gostava muito, nem pouco. Insinuei-lhe que não devia pensar mais em semelhante negócio. O melhor de tudo era esquecer o defunto, um lorpa, um cainho sem nome, e tratar de cousas alegres; o nosso filho, por exemplo...
 
@@ -2075,15 +1915,15 @@ Lá me escapou a decifração do mistério, esse doce mistério de algumas seman
 
 O melhor é que conversávamos os dous, o embrião e eu, falávamos de cousas presentes e futuras. O maroto amava-me, era um pelintra gracioso, dava-me pancadinhas na cara com as mãozinhas gordas, ou então traçava a beca de bacharel, porque ele havia de ser bacharel, e fazia um discurso na Câmara dos Deputados. E o pai a ouvi-lo de uma tribuna, com os olhos rasos de lágrimas. De bacharel passava outra vez à escola, pequenino, lousa e livros debaixo do braço, ou então caía no berço para tornar a erguer-se homem. Em vão buscava fixar no espírito uma idade, uma atitude: esse embrião tinha a meus olhos todos os tamanhos e gestos: ele mamava, ele escrevia, ele valsava, ele era o interminável nos limites de um quarto de hora - baby e deputado, colegial e pintalegrete. Às vezes, ao pé de Virgília, esquecia-me dela e de tudo; Virgília sacudia-me, reprochava-me o silêncio; dizia que eu já lhe não queria nada. A verdade é que estava em diálogo com o embrião; era o velho colóquio de Adão e Caim, uma conversa sem palavras entre a vida e a vida, o mistério e o mistério.
 
-## Capítulos 91 a 100
+## Capítulos 091 — 100
 
-### XCI. Uma carta extraordinária
+### 091 — Uma Carta Extraordinária
 
 Por esse tempo recebi uma carta extraordinária, acompanhada de um objeto não menos extraordinário. Eis o que a carta dizia:
 
 Meu caro Brás Cubas,
 
-Há tempos, no Passeio Público, tomei-lhe de empréstimo um relógio. Tenho a satisfação de restituir-lho com esta carta. A diferença é que não é o mesmo, porém outro, não digo superior, mas igual ao primeiro. Que voulez-vous, monseigneur? - como dizia Fígaro - c'est la misere. * Muitas cousas se deram depois do nosso encontro; irei contá-las pelo miúdo, se me não fechar a porta. Saiba que já não trago aquelas botas caducas, nem envergo uma famosa sobrecasaca cujas abas se perdiam na noite dos tempos. Cedi o meu degrau da escada de São Francisco; finalmente, almoço.
+Há tempos, no Passeio Público, tomei-lhe de empréstimo um relógio. Tenho a satisfação de restituir-lho com esta carta. A diferença é que não é o mesmo, porém outro, não digo superior, mas igual ao primeiro. Que voulez-vous, monseigneur? - como dizia Fígaro - c'est la misere. Muitas cousas se deram depois do nosso encontro; irei contá-las pelo miúdo, se me não fechar a porta. Saiba que já não trago aquelas botas caducas, nem envergo uma famosa sobrecasaca cujas abas se perdiam na noite dos tempos. Cedi o meu degrau da escada de São Francisco; finalmente, almoço.
 
 Dito isto, peço licença para ir um dia destes expor-lhe um trabalho, fruto de longo estudo, um novo sistema de filosofia, que não só explica e descreve a origem e a consumação das cousas, como faz dar um grande passo adiante de Zenon e Sêneca, cujo estoicismo era um verdadeiro brinco de crianças ao pé da minha receita moral. É singularmente espantoso este meu sistema; retifica o espírito humano, suprime a dor, assegura a felicidade, e enche de imensa glória o nosso país. Chamo-lhe Humanitismo, de Humanitas, princípio das cousas. Minha primeira ideia revelava uma grande enfatuação; era chamar-lhe borbismo, de Borba; denominação vaidosa, além de rude e molesta. E com certeza exprimia menos. Verá, meu caro Brás Cubas, verá que é deveras um monumento; e se alguma cousa há que possa fazer-me esquecer as amarguras da vida, é o gosto de haver enfim apanhado a verdade e a felicidade. Ei-las na minha mão, essas duas esquivas; após tantos séculos de lutas, pesquisas, descobertas, sistemas e quedas, ei-las nas mãos do homem. Até breve, meu caro Brás Cubas. Saudades do
 
@@ -2093,37 +1933,11 @@ JOAQUIM BORBA DOS SANTOS
 
 Li esta carta sem entendê-la. Vinha com ela uma boceta contendo um bonito relógio com as minhas iniciais gravadas, e esta frase: Lembrança do velho Quincas. Voltei à carta, reli-a com pausa, com atenção. A restituição do relógio excluía toda a ideia de burla; a lucidez, a serenidade, a convicção - um pouco jactanciosa, é certo - pareciam excluir a suspeita de insensatez. Naturalmente o Quincas Borba herdara de algum dos seus parentes de Minas, e a abastança devolvera-lhe a primitiva dignidade. Não digo tanto; há cousas que se não podem reaver integralmente; mas enfim a regeneração não era impossível. Guardei a carta e o relógio, e esperei a filosofia.
 
-* Citação do ato I, cena II da comédia As bodas de Fígaro ( 1784 ), de Pierre-Augustin Beaumarchais ( 1732 - 99 ), que pode ser traduzida como: "Que quereis senhor? É a miséria".
+### 092 — Um Homem Extraordinário
 
-### XCII. Um homem extraordinário
+Já agora acabo com as cousas extraordinárias. Vinha de guardar a carta e o relógio, quando me procurou um homem magro e meão, com um bilhete do Cotrim, convidando-me para jantar. O portador era casado com uma irmã do Cotrim, chegara poucos dias antes do Norte, chamava-se Damasceno, e fizera a revolução de 1831. Foi ele mesmo que me disse isto, no espaço de cinco minutos. Saíra do Rio de Janeiro, por desacordo com o regente, que era um asno, pouco menos asno do que os ministros que serviram com ele. De resto, a revolução estava outra vez às portas. Neste ponto, conquanto trouxesse as ideias políticas um pouco baralhadas, consegui organizar e formular o governo de suas preferências: era um despotismo temperado, não por cantigas - como dizem alhures -, mas por penachos da Guarda Nacional. Só não pude alcançar se ele queria o despotismo de um, de três, de trinta ou de trezentos. Opinava por várias cousas, entre outras, o desenvolvimento do tráfico dos africanos e a expulsão dos ingleses. Gostava muito de teatro; logo que chegou foi ao Teatro de São Pedro, onde viu um drama soberbo, a Maria Joana, e uma comédia muito interessante, Kettly, ou a volta à Suíça. Também gostara muito da Deperini, na Safo, ou na Ana Bolena, não se lembrava bem. Mas a Candiani! Sim, senhor, era papa-fina. Agora queria ouvir o Ernani, que a filha dele cantava em casa, ao piano: Ernani, Ernani, involami... E dizia isto levantando-se e cantarolando a meia voz. No Norte essas cousas chegavam como um eco. A filha morria por ouvir todas as óperas. Tinha uma voz muito mimosa, a filha. E gosto, muito gosto. Ah! Ele estava ansioso por voltar ao Rio de Janeiro. Já havia corrido a cidade toda, com umas saudades... Palavra! Em alguns lugares teve vontade de chorar. Mas não embarcaria mais. Enjoara muito a bordo, como todos os outros passageiros, exceto um inglês... Que os levasse o diabo, os ingleses! Isto não ficava direito sem irem todos eles barra fora. Que é que a Inglaterra podia fazer-nos? Se ele encontrasse algumas pessoas de boa vontade, era obra de uma noite a expulsão de tais godemes... Graças a Deus, tinha patriotismo - e batia no peito -, o que não admirava porque era de família, descendia de um antigo capitão-mor muito patriota. Sim, não era nenhum pé-rapado. Viesse a ocasião, e ele havia de mostrar de que pau era a canoa... Mas fazia-se tarde, ia dizer que eu não faltaria ao jantar, e lá me esperava para maior palestra. Levei-o até a porta da sala; ele parou dizendo que simpatizava muito comigo. Quando casara, estava eu na Europa. Conheceu meu pai, um homem às direitas, com quem dançara num célebre baile da Praia Grande... Coisas! Coisas! Falaria depois, fazia-se tarde, tinha de ir levar a resposta ao Cotrim. Saiu; fechei-lhe a porta...
 
-Já agora acabo com as cousas extraordinárias. Vinha de guardar a carta e o relógio, quando me procurou um homem magro e meão, com um bilhete do Cotrim, convidando-me para jantar. O portador era casado com uma irmã do Cotrim, chegara poucos dias antes do Norte, chamava-se Damasceno, e fizera a revolução de 1831. i Foi ele mesmo que me disse isto, no espaço de cinco minutos. Saíra do Rio de Janeiro, por desacordo com o regente, ii que era um asno, pouco menos asno do que os ministros que serviram com ele. De resto, a revolução estava outra vez às portas. Neste ponto, conquanto trouxesse as ideias políticas um pouco baralhadas, consegui organizar e formular o governo de suas preferências: era um despotismo temperado, não por cantigas - como dizem alhures -, mas por penachos da Guarda Nacional. Só não pude alcançar se ele queria o despotismo de um, de três, de trinta ou de trezentos. Opinava por várias cousas, entre outras, o desenvolvimento do tráfico dos africanos e a expulsão dos ingleses. iii Gostava muito de teatro; logo que chegou foi ao Teatro de São Pedro, onde viu um drama soberbo, a Maria Joana, iv e uma comédia muito interessante, Kettly, ou a volta à Suíça. v Também gostara muito da Deperini, vi na Safo, vii ou na Ana Bolena, viii não se lembrava bem. Mas a Candiani! Sim, senhor, era papa-fina. Agora queria ouvir o Ernani, que a filha dele cantava em casa, ao piano: Ernani, Ernani, involami... ix E dizia isto levantando-se e cantarolando a meia voz. No Norte essas cousas chegavam como um eco. A filha morria por ouvir todas as óperas. Tinha uma voz muito mimosa, a filha. E gosto, muito gosto. Ah! Ele estava ansioso por voltar ao Rio de Janeiro. Já havia corrido a cidade toda, com umas saudades... Palavra! Em alguns lugares teve vontade de chorar. Mas não embarcaria mais. Enjoara muito a bordo, como todos os outros passageiros, exceto um inglês... Que os levasse o diabo, os ingleses! Isto não ficava direito sem irem todos eles barra fora. Que é que a Inglaterra podia fazer-nos? Se ele encontrasse algumas pessoas de boa vontade, era obra de uma noite a expulsão de tais godemes... x Graças a Deus, tinha patriotismo - e batia no peito -, o que não admirava porque era de família, descendia de um antigo capitão-mor muito patriota. Sim, não era nenhum pé-rapado. Viesse a ocasião, e ele havia de mostrar de que pau era a canoa... Mas fazia-se tarde, ia dizer que eu não faltaria ao jantar, e lá me esperava para maior palestra. Levei-o até a porta da sala; ele parou dizendo que simpatizava muito comigo. Quando casara, estava eu na Europa. Conheceu meu pai, um homem às direitas, com quem dançara xi num célebre baile da Praia Grande... xii Coisas! Coisas! Falaria depois, fazia-se tarde, tinha de ir levar a resposta ao Cotrim. Saiu; fechei-lhe a porta...
-
-i Referência a uma série de conflitos que culminaram com a abdicação de d. Pedro I: de um lado, os brasileiros "liberais", que reivindicavam do imperador uma política mais nacionalista, desgostosos com a tendência fortemente absolutista que tomava o seu governo; de outro, os portugueses "adotivos" (que tinham adotado a nacionalidade brasileira), solidários ao imperador e que o apoiavam sem restrições.
-
-ii Ao falar em "Regente", no singular, o narrador dá a entender que se trata do período da Regência Una, instaurada por um Ato Adicional (em 1834 ) à Constituição de 1824, que estabelecera a Regência Trina. O primeiro regente único, eleito em 1835, foi o padre Diogo Antônio Feijó, que ficou no poder até 1837; o segundo foi Pedro de Araújo Lima, marquês de Olinda, que a exerceu de 1837 a 1840.
-
-iii O tráfico para o Brasil, embora tornado ilegal a partir de 1831, somente cessou em torno de 1850, após a aprovação da Lei Eusébio de Queirós. Essa lei deveu-se em boa parte à pressão exercida pela Inglaterra, que, interessada no desenvolvimento do trabalho livre para a ampliação do mercado consumidor, fizera aprovar a Lei Aberdeen ( 1845 ), proibindo o tráfico marítimo de escravos e arrogando-se o direito de fiscalizar o contrabando, sobretudo no oceano Atlântico.
-
-iv Maria Joana ou a mulher do povo é um drama em cinco atos e seis quadros escrito por Adolphe d'Ennery ( 1811 - 99 ) e Julien de Mallian ( 1805 - 51 ). Segundo anúncios no Diário do Rio de Janeiro, foi encenada na cidade em 1858, não no Teatro de São Pedro, mas no mais popular Teatro de São Januário.
-
-v Kettly, ou a volta à Suíça é uma comédia (vaudevile) de Félix Duvert e Paul Duport. Foi encenada na reinauguração do Teatro de São Pedro de Alcântara, em 1857.
-
-vi Margherita Deperini, mezzo-soprano italiana, atuou na estreia da ópera Safo, de Pacini, no papel de Climene, suposta rival de Safo.
-
-vii Existem duas óperas intituladas Safo, mas o texto faz referência à de Giovanni Pacini ( 1796 - 1867 ).
-
-viii Ana Bolena é uma ópera em dois atos de Gaetano Donizetti ( 17 97 - 1848 ), com libreto de Felice Romani ( 1788 - 1865 ). Conta a história de Ana Bolena, que, repudiada por Henrique VIII, é julgada por adultério, condenada e executada.
-
-ix A ópera Ernani ( 1844 ), de Giuseppe Verdi ( 1813 - 1901 ), com libreto de Francesco Maria Piave ( 1810 - 76 ), foi encenada no Rio de Janeiro em 1854. A ária em questão, na voz de Elvira, está na cena III do ato I. Em tradução livre: "Ernani, Ernani, leva-me embora".
-
-x A palavra "godemes" é uma corruptela de "God-damned", imprecação inglesa que significa "malditos".
-
-xi A mais popular dança de salão no Rio de Janeiro na época em que se situa o romance era a quadrilha, em que se formavam pares, em linha, uns à frente dos outros.
-
-xii A Praia Grande é a Vila Real de Praia Grande, hoje a cidade de Niterói.
-
-### XCIII. O jantar
+### 093 — O Jantar
 
 Que suplício que foi o jantar! Felizmente, Sabina fez-me sentar ao pé da filha do Damasceno, uma D. Eulália, ou mais familiarmente Nhã-loló, moça graciosa, um tanto acanhada a princípio, mas só a princípio. Faltava-lhe elegância, mas compensava-a com os olhos, que eram soberbos e só tinham o defeito de se não arrancarem de mim, exceto quando desciam ao prato; mas Nhã-loló comia tão pouco, que quase não olhava para o prato. De noite cantou; a voz era como dizia o pai, "muito mimosa". Não obstante, esquivei-me. Sabina veio até à porta, e perguntou-me que tal achara a filha do Damasceno.
 
@@ -2137,7 +1951,7 @@ Que suplício que foi o jantar! Felizmente, Sabina fez-me sentar ao pé da filha
 
 E dizia isto a bater-me na face com os dedos, meiga como uma pomba, e ao mesmo tempo intimativa e resoluta. Santo Deus! Seria esse o motivo da reconciliação? Fiquei um pouco desconsolado com a ideia, mas uma voz misteriosa chamava-me à casa do Lobo Neves; disse adeus a Sabina e às suas ameaças.
 
-### XCIV. A causa secreta
+### 094 — A Causa Secreta
 
 — Como está a minha querida mamãe?
 
@@ -2145,13 +1959,11 @@ A esta palavra, Virgília amuou-se, como sempre. Estava ao canto de uma janela, 
 
 Naquela noite descobri a causa verdadeira. Era medo do parto e vexame da gravidez. Padecera muito quando lhe nasceu o primeiro filho; e essa hora, feita de minutos de vida e minutos de morte, dava-lhe já imaginariamente os calafrios do patíbulo. Quanto ao vexame, complicava-se ainda da forçada privação de certos hábitos da vida elegante. Com certeza, era isso mesmo; dei-lho a entender, repreendendo-a, um pouco em nome dos meus direitos de pai. Virgília fitou-me; em seguida desviou os olhos e sorriu de um jeito incrédulo.
 
-### XCV. Flores de antanho
+### 095 — Flores de Antanho
 
-Onde estão elas, as flores de antanho? Uma tarde, após algumas semanas de gestação, esboroou-se todo o edifício das minhas quimeras paternais. Foi-se o embrião, naquele ponto em que se não distingue Laplace de uma tartaruga. Tive a notícia por boca do Lobo Neves, que me deixou na sala e acompanhou o médico à alcova da frustrada mãe. Eu encostei-me à janela, a olhar para a chácara, onde verdejavam as laranjeiras sem flores. Onde iam elas, as flores de antanho? *
+Onde estão elas, as flores de antanho? Uma tarde, após algumas semanas de gestação, esboroou-se todo o edifício das minhas quimeras paternais. Foi-se o embrião, naquele ponto em que se não distingue Laplace de uma tartaruga. Tive a notícia por boca do Lobo Neves, que me deixou na sala e acompanhou o médico à alcova da frustrada mãe. Eu encostei-me à janela, a olhar para a chácara, onde verdejavam as laranjeiras sem flores. Onde iam elas, as flores de antanho?
 
-* A frase parece ecoar o refrão de um poema de François Villon, o primeiro dos grandes líricos franceses: "Mais où sont les neiges d'antan?" ("Mas onde estão as neves de antanho?"). O poema se intitula "Ballade des dames du temps jadis".
-
-### XCVI. A carta anônima
+### 096 — A Carta Anônima
 
 Senti tocar-me no ombro; era Lobo Neves. Encaramo-nos alguns instantes, mudos, inconsoláveis. Indaguei de Virgília, depois ficamos a conversar uma meia hora. No fim desse tempo, vieram trazer-lhe uma carta; ele leu-a, empalideceu muito, e fechou-a com a mão trêmula. Creio que lhe vi fazer um gesto, como se quisesse atirar-se sobre mim; mas não me lembra bem. O que me lembra claramente é que durante os dias seguintes recebeu-me frio e taciturno. Enfim, Virgília contou-me tudo, daí a dias na Gamboa.
 
@@ -2169,49 +1981,35 @@ Ouvi tudo isto um pouco turbado, não pelo acréscimo de dissimulação que era 
 
 Não lhe disse nada; era ocioso ponderar-lhe que um pouco de desespero e terror daria à nossa situação o sabor cáustico dos primeiros dias; mas se lho dissesse, não é impossível que ela chegasse lenta e artificiosamente até esse pouco de desespero e terror. Não lhe disse nada. Ela batia nervosamente com a ponta do pé no chão; aproximei-me e beijei-a na testa. Virgília recuou, como se fosse um beijo de defunto.
 
-### XCVII. Entre a boca e a testa
+### 097 — Entre a Boca e a Testa
 
 Sinto que o leitor estremeceu - ou devia estremecer. Naturalmente a última palavra sugeriu-lhe três ou quatro reflexões. Veja bem o quadro: numa casinha da Gamboa, duas pessoas que se amam há muito tempo, uma inclinada para a outra, a dar-lhe um beijo na testa, e a outra a recuar, como se sentisse o contato de uma boca de cadáver. Há aí, no breve intervalo, entre a boca e a testa, antes do beijo e depois do beijo, há aí largo espaço para muita cousa - a contração de um ressentimento - a ruga da desconfiança - ou enfim o nariz pálido e sonolento da saciedade...
 
-### XCVIII. Suprimido
+### 098 — Suprimido
 
-Separamo-nos alegremente. Jantei reconciliado com a situação. A carta anônima restituía à nossa aventura o sal do mistério e a pimenta do perigo; e afinal foi bem bom que Virgília não perdesse naquela crise a posse de si mesma. De noite fui ao Teatro de São Pedro; representava-se uma grande peça, em que a Estela i arrancava lágrimas. Entro; corro os olhos pelos camarotes; vejo em um deles Damasceno e a família. Trajava a filha com outra elegância e certo apuro, cousa difícil de explicar, porque o pai ganhava apenas o necessário para endividar-se; e daí, talvez fosse por isso mesmo.
+Separamo-nos alegremente. Jantei reconciliado com a situação. A carta anônima restituía à nossa aventura o sal do mistério e a pimenta do perigo; e afinal foi bem bom que Virgília não perdesse naquela crise a posse de si mesma. De noite fui ao Teatro de São Pedro; representava-se uma grande peça, em que a Estela arrancava lágrimas. Entro; corro os olhos pelos camarotes; vejo em um deles Damasceno e a família. Trajava a filha com outra elegância e certo apuro, cousa difícil de explicar, porque o pai ganhava apenas o necessário para endividar-se; e daí, talvez fosse por isso mesmo.
 
-No intervalo fui visitá-los. Damasceno recebeu-me com muitas palavras, a mulher, com muitos sorrisos. Quanto a Nhã-loló, não tirou mais os olhos de mim. Parecia-me agora mais bonita que no dia do jantar. Achei-lhe certa suavidade etérea casada ao polido das formas terrenas: - expressão vaga, e condigna de um capítulo em que tudo há de ser vago. Realmente, não sei como lhes diga que não me senti mal, ao pé da moça, trajando garridamente um vestido fino, um vestido que me dava cócegas de Tartufo. ii Ao contemplá-lo, cobrindo casta e redondamente o joelho, foi que eu fiz uma descoberta subtil, a saber, que a natureza previu a vestidura humana, condição necessária ao desenvolvimento da nossa espécie. A nudez habitual, dada a multiplicação das obras e dos cuidados do indivíduo, tenderia a embotar os sentidos e a retardar os sexos, ao passo que o vestuário, negaceando a natureza, aguça e atrai as vontades, ativa-as, reprodu-las, e conseguintemente faz andar a civilização. Abençoado uso, que nos deu Otelo iii e os paquetes transatlânticos!
+No intervalo fui visitá-los. Damasceno recebeu-me com muitas palavras, a mulher, com muitos sorrisos. Quanto a Nhã-loló, não tirou mais os olhos de mim. Parecia-me agora mais bonita que no dia do jantar. Achei-lhe certa suavidade etérea casada ao polido das formas terrenas: - expressão vaga, e condigna de um capítulo em que tudo há de ser vago. Realmente, não sei como lhes diga que não me senti mal, ao pé da moça, trajando garridamente um vestido fino, um vestido que me dava cócegas de Tartufo. Ao contemplá-lo, cobrindo casta e redondamente o joelho, foi que eu fiz uma descoberta subtil, a saber, que a natureza previu a vestidura humana, condição necessária ao desenvolvimento da nossa espécie. A nudez habitual, dada a multiplicação das obras e dos cuidados do indivíduo, tenderia a embotar os sentidos e a retardar os sexos, ao passo que o vestuário, negaceando a natureza, aguça e atrai as vontades, ativa-as, reprodu-las, e conseguintemente faz andar a civilização. Abençoado uso, que nos deu Otelo e os paquetes transatlânticos!
 
-Estou com vontade de suprimir este capítulo. O declive é perigoso. Mas enfim eu escrevo as minhas memórias e não as tuas, leitor pacato. Ao pé da graciosa donzela, parecia-me tomado de uma sensação dupla e indefinível. Ela exprimia inteiramente a dualidade de Pascal, l'ange et la bête, iv com a diferença que o jansenista não admitia a simultaneidade das duas naturezas, ao passo que elas aí estavam bem juntinhas - l'ange, que dizia algumas cousas do céu - e la bête, que... Não; decididamente suprimo este capítulo.
+Estou com vontade de suprimir este capítulo. O declive é perigoso. Mas enfim eu escrevo as minhas memórias e não as tuas, leitor pacato. Ao pé da graciosa donzela, parecia-me tomado de uma sensação dupla e indefinível. Ela exprimia inteiramente a dualidade de Pascal, l'ange et la bête, com a diferença que o jansenista não admitia a simultaneidade das duas naturezas, ao passo que elas aí estavam bem juntinhas - l'ange, que dizia algumas cousas do céu - e la bête, que... Não; decididamente suprimo este capítulo.
 
-i Estela Sezefreda ( 1810 - 74 ) foi uma atriz e bailarina do teatro brasileiro, casada com o ator João Caetano.
-
-ii Homem maduro, Tartufo tenta seduzir a jovem filha do dono da casa em que se hospeda, Orgon, na famosa peça de Moliêre.
-
-iii A tragédia Otelo ( 1604 ), de Shakespeare, serviu de base às óperas homônimas de Rossini ( 1816 ) e de Verdi ( 1887 ).
-
-iv A frase original é: "L'homme n'est ni ange ni bête, et le malheur veut que qui veut faire l'ange fait la bête" [O homem não é anjo nem fera, e a infelicidade é que aquele que quer ser anjo é fera].
-
-### XCIX. Na plateia
+### 099 — Na Plateia
 
 Na plateia achei Lobo Neves, de conversa com alguns amigos; falamos por alto, a frio, constrangidos um e outro. Mas no intervalo seguinte, prestes a levantar o pano, encontramo-nos num dos corredores, em que não havia ninguém. Ele veio a mim, com muita afabilidade e riso, puxou-me a um dos óculos do teatro, e falamos muito, principalmente ele, que parecia o mais tranquilo dos homens. Cheguei a perguntar-lhe pela mulher; respondeu que estava boa, mas torceu logo a conversação para assuntos gerais, expansivo, quase risonho. Adivinhe quem quiser a causa da diferença; eu fujo ao Damasceno que me espreita ali da porta do camarote.
 
 Não ouvi nada do seguinte ato, nem as palavras dos atores, nem as palmas do público. Reclinado na cadeira, apanhava de memória os retalhos da conversação do Lobo Neves, refazia as maneiras dele, e concluía que era muito melhor a nova situação. Bastava-nos a Gamboa. A frequência da outra casa aguçaria as invejas. Rigorosamente podíamos dispensar-nos de falar todos os dias; até era melhor, metia a saudade de permeio nos amores. Ao demais, eu galgara os quarenta anos, e não era nada, nem simples eleitor de paróquia. Urgia fazer alguma cousa, ainda por amor de Virgília, que havia de ufanar-se quando visse luzir o meu nome... Creio que nessa ocasião houve grandes aplausos, mas não juro; eu pensava em outra cousa.
 
-Multidão, cujo amor cobicei até à morte, era assim que eu me vingava às vezes de ti; deixava burburinhar em volta do meu corpo a gente humana, sem a ouvir, como o Prometeu de Ésquilo fazia aos seus verdugos. * Ah! Tu cuidavas encadear-me ao rochedo da tua frivolidade, da tua indiferença, ou da tua agitação? Frágeis cadeias, amiga minha; eu rompia-as de um gesto de Gulliver. ** Vulgar cousa é ir considerar no ermo. O voluptuoso, o esquisito *** é insular-se o homem no meio de um mar de gestos e palavras, de nervos e paixões, decretar-se alheado, inaccessível, ausente. O mais que podem dizer, quando ele torna a si - isto é, quando torna aos outros -, é que baixa do mundo da lua; mas o mundo da lua, esse desvão luminoso e recatado do cérebro, que outra cousa é senão a afirmação desdenhosa da nossa liberdade espiritual? Vive Deus! Eis um bom fecho de capítulo.
+Multidão, cujo amor cobicei até à morte, era assim que eu me vingava às vezes de ti; deixava burburinhar em volta do meu corpo a gente humana, sem a ouvir, como o Prometeu de Ésquilo fazia aos seus verdugos. Ah! Tu cuidavas encadear-me ao rochedo da tua frivolidade, da tua indiferença, ou da tua agitação? Frágeis cadeias, amiga minha; eu rompia-as de um gesto de Gulliver. Vulgar cousa é ir considerar no ermo. O voluptuoso, o esquisito é insular-se o homem no meio de um mar de gestos e palavras, de nervos e paixões, decretar-se alheado, inaccessível, ausente. O mais que podem dizer, quando ele torna a si - isto é, quando torna aos outros -, é que baixa do mundo da lua; mas o mundo da lua, esse desvão luminoso e recatado do cérebro, que outra cousa é senão a afirmação desdenhosa da nossa liberdade espiritual? Vive Deus! Eis um bom fecho de capítulo.
 
-* Prometeu acorrentado, de Ésquilo, conta o drama do titã Prometeu, que roubou o fogo celeste dos deuses para dá-lo aos homens, e, por isso, foi condenado a ficar atado ao monte Cáucaso, com um abutre a lhe bicar eternamente o fígado.
-
-** Personagem principal de Viagens de Gulliver ( 1726 ), obra de Jonathan Swift ( 1667 - 1745 ). Em Liliput, país de homens muito pequenos, Gulliver rompe com facilidade as linhas que o prendiam ao solo.
-
-*** "Esquisito" tem aqui o sentido de delicioso, refinado, aquilo que causa prazer aos sentidos.
-
-### C. O caso provável
+### 100 — O Caso Provável
 
 Se esse mundo não fosse uma região de espíritos desatentos, era escusado lembrar ao leitor que eu só afirmo certas leis, quando as possuo deveras; em relação a outras restrinjo-me à admissão da probabilidade. Um exemplo da segunda classe constitui o presente capítulo, cuja leitura recomendo a todas as pessoas que amam o estudo dos fenômenos sociais. Segundo parece, e não é improvável, existe entre os fatos da vida pública e os da vida particular uma certa ação recíproca, regular, e talvez periódica - ou, para usar de uma imagem, há alguma cousa semelhante às marés da praia do Flamengo e de outras igualmente marulhosas. Com efeito, quando a onda investe a praia, alaga-a muitos palmos adentro; mas essa mesma água torna ao mar, com variável força, e vai engrossar a onda que há de vir, e que terá de tornar como a primeira. Esta é a imagem; vejamos a aplicação.
 
 Deixei dito noutra página que o Lobo Neves, nomeado presidente de província, recusou a nomeação por motivo da data do decreto, que era 13; ato grave, cuja consequência foi separar do ministério o marido de Virgília. Assim, o fato particular da ojeriza de um número produziu o fenômeno da dissidência política. Resta ver como, tempos depois, um ato político determinou na vida particular uma cessação de movimento. Não convindo ao método deste livro descrever imediatamente esse outro fenômeno, limito-me a dizer por ora que o Lobo Neves, quatro meses depois de nosso encontro no teatro, reconciliou-se com o ministério; fato que o leitor não deve perder de vista, se quiser penetrar a subtileza do meu pensamento.
 
-## Capítulos 101 a 110
+## Capítulos 101 — 110
 
-### CI. A revolução dálmata
+### 101 — A Revolução Dálmata
 
 Foi Virgília quem me deu notícia da viravolta política do marido, certa manhã de outubro, entre onze e meio-dia; falou-me de reuniões, de conversas, de um discurso...
 
@@ -2219,11 +2017,11 @@ Foi Virgília quem me deu notícia da viravolta política do marido, certa manh�
 
 Ela derreou os cantos da boca, e moveu a cabeça a um e outro lado; mas esse gesto de indiferença era desmentido por alguma cousa menos definível, menos clara, uma expressão de gosto e de esperança. Não sei por quê, imaginei que a carta imperial da nomeação podia atraí-la à virtude, não digo pela virtude em si mesma, mas por gratidão ao marido. Que ela amava cordialmente a nobreza. Um dos maiores desgostos de nossa vida foi o aparecimento de certo pelintra de legação - da legação da Dalmácia, suponhamos -, o conde B. V., que a namorou durante três meses. Esse homem, vero fidalgo de raça, transtornara um pouco a cabeça de Virgília, que, além do mais, possuía a vocação diplomática. Não chego a alcançar o que seria de mim, se não rebentasse na Dalmácia uma revolução, que derrocou o governo e purificou as embaixadas. Foi sangrenta a revolução, dolorosa, formidável; os jornais, a cada navio que chegava da Europa, transcreviam os horrores, mediam o sangue, contavam as cabeças; toda a gente fremia de indignação e piedade... Eu não, eu abençoava interiormente essa tragédia, que me tirara uma pedrinha do sapato. E depois a Dalmácia era tão longe!
 
-### CII. De repouso
+### 102 — De Repouso
 
 Mas este mesmo homem, que se alegrou com a partida do outro, praticou daí a tempos... Não, não hei de contá-lo nesta página; fique esse capítulo para repouso do meu vexame: uma ação grosseira, baixa, sem explicação possível... Repito, não contarei o caso nesta página.
 
-### CIII. Distração
+### 103 — Distração
 
 — Não, senhor doutor, isto não se faz. Perdoe-me, isto não se faz.
 
@@ -2255,7 +2053,7 @@ Depois foi até à porta, correu o fecho, ia sair; agarrei-a pela cintura.
 
 Virgília ainda forcejou por sair. Eu retive-a, pedi-lhe que ficasse, que esquecesse; ela afastou-se da porta e foi cair no canapé. Sentei-me ao pé dela, disse-lhe muitas cousas meigas, outras humildes, outras graciosas. Não afirmo se os nossos lábios chegaram à distância de um fio de cambraia ou ainda menos; é matéria controversa. Lembra-me, sim, que na agitação caiu um brinco de Virgília, que eu inclinei-me a apanhá-lo, e que a mosca de há pouco trepou ao brinco, levando sempre a formiga no pé. Então eu, com a delicadeza nativa de um homem do nosso século, pus na palma da mão aquele casal de mortificados; calculei toda a distância que ia da minha mão ao planeta Saturno, e perguntei a mim mesmo que interesse podia haver num episódio tão mofino. Se concluis daí que eu era um bárbaro, enganas-te, porque eu pedi um grampo a Virgília, a fim de separar os dous insetos; mas a mosca farejou a minha intenção, abriu as asas e foi-se embora. Pobre mosca! Pobre formiga! E Deus viu que isto era bom, como se diz na Escritura.
 
-### CIV. Era ele!
+### 104 — Era Ele!
 
 Restituí o grampo a Virgília, que o repregou nos cabelos, e preparou-se para sair. Era tarde; tinham dado três horas. Tudo estava esquecido e perdoado. D. Plácida, que espreitava a ocasião idônea para a saída, fecha subitamente a janela e exclama:
 
@@ -2291,11 +2089,11 @@ D. Plácida foi buscar um espelho, abriu-o diante dela. Virgília punha o chapé
 
 A outra prometeu que sim, e abriu-lhes a porta.
 
-### CV. Equivalência das janelas
+### 105 — Equivalência das Janelas
 
 D. Plácida fechou a porta e caiu numa cadeira. Eu deixei imediatamente a alcova, e dei dous passos para sair à rua, com o fim de arrancar Virgília ao marido; foi o que disse, e em bem que o disse, porque D. Plácida deteve-me por um braço. Tempo houve em que cheguei a supor que não dissera aquilo senão para que ela me detivesse; mas a simples reflexão basta para mostrar que, depois dos dez minutos da alcova, o gesto mais genuíno e cordial não podia ser senão esse. E isto por aquela famosa lei da equivalência das janelas, que eu tive a satisfação de descobrir e formular, no capítulo LI. Era preciso arejar a consciência. A alcova foi uma janela fechada; eu abri outra com o gesto de sair, e respirei.
 
-### CVI. Jogo perigoso
+### 106 — Jogo Perigoso
 
 Respirei e sentei-me. D. Plácida atroava a sala com exclamações e lástimas. Eu ouvia, sem lhe dizer cousa nenhuma; refletia comigo se não era melhor ter fechado Virgília na alcova e ficado na sala; mas adverti logo que seria pior; confirmaria a suspeita, chegaria o fogo à pólvora, e uma cena de sangue... Foi muito melhor assim. Mas depois? Que ia acontecer em casa de Virgília? Matá-la-ia o marido? Espancá-la-ia? Encerrá-la-ia? Expulsá-la-ia? Estas interrogações percorriam lentamente o meu cérebro, como os pontinhos e vírgulas escuras percorrem o campo visual dos olhos enfermos ou cansados. Iam e vinham, com o seu aspecto seco e trágico, e eu não podia agarrar um deles e dizer: és tu, tu e não outro.
 
@@ -2305,17 +2103,17 @@ De repente vejo um vulto negro; era D. Plácida, que fora dentro, enfiara a mant
 
 Saiu; eu fiquei a ruminar o sucesso e as consequências possíveis. Ao cabo, parecia-me jogar um jogo perigoso, e perguntava a mim mesmo se não era tempo de levantar e espairecer. Sentia-me tomado de uma saudade do casamento, de um desejo de canalizar a vida. Por que não? Meu coração tinha ainda que explorar; não me sentia incapaz de um amor casto, severo e puro. Em verdade, as aventuras são a parte torrencial e vertiginosa da vida, isto é, a exceção; eu estava enfarado delas; não sei até se me pungia algum remorso. Mal pensei naquilo, deixei-me ir atrás da imaginação; vi-me logo casado, ao pé de uma mulher adorável, diante de um baby, que dormia no regaço da ama, todos nós no fundo de uma chácara sombria e verde, a espiarmos através das árvores uma nesga do céu azul, extremamente azul...
 
-### CVII. Bilhete
+### 107 — Bilhete
 
 "Não houve nada, mas ele suspeita alguma cousa; está muito sério e não fala; agora saiu. Sorriu uma vez somente, para Nhonhô, depois de o fitar muito tempo, carrancudo. Não me tratou mal nem bem. Não sei o que vai acontecer; Deus queira que isto passe. Muita cautela, por ora, muita cautela."
 
-### CVIII. Que se não entende
+### 108 — Que Se Não Entende
 
 Eis aí o drama, eis aí a ponta da orelha trágica de Shakespeare. Esse retalhinho de papel, garatujado em partes, machucado das mãos, era um documento de análise, que eu não farei neste capítulo, nem no outro, nem talvez em todo o resto do livro. Poderia eu tirar ao leitor o gosto de notar por si mesmo a frieza, a perspicácia e o ânimo dessas poucas linhas traçadas à pressa; e por trás delas a tempestade de outro cérebro, a raiva dissimulada, o desespero que se constrange e medita, porque tem de resolver-se na lama ou no sangue, ou nas lágrimas?
 
 Quanto a mim, se vos disser que li o bilhete três ou quatro vezes, naquele dia, acreditai-o, que é verdade; se vos disser mais que o reli no dia seguinte, antes e depois do almoço, podeis crê-lo, é a realidade pura. Mas se vos disser a comoção que tive, duvidai um pouco da asserção, e não a aceiteis sem provas. Nem então, nem ainda agora cheguei a discernir o que experimentei. Era medo e não era medo; era dó e não era dó; era vaidade e não era vaidade; enfim, era amor sem amor, isto é, sem delírio; e tudo isso dava uma combinação assaz complexa e vaga, uma cousa que não podereis entender, como eu não entendi. Suponhamos que não disse nada.
 
-### CIX. O filósofo
+### 109 — O Filósofo
 
 Sabido que reli a carta, antes e depois do almoço, sabido fica que almocei, e só resta dizer que essa refeição foi das mais parcas da minha vida: um ovo, uma fatia de pão, uma xícara de chá. Não me esqueceu esta circunstância mínima; no meio de tanta cousa importante obliterada escapou esse almoço. A razão principal poderia ser justamente o meu desastre; mas não foi; a principal razão foi a reflexão que me fez o Quincas Borba, cuja visita recebi naquele dia. Disse-me ele que a frugalidade não era necessária para entender o Humanitismo, e menos ainda praticá-lo; que esta filosofia acomodava-se facilmente com os prazeres da vida, inclusive a mesa, o espetáculo e os amores; e que, ao contrário, a frugalidade podia indicar certa tendência para o ascetismo, o qual era a expressão acabada da tolice humana.
 
@@ -2333,17 +2131,15 @@ Quis expor-me finalmente a filosofia; pedi-lhe que não.
 
 Quincas Borba sorriu de um modo malicioso; talvez soubesse da minha aventura, mas não acrescentou nada. Só me disse estas últimas palavras à porta:
 
-— Venha para o Humanitismo; ele é o grande regaço dos espíritos, o mar eterno em que mergulhei para arrancar de lá a verdade. Os gregos faziam-na sair de um poço. * Que concepção mesquinha! Um poço! Mas é por isso mesmo que nunca atinaram com ela. Gregos, subgregos, antigregos, toda a longa série dos homens tem-se debruçado sobre o poço, para ver sair a verdade, que não está lá. Gastaram cordas e caçambas; alguns mais afoutos desceram ao fundo e trouxeram um sapo. Eu fui diretamente ao mar. Venha para o Humanitismo.
+— Venha para o Humanitismo; ele é o grande regaço dos espíritos, o mar eterno em que mergulhei para arrancar de lá a verdade. Os gregos faziam-na sair de um poço. Que concepção mesquinha! Um poço! Mas é por isso mesmo que nunca atinaram com ela. Gregos, subgregos, antigregos, toda a longa série dos homens tem-se debruçado sobre o poço, para ver sair a verdade, que não está lá. Gastaram cordas e caçambas; alguns mais afoutos desceram ao fundo e trouxeram um sapo. Eu fui diretamente ao mar. Venha para o Humanitismo.
 
-* Provável alusão ao oráculo de Delfos, ao qual os gregos e outros povos antigos recorriam, em busca de orientação. Em Delfos, a Pítia, mediadora entre o deus Apolo e os fiéis, ficava sobre uma espécie de poço, de onde saíam vapores e a resposta do deus.
-
-### CX. 31
+### 110 — 31
 
 Uma semana depois, Lobo Neves foi nomeado presidente de província. Agarrei-me à esperança da recusa, se o decreto viesse outra vez datado de 13; trouxe, porém, a data de 31, e esta simples transposição de algarismos eliminou deles a substância diabólica. Que profundas que são as molas da vida!
 
-## Capítulos 111 a 120
+## Capítulos 111 — 120
 
-### CXI. O muro
+### 111 — O Muro
 
 Não sendo meu costume dissimular ou esconder nada, contarei nesta página o caso do muro. Eles estavam prestes a embarcar. Entrando em casa de D. Plácida, vi um papelinho dobrado sobre a mesa; era um bilhete de Virgília; dizia que me esperava à noite, na chácara, sem falta. E concluía: "O muro é baixo do lado do beco".
 
@@ -2365,17 +2161,17 @@ D. Plácida arregalou os olhos:
 
 Tive uma sensação esquisita. Reli o papel, mirei-o, remirei-o; era, em verdade, um antigo bilhete de Virgília, recebido no começo dos nossos amores, uma certa entrevista na chácara, que me levou efetivamente a saltar o muro, um muro baixo e discreto. Guardei o papel e... Tive uma sensação esquisita.
 
-### CXII. A opinião
+### 112 — A Opinião
 
 Mas estava escrito que esse dia devia ser o dos lances dúbios. Poucas horas depois, encontrei Lobo Neves, na rua do Ouvidor; falamos da presidência e da política. Ele aproveitou o primeiro conhecido que nos passou à ilharga, e deixou-me, depois de muitos cumprimentos. Lembra-me que estava retraído, mas de um retraimento que forcejava por dissimular. Pareceu-me então (e peço perdão à crítica, se este meu juízo for temerário!), pareceu-me que ele tinha medo - não medo de mim, nem de si, nem do código, nem da consciência; tinha medo da opinião. Supus que esse tribunal anônimo e invisível, em que cada membro acusa e julga, era o limite posto à vontade do Lobo Neves. Talvez já não amasse a mulher; e, assim, pode ser que o coração fosse estranho à indulgência dos seus últimos atos. Cuido (e de novo insto pela boa vontade da crítica!), cuido que ele estaria pronto a separar-se da mulher, como o leitor se terá separado de muitas relações pessoais; mas a opinião, essa opinião que lhe arrastaria a vida por todas as ruas, que abriria minucioso inquérito acerca do caso, que coligiria uma a uma todas as circunstâncias, antecedências, induções, provas, que as relataria na palestra das chácaras desocupadas, essa terrível opinião, tão curiosa das alcovas, obstou à dispersão da família. Ao mesmo tempo tornou impossível o desforço, que seria a divulgação. Ele não podia mostrar-se ressentido comigo, sem igualmente buscar a separação conjugal; teve então de simular a mesma ignorância de outrora, e, por dedução, iguais sentimentos.
 
 Que lhe custasse, creio; naqueles dias, principalmente, vi-o de modo que devia custar-lhe muito. Mas o tempo (e é outro ponto em que eu espero a indulgência dos homens pensadores!), o tempo caleja a sensibilidade, e oblitera a memória das cousas; era de supor que os anos lhe despontassem os espinhos, que a distância dos fatos apagasse os respectivos contornos, que uma sombra de dúvida retrospectiva cobrisse a nudez da realidade; enfim, que a opinião se ocupasse um pouco com outras aventuras. O filho, crescendo, buscaria satisfazer as ambições do pai; seria o herdeiro de todos os seus afetos. Isso, e a atividade externa, e o prestígio público, e a velhice depois, a doença, o declínio, a morte, um responso, uma notícia biográfica, e estava fechado o livro da vida, sem nenhuma página de sangue.
 
-### CXIII. A solda
+### 113 — A Solda
 
 A conclusão, se há alguma no capítulo anterior, é que a opinião é uma boa solda das instituições domésticas. Não é impossível que eu desenvolva este pensamento, antes de acabar o livro; mas também não é impossível que o deixe como está. De um ou de outro modo, é uma boa solda a opinião, e tanto na ordem doméstica, como na política. Alguns metafísicos biliosos têm chegado ao extremo de a darem como simples produto da gente chocha ou medíocre; mas é evidente que, ainda quando um conceito tão extremado não trouxesse em si mesmo a resposta, bastava considerar os efeitos salutares da opinião, para concluir que ela é a obra superfina da flor dos homens, a saber, do maior número.
 
-### CXIV. Fim de um diálogo
+### 114 — Fim de um Diálogo
 
 — Sim, é amanhã. Você vai a bordo?
 
@@ -2407,35 +2203,25 @@ A conclusão, se há alguma no capítulo anterior, é que a opinião é uma boa 
 
 — Até breve. Adeus!
 
-### CXV. O almoço
+### 115 — O Almoço
 
 Não a vi partir; mas à hora marcada senti alguma cousa que não era dor nem prazer, uma cousa mista, alívio e saudade, tudo misturado, em iguais doses. Não se irrite o leitor com esta confissão. Eu bem sei que, para titilar-lhe os nervos da fantasia, devia padecer um grande desespero, derramar algumas lágrimas, e não almoçar. Seria romanesco; mas não seria biográfico. A realidade pura é que eu almocei, como nos demais dias, acudindo ao coração com as lembranças da minha aventura, e ao estômago, com os acepipes de M. Prudhon...
 
-... Velhos do meu tempo, acaso vos lembrais desse mestre cozinheiro do Hotel Pharoux, um sujeito que, segundo dizia o dono da casa, havia servido nos famosos Véry e Véfour, de Paris, e mais nos palácios do conde Molé e do duque de La Rochefoucauld? i Era insigne. Entrou no Rio de Janeiro com a polca... ii A polca, M. Prudhon, o Tivoli, iii o baile dos estrangeiros, o Cassino, iv eis algumas das melhores recordações daquele tempo; mas sobretudo os acepipes do mestre eram deliciosos.
+... Velhos do meu tempo, acaso vos lembrais desse mestre cozinheiro do Hotel Pharoux, um sujeito que, segundo dizia o dono da casa, havia servido nos famosos Véry e Véfour, de Paris, e mais nos palácios do conde Molé e do duque de La Rochefoucauld? Era insigne. Entrou no Rio de Janeiro com a polca... A polca, M. Prudhon, o Tivoli, o baile dos estrangeiros, o Cassino, eis algumas das melhores recordações daquele tempo; mas sobretudo os acepipes do mestre eram deliciosos.
 
 Eram, e naquela manhã parece que o diabo do homem adivinhara a nossa catástrofe. Jamais o engenho e a arte lhe foram tão propícios. Que requinte de temperos! Que tenrura de carnes! Que rebuscado de formas! Comia-se com a boca, com os olhos, com o nariz. Não guardei a conta desse dia; sei que foi cara. Ai dor! Era-me preciso enterrar magnificamente os meus amores. Eles lá iam, mar em fora, no espaço e no tempo, e eu ficava-me ali numa ponta de mesa, com os meus quarenta e tantos anos, tão vadios e tão vazios; ficava-me para os não ver nunca mais, porque ela poderia tornar e tornou, mas o eflúvio da manhã, quem é que o pediu ao crepúsculo da tarde?
 
-i Louis Mathieu ( 1781 - 1855 ), conde Molé, foi um político francês, que ocupou o cargo de primeiro-ministro da França por duas vezes, nas décadas de 1830 e 1840. O duque de La Rochefoucauld aqui mencionado não é o autor das célebres Máximas (século XVI ); a referência é provavelmente François XIV ( 1794 - 1874 ) ou seu filho François XV ( 1818 - 79 ).
-
-ii No Brasil, a polca foi interpretada pela primeira vez em 3 de julho de 1845, no Teatro de São Pedro, e rapidamente substituiu a valsa nas preferências da elite do Rio de Janeiro.
-
-iii Tivoli, nome inspirado na famosa localidade de veraneio vizinha a Roma, é uma espécie de designação genérica para parque de diversões.
-
-iv O Cassino Fluminense, situado na rua do Passeio, era um elegante clube do Rio de Janeiro em meados do século XIX, palco dos principais bailes da Corte.
-
-### CXVI. Filosofia das folhas velhas
+### 116 — Filosofia das Folhas Velhas
 
 Fiquei tão triste com o fim do último capítulo que estava capaz de não escrever este, descansar um pouco, purgar o espírito da melancolia que o empacha, e continuar depois. Mas não, não quero perder tempo.
 
-A partida de Virgília deu-me uma amostra da viuvez. Nos primeiros dias meti-me em casa, a fisgar moscas, como Domiciano, se não mente o Suetônio, * mas a fisgá-las de um modo particular: com os olhos. Fisgava-as uma a uma, no fundo de uma sala grande, estirado na rede, com um livro aberto entre as mãos. Era tudo: saudades, ambições, um pouco de tédio, e muito devaneio solto. Meu tio cônego morreu nesse intervalo; idem, dous primos. Não me dei por abalado; levei-os ao cemitério, como quem leva dinheiro a um banco. Que digo? Como quem leva cartas ao correio: selei as cartas, meti-as na caixinha, e deixei ao carteiro o cuidado de as entregar em mão própria. Foi também por esse tempo que nasceu minha sobrinha Venância, filha do Cotrim. Morriam uns, nasciam outros: eu continuava às moscas.
+A partida de Virgília deu-me uma amostra da viuvez. Nos primeiros dias meti-me em casa, a fisgar moscas, como Domiciano, se não mente o Suetônio, mas a fisgá-las de um modo particular: com os olhos. Fisgava-as uma a uma, no fundo de uma sala grande, estirado na rede, com um livro aberto entre as mãos. Era tudo: saudades, ambições, um pouco de tédio, e muito devaneio solto. Meu tio cônego morreu nesse intervalo; idem, dous primos. Não me dei por abalado; levei-os ao cemitério, como quem leva dinheiro a um banco. Que digo? Como quem leva cartas ao correio: selei as cartas, meti-as na caixinha, e deixei ao carteiro o cuidado de as entregar em mão própria. Foi também por esse tempo que nasceu minha sobrinha Venância, filha do Cotrim. Morriam uns, nasciam outros: eu continuava às moscas.
 
 Outras vezes agitava-me. Ia às gavetas, entornava as cartas antigas, dos amigos, dos parentes, das namoradas (até as de Marcela), e abria-as todas, lia-as uma a uma, e recompunha o pretérito... Leitor ignaro, se não guardas as cartas da juventude, não conhecerás um dia a filosofia das folhas velhas, não gostarás o prazer de ver-te, ao longe, na penumbra, com um chapéu de três bicos, botas de sete léguas e longas barbas assírias, a bailar ao som de uma gaita anacreôntica. Guarda as tuas cartas da juventude!
 
 Ou, se te não apraz o chapéu de três bicos, empregarei a locução de um velho marujo, familiar da casa de Cotrim; direi que, se guardares as cartas da juventude, acharás ocasião de "cantar uma saudade". Parece que os nossos marujos dão este nome às cantigas de terra, entoadas no alto-mar. Como expressão poética, é o que se pode exigir mais triste.
 
-* Domiciano ( 51 - 96 ), filho de Vespasiano e irmão de Tito, foi o último dos doze césares e reinou de 81 a 96. A passagem referente às moscas está em Domiciano 3, 1, uma das divisões do livro Os doze césares, de Suetônio.
-
-### CXVII. O Humanitismo
+### 117 — O Humanitismo
 
 Duas forças, porém, além de uma terceira, compeliam-me a tornar à vida agitada do costume: Sabina e Quincas Borba. Minha irmã encaminhou a candidatura conjugal de Nhã-loló de um modo verdadeiramente impetuoso. Quando dei por mim estava com a moça quase nos braços. Quanto ao Quincas Borba, expôs-me enfim o Humanitismo, sistema de filosofia destinado a arruinar todos os demais sistemas.
 
@@ -2447,19 +2233,17 @@ Como me não aparecesse assaz clara esta exposição, Quincas Borba desenvolveu-
 
 Para que negá-lo? Eu estava estupefacto. A clareza da exposição, a lógica dos princípios, o rigor das consequências, tudo isso parecia superiormente grande, e foi-me preciso suspender a conversa por alguns minutos, enquanto digeria a filosofia nova. Quincas Borba mal podia encobrir a satisfação do triunfo. Tinha uma asa de frango no prato, e trincava-a com filosófica serenidade. Eu fiz-lhe ainda algumas objeções, mas tão frouxas, que ele não gastou muito tempo em destruí-las.
 
-— Para entender bem o meu sistema - concluiu ele -, importa não esquecer nunca o princípio universal, repartido e resumido em cada homem. Olha: a guerra, que parece uma calamidade, é uma operação conveniente, como se disséssemos o estalar dos dedos de Humanitas; a fome (e ele chupava filosoficamente a asa do frango), a fome é uma prova a que Humanitas submete a própria víscera. Mas eu não quero outro documento da sublimidade do meu sistema, senão este mesmo frango. Nutriu-se de milho, que foi plantado por um africano, suponhamos, importado de Angola. Nasceu esse africano, cresceu, foi vendido; um navio o trouxe, um navio construído de madeira cortada no mato por dez ou doze homens, levado por velas, que oito ou dez homens teceram, sem contar a cordoalha e outras partes do aparelho náutico. Assim, este frango, que eu almocei agora mesmo, é o resultado de uma multidão de esforços e lutas, executados com o único fim de dar mate * ao meu apetite.
+— Para entender bem o meu sistema - concluiu ele -, importa não esquecer nunca o princípio universal, repartido e resumido em cada homem. Olha: a guerra, que parece uma calamidade, é uma operação conveniente, como se disséssemos o estalar dos dedos de Humanitas; a fome (e ele chupava filosoficamente a asa do frango), a fome é uma prova a que Humanitas submete a própria víscera. Mas eu não quero outro documento da sublimidade do meu sistema, senão este mesmo frango. Nutriu-se de milho, que foi plantado por um africano, suponhamos, importado de Angola. Nasceu esse africano, cresceu, foi vendido; um navio o trouxe, um navio construído de madeira cortada no mato por dez ou doze homens, levado por velas, que oito ou dez homens teceram, sem contar a cordoalha e outras partes do aparelho náutico. Assim, este frango, que eu almocei agora mesmo, é o resultado de uma multidão de esforços e lutas, executados com o único fim de dar mate ao meu apetite.
 
 Entre o queijo e o café, demonstrou-me Quincas Borba que o seu sistema era a destruição da dor. A dor, segundo o Humanitismo, é uma pura ilusão. Quando a criança é ameaçada por um pau, antes mesmo de ter sido espancada, fecha os olhos e treme; essa predisposição é que constitui a base da ilusão humana, herdada e transmitida. Não basta certamente a adoção do sistema para acabar logo com a dor, mas é indispensável; o resto é a natural evolução das cousas. Uma vez que o homem se compenetre bem de que ele é o próprio Humanitas, não tem mais do que remontar o pensamento à substância original para obstar qualquer sensação dolorosa. A evolução, porém, é tão profunda, que mal se lhe podem assinar alguns milhares de anos.
 
 Quincas Borba leu-me daí a dias a sua grande obra. Eram quatro volumes manuscritos, de cem páginas cada um, com letra miúda e citações latinas. O último volume compunha-se de um tratado político, fundado no Humanitismo; era talvez a parte mais enfadonha do sistema, posto que concebida com um formidável rigor de lógica. Reorganizada a sociedade pelo método dele, nem por isso ficavam eliminadas a guerra, a insurreição, o simples murro, a facada anônima, a miséria, a fome, as doenças; mas sendo esses supostos flagelos verdadeiros equívocos do entendimento, porque não passariam de movimentos externos da substância interior, destinados a não influir sobre o homem, senão como simples quebra da monotonia universal, claro estava que a sua existência não impediria a felicidade humana. Mas ainda quando tais flagelos (o que era radicalmente falso) correspondessem no futuro à concepção acanhada de antigos tempos, nem por isso ficava destruído o sistema, e por dous motivos: 1 o porque, sendo Humanitas a substância criadora e absoluta, cada indivíduo deveria achar a maior delícia do mundo em sacrificar-se ao princípio de que descende; 2 o porque, ainda assim, não diminuiria o poder espiritual do homem sobre a terra, inventada unicamente para seu recreio dele, como as estrelas, as brisas, as tâmaras e o ruibarbo. Pangloss, dizia-me ele ao fechar o livro, não era tão tolo como o pintou Voltaire.
 
-* "Dar mate" é o mesmo que dar um xeque-mate, encerrando uma partida de xadrez.
-
-### CXVIII. A terceira força
+### 118 — A Terceira Força
 
 A terceira força que me chamava ao bulício era o gosto de luzir, e, sobretudo, a incapacidade de viver só. A multidão atraía-me, o aplauso namorava-me. Se a ideia do emplasto me tem aparecido nesse tempo, quem sabe? Não teria morrido logo e estaria célebre. Mas o emplasto não veio. Veio o desejo de agitar-me em alguma cousa, com alguma cousa e por alguma cousa.
 
-### CXIX. Parêntesis
+### 119 — Parêntesis
 
 Quero deixar aqui, entre parêntesis, meia dúzia de máximas das muitas que escrevi por esse tempo. São bocejos de enfado; podem servir de epígrafe a discursos sem assunto:
 
@@ -2487,19 +2271,19 @@ Não se compreende que um botocudo fure o beiço para enfeitá-lo com um pedaço
 
 Não te irrites se te pagarem mal um benefício: antes cair das nuvens, que de um terceiro andar.
 
-### CXX. Compelle intrare
+### 120 — Compelle Intrare
 
 — Não, senhor, agora quer você queira, quer não, há de casar - disse-me Sabina. - Que belo futuro! Um solteirão sem filhos.
 
 Sem filhos! A ideia de ter filhos deu-me um sobressalto; percorreu-me outra vez o fluido misterioso. Sim, cumpria ser pai. A vida celibata podia ter certas vantagens próprias, mas seriam tênues, e compradas a troco da solidão. Sem filhos! Não; impossível. Dispus-me a aceitar tudo, ainda a aliança do Damasceno. Sem filhos! Como já então depositasse grande confiança em Quincas Borba, fui ter com ele e expus-lhe os movimentos internos da minha paternidade. O filósofo ouviu-me com alvoroço; declarou-me que Humanitas se agitava em meu seio; animou-me ao casamento; ponderou que eram mais alguns convivas que batiam à porta, etc. Compelle intrare, como dizia Jesus. E não me deixou sem provar que o apólogo evangélico não era mais do que um prenúncio do Humanitismo, erradamente interpretado pelos padres.
 
-## Capítulos 121 a 130
+## Capítulos 121 — 130
 
-### CXXI. Morro abaixo
+### 121 — Morro Abaixo
 
 No fim de três meses, ia tudo à maravilha. O fluido, Sabina, os olhos da moça, os desejos do pai eram outros tantos impulsos que me levavam ao matrimônio. A lembrança de Virgília aparecia de quando em quando, à porta, e com ela um diabo negro que me metia à cara um espelho, no qual eu via ao longe Virgília desfeita em lágrimas; mas outro diabo vinha, cor-de-rosa, com outro espelho, em que se refletia a figura de Nhã-loló, terna, luminosa, angélica.
 
-Não falo dos anos. Não os sentia; acrescentarei até que os deitara fora, certo domingo, em que fui à missa na capela do Livramento. * Como o Damasceno morava nos Cajueiros, eu acompanhava-os muitas vezes à missa. O morro estava ainda nu de habitações, salvo o velho palacete do alto, onde era a capela. Pois um domingo, ao descer com Nhã-loló pelo braço, não sei que fenômeno se deu que fui deixando aqui dous anos, ali quatro, logo adiante cinco, de maneira que, quando cheguei abaixo, estava com vinte anos apenas, tão lépidos como tinham sido.
+Não falo dos anos. Não os sentia; acrescentarei até que os deitara fora, certo domingo, em que fui à missa na capela do Livramento. Como o Damasceno morava nos Cajueiros, eu acompanhava-os muitas vezes à missa. O morro estava ainda nu de habitações, salvo o velho palacete do alto, onde era a capela. Pois um domingo, ao descer com Nhã-loló pelo braço, não sei que fenômeno se deu que fui deixando aqui dous anos, ali quatro, logo adiante cinco, de maneira que, quando cheguei abaixo, estava com vinte anos apenas, tão lépidos como tinham sido.
 
 Agora, se querem saber em que circunstância se deu o fenômeno, basta-lhes ler este capítulo até o fim. Vínhamos da missa, ela, o pai e eu. No meio do morro achamos um grupo de homens. Damasceno, que vinha ao pé de nós, percebeu o que era e adiantou-se alvoroçado; nós fomos atrás dele. E vimos isto: homens de todas as idades, tamanhos e cores, uns em mangas de camisa, outros de jaqueta, outros metidos em sobrecasacas esfrangalhadas; atitudes diversas, uns de cócoras, outros com as mãos apoiadas nos joelhos, estes sentados em pedras, aqueles encostados ao muro, e todos com os olhos fixos no centro, e as almas debruçadas das pupilas.
 
@@ -2511,15 +2295,13 @@ Foi nessa ocasião que Nhã-loló me puxou brandamente pelo braço dizendo que n
 
 Ao sopé detivemo-nos alguns minutos, à espera de Damasceno; ele veio daí a pouco rodeado dos apostadores, a comentar com eles a briga. Um destes, tesoureiro das apostas, distribuía um velho maço de notas de dez tostões, que os vencedores recebiam duplamente alegres. Quanto aos galos, vinham sobraçados pelo respectivo dono. Um deles trazia a crista tão comida e ensanguentada, que vi logo nele o vencido; mas era engano - o vencido era o outro, que não trazia crista nenhuma. Ambos tinham o bico aberto, respirando a custo, esfalfados. Os apostadores, ao contrário, vinham alegres, sem embargo das fortes comoções da luta; biografavam os contendores, relembravam as proezas de ambos. Eu fui andando, vexado; Nhã-loló, vexadíssima.
 
-* A capela do Livramento, assim como a quinta ou chácara do Livramento, onde ela ficava, situava-se no morro do Livramento, na zona portuária do Rio de Janeiro. Nela, Machado de Assis foi batizado.
-
-### CXXII. Uma intenção mui fina
+### 122 — Uma Intenção Mui Fina
 
 O que vexava a Nhã-loló era o pai. A facilidade com que ele se metera com os apostadores punha em relevo antigos costumes e afinidades sociais, e Nhã-loló chegara a temer que tal sogro me parecesse indigno. Era notável a diferença que ela fazia de si mesma; estudava-se e estudava-me. A vida elegante e polida atraía-a, principalmente porque lhe parecia o meio mais seguro de ajustar as nossas pessoas. Nhã-loló observava, imitava, adivinhava; ao mesmo tempo dava-se ao esforço de mascarar a inferioridade da família. Naquele dia, porém, a manifestação do pai foi tamanha que a entristeceu grandemente. Eu busquei então diverti-la do assunto, dizendo-lhe muitas chanças e motes de bom-tom; vãos esforços, que não a alegravam mais. Era tão profundo o abatimento, tão expressivo o desânimo, que cheguei a atribuir a Nhã-loló a intenção positiva de separar, no meu espírito, a sua causa da causa do pai. Este sentimento pareceu-me de grande elevação; era uma afinidade mais entre nós.
 
 "Não há remédio", disse eu comigo, "vou arrancar esta flor a este pântano."
 
-### CXXIII. O verdadeiro Cotrim
+### 123 — O Verdadeiro Cotrim
 
 Não obstante os meus quarenta e tantos anos, como eu amasse a harmonia da família, entendi não tratar o casamento sem primeiro falar ao Cotrim. Ele ouviu-me e respondeu-me seriamente que não tinha opinião em negócio de parentes seus. Podiam supor-lhe algum interesse, se acaso louvasse as raras prendas de Nhã-loló; por isso calava-se. Mais: estava certo de que a sobrinha nutria por mim verdadeira paixão, mas se ela o consultasse, o seu conselho seria negativo. Não era levado por nenhum ódio; apreciava as minhas boas qualidades - não se fartava de as elogiar, como era de justiça; e pelo que respeita a Nhã-loló, não chegaria jamais a negar que era noiva excelente; mas daí a aconselhar o casamento ia um abismo.
 
@@ -2533,15 +2315,13 @@ Não obstante os meus quarenta e tantos anos, como eu amasse a harmonia da famí
 
 — Não; não digo nada.
 
-Talvez pareça excessivo o escrúpulo do Cotrim, a quem não souber que ele possuía um caráter ferozmente honrado. Eu mesmo fui injusto com ele durante os anos que se seguiram ao inventário de meu pai. Reconheço que era um modelo. Arguiam-no de avareza, e cuido que tinham razão; mas a avareza é apenas a exageração de uma virtude, e as virtudes devem ser como os orçamentos: melhor é o saldo que o deficit. Como era muito seco de maneiras, tinha inimigos, que chegavam a acusá-lo de bárbaro. O único fato alegado neste particular era o de mandar com frequência escravos ao Calabouço, * donde eles desciam a escorrer sangue; mas, além de que ele só mandava os perversos e os fujões, ocorre que, tendo longamente contrabandeado em escravos, habituara-se de certo modo ao trato um pouco mais duro que esse gênero de negócio requeria, e não se pode honestamente atribuir à índole original de um homem o que é puro efeito de relações sociais. A prova de que o Cotrim tinha sentimentos pios encontrava-se no seu amor aos filhos, e na dor que padeceu quando lhe morreu Sara, dali a alguns meses; prova irrefutável, acho eu, e não única. Era tesoureiro de uma confraria, e irmão de várias irmandades, e até irmão remido de uma destas, o que não se coaduna muito com a reputação da avareza; verdade é que o benefício não caíra no chão: a irmandade (de que ele fora juiz) mandara-lhe tirar o retrato a óleo. Não era perfeito, decerto; tinha, por exemplo, o sestro de mandar para os jornais a notícia de um ou outro benefício que praticava - sestro repreensível ou não louvável, concordo; mas ele desculpava-se dizendo que as boas ações eram contagiosas, quando públicas; razão a que se não pode negar algum peso. Creio mesmo (e nisto faço o seu maior elogio) que ele não praticava, de quando em quando, esses benefícios senão com o fim de espertar a filantropia dos outros; e se tal era o intuito, força é confessar que a publicidade tornava-se uma condição sine qua non. Em suma, poderia dever algumas atenções, mas não devia um real a ninguém.
+Talvez pareça excessivo o escrúpulo do Cotrim, a quem não souber que ele possuía um caráter ferozmente honrado. Eu mesmo fui injusto com ele durante os anos que se seguiram ao inventário de meu pai. Reconheço que era um modelo. Arguiam-no de avareza, e cuido que tinham razão; mas a avareza é apenas a exageração de uma virtude, e as virtudes devem ser como os orçamentos: melhor é o saldo que o deficit. Como era muito seco de maneiras, tinha inimigos, que chegavam a acusá-lo de bárbaro. O único fato alegado neste particular era o de mandar com frequência escravos ao Calabouço, donde eles desciam a escorrer sangue; mas, além de que ele só mandava os perversos e os fujões, ocorre que, tendo longamente contrabandeado em escravos, habituara-se de certo modo ao trato um pouco mais duro que esse gênero de negócio requeria, e não se pode honestamente atribuir à índole original de um homem o que é puro efeito de relações sociais. A prova de que o Cotrim tinha sentimentos pios encontrava-se no seu amor aos filhos, e na dor que padeceu quando lhe morreu Sara, dali a alguns meses; prova irrefutável, acho eu, e não única. Era tesoureiro de uma confraria, e irmão de várias irmandades, e até irmão remido de uma destas, o que não se coaduna muito com a reputação da avareza; verdade é que o benefício não caíra no chão: a irmandade (de que ele fora juiz) mandara-lhe tirar o retrato a óleo. Não era perfeito, decerto; tinha, por exemplo, o sestro de mandar para os jornais a notícia de um ou outro benefício que praticava - sestro repreensível ou não louvável, concordo; mas ele desculpava-se dizendo que as boas ações eram contagiosas, quando públicas; razão a que se não pode negar algum peso. Creio mesmo (e nisto faço o seu maior elogio) que ele não praticava, de quando em quando, esses benefícios senão com o fim de espertar a filantropia dos outros; e se tal era o intuito, força é confessar que a publicidade tornava-se uma condição sine qua non. Em suma, poderia dever algumas atenções, mas não devia um real a ninguém.
 
-* A ponta do Calabouço ficava nas proximidades da atual praça Quinze de Novembro. No século XVII, os portugueses nela ergueram um forte e uma prisão, destinada a escravos faltosos.
-
-### CXXIV. Vá de intermédio
+### 124 — Vá de Intermédio
 
 Que há entre a vida e a morte? Uma curta ponte. Não obstante, se eu não compusesse este capítulo, padeceria o leitor um forte abalo, assaz danoso ao efeito do livro. Saltar de um retrato a um epitáfio pode ser real e comum; o leitor, entretanto, não se refugia no livro, senão para escapar à vida. Não digo que este pensamento seja meu; digo que há nele uma dose de verdade, e que, ao menos, a forma é pinturesca. E repito: não é meu.
 
-### CXXV. Epitáfio
+### 125 — Epitáfio
 
 AQUI JAZ
 
@@ -2553,9 +2333,9 @@ AOS DEZENOVE ANOS DE IDADE
 
 ORAI POR ELA!
 
-### CXXVI. Desconsolação
+### 126 — Desconsolação
 
-O epitáfio diz tudo. Vale mais do que se lhes narrasse a moléstia de Nhã-loló, a morte, o desespero da família, o enterro. Ficam sabendo que morreu; acrescentarei que foi por ocasião da primeira entrada da febre amarela. * Não digo mais nada, a não ser que a acompanhei até o último jazigo, e me despedi triste, mas sem lágrimas. Concluí que talvez não a amasse deveras.
+O epitáfio diz tudo. Vale mais do que se lhes narrasse a moléstia de Nhã-loló, a morte, o desespero da família, o enterro. Ficam sabendo que morreu; acrescentarei que foi por ocasião da primeira entrada da febre amarela. Não digo mais nada, a não ser que a acompanhei até o último jazigo, e me despedi triste, mas sem lágrimas. Concluí que talvez não a amasse deveras.
 
 Vejam agora a que excessos pode levar uma inadvertência; doeu-me um pouco a cegueira da epidemia que, matando à direita e à esquerda, levou também uma jovem dama, que tinha de ser minha mulher; não cheguei a entender a necessidade da epidemia, menos ainda, daquela morte. Creio até que esta me pareceu ainda mais absurda que todas as outras mortes. Quincas Borba, porém, explicou-me que epidemias eram úteis à espécie, embora desastrosas para uma certa porção de indivíduos; fez-me notar que, por mais horrendo que fosse o espetáculo, havia uma vantagem de muito peso: a sobrevivência do maior número. Chegou a perguntar-me se, no meio do luto geral, não sentia eu algum secreto encanto em ter escapado às garras da peste; mas esta pergunta era tão insensata, que ficou sem resposta.
 
@@ -2571,31 +2351,23 @@ Damasceno ouviu calado, abanou outra vez a cabeça, e suspirou:
 
 — Mas viessem!
 
-* O narrador se refere à primeira entrada da febre amarela no Rio de Janeiro, já que o primeiro registro da doença no Brasil é de 1685, em Pernambuco. A primeira grande epidemia na capital do Império ocorreu em 1849.
-
-### CXXVII. Formalidade
+### 127 — Formalidade
 
 Grande cousa é haver recebido do céu uma partícula da sabedoria, o dom de achar as relações das cousas, a faculdade de as comparar e o talento de concluir! Eu tive essa distinção psíquica; eu a agradeço ainda agora do fundo do meu sepulcro.
 
 De fato, o homem vulgar que ouvisse a última palavra do Damasceno não se lembraria dela, quando, tempos depois, houvesse de olhar para uma gravura representando seis damas turcas. Pois eu lembrei-me. Eram seis damas de Constantinopla - modernas -, em trajos de rua, cara tapada, não com um espesso pano que as cobrisse deveras, mas com um véu tenuíssimo, que simulava descobrir somente os olhos, e na realidade descobria a cara inteira. E eu achei graça a essa esperteza da faceirice muçulmana, que assim esconde o rosto - e cumpre o uso -, mas não o esconde - e divulga a beleza. Aparentemente, nada há entre as damas turcas e o Damasceno; mas se tu és um espírito profundo e penetrante (e duvido muito que me negues isso), compreenderás que, tanto num como noutro caso, surge aí a orelha de uma rígida e meiga companheira do homem social...
 
-Amável Formalidade, tu és, sim, o bordão da vida, o bálsamo dos corações, a medianeira entre os homens, o vínculo da terra e do céu; tu enxugas as lágrimas de um pai, tu captas a indulgência de um Profeta. Se a dor adormece, e a consciência se acomoda, a quem, senão a ti, devem esse imenso benefício? A estima que passa de chapéu na cabeça não diz nada à alma; mas a indiferença que corteja deixa-lhe uma deleitosa impressão. A razão é que, ao contrário de uma velha fórmula absurda, não é a letra que mata; a letra dá vida; o espírito é que é objeto de controvérsia, de dúvida, de interpretação e conseguintemente de luta e de morte. * Vive tu, amável Formalidade, para sossego do Damasceno e glória de Muamede.
+Amável Formalidade, tu és, sim, o bordão da vida, o bálsamo dos corações, a medianeira entre os homens, o vínculo da terra e do céu; tu enxugas as lágrimas de um pai, tu captas a indulgência de um Profeta. Se a dor adormece, e a consciência se acomoda, a quem, senão a ti, devem esse imenso benefício? A estima que passa de chapéu na cabeça não diz nada à alma; mas a indiferença que corteja deixa-lhe uma deleitosa impressão. A razão é que, ao contrário de uma velha fórmula absurda, não é a letra que mata; a letra dá vida; o espírito é que é objeto de controvérsia, de dúvida, de interpretação e conseguintemente de luta e de morte. Vive tu, amável Formalidade, para sossego do Damasceno e glória de Muamede.
 
-* O narrador subverte a palavra bíblica do apóstolo Paulo na segunda epístola dirigida aos coríntios ( 3, 6 ): "[Deus] o qual também nos fez idôneos ministros do Novo Testamento; não pela letra, mas pelo Espírito, porque a letra mata, mas o Espírito vivifica".
-
-### CXXVIII. Na Câmara
+### 128 — Na Câmara
 
 E notai bem que eu vi a gravura turca, dous anos depois das palavras de Damasceno, e vi-a na Câmara dos Deputados, em meio de grande burburinho, enquanto um deputado discutia um parecer da comissão do orçamento, sendo eu também deputado. Para quem há lido este livro é escusado encarecer a minha satisfação, e para os outros é igualmente inútil. Era deputado, e vi a gravura turca, recostado na minha cadeira, entre um colega, que contava uma anedota, e outro, que tirava a lápis, nas costas de uma sobrecarta, o perfil do orador. O orador era o Lobo Neves. A onda da vida trouxe-nos à mesma praia, como duas botelhas de náufragos, ele contendo o seu ressentimento, eu devendo conter o meu remorso; e emprego esta forma suspensiva, dubitativa ou condicional, para o fim de dizer que efetivamente não continha nada, a não ser a ambição de ser ministro.
 
-### CXXIX. Sem remorsos
+### 129 — Sem Remorsos
 
-Não tinha remorsos. Se possuísse os aparelhos próprios, incluía neste livro uma página de química, porque havia de decompor o remorso até os mais simples elementos, com o fim de saber de um modo positivo e concludente por que razão Aquiles passeia à roda de Troia o cadáver do adversário, * e lady Macbeth passeia à volta da sala a sua mancha de sangue. ** Mas eu não tenho aparelhos químicos, como não tinha remorsos; tinha vontade de ser ministro de Estado. Contudo, se hei de acabar este capítulo, direi que não quisera ser Aquiles nem lady Macbeth; e que, a ser alguma cousa, antes Aquiles, antes passear ovante o cadáver do que a mancha; ouvem-se no fim as súplicas de Príamo, e ganha-se uma bonita reputação militar e literária. Eu não ouvia as súplicas de Príamo, mas o discurso do Lobo Neves, e não tinha remorsos.
+Não tinha remorsos. Se possuísse os aparelhos próprios, incluía neste livro uma página de química, porque havia de decompor o remorso até os mais simples elementos, com o fim de saber de um modo positivo e concludente por que razão Aquiles passeia à roda de Troia o cadáver do adversário, e lady Macbeth passeia à volta da sala a sua mancha de sangue. Mas eu não tenho aparelhos químicos, como não tinha remorsos; tinha vontade de ser ministro de Estado. Contudo, se hei de acabar este capítulo, direi que não quisera ser Aquiles nem lady Macbeth; e que, a ser alguma cousa, antes Aquiles, antes passear ovante o cadáver do que a mancha; ouvem-se no fim as súplicas de Príamo, e ganha-se uma bonita reputação militar e literária. Eu não ouvia as súplicas de Príamo, mas o discurso do Lobo Neves, e não tinha remorsos.
 
-* A passagem está no canto XXIV da Ilíada e narra a morte de Heitor, filho do rei de Troia, Príamo, pelas mãos do grego Aquiles, para vingar a morte de seu amigo Pátroclo.
-
-** No ato V, cena I da tragédia Macbeth (c. 1606 ), de Shakespeare, lady Macbeth enlouquece de remorso, depois de ter incentivado o marido a cometer vários crimes, visando obter a coroa da Escócia. Em sua loucura, ela anda de um lado para outro querendo livrar-se da mancha de sangue que imagina ter nas mãos.
-
-### CXXX. Para intercalar no capítulo CXXIX
+### 130 — Para Intercalar no Capítulo CXXIX
 
 A primeira vez que pude falar a Virgília, depois da presidência, foi num baile em 1855. Trazia um soberbo vestido de gorgorão azul, e ostentava às luzes o mesmo par de ombros de outro tempo. Não era a frescura da primeira idade; ao contrário; mas ainda estava formosa, de uma formosura outoniça, realçada pela noite. Lembra-me que falamos muito, sem aludir a cousa nenhuma do passado. Subentendia-se tudo. Um dito remoto, vago, ou então um olhar, e mais nada. Pouco depois retirou-se; eu fui vê-la descer as escadas, e não sei por que fenômeno de ventriloquismo cerebral (perdoem-me os filólogos essa frase bárbara) murmurei comigo esta palavra profundamente retrospectiva:
 
@@ -2603,9 +2375,9 @@ A primeira vez que pude falar a Virgília, depois da presidência, foi num baile
 
 Convém intercalar este capítulo entre a primeira oração e a segunda do capítulo CXXIX.
 
-## Capítulos 131 a 140
+## Capítulos 131 — 140
 
-### CXXXI. De uma calúnia
+### 131 — De uma Calúnia
 
 Como eu acabava de dizer aquilo, pelo processo ventríloquo-cerebral - o que era simples opinião e não remorso -, senti que alguém me punha a mão no ombro. Voltei-me; era um antigo companheiro, oficial de marinha, jovial, um pouco despejado de maneiras. Ele sorriu maliciosamente, e disse-me:
 
@@ -2617,47 +2389,35 @@ Como eu acabava de dizer aquilo, pelo processo ventríloquo-cerebral - o que era
 
 — Salta, pelintra! - disse eu, ameaçando-o com o dedo.
 
-Confesso que este diálogo era uma indiscrição - principalmente a última réplica. E com tanto maior prazer o confesso, quanto que as mulheres é que têm fama de indiscretas, e não quero acabar o livro sem retificar essa noção do espírito humano. Em pontos de aventura amorosa, achei homens que sorriam, ou negavam a custo de um modo frio, monossilábico, etc., ao passo que as parceiras não davam por si, e jurariam aos Santos Evangelhos que era tudo uma calúnia. A razão desta diferença é que a mulher (salva a hipótese do capítulo CI e outras) entrega-se por amor, ou seja, o amor-paixão de Stendhal, * ou o puramente físico de algumas damas romanas, ** por exemplo, ou polinésias, lapônias, cafres, e pode ser que outras raças civilizadas; mas o homem - falo do homem de uma sociedade culta e elegante -, o homem conjuga a sua vaidade ao outro sentimento. Além disso (e refiro-me sempre aos casos defesos), a mulher, quando ama outro homem, parece-lhe que mente a um dever, e portanto tem de dissimular com arte maior, tem de refinar a aleivosia; ao passo que o homem, sentindo-se causa da infração e vencedor de outro homem, fica legitimamente orgulhoso, e logo passa a outro sentimento menos ríspido e menos secreto - essa boa fatuidade, que é a transpiração luminosa do mérito.
+Confesso que este diálogo era uma indiscrição - principalmente a última réplica. E com tanto maior prazer o confesso, quanto que as mulheres é que têm fama de indiscretas, e não quero acabar o livro sem retificar essa noção do espírito humano. Em pontos de aventura amorosa, achei homens que sorriam, ou negavam a custo de um modo frio, monossilábico, etc., ao passo que as parceiras não davam por si, e jurariam aos Santos Evangelhos que era tudo uma calúnia. A razão desta diferença é que a mulher (salva a hipótese do capítulo CI e outras) entrega-se por amor, ou seja, o amor-paixão de Stendhal, ou o puramente físico de algumas damas romanas, por exemplo, ou polinésias, lapônias, cafres, e pode ser que outras raças civilizadas; mas o homem - falo do homem de uma sociedade culta e elegante -, o homem conjuga a sua vaidade ao outro sentimento. Além disso (e refiro-me sempre aos casos defesos), a mulher, quando ama outro homem, parece-lhe que mente a um dever, e portanto tem de dissimular com arte maior, tem de refinar a aleivosia; ao passo que o homem, sentindo-se causa da infração e vencedor de outro homem, fica legitimamente orgulhoso, e logo passa a outro sentimento menos ríspido e menos secreto - essa boa fatuidade, que é a transpiração luminosa do mérito.
 
-Mas seja ou não verdadeira a minha explicação, basta-me deixar escrito nesta página, para uso dos séculos, que a indiscrição das mulheres é uma burla inventada pelos homens; em amor, pelo menos, elas são um verdadeiro sepulcro. Perdem-se muita vez por desastradas, por inquietas, por não saberem resistir aos gestos, aos olhares; e é por isso que uma grande dama e fino espírito, a rainha de Navarra, empregou algures esta metáfora para dizer que toda a aventura amorosa vinha a descobrir-se por força, mais tarde ou mais cedo: "Não há cachorrinho tão adestrado, que alfim lhe não ouçamos o latir". ***
+Mas seja ou não verdadeira a minha explicação, basta-me deixar escrito nesta página, para uso dos séculos, que a indiscrição das mulheres é uma burla inventada pelos homens; em amor, pelo menos, elas são um verdadeiro sepulcro. Perdem-se muita vez por desastradas, por inquietas, por não saberem resistir aos gestos, aos olhares; e é por isso que uma grande dama e fino espírito, a rainha de Navarra, empregou algures esta metáfora para dizer que toda a aventura amorosa vinha a descobrir-se por força, mais tarde ou mais cedo: "Não há cachorrinho tão adestrado, que alfim lhe não ouçamos o latir".
 
-* Referência ao livro De l'amour, em que Stendhal diz existirem quatro tipos de amor: o amor-paixão, o amor do bom gosto, o amor físico e o amor da vaidade.
-
-** Referência, provavelmente, a personagens femininas da história de Roma, cujo comportamento devasso é registrado, sobretudo, nas narrativas de Petrônio e de Suetônio.
-
-*** Trata-se da rainha Margarida de Navarra ( 1492 - 1549 ). A citação é de sua obra Heptaméron, publicada postumamente em 1558 - 9.
-
-### CXXXII. Que não é sério
+### 132 — Que Não É Sério
 
 Citando o dito da rainha de Navarra, ocorre-me que entre o nosso povo, quando uma pessoa vê outra pessoa arrufada, costuma perguntar-lhe: "Gentes, quem matou seus cachorrinhos?", como se dissesse: "quem lhe levou os amores, as aventuras secretas, etc.". Mas este capítulo não é sério.
 
-### CXXXIII. O princípio de Helvetius
+### 133 — O Princípio de Helvetius
 
-Estávamos no ponto em que o oficial de marinha me arrancou a confissão dos amores de Virgília, e aqui emendo eu o princípio de Helvetius - ou, por outra, explico-o. O meu interesse era calar; confirmar a suspeita de uma cousa antiga fora provocar algum ódio sopitado, dar origem a um escândalo, quando menos adquirir a reputação de indiscreto. Era esse o interesse; e entendendo-se o princípio de Helvetius * de um modo superficial, isso é o que devia ter feito. Mas eu já dei o motivo da indiscrição masculina; antes daquele interesse de segurança, havia outro, o do desvanecimento, que é mais íntimo, mais imediato: o primeiro era reflexivo, supunha um silogismo anterior; o segundo era espontâneo, instintivo, vinha das entranhas do sujeito; finalmente, o primeiro tinha o efeito remoto, o segundo, próximo. Conclusão: o princípio de Helvetius é verdadeiro no meu caso - a diferença é que não era o interesse aparente, mas o recôndito.
+Estávamos no ponto em que o oficial de marinha me arrancou a confissão dos amores de Virgília, e aqui emendo eu o princípio de Helvetius - ou, por outra, explico-o. O meu interesse era calar; confirmar a suspeita de uma cousa antiga fora provocar algum ódio sopitado, dar origem a um escândalo, quando menos adquirir a reputação de indiscreto. Era esse o interesse; e entendendo-se o princípio de Helvetius de um modo superficial, isso é o que devia ter feito. Mas eu já dei o motivo da indiscrição masculina; antes daquele interesse de segurança, havia outro, o do desvanecimento, que é mais íntimo, mais imediato: o primeiro era reflexivo, supunha um silogismo anterior; o segundo era espontâneo, instintivo, vinha das entranhas do sujeito; finalmente, o primeiro tinha o efeito remoto, o segundo, próximo. Conclusão: o princípio de Helvetius é verdadeiro no meu caso - a diferença é que não era o interesse aparente, mas o recôndito.
 
-* Em sua obra mais famosa, Do espírito, Claude Adrien Helvetius ( 1715 - 71 ) defende a ideia de que a ética pública tem uma base utilitária.
-
-### CXXXIV. Cinquenta anos
+### 134 — Cinquenta Anos
 
 Não lhes disse ainda - mas digo-o agora - que quando Virgília descia a escada, e o oficial de marinha me tocava no ombro, tinha eu cinquenta anos. Era portanto a minha vida que descia pela escada abaixo - ou a melhor parte, ao menos, uma parte cheia de prazeres, de agitações, de sustos - capeada de dissimulação e duplicidade -, mas enfim a melhor, se devemos falar a linguagem usual. Se, porém, empregarmos outra mais sublime, a melhor parte foi a restante, como eu terei a honra de lhes dizer nas poucas páginas deste livro.
 
 Cinquenta anos! Não era preciso confessá-lo. Já se vai sentindo que o meu estilo não é tão lesto como nos primeiros dias. Naquela ocasião, cessado o diálogo com o oficial de marinha, que enfiou a capa e saiu, confesso que fiquei um pouco triste. Voltei à sala, lembrou-me dançar uma polca, embriagar-me das luzes, das flores, dos cristais, dos olhos bonitos, e do burburinho surdo e ligeiro das conversas particulares. E não me arrependo; remocei. Mas, meia hora depois, quando me retirei do baile, às quatro da manhã, o que é que fui achar no fundo do carro? Os meus cinquenta anos. Lá estavam eles, os teimosos, não tolhidos de frio, nem reumáticos - mas cochilando a sua fadiga, um pouco cobiçosos de cama e de repouso. Então - e vejam até que ponto pode ir a imaginação de um homem, com sono -, então pareceu-me ouvir de um morcego encarapitado no tejadilho: Sr. Brás Cubas, a rejuvenescência estava na sala, nos cristais, nas luzes, nas sedas - enfim, nos outros.
 
-### CXXXV. Oblivion
+### 135 — Oblivion
 
 E agora sinto que, se alguma dama tem seguido estas páginas, fecha o livro e não lê as restantes. Para ela extinguiu-se o interesse da minha vida, que era o amor. Cinquenta anos! Não é ainda a invalidez, mas já não é a frescura. Venham mais dez, e eu entenderei o que um inglês dizia, entenderei que "cousa é não achar já quem se lembre de meus pais, e de que modo me há de encarar o próprio ESQUECIMENTO ".
 
-Vai em versaletes esse nome. OBLIVION! * Justo é que se deem todas as honras a um personagem tão desprezado e tão digno, conviva da última hora, mas certo. Sabe-o a dama que luziu na aurora do atual reinado, e mais dolorosamente a que ostentou suas graças em flor sob o ministério Paraná, porque esta acha-se mais perto do triunfo, e sente já que outras lhe tomaram o carro. Então, se é digna de si mesma, não teima em espertar a lembrança morta ou expirante; não busca no olhar de hoje a mesma saudação do olhar de ontem, quando eram outros os que encetavam a marcha da vida, de alma alegre e pé veloz. Tempora mutantur. ** Compreende que este turbilhão é assim mesmo, leva as folhas do mato e os farrapos do caminho, sem exceção nem piedade; e se tiver um pouco de filosofia, não inveja, mas lastima as que lhe tomaram o carro, porque também elas hão de ser apeadas pelo estribeiro OBLIVION. Espetáculo, cujo fim é divertir o planeta Saturno, que anda muito aborrecido.
+Vai em versaletes esse nome. OBLIVION! Justo é que se deem todas as honras a um personagem tão desprezado e tão digno, conviva da última hora, mas certo. Sabe-o a dama que luziu na aurora do atual reinado, e mais dolorosamente a que ostentou suas graças em flor sob o ministério Paraná, porque esta acha-se mais perto do triunfo, e sente já que outras lhe tomaram o carro. Então, se é digna de si mesma, não teima em espertar a lembrança morta ou expirante; não busca no olhar de hoje a mesma saudação do olhar de ontem, quando eram outros os que encetavam a marcha da vida, de alma alegre e pé veloz. Tempora mutantur. Compreende que este turbilhão é assim mesmo, leva as folhas do mato e os farrapos do caminho, sem exceção nem piedade; e se tiver um pouco de filosofia, não inveja, mas lastima as que lhe tomaram o carro, porque também elas hão de ser apeadas pelo estribeiro OBLIVION. Espetáculo, cujo fim é divertir o planeta Saturno, que anda muito aborrecido.
 
-* Alusão a uma passagem de Christian Morals, III, XXII ( c. 1670, publicada somente em 1716 ), de Sir Thomas Browne ( 1605 - 82 ), cuja obra abrange ampla gama de assuntos. A fonte de Machado de Assis deve ser Charles Lamb ( 1775 - 1834 ), que, em um de seus Essays of Elia ( 1823 ), intitulado "My relations", cita, adaptando, a passagem de Browne, usando, inclusive, o versalete que o autor reproduz em Brás Cubas.
-
-** Trata-se de um ditado latino, que quer dizer "os tempos mudam".
-
-### CXXXVI. Inutilidade
+### 136 — Inutilidade
 
 Mas, ou muito me engano, ou acabo de escrever um capítulo inútil.
 
-### CXXXVII. A barretina
+### 137 — A Barretina
 
 E daí, não; ele resume as reflexões que fiz no dia seguinte ao Quincas Borba, acrescentando que me sentia acabrunhado, e mil outras cousas tristes. Mas esse filósofo, com o elevado tino de que dispunha, bradou-me que eu ia escorregando na ladeira fatal da melancolia.
 
@@ -2665,7 +2425,7 @@ E daí, não; ele resume as reflexões que fiz no dia seguinte ao Quincas Borba,
 
 Vê-se nas menores cousas o que vale a autoridade de um grande filósofo. As palavras do Quincas Borba tiveram o condão de sacudir o torpor moral e mental em que andava. Vamos lá; façamo-nos governo, é tempo. Eu não havia intervindo até então nos grandes debates. Cortejava a pasta por meio de rapapés, chás, comissões e votos; e a pasta não vinha. Urgia apoderar-me da tribuna.
 
-Comecei devagar. Três dias depois, discutindo-se o orçamento da Justiça, aproveitei o ensejo para perguntar modestamente ao ministro se não julgava útil diminuir a barretina da Guarda Nacional. Não tinha vasto alcance o objeto da pergunta, mas ainda assim demonstrei que não era indigno das cogitações de um homem de Estado; e citei Filopêmen, que ordenou a substituição dos broquéis de suas tropas, que eram pequenos, por outros maiores, e bem assim as lanças, que eram demasiado leves; * fato que a história não achou que desmentisse a gravidade de suas páginas. O tamanho das nossas barretinas estava pedindo um corte profundo, não só por serem deselegantes, mas também por serem anti-higiênicas. Nas paradas, ao sol, o excesso de calor produzido por elas podia ser fatal. Sendo certo que um dos preceitos de Hipócrates era trazer a cabeça fresca, parecia cruel obrigar um cidadão, por simples consideração de uniforme, a arriscar a saúde e a vida, e consequentemente o futuro da família. A Câmara e o governo deviam lembrar-se que a Guarda Nacional era o anteparo da liberdade e da independência, e que o cidadão, chamado a um serviço gratuito, frequente e penoso, tinha direito a que se lhe diminuísse o ônus, decretando um uniforme leve e maneiro. Acrescia que a barretina, por seu peso, abatia a cabeça dos cidadãos, e a pátria precisava de cidadãos cuja fronte pudesse levantar-se altiva e serena diante do poder; e concluí com esta ideia: o chorão, que inclina os seus galhos para a terra, é árvore de cemitério; a palmeira, erecta e firme, é árvore do deserto, das praças e dos jardins.
+Comecei devagar. Três dias depois, discutindo-se o orçamento da Justiça, aproveitei o ensejo para perguntar modestamente ao ministro se não julgava útil diminuir a barretina da Guarda Nacional. Não tinha vasto alcance o objeto da pergunta, mas ainda assim demonstrei que não era indigno das cogitações de um homem de Estado; e citei Filopêmen, que ordenou a substituição dos broquéis de suas tropas, que eram pequenos, por outros maiores, e bem assim as lanças, que eram demasiado leves; fato que a história não achou que desmentisse a gravidade de suas páginas. O tamanho das nossas barretinas estava pedindo um corte profundo, não só por serem deselegantes, mas também por serem anti-higiênicas. Nas paradas, ao sol, o excesso de calor produzido por elas podia ser fatal. Sendo certo que um dos preceitos de Hipócrates era trazer a cabeça fresca, parecia cruel obrigar um cidadão, por simples consideração de uniforme, a arriscar a saúde e a vida, e consequentemente o futuro da família. A Câmara e o governo deviam lembrar-se que a Guarda Nacional era o anteparo da liberdade e da independência, e que o cidadão, chamado a um serviço gratuito, frequente e penoso, tinha direito a que se lhe diminuísse o ônus, decretando um uniforme leve e maneiro. Acrescia que a barretina, por seu peso, abatia a cabeça dos cidadãos, e a pátria precisava de cidadãos cuja fronte pudesse levantar-se altiva e serena diante do poder; e concluí com esta ideia: o chorão, que inclina os seus galhos para a terra, é árvore de cemitério; a palmeira, erecta e firme, é árvore do deserto, das praças e dos jardins.
 
 Vária foi a impressão deste discurso. Quanto à forma, ao rapto eloquente, à parte literária e filosófica, a opinião foi só uma; disseram-me todos que era completo, e que de uma barretina ninguém ainda conseguira tirar tantas ideias. Mas a parte política foi considerada por muitos deplorável; alguns achavam o meu discurso um desastre parlamentar; enfim, vieram dizer-me que outros me davam já em oposição, entrando nesse número os oposicionistas da Câmara, que chegaram a insinuar a conveniência de uma moção de desconfiança. Repeli energicamente tal interpretação, que não era só errônea, mas caluniosa, à vista da notoriedade com que eu sustentava o gabinete; acrescentei que a necessidade de diminuir a barretina não era tamanha que não pudesse esperar alguns anos; e que, em todo caso, eu transigiria na extensão do corte, contentando-me com três quartos de polegada ou menos; enfim, dado mesmo que a minha ideia não fosse adotada, bastava-me tê-la iniciado no parlamento.
 
@@ -2675,17 +2435,15 @@ Quincas Borba, porém, não fez restrição alguma.
 
 E então notou as partes mais salientes, as belas imagens, os argumentos fortes, com esse comedimento de louvor que tão bem fica a um grande filósofo; depois, tomou o assunto à sua conta, e impugnou a barretina com tal força, com tamanha lucidez, que acabou convencendo-me efetivamente do seu perigo.
 
-* Filopêmen ( 253 - 184 a.C.), chefe da Liga Acaica, conhecido como "o último dos gregos", determinou que os escudos até então usados fossem substituídos por escudos maiores e que, em vez de dardos curtos, os soldados usassem lanças longas. A história é narrada por Plutarco em Vidas paralelas.
-
-### CXXXVIII. A um crítico
+### 138 — A um Crítico
 
 Meu caro crítico,
 
 Algumas páginas atrás, dizendo eu que tinha cinquenta anos, acrescentei: "Já se vai sentindo que o meu estilo não é tão lesto como nos primeiros dias". Talvez aches esta frase incompreensível, sabendo-se o meu atual estado; mas eu chamo a tua atenção para a subtileza daquele pensamento. O que eu quero dizer não é que esteja agora mais velho do que quando comecei o livro. A morte não envelhece. Quero dizer, sim, que em cada fase da narração da minha vida experimento a sensação correspondente. Valha-me Deus! É preciso explicar tudo.
 
-### CXXXIX. De como não fui ministro d'Estado
+### 139 — De como Não Fui Ministro d'Estado
 
-### CXL. Que explica o anterior
+### 140 — Que Explica o Anterior
 
 Há cousas que melhor se dizem calando; tal é a matéria do capítulo anterior. Podem entendê-lo os ambiciosos malogrados. Se a paixão do poder é a mais forte de todas, como alguns inculcam, imaginem o desespero, a dor, o abatimento do dia em que perdi a cadeira da Câmara dos Deputados. Iam-se-me as esperanças todas; terminava a carreira política. E notem que o Quincas Borba, por induções filosóficas que fez, achou que a minha ambição não era a paixão verdadeira do poder, mas um capricho, um desejo de folgar. Na opinião dele, este sentimento, não sendo mais profundo que o outro, amofina muito mais, porque orça pelo amor que as mulheres têm às rendas e toucados. Um Cromwell ou um Bonaparte, acrescentava ele, por isso mesmo que os queima a paixão do poder, lá chegam à fina força ou pela escada da direita, ou pela da esquerda. Não era assim o meu sentimento; este, não tendo em si a mesma força, não tem a mesma certeza do resultado; e daí a maior aflição, o maior desencanto, a maior tristeza. O meu sentimento, segundo o Humanitismo...
 
@@ -2693,9 +2451,9 @@ Há cousas que melhor se dizem calando; tal é a matéria do capítulo anterior.
 
 A dureza da interrupção, tratando-se de tamanho filósofo, equivalia a um desacato; mas ele próprio desculpou a irritação com que lhe falei. Trouxeram-nos café; era uma hora da tarde, estávamos na minha sala de estudo, uma bela sala, que dava para o fundo da chácara, bons livros, objetos d'arte, um Voltaire entre eles, um Voltaire de bronze, que nessa ocasião parecia acentuar o risinho de sarcasmo com que me olhava, o ladrão; cadeiras excelentes; fora, o sol, um grande sol, que o Quincas Borba, não sei se por chalaça ou poesia, chamou um dos ministros da natureza; corria um vento fresco, o céu estava azul. De cada janela - eram três - pendia uma gaiola com pássaros, que chilreavam as suas óperas rústicas. Tudo tinha a aparência de uma conspiração das cousas contra o homem: e, conquanto eu estivesse na minha sala, olhando para a minha chácara, sentado na minha cadeira, ouvindo os meus pássaros, ao pé dos meus livros, alumiado pelo meu sol, não chegava a curar-me das saudades daquela outra cadeira, que não era minha.
 
-## Capítulos 141 a 150
+## Capítulos 141 — 150
 
-### CXLI. Os cães
+### 141 — Os Cães
 
 — Mas, enfim, que pretendes fazer agora? - perguntou-me Quincas Borba, indo pôr a xícara vazia no parapeito de uma das janelas.
 
@@ -2717,17 +2475,17 @@ Daí a pouco demos com uma briga de cães, fato que aos olhos de um homem vulgar
 
 Quis arrancar-me dali, mas não pude; ele estava arraigado ao chão, e só continuou a andar quando a briga cessou inteiramente, e um dos cães, mordido e vencido, foi levar a sua fome a outra parte. Notei que ficara sinceramente alegre, posto contivesse a alegria, segundo convinha a um grande filósofo. Fez-me observar a beleza do espetáculo, relembrou o objeto da luta, concluiu que os cães tinham fome; mas a privação do alimento era nada para os efeitos gerais da filosofia. Nem deixou de recordar que em algumas partes do globo o espetáculo é mais grandioso: as criaturas humanas é que disputam aos cães os ossos e outros manjares menos apetecíveis; luta que se complica muito, porque entra em ação a inteligência do homem, com todo o acúmulo de sagacidade que lhe deram os séculos, etc.
 
-### CXLII. O pedido secreto
+### 142 — O Pedido Secreto
 
-Quanta cousa num minuete! - como dizia o outro. i Quanta cousa numa briga de cães! Mas eu não era um discípulo servil ou medroso que deixasse de fazer uma ou outra objeção adequada. Andando, disse-lhe que tinha uma dúvida; não estava bem certo da vantagem de disputar a comida aos cães. Ele respondeu-me com excepcional brandura:
+Quanta cousa num minuete! - como dizia o outro. Quanta cousa numa briga de cães! Mas eu não era um discípulo servil ou medroso que deixasse de fazer uma ou outra objeção adequada. Andando, disse-lhe que tinha uma dúvida; não estava bem certo da vantagem de disputar a comida aos cães. Ele respondeu-me com excepcional brandura:
 
-— Disputá-la aos outros homens é mais lógico, porque a condição dos contendores é a mesma, e leva o osso o que for mais forte. Mas por que não será um espetáculo grandioso disputá-lo aos cães? Voluntariamente, comem-se gafanhotos, como o Precursor, ou cousa pior, como Ezequiel; ii logo, o ruim é comível; resta saber se é mais digno do homem disputá-lo, por virtude de uma necessidade natural, ou preferi-lo, para obedecer a uma exaltação religiosa, isto é, modificável, ao passo que a fome é eterna, como a vida e como a morte.
+— Disputá-la aos outros homens é mais lógico, porque a condição dos contendores é a mesma, e leva o osso o que for mais forte. Mas por que não será um espetáculo grandioso disputá-lo aos cães? Voluntariamente, comem-se gafanhotos, como o Precursor, ou cousa pior, como Ezequiel; logo, o ruim é comível; resta saber se é mais digno do homem disputá-lo, por virtude de uma necessidade natural, ou preferi-lo, para obedecer a uma exaltação religiosa, isto é, modificável, ao passo que a fome é eterna, como a vida e como a morte.
 
 Estávamos à porta de casa; deram-me uma carta, dizendo que vinha de uma senhora. Entramos; e o Quincas Borba, com a discrição própria de um filósofo, foi ler a lombada dos livros de uma estante, enquanto eu lia a carta, que era de Virgília:
 
 Meu bom amigo,
 
-D. Plácida está muito mal. Peço-lhe o favor de fazer alguma cousa por ela; mora no beco das Escadinhas; iii veja se alcança metê-la na Misericórdia. iv
+D. Plácida está muito mal. Peço-lhe o favor de fazer alguma cousa por ela; mora no beco das Escadinhas; veja se alcança metê-la na Misericórdia.
 
 Sua amiga sincera,
 
@@ -2737,19 +2495,9 @@ Não era a letra fina e correta de Virgília, mas grossa e desigual; o V da assi
 
 — O quê? - perguntei espantado.
 
-— Vais compreender que eu só te disse a verdade. Pascal é um dos meus avôs espirituais; e, conquanto a minha filosofia valha mais que a dele, não posso negar que era um grande homem. Ora, que diz ele nesta página? - E, chapéu na cabeça, bengala sobraçada, apontava o lugar com o dedo. - Que diz ele? Diz que o homem tem "uma grande vantagem sobre o resto do universo: sabe que morre, ao passo que o universo ignora-o absolutamente". v Vês? Logo, o homem que disputa o osso a um cão tem sobre este a grande vantagem de saber que tem fome; e é isto que torna grandiosa a luta, como eu dizia. "Sabe que morre" é uma expressão profunda; creio todavia que é mais profunda a minha expressão: sabe que tem fome. Porquanto o fato da morte limita, por assim dizer, o entendimento humano; a consciência da extinção dura um breve instante e acaba para nunca mais, ao passo que a fome tem a vantagem de voltar, de prolongar o estado consciente. Parece-me (se não vai nisso alguma imodéstia) que a fórmula de Pascal é inferior à minha, sem todavia deixar de ser um grande pensamento, e Pascal, um grande homem.
+— Vais compreender que eu só te disse a verdade. Pascal é um dos meus avôs espirituais; e, conquanto a minha filosofia valha mais que a dele, não posso negar que era um grande homem. Ora, que diz ele nesta página? - E, chapéu na cabeça, bengala sobraçada, apontava o lugar com o dedo. - Que diz ele? Diz que o homem tem "uma grande vantagem sobre o resto do universo: sabe que morre, ao passo que o universo ignora-o absolutamente". Vês? Logo, o homem que disputa o osso a um cão tem sobre este a grande vantagem de saber que tem fome; e é isto que torna grandiosa a luta, como eu dizia. "Sabe que morre" é uma expressão profunda; creio todavia que é mais profunda a minha expressão: sabe que tem fome. Porquanto o fato da morte limita, por assim dizer, o entendimento humano; a consciência da extinção dura um breve instante e acaba para nunca mais, ao passo que a fome tem a vantagem de voltar, de prolongar o estado consciente. Parece-me (se não vai nisso alguma imodéstia) que a fórmula de Pascal é inferior à minha, sem todavia deixar de ser um grande pensamento, e Pascal, um grande homem.
 
-i Trata-se de uma expressão francesa corrente no século XIX: "Que de choses dans un menuet!".
-
-ii A alusão aos gafanhotos comidos por João Batista, também chamado o precursor (por ter sido designado a preparar a humanidade para a chegada de Jesus Cristo, segundo o Novo Testamento), remete a Mateus 3, 4 e a Lucas 1, 6. A alusão ao profeta Ezequiel (que relata ter comido um livro, por ordem de Deus) está em Ezequiel 3.
-
-iii O beco das Escadinhas tanto pode ser o das Escadinhas do Livramento, na Gamboa, ou o das Escadinhas da Conceição, na Saúde, ambos na zona portuária do Rio de Janeiro.
-
-iv Trata-se da Santa Casa da Misericórdia do Rio de Janeiro, hospital fundado em 1582 pelo padre jesuíta José de Anchieta.
-
-v No original, a passagem é: "Mais, quand l'univers l'écraserait, l'homme serait encore plus noble que ce qui le tue, puisqu'il sait qu'il meurt, et l'avantage que l'univers a sur lui, l'univers n'en sait rien" [Mas, quando o universo o esmagar, o homem será ainda mais nobre que aquele que o mata, já que sabe que ele morre, e a vantagem que o universo tem sobre si; o universo disso nada sabe].
-
-### CXLIII. Não vou
+### 143 — Não Vou
 
 Enquanto ele restituía o livro à estante, relia eu o bilhete. Ao jantar, vendo que eu falava pouco, mastigava sem acabar de engolir, fitava o canto da sala, a ponta da mesa, um prato, uma cadeira, uma mosca invisível, disse-me ele:
 
@@ -2759,7 +2507,7 @@ Enquanto ele restituía o livro à estante, relia eu o bilhete. Ao jantar, vendo
 
 Realmente, sentia-me aborrecido, incomodado, com o pedido de Virgília. Tinha dado a D. Plácida cinco contos de réis; duvido muito que ninguém fosse mais generoso do que eu, nem tanto. Cinco contos! E que fizera deles? Naturalmente botou-os fora, comeu-os em grandes festas, e agora toca para a Misericórdia, e eu que a leve! Morre-se em qualquer parte. Acresce que eu não sabia ou não me lembrava do tal beco das Escadinhas; mas, pelo nome, parecia-me algum recanto estreito e escuro da cidade. Tinha de lá ir, chamar a atenção dos vizinhos, bater à porta, etc. Que maçada! Não vou.
 
-### CXLIV. Utilidade relativa
+### 144 — Utilidade Relativa
 
 Mas a noite, que é boa conselheira, ponderou que a cortesia mandava obedecer aos desejos da minha antiga dama.
 
@@ -2767,21 +2515,19 @@ Mas a noite, que é boa conselheira, ponderou que a cortesia mandava obedecer ao
 
 Depois do almoço fui à casa de D. Plácida; achei um molho de ossos, envolto em molambos, estendido sobre um catre velho e nauseabundo; dei-lhe algum dinheiro. No dia seguinte fi-la transportar para a Misericórdia, onde ela morreu uma semana depois. Minto: amanheceu morta; saiu da vida às escondidas, tal qual entrara. Outra vez perguntei, a mim mesmo, como no capítulo LXXV, se era para isto que o sacristão da Sé e a doceira trouxeram D. Plácida à luz, num momento de simpatia específica. Mas adverti logo que, se não fosse D. Plácida, talvez os meus amores com Virgília tivessem sido interrompidos, ou imediatamente quebrados, em plena efervescência; tal foi, portanto, a utilidade da vida de D. Plácida. Utilidade relativa, convenho; mas que diacho há absoluto nesse mundo?
 
-### CXLV. Simples repetição
+### 145 — Simples Repetição
 
 Quanto aos cinco contos, não vale a pena dizer que um canteiro da vizinhança fingiu-se enamorado de D. Plácida, logrou espertar-lhe os sentidos, ou a vaidade, e casou com ela; no fim de alguns meses inventou um negócio, vendeu as apólices e fugiu com o dinheiro. Não vale a pena. É o caso dos cães do Quincas Borba. Simples repetição de um capítulo.
 
-### CXLVI. O programa
+### 146 — O Programa
 
 Urgia fundar o jornal. Redigi o programa, que era uma aplicação política do Humanitismo; somente, como o Quincas Borba não houvesse ainda publicado o livro (que aperfeiçoava de ano em ano), assentamos de lhe não fazer nenhuma referência. Quincas Borba exigiu apenas uma declaração, autógrafa e reservada, de que alguns princípios novos aplicados à política eram tirados do livro dele, ainda inédito.
 
 Era a fina flor dos programas; prometia curar a sociedade, destruir os abusos, defender os sãos princípios de liberdade e conservação; fazia um apelo ao comércio e à lavoura; citava Guizot e Ledru-Rollin, e acabava com esta ameaça, que o Quincas Borba achou mesquinha e local: "A nova doutrina que professamos há de inevitavelmente derribar o atual ministério". Confesso que, nas circunstâncias políticas da ocasião, o programa pareceu-me uma obra-prima. A ameaça do fim, que o Quincas Borba achou mesquinha, demonstrei-lhe que era saturada do mais puro Humanitismo, e ele mesmo o confessou depois. Porquanto, o Humanitismo não excluía nada; as guerras de Napoleão e uma contenda de cabras eram, segundo a nossa doutrina, a mesma sublimidade, com a diferença que os soldados de Napoleão sabiam que morriam, cousa que aparentemente não acontece às cabras. Ora, eu não fazia mais do que aplicar às circunstâncias a nossa fórmula filosófica: Humanitas queria substituir Humanitas para consolação de Humanitas.
 
-— Tu és o meu discípulo amado, o meu califa - bradou Quincas Borba, com uma nota de ternura, que até então lhe não ouvira. - Posso dizer como o grande Muamede: nem que venham agora contra mim o Sol e a Lua, não recuarei das minhas ideias. * Crê, meu caro Brás Cubas, que esta é a verdade eterna, anterior aos mundos, posterior aos séculos.
+— Tu és o meu discípulo amado, o meu califa - bradou Quincas Borba, com uma nota de ternura, que até então lhe não ouvira. - Posso dizer como o grande Muamede: nem que venham agora contra mim o Sol e a Lua, não recuarei das minhas ideias. Crê, meu caro Brás Cubas, que esta é a verdade eterna, anterior aos mundos, posterior aos séculos.
 
-* Segundo o livro Histoire du Mahométanisme contenant la vie et les traits du caractère du prophète arabe, de Charles Mills, como resposta a um parente que queria dissuadi-lo dos seus propósitos religiosos, Maomé teria feito a seguinte afirmação: "Não, mesmo que o sol se apresentasse contra mim, à minha mão direita, e a lua na minha mão esquerda, eu não renunciaria em absoluto aos meus desígnios".
-
-### CXLVII. O desatino
+### 147 — O Desatino
 
 Mandei logo para a imprensa uma notícia discreta, dizendo que provavelmente começaria a publicação de um jornal oposicionista, daí a algumas semanas, redigido pelo Dr. Brás Cubas. Quincas Borba, a quem li a notícia, pegou da pena, e acrescentou ao meu nome, com uma fraternidade verdadeiramente humanística, esta frase: "um dos mais gloriosos membros da passada câmara".
 
@@ -2799,13 +2545,13 @@ Expliquei-lhe que não me convinha mendigar uma cadeira no parlamento; que a min
 
 Deu-me as costas e voltou ao camarote.
 
-### CXLVIII. O problema insolúvel
+### 148 — O Problema Insolúvel
 
 Publiquei o jornal. Vinte e quatro horas depois, aparecia em outros uma declaração do Cotrim, dizendo, em substância, que "posto não militasse em nenhum dos partidos em que se dividia a pátria, achava conveniente deixar bem claro que não tinha influência nem parte direta ou indireta na folha de seu cunhado, o Dr. Brás Cubas, cujas ideias e procedimento político inteiramente reprovava. O atual ministério (como aliás qualquer outro composto de iguais capacidades) parecia-lhe destinado a promover a felicidade pública".
 
 Não podia acabar de crer nos meus olhos. Esfreguei-os uma e duas vezes, e reli a declaração inoportuna, insólita e enigmática. Se ele nada tinha com os partidos, que lhe importava um incidente tão vulgar como a publicação de uma folha? Nem todos os cidadãos que acham bom ou mau um ministério fazem declarações tais pela imprensa, nem são obrigados a fazê-las. Realmente, era um mistério a intrusão do Cotrim neste negócio, não menos que a sua agressão pessoal. Nossas relações até então tinham sido lhanas e benévolas; não me lembrava nenhum dissentimento, nenhuma sombra, nada, depois da reconciliação. Ao contrário, as recordações eram de verdadeiros obséquios; assim, por exemplo, sendo eu deputado, pude obter-lhe uns fornecimentos para o Arsenal de Marinha, fornecimentos que ele continuava a fazer com a maior pontualidade, e dos quais me dizia, algumas semanas antes, que no fim de mais três anos, podiam dar-lhe uns duzentos contos. Pois a lembrança de tamanho obséquio não teve força para obstar que ele viesse a público enxovalhar o cunhado? Devia ser mui poderoso o motivo da declaração, que o fazia cometer ao mesmo tempo um destempero e uma ingratidão; confesso que era um problema insolúvel...
 
-### CXLIX. Teoria do benefício
+### 149 — Teoria do Benefício
 
 ... Tão insolúvel que o Quincas Borba não pôde dar com ele, apesar de estudá-lo longamente e com boa vontade.
 
@@ -2817,11 +2563,9 @@ Quanto à censura de ingratidão, Quincas Borba rejeitou-a inteiramente, não co
 
 — Mas - repliquei eu -, se nenhuma razão há para que perdure a memória do obséquio no obsequiado, menos há de haver em relação ao obsequiador. Quisera que me explicasses este ponto.
 
-— Não se explica o que é de sua natureza evidente - retorquiu o Quincas Borba -; mas eu direi alguma cousa mais. A persistência do benefício na memória de quem o exerce explica-se pela natureza mesma do benefício e seus efeitos. Primeiramente, há o sentimento de uma boa ação, e dedutivamente a consciência de que somos capazes de boas ações; em segundo lugar, recebe-se uma convicção de superioridade sobre outra criatura, superioridade no estado e nos meios; e esta é uma das cousas mais legitimamente agradáveis, segundo as melhores opiniões, ao organismo humano. Erasmo, que no seu Elogio da sandice escreveu algumas cousas boas, chamou a atenção para a complacência com que dous burros se coçam um ao outro. * Estou longe de rejeitar essa observação de Erasmo; mas direi o que ele não disse, a saber, que, se um dos burros coçar melhor o outro, esse há de ter nos olhos algum indício especial de satisfação. Por que é que uma mulher bonita olha muitas vezes para o espelho, senão porque se acha bonita, e porque isso lhe dá certa superioridade sobre uma multidão de outras mulheres menos bonitas ou absolutamente feias? A consciência é a mesma cousa; remira-se a miúdo, quando se acha bela. Nem o remorso é outra cousa mais do que o trejeito de uma consciência que se vê hedionda. Não esqueças que, sendo tudo uma simples irradiação de Humanitas, o benefício e seus efeitos, são fenômenos perfeitamente admiráveis.
+— Não se explica o que é de sua natureza evidente - retorquiu o Quincas Borba -; mas eu direi alguma cousa mais. A persistência do benefício na memória de quem o exerce explica-se pela natureza mesma do benefício e seus efeitos. Primeiramente, há o sentimento de uma boa ação, e dedutivamente a consciência de que somos capazes de boas ações; em segundo lugar, recebe-se uma convicção de superioridade sobre outra criatura, superioridade no estado e nos meios; e esta é uma das cousas mais legitimamente agradáveis, segundo as melhores opiniões, ao organismo humano. Erasmo, que no seu Elogio da sandice escreveu algumas cousas boas, chamou a atenção para a complacência com que dous burros se coçam um ao outro. Estou longe de rejeitar essa observação de Erasmo; mas direi o que ele não disse, a saber, que, se um dos burros coçar melhor o outro, esse há de ter nos olhos algum indício especial de satisfação. Por que é que uma mulher bonita olha muitas vezes para o espelho, senão porque se acha bonita, e porque isso lhe dá certa superioridade sobre uma multidão de outras mulheres menos bonitas ou absolutamente feias? A consciência é a mesma cousa; remira-se a miúdo, quando se acha bela. Nem o remorso é outra cousa mais do que o trejeito de uma consciência que se vê hedionda. Não esqueças que, sendo tudo uma simples irradiação de Humanitas, o benefício e seus efeitos, são fenômenos perfeitamente admiráveis.
 
-* Referência à seguinte passagem do Elogio da loucura: "Quem já viu ação mais delicada e mais grata que a praticada por dois bons e honestos burros que se coçam mutuamente? É a esse mútuo auxílio que se dirige em grande parte a eloquência, muito a medicina e ainda mais a poesia. Devo acrescentar que essa adulação é o mel, o condimento de toda a sociedade humana" (São Paulo: Abril Cultural, 1972. Trad. de Paulo M. Oliveira).
-
-### CL. Rotação e translação
+### 150 — Rotação e Translação
 
 Há em cada empresa, afeição ou idade um ciclo inteiro da vida humana. O primeiro número do meu jornal encheu-me a alma de uma vasta aurora, coroou-me de verduras, restituiu-me a lepidez da mocidade. Seis meses depois batia a hora da velhice, e daí a duas semanas, a da morte, que foi clandestina, como a de D. Plácida. No dia em que o jornal amanheceu morto, respirei como um homem que vem de longo caminho. De modo que, se eu disser que a vida humana nutre de si mesma outras vidas, mais ou menos efêmeras, como o corpo alimenta os seus parasitas, creio não dizer uma cousa inteiramente absurda. Mas, para não arriscar essa figura menos nítida e adequada, prefiro uma imagem astronômica: o homem executa à roda do grande mistério um movimento duplo de rotação e translação; tem os seus dias, desiguais como os de Júpiter, e deles compõe o seu ano mais ou menos longo.
 
@@ -2829,21 +2573,19 @@ No momento em que eu terminava o meu movimento de rotação, concluía Lobo Neve
 
 Fui ao enterro. Na sala mortuária achei Virgília, ao pé do féretro, a soluçar. Quando levantou a cabeça, vi que chorava deveras. Ao sair o enterro, abraçou-se ao caixão, aflita; vieram tirá-la e levá-la para dentro. Digo-vos que as lágrimas eram verdadeiras. Eu fui ao cemitério; e, para dizer tudo, não tinha muita vontade de falar; levava uma pedra na garganta ou na consciência. No cemitério, principalmente quando deixei cair a pá de cal sobre o caixão, no fundo da cova, o baque surdo da cal deu-me um estremecimento passageiro, é certo, mas desagradável; e depois a tarde tinha o peso e a cor do chumbo; o cemitério, as roupas pretas...
 
-## Capítulos 151 a 160
+## Capítulos 151 — 160
 
-### CLI. Filosofia dos epitáfios
+### 151 — Filosofia dos Epitáfios
 
 Saí, afastando-me dos grupos, e fingindo ler os epitáfios. E, aliás, gosto dos epitáfios; eles são, entre a gente civilizada, uma expressão daquele pio e secreto egoísmo que induz o homem a arrancar à morte um farrapo ao menos da sombra que passou. Daí vem, talvez, a tristeza inconsolável dos que sabem os seus mortos na vala comum; parece-lhes que a podridão anônima os alcança a eles mesmos.
 
-### CLII. A moeda de Vespasiano
+### 152 — A Moeda de Vespasiano
 
-Tinham ido todos; só o meu carro esperava pelo dono. Acendi um charuto; afastei-me do cemitério. Não podia sacudir dos olhos a cerimônia do enterro, nem dos ouvidos, os soluços de Virgília. Os soluços, principalmente, tinham o som vago e misterioso de um problema. Virgília traíra o marido, com sinceridade, e agora chorava-o com sinceridade. Eis uma combinação difícil que não pude fazer em todo o trajeto; em casa, porém, apeando-me do carro, suspeitei que a combinação era possível, e até fácil. Meiga Natura! A taxa da dor é como a moeda de Vespasiano; * não cheira à origem, e tanto se colhe do mal como do bem. A moral repreenderá, porventura, a minha cúmplice; é o que te não importa, implacável amiga, uma vez que lhe recebeste pontualmente as lágrimas. Meiga, três vezes meiga Natura!
+Tinham ido todos; só o meu carro esperava pelo dono. Acendi um charuto; afastei-me do cemitério. Não podia sacudir dos olhos a cerimônia do enterro, nem dos ouvidos, os soluços de Virgília. Os soluços, principalmente, tinham o som vago e misterioso de um problema. Virgília traíra o marido, com sinceridade, e agora chorava-o com sinceridade. Eis uma combinação difícil que não pude fazer em todo o trajeto; em casa, porém, apeando-me do carro, suspeitei que a combinação era possível, e até fácil. Meiga Natura! A taxa da dor é como a moeda de Vespasiano; não cheira à origem, e tanto se colhe do mal como do bem. A moral repreenderá, porventura, a minha cúmplice; é o que te não importa, implacável amiga, uma vez que lhe recebeste pontualmente as lágrimas. Meiga, três vezes meiga Natura!
 
-* Vespasiano ( 9 - 79 d.C.) foi imperador romano de 69 d.C. até a morte. Embora não cite Suetônio ( Os doze césares, "Vespasiano", 23, 3 ), Machado provavelmente colhe nessa obra a anedota sobre a origem do dinheiro não lhe determinar o cheiro.
+### 153 — O Alienista
 
-### CLIII. O alienista
-
-Começo a ficar patético e prefiro dormir. Dormi, sonhei que era nababo, e acordei com a ideia de ser nababo. Eu gostava, às vezes, de imaginar esses contrastes de região, estado e credo. Alguns dias antes tinha pensado na hipótese de uma revolução social, religiosa e política, que transferisse o arcebispo de Cantuária * a simples coletor de Petrópolis, e fiz longos cálculos para saber se o coletor eliminaria o arcebispo, ou se o arcebispo rejeitaria o coletor, ou que porção de arcebispo pode jazer num coletor, ou que soma de coletor pode combinar com um arcebispo, etc. Questões insolúveis, aparentemente, mas na realidade perfeitamente solúveis, desde que se atenda que pode haver num arcebispo dous arcebispos - o da bula e o outro. Está dito, vou ser nababo.
+Começo a ficar patético e prefiro dormir. Dormi, sonhei que era nababo, e acordei com a ideia de ser nababo. Eu gostava, às vezes, de imaginar esses contrastes de região, estado e credo. Alguns dias antes tinha pensado na hipótese de uma revolução social, religiosa e política, que transferisse o arcebispo de Cantuária a simples coletor de Petrópolis, e fiz longos cálculos para saber se o coletor eliminaria o arcebispo, ou se o arcebispo rejeitaria o coletor, ou que porção de arcebispo pode jazer num coletor, ou que soma de coletor pode combinar com um arcebispo, etc. Questões insolúveis, aparentemente, mas na realidade perfeitamente solúveis, desde que se atenda que pode haver num arcebispo dous arcebispos - o da bula e o outro. Está dito, vou ser nababo.
 
 Era um simples gracejo; disse-o, todavia, ao Quincas Borba, que olhou para mim com certa cautela e pena, levando a sua bondade a comunicar-me que eu estava doudo. Ri-me a princípio; mas a nobre convicção do filósofo incutiu-me certo medo. A única objeção contra a palavra do Quincas Borba é que não me sentia doudo, mas não tendo geralmente os doudos outro conceito de si mesmos, tal objeção ficava sem valor. E vede se há algum fundamento na crença popular de que os filósofos são homens alheios às cousas mínimas. No dia seguinte, mandou-me o Quincas Borba um alienista. Conhecia-o, fiquei aterrado. Ele, porém houve-se com a maior delicadeza e habilidade, despedindo-se tão alegremente que me animou a perguntar-lhe se deveras me não achava doudo.
 
@@ -2859,11 +2601,9 @@ Era um simples gracejo; disse-o, todavia, ao Quincas Borba, que olhou para mim c
 
 Imaginem a minha aflição. O alienista, vendo o efeito de suas palavras, reconheceu que eu era amigo do Quincas Borba, e tratou de diminuir a gravidade da advertência. Observou que podia não ser nada, e acrescentou até que um grãozinho de sandice, longe de fazer mal, dava certo pico à vida. Como eu rejeitasse com horror esta opinião, o alienista sorriu e disse-me uma cousa tão extraordinária, tão extraordinária, que não merece menos de um capítulo.
 
-* O arcebispo de Cantuária é a mais alta dignidade eclesiástica da Igreja anglicana.
+### 154 — Os Navios do Pireu
 
-### CLIV. Os navios do Pireu
-
-— Há de lembrar-se - disse-me o alienista - daquele famoso maníaco ateniense, que supunha que todos os navios entrados no Pireu eram de sua propriedade. * Não passava de um pobretão, que talvez não tivesse, para dormir, a cuba de Diógenes; ** mas a posse imaginária dos navios valia por todas as dracmas da Hélade. Ora bem, há em todos nós um maníaco de Atenas; e quem jurar que não possuiu alguma vez, mentalmente, dous ou três patachos, pelo menos, pode crer que jura falso.
+— Há de lembrar-se - disse-me o alienista - daquele famoso maníaco ateniense, que supunha que todos os navios entrados no Pireu eram de sua propriedade. Não passava de um pobretão, que talvez não tivesse, para dormir, a cuba de Diógenes; mas a posse imaginária dos navios valia por todas as dracmas da Hélade. Ora bem, há em todos nós um maníaco de Atenas; e quem jurar que não possuiu alguma vez, mentalmente, dous ou três patachos, pelo menos, pode crer que jura falso.
 
 — Também o senhor? - perguntei-lhe.
 
@@ -2877,15 +2617,11 @@ De fato, era um dos meus criados que batia os tapetes, enquanto nós falávamos 
 
 — Este seu criado tem a mania do ateniense: crê que os navios são dele; uma hora de ilusão que lhe dá a maior felicidade da terra.
 
-* A anedota do maníaco ateniense figura em diversos textos, sendo o mais antigo deles O navio ou os votos, de Luciano de Samósata (século II d.C.); Cláudio Eliano (século III d.C.) relata a mesma história em Várias histórias (livro IV, anedota 25 ); Camões ( c. 1524 - 80 ) também se dedica ao tema nas "Oitavas ao desconcerto do mundo"; e Xavier de Maistre ( 1763 - 1852 ), em Viagem à roda do meu quarto, menciona a personagem, a quem se refere como "um certo ateniense".
-
-** Filósofo grego de Sínope, na atual Turquia, Diógenes viveu nos séculos V e IV a.C. Andava descalço, dormia debaixo dos pórticos, embrulhado na sua única e rota capa e tinha por domicílio habitual um tonel (ou cuba).
-
-### CLV. Reflexão cordial
+### 155 — Reflexão Cordial
 
 "Se o alienista tem razão", disse eu comigo, "não haverá muito que lastimar o Quincas Borba; é uma questão de mais ou de menos. Contudo, é justo cuidar dele, e evitar que lhe entrem no cérebro maníacos de outras paragens."
 
-### CLVI. Orgulho da servilidade
+### 156 — Orgulho da Servilidade
 
 Quincas Borba divergiu do alienista em relação ao meu criado.
 
@@ -2893,13 +2629,13 @@ Quincas Borba divergiu do alienista em relação ao meu criado.
 
 Depois chamou a minha atenção para os cocheiros de casa-grande, mais empertigados que o amo, para os criados de hotel, cuja solicitude obedece às variações sociais da freguesia, etc. E concluiu que era tudo a expressão daquele sentimento delicado e nobre - prova cabal de que muitas vezes o homem, ainda a engraxar botas, é sublime.
 
-### CLVII. Fase brilhante
+### 157 — Fase Brilhante
 
 — Sublime és tu - bradei eu, lançando-lhe os braços ao pescoço.
 
 Com efeito, era impossível crer que um homem tão profundo chegasse à demência; foi o que lhe disse após o meu abraço, denunciando-lhe a suspeita do alienista. Não posso descrever a impressão que lhe fez a denúncia; lembra-me que ele estremeceu e ficou muito pálido.
 
-Foi por esse tempo que eu me reconciliei outra vez com o Cotrim, sem chegar a saber a causa do dissentimento. Reconciliação oportuna, porque a solidão pesava-me, e a vida era para mim a pior das fadigas, que é a fadiga sem trabalho. Pouco depois fui convidado por ele a filiar-me numa Ordem Terceira; * o que eu não fiz sem consultar o Quincas Borba:
+Foi por esse tempo que eu me reconciliei outra vez com o Cotrim, sem chegar a saber a causa do dissentimento. Reconciliação oportuna, porque a solidão pesava-me, e a vida era para mim a pior das fadigas, que é a fadiga sem trabalho. Pouco depois fui convidado por ele a filiar-me numa Ordem Terceira; o que eu não fiz sem consultar o Quincas Borba:
 
 — Vai, se queres - disse-me este -, mas temporariamente. Eu trato de anexar à minha filosofia uma parte dogmática e litúrgica. O Humanitismo há de ser também uma religião, a do futuro, a única verdadeira. O cristianismo é bom para as mulheres e os mendigos, e as outras religiões não valem mais do que essa: orçam todas pela mesma vulgaridade ou fraqueza. O paraíso cristão é um digno êmulo do paraíso muçulmano; e quanto ao nirvana de Buda, não passa de uma concepção de paralíticos. Verás o que é a religião humanística. A absorção final, a fase contrativa, é a reconstituição da substância, não o seu aniquilamento, etc. Vai aonde te chamam; não esqueças, porém, que és o meu califa.
 
@@ -2907,15 +2643,13 @@ E vede agora a minha modéstia; filiei-me na Ordem Terceira de ***, exerci ali a
 
 Talvez a economia social pudesse ganhar alguma cousa, se eu mostrasse como todo e qualquer prêmio estranho vale pouco ao lado do prêmio subjetivo e imediato; mas seria romper o silêncio que jurei guardar neste ponto. Demais, os fenômenos da consciência são de difícil análise; por outro lado, se contasse um, teria de contar todos os que a ele se prendessem, e acabava fazendo um capítulo de psicologia. Afirmo somente que foi a fase mais brilhante da minha vida. Os quadros eram tristes; tinham a monotonia da desgraça, que é tão aborrecida como a do gozo, e talvez pior. Mas a alegria que se dá à alma dos doentes e dos pobres é recompensa de algum valor; e não me digam que é negativa, por só recebê-la o obsequiado. Não; eu recebia-a de um modo reflexo, e ainda assim grande, tão grande que me dava excelente ideia de mim mesmo.
 
-* As ordens terceiras são associações de leigos católicos, ligadas às tradicionais ordens religiosas, como os franciscanos, carmelitas e dominicanos.
-
-### CLVIII. Dous encontros
+### 158 — Dous Encontros
 
 No fim de alguns anos, três ou quatro, estava enfarado do ofício, e deixei-o, não sem um donativo importante, que me deu direito ao retrato na sacristia. Não acabarei, porém, o capítulo sem dizer que vi morrer no hospital da Ordem, adivinhem quem?... A linda Marcela; e vi-a morrer no mesmo dia em que, visitando um cortiço, para distribuir esmolas, achei... Agora é que não são capazes de adivinhar... achei a flor da moita, Eugênia, a filha de D. Eusébia e do Vilaça, tão coxa como a deixara, e ainda mais triste.
 
 Esta, ao reconhecer-me, ficou pálida, e baixou os olhos; mas foi obra de um instante. Ergueu logo a cabeça, e fitou-me com muita dignidade. Compreendi que não receberia esmolas da minha algibeira, e estendi-lhe a mão, como faria à esposa de um capitalista. Cortejou-me e fechou-se no cubículo. Nunca mais a vi; não soube nada da vida dela, nem se a mãe era morta, nem que desastre a trouxera a tamanha miséria. Sei que continuava coxa e triste. Foi com esta impressão profunda que cheguei ao hospital, onde Marcela entrara na véspera, e onde a vi expirar meia hora depois, feia, magra, decrépita...
 
-### CLIX. A semidemência
+### 159 — A Semidemência
 
 Compreendi que estava velho, e precisava de uma força; mas o Quincas Borba partira seis meses antes para Minas Gerais, e levou consigo a melhor das filosofias. Voltou quatro meses depois, e entrou-me em casa, certa manhã, quase no estado em que eu o vira no Passeio Público. A diferença é que o olhar era outro. Vinha demente. Contou-me que, para o fim de aperfeiçoar o Humanitismo, queimara o manuscrito todo e ia recomeçá-lo. A parte dogmática ficava completa, embora não escrita; era a verdadeira religião do futuro.
 
@@ -2927,7 +2661,7 @@ A voz mal podia sair-me do peito; e aliás não tinha descoberto toda a cruel ve
 
 Morreu pouco tempo depois, em minha casa, jurando e repetindo sempre que a dor era uma ilusão, e que Pangloss, o caluniado Pangloss, não era tão tolo como o supôs Voltaire.
 
-### CLX. Das negativas
+### 160 — Das Negativas
 
 Entre a morte do Quincas Borba e a minha, mediaram os sucessos narrados na primeira parte do livro. O principal deles foi a invenção do emplasto Brás Cubas, que morreu comigo, por causa da moléstia que apanhei. Divino emplasto, tu me darias o primeiro lugar entre os homens, acima da ciência e da riqueza, porque eras a genuína e direta inspiração do céu. O acaso determinou o contrário; e aí vos ficais eternamente hipocondríacos.
 

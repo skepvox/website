@@ -5,7 +5,7 @@ outline: [2, 3]
 
 # Vidas Secas
 
-## Mudança
+## Capítulo 1 — Mudança
 
 Na planície avermelhada os juazeiros alargavam duas manchas verdes. Os infelizes tinham caminhado o dia inteiro, estavam cansados e famintos. Ordinariamente andavam pouco, mas como haviam repousado bastante na areia do rio seco, a viagem progredira bem três léguas. Fazia horas que procuravam uma sombra. A folhagem dos juazeiros apareceu longe, através dos galhos pelados da catinga rala.
 
@@ -83,7 +83,7 @@ Uma ressurreição. As cores da saúde voltariam à cara triste de Sinha Vitóri
 
 Baleia agitava o rabo, olhando as brasas. E como não podia ocupar-se daquelas coisas, esperava com paciência a hora de mastigar os ossos. Depois iria dormir.
 
-## Fabiano
+## Capítulo 2 — Fabiano
 
 Fabiano curou no rasto a bicheira da novilha raposa. Levava no aió um frasco de creolina, e se houvesse achado o animal, teria feito o curativo ordinário. Não o encontrou, mas supôs distinguir as pisadas dele na areia, baixou-se, cruzou dois gravetos no chão e rezou. Se o bicho não estivesse morto, voltaria para o curral, que a oração era forte.
 
@@ -181,7 +181,7 @@ Alcançou o pátio, enxergou a casa baixa e escura, de telhas pretas, deixou atr
 
 Aquela hora Sinha Vitória devia estar na cozinha, acocorada junto à trempe, a saia de ramagens entalada entre as coxas, preparando a janta. Fabiano sentiu vontade de comer. Depois da comida, falaria com Sinha Vitória a respeito da educação dos meninos.
 
-## Cadeia
+## Capítulo 3 — Cadeia
 
 Fabiano tinha ido à feira da cidade comprar mantimentos. Precisava sal, farinha, feijão e rapaduras. Sinha Vitória pedira além disso uma garrafa de querosene e um corte de chita vermelha. Mas o querosene de Seu Inácio estava misturado com água, e a chita da amostra era cara demais.
 
@@ -259,7 +259,7 @@ Não podia dizer em voz alta que era infeliz e fraco. Sinha Vitória é que dizi
 
 Baleia encostou o focinho às pernas dele, lambeu-as. Fabiano afagou-a e animou-se. Levantou a cabeça, acomodou-se na cangalha, os joelhos dobrados, as pernas esticadas ao longo das tábuas. Ia resistir. Mas o que se passava com ele era singular. Não podia contar a Sinha Vitória as coisas que lhe haviam acontecido. Nem a si mesmo podia contar direito aquilo. Sentia raiva, vexame, espanto. Estava preso à véspera porque tinha sido preso. Um absurdo.
 
-## Sinha Vitoria
+## Capítulo 4 — Sinha Vitoria
 
 Acocorada junto às pedras que serviam de trempe, a saia de ramagens entalada entre as coxas, Sinha Vitória soprava o fogo. Uma nuvem de cinza voou dos tições e cobriu-lhe a cara, a fumaça inundou-lhe os olhos, o rosário de contas brancas e azuis desprendeu-se do cabeção e bateu na panela. Sinha Vitória limpou as lágrimas com as costas das mãos, encarquilhou as pálpebras, meteu o rosário no seio e continuou a soprar com vontade, enchendo muito as bochechas.
 
@@ -293,7 +293,7 @@ Era uma sorte haver ainda algumas galinhas. As cabras estavam lá fora, pastando
 
 A panela chiava. Sinha Vitória remexeu-a com a quenga. Apanhou um tição, acendeu o cachimbo de barro, pôs-se a chupar o canudo cheio de sarro. Seu desejo realizava-se. E ela caía na modorra do fim do dia, um torpor que os chocalhos das cabras embalavam. Ia tudo bem. Se a seca não chegasse.
 
-## O menino mais novo
+## Capítulo 5 — O menino mais novo
 
 O menino mais novo tinha tido um sonho ruim. Estava no chiqueiro, com o irmão e a cachorra Baleia, as cabras e os cabritos. Baleia latia, mordia-lhe as pernas, depois se levantava nas coxas dele e queria arrancar-lhe os olhos.
 
@@ -341,7 +341,7 @@ O grito despertou Sinha Vitória, que se ergueu, zonza, entrou no copiar e apare
 
 O menino não respondeu. Estava furioso, queria ser grande, como os adultos. Encolheu-se, fechou-se, perdeu-se numa perturbação. Sinha Vitória puxou-o para casa, deitou-o no cocho de sal e foi mexer nas panelas.
 
-## Inverno
+## Capítulo 6 — Inverno
 
 A caatinga ressuscitara, em parte. As folhas caíam, cobriam a terra de tapetes vermelhos, depois murchavam, tornavam-se pardas e sumiam. Novas folhas nasciam, pequeninas, débeis, enroladas, e abriam-se, duras, resistentes. Por baixo delas os gravetos secos alastravam-se, pretos, reduzidos, sem serventia.
 
@@ -375,7 +375,7 @@ E o chocalho dos badalos de ossos? Esperava com certeza que as fontes borbulhass
 
 Afastou esses pensamentos. Dali a pouco chegaria à beira do rio. Desejaria subir a ladeira e encontrar na cozinha Sinha Vitória acocorada junto à trempe, soprado o fogo. Os meninos estariam no barreiro, brincando com Baleia. A cachorra corria, farejando pegadas. Infelizmente Fabiano tinha obrigações. Apertava-lhe o coração deixar a casa vazia. Mas ele era vaqueiro, sinha Vitória costureira, e aquilo não tinha remédio.
 
-## Festa
+## Capítulo 7 — Festa
 
 Sinha Vitória meteu-se na cama de varas. Fazia mais de um ano que falava nisso ao marido. Fabiano a princípio concordara com ela, mastigando cálculos, torcendo os beiços. Trinta e cinco mil-réis. Não era caro, mas onde encontrar trinta e cinco mil-réis? Foram ao Seu Inácio, negociaram peles, e Sinha Vitória realizou um sonho que alimentava desde a infância.
 
@@ -409,7 +409,7 @@ Deixou o adro, inquieta, mal-humorada. Meteu-se por uma rua estreita, depois por
 
 Saíram da rua, botaram-se numa estrada quase deserta, e Sinha Vitória achou-se melhor. Ao longe, na beira do rio, subiram uma ladeira. Realmente tinham passado um dia nulo. Nada tinham conseguido. A festa, o passeio, tudo tinha sido inútil. Avistaram a fazenda. Os chocalhos das cabras tilintavam. Baleia corria no pátio. Fabiano estava atrasado. Sinha Vitória avançou, pisando com firmeza no chão. Que festa miserável!
 
-## Baleia
+## Capítulo 8 — Baleia
 
 A cachorra Baleia estava para morrer. Tinha emagrecido, o pêlo caíra-lhe em vários pontos, as costelas avultavam num fundo róseo, onde manchas escuras supuravam e sangravam, cobertas de moscas. As chagas da boca e a inchação dos beiços dificultavam-lhe a comida e a bebida.
 
@@ -451,7 +451,7 @@ Provavelmente Fabiano pensava que ela estava com raiva dele. Não estava. Fabian
 
 Baleia queria dormir. Acordaria feliz, num mundo cheio de preás. E lamberia as mãos de Fabiano, um Fabiano enorme. As crianças se espojariam com ela, rolariam com ela num pátio enorme, num chiqueiro enorme. O mundo ficaria todo cheio de preás, gordos, enormes.
 
-## Contas
+## Capítulo 9 — Contas
 
 Fabiano recebia na partilha a quarta parte dos bezerros e a terça dos cabritos. Mas como não tinha roça e apenas se limitava a semear na vazante uns punhados de feijão e milho, comia da feira, desfazia-se dos animais, não chegava a ferrar um bezerro ou assinar a orelha de um cabrito.
 
@@ -481,7 +481,7 @@ Fabiano achou a palavra horrorosa. Pior que trovão, pior que o rumor dos matuto
 
 Saiu da bodega, montou o cavalo de fábrica e partiu, na vertical do meio-dia, pensando na infeliz, nos filhos, nos amigos de Seu Tomás. Procurava avaliar a desgraça que o atingia e via-se perdido numa multiplicação confusa. Aquilo era língua de gente da cidade. Mas ele era bruto. Não sabia ler, escrever, não sabia fazer contas. Tinha trabalhado muito e recebido menos do que lhe pertencia. Era injusto, mas as leis deviam ser assim. Para se defender precisava ler e escrever. Estava preso. Por que estava preso? Achava-se na situação de um cachorro sem dono. Depois pensava na partida e no futuro incerto. Talvez fosse melhor.
 
-## O soldado amarelo
+## Capítulo 10 — O soldado amarelo
 
 Fabiano ia satisfeito. Sim senhor, dias de chuva eram bons para o gado. O capim estava brotando e havia comida por toda a parte. As cabras e os cabritos, os carneiros e as ovelhas se multiplicavam, o chiqueiro e o curral não os comportavam. Ele, Fabiano, produzia e ninguém lhe dava valor. Tinha feito milagres, só conhecidos na catinga, que o rodeava.
 
@@ -525,7 +525,7 @@ O ódio que Fabiano sentia pelo soldado diminuiu. Se não fosse a família... Be
 
 Esfregou as mãos satisfeito. Não matara o soldado amarelo. Estava bem, matá-lo? Não estava. Por que haveria de estar?
 
-## O mundo
+## Capítulo 11 — O mundo
 
 O menino mais velho ia tagarelando. Não obtinha resposta e não se incomodava. De quando em quando fazia uma pergunta, esperava a explicação que não vinha e caía num assombro que durava pouco, porque vinha outra pergunta.
 
@@ -547,7 +547,7 @@ Estirou o beiço, avançou uns passos no escuro. Mas sentiu frio, e foi-se arrep
 
 Chamou a mulher, em vão. Uma coruja piou. Estava perto. Onde estaria a coruja? Esticou o pescoço, pôs as mãos em concha junto às orelhas, para distinguir melhor a direção do ruído. Esquerda. Direita. Atrás. Não sabia onde estava a coruja. Ninguém saberia dizer onde estava a coruja. Bem. Não havia pensamento nenhum na cabeça dele. Olhou o céu, procurando constelações. Não as encontrou. O mundo estava disposto de maneira que ele não podia saber onde estava a coruja nem onde estava Sinha Vitória. Afligiu-se. Chamou de novo. Nada. O pio da coruja, que enchia o mundo de mistério, vinha da esquerda, da direita, de trás, de todos os lados. Desgraça. Estava perdido.
 
-## Pia
+## Capítulo 12 — Pia
 
 Sinha Vitória tinha amanhecido nos seus azeites. Fora de propósito, dissera ao marido umas inconveniências a respeito da cama de varas. Fabiano, que não esperava semelhante desatino, apenas grunhira: — "Hum! hum!" E, recolhendo o chapéu de couro à arca da roupa, saíra para amansar um cavalo novo, pensando na mulher, que era um bicho esquisito, mulher de lua.
 
@@ -591,7 +591,7 @@ Não havia dúvida: as pessoas da cidade sabiam muitas coisas, serviam-se de obj
 
 Foi buscar um pote vazio, trouxe-o do bebedouro e colocou-o num canto da cozinha. Ficou a contemplá-lo. A vasilha de barro ali acocorada era uma pia, não tinha dúvida.
 
-## Fuga
+## Capítulo 13 — Fuga
 
 A caatinga estendia-se, de um vermelho indeciso salpicado de manchas brancas que eram ossadas. O vôo negro dos urubus fazia círculos altos em redor de bichos moribundos.
 

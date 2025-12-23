@@ -111,7 +111,7 @@ Camilo tirou uma nota de dez mil-réis, e deu-lha. Os olhos da cartomante fuzila
 
 — Vejo bem que o senhor gosta muito dela... E faz bem; ela gosta muito do senhor. Vá, vá, tranquilo. Olhe a escada, é escura; ponha o chapéu...
 
-A cartomante tinha j á guardado a nota na algibeira, e descia com ele, falando, com um leve sotaque. Camilo despediu-se dela embaixo, e desceu a escada que levava à rua, enquanto a cartomante, alegre com a paga, tornava acima, cantarolando uma barcarola. Camilo achou o tílburi esperando; a rua estava livre. Entrou e seguiu a trote largo.
+A cartomante tinha já guardado a nota na algibeira, e descia com ele, falando, com um leve sotaque. Camilo despediu-se dela embaixo, e desceu a escada que levava à rua, enquanto a cartomante, alegre com a paga, tornava acima, cantarolando uma barcarola. Camilo achou o tílburi esperando; a rua estava livre. Entrou e seguiu a trote largo.
 
 Tudo lhe parecia agora melhor, as outras cousas traziam outro aspecto, o céu estava límpido e as caras joviais. Chegou a rir dos seus receios, que chamou pueris; recordou os termos da carta de Vilela e reconheceu que eram íntimos e familiares. Onde é que ele lhe descobrira a ameaça? Advertiu também que eram urgentes, e que fizera mal em demorar-se tanto; podia ser algum negócio grave e gravíssimo.
 

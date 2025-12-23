@@ -5,9 +5,9 @@ outline: 2
 
 # Dom Casmurro
 
-## Capítulos 1 a 10
+## Capítulos 001 — 010
 
-### 1. DO TÍTULO
+### 001 — Do Título
 
 Uma noite destas, vindo da cidade para o Engenho Novo, encontrei num trem da Central um rapaz aqui do bairro, que eu conheço de vista e de chapéu. Cumprimentou-me, sentou-se ao pé de mim, falou da lua e dos ministros, e acabou recitando-me versos. A viagem era curta, e os versos pode ser que não fossem inteiramente maus. Sucedeu, porém, que, como eu estava cansado, fechei os olhos três ou quatro vezes; tanto bastou para que ele interrompesse a leitura e metesse os versos no bolso.
 
@@ -21,7 +21,7 @@ Vi-lhe fazer um gesto para tirá-los outra vez do bolso,mas não passou do gesto
 
 Não consultes dicionários. Casmurro não está aqui no sentido que eles lhe dão, mas no que lhe pôs o vulgo de homem calado e metido consigo. Dom veio por ironia, para atribuir-me fumos de fidalgo. Tudo por estar cochilando! Também não achei melhor título para a minha narração; se não tiver outro daqui até ao fim do livro, vai este mesmo. O meu poeta do trem ficará sabendo que não lhe guardo rancor. E com pequeno esforço, sendo o título seu, poderá cuidar que a obra é sua. Há livros que apenas terão isso dos seus autores; alguns nem tanto.
 
-### 2. DO LIVRO
+### 002 — Do Livro
 
 Agora que expliquei o título, passo a escrever o livro. Antes disso, porém, digamos os motivos que me põem a pena na mão.
 
@@ -35,7 +35,7 @@ Ora, como tudo cansa, esta monotonia acabou por exaurir-me também. Quis variar,
 
 Fiquei tão alegre com esta ideia, que ainda agora me treme a pena na mão. Sim, Nero, Augusto, Massinissa, e tu, grande César, que me incitas a fazer os meus comentários, agradeço-vos o conselho, e vou deitar ao papel as reminiscências que me vierem vindo. Deste modo, viverei o que vivi, e assentarei a mão para alguma obra de maior tomo. Eia, comecemos a evocação por uma célebre tarde de novembro, que nunca me esqueceu. Tive outras muitas, melhores, e piores, mas aquela nunca se me apagou do espírito. É o que vais entender, lendo.
 
-### 3. A DENÚNCIA
+### 003 — A Denúncia
 
 Ia entrar na sala de visitas, quando ouvi proferir o meu nome e escondi-me atrás da porta. A casa era a da Rua de Mata-cavalos, o mês novembro, o ano é que é um tanto remoto, mas eu não hei de trocar as datas à minha vida só para agradar às pessoas que não amam histórias velhas; o ano era de 1857.
 
@@ -83,11 +83,11 @@ Tio Cosme respondeu com um "Ora!" que, traduzido em vulgar, queria dizer: "São 
 
 Minha mãe assoou-se sem responder. Prima Justina creio que se levantou e foi ter com ela. Seguiu-se um alto silêncio, durante o qual estive a pique de entrar na sala, mas outra força maior, outra emoção... Não pude ouvir as palavras que tio Cosme entrou a dizer. Prima Justina exortava: "Prima Glória! Prima Glória!" José Dias desculpava-se: "Se soubesse, não teria falado, mas falei pela veneração, pela estima, pelo afeto, para cumprir um dever amargo, um dever amaríssimo... "
 
-### 4. UM DEVER AMARÍSSIMO!
+### 004 — Um Dever Amaríssimo!
 
 José Dias amava os superlativos. Era um modo de dar feição monumental às ideias; não as havendo, servia a prolongar as frases. Levantou-se para ir buscar o gamão, que estava no interior da casa. Cosi-me muito à parede, e vi-o passar com as suas calças brancas engomadas, presilhas, rodaque e gravata de mola. Foi dos últimos que usaram presilhas no Rio de Janeiro, e talvez neste mundo. Trazia as calças curtas para que lhe ficassem bem esticadas. A gravata de cetim preto, com um arco de aço por dentro, imobilizava-lhe o pescoço; era então moda. O rodaque de chita, veste caseira e leve, parecia nele uma casaca de cerimônia. Era magro, chupado, com um princípio de calva; teria os seus cinquenta e cinco anos. Levantou-se com o passo vagaroso do costume, não aquele vagar arrastado se era dos preguiçosos, mas um vagar calculado e deduzido, um silogismo completo, a premissa antes da consequência, a consequência antes da conclusão. Um dever amaríssimo!
 
-### 5. Oagregado
+### 005 — O Agregado
 
 Nem sempre ia naquele passo vagaroso e rígido. Também se descompunha em acionados, era muita vez rápido e lépido nos movimentos, tão natural nesta como naquela maneira. Outrossim, ria largo, se era preciso, de um grande riso sem vontade, mas comunicativo, a tal ponto ás bochechas, os dentes, os olhos, toda a cara, toda a pessoa, todo o mundo pareciam rir nele. Nos lances graves, gravíssimo.
 
@@ -117,7 +117,7 @@ Teve um pequeno legado no testamento, uma apólice e quatro palavras de louvor. 
 
 E minha mãe,que era religiosa, gostou de ver que ele punha Deus no devido lugar, e sorriu aprovando. José Dias agradeceu de cabeça. Minha mãe dava-lhe de quando em quando alguns cobres. Tio Cosme, que era advogado, confiava-lhe a cópia de papéis de autos.
 
-### 6. TIO COSME
+### 006 — Tio Cosme
 
 Tio Cosme vivia com minha mãe, desde que ela enviuvou. Já então era viúvo, como prima Justina; era a casa dos três viúvos.
 
@@ -139,7 +139,7 @@ Também não me esqueceu o que ele me fez uma tarde. Posto que nascido na roça 
 
 A verdade é que eu só vim a aprender equitação mais tarde, menos por gosto que por vergonha de dizer que não sabia montar. "Agora é que ele vai namorar deveras", disseram quando eu comecei as lições. Não se diria o mesmo de tio Cosme. Nele era velho costume e necessidade. Já não dava para namoros. Contam que, em rapaz, foi aceito de muitas damas, além de partidário exaltado; mas os anos levaram-lhe o mais do ardor político e sexual, e a gordura acabou com o resto de ideias públicas e específicas. Agora só cumpria as obrigações do ofício e sem amor. Nas horas de lazer vivia olhando ou jogava. Uma ou outra vez dizia pilhérias.
 
-### 7. D. GLÓRIA
+### 007 — D. Glória
 
 Minha Mãe era boa criatura. Quando lhe morreu o marido, Pedro de Albuquerque Santiago, contava trinta e um anos de idade, e podia voltar para Itaguaí. Não quis; preferiu ficar perto da igreja em que meu pai fora sepultado. Vendeu a fazendola e os escravos, comprou alguns que pôs ao ganho ou alugou, uma dúzia de prédios, certo número de apólices, e deixou-se estar na casa de Mata-cavalos, onde vivera os dous últimos anos de casada. Era filha de uma senhora mineira, descendente de outra paulista, a família Fernandes.
 
@@ -149,11 +149,11 @@ Tenho ali na parede o retrato dela, ao lado do do marido, tais quais na outra ca
 
 Concluo que não se devem abolir as loterias. Nenhum premiado as acusou ainda de imorais, como ninguém tachou de má a boceta de Pandora, por lhe ter ficado a esperança no fundo; em alguma parte há de ela ficar. Aqui os tenho aos dous bem casados de outrora, os bem-amados, os bem-aventurados, que se foram desta para a outra vida, continuar um sonho provavelmente. Quando a loteria e Pandora me aborrecem, ergo os olhos para eles, e esqueço os bilhetes brancos e a boceta fatídica. São retratos que valem por originais. O de minha mãe, estendendo a flor ao marido, parece dizer: "Sou toda sua, meu guapo cavalheiro!" O de meu pai, olhando para a gente, faz este comentário: "Vejam como esta moça me quer..." Se padeceram moléstias, não sei, como não sei se tiveram desgostos: era criança e comecei por não ser nascido. Depois da morte dele, lembra-me que ela chorou muito; mas aqui estão os retratos de ambos, sem que o encardido do tempo lhes tirasse a primeira expressão. São como fotografias instantâneas da felicidade.
 
-### 8. É TEMPO
+### 008 — É Tempo
 
 Mas é tempo de tornar àquela tarde de novembro, uma tarde clara e fresca, sossegada como a nossa casa e o trecho da rua em que morávamos. Verdadeiramente foi o princípio da minha vida; tudo o que sucedera antes foi como o pintar e vestir das pessoas que tinham de entrar em cena, o acender das luzes, o preparo das rabecas, a sinfonia... Agora é que eu ia começar a minha ópera. "A vida é uma ópera", dizia-me um velho tenor italiano que aqui viveu e morreu... E explicou-me um dia a definição, em tal maneira que me fez crer nela. Talvez valha a pena dá-la; é só um Capítulo.
 
-### 9. A ÓPERA
+### 009 — A Ópera
 
 Já não tinha voz, mas teimava em dizer que a tinha. "O desuso é que me faz mal", acrescentava. Sempre que uma companhia nova chegava da Europa, ia ao empresário e expunha-lhe todas as injustiças da terra e do céu; o empresário cometia mais uma, e ele saía a bradar contra a iniquidade. Trazia ainda os bigodes dos seus papéis. Quando andava, apesar de velho, parecia cortejar uma princesa de Babilônia. As vezes, cantarolava, sem abrir a boca, algum trecho ainda mais idoso que ele ou tanto - vozes assim abafadas são sempre possíveis. Vinha aqui jantar comigo algumas vezes. Uma noite, depois de muito Chianti, repetiu-me a definição do costume, e como eu lhe dissesse que a vida tanto podia ser uma ópera, como uma viagem de mar ou uma batalha, abanou a cabeça e replicou:
 
@@ -191,15 +191,15 @@ Os amigos do maestro querem que dificilmente se possa acha obra tão bem acabada
 
 — Graça? bradou ele com fúria; mas aquietou-se logo, e replicou: Caro Santiago, eu não tenho graça, eu tenho horror à graça. Isto que digo é a verdade pura e última. Um dia. quando todos os livros forem queimados por inúteis, há de haver algum, pode ser que tenor, e talvez italiano, que ensine esta verdade aos homens. Tudo é música, meu amigo. No princípio era o dó, e do dó fez-se ré, etc. Este cálix (e enchia-o novamente), este cálix é um breve estribilho. Não se ouve? Também não se ouve o pau nem a pedra, mas tudo cabe na mesma ópera...
 
-### 10. ACEITO Ateoria
+### 010 — Aceito a Teoria
 
 Que é demasiada metafísica para um só tenor,não há dúvida; mas a perda da voz explica tudo, e há filósofos que são, em resumo, tenores desempregados.
 
 Eu, leitor amigo, aceito a teoria do meu velho Marcolini, não só pela verossimilhança, que é muita vez toda a verdade, mas porque a minha vida se casa bem à definição. Cantei um duo tecnicismo, depois um trio, depois um quatro... Mas não adiantemos; vamos à primeira parte, em que eu vim a saber que já cantava, porque a denúncia de José Dias, meu caro leitor, foi dada principalmente a mim. A mim é que ele me denunciou.
 
-## Capítulos 11 a 20
+## Capítulos 011 — 020
 
-### 11. Apromessa
+### 011 — A Promessa
 
 Tão depressa vi desaparecer o agregado no corredor, deixei o esconderijo, e corri à varanda do fundo. Não quis saber de lágrimas nem da causa que as fazia verter a minha mãe. A causa eram provavelmente os seus projetos eclesiásticos, e a ocasião destes é a que vou dizer, por ser já então história velha; datava de dezesseis anos.
 
@@ -209,7 +209,7 @@ Prazos largos são fáceis de subscrever;a imaginação os faz infinitos. Minha 
 
 Ultimamente não me falavam já do seminário,a tal ponto que eu supunha ser negócio findo. Quinze anos, não havendo vocação, podiam antes o seminário do mundo que o de S. José. Minha mãe ficava muita vez a olhar para mim, como alma perdida, ou pegava-me na mão, a pretexto de nada, para apertá-la muito.
 
-### 12. NA VARANDA
+### 012 — Na Varanda
 
 Parei na varanda; ia tonto, atordoado, as pernas bambas, o coração parecendo querer sair-me pela boca fora. Não me atrevia a descer à chácara, e passar ao quintal vizinho. Comecei a andar de um lado para outro, estacando para amparar-me, e andava outra vez e estacava. Vozes confusas repetiam o discurso do José Dias:
 
@@ -235,7 +235,7 @@ Pois, francamente,só agora entendia a comoção que me davam essas e outras con
 
 Tudo isto me era agora apresentado pela boca de José Dias, que me denunciara a mim mesmo, e a quem eu perdoava tudo, o mal que dissera, o mal que fizera, e o que pudesse vir de um e de outro. Naquele instante, a eterna Verdade não valeria mais que ele, nem a eterna Bondade, nem as demais Virtudes eternas. Eu amava Capitu! Capitu amava-me! E as minhas pernas andavam, desandavam, estacavam, trêmulas e crentes de abarcar o mundo. Esse primeiro palpitar da seiva, essa revelação da consciência a si própria, nunca mais me esqueceu, nem achei que lhe fosse comparável qualquer outra sensação da mesma espécie. Naturalmente por ser minha. Naturalmente também por ser a primeira.
 
-### 13. CAPITU
+### 013 — Capitu
 
 De repente, ouvi bradar uma voz de dentro da casa ao pé:
 
@@ -285,7 +285,7 @@ Pensei em dizer-lhe que ia entrar para o seminário e espreitar a impressão que
 
 Nisto olhei para o muro, o lugar em que ela estivera riscando, escrevendo ou esburacando, como dissera a mãe. Vi uns riscos abertos e lembrou-me o gesto que ela fizera para cobri-los. Então quis vê-los de perto, e dei um passo. Capitu agarrou-me, mas, ou por temer que eu acabasse fugindo, ou por negar de outra maneira, correu adiante e apagou o escrito. Foi o mesmo que acender em mim o desejo de ler o que era.
 
-### 14. A INSCRIÇÃO
+### 014 — A Inscrição
 
 Tudo o que contei no fim do outro Capítulo foi obra de um instante. O que se lhe seguiu foi ainda mais rápido. Dei um pulo, e antes que ela raspasse o muro, li estes dous nomes, abertos ao prego, e sim dispostos:
 
@@ -297,7 +297,7 @@ Voltei-me para ela; Capitu tinha os olhos no chão. Ergueu-os logo, devagar, e f
 
 Não soltamos as mãos,nem elas se deixaram cair de cansadas ou de esquecidas. Os olhos fitavam-se e desfitavam-se, e depois de vagarem ao perto, tornavam a meter-se uns pelos outros... Padre futuro, estava assim diante dela como de um altar, sendo uma das faces a Epístola e a outra o Evangelho. A boca podia ser o cálix, os lábios a patena. Faltava dizer a missa nova, por um latim que ninguém aprende e é a língua católica dos homens. Não me tenhas por sacrilégio, leitora minha devota a limpeza da intenção lava o que puder haver menos curial no estilo. Estávamos ali com o céu em nossas mãos, unindo os nervos, faziam das duas criaturas uma só, mm uma só criatura seráfica. Os olhos continuaram a dizer cousas infinitas, as palavras de boca é que nem tentavam sair, tornavam ao coração caladas como vinham...
 
-### 15. OUTRA VOZ REPENTINA
+### 015 — Outra Voz Repentina
 
 Outra voz repentina, mas desta vez uma voz de homem:
 
@@ -333,7 +333,7 @@ E séria, fitou em mim os olhos, convidando-me ao jogo. O susto é naturalmente 
 
 Que o meu desejo era nenhum, crê-se facilmente, sem ser preciso jurar pelo céu nem pela terra. Meu desejo era ir atrás de Capitu e falar-lhe agora do mal que nos esperava; mas o pai era o pai, e demais amava particularmente os passarinhos. Tinha-os de vária espécie, cor e tamanho. A área que havia no centro da casa era cercada de gaiolas de canários, que faziam cantando um barulho de todos os diabos. Trocava pássaros com outros amadores, comprava-os, apanhava alguns, no próprio quintal, armando alçapões. Também, se adoeciam, tratava deles como se fossem gente.
 
-### 16. Oadministrador INTERINO
+### 016 — O Administrador Interino
 
 Pádua era empregado em repartição dependente do Ministério da Guerra. Não ganhava muito, mas a mulher gastava pouco, e a vida era barata. Demais, a casa em que morava, assobradada como a nossa, posto que menor, era propriedade dele. Comprou-a com a sorte grande que lhe saiu num meio bilhete de loteria, dez contos de réis. A primeira ideia do Pádua, quando lhe saiu o prêmio, foi comprar um cavalo do Cabo, um adereço de brilhantes para a mulher, uma sepultura perpétua de família, mandar vir da Europa alguns pássaros, etc.; mas a mulher, esta D. Fortunata que ali está à porta dos fundos da casa, em pé, falando à filha, alta, forte, cheia, como a tia, a mesma cabeça, os mesmos olhos claros, a mulher é que lhe disse que o melhor era comprar a casa, e guardar o que sobrasse para acudir às moléstias grandes. Pádua hesitou muito; afinal, teve de ceder aos conselhos de minha mãe, a quem D. Fortunata pediu auxílio. Nem foi só nessa ocasião que minha mãe lhes valeu; um dia chegou a salvar a vida ao Pádua. Escutai; a anedota é curta.
 
@@ -369,7 +369,7 @@ Ou ainda:
 
 Tal é o sabor póstumo das glórias interinas. José Dias bradava que era a vaidade sobrevivente; mas o Padre Cabral, que levava tudo para a Escritura, dizia que com o vizinho Pádua se dava a lição de Elifás a Jó: "Não desprezes a correção do Senhor; Ele fere e cura".
 
-### 17. OS VERMES "ELE FERE Ecura!"
+### 017 — Os Vermes "Ele Fere Ecura!"
 
 "ELE FERE Ecura!" Quando, mais tarde, vim a saber que a lança de Aquiles também curou uma ferida que fez, tive tais ou quais veleidades de escrever uma dissertação a este propósito. Cheguei a pegar em livros velhos, livros mortos, livros enterrados, a abri-los, a compará-los, catando o texto e o sentido, para achar a origem comum do oráculo pagão e do pensamento israelita. Catei os próprios vermes dos livros, para que me dissessem o que havia nos textos roídos por eles.
 
@@ -377,7 +377,7 @@ Tal é o sabor póstumo das glórias interinas. José Dias bradava que era a vai
 
 Não lhe arranquei mais nada. Os outros todos, como se houvessem passado palavra, repetiam a mesma cantilena. Talvez esse discreto silêncio sobre os textos roídos fosse ainda um modo de roer o roído.
 
-### 18. UM PLANO
+### 018 — Um Plano
 
 Pai nem mãe foram ter conosco, quando Capitu e eu, na sala de visitas, falávamos do seminário. Com os olhos em mim, Capitu queria saber que notícia era a que me afligia tanto. Quando lhe disse o que era, fez-se cor de cera.
 
@@ -465,13 +465,13 @@ Como vês, Capitu, aos quatorze anos, tinha já ideias atrevidas, muito menos qu
 
 Estremeci de prazer. S. Paulo era um frágil biombo, destinado a ser arredado um dia. em vez da grossa parede espiritual e eterna Prometi falar a José Dias nos termos propostos. Capitu repetiu, acentuando alguns como principais; e inquiria-me depois sobre eles, a ver se entendera bem, se não trocara uns por outros. E insistia em que pedisse com boa cara, mas assim como quem pede um copo de água a pessoa que tem obrigação de o trazer. Conto estas minúncias cias para que melhor se entenda aquela manhã da minha amiga; logo virá a tarde, e da manhã e da tarde se fará o primeiro dia, como no Gênesis, onde se fizeram sucessivamente sete.
 
-### 19. SEM FALTA
+### 019 — Sem Falta
 
 Quando voltei casa era noite. Vim depressa, não tanto, porém, que não pensasse nos termos em que falaria ao agregado. Formulei o pedido de cabeça, escolhendo as palavras que diria e o tom delas, entre seco e benévolo. Na chácara, antes de entrar em casa, repeti-as comigo, depois em voz alta, para ver se eram adequadas e se obedeciam às recomendações de Capitu: "Preciso falar-lhe, sem falta. amanhã; escolha o lugar e diga-me". Proferi-as lentamente, e mais lentamente ainda as palavras sem falta, como para sublinhá-las. Repeti-as ainda, e então achei-as secas demais, quase ríspidas, e, francamente, impróprias de um criançola para um homem maduro. Cuidei de escolher outras e parei.
 
 Afinal disse comigo que as palavras podiam servir,tudo era dizê-las em tom que não ofendesse. E a prova é que, repetindo-as novamente, saíram-me quase súplices. Bastava não carregar tanto, nem adoçar muito, um meio-termo. "E Capitu tem razão, pensei, a casa é minha, ele é um simples agregado... Jeitoso é, pode muito bem trabalhar por mim, e desfazer o plano de mamãe."
 
-### 20. MIL PADRE-NOSSOS Emil AVE-MARIAS
+### 020 — Mil PADRE-NOSSOS Emil AVE-MARIAS
 
 Levantei os olhos ao céu, que começava a embruscar-se, mas não foi para vê-lo coberto ou descoberto. Era ao outro céu que eu erguia a minha alma; era ao meu refúgio, ao meu amigo. E então disse de mim para mim:
 
@@ -483,9 +483,9 @@ A soma era enorme. A razão é que eu andava carregado de promessas não cumprid
 
 Realmente, a matéria do benefício era agora imensa, não menos que a salvação ou o naufrágio da minha existência inteira. Mil, mil, mil. Era preciso uma soma que pagasse os atrasados todos. Deus podia muito bem, irritado com os esquecimentos, negar-se a ouvir-me sem muito dinheiro... Homem grave, é possível que estas agitações de menino te enfadem, se é que não as achas ridículas. Sublimes não eram. Cogitei muito no modo de resgatar a dívida espiritual. Não achava outra espécie em que, mediante a intenção, tudo se cumprisse, fechando a escrituração da minha consciência moral sem deficit. Mandar dizer cem missas, ou subir de joelhos a ladeira da Glória para ouvir uma, ir à Terra Santa, tudo o que as velhas escravas me contavam de promessas célebres, tudo me acudia sem se fixar de vez no espírito. Era muito duro subir uma ladeira de joelhos; devia feri-los por força. A Terra Santa ficava muito longe. As missas eram numerosas, podiam empenhar-me outra vez a alma...
 
-## Capítulos 21 a 30
+## Capítulos 021 — 030
 
-### 21. PRIMA JUSTINA
+### 021 — Prima Justina
 
 Na varanda achei prima Justina, passeando de um lado para outro. Veio ao patamar e perguntou-me onde estivera.
 
@@ -529,11 +529,11 @@ Não contou; fez apenas um gesto como indicando que havia outra cousa que não p
 
 — Isso não, atalhou prontamente; prima Glória tem este negócio firme na cabeça, e não há nada no mundo que a faça mudar de resolução; só o tempo. Você ainda era pequenino, já ela contava isto a todas as pessoas da nossa amizade, ou só conhecidas. Lá avivar-lhe a memória, não, que eu não trabalho para a desgraça dos outros; mas também, pedir outra cousa, não peço, Se ela me consultasse bem; se ela me dissesse: "Prima Justina, você que acha?", a minha resposta era: "Prima Glória, eu penso que, se ele gosta de ser padre, pode ir; mas, se não gosta, o melhor é ficar". É o que eu diria e direi se ela me consultar algum dia. Agora, ir falar-lhe sem ser chamada, não faço.
 
-### 22. SENSAÇÕES ALHEIAS
+### 022 — Sensações Alheias
 
 Não alcancei mais nada, e para o fim arrependi-me do pedido: devia ter seguido o conselho de Capitu. Então, como eu quisesse ir para dentro, prima Justina reteve-me alguns minutos, falando do calor e da próxima festa da Conceição, dos meus velhos oratórios, e finalmente de Capitu. Não disse mal dela; ao contrário insinuou-me que podia vir a ser uma moça bonita. Eu, que já a achava lindíssima, bradaria que era a mais bela criatura do mundo, se o receio me não fizesse discreto. Entretanto, como prima Justina se metesse a elogiar-lhe os modos, a gravidade, os costumes, o trabalhar para os seus, o amor que tinha a minha mãe, tudo isto me acendeu a ponto de elogiá-la também. Quando não era com palavras, era com o gesto de aprovação que dava a cada uma das asserções da outra, e certamente com a felicidade que devia iluminar-me a cara. Não adverti que assim confirmava a denúncia de José Dias, ouvida por ela, à tarde, na sala de visitas, se é que também ela não desconfiava já. Só pensei nisso na cama. Só então senti que os olhos de prima Justina, quando eu falava, pareciam apalpar-me, ouvir-me, cheirar-me, gostar-me, fazer o ofício de todos os sentidos. Ciúmes não podiam ser; entre um pirralho da minha idade e uma viúva quarentona não havia lugar para ciúmes. É certo que, após algum tempo, modificou os elogios a Capitu, e até lhe fez algumas críticas, disse-me que era um pouco trêfega e olhava por baixo; mas ainda assim, não creio que fossem ciúmes. Creio antes... sim... sim, creio isto. Creio que prima Justina achou no espetáculo das sensações alheias uma ressurreição vaga das próprias. Também se goza por influição dos lábios que narram.
 
-### 23. PRAZO DADO
+### 023 — Prazo Dado
 
 — Preciso falar-lhe amanhã, sem falta; escolha o lugar e diga-me.
 
@@ -555,11 +555,11 @@ Fez-se tudo o melhor possível. Houve só uma altercarão; minha mãe achou o di
 
 — Não importa,disse-me José Dias;podemos apear-nos à porta do Passeio Público.
 
-### 24. DE MÃE Ede SERVO
+### 024 — De Mãe Ede Servo
 
 José Dias tratava-me com extremos de mãe e atenções de servo. A primeira cousa que consegui logo que comecei a andar fora, foi dispensar-me o pajem; fez-se pajem, ia comigo à rua. Cuidava dos meus arranjos em casa, dos meus livros, dos meus sapatos, da minha higiene e da minha prosódia. Aos oito anos os meus plurais careciam, alguma vez, da desinência exata, ele a corrigia, meio sério para dar autoridade à lição, meio risonho para obter o perdão da emenda Ajudava assim o mestre de primeiras letras. Mais tarde, quando o Padre Cabral me ensinava latim, doutrina e história sagrada, ele assistia às lições, fazia reflexões eclesiásticas, e, no fim, perguntava ao padre: "Não é verdade que o nosso jovem amigo caminha depressa?" Chamava-me "um prodígio"; dizia a minha mãe ter conhecido outrora meninos muito inteligentes, mas que eu excedia a todos esses, sem contar que, para a minha idade, possuía já certo número de qualidades morais sólidas. Eu, posto não avaliasse todo o valor deste outro elogio, gostava do elogio; era um elogio.
 
-### 25. NO PASSEIO PÚBLICO
+### 025 — No Passeio Público
 
 Entramos no Passeio Público. Algumas caras velhas, outras doentes ou só vadias espalhavam-se melancolicamente no caminho que vai da porta ao terraço. Seguimos para o terraço. Andando, para me dar animo, falei do jardim:
 
@@ -627,7 +627,7 @@ Timidez não é tão ruim moeda, como parece. Se eu fosse destemido, é prováve
 
 — Pois ainda é tempo. Olhe, não é por vadiação. Estou pronto: para tudo; se ela quiser que eu estude leis, vou para S. Paulo...
 
-### 26. AS LEIS SÃO BELAS
+### 026 — As Leis São Belas
 
 Pela cara de José Dias passou algo parecido com o reflexo de uma ideia, - uma ideia que o alegrou extraordinariamente. Calou se alguns instantes; eu tinha os olhos nele, ele voltara os seus para o lado da barra. Como insistisse:
 
@@ -651,7 +651,7 @@ Levantou a perna e fez uma pirueta. Uma das suas ambições era tornar à Europa
 
 — Estamos a bordo, Bentinho, estamos a bordo!
 
-### 27. AO PORTÃO
+### 027 — Ao Portão
 
 No portão do Passeio, um mendigo estendeu-nos a mão. José Dias passou adiante, mas eu pensei em Capitu e no seminário, tirei dous vinténs do bolso e dei-os ao mendigo. Este beijou a moeda; eu pedi-lhe que rogasse a Deus por mim, a fim de que eu pudesse satisfazer todos os meus desejos.
 
@@ -659,11 +659,11 @@ No portão do Passeio, um mendigo estendeu-nos a mão. José Dias passou adiante
 
 — Chamo-me Bento, acrescentei para esclarecê-lo.
 
-### 28. NA RUA
+### 028 — Na Rua
 
 José Dias ia tão contente que trocou o homem dos momentos graves, como era à rua, pelo homem dobradiço e inquieto. Mexia-se todo, falava de tudo, fazia-me parar a cada passo diante de um mostrador ou de um cartaz de teatro. Contava-me o enredo de algumas peças, recitava monólogos em verso. Fez os recados todos, pagou contas, recebeu aluguéis de casa; para si comprou um vigésimo de loteria. Afinal, o homem teso rendeu o flexível, e passou a falar pausado, com superlativos. Não vi que a mudança era natural; temi que houvesse mudado a resolução assentada, e entrei a tratá-lo com palavras e gestos carinhosos, até entrarmos no ônibus.
 
-### 29. Oimperador
+### 029 — O Imperador
 
 Em caminho,encontramos o Imperador, que vinha da Escola de Medicina. O ônibus em que íamos parou, como todos os veículos; os passageiros desceram à rua e tiraram o chapéu, até que o coche imperial passasse. Quando tornei ao meu lugar, trazia uma ideia fantástica, a ideia de ir ter com o Imperador, contar-lhe tudo e pedir-lhe a intervenção. Não confiaria esta ideia a Capitu. "Sua Majestade pedindo, mamãe cede", pensei comigo.
 
@@ -683,7 +683,7 @@ Então o Imperador dava outra vez a mão a beijar, e saía, acompanhado de todos
 
 Tudo isso vi e ouvi. Não, a imaginação de Ariosto não é mais fértil que a das crianças e dos namorados, nem a visão do impossível precisa mais que de um recanto de ônibus. Consolei-me por instantes, digamos minutos, até destruir-se o plano e voltar-me para as caras sem sonhos dos meus companheiros.
 
-### 30. O SANTÍSSlMO
+### 030 — O Santísslmo
 
 Terás entendido que aquela lembrança do Imperador acerca da medicina não era mais que a sugestão da minha pouca vontade de sair do Rio de Janeiro. Os sonhos do acordado são como os outros sonhos, tecem-se pelo desenho das nossas inclinações e das nossas recordações. Vá que fosse para S.Paulo, mas a Europa... Era muito longe, muito mar e muito tempo. Viva a medicina! Iria contar estas esperanças a Capitu.
 
@@ -723,9 +723,9 @@ Fiquei sério depressa. Era o momento da saída. Peguei da minha vara; e, como j
 
 Pádua, ao contrário, ia mais humilhado. Apesar de substituído por mim, não acabava de se consolar da tocha, da miserável tocha. E contudo havia outros que também traziam tocha, e apenas mostravam a compostura do ato; não iam garridos, mas também não iam tristes. Via-se que caminhavam com honra.
 
-## Capítulos 31 a 40
+## Capítulos 031 — 040
 
-### 31. AS CURIOSIDADES DE CAPITU
+### 031 — As Curiosidades de Capitu
 
 Capitu preferia tudo ao seminário. Em vez de ficar abatida com a ameaça da larga separação, se vingasse a ideia da Europa, mostrou se satisfeita. E quando eu lhe contei o meu sonho imperial:
 
@@ -765,7 +765,7 @@ A pérola de César acendia os olhos de Capitu. Foi nessa ocasião que ela pergu
 
 Sabia já o que os pais lhe haviam dito, mas naturalmente tinha para si que eles pouco mais conheceriam do que o que se passou nas ruas. Queria a notícia das tribunas da Capela Imperial e dos salões dos bailes. Nascera muito depois daquelas festas célebres. Ouvindo falar várias vezes da Maioridade, teimou um dia em saber o que fora este acontecimento; disseram-lho, e achou que o Imperador fizera muito bem em querer subir ao trono aos quinze anos. Tudo era matéria às curiosidades de Capitu, mobílias antigas, alfaias velhas, costumes, notícias de Itaguaí, a infância e a mocidade de minha mãe, um dito daqui, uma lembrança dali, um adágio dacolá...
 
-### 32. OLHOS DE RESSACA
+### 032 — Olhos de Ressaca
 
 Tudo era matéria às curiosidades de Capitu. Caso houve, porém, no qual não sei se aprendeu ou ensinou, ou se fez ambas as cousas, como eu. É o que contarei no outro Capítulo. Neste direi somente que, passados alguns dias do ajuste com o agregado, fui ver a minha amiga; eram dez horas da manhã. D. Fortunata, que estava no quintal nem esperou que eu lhe perguntasse pela filha.
 
@@ -807,7 +807,7 @@ Retórica dos namorados, dá-me uma comparação exata e poética para dizer o q
 
 — Vamos ver.
 
-### 33. Openteado
+### 033 — O Penteado
 
 E Capitu deu-me as costas, voltando-se para o espelhando. Peguei-lhe dos cabelos, colhi-os todos e entrei a alisá-los com o pente, desde a testa até as últimas pontas, que lhe desciam à cintura. Em pé não dava jeito: não esquecestes que ela era um nadinha mais alta que eu, mas ainda que fosse da mesma altura. Pedi-lhe que se sentasse.
 
@@ -829,7 +829,7 @@ Não quis,não levantou a cabeça, e ficamos assim a olhar um para o outro, até
 
 Grande foi a sensação do beijo; Capitu ergueu-se, rápida, eu recuei até à parede com uma espécie de vertigem, sem fala, os olhos escuros. Quando eles me clarearam vi que Capitu tinha os seus no chão. Não me atrevi a dizer nada; ainda que quisesse, faltava-me língua. Preso. atordoado, não achava gesto nem ímpeto que me descolasse da parede e me atirasse a ela com mil palavras cálidas e mimosas... Não mofes dos meus quinze anos, leitor precoce. Com dezessete, Des Grieux (e mais era Des Grieux) não pensava ainda na diferença dos sexos.
 
-### 34. SOU HOMEM!
+### 034 — Sou Homem!
 
 Ouvimos passos no corredor; era D. Fortunata. Capitu compôs-se depressa, tão depressa que, quando a mãe apontou à porta, ela abanava a cabeça e ria. Nenhum laivo amarelo, nenhuma contração de acanhamento, um riso espontâneo e claro, que ela explicou por estas palavras alegres:
 
@@ -855,7 +855,7 @@ Supus que me tivessem ouvido, porque a palavra saiu em voz alta, e corri à port
 
 Quando repeti isto,pela terceira vez, pensei no seminário, mas como se pensa em perigo que passou, um mal abortado, um pesadelo extinto; todos os meus nervos me disseram que homens não são padres. O sangue era da mesma opinião. Outra vez senti os beiços de Capitu. Talvez abuso um pouco das reminiscências osculares, mas a saudade é isto mesmo; é o passar e repassar das memórias antigas Ora, de todas as daquele tempo creio que a mais doce é esta, a mais nova, a mais compreensiva, a que inteiramente me revelou a mim mesmo. Outras tenho, vastas e numerosas, doces também, de vária espécie, muitas intelectuais, igualmente intensas. Grande homem que fosse, a recordação era menor que esta.
 
-### 35. O PROTONOTÁRIO APOSTÓLICO
+### 035 — O Protonotário Apostólico
 
 Enfim, peguei dos livros e corri à lição. Não corri precisamente; a meio caminho parei, advertindo que devia ser muito tarde, e podiam ler-me no semblante alguma cousa. Tive ideia de mentir, alegar uma vertigem que me houvesse deitado no chão, mas o susto que causaria a minha mãe fez-me rejeitá-la. Pensei em prometer algumas dezenas de padre-nossos; tinha, porém, outra promessa em aberto e outro favor pendente... Não, vamos ver; fui andando, ouvi vozes alegres, conversavam ruidosamente. Quando entrei na sala, ninguém ralhou comigo.
 
@@ -897,13 +897,13 @@ Conheci aqui o meu homem. Era a primeira palavra,a semente lançada à terra, as
 
 Se a intenção do meu mestre de latim era ir acostumando ao uso do título com o nome, não sei bem; o que sei é que quando ouvi o meu nome ligado a tal título, deu-me vontade de dizer um desaforo. Mas a vontade aqui foi antes uma ideia, uma ideia sem língua, que se deixou ficar quieta e muda, tal como daí a pouco outras ideias... Aliás essas pedem um Capítulo especial. Rematemos este dizendo que o mestre de latim falou algum tempo da minha ordenação eclesiástica, ainda que sem grande interesse. Ele buscava um assunto alheio para se mostrar esquecido da própria glória, mas era esta que o deslumbrava na ocasião. Era um velho magro, sereno, dotado de qualidades boas. Alguns defeitos tinha; o mais excelso deles era ser guloso, não propriamente glutão; comia pouco, mas estimava o fino e o raro, e a nossa cozinha, se era simples, era menos pobre que a dele. Assim, quando minha mãe lhe disse que viesse jantar, a fim de se lhe fazer uma saúde, os olhos com que aceitou seriam de protonotário, mas não eram apostólicos. E para agradar a minha mãe novamente pegou em mim, descrevendo o meu futuro eclesiástico, e queria saber se ia para o seminário agora, no ano próximo, e oferecia-se a falar ao "senhor bispo", tudo marchetado do "protonotário Santiago."
 
-### 36. IDEIA SEM PERNAS Eideia SEM BRAÇOS
+### 036 — Ideia sem Pernas Eideia sem Braços
 
 Deixe-os, a pretexto de brincar, e fui-me outra vez a pensar na aventura da manhã. Era o que melhor podia fazer, sem latim, e até com latim. Ao cabo de cinco minutos, lembrou-me ir correndo à casa vizinha, agarrar Capitu, desfazer-lhe as tranças, refazê-las e concluí Ias daquela maneira particular, boca sobre boca. E isto vamos é isto... Ideia só! ideia sem pernas! As outras pernas não queriam correr nem andar. Muito depois é que saíram vagarosamente e levaram-me à casa de Capitu. Quando ali cheguei, dei com ela na sala, na mesma sala, sentada na marquesa, almofada no regaço, cosendo em paz. Não me olhou de rosto, mas a furto e a medo, ou, se preferes a fraseologia do agregado, oblíqua e dissimulada. As mãos pararam, depois de encravada a agulha no pano. Eu, do lado oposto da mesa, não sabia que fizesse e outra vez me fugiram as palavras que trazia Assim gastamos alguns minutos compridos, até que ela deixou inteiramente a costura, ergueu-se e esperou-me. Fui ter com ela, e perguntei se a mãe havia dito alguma cousa; respondeu-me que não A boca com que respondeu era tal que cuido haver-me provocado um gesto de aproximação. Certo é que Capitu recuou um pouco.
 
 Era ocasião de pegá-la, puxá-la e beijá-la... Ideia só! ideia sem braços! Os meus ficaram caídos e mortos. Não conhecia nada da Escritura. Se conhecesse, é provável que o espírito de Satanás me fizesse dar à língua mística do Cântico um sentido direto e natural. Então obedeceria ao primeiro versículo: "Aplique ele os lábios, dando-me o ósculo da sua boca". E pelo que respeita aos braços, que tinha inertes, bastaria cumprir o vers. 6.° do cap. II: "A sua mão esquerda se pôs já debaixo da minha cabeça, e a sua mão direita me abraçará depois". Vedes aí a cronologia dos gestos. Era só executá-la; mas ainda que eu conhecesse o texto, as atitudes de Capitu eram agora tão retraídas, que não sei se não continuaria parado. Foi ela, entretanto, que me tirou daquela situação.
 
-### 37. Aalma Echeia DE MISTÉRIOS
+### 037 — A Alma Echeia de Mistérios
 
 — Padre Cabral estava esperando há muito tempo?
 
@@ -923,7 +923,7 @@ Nisto ouvimos bater à porta e falar no corredor. Era o pai de Capitu, que volta
 
 Ouvimos o ferrolho da porta que dava para o corredor interno era a mãe que abria. Eu, uma vez que confesso tudo, digo aqui que não tive tempo de soltar as mãos da minha amiga; pensei nisso, cheguei a tentá-lo, mas Capitu, antes que o pai acabasse de entrar, fez um gesto inesperado, pousou a boca na minha boca, e deu de vontade o que estava a recusar à força. Repito, a alma é cheia de mistérios.
 
-### 38. QUE SUSTO, MEU DEUS!
+### 038 — Que Susto, Meu Deus!
 
 Quando Pádua, vindo pelo interior, entrou na sala de visitas, Capitu, em pé, de costas para mim, inclinada sobre a costura, como a recolhê-la, perguntava em voz alta:
 
@@ -937,7 +937,7 @@ Agora é que o lance é o mesmo; mas se conto aqui, tais quais, ou dous lances d
 
 — Mamãe, jantar, papai chegou!
 
-### 39. A VOCAÇÃO
+### 039 — A Vocação
 
 Padre Cabral estava naquela primeira hora das honras em que as mínimas congratulações valem por odes. Tempo chega em que os dignificados recebem os louvores como um tributo usual, cara morta, sem agradecimentos. O alvoroço da primeira hora é melhor, esse estado da alma que vê na inclinação do arbusto, tocado do vento, um parabém da flora universal, traz sensações mais íntimas e finas que qualquer outro. Cabral ouviu as palavras de Capitu com infinito prazer.
 
@@ -993,13 +993,13 @@ Tendo dado um passo no sentido de atravessar a sala, é claro que o meu dever, o
 
 Falava baixinho; pegou-me na mão, e pôs o dedo na mão. Uma preta, que veio de dentro acender o lampião do corredor, vendo-nos naquela atitude, quase às escuras, riu de simpatia e murmurou em tom que ouvíssemos alguma cousa que não entendi bem nem mal. Capitu segredou-me que a escrava desconfiara, e ia talvez contar às outras. Novamente me intimou que ficasse, e retirou-se; eu deixei-me estar parado, pregado, agarrado ao chão.
 
-### 40. UMA ÉGUA
+### 040 — Uma Égua
 
 Ficando só, refleti algum tempo, e tive uma fantasia. Já conheceis as minhas fantasias. Contei-vos a da visita imperial; disse-vos a desta casa de Engenho Novo, reproduzindo a de Mata-cavalos... A imaginação foi a companheira de toda a minha existência, viva, rápida, inquieta, alguma vez tímida e amiga de empacar, as mais delas capaz de engolir campanhas e campanhas, correndo. Creio haver lido em Tácito que as éguas iberas concebiam pelo vento, se não foi nele, foi noutro autor antigo, que entendeu guardar essa crendice nos seus livros. Neste particular, a minha imaginação era uma grande égua ibera; a menor brisa lhe dava um potro, que saía logo cavalo de Alexandre; mas deixemos metáforas atrevidas e impróprias dos meus quinze anos. Digamos o caso simplesmente. A fantasia daquela hora foi confessar a minha mãe os meus amores para lhe dizer que não tinha vocação eclesiástica. A conversa sobre vocação tornava-me agora toda inteira. E, ao passo que me assustava, abria-me uma porta de saída. "Sim, é isto, pensei; vou dizer a mamãe que não tenho vocação, e confesso o nosso namoro; se ela duvidar, conto-lhe o que se passou outro dia. O penteado e o resto..."
 
-## Capítulos 41 a 50
+## Capítulos 041 — 050
 
-### 41. A AUDIÊNCIA SECRETA
+### 041 — A Audiência Secreta
 
 O resto fez-me ficar mais algum tempo, no corredor, pensando. Vi entrar o Doutor João da Costa, e preparou-se logo o voltarete do costume. Minha mãe saiu da sala, e, dando comigo, perguntou se acompanhara Capitu.
 
@@ -1061,7 +1061,7 @@ Creio que os olhos que lhe deitei foram tão queixosos que ela emendou logo a pa
 
 Caminhou para a porta,saímos ambos. Antes de sair, voltou-se para mim, e quase a vi saltar-me ao colo e dizer-me que não seria padre. Este era já o seu desejo íntimo, à proporção que se aproximava o tempo. Quisera um modo de pagar a dívida contraída, outra moeda, que valesse tanto ou mais, e não achava nenhuma.
 
-### 42. CAPITU REFLETINDO
+### 042 — Capitu Refletindo
 
 No dia seguinte fui à casa vizinha, logo que pude. Capitu despedia-se de três amigas que tinham ido visitá-la, Paula e Sancha, companheiras de colégio, aquela de quinze, esta de dezessete anos" primeira filha de um médico, a segunda de um comerciante de objetos americanos. Estava abatida, trazia um lenço atado na cabeça; a mãe contou-me que fora excesso de leitura na véspera, antes e depois do chá, na sala e na cama, até muito depois da meia-noite, e com lamparina...
 
@@ -1075,7 +1075,7 @@ Também eu lhe contei o que se dera comigo, a entrevista com minha mãe, as minh
 
 Há tanto tempo que isto sucedeu que não posso dizer com segurança se chorou deveras, ou se somente enxugou os olhos; cuido que os enxugou somente. Vendo-lhe o gesto peguei-lhe na mão para animá-la, mas também eu precisava ser animado. Caímos no canapé, e ficamos a olhar para o ar. Minto - ela olhava para o chão. Fiz o mesmo, logo que a vi assim... Mas eu creio que Capitu olhava para dentro de si mesma, enquanto que eu fitava deveras o chão, o roído das fendas, duas moscas andando e um pé de cadeira lascada. Era pouco, mas distraía-me da aflição. Quando tornei a olhar para Capitu, vi que não se mexia, e fiquei com tal medo que a sacudi brandamente. Capitu tornou cá para fora e pediu-me que outra vez lhe contasse o que se passara com minha mãe. Satisfi-la, atenuando o texto desta vez, para não amofiná-la. Não me chames dissimulado, chama-me compassivo; é certo que receava perder Capitu, se lhe morressem as esperanças todas, mas doía-me vê-la padecer. Agora, a verdade última, a verdade das verdades, é que já me arrependia de haver falado a minha mãe, antes de qualquer trabalho efetivo por parte de José Dias; examinando bem, não quisera ter ouvido um desengano que eu reputava certo, ainda que demorado. Capitu refletia, refletia, refletia...
 
-### 43. VOCÊ TEM MEDO?
+### 043 — Você Tem Medo?
 
 De repente, cessando a reflexão, fitou em mim os olhos de ressaca, e perguntou-me se tinha medo.
 
@@ -1113,7 +1113,7 @@ Capitu fez um gesto de impaciência.Os olhos de ressaca não se mexiam e parecia
 
 Fez o que disse, e atou o lenço outra vez na testa. Em seguida, acompanhou-me ao quintal para se despedir de mim; mas, ainda aí nos detivemos por alguns minutos, sentados sobre a borda do poço. Ventava, o céu estava coberto. Capitu falou novamente da nossa separação, como de um fato certo e definitivo, por mais que eu. receoso disso mesmo, buscasse agora razões para animá-la. Capita, quando não falava, riscava no chão, com um pedaço de taquara, narizes e perfis. Desde que se metera a desenhar, era uma das suas diversões; tudo lhe servia de papel e lápis. Como me lembrassem os nossos nomes abertos por ela no muro, quis fazer o mesmo no chão, e pedi-lhe a taquara. Não me ouviu ou não me atendeu.
 
-### 44. Oprimeiro FILHO
+### 044 — O Primeiro Filho
 
 — Dê cá, deixe escrever uma cousa.
 
@@ -1197,13 +1197,13 @@ Logo depois fez descair os lábios, e abanou a cabeça.
 
 — Não, Bentinho, disse,seria esperar muito tempo, você não vai ser padre já amanhã, leva muitos anos... Olhe, prometo outra cousa; prometo que há de batizar o meu primeiro filho.
 
-### 45. ABANE A CABEÇA, LEITOR
+### 045 — Abane a Cabeça, Leitor
 
 Abane a cabeça leitor; faça todos os gestos de incredulidade. Chegue a deitar fora este livro, se o tédio já o não obrigou a isso antes tudo é possível. Mas, se o não fez antes e só agora, fio que torne a pegar do livro e que o abra na mesma página, sem crer por isso na veracidade do autor. Todavia, não há nada mais exato. Foi assim mesmo que Capitu falou, com tais palavras e maneiras. Falou do primeiro filho, como se fosse a primeira boneca.
 
 Quanto ao meu espanto, se também foi grande, veio de mistura com uma sensação esquisita. Percorreu-me um fluido. Aquela ameaça de um primeiro filho, o primeiro filho de Capitu, o casamento dela com outro, portanto, a separação absoluta, a perda, a aniquilação, tudo isso produzia um tal efeito, que não achei palavra nem gesto fiquei estúpido. Capitu sorria; eu via o primeiro filho brincando no chão...
 
-### 46. AS PAZES
+### 046 — As Pazes
 
 As Pazes fizeram-se como a guerra, depressa. Buscasse eu neste livro a minha glória, e diria que as negociações partiram de mim, mas não, foi ela que as iniciou. Alguns instantes depois, como eu estivesse cabisbaixo, ela abaixou também a cabeça, mas voltando os olhos para cima a fim de ver os meus. Fiz-me de rogado; depois quis levantar-me para ir embora; mas nem me levantei, nem sei se iria. Capitu fitou-me uns olhos tão ternos, e a posição os fazia tão súplices, que me deixei ficar, passei-lhe o braço pela cintura, ela pegou-me na ponta dos dedos, e...
 
@@ -1211,7 +1211,7 @@ Outra vez D. Fortunata apareceu à porta da casa; não sei para que, se nem me d
 
 Fosse o que fosse, o meu braço continuou a apertar a cintura da filha, e foi assim que nos pacificamos. O bonito é que cada um de nós queria agora as culpas para si, e pedíamos reciprocamente perdão. Capitu alegava a insônia, a dor de cabeça, o abatimento do espírito, e finalmente "os seus calundus." Eu, que era muito chorão por esse tempo, sentia os olhos molhados... Era amor puro, era efeito dos padecimentos da amiguinha, era a ternura da reconciliação.
 
-### 47. "Asenhora SAIU"
+### 047 — "Asenhora Saiu"
 
 — Está bom,acabou,disse eu finalmente; mas, explique-me só uma cousa, por que é que você me perguntou se eu tinha medo de apanhar?
 
@@ -1225,7 +1225,7 @@ A explicação agradou-me; não tinha outra. Se, como penso, Capitu não disse a
 
 As andorinhas vinham agora em sentido contrário, ou não seriam as mesmas. Nós é que éramos os mesmos; ali ficamos somando as nossas ilusões, os nossos temores, começando já a somar as nossas saudades.
 
-### 48. JURAMENTO DO POÇO
+### 048 — Juramento do Poço
 
 — Não! exclamei de repente.
 
@@ -1253,11 +1253,11 @@ Compreendeis a diferença, era mais que a eleição do cônjuge, era a afirmaç�
 
 Capitu temia a nossa separação, mas acabou aceitando este alvitre, que era o melhor. Não afligíamos minha mãe, e o tempo correria até o ponto em que o casamento pudesse fazer-se. Ao contrário, qualquer resistência ao seminário confirmaria a denúncia de José Dias. Esta reflexão não foi minha, mas dela.
 
-### 49. UMA VELA AOS SÁBADOS
+### 049 — Uma Vela aos Sábados
 
 Eis aqui como, após tantas canseiras, tocávamos o porto a que nos devíamos ter abrigado logo. Não nos censures, piloto de má morte, não se navegam corações como os outros mares deste mundo. Estávamos contentes, entramos a falar do futuro. Eu prometia à minha esposa uma vida sossegada e bela, na roça ou fora da cidade. Viríamos aqui uma vez por ano. Se fosse em arrabalde, seria longe, onde, ninguém nos fosse aborrecer. A casa, na minha opinião, não devia ser grande nem pequena, um meio-termo; plantei-lhe flores, escolhi móveis, uma sege e um oratório. Sim, havíamos de ter um oratório bonito, alto, de jacarandá, com a imagem de Nossa Senhora da Conceição. Demorei-me mais nisto que no resto, em parte porque éramos religiosos, em parte para compensar a batina que eu ia deitar às urtigas - mas ainda restava uma parte que atribuo ao intuito secreto e inconsciente de captar a proteção do céu. Havíamos de acender uma vela aos sábados...
 
-### 50. UM MEIO-TERMO
+### 050 — Um MEIO-TERMO
 
 Meses depois fui para o seminário de S.José. Se eu pudesse contar as lágrimas que chorei na véspera e na manhã, somaria mais que todas as vertidas desde Adão e Eva. Há nisto alguma exageração; mas é bom ser enfático, uma ou outra vez, para compensar este escrúpulo de exatidão que me aflige. Entretanto, se eu me ativer só à lembrança da sensação, não fico longe da verdade; aos quinze anos, tudo é infinito. Realmente, por mais preparado que estivesse, padeci muito. Minha mãe também padeceu, mas sofria com alma e coração; demais, o Padre Cabral achara um meio-termo, experimentar-me a vocação; se no fim de dous anos, eu não revelasse vocação eclesiástica, seguiria outra carreira.
 
@@ -1277,13 +1277,13 @@ Capitu deu-me igual conselho,quando minha mãe lhe anunciou a minha ida definiti
 
 Fez-lhe tão bem este tratamento de filha (era a primeira vez que minha mãe lhe dava), que nem teve tempo de ficar triste; beijou-lhe a mão, e disse-lhe que já sabia disso por mim mesmo. Em particular animou-me a suportar tudo com paciência; no fim de um ano as cousas estariam mudadas, e um ano andava depressa. Não foi ainda a nossa despedida; esta fez-se na véspera, por um modo que pede Capítulo especial. O que unicamente digo aqui é que, ao passo que nos prendíamos um ao outro, ela ia prendendo minha mãe, fez-se mais assídua e terna, vivia ao pé dela, com os olhos nela. Minha mãe era de natural simpático, e igualmente sensível; tanto se doía como se aprazia de qualquer cousa. Entrou a achar em Capitu uma porção de graças novas, de dotes finos e raros; deu-lhe um anel dos seus e algumas galanterias. Não consentiu em fotografar-se, como a pequena lhe pedia, para lhe dar um retrato; mas tinha uma miniatura, feita aos vinte e cinco anos, e, depois de algumas hesitações, resolveu dar-lha. Os olhos de Capitu, quando recebeu o mimo, não se descrevem, não eram oblíquos, nem de ressaca, eram direitos, claros, lúcidos. Beijou o retrato com paixão, minha mãe fez-lhe a mesma cousa a ela. Tudo isto me lembra a nossa despedida.
 
-## Capítulos 51 a 60
+## Capítulos 051 — 060
 
-### 51. ENTRE LUZ Efusco
+### 051 — Entre Luz Efusco
 
 Entre luz e fusco,tudo há de ser breve como esse instante. Nem durou muito a nossa despedida, foi o mais que pôde, em casa dela, na sala de visitas, antes do acender das velas; aí é que nos despedimos de uma vez. Juramos novamente que havíamos de casar um com outro, e não foi só o aperto de mão que selou o contrato, como no quintal, foi a conjunção das nossas bocas amorosas... Talvez risque isto na impressão, se até lá não pensar de outra maneira; se pensar. fica. E desde já fica, porque, em verdade, é a nossa defesa. O que o mandamento divino quer é que não juremos em vão pelo santo nome de Deus. Eu não ia mentir ao seminário, uma vez que levava um contrato feito no próprio cartório do céu. Quanto ao selo, Deus, como fez as mãos limpas, assim fez os lábios limpos, e a malícia está antes na tua cabeça perversa que na daquele casal de adolescentes... Oh! minha doce companheira da meninice, eu era puro, e puro fiquei, e puro entrei na aula de S. José, a buscar de aparência a investidura sacerdotal, e antes dela a vocação. Mas a vocação eras tu, a investidura eras tu.
 
-### 52. Ovelho PÁDUA
+### 052 — O Velho Pádua
 
 Já agora conto também os adeuses do velho Pádua. Logo cedo veio à nossa casa. Minha mãe disse-lhe que fosse falar-me ao quarto.
 
@@ -1307,7 +1307,7 @@ Suspirou e continuou:
 
 Tinha os olhos úmidos deveras; levava a cara dos desenganados, como quem empregou em um só bilhete todas as suas economias de esperanças, e vê sair branco o maldito número, - um número tão bonito!
 
-### 53. Acaminho!
+### 053 — A Caminho!
 
 Fui para o seminário. Poupa-me as outras despedidas. Minha mãe apertava-me ao peito. Prima Justina suspirava. Talvez chorasse mal ou nada. Há pessoas a quem as lágrimas não acodem logo nem nunca, diz-se que padecem mais que as outras. Prima Justina disfarçava naturalmente os seus padecimentos íntimos, emendando os descuidos de minha mãe, fazendo-me recomendações, dando ordens. Tio Cosme, quando eu lhe beijei a mão em despedida, disse-me rindo:
 
@@ -1327,7 +1327,7 @@ Assim falara na véspera e no quarto. Agora não dizia nada, ou proferia algum a
 
 — Agüente um ano; até lá tudo estará arranjado.
 
-### 54. PANEGÍRICO DE SANTA MÔNICA
+### 054 — Panegírico de Santa Mônica
 
 No Seminário... Ah! não vou contar o seminário, nem me bastaria a isso um Capítulo. Não, senhor meu amigo; algum dia. sim, é possível que componha um abreviado do que ali vi e vivi, das pessoas que tratei, dos costumes, de todo o resto. Esta sarna de escrever, quando pega aos cinquenta anos, não despega mais. Na mocidade é possível curar-se um homem dela; e, sem ir mais longe, aqui mesmo no seminário tive um companheiro que compôs versos, à maneira dos de Junqueira Freire, cujo livro de frade-poeta era recente. Ordenou-se anos depois encontrei-o no coro de S. Pedro e pedi-lhe que me mostrasse os versos novos.
 
@@ -1377,7 +1377,7 @@ Ele, com os olhos no ar, devia estar ouvindo, e naturalmente ouvia, mas só me d
 
 — Tem agradado muito este meu Panegírico!
 
-### 55. UM SONETO
+### 055 — Um Soneto
 
 Dita a palavra, apertou-me as mãos com as forças todas de um vasto agradecimento, despediu-se e saiu. Fiquei só com o Panegírico, e o que as folhas dele me lembraram foi tal que merece um Capítulo ou mais. Antes, porém, e porque também eu tive o meu Panegírico, contarei a história de um soneto que nunca fiz: era no tempo do seminário, e o primeiro verso é o que ides ler:
 
@@ -1409,7 +1409,7 @@ O sentido vinha a ser justamente o contrário; mas talvez isso mesmo trouxesse a
 
 Trabalhei em vão, busquei, catei, esperei, não vieram os versos. Pelo tempo adiante escrevi algumas páginas em prosa, e agora estou compondo esta narração, não achando maior dificuldade que escrever, bem ou mal. Pois, senhores, nada me consola daquele soneto que não fiz. Mas, como eu creio que os sonetos existem feitos, como as odes e os dramas, e as demais obras de arte, por uma razão de ordem metafísica, dou esses dous versos ao primeiro desocupado que os quiser. Ao domingo, ou se estiver chovendo, ou na roça, em qualquer ocasião de lazer, pode tentar ver se o soneto sai. Tudo é dar-lhe uma ideia e encher o centro que falta.
 
-### 56. UM SEMINARISTA
+### 056 — Um Seminarista
 
 Tudo meia repetindo o diabo do opúsculo,com as suas letras velhas e citações latinas. Vi sair daquelas folhas muitos perfis de seminaristas, os irmãos Albuquerques, por exemplo, um dos quais é cônego na Bahia, enquanto o outro seguiu medicina e dizem haver descoberto um específico contra a febre amarela. Vi o Bastos, um magricela, que está de vigário em Meia-Ponte, se não morreu já; Luís Borges, apesar de padre, fez-se político, e acabou senador do império... Quantas outras caras me fitavam das páginas frias do Panegírico! Não, não eram frias; traziam o calor da juventude nascente, o calor do passado, o meu próprio calor. Queria lê-las outra vez, e lograva entender algum texto, tão recente como no primeiro dia. ainda que mais breve. Era um encanto ir por ele; às vezes, inconscientemente, dobrava a folha como se estivesse lendo de verdade; creio que era quando os olhos me caíam na palavra do fim da página, e a mão, acostumada a ajudá-los, fazia o seu ofício...
 
@@ -1423,13 +1423,13 @@ De fato, eram simples e afetuosas, cheias de carícias e conselhos. Escobar cont
 
 Não sei o que era a minha. Eu não era ainda casmurro, nem dom casmurro; o receio é que me tolhia a franqueza, mas como as portas não tinham chaves nem fechaduras, bastava empurrá-las, e Escobar empurrou-as e entrou. Cá o achei dentro, cá ficou, até que...
 
-### 57. DE PREPARAÇÃO
+### 057 — De Preparação
 
 Ah! Mas não eram só os seminaristas que me iam saindo daquelas folhas velhas do Panegírico. Elas me trouxeram também sensações passadas, tais e tantas que eu não poderia dizê-las todas, sem tirar espaço ao resto. Uma dessas, e das primeiras quisera contá-la aqui em latim. Não é que a matéria não ache termos honestos em nossa língua, que é casta para os castos, como pode ser torpe para os torpes. Sim, leitora castíssima, como diria o meu finado José Dias podeis ler o Capítulo até ao fim, sem susto nem vexame.
 
 Já agora meto a história em outro Capítulo. Por mais composto que este me saia, há sempre no assunto alguma cousa menos austera, que pede umas linhas de repouso e preparação. Sirva este de preparação. E isto é muito, leitor meu amigo; o coração, quando examina a possibilidade do que há de vir, as proporções dos acontecimentos e a cópia deles, fica robusto e disposto, e o mal é menor mal. Também, se não fica então, não fica nunca. E aqui verás tal ou qual esperteza minha; porquanto, ao ler o que vais ler, é provável que o aches menos cru do que esperavas.
 
-### 58. Otratado
+### 058 — O Tratado
 
 Foi o caso que, uma segunda-feira, voltando eu para o seminário, vi cair na rua uma senhora. O meu primeiro gesto, em tal caso, devia ser de pena ou de riso; não foi uma nem outra cousa, porquanto (e é isto que eu quisera dizer em latim), porquanto a senhora tinha as meias mui lavadas, e não as sujou, levava ligas de seda, e não as perdeu. Várias pessoas acudiram, mas não tiveram tempo de a levantar; ela ergueu-se muito vexada, sacudiu-se, agradeceu, e enfiou pela rua próxima.
 
@@ -1447,7 +1447,7 @@ Vou esgarçando isto com reticências para dar uma ideia das minhas ideias, que 
 
 Vindo o mal pela manhã adiante,tentei vencê-lo, mas por um modo que o não perdesse de todo. Sábios da Escritura, adivinhai o que podia ser. Foi isto. Não podendo rejeitar de mim aqueles quadros, recorri a um tratado entre a minha consciência e a minha imaginação. As visões feminis seriam de ora avante consideradas como simples encarnações dos vícios, e por isso mesmo contempláveis, como o melhor modo de temperar o caráter e aguerri-lo para os combates ásperos da vida. Não formulei isto por palavras, nem foi preciso; o contrato fez-se tacitamente, com alguma repugnância, mas fez-se. E por alguns dias, era eu mesmo que evocava as visões para fortalecer-me, e não as rejeitava, senão quando elas mesmo de cansadas, se iam embora.
 
-### 59. CONVIVAS DE BOA MEMÓRIA
+### 059 — Convivas de Boa Memória
 
 Há dessas reminiscências que não descansam antes que a pena ou a língua as publique. Um antigo dizia arrenegar de conviva que tem boa memória. A vida é cheia de tais convivas, e eu sou acaso um deles, conquanto a prova de ter a memória fraca seja exatamente não me acudir agora o nome de tal antigo; mas era um antigo, e basta.
 
@@ -1457,7 +1457,7 @@ E antes seja olvido que confusão; explico-me. Nada se emenda bem nos livros con
 
 É que tudo se acha fora de um livro falho, leitor amigo. Assim preencho as lacunas alheias; assim podes também preencher as minhas.
 
-### 60. QUERIDO OPÚSCULO
+### 060 — Querido Opúsculo
 
 Assim fiz eu ao Panegírico de Santa Mônica, e fiz mais: pus-lhe não só o que faltava da santa, mas ainda cousas que não eram dela. Viste o soneto, as meias, as ligas, o seminarista Escobar e vários outros. Vais agora ver o mais que naquele dia me foi saindo das páginas amarelas do opúsculo.
 
@@ -1465,9 +1465,9 @@ Querido opúsculo, tu não prestavas para nada, mas que mais presta um velho par
 
 Mas, vamos ao mais que me foi saindo das páginas amarelas.
 
-## Capítulos 61 a 70
+## Capítulos 061 — 070
 
-### 61. Avaca DE HOMERO
+### 061 — A Vaca de Homero
 
 O mais foi muito.Vi saírem os primeiros dias da separação, duros e opacos, sem embargo das palavras de conforto que me deram os padres e os seminaristas, e as de minha mãe e tio Cosme, trazidas por José Dias ao seminário.
 
@@ -1533,7 +1533,7 @@ E porque a palavra me estivesse a pigarrear na garganta, dei uma volta rápida, 
 
 — Capitu como vai?
 
-### 62. UMA PONTA DE IAGO
+### 062 — Uma Ponta de Iago
 
 A pergunta era imprudente, na ocasião em que eu cuidava de transferir o embarque. Equivalia a confessar que o motivo principal ou único da minha repulsa ao seminário era Capitu, e fazer crer Improvável a viagem. Compreendi isto depois que falei; quis emendar-me, mas nem soube como, nem ele me deu tempo.
 
@@ -1549,7 +1549,7 @@ Outra ideia, não, - um sentimento cruel e desconhecido, o pulo ciúme, leitor d
 
 — Sábado? Ah! sim! sim! Peça a mamãe que me mande buscar sábado! Sábado! Este sábado, não? Que me mande buscar, sem falta.
 
-### 63. METADES DE UM SONHO
+### 063 — Metades de um Sonho
 
 Fiquei ansioso pelo sábado.Até lá os sonhos perseguiam-me, ainda acordado, e não os digo aqui para não alongar esta parte do livro. Um só ponho, e no menor número de palavras, ou antes porei dous, porque um nasceu de outro, a não ser que ambos formem duas metades de um só. Tudo isto é obscuro, dona leitora, mas a culpa é do vosso sexo, que perturbava assim a adolescência de um pobre seminarista. Não fosse ele, e este livro seria talvez uma simples prática paroquial, se eu fosse padre, ou uma pastoral, se bispo, ou uma encíclica, se papa, como me recomendara tio Cosme: "Anda lá, meu rapaz, volta-me papa!" Ah! por que não cumpri esse desejo? Depois de Napoleão, tenente e imperador, todos os destinos estão neste século.
 
@@ -1557,7 +1557,7 @@ Quanto ao sonho foi isto. Como estivesse a espiar os peraltas da vizinhança, vi
 
 O interesse do que acabas de ler não está na matéria do sonho, mas nos esforços que fiz para ver se dormia novamente e pegava nele outra vez. Nunca dos nuncas poderás saber a energia e obstinação que empreguei em fechar os olhos, apertá-los bem, esquecer tudo para dormir, mas não dormia. Esse mesmo trabalho fez-me perder o sono até à madrugada. Sobre a madrugada, consegui conciliá-lo, mas então nem peraltas, nem bilhetes de loterias, nem sortes grandes ou pequenas,-nada dos nadas veio ter comigo. Não sonhei mais aquela noite, e dei mal as lições daquele dia.
 
-### 64. UMA IDEIA Eum ESCRÚPULO
+### 064 — Uma Ideia Eum Escrúpulo
 
 Relendo o Capítulo passado, acode-me uma ideia e um escrúpulo. O escrúpulo é justamente de escrever a ideia, não a havendo mais banal na terra, posto que daquela banalidade do sol e da lua, que o céu nos dá todos os dias e todos os meses. Deixei o manuscrito, e olhei para as paredes. Sabes que esta casa do Engenho Novo, nas dimensões, disposições e pinturas, é reprodução da minha antiga casa de Mata-cavalos. Outrossim, como te disse no Capítulo II, o meu fim em imitar a outra foi ligar as duas pontas da vida, o que aliás na alcancei. Pois o mesmo sucedeu àquele sonho do seminário, por mais que tentasse dormir e dormisse. Donde concluo que um dos oficiais do homem é fechar e apertar muito os olhos a ver se continua pela noite velha o sonho truncado da noite moça. Tal é a ideia banal e nova que eu não quisera pôr aqui e só provisoriamente a escrevo.
 
@@ -1565,7 +1565,7 @@ Antes de concluir este Capítulo, fui à janela indagar da noite por que razão 
 
 Era uma alusão às Filipinas. Pois que não amo a política,e ainda menos a política internacional, fechei a janela e vim acabar este capítulo para ir dormir. Não peço agora os sonhos de Luciano, nem outros, filhos da memória ou da digestão; basta-me um sono quieto e apagado. De manhã, com a fresca, irei dizendo o mais da minha história e suas pessoas.
 
-### 65. A DISSIMULAÇÃO
+### 065 — A Dissimulação
 
 Chegou Sábado, chegaram outros sábados, e eu acabei afeiçoando me à vida nova. Ia alternando a casa e o seminário. Os padres gostavam de mim, os rapazes também, e Escobar mais que os rapazes e os padres. No fim de cinco semanas estive quase a contar a este as minhas penas e esperanças; Capitu refreou-me.
 
@@ -1601,7 +1601,7 @@ Era isto mesmo, devíamos dissimular para matar qualquer suspeita, e ao mesmo te
 
 — Não é? disse ela com ingenuidade.
 
-### 66. INTIMIDADE
+### 066 — Intimidade
 
 Capitu ia agora entrando na alma de minha mãe. Viviam o mais do tempo juntas, falando de mim, a propósito do sol e da chuva, ou de nada; Capitu ia lá coser, às manhãs; alguma vez ficava para jantar. Prima Justina não acompanhava a parenta naquelas finezas, mas não tratava de todo mal a minha amiga. Era assaz sincera para dizer o mal que sentia de alguém, e não sentia bem de pessoa alguma Talvez do marido, mas o marido era morto; em todo caso, não existiria homem capaz de competir com ele na afeição, no trabalho e na honestidade, nas maneiras e na agudeza de espírito. Esta opinião, segundo tio Cosme, era póstuma, pois em vida andavam às brigas, e os últimos seis meses acabaram separados. Tanto melhor para a justiça dela; o louvor dos mortos é um modo de orar por eles. Também gostaria de minha mãe, ou se algum mal pensou dela foi entre si e o travesseiro. Compreende-se que, de aparência, lhe desse a estima devida. Não penso que ela aspirasse a algum legado-as pessoas assim dispostas excedem os serviços naturais, fazem-se mais risonhas, mais assíduas, multiplicam os cuidados, precedem os fâmulos. Tudo isso era contrário à natureza de prima Justina, feita de azedume e de implicância. Como vivesse de favor na casa, explica-se que não desestimasse a dona e calasse os seus ressentimentos, ou só dissesse mal dela a Deus e ao Diabo.
 
@@ -1609,7 +1609,7 @@ Caso tivesse ressentimentos de minha mãe,não era uma razão mais para detestar
 
 Como minha mãe adoecesse de uma febre, que a pôs às portas da morte, quis que Capitu lhe servisse de enfermeira. Prima Justina, posto que isto a aliviasse de cuidados penosos, não perdoou à minha amiga a intervenção. Um dia. perguntou- lhe se não tinha que fazer em casa, outro dia. rindo, soltou-lhe este epigrama: "Não precisa correr tanto; o que tiver de ser seu às mãos lhe há de ir".
 
-### 67. UM PECADO
+### 067 — Um Pecado
 
 Já agora não tiro a doente da cama sem contar o que se deu comigo. Ao cabo de cinco dias, minha mãe amanheceu tão transtornada que ordenou me mandassem buscar ao seminário. Em vão tio Cosme:
 
@@ -1643,7 +1643,7 @@ Enxuguei os olhos, posto que de todas as palavras de José Dias uma só me ficas
 
 Capitu, que estava na alcova, gostou de ver a minha entrada, os meus gestos, palavras e lágrimas, segundo me disse depois; mas não suspeitou naturalmente todas as causas da minha aflição. Entrando no meu quarto, pensei em dizer tudo a minha mãe, logo que ela ficasse boa, mas esta ideia não me mordia, era uma veleidade pura, uma ação que eu não faria nunca, por mais que o pecado me doesse Então levado do remorso, usei ainda uma vez do meu velho meio das promessas espirituais, e pedi a Deus que me perdoasse e salvasse a vida de minha mãe, e eu lhe rezaria dous mil padre-nossos. Padre que me lês, perdoa este recurso; foi a última vez que o empreguei A crise em que me achava, não menos que o costume e a fé, explica tudo. Eram mais dous mil; onde iam os antigos? Não paguei uns nem outros, mas saindo de almas cândidas e verdadeiras tais promessas são como a moeda fiduciária,-ainda que o devedor as não pague, valem a soma que dizem.
 
-### 68. ADIEMOS Avirtude
+### 068 — Adiemos a Virtude
 
 Poucos teriam animo de confessar aquele meu pensamento da Rua de Mata-cavalos. Eu confessarei tudo o que importar à minha história. Montaigne escreveu de si: ce ne sont pas mes gestes que j'escris, c'est moi, c'est mon essence. Ora, há só um modo de escrever a própria essência, é contá-la toda, o bem e o mal. Tal faço eu, à medida que me vai lembrando e convidando à construção ou reconstrução de mim mesmo. Por exemplo, agora que contei um pecado, diria com muito gosto alguma bela ação contemporânea, se me lembrasse, mas não me lembra; fica transferida a melhor oportunidade.
 
@@ -1651,13 +1651,13 @@ Nem perderás em esperar, meu amigo; ao contrário, acode-me agora que... Não s
 
 Pelo que me toca, é certo que nasci com alguns daqueles casais, e naturalmente ainda os possuo. Já me sucedeu, aqui no Engenho Novo, por estar uma noite com muita dor de cabeça, desejar que o trem da Central estourasse longe dos meus ouvidos e interrompesse a linha por muitas horas, ainda que morresse alguém; e no dia seguinte perdi o trem da mesma estrada, por ter ido dar a minha bengala a um cego que não trazia bordão. Voilà mes gestes, voilà mon essence.
 
-### 69. Amissa
+### 069 — A Missa
 
 Um dos gestos que melhor exprimem a minha essência foi a devoção com que corri no domingo próximo a ouvir missa em S.Antônio dos Pobres. O agregado quis ir comigo, e principiou a vestir-se, mas era tão lento nos suspensórios e nas presilhas, que não pude esperar por ele. Demais, eu queria estar só. Sentia necessidade de evitar qualquer conversação que me desviasse o pensamento do fim a que ia, e era reconciliar-me com Deus, depois do que se passou no Capítulo LXVII. Nem era só pedir-lhe perdão do pecado, era também agradecer o restabelecimento de minha mãe, e, visto que digo tudo, fazê-lo renunciar ao pagamento da minha promessa. Jeová, posto que divino, ou por isso mesmo, é um Rothschild muito mais humano, e não faz moratórias, perdoa as dívidas integralmente, uma vez que o devedor queira deveras emendar a vida e cortar nas despesas. Ora, eu não queria outra cousa; dali em diante não faria mais promessas que não pudesse pagar, e pagaria logo as que fizesse.
 
 Ouvi missa; ao levantar a Deus, agradeci a vida e saúde de minha mãe; depois pedi perdão do pecado e revelação da dívida, e recebi a bênção final do oficiante como um ato solene de reconciliação. No fim, lembrou-me que a Igreja estabeleceu no confessionário um cartório seguro, e na confissão o mais autêntico dos instrumentos para o ajuste de contas morais entre o homem e Deus. Mas a minha incorrigível timidez me fechou essa porta certa; receei não achar palavras com que dizer ao confessor o meu segredo. Como o homem muda! Hoje chego a publicá-lo.
 
-### 70. DEPOIS DA MISSA
+### 070 — Depois da Missa
 
 Rezei anda, persignei-me, fechei o livro de missa e caminhei para a porta. A gente não era muita, mas a igreja também não é grande, e não pude sair logo, logo, mas devagar. Havia homens e mulheres, velhos e moços, sedas e chitas, e provavelmente olhos feios e belos, mas eu não vi uns nem outros. Ia na direção da porta, com a onda, ouvindo as saudações e os cochichos. No adro, onde se fez claro, parei e olhei para todos. Vi então uma moça e um homem, que saíam da igreja e pararam; e a moça olhava para mim falando ao homem, e o homem olhava para mim, ouvindo a moça. E chegaram-me estas palavras:
 
@@ -1675,9 +1675,9 @@ Era sinhazinha Sancha, a companheira de colégio de Capitu que queria notícias 
 
 Sinhazinha Sancha, voltada para o pai, ouvia e esperava. Não ela feia; só se lhe podia notar a semelhança do nariz, que também acabava grosso, mas há feições que tiram a graça de uns para dá-la a outros. Vestia simples. Gurgel era viúvo e morria pela filha. Como eu recusasse o almoço, quis que descansasse alguns minutos. Não pude recusar e subi. Quis saber a minha idade, os meus estudos, a minha fé, e dava-me conselhos para o caso de vir a ser padre; disse me o número do armazém, Rua da Quitanda. Enfim, despedi-me veio ao patamar da escada; a filha deu-me recomendações para Capitu e para minha mãe. Da rua olhei para cima; o pai estava à janela e fez-me um gesto largo de despedida.
 
-## Capítulos 71 a 80
+## Capítulos 071 — 080
 
-### 71. VISITA DE ESCOBAR
+### 071 — Visita de Escobar
 
 Em casa, tinham já mentido dizendo a minha mãe que eu voltara e estava mudando de roupa.
 
@@ -1715,7 +1715,7 @@ Não é preciso dizer que era Capitu. São cousas que se adivinham na vida, como
 
 — É o Escobar, disse eu indo pôr-me embaixo da janela, a olhar para cima.
 
-### 72. UMA REFORMA DRAMÁTICA
+### 072 — Uma Reforma Dramática
 
 Nem eu, nem tu, nem ela, nem qualquer outra pessoa desta história poderia responder mais, tão certo é que o destino, como todos os dramaturgos, não anuncia as peripécias nem o desfecho. Eles chegam a seu tempo, até que o pano cai, apagam-se as luzes, e os espectadores vão dormir. Nesse gênero há porventura alguma cousa que reformar, e eu proporia, como ensaio, que as peças começassem pelo fim. Otelo mataria a si e a Desdêmona no primeiro ato, os três seguintes seriam dados à ação lenta e decrescente do ciúme, e o último ficaria só com as cenas iniciais da ameaça dos turcos, as explicações de Otelo e Desdêmona, e o bom conselho do fino lago: "Mete dinheiro na bolsa." Desta maneira, o espectador, por um lado, acharia no teatro a charada habitual que os periódicos lhe dão, por que os últimos atos explicam o desfecho do primeiro, espécie de: conceito, e, por outro lado, ia para a cama com uma boa impressão de ternura e de amor:
 
@@ -1723,7 +1723,7 @@ Ela amou o que me afligira,
 
 Eu amei a piedade dela.
 
-### 73. Ocontrarregra
+### 073 — O Contrarregra
 
 O destino não é só dramaturgo, é também o seu próprio contrarregra, isto é, designa a entrada dos personagens em cena, dá-lhes as cartas e outros objetos, e executa dentro os sinais correspondentes ao diálogo, uma trovoada, um carro, um tiro. Quando eu era moça representou-se aí, em não sei que teatro, um drama que acabar pelo juízo final. O principal personagem era Asaverus, que no último quadro concluía um monólogo por esta exclamação: "Ouço a trombeta do arcanjo!" Não se ouviu trombeta nenhuma. Asaverus, envergonhado, repetiu a palavra, agora mais alto, para advertir o contrarregra, mas ainda nada. Então caminhou para o fundo, disfarçadamente trágico, mas efetivamente com o fim de falar ao bastidor, e dizer em voz surda: "O pisão! o pisão! o pisão!" O público ouviu esta palavra e desatou a rir, até que, quando a trombeta soou deveras, e Asaverus bradou pela terceira vez que era a do arcanjo, um gaiato da plateia corrigiu cá de baixo: "Não, senhor, é o pistão do arcanjo"
 
@@ -1731,7 +1731,7 @@ Assim se explicam a minha estada debaixo da janela de Capitu e a passagem de um 
 
 Ora, o dandy do cavalo baio não passou como os outros; era a trombeta do juízo final e soou a tempo; assim faz o Destino. que é o seu próprio contrarregra. O cavaleiro não se contentou de ir andando, mas voltou a cabeça para o nosso lado, o lado de Capitu e olhou para Capitu, e Capitu para ele; o cavalo andava, a cabeça do homem deixava-se ir voltando para trás. Tal foi o segundo dente de ciúme que me mordeu. A rigor, era natural admirar as belas figuras; mas aquele sujeito costumava passar ali, às tardes; morava no antigo Campo da Aclamação, e depois... e depois... Vão lá raciocinar com um coração de brasa, como era o meu! Nem disse nada a Capitu; saí da rua à pressa, enfiei pelo meu corredor, e, quando dei por mim, estava na sala de visitas.
 
-### 74. Apresilha
+### 074 — A Presilha
 
 Na sala de visitas, tio Cosme e José Dias conversavam, um sentado, outro andando e parando. A vista de José Dias lembrou-me o que ele me dissera no seminário: "Aquilo enquanto não pegar algum peralta da vizinhança que case com ela..." Era certamente alusão ao cavaleiro. Tal recordação agravou a impressão que eu trazia da rua; mas não seria essa palavra, inconscientemente guardada, que me dispôs a crer na malícia dos seus olhares? A vontade que tive foi pegar em José Dias pela gola, levá-lo ao corredor e perguntar-lhe se falara de verdade ou por hipótese; mas José Dias, que parara ao ver-me entrar, continuou a andar e a falar. Eu, impaciente, queria ir à casa ao pé, imaginava que Capitu saísse da janela assustada e não tardasse a aparecer, para indagar e explicar... E os dous falavam, até que tio Cosme ergueu-se para ir ver a doente, e José Dias veio ter comigo, ao vão da outra janela.
 
@@ -1745,13 +1745,13 @@ Para não fitá-lo, deixei cair os olhos. Os olhos, caindo, viram que uma das pr
 
 José Dias inclinou-se, eu saí correndo.
 
-### 75. Odesespero
+### 075 — O Desespero
 
 Escapei ao agregado,escapei a minha mãe não indo ao quarto dela, mas não escapei a mim mesmo. Corri ao meu quarto, e entrei atrás de mim. Eu falava-me, eu perseguia-me, eu atirava-me à cama, e rolava comigo, e chorava, e abafava os soluços com a ponta do lençol. Jurei não ir ver Capitu aquela tarde, nem nunca mais, e fazer-me padre de uma vez. Via-me já ordenado, diante dela, que choraria de arrependimento e me pediria perdão, mas eu, frio e sereno, não teria mais que desprezo, muito desprezo; voltava-lhe as costas. Chamava-lhe perversa. Duas vezes dei por mim mordendo os dentes, como se a tivesse entre eles.
 
 Da cama ouvi a voz dela, que viera passar o resto da tarde com minha mãe, e naturalmente comigo, como das outras vezes; mas, por maior que fosse o abalo que me deu, não me fez sair do quarto e Capitu ria alto, falava alto, como se me avisasse; eu continuei surdo, a sós comigo e o meu desprezo. A vontade que me dava era cravar-lhe as unhas no pescoço, enterrá-las bem, até ver-lhe sair a vida com o sangue...
 
-### 76. EXPLICAÇÃO
+### 076 — Explicação
 
 Ao fim de algum tempo, estava sossegado, mas abatido. Como me achasse estirado na cama, com os olhos no teto, lembrou-me a recomendação que minha mãe fazia de me não deitar depois do jantar para evitar alguma congestão. Ergui-me de golpe, mas não saí do quarto. Capitu ria agora menos e falava mais baixo; estaria aflita E com a minha reclusão, mas nem por isso me abalou.
 
@@ -1769,11 +1769,11 @@ Ia casar, disse-me com quem, com uma moça da Rua dos Barbonos. Esta razão quad
 
 Consentiu em retirar a promessa, mas fez outra, e foi que, à primeira suspeita da minha parte, tudo estaria dissolvido entre nós Aceitei a ameaça, e jurei que nunca a haveria de cumprir; era a primeira suspeita e a última.
 
-### 77. PRAZER DAS DORES VELHAS
+### 077 — Prazer das Dores Velhas
 
 Contando aquela crise do meu amor adolescente, sinto uma cousa que não sei se explico bem, e é que as dores daquela quadra, a tal ponto se espiritualizaram com o tempo que chegam a diluir-se no prazer. Não é claro isto, mas nem tudo é claro na vida ou nos livros A verdade é que sinto um gosto particular em referir tal aborrecimento, quando é certo que ele me lembra outros que não quisera lembrar por nada.
 
-### 78. SEGREDO POR SEGREDO
+### 078 — Segredo por Segredo
 
 De resto,naquele mesmo tempo senti tal ou qual necessidade de contar a alguém o que se passava entre mim e Capitu. Não referi tudo, mas só uma parte, e foi Escobar que a recebeu. Quando voltei ao seminário, na quarta-feira, achei-o inquieto; disse-me que era sua intenção ir ver-me, se eu me demorasse mais um dia em casa. Perguntava-me com interesse o que é que tivera, e se estava bom de todo.
 
@@ -1837,13 +1837,13 @@ Que voltamos ao assunto, não é preciso dizê-lo. Voltamos uma e muitas vezes: 
 
 — Não é verdade? retorqui cheio de alvoroço.
 
-### 79. VAMOS AO CAPÍTULO
+### 079 — Vamos ao Capítulo
 
 Com efeito, gostei de ouvi-lo falar assim. Sabes a opinião que eu tinha de minha mãe. Ainda agora, depois de interromper esta linha para mirar-lhe o retrato que pende da parede, acho que trazia no rosto impressa aquela qualidade. Nem de outro modo se explica a opinião de Escobar, que apenas trocara com ela quatro palavras Uma só bastava a penetrar-lhe a essência íntima; sim, sim, minha mãe era adorável. Por mais que me estivesse então obrigando a uma carreira que eu não queria, não podia deixar de sentir que era adorável, como uma santa.
 
 E porventura era certo que me obrigava à carreira eclesiástica? Aqui chego a um ponto, que esperei viesse depois tanto que já pesquisava em que altura lhe daria um Capítulo. Realmente, não cabia dizer agora o que só mais tarde presumi descobrir, mas, uma vez que toquei no ponto, melhor é acabar com ele. É grave e complexo, delicado e sutil, um destes em que o autor tem de atender ao filho, e o filho há de ouvir o autor, para que um e outro digam a verdade, só a verdade, mas toda a verdade. Cabe ainda notar que esse ponto é que torna justamente a santa mais adorável, sem prejuízo (ao contrário!) da parte humana e terrestre que havia nela. Basta de prefácio ao Capítulo; vamos ao Capítulo.
 
-### 80. VENHAMOS AO CAPÍTULO
+### 080 — Venhamos ao Capítulo
 
 Venhamos ao Capítulo. Minha mãe era temente a Deus; sabes disto, das suas práticas religiosas, e da fé pura que as animava. Nem ignoras que a minha carreira eclesiástica era objeto de promessa feita quando fui concebido. Tudo está contado oportunamente. Outorgam, sabes que para o fim de apertar o vínculo moral da obrigação, confiou os seus projetos e motivos a parentes e familiares. A promessa, feita com fervor, aceita com misericórdia, foi guardada por ela, com alegria, no mais íntimo do coração. Penso que lhe senti o sabor da felicidade no leite que me deu a mamar. Meu pai, se vivesse, é possível que alterasse os planos, e, como tinha a vocação da política, é provável que me encaminhasse somente à política, embora os dous ofícios não fossem nem sejam inconciliáveis, e mais de um padre entre na luta dos partidos e no governo dos homens. Mas meu pai morrera sem saber nada, e ela ficou diante do contrato, como única devedora.
 
@@ -1859,9 +1859,9 @@ Hás de ter tido conflitos parecidos com esse, e, se és religioso, haverás bus
 
 Capitu era naturalmente o anjo da Escritura. A verdade é que minha mãe não podia tê-la agora longe de si. A afeição crescente era manifesta por atos extraordinários. Capitu passou a ser a flor da casa, o sol das manhãs, o frescor das tardes, a lua das noites; lá vivia horas e horas, ouvindo, falando e cantando. Minha mãe apalpava-lhe o coração, revolvia-lhe os olhos, e o meu nome era entre ambas como a senha da vida futura.
 
-## Capítulos 81 a 90
+## Capítulos 081 — 090
 
-### 81. UMA PALAVRA
+### 081 — Uma Palavra
 
 Assim contado o que descobri mais tarde, posso trasladar para aqui uma palavra de minha mãe. Agora se entenderá que ela me dissesse, no primeiro sábado, quando eu cheguei a casa, e soube que Capitu estava na Rua dos Inválidos, com sinhazinha Gurgel:
 
@@ -1885,7 +1885,7 @@ O pai de Sancha recebeu-me em desalinho e triste. A filha estava enferma; caíra
 
 Capitu trazia sinais de fadiga e comoção, mas tão depressa me viu, ficou toda outra, a mocinha de sempre, fresca e lepida, não menos que espantada. Custou-lhe a crer que fosse eu. Falou-me, quis que lhe falasse, e efetivamente conversamos por alguns minutos, mas são tão baixo e abafado que nem as paredes ouviram, elas que têm ouvidos. De resto, se elas ouviram algo, nada entenderam, nem elas nem os móveis, que estavam tão tristes como o dono.
 
-### 82. O CANAPÉ
+### 082 — O Canapé
 
 Deles, só o canapé pareceu haver compreendido a nossa situação moral, visto que nos ofereceu os serviços da sua palhinha, com tal insistência que os aceitamos e nos sentamos. Data daí a opinião particular que tenho do canapé. Ele faz aliar a intimidade e o decoro, e mostra a casa toda sem sair da sala. Dous homens sentados nele podem debater o destino de um império, e duas mulheres a graça de um vestido- mas, um homem e uma mulher só por aberração das leis naturais dirão outra cousa que não seja de si mesmos. Foi o que fizemos, Capitu e eu. Vagamente lembra-me que lhe perguntei se a demora ali seria grande...
 
@@ -1899,7 +1899,7 @@ E acrescentou com os olhos, que brilhavam extraordinariamente.
 
 Repeti estas palavras, com os simples dedos, apertando os dela. O canapé, quer visse ou não, continuou a prestar os seus serviço às nossas mãos presas e às nossas cabeças juntas ou quase juntas.
 
-### 83. Oretrato
+### 083 — O Retrato
 
 Gurgel tornou à sala e disse a Capitu que a filha chamava por ela. Eu levantei-me depressa e não achei compostura; metia os olhos pelas cadeiras. Ao contrário, Capitu ergueu-se naturalmente e perguntou-lhe se a febre aumentará.
 
@@ -1915,7 +1915,7 @@ Um dos costumes da minha vida foi sempre concordar com a opinião provável do m
 
 — Finalmente, até a amizade que ela tem a Sanchinha; a mãe não era mais amiga dela... Na vida há dessas semelhanças assim esquisitas.
 
-### 84. CHAMADO
+### 084 — Chamado
 
 No saguão e na rua, examinei ainda comigo se efetivamente ele teria desconfiado alguma cousa, mas achei que não e pus-me a andar. Ia satisfeito com a visita, com a alegria de Capitu, com os louvores de Gurgel, a tal ponto que não acudi logo a uma voz que me chamava:
 
@@ -1933,7 +1933,7 @@ Custa-me dizer isto, mas antes peque por excessivo que por diminuto. Quis respon
 
 Não culpo ao homem; para ele, a cousa mais importante do momento era o filho. Mas também não me culpem a mim; para mim, a cousa mais importante era Capitu. O mal foi que os dous casos se conjugassem na mesma tarde, e que a morte de um viesse meter o nariz na vida do outro. Eis o mal todo. Se eu passasse antes ou depois, ou se o Manduca esperasse algumas horas para morrer, nenhuma nota aborrecida viria interromper as melodias da minha alma. Por que morrer exatamente há meia hora? Toda hora é apropriada ao óbito; morre-se muito bem às seis ou sete horas da tarde.
 
-### 85. Odefunto
+### 085 — O Defunto
 
 Tal foi o sentimento confuso com que entrei na loja de louça. A loja era escura, e o interior da casa menos luz tinha, agora que as janelas da área estavam cerradas. A um canto da sala de jantar vi a mãe chorando; à porta da alcova duas crianças olhavam espantadas para dentro, com o dedo na boca. O cadáver jazia na cama; a cama...
 
@@ -1947,11 +1947,11 @@ Verdade é que o outro Manduca era mais velho.Teria dezoito ou dezenove anos, ma
 
 Eu cuidei de sair, disse que era esperado em casa, e despedi-me O pai perguntou-me se lhe faria o favor de ir ao enterro; respondi com a verdade, que não sabia, faria o que minha mãe quisesse. E rápido saí, atravessei a loja, e saltei à rua.
 
-### 86. AMAI, RAPAZES!
+### 086 — Amai, Rapazes!
 
 Era tão perto, que antes de três minutos me achei em casa. Parei no corredor, a tomar fôlego- buscava esquecer o defunto, pálido e disforme, e o mais que não disse para não dar a estas páginas um aspecto repugnante, mas podes imaginá-lo. Tudo arredei da vista, em poucos segundos; bastou-me pensar na outra casa, e mais na vida e na cara fresca e lépida de Capitu... Amai, rapazes! e, principalmente, amai moças lindas e graciosas; elas dão remédio ao mal, aroma ao infecto, trocam a morte pela vida... Amai, rapazes!
 
-### 87. Asege
+### 087 — A Sege
 
 Chegara ao último degrau,e uma ideia me entrou no cérebro, como se estivesse a esperar por mim, entre as grades da cancela. Ouvi de memória as palavras do pai de Manduca pedindo-me que fosse ao enterro no dia seguinte. Parei no degrau. Refleti um instante; sim, podia ir ao enterro, pediria a minha mãe que me alugasse um carro...
 
@@ -1977,7 +1977,7 @@ E em pé, quando era mais pequeno, metia a cara no vidro, e via o cocheiro com a
 
 A sege ia tanto com a vida recôndita de minha mãe, que quando já não havia nenhuma outra, continuamos a andar nela, e era conhecida na rua e no bairro pela "sege antiga." Afinal minha mãe consentiu em deixá-la, sem a vender logo; só abriu mão dela porque as despesas de cocheira a obrigaram a isso. A razão de a guardar inútil foi exclusivamente sentimental; era a lembrança do marido. Tudo o que vinha de meu pai era conservado como um pedaço dele, um resto da pessoa, a mesma alma integral e pura. Mas o uso, esse era filho também do carrancismo que ela confessava aos amigos. Minha mãe exprimia bem a fidelidade aos velhos hábitos, velhas maneiras, velhas ideias, velhas modas. Tinha o seu museu de relíquias, pentes desusados, um trecho de mantilha; umas moedas de cobre datadas de 1824 e 1825, e, para que tudo fosse antigo, a si mesma se queria fazer velha; mas já deixei dito que, neste ponto, não alcançava tudo o que queria.
 
-### 88. UM PRETEXTO HONESTO
+### 088 — Um Pretexto Honesto
 
 Não, a ideia de ir ao enterro não vinha da lembrança do carro e suas doçuras. A origem era outra: era porque, acompanhando o enterro no dia seguinte, não iria ao seminário, e podia fazer outra visita a Capitu, um tanto mais demorada. Bis aí o que era. A lembrança do carro podia vir acessoriamente depois, mas a principal e imediata foi aquela. Voltaria à Rua dos Inválidos, a pretexto de saber de sinhazinha Gurgel. Contava que tudo me saísse como naquele dia. Gurgel aflito, Capitu comigo no canapé, as mãos presas, o penteado...
 
@@ -1987,7 +1987,7 @@ Abri a cancela. Antes de transpô-la, assim como ouvira da memória a palavra do
 
 — Coitado de Manduca!
 
-### 89. Areclusa
+### 089 — A Reclusa
 
 Minha Mãe ficou perplexa quando lhe pedi para ir ao enterro.
 
@@ -2001,7 +2001,7 @@ Fiz-lhe notar a amizade que o Manduca me tinha, e depois era gente pobre... Tudo
 
 Prima Justina venceu. Quando referi o caso ao agregado, este sol riu, e disse-me que o motivo escondido da prima era provavelmente não dar ao enterro "o lustre da minha pessoa". Fosse o que fosse, fiquei amuado; no dia seguinte, pensando no motivo, não me desagradou; mais tarde achei-lhe um sabor particular.
 
-### 90. A POLÊMICA
+### 090 — A Polêmica
 
 No dia seguinte, passei pela casa do defunto, sem entrar nem parar - ou, se parei, foi só um instante, ainda mais breve que este em que vo-lo digo. Se me não engano, andei até mais depressa, receando que me chamassem como na véspera. Uma vez que não ia ao enterro antes longe que próximo. Fui andando e pensando no pobre-diabo.
 
@@ -2031,19 +2031,19 @@ Fui eu que cansei primeiro.Comecei a demorar as respostas, até que não dei mai
 
 Não entraram, efetivamente, nem então, nem depois, nem até agora. Mas a predição será eterna? Não chegarão a entrar algum dia? Problema difícil. O próprio Manduca, para entrar na sepultura, gastou três anos de dissolução, tão certo é que a natureza, como a história, não se faz brincando. A vida dele resistiu como a Turquia se afinal cedeu foi porque lhe faltou uma aliança como a anglo-francesa, não se podendo considerar tal o simples acordo da medicina e da farmácia. Morreu afinal, como os Estados morrem; r nosso caso particular, a questão é saber, não se a Turquia morre porque a morte não poupa a ninguém, mas se os russos entrara algum dia em Constantinopla; essa era a questão para o meu vizinho leproso, debaixo da triste, rota e infecta colcha de retalhos...
 
-## Capítulos 91 a 100
+## Capítulos 091 — 100
 
-### 91. ACHADO QUE CONSOLA
+### 091 — Achado que Consola
 
 É claro que as reflexões que aí deixo não foram feitas então, a caminho do seminário, mas agora no gabinete do Engenho Novo Então não fiz propriamente nenhuma, a não ser esta: que servi de alívio um dia ao meu vizinho Manduca. Hoje pensando melhor, acho que não só servi de alívio, mas até lhe dei felicidade. E o achado consola-me; já agora não esquecerei mais que dei dous ou três meses de felicidade a um pobre-diabo, fazendo-lhe esquecer o mal e o resto. É alguma cousa na liquidação da minha vida. Se há no outro mundo tal ou qual prêmio para as virtudes sem intenção, esta pagará um ou dous dos meus muitos pecados. Quanto ao Manduca, não creio que fosse pecado opinar contra a Rússia, mas, se era, ele estará purgando há quarenta anos a felicidade que alcançou em dous ou três meses, - donde concluirá (já tarde) que era ainda melhor haver gemido somente, sem opinar cousa nenhuma.
 
-### 92. Odiabo NÃO É TÃO FEIO COMO SE PINTA
+### 092 — O Diabo Não É Tão Feio como Se Pinta
 
 Manduca enterrou-se sem mim. A muitos outros aconteceu a mesma cousa, sem que eu sentisse nada, mas este caso afligiu-me particular mente pela razão já dita. Também senti não sei que melancolia ao recordar a primeira polêmica da vida, o gosto com que ele recebia os meus papéis e se propunha a refutá-los, não contando o gosto do carro... Mas o tempo apagou depressa todas essas saudades e ressurreições. Nem foi só ele; duas pessoas vieram ajudá-lo, Capitu, cuja imagem dormiu comigo na mesma noite, e outra que direi no Capítulo que vem. O resto deste Capítulo é só para pedir que, se alguém tiver de ler o meu livro com alguma atenção mais da que lhe exigir o preço do exemplar, não deixe de concluir que o Diabo não é tão feio como se pinta. Quero dizer...
 
 Quero dizer que o meu vizinho de Mata-cavalos,temperando o mal com a opinião antirrussa, dava à podridão das suas carnes um reflexo espiritual que as consolava. Há consolação maiores, decerto e uma das mais excelentes é não padecer esse nem outro mal algumas a natureza é tão divina que se diverte com tais contrastes, e aos mais nojentos ou mais aflitos acena com uma flor. E talvez saia assim a flor mais bela, o meu jardineiro afirma que as violetas, para terem um cheiro superior, hão mister de estrume de porco. Não examinei, mas deve ser verdade.
 
-### 93. UM AMIGO POR UM DEFUNTO
+### 093 — Um Amigo por um Defunto
 
 Quanto à outra pessoa que teve a força obliterativa, foi o meu colega Escobar que no domingo, antes do meio-dia, veio ter a Mata-cavalos. Um amigo supria assim um defunto, e tal amigo que durante cerca de cinco minutos esteve com a minha mão entre as suas, como se me não visse desde longos meses.
 
@@ -2113,7 +2113,7 @@ Com efeito, eram diferentes letras, e só então reparei nisto; apontei ainda ou
 
 Caminhamos para o fundo.Passamos o lavadouro; ele parou um instante aí, mirando a pedra de bater roupa e fazendo reflexões a propósito do asseio; depois continuamos. Quais foram as reflexões não me lembra agora; lembra-me só que as achei engenhosas, e ri, ele riu também. A minha alegria acordava a dele, e o céu estava tão azul, e o ar tão claro, que a natureza parecia rir também conosco. São assim as boas horas deste mundo. Escobar confessou esse acordo do interno com o externo, por palavras tão finas e altas que me comoveram; depois, a propósito da beleza moral que se ajusta à física, tornou a falar de minha mãe, "um anjo dobrado", disse ele.
 
-### 94. IDEIAS ARITMÉTICAS
+### 094 — Ideias Aritméticas
 
 Não digo o mais, que foi muito. Nem ele sabia só elogiar é pensar, sabia também calcular depressa e bem. Era das cabeças aritméticas de Holmes (2 + 2 = 4). Não se imagina a facilidade com que ele somava ou multiplicava de cor. A divisão que foi sempre uma das operações difíceis para mim, era para ele como nada: cerrava um pouco os olhos, voltados para cima, e sussurrava as denominações dos algarismos: estava pronto. Isto com sete, treze, vinte algarismos. A vocação era tal que o fazia amar os próprios sinais das somas, e tinha esta opinião que os algarismos, sendo poucos, eram muito mais conceituosos que as vinte e cinco letras do alfabeto.
 
@@ -2145,7 +2145,7 @@ Escobar observou-me que os outros e o padre falavam de inveja e propôs-me viver
 
 Escobar apertou-me a mão às escondidas, com tal força que ainda me doem os dedos. É ilusão, decerto, se não é efeito das longas horas que tenho estado a escrever sem parar. Suspendamos a pena por alguns instantes...
 
-### 95. Opapa
+### 095 — O Papa
 
 A amizade de Escobar fez-se grande e fecunda; a de José Dias não lhe quis ficar atrás. Na primeira semana disse-me este em casa:
 
@@ -2183,7 +2183,7 @@ Rigorosamente, eram duas pessoas, Capitu e Escobar, mas eu neguei a pés juntos 
 
 Não digo mais, porque é preciso acabar o capítulo, e ele não acabou o discurso. Falou a todos os meus sentimentos de católico e de namorado. Vi a alma aliviada de minha mãe, vi a alma feliz de Capitu, ambas em casa, e eu com elas, e ele conosco, tudo mediante uma pequena viagem a Roma, que eu só geograficamente sabia onde ficava; espiritualmente, também, mas a distancia que estaria da vontade de Capitu é que não. Eis o ponto essencial. Se Capitu achasse longe, não iria; mas era preciso ouvi-la, e assim também a Escobar, que me daria um bom conselho.
 
-### 96. Osubstituto
+### 096 — O Substituto
 
 Expus a Capitu a ideia de José Dias. Ouviu-me atentamente. e acabou triste.
 
@@ -2243,13 +2243,13 @@ Sentia-me pilhérico. Oh! como a esperança alegra tudo. Escobar sorriu, parecen
 
 — Ainda uma vez, disse ele gravemente, a religião e a liberdade fazem boa companhia.
 
-### 97. A SAÍDA
+### 097 — A Saída
 
 Tudo se fez por esse teor. Minha mãe hesitou um pouco, mas acabou cedendo, depois que o Padre Cabral, tendo consultado o bispo. voltou a dizer-lhe que sim, que podia ser. Saí do seminário no fim to ano.
 
 Tinha então pouco mais de dezessete... Aqui devia ser o meio do livro, mas a inexperiência fez-me ir atrás da pena, e chego quase ao fim do papel, com o melhor da narração por dizer. Agora não há mais que levá-la a grandes pernadas, capítulo sobre capítulo, pousa emenda, pouca reflexão, tudo em resumo. Já esta página vale por meses, outras valerão por anos, e assim chegaremos ao fim. Um dos sacrifícios que faço a esta dura necessidade é a análise das minhas emoções dos dezessete anos. Não sei se alguma vez tiveste dezessete anos. Se sim, deves saber que é a idade em que a metade do homem e a metade do menino formam um só curioso. Eu era um curiosíssimo, diria o meu agregado José Dias, e não diria mal. O que essa qualidade superlativa me rendeu não poderia nunca dizê-lo aqui, sem cair no erro que acabo de condenar; a análise das minhas emoções daquele tempo é que entrava no meu plano. Posto que filho do seminário e de minha mãe, sentia já, debaixo do recolhimento casto, uns assomos de petulância e de atrevimento; eram do sangue, mas eram também das moças que na rua ou da janela não me deixavam viver sossegado. Achavam-me lindo, e diziam-mo; algumas queriam mirar de mais perto a minha beleza, e a vaidade é um princípio de corrupção.
 
-### 98. CINCO ANOS
+### 098 — Cinco Anos
 
 Venceu a razão; fui-me aos estudos.
 
@@ -2261,7 +2261,7 @@ Escobar começava a negociar em café depois de haver trabalhado quatro anos em 
 
 A separação não nos esfriou. Ele foi o terceiro na troca das cartas entre mim e Capitu. Desde que a viu animou-me muito no nosso amor. As relações que travou com o pai de Sancha estreitaram as que já trazia com Capitu, e fê-lo servir a ambos nós, como amigo. A princípio, custou-lhe a ela aceitá-lo, preferia José Dias, mas José Dias repugnava-me por um resto de respeito de criança. Venceu Escobar posto que vexada, Capitu entregou-lhe a primeira carta, que foi mãe e avó das outras. Nem depois de casado suspendeu ele o obséquio... Que ele casou,-adivinha com quem,-casou com a boa Sancha a amiga de Capitu, quase irmã dela, tanto que alguma vez, escrevendo-me, chamava a esta a "sua cunhadinha." Assim se formam as afeições e os parentescos, as aventuras e os livros.
 
-### 99. Ofilho É Acara DO PAI
+### 099 — O Filho É a Cara do Pai
 
 Minha mãe, quando eu regressei bacharel quase estalou de felicidade Ainda ouço a voz de José Dias, lembrando o evangelho de São João, e dizendo ao ver-nos abraçados:
 
@@ -2283,7 +2283,7 @@ Minha mãe, entre lágrimas:
 
 E minha mãe beijava-me com uma ternura que não sei escrever Tio Cosme, para alegrá-la, chamava-me doutor, José Dias também, e todos em casa, a prima, os escravos, as visitas, Pádua, a filha, e ela mesma repetiam-me o título.
 
-### 100. "TU SERÁS FELIZ, BENTINHO"
+### 100 — "Tu Serás Feliz, Bentinho"
 
 No quarto, desfazendo a mala e tirando a carta de bacharel de dentro da lata, ia pensando na felicidade e na glória. Via o casamento e a carreira ilustre, enquanto José Dias me ajudava calado e zeloso. Uma fada invisível desceu ali, e me disse em voz igualmente macia e cálida: "Tu serás feliz, Bentinho; tu vais ser feliz."
 
@@ -2323,15 +2323,15 @@ Ainda agora sou capaz de jurar que a voz era da fada; naturalmente as fadas, exp
 
 Não ouvi o resto. Ouvia só a voz da minha fada interior, que me repetia mas já então sem palavras: "Tu serás feliz, Bentinho!" E a voz de Capitu me disse a mesma cousa, com termos diversos, e assim também a de Escobar, os quais ambos me confirmaram a notícia de José Dias pela sua própria impressão. Enfim, minha mãe, algumas semanas depois, quando lhe fui pedir licença para casar, além do consentimento, deu-me igual profecia, salva a redação própria de mãe: "Tu serás feliz, meu filho!
 
-## Capítulos 101 a 110
+## Capítulos 101 — 110
 
-### 101. NO CÉU
+### 101 — No Céu
 
 Pois sejamos felizes de uma vez, antes que o leitor pegue em si, morto de esperar, e vá espairecer a outra parte; casemo-nos. Foi em 1865, uma tarde de março, por sinal que chovia. Quando chegamos ao alto da Tijuca, onde era o nosso ninho de noivos, o céu recolheu a chuva e acendeu as estrelas, não só as já conhecidas, mas ainda as que só serão descobertas daqui a muitos séculos. Foi grande fineza e não foi única. S. Pedro, que tem as chaves do céu, abriu-nos as portas dele, fez-nos entrar, e depois de tocar-nos com o báculo, recitou alguns versículos da sua primeira epístola: "As mulheres sejam sujeitas a seus maridos... Não seja o adorno delas o enfeite dos cabelos riçados ou as rendas de ouro, mas o homem que está escondido no coração... Do mesmo modo, vós, maridos, coabitai com elas, tratando-as com honra, como a vasos mais fracos, e herdeiras convosco da graça da vida..." Em seguida, fez sinal aos anjos, e eles entoaram um trecho do cântico, tão concertadamente, que desmentiriam a hipótese do tenor italiano, se a execução fosse na terra; mas era no céu. A música ia com o texto, como se houvessem nascido juntos, à maneira de uma ópera de Wagner. Depois, visitamos uma parte daquele lugar infinito. Descansa que não farei descrição alguma, nem a língua humana possui formas idôneas para tanto.
 
 Ao cabo, pode ser que tudo fosse um sonho, nada mais natural a um ex-seminarista que ouvir por toda a parte latim e Escritura. A verdade que Capitu, que não sabia escritura nem latim, decorou algumas palavras, como estas, por exemplo: "Sentei-me à sombra daquele que tanto havia desejado." Quanto às de S. Pedro, disse-me no dia seguinte que estava por tudo, que eu era a única renda e o único enfeite que jamais poria em si. Ao que eu repliquei que a minha esposa teria sempre as mais finas rendas deste mundo.
 
-### 102. DE CASADA
+### 102 — De Casada
 
 Imagina um relógio que só tivesse pêndulo, sem mostrador, de maneira que não se vissem as horas escritas. O pêndulo iria de um lado para outro mas nenhum sinal externo mostraria a marcha do tempo. Tal foi aquela semana da Tijuca.
 
@@ -2353,11 +2353,11 @@ Peguei-lhe no riso e na palavra, mas a impaciência continuou, e descemos com so
 
 A alegria com que pôs o seu chapéu de casada, e o ar de casada com que me deu a mão para entrar e sair do carro, e o braço para andar na rua, tudo me mostrou que a causa da impaciência de Capitu eram os sinais exteriores do novo estado. Não lhe bastava ser casada entre quatro paredes e algumas árvores; precisava do resto do mundo também. E quando eu me vi embaixo, pisando as ruas com ela, parando, olhando, falando, senti a mesma cousa. Inventava passeios para que me vissem, me confirmassem e me invejassem. Na rua, muitos voltavam a cabeça curiosos, outros paravam, alguns perguntavam: "Quem são?" e um sabido explicava: "Este é o Doutor Santiago, que casou há dias com aquela moça, D.Capitolina, depois de uma longa paixão de crianças; moram na Glória, as famílias residem em Mata-cavalos." E ambos os dous: "A uma mocetona!"
 
-### 103. Afelicidade TEM BOA ALMA
+### 103 — A Felicidade Tem Boa Alma
 
 Mocetona é vulgar; José Dias achou melhor. Foi a única pessoa cá de baixo que nos visitou na Tijuca, levando abraços dos nossos e palavras suas, mas palavras que eram músicas verdadeiras; não as ponho aqui para ir poupando papel, mas foram deliciosas. Um dia. comparou-nos a aves criadas em dous vãos de telhados contíguos. Imagina o resto, as aves emplumando as asas e subindo ao céu, e o céu agora mais largo para poder contê-las também. Nenhum de nós riu, ambos escutávamos comovidos e convencidos, esquecendo tudo, desde a tarde de 1858... A felicidade tem boa alça.
 
-### 104. AS PIRÂMIDES
+### 104 — As Pirâmides
 
 José Dias dividia-se agora entre mim e minha mãe, alternando os jantares da Glória com os almoços de Mata-cavalos. Tudo corria bem. Ao fim de dous anos de casado, salvo o desgosto grande de não ter um filho, tudo corria bem. Perdera meu sogro, é verdade, e o tio Cosme estava por pouco, mas a saúde de minha mãe era boa; a nossa excelente.
 
@@ -2375,7 +2375,7 @@ Escobar e a mulher viviam felizes, tinham uma filhinha. Em tempo ouvi falar de u
 
 Não vinha. Capitu pedia-o em suas orações, eu mais de uma vez dava por mim a rezar e a pedi-lo. Já não era como em criança; agora pagava antecipadamente, como os aluguéis da casa.
 
-### 105. OS BRAÇOS
+### 105 — Os Braços
 
 No mais,tudo corria bem. Capitu gostava de rir e divertir-se, e, nos primeiros tempos, quando íamos a passeios ou espetáculos, era como um pássaro que saísse da gaiola. Arranjava-se com graça e modéstia. Embora gostasse de joias, como as outras moças, não queria que eu lhe comprasse muitas nem caras, e um dia afligiu-se tanto que prometi não comprar mais nenhuma; mas foi só por pouco tempo.
 
@@ -2389,7 +2389,7 @@ Eram belos, e na primeira noite que os levou nus a um baile, não creio que houv
 
 Nem por isso deixei de contar a Capitu a aprovação de Escobar. Ela sorriu e respondeu que os braços de Sanchinha eram mal feitos, mas cedeu depressa, e não foi ao baile; a outros foi, mas levou-os meio vestidos de escumilha ou não sei que, que nem cobria nem descobria inteiramente, como o cendal de Camões.
 
-### 106. DEZ LIBRAS ESTERLINAS
+### 106 — Dez Libras Esterlinas
 
 Já disse que era poupada, ou fica dito agora, e não só de dinheiro mas também de cousas usadas, dessas que se guardam por tradição, por lembrança ou por saudade. Uns sapatos, por exemplo, uns sapatinhos rasos de fitas pretas que se cruzavam no peito do pé e princípio da perna, os últimos que usou antes de calçar botinas, trouxe-os para casa, e tirava-os de longe em longe da gaveta da cômoda, com outras velharias, dizendo-me que eram pedaços de criança. Minha mãe, que tinha o mesmo gênio, gostava de ouvir falar e fazer assim.
 
@@ -2451,7 +2451,7 @@ Eu, depois de alguns instantes de reflexão:
 
 Escobar concordou de cabeça, mas sem entusiasmo, como quem sentia não poder dizer o mesmo da mulher. Assim pensarias m também, tão certo é que as virtudes das pessoas próximas nos dão te ou qual vaidade, orgulho ou consolação.
 
-### 107. CIÚMES DO MAR
+### 107 — Ciúmes do Mar
 
 Se não fosse a astronomia, não descobriria eu tão cedo as dez libras de Capitu; mas não é por isso que torno a ela, é para que não cuides que a vaidade de professor é que me fez padecer com a desatenção de Capitu e ter ciúmes do mar. Não, meu amigo. Venho explicar-te que tive tais ciúmes pelo que podia estar na cabeça de minha mulher, não fora ou acima dela. É sabido que as distrações de uma pessoa podem ser culpadas, metade culpadas, um terço, um quinto, um décimo de culpadas, pois que em matéria de culpa a graduação é infinita. A recordação de uns simples olhos basta para fixar outros que os recordem e se deleitem com a imaginação deles. Não é mister pecado efetivo e mortal, nem papel trocado, simples palavra, aceno, suspiro ou sinal ainda mais miúdo e leve. Um anônimo ou anônima que passe na esquina da rua faz com que metamos Sírius dentro de Marte, e tu sabes, leitor, a diferença que há de um a outro na distancia e no tamanho, mas a astronomia tem dessas confusões. Foi isto que me fez empalidecer, calar e querer fugir da sala para voltar, Deus sabe quando; provavelmente, dez minutos depois. Dez minutos depois, estaria eu outra vez na sala, ao piano ou à janela, continuando a lição interrompida:
 
@@ -2461,7 +2461,7 @@ Tão pouco tempo? Sim,tão pouco tempo, dez minutos. Os meus ciúmes eram intens
 
 A verdade é que fiquei mais amigo de Capitu, se era possível, ela ainda mais meiga, o ar mais brando, as noites mais claras, e Deus mais Deus. E não foram propriamente as dez libras esterlinas que fizeram isto, nem o sentimento de economia que revelavam e que eu conhecia, mas as cautelas que Capitu empregou para o fim de descobrir-me um dia o cuidado de todos os dias. Escobar também se me fez mais pegado ao coração. As nossas visitas foram-se tornando mais próximas, e as nossas conversações mais íntimas.
 
-### 108. UM FILHO
+### 108 — Um Filho
 
 Pois nem tudo isso me matava a sede de um filho, um triste menino que fosse, amarelo e magro, mas um filho, um filho próprio da minha pessoa. Quando íamos a Andaraí e víamos a filha de Escobar e Sancha, familiarmente Capituzinha, por diferençá-la de minha mulher, visto que lhe deram o mesmo nome à pia, ficávamos cheios de invejas. A pequena era graciosa e gorducha, faladeira e curiosa. Os pais, como os outros pais, contavam as travessuras e agudezas da menina, e nós, quando voltávamos à noite para a Glória, vínhamos suspirando as nossas invejas, e pedindo mentalmente ao céu que no-las matasse...
 
@@ -2495,13 +2495,13 @@ E, voltando-se para mim:
 
 Contei discretamente a anedota a Escobar, para que ele me compreendesse e desculpasse; riu-se e não se magoou. Fez mais, quis que o almoço do batizado fosse na chácara dele, e foi. Eu ainda tentei espaçar a cerimônia a ver se tio Cosme sucumbia primeiro à doença, mas parece que esta era mais de aborrecer que de matar. Não houve remédio senão levar o menino à pia, onde se lhe deu o nome de Ezequiel; era o de Escobar, e eu quis suprir deste modo a falta de compadrio.
 
-### 109. UM FILHO ÚNICO
+### 109 — Um Filho Único
 
 Ezequiel, quando começou o capítulo anterior,não era ainda gerado; quando acabou era cristão e católico. Este outro é destinado a fazer chegar o meu Ezequiel aos cinco anos, um rapagão bonito, com os seus olhos claros, já inquietos, como se quisessem namorar todas as moças da vizinhança, ou quase todas.
 
 Agora, se considerares que ele foi único, que nenhum outro veio, certo nem incerto, morto nem vivo, um só e único, imaginarás os cuidados que nos deu, os sonos que nos tirou, e que sustos nos meteram as crises dos dentes e outras, a menor febrícula, toda a existência comum das crianças. A tudo acudíamos, segundo cumpria e urgia, cousa que não era necessário dizer, mas há leitores tão obtusos, que nada entendem, se lhes não relata tudo e o resto. Vamos ao resto.
 
-### 110. RASGOS DA INFÂNCIA
+### 110 — Rasgos da Infância
 
 O resto come-me ainda muitos capítulos;há vidas que os têm menos, e fazem-se ainda assim completas e acabadas.
 
@@ -2555,15 +2555,15 @@ Capitu quis também ver o filho; acompanhei-os. Efetivamente, era um gato e um r
 
 Os dous riram-se; eu mesmo achei-lhe graça.
 
-## Capítulos 111 a 120
+## Capítulos 111 — 120
 
-### 111. CONTADO DEPRESSA
+### 111 — Contado Depressa
 
 Achei-lhe graça, e não lhe nego ainda agora, apesar do tempo passado, dos sucessos ocorridos, e da tal ou qual simpatia ao rato que acho em mim; teve graça. Não me pesa dizê-lo; os que amam a natureza como ela quer ser amada, sem repúdio parcial nem exclusões injustas, não acham nela nada inferior. Amo o rato, não desamo o gato. Já pensei em os fazer viver juntos, mas vi que são incompatíveis. Em verdade, um rói-me os livros, outro o queijo; mas não é muito que eu lhes perdoe, se já perdoei a um cachorro que me levou o descanso em piores circunstancias. Contarei o caso depressa.
 
 Foi quando nasceu Ezequiel; a mãe estava com febre, Sancha vivia ao pé dela, e três cães na rua latiam toda a noite. Procurei o fiscal, e foi como se procurasse o leitor, que só agora sabe disto. Então resolvi matá-los; comprei veneno, mandei fazer três bolas de carne, e eu mesmo inseri nelas a droga. De noite, saí; era uma hora; nem a doente. nem a enfermeira podiam dormir, com a bulha dos cães. Quando eles me viram, afastaram-se, dous desceram para o lado da Praia do Flamengo, um ficou a curta distancia, como que esperando. Fui-me a ele, assobiando e dando estalinhos com os dedos. O diabo ainda latiu, mas fiado nos sinais de amizade, foi-se calando, até que se calou de todo. Como eu continuasse, ele veio a mim, devagar, mexendo a cauda, que é o seu modo de rir deles; eu tinha já na mão as bolas envenenadas, e ia deitar-lhe uma delas, quando aquele riso especial, carinho, confiança ou o que quer que seja, me atou a vontade; fiquei assim não sei como, tocado de pena e guardei as bolas no bolso. Ao leitor pode parecer que foi o cheiro da carne que remeteu o cão ao silêncio. Não digo que não; eu cuido que ele não me quis atribuir perfídia ao gesto, e entregou-se-me. A conclusão é que se livrou.
 
-### 112. AS IMITAÇÕES DE EZEQUIEL
+### 112 — As Imitações de Ezequiel
 
 Tal não faria Ezequiel. Não comporia bolas envenenadas, suponho, mas não as recusaria também. O que faria com certeza era ir atrás dos cães, a pedrada, até onde lhe dessem as pernas. E se tivesse um pau, iria a pau. Capitu morria por aquele batalhador futuro.
 
@@ -2589,7 +2589,7 @@ Capitu deixou-se estar pensando e olhando para mim, e disse afinal que era preci
 
 A resposta de Capitu foi um riso doce de escárnio, um desses risos que não se descrevem, e apenas se pintarão, depois estirou os braços e atirou-mos sobre os ombros, tão cheios de graça que pareciam (velha imagem!) um colar de flores. Eu fiz o mesmo aos meus, e senti não haver ali um escultor que nos transferisse a atitude a um pedaço de mármore. Só brilharia o artista, é certo. Quando uma pessoa ou um grupo saem bem, ninguém quer saber de modelo, mas da obra, e a obra é que fica. Não importa; nós saberíamos que éramos nós.
 
-### 113. EMBARGOS DE TERCEIRO
+### 113 — Embargos de Terceiro
 
 Por falar nisto,é natural que me perguntes se, sendo antes tão cioso dela, não continuei a sê-lo apesar do filho e dos anos. Sim. senhor, continuei. Continuei, a tal ponto que o menor gesto me afligia, a mais ínfima palavra, uma insistência qualquer; muita vez só a indiferença bastava. Cheguei a ter ciúmes de tudo e de todos. Um vizinho, um par de valsa, qualquer homem, moço ou maduro, me enchia de terror ou desconfiança. É certo que Capitu gostava de ser vista, e o meio mais próprio a tal fim (disse-me uma senhora, um dia) é ver também, e não há ver sem mostrar que se vê.
 
@@ -2613,7 +2613,7 @@ Capitu estava melhor e até boa. Confessou-me que apenas tivera uma dor de cabe�
 
 — A cunhadinha está tão doente como você ou eu. Vamos aos embargos.
 
-### 114. EM QUE SE EXPLICA Oexplicado
+### 114 — Em que Se Explica o Explicado
 
 Antes de ir aos embargos,expliquemos ainda um ponto que já ficou explicado, mas não bem explicado. Viste que eu pedi (cap. CX) a um professor de música de S. Paulo que me escrevesse a toada daquele pregão de doces de Mata-cavalos. Em si, a matéria é chocha, e não vale a pena de um capítulo, quanto mais dous; mas há matérias tais que trazem ensinamentos interessantes, senão agradáveis. Expliquemos o explicado.
 
@@ -2627,7 +2627,7 @@ Aproveitei o gesto para beijar-lhe a mão; estava ainda no seminário. Quando fu
 
 Ao certo,ninguém sabe se há de manter ou não um juramento. Cousas futuras! Portanto, a nossa constituição política, transferindo o juramento à afirmação simples, é profundamente moral. Acabou com um pecado terrível. Faltar ao compromisso é sempre infidelidade, mas a alguém que tenha mais temor a Deus que aos homens não lhe importará mentir, uma vez ou outra, desde que não mete a alma no purgatório. Não confudam purgatório com inferno, que é o eterno naufrágio. Purgatório é uma casa de penhores, que empresta sobre todas as virtudes, a juro alto e prazo curto. Mas os prazos renovam-se, até que um dia uma ou duas virtudes medianas pagam todos os pecados grandes e pequenos.
 
-### 115. DÚVIDAS SOBRE DÚVIDAS
+### 115 — Dúvidas sobre Dúvidas
 
 Vamos agora aos embargos... E por que iremos aos embargos? Deus sabe o que custa escrevê-los, quanto mais contá-los. Da circunstancia nova que Escobar me trazia apenas digo o que lhe disse então, isto é, que não valia nada.
 
@@ -2667,7 +2667,7 @@ Fomos jantar com a minha velha. Já lhe podia chamar assim, posto que os seus ca
 
 Quando voltamos, à noite, viemos por ali a pé, falando das minhas dúvidas. Capitu novamente me aconselhou que esperássemos. Sogras eram todas assim; lá vinha um dia e mudavam. Ao passo que me falava, recrudescia de ternura. Dali em diante foi cada vez mais doce comigo; não me ia esperar à janela, para não espertar-me os ciúmes, mas quando eu subia, via no alto da escada, entre as grades da cancela, a cara deliciosa da minha amiga e esposa, risonha como toda a nossa infância. Ezequiel às vezes estava com ela; nós o havíamos acostumado a ver o ósculo da chegada e da saída. e ele enchia-me a cara de beijos.
 
-### 116. FILHO DO HOMEM
+### 116 — Filho do Homem
 
 Apalpei José Dias sobre as maneiras novas de minha mãe; ficou espantado. Não havia nada, nem podia haver cousa nenhuma, tantos eram os louvores incessantes que ele ouvia "à bela e virtuosa Capitu."
 
@@ -2705,7 +2705,7 @@ Não podemos deixar de rir, eu mais que ninguém. A primeira pessoa que fechou a
 
 — Não quero isso, ouviu?
 
-### 117. AMIGOS PRÓXIMOS
+### 117 — Amigos Próximos
 
 Já então Escobar deixara Andaraí e comprara uma casa no Flamengo, casa que ainda ali vi, há dias, quando me deu na gana experimentar se as sensações antigas estavam mortas ou dormiam só; não posso dizê-lo bem, porque os sonos, quando são pesados, confundem vivos e defuntos, a não ser a respiração. Eu respirava um pouco, mas pode ser que fosse do mar, meio agitado. Enfim, passei, acendi um charuto, e dei por mim no Catete, tinha subido pela Rua da Princesa, uma rua antiga... o ruas antigas! ó casas antigas! ó pernas antigas! Todos nós éramos antigos, e não é preciso dizer que no mau sentido, no sentido de velho e acabado.
 
@@ -2719,7 +2719,7 @@ Como eu observasse que podia acontecer com eles o que se dera entre mim e Capitu
 
 Escobar concordou comigo, e insinuou que alguma vez as crianças que se frequentam muito acabam parecendo-se umas com as outras. Opinei de cabeça, como me sucedia nas matérias que eu não sabia bem nem mal. Tudo podia ser. O certo é que eles se queriam muito, e podiam acabar casados, mas não acabaram casados.
 
-### 118. A MÃO DE SANCHA
+### 118 — A Mão de Sancha
 
 Tudo acaba, leitor; é um velho truísmo, a que se pode acrescentar que nem tudo o que dura muito tempo. Esta segunda parte não acha crentes fáceis, ao contrário, a ideia de que um castelo de vento dura mais que o mesmo vento de que é feito, dificilmente se despegará da cabeça, e é bom que seja assim, para que se não perca o costume daquelas construções quase eternas.
 
@@ -2763,19 +2763,19 @@ O retrato de Escobar, que eu tinha ali, ao pé do de minha mãe, falou-me como s
 
 Sinceramente, eu achava-me mal entre um amigo e a atração. A timidez pode ser que fosse outra causa daquela crise; não é só o céu que dá as nossas virtudes, a timidez também, não contando o acaso, mas o acaso é um mero acidente; a melhor origem delas é o céu. Entretanto, como a timidez vem do céu, que nos dá a compleicão, a virtude, filha dela, é, genealogicamente, o mesmo sangue celestial. Assim refletiria se pudesse, mas a princípio vaguei à toa. Paixão não era nem insinuação. Capricho seria ou quê? Ao fim de vinte minutos era nada, inteiramente nada. O retrato de Escobar pareceu falar-me; vi-lhe a atitude franca e simples, sacudi a cabeça e fui deitar-me.
 
-### 119. NÃO FAÇA ISSO, QUERIDA!
+### 119 — Não Faça Isso, Querida!
 
 A leitora, que é minha amiga e abriu este livro com o fim de descansar da cavatina de ontem para a valsa de hoje, quer fechá-lo às pressas, ao ver que beiramos um abismo. Não faça isso, querida; eu mudo de rumo.
 
-### 120. OS AUTOS
+### 120 — Os Autos
 
 Na manhã seguinte acordei livre das abominações da véspera; chamei-lhes alucinações, tomei café, percorri os jornais e fui estudar uns autos.Capitu e prima Justina saíram para a missa das nove, na Lapa. A figura de Sancha desapareceu inteiramente no meio das alegações da parte adversa, que eu ia lendo nos autos, alegações falsas, inadmissíveis, sem apoio na lei nem nas praxes. Vi que era fácil ganhar a demanda; consultei Dalloz, Pereira e Sousa...
 
 Uma só vez olhei para o retrato de Escobar. Era uma bela fotografia tirada um ano antes. Estava de pé, sobrecasaca abotoada, a mão esquerda no dorso de uma cadeira, a direita metida ao peito, o olhar ao longe para a esquerda do espectador. Tinha garbo e naturalidade. A moldura que lhe mandei pôr não encobria a dedicatória, escrita embaixo, não nas costas do cartão: "Ao meu querido Bentinho o seu querido Escobar 20-4-70." Estas palavras fortaleceram-me os pensamentos daquela manhã, e espancaram de todo as recordações da véspera. Naquele tempo a minha vista era boa; eu podia lê-las do lugar em que estava. Tornei aos autos.
 
-## Capítulos 121 a 130
+## Capítulos 121 — 130
 
-### 121. A CATÁSTROFE
+### 121 — A Catástrofe
 
 No melhor deles, ouvi passos precipitados na escada, a campainha soou, soaram palmas, golpes na cancela, vozes, acudiram todos, acudi eu mesmo. Era um escravo da casa de Sancha que me chamava
 
@@ -2785,7 +2785,7 @@ Não disse mais nada, ou eu não lhe ouvi o resto. Vesti-me, deixei recado a Cap
 
 Em caminho, fui adivinhando a verdade. Escobar meteu-se a na dar, como usava fazer, arriscou-se um pouco mais fora que de costume, apesar do mar bravio, foi enrolado e morreu. As canoas que acudiram mal puderam trazer-lhe o cadáver.
 
-### 122. Oenterro
+### 122 — O Enterro
 
 A Viúva... Poupo-vos as lágrimas da viúva, as minhas, as da outra gente. Saí de lá cerca de onze horas; Capitu e prima Justina esperavam-me, uma com o parecer abatido e estúpido, outra enfastiada apenas.
 
@@ -2801,13 +2801,13 @@ Como eu houvesse resolvido falar no cemitério, escrevi algumas linhas e mostrei
 
 Poucas mais seriam. Tinha-as escrito com receio de que a emoção me impedisse de improvisar. No tílburi em que andei uma ou duas horas, não fizera mais que recordar o tempo do seminário, as relações de Escobar, as nossas simpatias, a nossa amizade, começada, continuada e nunca interrompida, até que um lance da fortuna fez separar para sempre duas criaturas que prometiam ficar por muito tempo unidas. De quando em quando enxugava os olhos. O cocheiro aventurou duas ou três perguntas sobre a minha situação moral; não me arrancando nada, continuou o seu ofício. Chegando a casa, deitei aquelas emoções ao papel; tal seria o discurso.
 
-### 123. OLHOS DE RESSACA
+### 123 — Olhos de Ressaca
 
 Enfim, chegou a hora da encomendação e da partida. Sancha quis despedir-se do marido, e o desespero daquele lance consternou a todos. Muitos homens choravam também, as mulheres todas. Só Capitu, amparando a viúva, parecia vencer-se a si mesma. Consolava a outra, queria arrancá-la dali. A confusão era geral. No meio dela, Capitu olhou alguns instantes para o cadáver tão fixa, tão apaixonadamente fixa, que não admira lhe saltassem algumas lágrimas poucas e caladas...
 
 As minhas cessaram logo. Fiquei a ver as dela; Capitu enxugou-as depressa, olhando a furto para a gente que estava na sala. Redobrou de carícias para a amiga, e quis levá-la; mas o cadáver parece que a retinha também. Momento houve em que os olhos de Capitu fitaram o defunto, quais os da viúva, sem o pranto nem palavras desta, mas grandes e abertos, como a vaga do mar lá fora, como se quisesse tragar também o nadador da manhã.
 
-### 124. Odiscurso
+### 124 — O Discurso
 
 — Vamos, são horas...
 
@@ -2817,11 +2817,11 @@ Era José Dias que me convidava a fechar o ataúde. Fechamo-lo, e eu peguei numa
 
 Era o discurso. Queriam o discurso. Tinham jus ao discurso anunciado. Maquinalmente, meti a mão no bolso, saquei o papel e li-o aos trambolhões, não todo, nem seguido, nem claro; a voz parecia-me entrar cm vez de sair, as mãos tremiam-me. Não era só a emoção nova que me fazia assim, era o próprio texto, as memórias do amigo, as saudades confessadas, os louvores à pessoa e aos seus méritos; tudo isto que eu era obrigado a dizer e dizia mal. Ao mesmo tempo, temendo que me adivinhassem a verdade, forcejava por escondê-la bem. Creio que poucos me ouviram, mas o gesto geral foi de compreensão c de aprovação. As mãos que me deram a apertar eram de solidariedade; alguns diziam: "Muito bonito! muito bem! magnífico!" José Dias achou que a eloquência estivera na altura da piedade. Um homem, que me pareceu jornalista, pediu-me licença para levar o manuscrito e imprimi-lo. Só a minha grande turvação recusaria um obséquio tão simples.
 
-### 125. UMA COMPARAÇÃO
+### 125 — Uma Comparação
 
 Príamo julga-se o mais infeliz dos homens,por beijar a mão daquele que lhe matou o filho. Homero é que relata isto, e é um bom autor, não obstante contá-lo em verso, mas há narrações exatas em verso, e até mau verso. Compara tu a situação de Príamo com a minha; eu acabava de louvar as virtudes do homem que recebera, defunto, aqueles olhos... É impossível que algum Homero não tirasse da minha situação muito melhor efeito, ou quando menos igual. Nem digas que nos faltam Homeros, pela causa apontada em Camões; não, senhor, faltam-nos, é certo, mas é porque os Príamos procuram a sombra e o silêncio. As lágrimas, se as têm, são enxugadas atrás da porta, para que as caras apareçam limpas e serenas, os discursos são antes de alegria que de melancolia, e tudo passa como se Aquiles não matasse Heitor.
 
-### 126. CISMANDO
+### 126 — Cismando
 
 Pouco depois de sair do cemitério, rasguei o discurso e deitei os pedaços pela portinhola fora, sem embargo dos esforços de José Dias para impedi-lo.
 
@@ -2839,13 +2839,13 @@ A razão disto era acabar de cismar, e escolher uma resolução que fosse adequa
 
 Quando cheguei a esta conclusão final, chegava também à porta de casa, mas voltei para trás, e subi outra vez a Rua do Catete. Eram as dúvidas que me afligiam ou a necessidade de afligir Capitu com a minha grande demora? Ponhamos que eram as duas causas; andei largo espaço, até que me senti sossegar, e endireitei para casa. Batiam oito horas numa padaria.
 
-### 127. Obarbeiro
+### 127 — O Barbeiro
 
 Perto de casa,havia um barbeiro, que me conhecia de vista, amava a rebeca e não tocava inteiramente mal. Na ocasião em que ia passando, executava não sei que peça. Parei na calçada a ouvi-lo (tudo são pretextos a um coração agoniado), ele viu-me, e continuou a tocar. Não atendeu a um freguês, e logo a outro, que ali foram, a despeito da hora e de ser domingo, confiar-lhe as caras à navalha. Perdeu-os sem perder uma nota- ia tocando para mim. Esta consideração fez-me chegar francamente à porta da loja, voltado para ele. Ao fundo, levantando a cortina de chita que fechava o interior da casa, vi apontar uma moça trigueira, vestido claro, flor no cabelo. Era a mulher dele, creio que me descobriu de dentro, e veio agradecer-me com a presença o favor que eu fazia ao marido. Se me não engano, chegou a dizê-lo com os olhos. Quanto ao marido, tocava agora com mais calor; sem ver a mulher, sem ver fregueses, grudava a face ao instrumento, passava a alma ao arco, e tocava, tocava...
 
 Divina arte! Ia-se formando um grupo, deixei a porta da loja e vim andando para casa; enfiei pelo corredor e subi as escadas sem estrépito. Nunca me esqueceu o caso deste barbeiro, ou por estar ligado a um momento grave da minha vida, ou por esta máxima, que os compiladores podem tirar daqui e inserir nos compêndios de escola. A máxima é que a gente esquece devagar as boas ações que pratica, e verdadeiramente não as esquece nunca. Pobre barbeiro! perdeu duas barbas naquela noite, que eram o pão do dia seguinte, tudo para ser ouvido de um traunseunte. Supõe agora que este, em vez de ir-se embora, como eu fui, ficava à porta a ouvi-lo e a enamorar-lhe a mulher, então é que ele, todo arco, todo rebeca, tocaria desesperadamente. Divina arte!
 
-### 128. PUNHADO DE SUCESSOS
+### 128 — Punhado de Sucessos
 
 Como ia dizendo, subi as escadas sem estrépito, empurrei a cancela, que estava apenas encostada, e dei com prima Justina e José Dias jogando cartas na saleta próxima. Capitu levantou-se do canapé e veio a mim. O rosto dela era agora sereno e puro. Os outros suspenderam o jogo, e todos falamos do desastre e da viúva. Capitu censurou a imprudência de Escobar, e não dissimulou a tristeza que lhe trazia a dor da amiga. Perguntei-lhe por que não ficara com Sancha aquela noite.
 
@@ -2867,7 +2867,7 @@ Inventariei as lembranças de Escobar, livros, um tinteiro de bronze, uma bengal
 
 Testamento, inventário, tudo andou quase tão depressa como aqui vai dito. Ao cabo de pouco tempo, Sancha retirou-se para a casa dos parentes no Paraná.
 
-### 129. A D.SANCHA
+### 129 — A D.SANCHA
 
 D.Sancha, peço-lhe que não leia este livro; ou, se o houver lido até aqui, abandone o resto. Basta fechá-lo; melhor será queimá-lo, para lhe não dar tentação e abri-lo outra vez. Se, apesar do aviso, quiser ir até o fim, a culpa é sua; não respondo pelo mal que receber. O que já lhe tiver feito, contando os gestos daquele sábado, esse acabou, uma vez que os acontecimentos, e eu com eles, desmentimos a minha ilusão; mas o que agora a alcançar, esse é indelével. Não, amiga minha, não leia mais. Vá envelhecendo, sem marido nem filha, que eu faço a mesma cousa, e é ainda o melhor que se pode fazer depois da mocidade. Um dia. iremos daqui até à porta do céu, onde nos encontraremos renovados, como as plantas novas, come piante novelle,
 
@@ -2875,15 +2875,15 @@ Rinovellate di novelle fronde.
 
 O resto em Dante.
 
-### 130. UM DIA...
+### 130 — Um Dia...
 
 Por enquanto,um dia Capitu quis saber o que é que me fazia andar calado e aborrecido. E propôs-me a Europa, Minas, Petrópolis, uma série de bailes, mil desses remédios aconselhados aos melancólicos. Eu não sabia que lhe respondesse; recusei as diversões. Como insistisses repliquei-lhe que os meus negócios andavam mal. Capitu sorriu para animar-me. E que tinha que andassem mal? Tornariam a andar bem, e até lá as joias, os objetos de algum valor seriam vendidos, e iríamos residir em algum beco. Viveríamos sossegados e esquecidos; depois tornaríamos à tona da água. A ternura com que me disse isto era de comover as pedras. Pois nem assim. Respondi-lhe secamente que não era preciso vender nada. Deixei-me estar calado e aborrecido. Ela propôs-me jogar cartas ou damas, um passeio a pé, uma visita a Mata-cavalos; e, como eu não aceitasse nada, foi para a sala, abriu o piano, e começou a tocar; eu aproveitei a ausência, peguei do chapéu e saí.
 
 ...Perdão, mas este capítulo devia ser precedido de outro, em que contasse um incidente, ocorrido poucas semanas antes, dous meses depois da partida de Sancha. Vou escrevê-lo; podia antepô-lo a este antes de mandar o livro ao prelo, mas custa muito alterar o número das páginas; vai assim mesmo, depois a narração seguirá direita até o fim. Demais, é curto.
 
-## Capítulos 131 a 140
+## Capítulos 131 — 140
 
-### 131. ANTERIOR AO ANTERIOR
+### 131 — Anterior ao Anterior
 
 Foi o caso que a minha vida era outra vez doce e plácida,a banca do advogado rendia-me bastante, Capitu estava mais bela, Ezequiel ia crescendo. Começava o ano de 1872.
 
@@ -2897,7 +2897,7 @@ Era depois de jantar, estávamos ainda à mesa, Capitu brincava com o filho, ou 
 
 Capitu, alheia a ambos,fitava agora a outra borda da mesa; mas, dizendo-lhe eu que, na beleza, os olhos de Ezequiel saíam aos da mãe, Capitu sorriu abanando a cabeça com um ar que nunca achei em mulher alguma, provavelmente porque não gostei tanto das outras. As pessoas valem o que vale a afeição da gente, e é daí que mestre Povo tirou aquele adágio que quem o feio ama bonito lhe parece. Capitu tinha meia dúzia de gestos únicos na terra. Aquele entrou-me pela alma dentro. Assim fica explicado que eu corresse à minha esposa e amiga e lhe enchesse a cara de beijos; mas este outro incidente não é radicalmente necessário à compreensão do capítulo passado e dos futuros; fiquemos nos olhos de Ezequiel.
 
-### 132. Odebuxo E Ocolorido
+### 132 — O Debuxo e o Colorido
 
 Nem só os olhos,mas as restantes feições, a cara, o corpo, a pessoa inteira, iam-se apurando com o tempo. Eram como um debuxo primitivo que o artista vai enchendo e colorindo aos poucos, e a figura entra a ver, sorrir, palpitar, falar quase, até que a família pêndula o quadro na parede, em memória do que foi e já não pode ser. Aqui podia ser e era. O costume valeu muito contra o efeito da mudança; mas a mudança fez-se, não à maneira de teatro, fez-se como a manhã que aponta vagarosa, primeiro que se possa ler uma carta, depois lê-se a carta na rua, em casa, no gabinete, sem abrir as janelas; a luz coada pelas persianas basta a distinguir as letras. Li a carta, mal a princípio e não toda, depois fui lendo melhor. Fugia-lhe, é certo, metia o papel no bolso, corria a casa, fechava-me, não abria as vidraças, chegava a fechar os olhos. Quando novamente abria os olhos e a carta, a letra era clara e a notícia claríssima.
 
@@ -2929,11 +2929,11 @@ Fui eu mesmo que o levei um dia de manhã, uma segunda-feira. Era no antigo Larg
 
 E lá o levei e deixei. A ausência temporária não atalhou o mal, e toda a arte fina de Capitu para fazê-lo atenuar, ao menos, foi como se não fosse; eu sentia-me cada vez pior. A mesma situação nova agravou a minha paixão. Ezequiel vivia agora mais fora da minha vista; mas a volta dele, ao fim das semanas, ou pelo descostume em que eu ficava, ou porque o tempo fosse andando e completando a semelhança, era a volta de Escobar mais vivo e ruidoso. Até a voz, dentro de pouco, já me parecia a mesma. Aos sábados, buscava não andar em casa e só entrar quando ele estivesse dormindo; mas não escapava ao domingo, no gabinete, quando eu me achava entre jornais e autos. Ezequiel entrava turbulento, expansivo, cheio de riso e de amor, porque o demo do pequeno cada vez morria mais por mim. Eu, a falar verdade, sentia agora uma aversão que mal podia disfarçar, tanto a ela como aos outros. Não podendo encobrir inteiramente esta disposição moral, cuidava de me não fazer encontradiço com ele, ou só o menos que pudesse; ora tinha trabalho que me obrigava a fechar o gabinete, ora saía ao domingo para ir passear pela cidade e arrabaldes o meu mal secreto.
 
-### 133. UMA IDEIA
+### 133 — Uma Ideia
 
 Um dia - era uma sexta-feira -, não pude mais.Certa ideia, que negrejava em mim,abriu as asas e entrou a batê-las de um lado para outro, como fazem as ideias que querem sair. O ser sexta-feira creio que foi acaso, mas também pode ter sido propósito; fui educado no terror daquele dia. ouvi cantar baladas, em casa, vindas da roça e da antiga metrópole, nas quais a sexta-feira era o dia de agouro. Entretanto, não havendo almanaques no cérebro, é provável que a ideia não batesse as asas senão pela necessidade que sentia de vir ao ar e à vida. A vida é tão bela que a mesma ideia da morte precisa de vir primeiro a ela, antes de se ver cumprida. Já me vais entendendo; lê agora outro capítulo.
 
-### 134. Odia DE SÁBADO
+### 134 — O Dia de Sábado
 
 A ideia saiu finalmente do cérebro. Era noite, e não pude dormir, por mais que a sacudisse de mim. Também nenhuma noite me passou tão curta. Amanheceu, quando cuidava não ser mais que uma ou duas horas.
 
@@ -2941,7 +2941,7 @@ Saí, supondo deixar a ideia em casa; ela veio comigo. Cá fora tinha a mesma co
 
 Não me lembra bem o resto do dia. Sei que escrevi algumas cartas, comprei uma substancia, que não digo, para não espertar o desejo de prová-la. A farmácia faliu, é verdade; o dono fez-se banqueiro, e o banco prospera. Quando me achei com a morte no bolso senti tamanha alegria como se acabasse de tirar a sorte grande, ou ainda maior, porque o prêmio da loteria gasta-se, e a morte não se gasta. Fui a casa de minha mãe, com o fim de despedir-me, a título de visita. Ou de verdade ou por ilusão, tudo ali me pareceu melhor nesse dia. minha mãe menos triste, tio Cosme esquecido do coração, prima Justina da língua. Passei uma hora em paz. Cheguei a abrir mão do projeto. Que era preciso para viver? Nunca mais deixar aquela casa ou prender aquela hora a mim mesmo...
 
-### 135. OTELO
+### 135 — Otelo
 
 Jantei fora. De noite fui ao teatro. Representava-se justamente Otelo, que eu não vira nem lera nunca; sabia apenas o assunto, e estimei a coincidência. Vi as grandes raivas do mouro, por causa de um lenço. -um simples lenço! - e aqui dou matéria à meditação dos psicólogos deste e de outros continentes, pois não me pude furtar à observação de que um lenço bastou a acender os ciúmes de Otelo e compor a mais sublime tragédia deste mundo. Os lenços perderam-se. hoje são precisos os próprios lençóis; alguma vez nem lençóis há e valem só as camisas. Tais eram as ideias que me iam passando pela cabeça, vagas e turvas, à medida que o mouro rolava convulso, e Iago destilava a sua calúnia. Nos intervalos não me levantava da cadeira- não queria expor-me a encontrar algum conhecido. As senhoras ficavam quase todas nos camarotes, enquanto os homens iam fumar. Então eu perguntava a mim mesmo se alguma daquelas não teria amado alguém que jazesse agora no cemitério, e vinham outras incoerências, até que o pano subia e continuava a peça. O último ato mostrou-me que não eu, mas Capitu devia morrer. Ouvi as súplicas de Desdêmona, as suas palavras amorosas e puras, e a fúria do mouro, e a morte que este lhe deu entre aplausos frenéticos do público.
 
@@ -2951,7 +2951,7 @@ Vaguei pelas ruas o resto da noite. Ceei, é verdade um quase nada, mas o bastan
 
 Cheguei a casa, abri a porta devagarinho, subi pé ante pé, e meti-me no gabinete, iam dar seis horas. Tirei o veneno do bolso, fiquei em mangas de camisa, e escrevi ainda uma carta, a última, dirigida a Capitu. Nenhuma das outras era para ela; senti necessidade de lhe dizer uma palavra em que lhe ficasse o remorso da minha morte. Escrevi dous textos. O primeiro queimei-o por ser longo e difuso. O segundo continha só o necessário, claro e breve. Não lhe lembrava o nosso passado, nem as lutas havidas, nem alegria alguma; falava-lhe só de Escobar e da necessidade de morrer.
 
-### 136. A XÍCARA DE CAFÉ
+### 136 — A Xícara de Café
 
 O meu plano foi esperar o café, dissolver nele a droga e ingeri-la. Até lá, não tendo esquecido de todo a minha história romana, lembrou-me que Catão, antes de se matar, leu e releu um livro de Platão. Não tinha Platão comigo; mas um tomo truncado de Plutarco, em que era narrada a vida do célebre romano, bastou-me a ocupar aquele pouco tempo, e para em tudo imitá-lo, estirei-me no canapé. Nem era só imitá-lo nisso; tinha necessidade de incutir em mim a coragem dele, assim como ele precisara dos sentimentos do filósofo, para intrepidamente morrer. Um dos males da ignorância é não ter este remédio à última hora. Há muita gente que se mata sem ele, e nobremente expira, mas estou que muita mais gente poria termo aos seus dias, se pudesse achar essa espécie de cocaína moral dos bons livros. Entretanto, querendo fugir a qualquer suspeita de imitação, lembra-me bem que, para não ser encontrado ao pé de mim o livro de Plutarco, nem ser dada a notícia nas gazetas com a da cor das calças que eu então vestia, assentei de pô-lo novamente no seu lugar, antes de beber o veneno.
 
@@ -2967,7 +2967,7 @@ Leitor,houve aqui um gesto que eu não descrevo por havê-lo inteiramente esquec
 
 — Papai! papai!
 
-### 137. SEGUNDO IMPULSO
+### 137 — Segundo Impulso
 
 Se eu não olhasse para Ezequiel, é provável que não estivesse aqui escrevendo este livro, porque o meu primeiro ímpeto foi correr ao café e bebê-lo. Cheguei a pegar na xícara, mas o pequeno beijava-me a mão, como de costume, e a vista dele, como o gesto, deu-me outro impulso que me custa dizer aqui;- mas vá lá, diga-se tudo. Chamem me embora assassino; não serei eu que os desdiga ou contradiga; o meu segundo impulso foi criminoso. Inclinei-me e perguntei a Ezequiel se já tomara café.
 
@@ -2985,7 +2985,7 @@ Ezequiel abriu a boca. Cheguei-lhe a xícara, tão trêmulo que quase a entornei
 
 — Não, não, eu não sou teu pai!
 
-### 138. CAPITU QUE ENTRA
+### 138 — Capitu que Entra
 
 Quando levantei a cabeça,dei com a figura de Capitu diante de mim. Eis aí outro lance, que parecerá de teatro, e é tão natural como o primeiro, uma vez que a mãe e o filho iam à missa, e Capitu não saía sem falar-me. Era já um falar seco e breve; a maior parte das vezes, eu nem olhava para ela. Ela olhava sempre, esperando.
 
@@ -3025,11 +3025,11 @@ Concertou a capinha e ergueu-se. Suspirou, creio que suspirou, enquanto eu, que 
 
 — Sei a razão disto; é a casualidade da semelhança... A vontade de Deus explicará tudo... Ri-se? É natural- apesar do seminário não acredita em Deus; eu creio... Mas não falemos nisto; não nos fica bem dizer mais nada.
 
-### 139. Afotografia
+### 139 — A Fotografia
 
 Palavra que estive a pique de crer que era vítima de uma grande ilusão, uma fantasmagoria de alucinado; mas a entrada repentina de Ezequiel, gritando: - "Mamãe! mamãe! é hora da missa!" restituiu-me à consciência da realidade. Capitu e eu, involuntariamente, olhamos para a fotografia de Escobar, e depois um para o outro. Desta vez a confusão dela fez-se confissão pura. Este era aquele; havia por força alguma fotografia de Escobar pequeno que seria o nosso pequeno Ezequiel. De boca, porém, não confessou nada; repetiu as últimas palavras, puxou do filho e saíram para a missa.
 
-### 140. VOLTA DA IGREJA
+### 140 — Volta da Igreja
 
 Ficando só,era natural pegar do café e bebê-lo. Pois, não, senhor; tinha perdido o gosto à morte. A morte era uma solução; eu acabava de achar outra, tanto melhor quanto que não era definitiva, e deixava a porta aberta à reparação, se devesse havê-la. Não disse perdão, mas reparação, isto é, justiça. Qualquer que fosse a razão do ato, rejeitei a morte, e esperei o regresso de Capitu. Este foi mais demorado que de costume; cheguei a temer que ela houvesse ido à casa de minha mãe, mas não foi.
 
@@ -3039,15 +3039,15 @@ Os olhos com que me disse isto eram embuçados, como espreitando um gesto de rec
 
 No intervalo, evocara as palavras do finado Gurgel, quando me mostrou em casa dele o retrato da mulher, parecido com Capitu. Hás de lembrar-te delas; se não, relê o capítulo, cujo número não ponho aqui, por não me lembrar já qual seja, mas não fica longe. Reduzem-se a dizer que há tais semelhanças inexplicáveis... Pelo dia adiante, e nos outros dias, Ezequiel ia ter comigo ao gabinete, e as feições do pequeno davam ideia clara das do outro, ou eu ia atentando mais nelas. De envolta, lembravam-me episódios vagos e remotos, palavras, encontros e incidentes, tudo em que a minha cegueira não pôs malícia, e a que faltou o meu velho ciúme. Uma vez em que os fui achar sozinhos e calados, um segredo que me fez rir, uma palavra dela sonhando, todas essas reminiscências vieram vindo agora, em tal atropêlo que me atordoaram... E por que os não esganei um dia. quando desviei os olhos da rua onde estavam duas andorinhas trepadas no fio telegráfico? Dentro, as minhas outras andorinhas estavam trepadas no ar, os olhos enfiados nos olhos, mas tão cautelosos que se desenfiaram logo, dizendo-me uma palavra amiga e alegre. Contei-lhes o namoro das andorinhas de fora, e acharam-lhe graça; Escobar declarou que, para ele, seria melhor se as andorinhas, em vez de trepadas no fio de arame, estivessem à mesa do jantar cozidas. "Nunca comi os ninhos delas, continuou, mas devem ser bons, se os chins os inventaram." E ficamos a tratar dos chins e dos clássicos que falaram deles, enquanto Capitu, confessando que a aborrecíamos, foi a outros cuidados. Agora lembrava-me tudo o que então me pareceu nada.
 
-## Capítulos 141 a 148
+## Capítulos 141 — 148
 
-### 141. A SOLUÇÃO
+### 141 — A Solução
 
 Aqui está o que fizemos. Pegamos em nós e fomos para a Europa, não passear, nem ver nada, novo nem velho; paramos na Suíça. Uma professora do Rio Grande, que foi conosco, ficou de companhia a Capitu, ensinando a língua materna a Ezequiel, que aprenderia o resto nas escolas do país. Assim regulada a vida, tornei ao Brasil.
 
 Ao cabo de alguns meses, Capitu começara a escrever-me cartas, a que respondi com brevidade e sequidão. As dela eram submissas, sem ódio, acaso afetuosas, e para o fim saudosas; pedia-me que a fosse ver. Embarquei um ano depois, mas não a procurei, e repeti a viagem com o mesmo resultado. Na volta, os que se lembravam dela, queriam notícias, e eu dava-lhes, como se acabasse de viver com ela; naturalmente as viagens eram feitas com o intuito de simular isto mesmo, e enganar a opinião. Um dia, finalmente...
 
-### 142. UMA SANTA
+### 142 — Uma Santa
 
 Entenda-se que, se nas viagens que fiz à Europa, José Dias não foi comigo, não é que lhe faltasse vontade; ficava de companhia a tio Cosme, quase inválido e a minha mãe, que envelheceu depressa. Também ele estava velho, posto que rijo. Ia a bordo despedir-se de mim, e as palavras que me dizia, os gestos de lenço, os próprios olhos que enxugava eram tais que me comoviam também. A última vez não foi a bordo.
 
@@ -3089,7 +3089,7 @@ José Dias assistiu a estas diligências, com grande melancolia. No fim, quando 
 
 — Não a conheceram; se a conhecessem mandariam esculpir santíssima.
 
-### 143. O ÚLTIMO SUPERLATIVO
+### 143 — O Último Superlativo
 
 Não foi o último superlativo de José Dias. Outros teve que não vale a pena escrever aqui, até que veio o último, o melhor deles, o mais doce, o que lhe fez da morte um pedaço de vida. Já então morava comigo; posto que minha mãe lhe deixasse uma pequena lembrança, veio dizer-me que, com legado ou sem ele, não se separaria de mim. Talvez a esperança dele fosse enterrar-me. Correspondia-se com Capitu, a que pedia que lhe mandasse o retrato de Ezequiel; mas Capitu ia adiando a remessa de correio a correio, até que ele não pediu mais nada, a não ser o coração do jovem estudante; pedia-lhe também que não deixasse de falar a Ezequiel no velho amigo do pai e do avô, "destinado pelo céu a amar o mesmo sangue." Era assim que ele preparava os cuidados da terceira geração; mas a morte veio antes de Ezequiel. A doença foi rápida. Mandei chamar um médico homeopata.
 
@@ -3103,7 +3103,7 @@ Morreu sereno, após uma agonia curta.Pouco antes ouviu que o céu estava lindo,
 
 Abrimos a janela. Realmente, estava um céu azul e claro. José Dias soergueu-se e olhou para fora; após alguns instantes, deixou cair a cabeça, murmurando: Lindíssimo! Foi a última palavra que proferiu neste mundo. Pobre José Dias! Por que hei de negar que chorei por ele?
 
-### 144. UMA PERGUNTA TARDIA
+### 144 — Uma Pergunta Tardia
 
 Assim chorem por mim todos os olhos de amigos e amigas que deixo neste mundo, mas não é provável. Tenho-me feito esquecer. Moro longe e saio pouco. Não é que haja efetivamente ligado as duas pontas da vida. Esta casa do Engenho Novo, conquanto reproduza a de Mata-cavalos, apenas me lembra aquela, e mais por efeito de comparação e de reflexão que de sentimento. Já disse isto mesmo.
 
@@ -3111,7 +3111,7 @@ Hão de perguntar-me por que razão, tendo a própria casa velha, na mesma rua a
 
 Tudo me era estranho e adverso. Deixei que demolissem a casa, e, mais tarde, quando vim para o Engenho Novo, lembrou-me fazer esta reprodução por explicações que dei ao arquiteto, segundo contei em tempo.
 
-### 145. Oregresso
+### 145 — O Regresso
 
 Ora, foi já nesta casa que um dia. estando a vestir-me para almoçar, recebi um cartão com este nome:
 
@@ -3153,13 +3153,13 @@ Ao cabo de seis meses, Ezequiel falou-me em uma viagem à Grécia, ao Egito, e �
 
 Sorriu vexado, e respondeu-me que as mulheres eram criaturas tão da moda e do dia que nunca haviam de entender uma ruína de trinta séculos. Eram dous colegas da universidade. Prometi-lhe recursos, e dei-lhe logo os primeiros dinheiros precisos. Como disse que uma das consequências dos amores furtivos do pai era pagar eu as arqueologias do filho; antes lhe pagasse a lepra... Quando esta ideia me atravessou o cérebro, senti-me tão cruel e perverso que peguei no rapaz e quis apertá-lo ao coração, mas recuei; encarei-o depois, como se faz a um filho de verdade; os olhos que ele me deitou foram ternos e agradecidos.
 
-### 146. NÃO HOUVE LEPRA
+### 146 — Não Houve Lepra
 
 Não houve lepra, mas há febres por todas essas terras humanas, sejam velhas ou novas. Onze meses depois, Ezequiel morreu de uma febre tifoide, e foi enterrado nas imediações de Jerusalém, onde os dous amigos da universidade lhe levantaram um túmulo com esta inscrição, tirada do profeta Ezequiel, em grego: "Tu eras perfeito nos teus caminhos." Mandaram-me ambos os textos, grego e latino, o desenho da sepultura, a conta das despesas e o resto do dinheiro que ele levava; pagaria o triplo para não tornar a vê-lo.
 
 Como quisesse verificar o texto, consultei a minha Vulgata, achei que era exato, mas tinha ainda um complemento: "Tu eras perfeito nos teus caminhos, desde o dia da tua criação." Parei e perguntei calado: "Quando seria o dia da criação de Ezequiel?" Ninguém me respondeu. Eis aí mais um mistério para ajuntar aos tantos deste mundo. Apesar de tudo, jantei bem e fui ao teatro.
 
-### 147. A EXPOSIÇÃO RETROSPECTIVA
+### 147 — A Exposição Retrospectiva
 
 Já sabes que a minha alma, por mais lacerada que tenha sido, não ficou aí para um canto como uma flor lívida e solitária. Não lhe dei essa cor ou descor. Vivi o melhor que pude, sem me faltarem amigas que me consolassem da primeira. Caprichos de pouca dura, é verdade. Elas é que me deixavam como pessoas que assistem a uma exposição retrospectiva, e, ou se fartam de vê-la, ou a luz da sala esmorece. Uma só dessas visitas tinha carro à porta e cocheiro de libré. As outras iam modestamente, calcante pede, e, se chovia, eu é que ia buscar um carro de praça, e as metia dentro, com grandes despedidas, e maiores recomendações.
 
@@ -3171,7 +3171,7 @@ Já sabes que a minha alma, por mais lacerada que tenha sido, não ficou aí par
 
 Não voltavam mais. Eu ficava à porta, esperando, ia até à esquina, espiava, consultava o relógio, e não via nada nem ninguém. Então, se aparecia outra visita, dava-lhe o braço, entrávamos, mostrava-lhe as paisagens, os quadros históricos ou de gênero, uma aquarela, um pastel, uma gouache, e também esta cansava, e ia embora com o catálogo na mão...
 
-### 148. Ebem, E Oresto?
+### 148 — Ebem, e o Resto?
 
 Agora, por que é que nenhuma dessas caprichosas me fez esquecer a primeira amada do meu coração? Talvez porque nenhuma tinha os olhos de ressaca, nem os de cigana oblíqua e dissimulada. Mas não é este propriamente o resto do livro. O resto é saber se a Capitu da Praia da Glória já estava dentro da de Mata-cavalos, ou se esta foi mudada naquela por efeito de algum caso incidente. Jesus, filho de Sirach, se soubesse dos meus primeiros ciúmes, dir-me-ia, como no seu cap. IX, vers. 1: "Não tenhas ciúmes de tua mulher para que ela não se meta a enganar-te com a malícia que aprender de ti". Mas eu creio que não, e tu concordarás comigo; se te lembras bem da Capitu menina, hás de reconhecer que uma estava dentro da outra, como a fruta dentro da casca.
 
