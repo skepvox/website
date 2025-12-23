@@ -5,7 +5,7 @@ outline: [2, 3]
 
 # O Ateneu
 
-## I
+## Capítulo — 01
 
 "Vais encontrar o mundo, disse-me meu pai, à porta do Ateneu. Coragem para a luta."
 
@@ -139,7 +139,7 @@ Aristarco, sentado, de pé, cruzando terríveis passadas, imobilizando-se a repe
 
 Uma hora trovejou-lhe à boca, em sanguínea eloquência, o gênio do anúncio. Miramo-lo na inteira expansão oral, como, por ocasião das festas, na plenitude da sua vivacidade prática. Contemplávamos (eu com aterrado espanto) distendido em grandeza épica - o homem-sanduíche da educação nacional. Lardeado entre dois monstruosos cartazes. Às costas, o seu passado incalculável de trabalhos; sobre o ventre, para a frente, o seu futuro: a reclame dos imortais projetos.
 
-## II
+## Capítulo — 02
 
 Abriam-se as aulas a 15 de fevereiro. De manhã à hora regulamentar compareci.
 
@@ -247,7 +247,7 @@ Pela noite adentro, comparsas de pesadelo, perseguiram-me as imagens várias do 
 
 A sineta, tocando a despertar, livrou-me da angústia. Cinco horas da manhã.
 
-## III
+## Capítulo — 03
 
 Se em pequeno, movido por um vislumbre de luminosa prudência, enquanto aplicavam-se os outros à peteca, eu me houvesse entregado ao manso labor de fabricar documentos autobiográficos, para a oportuna confecção de mais uma infância célebre, certo não registraria, entre os meus episódios de predestinado, o caso banal da natação; de consequências, entretanto, para mim, e origem de dissabores como jamais encontrei tão amargos.
 
@@ -375,7 +375,7 @@ Mostrava a mão direita, ao realejo, bela manopla felpuda de fazer inveja a Esa�
 
 "É a mão da Providência!"
 
-## IV
+## Capítulo — 04
 
 Período sereno da minha vida moral, capítulo a escrever sobre uma banqueta de altar, ou com o alfabeto azul que delineia o fumo do incenso no ar tranquilo, inolvidáveis tréguas de íntimo sossego em toda a minha juventude eis em que se tornou a minha amarga descida ao fundo descrédito escolar.
 
@@ -611,7 +611,7 @@ O triunfo na escola podia ser o Sanches, em compensação a humildade vencida er
 
 Salteou-me nisto, às avessas, o relâmpago de Damasco: independência.
 
-## V
+## Capítulo — 05
 
 Devo, entretanto, à minha efeméride religiosa a maior soma de gratidão. Suavizou-me com a complacência divina o período de vadiação profunda e amolecimento hipnótico com que me pesou a atmosfera do Ateneu. Toda a perseguição de castigos, sem prejuízo da minha delicadeza moral, resvalava pelo cilício da penitência; eu emergia forte das provações. Que tranquilidade, na apatia, ter por fiador a Deus!
 
@@ -853,7 +853,7 @@ Uma roda de palmas, claras, estrepitantes, inacabáveis, percorreu as fileiras c
 
 Nearco, altivo, agradeceu com o nariz.
 
-## VI
+## Capítulo — 06
 
 O futuro tinha reservado para Nearco um feixe de melhores palmas, uma galhada de louros mais legítimos como tempero de vitória.
 
@@ -1133,7 +1133,7 @@ Não denunciar nunca é preceito sagrado de lealdade no colégio. Os contendores
 
 Por minha parte, entreguei-me de coração ao desespero das damas romanceiras, montando guarda de suspiros à janela gradeada de um cárcere onde se deixava deter o gentil cavalheiro, para o fim único de propor assunto às trovas e aos trovadores medievos.
 
-## VII
+## Capítulo — 07
 
 O tédio é a grande enfermidade da escola, o tédio corruptor que tanto se pode gerar da monotonia do trabalho como da ociosidade.
 
@@ -1161,7 +1161,7 @@ No comércio do selo é que fervia a agitação de empório, contratos de cobiç
 
 Falava-se, com a reserva tartamuda dos caudatários do milhão, de fortunas imponderáveis... Certo felizardo que possuía aqueles imensos exemplares da primeira posta na Inglaterra, os dois raríssimos, ambos! o azul e o branco, de 1840, com a estampa nítida de Mulrady: a Grã-Bretanha, braços abertos sobre as colônias, sobre o mundo; à direita, a América, a propaganda civilizadora, a conquista da savana; à esquerda, o domínio das Índias, coolies sob fardos, dorsos de elefantes subjugados; ao fundo, para o horizonte, navios, o trenó canadiano que foge à disparada das renas; no alto, como as vozes aladas da fama, os mensageiros da metrópole.
 
-Joias deste preço imobilizavam-se nas coleções, inalienáveis por natureza como certos diamantes. Nem por isso era menos ardente a mercancia na massa febril da pequena circulação; da quantidade infinita dos outros selos, retangulares, octogonais, redondos, elipsoidais, alongados verticalmente, transversalmente, quadrados, lisos, denteados, antiquíssimos ou recentes, ingleses, suecos, da Noruega, dinamarqueses de cetro e espada, suntuosos Hammonia, * como retalhos de tapeçaria, cabeças de águia de Lubeck, torres de Hamburgo, águia branca da Prússia, águia em relevo da moderna Alemanha, austríacos, suíços de cruz branca, da França, imperiais e republicanos, de toda a Europa, de todos os continentes, com a estampa de um pombo, de navios, de um braço armado; gregos com a efígie de Mercúrio, o deus único que ficou de Homero, sobrevivo do Olimpo depois de Pã; selos da China com um dragão esgalhando garras; do Cabo, triangulares; da república de Orange com uma laranjeira e três trompas, do Egito com a esfinge e as pirâmides, da Pérsia de Nasser-ed-Din com um penacho, do Japão bordados, rendilhados como panos de biombo e de ventarolas, da Austrália, com um cisne; do reino de Havaí, do rei Kamehameha III, da Terra Nova com uma foca em campo da neve, dos Estados Unidos de todos os presidentes, da república de São Salvador com uma auréola de estrelas sobre um vulcão, do Brasil, desde os enormes malfeitos de 1843, do Peru com um casal de lamas; todas as cores, todos os sinetes com que os estados tarifam as correspondências sentimentais ou mercantis, explorando indistintamente um desconto mínimo nas especulações gigantescas e o imposto de sangue sobre as saudades dos emigrados da fome.
+Joias deste preço imobilizavam-se nas coleções, inalienáveis por natureza como certos diamantes. Nem por isso era menos ardente a mercancia na massa febril da pequena circulação; da quantidade infinita dos outros selos, retangulares, octogonais, redondos, elipsoidais, alongados verticalmente, transversalmente, quadrados, lisos, denteados, antiquíssimos ou recentes, ingleses, suecos, da Noruega, dinamarqueses de cetro e espada, suntuosos Hammonia, como retalhos de tapeçaria, cabeças de águia de Lubeck, torres de Hamburgo, águia branca da Prússia, águia em relevo da moderna Alemanha, austríacos, suíços de cruz branca, da França, imperiais e republicanos, de toda a Europa, de todos os continentes, com a estampa de um pombo, de navios, de um braço armado; gregos com a efígie de Mercúrio, o deus único que ficou de Homero, sobrevivo do Olimpo depois de Pã; selos da China com um dragão esgalhando garras; do Cabo, triangulares; da república de Orange com uma laranjeira e três trompas, do Egito com a esfinge e as pirâmides, da Pérsia de Nasser-ed-Din com um penacho, do Japão bordados, rendilhados como panos de biombo e de ventarolas, da Austrália, com um cisne; do reino de Havaí, do rei Kamehameha III, da Terra Nova com uma foca em campo da neve, dos Estados Unidos de todos os presidentes, da república de São Salvador com uma auréola de estrelas sobre um vulcão, do Brasil, desde os enormes malfeitos de 1843, do Peru com um casal de lamas; todas as cores, todos os sinetes com que os estados tarifam as correspondências sentimentais ou mercantis, explorando indistintamente um desconto mínimo nas especulações gigantescas e o imposto de sangue sobre as saudades dos emigrados da fome.
 
 A sala geral do estudo, comprida, com as quatro galerias de carteiras e a parede oposta de estantes e a tribuna do inspetor, era um microcosmo de atividade subterrânea. Estudo era pretexto e aparência, as encadernações capeavam mais a esperteza do que os próprios volumes.
 
@@ -1319,9 +1319,7 @@ E todas aquelas coisas malfeitas animavam-se e olhavam brilhantemente. "Vê, Ari
 
 Todos, ele próprio, todos aclamando-o.
 
-* Hammonia é o nome latino para a cidade de Hamburgo, na Alemanha. ( N. E.)
-
-## VIII
+## Capítulo — 08
 
 No ano seguinte, o Ateneu revelou-se-me noutro aspecto. Conhecera-o interessante, com as seduções do que é novo, com as projeções obscuras de perspectiva, desafiando curiosidade e receio; conhecera-o insípido e banal como os mistérios resolvidos, caiado de tédio; conhecia-o agora intolerável como um cárcere, murado de desejos e privações.
 
@@ -1587,7 +1585,7 @@ Enquanto o diretor falava, ia-lhe um copeiro amontoando em torno quanta lata vaz
 
 Escangalhavam-se as pilhas fragorosamente pelo soalho, mas o montão subia, em desordem, cintilando reflexos amarrotados do gás. Aristarco avultava sobre as latas, como o princípio salvo da autoridade. A justificação era completa. Mais algumas palavras azeitadas de ternura, e todo ressentimento cedia, e nós saudávamos o diretor, grande ali, como sempre, sobre o chamejamento do Flandres.
 
-## IX
+## Capítulo — 09
 
 A anistia dos revolucionários aproveitou por extensão aos execrandos réus da moralidade. Já frouxa a fibra dos rigores, Aristarco despediu-os do gabinete com a penitência de algumas dezenas de páginas de escrita e reclusão por três dias numa sala. Desprestigiava-se a lei, salvavam-se, porém, muitas coisas, entre as quais o crédito do estabelecimento, que nada tinha a lucrar com o escândalo de um grande número de expulsões. Quanto ao encerramento dos culpados na trevosa cafua, impossível, que lá estava o Franco, por exigência expressa do Silvino, como causador primeiro das inqualificáveis perturbações da ordem no Ateneu.
 
@@ -1619,7 +1617,7 @@ A pastoral de Bernardin de Saint-Pierre foi principalmente o nosso enlevo. Parec
 
 Ideávamos vagamente, mas inteiramente, na meditação sem palavras do sentimento, quadro de manchas sem contorno, ideávamos bem as cenas que líamos da singela narrativa, almas que se encontram, dois coqueiros esbeltos crescendo juntos, erguendo aos poucos o feixe de grandes folhas franjadas, ao calor da felicidade e do trópico. Compreendíamos os pequeninos amantes de um ano, confundidos no berço, no sono, na inocência.
 
-Revivíamos o idílio todo, instintivo e puro. " Virginie, elle sera heureuse!..." Animávamo-nos da animação daquelas correrias de crianças na liberdade agreste, gozávamos o sentido daquela topografia de denominações originais - Descoberta da amizade, Lágrimas enxugadas, ou de alusões à pátria distante. Ouvíamos palmear a revoada dos pássaros, disputando ao redor de Virgínia, a ração de migalhas. Percebíamos sem raciocínios a filosofia sensual da mimosa entrevista. Est-ce par ton esprit? Mais nos mères en ont plus que nous deux. Est-ce par tes caresses? Mais elles m'embrassent plus souvent que toi... Je crois que c'est par ta bonté... Mais, auparavant, repose-toi sur mon sein et je serai délassé. - Tu me demandes pourquoi tu m'aimes. Mais tout ce qui a été élevé ensemble s'aime. Vois nos oiseaux élevés dans les mêmes nids, ils s'aiment comme nous; ils sont toujours ensemble comme nous. Êcoute comme ils s'appellent et se répondent d'un arbre à l'autre... *
+Revivíamos o idílio todo, instintivo e puro. " Virginie, elle sera heureuse!..." Animávamo-nos da animação daquelas correrias de crianças na liberdade agreste, gozávamos o sentido daquela topografia de denominações originais - Descoberta da amizade, Lágrimas enxugadas, ou de alusões à pátria distante. Ouvíamos palmear a revoada dos pássaros, disputando ao redor de Virgínia, a ração de migalhas. Percebíamos sem raciocínios a filosofia sensual da mimosa entrevista. Est-ce par ton esprit? Mais nos mères en ont plus que nous deux. Est-ce par tes caresses? Mais elles m'embrassent plus souvent que toi... Je crois que c'est par ta bonté... Mais, auparavant, repose-toi sur mon sein et je serai délassé. - Tu me demandes pourquoi tu m'aimes. Mais tout ce qui a été élevé ensemble s'aime. Vois nos oiseaux élevés dans les mêmes nids, ils s'aiment comme nous; ils sont toujours ensemble comme nous. Êcoute comme ils s'appellent et se répondent d'un arbre à l'autre...
 
 Confrangia-nos, enfim, ao voltar das páginas, a dificuldade cruel das objeções de fortuna e de classe, o divórcio das almas irmãs, quando os coqueiros ficavam juntos. E a iminência constritora do austro, da catástrofe, a lua cruenta de presságios sobre um céu de ferro...
 
@@ -1679,9 +1677,7 @@ De volta ao Ateneu, senti-me grande. Crescia-me o peito indefinivelmente, como s
 
 Daí começou a esfriar o entusiasmo da nossa fraternidade.
 
-* Será o seu espírito? Mas as nossas mães são mais espirituosas que nós dois. Serão as suas carícias? Mas elas me abraçam e beijam mais que você... Acho que é a sua bondade... Mas, antes de tudo, deite no meu peito e eu me entregarei. - Você me pergunta por que você me ama. Mas tudo que cresce junto se ama. Veja nossos pássaros que cresceram nos mesmos ninhos, eles se amam como nós; eles estão sempre juntos como nós. Ouça como eles se chamam e respondem de uma árvore à outra...
-
-## X
+## Capítulo — 10
 
 Bem diferente esta exaltação deliciosa do abatimento espavorido da véspera, da manhã mesmo, na secretaria da Instrução Pública. A expectativa mortal das chamadas; uma insignificância: o terror acadêmico! que nos sobressalta, que nos deprime como o que há de mais grave. E por ocasião das provas de francês já não era estreante.
 
@@ -1821,7 +1817,7 @@ A noiva não viu, que acordava tarde. O sogro atinou espertamente com a aventura
 
 E estranhou apenas que o bom do genro se deixasse pegar como um lorpa.
 
-## XI
+## Capítulo — 11
 
 O Dr. Cláudio encetou uma série de preleções aos sábados, à imitação das que fazia às quintas Aristarco sobre lugares-comuns de moralidade. Filosofia, ciência, literatura, economia política, pedagogia, biografia, até mesmo política e higiene, tudo era assunto; interessantíssimas, sem pesadas minuciosidades. Depois da astronomia do diretor, nenhuma curiosidade me valera tão bons minutos de atenção.
 
@@ -2019,7 +2015,7 @@ Tinha vindo de Mato Grosso um ano mais tarde do que pretendia. O correspondente 
 
 Andava agora mostrando à família o Rio de Janeiro. Viera à festa colegial, ao colégio do filho, para distrair a filha, a raptada, que ali estava com a mãe e duas irmãs menores, muito pálida, delgada, num idiotismo sombrio, insanável de melancolia e mudez, pestanas caídas, olhar na terra, como quem pensa encontrar alguma coisa.
 
-## XII
+## Capítulo — 12
 
 Música estranha, na hora cálida. Devia ser Gottschalk. Aquele esforço agonizante dos sons, lentos, pungidos, angústia deliciosa de extremo gozo em que pode ficar a vida porque fora uma conclusão triunfal. Notas graves, uma, uma; pausas de silêncio e treva em que o instrumento sucumbe e logo um dia claro de renascença, que ilumina o mundo como o momento fantástico do relâmpago, que a escuridão novamente abate...
 
@@ -2195,7 +2191,7 @@ Aceitava o rigor da sorte.
 
 Et comme il voit en nous des âmes peu communes
 
-Hors de l ' ordre commun il nous fait des fortunes. *
+Hors de l'ordre commun il nous fait des fortunes.
 
 ...................................................................................
 
@@ -2218,5 +2214,3 @@ Ele, como um deus caipora, triste, sobre o desastre universal de sua obra.
 Aqui suspendo a crônica das saudades. Saudades verdadeiramente? Puras recordações, saudades talvez, se ponderarmos que o tempo é a ocasião passageira dos fatos, mas sobretudo - o funeral para sempre das horas.
 
 RIO, Janeiro-Março de 1888.
-
-* E como ele vê em nós almas pouco normais fora da ordem normal a fortuna ele nos traz.

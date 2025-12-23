@@ -5,15 +5,17 @@ outline: [2, 3]
 
 # São Bernardo
 
-## I
+## Capítulos 01 — 10
+
+### Capítulo — 01
 
 Antes de iniciar este livro, imaginei construí-lo pela divisão do trabalho. Dirigi-me a alguns amigos, e quase todos consentiram de boa vontade em contribuir para o desenvolvimento das letras nacionais. Padre Silvestre ficaria com a parte moral e as citações latinas; João Nogueira aceitou a pontuação, a ortografia e a sintaxe; prometi ao Arquimedes a composição tipográfica; para a composição literária convidei Lúcio Gomes de Azevedo Gondim, redator e diretor do Cruzeiro. Eu traçaria o plano, introduziria na história rudimentos de agricultura e pecuária, faria as despesas e poria o meu nome na capa.
 
-Estive uma semana bastante animado, em conferências com os principais colaboradores, e já via os volumes expostos, um milheiro1 vendido graças aos elogios que, agora com a morte do Costa Brito, eu meteria na esfomeada Gazeta, mediante lambugem2. Mas o otimismo levou água na fervura3, compreendi que não nos entendíamos.
+Estive uma semana bastante animado, em conferências com os principais colaboradores, e já via os volumes expostos, um milheiro vendido graças aos elogios que, agora com a morte do Costa Brito, eu meteria na esfomeada Gazeta, mediante lambugem. Mas o otimismo levou água na fervura, compreendi que não nos entendíamos.
 
 João Nogueira queria o romance em língua de Camões, com períodos formados de trás para diante. Calculem.
 
-Padre Silvestre recebeu-me friamente. Depois da revolução de outubro, tornou-se uma fera, exige devassas4 rigorosas e castigos para os que não usavam lenços vermelhos. Torceu-me a cara. E éramos amigos. Patriota. Está direito: cada qual tem as suas manias.
+Padre Silvestre recebeu-me friamente. Depois da revolução de outubro, tornou-se uma fera, exige devassas rigorosas e castigos para os que não usavam lenços vermelhos. Torceu-me a cara. E éramos amigos. Patriota. Está direito: cada qual tem as suas manias.
 
 Afastei-o da combinação e concentrei as minhas esperanças em Lúcio Gomes de Azevedo Gondim, periodista de boa índole e que escreve o que lhe mandam.
 
@@ -21,13 +23,13 @@ Trabalhamos alguns dias. À tardinha, Azevedo Gondim entregava a redacção ao A
 
 — Vamos a isso.
 
-Íamos para o alpendre5, mergulhávamos em cadeiras de vime e ajeitávamos o enredo, fumando, olhando as novilhas caracu6 que pastavam no prado, embaixo, e mais longe, à entrada da mata, o telhado vermelho da serraria.
+Íamos para o alpendre, mergulhávamos em cadeiras de vime e ajeitávamos o enredo, fumando, olhando as novilhas caracu que pastavam no prado, embaixo, e mais longe, à entrada da mata, o telhado vermelho da serraria.
 
 A princípio tudo correu bem, não houve entre nós nenhuma divergência. A conversa era longa, mas cada um prestava atenção às próprias palavras, sem ligar importância ao que o outro dizia. Eu por mim, entusiasmado com o assunto, esquecia constantemente a natureza do Gondim e chegava a considerá-lo uma espécie de folha de papel destinada a receber as ideias confusas que me fervilhavam na cabeça.
 
 O resultado foi um desastre. Quinze dias depois do nosso primeiro encontro, o redator do Cruzeiro apresentou-me dois capítulos datilografados, tão cheios de besteiras que me zanguei:
 
-— Vá para o inferno, Gondim. Você acanalhou o troço. Está pernóstico7, está safado, está idiota. Há lá ninguém que fale dessa forma!
+— Vá para o inferno, Gondim. Você acanalhou o troço. Está pernóstico, está safado, está idiota. Há lá ninguém que fale dessa forma!
 
 Azevedo Gondim apagou o sorriso, engoliu em seco, apanhou os cacos da sua pequenina vaidade e replicou amuado que um artista não pode escrever como fala.
 
@@ -37,29 +39,29 @@ Azevedo Gondim respondeu que não pode porque não pode.
 
 — Foi assim que sempre se fez. A literatura é a literatura, seu Paulo. A gente discute, briga, trata de negócios naturalmente, mas arranjar palavras com tinta é outra coisa. Se eu fosse escrever como falo, ninguém me lia.
 
-Levantei-me e encostei-me à balaustrada8 para ver de perto o touro limousin9 que Marciano conduzia ao estábulo. Uma cigarra começou a chiar. A velha Margarida veio vindo pelo paredão do açude10, curvada em duas. Na torre da igreja uma coruja piou. Estremeci, pensei em Magdalena. Em seguida enchi o cachimbo:
+Levantei-me e encostei-me à balaustrada para ver de perto o touro limousin que Marciano conduzia ao estábulo. Uma cigarra começou a chiar. A velha Margarida veio vindo pelo paredão do açude, curvada em duas. Na torre da igreja uma coruja piou. Estremeci, pensei em Magdalena. Em seguida enchi o cachimbo:
 
 — É o diabo, Gondim. O mingau virou água. Três tentativas falhadas em um mês! Beba conhaque, Gondim.
 
-## II
+### Capítulo — 02
 
 Abandonei a empresa, mas um dia destes ouvi novo pio de coruja — e iniciei a composição de repente, valendo-me dos meus próprios recursos e sem indagar se isto me traz qualquer vantagem, direta ou indireta.
 
-Afinal, foi bom privar-me da cooperação de padre Silvestre, de João Nogueira e do Gondim. Há fatos que eu não revelaria, cara a cara, a ninguém. Vou narrá-los porque a obra será publicada com pseudônimo. E se souberem que o autor sou eu, naturalmente me chamarão potoqueiro11.
+Afinal, foi bom privar-me da cooperação de padre Silvestre, de João Nogueira e do Gondim. Há fatos que eu não revelaria, cara a cara, a ninguém. Vou narrá-los porque a obra será publicada com pseudônimo. E se souberem que o autor sou eu, naturalmente me chamarão potoqueiro.
 
-Continuemos. Tenciono contar a minha história. Difícil. Talvez deixe de mencionar particularidades úteis, que me pareçam acessórias e dispensáveis. Também pode ser que, habituado a tratar com matutos12, não confie suficientemente na compreensão dos leitores e repita passagens insignificantes. De resto, isto vai arranjado sem nenhuma ordem, como se vê. Não importa. Na opinião dos caboclos que me servem, todo o caminho dá na venda.
+Continuemos. Tenciono contar a minha história. Difícil. Talvez deixe de mencionar particularidades úteis, que me pareçam acessórias e dispensáveis. Também pode ser que, habituado a tratar com matutos, não confie suficientemente na compreensão dos leitores e repita passagens insignificantes. De resto, isto vai arranjado sem nenhuma ordem, como se vê. Não importa. Na opinião dos caboclos que me servem, todo o caminho dá na venda.
 
-Aqui sentado à mesa da sala de jantar, fumando cachimbo e bebendo café, suspendo às vezes o trabalho moroso13, olho a folhagem das laranjeiras que a noite enegrece, digo a mim mesmo que esta pena é um objeto pesado. Não estou acostumado a pensar. Levanto-me, chego à janela que deita para a horta. Casimiro Lopes pergunta se me falta alguma coisa.
+Aqui sentado à mesa da sala de jantar, fumando cachimbo e bebendo café, suspendo às vezes o trabalho moroso, olho a folhagem das laranjeiras que a noite enegrece, digo a mim mesmo que esta pena é um objeto pesado. Não estou acostumado a pensar. Levanto-me, chego à janela que deita para a horta. Casimiro Lopes pergunta se me falta alguma coisa.
 
 — Não.
 
 Casimiro Lopes acocora-se num canto. Volto a sentar-me, releio estes períodos chinfrins.
 
-Ora vejam. Se eu possuísse metade da instrução de Madalena, encoivarava14 isto brincando. Reconheço finalmente que aquela papelada tinha préstimo.
+Ora vejam. Se eu possuísse metade da instrução de Madalena, encoivarava isto brincando. Reconheço finalmente que aquela papelada tinha préstimo.
 
 O que é certo é que, a respeito de letras, sou versado em estatística, pecuária, agricultura, escrituração mercantil, conhecimentos inúteis neste gênero. Recorrendo a eles, arrisco-me a usar expressões técnicas, desconhecidas do público, e a ser tido por pedante. Saindo daí, a minha ignorância é completa. E não vou, está claro, aos cinquenta anos, munir-me de noções que não obtive na mocidade.
 
-Não obtive, porque elas não me tentavam e porque me orientei num sentido diferente. O meu fito15 na vida foi apossar-me das terras de S. Bernardo, construir esta casa, plantar algodão, plantar mamona, levantar a serraria e o descaroçador, introduzir nestas brenhas16 a pomicultura e a avicultura, adquirir um rebanho bovino regular. Tudo isso é fácil quando está terminado e embira-se17 em duas linhas, mas para o sujeito que vai começar, olha os quatro cantos e não tem em que se pegue, as dificuldades são terríveis. Há também a capela, que fiz por insinuações de padre Silvestre.
+Não obtive, porque elas não me tentavam e porque me orientei num sentido diferente. O meu fito na vida foi apossar-me das terras de S. Bernardo, construir esta casa, plantar algodão, plantar mamona, levantar a serraria e o descaroçador, introduzir nestas brenhas a pomicultura e a avicultura, adquirir um rebanho bovino regular. Tudo isso é fácil quando está terminado e embira-se em duas linhas, mas para o sujeito que vai começar, olha os quatro cantos e não tem em que se pegue, as dificuldades são terríveis. Há também a capela, que fiz por insinuações de padre Silvestre.
 
 Ocupado com esses empreendimentos, não alcancei a ciência do João Nogueira nem as tolices do Gondim. As pessoas que me lerem terão, pois, a bondade de traduzir isto em linguagem literária, se quiserem. Se não quiserem, pouco se perde. Não pretendo bancar escritor. É tarde para mudar de profissão. E o pequeno que ali está chorando necessita quem o encaminhe e lhe ensine as regras de bem viver.
 
@@ -73,17 +75,17 @@ O pior é que já estraguei diversas folhas e ainda não principiei.
 
 Dois capítulos perdidos. Talvez não fosse mau aproveitar os do Gondim, depois de expurgados.
 
-## III
+### Capítulo — 03
 
 Começo declarando que me chamo Paulo Honório, peso oitenta e nove quilos e completei cinquenta anos pelo São Pedro. A idade, o peso, as sobrancelhas cerradas e grisalhas, este rosto vermelho e cabeludo, têm-me rendido muita consideração. Quando me faltavam estas qualidades, a consideração era menor.
 
 Para falar com franqueza, o número de anos assim positivo e a data de São Pedro são convencionais: adoto-os porque estão no livro de assentamentos de batizados da freguesia. Possuo a certidão, que menciona padrinhos, mas não menciona pai nem mãe. Provavelmente eles tinham motivo para não desejarem ser conhecidos. Não posso, portanto, festejar com exatidão o meu aniversário. Em todo o caso, se houver diferença, não deve ser grande: mês a mais ou mês a menos. Isto não vale nada: acontecimentos importantes estão nas mesmas condições.
 
-Sou, pois, o iniciador de uma família, o que se por um lado me causa alguma decepção, por outro lado me livra da maçada18 de suportar parentes pobres, indivíduos que de ordinário escorregam com uma sem-vergonhice da peste na intimidade dos que vão trepando.
+Sou, pois, o iniciador de uma família, o que se por um lado me causa alguma decepção, por outro lado me livra da maçada de suportar parentes pobres, indivíduos que de ordinário escorregam com uma sem-vergonhice da peste na intimidade dos que vão trepando.
 
-Se tentasse contar-lhes a minha meninice, precisava mentir. Julgo que rolei por aí à toa. Lembro-me dum cego que me puxava as orelhas e da velha Margarida, que vendia doces. O cego desapareceu. A velha Margarida mora aqui em S. Bernardo, numa casinha limpa, e ninguém a incomoda. Custa-me dez mil réis por semana, quantia suficiente para compensar o bocado que me deu. Tem um século, e qualquer dia destes compro-lhe mortalha e mando enterrá-la perto do altar-mor19 da capela.
+Se tentasse contar-lhes a minha meninice, precisava mentir. Julgo que rolei por aí à toa. Lembro-me dum cego que me puxava as orelhas e da velha Margarida, que vendia doces. O cego desapareceu. A velha Margarida mora aqui em S. Bernardo, numa casinha limpa, e ninguém a incomoda. Custa-me dez mil réis por semana, quantia suficiente para compensar o bocado que me deu. Tem um século, e qualquer dia destes compro-lhe mortalha e mando enterrá-la perto do altar-mor da capela.
 
-Até os dezoito anos gastei muita enxada ganhando cinco tostões por doze horas de serviço. Aí pratiquei o meu primeiro ato digno de referência. Numa sentinela, que acabou em furdunço, abrequei20 a Germana, cabritinha sarará21 danadamente assanhada, e arrochei-lhe um beliscão retorcido na popa da bunda. Ela ficou-se mijando de gosto. Depois botou os quartos de banda22 e enxeriu-se com o João Fagundes, um que mudou o nome para furtar cavalos. O resultado foi eu arrumar uns cocorote na Germana e esfaquear João Fagundes. Então o delegado de polícia me prendeu, levei uma surra de cipó de boi, tomei cabacinho23 e estive de molho, pubo24, três anos, nove meses e quinze dias na cadeia, onde aprendi leitura com o Joaquim sapateiro, que tinha uma bíblia miúda, dos protestantes.
+Até os dezoito anos gastei muita enxada ganhando cinco tostões por doze horas de serviço. Aí pratiquei o meu primeiro ato digno de referência. Numa sentinela, que acabou em furdunço, abrequei a Germana, cabritinha sarará danadamente assanhada, e arrochei-lhe um beliscão retorcido na popa da bunda. Ela ficou-se mijando de gosto. Depois botou os quartos de banda e enxeriu-se com o João Fagundes, um que mudou o nome para furtar cavalos. O resultado foi eu arrumar uns cocorote na Germana e esfaquear João Fagundes. Então o delegado de polícia me prendeu, levei uma surra de cipó de boi, tomei cabacinho e estive de molho, pubo, três anos, nove meses e quinze dias na cadeia, onde aprendi leitura com o Joaquim sapateiro, que tinha uma bíblia miúda, dos protestantes.
 
 Joaquim sapateiro morreu. Germana arruinou. Quando me soltaram, ela estava na vida, de porta aberta, com doença do mundo.
 
@@ -91,11 +93,11 @@ Nesse tempo eu não pensava mais nela, pensava em ganhar dinheiro. Tirei o títu
 
 De bicho na capação (falando com pouco ensino), esperneei nas unhas do Pereira, que me levou músculo e nervo, aquele malvado. Depois vinguei- me: hipotecou-me a propriedade e tomei-lhe tudo, deixei-o de tanga. Mas isso foi muito mais tarde.
 
-A princípio o capital se desviava de mim, e persegui-o sem descanso, viajando pelo sertão, negociando com redes, gado, imagens, rosários, miudezas, ganhando aqui, perdendo ali, marchando no fiado, assinando letras, realizando operações embrulhadíssimas25. Sofri sede e fome, dormi na areia dos rios secos, briguei com gente que fala aos berros e efetuei transações comerciais de armas engatilhadas. Está um exemplo. O dr. Sampaio comprou-me uma boiada, e na hora da onça beber água26 deu-me com o cotovelo, ficou palitando os dentes. Andei, virei, mexi, procurei empenhos — e ele duro como beira de sino. Chorei as minhas desgraças: tinha obrigações em penca, aquilo não era trato, e tal, enfim, etc. O safado do velhaco, turuna27, homem de facão grande no município dele, passou-me um esbregue28. Não desanimei: escolhi uns rapazes em Cancalancó e quando o doutor ia para a fazenda, caí-lhe em cima, de supetão. Amarrei-o, meti-me com ele na capoeira, estraguei-lhe os couros nos espinhos dos mandacarus, quipás, alastrados e rabos de raposa.
+A princípio o capital se desviava de mim, e persegui-o sem descanso, viajando pelo sertão, negociando com redes, gado, imagens, rosários, miudezas, ganhando aqui, perdendo ali, marchando no fiado, assinando letras, realizando operações embrulhadíssimas. Sofri sede e fome, dormi na areia dos rios secos, briguei com gente que fala aos berros e efetuei transações comerciais de armas engatilhadas. Está um exemplo. O dr. Sampaio comprou-me uma boiada, e na hora da onça beber água deu-me com o cotovelo, ficou palitando os dentes. Andei, virei, mexi, procurei empenhos — e ele duro como beira de sino. Chorei as minhas desgraças: tinha obrigações em penca, aquilo não era trato, e tal, enfim, etc. O safado do velhaco, turuna, homem de facão grande no município dele, passou-me um esbregue. Não desanimei: escolhi uns rapazes em Cancalancó e quando o doutor ia para a fazenda, caí-lhe em cima, de supetão. Amarrei-o, meti-me com ele na capoeira, estraguei-lhe os couros nos espinhos dos mandacarus, quipás, alastrados e rabos de raposa.
 
 — Vamos ver quem tem roupa na mochila. Agora eu lhe mostro com quantos paus se faz uma canoa.
 
-O doutor, que ensinou rato a furar almotolia29, sacudiu-me a justiça e a religião.
+O doutor, que ensinou rato a furar almotolia, sacudiu-me a justiça e a religião.
 
 — Que justiça! Não há justiça nem há religião. O que há é que o senhor vai espichar aqui trinta contos e mais os juros de seis meses. Ou paga ou eu mando sangrá-lo devagarinho.
 
@@ -105,17 +107,17 @@ Dr. Sampaio escreveu um bilhete à família e entregou-me no mesmo dia trinta e 
 
 Não tornei a aparecer por aquelas bandas. Se tornasse, era um tiro de pé de pau na certa, a cara esfolada para não ser reconhecido quando me encontrassem com os dentes de fora, fazendo munganga ao sol, e a supressão da minha fortuna, que eu conduzia dentro de um chocalho grande, arrolhado com folhas e pendurado no arção da sela. Ali estava em segurança: se o dinheiro e as folhas caíssem, o chocalho tocava. Afinal, cansado daquela vida de cigano, voltei para a mata. Casimiro Lopes, que não bebia água na ribeira do Navio, acompanhou-me. Gosto dele. É corajoso, laça, rasteja, tem faro de cão e fidelidade de cão.
 
-## IV
+### Capítulo — 04
 
-Resolvi estabelecer-me aqui na minha terra, município de Viçosa, Alagoas, e logo planeei30 adquirir a propriedade S. Bernardo, onde trabalhei, no eito31, com salário de cinco tostões. Meu antigo patrão, Salustiano Padilha, que tinha levado uma vida de economias indecentes para fazer o filho doutor, acabara morrendo do estômago e de fome sem ver na família o título que ambicionava. Como quem não quer nada, procurei avistar-me com Padilha moço (Luís). Encontrei-o no bilhar, jogando bacará, completamente bêbedo. Está claro que o jogo é uma profissão, embora censurável, mas o homem que bebe jogando não tem juízo. Aperuei32 meia hora e percebi que o rapaz era pexote33 e estava sendo roubado descaradamente. Travei amizade com ele e em dois meses emprestei-lhe dois contos de réis, que ele sapecou depressa na orelha da sota34 e em folias de bacalhau e aguardente, com fêmeas ratuínas35, no Pão-sem-Miolo. Vi essas maluqueiras bastante satisfeito, e quando um dia, de novo quebrado, ele me veio convidar para um São João na fazenda, afrouxei mais quinhentos mil-réis. Ao ver a letra, fingi desprendimento:
+Resolvi estabelecer-me aqui na minha terra, município de Viçosa, Alagoas, e logo planeei adquirir a propriedade S. Bernardo, onde trabalhei, no eito, com salário de cinco tostões. Meu antigo patrão, Salustiano Padilha, que tinha levado uma vida de economias indecentes para fazer o filho doutor, acabara morrendo do estômago e de fome sem ver na família o título que ambicionava. Como quem não quer nada, procurei avistar-me com Padilha moço (Luís). Encontrei-o no bilhar, jogando bacará, completamente bêbedo. Está claro que o jogo é uma profissão, embora censurável, mas o homem que bebe jogando não tem juízo. Aperuei meia hora e percebi que o rapaz era pexote e estava sendo roubado descaradamente. Travei amizade com ele e em dois meses emprestei-lhe dois contos de réis, que ele sapecou depressa na orelha da sota e em folias de bacalhau e aguardente, com fêmeas ratuínas, no Pão-sem-Miolo. Vi essas maluqueiras bastante satisfeito, e quando um dia, de novo quebrado, ele me veio convidar para um São João na fazenda, afrouxei mais quinhentos mil-réis. Ao ver a letra, fingi desprendimento:
 
 — Para que isso? Entre nós... Formalidades.
 
 Mas guardei o papel.
 
-Achei a propriedade em cacos: mato, lama e potó36 como os diabos. A casa-grande tinha paredes caídas, e os caminhos estavam quase intransitáveis. Mas que terra excelente!
+Achei a propriedade em cacos: mato, lama e potó como os diabos. A casa-grande tinha paredes caídas, e os caminhos estavam quase intransitáveis. Mas que terra excelente!
 
-À noite, enquanto a negrada sambava, num forrobodó empestado, levantando poeira na sala, e a música de zabumba e pífanos tocava o hino nacional, Padilha andava com um lote de caboclas fazendo voltas em redor de um tacho de canjica, no pátio que os muçambês37 invadiam. Tirei-o desse interessante divertimento:
+À noite, enquanto a negrada sambava, num forrobodó empestado, levantando poeira na sala, e a música de zabumba e pífanos tocava o hino nacional, Padilha andava com um lote de caboclas fazendo voltas em redor de um tacho de canjica, no pátio que os muçambês invadiam. Tirei-o desse interessante divertimento:
 
 — Por que é que você não cultiva S. Bernardo?
 
@@ -131,7 +133,7 @@ Agarrava-se a um fueiro do carro e punha-se a vomitar. Depois pegava no sono par
 
 — Arados, não há nada como os arados.
 
-Apareceu-me no dia seguinte, ainda com vestígios do pifão38:
+Apareceu-me no dia seguinte, ainda com vestígios do pifão:
 
 — Seu Paulo Honório, venho consultá-lo. O senhor, homem prático...
 
@@ -147,7 +149,7 @@ Burrice. Estragar terra tão fértil plantando mandioca!
 
 — É bom.
 
-E não prestei mais atenção ao caso, deixei que ele se entusiasmasse só e fosse discutir o seu projeto no Gurganema, à noite, ao som do violão. Realmente transformou-se. Nas pedras do Paraíba, com uma garrafa de cachaça, aperreava39 os companheiros de farra, declamando sementes e adubos químicos. Tornou-se regularmente vaidoso, desejava aprender agronomia, e em pouco tempo a cidade inteira conheceu as plantações, as máquinas, a fábrica de farinha.
+E não prestei mais atenção ao caso, deixei que ele se entusiasmasse só e fosse discutir o seu projeto no Gurganema, à noite, ao som do violão. Realmente transformou-se. Nas pedras do Paraíba, com uma garrafa de cachaça, aperreava os companheiros de farra, declamando sementes e adubos químicos. Tornou-se regularmente vaidoso, desejava aprender agronomia, e em pouco tempo a cidade inteira conheceu as plantações, as máquinas, a fábrica de farinha.
 
 — Como vai a lavoura, Padilha?
 
@@ -155,13 +157,13 @@ A princípio respondia, depois compreendeu o ridículo e deu para se esquivar, m
 
 — Selvagens! — rosnava aguentando as batotas no bacará. — Vamos para diante.
 
-E a gente ficava sem saber se ele se referia aos parceiros que o pelavam40 ou aos camaradas que mangavam41 dele. Procurou-me e desabafou:
+E a gente ficava sem saber se ele se referia aos parceiros que o pelavam ou aos camaradas que mangavam dele. Procurou-me e desabafou:
 
-— Selvagens! Um empreendimento de vulto, o senhor está vendo, e esses burros vêm com picuinha. Aqui ninguém entende nada, seu Paulo, isto é um lugar infeliz. Aqui só se cogita de safadeza e pulhice42.
+— Selvagens! Um empreendimento de vulto, o senhor está vendo, e esses burros vêm com picuinha. Aqui ninguém entende nada, seu Paulo, isto é um lugar infeliz. Aqui só se cogita de safadeza e pulhice.
 
 Cheio de amargura, abalada a decisão dos primeiros dias, confessou-me que tinha tentado contrair um empréstimo com o Pereira.
 
-— Cavalo! Fiz uma exposição minuciosa, demonstrei cabalmente que o negócio é magnífico. Não acreditou, disse que estava no pau da arara43. E eu calculei que talvez a transação lhe interessasse. Quer desembolsar aí uns vinte contos?
+— Cavalo! Fiz uma exposição minuciosa, demonstrei cabalmente que o negócio é magnífico. Não acreditou, disse que estava no pau da arara. E eu calculei que talvez a transação lhe interessasse. Quer desembolsar aí uns vinte contos?
 
 Examinei sorrindo aquele bichinho amarelo, de beiços delgados e dentes podres.
 
@@ -189,11 +191,11 @@ No outro dia ainda estava refletindo:
 
 Passei uma semana nesse jogo, colhendo informações sobre a idade, a saúde e a fortuna do velho Mendonça. Quando me decidi, sujeitos prudentes juraram que eu estava doido.
 
-Padilha recebeu os vinte contos (menos o que me devia e os juros), comprou uma tipografia e fundou o Correio de Viçosa, folha política, noticiosa, independente, que teve apenas quatro números e foi substituída pelo Grêmio Literário e Recreativo. Azevedo Gondim elaborou os estatutos, e na primeira sessão de assembleia geral Padilha foi aclamado sócio benemérito44 e presidente honorário perpétuo.
+Padilha recebeu os vinte contos (menos o que me devia e os juros), comprou uma tipografia e fundou o Correio de Viçosa, folha política, noticiosa, independente, que teve apenas quatro números e foi substituída pelo Grêmio Literário e Recreativo. Azevedo Gondim elaborou os estatutos, e na primeira sessão de assembleia geral Padilha foi aclamado sócio benemérito e presidente honorário perpétuo.
 
 Relativamente à agricultura Luís Padilha acuou, esperando uns catálogos de máquinas, que nunca chegaram. Começou a fugir de mim. Se me encontrava, encolhia-se, fingia-se distraído, embicava o chapéu. No vencimento da primeira letra adoeceu. Fui visitá-lo e achei-o escondido na sala de jantar, jogando gamão com João Nogueira. Vendo-me, atrapalhou-se tanto que os dedos magros, queimados, de unhas roídas, tremiam chocalhando os dados.
 
-Daí em diante encantou-se. Disseram-me que tinha ensebado as canelas45 para S. Bernardo.
+Daí em diante encantou-se. Disseram-me que tinha ensebado as canelas para S. Bernardo.
 
 — Que estará fazendo por lá?
 
@@ -245,17 +247,17 @@ Luís Padilha abriu a boca e arregalou os olhos miúdos. S. Bernardo era para el
 
 — Aqui entre nós — murmurou o desgraçado —, sempre desejei conservar a fazenda.
 
-— Para quê? S. Bernardo é uma pinoia. Falo como amigo. Sim senhor, como amigo. Não tenciono ver um camarada com a corda no pescoço. Esses bacharéis têm fome canina, e se eu mandar o Nogueira tocar fogo na binga46, você fica de saco nas costas. Despesa muita, Padilha. Faça preço.
+— Para quê? S. Bernardo é uma pinoia. Falo como amigo. Sim senhor, como amigo. Não tenciono ver um camarada com a corda no pescoço. Esses bacharéis têm fome canina, e se eu mandar o Nogueira tocar fogo na binga, você fica de saco nas costas. Despesa muita, Padilha. Faça preço.
 
-Debatemos a transação até o lusco-fusco47. Para começar, Luís Padilha pediu oitenta contos.
+Debatemos a transação até o lusco-fusco. Para começar, Luís Padilha pediu oitenta contos.
 
 — Você está maluco! Seu pai dava isto ao Fidélis por cinquenta. E era caro. Hoje que o engenho caiu, o gado dos vizinhos rebentou as porteiras, as casas são taperas, o Mendonça vai passando as unhas nos babados...
 
-Perdi o fôlego. Respirei e ofereci trinta contos. Ele baixou para setenta e mudamos de conversa. Quando tornamos à barganha, subi a trinta e dois. Padilha fez abate para sessenta e cinco e jurou por Deus do céu que era a última palavra. Eu também asseverei48 que não pingava mais um vintém, porque não valia. Mas lancei trinta e quatro. Padilha, por camaradagem, consentiu em receber sessenta. Discutimos duas horas, repetindo os mesmos embelecos49, sem nenhum resultado.
+Perdi o fôlego. Respirei e ofereci trinta contos. Ele baixou para setenta e mudamos de conversa. Quando tornamos à barganha, subi a trinta e dois. Padilha fez abate para sessenta e cinco e jurou por Deus do céu que era a última palavra. Eu também asseverei que não pingava mais um vintém, porque não valia. Mas lancei trinta e quatro. Padilha, por camaradagem, consentiu em receber sessenta. Discutimos duas horas, repetindo os mesmos embelecos, sem nenhum resultado.
 
 Resolvi discorrer sobre as minhas viagens ao sertão. Depois, com indiferença, insisti nos trinta e quatro contos e obtive modificação para cinquenta e cinco. Mostrei generosidade: trinta e cinco. Padilha endureceu nos cinquenta e cinco, e eu injuriei-o, declarei que o velho Salustiano tinha deitado fora o dinheiro gasto com ele, no colégio.
 
-Cheguei a ameaçá-lo com as mãos. Recuou para cinquenta. Avancei para quarenta e afirmei que estava roubando a mim mesmo. Nesse ponto cada um puxou para o seu lado. Finca-pé50. Chamei em meu auxílio o Mendonça, que engolia a terra, o oficial de justiça, a avaliação e as custas. O infeliz, apavorado, desceu a quarenta e oito. Arrependi-me de haver arriscado quarenta: não valia, era um roubo. Padilha escorregou a quarenta e cinco. Firmei-me nos quarenta. Em seguida roí a corda:
+Cheguei a ameaçá-lo com as mãos. Recuou para cinquenta. Avancei para quarenta e afirmei que estava roubando a mim mesmo. Nesse ponto cada um puxou para o seu lado. Finca-pé. Chamei em meu auxílio o Mendonça, que engolia a terra, o oficial de justiça, a avaliação e as custas. O infeliz, apavorado, desceu a quarenta e oito. Arrependi-me de haver arriscado quarenta: não valia, era um roubo. Padilha escorregou a quarenta e cinco. Firmei-me nos quarenta. Em seguida roí a corda:
 
 — Muito por baixo. Pindaíba.
 
@@ -263,9 +265,9 @@ Descontado o que ele me devia, o resto seria dividido em letras. Padilha endoide
 
 — Eu me importo com lei? Um fumo!
 
-Tinha meios. Perfeitamente, não andava com a cara para trás. Tinha meios. Ia à tribuna da imprensa, reclamar os seus direitos, protestar contra o esbulho. Afetei comiseração51 e prometi pagar com dinheiro e com uma casa que possuía na rua. Dez contos. Padilha botou sete contos na casa e quarenta e três em S. Bernardo. Arranquei-lhe mais dois contos: quarenta e dois pela propriedade e oito pela casa. Arengamos ainda meia hora e findamos o ajuste. Para evitar arrependimento, levei Padilha para a cidade, vigiei-o durante a noite. No outro dia, cedo, ele meteu o rabo na ratoeira e assinou a escritura. Deduzi a dívida, os juros, o preço da casa, e entreguei-lhe sete contos quinhentos e cinquenta mil-réis. Não tive remorsos.
+Tinha meios. Perfeitamente, não andava com a cara para trás. Tinha meios. Ia à tribuna da imprensa, reclamar os seus direitos, protestar contra o esbulho. Afetei comiseração e prometi pagar com dinheiro e com uma casa que possuía na rua. Dez contos. Padilha botou sete contos na casa e quarenta e três em S. Bernardo. Arranquei-lhe mais dois contos: quarenta e dois pela propriedade e oito pela casa. Arengamos ainda meia hora e findamos o ajuste. Para evitar arrependimento, levei Padilha para a cidade, vigiei-o durante a noite. No outro dia, cedo, ele meteu o rabo na ratoeira e assinou a escritura. Deduzi a dívida, os juros, o preço da casa, e entreguei-lhe sete contos quinhentos e cinquenta mil-réis. Não tive remorsos.
 
-## V
+### Capítulo — 05
 
 — O senhor andou mal adquirindo a propriedade sem me consultar — gritou Mendonça, do outro lado da cerca.
 
@@ -283,7 +285,7 @@ Ponderei ao velho Mendonça que ele já tinha encolhido muito as terras de S. Be
 
 Contei rapidamente os caboclos que iam com ele, contei os meus e asseverei que a cerca não se derrubava. Explicações, com bons modos, sim; gritos não.
 
-E abrandei, meio arrependido, porque não me convinha uma briga com Mendonça, homem reimoso52. O que eu não queria era baixar a crista logo no primeiro encontro.
+E abrandei, meio arrependido, porque não me convinha uma briga com Mendonça, homem reimoso. O que eu não queria era baixar a crista logo no primeiro encontro.
 
 Casimiro Lopes deu um passo; toquei-lhe no ombro e ele recuou. Mendonça compreendeu a situação, passou a tratar-me com amabilidade excessiva. Paguei na mesma moeda, e como ele precisasse de uns cedros que havia perto de Bom-Sucesso, ofereci-lhe os cedros. Recusou, propôs trocá-los por novilhas zebus. Declarei que não tencionava criar gado indiano, falei com entusiasmo sobre o limousin e o Schwitz. Mendonça desdenhava as raças finas, que comem demais e não aguentam o carrapato: engordava garrotes para açougue.
 
@@ -313,11 +315,11 @@ Diabo! Agitei a cabeça e afastei um plano mal esboçado.
 
 — Por enquanto, só.
 
-## VI
+### Capítulo — 06
 
-Naquele segundo ano houve dificuldades medonhas. Plantei mamona e algodão, mas a safra foi ruim, os preços baixos, vivi meses aperreado, vendendo macacos e fazendo das fraquezas forças para não ir ao fundo. Trabalhava danadamente, dormindo pouco, levantando-me às quatro da manhã, passando dias ao sol, à chuva, de facão, pistola e cartucheira53, comendo nas horas de descanso um pedaço de bacalhau assado e um punhado de farinha. À noite, na rede, explicava pormenores do serviço a Casimiro Lopes. Ele acocorava-se na esteira e, apesar da fadiga, ouvia atento. Às vezes Tubarão ladrava lá fora e nós aguçávamos o ouvido.
+Naquele segundo ano houve dificuldades medonhas. Plantei mamona e algodão, mas a safra foi ruim, os preços baixos, vivi meses aperreado, vendendo macacos e fazendo das fraquezas forças para não ir ao fundo. Trabalhava danadamente, dormindo pouco, levantando-me às quatro da manhã, passando dias ao sol, à chuva, de facão, pistola e cartucheira, comendo nas horas de descanso um pedaço de bacalhau assado e um punhado de farinha. À noite, na rede, explicava pormenores do serviço a Casimiro Lopes. Ele acocorava-se na esteira e, apesar da fadiga, ouvia atento. Às vezes Tubarão ladrava lá fora e nós aguçávamos o ouvido.
 
-Uma feita54 distinguimos passos em redor da casa. Olhei por uma fresta na parede. A escuridão era grande, mas percebi um vulto. E as pisadas continuaram. O cachorro latiu e rosnou.
+Uma feita distinguimos passos em redor da casa. Olhei por uma fresta na parede. A escuridão era grande, mas percebi um vulto. E as pisadas continuaram. O cachorro latiu e rosnou.
 
 — Mais esta! — cochichou Casimiro Lopes.
 
@@ -339,9 +341,9 @@ Continuava a observá-lo, mas a observação era instintiva. Despertou. Bocejand
 
 Respondi que havia dormido como pedra. Os pântanos em S. Bernardo estavam aterrados, não restava um mosquito para remédio. Arrependi-me de ter falado precipitadamente. Mendonça examinou-me de través, e suponho que não ficou satisfeito. Tornou a referir-se à noite de insônia, e eu repeti que tinha dormido. Pouco seguro, com a cara mexendo. Naturalmente ele compreendeu que era mentira.
 
-Cada um de nós mentiu estupidamente. Empurrei de novo na palestra a minha vida de trabalhador. Resultado medíocre: as moças cochilaram e Mendonça estirou o beiço55.
+Cada um de nós mentiu estupidamente. Empurrei de novo na palestra a minha vida de trabalhador. Resultado medíocre: as moças cochilaram e Mendonça estirou o beiço.
 
-Um caboclo mal-encarado entrou na sala. Mendonça franziu a testa. Quis despedir-me; receei, porém, que o momento fosse impróprio e conservei-me sentado, esperando modificar a impressão desagradável que produzia. As moças me achavam maçador56, evidentemente.
+Um caboclo mal-encarado entrou na sala. Mendonça franziu a testa. Quis despedir-me; receei, porém, que o momento fosse impróprio e conservei-me sentado, esperando modificar a impressão desagradável que produzia. As moças me achavam maçador, evidentemente.
 
 — Se o inverno vindouro for como este, desgraça-se tudo: isto vira lama e não nasce um pé de mandioca.
 
@@ -353,9 +355,9 @@ E saí, descontente. Creio que foi mais ou menos o que aconteceu. Não me lembro
 
 Atravessei o pátio e entrei no atalho que ia ter a S. Bernardo. Que vergonha! Tomar a terra dos outros e deixá-la com aquelas veredas indecentes, cheias de camaleões, o mato batendo no rosto de quem passava!
 
-Percorri a zona da encrenca. A cerca ainda estava no ponto em que eu a tinha encontrado no ano anterior. Mendonça forcejava por avançar, mas continha-se; eu procurava alcançar os limites antigos, inutilmente. Discórdia séria só esta: um moleque de S. Bernardo fizera mal à filha do mestre de açúcar de Mendonça, e Mendonça, em consequência, metera o alicate no arame; mas eu havia consertado a cerca e arranjado o casamento do moleque com a cabrochinha57.
+Percorri a zona da encrenca. A cerca ainda estava no ponto em que eu a tinha encontrado no ano anterior. Mendonça forcejava por avançar, mas continha-se; eu procurava alcançar os limites antigos, inutilmente. Discórdia séria só esta: um moleque de S. Bernardo fizera mal à filha do mestre de açúcar de Mendonça, e Mendonça, em consequência, metera o alicate no arame; mas eu havia consertado a cerca e arranjado o casamento do moleque com a cabrochinha.
 
-Dei uma vista no algodoal58 e encaminhei-me ao paredão do açude. Poucos trabalhadores. Subi a colina. Tinham-se concluído os alicerces desta nossa casa, as paredes começavam a elevar-se. De repente um tiro. Estremeci. Era na pedreira, que mestre Caetano escavacava59 lentamente, com dois cavouqueiros. Outro tiro, ruim: pedra miúda voando.
+Dei uma vista no algodoal e encaminhei-me ao paredão do açude. Poucos trabalhadores. Subi a colina. Tinham-se concluído os alicerces desta nossa casa, as paredes começavam a elevar-se. De repente um tiro. Estremeci. Era na pedreira, que mestre Caetano escavacava lentamente, com dois cavouqueiros. Outro tiro, ruim: pedra miúda voando.
 
 Quando se acabariam aqueles serviços moles? Desgraçadamente faltavam-me recursos para atacá-los firme. Assim mesmo, lidando com pessoal escasso, às vezes na sexta-feira eu não sabia onde buscar dinheiro para pagar as folhas no sábado.
 
@@ -387,9 +389,9 @@ Na hora do crime eu estava na cidade, conversando com o vigário a respeito da i
 
 — Se tinha! Ora se tinha! Inimigo como carrapato. Vamos ao resto, padre Silvestre. Quanto custa um sino?
 
-## VII
+### Capítulo — 07
 
-Por esse tempo, encontrei em Maceió, chupando uma barata60 na Gazeta do Brito, um velho alto, magro, curvado, amarelo, de suíças61, chamado Ribeiro. Via-se perfeitamente que andava com fome. Simpatizei com ele e, como necessitava um guarda-livros62, trouxe-o para S. Bernardo. Dei-lhe alguma confiança e ouvi a sua história, que aqui reproduzo pondo os verbos na terceira pessoa e usando quase a linguagem dele.
+Por esse tempo, encontrei em Maceió, chupando uma barata na Gazeta do Brito, um velho alto, magro, curvado, amarelo, de suíças, chamado Ribeiro. Via-se perfeitamente que andava com fome. Simpatizei com ele e, como necessitava um guarda-livros, trouxe-o para S. Bernardo. Dei-lhe alguma confiança e ouvi a sua história, que aqui reproduzo pondo os verbos na terceira pessoa e usando quase a linguagem dele.
 
 Seu Ribeiro tinha setenta anos e era infeliz, mas havia sido moço e feliz. Na povoação onde ele morava os homens descobriam-se ao avistá-lo e as mulheres baixavam a cabeça e diziam:
 
@@ -403,7 +405,7 @@ Os outros homens, sim, eram inocentes.
 
 Acontecia às vezes que uma dessas criaturas inocentes aparecia morta a cacete ou a faca. Seu Ribeiro, que era justo, procurava o matador, amarrava-o, levava-o para a cadeia da cidade. E a família do defunto ficava sob a proteção do major.
 
-Também acontecia que uma sujeitinha começava a chorar e acabava confessando que estava pejada63. Seu Ribeiro descobria o sedutor, chamava o padre, e o casamento se realizava na capela da povoação. Nascia um menino — e seu Ribeiro era o padrinho.
+Também acontecia que uma sujeitinha começava a chorar e acabava confessando que estava pejada. Seu Ribeiro descobria o sedutor, chamava o padre, e o casamento se realizava na capela da povoação. Nascia um menino — e seu Ribeiro era o padrinho.
 
 O major decidia, ninguém apelava. A decisão do major era um prego. Não havia soldados no lugar, nem havia juiz. E como o vigário residia longe, a mulher de seu Ribeiro rezava o terço e contava histórias de santos às crianças. É possível que nem todas as histórias fossem verdadeiras, mas as crianças daquele tempo não se preocupavam com a verdade.
 
@@ -415,13 +417,13 @@ Na verdade seu Ribeiro infundia respeito. Se havia barulho na feira, levantava o
 
 E a feira se desmanchava, o barulho findava, todo o mundo seguia o major porque todo o mundo era do major.
 
-Nas noites de São João uma fogueira enorme iluminava a casa de seu Ribeiro. Havia fogueiras diante das outras casas, mas a fogueira do major tinha muitas carradas de lenha. As moças e os rapazes andavam em redor dela, de braço dado. Assava-se milho verde nas brasas e davam-se tiros medonhos de bacamarte64. O major possuía um bacamarte, mas o bacamarte só se desenferrujava pelos festejos de São João.
+Nas noites de São João uma fogueira enorme iluminava a casa de seu Ribeiro. Havia fogueiras diante das outras casas, mas a fogueira do major tinha muitas carradas de lenha. As moças e os rapazes andavam em redor dela, de braço dado. Assava-se milho verde nas brasas e davam-se tiros medonhos de bacamarte. O major possuía um bacamarte, mas o bacamarte só se desenferrujava pelos festejos de São João.
 
 Ora, essas coisas se passaram antigamente. Mudou tudo. Gente nasceu, gente morreu, os afilhados do major cresceram e foram para o serviço militar, em estrada de ferro.
 
 O povoado transformou-se em vila, a vila transformou-se em cidade, com chefe político, juiz de direito, promotor e delegado de polícia.
 
-Trouxeram máquinas — e a bolandeira65 do major parou.
+Trouxeram máquinas — e a bolandeira do major parou.
 
 Veio o vigário, que fechou a capela e construiu uma igreja bonita. As histórias dos santos morreram na memória das crianças.
 
@@ -435,15 +437,15 @@ As moças e os rapazes não rodeavam, de braço dado, as fogueiras de São João
 
 Um dia seu Ribeiro reconheceu que vivia numa casa grande demais. Vendeu-a e adquiriu outra, pequena. Como havia agora liberdade excessiva, a autoridade dele foi minguando, até desaparecer. Seu Ribeiro tinha um filho, que jogava futebol, e uma filha, que usava fitas, muitas fitas. Acharam o lugar atrasado e fugiram.
 
-Seu Ribeiro escondeu-se, cheio de vergonha. Amofinou-se66 uma semana, desfez-se dos cacarecos e foi procurar os filhos. Não os encontrou: andavam por aí, ela pelas fábricas, ele no exército. Seu Ribeiro enraizou-se na capital. Conheceu enfermarias de indigentes, dormiu nos bancos dos jardins, vendeu bilhetes de loterias, tornou-se bicheiro67 e agente de sociedades ratoeiras. Ao cabo de dez anos era gerente e guarda-livros da Gazeta, com cento e cinquenta mil-réis de ordenado, e pedia dinheiro aos amigos. Quando o velho acabou de escorrer a sua narrativa, exclamei:
+Seu Ribeiro escondeu-se, cheio de vergonha. Amofinou-se uma semana, desfez-se dos cacarecos e foi procurar os filhos. Não os encontrou: andavam por aí, ela pelas fábricas, ele no exército. Seu Ribeiro enraizou-se na capital. Conheceu enfermarias de indigentes, dormiu nos bancos dos jardins, vendeu bilhetes de loterias, tornou-se bicheiro e agente de sociedades ratoeiras. Ao cabo de dez anos era gerente e guarda-livros da Gazeta, com cento e cinquenta mil-réis de ordenado, e pedia dinheiro aos amigos. Quando o velho acabou de escorrer a sua narrativa, exclamei:
 
 — Tenho a impressão de que o senhor deixou as pernas debaixo de um automóvel, seu Ribeiro. Por que não andou mais depressa? É o diabo.
 
-## VIII
+### Capítulo — 08
 
 O caboclo mal-encarado que encontrei um dia em casa do Mendonça também se acabou em desgraça. Uma limpeza. Essa gente quase nunca morre direito. Uns são levados pela cobra, outros pela cachaça, outros matam-se.
 
-Na pedreira perdi um. A alavanca soltou-se da pedra, bateu-lhe no peito, e foi a conta. Deixou viúva e órfãos miúdos. Sumiram-se: um dos meninos caiu no fogo, as lombrigas comeram o segundo, o último teve angina68 e a mulher enforcou-se.
+Na pedreira perdi um. A alavanca soltou-se da pedra, bateu-lhe no peito, e foi a conta. Deixou viúva e órfãos miúdos. Sumiram-se: um dos meninos caiu no fogo, as lombrigas comeram o segundo, o último teve angina e a mulher enforcou-se.
 
 Para diminuir a mortalidade e aumentar a produção, proibi a aguardente.
 
@@ -461,13 +463,13 @@ Depois da morte do Mendonça, derrubei a cerca, naturalmente, e levei-a para al�
 
 — Minhas senhoras, seu Mendonça pintou o diabo enquanto viveu. Mas agora é isto. E quem não gostar, paciência, vá à justiça.
 
-Como a justiça era cara, não foram à justiça. E eu, o caminho aplainado, invadi a terra do Fidélis, paralítico de um braço, e a dos Gama, que pandegavam no Recife, estudando direito. Respeitei o engenho do dr. Magalhães, juiz. Violências miúdas passaram despercebidas. As questões mais sérias foram ganhas no foro, graças às chicanas69 de João Nogueira.
+Como a justiça era cara, não foram à justiça. E eu, o caminho aplainado, invadi a terra do Fidélis, paralítico de um braço, e a dos Gama, que pandegavam no Recife, estudando direito. Respeitei o engenho do dr. Magalhães, juiz. Violências miúdas passaram despercebidas. As questões mais sérias foram ganhas no foro, graças às chicanas de João Nogueira.
 
 Efetuei transações arriscadas, endividei-me, importei maquinismos e não prestei atenção aos que me censuravam por querer abarcar o mundo com as pernas. Iniciei a pomicultura e a avicultura. Para levar os meus produtos ao mercado, comecei uma estrada de rodagem. Azevedo Gondim compôs sobre ela dois artigos, chamou-me patriota, citou Ford e Delmiro Gouveia. Costa Brito também publicou uma nota na Gazeta, elogiando-me e elogiando o chefe político local. Em consequência mordeu-me cem mil-réis.
 
 Não obstante essa propaganda, as dificuldades surgiram. Enquanto estive esburacando S. Bernardo, tudo andou bem; mas quando varei quatro ou cinco propriedades, caiu-me em cima uma nuvem de marimbondos. Perdi dois caboclos e levei um tiro de emboscada. Ferimento leve, tenho a cicatriz no ombro. Exasperado, mandei mais cem mil-réis a Costa Brito e procurei João Nogueira e Gondim:
 
-— Desorientem essas cavalgaduras. Olhem que estou fazendo obra pública e não cobro imposto. É uma vergonha. O município devia auxiliar-me. Fale com o prefeito, dr. Nogueira. Veja se ele me arranja umas barricas de cimento para os mata-burros70.
+— Desorientem essas cavalgaduras. Olhem que estou fazendo obra pública e não cobro imposto. É uma vergonha. O município devia auxiliar-me. Fale com o prefeito, dr. Nogueira. Veja se ele me arranja umas barricas de cimento para os mata-burros.
 
 Não recebi o cimento, mas construí os mata-burros. Como os meus planos eram volumosos e adotei processos irregulares, as pessoas comodistas julgaram-me doido e deixaram-me em paz. Tive por esse tempo a visita do governador do Estado. Fazia três anos que o açude estava concluído — burrice, na opinião do Fidélis.
 
@@ -485,13 +487,13 @@ Levantando-se da mesa, Padilha, de olho vidrado, pediu-me em voz baixa cinquenta
 
 — Nem um tostão.
 
-E fui mostrar ao ilustre hóspede a serraria, o descaroçador e o estábulo. Expliquei em resumo a prensa, o dínamo71, as serras e o banheiro carrapaticida. De repente supus que a escola poderia trazer a benevolência do governador para certos favores que eu tencionava solicitar.
+E fui mostrar ao ilustre hóspede a serraria, o descaroçador e o estábulo. Expliquei em resumo a prensa, o dínamo, as serras e o banheiro carrapaticida. De repente supus que a escola poderia trazer a benevolência do governador para certos favores que eu tencionava solicitar.
 
 — Pois sim senhor. Quando V. Ex.ª vier aqui outra vez, encontrará essa gente aprendendo cartilha.
 
 Mais tarde, enquanto dos alicerces da igreja olhávamos a paisagem, chamei de parte o advogado:
 
-— Ó, dr. Nogueira, mande-me cá o Padilha amanhã. Preciso falar com ele, mas esse desgraçado nem se aguenta nas pernas. Não se esqueça, ouviu? Amanhã, quando ele curtir o pileque72. S. Ex.ª despediu-se, e aquela data ficou célebre. Os automóveis rolaram na estrada. Olhando a nuvem de poeira que levantavam, esfreguei as mãos:
+— Ó, dr. Nogueira, mande-me cá o Padilha amanhã. Preciso falar com ele, mas esse desgraçado nem se aguenta nas pernas. Não se esqueça, ouviu? Amanhã, quando ele curtir o pileque. S. Ex.ª despediu-se, e aquela data ficou célebre. Os automóveis rolaram na estrada. Olhando a nuvem de poeira que levantavam, esfreguei as mãos:
 
 — Com os diabos! Esta visita me traz uma penca de vantagens. Um capital. Quero ver quanto rende.
 
@@ -499,11 +501,11 @@ A verdade é que, aparentando segurança, eu andava assustado com os credores. I
 
 Continuei a esfregar as mãos. Com os diabos!
 
-E decidi proteger as Mendonça. A minha prosperidade começara depois da morte do pai delas. Naquele tempo algumas braças de massapê73 valiam muito para mim. Ninharia o massapê.
+E decidi proteger as Mendonça. A minha prosperidade começara depois da morte do pai delas. Naquele tempo algumas braças de massapê valiam muito para mim. Ninharia o massapê.
 
 Senti pena das Mendonça. Mandaria no dia seguinte dar uma limpa no algodão de Bom-Sucesso, enfezado, coberto de mato. Muito por baixo, as Mendonça. O pai era safado, mas que culpa tinham as pobres? Resolvi abrir o olho para que vizinhos sem escrúpulos não se apoderassem do que era delas. Mulheres quase nunca se defendem. Pois se qualquer daqueles patifes tentasse prejudicá-las, estava embrulhado comigo.
 
-## IX
+### Capítulo — 09
 
 No outro dia, de volta do campo, encontrei no alpendre João Nogueira, Padilha e Azevedo Gondim elogiando umas pernas e uns peitos. Elevaram a conversa.
 
@@ -521,7 +523,7 @@ João Nogueira lembrou-se de que era homem de responsabilidades. Bacharel, mais 
 
 Viemos andando. Como o passeio era agradável, com a fresca da tarde, cheguei cá, para consultá-lo.
 
-Convidei-o silenciosamente olhando uma janela por onde se viam, sobre livros de escrituração, as suíças brancas e os óculos de seu Ribeiro. Entramos no escritório. Estávamos em princípio de mês. Abri o cofre e entreguei ao advogado duas pelegas74 de duzentos. Seu Ribeiro tremeu no borrador um lançamento circunstanciado e afastou-se discretamente. João Nogueira sentou-se, passou o recibo, tirou papéis da pasta e explicou-me o estado de vários processos. Logo no primeiro convenci-me de que os quatrocentos mil-réis tinham sido gastos com proveito. Os outros também iam em bom caminho. O tabelião é que não inspirava confiança. E o oficial de justiça. Arame.
+Convidei-o silenciosamente olhando uma janela por onde se viam, sobre livros de escrituração, as suíças brancas e os óculos de seu Ribeiro. Entramos no escritório. Estávamos em princípio de mês. Abri o cofre e entreguei ao advogado duas pelegas de duzentos. Seu Ribeiro tremeu no borrador um lançamento circunstanciado e afastou-se discretamente. João Nogueira sentou-se, passou o recibo, tirou papéis da pasta e explicou-me o estado de vários processos. Logo no primeiro convenci-me de que os quatrocentos mil-réis tinham sido gastos com proveito. Os outros também iam em bom caminho. O tabelião é que não inspirava confiança. E o oficial de justiça. Arame.
 
 — Claro. Faça promessas, dr. Nogueira. Não adiante um vintém. Prometa. O pagamento no fim, se eles forem honestos.
 
@@ -559,7 +561,7 @@ Estirei os braços, fatigado de haver passado o dia inteiro ao sol, brigando com
 
 — Muito bem, Padilha, vinte e cinco para acabar. Vocês jantam, não jantam? Voltam no automóvel. Preciso falar com você, Padilha.
 
-Luís Padilha tinha recebido o recado e desde a véspera remexia o quengo75, curioso.
+Luís Padilha tinha recebido o recado e desde a véspera remexia o quengo, curioso.
 
 — É isto. Creio que estou com vontade de abrir uma escola.
 
@@ -635,7 +637,7 @@ Seu Ribeiro desdobrou a Gazeta. Instintivamente escondi-me num canto, afastado d
 
 Envergonha-se de compor uns contos que publica no Cruzeiro, com pseudônimo, e quando lhe falam neles, imagina que é esculhambação e atrapalha-se. Aprumou-se, lançou um olhar amargurado às cadeiras, ao soalho, às lâmpadas:
 
-— O ordenado é pequeno, não chega para os livros. Mas venho. Venho porque se trata de instrução e tenho embocadura76 para o magistério.
+— O ordenado é pequeno, não chega para os livros. Mas venho. Venho porque se trata de instrução e tenho embocadura para o magistério.
 
 Seu Ribeiro virava a folha do jornal, movia os beiços, às vezes gesticulava.
 
@@ -647,15 +649,15 @@ Azevedo Gondim, cansado por duas léguas a pé, bocejou e espreguiçou-se:
 
 Eleição municipal.
 
-— Não interessa. Bico de pena77!
+— Não interessa. Bico de pena!
 
-Torcidas de verdade, sim: mandava os meus eleitores às urnas e recebia em troca os agradecimentos do partido. Tricazinhas78 locais, não. Se o Pereira tinha pisado em casca de banana, pior para ele: caía, vinha outro e arranjava-se nova chapa.
+Torcidas de verdade, sim: mandava os meus eleitores às urnas e recebia em troca os agradecimentos do partido. Tricazinhas locais, não. Se o Pereira tinha pisado em casca de banana, pior para ele: caía, vinha outro e arranjava-se nova chapa.
 
 — Bem feito — resmungou Padilha, que não perdoa ao Pereira ter desconfiado dos seus projetos de agricultura. — Aquilo é um jumento.
 
 — Que injustiça! bradou João Nogueira sorrindo. O Pereira até agora foi um sujeito de tino. Todo o mundo gabava a prudência dele. Hoje o Padilha tacha-o de jumento.
 
-— Homem, aventurou Azevedo Gondim coçando a barba, não é só o Padilha. Eu também. E você. Num momento como este dar murro em faca de ponta! Se tivéssemos uma eleição federal de cabala79, vá. Mas quando o governo não faz caso de votos, querer sacudir padre Silvestre na prefeitura! O Padilha tem razão.
+— Homem, aventurou Azevedo Gondim coçando a barba, não é só o Padilha. Eu também. E você. Num momento como este dar murro em faca de ponta! Se tivéssemos uma eleição federal de cabala, vá. Mas quando o governo não faz caso de votos, querer sacudir padre Silvestre na prefeitura! O Padilha tem razão.
 
 — Ora essa! — atalhei. — Você não sustentou a candidatura do vigário no jornal, Gondim?
 
@@ -685,9 +687,9 @@ Levantei-me, fiz um sinal a João Nogueira e aproximamo-nos da janela.
 
 — Ó, dr. Nogueira, diga-me cá, perguntei em voz baixa, essa história da queda do Pereira é certa? João Nogueira aceitou um charuto e declarou que não havia dúvida nenhuma.
 
-— O governador estava razoável e propôs um acordo metendo o padre no conselho. O Pereira jogou no padre e levou taboca80.
+— O governador estava razoável e propôs um acordo metendo o padre no conselho. O Pereira jogou no padre e levou taboca.
 
-— Pois, dr. Nogueira, murmurei abafando mais a voz, cuido que chegou a ocasião de liquidar os meus negócios com o Pereira. Tenho marombado81, espiado maré, porque o chefe era ele. Mas se foi ao barro, acabou-se. Está aqui enrascado numa conta de cabelos brancos. Vou entregar-lhe a conta. Veja se me consegue uma hipoteca.
+— Pois, dr. Nogueira, murmurei abafando mais a voz, cuido que chegou a ocasião de liquidar os meus negócios com o Pereira. Tenho marombado, espiado maré, porque o chefe era ele. Mas se foi ao barro, acabou-se. Está aqui enrascado numa conta de cabelos brancos. Vou entregar-lhe a conta. Veja se me consegue uma hipoteca.
 
 — Perfeitamente — concordou João Nogueira.
 
@@ -695,11 +697,11 @@ E entusiasmou-se:
 
 — Perfeitissimamente! Passe a procuração. O senhor vai prestar ao partido um grande serviço. Aperte o Pereira, seu Paulo Honório.
 
-## X
+### Capítulo — 10
 
-Aqui nos dias santos surgem viagens, doenças e outros pretextos para o trabalhador gazear82. O domingo é perdido, o sábado também se perde; por causa da feira, a semana tem apenas cinco dias, que a Igreja ainda reduz. O resultado é a paga encolher e essa cambada viver com a barriga tinindo83.
+Aqui nos dias santos surgem viagens, doenças e outros pretextos para o trabalhador gazear. O domingo é perdido, o sábado também se perde; por causa da feira, a semana tem apenas cinco dias, que a Igreja ainda reduz. O resultado é a paga encolher e essa cambada viver com a barriga tinindo.
 
-Num feriado de mentira, não tendo podido encontrar gente para tirar baronesas do açude e brocar um pedaço de capoeira84, distraí-me ouvindo Padilha e Casimiro Lopes conversarem a respeito de onças.
+Num feriado de mentira, não tendo podido encontrar gente para tirar baronesas do açude e brocar um pedaço de capoeira, distraí-me ouvindo Padilha e Casimiro Lopes conversarem a respeito de onças.
 
 Não se entendem. Padilha, homem da mata e franzino, fala muito e admira as ações violentas; Casimiro Lopes é coxo e tem um vocabulário mesquinho. Julga o mestre-escola uma criatura superior, porque usa livros, mas para manifestar esta opinião arregala os olhos e dá um pequeno assobio. Gagueja. No sertão passava horas calado, e quando estava satisfeito, aboiava. Quanto a palavras, meia dúzia delas. Ultimamente, ouvindo pessoas da cidade, tinha decorado alguns termos, que empregava fora de propósito e deturpados. Naquele dia, por mais que forcejasse, só conseguia dizer que as onças são bichos brabos e arteiros.
 
@@ -709,13 +711,13 @@ Padilha exigia que o outro repetisse a descrição e ia intercalando nela, por c
 
 — Ó Casimiro, você vai levar um papel ao vigário. E escrevi a padre Silvestre agradecendo o interesse que ele tinha tomado pela viagem difícil de Margarida. Chegara dias antes e estava alojada numa casinha cercada de bananeiras.
 
-Entreguei a carta a Casimiro Lopes, tomei o chapéu e fui fazer a minha segunda visita à preta. Desci a ladeira. Ao atravessar o paredão do açude, amedrontei uma nuvem de marrecas e jaçanãs. Com as últimas chuvas a represa aumentara muito, os bancos de baronesa estavam com vontade de entupir o sangradouro85. A levada que ia ter ao descaroçador e à serraria transbordava. Fechada a serraria, fechado o descaroçador. Dia perdido.
+Entreguei a carta a Casimiro Lopes, tomei o chapéu e fui fazer a minha segunda visita à preta. Desci a ladeira. Ao atravessar o paredão do açude, amedrontei uma nuvem de marrecas e jaçanãs. Com as últimas chuvas a represa aumentara muito, os bancos de baronesa estavam com vontade de entupir o sangradouro. A levada que ia ter ao descaroçador e à serraria transbordava. Fechada a serraria, fechado o descaroçador. Dia perdido.
 
 Encontrei Margarida sentada numa esteira, riscando os tijolos com carvões.
 
 — Mãe Margarida, como vai a senhora?
 
-Tentou endireitar o espinhaço86 emperrado e, antes de lançar-me os olhos brancos, reconheceu-me pela voz.
+Tentou endireitar o espinhaço emperrado e, antes de lançar-me os olhos brancos, reconheceu-me pela voz.
 
 — Aqui gemendo e chorando, meu filho, cheia de pecados.
 
@@ -731,15 +733,17 @@ Olhou com espanto as cadeiras, a mesinha, a lâmpada elétrica, os móveis do qu
 
 — É o que eu preciso, o fogo. O fogo e um pote.
 
-Continuou a riscar figuras no chão. Curvada, um rosário de contas brancas e azuis aparecia pelo cabeção87 aberto e batia-lhe nas pelancas dos peitos.
+Continuou a riscar figuras no chão. Curvada, um rosário de contas brancas e azuis aparecia pelo cabeção aberto e batia-lhe nas pelancas dos peitos.
 
-— Queria também um tacho88. O outro furtaram.
+— Queria também um tacho. O outro furtaram.
 
-Lembrei-me do tacho velho, que era o centro da pequenina casa onde vivíamos. Mexi-me em redor dele vários anos, lavei-o, tirei-lhe com areia e cinza as manchas de azinhavre89 — e dele recebi sustento. Margarida utilizou-o durante quase toda a vida. Ou foi ele que a utilizou. Agora, decrépita, não podia ser doceira, e aquele traste se tornava inteiramente desnecessário.
+Lembrei-me do tacho velho, que era o centro da pequenina casa onde vivíamos. Mexi-me em redor dele vários anos, lavei-o, tirei-lhe com areia e cinza as manchas de azinhavre — e dele recebi sustento. Margarida utilizou-o durante quase toda a vida. Ou foi ele que a utilizou. Agora, decrépita, não podia ser doceira, e aquele traste se tornava inteiramente desnecessário.
 
 — Está bem, mãe Margarida, terá um tacho igual ao outro.
 
-## XI
+## Capítulos 11 — 20
+
+### Capítulo — 11
 
 Amanheci um dia pensando em casar. Foi uma ideia que me veio sem que nenhum rabo de saia a provocasse. Não me ocupo com amores, devem ter notado, e sempre me pareceu que mulher é um bicho esquisito, difícil de governar.
 
@@ -747,7 +751,7 @@ A que eu conhecia era a Rosa do Marciano, muito ordinária. Havia conhecido tamb
 
 Tentei fantasiar uma criatura alta, sadia, com trinta anos, cabelos pretos — mas parei aí. Sou incapaz de imaginação, e as coisas boas que mencionei vinham destacadas, nunca se juntando para formar um ser completo. Lembrei-me de senhoras minhas conhecidas: d. Emília Mendonça, uma Gama, a irmã de Azevedo Gondim, d. Marcela, filha do dr. Magalhães, juiz de direito.
 
-Nesse ponto surgiu-me um pequeno contratempo. Uma tarde surpreendi no oitão90 da capela (a capela estava concluída; faltava pintura) Luís Padilha discursando para Marciano e Casimiro Lopes:
+Nesse ponto surgiu-me um pequeno contratempo. Uma tarde surpreendi no oitão da capela (a capela estava concluída; faltava pintura) Luís Padilha discursando para Marciano e Casimiro Lopes:
 
 — Um roubo. É o que tem sido demonstrado categoricamente pelos filósofos e vem nos livros. Vejam: mais de uma légua de terra, casas, mata, açude, gado, tudo de um homem. Não está certo.
 
@@ -755,25 +759,25 @@ Marciano, mulato esbodegado, regalou-se, entronchando-se todo e mostrando as gen
 
 — O senhor tem razão, seu Padilha. Eu não entendo, sou bruto, mas perco o sono assuntando nisso. A gente se mata por causa dos outros. É ou não é, Casimiro?
 
-Casimiro Lopes franziu as ventas91, declarou que as coisas desde o começo do mundo tinham dono.
+Casimiro Lopes franziu as ventas, declarou que as coisas desde o começo do mundo tinham dono.
 
 — Qual dono! — gritou Padilha. — O que há é que morremos trabalhando para enriquecer os outros.
 
 Saí da sacristia e estourei:
 
-— Trabalhando em quê? Em que é que você trabalha, parasita, preguiçoso, lambaio92?
+— Trabalhando em quê? Em que é que você trabalha, parasita, preguiçoso, lambaio?
 
 — Não é nada não, seu Paulo — defendeu-se Padilha, trêmulo. — Estava aqui desenvolvendo umas teorias aos rapazes.
 
 Atirei uma porção de desaforos aos dois, mandei que arrumassem a trouxa, fossem para a casa do diabo.
 
-— Em minha terra não, acabei já rouco. Puxem! Das cancelas para dentro ninguém mija fora do caco. Peguem as suas burundangas93 e danem-se. Com um professor assim, estou bonito. Dou por visto o que este sem-vergonha ensina aos alunos.
+— Em minha terra não, acabei já rouco. Puxem! Das cancelas para dentro ninguém mija fora do caco. Peguem as suas burundangas e danem-se. Com um professor assim, estou bonito. Dou por visto o que este sem-vergonha ensina aos alunos.
 
 Mais tarde, porém, cheio de embromações e lamúrias, Padilha jurou por todos os santos que a escola funcionava normalmente e fazia cortar coração deixar tantas crianças sem o pão do saber. Quanto às teorias, aquilo era só para matar tempo e empulhar o Casimiro.
 
-— Eu meto a mão em cumbuco94? Sou lá capaz de propagar ideias subversivas?
+— Eu meto a mão em cumbuco? Sou lá capaz de propagar ideias subversivas?
 
-No outro dia pela manhã, choramingando, balbuciando peditórios95, a Rosa, com cinco filhos (três agarrados às saias, um nos braços, outro no bucho), atracou-me no pomar. E eu, que não tenho grande autoridade junto dela, sosseguei-a:
+No outro dia pela manhã, choramingando, balbuciando peditórios, a Rosa, com cinco filhos (três agarrados às saias, um nos braços, outro no bucho), atracou-me no pomar. E eu, que não tenho grande autoridade junto dela, sosseguei-a:
 
 — Mande-me cá o Marciano, aquele cachorro. Até logo, vou ver.
 
@@ -781,7 +785,7 @@ No outro dia pela manhã, choramingando, balbuciando peditórios95, a Rosa, com 
 
 — Mal-agradecidos, estúpidos.
 
-Amunhecaram96, e baixei a pancada:
+Amunhecaram, e baixei a pancada:
 
 — Juízo de galinha. Embarcando em canoa furada! Tontos.
 
@@ -805,29 +809,29 @@ Revistei a Mendonça, a Gama, a irmã do Gondim (eu nem sabia como se chamava a 
 
 Bambeava para me dirigir ao dr. Magalhães quando Costa Brito voou para cima de mim, numa carta, com a intenção de avançar-me em duzentos mil-réis.
 
-Costa Brito tinha virado. A Gazeta, que sempre louvara furiosamente o governo, fugira para a oposição, por causa de um emprego de deputado estadual, e achava a administração pública desorganizada, entregue a homens incompetentes. A nós que votávamos com o partido dominante, mas não éramos peixe nem carne — queixumes97, nariz torcido, modos de enjoo. Da minha última viagem à capital, em troca de uma notícia besta de quatro linhas, o diretor da Gazeta ainda me lambera cinquenta mil-réis, no café, bebendo cerveja com indignação:
+Costa Brito tinha virado. A Gazeta, que sempre louvara furiosamente o governo, fugira para a oposição, por causa de um emprego de deputado estadual, e achava a administração pública desorganizada, entregue a homens incompetentes. A nós que votávamos com o partido dominante, mas não éramos peixe nem carne — queixumes, nariz torcido, modos de enjoo. Da minha última viagem à capital, em troca de uma notícia besta de quatro linhas, o diretor da Gazeta ainda me lambera cinquenta mil-réis, no café, bebendo cerveja com indignação:
 
 — Querem jornal de graça. Para o inferno! A vida inteira escrevendo como um condenado, mentindo, para esses moços subirem! Só a despesa que se tem! só o preço do papel! E na eleição, coice. Nem uma porcaria, uma desgraça que qualquer prefeito analfabeto consegue com facilidade. Querem elogios. Está aqui para eles.
 
 Eu não precisava do Brito, mas passei o dinheiro, em atenção a serviços prestados anteriormente e porque não gosto de questões com gente de imprensa. Depois aludi à crise e dei a entender que não continuava a sangrar.
 
-Mas o Brito tem barriga de ema98: desprezou o aviso e mandou-me diversas cartas, as primeiras com choro, as últimas com exigências. Essa que me vinha embrulhar os planos de casamento trazia ameaças. Recusei o cobre99, num telegrama: “Inútil insistir. Fartíssimo.”
+Mas o Brito tem barriga de ema: desprezou o aviso e mandou-me diversas cartas, as primeiras com choro, as últimas com exigências. Essa que me vinha embrulhar os planos de casamento trazia ameaças. Recusei o cobre, num telegrama: “Inútil insistir. Fartíssimo.”
 
 Tinha graça viver aqui suando para sustentar um literato. Eu era pai dele?
 
 — Quem pariu mateu que o balance. Uma ou outra facada razoável, com moderação, vá. Ameaças, não. Chantagem, não.
 
-Que diabo diria ele contra mim na folha? Não sendo funcionário público, as minhas relações com o partido limitavam-se a aliciar eleitores, entregar-lhes a chapa oficial e contribuir para música e foguetes nas recepções do governador. O veneno da Gazeta não me atingia. Salvo se ela bulisse100 com os meus negócios particulares. Nesse caso só me restava pegar um pau e quebrar as costelas do Brito.
+Que diabo diria ele contra mim na folha? Não sendo funcionário público, as minhas relações com o partido limitavam-se a aliciar eleitores, entregar-lhes a chapa oficial e contribuir para música e foguetes nas recepções do governador. O veneno da Gazeta não me atingia. Salvo se ela bulisse com os meus negócios particulares. Nesse caso só me restava pegar um pau e quebrar as costelas do Brito.
 
 Recalquei as ideias violentas e esforcei-me por trazer de novo ao espírito as tintas e os “ss” de d. Marcela. Vieram. Mas afastavam-se de quando em quando — e nos intervalos apareciam Marciano, a Rosa com os meninos, Luís Padilha e Costa Brito.
 
-## XII
+### Capítulo — 12
 
 A questão do Pereira estava dormindo no cartório, esperando que o juiz de direito desse uma penada nos autos. João Nogueira disse-me isso uma tarde. Eu então, ligando o caso do Pereira aos predicados de d. Marcela, desci no dia seguinte à cidade, resolvido a visitar o dr. Magalhães.
 
 Encontrei-o à noitinha no salão, que servia de gabinete de trabalho, com a filha e três visitantes: João Nogueira, uma senhora de preto, alta, velha, magra, outra senhora moça, loura e bonita. Estavam calados, em dois grupos, os homens separados das mulheres.
 
-O dr. Magalhães é pequenino, tem um nariz grande, um pince-nez101 e por detrás do pince-nez uns olhinhos risonhos. Os beiços, delgados, apertam-se. Só se descolam para o dr. Magalhães falar a respeito da sua pessoa. Também quando entra neste assunto, não para.
+O dr. Magalhães é pequenino, tem um nariz grande, um pince-nez e por detrás do pince-nez uns olhinhos risonhos. Os beiços, delgados, apertam-se. Só se descolam para o dr. Magalhães falar a respeito da sua pessoa. Também quando entra neste assunto, não para.
 
 Naquele momento, porém, como já disse, conservavam-se todos em silêncio. D. Marcela sorria para a senhora nova e loura, que sorria também, mostrando os dentinhos brancos. Comparei as duas, e a importância da minha visita teve uma redução de cinquenta por cento.
 
@@ -921,7 +925,7 @@ João Nogueira refletiu um instante:
 
 Ia responder, mas notei que o dr. Magalhães se mexia. Fiquei com a resposta nas goelas. Ele conteve-se, e estivemos um minuto nesse jogo, cada um esperando pelo outro. Observei então que a mocinha loura voltava para nós, atenta, os grandes olhos azuis.
 
-De repente conheci que estava querendo bem à pequena. Precisamente o contrário da mulher que eu andava imaginando — mas agradava-me, com os diabos. Miudinha, fraquinha. D. Marcela era bichão102. Uma peitaria103, um pé de rabo, um toitiço104!
+De repente conheci que estava querendo bem à pequena. Precisamente o contrário da mulher que eu andava imaginando — mas agradava-me, com os diabos. Miudinha, fraquinha. D. Marcela era bichão. Uma peitaria, um pé de rabo, um toitiço!
 
 Como o silêncio se prolongasse, repliquei ao Nogueira, quase me dirigindo à lourinha:
 
@@ -953,7 +957,7 @@ Mas o dr. Magalhães embirrou com o nome:
 
 — Mas que é que a oposição faz senão berrar nos jornais e nos meetings contra isso? — perguntei.
 
-— A oposição não sabe o que diz. Nós temos lá oligarquia? Temos uma quantidade enorme de cavadores no poder. Só os congressistas! E os ministros, os presidentes, os governadores, os secretários, os políticos do sul. Muito dente roendo o tesouro. E que súcia105! Veja os nossos representantes no congresso federal. Que diz, seu Magalhães?
+— A oposição não sabe o que diz. Nós temos lá oligarquia? Temos uma quantidade enorme de cavadores no poder. Só os congressistas! E os ministros, os presidentes, os governadores, os secretários, os políticos do sul. Muito dente roendo o tesouro. E que súcia! Veja os nossos representantes no congresso federal. Que diz, seu Magalhães?
 
 O dr. Magalhães não dizia nada.
 
@@ -995,11 +999,11 @@ Eu não sabia onde era a casa da Ernestina. Cerca de meia-noite descobri o advog
 
 Mas tive acanhamento de tocar naquele assunto delicado, receei tornar-me ridículo, imaginei que podia o Nogueira andar também arrastando a asa para a lourinha e, sentindo uma espécie de despeito, pedi informações minuciosas sobre o processo do Pereira.
 
-## XIII
+### Capítulo — 13
 
 Tornei a encontrar a mocinha loura. Eu voltava da capital, aonde tinha ido por causa do sem-vergonha do Brito.
 
-A coisa se deu assim. Depois do meu telegrama (lembram-se: o telegrama em que recusei duzentos mil-réis àquele pirata), a Gazeta entrou a difamar-me. A princípio foram mofinas cheias de rodeios, com muito vinagre, em seguida o ataque tornou-se claro e saíram dois artigos furiosos em que o nome mais doce que o Brito me chamava era assassino. Quando li essa infâmia, armei-me de um rebenque106 e desci à cidade.
+A coisa se deu assim. Depois do meu telegrama (lembram-se: o telegrama em que recusei duzentos mil-réis àquele pirata), a Gazeta entrou a difamar-me. A princípio foram mofinas cheias de rodeios, com muito vinagre, em seguida o ataque tornou-se claro e saíram dois artigos furiosos em que o nome mais doce que o Brito me chamava era assassino. Quando li essa infâmia, armei-me de um rebenque e desci à cidade.
 
 — O que o senhor deve fazer é processá-lo — aconselhou João Nogueira. — É fácil metê-lo na cadeia.
 
@@ -1007,7 +1011,7 @@ A coisa se deu assim. Depois do meu telegrama (lembram-se: o telegrama em que re
 
 — Obrigado, Gondim; obrigado, dr. Nogueira. Depois resolvemos. Não vale a pena quebrar a cabeça com uma tolice dessa.
 
-E ficamos no hotel até onze da noite, jogando dominó a tostão o tento107.
+E ficamos no hotel até onze da noite, jogando dominó a tostão o tento.
 
 No outro dia tomei o trem, ferrei no sono e acordei às dez horas, na estação central. Logo ali, com o rebenque debaixo do braço, comecei a examinar as caras.
 
@@ -1019,7 +1023,7 @@ Voltei pelo mesmo caminho e estive uma hora no relógio oficial, observando os p
 
 — Olá!
 
-Recuou, tentou retomar o estribo108, mas o carro já ia longe. Franziu a testa com dignidade. Vendo o rebenque, empalideceu e gaguejou:
+Recuou, tentou retomar o estribo, mas o carro já ia longe. Franziu a testa com dignidade. Vendo o rebenque, empalideceu e gaguejou:
 
 — Bons olhos o vejam. Que sorte! Sim senhor, precisamos conversar.
 
@@ -1029,9 +1033,9 @@ Agarrei-lhe o braço, puxei-o para junto do relógio e disse-lhe, quase cochicha
 
 — Aquilo é matéria paga — explicou o Brito. — Seção livre, não viu logo? Vamos à redação, lá nos entendemos melhor.
 
-Em resposta passei-lhe os gadanhos109 no cachaço110 e dei-lhe um bando de chicotadas. Juntaram-se muitas pessoas, um guarda civil apitou, houve protestos, gritos, afinal Costa Brito conseguiu escapulir-se e azulou111 pelo Comércio, em direção aos Martírios.
+Em resposta passei-lhe os gadanhos no cachaço e dei-lhe um bando de chicotadas. Juntaram-se muitas pessoas, um guarda civil apitou, houve protestos, gritos, afinal Costa Brito conseguiu escapulir-se e azulou pelo Comércio, em direção aos Martírios.
 
-Encaminhei-me ao hotel, mas nem tive tempo de almoçar, porque fui chamado à polícia. Apertaram-me com interrogatórios redundantes, perdi o trem das três e não consegui demonstrar ao delegado que ele era ranzinza e estúpido. Aborrecido, aporrinhado112, recorri a um bacharel (trezentos mil-réis, fora despesas miúdas com automóvel, gorjetas, etc.) e embarquei vinte e quatro horas depois, levando nos ouvidos um sermão do secretário do interior, que me seringou liberdade de imprensa e outros disparates.
+Encaminhei-me ao hotel, mas nem tive tempo de almoçar, porque fui chamado à polícia. Apertaram-me com interrogatórios redundantes, perdi o trem das três e não consegui demonstrar ao delegado que ele era ranzinza e estúpido. Aborrecido, aporrinhado, recorri a um bacharel (trezentos mil-réis, fora despesas miúdas com automóvel, gorjetas, etc.) e embarquei vinte e quatro horas depois, levando nos ouvidos um sermão do secretário do interior, que me seringou liberdade de imprensa e outros disparates.
 
 No vagão comprei os jornais do dia. Nenhum noticiava o espalhafato. Camaradas. Comecei a ler umas coisas interessantes sobre a apicultura. Pouco a pouco esqueci as burrices do delegado e o liberalismo do secretário. E reconciliado com o Brito, confessei a mim mesmo que ele tinha bom coração e provavelmente não reincidiria. Concentrei-me na leitura. Efetivamente as abelhas seriam para nós uma fonte de riqueza.
 
@@ -1097,7 +1101,7 @@ D. Glória não conhecia S. Bernardo, e essa ignorância me ofendeu, porque para
 
 D. Glória retificou a espinha, ergueu a voz e desfez o ar apoucado:
 
-— Não me dou. Nasci na cidade, criei-me na cidade. Saindo daí, sou como peixe fora da água. Tanto que estive cavando transferência para um grupo da capital. Mas é preciso muito pistolão113. Promessas...
+— Não me dou. Nasci na cidade, criei-me na cidade. Saindo daí, sou como peixe fora da água. Tanto que estive cavando transferência para um grupo da capital. Mas é preciso muito pistolão. Promessas...
 
 — Ah! É professora?
 
@@ -1153,7 +1157,7 @@ Uma coisa que omiti e produziria bom efeito foi a paisagem. Andei mal. Efetivame
 
 Hoje isso forma para mim um todo confuso, e se eu tentasse uma descrição, arriscava-me a misturar os coqueiros da lagoa, que apareceram às três e quinze, com as mangueiras e os cajueiros, que vieram depois. Essa descrição, porém, só seria aqui embutida por motivos de ordem técnica. E não tenho o intuito de escrever em conformidade com as regras. Tanto que vou cometer um erro. Presumo que é um erro. Vou dividir um capítulo em dois. Realmente o que se segue podia encaixar-se no que procurei expor antes desta digressão. Mas não tem dúvida, faço um capítulo especial por causa da Madalena.
 
-## XIV
+### Capítulo — 14
 
 Na estação d. Glória apresentou-me a sobrinha, que tinha ido recebê-la. Atrapalhei-me e, para desocupar a mão, deixei cair um dos pacotes que ia entregar ao ganhador.
 
@@ -1169,7 +1173,7 @@ Dirigi-me ao hotel. E como a casa delas era no meu caminho, saímos juntos.
 
 — Bonita? Ainda não reparei. Talvez seja bonita. O que sei é que é uma propriedade regular.
 
-E embuchei114, afobado. Até então os meus sentimentos tinham sido simples, rudimentares, não havia razão para ocultá-los a criaturas como a Germana e a Rosa. A essas azunia-se a cantada sem rodeios, e elas não se admiravam, mas uma senhora que vem da escola normal é diferente. Emburrei, pois, e contei os embrulhos que o ganhador equilibrava na cabeça. Fiz um esforço para endereçar amabilidades a d. Glória:
+E embuchei, afobado. Até então os meus sentimentos tinham sido simples, rudimentares, não havia razão para ocultá-los a criaturas como a Germana e a Rosa. A essas azunia-se a cantada sem rodeios, e elas não se admiravam, mas uma senhora que vem da escola normal é diferente. Emburrei, pois, e contei os embrulhos que o ganhador equilibrava na cabeça. Fiz um esforço para endereçar amabilidades a d. Glória:
 
 — O convite está de pé, sim senhora, e eu tenho a sua promessa de ir passar uns dias na fazenda. Espero que leve a professora. Vem um automóvel, em dez minutos estão lá.
 
@@ -1207,7 +1211,7 @@ Depois tornei:
 
 — Descansar um pouco? — disse d. Glória.
 
-Estávamos à porta da casa delas, na Canafístula115.
+Estávamos à porta da casa delas, na Canafístula.
 
 — Obrigado. Vou chegando ao hotel.
 
@@ -1241,7 +1245,7 @@ João Nogueira aproximou-se e falou-me ao ouvido:
 
 — Francamente, que foi que houve?
 
-— Uma arenga116 sem importância.
+— Uma arenga sem importância.
 
 E, pegando a ocasião:
 
@@ -1269,7 +1273,7 @@ E, em voz alta:
 
 Agradeceram e despediram-se. Padre Silvestre abraçou-me:
 
-— O amigo numa entalação117 dessa! A culpa foi do Brito. Ele é meio esquentado, mas ultimamente a orientação que vem dando à Gazeta é boa.
+— O amigo numa entalação dessa! A culpa foi do Brito. Ele é meio esquentado, mas ultimamente a orientação que vem dando à Gazeta é boa.
 
 Acompanhei-os:
 
@@ -1299,11 +1303,11 @@ Desanimei:
 
 — Eu sei lá! Tinha um projeto, mas a colaboração no Cruzeiro me esfriou. Julguei que fosse uma criatura sensata.
 
-— Essa agora! — bradou Gondim picado118. — O senhor tem cada uma!
+— Essa agora! — bradou Gondim picado. — O senhor tem cada uma!
 
 — Está bem. Para você não há segredo. Ouça. Estou aborrecido com o Padilha.
 
-— Alguma carraspana119 que ele tomou?
+— Alguma carraspana que ele tomou?
 
 — Pior. Anda querendo botar socialismo na fazenda. Surpreendi-o dizendo besteiras. Não liguei importância, tanto que o conservei, mas, o caso bem pensado, talvez fosse melhor arranjar para ele outra colocação, fora.
 
@@ -1337,19 +1341,19 @@ Azevedo Gondim resistiu, encarecendo o serviço que ia prestar:
 
 — Pois sim. Arrumo-lhe a paisagem, a poesia do campo, a simplicidade das almas. E se ela não se convencer, sapeco-lhe um bocado de patriotismo por cima.
 
-## XV
+### Capítulo — 15
 
 Depois do convite, tornei-me quase íntimo das duas mulheres. Madalena não se decidiu logo. E eu, a pretexto de saber a resposta, comecei a frequentar a casinha da Canafístula. Um dia dei uns toques a d. Glória:
 
 — Por que é que sua sobrinha não procura marido?
 
-Melindrou-se120:
+Melindrou-se:
 
 — Minha sobrinha não é feijão bichado para se andar oferecendo.
 
 — Nem eu digo isso, minha senhora. Deus me livre. É um conselho de amigo. Garantir o futuro...
 
-D. Glória empinou a coluna vertebral, e o peito cavado se achatou. Esse movimento de dignidade repentina fazia-lhe o vestido preto, já gasto, ficar esticado na barriga e frouxo nas costas. Resmungou palavras imperceptíveis. Pouco a pouco voltou à posição normal, a omoplata121 adaptou-se novamente ao pano coçado122 e o gargarejo tornou-se compreensível:
+D. Glória empinou a coluna vertebral, e o peito cavado se achatou. Esse movimento de dignidade repentina fazia-lhe o vestido preto, já gasto, ficar esticado na barriga e frouxo nas costas. Resmungou palavras imperceptíveis. Pouco a pouco voltou à posição normal, a omoplata adaptou-se novamente ao pano coçado e o gargarejo tornou-se compreensível:
 
 — Está visto que o casamento para as mulheres é uma situação...
 
@@ -1383,7 +1387,7 @@ Vacilei:
 
 Fiz-lhe um cumprimento:
 
-— Felicito-a pela sua prudência. Efetivamente a senhora arriscava a ficar sem mel nem cabaço123.
+— Felicito-a pela sua prudência. Efetivamente a senhora arriscava a ficar sem mel nem cabaço.
 
 — Se o senhor reconhece...
 
@@ -1395,7 +1399,7 @@ Madalena esperava, com uma rugazinha entre as sobrancelhas.
 
 Tossi, encalistrado:
 
-— Está aí. Resolvi escolher uma companheira. E como a senhora me quadra124... Sim, como me engracei da senhora quando a vi pela primeira vez...
+— Está aí. Resolvi escolher uma companheira. E como a senhora me quadra... Sim, como me engracei da senhora quando a vi pela primeira vez...
 
 Engasguei-me. Séria, pálida, Madalena permaneceu calada, mas não parecia surpreendida.
 
@@ -1411,7 +1415,7 @@ Madalena foi à janela e esteve algum tempo debruçada, olhando a rua. Quando se
 
 — Deve haver muitas diferenças entre nós.
 
-— Diferenças? E então? Se não houvesse diferenças, nós seríamos uma pessoa só. Deve haver muitas. Com licença, vou acender o cachimbo. A senhora aprendeu várias embrulhadas125 na escola, eu aprendi outras quebrando a cabeça por este mundo. Tenho quarenta e cinco anos. A senhora tem uns vinte.
+— Diferenças? E então? Se não houvesse diferenças, nós seríamos uma pessoa só. Deve haver muitas. Com licença, vou acender o cachimbo. A senhora aprendeu várias embrulhadas na escola, eu aprendi outras quebrando a cabeça por este mundo. Tenho quarenta e cinco anos. A senhora tem uns vinte.
 
 — Não, vinte e sete.
 
@@ -1421,7 +1425,7 @@ Madalena foi à janela e esteve algum tempo debruçada, olhando a rua. Quando se
 
 — Não fale assim, menina. E a instrução, a sua pessoa, isso não vale nada? Quer que lhe diga? Se chegarmos a acordo, quem faz um negócio supimpa sou eu.
 
-## XVI
+### Capítulo — 16
 
 Uma semana depois, à tardinha, eu, que ali estava aboletado desde meio-dia, tomava café e conversava, bastante satisfeito. No melhor da conversa Azevedo Gondim entrou sem cerimônia e atirou uma inconveniência que não tinha tamanho:
 
@@ -1527,7 +1531,7 @@ Procurei maneira de formular o pedido, mas perturbei-me e não atinei com o que 
 
 D. Glória começou a chorar.
 
-## XVII
+### Capítulo — 17
 
 Casou-nos o padre Silvestre, na capela de S. Bernardo, diante do altar de São Pedro.
 
@@ -1543,7 +1547,7 @@ Ofereci-lhe um quarto no lado esquerdo da casa, por detrás do escritório, com 
 
 Desde então comecei a fazer nela algumas descobertas que me surpreenderam. Como se sabe, eu me havia contentado com o rosto e com algumas informações ligeiras.
 
-Tive, durante uma semana, o cuidado de procurar afinar a minha sintaxe pela dela, mas não consegui evitar numerosos solecismos126. Mudei de rumo. Tolice. Madalena não se incomodava com essas coisas. Imaginei-a uma boneca da escola normal. Engano.
+Tive, durante uma semana, o cuidado de procurar afinar a minha sintaxe pela dela, mas não consegui evitar numerosos solecismos. Mudei de rumo. Tolice. Madalena não se incomodava com essas coisas. Imaginei-a uma boneca da escola normal. Engano.
 
 Enjoou o Padilha, que achou “uma alma baixa”. (Aí eu expliquei que a alma dele não tinha importância. Exigia dos meus homens serviços: o resto não me interessava.) Enjoou o Padilha. Mas gostou de seu Ribeiro: meteu-se no escritório, folheou os livros, examinou documentos, desarmou a máquina de escrever, que estava emperrada. E dois dias depois do casamento, ainda com um ar machucado, largou-se para o campo e rasgou a roupa nos garranchos do algodão. A hora do jantar encontrei-a no descaroçador, conversando com o maquinista.
 
@@ -1569,7 +1573,7 @@ Mas aconselhei-a a não expor-se:
 
 — Muito, perdeu a força. Põe a alavanca numa pedra pequena e chama os cavouqueiros para deslocá-la. Não vale os seis mil-réis que recebia. Mas não tem dúvida: mande o que for necessário. Mande meia cuia de farinha, mande uns litros de feijão. É dinheiro perdido.
 
-## XVIII
+### Capítulo — 18
 
 A excelentíssima, declarou seu Ribeiro, entende de escrituração.
 
@@ -1637,7 +1641,7 @@ Madalena empalideceu:
 
 Joguei o guardanapo sobre os pratos, antes da sobremesa, e levantei-me. Um bate-boca oito dias depois do casamento! Mau sinal. Mas atirei a responsabilidade para d. Glória, que só tinha dito uma palavra.
 
-## XIX
+### Capítulo — 19
 
 Conheci que Madalena era boa em demasia, mas não conheci tudo de uma vez. Ela se revelou pouco a pouco, e nunca se revelou inteiramente. A culpa foi minha, ou antes, a culpa foi desta vida agreste, que me deu uma alma agreste.
 
@@ -1699,7 +1703,7 @@ Repito que tudo isso continua a azucrinar-me.
 
 O que não percebo é o tique-taque do relógio. Que horas são? Não posso ver o mostrador assim às escuras. Quando me sentei aqui, ouviam-se as pancadas do pêndulo, ouviam-se muito bem. Seria conveniente dar corda ao relógio, mas não consigo mexer-me.
 
-## XX
+### Capítulo — 20
 
 Conforme declarei, Madalena possuía um excelente coração. Descobri nela manifestações de ternura que me sensibilizaram. E, como sabem, não sou homem de sensibilidades. É certo que tenho experimentado mudanças nestes dois últimos anos. Mas isto passa.
 
@@ -1739,7 +1743,9 @@ Veem que estávamos brandos como duas bananas. E assim passamos um mês. Por ins
 
 — Faça a correspondência. Quer ordenado. Perfeitamente, depois combinaremos isso. Seu Ribeiro que lhe abra uma conta.
 
-## XXI
+## Capítulos 21 — 30
+
+### Capítulo — 21
 
 Pois, apesar das precauções que tomamos, do asbesto que usamos para amortecer os atritos, veio nova desinteligência. Depois vieram muitas. Pela manhã Madalena trabalhava no escritório, mas à tarde saía a passear, percorria as casas dos moradores. Garotos empalamados e beiçudos agarravam-se às saias dela.
 
@@ -1847,7 +1853,7 @@ Perdi os estribos:
 
 — Fiz aquilo porque achei que devia fazer aquilo. E não estou habituado a justificar-me, está ouvindo? Era o que faltava. Grande acontecimento, três ou quatro muxicões num cabra. Que diabo tem você com o Marciano para estar tão parida por ele?
 
-## XXII
+### Capítulo — 22
 
 D. Glória gostava de conversar com seu Ribeiro. Eram conversas intermináveis, em dois tons: ele falava alto e olhava de frente, ela cochichava e olhava para os lados. Quando me via, calava-se.
 
@@ -1917,7 +1923,7 @@ Madalena estava prenhe, e eu pegava nela como em louça fina. Ultimamente dizia-
 
 — Foi realmente brutalidade. Brutalidade necessária, mas enfim brutalidade. É uma peste recorrer a isso.
 
-— E para que recorre? — chasqueou127 Madalena.
+— E para que recorre? — chasqueou Madalena.
 
 — Já você começa. Esses modos não, tenha paciência. Detesto picuinhas. Comigo é zás-trás, nó cego. Subterfúgios não.
 
@@ -1985,7 +1991,7 @@ Madalena calou-se. Impressionado com aquela pobreza, exclamei:
 
 Madalena interrompeu-me:
 
-— E nos exames ainda tinha tempo de cabalar128 os examinadores, Deus e o mundo para eu não ser reprovada. D. Glória é incansável. O que ela não pode é dedicar-se a um trabalho continuado: consome-se em trabalhos incompletos. É por isso a inquietação em que vive. Aqui não há os bilhetes do cinema, os acórdãos do tribunal, os assentamentos de batizados, o caderno de contas do padeiro. D. Glória vê máquinas e homens que funcionam como as máquinas. Entretanto, d. Glória procura ser útil: vai à igreja, põe flores nos altares e limpa os vidros das imagens na sacristia; tenta cozinhar e não se entende com Maria das Dores; oferece-se para ajudar seu Ribeiro; já experimentou escrever em máquina.
+— E nos exames ainda tinha tempo de cabalar os examinadores, Deus e o mundo para eu não ser reprovada. D. Glória é incansável. O que ela não pode é dedicar-se a um trabalho continuado: consome-se em trabalhos incompletos. É por isso a inquietação em que vive. Aqui não há os bilhetes do cinema, os acórdãos do tribunal, os assentamentos de batizados, o caderno de contas do padeiro. D. Glória vê máquinas e homens que funcionam como as máquinas. Entretanto, d. Glória procura ser útil: vai à igreja, põe flores nos altares e limpa os vidros das imagens na sacristia; tenta cozinhar e não se entende com Maria das Dores; oferece-se para ajudar seu Ribeiro; já experimentou escrever em máquina.
 
 Um caminhão rodou em direção à serraria; vinham da mata pancadas secas de machado; carros de bois chiavam para os lados de Bom-Sucesso.
 
@@ -2001,9 +2007,9 @@ Calei-me — e não senti nenhuma simpatia à pobre da d. Glória. Continuei a j
 
 — Pode ser que você tenha razão. Eu discordo. Mas enfim, cada qual tem lá o seu modo de matar pulgas.
 
-## XXIII
+### Capítulo — 23
 
-Era domingo, de tarde, e eu voltava do descaroçador e da serraria, onde tinha estado a arengar129 com o maquinista. Um volante empenado e um dínamo que emperrava. O homem prometera endireitar tudo em dois dias. Contratempo. Montes de madeira, algodão enchendo os paióis.
+Era domingo, de tarde, e eu voltava do descaroçador e da serraria, onde tinha estado a arengar com o maquinista. Um volante empenado e um dínamo que emperrava. O homem prometera endireitar tudo em dois dias. Contratempo. Montes de madeira, algodão enchendo os paióis.
 
 — Desleixados.
 
@@ -2031,7 +2037,7 @@ E saí, agastado com Madalena. Avistei na outra banda Marciano, que tangia o gad
 
 — Espera lá.
 
-Atravessei a pinguela130 e fui ver o último produto limousin-caracu.
+Atravessei a pinguela e fui ver o último produto limousin-caracu.
 
 — Magreirão.
 
@@ -2083,13 +2089,13 @@ Estavam constrangidos, certamente adivinhando o que eu pensava. Padilha mastigav
 
 Levantei-me, encostei-me à balaustrada e comecei a encher o cachimbo, voltando-me para fora, que no interior da minha casa tudo era desagradável.
 
-No fim do pátio um moleque passou, com um bodoque131 na mão. Estava ali para que servia a escola. Vadiando, matando passarinhos, num dia de descanso, bom para soletrar a cartilha e riscar papel.
+No fim do pátio um moleque passou, com um bodoque na mão. Estava ali para que servia a escola. Vadiando, matando passarinhos, num dia de descanso, bom para soletrar a cartilha e riscar papel.
 
 Seis contos de tábuas, mapas, quadros e outros enfeites de parede. Seis contos!
 
 Carrancudo, olhei de esguelha para Madalena, que ficou sossegada, como se aquilo não tivesse sido feito por ela.
 
-Acendi o cachimbo, furiosamente, e procurei distrair-me. O rancho de Margarida escondia-se entre as folhas das bananeiras. Marciano saiu do estábulo e veio vindo, banzeiro132, derreando-se; diante da casa-grande tirou o chapéu e escondeu o cigarro. A pedreira, lá em cima, estava quase invisível depois que o caminho para ela se tinha fechado.
+Acendi o cachimbo, furiosamente, e procurei distrair-me. O rancho de Margarida escondia-se entre as folhas das bananeiras. Marciano saiu do estábulo e veio vindo, banzeiro, derreando-se; diante da casa-grande tirou o chapéu e escondeu o cigarro. A pedreira, lá em cima, estava quase invisível depois que o caminho para ela se tinha fechado.
 
 A prefeitura não queria mais comprar pedras, as construções na fazenda estavam terminadas. E mestre Caetano, gemendo no catre, recebia todas as semanas um dinheirão de Madalena. Sim senhor, uma panqueca. Visitas, remédios de farmácia, galinhas.
 
@@ -2135,7 +2141,7 @@ O pequeno berrava como bezerro desmamado. Não me contive: voltei e gritei para 
 
 Madalena tinha tido menino.
 
-## XXIV
+### Capítulo — 24
 
 Fazia dois anos que eu estava casado, e por isso João Nogueira, padre Silvestre e Azevedo Gondim jantavam conosco.
 
@@ -2169,9 +2175,9 @@ Durante o jantar, estiveram todos muito animados. E até eu, que ignoro os assun
 
 Para começar, Azevedo Gondim, a quem o conhaque tinha tirado as peias da língua, elogiou a vida campestre:
 
-— Isto é que é! Vejam se na cidade, ciscando no fundo dos quintais, se criava um peru deste tamanho. Que bicho fornido133! Benza-o Deus.
+— Isto é que é! Vejam se na cidade, ciscando no fundo dos quintais, se criava um peru deste tamanho. Que bicho fornido! Benza-o Deus.
 
-D. Glória deu um muxoxo134 e desviou a vista do centro da mesa, onde, acocorado na travessa, um peru recebia aqueles louvores despropositados. Padre Silvestre acompanhou o movimento de d. Glória e deu com os olhos nos canteiros do jardim e nas alamedas do pomar.
+D. Glória deu um muxoxo e desviou a vista do centro da mesa, onde, acocorado na travessa, um peru recebia aqueles louvores despropositados. Padre Silvestre acompanhou o movimento de d. Glória e deu com os olhos nos canteiros do jardim e nas alamedas do pomar.
 
 — Realmente deve ser uma delícia viver neste paraíso. Que beleza!
 
@@ -2185,7 +2191,7 @@ D. Glória deu um muxoxo134 e desviou a vista do centro da mesa, onde, acocorado
 
 — Política, padre Silvestre? — fez João Nogueira, sorrindo.
 
-Padre Silvestre arregalou os olhinhos baços135:
+Padre Silvestre arregalou os olhinhos baços:
 
 — Por que não? O senhor há de confessar que estamos à beira de um abismo.
 
@@ -2279,7 +2285,7 @@ O vigário desculpou-se:
 
 João Nogueira discordou:
 
-— É o que ele não é. Ninguém conhece doutrina. Se um protestante canta hinos e prega o evangelho, os devotos das procissões vão escutá- lo; outros pendem para o espiritismo; e a canalha acredita em feitiçaria e até adora árvores. Muitos entram no catolicismo como num hotel, escolhem um prato, com fastio136, e cruzam o talher. Os mais avançados são dispépticos137. O senhor se engana, padre Silvestre; essa gente ouve missa, mas não é católica, e tanto se deixa levar para um lado como para outro.
+— É o que ele não é. Ninguém conhece doutrina. Se um protestante canta hinos e prega o evangelho, os devotos das procissões vão escutá- lo; outros pendem para o espiritismo; e a canalha acredita em feitiçaria e até adora árvores. Muitos entram no catolicismo como num hotel, escolhem um prato, com fastio, e cruzam o talher. Os mais avançados são dispépticos. O senhor se engana, padre Silvestre; essa gente ouve missa, mas não é católica, e tanto se deixa levar para um lado como para outro.
 
 Padre Silvestre desnorteou-se:
 
@@ -2347,7 +2353,7 @@ Procurei Madalena e avistei-a derretendo-se e sorrindo para o Nogueira, num vão
 
 Confio em mim. Mas exagerei os olhos bonitos do Nogueira, a roupa benfeita, a voz insinuante. Pensei nos meus oitenta e nove quilos, neste rosto vermelho de sobrancelhas espessas. Cruzei descontente as mãos enormes, cabeludas, endurecidas em muitos anos de lavoura. Misturei tudo ao materialismo e ao comunismo de Madalena — e comecei a sentir ciúmes.
 
-## XXV
+### Capítulo — 25
 
 Comecei a sentir ciúmes. O meu primeiro desejo foi agarrar o Padilha pelas orelhas e deitá-lo fora, a pontapés. Mas conservei-o para vingar-me. Arredei-o de casa, a bem dizer prendi-o na escola. Lá vivia, lá dormia, lá recebia alimento, boia fria, num tabuleiro.
 
@@ -2381,7 +2387,7 @@ Madalena, propriamente, não era uma intelectual. Mas descuidava-se da religião
 
 E eu me retraía, murchava.
 
-Requebrando-se para o Nogueira, ao pé da janela, sorrindo! Sorrindo exatamente como as outras, as que fazem conferências. Perigo. Quem se remexer para João Nogueira estrepa-se. Bom advogado, negócios direitos, sim sim, não não; mas no gênero mulher é uma rede, não deita água a pinto. E aquela conversa teria sido a primeira? Antes da minha bruta cabeçada, eles se entendiam. Talvez namorassem. Quando, em casa do dr. Magalhães, eu tinha encontrado Madalena, João Nogueira estava lá. Tapado, o dr. Magalhães, tapadíssimo. Escutá-lo é pior que ouvir serrar madeira. “Sou juiz, entende? Juiz. Levanto-me pela manhã.” O Nogueira, de olho duro138, gramando aquilo! Interesse. Começara a falar em política, Madalena levantara a cabeça, curiosa. E, com dois anos de casada, num vão de janela, desmanchava-se toda para ele.
+Requebrando-se para o Nogueira, ao pé da janela, sorrindo! Sorrindo exatamente como as outras, as que fazem conferências. Perigo. Quem se remexer para João Nogueira estrepa-se. Bom advogado, negócios direitos, sim sim, não não; mas no gênero mulher é uma rede, não deita água a pinto. E aquela conversa teria sido a primeira? Antes da minha bruta cabeçada, eles se entendiam. Talvez namorassem. Quando, em casa do dr. Magalhães, eu tinha encontrado Madalena, João Nogueira estava lá. Tapado, o dr. Magalhães, tapadíssimo. Escutá-lo é pior que ouvir serrar madeira. “Sou juiz, entende? Juiz. Levanto-me pela manhã.” O Nogueira, de olho duro, gramando aquilo! Interesse. Começara a falar em política, Madalena levantara a cabeça, curiosa. E, com dois anos de casada, num vão de janela, desmanchava-se toda para ele.
 
 Erguia-me, insultava-a mentalmente:
 
@@ -2427,7 +2433,7 @@ na porteira do curral.”
 
 Boa alma, Casimiro Lopes. Nunca vi ninguém mais simples. Estou convencido de que não guarda lembrança do mal que pratica. Toda a gente o julga uma fera. Exagero. A ferocidade aparece nele raramente. Não compreende nada, exprime-se mal e é crédulo como um selvagem.
 
-## XXVI
+### Capítulo — 26
 
 Fui indo sempre de mal a pior. Tive a impressão de que me achava doente, muito doente. Fastio, inquietação constante e raiva. Madalena, Padilha, d. Glória, que trempe! O meu desejo era pegar Madalena e dar-lhe pancada até no céu da boca. Pancada em d. Glória também, que tinha gasto anos trabalhando como cavalo de matuto para criar aquela cobrinha.
 
@@ -2485,7 +2491,7 @@ D. Glória chegou à porta, assustada:
 
 Perdi a cabeça:
 
-— Vá amolar a puta que a pariu. Está mouca139, aí com a sua carinha de santa? É isto: puta que a pariu. E se achar ruim, rua. A senhora e a boa de sua sobrinha, compreende? Puta que pariu as duas.
+— Vá amolar a puta que a pariu. Está mouca, aí com a sua carinha de santa? É isto: puta que a pariu. E se achar ruim, rua. A senhora e a boa de sua sobrinha, compreende? Puta que pariu as duas.
 
 D. Glória fugiu com o lenço nos olhos.
 
@@ -2543,15 +2549,15 @@ Toda a gente dormia com a mulher do Jaqueira. Era só empurrar a porta. Se a mul
 
 — Um dia eu mato um peste.
 
-Matou. Escondeu-se por detrás de um pau e descarregou a lazarina bem no coração de um freguês. No júri, cortaram a cabeça por seis votos (patifaria). Saiu da cadeia e tornou-se um cidadão respeitado. Nunca mais ninguém buliu140 com o Jaqueira.
+Matou. Escondeu-se por detrás de um pau e descarregou a lazarina bem no coração de um freguês. No júri, cortaram a cabeça por seis votos (patifaria). Saiu da cadeia e tornou-se um cidadão respeitado. Nunca mais ninguém buliu com o Jaqueira.
 
-## XXVII
+### Capítulo — 27
 
 Quando serenei, pareceu-me que houvera barulho sem motivo. O dr. Magalhães tinha feitio para dirigir amabilidades a qualquer senhora sem que ninguém desconfiasse dele. E o papel endereçado ao Gondim devia ser literatura para composição. Não era senão isso. Coisas tão fúteis — e em consequência um arranca-rabo estúpido, com desaforo grosso, Maria das Dores ouvindo, seu Ribeiro ouvindo. Sebo!
 
 Madalena era honesta, claro. Não mostrara o papel para não dar o braço a torcer, por dignidade, claríssimo. Ciúme idiota.
 
-Mais bem-comportada que ela só num convento. Circunspecta141, sem nó pelas costas. E caridosa, de quebra, até com os bichinhos do mato. A respeito de pensamento nada se sabia, que no pensamento de outra pessoa ninguém vai; mas quanto a palavras e obras era inatacável. Podia ter-me dito insultos piores. Pior que assassino? Muito duro. Mas não me queixava dela, queixava-me do Padilha, aquele descarado.
+Mais bem-comportada que ela só num convento. Circunspecta, sem nó pelas costas. E caridosa, de quebra, até com os bichinhos do mato. A respeito de pensamento nada se sabia, que no pensamento de outra pessoa ninguém vai; mas quanto a palavras e obras era inatacável. Podia ter-me dito insultos piores. Pior que assassino? Muito duro. Mas não me queixava dela, queixava-me do Padilha, aquele descarado.
 
 Depois da violência da manhã, sentia-me cheio de otimismo, e a brutalidade que há em mim virava-se para o mestre-escola.
 
@@ -2625,7 +2631,7 @@ Padilha encabulou:
 
 — Sabia o quê?
 
-— O que o povo resmunga. Calúnias. Eu expliquei tudo e defendi o senhor: “D. Madalena, isso é um caso antigo, e mexer nele não dá vida a ninguém. O velho Mendonça era uma postema, furtava as terras dos vizinhos. Quanto ao que espalham por aí, não acredite: são aleives142. Seu Paulo tem bom coração e é incapaz de matar um pinto.”
+— O que o povo resmunga. Calúnias. Eu expliquei tudo e defendi o senhor: “D. Madalena, isso é um caso antigo, e mexer nele não dá vida a ninguém. O velho Mendonça era uma postema, furtava as terras dos vizinhos. Quanto ao que espalham por aí, não acredite: são aleives. Seu Paulo tem bom coração e é incapaz de matar um pinto.”
 
 Lembrei-me da briga da manhã. Exatamente o que eu tinha presumido: mexericos daquele traste.
 
@@ -2641,7 +2647,7 @@ O meu ciúme tinha-se tornado público. Padilha sorriu e respondeu, hipócrita:
 
 — Literatura, política, artes, religião... Uma senhora inteligente, a d. Madalena. E instruída, é uma biblioteca. Afinal eu estou chovendo no molhado. O senhor, melhor que eu, conhece a mulher que possui.
 
-## XXVIII
+### Capítulo — 28
 
 “O Senhor conhece a mulher que possui.”
 
@@ -2655,11 +2661,11 @@ Conjecturas. O que eu desejava era ter uma certeza e acabar depressa com aquilo.
 
 Já viram como perdemos tempo em padecimentos inúteis? Não era melhor que fôssemos como os bois? Bois com inteligência. Haverá estupidez maior que atormentar-se um vivente por gosto? Será? Não será? Para que isso? Procurar dissabores! Será? Não será?
 
-Se eu tivesse uma prova de que Madalena era inocente, dar-lhe-ia uma vida como ela nem imaginava. Comprar-lhe-ia vestidos que nunca mais se acabariam, chapéus caros, dúzias de meias de seda. Seria atencioso, muito atencioso, e chamaria os melhores médicos da capital para curar-lhe a palidez e a magrém143. Consentiria que ela oferecesse roupa às mulheres dos trabalhadores.
+Se eu tivesse uma prova de que Madalena era inocente, dar-lhe-ia uma vida como ela nem imaginava. Comprar-lhe-ia vestidos que nunca mais se acabariam, chapéus caros, dúzias de meias de seda. Seria atencioso, muito atencioso, e chamaria os melhores médicos da capital para curar-lhe a palidez e a magrém. Consentiria que ela oferecesse roupa às mulheres dos trabalhadores.
 
 E se eu soubesse que ela me traía? Ah! Se eu soubesse que ela me traía, matava-a, abria-lhe a veia do pescoço, devagar, para o sangue correr um dia inteiro.
 
-Mas logo me enjoava do pensamento feroz. Que rendia isso? Um crime inútil! Era melhor abandoná-la, deixá-la sofrer. E quando ela tivesse viajado pelos hospitais, quando vagasse pelas ruas, faminta, esfrangalhada144, com os ossos furando a pele, costuras de operações e marcas de feridas no corpo, dar-lhe uma esmola pelo amor de Deus.
+Mas logo me enjoava do pensamento feroz. Que rendia isso? Um crime inútil! Era melhor abandoná-la, deixá-la sofrer. E quando ela tivesse viajado pelos hospitais, quando vagasse pelas ruas, faminta, esfrangalhada, com os ossos furando a pele, costuras de operações e marcas de feridas no corpo, dar-lhe uma esmola pelo amor de Deus.
 
 Seria? Não seria?
 
@@ -2671,7 +2677,7 @@ Que me importavam as opiniões do Padilha, de seu Ribeiro, de d. Glória, de Mar
 
 Casimiro Lopes concordava, erguendo os ombros.
 
-## XXIX
+### Capítulo — 29
 
 Quando as dúvidas se tornavam insuportáveis, vinha-me a necessidade de afirmar. Madalena tinha manha encoberta, indubitavelmente.
 
@@ -2689,7 +2695,7 @@ Monologava com raiva:
 
 — Obrigado, Padilha.
 
-Sim senhor, boa bisca145. Não havia gato nem cachorro em S. Bernardo que ignorasse o procedimento dela.
+Sim senhor, boa bisca. Não havia gato nem cachorro em S. Bernardo que ignorasse o procedimento dela.
 
 “Aquela mulher foi a causa da minha desgraça.” Que falta de respeito! Há quem atire semelhante heresia em cima de uma senhora casada, nas barbas do marido? Há? Não há. Querem mais claro?
 
@@ -2699,9 +2705,9 @@ A infelicidade deu um pulo medonho: notei que Madalena namorava os caboclos da l
 
 Às vezes o bom-senso me puxava as orelhas:
 
-— Baixa o fogo, sendeiro146. Isso não tem pé nem cabeça.
+— Baixa o fogo, sendeiro. Isso não tem pé nem cabeça.
 
-Realmente, uma criatura branca, bem lavada, bem vestida, bem engomada, bem aprendida, não ia encostar-se àqueles brutos escuros, sujos, fedorentos a pituim147. Os meus olhos me enganavam. Mas se os olhos me enganavam, em que me havia de fiar então? Se eu via um trabalhador de enxada fazer um aceno a ela!
+Realmente, uma criatura branca, bem lavada, bem vestida, bem engomada, bem aprendida, não ia encostar-se àqueles brutos escuros, sujos, fedorentos a pituim. Os meus olhos me enganavam. Mas se os olhos me enganavam, em que me havia de fiar então? Se eu via um trabalhador de enxada fazer um aceno a ela!
 
 Com esforço e procurando distração, conseguia reprimir-me. Era intuitivo que o aceno não podia ser para ela. Não podia.
 
@@ -2709,11 +2715,11 @@ Ora, não podia!
 
 — Mulher não vai com carrapato porque não sabe qual é o macho.
 
-Uma tarde em que a velha Margarida subiu a ladeira a vara e a remo148 para visitar-nos, vigiei-a uma hora, com receio de que a pobre fosse portadora de alguma carta.
+Uma tarde em que a velha Margarida subiu a ladeira a vara e a remo para visitar-nos, vigiei-a uma hora, com receio de que a pobre fosse portadora de alguma carta.
 
 Creio que estava quase maluco.
 
-## XXX
+### Capítulo — 30
 
 À noite parecia-me ouvir passos no jardim. Por que diabo aquele Tubarão não ladrava? O safado do cachorro ia perdendo o faro.
 
@@ -2743,7 +2749,7 @@ Entristecia-me. Grosseiro, monstruosamente grosseiro.
 
 E se as passadas e o assobio não fossem por causa dela? Ah! Sendo assim, eu picado para linguiça não pagava o que devia. E se as passadas e o assobio não existissem? Lembrava-me de uma noite em que me aperreei de verdade e puxei a lambedeira, com medo de um rato. Há neste mundo cada engano! E decidia corrigir-me:
 
-— Vamos deixar de choradeira. Lá por assobiarem no pomar e passearem no jardim não é preciso a senhora se desmanchar em água. É melhor acabar com essa cavilação149.
+— Vamos deixar de choradeira. Lá por assobiarem no pomar e passearem no jardim não é preciso a senhora se desmanchar em água. É melhor acabar com essa cavilação.
 
 Madalena chorava, chorava, até que por fim, cansada de chorar, pegava no sono. Encolhia-me à beira da cama, para evitar o contato dela. Quando ia adormecendo, percebia o ranger de chave em fechadura e o rumor de telhas arrastadas. Despertava num sobressalto e continha a respiração. Quem estaria futucando portas? Quem estaria destelhando a casa?
 
@@ -2751,7 +2757,7 @@ Aproximava-me de Madalena, observava-lhe o rosto. Teria ouvido? Ou estaria a fin
 
 Levantava-me, arrastava uma cadeira, sentava-me. Madalena ressonava.
 
-Com certeza ninguém tinha bulido na fechadura nem nas telhas. Maluqueiras de sonho. Talvez as pisadas também tivessem sido abusão150 de sonho. Um pesadelo. Isso. Um pesadelo. Era possível que o assobio fosse grito de coruja.
+Com certeza ninguém tinha bulido na fechadura nem nas telhas. Maluqueiras de sonho. Talvez as pisadas também tivessem sido abusão de sonho. Um pesadelo. Isso. Um pesadelo. Era possível que o assobio fosse grito de coruja.
 
 Uma pancada no relógio da sala de jantar. Que horas seriam? Meia? uma? uma e meia? ou metade de qualquer outra hora?
 
@@ -2759,7 +2765,7 @@ Não podia dormir. Contava de um a cem, e dobrava o dedo mindinho; contava de ce
 
 Segunda pancada no relógio. Uma hora? uma e meia? Só vendo. Erguia-me, pisava com força. Madalena continuava a dormir.
 
-Destrancava e trancava a porta do corredor. Tornava a destrancar, tornava a trancar. E examinava o rosto de Madalena. Que sono! Ali descansada, e eu me roendo por dentro. Descansada como se tudo estivesse muito direito. Tinha desejo de acordá-la, recomeçar a contenda151 em que vivíamos. Dormir assim, quando eu estava preocupado, seriamente preocupado, não era justo.
+Destrancava e trancava a porta do corredor. Tornava a destrancar, tornava a trancar. E examinava o rosto de Madalena. Que sono! Ali descansada, e eu me roendo por dentro. Descansada como se tudo estivesse muito direito. Tinha desejo de acordá-la, recomeçar a contenda em que vivíamos. Dormir assim, quando eu estava preocupado, seriamente preocupado, não era justo.
 
 Preocupado com quê? Afinal que fazia ali, com a mão na chave e os olhos esbugalhados para Madalena?
 
@@ -2771,13 +2777,15 @@ Sentava-me no meu lugar à mesa. No começo das nossas desavenças todas as noit
 
 — Para que serve a gente discutir, explicar-se? Para quê?
 
-Para quê, realmente? O que eu dizia era simples, direto, e procurava debalde152 em minha mulher concisão e clareza. Usar aquele vocabulário, vasto, cheio de ciladas, não me seria possível. E se ela tentava empregar a minha linguagem resumida, matuta, as expressões mais inofensivas e concretas eram para mim semelhantes às cobras: faziam voltas, picavam e tinham significação venenosa.
+Para quê, realmente? O que eu dizia era simples, direto, e procurava debalde em minha mulher concisão e clareza. Usar aquele vocabulário, vasto, cheio de ciladas, não me seria possível. E se ela tentava empregar a minha linguagem resumida, matuta, as expressões mais inofensivas e concretas eram para mim semelhantes às cobras: faziam voltas, picavam e tinham significação venenosa.
 
-## XXXI
+## Capítulos 31 — 36
+
+### Capítulo — 31
 
 Uma tarde subi à torre da igreja e fui ver Marciano procurar corujas. Algumas se haviam alojado no forro, e à noite era cada pio de rebentar os ouvidos da gente. Eu desejava assistir à extinção daquelas aves amaldiçoadas.
 
-Lá de cima escutava o barulho que Marciano, invisível, fazia. E, pelas quatro janelinhas abertas aos quatro cantos do céu, contemplava a paisagem. Por uma delas via embaixo um pedaço do escritório, uma banca e, sentada à banca, minha mulher escrevendo. Com um ligeiro desvio de olhos, afastava a cena familiar e corriqueira, divisava o oitão da casa, portas, janelas, a cama de d. Glória, um canto da sala de jantar. Levantava a cabeça — e o horizonte compunha-se de telhas, argamassa, lambrequins153. Mais para cima, campos, serra, nuvens.
+Lá de cima escutava o barulho que Marciano, invisível, fazia. E, pelas quatro janelinhas abertas aos quatro cantos do céu, contemplava a paisagem. Por uma delas via embaixo um pedaço do escritório, uma banca e, sentada à banca, minha mulher escrevendo. Com um ligeiro desvio de olhos, afastava a cena familiar e corriqueira, divisava o oitão da casa, portas, janelas, a cama de d. Glória, um canto da sala de jantar. Levantava a cabeça — e o horizonte compunha-se de telhas, argamassa, lambrequins. Mais para cima, campos, serra, nuvens.
 
 O capim-gordura tinha virado grama, e os bois que pastavam nele eram como brinquedos de celuloide. O algodoal galgava colinas, descia, tornava a mostrar-se mais longe, desbotado. Numa clareira da mata escura, quase negra, desmaiavam na sombra figurinhas de lenhadores.
 
@@ -2793,7 +2801,7 @@ Rosa do Marciano atravessava o riacho. Erguia as saias até a cintura. Depois qu
 
 A distância arredondava e o sol dourava cocurutos de montes. Pareciam extraordinárias cabeças de santos.
 
-— Se aquela mosca-morta prestasse e tivesse juízo, estaria aqui aproveitando esta catervagem154 de belezas.
+— Se aquela mosca-morta prestasse e tivesse juízo, estaria aqui aproveitando esta catervagem de belezas.
 
 Ali pelos cafus desci as escadas, bastante satisfeito. Apesar de ser um indivíduo medianamente impressionável, convenci-me de que este mundo não é mau. Quinze metros acima do solo, experimentamos a vaga sensação de ter crescido quinze metros. E quando, assim agigantados, vemos rebanhos numerosos a nossos pés, plantações estirando-se por terras largas, tudo nosso, e avistamos a fumaça que se eleva de casas nossas, onde vive gente que nos teme, respeita e talvez até nos ame, porque depende de nós, uma grande serenidade nos envolve. Sentimo-nos bons, sentimo-nos fortes. E se há ali perto inimigos morrendo, sejam embora inimigos de pouca monta que um moleque devasta a cacete, a convicção que temos da nossa fortaleza torna-se estável e aumenta. Diante disto, uma boneca traçando linhas invisíveis num papel apenas visível merece pequena consideração. Desci, pois, as escadas em paz com Deus e com os homens, e esperava que aqueles pios infames me deixassem enfim tranquilo.
 
@@ -2827,7 +2835,7 @@ Ia tão cego que bati com as ventas em Madalena, que saía da igreja.
 
 — Ainda? — perguntou Madalena.
 
-E deixou-se levar para a escuridão da sacristia. Acendi uma vela e, encostando-me à mesa carregada de santos, sobre o estrado onde padre Silvestre se paramenta155 em dias de missa:
+E deixou-se levar para a escuridão da sacristia. Acendi uma vela e, encostando-me à mesa carregada de santos, sobre o estrado onde padre Silvestre se paramenta em dias de missa:
 
 — Que estava fazendo aqui? Rezando? É capaz de dizer que estava rezando.
 
@@ -2837,7 +2845,7 @@ Esperei que ela me sacudisse desaforos, mas enganei-me: pôs-se a observar-me co
 
 — A senhora escreveu uma carta.
 
-O vento frio da serra entrava pela janela, mordia-me as orelhas, e eu sentia calor. A porta gemia, de quando em quando dava no batente pancadas coléricas156, depois continuava a gemer. Aquilo me irritava, mas não me veio a ideia de fechá-la. Madalena estava como se não ouvisse nada. E eu, dirigindo-me a ela e a uma litografia pendurada à parede:
+O vento frio da serra entrava pela janela, mordia-me as orelhas, e eu sentia calor. A porta gemia, de quando em quando dava no batente pancadas coléricas, depois continuava a gemer. Aquilo me irritava, mas não me veio a ideia de fechá-la. Madalena estava como se não ouvisse nada. E eu, dirigindo-me a ela e a uma litografia pendurada à parede:
 
 — Cuidam que isto vai ficar assim?
 
@@ -2871,7 +2879,7 @@ Nem sei quanto tempo estive ali, em pé. A minha raiva se transformava em angús
 
 E olhava alternadamente Madalena e os santos do oratório. Os santos não sabiam, Madalena não quis responder.
 
-O que me espantava era a tranquilidade que havia no rosto dela. Eu tinha chegado fervendo, projetando matá-la. Podia viver com a autora de semelhante maroteira157?
+O que me espantava era a tranquilidade que havia no rosto dela. Eu tinha chegado fervendo, projetando matá-la. Podia viver com a autora de semelhante maroteira?
 
 À medida, porém, que as horas se passavam, sentia-me cair num estado de perplexidade e covardia.
 
@@ -2927,7 +2935,7 @@ Rosnei um monossílabo.
 
 Palavras de arrependimento vieram-me à boca. Engoli-as, forçado por um orgulho estúpido. Muitas vezes por falta de um grito se perde uma boiada.
 
-— Seja amigo de minha tia, Paulo. Quando desaparecer essa quizília158, você reconhecerá que ela é boa pessoa.
+— Seja amigo de minha tia, Paulo. Quando desaparecer essa quizília, você reconhecerá que ela é boa pessoa.
 
 Eu era tão bruto com a pobre da velha!
 
@@ -2935,7 +2943,7 @@ Eu era tão bruto com a pobre da velha!
 
 — Seu Ribeiro é trabalhador e honesto, você não acha?
 
-— Acho. Antigamente deu cartas e jogou de mão. Hoje é refugo159. Um sujeito decente, coitado.
+— Acho. Antigamente deu cartas e jogou de mão. Hoje é refugo. Um sujeito decente, coitado.
 
 — E o Padilha...
 
@@ -2977,7 +2985,7 @@ E agarrei-me a um assunto agradável para afugentar aquelas ideias tristes:
 
 Sentei-me novamente, animei-me, acendi um cigarro:
 
-— Depois da safra. Deixo seu Ribeiro tomando conta da fazenda. Vamos à Bahia. Ou ao Rio. O Rio é melhor. Passamos uns meses descansando, você cura a macacoa160 do estômago, engorda e se distrai. É bom a gente arejar. A vida inteira neste buraco, trabalhando como negro! E damos um salto a São Paulo. Valeu?
+— Depois da safra. Deixo seu Ribeiro tomando conta da fazenda. Vamos à Bahia. Ou ao Rio. O Rio é melhor. Passamos uns meses descansando, você cura a macacoa do estômago, engorda e se distrai. É bom a gente arejar. A vida inteira neste buraco, trabalhando como negro! E damos um salto a São Paulo. Valeu?
 
 Madalena, olhando a luz, que tremia, agitando sombras nas paredes, saiu-se com esta:
 
@@ -3015,9 +3023,9 @@ Fiquei remoendo as palavras desconexas e os modos esquisitos de Madalena. Depois
 
 Para quem seria? Lá vinha novamente o ciúme. Aquilo ainda causaria infelicidades sem remédio.
 
-Pouco a pouco me fui amadornando, até cair num sono embrulhado e penoso. Creio que sonhei com rios cheios e atoleiros161.
+Pouco a pouco me fui amadornando, até cair num sono embrulhado e penoso. Creio que sonhei com rios cheios e atoleiros.
 
-Quando dei acordo de mim, a vela estava apagada e o luar, que eu não tinha visto nascer, entrava pela janela. A porta continuava a ranger, o nordeste atirava para dentro da sacristia folhas secas, que farfalhavam162 no chão de ladrilhos brancos e pretos. O relógio tinha parado, mas julgo que dormi horas. Galos cantaram, a lua deitou-se, o vento se cansou de gritar à toa e a luz da madrugada veio brincar com as imagens do oratório.
+Quando dei acordo de mim, a vela estava apagada e o luar, que eu não tinha visto nascer, entrava pela janela. A porta continuava a ranger, o nordeste atirava para dentro da sacristia folhas secas, que farfalhavam no chão de ladrilhos brancos e pretos. O relógio tinha parado, mas julgo que dormi horas. Galos cantaram, a lua deitou-se, o vento se cansou de gritar à toa e a luz da madrugada veio brincar com as imagens do oratório.
 
 Ergui-me, o espinhaço doído da posição incômoda. Estirei os braços. Moído, como se tivesse levado uma surra.
 
@@ -3067,19 +3075,19 @@ E encaminhei-me ao escritório, levado pelo hábito, murmurando sempre:
 
 — A Deus nada é impossível.
 
-Sobre a banca de Madalena estava o envelope de que ela me havia falado. Abri-o. Era uma carta extensa em que se despedia de mim. Li-a, saltando pedaços e naturalmente compreendendo pela metade, porque topava a cada passo aqueles palavrões que a minha ignorância evita. Faltava uma página: exatamente a que eu trazia na carteira, entre faturas de cimento e orações contra maleitas163 que a Rosa anos atrás me havia oferecido.
+Sobre a banca de Madalena estava o envelope de que ela me havia falado. Abri-o. Era uma carta extensa em que se despedia de mim. Li-a, saltando pedaços e naturalmente compreendendo pela metade, porque topava a cada passo aqueles palavrões que a minha ignorância evita. Faltava uma página: exatamente a que eu trazia na carteira, entre faturas de cimento e orações contra maleitas que a Rosa anos atrás me havia oferecido.
 
-## XXXII
+### Capítulo — 32
 
 Enterrou-se debaixo do mosaico da capela-mor.
 
-Vesti-me de preto; encomendei uma lápida; o dr. Magalhães, padre Silvestre, João Nogueira, Azevedo Gondim, os proprietários vizinhos, vieram trazer-me pêsames. Deixei a cama de casal e mudei-me para um quarto pequeno que tinha, à beira do telhado, um ninho de carriças164. Pela manhã as carriças pipilavam165 desesperadamente. Na mesa da cabeceira amontoavam-se telegramas e envelopes tarjados.
+Vesti-me de preto; encomendei uma lápida; o dr. Magalhães, padre Silvestre, João Nogueira, Azevedo Gondim, os proprietários vizinhos, vieram trazer-me pêsames. Deixei a cama de casal e mudei-me para um quarto pequeno que tinha, à beira do telhado, um ninho de carriças. Pela manhã as carriças pipilavam desesperadamente. Na mesa da cabeceira amontoavam-se telegramas e envelopes tarjados.
 
 Como necessitava distração, dediquei-me nervosamente a uma derrubada de madeira na mata. Depois mandei consertar o paredão do açude, que vazava.
 
 Mas o entusiasmo esfriou depressa. Aquilo era meio de vida, não era meio de morte.
 
-E pensava em Madalena. Creio na verdade que a lembrança dela sempre esteve em mim. O que houve foi que, na atrapalhação dos primeiros dias, confundiu-se com uma chusma166 de azucrinações diferentes umas das outras. Mas quando essas azucrinações se tornaram apenas um sedimento no meu espírito, veio à superfície. Raramente conseguia agitar-me e dissolvê-la: recompunha-se logo e ficava em suspensão. E os assuntos mais atraentes me traziam enfado e bocejos.
+E pensava em Madalena. Creio na verdade que a lembrança dela sempre esteve em mim. O que houve foi que, na atrapalhação dos primeiros dias, confundiu-se com uma chusma de azucrinações diferentes umas das outras. Mas quando essas azucrinações se tornaram apenas um sedimento no meu espírito, veio à superfície. Raramente conseguia agitar-me e dissolvê-la: recompunha-se logo e ficava em suspensão. E os assuntos mais atraentes me traziam enfado e bocejos.
 
 Vivia agora a passear na sala, as mãos nos bolsos, o cachimbo apagado na boca. Ia ao escritório, olhava os livros com tédio, saía, atravessava os corredores, percorria os quartos, voltava às caminhadas na sala.
 
@@ -3141,7 +3149,7 @@ D. Glória, cada vez mais espichada, agastou-se:
 
 E eu:
 
-— Quem está falando em prender a senhora? Deixe de doidice. Quer dar o fora? Perfeitamente, não lhe seguro as pernas. Se quisesse ficar, podia viver aí até criar canhão, que ninguém lhe pisava nos calos. Mas se não quer, acabou-se. Agora o que não tem jeito é escafeder-se como quem vai tangido167. Isso não. Ao deus-dará, com uma no cano, outra no fecho, não. Prepare-se, arranje os seus picuás168.
+— Quem está falando em prender a senhora? Deixe de doidice. Quer dar o fora? Perfeitamente, não lhe seguro as pernas. Se quisesse ficar, podia viver aí até criar canhão, que ninguém lhe pisava nos calos. Mas se não quer, acabou-se. Agora o que não tem jeito é escafeder-se como quem vai tangido. Isso não. Ao deus-dará, com uma no cano, outra no fecho, não. Prepare-se, arranje os seus picuás.
 
 — Estão arranjados.
 
@@ -3149,13 +3157,13 @@ E eu:
 
 — Não preciso de nada. Onde vou morar não sei. O que sei é que tenho de sair hoje.
 
-— Não seja criança — disse eu arrastando as palavras. — A senhora é capaz de pegar no pesado? Não dá meia-missa169. Encruou nos romances e até os assentamentos de batizados lhe seriam difíceis.
+— Não seja criança — disse eu arrastando as palavras. — A senhora é capaz de pegar no pesado? Não dá meia-missa. Encruou nos romances e até os assentamentos de batizados lhe seriam difíceis.
 
 Pouco a pouco d. Glória abrandou. Ignoro se procedeu assim em conformidade com o hábito de abrandar ou se tinha vindo resolvida a abrandar.
 
-— Pense no aluguel das casas na cidade, pense no preço dos remédios. Adoecer é fácil, d. Glória, mas tirar a moléstia do corpo é um trabalhão. Pense no mercado, no cobrador da luz, na pena-d’água170. Hoje em dia a vida é difícil em toda a parte, mas na cidade a vida é um buraco, d. Glória.
+— Pense no aluguel das casas na cidade, pense no preço dos remédios. Adoecer é fácil, d. Glória, mas tirar a moléstia do corpo é um trabalhão. Pense no mercado, no cobrador da luz, na pena-d’água. Hoje em dia a vida é difícil em toda a parte, mas na cidade a vida é um buraco, d. Glória.
 
-D. Glória confessou que a vida na cidade é de fato um buraco. Tinha mostrado o desprendimento e a altivez171 indispensáveis. Não era justo exigir mais.
+D. Glória confessou que a vida na cidade é de fato um buraco. Tinha mostrado o desprendimento e a altivez indispensáveis. Não era justo exigir mais.
 
 Declarei que devia a Madalena o ordenado de três anos. D. Glória acreditou, ou fingiu acreditar.
 
@@ -3193,7 +3201,7 @@ E olhei com tristeza o escritório, mais desatravancado depois que a banca de Ma
 
 Assim o excelente seu Ribeiro, que eu esperava enterrar em S. Bernardo, foi terminar nos cafés e nos bancos dos jardins a sua velhice e as suas lembranças.
 
-## XXXIII
+### Capítulo — 33
 
 Padilha começou a andar no pátio, aproximando-se da casa e fazendo, quando me via, grandes cumprimentos. Afinal chegou ao alpendre e demorou-se um instante. Fingi não perceber esses manejos.
 
@@ -3213,7 +3221,7 @@ Padilha esfregou as mãos:
 
 — Afinal a postema rebentou, com os diabos!
 
-À noite o chefe político escreveu-me pedindo armas e cabroeira172. De madrugada enviei-lhe um caminhão com rifles e homens.
+À noite o chefe político escreveu-me pedindo armas e cabroeira. De madrugada enviei-lhe um caminhão com rifles e homens.
 
 Depois os boatos engrossaram e viraram fatos: batalhões aderindo, regimentos aderindo, colunas organizando-se e deslocando-se rapidamente, bandeiras encarnadas por toda a parte, o governo da república encurralado no Rio.
 
@@ -3223,7 +3231,7 @@ Padilha, numa agitação constante, devorava manifestos e roía as unhas. Enfim,
 
 — Padilha e padre Silvestre incorporaram-se às tropas revolucionárias e conseguiram galões.
 
-## XXXIV
+### Capítulo — 34
 
 Na cidade havia um fuxico nojento. E eu, que nunca tive gosto para safadezinhas de lugar miúdo, entoquei-me.
 
@@ -3247,11 +3255,11 @@ O mundo que me cercava ia-se tornando um horrível estrupício. E o outro, o gra
 
 Os amigos e os jornais traziam-me a revolução.
 
-— Uma peste! — bradava Azevedo Gondim. — Foi um bluff173. Ameaças pelo telégrafo e pelo rádio, boletins jogados por aeroplanos — todo o mundo se pelava de medo. Isto é o povo mais covarde que Deus fabricou.
+— Uma peste! — bradava Azevedo Gondim. — Foi um bluff. Ameaças pelo telégrafo e pelo rádio, boletins jogados por aeroplanos — todo o mundo se pelava de medo. Isto é o povo mais covarde que Deus fabricou.
 
 — Exagero — opinava o advogado. Houve bravura.
 
-— Que bravura! — berrava Gondim. — Gente que devia pegar no paufurado174 escondeu-se.
+— Que bravura! — berrava Gondim. — Gente que devia pegar no paufurado escondeu-se.
 
 — Os da situação passada. Entre os revolucionários é diferente: há idealismo, há coragem. Não digo isto em público, mas há.
 
@@ -3297,7 +3305,7 @@ Casimiro Lopes, afastado, escutava-os com assombro.
 
 Eu olhava a torre da igreja. E o meu pensamento estirava-se pela paisagem, encolhia-se, descia as escadas, ia ao jardim, ao pomar, entrava na sacristia.
 
-João Nogueira condenava a literatura revolucionária, a patriotice alambicada175.
+João Nogueira condenava a literatura revolucionária, a patriotice alambicada.
 
 O oratório, sobre a mesa, estava cheio de santos; na parede penduravam-se litografias; a porta dava pancadas no batente; apagava-se a vela, eu acendia outra e ficava com o fósforo entre os dedos até queimar-me. As casas dos moradores eram úmidas e frias. A família de mestre Caetano vivia num aperto que fazia dó. E o pobre do Marciano tão esbodegado, tão escavacado, tão por baixo!
 
@@ -3305,19 +3313,19 @@ Azevedo Gondim reclamava liberdade, aos gritos. Contenta-se com a renda mofina d
 
 Agora a vela estava apagada. Era tarde. A porta gemia. O luar entrava pela janela. O nordeste espalhava folhas secas no chão. E eu já não ouvia os berros do Gondim.
 
-## XXXV
+### Capítulo — 35
 
-Entrei nesse ano com o pé esquerdo. Vários fregueses que sempre tinham procedido bem quebraram de repente. Houve fugas, suicídios, o Diário Oficial se emprenhou com falências e concordatas176. Tive de aceitar liquidações péssimas.
+Entrei nesse ano com o pé esquerdo. Vários fregueses que sempre tinham procedido bem quebraram de repente. Houve fugas, suicídios, o Diário Oficial se emprenhou com falências e concordatas. Tive de aceitar liquidações péssimas.
 
 O resultado foi desaparecerem a avicultura, a horticultura e a pomicultura. As laranjas amadureciam e apodreciam nos pés. Deixá-las. Antes isso que fazer colheita, escolha, embalagem, expedição, para dálas de graça.
 
-Uma infelicidade não vem só. As fábricas de tecidos, que adiantavam dinheiro para a compra de algodão, abandonaram de chofre177 esse bom costume e até deram para comprar fiado. Vendi uma safra no fuso, e enganaram-me na classificação.
+Uma infelicidade não vem só. As fábricas de tecidos, que adiantavam dinheiro para a compra de algodão, abandonaram de chofre esse bom costume e até deram para comprar fiado. Vendi uma safra no fuso, e enganaram-me na classificação.
 
 Era necessário adquirir novas máquinas para o descaroçador e para a serraria, mas na hora dos cálculos vi que ia gastar uma fortuna: o dólar estava pelas nuvens.
 
 — Vamos deixar de novidade. Sacrificar-me e no fim entregar a mercadoria de mão beijada a esses velhacos!
 
-Ainda por cima os bancos me fecharam as portas. Não sei por quê, mas fecharam. E olhem que nunca atrasei pagamentos. Enfim, uma penca de caiporismos178. Cheguei a dizer inconveniências a um gerente:
+Ainda por cima os bancos me fecharam as portas. Não sei por quê, mas fecharam. E olhem que nunca atrasei pagamentos. Enfim, uma penca de caiporismos. Cheguei a dizer inconveniências a um gerente:
 
 — Pois se os senhores não querem transigir, acabem com isso. Ou os papéis valem ou não valem. Se valem, é passar o arame. Pílulas! Eu encomendei revolução? Em seis meses havia tão grande quebradeira que torrei nos cobres o automóvel para não me protestarem uma letra vagabunda de seis contos.
 
@@ -3325,7 +3333,7 @@ Ainda por cima os bancos me fecharam as portas. Não sei por quê, mas fecharam.
 
 E cruzei os braços.
 
-Um dia em que, assim de braços cruzados, contemplava melancolicamente o descaroçador e a serraria, João Nogueira me trouxe a notícia de que o Fidélis e os Gama iam remexer as questões dos limites. E o pior era que o dr. Magalhães estava noutra comarca179.
+Um dia em que, assim de braços cruzados, contemplava melancolicamente o descaroçador e a serraria, João Nogueira me trouxe a notícia de que o Fidélis e os Gama iam remexer as questões dos limites. E o pior era que o dr. Magalhães estava noutra comarca.
 
 — Belezas da revolução — comentou Nogueira. — Um funcionário inamovível! E um juiz decente como o Magalhães! Um juiz íntegro!
 
@@ -3335,7 +3343,7 @@ E recomecei os meus passeios mecânicos pelo interior da casa. Às vezes empurra
 
 E os meus passos me levavam para os quartos, como se procurassem alguém.
 
-## XXXVI
+### Capítulo — 36
 
 Faz dois anos que Madalena morreu, dois anos difíceis. E quando os amigos deixaram de vir discutir política, isto se tornou insuportável.
 
@@ -3353,7 +3361,7 @@ Anteontem e ontem, por exemplo, foram dias perdidos. Tentei debalde canalizar pa
 
 Sou um homem arrasado. Doença? Não. Gozo perfeita saúde. Quando o Costa Brito, por causa de duzentos mil-réis que me queria abafar, vomitou os dois artigos, chamou-me doente, aludindo a crimes que me imputam. O Brito da Gazeta era uma besta. Até hoje, graças a Deus, nunca um médico me entrou em casa. Não tenho doença nenhuma.
 
-O que estou é velho. Cinquenta anos pelo São Pedro. Cinquenta anos perdidos, cinquenta anos gastos sem objetivo, a maltratar-me e a maltratar os outros. O resultado é que endureci, calejei, e não é um arranhão que penetra esta casca espessa e vem ferir cá dentro a sensibilidade embotada180.
+O que estou é velho. Cinquenta anos pelo São Pedro. Cinquenta anos perdidos, cinquenta anos gastos sem objetivo, a maltratar-me e a maltratar os outros. O resultado é que endureci, calejei, e não é um arranhão que penetra esta casca espessa e vem ferir cá dentro a sensibilidade embotada.
 
 Cinquenta anos! Quantas horas inúteis! Consumir-se uma pessoa a vida inteira sem saber para quê! Comer e dormir como um porco! Como um porco! Levantar-se cedo todas as manhãs e sair correndo, procurando comida! E depois guardar comida para os filhos, para os netos, para muitas gerações. Que estupidez! Que porcaria! Não é bom vir o diabo e levar tudo?
 
@@ -3363,7 +3371,7 @@ Está visto que, cessando esta crise, a propriedade se poderia reconstituir e vo
 
 Mas para quê? Para quê? não me dirão? Nesse movimento e nesse rumor haveria muito choro e haveria muita praga. As criancinhas, nos casebres úmidos e frios, inchariam roídas pela verminose. E Madalena não estaria aqui para mandar-lhes remédio e leite. Os homens e as mulheres seriam animais tristes.
 
-Bichos. As criaturas que me serviram durante anos eram bichos. Havia bichos domésticos, como o Padilha, bichos do mato, como Casimiro Lopes, e muitos bichos para o serviço do campo, bois mansos. Os currais que se escoram uns aos outros, lá embaixo, tinham lâmpadas elétricas. E os bezerrinhos mais taludos181 soletravam a cartilha e aprendiam de cor os mandamentos da lei de Deus.
+Bichos. As criaturas que me serviram durante anos eram bichos. Havia bichos domésticos, como o Padilha, bichos do mato, como Casimiro Lopes, e muitos bichos para o serviço do campo, bois mansos. Os currais que se escoram uns aos outros, lá embaixo, tinham lâmpadas elétricas. E os bezerrinhos mais taludos soletravam a cartilha e aprendiam de cor os mandamentos da lei de Deus.
 
 Bichos. Alguns mudaram de espécie e estão no exército, volvendo à esquerda, volvendo à direita, fazendo sentinela. Outros buscaram pastos diferentes.
 
@@ -3373,17 +3381,17 @@ Coloquei-me acima da minha classe, creio que me elevei bastante. Como lhes disse
 
 Além disso estou certo de que a escrituração mercantil, os manuais de agricultura e pecuária, que forneceram a essência da minha instrução, não me tornaram melhor que o que eu era quando arrastava a peroba. Pelo menos naquele tempo não sonhava ser o explorador feroz em que me transformei.
 
-Quanto às vantagens restantes — casas, terras, móveis, semoventes182, consideração de políticos, etc. — é preciso convir em que tudo está fora de mim.
+Quanto às vantagens restantes — casas, terras, móveis, semoventes, consideração de políticos, etc. — é preciso convir em que tudo está fora de mim.
 
 Julgo que me desnorteei numa errada.
 
 Se houvesse continuado a arear o tacho de cobre da velha Margarida, eu e ela teríamos uma existência quieta. Falaríamos pouco, pensaríamos pouco, e à noite, na esteira, depois do café com rapadura, rezaríamos rezas africanas, na graça de Deus.
 
-Se não tivesse ferido o João Fagundes, se tivesse casado com a Germana, possuiria meia dúzia de cavalos, um pequeno cercado de capim, encerados, cangalhas183, seria um bom almocreve184. Teria crédito para comprar cem mil-réis de fazenda nas lojas da cidade e pelas quatro festas do ano a mulher e os meninos vestiriam roupa nova. Os meus desejos percorreriam uma órbita acanhada. Não me atormentariam preocupações excessivas, não ofenderia ninguém. E, em manhãs de inverno, tangendo os cargueiros, dando estalos com o buranhém185, de alpercatas, chapéu de ouricuri186, alguns níqueis na capanga187, beberia um gole de cachaça para espantar o frio e cantaria por estes caminhos, alegre como um desgraçado.
+Se não tivesse ferido o João Fagundes, se tivesse casado com a Germana, possuiria meia dúzia de cavalos, um pequeno cercado de capim, encerados, cangalhas, seria um bom almocreve. Teria crédito para comprar cem mil-réis de fazenda nas lojas da cidade e pelas quatro festas do ano a mulher e os meninos vestiriam roupa nova. Os meus desejos percorreriam uma órbita acanhada. Não me atormentariam preocupações excessivas, não ofenderia ninguém. E, em manhãs de inverno, tangendo os cargueiros, dando estalos com o buranhém, de alpercatas, chapéu de ouricuri, alguns níqueis na capanga, beberia um gole de cachaça para espantar o frio e cantaria por estes caminhos, alegre como um desgraçado.
 
 Hoje não canto nem rio. Se me vejo ao espelho, a dureza da boca e a dureza dos olhos me descontentam.
 
-Penso no povoado onde seu Ribeiro morou, há meio século. Seu Ribeiro acumulava, sem dúvida, mas não acumulava para ele. Tinha uma casa grande, sempre cheia, o jerimum caboclo apodrecia na roça — e por aquelas beiradas ninguém tinha fome. Imagino-me vivendo no tempo da monarquia, à sombra de seu Ribeiro. Não sei ler, não conheço iluminação elétrica nem telefone. Para me exprimir recorro a muita perífrase188 e muita gesticulação. Tenho, como todo o mundo, uma candeia de azeite, que não serve para nada, porque à noite a gente dorme. Podem rebentar centenas de revoluções. Não receberei notícia delas.
+Penso no povoado onde seu Ribeiro morou, há meio século. Seu Ribeiro acumulava, sem dúvida, mas não acumulava para ele. Tinha uma casa grande, sempre cheia, o jerimum caboclo apodrecia na roça — e por aquelas beiradas ninguém tinha fome. Imagino-me vivendo no tempo da monarquia, à sombra de seu Ribeiro. Não sei ler, não conheço iluminação elétrica nem telefone. Para me exprimir recorro a muita perífrase e muita gesticulação. Tenho, como todo o mundo, uma candeia de azeite, que não serve para nada, porque à noite a gente dorme. Podem rebentar centenas de revoluções. Não receberei notícia delas.
 
 Provavelmente sou um sujeito feliz.
 
@@ -3403,7 +3411,7 @@ A agitação diminui.
 
 — Estraguei a minha vida estupidamente. Penso em Madalena com insistência. Se fosse possível recomeçarmos... Para que enganar-me? Se fosse possível recomeçarmos, aconteceria exatamente o que aconteceu. Não consigo modificar-me, é o que mais me aflige.
 
-A molecoreba de mestre Caetano arrasta-se por aí, lambuzada, faminta. A Rosa, com a barriga quebrada de tanto parir, trabalha em casa, trabalha no campo e trabalha na cama. O marido é cada vez mais molambo. E os moradores que me restam são uns cambembes189 como ele.
+A molecoreba de mestre Caetano arrasta-se por aí, lambuzada, faminta. A Rosa, com a barriga quebrada de tanto parir, trabalha em casa, trabalha no campo e trabalha na cama. O marido é cada vez mais molambo. E os moradores que me restam são uns cambembes como ele.
 
 Para ser franco, declaro que esses infelizes não me inspiram simpatia. Lastimo a situação em que se acham, reconheço ter contribuído para isso, mas não vou além. Estamos tão separados! A princípio estávamos juntos, mas esta desgraçada profissão nos distanciou.
 

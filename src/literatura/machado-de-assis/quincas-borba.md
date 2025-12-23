@@ -5,19 +5,19 @@ outline: 2
 
 # Quincas Borba
 
-## Capítulos 1 a 10
+## Capítulos 01 — 10
 
-### Capítulo I
+### Capítulo — 01
 
 Rubião fitava a enseada, - eram oito horas da manhã. Quem o visse, com os polegares metidos no cordão do chambre, à janela de uma grande casa de Botafogo, cuidaria que ele admirava aquele pedaço de água quieta; mas, em verdade, vos digo que pensava em outra coisa. Cotejava o passado com o presente. Que era, há um ano? Professor. Que é agora? Capitalista. Olha para si, para as chinelas (umas chinelas de Túnis, que lhe deu recente amigo, Cristiano Palha), para a casa, para o jardim, para a enseada, para os morros e para o céu; e tudo, desde as chinelas até o céu, tudo entra na mesma sensação de propriedade.
 
 — Vejam como Deus escreve direito por linhas tortas, pensa ele. Se mana Piedade tem casado com Quincas Borba, apenas me daria uma esperança colateral. Não casou; ambos morreram, e aqui está tudo comigo; de modo que o que parecia uma desgraça...
 
-### Capítulo II
+### Capítulo — 02
 
 Que abismo que há entre o espírito e o coração! O espírito do ex-professor, vexado daquele pensamento, arrepiou caminho, buscou outro assunto, uma canoa que ia passando; o coração, porém, deixou-se estar a bater de alegria. Que lhe importa a canoa nem o canoeiro, que os olhos de Rubião acompanham, arregalados? Ele, coração, vai dizendo que, uma vez que a mana Piedade tinha de morrer, foi bom que não casasse; podia vir um filho ou uma filha... - Bonita canoa! - Antes assim! - Como obedece bem aos remos do homem! - O certo é que eles estão no céu!
 
-### Capítulo III
+### Capítulo — 03
 
 Um criado trouxe o café. Rubião pegou na xícara, e, enquanto lhe deitava açúcar, ia disfarçadamente mirando a bandeja, que era de prata lavrada. Prata, ouro, eram os metais que amava de coração; não gostava de bronze, mas o amigo Palha disse-lhe que era matéria de preço, e assim se explica este par de figuras que aqui está na sala, um Mefistófeles e um Fausto. Tivesse, porém, de escolher, escolheria a bandeja, - primor de argentaria, execução fina e acabada. O criado esperava teso e sério. Era espanhol; e não foi sem resistência que Rubião o aceitou das mãos de Cristiano; por mais que lhe dissesse que estava acostumado aos seus crioulos de Minas, e não queria línguas estrangeiras em casa, o amigo Palha insistiu, demonstrando-lhe a necessidade de ter criados brancos. Rubião cedeu com pena. O seu bom pajem, que ele queria pôr na sala, como um pedaço da província, nem o pôde deixar na cozinha, onde reinava um francês, Jean; foi degradado a outros serviços.
 
@@ -33,7 +33,7 @@ Não foi; deixou-se ficar, algum tempo, a olhar para os móveis. Vendo as pequen
 
 Rubião suspirou, cruzou as pernas, e bateu com as borlas do chambre sobre os joelhos. Sentia que não era inteiramente feliz; mas sentia também que não estava longe a felicidade completa. Recompunha de cabeça uns modos, uns olhos, uns requebros sem explicação, a não ser esta, que ela o amava, e que o amava muito. Não era velho; ia fazer quarenta e um anos; e, rigorosamente, parecia menos. Esta observação foi acompanhada de um gesto; passou a mão pelo queixo, barbeado todos os dias, coisa que não fazia dantes, por economia e desnecessidade. Um simples professor! Usava suíças (mais tarde deixou crescer a barba toda), - tão macias, que dava gosto passar os dedos por elas... E recordava assim o primeiro encontro, na estação de Vassouras, onde Sofia e o marido entraram no trem da estrada de ferro, no mesmo carro em que ele descia de Minas; foi ali que achou aquele par de olhos viçosos, que pareciam repetir a exortação do profeta: Todos vós que tendes sede, vinde às águas. Não trazia ideias adequadas ao convite, é verdade; vinha com a herança na cabeça, o testamento, o inventário, coisas que é preciso explicar primeiro, a fim de entender o presente e o futuro. Deixemos Rubião na sala de Botafogo, batendo com as borlas do chambre nos joelhos, e cuidando na bela Sofia. Vem comigo, leitor; vamos vê-lo, meses antes, à cabeceira do Quincas Borba.
 
-### Capítulo IV
+### Capítulo — 04
 
 Este Quincas Borba, se acaso me fizeste o favor de ler as Memórias póstumas de Brás Cubas, é aquele mesmo náufrago da existência, que ali aparece, mendigo, herdeiro inopinado, e inventor de uma filosofia. Aqui o tens agora em Barbacena. Logo que chegou, enamorou-se de uma viúva, senhora de condição mediana e parcos meios de vida; mas, tão acanhada, que os suspiros do namorado ficavam sem eco. Chamava-se Maria da Piedade. Um irmão dela, que é o presente Rubião, fez todo o possível para casá-los. Piedade resistiu, um pleuris a levou.
 
@@ -51,11 +51,11 @@ A opinião ostensiva do médico era que a doença do Quincas Borba iria saindo d
 
 — Não; mas filosofia é uma coisa, e morrer de verdade é outra; adeus.
 
-### Capítulo V
+### Capítulo — 05
 
 Rubião achou um rival no coração de Quincas Borba, - um cão, um bonito cão, meio tamanho, pelo cor de chumbo, malhado de preto. Quincas Borba levava-o para toda parte, dormiam no mesmo quarto. De manhã, era o cão que acordava o senhor, trepando ao leito, onde trocavam as primeiras saudações. Uma das extravagâncias do dono foi dar-lhe o seu próprio nome; mas, explicava-o por dois motivos, um doutrinário, outro particular.
 
-— Desde que Humanitas, 4 segundo a minha doutrina, é o princípio da vida e reside em toda a parte, existe também no cão, e este pode assim receber um nome de gente, seja cristão ou muçulmano...
+— Desde que Humanitas, segundo a minha doutrina, é o princípio da vida e reside em toda a parte, existe também no cão, e este pode assim receber um nome de gente, seja cristão ou muçulmano...
 
 — Bem, mas por que não lhe deu antes o nome de Bernardo, disse Rubião com o pensamento em um rival político da localidade.
 
@@ -89,7 +89,7 @@ Quincas Borba sentou-se na cama, deixando pender as pernas, cuja extraordinária
 
 Quincas Borba procurou com os pés as chinelas; Rubião chegou-lhas; ele calçou-as e pôs-se a andar para esticar as pernas. Afagou o cão e acendeu um cigarro. Rubião quis que se agasalhasse, e trouxe-lhe um fraque, um colete, um chambre, um capote, à escolha. Quincas Borba recusou-os com um gesto. Tinha outro ar agora; os olhos metidos para dentro viam pensar o cérebro. Depois de muitos passos, parou, por alguns segundos, diante de Rubião.
 
-### Capítulo VI
+### Capítulo — 06
 
 — Para entenderes bem o que é a morte e a vida, basta contar-te como morreu minha avó.
 
@@ -99,7 +99,7 @@ Quincas Borba procurou com os pés as chinelas; Rubião chegou-lhas; ele calçou
 
 Rubião obedeceu, dando ao rosto o maior interesse possível, enquanto Quincas Borba continuava a andar.
 
-— Foi no Rio de Janeiro, começou ele, defronte da Capela Imperial, que era então Real, em dia de grande festa; 5 minha avó saiu, atravessou o adro, para ir ter à cadeirinha, que a esperava no largo do Paço. Gente como formiga. O povo queria ver entrar as grandes senhoras nas suas ricas traquitanas. No momento em que minha avó saía do adro para ir à cadeirinha, um pouco distante, aconteceu espantar-se uma das bestas de uma sege; a besta disparou, a outra imitou-a, confusão, tumulto, minha avó caiu, e tanto as mulas como a sege passaram-lhe por cima. Foi levada em braços para uma botica da rua Direita, veio um sangrador, mas era tarde; 7 tinha a cabeça rachada, uma perna e o ombro partidos, era toda sangue; expirou minutos depois.
+— Foi no Rio de Janeiro, começou ele, defronte da Capela Imperial, que era então Real, em dia de grande festa; minha avó saiu, atravessou o adro, para ir ter à cadeirinha, que a esperava no largo do Paço. Gente como formiga. O povo queria ver entrar as grandes senhoras nas suas ricas traquitanas. No momento em que minha avó saía do adro para ir à cadeirinha, um pouco distante, aconteceu espantar-se uma das bestas de uma sege; a besta disparou, a outra imitou-a, confusão, tumulto, minha avó caiu, e tanto as mulas como a sege passaram-lhe por cima. Foi levada em braços para uma botica da rua Direita, veio um sangrador, mas era tarde; tinha a cabeça rachada, uma perna e o ombro partidos, era toda sangue; expirou minutos depois.
 
 — Foi realmente uma desgraça, disse Rubião.
 
@@ -107,7 +107,7 @@ Rubião obedeceu, dando ao rosto o maior interesse possível, enquanto Quincas B
 
 — Não?
 
-— Ouve o resto. Aqui está como se tinha passado o caso. O dono da sege estava no adro, e tinha fome, muita fome, porque era tarde, e almoçara cedo e pouco. Dali pôde fazer sinal ao cocheiro; este fustigou as mulas para ir buscar o patrão. A sege no meio do caminho achou um obstáculo e derribou-o; esse obstáculo era minha avó. O primeiro ato dessa série de atos foi um movimento de conservação: Humanitas tinha fome. Se em vez de minha avó, fosse um rato ou um cão, é certo que minha avó não morreria, mas o fato era o mesmo; Humanitas precisa comer. Se em vez de um rato ou de um cão, fosse um poeta, Byron ou Gonçalves Dias, diferia o caso no sentido de dar matéria a muitos necrológios; 8 mas o fundo subsistia. O universo ainda não parou por lhe faltarem alguns poemas mortos em flor na cabeça de um varão ilustre ou obscuro; mas Humanitas (e isto importa, antes de tudo) Humanitas precisa comer.
+— Ouve o resto. Aqui está como se tinha passado o caso. O dono da sege estava no adro, e tinha fome, muita fome, porque era tarde, e almoçara cedo e pouco. Dali pôde fazer sinal ao cocheiro; este fustigou as mulas para ir buscar o patrão. A sege no meio do caminho achou um obstáculo e derribou-o; esse obstáculo era minha avó. O primeiro ato dessa série de atos foi um movimento de conservação: Humanitas tinha fome. Se em vez de minha avó, fosse um rato ou um cão, é certo que minha avó não morreria, mas o fato era o mesmo; Humanitas precisa comer. Se em vez de um rato ou de um cão, fosse um poeta, Byron ou Gonçalves Dias, diferia o caso no sentido de dar matéria a muitos necrológios; mas o fundo subsistia. O universo ainda não parou por lhe faltarem alguns poemas mortos em flor na cabeça de um varão ilustre ou obscuro; mas Humanitas (e isto importa, antes de tudo) Humanitas precisa comer.
 
 Rubião escutava, com a alma nos olhos, sinceramente desejoso de entender; mas não dava pela necessidade a que o amigo atribuía a morte da avó. Seguramente o dono da sege, por muito tarde que chegasse à casa, não morria de fome, ao passo que a boa senhora morreu de verdade, e para sempre. Explicou-lhe, como pôde, essas dúvidas, e acabou perguntando-lhe:
 
@@ -147,7 +147,7 @@ Pois essa substância ou verdade, esse princípio indestrutível é que é Human
 
 — Bolha não tem opinião. Aparentemente, há nada mais contristador que uma dessas terríveis pestes que devastam um ponto do globo? E, todavia, esse suposto mal é um benefício, não só porque elimina os organismos fracos, incapazes de resistência, como porque dá lugar à observação, à descoberta da droga curativa. A higiene é filha de podridões seculares; devemo-la a milhões de corrompidos e infectos. Nada se perde, tudo é ganho. Repito, as bolhas ficam na água. Vês este livro? É Dom Quixote. Se eu destruir o meu exemplar, não elimino a obra que continua eterna nos exemplares subsistentes e nas edições posteriores. Eterna e bela, belamente eterna, como este mundo divino e supradivino.
 
-### Capítulo VII
+### Capítulo — 07
 
 Quincas Borba calou-se de exausto, e sentou-se ofegante. Rubião acudiu, levando-lhe água e pedindo que se deitasse para descansar; mas o enfermo, após alguns minutos, respondeu que não era nada. Perdera o costume de fazer discursos, é o que era. E, afastando com o gesto a pessoa de Rubião, a fim de poder encará-la sem esforço, empreendeu uma brilhante descrição do mundo e suas excelências. Misturou ideias próprias e alheias, imagens de toda sorte, idílicas, épicas, a tal ponto que Rubião perguntava a si mesmo como é que um homem, que ia morrer dali a dias, podia tratar tão galantemente aqueles negócios.
 
@@ -175,7 +175,7 @@ Quincas Borba apertou-lhe as mãos.
 
 — Bem.
 
-### Capítulo VIII
+### Capítulo — 08
 
 No dia seguinte, Quincas Borba acordou com a resolução de ir ao Rio de Janeiro, voltaria no fim de um mês, tinha certos negócios... Rubião ficou espantado. E a moléstia, e o médico? O doente respondeu que o médico era um charlatão, e que a moléstia precisava espairecer, tal qual a saúde. Moléstia e saúde eram dois caroços do mesmo fruto, dois estados de Humanitas.
 
@@ -205,7 +205,7 @@ Foram os três, porque o cão não deixava partir o amo e senhor sem acompanhá-
 
 Quincas Borba chorava pelo outro Quincas Borba. Não quis vê-lo à saída. Chorava deveras, lágrimas de loucura ou de afeição, quaisquer que fossem, ele as ia deixando pela boa terra mineira, como o derradeiro suor de uma alma obscura, prestes a cair no abismo.
 
-### Capítulo IX
+### Capítulo — 09
 
 Horas depois, teve Rubião um pensamento horrível. Podiam crer que ele próprio incitara o amigo à viagem, para o fim de o matar mais depressa, e entrar na posse do legado, se é que realmente estava incluso no testamento. Sentiu remorsos. Por que não empregou todas as forças para contê-lo? Viu o cadáver de Quincas Borba, pálido, hediondo, fitando nele um olhar vingativo; resolveu, se acaso o fatal desfecho se desse em viagem, abrir mão do legado.
 
@@ -225,7 +225,7 @@ O médico tirou o largo chapéu de palha para concertar a fita; depois sorriu. G
 
 Algumas pessoas começaram a mofar do Rubião e da singular incumbência de guardar um cão em vez de ser o cão que o guardasse a ele. Vinha a risota, choviam as alcunhas. Em que havia de dar o professor! sentinela de cachorro! Rubião tinha medo da opinião pública. Com efeito, parecia-lhe ridículo; fugia aos olhos estranhos, olhava com fastio para o animal, dava-se ao diabo, arrenegava da vida. Não tivesse a esperança de um legado, pequeno que fosse. Era impossível que lhe não deixasse uma lembrança.
 
-### Capítulo X
+### Capítulo — 10
 
 Sete semanas depois, chegou a Barbacena esta carta, datada do Rio de Janeiro, toda do punho do Quincas Borba:
 
@@ -255,19 +255,19 @@ Dizendo isto, Rubião meteu a carta no bolso; o médico saiu; ele respirou. Esca
 
 — Não quero nada, disse ao escravo. E outra vez pensou no legado. Calculou o algarismo. Menos de dez contos, não. Compraria um pedaço de terra, uma casa, cultivaria isto ou aquilo, ou lavraria ouro. O pior é se era menos, cinco contos... Cinco? Era pouco; mas, enfim, talvez não passasse disso. Cinco que fossem, era um arranjo menor, e antes menor que nada. Cinco contos... Pior seria se o testamento ficasse nulo. Vá, cinco contos!
 
-## Capítulos 11 a 20
+## Capítulos 11 — 20
 
-### Capítulo XI
+### Capítulo — 11
 
 No começo da semana seguinte, recebendo os jornais da Corte (ainda assinaturas do Quincas Borba) leu Rubião esta notícia em um deles:
 
 Faleceu ontem o Sr. Joaquim Borba dos Santos, tendo suportado a moléstia com singular filosofia. Era homem de muito saber, e cansava-se em batalhar contra esse pessimismo amarelo e enfezado que ainda nos há de chegar aqui um dia; é a moléstia do século. A última palavra dele foi que a dor era uma ilusão, e que Pangloss não era tão tolo como o inculcou Voltaire... Já então delirava. Deixa muitos bens. O testamento está em Barbacena.
 
-### Capítulo XII
+### Capítulo — 12
 
 — Acabou de sofrer! suspirou Rubião.
 
-Em seguida, atentando na notícia, viu que falava de um homem que tinha apreço, consideração, a quem se atribuía uma peleja filosófica. Nenhuma alusão a demência. Ao contrário, o final dizia que ele delirara a última hora, efeito da moléstia. Ainda bem! Rubião leu novamente a carta, e a hipótese da troça pareceu outra vez mais verossímil. Concordou que ele tinha graça; com certeza, quis debicá-lo; foi a Santo Agostinho, como iria a Santo Ambrósio ou a Santo Hilário, 14 e escreveu uma carta enigmática, para confundi-lo, até voltar e rir-se do logro. Pobre amigo! Estava são, - são e morto. Sim, já não padecia nada. Vendo o cachorro, suspirou:
+Em seguida, atentando na notícia, viu que falava de um homem que tinha apreço, consideração, a quem se atribuía uma peleja filosófica. Nenhuma alusão a demência. Ao contrário, o final dizia que ele delirara a última hora, efeito da moléstia. Ainda bem! Rubião leu novamente a carta, e a hipótese da troça pareceu outra vez mais verossímil. Concordou que ele tinha graça; com certeza, quis debicá-lo; foi a Santo Agostinho, como iria a Santo Ambrósio ou a Santo Hilário, e escreveu uma carta enigmática, para confundi-lo, até voltar e rir-se do logro. Pobre amigo! Estava são, - são e morto. Sim, já não padecia nada. Vendo o cachorro, suspirou:
 
 — Coitado do Quincas Borba! Se pudesse saber que o senhor morreu...
 
@@ -275,7 +275,7 @@ Depois, consigo:
 
 — Agora, que já acabou a obrigação, vou dá-lo à comadre Angélica.
 
-### Capítulo XIII
+### Capítulo — 13
 
 A notícia correra a cidade, o vigário, o farmacêutico da casa, o médico, todos mandaram saber se era verdadeira. O agente do correio, que a lera nas folhas, trouxe em mão própria ao Rubião uma carta que viera na mala para ele; podia ser do finado, conquanto a letra do sobrescrito fosse outra.
 
@@ -285,11 +285,11 @@ O meu pobre amigo Quincas Borba faleceu ontem em minha casa, onde apareceu há t
 
 Os agradecimentos fizeram empalidecer o professor; mas as praxes do foro restituíram-lhe o sangue. Rubião fechou a carta sem dizer nada; o agente falou de uma coisa e outra, depois saiu. Rubião ordenou a um escravo que levasse o cachorro de presente à comadre Angélica, dizendo-lhe que, como gostava de bichos, lá ia mais um; que o tratasse bem, porque ele estava acostumado a isso; finalmente que o nome do cachorro era o mesmo que o do dono, agora morto, Quincas Borba.
 
-### Capítulo XIV
+### Capítulo — 14
 
 Quando o testamento foi aberto, Rubião quase caiu para trás. Adivinhais por quê. Era nomeado herdeiro universal do testador. Não cinco, nem dez, nem vinte contos, mas tudo, o capital inteiro, especificados os bens, casas na Corte, uma em Barbacena, escravos, apólices, ações do Banco do Brasil e de outras instituições, joias, dinheiro amoedado, livros, - tudo finalmente passava às mãos do Rubião, sem desvios, sem deixas a nenhuma pessoa, nem esmolas, nem dívidas. Uma só condição havia no testamento, a de guardar o herdeiro consigo o seu pobre cachorro Quincas Borba, nome que lhe deu por motivo da grande afeição que lhe tinha. Exigia do dito Rubião que o tratasse como se fosse a ele próprio testador, nada poupando em seu benefício, resguardando-o de moléstias, de fugas, de roubo ou de morte que lhe quisessem dar por maldade; cuidar finalmente como se cão não fosse, mas pessoa humana. Item, impunha-lhe a condição, quando morresse o cachorro, de lhe dar sepultura decente em terreno próprio, que cobriria de flores e plantas cheirosas; e mais desenterraria os ossos do dito cachorro, quando fosse tempo idôneo, e os recolheria a uma urna de madeira preciosa para depositá-los no lugar mais honrado da casa.
 
-### Capítulo XV
+### Capítulo — 15
 
 Tal era a cláusula. Rubião achou-a natural, posto que só tivesse pensamento para cuidar na herança. Espreitara uma deixa, e sai-lhe do testamento a massa toda dos bens. Não podia acabar de crer; foi preciso que lhe apertassem muito as mãos, com força, - a força dos parabéns, - para não supor que era mentira.
 
@@ -305,7 +305,7 @@ Rubião não esquecia que muitas vezes tentara enriquecer com empresas que morre
 
 Ia assim, descendo e subindo as ruas da cidade, sem guiar para casa, sem plano, com o sangue aos pulos. De repente, surgiu-lhe este grave problema: - se iria viver no Rio de Janeiro, ou se ficaria em Barbacena. Sentia cócegas de ficar, de brilhar onde escurecia, de quebrar a castanha na boca aos que antes faziam pouco caso dele, e principalmente aos que se riam da amizade do Quincas Borba. Mas logo depois, vinha a imagem do Rio de Janeiro, que ele conhecia, com os seus feitiços, movimento, teatros em toda a parte, moças bonitas, "vestidas à francesa". Resolveu que era melhor, podia subir muitas e muitas vezes à cidade natal.
 
-### Capítulo XVI
+### Capítulo — 16
 
 — Quincas Borba! Quincas Borba! eh! Quincas Borba! bradou entrando em casa.
 
@@ -317,7 +317,7 @@ Aqui a testa e as costas das mãos do nosso amigo ficaram em água. Outra nuvem 
 
 — Que figura que o senhor vem fazendo, meu compadre? Meio tonto, jogando com os braços.
 
-### Capítulo XVII
+### Capítulo — 17
 
 — Sinhá comadre, o cachorro? perguntou Rubião com indiferença, mas pálido.
 
@@ -349,7 +349,7 @@ Mas Rubião tinha os olhos no Quincas Borba, que farejava impaciente, e que se a
 
 — Não imagina, sinhá comadre. Adeus, prometo-lhe um filho.
 
-### Capítulo XVIII
+### Capítulo — 18
 
 Rubião e o cachorro, entrando em casa, sentiram, ouviram a pessoa e as vozes do finado amigo. Enquanto o cachorro farejava por toda a parte, Rubião foi sentar-se na cadeira, onde estivera quando Quincas Borba referiu a morte da avó com explicações científicas. A memória dele recompôs, ainda que de embrulho e esgarçadamente, os argumentos do filósofo. Pela primeira vez, atentou bem na alegoria das tribos famintas e compreendeu a conclusão: "Ao vencedor, as batatas!" Ouviu distintamente a voz roufenha do finado expor a situação das tribos, a luta e a razão da luta, o extermínio de uma e a vitória da outra, e murmurou baixinho:
 
@@ -363,19 +363,19 @@ Gostava da fórmula, achava-a engenhosa, compendiosa e eloquente, além de verda
 
 Esqueceu o projeto do sinete; mas a fórmula viveu no espírito de Rubião, por alguns dias: - Ao vencedor as batatas! Não a compreenderia antes do testamento; ao contrário, vimos que a achou obscura e sem explicação. Tão certo é que a paisagem depende do ponto de vista, e que o melhor modo de apreciar o chicote é ter-lhe o cabo na mão.
 
-### Capítulo XIX
+### Capítulo — 19
 
 Não esqueça dizer que Rubião tomou a si mandar dizer uma missa por alma do finado, embora soubesse ou pressentisse que ele não era católico. Quincas Borba não dizia pulhices a respeito de padres, nem desconceituava doutrinas católicas; mas não falava nem da igreja nem dos seus servos. Por outro lado, a veneração de Humanitas fazia desconfiar ao herdeiro que essa era a religião do testador. Não obstante, mandou dizer a missa, considerando que não era ato da vontade do morto, mas prece de vivos; considerou mais que seria um escândalo na cidade, se ele, nomeado herdeiro pelo defunto, deixasse de dar ao seu protetor os sufrágios que não se negam aos mais miseráveis e avaros deste mundo.
 
 Se algumas pessoas deixaram de comparecer, para não assistir à glória do Rubião, muitas outras foram, - e não da ralé, - as quais viram a compunção verdadeira do antigo mestre de meninos.
 
-### Capítulo XX
+### Capítulo — 20
 
 Regulados os preliminares para a liquidação da herança, Rubião tratou de vir ao Rio de Janeiro, onde se fixaria, logo que tudo estivesse acabado. Havia que fazer em ambas as cidades; mas as coisas prometiam correr depressa.
 
-## Capítulos 21 a 30
+## Capítulos 21 — 30
 
-### Capítulo XXI
+### Capítulo — 21
 
 Na estação de Vassouras, entraram no trem Sofia e o marido, Cristiano de Almeida e Palha. Este era um rapagão de trinta e dois anos; ela ia entre vinte e sete e vinte e oito. Vieram sentar-se nos dois bancos fronteiros ao do Rubião, acomodaram as cestinhas e embrulhos de lembranças que traziam de Vassouras, onde tinham ido passar uma semana; abotoaram o guarda-pó, trocaram algumas palavras, baixo.
 
@@ -391,7 +391,7 @@ Depois que o trem continuou a andar, foi que o Palha reparou na pessoa do Rubiã
 
 — De Vassouras? Não; viemos aqui passar uma semana. Moro mesmo na Corte. Não teria jeito para lavrador, conquanto ache que é uma posição boa e honrada.
 
-Da lavoura passaram ao gado, à escravatura e à política. Cristiano Palha maldisse o governo, que introduzira na fala do trono uma palavra relativa à propriedade servil; mas, com grande espanto seu, Rubião não acudiu à indignação. Era plano deste vender os escravos que o testador lhe deixara, exceto um pajem; se alguma coisa perdesse, o resto da herança cobriria o desfalque. Demais, a fala do trono, 17 que ele também lera, mandava respeitar a propriedade atual. Que lhe importavam escravos futuros, se os não compraria? O pajem ia ser forro, logo que ele entrasse na posse dos bens. Palha desconversou, e passou à política, às câmaras, à guerra do Paraguai, 18 tudo assuntos gerais, ao que Rubião atendia, mais ou menos. Sofia escutava apenas; movia tão somente os olhos, que sabia bonitos, fitando-os ora no marido, ora no interlocutor.
+Da lavoura passaram ao gado, à escravatura e à política. Cristiano Palha maldisse o governo, que introduzira na fala do trono uma palavra relativa à propriedade servil; mas, com grande espanto seu, Rubião não acudiu à indignação. Era plano deste vender os escravos que o testador lhe deixara, exceto um pajem; se alguma coisa perdesse, o resto da herança cobriria o desfalque. Demais, a fala do trono, que ele também lera, mandava respeitar a propriedade atual. Que lhe importavam escravos futuros, se os não compraria? O pajem ia ser forro, logo que ele entrasse na posse dos bens. Palha desconversou, e passou à política, às câmaras, à guerra do Paraguai, tudo assuntos gerais, ao que Rubião atendia, mais ou menos. Sofia escutava apenas; movia tão somente os olhos, que sabia bonitos, fitando-os ora no marido, ora no interlocutor.
 
 — Vai ficar na Corte ou volta para Barbacena? perguntou o Palha no fim de vinte minutos de conversação.
 
@@ -463,11 +463,11 @@ Já os olhos deste não brilhavam, refletiam profundamente. Rubião metera-se po
 
 — Outra coisa. Não repita o seu caso a pessoas estranhas. Agradeço-lhe a confiança que lhe mereci, mas não se exponha ao primeiro encontro. Discrição e caras serviçais nem sempre andam juntas.
 
-### Capítulo XXII
+### Capítulo — 22
 
 Chegados à estação da Corte, despediram-se quase familiarmente. Palha ofereceu a sua casa em Santa Teresa; o ex-professor ia para a Hospedaria União, e prometeram visitar-se.
 
-### Capítulo XXIII
+### Capítulo — 23
 
 No dia seguinte, estava Rubião ansioso por ter ao pé de si o recente amigo da estrada de ferro, e determinou ir a Santa Teresa, à tarde; mas foi o próprio Palha que o procurou logo de manhã. Ia cumprimentá-lo, ver se estava bem ali, ou se preferia a casa dele, que ficava no alto. Rubião não aceitou a casa, mas aceitou o advogado, um contraparente do Palha, que este lhe indicou, como um dos primeiros, apesar de muito moço.
 
@@ -477,25 +477,25 @@ Rubião fê-lo almoçar, e acompanhou-o ao escritório do advogado, apesar dos p
 
 — Vá jantar logo comigo, em Santa Teresa, disse o Palha ao despedir-se. Não tem que hesitar, lá o espero, concluiu retirando-se.
 
-### Capítulo XXIV
+### Capítulo — 24
 
 Rubião tinha vexame, por causa de Sofia; não sabia haver-se com senhoras. Felizmente, lembrou-se da promessa que a si mesmo fizera de ser forte e implacável. Foi jantar. Abençoada resolução! Onde acharia iguais horas? Sofia era, em casa, muito melhor que no trem de ferro. Lá vestia a capa, embora tivesse os olhos descobertos; cá trazia à vista os olhos e o corpo, elegantemente apertado em um vestido de cambraia, mostrando as mãos que eram bonitas, e um princípio de braço. Demais, aqui era a dona da casa, falava mais, desfazia-se em obséquios; Rubião desceu meio tonto.
 
-### Capítulo XXV
+### Capítulo — 25
 
 Jantou lá muitas vezes. Era tímido e acanhado. A frequência atenuou a impressão dos primeiros dias. Mas trazia sempre guardado, e mal guardado, certo fogo particular, que ele não podia extinguir. Enquanto durou o inventário, e principalmente a denúncia dada por alguém contra o testamento, alegando que o Quincas Borba, por manifesta demência, não podia testar, o nosso Rubião distraiu-se; mas a denúncia foi destruída, e o inventário caminhou rapidamente para a conclusão. Palha festejou o acontecimento com um jantar em que tomaram parte, além dos três, o advogado, o procurador e o escrivão. Sofia tinha nesse dia os mais belos olhos do mundo.
 
-### Capítulo XXVI
+### Capítulo — 26
 
 — Parece que ela os compra em alguma fábrica misteriosa, pensou Rubião, descendo o morro; nunca os vi como hoje.
 
 Seguiu-se a mudança para a casa de Botafogo, uma das herdadas; foi preciso alfaiá-la, e ainda aqui o amigo Palha prestou grandes serviços ao Rubião, guiando-o com o gosto, com a notícia, acompanhando-o às lojas e leilões. Às vezes, como já sabemos, iam os três; porque há coisas, dizia graciosamente Sofia, que só uma senhora escolhe bem. Rubião aceitava agradecido, e demorava o mais que podia as compras, consultando sem propósito, inventando necessidades, tudo para ter mais tempo a moça ao pé de si. Esta deixava-se estar, falando, explicando, demonstrando.
 
-### Capítulo XXVII
+### Capítulo — 27
 
 Tudo isso passava agora pela cabeça do Rubião, depois do café, no mesmo lugar em que o deixamos sentado, a olhar para longe, muito longe. Continuava a bater com as borlas do chambre. Afinal lembrou-se de ir ver o Quincas Borba, e soltá-lo. Era a sua obrigação de todos os dias. Levantou-se e foi ao jardim, ao fundo.
 
-### Capítulo XXVIII
+### Capítulo — 28
 
 — Mas que pecado é este que me persegue? pensava ele andando. Ela é casada, dá-se bem com o marido, o marido é meu amigo, tem-me confiança, como ninguém... Que tentações são estas?
 
@@ -523,7 +523,7 @@ Mas já são muitas ideias, - são ideias demais; em todo caso são ideias de ca
 
 Afinal adormece. Então as imagens da vida brincam nele, em sonho, vagas, recentes, farrapo daqui remendo dali. Quando acorda, esqueceu o mal; tem em si uma expressão, que não digo seja melancolia, para não agravar o leitor. Diz-se de uma paisagem que é melancólica, mas não se diz igual coisa de um cão. A razão não pode ser outra senão que a melancolia da paisagem está em nós mesmos, enquanto que atribuí-la ao cão é deixá-la fora de nós. Seja o que for, é alguma coisa que não a alegria de há pouco; mas venha um assobio do cozinheiro, ou um gesto do senhor, e lá vai tudo embora, os olhos brilham, o prazer arregaça-lhe o focinho, e as pernas voam que parecem asas.
 
-### Capítulo XXIX
+### Capítulo — 29
 
 Rubião passou o resto da manhã alegremente. Era domingo; dois amigos vieram almoçar com ele, um rapaz de vinte e quatro anos, que roía as primeiras aparas dos bens da mãe, e um homem de quarenta e quatro ou quarenta e seis, que já não tinha que roer.
 
@@ -541,7 +541,7 @@ Rubião sorriu; fidalgo, ainda por comparação, é palavra que se ouve bem. Vei
 
 Tomou o primeiro trago, saboreou-o devagar, depois segundo, depois terceiro. No fim, pasmado, confessou que era um primor. Onde é que comprara aquilo? Rubião respondeu que um amigo, dono de um grande armazém de vinhos, o presenteara com uma garrafa; ele, porém, gostou tanto que já encomendara três dúzias. Não tardou que se estreitassem as relações. E o Freitas vai ali almoçar ou jantar muitas vezes, - mais vezes ainda do que quer ou pode, - porque é difícil resistir a um homem tão obsequioso, tão amigo de ver caras amigas.
 
-### Capítulo XXX
+### Capítulo — 30
 
 Rubião perguntou-lhe uma vez:
 
@@ -555,13 +555,13 @@ Rubião perguntou-lhe uma vez:
 
 — Pois tenho pena, porque o senhor é alegre.
 
-— Engana-se, senhor; trago esta máscara risonha, mas eu sou triste. Sou um arquiteto de ruínas. Iria primeiro às ruínas de Atenas; depois ao teatro, ver A Pobre das ruínas, um drama de lágrimas; 22 depois, aos tribunais de falências, onde os homens arruinados...
+— Engana-se, senhor; trago esta máscara risonha, mas eu sou triste. Sou um arquiteto de ruínas. Iria primeiro às ruínas de Atenas; depois ao teatro, ver A Pobre das ruínas, um drama de lágrimas; depois, aos tribunais de falências, onde os homens arruinados...
 
 E Rubião ria-se; gostava daqueles modos expansivos e francos.
 
-## Capítulos 31 a 40
+## Capítulos 31 — 40
 
-### Capítulo XXXI
+### Capítulo — 31
 
 Queres o avesso disso, leitor curioso? Vê este outro convidado para o almoço, Carlos Maria. Se aquele tem os modos "expansivos e francos", - no bom sentido laudatório, - claro é que ele os tem contrários. Assim, não te custará nada vê-lo entrar na sala, lento, frio e superior, ser apresentado ao Freitas, olhando para outra parte. Freitas que já o mandou cordialmente ao diabo por causa da demora (é perto do meio-dia), corteja-o agora rasgadamente, com grandes aleluias íntimas.
 
@@ -583,7 +583,7 @@ Freitas desencostou-se, e disse tudo o que pensava, que um e outro podiam ter ra
 
 Chegaram ao fim, era pouco mais de uma hora. Rubião, calado, recompunha mentalmente o almoço, prato a prato, via com gosto os copos e os seus resíduos de vinho, as migalhas esparsas, o aspecto final da mesa, em vésperas de café. De quando em quando dava um olhar à casaca do criado. Chegou a apanhar o rosto de Carlos Maria em flagrante prazer, quando tirava as primeiras fumaças de um dos charutos que ele mandara distribuir. Nisto entrou o criado com uma cestinha coberta por um lenço de cambraia, e uma carta, que acabavam de trazer.
 
-### Capítulo XXXII
+### Capítulo — 32
 
 — Quem é que manda isto? perguntou Rubião.
 
@@ -641,11 +641,11 @@ Freitas calculou que ele iria a alguma visita para os lados de São Clemente, e 
 
 — Eu volto para trás, tornou o outro.
 
-### Capítulo XXXIII
+### Capítulo — 33
 
 Rubião viu-os ir, entrou, meteu-se na sala, e ainda uma vez leu o bilhete de Sofia. Cada palavra dessa página inesperada era um mistério; a assinatura uma capitulação. Sofia apenas; nenhum outro nome da família ou do casal. Verdadeira amiga era evidentemente uma metáfora. Quanto às primeiras palavras: Mando-lhe estas frutinhas para o almoço respiravam a candidez de uma alma boa e generosa. Rubião viu, sentiu, palpou tudo pela única força do instinto e deu por si beijando o papel, - digo mal, beijando o nome, o nome dado na pia de batismo, repetido pela mãe, entregue ao marido como parte da escritura moral do casamento, e agora roubado a todas essas origens e posses para lhe ser mandado a ele, no fim duma folha de papel... Sofia! Sofia! Sofia!
 
-### Capítulo XXXIV
+### Capítulo — 34
 
 — Por que veio tão tarde? perguntou-lhe Sofia, logo que ele apareceu à porta do jardim, em Santa Teresa.
 
@@ -655,11 +655,11 @@ Rubião viu-os ir, entrou, meteu-se na sala, e ainda uma vez leu o bilhete de So
 
 Rubião caiu em si; mas não teve tempo de emendar a mão. Diante dele, ao pé da casa, estavam sentadas em bancos de ferro umas quatro senhoras, caladas, olhando para ele, curiosas; eram visitas de Sofia que esperavam a vinda de um capitalista Rubião. Sofia foi apresentá-lo a elas. Três delas eram casadas, uma solteira, ou mais que solteira. Contava trinta e nove anos, e uns olhos pretos, cansados de esperar. Era filha de um major Siqueira, que daí a alguns minutos apareceu no jardim.
 
-— O nosso Palha já me tinha falado em Vossa Excelência, disse o major depois de apresentado ao Rubião. Juro que é seu amigo às direitas. Contou-me o acaso que os ligou. Geralmente, as melhores amizades são essas. Eu, em trinta e tantos, pouco antes da Maioridade, 24 tive um amigo, o melhor dos meus amigos daquele tempo, que conheci assim por um acaso, na botica do Bernardes, por alcunha o João das panturrilhas... Creio que usou delas, em rapaz, entre 1801 e 1812. O certo é que a alcunha ficou. A botica era na rua de São José, ao desembocar na da Misericórdia... João das panturrilhas... Sabe que era um modo de engrossar a perna... Bernardes era o nome dele, João Alves Bernardes... Tinha a botica na rua de São José. Conversava-se ali muito, à tarde, e à noite. Ia a gente com o seu capote, e bengalão; alguns levavam lanterna. Eu não; levava só o meu capote... Ia-se de capote; o Bernardes, - João Alves Bernardes era o nome todo dele; era filho de Maricá, mas criou-se aqui no Rio de Janeiro... João das panturrilhas era a alcunha; diziam que ele andara de panturrilhas, em rapaz, e parece que foi um dos petimetres da cidade. Nunca me esqueci: João das panturrilhas... Ia-se de capote...
+— O nosso Palha já me tinha falado em Vossa Excelência, disse o major depois de apresentado ao Rubião. Juro que é seu amigo às direitas. Contou-me o acaso que os ligou. Geralmente, as melhores amizades são essas. Eu, em trinta e tantos, pouco antes da Maioridade, tive um amigo, o melhor dos meus amigos daquele tempo, que conheci assim por um acaso, na botica do Bernardes, por alcunha o João das panturrilhas... Creio que usou delas, em rapaz, entre 1801 e 1812. O certo é que a alcunha ficou. A botica era na rua de São José, ao desembocar na da Misericórdia... João das panturrilhas... Sabe que era um modo de engrossar a perna... Bernardes era o nome dele, João Alves Bernardes... Tinha a botica na rua de São José. Conversava-se ali muito, à tarde, e à noite. Ia a gente com o seu capote, e bengalão; alguns levavam lanterna. Eu não; levava só o meu capote... Ia-se de capote; o Bernardes, - João Alves Bernardes era o nome todo dele; era filho de Maricá, mas criou-se aqui no Rio de Janeiro... João das panturrilhas era a alcunha; diziam que ele andara de panturrilhas, em rapaz, e parece que foi um dos petimetres da cidade. Nunca me esqueci: João das panturrilhas... Ia-se de capote...
 
 A alma do Rubião bracejava debaixo deste aguaceiro de palavras; mas, estava num beco sem saída por um lado nem por outro. Tudo muralhas. Nenhuma porta aberta, nenhum corredor, e a chuva a cair. Se pudesse olhar para as moças veria, ao menos, que era objeto de curiosidade de todas, principalmente da filha do major, D. Tonica; mas não podia; escutava, e o major chovia a cântaros. Foi o Palha que lhe trouxe um guarda-chuva. Sofia tinha ido dizer ao marido que o Rubião acabara de chegar; daí a nada estava o Palha no jardim, e saudava o amigo, dizendo-lhe que viera tarde. O major, que explicava ainda uma vez a alcunha do boticário, abandonou a presa, e foi ter com as moças; depois saiu à rua.
 
-### Capítulo XXXV
+### Capítulo — 35
 
 As senhoras casadas eram bonitas; a mesma solteira não devia ter sido feia, aos vinte e cinco anos; mas Sofia primava entre todas elas.
 
@@ -673,11 +673,11 @@ A bela dama é filha de um velho funcionário público. Casou aos vinte anos com
 
 — Nós temos coisa, mais dia menos dia; isto anda por arames. O menor brado de alarma leva tudo.
 
-O pior é que ele despendia todo o ganho e mais. Era dado à boa-chira; 26 reuniões frequentes, vestidos caros e joias para a mulher, adornos de casa, mormente se eram de invenção ou adoção recente, - levavam-lhe os lucros presentes e futuros. Salvo em comidas, era escasso consigo mesmo. Ia muita vez ao teatro sem gostar dele, e a bailes, em que se divertia um pouco, - mas ia menos por si que para aparecer com os olhos da mulher, os olhos e os seios. Tinha essa vaidade singular; decotava a mulher sempre que podia, e até onde não podia, para mostrar aos outros as suas venturas particulares. Era assim um rei Candaules, mais restrito por um lado, e, por outro, mais público.
+O pior é que ele despendia todo o ganho e mais. Era dado à boa-chira; reuniões frequentes, vestidos caros e joias para a mulher, adornos de casa, mormente se eram de invenção ou adoção recente, - levavam-lhe os lucros presentes e futuros. Salvo em comidas, era escasso consigo mesmo. Ia muita vez ao teatro sem gostar dele, e a bailes, em que se divertia um pouco, - mas ia menos por si que para aparecer com os olhos da mulher, os olhos e os seios. Tinha essa vaidade singular; decotava a mulher sempre que podia, e até onde não podia, para mostrar aos outros as suas venturas particulares. Era assim um rei Candaules, mais restrito por um lado, e, por outro, mais público.
 
 E aqui façamos justiça à nossa dama. A princípio, cedeu sem vontade aos desejos do marido; mas tais foram as admirações colhidas, e a tal ponto o uso acomoda a gente às circunstâncias, que ela acabou gostando de ser vista, muito vista, para recreio e estímulo dos outros. Não a façamos mais santa do que é, nem menos. Para as despesas da vaidade, bastavam-lhe os olhos, que eram ridentes, inquietos, convidativos, e só convidativos: podemos compará-los à lanterna de uma hospedaria em que não houvesse cômodos para hóspedes. A lanterna fazia parar toda a gente, tal era a lindeza da cor, e a originalidade dos emblemas; parava, olhava e andava. Para que escancarar as janelas? Escancarou-as, finalmente; mas a porta, se assim podemos chamar ao coração, essa estava trancada e retrancada.
 
-### Capítulo XXXVI
+### Capítulo — 36
 
 — Meu Deus! como é bonita! Sinto-me capaz de fazer um escândalo! pensava Rubião, à noite, ao canto de uma janela, de costas para fora, olhando para Sofia, que olhava para ele.
 
@@ -685,7 +685,7 @@ Cantava uma senhora. Os três maridos de fora, que ali estavam de visita, interr
 
 — Meu Deus! como é bonita! Sinto-me capaz de fazer um escândalo! continuava a pensar o Rubião, encostado à janela, de costas para fora, com os olhos esquecidos na bela dama, que olhava para ele.
 
-### Capítulo XXXVII
+### Capítulo — 37
 
 Entende-se bem que D. Tonica observasse a contemplação dos dois. Desde que Rubião ali chegou, não cuidou ela mais que de atraí-lo. Os seus pobres olhos de trinta e nove anos, olhos sem parceiros na terra, indo já a resvalar do cansaço na desesperança, acharam em si algumas fagulhas. Volvê-los uma e muitas vezes, requebrando-os, era o longo ofício dela. Não lhe custou nada armá-los contra o capitalista.
 
@@ -705,17 +705,17 @@ Ainda assim continuou a luta; chegou a conseguir que Rubião viesse sentar-se ao
 
 Olhava para Sofia, que estava então em pé, de costas para ele, falando a duas senhoras sentadas. Rubião admirou-lhe ainda uma vez a figura, o busto bem talhado, estreito embaixo, largo em cima, emergindo das cadeiras amplas, como uma grande braçada de folhas sai de dentro de um vaso. A cabeça podia então dizer-se que era como uma magnólia única, direita, espetada no centro do ramo. Era isto que Rubião mirava, quando D. Tonica lhe perguntou pelos ares de Barbacena, e ele repetiu a palavra dela, sem lhe dar sequer a mesma forma interrogativa.
 
-### Capítulo XXXVIII
+### Capítulo — 38
 
 Rubião estava resoluto. Nunca a alma de Sofia pareceu convidar a dele, com tamanha instância, a voarem juntas até às terras clandestinas, donde elas tornam, em geral, velhas e cansadas. Algumas não tornam. Outras param a meio caminho. Grande número não passa da beira dos telhados...
 
-### Capítulo XXXIX
+### Capítulo — 39
 
 A lua era magnífica. No morro, entre o céu e a planície, a alma menos audaciosa era capaz de ir contra um exército inimigo, e destroçá-lo. Vede o que não seria com este exército amigo. Estavam no jardim. Sofia enfiara o braço no dele, para irem ver a lua. Convidara D. Tonica, mas a pobre dama respondeu que tinha um pé dormente, que já ia, e não foi.
 
 Os dois ficaram calados algum tempo. Pelas janelas abertas viam-se as outras pessoas conversando, e até os homens, que tinham acabado o voltarete. O jardim era pequeno; mas a voz humana tem todas as notas, e os dois podiam dizer poemas sem ser ouvidos.
 
-Rubião lembrou-se de uma comparação velha, mui velha, apanhada em não sei que décima de 1850, 29 ou de qualquer outra página em prosa de todos os tempos. Chamou aos olhos de Sofia as estrelas da terra, e às estrelas os olhos do céu. Tudo isso baixinho e trêmulo.
+Rubião lembrou-se de uma comparação velha, mui velha, apanhada em não sei que décima de 1850, ou de qualquer outra página em prosa de todos os tempos. Chamou aos olhos de Sofia as estrelas da terra, e às estrelas os olhos do céu. Tudo isso baixinho e trêmulo.
 
 Sofia ficou pasmada. De súbito endireitou o corpo, que até ali viera pesando no braço do Rubião. Estava tão acostumada à timidez do homem... Estrelas? olhos? Quis dizer que não caçoasse com ela, mas não achou como dar forma à resposta, sem rejeitar uma convicção que também era sua, ou então sem animá-lo a ir adiante. Daí um longo silêncio.
 
@@ -725,7 +725,7 @@ Loquaz, destemido, Rubião parecia totalmente outro. Não parou ali; falou ainda
 
 Era preciso responder, fazê-lo parar, dizer que ia por onde ela não queria ir, e tudo isso, sem que ele se zangasse, sem que se fosse embora... Sofia procurava alguma coisa; não achava, porque esbarrava na questão, para ela insolúvel, se era melhor mostrar que entendia, ou que não entendia. Aqui lembraram-lhe os próprios gestos dela, as palavrinhas doces, as atenções particulares; concluía que, em tal situação, não podia ignorar o sentido das finezas do homem. Mas confessar que entendia, e não despedi-lo de casa, eis aí o ponto melindroso.
 
-### Capítulo XL
+### Capítulo — 40
 
 Em cima, as estrelas pareciam rir daquela situação inextricável.
 
@@ -735,9 +735,9 @@ Depois, a lua é solitária. A solidão faz a pessoa séria. As estrelas, em chu
 
 Não nego que são castas; mas tanto pior, - terão rido do que não entendem... Castas estrelas! é assim que lhes chama Otelo, o terrível, e Tristram Shandy, o jovial. Esses extremos do coração e do espírito estão de acordo num ponto: as estrelas são castas. E elas ouviam tudo (castas estrelas!), tudo o que a boca temerária de Rubião ia entornando na alma pasmada de Sofia. O recatado de longos meses era agora (castas estrelas!) nada menos que um libertino. Disséreis que o Diabo andara a enganar a moça com as duas grandes asas de arcanjo que Deus lhe pôs; de repente, meteu-as na algibeira e desbarretou-se para mostrar as duas pontas malignas, fincadas na testa. E rindo, daquele riso oblíquo dos maus, propunha comprar-lhe não só a alma, mas a alma e o corpo... Castas estrelas!
 
-## Capítulos 41 a 50
+## Capítulos 41 — 50
 
-### Capítulo XLI
+### Capítulo — 41
 
 — Vamos para dentro, murmurou Sofia.
 
@@ -759,7 +759,7 @@ Aqui é que ele começou a voltar a si; afrouxou a pressão, sem soltar-lhe os d
 
 Inclinava-se para beijar a mão, quando uma voz, a alguns passos, veio acordá-lo inteiramente.
 
-### Capítulo XLII
+### Capítulo — 42
 
 — Olá! Estão apreciando a lua? Realmente, está deliciosa; está uma noite para namorados... Sim, deliciosa... Há muito que não vejo uma noite assim... Olhem só para baixo, os bicos de gás... Deliciosa! para namorados... Os namorados gostam sempre da lua. No meu tempo, em Icaraí...
 
@@ -829,7 +829,7 @@ Rubião ofereceu-lhe a casa com instância; exigiu até que lhe marcasse um dia,
 
 — Vamos. Está vendo? Não posso conversar um instante. Já te despediste? Onde está o meu chapéu?
 
-### Capítulo XLIII
+### Capítulo — 43
 
 Ladeira abaixo, D. Tonica foi ouvindo o resto do discurso do pai, que mudou de assunto, sem mudar de estilo, - difuso e derramado. Ouvia sem entender. Ia metida em si mesma, absorta, remoendo a noite, recompondo os olhares de Sofia e de Rubião.
 
@@ -845,11 +845,11 @@ Onde li eu que uma tradição antiga fazia esperar a uma virgem de Israel, duran
 
 Agora, aquietada a imaginação e o ressentimento, mira e remira a alcova solitária; recorda as amigas do colégio e de família, as mais íntimas, casadas todas. A derradeira delas desposou aos trinta anos um oficial de marinha, e foi ainda o que reverdeceu as esperanças à amiga solteira, que não pedia tanto, posto que a farda de aspirante foi a primeira coisa que lhe seduziu os olhos, aos quinze anos... Onde iam eles? Mas lá passaram cinco anos, cumpriu os trinta e nove, e os quarenta não tardam. Quarentona, solteirona; D. Tonica teve um calafrio. Olhou ainda, recordou tudo, ergueu-se de golpe, deu duas voltas e atirou-se à cama chorando...
 
-### Capítulo XLIV
+### Capítulo — 44
 
 Não vades crer que a dor aqui foi mais verdadeira que a cólera; foram iguais em si mesmas, os efeitos é que foram diversos. A cólera deu em nada; a humilhação debulhou-se em lágrimas legítimas. E contudo não faltaram a esta senhora ímpetos de estrangular Sofia, calcá-la aos pés, arrancar-lhe o coração aos pedaços, dizendo-lhe na cara os nomes crus que atribuía ao marido... Tudo imaginações! Crede-me: há tiranos de intenção. Quem sabe? Na alma desta senhora passou agora um tênue fio de Calígula...
 
-### Capítulo XLV
+### Capítulo — 45
 
 E enquanto uma chora, outra ri; é a lei do mundo, meu rico senhor; é a perfeição universal. Tudo chorando seria monótono, tudo rindo cansativo; mas uma boa distribuição de lágrimas e polcas, soluços e sarabandas, acaba por trazer à alma do mundo a variedade necessária, e faz-se o equilíbrio da vida.
 
@@ -867,9 +867,9 @@ Confuso, incerto, ia a cuidar na lealdade que devia ao amigo, mas a consciência
 
 Deu por si na praça da Constituição. Viera andando à toa. Pensou em ir ao teatro, mas era tarde. Então dirigiu-se ao largo de São Francisco para meter-se em um tílburi e ir para Botafogo. Achou três, que vieram logo ao encontro dele, oferecendo os seus serviços e louvando principalmente o cavalo, um bom cavalo, - um animal excelente.
 
-### Capítulo XLVI
+### Capítulo — 46
 
-O rumor das vozes e dos veículos acordou um mendigo que dormia nos degraus da igreja. O pobre-diabo sentou-se, viu o que era, depois tornou a deitar-se, mas acordado, de barriga para o ar, com os olhos fitos no céu. O céu fitava-o também, impassível como ele, mas sem as rugas do mendigo, nem os sapatos rotos, nem os andrajos, um céu claro, estrelado, sossegado, olímpico, tal qual presidiu às bodas de Jacó e ao suicídio de Lucrécia. Olhavam-se numa espécie de jogo do siso, 37 com certo ar de majestades rivais e tranquilas, sem arrogância, nem baixeza, como se o mendigo dissesse ao céu:
+O rumor das vozes e dos veículos acordou um mendigo que dormia nos degraus da igreja. O pobre-diabo sentou-se, viu o que era, depois tornou a deitar-se, mas acordado, de barriga para o ar, com os olhos fitos no céu. O céu fitava-o também, impassível como ele, mas sem as rugas do mendigo, nem os sapatos rotos, nem os andrajos, um céu claro, estrelado, sossegado, olímpico, tal qual presidiu às bodas de Jacó e ao suicídio de Lucrécia. Olhavam-se numa espécie de jogo do siso, com certo ar de majestades rivais e tranquilas, sem arrogância, nem baixeza, como se o mendigo dissesse ao céu:
 
 — Afinal, não me hás de cair em cima.
 
@@ -877,7 +877,7 @@ E o céu:
 
 — Nem tu me hás de escalar.
 
-### Capítulo XLVII
+### Capítulo — 47
 
 Rubião não era filósofo; a comparação que ali fez entre os seus cuidados e os do maltrapilho apenas lhe trouxe à alma uma sombra de inveja. Aquele malandro não pensa em nada, disse ele consigo; daqui a pouco está dormindo, enquanto eu...
 
@@ -905,7 +905,7 @@ Verdade é que o réu ainda não subira à forca; não o matariam de relance; se
 
 Eis o réu que sobe à forca. Passou pela turba um frêmito. O carrasco pôs mãos à obra. Foi aqui que o pé direito de Rubião descreveu uma curva na direção exterior, obedecendo a um sentimento de regresso; mas o esquerdo, tomado de sentimento contrário, deixou-se estar; lutaram alguns instantes... Olhe o meu cavalo! - Veja, é um rico animal! - Não seja mau! - Não seja medroso! Rubião esteve assim alguns segundos, os que bastaram para que chegasse o momento fatal. Todos os olhos fixaram-se no mesmo ponto, como os dele. Rubião não podia entender que bicho era que lhe mordia as entranhas, nem que mãos de ferro lhe pegavam da alma e a retinham ali. O instante fatal foi realmente um instante; o réu esperneou, contraiu-se, o algoz cavalgou-o de um modo airoso e destro; passou pela multidão um rumor grande, Rubião deu um grito, e não viu mais nada.
 
-### Capítulo XLVIII
+### Capítulo — 48
 
 — Vossa Senhoria há de ter visto que o cavalinho é bom...
 
@@ -923,7 +923,7 @@ Emendou-se logo; mais ingrato era não ter pensado no outro Quincas Borba, que l
 
 — Pare.
 
-### Capítulo XLIX
+### Capítulo — 49
 
 O cão ladrou de dentro; mas, logo que Rubião entrou, recebeu-o com grande alegria; e por mais importuno que fosse, Rubião desfez-se em carícias. A possibilidade de estar ali o testador dava-lhe arrepios. Subiram juntos a escada de pedra; ali ficaram por alguns instantes, à luz do lampião que Rubião mandara deixar aceso. Rubião era mais crédulo que crente; não tinha razões para atacar nem para defender nada: - terra eternamente virgem para se lhe plantar qualquer coisa. A vida da Corte deu-lhe até uma particularidade; entre incrédulos, chegava a ser incrédulo...
 
@@ -935,9 +935,9 @@ E o cão movia devagar a cabeça, para a esquerda e para a direita, ajudando a d
 
 — Não lhe dê pancadas, recomendou Rubião.
 
-Não lhe deu pancadas; mas só a descida era dolorosa, e o cão amigo gemeu por muito tempo no jardim. Rubião entrou, despiu-se e deitou-se. Ah! tinha vivido um dia cheio de sensações diversas e contrárias, desde as recordações da manhã, e o almoço aos dois amigos, até aquela última ideia de metempsicose, passando pela lembrança do enforcado, e por uma declaração de amor não aceita, mal repelida, parece que adivinhada por outros... Misturava tudo; o espírito ia de um para outro lado como bola de borracha entre mãos de crianças. Contudo, a sensação maior era a do amor. Rubião estava admirado de si mesmo, e arrependia-se; mas o arrependimento era obra da consciência, ao passo que a imaginação não soltava por nenhum preço a figura da bela Sofia... Uma, duas, três horas... Sofia ao longe, os latidos do cão embaixo... O sono esquivo... Onde iam já as três horas? Três e meia... Enfim, depois de muito cuidar, apareceu-lhe o sono, espremeu as clássicas papoulas, 43 e foi um instante; Rubião dormiu antes das quatro.
+Não lhe deu pancadas; mas só a descida era dolorosa, e o cão amigo gemeu por muito tempo no jardim. Rubião entrou, despiu-se e deitou-se. Ah! tinha vivido um dia cheio de sensações diversas e contrárias, desde as recordações da manhã, e o almoço aos dois amigos, até aquela última ideia de metempsicose, passando pela lembrança do enforcado, e por uma declaração de amor não aceita, mal repelida, parece que adivinhada por outros... Misturava tudo; o espírito ia de um para outro lado como bola de borracha entre mãos de crianças. Contudo, a sensação maior era a do amor. Rubião estava admirado de si mesmo, e arrependia-se; mas o arrependimento era obra da consciência, ao passo que a imaginação não soltava por nenhum preço a figura da bela Sofia... Uma, duas, três horas... Sofia ao longe, os latidos do cão embaixo... O sono esquivo... Onde iam já as três horas? Três e meia... Enfim, depois de muito cuidar, apareceu-lhe o sono, espremeu as clássicas papoulas, e foi um instante; Rubião dormiu antes das quatro.
 
-### Capítulo L
+### Capítulo — 50
 
 Não, senhora minha, ainda não acabou este dia tão comprido; não sabemos o que se passou entre Sofia e o Palha, depois que todos se foram embora. Pode ser até que acheis aqui melhor sabor que no caso do enforcado.
 
@@ -1027,7 +1027,7 @@ Sofia olhou para ele, contraindo as grossas sobrancelhas; ia responder, mas calo
 
 Palha atravessou uma perna sobre a outra e começou a rufar no sapato. Durante alguns segundos ficaram calados. Palha cuidava na proposta de acabar com as relações, não que quisesse aceitá-la, mas não sabia como responder à mulher, que mostrava tanto ressentimento, e se portava com tal dignidade. Era preciso nem desaprová-la, nem aceitar a proposta, e não lhe acudia nada. Levantou-se, meteu as mãos nas algibeiras das calças, e depois de alguns passos, parou defronte de Sofia.
 
-— Talvez nos estejamos a incomodar com um simples efeito de vinhos. Olha que ele não mandou o seu quinhão ao vigário; 45 cabeça fraca, um pouco de abalo, e entornou o que tinha dentro... Sim, eu não nego que lhe possas ter causado certa impressão, como tantas outras senhoras. Há dias foi a um baile no Catete, e voltou encantado das senhoras que lá vira, de uma principalmente, a viúva Mendes...
+— Talvez nos estejamos a incomodar com um simples efeito de vinhos. Olha que ele não mandou o seu quinhão ao vigário; cabeça fraca, um pouco de abalo, e entornou o que tinha dentro... Sim, eu não nego que lhe possas ter causado certa impressão, como tantas outras senhoras. Há dias foi a um baile no Catete, e voltou encantado das senhoras que lá vira, de uma principalmente, a viúva Mendes...
 
 Sofia interrompeu-o:
 
@@ -1087,9 +1087,9 @@ Sofia tapou-lhe a boca e olhou assustada para o corredor.
 
 — Estou com muita dor de cabeça, murmurou ela. Creio que foi do sereno, ou desta história... Estou com muita dor de cabeça.
 
-## Capítulos 51 a 60
+## Capítulos 51 — 60
 
-### Capítulo LI
+### Capítulo — 51
 
 Banhado, barbeado, meio vestido, Palha lia os jornais, à espera do almoço, quando viu entrar a mulher no gabinete, um tanto pálida.
 
@@ -1103,7 +1103,7 @@ Ficando só, a nossa amiga, que apenas tomou um caldo, lá para as duas horas, f
 
 A culpa eram as atenções especiais com o homem, carinhos, lembranças, obséquios familiares, e na véspera, aqueles olhos tão longamente pregados nele. Se não fosse isso... Ia-se assim perdendo em reflexões multiplicadas. Tudo a aborrecia, plantas, móveis, uma cigarra que cantava, um rumor de vozes, na rua, outro de pratos, em casa, o andar das escravas, e até um pobre preto velho que, em frente à casa dela, trepava com dificuldade um pedaço de morro. As cautelas do preto buliam-lhe com os nervos.
 
-### Capítulo LII
+### Capítulo — 52
 
 Nisto passou um rapaz alto, que a cortejou sorrindo e vagarosamente. Sofia cortejou-o também um pouco espantada da pessoa e da ação.
 
@@ -1119,13 +1119,13 @@ E entrou a cogitar donde é que o conhecia, porque, em verdade, a cara não lhe 
 
 Quando acabou de recordar tudo, já iria longe o rapaz: ao menos, foi uma interrupção na série de tédios que lhe tomavam a alma. Tinha uma dor nas costas, que se calara por instantes. Voltou logo, teimosa, aborrecida. Sofia reclinou-se na cadeira e fechou os olhos. Quis ver se passava pelo sono, mas não pôde. Os pensamentos eram tão teimosos como a dor, e ainda mais ruins que ela. De quando em quando um bater de asas, rápido, quebrava o silêncio: eram as pombas de uma casa vizinha que tornavam ao pombal. Sofia a princípio abriu os olhos, umas duas vezes; depois, acostumou-se ao rumor, e deixou-os fechados, a ver se dormia. Passado algum tempo, ouviu passos na rua, e levantou a cabeça, supondo que era Carlos Maria que regressava; era um carteiro que lhe trazia uma carta da roça. Entregou-lha em mão. Ao sair do jardim, tropeçou o carteiro no pé de um banco e caiu de bruços, espalhando as cartas no chão. Sofia não pôde conter o riso.
 
-### Capítulo LIII
+### Capítulo — 53
 
 Perdoem-lhe esse riso. Bem sei que o desassossego, a noite mal passada, o terror da opinião, tudo contrasta com esse riso inoportuno. Mas, leitora amada, talvez a senhora nunca visse cair um carteiro. Os deuses de Homero, - e mais eram deuses, - debatiam uma vez no Olimpo, gravemente, e até furiosamente. A orgulhosa Juno, ciosa dos colóquios de Tétis e Júpiter em favor de Aquiles, interrompe o filho de Saturno. Júpiter troveja e ameaça; a esposa treme de cólera. Os outros gemem e suspiram. Mas quando Vulcano pega da urna de néctar, e vai coxeando servir a todos, rompe no Olimpo uma enorme gargalhada inextinguível. Por quê? Senhora minha, com certeza nunca viu cair um carteiro.
 
 Às vezes, nem é preciso que ele caia; outras vezes nem é sequer preciso que exista. Basta imaginá-lo ou recordá-lo. A sombra da sombra de uma lembrança grotesca projeta-se no meio da paixão mais aborrecível, e o sorriso vem às vezes à tona da cara, leve que seja, - um nada. Deixemo-la rir, e ler a sua carta da roça.
 
-### Capítulo LIV
+### Capítulo — 54
 
 Quinze dias depois, estando Rubião em casa, apareceu-lhe o marido de Sofia. Vinha perguntar-lhe o que era feito dele? onde se tinha metido que não aparecia? estivera doente? ou já não cuidava dos pobres? Rubião mastigava as palavras, sem acabar de compor uma frase única. No meio disto, Palha viu que havia na sala um homem mirando os quadros, e abafou a voz.
 
@@ -1143,13 +1143,13 @@ Rubião fez um gesto, Palha outro; mas quão diferentes! Rubião era para transp
 
 — Sabe que vou deixá-los?
 
-### Capítulo LV
+### Capítulo — 55
 
 Tudo esperava o outro, menos isto. Daí o espanto em que se dissolveu a cólera; daí também uma sombrinha de pesar, que é o que o leitor menos espera. Deixá-los? Naturalmente ia-se embora do Rio de Janeiro; era o castigo que a si mesmo impunha, pela ação ruim que praticara, em Santa Teresa; logo, vexara-se, arrependera-se. Não tinha cara de aparecer à esposa do amigo. Tal foi a primeira conclusão do Palha; mas vieram outras hipóteses. Por exemplo, a paixão podia persistir, e a saída dele era um modo de afastar-se da pessoa amada. Também podia acontecer que entrasse aí algum plano de casamento.
 
 A última hipótese trouxe à fisionomia do Palha um elemento novo, que não sei como chame. Desapontamento? Já o elegante Garrett não achava outro termo para tais sensações, e nem por ser inglês o desprezava. Vá desapontamento. Misturem-lhe o pesar da separação, não esqueçam a cólera que o primeiro trovejou surdamente, e não faltará quem ache que a alma deste homem é uma colcha de retalhos. Pode ser; moralmente as colchas inteiriças são tão raras! O principal é que as cores se não desmintam umas às outras, - quando não possam obedecer à simetria e regularidade. Era o caso do nosso homem. Tinha o aspecto baralhado à primeira vista; mas atentando bem, por mais opostos que fossem os matizes, lá se achava a unidade moral da pessoa.
 
-### Capítulo LVI
+### Capítulo — 56
 
 Mas, por que é que Rubião ia deixá-los? Que razão? Que negócio?
 
@@ -1169,21 +1169,21 @@ Camacho, voltando da janela, sentou-se na cadeira em que estivera antes.
 
 Palha não ficou menos admirado das palavras deste que das do outro. Donde surgira semelhante homem com ar de dominar o Rubião? Olhou para ele; era pessoa de estatura média, rosto estreito, pouca barba, queixo comprido, orelhas de pavilhão largo e aberto. Foi tudo o que pôde observar rapidamente. Viu também que a roupa era fina, sem luxo, e que os pés não estavam mal calçados. Não examinou os olhos, nem o sorriso, nem as maneiras; não chegou a reparar no princípio de calva, nem nas mãos magras e cabeludas.
 
-### Capítulo LVII
+### Capítulo — 57
 
-Camacho era homem político. Formado em direito em 1844, pela Faculdade do Recife, voltara para a província natal, onde começou a advogar; mas a advocacia era um pretexto. Já na academia, escrevera um jornal político, sem partido definido, mas com muitas ideias colhidas aqui e ali, e expostas em estilo meio magro e meio inchado. Pessoa que recolheu esses primeiros frutos de Camacho fez um índice dos seus princípios e aspirações: - ordem pela liberdade, liberdade pela ordem; - a autoridade não pode abusar da lei, sem esbofetear-se a si própria; - a vida dos princípios é a necessidade moral das nações novas como das nações velhas; - dai-me boa política, dar-vos-ei boas finanças (Barão Louis); 49 - mergulhemos no Jordão constitucional; 50 - dai passagem aos valentes, homens do poder; eles serão os vossos sustentáculos, etc., etc.
+Camacho era homem político. Formado em direito em 1844, pela Faculdade do Recife, voltara para a província natal, onde começou a advogar; mas a advocacia era um pretexto. Já na academia, escrevera um jornal político, sem partido definido, mas com muitas ideias colhidas aqui e ali, e expostas em estilo meio magro e meio inchado. Pessoa que recolheu esses primeiros frutos de Camacho fez um índice dos seus princípios e aspirações: - ordem pela liberdade, liberdade pela ordem; - a autoridade não pode abusar da lei, sem esbofetear-se a si própria; - a vida dos princípios é a necessidade moral das nações novas como das nações velhas; - dai-me boa política, dar-vos-ei boas finanças (Barão Louis); - mergulhemos no Jordão constitucional; - dai passagem aos valentes, homens do poder; eles serão os vossos sustentáculos, etc., etc.
 
-Na província natal, essa ordem de ideias teve de ceder a outras; e o mesmo se pode dizer do estilo. Fundou ali um jornal; mas, sendo a política local menos abstrata, Camacho aparou as asas e desceu às nomeações de delegados, às obras provinciais, às gratificações, à luta com a folha adversa, e aos nomes próprios e impróprios. A adjetivação exigiu grande apuro. Nefasto, esbanjador, vergonhoso, perverso, foram os termos obrigados, enquanto atacou o governo; mas, logo que, por uma mudança de presidente, 51 passou a defendê-lo, as qualificações mudaram também: enérgico, ilustrado, justiceiro, fiel aos princípios, verdadeira glória da administração, etc., etc. Esse tiroteio durou três anos. No fim deles, a paixão política dominava a alma do jovem bacharel.
+Na província natal, essa ordem de ideias teve de ceder a outras; e o mesmo se pode dizer do estilo. Fundou ali um jornal; mas, sendo a política local menos abstrata, Camacho aparou as asas e desceu às nomeações de delegados, às obras provinciais, às gratificações, à luta com a folha adversa, e aos nomes próprios e impróprios. A adjetivação exigiu grande apuro. Nefasto, esbanjador, vergonhoso, perverso, foram os termos obrigados, enquanto atacou o governo; mas, logo que, por uma mudança de presidente, passou a defendê-lo, as qualificações mudaram também: enérgico, ilustrado, justiceiro, fiel aos princípios, verdadeira glória da administração, etc., etc. Esse tiroteio durou três anos. No fim deles, a paixão política dominava a alma do jovem bacharel.
 
-Membro da assembleia provincial, logo depois da câmara dos deputados, presidente de uma província de segunda ordem, onde, por natural mudança do destino, leu nas folhas da oposição todos os nomes que escrevera outrora, nefasto, esbanjador, vergonhoso, perverso, Camacho teve dias grandes e pequenos, andou fora e dentro da câmara, orou, escreveu, lutou constantemente. Acabou por vir morar na capital do Império. Deputado da conciliação dos partidos, viu governar o marquês de Paraná, e instou por algumas nomeações em que foi atendido; 52 mas, se é certo que o marquês lhe pedia conselhos, e usava confiar-lhe os planos que trazia, ninguém podia afirmá-lo, porque ele, em se tratando da própria consideração, mentia sem dificuldade.
+Membro da assembleia provincial, logo depois da câmara dos deputados, presidente de uma província de segunda ordem, onde, por natural mudança do destino, leu nas folhas da oposição todos os nomes que escrevera outrora, nefasto, esbanjador, vergonhoso, perverso, Camacho teve dias grandes e pequenos, andou fora e dentro da câmara, orou, escreveu, lutou constantemente. Acabou por vir morar na capital do Império. Deputado da conciliação dos partidos, viu governar o marquês de Paraná, e instou por algumas nomeações em que foi atendido; mas, se é certo que o marquês lhe pedia conselhos, e usava confiar-lhe os planos que trazia, ninguém podia afirmá-lo, porque ele, em se tratando da própria consideração, mentia sem dificuldade.
 
-O que se pode crer é que queria ser ministro, e trabalhou por obtê-lo. Agregou-se a vários grupos, segundo lhe parecia acertado; na câmara discorria largamente sobre matérias de administração, acumulava algarismos, artigos de legislação, pedaços de relatório, trechos de autores franceses, embora mal traduzidos. Mas, entre a espiga e a mão, está o muro de que fala o poeta; 53 e por mais que o nosso homem estendesse a mão do seu desejo para colhê-la, a espiga lá ficava do lado oposto, donde a arrancavam outras mãos, mais ou menos sôfregas, ou até descuidadas.
+O que se pode crer é que queria ser ministro, e trabalhou por obtê-lo. Agregou-se a vários grupos, segundo lhe parecia acertado; na câmara discorria largamente sobre matérias de administração, acumulava algarismos, artigos de legislação, pedaços de relatório, trechos de autores franceses, embora mal traduzidos. Mas, entre a espiga e a mão, está o muro de que fala o poeta; e por mais que o nosso homem estendesse a mão do seu desejo para colhê-la, a espiga lá ficava do lado oposto, donde a arrancavam outras mãos, mais ou menos sôfregas, ou até descuidadas.
 
 Há solteirões na política. Camacho ia entrando nessa categoria melancólica, em que todos os sonhos nupciais se evaporam com o tempo; mas não tinha a superioridade de abandoná-la. Ninguém que organizasse um gabinete se atrevia, ainda que o desejasse, a dar-lhe uma pasta. Camacho ia-se sentindo cair; para simular influência, tratava familiarmente os poderosos do dia, contava em voz alta as visitas aos ministros e a outras dignidades do Estado.
 
 Não lhe faltava que comer. A família era pequena; mulher, uma filha, que ia nos dezoito anos, um afilhado de nove, e para isso dava a advocacia. Mas trazia a política no sangue; não lia, não cuidava em outra coisa. De literatura, ciências naturais, história, filosofia, artes, não se preocupava absolutamente nada. Também não conhecia grandes coisas de direito; guardava algum do que lhe dera a academia, mais a legislação posterior e práticas forenses. Com isso ia arrazoando e ganhando.
 
-### Capítulo LVIII
+### Capítulo — 58
 
 Dias antes, indo passar a noite em casa de um conselheiro, viu ali Rubião. Falava-se da chamada dos conservadores ao poder, e da dissolução da Câmara. Rubião assistira à sessão em que o Ministério Itaboraí pediu os orçamentos. Tremia ainda ao contar as suas impressões, descrevia a câmara, tribunas, galerias cheias que não cabia um alfinete, o discurso de José Bonifácio, a moção, a votação... Toda essa narrativa nascia de uma alma simples; era claro. A desordem dos gestos, o calor da palavra tinham a eloquência da sinceridade. Camacho escutava-o atento. Teve modo de o levar a um canto da janela, e fazer-lhe considerações graves sobre a situação. Rubião opinava de cabeça, ou por palavras soltas e aprobatórias.
 
@@ -1203,7 +1203,7 @@ No dia seguinte, almoçaram no Hotel de la Bourse, a convite de Camacho. Este re
 
 Rubião ouvia tudo, quase sem tirar os olhos do outro, comendo rapidamente, nos intervalos em que o próprio Camacho inclinava a cabeça ao prato. Folgava de ver-se confidente político; e, para dizer tudo, a ideia de entrar em luta para colher alguma coisa depois, um lugar na câmara, por exemplo, espanejou as asas de ouro no cérebro do nosso amigo. Camacho não lhe disse mais nada; procurou-o no dia seguinte, e não o achou. Agora, pouco depois de entrar, vinha o Palha interrompê-los.
 
-### Capítulo LIX
+### Capítulo — 59
 
 — Sim, mas eu preciso ir a Minas, teimou Rubião.
 
@@ -1241,7 +1241,7 @@ Camacho despediu-se. Palha ficou ainda alguns instantes, para dizer-lhe que seri
 
 Rubião gostou da facécia. Palha saiu e ele foi acompanhá-lo até a esquina da rua Marquês de Abrantes. Ao despedir-se prometeu visitá-lo em Santa Teresa, antes de ir a Minas.
 
-### Capítulo LX
+### Capítulo — 60
 
 Pobre Minas! Rubião voltou para casa, sozinho, a passo lento, pensando no modo de lá não ir agora. E as palavras dos dois andavam-lhe no cérebro, como peixinhos de ouro em globo de vidro, abaixo, acima, rutilantes: " aqui é que se deve esmagar a cabeça da cobra;" - " Sofia é companheira para estas viagens." Pobre Minas!
 
@@ -1269,7 +1269,7 @@ Com efeito, a mão do nosso amigo tinha sangue, um ferimento na palma, coisa peq
 
 ## Capítulo 61
 
-### Capítulo LXI
+### Capítulo — 61
 
 — Que é que tem aí na mão? inquiriu Camacho, logo que Rubião entrou no escritório.
 

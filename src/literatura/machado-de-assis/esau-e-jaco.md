@@ -13,15 +13,13 @@ A razão desta designação especial não se compreendeu então nem depois. Sim,
 
 A hipótese de que o desejo do finado fosse imprimir este caderno em seguida aos outros, não é natural, salvo se queria obrigar a leitura dos seis, em que tratava de si, antes que lhe conhecessem esta outra história, escrita com um pensamento interior e único, através das páginas diversas. Nesse caso, era a vaidade do homem que falava, mas a vaidade não fazia parte dos seus defeitos. Quando fizesse, valia a pena satisfazê-la? Ele não representou papel eminente neste mundo; percorreu a carreira diplomática, e aposentou-se. Nos lazeres do ofício, escreveu o Memorial, que, aparado das páginas mortas ou escuras, apenas daria (e talvez dê) para matar o tempo da barca de Petrópolis.
 
-Tal foi a razão de se publicar somente a narrativa. Quanto ao título, foram lembrados vários, em que o assunto se pudesse resumir, Ab ovo, 1 por exemplo, apesar do latim; venceu, porém, a ideia de lhe dar estes dois nomes que o próprio Aires citou uma vez:
+Tal foi a razão de se publicar somente a narrativa. Quanto ao título, foram lembrados vários, em que o assunto se pudesse resumir, Ab ovo, por exemplo, apesar do latim; venceu, porém, a ideia de lhe dar estes dois nomes que o próprio Aires citou uma vez:
 
 esaú e jacó
 
-## Capítulos 1 a 10
+## Capítulos 001 — 010
 
-### Capítulo I
-
-Coisas futuras!
+### 001 — Coisas Futuras!
 
 Era a primeira vez que as duas iam ao morro do Castelo. Começaram de subir pelo lado da rua do Carmo. Muita gente há no Rio de Janeiro que nunca lá foi, muita haverá morrido, muita mais nascerá e morrerá sem lá pôr os pés. Nem todos podem dizer que conhecem uma cidade inteira. Um velho inglês, que aliás andara terras e terras, confiava-me há muitos anos em Londres que de Londres só conhecia bem o seu club, e era o que lhe bastava da metrópole e do mundo.
 
@@ -39,7 +37,7 @@ Velho caboclo, pai da adivinha, conduziu as senhoras à sala. Esta era simples, 
 
 — Minha filha já vem, disse o velho. As senhoras como se chamam?
 
-Natividade deu o nome de batismo somente, Maria, como um véu mais espesso que o que trazia no rosto, e recebeu um cartão - porque a consulta era só de uma - com o número 1012. Não há que pasmar do algarismo; a freguesia era numerosa, e vinha de muitos meses. Também não há que dizer do costume, que é velho e velhíssimo. Relê Ésquilo, meu amigo, relê as Eumênides, lá verás a Pítia, 3 chamando os que iam à consulta: "Se há aqui Helenos, venham, aproximem-se, segundo o uso, na ordem marcada pela sorte..." A sorte outrora, a numeração agora, tudo é que a verdade se ajuste à prioridade, e ninguém perca a sua vez de audiência. Natividade guardou o bilhete, e ambas foram à janela.
+Natividade deu o nome de batismo somente, Maria, como um véu mais espesso que o que trazia no rosto, e recebeu um cartão - porque a consulta era só de uma - com o número 1012. Não há que pasmar do algarismo; a freguesia era numerosa, e vinha de muitos meses. Também não há que dizer do costume, que é velho e velhíssimo. Relê Ésquilo, meu amigo, relê as Eumênides, lá verás a Pítia, chamando os que iam à consulta: "Se há aqui Helenos, venham, aproximem-se, segundo o uso, na ordem marcada pela sorte..." A sorte outrora, a numeração agora, tudo é que a verdade se ajuste à prioridade, e ninguém perca a sua vez de audiência. Natividade guardou o bilhete, e ambas foram à janela.
 
 A falar verdade, temiam o seu tanto, Perpétua menos que Natividade. A aventura parecia audaz, e algum perigo possível. Não ponho aqui os seus gestos; imaginai que eram inquietos e desconcertados. Nenhuma dizia nada. Natividade confessou depois que tinha um nó na garganta. Felizmente, a cabocla não se demorou muito; ao cabo de três ou quatro minutos, o pai a trouxe pela mão, erguendo a cortina do fundo.
 
@@ -123,19 +121,15 @@ Muito hei de gostá,
 
 Lelê, cocô, naiá.
 
-### Capítulo II
+### 002 — Melhor de Descer que de Subir
 
-Melhor de descer que de subir 4
-
-Todos os oráculos têm o falar dobrado, mas entendem-se. Natividade acabou entendendo a cabocla, apesar de lhe não ouvir mais nada; bastou saber que as coisas futuras seriam bonitas, e os filhos grandes e gloriosos para ficar alegre e tirar da bolsa uma nota de cinquenta mil-réis. Era cinco vezes o preço do costume, e valia tanto ou mais que as ricas dádivas de Creso 5 à Pítia. Arrecadou os retratos e os cabelos, e as duas saíram, enquanto a cabocla ia para os fundos, à espera de outros. Já havia alguns fregueses à porta, com os números de ordem, e elas desceram rapidamente, escondendo a cara.
+Todos os oráculos têm o falar dobrado, mas entendem-se. Natividade acabou entendendo a cabocla, apesar de lhe não ouvir mais nada; bastou saber que as coisas futuras seriam bonitas, e os filhos grandes e gloriosos para ficar alegre e tirar da bolsa uma nota de cinquenta mil-réis. Era cinco vezes o preço do costume, e valia tanto ou mais que as ricas dádivas de Creso à Pítia. Arrecadou os retratos e os cabelos, e as duas saíram, enquanto a cabocla ia para os fundos, à espera de outros. Já havia alguns fregueses à porta, com os números de ordem, e elas desceram rapidamente, escondendo a cara.
 
 Perpétua compartia as alegrias da irmã, as pedras também, o muro do lado do mar, as camisas penduradas às janelas, as cascas de banana no chão. Os mesmos sapatos de um irmão das almas, que ia a dobrar a esquina da rua da Misericórdia para a de S. José, pareciam rir de alegria, quando realmente gemiam de cansaço. Natividade estava tão fora de si que, ao ouvir-lhe pedir: "Para a missa das almas!" tirou da bolsa uma nota de dois mil-réis, nova em folha, e deitou-a à bacia. A irmã chamou-lhe a atenção para o engano, mas não era engano, era para as almas do purgatório.
 
-E seguiram lépidas para o coupé, 6 que as esperava no espaço que fica entre a igreja de S. José e a câmara dos deputados. Não tinham querido que o carro as levasse até ao princípio da ladeira, para que o cocheiro e o lacaio não desconfiassem da consulta. Toda a gente falava então da cabocla do Castelo, era o assunto da cidade; atribuíam-lhe um poder infinito, uma série de milagres, sortes, achados, casamentos. Se as descobrissem, estavam perdidas, embora muita gente boa lá fosse. Ao vê-las dando a esmola ao irmão das almas, o lacaio trepou à almofada e o cocheiro tocou os cavalos, a carruagem veio buscá-las, e guiou para Botafogo.
+E seguiram lépidas para o coupé, que as esperava no espaço que fica entre a igreja de S. José e a câmara dos deputados. Não tinham querido que o carro as levasse até ao princípio da ladeira, para que o cocheiro e o lacaio não desconfiassem da consulta. Toda a gente falava então da cabocla do Castelo, era o assunto da cidade; atribuíam-lhe um poder infinito, uma série de milagres, sortes, achados, casamentos. Se as descobrissem, estavam perdidas, embora muita gente boa lá fosse. Ao vê-las dando a esmola ao irmão das almas, o lacaio trepou à almofada e o cocheiro tocou os cavalos, a carruagem veio buscá-las, e guiou para Botafogo.
 
-### Capítulo III
-
-A esmola da felicidade
+### 003 — A Esmola da Felicidade
 
 — Deus lhe acrescente, minha senhora devota! exclamou o irmão das almas ao ver a nota cair em cima de dois níqueis de tostão e alguns vinténs antigos. Deus lhe dê todas as felicidades do céu e da terra, e as almas do purgatório peçam a Maria Santíssima que recomende a senhora dona a seu bendito filho!
 
@@ -157,9 +151,7 @@ Se minto, não é de intenção. Em verdade, as palavras não saíram assim arti
 
 — Deus lhe acrescente, meu senhor, e lhe dê...
 
-### Capítulo IV
-
-A missa do coupé
+### 004 — A Missa do Coupé
 
 Natividade ia pensando na cabocla do Castelo, na predição da grandeza e na notícia da briga. Tornava a lembrar-se que, de fato, a gestação não fora sossegada; mas só lhe ficava a sorte da glória e da grandeza. A briga lá ia, se a houve; o futuro, sim, esse é que era o principal ou tudo. Não deu pela praia de Santa Luzia. No largo da Lapa interrogou a irmã sobre o que pensava da adivinha. Perpétua respondeu que bem, que acreditava, e ambas concordaram que ela parecia falar dos próprios filhos, tal era o entusiasmo. Perpétua ainda a repreendeu pelos cinquenta mil réis dados em paga; bastavam vinte.
 
@@ -179,7 +171,7 @@ Não se sabendo quem mandava dizer a missa, ninguém lá foi. A igreja escolhida
 
 A gente local não falou de outra coisa naquele e nos dias seguintes. Sacristão e vizinhos relembravam o coupé, com orgulho. Era a missa do coupé. As outras missas vieram vindo, todas a pé, algumas de sapato roto, não raras descalças, capinhas velhas, morins estragados, missas de chita, ao domingo, missas de tamancos. Tudo voltou ao costume, mas a missa do coupé viveu na memória por muitos meses. Afinal não se falou mais nela; esqueceu como um baile.
 
-Pois o coupé era este mesmo. A missa foi mandada dizer por aquele senhor, cujo nome é Santos, e o defunto era seu parente, ainda que pobre. Também ele foi pobre; também ele nasceu em Maricá. Vindo para o Rio de Janeiro, por ocasião da febre das ações (1855), 11 dizem que revelou grandes qualidades para ganhar dinheiro depressa. Ganhou logo muito, e fê-lo perder a outros. Casou em 1859 com esta Natividade, que ia então nos vinte anos e não tinha dinheiro, mas era bela e amava apaixonadamente. A Fortuna os abençoou com a riqueza. Anos depois tinham eles uma casa nobre, carruagem, cavalos e relações novas e distintas. Dos dois parentes pobres de Natividade morreu o pai em 1866; restava-lhe uma irmã. Santos tinha alguns em Maricá, a quem nunca mandou dinheiro, fosse mesquinhez, fosse habilidade. Mesquinhez não creio; ele gastava largo e dava muitas esmolas. Habilidade seria; tirava-lhes o gosto de vir cá pedir-lhe mais.
+Pois o coupé era este mesmo. A missa foi mandada dizer por aquele senhor, cujo nome é Santos, e o defunto era seu parente, ainda que pobre. Também ele foi pobre; também ele nasceu em Maricá. Vindo para o Rio de Janeiro, por ocasião da febre das ações (1855), dizem que revelou grandes qualidades para ganhar dinheiro depressa. Ganhou logo muito, e fê-lo perder a outros. Casou em 1859 com esta Natividade, que ia então nos vinte anos e não tinha dinheiro, mas era bela e amava apaixonadamente. A Fortuna os abençoou com a riqueza. Anos depois tinham eles uma casa nobre, carruagem, cavalos e relações novas e distintas. Dos dois parentes pobres de Natividade morreu o pai em 1866; restava-lhe uma irmã. Santos tinha alguns em Maricá, a quem nunca mandou dinheiro, fosse mesquinhez, fosse habilidade. Mesquinhez não creio; ele gastava largo e dava muitas esmolas. Habilidade seria; tirava-lhes o gosto de vir cá pedir-lhe mais.
 
 Não lhe valeu isto com João de Melo, que um dia apareceu aqui, a pedir-lhe emprego. Queria ser, como ele, diretor de banco. Santos arranjou-lhe depressa um lugar de escrivão do cível em Maricá, e despachou-o com os melhores conselhos deste mundo.
 
@@ -189,17 +181,13 @@ Em vez disso, uma escrivania e Maricá; era um abismo. Caiu nele; três dias dep
 
 Que o motivo da pratinha de Natividade deitada à caixa das almas fosse pagar a adoração do defunto não digo que sim, nem que não; faltam-me pormenores. Mas pode ser que sim, porque esta senhora era não menos grata que honesta. Quanto às larguezas do marido, não esqueças que o parente era defunto, e o defunto um parente menos.
 
-### Capítulo V
-
-Há contradições explicáveis
+### 005 — Há Contradições Explicáveis
 
 Não me peças a causa de tanto encolhimento no anúncio e na missa, e tanta publicidade na carruagem, lacaio e libré. Há contradições explicáveis. Um bom autor, que inventasse a sua história, ou prezasse a lógica aparente dos acontecimentos, levaria o casal Santos a pé ou em caleça de praça ou de aluguel; mas eu, amigo, eu sei como as coisas se passaram, e refiro-as tais quais. Quando muito, explico-as, com a condição de que tal costume não pegue. Explicações comem tempo e papel, demoram a ação e acabam por enfadar. O melhor é ler com atenção.
 
 Quanto à contradição de que se trata aqui, é de ver que naquele recanto de um larguinho modesto, nenhum conhecido daria com eles, ao passo que eles gozariam o assombro local; tal foi a reflexão de Santos, se se pode dar semelhante nome a um movimento interior que leva a gente a fazer antes uma coisa que outra. Resta a missa; a missa em si mesma bastava que fosse sabida no céu e em Maricá. Propriamente vestiram-se para o céu. O luxo do casal temperava a pobreza da oração; era uma espécie de homenagem ao finado. Se a alma de João de Melo os visse de cima, alegrar-se-ia do apuro em que eles foram rezar por um pobre escrivão. Não sou eu que o digo; Santos é que o pensou.
 
-### Capítulo VI
-
-Maternidade
+### 006 — Maternidade
 
 A princípio, vieram calados. Quando muito, Natividade queixou-se da igreja, que lhe sujara o vestido.
 
@@ -209,21 +197,19 @@ Santos trocou as mãos à conversa, e falou das ruas mal calçadas, que faziam d
 
 Natividade não replicou, mergulhou no silêncio, como naquele outro capítulo, vinte meses depois, quando tornava do Castelo com a irmã. Os olhos não tinham a nota de deslumbramento que trariam então; iam parados e sombrios, como de manhã e na véspera. Santos, que já reparara nisso, perguntou-lhe o que é que tinha; ela não sei se lhe respondeu de palavra; se alguma disse, foi tão breve e surda que inteiramente se perdeu. Talvez não passasse de um simples gesto de olhos, um suspiro, ou coisa assim. Fosse o que fosse, quando o coupé chegou ao meio do Catete, os dois levavam as mãos presas, e a expressão do rosto era de abençoados. Não davam sequer pela gente das ruas; não davam talvez por si mesmos.
 
-Leitor, não é muito que percebas a causa daquela expressão e desses dedos abotoados. Já lá ficou dita atrás, quando era melhor deixar que a adivinhasses; mas provavelmente não a adivinharias, não que tenhas o entendimento curto ou escuro, mas porque o homem varia do homem, e tu talvez ficasses com igual expressão, simplesmente por saber que ias dançar sábado. Santos não dançava; preferia o voltarete, 12 como distração. A causa era virtuosa, como sabes; Natividade estava grávida, acabava de o dizer ao marido.
+Leitor, não é muito que percebas a causa daquela expressão e desses dedos abotoados. Já lá ficou dita atrás, quando era melhor deixar que a adivinhasses; mas provavelmente não a adivinharias, não que tenhas o entendimento curto ou escuro, mas porque o homem varia do homem, e tu talvez ficasses com igual expressão, simplesmente por saber que ias dançar sábado. Santos não dançava; preferia o voltarete, como distração. A causa era virtuosa, como sabes; Natividade estava grávida, acabava de o dizer ao marido.
 
-Aos trinta anos não era cedo nem tarde; era imprevisto. Santos sentiu mais que ela o prazer da vida nova. Eis aí vinha a realidade do sonho de dez anos, uma criatura tirada da coxa de Abraão, 13 como diziam aqueles bons judeus, que a gente queimou mais tarde, e agora emprestam generosamente o seu dinheiro às companhias e às nações. Levam juro por ele; mas os hebraísmos são dados de graça. Aquele é desses. Santos, que só conhecia a parte do empréstimo, sentia inconscientemente a do hebraísmo, e deleitava-se com ele. A emoção atava-lhe a língua; os olhos que estendia à esposa e a cobriam eram de patriarca; o sorriso parecia chover luz sobre a pessoa amada, abençoada e formosa entre as formosas.
+Aos trinta anos não era cedo nem tarde; era imprevisto. Santos sentiu mais que ela o prazer da vida nova. Eis aí vinha a realidade do sonho de dez anos, uma criatura tirada da coxa de Abraão, como diziam aqueles bons judeus, que a gente queimou mais tarde, e agora emprestam generosamente o seu dinheiro às companhias e às nações. Levam juro por ele; mas os hebraísmos são dados de graça. Aquele é desses. Santos, que só conhecia a parte do empréstimo, sentia inconscientemente a do hebraísmo, e deleitava-se com ele. A emoção atava-lhe a língua; os olhos que estendia à esposa e a cobriam eram de patriarca; o sorriso parecia chover luz sobre a pessoa amada, abençoada e formosa entre as formosas.
 
 Natividade não foi logo, logo, assim; a pouco e pouco é que veio sendo vencida e tinha já a expressão da esperança e da maternidade. Nos primeiros dias, os sintomas desconcertaram a nossa amiga. É duro dizê-lo, mas é verdade. Lá se iam bailes e festas, lá ia a liberdade e a folga. Natividade andava já na alta roda do tempo; acabou de entrar por ela, com tal arte que parecia haver ali nascido. Carteava-se com grandes damas, era familiar de muitas, tuteava algumas. Nem tinha só esta casa de Botafogo, mas também outra em Petrópolis; nem só carro, mas também camarote no Teatro Lírico, não contando os bailes do Cassino Fluminense, os das amigas e os seus; todo o repertório, em suma, da vida elegante. Era nomeada nas gazetas, pertencia àquela dúzia de nomes planetários que figuram no meio da plebe de estrelas. O marido era capitalista e diretor de um banco.
 
 No meio disso, a que vinha agora uma criança deformá-la por meses, obrigá-la a recolher-se, pedir-lhe as noites, adoecer dos dentes e o resto? Tal foi a primeira sensação da mãe, e o primeiro ímpeto foi esmagar o gérmen. Criou raiva ao marido. A segunda sensação foi melhor. A maternidade, chegando ao meio-dia, era como uma aurora nova e fresca. Natividade viu a figura do filho ou filha brincando na relva da chácara ou no regaço da aia, com três anos de idade, e este quadro daria aos trinta e quatro anos que teria então um aspecto de vinte e poucos...
 
-Foi o que a reconciliou com o marido. Não exagero; também não quero mal a esta senhora. Algumas teriam medo, a maior parte amor. A conclusão é que, por uma ou por outra porta, amor ou vaidade, o que o embrião quer é entrar na vida. César ou João Fernandes, 14 tudo é viver, assegurar a dinastia e sair do mundo o mais tarde que puder.
+Foi o que a reconciliou com o marido. Não exagero; também não quero mal a esta senhora. Algumas teriam medo, a maior parte amor. A conclusão é que, por uma ou por outra porta, amor ou vaidade, o que o embrião quer é entrar na vida. César ou João Fernandes, tudo é viver, assegurar a dinastia e sair do mundo o mais tarde que puder.
 
 O casal ia calado. Ao desembocar na praia de Botafogo, a enseada trouxe o gosto de costume. A casa descobria-se a distância, magnífica; Santos deleitou-se de a ver, mirou-se nela, cresceu com ela, subiu por ela. A estatueta de Narciso no meio do jardim sorriu à entrada deles, a areia fez-se relva, duas andorinhas cruzaram por cima do repuxo, figurando no ar a alegria de ambos. A mesma cerimônia à descida. Santos ainda parou alguns instantes para ver o coupé dar a volta, sair e tornar à cocheira; depois seguiu a mulher que entrava no saguão.
 
-### Capítulo VII
-
-Gestação
+### 007 — Gestação
 
 Em cima, esperava por eles Perpétua, aquela irmã de Natividade, que a acompanhou ao Castelo, e lá ficou no carro, onde as deixei para narrar os antecedentes dos meninos.
 
@@ -259,13 +245,11 @@ A perfeição seria nascer um casal. Assim os desejos do pai e da mãe ficariam 
 
 As duas riram da graça, e assim se fechou uma vez o capítulo da adivinha, para se abrir mais tarde. Por agora é deixar que o feto se desenvolva, a criança se agite e se atire, como impaciente de nascer. Em verdade, a mãe padeceu muito durante a gestação, e principalmente nas últimas semanas. Cuidava trazer um general que iniciava a campanha da vida, a não ser um casal que aprendia a desamar de véspera.
 
-### Capítulo VIII
-
-Nem casal, nem general
+### 008 — Nem Casal, nem General
 
 Nem casal, nem general. No dia 7 de abril de 1870 veio à luz um par de varões tão iguais, que antes pareciam a sombra um do outro, se não era simplesmente a impressão do olho, que via dobrado.
 
-Tudo esperavam, menos os dois gêmeos, e nem por ser o espanto grande, foi menor o amor. Entende-se isto sem ser preciso insistir, assim como se entende que a mãe desse aos dois filhos aquele pão inteiro e dividido do poeta; 15 eu acrescento que o pai fazia a mesma coisa. Viveu os primeiros tempos a contemplar os meninos, a compará-los, a medi-los, a pesá-los. Tinham o mesmo peso e cresciam por igual medida. A mudança ia-se fazendo por um só teor. O rosto comprido, cabelos castanhos, dedos finos e tais que, cruzados os da mão direita de um com os da esquerda de outro, não se podia saber que eram de duas pessoas. Viriam a ter gênio diferente, mas por ora eram os mesmos estranhões. Começaram a sorrir no mesmo dia. O mesmo dia os viu batizar.
+Tudo esperavam, menos os dois gêmeos, e nem por ser o espanto grande, foi menor o amor. Entende-se isto sem ser preciso insistir, assim como se entende que a mãe desse aos dois filhos aquele pão inteiro e dividido do poeta; eu acrescento que o pai fazia a mesma coisa. Viveu os primeiros tempos a contemplar os meninos, a compará-los, a medi-los, a pesá-los. Tinham o mesmo peso e cresciam por igual medida. A mudança ia-se fazendo por um só teor. O rosto comprido, cabelos castanhos, dedos finos e tais que, cruzados os da mão direita de um com os da esquerda de outro, não se podia saber que eram de duas pessoas. Viriam a ter gênio diferente, mas por ora eram os mesmos estranhões. Começaram a sorrir no mesmo dia. O mesmo dia os viu batizar.
 
 Antes do parto, tinham combinado em dar o nome do pai ou da mãe, segundo fosse o sexo da criança. Sendo um par de rapazes, e não havendo a forma masculina do nome materno, não quis o pai que figurasse só o dele, e meteram-se a catar outros. A mãe propunha franceses ou ingleses, conforme os romances que lia. Algumas novelas russas em moda sugeriram nomes eslavos. O pai aceitava uns e outros, mas consultava a terceiros, e não acertava com opinião definitiva. Geralmente, os consultados trariam outro nome, que não era aceito em casa. Também veio a antiga onomástica lusitana, mas sem melhor fortuna. Um dia, estando Perpétua à missa, rezou o Credo, advertiu nas palavras: "... os santos apóstolos S. Pedro e S. Paulo", e mal pôde acabar a oração. Tinha descoberto os nomes; eram simples e gêmeos. Os pais concordaram com ela e a pendência acabou.
 
@@ -287,7 +271,7 @@ Uma das amas, parece que a de Pedro, sabendo daquelas ânsias e conversas, pergu
 
 A outra ama confirmou as notícias e acrescentou novas. Conhecia pessoas que tinham perdido e achado joias e escravos. A polícia mesma, quando não acabava de apanhar um criminoso, ia ao Castelo falar à cabocla e descia sabendo; por isso é que não a botava para fora, como os invejosos andavam a pedir. Muita gente não embarcava sem subir primeiro ao morro. A cabocla explicava sonhos e pensamentos, curava de quebranto...
 
-Ao jantar, Natividade repetiu ao marido a lembrança das amas. Santos encolheu os ombros. Depois examinou rindo a sabedoria da cabocla; principalmente a sorte grande era incrível que, conhecendo o número, não comprasse bilhete. Natividade achou que era o mais difícil de explicar, mas podia ser invenção do povo. On ne prête qu'aux riches, 17 acrescentou rindo. O marido, que estivera na véspera com um desembargador, repetiu as palavras dele que "enquanto a polícia não pusesse cobro ao escândalo..." O desembargador não concluíra. Santos concluiu com um gesto vago.
+Ao jantar, Natividade repetiu ao marido a lembrança das amas. Santos encolheu os ombros. Depois examinou rindo a sabedoria da cabocla; principalmente a sorte grande era incrível que, conhecendo o número, não comprasse bilhete. Natividade achou que era o mais difícil de explicar, mas podia ser invenção do povo. On ne prête qu'aux riches, acrescentou rindo. O marido, que estivera na véspera com um desembargador, repetiu as palavras dele que "enquanto a polícia não pusesse cobro ao escândalo..." O desembargador não concluíra. Santos concluiu com um gesto vago.
 
 — Mas você é espírita, ponderou a mulher.
 
@@ -299,19 +283,15 @@ Ao serão, a matéria da palestra foi a cabocla do Castelo, por iniciativa de Sa
 
 No dia aprazado meteram-se as duas no carro, entre sete e oito horas, com pretexto de passeio, e lá se foram para a rua da Misericórdia. Sabes já que ali se apearam, entre a igreja de S. José e a Câmara dos deputados, e subiram aquela até à rua do Carmo, onde esta pega com a ladeira do Castelo. Indo a subir, hesitaram, mas a mãe era mãe, e já agora faltava pouco para ouvir o destino. Viste que subiram, que desceram, deram os dois mil-réis às almas, entraram no carro e voltaram para Botafogo.
 
-### Capítulo IX
+### 009 — Vista de Palácio
 
-Vista de palácio
+No Catete, o coupé e uma vitória cruzaram-se e pararam a um tempo. Um homem saltou da vitória e caminhou para o coupé. Era o marido de Natividade, que ia agora para o escritório, um pouco mais tarde que de costume, por haver esperado a volta da mulher. Ia pensando nela e nos negócios da praça, nos meninos e na lei Rio Branco, então discutida na Câmara dos deputados; o banco era credor da lavoura. Também pensava na cabocla do Castelo e no que teria dito à mulher...
 
-No Catete, o coupé e uma vitória 18 cruzaram-se e pararam a um tempo. Um homem saltou da vitória e caminhou para o coupé. Era o marido de Natividade, que ia agora para o escritório, um pouco mais tarde que de costume, por haver esperado a volta da mulher. Ia pensando nela e nos negócios da praça, nos meninos e na lei Rio Branco, 19 então discutida na Câmara dos deputados; o banco era credor da lavoura. Também pensava na cabocla do Castelo e no que teria dito à mulher...
-
-Ao passar pelo palácio Nova Friburgo, 20 levantou os olhos para ele com o desejo do costume, uma cobiça de possuí-lo, sem prever os altos destinos que o palácio viria a ter na República; mas quem então previa nada? Quem prevê coisa nenhuma? Para Santos a questão era só possuí-lo, dar ali grandes festas únicas, celebradas nas gazetas, narradas na cidade entre amigos e inimigos, cheios de admiração, de rancor ou de inveja. Não pensava nas saudades que as matronas futuras contariam às suas netas, menos ainda nos livros de crônicas, escritos e impressos neste outro século. Santos não tinha a imaginação da posteridade. Via o presente e suas maravilhas.
+Ao passar pelo palácio Nova Friburgo, levantou os olhos para ele com o desejo do costume, uma cobiça de possuí-lo, sem prever os altos destinos que o palácio viria a ter na República; mas quem então previa nada? Quem prevê coisa nenhuma? Para Santos a questão era só possuí-lo, dar ali grandes festas únicas, celebradas nas gazetas, narradas na cidade entre amigos e inimigos, cheios de admiração, de rancor ou de inveja. Não pensava nas saudades que as matronas futuras contariam às suas netas, menos ainda nos livros de crônicas, escritos e impressos neste outro século. Santos não tinha a imaginação da posteridade. Via o presente e suas maravilhas.
 
 Já lhe não bastava o que era. A casa de Botafogo, posto que bela, não era um palácio, e depois, não estava tão exposta como aqui no Catete, passagem obrigada de toda a gente, que olharia para as grandes janelas, as grandes portas, as grandes águias no alto, de asas abertas. Quem viesse pelo lado do mar, veria as costas do palácio, os jardins e os lagos... Oh! gozo infinito! Santos imaginava os bronzes, mármores, luzes, flores, danças, carruagens, músicas, ceias... Tudo isso foi pensado depressa, porque a vitória, embora não corresse (os cavalos tinham ordem de moderar a andadura), todavia, não atrasava as rodas para que os sonhos de Santos acabassem. Assim foi que, antes de chegar à praça da Glória, a vitória avistou o coupé da família, e as duas carruagens pararam, a curta distância uma da outra, como ficou dito.
 
-### Capítulo X
-
-O juramento
+### 010 — O Juramento
 
 Também ficou dito que o marido saiu da vitória e caminhou para o coupé, onde a mulher e a cunhada, adivinhando que ele vinha ter com elas, sorriam de antemão.
 
@@ -397,11 +377,9 @@ Natividade recordou os seus padecimentos do tempo da gestação, confessando que
 
 — Juro por Deus Nosso Senhor.
 
-## Capítulos 11 a 20
+## Capítulos 011 — 020
 
-### Capítulo XI
-
-Um caso único!
+### 011 — Um Caso Único!
 
 Santos cria na santidade do juramento; por isso, resistiu, mas enfim cedeu e jurou. Entretanto, o pensamento não lhe saiu mais da briga uterina dos filhos. Quis esquecê-la. Jogou essa noite, como de costume; na seguinte, foi ao teatro; na outra a uma visita; e tornou ao voltarete do costume, e a briga sempre com ele. Era um mistério. Talvez fosse um caso único... Único! Um caso único! A singularidade do caso fê-lo agarrar-se mais à ideia, ou a ideia a ele; não posso explicar melhor este fenômeno íntimo, passado lá onde não entra olho de homem, nem bastam reflexões ou conjecturas. Nem por isso durou muito tempo. No primeiro domingo, Santos pegou em si, e foi à casa do doutor Plácido, rua do Senador Vergueiro, uma casa baixa, de três janelas, com muito terreno para o lado do mar. Creio que já não existe: datava do tempo em que a rua era o Caminho Velho, para diferenciar do Caminho Novo.
 
@@ -411,15 +389,13 @@ Perdoa estas minúcias. A ação podia ir sem elas, mas eu quero que saibas que 
 
 — Não, não, não resisto, acudiu um homem de cerca de quarenta anos, estendendo a mão ao recém-chegado.
 
-### Capítulo XII
-
-Esse Aires
+### 012 — Esse Aires
 
 Esse Aires que aí aparece conserva ainda agora algumas das virtudes daquele tempo, e quase nenhum vício. Não atribuas tal estado a qualquer propósito. Nem creias que vai nisto um pouco de homenagem à modéstia da pessoa. Não, senhor, é verdade pura e natural efeito. Apesar dos quarenta anos, ou quarenta e dois, e talvez por isso mesmo, era um belo tipo de homem. Diplomata de carreira, chegara dias antes do Pacífico, com uma licença de seis meses.
 
 Não me demoro em descrevê-lo. Imagina só que trazia o calo do ofício, o sorriso aprovador, a fala branda e cautelosa, o ar da ocasião, a expressão adequada, tudo tão bem distribuído que era um gosto ouvi-lo e vê-lo. Talvez a pele da cara rapada estivesse prestes a mostrar os primeiros sinais do tempo. Ainda assim o bigode, que era moço na cor e no apuro com que acabava em ponta fina e rija, daria um ar de frescura ao rosto, quando o meio século chegasse. O mesmo faria o cabelo, vagamente grisalho, apartado ao centro. No alto da cabeça havia um início de calva. Na botoeira uma flor eterna.
 
-Tempo houve - foi por ocasião da anterior licença, sendo ele apenas secretário de legação 22 -, tempo houve em que também ele gostou de Natividade. Não foi propriamente paixão; não era homem disso. Gostou dela, como de outras joias e raridades, mas tão depressa viu que não era aceito, trocou de conversação. Não era frouxidão ou frieza. Gostava assaz de mulheres e ainda mais se eram bonitas. A questão para ele é que nem as queria à força, nem curava de as persuadir. Não era general para escala à vista, nem para assédios demorados; contentava-se de simples passeios militares - longos ou breves, conforme o tempo fosse claro ou turvo. Em suma, extremamente cordato.
+Tempo houve - foi por ocasião da anterior licença, sendo ele apenas secretário de legação -, tempo houve em que também ele gostou de Natividade. Não foi propriamente paixão; não era homem disso. Gostou dela, como de outras joias e raridades, mas tão depressa viu que não era aceito, trocou de conversação. Não era frouxidão ou frieza. Gostava assaz de mulheres e ainda mais se eram bonitas. A questão para ele é que nem as queria à força, nem curava de as persuadir. Não era general para escala à vista, nem para assédios demorados; contentava-se de simples passeios militares - longos ou breves, conforme o tempo fosse claro ou turvo. Em suma, extremamente cordato.
 
 Coincidência interessante: foi por esse tempo que Santos pensou em casá-lo com a cunhada, recentemente viúva. Esta parece que queria. Natividade opôs-se, nunca se soube por quê. Não eram ciúmes; invejas não creio que fossem. O simples desejo de o não ver entrar na família pela porta lateral é apenas uma figura, que vale qualquer das primeiras hipóteses negadas. O desgosto de cedê-lo a outra, ou tê-los felizes ao pé de si, não podia ser, posto que o coração seja o abismo dos abismos. Suponhamos que era com o fim de o punir por havê-la amado.
 
@@ -435,15 +411,13 @@ Não cuides que não era sincero, era-o. Quando não acertava de ter a mesma opi
 
 "Noite em casa da família Santos, sem voltarete. Falou-se na cabocla do Castelo. Desconfio que Natividade ou a irmã quer consultá-la; não será decerto a meu respeito.
 
-"Natividade e um padre Guedes que lá estava, gordo e maduro, eram as únicas pessoas interessantes da noite. O resto insípido, mas insípido por necessidade, não podendo ser outra coisa mais que insípido. Quando o padre e Natividade me deixavam entregue à insipidez dos outros, eu tentava fugir-lhe pela memória, recordando sensações, revivendo quadros, viagens, pessoas. Foi assim que pensei na Capponi, 23 a quem vi hoje pelas costas, na rua da Quitanda. Conheci-a aqui no finado Hotel de D. Pedro, lá vão anos. Era dançarina; eu mesmo já a tinha visto dançar em Veneza. Pobre Capponi! Andando, o pé esquerdo saía-lhe do sapato e mostrava no calcanhar da meia um buraquinho de saudade.
+"Natividade e um padre Guedes que lá estava, gordo e maduro, eram as únicas pessoas interessantes da noite. O resto insípido, mas insípido por necessidade, não podendo ser outra coisa mais que insípido. Quando o padre e Natividade me deixavam entregue à insipidez dos outros, eu tentava fugir-lhe pela memória, recordando sensações, revivendo quadros, viagens, pessoas. Foi assim que pensei na Capponi, a quem vi hoje pelas costas, na rua da Quitanda. Conheci-a aqui no finado Hotel de D. Pedro, lá vão anos. Era dançarina; eu mesmo já a tinha visto dançar em Veneza. Pobre Capponi! Andando, o pé esquerdo saía-lhe do sapato e mostrava no calcanhar da meia um buraquinho de saudade.
 
 "Afinal tornei à eterna insipidez dos outros. Não acabo de crer como é que esta senhora, aliás tão fina, pode organizar noites como a de hoje. Não é que os outros não buscassem ser interessantes, e, se intenções valessem, nenhum livro os valeria; mas não o eram, por mais que tentassem. Enfim, lá vão; esperemos outras noites que tragam melhores sujeitos sem esforço algum. O que o berço dá só a cova o tira, diz um velho adágio nosso. Eu posso, truncando um verso ao meu Dante, escrever de tais insípidos:
 
 Dico, che quando l'anima mal nata...
 
-### Capítulo XIII
-
-A epígrafe
+### 013 — A Epígrafe
 
 Ora, aí está justamente a epígrafe do livro, se eu lhe quisesse pôr alguma, e não me ocorresse outra. Não é somente um meio de completar as pessoas da narração com as ideias que deixarem, mas ainda um par de lunetas para que o leitor do livro penetre o que for menos claro ou totalmente escuro.
 
@@ -451,9 +425,7 @@ Por outro lado, há proveito em irem as pessoas da minha história colaborando n
 
 Se aceitas a comparação, distinguirás o rei e a dama, o bispo e o cavalo, sem que o cavalo possa fazer de torre, nem a torre de peão. Há ainda a diferença da cor, branca e preta, mas esta não tira o poder da marcha de cada peça, e afinal umas e outras podem ganhar a partida, e assim vai o mundo. Talvez conviesse pôr aqui, de quando em quando, como nas publicações do jogo, um diagrama das posições belas ou difíceis. Não havendo tabuleiro, é um grande auxílio este processo para acompanhar os lances, mas também pode ser que tenhas visão bastante para reproduzir na memória as situações diversas. Creio que sim. Fora com diagramas! Tudo irá como se realmente visses jogar a partida entre pessoa e pessoa, ou mais claramente, entre Deus e o Diabo.
 
-### Capítulo XIV
-
-A lição do discípulo
+### 014 — A Lição do Discípulo
 
 — Fique, fique, conselheiro, disse Santos apertando a mão ao diplomata. Aprenda as verdades eternas.
 
@@ -481,9 +453,7 @@ Santos afiou o ouvido neste ponto, lembrando-se das "coisas futuras". Aires diss
 
 — Não importa; não esqueçamos o que dizia um antigo, que "a guerra é a mãe de todas as coisas". Na minha opinião, Empédocles, referindo-se à guerra, não o fez só no sentido técnico. O amor, que é a primeira das artes da paz, pode-se dizer que é um duelo, não de morte, mas de vida - concluiu Aires sorrindo leve, como falava baixo, e despediu-se.
 
-### Capítulo XV
-
-Teste David cum Sibylla 26
+### 015 — Teste David Cum Sibylla
 
 — E então? disse Santos. Não é que o conselheiro, em vez de aprender, ensina-nos? Eu acho que ele deu algumas razões boas.
 
@@ -555,17 +525,13 @@ Santos pediu-lhe que se não zangasse, e contou tudo, a sorte, a rixa, a Escritu
 
 — Perdoa, amiguinha; estava tão ansioso de saber a verdade... E nota que eu creio na cabocla, e o doutor também; ele até me escreveu isto em latim, concluiu tirando e lendo o papelinho: Teste David cum Sibylla.
 
-### Capítulo XVI
-
-Paternalismo
+### 016 — Paternalismo
 
 Daí a pouco, Santos pegou na mão da mulher, que a deixou ir à toa, sem apertar a dele; ambos fitavam os meninos, tendo esquecido a zanga para só ficarem pais.
 
 Já não era espiritismo, nem outra religião nova; era a mais velha de todas, fundada por Adão e Eva, à qual chama, se queres, paternalismo. Rezavam sem palavras, persignavam-se sem dedos, uma espécie de cerimônia quieta e muda, que abrangia o passado e o futuro. Qual deles era o padre, qual o sacristão, não sei, nem é preciso. A missa é que era a mesma, e o evangelho começava como o de S. João (emendado): "No princípio era o amor, e o amor se fez carne". Mas venhamos aos nossos gêmeos.
 
-### Capítulo XVII
-
-Tudo o que restrinjo
+### 017 — Tudo o que Restrinjo
 
 Os gêmeos, não tendo que fazer, iam mamando. Nesse ofício portavam-se sem rivalidade, a não ser quando as amas estavam às boas, e eles mamavam ao pé um do outro; cada qual então parecia querer mostrar que mamava mais e melhor, passeando os dedos pelo seio amigo, e chupando com alma. Elas, à sua parte, tinham glória dos peitos e os comparavam entre si; os pequenos, fartos, soltavam afinal os bicos e riam para elas.
 
@@ -577,9 +543,7 @@ A operação de desmamar podia fazer-se em meia linha, mas as lástimas das amas
 
 Tudo isso restrinjo só para não enfadar a leitora curiosa de ver os meus meninos homens e acabados. Vamos vê-los, querida. Com pouco, estão crescidos e fortes. Depois, entrego-os a si mesmos; eles que abram a ferro ou língua, ou simples cotovelos, o caminho da vida e do mundo.
 
-### Capítulo XVIII
-
-De como vieram crescendo
+### 018 — De como Vieram Crescendo
 
 Ei-los que vêm crescendo. A semelhança, sem os confundir já, continuava a ser grande. Os mesmos olhos claros e atentos, a mesma boca cheia de graça, as mãos finas, e uma cor viva nas faces que as fazia crer pintadas de sangue. Eram sadios; excetuada a crise dos dentes, não tiveram moléstia alguma, porque eu não conto uma ou outra indigestão de doces, que os pais lhes davam, ou eles tiravam às escondidas. Eram ambos gulosos, Pedro mais que Paulo, e Paulo mais que ninguém.
 
@@ -613,11 +577,9 @@ Pedro respondeu que sim; Paulo esperou que a mãe repetisse a pergunta, e deu ig
 
 De noite, na alcova, cada um deles concluiu para si que devia os obséquios daquela tarde, o doce, os beijos e o carro, à briga que tiveram, e que outra briga podia render tanto ou mais. Sem palavras, como um romance ao piano, resolveram ir à cara um do outro, na primeira ocasião. Isto que devia ser um laço armado à ternura da mãe, trouxe ao coração de ambos uma sensação particular, que não era só consolo e desforra do soco recebido naquele dia, mas também satisfação de um desejo íntimo, profundo, necessário. Sem ódio, disseram ainda algumas palavras de cama a cama, riram de uma ou outra lembrança da rua, até que o sono entrou com os seus pés de lã e bico calado, e tomou conta da alcova inteira.
 
-### Capítulo XIX
+### 019 — Apenas Duas. - Quarenta Anos. - Terceira Causa
 
-Apenas duas. - Quarenta anos. - Terceira causa
-
-Um dos meus propósitos neste livro é não lhe pôr lágrimas. Entretanto, não posso calar as duas que rebentaram certa vez dos olhos de Natividade, depois de uma rixa dos pequenos. Apenas duas, e foram morrer-lhe aos cantos da boca. Tão depressa as verteu como as engoliu, renovando às avessas e por palavras mudas o fecho daquelas histórias de crianças: "entrou por uma porta, saiu pela outra, manda el-rei nosso senhor que nos conte outra." E a segunda criança contava segunda história, a terceira terceira, a quarta quarta, até que vinha o fastio ou o sono. Pessoas que datam do tempo em que se contavam tais histórias afirmam que as crianças não punham naquela fórmula nenhuma fé monárquica, fosse absoluta, fosse constitucional; era um modo de ligar o seu Decameron 30 delas, herdado do velho reino português, quando os reis mandavam o que queriam, e a nação dizia que era muito bem.
+Um dos meus propósitos neste livro é não lhe pôr lágrimas. Entretanto, não posso calar as duas que rebentaram certa vez dos olhos de Natividade, depois de uma rixa dos pequenos. Apenas duas, e foram morrer-lhe aos cantos da boca. Tão depressa as verteu como as engoliu, renovando às avessas e por palavras mudas o fecho daquelas histórias de crianças: "entrou por uma porta, saiu pela outra, manda el-rei nosso senhor que nos conte outra." E a segunda criança contava segunda história, a terceira terceira, a quarta quarta, até que vinha o fastio ou o sono. Pessoas que datam do tempo em que se contavam tais histórias afirmam que as crianças não punham naquela fórmula nenhuma fé monárquica, fosse absoluta, fosse constitucional; era um modo de ligar o seu Decameron delas, herdado do velho reino português, quando os reis mandavam o que queriam, e a nação dizia que era muito bem.
 
 Engolidas as duas lágrimas, Natividade riu da própria fraqueza. Não se chamou tola, porque esses desabafos raramente se usam, ainda em particular; mas no secreto do coração, lá muito ao fundo, onde não penetra olho de homem, creio que sentiu alguma coisa parecida com isso. Não tendo prova clara, limito-me a defender a nossa dona.
 
@@ -637,9 +599,7 @@ Ora, se a natureza queria poupar esta senhora, a riqueza dava a mão à natureza
 
 Mas há ainda uma terceira causa que dava a esta senhora o sentimento da cor azul, causa tão particular que merecia ir em capítulo seu, mas não vai, por economia. Era a isenção, era o ter atravessado a vida intacta e pura. O cabo das Tormentas converteu-se em cabo da Boa Esperança, e ela venceu a primeira e a segunda mocidade, sem que os ventos lhe derribassem a nau, nem as ondas a engolissem. Não negaria que alguma lufada mais rija pudera levar-lhe a vela do traquete, como no caso de João de Melo, ou ainda pior, no de Aires, mas foram bocejos de Adamastor. Consertou a vela depressa e o gigante ficou atrás cercado de Tétis, enquanto ela seguiu o caminho da Índia. Agora lembrava-se da viagem próspera. Honrava-se dos ventos inúteis e perdidos. A memória trazia-lhe o sabor do perigo passado. Eis aqui a terra encoberta, os dois filhos nados, criados e amados da fortuna.
 
-### Capítulo XX
-
-A joia
+### 020 — A Joia
 
 Os quarenta e um anos não lhe trouxeram arrepio. Já estava acostumada à casa dos quarenta. Sentiu sim, um grande espanto; acordou e não viu o presente do costume, a "surpresa" do marido ao pé da cama. Não a achou no toucador; abriu gavetas, espiou, nada. Creu que o marido esquecera a data e ficou triste; era a primeira vez! Desceu olhando; nada. No gabinete estava o marido, calado, metido consigo, a ler jornais; mal lhe estendeu a mão. Os rapazes, apesar de ser domingo, estudavam a um canto; vieram dar-lhe o beijo do costume e tornaram aos livros. A mãe ainda relanceou os olhos pelo gabinete, a ver se achava algum mimo, um painel, um vestido, foi tudo vão. Embaixo de uma das folhas do dia que estava na cadeira fronteira à do marido podia ser que... Nada. Então sentou-se, e, abrindo a folha, ia dizendo consigo: "Será possível que não se lembre do dia de hoje? Será possível?" Os olhos entraram a ler à toa, saltando as notícias, tornando atrás...
 
@@ -659,11 +619,9 @@ Quando Perpétua entrou no gabinete, achou-os andando de um lado para outro, com
 
 Toda a casa estava alegre. Na chácara as árvores pareciam mais verdes que nunca, os botões do jardim explicavam as folhas, e o sol cobria a terra de uma claridade infinita. O céu, para colaborar com o resto, ficou azul o dia inteiro. Logo cedo entraram a vir cartões e cartas de parabéns. Mais tarde visitas. Homens do foro, homens do comércio, homens de sociedade, muitas senhoras, algumas titulares também, vieram ou mandaram. Devedores de Santos acudiram depressa, outros preferiram continuar o esquecimento. Nomes houve que eles só puderam reconhecer à força de grande pesquisa e muito almanaque.
 
-## Capítulos 21 a 30
+## Capítulos 021 — 030
 
-### Capítulo XXI
-
-Um ponto escuro
+### 021 — Um Ponto Escuro
 
 Sei que há um ponto escuro no capítulo que passou; escrevo este para esclarecê-lo.
 
@@ -671,15 +629,11 @@ Quando a esposa inquiriu dos antecedentes e circunstâncias do despacho, Santos 
 
 Resta saber (é o ponto escuro) como é que Santos pôde calar por longos dias um negócio tão importante para ele e para a esposa. Em verdade, esteve mais de uma vez a dizer por palavra ou por gesto, se achasse algum, aquele segredo de poucos; mas, sempre havia uma força maior que lhe tapava a boca. Ao que parece, foi a expectação de uma alegria nova e inesperada que lhe deu a alma de pacientar. Naquela cena do gabinete tudo foi composto de antemão, o silêncio, a indiferença, os filhos que ele pôs ali, estudando ao domingo, só para o efeito daquela frase: "Venham beijar a mão da senhora baronesa de Santos!"
 
-### Capítulo XXII
-
-Agora um salto
+### 022 — Agora um Salto
 
 Que os dois gêmeos participassem da lua de mel nobiliária dos pais não é coisa que se precise escrever. O amor que lhes tinham bastava a explicá-lo, mas acresce que, havendo o título produzido em outros meninos dois sentimentos opostos, um de estima, outro de inveja, Pedro e Paulo concluíram ter recebido com ele um mérito especial. Quando, mais tarde, Paulo adotou a opinião republicana nunca envolveu aquela distinção da família na condenação das instituições. Os estados de alma que daqui nasceram davam matéria a um capítulo especial, se eu não preferisse agora um salto, e ir a 1886. O salto é grande, mas o tempo é um tecido invisível em que se pode bordar tudo, uma flor, um pássaro, uma dama, um castelo, um túmulo. Também se pode bordar nada. Nada em cima de invisível é a mais sutil obra deste mundo, e acaso do outro.
 
-### Capítulo XXIII
-
-Quando tiverem barbas
+### 023 — Quando Tiverem Barbas
 
 Naquele ano, uma noite de agosto, como estivessem algumas pessoas na casa de Botafogo, sucedeu que uma delas, não sei se homem ou mulher, perguntou aos dois irmãos que idade tinham.
 
@@ -707,7 +661,7 @@ Natividade repreendeu a Paulo a sua resposta subversiva. Paulo explicou-se, Pedr
 
 — Isto hão de ser grupos de colégio; vocês não estão em idade de falar em política. Quando tiverem barbas.
 
-As barbas não queriam vir, por mais que eles chamassem o buço com os dedos, mas as opiniões políticas e outras vinham e cresciam. Não eram propriamente opiniões, não tinham raízes grandes nem pequenas. Eram (mal comparando) gravatas de cor particular, que eles atavam ao pescoço, à espera que a cor cansasse e viesse outra. Naturalmente cada um tinha a sua. Também se pode crer que a de cada um era, mais ou menos, adequada à pessoa. Como recebiam as mesmas aprovações e distinções nos exames, faltava-lhes matéria a invejas; e, se a ambição os dividisse algum dia, não era por ora águia nem condor, ou sequer filhote; quando muito, um ovo. No colégio de Pedro ii 33 todos lhes queriam bem. As barbas é que não queriam vir. Que é que se lhes há de fazer quando as barbas não querem vir? Esperar que venham por seu pé, que apareçam, que cresçam, que embranqueçam, como é seu costume delas, salvo as que não embranquecem nunca, ou só em parte e temporariamente. Tudo isto é sabido e banal, mas dá ensejo a dizer de duas barbas do último gênero, célebres naquele tempo, e ora totalmente esquecidas. Não tendo outro lugar em que fale delas, aproveito este capítulo, e o leitor que volte a página, se prefere ir atrás da história. Eu ficarei durante algumas linhas, recordando as duas barbas mortas, sem as entender agora, como não as entendemos então, as mais inexplicáveis barbas do mundo.
+As barbas não queriam vir, por mais que eles chamassem o buço com os dedos, mas as opiniões políticas e outras vinham e cresciam. Não eram propriamente opiniões, não tinham raízes grandes nem pequenas. Eram (mal comparando) gravatas de cor particular, que eles atavam ao pescoço, à espera que a cor cansasse e viesse outra. Naturalmente cada um tinha a sua. Também se pode crer que a de cada um era, mais ou menos, adequada à pessoa. Como recebiam as mesmas aprovações e distinções nos exames, faltava-lhes matéria a invejas; e, se a ambição os dividisse algum dia, não era por ora águia nem condor, ou sequer filhote; quando muito, um ovo. No colégio de Pedro ii todos lhes queriam bem. As barbas é que não queriam vir. Que é que se lhes há de fazer quando as barbas não querem vir? Esperar que venham por seu pé, que apareçam, que cresçam, que embranqueçam, como é seu costume delas, salvo as que não embranquecem nunca, ou só em parte e temporariamente. Tudo isto é sabido e banal, mas dá ensejo a dizer de duas barbas do último gênero, célebres naquele tempo, e ora totalmente esquecidas. Não tendo outro lugar em que fale delas, aproveito este capítulo, e o leitor que volte a página, se prefere ir atrás da história. Eu ficarei durante algumas linhas, recordando as duas barbas mortas, sem as entender agora, como não as entendemos então, as mais inexplicáveis barbas do mundo.
 
 A primeira daquelas barbas era de um amigo de Pedro, um capucho, um italiano, frei ***. Podia escrever-lhe o nome - ninguém mais o conheceria -, mas prefiro esse sinal trino, número de mistério, expresso por estrelas, que são os olhos do céu. Trata-se de um frade. Pedro não lhe conheceu a barba preta, mas já grisalha, longa e basta, adornando uma cabeça máscula e formosa. A boca era risonha, os olhos rútilos. Ria por ela e por eles, tão docemente que metia a gente no coração. Tinha o peito largo, as espáduas fortes. O pé nu, atado à sandália, mostrava aguentar um corpo de Hércules. Tudo isso meigo e espiritual, como uma página evangélica. A fé era viva, a afeição segura, a paciência infinita.
 
@@ -715,11 +669,9 @@ Frei *** despediu-se um dia de Pedro. Ia ao interior, Minas, Rio de Janeiro, S. 
 
 Quanto à segunda de tais barbas, foi ainda mais espantosa. Não era de frade, mas de maltrapilho, um sujeito que vivia de dívidas, e na mocidade corrigira um velho rifão da nossa língua por esta maneira: "Paga o que deves, vê o que te não fica." Chegou aos cinquenta anos sem dinheiro, sem emprego, sem amigos. A roupa teria a mesma idade, os sapatos não menor que ela. A barba é que não chegou aos cinquenta; ele pintava-a de negro e mal, provavelmente por não ser a tinta de primeira qualidade e não possuir espelho. Andava só, descia ou subia muita vez a mesma rua. Um dia dobrou a esquina da Vida e caiu na praça da Morte, com as barbas enxovalhadas, por não haver quem lhas pintasse na Santa Casa.
 
-Or, bene, 35 para falar como o meu capucho, por que é que este e o maltrapilho voltaram do grisalho ao negro? A leitora que adivinhe, se pode: dou-lhe vinte capítulos para alcançá-lo. Talvez eu, por essas alturas, lobrigue alguma explicação, mas por ora não sei nem aventuro nada. Vá que malignos atribuam a frei *** alguma paixão profana; ainda assim não se compreende que ele se descobrisse por aquele modo. Quanto ao maltrapilho, a que damas queria ele agradar, a ponto de trocar alguma vez o pão pela tinta? Que um e outro cedessem ao desejo de prender a mocidade fugitiva, pode ser. O frade, lido na Escritura, sabendo que Israel chorou pelas cebolas do Egito, 36 teria também chorado, e as suas lágrimas caíram negras. Pode ser, repito. Este desejo de capturar o tempo é uma necessidade da alma e dos queixos; mas ao tempo dá Deus habeas corpus.
+Or, bene, para falar como o meu capucho, por que é que este e o maltrapilho voltaram do grisalho ao negro? A leitora que adivinhe, se pode: dou-lhe vinte capítulos para alcançá-lo. Talvez eu, por essas alturas, lobrigue alguma explicação, mas por ora não sei nem aventuro nada. Vá que malignos atribuam a frei *** alguma paixão profana; ainda assim não se compreende que ele se descobrisse por aquele modo. Quanto ao maltrapilho, a que damas queria ele agradar, a ponto de trocar alguma vez o pão pela tinta? Que um e outro cedessem ao desejo de prender a mocidade fugitiva, pode ser. O frade, lido na Escritura, sabendo que Israel chorou pelas cebolas do Egito, teria também chorado, e as suas lágrimas caíram negras. Pode ser, repito. Este desejo de capturar o tempo é uma necessidade da alma e dos queixos; mas ao tempo dá Deus habeas corpus.
 
-### Capítulo XXIV
-
-Robespierre e Luís XVI 37
+### 024 — Robespierre e Luís XVI
 
 Tanto cresceram as opiniões de Pedro e Paulo que, um dia, chegaram a incorporar-se em alguma coisa. Iam descendo pela rua da Carioca. Havia ali uma loja de vidraceiro, com espelhos de vário tamanho, e, mais que espelhos, também tinha retratos velhos e gravuras baratas, com e sem caixilho. Pararam alguns instantes, olhando à toa. Logo depois, Pedro viu pendurado um retrato de Luís xvi, entrou e comprou-o por oitocentos réis; era uma simples gravura atada ao mostrador por um barbante. Paulo quis ter igual fortuna, adequada às suas opiniões, e descobriu um Robespierre. Como o lojista pedisse por este mil e duzentos, Pedro exaltou-se um pouco.
 
@@ -739,7 +691,7 @@ Foi a um canto e trouxe um retrato de Madame de Staël, com o famoso turbante na
 
 Quis ainda ver se colhia algum dinheiro, vendendo-lhes um retrato de Pedro i, encaixilhado, que pendia da parede; mas, Pedro recusou por não ter dinheiro disponível, e Paulo disse que não daria um vintém pela "cara de traidores". Antes não dissesse nada! O lojista, tão depressa lhe ouviu a resposta como despiu as formas obsequiosas, vestiu outras indignadas, e bradou que sim, senhor, que o moço tinha razão.
 
-— Tem muita razão. Foi um traidor, mau filho, mau irmão, mau tudo. Fez todo o mal que pôde a este mundo; e no inferno, onde está, se a religião não mente, deve ainda fazer mal ao Diabo. Este moço falou há pouco em rei mártir - continuou mostrando-lhes um retrato de D. Miguel de Bragança, 39 meio perfil, sobrecasaca, mão ao peito -, este é que foi um verdadeiro mártir daquele, que lhe roubou o trono, que não era seu, para dá-lo a quem não pertencia; e foi morrer à míngua o meu pobre rei e senhor, dizem que na Alemanha, ou não sei onde. Ah! malhados! Ah! filhos do Diabo! Os senhores não podem imaginar o que era aquela canalha de liberais. Liberais! Liberais do alheio!
+— Tem muita razão. Foi um traidor, mau filho, mau irmão, mau tudo. Fez todo o mal que pôde a este mundo; e no inferno, onde está, se a religião não mente, deve ainda fazer mal ao Diabo. Este moço falou há pouco em rei mártir - continuou mostrando-lhes um retrato de D. Miguel de Bragança, meio perfil, sobrecasaca, mão ao peito -, este é que foi um verdadeiro mártir daquele, que lhe roubou o trono, que não era seu, para dá-lo a quem não pertencia; e foi morrer à míngua o meu pobre rei e senhor, dizem que na Alemanha, ou não sei onde. Ah! malhados! Ah! filhos do Diabo! Os senhores não podem imaginar o que era aquela canalha de liberais. Liberais! Liberais do alheio!
 
 — É tudo a mesma farinha, reflexionou Paulo.
 
@@ -777,13 +729,11 @@ Pedro abanou a cabeça.
 
 Pedro, ao lado do irmão, desenrolara a sua gravura. O velho lojista quis ainda bradar: "Cinco tostões!" mas iam já longe, e ficava mal negociar assim.
 
-### Capítulo XXV
-
-D. Miguel
+### 025 — D. Miguel
 
 — Assim como assim, ficou pensando o velho, não há de ser enrolado e guardado que o hei de vender; vou mandá-lo encaixilhar; põem-se-lhe aqui umas tabuinhas velhas...
 
-D. Miguel voltou para ele os olhos turvos de tristeza e reproche; assim lhe pareceu ao vidraceiro, mas podia ter sido ilusão. Em todo caso, pareceu também que os olhos tornavam ao seu lugar, fitando à direita, ao longe... Para onde? Para onde há justiça eterna, cuidou naturalmente o dono. Como estivesse a contemplá-lo, à porta, parou um homem, entrou, e olhou com interesse para o retrato. O lojista reparou na expressão; podia ser algum miguelista, 41 mas também podia ser um colecionador...
+D. Miguel voltou para ele os olhos turvos de tristeza e reproche; assim lhe pareceu ao vidraceiro, mas podia ter sido ilusão. Em todo caso, pareceu também que os olhos tornavam ao seu lugar, fitando à direita, ao longe... Para onde? Para onde há justiça eterna, cuidou naturalmente o dono. Como estivesse a contemplá-lo, à porta, parou um homem, entrou, e olhou com interesse para o retrato. O lojista reparou na expressão; podia ser algum miguelista, mas também podia ser um colecionador...
 
 — Quanto pede o senhor por isto?
 
@@ -791,9 +741,7 @@ D. Miguel voltou para ele os olhos turvos de tristeza e reproche; assim lhe pare
 
 O freguês tirou tranquilamente o dinheiro do bolso, enquanto o velho enrolava o retrato, e, trocados um por outro, despediram-se corteses e satisfeitos; o lojista, depois de ir até a porta, tornou à cadeira do costume. Talvez pensasse no mal a que escapara, se vendesse o retrato por dez tostões. Em todo caso, ficou a olhar para fora, para longe, para onde há justiça eterna... Três mil-réis!
 
-### Capítulo XXVI
-
-A luta dos retratos
+### 026 — A Luta dos Retratos
 
 Quase que não é preciso dizer o destino dos retratos do rei e do convencional. Cada um dos pequenos pregou o seu à cabeceira da cama. Pouco durou esta situação, porque ambos faziam pirraças às pobres gravuras, que não tinham culpa de nada. Eram orelhas de burro, nomes feios, desenhos de animais, até que um dia Paulo rasgou a de Pedro, e Pedro a de Paulo. Naturalmente, vingaram-se a murro; a mãe ouviu rumor e subiu apressada. Conteve os filhos, mas já os achou arranhados e recolheu-se triste. Nunca mais acabaria aquela maldição de rivalidade? Fez esta pergunta calada, atirada à cama, a cara metida no travesseiro, que desta vez ficou seco, mas a alma chorou.
 
@@ -841,9 +789,7 @@ Mas Paulo veio logo, e recebeu o abraço inteiro e de verdade. Vinha também que
 
 Foi um recurso hábil separá-los; um ficava no Rio, estudando medicina, outro ia para S. Paulo, estudar direito. O tempo faria o resto, não contando que cada um casava e iria com a mulher para o seu lado. Era a paz perpétua; mais tarde viria a perpétua amizade.
 
-### Capítulo XXVII
-
-De uma reflexão intempestiva
+### 027 — De uma Reflexão Intempestiva
 
 Eis aqui entra uma reflexão da leitora: "Mas se duas velhas gravuras os levam a murro e sangue, contentar-se-ão eles com a sua esposa? Não quererão a mesma e única mulher?"
 
@@ -851,23 +797,17 @@ O que a senhora deseja, amiga minha, é chegar já ao capítulo do amor ou dos a
 
 Francamente, eu não gosto de gente que venha adivinhando e compondo um livro que está sendo escrito com método. A insistência da leitora em falar de uma só mulher chega a ser impertinente. Suponha que eles deveras gostem de uma só pessoa; não parecerá que eu conto o que a leitora me lembrou, quando a verdade é que eu apenas escrevo o que sucedeu e pode ser confirmado por dezenas de testemunhas? Não, senhora minha, não pus a pena na mão, à espreita do que me viessem sugerindo. Se quer compor o livro, aqui tem a pena, aqui tem papel, aqui tem um admirador; mas, se quer ler somente, deixe-se estar quieta, vá de linha em linha; dou-lhe que boceje entre dois capítulos, mas espere o resto, tenha confiança no relator destas aventuras.
 
-### Capítulo XXVIII
-
-O resto é certo
+### 028 — O Resto É Certo
 
 Sim, houve uma pessoa, mais moça que eles, um a dois anos, que os agrilhoou, à força de costume ou de natureza, se não foi de ambas as coisas. Antes dessa, pode ser que houvesse outras e mais velhas que eles, mas de tais não rezam as notas que servem a este livro. Se brigaram por elas, não ficou memória disso, mas é possível, dado que tivessem tido as mesmas preferências; no caso contrário também, como sucedia aos cavaleiros que defendiam a sua dama.
 
 Conjecturas tudo. Era natural que, assim bonitos, iguais, elegantes, dados à vida e ao passeio, à conversação e à dança, finalmente herdeiros, era natural que mais de uma menina gostasse deles. As que os viam passar a cavalo, praia fora ou rua acima, ficavam namoradas daquela ordem perfeita de aspecto e de movimento. Os próprios cavalos eram iguaizinhos, quase gêmeos, e batiam as patas com o mesmo ritmo, a mesma força e a mesma graça. Não creias que o gesto da cauda e das crinas fosse simultâneo nos dois animais; não é verdade e pode fazer duvidar do resto. Pois o resto é certo.
 
-### Capítulo XXIX
+### 029 — A Pessoa Mais Moça
 
-A pessoa mais moça
+A pessoa mais moça não entra já neste capítulo por uma razão valiosa, que é a conveniência de apresentar primeiro os pais. Não é que se não possa vê-la bem sem eles; pode-se, os três são diversos, acaso contrários, e, por mais especial que a acheis, não é preciso que os pais estejam presentes. Nem sempre os filhos reproduzem os pais. Camões afirmou que de certo pai só se podia esperar tal filho, e a ciência confirma esta regra poética. Pela minha parte creio na ciência como na poesia, mas há exceções, amigo. Sucede, às vezes, que a natureza faz outra coisa, e nem por isso as plantas deixam de crescer e as estrelas de luzir. O que se deve crer sem erro é que Deus é Deus; e, se alguma rapariga árabe me estiver lendo, ponha-lhe Alá. Todas as línguas vão dar ao céu.
 
-A pessoa mais moça não entra já neste capítulo por uma razão valiosa, que é a conveniência de apresentar primeiro os pais. Não é que se não possa vê-la bem sem eles; pode-se, os três são diversos, acaso contrários, e, por mais especial que a acheis, não é preciso que os pais estejam presentes. Nem sempre os filhos reproduzem os pais. Camões afirmou que de certo pai só se podia esperar tal filho, 42 e a ciência confirma esta regra poética. Pela minha parte creio na ciência como na poesia, mas há exceções, amigo. Sucede, às vezes, que a natureza faz outra coisa, e nem por isso as plantas deixam de crescer e as estrelas de luzir. O que se deve crer sem erro é que Deus é Deus; e, se alguma rapariga árabe me estiver lendo, ponha-lhe Alá. Todas as línguas vão dar ao céu.
-
-### Capítulo XXX
-
-A gente Batista
+### 030 — A Gente Batista
 
 A gente Batista conheceu a gente Santos em não sei que fazenda da província do Rio. Não foi Maricá, embora ali tivesse nascido o pai dos gêmeos; seria em qualquer outro município. Fosse qual fosse, ali é que se conheceram as duas famílias, e como morassem próximas em Botafogo, a assiduidade e a simpatia vieram ajudando o caso fortuito.
 
@@ -881,7 +821,7 @@ Batista dizia que por causa das eleições perdera a presidência, mas corria ou
 
 Cuñados y juntos:
 
-Es cierto que están difuntos; 43
+Es cierto que están difuntos;
 
 e emendou-o por não ser obrigado a matar ninguém, antes deu vida a si e aos seus, dizendo pela nossa língua:
 
@@ -897,17 +837,15 @@ Batista acudiu depressa ao mal, declarando sem efeito a concessão, mas isso mes
 
 E D. Cláudia afirmou que valia. Sofre-se, mas paciência. Era tão bom chegar à província! Tudo anunciado, as visitas a bordo, o desembarque, a posse, os cumprimentos... Ver a magistratura, o funcionalismo, a oficialidade, muita calva, muito cabelo branco, a flor da terra, enfim, com as suas cortesias longas e demoradas, todas em ângulo ou em curva, e os louvores impressos. As mesmas descomposturas da oposição eram agradáveis. Ouvir chamar tirano ao marido, que ela sabia ter um coração de pomba, ia bem à alma dela. A sede de sangue que se lhe atribuía, ele que nem bebia vinho, o guante de ferro de um homem que era uma luva de pelica, a imoralidade, a desfaçatez, a falta de brio, todos os nomes injustos, mas fortes, que ela gostava de ler, como verdades eternas, onde iam eles agora? A folha da oposição era a primeira que D. Cláudia lia em palácio. Sentia-se vergastada também e tinha nisso uma grande volúpia, como se fosse na própria pele; almoçava melhor. Onde iam os látegos daquele tempo? Agora mal podia ler o nome dele impresso no fim de algumas razões do foro, ou então na lista das pessoas que iam visitar o imperador.
 
-— Nem sempre, explicou D. Cláudia; Batista é muito acanhado; vai de longe em longe a S. Cristóvão, 44 para não parecer que se faz lembrado, como se isto fosse crime; ao contrário, não ir nunca é que pode parecer arrufo. Note que o imperador nunca deixou de recebê-lo com muita benevolência, e a mim também. Nunca esqueceu o meu nome. Já deixei de lá ir dois anos, e quando apareci, perguntou-me logo: "Como vai, D. Cláudia?"
+— Nem sempre, explicou D. Cláudia; Batista é muito acanhado; vai de longe em longe a S. Cristóvão, para não parecer que se faz lembrado, como se isto fosse crime; ao contrário, não ir nunca é que pode parecer arrufo. Note que o imperador nunca deixou de recebê-lo com muita benevolência, e a mim também. Nunca esqueceu o meu nome. Já deixei de lá ir dois anos, e quando apareci, perguntou-me logo: "Como vai, D. Cláudia?"
 
 Afora essas saudades do poder, D. Cláudia era uma criatura feliz. A viveza das palavras e das maneiras, os olhos que pareciam não ver nada à força de não pararem nunca, e o sorriso benévolo, e a admiração constante, tudo nela era ajustado a curar as melancolias alheias. Quando beijava ou mirava as amigas era como se as quisesse comer vivas, comer de amor, não de ódio, metê-las em si, muito em si, no mais fundo de si.
 
 Batista não tinha as mesmas expansões. Era alto, e o ar sossegado dava um bom aspecto de governo. Só lhe faltava ação, mas a mulher podia inspirar-lha; nunca deixou de consultá-la nas crises da presidência. Agora mesmo, se lhe desse ouvidos, já teria ido pedir alguma coisa ao governo, mas neste ponto era firme, de uma firmeza que nascia da fraqueza: "Hão de chamar-me, deixa estar", dizia ele a D. Cláudia, quando aparecia alguma vaga de governo provincial. Certo é que ele sentia a necessidade de tornar à vida ativa. Nele a política era menos uma opinião que uma sarna; precisava coçar-se a miúdo e com força.
 
-## Capítulos 31 a 40
+## Capítulos 031 — 040
 
-### Capítulo XXXI
-
-Flora
+### 031 — Flora
 
 Tal era aquele casal de políticos. Um filho, se eles tivessem um filho varão, podia ser a fusão das suas qualidades opostas, e talvez um homem de Estado. Mas o céu negou-lhes essa consolação dinástica.
 
@@ -935,9 +873,7 @@ Era um convite ao voltarete. Aires não teve ânimo de aceitar, tão inquieta lh
 
 Não foi preciso aceitar nem recusar o convite de Santos; chegaram dois habituados do jogo, e com eles e Batista, que estava na saleta próxima, Santos foi ao recreio de todas as noites. Um daqueles era o velho Plácido, doutor em espiritismo; o segundo era um corretor da praça, chamado Lopes, que amava as cartas pelas cartas, e sentia menos perder dinheiro que partidas. Lá se foram ao voltarete, enquanto Aires ficava no salão, a ouvir a um canto as damas, sem que os olhos de Flora se despegassem dele.
 
-### Capítulo XXXII
-
-O aposentado
+### 032 — O Aposentado
 
 Já então este ex-ministro estava aposentado. Regressou ao Rio de Janeiro, depois de um último olhar às coisas vistas, para aqui viver o resto dos seus dias. Podia fazê-lo em qualquer cidade, era homem de todos os climas, mas tinha particular amor à sua terra, e porventura estava cansado de outras. Não atribuía a esta tantas calamidades. A febre amarela, por exemplo, à força de a desmentir lá fora, perdeu-lhe a fé, e cá dentro, quando via publicados alguns casos, estava já corrompido por aquele credo que atribui todas as moléstias a uma variedade de nomes. Talvez porque era homem sadio.
 
@@ -975,9 +911,7 @@ Assim foi a princípio. Às quintas-feiras ia jantar com a irmã. Às noites pas
 
 Mandou fazer um armário envidraçado, onde meteu as relíquias da vida, retratos velhos, mimos de governos e de particulares, um leque, uma luva, uma fita e outras memórias femininas, medalhas e medalhões, camafeus, pedaços de ruínas gregas e romanas, uma infinidade de coisas que não nomeio, para não encher papel. As cartas não estavam lá, viviam dentro de uma mala, catalogadas por letras, por cidades, por línguas, por sexos. Quinze ou vinte davam para outros tantos capítulos e seriam lidas com interesse e curiosidade. Um bilhete, por exemplo, um bilhete encardido e sem data, moço como os bilhetes velhos, assinado por iniciais, um M e um P, que ele traduzia com saudades. Não vale a pena dizer o nome.
 
-### Capítulo XXXIII
-
-A solidão também cansa
+### 033 — A Solidão Também Cansa
 
 Mas tudo cansa, até a solidão. Aires entrou a sentir uma ponta de aborrecimento; bocejava, cochilava, tinha sede de gente viva, estranha, qualquer que fosse, alegre ou triste. Metia-se por bairros excêntricos, trepava aos morros, ia às igrejas velhas, às ruas novas, à Copacabana e à Tijuca. O mar ali, aqui o mato e a vista acordavam nele uma infinidade de ecos, que pareciam as próprias vozes antigas. Tudo isso escrevia, às noites, para se fortalecer no propósito da vida solitária. Mas não há propósito contra a necessidade.
 
@@ -985,9 +919,7 @@ A gente estranha tinha a vantagem de lhe tirar a solidão, sem lhe dar a convers
 
 Assim se foi o programa da vida nova. Não é que ele já a não entendesse nem amasse, ou que a não praticasse ainda alguma vez, a espaços, como se faz uso de um remédio que obriga a ficar na cama ou na alcova; mas, sarava depressa e tornava ao ar livre. Queria ver a outra gente, ouvi-la, cheirá-la, gostá-la, apalpá-la, aplicar todos os sentidos a um mundo que podia matar o tempo, o imortal tempo.
 
-### Capítulo XXXIV
-
-Inexplicável
+### 034 — Inexplicável
 
 Assim o deixamos, há apenas dois capítulos, a um canto da sala da gente Santos, em conversação com as senhoras. Há de lembrar-te que Flora não despegava os olhos dele, ansiosa de saber por que é que a achava inexplicável. A palavra rasgava-lhe o cérebro, ferindo sem penetrar. Inexplicável que era? Que se não explica, sabia; mas que se não explica por quê?
 
@@ -1003,9 +935,7 @@ Flora achou a explicação obscura; e tu, amiga minha leitora, se acaso és mais
 
 Antes que ele respondesse, entraram na sala os dois gêmeos. Flora esqueceu um assunto por outro, e o velho pelos rapazes. Aires não se demorou mais que o tempo de a ver rir com eles, e sentir em si alguma coisa parecida com remorsos. Remorsos de envelhecer, creio.
 
-### Capítulo XXXV
-
-Em volta da moça
+### 035 — Em Volta da Moça
 
 Já então os dois gêmeos cursavam, um a Faculdade de Direito, em S. Paulo; outro a Escola de Medicina, no Rio. Não tardaria muito que saíssem formados e prontos, um para defender o direito e o torto da gente, outro para ajudá-la a viver e a morrer. Todos os contrastes estão no homem.
 
@@ -1025,11 +955,9 @@ Tais artes, postas ao serviço de tais graças, eram realmente de acender os gê
 
 A intimidade tinha intervalos grandes, além das ausências obrigadas de Paulo. Apesar de não sair, Pedro não a buscava sempre, nem ela ia muita vez à casa da praia. Não se viam dias e dias. Que pensassem um no outro, é possível; mas não possuo o menor documento disto. A verdade é que Pedro tinha os seus companheiros de escola, os namoros de rua e de aventura, os partidos de teatro, os passeios à Tijuca e outros arrabaldes. Ao demais, os dois gêmeos estavam ainda no ponto de falar dela nas cartas, louvá-la, descrevê-la, dizer mil coisas doces, sem ciúme.
 
-### Capítulo XXXVI
+### 036 — A Discórdia Não É Tão Feia como se Pinta
 
-A discórdia não é tão feia como se pinta
-
-A discórdia não é tão feia como se pinta, meu amigo. Nem feia, nem estéril. Conta só os livros que tem produzido, desde Homero 48 até cá, sem excluir... Sem excluir qual? Ia dizer que este, mas a Modéstia acena-me de longe que pare aqui. Paro aqui; e viva a Modéstia, que mal suporta a letra capital que lhe ponho, a letra e os vivas, mas há de ir com ela e com eles. Viva a Modéstia, e excluamos este livro; fiquem só os grandes livros épicos e trágicos, a que a Discórdia 49 deu vida, e digam-me se tamanhos efeitos não provam a grandeza da causa. Não, a discórdia não é tão feia como se pinta.
+A discórdia não é tão feia como se pinta, meu amigo. Nem feia, nem estéril. Conta só os livros que tem produzido, desde Homero até cá, sem excluir... Sem excluir qual? Ia dizer que este, mas a Modéstia acena-me de longe que pare aqui. Paro aqui; e viva a Modéstia, que mal suporta a letra capital que lhe ponho, a letra e os vivas, mas há de ir com ela e com eles. Viva a Modéstia, e excluamos este livro; fiquem só os grandes livros épicos e trágicos, a que a Discórdia deu vida, e digam-me se tamanhos efeitos não provam a grandeza da causa. Não, a discórdia não é tão feia como se pinta.
 
 Teimo nisto para que as almas sensíveis não comecem de tremer pela moça ou pelos rapazes. Não há mister tremer, tanto mais que a discórdia dos dois começou por um simples acordo, naquela noite. Costeavam a praia, calados, pensando só, até que ambos, como se falassem para si, soltaram esta frase única:
 
@@ -1047,9 +975,7 @@ Pedro, à sua parte, construía a meio caminho como um palácio para a represent
 
 Tais eram as grandes pinceladas da imaginação dos dois. As estrelas recebiam no céu todos os pensamentos dos rapazes, a lua seguia quieta e a vaga da praia estirava-se com a preguiça do costume. Voltaram a si ao pé de casa. Tal ou qual impulso quis levá-los a discutir acerca do tempo e da noite, da temperatura e da enseada. Algum murmúrio vago pode ser que lhes fizesse mover os beiços e começar a quebrar o silêncio, mas o silêncio era tão augusto que concordaram em respeitá-lo. E logo acharam, de si para si, que a lua era esplêndida, a enseada bela e a temperatura divina.
 
-### Capítulo XXXVII
-
-Desacordo no acordo
+### 037 — Desacordo no Acordo
 
 Não esqueça dizer que, em 1888, uma questão grave e gravíssima os fez concordar também, ainda que por diversa razão. A data explica o fato: foi a emancipação dos escravos. Estavam então longe um do outro, mas a opinião uniu-os.
 
@@ -1059,15 +985,13 @@ Natividade ficou atônita quando leu isto; pegou da pena e escreveu uma carta lo
 
 — As opiniões é que não, repetiu Natividade acabando de ler a carta.
 
-Natividade não acabava de entender os sentimentos do filho, ela que sacrificara as opiniões aos princípios, como no caso de Aires, e continuou a viver sem mácula. Como então não sacrificar...? Não achava explicação. Relia a frase da carta e a do discurso; tinha medo de o ver perder a carreira política, se era a política que o faria grande homem. "Emancipado o preto, resta emancipar o branco", 52 era uma ameaça ao imperador e ao império.
+Natividade não acabava de entender os sentimentos do filho, ela que sacrificara as opiniões aos princípios, como no caso de Aires, e continuou a viver sem mácula. Como então não sacrificar...? Não achava explicação. Relia a frase da carta e a do discurso; tinha medo de o ver perder a carreira política, se era a política que o faria grande homem. "Emancipado o preto, resta emancipar o branco", era uma ameaça ao imperador e ao império.
 
 Não atinou... Nem sempre as mães atinam. Não atinou que a frase do discurso não era propriamente do filho; não era de ninguém. Alguém a proferiu um dia, em discurso ou conversa, em gazeta ou em viagem de terra ou de mar. Outrem a repetiu, até que muita gente a fez sua. Era nova, era enérgica, era expressiva, ficou sendo patrimônio comum.
 
 Há frases assim felizes. Nascem modestamente, como a gente pobre; quando menos pensam, estão governando o mundo, à semelhança das ideias. As próprias ideias nem sempre conservam o nome do pai; muitas aparecem órfãs, nascidas de nada e de ninguém. Cada um pega delas, verte-as como pode, e vai levá-las à feira, onde todos as têm por suas.
 
-### Capítulo XXXVIII
-
-Chegada a propósito
+### 038 — Chegada a Propósito
 
 Quando, às duas horas da tarde do dia seguinte, Natividade se meteu no bonde, para ir a não sei que compras na rua do Ouvidor, levava a frase consigo. A vista da enseada não a distraiu, nem a gente que passava, nem os incidentes da rua, nada; a frase ia diante e dentro dela, com o seu aspecto e tom de ameaça. No Catete, alguém entrou de salto, sem fazer parar o veículo. Adivinha que era o conselheiro; adivinha também que, posto o pé no estribo, e vendo logo adiante a nossa amiga, caminhou para lá rápido e aceitou a ponta do banco que ela lhe ofereceu. Depois dos primeiros cumprimentos:
 
@@ -1167,9 +1091,7 @@ Natividade achou consigo que ele tinha razão; depois, pensou em outra coisa, e 
 
 Aires concordou rindo. Para Natividade valia por uma tentativa nova. Confiava na ação do conselheiro, e para dizer tudo... Não sei se diga... Digo. Natividade contava com a antiga inclinação do velho diplomata. As cãs não lhe tirariam o desejo de a servir. Não sei quem me lê nesta ocasião. Se é homem, talvez não entenda logo, mas se é mulher creio que entenderá. Se ninguém entender, paciência; baste saber que ele prometeu o que ela quis, e também prometeu calar-se; foi a condição que a outra lhe pôs. Tudo isso polido, sincero e incrédulo.
 
-### Capítulo XXXIX
-
-Um gatuno
+### 039 — Um Gatuno
 
 Chegaram ao largo da Carioca, apearam-se e despediram-se; ela entrou pela rua Gonçalves Dias, ele enfiou pela da Carioca. No meio desta, Aires encontrou um magote de gente parada, logo depois andando em direção ao largo. Aires quis arrepiar caminho, não de medo, mas de horror. Tinha horror à multidão. Viu que a gente era pouca, cinquenta ou sessenta pessoas, e ouviu que bradava contra a prisão de um homem. Entrou num corredor, à espera que o magote passasse. Duas praças de polícia traziam o preso pelo braço. De quando em quando, este resistia, e então era preciso arrastá-lo ou forçá-lo por outro método. Tratava-se, ao que parece, do furto de uma carteira.
 
@@ -1193,9 +1115,7 @@ Não lhe atribuam todas essas ideias. Pensava assim, como se falasse alto, à me
 
 Ia a descer pela rua Sete de Setembro, quando a lembrança da vozeria trouxe a de outra, maior e mais remota.
 
-### Capítulo XL
-
-Recuerdos
+### 040 — Recuerdos
 
 Essa outra vozeria maior e mais remota não caberia aqui, se não fosse a necessidade de explicar o gesto repentino com que Aires parou na calçada. Parou, tornou a si e continuou a andar com os olhos no chão e a alma em Caracas. Foi em Caracas, onde ele servira na qualidade de adido de legação. Estava em casa, de palestra com uma atriz da moda, pessoa chistosa e garrida. De repente, ouviram um clamor grande, vozes tumultuosas, vibrantes, crescentes...
 
@@ -1223,11 +1143,9 @@ Tienen las sevillanas
 
 En la mantilla...
 
-## Capítulos 41 a 50
+## Capítulos 041 — 050
 
-### Capítulo XLI
-
-Caso do burro
+### 041 — Caso do Burro
 
 Se Aires obedecesse ao seu gosto, e eu a ele, nem ele continuaria a andar, nem eu começaria este capítulo; ficaríamos no outro, sem nunca mais acabá-lo. Mas não há memória que dure, se outro negócio mais forte puxa pela atenção, e um simples burro fez desaparecer Cármen e a sua trova.
 
@@ -1239,15 +1157,11 @@ Nos olhos redondos do animal viu Aires uma expressão profunda de ironia e paci�
 
 Depois riu de si para si, e foi andando. Inventara tanta coisa no serviço diplomático, que talvez inventasse o monólogo do burro. Assim foi; não lhe leu nada nos olhos, a não ser a ironia e a paciência, mas não se pode ter que lhes não desse uma forma de palavra, com as suas regras de sintaxe. A própria ironia estaria acaso na retina dele. O olho do homem serve de fotografia ao invisível, como o ouvido serve de eco ao silêncio. Tudo é que o dono tenha um lampejo de imaginação para ajudar a memória a esquecer Caracas e Cármen, os seus beijos e experiência política.
 
-### Capítulo XLII
-
-Uma hipótese
+### 042 — Uma Hipótese
 
 Visões e reminiscências iam assim comendo o tempo e o espaço ao conselheiro, a ponto de lhe fazerem esquecer o pedido de Natividade; mas não o esqueceu de todo, e as palavras trocadas há pouco surdiam-lhe das pedras da rua. Considerou que não perdia muito em estudar os rapazes. Chegou a apanhar uma hipótese, espécie de andorinha, que avoaça entre árvores, abaixo e acima, pousa aqui, pousa ali, arranca de novo um surto e toda se despeja em movimentos. Tal foi a hipótese vaga e colorida, a saber, que se os gêmeos tivessem nascido dele talvez não divergissem tanto nem nada, graças ao equilíbrio do seu espírito. A alma do velho entrou a ramalhar não sei que desejos retrospectivos, e a rever essa hipótese, outra Caracas, outra Cármen, ele pai, estes meninos seus, toda a andorinha que se dispersava num farfalhar calado de gestos.
 
-### Capítulo XLIII
-
-O discurso
+### 043 — O Discurso
 
 Natividade é que não teve distrações de espécie alguma. Toda ela estava nos filhos, e agora especialmente na carta e no discurso. Começou por não dar resposta às efusões políticas de Paulo; foi um dos conselhos do conselheiro. Quando o filho tornou pelas férias tinha esquecido a carta que escrevera.
 
@@ -1287,9 +1201,7 @@ Santos cumpriu tudo à risca. A entrega se fez naturalmente, e, no palácio Isab
 
 — Por que não, se é verdade? Paulo é o que se pode chamar um liberal de 1848, repetiu Santos querendo convencer o filho.
 
-### Capítulo XLIV
-
-O salmão
+### 044 — O Salmão
 
 Pelas férias é que Paulo soube da interpretação que o pai dera à Regente daquele trecho do discurso. Protestou contra ela, em casa; quis fazê-lo também em público, mas Natividade interveio a tempo. Aires pôs água na fervura, dizendo ao futuro bacharel:
 
@@ -1355,9 +1267,7 @@ Aires queria cumprir deveras o ofício que aceitara de Natividade. Quem sabe se 
 
 Ao almoço, ainda se falou do artigo, Paulo com amor, Pedro com desdém, Aires sem uma nem outra coisa. O almoço ia fazendo o seu ofício. Aires estudava os dois rapazes e suas opiniões. Talvez estas não passassem de uma erupção de pele da idade. E sorria, fazia-os comer e beber, chegou a falar de moças, mas aqui os rapazes, vexados e respeitosos, não acompanharam o ex-ministro. A política veio morrendo. Na verdade, Paulo ainda se declarou capaz de derribar a monarquia com dez homens, e Pedro de extirpar o gérmen republicano com um decreto. Mas o ex-ministro, sem mais decreto que uma caçarola, nem mais homens que o seu cozinheiro, envolveu os dois regímens no mesmo salmão delicioso.
 
-### Capítulo XLV
-
-Musa, canta...
+### 045 — Musa, Canta...
 
 No fim do almoço, Aires deu-lhes uma citação de Homero, aliás duas, uma para cada um, dizendo-lhes que o velho poeta os cantara separadamente, Paulo no começo da Ilíada:
 
@@ -1375,17 +1285,13 @@ Era um modo de definir o caráter de ambos, e nenhum deles levou a mal a aplica�
 
 — Em grego, meninos, em grego e em verso, que é melhor que a nossa língua e a prosa do nosso tempo.
 
-### Capítulo XLVI
-
-Entre um ato e outro
+### 046 — Entre um Ato e Outro
 
 Aqueles almoços repetiram-se, os meses passaram, vieram férias, acabaram-se férias, e Aires penetrava bem os gêmeos. Escrevia-os no Memorial, onde se lê que a consulta ao velho Plácido dizia respeito aos dois, e mais a ida à cabocla do Castelo e a briga antes de nascer, casos velhos e obscuros que ele relembrou, ligou e decifrou.
 
 Enquanto os meses passam, faze de conta que estás no teatro, entre um ato e outro, conversando. Lá dentro preparam a cena, e os artistas mudam de roupa. Não vás lá; deixa que a dama, no camarim, ria com os seus amigos o que chorou cá fora com os espectadores. Quanto ao jardim que se está fazendo, não te exponhas a vê-lo pelas costas; é pura lona velha sem pintura, porque só a parte do espectador é que tem verdes e flores. Deixa-te estar cá fora no camarote desta senhora. Examina-lhe os olhos; tem ainda as lágrimas que lhe arrancou a dama da peça. Fala-lhe da peça e dos artistas. Que é obscura. Que não sabem os papéis. Ou então que é tudo sublime. Depois percorre os camarotes com o binóculo, distribui justiça, chama belas às belas e feias às feias, e não te esqueças de contar anedotas que desfeiem as belas, e virtudes que componham as feias. As virtudes devem ser grandes e as anedotas engraçadas. Também as há banais, mas a mesma banalidade na boca de um bom narrador faz-se rara e preciosa. E verás como as lágrimas secam inteiramente, e a realidade substitui a ficção. Falo por imagem; sabes que tudo aqui é verdade pura e sem choro.
 
-### Capítulo XLVII
-
-S. Mateus, IV, 1-10 57
+### 047 — S. Mateus, IV, 1-10
 
 Se há muito riso quando um partido sobe, também há muita lágrima do outro que desce, e do riso e da lágrima se faz o primeiro dia da situação, como no Gênesis. Venhamos ao evangelista que serve de título ao capítulo. Os liberais foram chamados ao poder, que os conservadores tiveram de deixar. Não é mister dizer que o abatimento de Batista foi enorme.
 
@@ -1449,11 +1355,11 @@ Batista sorriu leve e rápido; amava as imagens graciosas e aquela pareceu-lhe g
 
 Batista recuou com horror. Isto de subir as escadas do poder e dizer-lhe que estava às ordens não era concebível sequer. D. Cláudia admitiu que não, mas um amigo faria tudo, um amigo íntimo do governo que dissesse ao Ouro Preto: "Visconde, você por que é que não convida o Batista? Foi sempre liberal nas ideias. Dê-lhe uma presidência, pequena que seja, e..."
 
-Batista fez um gesto de ombros, outro de mão que se calasse. A mulher não se calou; foi dizendo as mesmas coisas, agora mais graves pela insistência e pelo tom. Na alma do marido a catástrofe era já tremenda. Pensando bem, não recusaria passar o Rubicon; 59 só lhe faltava a força necessária. Quisera querer. Quisera não ver nada, nem passado, nem presente, nem futuro, não saber de homens nem de coisas, e obedecer aos dados da sorte, mas não podia.
+Batista fez um gesto de ombros, outro de mão que se calasse. A mulher não se calou; foi dizendo as mesmas coisas, agora mais graves pela insistência e pelo tom. Na alma do marido a catástrofe era já tremenda. Pensando bem, não recusaria passar o Rubicon; só lhe faltava a força necessária. Quisera querer. Quisera não ver nada, nem passado, nem presente, nem futuro, não saber de homens nem de coisas, e obedecer aos dados da sorte, mas não podia.
 
 E façamos justiça ao homem. Quando ele pensava só na fidelidade aos amigos sentia-se melhor; a mesma fé existia, o mesmo costume, a mesma esperança. O mal vinha de olhar para o lado de lá; e era D. Cláudia que lhe mostrava com o dedo a carreira, a alegria, a vida, a marcha certa e longa, a presidência, o ministério... Ele torcia os olhos e ficava.
 
-A sós consigo, Batista pensou muita vez na situação pessoal e política. Apalpava-se moralmente. Cláudia podia ter razão. Que é que havia nele propriamente conservador, a não ser esse instinto de toda criatura, que a ajuda a levar este mundo? Viu-se conservador em política, porque o pai o era, o tio, os amigos da casa, o vigário da paróquia, e ele começou na escola a execrar os liberais. E depois não era propriamente conservador, mas saquarema, como os liberais eram luzias. Batista agarrava-se agora a estas designações obsoletas e deprimentes que mudavam o estilo aos partidos; donde vinha que hoje não havia entre eles o grande abismo de 1842 e 1848. E lembrava-se do visconde de Albuquerque 61 ou de outro senador que dizia em discurso não haver nada mais parecido com um conservador que um liberal, e vice-versa. E evocava exemplos, o partido progressista, Olinda, Nabuco, Zacarias, 62 que foram eles senão conservadores que compreenderam os tempos novos e tiraram às ideias liberais aquele sangue das revoluções, para lhes pôr uma cor viva, sim, mas serena. Nem o mundo era dos emperrados... Neste ponto passou-lhe um frio pela espinha. Justamente nessa ocasião apareceu Flora. O pai abraçou-a com amor, e perguntou-lhe se queria ir para alguma província, sendo ele presidente.
+A sós consigo, Batista pensou muita vez na situação pessoal e política. Apalpava-se moralmente. Cláudia podia ter razão. Que é que havia nele propriamente conservador, a não ser esse instinto de toda criatura, que a ajuda a levar este mundo? Viu-se conservador em política, porque o pai o era, o tio, os amigos da casa, o vigário da paróquia, e ele começou na escola a execrar os liberais. E depois não era propriamente conservador, mas saquarema, como os liberais eram luzias. Batista agarrava-se agora a estas designações obsoletas e deprimentes que mudavam o estilo aos partidos; donde vinha que hoje não havia entre eles o grande abismo de 1842 e 1848. E lembrava-se do visconde de Albuquerque ou de outro senador que dizia em discurso não haver nada mais parecido com um conservador que um liberal, e vice-versa. E evocava exemplos, o partido progressista, Olinda, Nabuco, Zacarias, que foram eles senão conservadores que compreenderam os tempos novos e tiraram às ideias liberais aquele sangue das revoluções, para lhes pôr uma cor viva, sim, mas serena. Nem o mundo era dos emperrados... Neste ponto passou-lhe um frio pela espinha. Justamente nessa ocasião apareceu Flora. O pai abraçou-a com amor, e perguntou-lhe se queria ir para alguma província, sendo ele presidente.
 
 — Mas os conservadores não caíram?
 
@@ -1473,11 +1379,9 @@ Talvez o Rio de Janeiro para ela fosse Botafogo, e propriamente a casa de Nativi
 
 Não, não foi a filha que tolheu a deserção do pai. Ao contrário. Batista, se tivesse de ceder, cederia à mulher ou ao Diabo, sinônimos neste capítulo. Não cedeu de fraqueza. Não tinha a força precisa de trair os amigos, por mais que estes parecessem havê-lo abandonado. Há dessas virtudes feitas de acanho e timidez, e nem por isso menos lucrativas, moralmente falando. Não valem só estoicos e mártires. Virtudes meninas também são virtudes. É certo, porém, que a linguagem dele, em relação aos liberais, não era já de ódio ou impaciência; chegava à tolerância, roçava pela justiça. Concordava que a alternação dos partidos era um princípio de necessidade pública. O que fazia era animar os amigos. Tornariam cedo ao poder. Mas D. Cláudia opinava o contrário; para ela, os liberais iriam ao fim do século. Quando muito, admitiu que na primeira entrada não dessem lugar a um converso da última hora; era preciso esperar um ano ou dois, uma vaga na câmara, uma comissão, a vice-presidência do Rio...
 
-### Capítulo XLVIII
+### 048 — Terpsícore
 
-Terpsícore 63
-
-Nenhuma dessas coisas preocupava Natividade. Mais depressa cuidaria do baile da ilha Fiscal, 64 que se realizou em novembro para honrar os oficiais chilenos. Não é que ainda dançasse, mas sabia-lhe bem ver dançar os outros, e tinha agora a opinião de que a dança é um prazer dos olhos. Esta opinião é um dos efeitos daquele mau costume de envelhecer. Não pegues tal costume, leitora. Há outros também ruins, nenhum pior, este é o péssimo. Deixa lá dizerem filósofos que a velhice é um estado útil pela experiência e outras vantagens. Não envelheças, amiga minha, por mais que os anos te convidem a deixar a primavera; quando muito, aceita o estio. O estio é bom, cálido, as noites são breves, é certo, mas as madrugadas não trazem neblina, e o céu aparece logo azul. Assim dançarás sempre.
+Nenhuma dessas coisas preocupava Natividade. Mais depressa cuidaria do baile da ilha Fiscal, que se realizou em novembro para honrar os oficiais chilenos. Não é que ainda dançasse, mas sabia-lhe bem ver dançar os outros, e tinha agora a opinião de que a dança é um prazer dos olhos. Esta opinião é um dos efeitos daquele mau costume de envelhecer. Não pegues tal costume, leitora. Há outros também ruins, nenhum pior, este é o péssimo. Deixa lá dizerem filósofos que a velhice é um estado útil pela experiência e outras vantagens. Não envelheças, amiga minha, por mais que os anos te convidem a deixar a primavera; quando muito, aceita o estio. O estio é bom, cálido, as noites são breves, é certo, mas as madrugadas não trazem neblina, e o céu aparece logo azul. Assim dançarás sempre.
 
 Bem sei que há gente para quem a dança é antes um prazer dos olhos. Nem as bailadeiras são outra coisa mais que mulheres de ofício. Também eu, se é lícito citar alguém a si mesmo, também eu acho que a dança é antes prazer dos olhos que dos pés, e a razão não é só dos anos longos e grisalhos, mas também outra que não digo, por não valer a pena. Ao cabo, não estou contando a minha vida, nem as minhas opiniões, nem nada que não seja das pessoas que entram no livro. Estas é que preciso pôr aqui integralmente com as suas virtudes e imperfeições, se as têm. Entende-se isto, sem ser preciso notá-lo, mas não se perde nada em repeti-lo.
 
@@ -1495,7 +1399,7 @@ Santos é que não precisava de ideias para dançar. Não dançaria sequer. Em m
 
 — Vitalício, quero dizer.
 
-Natividade teimou que não, que a posição dele era comercial e bancária. Acrescentou que política era uma coisa e indústria outra. Santos replicou, citando o barão de Mauá, 65 que as fundiu ambas. Então a mulher declarou por um modo seco e duro que aos sessenta anos ninguém começa a ser deputado.
+Natividade teimou que não, que a posição dele era comercial e bancária. Acrescentou que política era uma coisa e indústria outra. Santos replicou, citando o barão de Mauá, que as fundiu ambas. Então a mulher declarou por um modo seco e duro que aos sessenta anos ninguém começa a ser deputado.
 
 — Mas é de passagem; os senadores são idosos.
 
@@ -1529,9 +1433,7 @@ Ora, o conselheiro tinha visto no rosto da moça a expressão de alguma coisa e 
 
 A frase era boa, sonora, parecia conter a maior soma de verdade que há na terra e nos planetas. Valia por uma página de Plutarco. Se algum político a ouvisse poderia guardá-la para os seus dias de oposição ao governo, quando viesse o terceiro reinado. Foi o que ele mesmo escreveu no Memorial. Com esta nota: "A meiga criatura agradeceu-me estas cinco palavras".
 
-### Capítulo XLIX
-
-Tabuleta velha
+### 049 — Tabuleta Velha
 
 Toda a gente voltou da ilha com o baile na cabeça, muita sonhou com ele, alguma dormiu mal ou nada. Aires foi dos que acordaram tarde; eram onze horas. Ao meio dia almoçou; depois escreveu no Memorial as impressões da véspera, notou várias espáduas, fez reparos políticos e acabou com as palavras que lá ficam no cabo do outro capítulo. Fumou, leu, até que resolveu ir à rua do Ouvidor. Como chegasse à vidraça de uma das janelas da frente, viu à porta da confeitaria uma figura inesperada, o velho Custódio, cheio de melancolia. Era tão novo o espetáculo que ali se deixou estar por alguns instantes; foi então que o confeiteiro, levantando os olhos, deu com ele entre as cortinas, e enquanto Aires voltava para dentro, Custódio atravessou a rua e entrou-lhe em casa.
 
@@ -1561,15 +1463,13 @@ Quaisquer que fossem as cores, eram tintas novas, tábuas novas, uma reforma que
 
 — Sim, homem de Deus.
 
-— Conquanto V. Ex. a aprove a reforma da tabuleta, sentirá comigo a separação da outra, a minha amiga velha, que nunca me deixou, que eu, nas noites de luminárias, 69 por S. Sebastião 70 e outras, fazia aparecer aos olhos da gente. V. Ex. a, quando se aposentou, veio achá-la no mesmo lugar em que a deixou por ocasião de ser nomeado. E tive alma para me separar dela!
+— Conquanto V. Ex. a aprove a reforma da tabuleta, sentirá comigo a separação da outra, a minha amiga velha, que nunca me deixou, que eu, nas noites de luminárias, por S. Sebastião e outras, fazia aparecer aos olhos da gente. V. Ex. a, quando se aposentou, veio achá-la no mesmo lugar em que a deixou por ocasião de ser nomeado. E tive alma para me separar dela!
 
 — Está bom, lá vai; agora é receber a nova, e verá como daqui a pouco são amigos.
 
 Custódio saiu recuando, como era seu costume, e desceu trôpego as escadas. Diante da confeitaria deteve-se um instante, para ver o lugar onde estivera a tabuleta velha. Deveras, tinha saudades.
 
-### Capítulo L
-
-O tinteiro de Evaristo 71
+### 050 — O Tinteiro de Evaristo
 
 —... Este caso prova que tudo se pode amar muito bem, ainda um pedaço de madeira velha. Creiam que não era só a despesa que ele naturalmente sentia, eram também saudades. Ninguém se despega assim de um objeto tão íntimo, que faz parte integral da casa e da pele, porque a tabuleta não foi sequer arriada um dia. Custódio não teve ocasião de ver se estava estragada. Vivia ali como as portadas e a parede.
 
@@ -1599,11 +1499,9 @@ Santos estimou ouvir este louvor; achava-lhe uma intenção direta à sua pessoa
 
 Tais eram as suspeitas que vagavam no cérebro de Aires, enquanto ele olhava mansamente para o anfitrião. Aires não podia negar a si mesmo a aversão que este lhe inspirava. Não lhe queria mal, decerto; podia até querer-lhe bem, se houvesse um muro entre ambos. Era a pessoa, eram as sensações, os dizeres, os gestos, o riso, a alma toda que lhe fazia mal.
 
-## Capítulos 51 a 60
+## Capítulos 051 — 060
 
-### Capítulo LI
-
-Aqui presente
+### 051 — Aqui Presente
 
 Perto das nove horas, ou logo depois, chegou Pedro com o casal Batista e Flora.
 
@@ -1641,9 +1539,7 @@ Flora quis dizer que sim, depois que não, afinal calou. Desconversou, perguntan
 
 Veio a zanga. Flora não replicou mais nada, e, por seu gosto, não teria jantado, a tal ponto sentia piedade do outro. Felizmente, o outro era este mesmo, aqui presente, com os olhos presentes, as mãos presentes, as palavras presentes. Não tardou que a zanga fugisse diante da graça, da brandura e da adoração. Bem-aventurados os que ficam, porque eles serão compensados.
 
-### Capítulo LII
-
-Um segredo
+### 052 — Um Segredo
 
 Eis agora a matéria da conspiração. Na rua, ao virem de S. Clemente, foi que Pedro, gastado o melhor do tempo com a carta e o jantar, pôde revelar à moça um segredo:
 
@@ -1655,7 +1551,7 @@ Eis agora a matéria da conspiração. Na rua, ao virem de S. Clemente, foi que 
 
 — Verdade como? Papai não vai com liberais; o senhor não sabe como papai é conservador. Se ele defende os liberais é porque é tolerante.
 
-— Se a província fosse a do Rio de Janeiro, eu gostaria, porque não era preciso ir morar na Praia Grande, 73 e, se ele fosse, a viagem é só de meia hora, eu podia ir lá todos os dias.
+— Se a província fosse a do Rio de Janeiro, eu gostaria, porque não era preciso ir morar na Praia Grande, e, se ele fosse, a viagem é só de meia hora, eu podia ir lá todos os dias.
 
 — Era capaz?
 
@@ -1701,9 +1597,7 @@ Flora ficou espantada. Não querendo negar nem confessar, respondeu-lhe que só 
 
 — Com o maior prazer.
 
-### Capítulo LIII
-
-De confidências
+### 053 — De Confidências
 
 Entenda-se que não. Não era com prazer maior nem menor. Era imposição de sociedade, desde que Flora o pedira, não sei se discretamente. Que a isto ligasse tal ou qual desejo de saber algum segredo, não serei eu que o negue, nem tu, nem ele mesmo. Ao cabo de alguns instantes, Aires ia sentindo como esta pequena lhe acordava umas vozes mortas, falhadas ou não nascidas, vozes de pai. Os gêmeos não lhe deram um dia a mesma sensação, senão porque eram filhos de Natividade. Aqui não era a mãe, era a mesma Flora, o seu gesto, a sua fala, e porventura a sua fatalidade.
 
@@ -1725,7 +1619,7 @@ Aires suspirou em segredo, e curvou a cabeça ao Destino. Não se luta contra el
 
 — Cinco minutos e está livre de mim, mas verá que lhe pago o sacrifício.
 
-O gabinete era pequeno; poucos livros e bons, os móveis graves, um retrato de Batista com a farda de presidente, um almanaque sobre a mesa, um mapa na parede, algumas lembranças do governo da província. Enquanto Aires circulava os olhos, Batista foi buscar o documento. Abriu uma gaveta, tirou uma pasta, abriu a pasta, tirou o documento, que não estava só, mas com outros. Conhecia-se logo por ser um papel velho, amarelo, em partes roído. Era uma carta do conde de Oeiras, 74 escrita ao ministro de Portugal na Holanda.
+O gabinete era pequeno; poucos livros e bons, os móveis graves, um retrato de Batista com a farda de presidente, um almanaque sobre a mesa, um mapa na parede, algumas lembranças do governo da província. Enquanto Aires circulava os olhos, Batista foi buscar o documento. Abriu uma gaveta, tirou uma pasta, abriu a pasta, tirou o documento, que não estava só, mas com outros. Conhecia-se logo por ser um papel velho, amarelo, em partes roído. Era uma carta do conde de Oeiras, escrita ao ministro de Portugal na Holanda.
 
 — É o dia das antiguidades, pensou Aires; a tabuleta, o tinteiro, este autógrafo...
 
@@ -1795,15 +1689,11 @@ Aires escondia o espanto... Convidado assim àquela hora... Uma profissão de f�
 
 O bilhete estava no bolso, dentro da carteira. Qualquer outro, alvoroçado com a nomeação próxima, levaria tempo a achar o bilhete no meio dos papéis; mas Batista possuía o tato dos textos. Tirou a carteira, abriu-a descansado e com os dedos sacou o bilhete do ministro convidando-o a uma conversação. Na conversação ficou tudo assentado.
 
-### Capítulo LIV
-
-Enfim, só!
+### 054 — Enfim, Só!
 
 Enfim, só! Quando Aires se achou na rua, só, livre, solto, entregue a si mesmo, sem grilhões nem considerações, respirou largo. Fez um monólogo, que daí a pouco interrompeu por se lembrar de Flora. Tudo o que ela não quisera ia acontecer; lá ia o pai a uma presidência, e ela com ele, e a recente inclinação ao jovem Pedro vinha parar a meio caminho. Entretanto, não se arrependia do que dissera e ainda menos do que não dissera. Os dados estavam lançados. Agora era cuidar de outra coisa.
 
-### Capítulo LV
-
-"A mulher é a desolação do homem"
+### 055 — "A Mulher É a Desolação do Homem"
 
 Ao despedir-se, fez Aires uma reflexão, que ponho aqui, para o caso de que algum leitor a tenha feito também. A reflexão foi obra de espanto, e o espanto nasceu de ver como um homem tão difícil em ceder às instigações da esposa (Vai-te, Satanás, etc.; capítulo xlvii) deitou tão facilmente o hábito às urtigas. Não achou explicação, nem a acharia, se não soubesse o que lhe disseram mais tarde, que os primeiros passos da conversão do homem foram dados pela mulher. "A mulher é a desolação do homem", dizia não sei que filósofo socialista, creio que Proudhon. Foi ela, a viúva da presidência, que por meios vários e secretos, tramou passar a segundas núpcias. Quando ele soube do namoro, já os banhos estavam corridos; não havia mais que consentir e casar também.
 
@@ -1817,9 +1707,7 @@ D. Cláudia não suspirou, cantou vitória; a reticência do marido era a primei
 
 Tal foi a conclusão de Aires, segundo se lê no Memorial. Tal será a do leitor, se gosta de concluir. Note que aqui lhe poupei o trabalho de Aires; não o obriguei a achar por si o que, de outras vezes, é obrigado a fazer. O leitor atento, verdadeiramente ruminante, tem quatro estômagos no cérebro, e por eles faz passar e repassar os atos e os fatos, até que deduz a verdade, que estava, ou parecia estar escondida.
 
-### Capítulo LVI
-
-O golpe
+### 056 — O Golpe
 
 O dia seguinte trouxe à menina Flora a grande novidade. Sábado seria assinado o decreto; a presidência era no Norte. D. Cláudia não lhe viu a palidez, nem sentiu as mãos frias, continuou a falar do caso e do futuro, até que Flora, querendo sentar-se, quase caiu. A mãe acudiu-lhe:
 
@@ -1845,9 +1733,7 @@ Flora precisava não ir e só pensava nisso. Uma vez que o decreto estava preste
 
 — Precisas, sim, eu sei o que precisas.
 
-### Capítulo LVII
-
-Das encomendas
+### 057 — Das Encomendas
 
 Não escreveria este capítulo, se ele fosse propriamente das encomendas, mas não é. Tudo são instrumentos nas mãos da Vida. As duas saíram de casa, uma lépida, a outra melancólica, e lá foram a escolher uma quantidade de objetos de viagem e de uso pessoal. D. Cláudia pensava nos vestidos da primeira recepção e de visitas; também ideou o do desembarque. Tinha ordem do marido para comprar algumas gravatas. Os chapéus, entretanto, foram o principal artigo da lista. Ao parecer de D. Cláudia, o chapéu da mulher é que dava a nota verdadeira do gosto, das maneiras e da cultura de uma sociedade. Não valia a pena aceitar uma presidência para levar chapéus sem graça, dizia ela sem convicção, porque intimamente pensava que a presidência dá graça a tudo.
 
@@ -1877,9 +1763,7 @@ Não, não os conheciam. Paulo disse-lhes os nomes. A mãe talvez fizesse alguma
 
 Assim se deixaram ir, guiados por D. Cláudia, quase esquecida deles. No meio daquela conversação truncada, mais entretida por ele que por ela, Paulo sentia ímpetos de lhe perguntar, ao ouvido, na rua, se pensara nele, ou, ao menos, sonhara com ele algumas noites. Ouvindo que não, daria expansão à cólera, dizendo-lhe os últimos impropérios; se ela corresse, correria também, até pegá-la pelas fitas do chapéu ou pela manga do vestido, e, em vez de a esganar, dançaria com ela uma valsa de Strauss ou uma polca de ***. Logo depois, ria destes delírios, porque, a despeito da melancolia da moça, os olhos que ela erguia para ele eram de quem sonhou e pensou muito na pessoa, e agora cuida de descobrir se é a mesma do sonho e do pensamento. Assim lhe parecia ao estudante de direito; pelo que, quando ele desviava o rosto, era para repetir a experiência e tornar a ver-lhe os olhos aguçados do mesmo espírito crítico e de livre exame. Quanto ao tempo que os três gastaram nessa agitação de compras e escolhas, visões e comparações, não há memória dele, nem necessidade. Tempo é propriamente ofício de relógio, e nenhum deles consultou o relógio que trazia.
 
-### Capítulo LVIII
-
-Matar saudades
+### 058 — Matar Saudades
 
 Ora bem, acabas de ver como Flora recebeu o irmão de Pedro; tal qual recebia o irmão de Paulo. Ambos eram apóstolos. Paulo achava-a agora mais bonita que alguns meses antes, e disse-lho nessa mesma tarde em S. Clemente, com esta palavra familiar e cordial:
 
@@ -1899,9 +1783,7 @@ As saudades morreram, não todas, nem logo, logo, mas em parte e tão vagarosame
 
 Não acabou o gesto, não o começou sequer; abriu e fechou os dedos apenas, enquanto sorria para sacudir tristezas, e deixou-se estar a matar saudades.
 
-### Capítulo LIX
-
-Noite de 14
+### 059 — Noite de 14
 
 Tudo se explicou à noite, em casa da família Santos. O ex-presidente de província confessou as esperanças de uma investidura nova; a esposa afirmou a eminência do ato. Daí a publicidade da notícia, que pouco antes D. Cláudia só dizia em segredo. Já não havia segredos que calar.
 
@@ -1947,13 +1829,11 @@ Que o Diabo a entenda, se puder; eu, que sou menos que ele, não acerto de a ent
 
 Isto feito, Aires meteu-se na cama, rezou uma ode do seu Horácio e fechou os olhos. Nem por isso dormiu. Tentou então uma página do seu Cervantes, outra do seu Erasmo, fechou novamente os olhos, até que dormiu. Pouco foi; às cinco horas e quarenta minutos estava de pé. Em novembro, sabes que é dia.
 
-### Capítulo LX
-
-Manhã de 15
+### 060 — Manhã de 15
 
 Quando lhe acontecia o que ficou contado, era costume de Aires sair cedo, a espairecer. Nem sempre acertava. Desta vez foi ao Passeio Público. Chegou às sete horas e meia, entrou, subiu ao terraço e olhou para o mar. O mar estava crespo. Aires começou a passear ao longo do terraço, ouvindo as ondas, e chegando-se à borda, de quando em quando, para vê-las bater e recuar. Gostava delas assim; achava-lhes uma espécie de alma forte, que as movia para meter medo à terra. A água, enroscando-se em si mesma, dava-lhe uma sensação, mais que de vida, de pessoa também, a que não faltavam nervos nem músculos, nem a voz que bradava as suas cóleras.
 
-Enfim, cansou e desceu, foi-se ao lago, ao arvoredo e passeou à toa, revivendo homens e coisas, até que se sentou em um banco. Notou que a pouca gente que havia ali não estava sentada, como de costume, olhando à toa, lendo gazetas ou cochilando a vigília de uma noite sem cama. Estava de pé, falando entre si, e a outra que entrava ia pegando na conversação sem conhecer os interlocutores; assim lhe pareceu, ao menos. Ouviu umas palavras soltas, Deodoro, 77 batalhões, campo, ministério, etc. Algumas, ditas em tom alto, vinham acaso para ele, a ver se lhe espertavam a curiosidade, e se obtinham mais uma orelha às notícias. Não juro que assim fosse, porque o dia vai longe, e as pessoas não eram conhecidas. O próprio Aires, se tal coisa suspeitou, não a disse a ninguém; também não afiou o ouvido para alcançar o resto. Ao contrário, lembrando-lhe algo particular, escreveu a lápis uma nota na carteira. Tanto bastou para que os curiosos se dispersassem, não sem algum epíteto de louvor, uns ao governo, outros ao exército: podia ser amigo de um ou de outro.
+Enfim, cansou e desceu, foi-se ao lago, ao arvoredo e passeou à toa, revivendo homens e coisas, até que se sentou em um banco. Notou que a pouca gente que havia ali não estava sentada, como de costume, olhando à toa, lendo gazetas ou cochilando a vigília de uma noite sem cama. Estava de pé, falando entre si, e a outra que entrava ia pegando na conversação sem conhecer os interlocutores; assim lhe pareceu, ao menos. Ouviu umas palavras soltas, Deodoro, batalhões, campo, ministério, etc. Algumas, ditas em tom alto, vinham acaso para ele, a ver se lhe espertavam a curiosidade, e se obtinham mais uma orelha às notícias. Não juro que assim fosse, porque o dia vai longe, e as pessoas não eram conhecidas. O próprio Aires, se tal coisa suspeitou, não a disse a ninguém; também não afiou o ouvido para alcançar o resto. Ao contrário, lembrando-lhe algo particular, escreveu a lápis uma nota na carteira. Tanto bastou para que os curiosos se dispersassem, não sem algum epíteto de louvor, uns ao governo, outros ao exército: podia ser amigo de um ou de outro.
 
 Quando Aires saiu do Passeio Público, suspeitava alguma coisa, e seguiu até o largo da Carioca. Poucas palavras e sumidas, gente parada, caras espantadas, vultos que arrepiavam caminho, mas nenhuma notícia clara nem completa. Na rua do Ouvidor, soube que os militares tinham feito uma revolução, ouviu descrições da marcha e das pessoas, e notícias desencontradas. Voltou ao largo, onde três tílburis o disputaram; ele entrou no que lhe ficou mais à mão, e mandou tocar para o Catete. Não perguntou nada ao cocheiro; este é que lhe disse tudo e o resto. Falou de uma revolução, de dois ministros mortos, um fugido, os demais presos. O imperador, capturado em Petrópolis, vinha descendo a serra.
 
@@ -1975,11 +1855,9 @@ Chegavam justamente à porta de Aires; este mandou parar o veículo, pagou pela 
 
 — A morte é um fenômeno igual à vida; talvez os mortos vivam. Em todo caso, não lhes rezes por alma, porque não és bom católico, José.
 
-## Capítulos 61 a 70
+## Capítulos 061 — 070
 
-### Capítulo LXI
-
-Lendo Xenofonte
+### 061 — Lendo Xenofonte
 
 Como é que, tendo ouvido falar da morte de dois e três ministros, Aires afirmou apenas o ferimento de um, ao retificar a notícia do criado? Só se pode explicar de dois modos - ou por um nobre sentimento de piedade, ou pela opinião de que toda a notícia pública cresce de dois terços, ao menos. Qualquer que fosse a causa, a versão do ferimento era a única verdadeira. Pouco depois passava pela rua do Catete a padiola que levava um ministro, ferido. Sabendo que os outros estavam vivos e sãos e o imperador era esperado de Petrópolis, não acreditou na mudança de regímen que ouvira ao cocheiro de tílburi e ao criado José. Reduziu tudo a um movimento que ia acabar com a simples mudança de pessoal.
 
@@ -1987,9 +1865,7 @@ Como é que, tendo ouvido falar da morte de dois e três ministros, Aires afirmo
 
 Almoçou tranquilo, lendo Xenofonte: "Considerava eu um dia quantas repúblicas têm sido derribadas por cidadãos que desejam outra espécie de governo, e quantas monarquias e oligarquias são destruídas pela sublevação dos povos; e de quantos sobem ao poder, uns são depressa derribados, outros, se duram, são admirados por hábeis e felizes..." Sabes a conclusão do autor, em prol da tese de que o homem é difícil de governar; mas logo depois a pessoa de Ciro destrói aquela conclusão, mostrando um só homem que regeu milhões de outros, os quais não só o temiam, mas ainda lutavam por lhe fazer as vontades. Tudo isto em grego, e com tal pausa que ele chegou ao fim do almoço, sem chegar ao fim do primeiro capítulo.
 
-### Capítulo LXII
-
-"Pare no D."
+### 062 — "Pare no D."
 
 — Mas, S. Ex. a está almoçando, dizia o criado no patamar da escada a alguém que pedia para falar ao conselheiro.
 
@@ -2041,9 +1917,7 @@ Custódio enfiou um casaco de alpaca e voou à rua da Assembleia. Lá estava a t
 
 Custódio quis repudiar a obra, mas o pintor ameaçou de pôr o número da confeitaria e o nome do dono na tabuleta, e expô-la assim, para que os revolucionários lhe fossem quebrar as vidraças do Catete. Não teve remédio senão capitular. Que esperasse; ia pensar na substituição; em todo caso, pedia algum abate no preço. Alcançou a promessa do abate e voltou a casa. Em caminho, pensou no que perdia mudando de título - uma casa tão conhecida, desde anos e anos! Diabos levassem a revolução! Que nome lhe poria agora? Nisso lembrou-lhe o vizinho Aires e correu a ouvi-lo.
 
-### Capítulo LXIII
-
-Tabuleta nova
+### 063 — Tabuleta Nova
 
 Referido o que lá fica atrás, Custódio confessou tudo o que perdia no título e na despesa, o mal que lhe trazia a conservação do nome da casa, a impossibilidade de achar outro, um abismo, em suma. Não sabia que buscasse; faltava-lhe invenção e paz de espírito. Se pudesse, liquidava a confeitaria. E afinal que tinha ele com política? Era um simples fabricante e vendedor de doces, estimado, afreguesado, respeitado, e principalmente respeitador da ordem pública...
 
@@ -2075,7 +1949,7 @@ Custódio recusou o charuto, não fumava. Aceitou a cadeira. Estava no gabinete 
 
 — Não digo que não, e, a não ser a despesa perdida... Há, porém, uma razão contra. V. Ex. a sabe que nenhum governo deixa de ter oposição. As oposições, quando descerem à rua, podem implicar comigo, imaginar que as desafio, e quebrarem-me a tabuleta; entretanto, o que eu procuro é o respeito de todos.
 
-Aires compreendeu bem que o terror ia com a avareza. Certo, o vizinho não queria barulhos à porta, nem malquerenças gratuitas, nem ódios de quem quer que fosse; mas, não o afligia menos a despesa que teria de fazer de quando em quando, se não achasse um título definitivo, popular e imparcial. Perdendo o que tinha, já perdia a celebridade, além de perder a pintura e pagar mais dinheiro. Ninguém lhe compraria uma tabuleta condenada. Já era muito ter o nome e o título no Almanaque de Laemmert, 79 onde podia lê-lo algum abelhudo e ir com outros, puni-lo do que estava impresso desde o princípio do ano...
+Aires compreendeu bem que o terror ia com a avareza. Certo, o vizinho não queria barulhos à porta, nem malquerenças gratuitas, nem ódios de quem quer que fosse; mas, não o afligia menos a despesa que teria de fazer de quando em quando, se não achasse um título definitivo, popular e imparcial. Perdendo o que tinha, já perdia a celebridade, além de perder a pintura e pagar mais dinheiro. Ninguém lhe compraria uma tabuleta condenada. Já era muito ter o nome e o título no Almanaque de Laemmert, onde podia lê-lo algum abelhudo e ir com outros, puni-lo do que estava impresso desde o princípio do ano...
 
 — Isso não, interrompeu Aires; o senhor não há de recolher a edição de um almanaque.
 
@@ -2103,9 +1977,7 @@ Aires achou outro título, o nome da rua, "Confeitaria do Catete", sem advertir 
 
 Curvou-se, recuou e saiu. Aires foi à janela para vê-lo atravessar a rua. Imaginou que ele levaria da casa do ministro aposentado um lustre particular que faria esquecer por instantes a crise da tabuleta. Nem tudo são despesas na vida, e a glória das relações podia amaciar as agruras deste mundo. Não acertou desta vez. Custódio atravessou a rua, sem parar nem olhar para trás, e enfiou pela confeitaria dentro com todo o seu desespero.
 
-### Capítulo LXIV
-
-Paz!
+### 064 — Paz!
 
 Que, em meio de tão graves sucessos, Aires tivesse bastante pausa e claridade para imaginar tal descoberta no vizinho, só se pode explicar pela incredulidade com que recebera as notícias. A própria aflição de Custódio não lhe dera fé. Vira nascer e morrer muito boato falso. Uma de suas máximas é que o homem vive para espalhar a primeira invenção de rua, e que tudo se fará crer a cem pessoas juntas ou separadas. Só às duas horas da tarde, quando Santos lhe entrou em casa, acreditou na queda do império.
 
@@ -2143,9 +2015,7 @@ Santos aceitou o conselho, mas vai muito do aceitar ao cumprir, e a aparência e
 
 Santos saiu; tinha o carro à espera, entrou e seguiu para Botafogo. Não levava a paz consigo, não a poderia dar à mulher, nem à cunhada, nem aos filhos. Quisera chegar a casa, por medo da rua, mas quisera também ficar na rua, por não saber que palavras nem que conselhos daria aos seus. O espaço do carro era pequeno e bastante para um homem; mas, enfim, não viveria ali a tarde inteira. Ao demais, a rua estava quieta. Via gente à porta das lojas. No largo do Machado viu outra que ria, alguma calada, havia espanto, mas não havia propriamente susto.
 
-### Capítulo LXV
-
-Entre os filhos
+### 065 — Entre os Filhos
 
 Quando Santos chegou a casa, Natividade estava inquieta, sem notícia exata e definitiva dos acontecimentos. Não sabia da república. Não sabia do marido nem dos filhos. Aquele saíra antes dos primeiros rumores, estes iam fazer a mesma coisa, logo que os boatos chegaram. O primeiro gesto da mãe foi para impedir que os filhos saíssem, mas não pôde, era tarde. Não os podendo reter, pegou-se com a Virgem Maria, a fim de que os poupasse, e esperou. A irmã fez o mesmo. Era perto de meio-dia; foi então que os minutos entraram a parecer séculos.
 
@@ -2159,19 +2029,15 @@ Os filhos chegaram tarde, cada um por sua vez, e Pedro mais cedo que Paulo. A me
 
 O coração de Paulo, ao contrário, era livre, deixava circular o sangue, como a felicidade. Os sentimentos republicanos, em que os princípios se incrustavam, viviam ali tão fortes e quentes, que mal deixavam ver o abatimento de Pedro e o acanhamento da outra gente sua. Ao fim do jantar, bebeu à República, mas calado, sem ostentação, apenas olhando para o teto, e levantando o copo um tantinho mais que de costume. Ninguém replicou por outro gesto ou palavra.
 
-Certamente, o moço Pedro quis dizer alguma frase de piedade relativamente ao regímen imperial e às pessoas de Bragança, 81 mas a mãe quase que não tirava os olhos dele, como impondo ou pedindo silêncio. Demais, ele não cria nada mudado; a despeito de decretos e proclamações, Pedro imaginava que tudo podia ficar como dantes, alterado apenas o pessoal do governo. Custa pouco, dizia ele baixinho à mãe, ao deixarem a mesa; é só o imperador falar ao Deodoro.
+Certamente, o moço Pedro quis dizer alguma frase de piedade relativamente ao regímen imperial e às pessoas de Bragança, mas a mãe quase que não tirava os olhos dele, como impondo ou pedindo silêncio. Demais, ele não cria nada mudado; a despeito de decretos e proclamações, Pedro imaginava que tudo podia ficar como dantes, alterado apenas o pessoal do governo. Custa pouco, dizia ele baixinho à mãe, ao deixarem a mesa; é só o imperador falar ao Deodoro.
 
 Paulo saiu, logo depois do jantar, prometendo vir cedo. A mãe, receosa de o ver metido em barulhos, não queria que ele saísse; mas outro receio fê-la consentir, e este era que os dois irmãos brigassem finalmente. Assim um medo vence a outro, e a gente acaba por dar o que negou. Não é menos certo que ela raciocinou alguns minutos antes de resolver, do mesmo modo que eu escrevi uma página antes da que vou escrever agora; mas ambos nós, Natividade e eu, acabamos por deixar que os atos se praticassem, sem oposição dela, nem comentário meu.
 
-### Capítulo LXVI
-
-O basto e a espadilha 82
+### 066 — O Basto e a Espadilha
 
 Vieram amigos da casa, trazendo notícias e boatos. Variavam pouco e geralmente não havia opinião segura acerca do resultado. Ninguém sabia se a vitória do movimento era um bem, se um mal, apenas sabiam que era um fato. Daí a ingenuidade com que alguém propôs o voltarete do costume, e a boa vontade de outros em aceitá-lo. Santos, embora declarasse que não jogava, mandou pôr as cartas e os tentos, mas os outros opinaram que sempre faltava um parceiro, e sem ele, não havia graça. Quis resistir; não era bonito que no próprio dia em que o regímen caíra ou ia cair, entregasse o espírito a recreações de sociedade... Não pensou isto em voz alta nem baixa, mas consigo, e talvez o leu no rosto da mulher. Acharia um pretexto para resistir, se buscasse algum, mas amigos e cartas não deixavam buscar nada. Santos acabou aceitando. Provavelmente era essa mesma a inclinação íntima. Muitas há que precisam ser atraídas cá fora, como um favor ou concessão da pessoa. Enfim, o basto e a espadilha fizeram naquela noite o seu ofício, como as mariposas e os ratos, os ventos e as ondas, o lume das estrelas e o sono dos cidadãos.
 
-### Capítulo LXVII
-
-A noite inteira
+### 067 — A Noite Inteira
 
 Saindo de casa, Paulo foi à de um amigo, e os dois entraram a buscar outros da mesma idade e igual intimidade. Foram aos jornais, ao quartel do Campo, e passaram algum tempo diante da casa de Deodoro. Gostavam de ver os soldados, a pé ou a cavalo, pediam licença, falavam-lhes, ofereciam cigarros. Era a única concessão destes; nenhum lhes contou o que se passara, nem todos saberiam nada.
 
@@ -2207,15 +2073,11 @@ Enquanto a cabeça de Paulo ia formulando essas ideias, a de Pedro ia pensando o
 
 A reticência final dos discursos de ambos quer dizer que as ideias se iam tornando esgarçadas, nevoentas e repetidas, até que se perderam e eles dormiram. Durante o sono, cessou a revolução e a contrarrevolução, não houve monarquia nem república, D. Pedro ii nem marechal Deodoro, nada que cheirasse a política. Um e outro sonharam com a bela enseada de Botafogo, um céu claro, uma tarde clara e uma só pessoa: Flora.
 
-### Capítulo LXVIII
-
-De manhã
+### 068 — De Manhã
 
 Flora abriu os olhos de ambos, e esvaiu-se tão depressa que eles mal puderam ver a barra do vestido e ouvir uma palavrinha meiga e remota. Olharam um para o outro, sem rancor aparente. O receio de um e a esperança de outro deram tréguas. Correram aos jornais. Paulo, meio tonto, temia alguma traição sobre a madrugada. Pedro tinha uma ideia vaga de restauração, e contava ler nas folhas um decreto imperial da anistia. Nem traição nem decreto. A esperança e o receio fugiram deste mundo.
 
-### Capítulo LXIX
-
-Ao piano
+### 069 — Ao Piano
 
 Enquanto eles sonhavam com Flora, esta não sonhou com a república. Teve uma daquelas noites em que a imaginação dorme também, sem olhos nem ouvidos, ou, quando muito, a retina não deixa ver claro, e as orelhas confundem o som de um rio com o latir de um cão remoto. Não posso dar melhor definição, nem ela é precisa; cada um de nós terá tido dessas noites mudas e apagadas.
 
@@ -2225,11 +2087,9 @@ Flora não era avessa à piedade, nem à esperança, como sabeis; mas não ia co
 
 — Lá, lá, dó, ré, sol, ré, ré, lá, ia dizendo o piano da filha, por essas ou por outras notas, mas eram notas que vibravam para fugir aos homens e suas dissensões.
 
-Também se pode achar na sonata de Flora uma espécie de acordo com a hora presente. Não havia governo definitivo. A alma da moça ia com esse primeiro albor do dia, ou com esse derradeiro crepúsculo da tarde - como queiras - em que nada é tão claro ou tão escuro que convide a deixar a cama ou acender velas. Quando muito, ia haver um governo provisório. Flora não entendia de formas nem de nomes. A sonata trazia a sensação da falta absoluta de governo, a anarquia da inocência primitiva naquele recanto do Paraíso que o homem perdeu por desobediente, e um dia ganhará, quando a perfeição trouxer a ordem eterna e única. Não haverá então progresso nem regresso, mas estabilidade. O seio de Abraão 84 agasalhará todas as coisas e pessoas, e a vida será um céu aberto. Era o que as teclas lhe diziam sem palavras, ré, ré, lá, sol, lá, lá, dó...
+Também se pode achar na sonata de Flora uma espécie de acordo com a hora presente. Não havia governo definitivo. A alma da moça ia com esse primeiro albor do dia, ou com esse derradeiro crepúsculo da tarde - como queiras - em que nada é tão claro ou tão escuro que convide a deixar a cama ou acender velas. Quando muito, ia haver um governo provisório. Flora não entendia de formas nem de nomes. A sonata trazia a sensação da falta absoluta de governo, a anarquia da inocência primitiva naquele recanto do Paraíso que o homem perdeu por desobediente, e um dia ganhará, quando a perfeição trouxer a ordem eterna e única. Não haverá então progresso nem regresso, mas estabilidade. O seio de Abraão agasalhará todas as coisas e pessoas, e a vida será um céu aberto. Era o que as teclas lhe diziam sem palavras, ré, ré, lá, sol, lá, lá, dó...
 
-### Capítulo LXX
-
-De uma conclusão errada
+### 070 — De uma Conclusão Errada
 
 Os sucessos vieram vindo, à medida que as flores iam nascendo. Destas houve que serviram ao último baile do ano. Outras morreram na véspera. Poetas de um e outro regímen tiraram imagem do fato para cantarem a alegria e a melancolia do mundo. A diferença é que a segunda abafava os seus suspiros, enquanto a primeira levava longe os seus tripúdios. O metal das trompas dava outro som que o das harpas. As flores é que continuavam a nascer e morrer, igual e regularmente.
 
@@ -2267,11 +2127,9 @@ Flora só se lembrava dos gêmeos. Se nenhum deles a esqueceu, ela não os perde
 
 Tais eram de longe, ela e eles. A rixa velha, que os desunia na vida, continuava a desuni-los no amor. Podiam amar cada um a sua moça, casar com ela e ter os seus filhos, mas preferiam amar a mesma, e não ver o mundo por outros olhos, nem ouvir melhor verbo, nem diversa música, antes, durante e depois da comissão do Batista.
 
-## Capítulos 71 a 80
+## Capítulos 071 — 080
 
-### Capítulo LXXI
-
-A comissão
+### 071 — A Comissão
 
 Lá me escapou a palavra. Sim, foi uma comissão dada ao pai, e da qual não sei nada, nem ela. Negócio reservado. Flora chamava-lhe comissão do inferno. O pai, sem ir tão fundo, concordava mentalmente com ela; verbalmente, desmentia a definição.
 
@@ -2281,11 +2139,9 @@ Creio que sim, mas daí a saber o objeto especial e real, ia largo espaço. Tamb
 
 Quanto a D. Cláudia, não queria ver acabada a comissão, que restituía ao esposo a ação política; faltava-lhe somente uma coisa, oposição. Nenhum jornal dizia mal dele. Aquele prazer de ler todas as manhãs as descomposturas dos adversários, lê-las e relê-las com os seus nomes feios, como látegos de muitas pontas, que lhe rasgavam as carnes e a excitavam ao mesmo tempo, esse prazer não lhe dava a comissão reservada. Ao contrário, havia uma espécie de aposta em achar o comissário justo, equitativo e conciliador, digno de admiração, tipo cívico, caráter sem mácula. Tudo isto ela conheceu outrora, mas para lhe achar sabor foi sempre preciso que viesse entremeado de ralhos e calúnias. Sem eles, era água insossa. Também não tinha aquela parte de cerimônias a que obrigava o sumo cargo, mas não lhe faltavam atenções, e era alguma coisa.
 
-### Capítulo LXXII
+### 072 — O Regresso
 
-O regresso
-
-Quando o marechal Deodoro dissolveu o congresso nacional, em 3 de novembro, 86 Batista recordou o tempo dos manifestos liberais, e quis fazer um. Chegou a principiá-lo, em segredo, empregando as belas frases que trazia de cor, citações latinas, duas ou três apóstrofes. D. Cláudia reteve-o à beira do abismo, com razões claras e robustas. Antes de tudo, o golpe de Estado podia ser um benefício. Serve-se muita vez a liberdade parecendo sufocá-la. Depois, era o mesmo homem que a havia proclamado que convidava agora a nação a dizer o que queria, e a emendar a constituição, salvo nas partes essenciais. A palavra do generalíssimo, como a sua espada, bastava a defender e consumar a obra principiada. D. Cláudia não tinha estilo próprio, mas sabia comunicar o calor do discurso ao coração de um homem de boa vontade. Batista, depois de a escutar e pensar, bateu-lhe no ombro imperativamente.
+Quando o marechal Deodoro dissolveu o congresso nacional, em 3 de novembro, Batista recordou o tempo dos manifestos liberais, e quis fazer um. Chegou a principiá-lo, em segredo, empregando as belas frases que trazia de cor, citações latinas, duas ou três apóstrofes. D. Cláudia reteve-o à beira do abismo, com razões claras e robustas. Antes de tudo, o golpe de Estado podia ser um benefício. Serve-se muita vez a liberdade parecendo sufocá-la. Depois, era o mesmo homem que a havia proclamado que convidava agora a nação a dizer o que queria, e a emendar a constituição, salvo nas partes essenciais. A palavra do generalíssimo, como a sua espada, bastava a defender e consumar a obra principiada. D. Cláudia não tinha estilo próprio, mas sabia comunicar o calor do discurso ao coração de um homem de boa vontade. Batista, depois de a escutar e pensar, bateu-lhe no ombro imperativamente.
 
 — Tens razão, filha.
 
@@ -2303,7 +2159,7 @@ Conservou-se calado, operando, fiel às instruções recebidas. Vinte dias depoi
 
 Ao saber de tais fatos, Batista pensou morrer. Ficou sem fala por alguns instantes, e D. Cláudia não achou a menor parcela de ânimo que lhe desse. Nenhum contara com a marcha rápida dos acontecimentos, uns sobre outros, com tal atropelo que parecia um bando de gente que fugia. Vinte dias apenas; vinte dias de força e sossego, esperanças e grande futuro. Um dia mais e tudo ruiu como casa velha.
 
-Agora é que Batista compreendeu o erro de haver dado ouvidos à esposa. Se tem acabado e publicado o manifesto no dia 4 ou 5, estaria com um documento de resistência na mão para reivindicar um posto de honra qualquer - ou só estima que fosse. Releu o manifesto; chegou a pensar em imprimi-lo, embora incompleto. Tinha conceitos bons, como este: "O dia da opressão é a véspera da liberdade." Citava a bela Roland caminhando para a guilhotina: "Ó liberdade, quantos crimes em teu nome!" D. Cláudia fez-lhe ver que era tarde, e ele concordou.
+Agora é que Batista compreendeu o erro de haver dado ouvidos à esposa. Se tem acabado e publicado o manifesto no dia 4 ou, estaria com um documento de resistência na mão para reivindicar um posto de honra qualquer - ou só estima que fosse. Releu o manifesto; chegou a pensar em imprimi-lo, embora incompleto. Tinha conceitos bons, como este: "O dia da opressão é a véspera da liberdade." Citava a bela Roland caminhando para a guilhotina: "Ó liberdade, quantos crimes em teu nome!" D. Cláudia fez-lhe ver que era tarde, e ele concordou.
 
 — Sim, é tarde. Naquele dia é que não era tarde, vinha à hora própria, para o efeito certo.
 
@@ -2319,9 +2175,7 @@ D. Cláudia, a despeito do amargor dos tempos, gostou de ver que a filha pensava
 
 Ambos se lhe apresentaram a bordo, logo que o paquete entrou no porto do Rio de Janeiro. Não foram em duas lanchas, foram na mesma, e saltaram com tal presteza para a escada, que escaparam de cair ao mar. Talvez fosse o melhor desfecho do livro. Ainda assim não acaba mal o capítulo, porque a razão da presteza com que eles saltaram para a escada foi a ambição de ser o primeiro que cumprimentasse a moça; aposta de amor, que ainda uma vez os igualou na alma dela. Enfim chegaram, e não consta qual efetivamente a cumprimentou primeiro; pode ser que ambos.
 
-### Capítulo LXXIII
-
-Um Eldorado
+### 073 — Um Eldorado
 
 No cais Pharoux esperavam por eles três carruagens - dois coupé s e um landau, com três belas parelhas de cavalos. A gente Batista ficou lisonjeada com a fineza da gente Santos, e entrou no landau. Os gêmeos foram cada um no seu coupé. A primeira carruagem tinha o seu cocheiro e o seu lacaio, fardados de castanho, botões de metal branco, em que se podiam ver as armas da casa. Cada uma das outras tinha apenas o cocheiro, com igual libré. E todas três se puseram a andar, estas atrás daquela, os animais batendo rijo e compassado, a golpes certos, como se houvessem ensaiado, por longos dias, aquela recepção. De quando em quando, encontravam outros trens, outras librés, outras parelhas, a mesma beleza e o mesmo luxo.
 
@@ -2335,9 +2189,7 @@ O que parece ser verdade é que as nossas carruagens brotavam do chão. Às tard
 
 "Casos há - escrevia o nosso Aires - em que a impassibilidade do cocheiro na boleia contrasta com a agitação do dono no interior da carruagem, fazendo crer que é o patrão que, por desfastio, trepou à boleia e leva o cocheiro a passear."
 
-### Capítulo LXXIV
-
-A alusão do texto
+### 074 — A Alusão do Texto
 
 Antes de continuar, é preciso dizer que o nosso Aires não se referia vagamente ou de modo genérico a algumas pessoas, mas a uma só pessoa particular. Chamava-se então Nóbrega; outrora não se chamava nada, era aquele simples andador das almas que encontrou Natividade e Perpétua na rua de S. José, esquina da da Misericórdia. Não esqueceste que a recente mãe deitou uma nota de dois mil-réis à bacia do andador. A nota era nova e bela; passou da bacia à algibeira, no fundo de um corredor, não sem algum combate.
 
@@ -2363,9 +2215,7 @@ Não, leitor, não me apanhas em contradição. Eu bem sei que a princípio o an
 
 Também não há contradição em pôr a santa agora e a namorada outrora. Era mais natural o contrário, quando era maior a intimidade dele com igreja. Mas, leitor dos meus pecados, amava-se muito em 1871, como já se amava em 1861, 1851 e 1841, não menos que em 1881, 1891 e 1901. O século dirá o resto. E depois, é preciso não esquecer que a opinião do andador das almas acerca de Natividade foi anterior ao gesto do corredor, quando ele agasalhou a nota na algibeira. É duvidoso que, depois do gesto, a opinião fosse a mesma.
 
-### Capítulo LXXV
-
-Provérbio errado
+### 075 — Provérbio Errado
 
 Pessoa a quem li confidencialmente o capítulo passado, escreve-me dizendo que a causa de tudo foi a cabocla do Castelo. Sem as suas predições grandiosas, a esmola de Natividade seria mínima ou nenhuma, e o gesto do corredor não se daria por falta de nota. "A ocasião faz o ladrão", conclui o meu correspondente.
 
@@ -2373,9 +2223,7 @@ Não conclui mal. Há todavia alguma injustiça ou esquecimento porque as razõe
 
 — Não é a ocasião que faz o ladrão, dizia ele a alguém; o provérbio está errado. A forma exata deve ser esta: "A ocasião faz o furto; o ladrão nasce feito."
 
-### Capítulo LXXVI
-
-Talvez fosse a mesma!
+### 076 — Talvez Fosse a Mesma!
 
 Nóbrega saiu enfim do corredor, mas foi obrigado a deter-se, porque uma mulher lhe estendia a mão:
 
@@ -2391,15 +2239,13 @@ Quando a mendiga voltou do espanto, Nóbrega acabava de restituir o maço à alg
 
 E beijava a nota, e queria beijar a mão que lhe dera a esmola, mas ele a escondeu, como no Evangelho, murmurando que não, que se fosse embora. Em verdade, a palavra da mendiga tinha um som quase místico, uma espécie de melodia do céu, um coro de anjos, e fazia bem fitar-lhe os olhos encarquilhados, a mão trêmula, segurando a nota. Nóbrega não esperou que ela se fosse, saiu, desceu a rua, com as bênçãos da mulher atrás de si; dobrou a esquina, a passo rápido e aí foi pensando não se sabe em quê.
 
-Atravessou a praça, passou a catedral e a igreja do Carmo, e chegou ao Carceler, 92 onde entregou as botas a um italiano para que lhas engraxasse. Mentalmente, olhava para cima ou para baixo, para a direita ou para esquerda - em todo caso para longe -, e acabou murmurando esta frase, que tanto podia referir-se à nota como à mendiga, mas provavelmente era à nota:
+Atravessou a praça, passou a catedral e a igreja do Carmo, e chegou ao Carceler, onde entregou as botas a um italiano para que lhas engraxasse. Mentalmente, olhava para cima ou para baixo, para a direita ou para esquerda - em todo caso para longe -, e acabou murmurando esta frase, que tanto podia referir-se à nota como à mendiga, mas provavelmente era à nota:
 
 — Talvez fosse a mesma!
 
 Nenhum obséquio, por ínfimo que seja, esquece ao beneficiado. Há exceções. Também há casos em que a memória dos obséquios aflige, persegue e morde, como os mosquitos; mas não é regra. A regra é guardá-los na memória, como as joias nos seus escrínios; comparação justa, porque o obséquio é muita vez alguma joia, que o obsequiado esqueceu de restituir.
 
-### Capítulo LXXVII
-
-Hospedagem
+### 077 — Hospedagem
 
 A família Batista foi aposentada em casa de Santos. Natividade não pôde ir a bordo, e o marido estava ocupado em "lançar uma companhia"; mandaram recado pelos filhos que a casa de Botafogo tinha já os quartos preparados. Desde que o carro se pôs a andar, Batista confessou que ia ficar constrangido por alguns dias.
 
@@ -2423,9 +2269,7 @@ Santos recebeu-os, à tarde, com a mesma cordialidade - talvez menos aparente, m
 
 No dia seguinte, antes de almoçar, mostrou ao hóspede o programa e os estatutos. As ações eram maços e maços, e Santos ia dizendo o valor de cada um. Batista somava mal, em regra; daquela vez, pior. Mas os algarismos cresciam à vista, trepavam uns nos outros, enchiam o espaço, desde o chão até às janelas, e precipitavam-se por elas abaixo, com um rumor de ouro que ensurdecia. Batista saiu dali fascinado, e foi repetir tudo à mulher.
 
-### Capítulo LXXVIII
-
-Visita ao marechal
+### 078 — Visita ao Marechal
 
 D. Cláudia, quando ele acabou, perguntou-lhe com simplicidade:
 
@@ -2491,9 +2335,7 @@ Com efeito, a última palavra podia abranger as duas, e trazia esta vantagem de 
 
 D. Cláudia deixou-se estar pensando. A recepção não lhe pareceu que fosse má, mas podia ser melhor. Com ela, seria muito melhor.
 
-### Capítulo LXXIX
-
-Fusão, difusão, confusão...
+### 079 — Fusão, Difusão, Confusão...
 
 Atrás falei das alucinações de Flora. Realmente, eram extraordinárias.
 
@@ -2507,9 +2349,7 @@ Se alguém quiser explicar este fenômeno pela lei da hereditariedade, supondo q
 
 A filha obedeceria a outra causa qualquer, que se não podia descobrir logo, nem sequer entender. Era um espetáculo misterioso, vago, obscuro, em que as figuras visíveis se faziam impalpáveis, o dobrado ficava único, o único desdobrado, uma fusão, uma confusão, uma difusão.
 
-### Capítulo LXXX
-
-Transfusão, enfim
+### 080 — Transfusão, Enfim
 
 Uma transfusão, tudo o que puder definir melhor, pela repetição e graduação das formas e dos estados, aquele particular fenômeno, podes empregá-lo no outro e neste capítulo.
 
@@ -2521,13 +2361,11 @@ Outras vezes, a visão ficava sem o sonho, e diante dela uma só figura esbelta,
 
 A diferença deu às duas visões de acordada um tal cunho de fantasmagoria que Flora teve medo e pensou no Diabo.
 
-## Capítulos 81 a 90
+## Capítulos 081 — 090
 
-### Capítulo LXXXI
+### 081 — Ai, Duas Almas...
 
-Ai, duas almas...
-
-Anda, Flora, ajuda-me, citando alguma coisa, verso ou prosa, que exprima a tua situação. Cita Goethe, amiga minha, cita um verso do Fausto, 93 adequado:
+Anda, Flora, ajuda-me, citando alguma coisa, verso ou prosa, que exprima a tua situação. Cita Goethe, amiga minha, cita um verso do Fausto, adequado:
 
 Ai, duas almas no meu seio moram!
 
@@ -2547,9 +2385,7 @@ Venceram estes, ficando mui poucos fiéis à doutrina do velho Plácido. Evocado
 
 Talvez o velho Plácido deslindasse o problema em cinco minutos. Mas para isso era preciso evocá-lo, e o discípulo Santos cuidava agora de umas liquidações últimas e lucrativas. Não só de fé vive o homem, mas também de pão e seus compostos e similares.
 
-### Capítulo LXXXII
-
-Em S. Clemente
+### 082 — Em S. Clemente
 
 Ao cabo de poucas semanas, a família Batista saiu da casa Santos, e tornou à rua de S. Clemente. A despedida foi terna, as saudades começaram antes da separação, mas a afeição, o costume, a estima - a necessidade, em suma, de se verem a miúdo compensaram a melancolia, e a gente Batista levou promessa de que a gente Santos iria vê-la daí a poucos dias.
 
@@ -2557,9 +2393,7 @@ Os gêmeos cumpriram cedo a promessa. Um deles, parece que Paulo, foi lá nessa 
 
 Paulo saiu tarde, não só para o fim de aproveitar a ausência de Pedro, mas ainda porque Flora o fazia demorar, com o intuito de ver se o outro chegava. Assim que, a mesma dualidade de sensação enchia os olhos da moça, até à hora da despedida, em que a parte triste foi maior que a alegre, pois que eram duas ausências, em vez de uma. Conclui o que quiseres, minha dona; ela recolheu-se para dormir, e reconheceu que, se se não dorme com uma tristeza na alma, muito menos com duas.
 
-### Capítulo LXXXIII
-
-A grande noite
+### 083 — A Grande Noite
 
 Há muito remédio contra a insônia. O mais vulgar é contar de um até mil, dois mil, três mil ou mais, se a insônia não ceder logo. É remédio que ainda não fez dormir ninguém, ao que parece, mas não importa. Até agora, todas as aplicações eficazes contra a tísica vão de par com a noção de que a tísica é incurável. Convém que os homens afirmem o que não sabem, e, por ofício, o contrário do que sabem; assim se forma esta outra incurável, a Esperança.
 
@@ -2593,9 +2427,7 @@ A lamparina apagou-se. Foi acendê-la. Viu então que estava sem um nem outro, s
 
 Meteu-se na cama, e, se não dormiu logo, também não se demorou muito; não tardou a estar com os anjos. Sonhou com o canto dos galos, uma carroça, um lago, uma cena de viagem do mar, um discurso e um artigo. O artigo era de verdade. A mãe veio acordá-la, às dez horas da manhã, chamando-lhe dorminhoca, e ali mesmo, na cama, lhe leu uma folha da manhã que recomendava o marido ao governo. Flora ouviu satisfeita; acabara a grande noite.
 
-### Capítulo LXXXIV
-
-O velho segredo
+### 084 — O Velho Segredo
 
 Natividade dormiu tranquila, em Botafogo, mas acordou pensando nos filhos e na moça de S. Clemente. Viera reparando nos três. Parecera-lhe antes que Flora não aceitava um nem outro, logo depois que os aceitava a ambos, e mais tarde um e outro alternadamente. Concluiu que ainda não sentiria nada particular e decisivo; naturalmente iria com os tempos, a ver qual destes a merecia deveras. Eles é que pareciam sentir igual inclinação e igual ciúme. Daí alguma possível catástrofe. A separação não suprimiria tudo; mas, além de que, separadas as famílias, nem tudo seria presente a seus olhos, as visitas podiam ser menos frequentes e até raras. Tinha assim o que quisera.
 
@@ -2617,9 +2449,7 @@ Perpétua parecia haver comprado os olhos à cabocla. Enfiava-os pela amiga abai
 
 Perpétua acrescentou que, mudado o regímen, era natural que Paulo chegasse primeiro à grandeza - e aqui espetou bem os olhos. Era um modo de apanhar os sentimentos de Flora, acenando-lhe com a elevação de Paulo, pois bem podia ser que viesse a amar antes o destino que a pessoa. Não achou nada. Flora continuou a não se deixar ler. Não lhe atribuas isto a cálculo, não era cálculo. Seriamente, não pensava em nada acima de si.
 
-### Capítulo LXXXV
-
-Três constituições
+### 085 — Três Constituições
 
 — Você crê deveras que venhamos a ser grandes homens? perguntara Pedro a Paulo, antes da queda do império.
 
@@ -2631,19 +2461,15 @@ Depois de 15 de novembro, Paulo retorquiu a pergunta, e Pedro respondeu como o i
 
 Já lá iam dois anos. Agora pensavam mais em Flora que na subida. A boa moral pede que ponhamos a coisa pública acima das pessoais, mas os moços nisto se parecem com velhos e varões de outra idade, que muita vez pensam mais em si que em todos. Há exceções, nobres algumas, outras nobilíssimas. A história guarda muitas delas, e os poetas, épicos e trágicos, estão cheios de casos e modelos de abnegação.
 
-Praticamente, seria exigir muito de Pedro e Paulo que cuidassem mais da constituição de 24 de fevereiro 94 que da moça Batista. Pensavam em ambas, é verdade, e a primeira já dera lugar a alguma troca de palavras acerbas. A constituição, se fosse gente viva, e estivesse ao pé deles, ouviria os ditos mais contrários deste mundo, porque Pedro ia ao ponto de a achar um poço de iniquidades, e Paulo a própria Minerva nascida da cabeça de Jove. Falo por metáfora para não descair do estilo. Em verdade, eles empregavam palavras menos nobres e mais enfáticas, e acabavam trocando as primeiras entre si. Na rua, onde o encontro de manifestações políticas era comum, e as notícias à porta dos jornais frequente, tudo era ocasião de debate.
+Praticamente, seria exigir muito de Pedro e Paulo que cuidassem mais da constituição de 24 de fevereiro que da moça Batista. Pensavam em ambas, é verdade, e a primeira já dera lugar a alguma troca de palavras acerbas. A constituição, se fosse gente viva, e estivesse ao pé deles, ouviria os ditos mais contrários deste mundo, porque Pedro ia ao ponto de a achar um poço de iniquidades, e Paulo a própria Minerva nascida da cabeça de Jove. Falo por metáfora para não descair do estilo. Em verdade, eles empregavam palavras menos nobres e mais enfáticas, e acabavam trocando as primeiras entre si. Na rua, onde o encontro de manifestações políticas era comum, e as notícias à porta dos jornais frequente, tudo era ocasião de debate.
 
 Quando, porém, a imagem de Flora aparecia entre eles por imaginação, o debate esmorecia, mas as injúrias continuavam e até cresciam, sem confissão do novo motivo, que era ainda maior que o primeiro. Efetivamente, eles iam chegando ao ponto em que dariam as duas constituições, a republicana e a imperial, pelo amor exclusivo da moça, se tanto fosse exigido. Cada um faria com ela a sua constituição, melhor que outra qualquer deste mundo.
 
-### Capítulo LXXXVI
-
-Antes que me esqueça
+### 086 — Antes que Me Esqueça
 
 Uma coisa é preciso dizer antes que me esqueça. Sabes que os dois gêmeos eram belos e continuavam parecidos; por esse lado não supunham ter motivo de inveja entre si. Ao contrário, um e outro achavam em si qualquer coisa que acentuava, senão melhorava, as graças comuns. Não era verdade, mas não é a verdade que vence, é a convicção. Convence-te de uma ideia, e morrerás por ela, escreveu Aires por esse tempo no Memorial, e acrescentou: "nem é outra a grandeza dos sacrifícios, mas se a verdade acerta com a convicção, então nasce o sublime, e atrás dele o útil..." Não acabou ou não explicou esta frase.
 
-### Capítulo LXXXVII
-
-Entre Aires e Flora
+### 087 — Entre Aires e Flora
 
 Aquela citação do velho Aires faz-me lembrar um ponto em que ele e a moça Flora divergiam ainda mais que na idade. Já contei que ela, antes da comissão do pai, defendia Pedro e Paulo, conforme estes diziam mal um do outro. Naturalmente fazia agora a mesma coisa, mas a mudança do regímen trouxe ocasião de defender também monarquistas e republicanos, segundo ouvia as opiniões de Paulo ou de Pedro. Espírito de conciliação ou de justiça, aplacava a ira ou o desdém do interlocutor: "Não diga isso... São patriotas também... Convém desculpar algum excesso..." Eram só frases, sem ímpeto de paixão nem estímulo de princípios; e o interlocutor concluía sempre:
 
@@ -2677,17 +2503,13 @@ Talvez algumas pessoas fossem conhecidas de Aires e o cumprimentassem; mas este 
 
 Flora trouxe novamente a rosa fresca e rubra da primeira hora. Não falaram mais de contradição, mas da rua, da gente e do dia. Nenhuma palavra acerca de Pedro ou Paulo.
 
-### Capítulo LXXXVIII
-
-Não, não, não
+### 088 — Não, Não, Não
 
 Eles, onde quer que estivessem naquele momento, podiam falar ou não. A verdade é que, se nenhum consentia em deixar a moça, também nenhum contava obtê-la, por mais que a achassem inclinada. Tinham já combinado que o rejeitado aceitaria a sorte, e deixaria o campo ao vencedor. Não chegando a vitória, não sabiam como resolver a batalha. Esperar, seria o mais fácil, se a paixão não crescesse, mas a paixão crescia.
 
 Talvez não fosse exatamente paixão, se dermos a esta palavra o sentido de violência; mas, se lhe reconhecermos uma forte inclinação de amor, um amor adolescente ou pouco mais, era o caso. Pedro e Paulo cederiam a mão da pequena, se houvessem de consultar só a razão, e mais de uma vez estiveram a pique de o fazer; raro lampejo, que para logo desaparecia. A ausência era já insofrível, a presença necessária. Se não fora o que aconteceu e se contará por essas páginas adiante, haveria matéria para não acabar mais o livro; era só dizer que sim e que não, e o que estes pensaram e sentiram, e o que ela sentiu e pensou, até que o editor dissesse: basta! Seria um livro de moral e de verdade, mas a história começada ficaria sem fim. Não, não, não... Força é continuá-la e acabá-la. Comecemos por dizer o que os dois gêmeos ajustaram entre si, poucos dias depois daquele sonho ou delírio da moça Flora, à noite, no quarto.
 
-### Capítulo LXXXIX
-
-O dragão
+### 089 — O Dragão
 
 Vejamos o que é que estes ajustaram. Vinham de estar com Aires no teatro, uma noite, matando o tempo. Conheceis este dragão; toda a gente lhe tem dado os mais fundos golpes que pode, ele esperneia, expira e renasce. Assim se fez naquela noite. Não sei que teatro foi, nem que peça, nem que gênero; fosse o que fosse, a questão era matar o tempo, e os três o deixaram estirado no chão.
 
@@ -2697,11 +2519,9 @@ Aires sorriu, porquanto ele também assim cuidou, aos vinte e dois anos de idade
 
 A diferença da idade era grande, não podia entrar em pormenores com eles. Ficou só em lembranças, e cuidou de outra coisa. Pedro e Paulo, entretanto, receosos de que ele os adivinhasse e compreendesse o desprezo que lhes inspiravam as saudades de tempos remotos e estranhos, pediram-lhe informações, e ele deu as que podia, sem intimidade.
 
-Ao cabo, a conversação valeu mais que este resumo, e a separação não custou pouco. Paulo ainda lhe pediu Offenbach, Pedro uma descrição das paradas de 7 de setembro e 2 de dezembro; 96 mas o diplomata achou meio de saltar ao presente e particularmente a Flora, que louvou como uma bela criatura. Os olhos de ambos concordaram que era belíssima. Também louvou as qualidades morais, a finura do espírito, tais dotes que Pedro e Paulo reconheceram também, e daí a conversação, e por fim o ajuste a que me referi no começo deste capítulo e pede outro.
+Ao cabo, a conversação valeu mais que este resumo, e a separação não custou pouco. Paulo ainda lhe pediu Offenbach, Pedro uma descrição das paradas de 7 de setembro e 2 de dezembro; mas o diplomata achou meio de saltar ao presente e particularmente a Flora, que louvou como uma bela criatura. Os olhos de ambos concordaram que era belíssima. Também louvou as qualidades morais, a finura do espírito, tais dotes que Pedro e Paulo reconheceram também, e daí a conversação, e por fim o ajuste a que me referi no começo deste capítulo e pede outro.
 
-### Capítulo XC
-
-O ajuste
+### 090 — O Ajuste
 
 — Quanto a mim, um de vocês gosta dela, senão ambos, disse Aires.
 
@@ -2741,11 +2561,9 @@ Pedro e Paulo riram do convite e da forma, e um deles propôs que, para agradar 
 
 Seguiu-se um grande silêncio. Cada um ruminava o ajuste e o modo de o propor. Enfim, de cama a cama, disseram o que lhes parecia melhor, propuseram, discutiram, emendaram e concluíram sem escritura de tabelião, apenas por aceitação de palavra. Poucas cláusulas. Confessando que não podiam assegurar a escolha de Flora, concordaram em esperar por ela durante um prazo curto; três meses. Dada a escolha, o rejeitado obrigava-se a não tentar mais nada. Como tivessem a certeza final da escolha, o acordo era fácil; cada um não faria mais que excluir o outro. Não obstante, se ao fim do prazo, nenhuma escolha houvesse, cumpria adotar uma cláusula última. A primeira que acudiu foi deixarem ambos o campo, mas não os seduziu. Lembrou-lhes recorrer à sorte, e aquele que fosse designado por ela, deixaria o campo ao rival. Assim passou uma hora de conversação, após a qual, cuidaram de dormir.
 
-## Capítulos 91 a 100
+## Capítulos 091 — 100
 
-### Capítulo XCI
-
-Nem só a verdade se deve às mães
+### 091 — Nem Só a Verdade se Deve às Mães
 
 Às nove horas da manhã seguinte, Natividade estava pronta para ir à missa que mandava dizer na matriz da Glória; nenhum dos filhos se lhe apresentou.
 
@@ -2797,9 +2615,7 @@ Na barca e em Petrópolis era objeto de conversação a diferença entre os filh
 
 A verdade é que eles faziam rumor em Petrópolis, durante as poucas horas que lá passavam. Além do mais, tinham a semelhança e a graça. As mães diziam bonitas coisas à mãe deles, e indagavam da razão verdadeira que os prendia à capital, não assim como eu digo, nu e cru, mas com arte fina e insidiosa, arte perdida, porque a mãe insistia na Biblioteca e na Santa Casa. Deste jeito, a mentira, já servida em primeira mão, era servida em segunda, e nem por isso melhor aceita.
 
-### Capítulo XCII
-
-Segredo acordado
+### 092 — Segredo Acordado
 
 Enfim, que segredo há que se não descubra? Sagacidade, boa vontade, curiosidade, chama-lhe o que quiseres, há uma força que deita cá para fora tudo o que as pessoas cuidam de esconder. Os próprios segredos cansam de calar - calar ou dormir; fiquemos com este outro verbo, que serve melhor à imagem. Cansam, e ajudam a seu modo aquilo que imputamos à indiscrição alheia.
 
@@ -2819,9 +2635,7 @@ Poucos dias depois soube que o bandido, com aquele punhal, matara o marido de um
 
 As damas continuavam a rir; ele conseguiu assim desviar a conversação de Flora e seus namorados.
 
-### Capítulo XCIII
-
-Não ata nem desata
+### 093 — Não Ata Nem Desata
 
 Enquanto indagavam dela em Petrópolis, a situação moral de Flora era a mesma - o mesmo conflito de afinidades, o mesmo equilíbrio de preferências. Cessado o conflito, roto o equilíbrio, a solução viria de pronto, e, por mais que doesse a um dos namorados, venceria o outro, a menos que interviesse o punhal da anedota de Aires.
 
@@ -2837,9 +2651,7 @@ Apesar de tudo, não acabava de entender a situação, e resolveu acabar com ela
 
 D. Cláudia opôs-se e guardou o camarote. A razão era de mãe; posto lhe tardasse a escolha e o casamento, ela queria vê-los ali consigo, falando, rindo, debatendo que fosse, com os olhos pendentes da filha. Batista não entendeu logo nem depois; mas para não desagradar à esposa, deixou de obsequiar os rapazes. Uma ocasião tão boa! Não era muito para eles que possuíam com que despender, e despendiam; o obséquio estava na lembrança, e também na cartinha que lhes escreveria, mandando o camarote. Chegou a redigi-la de cabeça, apesar de já inútil. A mulher, ao vê-lo calado e sério, cuidou que fosse zanga e quis fazer as pazes; o marido arredou-a brandamente com a mão. Redigia a cartinha, punha no texto um gracejo sisudo, dobrava o papel e lançava-lhe este sobrescrito gêmeo: "Aos jovens apóstolos Pedro e Paulo." O trabalho intelectual tornou mais dura a oposição de D. Cláudia. Uma cartinha tão bonita!
 
-### Capítulo XCIV
-
-Gestos opostos
+### 094 — Gestos Opostos
 
 Como pode um só teto cobrir tão diversos pensamentos? Assim é também este céu claro ou brusco - outro teto vastíssimo que os cobre com o mesmo zelo da galinha aos seus pintos... Nem esqueça o próprio crânio do homem, que os cobre igualmente, não só diversos, senão opostos.
 
@@ -2853,9 +2665,7 @@ Como tudo isso se combinava, não sei, nem ela mesma. Ao contrário, Flora parec
 
 As últimas palavras saíram-lhe de viva voz, para maior firmeza da resolução. Projetou reclinar-se já na cama; depois achou melhor fazê-lo quando ouvisse o passo da mãe no corredor. Todas essas alternativas podiam vir de si mesmas; entretanto, não é impossível que fosse também um modo de sacudir quaisquer lembranças aborrecíveis. A moça temia ir atrás delas.
 
-### Capítulo XCV
-
-O terceiro
+### 095 — O Terceiro
 
 Temendo ir atrás delas, que havia de fazer Flora? Abriu uma das janelas do quarto, que dava para a rua, encostou-se à grade e enfiou os olhos para baixo e para cima. Viu a noite sem estrelas, pouca gente que passava, calada ou conversando, algumas salas abertas, com luzes, uma com piano. Não viu certa figura de homem na calçada oposta, parada, olhando para a casa de Batista. Nem a viu, nem lhe importaria saber quem fosse. A figura é que tão depressa a viu como estremeceu e não despegou mais os olhos dela, nem os pés do chão.
 
@@ -2865,7 +2675,7 @@ Aquele era oficial de secretaria. Geralmente os empregados de secretaria casam c
 
 Quando amanuense, fizera versos; nomeado oficial, perdeu o costume, mas um dos efeitos da paixão foi restituir-lho. Consigo, em casa da mãe, gastava papel e tinta a metrificar as esperanças. Os versos escorriam da pena, a rima com eles, e as estrofes vinham seguindo direitas e alinhadas, como companhias de batalhão; o título seria o coronel, a epígrafe a música, uma vez que regulava a marcha dos pensamentos. Bastaria essa força à conquista? Gouveia imprimiu alguns em jornais, com esta dedicatória: A alguém. Nem assim a praça se rendia.
 
-Uma vez deu-lhe na cabeça mandar uma declaração de amor. Paixão concebe despropósitos. Escreveu duas cartas, sem o mesmo estilo, antes contrário. A primeira era de poeta; dava-lhe tu, como nos versos, adjetivava muito, chamava-lhe deusa por alusão ao nome de Flora, 98 e citava Musset e Casimiro de Abreu. A segunda carta foi um desforço do oficial sobre o amanuense. Saiu-lhe ao estilo das informações e dos ofícios, grave, respeitoso, com Excelências. Comparando as duas cartas, não acabou de escolher nenhuma. Não foi só o texto diverso e contrário, foi principalmente a falta de autorização que o levou a rasgar as cartas. Flora não o conhecia; quando menos, fugia de o conhecer. Os olhos dela, se encontravam os dele, retiravam-se logo indiferentes. Uma só vez cuidou que traziam a intenção de perdoar. Que esse breve raio de luz lhe desabotoasse as flores da esperança (começo a falar como a primeira carta) era possível e até certo; tão certo que lhe fez perder o ponto na Repartição. Felizmente, era ótimo empregado; o diretor ampliou o quarto de hora de tolerância, e atendeu à dor de cabeça, causa de triste insônia.
+Uma vez deu-lhe na cabeça mandar uma declaração de amor. Paixão concebe despropósitos. Escreveu duas cartas, sem o mesmo estilo, antes contrário. A primeira era de poeta; dava-lhe tu, como nos versos, adjetivava muito, chamava-lhe deusa por alusão ao nome de Flora, e citava Musset e Casimiro de Abreu. A segunda carta foi um desforço do oficial sobre o amanuense. Saiu-lhe ao estilo das informações e dos ofícios, grave, respeitoso, com Excelências. Comparando as duas cartas, não acabou de escolher nenhuma. Não foi só o texto diverso e contrário, foi principalmente a falta de autorização que o levou a rasgar as cartas. Flora não o conhecia; quando menos, fugia de o conhecer. Os olhos dela, se encontravam os dele, retiravam-se logo indiferentes. Uma só vez cuidou que traziam a intenção de perdoar. Que esse breve raio de luz lhe desabotoasse as flores da esperança (começo a falar como a primeira carta) era possível e até certo; tão certo que lhe fez perder o ponto na Repartição. Felizmente, era ótimo empregado; o diretor ampliou o quarto de hora de tolerância, e atendeu à dor de cabeça, causa de triste insônia.
 
 — Dormi sobre a madrugada, acabou o oficial.
 
@@ -2875,23 +2685,17 @@ Senão quando, morre-lhe o padrinho ao Gouveia, e em testamento deixou ao afilha
 
 Nem soube da conversação, nem deu agora pelo vulto, como lá disse. Também disse que a noite era escura. Acrescento que começou a pingar fino e a ventar fresco. Gouveia trazia guarda-chuva e ia a abri-lo, mas recuou. O que se passou na alma dele foi uma luta igual à dos dois textos da carta. O oficial queria abrigar-se da chuva, o amanuense queria apanhá-la, isto é, o poeta renascia contra as intempéries, sem medo ao mal, prestes a morrer por sua dama, como nos tempos da cavalaria. Guarda-chuva era ridículo; poupar-se à constipação desmentia a adoração. Tal foi a luta e o desfecho; venceu o amanuense, enquanto a chuva ia pingando grosso, e outra gente passava abrigada e depressa. Flora entrou e fechou a janela. O amanuense esperou ainda algum tempo, até que o oficial abriu o guarda-chuva e fez como os outros. Em casa achou a triste consolação da mãe.
 
-### Capítulo XCVI
-
-Retraimento
+### 096 — Retraimento
 
 Aquela noite acabou sem incidente. Os gêmeos vieram, Flora não apareceu, e no dia seguinte duas cartinhas perguntavam a D. Cláudia como passara a filha. A mãe respondeu que bem. Nem por isso Flora os recebeu com a alegria do costume. Tinha alguma coisa que a fazia falar pouco. Pediram-lhe música, tocou; foi bom, porque era um meio de se meter consigo. Não respondeu aos apertos de mão, como eles supunham que fazia até há pouco. Assim foi essa noite, assim foram as outras. Ora um, ora outro chegava primeiro, imaginando que a presença do rival é que tolhia a moça; mas a precedência não valia nada.
 
-### Capítulo XCVII
-
-Um Cristo particular
+### 097 — Um Cristo Particular
 
 Tudo isso lhe custava tanto, que ela acabou pedindo ao seu Cristo um lugar de governador para o pai - ou qualquer comissão fora daqui. Jesus Cristo não distribui os governos deste mundo. O povo é que os entrega a quem merece, por meio de cédulas fechadas, metidas dentro de uma urna de madeira, contadas, abertas, lidas, somadas e multiplicadas. A comissão podia vir, isso sim; a questão era saber se Jesus Cristo acudirá a todos os que lhe pedem a mesma coisa. Os comissários seriam infinitamente mais que as comissões. Esta objeção foi logo expelida do espírito de Flora, porque ela pedia ao seu Cristo, um de marfim velho, deixa da avó, um Cristo que nunca lhe negou nada, e a quem as outras pessoas não vinham importunar com súplicas. A própria mãe tinha o seu particular, confidente de ambições, consolo de desenganos; não recorria ao da filha. Tal era a fé ingênua da moça.
 
 Certamente, já lhe havia pedido que a livrasse daquela complicação de sentimentos, que não acabavam de ceder um ao outro, daquela hesitação cansativa, daquele empuxar para ambos os lados. Não foi ouvida. A causa seria talvez por não haver dado ao pedido a forma clara que aqui lhe ponho, com escândalo do leitor. Efetivamente, não era fácil pedir assim por palavras seguidas, faladas ou só pensadas; Flora não formulou a súplica. Pôs os olhos na imagem e esqueceu-se de si, para que a imagem lesse dentro dela o seu desejo. Era demais; requerer o favor do céu e obrigá-lo a adivinhar o que era... Assim cuidou Flora, e resolveu emendar a mão. Não chegou lá; não ousou dizer a Jesus o que não dizia a si mesma. Pensava nos dois, sem confessar a nenhum. Sentia a contradição, sem ousar encará-la por muito tempo.
 
-### Capítulo XCVIII
-
-O médico Aires
+### 098 — O Médico Aires
 
 Um dia pareceu à mãe que a filha andava nervosa. Interrogou-a e apenas descobriu que Flora padecia de vertigens e esquecimentos. Foi justamente um dia em que Aires lá apareceu de visita, com recados de Natividade. A mãe falou-lhe primeiro e confiou-lhe os seus sustos. Pediu-lhe que a interrogasse também. Aires fez de médico, e, quando a moça apareceu e a mãe os deixou na sala, cuidou de a interrogar cautelosamente.
 
@@ -2939,9 +2743,7 @@ Flora sorriu, de um sorriso pálido, e o conselheiro percebeu algo que não era 
 
 E ficou a olhar, esperando. Não tinha casa amiga, ou não se lembrava, e queria que ele mesmo escolhesse alguma, onde quer que fosse, e quanto mais longe, melhor. Foi o que ele leu nos olhos parados. É ler muito, mas os bons diplomatas guardam o talento de saber tudo o que lhes diz um rosto calado, e até o contrário. Aires fora diplomata excelente, apesar da aventura de Caracas, se não é que essa mesma lhe aguçou a vocação de descobrir e encobrir. Toda a diplomacia está nestes dois verbos parentes.
 
-### Capítulo XCIX
-
-A título de ares novos
+### 099 — A Título de Ares Novos
 
 — Vou arranjar-lhe uma casa boa, disse ele, à despedida.
 
@@ -2965,9 +2767,7 @@ Na quinta-feira, Aires desceu e foi almoçar a Andaraí. Achou-as como as tinha 
 
 Aqui foi D. Rita que lhe pegou nas mãos, pô-las sobre os seus ombros, e concluiu o gesto por um abraço. Todas as pessoas louvaram-lhe a abnegação do ato; esta era a primeira que a achou única. E daí outro abraço longo, mais longo...
 
-### Capítulo C
-
-Duas cabeças
+### 100 — Duas Cabeças
 
 Tão longo foi o abraço que tomou o resto ao capítulo. Este começa sem ele nem outro. O mesmo aperto de mão de Aires e Flora, se foi demorado, também acabou. O almoço fez gastar algum tempo mais que de costume, porque Aires, além de conversador emérito, não se fartava de ouvir as duas, principalmente a moça. Achava-lhe um toque de languidez, abatimento ou coisa próxima, que não encontro no meu vocabulário.
 
@@ -2989,11 +2789,9 @@ A imagem não é boa, nem verdadeira; foi a que acudiu ao conselheiro, andando, 
 
 — Pode acabar com o tempo, pensou ele indo para a barca de Petrópolis. Não importa; é um caso embrulhado.
 
-## Capítulos 101 a 110
+## Capítulos 101 — 110
 
-### Capítulo CI
-
-O caso embrulhado
+### 101 — O Caso Embrulhado
 
 Também os gêmeos achavam o caso embrulhado. Quando iam a S. Clemente, tinham notícias da moça, sem que lhes dessem certeza do regresso. O tempo andava; não tardaria que consultassem a sorte, como dois antigos.
 
@@ -3001,9 +2799,7 @@ A rigor, não contavam as semanas de interrupção, uma vez que a escolha se nã
 
 Nem só de Flora. Crescendo a oposição, recorriam ao silêncio. Evitavam-se; se podiam, não comiam juntos; se comiam juntos, diziam pouco ou nada. Às vezes, falavam para tirar aos criados qualquer suspeita, mas não advertiam que falavam mal e forçadamente, e que os criados iam comentar as palavras e a expressão deles na copa. A satisfação com que estes comunicavam os seus achados e conclusões é das poucas que adoçam o serviço doméstico, geralmente rude. Não chegavam, porém, ao ponto de concluir tudo o que os ia tornando cada vez mais avessos, a ponta de ódio que crescia com a ausência da mãe. Era mais que Flora, como sabeis; eram as próprias pessoas inconciliáveis. Um dia houve na copa e na cozinha grande novidade. Pedro, a pretexto de sentir mais calor que Paulo, mudou de quarto e foi dormir mal em outro não menos quente que o primeiro.
 
-### Capítulo CII
-
-Visão pede meia sombra
+### 102 — Visão Pede Meia Sombra
 
 Entretanto, a bela moça não os tirava da mesma alcova sua, por mais que buscasse deveras fugir-lhes. A memória os trazia pela mão, eles entravam e ficavam. Iam depois embora, ou de si mesmos, ou empurrados por ela. Quando tornavam, era de surpresa. Um dia, Flora aproveitou a presença para fazer um desenho igual ao que dera ao conselheiro, mais perfeito agora, muito mais acabado.
 
@@ -3011,9 +2807,7 @@ Também cansava. Então saía do quarto e ia para o piano. Eles iam com ela, sen
 
 Se fechava o piano e descia ao jardim, sucedia muita vez que os ia achar ali, passeando, e a cumprimentavam com tão boa sombra, que ela esquecia por instantes a impaciência. Depois, sem que os mandasse, iam embora. Nos primeiros tempos, Flora tinha medo que a houvessem abandonado de todo, e chamava-os dentro de si. Ambos tornavam logo, tão dóceis, que ela acabou de se convencer que a fuga não era fuga nem eles sentiam desprezo, e não os evocou mais. No jardim era mais rápido o desaparecimento, talvez pela extrema claridade do lugar. Visão pede meia sombra.
 
-### Capítulo CIII
-
-O quarto
+### 103 — O Quarto
 
 Sei, sei, três vezes sei que há muitas visões dessas nas páginas que lá ficam. Ulisses confessa a Alcínoos que lhe é enfadonho contar as mesmas coisas. Também a mim. Sou, porém, obrigado a elas, porque sem elas a nossa Flora seria menos Flora, seria outra pessoa que não conheci. Conheci esta, com as suas obsessões ou como quer que lhes chames.
 
@@ -3055,9 +2849,7 @@ Assim se cumpriu. Ia a cumprir-se demais; Nóbrega achou que o estilo podia ser 
 
 D. Rita ainda esperou um dia. A resposta negativa, dado que Flora viesse a mudar de opinião, podia ser uma desgraça para esta. Uso os próprios termos dela, consigo, grande desgraça, posição esplêndida, sentimento profundo. D. Rita ia aos extremos, diante daquele rico-homem dos últimos anos do século.
 
-### Capítulo CIV
-
-A resposta
+### 104 — A Resposta
 
 Não querendo dar a resposta nua e crua, D. Rita consultou a moça, que lhe respondeu simplesmente:
 
@@ -3081,9 +2873,7 @@ O secretário afirmou.
 
 Aqui tornou a nota da indignação, nota sincera, como as outras. Nóbrega gostou de ouvi-la; era um compadecimento. No fim, cumpriu a ideia que trazia ao sair de casa; aumentou-lhe o ordenado. Podia ser a paga da simpatia; o beneficiado foi mais longe, achou que era o preço do silêncio, e ninguém soube de nada.
 
-### Capítulo CV
-
-A realidade
+### 105 — A Realidade
 
 A moléstia, dada por explicação à recusa do casamento, passou à realidade daí a dias. Flora adoeceu levemente; D. Rita, para não alarmar os pais, cuidou de a tratar com remédios caseiros; depois, mandou chamar um médico, o seu médico, e a cara que este fez não foi boa, antes má. D. Rita, que costumava ler a gravidade das suas moléstias no rosto dele, e sempre as achava gravíssimas, cuidou de avisar os pais da moça. Os pais vieram logo. Natividade também desceu de Petrópolis, não de vez; em cima, tinham medo de algum movimento cá embaixo. Veio a visitar a moça, e, a pedido desta, ficou alguns dias. - Só a senhora me pode curar, disse Flora; não creio nos remédios que me dão. As suas palavras é que são boas, e os seus carinhos... Mamãe também, e D. Rita, mas não sei, há uma diferença, uma coisa... Veja: parece-me que até já rio.
 
@@ -3097,9 +2887,7 @@ Flora ia assim passando os dias. Queria Natividade sempre ao pé de si, pela raz
 
 Quando pareceu melhorar, Flora pediu um pouco mais de luz e de céu. Uma das duas janelas foi então escancarada, e a enferma encheu-se de vida e riso. Não é que a Febre se fosse de todo. Essa bruxa lívida estava ao canto do quarto, com os olhos espetados nela; mas, ou de cansada, ou por obrigação imposta, cochilava a miúdo, e longamente. Então a enferma sentia só o calor do Mal, que o médico graduava em trinta e nove ou trinta e nove e meio, depois de consultar o termômetro. A Febre, ao ver esse gesto, ria sem escândalo, ria para si.
 
-### Capítulo CVI
-
-Ambos quais?
+### 106 — Ambos Quais?
 
 Ficamos no ponto em que uma das janelas do quarto aumentou a dose de luz e de céu que Flora pediu, sem embargo da febre, aliás pouca. O mais que se passou valia a pena de um livro. Não foi logo, logo, gastou longas horas e alguns dias. Houve tempo bastante para que entre a vida e Flora se fizesse a reconciliação ou a despedida. Uma e outra podiam ser extensas; também podiam ser curtas. Conheci um homem que adoeceu velho, se não de velho, e despendeu no rompimento final um tempo quase infinito. Já pedia a morte, mas quando via o rosto descarnado da derradeira amiga espiar da porta entreaberta, voltava o seu para outro lado e engrolava uma cantiga da infância, para enganá-la e viver.
 
@@ -3119,7 +2907,7 @@ Quando Pedro e Paulo voltaram a Andaraí, a enferma estava acordada, e o médico
 
 — Não sei; uns falam de manifestações ao marechal Deodoro, outros de conspiração contra o marechal Floriano. Há alguma coisa.
 
-Natividade pediu aos filhos que se não metessem em barulhos; ambos prometeram e cumpriram. Ao ver o aspecto de algumas ruas, grupos, patrulhas, armas, duas metralhadoras, Itamaraty iluminado, 101 tiveram a curiosidade de saber o que houve e havia; vaga sugestão, que não durou dois minutos. Correram a meter-se em casa, e a dormir mal a noite. Na manhã seguinte os criados levaram os jornais com as notícias da véspera.
+Natividade pediu aos filhos que se não metessem em barulhos; ambos prometeram e cumpriram. Ao ver o aspecto de algumas ruas, grupos, patrulhas, armas, duas metralhadoras, Itamaraty iluminado, tiveram a curiosidade de saber o que houve e havia; vaga sugestão, que não durou dois minutos. Correram a meter-se em casa, e a dormir mal a noite. Na manhã seguinte os criados levaram os jornais com as notícias da véspera.
 
 — Veio algum recado de Andaraí? perguntou um.
 
@@ -3159,15 +2947,11 @@ Esta palavra fez crer que era o delírio que começava, se não é que acabava, 
 
 A morte não tardou. Veio mais depressa do que se receava agora. Todas e o pai acudiram a rodear o leito, onde os sinais da agonia se precipitavam. Flora acabou como uma dessas tardes rápidas, não tanto que não façam ir doendo as saudades do dia; acabou tão serenamente que a expressão do rosto, quando lhe fecharam os olhos, era menos de defunta que de escultura. As janelas, escancaradas, deixavam entrar o sol e o céu.
 
-### Capítulo CVII
-
-Estado de sítio
+### 107 — Estado de Sítio
 
 Não há novidade nos enterros. Aquele teve a circunstância de percorrer as ruas em estado de sítio. Bem pensado, a morte não é outra coisa mais que uma cessação da liberdade de viver, cessação perpétua, ao passo que o decreto daquele dia valeu só por 72 horas. Ao cabo de 72 horas, todas as liberdades seriam restauradas, menos a de reviver. Quem morreu, morreu. Era o caso de Flora; mas que crime teria cometido aquela moça, além do de viver, e porventura o de amar, não se sabe a quem, mas amar? Perdoai estas perguntas obscuras, que se não ajustam, antes se contrariam. A razão é que não recordo este óbito sem pena, e ainda trago o enterro à vista...
 
-### Capítulo CVIII
-
-Velhas cerimônias
+### 108 — Velhas Cerimônias
 
 Aqui vai a sair o caixão. Todos tiram o chapéu, logo que ele assoma à porta. Gente que passa, para. Das janelas debruça-se a vizinhança, em algumas atopeta-se, por serem as famílias maiores que o espaço; às portas, os criados. Todos os olhos examinam as pessoas que pegam nas alças do caixão, Batista, Santos, Aires, Pedro, Paulo, Nóbrega.
 
@@ -3185,9 +2969,7 @@ Não vou ao ponto de afirmar que teve prazer com a morte de Flora, só por havê
 
 Ainda uma vez, não há novidade nos enterros. Daí o provável tédio dos coveiros, abrindo e fechando covas todos os dias. Não cantam, como os de Hamlet, que temperam as tristezas do ofício com as trovas do mesmo ofício. Trazem o caixão da cal e a colher para os convidados, e para si as pás com que deitam a terra para dentro da cova. O pai e alguns amigos ficaram ao pé da cova de Flora, a ver cair a terra, a princípio com aquele baque soturno, depois com aquele vagar cansativo, por mais que os pobres homens se apressem. Enfim, caiu toda a terra, e eles puseram em cima as grinaldas dos pais e dos amigos: " À nossa querida filha "; - " À nossa santa amiguinha Flora a saudosa amiga Natividade "; - " A Flora, um amigo velho ", etc. Tudo feito, vieram saindo; o pai, entre Aires e Santos, que lhe davam o braço, cambaleava. Ao portão, foram tomando os carros e partindo. Não deram pela falta de Pedro e Paulo que ficaram ao pé da cova.
 
-### Capítulo CIX
-
-Ao pé da cova
+### 109 — Ao Pé da Cova
 
 Nenhum deles contou o tempo gasto naquele lugar. Sabem só que foi de silêncio, de contemplação e de saudade. Não digo, para os não vexar agora, mas é possível que chorassem também. Tinham um lenço na mão, enxugavam os olhos; depois com os braços caídos, as mãos prendendo o chapéu, olhavam aparentemente para as flores que cobriam a sepultura, mas na realidade para a criatura que lá estava embaixo.
 
@@ -3205,9 +2987,7 @@ Custou-lhes sair do cemitério. Não supunham estar tão presos à defunta. Cada
 
 Não se explica esta expressão do cocheiro, senão porque, inquieto da demora, não cuidando que os dois fregueses ficassem tanto tempo ao pé da cova, entrara a recear que tivessem aceitado o convite de algum amigo e voltado para casa. Tinha já resolvido esperar poucos minutos mais, e ir embora; mas a gorjeta? A gorjeta foi dobrada, como a dor e o amor; digamos, gêmea.
 
-### Capítulo CX
-
-Que voa
+### 110 — Que Voa
 
 Assim como o carro veio voando do cemitério, assim voará este capítulo, destinado a dizer primeiro que a mãe dos gêmeos conseguiu levá-los para Petrópolis. Já não alegaram a clínica da Santa Casa nem os documentos da Biblioteca Nacional. Clínica e documentos repousam agora na cova n o... Não ponho o número, para que algum curioso, se achar este livro na dita Biblioteca, se dê ao trabalho de investigar e completar o texto. Basta o nome da defunta, que lá ficou dito e redito.
 
@@ -3219,11 +2999,9 @@ Assim chegaram ao tempo em que a família Santos desceu, ainda que a contragosto
 
 Natividade confiava ao tempo a perfeição da obra. Cria no tempo. Eu, em menino, sempre o vi pintado como um velho de barbas brancas e foice na mão, que me metia medo. Quanto a ti, amigo meu, ou amiga minha, segundo for o sexo da pessoa que me lê, se não forem duas, e os sexos ambos - um casal de noivos, por exemplo -, curiosos de saber como é que Pedro e Paulo puderam estar no mesmo Credo... Não falemos desse mistério... Contenta-te de saber que eles tinham em mente cumprir o juramento daquele lugar e ocasião. O tempo trouxe o fim da estação, como nos outros anos, e Petrópolis deixou Petrópolis.
 
-## Capítulos 111 a 120
+## Capítulos 111 — 120
 
-### Capítulo CXI
-
-Um resumo de esperanças
+### 111 — Um Resumo de Esperanças
 
 "Quando um não quer, dois não brigam", tal é o velho provérbio que ouvi em rapaz, a melhor idade para ouvir provérbios. Na idade madura eles devem já fazer parte da bagagem da vida, frutos da experiência antiga e comum. Eu cria neste; mas não foi ele que me deu a resolução de não brigar nunca. Foi por achá-lo em mim que lhe dei crédito. Ainda que não existisse, era a mesma coisa. Quanto ao modo de não querer, não respondo, não sei. Ninguém me constrangia. Todos os temperamentos iam comigo; poucas divergências tive, e perdi só uma ou duas amizades, tão pacificamente aliás, que os amigos perdidos não deixaram de me tirar o chapéu. Um deles pediu-me perdão no testamento.
 
@@ -3233,9 +3011,7 @@ Naturalmente os atos do governo eram aprovados e desaprovados, mas a certeza de 
 
 A carreira diferente ia separá-los depressa, conquanto a residência comum os trouxesse unidos. Tudo se podia combinar; os interesses do ofício serviriam a este efeito, as relações pessoais também, e afinal o uso, que vale por muito. Vou aqui resumindo, como posso, as esperanças de Natividade. Outras havia a que chamarei conjugais; os rapazes porém, não pareciam inclinados a elas, e a mãe, quem lhe apalpasse o coração sentiria já um antecipado ciúme das noras.
 
-### Capítulo CXII
-
-O primeiro mês
+### 112 — O Primeiro Mês
 
 Na véspera do dia em que se completou o primeiro mês da morte de Flora, Pedro teve uma ideia, que não comunicou ao irmão. Não perderia nada em fazê-lo, porque Paulo teve a mesma ideia, e também a calou. Dela nasce este capítulo.
 
@@ -3257,17 +3033,13 @@ Pensou outras coisas com que foi disfarçando a humilhação. Fizera tudo às ca
 
 Tudo feito, Paulo arredou-se, desceu e saiu, levando as maldições de Pedro. Este teve uma ideia que desprezou logo, e tu farias o mesmo, amigo leitor; foi tornar à sepultura e emendar ao tempo gasto anteriormente outro pedaço maior. Desprezada a ideia, vagou alguns minutos, até que saiu, sem achar sombra de Paulo.
 
-### Capítulo CXIII
-
-Uma Beatriz para dois
+### 113 — Uma Beatriz para Dois
 
 Flora, se visse os gestos de ambos, é provável que descesse do céu, e buscasse maneira de os ouvir perpetuamente, uma Beatriz para dois. Mas não viu ou não lhe pareceu bem descer. Talvez não achasse necessidade de tornar cá, para servir de madrinha a um duelo que deixara em meio.
 
 Quanto a este, se ia continuar, não era pela mesma injúria. Não esqueças que foi ao pé daquela mesma campa que os dois fizeram as pazes eternas, e, posto não lhas desfizesse a campa, é certo que acendeu um pouco da ira antiga. Dir-me-ás, e com aparência de razão, que, se enterrada ainda os separava, mais os separaria se ali descesse em espírito. Puro engano, amigo. No começo, ao menos, eles jurariam o que ela mandasse.
 
-### Capítulo CXIV
-
-Consultório e banca
+### 114 — Consultório e Banca
 
 Meses depois, Pedro abria consultório médico, aonde iam pessoas doentes, Paulo banca de advogado, que procuravam os carecidos de justiça. Um prometia saúde, outro ganho de causa, e acertavam muita vez, porque não lhes faltava talento nem fortuna. Demais, não trabalhavam sós, mas cada qual com um colega de nomeada e prático.
 
@@ -3275,9 +3047,7 @@ No meio dos sucessos do tempo, entre os quais avultavam a rebelião da esquadra 
 
 Tinham perdido o acordo, feito pela razão, jurado pelo amor, em honra da moça defunta e da mãe viva. Mal se podiam ver, mal ou pior ouvir. Cuidaram de evitar tudo o que o lugar e a ocasião ajustassem para os separar mais. Desta maneira, a profissão torceu-lhes o caminho e dividiu as relações de ambos. Natividade apenas daria pela má vontade dos filhos, desde que os dois pareciam apostados em lhe querer bem, mas dava por ela, e tentava ligá-los apertadamente e de todo. Santos folgava de se prolongar pela medicina e pela advocacia dos filhos. Só receava que Paulo, dada a inclinação partidária, buscasse noiva jacobina. Não ousando dizer-lhe nada a tal respeito, refugiava-se na religião, e não ouvia missa que lhe não metesse uma oração particular e secreta, para obter a proteção do céu.
 
-### Capítulo CXV
-
-Troca de opiniões
+### 115 — Troca de Opiniões
 
 Senão quando, viu Natividade os primeiros sinais de uma troca de inclinação, que mais parecia propósito que efeito natural. Entretanto, era naturalíssimo. Paulo entrou a fazer oposição ao governo, ao passo que Pedro moderava o tom e o sentido, e acabava aceitando o regímen republicano, objeto de tantas desavenças.
 
@@ -3301,9 +3071,7 @@ Aires não tinha aquele triste pecado dos opiniáticos; não lhe importava ser o
 
 — Oh! não agoure meus filhos! exclamou Natividade.
 
-### Capítulo CXVI
-
-De regresso
+### 116 — De Regresso
 
 — Então foram eleitos deputados?
 
@@ -3325,9 +3093,7 @@ Quiseram retê-lo as duas, Santos também, que perdia nele uma figura certa das 
 
 — Eleitos; tomam assento quinta-feira.
 
-### Capítulo CXVII
-
-Posse das cadeiras
+### 117 — Posse das Cadeiras
 
 Quinta-feira, quando os gêmeos tomaram assento na câmara, Natividade e Perpétua foram ver a cerimônia. Pedro ou Paulo arranjou-lhes uma tribuna. A mãe desejou que Aires fosse também. Quando este ali chegou, já as achou sentadas, Natividade a fitar com a luneta o presidente e os deputados. Um destes falava sobre a ata, e ninguém lhe prestava atenção. Aires sentou-se um pouco mais dentro, e, após alguns minutos, disse a Natividade:
 
@@ -3387,9 +3153,7 @@ A cerimônia era a do costume. Natividade cuidou que ia vê-los entrar juntos e 
 
 Natividade tinha os olhos gloriosos. Ergueu-se e pediu ao velho amigo que as acompanhasse à carruagem. No corredor acharam os dois recentes deputados, que vinham ter com a mãe. Não consta qual deles a beijou primeiro; não havendo regimento interno nesta outra câmara, pode ser que fossem ambos a um tempo, metendo-lhes ela a cara entre as bocas, uma face para cada um. A verdade é que o fizeram com igual ternura. Depois voltaram ao recinto.
 
-### Capítulo CXVIII
-
-Coisas passadas, coisas futuras
+### 118 — Coisas Passadas, Coisas Futuras
 
 Indo a entrar na carruagem, Natividade deu com a igreja de S. José, ao lado, e um pedaço do morro do Castelo, a distância. Estacou.
 
@@ -3415,15 +3179,11 @@ Quando a carruagem ia a dobrar a praia de Santa Luzia, ladeando a Santa Casa, Na
 
 A presidência da República não podia ser para dois, mas um teria a vice-presidência, e, se este a achasse pouco, trocariam mais tarde os cargos. Nem faltavam grandezas. Ainda se lembrava das palavras que ouviu à cabocla, quando lhe perguntou pela espécie de grandeza que caberia aos filhos. Coisas futuras! respondeu a Pítia do Norte, com tal voz que nunca lhe esqueceu. Agora mesmo parece-lhe que a ouve, mas é ilusão. Quando muito, são as rodas do carro que vão rolando e as patas dos cavalos que batem: Coisas futuras! coisas futuras!
 
-### Capítulo CXIX
-
-Que anuncia os seguintes
+### 119 — Que Anuncia os Seguintes
 
 Todas as histórias, se as cortam em fatias, acabam com um capítulo último e outro penúltimo, mas nenhum autor os confessa tais; todos preferem dar-lhes um título próprio. Eu adoto o método oposto; escrevo no alto de cada um dos capítulos seguintes os seus nomes de remate, e, sem dizer a matéria particular de nenhum, indico o quilômetro em que estamos da linha. Isto supondo que a história seja um trem de ferro. A minha não é propriamente isso. Poderia ser uma canoa, se lhe tivesse posto águas e ventos, mas tu viste que só andamos por terra, a pé ou de carro, e mais cuidosos da gente que do chão. Não é trem nem barco; é uma história simples, acontecida e por acontecer; o que poderás ver nos dois capítulos que faltam, e são curtos.
 
-### Capítulo CXX
-
-Penúltimo
+### 120 — Penúltimo
 
 Este é ainda um óbito. Já lá ficou defunta a jovem Flora, aqui vai morta a velha Natividade. Chamo-lhe velha, porque li a certidão de batismo; mas, em verdade, nem os filhos deputados, nem os cabelos brancos davam a esta senhora o aspecto correspondente à idade. A elegância, que era o seu sexto sentido, enganava os tempos de tal maneira que ela conservava, não digo a frescura, mas a graça antiga.
 
@@ -3471,11 +3231,9 @@ Parece que a mãe quis sorrir a esta palavra de confiança, mas a boca não resp
 
 ## Capítulo 121
 
-### Capítulo CXXI
+### 121 — Último
 
-Último
-
-Castor e Pólux 107 foram os nomes que um deputado pôs aos dois gêmeos, quando eles tornaram à câmara, depois da missa do sétimo dia. Tal era a união que parecia aposta. Entravam juntos, andavam juntos, saíam juntos. Duas ou três vezes votaram juntos, com grande escândalo dos respectivos amigos políticos. Tinham sido eleitos para se baterem, e acabavam traindo os eleitores. Ouviram nomes duros, repreensões acerbas. Quiseram renunciar ao cargo; Pedro, entretanto, achou um meio conciliatório.
+Castor e Pólux foram os nomes que um deputado pôs aos dois gêmeos, quando eles tornaram à câmara, depois da missa do sétimo dia. Tal era a união que parecia aposta. Entravam juntos, andavam juntos, saíam juntos. Duas ou três vezes votaram juntos, com grande escândalo dos respectivos amigos políticos. Tinham sido eleitos para se baterem, e acabavam traindo os eleitores. Ouviram nomes duros, repreensões acerbas. Quiseram renunciar ao cargo; Pedro, entretanto, achou um meio conciliatório.
 
 — O nosso dever político é votar com os amigos, disse ele ao irmão. Votemos com eles. Mamãe só nos pediu concórdia pessoal. Na tribuna, sim, ninguém nos levará a atacar um ao outro; no debate e no voto podemos e devemos dissentir.
 
