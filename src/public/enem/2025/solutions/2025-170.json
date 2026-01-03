@@ -1,0 +1,27 @@
+{
+  "question_id": "2025_q170",
+  "final_answer": {
+    "letter": "C",
+    "value": "7,5"
+  },
+  "short_md": "No segundo tempo (45 min), ele percorreu 4,5 km.  \nVelocidade média:  \n$4,5/45 = 0,1$ km/min.  \nNa prorrogação (30 min):  \n$0,1\\times 30 = 3$ km.  \nTotal:  \n$4,5 + 3 = 7,5$ km.",
+  "steps": [
+    {
+      "title": "Fórmula e termos",
+      "body_md": "Distância = velocidade média × tempo."
+    },
+    {
+      "title": "Calcular a velocidade média",
+      "body_md": "No segundo tempo:  \n$4,5/45 = 0,1$ km/min."
+    },
+    {
+      "title": "Aplicar na prorrogação",
+      "body_md": "Em 30 min:  \n$0,1\\times 30 = 3$ km."
+    },
+    {
+      "title": "Somar as distâncias",
+      "body_md": "$4,5 + 3 = 7,5$ km."
+    }
+  ],
+  "tts_text": "No segundo tempo, o jogador percorreu 4,5 quilometros em 45 minutos. Isso corresponde a 0,1 quilometro por minuto. Mantendo essa velocidade na prorrogacao de 30 minutos, ele percorre mais 3 quilometros. Somando, temos 7,5 quilometros. Portanto, a alternativa correta e a letra C."
+}

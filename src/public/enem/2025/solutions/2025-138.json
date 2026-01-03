@@ -1,0 +1,23 @@
+{
+  "question_id": "2025_q138",
+  "final_answer": {
+    "letter": "D",
+    "value": "2081090"
+  },
+  "short_md": "O código tem 7 dígitos: andar (2), setor (08), funcionário (109) e turno (manhã = 0). Assim, o código é 2 08 109 0, ou seja, 2081090.",
+  "steps": [
+    {
+      "title": "Separar os blocos do código",
+      "body_md": "São 1 dígito para o andar, 2 para o setor, 3 para o funcionário e 1 para o turno."
+    },
+    {
+      "title": "Substituir os dados",
+      "body_md": "Andar 2, setor 08, funcionário 109 e manhã (0)."
+    },
+    {
+      "title": "Concatenar",
+      "body_md": "O código fica 2 08 109 0, isto é, 2081090 (alternativa D)."
+    }
+  ],
+  "tts_text": "Primeiro, identifique a estrutura do código: um dígito para o andar, dois para o setor (com zero à esquerda), três para o funcionário e um para o turno. O visitante vai ao 2º andar, ao setor 08 e se reunirá com o funcionário 109. Como chegou às 10 horas, é turno da manhã, representado pelo dígito 0. Concatenando 2, 08, 109 e 0, obtemos 2081090. Portanto, a alternativa correta é a D."
+}

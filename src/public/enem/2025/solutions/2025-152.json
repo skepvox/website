@@ -1,0 +1,23 @@
+{
+  "question_id": "2025_q152",
+  "final_answer": {
+    "letter": "C",
+    "value": "autoajuda, pois a quantidade em estoque é inferior à demanda"
+  },
+  "short_md": "Totais em estoque:  \n$T = B + E$, onde $B$ é brasileiro e $E$ é estrangeiro.  \nFicção: $(80 + 120) = 200$  \nAutoajuda: $(50 + 80) = 130$  \nRomance: $(40 + 105) = 145$  \nBiografia: $(45 + 50) = 95$  \nDemandas: 160, 135, 140 e 80.  \nSó em autoajuda o estoque (130) é menor que a demanda (135).",
+  "steps": [
+    {
+      "title": "Fórmula e termos",
+      "body_md": "Para cada gênero:  \n$T = B + E$  \nonde $T$ é o estoque total, $B$ é o estoque de autores brasileiros e $E$ é o estoque de autores estrangeiros."
+    },
+    {
+      "title": "Calcular estoques",
+      "body_md": "Ficção: $(80 + 120) = 200$  \nAutoajuda: $(50 + 80) = 130$  \nRomance: $(40 + 105) = 145$  \nBiografia: $(45 + 50) = 95$"
+    },
+    {
+      "title": "Comparar com a demanda",
+      "body_md": "Demandas: 160 (ficção), 135 (autoajuda), 140 (romance), 80 (biografia).  \nApenas em autoajuda o estoque é menor que a demanda, então é o único gênero que precisa de reposição."
+    }
+  ],
+  "tts_text": "Para decidir o gênero que precisa de reposição, somamos os livros de autores brasileiros e estrangeiros em cada categoria. Ficção tem 80 mais 120, totalizando 200. Autoajuda tem 50 mais 80, totalizando 130. Romance tem 40 mais 105, totalizando 145. Biografia tem 45 mais 50, totalizando 95. As demandas são 160, 135, 140 e 80, respectivamente. Somente em autoajuda a demanda é maior do que o estoque, pois 135 é maior que 130. Portanto, a alternativa correta é a letra C."
+}

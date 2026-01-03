@@ -1,0 +1,23 @@
+{
+  "question_id": "2025_q153",
+  "final_answer": {
+    "letter": "E",
+    "value": "40"
+  },
+  "short_md": "Total de matrículas em 2024:  \n$280 + 80 + 20 + 20 = 400$.  \nPercentual de francês em 2023: $10\\%$.  \nPara 2025:  \n$0,10\\times 400 = 40$ matrículas.",
+  "steps": [
+    {
+      "title": "Fórmula e termos",
+      "body_md": "Número estimado = percentual \u00d7 total.  \nAqui, o percentual de francês vem de 2023 e o total vem de 2024." 
+    },
+    {
+      "title": "Determinar o total de 2024",
+      "body_md": "Somando as matrículas do gráfico de 2024:  \n$280 + 80 + 20 + 20 = 400$"
+    },
+    {
+      "title": "Aplicar o percentual de 2023",
+      "body_md": "Francês representa 10% em 2023:  \n$0,10\\times 400 = 40$"
+    }
+  ],
+  "tts_text": "O total de matrículas em 2025 será igual ao total de 2024. Somando as barras de 2024, obtemos 280 mais 80 mais 20 mais 20, que resulta em 400 matrículas. O gráfico de 2023 mostra que o francês corresponde a 10 por cento. Assim, 10 por cento de 400 é 40. Portanto, o número estimado de matrículas em francês é 40, alternativa E."
+}

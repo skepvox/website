@@ -1,0 +1,23 @@
+{
+  "question_id": "2025_q154",
+  "final_answer": {
+    "letter": "C",
+    "value": "III"
+  },
+  "short_md": "Comprimento real:  \n$L_{real} = L_{tela}\\times S$  \nonde $S$ é a escala.  \nI: $9\\times 100 = 900$ cm  \nII: $5\\times 300 = 1500$ cm  \nIII: $5\\times 600 = 3000$ cm  \nIV: $3\\times 700 = 2100$ cm  \nV: $2\\times 1000 = 2000$ cm  \nO maior deslocamento é o III.",
+  "steps": [
+    {
+      "title": "Fórmula e termos",
+      "body_md": "Comprimento real:  \n$L_{real} = L_{tela}\\times S$  \nonde $S$ é a escala."
+    },
+    {
+      "title": "Calcular cada deslocamento",
+      "body_md": "I: $9\\times 100 = 900$ cm  \nII: $5\\times 300 = 1500$ cm  \nIII: $5\\times 600 = 3000$ cm  \nIV: $3\\times 700 = 2100$ cm  \nV: $2\\times 1000 = 2000$ cm"
+    },
+    {
+      "title": "Comparar",
+      "body_md": "O maior valor é 3000 cm, correspondente ao deslocamento III."
+    }
+  ],
+  "tts_text": "Cada painel mostra um comprimento na tela e a escala utilizada. O comprimento real e o comprimento na tela multiplicado pela escala. No painel I, 9 vezes 100 da 900 cm. No II, 5 vezes 300 da 1500 cm. No III, 5 vezes 600 da 3000 cm. No IV, 3 vezes 700 da 2100 cm. No V, 2 vezes 1000 da 2000 cm. O maior e 3000 cm, portanto a alternativa correta e a III, letra C."
+}

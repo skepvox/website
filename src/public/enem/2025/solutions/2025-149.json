@@ -1,0 +1,27 @@
+{
+  "question_id": "2025_q149",
+  "final_answer": {
+    "letter": "C",
+    "value": "20 300"
+  },
+  "short_md": "O volume descartado é constante:  \n$10\\ 200 - 9\\ 900 = 300$ L.  \nO novo pedido exige o dobro do volume encomendado antes:  \n$2\\times 10\\ 000 = 20\\ 000$ L entregues.  \nLogo, deve-se enviar:  \n$20\\ 000 + 300 = 20\\ 300$ L.",
+  "steps": [
+    {
+      "title": "Fórmula e termos",
+      "body_md": "Volume enviado:  \n$V_{env} = V_{ent} + V_{desc}$  \nonde $V_{ent}$ é o volume entregue e $V_{desc}$ é o volume descartado no transporte, em litros." 
+    },
+    {
+      "title": "Descobrir o volume descartado",
+      "body_md": "Na primeira entrega:  \n$V_{desc} = 10\\ 200 - 9\\ 900 = 300$ L"
+    },
+    {
+      "title": "Calcular o novo volume entregue",
+      "body_md": "O novo pedido deve entregar o dobro de 10 000 L:  \n$V_{ent} = 2\\times 10\\ 000 = 20\\ 000$ L"
+    },
+    {
+      "title": "Somar o descarte",
+      "body_md": "$V_{env} = 20\\ 000 + 300 = 20\\ 300$ L"
+    }
+  ],
+  "tts_text": "Na primeira entrega, foram enviados 10 200 litros e chegaram 9 900 litros. A diferença é o volume descartado, que é 300 litros. No novo pedido, o posto quer receber o dobro de 10 000 litros, ou seja, 20 000 litros efetivamente entregues. Como o descarte continua sendo 300 litros, a distribuidora deve enviar 20 000 mais 300, totalizando 20 300 litros. Portanto, a alternativa correta é a letra C."
+}

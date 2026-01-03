@@ -1,0 +1,23 @@
+{
+  "question_id": "2025_q168",
+  "final_answer": {
+    "letter": "B",
+    "value": "24"
+  },
+  "short_md": "Opção 1: parcela $= 60\\ 000/n$.  \nOpção 2: parcela $= 60\\ 000/(n+6) = 60\\ 000/n - 500$.  \nEquação:  \n$\\dfrac{60\\ 000}{n+6} = \\dfrac{60\\ 000}{n} - 500$  \n$\\Rightarrow n^2 + 6n - 720 = 0$  \n$\\Rightarrow n = 24$.",
+  "steps": [
+    {
+      "title": "Fórmula e termos",
+      "body_md": "Como não há juros, o total pago é o mesmo:  \n$p = \\dfrac{60\\ 000}{n}$  \nonde $p$ é o valor da parcela e $n$ é o número de parcelas."
+    },
+    {
+      "title": "Montar a equação",
+      "body_md": "Opção 1: $60\\ 000/n$.  \nOpção 2: $60\\ 000/(n+6)$, que é R$ 500 menor:  \n$\\dfrac{60\\ 000}{n+6} = \\dfrac{60\\ 000}{n} - 500$"
+    },
+    {
+      "title": "Resolver",
+      "body_md": "$60\\ 000n = (n+6)(60\\ 000 - 500n)$  \n$n^2 + 6n - 720 = 0$  \n$(n-24)(n+30)=0$  \n$n = 24$"
+    }
+  ],
+  "tts_text": "Na opcao 1, cada parcela vale 60 000 dividido por n. Na opcao 2, ha n mais 6 parcelas, e cada uma e 500 reais menor. Assim, 60 000 dividido por n mais 6 deve ser igual a 60 000 dividido por n menos 500. Resolvendo a equacao, obtemos n igual a 24. Portanto, a alternativa correta e a letra B."
+}

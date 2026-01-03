@@ -1,0 +1,27 @@
+{
+  "question_id": "2025_q148",
+  "final_answer": {
+    "letter": "E",
+    "value": "5,0000"
+  },
+  "short_md": "Quantidade inicial:  \n$S_1 = 0,9995\\times 10 = 9,995$ L e $S_2 = 0,005$ L.  \nApós retirar $x$ litros de S<sub>1</sub>:  \n$\\dfrac{9,995 - x}{10 - x} = 0,9990$  \nResolvendo, obtemos:  \n$x = 5,0$ L.",
+  "steps": [
+    {
+      "title": "Fórmula e termos",
+      "body_md": "Percentual de S<sub>1</sub>:  \n$p = \\dfrac{S_1}{S_1 + S_2}$  \nonde S<sub>1</sub> e S<sub>2</sub> são os volumes das substâncias na mistura, em litros."
+    },
+    {
+      "title": "Determinar os volumes iniciais",
+      "body_md": "Com 10 L e 99,95% de S<sub>1</sub>:  \n$S_1 = 0,9995\\times 10 = 9,995$ L  \n$S_2 = 10 - 9,995 = 0,005$ L"
+    },
+    {
+      "title": "Montar a nova proporção",
+      "body_md": "Retirando $x$ litros de S<sub>1</sub>:  \n$\\dfrac{9,995 - x}{10 - x} = 0,9990$"
+    },
+    {
+      "title": "Resolver a equação",
+      "body_md": "$9,995 - x = 0,9990\\times (10 - x)$  \n$9,995 - x = 9,99 - 0,9990x$  \n$0,005 = 0,0010x$  \n$x = 5,0$ L"
+    }
+  ],
+  "tts_text": "A solução tem 10 litros, com 99,95 por cento de S1. Isso significa 9,995 litros de S1 e 0,005 litro de S2. Ao retirar x litros de S1, o volume total passa a ser 10 menos x, e a nova fração de S1 deve ser 99,90 por cento. Assim, a razão entre S1 e o total é 0,9990: 9,995 menos x dividido por 10 menos x. Resolvendo essa equação, obtemos x igual a 5,0 litros. Portanto, a alternativa correta é a letra E."
+}

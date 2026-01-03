@@ -1,0 +1,27 @@
+{
+  "question_id": "2025_q163",
+  "final_answer": {
+    "letter": "A",
+    "value": "135 e 7 horas e 15 minutos"
+  },
+  "short_md": "Os trechos de 2 h s\u00e3o iguais e na dire\u00e7\u00e3o 90\u00b0, ent\u00e3o $\\overrightarrow{TR}$ tem o mesmo comprimento de $\\overrightarrow{SQ}$.  \nOs segmentos $PS$ e $PQ$ medem $4v$ e formam 130\u00b0 entre si.  \nPelo cosseno:  \n$TR = 4v\\sqrt{2 - 2\\cos 130^\\circ}$.  \nComo $\\cos 130^\\circ = -\\cos 50^\\circ \\approx -0,64$,  \n$TR \\approx 4v\\sqrt{3,28} \\approx 7,24v$, logo o tempo \u00e9 cerca de 7 h 15 min.  \nA dire\u00e7\u00e3o \u00e9 135\u00b0.",
+  "steps": [
+    {
+      "title": "F\u00f3rmula e termos",
+      "body_md": "Dist\u00e2ncia = velocidade \u00d7 tempo.  \nPara o tri\u00e2ngulo, usamos a lei dos cossenos:  \n$c^2 = a^2 + b^2 - 2ab\\cos(\\theta)$." 
+    },
+    {
+      "title": "Relacionar os deslocamentos",
+      "body_md": "Os dois trechos finais s\u00e3o de 2 h na dire\u00e7\u00e3o 90\u00b0, ent\u00e3o eles se cancelam no vetor. Assim, $TR = SQ$." 
+    },
+    {
+      "title": "Calcular o comprimento de $TR$",
+      "body_md": "$PS = PQ = 4v$ e o \u00e2ngulo entre as dire\u00e7\u00f5es 110\u00b0 e 340\u00b0 \u00e9 130\u00b0.  \n$TR = 4v\\sqrt{2 - 2\\cos 130^\\circ}$  \nComo $\\cos 130^\\circ = -0,64$,  \n$TR \\approx 4v\\sqrt{3,28} \\approx 7,24v$"
+    },
+    {
+      "title": "Determinar tempo e dire\u00e7\u00e3o",
+      "body_md": "Tempo $\\approx 7,24$ h, ou cerca de 7 h 15 min.  \nA dire\u00e7\u00e3o do vetor $TR$ \u00e9 135\u00b0 (sudeste)."
+    }
+  ],
+  "tts_text": "Os dois trechos de 2 horas foram feitos na mesma direcao, 90 graus, entao o deslocamento T ate R tem o mesmo comprimento de S ate Q. Os dois deslocamentos de 4 horas, P ate S e P ate Q, tem o mesmo comprimento 4v e formam um angulo de 130 graus. Pela lei dos cossenos, TR vale 4v vezes a raiz de 2 menos 2 vezes o cosseno de 130 graus. Como cosseno de 130 e menos cosseno de 50, usamos 0,64 e obtemos aproximadamente 7,24v. Dividindo por v, o tempo e cerca de 7 horas e 15 minutos. A direcao do vetor e 135 graus, como indicado no diagrama. Portanto, a alternativa correta e a letra A."
+}

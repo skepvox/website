@@ -1,0 +1,27 @@
+{
+  "question_id": "2025_q147",
+  "final_answer": {
+    "letter": "C",
+    "value": "15"
+  },
+  "short_md": "Comprimento da ciclovia (circunferência):  \n$C = 2\\times \\pi \\times r = 2\\times 3\\times 1 = 6$ km  \nCada policial protege 200 m para cada lado do ponto, ou seja, 400 m:  \n$0,4$ km.  \nQuantidade mínima:  \n$6 / 0,4 = 15$",
+  "steps": [
+    {
+      "title": "Fórmula e termos",
+      "body_md": "Comprimento da circunferência:  \n$C = 2\\times \\pi \\times r$  \nonde $r$ é o raio (em km) e $\\pi \\approx 3$."
+    },
+    {
+      "title": "Calcular o comprimento total",
+      "body_md": "Com $r = 1$ km:  \n$C = 2\\times 3\\times 1 = 6$ km"
+    },
+    {
+      "title": "Cobertura por policial",
+      "body_md": "Um ponto fica protegido se houver policial a até 200 m em cada direção da ciclovia. Assim, cada policial cobre 400 m:  \n$0,4$ km."
+    },
+    {
+      "title": "Dividir o percurso",
+      "body_md": "Quantidade mínima:  \n$6 / 0,4 = 15$ policiais."
+    }
+  ],
+  "tts_text": "A ciclovia é uma circunferência de raio 1 quilômetro. Usando a aproximação de pi igual a 3, o comprimento total é 2 vezes 3 vezes 1, ou seja, 6 quilômetros. Um policial protege os pontos que estão até 200 metros em cada direção, então ele cobre 400 metros de ciclovia, isto é, 0,4 quilômetro. Dividindo 6 por 0,4 obtemos 15. Portanto, são necessários 15 policiais, alternativa C."
+}

@@ -14,11 +14,17 @@ import {
   groupIconMdPlugin,
   groupIconVitePlugin
 } from 'vitepress-plugin-group-icons'
+import markdownItMathjax3 from 'markdown-it-mathjax3'
 
 const nav: ThemeConfig['nav'] = [
   {
     text: 'Home',
     link: '/'
+  },
+  {
+    text: 'Lavelle',
+    activeMatch: '^/louis-lavelle/',
+    link: '/louis-lavelle/'
   },
   {
     text: 'Literatura',
@@ -27,15 +33,6 @@ const nav: ThemeConfig['nav'] = [
       { text: 'Machado de Assis', link: '/literatura/machado-de-assis/bras-cubas' },
       { text: 'Graciliano Ramos', link: '/literatura/graciliano-ramos/sao-bernardo' },
       { text: 'Raul Pompeia', link: '/literatura/raul-pompeia/o-ateneu' },
-    ]
-  },
-  {
-    text: 'Filosofia',
-    activeMatch: `^/filosofia/`,
-    items: [
-      { text: 'Platão', link: '/filosofia/plato/the-republic' },
-      { text: 'Santo Agostinho', link: '/filosofia/augustine/confissoes' },
-      { text: 'Louis Lavelle', link: '/filosofia/louis-lavelle/de-l-etre' },
     ]
   },
   {
@@ -78,40 +75,17 @@ export const sidebar: ThemeConfig['sidebar'] = {
     },
   ],
 
-  '/filosofia/': [
-    {
-      text: 'Platão',
-      items: [
-        // { text: 'Visão geral', link: '/filosofia/louis-lavelle/' },
-        { text: "A República", link: '/filosofia/plato/the-republic' },
-      ]
-    },
-    {
-      text: 'Santo Agostinho',
-      items: [
-        // { text: 'Visão geral', link: '/filosofia/louis-lavelle/' },
-        { text: "Confissões", link: '/filosofia/augustine/confissoes' },
-      ]
-    },
+  '/louis-lavelle/': [
     {
       text: 'Louis Lavelle',
       items: [
-        // { text: 'Visão geral', link: '/filosofia/louis-lavelle/' },
-        { text: "De l'Être", link: '/filosofia/louis-lavelle/de-l-etre' },
-        { text: "L'Erreur de Narcisse", link: '/filosofia/louis-lavelle/l-erreur-de-narcisse' },
-        { text: "Quatre Saints", link: '/filosofia/louis-lavelle/quatre-saints' },
+        { text: 'Biografia', link: '/louis-lavelle/' },
+        { text: "De l'Être", link: '/louis-lavelle/de-l-etre' },
+        { text: "L'Erreur de Narcisse", link: '/louis-lavelle/l-erreur-de-narcisse' },
+        { text: "Quatre Saints", link: '/louis-lavelle/quatre-saints' }
       ]
     }
   ],
-
-  '/about/': [
-    {
-      text: 'Sobre o Skepvox',
-      items: [
-        { text: 'FAQ', link: '/about/faq' }
-      ]
-    }
-  ], 
 
   '/enem-sandbox/': [
     {
@@ -128,434 +102,11 @@ export const sidebar: ThemeConfig['sidebar'] = {
     {
       text: 'ENEM 2025',
       items: [
-        { text: 'Matemática', link: '/enem/2025/matematica' }
+        { text: 'Matemática 2025 · Caderno Verde', link: '/enem/2025/matematica' }
       ]
     }
   ],
 
-  '/guide/': [
-    {
-      text: 'Getting Started',
-      items: [
-        { text: 'Introduction', link: '/guide/introduction' },
-        {
-          text: 'Quick Start',
-          link: '/guide/quick-start'
-        }
-      ]
-    },
-    {
-      text: 'Essentials',
-      items: [
-        {
-          text: 'Creating an Application',
-          link: '/guide/essentials/application'
-        },
-        {
-          text: 'Template Syntax',
-          link: '/guide/essentials/template-syntax'
-        },
-        {
-          text: 'Reactivity Fundamentals',
-          link: '/guide/essentials/reactivity-fundamentals'
-        },
-        {
-          text: 'Computed Properties',
-          link: '/guide/essentials/computed'
-        },
-        {
-          text: 'Class and Style Bindings',
-          link: '/guide/essentials/class-and-style'
-        },
-        {
-          text: 'Conditional Rendering',
-          link: '/guide/essentials/conditional'
-        },
-        { text: 'List Rendering', link: '/guide/essentials/list' },
-        {
-          text: 'Event Handling',
-          link: '/guide/essentials/event-handling'
-        },
-        { text: 'Form Input Bindings', link: '/guide/essentials/forms' },
-        { text: 'Watchers', link: '/guide/essentials/watchers' },
-        { text: 'Template Refs', link: '/guide/essentials/template-refs' },
-        {
-          text: 'Components Basics',
-          link: '/guide/essentials/component-basics'
-        },
-        {
-          text: 'Lifecycle Hooks',
-          link: '/guide/essentials/lifecycle'
-        }
-      ]
-    },
-    {
-      text: 'Components In-Depth',
-      items: [
-        {
-          text: 'Registration',
-          link: '/guide/components/registration'
-        },
-        { text: 'Props', link: '/guide/components/props' },
-        { text: 'Events', link: '/guide/components/events' },
-        { text: 'Component v-model', link: '/guide/components/v-model' },
-        {
-          text: 'Fallthrough Attributes',
-          link: '/guide/components/attrs'
-        },
-        { text: 'Slots', link: '/guide/components/slots' },
-        {
-          text: 'Provide / inject',
-          link: '/guide/components/provide-inject'
-        },
-        {
-          text: 'Async Components',
-          link: '/guide/components/async'
-        }
-      ]
-    },
-    {
-      text: 'Reusability',
-      items: [
-        {
-          text: 'Composables',
-          link: '/guide/reusability/composables'
-        },
-        {
-          text: 'Custom Directives',
-          link: '/guide/reusability/custom-directives'
-        },
-        { text: 'Plugins', link: '/guide/reusability/plugins' }
-      ]
-    },
-    {
-      text: 'Built-in Components',
-      items: [
-        { text: 'Transition', link: '/guide/built-ins/transition' },
-        {
-          text: 'TransitionGroup',
-          link: '/guide/built-ins/transition-group'
-        },
-        { text: 'KeepAlive', link: '/guide/built-ins/keep-alive' },
-        { text: 'Teleport', link: '/guide/built-ins/teleport' },
-        { text: 'Suspense', link: '/guide/built-ins/suspense' }
-      ]
-    },
-    {
-      text: 'Scaling Up',
-      items: [
-        { text: 'Single-File Components', link: '/guide/scaling-up/sfc' },
-        { text: 'Tooling', link: '/guide/scaling-up/tooling' },
-        { text: 'Routing', link: '/guide/scaling-up/routing' },
-        {
-          text: 'State Management',
-          link: '/guide/scaling-up/state-management'
-        },
-        { text: 'Testing', link: '/guide/scaling-up/testing' },
-        {
-          text: 'Server-Side Rendering (SSR)',
-          link: '/guide/scaling-up/ssr'
-        }
-      ]
-    },
-    {
-      text: 'Best Practices',
-      items: [
-        {
-          text: 'Production Deployment',
-          link: '/guide/best-practices/production-deployment'
-        },
-        {
-          text: 'Performance',
-          link: '/guide/best-practices/performance'
-        },
-        {
-          text: 'Accessibility',
-          link: '/guide/best-practices/accessibility'
-        },
-        {
-          text: 'Security',
-          link: '/guide/best-practices/security'
-        }
-      ]
-    },
-    {
-      text: 'TypeScript',
-      items: [
-        { text: 'Overview', link: '/guide/typescript/overview' },
-        {
-          text: 'TS with Composition API',
-          link: '/guide/typescript/composition-api'
-        },
-        {
-          text: 'TS with Options API',
-          link: '/guide/typescript/options-api'
-        }
-      ]
-    },
-    {
-      text: 'Extra Topics',
-      items: [
-        {
-          text: 'Ways of Using Vue',
-          link: '/guide/extras/ways-of-using-vue'
-        },
-        {
-          text: 'Composition API FAQ',
-          link: '/guide/extras/composition-api-faq'
-        },
-        {
-          text: 'Reactivity in Depth',
-          link: '/guide/extras/reactivity-in-depth'
-        },
-        {
-          text: 'Rendering Mechanism',
-          link: '/guide/extras/rendering-mechanism'
-        },
-        {
-          text: 'Render Functions & JSX',
-          link: '/guide/extras/render-function'
-        },
-        {
-          text: 'Vue and Web Components',
-          link: '/guide/extras/web-components'
-        },
-        {
-          text: 'Animation Techniques',
-          link: '/guide/extras/animation'
-        }
-        // {
-        //   text: 'Building a Library for Vue',
-        //   link: '/guide/extras/building-a-library'
-        // },
-        // {
-        //   text: 'Vue for React Devs',
-        //   link: '/guide/extras/vue-for-react-devs'
-        // }
-      ]
-    }
-  ],
-  '/api/': [
-    {
-      text: 'Global API',
-      items: [
-        { text: 'Application', link: '/api/application' },
-        {
-          text: 'General',
-          link: '/api/general'
-        }
-      ]
-    },
-    {
-      text: 'Composition API',
-      items: [
-        { text: 'setup()', link: '/api/composition-api-setup' },
-        {
-          text: 'Reactivity: Core',
-          link: '/api/reactivity-core'
-        },
-        {
-          text: 'Reactivity: Utilities',
-          link: '/api/reactivity-utilities'
-        },
-        {
-          text: 'Reactivity: Advanced',
-          link: '/api/reactivity-advanced'
-        },
-        {
-          text: 'Lifecycle Hooks',
-          link: '/api/composition-api-lifecycle'
-        },
-        {
-          text: 'Dependency Injection',
-          link: '/api/composition-api-dependency-injection'
-        },
-        {
-          text: 'Helpers',
-          link: '/api/composition-api-helpers'
-        }
-      ]
-    },
-    {
-      text: 'Options API',
-      items: [
-        { text: 'Options: State', link: '/api/options-state' },
-        { text: 'Options: Rendering', link: '/api/options-rendering' },
-        {
-          text: 'Options: Lifecycle',
-          link: '/api/options-lifecycle'
-        },
-        {
-          text: 'Options: Composition',
-          link: '/api/options-composition'
-        },
-        { text: 'Options: Misc', link: '/api/options-misc' },
-        {
-          text: 'Component Instance',
-          link: '/api/component-instance'
-        }
-      ]
-    },
-    {
-      text: 'Built-ins',
-      items: [
-        { text: 'Directives', link: '/api/built-in-directives' },
-        { text: 'Components', link: '/api/built-in-components' },
-        {
-          text: 'Special Elements',
-          link: '/api/built-in-special-elements'
-        },
-        {
-          text: 'Special Attributes',
-          link: '/api/built-in-special-attributes'
-        }
-      ]
-    },
-    {
-      text: 'Single-File Component',
-      items: [
-        { text: 'Syntax Specification', link: '/api/sfc-spec' },
-        { text: '<script setup>', link: '/api/sfc-script-setup' },
-        { text: 'CSS Features', link: '/api/sfc-css-features' }
-      ]
-    },
-    {
-      text: 'Advanced APIs',
-      items: [
-        { text: 'Custom Elements', link: '/api/custom-elements' },
-        { text: 'Render Function', link: '/api/render-function' },
-        { text: 'Server-Side Rendering', link: '/api/ssr' },
-        { text: 'TypeScript Utility Types', link: '/api/utility-types' },
-        { text: 'Custom Renderer', link: '/api/custom-renderer' },
-        { text: 'Compile-Time Flags', link: '/api/compile-time-flags' }
-      ]
-    }
-  ],
-  '/examples/': [
-    {
-      text: 'Basic',
-      items: [
-        {
-          text: 'Hello World',
-          link: '/examples/#hello-world'
-        },
-        {
-          text: 'Handling User Input',
-          link: '/examples/#handling-input'
-        },
-        {
-          text: 'Attribute Bindings',
-          link: '/examples/#attribute-bindings'
-        },
-        {
-          text: 'Conditionals and Loops',
-          link: '/examples/#conditionals-and-loops'
-        },
-        {
-          text: 'Form Bindings',
-          link: '/examples/#form-bindings'
-        },
-        {
-          text: 'Simple Component',
-          link: '/examples/#simple-component'
-        }
-      ]
-    },
-    {
-      text: 'Practical',
-      items: [
-        {
-          text: 'Markdown Editor',
-          link: '/examples/#markdown'
-        },
-        {
-          text: 'Fetching Data',
-          link: '/examples/#fetching-data'
-        },
-        {
-          text: 'Grid with Sort and Filter',
-          link: '/examples/#grid'
-        },
-        {
-          text: 'Tree View',
-          link: '/examples/#tree'
-        },
-        {
-          text: 'SVG Graph',
-          link: '/examples/#svg'
-        },
-        {
-          text: 'Modal with Transitions',
-          link: '/examples/#modal'
-        },
-        {
-          text: 'List with Transitions',
-          link: '/examples/#list-transition'
-        }
-      ]
-    },
-    {
-      // https://eugenkiss.github.io/7guis/
-      text: '7 GUIs',
-      items: [
-        {
-          text: 'Counter',
-          link: '/examples/#counter'
-        },
-        {
-          text: 'Temperature Converter',
-          link: '/examples/#temperature-converter'
-        },
-        {
-          text: 'Flight Booker',
-          link: '/examples/#flight-booker'
-        },
-        {
-          text: 'Timer',
-          link: '/examples/#timer'
-        },
-        {
-          text: 'CRUD',
-          link: '/examples/#crud'
-        },
-        {
-          text: 'Circle Drawer',
-          link: '/examples/#circle-drawer'
-        },
-        {
-          text: 'Cells',
-          link: '/examples/#cells'
-        }
-      ]
-    }
-  ],
-  '/style-guide/': [
-    {
-      text: 'Style Guide',
-      items: [
-        {
-          text: 'Overview',
-          link: '/style-guide/'
-        },
-        {
-          text: 'A - Essential',
-          link: '/style-guide/rules-essential'
-        },
-        {
-          text: 'B - Strongly Recommended',
-          link: '/style-guide/rules-strongly-recommended'
-        },
-        {
-          text: 'C - Recommended',
-          link: '/style-guide/rules-recommended'
-        },
-        {
-          text: 'D - Use with Caution',
-          link: '/style-guide/rules-use-with-caution'
-        }
-      ]
-    }
-  ]
 }
 
 const i18n: ThemeConfig['i18n'] = {
@@ -580,17 +131,31 @@ export default defineConfigWithTheme<ThemeConfig>({
   extends: baseConfig,
 
   sitemap: {
-    hostname: 'https://skepvox.com'
+    hostname: 'https://skepvox.com',
+    transformItems: (items) => {
+      const excluded = new Set([
+        '/enem/2025/humanas',
+        '/enem/2025/linguagens',
+        '/enem/2025/natureza',
+        '/enem/overrides/README'
+      ])
+
+      return items.filter((item) => {
+        const rawPath = item.url.startsWith('/') ? item.url : `/${item.url}`
+        const path = rawPath.replace(/\.html$/, '')
+
+        return !excluded.has(path)
+      })
+    }
   },
 
   lang: 'pt-BR',
   title: 'Skepvox — Engenharia de Letras',
   description: 'Louis Lavelle, Literatura & Filosofia',
   srcDir: 'src',
-  srcExclude: ['tutorial/**/description.md'],
 
   head: [
-    ['link', { rel: 'icon', type: 'image/png', href: '/logo.png' }],
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }],
     ['meta', { name: 'theme-color', content: '#3c8772' }],
     ['meta', { property: 'og:url', content: 'https://skepvox.com/' }],
     ['meta', { property: 'og:type', content: 'website' }],
@@ -619,23 +184,18 @@ export default defineConfigWithTheme<ThemeConfig>({
     ['meta', { name: 'twitter:site', content: '@skepvox' }],
     ['meta', { name: 'twitter:card', content: 'summary' }],
     [
-      'link',
-      {
-        rel: 'preconnect',
-        href: 'https://automation.vuejs.org'
-      }
-    ],
-    inlineScript('restorePreference.js'),
-    inlineScript('uwu.js'),
-    [
       'script',
       {
-        src: 'https://cdn.usefathom.com/script.js',
-        'data-site': 'XNOLWPLB',
-        'data-spa': 'auto',
-        defer: ''
+        async: '',
+        src: 'https://www.googletagmanager.com/gtag/js?id=G-1VWHF2D1QJ'
       }
     ],
+    [
+      'script',
+      {},
+      "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-1VWHF2D1QJ');"
+    ],
+    // Removed Vue docs preconnect; not used on this site.
     // This script is injecting the external banner at the top of the page
     // [
     //   'script',
@@ -688,6 +248,7 @@ export default defineConfigWithTheme<ThemeConfig>({
   markdown: {
     theme: 'github-dark',
     config(md) {
+      md.use(markdownItMathjax3)
       md.use(headerPlugin).use(groupIconMdPlugin)
       // .use(textAdPlugin)
     }

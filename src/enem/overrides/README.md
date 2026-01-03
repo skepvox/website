@@ -1,3 +1,7 @@
+---
+sitemap: false
+---
+
 # ENEM Overrides
 
 Per-question JSON overrides that are merged into the raw pipeline output

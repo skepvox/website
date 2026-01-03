@@ -1,0 +1,27 @@
+{
+  "question_id": "2025_q169",
+  "final_answer": {
+    "letter": "C",
+    "value": "300"
+  },
+  "short_md": "Caso 1: o mais velho recebe a bicicleta (não o celular).  \nEscolha de mais 2 presentes: $\\binom{6}{2} = 15$.  \nEscolha de 3 presentes para o mais novo: $\\binom{5}{3} = 10$.  \nTotal do caso: $15\\times 10 = 150$.  \nCaso 2 (troca bicicleta por celular): 150.  \nTotal: $300$.",
+  "steps": [
+    {
+      "title": "Fórmula e termos",
+      "body_md": "Usamos combinações porque os presentes são distintos e a ordem não importa:  \n$\\binom{n}{k} = \\dfrac{n!}{k!(n-k)!}$." 
+    },
+    {
+      "title": "Caso 1: mais velho com a bicicleta",
+      "body_md": "Ele recebe a bicicleta e mais 2 entre os 6 restantes:  \n$\\binom{6}{2} = 15$.  \nO mais novo recebe 3 entre os 5 restantes:  \n$\\binom{5}{3} = 10$.  \nTotal: $15\\times 10 = 150$."
+    },
+    {
+      "title": "Caso 2: mais velho com o celular",
+      "body_md": "O raciocínio é o mesmo, totalizando mais 150 maneiras."
+    },
+    {
+      "title": "Somar",
+      "body_md": "$150 + 150 = 300$ maneiras."
+    }
+  ],
+  "tts_text": "Ha oito presentes diferentes, incluindo bicicleta e celular. O mais velho deve receber ou a bicicleta ou o celular, mas nao os dois. No caso em que ele recebe a bicicleta, escolhemos mais 2 presentes entre os 6 restantes, o que da 15 maneiras. Em seguida, escolhemos 3 presentes entre os 5 restantes para o mais novo, totalizando 10 maneiras. Esse caso da 150. O caso em que o mais velho recebe o celular e igual, somando mais 150. Portanto, ha 300 maneiras, alternativa C."
+}

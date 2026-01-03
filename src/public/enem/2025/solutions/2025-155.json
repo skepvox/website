@@ -1,0 +1,27 @@
+{
+  "question_id": "2025_q155",
+  "final_answer": {
+    "letter": "D",
+    "value": "4"
+  },
+  "short_md": "No grupo 4, a m\u00e9dia \u00e9 25 e o desvio padr\u00e3o \u00e9 1.  \nLogo:  \n$\\sum (x_i - 25)^2 = 11\\times 1^2 = 11$.  \nUma idade fora de 20 a 30 teria desvio $\\ge 5$ e quadrado $\\ge 25$, o que \u00e9 imposs\u00edvel.  \nAssim, todas est\u00e3o entre 20 e 30, e o grupo 4 certamente atende ao crit\u00e9rio.",
+  "steps": [
+    {
+      "title": "F\u00f3rmula e termos",
+      "body_md": "Desvio padr\u00e3o:  \n$s^2 = \\dfrac{1}{n}\\sum (x_i - \\bar{x})^2$  \nonde $\\bar{x}$ \u00e9 a m\u00e9dia, $n$ \u00e9 o n\u00famero de pessoas e $x_i$ s\u00e3o as idades." 
+    },
+    {
+      "title": "Aplicar os dados do grupo 4",
+      "body_md": "Com $\\bar{x}=25$, $s=1$ e $n=11$:  \n$\\sum (x_i - 25)^2 = 11\\times 1^2 = 11$"
+    },
+    {
+      "title": "Analisar o intervalo 20 a 30",
+      "body_md": "Se alguma idade estivesse fora de 20 a 30, o desvio seria de pelo menos 5, e o quadrado desse desvio seria pelo menos 25. Isso sozinho excederia a soma 11, o que \u00e9 imposs\u00edvel."
+    },
+    {
+      "title": "Conclus\u00e3o",
+      "body_md": "Logo, todas as idades do grupo 4 est\u00e3o entre 20 e 30. Assim, esse grupo certamente atende ao crit\u00e9rio de maioria no intervalo."
+    }
+  ],
+  "tts_text": "O grupo 4 tem media 25 e desvio padrao 1. Pelo conceito de desvio padrao, a soma dos quadrados dos desvios em relacao a media vale 11. Se alguma idade estivesse fora do intervalo de 20 a 30, o desvio seria pelo menos 5, e o quadrado seria pelo menos 25. Isso ja ultrapassaria a soma total de 11, o que e impossivel. Portanto, todas as idades do grupo 4 estao entre 20 e 30, garantindo maioria. A alternativa correta e a letra D."
+}

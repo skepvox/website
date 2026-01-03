@@ -1,6 +1,7 @@
 ---
 title: ENEM 2025 — Linguagens
 outline: [2, 3]
+sitemap: false
 ---
 
 # ENEM 2025 — Linguagens
