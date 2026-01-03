@@ -1,0 +1,23 @@
+{
+  "question_id": "2025_q143",
+  "final_answer": {
+    "letter": "A",
+    "value": "Batata chips"
+  },
+  "short_md": "Total de sódio por pacote (porções × sódio por porção):  \nA: $(3\\times 170) = 510$ mg; B: $(4\\times 501) = 2004$ mg; C: $(8\\times 264) = 2112$ mg; D: $(6\\times 175) = 1050$ mg; E: $(5\\times 166) = 830$ mg.  \nO menor total é A (Batata chips).",
+  "steps": [
+    {
+      "title": "Fórmula e termos",
+      "body_md": "O sódio total no pacote é dado por:  \n$S = n\\times s$  \nonde:  \n*S* = sódio total,  \n*n* = número de porções,  \n*s* = sódio por porção."
+    },
+    {
+      "title": "Calcular o sódio por pacote",
+      "body_md": "A: $(3\\times 170) = 510$ mg  \nB: $(4\\times 501) = 2004$ mg  \nC: $(8\\times 264) = 2112$ mg  \nD: $(6\\times 175) = 1050$ mg  \nE: $(5\\times 166) = 830$ mg"
+    },
+    {
+      "title": "Escolher o menor",
+      "body_md": "O menor total é 510 mg, correspondente ao produto A (Batata chips)."
+    }
+  ],
+  "tts_text": "Cada rótulo informa o número de porções no pacote e o sódio por porção. Para encontrar o total de sódio de cada produto, multiplicamos o número de porções pelo sódio por porção. Assim, A tem 3 vezes 170, que dá 510 mg; B tem 4 vezes 501, que dá 2004 mg; C tem 8 vezes 264, que dá 2112 mg; D tem 6 vezes 175, que dá 1050 mg; e E tem 5 vezes 166, que dá 830 mg. O menor valor é 510 mg, portanto a estudante deve escolher o produto A, Batata chips."
+}

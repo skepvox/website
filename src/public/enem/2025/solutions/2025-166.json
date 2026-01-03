@@ -1,0 +1,27 @@
+{
+  "question_id": "2025_q166",
+  "final_answer": {
+    "letter": "B",
+    "value": "140"
+  },
+  "short_md": "O custo por tonelada de derivados \u00e9 $500/0,05 = 10\\ 000$ reais.  \nCusto do m\u00eas:  \n$(110\\times 10\\ 000) + (80\\times 500) = 1\\ 140\\ 000$ reais.  \nMeta: no m\u00eas seguinte, custo \u2264 $570\\ 000$.  \nCom $x$ toneladas recicladas:  \n$500x + 10\\ 000(190 - x) \\le 570\\ 000$  \n$\\Rightarrow x \\ge 140$.",
+  "steps": [
+    {
+      "title": "F\u00f3rmula e termos",
+      "body_md": "Custo total:  \n$C = C_{rec}\\times x + C_{pet}\\times (T - x)$  \nonde $T$ \u00e9 a produ\u00e7\u00e3o total e $x$ a quantidade reciclada." 
+    },
+    {
+      "title": "Calcular o custo do m\u00eas atual",
+      "body_md": "Se 500 reais \u00e9 5% do custo do petr\u00f3leo, ent\u00e3o 1 tonelada custa $10\\ 000$ reais.  \nCusto atual: $(110\\times 10\\ 000) + (80\\times 500) = 1\\ 140\\ 000$ reais." 
+    },
+    {
+      "title": "Impor a meta de redu\u00e7\u00e3o",
+      "body_md": "A produ\u00e7\u00e3o total deve ser 190 t e o custo no m\u00e1ximo 570 000.  \n$500x + 10\\ 000(190 - x) \\le 570\\ 000$  \n$-9\\ 500x \\le -1\\ 330\\ 000$  \n$x \\ge 140$"
+    },
+    {
+      "title": "Conclus\u00e3o",
+      "body_md": "A quantidade m\u00ednima reciclada deve ser 140 toneladas."
+    }
+  ],
+  "tts_text": "O custo para reciclar uma tonelada e 500 reais, que corresponde a 5 por cento do custo do plastico de petroleo. Portanto, uma tonelada de petroleo custa 10 000 reais. O custo do mes foi 110 vezes 10 000 mais 80 vezes 500, totalizando 1 140 000 reais. A meta e reduzir o custo em pelo menos 50 por cento, ou seja, para no maximo 570 000 reais, mantendo a producao total de 190 toneladas. Se x e a quantidade reciclada, o custo e 500x mais 10 000 vezes 190 menos x. Resolvendo a desigualdade, obtemos x maior ou igual a 140. Assim, a quantidade minima de plastico reciclado e 140 toneladas, alternativa B."
+}

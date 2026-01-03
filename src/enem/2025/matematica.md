@@ -1,5 +1,5 @@
 ---
-title: ENEM 2025 — Matemática e suas Tecnologias
+title: ENEM 2025 — Matemática e suas Tecnologias - Caderno Verde
 description: Questões de Matemática e suas Tecnologias do ENEM 2025 (Dia 2, aplicação regular). Ordem do caderno verde (CD8) com mapeamento para amarelo, azul e cinza.
 outline: [2, 3]
 head:
@@ -11,7 +11,7 @@ head:
       content: "Questões de Matemática e suas Tecnologias do ENEM 2025 (Dia 2, aplicação regular). Ordem do caderno verde (CD8) com mapeamento para amarelo, azul e cinza."
   - - meta
     - property: og:title
-      content: "ENEM 2025 Matemática e suas Tecnologias"
+      content: "ENEM 2025 Matemática e suas Tecnologias - Caderno Verde"
   - - meta
     - property: og:description
       content: "Questões de Matemática e suas Tecnologias do ENEM 2025 (Dia 2, aplicação regular). Ordem do caderno verde (CD8) com mapeamento para amarelo, azul e cinza."
@@ -26,7 +26,7 @@ head:
       content: summary
   - - meta
     - name: twitter:title
-      content: "ENEM 2025 Matemática e suas Tecnologias"
+      content: "ENEM 2025 Matemática e suas Tecnologias - Caderno Verde"
   - - meta
     - name: twitter:description
       content: "Questões de Matemática e suas Tecnologias do ENEM 2025 (Dia 2, aplicação regular). Ordem do caderno verde (CD8) com mapeamento para amarelo, azul e cinza."
@@ -36,7 +36,7 @@ head:
       {
         "@context": "https://schema.org",
         "@type": "CollectionPage",
-        "name": "ENEM 2025 Matemática e suas Tecnologias",
+        "name": "ENEM 2025 Matemática e suas Tecnologias - Caderno Verde",
         "description": "Questões de Matemática e suas Tecnologias do ENEM 2025 (Dia 2, aplicação regular). Ordem do caderno verde (CD8) com mapeamento para amarelo, azul e cinza.",
         "url": "https://skepvox.com/enem/2025/matematica",
         "inLanguage": "pt-BR",
@@ -329,20 +329,7 @@ head:
       }
 ---
 
-# ENEM 2025 — Matemática e suas Tecnologias
-
-## Sobre a prova
-
-Esta página reúne as questões de Matemática e suas Tecnologias do ENEM 2025 (Dia 2, aplicação regular). A ordem segue o caderno verde (CD8).
-
-## Cadernos do dia 2
-
-- Verde (CD8) — ordem canônica desta página.
-- Amarelo (CD5)
-- Azul (CD7)
-- Cinza (CD6)
-
-As questões vão de 136 a 180.
+# ENEM 2025 — Matemática e suas Tecnologias - Caderno Verde
 
 <div class="enem-hub">
 

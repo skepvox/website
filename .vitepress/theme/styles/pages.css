@@ -1,20 +1,4 @@
-/* always show anchors on /api/ and /style-guide/ pages */
-.vt-doc.api h2 .header-anchor,
-.vt-doc.style-guide h2 .header-anchor {
-  opacity: 1;
-}
-
-.vt-doc.sponsor h3 {
-  text-align: center;
-  padding-bottom: 1em;
-  border-bottom: 1px solid var(--vt-c-divider-light);
-}
-
-.vt-doc.sponsor h3 .header-anchor {
-  display: none;
-}
-
- /* Hide the "Translations" card in the mobile nav sidebar */
+/* Hide the "Translations" card in the mobile nav sidebar */
 .VPNavBarLocaleScreen {
   display: none !important;
 }
@@ -22,4 +6,41 @@
 /* Add back some space before the Appearance card */
 .VPNavScreenAppearance {
   margin-top: 16px;
+}
+
+.vt-doc > div > .enem-question-card__asset + .enem-question-card__asset {
+  margin-top: 12px;
+}
+
+.enem-question-page .enem-question-card__asset {
+  margin: 12px 0;
+}
+
+.vt-doc .katex {
+  font-size: 1em;
+}
+
+.vt-doc .katex-display {
+  text-align: left;
+  margin: 0.6em 0;
+}
+
+.vt-doc .katex-display > .katex {
+  text-align: left;
+  font-size: 1.21em;
+}
+
+.vt-doc mjx-container[display="true"] {
+  text-align: left !important;
+  margin: 0.6em 0;
+  display: block;
+}
+
+.vt-doc mjx-container[display="true"] > svg {
+  margin-left: 0 !important;
+}
+
+.vt-doc mjx-container {
+  display: inline-block;
+  vertical-align: -0.12em;
 }

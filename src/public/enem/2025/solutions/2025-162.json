@@ -1,0 +1,23 @@
+{
+  "question_id": "2025_q162",
+  "final_answer": {
+    "letter": "B",
+    "value": "360"
+  },
+  "short_md": "Pelo gr\u00e1fico setorial, os totais s\u00e3o:  \nFutebol = 180, V\u00f4lei = 100, Basquete = 80.  \nSomando:  \n$180 + 100 + 80 = 360$ estudantes.",
+  "steps": [
+    {
+      "title": "F\u00f3rmula e termos",
+      "body_md": "Total de estudantes = soma dos quantitativos de cada modalidade."
+    },
+    {
+      "title": "Somar as modalidades",
+      "body_md": "Do gr\u00e1fico: 180 (futebol) + 100 (v\u00f4lei) + 80 (basquete)."
+    },
+    {
+      "title": "Resultado",
+      "body_md": "$180 + 100 + 80 = 360$ estudantes."
+    }
+  ],
+  "tts_text": "O grafico informa os totais por modalidade: 180 no futebol, 100 no volei e 80 no basquete. Somando esses valores, obtemos 360 estudantes. Portanto, a alternativa correta e a letra B."
+}

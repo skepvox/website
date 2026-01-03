@@ -1,19 +1,14 @@
 <script setup lang="ts">
-import { onMounted } from 'vue'
 import SiteMap from './SiteMap.vue'
 // import NewsLetter from './NewsLetter.vue'
-import { load } from './sponsors'
 // import { data, base } from './sponsors'
 // import SponsorsGroup from './SponsorsGroup.vue'
 import VueMasteryModal from './VueMasteryModal.vue'
 import AuthorGrid from './AuthorGrid.vue'
-
-onMounted(load)
 </script>
 
 <template>
   <section id="hero">
-    <!-- <img id="uwu" alt="Vue.js Kawaii Logo by @icarusgkx" /> -->
     <h1 class="tagline">
       
       <span class="accent">Skepvox</span>
@@ -39,8 +34,8 @@ onMounted(load)
           />
         </svg> -->
       </a>
-      <a class="setup" href="/filosofia/">Filosofia</a>
-      <a class="security" href="/filosofia/louis-lavelle/">
+      <a class="setup" href="/louis-lavelle/">Filosofia</a>
+      <a class="security" href="/louis-lavelle/">
         Louis Lavelle
         <!-- <svg
           class="icon"
@@ -399,22 +394,4 @@ section {
   }
 }
 
-#uwu {
-  display: none;
-}
-
-.uwu #uwu {
-  display: block;
-  width: 100%;
-  max-width: 720px;
-  margin: -120px auto -20px;
-  aspect-ratio: 192 / 108;
-  content: url(/logo-uwu.png);
-}
-
-@media (max-width: 576px) {
-  .uwu #uwu {
-    margin: -60px auto -10px;
-  }
-}
 </style>

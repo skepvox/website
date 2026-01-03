@@ -1,6 +1,7 @@
 ---
 title: ENEM 2025 — Ciências da Natureza
 outline: [2, 3]
+sitemap: false
 ---
 
 # ENEM 2025 — Ciências da Natureza

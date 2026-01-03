@@ -13,6 +13,7 @@ const SITE_URL = 'https://skepvox.com'
 const QUESTIONS_DIR = path.join(ROOT, 'src', 'public', 'enem', String(YEAR), 'questions')
 const OUTPUT_DIR = path.join(ROOT, 'src', 'enem', String(YEAR), AREA_CODE, 'questao')
 const MAPPINGS_DIR = path.join(ROOT, 'src', 'public', 'enem', String(YEAR), 'mappings')
+const SOLUTIONS_DIR = path.join(ROOT, 'src', 'public', 'enem', String(YEAR), 'solutions')
 
 const BOOKLET_ORDER_BY_DAY = {
   1: ['CD1', 'CD2', 'CD3', 'CD4'],
@@ -26,6 +27,16 @@ const CANONICAL_BOOKLET_BY_DAY = {
 let bookletQuestionMapping = {}
 let bookletColors = {}
 let bookletAnswerMapping = {}
+let solutionsById = {}
+
+const pathExists = async (target) => {
+  try {
+    await fs.access(target)
+    return true
+  } catch {
+    return false
+  }
+}
 
 const escapeHtml = (value) =>
   String(value)
@@ -241,7 +252,7 @@ const renderBookletMapping = (question, entries) => {
     return []
   }
   const lines = []
-  lines.push('## Mapeamento de cadernos', '')
+  lines.push('## Mapeamento de cadernos e cores', '')
   if (question.day) {
     lines.push(`Dia ${question.day} · Aplicação regular.`, '')
   }
@@ -521,14 +532,25 @@ const buildFlowBlocks = (question, scope, options = {}) => {
   return blocks
 }
 
+const getOptionLabel = (option) => {
+  const text = option.text?.trim()
+  if (text) {
+    return text
+  }
+  if (option.image_alt?.trim()) {
+    return option.image_alt.trim()
+  }
+  if (option.chart) {
+    return `Alternativa ${option.letter} (gr\u00e1fico)`
+  }
+  return `Alternativa ${option.letter}`
+}
+
 const renderOptions = (question) => {
   const lines = []
   const options = question.options || []
   options.forEach((option, index) => {
-    const text = option.text?.trim()
-    const fallbackText =
-      option.image_alt?.trim() || `Alternativa ${option.letter} (gr\u00e1fico)`
-    const label = text || fallbackText
+    const label = getOptionLabel(option)
     lines.push(`- **${option.letter}.** ${label}`)
     if (option.chart) {
       lines.push('')
@@ -544,6 +566,47 @@ const renderOptions = (question) => {
   return lines
 }
 
+const renderSolutionSection = (solution) => {
+  if (!solution) {
+    return ['<!-- TODO: adicionar solução -->']
+  }
+
+  const lines = []
+  const ttsText = typeof solution.tts_text === 'string' ? solution.tts_text.trim() : ''
+  if (ttsText) {
+    lines.push('### Solu\u00e7\u00e3o completa', '')
+    lines.push(...ttsText.split('\n'))
+  }
+
+  const shortMd = typeof solution.short_md === 'string' ? solution.short_md.trim() : ''
+  if (shortMd) {
+    lines.push('', '### Solu\u00e7\u00e3o resumida', '', ...shortMd.split('\n'), '')
+  }
+
+  const steps = Array.isArray(solution.steps) ? solution.steps : []
+  if (steps.length) {
+    lines.push('### Solu\u00e7\u00e3o passo a passo', '')
+    steps.forEach((step, index) => {
+      const title = typeof step.title === 'string' ? step.title.trim() : ''
+      const body = typeof step.body_md === 'string' ? step.body_md.trim() : ''
+      if (title) {
+        lines.push(`#### ${index + 1}. ${title}`, '')
+      } else {
+        lines.push(`#### ${index + 1}`, '')
+      }
+      if (body) {
+        lines.push(...body.split('\n'))
+      }
+      lines.push('')
+    })
+    if (lines[lines.length - 1] === '') {
+      lines.pop()
+    }
+  }
+
+  return lines.length ? lines : ['<!-- TODO: adicionar solução -->']
+}
+
 const buildMarkdown = (question) => {
   const lines = []
   const questionId = getQuestionId(question)
@@ -551,6 +614,7 @@ const buildMarkdown = (question) => {
   const questionJsonUrl = buildQuestionJsonUrl(questionId)
   const bookletEntries = getBookletEntries(question)
   const correctAnswer = getCanonicalAnswer(question)
+  const solution = solutionsById[questionId]
   const description = buildMetaDescription(question, bookletEntries)
   const title = `ENEM ${question.year} ${AREA_LABEL} — Questão ${question.number}`
   const jsonLd = buildJsonLd(
@@ -566,6 +630,7 @@ const buildMarkdown = (question) => {
   lines.push('sidebar: false')
   lines.push('outline: false')
   lines.push('aside: false')
+  lines.push('footer: false')
   lines.push('pageClass: enem-question-page')
   lines.push('head:')
   lines.push('  - - link')
@@ -614,12 +679,12 @@ const buildMarkdown = (question) => {
     `# ENEM ${question.year} — Matem\u00e1tica e suas Tecnologias — Quest\u00e3o ${question.number}`,
     ''
   )
-  lines.push(`[ENEM ${question.year} ${AREA_LABEL}](/enem/${question.year}/matematica)`, '')
 
   const mappingLines = renderBookletMapping(question, bookletEntries)
   if (mappingLines.length) {
     lines.push(...mappingLines, '')
   }
+  lines.push(`[Matem\u00e1tica ${question.year} \u00b7 Caderno Verde Completo](/enem/${question.year}/matematica)`, '')
 
   if (question.context?.content) {
     lines.push('## Contexto', '')
@@ -676,13 +741,38 @@ const buildMarkdown = (question) => {
   }
   lines.push('', '## Resposta correta', '')
   if (correctAnswer) {
-    lines.push(`Caderno verde (CD8): alternativa ${correctAnswer}.`)
+    const option = (question.options || []).find(
+      (item) => item.letter === correctAnswer
+    )
+    const label = option ? getOptionLabel(option) : `Alternativa ${correctAnswer}`
+    lines.push(`- **${correctAnswer}.** ${label}`)
   } else {
     lines.push('_Resposta em revisão._')
   }
-  lines.push('', '## Solu\u00e7\u00e3o', '', '<!-- TODO: adicionar solu\u00e7\u00e3o -->', '')
+  lines.push('', '## Solu\u00e7\u00e3o', '')
+  lines.push(...renderSolutionSection(solution))
+  lines.push('')
 
   return lines.join('\n')
+}
+
+const loadSolutions = async () => {
+  if (!(await pathExists(SOLUTIONS_DIR))) {
+    solutionsById = {}
+    return
+  }
+  const entries = await fs.readdir(SOLUTIONS_DIR)
+  const solutions = {}
+  for (const entry of entries) {
+    if (!/^\d{4}-\d{3}\.json$/i.test(entry)) {
+      continue
+    }
+    const content = await fs.readFile(path.join(SOLUTIONS_DIR, entry), 'utf-8')
+    const data = JSON.parse(content)
+    const key = entry.replace(/\.json$/i, '')
+    solutions[key] = data
+  }
+  solutionsById = solutions
 }
 
 async function main() {
@@ -700,6 +790,7 @@ async function main() {
   } catch (error) {
     console.warn('Booklet mappings not loaded:', error?.message || error)
   }
+  await loadSolutions()
   const entries = await fs.readdir(QUESTIONS_DIR)
   const questions = []
 

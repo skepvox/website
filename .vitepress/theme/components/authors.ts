@@ -6,7 +6,7 @@ export interface Author {
 
   export const literatureAuthors: Author[] = [
     {
-      url: '/filosofia/louis-lavelle/',
+      url: '/louis-lavelle/',
       img: '/images/authors/louis-lavelle.png',
       name: 'Louis Lavelle'
     },

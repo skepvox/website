@@ -1,0 +1,27 @@
+{
+  "question_id": "2025_q136",
+  "final_answer": {
+    "letter": "B",
+    "value": "25"
+  },
+  "short_md": "A planificação mostra 25 triângulos, 5 quadrados, 1 pentágono e 1 decágono, totalizando $F = 32$ faces.  \nSomando os lados:  \n$(25\\times 3) + (5\\times 4) + 5 + 10 = 110$  \nLogo,  \n$A = 55$  \nPela fórmula de Euler:  \n$V - A + F = 2$  \nobtemos  \n$V = 55 - 32 + 2 = 25$",
+  "steps": [
+    {
+      "title": "Fórmula e termos",
+      "body_md": "Pela relação de Euler:  \n$V - A + F = 2$  \nonde:  \n*V* = número de vértices,  \n*A* = número de arestas,  \n*F* = número de faces."
+    },
+    {
+      "title": "Contar faces",
+      "body_md": "Na planificação há 25 triângulos, 5 quadrados, 1 pentágono e 1 decágono, então:  \n$F = 32$"
+    },
+    {
+      "title": "Calcular arestas",
+      "body_md": "A soma dos lados das faces é:  \n$(25\\times 3) + (5\\times 4) + 5 + 10 = 110$  \nComo cada aresta é compartilhada por duas faces:  \n$A = 110/2 = 55$"
+    },
+    {
+      "title": "Aplicar Euler",
+      "body_md": "Substituindo em $V - A + F = 2$:  \n$V - 55 + 32 = 2$  \n$V = 25$"
+    }
+  ],
+  "tts_text": "Estamos diante de uma cúpula pentagonal giralongada, e a planificação permite contar as faces com segurança. Observando a figura, aparecem 25 triângulos, 5 quadrados, um pentágono e um decágono. Somando essas faces, obtemos F = 32. Em seguida, somamos os lados de todas as faces: cada triângulo contribui com 3 lados, cada quadrado com 4, o pentágono com 5 e o decágono com 10. Assim, a soma total é 25 vezes 3, mais 5 vezes 4, mais 5, mais 10, que resulta em 110. Como cada aresta é compartilhada por duas faces, o número de arestas é A = 110 dividido por 2, ou seja, 55. Agora aplicamos a relação de Euler, que vale para poliedros convexos: V menos A mais F é igual a 2. Substituindo A = 55 e F = 32, temos V = 55 - 32 + 2, o que dá 25 vértices. Portanto, a resposta correta é a alternativa B."
+}

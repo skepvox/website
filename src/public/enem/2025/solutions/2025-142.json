@@ -1,0 +1,27 @@
+{
+  "question_id": "2025_q142",
+  "final_answer": {
+    "letter": "C",
+    "value": "17"
+  },
+  "short_md": "Distância semanal:  \n$d = 30\\times 7 = 210$ km.  \nConsumo:  \n$V = 210/13 \\approx 16{,}15$ m³.  \nA menor capacidade que atende é 17.",
+  "steps": [
+    {
+      "title": "Fórmula e termos",
+      "body_md": "O consumo é de 1 m³ a cada 13 km, então:  \n$V = d/13$  \nonde:  \n*V* = volume semanal de GNV,  \n*d* = distância semanal percorrida."
+    },
+    {
+      "title": "Calcular a distância semanal",
+      "body_md": "O carro roda:  \n$d = 30\\times 7 = 210$  \nquilômetros por semana."
+    },
+    {
+      "title": "Calcular o volume necessário",
+      "body_md": "Substituindo na fórmula:  \n$V = 210/13 \\approx 16{,}15$  \nmetros cúbicos."
+    },
+    {
+      "title": "Escolher o cilindro",
+      "body_md": "Entre 10, 14, 17, 21 e 25, o menor valor que comporta 16,15 m³ é 17.  \nLogo, alternativa C."
+    }
+  ],
+  "tts_text": "O carro roda 30 quilômetros por dia durante 7 dias, totalizando 210 quilômetros por semana. Como o consumo é de 1 metro cúbico a cada 13 quilômetros, dividimos 210 por 13 e obtemos aproximadamente 16,15 metros cúbicos. O cilindro escolhido deve ser o mais barato que permita um único abastecimento semanal, isto é, o menor com capacidade acima de 16,15. Entre 10, 14, 17, 21 e 25, a menor capacidade adequada é 17. Portanto, a alternativa correta é a C."
+}

@@ -1,0 +1,23 @@
+{
+  "question_id": "2025_q165",
+  "final_answer": {
+    "letter": "A",
+    "value": "P"
+  },
+  "short_md": "Do quarteir\u00e3o de Jo\u00e3o, o amigo est\u00e1 3 quarteir\u00f5es ao norte e 2 a oeste.  \nNo mapa, o \u00fanico quarteir\u00e3o que, ao aplicar esse deslocamento, chega ao quarteir\u00e3o A \u00e9 o P.",
+  "steps": [
+    {
+      "title": "Interpretar o percurso",
+      "body_md": "Jo\u00e3o sai da esquina nordeste do seu quarteir\u00e3o, anda para o oeste, vira \u00e0 direita (norte), segue 3 quarteir\u00f5es e vira \u00e0 esquerda (oeste). Isso coloca a casa do amigo no 2\u00ba quarteir\u00e3o a oeste ap\u00f3s subir 3 quarteir\u00f5es."
+    },
+    {
+      "title": "Localizar no mapa",
+      "body_md": "Portanto, o quarteir\u00e3o do amigo est\u00e1 3 ao norte e 2 a oeste do quarteir\u00e3o de Jo\u00e3o. No diagrama, essa rela\u00e7\u00e3o leva do quarteir\u00e3o P at\u00e9 o quarteir\u00e3o A."
+    },
+    {
+      "title": "Conclus\u00e3o",
+      "body_md": "O quarteir\u00e3o de Jo\u00e3o \u00e9 o P."
+    }
+  ],
+  "tts_text": "O enunciado descreve o deslocamento do quarteirao de Joao ate o do amigo. Ele vai para o oeste, sobe tres quarteiroes ao norte e depois vai para o oeste ate o segundo quarteirao, que e o do amigo. Isso significa que o quarteirao do amigo esta 3 ao norte e 2 a oeste do quarteirao de Joao. No mapa, essa relacao coloca Joao no quarteirao P. Logo, a alternativa correta e a letra A."
+}

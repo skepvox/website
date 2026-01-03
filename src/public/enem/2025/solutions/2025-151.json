@@ -1,0 +1,23 @@
+{
+  "question_id": "2025_q151",
+  "final_answer": {
+    "letter": "A",
+    "value": "y = -3x + 20"
+  },
+  "short_md": "A trajetória segura é a mediatriz do segmento $TV$.  \nInclinação de $TV$:  \n$m = \\dfrac{6-4}{8-2} = \\dfrac{1}{3}$.  \nLogo a mediatriz tem inclinação $-3$ e passa pelo ponto médio $M(5,5)$.  \nEquação:  \n$y - 5 = -3(x - 5) \\Rightarrow y = -3x + 20$.",
+  "steps": [
+    {
+      "title": "Fórmula e termos",
+      "body_md": "Pontos equidistantes de $T$ e $V$ formam a mediatriz do segmento $TV$.  \nO ponto médio é:  \n$M = \\left(\\dfrac{x_T + x_V}{2},\\ \\dfrac{y_T + y_V}{2}\\right)$  \nE a mediatriz é perpendicular a $TV$, logo $m_{TV}\\times m_{\\perp} = -1$."
+    },
+    {
+      "title": "Calcular ponto médio e inclinação",
+      "body_md": "Com $T(2,4)$ e $V(8,6)$:  \n$M = (5,5)$  \n$m_{TV} = \\dfrac{6-4}{8-2} = \\dfrac{1}{3}$  \n$m_{\\perp} = -3$"
+    },
+    {
+      "title": "Escrever a equação da reta",
+      "body_md": "Passando por $M(5,5)$:  \n$y - 5 = -3(x - 5)$  \n$y = -3x + 20$"
+    }
+  ],
+  "tts_text": "Para que o herói fique equidistante dos dois vilões, ele deve seguir a mediatriz do segmento que liga as posições dos vilões. Os vilões estão em T, com coordenadas 2 e 4, e em V, com coordenadas 8 e 6. O ponto médio desse segmento é 5 e 5. A inclinação do segmento TV é um terço, então a mediatriz tem inclinação negativa três. A reta que passa por 5 e 5 com inclinação menos três é y igual a menos 3x mais 20. Portanto, a alternativa correta é a letra A."
+}

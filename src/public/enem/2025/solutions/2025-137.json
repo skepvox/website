@@ -1,0 +1,27 @@
+{
+  "question_id": "2025_q137",
+  "final_answer": {
+    "letter": "D",
+    "value": "1800"
+  },
+  "short_md": "A fábrica produzia 720 unidades em $3\\times 6 = 18$ horas-homem, logo a produtividade é $720/18 = 40$ tijolos por hora-homem. Com 5 funcionários por 9 horas, são $45$ horas-homem e a produção diária passa a $45\\times 40 = 1800$ tijolos.",
+  "steps": [
+    {
+      "title": "Fórmula e termos",
+      "body_md": "A produção diária pode ser modelada por:  \n$P = f\\times h\\times r$  \nonde:  \n*P* = produção diária,  \n*f* = número de funcionários,  \n*h* = horas por dia,  \n*r* = produtividade (tijolos por hora-homem)."
+    },
+    {
+      "title": "Encontrar a produtividade",
+      "body_md": "No cenário inicial são:  \n$3\\times 6 = 18$  \nhoras-homem para 720 tijolos, então:  \n$r = 720/18 = 40$"
+    },
+    {
+      "title": "Calcular as horas-homem novas",
+      "body_md": "Com 5 funcionários por 9 horas:  \n$f\\times h = 5\\times 9 = 45$  \nhoras-homem."
+    },
+    {
+      "title": "Obter o total",
+      "body_md": "Substituindo na fórmula:  \n$P = 45\\times 40 = 1800$  \ntijolos, correspondente à alternativa D."
+    }
+  ],
+  "tts_text": "Para esse tipo de problema, usamos a ideia de produção diária como produto de três fatores: número de funcionários, horas trabalhadas por dia e produtividade por hora-homem. No cenário inicial, 3 funcionários trabalhando 6 horas geram 18 horas-homem e produzem 720 tijolos. Portanto, a produtividade é 720 dividido por 18, resultando em 40 tijolos por hora-homem. Com o aumento, são 5 funcionários por 9 horas, totalizando 45 horas-homem. Mantendo a produtividade constante, multiplicamos 45 por 40 e obtemos 1800 tijolos por dia. Logo, a alternativa correta é a D."
+}

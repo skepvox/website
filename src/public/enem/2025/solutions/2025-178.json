@@ -1,0 +1,23 @@
+{
+  "question_id": "2025_q178",
+  "final_answer": {
+    "letter": "E",
+    "value": "20"
+  },
+  "short_md": "Maior raio: 16 cm \u2192 di\u00e2metro 32 cm.  \nCom folga de 1 cm em cada lado, a aresta da base deve ser  \n$32 + 2 = 34$ cm.  \nA caixa original tem 14 cm.  \nAumento m\u00ednimo: $34 - 14 = 20$ cm.",
+  "steps": [
+    {
+      "title": "F\u00f3rmula e termos",
+      "body_md": "Aresta da base = di\u00e2metro da torta + 2\u00d7(folga lateral)." 
+    },
+    {
+      "title": "Considerar a maior torta",
+      "body_md": "Raio m\u00e1ximo 16 cm \u2192 di\u00e2metro 32 cm.  \nFolga total: 2 cm.  \nAresta m\u00ednima: $32 + 2 = 34$ cm."
+    },
+    {
+      "title": "Comparar com a caixa atual",
+      "body_md": "Aresta atual: 14 cm.  \nDiferen\u00e7a: $34 - 14 = 20$ cm."
+    }
+  ],
+  "tts_text": "A maior torta tem raio de 16 cm, portanto diametro de 32 cm. Como deve haver pelo menos 1 cm de folga em cada lado, a aresta da base precisa ser 32 mais 2, isto e, 34 cm. A caixa original tem 14 cm de lado. A diferenca minima e 20 cm. Portanto, a alternativa correta e a letra E."
+}

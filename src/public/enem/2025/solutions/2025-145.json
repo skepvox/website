@@ -1,0 +1,27 @@
+{
+  "question_id": "2025_q145",
+  "final_answer": {
+    "letter": "D",
+    "value": "diminui até t2 e depois fica constante"
+  },
+  "short_md": "O gráfico mostra a frequência respiratória diminuindo a partir de t<sub>1</sub> até t<sub>2</sub>, quando se estabiliza em f<sub>2</sub>. Depois de t<sub>2</sub>, permanece constante. Isso corresponde à alternativa D.",
+  "steps": [
+    {
+      "title": "Interpretar os eixos",
+      "body_md": "O eixo horizontal representa o tempo e o vertical a frequência respiratória (rpm)."
+    },
+    {
+      "title": "Analisar de t<sub>1</sub> a t<sub>2</sub>",
+      "body_md": "A curva desce de f<sub>1</sub> até f<sub>2</sub>, indicando diminuição da frequência." 
+    },
+    {
+      "title": "Analisar após t<sub>2</sub>",
+      "body_md": "A curva fica horizontal, indicando estabilização em valor constante." 
+    },
+    {
+      "title": "Escolher a alternativa",
+      "body_md": "Diz que a frequência diminui até t<sub>2</sub> e depois se torna constante, exatamente a alternativa D."
+    }
+  ],
+  "tts_text": "O gráfico relaciona a frequência respiratória com o tempo. No instante t1, quando a meditação começa, a frequência está em f1. A partir daí, a curva desce até atingir f2 no instante t2, mostrando uma redução gradual. Depois de t2, o gráfico fica horizontal, o que significa que a frequência se estabiliza e permanece constante. Portanto, a descrição correta é que a frequência diminui até t2 e, a partir desse instante, torna-se constante. Essa é a alternativa D."
+}

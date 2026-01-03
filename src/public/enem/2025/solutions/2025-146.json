@@ -1,0 +1,19 @@
+{
+  "question_id": "2025_q146",
+  "final_answer": {
+    "letter": "B",
+    "value": "0,42"
+  },
+  "short_md": "A marca de referência é $t_{ref} = 10,00$ s e o recorde é $t_{rec} = 9,58$ s.  \nA diferença é:  \n$\\Delta t = t_{ref} - t_{rec} = 0,42$ s",
+  "steps": [
+    {
+      "title": "Fórmula e termos",
+      "body_md": "Para comparar tempos, usamos a diferença:  \n$\\Delta t = t_{ref} - t_{rec}$  \nonde $t_{ref}$ é a marca de referência e $t_{rec}$ é o recorde, em segundos."
+    },
+    {
+      "title": "Substituir os valores",
+      "body_md": "Aplicando os dados:  \n$\\Delta t = 10,00 - 9,58 = 0,42$ s"
+    }
+  ],
+  "tts_text": "A marca de referência é 10,00 segundos e o recorde de 2009 foi 9,58 segundos. A diferença entre essas duas marcas é a subtração do menor do maior. Assim, 10,00 menos 9,58 resulta em 0,42 segundo. Portanto, a alternativa correta é a letra B."
+}

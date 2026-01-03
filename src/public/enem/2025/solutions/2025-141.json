@@ -1,0 +1,23 @@
+{
+  "question_id": "2025_q141",
+  "final_answer": {
+    "letter": "B",
+    "value": "36/100"
+  },
+  "short_md": "Do infográfico, 90% dos internautas acessam redes sociais e, entre eles, 40% são homens. Logo:  \n$(90/100)\\times(40/100) = 36/100$",
+  "steps": [
+    {
+      "title": "Fórmula e termos",
+      "body_md": "Seja $R$ o evento ‘acessa rede social’ e $H$ o evento ‘homem’.  \n$P(H\\cap R) = P(R)\\times P(H|R)$  \nonde:  \n$P(R)$ = proporção que acessa redes,  \n$P(H|R)$ = proporção de homens entre os que acessam."
+    },
+    {
+      "title": "Substituir os dados",
+      "body_md": "Do infográfico:  \n$P(R) = 90/100$  \n$P(H|R) = 40/100$"
+    },
+    {
+      "title": "Calcular a probabilidade",
+      "body_md": "Logo:  \n$P(H\\cap R) = (90/100)\\times(40/100) = 36/100$  \ncorrespondente à alternativa B."
+    }
+  ],
+  "tts_text": "O infográfico informa que 90% dos internautas acessam redes sociais e, dentre esses, 40% são homens. Para obter a probabilidade de escolher um internauta que seja homem e que acesse redes, multiplicamos a proporção que acessa redes pela proporção de homens entre os que acessam. Assim, 90% vezes 40% resulta em 36%. Em forma de fração, isso é 36/100. Portanto, a alternativa correta é a B."
+}
