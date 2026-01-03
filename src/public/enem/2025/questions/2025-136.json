@@ -1,0 +1,96 @@
+{
+  "id": "2025_q136",
+  "year": 2025,
+  "day": 2,
+  "number": 136,
+  "area": {
+    "code": "matematica",
+    "name": "Matemática e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "A cúpula pentagonal giralongada é um poliedro de Johnson,\ncujas faces são polígonos regulares, mas que não é um poliedro\nde Platão, de Arquimedes, prisma ou antiprisma.\nAs figuras apresentam esse poliedro em duas posições e\numa de suas planificações.",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "Quantos vértices tem esse poliedro?",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "A cúpula pentagonal giralongada é um poliedro de Johnson,\ncujas faces são polígonos regulares, mas que não é um poliedro\nde Platão, de Arquimedes, prisma ou antiprisma.\nAs figuras apresentam esse poliedro em duas posições e\numa de suas planificações.",
+      "anchor": "before:assets:context",
+      "order": 1
+    }
+  ],
+  "prompt": {
+    "text": "Quantos vértices tem esse poliedro?",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "21",
+      "latex": "\\text{21}"
+    },
+    {
+      "letter": "B",
+      "text": "25",
+      "latex": "\\text{25}"
+    },
+    {
+      "letter": "C",
+      "text": "55",
+      "latex": "\\text{55}"
+    },
+    {
+      "letter": "D",
+      "text": "80",
+      "latex": "\\text{80}"
+    },
+    {
+      "letter": "E",
+      "text": "110",
+      "latex": "\\text{110}"
+    }
+  ],
+  "correct_answer": "B",
+  "assets": {
+    "images": [],
+    "charts": [
+      {
+        "id": "2025-136-chart-001",
+        "type": "2025-136-polygons",
+        "data_file": "charts/2025-136-chart-001.json",
+        "meta_file": "charts/2025-136-chart-001-meta.json",
+        "position": "context"
+      },
+      {
+        "id": "2025-136-chart-002",
+        "type": "2025-136-polygons",
+        "data_file": "charts/2025-136-chart-002.json",
+        "meta_file": "charts/2025-136-chart-002-meta.json",
+        "position": "context"
+      }
+    ],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 136,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": true,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt updated; improved charts mapped"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "t1": 0.33,
+  "t2": 0.66,
+  "f1": 0.5,
+  "f2": 0.25,
+  "xEnd": 0.92,
+  "steps": 24,
+  "labels": {
+    "x": "Tempo (min)",
+    "y": "Frequencia respiratoria (rpm)",
+    "t1": "t1",
+    "t2": "t2",
+    "f1": "f1",
+    "f2": "f2",
+    "note": "Inicio da pratica\nmeditativa"
+  }
+}

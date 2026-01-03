@@ -1,0 +1,83 @@
+{
+  "id": "2025_q018",
+  "year": 2025,
+  "day": 1,
+  "number": 18,
+  "area": {
+    "code": "linguagens",
+    "name": "Linguagens, Códigos e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "No predomínio das mulheres pretas brasileiras nos Jogos\nOlímpicos de 2024, uma coisa chamou a atenção no pódio: elas\nvalorizam a parte psicológica. As duas medalhistas de ouro, a\njudoca Beatriz Souza e a ginasta Rebeca Andrade, ressaltam, em\nvárias entrevistas, a importância da saúde mental. Em uma dessas\nentrevistas, Rebeca sinaliza: “Acho que não é só sobre vencer a\nSimone, é sobre vencer a mim mesma. A minha briga está na\nminha cabeça, não está com outras pessoas. Para conseguir fazer\nas minhas apresentações, preciso controlar a minha cabeça, o meu\ncorpo, e essa é a briga”. Na mesma linha, a skatista Rayssa Leal\nexalta a necessidade da terapia, e a Seleção Brasileira de Futebol de\nMulheres tem o suporte psicológico como reforço no treinamento.",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "Acesso em: 18 set. 2024 (adaptado). Nesse texto, as atletas brasileiras defendem o(a)",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "No predomínio das mulheres pretas brasileiras nos Jogos\nOlímpicos de 2024, uma coisa chamou a atenção no pódio: elas\nvalorizam a parte psicológica. As duas medalhistas de ouro, a\njudoca Beatriz Souza e a ginasta Rebeca Andrade, ressaltam, em\nvárias entrevistas, a importância da saúde mental. Em uma dessas\nentrevistas, Rebeca sinaliza: “Acho que não é só sobre vencer a\nSimone, é sobre vencer a mim mesma. A minha briga está na\nminha cabeça, não está com outras pessoas. Para conseguir fazer\nas minhas apresentações, preciso controlar a minha cabeça, o meu\ncorpo, e essa é a briga”. Na mesma linha, a skatista Rayssa Leal\nexalta a necessidade da terapia, e a Seleção Brasileira de Futebol de\nMulheres tem o suporte psicológico como reforço no treinamento.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "Acesso em: 18 set. 2024 (adaptado).",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "Nesse texto, as atletas brasileiras defendem o(a)",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "investimento na modernização de equipamentos."
+    },
+    {
+      "letter": "B",
+      "text": "subordinação do treinamento físico ao mental."
+    },
+    {
+      "letter": "C",
+      "text": "estímulo à competição entre adversárias."
+    },
+    {
+      "letter": "D",
+      "text": "aprimoramento da expressão corporal."
+    },
+    {
+      "letter": "E",
+      "text": "importância da saúde emocional."
+    }
+  ],
+  "correct_answer": "E",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 18,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

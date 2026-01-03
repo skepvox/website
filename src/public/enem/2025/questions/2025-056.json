@@ -1,0 +1,87 @@
+{
+  "id": "2025_q056",
+  "year": 2025,
+  "day": 1,
+  "number": 56,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "TEXTO I",
+    "source": {
+      "author": "CARLEVARIS, L.",
+      "title": "La piazetta (detalhe). Óleo sobre tela, 49 × 41 cm.",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "Ashmolean Museum, Oxford, 1729. Disponível em: www.meinsterart.de. Acesso em: 13 dez. 2017. TEXTO II Antigo centro da economia mundo-europeia do século XV, no final do século XVII e início do século XVIII, Veneza ainda era uma cidade cosmopolita onde orientais podiam sentir-se em casa. BRAUDEL, F. O tempo do mundo. São Paulo: Martins Fontes, 1979 (adaptado). Qual elemento da condição cosmopolita de Veneza na Idade Moderna está explicitado nos textos?",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "TEXTO I",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "Ashmolean Museum, Oxford, 1729. Disponível em: www.meinsterart.de. Acesso em: 13 dez. 2017. TEXTO II Antigo centro da economia mundo-europeia do século XV, no final do século XVII e início do século XVIII, Veneza ainda era uma cidade cosmopolita onde orientais podiam sentir-se em casa. BRAUDEL, F. O tempo do mundo. São Paulo: Martins Fontes, 1979 (adaptado).",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "Qual elemento da condição cosmopolita de Veneza na Idade Moderna está explicitado nos textos?",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "Avanço do ensino laico."
+    },
+    {
+      "letter": "B",
+      "text": "Conquista das terras da América."
+    },
+    {
+      "letter": "C",
+      "text": "Integração do comércio mediterrâneo."
+    },
+    {
+      "letter": "D",
+      "text": "Popularização do pensamento humanista."
+    },
+    {
+      "letter": "E",
+      "text": "Desenvolvimento das corporações de ofício."
+    }
+  ],
+  "correct_answer": "C",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 56,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

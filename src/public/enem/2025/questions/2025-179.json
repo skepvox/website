@@ -1,0 +1,81 @@
+{
+  "id": "2025_q179",
+  "year": 2025,
+  "day": 2,
+  "number": 179,
+  "area": {
+    "code": "matematica",
+    "name": "Matemática e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Um empresário utiliza máquinas cuja pressão interna \\(P\\), em atmosfera, depende do tempo contínuo de utilização \\(t\\), em hora, e de um parâmetro positivo \\(K\\), que define o modelo da máquina, segundo a expressão:\n\n\\[P = 4 \\cdot \\log[-K \\cdot (t + 1) \\cdot (t - 19)]\\]\n\nO fabricante dessas máquinas recomenda ao usuário que a pressão interna desse tipo de máquina não ultrapasse 10 atmosferas durante seu funcionamento.\n\nO empresário pretende comprar novas máquinas desse tipo que deverão funcionar, diariamente, por um período contínuo de 10 horas. Para isso, precisa definir o modelo de máquina a ser adquirida escolhendo o maior valor possível do parâmetro \\(K\\), atendendo à recomendação do fabricante.",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Um empresário utiliza máquinas cuja pressão interna \\(P\\), em atmosfera, depende do tempo contínuo de utilização \\(t\\), em hora, e de um parâmetro positivo \\(K\\), que define o modelo da máquina, segundo a expressão:\n\n\\[P = 4 \\cdot \\log[-K \\cdot (t + 1) \\cdot (t - 19)]\\]\n\nO fabricante dessas máquinas recomenda ao usuário que a pressão interna desse tipo de máquina não ultrapasse 10 atmosferas durante seu funcionamento.\n\nO empresário pretende comprar novas máquinas desse tipo que deverão funcionar, diariamente, por um período contínuo de 10 horas. Para isso, precisa definir o modelo de máquina a ser adquirida escolhendo o maior valor possível do parâmetro \\(K\\), atendendo à recomendação do fabricante.",
+      "anchor": "before:assets:context",
+      "order": 1
+    }
+  ],
+  "prompt": {
+    "text": "O maior valor a ser escolhido para \\(K\\) é",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "10^0,5",
+      "latex": "10^{0{,}5}"
+    },
+    {
+      "letter": "B",
+      "text": "10^8",
+      "latex": "10^{8}"
+    },
+    {
+      "letter": "C",
+      "text": "10^2,5 / 84",
+      "latex": "\\dfrac{10^{2{,}5}}{84}"
+    },
+    {
+      "letter": "D",
+      "text": "10^2,5 / 99",
+      "latex": "\\dfrac{10^{2{,}5}}{99}"
+    },
+    {
+      "letter": "E",
+      "text": "25 × 10^-2",
+      "latex": "25 \\times 10^{-2}"
+    }
+  ],
+  "correct_answer": "A",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 179,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt updated; formula normalized"
+  }
+}

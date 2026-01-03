@@ -1,0 +1,80 @@
+{
+  "id": "2025_q041",
+  "year": 2025,
+  "day": 1,
+  "number": 41,
+  "area": {
+    "code": "linguagens",
+    "name": "Linguagens, Códigos e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Em 1995, os Jenipapo-Kanindé quebraram a tradição da\nsucessão masculina e nomearam Maria de Lourdes da Conceição\nAlves como sua líder. Desde então, a Cacique Pequena guia o\npovo em grandes batalhas pelo direito a terra, educação, saúde\ne cidadania. Hoje, a anciã de 73 anos prepara duas filhas para\nlhe sucederem quando ela “tombar e pai Tupã a levar”.\nHoje, 129 famílias do município de Aquiraz são reconhecidas\npela Fundação Nacional dos Povos Indígenas (Funai) como\nindígenas, principal luta de Pequena para o seu povo desde\no início. “Em 1995, fui a Brasília e tive a oportunidade de\nconversar com o presidente da Funai. Pedi que mandasse o\npovo dele na aldeia para fazer o estudo da nossa mãe-terra\ne de nós”. Dois anos depois, vieram os antropólogos, que\nconcluíram: “Nós era índio sim!”, diz ela.\nHá cerca de oito anos, Pequena adoeceu e ficou entre a\nvida e a morte. Nesse momento, precisou escolher, entre os\n16 filhos, quem assumiria sua missão quando partisse. Reunida,\na família decidiu sobre a sucessão. “Disseram que, como eu\nera a primeira cacique mulher do Ceará, acharam melhor eu\ncolocar duas filhas”.",
+    "source": {
+      "url": "www.sesc-ce.com.br",
+      "access_date": "15 set. 2024",
+      "note": "adaptado"
+    },
+    "language": "pt"
+  },
+  "statement": "Ao abordar a realidade da etnia Jenipapo-Kanindé, essa reportagem cumpre uma função social quando destaca o(a)",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Em 1995, os Jenipapo-Kanindé quebraram a tradição da\nsucessão masculina e nomearam Maria de Lourdes da Conceição\nAlves como sua líder. Desde então, a Cacique Pequena guia o\npovo em grandes batalhas pelo direito a terra, educação, saúde\ne cidadania. Hoje, a anciã de 73 anos prepara duas filhas para\nlhe sucederem quando ela “tombar e pai Tupã a levar”.\nHoje, 129 famílias do município de Aquiraz são reconhecidas\npela Fundação Nacional dos Povos Indígenas (Funai) como\nindígenas, principal luta de Pequena para o seu povo desde\no início. “Em 1995, fui a Brasília e tive a oportunidade de\nconversar com o presidente da Funai. Pedi que mandasse o\npovo dele na aldeia para fazer o estudo da nossa mãe-terra\ne de nós”. Dois anos depois, vieram os antropólogos, que\nconcluíram: “Nós era índio sim!”, diz ela.\nHá cerca de oito anos, Pequena adoeceu e ficou entre a\nvida e a morte. Nesse momento, precisou escolher, entre os\n16 filhos, quem assumiria sua missão quando partisse. Reunida,\na família decidiu sobre a sucessão. “Disseram que, como eu\nera a primeira cacique mulher do Ceará, acharam melhor eu\ncolocar duas filhas”.",
+      "anchor": "before:assets:context",
+      "order": 1
+    }
+  ],
+  "prompt": {
+    "text": "Ao abordar a realidade da etnia Jenipapo-Kanindé, essa reportagem cumpre uma função social quando destaca o(a)",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "quantidade de famílias indígenas em Aquiraz."
+    },
+    {
+      "letter": "B",
+      "text": "força da tradição nas comunidades indígenas."
+    },
+    {
+      "letter": "C",
+      "text": "estudo sobre a demarcação das terras indígenas."
+    },
+    {
+      "letter": "D",
+      "text": "protagonismo feminino na linha sucessória desse povo."
+    },
+    {
+      "letter": "E",
+      "text": "reconhecimento dessa comunidade pelo governo brasileiro."
+    }
+  ],
+  "correct_answer": "D",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 41,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

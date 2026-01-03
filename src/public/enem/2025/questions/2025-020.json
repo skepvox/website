@@ -1,0 +1,80 @@
+{
+  "id": "2025_q020",
+  "year": 2025,
+  "day": 1,
+  "number": 20,
+  "area": {
+    "code": "linguagens",
+    "name": "Linguagens, Códigos e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "O meu medo é entrar na faculdade e tirar zero eu que nunca\nfui bom de matemática fraco no inglês eu que nunca gostei de\nquímica geografia e português o que é que eu faço agora hein\nmãe não sei. [...]\nO meu medo é a vida piorar e eu não conseguir arranjar\nemprego nem de faxineiro nem de porteiro nem de ajudante\nde pedreiro e o pessoal dizer que o governo já fez o que pôde\njá pôde o que fez já deu a sua cota de participação hein mãe\nnão sei.\nO meu medo é que mesmo com diploma debaixo do braço\nandando por aí desiludido e desempregado o policial me olhe\nde cara feia e eu acabe fazendo uma burrice sei lá uma besteira\nserá que eu vou ter direito a uma cela especial hein mãe não sei.",
+    "source": {
+      "author": "FREIRE, M.",
+      "title": "Contos negreiros. Rio de Janeiro: Record, 2005.",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "Nesse texto, a reiteração dos medos e das angústias do narrador exprime",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "O meu medo é entrar na faculdade e tirar zero eu que nunca\nfui bom de matemática fraco no inglês eu que nunca gostei de\nquímica geografia e português o que é que eu faço agora hein\nmãe não sei. [...]\nO meu medo é a vida piorar e eu não conseguir arranjar\nemprego nem de faxineiro nem de porteiro nem de ajudante\nde pedreiro e o pessoal dizer que o governo já fez o que pôde\njá pôde o que fez já deu a sua cota de participação hein mãe\nnão sei.\nO meu medo é que mesmo com diploma debaixo do braço\nandando por aí desiludido e desempregado o policial me olhe\nde cara feia e eu acabe fazendo uma burrice sei lá uma besteira\nserá que eu vou ter direito a uma cela especial hein mãe não sei.",
+      "anchor": "before:assets:context",
+      "order": 1
+    }
+  ],
+  "prompt": {
+    "text": "Nesse texto, a reiteração dos medos e das angústias do narrador exprime",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "inseguranças sobre o futuro familiar."
+    },
+    {
+      "letter": "B",
+      "text": "dilemas resultantes de seu fracasso escolar."
+    },
+    {
+      "letter": "C",
+      "text": "incertezas centradas em sua condição social."
+    },
+    {
+      "letter": "D",
+      "text": "hesitações em relação à sua formação profissional."
+    },
+    {
+      "letter": "E",
+      "text": "preocupações com as políticas públicas assistenciais."
+    }
+  ],
+  "correct_answer": "C",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 20,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

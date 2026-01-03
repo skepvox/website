@@ -1,0 +1,80 @@
+{
+  "id": "2025_q050",
+  "year": 2025,
+  "day": 1,
+  "number": 50,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Por séculos, o Rio Reno tem sido uma rota de navegação\nconfiável, ajudando a criar gigantes fabris ao longo de suas\nmargens. No entanto, esses dias parecem estar no fim, pois\no nível da água tem diminuído regularmente, o que impede a\nnavegação fluvial do final do verão até o outono. Isso mostra\ncomo a crise climática atinge as economias dos países ricos.",
+    "source": {
+      "url": "www.estadao.com.br",
+      "access_date": "10 ago. 2023",
+      "note": "adaptado"
+    },
+    "language": "pt"
+  },
+  "statement": "Qual é o efeito econômico do problema ambiental apresentado no texto?",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Por séculos, o Rio Reno tem sido uma rota de navegação\nconfiável, ajudando a criar gigantes fabris ao longo de suas\nmargens. No entanto, esses dias parecem estar no fim, pois\no nível da água tem diminuído regularmente, o que impede a\nnavegação fluvial do final do verão até o outono. Isso mostra\ncomo a crise climática atinge as economias dos países ricos.",
+      "anchor": "before:assets:context",
+      "order": 1
+    }
+  ],
+  "prompt": {
+    "text": "Qual é o efeito econômico do problema ambiental apresentado no texto?",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "Supressão da extração de minério."
+    },
+    {
+      "letter": "B",
+      "text": "Intensificação da atividade de pesca."
+    },
+    {
+      "letter": "C",
+      "text": "Encarecimento da logística de transporte."
+    },
+    {
+      "letter": "D",
+      "text": "Inviabilização da agricultura de subsistência."
+    },
+    {
+      "letter": "E",
+      "text": "Sucateamento da indústria de transformação."
+    }
+  ],
+  "correct_answer": "C",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 50,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

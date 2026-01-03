@@ -14,7 +14,7 @@ Merge rules:
 
 Use `node scripts/publish-enem.js --year 2025` or
 `pnpm publish:enem -- --year 2025` to apply overrides and write merged
-JSON into `src/public/enem/2025/by_question/`.
+JSON into `src/public/enem/2025/questions/`.
 
 Optional flags:
 - `--dry-run`

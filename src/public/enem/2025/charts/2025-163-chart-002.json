@@ -1,0 +1,35 @@
+{
+  "type": "navigation-routes",
+  "points": {
+    "P": { "x": 30, "y": 123 },
+    "Q": { "x": 120, "y": 160 },
+    "R": { "x": 180, "y": 160 },
+    "S": { "x": 10, "y": 0 },
+    "T": { "x": 80, "y": 0 }
+  },
+  "routes": [
+    {
+      "id": "planned",
+      "label": "Rota planejada",
+      "segments": [
+        { "from": "P", "to": "Q", "direction": 110, "style": "solid", "color": "#f28c28" },
+        { "from": "Q", "to": "R", "direction": 90, "style": "solid", "color": "#f28c28" }
+      ]
+    },
+    {
+      "id": "executed",
+      "label": "Rota executada",
+      "segments": [
+        { "from": "P", "to": "S", "direction": 340, "style": "solid", "color": "#2dbb45" },
+        { "from": "S", "to": "T", "direction": 90, "style": "solid", "color": "#2dbb45" }
+      ]
+    },
+    {
+      "id": "correction",
+      "label": "Correção T→R",
+      "segments": [
+        { "from": "T", "to": "R", "direction": 135, "style": "dotted", "color": "#1f9ea6" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "2025_q121",
+  "year": 2025,
+  "day": 2,
+  "number": 121,
+  "area": {
+    "code": "natureza",
+    "name": "Ciências da Natureza e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Nos processos de transformação e reciclagem de recursos\nnaturais, as velocidades das reações químicas são estudadas pela\ncinética química. Uma reação A → B é realizada na presença\ne na ausência de uma enzima, com todas as demais condições\npermanecendo inalteradas. Considere que, no gráfico da\nvariação de energia ao longo dessa reação, a linha contínua\nrepresenta o avanço da reação na ausência da enzima, e a linha\npontilhada, na presença da enzima.",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "O gráfico que representa a situação descrita é:",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Nos processos de transformação e reciclagem de recursos\nnaturais, as velocidades das reações químicas são estudadas pela\ncinética química. Uma reação A → B é realizada na presença\ne na ausência de uma enzima, com todas as demais condições\npermanecendo inalteradas. Considere que, no gráfico da\nvariação de energia ao longo dessa reação, a linha contínua\nrepresenta o avanço da reação na ausência da enzima, e a linha\npontilhada, na presença da enzima.",
+      "anchor": "before:assets:context",
+      "order": 1
+    }
+  ],
+  "prompt": {
+    "text": "O gráfico que representa a situação descrita é:",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "[IMAGE]"
+    },
+    {
+      "letter": "B",
+      "text": "[IMAGE]"
+    },
+    {
+      "letter": "C",
+      "text": "[IMAGE]"
+    },
+    {
+      "letter": "D",
+      "text": "[IMAGE]"
+    },
+    {
+      "letter": "E",
+      "text": "[IMAGE]"
+    }
+  ],
+  "correct_answer": "C",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 121,
+    "foreign_language_option": null,
+    "has_image": true,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "Image-based options need manual review"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "2025_q124",
+  "year": 2025,
+  "day": 2,
+  "number": 124,
+  "area": {
+    "code": "natureza",
+    "name": "Ciências da Natureza e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "O despejo acidental de óleo nos oceanos tem ocasionado\nincontáveis prejuízos à vida marinha e à economia de regiões\ncosteiras. Métodos tradicionais de tratamento do despejo geram\nresíduos de difícil descarte e nem sempre são eficazes. Por isso,\npesquisadores desenvolveram um filtro capaz de separar óleo\ne água. O dispositivo é montado sobre uma malha de aço com\numa sequência de camadas. A primeira camada é formada\npor um polímero de carga positiva, a segunda é composta por\nnanopartículas de sílica (SiO2), a terceira é formada pelo mesmo\npolímero e a última é um surfactante, conforme apresentado\nna figura.\nRepresentação esquemática do dispositivo",
+    "source": {
+      "author": "BROWN, P. S.",
+      "title": "; BHUSHAN, B. Mechanically durable, superoleophobic",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "coatings prepared by layer-by-layer technique for anti-smudge and oil-water separation. Scientific Reports, v. 5, mar. 2015 (adaptado). Na utilização desse dispositivo, a retenção do óleo ocorre",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "O despejo acidental de óleo nos oceanos tem ocasionado\nincontáveis prejuízos à vida marinha e à economia de regiões\ncosteiras. Métodos tradicionais de tratamento do despejo geram\nresíduos de difícil descarte e nem sempre são eficazes. Por isso,\npesquisadores desenvolveram um filtro capaz de separar óleo\ne água. O dispositivo é montado sobre uma malha de aço com\numa sequência de camadas. A primeira camada é formada\npor um polímero de carga positiva, a segunda é composta por\nnanopartículas de sílica (SiO2), a terceira é formada pelo mesmo\npolímero e a última é um surfactante, conforme apresentado\nna figura.\nRepresentação esquemática do dispositivo",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "coatings prepared by layer-by-layer technique for anti-smudge and oil-water separation. Scientific Reports, v. 5, mar. 2015 (adaptado). Na utilização desse dispositivo, a retenção do óleo ocorre",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "no surfactante."
+    },
+    {
+      "letter": "B",
+      "text": "na camada superior de polímero."
+    },
+    {
+      "letter": "C",
+      "text": "nas nanopartículas de sílica."
+    },
+    {
+      "letter": "D",
+      "text": "na camada inferior de polímero."
+    },
+    {
+      "letter": "E",
+      "text": "na malha de aço."
+    }
+  ],
+  "correct_answer": "A",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 124,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

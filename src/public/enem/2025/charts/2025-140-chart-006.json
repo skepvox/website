@@ -1,0 +1,17 @@
+{
+  "gridSize": 8,
+  "cubeSize": 0.8,
+  "cubeColor": "#e63946",
+  "projectionColor": "#e63946",
+  "showCube": true,
+  "cube": {
+    "x": 2,
+    "y": 6,
+    "z": 2
+  },
+  "projections": [
+    { "plane": "xy", "x": 2, "y": 6, "z": 0 },
+    { "plane": "xz", "x": 2, "y": 0, "z": 2 },
+    { "plane": "yz", "x": 0, "y": 6, "z": 2 }
+  ]
+}

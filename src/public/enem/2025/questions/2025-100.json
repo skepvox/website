@@ -1,0 +1,76 @@
+{
+  "id": "2025_q100",
+  "year": 2025,
+  "day": 2,
+  "number": 100,
+  "area": {
+    "code": "natureza",
+    "name": "Ciências da Natureza e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Réguas elétricas são dispositivos que permitem a ligação\nsegura e simultânea de dois ou mais aparelhos eletroeletrônicos\nà rede elétrica. Uma estudante comprou uma régua com seis\ntomadas, conforme a figura. Essa régua suporta uma intensidade\nmáxima de corrente elétrica igual a 20 A. Acima desse valor, o\nfusível de segurança da régua se rompe, inutilizando-a até que\num novo fusível seja instalado. Considere as potências nominais\nde alguns aparelhos eletroeletrônicos apresentadas no quadro.\nAparelho\nPotência (watt)\nLuminária de LED\n5\nComputador\n250\nImpressora a laser\n660\nSecador de cabelos\n750\nCafeteira\n900\nCondicionador\nde ar portátil\n1 100\nEm um dia quente, a estudante mantém o computador e o\ncondicionador de ar portátil ligados à régua permanentemente.\nNessa situação, ela tenta realizar algumas atividades, uma de\ncada vez, utilizando a mesma régua, na seguinte ordem:\n1º – imprimir um trabalho escolar;\n2º – fazer um café com a cafeteira;\n3º – ligar a luminária;\n4º – secar os cabelos.\nSabe-se que a régua foi ligada à tensão elétrica de 110 V,\nadequada para o funcionamento desses aparelhos.\nConsiderando a ordem das tentativas, quantas atividades a",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "estudante conseguiu realizar sem queimar o fusível?",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Réguas elétricas são dispositivos que permitem a ligação\nsegura e simultânea de dois ou mais aparelhos eletroeletrônicos\nà rede elétrica. Uma estudante comprou uma régua com seis\ntomadas, conforme a figura. Essa régua suporta uma intensidade\nmáxima de corrente elétrica igual a 20 A. Acima desse valor, o\nfusível de segurança da régua se rompe, inutilizando-a até que\num novo fusível seja instalado. Considere as potências nominais\nde alguns aparelhos eletroeletrônicos apresentadas no quadro.\nAparelho\nPotência (watt)\nLuminária de LED\n5\nComputador\n250\nImpressora a laser\n660\nSecador de cabelos\n750\nCafeteira\n900\nCondicionador\nde ar portátil\n1 100\nEm um dia quente, a estudante mantém o computador e o\ncondicionador de ar portátil ligados à régua permanentemente.\nNessa situação, ela tenta realizar algumas atividades, uma de\ncada vez, utilizando a mesma régua, na seguinte ordem:\n1º – imprimir um trabalho escolar;\n2º – fazer um café com a cafeteira;\n3º – ligar a luminária;\n4º – secar os cabelos.\nSabe-se que a régua foi ligada à tensão elétrica de 110 V,\nadequada para o funcionamento desses aparelhos.\nConsiderando a ordem das tentativas, quantas atividades a",
+      "anchor": "before:assets:context",
+      "order": 1
+    }
+  ],
+  "prompt": {
+    "text": "estudante conseguiu realizar sem queimar o fusível?",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "4"
+    },
+    {
+      "letter": "B",
+      "text": "3"
+    },
+    {
+      "letter": "C",
+      "text": "2"
+    },
+    {
+      "letter": "D",
+      "text": "1"
+    },
+    {
+      "letter": "E",
+      "text": "0"
+    }
+  ],
+  "correct_answer": "D",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 100,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

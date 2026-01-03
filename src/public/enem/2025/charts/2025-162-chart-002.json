@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "label": "Futebol",
+      "value": 180,
+      "color": "#1fd5e5"
+    },
+    {
+      "label": "Vôlei",
+      "value": 100,
+      "color": "#f5a623"
+    },
+    {
+      "label": "Basquete",
+      "value": 80,
+      "color": "#7a3df2",
+      "valueLabel": "80"
+    }
+  ]
+}

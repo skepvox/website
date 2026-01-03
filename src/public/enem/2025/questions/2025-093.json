@@ -1,0 +1,83 @@
+{
+  "id": "2025_q093",
+  "year": 2025,
+  "day": 2,
+  "number": 93,
+  "area": {
+    "code": "natureza",
+    "name": "Ciências da Natureza e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "O esquema apresenta as etapas do processo de biodigestão,\numa forma de dar um destino sustentável a excrementos animais\ne restos de comida produzidos em áreas de criação de gado e\nporcos confinados.",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "Acesso em: 11 fev. 2015 (adaptado). Dar destino sustentável às sobras, conforme apresentado na etapa 4, ajuda a evitar a",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "O esquema apresenta as etapas do processo de biodigestão,\numa forma de dar um destino sustentável a excrementos animais\ne restos de comida produzidos em áreas de criação de gado e\nporcos confinados.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "Acesso em: 11 fev. 2015 (adaptado).",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "Dar destino sustentável às sobras, conforme apresentado na etapa 4, ajuda a evitar a",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "bioacumulação de toxinas em plantas."
+    },
+    {
+      "letter": "B",
+      "text": "eutrofização dos corpos de água."
+    },
+    {
+      "letter": "C",
+      "text": "destruição da camada de ozônio."
+    },
+    {
+      "letter": "D",
+      "text": "ocorrência de inversão térmica."
+    },
+    {
+      "letter": "E",
+      "text": "produção de chuva ácida."
+    }
+  ],
+  "correct_answer": "B",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 93,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

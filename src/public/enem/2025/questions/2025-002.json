@@ -1,0 +1,83 @@
+{
+  "id": "2025_q002",
+  "year": 2025,
+  "day": 1,
+  "number": 2,
+  "area": {
+    "code": "linguagens",
+    "name": "Linguagens, Códigos e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Cuando yo era chiquito\ntodo quedaba cerca, cerquita.\nPara llegar al cielo\nno más bastaba una subidita.\nEl sueño me alcanzaba\npara ir tan lejos como quería.\nCuando yo era chiquito\nyo sí podía, yo sí podía.\nLibertad, libertad,\nlibertad para mi niño.\n[...]\nCuando yo era vejigo\nme iba pa’l río porque era hermoso,\naunque estaba prohibido\npor peligroso, por peligroso.\nComo jagüey y ceiba,\ncomo la palma y la yagruma,\ncuando yo era vejigo\nyo era del monte y soñaba espuma.\nLibertad, libertad,\nlibertad para mi niño.",
+    "source": {
+      "author": "RODRÍGUEZ, S.",
+      "title": "Cuando yo era un enano. In: Oh Melancolía. Havana:",
+      "note": null
+    },
+    "language": "en"
+  },
+  "statement": "Empresa de Grabaciones y Ediciones Musicales, 1988 (fragmento). O recurso que caracteriza essa letra de canção como um relato das memórias do eu poético é o uso de",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Cuando yo era chiquito\ntodo quedaba cerca, cerquita.\nPara llegar al cielo\nno más bastaba una subidita.\nEl sueño me alcanzaba\npara ir tan lejos como quería.\nCuando yo era chiquito\nyo sí podía, yo sí podía.\nLibertad, libertad,\nlibertad para mi niño.\n[...]\nCuando yo era vejigo\nme iba pa’l río porque era hermoso,\naunque estaba prohibido\npor peligroso, por peligroso.\nComo jagüey y ceiba,\ncomo la palma y la yagruma,\ncuando yo era vejigo\nyo era del monte y soñaba espuma.\nLibertad, libertad,\nlibertad para mi niño.",
+      "anchor": "before:assets:context",
+      "order": 1,
+      "language": "en"
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "Empresa de Grabaciones y Ediciones Musicales, 1988 (fragmento). O recurso que caracteriza essa letra de canção como um relato das memórias do eu poético é o uso de",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "palavras no grau diminutivo."
+    },
+    {
+      "letter": "B",
+      "text": "adjetivos na descrição da paisagem."
+    },
+    {
+      "letter": "C",
+      "text": "vocábulos relacionados à fauna cubana."
+    },
+    {
+      "letter": "D",
+      "text": "verbos no pretérito imperfeito do indicativo."
+    },
+    {
+      "letter": "E",
+      "text": "marcas linguísticas de uma variedade caribenha."
+    }
+  ],
+  "correct_answer": "D",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 2,
+    "foreign_language_option": "english",
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

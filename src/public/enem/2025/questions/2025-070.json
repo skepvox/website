@@ -1,0 +1,87 @@
+{
+  "id": "2025_q070",
+  "year": 2025,
+  "day": 1,
+  "number": 70,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Entre esses preconceitos estava o canibalismo. A prática não\nera, porém, uma mentira, uma invenção europeia, mas um ritual\ncontrolado por regras. Entre os tupis, por exemplo, os guerreiros\nse sentiam honrados quando morriam em um banquete canibal.\nPara os europeus, no entanto, comer carne humana era\nabominável, pois nem mesmo os leões ingeriam seus semelhantes.\nPortanto, para os conquistadores, o canibalismo era sinônimo de\nbarbarismo e da incapacidade de se autogovernar.",
+    "source": {
+      "author": "RAMINELLI, R.",
+      "title": "Canibalismo para alemão ver. In: FIGUEIREDO, L. (Org.).",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "História do Brasil para ocupados. Rio de Janeiro: Casa da Palavra, 2013 (adaptado). No texto, europeus e ameríndios atribuíram à prática relatada, respectivamente, o significado de",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Entre esses preconceitos estava o canibalismo. A prática não\nera, porém, uma mentira, uma invenção europeia, mas um ritual\ncontrolado por regras. Entre os tupis, por exemplo, os guerreiros\nse sentiam honrados quando morriam em um banquete canibal.\nPara os europeus, no entanto, comer carne humana era\nabominável, pois nem mesmo os leões ingeriam seus semelhantes.\nPortanto, para os conquistadores, o canibalismo era sinônimo de\nbarbarismo e da incapacidade de se autogovernar.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "História do Brasil para ocupados. Rio de Janeiro: Casa da Palavra, 2013 (adaptado).",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "No texto, europeus e ameríndios atribuíram à prática relatada, respectivamente, o significado de",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "selvageria — empoderamento."
+    },
+    {
+      "letter": "B",
+      "text": "impetuosidade — resistência."
+    },
+    {
+      "letter": "C",
+      "text": "fanatismo — humilhação."
+    },
+    {
+      "letter": "D",
+      "text": "intolerância — violência."
+    },
+    {
+      "letter": "E",
+      "text": "repressão — justiça."
+    }
+  ],
+  "correct_answer": "A",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 70,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

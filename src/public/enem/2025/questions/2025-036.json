@@ -1,0 +1,78 @@
+{
+  "id": "2025_q036",
+  "year": 2025,
+  "day": 1,
+  "number": 36,
+  "area": {
+    "code": "linguagens",
+    "name": "Linguagens, Códigos e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "TEXTO I\nOs trabalhos da exposição Adriana Varejão: suturas, fissuras,\nruínas colocam em pauta o exame da história visual, das tradições\niconográficas europeias e do fazer artístico ocidental. O corte,\na rachadura, o talho e a fissura são elementos de narrativas\nrecorrentes nos trabalhos da artista desde 1992. As produções\nrecentes incluem pinturas tridimensionais de grande escala das\nséries Ruínas de charque e Línguas.",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "Acesso em: 10 jan. 2025 (adaptado). TEXTO II VAREJÃO, A. Azulejaria em carne viva. Óleo sobre tela, poliuretano, madeira e alumínio, 160 × 200 × 25 cm. 1999. Disponível em: www.adrianavarejao.net. Acesso em: 10 jan. 2025. A utilização de recursos visuais como suturas, cortes e ruínas por Adriana Varejão, na obra Azulejaria em carne viva, remete à(s)",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "TEXTO I\nOs trabalhos da exposição Adriana Varejão: suturas, fissuras,\nruínas colocam em pauta o exame da história visual, das tradições\niconográficas europeias e do fazer artístico ocidental. O corte,\na rachadura, o talho e a fissura são elementos de narrativas\nrecorrentes nos trabalhos da artista desde 1992. As produções\nrecentes incluem pinturas tridimensionais de grande escala das\nséries Ruínas de charque e Línguas.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "Acesso em: 10 jan. 2025 (adaptado). TEXTO II VAREJÃO, A. Azulejaria em carne viva. Óleo sobre tela, poliuretano, madeira e alumínio, 160 × 200 × 25 cm. 1999. Disponível em: www.adrianavarejao.net. Acesso em: 10 jan. 2025. A utilização de recursos visuais como suturas, cortes e ruínas por Adriana Varejão, na obra Azulejaria em carne viva, remete à(s)",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "sobreposição da cultura brasileira à arte portuguesa."
+    },
+    {
+      "letter": "B",
+      "text": "manutenção da representação realista na arte brasileira."
+    },
+    {
+      "letter": "C",
+      "text": "violências desencadeadas pelo processo colonial brasileiro."
+    },
+    {
+      "letter": "D",
+      "text": "desigualdades nos incentivos à produção artística brasileira."
+    },
+    {
+      "letter": "E",
+      "text": "negligência na conservação do patrimônio arquitetônico luso-brasileiro."
+    }
+  ],
+  "correct_answer": "C",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 36,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

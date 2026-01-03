@@ -1,0 +1,23 @@
+{
+  "title": "Projeto 2",
+  "layoutWidth": 20,
+  "tunnels": [
+    {
+      "label": "Túnel de uso misto",
+      "diameter": 18,
+      "segments": [
+        { "label": "volta", "width": 3 },
+        { "label": "volta", "width": 6 },
+        { "label": "ida", "width": 6 },
+        { "label": "ida", "width": 3 }
+      ],
+      "dimensionSegments": [
+        { "label": "3 m", "width": 3 },
+        { "label": "6 m", "width": 6 },
+        { "label": "6 m", "width": 6 },
+        { "label": "3 m", "width": 3 }
+      ],
+      "x": 1
+    }
+  ]
+}

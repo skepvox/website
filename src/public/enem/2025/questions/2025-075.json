@@ -1,0 +1,83 @@
+{
+  "id": "2025_q075",
+  "year": 2025,
+  "day": 1,
+  "number": 75,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Os povos indígenas têm o direito de manter, controlar, proteger\ne desenvolver seu patrimônio cultural, seus conhecimentos do\npassado, suas expressões culturais e as manifestações de suas\nciências, tecnologias e culturas, compreendidos os recursos humanos\ne genéticos, as sementes, os medicamentos, o conhecimento\ndas propriedades da fauna e da flora, as transmissões orais,\nas literaturas, os desenhos, os esportes, os jogos e as artes visuais\ne interpretativas.\nDeclaração das Nações Unidas sobre os Direitos dos Povos Indígenas.",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "www.un.org. Acesso em: 18 abr. 2015 (adaptado). Os direitos reconhecidos no texto representam a",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Os povos indígenas têm o direito de manter, controlar, proteger\ne desenvolver seu patrimônio cultural, seus conhecimentos do\npassado, suas expressões culturais e as manifestações de suas\nciências, tecnologias e culturas, compreendidos os recursos humanos\ne genéticos, as sementes, os medicamentos, o conhecimento\ndas propriedades da fauna e da flora, as transmissões orais,\nas literaturas, os desenhos, os esportes, os jogos e as artes visuais\ne interpretativas.\nDeclaração das Nações Unidas sobre os Direitos dos Povos Indígenas.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "www.un.org. Acesso em: 18 abr. 2015 (adaptado).",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "Os direitos reconhecidos no texto representam a",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "multiplicidade dos troncos linguísticos."
+    },
+    {
+      "letter": "B",
+      "text": "ampliação das influências externas."
+    },
+    {
+      "letter": "C",
+      "text": "complexidade dos saberes tradicionais."
+    },
+    {
+      "letter": "D",
+      "text": "sofisticação das práticas de sobrevivência."
+    },
+    {
+      "letter": "E",
+      "text": "diversificação da economia de subsistência."
+    }
+  ],
+  "correct_answer": "C",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 75,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "2025_q012",
+  "year": 2025,
+  "day": 1,
+  "number": 12,
+  "area": {
+    "code": "linguagens",
+    "name": "Linguagens, Códigos e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Passando por aqui para lembrar algumas palavras, frases e expressões que nos infernizaram em 2023. Inclusive passando\npor aqui. Se você for proativo, vai achar que é o novo normal. Estarão na sua zona de conforto. Mas, se for reativo como eu, vai\nachar que é uma narrativa que precisa ser ressignificada.\nÉ uma questão de empatia. É sobre entregar um discurso mais robusto e empoderado. Sei bem que não tenho lugar de fala\npara harmonizar certos pontos fora da curva e que preciso aplicar toda a minha resiliência para fazer um realinhamento. O nível\nde fitness está hoje num sarrafo muito alto.\nO fato é que acho cringe essas falas fora da caixinha. Aliás, falar cringe já é meio cringe. Preciso usar a superação para me\nreinventar e entender que resenha não tem mais a ver com futebol, é qualquer papo, desde que latente.\nPensando bem, não é tão difícil. Frases feitas são aquelas que entram por um ouvido e saem pelo outro sem um estágio\nintermediário no cérebro. A boca fala por conta própria, dispensando-nos de pensar. E não tem problema nisso. Ou as ditas\nfrases se incorporam à língua ou morrem e nascem outras. A língua é assim. Simples assim.",
+    "source": {
+      "url": "www1.folha.uol.com.br",
+      "access_date": "3 fev. 2024",
+      "note": "adaptado"
+    },
+    "language": "pt"
+  },
+  "statement": "Nesse texto, a estratégia empregada para criticar a constante exposição a palavras, frases e expressões automatizadas é o(a)",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Passando por aqui para lembrar algumas palavras, frases e expressões que nos infernizaram em 2023. Inclusive passando\npor aqui. Se você for proativo, vai achar que é o novo normal. Estarão na sua zona de conforto. Mas, se for reativo como eu, vai\nachar que é uma narrativa que precisa ser ressignificada.\nÉ uma questão de empatia. É sobre entregar um discurso mais robusto e empoderado. Sei bem que não tenho lugar de fala\npara harmonizar certos pontos fora da curva e que preciso aplicar toda a minha resiliência para fazer um realinhamento. O nível\nde fitness está hoje num sarrafo muito alto.\nO fato é que acho cringe essas falas fora da caixinha. Aliás, falar cringe já é meio cringe. Preciso usar a superação para me\nreinventar e entender que resenha não tem mais a ver com futebol, é qualquer papo, desde que latente.\nPensando bem, não é tão difícil. Frases feitas são aquelas que entram por um ouvido e saem pelo outro sem um estágio\nintermediário no cérebro. A boca fala por conta própria, dispensando-nos de pensar. E não tem problema nisso. Ou as ditas\nfrases se incorporam à língua ou morrem e nascem outras. A língua é assim. Simples assim.",
+      "anchor": "before:assets:context",
+      "order": 1
+    }
+  ],
+  "prompt": {
+    "text": "Nesse texto, a estratégia empregada para criticar a constante exposição a palavras, frases e expressões automatizadas é o(a)",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "menção feita à efemeridade de alguns usos linguísticos aleatórios."
+    },
+    {
+      "letter": "B",
+      "text": "subjetividade marcada pela reflexão que se desenvolve em primeira pessoa."
+    },
+    {
+      "letter": "C",
+      "text": "efeito estilístico da repetição intencional da palavra “assim” no último parágrafo."
+    },
+    {
+      "letter": "D",
+      "text": "sedução sugerida pelo envolvimento direto do leitor marcado nos usos de “você” e “sua”."
+    },
+    {
+      "letter": "E",
+      "text": "humor gerado pelo uso das estruturas linguísticas que são objeto da reflexão desenvolvida."
+    }
+  ],
+  "correct_answer": "E",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 12,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

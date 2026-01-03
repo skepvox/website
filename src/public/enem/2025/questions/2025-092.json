@@ -1,0 +1,78 @@
+{
+  "id": "2025_q092",
+  "year": 2025,
+  "day": 2,
+  "number": 92,
+  "area": {
+    "code": "natureza",
+    "name": "Ciências da Natureza e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "A química nuclear é uma importante ferramenta\nna produção de substâncias utilizadas na área da saúde\nhumana. A radiação emitida pelo cobalto-60 é utilizada na\nmedicina como ferramenta de diagnóstico e no tratamento\ndo câncer. No entanto, esse radioisótopo tem um tempo de\narmazenamento limitado, pois seu tempo de meia-vida é\nde 5,3 anos. Considere um frasco com uma amostra contendo\n2,00 mg de cobalto-60, armazenado durante um período\nde 26,5 anos.\nA massa de cobalto-60, em miligrama, que restará ao final",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "desse tempo é mais próxima de",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "A química nuclear é uma importante ferramenta\nna produção de substâncias utilizadas na área da saúde\nhumana. A radiação emitida pelo cobalto-60 é utilizada na\nmedicina como ferramenta de diagnóstico e no tratamento\ndo câncer. No entanto, esse radioisótopo tem um tempo de\narmazenamento limitado, pois seu tempo de meia-vida é\nde 5,3 anos. Considere um frasco com uma amostra contendo\n2,00 mg de cobalto-60, armazenado durante um período\nde 26,5 anos.\nA massa de cobalto-60, em miligrama, que restará ao final",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "desse tempo é mais próxima de",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "2,00 mg."
+    },
+    {
+      "letter": "B",
+      "text": "1,00 mg."
+    },
+    {
+      "letter": "C",
+      "text": "0,40 mg."
+    },
+    {
+      "letter": "D",
+      "text": "0,13 mg."
+    },
+    {
+      "letter": "E",
+      "text": "0,06 mg."
+    }
+  ],
+  "correct_answer": "E",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 92,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

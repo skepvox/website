@@ -1,0 +1,78 @@
+{
+  "id": "2025_q108",
+  "year": 2025,
+  "day": 2,
+  "number": 108,
+  "area": {
+    "code": "natureza",
+    "name": "Ciências da Natureza e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Existe um processo de purificação de água em que são\nremovidos os sais dissolvidos. A água que passa por esse processo\né muito utilizada em laboratórios de química, em indústrias\n(como solvente), em baterias de carros etc. Entretanto, esse\ntipo de água não é adequado para ingestão, pois pode causar\nproblemas de saúde, como carência iônica e diarreia.",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "Essa água é chamada de",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Existe um processo de purificação de água em que são\nremovidos os sais dissolvidos. A água que passa por esse processo\né muito utilizada em laboratórios de química, em indústrias\n(como solvente), em baterias de carros etc. Entretanto, esse\ntipo de água não é adequado para ingestão, pois pode causar\nproblemas de saúde, como carência iônica e diarreia.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "Essa água é chamada de",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "dura."
+    },
+    {
+      "letter": "B",
+      "text": "pesada."
+    },
+    {
+      "letter": "C",
+      "text": "sanitária."
+    },
+    {
+      "letter": "D",
+      "text": "destilada."
+    },
+    {
+      "letter": "E",
+      "text": "oxigenada."
+    }
+  ],
+  "correct_answer": "D",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 108,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

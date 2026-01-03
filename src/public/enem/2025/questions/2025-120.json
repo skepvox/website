@@ -1,0 +1,83 @@
+{
+  "id": "2025_q120",
+  "year": 2025,
+  "day": 2,
+  "number": 120,
+  "area": {
+    "code": "natureza",
+    "name": "Ciências da Natureza e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Em uma comunidade rural, os moradores utilizam uma\nbomba-d’água alimentada por 100 V de tensão contínua,\npodendo variar em até 5 V. Um eletrotécnico pretende instalar\nplacas fotovoltaicas para alimentar essa bomba. As placas são\nidênticas e cada uma apresenta tensão de operação igual a",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "34 V com corrente de 7,5 A. Além disso, cada placa apresenta 40 V de tensão elétrica, quando em circuito aberto. Assim, considerando que a placa descrita é um gerador não ideal, em circuito aberto ela pode ser representada conforme a figura: O eletrotécnico construiu um circuito que permite à bomba-d’água operar corretamente com o menor número possível de placas conectadas. Para isso, desenhou um diagrama no qual todas essas placas são representadas como um único gerador não ideal, com a especificação das correspondentes características elétricas. O diagrama que representa o circuito construído pelo eletrotécnico é:",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Em uma comunidade rural, os moradores utilizam uma\nbomba-d’água alimentada por 100 V de tensão contínua,\npodendo variar em até 5 V. Um eletrotécnico pretende instalar\nplacas fotovoltaicas para alimentar essa bomba. As placas são\nidênticas e cada uma apresenta tensão de operação igual a",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "34 V com corrente de 7,5 A. Além disso, cada placa apresenta 40 V de tensão elétrica, quando em circuito aberto. Assim, considerando que a placa descrita é um gerador não ideal, em circuito aberto ela pode ser representada conforme a figura: O eletrotécnico construiu um circuito que permite à bomba-d’água operar corretamente com o menor número possível de placas conectadas. Para isso, desenhou um diagrama no qual todas essas placas são representadas como um único gerador não ideal, com a especificação das correspondentes características elétricas.",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "O diagrama que representa o circuito construído pelo eletrotécnico é:",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "[IMAGE]"
+    },
+    {
+      "letter": "B",
+      "text": "[IMAGE]"
+    },
+    {
+      "letter": "C",
+      "text": "[IMAGE]"
+    },
+    {
+      "letter": "D",
+      "text": "[IMAGE]"
+    },
+    {
+      "letter": "E",
+      "text": "[IMAGE]"
+    }
+  ],
+  "correct_answer": "B",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 120,
+    "foreign_language_option": null,
+    "has_image": true,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "Image-based options need manual review"
+  }
+}

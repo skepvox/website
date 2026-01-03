@@ -1,0 +1,82 @@
+{
+  "id": "2025_q060",
+  "year": 2025,
+  "day": 1,
+  "number": 60,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Concentração de CO2 por queimadas entre África e Brasil em 30 de agosto de 2019",
+    "source": {
+      "url": "https://noticias.uol.com.br",
+      "access_date": "10 out. 2019",
+      "note": "adaptado"
+    },
+    "language": "pt"
+  },
+  "statement": "A dispersão espacial do problema ambiental representado na imagem de satélite é explicada pela seguinte característica geográfica:",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Concentração de CO2 por queimadas entre África e Brasil em 30 de agosto de 2019",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "A dispersão espacial do problema ambiental representado na imagem de satélite é explicada pela seguinte característica geográfica:",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "Amplitude das temperaturas médias."
+    },
+    {
+      "letter": "B",
+      "text": "Homogeneidade da insolação anual."
+    },
+    {
+      "letter": "C",
+      "text": "Ocorrência de chuvas de relevo."
+    },
+    {
+      "letter": "D",
+      "text": "Circulação de massas de ar."
+    },
+    {
+      "letter": "E",
+      "text": "Ausência de frentes frias."
+    }
+  ],
+  "correct_answer": "D",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 60,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

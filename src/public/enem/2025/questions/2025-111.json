@@ -1,0 +1,87 @@
+{
+  "id": "2025_q111",
+  "year": 2025,
+  "day": 2,
+  "number": 111,
+  "area": {
+    "code": "natureza",
+    "name": "Ciências da Natureza e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "A deficiência da enzima lipase ácida causa uma doença em\nque o portador apresenta células que não degradam colesterol\nesterificado nem triglicerídeos, resultando no depósito desses\ncompostos em diversos órgãos, principalmente no fígado.",
+    "source": {
+      "author": "ANDERSON, R. A.",
+      "title": "et al. In Situ Localization of the",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "Genetic Locus Encoding [...]. Genomics, n. 1, jan. 1993 (adaptado). Essa doença resulta da insuficiência funcional de qual estrutura celular?",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "A deficiência da enzima lipase ácida causa uma doença em\nque o portador apresenta células que não degradam colesterol\nesterificado nem triglicerídeos, resultando no depósito desses\ncompostos em diversos órgãos, principalmente no fígado.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "Genetic Locus Encoding [...]. Genomics, n. 1, jan. 1993 (adaptado).",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "Essa doença resulta da insuficiência funcional de qual estrutura celular?",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "Lisossomos."
+    },
+    {
+      "letter": "B",
+      "text": "Ribossomos."
+    },
+    {
+      "letter": "C",
+      "text": "Mitocôndrias."
+    },
+    {
+      "letter": "D",
+      "text": "Peroxissomos."
+    },
+    {
+      "letter": "E",
+      "text": "Retículo endoplasmático liso."
+    }
+  ],
+  "correct_answer": "A",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 111,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

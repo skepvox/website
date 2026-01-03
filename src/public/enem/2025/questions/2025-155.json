@@ -1,0 +1,149 @@
+{
+  "id": "2025_q155",
+  "year": 2025,
+  "day": 2,
+  "number": 155,
+  "area": {
+    "code": "matematica",
+    "name": "Matemática e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Em um estudo clínico, 55 mulheres foram distribuídas, aleatoriamente, em 5 grupos de 11 pessoas. Para testar uma nova medicação, será escolhido um grupo no qual a maioria das mulheres tenham idades entre 20 e 30 anos. Os demais grupos tomarão placebo ou medicações já existentes no mercado. O quadro, parcialmente preenchido, informa alguns dados relativos às idades das mulheres desses grupos.",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "Mesmo com o quadro incompleto, foi possível selecionar um desses grupos porque, apenas com os dados apresentados no quadro, foi identificado um grupo que, certamente, atendia ao critério de escolha.",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Em um estudo clínico, 55 mulheres foram distribuídas, aleatoriamente, em 5 grupos de 11 pessoas. Para testar uma nova medicação, será escolhido um grupo no qual a maioria das mulheres tenham idades entre 20 e 30 anos. Os demais grupos tomarão placebo ou medicações já existentes no mercado. O quadro, parcialmente preenchido, informa alguns dados relativos às idades das mulheres desses grupos.",
+      "anchor": "before:asset:q155_table_001",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "Mesmo com o quadro incompleto, foi possível selecionar um desses grupos porque, apenas com os dados apresentados no quadro, foi identificado um grupo que, certamente, atendia ao critério de escolha.",
+      "anchor": "after:asset:q155_table_001",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "O grupo escolhido foi o",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "1.",
+      "latex": "\\text{1.}"
+    },
+    {
+      "letter": "B",
+      "text": "2.",
+      "latex": "\\text{2.}"
+    },
+    {
+      "letter": "C",
+      "text": "3.",
+      "latex": "\\text{3.}"
+    },
+    {
+      "letter": "D",
+      "text": "4.",
+      "latex": "\\text{4.}"
+    },
+    {
+      "letter": "E",
+      "text": "5.",
+      "latex": "\\text{5.}"
+    }
+  ],
+  "correct_answer": "D",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [
+      {
+        "id": "q155_table_001",
+        "headers": [
+          "Grupos",
+          "Menor idade",
+          "Maior idade",
+          "Média",
+          "Mediana",
+          "Moda",
+          "Desvio padrão"
+        ],
+        "rows": [
+          [
+            "1",
+            "",
+            "",
+            "25",
+            "",
+            "",
+            "10"
+          ],
+          [
+            "2",
+            "",
+            "",
+            "",
+            "25",
+            "",
+            "9"
+          ],
+          [
+            "3",
+            "",
+            "",
+            "",
+            "",
+            "25",
+            ""
+          ],
+          [
+            "4",
+            "",
+            "",
+            "25",
+            "",
+            "",
+            "1"
+          ],
+          [
+            "5",
+            "20",
+            "35",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "position": "context"
+      }
+    ],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 155,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": true,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt updated; table asset mapped"
+  }
+}

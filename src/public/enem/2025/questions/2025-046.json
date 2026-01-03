@@ -1,0 +1,87 @@
+{
+  "id": "2025_q046",
+  "year": 2025,
+  "day": 1,
+  "number": 46,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Não há consenso em torno do nome dado à pandemia,\ntendo, desde o seu início, sido chamada de gripe espanhola\nprovavelmente por causa da desinformação em torno da notícia\nsobre sua origem. Uma das hipóteses deriva da neutralidade\nespanhola na Primeira Guerra Mundial e a consequente\nliberdade de imprensa naquele país, maior do que nos demais\npaíses envolvidos no conflito. Hoje existe o consenso entre\nvirologistas e epidemiologistas de que o vírus da gripe não se\noriginou na Espanha. Entretanto, dificilmente essa pandemia\ndeixará de ser conhecida como gripe espanhola.",
+    "source": {
+      "author": "KLAJMAN, C.",
+      "title": "A gripe sob a ótica da história ecológica.",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "História Revista, n. 3, set.-dez. 2015 (adaptado). De acordo com o texto, a denominação recebida pela pandemia do começo do século XX foi determinada pelo(a)",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Não há consenso em torno do nome dado à pandemia,\ntendo, desde o seu início, sido chamada de gripe espanhola\nprovavelmente por causa da desinformação em torno da notícia\nsobre sua origem. Uma das hipóteses deriva da neutralidade\nespanhola na Primeira Guerra Mundial e a consequente\nliberdade de imprensa naquele país, maior do que nos demais\npaíses envolvidos no conflito. Hoje existe o consenso entre\nvirologistas e epidemiologistas de que o vírus da gripe não se\noriginou na Espanha. Entretanto, dificilmente essa pandemia\ndeixará de ser conhecida como gripe espanhola.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "História Revista, n. 3, set.-dez. 2015 (adaptado).",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "De acordo com o texto, a denominação recebida pela pandemia do começo do século XX foi determinada pelo(a)",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "precariedade dos conhecimentos da medicina militar."
+    },
+    {
+      "letter": "B",
+      "text": "retaliação da tríplice aliança aos soldados desertores."
+    },
+    {
+      "letter": "C",
+      "text": "controle dos relatos oriundos de campos de batalha."
+    },
+    {
+      "letter": "D",
+      "text": "emprego de armas biológicas em confrontos transnacionais."
+    },
+    {
+      "letter": "E",
+      "text": "circulação de refugiados contaminados em áreas conflagradas."
+    }
+  ],
+  "correct_answer": "C",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 46,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

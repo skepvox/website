@@ -1,0 +1,81 @@
+{
+  "id": "2025_q173",
+  "year": 2025,
+  "day": 2,
+  "number": 173,
+  "area": {
+    "code": "matematica",
+    "name": "Matemática e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "A luminância de um objeto é a grandeza que descreve a\nquantidade de luz produzida ou refletida por sua superfície.\nEla está definida como a razão entre a intensidade luminosa,\nmedida em candela (cd), e o quadrado da distância do objeto\naté o foco de luz, medida em metro (m).",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "A unidade de medida da luminância de um objeto é",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "A luminância de um objeto é a grandeza que descreve a\nquantidade de luz produzida ou refletida por sua superfície.\nEla está definida como a razão entre a intensidade luminosa,\nmedida em candela (cd), e o quadrado da distância do objeto\naté o foco de luz, medida em metro (m).",
+      "anchor": "before:assets:context",
+      "order": 1
+    }
+  ],
+  "prompt": {
+    "text": "A unidade de medida da luminância de um objeto é",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "cd/m²",
+      "latex": "\\dfrac{\\text{cd}}{\\text{m}^2}"
+    },
+    {
+      "letter": "B",
+      "text": "m²/cd",
+      "latex": "\\dfrac{\\text{m}^2}{\\text{cd}}"
+    },
+    {
+      "letter": "C",
+      "text": "cd/m",
+      "latex": "\\dfrac{\\text{cd}}{\\text{m}}"
+    },
+    {
+      "letter": "D",
+      "text": "m/cd",
+      "latex": "\\dfrac{\\text{m}}{\\text{cd}}"
+    },
+    {
+      "letter": "E",
+      "text": "m/cd²",
+      "latex": "\\dfrac{\\text{m}}{\\text{cd}^2}"
+    }
+  ],
+  "correct_answer": "A",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 173,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors; units normalized"
+  }
+}

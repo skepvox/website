@@ -1,0 +1,96 @@
+{
+  "id": "2025_q171",
+  "year": 2025,
+  "day": 2,
+  "number": 171,
+  "area": {
+    "code": "matematica",
+    "name": "Matemática e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "A figura ilustra o projeto visual para confecção de uma medalha comemorativa, com a forma de um cilindro circular reto, de diâmetro 6 cm e espessura 3 mm.",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "A figura \\(ABCD\\) tem a forma de um quadrado e é a base de um prisma que atravessa toda a medalha. A região da medalha externa a esse prisma será cunhada em ouro. Pretende-se cunhar 100 dessas medalhas.\n\nConsidere 3,1 como valor aproximado para π.",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "A figura ilustra o projeto visual para confecção de uma medalha comemorativa, com a forma de um cilindro circular reto, de diâmetro 6 cm e espessura 3 mm.",
+      "anchor": "before:asset:2025-171-chart-001",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "A figura \\(ABCD\\) tem a forma de um quadrado e é a base de um prisma que atravessa toda a medalha. A região da medalha externa a esse prisma será cunhada em ouro. Pretende-se cunhar 100 dessas medalhas.\n\nConsidere 3,1 como valor aproximado para π.",
+      "anchor": "after:asset:2025-171-chart-001",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "Qual é o volume de ouro, em centímetro cúbico, necessário para a confecção dessas medalhas?",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "288",
+      "latex": "\\text{288}"
+    },
+    {
+      "letter": "B",
+      "text": "297",
+      "latex": "\\text{297}"
+    },
+    {
+      "letter": "C",
+      "text": "567",
+      "latex": "\\text{567}"
+    },
+    {
+      "letter": "D",
+      "text": "990",
+      "latex": "\\text{990}"
+    },
+    {
+      "letter": "E",
+      "text": "1 134",
+      "latex": "\\text{1 134}"
+    }
+  ],
+  "correct_answer": "B",
+  "assets": {
+    "images": [],
+    "charts": [
+      {
+        "id": "2025-171-chart-001",
+        "type": "2025-171-medal",
+        "data_file": "charts/2025-171-chart-001.json",
+        "meta_file": "charts/2025-171-chart-001-meta.json",
+        "position": "context"
+      }
+    ],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 171,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": true,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt updated; improved chart mapped"
+  }
+}

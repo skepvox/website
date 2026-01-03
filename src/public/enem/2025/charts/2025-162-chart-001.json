@@ -1,0 +1,26 @@
+{
+  "categories": ["1ª série", "2ª série", "3ª série"],
+  "series": [
+    {
+      "id": "futebol",
+      "label": "Futebol",
+      "values": [70, 60, 50],
+      "color": "#1fd5e5"
+    },
+    {
+      "id": "volei",
+      "label": "Vôlei",
+      "values": [30, 30, 40],
+      "color": "#f5a623"
+    },
+    {
+      "id": "basquete",
+      "label": "Basquete",
+      "values": [10, 30, 40],
+      "color": "#7a3df2"
+    }
+  ],
+  "yMax": 80,
+  "yTicks": 8,
+  "yLabel": "Quantidade de estudantes"
+}

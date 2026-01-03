@@ -1,4 +1,5 @@
 import './ssr-shim'
+import 'katex/dist/katex.min.css'
 import './styles/index.css'
 import { h, App } from 'vue'
 import { VPTheme } from '@vue/theme'
@@ -12,6 +13,9 @@ import {
 import SponsorsAside from './components/SponsorsAside.vue'
 import VueSchoolLink from './components/VueSchoolLink.vue'
 import ScrimbaLink from './components/ScrimbaLink.vue'
+import QuestionCard from './components/enem/QuestionCard.vue'
+import QuestionCardLoader from './components/enem/QuestionCardLoader.vue'
+import AssetChart from './components/enem/assets/AssetChart.vue'
 // import Banner from './components/Banner.vue'
 // import TextAd from './components/TextAd.vue'
 import NavBarTitleSkepvox from './components/NavBarTitleSkepvox.vue'
@@ -36,6 +40,9 @@ export default Object.assign({}, VPTheme, {
     app.provide('filter-headers', filterHeadersByPreference)
     app.component('VueSchoolLink', VueSchoolLink)
     app.component('ScrimbaLink', ScrimbaLink)
+    app.component('QuestionCard', QuestionCard)
+    app.component('QuestionCardLoader', QuestionCardLoader)
+    app.component('AssetChart', AssetChart)
     // app.component('TextAd', TextAd)
   }
 })

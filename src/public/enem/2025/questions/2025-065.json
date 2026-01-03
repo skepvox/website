@@ -1,0 +1,87 @@
+{
+  "id": "2025_q065",
+  "year": 2025,
+  "day": 1,
+  "number": 65,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "A missão dos governantes consiste em promover a felicidade\nda sociedade, punindo e recompensando. A parte da missão de\ngoverno que consiste em punir constitui mais particularmente\no objeto da lei penal. A obrigatoriedade ou necessidade de\npunir uma ação é proporcional à medida que tal ação tende\na perturbar a felicidade e à medida que a tendência do referido\nato é perniciosa. A felicidade consiste naquilo que já vimos,\nou seja, em desfrutar prazeres e em estar isento de dores.",
+    "source": {
+      "author": "BENTHAM, J.",
+      "title": "Uma introdução aos princípios da moral e da legislação.",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "São Paulo: Abril Cultural, 1974 (adaptado). Qual perspectiva de justiça emerge da relação, estabelecida no texto, entre punição e felicidade?",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "A missão dos governantes consiste em promover a felicidade\nda sociedade, punindo e recompensando. A parte da missão de\ngoverno que consiste em punir constitui mais particularmente\no objeto da lei penal. A obrigatoriedade ou necessidade de\npunir uma ação é proporcional à medida que tal ação tende\na perturbar a felicidade e à medida que a tendência do referido\nato é perniciosa. A felicidade consiste naquilo que já vimos,\nou seja, em desfrutar prazeres e em estar isento de dores.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "São Paulo: Abril Cultural, 1974 (adaptado).",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "Qual perspectiva de justiça emerge da relação, estabelecida no texto, entre punição e felicidade?",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "Aplicação de meios para atingir um fim."
+    },
+    {
+      "letter": "B",
+      "text": "Imposição de regras para estabelecer um dever."
+    },
+    {
+      "letter": "C",
+      "text": "Sobreposição de princípios para fundamentar um direito."
+    },
+    {
+      "letter": "D",
+      "text": "Criação de parâmetros para reconhecer uma prescrição."
+    },
+    {
+      "letter": "E",
+      "text": "Elaboração de convenções para referendar um costume."
+    }
+  ],
+  "correct_answer": "A",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 65,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

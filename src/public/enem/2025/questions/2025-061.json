@@ -1,0 +1,82 @@
+{
+  "id": "2025_q061",
+  "year": 2025,
+  "day": 1,
+  "number": 61,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "A credulidade dos ouvintes aumenta o descaramento do narrador, e o descaramento deste conquista-lhes a credulidade.\nA eloquência, quando levada a seu patamar mais alto, deixa pouco lugar à razão ou à reflexão, mas, dirigindo-se inteiramente\nà imaginação e aos afetos, cativa os ouvintes condescendentes e subjuga-lhes o entendimento.",
+    "source": {
+      "author": "HUME, D.",
+      "title": "Uma investigação sobre o entendimento humano e sobre os princípios da moral. São Paulo: Edunesp, 2003.",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "No contexto do século XVIII, o autor propõe uma reflexão radical acerca da arte da eloquência, restringindo-a ao",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "A credulidade dos ouvintes aumenta o descaramento do narrador, e o descaramento deste conquista-lhes a credulidade.\nA eloquência, quando levada a seu patamar mais alto, deixa pouco lugar à razão ou à reflexão, mas, dirigindo-se inteiramente\nà imaginação e aos afetos, cativa os ouvintes condescendentes e subjuga-lhes o entendimento.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "No contexto do século XVIII, o autor propõe uma reflexão radical acerca da arte da eloquência, restringindo-a ao",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "sistema de crenças, conforme a proposta kantiana de objetividade do conhecimento."
+    },
+    {
+      "letter": "B",
+      "text": "campo dos absolutos, semelhante ao entendimento medieval dos Universais."
+    },
+    {
+      "letter": "C",
+      "text": "domínio da lógica, consoante a compreensão aristotélica nos Analíticos."
+    },
+    {
+      "letter": "D",
+      "text": "paradigma da racionalidade, alinhado ao modelo cartesiano de método."
+    },
+    {
+      "letter": "E",
+      "text": "âmbito da persuasão, análogo às críticas platônicas aos sofistas."
+    }
+  ],
+  "correct_answer": "E",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 61,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "2025_q004",
+  "year": 2025,
+  "day": 1,
+  "number": 4,
+  "area": {
+    "code": "linguagens",
+    "name": "Linguagens, Códigos e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": null,
+  "statement": "Na charge, a diversidade linguística está representada pelo uso de",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "statement",
+      "text": "Na charge, a diversidade linguística está representada pelo uso de",
+      "anchor": "before:options",
+      "order": 1
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "estruturas verbais com valor de futuro próximo."
+    },
+    {
+      "letter": "B",
+      "text": "expressões idiomáticas características de uma região."
+    },
+    {
+      "letter": "C",
+      "text": "advérbios característicos do repertório vocabular dos jovens."
+    },
+    {
+      "letter": "D",
+      "text": "marcas da oralidade expressas na representação escrita da fala."
+    },
+    {
+      "letter": "E",
+      "text": "enunciados interrogativos em situação comunicativa com um interlocutor."
+    }
+  ],
+  "correct_answer": "D",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 4,
+    "foreign_language_option": "english",
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

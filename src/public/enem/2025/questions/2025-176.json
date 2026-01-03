@@ -1,0 +1,119 @@
+{
+  "id": "2025_q176",
+  "year": 2025,
+  "day": 2,
+  "number": 176,
+  "area": {
+    "code": "matematica",
+    "name": "Matemática e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "list",
+    "content": "Em um país, a primeira etapa para obtenção da carteira de motorista é a contratação de três produtos:\n\n• pacote com 20 aulas teóricas;\n• pacote com 10 aulas práticas;\n• aluguel do veículo para realização das aulas práticas.\n\nUma pessoa que pretende obter a carteira de motorista pesquisou o valor do aluguel do veículo e os valores de cada aula teórica e de cada aula prática em três autoescolas. O quadro apresenta esses valores.",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "Ela contratará os três produtos numa mesma autoescola de modo que o custo total nessa primeira etapa seja o menor possível.",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Em um país, a primeira etapa para obtenção da carteira de motorista é a contratação de três produtos:\n\n• pacote com 20 aulas teóricas;\n• pacote com 10 aulas práticas;\n• aluguel do veículo para realização das aulas práticas.\n\nUma pessoa que pretende obter a carteira de motorista pesquisou o valor do aluguel do veículo e os valores de cada aula teórica e de cada aula prática em três autoescolas. O quadro apresenta esses valores.",
+      "anchor": "before:asset:q176_table_001",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "Ela contratará os três produtos numa mesma autoescola de modo que o custo total nessa primeira etapa seja o menor possível.",
+      "anchor": "after:asset:q176_table_001",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "A autoescola que será contratada é a",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "I, com o custo total de R$ 1 400,00.",
+      "latex": "\\text{I, com o custo total de R\\$ 1 400,00.}"
+    },
+    {
+      "letter": "B",
+      "text": "II, com o custo total de R$ 280,00.",
+      "latex": "\\text{II, com o custo total de R\\$ 280,00.}"
+    },
+    {
+      "letter": "C",
+      "text": "II, com o custo total de R$ 1 300,00.",
+      "latex": "\\text{II, com o custo total de R\\$ 1 300,00.}"
+    },
+    {
+      "letter": "D",
+      "text": "III, com o custo total de R$ 460,00.",
+      "latex": "\\text{III, com o custo total de R\\$ 460,00.}"
+    },
+    {
+      "letter": "E",
+      "text": "III, com o custo total de R$ 1 200,00.",
+      "latex": "\\text{III, com o custo total de R\\$ 1 200,00.}"
+    }
+  ],
+  "correct_answer": "E",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [
+      {
+        "id": "q176_table_001",
+        "headers": [
+          "Autoescola",
+          "Valor de cada aula teórica (R$)",
+          "Valor de cada aula prática (R$)",
+          "Aluguel do veículo (R$)"
+        ],
+        "rows": [
+          [
+            "I",
+            "10",
+            "80",
+            "400"
+          ],
+          [
+            "II",
+            "30",
+            "50",
+            "200"
+          ],
+          [
+            "III",
+            "20",
+            "40",
+            "400"
+          ]
+        ],
+        "position": "context"
+      }
+    ],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 176,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": true,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt updated; table asset mapped"
+  }
+}

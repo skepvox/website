@@ -1,0 +1,83 @@
+{
+  "id": "2025_q001",
+  "year": 2025,
+  "day": 1,
+  "number": 1,
+  "area": {
+    "code": "linguagens",
+    "name": "Linguagens, Códigos e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "¿Dónde está nuestro pan, patrón?\n¿Dónde quedó todo ese dinero?\n¿Lo tiene oculto bajo el colchón\no lo escondió en otro sucio agujero?\nYo tengo un Tàpies, dice Juan Luis;\nyo tengo un Antonio López, dice Jaume.\n¿Quién de los dos sabrá decir\ncuántos muertos tiene a sus espaldas?",
+    "source": {
+      "author": "NACHO VEGA, S.",
+      "title": "Disponível em: www.lahiguera.net.",
+      "note": null
+    },
+    "language": "en"
+  },
+  "statement": "Acesso em: 12 abr. 2024 (fragmento). Na letra da canção Polvorado, ao apresentar as reflexões do eu poético, o cantor espanhol Nacho Vegas",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "¿Dónde está nuestro pan, patrón?\n¿Dónde quedó todo ese dinero?\n¿Lo tiene oculto bajo el colchón\no lo escondió en otro sucio agujero?\nYo tengo un Tàpies, dice Juan Luis;\nyo tengo un Antonio López, dice Jaume.\n¿Quién de los dos sabrá decir\ncuántos muertos tiene a sus espaldas?",
+      "anchor": "before:assets:context",
+      "order": 1,
+      "language": "en"
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "Acesso em: 12 abr. 2024 (fragmento). Na letra da canção Polvorado, ao apresentar as reflexões do eu poético, o cantor espanhol Nacho Vegas",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "demonstra o orgulho dos trabalhadores para com artistas de referência."
+    },
+    {
+      "letter": "B",
+      "text": "critica a postura dos patrões frente aos direitos dos trabalhadores."
+    },
+    {
+      "letter": "C",
+      "text": "apresenta propostas para diminuir as desigualdades sociais."
+    },
+    {
+      "letter": "D",
+      "text": "evidencia o diálogo horizontal entre patrão e trabalhadores."
+    },
+    {
+      "letter": "E",
+      "text": "questiona a insalubridade do ambiente de trabalho."
+    }
+  ],
+  "correct_answer": "D",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 1,
+    "foreign_language_option": "english",
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id": "2025_q167",
+  "year": 2025,
+  "day": 2,
+  "number": 167,
+  "area": {
+    "code": "matematica",
+    "name": "Matemática e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Em uma cidade, será construído um túnel que atravessa uma montanha para facilitar o trânsito de automóveis e bicicletas. Dois projetos foram elaborados e os esquemas com as vistas frontais desses projetos são apresentados na figura.",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "O Projeto 1 conta com dois túneis, um exclusivo para bicicletas e o outro, para automóveis. O Projeto 2 conta com um único túnel, com espaços reservados para o trânsito exclusivo de bicicletas e automóveis. Nos dois projetos, os túneis têm o formato de semicilindro reto de mesma extensão, com vias de ida e volta para os dois tipos de veículos, separados por muretas.\n\nO projeto a ser aprovado será aquele que apresentar a menor área da seção transversal, pois implicará menor volume de material retirado da montanha.\n\nConsidere 3 como aproximação para π e desconsidere as espessuras das muretas.",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Em uma cidade, será construído um túnel que atravessa uma montanha para facilitar o trânsito de automóveis e bicicletas. Dois projetos foram elaborados e os esquemas com as vistas frontais desses projetos são apresentados na figura.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "O Projeto 1 conta com dois túneis, um exclusivo para bicicletas e o outro, para automóveis. O Projeto 2 conta com um único túnel, com espaços reservados para o trânsito exclusivo de bicicletas e automóveis. Nos dois projetos, os túneis têm o formato de semicilindro reto de mesma extensão, com vias de ida e volta para os dois tipos de veículos, separados por muretas.\n\nO projeto a ser aprovado será aquele que apresentar a menor área da seção transversal, pois implicará menor volume de material retirado da montanha.\n\nConsidere 3 como aproximação para π e desconsidere as espessuras das muretas.",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "O projeto a ser aprovado é",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "o 1, pois apresenta área de seção transversal medindo 67,5 m²."
+    },
+    {
+      "letter": "B",
+      "text": "o 2, pois apresenta área de seção transversal medindo 121,5 m²."
+    },
+    {
+      "letter": "C",
+      "text": "o 1, pois apresenta área de seção transversal medindo 135 m²."
+    },
+    {
+      "letter": "D",
+      "text": "o 2, pois apresenta área de seção transversal medindo 243 m²."
+    },
+    {
+      "letter": "E",
+      "text": "qualquer um dos dois, pois apresentam áreas de suas seções transversais com medidas iguais."
+    }
+  ],
+  "correct_answer": "A",
+  "assets": {
+    "images": [],
+    "charts": [
+      {
+        "id": "2025-167-chart-001",
+        "type": "2025-167-projeto1",
+        "data_file": "charts/2025-167-chart-001.json",
+        "meta_file": "charts/2025-167-chart-001-meta.json",
+        "position": "context"
+      },
+      {
+        "id": "2025-167-chart-002",
+        "type": "2025-167-projeto2",
+        "data_file": "charts/2025-167-chart-002.json",
+        "meta_file": "charts/2025-167-chart-002-meta.json",
+        "position": "context"
+      }
+    ],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 167,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": true,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt updated; improved charts mapped"
+  }
+}

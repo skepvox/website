@@ -1,0 +1,82 @@
+{
+  "id": "2025_q072",
+  "year": 2025,
+  "day": 1,
+  "number": 72,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "A partir do século XIX e, principalmente, no século XX, iniciou-se\no uso de produtos sintéticos na agricultura. No Brasil, a partir da\ndécada de 1960 e, posteriormente, nos anos 1970, os inseticidas\nampliam sua fatia no mercado dos defensivos agrícolas.",
+    "source": {
+      "author": "TROPPMAIR, H.",
+      "title": "Biogeografia e meio ambiente.",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "Rio de Janeiro: TB, 2012 (adaptado). Nos espaços agrícolas, a mudança técnica descrita provocou a diminuição da",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "A partir do século XIX e, principalmente, no século XX, iniciou-se\no uso de produtos sintéticos na agricultura. No Brasil, a partir da\ndécada de 1960 e, posteriormente, nos anos 1970, os inseticidas\nampliam sua fatia no mercado dos defensivos agrícolas.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "Rio de Janeiro: TB, 2012 (adaptado). Nos espaços agrícolas, a mudança técnica descrita provocou a diminuição da",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "desagregação de camadas pedológicas."
+    },
+    {
+      "letter": "B",
+      "text": "diversidade de polinizadores naturais."
+    },
+    {
+      "letter": "C",
+      "text": "contaminação de lençóis freáticos."
+    },
+    {
+      "letter": "D",
+      "text": "produtividade da terra cultivada."
+    },
+    {
+      "letter": "E",
+      "text": "ocorrência da erosão laminar."
+    }
+  ],
+  "correct_answer": "B",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 72,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "2025_q080",
+  "year": 2025,
+  "day": 1,
+  "number": 80,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "A Impressão Régia do Rio de Janeiro foi criada pelo decreto de\n13 de maio de 1808 para dar continuidade à nova sede do império\nportuguês. A nova tipografia é criada em um momento no qual o\nprojeto de reforma do império se transforma em um projeto de\nconstrução de um novo império português na América. Frente\nàs tensões políticas que essa nova situação criava, a tipografia\natuou na legitimação e sustentação daquele projeto político.",
+    "source": {
+      "author": "BARRA, S. H. S.",
+      "title": "A Impressão Régia do Rio de Janeiro e a colonização dos sertões",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "na construção do novo império português na América (1808-1822). Topoi, n. 31, jul.-dez. 2015 (adaptado). A função política da tecnologia mencionada no texto favoreceu a nova sede do Império português por",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "A Impressão Régia do Rio de Janeiro foi criada pelo decreto de\n13 de maio de 1808 para dar continuidade à nova sede do império\nportuguês. A nova tipografia é criada em um momento no qual o\nprojeto de reforma do império se transforma em um projeto de\nconstrução de um novo império português na América. Frente\nàs tensões políticas que essa nova situação criava, a tipografia\natuou na legitimação e sustentação daquele projeto político.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "na construção do novo império português na América (1808-1822). Topoi, n. 31, jul.-dez. 2015 (adaptado).",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "A função política da tecnologia mencionada no texto favoreceu a nova sede do Império português por",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "estabelecer as normativas ideológicas aos periódicos."
+    },
+    {
+      "letter": "B",
+      "text": "propagar as diretrizes administrativas às capitanias."
+    },
+    {
+      "letter": "C",
+      "text": "divulgar as conquistas às metrópoles europeias."
+    },
+    {
+      "letter": "D",
+      "text": "integrar as regiões territoriais ao poder central."
+    },
+    {
+      "letter": "E",
+      "text": "difundir as publicações às elites lusitanas."
+    }
+  ],
+  "correct_answer": "D",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 80,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

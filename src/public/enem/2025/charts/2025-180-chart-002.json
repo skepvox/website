@@ -1,0 +1,13 @@
+{
+  "categories": ["11-12", "12-13", "13-14", "14-15", "15-16"],
+  "yTicks": [20, 25, 30, 35, 40, 45, 50, 55],
+  "yLabel": "Produção (tonelada)",
+  "xLabel": "Safra",
+  "points": [
+    { "value": 40, "label": "40", "labelDy": -10 },
+    { "value": 30, "label": "30", "labelDy": 14 },
+    { "value": 45, "label": "45", "labelDy": -10 },
+    { "value": 45, "label": "45", "labelDy": -10 },
+    { "value": 50, "label": "50", "labelDx": 8, "labelDy": -6, "labelAnchor": "start" }
+  ]
+}

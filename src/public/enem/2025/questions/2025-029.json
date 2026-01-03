@@ -1,0 +1,82 @@
+{
+  "id": "2025_q029",
+  "year": 2025,
+  "day": 1,
+  "number": 29,
+  "area": {
+    "code": "linguagens",
+    "name": "Linguagens, Códigos e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Pequenino morto\nTange o sino, tange, numa voz de choro,\nNuma voz de choro... tão desconsolado...\nNo caixão dourado, como em berço de ouro,\nPequenino, levam-te dormindo... Acorda!\nOlha que te levam para o mesmo lado\nDe onde o sino tange numa voz de choro...\nPequenino, acorda!\nQue caminho triste, e que viagem! Alas\nDe ciprestes negros a gemer no vento;\nTanta boca aberta de famintas valas\nA pedir que as fartem, a esperar que as encham...\nPequenino, acorda! Recupera o alento,\nFoge da cobiça dessas fundas valas\nA pedir que as encham.",
+    "source": {
+      "author": "CARVALHO, V.",
+      "title": "Poemas e canções. Rio de Janeiro:",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "Saraiva, 1962 (fragmento). Nesse fragmento do poema, o sentimento de luto adquire contornos expressivos e é intensificado pela",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Pequenino morto\nTange o sino, tange, numa voz de choro,\nNuma voz de choro... tão desconsolado...\nNo caixão dourado, como em berço de ouro,\nPequenino, levam-te dormindo... Acorda!\nOlha que te levam para o mesmo lado\nDe onde o sino tange numa voz de choro...\nPequenino, acorda!\nQue caminho triste, e que viagem! Alas\nDe ciprestes negros a gemer no vento;\nTanta boca aberta de famintas valas\nA pedir que as fartem, a esperar que as encham...\nPequenino, acorda! Recupera o alento,\nFoge da cobiça dessas fundas valas\nA pedir que as encham.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "Saraiva, 1962 (fragmento). Nesse fragmento do poema, o sentimento de luto adquire contornos expressivos e é intensificado pela",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "descrição da paisagem de um cemitério."
+    },
+    {
+      "letter": "B",
+      "text": "recusa do eu lírico à irreversibilidade da morte."
+    },
+    {
+      "letter": "C",
+      "text": "sonoridade dos versos produzida pela pontuação."
+    },
+    {
+      "letter": "D",
+      "text": "religiosidade evocada como forma de fortalecimento."
+    },
+    {
+      "letter": "E",
+      "text": "impressão de sonho na construção da estrutura poética."
+    }
+  ],
+  "correct_answer": "B",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 29,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "id": "2025_q150",
+  "year": 2025,
+  "day": 2,
+  "number": 150,
+  "area": {
+    "code": "matematica",
+    "name": "Matemática e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Uma empresa de tecnologia vai padronizar a velocidade de conexão de internet que oferece a seus clientes em dez cidades. A direção da empresa decide que seu novo padrão de velocidade de referência será a mediana dos valores das velocidades de referência de conexões nessas dez cidades. Esses valores, em megabyte por segundo (MB/s), são apresentados no quadro.",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "A velocidade de referência, em megabyte por segundo, a ser adotada por essa empresa é",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Uma empresa de tecnologia vai padronizar a velocidade de conexão de internet que oferece a seus clientes em dez cidades. A direção da empresa decide que seu novo padrão de velocidade de referência será a mediana dos valores das velocidades de referência de conexões nessas dez cidades. Esses valores, em megabyte por segundo (MB/s), são apresentados no quadro.",
+      "anchor": "before:assets:context",
+      "order": 1
+    }
+  ],
+  "prompt": {
+    "text": "A velocidade de referência, em megabyte por segundo, a ser adotada por essa empresa é",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "360.",
+      "latex": "\\text{360.}"
+    },
+    {
+      "letter": "B",
+      "text": "370.",
+      "latex": "\\text{370.}"
+    },
+    {
+      "letter": "C",
+      "text": "380.",
+      "latex": "\\text{380.}"
+    },
+    {
+      "letter": "D",
+      "text": "390.",
+      "latex": "\\text{390.}"
+    },
+    {
+      "letter": "E",
+      "text": "400.",
+      "latex": "\\text{400.}"
+    }
+  ],
+  "correct_answer": "C",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [
+      {
+        "id": "q150_table_001",
+        "headers": [
+          "Cidades",
+          "Velocidade de referência (MB/s)"
+        ],
+        "rows": [
+          [
+            "C1",
+            "390"
+          ],
+          [
+            "C2",
+            "380"
+          ],
+          [
+            "C3",
+            "320"
+          ],
+          [
+            "C4",
+            "390"
+          ],
+          [
+            "C5",
+            "340"
+          ],
+          [
+            "C6",
+            "380"
+          ],
+          [
+            "C7",
+            "390"
+          ],
+          [
+            "C8",
+            "400"
+          ],
+          [
+            "C9",
+            "350"
+          ],
+          [
+            "C10",
+            "360"
+          ]
+        ],
+        "position": "context"
+      }
+    ],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 150,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": true,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt updated; improved table added"
+  }
+}

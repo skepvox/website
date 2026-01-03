@@ -1,0 +1,10 @@
+{
+  "diameter": 6,
+  "thickness": 0.3,
+  "unit": 24,
+  "diameterLabel": "6 cm",
+  "thicknessLabel": "3 mm",
+  "outerColor": "#f2b705",
+  "edgeColor": "#d39a1f",
+  "squareColor": "#b8b8b8"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "2025_q079",
+  "year": 2025,
+  "day": 1,
+  "number": 79,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "A cidade justa é governada pelos filósofos, administrada\npelos cientistas, protegida pelos guerreiros e mantida pelos\nprodutores. Cada classe cumprirá sua função para o bem da\npólis, racionalmente dirigida pelos filósofos. Em contrapartida,\na cidade injusta é aquela onde o governo está nas mãos dos\nproprietários — que não pensam no bem comum da pólis\ne lutarão por interesses econômicos particulares.",
+    "source": {
+      "author": "CHAUÍ, M.",
+      "title": "Convite à filosofia. São Paulo: Ática, 2000.",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "O texto apresenta a estrutura de governo da cidade ideal pensada por Platão, que postula uma indissociabilidade entre",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "A cidade justa é governada pelos filósofos, administrada\npelos cientistas, protegida pelos guerreiros e mantida pelos\nprodutores. Cada classe cumprirá sua função para o bem da\npólis, racionalmente dirigida pelos filósofos. Em contrapartida,\na cidade injusta é aquela onde o governo está nas mãos dos\nproprietários — que não pensam no bem comum da pólis\ne lutarão por interesses econômicos particulares.",
+      "anchor": "before:assets:context",
+      "order": 1
+    }
+  ],
+  "prompt": {
+    "text": "O texto apresenta a estrutura de governo da cidade ideal pensada por Platão, que postula uma indissociabilidade entre",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "cognoscência e relação intersubjetiva."
+    },
+    {
+      "letter": "B",
+      "text": "mitologia e teorias cosmogônicas."
+    },
+    {
+      "letter": "C",
+      "text": "cidadania e primazia da retórica."
+    },
+    {
+      "letter": "D",
+      "text": "moralidade e virtudes cardeais."
+    },
+    {
+      "letter": "E",
+      "text": "ética e exercício do poder."
+    }
+  ],
+  "correct_answer": "E",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 79,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

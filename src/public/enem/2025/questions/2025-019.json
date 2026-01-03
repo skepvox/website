@@ -1,0 +1,78 @@
+{
+  "id": "2025_q019",
+  "year": 2025,
+  "day": 1,
+  "number": 19,
+  "area": {
+    "code": "linguagens",
+    "name": "Linguagens, Códigos e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "A característica fundamental no aprendizado das práticas\nrituais nos candomblés é o processo iniciático e participante.\nDurante o período de reclusão em terreiros ou rocas, o iniciado\npassa por uma série de ritos esotéricos (banhos rituais, raspagem\nda cabeça etc.), ao mesmo tempo em que começa a adquirir\num complexo código de símbolos materiais (substâncias, folhas,\nfrutos, raízes etc.) e de gestos associados a um repertório\nlinguístico específico das cerimônias que se desenrolam nos\ncontextos sagrados em geral e em cada terreiro em particular.\nEsse repertório linguístico, genericamente chamado de\n“língua de santo” na Bahia, compreende uma terminologia\nreligiosa operacional, de caráter mágico-semântico e de aparente\nforma portuguesa, mas que repousa sobre sistemas lexicais de\ndiferentes línguas africanas que provavelmente foram faladas\nno Brasil escravocrata, vindo a constituir uma língua ritual, que\nse acredita pertencer à nação do vodum, do orixá ou do inquice,\ne não a determinada nação africana política atual.",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "Acesso em: 21 jan. 2024 (adaptado). A “língua de santo” tem sua importância para o patrimônio linguístico brasileiro por",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "A característica fundamental no aprendizado das práticas\nrituais nos candomblés é o processo iniciático e participante.\nDurante o período de reclusão em terreiros ou rocas, o iniciado\npassa por uma série de ritos esotéricos (banhos rituais, raspagem\nda cabeça etc.), ao mesmo tempo em que começa a adquirir\num complexo código de símbolos materiais (substâncias, folhas,\nfrutos, raízes etc.) e de gestos associados a um repertório\nlinguístico específico das cerimônias que se desenrolam nos\ncontextos sagrados em geral e em cada terreiro em particular.\nEsse repertório linguístico, genericamente chamado de\n“língua de santo” na Bahia, compreende uma terminologia\nreligiosa operacional, de caráter mágico-semântico e de aparente\nforma portuguesa, mas que repousa sobre sistemas lexicais de\ndiferentes línguas africanas que provavelmente foram faladas\nno Brasil escravocrata, vindo a constituir uma língua ritual, que\nse acredita pertencer à nação do vodum, do orixá ou do inquice,\ne não a determinada nação africana política atual.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "Acesso em: 21 jan. 2024 (adaptado). A “língua de santo” tem sua importância para o patrimônio linguístico brasileiro por",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "apresentar uma carga semântica mítica."
+    },
+    {
+      "letter": "B",
+      "text": "conservar elementos dos falares dos escravizados."
+    },
+    {
+      "letter": "C",
+      "text": "resgatar expressões portuguesas do período colonial."
+    },
+    {
+      "letter": "D",
+      "text": "decodificar o ritual religioso dos nossos antepassados."
+    },
+    {
+      "letter": "E",
+      "text": "favorecer a compreensão do léxico africano contemporâneo."
+    }
+  ],
+  "correct_answer": "B",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 19,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

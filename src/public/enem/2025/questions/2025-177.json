@@ -1,0 +1,103 @@
+{
+  "id": "2025_q177",
+  "year": 2025,
+  "day": 2,
+  "number": 177,
+  "area": {
+    "code": "matematica",
+    "name": "Matemática e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Uma caixa de descarga, acoplada a um vaso sanitário, tem a forma de paralelepípedo reto retângulo cujas dimensões internas da base são 2,5 dm e 1,5 dm. Nessa caixa há uma boia que interrompe o abastecimento quando a altura da coluna de água atinge 2 dm, conforme a figura.",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "A cada acionamento da descarga, todo o volume de água contida na caixa é despejado no vaso. Para reduzir o volume de água despejada a cada acionamento, uma pessoa colocará, no interior dessa caixa, garrafas de 300 mL, cheias de areia e tampadas, de modo a ficarem submersas quando o abastecimento for interrompido.\n\nPara garantir o funcionamento eficiente, o mínimo de água despejada a cada acionamento deve ser de 5 L.",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Uma caixa de descarga, acoplada a um vaso sanitário, tem a forma de paralelepípedo reto retângulo cujas dimensões internas da base são 2,5 dm e 1,5 dm. Nessa caixa há uma boia que interrompe o abastecimento quando a altura da coluna de água atinge 2 dm, conforme a figura.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "A cada acionamento da descarga, todo o volume de água contida na caixa é despejado no vaso. Para reduzir o volume de água despejada a cada acionamento, uma pessoa colocará, no interior dessa caixa, garrafas de 300 mL, cheias de areia e tampadas, de modo a ficarem submersas quando o abastecimento for interrompido.\n\nPara garantir o funcionamento eficiente, o mínimo de água despejada a cada acionamento deve ser de 5 L.",
+      "anchor": "after:assets:context",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "A quantidade máxima de garrafas que serão colocadas nessa caixa, garantindo um funcionamento eficiente, é igual a",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "10",
+      "latex": "\\text{10}"
+    },
+    {
+      "letter": "B",
+      "text": "8",
+      "latex": "\\text{8}"
+    },
+    {
+      "letter": "C",
+      "text": "4",
+      "latex": "\\text{4}"
+    },
+    {
+      "letter": "D",
+      "text": "3",
+      "latex": "\\text{3}"
+    },
+    {
+      "letter": "E",
+      "text": "2",
+      "latex": "\\text{2}"
+    }
+  ],
+  "correct_answer": "B",
+  "assets": {
+    "images": [
+      {
+        "id": "q177_img_001",
+        "file": "images/raw/matematica/2025-177-img-001.jpeg",
+        "alt": "Caixa de descarga com base de 2,5 dm por 1,5 dm e coluna de água de 1,5 dm; boia interna baixa.",
+        "caption": "",
+        "position": "context"
+      },
+      {
+        "id": "q177_img_002",
+        "file": "images/raw/matematica/2025-177-img-002.jpeg",
+        "alt": "Caixa de descarga com base de 2,5 dm por 1,5 dm e coluna de água de 2 dm; boia acionada próxima à superfície.",
+        "caption": "",
+        "position": "context"
+      }
+    ],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 177,
+    "foreign_language_option": null,
+    "has_image": true,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt updated; raw images mapped"
+  }
+}

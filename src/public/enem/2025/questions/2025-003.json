@@ -1,0 +1,81 @@
+{
+  "id": "2025_q003",
+  "year": 2025,
+  "day": 1,
+  "number": 3,
+  "area": {
+    "code": "linguagens",
+    "name": "Linguagens, Códigos e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Guagua, las palabras también migran\nPocas palabras del idioma castellano despiertan tanto\ninterés y asombro como guagua. En España su uso se reduce a las\nIslas Canarias, donde se registra a partir de los años 30 del pasado\nsiglo. El origen de guagua resulta algo polémico. Todo parece\nindicar que la voz vino de Cuba. La trajeron de vuelta, junto con\nsus maletas y sus recuerdos, aquellos inmigrantes canarios que\nviajaron a la isla antillana en busca de fortuna. Recientemente en\nLanzarote, las autoridades acuñaron “guagüismo” para potenciar\nel uso del transporte público y han solicitado a la Real Academia\nEspañola que introduzca dicho término en el diccionario.\nEl origen de guagua cambia si nos vamos al sur del continente.\nAutobús no es la única acepción de la palabra guagua que se\nusa en América. En los países del sur, tales como Colombia,\nArgentina o Perú, como una derivación del término quechua\nwáwa, también se le dice guagua a un niño de pecho o bebé.\nAlgunos autores chilenos han defendido también que esta\nacepción de guagua como bebé proviene del idioma mapuche.\nSea uno u otro el origen, es común en todo el cono sur oír a\nhombres y mujeres hablar con ternura de sus “guaguas lindas”.",
+    "source": {
+      "url": "www.escribirbienyclaro.com",
+      "access_date": "13 maio 2024",
+      "note": null
+    },
+    "language": "en"
+  },
+  "statement": "Ao abordar a trajetória da palavra “guagua”, o texto destaca a",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Guagua, las palabras también migran\nPocas palabras del idioma castellano despiertan tanto\ninterés y asombro como guagua. En España su uso se reduce a las\nIslas Canarias, donde se registra a partir de los años 30 del pasado\nsiglo. El origen de guagua resulta algo polémico. Todo parece\nindicar que la voz vino de Cuba. La trajeron de vuelta, junto con\nsus maletas y sus recuerdos, aquellos inmigrantes canarios que\nviajaron a la isla antillana en busca de fortuna. Recientemente en\nLanzarote, las autoridades acuñaron “guagüismo” para potenciar\nel uso del transporte público y han solicitado a la Real Academia\nEspañola que introduzca dicho término en el diccionario.\nEl origen de guagua cambia si nos vamos al sur del continente.\nAutobús no es la única acepción de la palabra guagua que se\nusa en América. En los países del sur, tales como Colombia,\nArgentina o Perú, como una derivación del término quechua\nwáwa, también se le dice guagua a un niño de pecho o bebé.\nAlgunos autores chilenos han defendido también que esta\nacepción de guagua como bebé proviene del idioma mapuche.\nSea uno u otro el origen, es común en todo el cono sur oír a\nhombres y mujeres hablar con ternura de sus “guaguas lindas”.",
+      "anchor": "before:assets:context",
+      "order": 1,
+      "language": "en"
+    }
+  ],
+  "prompt": {
+    "text": "Ao abordar a trajetória da palavra “guagua”, o texto destaca a",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "presença de empréstimo linguístico no espanhol."
+    },
+    {
+      "letter": "B",
+      "text": "validação de um vocábulo por uma instituição renomada."
+    },
+    {
+      "letter": "C",
+      "text": "concorrência entre línguas indígenas e a língua espanhola."
+    },
+    {
+      "letter": "D",
+      "text": "valorização da língua de um país em detrimento da de outro."
+    },
+    {
+      "letter": "E",
+      "text": "disputa entre hispano-americanos e espanhóis por sua origem."
+    }
+  ],
+  "correct_answer": "A",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 3,
+    "foreign_language_option": "english",
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

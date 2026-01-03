@@ -1,0 +1,87 @@
+{
+  "id": "2025_q116",
+  "year": 2025,
+  "day": 2,
+  "number": 116,
+  "area": {
+    "code": "natureza",
+    "name": "Ciências da Natureza e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Em uma aula prática de química orgânica, um professor\nidentificou os frascos de várias substâncias apenas por suas\nfórmulas moleculares. Em seguida, apresentou a representação\ntridimensional da molécula do borneol, um álcool secundário,\nconforme a figura. Ele explicou que, quando oxidado, o borneol\ndá origem à cânfora, uma cetona usada desde a Antiguidade\ncomo incenso e no preparo de medicamentos. Finalmente, o\nprofessor solicitou que os alunos identificassem o frasco contendo\na substância cânfora.\nBorneol",
+    "source": {
+      "author": "SANTOS, A. P. B.",
+      "title": "et al. Oxidação do borneol à cânfora com água sanitária:",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "um experimento simples de baixo custo e limpo. Química Nova, n. 6, 2009 (adaptado). O frasco contendo cânfora apresenta a fórmula molecular:",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Em uma aula prática de química orgânica, um professor\nidentificou os frascos de várias substâncias apenas por suas\nfórmulas moleculares. Em seguida, apresentou a representação\ntridimensional da molécula do borneol, um álcool secundário,\nconforme a figura. Ele explicou que, quando oxidado, o borneol\ndá origem à cânfora, uma cetona usada desde a Antiguidade\ncomo incenso e no preparo de medicamentos. Finalmente, o\nprofessor solicitou que os alunos identificassem o frasco contendo\na substância cânfora.\nBorneol",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "um experimento simples de baixo custo e limpo. Química Nova, n. 6, 2009 (adaptado).",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "O frasco contendo cânfora apresenta a fórmula molecular:",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "C9H16O"
+    },
+    {
+      "letter": "B",
+      "text": "C9H17O"
+    },
+    {
+      "letter": "C",
+      "text": "C10H16O"
+    },
+    {
+      "letter": "D",
+      "text": "C10H16O2"
+    },
+    {
+      "letter": "E",
+      "text": "C10H18O2"
+    }
+  ],
+  "correct_answer": "C",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 116,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

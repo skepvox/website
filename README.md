@@ -29,7 +29,7 @@ pnpm preview
 
 ## Content pipelines
 
-See `PIPELINES.md` for how local extraction projects feed content into `src/` (books and ENEM).
+See `docs/pipelines.md` for how local extraction projects feed content into `src/`.
 
 ## ENEM data
 
@@ -40,3 +40,8 @@ pnpm publish:enem -- --year 2025
 ```
 
 Per-question overrides live in `src/enem/overrides/{year}/qNNN.json`.
+
+## SEO (local)
+
+- `docs/seo-strategy.md`
+- `docs/vercel-seo-testing.md`

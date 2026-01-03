@@ -1,0 +1,87 @@
+{
+  "id": "2025_q031",
+  "year": 2025,
+  "day": 1,
+  "number": 31,
+  "area": {
+    "code": "linguagens",
+    "name": "Linguagens, Códigos e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Uruku\nUrucum\nRocou\n(Bixa orellana)\nMoju, dono da água, não gosta do cheiro de urucum. Mani’ojarã,\ndono da mandioca, e os donos das outras plantas cultivadas também\nnão. Eles não suportam. Por isso, os Wajãpi se untam de urucum,\ndeixam o rosto vermelho e se perfumam com seu aroma agradável.\nAlém disso, os seres agressores, os jarã (donos) e os espíritos\nterrestres, gostam do cheiro dos fluidos humanos, do sangue, do\nsuor. Então, o urucum os dissimula, protegendo as pessoas que\nvão caçar, caminhar pela floresta, que estão sendo perturbadas\npor espíritos em sonhos ou que estão em resguardo, como os\ndoentes. O seu uso é tão cotidiano que os Wajãpi o plantam na\naldeia, para ter sempre pertinho. Como o urucum não tem jarã,\nnão tem problema nenhum em arrancar e usar para pintar.",
+    "source": {
+      "author": "STRAPPAZZON, A. I.",
+      "title": "; SIGOLO, R. P. Jardins da história: medicinas indígenas.",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "Recife: ObservaPICS, 2022. Esse verbete contribui para a preservação do patrimônio linguístico nacional, pois apresenta uma",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Uruku\nUrucum\nRocou\n(Bixa orellana)\nMoju, dono da água, não gosta do cheiro de urucum. Mani’ojarã,\ndono da mandioca, e os donos das outras plantas cultivadas também\nnão. Eles não suportam. Por isso, os Wajãpi se untam de urucum,\ndeixam o rosto vermelho e se perfumam com seu aroma agradável.\nAlém disso, os seres agressores, os jarã (donos) e os espíritos\nterrestres, gostam do cheiro dos fluidos humanos, do sangue, do\nsuor. Então, o urucum os dissimula, protegendo as pessoas que\nvão caçar, caminhar pela floresta, que estão sendo perturbadas\npor espíritos em sonhos ou que estão em resguardo, como os\ndoentes. O seu uso é tão cotidiano que os Wajãpi o plantam na\naldeia, para ter sempre pertinho. Como o urucum não tem jarã,\nnão tem problema nenhum em arrancar e usar para pintar.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "Recife: ObservaPICS, 2022.",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "Esse verbete contribui para a preservação do patrimônio linguístico nacional, pois apresenta uma",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "explicação de um rito medicinal do povo Wajãpi."
+    },
+    {
+      "letter": "B",
+      "text": "definição de um termo na perspectiva ancestral indígena."
+    },
+    {
+      "letter": "C",
+      "text": "relação de equivalência entre vocábulos de diferentes línguas indígenas."
+    },
+    {
+      "letter": "D",
+      "text": "atualização de saberes tradicionais dos povos indígenas brasileiros."
+    },
+    {
+      "letter": "E",
+      "text": "descrição das propriedades científicas de plantas silvestres."
+    }
+  ],
+  "correct_answer": "B",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 31,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

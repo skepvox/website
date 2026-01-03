@@ -1,0 +1,87 @@
+{
+  "id": "2025_q081",
+  "year": 2025,
+  "day": 1,
+  "number": 81,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Com o objetivo de auxiliar a prevenção e o combate a\nincêndios no Cerrado, o Centro de Sensoriamento Remoto\nda Universidade Federal de Minas Gerais (UFMG) desenvolveu\num modelo computacional capaz de prever o comportamento\ndo fogo. Essa tecnologia integra o projeto Monitoramento do\nCerrado, do qual também participa o Instituto Nacional de\nPesquisas Espaciais (Inpe). O instituto produz e processa dados\nde satélite sobre focos de calor para determinar a localização\nde incêndios no bioma. Esses focos são o ponto de ignição para\no modelo desenvolvido na UFMG: com base em outros dados,\ncomo relevo, ventos, umidade e biomassa seca, a ferramenta\nestima as áreas com maior risco de incêndio e prevê a intensidade\ne a direção de propagação do fogo no Cerrado brasileiro.",
+    "source": {
+      "author": "LAGES, L.",
+      "title": "Tecnologia antiqueimada. Revista Minas Faz Ciência,",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "n. 84, dez. 2020 – jan.-fev. 2021 (adaptado). Em relação à causa ambiental, o uso da tecnologia mencionada indica a",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Com o objetivo de auxiliar a prevenção e o combate a\nincêndios no Cerrado, o Centro de Sensoriamento Remoto\nda Universidade Federal de Minas Gerais (UFMG) desenvolveu\num modelo computacional capaz de prever o comportamento\ndo fogo. Essa tecnologia integra o projeto Monitoramento do\nCerrado, do qual também participa o Instituto Nacional de\nPesquisas Espaciais (Inpe). O instituto produz e processa dados\nde satélite sobre focos de calor para determinar a localização\nde incêndios no bioma. Esses focos são o ponto de ignição para\no modelo desenvolvido na UFMG: com base em outros dados,\ncomo relevo, ventos, umidade e biomassa seca, a ferramenta\nestima as áreas com maior risco de incêndio e prevê a intensidade\ne a direção de propagação do fogo no Cerrado brasileiro.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "n. 84, dez. 2020 – jan.-fev. 2021 (adaptado).",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "Em relação à causa ambiental, o uso da tecnologia mencionada indica a",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "influência da produção orgânica."
+    },
+    {
+      "letter": "B",
+      "text": "relevância da infraestrutura viária."
+    },
+    {
+      "letter": "C",
+      "text": "significância da cosmologia nativa."
+    },
+    {
+      "letter": "D",
+      "text": "importância de pesquisas acadêmicas."
+    },
+    {
+      "letter": "E",
+      "text": "interferência de interesses estrangeiros."
+    }
+  ],
+  "correct_answer": "D",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 81,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "items": [
+    { "label": "Inglês", "value": 280, "color": "#ff7a45" },
+    { "label": "Espanhol", "value": 80, "color": "#f5c542" },
+    { "label": "Francês", "value": 20, "color": "#7ccf4f" },
+    { "label": "Alemão", "value": 20, "color": "#b9a7ff" }
+  ]
+}

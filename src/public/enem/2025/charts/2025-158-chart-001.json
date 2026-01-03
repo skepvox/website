@@ -1,0 +1,10 @@
+{
+  "diameter": 20,
+  "unit": 10,
+  "coreRatio": 0.47,
+  "rayBaseRatio": 0.62,
+  "rayCount": 8,
+  "rayAngle": 32,
+  "sunColor": "#f2b705",
+  "dimensionLabel": "20 cm"
+}

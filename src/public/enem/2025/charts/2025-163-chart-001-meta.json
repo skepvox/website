@@ -1,0 +1,8 @@
+{
+  "id": "2025-163-chart-001",
+  "type": "2025-163-compass",
+  "title": "Bússola",
+  "description": "Bússola com marcações de 0° a 360°, pontos cardeais N, S, L, O e direções destacadas: 110° (rota planejada), 340° (rota executada), 90° (segundo trecho) e 135° (correção).",
+  "width": 200,
+  "height": 200
+}

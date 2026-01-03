@@ -1,0 +1,20 @@
+{
+  "xMin": -1.5,
+  "xMax": 6.5,
+  "yMin": -80,
+  "yMax": 100,
+  "k": 30,
+  "a": 8.3,
+  "p": 0.5,
+  "m": -2.5,
+  "asymptotes": [
+    { "x": -0.6416, "labelNum": "5 − 2π", "labelDen": "2" },
+    { "x": 5.6416, "labelNum": "5 + 2π", "labelDen": "2" }
+  ],
+  "xTicks": [0, 2.5, 4],
+  "yTicks": [30],
+  "xLabel": "T",
+  "yLabel": "D",
+  "curveColor": "#8b1a1a",
+  "showVessel": true
+}

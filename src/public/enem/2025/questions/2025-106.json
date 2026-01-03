@@ -1,0 +1,82 @@
+{
+  "id": "2025_q106",
+  "year": 2025,
+  "day": 2,
+  "number": 106,
+  "area": {
+    "code": "natureza",
+    "name": "Ciências da Natureza e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "No início do século XX, as fórmulas das substâncias eram representadas de modo diferente do atual. A figura apresenta uma\nfotografia bem antiga (1909) que registra uma aula de química ministrada em um colégio em Santos (SP). Um olhar mais atento\npermite identificar como os compostos químicos eram representados.\nO nitrogênio era chamado de azoto e representado pelo símbolo Az. Vê-se na lousa a equação representativa da adição do\noxigênio atômico (O) ao monóxido de nitrogênio (AzO) com a formação de dióxido de nitrogênio (AzO2). Analogamente, o nitrato\nde sódio era representado por NaAzO3.",
+    "source": {
+      "url": "www.novomilenio.inf.br",
+      "access_date": "29 ago. 2014",
+      "note": "adaptado"
+    },
+    "language": "pt"
+  },
+  "statement": "Em 1909, as representações das substâncias ácido nítrico e cloreto de cálcio, tendo por base essas informações e seguindo a mesma lógica, seriam, respectivamente:",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "No início do século XX, as fórmulas das substâncias eram representadas de modo diferente do atual. A figura apresenta uma\nfotografia bem antiga (1909) que registra uma aula de química ministrada em um colégio em Santos (SP). Um olhar mais atento\npermite identificar como os compostos químicos eram representados.\nO nitrogênio era chamado de azoto e representado pelo símbolo Az. Vê-se na lousa a equação representativa da adição do\noxigênio atômico (O) ao monóxido de nitrogênio (AzO) com a formação de dióxido de nitrogênio (AzO2). Analogamente, o nitrato\nde sódio era representado por NaAzO3.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "Em 1909, as representações das substâncias ácido nítrico e cloreto de cálcio, tendo por base essas informações e seguindo a mesma lógica, seriam, respectivamente:",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "HAzO3 e CaCl2"
+    },
+    {
+      "letter": "B",
+      "text": "HAz3O e Ca2Cl"
+    },
+    {
+      "letter": "C",
+      "text": "H3AzO4 e CaCl"
+    },
+    {
+      "letter": "D",
+      "text": "HAz3O e KCl2"
+    },
+    {
+      "letter": "E",
+      "text": "HAzO2 e KCl"
+    }
+  ],
+  "correct_answer": "A",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 106,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

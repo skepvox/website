@@ -1,0 +1,91 @@
+{
+  "id": "2025_q143",
+  "year": 2025,
+  "day": 2,
+  "number": 143,
+  "area": {
+    "code": "matematica",
+    "name": "Matemática e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Na cantina de uma escola, há cinco alimentos vendidos em pacotes com diferentes quantidades de porções. As informações nutricionais contidas nos rótulos desses produtos estão indicadas nas imagens.\nUma estudante opta sempre pelo alimento com a menor quantidade total de sódio por pacote.",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "Qual desses produtos deve ser o escolhido pela estudante?",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Na cantina de uma escola, há cinco alimentos vendidos em pacotes com diferentes quantidades de porções. As informações nutricionais contidas nos rótulos desses produtos estão indicadas nas imagens.",
+      "anchor": "before:asset:2025-143-chart-001",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "context",
+      "text": "Uma estudante opta sempre pelo alimento com a menor quantidade total de sódio por pacote.",
+      "anchor": "after:asset:2025-143-chart-001",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "Qual desses produtos deve ser o escolhido pela estudante?",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "Batata chips."
+    },
+    {
+      "letter": "B",
+      "text": "Palitos salgados."
+    },
+    {
+      "letter": "C",
+      "text": "Biscoito multigrãos."
+    },
+    {
+      "letter": "D",
+      "text": "Biscoito de polvilho."
+    },
+    {
+      "letter": "E",
+      "text": "Biscoito de água e sal."
+    }
+  ],
+  "correct_answer": "A",
+  "assets": {
+    "images": [],
+    "charts": [
+      {
+        "id": "2025-143-chart-001",
+        "type": "2025-143-nutrition",
+        "data_file": "charts/2025-143-chart-001.json",
+        "meta_file": "charts/2025-143-chart-001-meta.json",
+        "position": "context"
+      }
+    ],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 143,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": true,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt updated; improved chart created"
+  }
+}

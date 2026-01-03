@@ -1,0 +1,26 @@
+{
+  "title": "Projeto 1",
+  "layoutWidth": 20,
+  "tunnels": [
+    {
+      "label": "Túnel para automóveis",
+      "diameter": 12,
+      "segments": [
+        { "label": "volta", "width": 6 },
+        { "label": "ida", "width": 6 }
+      ],
+      "dimensionLabel": "12 m",
+      "x": 0
+    },
+    {
+      "label": "Túnel para bicicletas",
+      "diameter": 6,
+      "segments": [
+        { "label": "volta", "width": 3 },
+        { "label": "ida", "width": 3 }
+      ],
+      "dimensionLabel": "6 m",
+      "x": 14
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "kmMarks": [0, 1, 2, 3, 4, 5],
+  "timeMarks": [
+    { "km": 0, "label": "0 s" },
+    { "km": 1, "label": "272 s" },
+    { "km": 2, "label": "556 s" },
+    { "km": 3, "label": "844 s" },
+    { "km": 4, "label": "1 132 s" }
+  ],
+  "segmentTimes": [
+    { "from": 0, "to": 1, "label": "272 s" },
+    { "from": 1, "to": 2, "label": "284 s" },
+    { "from": 2, "to": 3, "label": "288 s" },
+    { "from": 3, "to": 4, "label": "288 s" }
+  ],
+  "segmentLabels": [
+    { "from": 0, "to": 1, "label": "1º trecho" },
+    { "from": 1, "to": 2, "label": "2º trecho" },
+    { "from": 2, "to": 3, "label": "3º trecho" },
+    { "from": 3, "to": 4, "label": "4º trecho" },
+    { "from": 4, "to": 5, "label": "5º trecho" }
+  ],
+  "labels": {
+    "timeLabel": "Tempo de corrida",
+    "segmentLabel": "Tempo gasto em\ncada trecho de 1 km",
+    "distanceLabel": "Comprimento\ndo percurso"
+  }
+}

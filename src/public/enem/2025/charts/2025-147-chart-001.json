@@ -1,0 +1,9 @@
+{
+  "lagoonColor": "#3fe7f0",
+  "protectedColor": "#6b6b6b",
+  "pointColor": "#f2b705",
+  "centerAngle": -0.5,
+  "halfAngle": 0.2,
+  "labelText": "200 m",
+  "debug": false
+}

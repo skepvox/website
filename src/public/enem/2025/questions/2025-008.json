@@ -1,0 +1,66 @@
+{
+  "id": "2025_q008",
+  "year": 2025,
+  "day": 1,
+  "number": 8,
+  "area": {
+    "code": "linguagens",
+    "name": "Linguagens, Códigos e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": null,
+  "statement": "O elemento que caracteriza esse texto como uma crônica é a",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "statement",
+      "text": "O elemento que caracteriza esse texto como uma crônica é a",
+      "anchor": "before:options",
+      "order": 1
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "defesa das opiniões da autora sobre um tema de interesse coletivo."
+    },
+    {
+      "letter": "B",
+      "text": "exposição sobre o uso de tecnologias nas práticas de escrita atuais."
+    },
+    {
+      "letter": "C",
+      "text": "abordagem de fatos do contexto pessoal em uma perspectiva reflexiva."
+    },
+    {
+      "letter": "D",
+      "text": "utilização de recursos linguísticos para a interlocução direta com o leitor."
+    },
+    {
+      "letter": "E",
+      "text": "apresentação de acontecimentos segundo a ordem de sucessão no tempo."
+    }
+  ],
+  "correct_answer": "C",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 8,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

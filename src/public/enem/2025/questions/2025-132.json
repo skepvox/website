@@ -1,0 +1,76 @@
+{
+  "id": "2025_q132",
+  "year": 2025,
+  "day": 2,
+  "number": 132,
+  "area": {
+    "code": "natureza",
+    "name": "Ciências da Natureza e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Plantas e algas realizam fotossíntese oxigênica para\nsíntese de matéria orgânica e, para isso, utilizam trifosfato de\nadenosina (ATP) e nicotinamida adenina dinucleotídeo fosfato\nreduzido (NADPH). Já algumas bactérias fotossintetizantes\nnão apresentam cloroplasto e clorofila, mas um pigmento\ndenominado bacterioclorofila. Esses procariotos realizam a\nfotossíntese anoxigênica, um processo de síntese de matéria\norgânica utilizando o gás carbônico (CO2) e o gás sulfídrico (H2S).\nNa fotossíntese oxigênica, qual composto desempenha função",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "análoga à do H2S?",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Plantas e algas realizam fotossíntese oxigênica para\nsíntese de matéria orgânica e, para isso, utilizam trifosfato de\nadenosina (ATP) e nicotinamida adenina dinucleotídeo fosfato\nreduzido (NADPH). Já algumas bactérias fotossintetizantes\nnão apresentam cloroplasto e clorofila, mas um pigmento\ndenominado bacterioclorofila. Esses procariotos realizam a\nfotossíntese anoxigênica, um processo de síntese de matéria\norgânica utilizando o gás carbônico (CO2) e o gás sulfídrico (H2S).\nNa fotossíntese oxigênica, qual composto desempenha função",
+      "anchor": "before:assets:context",
+      "order": 1
+    }
+  ],
+  "prompt": {
+    "text": "análoga à do H2S?",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "ATP."
+    },
+    {
+      "letter": "B",
+      "text": "NADPH."
+    },
+    {
+      "letter": "C",
+      "text": "Oxigênio."
+    },
+    {
+      "letter": "D",
+      "text": "Clorofila."
+    },
+    {
+      "letter": "E",
+      "text": "Água."
+    }
+  ],
+  "correct_answer": null,
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 132,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": true,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

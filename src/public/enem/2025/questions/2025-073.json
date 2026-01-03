@@ -1,0 +1,80 @@
+{
+  "id": "2025_q073",
+  "year": 2025,
+  "day": 1,
+  "number": 73,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Pesquisa pioneira no Brasil propõe o uso de\nenergia do solo para climatizar edifícios\nPela primeira vez na história, o Brasil terá um prédio que usa\nenergia do solo para climatizar seus ambientes. Uma pesquisa\ninovadora avaliou o uso das fundações de edifícios como meio para\na troca de energia térmica entre o prédio e o subsolo. A energia\ngeotérmica é aquela encontrada dentro da crosta terrestre, seja\nno solo, nas rochas ou mesmo na água, sendo identificada pela\ntemperatura. Essa energia pode ser transferida para a superfície\npor processos de troca térmica a partir das fundações da edificação.",
+    "source": {
+      "url": "https://jornal.usp.br",
+      "access_date": "7 nov. 2021",
+      "note": "adaptado"
+    },
+    "language": "pt"
+  },
+  "statement": "Para o sistema elétrico brasileiro, a expansão de tecnologias como a descrita no texto representa uma tendência de",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Pesquisa pioneira no Brasil propõe o uso de\nenergia do solo para climatizar edifícios\nPela primeira vez na história, o Brasil terá um prédio que usa\nenergia do solo para climatizar seus ambientes. Uma pesquisa\ninovadora avaliou o uso das fundações de edifícios como meio para\na troca de energia térmica entre o prédio e o subsolo. A energia\ngeotérmica é aquela encontrada dentro da crosta terrestre, seja\nno solo, nas rochas ou mesmo na água, sendo identificada pela\ntemperatura. Essa energia pode ser transferida para a superfície\npor processos de troca térmica a partir das fundações da edificação.",
+      "anchor": "before:assets:context",
+      "order": 1
+    }
+  ],
+  "prompt": {
+    "text": "Para o sistema elétrico brasileiro, a expansão de tecnologias como a descrita no texto representa uma tendência de",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "homogeneização da oferta da matriz produtiva."
+    },
+    {
+      "letter": "B",
+      "text": "ampliação do consumo em unidades residenciais."
+    },
+    {
+      "letter": "C",
+      "text": "redução da pressão sobre as usinas hidrelétricas."
+    },
+    {
+      "letter": "D",
+      "text": "estagnação do consumo em unidades industriais."
+    },
+    {
+      "letter": "E",
+      "text": "superação da necessidade de recursos renováveis."
+    }
+  ],
+  "correct_answer": "C",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 73,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

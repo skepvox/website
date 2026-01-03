@@ -1,0 +1,62 @@
+{
+  "id": "2025_q007",
+  "year": 2025,
+  "day": 1,
+  "number": 7,
+  "area": {
+    "code": "linguagens",
+    "name": "Linguagens, Códigos e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": null,
+  "statement": "Nesse texto, o que caracteriza a escrita “de próprio punho” é a letra manuscrita, enquanto a escrita digital é ilustrada pelo(a)",
+  "prompt": {
+    "text": "Nesse texto, o que caracteriza a escrita “de próprio punho” é a letra manuscrita, enquanto a escrita digital é ilustrada pelo(a)",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "utilização de tecnologias diversificadas."
+    },
+    {
+      "letter": "B",
+      "text": "desenvolvimento de novos recursos de escrita."
+    },
+    {
+      "letter": "C",
+      "text": "possibilidade de interações mediadas por telas."
+    },
+    {
+      "letter": "D",
+      "text": "diversidade de fontes tipográficas que estão disponíveis."
+    },
+    {
+      "letter": "E",
+      "text": "delimitação dos espaços onde a produção textual ocorre."
+    }
+  ],
+  "correct_answer": "D",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 7,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": null
+  }
+}

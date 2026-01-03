@@ -1,0 +1,81 @@
+{
+  "id": "2025_q159",
+  "year": 2025,
+  "day": 2,
+  "number": 159,
+  "area": {
+    "code": "matematica",
+    "name": "Matemática e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "O cortisol é um hormônio produzido pelas glândulas adrenais e pode ser considerado um importante marcador do estresse fisiológico. Em um estudo desenvolvido com enfermeiros, foi verificado que a concentração de cortisol salivar em um dia de trabalho, denotada por \\(T\\), era, em média, 1,59 vezes a concentração de cortisol salivar em um dia de folga, denotada por \\(F\\).",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "O cortisol é um hormônio produzido pelas glândulas adrenais e pode ser considerado um importante marcador do estresse fisiológico. Em um estudo desenvolvido com enfermeiros, foi verificado que a concentração de cortisol salivar em um dia de trabalho, denotada por \\(T\\), era, em média, 1,59 vezes a concentração de cortisol salivar em um dia de folga, denotada por \\(F\\).",
+      "anchor": "before:assets:context",
+      "order": 1
+    }
+  ],
+  "prompt": {
+    "text": "Nesse estudo, a relação obtida entre \\(T\\) e \\(F\\) foi",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "T = 1,59 + F",
+      "latex": "T = 1{,}59 + F"
+    },
+    {
+      "letter": "B",
+      "text": "F = 1,59 + T",
+      "latex": "F = 1{,}59 + T"
+    },
+    {
+      "letter": "C",
+      "text": "T / F = 1,59",
+      "latex": "\\dfrac{T}{F} = 1{,}59"
+    },
+    {
+      "letter": "D",
+      "text": "F / T = 1,59",
+      "latex": "\\dfrac{F}{T} = 1{,}59"
+    },
+    {
+      "letter": "E",
+      "text": "F · T = 1,59",
+      "latex": "F \\cdot T = 1{,}59"
+    }
+  ],
+  "correct_answer": "C",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 159,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt updated; formulas normalized"
+  }
+}

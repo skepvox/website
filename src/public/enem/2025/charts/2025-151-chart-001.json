@@ -1,0 +1,47 @@
+{
+  "xMax": 10,
+  "yMax": 10,
+  "axisLabelX": "x",
+  "axisLabelY": "y",
+  "squareFill": "#bff6fb",
+  "debug": false,
+  "points": [
+    {
+      "id": "S",
+      "x": 6,
+      "y": 2,
+      "label": "S (6; 2)",
+      "labelDx": 10,
+      "labelDy": 12,
+      "labelAnchor": "start"
+    },
+    {
+      "id": "V",
+      "x": 8,
+      "y": 6,
+      "label": "V (8; 6)",
+      "labelDx": 10,
+      "labelDy": -6,
+      "labelAnchor": "start"
+    },
+    {
+      "id": "U",
+      "x": 4,
+      "y": 8,
+      "label": "U",
+      "labelDx": 0,
+      "labelDy": -10,
+      "labelAnchor": "middle"
+    },
+    {
+      "id": "T",
+      "x": 2,
+      "y": 4,
+      "label": "T",
+      "labelDx": -8,
+      "labelDy": 6,
+      "labelAnchor": "end"
+    }
+  ],
+  "polygon": ["S", "V", "U", "T"]
+}

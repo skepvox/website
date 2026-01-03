@@ -1,0 +1,12 @@
+{
+  "title": "Projeto 2",
+  "subtitle": "Túnel de uso misto",
+  "diameter": 12,
+  "segments": [
+    { "label": "volta", "width": 3 },
+    { "label": "volta", "width": 6 },
+    { "label": "ida", "width": 6 },
+    { "label": "ida", "width": 3 }
+  ],
+  "tunnelLabel": "Túnel de uso misto"
+}

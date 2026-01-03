@@ -1,0 +1,80 @@
+{
+  "id": "2025_q089",
+  "year": 2025,
+  "day": 1,
+  "number": 89,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Produção e exportações brasileiras no ranking mundial em 2019\nFonte: USDA, 2020. Elaboração CNA.\n*Fatia de participação na produção mundial.",
+    "source": {
+      "url": "www.cnabrasil.org.br",
+      "access_date": "15 out. 2021",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "Qual condição favoreceu o cenário produtivo exposto na figura?",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Produção e exportações brasileiras no ranking mundial em 2019\nFonte: USDA, 2020. Elaboração CNA.\n*Fatia de participação na produção mundial.",
+      "anchor": "before:assets:context",
+      "order": 1
+    }
+  ],
+  "prompt": {
+    "text": "Qual condição favoreceu o cenário produtivo exposto na figura?",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "Redução do poder de compra da população brasileira."
+    },
+    {
+      "letter": "B",
+      "text": "Ampliação da entrada do capital agroindustrial no campo."
+    },
+    {
+      "letter": "C",
+      "text": "Diminuição do uso de trabalho especializado na agropecuária."
+    },
+    {
+      "letter": "D",
+      "text": "Valorização da moeda nacional em relação ao dólar americano."
+    },
+    {
+      "letter": "E",
+      "text": "Inclusão de pequenas propriedades em cultivos de subsistência."
+    }
+  ],
+  "correct_answer": "B",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 89,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

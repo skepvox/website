@@ -1,0 +1,62 @@
+{
+  "id": "2025_q011",
+  "year": 2025,
+  "day": 1,
+  "number": 11,
+  "area": {
+    "code": "linguagens",
+    "name": "Linguagens, Códigos e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": null,
+  "statement": "Nesse cartaz, a utilização de frases que projetam a vida profissional de duas crianças tem como objetivo",
+  "prompt": {
+    "text": "Nesse cartaz, a utilização de frases que projetam a vida profissional de duas crianças tem como objetivo",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "sugerir a arrecadação de fundos para o sustento de povos originários no país."
+    },
+    {
+      "letter": "B",
+      "text": "sensibilizar a sociedade sobre os benefícios decorrentes do combate ao racismo."
+    },
+    {
+      "letter": "C",
+      "text": "indicar a importância da orientação vocacional na educação de crianças no Brasil."
+    },
+    {
+      "letter": "D",
+      "text": "chamar a atenção sobre a necessidade de ações voltadas para a educação infantil."
+    },
+    {
+      "letter": "E",
+      "text": "valorizar o trabalho de agências internacionais na luta contra a discriminação racial."
+    }
+  ],
+  "correct_answer": "B",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 11,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": null
+  }
+}

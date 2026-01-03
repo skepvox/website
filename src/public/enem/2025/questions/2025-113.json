@@ -1,0 +1,82 @@
+{
+  "id": "2025_q113",
+  "year": 2025,
+  "day": 2,
+  "number": 113,
+  "area": {
+    "code": "natureza",
+    "name": "Ciências da Natureza e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "A icterícia é uma doença que acomete recém-nascidos e\npode ser tratada com um método de fototerapia conhecido como\nbanho de luz, que consiste na exposição do recém-nascido a uma\nfonte luminosa equipada com LEDs azuis. Para o monitoramento\nda dosagem dessa radiação, é utilizada a resposta óptica de um\nsensor constituído de materiais orgânicos que luminescem quando\nexpostos à luz azul. Com o passar do tempo, essa radiação oxida os\nmateriais do sensor, alterando sua coloração de vermelho-laranja\npara verde, o que indica o final do tratamento.\nO gráfico apresenta o espectro de fotoluminescência do sensor\nem função do comprimento de onda da luz emitida no início do\ntratamento, quando o sensor, colado na fralda do bebê (Figura 1),\nluminesce na região do vermelho-laranja (∼600 nm). A Figura 2\napresenta a evolução da coloração do sensor, mostrando que a\nfrequência da luz emitida por ele aumenta em função do tempo de\nexposição à luz azul.",
+    "source": {
+      "author": "SILVA, M. M.",
+      "title": "et al. Fabricação de sensor orgânico flexível para aplicação",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "em terapia com luz azul. Tecnol. Metal. Mater. Miner., n. 3, jul.-set. 2011 (adaptado). Os espectros de fotoluminescência do sensor no início e no final do tratamento estão esboçados no gráfico:",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "A icterícia é uma doença que acomete recém-nascidos e\npode ser tratada com um método de fototerapia conhecido como\nbanho de luz, que consiste na exposição do recém-nascido a uma\nfonte luminosa equipada com LEDs azuis. Para o monitoramento\nda dosagem dessa radiação, é utilizada a resposta óptica de um\nsensor constituído de materiais orgânicos que luminescem quando\nexpostos à luz azul. Com o passar do tempo, essa radiação oxida os\nmateriais do sensor, alterando sua coloração de vermelho-laranja\npara verde, o que indica o final do tratamento.\nO gráfico apresenta o espectro de fotoluminescência do sensor\nem função do comprimento de onda da luz emitida no início do\ntratamento, quando o sensor, colado na fralda do bebê (Figura 1),\nluminesce na região do vermelho-laranja (∼600 nm). A Figura 2\napresenta a evolução da coloração do sensor, mostrando que a\nfrequência da luz emitida por ele aumenta em função do tempo de\nexposição à luz azul.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "em terapia com luz azul. Tecnol. Metal. Mater. Miner., n. 3, jul.-set. 2011 (adaptado). Os espectros de fotoluminescência do sensor no início e no final do tratamento estão esboçados no gráfico:",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "[IMAGE]"
+    },
+    {
+      "letter": "B",
+      "text": "[IMAGE]"
+    },
+    {
+      "letter": "C",
+      "text": "[IMAGE]"
+    },
+    {
+      "letter": "D",
+      "text": "[IMAGE]"
+    },
+    {
+      "letter": "E",
+      "text": "[IMAGE]"
+    }
+  ],
+  "correct_answer": "A",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 113,
+    "foreign_language_option": null,
+    "has_image": true,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "Image-based options need manual review"
+  }
+}

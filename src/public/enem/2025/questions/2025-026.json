@@ -1,0 +1,87 @@
+{
+  "id": "2025_q026",
+  "year": 2025,
+  "day": 1,
+  "number": 26,
+  "area": {
+    "code": "linguagens",
+    "name": "Linguagens, Códigos e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "I: o nome do filme é roupa suja ... eu assisti na minha casa ...\ncom minha mãe ... tinha um ... o filme era sobre um homem que\ncolocaram ... trocaram as bolsas ... daí o homem levou uma bolsa\ncheia de dinheiro sem ele saber que na mala dele ... pensando\nque era dele mas era errada ... quando ele chegou onde ele ia\ntrabalhar ... tinha uma moça tentando abrir a porta pra fazer\nentrevista com uns cantores lá que tinham ... daí ele perguntou\n... “você tá tentando abrir a porta?”... daí ele ... “não ... não” ...\ndaí ele disse ... “ah ... tá ... sim” ... daí ela ... “é ... e quero fazer\numa entrevista” ... daí ele disse ... “você quer entrar ... então\npode entrar” ... daí entraram ... daí ficaram lá ... quando ela\nentrou e queria fazer a entrevista um homem num deixou ... daí a\nmulher pegou ... subiu onde o homem tava trabalhando ... rapaz\nné ... onde ele tava trabalhando e ficou lá e dando o show ...",
+    "source": {
+      "author": "CUNHA, M. A. F.",
+      "title": "Corpus discurso & gramática: a língua falada e",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "escrita na cidade de Natal. Disponível em: https://deg.uff.br. Acesso em: 4 dez. 2024 (adaptado). Nesse texto, a repetição da forma “daí” revela",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "I: o nome do filme é roupa suja ... eu assisti na minha casa ...\ncom minha mãe ... tinha um ... o filme era sobre um homem que\ncolocaram ... trocaram as bolsas ... daí o homem levou uma bolsa\ncheia de dinheiro sem ele saber que na mala dele ... pensando\nque era dele mas era errada ... quando ele chegou onde ele ia\ntrabalhar ... tinha uma moça tentando abrir a porta pra fazer\nentrevista com uns cantores lá que tinham ... daí ele perguntou\n... “você tá tentando abrir a porta?”... daí ele ... “não ... não” ...\ndaí ele disse ... “ah ... tá ... sim” ... daí ela ... “é ... e quero fazer\numa entrevista” ... daí ele disse ... “você quer entrar ... então\npode entrar” ... daí entraram ... daí ficaram lá ... quando ela\nentrou e queria fazer a entrevista um homem num deixou ... daí a\nmulher pegou ... subiu onde o homem tava trabalhando ... rapaz\nné ... onde ele tava trabalhando e ficou lá e dando o show ...",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "escrita na cidade de Natal. Disponível em: https://deg.uff.br. Acesso em: 4 dez. 2024 (adaptado).",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "Nesse texto, a repetição da forma “daí” revela",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "a necessidade de adequação ao interlocutor."
+    },
+    {
+      "letter": "B",
+      "text": "a origem regional do locutor."
+    },
+    {
+      "letter": "C",
+      "text": "a escolaridade do falante."
+    },
+    {
+      "letter": "D",
+      "text": "uma estratégia presente na linguagem oral."
+    },
+    {
+      "letter": "E",
+      "text": "uma ênfase em determinadas partes do discurso."
+    }
+  ],
+  "correct_answer": "D",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 26,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

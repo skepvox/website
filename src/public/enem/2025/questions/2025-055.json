@@ -1,0 +1,78 @@
+{
+  "id": "2025_q055",
+  "year": 2025,
+  "day": 1,
+  "number": 55,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "O corpo de cidadãos é o poder supremo dos Estados.\nA supremacia pode residir ou num homem, ou na minoria,\nou em todos. Sempre que o Um, ou a Minoria, ou Todos governam,\ntendo em vista o bem-estar comum, essas constituições são\njustas; mas se procuram apenas o benefício de uma das partes,\nseja ela o Um, a Minoria ou Todos, estabelece-se um desvio.\nARISTÓTELES. Política. São Paulo: Nova Cultural, 2000.\nNo excerto encontra-se a base da teoria clássica das três formas",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "de governo representadas pela",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "O corpo de cidadãos é o poder supremo dos Estados.\nA supremacia pode residir ou num homem, ou na minoria,\nou em todos. Sempre que o Um, ou a Minoria, ou Todos governam,\ntendo em vista o bem-estar comum, essas constituições são\njustas; mas se procuram apenas o benefício de uma das partes,\nseja ela o Um, a Minoria ou Todos, estabelece-se um desvio.\nARISTÓTELES. Política. São Paulo: Nova Cultural, 2000.\nNo excerto encontra-se a base da teoria clássica das três formas",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "de governo representadas pela",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "tirania, oligarquia e república."
+    },
+    {
+      "letter": "B",
+      "text": "burocracia, autarquia e império."
+    },
+    {
+      "letter": "C",
+      "text": "ditadura, autocracia e anarquia."
+    },
+    {
+      "letter": "D",
+      "text": "plutocracia, tecnocracia e demagogia."
+    },
+    {
+      "letter": "E",
+      "text": "monarquia, aristocracia e democracia."
+    }
+  ],
+  "correct_answer": "E",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 55,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

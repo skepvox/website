@@ -1,0 +1,82 @@
+{
+  "id": "2025_q109",
+  "year": 2025,
+  "day": 2,
+  "number": 109,
+  "area": {
+    "code": "natureza",
+    "name": "Ciências da Natureza e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Por que os olhos ficam vermelhos\nem algumas fotografias?\nEm fotos tiradas com câmeras fotográficas antigas, por\nvezes as pessoas aparecem com os olhos vermelhos. Isso\nocorre porque a luz do flash da câmera incide diretamente\nno globo ocular, sendo refletida por uma região repleta de\nvasos sanguíneos.",
+    "source": {
+      "url": "www.uol.com.br",
+      "access_date": "14 jun. 2017",
+      "note": "adaptado"
+    },
+    "language": "pt"
+  },
+  "statement": "Esse efeito é mais comum à noite ou em lugares pouco iluminados porque, com a pupila",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Por que os olhos ficam vermelhos\nem algumas fotografias?\nEm fotos tiradas com câmeras fotográficas antigas, por\nvezes as pessoas aparecem com os olhos vermelhos. Isso\nocorre porque a luz do flash da câmera incide diretamente\nno globo ocular, sendo refletida por uma região repleta de\nvasos sanguíneos.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "Esse efeito é mais comum à noite ou em lugares pouco iluminados porque, com a pupila",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "dilatada, chega mais luz à retina."
+    },
+    {
+      "letter": "B",
+      "text": "retraída, chega mais luz vermelha à retina."
+    },
+    {
+      "letter": "C",
+      "text": "retraída, chega mais luz vermelha aos bastonetes."
+    },
+    {
+      "letter": "D",
+      "text": "retraída, chegam menos luzes azul e verde aos cones."
+    },
+    {
+      "letter": "E",
+      "text": "dilatada, chegam menos luzes azul e verde aos bastonetes."
+    }
+  ],
+  "correct_answer": "A",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 109,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

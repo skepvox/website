@@ -1,0 +1,103 @@
+{
+  "id": "2025_q153",
+  "year": 2025,
+  "day": 2,
+  "number": 153,
+  "area": {
+    "code": "matematica",
+    "name": "Matemática e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Uma escola de idiomas oferece cursos de inglês, espanhol, francês e alemão. Os gráficos apresentam a distribuição percentual das matrículas, por idioma, em 2023, e a distribuição da quantidade de matrículas, por idioma, em 2024.",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "Para planejar as atividades de 2025, o gerente da escola estimou que o total de matrículas será o mesmo de 2024, e a distribuição percentual das matrículas, por idioma, será igual à registrada em 2023.",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Uma escola de idiomas oferece cursos de inglês, espanhol, francês e alemão. Os gráficos apresentam a distribuição percentual das matrículas, por idioma, em 2023, e a distribuição da quantidade de matrículas, por idioma, em 2024.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "Para planejar as atividades de 2025, o gerente da escola estimou que o total de matrículas será o mesmo de 2024, e a distribuição percentual das matrículas, por idioma, será igual à registrada em 2023.",
+      "anchor": "after:assets:context",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "Segundo essa estimativa, o número de matrículas no curso de francês para o ano de 2025 será",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "2.",
+      "latex": "\\text{2.}"
+    },
+    {
+      "letter": "B",
+      "text": "12.",
+      "latex": "\\text{12.}"
+    },
+    {
+      "letter": "C",
+      "text": "20.",
+      "latex": "\\text{20.}"
+    },
+    {
+      "letter": "D",
+      "text": "22.",
+      "latex": "\\text{22.}"
+    },
+    {
+      "letter": "E",
+      "text": "40.",
+      "latex": "\\text{40.}"
+    }
+  ],
+  "correct_answer": "E",
+  "assets": {
+    "images": [],
+    "charts": [
+      {
+        "id": "2025-153-chart-001",
+        "type": "2025-153-pie",
+        "data_file": "charts/2025-153-chart-001.json",
+        "meta_file": "charts/2025-153-chart-001-meta.json",
+        "position": "context"
+      },
+      {
+        "id": "2025-153-chart-002",
+        "type": "2025-153-bar",
+        "data_file": "charts/2025-153-chart-002.json",
+        "meta_file": "charts/2025-153-chart-002-meta.json",
+        "position": "context"
+      }
+    ],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 153,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": true,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt updated; improved charts mapped"
+  }
+}
