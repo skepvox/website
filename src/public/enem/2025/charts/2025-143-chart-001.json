@@ -1,0 +1,54 @@
+{
+  "cards": [
+    {
+      "id": "A",
+      "title": "Batata chips",
+      "lines": [
+        "Pacote com 3 por\u00e7\u00f5es de 50 g",
+        "170 mg de s\u00f3dio por por\u00e7\u00e3o"
+      ],
+      "fill": "#99fdfe",
+      "placement": "top-left"
+    },
+    {
+      "id": "B",
+      "title": "Palitos salgados",
+      "lines": [
+        "Pacote com 4 por\u00e7\u00f5es de 20 g",
+        "501 mg de s\u00f3dio por por\u00e7\u00e3o"
+      ],
+      "fill": "#9afe99",
+      "placement": "top-right"
+    },
+    {
+      "id": "C",
+      "title": "Biscoito multigr\u00e3os",
+      "lines": [
+        "Pacote com 8 por\u00e7\u00f5es de 25 g",
+        "264 mg de s\u00f3dio por por\u00e7\u00e3o"
+      ],
+      "fill": "#bfbefd",
+      "placement": "mid-left"
+    },
+    {
+      "id": "D",
+      "title": "Biscoito de polvilho",
+      "lines": [
+        "Pacote com 6 por\u00e7\u00f5es de 15 g",
+        "175 mg de s\u00f3dio por por\u00e7\u00e3o"
+      ],
+      "fill": "#feb2b2",
+      "placement": "mid-right"
+    },
+    {
+      "id": "E",
+      "title": "Biscoito de \u00e1gua e sal",
+      "lines": [
+        "Pacote com 5 por\u00e7\u00f5es de 40 g",
+        "166 mg de s\u00f3dio por por\u00e7\u00e3o"
+      ],
+      "fill": "#fdfd80",
+      "placement": "bottom-center"
+    }
+  ]
+}

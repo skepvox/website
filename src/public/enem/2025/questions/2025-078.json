@@ -1,0 +1,87 @@
+{
+  "id": "2025_q078",
+  "year": 2025,
+  "day": 1,
+  "number": 78,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Em decorrência da naturalização da inferioridade social\nda mulher e da concepção de justiça do Estado, baseada na\nigualdade abstratamente concebida, torna-se possível convencer\no Estado burguês a conceber e implementar políticas públicas\ncujo conteúdo se define pela discriminação positiva de mulheres,\nembora isso aparentemente seja paradoxal.",
+    "source": {
+      "author": "SAFFIOTI, H.",
+      "title": "; ALMEIDA, S. S. Violência de gênero, poder e impotência.",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "Rio de Janeiro: Revinter, 1995 (adaptado). No contexto atual, qual medida atende ao tipo de política pública abordada no texto?",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Em decorrência da naturalização da inferioridade social\nda mulher e da concepção de justiça do Estado, baseada na\nigualdade abstratamente concebida, torna-se possível convencer\no Estado burguês a conceber e implementar políticas públicas\ncujo conteúdo se define pela discriminação positiva de mulheres,\nembora isso aparentemente seja paradoxal.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "Rio de Janeiro: Revinter, 1995 (adaptado).",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "No contexto atual, qual medida atende ao tipo de política pública abordada no texto?",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "Ampliação do sufrágio universal."
+    },
+    {
+      "letter": "B",
+      "text": "Diminuição da jornada de trabalho."
+    },
+    {
+      "letter": "C",
+      "text": "Extinção do crime de feminicídio."
+    },
+    {
+      "letter": "D",
+      "text": "Redução da licença-maternidade."
+    },
+    {
+      "letter": "E",
+      "text": "Criação de delegacia especializada."
+    }
+  ],
+  "correct_answer": "E",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 78,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

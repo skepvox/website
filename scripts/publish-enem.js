@@ -28,7 +28,7 @@ function usage() {
     '  --skip-charts    Do not copy charts from the pipeline',
     '  --skip-answers   Do not copy answers.json',
     '  --skip-by-area   Do not copy by_area if present',
-    '  --skip-questions Do not write by_question JSON output',
+    '  --skip-questions Do not write questions JSON output',
     ''
   ].join('\n')
 }
@@ -91,6 +91,71 @@ function resolveOverrideKey(filename, year) {
   return null
 }
 
+function renameAssetFilename(filename, yearValue) {
+  let match = filename.match(/^q(\d{3})_chart_(\d{3})_meta\.json$/i)
+  if (match) {
+    return `${yearValue}-${match[1]}-chart-${match[2]}-meta.json`
+  }
+  match = filename.match(/^q(\d{3})_chart_(\d{3})\.(json|csv)$/i)
+  if (match) {
+    return `${yearValue}-${match[1]}-chart-${match[2]}.${match[3]}`
+  }
+  match = filename.match(/^q(\d{3})_img_(\d{3})\.(.+)$/i)
+  if (match) {
+    return `${yearValue}-${match[1]}-img-${match[2]}.${match[3]}`
+  }
+  match = filename.match(/^q(\d{3})_table_(\d{3})\.json$/i)
+  if (match) {
+    return `${yearValue}-${match[1]}-table-${match[2]}.json`
+  }
+  return filename
+}
+
+function renameAssetPath(value, yearValue) {
+  if (!value) {
+    return value
+  }
+  const posix = path.posix
+  const dir = posix.dirname(value)
+  const base = posix.basename(value)
+  const renamed = renameAssetFilename(base, yearValue)
+  if (renamed === base) {
+    return value
+  }
+  return dir === '.' ? renamed : posix.join(dir, renamed)
+}
+
+function renameChartId(value, yearValue) {
+  if (!value) {
+    return value
+  }
+  const match = String(value).match(/^q(\d{3})_chart_(\d{3})$/i)
+  if (!match) {
+    return value
+  }
+  return `${yearValue}-${match[1]}-chart-${match[2]}`
+}
+
+function renameChartType(value, yearValue) {
+  if (!value) {
+    return value
+  }
+  const match = String(value).match(/^q(\d{3})-(.+)$/i)
+  if (!match) {
+    return value
+  }
+  return `${yearValue}-${match[1]}-${match[2]}`
+}
+
+function renameChartAnchor(value, yearValue) {
+  if (!value) {
+    return value
+  }
+  return String(value).replace(/asset:q(\d{3})_chart_(\d{3})/gi, (_match, q, c) => {
+    return `asset:${yearValue}-${q}-chart-${c}`
+  })
+}
+
 async function readOverrides(year) {
   const overridesDir = path.join(OVERRIDES_ROOT, String(year))
   if (!(await pathExists(overridesDir))) {
@@ -129,7 +194,7 @@ async function copyFile(source, dest) {
   }
 }
 
-async function copyDir(source, dest) {
+async function copyDir(source, dest, renameFile) {
   if (!(await pathExists(source))) {
     return
   }
@@ -140,13 +205,123 @@ async function copyDir(source, dest) {
       continue
     }
     const sourcePath = path.join(source, entry.name)
-    const destPath = path.join(dest, entry.name)
+    const destName = entry.isFile() && renameFile ? renameFile(entry.name) : entry.name
+    const destPath = path.join(dest, destName)
     if (entry.isDirectory()) {
-      await copyDir(sourcePath, destPath)
+      await copyDir(sourcePath, destPath, renameFile)
     } else if (entry.isFile()) {
       await copyFile(sourcePath, destPath)
     }
   }
+}
+
+async function updateChartMetaIds(dirPath, yearValue) {
+  if (!(await pathExists(dirPath))) {
+    return
+  }
+  const entries = await fs.readdir(dirPath, { withFileTypes: true })
+  for (const entry of entries) {
+    const filePath = path.join(dirPath, entry.name)
+    if (entry.isDirectory()) {
+      await updateChartMetaIds(filePath)
+      continue
+    }
+    if (!entry.isFile() || !entry.name.endsWith('.json')) {
+      continue
+    }
+    if (!/-chart-\d{3}-meta\.json$/i.test(entry.name)) {
+      continue
+    }
+    const content = await fs.readFile(filePath, 'utf-8')
+    const data = JSON.parse(content)
+    const newId = entry.name.replace(/-meta\.json$/i, '')
+    const newType = renameChartType(data.type, yearValue)
+    if (data.id === newId && data.type === newType) {
+      continue
+    }
+    data.id = newId
+    data.type = newType
+    const output = JSON.stringify(data, null, 2) + '\n'
+    console.log(`${DRY_RUN ? 'DRY RUN write' : 'write'} ${path.relative(ROOT, filePath)}`)
+    if (!DRY_RUN) {
+      await fs.writeFile(filePath, output, 'utf-8')
+    }
+  }
+}
+
+async function updateTableIds(dirPath) {
+  if (!(await pathExists(dirPath))) {
+    return
+  }
+  const entries = await fs.readdir(dirPath, { withFileTypes: true })
+  for (const entry of entries) {
+    const filePath = path.join(dirPath, entry.name)
+    if (entry.isDirectory()) {
+      await updateTableIds(filePath)
+      continue
+    }
+    if (!entry.isFile() || !entry.name.endsWith('.json')) {
+      continue
+    }
+    if (!/-table-\d{3}\.json$/i.test(entry.name)) {
+      continue
+    }
+    const content = await fs.readFile(filePath, 'utf-8')
+    const data = JSON.parse(content)
+    const newId = entry.name.replace(/\.json$/i, '')
+    if (data.id === newId) {
+      continue
+    }
+    data.id = newId
+    const output = JSON.stringify(data, null, 2) + '\n'
+    console.log(`${DRY_RUN ? 'DRY RUN write' : 'write'} ${path.relative(ROOT, filePath)}`)
+    if (!DRY_RUN) {
+      await fs.writeFile(filePath, output, 'utf-8')
+    }
+  }
+}
+
+function updateQuestionAssets(question, yearValue) {
+  const updated = { ...question }
+  if (updated.assets?.images) {
+    updated.assets = { ...updated.assets }
+    updated.assets.images = updated.assets.images.map((asset) => ({
+      ...asset,
+      file: renameAssetPath(asset.file, yearValue)
+    }))
+  }
+  if (updated.assets?.charts) {
+    updated.assets = { ...updated.assets }
+    updated.assets.charts = updated.assets.charts.map((asset) => ({
+      ...asset,
+      id: renameChartId(asset.id, yearValue),
+      type: renameChartType(asset.type, yearValue),
+      data_file: renameAssetPath(asset.data_file, yearValue),
+      meta_file: renameAssetPath(asset.meta_file, yearValue)
+    }))
+  }
+  if (updated.options) {
+    updated.options = updated.options.map((option) => ({
+      ...option,
+      image: renameAssetPath(option.image, yearValue),
+      chart: option.chart
+        ? {
+            ...option.chart,
+            id: renameChartId(option.chart.id, yearValue),
+            type: renameChartType(option.chart.type, yearValue),
+            data_file: renameAssetPath(option.chart.data_file, yearValue),
+            meta_file: renameAssetPath(option.chart.meta_file, yearValue)
+          }
+        : option.chart
+    }))
+  }
+  if (Array.isArray(updated.text_flow)) {
+    updated.text_flow = updated.text_flow.map((entry) => ({
+      ...entry,
+      anchor: renameChartAnchor(entry.anchor, yearValue)
+    }))
+  }
+  return updated
 }
 
 async function publishYear(year) {
@@ -162,12 +337,12 @@ async function publishYear(year) {
 
   const overrides = await readOverrides(yearValue)
   const destYearDir = path.join(PUBLIC_ROOT, yearValue)
-  const byQuestionSource = path.join(sourceYearDir, 'by_question')
-  const byQuestionDest = path.join(destYearDir, 'by_question')
+  const questionsSource = path.join(sourceYearDir, 'by_question')
+  const questionsDest = path.join(destYearDir, 'questions')
 
   if (!SKIP_QUESTIONS) {
-    await ensureDir(byQuestionDest)
-    const entries = await fs.readdir(byQuestionSource, { withFileTypes: true })
+    await ensureDir(questionsDest)
+    const entries = await fs.readdir(questionsSource, { withFileTypes: true })
 
     for (const entry of entries) {
       if (!entry.isFile() || !entry.name.endsWith('.json')) {
@@ -177,21 +352,24 @@ async function publishYear(year) {
       if (!questionKey) {
         continue
       }
-      const sourcePath = path.join(byQuestionSource, entry.name)
+      const sourcePath = path.join(questionsSource, entry.name)
       const baseContent = await fs.readFile(sourcePath, 'utf-8')
       const baseJson = JSON.parse(baseContent)
       const override = overrides.get(questionKey)
       const merged = override ? mergeDeep(baseJson, override) : baseJson
+      const updated = updateQuestionAssets(merged, yearValue)
 
       if (override && override.id && override.id !== baseJson.id) {
         console.warn(`Override id mismatch for ${entry.name}: ${override.id} != ${baseJson.id}`)
       }
 
-      const outputPath = path.join(byQuestionDest, entry.name)
+      const questionNumber = String(updated.number ?? baseJson.number ?? '').padStart(3, '0')
+      const outputName = questionNumber.length === 3 ? `${yearValue}-${questionNumber}.json` : entry.name
+      const outputPath = path.join(questionsDest, outputName)
       await ensureDir(path.dirname(outputPath))
       console.log(`${DRY_RUN ? 'DRY RUN write' : 'write'} ${path.relative(ROOT, outputPath)}`)
       if (!DRY_RUN) {
-        await fs.writeFile(outputPath, JSON.stringify(merged, null, 2) + '\n', 'utf-8')
+        await fs.writeFile(outputPath, JSON.stringify(updated, null, 2) + '\n', 'utf-8')
       }
     }
   }
@@ -213,16 +391,23 @@ async function publishYear(year) {
   if (!SKIP_IMAGES) {
     const imagesSource = path.join(sourceYearDir, 'images')
     if (await pathExists(imagesSource)) {
-      await copyDir(imagesSource, path.join(destYearDir, 'images'))
+      await copyDir(imagesSource, path.join(destYearDir, 'images'), (name) =>
+        renameAssetFilename(name, yearValue)
+      )
     }
   }
 
   if (!SKIP_CHARTS) {
     const chartsSource = path.join(sourceYearDir, 'charts')
     if (await pathExists(chartsSource)) {
-      await copyDir(chartsSource, path.join(destYearDir, 'charts'))
+      await copyDir(chartsSource, path.join(destYearDir, 'charts'), (name) =>
+        renameAssetFilename(name, yearValue)
+      )
     }
   }
+
+  await updateChartMetaIds(path.join(destYearDir, 'charts'), yearValue)
+  await updateTableIds(path.join(destYearDir, 'tables'))
 }
 
 async function main() {

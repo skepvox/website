@@ -1,0 +1,82 @@
+{
+  "id": "2025_q035",
+  "year": 2025,
+  "day": 1,
+  "number": 35,
+  "area": {
+    "code": "linguagens",
+    "name": "Linguagens, Códigos e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "TEXTO I\nA Ilha do Ferro, situada a 18 km do município de Pão de\nAçúcar, não é uma ilha, como o nome indica. A história do\npovoado é semelhante à de inúmeros outros que encontramos\nàs margens do Rio São Francisco, entre Alagoas e Sergipe. O que\ntorna diferente o lugar é sua gente. Hoje, dezenas de artistas\npopulares povoam a Ilha do Ferro, trabalhando principalmente\ncom o entalhe em madeira. Onde pessoas comuns enxergariam\napenas troncos e galhos retorcidos, eles vislumbram bancos,\nbonecos, pássaros, cobras e bailarinas. “Às vezes, você passa\npor um pedaço de madeira uma vez e não vê nada, passa cinco\nvezes por ele e não vê nada”, conta um dos artistas, “mas, na\ndécima vez, você consegue enxergar alguma forma nesse pedaço\nde madeira e transformá-lo em arte”.",
+    "source": {
+      "url": "www.imaterial.art.br",
+      "access_date": "5 fev. 2025",
+      "note": "adaptado"
+    },
+    "language": "pt"
+  },
+  "statement": "TEXTO II FARIAS, Y. Bailarino entalhado em gravetos de madeira. Artesanato em madeira, 20 × 13 × 51 cm. Ilha do Ferro (AL). Disponível em: www.nidelins.com.br. Acesso em: 5 fev. 2025. A originalidade do trabalho dos artistas da Ilha do Ferro se dá pela",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "TEXTO I\nA Ilha do Ferro, situada a 18 km do município de Pão de\nAçúcar, não é uma ilha, como o nome indica. A história do\npovoado é semelhante à de inúmeros outros que encontramos\nàs margens do Rio São Francisco, entre Alagoas e Sergipe. O que\ntorna diferente o lugar é sua gente. Hoje, dezenas de artistas\npopulares povoam a Ilha do Ferro, trabalhando principalmente\ncom o entalhe em madeira. Onde pessoas comuns enxergariam\napenas troncos e galhos retorcidos, eles vislumbram bancos,\nbonecos, pássaros, cobras e bailarinas. “Às vezes, você passa\npor um pedaço de madeira uma vez e não vê nada, passa cinco\nvezes por ele e não vê nada”, conta um dos artistas, “mas, na\ndécima vez, você consegue enxergar alguma forma nesse pedaço\nde madeira e transformá-lo em arte”.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "TEXTO II FARIAS, Y. Bailarino entalhado em gravetos de madeira. Artesanato em madeira, 20 × 13 × 51 cm. Ilha do Ferro (AL). Disponível em: www.nidelins.com.br. Acesso em: 5 fev. 2025. A originalidade do trabalho dos artistas da Ilha do Ferro se dá pela",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "reutilização de materiais para redução do impacto ambiental."
+    },
+    {
+      "letter": "B",
+      "text": "ressignificação da matéria-prima atribuindo-lhe nova função."
+    },
+    {
+      "letter": "C",
+      "text": "reprodução em madeira de modelos artísticos canônicos."
+    },
+    {
+      "letter": "D",
+      "text": "representação de práticas corporais da comunidade."
+    },
+    {
+      "letter": "E",
+      "text": "replicação seriada para distribuição em larga escala."
+    }
+  ],
+  "correct_answer": "B",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 35,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

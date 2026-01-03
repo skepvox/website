@@ -1,0 +1,82 @@
+{
+  "id": "2025_q090",
+  "year": 2025,
+  "day": 1,
+  "number": 90,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Em toda a sua carreira política, Getúlio Vargas sempre contara com o seu talento pessoal de persuasão e poder de manipulação.\nAgora, porém, seus amigos começavam a perceber que ele parecia envelhecido e cansado. A principal figura da oposição, concordavam\neles, era o belicoso jornalista Carlos Lacerda. Se ao menos pudessem “removê-lo” do cenário político, talvez Vargas se salvasse\nda situação. Esses seguidores decidiram tomar o assunto em suas próprias mãos com o atentado da Rua Tonelero.",
+    "source": {
+      "author": "SKDIMORE, T.",
+      "title": "Brasil: de Getúlio a Castelo. Rio de Janeiro: Paz e Terra, 2003 (adaptado).",
+      "note": "adaptado"
+    },
+    "language": "pt"
+  },
+  "statement": "Nesse contexto, a ação dos aliados de Getúlio Vargas teve como consequência imediata o(a)",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Em toda a sua carreira política, Getúlio Vargas sempre contara com o seu talento pessoal de persuasão e poder de manipulação.\nAgora, porém, seus amigos começavam a perceber que ele parecia envelhecido e cansado. A principal figura da oposição, concordavam\neles, era o belicoso jornalista Carlos Lacerda. Se ao menos pudessem “removê-lo” do cenário político, talvez Vargas se salvasse\nda situação. Esses seguidores decidiram tomar o assunto em suas próprias mãos com o atentado da Rua Tonelero.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "Nesse contexto, a ação dos aliados de Getúlio Vargas teve como consequência imediata o(a)",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "intensificação dos ataques do grupo udenista."
+    },
+    {
+      "letter": "B",
+      "text": "intervenção dos sindicatos no conflito partidário."
+    },
+    {
+      "letter": "C",
+      "text": "mobilização da sociedade na defesa do governo."
+    },
+    {
+      "letter": "D",
+      "text": "abandono da censura aos meios de comunicação."
+    },
+    {
+      "letter": "E",
+      "text": "apoio dos parlamentares aos candidatos oposicionistas."
+    }
+  ],
+  "correct_answer": "A",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 90,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

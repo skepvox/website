@@ -1,0 +1,78 @@
+{
+  "id": "2025_q128",
+  "year": 2025,
+  "day": 2,
+  "number": 128,
+  "area": {
+    "code": "natureza",
+    "name": "Ciências da Natureza e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Segundo o princípio da independência dos movimentos, de\nGalileu, sempre que a velocidade resultante de um corpo puder\nser decomposta em duas ou mais componentes perpendiculares\nentre si, cada um desses movimentos poderá ser analisado\nseparadamente como se os outros não existissem. Esse princípio\né muito útil para a simplificação de alguns problemas reais, em\ntrês dimensões.\nConsidere um avião que, ao decolar, é instruído pela\ntorre a atingir, em 6 minutos, uma posição de 20 km a Leste,\n20 km a Norte e 1 km de altitude em relação ao ponto de\ndecolagem, conforme a figura (fora de escala). No entanto,\nno instante da decolagem, começa a soprar um vento cujo\nvetor velocidade tem componentes 30 km/h para Leste,\n20 km/h para Sul e 1 km/h de cima para baixo.\nDurante a ação do vento, a velocidade v que o piloto deve\nestabelecer em relação ao ar para que o avião chegue à posição",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "esperada no tempo indicado tem as componentes",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Segundo o princípio da independência dos movimentos, de\nGalileu, sempre que a velocidade resultante de um corpo puder\nser decomposta em duas ou mais componentes perpendiculares\nentre si, cada um desses movimentos poderá ser analisado\nseparadamente como se os outros não existissem. Esse princípio\né muito útil para a simplificação de alguns problemas reais, em\ntrês dimensões.\nConsidere um avião que, ao decolar, é instruído pela\ntorre a atingir, em 6 minutos, uma posição de 20 km a Leste,\n20 km a Norte e 1 km de altitude em relação ao ponto de\ndecolagem, conforme a figura (fora de escala). No entanto,\nno instante da decolagem, começa a soprar um vento cujo\nvetor velocidade tem componentes 30 km/h para Leste,\n20 km/h para Sul e 1 km/h de cima para baixo.\nDurante a ação do vento, a velocidade v que o piloto deve\nestabelecer em relação ao ar para que o avião chegue à posição",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "esperada no tempo indicado tem as componentes",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "230 km/h para Leste, 180 km/h para Sul e 9 km/h para baixo."
+    },
+    {
+      "letter": "B",
+      "text": "230 km/h para Leste, 180 km/h para Norte e 9 km/h para cima."
+    },
+    {
+      "letter": "C",
+      "text": "200 km/h para Oeste, 200 km/h para Norte e 10 km/h para cima."
+    },
+    {
+      "letter": "D",
+      "text": "170 km/h para Leste, 220 km/h para Norte e 11 km/h para cima."
+    },
+    {
+      "letter": "E",
+      "text": "170 km/h para Leste, 180 km/h para Norte e 11 km/h para cima."
+    }
+  ],
+  "correct_answer": "D",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 128,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

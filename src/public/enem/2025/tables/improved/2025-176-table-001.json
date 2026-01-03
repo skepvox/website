@@ -1,0 +1,29 @@
+{
+  "id": "2025-176-table-001",
+  "headers": [
+    "Autoescola",
+    "Valor de cada aula teórica (R$)",
+    "Valor de cada aula prática (R$)",
+    "Aluguel do veículo (R$)"
+  ],
+  "rows": [
+    [
+      "I",
+      "10",
+      "80",
+      "400"
+    ],
+    [
+      "II",
+      "30",
+      "50",
+      "200"
+    ],
+    [
+      "III",
+      "20",
+      "40",
+      "400"
+    ]
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "categories": ["11-12", "12-13", "13-14", "14-15", "15-16"],
+  "yTicks": [100, 125, 150, 175, 200, 225, 250, 275, 300],
+  "yLabel": "Produção (tonelada)",
+  "xLabel": "Safra",
+  "points": [
+    { "value": 200, "label": "200", "labelDx": -8, "labelDy": 14, "labelAnchor": "end" },
+    { "value": 220, "label": "220", "labelDy": -10 },
+    { "value": 250, "label": "250", "labelDy": -10 },
+    { "value": 250, "label": "250", "labelDy": -10 },
+    { "value": 200, "label": "200", "labelDx": 8, "labelDy": 14, "labelAnchor": "start" }
+  ]
+}

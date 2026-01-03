@@ -1,0 +1,87 @@
+{
+  "id": "2025_q052",
+  "year": 2025,
+  "day": 1,
+  "number": 52,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Em 1872, havia mais de 1 milhão de votantes, correspondentes\na 13% da população livre. Em 1886, votaram nas eleições\nparlamentares pouco mais de 100 mil eleitores, ou 0,8% da\npopulação total. Houve um corte de quase 90% do eleitorado.\nO dado é chocante, sobretudo se lembrarmos que a tendência\nde todos os países europeus da época era na direção de ampliar\nos direitos políticos. O mais grave é que esse retrocesso foi\nduradouro. A Proclamação da República não alterou o quadro.",
+    "source": {
+      "author": "CARVALHO, J. M.",
+      "title": "Cidadania no Brasil. Rio de Janeiro:",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "Civilização Brasileira, 2002 (adaptado). De acordo com o texto, a participação no processo eleitoral brasileiro após a Reforma de 1881 sofreu uma variação que se explica pela",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Em 1872, havia mais de 1 milhão de votantes, correspondentes\na 13% da população livre. Em 1886, votaram nas eleições\nparlamentares pouco mais de 100 mil eleitores, ou 0,8% da\npopulação total. Houve um corte de quase 90% do eleitorado.\nO dado é chocante, sobretudo se lembrarmos que a tendência\nde todos os países europeus da época era na direção de ampliar\nos direitos políticos. O mais grave é que esse retrocesso foi\nduradouro. A Proclamação da República não alterou o quadro.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "Civilização Brasileira, 2002 (adaptado).",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "De acordo com o texto, a participação no processo eleitoral brasileiro após a Reforma de 1881 sofreu uma variação que se explica pela",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "restrição de gênero."
+    },
+    {
+      "letter": "B",
+      "text": "exclusão de imigrantes."
+    },
+    {
+      "letter": "C",
+      "text": "comprovação de domicílio."
+    },
+    {
+      "letter": "D",
+      "text": "exigência da alfabetização."
+    },
+    {
+      "letter": "E",
+      "text": "obrigatoriedade do sufrágio."
+    }
+  ],
+  "correct_answer": "D",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 52,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

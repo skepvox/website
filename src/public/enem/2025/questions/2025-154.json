@@ -1,0 +1,95 @@
+{
+  "id": "2025_q154",
+  "year": 2025,
+  "day": 2,
+  "number": 154,
+  "area": {
+    "code": "matematica",
+    "name": "Matemática e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "O controle remoto de um carrinho de brinquedo vem equipado com uma tela que ajusta automaticamente a escala empregada na exibição de cada deslocamento. A tela apresenta a imagem do deslocamento, a escala utilizada na geração dessa imagem e o comprimento desse deslocamento, em centímetro, em conformidade com a escala empregada. As figuras representam a tela do controle remoto exibindo os dados de cinco deslocamentos realizados por esse carrinho.",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "O controle remoto de um carrinho de brinquedo vem equipado com uma tela que ajusta automaticamente a escala empregada na exibição de cada deslocamento. A tela apresenta a imagem do deslocamento, a escala utilizada na geração dessa imagem e o comprimento desse deslocamento, em centímetro, em conformidade com a escala empregada. As figuras representam a tela do controle remoto exibindo os dados de cinco deslocamentos realizados por esse carrinho.",
+      "anchor": "before:asset:2025-154-chart-001",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "A opção que indica o deslocamento de maior comprimento realizado pelo carrinho de brinquedo é",
+      "anchor": "after:asset:2025-154-chart-001",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "A opção que indica o deslocamento de maior comprimento realizado pelo carrinho de brinquedo é",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "I.",
+      "latex": "\\text{I.}"
+    },
+    {
+      "letter": "B",
+      "text": "II.",
+      "latex": "\\text{II.}"
+    },
+    {
+      "letter": "C",
+      "text": "III.",
+      "latex": "\\text{III.}"
+    },
+    {
+      "letter": "D",
+      "text": "IV.",
+      "latex": "\\text{IV.}"
+    },
+    {
+      "letter": "E",
+      "text": "V.",
+      "latex": "\\text{V.}"
+    }
+  ],
+  "correct_answer": "C",
+  "assets": {
+    "images": [],
+    "charts": [
+      {
+        "id": "2025-154-chart-001",
+        "data_file": "charts/2025-154-chart-001.json",
+        "meta_file": "charts/2025-154-chart-001-meta.json",
+        "position": "context"
+      }
+    ],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 154,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": true,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt updated; improved chart created"
+  }
+}

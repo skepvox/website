@@ -25,5 +25,1807 @@
       "source": "/:path*",
       "destination": "/:path*.html"
     }
+  ],
+  "redirects": [
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-136",
+      "destination": "/enem/2025/matematica/questao/2025-147",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-137",
+      "destination": "/enem/2025/matematica/questao/2025-148",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-138",
+      "destination": "/enem/2025/matematica/questao/2025-149",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-139",
+      "destination": "/enem/2025/matematica/questao/2025-150",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-140",
+      "destination": "/enem/2025/matematica/questao/2025-143",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-141",
+      "destination": "/enem/2025/matematica/questao/2025-144",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-142",
+      "destination": "/enem/2025/matematica/questao/2025-145",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-143",
+      "destination": "/enem/2025/matematica/questao/2025-146",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-144",
+      "destination": "/enem/2025/matematica/questao/2025-140",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-145",
+      "destination": "/enem/2025/matematica/questao/2025-141",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-146",
+      "destination": "/enem/2025/matematica/questao/2025-142",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-147",
+      "destination": "/enem/2025/matematica/questao/2025-151",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-148",
+      "destination": "/enem/2025/matematica/questao/2025-152",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-149",
+      "destination": "/enem/2025/matematica/questao/2025-153",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-150",
+      "destination": "/enem/2025/matematica/questao/2025-154",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-151",
+      "destination": "/enem/2025/matematica/questao/2025-136",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-152",
+      "destination": "/enem/2025/matematica/questao/2025-137",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-153",
+      "destination": "/enem/2025/matematica/questao/2025-138",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-154",
+      "destination": "/enem/2025/matematica/questao/2025-139",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-155",
+      "destination": "/enem/2025/matematica/questao/2025-162",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-156",
+      "destination": "/enem/2025/matematica/questao/2025-163",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-157",
+      "destination": "/enem/2025/matematica/questao/2025-155",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-158",
+      "destination": "/enem/2025/matematica/questao/2025-156",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-159",
+      "destination": "/enem/2025/matematica/questao/2025-164",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-160",
+      "destination": "/enem/2025/matematica/questao/2025-165",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-161",
+      "destination": "/enem/2025/matematica/questao/2025-166",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-162",
+      "destination": "/enem/2025/matematica/questao/2025-157",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-163",
+      "destination": "/enem/2025/matematica/questao/2025-158",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-164",
+      "destination": "/enem/2025/matematica/questao/2025-159",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-165",
+      "destination": "/enem/2025/matematica/questao/2025-160",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-166",
+      "destination": "/enem/2025/matematica/questao/2025-161",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-167",
+      "destination": "/enem/2025/matematica/questao/2025-180",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-168",
+      "destination": "/enem/2025/matematica/questao/2025-171",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-169",
+      "destination": "/enem/2025/matematica/questao/2025-172",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-170",
+      "destination": "/enem/2025/matematica/questao/2025-173",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-171",
+      "destination": "/enem/2025/matematica/questao/2025-174",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-172",
+      "destination": "/enem/2025/matematica/questao/2025-175",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-173",
+      "destination": "/enem/2025/matematica/questao/2025-176",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-174",
+      "destination": "/enem/2025/matematica/questao/2025-177",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-175",
+      "destination": "/enem/2025/matematica/questao/2025-178",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-176",
+      "destination": "/enem/2025/matematica/questao/2025-179",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-177",
+      "destination": "/enem/2025/matematica/questao/2025-167",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-178",
+      "destination": "/enem/2025/matematica/questao/2025-168",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-179",
+      "destination": "/enem/2025/matematica/questao/2025-169",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-5/questao-180",
+      "destination": "/enem/2025/matematica/questao/2025-170",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-136",
+      "destination": "/enem/2025/matematica/questao/2025-143",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-137",
+      "destination": "/enem/2025/matematica/questao/2025-144",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-138",
+      "destination": "/enem/2025/matematica/questao/2025-145",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-139",
+      "destination": "/enem/2025/matematica/questao/2025-146",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-140",
+      "destination": "/enem/2025/matematica/questao/2025-141",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-141",
+      "destination": "/enem/2025/matematica/questao/2025-142",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-142",
+      "destination": "/enem/2025/matematica/questao/2025-140",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-143",
+      "destination": "/enem/2025/matematica/questao/2025-147",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-144",
+      "destination": "/enem/2025/matematica/questao/2025-148",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-145",
+      "destination": "/enem/2025/matematica/questao/2025-149",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-146",
+      "destination": "/enem/2025/matematica/questao/2025-150",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-147",
+      "destination": "/enem/2025/matematica/questao/2025-136",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-148",
+      "destination": "/enem/2025/matematica/questao/2025-137",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-149",
+      "destination": "/enem/2025/matematica/questao/2025-138",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-150",
+      "destination": "/enem/2025/matematica/questao/2025-139",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-151",
+      "destination": "/enem/2025/matematica/questao/2025-153",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-152",
+      "destination": "/enem/2025/matematica/questao/2025-154",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-153",
+      "destination": "/enem/2025/matematica/questao/2025-151",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-154",
+      "destination": "/enem/2025/matematica/questao/2025-152",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-155",
+      "destination": "/enem/2025/matematica/questao/2025-164",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-156",
+      "destination": "/enem/2025/matematica/questao/2025-165",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-157",
+      "destination": "/enem/2025/matematica/questao/2025-166",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-158",
+      "destination": "/enem/2025/matematica/questao/2025-155",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-159",
+      "destination": "/enem/2025/matematica/questao/2025-156",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-160",
+      "destination": "/enem/2025/matematica/questao/2025-157",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-161",
+      "destination": "/enem/2025/matematica/questao/2025-158",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-162",
+      "destination": "/enem/2025/matematica/questao/2025-159",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-163",
+      "destination": "/enem/2025/matematica/questao/2025-160",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-164",
+      "destination": "/enem/2025/matematica/questao/2025-161",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-165",
+      "destination": "/enem/2025/matematica/questao/2025-162",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-166",
+      "destination": "/enem/2025/matematica/questao/2025-163",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-167",
+      "destination": "/enem/2025/matematica/questao/2025-177",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-168",
+      "destination": "/enem/2025/matematica/questao/2025-178",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-169",
+      "destination": "/enem/2025/matematica/questao/2025-179",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-170",
+      "destination": "/enem/2025/matematica/questao/2025-180",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-171",
+      "destination": "/enem/2025/matematica/questao/2025-167",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-172",
+      "destination": "/enem/2025/matematica/questao/2025-168",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-173",
+      "destination": "/enem/2025/matematica/questao/2025-169",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-174",
+      "destination": "/enem/2025/matematica/questao/2025-170",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-175",
+      "destination": "/enem/2025/matematica/questao/2025-171",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-176",
+      "destination": "/enem/2025/matematica/questao/2025-172",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-177",
+      "destination": "/enem/2025/matematica/questao/2025-173",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-178",
+      "destination": "/enem/2025/matematica/questao/2025-174",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-179",
+      "destination": "/enem/2025/matematica/questao/2025-175",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-6/questao-180",
+      "destination": "/enem/2025/matematica/questao/2025-176",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-136",
+      "destination": "/enem/2025/matematica/questao/2025-142",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-137",
+      "destination": "/enem/2025/matematica/questao/2025-141",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-138",
+      "destination": "/enem/2025/matematica/questao/2025-140",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-139",
+      "destination": "/enem/2025/matematica/questao/2025-147",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-140",
+      "destination": "/enem/2025/matematica/questao/2025-148",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-141",
+      "destination": "/enem/2025/matematica/questao/2025-149",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-142",
+      "destination": "/enem/2025/matematica/questao/2025-150",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-143",
+      "destination": "/enem/2025/matematica/questao/2025-143",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-144",
+      "destination": "/enem/2025/matematica/questao/2025-144",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-145",
+      "destination": "/enem/2025/matematica/questao/2025-145",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-146",
+      "destination": "/enem/2025/matematica/questao/2025-146",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-147",
+      "destination": "/enem/2025/matematica/questao/2025-153",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-148",
+      "destination": "/enem/2025/matematica/questao/2025-154",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-149",
+      "destination": "/enem/2025/matematica/questao/2025-136",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-150",
+      "destination": "/enem/2025/matematica/questao/2025-137",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-151",
+      "destination": "/enem/2025/matematica/questao/2025-138",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-152",
+      "destination": "/enem/2025/matematica/questao/2025-139",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-153",
+      "destination": "/enem/2025/matematica/questao/2025-151",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-154",
+      "destination": "/enem/2025/matematica/questao/2025-152",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-155",
+      "destination": "/enem/2025/matematica/questao/2025-157",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-156",
+      "destination": "/enem/2025/matematica/questao/2025-158",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-157",
+      "destination": "/enem/2025/matematica/questao/2025-159",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-158",
+      "destination": "/enem/2025/matematica/questao/2025-160",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-159",
+      "destination": "/enem/2025/matematica/questao/2025-161",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-160",
+      "destination": "/enem/2025/matematica/questao/2025-164",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-161",
+      "destination": "/enem/2025/matematica/questao/2025-165",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-162",
+      "destination": "/enem/2025/matematica/questao/2025-166",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-163",
+      "destination": "/enem/2025/matematica/questao/2025-162",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-164",
+      "destination": "/enem/2025/matematica/questao/2025-163",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-165",
+      "destination": "/enem/2025/matematica/questao/2025-155",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-166",
+      "destination": "/enem/2025/matematica/questao/2025-156",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-167",
+      "destination": "/enem/2025/matematica/questao/2025-175",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-168",
+      "destination": "/enem/2025/matematica/questao/2025-176",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-169",
+      "destination": "/enem/2025/matematica/questao/2025-180",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-170",
+      "destination": "/enem/2025/matematica/questao/2025-177",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-171",
+      "destination": "/enem/2025/matematica/questao/2025-178",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-172",
+      "destination": "/enem/2025/matematica/questao/2025-179",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-173",
+      "destination": "/enem/2025/matematica/questao/2025-167",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-174",
+      "destination": "/enem/2025/matematica/questao/2025-168",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-175",
+      "destination": "/enem/2025/matematica/questao/2025-169",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-176",
+      "destination": "/enem/2025/matematica/questao/2025-170",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-177",
+      "destination": "/enem/2025/matematica/questao/2025-171",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-178",
+      "destination": "/enem/2025/matematica/questao/2025-172",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-179",
+      "destination": "/enem/2025/matematica/questao/2025-173",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-7/questao-180",
+      "destination": "/enem/2025/matematica/questao/2025-174",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-136",
+      "destination": "/enem/2025/matematica/questao/2025-136",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-137",
+      "destination": "/enem/2025/matematica/questao/2025-137",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-138",
+      "destination": "/enem/2025/matematica/questao/2025-138",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-139",
+      "destination": "/enem/2025/matematica/questao/2025-139",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-140",
+      "destination": "/enem/2025/matematica/questao/2025-140",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-141",
+      "destination": "/enem/2025/matematica/questao/2025-141",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-142",
+      "destination": "/enem/2025/matematica/questao/2025-142",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-143",
+      "destination": "/enem/2025/matematica/questao/2025-143",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-144",
+      "destination": "/enem/2025/matematica/questao/2025-144",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-145",
+      "destination": "/enem/2025/matematica/questao/2025-145",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-146",
+      "destination": "/enem/2025/matematica/questao/2025-146",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-147",
+      "destination": "/enem/2025/matematica/questao/2025-147",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-148",
+      "destination": "/enem/2025/matematica/questao/2025-148",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-149",
+      "destination": "/enem/2025/matematica/questao/2025-149",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-150",
+      "destination": "/enem/2025/matematica/questao/2025-150",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-151",
+      "destination": "/enem/2025/matematica/questao/2025-151",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-152",
+      "destination": "/enem/2025/matematica/questao/2025-152",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-153",
+      "destination": "/enem/2025/matematica/questao/2025-153",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-154",
+      "destination": "/enem/2025/matematica/questao/2025-154",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-155",
+      "destination": "/enem/2025/matematica/questao/2025-155",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-156",
+      "destination": "/enem/2025/matematica/questao/2025-156",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-157",
+      "destination": "/enem/2025/matematica/questao/2025-157",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-158",
+      "destination": "/enem/2025/matematica/questao/2025-158",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-159",
+      "destination": "/enem/2025/matematica/questao/2025-159",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-160",
+      "destination": "/enem/2025/matematica/questao/2025-160",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-161",
+      "destination": "/enem/2025/matematica/questao/2025-161",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-162",
+      "destination": "/enem/2025/matematica/questao/2025-162",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-163",
+      "destination": "/enem/2025/matematica/questao/2025-163",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-164",
+      "destination": "/enem/2025/matematica/questao/2025-164",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-165",
+      "destination": "/enem/2025/matematica/questao/2025-165",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-166",
+      "destination": "/enem/2025/matematica/questao/2025-166",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-167",
+      "destination": "/enem/2025/matematica/questao/2025-167",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-168",
+      "destination": "/enem/2025/matematica/questao/2025-168",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-169",
+      "destination": "/enem/2025/matematica/questao/2025-169",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-170",
+      "destination": "/enem/2025/matematica/questao/2025-170",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-171",
+      "destination": "/enem/2025/matematica/questao/2025-171",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-172",
+      "destination": "/enem/2025/matematica/questao/2025-172",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-173",
+      "destination": "/enem/2025/matematica/questao/2025-173",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-174",
+      "destination": "/enem/2025/matematica/questao/2025-174",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-175",
+      "destination": "/enem/2025/matematica/questao/2025-175",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-176",
+      "destination": "/enem/2025/matematica/questao/2025-176",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-177",
+      "destination": "/enem/2025/matematica/questao/2025-177",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-178",
+      "destination": "/enem/2025/matematica/questao/2025-178",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-179",
+      "destination": "/enem/2025/matematica/questao/2025-179",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-8/questao-180",
+      "destination": "/enem/2025/matematica/questao/2025-180",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-136",
+      "destination": "/enem/2025/matematica/questao/2025-147",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-137",
+      "destination": "/enem/2025/matematica/questao/2025-148",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-138",
+      "destination": "/enem/2025/matematica/questao/2025-149",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-139",
+      "destination": "/enem/2025/matematica/questao/2025-150",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-140",
+      "destination": "/enem/2025/matematica/questao/2025-143",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-141",
+      "destination": "/enem/2025/matematica/questao/2025-144",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-142",
+      "destination": "/enem/2025/matematica/questao/2025-145",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-143",
+      "destination": "/enem/2025/matematica/questao/2025-146",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-144",
+      "destination": "/enem/2025/matematica/questao/2025-140",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-145",
+      "destination": "/enem/2025/matematica/questao/2025-141",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-146",
+      "destination": "/enem/2025/matematica/questao/2025-142",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-147",
+      "destination": "/enem/2025/matematica/questao/2025-151",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-148",
+      "destination": "/enem/2025/matematica/questao/2025-152",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-149",
+      "destination": "/enem/2025/matematica/questao/2025-153",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-150",
+      "destination": "/enem/2025/matematica/questao/2025-154",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-151",
+      "destination": "/enem/2025/matematica/questao/2025-136",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-152",
+      "destination": "/enem/2025/matematica/questao/2025-137",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-153",
+      "destination": "/enem/2025/matematica/questao/2025-138",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-154",
+      "destination": "/enem/2025/matematica/questao/2025-139",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-155",
+      "destination": "/enem/2025/matematica/questao/2025-162",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-156",
+      "destination": "/enem/2025/matematica/questao/2025-163",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-157",
+      "destination": "/enem/2025/matematica/questao/2025-155",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-158",
+      "destination": "/enem/2025/matematica/questao/2025-156",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-159",
+      "destination": "/enem/2025/matematica/questao/2025-164",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-160",
+      "destination": "/enem/2025/matematica/questao/2025-165",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-161",
+      "destination": "/enem/2025/matematica/questao/2025-166",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-162",
+      "destination": "/enem/2025/matematica/questao/2025-157",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-163",
+      "destination": "/enem/2025/matematica/questao/2025-158",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-164",
+      "destination": "/enem/2025/matematica/questao/2025-159",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-165",
+      "destination": "/enem/2025/matematica/questao/2025-160",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-166",
+      "destination": "/enem/2025/matematica/questao/2025-161",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-167",
+      "destination": "/enem/2025/matematica/questao/2025-180",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-168",
+      "destination": "/enem/2025/matematica/questao/2025-171",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-169",
+      "destination": "/enem/2025/matematica/questao/2025-172",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-170",
+      "destination": "/enem/2025/matematica/questao/2025-173",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-171",
+      "destination": "/enem/2025/matematica/questao/2025-174",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-172",
+      "destination": "/enem/2025/matematica/questao/2025-175",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-173",
+      "destination": "/enem/2025/matematica/questao/2025-176",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-174",
+      "destination": "/enem/2025/matematica/questao/2025-177",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-175",
+      "destination": "/enem/2025/matematica/questao/2025-178",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-176",
+      "destination": "/enem/2025/matematica/questao/2025-179",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-177",
+      "destination": "/enem/2025/matematica/questao/2025-167",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-178",
+      "destination": "/enem/2025/matematica/questao/2025-168",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-179",
+      "destination": "/enem/2025/matematica/questao/2025-169",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-amarelo/questao-180",
+      "destination": "/enem/2025/matematica/questao/2025-170",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-136",
+      "destination": "/enem/2025/matematica/questao/2025-142",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-137",
+      "destination": "/enem/2025/matematica/questao/2025-141",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-138",
+      "destination": "/enem/2025/matematica/questao/2025-140",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-139",
+      "destination": "/enem/2025/matematica/questao/2025-147",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-140",
+      "destination": "/enem/2025/matematica/questao/2025-148",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-141",
+      "destination": "/enem/2025/matematica/questao/2025-149",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-142",
+      "destination": "/enem/2025/matematica/questao/2025-150",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-143",
+      "destination": "/enem/2025/matematica/questao/2025-143",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-144",
+      "destination": "/enem/2025/matematica/questao/2025-144",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-145",
+      "destination": "/enem/2025/matematica/questao/2025-145",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-146",
+      "destination": "/enem/2025/matematica/questao/2025-146",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-147",
+      "destination": "/enem/2025/matematica/questao/2025-153",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-148",
+      "destination": "/enem/2025/matematica/questao/2025-154",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-149",
+      "destination": "/enem/2025/matematica/questao/2025-136",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-150",
+      "destination": "/enem/2025/matematica/questao/2025-137",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-151",
+      "destination": "/enem/2025/matematica/questao/2025-138",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-152",
+      "destination": "/enem/2025/matematica/questao/2025-139",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-153",
+      "destination": "/enem/2025/matematica/questao/2025-151",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-154",
+      "destination": "/enem/2025/matematica/questao/2025-152",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-155",
+      "destination": "/enem/2025/matematica/questao/2025-157",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-156",
+      "destination": "/enem/2025/matematica/questao/2025-158",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-157",
+      "destination": "/enem/2025/matematica/questao/2025-159",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-158",
+      "destination": "/enem/2025/matematica/questao/2025-160",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-159",
+      "destination": "/enem/2025/matematica/questao/2025-161",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-160",
+      "destination": "/enem/2025/matematica/questao/2025-164",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-161",
+      "destination": "/enem/2025/matematica/questao/2025-165",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-162",
+      "destination": "/enem/2025/matematica/questao/2025-166",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-163",
+      "destination": "/enem/2025/matematica/questao/2025-162",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-164",
+      "destination": "/enem/2025/matematica/questao/2025-163",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-165",
+      "destination": "/enem/2025/matematica/questao/2025-155",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-166",
+      "destination": "/enem/2025/matematica/questao/2025-156",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-167",
+      "destination": "/enem/2025/matematica/questao/2025-175",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-168",
+      "destination": "/enem/2025/matematica/questao/2025-176",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-169",
+      "destination": "/enem/2025/matematica/questao/2025-180",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-170",
+      "destination": "/enem/2025/matematica/questao/2025-177",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-171",
+      "destination": "/enem/2025/matematica/questao/2025-178",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-172",
+      "destination": "/enem/2025/matematica/questao/2025-179",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-173",
+      "destination": "/enem/2025/matematica/questao/2025-167",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-174",
+      "destination": "/enem/2025/matematica/questao/2025-168",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-175",
+      "destination": "/enem/2025/matematica/questao/2025-169",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-176",
+      "destination": "/enem/2025/matematica/questao/2025-170",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-177",
+      "destination": "/enem/2025/matematica/questao/2025-171",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-178",
+      "destination": "/enem/2025/matematica/questao/2025-172",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-179",
+      "destination": "/enem/2025/matematica/questao/2025-173",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-azul/questao-180",
+      "destination": "/enem/2025/matematica/questao/2025-174",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-136",
+      "destination": "/enem/2025/matematica/questao/2025-143",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-137",
+      "destination": "/enem/2025/matematica/questao/2025-144",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-138",
+      "destination": "/enem/2025/matematica/questao/2025-145",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-139",
+      "destination": "/enem/2025/matematica/questao/2025-146",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-140",
+      "destination": "/enem/2025/matematica/questao/2025-141",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-141",
+      "destination": "/enem/2025/matematica/questao/2025-142",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-142",
+      "destination": "/enem/2025/matematica/questao/2025-140",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-143",
+      "destination": "/enem/2025/matematica/questao/2025-147",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-144",
+      "destination": "/enem/2025/matematica/questao/2025-148",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-145",
+      "destination": "/enem/2025/matematica/questao/2025-149",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-146",
+      "destination": "/enem/2025/matematica/questao/2025-150",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-147",
+      "destination": "/enem/2025/matematica/questao/2025-136",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-148",
+      "destination": "/enem/2025/matematica/questao/2025-137",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-149",
+      "destination": "/enem/2025/matematica/questao/2025-138",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-150",
+      "destination": "/enem/2025/matematica/questao/2025-139",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-151",
+      "destination": "/enem/2025/matematica/questao/2025-153",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-152",
+      "destination": "/enem/2025/matematica/questao/2025-154",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-153",
+      "destination": "/enem/2025/matematica/questao/2025-151",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-154",
+      "destination": "/enem/2025/matematica/questao/2025-152",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-155",
+      "destination": "/enem/2025/matematica/questao/2025-164",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-156",
+      "destination": "/enem/2025/matematica/questao/2025-165",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-157",
+      "destination": "/enem/2025/matematica/questao/2025-166",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-158",
+      "destination": "/enem/2025/matematica/questao/2025-155",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-159",
+      "destination": "/enem/2025/matematica/questao/2025-156",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-160",
+      "destination": "/enem/2025/matematica/questao/2025-157",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-161",
+      "destination": "/enem/2025/matematica/questao/2025-158",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-162",
+      "destination": "/enem/2025/matematica/questao/2025-159",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-163",
+      "destination": "/enem/2025/matematica/questao/2025-160",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-164",
+      "destination": "/enem/2025/matematica/questao/2025-161",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-165",
+      "destination": "/enem/2025/matematica/questao/2025-162",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-166",
+      "destination": "/enem/2025/matematica/questao/2025-163",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-167",
+      "destination": "/enem/2025/matematica/questao/2025-177",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-168",
+      "destination": "/enem/2025/matematica/questao/2025-178",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-169",
+      "destination": "/enem/2025/matematica/questao/2025-179",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-170",
+      "destination": "/enem/2025/matematica/questao/2025-180",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-171",
+      "destination": "/enem/2025/matematica/questao/2025-167",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-172",
+      "destination": "/enem/2025/matematica/questao/2025-168",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-173",
+      "destination": "/enem/2025/matematica/questao/2025-169",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-174",
+      "destination": "/enem/2025/matematica/questao/2025-170",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-175",
+      "destination": "/enem/2025/matematica/questao/2025-171",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-176",
+      "destination": "/enem/2025/matematica/questao/2025-172",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-177",
+      "destination": "/enem/2025/matematica/questao/2025-173",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-178",
+      "destination": "/enem/2025/matematica/questao/2025-174",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-179",
+      "destination": "/enem/2025/matematica/questao/2025-175",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-cinza/questao-180",
+      "destination": "/enem/2025/matematica/questao/2025-176",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-136",
+      "destination": "/enem/2025/matematica/questao/2025-136",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-137",
+      "destination": "/enem/2025/matematica/questao/2025-137",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-138",
+      "destination": "/enem/2025/matematica/questao/2025-138",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-139",
+      "destination": "/enem/2025/matematica/questao/2025-139",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-140",
+      "destination": "/enem/2025/matematica/questao/2025-140",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-141",
+      "destination": "/enem/2025/matematica/questao/2025-141",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-142",
+      "destination": "/enem/2025/matematica/questao/2025-142",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-143",
+      "destination": "/enem/2025/matematica/questao/2025-143",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-144",
+      "destination": "/enem/2025/matematica/questao/2025-144",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-145",
+      "destination": "/enem/2025/matematica/questao/2025-145",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-146",
+      "destination": "/enem/2025/matematica/questao/2025-146",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-147",
+      "destination": "/enem/2025/matematica/questao/2025-147",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-148",
+      "destination": "/enem/2025/matematica/questao/2025-148",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-149",
+      "destination": "/enem/2025/matematica/questao/2025-149",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-150",
+      "destination": "/enem/2025/matematica/questao/2025-150",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-151",
+      "destination": "/enem/2025/matematica/questao/2025-151",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-152",
+      "destination": "/enem/2025/matematica/questao/2025-152",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-153",
+      "destination": "/enem/2025/matematica/questao/2025-153",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-154",
+      "destination": "/enem/2025/matematica/questao/2025-154",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-155",
+      "destination": "/enem/2025/matematica/questao/2025-155",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-156",
+      "destination": "/enem/2025/matematica/questao/2025-156",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-157",
+      "destination": "/enem/2025/matematica/questao/2025-157",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-158",
+      "destination": "/enem/2025/matematica/questao/2025-158",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-159",
+      "destination": "/enem/2025/matematica/questao/2025-159",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-160",
+      "destination": "/enem/2025/matematica/questao/2025-160",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-161",
+      "destination": "/enem/2025/matematica/questao/2025-161",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-162",
+      "destination": "/enem/2025/matematica/questao/2025-162",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-163",
+      "destination": "/enem/2025/matematica/questao/2025-163",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-164",
+      "destination": "/enem/2025/matematica/questao/2025-164",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-165",
+      "destination": "/enem/2025/matematica/questao/2025-165",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-166",
+      "destination": "/enem/2025/matematica/questao/2025-166",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-167",
+      "destination": "/enem/2025/matematica/questao/2025-167",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-168",
+      "destination": "/enem/2025/matematica/questao/2025-168",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-169",
+      "destination": "/enem/2025/matematica/questao/2025-169",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-170",
+      "destination": "/enem/2025/matematica/questao/2025-170",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-171",
+      "destination": "/enem/2025/matematica/questao/2025-171",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-172",
+      "destination": "/enem/2025/matematica/questao/2025-172",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-173",
+      "destination": "/enem/2025/matematica/questao/2025-173",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-174",
+      "destination": "/enem/2025/matematica/questao/2025-174",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-175",
+      "destination": "/enem/2025/matematica/questao/2025-175",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-176",
+      "destination": "/enem/2025/matematica/questao/2025-176",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-177",
+      "destination": "/enem/2025/matematica/questao/2025-177",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-178",
+      "destination": "/enem/2025/matematica/questao/2025-178",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-179",
+      "destination": "/enem/2025/matematica/questao/2025-179",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/matematica/caderno-verde/questao-180",
+      "destination": "/enem/2025/matematica/questao/2025-180",
+      "permanent": true
+    }
   ]
 }

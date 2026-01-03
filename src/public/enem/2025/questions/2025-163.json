@@ -1,0 +1,103 @@
+{
+  "id": "2025_q163",
+  "year": 2025,
+  "day": 2,
+  "number": 163,
+  "area": {
+    "code": "matematica",
+    "name": "Matemática e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "O dono de uma embarcação deve partir do ponto \\(P\\) e chegar ao ponto \\(R\\) por meio de dois deslocamentos lineares e navegando a uma velocidade constante. Essa viagem será feita durante a noite, e como ele dispõe somente de uma bússola e de um relógio, planejou sua rota da seguinte forma:\n\n1º – partir do ponto \\(P\\) na direção 110 e navegar por 4 horas, alcançando um ponto \\(Q\\);\n\n2º – partir do ponto \\(Q\\) na direção 90 e navegar por 2 horas, alcançando o ponto de destino \\(R\\).\n\nNo entanto, ao direcionar o barco para o primeiro deslocamento, o fez na direção 340, em vez de 110. Com isso, realizou os seguintes deslocamentos:\n\n1º – partiu do ponto \\(P\\) na direção 340 e navegou por 4 horas, alcançando um ponto \\(S\\);\n\n2º – partiu do ponto \\(S\\) na direção 90 e navegou por 2 horas, alcançando o ponto \\(T\\).\n\nA figura apresenta a bússola, a rota planejada e a rota executada.",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "O dono da embarcação só percebeu o equívoco ao chegar ao ponto \\(T\\). Com isso, agora ele precisa definir a direção e o tempo de navegação que lhe permita, partindo do ponto \\(T\\), chegar ao ponto de destino \\(R\\) por meio de uma rota retilínea.\n\nConsidere 0,64 como aproximação para cos 50°.",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "O dono de uma embarcação deve partir do ponto \\(P\\) e chegar ao ponto \\(R\\) por meio de dois deslocamentos lineares e navegando a uma velocidade constante. Essa viagem será feita durante a noite, e como ele dispõe somente de uma bússola e de um relógio, planejou sua rota da seguinte forma:\n\n1º – partir do ponto \\(P\\) na direção 110 e navegar por 4 horas, alcançando um ponto \\(Q\\);\n\n2º – partir do ponto \\(Q\\) na direção 90 e navegar por 2 horas, alcançando o ponto de destino \\(R\\).\n\nNo entanto, ao direcionar o barco para o primeiro deslocamento, o fez na direção 340, em vez de 110. Com isso, realizou os seguintes deslocamentos:\n\n1º – partiu do ponto \\(P\\) na direção 340 e navegou por 4 horas, alcançando um ponto \\(S\\);\n\n2º – partiu do ponto \\(S\\) na direção 90 e navegou por 2 horas, alcançando o ponto \\(T\\).\n\nA figura apresenta a bússola, a rota planejada e a rota executada.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "O dono da embarcação só percebeu o equívoco ao chegar ao ponto \\(T\\). Com isso, agora ele precisa definir a direção e o tempo de navegação que lhe permita, partindo do ponto \\(T\\), chegar ao ponto de destino \\(R\\) por meio de uma rota retilínea.\n\nConsidere 0,64 como aproximação para cos 50°.",
+      "anchor": "after:assets:context",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "A direção e o tempo aproximado de navegação que o dono da embarcação deve utilizar são, respectivamente,",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "135 e 7 horas e 15 minutos.",
+      "latex": "\\text{135 e 7 horas e 15 minutos.}"
+    },
+    {
+      "letter": "B",
+      "text": "45 e 7 horas e 15 minutos.",
+      "latex": "\\text{45 e 7 horas e 15 minutos.}"
+    },
+    {
+      "letter": "C",
+      "text": "135 e 12 horas.",
+      "latex": "\\text{135 e 12 horas.}"
+    },
+    {
+      "letter": "D",
+      "text": "135 e 6 horas.",
+      "latex": "\\text{135 e 6 horas.}"
+    },
+    {
+      "letter": "E",
+      "text": "45 e 6 horas.",
+      "latex": "\\text{45 e 6 horas.}"
+    }
+  ],
+  "correct_answer": "A",
+  "assets": {
+    "images": [],
+    "charts": [
+      {
+        "id": "2025-163-chart-001",
+        "type": "2025-163-compass",
+        "data_file": "charts/2025-163-chart-001.json",
+        "meta_file": "charts/2025-163-chart-001-meta.json",
+        "position": "context"
+      },
+      {
+        "id": "2025-163-chart-002",
+        "type": "2025-163-routes",
+        "data_file": "charts/2025-163-chart-002.json",
+        "meta_file": "charts/2025-163-chart-002-meta.json",
+        "position": "context"
+      }
+    ],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 163,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": true,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt updated; improved charts mapped"
+  }
+}

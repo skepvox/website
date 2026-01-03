@@ -1,0 +1,87 @@
+{
+  "id": "2025_q087",
+  "year": 2025,
+  "day": 1,
+  "number": 87,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "A difusão pelos cônegos do ideal apostólico, bem como\na influência dos eremitas e dos pregadores errantes que na\nsua esteira propagavam temas evangélicos, contribuíram para\nfazer nascer, entre os fiéis, o desejo de se erguerem ao nível\nespiritual do clero e de obterem a sua salvação, sem que para\nisso tivessem de renunciar ao seu estado. Pela primeira vez,\na Igreja entreabria as portas da graça em benefício da totalidade\ndos fiéis, colocando, como única condição, a sua partida para\no Oriente, a fim de aí lutarem contra os inimigos de Cristo.",
+    "source": {
+      "author": "VAUCHEZ, A.",
+      "title": "A espiritualidade da Idade Média Ocidental,",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "séc. VIII-XIII. Lisboa: Estampa, 1995. Conforme o texto, no imaginário dos fiéis cristãos do período medieval, a salvação era alcançada por meio das",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "A difusão pelos cônegos do ideal apostólico, bem como\na influência dos eremitas e dos pregadores errantes que na\nsua esteira propagavam temas evangélicos, contribuíram para\nfazer nascer, entre os fiéis, o desejo de se erguerem ao nível\nespiritual do clero e de obterem a sua salvação, sem que para\nisso tivessem de renunciar ao seu estado. Pela primeira vez,\na Igreja entreabria as portas da graça em benefício da totalidade\ndos fiéis, colocando, como única condição, a sua partida para\no Oriente, a fim de aí lutarem contra os inimigos de Cristo.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "séc. VIII-XIII. Lisboa: Estampa, 1995.",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "Conforme o texto, no imaginário dos fiéis cristãos do período medieval, a salvação era alcançada por meio das",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "palavras escritas."
+    },
+    {
+      "letter": "B",
+      "text": "práticas litúrgicas."
+    },
+    {
+      "letter": "C",
+      "text": "ações voluntárias."
+    },
+    {
+      "letter": "D",
+      "text": "ideias messiânicas."
+    },
+    {
+      "letter": "E",
+      "text": "celebrações coletivas."
+    }
+  ],
+  "correct_answer": "C",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 87,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

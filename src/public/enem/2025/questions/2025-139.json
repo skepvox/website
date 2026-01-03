@@ -1,0 +1,81 @@
+{
+  "id": "2025_q139",
+  "year": 2025,
+  "day": 2,
+  "number": 139,
+  "area": {
+    "code": "matematica",
+    "name": "Matemática e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Quatro candidatos se apresentaram para realizar a prova de um concurso. Antes de iniciar a prova, os celulares dos quatro candidatos foram recolhidos pelo aplicador, que os guardou, cada um, dentro de um envelope preto. Ao término da prova, o aplicador devolveu os quatro envelopes com os celulares aos quatro candidatos, de maneira aleatória, já que não havia feito a identificação dos envelopes.",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "A probabilidade de que todos os candidatos tenham recebido de volta os envelopes com os seus respectivos celulares é",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Quatro candidatos se apresentaram para realizar a prova de um concurso. Antes de iniciar a prova, os celulares dos quatro candidatos foram recolhidos pelo aplicador, que os guardou, cada um, dentro de um envelope preto. Ao término da prova, o aplicador devolveu os quatro envelopes com os celulares aos quatro candidatos, de maneira aleatória, já que não havia feito a identificação dos envelopes.",
+      "anchor": "before:assets:context",
+      "order": 1
+    }
+  ],
+  "prompt": {
+    "text": "A probabilidade de que todos os candidatos tenham recebido de volta os envelopes com os seus respectivos celulares é",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "1/2",
+      "latex": "\\dfrac{1}{2}"
+    },
+    {
+      "letter": "B",
+      "text": "1/10",
+      "latex": "\\dfrac{1}{10}"
+    },
+    {
+      "letter": "C",
+      "text": "1/16",
+      "latex": "\\dfrac{1}{16}"
+    },
+    {
+      "letter": "D",
+      "text": "1/24",
+      "latex": "\\dfrac{1}{24}"
+    },
+    {
+      "letter": "E",
+      "text": "1/256",
+      "latex": "\\dfrac{1}{256}"
+    }
+  ],
+  "correct_answer": "D",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 139,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "panels": [
+    {
+      "id": "I",
+      "startPoint": "A",
+      "endPoint": "B",
+      "startPos": [0.13, 0.89],
+      "endPos": [0.82, 0.1],
+      "startLabelOffset": [0.14, 0.03],
+      "endLabelOffset": [-0.1, 0.05],
+      "length": "9cm",
+      "lengthPos": [0.28, 0.34],
+      "scale": "1 : 100"
+    },
+    {
+      "id": "II",
+      "startPoint": "B",
+      "endPoint": "C",
+      "startPos": [0.82, 0.11],
+      "endPos": [0.6, 0.76],
+      "startLabelOffset": [-0.1, 0.05],
+      "endLabelOffset": [-0.1, 0],
+      "length": "5cm",
+      "lengthPos": [0.28, 0.34],
+      "scale": "1 : 300"
+    },
+    {
+      "id": "III",
+      "startPoint": "D",
+      "endPoint": "C",
+      "startPos": [0.3, 0.16],
+      "endPos": [0.59, 0.76],
+      "startLabelOffset": [0.08, 0],
+      "endLabelOffset": [-0.08, 0],
+      "length": "5cm",
+      "lengthPos": [0.23, 0.53],
+      "scale": "1 : 600"
+    },
+    {
+      "id": "IV",
+      "startPoint": "D",
+      "endPoint": "E",
+      "startPos": [0.3, 0.16],
+      "endPos": [0.3, 0.57],
+      "length": "3cm",
+      "lengthPos": [0.63, 0.38],
+      "scale": "1 : 700"
+    },
+    {
+      "id": "V",
+      "startPoint": "E",
+      "endPoint": "F",
+      "startPos": [0.3, 0.57],
+      "endPos": [0.47, 0.42],
+      "length": "2cm",
+      "lengthPos": [0.6, 0.54],
+      "scale": "1 : 1 000"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "2025_q014",
+  "year": 2025,
+  "day": 1,
+  "number": 14,
+  "area": {
+    "code": "linguagens",
+    "name": "Linguagens, Códigos e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "O Ministério do Esporte no Brasil lançou o programa Maré\nInclusiva, em 2024, ano dos Jogos Paralímpicos de Paris. Esse\nprograma visa ampliar as oportunidades para pessoas com\ndeficiência que desejam praticar o surf. O parasurf é a prática\ndo surf adaptada para permitir que pessoas com deficiência\npratiquem o esporte em todas as suas categorias, modalidades\ne manifestações. Para a Secretaria Nacional do Paradesporto,\na iniciativa é mais do que um programa de esporte, é uma\niniciativa que busca transformar vidas e promover a inclusão por\nmeio do parasurf, criando um legado de igualdade e respeito.",
+    "source": {
+      "url": "www.gov.br/esporte",
+      "access_date": "6 set. 2024",
+      "note": "adaptado"
+    },
+    "language": "pt"
+  },
+  "statement": "De acordo com esse texto, o programa voltado ao estímulo da prática do parasurf evidencia a",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "O Ministério do Esporte no Brasil lançou o programa Maré\nInclusiva, em 2024, ano dos Jogos Paralímpicos de Paris. Esse\nprograma visa ampliar as oportunidades para pessoas com\ndeficiência que desejam praticar o surf. O parasurf é a prática\ndo surf adaptada para permitir que pessoas com deficiência\npratiquem o esporte em todas as suas categorias, modalidades\ne manifestações. Para a Secretaria Nacional do Paradesporto,\na iniciativa é mais do que um programa de esporte, é uma\niniciativa que busca transformar vidas e promover a inclusão por\nmeio do parasurf, criando um legado de igualdade e respeito.",
+      "anchor": "before:assets:context",
+      "order": 1
+    }
+  ],
+  "prompt": {
+    "text": "De acordo com esse texto, o programa voltado ao estímulo da prática do parasurf evidencia a",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "adesão de diferentes países a programas inclusivos."
+    },
+    {
+      "letter": "B",
+      "text": "preocupação política em atender a demandas paralímpicas."
+    },
+    {
+      "letter": "C",
+      "text": "importância de uma política pública esportiva para a inclusão."
+    },
+    {
+      "letter": "D",
+      "text": "eficiência das iniciativas de inclusão em megaeventos esportivos."
+    },
+    {
+      "letter": "E",
+      "text": "escassez de investimento em práticas corporais de aventura na natureza."
+    }
+  ],
+  "correct_answer": "C",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 14,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

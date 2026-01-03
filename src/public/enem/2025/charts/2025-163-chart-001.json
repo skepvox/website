@@ -1,0 +1,16 @@
+{
+  "type": "compass",
+  "cardinals": [
+    { "label": "N", "degrees": 0 },
+    { "label": "L", "degrees": 90 },
+    { "label": "S", "degrees": 180 },
+    { "label": "O", "degrees": 270 }
+  ],
+  "ticks": [0, 20, 40, 60, 80, 100, 120, 140, 160, 180, 200, 220, 240, 260, 280, 300, 320, 340],
+  "highlightedDirections": [
+    { "degrees": 110, "color": "#e67e22", "label": "110" },
+    { "degrees": 340, "color": "#27ae60", "label": "340" },
+    { "degrees": 90, "color": "#3498db", "label": "90" },
+    { "degrees": 135, "color": "#9b59b6", "label": "135" }
+  ]
+}

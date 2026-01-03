@@ -1,0 +1,76 @@
+{
+  "id": "2025_q118",
+  "year": 2025,
+  "day": 2,
+  "number": 118,
+  "area": {
+    "code": "natureza",
+    "name": "Ciências da Natureza e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Para a produção de titânio metálico ou dióxido de titânio\npuros, é necessário fazer a cloração do minério que contém\ndióxido de titânio, com o objetivo de separar esse óxido de\noutras substâncias presentes no minério. A principal reação\nquímica de cloração é representada por:\nTiO2 (s) + 2 Cl2 (g)\nTiCl4 (g) + O2 (g)    ΔH = +175 kJ/mol\nDepois da cloração, o tetracloreto de titânio é condensado\ne convertido, novamente, a dióxido de titânio.\nApós o sistema atingir o equilíbrio químico, como a formação",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "do TiCl4 pode ser favorecida?",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Para a produção de titânio metálico ou dióxido de titânio\npuros, é necessário fazer a cloração do minério que contém\ndióxido de titânio, com o objetivo de separar esse óxido de\noutras substâncias presentes no minério. A principal reação\nquímica de cloração é representada por:\nTiO2 (s) + 2 Cl2 (g)\nTiCl4 (g) + O2 (g)    ΔH = +175 kJ/mol\nDepois da cloração, o tetracloreto de titânio é condensado\ne convertido, novamente, a dióxido de titânio.\nApós o sistema atingir o equilíbrio químico, como a formação",
+      "anchor": "before:assets:context",
+      "order": 1
+    }
+  ],
+  "prompt": {
+    "text": "do TiCl4 pode ser favorecida?",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "Aumentando a pressão total do sistema."
+    },
+    {
+      "letter": "B",
+      "text": "Diminuindo a temperatura do sistema."
+    },
+    {
+      "letter": "C",
+      "text": "Aumentando a pressão parcial de O2."
+    },
+    {
+      "letter": "D",
+      "text": "Aumentando a pressão parcial de Cl2."
+    },
+    {
+      "letter": "E",
+      "text": "Variando a quantidade de TiO2."
+    }
+  ],
+  "correct_answer": "D",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 118,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

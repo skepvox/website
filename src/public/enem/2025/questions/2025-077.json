@@ -1,0 +1,82 @@
+{
+  "id": "2025_q077",
+  "year": 2025,
+  "day": 1,
+  "number": 77,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Em 1914, uma expedição estudantil saiu da Rússia em direção\nà América do Sul, sendo considerada a segunda campanha\ncientífica da Rússia no continente depois da longa viagem do\nbarão Langsdorff pelo interior do Brasil na primeira metade\ndo século XIX. O empreendimento foi enviado pelo Museu de\nAntropologia e Etnografia de São Petersburgo e integrado por\ncinco jovens cientistas, sendo dois zoólogos, dois etnógrafos\ne um antropólogo, cujo objetivo era a coleta de material de valor\nbiológico e etnográfico para compor coleções nas instituições\nque participaram de seu financiamento. A expedição passou\npor países como Brasil, Paraguai e Argentina, resultando em\namplo material manuscrito e algumas publicações, além dos\nobjetos coletados.",
+    "source": {
+      "author": "CARNEIRO, L. A. F.",
+      "title": "A Rússia no Brasil do início do século XX.",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "Rio de Janeiro: Casa de Oswaldo Cruz, 2015 (adaptado). Além do significado científico, o evento mencionado conectava-se a um projeto nacionalista de caráter",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Em 1914, uma expedição estudantil saiu da Rússia em direção\nà América do Sul, sendo considerada a segunda campanha\ncientífica da Rússia no continente depois da longa viagem do\nbarão Langsdorff pelo interior do Brasil na primeira metade\ndo século XIX. O empreendimento foi enviado pelo Museu de\nAntropologia e Etnografia de São Petersburgo e integrado por\ncinco jovens cientistas, sendo dois zoólogos, dois etnógrafos\ne um antropólogo, cujo objetivo era a coleta de material de valor\nbiológico e etnográfico para compor coleções nas instituições\nque participaram de seu financiamento. A expedição passou\npor países como Brasil, Paraguai e Argentina, resultando em\namplo material manuscrito e algumas publicações, além dos\nobjetos coletados.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "Rio de Janeiro: Casa de Oswaldo Cruz, 2015 (adaptado). Além do significado científico, o evento mencionado conectava-se a um projeto nacionalista de caráter",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "imperialista e colonizador."
+    },
+    {
+      "letter": "B",
+      "text": "militar e disciplinador."
+    },
+    {
+      "letter": "C",
+      "text": "lúdico e filantrópico."
+    },
+    {
+      "letter": "D",
+      "text": "mercantil e predatório."
+    },
+    {
+      "letter": "E",
+      "text": "religioso e humanitário."
+    }
+  ],
+  "correct_answer": "A",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 77,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "2025_q148",
+  "year": 2025,
+  "day": 2,
+  "number": 148,
+  "area": {
+    "code": "matematica",
+    "name": "Matemática e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Em um laboratório, um recipiente contém 10 litros de uma solução composta apenas pelas substâncias S₁ e S₂. Dessa solução, 99,95% é de S₁. Uma quantidade de S₁ será retirada dessa solução, mantendo a quantidade inicial de S₂, de modo que 99,90% da nova solução seja de S₁.",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "Qual é a quantidade de S₁, em litro, que será retirada?",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Em um laboratório, um recipiente contém 10 litros de uma solução composta apenas pelas substâncias S₁ e S₂. Dessa solução, 99,95% é de S₁. Uma quantidade de S₁ será retirada dessa solução, mantendo a quantidade inicial de S₂, de modo que 99,90% da nova solução seja de S₁.",
+      "anchor": "before:assets:context",
+      "order": 1
+    }
+  ],
+  "prompt": {
+    "text": "Qual é a quantidade de S₁, em litro, que será retirada?",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "0,0050",
+      "latex": "\\text{0,0050}"
+    },
+    {
+      "letter": "B",
+      "text": "0,0100",
+      "latex": "\\text{0,0100}"
+    },
+    {
+      "letter": "C",
+      "text": "0,5000",
+      "latex": "\\text{0,5000}"
+    },
+    {
+      "letter": "D",
+      "text": "4,9775",
+      "latex": "\\text{4,9775}"
+    },
+    {
+      "letter": "E",
+      "text": "5,0000",
+      "latex": "\\text{5,0000}"
+    }
+  ],
+  "correct_answer": "E",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 148,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

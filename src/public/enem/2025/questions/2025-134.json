@@ -1,0 +1,82 @@
+{
+  "id": "2025_q134",
+  "year": 2025,
+  "day": 2,
+  "number": 134,
+  "area": {
+    "code": "natureza",
+    "name": "Ciências da Natureza e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "O Brasil é o maior produtor mundial de nióbio (massa\nmolar = 93 g mol−1), metal utilizado na fabricação de\nvários tipos de aço: automotivos, estruturais e inoxidáveis.\nO processo utilizado na produção do nióbio é a redução\naluminotérmica de Nb2O5 com excesso de 10% de Al (massa\nmolar = 27 g mol−1), em relação à quantidade estequiométrica\nda reação, representada pela equação química:\n3 Nb2O5 (s) + 10 Al (s) → 6 Nb (s) + 5 Al2O3 (s)\nUma engenheira metalúrgica estimou a massa de alumínio\nnecessária para produzir 9,3 kg de nióbio, nas condições descritas,\npara a produção de um lote de peças de aço encomendado por\numa indústria, considerando um rendimento de 100%.",
+    "source": {
+      "url": "www.cbmm.com.br",
+      "access_date": "17 out. 2015",
+      "note": "adaptado"
+    },
+    "language": "pt"
+  },
+  "statement": "A massa de alumínio, em quilograma, estimada pela engenheira é mais próxima de",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "O Brasil é o maior produtor mundial de nióbio (massa\nmolar = 93 g mol−1), metal utilizado na fabricação de\nvários tipos de aço: automotivos, estruturais e inoxidáveis.\nO processo utilizado na produção do nióbio é a redução\naluminotérmica de Nb2O5 com excesso de 10% de Al (massa\nmolar = 27 g mol−1), em relação à quantidade estequiométrica\nda reação, representada pela equação química:\n3 Nb2O5 (s) + 10 Al (s) → 6 Nb (s) + 5 Al2O3 (s)\nUma engenheira metalúrgica estimou a massa de alumínio\nnecessária para produzir 9,3 kg de nióbio, nas condições descritas,\npara a produção de um lote de peças de aço encomendado por\numa indústria, considerando um rendimento de 100%.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "A massa de alumínio, em quilograma, estimada pela engenheira é mais próxima de",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "2,7 kg."
+    },
+    {
+      "letter": "B",
+      "text": "3,0 kg."
+    },
+    {
+      "letter": "C",
+      "text": "4,1 kg."
+    },
+    {
+      "letter": "D",
+      "text": "4,5 kg."
+    },
+    {
+      "letter": "E",
+      "text": "5,0 kg."
+    }
+  ],
+  "correct_answer": "E",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 134,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

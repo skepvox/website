@@ -1,0 +1,96 @@
+{
+  "id": "2025_q147",
+  "year": 2025,
+  "day": 2,
+  "number": 147,
+  "area": {
+    "code": "matematica",
+    "name": "Matemática e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "No entorno de uma lagoa circular, cujo raio mede 1 km, há uma ciclovia. Devido aos frequentes roubos de bicicleta, a prefeitura planeja alocar policiais em posições estratégicas para patrulhar essa ciclovia, de forma a torná-la totalmente protegida. Um ponto da ciclovia é considerado protegido se houver pelo menos um policial a, no máximo, 200 m de distância daquele ponto, posicionado sobre a ciclovia. A figura ilustra um ponto P sobre a ciclovia, que estará protegido se houver pelo menos um policial posicionado sobre a região de cor cinza escuro.\nDesconsidere a largura da pista da ciclovia e utilize 3 como aproximação para π.",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "Nessas condições, a quantidade mínima necessária de policiais a serem alocados ao longo dessa ciclovia para torná-la protegida é",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "No entorno de uma lagoa circular, cujo raio mede 1 km, há uma ciclovia. Devido aos frequentes roubos de bicicleta, a prefeitura planeja alocar policiais em posições estratégicas para patrulhar essa ciclovia, de forma a torná-la totalmente protegida. Um ponto da ciclovia é considerado protegido se houver pelo menos um policial a, no máximo, 200 m de distância daquele ponto, posicionado sobre a ciclovia. A figura ilustra um ponto P sobre a ciclovia, que estará protegido se houver pelo menos um policial posicionado sobre a região de cor cinza escuro.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "context",
+      "text": "Desconsidere a largura da pista da ciclovia e utilize 3 como aproximação para π.",
+      "anchor": "after:assets:context",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "Nessas condições, a quantidade mínima necessária de policiais a serem alocados ao longo dessa ciclovia para torná-la protegida é",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "4.",
+      "latex": "\\text{4.}"
+    },
+    {
+      "letter": "B",
+      "text": "8.",
+      "latex": "\\text{8.}"
+    },
+    {
+      "letter": "C",
+      "text": "15.",
+      "latex": "\\text{15.}"
+    },
+    {
+      "letter": "D",
+      "text": "30.",
+      "latex": "\\text{30.}"
+    },
+    {
+      "letter": "E",
+      "text": "60.",
+      "latex": "\\text{60.}"
+    }
+  ],
+  "correct_answer": "C",
+  "assets": {
+    "images": [],
+    "charts": [
+      {
+        "id": "2025-147-chart-001",
+        "type": "2025-147-diagram",
+        "data_file": "charts/2025-147-chart-001.json",
+        "meta_file": "charts/2025-147-chart-001-meta.json",
+        "position": "context"
+      }
+    ],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 147,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": true,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt updated; improved diagram mapped"
+  }
+}

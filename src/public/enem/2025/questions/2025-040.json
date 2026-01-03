@@ -1,0 +1,82 @@
+{
+  "id": "2025_q040",
+  "year": 2025,
+  "day": 1,
+  "number": 40,
+  "area": {
+    "code": "linguagens",
+    "name": "Linguagens, Códigos e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "1\n2\n3\n4\n5\n6\n7\n8\n9\nO mais assustador do meteoro que cruzou o céu da Sibéria e explodiu no ar como\nvárias bombas atômicas é que ele chegou sem ser anunciado. Com todas as atenções\nvoltadas para o outro asteroide, o que passou de raspão, o asteroide da Sibéria entrou pela\nporta dos fundos sem ser detectado. A desculpa é que era pequeno demais para chamar a\natenção e por isso os alarmes não funcionaram. Nossa ilusão, até agora, era que qualquer\ndetrito espacial que se aproximasse de nós seria identificado e rotulado, e sua trajetória\ncalculada até o último milímetro com grande antecedência, o que nos daria tempo para\npreparar o espírito — ou usar nossos cartões de crédito até o limite — no caso da colisão\ncom a Terra ser inevitável.",
+    "source": {
+      "url": "www.estadao.com.br",
+      "access_date": "1 mar. 2013",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "Com base na organização coesiva desse texto, o(a)",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "1\n2\n3\n4\n5\n6\n7\n8\n9\nO mais assustador do meteoro que cruzou o céu da Sibéria e explodiu no ar como\nvárias bombas atômicas é que ele chegou sem ser anunciado. Com todas as atenções\nvoltadas para o outro asteroide, o que passou de raspão, o asteroide da Sibéria entrou pela\nporta dos fundos sem ser detectado. A desculpa é que era pequeno demais para chamar a\natenção e por isso os alarmes não funcionaram. Nossa ilusão, até agora, era que qualquer\ndetrito espacial que se aproximasse de nós seria identificado e rotulado, e sua trajetória\ncalculada até o último milímetro com grande antecedência, o que nos daria tempo para\npreparar o espírito — ou usar nossos cartões de crédito até o limite — no caso da colisão\ncom a Terra ser inevitável.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "Com base na organização coesiva desse texto, o(a)",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "oração “que passou de raspão” (l. 3) refere-se ao “meteoro que cruzou o céu da Sibéria” (l. 1)."
+    },
+    {
+      "letter": "B",
+      "text": "expressão “sua trajetória” (l. 6) refere-se ao elemento textual “qualquer detrito espacial” (l. 5-6)."
+    },
+    {
+      "letter": "C",
+      "text": "palavra “isso” (l. 5) remete ao segmento textual posterior “os alarmes não funcionaram” (l. 5)."
+    },
+    {
+      "letter": "D",
+      "text": "pronome “o” em “o que nos daria tempo” (l. 7) remete a “ou usar nossos cartões de crédito” (l. 8)."
+    },
+    {
+      "letter": "E",
+      "text": "fragmento “o asteroide da Sibéria” (l. 3) introduz um elemento novo no texto."
+    }
+  ],
+  "correct_answer": "B",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 40,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "2025_q129",
+  "year": 2025,
+  "day": 2,
+  "number": 129,
+  "area": {
+    "code": "natureza",
+    "name": "Ciências da Natureza e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "A figura ilustra as informações contidas no manual de um\nsistema de alarme que utiliza transmissores e receptores de\nradiação eletromagnética para a detecção de movimento.\nO receptor é regulado pelo tempo de resposta, que corresponde ao\nintervalo de tempo necessário para o corpo do invasor atravessar\ncompletamente o feixe, de diâmetro d = 15 cm. Considere que a\nmenor porção do corpo de um invasor é a sua posição de perfil,\ncuja espessura típica é 20 cm. São indicados cinco possíveis\nmovimentos de um invasor e suas velocidades típicas, que devem\nser observadas para a escolha do tempo de resposta.\nManual de referência e instalação: sensor de barreira ativo.",
+    "source": {
+      "url": "cs.ind.br",
+      "access_date": "2 dez. 2021",
+      "note": "adaptado"
+    },
+    "language": "pt"
+  },
+  "statement": "Nesse sistema, o menor tempo de resposta, em milissegundo, que garante a detecção de um possível invasor é mais próximo de",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "A figura ilustra as informações contidas no manual de um\nsistema de alarme que utiliza transmissores e receptores de\nradiação eletromagnética para a detecção de movimento.\nO receptor é regulado pelo tempo de resposta, que corresponde ao\nintervalo de tempo necessário para o corpo do invasor atravessar\ncompletamente o feixe, de diâmetro d = 15 cm. Considere que a\nmenor porção do corpo de um invasor é a sua posição de perfil,\ncuja espessura típica é 20 cm. São indicados cinco possíveis\nmovimentos de um invasor e suas velocidades típicas, que devem\nser observadas para a escolha do tempo de resposta.\nManual de referência e instalação: sensor de barreira ativo.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "Nesse sistema, o menor tempo de resposta, em milissegundo, que garante a detecção de um possível invasor é mais próximo de",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "30 ms."
+    },
+    {
+      "letter": "B",
+      "text": "70 ms."
+    },
+    {
+      "letter": "C",
+      "text": "300 ms."
+    },
+    {
+      "letter": "D",
+      "text": "400 ms."
+    },
+    {
+      "letter": "E",
+      "text": "700 ms."
+    }
+  ],
+  "correct_answer": "B",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 129,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

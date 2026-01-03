@@ -1,0 +1,82 @@
+{
+  "id": "2025_q043",
+  "year": 2025,
+  "day": 1,
+  "number": 43,
+  "area": {
+    "code": "linguagens",
+    "name": "Linguagens, Códigos e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "A artista Marija Tiurina criou uma série chamada Palavras\nintraduzíveis, com diversas ilustrações detalhadas que\ntransmitem o sentido desses vocábulos, que nenhuma palavra\núnica em outras línguas pode descrever.",
+    "source": {
+      "author": "ROMANZOTI, N.",
+      "title": "9 desenhos que ilustram palavras sem tradução",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "para o português. Disponível em: https://hypescience.com. Acesso em: 10 jun. 2019 (adaptado). O uso do texto verbal nesse desenho assume a função de",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "A artista Marija Tiurina criou uma série chamada Palavras\nintraduzíveis, com diversas ilustrações detalhadas que\ntransmitem o sentido desses vocábulos, que nenhuma palavra\núnica em outras línguas pode descrever.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "para o português. Disponível em: https://hypescience.com. Acesso em: 10 jun. 2019 (adaptado). O uso do texto verbal nesse desenho assume a função de",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "descrever de forma técnica a ilustração."
+    },
+    {
+      "letter": "B",
+      "text": "destacar os múltiplos sentidos do verbete."
+    },
+    {
+      "letter": "C",
+      "text": "explicar o significado da expressão ilustrada."
+    },
+    {
+      "letter": "D",
+      "text": "apresentar termos equivalentes em outras línguas."
+    },
+    {
+      "letter": "E",
+      "text": "apontar para a dificuldade de compreensão do termo."
+    }
+  ],
+  "correct_answer": "C",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 43,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

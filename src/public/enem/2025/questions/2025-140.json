@@ -1,0 +1,110 @@
+{
+  "id": "2025_q140",
+  "year": 2025,
+  "day": 2,
+  "number": 140,
+  "area": {
+    "code": "matematica",
+    "name": "Matemática e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Em um jogo de computador, um cubo se encontra inicialmente posicionado conforme indicado na figura.\nCada deslocamento efetuado por esse cubo se dá sempre em uma das direções definidas pelos três eixos coordenados.\nAo se movimentar a partir da posição inicial, esse cubo se aproximou 3 unidades do plano yz, se afastou 5 unidades do plano xz e se aproximou 4 unidades do plano xy.",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "A figura que apresenta as projeções ortogonais desse cubo sobre os três planos coordenados, após efetuar as movimentações descritas, é",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Em um jogo de computador, um cubo se encontra inicialmente posicionado conforme indicado na figura.",
+      "anchor": "before:asset:2025-140-chart-001",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "context",
+      "text": "Cada deslocamento efetuado por esse cubo se dá sempre em uma das direções definidas pelos três eixos coordenados. Ao se movimentar a partir da posição inicial, esse cubo se aproximou 3 unidades do plano yz, se afastou 5 unidades do plano xz e se aproximou 4 unidades do plano xy.",
+      "anchor": "after:asset:2025-140-chart-001",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "A figura que apresenta as projeções ortogonais desse cubo sobre os três planos coordenados, após efetuar as movimentações descritas, é",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "",
+      "chart": {
+        "data_file": "charts/2025-140-chart-002.json",
+        "meta_file": "charts/2025-140-chart-002-meta.json"
+      }
+    },
+    {
+      "letter": "B",
+      "text": "",
+      "chart": {
+        "data_file": "charts/2025-140-chart-003.json",
+        "meta_file": "charts/2025-140-chart-003-meta.json"
+      }
+    },
+    {
+      "letter": "C",
+      "text": "",
+      "chart": {
+        "data_file": "charts/2025-140-chart-004.json",
+        "meta_file": "charts/2025-140-chart-004-meta.json"
+      }
+    },
+    {
+      "letter": "D",
+      "text": "",
+      "chart": {
+        "data_file": "charts/2025-140-chart-005.json",
+        "meta_file": "charts/2025-140-chart-005-meta.json"
+      }
+    },
+    {
+      "letter": "E",
+      "text": "",
+      "chart": {
+        "data_file": "charts/2025-140-chart-006.json",
+        "meta_file": "charts/2025-140-chart-006-meta.json"
+      }
+    }
+  ],
+  "correct_answer": "E",
+  "assets": {
+    "images": [],
+    "charts": [
+      {
+        "id": "2025-140-chart-001",
+        "data_file": "charts/2025-140-chart-001.json",
+        "meta_file": "charts/2025-140-chart-001-meta.json",
+        "position": "context"
+      }
+    ],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 140,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": true,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt updated; improved charts mapped"
+  }
+}

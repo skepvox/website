@@ -1,0 +1,91 @@
+{
+  "id": "2025_q152",
+  "year": 2025,
+  "day": 2,
+  "number": 152,
+  "area": {
+    "code": "matematica",
+    "name": "Matemática e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Uma livraria comercializa livros dos seguintes gêneros\nliterários: ficção científica, autoajuda, romance e biografia.\nO gráfico apresenta o estoque dos livros que essa livraria tem, por gênero literário e por nacionalidade do autor, bem como a demanda por gênero literário, obtida por meio de uma enquete feita com seus clientes habituais.",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "O gerente da livraria fará a encomenda de novos exemplares somente do gênero cuja quantidade em estoque seja insuficiente para atender a demanda constatada pela enquete.",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Uma livraria comercializa livros dos seguintes gêneros\nliterários: ficção científica, autoajuda, romance e biografia.\nO gráfico apresenta o estoque dos livros que essa livraria tem, por gênero literário e por nacionalidade do autor, bem como a demanda por gênero literário, obtida por meio de uma enquete feita com seus clientes habituais.",
+      "anchor": "before:asset:2025-152-chart-001",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "O gerente da livraria fará a encomenda de novos exemplares somente do gênero cuja quantidade em estoque seja insuficiente para atender a demanda constatada pela enquete.",
+      "anchor": "after:asset:2025-152-chart-001",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "O gênero de livro do qual o gerente deverá encomendar mais exemplares é",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "ficção, pois é o que apresenta maior demanda."
+    },
+    {
+      "letter": "B",
+      "text": "biografia, pois é o gênero que tem a menor demanda."
+    },
+    {
+      "letter": "C",
+      "text": "autoajuda, pois a quantidade em estoque é inferior à demanda."
+    },
+    {
+      "letter": "D",
+      "text": "biografia, pois é o gênero que tem a menor quantidade de livros em estoque."
+    },
+    {
+      "letter": "E",
+      "text": "romance, pois é o que apresenta o menor estoque de livros de autores brasileiros."
+    }
+  ],
+  "correct_answer": "C",
+  "assets": {
+    "images": [],
+    "charts": [
+      {
+        "id": "2025-152-chart-001",
+        "type": "bar-line",
+        "data_file": "charts/2025-152-chart-001.csv",
+        "meta_file": "charts/2025-152-chart-001-meta.json",
+        "position": "context"
+      }
+    ],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 152,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": true,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt updated; improved chart mapped"
+  }
+}

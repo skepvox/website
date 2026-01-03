@@ -1,0 +1,78 @@
+{
+  "id": "2025_q076",
+  "year": 2025,
+  "day": 1,
+  "number": 76,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "TEXTO I\nEu escolhi Bezalel e lhe dei competência e habilidade\npara fazer todo tipo de trabalho artístico; para fazer desenhos\ne trabalhar em ouro, prata e bronze; para lapidar e montar\npedras preciosas; para entalhar madeira; e para fazer todo\ntipo de artesanato.\nBÍBLIA. Êxodo 31, 2-5. São Paulo: Paulinas, 2005.\nTEXTO II\nMoisés foi educado em toda a sabedoria dos egípcios e\nveio a ser poderoso em palavras e obras.\nBÍBLIA. Atos 7, 22. São Paulo: Paulinas, 2005.\nTEXTO III\nSe conhecêsseis a ciência certa, logo renunciarias à ostentação.\nALCORÃO. Sura 102, 5. São Paulo: Tangará, 1975.\nEscritos em temporalidades diferentes (Antiguidade e Idade\nMédia), os textos sagrados aproximam-se ao mostrar o papel",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "da ciência para o(a)",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "TEXTO I\nEu escolhi Bezalel e lhe dei competência e habilidade\npara fazer todo tipo de trabalho artístico; para fazer desenhos\ne trabalhar em ouro, prata e bronze; para lapidar e montar\npedras preciosas; para entalhar madeira; e para fazer todo\ntipo de artesanato.\nBÍBLIA. Êxodo 31, 2-5. São Paulo: Paulinas, 2005.\nTEXTO II\nMoisés foi educado em toda a sabedoria dos egípcios e\nveio a ser poderoso em palavras e obras.\nBÍBLIA. Atos 7, 22. São Paulo: Paulinas, 2005.\nTEXTO III\nSe conhecêsseis a ciência certa, logo renunciarias à ostentação.\nALCORÃO. Sura 102, 5. São Paulo: Tangará, 1975.\nEscritos em temporalidades diferentes (Antiguidade e Idade\nMédia), os textos sagrados aproximam-se ao mostrar o papel",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "da ciência para o(a)",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "emergência das universidades e escolas confessionais."
+    },
+    {
+      "letter": "B",
+      "text": "crescimento religioso e movimentos sectários."
+    },
+    {
+      "letter": "C",
+      "text": "avanço da intolerância e rivalidades nacionais."
+    },
+    {
+      "letter": "D",
+      "text": "preservação das tradições e rituais místicos."
+    },
+    {
+      "letter": "E",
+      "text": "desenvolvimento social e práticas laborais."
+    }
+  ],
+  "correct_answer": "E",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 76,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

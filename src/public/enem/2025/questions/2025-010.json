@@ -1,0 +1,66 @@
+{
+  "id": "2025_q010",
+  "year": 2025,
+  "day": 1,
+  "number": 10,
+  "area": {
+    "code": "linguagens",
+    "name": "Linguagens, Códigos e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": null,
+  "statement": "No que diz respeito ao gênero bilhete, a autora dessa crônica",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "statement",
+      "text": "No que diz respeito ao gênero bilhete, a autora dessa crônica",
+      "anchor": "before:options",
+      "order": 1
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "ressalta a formalidade na comunicação com as pessoas de sua convivência."
+    },
+    {
+      "letter": "B",
+      "text": "critica a ansiedade causada pela velocidade da comunicação."
+    },
+    {
+      "letter": "C",
+      "text": "expressa a obrigatoriedade de concisão nas anotações."
+    },
+    {
+      "letter": "D",
+      "text": "questiona a prática da escrita de próprio punho."
+    },
+    {
+      "letter": "E",
+      "text": "apresenta a diversidade de usos no cotidiano."
+    }
+  ],
+  "correct_answer": "E",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 10,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

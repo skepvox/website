@@ -1,0 +1,9 @@
+{
+  "nodes": [
+    { "id": "1", "label": "1", "color": "#b57a2a" },
+    { "id": "2", "label": "2", "color": "#5469f0" },
+    { "id": "3", "label": "3", "color": "#e67f2d" },
+    { "id": "4", "label": "4", "color": "#31b76b" }
+  ],
+  "direction": "clockwise"
+}

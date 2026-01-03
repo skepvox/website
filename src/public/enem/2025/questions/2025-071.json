@@ -1,0 +1,82 @@
+{
+  "id": "2025_q071",
+  "year": 2025,
+  "day": 1,
+  "number": 71,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Fragmentada em pequenos grupos, fragilizada pela ausência\nde algum tipo de organização ampla, tendo que carregar\no peso do preconceito racial que se transfere do negro para a\ncultura negra, a religião dos orixás tem poucas chances de se\nsair melhor na competição — desigual — com outras religiões.\nSilenciosamente, assistimos hoje a um verdadeiro massacre das\nreligiões afro-brasileiras.",
+    "source": {
+      "author": "PRANDI, R.",
+      "title": "O Brasil com axé. Estudos Avançados, n. 52, dez. 2004.",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "No processo de invisibilização dos cultos afro-brasileiros, o texto associa os seguintes elementos essenciais:",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Fragmentada em pequenos grupos, fragilizada pela ausência\nde algum tipo de organização ampla, tendo que carregar\no peso do preconceito racial que se transfere do negro para a\ncultura negra, a religião dos orixás tem poucas chances de se\nsair melhor na competição — desigual — com outras religiões.\nSilenciosamente, assistimos hoje a um verdadeiro massacre das\nreligiões afro-brasileiras.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "No processo de invisibilização dos cultos afro-brasileiros, o texto associa os seguintes elementos essenciais:",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "Ausência de soluções partidárias e rejeição da laicidade."
+    },
+    {
+      "letter": "B",
+      "text": "Precariedade de coesão representativa e recusa da alteridade."
+    },
+    {
+      "letter": "C",
+      "text": "Insuficiência de estruturas decisórias e exclusão da dialogicidade."
+    },
+    {
+      "letter": "D",
+      "text": "Inexistência de direitos constitucionais e negação do ecumenismo."
+    },
+    {
+      "letter": "E",
+      "text": "Efemeridade das relações políticas e debilidade do pertencimento étnico."
+    }
+  ],
+  "correct_answer": "B",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 71,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

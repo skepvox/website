@@ -1,0 +1,8 @@
+{
+  "id": "2025-163-chart-002",
+  "type": "2025-163-routes",
+  "title": "Rotas de navegação",
+  "description": "Diagrama mostrando: rota planejada P→Q→R em laranja; rota executada P→S→T em verde; correção T→R em linha pontilhada verde-azulada.",
+  "width": 200,
+  "height": 200
+}

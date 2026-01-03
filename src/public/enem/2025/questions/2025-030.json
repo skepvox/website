@@ -1,0 +1,82 @@
+{
+  "id": "2025_q030",
+  "year": 2025,
+  "day": 1,
+  "number": 30,
+  "area": {
+    "code": "linguagens",
+    "name": "Linguagens, Códigos e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Só entende os corações desse lugar quem mergulha nesse\nmar a perder de vista e recoberto de cana caiana, cana fita, cana\nroxa, cana-de-macaco, açúcar, melado, rapadura, aguardente,\nfumo, mandioca, quiabos, pimentas, moendas, frutas, fruta-pão,\nsobrados, senzalas, tachos, casa de purgar. Um reino dentro de\noutro, com tudo o que se tem direito: reis, rainhas, príncipes e\nprincesas, bobos da corte, cortesãos, conselheiros e escravos,\nmuitos escravos. […]\nA corte do massapé, como qualquer outra na história da\nhumanidade, fazia tudo para não deixar escapar nenhum mísero\ngrão dos seus domínios para quem estivesse de fora do seu\napertado círculo. Os nomes se repetiam de pai para filho, para\nsobrinho, para netos e bisnetos, de forma concêntrica e repetitiva,\npara que não pairasse nenhuma dúvida de que são todos da\nmesma parentela. As farinhas todas num mesmo saco brasonado.",
+    "source": {
+      "author": "CRUZ, E. A.",
+      "title": "Água de barrela. Rio de Janeiro: Malê, 2018.",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "Nesse fragmento, o narrador enumera o resultado do trabalho com a terra, o qual, no contexto em que aparece,",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Só entende os corações desse lugar quem mergulha nesse\nmar a perder de vista e recoberto de cana caiana, cana fita, cana\nroxa, cana-de-macaco, açúcar, melado, rapadura, aguardente,\nfumo, mandioca, quiabos, pimentas, moendas, frutas, fruta-pão,\nsobrados, senzalas, tachos, casa de purgar. Um reino dentro de\noutro, com tudo o que se tem direito: reis, rainhas, príncipes e\nprincesas, bobos da corte, cortesãos, conselheiros e escravos,\nmuitos escravos. […]\nA corte do massapé, como qualquer outra na história da\nhumanidade, fazia tudo para não deixar escapar nenhum mísero\ngrão dos seus domínios para quem estivesse de fora do seu\napertado círculo. Os nomes se repetiam de pai para filho, para\nsobrinho, para netos e bisnetos, de forma concêntrica e repetitiva,\npara que não pairasse nenhuma dúvida de que são todos da\nmesma parentela. As farinhas todas num mesmo saco brasonado.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "Nesse fragmento, o narrador enumera o resultado do trabalho com a terra, o qual, no contexto em que aparece,",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "espelha a permanência dos privilégios de classe."
+    },
+    {
+      "letter": "B",
+      "text": "oferece um panorama da população do campo."
+    },
+    {
+      "letter": "C",
+      "text": "mostra os benefícios da fartura na agricultura."
+    },
+    {
+      "letter": "D",
+      "text": "defende a importância da atividade coletiva."
+    },
+    {
+      "letter": "E",
+      "text": "valoriza o trabalho ao longo das gerações."
+    }
+  ],
+  "correct_answer": "A",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 30,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

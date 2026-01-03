@@ -1,0 +1,82 @@
+{
+  "id": "2025_q117",
+  "year": 2025,
+  "day": 2,
+  "number": 117,
+  "area": {
+    "code": "natureza",
+    "name": "Ciências da Natureza e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "As cangas são ambientes resultantes da atuação, ao longo\nde milhões de anos, de chuvas, enxurradas, calor e ventos em\nrochas ricas em ferro. São compostas por até 90% de óxidos\nde ferro e contêm solos muito ácidos, rasos, com reduzidos\níndices de fertilidade e temperaturas que atingem quase 70 °C\nna superfície. Ao contrário do que se imagina, esse tipo de\nambiente abriga comunidades de plantas e animais com elevado\nnúmero de espécies e distribuição restrita.",
+    "source": {
+      "author": "CARMO, F. F.",
+      "title": "et al. Ilhas de ferro estratégicas para a conservação.",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "Disponível em: http://cienciahoje.org.br. Acesso em: 2 dez. 2018 (adaptado). A seleção adaptativa nesses ambientes favorece a ocorrência de espécies",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "As cangas são ambientes resultantes da atuação, ao longo\nde milhões de anos, de chuvas, enxurradas, calor e ventos em\nrochas ricas em ferro. São compostas por até 90% de óxidos\nde ferro e contêm solos muito ácidos, rasos, com reduzidos\níndices de fertilidade e temperaturas que atingem quase 70 °C\nna superfície. Ao contrário do que se imagina, esse tipo de\nambiente abriga comunidades de plantas e animais com elevado\nnúmero de espécies e distribuição restrita.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "Disponível em: http://cienciahoje.org.br. Acesso em: 2 dez. 2018 (adaptado). A seleção adaptativa nesses ambientes favorece a ocorrência de espécies",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "exóticas."
+    },
+    {
+      "letter": "B",
+      "text": "migratórias."
+    },
+    {
+      "letter": "C",
+      "text": "endêmicas."
+    },
+    {
+      "letter": "D",
+      "text": "dominantes."
+    },
+    {
+      "letter": "E",
+      "text": "generalistas."
+    }
+  ],
+  "correct_answer": "C",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 117,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

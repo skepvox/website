@@ -1,0 +1,81 @@
+{
+  "id": "2025_q170",
+  "year": 2025,
+  "day": 2,
+  "number": 170,
+  "area": {
+    "code": "matematica",
+    "name": "Matemática e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "A final de um campeonato de futebol foi disputada em 2 tempos regulamentares, de 45 minutos cada, sem acréscimos, com uma prorrogação de 30 minutos, também sem acréscimos. Um jogador entrou no início do segundo tempo, com um equipamento para medir a distância percorrida durante sua participação no jogo. Ao final do segundo tempo regulamentar, esse jogador havia percorrido 4,5 km. Ele manteve na prorrogação a mesma velocidade média que havia mantido no segundo tempo regulamentar.",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "A final de um campeonato de futebol foi disputada em 2 tempos regulamentares, de 45 minutos cada, sem acréscimos, com uma prorrogação de 30 minutos, também sem acréscimos. Um jogador entrou no início do segundo tempo, com um equipamento para medir a distância percorrida durante sua participação no jogo. Ao final do segundo tempo regulamentar, esse jogador havia percorrido 4,5 km. Ele manteve na prorrogação a mesma velocidade média que havia mantido no segundo tempo regulamentar.",
+      "anchor": "before:assets:context",
+      "order": 1
+    }
+  ],
+  "prompt": {
+    "text": "A distância percorrida por esse jogador durante sua participação na partida, em quilômetro, foi",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "4,5.",
+      "latex": "\\text{4{,}5.}"
+    },
+    {
+      "letter": "B",
+      "text": "6,0.",
+      "latex": "\\text{6{,}0.}"
+    },
+    {
+      "letter": "C",
+      "text": "7,5.",
+      "latex": "\\text{7{,}5.}"
+    },
+    {
+      "letter": "D",
+      "text": "9,0.",
+      "latex": "\\text{9{,}0.}"
+    },
+    {
+      "letter": "E",
+      "text": "12,0.",
+      "latex": "\\text{12{,}0.}"
+    }
+  ],
+  "correct_answer": "C",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 170,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt updated"
+  }
+}

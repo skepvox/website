@@ -1,0 +1,81 @@
+{
+  "id": "2025_q005",
+  "year": 2025,
+  "day": 1,
+  "number": 5,
+  "area": {
+    "code": "linguagens",
+    "name": "Linguagens, Códigos e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "¿Qué es la generación Alfa?\nHacer cortes generacionales no es una ciencia exacta. Sin embargo, según un análisis de 2018 del centro de estudios Pew\nResearch Center, analizar las generaciones ofrece “una manera de entender cómo los acontecimientos globales y los cambios\ntecnológicos, económicos y sociales interactúan para definir la forma en que la gente ve el mundo”. Y está claro cómo ve el\nmundo la próxima generación: a través de una pantalla.\n“Antes las generaciones se definían a partir de sucesos históricos o sociales importantes. Hoy se delimitan por el uso\nde determinada tecnología”, le explica a BBC Mundo un psicólogo, docente, escritor y experto en el uso — y abuso — de las\nredes sociales.\nNinguna de las generaciones anteriores será comparable a nivel digital con los Alfa, que, como contraparte, serán la primera\na la que le serán ajenos muchos aspectos del mundo analógico.",
+    "source": {
+      "url": "www.bbc.com",
+      "access_date": "9 maio 2024",
+      "note": "adaptado"
+    },
+    "language": "en"
+  },
+  "statement": "Nesse texto, a expressão “a través de una pantalla” evidencia que a geração Alfa estabelece com o mundo uma relação marcada pelo(a)",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "¿Qué es la generación Alfa?\nHacer cortes generacionales no es una ciencia exacta. Sin embargo, según un análisis de 2018 del centro de estudios Pew\nResearch Center, analizar las generaciones ofrece “una manera de entender cómo los acontecimientos globales y los cambios\ntecnológicos, económicos y sociales interactúan para definir la forma en que la gente ve el mundo”. Y está claro cómo ve el\nmundo la próxima generación: a través de una pantalla.\n“Antes las generaciones se definían a partir de sucesos históricos o sociales importantes. Hoy se delimitan por el uso\nde determinada tecnología”, le explica a BBC Mundo un psicólogo, docente, escritor y experto en el uso — y abuso — de las\nredes sociales.\nNinguna de las generaciones anteriores será comparable a nivel digital con los Alfa, que, como contraparte, serán la primera\na la que le serán ajenos muchos aspectos del mundo analógico.",
+      "anchor": "before:assets:context",
+      "order": 1,
+      "language": "en"
+    }
+  ],
+  "prompt": {
+    "text": "Nesse texto, a expressão “a través de una pantalla” evidencia que a geração Alfa estabelece com o mundo uma relação marcada pelo(a)",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "conflito etário."
+    },
+    {
+      "letter": "B",
+      "text": "efemeridade da tecnologia."
+    },
+    {
+      "letter": "C",
+      "text": "dependência de recursos digitais."
+    },
+    {
+      "letter": "D",
+      "text": "valor dos acontecimentos sociais."
+    },
+    {
+      "letter": "E",
+      "text": "indiferença em relação a fatos históricos."
+    }
+  ],
+  "correct_answer": "E",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 5,
+    "foreign_language_option": "english",
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

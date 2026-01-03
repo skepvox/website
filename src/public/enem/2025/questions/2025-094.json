@@ -1,0 +1,87 @@
+{
+  "id": "2025_q094",
+  "year": 2025,
+  "day": 2,
+  "number": 94,
+  "area": {
+    "code": "natureza",
+    "name": "Ciências da Natureza e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Golden Rice, ou arroz dourado, é uma variedade de arroz\nenriquecida em betacaroteno, precursor da vitamina A.\nFoi desenvolvida para ajudar a combater a doença decorrente\nda deficiência dessa vitamina. Para a obtenção dessa variedade\nde arroz, foram utilizados métodos de engenharia genética.",
+    "source": {
+      "author": "BORÉM, A.",
+      "title": "; SANTOS, F. R. Entendendo a biotecnologia.",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "Viçosa: UFV, 2008 (adaptado). Esse alimento contribui para diminuir a carência associada a qual doença?",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Golden Rice, ou arroz dourado, é uma variedade de arroz\nenriquecida em betacaroteno, precursor da vitamina A.\nFoi desenvolvida para ajudar a combater a doença decorrente\nda deficiência dessa vitamina. Para a obtenção dessa variedade\nde arroz, foram utilizados métodos de engenharia genética.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "Viçosa: UFV, 2008 (adaptado).",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "Esse alimento contribui para diminuir a carência associada a qual doença?",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "Hemofilia."
+    },
+    {
+      "letter": "B",
+      "text": "Escorbuto."
+    },
+    {
+      "letter": "C",
+      "text": "Raquitismo."
+    },
+    {
+      "letter": "D",
+      "text": "Cegueira noturna."
+    },
+    {
+      "letter": "E",
+      "text": "Anemia perniciosa."
+    }
+  ],
+  "correct_answer": "D",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 94,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

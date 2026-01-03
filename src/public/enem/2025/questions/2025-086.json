@@ -1,0 +1,83 @@
+{
+  "id": "2025_q086",
+  "year": 2025,
+  "day": 1,
+  "number": 86,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Salvador, capital do estado da Bahia.",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "Acesso em: 20 out. 2023. A análise dos elementos presentes na fotografia permite identificar qual característica socioespacial?",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Salvador, capital do estado da Bahia.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "Acesso em: 20 out. 2023.",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "A análise dos elementos presentes na fotografia permite identificar qual característica socioespacial?",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "Estagnação da especulação imobiliária."
+    },
+    {
+      "letter": "B",
+      "text": "Conservação da arquitetura colonial."
+    },
+    {
+      "letter": "C",
+      "text": "Implantação de moradias populares."
+    },
+    {
+      "letter": "D",
+      "text": "Predomínio da atividade comercial."
+    },
+    {
+      "letter": "E",
+      "text": "Processo de verticalização urbana."
+    }
+  ],
+  "correct_answer": "E",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 86,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

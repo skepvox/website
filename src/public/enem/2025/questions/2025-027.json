@@ -1,0 +1,76 @@
+{
+  "id": "2025_q027",
+  "year": 2025,
+  "day": 1,
+  "number": 27,
+  "area": {
+    "code": "linguagens",
+    "name": "Linguagens, Códigos e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Revista Língua Portuguesa, n. 31, maio 2008 (adaptado).",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "Esse texto, que apresenta um prato da culinária brasileira, evidencia",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Revista Língua Portuguesa, n. 31, maio 2008 (adaptado).",
+      "anchor": "before:assets:context",
+      "order": 1
+    }
+  ],
+  "prompt": {
+    "text": "Esse texto, que apresenta um prato da culinária brasileira, evidencia",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "valor afetivo nas nomenclaturas."
+    },
+    {
+      "letter": "B",
+      "text": "variedade linguística entre regiões."
+    },
+    {
+      "letter": "C",
+      "text": "disputa regional pelo melhor prato."
+    },
+    {
+      "letter": "D",
+      "text": "modos de preparo de um mesmo alimento."
+    },
+    {
+      "letter": "E",
+      "text": "paladares diversificados entre diferentes estados."
+    }
+  ],
+  "correct_answer": "B",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 27,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

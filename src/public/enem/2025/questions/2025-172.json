@@ -1,0 +1,81 @@
+{
+  "id": "2025_q172",
+  "year": 2025,
+  "day": 2,
+  "number": 172,
+  "area": {
+    "code": "matematica",
+    "name": "Matemática e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Três dados cúbicos, com faces numeradas de 1 a 6, foram\nutilizados em um jogo. Artur escolheu dois dados, e João\nficou com o terceiro. O jogo consiste em ambos lançarem\nseus dados, observarem os números nas faces voltadas para\ncima e compararem o maior número obtido por Artur com\no número obtido por João. Vence o jogador que obtiver o\nmaior número. Em caso de empate, a vitória é de João.",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "O jogador que tem a maior probabilidade de vitória é",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Três dados cúbicos, com faces numeradas de 1 a 6, foram\nutilizados em um jogo. Artur escolheu dois dados, e João\nficou com o terceiro. O jogo consiste em ambos lançarem\nseus dados, observarem os números nas faces voltadas para\ncima e compararem o maior número obtido por Artur com\no número obtido por João. Vence o jogador que obtiver o\nmaior número. Em caso de empate, a vitória é de João.",
+      "anchor": "before:assets:context",
+      "order": 1
+    }
+  ],
+  "prompt": {
+    "text": "O jogador que tem a maior probabilidade de vitória é",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "Artur, com probabilidade de 2/3",
+      "latex": "\\text{Artur, com probabilidade de }\\dfrac{2}{3}"
+    },
+    {
+      "letter": "B",
+      "text": "João, com probabilidade de 4/9",
+      "latex": "\\text{João, com probabilidade de }\\dfrac{4}{9}"
+    },
+    {
+      "letter": "C",
+      "text": "Artur, com probabilidade de 91/216",
+      "latex": "\\text{Artur, com probabilidade de }\\dfrac{91}{216}"
+    },
+    {
+      "letter": "D",
+      "text": "João, com probabilidade de 91/216",
+      "latex": "\\text{João, com probabilidade de }\\dfrac{91}{216}"
+    },
+    {
+      "letter": "E",
+      "text": "Artur, com probabilidade de 125/216",
+      "latex": "\\text{Artur, com probabilidade de }\\dfrac{125}{216}"
+    }
+  ],
+  "correct_answer": "E",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 172,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors; fractions normalized"
+  }
+}

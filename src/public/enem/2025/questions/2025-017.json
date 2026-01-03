@@ -1,0 +1,87 @@
+{
+  "id": "2025_q017",
+  "year": 2025,
+  "day": 1,
+  "number": 17,
+  "area": {
+    "code": "linguagens",
+    "name": "Linguagens, Códigos e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Com 20 anos de experiência no futebol de alto rendimento,\nMarina, ex-jogadora da seleção brasileira de futebol, salienta que,\npor trás do espetáculo apresentado nas mídias, com mensagens de\nmotivação e superação, o esporte não é tão inclusivo assim. “É esta\nanálise que devemos fazer: aqueles atletas que estão ali estão\ntrazendo uma alta performance a partir dos seus limites”, explica.\nPara a profissional, é preciso analisar com cautela “a ideia romântica\nque a mídia passa para os telespectadores”. A realidade é muito\nmais dura do que as imagens espetaculosas que principalmente\na televisão busca transmitir para a audiência. “Por trás existe\num ser humano, a gente não pode nunca esquecer isso. Aquela\npessoa treinou insistentemente para estar ali, durante meses,\nsemanas e temporadas. Duas vezes ao dia, de duas a quatro horas”,\npondera Marina. Atualmente, as crianças e os jovens vislumbram\no sucesso profissional e a boa-vida financeira de poucos atletas\nque se destacam e estampam os meios de comunicação. Tudo\nparece ser muito mais fácil do que realmente é quando apenas\nas conquistas são mostradas.",
+    "source": {
+      "author": "ROSOLEN, N.",
+      "title": "Disponível em: www.uninter.com.",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "Acesso em: 10 maio 2024 (adaptado). Nesse texto, a visão crítica de uma ex-atleta de futebol revela que",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Com 20 anos de experiência no futebol de alto rendimento,\nMarina, ex-jogadora da seleção brasileira de futebol, salienta que,\npor trás do espetáculo apresentado nas mídias, com mensagens de\nmotivação e superação, o esporte não é tão inclusivo assim. “É esta\nanálise que devemos fazer: aqueles atletas que estão ali estão\ntrazendo uma alta performance a partir dos seus limites”, explica.\nPara a profissional, é preciso analisar com cautela “a ideia romântica\nque a mídia passa para os telespectadores”. A realidade é muito\nmais dura do que as imagens espetaculosas que principalmente\na televisão busca transmitir para a audiência. “Por trás existe\num ser humano, a gente não pode nunca esquecer isso. Aquela\npessoa treinou insistentemente para estar ali, durante meses,\nsemanas e temporadas. Duas vezes ao dia, de duas a quatro horas”,\npondera Marina. Atualmente, as crianças e os jovens vislumbram\no sucesso profissional e a boa-vida financeira de poucos atletas\nque se destacam e estampam os meios de comunicação. Tudo\nparece ser muito mais fácil do que realmente é quando apenas\nas conquistas são mostradas.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "Acesso em: 10 maio 2024 (adaptado).",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "Nesse texto, a visão crítica de uma ex-atleta de futebol revela que",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "os meios de comunicação invisibilizam as dificuldades presentes no esporte."
+    },
+    {
+      "letter": "B",
+      "text": "o treinamento atlético de alto nível é desestimulante para os indivíduos."
+    },
+    {
+      "letter": "C",
+      "text": "o trabalho contínuo é desvalorizado no contexto esportivo profissional."
+    },
+    {
+      "letter": "D",
+      "text": "as ações de incentivo financeiro a jovens atletas são precárias."
+    },
+    {
+      "letter": "E",
+      "text": "as publicações da mídia esportiva rotulam atletas iniciantes."
+    }
+  ],
+  "correct_answer": "A",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 17,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

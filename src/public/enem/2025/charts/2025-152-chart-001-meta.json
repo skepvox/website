@@ -1,0 +1,37 @@
+{
+  "id": "2025-152-chart-001",
+  "type": "bar-line",
+  "title": "Estoque e demanda por livros",
+  "description": "Comparacao entre estoque de livros e demanda por genero.",
+  "categoryField": "categoria",
+  "series": [
+    {
+      "id": "autor_brasileiro",
+      "label": "Autor brasileiro",
+      "kind": "bar",
+      "field": "autor_brasileiro",
+      "color": "#f06464"
+    },
+    {
+      "id": "autor_estrangeiro",
+      "label": "Autor estrangeiro",
+      "kind": "bar",
+      "field": "autor_estrangeiro",
+      "color": "#3aa35c"
+    },
+    {
+      "id": "demanda",
+      "label": "Demanda",
+      "kind": "line",
+      "field": "demanda",
+      "color": "#4fc3f7"
+    }
+  ],
+  "yAxis": {
+    "label": "Quantidade",
+    "max": 170,
+    "ticks": 6
+  },
+  "height": 320,
+  "debug": false
+}

@@ -1,0 +1,87 @@
+{
+  "id": "2025_q047",
+  "year": 2025,
+  "day": 1,
+  "number": 47,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "TEXTO I\nA partir do século IV, com os imperadores ditos cristãos,\no teatro e a dança foram condenados. O batismo era recusado aos\nque atuavam no circo ou na pantomima. E em 398, no Concílio de\nCartago, os que iam ao teatro nos dias santos foram excomungados.",
+    "source": {
+      "author": "DINIZ, T.",
+      "title": "; SANTOS, G. História da dança. Disponível em: www.uel.br.",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "Acesso em: 18 out. 2023. TEXTO II A dança no ato litúrgico cumpre tanto um papel de adoração quanto mercadológico. Não à toa há aceitação, expansão e investimento nessa prática percebida massivamente pela ampla divulgação principalmente nas redes sociais. A expansão e ampliação por via de festivais, aulas, cursos, palestras etc. consolida a criação de um mercado específico para esse público. SANTOS, Z. Dança gospel. Salvador: UFBA, 2021. A percepção sobre a dança e a cultura corporal apresenta aspectos relacionados, respectivamente, a",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "TEXTO I\nA partir do século IV, com os imperadores ditos cristãos,\no teatro e a dança foram condenados. O batismo era recusado aos\nque atuavam no circo ou na pantomima. E em 398, no Concílio de\nCartago, os que iam ao teatro nos dias santos foram excomungados.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "Acesso em: 18 out. 2023. TEXTO II A dança no ato litúrgico cumpre tanto um papel de adoração quanto mercadológico. Não à toa há aceitação, expansão e investimento nessa prática percebida massivamente pela ampla divulgação principalmente nas redes sociais. A expansão e ampliação por via de festivais, aulas, cursos, palestras etc. consolida a criação de um mercado específico para esse público. SANTOS, Z. Dança gospel. Salvador: UFBA, 2021.",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "A percepção sobre a dança e a cultura corporal apresenta aspectos relacionados, respectivamente, a",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "segregação social e intolerância eclesiástica."
+    },
+    {
+      "letter": "B",
+      "text": "rituais eucarísticos e sacramentos da Igreja."
+    },
+    {
+      "letter": "C",
+      "text": "transe individual e progresso intelectual."
+    },
+    {
+      "letter": "D",
+      "text": "penitência pessoal e juramento coletivo."
+    },
+    {
+      "letter": "E",
+      "text": "dogmatismo religioso e adesão de fiéis."
+    }
+  ],
+  "correct_answer": "E",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 47,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

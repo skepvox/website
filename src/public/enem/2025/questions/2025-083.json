@@ -1,0 +1,80 @@
+{
+  "id": "2025_q083",
+  "year": 2025,
+  "day": 1,
+  "number": 83,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "O que eu queria ter sido\nUm nome para o que sou, importa muito pouco. Importa\no que eu gostaria de ser. O que eu gostaria de ser era uma\nlutadora. Quero dizer, uma pessoa que luta pelo bem dos outros.\nIsso desde pequena eu quis. Por que foi o destino me levando\na escrever o que já escrevi, em vez de também desenvolver em\nmim a qualidade de lutadora que eu tinha? Em pequena, minha\nfamília por brincadeira chamava-me de “a protetora dos animais”.\nPorque bastava acusarem uma pessoa para eu imediatamente\ndefendê-la. E eu sentia o drama social com tanta intensidade que\nvivia de coração perplexo diante das grandes injustiças a que são\nsubmetidas as chamadas classes menos privilegiadas.",
+    "source": {
+      "author": "LISPECTOR, C.",
+      "title": "Aprendendo a viver. Rio de Janeiro: Rocco Digital, 2013.",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "A reflexão contida no texto faz referência aos pressupostos de uma doutrina ética representada pelo",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "O que eu queria ter sido\nUm nome para o que sou, importa muito pouco. Importa\no que eu gostaria de ser. O que eu gostaria de ser era uma\nlutadora. Quero dizer, uma pessoa que luta pelo bem dos outros.\nIsso desde pequena eu quis. Por que foi o destino me levando\na escrever o que já escrevi, em vez de também desenvolver em\nmim a qualidade de lutadora que eu tinha? Em pequena, minha\nfamília por brincadeira chamava-me de “a protetora dos animais”.\nPorque bastava acusarem uma pessoa para eu imediatamente\ndefendê-la. E eu sentia o drama social com tanta intensidade que\nvivia de coração perplexo diante das grandes injustiças a que são\nsubmetidas as chamadas classes menos privilegiadas.",
+      "anchor": "before:assets:context",
+      "order": 1
+    }
+  ],
+  "prompt": {
+    "text": "A reflexão contida no texto faz referência aos pressupostos de uma doutrina ética representada pelo",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "estado eudaimônico."
+    },
+    {
+      "letter": "B",
+      "text": "referencial hedonista."
+    },
+    {
+      "letter": "C",
+      "text": "pensamento altruísta."
+    },
+    {
+      "letter": "D",
+      "text": "movimento antiespecista."
+    },
+    {
+      "letter": "E",
+      "text": "comportamento pragmático."
+    }
+  ],
+  "correct_answer": "C",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 83,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

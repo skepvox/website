@@ -1,0 +1,78 @@
+{
+  "id": "2025_q069",
+  "year": 2025,
+  "day": 1,
+  "number": 69,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "TEXTO I\nEm conjunto: todo e não todo, unido e separado, em\nconsonância e em dissonância. De todos um e de um todos.\n(Fragmento B10)\nTEXTO II\nDeus é dia-noite, inverno-verão, guerra-paz, saciedade-fome.\n(Fragmento B67)\nPré-socráticos. São Paulo: Nova Cultural, 1996.\nA característica do pensamento do filósofo Heráclito, registrada",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "nos fragmentos mencionados, é a ênfase na",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "TEXTO I\nEm conjunto: todo e não todo, unido e separado, em\nconsonância e em dissonância. De todos um e de um todos.\n(Fragmento B10)\nTEXTO II\nDeus é dia-noite, inverno-verão, guerra-paz, saciedade-fome.\n(Fragmento B67)\nPré-socráticos. São Paulo: Nova Cultural, 1996.\nA característica do pensamento do filósofo Heráclito, registrada",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "nos fragmentos mencionados, é a ênfase na",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "qualidade imperecível do mundo."
+    },
+    {
+      "letter": "B",
+      "text": "degradação material da natureza."
+    },
+    {
+      "letter": "C",
+      "text": "imobilidade imanente do universo."
+    },
+    {
+      "letter": "D",
+      "text": "distribuição dicotômica do cosmos."
+    },
+    {
+      "letter": "E",
+      "text": "desordem incontornável das coisas."
+    }
+  ],
+  "correct_answer": "D",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 69,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

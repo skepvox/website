@@ -1,0 +1,76 @@
+{
+  "id": "2025_q038",
+  "year": 2025,
+  "day": 1,
+  "number": 38,
+  "area": {
+    "code": "linguagens",
+    "name": "Linguagens, Códigos e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "TRADUZINDO O JURIDIQUÊS\n“Denego a liminar pleiteada na exordial, inobstante\napós a oitiva da parte adversa e da dilação probatória\npossa lograr alcançar um outro epílogo para o deslinde\nda quaestio sub examine.”\nTRADUÇãO\nNão atendo, por ora, a liminar requerida na petição\ninicial, ainda que possa chegar a uma outra conclusão\napós ouvir a outra parte e avaliar as  provas produzidas.\nProposta de emenda à Constituição 269 de 2013. Aplica-se\naos Governadores e Prefeitos o Regime Geral de Previdência\nSocial, vedada a concessão graciosa, após o término do\nmandato, de vantagem pecuniária, verba de representação,\npensão ou subsídio.\nTRADUÇãO\nTorna-se proibido pagar benefícios vitalícios para\nex-prefeitos e ex-governadores.\nSuperinteressante, n. 322, ago. 2013 (adaptado).",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "Nesse texto, contribui para a construção da ironia a tradução das passagens escritas em “juridiquês” para uma variedade",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "TRADUZINDO O JURIDIQUÊS\n“Denego a liminar pleiteada na exordial, inobstante\napós a oitiva da parte adversa e da dilação probatória\npossa lograr alcançar um outro epílogo para o deslinde\nda quaestio sub examine.”\nTRADUÇãO\nNão atendo, por ora, a liminar requerida na petição\ninicial, ainda que possa chegar a uma outra conclusão\napós ouvir a outra parte e avaliar as  provas produzidas.\nProposta de emenda à Constituição 269 de 2013. Aplica-se\naos Governadores e Prefeitos o Regime Geral de Previdência\nSocial, vedada a concessão graciosa, após o término do\nmandato, de vantagem pecuniária, verba de representação,\npensão ou subsídio.\nTRADUÇãO\nTorna-se proibido pagar benefícios vitalícios para\nex-prefeitos e ex-governadores.\nSuperinteressante, n. 322, ago. 2013 (adaptado).",
+      "anchor": "before:assets:context",
+      "order": 1
+    }
+  ],
+  "prompt": {
+    "text": "Nesse texto, contribui para a construção da ironia a tradução das passagens escritas em “juridiquês” para uma variedade",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "padrão, que alcança o público em geral."
+    },
+    {
+      "letter": "B",
+      "text": "histórica, que registra a evolução das leis."
+    },
+    {
+      "letter": "C",
+      "text": "coloquial, que reproduz as relações sociais cotidianas."
+    },
+    {
+      "letter": "D",
+      "text": "erudita, que resgata a origem latina da língua portuguesa."
+    },
+    {
+      "letter": "E",
+      "text": "técnica, que facilita a circulação de informações no sistema judiciário."
+    }
+  ],
+  "correct_answer": "A",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 38,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

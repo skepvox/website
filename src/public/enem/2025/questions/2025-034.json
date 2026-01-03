@@ -1,0 +1,62 @@
+{
+  "id": "2025_q034",
+  "year": 2025,
+  "day": 1,
+  "number": 34,
+  "area": {
+    "code": "linguagens",
+    "name": "Linguagens, Códigos e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": null,
+  "statement": "Esse texto trata de um problema social com o propósito de",
+  "prompt": {
+    "text": "Esse texto trata de um problema social com o propósito de",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "divulgar campanha virtual contra casos de feminicídio."
+    },
+    {
+      "letter": "B",
+      "text": "promover engajamento do setor educacional na luta contra a violência."
+    },
+    {
+      "letter": "C",
+      "text": "comparar o impacto da violência na qualidade de vida de meninas e meninos."
+    },
+    {
+      "letter": "D",
+      "text": "ressaltar a importância da segurança dos estudantes no ambiente escolar."
+    },
+    {
+      "letter": "E",
+      "text": "dar visibilidade a estudos e pesquisas do setor de segurança."
+    }
+  ],
+  "correct_answer": "B",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 34,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": null
+  }
+}

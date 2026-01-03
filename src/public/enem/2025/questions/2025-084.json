@@ -1,0 +1,87 @@
+{
+  "id": "2025_q084",
+  "year": 2025,
+  "day": 1,
+  "number": 84,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Independência de pensamento, autonomia e direito\nà oposição política estão perdendo sua função crítica básica\nnuma sociedade que parece cada vez mais capaz de atender\nàs necessidades dos indivíduos através da forma pela qual é\norganizada. Nas condições de um padrão de vida crescente,\no não conformismo com o próprio sistema parece socialmente\ninútil, principalmente quando acarreta desvantagens econômicas\ne políticas tangíveis e ameaça o funcionamento suave do todo.",
+    "source": {
+      "author": "MARCUSE, H.",
+      "title": "Ideologia da sociedade industrial.",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "Rio de Janeiro: Zahar, 1969. Qual é a característica da sociedade industrial do século XX apresentada no texto?",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Independência de pensamento, autonomia e direito\nà oposição política estão perdendo sua função crítica básica\nnuma sociedade que parece cada vez mais capaz de atender\nàs necessidades dos indivíduos através da forma pela qual é\norganizada. Nas condições de um padrão de vida crescente,\no não conformismo com o próprio sistema parece socialmente\ninútil, principalmente quando acarreta desvantagens econômicas\ne políticas tangíveis e ameaça o funcionamento suave do todo.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "Rio de Janeiro: Zahar, 1969.",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "Qual é a característica da sociedade industrial do século XX apresentada no texto?",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "Gestão integrada."
+    },
+    {
+      "letter": "B",
+      "text": "Relativismo moral."
+    },
+    {
+      "letter": "C",
+      "text": "Desobediência civil."
+    },
+    {
+      "letter": "D",
+      "text": "Realidade unidimensional."
+    },
+    {
+      "letter": "E",
+      "text": "Desenvolvimento tecnológico."
+    }
+  ],
+  "correct_answer": "D",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 84,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

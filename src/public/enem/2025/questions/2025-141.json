@@ -1,0 +1,92 @@
+{
+  "id": "2025_q141",
+  "year": 2025,
+  "day": 2,
+  "number": 141,
+  "area": {
+    "code": "matematica",
+    "name": "Matemática e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "A reportagem de uma revista abordou o uso de redes sociais pelos internautas brasileiros. Alguns dos dados apurados pela reportagem estão apresentados no infográfico.\nPerfil dos brasileiros nas redes sociais",
+    "source": {
+      "url": "http://revistagalileu.globo.com",
+      "access_date": "22 out. 2015"
+    },
+    "language": "pt"
+  },
+  "statement": "Segundo os dados do infográfico, ao se escolher aleatoriamente um internauta brasileiro no período ao qual se refere a reportagem, a probabilidade de ele ser um homem que acessa alguma rede social é",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "A reportagem de uma revista abordou o uso de redes sociais pelos internautas brasileiros. Alguns dos dados apurados pela reportagem estão apresentados no infográfico.\nPerfil dos brasileiros nas redes sociais",
+      "anchor": "before:asset:q141_img_001",
+      "order": 1
+    }
+  ],
+  "prompt": {
+    "text": "Segundo os dados do infográfico, ao se escolher aleatoriamente um internauta brasileiro no período ao qual se refere a reportagem, a probabilidade de ele ser um homem que acessa alguma rede social é",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "30/90",
+      "latex": "\\dfrac{30}{90}"
+    },
+    {
+      "letter": "B",
+      "text": "36/100",
+      "latex": "\\dfrac{36}{100}"
+    },
+    {
+      "letter": "C",
+      "text": "40/100",
+      "latex": "\\dfrac{40}{100}"
+    },
+    {
+      "letter": "D",
+      "text": "40/90",
+      "latex": "\\dfrac{40}{90}"
+    },
+    {
+      "letter": "E",
+      "text": "46/90",
+      "latex": "\\dfrac{46}{90}"
+    }
+  ],
+  "correct_answer": "B",
+  "assets": {
+    "images": [
+      {
+        "id": "q141_img_001",
+        "file": "images/raw/matematica/2025-141-img-001.png",
+        "alt": "Infográfico: 90% dos internautas brasileiros acessam redes sociais. Seção Mulheres x Homens indica que 60% dos internautas brasileiros que acessam redes sociais são mulheres (40% homens), com pictogramas.",
+        "caption": "",
+        "position": "context"
+      }
+    ],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 141,
+    "foreign_language_option": null,
+    "has_image": true,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

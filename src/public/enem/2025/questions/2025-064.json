@@ -1,0 +1,87 @@
+{
+  "id": "2025_q064",
+  "year": 2025,
+  "day": 1,
+  "number": 64,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "A Roda dos Expostos de Salvador (Bahia) data de 1726 e\nfoi uma das instituições implantadas com o objetivo de acolher\ne prover um encaminhamento para a criança recém-nascida\nabandonada. Essa assistência fundamentava-se em práticas\ncaritativas, paternalistas e imediatistas que visavam ao cuidado\nbásico da criança e, especialmente, à salvação da sua alma,\nvia batismo, devido à alta mortalidade.",
+    "source": {
+      "author": "BORRIONE, R.",
+      "title": "; CHAVES, A. M. Análise documental e contexto",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "de desenvolvimento. Disponível em: www.scielo.br. Acesso em: 15 ago. 2013. A instituição apresentada no texto justificava-se pelo(a)",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "A Roda dos Expostos de Salvador (Bahia) data de 1726 e\nfoi uma das instituições implantadas com o objetivo de acolher\ne prover um encaminhamento para a criança recém-nascida\nabandonada. Essa assistência fundamentava-se em práticas\ncaritativas, paternalistas e imediatistas que visavam ao cuidado\nbásico da criança e, especialmente, à salvação da sua alma,\nvia batismo, devido à alta mortalidade.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "de desenvolvimento. Disponível em: www.scielo.br. Acesso em: 15 ago. 2013.",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "A instituição apresentada no texto justificava-se pelo(a)",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "defesa de direitos humanos."
+    },
+    {
+      "letter": "B",
+      "text": "preceito de natureza sociorreligiosa."
+    },
+    {
+      "letter": "C",
+      "text": "reconhecimento de vínculos familiares."
+    },
+    {
+      "letter": "D",
+      "text": "discurso de cunho técnico-científico."
+    },
+    {
+      "letter": "E",
+      "text": "ideologia de caráter abolicionista."
+    }
+  ],
+  "correct_answer": "B",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 64,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

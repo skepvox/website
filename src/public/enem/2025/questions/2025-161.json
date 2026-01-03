@@ -1,0 +1,81 @@
+{
+  "id": "2025_q161",
+  "year": 2025,
+  "day": 2,
+  "number": 161,
+  "area": {
+    "code": "matematica",
+    "name": "Matemática e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "O dono de uma sorveteria armazena sorvete em potes de 20 000 cm3. Ele serve o sorvete em taças, em porções de 250 mL.",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "O dono de uma sorveteria armazena sorvete em potes de 20 000 cm3. Ele serve o sorvete em taças, em porções de 250 mL.",
+      "anchor": "before:assets:context",
+      "order": 1
+    }
+  ],
+  "prompt": {
+    "text": "A quantidade de taças que ele consegue servir a partir de um pote cheio de sorvete é",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "5.",
+      "latex": "\\text{5.}"
+    },
+    {
+      "letter": "B",
+      "text": "8.",
+      "latex": "\\text{8.}"
+    },
+    {
+      "letter": "C",
+      "text": "50.",
+      "latex": "\\text{50.}"
+    },
+    {
+      "letter": "D",
+      "text": "80.",
+      "latex": "\\text{80.}"
+    },
+    {
+      "letter": "E",
+      "text": "800.",
+      "latex": "\\text{800.}"
+    }
+  ],
+  "correct_answer": "D",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 161,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt updated"
+  }
+}

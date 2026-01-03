@@ -1,0 +1,22 @@
+{
+  "rows": 7,
+  "cols": 6,
+  "squareFill": "#c9c9c9",
+  "letterColor": "#2f2f2f",
+  "letters": [
+    { "id": "Q", "row": 0, "col": 4 },
+    { "id": "A", "row": 3, "col": 2, "placement": "corner" },
+    { "id": "S", "row": 3, "col": 4 },
+    { "id": "R", "row": 6, "col": 0 },
+    { "id": "P", "row": 6, "col": 4 },
+    { "id": "T", "row": 6, "col": 5 }
+  ],
+  "compass": {
+    "labels": {
+      "north": "N",
+      "south": "S",
+      "west": "O",
+      "east": "L"
+    }
+  }
+}

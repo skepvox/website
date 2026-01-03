@@ -1,0 +1,82 @@
+{
+  "id": "2025_q126",
+  "year": 2025,
+  "day": 2,
+  "number": 126,
+  "area": {
+    "code": "natureza",
+    "name": "Ciências da Natureza e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Objetos de prata escurecem em contato com compostos\ncontendo enxofre por causa da formação de uma fina camada\nde sulfeto de prata. Um método simples para clarear o objeto\nconsiste em forrar um recipiente com papel alumínio, adicionar\nao recipiente uma solução aquosa de cloreto de sódio e,\nenfim, mergulhar o objeto de prata enegrecido. Em cerca de\ntrês minutos, a prata volta à coloração original. As seguintes\nsemirreações e os respectivos potenciais-padrão de redução\nsão úteis para a compreensão dos fenômenos ocorridos.\nAg2S (s) + 2 e− → 2 Ag (s) + S2− (aq)\nO2 (g) + 4 H+ (aq) + 4 e− → 2 H2O (l)\nAl3+ (aq) + 3 e− → Al (s)\n−0,69 V\n+1,23 V\n−1,68 V",
+    "source": {
+      "author": "SARTORI, E. R.",
+      "title": "; BATISTA, E. F.; FATIBELLO-FILHO, O. Escurecimento e limpeza",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "de objetos de prata: um experimento simples e de fácil execução envolvendo reações de oxidação-redução. Química Nova na Escola, n. 30, 2008 (adaptado). Os valores das diferenças de potencial-padrão das reações que representam o escurecimento e o clareamento do objeto de prata são, respectivamente:",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Objetos de prata escurecem em contato com compostos\ncontendo enxofre por causa da formação de uma fina camada\nde sulfeto de prata. Um método simples para clarear o objeto\nconsiste em forrar um recipiente com papel alumínio, adicionar\nao recipiente uma solução aquosa de cloreto de sódio e,\nenfim, mergulhar o objeto de prata enegrecido. Em cerca de\ntrês minutos, a prata volta à coloração original. As seguintes\nsemirreações e os respectivos potenciais-padrão de redução\nsão úteis para a compreensão dos fenômenos ocorridos.\nAg2S (s) + 2 e− → 2 Ag (s) + S2− (aq)\nO2 (g) + 4 H+ (aq) + 4 e− → 2 H2O (l)\nAl3+ (aq) + 3 e− → Al (s)\n−0,69 V\n+1,23 V\n−1,68 V",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "de objetos de prata: um experimento simples e de fácil execução envolvendo reações de oxidação-redução. Química Nova na Escola, n. 30, 2008 (adaptado). Os valores das diferenças de potencial-padrão das reações que representam o escurecimento e o clareamento do objeto de prata são, respectivamente:",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "+0,54 V e +2,37 V."
+    },
+    {
+      "letter": "B",
+      "text": "+1,92 V e +0,99 V."
+    },
+    {
+      "letter": "C",
+      "text": "−0,15 V e +5,43 V."
+    },
+    {
+      "letter": "D",
+      "text": "+2,61 V e +1,29 V."
+    },
+    {
+      "letter": "E",
+      "text": "+0,15 V e −1,29 V."
+    }
+  ],
+  "correct_answer": "B",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 126,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

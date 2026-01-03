@@ -1,0 +1,82 @@
+{
+  "id": "2025_q085",
+  "year": 2025,
+  "day": 1,
+  "number": 85,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Do ponto de vista administrativo e judicial, a desapropriação\nda fazenda Cabaceiras, localizada na região sul do estado do\nPará, é a primeira da história motivada pelo desrespeito à função\nsocial de um imóvel rural, como prevê a Constituição Federal\nde 1988, em decorrência da exploração de “trabalho em condições\nanálogas à escravidão”. Na realidade, essa desapropriação não se\ndeu apenas pela ocorrência de relações de trabalho extremamente\ndegradantes, mas também pelas graves infrações ambientais\nverificadas na fazenda — o que também configura um ataque\nà função social da terra, de acordo com os preceitos constitucionais.",
+    "source": {
+      "author": "BARROS, C. J.",
+      "title": "A conquista da fazenda Cabaceiras. Disponível em:",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "www.agb.org.br. Acesso em: 15 maio 2023. O texto considera a promoção da justiça como um mecanismo de",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Do ponto de vista administrativo e judicial, a desapropriação\nda fazenda Cabaceiras, localizada na região sul do estado do\nPará, é a primeira da história motivada pelo desrespeito à função\nsocial de um imóvel rural, como prevê a Constituição Federal\nde 1988, em decorrência da exploração de “trabalho em condições\nanálogas à escravidão”. Na realidade, essa desapropriação não se\ndeu apenas pela ocorrência de relações de trabalho extremamente\ndegradantes, mas também pelas graves infrações ambientais\nverificadas na fazenda — o que também configura um ataque\nà função social da terra, de acordo com os preceitos constitucionais.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "www.agb.org.br. Acesso em: 15 maio 2023. O texto considera a promoção da justiça como um mecanismo de",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "manutenção da ordem agrária."
+    },
+    {
+      "letter": "B",
+      "text": "legitimação da propriedade privada."
+    },
+    {
+      "letter": "C",
+      "text": "hegemonia das classes dominantes."
+    },
+    {
+      "letter": "D",
+      "text": "revisão das desigualdades econômicas."
+    },
+    {
+      "letter": "E",
+      "text": "homogeneização da distribuição fundiária."
+    }
+  ],
+  "correct_answer": "D",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 85,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

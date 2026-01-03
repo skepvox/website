@@ -1,0 +1,80 @@
+{
+  "id": "2025_q062",
+  "year": 2025,
+  "day": 1,
+  "number": 62,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Os direitos do homem constituem uma classe variável, como\na história destes últimos séculos demonstra suficientemente.\nO elenco dos direitos do homem se modificou, e continua a se\nmodificar, com a mudança das condições históricas, ou seja,\ndos carecimentos e dos interesses, das classes no poder, dos meios\ndisponíveis para a realização dos mesmos, das transformações\ntécnicas. Direitos que foram declarados absolutos no final do\nséculo XVIII foram submetidos a radicais limitações nas declarações\ncontemporâneas; direitos que as declarações do século XVIII\nnem sequer mencionavam, como os direitos sociais, são agora\nproclamados com grande ostentação nas recentes declarações.",
+    "source": {
+      "author": "BOBBIO, N.",
+      "title": "A era dos direitos. Rio de Janeiro: Elsevier, 2004.",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "Os argumentos apresentados no texto sustentam que os direitos humanos são variáveis porque os considera como",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Os direitos do homem constituem uma classe variável, como\na história destes últimos séculos demonstra suficientemente.\nO elenco dos direitos do homem se modificou, e continua a se\nmodificar, com a mudança das condições históricas, ou seja,\ndos carecimentos e dos interesses, das classes no poder, dos meios\ndisponíveis para a realização dos mesmos, das transformações\ntécnicas. Direitos que foram declarados absolutos no final do\nséculo XVIII foram submetidos a radicais limitações nas declarações\ncontemporâneas; direitos que as declarações do século XVIII\nnem sequer mencionavam, como os direitos sociais, são agora\nproclamados com grande ostentação nas recentes declarações.",
+      "anchor": "before:assets:context",
+      "order": 1
+    }
+  ],
+  "prompt": {
+    "text": "Os argumentos apresentados no texto sustentam que os direitos humanos são variáveis porque os considera como",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "fenômenos espontâneos."
+    },
+    {
+      "letter": "B",
+      "text": "conquistas atemporais."
+    },
+    {
+      "letter": "C",
+      "text": "convenções coletivas."
+    },
+    {
+      "letter": "D",
+      "text": "resquícios religiosos."
+    },
+    {
+      "letter": "E",
+      "text": "imposições políticas."
+    }
+  ],
+  "correct_answer": "C",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 62,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

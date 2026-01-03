@@ -1,0 +1,82 @@
+{
+  "id": "2025_q082",
+  "year": 2025,
+  "day": 1,
+  "number": 82,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "TEXTO I\nO cinema constituía um encanto indefinível: além do\nentretenimento delicioso das vidas alheias por meio dos filmes,\no pretexto amável para os encontros de olhos, para a mostra\ndos vestidos, para as tagarelices com as vizinhas de cadeiras.",
+    "source": {
+      "author": "SETTE, M.",
+      "title": "Anquinhas e bernardas. São Paulo: Livraria Martins, 1940 (adaptado).",
+      "note": "adaptado"
+    },
+    "language": "pt"
+  },
+  "statement": "TEXTO II O pouco caso na seleção dos filmes para serem exibidos nos espetáculos diurnos tem sido causa de inúmeros dissabores sofridos pelos progenitores que levam os seus filhos ao cinema para recreá-los. Em toda parte, tanto nas casas de famílias como nos colégios, só se ouve a petizada falar em fitas, em artistas cinematográficos, nas proezas de William Hart ou nas façanhas de Mutt. O cinema e a criança. Diário de Pernambuco. 29 ago. 1925 (adaptado). Publicados na primeira metade do século XX, os textos apresentam",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "TEXTO I\nO cinema constituía um encanto indefinível: além do\nentretenimento delicioso das vidas alheias por meio dos filmes,\no pretexto amável para os encontros de olhos, para a mostra\ndos vestidos, para as tagarelices com as vizinhas de cadeiras.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "TEXTO II O pouco caso na seleção dos filmes para serem exibidos nos espetáculos diurnos tem sido causa de inúmeros dissabores sofridos pelos progenitores que levam os seus filhos ao cinema para recreá-los. Em toda parte, tanto nas casas de famílias como nos colégios, só se ouve a petizada falar em fitas, em artistas cinematográficos, nas proezas de William Hart ou nas façanhas de Mutt. O cinema e a criança. Diário de Pernambuco. 29 ago. 1925 (adaptado). Publicados na primeira metade do século XX, os textos apresentam",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "conclusões semelhantes sobre o mesmo suporte midiático."
+    },
+    {
+      "letter": "B",
+      "text": "argumentos contrários sobre o mesmo tipo de diversão."
+    },
+    {
+      "letter": "C",
+      "text": "discursos contraditórios sobre a mesma didática escolar."
+    },
+    {
+      "letter": "D",
+      "text": "regras teológicas acerca de um mesmo recurso pedagógico."
+    },
+    {
+      "letter": "E",
+      "text": "justificativas idênticas acerca de um mesmo aspecto cultural."
+    }
+  ],
+  "correct_answer": "B",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 82,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

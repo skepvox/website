@@ -1,0 +1,81 @@
+{
+  "id": "2025_q168",
+  "year": 2025,
+  "day": 2,
+  "number": 168,
+  "area": {
+    "code": "matematica",
+    "name": "Matemática e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "list",
+    "content": "Um carro que custa 60 mil reais é comercializado por uma revendedora que oferece duas opções de pagamento, todas sem entrada e sem juros:\n\n• opção 1: pagamento em \\(n\\) parcelas iguais;\n• opção 2: pagamento em 6 parcelas a mais do que na opção 1 e, com isso, o valor de cada parcela se torna R$ 500,00 menor do que o valor da parcela na opção 1.\n\nNas duas opções de pagamento, o valor total a ser pago pelo carro é o mesmo.",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Um carro que custa 60 mil reais é comercializado por uma revendedora que oferece duas opções de pagamento, todas sem entrada e sem juros:\n\n• opção 1: pagamento em \\(n\\) parcelas iguais;\n• opção 2: pagamento em 6 parcelas a mais do que na opção 1 e, com isso, o valor de cada parcela se torna R$ 500,00 menor do que o valor da parcela na opção 1.\n\nNas duas opções de pagamento, o valor total a ser pago pelo carro é o mesmo.",
+      "anchor": "before:assets:context",
+      "order": 1
+    }
+  ],
+  "prompt": {
+    "text": "Qual é a quantidade \\(n\\) de parcelas contidas na opção 1 de pagamento?",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "18",
+      "latex": "\\text{18}"
+    },
+    {
+      "letter": "B",
+      "text": "24",
+      "latex": "\\text{24}"
+    },
+    {
+      "letter": "C",
+      "text": "30",
+      "latex": "\\text{30}"
+    },
+    {
+      "letter": "D",
+      "text": "42",
+      "latex": "\\text{42}"
+    },
+    {
+      "letter": "E",
+      "text": "48",
+      "latex": "\\text{48}"
+    }
+  ],
+  "correct_answer": null,
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 168,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": true,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt updated; list context"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "2025_q054",
+  "year": 2025,
+  "day": 1,
+  "number": 54,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Adam Smith via o açougueiro e o padeiro não só como\nindivíduos buscando seus interesses financeiros, mas como pessoas\nmoralmente motivadas dentro de uma sociedade. A base da moral\nera a empatia e o julgamento, instaurando uma distinção entre o\nque queremos fazer e o que sentimos que devemos fazer.",
+    "source": {
+      "author": "COLLIER, P.",
+      "title": "O futuro do capitalismo. Porto Alegre: LP&M, 2019.",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "O texto defende uma motivação capitalista para o campo dos negócios, na qual o lucro se mostra associado à",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Adam Smith via o açougueiro e o padeiro não só como\nindivíduos buscando seus interesses financeiros, mas como pessoas\nmoralmente motivadas dentro de uma sociedade. A base da moral\nera a empatia e o julgamento, instaurando uma distinção entre o\nque queremos fazer e o que sentimos que devemos fazer.",
+      "anchor": "before:assets:context",
+      "order": 1
+    }
+  ],
+  "prompt": {
+    "text": "O texto defende uma motivação capitalista para o campo dos negócios, na qual o lucro se mostra associado à",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "consolidação do poder político."
+    },
+    {
+      "letter": "B",
+      "text": "procura de satisfação subjetiva."
+    },
+    {
+      "letter": "C",
+      "text": "estruturação do monopólio comercial."
+    },
+    {
+      "letter": "D",
+      "text": "percepção de responsabilidade ética."
+    },
+    {
+      "letter": "E",
+      "text": "conquista do reconhecimento público."
+    }
+  ],
+  "correct_answer": "D",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 54,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

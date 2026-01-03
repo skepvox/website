@@ -1,0 +1,87 @@
+{
+  "id": "2025_q025",
+  "year": 2025,
+  "day": 1,
+  "number": 25,
+  "area": {
+    "code": "linguagens",
+    "name": "Linguagens, Códigos e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Margot Robbie foi criticada por “não ser bonita o suficiente”\npara interpretar a Barbie. Recentemente, Paolla Oliveira foi\nchamada de gorda. Só fico pensando o que serei eu com mais de\n50 (também no peso), com a minha aparência comum. O corpo\nda mulher vive um reality show permanente: é sempre vigiado\ne fiscalizado, como se fosse domínio público. A mulher que não\natender aos estereótipos está sujeita a sofrer penalidades básicas,\ncomo distúrbios, obsessões, medo do próprio corpo e, é claro, dietas\nà base de rúcula. “A dieta é o sedativo político mais potente na\nhistória das mulheres”, escreveu Naomi Wolf, em 1991. A regra é\nnão haver singularidade, mascarar a passagem do tempo, imobilizar\na beleza (já imaginou como isso seria enfadonho?). O mandamento\né obedecer às regras sociais do bom comportamento corporal,\n“como deve ser”, não nos atos, mas na forma.",
+    "source": {
+      "author": "KORICH, B. S.",
+      "title": "Disponível em: www1.folha.uol.com.br.",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "Acesso em: 22 jan. 2024 (adaptado). Nesse texto, para introduzir a ideia de que a fiscalização permanente sobre o corpo afeta todas as mulheres, a autora",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Margot Robbie foi criticada por “não ser bonita o suficiente”\npara interpretar a Barbie. Recentemente, Paolla Oliveira foi\nchamada de gorda. Só fico pensando o que serei eu com mais de\n50 (também no peso), com a minha aparência comum. O corpo\nda mulher vive um reality show permanente: é sempre vigiado\ne fiscalizado, como se fosse domínio público. A mulher que não\natender aos estereótipos está sujeita a sofrer penalidades básicas,\ncomo distúrbios, obsessões, medo do próprio corpo e, é claro, dietas\nà base de rúcula. “A dieta é o sedativo político mais potente na\nhistória das mulheres”, escreveu Naomi Wolf, em 1991. A regra é\nnão haver singularidade, mascarar a passagem do tempo, imobilizar\na beleza (já imaginou como isso seria enfadonho?). O mandamento\né obedecer às regras sociais do bom comportamento corporal,\n“como deve ser”, não nos atos, mas na forma.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "Acesso em: 22 jan. 2024 (adaptado).",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "Nesse texto, para introduzir a ideia de que a fiscalização permanente sobre o corpo afeta todas as mulheres, a autora",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "faz um comentário sobre sua própria imagem."
+    },
+    {
+      "letter": "B",
+      "text": "destaca avaliações particulares entre parênteses."
+    },
+    {
+      "letter": "C",
+      "text": "cita um formato de programa influente no segmento da beleza."
+    },
+    {
+      "letter": "D",
+      "text": "utiliza declaração de uma jornalista como argumento de autoridade."
+    },
+    {
+      "letter": "E",
+      "text": "enumera críticas à aparência de mulheres consideradas padrões de beleza."
+    }
+  ],
+  "correct_answer": "E",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 25,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

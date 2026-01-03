@@ -38,6 +38,10 @@ const nav: ThemeConfig['nav'] = [
       { text: 'Louis Lavelle', link: '/filosofia/louis-lavelle/de-l-etre' },
     ]
   },
+  {
+    text: 'ENEM',
+    link: '/enem/2025/matematica'
+  },
 ]
 
 export const sidebar: ThemeConfig['sidebar'] = {
@@ -108,6 +112,26 @@ export const sidebar: ThemeConfig['sidebar'] = {
       ]
     }
   ], 
+
+  '/enem-sandbox/': [
+    {
+      text: 'ENEM Sandbox 2025',
+      items: [
+        { text: 'Linguagens', link: '/enem-sandbox/2025/linguagens' },
+        { text: 'Humanas', link: '/enem-sandbox/2025/humanas' },
+        { text: 'Natureza', link: '/enem-sandbox/2025/natureza' },
+        { text: 'Matemática', link: '/enem-sandbox/2025/matematica' }
+      ]
+    }
+  ],
+  '/enem/': [
+    {
+      text: 'ENEM 2025',
+      items: [
+        { text: 'Matemática', link: '/enem/2025/matematica' }
+      ]
+    }
+  ],
 
   '/guide/': [
     {

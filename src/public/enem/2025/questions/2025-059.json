@@ -1,0 +1,82 @@
+{
+  "id": "2025_q059",
+  "year": 2025,
+  "day": 1,
+  "number": 59,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Macedônia do Norte\nAcordo entra em vigor e país muda oficialmente de nome\nEntrou em vigor, em 2019, o acordo que determina a mudança de nome da Macedônia para Macedônia do Norte. A troca\npõe fim — ao menos por enquanto — no impasse entre essa antiga república da Iugoslávia e a vizinha Grécia. O governo grego\nse opunha ao uso do nome Macedônia pelo novo país vizinho porque a Grécia tem uma província no norte com o mesmo nome.\nPor causa desse impasse, a Grécia bloqueou as negociações de adesão de seu vizinho à União Europeia. Depois de negociações,\nas duas partes chegaram a um acordo.",
+    "source": {
+      "url": "https://g1.globo.com",
+      "access_date": "7 nov. 2021",
+      "note": "adaptado"
+    },
+    "language": "pt"
+  },
+  "statement": "Para o país originado da antiga Iugoslávia, a mudança de nome é uma estratégia política para",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Macedônia do Norte\nAcordo entra em vigor e país muda oficialmente de nome\nEntrou em vigor, em 2019, o acordo que determina a mudança de nome da Macedônia para Macedônia do Norte. A troca\npõe fim — ao menos por enquanto — no impasse entre essa antiga república da Iugoslávia e a vizinha Grécia. O governo grego\nse opunha ao uso do nome Macedônia pelo novo país vizinho porque a Grécia tem uma província no norte com o mesmo nome.\nPor causa desse impasse, a Grécia bloqueou as negociações de adesão de seu vizinho à União Europeia. Depois de negociações,\nas duas partes chegaram a um acordo.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "Para o país originado da antiga Iugoslávia, a mudança de nome é uma estratégia política para",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "criar a moeda própria."
+    },
+    {
+      "letter": "B",
+      "text": "proteger a cultura local."
+    },
+    {
+      "letter": "C",
+      "text": "subjugar a minoria étnica."
+    },
+    {
+      "letter": "D",
+      "text": "expandir o território nacional."
+    },
+    {
+      "letter": "E",
+      "text": "intensificar a integração regional."
+    }
+  ],
+  "correct_answer": "E",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 59,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

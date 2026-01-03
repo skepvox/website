@@ -1,0 +1,80 @@
+{
+  "id": "2025_q088",
+  "year": 2025,
+  "day": 1,
+  "number": 88,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Para que a utopia nasça, é preciso duas condições. A primeira é a forte sensação de que o mundo não está funcionando adequadamente\ne deve ter seus fundamentos revistos para que se reajuste. A segunda condição é a existência de uma confiança no potencial humano\nà altura da tarefa de reformar o mundo, a crença de que nós, seres humanos, podemos fazê-lo, sendo capazes de perceber o que\nestá errado com o mundo, o que precisa ser modificado, quais são os pontos problemáticos, e ter força e coragem para extirpá-los.",
+    "source": {
+      "author": "BAUMAN, Z.",
+      "title": "apud OLIVEIRA, D. Bauman: para que a utopia renasça, é preciso confiar no potencial humano. Revista Cult, jan. 2017.",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "De acordo com o autor, qual é a função da utopia no contexto das transformações sociais?",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Para que a utopia nasça, é preciso duas condições. A primeira é a forte sensação de que o mundo não está funcionando adequadamente\ne deve ter seus fundamentos revistos para que se reajuste. A segunda condição é a existência de uma confiança no potencial humano\nà altura da tarefa de reformar o mundo, a crença de que nós, seres humanos, podemos fazê-lo, sendo capazes de perceber o que\nestá errado com o mundo, o que precisa ser modificado, quais são os pontos problemáticos, e ter força e coragem para extirpá-los.",
+      "anchor": "before:assets:context",
+      "order": 1
+    }
+  ],
+  "prompt": {
+    "text": "De acordo com o autor, qual é a função da utopia no contexto das transformações sociais?",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "Habilitar memórias afetivas."
+    },
+    {
+      "letter": "B",
+      "text": "Apontar alternativas possíveis."
+    },
+    {
+      "letter": "C",
+      "text": "Legitimar experiências pretéritas."
+    },
+    {
+      "letter": "D",
+      "text": "Perpetuar paradigmas científicos."
+    },
+    {
+      "letter": "E",
+      "text": "Empreender soluções conclusivas."
+    }
+  ],
+  "correct_answer": "B",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 88,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

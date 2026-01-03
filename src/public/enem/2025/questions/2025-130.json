@@ -1,0 +1,78 @@
+{
+  "id": "2025_q130",
+  "year": 2025,
+  "day": 2,
+  "number": 130,
+  "area": {
+    "code": "natureza",
+    "name": "Ciências da Natureza e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "A dimetilamina é uma substância de elevada toxidez que\nentra em ebulição a 7 °C. Na madrugada de um dia frio, essa\nsubstância se espalhou por uma rodovia após um acidente de\ntrânsito envolvendo um caminhão que transportava esse produto.\nPara minimizar a agressão ao meio ambiente, bem como evitar\na evaporação da dimetilamina com a elevação da temperatura\nao longo do dia, um químico considerou o uso de algumas\nsubstâncias ou misturas como água, vinagre, óleo de soja, sal\nde cozinha e bicarbonato de sódio.",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "Dentre as opções apresentadas, o tratamento correto para minimizar esse problema é usar",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "A dimetilamina é uma substância de elevada toxidez que\nentra em ebulição a 7 °C. Na madrugada de um dia frio, essa\nsubstância se espalhou por uma rodovia após um acidente de\ntrânsito envolvendo um caminhão que transportava esse produto.\nPara minimizar a agressão ao meio ambiente, bem como evitar\na evaporação da dimetilamina com a elevação da temperatura\nao longo do dia, um químico considerou o uso de algumas\nsubstâncias ou misturas como água, vinagre, óleo de soja, sal\nde cozinha e bicarbonato de sódio.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "Dentre as opções apresentadas, o tratamento correto para minimizar esse problema é usar",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "água."
+    },
+    {
+      "letter": "B",
+      "text": "vinagre."
+    },
+    {
+      "letter": "C",
+      "text": "óleo de soja."
+    },
+    {
+      "letter": "D",
+      "text": "sal de cozinha."
+    },
+    {
+      "letter": "E",
+      "text": "bicarbonato de sódio."
+    }
+  ],
+  "correct_answer": "B",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 130,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "2025_q032",
+  "year": 2025,
+  "day": 1,
+  "number": 32,
+  "area": {
+    "code": "linguagens",
+    "name": "Linguagens, Códigos e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": null,
+  "statement": "https://roseanamurray.com. Acesso em: 5 maio 2024. Nesse texto, a autora aborda diferentes sentidos da palavra “rede” para evidenciar",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "statement",
+      "text": "https://roseanamurray.com. Acesso em: 5 maio 2024.",
+      "anchor": "before:options",
+      "order": 1
+    }
+  ],
+  "prompt": {
+    "text": "Nesse texto, a autora aborda diferentes sentidos da palavra “rede” para evidenciar",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "as formas de comunicação em meios digitais."
+    },
+    {
+      "letter": "B",
+      "text": "a necessidade de atualização das mídias sociais."
+    },
+    {
+      "letter": "C",
+      "text": "os conflitos de identidade dos usuários da internet."
+    },
+    {
+      "letter": "D",
+      "text": "o impacto das tecnologias nas interações humanas."
+    },
+    {
+      "letter": "E",
+      "text": "os desejos de compartilhar vivências com os amigos."
+    }
+  ],
+  "correct_answer": "D",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 32,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

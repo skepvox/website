@@ -1,0 +1,82 @@
+{
+  "id": "2025_q021",
+  "year": 2025,
+  "day": 1,
+  "number": 21,
+  "area": {
+    "code": "linguagens",
+    "name": "Linguagens, Códigos e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "O retrato como gênero da pintura ocidental ficou vinculado\nàs elites, tornando invisíveis as populações que não faziam parte\ndo círculo dominante. Num país de tradição escravocrata e\ncolonizado por europeus como o Brasil, pouquíssimas pessoas\nnegras e indígenas foram retratadas em pintura, e menos ainda\nidentificadas com seus nomes nos retratos. Daí a importância,\npara a história da arte e para a história brasileira, dos retratos\nde Dalton Paula.",
+    "source": {
+      "url": "www.masp.org.br",
+      "access_date": "5 maio 2024",
+      "note": "adaptado"
+    },
+    "language": "pt"
+  },
+  "statement": "Ao dar protagonismo a Zeferina e a João de Deus Nascimento, o artista Dalton Paula evidencia que a(s)",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "O retrato como gênero da pintura ocidental ficou vinculado\nàs elites, tornando invisíveis as populações que não faziam parte\ndo círculo dominante. Num país de tradição escravocrata e\ncolonizado por europeus como o Brasil, pouquíssimas pessoas\nnegras e indígenas foram retratadas em pintura, e menos ainda\nidentificadas com seus nomes nos retratos. Daí a importância,\npara a história da arte e para a história brasileira, dos retratos\nde Dalton Paula.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "Ao dar protagonismo a Zeferina e a João de Deus Nascimento, o artista Dalton Paula evidencia que a(s)",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "arte pode promover formas de afirmação de identidade social."
+    },
+    {
+      "letter": "B",
+      "text": "comunidades periféricas passam a adquirir o gênero retrato."
+    },
+    {
+      "letter": "C",
+      "text": "personagens retratadas simbolizam a sociedade brasileira."
+    },
+    {
+      "letter": "D",
+      "text": "pintura funciona como instrumento de ascensão social."
+    },
+    {
+      "letter": "E",
+      "text": "imagens tradicionais preservam memórias afetivas."
+    }
+  ],
+  "correct_answer": "A",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 21,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

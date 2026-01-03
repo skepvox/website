@@ -1,0 +1,87 @@
+{
+  "id": "2025_q053",
+  "year": 2025,
+  "day": 1,
+  "number": 53,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Pela falta de chuvas, a geração de energia eólica, solar e\ntérmica atingiu níveis recordes em agosto de 2021, quando\nas hidrelétricas ficaram com cerca de 50% do total. Para um\nprofessor da Universidade Federal da Bahia, essa queda não\né uma surpresa. “Não aconteceu de uma hora para outra.\nSe olharmos o mapa do Brasil, um dos grandes provedores de\nágua é a Floresta Amazônica. Se você diminui a floresta, diminui\na quantidade de água que vai para a atmosfera”, explica.",
+    "source": {
+      "author": "BORGES, T.",
+      "title": "O fantasma do apagão. Disponível em:",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "www.correio24horas.com.br. Acesso em: 9 out. 2021 (adaptado). De acordo com o texto, a dificuldade na produção de energia é causada pela alteração da(s)",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Pela falta de chuvas, a geração de energia eólica, solar e\ntérmica atingiu níveis recordes em agosto de 2021, quando\nas hidrelétricas ficaram com cerca de 50% do total. Para um\nprofessor da Universidade Federal da Bahia, essa queda não\né uma surpresa. “Não aconteceu de uma hora para outra.\nSe olharmos o mapa do Brasil, um dos grandes provedores de\nágua é a Floresta Amazônica. Se você diminui a floresta, diminui\na quantidade de água que vai para a atmosfera”, explica.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "www.correio24horas.com.br. Acesso em: 9 out. 2021 (adaptado).",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "De acordo com o texto, a dificuldade na produção de energia é causada pela alteração da(s)",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "variável em pesquisas meteorológicas."
+    },
+    {
+      "letter": "B",
+      "text": "paisagem em locais estratégicos."
+    },
+    {
+      "letter": "C",
+      "text": "demandas em regiões industriais."
+    },
+    {
+      "letter": "D",
+      "text": "metas em acordos climáticos."
+    },
+    {
+      "letter": "E",
+      "text": "geologia em áreas naturais."
+    }
+  ],
+  "correct_answer": "B",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 53,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

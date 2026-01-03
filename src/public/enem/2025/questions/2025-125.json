@@ -1,0 +1,87 @@
+{
+  "id": "2025_q125",
+  "year": 2025,
+  "day": 2,
+  "number": 125,
+  "area": {
+    "code": "natureza",
+    "name": "Ciências da Natureza e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Alguns hormônios sexuais têm ganhado notável atenção nos\núltimos anos por suas concentrações cada vez maiores no solo e\nna água em todo o mundo. O motivo da preocupação é porque,\nem níveis poluentes, eles têm sido associados ao câncer de mama\ne ao câncer de próstata, além de perturbarem a fisiologia dos\npeixes, podendo, ainda, afetarem o desenvolvimento reprodutivo\nde animais domésticos e selvagens. Assim, o descarte inadequado\ndesses hormônios representa uma séria ameaça ao solo, plantas,\nrecursos hídricos e humanos. De baixa polaridade, eles apresentam\numa solubilidade pequena e variável em água, dependendo dos\ngrupos presentes em suas estruturas, representando um grande\nrisco para os ambientes aquáticos. As figuras a seguir apresentam\nas estruturas de alguns desses hormônios.",
+    "source": {
+      "author": "MUHAMMAD, A.",
+      "title": "et al. Environmental Impact of Estrogens",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "on Human, Animal and Plant Life: a Critical Review. Environment International, n. 99, 2017 (adaptado). Do ponto de vista das interações químicas, qual desses hormônios apresenta maior solubilidade em ambientes aquáticos?",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Alguns hormônios sexuais têm ganhado notável atenção nos\núltimos anos por suas concentrações cada vez maiores no solo e\nna água em todo o mundo. O motivo da preocupação é porque,\nem níveis poluentes, eles têm sido associados ao câncer de mama\ne ao câncer de próstata, além de perturbarem a fisiologia dos\npeixes, podendo, ainda, afetarem o desenvolvimento reprodutivo\nde animais domésticos e selvagens. Assim, o descarte inadequado\ndesses hormônios representa uma séria ameaça ao solo, plantas,\nrecursos hídricos e humanos. De baixa polaridade, eles apresentam\numa solubilidade pequena e variável em água, dependendo dos\ngrupos presentes em suas estruturas, representando um grande\nrisco para os ambientes aquáticos. As figuras a seguir apresentam\nas estruturas de alguns desses hormônios.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "on Human, Animal and Plant Life: a Critical Review. Environment International, n. 99, 2017 (adaptado).",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "Do ponto de vista das interações químicas, qual desses hormônios apresenta maior solubilidade em ambientes aquáticos?",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "Estradiol."
+    },
+    {
+      "letter": "B",
+      "text": "Estriol."
+    },
+    {
+      "letter": "C",
+      "text": "Estrona."
+    },
+    {
+      "letter": "D",
+      "text": "Novestrol."
+    },
+    {
+      "letter": "E",
+      "text": "Noretindrona."
+    }
+  ],
+  "correct_answer": "B",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 125,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

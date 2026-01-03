@@ -1,0 +1,80 @@
+{
+  "id": "2025_q033",
+  "year": 2025,
+  "day": 1,
+  "number": 33,
+  "area": {
+    "code": "linguagens",
+    "name": "Linguagens, Códigos e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Muitos pensam que narrativa curta é sinônimo de conto,\nperdendo de vista gêneros que, por tradição ruim, continuam à\nmargem da nobreza. Acontece que o conto tem uma densidade\nespecífica, centrando-se na exemplaridade de um instante da\ncondição humana, sem que essa exemplaridade se refira à valoração\nmoral, já que uma grande mazela pode muito bem exemplificar uma\ndas nossas faces. A crônica não tem essa característica. Conservou a\nmarca do registro circunstancial feito por narrador-repórter que relata\num fato para muitos leitores que formam um público determinado.\nMas que público é esse? Sendo a crônica uma soma de jornalismo\ne literatura (daí a imagem do narrador-repórter), dirige-se a uma\nclasse que tem preferência pelo jornal em que ela é publicada, o\nque significa uma espécie de censura ou, pelo menos, de limitação: a\nideologia do veículo corresponde ao interesse dos seus consumidores,\ndirecionados pelos proprietários dos periódicos e/ou pelos editores-\n-chefes da redação. Ocorre ainda o limite de espaço, uma vez que\na página comporta várias matérias, o que impõe a cada uma delas\num número restrito de laudas, obrigando o redator a explorar, da\nmaneira mais econômica possível, o pequeno espaço de que dispõe.\nÉ dessa economia que nasce sua riqueza estrutural.",
+    "source": {
+      "author": "SÁ, J.",
+      "title": "A crônica. São Paulo: Ática, 1987 (adaptado).",
+      "note": "adaptado"
+    },
+    "language": "pt"
+  },
+  "statement": "De acordo com esse texto, o aspecto tecnológico que influencia a composição do gênero crônica advém da",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Muitos pensam que narrativa curta é sinônimo de conto,\nperdendo de vista gêneros que, por tradição ruim, continuam à\nmargem da nobreza. Acontece que o conto tem uma densidade\nespecífica, centrando-se na exemplaridade de um instante da\ncondição humana, sem que essa exemplaridade se refira à valoração\nmoral, já que uma grande mazela pode muito bem exemplificar uma\ndas nossas faces. A crônica não tem essa característica. Conservou a\nmarca do registro circunstancial feito por narrador-repórter que relata\num fato para muitos leitores que formam um público determinado.\nMas que público é esse? Sendo a crônica uma soma de jornalismo\ne literatura (daí a imagem do narrador-repórter), dirige-se a uma\nclasse que tem preferência pelo jornal em que ela é publicada, o\nque significa uma espécie de censura ou, pelo menos, de limitação: a\nideologia do veículo corresponde ao interesse dos seus consumidores,\ndirecionados pelos proprietários dos periódicos e/ou pelos editores-\n-chefes da redação. Ocorre ainda o limite de espaço, uma vez que\na página comporta várias matérias, o que impõe a cada uma delas\num número restrito de laudas, obrigando o redator a explorar, da\nmaneira mais econômica possível, o pequeno espaço de que dispõe.\nÉ dessa economia que nasce sua riqueza estrutural.",
+      "anchor": "before:assets:context",
+      "order": 1
+    }
+  ],
+  "prompt": {
+    "text": "De acordo com esse texto, o aspecto tecnológico que influencia a composição do gênero crônica advém da",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "conexão ideológica."
+    },
+    {
+      "letter": "B",
+      "text": "densidade temática."
+    },
+    {
+      "letter": "C",
+      "text": "ênfase no público leitor."
+    },
+    {
+      "letter": "D",
+      "text": "apresentação de uma moral."
+    },
+    {
+      "letter": "E",
+      "text": "restrição espacial do suporte."
+    }
+  ],
+  "correct_answer": "E",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 33,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

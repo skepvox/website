@@ -1,0 +1,87 @@
+{
+  "id": "2025_q066",
+  "year": 2025,
+  "day": 1,
+  "number": 66,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Cidade sustentável é o assentamento humano constituído\npor uma sociedade com consciência de seu papel de agente\ntransformador dos espaços e cuja relação não se dá pela razão\nnatureza-objeto, e sim por uma ação sinérgica entre prudência\necológica, eficiência energética e equidade socioespacial.",
+    "source": {
+      "author": "ROMERO, M.",
+      "title": "Frentes do urbano para a construção de indicadores de",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "sustentabilidade intraurbana. Paranoá, n. 4, nov. 2007. Uma medida pública que contradiz o modelo de cidade exposto no texto é a",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Cidade sustentável é o assentamento humano constituído\npor uma sociedade com consciência de seu papel de agente\ntransformador dos espaços e cuja relação não se dá pela razão\nnatureza-objeto, e sim por uma ação sinérgica entre prudência\necológica, eficiência energética e equidade socioespacial.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "sustentabilidade intraurbana. Paranoá, n. 4, nov. 2007.",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "prompt": {
+    "text": "Uma medida pública que contradiz o modelo de cidade exposto no texto é a",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "coleta seletiva de lixo."
+    },
+    {
+      "letter": "B",
+      "text": "reutilização das águas pluviais."
+    },
+    {
+      "letter": "C",
+      "text": "canalização dos cursos hídricos."
+    },
+    {
+      "letter": "D",
+      "text": "arborização das avenidas centrais."
+    },
+    {
+      "letter": "E",
+      "text": "educação ambiental da comunidade."
+    }
+  ],
+  "correct_answer": "C",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 66,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

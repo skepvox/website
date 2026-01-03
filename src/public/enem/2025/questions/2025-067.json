@@ -1,0 +1,80 @@
+{
+  "id": "2025_q067",
+  "year": 2025,
+  "day": 1,
+  "number": 67,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Nos Estados Unidos, um hotel perto de um parque foi engolido\npor uma enorme cratera. E não é a primeira vez que esse tipo\nde incidente acontece na Flórida. Em minutos, uma ala inteira\ndo hotel era engolida pela cratera de 30 metros de diâmetro e\ncinco de profundidade. O diretor do resort em Clermont, perto\ndos parques temáticos da Flórida, diz que o prédio tinha 15 anos,\ne que até então o solo nunca havia apresentado problemas.\nOs afundamentos são um fenômeno comum na Flórida por\ncausa das formações de calcário e argila no subsolo, mas às vezes\nchuvas fortes, ou a drenagem do solo para construção, acabam\ncontribuindo para o surgimento desses buracos.",
+    "source": {
+      "url": "http://g1.globo.com",
+      "access_date": "10 dez. 2024",
+      "note": "adaptado"
+    },
+    "language": "pt"
+  },
+  "statement": "A situação de desmoronamento do solo descrita no texto origina-se da",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Nos Estados Unidos, um hotel perto de um parque foi engolido\npor uma enorme cratera. E não é a primeira vez que esse tipo\nde incidente acontece na Flórida. Em minutos, uma ala inteira\ndo hotel era engolida pela cratera de 30 metros de diâmetro e\ncinco de profundidade. O diretor do resort em Clermont, perto\ndos parques temáticos da Flórida, diz que o prédio tinha 15 anos,\ne que até então o solo nunca havia apresentado problemas.\nOs afundamentos são um fenômeno comum na Flórida por\ncausa das formações de calcário e argila no subsolo, mas às vezes\nchuvas fortes, ou a drenagem do solo para construção, acabam\ncontribuindo para o surgimento desses buracos.",
+      "anchor": "before:assets:context",
+      "order": 1
+    }
+  ],
+  "prompt": {
+    "text": "A situação de desmoronamento do solo descrita no texto origina-se da",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
+  "options": [
+    {
+      "letter": "A",
+      "text": "cristalização da estrutura geológica."
+    },
+    {
+      "letter": "B",
+      "text": "ação do intemperismo químico."
+    },
+    {
+      "letter": "C",
+      "text": "recomposição da mata ciliar."
+    },
+    {
+      "letter": "D",
+      "text": "acumulação de sedimentos orgânicos."
+    },
+    {
+      "letter": "E",
+      "text": "impermeabilização da superfície ocupada."
+    }
+  ],
+  "correct_answer": "B",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 67,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

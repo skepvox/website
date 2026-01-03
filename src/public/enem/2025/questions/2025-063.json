@@ -1,0 +1,82 @@
+{
+  "id": "2025_q063",
+  "year": 2025,
+  "day": 1,
+  "number": 63,
+  "area": {
+    "code": "humanas",
+    "name": "Ciências Humanas e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Carro elétrico, uma miragem ecológica\nA mudança para a eletromobilidade de fato promove uma\nalteração no consumo de recursos naturais. Hoje, amplamente\ndependentes do petróleo, nossos modais de transporte poderiam\nse tornar cada vez mais dependentes de trinta metais raros. Gálio,\ntântalo, cobalto, platinoides, tungstênio, metais de terras-raras: uma\nmina contém apenas ínfimas quantidades desses metais dotados\nde fabulosas propriedades eletrônicas, ópticas e magnéticas.",
+    "source": {
+      "author": "PITRON, G.",
+      "title": "Revolução tecnológica, transformação geopolítica. Disponível em:",
+      "note": null
+    },
+    "language": "pt"
+  },
+  "statement": "https://diplomatique.org.br. Acesso em: 10 dez. 2018. No que se refere ao desenvolvimento sustentável, a charge e o texto indicam uma contradição no uso da tecnologia alternativa derivada do seguinte aspecto:",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Carro elétrico, uma miragem ecológica\nA mudança para a eletromobilidade de fato promove uma\nalteração no consumo de recursos naturais. Hoje, amplamente\ndependentes do petróleo, nossos modais de transporte poderiam\nse tornar cada vez mais dependentes de trinta metais raros. Gálio,\ntântalo, cobalto, platinoides, tungstênio, metais de terras-raras: uma\nmina contém apenas ínfimas quantidades desses metais dotados\nde fabulosas propriedades eletrônicas, ópticas e magnéticas.",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "https://diplomatique.org.br. Acesso em: 10 dez. 2018. No que se refere ao desenvolvimento sustentável, a charge e o texto indicam uma contradição no uso da tecnologia alternativa derivada do seguinte aspecto:",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "Necessidade de fontes não renováveis."
+    },
+    {
+      "letter": "B",
+      "text": "Padronização dos modelos produtivos."
+    },
+    {
+      "letter": "C",
+      "text": "Demanda de mão de obra qualificada."
+    },
+    {
+      "letter": "D",
+      "text": "Precariedade da legislação industrial."
+    },
+    {
+      "letter": "E",
+      "text": "Utilização de materiais recicláveis."
+    }
+  ],
+  "correct_answer": "A",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 63,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "2025_q123",
+  "year": 2025,
+  "day": 2,
+  "number": 123,
+  "area": {
+    "code": "natureza",
+    "name": "Ciências da Natureza e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "O ácido úsnico é retirado de liquens e foi testado contra\ndiversas espécies, conforme o quadro.\nTeste\nResultado\nAedes aegypti (larvas)\nBaixa eficiência\nBacilo de Koch\nMédia eficiência\nMoluscos aquáticos (adultos)\nAlta eficiência\nPernilongo (larvas)\nMédia eficiência\nVermes platelmintos\nIneficiente",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "O ácido úsnico mostrou-se mais indicado para o controle da",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "O ácido úsnico é retirado de liquens e foi testado contra\ndiversas espécies, conforme o quadro.\nTeste\nResultado\nAedes aegypti (larvas)\nBaixa eficiência\nBacilo de Koch\nMédia eficiência\nMoluscos aquáticos (adultos)\nAlta eficiência\nPernilongo (larvas)\nMédia eficiência\nVermes platelmintos\nIneficiente",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "O ácido úsnico mostrou-se mais indicado para o controle da",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "esquistossomose."
+    },
+    {
+      "letter": "B",
+      "text": "febre amarela."
+    },
+    {
+      "letter": "C",
+      "text": "coqueluche."
+    },
+    {
+      "letter": "D",
+      "text": "tuberculose."
+    },
+    {
+      "letter": "E",
+      "text": "dengue."
+    }
+  ],
+  "correct_answer": "A",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 123,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

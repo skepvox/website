@@ -1,0 +1,78 @@
+{
+  "id": "2025_q127",
+  "year": 2025,
+  "day": 2,
+  "number": 127,
+  "area": {
+    "code": "natureza",
+    "name": "Ciências da Natureza e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "Apaixonada por culinária e química, uma chefe de cozinha\ncalculou que, para promover o crescimento adequado da\nmassa durante o cozimento de um bolo a 180 °C (453 K) e\n1,00 atm, ela precisaria utilizar uma quantidade de fermento\nquímico suficiente para produzir um volume de gás igual a\n4,00 L. Com esse objetivo, ela escolheu utilizar o bicarbonato de\namônio, um composto que, sob aquecimento, degrada-se em\ntrês gases distintos, que são os responsáveis pelo crescimento\nda massa. A decomposição do bicarbonato de amônio ocorre\nconforme a equação química apresentada e, nas condições do\ncozimento, seu rendimento é de 80%.\nNH4HCO3 (s) → NH3 (g) + CO2 (g) + H2O (g)\nConsidere que a mistura dos gases se comporta como gás\nideal nas condições de cozimento utilizadas pela chefe.\nDados: Massa molar do NH4HCO3 = 79 g ⋅ mol−1 e\nR = 0,082 atm ⋅ L ⋅ mol−1 ⋅ K−1.\nA massa, em grama, de bicarbonato de amônio que ela deve",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "utilizar é mais próxima de",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "Apaixonada por culinária e química, uma chefe de cozinha\ncalculou que, para promover o crescimento adequado da\nmassa durante o cozimento de um bolo a 180 °C (453 K) e\n1,00 atm, ela precisaria utilizar uma quantidade de fermento\nquímico suficiente para produzir um volume de gás igual a\n4,00 L. Com esse objetivo, ela escolheu utilizar o bicarbonato de\namônio, um composto que, sob aquecimento, degrada-se em\ntrês gases distintos, que são os responsáveis pelo crescimento\nda massa. A decomposição do bicarbonato de amônio ocorre\nconforme a equação química apresentada e, nas condições do\ncozimento, seu rendimento é de 80%.\nNH4HCO3 (s) → NH3 (g) + CO2 (g) + H2O (g)\nConsidere que a mistura dos gases se comporta como gás\nideal nas condições de cozimento utilizadas pela chefe.\nDados: Massa molar do NH4HCO3 = 79 g ⋅ mol−1 e\nR = 0,082 atm ⋅ L ⋅ mol−1 ⋅ K−1.\nA massa, em grama, de bicarbonato de amônio que ela deve",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "utilizar é mais próxima de",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "2,3 g."
+    },
+    {
+      "letter": "B",
+      "text": "3,5 g."
+    },
+    {
+      "letter": "C",
+      "text": "5,9 g."
+    },
+    {
+      "letter": "D",
+      "text": "6,8 g."
+    },
+    {
+      "letter": "E",
+      "text": "8,9 g."
+    }
+  ],
+  "correct_answer": "B",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 127,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

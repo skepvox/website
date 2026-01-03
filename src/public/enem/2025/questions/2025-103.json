@@ -1,0 +1,78 @@
+{
+  "id": "2025_q103",
+  "year": 2025,
+  "day": 2,
+  "number": 103,
+  "area": {
+    "code": "natureza",
+    "name": "Ciências da Natureza e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": {
+    "type": "text",
+    "content": "A produção de vacinas exige uma sequência de procedimentos,\nalém do cumprimento estrito de verificações de segurança.\nNo esquema, estão demonstradas as etapas básicas realizadas\npara a fabricação de uma vacina utilizando a tecnologia tradicional\ne o efeito dela no organismo.\nO antígeno utilizado na vacina causa um efeito protetor contra",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "o vírus porque",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "context",
+      "text": "A produção de vacinas exige uma sequência de procedimentos,\nalém do cumprimento estrito de verificações de segurança.\nNo esquema, estão demonstradas as etapas básicas realizadas\npara a fabricação de uma vacina utilizando a tecnologia tradicional\ne o efeito dela no organismo.\nO antígeno utilizado na vacina causa um efeito protetor contra",
+      "anchor": "before:assets:context",
+      "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "statement",
+      "text": "o vírus porque",
+      "anchor": "before:options",
+      "order": 2
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "mata o vírus pela ligação."
+    },
+    {
+      "letter": "B",
+      "text": "aglutina o vírus por associação."
+    },
+    {
+      "letter": "C",
+      "text": "contém imunoglobulinas de defesa."
+    },
+    {
+      "letter": "D",
+      "text": "induz a produção de proteínas neutralizadoras."
+    },
+    {
+      "letter": "E",
+      "text": "mantém a quantidade de anticorpos preexistentes."
+    }
+  ],
+  "correct_answer": "D",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 103,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}

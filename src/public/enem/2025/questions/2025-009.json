@@ -1,0 +1,66 @@
+{
+  "id": "2025_q009",
+  "year": 2025,
+  "day": 1,
+  "number": 9,
+  "area": {
+    "code": "linguagens",
+    "name": "Linguagens, Códigos e suas Tecnologias"
+  },
+  "subject": null,
+  "competency": null,
+  "skill": null,
+  "context": null,
+  "statement": "A autora conclui que as novas tecnologias de escrita",
+  "text_flow": [
+    {
+      "id": "t1",
+      "scope": "statement",
+      "text": "A autora conclui que as novas tecnologias de escrita",
+      "anchor": "before:options",
+      "order": 1
+    }
+  ],
+  "options": [
+    {
+      "letter": "A",
+      "text": "evoluem para facilitar a vida cotidiana."
+    },
+    {
+      "letter": "B",
+      "text": "alcançam diferentes realidades sociais."
+    },
+    {
+      "letter": "C",
+      "text": "coexistem com outras já estabelecidas."
+    },
+    {
+      "letter": "D",
+      "text": "promovem maior agilidade na comunicação."
+    },
+    {
+      "letter": "E",
+      "text": "surgem nos contextos em que são necessárias."
+    }
+  ],
+  "correct_answer": "C",
+  "assets": {
+    "images": [],
+    "charts": [],
+    "tables": [],
+    "formulas": []
+  },
+  "metadata": {
+    "page_in_pdf": null,
+    "caderno": "verde",
+    "caderno_position": 9,
+    "foreign_language_option": null,
+    "has_image": false,
+    "has_chart": false,
+    "has_table": false,
+    "has_formula": false,
+    "annulled": false,
+    "reviewed": false,
+    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+  }
+}
