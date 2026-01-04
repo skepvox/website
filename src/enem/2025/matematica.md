@@ -335,182 +335,182 @@ head:
 
 ## Questão 136
 
-<QuestionCardLoader :show-area="false" question-id="2025_q136" />
+<QuestionPreviewCard question-id="2025_q136" />
 
 ## Questão 137
 
-<QuestionCardLoader :show-area="false" question-id="2025_q137" />
+<QuestionPreviewCard question-id="2025_q137" />
 
 ## Questão 138
 
-<QuestionCardLoader :show-area="false" question-id="2025_q138" />
+<QuestionPreviewCard question-id="2025_q138" />
 
 ## Questão 139
 
-<QuestionCardLoader :show-area="false" question-id="2025_q139" />
+<QuestionPreviewCard question-id="2025_q139" />
 
 ## Questão 140
 
-<QuestionCardLoader :show-area="false" question-id="2025_q140" />
+<QuestionPreviewCard question-id="2025_q140" />
 
 ## Questão 141
 
-<QuestionCardLoader :show-area="false" question-id="2025_q141" />
+<QuestionPreviewCard question-id="2025_q141" />
 
 ## Questão 142
 
-<QuestionCardLoader :show-area="false" question-id="2025_q142" />
+<QuestionPreviewCard question-id="2025_q142" />
 
 ## Questão 143
 
-<QuestionCardLoader :show-area="false" question-id="2025_q143" />
+<QuestionPreviewCard question-id="2025_q143" />
 
 ## Questão 144
 
-<QuestionCardLoader :show-area="false" question-id="2025_q144" />
+<QuestionPreviewCard question-id="2025_q144" />
 
 ## Questão 145
 
-<QuestionCardLoader :show-area="false" question-id="2025_q145" />
+<QuestionPreviewCard question-id="2025_q145" />
 
 ## Questão 146
 
-<QuestionCardLoader :show-area="false" question-id="2025_q146" />
+<QuestionPreviewCard question-id="2025_q146" />
 
 ## Questão 147
 
-<QuestionCardLoader :show-area="false" question-id="2025_q147" />
+<QuestionPreviewCard question-id="2025_q147" />
 
 ## Questão 148
 
-<QuestionCardLoader :show-area="false" question-id="2025_q148" />
+<QuestionPreviewCard question-id="2025_q148" />
 
 ## Questão 149
 
-<QuestionCardLoader :show-area="false" question-id="2025_q149" />
+<QuestionPreviewCard question-id="2025_q149" />
 
 ## Questão 150
 
-<QuestionCardLoader :show-area="false" question-id="2025_q150" />
+<QuestionPreviewCard question-id="2025_q150" />
 
 ## Questão 151
 
-<QuestionCardLoader :show-area="false" question-id="2025_q151" />
+<QuestionPreviewCard question-id="2025_q151" />
 
 ## Questão 152
 
-<QuestionCardLoader :show-area="false" question-id="2025_q152" />
+<QuestionPreviewCard question-id="2025_q152" />
 
 ## Questão 153
 
-<QuestionCardLoader :show-area="false" question-id="2025_q153" />
+<QuestionPreviewCard question-id="2025_q153" />
 
 ## Questão 154
 
-<QuestionCardLoader :show-area="false" question-id="2025_q154" />
+<QuestionPreviewCard question-id="2025_q154" />
 
 ## Questão 155
 
-<QuestionCardLoader :show-area="false" question-id="2025_q155" />
+<QuestionPreviewCard question-id="2025_q155" />
 
 ## Questão 156
 
-<QuestionCardLoader :show-area="false" question-id="2025_q156" />
+<QuestionPreviewCard question-id="2025_q156" />
 
 ## Questão 157
 
-<QuestionCardLoader :show-area="false" question-id="2025_q157" />
+<QuestionPreviewCard question-id="2025_q157" />
 
 ## Questão 158
 
-<QuestionCardLoader :show-area="false" question-id="2025_q158" />
+<QuestionPreviewCard question-id="2025_q158" />
 
 ## Questão 159
 
-<QuestionCardLoader :show-area="false" question-id="2025_q159" />
+<QuestionPreviewCard question-id="2025_q159" />
 
 ## Questão 160
 
-<QuestionCardLoader :show-area="false" question-id="2025_q160" />
+<QuestionPreviewCard question-id="2025_q160" />
 
 ## Questão 161
 
-<QuestionCardLoader :show-area="false" question-id="2025_q161" />
+<QuestionPreviewCard question-id="2025_q161" />
 
 ## Questão 162
 
-<QuestionCardLoader :show-area="false" question-id="2025_q162" />
+<QuestionPreviewCard question-id="2025_q162" />
 
 ## Questão 163
 
-<QuestionCardLoader :show-area="false" question-id="2025_q163" />
+<QuestionPreviewCard question-id="2025_q163" />
 
 ## Questão 164
 
-<QuestionCardLoader :show-area="false" question-id="2025_q164" />
+<QuestionPreviewCard question-id="2025_q164" />
 
 ## Questão 165
 
-<QuestionCardLoader :show-area="false" question-id="2025_q165" />
+<QuestionPreviewCard question-id="2025_q165" />
 
 ## Questão 166
 
-<QuestionCardLoader :show-area="false" question-id="2025_q166" />
+<QuestionPreviewCard question-id="2025_q166" />
 
 ## Questão 167
 
-<QuestionCardLoader :show-area="false" question-id="2025_q167" />
+<QuestionPreviewCard question-id="2025_q167" />
 
 ## Questão 168
 
-<QuestionCardLoader :show-area="false" question-id="2025_q168" />
+<QuestionPreviewCard question-id="2025_q168" />
 
 ## Questão 169
 
-<QuestionCardLoader :show-area="false" question-id="2025_q169" />
+<QuestionPreviewCard question-id="2025_q169" />
 
 ## Questão 170
 
-<QuestionCardLoader :show-area="false" question-id="2025_q170" />
+<QuestionPreviewCard question-id="2025_q170" />
 
 ## Questão 171
 
-<QuestionCardLoader :show-area="false" question-id="2025_q171" />
+<QuestionPreviewCard question-id="2025_q171" />
 
 ## Questão 172
 
-<QuestionCardLoader :show-area="false" question-id="2025_q172" />
+<QuestionPreviewCard question-id="2025_q172" />
 
 ## Questão 173
 
-<QuestionCardLoader :show-area="false" question-id="2025_q173" />
+<QuestionPreviewCard question-id="2025_q173" />
 
 ## Questão 174
 
-<QuestionCardLoader :show-area="false" question-id="2025_q174" />
+<QuestionPreviewCard question-id="2025_q174" />
 
 ## Questão 175
 
-<QuestionCardLoader :show-area="false" question-id="2025_q175" />
+<QuestionPreviewCard question-id="2025_q175" />
 
 ## Questão 176
 
-<QuestionCardLoader :show-area="false" question-id="2025_q176" />
+<QuestionPreviewCard question-id="2025_q176" />
 
 ## Questão 177
 
-<QuestionCardLoader :show-area="false" question-id="2025_q177" />
+<QuestionPreviewCard question-id="2025_q177" />
 
 ## Questão 178
 
-<QuestionCardLoader :show-area="false" question-id="2025_q178" />
+<QuestionPreviewCard question-id="2025_q178" />
 
 ## Questão 179
 
-<QuestionCardLoader :show-area="false" question-id="2025_q179" />
+<QuestionPreviewCard question-id="2025_q179" />
 
 ## Questão 180
 
-<QuestionCardLoader :show-area="false" question-id="2025_q180" />
+<QuestionPreviewCard question-id="2025_q180" />
 
 </div>

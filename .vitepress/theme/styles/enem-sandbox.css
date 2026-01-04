@@ -26,6 +26,8 @@
 }
 
 .enem-sandbox .enem-question-card,
-.enem-hub .enem-question-card {
+.enem-hub .enem-question-card,
+.enem-sandbox .enem-question-preview,
+.enem-hub .enem-question-preview {
   margin: 18px 0;
 }

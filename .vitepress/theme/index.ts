@@ -7,6 +7,7 @@ import VueSchoolLink from './components/VueSchoolLink.vue'
 import ScrimbaLink from './components/ScrimbaLink.vue'
 import QuestionCard from './components/enem/QuestionCard.vue'
 import QuestionCardLoader from './components/enem/QuestionCardLoader.vue'
+import QuestionPreviewCard from './components/enem/QuestionPreviewCard.vue'
 import AssetChart from './components/enem/assets/AssetChart.vue'
 // import Banner from './components/Banner.vue'
 // import TextAd from './components/TextAd.vue'
@@ -34,6 +35,7 @@ export default Object.assign({}, VPTheme, {
     app.component('ScrimbaLink', ScrimbaLink)
     app.component('QuestionCard', QuestionCard)
     app.component('QuestionCardLoader', QuestionCardLoader)
+    app.component('QuestionPreviewCard', QuestionPreviewCard)
     app.component('AssetChart', AssetChart)
     // app.component('TextAd', TextAd)
   }
