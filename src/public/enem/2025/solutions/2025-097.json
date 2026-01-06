@@ -1,0 +1,19 @@
+{
+  "question_id": "2025_q097",
+  "final_answer": {
+    "letter": "D",
+    "value": "Superfície"
+  },
+  "short_md": "O carvão ativado apresenta muitos poros, aumentando a área de contato.  \nMaior área superficial implica maior adsorção.  \nResposta: alternativa D.",
+  "steps": [
+    {
+      "title": "Relacionar adsorção e área",
+      "body_md": "Adsorção ocorre na superfície do sólido."
+    },
+    {
+      "title": "Comparar estruturas",
+      "body_md": "O carvão ativado possui micro e macroporos que ampliam a superfície."
+    }
+  ],
+  "tts_text": "A capacidade de adsorção depende da área de superfície disponível. O carvão ativado possui poros microscópicos que aumentam muito essa área em comparação ao carvão comum. Assim, ele adsorve mais impurezas. A alternativa correta é a letra D."
+}

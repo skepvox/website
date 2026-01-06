@@ -4,7 +4,7 @@
   "day": 2,
   "number": 107,
   "area": {
-    "code": "natureza",
+    "code": "ciencias-da-natureza",
     "name": "Ciências da Natureza e suas Tecnologias"
   },
   "subject": null,
@@ -12,29 +12,24 @@
   "skill": null,
   "context": {
     "type": "text",
-    "content": "O monstro de gila, um lagarto encontrado em um deserto dos\nEstados Unidos, apresenta adaptações à falta de alimento nesse\nambiente. Esse lagarto possui um hormônio que controla os níveis\nde açúcar em seu próprio sangue. Foi observado que esse hormônio\ntambém controla os níveis de açúcar no sangue de pessoas diabéticas.",
+    "content": "O monstro de gila, um lagarto encontrado em um deserto dos Estados Unidos, apresenta adaptações à falta de alimento nesse ambiente. Esse lagarto possui um hormônio que controla os níveis de açúcar em seu próprio sangue. Foi observado que esse hormônio também controla os níveis de açúcar no sangue de pessoas diabéticas.",
     "source": {
       "author": "RUSSELL, C.",
       "title": "Ozempic e outros remédios inspirados em veneno de animais.",
-      "note": null
+      "url": "www.bbc.com",
+      "access_date": "6 dez. 2024",
+      "note": "adaptado"
     },
     "language": "pt"
   },
-  "statement": "Disponível em: www.bbc.com. Acesso em: 6 dez. 2024 (adaptado). Considerando que animais de um mesmo grupo taxonômico podem apresentar características adaptativas semelhantes em ambientes similares, onde seria mais provável encontrar lagartos com essas características no território brasileiro?",
+  "statement": "Considerando que animais de um mesmo grupo taxonômico podem apresentar características adaptativas semelhantes em ambientes similares, onde seria mais provável encontrar lagartos com essas características no território brasileiro?",
   "text_flow": [
     {
       "id": "t1",
       "scope": "context",
-      "text": "O monstro de gila, um lagarto encontrado em um deserto dos\nEstados Unidos, apresenta adaptações à falta de alimento nesse\nambiente. Esse lagarto possui um hormônio que controla os níveis\nde açúcar em seu próprio sangue. Foi observado que esse hormônio\ntambém controla os níveis de açúcar no sangue de pessoas diabéticas.",
+      "text": "O monstro de gila, um lagarto encontrado em um deserto dos Estados Unidos, apresenta adaptações à falta de alimento nesse ambiente. Esse lagarto possui um hormônio que controla os níveis de açúcar em seu próprio sangue. Foi observado que esse hormônio também controla os níveis de açúcar no sangue de pessoas diabéticas.",
       "anchor": "before:assets:context",
       "order": 1
-    },
-    {
-      "id": "t2",
-      "scope": "statement",
-      "text": "Disponível em: www.bbc.com. Acesso em: 6 dez. 2024 (adaptado).",
-      "anchor": "before:options",
-      "order": 2
     }
   ],
   "prompt": {
@@ -81,7 +76,7 @@
     "has_table": false,
     "has_formula": false,
     "annulled": false,
-    "reviewed": false,
-    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+    "reviewed": true,
+    "review_notes": "Reviewed 2026-01-06: source moved to context; statement separated"
   }
 }

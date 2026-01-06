@@ -4,7 +4,7 @@
   "day": 2,
   "number": 114,
   "area": {
-    "code": "natureza",
+    "code": "ciencias-da-natureza",
     "name": "Ciências da Natureza e suas Tecnologias"
   },
   "subject": null,
@@ -12,22 +12,26 @@
   "skill": null,
   "context": {
     "type": "text",
-    "content": "A Figura 1 apresenta o esquema de um tubo de imagem em que\num filamento, na posição A, libera elétrons por efeito termiônico.\nEsses elétrons formam um feixe estreito, que é acelerado por\ncampos elétricos em direção à parte interna da tela. Nesse\ncaminho, o feixe de elétrons passa por outro campo elétrico, na\nregião B, atingindo, em seguida, a parte interna da tela do tubo,\na qual é recoberta por um material que emite luz ao receber o\nimpacto dos elétrons.\nNa Figura 2, a carga negativa representa o feixe de elétrons\nque é acelerado e, posteriormente, atinge um ponto da tela.\nO campo elétrico na região B apresenta a seguinte configuração:\nFigura 2\nGrupo de Reelaboração do Ensino de Física. Física 3:\neletromagnetismo. São Paulo: Edusp, 2000 (adaptado).\nNessa situação, qual ponto da tela será atingido pelo feixe de",
-    "source": null,
+    "content": "A Figura 1 apresenta o esquema de um tubo de imagem em que um filamento, na posição A, libera elétrons por efeito termiônico. Esses elétrons formam um feixe estreito, que é acelerado por campos elétricos em direção à parte interna da tela. Nesse caminho, o feixe de elétrons passa por outro campo elétrico, na região B, atingindo, em seguida, a parte interna da tela do tubo, a qual é recoberta por um material que emite luz ao receber o impacto dos elétrons.\n\nNa Figura 2, a carga negativa representa o feixe de elétrons que é acelerado e, posteriormente, atinge um ponto da tela. O campo elétrico na região B apresenta a seguinte configuração:",
+    "source": {
+      "author": "Grupo de Reelaboração do Ensino de Física.",
+      "title": "Física 3: eletromagnetismo. São Paulo: Edusp, 2000 (adaptado).",
+      "note": null
+    },
     "language": "pt"
   },
-  "statement": "elétrons?",
+  "statement": "Nessa situação, qual ponto da tela será atingido pelo feixe de elétrons?",
   "text_flow": [
     {
       "id": "t1",
       "scope": "context",
-      "text": "A Figura 1 apresenta o esquema de um tubo de imagem em que\num filamento, na posição A, libera elétrons por efeito termiônico.\nEsses elétrons formam um feixe estreito, que é acelerado por\ncampos elétricos em direção à parte interna da tela. Nesse\ncaminho, o feixe de elétrons passa por outro campo elétrico, na\nregião B, atingindo, em seguida, a parte interna da tela do tubo,\na qual é recoberta por um material que emite luz ao receber o\nimpacto dos elétrons.\nNa Figura 2, a carga negativa representa o feixe de elétrons\nque é acelerado e, posteriormente, atinge um ponto da tela.\nO campo elétrico na região B apresenta a seguinte configuração:\nFigura 2\nGrupo de Reelaboração do Ensino de Física. Física 3:\neletromagnetismo. São Paulo: Edusp, 2000 (adaptado).\nNessa situação, qual ponto da tela será atingido pelo feixe de",
-      "anchor": "before:assets:context",
+      "text": "A Figura 1 apresenta o esquema de um tubo de imagem em que um filamento, na posição A, libera elétrons por efeito termiônico. Esses elétrons formam um feixe estreito, que é acelerado por campos elétricos em direção à parte interna da tela. Nesse caminho, o feixe de elétrons passa por outro campo elétrico, na região B, atingindo, em seguida, a parte interna da tela do tubo, a qual é recoberta por um material que emite luz ao receber o impacto dos elétrons.\n\nNa Figura 2, a carga negativa representa o feixe de elétrons que é acelerado e, posteriormente, atinge um ponto da tela. O campo elétrico na região B apresenta a seguinte configuração:",
+      "anchor": "before:asset:q114_img_001",
       "order": 1
     }
   ],
   "prompt": {
-    "text": "elétrons?",
+    "text": "Nessa situação, qual ponto da tela será atingido pelo feixe de elétrons?",
     "scope": "statement",
     "anchor": "before:options"
   },
@@ -55,7 +59,20 @@
   ],
   "correct_answer": "B",
   "assets": {
-    "images": [],
+    "images": [
+      {
+        "id": "q114_img_001",
+        "file": "images/raw/ciencias-da-natureza/2025-114-img-001.png",
+        "alt": "Figura 1: tubo de imagem com filamento em A, região B de deflexão e tela com pontos 1 a 5 marcados.",
+        "position": "context"
+      },
+      {
+        "id": "q114_img_002",
+        "file": "images/raw/ciencias-da-natureza/2025-114-img-002.png",
+        "alt": "Figura 2: feixe de elétrons (carga negativa) com velocidade horizontal em um campo elétrico vertical uniforme.",
+        "position": "context"
+      }
+    ],
     "charts": [],
     "tables": [],
     "formulas": []
@@ -65,12 +82,12 @@
     "caderno": "verde",
     "caderno_position": 114,
     "foreign_language_option": null,
-    "has_image": false,
+    "has_image": true,
     "has_chart": false,
     "has_table": false,
     "has_formula": false,
     "annulled": false,
-    "reviewed": false,
-    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+    "reviewed": true,
+    "review_notes": "Reviewed 2026-01-06: source moved to context; both figures mapped"
   }
 }

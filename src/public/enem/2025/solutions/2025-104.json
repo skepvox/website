@@ -1,0 +1,19 @@
+{
+  "question_id": "2025_q104",
+  "final_answer": {
+    "letter": "D",
+    "value": "diminuir as espécies nativas do bioma"
+  },
+  "short_md": "Plantas exóticas agressivas competem por recursos e podem substituir espécies locais.  \nLogo, ocorre redução de espécies nativas.  \nResposta: alternativa D.",
+  "steps": [
+    {
+      "title": "Entender a invasão biológica",
+      "body_md": "A espécie exótica se espalha e compete com as nativas."
+    },
+    {
+      "title": "Impacto de longo prazo",
+      "body_md": "A competição reduz a diversidade de espécies nativas."
+    }
+  ],
+  "tts_text": "A introdução de uma espécie exótica agressiva aumenta a competição por luz, água e nutrientes. Com o tempo, as espécies nativas tendem a diminuir. Portanto, a consequência de longo prazo é a redução das espécies nativas. Alternativa D."
+}

@@ -148,15 +148,17 @@ question card and its nested components.
   - Absolute `http(s)` URLs as-is.
   - Absolute paths (`/enem/...`) via `withBase`.
   - Relative paths as `/enem/{year}/{file}` via `withBase`.
-- Formula strings should be raw LaTeX without delimiters. Delimiters like
-  `$$...$$`, `\(...\)`, or `\[...\]` should be avoided in JSON.
+- Formula asset strings should be raw LaTeX without delimiters.
+  Delimiters like `$$...$$` or `$...$` should be avoided in `assets.formulas`.
 - Mixed content example:
 - `segments`: `[ { type: 'text', value: 'Texto ' }, { type: 'katex', value: 'E=mc^2' }, { type: 'text', value: ', etc.' } ]`
 - Text segments should include the spaces or punctuation they need around the
   math blocks.
-- Inline `\( ... \)` inside context/statement renders as italics (not KaTeX).
-- Block `\[ ... \]` inside context/statement renders as a centered KaTeX block
-  (no card container).
+- Inline math in context/statement should use `$...$` (MathJax).
+- Block math in context/statement should use `$$...$$` (MathJax), rendered as a
+  centered block (no card container).
+- Avoid `\(...\)` and `\[...\]` in Markdown content; they are not parsed by the
+  current MathJax markdown plugin.
 - Use formula assets for math that must live in the assets flow.
 
 ## Asset versions (raw vs improved)
@@ -172,8 +174,8 @@ question card and its nested components.
 
 - Inline KaTeX in context/statement was removed due to spacing artifacts; use
   `\( ... \)` markers to render italic variables instead.
-- Block math in context/statement is supported via `\[ ... \]`, rendered with
-  KaTeX as a standalone line.
+- Block math in context/statement is supported via `$$ ... $$`, rendered with
+  MathJax as a standalone line.
 - Prompt/statement now render as separate blocks when `prompt.text` is present
   and different from `statement`.
 - Statement text is indented; prompt text is not.

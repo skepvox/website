@@ -1,0 +1,23 @@
+{
+  "question_id": "2025_q132",
+  "final_answer": {
+    "letter": null,
+    "value": "Questão anulada"
+  },
+  "short_md": "Na fotossíntese anoxigênica, o H2S é o doador de elétrons.  \nNa fotossíntese oxigênica, esse papel é desempenhado pela água.  \nQuestão anulada no gabarito oficial.",
+  "steps": [
+    {
+      "title": "Identificar a função do H2S",
+      "body_md": "O H2S fornece elétrons no processo anoxigênico."
+    },
+    {
+      "title": "Fazer a analogia",
+      "body_md": "Na fotossíntese oxigênica, a água é o doador de elétrons."
+    },
+    {
+      "title": "Observação",
+      "body_md": "Questão anulada no gabarito oficial."
+    }
+  ],
+  "tts_text": "No processo anoxigênico, o H2S atua como doador de elétrons. Na fotossíntese oxigênica, o composto que desempenha esse papel é a água, que é oxidada e libera oxigênio. Ainda assim, a questão foi anulada no gabarito oficial."
+}

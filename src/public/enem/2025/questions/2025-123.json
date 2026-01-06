@@ -4,7 +4,7 @@
   "day": 2,
   "number": 123,
   "area": {
-    "code": "natureza",
+    "code": "ciencias-da-natureza",
     "name": "Ciências da Natureza e suas Tecnologias"
   },
   "subject": null,
@@ -12,7 +12,7 @@
   "skill": null,
   "context": {
     "type": "text",
-    "content": "O ácido úsnico é retirado de liquens e foi testado contra\ndiversas espécies, conforme o quadro.\nTeste\nResultado\nAedes aegypti (larvas)\nBaixa eficiência\nBacilo de Koch\nMédia eficiência\nMoluscos aquáticos (adultos)\nAlta eficiência\nPernilongo (larvas)\nMédia eficiência\nVermes platelmintos\nIneficiente",
+    "content": "O ácido úsnico é retirado de liquens e foi testado contra diversas espécies, conforme o quadro.",
     "source": null,
     "language": "pt"
   },
@@ -21,18 +21,16 @@
     {
       "id": "t1",
       "scope": "context",
-      "text": "O ácido úsnico é retirado de liquens e foi testado contra\ndiversas espécies, conforme o quadro.\nTeste\nResultado\nAedes aegypti (larvas)\nBaixa eficiência\nBacilo de Koch\nMédia eficiência\nMoluscos aquáticos (adultos)\nAlta eficiência\nPernilongo (larvas)\nMédia eficiência\nVermes platelmintos\nIneficiente",
-      "anchor": "before:assets:context",
+      "text": "O ácido úsnico é retirado de liquens e foi testado contra diversas espécies, conforme o quadro.",
+      "anchor": "before:asset:q123_table_001",
       "order": 1
-    },
-    {
-      "id": "t2",
-      "scope": "statement",
-      "text": "O ácido úsnico mostrou-se mais indicado para o controle da",
-      "anchor": "before:options",
-      "order": 2
     }
   ],
+  "prompt": {
+    "text": "O ácido úsnico mostrou-se mais indicado para o controle da",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
   "options": [
     {
       "letter": "A",
@@ -59,7 +57,38 @@
   "assets": {
     "images": [],
     "charts": [],
-    "tables": [],
+    "tables": [
+      {
+        "id": "q123_table_001",
+        "headers": [
+          "Teste",
+          "Resultado"
+        ],
+        "rows": [
+          [
+            "Aedes aegypti (larvas)",
+            "Baixa eficiência"
+          ],
+          [
+            "Bacilo de Koch",
+            "Média eficiência"
+          ],
+          [
+            "Moluscos aquáticos (adultos)",
+            "Alta eficiência"
+          ],
+          [
+            "Pernilongo (larvas)",
+            "Média eficiência"
+          ],
+          [
+            "Vermes platelmintos",
+            "Ineficiente"
+          ]
+        ],
+        "position": "context"
+      }
+    ],
     "formulas": []
   },
   "metadata": {
@@ -69,10 +98,10 @@
     "foreign_language_option": null,
     "has_image": false,
     "has_chart": false,
-    "has_table": false,
+    "has_table": true,
     "has_formula": false,
     "annulled": false,
-    "reviewed": false,
-    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+    "reviewed": true,
+    "review_notes": "Reviewed 2026-01-06: table extracted; statement separated"
   }
 }

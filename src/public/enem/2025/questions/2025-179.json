@@ -12,7 +12,7 @@
   "skill": null,
   "context": {
     "type": "text",
-    "content": "Um empresário utiliza máquinas cuja pressão interna \\(P\\), em atmosfera, depende do tempo contínuo de utilização \\(t\\), em hora, e de um parâmetro positivo \\(K\\), que define o modelo da máquina, segundo a expressão:\n\n\\[P = 4 \\cdot \\log[-K \\cdot (t + 1) \\cdot (t - 19)]\\]\n\nO fabricante dessas máquinas recomenda ao usuário que a pressão interna desse tipo de máquina não ultrapasse 10 atmosferas durante seu funcionamento.\n\nO empresário pretende comprar novas máquinas desse tipo que deverão funcionar, diariamente, por um período contínuo de 10 horas. Para isso, precisa definir o modelo de máquina a ser adquirida escolhendo o maior valor possível do parâmetro \\(K\\), atendendo à recomendação do fabricante.",
+    "content": "Um empresário utiliza máquinas cuja pressão interna \\(P\\), em atmosfera, depende do tempo contínuo de utilização \\(t\\), em hora, e de um parâmetro positivo \\(K\\), que define o modelo da máquina, segundo a expressão:\n\n$$P = 4 \\cdot \\log[-K \\cdot (t + 1) \\cdot (t - 19)]$$\n\nO fabricante dessas máquinas recomenda ao usuário que a pressão interna desse tipo de máquina não ultrapasse 10 atmosferas durante seu funcionamento.\n\nO empresário pretende comprar novas máquinas desse tipo que deverão funcionar, diariamente, por um período contínuo de 10 horas. Para isso, precisa definir o modelo de máquina a ser adquirida escolhendo o maior valor possível do parâmetro \\(K\\), atendendo à recomendação do fabricante.",
     "source": null,
     "language": "pt"
   },
@@ -21,7 +21,7 @@
     {
       "id": "t1",
       "scope": "context",
-      "text": "Um empresário utiliza máquinas cuja pressão interna \\(P\\), em atmosfera, depende do tempo contínuo de utilização \\(t\\), em hora, e de um parâmetro positivo \\(K\\), que define o modelo da máquina, segundo a expressão:\n\n\\[P = 4 \\cdot \\log[-K \\cdot (t + 1) \\cdot (t - 19)]\\]\n\nO fabricante dessas máquinas recomenda ao usuário que a pressão interna desse tipo de máquina não ultrapasse 10 atmosferas durante seu funcionamento.\n\nO empresário pretende comprar novas máquinas desse tipo que deverão funcionar, diariamente, por um período contínuo de 10 horas. Para isso, precisa definir o modelo de máquina a ser adquirida escolhendo o maior valor possível do parâmetro \\(K\\), atendendo à recomendação do fabricante.",
+      "text": "Um empresário utiliza máquinas cuja pressão interna \\(P\\), em atmosfera, depende do tempo contínuo de utilização \\(t\\), em hora, e de um parâmetro positivo \\(K\\), que define o modelo da máquina, segundo a expressão:\n\n$$P = 4 \\cdot \\log[-K \\cdot (t + 1) \\cdot (t - 19)]$$\n\nO fabricante dessas máquinas recomenda ao usuário que a pressão interna desse tipo de máquina não ultrapasse 10 atmosferas durante seu funcionamento.\n\nO empresário pretende comprar novas máquinas desse tipo que deverão funcionar, diariamente, por um período contínuo de 10 horas. Para isso, precisa definir o modelo de máquina a ser adquirida escolhendo o maior valor possível do parâmetro \\(K\\), atendendo à recomendação do fabricante.",
       "anchor": "before:assets:context",
       "order": 1
     }

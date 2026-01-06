@@ -4,7 +4,7 @@
   "day": 2,
   "number": 117,
   "area": {
-    "code": "natureza",
+    "code": "ciencias-da-natureza",
     "name": "Ciências da Natureza e suas Tecnologias"
   },
   "subject": null,
@@ -12,31 +12,31 @@
   "skill": null,
   "context": {
     "type": "text",
-    "content": "As cangas são ambientes resultantes da atuação, ao longo\nde milhões de anos, de chuvas, enxurradas, calor e ventos em\nrochas ricas em ferro. São compostas por até 90% de óxidos\nde ferro e contêm solos muito ácidos, rasos, com reduzidos\níndices de fertilidade e temperaturas que atingem quase 70 °C\nna superfície. Ao contrário do que se imagina, esse tipo de\nambiente abriga comunidades de plantas e animais com elevado\nnúmero de espécies e distribuição restrita.",
+    "content": "As cangas são ambientes resultantes da atuação, ao longo de milhões de anos, de chuvas, enxurradas, calor e ventos em rochas ricas em ferro. São compostas por até 90% de óxidos de ferro e contêm solos muito ácidos, rasos, com reduzidos índices de fertilidade e temperaturas que atingem quase 70 °C na superfície. Ao contrário do que se imagina, esse tipo de ambiente abriga comunidades de plantas e animais com elevado número de espécies e distribuição restrita.",
     "source": {
-      "author": "CARMO, F. F.",
-      "title": "et al. Ilhas de ferro estratégicas para a conservação.",
-      "note": null
+      "author": "CARMO, F. F. et al.",
+      "title": "Ilhas de ferro estratégicas para a conservação.",
+      "url": "http://cienciahoje.org.br",
+      "access_date": "2 dez. 2018",
+      "note": "adaptado"
     },
     "language": "pt"
   },
-  "statement": "Disponível em: http://cienciahoje.org.br. Acesso em: 2 dez. 2018 (adaptado). A seleção adaptativa nesses ambientes favorece a ocorrência de espécies",
+  "statement": "A seleção adaptativa nesses ambientes favorece a ocorrência de espécies",
   "text_flow": [
     {
       "id": "t1",
       "scope": "context",
-      "text": "As cangas são ambientes resultantes da atuação, ao longo\nde milhões de anos, de chuvas, enxurradas, calor e ventos em\nrochas ricas em ferro. São compostas por até 90% de óxidos\nde ferro e contêm solos muito ácidos, rasos, com reduzidos\níndices de fertilidade e temperaturas que atingem quase 70 °C\nna superfície. Ao contrário do que se imagina, esse tipo de\nambiente abriga comunidades de plantas e animais com elevado\nnúmero de espécies e distribuição restrita.",
+      "text": "As cangas são ambientes resultantes da atuação, ao longo de milhões de anos, de chuvas, enxurradas, calor e ventos em rochas ricas em ferro. São compostas por até 90% de óxidos de ferro e contêm solos muito ácidos, rasos, com reduzidos índices de fertilidade e temperaturas que atingem quase 70 °C na superfície. Ao contrário do que se imagina, esse tipo de ambiente abriga comunidades de plantas e animais com elevado número de espécies e distribuição restrita.",
       "anchor": "before:assets:context",
       "order": 1
-    },
-    {
-      "id": "t2",
-      "scope": "statement",
-      "text": "Disponível em: http://cienciahoje.org.br. Acesso em: 2 dez. 2018 (adaptado). A seleção adaptativa nesses ambientes favorece a ocorrência de espécies",
-      "anchor": "before:options",
-      "order": 2
     }
   ],
+  "prompt": {
+    "text": "A seleção adaptativa nesses ambientes favorece a ocorrência de espécies",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
   "options": [
     {
       "letter": "A",
@@ -76,7 +76,7 @@
     "has_table": false,
     "has_formula": false,
     "annulled": false,
-    "reviewed": false,
-    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+    "reviewed": true,
+    "review_notes": "Reviewed 2026-01-06: source moved to context; statement separated"
   }
 }

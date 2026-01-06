@@ -66,6 +66,10 @@ Canonical URL pattern:
 - **Exam overview page (hub):** `/enem/2025/matematica`
 - **Single-question page (leaf):** `/enem/2025/matematica/questao/2025-136`
 
+### Hub title convention
+
+- Use an em dash between “Tecnologias” and “Caderno Verde”, e.g. `ENEM 2025 — Matemática e suas Tecnologias — Caderno Verde`.
+
 ### Leaf page layout
 
 - No sidebars, no outline, no right aside.

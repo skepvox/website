@@ -4,7 +4,7 @@
   "day": 2,
   "number": 128,
   "area": {
-    "code": "natureza",
+    "code": "ciencias-da-natureza",
     "name": "Ciências da Natureza e suas Tecnologias"
   },
   "subject": null,
@@ -12,52 +12,57 @@
   "skill": null,
   "context": {
     "type": "text",
-    "content": "Segundo o princípio da independência dos movimentos, de\nGalileu, sempre que a velocidade resultante de um corpo puder\nser decomposta em duas ou mais componentes perpendiculares\nentre si, cada um desses movimentos poderá ser analisado\nseparadamente como se os outros não existissem. Esse princípio\né muito útil para a simplificação de alguns problemas reais, em\ntrês dimensões.\nConsidere um avião que, ao decolar, é instruído pela\ntorre a atingir, em 6 minutos, uma posição de 20 km a Leste,\n20 km a Norte e 1 km de altitude em relação ao ponto de\ndecolagem, conforme a figura (fora de escala). No entanto,\nno instante da decolagem, começa a soprar um vento cujo\nvetor velocidade tem componentes 30 km/h para Leste,\n20 km/h para Sul e 1 km/h de cima para baixo.\nDurante a ação do vento, a velocidade v que o piloto deve\nestabelecer em relação ao ar para que o avião chegue à posição",
+    "content": "Segundo o princípio da independência dos movimentos, de Galileu, sempre que a velocidade resultante de um corpo puder ser decomposta em duas ou mais componentes perpendiculares entre si, cada um desses movimentos poderá ser analisado separadamente como se os outros não existissem. Esse princípio é muito útil para a simplificação de alguns problemas reais, em três dimensões.\n\nConsidere um avião que, ao decolar, é instruído pela torre a atingir, em 6 minutos, uma posição de 20 km a Leste, 20 km a Norte e 1 km de altitude em relação ao ponto de decolagem, conforme a figura (fora de escala). No entanto, no instante da decolagem, começa a soprar um vento cujo vetor velocidade tem componentes 30 km/h para Leste, 20 km/h para Sul e 1 km/h de cima para baixo.",
     "source": null,
     "language": "pt"
   },
-  "statement": "esperada no tempo indicado tem as componentes",
+  "statement": "Durante a ação do vento, a velocidade v que o piloto deve estabelecer em relação ao ar para que o avião chegue à posição esperada no tempo indicado tem as componentes",
   "text_flow": [
     {
       "id": "t1",
       "scope": "context",
-      "text": "Segundo o princípio da independência dos movimentos, de\nGalileu, sempre que a velocidade resultante de um corpo puder\nser decomposta em duas ou mais componentes perpendiculares\nentre si, cada um desses movimentos poderá ser analisado\nseparadamente como se os outros não existissem. Esse princípio\né muito útil para a simplificação de alguns problemas reais, em\ntrês dimensões.\nConsidere um avião que, ao decolar, é instruído pela\ntorre a atingir, em 6 minutos, uma posição de 20 km a Leste,\n20 km a Norte e 1 km de altitude em relação ao ponto de\ndecolagem, conforme a figura (fora de escala). No entanto,\nno instante da decolagem, começa a soprar um vento cujo\nvetor velocidade tem componentes 30 km/h para Leste,\n20 km/h para Sul e 1 km/h de cima para baixo.\nDurante a ação do vento, a velocidade v que o piloto deve\nestabelecer em relação ao ar para que o avião chegue à posição",
-      "anchor": "before:assets:context",
+      "text": "Segundo o princípio da independência dos movimentos, de Galileu, sempre que a velocidade resultante de um corpo puder ser decomposta em duas ou mais componentes perpendiculares entre si, cada um desses movimentos poderá ser analisado separadamente como se os outros não existissem. Esse princípio é muito útil para a simplificação de alguns problemas reais, em três dimensões.\n\nConsidere um avião que, ao decolar, é instruído pela torre a atingir, em 6 minutos, uma posição de 20 km a Leste, 20 km a Norte e 1 km de altitude em relação ao ponto de decolagem, conforme a figura (fora de escala). No entanto, no instante da decolagem, começa a soprar um vento cujo vetor velocidade tem componentes 30 km/h para Leste, 20 km/h para Sul e 1 km/h de cima para baixo.",
+      "anchor": "before:asset:q128_img_001",
       "order": 1
-    },
-    {
-      "id": "t2",
-      "scope": "statement",
-      "text": "esperada no tempo indicado tem as componentes",
-      "anchor": "before:options",
-      "order": 2
     }
   ],
+  "prompt": {
+    "text": "Durante a ação do vento, a velocidade v que o piloto deve estabelecer em relação ao ar para que o avião chegue à posição esperada no tempo indicado tem as componentes",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
   "options": [
     {
       "letter": "A",
-      "text": "230 km/h para Leste, 180 km/h para Sul e 9 km/h para baixo."
+      "text": "230 km/h para Leste, 180 km/h para Sul e 9 km/h para baixo."
     },
     {
       "letter": "B",
-      "text": "230 km/h para Leste, 180 km/h para Norte e 9 km/h para cima."
+      "text": "230 km/h para Leste, 180 km/h para Norte e 9 km/h para cima."
     },
     {
       "letter": "C",
-      "text": "200 km/h para Oeste, 200 km/h para Norte e 10 km/h para cima."
+      "text": "200 km/h para Oeste, 200 km/h para Norte e 10 km/h para cima."
     },
     {
       "letter": "D",
-      "text": "170 km/h para Leste, 220 km/h para Norte e 11 km/h para cima."
+      "text": "170 km/h para Leste, 220 km/h para Norte e 11 km/h para cima."
     },
     {
       "letter": "E",
-      "text": "170 km/h para Leste, 180 km/h para Norte e 11 km/h para cima."
+      "text": "170 km/h para Leste, 180 km/h para Norte e 11 km/h para cima."
     }
   ],
   "correct_answer": "D",
   "assets": {
-    "images": [],
+    "images": [
+      {
+        "id": "q128_img_001",
+        "file": "images/raw/ciencias-da-natureza/2025-128-img-001.jpeg",
+        "alt": "Diagrama com eixos Leste-Oeste e Norte-Sul, vetor velocidade do aviao e posicao final indicada por linhas tracejadas.",
+        "position": "context"
+      }
+    ],
     "charts": [],
     "tables": [],
     "formulas": []
@@ -67,12 +72,12 @@
     "caderno": "verde",
     "caderno_position": 128,
     "foreign_language_option": null,
-    "has_image": false,
+    "has_image": true,
     "has_chart": false,
     "has_table": false,
     "has_formula": false,
     "annulled": false,
-    "reviewed": false,
-    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+    "reviewed": true,
+    "review_notes": "Reviewed 2026-01-06: diagram mapped; statement separated"
   }
 }

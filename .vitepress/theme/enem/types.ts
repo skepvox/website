@@ -1,7 +1,7 @@
 export type EnemQuestionAreaCode =
   | 'linguagens'
   | 'humanas'
-  | 'natureza'
+  | 'ciencias-da-natureza'
   | 'matematica'
 
 export type EnemQuestionArea = {

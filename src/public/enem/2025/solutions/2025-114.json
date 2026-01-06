@@ -1,0 +1,19 @@
+{
+  "question_id": "2025_q114",
+  "final_answer": {
+    "letter": "B",
+    "value": "2"
+  },
+  "short_md": "O campo elétrico aponta para cima e o elétron é negativo.  \nA força é oposta ao campo, portanto para baixo.  \nO feixe atinge a parte inferior da tela, ponto 2.  \nResposta: alternativa B.",
+  "steps": [
+    {
+      "title": "Definir a direção da força",
+      "body_md": "Para carga negativa, $\\vec{F} = q\\vec{E}$ aponta no sentido oposto ao campo."
+    },
+    {
+      "title": "Aplicar ao desenho",
+      "body_md": "Campo para cima implica desvio para baixo na tela."
+    }
+  ],
+  "tts_text": "Na região B, o campo elétrico está dirigido para cima. Como o feixe é de elétrons, a força elétrica atua no sentido oposto ao campo, portanto para baixo. Assim, o feixe desvia para a parte inferior da tela e atinge o ponto 2. A alternativa correta é a letra B."
+}

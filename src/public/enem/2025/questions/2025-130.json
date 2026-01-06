@@ -4,7 +4,7 @@
   "day": 2,
   "number": 130,
   "area": {
-    "code": "natureza",
+    "code": "ciencias-da-natureza",
     "name": "Ciências da Natureza e suas Tecnologias"
   },
   "subject": null,
@@ -12,7 +12,7 @@
   "skill": null,
   "context": {
     "type": "text",
-    "content": "A dimetilamina é uma substância de elevada toxidez que\nentra em ebulição a 7 °C. Na madrugada de um dia frio, essa\nsubstância se espalhou por uma rodovia após um acidente de\ntrânsito envolvendo um caminhão que transportava esse produto.\nPara minimizar a agressão ao meio ambiente, bem como evitar\na evaporação da dimetilamina com a elevação da temperatura\nao longo do dia, um químico considerou o uso de algumas\nsubstâncias ou misturas como água, vinagre, óleo de soja, sal\nde cozinha e bicarbonato de sódio.",
+    "content": "A dimetilamina é uma substância de elevada toxidez que entra em ebulição a 7 °C. Na madrugada de um dia frio, essa substância se espalhou por uma rodovia após um acidente de trânsito envolvendo um caminhão que transportava esse produto. Para minimizar a agressão ao meio ambiente, bem como evitar a evaporação da dimetilamina com a elevação da temperatura ao longo do dia, um químico considerou o uso de algumas substâncias ou misturas como água, vinagre, óleo de soja, sal de cozinha e bicarbonato de sódio.",
     "source": null,
     "language": "pt"
   },
@@ -21,18 +21,16 @@
     {
       "id": "t1",
       "scope": "context",
-      "text": "A dimetilamina é uma substância de elevada toxidez que\nentra em ebulição a 7 °C. Na madrugada de um dia frio, essa\nsubstância se espalhou por uma rodovia após um acidente de\ntrânsito envolvendo um caminhão que transportava esse produto.\nPara minimizar a agressão ao meio ambiente, bem como evitar\na evaporação da dimetilamina com a elevação da temperatura\nao longo do dia, um químico considerou o uso de algumas\nsubstâncias ou misturas como água, vinagre, óleo de soja, sal\nde cozinha e bicarbonato de sódio.",
+      "text": "A dimetilamina é uma substância de elevada toxidez que entra em ebulição a 7 °C. Na madrugada de um dia frio, essa substância se espalhou por uma rodovia após um acidente de trânsito envolvendo um caminhão que transportava esse produto. Para minimizar a agressão ao meio ambiente, bem como evitar a evaporação da dimetilamina com a elevação da temperatura ao longo do dia, um químico considerou o uso de algumas substâncias ou misturas como água, vinagre, óleo de soja, sal de cozinha e bicarbonato de sódio.",
       "anchor": "before:assets:context",
       "order": 1
-    },
-    {
-      "id": "t2",
-      "scope": "statement",
-      "text": "Dentre as opções apresentadas, o tratamento correto para minimizar esse problema é usar",
-      "anchor": "before:options",
-      "order": 2
     }
   ],
+  "prompt": {
+    "text": "Dentre as opções apresentadas, o tratamento correto para minimizar esse problema é usar",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
   "options": [
     {
       "letter": "A",
@@ -72,7 +70,7 @@
     "has_table": false,
     "has_formula": false,
     "annulled": false,
-    "reviewed": false,
-    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+    "reviewed": true,
+    "review_notes": "Reviewed 2026-01-06: statement separated; text cleaned"
   }
 }

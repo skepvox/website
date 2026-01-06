@@ -1,0 +1,19 @@
+{
+  "question_id": "2025_q118",
+  "final_answer": {
+    "letter": "D",
+    "value": "aumentando a pressão parcial de Cl2"
+  },
+  "short_md": "No equilíbrio: TiO2 + 2 Cl2 <-> TiCl4 + O2 (endotérmica).  \nAumentar a concentração de reagente Cl2 desloca o equilíbrio para os produtos.  \nResposta: alternativa D.",
+  "steps": [
+    {
+      "title": "Aplicar Le Chatelier",
+      "body_md": "Aumentar reagentes favorece a formação de produtos."
+    },
+    {
+      "title": "Identificar o reagente relevante",
+      "body_md": "Elevar a pressão parcial de Cl2 desloca o equilíbrio para a direita."
+    }
+  ],
+  "tts_text": "Pelo princípio de Le Chatelier, aumentar a concentração de um reagente favorece os produtos. Como o Cl2 está no lado dos reagentes, aumentar sua pressão parcial desloca o equilíbrio para a formação de TiCl4. Portanto, a alternativa correta é a letra D."
+}

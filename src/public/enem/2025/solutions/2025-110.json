@@ -1,0 +1,19 @@
+{
+  "question_id": "2025_q110",
+  "final_answer": {
+    "letter": "E",
+    "value": "manusear o peixe sem provocar o rompimento dos órgãos internos"
+  },
+  "short_md": "A tetrodotoxina está nas vísceras e gônadas.  \nEvitar o rompimento impede a contaminação da carne.  \nResposta: alternativa E.",
+  "steps": [
+    {
+      "title": "Localizar a toxina",
+      "body_md": "A toxina é armazenada nas gônadas e vísceras."
+    },
+    {
+      "title": "Medida preventiva",
+      "body_md": "Evitar o rompimento desses órgãos impede a contaminação."
+    }
+  ],
+  "tts_text": "A tetrodotoxina fica concentrada nas vísceras e gônadas do baiacu. Para evitar intoxicação, é necessário evitar o rompimento desses órgãos durante o preparo, impedindo que a toxina contamine a carne. Portanto, a alternativa correta é a letra E."
+}

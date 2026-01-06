@@ -1,5 +1,5 @@
 ---
-title: ENEM 2025 — Matemática e suas Tecnologias - Caderno Verde
+title: ENEM 2025 — Matemática e suas Tecnologias — Caderno Verde
 description: Questões de Matemática e suas Tecnologias do ENEM 2025 (Dia 2, aplicação regular). Ordem do caderno verde (CD8) com mapeamento para amarelo, azul e cinza.
 outline: [2, 3]
 head:
@@ -11,7 +11,7 @@ head:
       content: "Questões de Matemática e suas Tecnologias do ENEM 2025 (Dia 2, aplicação regular). Ordem do caderno verde (CD8) com mapeamento para amarelo, azul e cinza."
   - - meta
     - property: og:title
-      content: "ENEM 2025 Matemática e suas Tecnologias - Caderno Verde"
+      content: "ENEM 2025 Matemática e suas Tecnologias — Caderno Verde"
   - - meta
     - property: og:description
       content: "Questões de Matemática e suas Tecnologias do ENEM 2025 (Dia 2, aplicação regular). Ordem do caderno verde (CD8) com mapeamento para amarelo, azul e cinza."
@@ -26,7 +26,7 @@ head:
       content: summary
   - - meta
     - name: twitter:title
-      content: "ENEM 2025 Matemática e suas Tecnologias - Caderno Verde"
+      content: "ENEM 2025 Matemática e suas Tecnologias — Caderno Verde"
   - - meta
     - name: twitter:description
       content: "Questões de Matemática e suas Tecnologias do ENEM 2025 (Dia 2, aplicação regular). Ordem do caderno verde (CD8) com mapeamento para amarelo, azul e cinza."
@@ -36,7 +36,7 @@ head:
       {
         "@context": "https://schema.org",
         "@type": "CollectionPage",
-        "name": "ENEM 2025 Matemática e suas Tecnologias - Caderno Verde",
+        "name": "ENEM 2025 Matemática e suas Tecnologias — Caderno Verde",
         "description": "Questões de Matemática e suas Tecnologias do ENEM 2025 (Dia 2, aplicação regular). Ordem do caderno verde (CD8) com mapeamento para amarelo, azul e cinza.",
         "url": "https://skepvox.com/enem/2025/matematica",
         "inLanguage": "pt-BR",
@@ -329,7 +329,7 @@ head:
       }
 ---
 
-# ENEM 2025 — Matemática e suas Tecnologias - Caderno Verde
+# ENEM 2025 — Matemática e suas Tecnologias — Caderno Verde
 
 <div class="enem-hub">
 

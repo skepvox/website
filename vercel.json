@@ -1841,6 +1841,1806 @@
       "source": "/enem/2025/matematica/caderno-verde/questao-180",
       "destination": "/enem/2025/matematica/questao/2025-180",
       "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-109",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-091",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-109",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-091",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-103",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-091",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-103",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-091",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-109",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-091",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-109",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-091",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-91",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-091",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-91",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-091",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-110",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-092",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-110",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-092",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-104",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-092",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-104",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-092",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-110",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-092",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-110",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-092",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-92",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-092",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-92",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-092",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-111",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-093",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-111",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-093",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-105",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-093",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-105",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-093",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-111",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-093",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-111",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-093",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-93",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-093",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-93",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-093",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-112",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-094",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-112",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-094",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-106",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-094",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-106",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-094",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-112",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-094",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-112",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-094",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-94",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-094",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-94",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-094",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-102",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-095",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-102",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-095",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-101",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-095",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-101",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-095",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-107",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-095",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-107",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-095",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-95",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-095",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-95",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-095",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-103",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-096",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-103",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-096",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-102",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-096",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-102",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-096",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-108",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-096",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-108",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-096",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-96",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-096",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-96",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-096",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-132",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-097",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-132",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-097",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-129",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-097",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-129",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-097",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-91",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-097",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-91",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-097",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-97",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-097",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-97",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-097",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-133",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-098",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-133",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-098",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-130",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-098",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-130",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-098",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-92",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-098",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-92",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-098",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-98",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-098",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-98",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-098",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-134",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-099",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-134",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-099",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-131",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-099",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-131",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-099",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-93",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-099",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-93",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-099",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-99",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-099",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-99",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-099",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-135",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-100",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-135",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-100",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-132",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-100",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-132",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-100",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-94",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-100",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-94",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-100",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-100",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-100",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-100",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-100",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-91",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-101",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-91",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-101",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-97",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-101",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-97",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-101",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-95",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-101",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-95",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-101",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-101",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-101",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-101",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-101",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-92",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-102",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-92",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-102",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-98",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-102",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-98",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-102",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-96",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-102",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-96",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-102",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-102",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-102",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-102",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-102",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-93",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-103",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-93",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-103",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-99",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-103",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-99",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-103",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-97",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-103",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-97",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-103",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-103",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-103",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-103",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-103",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-94",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-104",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-94",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-104",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-100",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-104",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-100",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-104",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-98",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-104",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-98",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-104",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-104",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-104",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-104",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-104",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-107",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-105",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-107",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-105",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-107",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-105",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-107",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-105",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-105",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-105",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-105",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-105",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-105",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-105",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-105",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-105",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-108",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-106",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-108",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-106",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-108",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-106",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-108",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-106",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-106",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-106",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-106",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-106",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-106",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-106",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-106",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-106",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-95",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-107",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-95",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-107",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-91",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-107",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-91",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-107",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-99",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-107",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-99",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-107",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-107",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-107",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-107",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-107",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-96",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-108",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-96",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-108",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-92",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-108",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-92",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-108",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-100",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-108",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-100",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-108",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-108",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-108",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-108",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-108",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-97",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-109",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-97",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-109",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-93",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-109",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-93",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-109",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-101",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-109",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-101",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-109",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-109",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-109",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-109",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-109",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-98",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-110",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-98",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-110",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-94",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-110",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-94",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-110",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-102",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-110",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-102",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-110",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-110",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-110",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-110",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-110",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-99",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-111",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-99",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-111",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-95",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-111",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-95",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-111",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-103",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-111",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-103",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-111",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-111",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-111",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-111",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-111",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-100",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-112",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-100",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-112",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-96",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-112",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-96",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-112",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-104",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-112",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-104",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-112",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-112",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-112",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-112",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-112",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-101",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-113",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-101",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-113",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-126",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-113",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-126",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-113",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-135",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-113",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-135",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-113",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-113",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-113",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-113",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-113",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-104",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-114",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-104",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-114",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-109",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-114",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-109",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-114",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-113",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-114",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-113",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-114",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-114",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-114",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-114",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-114",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-105",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-115",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-105",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-115",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-110",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-115",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-110",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-115",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-114",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-115",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-114",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-115",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-115",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-115",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-115",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-115",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-106",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-116",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-106",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-116",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-111",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-116",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-111",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-116",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-115",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-116",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-115",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-116",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-116",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-116",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-116",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-116",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-122",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-117",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-122",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-117",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-122",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-117",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-122",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-117",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-116",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-117",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-116",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-117",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-117",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-117",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-117",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-117",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-123",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-118",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-123",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-118",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-123",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-118",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-123",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-118",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-117",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-118",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-117",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-118",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-118",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-118",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-118",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-118",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-124",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-119",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-124",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-119",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-124",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-119",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-124",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-119",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-118",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-119",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-118",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-119",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-119",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-119",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-119",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-119",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-125",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-120",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-125",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-120",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-125",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-120",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-125",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-120",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-119",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-120",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-119",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-120",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-120",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-120",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-120",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-120",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-129",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-121",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-129",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-121",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-133",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-121",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-133",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-121",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-127",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-121",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-127",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-121",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-121",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-121",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-121",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-121",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-130",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-122",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-130",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-122",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-134",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-122",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-134",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-122",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-128",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-122",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-128",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-122",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-122",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-122",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-122",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-122",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-131",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-123",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-131",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-123",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-135",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-123",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-135",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-123",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-129",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-123",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-129",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-123",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-123",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-123",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-123",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-123",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-116",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-124",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-116",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-124",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-127",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-124",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-127",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-124",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-133",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-124",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-133",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-124",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-124",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-124",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-124",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-124",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-117",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-125",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-117",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-125",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-128",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-125",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-128",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-125",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-134",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-125",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-134",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-125",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-125",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-125",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-125",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-125",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-126",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-126",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-126",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-126",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-119",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-126",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-119",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-126",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-124",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-126",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-124",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-126",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-126",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-126",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-126",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-126",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-127",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-127",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-127",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-127",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-120",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-127",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-120",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-127",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-125",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-127",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-125",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-127",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-127",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-127",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-127",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-127",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-128",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-128",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-128",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-128",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-121",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-128",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-121",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-128",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-126",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-128",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-126",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-128",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-128",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-128",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-128",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-128",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-118",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-129",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-118",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-129",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-112",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-129",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-112",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-129",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-120",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-129",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-120",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-129",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-129",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-129",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-129",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-129",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-119",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-130",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-119",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-130",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-113",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-130",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-113",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-130",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-121",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-130",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-121",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-130",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-130",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-130",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-130",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-130",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-120",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-131",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-120",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-131",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-114",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-131",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-114",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-131",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-122",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-131",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-122",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-131",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-131",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-131",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-131",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-131",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-121",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-132",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-121",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-132",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-115",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-132",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-115",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-132",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-123",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-132",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-123",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-132",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-132",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-132",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-132",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-132",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-113",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-133",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-113",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-133",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-116",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-133",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-116",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-133",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-130",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-133",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-130",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-133",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-133",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-133",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-133",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-133",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-114",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-134",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-114",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-134",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-117",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-134",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-117",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-134",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-131",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-134",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-131",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-134",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-134",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-134",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-134",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-134",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-5/questao-115",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-135",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-amarelo/questao-115",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-135",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-6/questao-118",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-135",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-cinza/questao-118",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-135",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-7/questao-132",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-135",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-azul/questao-132",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-135",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-8/questao-135",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-135",
+      "permanent": true
+    },
+    {
+      "source": "/enem/2025/ciencias-da-natureza/caderno-verde/questao-135",
+      "destination": "/enem/2025/ciencias-da-natureza/questao/2025-135",
+      "permanent": true
     }
   ]
 }

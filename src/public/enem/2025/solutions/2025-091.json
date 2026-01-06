@@ -1,0 +1,23 @@
+{
+  "question_id": "2025_q091",
+  "final_answer": {
+    "letter": "E",
+    "value": "descarboxilação"
+  },
+  "short_md": "O ácido anacárdico perde o grupo carboxila e libera CO2 ao formar o cardanol. Essa perda de CO2 caracteriza uma descarboxilação.  \nResposta: alternativa E.",
+  "steps": [
+    {
+      "title": "Reconhecer o grupo funcional",
+      "body_md": "O reagente é um ácido carboxílico (grupo -COOH)."
+    },
+    {
+      "title": "Identificar o que sai",
+      "body_md": "No produto, o grupo carboxila não aparece e há liberação de CO2."
+    },
+    {
+      "title": "Classificar a reação",
+      "body_md": "A remoção do grupo carboxila com saída de CO2 é uma descarboxilação."
+    }
+  ],
+  "tts_text": "O ácido anacárdico possui um grupo carboxila, típico de ácidos carboxílicos. No esquema, após o aquecimento, o produto é o cardanol, que não contém esse grupo, e aparece a liberação de CO2. Isso indica a perda do grupo carboxila. Esse tipo de transformação é chamado de descarboxilação. Portanto, a alternativa correta é a letra E."
+}

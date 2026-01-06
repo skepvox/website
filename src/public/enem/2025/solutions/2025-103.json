@@ -1,0 +1,19 @@
+{
+  "question_id": "2025_q103",
+  "final_answer": {
+    "letter": "D",
+    "value": "induz a produção de proteínas neutralizadoras"
+  },
+  "short_md": "O antígeno não cura diretamente; ele estimula o sistema imune a produzir anticorpos neutralizantes.  \nResposta: alternativa D.",
+  "steps": [
+    {
+      "title": "Identificar o papel do antígeno",
+      "body_md": "Antígenos servem para ativar a resposta imune."
+    },
+    {
+      "title": "Efeito protetor",
+      "body_md": "A proteção ocorre pela produção de anticorpos neutralizantes."
+    }
+  ],
+  "tts_text": "O antígeno da vacina não destrói o vírus diretamente. Ele estimula o sistema imunológico a produzir anticorpos, que neutralizam o patógeno. Por isso, o efeito protetor vem da produção de proteínas neutralizadoras. A alternativa correta é a letra D."
+}

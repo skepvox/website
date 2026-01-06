@@ -1,0 +1,23 @@
+{
+  "question_id": "2025_q113",
+  "final_answer": {
+    "letter": "A",
+    "value": "gráfico A"
+  },
+  "short_md": "O texto afirma que a frequência da luz emitida aumenta com o tempo.  \nFrequência maior significa menor comprimento de onda.  \nLogo, o espectro final deve deslocar-se para a esquerda.  \nIsso ocorre no gráfico A.",
+  "steps": [
+    {
+      "title": "Relacionar frequência e comprimento de onda",
+      "body_md": "Maior frequência implica menor comprimento de onda."
+    },
+    {
+      "title": "Aplicar à evolução do sensor",
+      "body_md": "No final do tratamento, o pico deve deslocar-se para a esquerda."
+    },
+    {
+      "title": "Escolher o gráfico",
+      "body_md": "A curva final à esquerda da inicial aparece no gráfico A."
+    }
+  ],
+  "tts_text": "O enunciado informa que, com o tempo de exposição, a frequência da luz emitida pelo sensor aumenta. Frequência maior significa comprimento de onda menor. Portanto, o espectro no final do tratamento deve estar deslocado para a esquerda em relação ao início. Entre as opções, o gráfico A mostra esse deslocamento. Logo, a alternativa correta é a letra A."
+}

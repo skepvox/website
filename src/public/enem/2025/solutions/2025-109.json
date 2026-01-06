@@ -1,0 +1,19 @@
+{
+  "question_id": "2025_q109",
+  "final_answer": {
+    "letter": "A",
+    "value": "dilatada, chega mais luz à retina"
+  },
+  "short_md": "Em ambientes pouco iluminados, a pupila dilata.  \nCom maior abertura, mais luz do flash chega à retina e reflete, causando olhos vermelhos.  \nResposta: alternativa A.",
+  "steps": [
+    {
+      "title": "Relacionar iluminação e pupila",
+      "body_md": "No escuro, a pupila dilata para captar mais luz."
+    },
+    {
+      "title": "Explicar o efeito",
+      "body_md": "Maior abertura permite mais luz refletida pela retina."
+    }
+  ],
+  "tts_text": "O efeito de olhos vermelhos é mais comum no escuro porque a pupila está dilatada. Com a pupila maior, mais luz do flash entra e é refletida pela retina vascularizada. Assim, a alternativa correta é a letra A."
+}

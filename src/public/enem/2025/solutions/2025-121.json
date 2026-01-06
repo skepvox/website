@@ -1,0 +1,23 @@
+{
+  "question_id": "2025_q121",
+  "final_answer": {
+    "letter": "C",
+    "value": "gráfico C"
+  },
+  "short_md": "A enzima diminui a energia de ativação, mas não altera as energias de reagentes e produtos.  \nO gráfico correto é o que mantém A e B iguais e reduz o pico: alternativa C.",
+  "steps": [
+    {
+      "title": "Efeito da enzima",
+      "body_md": "A enzima diminui a energia de ativação."
+    },
+    {
+      "title": "Energia de reagentes e produtos",
+      "body_md": "A e B permanecem no mesmo nível, pois o equilíbrio não muda."
+    },
+    {
+      "title": "Escolher o gráfico",
+      "body_md": "Curva pontilhada com pico menor e mesmos níveis inicial e final."
+    }
+  ],
+  "tts_text": "A presença da enzima reduz a energia de ativação, mas não altera as energias de reagentes e produtos. Portanto, o gráfico correto mantém os níveis de A e B iguais e apresenta um pico menor para a curva com enzima. Essa descrição corresponde ao gráfico C."
+}

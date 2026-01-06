@@ -1,0 +1,19 @@
+{
+  "question_id": "2025_q111",
+  "final_answer": {
+    "letter": "A",
+    "value": "lisossomos"
+  },
+  "short_md": "A lipase ácida é uma enzima lisossomal.  \nSua deficiência gera acúmulo de lipídios em organelas de digestão.  \nResposta: alternativa A.",
+  "steps": [
+    {
+      "title": "Identificar a enzima",
+      "body_md": "Lipase ácida atua em degradação intracelular de lipídios."
+    },
+    {
+      "title": "Localizar a organela",
+      "body_md": "Essa função é típica dos lisossomos."
+    }
+  ],
+  "tts_text": "A lipase ácida é uma enzima envolvida na degradação de lipídios dentro da célula. Esse processo ocorre nos lisossomos. Logo, a insuficiência funcional está relacionada aos lisossomos. A alternativa correta é a letra A."
+}

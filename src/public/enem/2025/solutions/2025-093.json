@@ -1,0 +1,23 @@
+{
+  "question_id": "2025_q093",
+  "final_answer": {
+    "letter": "B",
+    "value": "eutrofização dos corpos de água"
+  },
+  "short_md": "O aproveitamento das sobras como fertilizante evita descarte de matéria orgânica rica em nutrientes em rios e lagos, prevenindo eutrofização.  \nResposta: alternativa B.",
+  "steps": [
+    {
+      "title": "Identificar a etapa 4",
+      "body_md": "As sobras são usadas como fertilizante."
+    },
+    {
+      "title": "Relacionar impacto ambiental",
+      "body_md": "Resíduos orgânicos em água elevam nutrientes e causam eutrofização."
+    },
+    {
+      "title": "Conclusão",
+      "body_md": "A destinação correta evita a eutrofização dos corpos d'água."
+    }
+  ],
+  "tts_text": "Na etapa 4, as sobras do biodigestor são usadas como fertilizante. Isso evita o descarte direto de matéria orgânica e nutrientes em rios e lagos. O principal impacto desse descarte seria a eutrofização, ou seja, o crescimento excessivo de algas por excesso de nutrientes. Logo, a alternativa correta é a letra B."
+}

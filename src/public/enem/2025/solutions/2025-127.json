@@ -1,0 +1,27 @@
+{
+  "question_id": "2025_q127",
+  "final_answer": {
+    "letter": "B",
+    "value": "3,5 g"
+  },
+  "short_md": "Pelo gás ideal:  \n$n_{gas} = PV/RT = 4/(0,082\\times 453) \\approx 0,1077$ mol.  \nCada mol de NH4HCO3 gera 3 mol de gás: $n = 0,1077/3 = 0,0359$ mol.  \nCom rendimento 80%: $n = 0,0359/0,8 = 0,0449$ mol.  \nMassa: $0,0449\\times 79 \\approx 3,5$ g.  \nResposta: alternativa B.",
+  "steps": [
+    {
+      "title": "Quantidade de gás",
+      "body_md": "$n = PV/RT = 4/(0,082\\times 453) \\approx 0,1077$ mol."
+    },
+    {
+      "title": "Relacionar com o reagente",
+      "body_md": "1 mol de NH4HCO3 gera 3 mol de gás, então $n = 0,1077/3$."
+    },
+    {
+      "title": "Ajustar pelo rendimento",
+      "body_md": "$n = 0,0359/0,8 = 0,0449$ mol."
+    },
+    {
+      "title": "Calcular a massa",
+      "body_md": "$m = 0,0449\\times 79 \\approx 3,5$ g."
+    }
+  ],
+  "tts_text": "Primeiro calculamos a quantidade de gás usando a equação dos gases ideais: n igual a PV sobre RT. Com 4 litros, 1 atmosfera e 453 kelvin, obtemos aproximadamente 0,1077 mol de gás. Cada mol de bicarbonato de amônio gera 3 mol de gases, então são necessários 0,1077 dividido por 3, isto é, 0,0359 mol. Como o rendimento é de 80 por cento, dividimos por 0,8 e obtemos 0,0449 mol. Multiplicando pela massa molar 79, a massa é cerca de 3,5 gramas. Portanto, a alternativa correta é a letra B."
+}

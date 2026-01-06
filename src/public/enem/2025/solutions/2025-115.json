@@ -1,0 +1,19 @@
+{
+  "question_id": "2025_q115",
+  "final_answer": {
+    "letter": "B",
+    "value": "ressonância e frequência"
+  },
+  "short_md": "A quebra das taças ocorre por ressonância quando a frequência da voz coincide com a frequência natural do vidro.  \nLogo, o fenômeno é ressonância e a característica é a frequência.  \nResposta: alternativa B.",
+  "steps": [
+    {
+      "title": "Identificar o fenômeno",
+      "body_md": "A quebra por som é típica de ressonância."
+    },
+    {
+      "title": "Relacionar a propriedade",
+      "body_md": "Ressonância depende da frequência, não da intensidade."
+    }
+  ],
+  "tts_text": "O rompimento das taças acontece quando a frequência da voz coincide com a frequência natural do vidro, caracterizando ressonância. Essa condição depende da frequência, e não da intensidade do som. Portanto, a alternativa correta é a letra B."
+}

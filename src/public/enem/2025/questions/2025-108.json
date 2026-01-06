@@ -4,7 +4,7 @@
   "day": 2,
   "number": 108,
   "area": {
-    "code": "natureza",
+    "code": "ciencias-da-natureza",
     "name": "Ciências da Natureza e suas Tecnologias"
   },
   "subject": null,
@@ -12,7 +12,7 @@
   "skill": null,
   "context": {
     "type": "text",
-    "content": "Existe um processo de purificação de água em que são\nremovidos os sais dissolvidos. A água que passa por esse processo\né muito utilizada em laboratórios de química, em indústrias\n(como solvente), em baterias de carros etc. Entretanto, esse\ntipo de água não é adequado para ingestão, pois pode causar\nproblemas de saúde, como carência iônica e diarreia.",
+    "content": "Existe um processo de purificação de água em que são removidos os sais dissolvidos. A água que passa por esse processo é muito utilizada em laboratórios de química, em indústrias (como solvente), em baterias de carros etc. Entretanto, esse tipo de água não é adequado para ingestão, pois pode causar problemas de saúde, como carência iônica e diarreia.",
     "source": null,
     "language": "pt"
   },
@@ -21,18 +21,16 @@
     {
       "id": "t1",
       "scope": "context",
-      "text": "Existe um processo de purificação de água em que são\nremovidos os sais dissolvidos. A água que passa por esse processo\né muito utilizada em laboratórios de química, em indústrias\n(como solvente), em baterias de carros etc. Entretanto, esse\ntipo de água não é adequado para ingestão, pois pode causar\nproblemas de saúde, como carência iônica e diarreia.",
+      "text": "Existe um processo de purificação de água em que são removidos os sais dissolvidos. A água que passa por esse processo é muito utilizada em laboratórios de química, em indústrias (como solvente), em baterias de carros etc. Entretanto, esse tipo de água não é adequado para ingestão, pois pode causar problemas de saúde, como carência iônica e diarreia.",
       "anchor": "before:assets:context",
       "order": 1
-    },
-    {
-      "id": "t2",
-      "scope": "statement",
-      "text": "Essa água é chamada de",
-      "anchor": "before:options",
-      "order": 2
     }
   ],
+  "prompt": {
+    "text": "Essa água é chamada de",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
   "options": [
     {
       "letter": "A",
@@ -72,7 +70,7 @@
     "has_table": false,
     "has_formula": false,
     "annulled": false,
-    "reviewed": false,
-    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+    "reviewed": true,
+    "review_notes": "Reviewed 2026-01-06: statement separated; content verified"
   }
 }

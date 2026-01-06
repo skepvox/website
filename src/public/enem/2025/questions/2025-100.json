@@ -4,30 +4,37 @@
   "day": 2,
   "number": 100,
   "area": {
-    "code": "natureza",
+    "code": "ciencias-da-natureza",
     "name": "Ciências da Natureza e suas Tecnologias"
   },
   "subject": null,
   "competency": null,
   "skill": null,
   "context": {
-    "type": "text",
-    "content": "Réguas elétricas são dispositivos que permitem a ligação\nsegura e simultânea de dois ou mais aparelhos eletroeletrônicos\nà rede elétrica. Uma estudante comprou uma régua com seis\ntomadas, conforme a figura. Essa régua suporta uma intensidade\nmáxima de corrente elétrica igual a 20 A. Acima desse valor, o\nfusível de segurança da régua se rompe, inutilizando-a até que\num novo fusível seja instalado. Considere as potências nominais\nde alguns aparelhos eletroeletrônicos apresentadas no quadro.\nAparelho\nPotência (watt)\nLuminária de LED\n5\nComputador\n250\nImpressora a laser\n660\nSecador de cabelos\n750\nCafeteira\n900\nCondicionador\nde ar portátil\n1 100\nEm um dia quente, a estudante mantém o computador e o\ncondicionador de ar portátil ligados à régua permanentemente.\nNessa situação, ela tenta realizar algumas atividades, uma de\ncada vez, utilizando a mesma régua, na seguinte ordem:\n1º – imprimir um trabalho escolar;\n2º – fazer um café com a cafeteira;\n3º – ligar a luminária;\n4º – secar os cabelos.\nSabe-se que a régua foi ligada à tensão elétrica de 110 V,\nadequada para o funcionamento desses aparelhos.\nConsiderando a ordem das tentativas, quantas atividades a",
+    "type": "list",
+    "content": "Réguas elétricas são dispositivos que permitem a ligação segura e simultânea de dois ou mais aparelhos eletroeletrônicos à rede elétrica. Uma estudante comprou uma régua com seis tomadas, conforme a figura. Essa régua suporta uma intensidade máxima de corrente elétrica igual a 20 A. Acima desse valor, o fusível de segurança da régua se rompe, inutilizando-a até que um novo fusível seja instalado. Considere as potências nominais de alguns aparelhos eletroeletrônicos apresentadas no quadro.\n\nEm um dia quente, a estudante mantém o computador e o condicionador de ar portátil ligados à régua permanentemente. Nessa situação, ela tenta realizar algumas atividades, uma de cada vez, utilizando a mesma régua, na seguinte ordem:\n\n• 1º - imprimir um trabalho escolar;\n• 2º - fazer um café com a cafeteira;\n• 3º - ligar a luminária;\n• 4º - secar os cabelos.\n\nSabe-se que a régua foi ligada à tensão elétrica de 110 V, adequada para o funcionamento desses aparelhos.",
     "source": null,
     "language": "pt"
   },
-  "statement": "estudante conseguiu realizar sem queimar o fusível?",
+  "statement": "Considerando a ordem das tentativas, quantas atividades a estudante conseguiu realizar sem queimar o fusível?",
   "text_flow": [
     {
       "id": "t1",
       "scope": "context",
-      "text": "Réguas elétricas são dispositivos que permitem a ligação\nsegura e simultânea de dois ou mais aparelhos eletroeletrônicos\nà rede elétrica. Uma estudante comprou uma régua com seis\ntomadas, conforme a figura. Essa régua suporta uma intensidade\nmáxima de corrente elétrica igual a 20 A. Acima desse valor, o\nfusível de segurança da régua se rompe, inutilizando-a até que\num novo fusível seja instalado. Considere as potências nominais\nde alguns aparelhos eletroeletrônicos apresentadas no quadro.\nAparelho\nPotência (watt)\nLuminária de LED\n5\nComputador\n250\nImpressora a laser\n660\nSecador de cabelos\n750\nCafeteira\n900\nCondicionador\nde ar portátil\n1 100\nEm um dia quente, a estudante mantém o computador e o\ncondicionador de ar portátil ligados à régua permanentemente.\nNessa situação, ela tenta realizar algumas atividades, uma de\ncada vez, utilizando a mesma régua, na seguinte ordem:\n1º – imprimir um trabalho escolar;\n2º – fazer um café com a cafeteira;\n3º – ligar a luminária;\n4º – secar os cabelos.\nSabe-se que a régua foi ligada à tensão elétrica de 110 V,\nadequada para o funcionamento desses aparelhos.\nConsiderando a ordem das tentativas, quantas atividades a",
+      "text": "Réguas elétricas são dispositivos que permitem a ligação segura e simultânea de dois ou mais aparelhos eletroeletrônicos à rede elétrica. Uma estudante comprou uma régua com seis tomadas, conforme a figura. Essa régua suporta uma intensidade máxima de corrente elétrica igual a 20 A. Acima desse valor, o fusível de segurança da régua se rompe, inutilizando-a até que um novo fusível seja instalado. Considere as potências nominais de alguns aparelhos eletroeletrônicos apresentadas no quadro.",
       "anchor": "before:assets:context",
       "order": 1
+    },
+    {
+      "id": "t2",
+      "scope": "context",
+      "text": "Em um dia quente, a estudante mantém o computador e o condicionador de ar portátil ligados à régua permanentemente. Nessa situação, ela tenta realizar algumas atividades, uma de cada vez, utilizando a mesma régua, na seguinte ordem:\n\n• 1º - imprimir um trabalho escolar;\n• 2º - fazer um café com a cafeteira;\n• 3º - ligar a luminária;\n• 4º - secar os cabelos.\n\nSabe-se que a régua foi ligada à tensão elétrica de 110 V, adequada para o funcionamento desses aparelhos.",
+      "anchor": "after:assets:context",
+      "order": 2
     }
   ],
   "prompt": {
-    "text": "estudante conseguiu realizar sem queimar o fusível?",
+    "text": "Considerando a ordem das tentativas, quantas atividades a estudante conseguiu realizar sem queimar o fusível?",
     "scope": "statement",
     "anchor": "before:options"
   },
@@ -55,9 +62,51 @@
   ],
   "correct_answer": "D",
   "assets": {
-    "images": [],
+    "images": [
+      {
+        "id": "q100_img_001",
+        "file": "images/raw/ciencias-da-natureza/2025-100-img-001.jpeg",
+        "alt": "Régua elétrica com seis tomadas, interruptor e cabo de alimentação.",
+        "position": "context"
+      }
+    ],
     "charts": [],
-    "tables": [],
+    "tables": [
+      {
+        "id": "q100_table_001",
+        "headers": [
+          "Aparelho",
+          "Potência (watt)"
+        ],
+        "rows": [
+          [
+            "Luminária de LED",
+            "5"
+          ],
+          [
+            "Computador",
+            "250"
+          ],
+          [
+            "Impressora a laser",
+            "660"
+          ],
+          [
+            "Secador de cabelos",
+            "750"
+          ],
+          [
+            "Cafeteira",
+            "900"
+          ],
+          [
+            "Condicionador de ar portátil",
+            "1 100"
+          ]
+        ],
+        "position": "context"
+      }
+    ],
     "formulas": []
   },
   "metadata": {
@@ -65,12 +114,12 @@
     "caderno": "verde",
     "caderno_position": 100,
     "foreign_language_option": null,
-    "has_image": false,
+    "has_image": true,
     "has_chart": false,
-    "has_table": false,
+    "has_table": true,
     "has_formula": false,
     "annulled": false,
-    "reviewed": false,
-    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+    "reviewed": true,
+    "review_notes": "Reviewed 2026-01-06: table extracted; image mapped; list formatted"
   }
 }

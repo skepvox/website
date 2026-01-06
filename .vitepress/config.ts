@@ -91,16 +91,17 @@ export const sidebar: ThemeConfig['sidebar'] = {
       items: [
         { text: 'Linguagens', link: '/enem-sandbox/2025/linguagens' },
         { text: 'Humanas', link: '/enem-sandbox/2025/humanas' },
-        { text: 'Natureza', link: '/enem-sandbox/2025/natureza' },
+        { text: 'Ciências da Natureza', link: '/enem-sandbox/2025/ciencias-da-natureza' },
         { text: 'Matemática', link: '/enem-sandbox/2025/matematica' }
       ]
     }
   ],
   '/enem/': [
     {
-      text: 'ENEM 2025',
+      text: 'ENEM 2025 · Caderno Verde',
       items: [
-        { text: 'Matemática 2025 · Caderno Verde', link: '/enem/2025/matematica' }
+        { text: 'Ciências da Natureza', link: '/enem/2025/ciencias-da-natureza' },
+        { text: 'Matemática', link: '/enem/2025/matematica' }
       ]
     }
   ],
@@ -134,7 +135,6 @@ export default defineConfigWithTheme<ThemeConfig>({
       const excluded = new Set([
         '/enem/2025/humanas',
         '/enem/2025/linguagens',
-        '/enem/2025/natureza',
         '/enem/overrides/README'
       ])
 

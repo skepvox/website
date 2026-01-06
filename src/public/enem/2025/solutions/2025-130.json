@@ -1,0 +1,19 @@
+{
+  "question_id": "2025_q130",
+  "final_answer": {
+    "letter": "B",
+    "value": "vinagre"
+  },
+  "short_md": "A dimetilamina é uma base volátil.  \nO vinagre é ácido e forma um sal menos volátil, reduzindo a evaporação.  \nResposta: alternativa B.",
+  "steps": [
+    {
+      "title": "Identificar a natureza da substância",
+      "body_md": "Dimetilamina é uma base orgânica volátil."
+    },
+    {
+      "title": "Escolher o neutralizante",
+      "body_md": "Ácidos formam sais menos voláteis; o vinagre é ácido."
+    }
+  ],
+  "tts_text": "A dimetilamina é uma base e é volátil. Para minimizar sua evaporação, deve-se neutralizá-la com um ácido, formando um sal menos volátil. Entre as opções, o vinagre é ácido. Portanto, a alternativa correta é a letra B."
+}

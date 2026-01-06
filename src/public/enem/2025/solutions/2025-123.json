@@ -1,0 +1,19 @@
+{
+  "question_id": "2025_q123",
+  "final_answer": {
+    "letter": "A",
+    "value": "esquistossomose"
+  },
+  "short_md": "O ácido úsnico é altamente eficiente contra moluscos aquáticos.  \nA esquistossomose é transmitida por caramujos (moluscos).  \nResposta: alternativa A.",
+  "steps": [
+    {
+      "title": "Identificar o alvo mais eficiente",
+      "body_md": "Alta eficiência ocorre em moluscos aquáticos."
+    },
+    {
+      "title": "Relacionar com a doença",
+      "body_md": "A esquistossomose depende de caramujos como hospedeiros intermediários."
+    }
+  ],
+  "tts_text": "O quadro mostra alta eficiência do ácido úsnico contra moluscos aquáticos. A esquistossomose é transmitida por caramujos, que são moluscos. Portanto, o controle mais indicado é o da esquistossomose. Alternativa A."
+}

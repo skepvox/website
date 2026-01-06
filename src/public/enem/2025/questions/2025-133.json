@@ -4,7 +4,7 @@
   "day": 2,
   "number": 133,
   "area": {
-    "code": "natureza",
+    "code": "ciencias-da-natureza",
     "name": "Ciências da Natureza e suas Tecnologias"
   },
   "subject": null,
@@ -12,45 +12,55 @@
   "skill": null,
   "context": {
     "type": "text",
-    "content": "Em sua maioria, os equipamentos eletrônicos domésticos\ndemandam baixa potência elétrica em corrente contínua.\nPara alimentá-los, uma fonte externa ou embutida transforma\na corrente alternada em corrente contínua de baixa tensão.\nEntretanto, cada equipamento tem suas especificidades, e muitas\nvezes não é possível simplesmente trocar essas fontes sem levar\nem conta a tensão, a corrente ou a potência elétrica de saída.\nConsidere um equipamento de resistência elétrica RC que\nfunciona corretamente apenas em um dado valor de tensão.\nPorém, a única fonte de alimentação disponível fornece uma\ntensão 20% superior à tensão recomendada. Para adaptar essa\nfonte ao aparelho, a associação de um resistor de proteção RP\n,\nde potência adequada, se faz necessária.\nA configuração adequada do circuito e o valor do resistor de",
+    "content": "Em sua maioria, os equipamentos eletrônicos domésticos demandam baixa potência elétrica em corrente contínua. Para alimentá-los, uma fonte externa ou embutida transforma a corrente alternada em corrente contínua de baixa tensão. Entretanto, cada equipamento tem suas especificidades, e muitas vezes não é possível simplesmente trocar essas fontes sem levar em conta a tensão, a corrente ou a potência elétrica de saída. Considere um equipamento de resistência elétrica RC que funciona corretamente apenas em um dado valor de tensão. Porém, a única fonte de alimentação disponível fornece uma tensão 20% superior à tensão recomendada. Para adaptar essa fonte ao aparelho, a associação de um resistor de proteção RP, de potência adequada, se faz necessária.",
     "source": null,
     "language": "pt"
   },
-  "statement": "proteção, em relação ao valor da resistência do equipamento, são:",
+  "statement": "A configuração adequada do circuito e o valor do resistor de proteção, em relação ao valor da resistência do equipamento, são:",
   "text_flow": [
     {
       "id": "t1",
       "scope": "context",
-      "text": "Em sua maioria, os equipamentos eletrônicos domésticos\ndemandam baixa potência elétrica em corrente contínua.\nPara alimentá-los, uma fonte externa ou embutida transforma\na corrente alternada em corrente contínua de baixa tensão.\nEntretanto, cada equipamento tem suas especificidades, e muitas\nvezes não é possível simplesmente trocar essas fontes sem levar\nem conta a tensão, a corrente ou a potência elétrica de saída.\nConsidere um equipamento de resistência elétrica RC que\nfunciona corretamente apenas em um dado valor de tensão.\nPorém, a única fonte de alimentação disponível fornece uma\ntensão 20% superior à tensão recomendada. Para adaptar essa\nfonte ao aparelho, a associação de um resistor de proteção RP\n,\nde potência adequada, se faz necessária.\nA configuração adequada do circuito e o valor do resistor de",
+      "text": "Em sua maioria, os equipamentos eletrônicos domésticos demandam baixa potência elétrica em corrente contínua. Para alimentá-los, uma fonte externa ou embutida transforma a corrente alternada em corrente contínua de baixa tensão. Entretanto, cada equipamento tem suas especificidades, e muitas vezes não é possível simplesmente trocar essas fontes sem levar em conta a tensão, a corrente ou a potência elétrica de saída. Considere um equipamento de resistência elétrica RC que funciona corretamente apenas em um dado valor de tensão. Porém, a única fonte de alimentação disponível fornece uma tensão 20% superior à tensão recomendada. Para adaptar essa fonte ao aparelho, a associação de um resistor de proteção RP, de potência adequada, se faz necessária.",
       "anchor": "before:assets:context",
       "order": 1
     }
   ],
   "prompt": {
-    "text": "proteção, em relação ao valor da resistência do equipamento, são:",
+    "text": "A configuração adequada do circuito e o valor do resistor de proteção, em relação ao valor da resistência do equipamento, são:",
     "scope": "statement",
     "anchor": "before:options"
   },
   "options": [
     {
       "letter": "A",
-      "text": "[IMAGE]"
+      "text": "",
+      "image": "images/raw/ciencias-da-natureza/2025-133-img-001.png",
+      "image_alt": "Alternativa A: Rp em paralelo com Rc; Rp = 0,2 Rc."
     },
     {
       "letter": "B",
-      "text": "[IMAGE]"
+      "text": "",
+      "image": "images/raw/ciencias-da-natureza/2025-133-img-002.png",
+      "image_alt": "Alternativa B: Rp em paralelo com Rc; Rp = 1,2 Rc."
     },
     {
       "letter": "C",
-      "text": "[IMAGE]"
+      "text": "",
+      "image": "images/raw/ciencias-da-natureza/2025-133-img-003.png",
+      "image_alt": "Alternativa C: Rp em serie com Rc; Rp = 1,2 Rc."
     },
     {
       "letter": "D",
-      "text": "[IMAGE]"
+      "text": "",
+      "image": "images/raw/ciencias-da-natureza/2025-133-img-004.png",
+      "image_alt": "Alternativa D: Rp em serie com Rc; Rp = 2,2 Rc."
     },
     {
       "letter": "E",
-      "text": "[IMAGE]"
+      "text": "",
+      "image": "images/raw/ciencias-da-natureza/2025-133-img-005.png",
+      "image_alt": "Alternativa E: Rp em serie com Rc; Rp = 0,2 Rc."
     }
   ],
   "correct_answer": "E",
@@ -70,7 +80,7 @@
     "has_table": false,
     "has_formula": false,
     "annulled": false,
-    "reviewed": false,
-    "review_notes": "Image-based options need manual review"
+    "reviewed": true,
+    "review_notes": "Reviewed 2026-01-06: option diagrams mapped; text cleaned"
   }
 }

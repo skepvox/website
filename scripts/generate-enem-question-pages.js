@@ -4,10 +4,24 @@ import { fileURLToPath } from 'node:url'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const ROOT = path.resolve(__dirname, '..')
-const YEAR = 2025
-const AREA_CODE = 'matematica'
-const AREA_LABEL = 'Matemática e suas Tecnologias'
-const AREA_SHORT = 'Matemática'
+const args = process.argv.slice(2)
+const readArg = (name) => {
+  const prefix = `--${name}`
+  const entry = args.find((arg) => arg === prefix || arg.startsWith(`${prefix}=`))
+  if (!entry) {
+    return null
+  }
+  if (entry.includes('=')) {
+    return entry.split('=').slice(1).join('=')
+  }
+  const index = args.indexOf(entry)
+  return index >= 0 ? args[index + 1] ?? null : null
+}
+
+const YEAR = Number(readArg('year') ?? 2025)
+const AREA_CODE = readArg('area') ?? 'matematica'
+const AREA_LABEL = readArg('label') ?? 'Matemática e suas Tecnologias'
+const AREA_SHORT = readArg('short') ?? 'Matemática'
 const SITE_URL = 'https://skepvox.com'
 
 const QUESTIONS_DIR = path.join(ROOT, 'src', 'public', 'enem', String(YEAR), 'questions')
@@ -208,14 +222,14 @@ const buildJsonLd = (question, entries, canonicalUrl, questionJsonUrl, correctAn
       inLanguage: 'pt-BR',
       educationalLevel: 'Ensino Médio',
       learningResourceType: 'Questão de prova',
-      about: ['Matemática', 'ENEM'],
+      about: [AREA_SHORT, 'ENEM'],
       text: text || undefined,
       isAccessibleForFree: true,
       acceptedAnswer,
       isPartOf: {
         '@type': 'LearningResource',
         name: `ENEM ${question.year} — ${AREA_LABEL}`,
-        url: `${SITE_URL}/enem/${question.year}/matematica`
+        url: `${SITE_URL}/enem/${question.year}/${AREA_CODE}`
       },
       additionalProperty: props.length ? props : undefined,
       contentUrl: questionJsonUrl
@@ -234,7 +248,7 @@ const buildJsonLd = (question, entries, canonicalUrl, questionJsonUrl, correctAn
           '@type': 'ListItem',
           position: 2,
           name: `ENEM ${question.year} ${AREA_LABEL}`,
-          item: `${SITE_URL}/enem/${question.year}/matematica`
+          item: `${SITE_URL}/enem/${question.year}/${AREA_CODE}`
         },
         {
           '@type': 'ListItem',
@@ -675,16 +689,13 @@ const buildMarkdown = (question) => {
     }
   }
   lines.push('---', '')
-  lines.push(
-    `# ENEM ${question.year} — Matem\u00e1tica e suas Tecnologias — Quest\u00e3o ${question.number}`,
-    ''
-  )
+  lines.push(`# ENEM ${question.year} — ${AREA_LABEL} — Questão ${question.number}`, '')
 
   const mappingLines = renderBookletMapping(question, bookletEntries)
   if (mappingLines.length) {
     lines.push(...mappingLines, '')
   }
-  lines.push(`[Matem\u00e1tica ${question.year} \u00b7 Caderno Verde Completo](/enem/${question.year}/matematica)`, '')
+  lines.push(`[${AREA_SHORT} ${question.year} · Caderno Verde Completo](/enem/${question.year}/${AREA_CODE})`, '')
 
   if (question.context?.content) {
     lines.push('## Contexto', '')

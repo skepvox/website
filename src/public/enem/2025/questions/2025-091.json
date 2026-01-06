@@ -4,7 +4,7 @@
   "day": 2,
   "number": 91,
   "area": {
-    "code": "natureza",
+    "code": "ciencias-da-natureza",
     "name": "Ciências da Natureza e suas Tecnologias"
   },
   "subject": null,
@@ -14,29 +14,27 @@
     "type": "text",
     "content": "O fruto do cajueiro é um aquênio repleto de um líquido\nescuro, quase preto, cáustico e inflamável. Esse líquido da\ncasca da castanha do caju (LCC) representa aproximadamente\n25% da massa da castanha e é um subproduto de agronegócio\ndo caju. Quando submetido a altas temperaturas, o ácido\nanacárdico presente no LCC é convertido a cardanol, que recebe\na denominação de LCC técnico, conforme o esquema:",
     "source": {
-      "author": "MAZZETTO, S. E.",
-      "title": "; LOMONACO, D.; MELE, G. Óleo da castanha de caju:",
+      "author": "MAZZETTO, S. E.; LOMONACO, D.; MELE, G.",
+      "title": "Óleo da castanha de caju: oportunidades e desafios no contexto do desenvolvimento e sustentabilidade industrial. Química Nova, n. 3, 2009 (adaptado).",
       "note": null
     },
     "language": "pt"
   },
-  "statement": "oportunidades e desafios no contexto do desenvolvimento e sustentabilidade industrial. Química Nova, n. 3, 2009 (adaptado). O LCC técnico é produzido por meio de uma reação orgânica do tipo",
+  "statement": "O LCC técnico é produzido por meio de uma reação orgânica do tipo",
   "text_flow": [
     {
       "id": "t1",
       "scope": "context",
       "text": "O fruto do cajueiro é um aquênio repleto de um líquido\nescuro, quase preto, cáustico e inflamável. Esse líquido da\ncasca da castanha do caju (LCC) representa aproximadamente\n25% da massa da castanha e é um subproduto de agronegócio\ndo caju. Quando submetido a altas temperaturas, o ácido\nanacárdico presente no LCC é convertido a cardanol, que recebe\na denominação de LCC técnico, conforme o esquema:",
-      "anchor": "before:assets:context",
+      "anchor": "before:asset:q091_img_001",
       "order": 1
-    },
-    {
-      "id": "t2",
-      "scope": "statement",
-      "text": "oportunidades e desafios no contexto do desenvolvimento e sustentabilidade industrial. Química Nova, n. 3, 2009 (adaptado). O LCC técnico é produzido por meio de uma reação orgânica do tipo",
-      "anchor": "before:options",
-      "order": 2
     }
   ],
+  "prompt": {
+    "text": "O LCC técnico é produzido por meio de uma reação orgânica do tipo",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
   "options": [
     {
       "letter": "A",
@@ -61,7 +59,14 @@
   ],
   "correct_answer": "E",
   "assets": {
-    "images": [],
+    "images": [
+      {
+        "id": "q091_img_001",
+        "file": "images/raw/ciencias-da-natureza/2025-091-img-001.png",
+        "alt": "Esquema da reação: ácido anacárdico (anel benzênico com OH, grupo carboxílico e cadeia C15H31) aquecido (Δ, 180 °C a 200 °C) gera cardanol (anel benzênico com OH e cadeia C15H31) e CO2.",
+        "position": "context"
+      }
+    ],
     "charts": [],
     "tables": [],
     "formulas": []
@@ -71,12 +76,12 @@
     "caderno": "verde",
     "caderno_position": 91,
     "foreign_language_option": null,
-    "has_image": false,
+    "has_image": true,
     "has_chart": false,
     "has_table": false,
     "has_formula": false,
     "annulled": false,
-    "reviewed": false,
-    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+    "reviewed": true,
+    "review_notes": "Reviewed 2026-01-06: source attribution fixed; reaction diagram mapped"
   }
 }

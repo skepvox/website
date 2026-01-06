@@ -4,7 +4,7 @@
   "day": 2,
   "number": 96,
   "area": {
-    "code": "natureza",
+    "code": "ciencias-da-natureza",
     "name": "Ciências da Natureza e suas Tecnologias"
   },
   "subject": null,
@@ -12,47 +12,55 @@
   "skill": null,
   "context": {
     "type": "text",
-    "content": "Para transportar uma caixa do primeiro para o segundo\npiso de uma construção, um trabalhador precisará arrasta-lá\nsobre um plano inclinado. O trabalhador começa a arrastar a\ncaixa no primeiro piso, exercendo sobre ela uma força de grande\nintensidade, paralela ao seu deslocamento. Na medida em que a\ncaixa sobe o plano inclinado, ele decide reduzir a força sobre ela,\narrastando-a lentamente até chegar ao segundo piso. Considere\nque a caixa permanece em movimento nos encontros dos pisos\ncom o plano inclinado, e que a rugosidade entre as superfícies\npermanece a mesma durante todo o percurso.\nO comportamento da força de atrito entre a caixa e o chão no",
+    "content": "Para transportar uma caixa do primeiro para o segundo\npiso de uma construção, um trabalhador precisará arrastá-la\nsobre um plano inclinado. O trabalhador começa a arrastar a\ncaixa no primeiro piso, exercendo sobre ela uma força de grande\nintensidade, paralela ao seu deslocamento. Na medida em que a\ncaixa sobe o plano inclinado, ele decide reduzir a força sobre ela,\narrastando-a lentamente até chegar ao segundo piso. Considere\nque a caixa permanece em movimento nos encontros dos pisos\ncom o plano inclinado, e que a rugosidade entre as superfícies\npermanece a mesma durante todo o percurso.",
     "source": null,
     "language": "pt"
   },
-  "statement": "plano inclinado é representado em:",
+  "statement": "O comportamento da força de atrito entre a caixa e o chão no plano inclinado é representado em:",
   "text_flow": [
     {
       "id": "t1",
       "scope": "context",
-      "text": "Para transportar uma caixa do primeiro para o segundo\npiso de uma construção, um trabalhador precisará arrasta-lá\nsobre um plano inclinado. O trabalhador começa a arrastar a\ncaixa no primeiro piso, exercendo sobre ela uma força de grande\nintensidade, paralela ao seu deslocamento. Na medida em que a\ncaixa sobe o plano inclinado, ele decide reduzir a força sobre ela,\narrastando-a lentamente até chegar ao segundo piso. Considere\nque a caixa permanece em movimento nos encontros dos pisos\ncom o plano inclinado, e que a rugosidade entre as superfícies\npermanece a mesma durante todo o percurso.\nO comportamento da força de atrito entre a caixa e o chão no",
+      "text": "Para transportar uma caixa do primeiro para o segundo\npiso de uma construção, um trabalhador precisará arrastá-la\nsobre um plano inclinado. O trabalhador começa a arrastar a\ncaixa no primeiro piso, exercendo sobre ela uma força de grande\nintensidade, paralela ao seu deslocamento. Na medida em que a\ncaixa sobe o plano inclinado, ele decide reduzir a força sobre ela,\narrastando-a lentamente até chegar ao segundo piso. Considere\nque a caixa permanece em movimento nos encontros dos pisos\ncom o plano inclinado, e que a rugosidade entre as superfícies\npermanece a mesma durante todo o percurso.",
       "anchor": "before:assets:context",
       "order": 1
-    },
-    {
-      "id": "t2",
-      "scope": "statement",
-      "text": "plano inclinado é representado em:",
-      "anchor": "before:options",
-      "order": 2
     }
   ],
+  "prompt": {
+    "text": "O comportamento da força de atrito entre a caixa e o chão no plano inclinado é representado em:",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
   "options": [
     {
       "letter": "A",
-      "text": "[IMAGE]"
+      "text": "",
+      "image": "images/raw/ciencias-da-natureza/2025-096-img-001.png",
+      "image_alt": "Alternativa A: força de atrito diminui, depois aumenta e permanece constante em nível alto."
     },
     {
       "letter": "B",
-      "text": "[IMAGE]"
+      "text": "",
+      "image": "images/raw/ciencias-da-natureza/2025-096-img-002.png",
+      "image_alt": "Alternativa B: força de atrito aumenta até um pico e depois cai para um patamar baixo constante."
     },
     {
       "letter": "C",
-      "text": "[IMAGE]"
+      "text": "",
+      "image": "images/raw/ciencias-da-natureza/2025-096-img-003.png",
+      "image_alt": "Alternativa C: força de atrito constante ao longo do tempo."
     },
     {
       "letter": "D",
-      "text": "[IMAGE]"
+      "text": "",
+      "image": "images/raw/ciencias-da-natureza/2025-096-img-004.png",
+      "image_alt": "Alternativa D: força de atrito permanece constante e depois diminui linearmente."
     },
     {
       "letter": "E",
-      "text": "[IMAGE]"
+      "text": "",
+      "image": "images/raw/ciencias-da-natureza/2025-096-img-005.png",
+      "image_alt": "Alternativa E: força de atrito aumenta até um pico e depois diminui linearmente."
     }
   ],
   "correct_answer": "C",
@@ -72,7 +80,7 @@
     "has_table": false,
     "has_formula": false,
     "annulled": false,
-    "reviewed": false,
-    "review_notes": "Image-based options need manual review"
+    "reviewed": true,
+    "review_notes": "Reviewed 2026-01-06: option graphs mapped; text cleaned"
   }
 }
