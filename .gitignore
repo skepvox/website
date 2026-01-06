@@ -106,6 +106,7 @@ dist/
 
 # Temporary folders
 tmp/
+local-books/
 temp/
 TODOs.md
 src/api/index.json

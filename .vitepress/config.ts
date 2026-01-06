@@ -80,9 +80,7 @@ export const sidebar: ThemeConfig['sidebar'] = {
       text: 'Louis Lavelle',
       items: [
         { text: 'Biografia', link: '/louis-lavelle/' },
-        { text: "De l'Être", link: '/louis-lavelle/de-l-etre' },
-        { text: "L'Erreur de Narcisse", link: '/louis-lavelle/l-erreur-de-narcisse' },
-        { text: "Quatre Saints", link: '/louis-lavelle/quatre-saints' }
+        { text: "De l'âme humaine", link: '/louis-lavelle/de-l-ame-humaine' }
       ]
     }
   ],
@@ -111,7 +109,7 @@ export const sidebar: ThemeConfig['sidebar'] = {
 
 const i18n: ThemeConfig['i18n'] = {
   menu: 'Navegar',          // label in the mobile nav
-  toc: 'Nesta página',   // "On this page"
+  toc: 'Índice',   // "On this page"
   returnToTop: 'Retornar ao início', // "Return to top"
   appearance: 'Modo de leitura'
 }
@@ -140,12 +138,21 @@ export default defineConfigWithTheme<ThemeConfig>({
         '/enem/overrides/README'
       ])
 
-      return items.filter((item) => {
-        const rawPath = item.url.startsWith('/') ? item.url : `/${item.url}`
-        const path = rawPath.replace(/\.html$/, '')
+      return items
+        .map((item) => {
+          const rawPath = item.url.startsWith('/') ? item.url : `/${item.url}`
+          const cleanPath = rawPath.replace(/\.html$/, '')
+          const outputUrl = item.url.startsWith('/') ? cleanPath : cleanPath.slice(1)
 
-        return !excluded.has(path)
-      })
+          return {
+            ...item,
+            url: outputUrl
+          }
+        })
+        .filter((item) => {
+          const normalized = item.url.startsWith('/') ? item.url : `/${item.url}`
+          return !excluded.has(normalized)
+        })
     }
   },
 

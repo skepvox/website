@@ -159,7 +159,7 @@ Seu projeto filosófico foi uma tentativa ambiciosa e vitalícia de reconciliar 
 
 #### A Dialética do Eterno Presente
 
-O sistema central de Lavelle foi planejado como uma arquitetura metafísica de cinco volumes. Quatro volumes foram concluídos durante sua vida e logo após: _De l'Être_ (Do Ser), _De l'Acte_ (Do Ato), _Du Temps et de l'Eternité_ (Do Tempo e da Eternidade) e _De l'Âme humaine_ (Da Alma Humana). Este sistema explora a estrutura da realidade através dessas categorias, argumentando que o tempo não é uma barreira para a eternidade, nem uma degradação do ser, mas o próprio meio ou "intervalo" através do qual o espírito finito constrói sua essência eterna.
+O sistema central de Lavelle foi planejado como uma arquitetura metafísica de cinco volumes. Quatro volumes foram concluídos durante sua vida e logo após: _De l'Être_ (Do Ser), _De l'Acte_ (Do Ato), _Du Temps et de l'Eternité_ (Do Tempo e da Eternidade) e [De l'Âme humaine](/louis-lavelle/de-l-ame-humaine) (Da Alma Humana). Este sistema explora a estrutura da realidade através dessas categorias, argumentando que o tempo não é uma barreira para a eternidade, nem uma degradação do ser, mas o próprio meio ou "intervalo" através do qual o espírito finito constrói sua essência eterna.
 
 #### O Conceito de Participação
 
@@ -299,7 +299,7 @@ Os anos pós-guerra foram uma corrida contra o declínio da saúde para completa
 - _Viagens:_ Apesar da saúde debilitada, ele palestra extensivamente na Bélgica, Países Baixos, Suíça, Itália e Alemanha. Ele se esforça para reafirmar o espiritualismo como uma alternativa viável ao existencialismo ateu que varria a Europa.
 - _Saúde:_ Sua própria saúde declina em paralelo com a de seu filho Jean-François.
 
-**1951: Um Ano de Culminação.** Em uma explosão final de produtividade, vê a publicação de três grandes obras: _De l'âme humaine_ (Volume 4 da Dialética), _Traité des valeurs_ (Volume 1) e _Quatre saints_.
+**1951: Um Ano de Culminação.** Em uma explosão final de produtividade, vê a publicação de três grandes obras: [De l'âme humaine](/louis-lavelle/de-l-ame-humaine) (Volume 4 da Dialética), _Traité des valeurs_ (Volume 1) e _Quatre saints_.
 
 **1951, 1º de setembro: Morte.** Louis Lavelle morre em sua casa em Parranquet (Lot-et-Garonne) aos 68 anos.
 
@@ -330,7 +330,7 @@ Esta série de vários volumes constitui a magnum opus de Lavelle. Foi concebida
 - **Publicação:** Paris: Aubier, 1945.
 - **Conteúdo:** Lavelle desafia as visões bergsonianas e heideggerianas do tempo. Argumenta que o tempo não é uma "queda" ou uma degradação da eternidade, mas o "intervalo" ou "mediação" dada ao espírito finito para atualizar seu potencial. O tempo é a oportunidade para a participação.
 
-#### Vol 4: De l'Âme humaine (Da Alma Humana)
+#### Vol 4: [De l'Âme humaine](/louis-lavelle/de-l-ame-humaine) (Da Alma Humana)
 
 - **Publicação:** Paris: Aubier, 1951.
 - **Conteúdo:** Publicado no ano de sua morte, este volume foca na individuação. Pergunta como o espírito universal se torna uma alma particular. Examina os mecanismos do sentimento, memória e vida espiritual.

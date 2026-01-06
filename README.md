@@ -30,6 +30,7 @@ pnpm preview
 ## Content pipelines
 
 See `docs/pipelines.md` for how local extraction projects feed content into `src/`.
+Book ingestion, naming, and SEO rules live in `docs/books-workflow.md`.
 
 ## ENEM data
 
