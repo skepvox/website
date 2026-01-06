@@ -59,7 +59,7 @@ Open:
 Checklist:
 
 - Canonical question pages exist:  
-  `/enem/2025/matematica/questao/2025-136.html` through `/2025-180.html`
+  `/enem/2025/matematica/questao/2025-136` through `/2025-180`
 - No alias URLs appear (`/caderno-*/questao-*` should be absent).
 
 Optional search:
@@ -84,4 +84,3 @@ curl -I https://skepvox.com/enem/2025/questions/2025-136.json
 ```
 
 Expected: `200 OK`.
-
