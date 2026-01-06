@@ -10,6 +10,7 @@ Flow:
 - Inputs: `pipeline-enem-extraction/raw/{year}/` (PDFs).
 - Intermediate: `pipeline-enem-extraction/extracted/{year}/` (text/images/tables).
 - Output (current): `pipeline-enem-extraction/processed/{year}/by_question/*.json`, `answers.json`, `images/`, and `charts/`.
+- Manual adjustment stage (recommended): apply fixes in `pipeline-enem-extraction/adjusted/{year}/` (e.g. `by_question/`, `images/`, `tables/`) using `processed/` as the baseline.
 
 Transfer into the site:
 - Publish into `src/public/enem/{year}/`, using the standardized layout:
@@ -20,6 +21,29 @@ Transfer into the site:
   - `mappings/booklet-*.json`
 - Use per-question overrides in `src/enem/overrides/{year}/qNNN.json` to apply manual fixes.
 - The question JSON references assets by filename; resolve assets relative to `/enem/{year}/`.
+- Note: `scripts/publish-enem.js` reads from `pipeline-enem-extraction/processed/`. If you made manual fixes in `adjusted/`, mirror those files into `src/public/enem/{year}/` directly or copy/overlay `adjusted/` onto `processed/` before publishing.
+
+Suggested manual-fix workflow:
+1) Extract PDFs into `pipeline-enem-extraction/processed/{year}/`.
+2) Copy the question(s) and assets you need to adjust into `pipeline-enem-extraction/adjusted/{year}/`.
+3) Apply fixes in `adjusted/` (text, assets, tables, charts).
+4) Either overlay `adjusted/` onto `processed/` and run `pnpm publish:enem -- --year {year}`, or copy `adjusted/` into `src/public/enem/{year}/` manually.
+
+## ENEM site publishing workflow
+
+Use this when moving adjusted data into the website and generating pages.
+
+1) Mirror adjusted assets into `src/public/enem/{year}/` (questions, images,
+   tables, charts).
+2) Ensure `area.code` matches the site slug (e.g. `ciencias-da-natureza`,
+   `matematica`).
+3) Create/update the hub page at `src/enem/{year}/{area}.md` with the
+   question preview cards.
+4) Add solution JSON files at `src/public/enem/{year}/solutions/{year}-{NNN}.json`
+   (see `docs/enem-solutions.md`).
+5) Generate or refresh leaves:
+   - `node scripts/generate-enem-question-pages.js --year {year} --area {area} --label "{Área completa}" --short "{Área curta}"`
+6) Update the ENEM sidebar group in `.vitepress/config.ts` if new areas were added.
 
 Notes:
 - The pipeline output is git-ignored; publish with `node scripts/publish-enem.js --year 2025` or `pnpm publish:enem -- --year 2025`.

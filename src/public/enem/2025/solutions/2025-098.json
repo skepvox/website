@@ -1,0 +1,19 @@
+{
+  "question_id": "2025_q098",
+  "final_answer": {
+    "letter": "D",
+    "value": "ciclo circadiano de S. elongatus e do metabolismo de E. coli"
+  },
+  "short_md": "O organismo transgênico mantém seus genes metabólicos de E. coli e recebe os genes do relógio circadiano de S. elongatus.  \nResposta: alternativa D.",
+  "steps": [
+    {
+      "title": "Entender a transferência gênica",
+      "body_md": "Genes do relógio circadiano são inseridos em E. coli."
+    },
+    {
+      "title": "Inferir o resultado",
+      "body_md": "E. coli mantém seu metabolismo e passa a expressar genes circadianos da cianobactéria."
+    }
+  ],
+  "tts_text": "A bactéria modificada é uma E. coli, portanto mantém os genes do seu metabolismo. Ela recebeu apenas os genes do relógio circadiano de Synechococcus elongatus. Assim, o organismo terá metabolismo de E. coli e genes circadianos de S. elongatus. A alternativa correta é a letra D."
+}

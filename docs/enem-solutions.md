@@ -5,7 +5,8 @@ question solutions in this repository.
 
 ## Scope
 
-- Applies to ENEM 2025 Mathematics solution content (questions 136–180).
+- Applies to ENEM 2025 Mathematics (questions 136–180) and Ciências da Natureza
+  (questions 91–135).
 - Solutions are written to be beginner-friendly and self-contained.
 - We assume the reader does not know the formulas used in the solution.
 
@@ -21,6 +22,22 @@ Short reasoning overview, with formulas on their own lines when needed.
 
 3) **Solução passo a passo**  
 Step-by-step explanation, using H4 headings for each step.
+
+## Solution JSON format
+
+Solutions live in `src/public/enem/{year}/solutions/{year}-{NNN}.json` and use
+this structure:
+
+- `question_id`: string like `2025_q091`.
+- `final_answer`: object with:
+  - `letter`: `A`–`E`, or `null` when annulled.
+  - `value`: display text (e.g. `0,06 mg` or `Questão anulada`).
+- `short_md`: Markdown for the “Solução resumida”.
+- `steps`: list of `{ title, body_md }` for “Solução passo a passo”.
+- `tts_text`: plain text used as the “Solução completa” and TTS source.
+
+The generator maps these fields into the Markdown leaves via
+`scripts/generate-enem-question-pages.js`.
 
 ## Formula-first rule
 

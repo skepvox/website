@@ -4,7 +4,7 @@
   "day": 2,
   "number": 119,
   "area": {
-    "code": "natureza",
+    "code": "ciencias-da-natureza",
     "name": "Ciências da Natureza e suas Tecnologias"
   },
   "subject": null,
@@ -12,45 +12,45 @@
   "skill": null,
   "context": {
     "type": "text",
-    "content": "A laje de um depósito de bebidas tem 50 m2 de área útil de\narmazenamento e foi projetada para suportar pressões de até\n104 Pa. O gerente do estabelecimento pretende armazenar um\nproduto cuja densidade é 1 250 kg/m3. Considere a aceleração\nda gravidade igual a 10 m/s2.\nA altura máxima, em metro, de empilhamento do produto que",
+    "content": "A laje de um depósito de bebidas tem 50 m2 de área útil de armazenamento e foi projetada para suportar pressões de até 10^4 Pa. O gerente do estabelecimento pretende armazenar um produto cuja densidade é 1 250 kg/m3. Considere a aceleração da gravidade igual a 10 m/s2.",
     "source": null,
     "language": "pt"
   },
-  "statement": "essa laje é capaz de suportar é",
+  "statement": "A altura máxima, em metro, de empilhamento do produto que essa laje é capaz de suportar é",
   "text_flow": [
     {
       "id": "t1",
       "scope": "context",
-      "text": "A laje de um depósito de bebidas tem 50 m2 de área útil de\narmazenamento e foi projetada para suportar pressões de até\n104 Pa. O gerente do estabelecimento pretende armazenar um\nproduto cuja densidade é 1 250 kg/m3. Considere a aceleração\nda gravidade igual a 10 m/s2.\nA altura máxima, em metro, de empilhamento do produto que",
+      "text": "A laje de um depósito de bebidas tem 50 m2 de área útil de armazenamento e foi projetada para suportar pressões de até 10^4 Pa. O gerente do estabelecimento pretende armazenar um produto cuja densidade é 1 250 kg/m3. Considere a aceleração da gravidade igual a 10 m/s2.",
       "anchor": "before:assets:context",
       "order": 1
     }
   ],
   "prompt": {
-    "text": "essa laje é capaz de suportar é",
+    "text": "A altura máxima, em metro, de empilhamento do produto que essa laje é capaz de suportar é",
     "scope": "statement",
     "anchor": "before:options"
   },
   "options": [
     {
       "letter": "A",
-      "text": "0,16 m."
+      "text": "0,16 m."
     },
     {
       "letter": "B",
-      "text": "0,50 m."
+      "text": "0,50 m."
     },
     {
       "letter": "C",
-      "text": "0,80 m."
+      "text": "0,80 m."
     },
     {
       "letter": "D",
-      "text": "1,60 m."
+      "text": "1,60 m."
     },
     {
       "letter": "E",
-      "text": "8,00 m."
+      "text": "8,00 m."
     }
   ],
   "correct_answer": "C",
@@ -70,7 +70,7 @@
     "has_table": false,
     "has_formula": false,
     "annulled": false,
-    "reviewed": false,
-    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+    "reviewed": true,
+    "review_notes": "Reviewed 2026-01-06: statement separated; content normalized"
   }
 }

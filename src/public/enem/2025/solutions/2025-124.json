@@ -1,0 +1,19 @@
+{
+  "question_id": "2025_q124",
+  "final_answer": {
+    "letter": "A",
+    "value": "no surfactante"
+  },
+  "short_md": "A camada de surfactante é superoleofóbica, retendo o óleo e permitindo a passagem da água.  \nResposta: alternativa A.",
+  "steps": [
+    {
+      "title": "Entender a função das camadas",
+      "body_md": "O surfactante atua na interface, reduzindo a aderência do óleo."
+    },
+    {
+      "title": "Local da retenção",
+      "body_md": "O óleo fica retido na camada de surfactante."
+    }
+  ],
+  "tts_text": "No dispositivo descrito, a camada superior é um surfactante, responsável por tornar a superfície superoleofóbica. Assim, o óleo é retido nessa camada enquanto a água atravessa o filtro. Portanto, a alternativa correta é a letra A."
+}

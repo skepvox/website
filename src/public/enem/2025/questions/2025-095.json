@@ -4,7 +4,7 @@
   "day": 2,
   "number": 95,
   "area": {
-    "code": "natureza",
+    "code": "ciencias-da-natureza",
     "name": "Ciências da Natureza e suas Tecnologias"
   },
   "subject": null,
@@ -12,50 +12,67 @@
   "skill": null,
   "context": {
     "type": "text",
-    "content": "A figura apresenta a herança genética de uma característica\na partir do cruzamento de insetos de uma mesma espécie.\nQual alternativa representa a proporção fenotípica da prole",
+    "content": "A figura apresenta a herança genética de uma característica\na partir do cruzamento de insetos de uma mesma espécie.",
     "source": null,
     "language": "pt"
   },
-  "statement": "resultante do cruzamento entre indivíduos da primeira geração?",
+  "statement": "Qual alternativa representa a proporção fenotípica da prole resultante do cruzamento entre indivíduos da primeira geração?",
   "text_flow": [
     {
       "id": "t1",
       "scope": "context",
-      "text": "A figura apresenta a herança genética de uma característica\na partir do cruzamento de insetos de uma mesma espécie.\nQual alternativa representa a proporção fenotípica da prole",
-      "anchor": "before:assets:context",
+      "text": "A figura apresenta a herança genética de uma característica\na partir do cruzamento de insetos de uma mesma espécie.",
+      "anchor": "before:asset:q095_img_001",
       "order": 1
     }
   ],
   "prompt": {
-    "text": "resultante do cruzamento entre indivíduos da primeira geração?",
+    "text": "Qual alternativa representa a proporção fenotípica da prole resultante do cruzamento entre indivíduos da primeira geração?",
     "scope": "statement",
     "anchor": "before:options"
   },
   "options": [
     {
       "letter": "A",
-      "text": "[IMAGE]"
+      "text": "",
+      "image": "images/raw/ciencias-da-natureza/2025-095-img-002.jpeg",
+      "image_alt": "Alternativa A: quatro insetos com quatro manchas escuras no abdome, sem faixa central."
     },
     {
       "letter": "B",
-      "text": "[IMAGE]"
+      "text": "",
+      "image": "images/raw/ciencias-da-natureza/2025-095-img-003.jpeg",
+      "image_alt": "Alternativa B: quatro insetos com faixa central escura, sem manchas."
     },
     {
       "letter": "C",
-      "text": "[IMAGE]"
+      "text": "",
+      "image": "images/raw/ciencias-da-natureza/2025-095-img-004.jpeg",
+      "image_alt": "Alternativa C: quatro insetos com quatro manchas e faixa central escura."
     },
     {
       "letter": "D",
-      "text": "[IMAGE]"
+      "text": "",
+      "image": "images/raw/ciencias-da-natureza/2025-095-img-005.jpeg",
+      "image_alt": "Alternativa D: dois insetos com quatro manchas e dois com faixa central escura, sem manchas."
     },
     {
       "letter": "E",
-      "text": "[IMAGE]"
+      "text": "",
+      "image": "images/raw/ciencias-da-natureza/2025-095-img-006.jpeg",
+      "image_alt": "Alternativa E: um inseto com quatro manchas, um com faixa central escura e dois com quatro manchas e faixa central escura."
     }
   ],
   "correct_answer": "E",
   "assets": {
-    "images": [],
+    "images": [
+      {
+        "id": "q095_img_001",
+        "file": "images/raw/ciencias-da-natureza/2025-095-img-001.png",
+        "alt": "Esquema da herança genética em insetos: parentais com macho com quatro manchas e fêmea com faixa central, e primeira geração com macho e fêmea com quatro manchas e faixa central.",
+        "position": "context"
+      }
+    ],
     "charts": [],
     "tables": [],
     "formulas": []
@@ -70,7 +87,7 @@
     "has_table": false,
     "has_formula": false,
     "annulled": false,
-    "reviewed": false,
-    "review_notes": "Image-based options need manual review"
+    "reviewed": true,
+    "review_notes": "Reviewed 2026-01-06: context and option images mapped"
   }
 }

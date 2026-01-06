@@ -1,0 +1,23 @@
+{
+  "question_id": "2025_q133",
+  "final_answer": {
+    "letter": "E",
+    "value": "Rp em série com Rc, Rp = 0,2 Rc"
+  },
+  "short_md": "A fonte tem tensão 20% maior. Para manter a tensão em Rc, o resistor de proteção deve cair 20% da tensão.  \nEm série, $V_{Rp}/V_{Rc} = Rp/Rc = 0,2$.  \nLogo, $Rp = 0,2 Rc$ em série.  \nResposta: alternativa E.",
+  "steps": [
+    {
+      "title": "Definir a queda necessária",
+      "body_md": "Se a fonte é 1,2 V, o resistor deve cair 0,2 V."
+    },
+    {
+      "title": "Relacionar tensão e resistência",
+      "body_md": "Em série, $V_{Rp}/V_{Rc} = Rp/Rc = 0,2$."
+    },
+    {
+      "title": "Configuração correta",
+      "body_md": "Rp em série com Rc e Rp = 0,2 Rc."
+    }
+  ],
+  "tts_text": "A fonte disponível fornece 20 por cento a mais de tensão. Para manter a tensão correta sobre o equipamento, é preciso que o resistor de proteção absorva 20 por cento da tensão total. Em um circuito em série, a razão das tensões é igual à razão das resistências. Assim, Rp deve ser 0,2 Rc. Logo, a configuração correta é série com Rp igual a 0,2 Rc, alternativa E."
+}

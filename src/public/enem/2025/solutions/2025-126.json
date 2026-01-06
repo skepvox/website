@@ -1,0 +1,23 @@
+{
+  "question_id": "2025_q126",
+  "final_answer": {
+    "letter": "B",
+    "value": "+1,92 V e +0,99 V"
+  },
+  "short_md": "Escurecimento: O2 é reduzido (+1,23 V) e Ag é oxidado (E°red = -0,69 V).  \n$E° = 1,23 - (-0,69) = 1,92$ V.  \nClareamento: Ag2S é reduzido (-0,69 V) e Al é oxidado (E°red = -1,68 V).  \n$E° = -0,69 - (-1,68) = 0,99$ V.  \nResposta: alternativa B.",
+  "steps": [
+    {
+      "title": "Escurecimento",
+      "body_md": "Catodo: O2 (+1,23 V). Ânodo: Ag (E°red = -0,69 V).  \n$E° = 1,92$ V."
+    },
+    {
+      "title": "Clareamento",
+      "body_md": "Catodo: Ag2S (-0,69 V). Ânodo: Al (E°red = -1,68 V).  \n$E° = 0,99$ V."
+    },
+    {
+      "title": "Conclusão",
+      "body_md": "Valores: +1,92 V e +0,99 V (alternativa B)."
+    }
+  ],
+  "tts_text": "No escurecimento, o oxigênio é reduzido com potencial de +1,23 V e a prata é oxidada, cujo potencial de redução é -0,69 V. Assim, o potencial da reação é 1,23 menos -0,69, resultando em 1,92 V. No clareamento, o sulfeto de prata é reduzido com -0,69 V e o alumínio é oxidado, cujo potencial de redução é -1,68 V. O potencial é -0,69 menos -1,68, igual a 0,99 V. Logo, a alternativa correta é a letra B."
+}

@@ -4,7 +4,7 @@
   "day": 2,
   "number": 122,
   "area": {
-    "code": "natureza",
+    "code": "ciencias-da-natureza",
     "name": "Ciências da Natureza e suas Tecnologias"
   },
   "subject": null,
@@ -12,7 +12,7 @@
   "skill": null,
   "context": {
     "type": "text",
-    "content": "A resistência de um fio de platina pode ser usada para\nmedir temperaturas entre 0 °C e 100 °C e já foi utilizada como\nreferência para a escala internacional de temperatura. Para\num sensor feito de platina, a relação entre a resistência e\na temperatura pode ser descrita por uma equação do tipo\nR(T) = A + BT, em que T é a temperatura e A e B são constantes.\nO gráfico apresenta a dependência da resistência em função\nda temperatura para cinco diferentes sensores.",
+    "content": "A resistência de um fio de platina pode ser usada para medir temperaturas entre 0 °C e 100 °C e já foi utilizada como referência para a escala internacional de temperatura. Para um sensor feito de platina, a relação entre a resistência e a temperatura pode ser descrita por uma equação do tipo R(T) = A + BT, em que T é a temperatura e A e B são constantes. O gráfico apresenta a dependência da resistência em função da temperatura para cinco diferentes sensores.",
     "source": null,
     "language": "pt"
   },
@@ -21,8 +21,8 @@
     {
       "id": "t1",
       "scope": "context",
-      "text": "A resistência de um fio de platina pode ser usada para\nmedir temperaturas entre 0 °C e 100 °C e já foi utilizada como\nreferência para a escala internacional de temperatura. Para\num sensor feito de platina, a relação entre a resistência e\na temperatura pode ser descrita por uma equação do tipo\nR(T) = A + BT, em que T é a temperatura e A e B são constantes.\nO gráfico apresenta a dependência da resistência em função\nda temperatura para cinco diferentes sensores.",
-      "anchor": "before:assets:context",
+      "text": "A resistência de um fio de platina pode ser usada para medir temperaturas entre 0 °C e 100 °C e já foi utilizada como referência para a escala internacional de temperatura. Para um sensor feito de platina, a relação entre a resistência e a temperatura pode ser descrita por uma equação do tipo R(T) = A + BT, em que T é a temperatura e A e B são constantes. O gráfico apresenta a dependência da resistência em função da temperatura para cinco diferentes sensores.",
+      "anchor": "before:asset:q122_img_001",
       "order": 1
     }
   ],
@@ -34,28 +34,35 @@
   "options": [
     {
       "letter": "A",
-      "text": "1 e 2."
+      "text": "1 e 2."
     },
     {
       "letter": "B",
-      "text": "1 e 3."
+      "text": "1 e 3."
     },
     {
       "letter": "C",
-      "text": "2 e 3."
+      "text": "2 e 3."
     },
     {
       "letter": "D",
-      "text": "2 e 4."
+      "text": "2 e 4."
     },
     {
       "letter": "E",
-      "text": "2 e 5."
+      "text": "2 e 5."
     }
   ],
   "correct_answer": "E",
   "assets": {
-    "images": [],
+    "images": [
+      {
+        "id": "q122_img_001",
+        "file": "images/raw/ciencias-da-natureza/2025-122-img-001.jpeg",
+        "alt": "Grafico de resistencia (ohm) vs temperatura (°C) com cinco linhas para sensores 1 a 5; sensor 2 e sensor 5 tem as maiores inclinacoes.",
+        "position": "context"
+      }
+    ],
     "charts": [],
     "tables": [],
     "formulas": []
@@ -65,12 +72,12 @@
     "caderno": "verde",
     "caderno_position": 122,
     "foreign_language_option": null,
-    "has_image": false,
+    "has_image": true,
     "has_chart": false,
     "has_table": false,
     "has_formula": false,
     "annulled": false,
-    "reviewed": false,
-    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+    "reviewed": true,
+    "review_notes": "Reviewed 2026-01-06: chart captured as image; statement separated"
   }
 }

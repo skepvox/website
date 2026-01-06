@@ -4,39 +4,33 @@
   "day": 2,
   "number": 101,
   "area": {
-    "code": "natureza",
+    "code": "ciencias-da-natureza",
     "name": "Ciências da Natureza e suas Tecnologias"
   },
   "subject": null,
   "competency": null,
   "skill": null,
   "context": {
-    "type": "text",
-    "content": "TEXTO I\nAs mariposas\nAs mariposa, quando chega o frio\nFica dando volta em volta da lâmpida pra se esquentá. [sic]",
-    "source": {
-      "author": "BARBOSA, A.",
-      "title": "Reviva: Adoniran Barbosa.",
-      "note": null
-    },
+    "type": "poem",
+    "content": "TEXTO I\nAs mariposas\nAs mariposa, quando chega o frio\nFica dando volta em volta da lâmpida pra se esquentá. [sic]\nBARBOSA, A. Reviva: Adoniran Barbosa. São Paulo: Som Livre, 2002 (fragmento).\n\nTEXTO II\nAs mariposas se aproximam das lâmpadas atraídas pela luz, pois, sendo basicamente criaturas noturnas, estão adaptadas a seguir o brilho da lua, em um processo conhecido como orientação transversal. Assim, o que o sambista Adoniran Barbosa, no Texto I, descreve não é a causa, mas sim uma das consequências possíveis dessa aproximação. De fato, o calor gerado pelas lâmpadas, sobretudo as incandescentes, pode aquecer as mariposas.\nHERTZBERG, R. Por que as mariposas são tão atraídas por luzes fortes? National Geographic, nov. 2020 (adaptado).",
+    "source": null,
     "language": "pt"
   },
-  "statement": "São Paulo: Som Livre, 2002 (fragmento). TEXTO II As mariposas se aproximam das lâmpadas atraídas pela luz, pois, sendo basicamente criaturas noturnas, estão adaptadas a seguir o brilho da lua, em um processo conhecido como orientação transversal. Assim, o que o sambista Adoniran Barbosa, no Texto I, descreve não é a causa, mas sim uma das consequências possíveis dessa aproximação. De fato, o calor gerado pelas lâmpadas, sobretudo as incandescentes, pode aquecer as mariposas. HERTZBERG, R. Por que as mariposas são tão atraídas por luzes fortes? National Geographic, nov. 2020 (adaptado). Nesse contexto, o processo de transferência de calor para as mariposas que independe da presença de fluidos é a",
+  "statement": "Nesse contexto, o processo de transferência de calor para as mariposas que independe da presença de fluidos é a",
   "text_flow": [
     {
       "id": "t1",
       "scope": "context",
-      "text": "TEXTO I\nAs mariposas\nAs mariposa, quando chega o frio\nFica dando volta em volta da lâmpida pra se esquentá. [sic]",
+      "text": "TEXTO I\nAs mariposas\nAs mariposa, quando chega o frio\nFica dando volta em volta da lâmpida pra se esquentá. [sic]\nBARBOSA, A. Reviva: Adoniran Barbosa. São Paulo: Som Livre, 2002 (fragmento).\n\nTEXTO II\nAs mariposas se aproximam das lâmpadas atraídas pela luz, pois, sendo basicamente criaturas noturnas, estão adaptadas a seguir o brilho da lua, em um processo conhecido como orientação transversal. Assim, o que o sambista Adoniran Barbosa, no Texto I, descreve não é a causa, mas sim uma das consequências possíveis dessa aproximação. De fato, o calor gerado pelas lâmpadas, sobretudo as incandescentes, pode aquecer as mariposas.\nHERTZBERG, R. Por que as mariposas são tão atraídas por luzes fortes? National Geographic, nov. 2020 (adaptado).",
       "anchor": "before:assets:context",
       "order": 1
-    },
-    {
-      "id": "t2",
-      "scope": "statement",
-      "text": "São Paulo: Som Livre, 2002 (fragmento). TEXTO II As mariposas se aproximam das lâmpadas atraídas pela luz, pois, sendo basicamente criaturas noturnas, estão adaptadas a seguir o brilho da lua, em um processo conhecido como orientação transversal. Assim, o que o sambista Adoniran Barbosa, no Texto I, descreve não é a causa, mas sim uma das consequências possíveis dessa aproximação. De fato, o calor gerado pelas lâmpadas, sobretudo as incandescentes, pode aquecer as mariposas. HERTZBERG, R. Por que as mariposas são tão atraídas por luzes fortes? National Geographic, nov. 2020 (adaptado). Nesse contexto, o processo de transferência de calor para as mariposas que independe da presença de fluidos é a",
-      "anchor": "before:options",
-      "order": 2
     }
   ],
+  "prompt": {
+    "text": "Nesse contexto, o processo de transferência de calor para as mariposas que independe da presença de fluidos é a",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
   "options": [
     {
       "letter": "A",
@@ -76,7 +70,7 @@
     "has_table": false,
     "has_formula": false,
     "annulled": false,
-    "reviewed": false,
-    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+    "reviewed": true,
+    "review_notes": "Reviewed 2026-01-06: sources merged into context; statement separated"
   }
 }

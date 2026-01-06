@@ -4,43 +4,53 @@
   "day": 2,
   "number": 135,
   "area": {
-    "code": "natureza",
+    "code": "ciencias-da-natureza",
     "name": "Ciências da Natureza e suas Tecnologias"
   },
   "subject": null,
   "competency": null,
   "skill": null,
-  "context": null,
-  "statement": "O nível sonoro, em decibel (dB), é calculado pela expressão: n I I \u001b \u001a \u0019 10 10 0 log Uma conversa normal entre duas pessoas gera sons de níveis sonoros entre 50 e 60 dB, enquanto pessoas gritando podem gerar sons de níveis superiores a 100 dB. Supondo que, no centro de um estádio de futebol, foram realizadas medidas para avaliar o ruído médio de uma pessoa gritando a palavra “gol” em diferentes posições das arquibancadas. O valor médio obtido, considerando um grande número de medidas, foi de 100 dB. Com esse dado, estimou-se o ruído sonoro produzido por 10 000 pessoas, distribuídas aleatoriamente nas arquibancadas, enquanto gritavam, simultaneamente, a palavra “gol”. O valor médio estimado para o ruído produzido por essas pessoas, na posição central desse estádio hipotético, foi de",
+  "context": {
+    "type": "text",
+    "content": "O nível sonoro, em decibel (dB), é calculado pela expressão:\n\nn = 10 log10(I / I0)\n\nUma conversa normal entre duas pessoas gera sons de níveis sonoros entre 50 e 60 dB, enquanto pessoas gritando podem gerar sons de níveis superiores a 100 dB. Supondo que, no centro de um estádio de futebol, foram realizadas medidas para avaliar o ruído médio de uma pessoa gritando a palavra \"gol\" em diferentes posições das arquibancadas. O valor médio obtido, considerando um grande número de medidas, foi de 100 dB. Com esse dado, estimou-se o ruído sonoro produzido por 10 000 pessoas, distribuídas aleatoriamente nas arquibancadas, enquanto gritavam, simultaneamente, a palavra \"gol\".",
+    "source": null,
+    "language": "pt"
+  },
+  "statement": "O valor médio estimado para o ruído produzido por essas pessoas, na posição central desse estádio hipotético, foi de",
   "text_flow": [
     {
       "id": "t1",
-      "scope": "statement",
-      "text": "O nível sonoro, em decibel (dB), é calculado pela expressão: n I I \u001b \u001a \u0019 10 10 0 log Uma conversa normal entre duas pessoas gera sons de níveis sonoros entre 50 e 60 dB, enquanto pessoas gritando podem gerar sons de níveis superiores a 100 dB. Supondo que, no centro de um estádio de futebol, foram realizadas medidas para avaliar o ruído médio de uma pessoa gritando a palavra “gol” em diferentes posições das arquibancadas. O valor médio obtido, considerando um grande número de medidas, foi de 100 dB. Com esse dado, estimou-se o ruído sonoro produzido por 10 000 pessoas, distribuídas aleatoriamente nas arquibancadas, enquanto gritavam, simultaneamente, a palavra “gol”. O valor médio estimado para o ruído produzido por essas pessoas, na posição central desse estádio hipotético, foi de",
-      "anchor": "before:options",
+      "scope": "context",
+      "text": "O nível sonoro, em decibel (dB), é calculado pela expressão:\n\nn = 10 log10(I / I0)\n\nUma conversa normal entre duas pessoas gera sons de níveis sonoros entre 50 e 60 dB, enquanto pessoas gritando podem gerar sons de níveis superiores a 100 dB. Supondo que, no centro de um estádio de futebol, foram realizadas medidas para avaliar o ruído médio de uma pessoa gritando a palavra \"gol\" em diferentes posições das arquibancadas. O valor médio obtido, considerando um grande número de medidas, foi de 100 dB. Com esse dado, estimou-se o ruído sonoro produzido por 10 000 pessoas, distribuídas aleatoriamente nas arquibancadas, enquanto gritavam, simultaneamente, a palavra \"gol\".",
+      "anchor": "before:assets:context",
       "order": 1
     }
   ],
+  "prompt": {
+    "text": "O valor médio estimado para o ruído produzido por essas pessoas, na posição central desse estádio hipotético, foi de",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
   "options": [
     {
       "letter": "A",
-      "text": "60 dB."
+      "text": "60 dB."
     },
     {
       "letter": "B",
-      "text": "104 dB."
+      "text": "104 dB."
     },
     {
       "letter": "C",
-      "text": "140 dB."
+      "text": "140 dB."
     },
     {
       "letter": "D",
-      "text": "400 dB."
+      "text": "400 dB."
     },
     {
       "letter": "E",
-      "text": "800 dB."
+      "text": "800 dB."
     }
   ],
   "correct_answer": null,
@@ -60,7 +70,7 @@
     "has_table": false,
     "has_formula": false,
     "annulled": true,
-    "reviewed": false,
-    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+    "reviewed": true,
+    "review_notes": "Reviewed 2026-01-06: formula normalized; annulled kept"
   }
 }

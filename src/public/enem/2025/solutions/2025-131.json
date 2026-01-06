@@ -1,0 +1,19 @@
+{
+  "question_id": "2025_q131",
+  "final_answer": {
+    "letter": "D",
+    "value": "induzir corrente elétrica na parte inferior da panela, aquecendo-a por efeito Joule"
+  },
+  "short_md": "O campo magnético variável induz correntes elétricas na base metálica da panela.  \nEssas correntes geram aquecimento por efeito Joule.  \nResposta: alternativa D.",
+  "steps": [
+    {
+      "title": "Aplicar indução eletromagnética",
+      "body_md": "Campo magnético variável gera correntes elétricas no metal."
+    },
+    {
+      "title": "Identificar o mecanismo de aquecimento",
+      "body_md": "As correntes produzem calor por efeito Joule."
+    }
+  ],
+  "tts_text": "Em fogões de indução, o campo magnético variável induz correntes elétricas na base metálica da panela. Essas correntes dissipam energia térmica pelo efeito Joule, aquecendo a panela. Logo, a alternativa correta é a letra D."
+}

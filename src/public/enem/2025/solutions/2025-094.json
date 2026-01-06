@@ -1,0 +1,19 @@
+{
+  "question_id": "2025_q094",
+  "final_answer": {
+    "letter": "D",
+    "value": "cegueira noturna"
+  },
+  "short_md": "O Golden Rice é rico em betacaroteno, precursor da vitamina A.  \nA deficiência de vitamina A causa cegueira noturna.  \nResposta: alternativa D.",
+  "steps": [
+    {
+      "title": "Relacionar betacaroteno e vitamina A",
+      "body_md": "Betacaroteno é precursor da vitamina A."
+    },
+    {
+      "title": "Identificar a deficiência",
+      "body_md": "Falta de vitamina A leva à cegueira noturna."
+    }
+  ],
+  "tts_text": "O Golden Rice é enriquecido com betacaroteno, que é precursor da vitamina A. A deficiência dessa vitamina está associada à cegueira noturna. Portanto, o alimento ajuda a diminuir essa carência. A alternativa correta é a letra D."
+}

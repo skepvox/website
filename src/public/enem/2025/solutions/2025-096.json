@@ -1,0 +1,23 @@
+{
+  "question_id": "2025_q096",
+  "final_answer": {
+    "letter": "C",
+    "value": "força de atrito constante"
+  },
+  "short_md": "No plano inclinado, o atrito cinético vale $F_a = \\mu_k N$.  \nComo a inclinação e a rugosidade são constantes, $N$ é constante.  \nLogo, o atrito permanece constante (alternativa C).",
+  "steps": [
+    {
+      "title": "Usar atrito cinético",
+      "body_md": "$F_a = \\mu_k N$."
+    },
+    {
+      "title": "Avaliar a normal",
+      "body_md": "No plano inclinado, $N = mg\\cos\\theta$ é constante."
+    },
+    {
+      "title": "Conclusão",
+      "body_md": "Atrito constante ao longo do plano inclinado: alternativa C."
+    }
+  ],
+  "tts_text": "A força de atrito cinético depende apenas do coeficiente de atrito e da força normal. No plano inclinado, com rugosidade e inclinação constantes, a normal é constante, logo o atrito também é constante. A força aplicada pelo trabalhador não altera o valor do atrito. Portanto, o gráfico correto é o de atrito constante, alternativa C."
+}

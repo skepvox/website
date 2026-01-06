@@ -1,0 +1,23 @@
+{
+  "question_id": "2025_q100",
+  "final_answer": {
+    "letter": "D",
+    "value": "1"
+  },
+  "short_md": "Corrente máxima: 20 A.  \nComputador (250 W) + ar-condicionado (1100 W): $I = 12,27$ A.  \nImpressora (660 W): $I = 6,0$ A. Total = 18,27 A (ok).  \nCafeteira (900 W): $I = 8,18$ A. Total = 20,45 A (queima).  \nLogo, apenas 1 atividade.  \nResposta: alternativa D.",
+  "steps": [
+    {
+      "title": "Calcular a corrente base",
+      "body_md": "$I = P/V = (250 + 1100)/110 \\approx 12,27$ A."
+    },
+    {
+      "title": "Testar as atividades",
+      "body_md": "Com a impressora: $12,27 + 660/110 = 18,27$ A (não queima).  \nCom a cafeteira: $12,27 + 900/110 = 20,45$ A (queima)."
+    },
+    {
+      "title": "Conclusão",
+      "body_md": "Apenas a primeira atividade é realizada. Alternativa D."
+    }
+  ],
+  "tts_text": "A corrente máxima da régua é 20 A. Com computador e ar-condicionado ligados, a potência total é 1350 W, então a corrente é 1350 dividido por 110, cerca de 12,27 A. Ao imprimir, soma-se 660 W, o que dá mais 6 A, totalizando 18,27 A, ainda abaixo do limite. Ao ligar a cafeteira, somam-se 900 W, isto é, mais 8,18 A, e o total passa de 20 A, queimando o fusível. Portanto, somente a primeira atividade é possível. A alternativa correta é a letra D."
+}

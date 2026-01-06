@@ -9,7 +9,7 @@ before a chart is considered ready for production use.
 - Each area mirrors the real exam routes:
   - `src/enem-sandbox/2025/linguagens.md`
   - `src/enem-sandbox/2025/humanas.md`
-  - `src/enem-sandbox/2025/natureza.md`
+  - `src/enem-sandbox/2025/ciencias-da-natureza.md`
   - `src/enem-sandbox/2025/matematica.md`
 
 ## Sandbox goals

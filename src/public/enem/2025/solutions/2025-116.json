@@ -1,0 +1,19 @@
+{
+  "question_id": "2025_q116",
+  "final_answer": {
+    "letter": "C",
+    "value": "C10H16O"
+  },
+  "short_md": "O borneol é um álcool secundário. Ao oxidar, transforma-se em cetona (cânfora), com perda de dois hidrogênios.  \nLogo, a fórmula passa de C10H18O para C10H16O.  \nResposta: alternativa C.",
+  "steps": [
+    {
+      "title": "Identificar o tipo de reação",
+      "body_md": "Oxidação de álcool secundário gera cetona."
+    },
+    {
+      "title": "Ajustar a fórmula",
+      "body_md": "Perda de dois hidrogênios: C10H18O -> C10H16O."
+    }
+  ],
+  "tts_text": "O borneol é um álcool secundário. Sua oxidação gera a cânfora, que é uma cetona. Essa transformação corresponde à perda de dois átomos de hidrogênio, mantendo o mesmo número de carbonos e oxigênios. Assim, a fórmula é C10H16O. A alternativa correta é a letra C."
+}

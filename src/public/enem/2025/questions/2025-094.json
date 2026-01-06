@@ -4,7 +4,7 @@
   "day": 2,
   "number": 94,
   "area": {
-    "code": "natureza",
+    "code": "ciencias-da-natureza",
     "name": "Ciências da Natureza e suas Tecnologias"
   },
   "subject": null,
@@ -14,13 +14,13 @@
     "type": "text",
     "content": "Golden Rice, ou arroz dourado, é uma variedade de arroz\nenriquecida em betacaroteno, precursor da vitamina A.\nFoi desenvolvida para ajudar a combater a doença decorrente\nda deficiência dessa vitamina. Para a obtenção dessa variedade\nde arroz, foram utilizados métodos de engenharia genética.",
     "source": {
-      "author": "BORÉM, A.",
-      "title": "; SANTOS, F. R. Entendendo a biotecnologia.",
+      "author": "BORÉM, A.; SANTOS, F. R.",
+      "title": "Entendendo a biotecnologia. Viçosa: UFV, 2008 (adaptado).",
       "note": null
     },
     "language": "pt"
   },
-  "statement": "Viçosa: UFV, 2008 (adaptado). Esse alimento contribui para diminuir a carência associada a qual doença?",
+  "statement": "Esse alimento contribui para diminuir a carência associada a qual doença?",
   "text_flow": [
     {
       "id": "t1",
@@ -28,13 +28,6 @@
       "text": "Golden Rice, ou arroz dourado, é uma variedade de arroz\nenriquecida em betacaroteno, precursor da vitamina A.\nFoi desenvolvida para ajudar a combater a doença decorrente\nda deficiência dessa vitamina. Para a obtenção dessa variedade\nde arroz, foram utilizados métodos de engenharia genética.",
       "anchor": "before:assets:context",
       "order": 1
-    },
-    {
-      "id": "t2",
-      "scope": "statement",
-      "text": "Viçosa: UFV, 2008 (adaptado).",
-      "anchor": "before:options",
-      "order": 2
     }
   ],
   "prompt": {
@@ -81,7 +74,7 @@
     "has_table": false,
     "has_formula": false,
     "annulled": false,
-    "reviewed": false,
-    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+    "reviewed": true,
+    "review_notes": "Reviewed 2026-01-06: source line moved to context; statement separated"
   }
 }

@@ -1,0 +1,33 @@
+{
+  "id": "2025-100-table-001",
+  "headers": [
+    "Aparelho",
+    "Potência (watt)"
+  ],
+  "rows": [
+    [
+      "Luminária de LED",
+      "5"
+    ],
+    [
+      "Computador",
+      "250"
+    ],
+    [
+      "Impressora a laser",
+      "660"
+    ],
+    [
+      "Secador de cabelos",
+      "750"
+    ],
+    [
+      "Cafeteira",
+      "900"
+    ],
+    [
+      "Condicionador de ar portátil",
+      "1 100"
+    ]
+  ]
+}

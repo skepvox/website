@@ -1,0 +1,19 @@
+{
+  "question_id": "2025_q106",
+  "final_answer": {
+    "letter": "A",
+    "value": "HAzO3 e CaCl2"
+  },
+  "short_md": "Az representa N e AzO3 representa o nitrato (NO3).  \nLogo, ácido nítrico: HAzO3.  \nCloreto de cálcio: CaCl2.  \nResposta: alternativa A.",
+  "steps": [
+    {
+      "title": "Interpretar a notação antiga",
+      "body_md": "Az corresponde ao nitrogênio e AzO3 ao nitrato."
+    },
+    {
+      "title": "Aplicar às substâncias",
+      "body_md": "Ácido nítrico: HAzO3. Cloreto de cálcio: CaCl2."
+    }
+  ],
+  "tts_text": "Na notação da época, Az representa o nitrogênio. Se o nitrato de sódio era NaAzO3, então o ácido nítrico é HAzO3. Já o cloreto de cálcio mantém a fórmula CaCl2. Portanto, a alternativa correta é a letra A."
+}

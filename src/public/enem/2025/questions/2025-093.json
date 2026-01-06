@@ -4,7 +4,7 @@
   "day": 2,
   "number": 93,
   "area": {
-    "code": "natureza",
+    "code": "ciencias-da-natureza",
     "name": "Ciências da Natureza e suas Tecnologias"
   },
   "subject": null,
@@ -13,24 +13,21 @@
   "context": {
     "type": "text",
     "content": "O esquema apresenta as etapas do processo de biodigestão,\numa forma de dar um destino sustentável a excrementos animais\ne restos de comida produzidos em áreas de criação de gado e\nporcos confinados.",
-    "source": null,
+    "source": {
+      "author": null,
+      "title": "Disponível em: www.enquimicasantossp.com.br. Acesso em: 11 fev. 2015 (adaptado).",
+      "note": null
+    },
     "language": "pt"
   },
-  "statement": "Acesso em: 11 fev. 2015 (adaptado). Dar destino sustentável às sobras, conforme apresentado na etapa 4, ajuda a evitar a",
+  "statement": "Dar destino sustentável às sobras, conforme apresentado na etapa 4, ajuda a evitar a",
   "text_flow": [
     {
       "id": "t1",
       "scope": "context",
       "text": "O esquema apresenta as etapas do processo de biodigestão,\numa forma de dar um destino sustentável a excrementos animais\ne restos de comida produzidos em áreas de criação de gado e\nporcos confinados.",
-      "anchor": "before:assets:context",
+      "anchor": "before:asset:q093_img_001",
       "order": 1
-    },
-    {
-      "id": "t2",
-      "scope": "statement",
-      "text": "Acesso em: 11 fev. 2015 (adaptado).",
-      "anchor": "before:options",
-      "order": 2
     }
   ],
   "prompt": {
@@ -62,7 +59,14 @@
   ],
   "correct_answer": "B",
   "assets": {
-    "images": [],
+    "images": [
+      {
+        "id": "q093_img_001",
+        "file": "images/raw/ciencias-da-natureza/2025-093-img-001.jpeg",
+        "alt": "Esquema do biodigestor com quatro etapas: (1) excrementos animais e restos de alimentos misturados com água no alimentador, (2) bactérias decompõem resíduos no biodigestor, gerando gás metano e adubo, (3) gás metano canalizado para gerador ou aquecedor, (4) sobras usadas como fertilizante.",
+        "position": "context"
+      }
+    ],
     "charts": [],
     "tables": [],
     "formulas": []
@@ -72,12 +76,12 @@
     "caderno": "verde",
     "caderno_position": 93,
     "foreign_language_option": null,
-    "has_image": false,
+    "has_image": true,
     "has_chart": false,
     "has_table": false,
     "has_formula": false,
     "annulled": false,
-    "reviewed": false,
-    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+    "reviewed": true,
+    "review_notes": "Reviewed 2026-01-06: source moved to context; image mapped"
   }
 }

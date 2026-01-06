@@ -4,7 +4,7 @@
   "day": 2,
   "number": 126,
   "area": {
-    "code": "natureza",
+    "code": "ciencias-da-natureza",
     "name": "Ciências da Natureza e suas Tecnologias"
   },
   "subject": null,
@@ -12,51 +12,49 @@
   "skill": null,
   "context": {
     "type": "text",
-    "content": "Objetos de prata escurecem em contato com compostos\ncontendo enxofre por causa da formação de uma fina camada\nde sulfeto de prata. Um método simples para clarear o objeto\nconsiste em forrar um recipiente com papel alumínio, adicionar\nao recipiente uma solução aquosa de cloreto de sódio e,\nenfim, mergulhar o objeto de prata enegrecido. Em cerca de\ntrês minutos, a prata volta à coloração original. As seguintes\nsemirreações e os respectivos potenciais-padrão de redução\nsão úteis para a compreensão dos fenômenos ocorridos.\nAg2S (s) + 2 e− → 2 Ag (s) + S2− (aq)\nO2 (g) + 4 H+ (aq) + 4 e− → 2 H2O (l)\nAl3+ (aq) + 3 e− → Al (s)\n−0,69 V\n+1,23 V\n−1,68 V",
+    "content": "Objetos de prata escurecem em contato com compostos contendo enxofre por causa da formação de uma fina camada de sulfeto de prata. Um método simples para clarear o objeto consiste em forrar um recipiente com papel alumínio, adicionar ao recipiente uma solução aquosa de cloreto de sódio e, enfim, mergulhar o objeto de prata enegrecido. Em cerca de três minutos, a prata volta à coloração original. As seguintes semirreações e os respectivos potenciais-padrão de redução são úteis para a compreensão dos fenômenos ocorridos.\n\n$$\\mathrm{Ag_2S(s)} + 2\\,e^- \\rightarrow 2\\,\\mathrm{Ag(s)} + \\mathrm{S^{2-}(aq)} \\quad (E^\\circ = -0{,}69\\,\\mathrm{V})$$\n\n$$\\mathrm{O_2(g)} + 4\\,\\mathrm{H^+(aq)} + 4\\,e^- \\rightarrow 2\\,\\mathrm{H_2O(l)} \\quad (E^\\circ = +1{,}23\\,\\mathrm{V})$$\n\n$$\\mathrm{Al^{3+}(aq)} + 3\\,e^- \\rightarrow \\mathrm{Al(s)} \\quad (E^\\circ = -1{,}68\\,\\mathrm{V})$$",
     "source": {
-      "author": "SARTORI, E. R.",
-      "title": "; BATISTA, E. F.; FATIBELLO-FILHO, O. Escurecimento e limpeza",
-      "note": null
+      "author": "SARTORI, E. R.; BATISTA, E. F.; FATIBELLO-FILHO, O.",
+      "title": "Escurecimento e limpeza de objetos de prata: um experimento simples e de fácil execução envolvendo reações de oxidação-redução.",
+      "note": "Química Nova na Escola, n. 30, 2008 (adaptado)."
     },
     "language": "pt"
   },
-  "statement": "de objetos de prata: um experimento simples e de fácil execução envolvendo reações de oxidação-redução. Química Nova na Escola, n. 30, 2008 (adaptado). Os valores das diferenças de potencial-padrão das reações que representam o escurecimento e o clareamento do objeto de prata são, respectivamente:",
+  "statement": "Os valores das diferenças de potencial-padrão das reações que representam o escurecimento e o clareamento do objeto de prata são, respectivamente:",
   "text_flow": [
     {
       "id": "t1",
       "scope": "context",
-      "text": "Objetos de prata escurecem em contato com compostos\ncontendo enxofre por causa da formação de uma fina camada\nde sulfeto de prata. Um método simples para clarear o objeto\nconsiste em forrar um recipiente com papel alumínio, adicionar\nao recipiente uma solução aquosa de cloreto de sódio e,\nenfim, mergulhar o objeto de prata enegrecido. Em cerca de\ntrês minutos, a prata volta à coloração original. As seguintes\nsemirreações e os respectivos potenciais-padrão de redução\nsão úteis para a compreensão dos fenômenos ocorridos.\nAg2S (s) + 2 e− → 2 Ag (s) + S2− (aq)\nO2 (g) + 4 H+ (aq) + 4 e− → 2 H2O (l)\nAl3+ (aq) + 3 e− → Al (s)\n−0,69 V\n+1,23 V\n−1,68 V",
+      "text": "Objetos de prata escurecem em contato com compostos contendo enxofre por causa da formação de uma fina camada de sulfeto de prata. Um método simples para clarear o objeto consiste em forrar um recipiente com papel alumínio, adicionar ao recipiente uma solução aquosa de cloreto de sódio e, enfim, mergulhar o objeto de prata enegrecido. Em cerca de três minutos, a prata volta à coloração original. As seguintes semirreações e os respectivos potenciais-padrão de redução são úteis para a compreensão dos fenômenos ocorridos.\n\n$$\\mathrm{Ag_2S(s)} + 2\\,e^- \\rightarrow 2\\,\\mathrm{Ag(s)} + \\mathrm{S^{2-}(aq)} \\quad (E^\\circ = -0{,}69\\,\\mathrm{V})$$\n\n$$\\mathrm{O_2(g)} + 4\\,\\mathrm{H^+(aq)} + 4\\,e^- \\rightarrow 2\\,\\mathrm{H_2O(l)} \\quad (E^\\circ = +1{,}23\\,\\mathrm{V})$$\n\n$$\\mathrm{Al^{3+}(aq)} + 3\\,e^- \\rightarrow \\mathrm{Al(s)} \\quad (E^\\circ = -1{,}68\\,\\mathrm{V})$$",
       "anchor": "before:assets:context",
       "order": 1
-    },
-    {
-      "id": "t2",
-      "scope": "statement",
-      "text": "de objetos de prata: um experimento simples e de fácil execução envolvendo reações de oxidação-redução. Química Nova na Escola, n. 30, 2008 (adaptado). Os valores das diferenças de potencial-padrão das reações que representam o escurecimento e o clareamento do objeto de prata são, respectivamente:",
-      "anchor": "before:options",
-      "order": 2
     }
   ],
+  "prompt": {
+    "text": "Os valores das diferenças de potencial-padrão das reações que representam o escurecimento e o clareamento do objeto de prata são, respectivamente:",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
   "options": [
     {
       "letter": "A",
-      "text": "+0,54 V e +2,37 V."
+      "text": "+0,54 V e +2,37 V."
     },
     {
       "letter": "B",
-      "text": "+1,92 V e +0,99 V."
+      "text": "+1,92 V e +0,99 V."
     },
     {
       "letter": "C",
-      "text": "−0,15 V e +5,43 V."
+      "text": "-0,15 V e +5,43 V."
     },
     {
       "letter": "D",
-      "text": "+2,61 V e +1,29 V."
+      "text": "+2,61 V e +1,29 V."
     },
     {
       "letter": "E",
-      "text": "+0,15 V e −1,29 V."
+      "text": "+0,15 V e -1,29 V."
     }
   ],
   "correct_answer": "B",
@@ -76,7 +74,7 @@
     "has_table": false,
     "has_formula": false,
     "annulled": false,
-    "reviewed": false,
-    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+    "reviewed": true,
+    "review_notes": "Reviewed 2026-01-06: source normalized; reactions formatted"
   }
 }

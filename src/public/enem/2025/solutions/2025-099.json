@@ -1,0 +1,19 @@
+{
+  "question_id": "2025_q099",
+  "final_answer": {
+    "letter": "C",
+    "value": "secreção da glândula uropigial"
+  },
+  "short_md": "A glândula uropigial produz óleo que impermeabiliza as penas.  \nSem essa secreção, as penas encharcam e a ave perde flutuabilidade.  \nResposta: alternativa C.",
+  "steps": [
+    {
+      "title": "Identificar a causa do problema",
+      "body_md": "As penas ficaram encharcadas, reduzindo a flutuação."
+    },
+    {
+      "title": "Relacionar a estrutura",
+      "body_md": "A glândula uropigial secreta óleo que impermeabiliza as penas."
+    }
+  ],
+  "tts_text": "A dificuldade de flutuação ocorre porque as penas ficaram encharcadas. Quem evita isso é a secreção oleosa da glândula uropigial, que impermeabiliza as penas. Uma redução nessa secreção causa o problema. Portanto, a alternativa correta é a letra C."
+}

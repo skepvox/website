@@ -1,0 +1,19 @@
+{
+  "question_id": "2025_q125",
+  "final_answer": {
+    "letter": "B",
+    "value": "Estriol"
+  },
+  "short_md": "Maior solubilidade em água ocorre para moléculas mais polares.  \nO estriol tem três grupos OH, mais que os demais.  \nResposta: alternativa B.",
+  "steps": [
+    {
+      "title": "Relacionar solubilidade e polaridade",
+      "body_md": "Mais grupos hidroxila aumentam a solubilidade em água."
+    },
+    {
+      "title": "Comparar estruturas",
+      "body_md": "O estriol possui três OH, maior capacidade de formar ligações de hidrogênio."
+    }
+  ],
+  "tts_text": "Entre os hormônios apresentados, o estriol possui três grupos hidroxila, o que aumenta a polaridade e a capacidade de formar ligações de hidrogênio com a água. Assim, ele é o mais solúvel. A alternativa correta é a letra B."
+}

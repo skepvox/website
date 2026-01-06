@@ -4,7 +4,7 @@
   "day": 2,
   "number": 105,
   "area": {
-    "code": "natureza",
+    "code": "ciencias-da-natureza",
     "name": "Ciências da Natureza e suas Tecnologias"
   },
   "subject": null,
@@ -12,10 +12,10 @@
   "skill": null,
   "context": {
     "type": "text",
-    "content": "As usinas termonucleares são aquelas que produzem energia elétrica a partir da geração de energia térmica proveniente das\nreações nucleares. Normalmente, essas usinas funcionam por meio de dois circuitos, denominados circuito primário (vaso de pressão,\npressurizador e bomba) e circuito secundário (gerador de vapor, turbina, condensador, tanque de alimentação e bombas), além de\num sistema de água de refrigeração, formado por uma bomba ligada a uma fonte hídrica natural.\nDurante a operação da usina, se o sistema de água de refrigeração funcionar de forma ineficiente pode causar poluição\ntérmica, comprometendo a vida no ecossistema aquático.",
+    "content": "As usinas termonucleares são aquelas que produzem energia elétrica a partir da geração de energia térmica proveniente das reações nucleares. Normalmente, essas usinas funcionam por meio de dois circuitos, denominados circuito primário (vaso de pressão, pressurizador e bomba) e circuito secundário (gerador de vapor, turbina, condensador, tanque de alimentação e bombas), além de um sistema de água de refrigeração, formado por uma bomba ligada a uma fonte hídrica natural.\n\nDurante a operação da usina, se o sistema de água de refrigeração funcionar de forma ineficiente pode causar poluição térmica, comprometendo a vida no ecossistema aquático.",
     "source": {
       "url": "www.eletronuclear.gov.br",
-      "access_date": "29 nov. 2021",
+      "access_date": "29 nov. 2021",
       "note": "adaptado"
     },
     "language": "pt"
@@ -25,18 +25,16 @@
     {
       "id": "t1",
       "scope": "context",
-      "text": "As usinas termonucleares são aquelas que produzem energia elétrica a partir da geração de energia térmica proveniente das\nreações nucleares. Normalmente, essas usinas funcionam por meio de dois circuitos, denominados circuito primário (vaso de pressão,\npressurizador e bomba) e circuito secundário (gerador de vapor, turbina, condensador, tanque de alimentação e bombas), além de\num sistema de água de refrigeração, formado por uma bomba ligada a uma fonte hídrica natural.\nDurante a operação da usina, se o sistema de água de refrigeração funcionar de forma ineficiente pode causar poluição\ntérmica, comprometendo a vida no ecossistema aquático.",
-      "anchor": "before:assets:context",
+      "text": "As usinas termonucleares são aquelas que produzem energia elétrica a partir da geração de energia térmica proveniente das reações nucleares. Normalmente, essas usinas funcionam por meio de dois circuitos, denominados circuito primário (vaso de pressão, pressurizador e bomba) e circuito secundário (gerador de vapor, turbina, condensador, tanque de alimentação e bombas), além de um sistema de água de refrigeração, formado por uma bomba ligada a uma fonte hídrica natural.\n\nDurante a operação da usina, se o sistema de água de refrigeração funcionar de forma ineficiente pode causar poluição térmica, comprometendo a vida no ecossistema aquático.",
+      "anchor": "before:asset:q105_img_001",
       "order": 1
-    },
-    {
-      "id": "t2",
-      "scope": "statement",
-      "text": "Para o ecossistema aquático, a ineficiência do sistema de água de refrigeração tem como consequência a",
-      "anchor": "before:options",
-      "order": 2
     }
   ],
+  "prompt": {
+    "text": "Para o ecossistema aquático, a ineficiência do sistema de água de refrigeração tem como consequência a",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
   "options": [
     {
       "letter": "A",
@@ -61,7 +59,14 @@
   ],
   "correct_answer": "E",
   "assets": {
-    "images": [],
+    "images": [
+      {
+        "id": "q105_img_001",
+        "file": "images/raw/ciencias-da-natureza/2025-105-img-001.jpeg",
+        "alt": "Esquema de usina termonuclear com circuito primário, secundário e sistema de água de refrigeração, incluindo reator, pressurizador, turbina, condensador e torre de resfriamento.",
+        "position": "context"
+      }
+    ],
     "charts": [],
     "tables": [],
     "formulas": []
@@ -71,12 +76,12 @@
     "caderno": "verde",
     "caderno_position": 105,
     "foreign_language_option": null,
-    "has_image": false,
+    "has_image": true,
     "has_chart": false,
     "has_table": false,
     "has_formula": false,
     "annulled": false,
-    "reviewed": false,
-    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+    "reviewed": true,
+    "review_notes": "Reviewed 2026-01-06: source kept in context; diagram mapped"
   }
 }

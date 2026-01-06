@@ -1,0 +1,19 @@
+{
+  "question_id": "2025_q108",
+  "final_answer": {
+    "letter": "D",
+    "value": "destilada"
+  },
+  "short_md": "A água sem sais dissolvidos é obtida por destilação.  \nEsse tipo não é adequado para ingestão.  \nResposta: alternativa D.",
+  "steps": [
+    {
+      "title": "Reconhecer o processo",
+      "body_md": "Remoção de sais dissolvidos caracteriza água destilada."
+    },
+    {
+      "title": "Conclusão",
+      "body_md": "A água descrita é destilada."
+    }
+  ],
+  "tts_text": "A água que passa por um processo que remove os sais dissolvidos é a água destilada. Ela é muito usada em laboratório e não é adequada para ingestão. Portanto, a alternativa correta é a letra D."
+}

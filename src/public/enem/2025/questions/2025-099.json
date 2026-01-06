@@ -4,7 +4,7 @@
   "day": 2,
   "number": 99,
   "area": {
-    "code": "natureza",
+    "code": "ciencias-da-natureza",
     "name": "Ciências da Natureza e suas Tecnologias"
   },
   "subject": null,
@@ -12,27 +12,25 @@
   "skill": null,
   "context": {
     "type": "text",
-    "content": "Os funcionários de um zoológico observaram um aumento\nna taxa de mortalidade de aves aquáticas por afogamento.\nUm grupo de biólogos analisou o comportamento das aves por",
+    "content": "Os funcionários de um zoológico observaram um aumento\nna taxa de mortalidade de aves aquáticas por afogamento.\nUm grupo de biólogos analisou o comportamento das aves por\nvárias semanas e observou que elas apresentavam dificuldade de\nflutuação, por causa do encharcamento das penas com água.",
     "source": null,
     "language": "pt"
   },
-  "statement": "várias semanas e observou que elas apresentavam dificuldade de flutuação, por causa do encharcamento das penas com água. O aumento na taxa de mortalidade dessas aves estava associado a uma redução na",
+  "statement": "O aumento na taxa de mortalidade dessas aves estava associado a uma redução na",
   "text_flow": [
     {
       "id": "t1",
       "scope": "context",
-      "text": "Os funcionários de um zoológico observaram um aumento\nna taxa de mortalidade de aves aquáticas por afogamento.\nUm grupo de biólogos analisou o comportamento das aves por",
+      "text": "Os funcionários de um zoológico observaram um aumento\nna taxa de mortalidade de aves aquáticas por afogamento.\nUm grupo de biólogos analisou o comportamento das aves por\nvárias semanas e observou que elas apresentavam dificuldade de\nflutuação, por causa do encharcamento das penas com água.",
       "anchor": "before:assets:context",
       "order": 1
-    },
-    {
-      "id": "t2",
-      "scope": "statement",
-      "text": "várias semanas e observou que elas apresentavam dificuldade de flutuação, por causa do encharcamento das penas com água. O aumento na taxa de mortalidade dessas aves estava associado a uma redução na",
-      "anchor": "before:options",
-      "order": 2
     }
   ],
+  "prompt": {
+    "text": "O aumento na taxa de mortalidade dessas aves estava associado a uma redução na",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
   "options": [
     {
       "letter": "A",
@@ -72,7 +70,7 @@
     "has_table": false,
     "has_formula": false,
     "annulled": false,
-    "reviewed": false,
-    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+    "reviewed": true,
+    "review_notes": "Reviewed 2026-01-06: statement split from context; content verified"
   }
 }

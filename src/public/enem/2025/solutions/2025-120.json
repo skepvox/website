@@ -1,0 +1,23 @@
+{
+  "question_id": "2025_q120",
+  "final_answer": {
+    "letter": "B",
+    "value": "120 V e 2,4 Ω"
+  },
+  "short_md": "Cada placa: $E = 40$ V e $V_{op} = 34$ V com $I = 7,5$ A.  \nResistência interna: $r = (40-34)/7,5 = 0,8$ Ω.  \nPara 100 V, são 3 placas em série: $E = 120$ V e $r = 2,4$ Ω.  \nResposta: alternativa B.",
+  "steps": [
+    {
+      "title": "Obter r de uma placa",
+      "body_md": "$r = (40 - 34)/7,5 = 0,8$ Ω."
+    },
+    {
+      "title": "Definir o número mínimo",
+      "body_md": "3 placas em série dão cerca de 102 V em operação."
+    },
+    {
+      "title": "Equivalente do gerador",
+      "body_md": "$E = 120$ V e $r = 2,4$ Ω."
+    }
+  ],
+  "tts_text": "Cada placa tem força eletromotriz de 40 V e fornece 34 V quando passa 7,5 A. A resistência interna é a queda de 6 V dividida por 7,5 A, ou seja, 0,8 ohm. Para atingir cerca de 100 V, o mínimo é usar três placas em série: tensão de 120 V em circuito aberto e resistência interna total de 2,4 ohms. Essa configuração corresponde à alternativa B."
+}

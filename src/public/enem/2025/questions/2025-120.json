@@ -4,7 +4,7 @@
   "day": 2,
   "number": 120,
   "area": {
-    "code": "natureza",
+    "code": "ciencias-da-natureza",
     "name": "Ciências da Natureza e suas Tecnologias"
   },
   "subject": null,
@@ -12,57 +12,67 @@
   "skill": null,
   "context": {
     "type": "text",
-    "content": "Em uma comunidade rural, os moradores utilizam uma\nbomba-d’água alimentada por 100 V de tensão contínua,\npodendo variar em até 5 V. Um eletrotécnico pretende instalar\nplacas fotovoltaicas para alimentar essa bomba. As placas são\nidênticas e cada uma apresenta tensão de operação igual a",
+    "content": "Em uma comunidade rural, os moradores utilizam uma bomba-d’água alimentada por 100 V de tensão contínua, podendo variar em até 5 V. Um eletrotécnico pretende instalar placas fotovoltaicas para alimentar essa bomba. As placas são idênticas e cada uma apresenta tensão de operação igual a 34 V com corrente de 7,5 A. Além disso, cada placa apresenta 40 V de tensão elétrica, quando em circuito aberto. Assim, considerando que a placa descrita é um gerador não ideal, em circuito aberto ela pode ser representada conforme a figura.",
     "source": null,
     "language": "pt"
   },
-  "statement": "34 V com corrente de 7,5 A. Além disso, cada placa apresenta 40 V de tensão elétrica, quando em circuito aberto. Assim, considerando que a placa descrita é um gerador não ideal, em circuito aberto ela pode ser representada conforme a figura: O eletrotécnico construiu um circuito que permite à bomba-d’água operar corretamente com o menor número possível de placas conectadas. Para isso, desenhou um diagrama no qual todas essas placas são representadas como um único gerador não ideal, com a especificação das correspondentes características elétricas. O diagrama que representa o circuito construído pelo eletrotécnico é:",
+  "statement": "O eletrotécnico construiu um circuito que permite à bomba-d’água operar corretamente com o menor número possível de placas conectadas. Para isso, desenhou um diagrama no qual todas essas placas são representadas como um único gerador não ideal, com a especificação das correspondentes características elétricas. O diagrama que representa o circuito construído pelo eletrotécnico é:",
   "text_flow": [
     {
       "id": "t1",
       "scope": "context",
-      "text": "Em uma comunidade rural, os moradores utilizam uma\nbomba-d’água alimentada por 100 V de tensão contínua,\npodendo variar em até 5 V. Um eletrotécnico pretende instalar\nplacas fotovoltaicas para alimentar essa bomba. As placas são\nidênticas e cada uma apresenta tensão de operação igual a",
-      "anchor": "before:assets:context",
+      "text": "Em uma comunidade rural, os moradores utilizam uma bomba-d’água alimentada por 100 V de tensão contínua, podendo variar em até 5 V. Um eletrotécnico pretende instalar placas fotovoltaicas para alimentar essa bomba. As placas são idênticas e cada uma apresenta tensão de operação igual a 34 V com corrente de 7,5 A. Além disso, cada placa apresenta 40 V de tensão elétrica, quando em circuito aberto. Assim, considerando que a placa descrita é um gerador não ideal, em circuito aberto ela pode ser representada conforme a figura.",
+      "anchor": "before:asset:q120_img_001",
       "order": 1
-    },
-    {
-      "id": "t2",
-      "scope": "statement",
-      "text": "34 V com corrente de 7,5 A. Além disso, cada placa apresenta 40 V de tensão elétrica, quando em circuito aberto. Assim, considerando que a placa descrita é um gerador não ideal, em circuito aberto ela pode ser representada conforme a figura: O eletrotécnico construiu um circuito que permite à bomba-d’água operar corretamente com o menor número possível de placas conectadas. Para isso, desenhou um diagrama no qual todas essas placas são representadas como um único gerador não ideal, com a especificação das correspondentes características elétricas.",
-      "anchor": "before:options",
-      "order": 2
     }
   ],
   "prompt": {
-    "text": "O diagrama que representa o circuito construído pelo eletrotécnico é:",
+    "text": "O eletrotécnico construiu um circuito que permite à bomba-d’água operar corretamente com o menor número possível de placas conectadas. Para isso, desenhou um diagrama no qual todas essas placas são representadas como um único gerador não ideal, com a especificação das correspondentes características elétricas. O diagrama que representa o circuito construído pelo eletrotécnico é:",
     "scope": "statement",
     "anchor": "before:options"
   },
   "options": [
     {
       "letter": "A",
-      "text": "[IMAGE]"
+      "text": "",
+      "image": "images/raw/ciencias-da-natureza/2025-120-img-002.png",
+      "image_alt": "Alternativa A: gerador de 136 V com resistência interna 3,2 Ω."
     },
     {
       "letter": "B",
-      "text": "[IMAGE]"
+      "text": "",
+      "image": "images/raw/ciencias-da-natureza/2025-120-img-003.png",
+      "image_alt": "Alternativa B: gerador de 120 V com resistência interna 2,4 Ω."
     },
     {
       "letter": "C",
-      "text": "[IMAGE]"
+      "text": "",
+      "image": "images/raw/ciencias-da-natureza/2025-120-img-004.png",
+      "image_alt": "Alternativa C: gerador de 120 V com resistência interna 5,3 Ω."
     },
     {
       "letter": "D",
-      "text": "[IMAGE]"
+      "text": "",
+      "image": "images/raw/ciencias-da-natureza/2025-120-img-005.png",
+      "image_alt": "Alternativa D: gerador de 102 V com resistência interna 2,4 Ω."
     },
     {
       "letter": "E",
-      "text": "[IMAGE]"
+      "text": "",
+      "image": "images/raw/ciencias-da-natureza/2025-120-img-006.png",
+      "image_alt": "Alternativa E: gerador de 102 V com resistência interna 5,3 Ω."
     }
   ],
   "correct_answer": "B",
   "assets": {
-    "images": [],
+    "images": [
+      {
+        "id": "q120_img_001",
+        "file": "images/raw/ciencias-da-natureza/2025-120-img-001.png",
+        "alt": "Modelo de gerador não ideal com força eletromotriz de 40 V e resistência interna r.",
+        "position": "context"
+      }
+    ],
     "charts": [],
     "tables": [],
     "formulas": []
@@ -77,7 +87,7 @@
     "has_table": false,
     "has_formula": false,
     "annulled": false,
-    "reviewed": false,
-    "review_notes": "Image-based options need manual review"
+    "reviewed": true,
+    "review_notes": "Reviewed 2026-01-06: context and option diagrams mapped"
   }
 }

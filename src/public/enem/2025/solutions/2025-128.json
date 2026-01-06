@@ -1,0 +1,23 @@
+{
+  "question_id": "2025_q128",
+  "final_answer": {
+    "letter": "D",
+    "value": "170 km/h para Leste, 220 km/h para Norte e 11 km/h para cima"
+  },
+  "short_md": "Em 6 min = 0,1 h, o deslocamento exige velocidade no solo de 200 km/h para Leste, 200 km/h para Norte e 10 km/h para cima.  \nVento: +30 Leste, -20 Norte, -1 vertical.  \nVelocidade no ar:  $(200-30, 200-(-20), 10-(-1)) = (170, 220, 11)$.  \nResposta: alternativa D.",
+  "steps": [
+    {
+      "title": "Velocidade necessária no solo",
+      "body_md": "$20/0,1 = 200$ km/h para Leste e Norte; $1/0,1 = 10$ km/h para cima."
+    },
+    {
+      "title": "Descontar o vento",
+      "body_md": "Vento: +30 Leste, -20 Norte, -1 vertical.  \n$v_{ar} = v_{solo} - v_{vento}$."
+    },
+    {
+      "title": "Resultado",
+      "body_md": "$(170, 220, 11)$ km/h. Alternativa D."
+    }
+  ],
+  "tts_text": "Em 6 minutos, que correspondem a 0,1 hora, o avião precisa percorrer 20 km para leste, 20 km para norte e subir 1 km. Isso exige velocidade no solo de 200 km/h para leste, 200 km/h para norte e 10 km/h para cima. O vento soma 30 km/h para leste, 20 km/h para sul e 1 km/h para baixo. Portanto, a velocidade do avião em relação ao ar é a velocidade no solo menos a do vento: 170 para leste, 220 para norte e 11 para cima. A alternativa correta é a letra D."
+}

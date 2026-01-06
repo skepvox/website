@@ -1,0 +1,19 @@
+{
+  "question_id": "2025_q102",
+  "final_answer": {
+    "letter": "B",
+    "value": "ausência de alimentação natural"
+  },
+  "short_md": "Os sapinhos obtêm as toxinas ao ingerir formigas e cupins da dieta natural.  \nEm cativeiro, sem essa alimentação, não acumulam o veneno.  \nResposta: alternativa B.",
+  "steps": [
+    {
+      "title": "Relacionar toxina e dieta",
+      "body_md": "O veneno vem de presas que acumulam toxinas."
+    },
+    {
+      "title": "Explicar a perda em cativeiro",
+      "body_md": "Sem a alimentação natural, não há obtenção da toxina."
+    }
+  ],
+  "tts_text": "O texto informa que o veneno é obtido a partir da alimentação com formigas e cupins. Em cativeiro, os animais não consomem essas presas, então não acumulam a toxina. Portanto, a causa é a ausência de alimentação natural. Alternativa B."
+}

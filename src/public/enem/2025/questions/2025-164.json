@@ -12,7 +12,7 @@
   "skill": null,
   "context": {
     "type": "text",
-    "content": "Um recipiente tem um formato que faz com que, ao ser enchido de água com uma vazão constante, a distância \\(D\\) da lâmina de água ao tampo da mesa, em centímetro, aumente em relação ao tempo \\(T\\), em minuto, de acordo com uma função do tipo.\n\n\\[D = k + \\mathrm{tg}[p(T + m)]\\]\n\nSendo os parâmetros \\(k\\), \\(p\\) e \\(m\\) números reais, para \\(T\\) variando de 0 a 4 minutos, conforme ilustrado na figura, na qual estão apresentadas assíntotas verticais da função tangente utilizada na definição de \\(D\\).",
+    "content": "Um recipiente tem um formato que faz com que, ao ser enchido de água com uma vazão constante, a distância \\(D\\) da lâmina de água ao tampo da mesa, em centímetro, aumente em relação ao tempo \\(T\\), em minuto, de acordo com uma função do tipo.\n\n$$D = k + \\mathrm{tg}[p(T + m)]$$\n\nSendo os parâmetros \\(k\\), \\(p\\) e \\(m\\) números reais, para \\(T\\) variando de 0 a 4 minutos, conforme ilustrado na figura, na qual estão apresentadas assíntotas verticais da função tangente utilizada na definição de \\(D\\).",
     "source": null,
     "language": "pt"
   },
@@ -21,7 +21,7 @@
     {
       "id": "t1",
       "scope": "context",
-      "text": "Um recipiente tem um formato que faz com que, ao ser enchido de água com uma vazão constante, a distância \\(D\\) da lâmina de água ao tampo da mesa, em centímetro, aumente em relação ao tempo \\(T\\), em minuto, de acordo com uma função do tipo.\n\n\\[D = k + \\mathrm{tg}[p(T + m)]\\]\n\nSendo os parâmetros \\(k\\), \\(p\\) e \\(m\\) números reais, para \\(T\\) variando de 0 a 4 minutos, conforme ilustrado na figura, na qual estão apresentadas assíntotas verticais da função tangente utilizada na definição de \\(D\\).",
+      "text": "Um recipiente tem um formato que faz com que, ao ser enchido de água com uma vazão constante, a distância \\(D\\) da lâmina de água ao tampo da mesa, em centímetro, aumente em relação ao tempo \\(T\\), em minuto, de acordo com uma função do tipo.\n\n$$D = k + \\mathrm{tg}[p(T + m)]$$\n\nSendo os parâmetros \\(k\\), \\(p\\) e \\(m\\) números reais, para \\(T\\) variando de 0 a 4 minutos, conforme ilustrado na figura, na qual estão apresentadas assíntotas verticais da função tangente utilizada na definição de \\(D\\).",
       "anchor": "before:assets:context",
       "order": 1
     }

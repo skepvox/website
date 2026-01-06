@@ -4,7 +4,7 @@
   "day": 2,
   "number": 102,
   "area": {
-    "code": "natureza",
+    "code": "ciencias-da-natureza",
     "name": "Ciências da Natureza e suas Tecnologias"
   },
   "subject": null,
@@ -14,13 +14,13 @@
     "type": "text",
     "content": "Os sapinhos-ponta-de-flecha constituem um grupo de\nespécies encontradas na América Central e do Sul. Seus venenos\nsão obtidos por meio do consumo de algumas formigas e cupins\nque se alimentam de plantas que contêm esses venenos. Esses\nanfíbios são usados para envenenar as flechas das zarabatanas\ndos caçadores nativos. Quando capturados e criados em\ncondições artificiais, ou quando nascidos em cativeiro, não\nsão tóxicos.",
     "source": {
-      "author": "BADIO, B.",
-      "title": "et al. Epibatidine: Discovery and Definition as a Potent",
+      "author": "BADIO, B. et al.",
+      "title": "Epibatidine: Discovery and Definition as a Potent Analgesic and Nicotinic Agonist. Med. Chem. Res., n. 4, 1994 (adaptado).",
       "note": null
     },
     "language": "pt"
   },
-  "statement": "Analgesic and Nicotinic Agonist. Med. Chem. Res., n. 4, 1994 (adaptado). A perda da capacidade de se obter a toxina nos nascidos em cativeiro é causada pela",
+  "statement": "A perda da capacidade de se obter a toxina nos nascidos em cativeiro é causada pela",
   "text_flow": [
     {
       "id": "t1",
@@ -28,15 +28,13 @@
       "text": "Os sapinhos-ponta-de-flecha constituem um grupo de\nespécies encontradas na América Central e do Sul. Seus venenos\nsão obtidos por meio do consumo de algumas formigas e cupins\nque se alimentam de plantas que contêm esses venenos. Esses\nanfíbios são usados para envenenar as flechas das zarabatanas\ndos caçadores nativos. Quando capturados e criados em\ncondições artificiais, ou quando nascidos em cativeiro, não\nsão tóxicos.",
       "anchor": "before:assets:context",
       "order": 1
-    },
-    {
-      "id": "t2",
-      "scope": "statement",
-      "text": "Analgesic and Nicotinic Agonist. Med. Chem. Res., n. 4, 1994 (adaptado). A perda da capacidade de se obter a toxina nos nascidos em cativeiro é causada pela",
-      "anchor": "before:options",
-      "order": 2
     }
   ],
+  "prompt": {
+    "text": "A perda da capacidade de se obter a toxina nos nascidos em cativeiro é causada pela",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
   "options": [
     {
       "letter": "A",
@@ -76,7 +74,7 @@
     "has_table": false,
     "has_formula": false,
     "annulled": false,
-    "reviewed": false,
-    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+    "reviewed": true,
+    "review_notes": "Reviewed 2026-01-06: source line moved to context; statement separated"
   }
 }

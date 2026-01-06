@@ -1,0 +1,23 @@
+{
+  "question_id": "2025_q129",
+  "final_answer": {
+    "letter": "B",
+    "value": "70 ms"
+  },
+  "short_md": "Para atravessar completamente o feixe: distância = 15 cm + 20 cm = 35 cm = 0,35 m.  \nCom a maior velocidade (5,0 m/s):  \n$t = 0,35/5 = 0,07$ s = 70 ms.  \nResposta: alternativa B.",
+  "steps": [
+    {
+      "title": "Determinar a distância",
+      "body_md": "Precisa atravessar o diâmetro do feixe e a espessura do corpo: $0,15 + 0,20 = 0,35$ m."
+    },
+    {
+      "title": "Usar a maior velocidade",
+      "body_md": "Com 5,0 m/s, $t = 0,35/5 = 0,07$ s."
+    },
+    {
+      "title": "Converter",
+      "body_md": "$0,07$ s = 70 ms. Alternativa B."
+    }
+  ],
+  "tts_text": "O tempo de resposta deve cobrir o deslocamento necessário para o corpo atravessar totalmente o feixe. A distância é o diâmetro do feixe, 15 cm, mais a espessura do corpo, 20 cm, totalizando 35 cm ou 0,35 metro. Considerando a maior velocidade possível, 5,0 metros por segundo, o tempo é 0,35 dividido por 5, que dá 0,07 segundo, ou 70 milissegundos. Portanto, a alternativa correta é a letra B."
+}

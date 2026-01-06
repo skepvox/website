@@ -1,0 +1,19 @@
+{
+  "question_id": "2025_q112",
+  "final_answer": {
+    "letter": "A",
+    "value": "plantar mais árvores"
+  },
+  "short_md": "Plantas removem CO2 por fotossíntese, reduzindo a concentração atmosférica.  \nResposta: alternativa A.",
+  "steps": [
+    {
+      "title": "Identificar a ação mitigadora",
+      "body_md": "Remover CO2 exige captura biológica ou tecnológica."
+    },
+    {
+      "title": "Aplicar ao caso",
+      "body_md": "Plantio de árvores aumenta a fixação de CO2."
+    }
+  ],
+  "tts_text": "Entre as ações listadas, a única que remove CO2 diretamente da atmosfera é o plantio de árvores, pois a fotossíntese fixa carbono na biomassa. As demais apenas reduzem emissões futuras. Portanto, a alternativa correta é a letra A."
+}

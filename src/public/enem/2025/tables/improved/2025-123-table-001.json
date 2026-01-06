@@ -1,0 +1,29 @@
+{
+  "id": "2025-123-table-001",
+  "headers": [
+    "Teste",
+    "Resultado"
+  ],
+  "rows": [
+    [
+      "Aedes aegypti (larvas)",
+      "Baixa eficiência"
+    ],
+    [
+      "Bacilo de Koch",
+      "Média eficiência"
+    ],
+    [
+      "Moluscos aquáticos (adultos)",
+      "Alta eficiência"
+    ],
+    [
+      "Pernilongo (larvas)",
+      "Média eficiência"
+    ],
+    [
+      "Vermes platelmintos",
+      "Ineficiente"
+    ]
+  ]
+}

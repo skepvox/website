@@ -1,0 +1,19 @@
+{
+  "question_id": "2025_q117",
+  "final_answer": {
+    "letter": "C",
+    "value": "endêmicas"
+  },
+  "short_md": "Ambientes muito específicos e isolados favorecem espécies com distribuição restrita.  \nLogo, predominam espécies endêmicas.  \nResposta: alternativa C.",
+  "steps": [
+    {
+      "title": "Interpretar o ambiente",
+      "body_md": "As cangas são habitats extremos e isolados."
+    },
+    {
+      "title": "Efeito evolutivo",
+      "body_md": "A seleção favorece espécies restritas a esse ambiente."
+    }
+  ],
+  "tts_text": "As cangas são ambientes com condições extremas e distribuição restrita. Isso favorece espécies que evoluem especificamente para esse habitat, ou seja, espécies endêmicas. Portanto, a alternativa correta é a letra C."
+}

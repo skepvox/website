@@ -4,7 +4,7 @@
   "day": 2,
   "number": 103,
   "area": {
-    "code": "natureza",
+    "code": "ciencias-da-natureza",
     "name": "Ciências da Natureza e suas Tecnologias"
   },
   "subject": null,
@@ -12,27 +12,25 @@
   "skill": null,
   "context": {
     "type": "text",
-    "content": "A produção de vacinas exige uma sequência de procedimentos,\nalém do cumprimento estrito de verificações de segurança.\nNo esquema, estão demonstradas as etapas básicas realizadas\npara a fabricação de uma vacina utilizando a tecnologia tradicional\ne o efeito dela no organismo.\nO antígeno utilizado na vacina causa um efeito protetor contra",
+    "content": "A produção de vacinas exige uma sequência de procedimentos,\nalém do cumprimento estrito de verificações de segurança.\nNo esquema, estão demonstradas as etapas básicas realizadas\npara a fabricação de uma vacina utilizando a tecnologia tradicional\ne o efeito dela no organismo.",
     "source": null,
     "language": "pt"
   },
-  "statement": "o vírus porque",
+  "statement": "O antígeno utilizado na vacina causa um efeito protetor contra o vírus porque",
   "text_flow": [
     {
       "id": "t1",
       "scope": "context",
-      "text": "A produção de vacinas exige uma sequência de procedimentos,\nalém do cumprimento estrito de verificações de segurança.\nNo esquema, estão demonstradas as etapas básicas realizadas\npara a fabricação de uma vacina utilizando a tecnologia tradicional\ne o efeito dela no organismo.\nO antígeno utilizado na vacina causa um efeito protetor contra",
-      "anchor": "before:assets:context",
+      "text": "A produção de vacinas exige uma sequência de procedimentos,\nalém do cumprimento estrito de verificações de segurança.\nNo esquema, estão demonstradas as etapas básicas realizadas\npara a fabricação de uma vacina utilizando a tecnologia tradicional\ne o efeito dela no organismo.",
+      "anchor": "before:asset:q103_img_001",
       "order": 1
-    },
-    {
-      "id": "t2",
-      "scope": "statement",
-      "text": "o vírus porque",
-      "anchor": "before:options",
-      "order": 2
     }
   ],
+  "prompt": {
+    "text": "O antígeno utilizado na vacina causa um efeito protetor contra o vírus porque",
+    "scope": "statement",
+    "anchor": "before:options"
+  },
   "options": [
     {
       "letter": "A",
@@ -57,7 +55,14 @@
   ],
   "correct_answer": "D",
   "assets": {
-    "images": [],
+    "images": [
+      {
+        "id": "q103_img_001",
+        "file": "images/raw/ciencias-da-natureza/2025-103-img-001.jpeg",
+        "alt": "Esquema da produção de vacina: cultura de células infectadas, isolamento dos vírus, inativação por calor ou ação química, aplicação da vacina e produção de anticorpos.",
+        "position": "context"
+      }
+    ],
     "charts": [],
     "tables": [],
     "formulas": []
@@ -67,12 +72,12 @@
     "caderno": "verde",
     "caderno_position": 103,
     "foreign_language_option": null,
-    "has_image": false,
+    "has_image": true,
     "has_chart": false,
     "has_table": false,
     "has_formula": false,
     "annulled": false,
-    "reviewed": false,
-    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+    "reviewed": true,
+    "review_notes": "Reviewed 2026-01-06: statement separated; diagram mapped"
   }
 }

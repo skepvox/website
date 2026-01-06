@@ -4,7 +4,7 @@
   "day": 2,
   "number": 104,
   "area": {
-    "code": "natureza",
+    "code": "ciencias-da-natureza",
     "name": "Ciências da Natureza e suas Tecnologias"
   },
   "subject": null,
@@ -12,22 +12,22 @@
   "skill": null,
   "context": {
     "type": "text",
-    "content": "O bioma Cerrado é caracterizado por apresentar ampla e\nnatural diversidade de espécies vegetais. Nos últimos tempos,\no homem vem modificando esse cenário pela inserção de\nplantas exóticas nesse ambiente. Exemplo disso é o cultivo do\ncapim-gordura, nativo do continente africano e utilizado nesse\ntipo de ecossistema como forma de pastagem. É importante\nressaltar que essa espécie vegetal é capaz de se espalhar por\ngrandes áreas, devido à sua agressividade e poder competitivo.\nCARLOS JR., L. A.; BARBOSA, N. P. U.; FERNANDES, G. W.\nO capim-gordura e as invasões no Cerrado brasileiro.\nJornal do Biólogo, mar.-jun. 2008 (adaptado).\nEm longo prazo, essa ação do homem pode gerar qual",
+    "content": "O bioma Cerrado é caracterizado por apresentar ampla e\nnatural diversidade de espécies vegetais. Nos últimos tempos,\no homem vem modificando esse cenário pela inserção de\nplantas exóticas nesse ambiente. Exemplo disso é o cultivo do\ncapim-gordura, nativo do continente africano e utilizado nesse\ntipo de ecossistema como forma de pastagem. É importante\nressaltar que essa espécie vegetal é capaz de se espalhar por\ngrandes áreas, devido à sua agressividade e poder competitivo.\nCARLOS JR., L. A.; BARBOSA, N. P. U.; FERNANDES, G. W.\nO capim-gordura e as invasões no Cerrado brasileiro.\nJornal do Biólogo, mar.-jun. 2008 (adaptado).",
     "source": null,
     "language": "pt"
   },
-  "statement": "consequência?",
+  "statement": "Em longo prazo, essa ação do homem pode gerar qual consequência?",
   "text_flow": [
     {
       "id": "t1",
       "scope": "context",
-      "text": "O bioma Cerrado é caracterizado por apresentar ampla e\nnatural diversidade de espécies vegetais. Nos últimos tempos,\no homem vem modificando esse cenário pela inserção de\nplantas exóticas nesse ambiente. Exemplo disso é o cultivo do\ncapim-gordura, nativo do continente africano e utilizado nesse\ntipo de ecossistema como forma de pastagem. É importante\nressaltar que essa espécie vegetal é capaz de se espalhar por\ngrandes áreas, devido à sua agressividade e poder competitivo.\nCARLOS JR., L. A.; BARBOSA, N. P. U.; FERNANDES, G. W.\nO capim-gordura e as invasões no Cerrado brasileiro.\nJornal do Biólogo, mar.-jun. 2008 (adaptado).\nEm longo prazo, essa ação do homem pode gerar qual",
+      "text": "O bioma Cerrado é caracterizado por apresentar ampla e\nnatural diversidade de espécies vegetais. Nos últimos tempos,\no homem vem modificando esse cenário pela inserção de\nplantas exóticas nesse ambiente. Exemplo disso é o cultivo do\ncapim-gordura, nativo do continente africano e utilizado nesse\ntipo de ecossistema como forma de pastagem. É importante\nressaltar que essa espécie vegetal é capaz de se espalhar por\ngrandes áreas, devido à sua agressividade e poder competitivo.\nCARLOS JR., L. A.; BARBOSA, N. P. U.; FERNANDES, G. W.\nO capim-gordura e as invasões no Cerrado brasileiro.\nJornal do Biólogo, mar.-jun. 2008 (adaptado).",
       "anchor": "before:assets:context",
       "order": 1
     }
   ],
   "prompt": {
-    "text": "consequência?",
+    "text": "Em longo prazo, essa ação do homem pode gerar qual consequência?",
     "scope": "statement",
     "anchor": "before:options"
   },
@@ -70,7 +70,7 @@
     "has_table": false,
     "has_formula": false,
     "annulled": false,
-    "reviewed": false,
-    "review_notes": "text_flow/prompt auto-extracted - verify anchors"
+    "reviewed": true,
+    "review_notes": "Reviewed 2026-01-06: source kept in context; statement separated"
   }
 }
