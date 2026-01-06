@@ -63,8 +63,8 @@ Canonical URL pattern:
 
 ### Page types
 
-- **Exam overview page (hub):** `/enem/2025/matematica`
-- **Single-question page (leaf):** `/enem/2025/matematica/questao/2025-136`
+- **Exam overview page (hub):** `/enem/2025/ciencias-da-natureza`, `/enem/2025/matematica`
+- **Single-question page (leaf):** `/enem/2025/ciencias-da-natureza/questao/2025-091`, `/enem/2025/matematica/questao/2025-136`
 
 ### Hub title convention
 
@@ -76,11 +76,20 @@ Canonical URL pattern:
 - Top link back to the hub.
 - Includes the “Mapeamento de cadernos” section.
 
+### Redirect aliases (cadernos)
+
+- Aliases live in `vercel.json` as 301 redirects.
+- For each area, include both slug styles:
+  - `caderno-{5,6,7,8}/questao-{N}`
+  - `caderno-{amarelo,cinza,azul,verde}/questao-{N}`
+- Redirect each alias to the canonical leaf using
+  `src/public/enem/{year}/mappings/booklet-question-mapping.json`.
+
 ### Rendering strategy (SEO-critical)
 
 - Question pages are fully rendered at build time.
 - `scripts/generate-enem-question-pages.js` generates the Markdown leaves.
-- Sections: `## Contexto`, `## Enunciado`, `## Alternativas`, `## Solucao`.
+- Sections: `## Contexto`, `## Enunciado`, `## Alternativas`, `## Solução`.
 
 ### Metadata (implemented)
 
@@ -97,6 +106,7 @@ Canonical URL pattern:
 - All canonical question pages are in the sitemap.
 - Alias URLs are excluded (301 redirects).
 - JSON endpoints are excluded.
+- Keep hubs out of the sitemap exclusion list in `.vitepress/config.ts`.
 
 ## Essays / blog posts (when present)
 

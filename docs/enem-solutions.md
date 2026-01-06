@@ -39,6 +39,11 @@ this structure:
 The generator maps these fields into the Markdown leaves via
 `scripts/generate-enem-question-pages.js`.
 
+Annulled questions:
+- Set `final_answer.letter` to `null`.
+- Set `final_answer.value` to `Questão anulada`.
+- Mention the annulment in `short_md`, one step, and the `tts_text`.
+
 ## Formula-first rule
 
 When a formula is used, the first step must:
@@ -86,6 +91,8 @@ Example:
 ## QA checklist
 
 - Answer letter matches `correct_answer`.
+- For annulled questions, `final_answer.letter` is `null` and the solution
+  explicitly notes the annulment.
 - All formulas are defined before use.
 - Units and symbols are consistent throughout.
 - "Texto completo" matches the final result and tone.

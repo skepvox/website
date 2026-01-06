@@ -129,8 +129,10 @@ question card and its nested components.
   to reduce oversized single-column stacks.
 - Image assets include a subtle media frame and optional caption.
 - Tables render with simplified borders and a slightly smaller font size.
-- Formulas render with KaTeX when possible, with a monospace fallback if
+- Formula assets render with KaTeX when possible, with a monospace fallback if
   rendering fails. Use `segments` to mix text and math.
+- Markdown math in context/statement is rendered by MathJax (via
+  `markdown-it-mathjax3`).
 - KaTeX output is left-aligned and uses the base site font with italic styles
   disabled to blend with surrounding text.
 - Assets should avoid hardcoded background colors; prefer transparency so they
@@ -172,10 +174,9 @@ question card and its nested components.
 
 ## Recent implementation notes (2025-12-24)
 
-- Inline KaTeX in context/statement was removed due to spacing artifacts; use
-  `\( ... \)` markers to render italic variables instead.
-- Block math in context/statement is supported via `$$ ... $$`, rendered with
-  MathJax as a standalone line.
+- Inline math in context/statement uses `$...$`; block math uses `$$...$$`.
+- Avoid `\(...\)` and `\[...\]` in Markdown content; they are not parsed by the
+  MathJax markdown plugin.
 - Prompt/statement now render as separate blocks when `prompt.text` is present
   and different from `statement`.
 - Statement text is indented; prompt text is not.

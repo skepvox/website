@@ -36,7 +36,7 @@ Use this when moving adjusted data into the website and generating pages.
 1) Mirror adjusted assets into `src/public/enem/{year}/` (questions, images,
    tables, charts).
 2) Ensure `area.code` matches the site slug (e.g. `ciencias-da-natureza`,
-   `matematica`).
+   `matematica`) and update asset paths accordingly.
 3) Create/update the hub page at `src/enem/{year}/{area}.md` with the
    question preview cards.
 4) Add solution JSON files at `src/public/enem/{year}/solutions/{year}-{NNN}.json`
@@ -44,6 +44,9 @@ Use this when moving adjusted data into the website and generating pages.
 5) Generate or refresh leaves:
    - `node scripts/generate-enem-question-pages.js --year {year} --area {area} --label "{Área completa}" --short "{Área curta}"`
 6) Update the ENEM sidebar group in `.vitepress/config.ts` if new areas were added.
+7) Update `.vitepress/theme/enem/types.ts` and `src/enem/index.md` when adding
+   a new area slug.
+8) Add alias redirects in `vercel.json` (see `docs/seo-strategy.md`).
 
 Notes:
 - The pipeline output is git-ignored; publish with `node scripts/publish-enem.js --year 2025` or `pnpm publish:enem -- --year 2025`.
@@ -59,8 +62,17 @@ Booklet structure:
 Question ranges per discipline:
 - Linguagens: Q1-45 (Day 1)
 - Humanas: Q46-90 (Day 1)
-- Natureza: Q91-135 (Day 2)
+- Ciências da Natureza: Q91-135 (Day 2)
 - Matematica: Q136-180 (Day 2)
+
+Area slug conventions (site):
+- `ciencias-da-natureza` (use this slug, not `natureza`)
+- `matematica`
+
+Path examples:
+- Hub: `src/enem/2025/ciencias-da-natureza.md`
+- Leaves: `src/enem/2025/ciencias-da-natureza/questao/2025-091.md`
+- Images: `src/public/enem/2025/images/raw/ciencias-da-natureza/2025-091-img-001.png`
 
 Inputs:
 - `raw/{year}/` - Verde booklet PDFs (PV = prova, GB = gabarito)
