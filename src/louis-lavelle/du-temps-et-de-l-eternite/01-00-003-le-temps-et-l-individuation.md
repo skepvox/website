@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/01-00-003-le-temps-et-l-individuation"
+      href: "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/01-00-003-le-temps-et-l-individuation.html"
   - - meta
     - name: description
       content: "Texte intégral en français de Du temps et de l'éternité de Louis Lavelle. Chapitre III. Le temps et l'individuation."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de Du temps et de l'éternité de Louis Lavelle. Chapitre III. Le temps et l'individuation."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/01-00-003-le-temps-et-l-individuation"
+      content: "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/01-00-003-le-temps-et-l-individuation.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Chapitre III. Le temps et l'individuation",
         "identifier": "01-00-003",
-        "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/01-00-003-le-temps-et-l-individuation",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/01-00-003-le-temps-et-l-individuation",
+        "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/01-00-003-le-temps-et-l-individuation.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/01-00-003-le-temps-et-l-individuation.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -81,7 +81,7 @@ head:
               "@type": "Person",
               "name": "Louis Lavelle"
             },
-            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite"
+            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite.html"
           }
         },
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
@@ -126,19 +126,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Du temps et de l'éternité",
-            "item": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite"
+            "item": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre III. Le temps et l'individuation",
-            "item": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/01-00-003-le-temps-et-l-individuation"
+            "item": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/01-00-003-le-temps-et-l-individuation.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/du-temps-et-de-l-eternite)
+[Retour au livre](/louis-lavelle/du-temps-et-de-l-eternite.html)
 
 ## Livre I. Le temps et la participation
 

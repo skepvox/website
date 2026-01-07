@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/de-l-acte/03-00-021-agir-et-patir"
+      href: "https://skepvox.com/louis-lavelle/de-l-acte/03-00-021-agir-et-patir.html"
   - - meta
     - name: description
       content: "Texte intégral en français de De l'acte de Louis Lavelle. Chapitre XXI. Agir et pâtir."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de De l'acte de Louis Lavelle. Chapitre XXI. Agir et pâtir."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/de-l-acte/03-00-021-agir-et-patir"
+      content: "https://skepvox.com/louis-lavelle/de-l-acte/03-00-021-agir-et-patir.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Chapitre XXI. Agir et pâtir",
         "identifier": "03-00-021",
-        "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-021-agir-et-patir",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-021-agir-et-patir",
+        "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-021-agir-et-patir.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-021-agir-et-patir.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -81,7 +81,7 @@ head:
               "@type": "Person",
               "name": "Louis Lavelle"
             },
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte"
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte.html"
           }
         },
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
@@ -126,19 +126,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "De l'acte",
-            "item": "https://skepvox.com/louis-lavelle/de-l-acte"
+            "item": "https://skepvox.com/louis-lavelle/de-l-acte.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre XXI. Agir et pâtir",
-            "item": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-021-agir-et-patir"
+            "item": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-021-agir-et-patir.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/de-l-acte)
+[Retour au livre](/louis-lavelle/de-l-acte.html)
 
 ## Livre III. L'acte de participation — Première partie : Le moi et la participation
 

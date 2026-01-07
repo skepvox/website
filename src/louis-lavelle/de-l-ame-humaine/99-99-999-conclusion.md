@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/99-99-999-conclusion"
+      href: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/99-99-999-conclusion.html"
   - - meta
     - name: description
       content: "Texte intégral en français de De l'âme humaine de Louis Lavelle. Conclusion. L'essence de l'âme, ou la réhabilitation des notions de possibilité et de puissance."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de De l'âme humaine de Louis Lavelle. Conclusion. L'essence de l'âme, ou la réhabilitation des notions de possibilité et de puissance."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/99-99-999-conclusion"
+      content: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/99-99-999-conclusion.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Conclusion. L'essence de l'âme, ou la réhabilitation des notions de possibilité et de puissance",
         "identifier": "99-99-999",
-        "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/99-99-999-conclusion",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/99-99-999-conclusion",
+        "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/99-99-999-conclusion.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/99-99-999-conclusion.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -77,7 +77,7 @@ head:
             "@type": "Person",
             "name": "Louis Lavelle"
           },
-          "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine"
+          "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine.html"
         },
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
         "description": "Texte intégral en français de De l'âme humaine de Louis Lavelle. Conclusion. L'essence de l'âme, ou la réhabilitation des notions de possibilité et de puissance.",
@@ -111,19 +111,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "De l'âme humaine",
-            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine"
+            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Conclusion. L'essence de l'âme, ou la réhabilitation des notions de possibilité et de puissance",
-            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/99-99-999-conclusion"
+            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/99-99-999-conclusion.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/de-l-ame-humaine)
+[Retour au livre](/louis-lavelle/de-l-ame-humaine.html)
 
 ## Conclusion. L'essence de l'âme, ou la réhabilitation des notions de possibilité et de puissance
 

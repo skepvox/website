@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/04-00-012-l-eternite"
+      href: "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/04-00-012-l-eternite.html"
   - - meta
     - name: description
       content: "Texte intégral en français de Du temps et de l'éternité de Louis Lavelle. Chapitre XII. L'éternité."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de Du temps et de l'éternité de Louis Lavelle. Chapitre XII. L'éternité."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/04-00-012-l-eternite"
+      content: "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/04-00-012-l-eternite.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Chapitre XII. L'éternité",
         "identifier": "04-00-012",
-        "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/04-00-012-l-eternite",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/04-00-012-l-eternite",
+        "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/04-00-012-l-eternite.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/04-00-012-l-eternite.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -81,7 +81,7 @@ head:
               "@type": "Person",
               "name": "Louis Lavelle"
             },
-            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite"
+            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite.html"
           }
         },
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
@@ -126,19 +126,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Du temps et de l'éternité",
-            "item": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite"
+            "item": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre XII. L'éternité",
-            "item": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/04-00-012-l-eternite"
+            "item": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/04-00-012-l-eternite.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/du-temps-et-de-l-eternite)
+[Retour au livre](/louis-lavelle/du-temps-et-de-l-eternite.html)
 
 ## Livre IV. Le temps et l'éternité
 

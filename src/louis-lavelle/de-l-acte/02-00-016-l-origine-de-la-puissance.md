@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/de-l-acte/02-00-016-l-origine-de-la-puissance"
+      href: "https://skepvox.com/louis-lavelle/de-l-acte/02-00-016-l-origine-de-la-puissance.html"
   - - meta
     - name: description
       content: "Texte intégral en français de De l'acte de Louis Lavelle. Chapitre XVI. L'origine de la puissance."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de De l'acte de Louis Lavelle. Chapitre XVI. L'origine de la puissance."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/de-l-acte/02-00-016-l-origine-de-la-puissance"
+      content: "https://skepvox.com/louis-lavelle/de-l-acte/02-00-016-l-origine-de-la-puissance.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Chapitre XVI. L'origine de la puissance",
         "identifier": "02-00-016",
-        "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-016-l-origine-de-la-puissance",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-016-l-origine-de-la-puissance",
+        "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-016-l-origine-de-la-puissance.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-016-l-origine-de-la-puissance.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -81,7 +81,7 @@ head:
               "@type": "Person",
               "name": "Louis Lavelle"
             },
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte"
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte.html"
           }
         },
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
@@ -126,19 +126,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "De l'acte",
-            "item": "https://skepvox.com/louis-lavelle/de-l-acte"
+            "item": "https://skepvox.com/louis-lavelle/de-l-acte.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre XVI. L'origine de la puissance",
-            "item": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-016-l-origine-de-la-puissance"
+            "item": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-016-l-origine-de-la-puissance.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/de-l-acte)
+[Retour au livre](/louis-lavelle/de-l-acte.html)
 
 ## Livre II. L'intervalle — Troisième partie : L'intervalle rempli
 

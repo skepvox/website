@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-005-les-puissances-de-la-sensibilite"
+      href: "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-005-les-puissances-de-la-sensibilite.html"
   - - meta
     - name: description
       content: "Texte intégral en français de L'Erreur de Narcisse de Louis Lavelle. Chapitre 5. Les puissances de la sensibilité."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de L'Erreur de Narcisse de Louis Lavelle. Chapitre 5. Les puissances de la sensibilité."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-005-les-puissances-de-la-sensibilite"
+      content: "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-005-les-puissances-de-la-sensibilite.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Chapitre 5. Les puissances de la sensibilité",
         "identifier": "00-00-005",
-        "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-005-les-puissances-de-la-sensibilite",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-005-les-puissances-de-la-sensibilite",
+        "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-005-les-puissances-de-la-sensibilite.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-005-les-puissances-de-la-sensibilite.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -77,7 +77,7 @@ head:
             "@type": "Person",
             "name": "Louis Lavelle"
           },
-          "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse"
+          "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse.html"
         },
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
         "description": "Texte intégral en français de L'Erreur de Narcisse de Louis Lavelle. Chapitre 5. Les puissances de la sensibilité.",
@@ -111,19 +111,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "L'Erreur de Narcisse",
-            "item": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse"
+            "item": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre 5. Les puissances de la sensibilité",
-            "item": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-005-les-puissances-de-la-sensibilite"
+            "item": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-005-les-puissances-de-la-sensibilite.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/l-erreur-de-narcisse)
+[Retour au livre](/louis-lavelle/l-erreur-de-narcisse.html)
 
 ## Chapitre 5. Les puissances de la sensibilité
 

@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-006-l-acces-dans-l-existence"
+      href: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-006-l-acces-dans-l-existence.html"
   - - meta
     - name: description
       content: "Texte intégral en français de De l'âme humaine de Louis Lavelle. Chapitre VI. L'accès dans l'existence."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de De l'âme humaine de Louis Lavelle. Chapitre VI. L'accès dans l'existence."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-006-l-acces-dans-l-existence"
+      content: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-006-l-acces-dans-l-existence.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Chapitre VI. L'accès dans l'existence",
         "identifier": "02-00-006",
-        "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-006-l-acces-dans-l-existence",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-006-l-acces-dans-l-existence",
+        "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-006-l-acces-dans-l-existence.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-006-l-acces-dans-l-existence.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -81,7 +81,7 @@ head:
               "@type": "Person",
               "name": "Louis Lavelle"
             },
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine"
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine.html"
           }
         },
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
@@ -126,19 +126,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "De l'âme humaine",
-            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine"
+            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre VI. L'accès dans l'existence",
-            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-006-l-acces-dans-l-existence"
+            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-006-l-acces-dans-l-existence.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/de-l-ame-humaine)
+[Retour au livre](/louis-lavelle/de-l-ame-humaine.html)
 
 ## Livre II. La genèse de l'âme
 

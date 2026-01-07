@@ -5,7 +5,7 @@ outline: 2
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/de-l-etre"
+      href: "https://skepvox.com/louis-lavelle/de-l-etre.html"
   - - meta
     - name: description
       content: "Texte intégral en français de De l'être de Louis Lavelle, premier volume de La Dialectique de l'éternel présent."
@@ -17,7 +17,7 @@ head:
       content: "Texte intégral en français de De l'être de Louis Lavelle, premier volume de La Dialectique de l'éternel présent."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/de-l-etre"
+      content: "https://skepvox.com/louis-lavelle/de-l-etre.html"
   - - meta
     - property: og:type
       content: book
@@ -54,7 +54,7 @@ head:
           "name": "Louis Lavelle"
         },
         "inLanguage": "fr",
-        "url": "https://skepvox.com/louis-lavelle/de-l-etre",
+        "url": "https://skepvox.com/louis-lavelle/de-l-etre.html",
         "description": "Texte intégral en français de De l'être de Louis Lavelle, premier volume de La Dialectique de l'éternel présent.",
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
         "isPartOf": {
@@ -65,55 +65,55 @@ head:
           {
             "@type": "Chapter",
             "name": "Chapitre 1. De la primauté de l'être",
-            "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-001-de-la-primaute-de-l-etre",
+            "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-001-de-la-primaute-de-l-etre.html",
             "identifier": "00-00-001"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre 2. De l'universalité de l'être",
-            "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-002-de-l-universalite-de-l-etre",
+            "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-002-de-l-universalite-de-l-etre.html",
             "identifier": "00-00-002"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre 3. De l'univocité de l'être",
-            "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-003-de-l-univocite-de-l-etre",
+            "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-003-de-l-univocite-de-l-etre.html",
             "identifier": "00-00-003"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre 4. De l'extension et de la compréhension de l'être",
-            "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-004-de-l-extension-et-de-la-comprehension-de-l-etre",
+            "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-004-de-l-extension-et-de-la-comprehension-de-l-etre.html",
             "identifier": "00-00-004"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre 5. Du jugement d'existence",
-            "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-005-du-jugement-d-existence",
+            "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-005-du-jugement-d-existence.html",
             "identifier": "00-00-005"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre 6. De l'être du tout et de l'être des parties",
-            "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-006-de-l-etre-du-tout-et-de-l-etre-des-parties",
+            "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-006-de-l-etre-du-tout-et-de-l-etre-des-parties.html",
             "identifier": "00-00-006"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre 7. De l'être du moi",
-            "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-007-de-l-etre-du-moi",
+            "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-007-de-l-etre-du-moi.html",
             "identifier": "00-00-007"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre 8. De l'idée de l'être",
-            "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-008-de-l-idee-de-l-etre",
+            "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-008-de-l-idee-de-l-etre.html",
             "identifier": "00-00-008"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre 9. De la présence de l'être",
-            "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-009-de-la-presence-de-l-etre",
+            "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-009-de-la-presence-de-l-etre.html",
             "identifier": "00-00-009"
           }
         ]
@@ -131,55 +131,55 @@ head:
             "@type": "ListItem",
             "position": 1,
             "name": "Chapitre 1. De la primauté de l'être",
-            "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-001-de-la-primaute-de-l-etre"
+            "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-001-de-la-primaute-de-l-etre.html"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Chapitre 2. De l'universalité de l'être",
-            "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-002-de-l-universalite-de-l-etre"
+            "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-002-de-l-universalite-de-l-etre.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre 3. De l'univocité de l'être",
-            "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-003-de-l-univocite-de-l-etre"
+            "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-003-de-l-univocite-de-l-etre.html"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Chapitre 4. De l'extension et de la compréhension de l'être",
-            "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-004-de-l-extension-et-de-la-comprehension-de-l-etre"
+            "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-004-de-l-extension-et-de-la-comprehension-de-l-etre.html"
           },
           {
             "@type": "ListItem",
             "position": 5,
             "name": "Chapitre 5. Du jugement d'existence",
-            "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-005-du-jugement-d-existence"
+            "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-005-du-jugement-d-existence.html"
           },
           {
             "@type": "ListItem",
             "position": 6,
             "name": "Chapitre 6. De l'être du tout et de l'être des parties",
-            "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-006-de-l-etre-du-tout-et-de-l-etre-des-parties"
+            "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-006-de-l-etre-du-tout-et-de-l-etre-des-parties.html"
           },
           {
             "@type": "ListItem",
             "position": 7,
             "name": "Chapitre 7. De l'être du moi",
-            "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-007-de-l-etre-du-moi"
+            "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-007-de-l-etre-du-moi.html"
           },
           {
             "@type": "ListItem",
             "position": 8,
             "name": "Chapitre 8. De l'idée de l'être",
-            "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-008-de-l-idee-de-l-etre"
+            "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-008-de-l-idee-de-l-etre.html"
           },
           {
             "@type": "ListItem",
             "position": 9,
             "name": "Chapitre 9. De la présence de l'être",
-            "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-009-de-la-presence-de-l-etre"
+            "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-009-de-la-presence-de-l-etre.html"
           }
         ]
       }
@@ -200,7 +200,7 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "De l'être",
-            "item": "https://skepvox.com/louis-lavelle/de-l-etre"
+            "item": "https://skepvox.com/louis-lavelle/de-l-etre.html"
           }
         ]
       }
@@ -210,15 +210,15 @@ head:
 
 ## Table des matières
 
-- [Chapitre 1. De la primauté de l'être](/louis-lavelle/de-l-etre/00-00-001-de-la-primaute-de-l-etre)
-- [Chapitre 2. De l'universalité de l'être](/louis-lavelle/de-l-etre/00-00-002-de-l-universalite-de-l-etre)
-- [Chapitre 3. De l'univocité de l'être](/louis-lavelle/de-l-etre/00-00-003-de-l-univocite-de-l-etre)
-- [Chapitre 4. De l'extension et de la compréhension de l'être](/louis-lavelle/de-l-etre/00-00-004-de-l-extension-et-de-la-comprehension-de-l-etre)
-- [Chapitre 5. Du jugement d'existence](/louis-lavelle/de-l-etre/00-00-005-du-jugement-d-existence)
-- [Chapitre 6. De l'être du tout et de l'être des parties](/louis-lavelle/de-l-etre/00-00-006-de-l-etre-du-tout-et-de-l-etre-des-parties)
-- [Chapitre 7. De l'être du moi](/louis-lavelle/de-l-etre/00-00-007-de-l-etre-du-moi)
-- [Chapitre 8. De l'idée de l'être](/louis-lavelle/de-l-etre/00-00-008-de-l-idee-de-l-etre)
-- [Chapitre 9. De la présence de l'être](/louis-lavelle/de-l-etre/00-00-009-de-la-presence-de-l-etre)
+- [Chapitre 1. De la primauté de l'être](/louis-lavelle/de-l-etre/00-00-001-de-la-primaute-de-l-etre.html)
+- [Chapitre 2. De l'universalité de l'être](/louis-lavelle/de-l-etre/00-00-002-de-l-universalite-de-l-etre.html)
+- [Chapitre 3. De l'univocité de l'être](/louis-lavelle/de-l-etre/00-00-003-de-l-univocite-de-l-etre.html)
+- [Chapitre 4. De l'extension et de la compréhension de l'être](/louis-lavelle/de-l-etre/00-00-004-de-l-extension-et-de-la-comprehension-de-l-etre.html)
+- [Chapitre 5. Du jugement d'existence](/louis-lavelle/de-l-etre/00-00-005-du-jugement-d-existence.html)
+- [Chapitre 6. De l'être du tout et de l'être des parties](/louis-lavelle/de-l-etre/00-00-006-de-l-etre-du-tout-et-de-l-etre-des-parties.html)
+- [Chapitre 7. De l'être du moi](/louis-lavelle/de-l-etre/00-00-007-de-l-etre-du-moi.html)
+- [Chapitre 8. De l'idée de l'être](/louis-lavelle/de-l-etre/00-00-008-de-l-idee-de-l-etre.html)
+- [Chapitre 9. De la présence de l'être](/louis-lavelle/de-l-etre/00-00-009-de-la-presence-de-l-etre.html)
 
 ## Chapitre 1. De la primauté de l'être
 

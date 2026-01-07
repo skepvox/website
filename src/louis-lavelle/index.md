@@ -11,7 +11,7 @@ head:
       content: "Biografia de Louis Lavelle (1883–1951), filósofo francês do spiritualisme français e da philosophie réflexive. Biographie du philosophe français, vie et œuvres."
   - - meta
     - name: keywords
-      content: "Louis Lavelle, biografia, biographie, filósofo francês, philosophe français, spiritualisme français, philosophie réflexive, La Dialectique de l'éternel présent, De l'être, De l'acte, Du Temps et de l'Éternité, De l'Âme humaine, L'Erreur de Narcisse, Quatre saints"
+      content: "Louis Lavelle, biografia, biographie, filósofo francês, philosophe français, spiritualisme français, philosophie réflexive, La Dialectique de l'éternel présent, La Conscience de soi, La Présence totale, Introduction à l'ontologie, De l'être, De l'acte, Du Temps et de l'Éternité, De l'Âme humaine, L'Erreur de Narcisse, Quatre saints"
   - - meta
     - property: og:title
       content: "Biografia — Louis Lavelle"
@@ -130,42 +130,63 @@ head:
           {
             "@type": "Book",
             "name": "De l'être",
-            "url": "https://skepvox.com/louis-lavelle/de-l-etre",
+            "url": "https://skepvox.com/louis-lavelle/de-l-etre.html",
             "inLanguage": "fr",
             "datePublished": "1928"
           },
           {
             "@type": "Book",
+            "name": "La conscience de soi",
+            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi.html",
+            "inLanguage": "fr",
+            "datePublished": "1933"
+          },
+          {
+            "@type": "Book",
+            "name": "La Présence totale",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale.html",
+            "inLanguage": "fr",
+            "datePublished": "1934"
+          },
+          {
+            "@type": "Book",
             "name": "De l'acte",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte",
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte.html",
             "inLanguage": "fr",
             "datePublished": "1937"
           },
           {
             "@type": "Book",
             "name": "L'Erreur de Narcisse",
-            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse",
+            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse.html",
             "inLanguage": "fr",
             "datePublished": "1939"
           },
           {
             "@type": "Book",
             "name": "Du temps et de l'éternité",
-            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite",
+            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite.html",
             "inLanguage": "fr",
             "datePublished": "1945"
           },
           {
             "@type": "Book",
+            "name": "Introduction à l'ontologie",
+            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie.html",
+            "inLanguage": "fr",
+            "datePublished": "1947"
+          },
+          {
+            "@type": "Book",
             "name": "De l'âme humaine",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine",
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine.html",
             "inLanguage": "fr",
             "datePublished": "1951"
           },
           {
             "@type": "Book",
             "name": "Quatre saints",
-            "url": "https://skepvox.com/louis-lavelle/quatre-saints",
+            "url": "https://skepvox.com/louis-lavelle/quatre-saints.html",
             "inLanguage": "fr",
             "datePublished": "1951"
           }
@@ -178,43 +199,61 @@ head:
         "@context": "https://schema.org",
         "@type": "ItemList",
         "itemListOrder": "http://schema.org/ItemListOrderAscending",
-        "numberOfItems": 6,
+        "numberOfItems": 9,
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "De l'être",
-            "url": "https://skepvox.com/louis-lavelle/de-l-etre"
+            "url": "https://skepvox.com/louis-lavelle/de-l-etre.html"
           },
           {
             "@type": "ListItem",
             "position": 2,
-            "name": "De l'acte",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte"
+            "name": "La conscience de soi",
+            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
-            "name": "L'Erreur de Narcisse",
-            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse"
+            "name": "La Présence totale",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale.html"
           },
           {
             "@type": "ListItem",
             "position": 4,
-            "name": "Du temps et de l'éternité",
-            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite"
+            "name": "De l'acte",
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte.html"
           },
           {
             "@type": "ListItem",
             "position": 5,
-            "name": "De l'âme humaine",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine"
+            "name": "L'Erreur de Narcisse",
+            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse.html"
           },
           {
             "@type": "ListItem",
             "position": 6,
+            "name": "Du temps et de l'éternité",
+            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "name": "Introduction à l'ontologie",
+            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "name": "De l'âme humaine",
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
             "name": "Quatre saints",
-            "url": "https://skepvox.com/louis-lavelle/quatre-saints"
+            "url": "https://skepvox.com/louis-lavelle/quatre-saints.html"
           }
         ]
       }
@@ -230,12 +269,15 @@ head:
 
 ## Obras Originais
 
-- [_De l'Être_](/louis-lavelle/de-l-etre) (1928)
-- [_De l'Acte_](/louis-lavelle/de-l-acte) (1937)
-- [_L'Erreur de Narcisse_](/louis-lavelle/l-erreur-de-narcisse) (1939)
-- [_Du Temps et de l'Éternité_](/louis-lavelle/du-temps-et-de-l-eternite) (1945)
-- [_De l'Âme humaine_](/louis-lavelle/de-l-ame-humaine) (1951)
-- [_Quatre saints_](/louis-lavelle/quatre-saints) (1951)
+- [_De l'Être_](/louis-lavelle/de-l-etre.html) (1928)
+- [_La Conscience de soi_](/louis-lavelle/la-conscience-de-soi.html) (1933)
+- [_La Présence totale_](/louis-lavelle/la-presence-totale.html) (1934)
+- [_De l'Acte_](/louis-lavelle/de-l-acte.html) (1937)
+- [_L'Erreur de Narcisse_](/louis-lavelle/l-erreur-de-narcisse.html) (1939)
+- [_Du Temps et de l'Éternité_](/louis-lavelle/du-temps-et-de-l-eternite.html) (1945)
+- [_Introduction à l'ontologie_](/louis-lavelle/introduction-a-l-ontologie.html) (1947)
+- [_De l'Âme humaine_](/louis-lavelle/de-l-ame-humaine.html) (1951)
+- [_Quatre saints_](/louis-lavelle/quatre-saints.html) (1951)
 
 ## A) Resolução de Identidade e Desambiguação
 
@@ -279,7 +321,7 @@ Seu projeto filosófico foi uma tentativa ambiciosa e vitalícia de reconciliar 
 
 #### A Dialética do Eterno Presente
 
-O sistema central de Lavelle foi planejado como uma arquitetura metafísica de cinco volumes. Quatro volumes foram concluídos durante sua vida e logo após: [De l'Être](/louis-lavelle/de-l-etre) (Do Ser), [De l'Acte](/louis-lavelle/de-l-acte) (Do Ato), [Du Temps et de l'Eternité](/louis-lavelle/du-temps-et-de-l-eternite) (Do Tempo e da Eternidade) e [De l'Âme humaine](/louis-lavelle/de-l-ame-humaine) (Da Alma Humana). Este sistema explora a estrutura da realidade através dessas categorias, argumentando que o tempo não é uma barreira para a eternidade, nem uma degradação do ser, mas o próprio meio ou "intervalo" através do qual o espírito finito constrói sua essência eterna.
+O sistema central de Lavelle foi planejado como uma arquitetura metafísica de cinco volumes. Quatro volumes foram concluídos durante sua vida e logo após: [De l'Être](/louis-lavelle/de-l-etre.html) (Do Ser), [De l'Acte](/louis-lavelle/de-l-acte.html) (Do Ato), [Du Temps et de l'Eternité](/louis-lavelle/du-temps-et-de-l-eternite.html) (Do Tempo e da Eternidade) e [De l'Âme humaine](/louis-lavelle/de-l-ame-humaine.html) (Da Alma Humana). Este sistema explora a estrutura da realidade através dessas categorias, argumentando que o tempo não é uma barreira para a eternidade, nem uma degradação do ser, mas o próprio meio ou "intervalo" através do qual o espírito finito constrói sua essência eterna.
 
 #### O Conceito de Participação
 
@@ -374,7 +416,7 @@ O período entreguerras viu Lavelle ascender ao topo do estabelecimento acadêmi
 
 - _Ensino:_ Leciona na Première Supérieure (Khâgne), a classe preparatória para a École Normale Supérieure. Nesse papel, mentora uma geração de intelectuais franceses.
 
-**1928: Publicação Principal.** Publicação de [_De l'Être_](/louis-lavelle/de-l-etre) (Do Ser), o primeiro volume de sua sistemática _La Dialectique de l'éternel présent_. Esta obra estabelece sua reputação como um metafísico de primeira ordem.
+**1928: Publicação Principal.** Publicação de [_De l'Être_](/louis-lavelle/de-l-etre.html) (Do Ser), o primeiro volume de sua sistemática _La Dialectique de l'éternel présent_. Esta obra estabelece sua reputação como um metafísico de primeira ordem.
 
 **1930–1942: Jornalismo no Le Temps.** Lavelle assume o papel de cronista de filosofia para o grande jornal _Le Temps_.
 
@@ -385,9 +427,9 @@ O período entreguerras viu Lavelle ascender ao topo do estabelecimento acadêmi
 **1934: Fundação de Coleção.** Juntamente com seu amigo e colega espiritualista René Le Senne, Lavelle co-funda a coleção "Philosophie de l'esprit" (Filosofia do Espírito) na editora Aubier-Montaigne.
 
 - _Significado:_ Esta coleção torna-se o principal veículo para o pensamento espiritualista francês, publicando obras que contrariam a maré crescente do materialismo e da fenomenologia.
-- _Publicação:_ _La Présence totale_ (A Presença Total).
+- _Publicação:_ [_La Présence totale_](/louis-lavelle/la-presence-totale.html) (A Presença Total).
 
-**1937: Publicação.** [De l'Acte](/louis-lavelle/de-l-acte) (Do Ato), o segundo volume de sua magnum opus.
+**1937: Publicação.** [De l'Acte](/louis-lavelle/de-l-acte.html) (Do Ato), o segundo volume de sua magnum opus.
 
 ### IV. O Collège de France e os Anos de Guerra (1940–1945)
 
@@ -410,7 +452,7 @@ A carreira de Lavelle atingiu o pico durante o período complexo e moralmente ca
 
 Os anos pós-guerra foram uma corrida contra o declínio da saúde para completar seu sistema. Lavelle encontrou-se cada vez mais isolado à medida que a moda intelectual mudava para Sartre e o marxismo.
 
-**1945: Publicação.** [Du Temps et de l'Éternité](/louis-lavelle/du-temps-et-de-l-eternite) (Do Tempo e da Eternidade), Volume 3 da Dialética.
+**1945: Publicação.** [Du Temps et de l'Éternité](/louis-lavelle/du-temps-et-de-l-eternite.html) (Do Tempo e da Eternidade), Volume 3 da Dialética.
 
 **1947: Honrarias Acadêmicas.** É eleito para a Académie des Sciences Morales et Politiques, solidificando seu status como um pilar do estabelecimento francês.
 
@@ -419,7 +461,7 @@ Os anos pós-guerra foram uma corrida contra o declínio da saúde para completa
 - _Viagens:_ Apesar da saúde debilitada, ele palestra extensivamente na Bélgica, Países Baixos, Suíça, Itália e Alemanha. Ele se esforça para reafirmar o espiritualismo como uma alternativa viável ao existencialismo ateu que varria a Europa.
 - _Saúde:_ Sua própria saúde declina em paralelo com a de seu filho Jean-François.
 
-**1951: Um Ano de Culminação.** Em uma explosão final de produtividade, vê a publicação de três grandes obras: [De l'âme humaine](/louis-lavelle/de-l-ame-humaine) (Volume 4 da Dialética), _Traité des valeurs_ (Volume 1) e [_Quatre saints_](/louis-lavelle/quatre-saints).
+**1951: Um Ano de Culminação.** Em uma explosão final de produtividade, vê a publicação de três grandes obras: [De l'âme humaine](/louis-lavelle/de-l-ame-humaine.html) (Volume 4 da Dialética), _Traité des valeurs_ (Volume 1) e [_Quatre saints_](/louis-lavelle/quatre-saints.html).
 
 **1951, 1º de setembro: Morte.** Louis Lavelle morre em sua casa em Parranquet (Lot-et-Garonne) aos 68 anos.
 
@@ -435,29 +477,29 @@ A bibliografia de Louis Lavelle é caracterizada por uma estrutura dupla: uma ar
 
 Esta série de vários volumes constitui a magnum opus de Lavelle. Foi concebida como uma exploração sistemática da metafísica, movendo-se do fundamento mais abstrato para a realização concreta da sabedoria.
 
-#### Vol 1: [De l'Être](/louis-lavelle/de-l-etre) (Do Ser)
+#### Vol 1: [De l'Être](/louis-lavelle/de-l-etre.html) (Do Ser)
 
 - **Publicação:** Paris: Félix Alcan, 1928. Edições posteriores por Aubier.
 - **Conteúdo:** Este volume estabelece a fundação da ontologia de Lavelle: a univocidade do Ser. Argumenta que o Ser não é um gênero abstrato, mas um Ato dinâmico no qual todos os seres particulares participam. Introduz a tese central de que "Ser é Ato".
 
-#### Vol 2: [De l'Acte](/louis-lavelle/de-l-acte) (Do Ato)
+#### Vol 2: [De l'Acte](/louis-lavelle/de-l-acte.html) (Do Ato)
 
 - **Publicação:** Paris: Aubier, 1937.
 - **Conteúdo:** Esta obra explora a natureza do "Ato" como a força geradora da realidade. Distingue entre o "Ato Puro" (Deus) e o "ato participado" (o eu). Analisa rigorosamente a liberdade humana não como autonomia do Ser, mas como o poder de consentir ao Ser.
 
-#### Vol 3: [Du Temps et de l'Éternité](/louis-lavelle/du-temps-et-de-l-eternite) (Do Tempo e da Eternidade)
+#### Vol 3: [Du Temps et de l'Éternité](/louis-lavelle/du-temps-et-de-l-eternite.html) (Do Tempo e da Eternidade)
 
 - **Publicação:** Paris: Aubier, 1945.
 - **Conteúdo:** Lavelle desafia as visões bergsonianas e heideggerianas do tempo. Argumenta que o tempo não é uma "queda" ou uma degradação da eternidade, mas o "intervalo" ou "mediação" dada ao espírito finito para atualizar seu potencial. O tempo é a oportunidade para a participação.
 
-#### Vol 4: [De l'Âme humaine](/louis-lavelle/de-l-ame-humaine) (Da Alma Humana)
+#### Vol 4: [De l'Âme humaine](/louis-lavelle/de-l-ame-humaine.html) (Da Alma Humana)
 
 - **Publicação:** Paris: Aubier, 1951.
 - **Conteúdo:** Publicado no ano de sua morte, este volume foca na individuação. Pergunta como o espírito universal se torna uma alma particular. Examina os mecanismos do sentimento, memória e vida espiritual.
 
 #### Vol 5: De la Sagesse (Da Sabedoria) - Inacabado
 
-- **Status:** Este volume final destinava-se a sintetizar o sistema em um modo de vida prático. Nunca foi concluído. Postumamente, fragmentos e notas foram coletados, e temas destinados a este volume aparecem em obras menores como [_Quatre saints_](/louis-lavelle/quatre-saints) e _Traité des valeurs_.
+- **Status:** Este volume final destinava-se a sintetizar o sistema em um modo de vida prático. Nunca foi concluído. Postumamente, fragmentos e notas foram coletados, e temas destinados a este volume aparecem em obras menores como [_Quatre saints_](/louis-lavelle/quatre-saints.html) e _Traité des valeurs_.
 
 ### 2. Principais Publicações em Vida (Não-Dialética)
 
@@ -473,7 +515,7 @@ Esta série de vários volumes constitui a magnum opus de Lavelle. Foi concebida
 
   - _Significado:_ Um de seus livros mais lidos, oferecendo um ponto de entrada mais acessível para sua filosofia da interioridade.
 
-- **1934:** _La Présence totale_ (A Presença Total). Paris: Aubier.
+- **1934:** [_La Présence totale_](/louis-lavelle/la-presence-totale.html) (A Presença Total). Paris: Aubier.
 
   - _Significado:_ Um manifesto conciso de sua metafísica, argumentando que a totalidade do Ser está presente para o eu em cada ato de consciência.
 
@@ -485,7 +527,7 @@ Esta série de vários volumes constitui a magnum opus de Lavelle. Foi concebida
 
 - **1942:** _La Parole et l'écriture_ (A Fala e a Escrita). Paris: L'Artisan du livre.
 
-- **1947:** _Introduction à l'ontologie_ (Introdução à Ontologia). Paris: PUF.
+- **1947:** [_Introduction à l'ontologie_](/louis-lavelle/introduction-a-l-ontologie.html) (Introdução à Ontologia). Paris: PUF.
 
   - _Significado:_ Um texto pedagógico destilando sua ontologia para estudantes.
 
@@ -493,11 +535,11 @@ Esta série de vários volumes constitui a magnum opus de Lavelle. Foi concebida
 
 #### Obras Morais e Hagiográficas
 
-- **1939:** [_L'Erreur de Narcisse_](/louis-lavelle/l-erreur-de-narcisse) (O Erro de Narciso). Paris: Grasset.
+- **1939:** [_L'Erreur de Narcisse_](/louis-lavelle/l-erreur-de-narcisse.html) (O Erro de Narciso). Paris: Grasset.
 
   - _Tema:_ Uma análise moral profunda da vaidade, isolamento e recusa da participação. Narciso é o símbolo da alma que prefere seu próprio reflexo à realidade do Ser.
 
-- **1951:** [_Quatre saints_](/louis-lavelle/quatre-saints) (Quatro Santos). Paris: Albin Michel.
+- **1951:** [_Quatre saints_](/louis-lavelle/quatre-saints.html) (Quatro Santos). Paris: Albin Michel.
   - _Assunto:_ Perfis de São Francisco de Assis, São João da Cruz, Santa Teresa de Ávila e São Francisco de Sales, ilustrando exemplos concretos da "presença total".
 
 ### 3. Obras Póstumas e Coleções
@@ -658,11 +700,11 @@ A filosofia de Lavelle oferece recursos valiosos para várias questões contempo
 
 ### Obras Primárias (em ordem de acessibilidade)
 
-1. _La Conscience de soi_ (1933) — Melhor ponto de entrada
-2. _La Présence totale_ (1934) — Manifesto conciso
-3. [_L'Erreur de Narcisse_](/louis-lavelle/l-erreur-de-narcisse) (1939) — Obra moral acessível
-4. _Introduction à l'ontologie_ (1947) — Texto pedagógico
-5. [_De l'Être_](/louis-lavelle/de-l-etre) (1928) — Primeiro volume da sistemática
+1. [_La Conscience de soi_](/louis-lavelle/la-conscience-de-soi.html) (1933) — Melhor ponto de entrada
+2. [_La Présence totale_](/louis-lavelle/la-presence-totale.html) (1934) — Manifesto conciso
+3. [_L'Erreur de Narcisse_](/louis-lavelle/l-erreur-de-narcisse.html) (1939) — Obra moral acessível
+4. [_Introduction à l'ontologie_](/louis-lavelle/introduction-a-l-ontologie.html) (1947) — Texto pedagógico
+5. [_De l'Être_](/louis-lavelle/de-l-etre.html) (1928) — Primeiro volume da sistemática
 
 ### Estudos Secundários
 

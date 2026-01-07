@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/de-l-acte/02-00-010-l-acte-pur-et-la-participation"
+      href: "https://skepvox.com/louis-lavelle/de-l-acte/02-00-010-l-acte-pur-et-la-participation.html"
   - - meta
     - name: description
       content: "Texte intégral en français de De l'acte de Louis Lavelle. Chapitre X. L'acte pur et la participation."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de De l'acte de Louis Lavelle. Chapitre X. L'acte pur et la participation."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/de-l-acte/02-00-010-l-acte-pur-et-la-participation"
+      content: "https://skepvox.com/louis-lavelle/de-l-acte/02-00-010-l-acte-pur-et-la-participation.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Chapitre X. L'acte pur et la participation",
         "identifier": "02-00-010",
-        "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-010-l-acte-pur-et-la-participation",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-010-l-acte-pur-et-la-participation",
+        "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-010-l-acte-pur-et-la-participation.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-010-l-acte-pur-et-la-participation.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -81,7 +81,7 @@ head:
               "@type": "Person",
               "name": "Louis Lavelle"
             },
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte"
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte.html"
           }
         },
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
@@ -126,19 +126,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "De l'acte",
-            "item": "https://skepvox.com/louis-lavelle/de-l-acte"
+            "item": "https://skepvox.com/louis-lavelle/de-l-acte.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre X. L'acte pur et la participation",
-            "item": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-010-l-acte-pur-et-la-participation"
+            "item": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-010-l-acte-pur-et-la-participation.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/de-l-acte)
+[Retour au livre](/louis-lavelle/de-l-acte.html)
 
 ## Livre II. L'intervalle — Première partie : La genèse de l'intervalle
 

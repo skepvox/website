@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-009-une-existence-qui-se-donne-a-elle-meme-une-essence"
+      href: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-009-une-existence-qui-se-donne-a-elle-meme-une-essence.html"
   - - meta
     - name: description
       content: "Texte intégral en français de De l'âme humaine de Louis Lavelle. Chapitre IX. Une existence qui se donne à elle-même une essence."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de De l'âme humaine de Louis Lavelle. Chapitre IX. Une existence qui se donne à elle-même une essence."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-009-une-existence-qui-se-donne-a-elle-meme-une-essence"
+      content: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-009-une-existence-qui-se-donne-a-elle-meme-une-essence.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Chapitre IX. Une existence qui se donne à elle-même une essence",
         "identifier": "02-00-009",
-        "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-009-une-existence-qui-se-donne-a-elle-meme-une-essence",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-009-une-existence-qui-se-donne-a-elle-meme-une-essence",
+        "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-009-une-existence-qui-se-donne-a-elle-meme-une-essence.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-009-une-existence-qui-se-donne-a-elle-meme-une-essence.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -81,7 +81,7 @@ head:
               "@type": "Person",
               "name": "Louis Lavelle"
             },
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine"
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine.html"
           }
         },
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
@@ -126,19 +126,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "De l'âme humaine",
-            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine"
+            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre IX. Une existence qui se donne à elle-même une essence",
-            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-009-une-existence-qui-se-donne-a-elle-meme-une-essence"
+            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-009-une-existence-qui-se-donne-a-elle-meme-une-essence.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/de-l-ame-humaine)
+[Retour au livre](/louis-lavelle/de-l-ame-humaine.html)
 
 ## Livre II. La genèse de l'âme
 

@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/02-00-006-le-temps-et-l-ideation"
+      href: "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/02-00-006-le-temps-et-l-ideation.html"
   - - meta
     - name: description
       content: "Texte intégral en français de Du temps et de l'éternité de Louis Lavelle. Chapitre VI. Le temps et l'idéation."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de Du temps et de l'éternité de Louis Lavelle. Chapitre VI. Le temps et l'idéation."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/02-00-006-le-temps-et-l-ideation"
+      content: "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/02-00-006-le-temps-et-l-ideation.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Chapitre VI. Le temps et l'idéation",
         "identifier": "02-00-006",
-        "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/02-00-006-le-temps-et-l-ideation",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/02-00-006-le-temps-et-l-ideation",
+        "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/02-00-006-le-temps-et-l-ideation.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/02-00-006-le-temps-et-l-ideation.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -81,7 +81,7 @@ head:
               "@type": "Person",
               "name": "Louis Lavelle"
             },
-            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite"
+            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite.html"
           }
         },
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
@@ -126,19 +126,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Du temps et de l'éternité",
-            "item": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite"
+            "item": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre VI. Le temps et l'idéation",
-            "item": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/02-00-006-le-temps-et-l-ideation"
+            "item": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/02-00-006-le-temps-et-l-ideation.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/du-temps-et-de-l-eternite)
+[Retour au livre](/louis-lavelle/du-temps-et-de-l-eternite.html)
 
 ## Livre II. L'idéalité du temps
 

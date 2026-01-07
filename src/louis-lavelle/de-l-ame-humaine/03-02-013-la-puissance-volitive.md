@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-02-013-la-puissance-volitive"
+      href: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-02-013-la-puissance-volitive.html"
   - - meta
     - name: description
       content: "Texte intégral en français de De l'âme humaine de Louis Lavelle. Chapitre XIII. La puissance volitive."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de De l'âme humaine de Louis Lavelle. Chapitre XIII. La puissance volitive."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-02-013-la-puissance-volitive"
+      content: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-02-013-la-puissance-volitive.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Chapitre XIII. La puissance volitive",
         "identifier": "03-02-013",
-        "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-02-013-la-puissance-volitive",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-02-013-la-puissance-volitive",
+        "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-02-013-la-puissance-volitive.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-02-013-la-puissance-volitive.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -85,7 +85,7 @@ head:
                 "@type": "Person",
                 "name": "Louis Lavelle"
               },
-              "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine"
+              "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine.html"
             }
           }
         },
@@ -141,19 +141,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "De l'âme humaine",
-            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine"
+            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre XIII. La puissance volitive",
-            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-02-013-la-puissance-volitive"
+            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-02-013-la-puissance-volitive.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/de-l-ame-humaine)
+[Retour au livre](/louis-lavelle/de-l-ame-humaine.html)
 
 ## Livre III. Classification nouvelle des puissances de l'âme
 

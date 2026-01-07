@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-02-014-la-puissance-mnemonique"
+      href: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-02-014-la-puissance-mnemonique.html"
   - - meta
     - name: description
       content: "Texte intégral en français de De l'âme humaine de Louis Lavelle. Chapitre XIV. La puissance mnémonique."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de De l'âme humaine de Louis Lavelle. Chapitre XIV. La puissance mnémonique."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-02-014-la-puissance-mnemonique"
+      content: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-02-014-la-puissance-mnemonique.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Chapitre XIV. La puissance mnémonique",
         "identifier": "03-02-014",
-        "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-02-014-la-puissance-mnemonique",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-02-014-la-puissance-mnemonique",
+        "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-02-014-la-puissance-mnemonique.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-02-014-la-puissance-mnemonique.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -85,7 +85,7 @@ head:
                 "@type": "Person",
                 "name": "Louis Lavelle"
               },
-              "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine"
+              "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine.html"
             }
           }
         },
@@ -141,19 +141,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "De l'âme humaine",
-            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine"
+            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre XIV. La puissance mnémonique",
-            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-02-014-la-puissance-mnemonique"
+            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-02-014-la-puissance-mnemonique.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/de-l-ame-humaine)
+[Retour au livre](/louis-lavelle/de-l-ame-humaine.html)
 
 ## Livre III. Classification nouvelle des puissances de l'âme
 

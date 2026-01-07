@@ -116,7 +116,7 @@ const padNumber = (value) => String(value).padStart(3, '0')
 const getQuestionId = (question) => `${question.year}-${padNumber(question.number)}`
 
 const buildCanonicalUrl = (questionId) =>
-  `${SITE_URL}/enem/${YEAR}/${AREA_CODE}/questao/${questionId}`
+  `${SITE_URL}/enem/${YEAR}/${AREA_CODE}/questao/${questionId}.html`
 
 const buildQuestionJsonUrl = (questionId) =>
   `${SITE_URL}/enem/${YEAR}/questions/${questionId}.json`
@@ -229,7 +229,7 @@ const buildJsonLd = (question, entries, canonicalUrl, questionJsonUrl, correctAn
       isPartOf: {
         '@type': 'LearningResource',
         name: `ENEM ${question.year} — ${AREA_LABEL}`,
-        url: `${SITE_URL}/enem/${question.year}/${AREA_CODE}`
+        url: `${SITE_URL}/enem/${question.year}/${AREA_CODE}.html`
       },
       additionalProperty: props.length ? props : undefined,
       contentUrl: questionJsonUrl
@@ -248,7 +248,7 @@ const buildJsonLd = (question, entries, canonicalUrl, questionJsonUrl, correctAn
           '@type': 'ListItem',
           position: 2,
           name: `ENEM ${question.year} ${AREA_LABEL}`,
-          item: `${SITE_URL}/enem/${question.year}/${AREA_CODE}`
+          item: `${SITE_URL}/enem/${question.year}/${AREA_CODE}.html`
         },
         {
           '@type': 'ListItem',
@@ -695,7 +695,10 @@ const buildMarkdown = (question) => {
   if (mappingLines.length) {
     lines.push(...mappingLines, '')
   }
-  lines.push(`[${AREA_SHORT} ${question.year} · Caderno Verde Completo](/enem/${question.year}/${AREA_CODE})`, '')
+  lines.push(
+    `[${AREA_SHORT} ${question.year} · Caderno Verde Completo](/enem/${question.year}/${AREA_CODE}.html)`,
+    ''
+  )
 
   if (question.context?.content) {
     lines.push('## Contexto', '')

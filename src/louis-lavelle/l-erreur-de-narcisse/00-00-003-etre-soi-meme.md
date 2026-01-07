@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-003-etre-soi-meme"
+      href: "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-003-etre-soi-meme.html"
   - - meta
     - name: description
       content: "Texte intégral en français de L'Erreur de Narcisse de Louis Lavelle. Chapitre 3. Être soi-même."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de L'Erreur de Narcisse de Louis Lavelle. Chapitre 3. Être soi-même."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-003-etre-soi-meme"
+      content: "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-003-etre-soi-meme.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Chapitre 3. Être soi-même",
         "identifier": "00-00-003",
-        "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-003-etre-soi-meme",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-003-etre-soi-meme",
+        "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-003-etre-soi-meme.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-003-etre-soi-meme.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -77,7 +77,7 @@ head:
             "@type": "Person",
             "name": "Louis Lavelle"
           },
-          "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse"
+          "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse.html"
         },
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
         "description": "Texte intégral en français de L'Erreur de Narcisse de Louis Lavelle. Chapitre 3. Être soi-même.",
@@ -111,19 +111,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "L'Erreur de Narcisse",
-            "item": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse"
+            "item": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre 3. Être soi-même",
-            "item": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-003-etre-soi-meme"
+            "item": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-003-etre-soi-meme.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/l-erreur-de-narcisse)
+[Retour au livre](/louis-lavelle/l-erreur-de-narcisse.html)
 
 ## Chapitre 3. Être soi-même
 

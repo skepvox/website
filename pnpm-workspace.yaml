@@ -1,2 +1,0 @@
-patchedDependencies:
-  '@vue/theme': patches/@vue__theme.patch

@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/04-00-020-ame-et-esprit"
+      href: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/04-00-020-ame-et-esprit.html"
   - - meta
     - name: description
       content: "Texte intégral en français de De l'âme humaine de Louis Lavelle. Chapitre XX. Âme et esprit."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de De l'âme humaine de Louis Lavelle. Chapitre XX. Âme et esprit."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/04-00-020-ame-et-esprit"
+      content: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/04-00-020-ame-et-esprit.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Chapitre XX. Âme et esprit",
         "identifier": "04-00-020",
-        "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/04-00-020-ame-et-esprit",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/04-00-020-ame-et-esprit",
+        "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/04-00-020-ame-et-esprit.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/04-00-020-ame-et-esprit.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -81,7 +81,7 @@ head:
               "@type": "Person",
               "name": "Louis Lavelle"
             },
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine"
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine.html"
           }
         },
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
@@ -126,19 +126,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "De l'âme humaine",
-            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine"
+            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre XX. Âme et esprit",
-            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/04-00-020-ame-et-esprit"
+            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/04-00-020-ame-et-esprit.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/de-l-ame-humaine)
+[Retour au livre](/louis-lavelle/de-l-ame-humaine.html)
 
 ## Livre IV. Immortalité et éternité
 

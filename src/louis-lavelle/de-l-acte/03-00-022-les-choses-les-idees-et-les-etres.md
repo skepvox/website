@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/de-l-acte/03-00-022-les-choses-les-idees-et-les-etres"
+      href: "https://skepvox.com/louis-lavelle/de-l-acte/03-00-022-les-choses-les-idees-et-les-etres.html"
   - - meta
     - name: description
       content: "Texte intégral en français de De l'acte de Louis Lavelle. Chapitre XXII. Les choses, les idées et les êtres."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de De l'acte de Louis Lavelle. Chapitre XXII. Les choses, les idées et les êtres."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/de-l-acte/03-00-022-les-choses-les-idees-et-les-etres"
+      content: "https://skepvox.com/louis-lavelle/de-l-acte/03-00-022-les-choses-les-idees-et-les-etres.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Chapitre XXII. Les choses, les idées et les êtres",
         "identifier": "03-00-022",
-        "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-022-les-choses-les-idees-et-les-etres",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-022-les-choses-les-idees-et-les-etres",
+        "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-022-les-choses-les-idees-et-les-etres.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-022-les-choses-les-idees-et-les-etres.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -81,7 +81,7 @@ head:
               "@type": "Person",
               "name": "Louis Lavelle"
             },
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte"
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte.html"
           }
         },
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
@@ -126,19 +126,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "De l'acte",
-            "item": "https://skepvox.com/louis-lavelle/de-l-acte"
+            "item": "https://skepvox.com/louis-lavelle/de-l-acte.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre XXII. Les choses, les idées et les êtres",
-            "item": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-022-les-choses-les-idees-et-les-etres"
+            "item": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-022-les-choses-les-idees-et-les-etres.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/de-l-acte)
+[Retour au livre](/louis-lavelle/de-l-acte.html)
 
 ## Livre III. L'acte de participation — Deuxième partie : Le jeu de la participation
 

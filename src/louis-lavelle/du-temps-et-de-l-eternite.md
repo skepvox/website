@@ -5,7 +5,7 @@ outline: 2
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite"
+      href: "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite.html"
   - - meta
     - name: description
       content: "Texte intégral en français de Du temps et de l'éternité de Louis Lavelle, troisième volume de La Dialectique de l'éternel présent."
@@ -17,7 +17,7 @@ head:
       content: "Texte intégral en français de Du temps et de l'éternité de Louis Lavelle, troisième volume de La Dialectique de l'éternel présent."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite"
+      content: "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite.html"
   - - meta
     - property: og:type
       content: book
@@ -54,7 +54,7 @@ head:
           "name": "Louis Lavelle"
         },
         "inLanguage": "fr",
-        "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite",
+        "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite.html",
         "description": "Texte intégral en français de Du temps et de l'éternité de Louis Lavelle, troisième volume de La Dialectique de l'éternel présent.",
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
         "isPartOf": {
@@ -65,73 +65,73 @@ head:
           {
             "@type": "Chapter",
             "name": "Chapitre I. La déduction du temps",
-            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/01-00-001-la-deduction-du-temps",
+            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/01-00-001-la-deduction-du-temps.html",
             "identifier": "01-00-001"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre II. Le temps et l'espace",
-            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/01-00-002-le-temps-et-l-espace",
+            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/01-00-002-le-temps-et-l-espace.html",
             "identifier": "01-00-002"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre III. Le temps et l'individuation",
-            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/01-00-003-le-temps-et-l-individuation",
+            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/01-00-003-le-temps-et-l-individuation.html",
             "identifier": "01-00-003"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre IV. Le sens du temps",
-            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/02-00-004-le-sens-du-temps",
+            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/02-00-004-le-sens-du-temps.html",
             "identifier": "02-00-004"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre V. La relation de la présence et de l'absence",
-            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/02-00-005-la-relation-de-la-presence-et-de-l-absence",
+            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/02-00-005-la-relation-de-la-presence-et-de-l-absence.html",
             "identifier": "02-00-005"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre VI. Le temps et l'idéation",
-            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/02-00-006-le-temps-et-l-ideation",
+            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/02-00-006-le-temps-et-l-ideation.html",
             "identifier": "02-00-006"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre VII. Le présent et l'instant",
-            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/03-00-007-le-present-et-l-instant",
+            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/03-00-007-le-present-et-l-instant.html",
             "identifier": "03-00-007"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre VIII. L'avenir",
-            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/03-00-008-l-avenir",
+            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/03-00-008-l-avenir.html",
             "identifier": "03-00-008"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre IX. Le passé",
-            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/03-00-009-le-passe",
+            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/03-00-009-le-passe.html",
             "identifier": "03-00-009"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre X. Le devenir",
-            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/04-00-010-le-devenir",
+            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/04-00-010-le-devenir.html",
             "identifier": "04-00-010"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre XI. La durée",
-            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/04-00-011-la-duree",
+            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/04-00-011-la-duree.html",
             "identifier": "04-00-011"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre XII. L'éternité",
-            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/04-00-012-l-eternite",
+            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/04-00-012-l-eternite.html",
             "identifier": "04-00-012"
           }
         ]
@@ -149,73 +149,73 @@ head:
             "@type": "ListItem",
             "position": 1,
             "name": "Chapitre I. La déduction du temps",
-            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/01-00-001-la-deduction-du-temps"
+            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/01-00-001-la-deduction-du-temps.html"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Chapitre II. Le temps et l'espace",
-            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/01-00-002-le-temps-et-l-espace"
+            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/01-00-002-le-temps-et-l-espace.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre III. Le temps et l'individuation",
-            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/01-00-003-le-temps-et-l-individuation"
+            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/01-00-003-le-temps-et-l-individuation.html"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Chapitre IV. Le sens du temps",
-            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/02-00-004-le-sens-du-temps"
+            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/02-00-004-le-sens-du-temps.html"
           },
           {
             "@type": "ListItem",
             "position": 5,
             "name": "Chapitre V. La relation de la présence et de l'absence",
-            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/02-00-005-la-relation-de-la-presence-et-de-l-absence"
+            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/02-00-005-la-relation-de-la-presence-et-de-l-absence.html"
           },
           {
             "@type": "ListItem",
             "position": 6,
             "name": "Chapitre VI. Le temps et l'idéation",
-            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/02-00-006-le-temps-et-l-ideation"
+            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/02-00-006-le-temps-et-l-ideation.html"
           },
           {
             "@type": "ListItem",
             "position": 7,
             "name": "Chapitre VII. Le présent et l'instant",
-            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/03-00-007-le-present-et-l-instant"
+            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/03-00-007-le-present-et-l-instant.html"
           },
           {
             "@type": "ListItem",
             "position": 8,
             "name": "Chapitre VIII. L'avenir",
-            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/03-00-008-l-avenir"
+            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/03-00-008-l-avenir.html"
           },
           {
             "@type": "ListItem",
             "position": 9,
             "name": "Chapitre IX. Le passé",
-            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/03-00-009-le-passe"
+            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/03-00-009-le-passe.html"
           },
           {
             "@type": "ListItem",
             "position": 10,
             "name": "Chapitre X. Le devenir",
-            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/04-00-010-le-devenir"
+            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/04-00-010-le-devenir.html"
           },
           {
             "@type": "ListItem",
             "position": 11,
             "name": "Chapitre XI. La durée",
-            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/04-00-011-la-duree"
+            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/04-00-011-la-duree.html"
           },
           {
             "@type": "ListItem",
             "position": 12,
             "name": "Chapitre XII. L'éternité",
-            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/04-00-012-l-eternite"
+            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/04-00-012-l-eternite.html"
           }
         ]
       }
@@ -236,7 +236,7 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Du temps et de l'éternité",
-            "item": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite"
+            "item": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite.html"
           }
         ]
       }
@@ -247,21 +247,21 @@ head:
 ## Table des matières
 
 - Livre I. Le temps et la participation
-  - [Chapitre I. La déduction du temps](/louis-lavelle/du-temps-et-de-l-eternite/01-00-001-la-deduction-du-temps)
-  - [Chapitre II. Le temps et l'espace](/louis-lavelle/du-temps-et-de-l-eternite/01-00-002-le-temps-et-l-espace)
-  - [Chapitre III. Le temps et l'individuation](/louis-lavelle/du-temps-et-de-l-eternite/01-00-003-le-temps-et-l-individuation)
+  - [Chapitre I. La déduction du temps](/louis-lavelle/du-temps-et-de-l-eternite/01-00-001-la-deduction-du-temps.html)
+  - [Chapitre II. Le temps et l'espace](/louis-lavelle/du-temps-et-de-l-eternite/01-00-002-le-temps-et-l-espace.html)
+  - [Chapitre III. Le temps et l'individuation](/louis-lavelle/du-temps-et-de-l-eternite/01-00-003-le-temps-et-l-individuation.html)
 - Livre II. L'idéalité du temps
-  - [Chapitre IV. Le sens du temps](/louis-lavelle/du-temps-et-de-l-eternite/02-00-004-le-sens-du-temps)
-  - [Chapitre V. La relation de la présence et de l'absence](/louis-lavelle/du-temps-et-de-l-eternite/02-00-005-la-relation-de-la-presence-et-de-l-absence)
-  - [Chapitre VI. Le temps et l'idéation](/louis-lavelle/du-temps-et-de-l-eternite/02-00-006-le-temps-et-l-ideation)
+  - [Chapitre IV. Le sens du temps](/louis-lavelle/du-temps-et-de-l-eternite/02-00-004-le-sens-du-temps.html)
+  - [Chapitre V. La relation de la présence et de l'absence](/louis-lavelle/du-temps-et-de-l-eternite/02-00-005-la-relation-de-la-presence-et-de-l-absence.html)
+  - [Chapitre VI. Le temps et l'idéation](/louis-lavelle/du-temps-et-de-l-eternite/02-00-006-le-temps-et-l-ideation.html)
 - Livre III. Les phases du temps
-  - [Chapitre VII. Le présent et l'instant](/louis-lavelle/du-temps-et-de-l-eternite/03-00-007-le-present-et-l-instant)
-  - [Chapitre VIII. L'avenir](/louis-lavelle/du-temps-et-de-l-eternite/03-00-008-l-avenir)
-  - [Chapitre IX. Le passé](/louis-lavelle/du-temps-et-de-l-eternite/03-00-009-le-passe)
+  - [Chapitre VII. Le présent et l'instant](/louis-lavelle/du-temps-et-de-l-eternite/03-00-007-le-present-et-l-instant.html)
+  - [Chapitre VIII. L'avenir](/louis-lavelle/du-temps-et-de-l-eternite/03-00-008-l-avenir.html)
+  - [Chapitre IX. Le passé](/louis-lavelle/du-temps-et-de-l-eternite/03-00-009-le-passe.html)
 - Livre IV. Le temps et l'éternité
-  - [Chapitre X. Le devenir](/louis-lavelle/du-temps-et-de-l-eternite/04-00-010-le-devenir)
-  - [Chapitre XI. La durée](/louis-lavelle/du-temps-et-de-l-eternite/04-00-011-la-duree)
-  - [Chapitre XII. L'éternité](/louis-lavelle/du-temps-et-de-l-eternite/04-00-012-l-eternite)
+  - [Chapitre X. Le devenir](/louis-lavelle/du-temps-et-de-l-eternite/04-00-010-le-devenir.html)
+  - [Chapitre XI. La durée](/louis-lavelle/du-temps-et-de-l-eternite/04-00-011-la-duree.html)
+  - [Chapitre XII. L'éternité](/louis-lavelle/du-temps-et-de-l-eternite/04-00-012-l-eternite.html)
 
 ## Livre I. Le temps et la participation
 

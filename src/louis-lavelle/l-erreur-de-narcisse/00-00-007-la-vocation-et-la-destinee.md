@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-007-la-vocation-et-la-destinee"
+      href: "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-007-la-vocation-et-la-destinee.html"
   - - meta
     - name: description
       content: "Texte intégral en français de L'Erreur de Narcisse de Louis Lavelle. Chapitre 7. La vocation et la destinée."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de L'Erreur de Narcisse de Louis Lavelle. Chapitre 7. La vocation et la destinée."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-007-la-vocation-et-la-destinee"
+      content: "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-007-la-vocation-et-la-destinee.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Chapitre 7. La vocation et la destinée",
         "identifier": "00-00-007",
-        "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-007-la-vocation-et-la-destinee",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-007-la-vocation-et-la-destinee",
+        "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-007-la-vocation-et-la-destinee.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-007-la-vocation-et-la-destinee.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -77,7 +77,7 @@ head:
             "@type": "Person",
             "name": "Louis Lavelle"
           },
-          "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse"
+          "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse.html"
         },
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
         "description": "Texte intégral en français de L'Erreur de Narcisse de Louis Lavelle. Chapitre 7. La vocation et la destinée.",
@@ -111,19 +111,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "L'Erreur de Narcisse",
-            "item": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse"
+            "item": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre 7. La vocation et la destinée",
-            "item": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-007-la-vocation-et-la-destinee"
+            "item": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-007-la-vocation-et-la-destinee.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/l-erreur-de-narcisse)
+[Retour au livre](/louis-lavelle/l-erreur-de-narcisse.html)
 
 ## Chapitre 7. La vocation et la destinée
 

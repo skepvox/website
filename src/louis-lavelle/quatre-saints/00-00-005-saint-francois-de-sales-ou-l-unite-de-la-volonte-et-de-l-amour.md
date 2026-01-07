@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/quatre-saints/00-00-005-saint-francois-de-sales-ou-l-unite-de-la-volonte-et-de-l-amour"
+      href: "https://skepvox.com/louis-lavelle/quatre-saints/00-00-005-saint-francois-de-sales-ou-l-unite-de-la-volonte-et-de-l-amour.html"
   - - meta
     - name: description
       content: "Texte intégral en français de Quatre saints de Louis Lavelle. Chapitre 5. Saint François de Sales ou l'unité de la volonté et de l'amour."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de Quatre saints de Louis Lavelle. Chapitre 5. Saint François de Sales ou l'unité de la volonté et de l'amour."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/quatre-saints/00-00-005-saint-francois-de-sales-ou-l-unite-de-la-volonte-et-de-l-amour"
+      content: "https://skepvox.com/louis-lavelle/quatre-saints/00-00-005-saint-francois-de-sales-ou-l-unite-de-la-volonte-et-de-l-amour.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Chapitre 5. Saint François de Sales ou l'unité de la volonté et de l'amour",
         "identifier": "00-00-005",
-        "url": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-005-saint-francois-de-sales-ou-l-unite-de-la-volonte-et-de-l-amour",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-005-saint-francois-de-sales-ou-l-unite-de-la-volonte-et-de-l-amour",
+        "url": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-005-saint-francois-de-sales-ou-l-unite-de-la-volonte-et-de-l-amour.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-005-saint-francois-de-sales-ou-l-unite-de-la-volonte-et-de-l-amour.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -77,7 +77,7 @@ head:
             "@type": "Person",
             "name": "Louis Lavelle"
           },
-          "url": "https://skepvox.com/louis-lavelle/quatre-saints"
+          "url": "https://skepvox.com/louis-lavelle/quatre-saints.html"
         },
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
         "description": "Texte intégral en français de Quatre saints de Louis Lavelle. Chapitre 5. Saint François de Sales ou l'unité de la volonté et de l'amour.",
@@ -111,19 +111,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Quatre saints",
-            "item": "https://skepvox.com/louis-lavelle/quatre-saints"
+            "item": "https://skepvox.com/louis-lavelle/quatre-saints.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre 5. Saint François de Sales ou l'unité de la volonté et de l'amour",
-            "item": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-005-saint-francois-de-sales-ou-l-unite-de-la-volonte-et-de-l-amour"
+            "item": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-005-saint-francois-de-sales-ou-l-unite-de-la-volonte-et-de-l-amour.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/quatre-saints)
+[Retour au livre](/louis-lavelle/quatre-saints.html)
 
 ## Chapitre 5. Saint François de Sales ou l'unité de la volonté et de l'amour
 

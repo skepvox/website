@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/de-l-acte/03-00-027-l-acte-d-aimer"
+      href: "https://skepvox.com/louis-lavelle/de-l-acte/03-00-027-l-acte-d-aimer.html"
   - - meta
     - name: description
       content: "Texte intégral en français de De l'acte de Louis Lavelle. Chapitre XXVII. L'acte d'aimer."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de De l'acte de Louis Lavelle. Chapitre XXVII. L'acte d'aimer."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/de-l-acte/03-00-027-l-acte-d-aimer"
+      content: "https://skepvox.com/louis-lavelle/de-l-acte/03-00-027-l-acte-d-aimer.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Chapitre XXVII. L'acte d'aimer",
         "identifier": "03-00-027",
-        "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-027-l-acte-d-aimer",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-027-l-acte-d-aimer",
+        "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-027-l-acte-d-aimer.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-027-l-acte-d-aimer.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -81,7 +81,7 @@ head:
               "@type": "Person",
               "name": "Louis Lavelle"
             },
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte"
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte.html"
           }
         },
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
@@ -126,19 +126,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "De l'acte",
-            "item": "https://skepvox.com/louis-lavelle/de-l-acte"
+            "item": "https://skepvox.com/louis-lavelle/de-l-acte.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre XXVII. L'acte d'aimer",
-            "item": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-027-l-acte-d-aimer"
+            "item": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-027-l-acte-d-aimer.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/de-l-acte)
+[Retour au livre](/louis-lavelle/de-l-acte.html)
 
 ## Livre III. L'acte de participation — Troisième partie : L'acte triple
 

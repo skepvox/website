@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/de-l-acte/01-00-006-l-existence-et-l-essence"
+      href: "https://skepvox.com/louis-lavelle/de-l-acte/01-00-006-l-existence-et-l-essence.html"
   - - meta
     - name: description
       content: "Texte intégral en français de De l'acte de Louis Lavelle. Chapitre VI. L'existence et l'essence."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de De l'acte de Louis Lavelle. Chapitre VI. L'existence et l'essence."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/de-l-acte/01-00-006-l-existence-et-l-essence"
+      content: "https://skepvox.com/louis-lavelle/de-l-acte/01-00-006-l-existence-et-l-essence.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Chapitre VI. L'existence et l'essence",
         "identifier": "01-00-006",
-        "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-006-l-existence-et-l-essence",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-006-l-existence-et-l-essence",
+        "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-006-l-existence-et-l-essence.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-006-l-existence-et-l-essence.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -81,7 +81,7 @@ head:
               "@type": "Person",
               "name": "Louis Lavelle"
             },
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte"
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte.html"
           }
         },
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
@@ -126,19 +126,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "De l'acte",
-            "item": "https://skepvox.com/louis-lavelle/de-l-acte"
+            "item": "https://skepvox.com/louis-lavelle/de-l-acte.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre VI. L'existence et l'essence",
-            "item": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-006-l-existence-et-l-essence"
+            "item": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-006-l-existence-et-l-essence.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/de-l-acte)
+[Retour au livre](/louis-lavelle/de-l-acte.html)
 
 ## Livre I. L'acte pur — Deuxième partie : Être et acte
 

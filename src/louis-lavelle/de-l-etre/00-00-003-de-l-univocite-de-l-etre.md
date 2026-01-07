@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/de-l-etre/00-00-003-de-l-univocite-de-l-etre"
+      href: "https://skepvox.com/louis-lavelle/de-l-etre/00-00-003-de-l-univocite-de-l-etre.html"
   - - meta
     - name: description
       content: "Texte intégral en français de De l'être de Louis Lavelle. Chapitre 3. De l'univocité de l'être."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de De l'être de Louis Lavelle. Chapitre 3. De l'univocité de l'être."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/de-l-etre/00-00-003-de-l-univocite-de-l-etre"
+      content: "https://skepvox.com/louis-lavelle/de-l-etre/00-00-003-de-l-univocite-de-l-etre.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Chapitre 3. De l'univocité de l'être",
         "identifier": "00-00-003",
-        "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-003-de-l-univocite-de-l-etre",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-003-de-l-univocite-de-l-etre",
+        "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-003-de-l-univocite-de-l-etre.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-003-de-l-univocite-de-l-etre.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -77,7 +77,7 @@ head:
             "@type": "Person",
             "name": "Louis Lavelle"
           },
-          "url": "https://skepvox.com/louis-lavelle/de-l-etre"
+          "url": "https://skepvox.com/louis-lavelle/de-l-etre.html"
         },
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
         "description": "Texte intégral en français de De l'être de Louis Lavelle. Chapitre 3. De l'univocité de l'être.",
@@ -111,19 +111,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "De l'être",
-            "item": "https://skepvox.com/louis-lavelle/de-l-etre"
+            "item": "https://skepvox.com/louis-lavelle/de-l-etre.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre 3. De l'univocité de l'être",
-            "item": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-003-de-l-univocite-de-l-etre"
+            "item": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-003-de-l-univocite-de-l-etre.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/de-l-etre)
+[Retour au livre](/louis-lavelle/de-l-etre.html)
 
 ## Chapitre 3. De l'univocité de l'être
 
