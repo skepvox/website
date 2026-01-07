@@ -4,12 +4,7 @@ export interface Author {
     name: string
   }
 
-  export const literatureAuthors: Author[] = [
-    {
-      url: '/louis-lavelle/',
-      img: '/images/authors/louis-lavelle.png',
-      name: 'Louis Lavelle'
-    },
+export const literatureAuthors: Author[] = [
     {
       url: '/literatura/machado-de-assis/',
       img: '/images/authors/machado-de-assis.png',
@@ -23,6 +18,11 @@ export interface Author {
   ]
 
   export const philosophyAuthors: Author[] = [
+    {
+      url: '/louis-lavelle/',
+      img: '/images/authors/louis-lavelle.png',
+      name: 'Louis Lavelle'
+    },
     // {
     //   url: '/filosofia/louis-lavelle/',
     //   img: '/images/authors/louis-lavelle.png',

@@ -29,15 +29,11 @@ const nav: ThemeConfig['nav'] = [
   {
     text: 'Literatura',
     activeMatch: '^/literatura/',
-    items: [
-      { text: 'Machado de Assis', link: '/literatura/machado-de-assis/bras-cubas' },
-      { text: 'Graciliano Ramos', link: '/literatura/graciliano-ramos/sao-bernardo' },
-      { text: 'Raul Pompeia', link: '/literatura/raul-pompeia/o-ateneu' },
-    ]
+    link: '/literatura/'
   },
   {
-    text: 'ENEM',
-    link: '/enem/2025/matematica'
+    text: 'Enem',
+    link: '/enem/'
   },
 ]
 
@@ -79,8 +75,23 @@ export const sidebar: ThemeConfig['sidebar'] = {
     {
       text: 'Louis Lavelle',
       items: [
-        { text: 'Biografia', link: '/louis-lavelle/' },
+        { text: 'Biografia', link: '/louis-lavelle/' }
+      ]
+    },
+    {
+      text: "La Dialectique de l'éternel présent",
+      items: [
+        { text: "De l'être", link: '/louis-lavelle/de-l-etre' },
+        { text: "De l'acte", link: '/louis-lavelle/de-l-acte' },
+        { text: "Du temps et de l'éternité", link: '/louis-lavelle/du-temps-et-de-l-eternite' },
         { text: "De l'âme humaine", link: '/louis-lavelle/de-l-ame-humaine' }
+      ]
+    },
+    {
+      text: 'Œuvres morales',
+      items: [
+        { text: "L'Erreur de Narcisse", link: '/louis-lavelle/l-erreur-de-narcisse' },
+        { text: 'Quatre saints', link: '/louis-lavelle/quatre-saints' }
       ]
     }
   ],
@@ -128,6 +139,7 @@ function inlineScript(file: string): HeadConfig {
 
 export default defineConfigWithTheme<ThemeConfig>({
   extends: baseConfig,
+  cleanUrls: true,
 
   sitemap: {
     hostname: 'https://skepvox.com',
@@ -248,7 +260,7 @@ export default defineConfigWithTheme<ThemeConfig>({
       //   text: 'MIT License',
       //   link: 'https://opensource.org/licenses/MIT'
       // },
-      copyright: `${new Date().getFullYear()} © Thiago Oliveira`
+      copyright: `2025-${new Date().getFullYear()} © Thiago Oliveira`
     }
   },
 
