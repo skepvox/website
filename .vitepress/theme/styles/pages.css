@@ -44,3 +44,18 @@
   display: inline-block;
   vertical-align: -0.12em;
 }
+
+.vt-doc .lavelle-portrait {
+  width: 100%;
+  border-radius: 10px;
+  margin: 12px 0 24px;
+  background-color: var(--vt-c-bg-soft);
+  border: 1px solid var(--vt-c-divider-light);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.08);
+}
+
+.dark .vt-doc .lavelle-portrait {
+  border-color: var(--vt-c-divider-light);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.28);
+  filter: grayscale(1);
+}

@@ -4,7 +4,6 @@ import SiteMap from './SiteMap.vue'
 // import { data, base } from './sponsors'
 // import SponsorsGroup from './SponsorsGroup.vue'
 import VueMasteryModal from './VueMasteryModal.vue'
-import AuthorGrid from './AuthorGrid.vue'
 </script>
 
 <template>
@@ -34,7 +33,7 @@ import AuthorGrid from './AuthorGrid.vue'
           />
         </svg> -->
       </a>
-      <a class="setup" href="/louis-lavelle/">Filosofia</a>
+      <a class="setup" href="/enem/">Enem</a>
       <a class="security" href="/louis-lavelle/">
         Louis Lavelle
         <!-- <svg
@@ -107,10 +106,10 @@ import AuthorGrid from './AuthorGrid.vue'
       </p>
     </div>
     <div class="vt-box">
-      <h2>Filosofia</h2>
+      <h2>Enem</h2>
       <p>
-        Prática que nos auxilia a unificar o conhecimento,
-        aprimorar nossa apreensão da realidade e o nosso modo de vida.
+        Questões, análises e materiais de estudo para o ENEM,
+        organizados por área e ano.
       </p>
     </div>
   </section>
@@ -121,11 +120,6 @@ import AuthorGrid from './AuthorGrid.vue'
     <h2>Gold Sponsors</h2>
     <SponsorsGroup tier="gold" placement="landing" />
   </section> -->
-
-  <section id="spsrs">
-    <h2>Autores</h2>
-    <AuthorGrid kind="all" />
-  </section>
 
   <SiteMap />
   <!-- <NewsLetter /> -->
