@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/quatre-saints/00-00-003-la-contemplation-selon-saint-jean-de-la-croix"
+      href: "https://skepvox.com/louis-lavelle/quatre-saints/00-00-003-la-contemplation-selon-saint-jean-de-la-croix.html"
   - - meta
     - name: description
       content: "Texte intégral en français de Quatre saints de Louis Lavelle. Chapitre 3. La contemplation selon Saint Jean de la croix."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de Quatre saints de Louis Lavelle. Chapitre 3. La contemplation selon Saint Jean de la croix."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/quatre-saints/00-00-003-la-contemplation-selon-saint-jean-de-la-croix"
+      content: "https://skepvox.com/louis-lavelle/quatre-saints/00-00-003-la-contemplation-selon-saint-jean-de-la-croix.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Chapitre 3. La contemplation selon Saint Jean de la croix",
         "identifier": "00-00-003",
-        "url": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-003-la-contemplation-selon-saint-jean-de-la-croix",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-003-la-contemplation-selon-saint-jean-de-la-croix",
+        "url": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-003-la-contemplation-selon-saint-jean-de-la-croix.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-003-la-contemplation-selon-saint-jean-de-la-croix.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -77,7 +77,7 @@ head:
             "@type": "Person",
             "name": "Louis Lavelle"
           },
-          "url": "https://skepvox.com/louis-lavelle/quatre-saints"
+          "url": "https://skepvox.com/louis-lavelle/quatre-saints.html"
         },
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
         "description": "Texte intégral en français de Quatre saints de Louis Lavelle. Chapitre 3. La contemplation selon Saint Jean de la croix.",
@@ -111,19 +111,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Quatre saints",
-            "item": "https://skepvox.com/louis-lavelle/quatre-saints"
+            "item": "https://skepvox.com/louis-lavelle/quatre-saints.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre 3. La contemplation selon Saint Jean de la croix",
-            "item": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-003-la-contemplation-selon-saint-jean-de-la-croix"
+            "item": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-003-la-contemplation-selon-saint-jean-de-la-croix.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/quatre-saints)
+[Retour au livre](/louis-lavelle/quatre-saints.html)
 
 ## Chapitre 3. La contemplation selon Saint Jean de la croix
 

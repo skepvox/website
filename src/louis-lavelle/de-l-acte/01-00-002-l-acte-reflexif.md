@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/de-l-acte/01-00-002-l-acte-reflexif"
+      href: "https://skepvox.com/louis-lavelle/de-l-acte/01-00-002-l-acte-reflexif.html"
   - - meta
     - name: description
       content: "Texte intégral en français de De l'acte de Louis Lavelle. Chapitre II. L'acte réflexif."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de De l'acte de Louis Lavelle. Chapitre II. L'acte réflexif."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/de-l-acte/01-00-002-l-acte-reflexif"
+      content: "https://skepvox.com/louis-lavelle/de-l-acte/01-00-002-l-acte-reflexif.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Chapitre II. L'acte réflexif",
         "identifier": "01-00-002",
-        "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-002-l-acte-reflexif",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-002-l-acte-reflexif",
+        "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-002-l-acte-reflexif.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-002-l-acte-reflexif.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -81,7 +81,7 @@ head:
               "@type": "Person",
               "name": "Louis Lavelle"
             },
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte"
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte.html"
           }
         },
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
@@ -126,19 +126,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "De l'acte",
-            "item": "https://skepvox.com/louis-lavelle/de-l-acte"
+            "item": "https://skepvox.com/louis-lavelle/de-l-acte.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre II. L'acte réflexif",
-            "item": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-002-l-acte-reflexif"
+            "item": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-002-l-acte-reflexif.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/de-l-acte)
+[Retour au livre](/louis-lavelle/de-l-acte.html)
 
 ## Livre I. L'acte pur — Première partie : La méthode
 

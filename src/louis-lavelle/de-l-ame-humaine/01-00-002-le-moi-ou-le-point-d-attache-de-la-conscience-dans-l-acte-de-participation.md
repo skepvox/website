@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-002-le-moi-ou-le-point-d-attache-de-la-conscience-dans-l-acte-de-participation"
+      href: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-002-le-moi-ou-le-point-d-attache-de-la-conscience-dans-l-acte-de-participation.html"
   - - meta
     - name: description
       content: "Texte intégral en français de De l'âme humaine de Louis Lavelle. Chapitre II. Le moi, ou le point d'attache de la conscience dans l'acte de participation."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de De l'âme humaine de Louis Lavelle. Chapitre II. Le moi, ou le point d'attache de la conscience dans l'acte de participation."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-002-le-moi-ou-le-point-d-attache-de-la-conscience-dans-l-acte-de-participation"
+      content: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-002-le-moi-ou-le-point-d-attache-de-la-conscience-dans-l-acte-de-participation.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Chapitre II. Le moi, ou le point d'attache de la conscience dans l'acte de participation",
         "identifier": "01-00-002",
-        "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-002-le-moi-ou-le-point-d-attache-de-la-conscience-dans-l-acte-de-participation",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-002-le-moi-ou-le-point-d-attache-de-la-conscience-dans-l-acte-de-participation",
+        "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-002-le-moi-ou-le-point-d-attache-de-la-conscience-dans-l-acte-de-participation.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-002-le-moi-ou-le-point-d-attache-de-la-conscience-dans-l-acte-de-participation.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -81,7 +81,7 @@ head:
               "@type": "Person",
               "name": "Louis Lavelle"
             },
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine"
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine.html"
           }
         },
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
@@ -126,19 +126,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "De l'âme humaine",
-            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine"
+            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre II. Le moi, ou le point d'attache de la conscience dans l'acte de participation",
-            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-002-le-moi-ou-le-point-d-attache-de-la-conscience-dans-l-acte-de-participation"
+            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-002-le-moi-ou-le-point-d-attache-de-la-conscience-dans-l-acte-de-participation.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/de-l-ame-humaine)
+[Retour au livre](/louis-lavelle/de-l-ame-humaine.html)
 
 ## Livre I. L'intimité de l'âme
 

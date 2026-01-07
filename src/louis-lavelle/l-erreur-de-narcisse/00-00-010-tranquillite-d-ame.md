@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-010-tranquillite-d-ame"
+      href: "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-010-tranquillite-d-ame.html"
   - - meta
     - name: description
       content: "Texte intégral en français de L'Erreur de Narcisse de Louis Lavelle. Chapitre 10. Tranquillité d'âme."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de L'Erreur de Narcisse de Louis Lavelle. Chapitre 10. Tranquillité d'âme."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-010-tranquillite-d-ame"
+      content: "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-010-tranquillite-d-ame.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Chapitre 10. Tranquillité d'âme",
         "identifier": "00-00-010",
-        "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-010-tranquillite-d-ame",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-010-tranquillite-d-ame",
+        "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-010-tranquillite-d-ame.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-010-tranquillite-d-ame.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -77,7 +77,7 @@ head:
             "@type": "Person",
             "name": "Louis Lavelle"
           },
-          "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse"
+          "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse.html"
         },
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
         "description": "Texte intégral en français de L'Erreur de Narcisse de Louis Lavelle. Chapitre 10. Tranquillité d'âme.",
@@ -111,19 +111,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "L'Erreur de Narcisse",
-            "item": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse"
+            "item": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre 10. Tranquillité d'âme",
-            "item": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-010-tranquillite-d-ame"
+            "item": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-010-tranquillite-d-ame.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/l-erreur-de-narcisse)
+[Retour au livre](/louis-lavelle/l-erreur-de-narcisse.html)
 
 ## Chapitre 10. Tranquillité d'âme
 

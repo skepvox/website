@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-012-l-espace-spirituel"
+      href: "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-012-l-espace-spirituel.html"
   - - meta
     - name: description
       content: "Texte intégral en français de L'Erreur de Narcisse de Louis Lavelle. Chapitre 12. L'espace spirituel."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de L'Erreur de Narcisse de Louis Lavelle. Chapitre 12. L'espace spirituel."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-012-l-espace-spirituel"
+      content: "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-012-l-espace-spirituel.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Chapitre 12. L'espace spirituel",
         "identifier": "00-00-012",
-        "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-012-l-espace-spirituel",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-012-l-espace-spirituel",
+        "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-012-l-espace-spirituel.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-012-l-espace-spirituel.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -77,7 +77,7 @@ head:
             "@type": "Person",
             "name": "Louis Lavelle"
           },
-          "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse"
+          "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse.html"
         },
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
         "description": "Texte intégral en français de L'Erreur de Narcisse de Louis Lavelle. Chapitre 12. L'espace spirituel.",
@@ -111,19 +111,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "L'Erreur de Narcisse",
-            "item": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse"
+            "item": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre 12. L'espace spirituel",
-            "item": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-012-l-espace-spirituel"
+            "item": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-012-l-espace-spirituel.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/l-erreur-de-narcisse)
+[Retour au livre](/louis-lavelle/l-erreur-de-narcisse.html)
 
 ## Chapitre 12. L'espace spirituel
 

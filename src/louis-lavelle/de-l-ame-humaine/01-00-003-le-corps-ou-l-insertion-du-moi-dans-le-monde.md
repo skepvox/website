@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-003-le-corps-ou-l-insertion-du-moi-dans-le-monde"
+      href: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-003-le-corps-ou-l-insertion-du-moi-dans-le-monde.html"
   - - meta
     - name: description
       content: "Texte intégral en français de De l'âme humaine de Louis Lavelle. Chapitre III. Le corps, ou l'insertion du moi dans le monde."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de De l'âme humaine de Louis Lavelle. Chapitre III. Le corps, ou l'insertion du moi dans le monde."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-003-le-corps-ou-l-insertion-du-moi-dans-le-monde"
+      content: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-003-le-corps-ou-l-insertion-du-moi-dans-le-monde.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Chapitre III. Le corps, ou l'insertion du moi dans le monde",
         "identifier": "01-00-003",
-        "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-003-le-corps-ou-l-insertion-du-moi-dans-le-monde",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-003-le-corps-ou-l-insertion-du-moi-dans-le-monde",
+        "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-003-le-corps-ou-l-insertion-du-moi-dans-le-monde.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-003-le-corps-ou-l-insertion-du-moi-dans-le-monde.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -81,7 +81,7 @@ head:
               "@type": "Person",
               "name": "Louis Lavelle"
             },
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine"
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine.html"
           }
         },
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
@@ -126,19 +126,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "De l'âme humaine",
-            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine"
+            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre III. Le corps, ou l'insertion du moi dans le monde",
-            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-003-le-corps-ou-l-insertion-du-moi-dans-le-monde"
+            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-003-le-corps-ou-l-insertion-du-moi-dans-le-monde.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/de-l-ame-humaine)
+[Retour au livre](/louis-lavelle/de-l-ame-humaine.html)
 
 ## Livre I. L'intimité de l'âme
 

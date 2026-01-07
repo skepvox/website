@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/de-l-acte/02-00-014-l-infini-et-le-fini"
+      href: "https://skepvox.com/louis-lavelle/de-l-acte/02-00-014-l-infini-et-le-fini.html"
   - - meta
     - name: description
       content: "Texte intégral en français de De l'acte de Louis Lavelle. Chapitre XIV. L'infini et le fini."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de De l'acte de Louis Lavelle. Chapitre XIV. L'infini et le fini."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/de-l-acte/02-00-014-l-infini-et-le-fini"
+      content: "https://skepvox.com/louis-lavelle/de-l-acte/02-00-014-l-infini-et-le-fini.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Chapitre XIV. L'infini et le fini",
         "identifier": "02-00-014",
-        "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-014-l-infini-et-le-fini",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-014-l-infini-et-le-fini",
+        "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-014-l-infini-et-le-fini.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-014-l-infini-et-le-fini.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -81,7 +81,7 @@ head:
               "@type": "Person",
               "name": "Louis Lavelle"
             },
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte"
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte.html"
           }
         },
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
@@ -126,19 +126,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "De l'acte",
-            "item": "https://skepvox.com/louis-lavelle/de-l-acte"
+            "item": "https://skepvox.com/louis-lavelle/de-l-acte.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre XIV. L'infini et le fini",
-            "item": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-014-l-infini-et-le-fini"
+            "item": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-014-l-infini-et-le-fini.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/de-l-acte)
+[Retour au livre](/louis-lavelle/de-l-acte.html)
 
 ## Livre II. L'intervalle — Deuxième partie : Les modalités de l'intervalle
 

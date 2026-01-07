@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-008-la-poursuite-de-la-valeur"
+      href: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-008-la-poursuite-de-la-valeur.html"
   - - meta
     - name: description
       content: "Texte intégral en français de De l'âme humaine de Louis Lavelle. Chapitre VIII. La poursuite de la valeur."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de De l'âme humaine de Louis Lavelle. Chapitre VIII. La poursuite de la valeur."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-008-la-poursuite-de-la-valeur"
+      content: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-008-la-poursuite-de-la-valeur.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Chapitre VIII. La poursuite de la valeur",
         "identifier": "02-00-008",
-        "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-008-la-poursuite-de-la-valeur",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-008-la-poursuite-de-la-valeur",
+        "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-008-la-poursuite-de-la-valeur.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-008-la-poursuite-de-la-valeur.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -81,7 +81,7 @@ head:
               "@type": "Person",
               "name": "Louis Lavelle"
             },
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine"
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine.html"
           }
         },
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
@@ -126,19 +126,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "De l'âme humaine",
-            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine"
+            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre VIII. La poursuite de la valeur",
-            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-008-la-poursuite-de-la-valeur"
+            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-008-la-poursuite-de-la-valeur.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/de-l-ame-humaine)
+[Retour au livre](/louis-lavelle/de-l-ame-humaine.html)
 
 ## Livre II. La genèse de l'âme
 

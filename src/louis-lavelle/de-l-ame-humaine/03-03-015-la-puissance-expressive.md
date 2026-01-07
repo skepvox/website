@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-03-015-la-puissance-expressive"
+      href: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-03-015-la-puissance-expressive.html"
   - - meta
     - name: description
       content: "Texte intégral en français de De l'âme humaine de Louis Lavelle. Chapitre XV. La puissance expressive."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de De l'âme humaine de Louis Lavelle. Chapitre XV. La puissance expressive."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-03-015-la-puissance-expressive"
+      content: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-03-015-la-puissance-expressive.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Chapitre XV. La puissance expressive",
         "identifier": "03-03-015",
-        "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-03-015-la-puissance-expressive",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-03-015-la-puissance-expressive",
+        "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-03-015-la-puissance-expressive.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-03-015-la-puissance-expressive.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -85,7 +85,7 @@ head:
                 "@type": "Person",
                 "name": "Louis Lavelle"
               },
-              "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine"
+              "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine.html"
             }
           }
         },
@@ -141,19 +141,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "De l'âme humaine",
-            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine"
+            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre XV. La puissance expressive",
-            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-03-015-la-puissance-expressive"
+            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-03-015-la-puissance-expressive.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/de-l-ame-humaine)
+[Retour au livre](/louis-lavelle/de-l-ame-humaine.html)
 
 ## Livre III. Classification nouvelle des puissances de l'âme
 

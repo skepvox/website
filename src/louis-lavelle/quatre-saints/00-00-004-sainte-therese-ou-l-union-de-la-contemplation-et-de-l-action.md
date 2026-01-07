@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/quatre-saints/00-00-004-sainte-therese-ou-l-union-de-la-contemplation-et-de-l-action"
+      href: "https://skepvox.com/louis-lavelle/quatre-saints/00-00-004-sainte-therese-ou-l-union-de-la-contemplation-et-de-l-action.html"
   - - meta
     - name: description
       content: "Texte intégral en français de Quatre saints de Louis Lavelle. Chapitre 4. Sainte Thérèse ou l'union de la contemplation et de l'action."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de Quatre saints de Louis Lavelle. Chapitre 4. Sainte Thérèse ou l'union de la contemplation et de l'action."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/quatre-saints/00-00-004-sainte-therese-ou-l-union-de-la-contemplation-et-de-l-action"
+      content: "https://skepvox.com/louis-lavelle/quatre-saints/00-00-004-sainte-therese-ou-l-union-de-la-contemplation-et-de-l-action.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Chapitre 4. Sainte Thérèse ou l'union de la contemplation et de l'action",
         "identifier": "00-00-004",
-        "url": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-004-sainte-therese-ou-l-union-de-la-contemplation-et-de-l-action",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-004-sainte-therese-ou-l-union-de-la-contemplation-et-de-l-action",
+        "url": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-004-sainte-therese-ou-l-union-de-la-contemplation-et-de-l-action.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-004-sainte-therese-ou-l-union-de-la-contemplation-et-de-l-action.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -77,7 +77,7 @@ head:
             "@type": "Person",
             "name": "Louis Lavelle"
           },
-          "url": "https://skepvox.com/louis-lavelle/quatre-saints"
+          "url": "https://skepvox.com/louis-lavelle/quatre-saints.html"
         },
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
         "description": "Texte intégral en français de Quatre saints de Louis Lavelle. Chapitre 4. Sainte Thérèse ou l'union de la contemplation et de l'action.",
@@ -111,19 +111,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Quatre saints",
-            "item": "https://skepvox.com/louis-lavelle/quatre-saints"
+            "item": "https://skepvox.com/louis-lavelle/quatre-saints.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre 4. Sainte Thérèse ou l'union de la contemplation et de l'action",
-            "item": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-004-sainte-therese-ou-l-union-de-la-contemplation-et-de-l-action"
+            "item": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-004-sainte-therese-ou-l-union-de-la-contemplation-et-de-l-action.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/quatre-saints)
+[Retour au livre](/louis-lavelle/quatre-saints.html)
 
 ## Chapitre 4. Sainte Thérèse ou l'union de la contemplation et de l'action
 

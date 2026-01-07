@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/de-l-acte/01-00-003-l-acte-dialectique"
+      href: "https://skepvox.com/louis-lavelle/de-l-acte/01-00-003-l-acte-dialectique.html"
   - - meta
     - name: description
       content: "Texte intégral en français de De l'acte de Louis Lavelle. Chapitre III. L'acte dialectique."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de De l'acte de Louis Lavelle. Chapitre III. L'acte dialectique."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/de-l-acte/01-00-003-l-acte-dialectique"
+      content: "https://skepvox.com/louis-lavelle/de-l-acte/01-00-003-l-acte-dialectique.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Chapitre III. L'acte dialectique",
         "identifier": "01-00-003",
-        "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-003-l-acte-dialectique",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-003-l-acte-dialectique",
+        "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-003-l-acte-dialectique.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-003-l-acte-dialectique.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -81,7 +81,7 @@ head:
               "@type": "Person",
               "name": "Louis Lavelle"
             },
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte"
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte.html"
           }
         },
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
@@ -126,19 +126,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "De l'acte",
-            "item": "https://skepvox.com/louis-lavelle/de-l-acte"
+            "item": "https://skepvox.com/louis-lavelle/de-l-acte.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre III. L'acte dialectique",
-            "item": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-003-l-acte-dialectique"
+            "item": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-003-l-acte-dialectique.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/de-l-acte)
+[Retour au livre](/louis-lavelle/de-l-acte.html)
 
 ## Livre I. L'acte pur — Première partie : La méthode
 

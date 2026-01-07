@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/quatre-saints/00-00-001-de-la-saintete"
+      href: "https://skepvox.com/louis-lavelle/quatre-saints/00-00-001-de-la-saintete.html"
   - - meta
     - name: description
       content: "Texte intégral en français de Quatre saints de Louis Lavelle. Chapitre 1. De la sainteté."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de Quatre saints de Louis Lavelle. Chapitre 1. De la sainteté."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/quatre-saints/00-00-001-de-la-saintete"
+      content: "https://skepvox.com/louis-lavelle/quatre-saints/00-00-001-de-la-saintete.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Chapitre 1. De la sainteté",
         "identifier": "00-00-001",
-        "url": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-001-de-la-saintete",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-001-de-la-saintete",
+        "url": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-001-de-la-saintete.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-001-de-la-saintete.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -77,7 +77,7 @@ head:
             "@type": "Person",
             "name": "Louis Lavelle"
           },
-          "url": "https://skepvox.com/louis-lavelle/quatre-saints"
+          "url": "https://skepvox.com/louis-lavelle/quatre-saints.html"
         },
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
         "description": "Texte intégral en français de Quatre saints de Louis Lavelle. Chapitre 1. De la sainteté.",
@@ -111,19 +111,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Quatre saints",
-            "item": "https://skepvox.com/louis-lavelle/quatre-saints"
+            "item": "https://skepvox.com/louis-lavelle/quatre-saints.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre 1. De la sainteté",
-            "item": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-001-de-la-saintete"
+            "item": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-001-de-la-saintete.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/quatre-saints)
+[Retour au livre](/louis-lavelle/quatre-saints.html)
 
 ## Chapitre 1. De la sainteté
 

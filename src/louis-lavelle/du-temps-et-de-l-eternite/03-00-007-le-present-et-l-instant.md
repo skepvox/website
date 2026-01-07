@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/03-00-007-le-present-et-l-instant"
+      href: "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/03-00-007-le-present-et-l-instant.html"
   - - meta
     - name: description
       content: "Texte intégral en français de Du temps et de l'éternité de Louis Lavelle. Chapitre VII. Le présent et l'instant."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de Du temps et de l'éternité de Louis Lavelle. Chapitre VII. Le présent et l'instant."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/03-00-007-le-present-et-l-instant"
+      content: "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/03-00-007-le-present-et-l-instant.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Chapitre VII. Le présent et l'instant",
         "identifier": "03-00-007",
-        "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/03-00-007-le-present-et-l-instant",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/03-00-007-le-present-et-l-instant",
+        "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/03-00-007-le-present-et-l-instant.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/03-00-007-le-present-et-l-instant.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -81,7 +81,7 @@ head:
               "@type": "Person",
               "name": "Louis Lavelle"
             },
-            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite"
+            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite.html"
           }
         },
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
@@ -126,19 +126,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Du temps et de l'éternité",
-            "item": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite"
+            "item": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre VII. Le présent et l'instant",
-            "item": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/03-00-007-le-present-et-l-instant"
+            "item": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/03-00-007-le-present-et-l-instant.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/du-temps-et-de-l-eternite)
+[Retour au livre](/louis-lavelle/du-temps-et-de-l-eternite.html)
 
 ## Livre III. Les phases du temps
 

@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/de-l-etre/00-00-006-de-l-etre-du-tout-et-de-l-etre-des-parties"
+      href: "https://skepvox.com/louis-lavelle/de-l-etre/00-00-006-de-l-etre-du-tout-et-de-l-etre-des-parties.html"
   - - meta
     - name: description
       content: "Texte intégral en français de De l'être de Louis Lavelle. Chapitre 6. De l'être du tout et de l'être des parties."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de De l'être de Louis Lavelle. Chapitre 6. De l'être du tout et de l'être des parties."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/de-l-etre/00-00-006-de-l-etre-du-tout-et-de-l-etre-des-parties"
+      content: "https://skepvox.com/louis-lavelle/de-l-etre/00-00-006-de-l-etre-du-tout-et-de-l-etre-des-parties.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Chapitre 6. De l'être du tout et de l'être des parties",
         "identifier": "00-00-006",
-        "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-006-de-l-etre-du-tout-et-de-l-etre-des-parties",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-006-de-l-etre-du-tout-et-de-l-etre-des-parties",
+        "url": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-006-de-l-etre-du-tout-et-de-l-etre-des-parties.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-006-de-l-etre-du-tout-et-de-l-etre-des-parties.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -77,7 +77,7 @@ head:
             "@type": "Person",
             "name": "Louis Lavelle"
           },
-          "url": "https://skepvox.com/louis-lavelle/de-l-etre"
+          "url": "https://skepvox.com/louis-lavelle/de-l-etre.html"
         },
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
         "description": "Texte intégral en français de De l'être de Louis Lavelle. Chapitre 6. De l'être du tout et de l'être des parties.",
@@ -111,19 +111,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "De l'être",
-            "item": "https://skepvox.com/louis-lavelle/de-l-etre"
+            "item": "https://skepvox.com/louis-lavelle/de-l-etre.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre 6. De l'être du tout et de l'être des parties",
-            "item": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-006-de-l-etre-du-tout-et-de-l-etre-des-parties"
+            "item": "https://skepvox.com/louis-lavelle/de-l-etre/00-00-006-de-l-etre-du-tout-et-de-l-etre-des-parties.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/de-l-etre)
+[Retour au livre](/louis-lavelle/de-l-etre.html)
 
 ## Chapitre 6. De l'être du tout et de l'être des parties
 

@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/02-00-005-la-relation-de-la-presence-et-de-l-absence"
+      href: "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/02-00-005-la-relation-de-la-presence-et-de-l-absence.html"
   - - meta
     - name: description
       content: "Texte intégral en français de Du temps et de l'éternité de Louis Lavelle. Chapitre V. La relation de la présence et de l'absence."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de Du temps et de l'éternité de Louis Lavelle. Chapitre V. La relation de la présence et de l'absence."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/02-00-005-la-relation-de-la-presence-et-de-l-absence"
+      content: "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/02-00-005-la-relation-de-la-presence-et-de-l-absence.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Chapitre V. La relation de la présence et de l'absence",
         "identifier": "02-00-005",
-        "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/02-00-005-la-relation-de-la-presence-et-de-l-absence",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/02-00-005-la-relation-de-la-presence-et-de-l-absence",
+        "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/02-00-005-la-relation-de-la-presence-et-de-l-absence.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/02-00-005-la-relation-de-la-presence-et-de-l-absence.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -81,7 +81,7 @@ head:
               "@type": "Person",
               "name": "Louis Lavelle"
             },
-            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite"
+            "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite.html"
           }
         },
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
@@ -126,19 +126,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Du temps et de l'éternité",
-            "item": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite"
+            "item": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre V. La relation de la présence et de l'absence",
-            "item": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/02-00-005-la-relation-de-la-presence-et-de-l-absence"
+            "item": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite/02-00-005-la-relation-de-la-presence-et-de-l-absence.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/du-temps-et-de-l-eternite)
+[Retour au livre](/louis-lavelle/du-temps-et-de-l-eternite.html)
 
 ## Livre II. L'idéalité du temps
 

@@ -9,6 +9,8 @@ LOCAL_SOURCE_DIR = Path('local-books/louis-lavelle/de-l-etre/fr')
 
 SITE_BASE = 'https://skepvox.com'
 BOOK_PATH = '/louis-lavelle/de-l-etre'
+BOOK_PATH_HTML = f'{BOOK_PATH}.html'
+BOOK_URL = f'{SITE_BASE}{BOOK_PATH_HTML}'
 BOOK_TITLE = "De l'être"
 AUTHOR = 'Louis Lavelle'
 LANGUAGE = 'fr'
@@ -99,7 +101,7 @@ def sync_leaf_bodies() -> None:
         extras = ', '.join(extra_targets)
         print(f'Warning: chapters without local source: {extras}', file=sys.stderr)
 
-    back_link = f"[Retour au livre]({BOOK_PATH})"
+    back_link = f"[Retour au livre]({BOOK_PATH_HTML})"
     for local_path in local_files:
         target_path = CHAPTER_DIR / local_path.name
         local_text = local_path.read_text(encoding='utf-8')
@@ -120,9 +122,12 @@ def sync_leaf_bodies() -> None:
 def remove_hub_only_lines(body: str) -> str:
     lines = body.splitlines()
     filtered: list[str] = []
-    back_link = f"[Retour au livre]({BOOK_PATH})"
+    back_links = {
+        f"[Retour au livre]({BOOK_PATH})",
+        f"[Retour au livre]({BOOK_PATH_HTML})",
+    }
     for line in lines:
-        if line.strip() == back_link:
+        if line.strip() in back_links:
             continue
         filtered.append(line)
     return '\n'.join(filtered).lstrip('\n').rstrip()
@@ -205,8 +210,8 @@ def main() -> None:
         book_title = (meta.get('book-title') or '').strip()
         part_title = (meta.get('part-title') or '').strip()
         identifier = f"{book_number}-{part_number}-{chapter_number}"
-        url_abs = f"{SITE_BASE}{BOOK_PATH}/{path.stem}"
-        url_rel = f"{BOOK_PATH}/{path.stem}"
+        url_abs = f"{SITE_BASE}{BOOK_PATH}/{path.stem}.html"
+        url_rel = f"{BOOK_PATH}/{path.stem}.html"
         chapters.append({
             'title': chapter_title,
             'url_abs': url_abs,
@@ -295,7 +300,7 @@ def main() -> None:
             'name': AUTHOR,
         },
         'inLanguage': LANGUAGE,
-        'url': f"{SITE_BASE}{BOOK_PATH}",
+        'url': BOOK_URL,
         'description': DESCRIPTION,
         'image': IMAGE_URL,
         'isPartOf': {
@@ -343,7 +348,7 @@ def main() -> None:
                 '@type': 'ListItem',
                 'position': 2,
                 'name': BOOK_TITLE,
-                'item': f"{SITE_BASE}{BOOK_PATH}",
+                'item': BOOK_URL,
             },
         ],
     }
@@ -359,7 +364,7 @@ def main() -> None:
         'head:',
         '  - - link',
         '    - rel: canonical',
-        f'      href: "{SITE_BASE}{BOOK_PATH}"',
+        f'      href: "{BOOK_URL}"',
         '  - - meta',
         '    - name: description',
         f'      content: "{DESCRIPTION}"',
@@ -371,7 +376,7 @@ def main() -> None:
         f'      content: "{DESCRIPTION}"',
         '  - - meta',
         '    - property: og:url',
-        f'      content: "{SITE_BASE}{BOOK_PATH}"',
+        f'      content: "{BOOK_URL}"',
         '  - - meta',
         '    - property: og:type',
         '      content: book',

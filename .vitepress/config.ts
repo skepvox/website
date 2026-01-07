@@ -88,6 +88,14 @@ export const sidebar: ThemeConfig['sidebar'] = {
       ]
     },
     {
+      text: 'Œuvres introductoires',
+      items: [
+        { text: 'La conscience de soi', link: '/louis-lavelle/la-conscience-de-soi' },
+        { text: 'La Présence totale', link: '/louis-lavelle/la-presence-totale' },
+        { text: "Introduction à l'ontologie", link: '/louis-lavelle/introduction-a-l-ontologie' }
+      ]
+    },
+    {
       text: 'Œuvres morales',
       items: [
         { text: "L'Erreur de Narcisse", link: '/louis-lavelle/l-erreur-de-narcisse' },
@@ -139,7 +147,7 @@ function inlineScript(file: string): HeadConfig {
 
 export default defineConfigWithTheme<ThemeConfig>({
   extends: baseConfig,
-  cleanUrls: true,
+  cleanUrls: false,
 
   sitemap: {
     hostname: 'https://skepvox.com',
@@ -150,21 +158,11 @@ export default defineConfigWithTheme<ThemeConfig>({
         '/enem/overrides/README'
       ])
 
-      return items
-        .map((item) => {
-          const rawPath = item.url.startsWith('/') ? item.url : `/${item.url}`
-          const cleanPath = rawPath.replace(/\.html$/, '')
-          const outputUrl = item.url.startsWith('/') ? cleanPath : cleanPath.slice(1)
-
-          return {
-            ...item,
-            url: outputUrl
-          }
-        })
-        .filter((item) => {
-          const normalized = item.url.startsWith('/') ? item.url : `/${item.url}`
-          return !excluded.has(normalized)
-        })
+      return items.filter((item) => {
+        const normalized = item.url.startsWith('/') ? item.url : `/${item.url}`
+        const comparable = normalized.replace(/\.html$/, '')
+        return !excluded.has(comparable)
+      })
     }
   },
 

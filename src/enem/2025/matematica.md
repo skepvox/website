@@ -5,7 +5,7 @@ outline: [2, 3]
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/enem/2025/matematica"
+      href: "https://skepvox.com/enem/2025/matematica.html"
   - - meta
     - name: description
       content: "Questões de Matemática e suas Tecnologias do ENEM 2025 (Dia 2, aplicação regular). Ordem do caderno verde (CD8) com mapeamento para amarelo, azul e cinza."
@@ -17,7 +17,7 @@ head:
       content: "Questões de Matemática e suas Tecnologias do ENEM 2025 (Dia 2, aplicação regular). Ordem do caderno verde (CD8) com mapeamento para amarelo, azul e cinza."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/enem/2025/matematica"
+      content: "https://skepvox.com/enem/2025/matematica.html"
   - - meta
     - property: og:type
       content: website
@@ -38,7 +38,7 @@ head:
         "@type": "CollectionPage",
         "name": "ENEM 2025 Matemática e suas Tecnologias — Caderno Verde",
         "description": "Questões de Matemática e suas Tecnologias do ENEM 2025 (Dia 2, aplicação regular). Ordem do caderno verde (CD8) com mapeamento para amarelo, azul e cinza.",
-        "url": "https://skepvox.com/enem/2025/matematica",
+        "url": "https://skepvox.com/enem/2025/matematica.html",
         "inLanguage": "pt-BR",
         "about": [
           "ENEM",
@@ -57,271 +57,271 @@ head:
             {
               "@type": "ListItem",
               "position": 1,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-136",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-136.html",
               "name": "Questão 136"
             },
             {
               "@type": "ListItem",
               "position": 2,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-137",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-137.html",
               "name": "Questão 137"
             },
             {
               "@type": "ListItem",
               "position": 3,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-138",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-138.html",
               "name": "Questão 138"
             },
             {
               "@type": "ListItem",
               "position": 4,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-139",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-139.html",
               "name": "Questão 139"
             },
             {
               "@type": "ListItem",
               "position": 5,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-140",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-140.html",
               "name": "Questão 140"
             },
             {
               "@type": "ListItem",
               "position": 6,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-141",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-141.html",
               "name": "Questão 141"
             },
             {
               "@type": "ListItem",
               "position": 7,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-142",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-142.html",
               "name": "Questão 142"
             },
             {
               "@type": "ListItem",
               "position": 8,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-143",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-143.html",
               "name": "Questão 143"
             },
             {
               "@type": "ListItem",
               "position": 9,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-144",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-144.html",
               "name": "Questão 144"
             },
             {
               "@type": "ListItem",
               "position": 10,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-145",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-145.html",
               "name": "Questão 145"
             },
             {
               "@type": "ListItem",
               "position": 11,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-146",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-146.html",
               "name": "Questão 146"
             },
             {
               "@type": "ListItem",
               "position": 12,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-147",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-147.html",
               "name": "Questão 147"
             },
             {
               "@type": "ListItem",
               "position": 13,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-148",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-148.html",
               "name": "Questão 148"
             },
             {
               "@type": "ListItem",
               "position": 14,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-149",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-149.html",
               "name": "Questão 149"
             },
             {
               "@type": "ListItem",
               "position": 15,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-150",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-150.html",
               "name": "Questão 150"
             },
             {
               "@type": "ListItem",
               "position": 16,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-151",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-151.html",
               "name": "Questão 151"
             },
             {
               "@type": "ListItem",
               "position": 17,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-152",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-152.html",
               "name": "Questão 152"
             },
             {
               "@type": "ListItem",
               "position": 18,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-153",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-153.html",
               "name": "Questão 153"
             },
             {
               "@type": "ListItem",
               "position": 19,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-154",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-154.html",
               "name": "Questão 154"
             },
             {
               "@type": "ListItem",
               "position": 20,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-155",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-155.html",
               "name": "Questão 155"
             },
             {
               "@type": "ListItem",
               "position": 21,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-156",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-156.html",
               "name": "Questão 156"
             },
             {
               "@type": "ListItem",
               "position": 22,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-157",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-157.html",
               "name": "Questão 157"
             },
             {
               "@type": "ListItem",
               "position": 23,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-158",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-158.html",
               "name": "Questão 158"
             },
             {
               "@type": "ListItem",
               "position": 24,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-159",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-159.html",
               "name": "Questão 159"
             },
             {
               "@type": "ListItem",
               "position": 25,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-160",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-160.html",
               "name": "Questão 160"
             },
             {
               "@type": "ListItem",
               "position": 26,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-161",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-161.html",
               "name": "Questão 161"
             },
             {
               "@type": "ListItem",
               "position": 27,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-162",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-162.html",
               "name": "Questão 162"
             },
             {
               "@type": "ListItem",
               "position": 28,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-163",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-163.html",
               "name": "Questão 163"
             },
             {
               "@type": "ListItem",
               "position": 29,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-164",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-164.html",
               "name": "Questão 164"
             },
             {
               "@type": "ListItem",
               "position": 30,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-165",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-165.html",
               "name": "Questão 165"
             },
             {
               "@type": "ListItem",
               "position": 31,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-166",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-166.html",
               "name": "Questão 166"
             },
             {
               "@type": "ListItem",
               "position": 32,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-167",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-167.html",
               "name": "Questão 167"
             },
             {
               "@type": "ListItem",
               "position": 33,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-168",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-168.html",
               "name": "Questão 168"
             },
             {
               "@type": "ListItem",
               "position": 34,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-169",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-169.html",
               "name": "Questão 169"
             },
             {
               "@type": "ListItem",
               "position": 35,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-170",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-170.html",
               "name": "Questão 170"
             },
             {
               "@type": "ListItem",
               "position": 36,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-171",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-171.html",
               "name": "Questão 171"
             },
             {
               "@type": "ListItem",
               "position": 37,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-172",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-172.html",
               "name": "Questão 172"
             },
             {
               "@type": "ListItem",
               "position": 38,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-173",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-173.html",
               "name": "Questão 173"
             },
             {
               "@type": "ListItem",
               "position": 39,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-174",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-174.html",
               "name": "Questão 174"
             },
             {
               "@type": "ListItem",
               "position": 40,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-175",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-175.html",
               "name": "Questão 175"
             },
             {
               "@type": "ListItem",
               "position": 41,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-176",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-176.html",
               "name": "Questão 176"
             },
             {
               "@type": "ListItem",
               "position": 42,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-177",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-177.html",
               "name": "Questão 177"
             },
             {
               "@type": "ListItem",
               "position": 43,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-178",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-178.html",
               "name": "Questão 178"
             },
             {
               "@type": "ListItem",
               "position": 44,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-179",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-179.html",
               "name": "Questão 179"
             },
             {
               "@type": "ListItem",
               "position": 45,
-              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-180",
+              "url": "https://skepvox.com/enem/2025/matematica/questao/2025-180.html",
               "name": "Questão 180"
             }
           ]

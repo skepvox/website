@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/00-00-000-introduction"
+      href: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/00-00-000-introduction.html"
   - - meta
     - name: description
       content: "Texte intégral en français de De l'âme humaine de Louis Lavelle. Introduction."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de De l'âme humaine de Louis Lavelle. Introduction."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/00-00-000-introduction"
+      content: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/00-00-000-introduction.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Introduction",
         "identifier": "00-00-000",
-        "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/00-00-000-introduction",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/00-00-000-introduction",
+        "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/00-00-000-introduction.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/00-00-000-introduction.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -77,7 +77,7 @@ head:
             "@type": "Person",
             "name": "Louis Lavelle"
           },
-          "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine"
+          "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine.html"
         },
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
         "description": "Texte intégral en français de De l'âme humaine de Louis Lavelle. Introduction.",
@@ -111,19 +111,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "De l'âme humaine",
-            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine"
+            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Introduction",
-            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/00-00-000-introduction"
+            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/00-00-000-introduction.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/de-l-ame-humaine)
+[Retour au livre](/louis-lavelle/de-l-ame-humaine.html)
 
 ## Introduction
 

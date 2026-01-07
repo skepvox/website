@@ -17,7 +17,7 @@ outline: false
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-001-la-conscience-ou-une-intimite-en-droit-universelle"
+      href: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-001-la-conscience-ou-une-intimite-en-droit-universelle.html"
   - - meta
     - name: description
       content: "Texte intégral en français de De l'âme humaine de Louis Lavelle. Chapitre I. La conscience, ou une intimité, en droit, universelle."
@@ -29,7 +29,7 @@ head:
       content: "Texte intégral en français de De l'âme humaine de Louis Lavelle. Chapitre I. La conscience, ou une intimité, en droit, universelle."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-001-la-conscience-ou-une-intimite-en-droit-universelle"
+      content: "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-001-la-conscience-ou-une-intimite-en-droit-universelle.html"
   - - meta
     - property: og:type
       content: article
@@ -62,8 +62,8 @@ head:
         "@type": "Chapter",
         "name": "Chapitre I. La conscience, ou une intimité, en droit, universelle",
         "identifier": "01-00-001",
-        "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-001-la-conscience-ou-une-intimite-en-droit-universelle",
-        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-001-la-conscience-ou-une-intimite-en-droit-universelle",
+        "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-001-la-conscience-ou-une-intimite-en-droit-universelle.html",
+        "mainEntityOfPage": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-001-la-conscience-ou-une-intimite-en-droit-universelle.html",
         "inLanguage": "fr",
         "isAccessibleForFree": true,
         "author": {
@@ -81,7 +81,7 @@ head:
               "@type": "Person",
               "name": "Louis Lavelle"
             },
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine"
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine.html"
           }
         },
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
@@ -126,19 +126,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "De l'âme humaine",
-            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine"
+            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine.html"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre I. La conscience, ou une intimité, en droit, universelle",
-            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-001-la-conscience-ou-une-intimite-en-droit-universelle"
+            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-001-la-conscience-ou-une-intimite-en-droit-universelle.html"
           }
         ]
       }
 ---
 
-[Retour au livre](/louis-lavelle/de-l-ame-humaine)
+[Retour au livre](/louis-lavelle/de-l-ame-humaine.html)
 
 ## Livre I. L'intimité de l'âme
 
