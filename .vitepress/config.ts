@@ -272,6 +272,9 @@ export default defineConfigWithTheme<ThemeConfig>({
   },
 
   vite: {
+    resolve: {
+      dedupe: ['vue']
+    },
     define: {
       __VUE_OPTIONS_API__: false
     },

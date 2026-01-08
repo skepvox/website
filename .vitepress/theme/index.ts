@@ -18,8 +18,10 @@ import 'virtual:group-icons.css'
 
 if (typeof window !== 'undefined') {
   import('katex/dist/contrib/copy-tex.js')
-  import('@vercel/analytics').then(({ inject }) => inject())
-  import('@vercel/speed-insights').then(({ inject }) => inject())
+  import('@vercel/analytics').then(({ inject }) => inject?.())
+  import('@vercel/speed-insights').then(({ injectSpeedInsights }) =>
+    injectSpeedInsights?.()
+  )
 }
 
 export default Object.assign({}, VPTheme, {
