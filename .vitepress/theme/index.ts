@@ -12,6 +12,10 @@ import AssetChart from './components/enem/assets/AssetChart.vue'
 // import Banner from './components/Banner.vue'
 // import TextAd from './components/TextAd.vue'
 import NavBarTitleSkepvox from './components/NavBarTitleSkepvox.vue'
+import DemosMapa from './components/DemosMapa.vue'
+import DemosMapaRelacionalCta from './components/DemosMapaRelacionalCta.vue'
+import DemosPortraitStipple from './components/DemosPortraitStipple.vue'
+import DemosPortraitSvg from './components/DemosPortraitSvg.vue'
 
 import 'vitepress/dist/client/theme-default/styles/components/vp-code-group.css'
 import 'virtual:group-icons.css'
@@ -39,6 +43,10 @@ export default Object.assign({}, VPTheme, {
     app.component('QuestionCardLoader', QuestionCardLoader)
     app.component('QuestionPreviewCard', QuestionPreviewCard)
     app.component('AssetChart', AssetChart)
+    app.component('DemosMapa', DemosMapa)
+    app.component('DemosMapaRelacionalCta', DemosMapaRelacionalCta)
+    app.component('DemosPortraitStipple', DemosPortraitStipple)
+    app.component('DemosPortraitSvg', DemosPortraitSvg)
     // app.component('TextAd', TextAd)
   }
 })

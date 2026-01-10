@@ -1,0 +1,1368 @@
+{
+  "schema": "skepvox--demos-graph",
+  "schemaVersion": 2,
+  "nodeCount": 16,
+  "edgeCount": 111,
+  "nodes": [
+    {
+      "id": "case--atentado-contra-jair-bolsonaro",
+      "type": "case",
+      "url": "/demos/casos/atentado-contra-jair-bolsonaro",
+      "dataUrl": "/demos-data/notes/case--atentado-contra-jair-bolsonaro.json",
+      "title": "Atentado contra Jair Bolsonaro",
+      "description": "Resumo, linha do tempo e fontes públicas sobre o atentado contra Jair Bolsonaro em 2018.",
+      "mapLabel": "atentado-bolsonaro",
+      "seed": false,
+      "seedId": "person--adelio-bispo-de-oliveira",
+      "tags": [
+        "justica",
+        "eleicoes-2018",
+        "violencia-politica"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "case--operacao-lava-jato",
+      "type": "case",
+      "url": "/demos/casos/operacao-lava-jato",
+      "dataUrl": "/demos-data/notes/case--operacao-lava-jato.json",
+      "title": "Operação Lava Jato",
+      "description": "Linha do tempo e fontes públicas sobre a Operação Lava Jato e eventos associados a Luiz Inácio Lula da Silva.",
+      "mapLabel": "lava-jato",
+      "seed": false,
+      "seedId": "person--luiz-inacio-lula-da-silva",
+      "tags": [
+        "justica",
+        "investigacao",
+        "lava-jato"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "case--operacao-spoofing",
+      "type": "case",
+      "url": "/demos/casos/operacao-spoofing",
+      "dataUrl": "/demos-data/notes/case--operacao-spoofing.json",
+      "title": "Operação Spoofing",
+      "description": "Linha do tempo e fontes públicas sobre a Operação Spoofing (PF), que investigou invasões a contas do Telegram de autoridades e seus desdobramentos judiciais.",
+      "mapLabel": "spoofing",
+      "seed": false,
+      "seedId": "person--jose-antonio-dias-toffoli",
+      "tags": [
+        "justica",
+        "investigacao",
+        "hacking",
+        "telegram",
+        "lava-jato"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "case--sitio-de-atibaia",
+      "type": "case",
+      "url": "/demos/casos/sitio-de-atibaia",
+      "dataUrl": "/demos-data/notes/case--sitio-de-atibaia.json",
+      "title": "Sítio de Atibaia",
+      "description": "Resumo, linha do tempo e fontes públicas sobre o caso do sítio de Atibaia (Lava Jato) envolvendo Luiz Inácio Lula da Silva.",
+      "mapLabel": "sitio-atibaia",
+      "seed": false,
+      "seedId": "person--luiz-inacio-lula-da-silva",
+      "tags": [
+        "justica",
+        "lava-jato"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "case--triplex-do-guaruja",
+      "type": "case",
+      "url": "/demos/casos/triplex-do-guaruja",
+      "dataUrl": "/demos-data/notes/case--triplex-do-guaruja.json",
+      "title": "Tríplex do Guarujá",
+      "description": "Resumo, linha do tempo e fontes públicas sobre o caso do tríplex do Guarujá (Lava Jato) envolvendo Luiz Inácio Lula da Silva.",
+      "mapLabel": "triplex-guaruja",
+      "seed": false,
+      "seedId": "person--luiz-inacio-lula-da-silva",
+      "tags": [
+        "justica",
+        "lava-jato"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "org--central-unica-dos-trabalhadores-cut",
+      "type": "org",
+      "url": "/demos/organizacoes/central-unica-dos-trabalhadores-cut",
+      "dataUrl": "/demos-data/notes/org--central-unica-dos-trabalhadores-cut.json",
+      "title": "Central Única dos Trabalhadores (CUT)",
+      "description": "Resumo factual e fontes públicas sobre a Central Única dos Trabalhadores (CUT).",
+      "mapLabel": "CUT",
+      "seed": false,
+      "seedId": "person--luiz-inacio-lula-da-silva",
+      "tags": [
+        "central-sindical",
+        "brasil"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "org--partido-dos-trabalhadores-pt",
+      "type": "org",
+      "url": "/demos/organizacoes/partido-dos-trabalhadores-pt",
+      "dataUrl": "/demos-data/notes/org--partido-dos-trabalhadores-pt.json",
+      "title": "Partido dos Trabalhadores (PT)",
+      "description": "Resumo factual e fontes públicas sobre o Partido dos Trabalhadores (PT).",
+      "mapLabel": "PT",
+      "seed": false,
+      "seedId": "person--luiz-inacio-lula-da-silva",
+      "tags": [
+        "partido-politico",
+        "brasil"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "org--sindicato-dos-metalurgicos-do-abc",
+      "type": "org",
+      "url": "/demos/organizacoes/sindicato-dos-metalurgicos-do-abc",
+      "dataUrl": "/demos-data/notes/org--sindicato-dos-metalurgicos-do-abc.json",
+      "title": "Sindicato dos Metalúrgicos do ABC",
+      "description": "Resumo factual e fontes públicas sobre o Sindicato dos Metalúrgicos de São Bernardo do Campo e Diadema (ABC paulista).",
+      "mapLabel": "sindicato-abc",
+      "seed": false,
+      "seedId": "person--luiz-inacio-lula-da-silva",
+      "tags": [
+        "sindicato",
+        "brasil"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "person--adelio-bispo-de-oliveira",
+      "type": "person",
+      "url": "/demos/pessoas/adelio-bispo-de-oliveira",
+      "dataUrl": "/demos-data/notes/person--adelio-bispo-de-oliveira.json",
+      "title": "Adélio Bispo de Oliveira",
+      "description": "Linha do tempo e fontes públicas sobre Adélio Bispo de Oliveira.",
+      "mapLabel": "facada",
+      "seed": true,
+      "seedId": "person--adelio-bispo-de-oliveira",
+      "tags": [
+        "atentado-2018",
+        "violencia-politica"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "person--carla-zambelli-salgado-de-oliveira",
+      "type": "person",
+      "url": "/demos/pessoas/carla-zambelli-salgado-de-oliveira",
+      "dataUrl": "/demos-data/notes/person--carla-zambelli-salgado-de-oliveira.json",
+      "title": "Carla Zambelli Salgado de Oliveira (Carla Zambelli)",
+      "description": "Linha do tempo e fontes públicas sobre Carla Zambelli Salgado de Oliveira (Carla Zambelli), política brasileira e ex-deputada federal por SP.",
+      "mapLabel": "carla-zambelli",
+      "seed": false,
+      "seedId": "person--jose-antonio-dias-toffoli",
+      "tags": [
+        "politica",
+        "legislativo",
+        "justica",
+        "stf",
+        "cnj"
+      ],
+      "primaryRoles": [
+        "role--deputada-federal"
+      ]
+    },
+    {
+      "id": "person--jair-messias-bolsonaro",
+      "type": "person",
+      "url": "/demos/pessoas/jair-messias-bolsonaro",
+      "dataUrl": "/demos-data/notes/person--jair-messias-bolsonaro.json",
+      "title": "Jair Messias Bolsonaro",
+      "description": "Linha do tempo e fontes públicas sobre Jair Messias Bolsonaro.",
+      "mapLabel": "jair-bolsonaro",
+      "seed": false,
+      "seedId": "person--adelio-bispo-de-oliveira",
+      "tags": [
+        "politica",
+        "executivo",
+        "brasil"
+      ],
+      "primaryRoles": [
+        "role--presidente-do-brasil"
+      ]
+    },
+    {
+      "id": "person--jose-antonio-dias-toffoli",
+      "type": "person",
+      "url": "/demos/pessoas/jose-antonio-dias-toffoli",
+      "dataUrl": "/demos-data/notes/person--jose-antonio-dias-toffoli.json",
+      "title": "José Antonio Dias Toffoli (Dias Toffoli)",
+      "description": "Linha do tempo e fontes públicas sobre José Antonio Dias Toffoli (Dias Toffoli), ministro do STF.",
+      "mapLabel": "dias-toffoli",
+      "seed": true,
+      "seedId": "person--jose-antonio-dias-toffoli",
+      "tags": [
+        "judiciario",
+        "stf",
+        "tse",
+        "agu",
+        "politica"
+      ],
+      "primaryRoles": [
+        "role--ministro-do-stf",
+        "role--presidente-do-stf",
+        "role--presidente-do-tse"
+      ]
+    },
+    {
+      "id": "person--luiz-edson-fachin",
+      "type": "person",
+      "url": "/demos/pessoas/luiz-edson-fachin",
+      "dataUrl": "/demos-data/notes/person--luiz-edson-fachin.json",
+      "title": "Luiz Edson Fachin",
+      "description": "Linha do tempo e fontes públicas sobre Luiz Edson Fachin, ministro e presidente do STF.",
+      "mapLabel": "fachin",
+      "seed": false,
+      "seedId": "person--luiz-inacio-lula-da-silva",
+      "tags": [
+        "judiciario",
+        "stf",
+        "tse"
+      ],
+      "primaryRoles": [
+        "role--ministro-do-stf",
+        "role--presidente-do-stf"
+      ]
+    },
+    {
+      "id": "person--luiz-inacio-lula-da-silva",
+      "type": "person",
+      "url": "/demos/pessoas/luiz-inacio-lula-da-silva",
+      "dataUrl": "/demos-data/notes/person--luiz-inacio-lula-da-silva.json",
+      "title": "Luiz Inácio Lula da Silva (Lula)",
+      "description": "Linha do tempo e fontes públicas sobre Luiz Inácio Lula da Silva (Lula), presidente do Brasil.",
+      "mapLabel": "lula",
+      "seed": true,
+      "seedId": "person--luiz-inacio-lula-da-silva",
+      "tags": [
+        "politica",
+        "executivo",
+        "brasil"
+      ],
+      "primaryRoles": [
+        "role--presidente-do-brasil"
+      ]
+    },
+    {
+      "id": "person--sergio-fernando-moro",
+      "type": "person",
+      "url": "/demos/pessoas/sergio-fernando-moro",
+      "dataUrl": "/demos-data/notes/person--sergio-fernando-moro.json",
+      "title": "Sergio Fernando Moro",
+      "description": "Linha do tempo e fontes públicas sobre Sergio Fernando Moro, senador pelo Paraná e ex-juiz federal.",
+      "mapLabel": "sergio-moro",
+      "seed": false,
+      "seedId": "person--luiz-inacio-lula-da-silva",
+      "tags": [
+        "judiciario",
+        "lava-jato",
+        "politica",
+        "legislativo"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "person--walter-delgatti-neto",
+      "type": "person",
+      "url": "/demos/pessoas/walter-delgatti-neto",
+      "dataUrl": "/demos-data/notes/person--walter-delgatti-neto.json",
+      "title": "Walter Delgatti Neto (Hacker de Araraquara)",
+      "description": "Linha do tempo e fontes públicas sobre Walter Delgatti Neto, conhecido como “hacker de Araraquara”.",
+      "mapLabel": "walter-delgatti",
+      "seed": false,
+      "seedId": "person--jose-antonio-dias-toffoli",
+      "tags": [
+        "hacking",
+        "cibercrime",
+        "justica",
+        "politica",
+        "cnj",
+        "telegram"
+      ],
+      "primaryRoles": [
+        "role--hacker"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": "case--atentado-contra-jair-bolsonaro",
+      "target": "person--adelio-bispo-de-oliveira",
+      "kind": "link",
+      "count": 2,
+      "sections": {
+        "Por que está no mapa": 1,
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--atentado-contra-jair-bolsonaro",
+      "target": "person--adelio-bispo-de-oliveira",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--atentado-contra-jair-bolsonaro",
+      "target": "person--jair-messias-bolsonaro",
+      "kind": "link",
+      "count": 2,
+      "sections": {
+        "Perguntas abertas (hipóteses)": 1,
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--atentado-contra-jair-bolsonaro",
+      "target": "person--jair-messias-bolsonaro",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--operacao-lava-jato",
+      "target": "case--operacao-spoofing",
+      "kind": "link",
+      "count": 5,
+      "sections": {
+        "Casos associados": 1,
+        "Linha do tempo": 2,
+        "Eventos": 2
+      }
+    },
+    {
+      "source": "case--operacao-lava-jato",
+      "target": "case--operacao-spoofing",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos associados": 1
+      }
+    },
+    {
+      "source": "case--operacao-lava-jato",
+      "target": "case--sitio-de-atibaia",
+      "kind": "link",
+      "count": 3,
+      "sections": {
+        "Perguntas abertas (hipóteses)": 1,
+        "Casos associados": 1,
+        "Linha do tempo": 1
+      }
+    },
+    {
+      "source": "case--operacao-lava-jato",
+      "target": "case--sitio-de-atibaia",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos associados": 1
+      }
+    },
+    {
+      "source": "case--operacao-lava-jato",
+      "target": "case--triplex-do-guaruja",
+      "kind": "link",
+      "count": 2,
+      "sections": {
+        "Casos associados": 1,
+        "Linha do tempo": 1
+      }
+    },
+    {
+      "source": "case--operacao-lava-jato",
+      "target": "case--triplex-do-guaruja",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos associados": 1
+      }
+    },
+    {
+      "source": "case--operacao-lava-jato",
+      "target": "person--jose-antonio-dias-toffoli",
+      "kind": "link",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--operacao-lava-jato",
+      "target": "person--jose-antonio-dias-toffoli",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--operacao-lava-jato",
+      "target": "person--luiz-edson-fachin",
+      "kind": "link",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--operacao-lava-jato",
+      "target": "person--luiz-edson-fachin",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--operacao-lava-jato",
+      "target": "person--luiz-inacio-lula-da-silva",
+      "kind": "link",
+      "count": 2,
+      "sections": {
+        "Por que está no mapa": 1,
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--operacao-lava-jato",
+      "target": "person--luiz-inacio-lula-da-silva",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--operacao-lava-jato",
+      "target": "person--sergio-fernando-moro",
+      "kind": "link",
+      "count": 2,
+      "sections": {
+        "Perguntas abertas (hipóteses)": 1,
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--operacao-lava-jato",
+      "target": "person--sergio-fernando-moro",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--operacao-spoofing",
+      "target": "case--operacao-lava-jato",
+      "kind": "link",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "case--operacao-spoofing",
+      "target": "case--operacao-lava-jato",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "case--operacao-spoofing",
+      "target": "person--jose-antonio-dias-toffoli",
+      "kind": "link",
+      "count": 2,
+      "sections": {
+        "Por que está no mapa": 1,
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--operacao-spoofing",
+      "target": "person--jose-antonio-dias-toffoli",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--operacao-spoofing",
+      "target": "person--luiz-inacio-lula-da-silva",
+      "kind": "link",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--operacao-spoofing",
+      "target": "person--luiz-inacio-lula-da-silva",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--operacao-spoofing",
+      "target": "person--sergio-fernando-moro",
+      "kind": "link",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--operacao-spoofing",
+      "target": "person--sergio-fernando-moro",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--operacao-spoofing",
+      "target": "person--walter-delgatti-neto",
+      "kind": "link",
+      "count": 5,
+      "sections": {
+        "Situação atual": 1,
+        "Perguntas abertas (hipóteses)": 2,
+        "Linha do tempo": 1,
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--operacao-spoofing",
+      "target": "person--walter-delgatti-neto",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--sitio-de-atibaia",
+      "target": "case--operacao-lava-jato",
+      "kind": "link",
+      "count": 1,
+      "sections": {
+        "Por que está no mapa": 1
+      }
+    },
+    {
+      "source": "case--sitio-de-atibaia",
+      "target": "person--luiz-edson-fachin",
+      "kind": "link",
+      "count": 2,
+      "sections": {
+        "Perguntas abertas (hipóteses)": 1,
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--sitio-de-atibaia",
+      "target": "person--luiz-edson-fachin",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--sitio-de-atibaia",
+      "target": "person--luiz-inacio-lula-da-silva",
+      "kind": "link",
+      "count": 2,
+      "sections": {
+        "Por que está no mapa": 1,
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--sitio-de-atibaia",
+      "target": "person--luiz-inacio-lula-da-silva",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--triplex-do-guaruja",
+      "target": "case--operacao-lava-jato",
+      "kind": "link",
+      "count": 1,
+      "sections": {
+        "Por que está no mapa": 1
+      }
+    },
+    {
+      "source": "case--triplex-do-guaruja",
+      "target": "person--luiz-edson-fachin",
+      "kind": "link",
+      "count": 2,
+      "sections": {
+        "Perguntas abertas (hipóteses)": 1,
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--triplex-do-guaruja",
+      "target": "person--luiz-edson-fachin",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--triplex-do-guaruja",
+      "target": "person--luiz-inacio-lula-da-silva",
+      "kind": "link",
+      "count": 2,
+      "sections": {
+        "Por que está no mapa": 1,
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--triplex-do-guaruja",
+      "target": "person--luiz-inacio-lula-da-silva",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--triplex-do-guaruja",
+      "target": "person--sergio-fernando-moro",
+      "kind": "link",
+      "count": 7,
+      "sections": {
+        "Perguntas abertas (hipóteses)": 1,
+        "Resumo": 1,
+        "Linha do tempo": 2,
+        "Eventos": 2,
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--triplex-do-guaruja",
+      "target": "person--sergio-fernando-moro",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "org--central-unica-dos-trabalhadores-cut",
+      "target": "person--luiz-inacio-lula-da-silva",
+      "kind": "link",
+      "count": 2,
+      "sections": {
+        "Por que está no mapa": 1,
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "org--central-unica-dos-trabalhadores-cut",
+      "target": "person--luiz-inacio-lula-da-silva",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "org--partido-dos-trabalhadores-pt",
+      "target": "person--luiz-inacio-lula-da-silva",
+      "kind": "link",
+      "count": 2,
+      "sections": {
+        "Por que está no mapa": 1,
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "org--partido-dos-trabalhadores-pt",
+      "target": "person--luiz-inacio-lula-da-silva",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "org--sindicato-dos-metalurgicos-do-abc",
+      "target": "org--central-unica-dos-trabalhadores-cut",
+      "kind": "link",
+      "count": 1,
+      "sections": {
+        "Organizações relacionadas": 1
+      }
+    },
+    {
+      "source": "org--sindicato-dos-metalurgicos-do-abc",
+      "target": "org--central-unica-dos-trabalhadores-cut",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Organizações relacionadas": 1
+      }
+    },
+    {
+      "source": "org--sindicato-dos-metalurgicos-do-abc",
+      "target": "org--partido-dos-trabalhadores-pt",
+      "kind": "link",
+      "count": 1,
+      "sections": {
+        "Organizações relacionadas": 1
+      }
+    },
+    {
+      "source": "org--sindicato-dos-metalurgicos-do-abc",
+      "target": "org--partido-dos-trabalhadores-pt",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Organizações relacionadas": 1
+      }
+    },
+    {
+      "source": "org--sindicato-dos-metalurgicos-do-abc",
+      "target": "person--luiz-inacio-lula-da-silva",
+      "kind": "link",
+      "count": 2,
+      "sections": {
+        "Por que está no mapa": 1,
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "org--sindicato-dos-metalurgicos-do-abc",
+      "target": "person--luiz-inacio-lula-da-silva",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "person--adelio-bispo-de-oliveira",
+      "target": "case--atentado-contra-jair-bolsonaro",
+      "kind": "link",
+      "count": 3,
+      "sections": {
+        "Perguntas abertas (hipóteses)": 2,
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--adelio-bispo-de-oliveira",
+      "target": "case--atentado-contra-jair-bolsonaro",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--carla-zambelli-salgado-de-oliveira",
+      "target": "person--jair-messias-bolsonaro",
+      "kind": "link",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "person--carla-zambelli-salgado-de-oliveira",
+      "target": "person--jair-messias-bolsonaro",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "person--carla-zambelli-salgado-de-oliveira",
+      "target": "person--jose-antonio-dias-toffoli",
+      "kind": "link",
+      "count": 2,
+      "sections": {
+        "Intro": 1,
+        "Por que está no mapa": 1
+      }
+    },
+    {
+      "source": "person--carla-zambelli-salgado-de-oliveira",
+      "target": "person--sergio-fernando-moro",
+      "kind": "link",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "person--carla-zambelli-salgado-de-oliveira",
+      "target": "person--sergio-fernando-moro",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "person--carla-zambelli-salgado-de-oliveira",
+      "target": "person--walter-delgatti-neto",
+      "kind": "link",
+      "count": 3,
+      "sections": {
+        "Intro": 1,
+        "Por que está no mapa": 1,
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "person--carla-zambelli-salgado-de-oliveira",
+      "target": "person--walter-delgatti-neto",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "person--jair-messias-bolsonaro",
+      "target": "case--atentado-contra-jair-bolsonaro",
+      "kind": "link",
+      "count": 3,
+      "sections": {
+        "Intro": 1,
+        "Por que está no mapa": 1,
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--jair-messias-bolsonaro",
+      "target": "case--atentado-contra-jair-bolsonaro",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--jair-messias-bolsonaro",
+      "target": "person--adelio-bispo-de-oliveira",
+      "kind": "link",
+      "count": 1,
+      "sections": {
+        "Por que está no mapa": 1
+      }
+    },
+    {
+      "source": "person--jose-antonio-dias-toffoli",
+      "target": "case--operacao-lava-jato",
+      "kind": "link",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--jose-antonio-dias-toffoli",
+      "target": "case--operacao-lava-jato",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--jose-antonio-dias-toffoli",
+      "target": "case--operacao-spoofing",
+      "kind": "link",
+      "count": 11,
+      "sections": {
+        "Por que está no mapa": 1,
+        "Perguntas abertas (hipóteses)": 2,
+        "Resumo": 2,
+        "Linha do tempo": 2,
+        "Eventos": 2,
+        "Casos relacionados": 1,
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "person--jose-antonio-dias-toffoli",
+      "target": "case--operacao-spoofing",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--jose-antonio-dias-toffoli",
+      "target": "org--partido-dos-trabalhadores-pt",
+      "kind": "link",
+      "count": 1,
+      "sections": {
+        "Organizações relacionadas": 1
+      }
+    },
+    {
+      "source": "person--jose-antonio-dias-toffoli",
+      "target": "org--partido-dos-trabalhadores-pt",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Organizações relacionadas": 1
+      }
+    },
+    {
+      "source": "person--jose-antonio-dias-toffoli",
+      "target": "person--luiz-inacio-lula-da-silva",
+      "kind": "link",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "person--jose-antonio-dias-toffoli",
+      "target": "person--luiz-inacio-lula-da-silva",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "person--jose-antonio-dias-toffoli",
+      "target": "person--sergio-fernando-moro",
+      "kind": "link",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "person--jose-antonio-dias-toffoli",
+      "target": "person--sergio-fernando-moro",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "person--luiz-edson-fachin",
+      "target": "case--operacao-lava-jato",
+      "kind": "link",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--luiz-edson-fachin",
+      "target": "case--operacao-lava-jato",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--luiz-edson-fachin",
+      "target": "case--sitio-de-atibaia",
+      "kind": "link",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--luiz-edson-fachin",
+      "target": "case--sitio-de-atibaia",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--luiz-edson-fachin",
+      "target": "case--triplex-do-guaruja",
+      "kind": "link",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--luiz-edson-fachin",
+      "target": "case--triplex-do-guaruja",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--luiz-edson-fachin",
+      "target": "person--luiz-inacio-lula-da-silva",
+      "kind": "link",
+      "count": 1,
+      "sections": {
+        "Por que está no mapa": 1
+      }
+    },
+    {
+      "source": "person--luiz-inacio-lula-da-silva",
+      "target": "case--operacao-lava-jato",
+      "kind": "link",
+      "count": 3,
+      "sections": {
+        "Perguntas abertas (hipóteses)": 1,
+        "Linha do tempo": 1,
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--luiz-inacio-lula-da-silva",
+      "target": "case--operacao-lava-jato",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--luiz-inacio-lula-da-silva",
+      "target": "case--operacao-spoofing",
+      "kind": "link",
+      "count": 3,
+      "sections": {
+        "Linha do tempo": 1,
+        "Eventos": 1,
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--luiz-inacio-lula-da-silva",
+      "target": "case--operacao-spoofing",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--luiz-inacio-lula-da-silva",
+      "target": "case--sitio-de-atibaia",
+      "kind": "link",
+      "count": 2,
+      "sections": {
+        "Perguntas abertas (hipóteses)": 1,
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--luiz-inacio-lula-da-silva",
+      "target": "case--sitio-de-atibaia",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--luiz-inacio-lula-da-silva",
+      "target": "case--triplex-do-guaruja",
+      "kind": "link",
+      "count": 2,
+      "sections": {
+        "Perguntas abertas (hipóteses)": 1,
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--luiz-inacio-lula-da-silva",
+      "target": "case--triplex-do-guaruja",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--luiz-inacio-lula-da-silva",
+      "target": "org--central-unica-dos-trabalhadores-cut",
+      "kind": "link",
+      "count": 3,
+      "sections": {
+        "Perguntas abertas (hipóteses)": 1,
+        "Linha do tempo": 1,
+        "Organizações e vínculos": 1
+      }
+    },
+    {
+      "source": "person--luiz-inacio-lula-da-silva",
+      "target": "org--partido-dos-trabalhadores-pt",
+      "kind": "link",
+      "count": 3,
+      "sections": {
+        "Perguntas abertas (hipóteses)": 1,
+        "Linha do tempo": 1,
+        "Organizações e vínculos": 1
+      }
+    },
+    {
+      "source": "person--luiz-inacio-lula-da-silva",
+      "target": "org--sindicato-dos-metalurgicos-do-abc",
+      "kind": "link",
+      "count": 3,
+      "sections": {
+        "Perguntas abertas (hipóteses)": 1,
+        "Linha do tempo": 1,
+        "Organizações e vínculos": 1
+      }
+    },
+    {
+      "source": "person--luiz-inacio-lula-da-silva",
+      "target": "person--jose-antonio-dias-toffoli",
+      "kind": "link",
+      "count": 2,
+      "sections": {
+        "Linha do tempo": 1,
+        "Eventos": 1
+      }
+    },
+    {
+      "source": "person--luiz-inacio-lula-da-silva",
+      "target": "person--luiz-edson-fachin",
+      "kind": "link",
+      "count": 1,
+      "sections": {
+        "Perguntas abertas (hipóteses)": 1
+      }
+    },
+    {
+      "source": "person--luiz-inacio-lula-da-silva",
+      "target": "person--sergio-fernando-moro",
+      "kind": "link",
+      "count": 4,
+      "sections": {
+        "Perguntas abertas (hipóteses)": 1,
+        "Resumo": 1,
+        "Eventos": 2
+      }
+    },
+    {
+      "source": "person--sergio-fernando-moro",
+      "target": "case--operacao-lava-jato",
+      "kind": "link",
+      "count": 2,
+      "sections": {
+        "Intro": 1,
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--sergio-fernando-moro",
+      "target": "case--operacao-lava-jato",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--sergio-fernando-moro",
+      "target": "case--operacao-spoofing",
+      "kind": "link",
+      "count": 5,
+      "sections": {
+        "Linha do tempo": 2,
+        "Eventos": 2,
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--sergio-fernando-moro",
+      "target": "case--operacao-spoofing",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--sergio-fernando-moro",
+      "target": "case--triplex-do-guaruja",
+      "kind": "link",
+      "count": 4,
+      "sections": {
+        "Intro": 1,
+        "Por que está no mapa": 1,
+        "Perguntas abertas (hipóteses)": 1,
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--sergio-fernando-moro",
+      "target": "case--triplex-do-guaruja",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--sergio-fernando-moro",
+      "target": "person--jose-antonio-dias-toffoli",
+      "kind": "link",
+      "count": 2,
+      "sections": {
+        "Linha do tempo": 1,
+        "Eventos": 1
+      }
+    },
+    {
+      "source": "person--sergio-fernando-moro",
+      "target": "person--luiz-inacio-lula-da-silva",
+      "kind": "link",
+      "count": 3,
+      "sections": {
+        "Intro": 1,
+        "Por que está no mapa": 1,
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "person--sergio-fernando-moro",
+      "target": "person--luiz-inacio-lula-da-silva",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "person--walter-delgatti-neto",
+      "target": "case--operacao-spoofing",
+      "kind": "link",
+      "count": 6,
+      "sections": {
+        "Intro": 1,
+        "Situação atual": 1,
+        "Por que está no mapa": 1,
+        "Perguntas abertas (hipóteses)": 1,
+        "Resumo": 1,
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--walter-delgatti-neto",
+      "target": "case--operacao-spoofing",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--walter-delgatti-neto",
+      "target": "person--carla-zambelli-salgado-de-oliveira",
+      "kind": "link",
+      "count": 5,
+      "sections": {
+        "Perguntas abertas (hipóteses)": 1,
+        "Linha do tempo": 3,
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "person--walter-delgatti-neto",
+      "target": "person--carla-zambelli-salgado-de-oliveira",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "person--walter-delgatti-neto",
+      "target": "person--jair-messias-bolsonaro",
+      "kind": "link",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "person--walter-delgatti-neto",
+      "target": "person--jair-messias-bolsonaro",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "person--walter-delgatti-neto",
+      "target": "person--jose-antonio-dias-toffoli",
+      "kind": "link",
+      "count": 2,
+      "sections": {
+        "Intro": 1,
+        "Por que está no mapa": 1
+      }
+    },
+    {
+      "source": "person--walter-delgatti-neto",
+      "target": "person--sergio-fernando-moro",
+      "kind": "link",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "person--walter-delgatti-neto",
+      "target": "person--sergio-fernando-moro",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    }
+  ]
+}

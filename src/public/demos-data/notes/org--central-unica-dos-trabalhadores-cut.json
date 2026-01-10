@@ -1,0 +1,114 @@
+{
+  "schema": "skepvox--demos-note",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/organizacoes/central-unica-dos-trabalhadores-cut.md",
+    "sha256": "64d72d5487057ffc6e76722b408e85f34f765a02189509e3e31ea899818359c9"
+  },
+  "id": "org--central-unica-dos-trabalhadores-cut",
+  "type": "org",
+  "url": "/demos/organizacoes/central-unica-dos-trabalhadores-cut",
+  "title": "Central Única dos Trabalhadores (CUT)",
+  "description": "Resumo factual e fontes públicas sobre a Central Única dos Trabalhadores (CUT).",
+  "updatedAt": "2026-01-09",
+  "demos": {
+    "id": "org--central-unica-dos-trabalhadores-cut",
+    "type": "org",
+    "mapLabel": "CUT",
+    "seed": "no",
+    "seed-id": "person--luiz-inacio-lula-da-silva",
+    "target-questions": [
+      "q--person-luiz-inacio-lula-da-silva-rede-influencia-timing-desfechos"
+    ],
+    "country": "BR",
+    "identifiers": {
+      "wikidata": "Q365154",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Central_%C3%9Anica_dos_Trabalhadores"
+    },
+    "aliases": [
+      "CUT",
+      "Central Única dos Trabalhadores",
+      "Central Unica dos Trabalhadores"
+    ],
+    "tags": [
+      "central-sindical",
+      "brasil"
+    ]
+  },
+  "frontmatter": {
+    "title": "Central Única dos Trabalhadores (CUT)",
+    "description": "Resumo factual e fontes públicas sobre a Central Única dos Trabalhadores (CUT).",
+    "demos": {
+      "id": "org--central-unica-dos-trabalhadores-cut",
+      "type": "org",
+      "mapLabel": "CUT",
+      "seed": "no",
+      "seed-id": "person--luiz-inacio-lula-da-silva",
+      "target-questions": [
+        "q--person-luiz-inacio-lula-da-silva-rede-influencia-timing-desfechos"
+      ],
+      "country": "BR",
+      "identifiers": {
+        "wikidata": "Q365154",
+        "wikipedia": "https://pt.wikipedia.org/wiki/Central_%C3%9Anica_dos_Trabalhadores"
+      },
+      "aliases": [
+        "CUT",
+        "Central Única dos Trabalhadores",
+        "Central Unica dos Trabalhadores"
+      ],
+      "tags": [
+        "central-sindical",
+        "brasil"
+      ]
+    }
+  },
+  "frontmatterYaml": "title: 'Central Única dos Trabalhadores (CUT)'\ndescription: 'Resumo factual e fontes públicas sobre a Central Única dos Trabalhadores (CUT).'\ndemos:\n  id: org--central-unica-dos-trabalhadores-cut\n  type: org\n  mapLabel: CUT\n  seed: no\n  seed-id: person--luiz-inacio-lula-da-silva\n  target-questions:\n    - q--person-luiz-inacio-lula-da-silva-rede-influencia-timing-desfechos\n  country: BR\n  identifiers:\n    wikidata: Q365154\n    wikipedia: https://pt.wikipedia.org/wiki/Central_%C3%9Anica_dos_Trabalhadores\n  aliases:\n    - CUT\n    - Central Única dos Trabalhadores\n    - Central Unica dos Trabalhadores\n  tags:\n    - central-sindical\n    - brasil",
+  "bodyMarkdown": "# Central Única dos Trabalhadores (CUT)\n\n_Última atualização: 2026-01-09. ID Skepvox: `org--central-unica-dos-trabalhadores-cut`._\n\n## Situação atual\n\n- Tipo: central sindical brasileira (em atividade). Fonte: [Wikidata (Q365154)](https://www.wikidata.org/wiki/Q365154).\n- Sede (cidade, segundo Wikidata): Brasil — São Paulo — São Paulo. Fonte: [Wikidata (Q365154)](https://www.wikidata.org/wiki/Q365154).\n\n## Por que está no mapa\n\n- Conexão de origem: rede inicial de [Luiz Inácio Lula da Silva (Lula)](/demos/pessoas/luiz-inacio-lula-da-silva) (semente).\n- Perguntas-alvo (rastreamento): `q--person-luiz-inacio-lula-da-silva-rede-influencia-timing-desfechos`.\n- Evidência mínima: participação atribuída a Lula na fundação (registro biográfico) e conexão histórica com o sindicalismo do ABC. Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).\n- Fontes‑alvo (próximos passos): atas de congresso/fundação, registros sindicais e documentação histórica (triangulação obrigatória).\n\n## Resumo\n\nCentral sindical brasileira cuja fundação é citada em biografias e registros públicos.\n\n## Linha do tempo\n\n### 1983–1989 — Fundação e organização inicial\n\n- 1983-08-28 — Fundação da CUT (São Bernardo do Campo, SP), segundo biografia enciclopédica. Status: `documented`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Central_%C3%9Anica_dos_Trabalhadores).\n- 1983-08 — Participação de Lula na fundação (registro biográfico). Status: `reported`. Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).\n\n## Eventos\n\n### 1983–1989\n\n- 1983-08-28 — Fundação da CUT (São Bernardo do Campo, SP), segundo biografia enciclopédica. Status: `documented`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Central_%C3%9Anica_dos_Trabalhadores).\n- 1983-08 — Participação de Lula na fundação (registro biográfico). Status: `reported`. Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).\n\n## Pessoas relacionadas\n\n- [Luiz Inácio Lula da Silva (Lula)](/demos/pessoas/luiz-inacio-lula-da-silva) — participação na fundação (segundo biografia). Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).\n\n## Fontes\n\n- Planalto — Biografia do Presidente da República (acesso em 2026-01-09): https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente\n- Wikipédia — “Central Única dos Trabalhadores” (acesso em 2026-01-09): https://pt.wikipedia.org/wiki/Central_%C3%9Anica_dos_Trabalhadores\n",
+  "outboundLinks": [
+    {
+      "text": "Luiz Inácio Lula da Silva (Lula)",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    },
+    {
+      "text": "Luiz Inácio Lula da Silva (Lula)",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    }
+  ],
+  "outboundLinksBySection": [
+    {
+      "section": "Por que está no mapa",
+      "links": [
+        {
+          "text": "Luiz Inácio Lula da Silva (Lula)",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        }
+      ]
+    },
+    {
+      "section": "Pessoas relacionadas",
+      "links": [
+        {
+          "text": "Luiz Inácio Lula da Silva (Lula)",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        }
+      ]
+    }
+  ],
+  "relations": {
+    "cases": [],
+    "people": [
+      {
+        "text": "Luiz Inácio Lula da Silva (Lula)",
+        "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+      }
+    ],
+    "organizations": []
+  },
+  "relationSectionTitles": {
+    "cases": null,
+    "people": "Pessoas relacionadas",
+    "organizations": null
+  },
+  "openQuestions": []
+}

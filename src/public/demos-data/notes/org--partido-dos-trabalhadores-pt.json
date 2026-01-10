@@ -1,0 +1,112 @@
+{
+  "schema": "skepvox--demos-note",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/organizacoes/partido-dos-trabalhadores-pt.md",
+    "sha256": "5f5c2fb86c37058d392369a4405c815030bd26e0eca6144030f986ab9db3e107"
+  },
+  "id": "org--partido-dos-trabalhadores-pt",
+  "type": "org",
+  "url": "/demos/organizacoes/partido-dos-trabalhadores-pt",
+  "title": "Partido dos Trabalhadores (PT)",
+  "description": "Resumo factual e fontes públicas sobre o Partido dos Trabalhadores (PT).",
+  "updatedAt": "2026-01-09",
+  "demos": {
+    "id": "org--partido-dos-trabalhadores-pt",
+    "type": "org",
+    "mapLabel": "PT",
+    "seed": "no",
+    "seed-id": "person--luiz-inacio-lula-da-silva",
+    "target-questions": [
+      "q--person-luiz-inacio-lula-da-silva-rede-influencia-timing-desfechos"
+    ],
+    "country": "BR",
+    "identifiers": {
+      "wikidata": "Q657089",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Partido_dos_Trabalhadores"
+    },
+    "aliases": [
+      "PT",
+      "Partido dos Trabalhadores"
+    ],
+    "tags": [
+      "partido-politico",
+      "brasil"
+    ]
+  },
+  "frontmatter": {
+    "title": "Partido dos Trabalhadores (PT)",
+    "description": "Resumo factual e fontes públicas sobre o Partido dos Trabalhadores (PT).",
+    "demos": {
+      "id": "org--partido-dos-trabalhadores-pt",
+      "type": "org",
+      "mapLabel": "PT",
+      "seed": "no",
+      "seed-id": "person--luiz-inacio-lula-da-silva",
+      "target-questions": [
+        "q--person-luiz-inacio-lula-da-silva-rede-influencia-timing-desfechos"
+      ],
+      "country": "BR",
+      "identifiers": {
+        "wikidata": "Q657089",
+        "wikipedia": "https://pt.wikipedia.org/wiki/Partido_dos_Trabalhadores"
+      },
+      "aliases": [
+        "PT",
+        "Partido dos Trabalhadores"
+      ],
+      "tags": [
+        "partido-politico",
+        "brasil"
+      ]
+    }
+  },
+  "frontmatterYaml": "title: 'Partido dos Trabalhadores (PT)'\ndescription: 'Resumo factual e fontes públicas sobre o Partido dos Trabalhadores (PT).'\ndemos:\n  id: org--partido-dos-trabalhadores-pt\n  type: org\n  mapLabel: PT\n  seed: no\n  seed-id: person--luiz-inacio-lula-da-silva\n  target-questions:\n    - q--person-luiz-inacio-lula-da-silva-rede-influencia-timing-desfechos\n  country: BR\n  identifiers:\n    wikidata: Q657089\n    wikipedia: https://pt.wikipedia.org/wiki/Partido_dos_Trabalhadores\n  aliases:\n    - PT\n    - Partido dos Trabalhadores\n  tags:\n    - partido-politico\n    - brasil",
+  "bodyMarkdown": "# Partido dos Trabalhadores (PT)\n\n_Última atualização: 2026-01-09. ID Skepvox: `org--partido-dos-trabalhadores-pt`._\n\n## Situação atual\n\n- Tipo: partido político brasileiro (em atividade). Fonte: [Wikidata (Q657089)](https://www.wikidata.org/wiki/Q657089).\n- Sede (cidade, segundo Wikidata): Brasil — São Paulo — São Paulo. Fonte: [Wikidata (Q657089)](https://www.wikidata.org/wiki/Q657089).\n\n## Por que está no mapa\n\n- Conexão de origem: rede inicial de [Luiz Inácio Lula da Silva (Lula)](/demos/pessoas/luiz-inacio-lula-da-silva) (semente).\n- Perguntas-alvo (rastreamento): `q--person-luiz-inacio-lula-da-silva-rede-influencia-timing-desfechos`.\n- Evidência mínima: é citado como partido fundado em 1980 e ligado à trajetória sindical/política de Lula (registro biográfico). Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).\n- Fontes‑alvo (próximos passos): manifesto/ata de fundação, registros eleitorais e documentos partidários relevantes (sempre com triangulação).\n\n## Resumo\n\nPartido político brasileiro fundado em 1980. Fonte (registro biográfico): [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).\n\n## Linha do tempo\n\n### 1980–1989 — Fundação e consolidação inicial\n\n- 1980-02-10 — Fundação do PT (segundo registro biográfico e biografia enciclopédica). Status: `documented`. Fontes: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente), [Wikipédia](https://pt.wikipedia.org/wiki/Partido_dos_Trabalhadores).\n- 1982 — Expansão/atuação nacional citada em registro biográfico (PT presente em “quase todo o território nacional”). Status: `reported`. Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).\n\n## Eventos\n\n### 1980–1989\n\n- 1980-02-10 — Fundação do PT (segundo registro biográfico e biografia enciclopédica). Status: `documented`. Fontes: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente), [Wikipédia](https://pt.wikipedia.org/wiki/Partido_dos_Trabalhadores).\n- 1982 — Expansão/atuação nacional citada em registro biográfico (PT presente em “quase todo o território nacional”). Status: `reported`. Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).\n\n## Pessoas relacionadas\n\n- [Luiz Inácio Lula da Silva (Lula)](/demos/pessoas/luiz-inacio-lula-da-silva) — citado como um dos fundadores. Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).\n\n## Fontes\n\n- Planalto — Biografia do Presidente da República (acesso em 2026-01-09): https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente\n- Wikipédia — “Partido dos Trabalhadores” (acesso em 2026-01-09): https://pt.wikipedia.org/wiki/Partido_dos_Trabalhadores\n",
+  "outboundLinks": [
+    {
+      "text": "Luiz Inácio Lula da Silva (Lula)",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    },
+    {
+      "text": "Luiz Inácio Lula da Silva (Lula)",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    }
+  ],
+  "outboundLinksBySection": [
+    {
+      "section": "Por que está no mapa",
+      "links": [
+        {
+          "text": "Luiz Inácio Lula da Silva (Lula)",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        }
+      ]
+    },
+    {
+      "section": "Pessoas relacionadas",
+      "links": [
+        {
+          "text": "Luiz Inácio Lula da Silva (Lula)",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        }
+      ]
+    }
+  ],
+  "relations": {
+    "cases": [],
+    "people": [
+      {
+        "text": "Luiz Inácio Lula da Silva (Lula)",
+        "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+      }
+    ],
+    "organizations": []
+  },
+  "relationSectionTitles": {
+    "cases": null,
+    "people": "Pessoas relacionadas",
+    "organizations": null
+  },
+  "openQuestions": []
+}

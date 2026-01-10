@@ -1,0 +1,151 @@
+{
+  "schema": "skepvox--demos-note",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/pessoas/jair-messias-bolsonaro.md",
+    "sha256": "488c78a501f30db5263f01176df56245ad859b39e000f84dfe5bba6b4e3bf403"
+  },
+  "id": "person--jair-messias-bolsonaro",
+  "type": "person",
+  "url": "/demos/pessoas/jair-messias-bolsonaro",
+  "title": "Jair Messias Bolsonaro",
+  "description": "Linha do tempo e fontes públicas sobre Jair Messias Bolsonaro.",
+  "updatedAt": "2026-01-09",
+  "demos": {
+    "id": "person--jair-messias-bolsonaro",
+    "type": "person",
+    "mapLabel": "jair-bolsonaro",
+    "portrait": "jair-messias-bolsonaro.png",
+    "seed": "no",
+    "seed-id": "person--adelio-bispo-de-oliveira",
+    "target-questions": [
+      "q--case-atentado-contra-jair-bolsonaro-instrumentalizacao-politica-influencia-apuracao"
+    ],
+    "country": "BR",
+    "identifiers": {
+      "wikidata": "Q10304982",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Jair_Bolsonaro"
+    },
+    "aliases": [
+      "Jair Bolsonaro"
+    ],
+    "tags": [
+      "politica",
+      "executivo",
+      "brasil"
+    ],
+    "primaryRoles": [
+      "role--presidente-do-brasil"
+    ]
+  },
+  "frontmatter": {
+    "title": "Jair Messias Bolsonaro",
+    "description": "Linha do tempo e fontes públicas sobre Jair Messias Bolsonaro.",
+    "demos": {
+      "id": "person--jair-messias-bolsonaro",
+      "type": "person",
+      "mapLabel": "jair-bolsonaro",
+      "portrait": "jair-messias-bolsonaro.png",
+      "seed": "no",
+      "seed-id": "person--adelio-bispo-de-oliveira",
+      "target-questions": [
+        "q--case-atentado-contra-jair-bolsonaro-instrumentalizacao-politica-influencia-apuracao"
+      ],
+      "country": "BR",
+      "identifiers": {
+        "wikidata": "Q10304982",
+        "wikipedia": "https://pt.wikipedia.org/wiki/Jair_Bolsonaro"
+      },
+      "aliases": [
+        "Jair Bolsonaro"
+      ],
+      "tags": [
+        "politica",
+        "executivo",
+        "brasil"
+      ],
+      "primaryRoles": [
+        "role--presidente-do-brasil"
+      ]
+    }
+  },
+  "frontmatterYaml": "title: 'Jair Messias Bolsonaro'\ndescription: 'Linha do tempo e fontes públicas sobre Jair Messias Bolsonaro.'\ndemos:\n  id: person--jair-messias-bolsonaro\n  type: person\n  mapLabel: jair-bolsonaro\n  portrait: jair-messias-bolsonaro.png\n  seed: no\n  seed-id: person--adelio-bispo-de-oliveira\n  target-questions:\n    - q--case-atentado-contra-jair-bolsonaro-instrumentalizacao-politica-influencia-apuracao\n  country: BR\n  identifiers:\n    wikidata: Q10304982\n    wikipedia: https://pt.wikipedia.org/wiki/Jair_Bolsonaro\n  aliases:\n    - Jair Bolsonaro\n  tags:\n    - politica\n    - executivo\n    - brasil\n  primaryRoles:\n    - role--presidente-do-brasil",
+  "bodyMarkdown": "# Jair Messias Bolsonaro\n\n::: info Nota editorial (Skepvox)\nEsta página, por enquanto, existe por causa da conexão direta com o caso\n[Atentado contra Jair Bolsonaro](/demos/casos/atentado-contra-jair-bolsonaro).\nO objetivo é registrar fatos públicos com linguagem neutra, sem “fechar” hipóteses.\n:::\n\n_Última atualização: 2026-01-09. ID Skepvox: `person--jair-messias-bolsonaro`._\n\n<DemosPortraitSvg />\n\n## Situação atual\n\n- Cargo: ex-presidente do Brasil (2019–2023) (segundo biografia). Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Jair_Bolsonaro).\n- Localização (residência, segundo Wikidata): Brasil — Rio de Janeiro — Rio de Janeiro. Fonte: [Wikidata (Q10304982)](https://www.wikidata.org/wiki/Q10304982).\n- Vínculo institucional atual: não documentado nesta nota (a expandir somente com conexões documentadas).\n\n## Por que está no mapa\n\n- Conexão de origem: semente [Adélio Bispo de Oliveira](/demos/pessoas/adelio-bispo-de-oliveira) via o caso [Atentado contra Jair Bolsonaro](/demos/casos/atentado-contra-jair-bolsonaro).\n- Perguntas-alvo (rastreamento): `q--case-atentado-contra-jair-bolsonaro-instrumentalizacao-politica-influencia-apuracao`.\n- Evidência mínima: foi vítima de um ataque com faca em 2018 durante ato de\n  campanha (segundo cobertura). Fonte: [G1](https://g1.globo.com/mg/zona-da-mata/noticia/2018/09/06/ato-de-campanha-de-bolsonaro-em-juiz-de-fora-e-interrompido-apos-tumulto.ghtml).\n- Fontes-alvo (próximos passos): documentos e decisões integrais relacionados\n  ao caso (inquérito/decisão/laudos), e cronologia verificável de eventos\n  relevantes para o “mapa de influência” (sem expandir aleatoriamente).\n\n## Perguntas abertas (hipóteses)\n\n- `q--person-jair-messias-bolsonaro-efeitos-politicos-falhas-seguranca-atentado` — Pergunta: falhas de segurança e resposta institucional ao ataque criaram efeitos políticos relevantes (curto e longo prazo)? Estado: `aberta`.\n  - Hipótese: falhas de segurança e/ou resposta institucional tiveram efeito político relevante (curto e longo prazo).\n  - Contra‑hipótese: os efeitos políticos decorreram principalmente de dinâmica eleitoral e de campanha, sem evidência pública de que falhas/resposta institucional foram determinantes.\n  - Próximos passos: cronologia verificável; documentos oficiais; análise comparativa com protocolos e casos análogos.\n  - Notas que avançam: nenhuma ainda.\n\n## Identidade (básico)\n\n- Nome: Jair Messias Bolsonaro. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Jair_Bolsonaro).\n- Nascimento: 21-03-1955, Glicério (SP), Brasil (segundo Wikipédia). Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Jair_Bolsonaro).\n\n## Linha do tempo\n\n### 1955–1988 — Origem e carreira militar\n\n- 1955-03-21 — Nascimento. Status: `documented`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Jair_Bolsonaro).\n- 1977 — Formatura na Academia Militar das Agulhas Negras (AMAN), segundo biografia. Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Jair_Bolsonaro).\n- 1977–1988 — Carreira como oficial do Exército (segundo biografia). Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Jair_Bolsonaro).\n\n### 1988–2018 — Carreira política (Legislativo)\n\n- 1988 — Eleito vereador no Rio de Janeiro (segundo biografia). Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Jair_Bolsonaro).\n- 1991–2018 — Mandatos como deputado federal pelo Rio de Janeiro (segundo biografia). Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Jair_Bolsonaro).\n- 2018-09-06 — Sofre ataque com faca durante ato de campanha em Juiz de Fora (MG) (segundo cobertura). Status: `documented`. Fonte: [G1](https://g1.globo.com/mg/zona-da-mata/noticia/2018/09/06/ato-de-campanha-de-bolsonaro-em-juiz-de-fora-e-interrompido-apos-tumulto.ghtml).\n- 2018-10 — Eleito presidente do Brasil (segundo biografia). Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Jair_Bolsonaro).\n\n### 2019–2023 — Presidência e pós-presidência\n\n- 2019-01-01 — Posse como presidente do Brasil (segundo registro biográfico). Status: `documented`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Jair_Bolsonaro).\n- 2022-10 — Derrota na tentativa de reeleição, segundo biografia. Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Jair_Bolsonaro).\n- 2023-01-01 — Término do mandato presidencial (segundo registro biográfico). Status: `documented`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Jair_Bolsonaro).\n\n## Eventos\n\n### 1955–2017\n\n- 1955-03-21 — Nascimento. Status: `documented`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Jair_Bolsonaro).\n- 1977 — Formatura na AMAN (segundo biografia). Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Jair_Bolsonaro).\n- 1988 — Eleito vereador no Rio de Janeiro (segundo biografia). Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Jair_Bolsonaro).\n- 1991 — Início de mandato como deputado federal (segundo biografia). Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Jair_Bolsonaro).\n\n### 2018–2023\n\n- 2018-09-06 — Sofre ataque com faca durante ato de campanha em Juiz de Fora (MG) (segundo cobertura). Status: `documented`. Fonte: [G1](https://g1.globo.com/mg/zona-da-mata/noticia/2018/09/06/ato-de-campanha-de-bolsonaro-em-juiz-de-fora-e-interrompido-apos-tumulto.ghtml).\n- 2018-10 — Eleito presidente do Brasil (segundo biografia). Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Jair_Bolsonaro).\n- 2019-01-01 — Posse como presidente do Brasil (segundo registro biográfico). Status: `documented`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Jair_Bolsonaro).\n- 2022-10 — Derrota na tentativa de reeleição, segundo biografia. Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Jair_Bolsonaro).\n- 2023-01-01 — Término do mandato presidencial (segundo registro biográfico). Status: `documented`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Jair_Bolsonaro).\n\n## Casos relacionados\n\n- [Atentado contra Jair Bolsonaro](/demos/casos/atentado-contra-jair-bolsonaro)\n\n## Fontes\n\n- Wikipédia — “Jair Bolsonaro” (acesso em 2026-01-09): https://pt.wikipedia.org/wiki/Jair_Bolsonaro\n- Wikidata — “Jair Bolsonaro” (Q10304982) (acesso em 2026-01-09): https://www.wikidata.org/wiki/Q10304982\n- G1 — “Ato de campanha de Bolsonaro em Juiz de Fora é interrompido após tumulto” (acesso em 2026-01-09): https://g1.globo.com/mg/zona-da-mata/noticia/2018/09/06/ato-de-campanha-de-bolsonaro-em-juiz-de-fora-e-interrompido-apos-tumulto.ghtml\n",
+  "outboundLinks": [
+    {
+      "text": "Atentado contra Jair Bolsonaro",
+      "href": "/demos/casos/atentado-contra-jair-bolsonaro"
+    },
+    {
+      "text": "Adélio Bispo de Oliveira",
+      "href": "/demos/pessoas/adelio-bispo-de-oliveira"
+    },
+    {
+      "text": "Atentado contra Jair Bolsonaro",
+      "href": "/demos/casos/atentado-contra-jair-bolsonaro"
+    },
+    {
+      "text": "Atentado contra Jair Bolsonaro",
+      "href": "/demos/casos/atentado-contra-jair-bolsonaro"
+    }
+  ],
+  "outboundLinksBySection": [
+    {
+      "section": "Intro",
+      "links": [
+        {
+          "text": "Atentado contra Jair Bolsonaro",
+          "href": "/demos/casos/atentado-contra-jair-bolsonaro"
+        }
+      ]
+    },
+    {
+      "section": "Por que está no mapa",
+      "links": [
+        {
+          "text": "Adélio Bispo de Oliveira",
+          "href": "/demos/pessoas/adelio-bispo-de-oliveira"
+        },
+        {
+          "text": "Atentado contra Jair Bolsonaro",
+          "href": "/demos/casos/atentado-contra-jair-bolsonaro"
+        }
+      ]
+    },
+    {
+      "section": "Casos relacionados",
+      "links": [
+        {
+          "text": "Atentado contra Jair Bolsonaro",
+          "href": "/demos/casos/atentado-contra-jair-bolsonaro"
+        }
+      ]
+    }
+  ],
+  "relations": {
+    "cases": [
+      {
+        "text": "Atentado contra Jair Bolsonaro",
+        "href": "/demos/casos/atentado-contra-jair-bolsonaro"
+      }
+    ],
+    "people": [],
+    "organizations": []
+  },
+  "relationSectionTitles": {
+    "cases": "Casos relacionados",
+    "people": null,
+    "organizations": null
+  },
+  "openQuestions": [
+    {
+      "id": "q--person-jair-messias-bolsonaro-efeitos-politicos-falhas-seguranca-atentado",
+      "question": "falhas de segurança e resposta institucional ao ataque criaram efeitos políticos relevantes (curto e longo prazo)?",
+      "state": "aberta",
+      "hypothesis": "falhas de segurança e/ou resposta institucional tiveram efeito político relevante (curto e longo prazo).",
+      "counterHypothesis": null,
+      "nextSteps": "cronologia verificável; documentos oficiais; análise comparativa com protocolos e casos análogos.",
+      "advancingNotes": []
+    }
+  ]
+}

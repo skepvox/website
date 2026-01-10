@@ -107,6 +107,8 @@ dist/
 # Temporary folders
 tmp/
 local-books/
+# Local-only Demos source snapshots (screenshots/PDF/HTML captures)
+local-demos-sources/
 temp/
 TODOs.md
 src/api/index.json

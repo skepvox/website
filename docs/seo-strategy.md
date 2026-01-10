@@ -121,3 +121,36 @@ Canonical URL pattern:
 Humans browse hubs. Search engines and AI land on leaves.
 
 Leaves must be focused, fast, canonical, and text-first.
+
+## Demos (atlas investigativo)
+
+### Model (hub → leaf)
+
+- **Hubs (descoberta):** `/demos/`, `/demos/pessoas/`, `/demos/organizacoes/`, `/demos/casos/`, `/demos/mapa/`.
+- **Leaves (ranking):** uma página por entidade (pessoa/organização/caso) em `/demos/.../<slug>`.
+
+### URLs (estabilidade)
+
+- Um **slug estável** por entidade (derivado do nome completo), sem mudar “por estética”.
+- Quando uma mudança de slug for inevitável no futuro: usar 301 + atualizar canonical (não antecipar redirects na fase de ideação).
+
+### Rendering (SEO‑critical)
+
+- As notas são **totalmente renderizadas no build** (conteúdo textual indexável).
+- O grafo/visualizações são suporte de navegação, mas as páginas de nota são as folhas canônicas.
+
+### Metadata (implemented)
+
+Para qualquer página que declare `demos.id` no frontmatter, o Skepvox injeta head “best in class” via `transformHead`:
+
+- `rel="canonical"` por nota.
+- OG/Twitter por nota (`og:title`, `og:description`, `og:url`, etc.).
+- JSON‑LD:
+  - `ProfilePage` + `Person`/`Organization` (ou `CreativeWork` para casos).
+  - `BreadcrumbList` (Home → Demos → seção → nota).
+- `rel="alternate"` apontando para o JSON da nota em `/demos-data/notes/<demos.id>.json`.
+
+### Data endpoints (IA/estrutura)
+
+- Os endpoints em `/demos-data/` existem para estrutura e futuras aplicações de IA/visualização.
+- Eles **não** são páginas canônicas e **não** devem entrar em sitemap.

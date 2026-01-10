@@ -1,0 +1,169 @@
+{
+  "schema": "skepvox--demos-note",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/pessoas/luiz-edson-fachin.md",
+    "sha256": "3e8dcdc61ed7a774b1757f3b5ea70a0b6229b625349d90943e170a9f349df2f6"
+  },
+  "id": "person--luiz-edson-fachin",
+  "type": "person",
+  "url": "/demos/pessoas/luiz-edson-fachin",
+  "title": "Luiz Edson Fachin",
+  "description": "Linha do tempo e fontes públicas sobre Luiz Edson Fachin, ministro e presidente do STF.",
+  "updatedAt": "2026-01-09",
+  "demos": {
+    "id": "person--luiz-edson-fachin",
+    "type": "person",
+    "mapLabel": "fachin",
+    "portrait": "luiz-edson-fachin.png",
+    "seed": "no",
+    "seed-id": "person--luiz-inacio-lula-da-silva",
+    "target-questions": [
+      "q--person-luiz-inacio-lula-da-silva-rede-influencia-timing-desfechos",
+      "q--case-triplex-do-guaruja-influencia-indevida-decisoes-chave",
+      "q--case-sitio-de-atibaia-influencia-indevida-acelerar-anular-retardar"
+    ],
+    "country": "BR",
+    "identifiers": {
+      "wikidata": "Q10320705",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Edson_Fachin"
+    },
+    "aliases": [
+      "Edson Fachin"
+    ],
+    "tags": [
+      "judiciario",
+      "stf",
+      "tse"
+    ],
+    "primaryRoles": [
+      "role--ministro-do-stf",
+      "role--presidente-do-stf"
+    ]
+  },
+  "frontmatter": {
+    "title": "Luiz Edson Fachin",
+    "description": "Linha do tempo e fontes públicas sobre Luiz Edson Fachin, ministro e presidente do STF.",
+    "demos": {
+      "id": "person--luiz-edson-fachin",
+      "type": "person",
+      "mapLabel": "fachin",
+      "portrait": "luiz-edson-fachin.png",
+      "seed": "no",
+      "seed-id": "person--luiz-inacio-lula-da-silva",
+      "target-questions": [
+        "q--person-luiz-inacio-lula-da-silva-rede-influencia-timing-desfechos",
+        "q--case-triplex-do-guaruja-influencia-indevida-decisoes-chave",
+        "q--case-sitio-de-atibaia-influencia-indevida-acelerar-anular-retardar"
+      ],
+      "country": "BR",
+      "identifiers": {
+        "wikidata": "Q10320705",
+        "wikipedia": "https://pt.wikipedia.org/wiki/Edson_Fachin"
+      },
+      "aliases": [
+        "Edson Fachin"
+      ],
+      "tags": [
+        "judiciario",
+        "stf",
+        "tse"
+      ],
+      "primaryRoles": [
+        "role--ministro-do-stf",
+        "role--presidente-do-stf"
+      ]
+    }
+  },
+  "frontmatterYaml": "title: \"Luiz Edson Fachin\"\ndescription: \"Linha do tempo e fontes públicas sobre Luiz Edson Fachin, ministro e presidente do STF.\"\ndemos:\n  id: person--luiz-edson-fachin\n  type: person\n  mapLabel: fachin\n  portrait: luiz-edson-fachin.png\n  seed: no\n  seed-id: person--luiz-inacio-lula-da-silva\n  target-questions:\n    - q--person-luiz-inacio-lula-da-silva-rede-influencia-timing-desfechos\n    - q--case-triplex-do-guaruja-influencia-indevida-decisoes-chave\n    - q--case-sitio-de-atibaia-influencia-indevida-acelerar-anular-retardar\n  country: BR\n  identifiers:\n    wikidata: Q10320705\n    wikipedia: https://pt.wikipedia.org/wiki/Edson_Fachin\n  aliases:\n    - Edson Fachin\n  tags:\n    - judiciario\n    - stf\n    - tse\n  primaryRoles:\n    - role--ministro-do-stf\n    - role--presidente-do-stf",
+  "bodyMarkdown": "# Luiz Edson Fachin\n\n::: info Nota editorial (Skepvox)\nEsta página compila eventos públicos com **linguagem neutra** e **fontes**. Em\ntemas controversos, o objetivo é descrever **status processual** e registrar\no que está documentado, sem tratar hipóteses como fatos.\n:::\n\n_Última atualização: 2026-01-09. ID Skepvox: `person--luiz-edson-fachin`._\n\n<DemosPortraitSvg />\n\n## Situação atual\n\n- Cargo: presidente do Supremo Tribunal Federal (STF) (desde 2025-09-29) e ministro do STF (desde 2015), segundo biografia. Fontes: [G1](https://g1.globo.com/politica/noticia/2025/09/29/edson-fachin-toma-posse-como-presidente-do-supremo-tribunal-federal-nesta-segunda-veja-perfil.ghtml), [Wikipédia](https://pt.wikipedia.org/wiki/Edson_Fachin).\n- Localização (trabalho): Brasil — Distrito Federal — Brasília (STF).\n- Organização: Supremo Tribunal Federal (STF).\n\n## Por que está no mapa\n\n- Conexão de origem: decisões do STF ligadas à Operação Lava Jato e seus efeitos\n  sobre condenações envolvendo [Luiz Inácio Lula da Silva (Lula)](/demos/pessoas/luiz-inacio-lula-da-silva).\n- Perguntas-alvo (rastreamento): `q--person-luiz-inacio-lula-da-silva-rede-influencia-timing-desfechos`; `q--case-triplex-do-guaruja-influencia-indevida-decisoes-chave`; `q--case-sitio-de-atibaia-influencia-indevida-acelerar-anular-retardar`.\n- Evidência mínima (ponto de virada): em 2021, decisão do ministro Edson Fachin\n  declarou incompetência do juízo da 13ª Vara Federal de Curitiba para julgar\n  ações envolvendo Lula (segundo notícia) e o Plenário do STF confirmou a\n  anulação das condenações (8×3) ao rejeitar recurso da PGR. Fontes: [Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2021-03/fachin-anula-condenacoes-de-lula-na-lava-jato), [STF](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1).\n- Fontes‑alvo (próximos passos): localizar e vincular decisões integrais,\n  votos, acórdãos e movimentação processual — para comparar fundamentos,\n  consistência e cronologia.\n\n## Perguntas abertas (hipóteses)\n\n- `q--person-luiz-edson-fachin-decisoes-2021-coerencia-jurisprudencia` — Pergunta: a decisão de 2021 (competência do juízo) seguiu um padrão coerente com a jurisprudência do STF em casos análogos, ou foi um “ponto fora da curva”? Estado: `aberta`.\n  - Hipótese: a decisão de 2021 foi um “ponto fora da curva” em relação a padrões jurisprudenciais comparáveis.\n  - Contra‑hipótese: a decisão de 2021 segue um padrão coerente com a jurisprudência e com os fundamentos explícitos no voto/decisão.\n  - Próximos passos: comparação com casos similares; leitura integral do voto/decisão; cronologia processual; votos dos demais ministros.\n  - Notas que avançam: nenhuma ainda.\n- `q--person-luiz-edson-fachin-pressao-influencia-externa-decisoes-lula` — Pergunta: existiram pressões/influências externas relevantes para decisões envolvendo Lula (diretas ou indiretas)? Estado: `aberta`.\n  - Hipótese: existiram pressões/influências externas relevantes (políticas, econômicas, institucionais) para decisões envolvendo Lula.\n  - Contra‑hipótese: os desfechos decorrem primariamente de fundamentos jurídicos (competência, devido processo, nulidades) e não exigem postular interferência externa.\n  - Próximos passos: evidências documentais robustas (não apenas inferência); registros públicos; mudanças de posição com justificativas explícitas; padrões de votação; vínculos documentados.\n  - Notas que avançam: nenhuma ainda.\n\n## Identidade (básico)\n\n- Nome: Luiz Edson Fachin.\n- Nascimento: 08-02-1958, Passo Fundo (RS), Brasil. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Edson_Fachin).\n- Cargo: presidente do Supremo Tribunal Federal (STF) (desde 2025-09-29) e ministro do STF (desde 2015), segundo biografia. Fontes: [G1](https://g1.globo.com/politica/noticia/2025/09/29/edson-fachin-toma-posse-como-presidente-do-supremo-tribunal-federal-nesta-segunda-veja-perfil.ghtml), [Wikipédia](https://pt.wikipedia.org/wiki/Edson_Fachin).\n\n## Linha do tempo\n\n### 1958–1989 — Origem e formação\n\n- 1958-02-08 — Nascimento (Passo Fundo, RS). Status: `documented`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Edson_Fachin).\n- c. 1960 — Mudança com a família para Toledo (PR) (aos 2 anos, segundo biografia). Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Edson_Fachin).\n- c. 1975 — Mudança para Curitiba (PR) para estudar (aos 17 anos, segundo biografia). Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Edson_Fachin).\n\n### 1990–2006 — Procuradoria do Estado do Paraná\n\n- 1990–2006 — Procurador do Estado do Paraná (segundo biografia). Status: `documented`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Edson_Fachin).\n\n### 2015– — STF e TSE\n\n- 2015-04-23 — Mensagem presidencial ao Senado submetendo a indicação de Fachin ao cargo de ministro do STF (registro no Diário do Senado). Status: `documented`. Fonte: [STF (PDF)](https://www.stf.jus.br/arquivo/biblioteca/PastasMinistros/EdsonFachin/DadosDatas/002.pdf).\n- 2015-06-16 — Posse como ministro do STF (segundo biografia). Status: `documented`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Edson_Fachin).\n- 2018-08-16 — Início como ministro do Tribunal Superior Eleitoral (TSE), segundo biografia. Status: `documented`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Edson_Fachin).\n- 2022-02-22–2022-08-16 — Presidente do TSE, segundo biografia e cobertura. Status: `documented`. Fontes: [G1](https://g1.globo.com/politica/ao-vivo/fachin-moraes-posse-tse.ghtml), [Wikipédia](https://pt.wikipedia.org/wiki/Edson_Fachin).\n- 2023-09-28–2025-09-29 — Vice-presidente do STF, segundo biografia. Status: `documented`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Edson_Fachin).\n- 2025-09-29 — Posse como presidente do STF (62º), segundo cobertura/biografia. Status: `documented`. Fontes: [G1](https://g1.globo.com/politica/noticia/2025/09/29/edson-fachin-toma-posse-como-presidente-do-supremo-tribunal-federal-nesta-segunda-veja-perfil.ghtml), [Wikipédia](https://pt.wikipedia.org/wiki/Edson_Fachin).\n\n## Eventos\n\n### 1958–2006 (biografia)\n\n- 1958-02-08 — Nascimento (Passo Fundo, RS). Status: `documented`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Edson_Fachin).\n- c. 1960 — Mudança para Toledo (PR) (aos 2 anos, segundo biografia). Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Edson_Fachin).\n- c. 1975 — Mudança para Curitiba (PR) para estudar (aos 17 anos, segundo biografia). Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Edson_Fachin).\n- 1990–2006 — Procurador do Estado do Paraná (segundo biografia). Status: `documented`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Edson_Fachin).\n\n### 2015– — STF e TSE\n\n- 2015-04-23 — Mensagem presidencial ao Senado submetendo a indicação de Fachin ao cargo de ministro do STF (registro no Diário do Senado). Status: `documented`. Fonte: [STF (PDF)](https://www.stf.jus.br/arquivo/biblioteca/PastasMinistros/EdsonFachin/DadosDatas/002.pdf).\n- 2015-06-16 — Posse como ministro do STF (segundo biografia). Status: `documented`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Edson_Fachin).\n- 2018-08-16 — Início como ministro do TSE (segundo biografia). Status: `documented`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Edson_Fachin).\n- 2021-03-08 — Decisão do ministro Edson Fachin anula condenações de Lula ligadas à Lava Jato por questões de competência (segundo notícia). Status: `documented`. Fonte: [Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2021-03/fachin-anula-condenacoes-de-lula-na-lava-jato).\n- 2021-04-15 — Plenário do STF confirma anulação das condenações (8×3), ao rejeitar recurso da PGR contra decisão de Fachin sobre competência do juízo de Curitiba (segundo notícia institucional). Status: `documented`. Fonte: [STF](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1).\n- 2022-02-22 — Posse como presidente do TSE (segundo cobertura). Status: `documented`. Fonte: [G1](https://g1.globo.com/politica/ao-vivo/fachin-moraes-posse-tse.ghtml).\n- 2022-08-16 — Encerramento do mandato como presidente do TSE (segundo biografia). Status: `documented`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Edson_Fachin).\n- 2023-09-28 — Início como vice-presidente do STF (segundo biografia). Status: `documented`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Edson_Fachin).\n- 2025-09-29 — Posse como presidente do STF (62º) (segundo cobertura). Status: `documented`. Fonte: [G1](https://g1.globo.com/politica/noticia/2025/09/29/edson-fachin-toma-posse-como-presidente-do-supremo-tribunal-federal-nesta-segunda-veja-perfil.ghtml).\n\n## Casos relacionados\n\n- [Operação Lava Jato](/demos/casos/operacao-lava-jato)\n- [Tríplex do Guarujá](/demos/casos/triplex-do-guaruja)\n- [Sítio de Atibaia](/demos/casos/sitio-de-atibaia)\n\n## Fontes\n\n- Wikipédia — “Edson Fachin” (acesso em 2026-01-09): https://pt.wikipedia.org/wiki/Edson_Fachin\n- Agência Brasil — “Fachin anula condenações de Lula na Lava Jato” (acesso em 2026-01-09): https://agenciabrasil.ebc.com.br/justica/noticia/2021-03/fachin-anula-condenacoes-de-lula-na-lava-jato\n- STF — “STF confirma anulação de condenações do ex-presidente Lula na Lava Jato” (acesso em 2026-01-09): https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1\n- G1 — “Fachin toma posse como presidente do TSE; Alexandre de Moraes é o vice” (acesso em 2026-01-09): https://g1.globo.com/politica/ao-vivo/fachin-moraes-posse-tse.ghtml\n- G1 — “Fachin assume presidência do STF e Moraes vice; veja perfis dos ministros” (acesso em 2026-01-09): https://g1.globo.com/politica/noticia/2025/09/29/edson-fachin-toma-posse-como-presidente-do-supremo-tribunal-federal-nesta-segunda-veja-perfil.ghtml\n- STF — “Pasta Ministros · Edson Fachin · Dados/Datas · 002.pdf” (PDF) (acesso em 2026-01-09): https://www.stf.jus.br/arquivo/biblioteca/PastasMinistros/EdsonFachin/DadosDatas/002.pdf\n",
+  "outboundLinks": [
+    {
+      "text": "Luiz Inácio Lula da Silva (Lula)",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    },
+    {
+      "text": "Operação Lava Jato",
+      "href": "/demos/casos/operacao-lava-jato"
+    },
+    {
+      "text": "Tríplex do Guarujá",
+      "href": "/demos/casos/triplex-do-guaruja"
+    },
+    {
+      "text": "Sítio de Atibaia",
+      "href": "/demos/casos/sitio-de-atibaia"
+    }
+  ],
+  "outboundLinksBySection": [
+    {
+      "section": "Por que está no mapa",
+      "links": [
+        {
+          "text": "Luiz Inácio Lula da Silva (Lula)",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        }
+      ]
+    },
+    {
+      "section": "Casos relacionados",
+      "links": [
+        {
+          "text": "Operação Lava Jato",
+          "href": "/demos/casos/operacao-lava-jato"
+        },
+        {
+          "text": "Tríplex do Guarujá",
+          "href": "/demos/casos/triplex-do-guaruja"
+        },
+        {
+          "text": "Sítio de Atibaia",
+          "href": "/demos/casos/sitio-de-atibaia"
+        }
+      ]
+    }
+  ],
+  "relations": {
+    "cases": [
+      {
+        "text": "Operação Lava Jato",
+        "href": "/demos/casos/operacao-lava-jato"
+      },
+      {
+        "text": "Tríplex do Guarujá",
+        "href": "/demos/casos/triplex-do-guaruja"
+      },
+      {
+        "text": "Sítio de Atibaia",
+        "href": "/demos/casos/sitio-de-atibaia"
+      }
+    ],
+    "people": [],
+    "organizations": []
+  },
+  "relationSectionTitles": {
+    "cases": "Casos relacionados",
+    "people": null,
+    "organizations": null
+  },
+  "openQuestions": [
+    {
+      "id": "q--person-luiz-edson-fachin-decisoes-2021-coerencia-jurisprudencia",
+      "question": "a decisão de 2021 (competência do juízo) seguiu um padrão coerente com a jurisprudência do STF em casos análogos, ou foi um “ponto fora da curva”?",
+      "state": "aberta",
+      "hypothesis": "a decisão de 2021 foi um “ponto fora da curva” em relação a padrões jurisprudenciais comparáveis.",
+      "counterHypothesis": null,
+      "nextSteps": "comparação com casos similares; leitura integral do voto/decisão; cronologia processual; votos dos demais ministros.",
+      "advancingNotes": []
+    },
+    {
+      "id": "q--person-luiz-edson-fachin-pressao-influencia-externa-decisoes-lula",
+      "question": "existiram pressões/influências externas relevantes para decisões envolvendo Lula (diretas ou indiretas)?",
+      "state": "aberta",
+      "hypothesis": "existiram pressões/influências externas relevantes (políticas, econômicas, institucionais) para decisões envolvendo Lula.",
+      "counterHypothesis": null,
+      "nextSteps": "evidências documentais robustas (não apenas inferência); registros públicos; mudanças de posição com justificativas explícitas; padrões de votação; vínculos documentados.",
+      "advancingNotes": []
+    }
+  ]
+}
