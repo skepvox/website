@@ -1,0 +1,390 @@
+{
+  "schema": "skepvox--demos-note",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/casos/sede-do-instituto-lula.md",
+    "sha256": "b9742376ec31357057becb05c14de2cb604413176ef9b465430b9fa2c7089a0f"
+  },
+  "id": "case--sede-do-instituto-lula",
+  "type": "case",
+  "url": "/demos/casos/sede-do-instituto-lula",
+  "title": "Sede do Instituto Lula",
+  "description": "Resumo, linha do tempo e fontes públicas sobre o caso envolvendo a suposta cessão de terreno para a nova sede do Instituto Lula (Lava Jato).",
+  "updatedAt": "2026-01-09",
+  "demos": {
+    "id": "case--sede-do-instituto-lula",
+    "type": "case",
+    "mapLabel": "sede-instituto",
+    "seed": "no",
+    "seed-id": "person--luiz-inacio-lula-da-silva",
+    "target-questions": [
+      "q--person--luiz-inacio-lula-da-silva--001",
+      "q--case--operacao-lava-jato--001"
+    ],
+    "country": "BR",
+    "aliases": [
+      "Caso do Instituto Lula",
+      "Caso da sede do Instituto Lula",
+      "Terreno do Instituto Lula"
+    ],
+    "tags": [
+      "justica",
+      "lava-jato",
+      "instituto-lula"
+    ]
+  },
+  "frontmatter": {
+    "title": "Sede do Instituto Lula",
+    "description": "Resumo, linha do tempo e fontes públicas sobre o caso envolvendo a suposta cessão de terreno para a nova sede do Instituto Lula (Lava Jato).",
+    "demos": {
+      "id": "case--sede-do-instituto-lula",
+      "type": "case",
+      "mapLabel": "sede-instituto",
+      "seed": "no",
+      "seed-id": "person--luiz-inacio-lula-da-silva",
+      "target-questions": [
+        "q--person--luiz-inacio-lula-da-silva--001",
+        "q--case--operacao-lava-jato--001"
+      ],
+      "country": "BR",
+      "aliases": [
+        "Caso do Instituto Lula",
+        "Caso da sede do Instituto Lula",
+        "Terreno do Instituto Lula"
+      ],
+      "tags": [
+        "justica",
+        "lava-jato",
+        "instituto-lula"
+      ]
+    }
+  },
+  "frontmatterYaml": "title: \"Sede do Instituto Lula\"\ndescription: \"Resumo, linha do tempo e fontes públicas sobre o caso envolvendo a suposta cessão de terreno para a nova sede do Instituto Lula (Lava Jato).\"\ndemos:\n  id: case--sede-do-instituto-lula\n  type: case\n  mapLabel: sede-instituto\n  seed: no\n  seed-id: person--luiz-inacio-lula-da-silva\n  target-questions:\n    - q--person--luiz-inacio-lula-da-silva--001\n    - q--case--operacao-lava-jato--001\n  country: BR\n  aliases:\n    - Caso do Instituto Lula\n    - Caso da sede do Instituto Lula\n    - Terreno do Instituto Lula\n  tags:\n    - justica\n    - lava-jato\n    - instituto-lula",
+  "bodyMarkdown": "# Sede do Instituto [Lula](/demos/pessoas/luiz-inacio-lula-da-silva)\n\n::: info Nota editorial (Skepvox)\nEste é um caso controverso. O objetivo aqui é registrar **cronologia**, **status\nprocessual** e **fontes** — sem tratar alegações como fatos e sem concluir além\ndo que está documentado.\n:::\n\n_Última atualização: 2026-01-09. ID Skepvox: `case--sede-do-instituto-lula`._\n\n## Situação atual\n\n- Status: ação penal relativa à suposta cessão de terreno para construção da sede do Instituto [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) teve pedido de suspensão negado pelo STF em 2020 (HC 180985). Situação posterior do processo não foi localizada nesta nota. Fonte: [STF (2020-02-11)](https://noticias.stf.jus.br/postsnoticias/ministro-julga-inviavel-pedido-de-suspensao-de-acao-penal-sobre-terreno-do-instituto-lula/).\n\n## Por que está no mapa\n\n- Conexão de origem: rede inicial de [Luiz Inácio Lula da Silva](/demos/pessoas/luiz-inacio-lula-da-silva) (semente), via [Operação Lava Jato](/demos/casos/operacao-lava-jato).\n- Perguntas-alvo (rastreamento): `q--person--luiz-inacio-lula-da-silva--001`; `q--case--operacao-lava-jato--001`.\n- Evidência mínima: denúncia aceita em 2016 envolvendo terreno para a sede do Instituto [Lula](/demos/pessoas/luiz-inacio-lula-da-silva); perícia de 2018 apontou pagamentos ligados ao terreno; STF analisou pedido de suspensão em 2020. Fontes: [Exame (2016-12-19)](https://exame.com/brasil/moro-aceita-denuncia-e-lula-se-torna-reu-pela-4a-vez-na-lava-jato/), [Exame (2018-02-24)](https://exame.com/brasil/sistema-de-propina-pagou-terreno-de-instituto-diz-pericia/), [STF (2020-02-11)](https://noticias.stf.jus.br/postsnoticias/ministro-julga-inviavel-pedido-de-suspensao-de-acao-penal-sobre-terreno-do-instituto-lula/).\n- Fontes-alvo (próximos passos): denúncia e decisões integrais (1ª instância, TRF, STJ, STF); peças de defesa; laudos periciais completos; movimentação processual após 2020.\n\n## Perguntas abertas (hipóteses)\n\n- `q--case--sede-do-instituto-lula--001`\n  - Pergunta: qual foi a origem dos recursos e quais contrapartidas foram alegadas na suposta cessão/compra de terreno para a sede do Instituto [Lula](/demos/pessoas/luiz-inacio-lula-da-silva)?\n  - Estado: `aberta`.\n  - Hipótese: a cessão/compra do terreno envolveu recursos ilícitos associados a contratos públicos e foi tratada como vantagem indevida.\n  - Contra‑hipótese: não há evidência robusta de vinculação com corrupção; a operação foi legal ou os indícios são insuficientes.\n  - Próximos passos: acessar denúncia e decisões integrais; mapear fluxo financeiro e titularidade do imóvel; avaliar laudos/perícias e cadeia de custódia; verificar movimentação no DF após decisões de competência.\n  - Notas que avançam: nenhuma ainda.\n\n## Resumo\n\n- Em 2016, o juiz [Sergio Moro](/demos/pessoas/sergio-fernando-moro) aceitou denúncia envolvendo a compra de terreno para a nova sede do Instituto [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) e um imóvel vizinho; [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) tornou-se réu, segundo cobertura. Fonte: [Exame (2016-12-19)](https://exame.com/brasil/moro-aceita-denuncia-e-lula-se-torna-reu-pela-4a-vez-na-lava-jato/).\n- Em 2018, perícia do sistema de propinas da Odebrecht indicou pagamentos para a compra do terreno, conforme reportagem. Fonte: [Exame (2018-02-24)](https://exame.com/brasil/sistema-de-propina-pagou-terreno-de-instituto-diz-pericia/).\n- Em 2020, o ministro [Edson Fachin](/demos/pessoas/luiz-edson-fachin) (STF) negou pedido de suspensão da ação penal sobre a suposta cessão de terreno, por entender que a Corte só atua após apreciação colegiada. Fonte: [STF (2020-02-11)](https://noticias.stf.jus.br/postsnoticias/ministro-julga-inviavel-pedido-de-suspensao-de-acao-penal-sobre-terreno-do-instituto-lula/).\n- Em 2016, a 24ª fase da Lava Jato (Operação Aletheia) incluiu buscas no Instituto [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) e condução coercitiva de [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) e do presidente do Instituto, segundo a PF e cobertura. Fonte: [G1 (2016-03-04)](https://g1.globo.com/pr/parana/noticia/2016/03/policia-deflagrada-nova-fase-da-lava-jato-na-casa-do-ex-presidente-lula.html).\n\n## Linha do tempo\n\n### 2016 — Operação Aletheia e denúncia aceita\n\n- 2016-03-04 — PF deflagra a 24ª fase da Lava Jato (Operação Aletheia) com buscas no Instituto [Lula](/demos/pessoas/luiz-inacio-lula-da-silva); [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) e Paulo Okamotto são alvos de condução coercitiva, segundo cobertura. Status: `documented`. Fonte: [G1 (2016-03-04)](https://g1.globo.com/pr/parana/noticia/2016/03/policia-deflagrada-nova-fase-da-lava-jato-na-casa-do-ex-presidente-lula.html).\n- 2016-12-19 — [Sergio Moro](/demos/pessoas/sergio-fernando-moro) aceita denúncia; ação envolve terreno para a nova sede do Instituto [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) e um imóvel vizinho; [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) torna-se réu, segundo cobertura. Status: `documented`. Fonte: [Exame (2016-12-19)](https://exame.com/brasil/moro-aceita-denuncia-e-lula-se-torna-reu-pela-4a-vez-na-lava-jato/).\n\n### 2018 — Perícia sobre pagamentos\n\n- 2018-02-24 — Perícia do sistema de propinas da Odebrecht indica pagamentos para a compra do terreno do Instituto [Lula](/demos/pessoas/luiz-inacio-lula-da-silva), segundo reportagem. Status: `documented`. Fonte: [Exame (2018-02-24)](https://exame.com/brasil/sistema-de-propina-pagou-terreno-de-instituto-diz-pericia/).\n\n### 2020 — Pedido de suspensão no STF\n\n- 2020-02-11 — STF nega seguimento a HC 180985 que pedia suspensão da ação penal sobre suposta cessão de terreno para a sede do Instituto [Lula](/demos/pessoas/luiz-inacio-lula-da-silva). Status: `documented`. Fonte: [STF (2020-02-11)](https://noticias.stf.jus.br/postsnoticias/ministro-julga-inviavel-pedido-de-suspensao-de-acao-penal-sobre-terreno-do-instituto-lula/).\n\n## Eventos\n\n### 2016–2020\n\n- 2016-03-04 — Operação Aletheia tem buscas no Instituto [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) e condução coercitiva de [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) e Paulo Okamotto, segundo cobertura. Status: `documented`. Fonte: [G1 (2016-03-04)](https://g1.globo.com/pr/parana/noticia/2016/03/policia-deflagrada-nova-fase-da-lava-jato-na-casa-do-ex-presidente-lula.html).\n- 2016-12-19 — Moro aceita denúncia envolvendo terreno para a sede do Instituto [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) e imóvel vizinho; [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) torna-se réu, segundo cobertura. Status: `documented`. Fonte: [Exame (2016-12-19)](https://exame.com/brasil/moro-aceita-denuncia-e-lula-se-torna-reu-pela-4a-vez-na-lava-jato/).\n- 2018-02-24 — Perícia aponta pagamentos ligados ao terreno no sistema de propinas da Odebrecht, segundo reportagem. Status: `documented`. Fonte: [Exame (2018-02-24)](https://exame.com/brasil/sistema-de-propina-pagou-terreno-de-instituto-diz-pericia/).\n- 2020-02-11 — STF nega suspensão da ação penal (HC 180985) sobre a suposta cessão de terreno para a sede. Status: `documented`. Fonte: [STF (2020-02-11)](https://noticias.stf.jus.br/postsnoticias/ministro-julga-inviavel-pedido-de-suspensao-de-acao-penal-sobre-terreno-do-instituto-lula/).\n\n## Pessoas relacionadas\n\n- [Luiz Inácio Lula da Silva](/demos/pessoas/luiz-inacio-lula-da-silva).\n- [Sergio Fernando Moro](/demos/pessoas/sergio-fernando-moro) — aceitou denúncia em 2016, segundo cobertura. Fonte: [Exame (2016-12-19)](https://exame.com/brasil/moro-aceita-denuncia-e-lula-se-torna-reu-pela-4a-vez-na-lava-jato/).\n- Pessoas citadas nas fontes (sem página ainda no Skepvox): Paulo Okamotto; Marcelo Odebrecht; Antonio Palocci; José Carlos Bumlai.\n\n## Organizações relacionadas\n\n- Instituições citadas nas fontes (sem página ainda no Skepvox): Instituto [Lula](/demos/pessoas/luiz-inacio-lula-da-silva); Odebrecht/Novonor; Ministério Público Federal (MPF); Polícia Federal (PF); Justiça Federal (Curitiba); Supremo Tribunal Federal (STF).\n\n## Fontes\n\n- G1 — “Polícia deflagra nova fase da Lava Jato na casa do ex-presidente [Lula](/demos/pessoas/luiz-inacio-lula-da-silva)” (acesso em 2026-01-09): https://g1.globo.com/pr/parana/noticia/2016/03/policia-deflagrada-nova-fase-da-lava-jato-na-casa-do-ex-presidente-lula.html\n- Exame (Reuters) — “Moro aceita denúncia, e [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) vira réu pela 5ª vez” (acesso em 2026-01-09): https://exame.com/brasil/moro-aceita-denuncia-e-lula-se-torna-reu-pela-4a-vez-na-lava-jato/\n- Exame (Estadão Conteúdo) — “Sistema da Odebrecht mostra compra do terreno do Instituto [Lula](/demos/pessoas/luiz-inacio-lula-da-silva)” (acesso em 2026-01-09): https://exame.com/brasil/sistema-de-propina-pagou-terreno-de-instituto-diz-pericia/\n- STF — “Ministro julga inviável pedido de suspensão de ação penal sobre terreno do Instituto [Lula](/demos/pessoas/luiz-inacio-lula-da-silva)” (acesso em 2026-01-09): https://noticias.stf.jus.br/postsnoticias/ministro-julga-inviavel-pedido-de-suspensao-de-acao-penal-sobre-terreno-do-instituto-lula/\n",
+  "outboundLinks": [
+    {
+      "text": "Lula",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    },
+    {
+      "text": "Lula",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    },
+    {
+      "text": "Luiz Inácio Lula da Silva",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    },
+    {
+      "text": "Operação Lava Jato",
+      "href": "/demos/casos/operacao-lava-jato"
+    },
+    {
+      "text": "Lula",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    },
+    {
+      "text": "Lula",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    },
+    {
+      "text": "Sergio Moro",
+      "href": "/demos/pessoas/sergio-fernando-moro"
+    },
+    {
+      "text": "Lula",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    },
+    {
+      "text": "Lula",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    },
+    {
+      "text": "Edson Fachin",
+      "href": "/demos/pessoas/luiz-edson-fachin"
+    },
+    {
+      "text": "Lula",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    },
+    {
+      "text": "Lula",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    },
+    {
+      "text": "Lula",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    },
+    {
+      "text": "Lula",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    },
+    {
+      "text": "Sergio Moro",
+      "href": "/demos/pessoas/sergio-fernando-moro"
+    },
+    {
+      "text": "Lula",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    },
+    {
+      "text": "Lula",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    },
+    {
+      "text": "Lula",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    },
+    {
+      "text": "Lula",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    },
+    {
+      "text": "Lula",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    },
+    {
+      "text": "Lula",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    },
+    {
+      "text": "Lula",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    },
+    {
+      "text": "Lula",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    },
+    {
+      "text": "Luiz Inácio Lula da Silva",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    },
+    {
+      "text": "Sergio Fernando Moro",
+      "href": "/demos/pessoas/sergio-fernando-moro"
+    },
+    {
+      "text": "Lula",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    },
+    {
+      "text": "Lula",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    },
+    {
+      "text": "Lula",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    },
+    {
+      "text": "Lula",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    },
+    {
+      "text": "Lula",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    }
+  ],
+  "outboundLinksBySection": [
+    {
+      "section": "Intro",
+      "links": [
+        {
+          "text": "Lula",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        }
+      ]
+    },
+    {
+      "section": "Situação atual",
+      "links": [
+        {
+          "text": "Lula",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        }
+      ]
+    },
+    {
+      "section": "Por que está no mapa",
+      "links": [
+        {
+          "text": "Luiz Inácio Lula da Silva",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        },
+        {
+          "text": "Operação Lava Jato",
+          "href": "/demos/casos/operacao-lava-jato"
+        },
+        {
+          "text": "Lula",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        }
+      ]
+    },
+    {
+      "section": "Perguntas abertas (hipóteses)",
+      "links": [
+        {
+          "text": "Lula",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        }
+      ]
+    },
+    {
+      "section": "Resumo",
+      "links": [
+        {
+          "text": "Sergio Moro",
+          "href": "/demos/pessoas/sergio-fernando-moro"
+        },
+        {
+          "text": "Lula",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        },
+        {
+          "text": "Lula",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        },
+        {
+          "text": "Edson Fachin",
+          "href": "/demos/pessoas/luiz-edson-fachin"
+        },
+        {
+          "text": "Lula",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        },
+        {
+          "text": "Lula",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        }
+      ]
+    },
+    {
+      "section": "Linha do tempo",
+      "links": [
+        {
+          "text": "Lula",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        },
+        {
+          "text": "Lula",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        },
+        {
+          "text": "Sergio Moro",
+          "href": "/demos/pessoas/sergio-fernando-moro"
+        },
+        {
+          "text": "Lula",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        },
+        {
+          "text": "Lula",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        },
+        {
+          "text": "Lula",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        },
+        {
+          "text": "Lula",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        }
+      ]
+    },
+    {
+      "section": "Eventos",
+      "links": [
+        {
+          "text": "Lula",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        },
+        {
+          "text": "Lula",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        },
+        {
+          "text": "Lula",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        },
+        {
+          "text": "Lula",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        }
+      ]
+    },
+    {
+      "section": "Pessoas relacionadas",
+      "links": [
+        {
+          "text": "Luiz Inácio Lula da Silva",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        },
+        {
+          "text": "Sergio Fernando Moro",
+          "href": "/demos/pessoas/sergio-fernando-moro"
+        }
+      ]
+    },
+    {
+      "section": "Organizações relacionadas",
+      "links": [
+        {
+          "text": "Lula",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        }
+      ]
+    },
+    {
+      "section": "Fontes",
+      "links": [
+        {
+          "text": "Lula",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        },
+        {
+          "text": "Lula",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        },
+        {
+          "text": "Lula",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        },
+        {
+          "text": "Lula",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        }
+      ]
+    }
+  ],
+  "relations": {
+    "cases": [],
+    "family": [],
+    "people": [
+      {
+        "text": "Luiz Inácio Lula da Silva",
+        "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+      },
+      {
+        "text": "Sergio Fernando Moro",
+        "href": "/demos/pessoas/sergio-fernando-moro"
+      }
+    ],
+    "organizations": []
+  },
+  "relationSectionTitles": {
+    "cases": null,
+    "family": null,
+    "people": "Pessoas relacionadas",
+    "organizations": "Organizações relacionadas"
+  },
+  "openQuestions": [
+    {
+      "id": "q--case--sede-do-instituto-lula--001",
+      "question": "qual foi a origem dos recursos e quais contrapartidas foram alegadas na suposta cessão/compra de terreno para a sede do Instituto [Lula](/demos/pessoas/luiz-inacio-lula-da-silva)?",
+      "state": "aberta",
+      "hypothesis": "a cessão/compra do terreno envolveu recursos ilícitos associados a contratos públicos e foi tratada como vantagem indevida.",
+      "counterHypothesis": "não há evidência robusta de vinculação com corrupção; a operação foi legal ou os indícios são insuficientes.",
+      "nextSteps": "acessar denúncia e decisões integrais; mapear fluxo financeiro e titularidade do imóvel; avaliar laudos/perícias e cadeia de custódia; verificar movimentação no DF após decisões de competência.",
+      "advancingNotes": []
+    }
+  ]
+}

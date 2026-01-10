@@ -1,6 +1,6 @@
 ---
-title: "Carla Zambelli Salgado de Oliveira (Carla Zambelli)"
-description: "Linha do tempo e fontes públicas sobre Carla Zambelli Salgado de Oliveira (Carla Zambelli), política brasileira e ex-deputada federal por SP."
+title: "Carla Zambelli Salgado de Oliveira"
+description: "Linha do tempo e fontes públicas sobre Carla Zambelli Salgado de Oliveira, política brasileira e ex-deputada federal por SP."
 demos:
   id: person--carla-zambelli-salgado-de-oliveira
   type: person
@@ -9,7 +9,7 @@ demos:
   seed: no
   seed-id: person--jose-antonio-dias-toffoli
   target-questions:
-    - q--person-walter-delgatti-neto-cnj-escopo-cadeia-comando-evidencia-material
+    - q--person--walter-delgatti-neto--002
   country: BR
   identifiers:
     wikidata: Q59205152
@@ -30,7 +30,7 @@ demos:
   primaryRoles:
     - role--deputada-federal
 ---
-# Carla Zambelli Salgado de Oliveira (Carla Zambelli)
+# Carla Zambelli Salgado de Oliveira
 
 ::: info Nota editorial (Skepvox)
 Esta é uma nota derivada da rede da semente [José Antonio Dias Toffoli](/demos/pessoas/jose-antonio-dias-toffoli), via o caso
@@ -55,18 +55,22 @@ _Última atualização: 2026-01-09. ID Skepvox: `person--carla-zambelli-salgado-
 ## Por que está no mapa
 
 - Conexão de origem: rede da semente [José Antonio Dias Toffoli](/demos/pessoas/jose-antonio-dias-toffoli), via [Walter Delgatti Neto](/demos/pessoas/walter-delgatti-neto) e o caso CNJ, porque Zambelli aparece como figura central na cronologia pública e nos desdobramentos judiciais descritos em cobertura e decisões. Fontes: [G1 (2024-04-23)](https://g1.globo.com/politica/blog/julia-duailibi/post/2024/04/23/pgr-denuncia-zambelli.ghtml), [G1 (2025-05-14)](https://g1.globo.com/politica/noticia/2025/05/14/stf-tem-unanimidade-para-condenar-zambelli.ghtml).
-- Perguntas-alvo (rastreamento): `q--person-walter-delgatti-neto-cnj-escopo-cadeia-comando-evidencia-material`.
+- Perguntas-alvo (rastreamento): `q--person--walter-delgatti-neto--002`.
 - Evidência mínima: há registro público de indiciamento, denúncia, recebimento de denúncia e condenação no STF no caso CNJ, além de condenação no STF em caso separado ligado a 2022, segundo cobertura. Fontes: [G1 (2024-02-29)](https://g1.globo.com/politica/blog/andreia-sadi/post/2024/02/29/pf-indicia-carla-zambelli-e-hacker-walter-delgatti-por-invasao-do-site-do-cnj.ghtml), [G1 (2024-05-21)](https://g1.globo.com/politica/noticia/2024/05/21/primeira-turma-stf-denuncia-carla-zambelli-walter-delgatti.ghtml), [G1 (2025-05-14)](https://g1.globo.com/politica/noticia/2025/05/14/stf-tem-unanimidade-para-condenar-zambelli.ghtml), [G1 (2025-08-22)](https://g1.globo.com/jornal-nacional/noticia/2025/08/22/stf-condena-zambelli-a-5-anos-e-3-meses-de-prisao-por-perseguir-armada-homem-em-sp.ghtml).
 - Fontes‑alvo (próximos passos): decisões integrais (votos, acórdãos e anexos), peças da denúncia e laudos; cronologia completa de acessos/logs; cadeia de custódia do material; e documentos que esclareçam autoria, motivação e possíveis redes de apoio (ou a ausência delas).
 
 ## Perguntas abertas (hipóteses)
 
-- `q--person-carla-zambelli-salgado-de-oliveira-cnj-rede-apoio-maior-nao-mapeada` — Pergunta: no caso CNJ, houve rede de apoio (financeira, política, operacional) maior do que a narrativa pública consolidada até aqui indica — e parte relevante ainda não foi mapeada publicamente? Estado: `aberta`.
+- `q--person--carla-zambelli-salgado-de-oliveira--001`
+  - Pergunta: no caso CNJ, houve rede de apoio (financeira, política, operacional) maior do que a narrativa pública consolidada até aqui indica — e parte relevante ainda não foi mapeada publicamente?
+  - Estado: `aberta`.
   - Hipótese: houve rede de apoio maior do que a narrativa pública consolidada até aqui indica, com lacunas relevantes ainda não mapeadas publicamente.
   - Contra‑hipótese: os autos e a prova material do caso CNJ explicam suficientemente os fatos e a cadeia de comando, sem exigir postular uma rede oculta maior.
   - Próximos passos: peças integrais e anexos; perícias e logs; rastros financeiros; depoimentos formais; cadeia de custódia; coerência entre depoimentos e evidências materiais.
   - Notas que avançam: nenhuma ainda.
-- `q--person-carla-zambelli-salgado-de-oliveira-rota-saida-brasil-custodia-italia-apoio-logistico` — Pergunta: a rota de saída do Brasil e a permanência/custódia na Itália envolvem (i) uso de cidadania e (ii) apoio logístico de terceiros? Estado: `aberta`.
+- `q--person--carla-zambelli-salgado-de-oliveira--002`
+  - Pergunta: a rota de saída do Brasil e a permanência/custódia na Itália envolvem (i) uso de cidadania e (ii) apoio logístico de terceiros?
+  - Estado: `aberta`.
   - Hipótese: a rota e a permanência/custódia envolveram apoio logístico relevante de terceiros (além de fatores legais como cidadania).
   - Contra‑hipótese: a saída/permanência pode ser explicada por decisões legais e escolhas individuais (incluindo cidadania), sem evidência pública de apoio logístico relevante de terceiros.
   - Próximos passos: decisões e pedidos de cooperação; registros públicos de imigração (quando/onde existirem); documentos de defesa; dados de autoridades italianas; cronologia detalhada e auditável.
@@ -113,16 +117,16 @@ _Última atualização: 2026-01-09. ID Skepvox: `person--carla-zambelli-salgado-
 ### 2019–2022 — 1º mandato (Câmara) e episódios públicos
 
 - 2019-02-01 — Posse como deputada federal (2019–2023), eleita por SP (PSL), segundo biografia institucional. Status: `documented`. Fonte: [Câmara (biografia)](https://www.camara.leg.br/deputados/204507/biografia).
-- 2020-02-15 — Casamento em Brasília com presença de autoridades do Executivo e do então ministro Sergio Moro, segundo cobertura. Status: `documented`. Fonte: [Poder360 (2020-02-15)](https://www.poder360.com.br/congresso/casamento-de-zambelli-reune-moro-weintraub-e-regina-duarte-em-brasilia/).
+- 2020-02-15 — Casamento em Brasília com presença de autoridades do Executivo e do então ministro [Sergio Moro](/demos/pessoas/sergio-fernando-moro), segundo cobertura. Status: `documented`. Fonte: [Poder360 (2020-02-15)](https://www.poder360.com.br/congresso/casamento-de-zambelli-reune-moro-weintraub-e-regina-duarte-em-brasilia/).
 - 2022 — Filiação ao Partido Liberal (PL), segundo biografia institucional. Status: `documented`. Fonte: [Câmara (biografia)](https://www.camara.leg.br/deputados/204507/biografia).
 - 2022-10-29 — Episódio de perseguição armada em São Paulo (véspera do 2º turno de 2022), citado em condenação posterior no STF (segundo cobertura). Status: `documented`. Fonte: [G1 (2025-08-22)](https://g1.globo.com/jornal-nacional/noticia/2025/08/22/stf-condena-zambelli-a-5-anos-e-3-meses-de-prisao-por-perseguir-armada-homem-em-sp.ghtml).
 
 ### 2022–2023 — Caso CNJ (alegações de investigação)
 
 - 2022-07 — Em depoimento, Delgatti relata que conheceu Zambelli em julho de 2022, em hotel de Ribeirão Preto (SP) (alegação em depoimento). Status: `reported`. Fonte: [Senado (2023-08-17)](https://www12.senado.leg.br/noticias/materias/2023/08/17/hacker-confirma-encontro-com-bolsonaro-e-revela-promessa-de-indulto).
-- 2022-08-10 — Em depoimento, Delgatti afirma encontro com Jair Bolsonaro no Palácio da Alvorada com presença de Zambelli (alegação em depoimento). Status: `reported`. Fonte: [Senado (2023-08-17)](https://www12.senado.leg.br/noticias/materias/2023/08/17/hacker-confirma-encontro-com-bolsonaro-e-revela-promessa-de-indulto).
+- 2022-08-10 — Em depoimento, Delgatti afirma encontro com [Jair Bolsonaro](/demos/pessoas/jair-messias-bolsonaro) no Palácio da Alvorada com presença de Zambelli (alegação em depoimento). Status: `reported`. Fonte: [Senado (2023-08-17)](https://www12.senado.leg.br/noticias/materias/2023/08/17/hacker-confirma-encontro-com-bolsonaro-e-revela-promessa-de-indulto).
 - 2022-11 — Segundo a investigação descrita em cobertura, a invasão ao site do CNJ ocorreu em novembro de 2022. Status: `reported`. Fonte: [G1 (2024-04-23)](https://g1.globo.com/politica/blog/julia-duailibi/post/2024/04/23/pgr-denuncia-zambelli.ghtml).
-- 2023-01-04 — Segundo a cobertura, Delgatti inseriu documentos falsos no sistema do CNJ, incluindo um mandado de prisão falso contra Alexandre de Moraes (alegação de investigação). Status: `reported`. Fonte: [G1 (2024-04-23)](https://g1.globo.com/politica/blog/julia-duailibi/post/2024/04/23/pgr-denuncia-zambelli.ghtml).
+- 2023-01-04 — Segundo a cobertura, Delgatti inseriu documentos falsos no sistema do CNJ, incluindo um mandado de prisão falso contra [Alexandre de Moraes](/demos/pessoas/alexandre-de-moraes) (alegação de investigação). Status: `reported`. Fonte: [G1 (2024-04-23)](https://g1.globo.com/politica/blog/julia-duailibi/post/2024/04/23/pgr-denuncia-zambelli.ghtml).
 
 ### 2023–2025 — 2º mandato, investigações e condenações
 
@@ -185,7 +189,7 @@ _Última atualização: 2026-01-09. ID Skepvox: `person--carla-zambelli-salgado-
 - [Walter Delgatti Neto](/demos/pessoas/walter-delgatti-neto) — co-réu e co-condenado no caso CNJ (segundo cobertura). Fontes: [G1 (2024-05-21)](https://g1.globo.com/politica/noticia/2024/05/21/primeira-turma-stf-denuncia-carla-zambelli-walter-delgatti.ghtml), [G1 (2025-05-14)](https://g1.globo.com/politica/noticia/2025/05/14/stf-tem-unanimidade-para-condenar-zambelli.ghtml).
 - [Jair Messias Bolsonaro](/demos/pessoas/jair-messias-bolsonaro) — citado em depoimento de Delgatti como presente em encontro no Palácio da Alvorada com Zambelli (alegação em depoimento). Status: `reported`. Fonte: [Senado (2023-08-17)](https://www12.senado.leg.br/noticias/materias/2023/08/17/hacker-confirma-encontro-com-bolsonaro-e-revela-promessa-de-indulto).
 - [Sergio Fernando Moro](/demos/pessoas/sergio-fernando-moro) — citado em cobertura sobre cerimônia de casamento (2020). Status: `documented`. Fonte: [Poder360 (2020-02-15)](https://www.poder360.com.br/congresso/casamento-de-zambelli-reune-moro-weintraub-e-regina-duarte-em-brasilia/).
-- Pessoas citadas nas fontes (sem página ainda no Skepvox): Alexandre de Moraes; Dilma Rousseff; Jean Wyllys; Sara Giromini (“Sara Winter”); Paulo Pimenta; Waldemar da Costa Neto.
+- Pessoas citadas nas fontes (sem página ainda no Skepvox): [Alexandre de Moraes](/demos/pessoas/alexandre-de-moraes); Dilma Rousseff; Jean Wyllys; Sara Giromini (“Sara Winter”); Paulo Pimenta; Waldemar da Costa Neto.
 
 ## Organizações relacionadas
 

@@ -8,7 +8,7 @@ demos:
   seed: no
   seed-id: person--luiz-inacio-lula-da-silva
   target-questions:
-    - q--person-luiz-inacio-lula-da-silva-rede-influencia-timing-desfechos
+    - q--person--luiz-inacio-lula-da-silva--001
   country: BR
   identifiers:
     wikidata: Q657089
@@ -20,7 +20,6 @@ demos:
     - partido-politico
     - brasil
 ---
-
 # Partido dos Trabalhadores (PT)
 
 _Última atualização: 2026-01-09. ID Skepvox: `org--partido-dos-trabalhadores-pt`._
@@ -32,9 +31,9 @@ _Última atualização: 2026-01-09. ID Skepvox: `org--partido-dos-trabalhadores-
 
 ## Por que está no mapa
 
-- Conexão de origem: rede inicial de [Luiz Inácio Lula da Silva (Lula)](/demos/pessoas/luiz-inacio-lula-da-silva) (semente).
-- Perguntas-alvo (rastreamento): `q--person-luiz-inacio-lula-da-silva-rede-influencia-timing-desfechos`.
-- Evidência mínima: é citado como partido fundado em 1980 e ligado à trajetória sindical/política de Lula (registro biográfico). Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
+- Conexão de origem: rede inicial de [Luiz Inácio Lula da Silva](/demos/pessoas/luiz-inacio-lula-da-silva) (semente).
+- Perguntas-alvo (rastreamento): `q--person--luiz-inacio-lula-da-silva--001`.
+- Evidência mínima: é citado como partido fundado em 1980 e ligado à trajetória sindical/política de [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) (registro biográfico). Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
 - Fontes‑alvo (próximos passos): manifesto/ata de fundação, registros eleitorais e documentos partidários relevantes (sempre com triangulação).
 
 ## Resumo
@@ -57,7 +56,7 @@ Partido político brasileiro fundado em 1980. Fonte (registro biográfico): [Pla
 
 ## Pessoas relacionadas
 
-- [Luiz Inácio Lula da Silva (Lula)](/demos/pessoas/luiz-inacio-lula-da-silva) — citado como um dos fundadores. Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
+- [Luiz Inácio Lula da Silva](/demos/pessoas/luiz-inacio-lula-da-silva) — citado como um dos fundadores. Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
 
 ## Fontes
 

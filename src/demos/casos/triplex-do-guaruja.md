@@ -8,8 +8,8 @@ demos:
   seed: no
   seed-id: person--luiz-inacio-lula-da-silva
   target-questions:
-    - q--person-luiz-inacio-lula-da-silva-rede-influencia-timing-desfechos
-    - q--person-sergio-fernando-moro-coordenacao-indevida-juiz-acusacao
+    - q--person--luiz-inacio-lula-da-silva--001
+    - q--person--sergio-fernando-moro--001
   country: BR
   aliases:
     - Caso do tríplex
@@ -34,14 +34,16 @@ _Última atualização: 2026-01-09. ID Skepvox: `case--triplex-do-guaruja`._
 
 ## Por que está no mapa
 
-- Conexão de origem: rede inicial de [Luiz Inácio Lula da Silva (Lula)](/demos/pessoas/luiz-inacio-lula-da-silva) (semente), via [Operação Lava Jato](/demos/casos/operacao-lava-jato).
-- Perguntas-alvo (rastreamento): `q--person-luiz-inacio-lula-da-silva-rede-influencia-timing-desfechos`; `q--person-sergio-fernando-moro-coordenacao-indevida-juiz-acusacao`.
+- Conexão de origem: rede inicial de [Luiz Inácio Lula da Silva](/demos/pessoas/luiz-inacio-lula-da-silva) (semente), via [Operação Lava Jato](/demos/casos/operacao-lava-jato).
+- Perguntas-alvo (rastreamento): `q--person--luiz-inacio-lula-da-silva--001`; `q--person--sergio-fernando-moro--001`.
 - Evidência mínima: caso com efeitos diretos sobre condenação, prisão e decisões posteriores (competência/suspeição/arquivamento), conforme cobertura e notícias institucionais. Fontes: [BBC](https://www.bbc.com/portuguese/brasil-40488914), [STF](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1), [G1](https://g1.globo.com/jornal-nacional/noticia/2022/01/28/justica-federal-do-df-arquiva-processo-contra-lula-no-caso-do-triplex.ghtml).
 - Fontes‑alvo (próximos passos): sentença, acórdãos (TRF-4/STJ/STF), peças e decisões integrais, e movimentações processuais para auditoria cronológica.
 
 ## Perguntas abertas (hipóteses)
 
-- `q--case-triplex-do-guaruja-influencia-indevida-decisoes-chave` — Pergunta: houve influência indevida (política/institucional) que afetou decisões-chave do caso (condenação, recursos, nulidades, suspeição)? Estado: `em-apuracao`.
+- `q--case--triplex-do-guaruja--001`
+  - Pergunta: houve influência indevida (política/institucional) que afetou decisões-chave do caso (condenação, recursos, nulidades, suspeição)?
+  - Estado: `em-apuracao`.
   - Hipótese: houve influência indevida que afetou decisões-chave do caso.
   - Contra‑hipótese: os desfechos decorrem de fundamentos jurídicos (competência, nulidades, devido processo) e não exigem postular interferência externa.
   - Próximos passos: mapear e linkar votos/decisões integrais, datas e fundamentos; comparar com casos análogos; registrar mudanças de jurisprudência e impactos.
@@ -49,9 +51,9 @@ _Última atualização: 2026-01-09. ID Skepvox: `case--triplex-do-guaruja`._
 
 ## Resumo
 
-- Caso criminal associado à Operação Lava Jato que resultou em condenação de Lula em 1ª instância (2017) e manutenção em 2ª instância (2018), conforme cobertura jornalística. Fontes: [BBC](https://www.bbc.com/portuguese/brasil-40488914), [G1](https://g1.globo.com/politica/noticia/julgamento-recurso-de-lula-no-trf-4-decisao-desembargadores-da-8-turma.ghtml).
+- Caso criminal associado à Operação Lava Jato que resultou em condenação de [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) em 1ª instância (2017) e manutenção em 2ª instância (2018), conforme cobertura jornalística. Fontes: [BBC](https://www.bbc.com/portuguese/brasil-40488914), [G1](https://g1.globo.com/politica/noticia/julgamento-recurso-de-lula-no-trf-4-decisao-desembargadores-da-8-turma.ghtml).
 - Em 2019, o STJ manteve a condenação e reduziu a pena (segundo cobertura). Fonte: [G1](https://g1.globo.com/politica/noticia/2019/04/23/maioria-da-5a-turma-do-stj-mantem-condenacao-mas-vota-pela-reducao-da-pena-de-lula.ghtml).
-- Em 2021, o Plenário do STF confirmou (8×3) a anulação das condenações ligadas à Lava Jato, ao rejeitar recurso da PGR contra decisão do ministro Edson Fachin sobre competência do juízo de Curitiba, conforme notícia institucional. Fonte: [STF](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1).
+- Em 2021, o Plenário do STF confirmou (8×3) a anulação das condenações ligadas à Lava Jato, ao rejeitar recurso da PGR contra decisão do ministro [Edson Fachin](/demos/pessoas/luiz-edson-fachin) sobre competência do juízo de Curitiba, conforme notícia institucional. Fonte: [STF](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1).
 - Em 2021, a 2ª Turma do STF declarou a suspeição de [Sergio Fernando Moro](/demos/pessoas/sergio-fernando-moro) no processo do tríplex, e o Plenário reconheceu a decisão (segundo cobertura). Fontes: [G1 (2021-03-23)](https://g1.globo.com/politica/noticia/2021/03/23/carmen-lucia-muda-voto-e-2a-turma-do-stf-declara-que-moro-foi-parcial-ao-condenar-lula.ghtml), [G1 (2021-06-23)](https://g1.globo.com/politica/noticia/2021/06/23/plenario-do-stf-reconhece-decisao-da-segunda-turma-que-declarou-moro-parcial-ao-condenar-lula.ghtml).
 - Após a remessa do caso para Brasília, o MPF opinou por arquivamento por prescrição (2021-12) e a Justiça Federal do DF arquivou o processo em 2022-01 (segundo cobertura). Fontes: [G1 (2021-12-07)](https://g1.globo.com/politica/noticia/2021/12/07/mp-ve-prescricao-e-opina-por-arquivamento-de-denuncia-contra-lula-no-caso-do-triplex-do-guaruja.ghtml), [G1 (2022-01-28)](https://g1.globo.com/jornal-nacional/noticia/2022/01/28/justica-federal-do-df-arquiva-processo-contra-lula-no-caso-do-triplex.ghtml).
 
@@ -70,7 +72,7 @@ _Última atualização: 2026-01-09. ID Skepvox: `case--triplex-do-guaruja`._
 
 ### 2021–2022 — Nulidade, suspeição, remessa e arquivamento
 
-- 2021-03-08 — Decisão do ministro Edson Fachin anula condenações de Lula ligadas à Lava Jato por questões de competência (segundo cobertura). Status: `documented`. Fonte: [Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2021-03/fachin-anula-condenacoes-de-lula-na-lava-jato).
+- 2021-03-08 — Decisão do ministro [Edson Fachin](/demos/pessoas/luiz-edson-fachin) anula condenações de [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) ligadas à Lava Jato por questões de competência (segundo cobertura). Status: `documented`. Fonte: [Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2021-03/fachin-anula-condenacoes-de-lula-na-lava-jato).
 - 2021-04-15 — STF confirma anulação das condenações (8×3), em decisão sobre competência do juízo da 13ª Vara Federal de Curitiba (segundo notícia institucional). Status: `documented`. Fonte: [STF](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1).
 - 2021-03 — 2ª Turma do STF declara suspeição de [Sergio Fernando Moro](/demos/pessoas/sergio-fernando-moro); e o Plenário reconhece a decisão em 2021-06 (segundo cobertura). Status: `documented`. Fontes: [G1 (2021-03-23)](https://g1.globo.com/politica/noticia/2021/03/23/carmen-lucia-muda-voto-e-2a-turma-do-stf-declara-que-moro-foi-parcial-ao-condenar-lula.ghtml), [G1 (2021-06-23)](https://g1.globo.com/politica/noticia/2021/06/23/plenario-do-stf-reconhece-decisao-da-segunda-turma-que-declarou-moro-parcial-ao-condenar-lula.ghtml).
 - 2021-12-07 — MPF aponta prescrição e opina por arquivamento no DF (segundo cobertura). Status: `documented`. Fonte: [G1](https://g1.globo.com/politica/noticia/2021/12/07/mp-ve-prescricao-e-opina-por-arquivamento-de-denuncia-contra-lula-no-caso-do-triplex-do-guaruja.ghtml).
@@ -87,16 +89,16 @@ _Última atualização: 2026-01-09. ID Skepvox: `case--triplex-do-guaruja`._
 
 ### 2021–2022
 
-- 2021-03-08 — Ministro Edson Fachin anula condenações de Lula ligadas à Lava Jato por questões de competência (segundo cobertura). Status: `documented`. Fonte: [Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2021-03/fachin-anula-condenacoes-de-lula-na-lava-jato).
+- 2021-03-08 — Ministro [Edson Fachin](/demos/pessoas/luiz-edson-fachin) anula condenações de [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) ligadas à Lava Jato por questões de competência (segundo cobertura). Status: `documented`. Fonte: [Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2021-03/fachin-anula-condenacoes-de-lula-na-lava-jato).
 - 2021-04-15 — STF confirma anulação das condenações (8×3) (segundo notícia institucional). Status: `documented`. Fonte: [STF](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1).
-- 2021-03-23 — 2ª Turma do STF declara que [Sergio Fernando Moro](/demos/pessoas/sergio-fernando-moro) foi parcial ao condenar Lula (segundo cobertura). Status: `documented`. Fonte: [G1](https://g1.globo.com/politica/noticia/2021/03/23/carmen-lucia-muda-voto-e-2a-turma-do-stf-declara-que-moro-foi-parcial-ao-condenar-lula.ghtml).
+- 2021-03-23 — 2ª Turma do STF declara que [Sergio Fernando Moro](/demos/pessoas/sergio-fernando-moro) foi parcial ao condenar [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) (segundo cobertura). Status: `documented`. Fonte: [G1](https://g1.globo.com/politica/noticia/2021/03/23/carmen-lucia-muda-voto-e-2a-turma-do-stf-declara-que-moro-foi-parcial-ao-condenar-lula.ghtml).
 - 2021-06-23 — Plenário do STF reconhece decisão da 2ª Turma que declarou [Sergio Fernando Moro](/demos/pessoas/sergio-fernando-moro) parcial (segundo cobertura). Status: `documented`. Fonte: [G1](https://g1.globo.com/politica/noticia/2021/06/23/plenario-do-stf-reconhece-decisao-da-segunda-turma-que-declarou-moro-parcial-ao-condenar-lula.ghtml).
 - 2021-12-07 — MPF aponta prescrição e opina por arquivamento no DF (segundo cobertura). Status: `documented`. Fonte: [G1](https://g1.globo.com/politica/noticia/2021/12/07/mp-ve-prescricao-e-opina-por-arquivamento-de-denuncia-contra-lula-no-caso-do-triplex-do-guaruja.ghtml).
 - 2022-01-28 — Justiça Federal do DF arquiva processo (segundo cobertura). Status: `documented`. Fonte: [G1](https://g1.globo.com/jornal-nacional/noticia/2022/01/28/justica-federal-do-df-arquiva-processo-contra-lula-no-caso-do-triplex.ghtml).
 
 ## Pessoas relacionadas
 
-- [Luiz Inácio Lula da Silva (Lula)](/demos/pessoas/luiz-inacio-lula-da-silva).
+- [Luiz Inácio Lula da Silva](/demos/pessoas/luiz-inacio-lula-da-silva).
 - [Luiz Edson Fachin](/demos/pessoas/luiz-edson-fachin) — decisão de 2021 sobre competência (efeitos sobre condenações, segundo notícia). Fonte: [STF](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1).
 - [Sergio Fernando Moro](/demos/pessoas/sergio-fernando-moro).
 
@@ -106,13 +108,13 @@ _Última atualização: 2026-01-09. ID Skepvox: `case--triplex-do-guaruja`._
 
 ## Fontes
 
-- BBC — “Moro condena Lula a 9 anos e meio de prisão por caso do tríplex no Guarujá” (acesso em 2026-01-09): https://www.bbc.com/portuguese/brasil-40488914
-- G1 — “Em decisão unânime, tribunal condena Lula em 2ª instância e aumenta pena de 9 para 12 anos” (acesso em 2026-01-09): https://g1.globo.com/politica/noticia/julgamento-recurso-de-lula-no-trf-4-decisao-desembargadores-da-8-turma.ghtml
-- G1 — “Lula se entrega à PF e é preso para cumprir pena por corrupção e lavagem de dinheiro” (acesso em 2026-01-09): https://g1.globo.com/sp/sao-paulo/noticia/lula-se-entrega-a-pf-para-cumprir-pena-por-corrupcao-e-lavagem-de-dinheiro.ghtml
+- BBC — “Moro condena [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) a 9 anos e meio de prisão por caso do tríplex no Guarujá” (acesso em 2026-01-09): https://www.bbc.com/portuguese/brasil-40488914
+- G1 — “Em decisão unânime, tribunal condena [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) em 2ª instância e aumenta pena de 9 para 12 anos” (acesso em 2026-01-09): https://g1.globo.com/politica/noticia/julgamento-recurso-de-lula-no-trf-4-decisao-desembargadores-da-8-turma.ghtml
+- G1 — “[Lula](/demos/pessoas/luiz-inacio-lula-da-silva) se entrega à PF e é preso para cumprir pena por corrupção e lavagem de dinheiro” (acesso em 2026-01-09): https://g1.globo.com/sp/sao-paulo/noticia/lula-se-entrega-a-pf-para-cumprir-pena-por-corrupcao-e-lavagem-de-dinheiro.ghtml
 - G1 — “STJ mantém condenação e reduz pena para 8 anos e 10 meses” (acesso em 2026-01-09): https://g1.globo.com/politica/noticia/2019/04/23/maioria-da-5a-turma-do-stj-mantem-condenacao-mas-vota-pela-reducao-da-pena-de-lula.ghtml
-- Agência Brasil — “Fachin anula condenações de Lula na Lava Jato” (acesso em 2026-01-09): https://agenciabrasil.ebc.com.br/justica/noticia/2021-03/fachin-anula-condenacoes-de-lula-na-lava-jato
-- STF — “STF confirma anulação de condenações do ex-presidente Lula na Lava Jato” (acesso em 2026-01-09): https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1
-- G1 — “2ª Turma do STF declara que Moro foi parcial ao condenar Lula” (acesso em 2026-01-09): https://g1.globo.com/politica/noticia/2021/03/23/carmen-lucia-muda-voto-e-2a-turma-do-stf-declara-que-moro-foi-parcial-ao-condenar-lula.ghtml
+- Agência Brasil — “Fachin anula condenações de [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) na Lava Jato” (acesso em 2026-01-09): https://agenciabrasil.ebc.com.br/justica/noticia/2021-03/fachin-anula-condenacoes-de-lula-na-lava-jato
+- STF — “STF confirma anulação de condenações do ex-presidente [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) na Lava Jato” (acesso em 2026-01-09): https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1
+- G1 — “2ª Turma do STF declara que Moro foi parcial ao condenar [Lula](/demos/pessoas/luiz-inacio-lula-da-silva)” (acesso em 2026-01-09): https://g1.globo.com/politica/noticia/2021/03/23/carmen-lucia-muda-voto-e-2a-turma-do-stf-declara-que-moro-foi-parcial-ao-condenar-lula.ghtml
 - G1 — “Plenário do STF reconhece decisão da Segunda Turma que declarou Moro parcial” (acesso em 2026-01-09): https://g1.globo.com/politica/noticia/2021/06/23/plenario-do-stf-reconhece-decisao-da-segunda-turma-que-declarou-moro-parcial-ao-condenar-lula.ghtml
 - G1 — “MP vê prescrição e opina por arquivamento no caso do triplex do Guarujá” (acesso em 2026-01-09): https://g1.globo.com/politica/noticia/2021/12/07/mp-ve-prescricao-e-opina-por-arquivamento-de-denuncia-contra-lula-no-caso-do-triplex-do-guaruja.ghtml
-- G1 — “Justiça Federal do DF arquiva processo contra Lula no caso do triplex” (acesso em 2026-01-09): https://g1.globo.com/jornal-nacional/noticia/2022/01/28/justica-federal-do-df-arquiva-processo-contra-lula-no-caso-do-triplex.ghtml
+- G1 — “Justiça Federal do DF arquiva processo contra [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) no caso do triplex” (acesso em 2026-01-09): https://g1.globo.com/jornal-nacional/noticia/2022/01/28/justica-federal-do-df-arquiva-processo-contra-lula-no-caso-do-triplex.ghtml

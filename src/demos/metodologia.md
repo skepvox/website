@@ -149,11 +149,10 @@ deve ser rastreável e cada nota derivada deve declarar quais perguntas ela tent
 Regras:
 
 - **Toda pergunta tem um ID estável** (para busca, automação e revisão):
-  - Formato: `q--<escopo>-<slug-do-escopo>-<assunto>`.
-  - `escopo`: `person`, `org` ou `case`.
-  - `slug-do-escopo`: o slug do arquivo da entidade (sem o prefixo `person--`/`org--`/`case--`).
-  - `assunto`: resumo curto em slug (`-`), sem `--`.
-  - Ex.: `q--case-operacao-spoofing-auditabilidade-integridade-cadeia-de-custodia`.
+  - Formato: `q--<note-id>--<nnn>`.
+  - `note-id`: o `demos.id` da nota onde a pergunta vive (ex.: `person--nome-sobrenome`, `org--nome-da-org`, `case--nome-do-caso`).
+  - `nnn`: número sequencial de 3 dígitos dentro da nota (`001`, `002`, …). Evite renumerar; novas perguntas entram com o próximo número disponível.
+  - Ex.: `q--case--operacao-spoofing--001`.
 - **Toda pergunta tem um “Estado”** (sempre explícito):
   - `aberta` — sem trabalho direcionado ainda.
   - `em-apuracao` — existe pelo menos 1 nota derivada atacando a pergunta.
@@ -176,7 +175,9 @@ Formato sugerido para hipóteses (no corpo da página):
 
 Formato sugerido para perguntas abertas (no corpo da página):
 
-- `q--...` — Pergunta: … Estado: `aberta`.
+- `q--<note-id>--001`
+  - Pergunta: …
+  - Estado: `aberta`.
   - Hipótese: …
   - Contra-hipótese: …
   - Próximos passos: … (documentos-alvo)

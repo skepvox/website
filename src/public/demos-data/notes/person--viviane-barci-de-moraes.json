@@ -1,0 +1,343 @@
+{
+  "schema": "skepvox--demos-note",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/pessoas/viviane-barci-de-moraes.md",
+    "sha256": "7651dd366b9047b1d86d193566635d1b6520baf3af904b7840a7160637373984"
+  },
+  "id": "person--viviane-barci-de-moraes",
+  "type": "person",
+  "url": "/demos/pessoas/viviane-barci-de-moraes",
+  "title": "Viviane Barci de Moraes",
+  "description": "Linha do tempo e fontes públicas sobre Viviane Barci de Moraes.",
+  "updatedAt": "2026-01-10",
+  "demos": {
+    "id": "person--viviane-barci-de-moraes",
+    "type": "person",
+    "mapLabel": "viviane-de-moraes",
+    "portrait": "viviane-barci-de-moraes.png",
+    "seed": "no",
+    "seed-id": "case--caso-banco-master",
+    "target-questions": [
+      "q--case--caso-banco-master--003"
+    ],
+    "country": "BR",
+    "identifiers": {
+      "wikidata": "Q136352971"
+    },
+    "aliases": [
+      "Viviane Barci de Moraes"
+    ],
+    "tags": [
+      "advocacia",
+      "justica",
+      "banco-master"
+    ]
+  },
+  "frontmatter": {
+    "title": "Viviane Barci de Moraes",
+    "description": "Linha do tempo e fontes públicas sobre Viviane Barci de Moraes.",
+    "demos": {
+      "id": "person--viviane-barci-de-moraes",
+      "type": "person",
+      "mapLabel": "viviane-de-moraes",
+      "portrait": "viviane-barci-de-moraes.png",
+      "seed": "no",
+      "seed-id": "case--caso-banco-master",
+      "target-questions": [
+        "q--case--caso-banco-master--003"
+      ],
+      "country": "BR",
+      "identifiers": {
+        "wikidata": "Q136352971"
+      },
+      "aliases": [
+        "Viviane Barci de Moraes"
+      ],
+      "tags": [
+        "advocacia",
+        "justica",
+        "banco-master"
+      ]
+    }
+  },
+  "frontmatterYaml": "title: 'Viviane Barci de Moraes'\ndescription: 'Linha do tempo e fontes públicas sobre Viviane Barci de Moraes.'\ndemos:\n  id: person--viviane-barci-de-moraes\n  type: person\n  mapLabel: viviane-de-moraes\n  portrait: viviane-barci-de-moraes.png\n  seed: no\n  seed-id: case--caso-banco-master\n  target-questions:\n    - q--case--caso-banco-master--003\n  country: BR\n  identifiers:\n    wikidata: Q136352971\n  aliases:\n    - Viviane Barci de Moraes\n  tags:\n    - advocacia\n    - justica\n    - banco-master",
+  "bodyMarkdown": "# Viviane Barci de Moraes\n\n::: info Nota editorial (Skepvox)\nEsta página entra no mapa por menção jornalística/noticiosa a vínculo profissional com o [Banco Master](/demos/organizacoes/banco-master)\nno contexto de uma representação arquivada pela PGR. O objetivo é registrar o que a fonte descreve\ne explicitar perguntas investigáveis, evitando acusações sem lastro.\n:::\n\n_Última atualização: 2026-01-10. ID Skepvox: `person--viviane-barci-de-moraes`._\n\n<DemosPortraitSvg />\n\n## Situação atual\n\n- Ocupação: advogada, segundo fonte pública. Fonte: [Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2025-12/pgr-descarta-ilicitude-e-arquiva-pedido-para-investigar-moraes).\n- Vínculo familiar mencionado na fonte: identificada como esposa do ministro do STF [Alexandre de Moraes](/demos/pessoas/alexandre-de-moraes). Fonte: [Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2025-12/pgr-descarta-ilicitude-e-arquiva-pedido-para-investigar-moraes).\n- Caso [Master](/demos/organizacoes/banco-master) (relato noticioso): citada em representação do advogado Enio Martins Murad, que alegava contrato de serviços advocatícios com o [Banco Master](/demos/organizacoes/banco-master) e mencionava (com base em matérias jornalísticas) interlocução com o presidente do Banco Central, Gabriel Galípolo; o procurador-geral [Paulo Gonet](/demos/pessoas/paulo-gonet-branco) arquivou o pedido citando “absoluta ausência de lastro probatório mínimo” e afirmando não vislumbrar ilicitude a priori no contrato mencionado. Fonte: [Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2025-12/pgr-descarta-ilicitude-e-arquiva-pedido-para-investigar-moraes).\n\n## Por que está no mapa\n\n- Conexão de origem: caso [Caso Banco Master](/demos/casos/caso-banco-master) (semente).\n- Perguntas-alvo (rastreamento): `q--case--caso-banco-master--003`.\n- Evidência mínima: é mencionada em reportagem sobre uma representação apresentada pelo advogado Enio Martins Murad no contexto do caso [Master](/demos/organizacoes/banco-master); segundo a matéria, a representação se baseava em matérias jornalísticas e citava suposto contrato de serviços advocatícios com o banco, e o pedido foi arquivado pelo procurador-geral [Paulo Gonet](/demos/pessoas/paulo-gonet-branco). Fonte: [Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2025-12/pgr-descarta-ilicitude-e-arquiva-pedido-para-investigar-moraes).\n- Fontes‑alvo (próximos passos): despacho integral e íntegra da representação (com data e número do procedimento), além de documentação do contrato (se houver publicização) e registros formais que permitam auditar escopo, período e eventual gestão de conflitos.\n\n## Perguntas abertas (hipóteses)\n\n- `q--person--viviane-barci-de-moraes--001`\n  - Pergunta: qual foi o escopo, período e natureza do contrato de serviços advocatícios citado na matéria (se houver documentação pública)?\n  - Estado: `aberta`.\n  - Hipótese: os termos do contrato são verificáveis e permitem avaliar se houve ou não risco material de conflito.\n  - Contra-hipótese: não há documentação pública suficiente; e, conforme a PGR, os relatos disponíveis não indicam ilicitude nem lastro probatório mínimo para investigação no formato representado.\n  - Próximos passos: localizar despacho integral e a representação; identificar se há publicização contratual por vias oficiais; buscar declarações formais das partes.\n  - Notas que avançam: nenhuma ainda.\n- `q--person--viviane-barci-de-moraes--002`\n  - Pergunta: existem registros documentais de medidas de mitigação (recusa/impedimento) relacionadas ao caso [Master](/demos/organizacoes/banco-master) em função de alegações de vínculo profissional?\n  - Estado: `aberta`.\n  - Hipótese: há registro formal (ou decisão) sobre gestão de conflito.\n  - Contra-hipótese: não há ato conectando o vínculo alegado a atuação decisória; e a ausência de lastro probatório descrita pela PGR indica que o tema permanece no campo de suposições.\n  - Próximos passos: buscar decisões e atos; acompanhar manifestações de órgãos de controle e notas públicas.\n  - Notas que avançam: nenhuma ainda.\n\n## Identidade (básico)\n\n- Nome: Viviane Barci de Moraes. Fonte: [Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2025-12/pgr-descarta-ilicitude-e-arquiva-pedido-para-investigar-moraes).\n- Ocupação: advogada (alto nível). Fontes: [Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2025-12/pgr-descarta-ilicitude-e-arquiva-pedido-para-investigar-moraes), [Wikidata (Q136352971)](https://www.wikidata.org/wiki/Q136352971).\n- Cônjuge (alto nível, conforme fontes citadas): [Alexandre de Moraes](/demos/pessoas/alexandre-de-moraes). Fontes: [Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2025-12/pgr-descarta-ilicitude-e-arquiva-pedido-para-investigar-moraes), [Wikidata (Q136352971)](https://www.wikidata.org/wiki/Q136352971).\n- Nascimento e formação: nenhuma informação encontrada (nesta nota) até o momento; a expandir com fontes públicas verificáveis.\n\n## Linha do tempo\n\n### —–2025 — Dados biográficos (lacunas)\n\n- — — Nascimento: não localizado (nesta nota) até o momento; a expandir com fontes públicas verificáveis.\n- —–2025 — Nenhuma informação encontrada (nesta nota) sobre escolarização e trajetória profissional detalhada anterior ao caso [Master](/demos/organizacoes/banco-master).\n\n### 2025 — PGR e Caso [Master](/demos/organizacoes/banco-master) (segundo fonte pública)\n\n- 2025-12 (data não informada) — Representação do advogado Enio Martins Murad pede investigação de [Alexandre de Moraes](/demos/pessoas/alexandre-de-moraes) e Viviane Barci de Moraes; segundo a reportagem, a representação se baseava em matérias jornalísticas e citava suposto contrato de serviços advocatícios com o [Banco Master](/demos/organizacoes/banco-master), além de alegações de interlocução com o presidente do Banco Central, Gabriel Galípolo, e de crimes como tráfico de influência e advocacia administrativa. Status: `reported`. Fonte: [Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2025-12/pgr-descarta-ilicitude-e-arquiva-pedido-para-investigar-moraes).\n- 2025-12 (data não informada) — Representação do advogado Enio Martins Murad pede investigação de [Alexandre de Moraes](/demos/pessoas/alexandre-de-moraes) e Viviane Barci de Moraes; segundo a reportagem, a representação se baseava em matérias jornalísticas e citava suposto contrato de serviços advocatícios com o [Banco Master](/demos/organizacoes/banco-master), além de alegações de interlocução com o presidente do Banco Central, Gabriel Galípolo, e citava crimes como tráfico de influência e advocacia administrativa como hipóteses na representação. Status: `reported`. Fonte: [Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2025-12/pgr-descarta-ilicitude-e-arquiva-pedido-para-investigar-moraes).\n- 2025-12-27 — Procurador-geral [Paulo Gonet](/demos/pessoas/paulo-gonet-branco) arquiva o pedido (despacho publicado em 27/12, segundo a reportagem), citando “absoluta ausência de lastro probatório mínimo” e afirmando não vislumbrar ilicitude a priori no contrato mencionado. Status: `reported`. Fonte: [Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2025-12/pgr-descarta-ilicitude-e-arquiva-pedido-para-investigar-moraes).\n\n## Eventos\n\n### 2025\n\n- 2025-12 (data não informada) — Reportagem descreve representação do advogado Enio Martins Murad pedindo investigação e citando suposto contrato de serviços advocatícios com o [Banco Master](/demos/organizacoes/banco-master), além de interlocução alegada (a partir de matérias jornalísticas) com o presidente do Banco Central, Gabriel Galípolo. Status: `reported`. Fonte: [Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2025-12/pgr-descarta-ilicitude-e-arquiva-pedido-para-investigar-moraes).\n- 2025-12-27 — PGR arquiva pedido no contexto do caso [Master](/demos/organizacoes/banco-master) (despacho publicado em 27/12, segundo a reportagem), citando ausência de lastro probatório mínimo e afirmando não vislumbrar ilicitude a priori no contrato mencionado. Status: `reported`. Fonte: [Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2025-12/pgr-descarta-ilicitude-e-arquiva-pedido-para-investigar-moraes).\n\n## Organizações relacionadas\n\n- [Banco Master](/demos/organizacoes/banco-master).\n\n## Casos relacionados\n\n- [Caso Banco Master](/demos/casos/caso-banco-master)\n\n## Relações familiares\n\n- [Alexandre de Moraes](/demos/pessoas/alexandre-de-moraes) — cônjuge (esposa), conforme fontes citadas nesta nota. Fonte: [Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2025-12/pgr-descarta-ilicitude-e-arquiva-pedido-para-investigar-moraes).\n\n## Fontes\n\n- Agência Brasil — “PGR descarta ilicitude e arquiva pedido para investigar Moraes” (acesso em 2026-01-10): https://agenciabrasil.ebc.com.br/justica/noticia/2025-12/pgr-descarta-ilicitude-e-arquiva-pedido-para-investigar-moraes\n- Wikidata — “Viviane Barci de Moraes” (Q136352971) (acesso em 2026-01-10): https://www.wikidata.org/wiki/Q136352971\n",
+  "outboundLinks": [
+    {
+      "text": "Banco Master",
+      "href": "/demos/organizacoes/banco-master"
+    },
+    {
+      "text": "Alexandre de Moraes",
+      "href": "/demos/pessoas/alexandre-de-moraes"
+    },
+    {
+      "text": "Master",
+      "href": "/demos/organizacoes/banco-master"
+    },
+    {
+      "text": "Banco Master",
+      "href": "/demos/organizacoes/banco-master"
+    },
+    {
+      "text": "Paulo Gonet",
+      "href": "/demos/pessoas/paulo-gonet-branco"
+    },
+    {
+      "text": "Caso Banco Master",
+      "href": "/demos/casos/caso-banco-master"
+    },
+    {
+      "text": "Master",
+      "href": "/demos/organizacoes/banco-master"
+    },
+    {
+      "text": "Paulo Gonet",
+      "href": "/demos/pessoas/paulo-gonet-branco"
+    },
+    {
+      "text": "Master",
+      "href": "/demos/organizacoes/banco-master"
+    },
+    {
+      "text": "Alexandre de Moraes",
+      "href": "/demos/pessoas/alexandre-de-moraes"
+    },
+    {
+      "text": "Master",
+      "href": "/demos/organizacoes/banco-master"
+    },
+    {
+      "text": "Master",
+      "href": "/demos/organizacoes/banco-master"
+    },
+    {
+      "text": "Alexandre de Moraes",
+      "href": "/demos/pessoas/alexandre-de-moraes"
+    },
+    {
+      "text": "Banco Master",
+      "href": "/demos/organizacoes/banco-master"
+    },
+    {
+      "text": "Alexandre de Moraes",
+      "href": "/demos/pessoas/alexandre-de-moraes"
+    },
+    {
+      "text": "Banco Master",
+      "href": "/demos/organizacoes/banco-master"
+    },
+    {
+      "text": "Paulo Gonet",
+      "href": "/demos/pessoas/paulo-gonet-branco"
+    },
+    {
+      "text": "Banco Master",
+      "href": "/demos/organizacoes/banco-master"
+    },
+    {
+      "text": "Master",
+      "href": "/demos/organizacoes/banco-master"
+    },
+    {
+      "text": "Banco Master",
+      "href": "/demos/organizacoes/banco-master"
+    },
+    {
+      "text": "Caso Banco Master",
+      "href": "/demos/casos/caso-banco-master"
+    },
+    {
+      "text": "Alexandre de Moraes",
+      "href": "/demos/pessoas/alexandre-de-moraes"
+    }
+  ],
+  "outboundLinksBySection": [
+    {
+      "section": "Intro",
+      "links": [
+        {
+          "text": "Banco Master",
+          "href": "/demos/organizacoes/banco-master"
+        }
+      ]
+    },
+    {
+      "section": "Situação atual",
+      "links": [
+        {
+          "text": "Alexandre de Moraes",
+          "href": "/demos/pessoas/alexandre-de-moraes"
+        },
+        {
+          "text": "Master",
+          "href": "/demos/organizacoes/banco-master"
+        },
+        {
+          "text": "Banco Master",
+          "href": "/demos/organizacoes/banco-master"
+        },
+        {
+          "text": "Paulo Gonet",
+          "href": "/demos/pessoas/paulo-gonet-branco"
+        }
+      ]
+    },
+    {
+      "section": "Por que está no mapa",
+      "links": [
+        {
+          "text": "Caso Banco Master",
+          "href": "/demos/casos/caso-banco-master"
+        },
+        {
+          "text": "Master",
+          "href": "/demos/organizacoes/banco-master"
+        },
+        {
+          "text": "Paulo Gonet",
+          "href": "/demos/pessoas/paulo-gonet-branco"
+        }
+      ]
+    },
+    {
+      "section": "Perguntas abertas (hipóteses)",
+      "links": [
+        {
+          "text": "Master",
+          "href": "/demos/organizacoes/banco-master"
+        }
+      ]
+    },
+    {
+      "section": "Identidade (básico)",
+      "links": [
+        {
+          "text": "Alexandre de Moraes",
+          "href": "/demos/pessoas/alexandre-de-moraes"
+        }
+      ]
+    },
+    {
+      "section": "Linha do tempo",
+      "links": [
+        {
+          "text": "Master",
+          "href": "/demos/organizacoes/banco-master"
+        },
+        {
+          "text": "Master",
+          "href": "/demos/organizacoes/banco-master"
+        },
+        {
+          "text": "Alexandre de Moraes",
+          "href": "/demos/pessoas/alexandre-de-moraes"
+        },
+        {
+          "text": "Banco Master",
+          "href": "/demos/organizacoes/banco-master"
+        },
+        {
+          "text": "Alexandre de Moraes",
+          "href": "/demos/pessoas/alexandre-de-moraes"
+        },
+        {
+          "text": "Banco Master",
+          "href": "/demos/organizacoes/banco-master"
+        },
+        {
+          "text": "Paulo Gonet",
+          "href": "/demos/pessoas/paulo-gonet-branco"
+        }
+      ]
+    },
+    {
+      "section": "Eventos",
+      "links": [
+        {
+          "text": "Banco Master",
+          "href": "/demos/organizacoes/banco-master"
+        },
+        {
+          "text": "Master",
+          "href": "/demos/organizacoes/banco-master"
+        }
+      ]
+    },
+    {
+      "section": "Organizações relacionadas",
+      "links": [
+        {
+          "text": "Banco Master",
+          "href": "/demos/organizacoes/banco-master"
+        }
+      ]
+    },
+    {
+      "section": "Casos relacionados",
+      "links": [
+        {
+          "text": "Caso Banco Master",
+          "href": "/demos/casos/caso-banco-master"
+        }
+      ]
+    },
+    {
+      "section": "Relações familiares",
+      "links": [
+        {
+          "text": "Alexandre de Moraes",
+          "href": "/demos/pessoas/alexandre-de-moraes"
+        }
+      ]
+    }
+  ],
+  "relations": {
+    "cases": [
+      {
+        "text": "Caso Banco Master",
+        "href": "/demos/casos/caso-banco-master"
+      }
+    ],
+    "family": [
+      {
+        "text": "Alexandre de Moraes",
+        "href": "/demos/pessoas/alexandre-de-moraes"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      {
+        "text": "Banco Master",
+        "href": "/demos/organizacoes/banco-master"
+      }
+    ]
+  },
+  "relationSectionTitles": {
+    "cases": "Casos relacionados",
+    "family": "Relações familiares",
+    "people": null,
+    "organizations": "Organizações relacionadas"
+  },
+  "openQuestions": [
+    {
+      "id": "q--person--viviane-barci-de-moraes--001",
+      "question": "qual foi o escopo, período e natureza do contrato de serviços advocatícios citado na matéria (se houver documentação pública)?",
+      "state": "aberta",
+      "hypothesis": "os termos do contrato são verificáveis e permitem avaliar se houve ou não risco material de conflito.",
+      "counterHypothesis": "não há documentação pública suficiente; e, conforme a PGR, os relatos disponíveis não indicam ilicitude nem lastro probatório mínimo para investigação no formato representado.",
+      "nextSteps": "localizar despacho integral e a representação; identificar se há publicização contratual por vias oficiais; buscar declarações formais das partes.",
+      "advancingNotes": []
+    },
+    {
+      "id": "q--person--viviane-barci-de-moraes--002",
+      "question": "existem registros documentais de medidas de mitigação (recusa/impedimento) relacionadas ao caso [Master](/demos/organizacoes/banco-master) em função de alegações de vínculo profissional?",
+      "state": "aberta",
+      "hypothesis": "há registro formal (ou decisão) sobre gestão de conflito.",
+      "counterHypothesis": "não há ato conectando o vínculo alegado a atuação decisória; e a ausência de lastro probatório descrita pela PGR indica que o tema permanece no campo de suposições.",
+      "nextSteps": "buscar decisões e atos; acompanhar manifestações de órgãos de controle e notas públicas.",
+      "advancingNotes": []
+    }
+  ]
+}

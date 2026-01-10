@@ -8,7 +8,7 @@ demos:
   seed: no
   seed-id: person--luiz-inacio-lula-da-silva
   target-questions:
-    - q--person-luiz-inacio-lula-da-silva-rede-influencia-timing-desfechos
+    - q--person--luiz-inacio-lula-da-silva--001
   country: BR
   identifiers:
     wikidata: Q365154
@@ -21,7 +21,6 @@ demos:
     - central-sindical
     - brasil
 ---
-
 # Central Única dos Trabalhadores (CUT)
 
 _Última atualização: 2026-01-09. ID Skepvox: `org--central-unica-dos-trabalhadores-cut`._
@@ -33,9 +32,9 @@ _Última atualização: 2026-01-09. ID Skepvox: `org--central-unica-dos-trabalha
 
 ## Por que está no mapa
 
-- Conexão de origem: rede inicial de [Luiz Inácio Lula da Silva (Lula)](/demos/pessoas/luiz-inacio-lula-da-silva) (semente).
-- Perguntas-alvo (rastreamento): `q--person-luiz-inacio-lula-da-silva-rede-influencia-timing-desfechos`.
-- Evidência mínima: participação atribuída a Lula na fundação (registro biográfico) e conexão histórica com o sindicalismo do ABC. Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
+- Conexão de origem: rede inicial de [Luiz Inácio Lula da Silva](/demos/pessoas/luiz-inacio-lula-da-silva) (semente).
+- Perguntas-alvo (rastreamento): `q--person--luiz-inacio-lula-da-silva--001`.
+- Evidência mínima: participação atribuída a [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) na fundação (registro biográfico) e conexão histórica com o sindicalismo do ABC. Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
 - Fontes‑alvo (próximos passos): atas de congresso/fundação, registros sindicais e documentação histórica (triangulação obrigatória).
 
 ## Resumo
@@ -47,18 +46,18 @@ Central sindical brasileira cuja fundação é citada em biografias e registros 
 ### 1983–1989 — Fundação e organização inicial
 
 - 1983-08-28 — Fundação da CUT (São Bernardo do Campo, SP), segundo biografia enciclopédica. Status: `documented`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Central_%C3%9Anica_dos_Trabalhadores).
-- 1983-08 — Participação de Lula na fundação (registro biográfico). Status: `reported`. Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
+- 1983-08 — Participação de [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) na fundação (registro biográfico). Status: `reported`. Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
 
 ## Eventos
 
 ### 1983–1989
 
 - 1983-08-28 — Fundação da CUT (São Bernardo do Campo, SP), segundo biografia enciclopédica. Status: `documented`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Central_%C3%9Anica_dos_Trabalhadores).
-- 1983-08 — Participação de Lula na fundação (registro biográfico). Status: `reported`. Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
+- 1983-08 — Participação de [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) na fundação (registro biográfico). Status: `reported`. Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
 
 ## Pessoas relacionadas
 
-- [Luiz Inácio Lula da Silva (Lula)](/demos/pessoas/luiz-inacio-lula-da-silva) — participação na fundação (segundo biografia). Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
+- [Luiz Inácio Lula da Silva](/demos/pessoas/luiz-inacio-lula-da-silva) — participação na fundação (segundo biografia). Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
 
 ## Fontes
 

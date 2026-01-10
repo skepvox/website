@@ -9,9 +9,9 @@ demos:
   seed: no
   seed-id: person--luiz-inacio-lula-da-silva
   target-questions:
-    - q--person-luiz-inacio-lula-da-silva-rede-influencia-timing-desfechos
-    - q--case-triplex-do-guaruja-influencia-indevida-decisoes-chave
-    - q--case-operacao-lava-jato-influencia-indevida-conducao-alvos-timing
+    - q--person--luiz-inacio-lula-da-silva--001
+    - q--case--triplex-do-guaruja--001
+    - q--case--operacao-lava-jato--001
   country: BR
   identifiers:
     wikidata: Q19607958
@@ -27,11 +27,10 @@ demos:
     - politica
     - legislativo
 ---
-
 # Sergio Fernando Moro
 
 ::: info Nota editorial (Skepvox)
-Esta página é uma nota derivada da semente [Luiz Inácio Lula da Silva (Lula)](/demos/pessoas/luiz-inacio-lula-da-silva),
+Esta página é uma nota derivada da semente [Luiz Inácio Lula da Silva](/demos/pessoas/luiz-inacio-lula-da-silva),
 pois Moro aparece como ator central em eventos públicos ligados ao caso do
 [Tríplex do Guarujá](/demos/casos/triplex-do-guaruja) e à [Operação Lava Jato](/demos/casos/operacao-lava-jato).
 
@@ -52,14 +51,16 @@ _Última atualização: 2026-01-09. ID Skepvox: `person--sergio-fernando-moro`._
 
 ## Por que está no mapa
 
-- Conexão de origem: rede inicial de [Luiz Inácio Lula da Silva (Lula)](/demos/pessoas/luiz-inacio-lula-da-silva), via o caso do [Tríplex do Guarujá](/demos/casos/triplex-do-guaruja).
-- Perguntas-alvo (rastreamento): `q--person-luiz-inacio-lula-da-silva-rede-influencia-timing-desfechos`; `q--case-triplex-do-guaruja-influencia-indevida-decisoes-chave`; `q--case-operacao-lava-jato-influencia-indevida-conducao-alvos-timing`.
+- Conexão de origem: rede inicial de [Luiz Inácio Lula da Silva](/demos/pessoas/luiz-inacio-lula-da-silva), via o caso do [Tríplex do Guarujá](/demos/casos/triplex-do-guaruja).
+- Perguntas-alvo (rastreamento): `q--person--luiz-inacio-lula-da-silva--001`; `q--case--triplex-do-guaruja--001`; `q--case--operacao-lava-jato--001`.
 - Evidência mínima: foi o juiz federal associado à sentença de 1ª instância no caso do tríplex (2017), e há decisões posteriores do STF sobre parcialidade no mesmo processo (2021), segundo cobertura. Fontes: [BBC](https://www.bbc.com/portuguese/brasil-40488914), [G1 (2021-03-23)](https://g1.globo.com/politica/noticia/2021/03/23/carmen-lucia-muda-voto-e-2a-turma-do-stf-declara-que-moro-foi-parcial-ao-condenar-lula.ghtml), [G1 (2021-06-23)](https://g1.globo.com/politica/noticia/2021/06/23/plenario-do-stf-reconhece-decisao-da-segunda-turma-que-declarou-moro-parcial-ao-condenar-lula.ghtml).
 - Fontes‑alvo (próximos passos): sentença integral (1ª instância), acórdãos (TRF-4/STJ), votos e decisões integrais do STF, e documentação pública que permita auditar cronologia e fundamentos.
 
 ## Perguntas abertas (hipóteses)
 
-- `q--person-sergio-fernando-moro-coordenacao-indevida-juiz-acusacao` — Pergunta: houve coordenação indevida entre acusação e juiz em fases relevantes de casos da Lava Jato (incluindo o tríplex)? Estado: `em-apuracao`.
+- `q--person--sergio-fernando-moro--001`
+  - Pergunta: houve coordenação indevida entre acusação e juiz em fases relevantes de casos da Lava Jato (incluindo o tríplex)?
+  - Estado: `em-apuracao`.
   - Hipótese: houve coordenação indevida entre acusação e juiz em fases relevantes.
   - Contra‑hipótese: as controvérsias do período se explicam por fundamentos jurídicos e pelo funcionamento institucional (competência, nulidades, garantias processuais), sem necessidade de postular coordenação indevida.
   - Próximos passos: decisões e votos integrais; auditoria cronológica; evidência documental robusta (não apenas inferência); comparação com padrões de conduta/jurisprudência em casos análogos.
@@ -87,7 +88,7 @@ _Última atualização: 2026-01-09. ID Skepvox: `person--sergio-fernando-moro`._
 ### 2014–2018 — Operação Lava Jato e caso do tríplex
 
 - 2014-03–2018-11 — Comanda o julgamento em 1ª instância de crimes identificados na Operação Lava Jato (segundo biografia enciclopédica). Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Sergio_Moro).
-- 2017-07-12 — Sentença no caso do tríplex do Guarujá envolvendo Lula, segundo cobertura. Status: `documented`. Fonte: [BBC](https://www.bbc.com/portuguese/brasil-40488914).
+- 2017-07-12 — Sentença no caso do tríplex do Guarujá envolvendo [Lula](/demos/pessoas/luiz-inacio-lula-da-silva), segundo cobertura. Status: `documented`. Fonte: [BBC](https://www.bbc.com/portuguese/brasil-40488914).
 - 2018-11 — Pede exoneração da magistratura após aceitar convite para o Ministério da Justiça e Segurança Pública (segundo biografia enciclopédica). Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Sergio_Moro).
 
 ### 2018–2020 — Ministério da Justiça (Governo Bolsonaro)
@@ -124,7 +125,7 @@ _Última atualização: 2026-01-09. ID Skepvox: `person--sergio-fernando-moro`._
 ### 2014–2018 — Lava Jato e tríplex
 
 - 2014-03–2018-11 — Comanda o julgamento em 1ª instância de crimes identificados na Operação Lava Jato (segundo biografia enciclopédica). Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Sergio_Moro).
-- 2017-07-12 — Sentença condenatória em 1ª instância no caso do tríplex do Guarujá envolvendo Lula (segundo cobertura). Status: `documented`. Fonte: [BBC](https://www.bbc.com/portuguese/brasil-40488914).
+- 2017-07-12 — Sentença condenatória em 1ª instância no caso do tríplex do Guarujá envolvendo [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) (segundo cobertura). Status: `documented`. Fonte: [BBC](https://www.bbc.com/portuguese/brasil-40488914).
 - 2018-11 — Pede exoneração da magistratura após aceitar convite para o Ministério da Justiça e Segurança Pública (segundo biografia enciclopédica). Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Sergio_Moro).
 
 ### 2018–2020 — Ministério da Justiça
@@ -137,7 +138,7 @@ _Última atualização: 2026-01-09. ID Skepvox: `person--sergio-fernando-moro`._
 ### 2020–2023 — Pós-Ministério, decisões e Senado
 
 - 2020–2021 — Atua na iniciativa privada como advogado e consultor (segundo biografia enciclopédica). Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Sergio_Moro).
-- 2021-03-23 — 2ª Turma do STF declara que Moro foi parcial ao condenar Lula (segundo cobertura). Status: `documented`. Fonte: [G1](https://g1.globo.com/politica/noticia/2021/03/23/carmen-lucia-muda-voto-e-2a-turma-do-stf-declara-que-moro-foi-parcial-ao-condenar-lula.ghtml).
+- 2021-03-23 — 2ª Turma do STF declara que Moro foi parcial ao condenar [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) (segundo cobertura). Status: `documented`. Fonte: [G1](https://g1.globo.com/politica/noticia/2021/03/23/carmen-lucia-muda-voto-e-2a-turma-do-stf-declara-que-moro-foi-parcial-ao-condenar-lula.ghtml).
 - 2021-06-23 — Plenário do STF reconhece decisão da 2ª Turma que declarou Moro parcial (segundo cobertura). Status: `documented`. Fonte: [G1](https://g1.globo.com/politica/noticia/2021/06/23/plenario-do-stf-reconhece-decisao-da-segunda-turma-que-declarou-moro-parcial-ao-condenar-lula.ghtml).
 - 2022-04 — Comitê de Direitos Humanos da ONU reconhece parcialidade, segundo biografia enciclopédica (a validar com fonte primária). Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Sergio_Moro).
 - 2022 — Atua como dirigente partidário do Podemos (PODE) e é eleito senador nas eleições de 2022 (segundo biografia enciclopédica). Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Sergio_Moro).
@@ -152,7 +153,7 @@ _Última atualização: 2026-01-09. ID Skepvox: `person--sergio-fernando-moro`._
 
 ## Pessoas relacionadas
 
-- [Luiz Inácio Lula da Silva (Lula)](/demos/pessoas/luiz-inacio-lula-da-silva) — réu/condenado em 1ª instância no caso do tríplex (2017), com anulações posteriores por decisões do STF; ver caso. Fontes: [BBC](https://www.bbc.com/portuguese/brasil-40488914), [STF](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1).
+- [Luiz Inácio Lula da Silva](/demos/pessoas/luiz-inacio-lula-da-silva) — réu/condenado em 1ª instância no caso do tríplex (2017), com anulações posteriores por decisões do STF; ver caso. Fontes: [BBC](https://www.bbc.com/portuguese/brasil-40488914), [STF](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1).
 
 ## Organizações relacionadas
 
@@ -163,8 +164,8 @@ _Última atualização: 2026-01-09. ID Skepvox: `person--sergio-fernando-moro`._
 - Wikidata — “Sergio Moro” (Q19607958) (acesso em 2026-01-09): https://www.wikidata.org/wiki/Q19607958
 - Wikipédia — “Sergio Moro” (acesso em 2026-01-09): https://pt.wikipedia.org/wiki/Sergio_Moro
 - Senado (Dados Abertos) — “ListaParlamentarEmExercicio” (acesso em 2026-01-09): https://legis.senado.leg.br/dadosabertos/senador/lista/atual
-- BBC — “Moro condena Lula a 9 anos e meio de prisão por caso do tríplex no Guarujá” (acesso em 2026-01-09): https://www.bbc.com/portuguese/brasil-40488914
-- G1 — “2ª Turma do STF declara que Moro foi parcial ao condenar Lula” (acesso em 2026-01-09): https://g1.globo.com/politica/noticia/2021/03/23/carmen-lucia-muda-voto-e-2a-turma-do-stf-declara-que-moro-foi-parcial-ao-condenar-lula.ghtml
+- BBC — “Moro condena [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) a 9 anos e meio de prisão por caso do tríplex no Guarujá” (acesso em 2026-01-09): https://www.bbc.com/portuguese/brasil-40488914
+- G1 — “2ª Turma do STF declara que Moro foi parcial ao condenar [Lula](/demos/pessoas/luiz-inacio-lula-da-silva)” (acesso em 2026-01-09): https://g1.globo.com/politica/noticia/2021/03/23/carmen-lucia-muda-voto-e-2a-turma-do-stf-declara-que-moro-foi-parcial-ao-condenar-lula.ghtml
 - G1 — “Plenário do STF reconhece decisão da Segunda Turma que declarou Moro parcial” (acesso em 2026-01-09): https://g1.globo.com/politica/noticia/2021/06/23/plenario-do-stf-reconhece-decisao-da-segunda-turma-que-declarou-moro-parcial-ao-condenar-lula.ghtml
 - Agência Brasil — “Toffoli invalida provas obtidas no acordo de leniência da Odebrecht” (acesso em 2026-01-09): https://agenciabrasil.ebc.com.br/politica/noticia/2023-09/toffoli-invalida-provas-obtidas-no-acordo-de-leniencia-da-odebrecht
 - ConJur — Decisão (PDF) citada (acesso em 2026-01-09): https://www.conjur.com.br/wp-content/uploads/2023/09/toffoli-declara-imprestaveis-provas.pdf

@@ -14,13 +14,13 @@ import VueMasteryModal from './VueMasteryModal.vue'
       <br />Engenharia de Letras
     </h1>
     <p class="description">
-      Louis Lavelle, literatura e filosofia.
+      Louis Lavelle, literatura e cidadania.
     </p>
     <p class="actions">
       <VueMasteryModal />
 
-      <a class="get-started" href="/literatura/">
-        Literatura
+      <a class="get-started" href="/louis-lavelle/">
+        Louis Lavelle
         <!-- <svg
           class="icon"
           xmlns="http://www.w3.org/2000/svg"
@@ -33,9 +33,9 @@ import VueMasteryModal from './VueMasteryModal.vue'
           />
         </svg> -->
       </a>
-      <a class="setup" href="/enem/">Enem</a>
-      <a class="security" href="/louis-lavelle/">
-        Louis Lavelle
+      <a class="setup" href="/literatura/">Literatura</a>
+      <a class="security" href="/demos/mapa">
+        Mapa Relacional
         <!-- <svg
           class="icon"
           xmlns="http://www.w3.org/2000/svg"
@@ -106,10 +106,9 @@ import VueMasteryModal from './VueMasteryModal.vue'
       </p>
     </div>
     <div class="vt-box">
-      <h2>Enem</h2>
+      <h2>Demos</h2>
       <p>
-        Questões, análises e materiais de estudo para o ENEM,
-        organizados por área e ano.
+        Notas, estudos de casos e ferramentas experimentais.
       </p>
     </div>
   </section>

@@ -1,6 +1,6 @@
 ---
-title: "Luiz Inácio Lula da Silva (Lula)"
-description: "Linha do tempo e fontes públicas sobre Luiz Inácio Lula da Silva (Lula), presidente do Brasil."
+title: "Luiz Inácio Lula da Silva"
+description: "Linha do tempo e fontes públicas sobre Luiz Inácio Lula da Silva, presidente do Brasil."
 demos:
   id: person--luiz-inacio-lula-da-silva
   type: person
@@ -24,7 +24,7 @@ demos:
   primaryRoles:
     - role--presidente-do-brasil
 ---
-# Luiz Inácio Lula da Silva (Lula)
+# Luiz Inácio Lula da Silva
 
 ::: info Nota editorial (Skepvox)
 Esta página compila eventos públicos com **linguagem neutra** e **fontes**. Em
@@ -51,16 +51,18 @@ _Última atualização: 2026-01-09. ID Skepvox: `person--luiz-inacio-lula-da-sil
 
 ## Perguntas abertas (hipóteses)
 
-- `q--person-luiz-inacio-lula-da-silva-rede-influencia-timing-desfechos` — Pergunta: redes de influência (políticas, econômicas, institucionais) podem ter afetado o “timing” e os desfechos de processos e decisões envolvendo Lula (condenações, nulidades, suspeição, elegibilidade)? Estado: `em-apuracao`.
+- `q--person--luiz-inacio-lula-da-silva--001`
+  - Pergunta: redes de influência (políticas, econômicas, institucionais) podem ter afetado o “timing” e os desfechos de processos e decisões envolvendo Lula (condenações, nulidades, suspeição, elegibilidade)?
+  - Estado: `em-apuracao`.
   - Hipótese: redes de influência podem ter afetado timing e desfechos em momentos-chave (condenações, nulidades, suspeição, elegibilidade).
   - Contra-hipótese: os desfechos se explicam principalmente por fundamentos jurídicos (competência, devido processo, nulidades) e mudanças jurisprudenciais, sem evidência suficiente de interferência externa.
   - Próximos passos: mapear decisões integrais, votos e fundamentos; cronologia completa; atores (magistrados, MP, defesa, tribunais) e vínculos documentados; comparação com casos análogos.
-  - Notas que avançam: [Operação Lava Jato](/demos/casos/operacao-lava-jato); [Tríplex do Guarujá](/demos/casos/triplex-do-guaruja); [Sítio de Atibaia](/demos/casos/sitio-de-atibaia); [Sergio Fernando Moro](/demos/pessoas/sergio-fernando-moro); [Luiz Edson Fachin](/demos/pessoas/luiz-edson-fachin); [Partido dos Trabalhadores (PT)](/demos/organizacoes/partido-dos-trabalhadores-pt); [Central Única dos Trabalhadores (CUT)](/demos/organizacoes/central-unica-dos-trabalhadores-cut); [Sindicato dos Metalúrgicos do ABC](/demos/organizacoes/sindicato-dos-metalurgicos-do-abc).
+  - Notas que avançam: [Operação Lava Jato](/demos/casos/operacao-lava-jato); [Tríplex do Guarujá](/demos/casos/triplex-do-guaruja); [Sítio de Atibaia](/demos/casos/sitio-de-atibaia); [Sede do Instituto Lula](/demos/casos/sede-do-instituto-lula); [Sergio Fernando Moro](/demos/pessoas/sergio-fernando-moro); [Luiz Edson Fachin](/demos/pessoas/luiz-edson-fachin); [Partido dos Trabalhadores (PT)](/demos/organizacoes/partido-dos-trabalhadores-pt); [Central Única dos Trabalhadores (CUT)](/demos/organizacoes/central-unica-dos-trabalhadores-cut); [Sindicato dos Metalúrgicos do ABC](/demos/organizacoes/sindicato-dos-metalurgicos-do-abc).
 
 ## Resumo
 
 - Presidente do Brasil (2003–2010; desde 2023). Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
-- Líder sindical no ABC paulista; cofundador do PT (1980) e participante da fundação da CUT (1983). Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
+- Líder sindical no ABC paulista; cofundador do [PT](/demos/organizacoes/partido-dos-trabalhadores-pt) (1980) e participante da fundação da [CUT](/demos/organizacoes/central-unica-dos-trabalhadores-cut) (1983). Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
 - Foi alvo de condução coercitiva para depoimento na Operação Lava Jato (04-03-2016). Fonte: [G1](https://g1.globo.com/pr/parana/noticia/2016/03/policia-deflagrada-nova-fase-da-lava-jato-na-casa-do-ex-presidente-lula.html).
 - Foi condenado em 1ª instância no caso do tríplex do Guarujá (12-07-2017) e a condenação foi mantida em 2ª instância (24-01-2018). Fontes: [BBC](https://www.bbc.com/portuguese/brasil-40488914), [G1](https://g1.globo.com/politica/noticia/julgamento-recurso-de-lula-no-trf-4-decisao-desembargadores-da-8-turma.ghtml).
 - Também foi condenado em 1ª instância no caso do sítio de Atibaia (06-02-2019) e o TRF-4 confirmou a condenação em 2019 (segundo notícia institucional). Fontes: [G1](https://g1.globo.com/pr/parana/noticia/2019/02/06/lula-e-condenado-em-acao-da-lava-jato-sobre-sitio-de-atibaia.ghtml), [TRF4](https://www.trf4.jus.br/trf4/controlador.php?acao=noticia_visualizar&id_noticia=14914).
@@ -74,7 +76,7 @@ _Última atualização: 2026-01-09. ID Skepvox: `person--luiz-inacio-lula-da-sil
 
 ## Cargos e atuação pública
 
-- Presidente do Sindicato dos Metalúrgicos de São Bernardo do Campo e Diadema (eleito em 1975; reeleito em 1978). Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
+- Presidente do [Sindicato dos Metalúrgicos de São Bernardo do Campo e Diadema](/demos/organizacoes/sindicato-dos-metalurgicos-do-abc) (eleito em 1975; reeleito em 1978). Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
 - Deputado federal por São Paulo na Assembleia Constituinte (eleito em 1986). Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
 - Presidente do Brasil (eleito em 2002; reeleito em 2006; eleito novamente em 2022). Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
 
@@ -98,7 +100,7 @@ _Última atualização: 2026-01-09. ID Skepvox: `person--luiz-inacio-lula-da-sil
 - 1980-02-10 — Fundação do [Partido dos Trabalhadores (PT)](/demos/organizacoes/partido-dos-trabalhadores-pt). Status: `documented`. Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
 - 1980 — Intervenção federal no sindicato e prisão de 31 dias (Lei de Segurança Nacional), segundo registro biográfico. Status: `reported`. Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
 
-### 1982–2002 — PT, CUT, Diretas e campanhas até a Presidência
+### 1982–2002 — [PT](/demos/organizacoes/partido-dos-trabalhadores-pt), [CUT](/demos/organizacoes/central-unica-dos-trabalhadores-cut), Diretas e campanhas até a Presidência
 
 - 1982–1986 — Disputa o governo de SP (1982); participa da fundação da [CUT](/demos/organizacoes/central-unica-dos-trabalhadores-cut) (1983-08); atua nas “Diretas Já” (1984); e é eleito deputado federal constituinte (1986), segundo registro biográfico. Status: `reported`. Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
 - 1989–1998 — Candidato à Presidência (1989, 1994 e 1998), segundo registro biográfico. Status: `reported`. Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
@@ -135,15 +137,15 @@ _Última atualização: 2026-01-09. ID Skepvox: `person--luiz-inacio-lula-da-sil
 - 1945-10-27 — Nascimento (Garanhuns, PE). Status: `documented`. Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
 - 1952-12 — Migração para São Paulo (com passagem por Guarujá, segundo registro biográfico). Status: `documented`. Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
 - 1956 — Mudança para São Paulo (capital), bairro Ipiranga (segundo registro biográfico). Status: `documented`. Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
-- 1969 — Eleito suplente na diretoria do Sindicato dos Metalúrgicos de São Bernardo do Campo e Diadema (segundo registro biográfico). Status: `documented`. Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
+- 1969 — Eleito suplente na diretoria do [Sindicato dos Metalúrgicos de São Bernardo do Campo e Diadema](/demos/organizacoes/sindicato-dos-metalurgicos-do-abc) (segundo registro biográfico). Status: `documented`. Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
 - 1972 — Torna-se primeiro-secretário do sindicato (segundo registro biográfico). Status: `documented`. Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
 - 1975 — Eleito presidente do sindicato (segundo registro biográfico). Status: `documented`. Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
 - 1978 — Reeleito presidente do sindicato (segundo registro biográfico). Status: `documented`. Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
 - 1979-03 — Greve de metalúrgicos no ABC sob sua liderança (segundo registro biográfico). Status: `documented`. Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
-- 1980-02-10 — Fundação do Partido dos Trabalhadores (PT). Status: `documented`. Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
+- 1980-02-10 — Fundação do [Partido dos Trabalhadores (PT)](/demos/organizacoes/partido-dos-trabalhadores-pt). Status: `documented`. Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
 - 1980 — Intervenção federal no sindicato e prisão por 31 dias (Lei de Segurança Nacional), segundo registro biográfico. Status: `documented`. Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
 - 1982 — Disputa o Governo de São Paulo (segundo registro biográfico). Status: `documented`. Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
-- 1983-08 — Participa da fundação da Central Única dos Trabalhadores (CUT), segundo registro biográfico. Status: `documented`. Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
+- 1983-08 — Participa da fundação da [Central Única dos Trabalhadores (CUT)](/demos/organizacoes/central-unica-dos-trabalhadores-cut), segundo registro biográfico. Status: `documented`. Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
 - 1984 — Liderança na campanha das “Diretas Já”, segundo registro biográfico. Status: `documented`. Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
 - 1986 — Eleito deputado federal para a Assembleia Constituinte (segundo registro biográfico). Status: `documented`. Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
 - 1989 — Candidato à Presidência; derrota no 2º turno, segundo registro biográfico. Status: `documented`. Fonte: [Planalto](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente).
@@ -173,9 +175,9 @@ _Última atualização: 2026-01-09. ID Skepvox: `person--luiz-inacio-lula-da-sil
 - 2019-02-06 — Condenação em 1ª instância no caso do sítio de Atibaia (corrupção e lavagem, segundo decisão). Status: `documented`. Fonte: [G1](https://g1.globo.com/pr/parana/noticia/2019/02/06/lula-e-condenado-em-acao-da-lava-jato-sobre-sitio-de-atibaia.ghtml).
 - 2019-11-08 — Libertado após mudança de entendimento do STF sobre prisão após condenação em 2ª instância. Status: `documented`. Fonte: [El País](https://brasil.elpais.com/brasil/2019/11/08/politica/1573230948_757857.html).
 - 2019-11-27 — TRF-4 confirma condenação no caso do sítio de Atibaia e altera pena (segundo notícia institucional). Status: `documented`. Fonte: [TRF4](https://www.trf4.jus.br/trf4/controlador.php?acao=noticia_visualizar&id_noticia=14914).
-- 2021-03-08 — Ministro Edson Fachin anula condenações de Lula ligadas à Lava Jato por questões de competência (segundo cobertura). Status: `documented`. Fonte: [Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2021-03/fachin-anula-condenacoes-de-lula-na-lava-jato).
+- 2021-03-08 — Ministro [Edson Fachin](/demos/pessoas/luiz-edson-fachin) anula condenações de Lula ligadas à Lava Jato por questões de competência (segundo cobertura). Status: `documented`. Fonte: [Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2021-03/fachin-anula-condenacoes-de-lula-na-lava-jato).
 - 2021-03-23 — 2ª Turma do STF declara que [Sergio Fernando Moro](/demos/pessoas/sergio-fernando-moro) foi parcial ao condenar Lula (segundo cobertura). Status: `documented`. Fonte: [G1](https://g1.globo.com/politica/noticia/2021/03/23/carmen-lucia-muda-voto-e-2a-turma-do-stf-declara-que-moro-foi-parcial-ao-condenar-lula.ghtml).
-- 2021-04-15 — STF confirma anulação das condenações (8×3), ao rejeitar recurso da PGR contra decisão do ministro Edson Fachin sobre competência do juízo de Curitiba (segundo notícia institucional). Status: `documented`. Fonte: [STF](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1).
+- 2021-04-15 — STF confirma anulação das condenações (8×3), ao rejeitar recurso da PGR contra decisão do ministro [Edson Fachin](/demos/pessoas/luiz-edson-fachin) sobre competência do juízo de Curitiba (segundo notícia institucional). Status: `documented`. Fonte: [STF](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1).
 - 2021-06-23 — Plenário do STF reconhece decisão da 2ª Turma que declarou [Sergio Fernando Moro](/demos/pessoas/sergio-fernando-moro) parcial (segundo cobertura). Status: `documented`. Fonte: [G1](https://g1.globo.com/politica/noticia/2021/06/23/plenario-do-stf-reconhece-decisao-da-segunda-turma-que-declarou-moro-parcial-ao-condenar-lula.ghtml).
 - 2021-12-07 — MPF aponta prescrição e opina por arquivamento no caso do tríplex (segundo cobertura). Status: `documented`. Fonte: [G1](https://g1.globo.com/politica/noticia/2021/12/07/mp-ve-prescricao-e-opina-por-arquivamento-de-denuncia-contra-lula-no-caso-do-triplex-do-guaruja.ghtml).
 - 2022-01-28 — Justiça Federal do DF arquiva processo contra Lula no caso do tríplex (segundo cobertura). Status: `documented`. Fonte: [G1](https://g1.globo.com/jornal-nacional/noticia/2022/01/28/justica-federal-do-df-arquiva-processo-contra-lula-no-caso-do-triplex.ghtml).
@@ -199,6 +201,7 @@ _Última atualização: 2026-01-09. ID Skepvox: `person--luiz-inacio-lula-da-sil
 - [Operação Spoofing](/demos/casos/operacao-spoofing)
 - [Tríplex do Guarujá](/demos/casos/triplex-do-guaruja)
 - [Sítio de Atibaia](/demos/casos/sitio-de-atibaia)
+- [Sede do Instituto Lula](/demos/casos/sede-do-instituto-lula)
 
 ## Fontes
 

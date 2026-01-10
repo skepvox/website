@@ -2,6 +2,24 @@
 
 This repo contains the VitePress site in `src/`. The ENEM pipeline lives at the repo root and is git-ignored so we can iterate on data without committing it.
 
+## Demos pipelines (`/demos`)
+
+### Demos graph export
+
+The `/demos/mapa` page consumes prebuilt graph data generated from the Markdown notes in `src/demos/`.
+
+- Generate: `pnpm demos:data` (or `node scripts/demos-notes-data.js export`)
+- Output: `src/public/demos-data/graph.json` and `src/public/demos-data/notes.jsonl`
+
+### Demos portraits (stipple SVGs)
+
+Person notes can render pre-generated stipple SVG portraits (with PNG fallback).
+
+- Input PNGs: `src/public/images/demos/pessoas/<slug>.png`
+- Generate SVGs: `pnpm demos:portraits`
+- Output SVGs: `src/public/images/demos/pessoas-stipple/<slug>--light.svg` and `...--dark.svg`
+- Re-generate everything: `pnpm demos:portraits -- --force`
+
 ## ENEM extraction pipeline (`pipeline-enem-extraction/`)
 
 Purpose: extract ENEM PDF exams into structured JSON plus assets for rendering questions.

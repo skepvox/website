@@ -254,6 +254,14 @@ public/
 Se o projeto começar só com páginas Markdown, tudo bem. O objetivo é evoluir
 para dados estruturados assim que houver volume/complexidade.
 
+### Higiene de links internos (auto-link)
+
+- Quando uma pessoa/organização já tem uma nota, menções no texto devem virar link interno (`/demos/...`) para navegação e rastreabilidade.
+- Para encontrar (e corrigir) menções sem link, use `scripts/demos-scan-unlinked-mentions.js`:
+  - Scan (não altera arquivos): `node scripts/demos-scan-unlinked-mentions.js`
+  - Auto-fix (altera arquivos): `node scripts/demos-scan-unlinked-mentions.js --fix`
+- O script indexa `title` + `demos.aliases`, ignora links/código/URLs, e avisa quando um rótulo é ambíguo (mesmo texto aponta para mais de um `demos.id`).
+
 ---
 
 ## 6) Template — página de Pessoa (Markdown)
@@ -315,7 +323,15 @@ Estrutura do corpo (sugestão):
      “segundo reportagem X…”.
 
 9) **Perguntas abertas (hipóteses)** *(opcional, rotulado)*  
-   - Itens do tipo: “Evidência sugere X; falta confirmar Y; próxima busca: Z.”
+   - Use IDs `q--<note-id>--001` e mantenha `Pergunta` + `Estado` explícitos.
+   - Formato sugerido:
+     - `q--<note-id>--001`
+       - Pergunta: …
+       - Estado: `aberta`.
+       - Hipótese: …
+       - Contra-hipótese: …
+       - Próximos passos: … (documentos-alvo)
+       - Notas que avançam: … (links internos)
 
 ---
 

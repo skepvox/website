@@ -1,0 +1,259 @@
+{
+  "schema": "skepvox--demos-note",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/pessoas/guido-mantega.md",
+    "sha256": "a983d86344e696e00093a3b5c8608b21116c5750fd0db38a6134208213adf557"
+  },
+  "id": "person--guido-mantega",
+  "type": "person",
+  "url": "/demos/pessoas/guido-mantega",
+  "title": "Guido Mantega",
+  "description": "Linha do tempo e fontes públicas sobre Guido Mantega.",
+  "updatedAt": "2026-01-10",
+  "demos": {
+    "id": "person--guido-mantega",
+    "type": "person",
+    "mapLabel": "mantega",
+    "portrait": "guido-mantega.png",
+    "seed": "no",
+    "seed-id": "case--caso-banco-master",
+    "target-questions": [
+      "q--case--caso-banco-master--003"
+    ],
+    "country": "BR",
+    "identifiers": {
+      "wikidata": "Q1359689",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Guido_Mantega"
+    },
+    "aliases": [
+      "Guido Mantega"
+    ],
+    "tags": [
+      "economia",
+      "fazenda",
+      "banco-master"
+    ]
+  },
+  "frontmatter": {
+    "title": "Guido Mantega",
+    "description": "Linha do tempo e fontes públicas sobre Guido Mantega.",
+    "demos": {
+      "id": "person--guido-mantega",
+      "type": "person",
+      "mapLabel": "mantega",
+      "portrait": "guido-mantega.png",
+      "seed": "no",
+      "seed-id": "case--caso-banco-master",
+      "target-questions": [
+        "q--case--caso-banco-master--003"
+      ],
+      "country": "BR",
+      "identifiers": {
+        "wikidata": "Q1359689",
+        "wikipedia": "https://pt.wikipedia.org/wiki/Guido_Mantega"
+      },
+      "aliases": [
+        "Guido Mantega"
+      ],
+      "tags": [
+        "economia",
+        "fazenda",
+        "banco-master"
+      ]
+    }
+  },
+  "frontmatterYaml": "title: \"Guido Mantega\"\ndescription: \"Linha do tempo e fontes públicas sobre Guido Mantega.\"\ndemos:\n  id: person--guido-mantega\n  type: person\n  mapLabel: mantega\n  portrait: guido-mantega.png\n  seed: no\n  seed-id: case--caso-banco-master\n  target-questions:\n    - q--case--caso-banco-master--003\n  country: BR\n  identifiers:\n    wikidata: Q1359689\n    wikipedia: https://pt.wikipedia.org/wiki/Guido_Mantega\n  aliases:\n    - Guido Mantega\n  tags:\n    - economia\n    - fazenda\n    - banco-master",
+  "bodyMarkdown": "# Guido Mantega\n\n::: info Nota editorial (Skepvox)\nEsta página entra no mapa por menções jornalísticas a vínculo de consultoria com o [Banco Master](/demos/organizacoes/banco-master)\ne por referência a interações políticas citadas em reportagem (ex.: marcação de encontro com [Lula](/demos/pessoas/luiz-inacio-lula-da-silva)).\nO objetivo é registrar o que é verificável e tratar reportagens como fonte secundária.\n:::\n\n_Última atualização: 2026-01-10. ID Skepvox: `person--guido-mantega`._\n\n<DemosPortraitSvg />\n\n## Situação atual\n\n- Papel público (alto nível): ex-ministro da Fazenda (período citado em biografia enciclopédica). Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Guido_Mantega).\n- Vínculo com o caso [Master](/demos/organizacoes/banco-master) (relato jornalístico): reportagem afirma que o [Banco Master](/demos/organizacoes/banco-master) contratou Guido Mantega como consultor e que Mantega marcou encontro de [Daniel Vorcaro](/demos/pessoas/daniel-vorcaro) com o presidente [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) ([PT](/demos/organizacoes/partido-dos-trabalhadores-pt)). Fonte: [Valor](https://valor.globo.com/financas/noticia/2026/01/09/entenda-o-caso-do-banco-master-e-a-intricada-relao-de-vorcaro-com-o-poder.ghtml).\n\n## Por que está no mapa\n\n- Conexão de origem: caso [Caso Banco Master](/demos/casos/caso-banco-master) (semente).\n- Perguntas-alvo (rastreamento): `q--case--caso-banco-master--003`.\n- Evidência mínima: citado em reportagem como consultor contratado pelo [Banco Master](/demos/organizacoes/banco-master) e como articulador de encontro com [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) no contexto descrito pela matéria. Fonte: [Valor](https://valor.globo.com/financas/noticia/2026/01/09/entenda-o-caso-do-banco-master-e-a-intricada-relao-de-vorcaro-com-o-poder.ghtml).\n- Fontes‑alvo (próximos passos): confirmação documental do vínculo (quando houver), agendas/registros públicos de reuniões e declarações formais; documentos primários que permitam avaliar relevância no caso.\n\n## Perguntas abertas (hipóteses)\n\n- `q--person--guido-mantega--001`\n  - Pergunta: qual foi o escopo, período e natureza do vínculo de consultoria citado em reportagem (contrato, temas, remuneração, encerramento)?\n  - Estado: `aberta`.\n  - Hipótese: os termos do vínculo são verificáveis e ajudam a entender o papel de consultores e conexões políticas no caso.\n  - Contra-hipótese: o papel foi limitado/pontual e não há evidência verificável de impacto em decisões públicas (BC/TCU/STF).\n  - Próximos passos: buscar documentação pública e declarações formais; mapear agendas e registros de encontros.\n  - Notas que avançam: nenhuma ainda.\n- `q--person--guido-mantega--002`\n  - Pergunta: há registro documental público do encontro citado em reportagem (data, participantes, pauta), e qual seu contexto verificável?\n  - Estado: `aberta`.\n  - Hipótese: existe registro público suficiente (agenda oficial, foto, comunicado, ata, declaração) que permite auditar o encontro.\n  - Contra-hipótese: o encontro não ocorreu como descrito ou não há registro público verificável; a menção é indireta e insuficiente para inferir influência.\n  - Próximos passos: buscar agendas oficiais e notícias de fontes independentes; cruzar com registros do governo e declarações de participantes.\n  - Notas que avançam: nenhuma ainda.\n\n## Identidade (básico)\n\n- Nome: Guido Mantega. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Guido_Mantega).\n\n## Linha do tempo\n\n### 1949–2005 — Formação e carreira (alto nível, enciclopédico)\n\n- 1949 — Nascimento (alto nível). Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Guido_Mantega).\n\n### 2006–2015 — Ministério da Fazenda (alto nível, enciclopédico)\n\n- 2006–2015 — Ministro da Fazenda (alto nível, enciclopédico). Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Guido_Mantega).\n\n### 2026 — Menções a consultoria e conexões (segundo reportagem)\n\n- 2026-01-09 — Reportagem afirma consultoria com o [Banco Master](/demos/organizacoes/banco-master) e relata marcação de encontro de [Daniel Vorcaro](/demos/pessoas/daniel-vorcaro) com o presidente [Lula](/demos/pessoas/luiz-inacio-lula-da-silva). Status: `reported`. Fonte: [Valor](https://valor.globo.com/financas/noticia/2026/01/09/entenda-o-caso-do-banco-master-e-a-intricada-relao-de-vorcaro-com-o-poder.ghtml).\n\n## Eventos\n\n### 2026\n\n- 2026-01-09 — Reportagem cita consultoria e encontro (tratar como reportagem). Status: `reported`. Fonte: [Valor](https://valor.globo.com/financas/noticia/2026/01/09/entenda-o-caso-do-banco-master-e-a-intricada-relao-de-vorcaro-com-o-poder.ghtml).\n\n## Casos relacionados\n\n- [Caso Banco Master](/demos/casos/caso-banco-master)\n\n## Fontes\n\n- Wikipédia — “Guido Mantega” (acesso em 2026-01-10): https://pt.wikipedia.org/wiki/Guido_Mantega\n- Wikidata — “Guido Mantega” (Q1359689) (acesso em 2026-01-10): https://www.wikidata.org/wiki/Q1359689\n- Valor — “Entenda o caso do [Banco Master](/demos/organizacoes/banco-master) e a intrincada relação de Vorcaro com o poder” (acesso em 2026-01-10): https://valor.globo.com/financas/noticia/2026/01/09/entenda-o-caso-do-banco-master-e-a-intricada-relao-de-vorcaro-com-o-poder.ghtml\n",
+  "outboundLinks": [
+    {
+      "text": "Banco Master",
+      "href": "/demos/organizacoes/banco-master"
+    },
+    {
+      "text": "Lula",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    },
+    {
+      "text": "Master",
+      "href": "/demos/organizacoes/banco-master"
+    },
+    {
+      "text": "Banco Master",
+      "href": "/demos/organizacoes/banco-master"
+    },
+    {
+      "text": "Daniel Vorcaro",
+      "href": "/demos/pessoas/daniel-vorcaro"
+    },
+    {
+      "text": "Lula",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    },
+    {
+      "text": "PT",
+      "href": "/demos/organizacoes/partido-dos-trabalhadores-pt"
+    },
+    {
+      "text": "Caso Banco Master",
+      "href": "/demos/casos/caso-banco-master"
+    },
+    {
+      "text": "Banco Master",
+      "href": "/demos/organizacoes/banco-master"
+    },
+    {
+      "text": "Lula",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    },
+    {
+      "text": "Banco Master",
+      "href": "/demos/organizacoes/banco-master"
+    },
+    {
+      "text": "Daniel Vorcaro",
+      "href": "/demos/pessoas/daniel-vorcaro"
+    },
+    {
+      "text": "Lula",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    },
+    {
+      "text": "Caso Banco Master",
+      "href": "/demos/casos/caso-banco-master"
+    },
+    {
+      "text": "Banco Master",
+      "href": "/demos/organizacoes/banco-master"
+    }
+  ],
+  "outboundLinksBySection": [
+    {
+      "section": "Intro",
+      "links": [
+        {
+          "text": "Banco Master",
+          "href": "/demos/organizacoes/banco-master"
+        },
+        {
+          "text": "Lula",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        }
+      ]
+    },
+    {
+      "section": "Situação atual",
+      "links": [
+        {
+          "text": "Master",
+          "href": "/demos/organizacoes/banco-master"
+        },
+        {
+          "text": "Banco Master",
+          "href": "/demos/organizacoes/banco-master"
+        },
+        {
+          "text": "Daniel Vorcaro",
+          "href": "/demos/pessoas/daniel-vorcaro"
+        },
+        {
+          "text": "Lula",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        },
+        {
+          "text": "PT",
+          "href": "/demos/organizacoes/partido-dos-trabalhadores-pt"
+        }
+      ]
+    },
+    {
+      "section": "Por que está no mapa",
+      "links": [
+        {
+          "text": "Caso Banco Master",
+          "href": "/demos/casos/caso-banco-master"
+        },
+        {
+          "text": "Banco Master",
+          "href": "/demos/organizacoes/banco-master"
+        },
+        {
+          "text": "Lula",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        }
+      ]
+    },
+    {
+      "section": "Linha do tempo",
+      "links": [
+        {
+          "text": "Banco Master",
+          "href": "/demos/organizacoes/banco-master"
+        },
+        {
+          "text": "Daniel Vorcaro",
+          "href": "/demos/pessoas/daniel-vorcaro"
+        },
+        {
+          "text": "Lula",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        }
+      ]
+    },
+    {
+      "section": "Casos relacionados",
+      "links": [
+        {
+          "text": "Caso Banco Master",
+          "href": "/demos/casos/caso-banco-master"
+        }
+      ]
+    },
+    {
+      "section": "Fontes",
+      "links": [
+        {
+          "text": "Banco Master",
+          "href": "/demos/organizacoes/banco-master"
+        }
+      ]
+    }
+  ],
+  "relations": {
+    "cases": [
+      {
+        "text": "Caso Banco Master",
+        "href": "/demos/casos/caso-banco-master"
+      }
+    ],
+    "family": [],
+    "people": [],
+    "organizations": []
+  },
+  "relationSectionTitles": {
+    "cases": "Casos relacionados",
+    "family": null,
+    "people": null,
+    "organizations": null
+  },
+  "openQuestions": [
+    {
+      "id": "q--person--guido-mantega--001",
+      "question": "qual foi o escopo, período e natureza do vínculo de consultoria citado em reportagem (contrato, temas, remuneração, encerramento)?",
+      "state": "aberta",
+      "hypothesis": "os termos do vínculo são verificáveis e ajudam a entender o papel de consultores e conexões políticas no caso.",
+      "counterHypothesis": "o papel foi limitado/pontual e não há evidência verificável de impacto em decisões públicas (BC/TCU/STF).",
+      "nextSteps": "buscar documentação pública e declarações formais; mapear agendas e registros de encontros.",
+      "advancingNotes": []
+    },
+    {
+      "id": "q--person--guido-mantega--002",
+      "question": "há registro documental público do encontro citado em reportagem (data, participantes, pauta), e qual seu contexto verificável?",
+      "state": "aberta",
+      "hypothesis": "existe registro público suficiente (agenda oficial, foto, comunicado, ata, declaração) que permite auditar o encontro.",
+      "counterHypothesis": "o encontro não ocorreu como descrito ou não há registro público verificável; a menção é indireta e insuficiente para inferir influência.",
+      "nextSteps": "buscar agendas oficiais e notícias de fontes independentes; cruzar com registros do governo e declarações de participantes.",
+      "advancingNotes": []
+    }
+  ]
+}

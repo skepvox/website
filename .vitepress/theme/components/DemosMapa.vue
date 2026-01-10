@@ -20,7 +20,7 @@ type GraphNode = {
 type GraphEdge = {
   source: string
   target: string
-  kind: 'related' | 'link' | string
+  kind: 'related' | 'family' | 'link' | string
   count?: number
   sections?: Record<string, number>
 }
@@ -41,7 +41,7 @@ const graph = ref<GraphData | null>(null)
 const loading = ref(true)
 const error = ref<string | null>(null)
 
-const edgeKindFilter = ref<'all' | 'related' | 'link'>('related')
+const edgeKindFilter = ref<'all' | 'related' | 'family' | 'link'>('related')
 const query = ref('')
 const showPeople = ref(true)
 const showOrganizations = ref(true)
@@ -71,7 +71,9 @@ const filteredGraph = computed(() => {
   const edgesByKind =
     edgeKindFilter.value === 'all'
       ? data.edges
-      : data.edges.filter((edge) => edge.kind === edgeKindFilter.value)
+      : edgeKindFilter.value === 'related'
+        ? data.edges.filter((edge) => edge.kind === 'related' || edge.kind === 'family')
+        : data.edges.filter((edge) => edge.kind === edgeKindFilter.value)
 
   const edges = edgesByKind.filter((edge) => nodeIds.has(edge.source) && nodeIds.has(edge.target))
 
@@ -131,7 +133,8 @@ const selectedNeighborEdgesById = computed<Record<string, NeighborEdgeInfo>>(() 
     }
   }
 
-  const kindRank = (kind: string) => (kind === 'related' ? 0 : kind === 'link' ? 1 : 2)
+  const kindRank = (kind: string) =>
+    kind === 'family' ? 0 : kind === 'related' ? 1 : kind === 'link' ? 2 : 3
 
   const sortEdges = (edges: GraphEdge[]) =>
     edges.sort((a, b) => {
@@ -181,6 +184,7 @@ function labelForNode(node: GraphNode) {
 }
 
 function edgeKindLabel(kind: string) {
+  if (kind === 'family') return 'Família'
   if (kind === 'related') return 'Relações'
   if (kind === 'link') return 'Links'
   return kind
@@ -312,10 +316,16 @@ function render() {
     .filter((edge) => nodeById.has(edge.source) && nodeById.has(edge.target))
 
   const edgeKinds = Array.from(new Set(links.map((d) => d.kind))).sort()
+  const colorForEdgeKind = (kind: string) => {
+    if (kind === 'related') return '#64748b'
+    if (kind === 'family') return '#e11d48'
+    if (kind === 'link') return '#a855f7'
+    return '#a855f7'
+  }
   const edgeColor = d3
     .scaleOrdinal<string, string>()
     .domain(edgeKinds)
-    .range(edgeKinds.map((kind) => (kind === 'related' ? '#64748b' : '#a855f7')))
+    .range(edgeKinds.map(colorForEdgeKind))
 
   svg
     .append('defs')
@@ -336,8 +346,8 @@ function render() {
   const linkForce = d3
     .forceLink(links as any)
     .id((d: any) => d.id)
-    .distance((d: any) => (d.kind === 'related' ? 70 : 110))
-    .strength((d: any) => (d.kind === 'related' ? 0.9 : 0.25))
+    .distance((d: any) => (d.kind === 'link' ? 110 : 70))
+    .strength((d: any) => (d.kind === 'link' ? 0.25 : 0.9))
 
   const simulation = d3
     .forceSimulation(nodes as any)
@@ -360,7 +370,7 @@ function render() {
     const r = Math.max(10, Math.hypot(dx, dy))
 
     const directionFlag = source.id < target.id ? 1 : 0
-    const kindFlag = d.kind === 'related' ? 1 : 0
+    const kindFlag = d.kind === 'link' ? 0 : 1
     const sweep = directionFlag ^ kindFlag
 
     return `M${source.x},${source.y}A${r},${r} 0 0,${sweep} ${target.x},${target.y}`
@@ -373,9 +383,9 @@ function render() {
     .data(links as any)
     .join('path')
     .attr('stroke', (d: any) => edgeColor(d.kind))
-    .attr('stroke-opacity', (d: any) => (d.kind === 'related' ? 0.6 : 0.38))
+    .attr('stroke-opacity', (d: any) => (d.kind === 'link' ? 0.38 : d.kind === 'family' ? 0.78 : 0.6))
     .attr('stroke-width', (d: any) => {
-      const base = d.kind === 'related' ? 1.15 : 0.9
+      const base = d.kind === 'family' ? 1.35 : d.kind === 'related' ? 1.15 : 0.9
       const boost = Math.min(2, Math.log2(Math.max(1, d.count)))
       return base + boost * 0.28
     })
@@ -622,8 +632,9 @@ watch(
       <label class="demos-map__field">
         <span>Filtro</span>
         <select v-model="edgeKindFilter">
-          <option value="related">Relações (seções)</option>
-          <option value="link">Links (todas)</option>
+          <option value="related">Relações (curadas)</option>
+          <option value="family">Família</option>
+          <option value="link">Links (todos)</option>
           <option value="all">Tudo</option>
         </select>
       </label>
@@ -764,11 +775,15 @@ watch(
       <span class="demos-map__legend-sep" aria-hidden="true"></span>
       <span class="demos-map__legend-item">
         <span class="demos-map__edge" style="--edge-color: #64748b"></span>
-        Relação (seções)
+        Relações (curadas)
+      </span>
+      <span class="demos-map__legend-item">
+        <span class="demos-map__edge" style="--edge-color: #e11d48"></span>
+        Família
       </span>
       <span class="demos-map__legend-item">
         <span class="demos-map__edge" style="--edge-color: #a855f7"></span>
-        Link (qualquer)
+        Links (todos)
       </span>
     </div>
   </div>

@@ -1,0 +1,207 @@
+{
+  "schema": "skepvox--demos-note",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/pessoas/henrique-meirelles.md",
+    "sha256": "1be58361804e441be768c603bf91f5bd1634ee6608a04d0de7a6bba17038ef6b"
+  },
+  "id": "person--henrique-meirelles",
+  "type": "person",
+  "url": "/demos/pessoas/henrique-meirelles",
+  "title": "Henrique Meirelles",
+  "description": "Linha do tempo e fontes públicas sobre Henrique Meirelles.",
+  "updatedAt": "2026-01-10",
+  "demos": {
+    "id": "person--henrique-meirelles",
+    "type": "person",
+    "mapLabel": "meirelles",
+    "portrait": "henrique-meirelles.png",
+    "seed": "no",
+    "seed-id": "case--caso-banco-master",
+    "target-questions": [
+      "q--case--caso-banco-master--003"
+    ],
+    "country": "BR",
+    "identifiers": {
+      "wikidata": "Q3428247",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Henrique_Meirelles"
+    },
+    "aliases": [
+      "Henrique Meirelles"
+    ],
+    "tags": [
+      "economia",
+      "banco-central",
+      "banco-master"
+    ]
+  },
+  "frontmatter": {
+    "title": "Henrique Meirelles",
+    "description": "Linha do tempo e fontes públicas sobre Henrique Meirelles.",
+    "demos": {
+      "id": "person--henrique-meirelles",
+      "type": "person",
+      "mapLabel": "meirelles",
+      "portrait": "henrique-meirelles.png",
+      "seed": "no",
+      "seed-id": "case--caso-banco-master",
+      "target-questions": [
+        "q--case--caso-banco-master--003"
+      ],
+      "country": "BR",
+      "identifiers": {
+        "wikidata": "Q3428247",
+        "wikipedia": "https://pt.wikipedia.org/wiki/Henrique_Meirelles"
+      },
+      "aliases": [
+        "Henrique Meirelles"
+      ],
+      "tags": [
+        "economia",
+        "banco-central",
+        "banco-master"
+      ]
+    }
+  },
+  "frontmatterYaml": "title: \"Henrique Meirelles\"\ndescription: \"Linha do tempo e fontes públicas sobre Henrique Meirelles.\"\ndemos:\n  id: person--henrique-meirelles\n  type: person\n  mapLabel: meirelles\n  portrait: henrique-meirelles.png\n  seed: no\n  seed-id: case--caso-banco-master\n  target-questions:\n    - q--case--caso-banco-master--003\n  country: BR\n  identifiers:\n    wikidata: Q3428247\n    wikipedia: https://pt.wikipedia.org/wiki/Henrique_Meirelles\n  aliases:\n    - Henrique Meirelles\n  tags:\n    - economia\n    - banco-central\n    - banco-master",
+  "bodyMarkdown": "# Henrique Meirelles\n\n::: info Nota editorial (Skepvox)\nEsta página entra no mapa por menções jornalísticas a vínculo de consultoria com o [Banco Master](/demos/organizacoes/banco-master)\ne por sua atuação pública anterior no Banco Central e em cargos econômicos.\nO objetivo é registrar cronologia e fontes, separando reportagem de evidência primária.\n:::\n\n_Última atualização: 2026-01-10. ID Skepvox: `person--henrique-meirelles`._\n\n<DemosPortraitSvg />\n\n## Situação atual\n\n- Papel público (alto nível): ex-presidente do Banco Central (período citado em biografia enciclopédica). Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Henrique_Meirelles).\n- Vínculo com o caso [Master](/demos/organizacoes/banco-master) (relato jornalístico): reportagem afirma que o [Banco Master](/demos/organizacoes/banco-master) contratou Henrique Meirelles como consultor. Fonte: [Valor](https://valor.globo.com/financas/noticia/2026/01/09/entenda-o-caso-do-banco-master-e-a-intricada-relao-de-vorcaro-com-o-poder.ghtml).\n\n## Por que está no mapa\n\n- Conexão de origem: caso [Caso Banco Master](/demos/casos/caso-banco-master) (semente).\n- Perguntas-alvo (rastreamento): `q--case--caso-banco-master--003`.\n- Evidência mínima: citado em reportagem como consultor do [Banco Master](/demos/organizacoes/banco-master), além de ser figura pública relevante em temas de política monetária e governança econômica (o que pode ser relevante para entender redes e interações institucionais no caso). Fonte: [Valor](https://valor.globo.com/financas/noticia/2026/01/09/entenda-o-caso-do-banco-master-e-a-intricada-relao-de-vorcaro-com-o-poder.ghtml).\n- Fontes‑alvo (próximos passos): confirmação documental do vínculo (quando houver), escopo/período; registros públicos de agendas e declarações; documentos primários que descrevam o papel de consultores no caso.\n\n## Perguntas abertas (hipóteses)\n\n- `q--person--henrique-meirelles--001`\n  - Pergunta: qual foi o escopo, período e natureza do vínculo de consultoria citado em reportagem (contrato, temas, remuneração, encerramento)?\n  - Estado: `aberta`.\n  - Hipótese: o vínculo existiu e seus termos podem ser verificados, permitindo avaliar relevância para o caso e eventuais pontos de conflito.\n  - Contra-hipótese: o papel foi mais limitado (ex.: consultoria pontual/estratégica sem influência em decisões), e não há impacto verificável sobre atos do BC/TCU/STF.\n  - Próximos passos: buscar documentação pública, declarações formais e eventuais registros em decisões/peças.\n  - Notas que avançam: nenhuma ainda.\n\n## Identidade (básico)\n\n- Nome: Henrique Meirelles. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Henrique_Meirelles).\n\n## Linha do tempo\n\n### 1945–2002 — Formação e carreira (alto nível, enciclopédico)\n\n- 1945 — Nascimento (alto nível). Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Henrique_Meirelles).\n\n### 2003–2011 — Banco Central (alto nível, enciclopédico)\n\n- 2003–2011 — Presidente do Banco Central do Brasil (alto nível, enciclopédico). Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Henrique_Meirelles).\n\n### 2026 — Menções a consultoria (segundo reportagem)\n\n- 2026-01-09 — Reportagem afirma que o [Banco Master](/demos/organizacoes/banco-master) contratou Meirelles como consultor. Status: `reported`. Fonte: [Valor](https://valor.globo.com/financas/noticia/2026/01/09/entenda-o-caso-do-banco-master-e-a-intricada-relao-de-vorcaro-com-o-poder.ghtml).\n\n## Eventos\n\n### 2026\n\n- 2026-01-09 — Reportagem cita consultoria com o [Banco Master](/demos/organizacoes/banco-master) (tratar como reportagem). Status: `reported`. Fonte: [Valor](https://valor.globo.com/financas/noticia/2026/01/09/entenda-o-caso-do-banco-master-e-a-intricada-relao-de-vorcaro-com-o-poder.ghtml).\n\n## Casos relacionados\n\n- [Caso Banco Master](/demos/casos/caso-banco-master)\n\n## Fontes\n\n- Wikipédia — “Henrique Meirelles” (acesso em 2026-01-10): https://pt.wikipedia.org/wiki/Henrique_Meirelles\n- Wikidata — “Henrique Meirelles” (Q3428247) (acesso em 2026-01-10): https://www.wikidata.org/wiki/Q3428247\n- Valor — “Entenda o caso do [Banco Master](/demos/organizacoes/banco-master) e a intrincada relação de Vorcaro com o poder” (acesso em 2026-01-10): https://valor.globo.com/financas/noticia/2026/01/09/entenda-o-caso-do-banco-master-e-a-intricada-relao-de-vorcaro-com-o-poder.ghtml\n",
+  "outboundLinks": [
+    {
+      "text": "Banco Master",
+      "href": "/demos/organizacoes/banco-master"
+    },
+    {
+      "text": "Master",
+      "href": "/demos/organizacoes/banco-master"
+    },
+    {
+      "text": "Banco Master",
+      "href": "/demos/organizacoes/banco-master"
+    },
+    {
+      "text": "Caso Banco Master",
+      "href": "/demos/casos/caso-banco-master"
+    },
+    {
+      "text": "Banco Master",
+      "href": "/demos/organizacoes/banco-master"
+    },
+    {
+      "text": "Banco Master",
+      "href": "/demos/organizacoes/banco-master"
+    },
+    {
+      "text": "Banco Master",
+      "href": "/demos/organizacoes/banco-master"
+    },
+    {
+      "text": "Caso Banco Master",
+      "href": "/demos/casos/caso-banco-master"
+    },
+    {
+      "text": "Banco Master",
+      "href": "/demos/organizacoes/banco-master"
+    }
+  ],
+  "outboundLinksBySection": [
+    {
+      "section": "Intro",
+      "links": [
+        {
+          "text": "Banco Master",
+          "href": "/demos/organizacoes/banco-master"
+        }
+      ]
+    },
+    {
+      "section": "Situação atual",
+      "links": [
+        {
+          "text": "Master",
+          "href": "/demos/organizacoes/banco-master"
+        },
+        {
+          "text": "Banco Master",
+          "href": "/demos/organizacoes/banco-master"
+        }
+      ]
+    },
+    {
+      "section": "Por que está no mapa",
+      "links": [
+        {
+          "text": "Caso Banco Master",
+          "href": "/demos/casos/caso-banco-master"
+        },
+        {
+          "text": "Banco Master",
+          "href": "/demos/organizacoes/banco-master"
+        }
+      ]
+    },
+    {
+      "section": "Linha do tempo",
+      "links": [
+        {
+          "text": "Banco Master",
+          "href": "/demos/organizacoes/banco-master"
+        }
+      ]
+    },
+    {
+      "section": "Eventos",
+      "links": [
+        {
+          "text": "Banco Master",
+          "href": "/demos/organizacoes/banco-master"
+        }
+      ]
+    },
+    {
+      "section": "Casos relacionados",
+      "links": [
+        {
+          "text": "Caso Banco Master",
+          "href": "/demos/casos/caso-banco-master"
+        }
+      ]
+    },
+    {
+      "section": "Fontes",
+      "links": [
+        {
+          "text": "Banco Master",
+          "href": "/demos/organizacoes/banco-master"
+        }
+      ]
+    }
+  ],
+  "relations": {
+    "cases": [
+      {
+        "text": "Caso Banco Master",
+        "href": "/demos/casos/caso-banco-master"
+      }
+    ],
+    "family": [],
+    "people": [],
+    "organizations": []
+  },
+  "relationSectionTitles": {
+    "cases": "Casos relacionados",
+    "family": null,
+    "people": null,
+    "organizations": null
+  },
+  "openQuestions": [
+    {
+      "id": "q--person--henrique-meirelles--001",
+      "question": "qual foi o escopo, período e natureza do vínculo de consultoria citado em reportagem (contrato, temas, remuneração, encerramento)?",
+      "state": "aberta",
+      "hypothesis": "o vínculo existiu e seus termos podem ser verificados, permitindo avaliar relevância para o caso e eventuais pontos de conflito.",
+      "counterHypothesis": "o papel foi mais limitado (ex.: consultoria pontual/estratégica sem influência em decisões), e não há impacto verificável sobre atos do BC/TCU/STF.",
+      "nextSteps": "buscar documentação pública, declarações formais e eventuais registros em decisões/peças.",
+      "advancingNotes": []
+    }
+  ]
+}

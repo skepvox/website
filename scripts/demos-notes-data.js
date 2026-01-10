@@ -178,8 +178,17 @@ function extractSectionInternalLinks(sectionMarkdown) {
   return links
 }
 
-function parseOpenQuestions(sectionMarkdown) {
+function escapeRegexLiteral(text) {
+  return String(text).replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+}
+
+function parseOpenQuestions(sectionMarkdown, { noteId } = {}) {
   if (!sectionMarkdown) return []
+
+  const noteIdEscaped = typeof noteId === 'string' && noteId.length > 0 ? escapeRegexLiteral(noteId) : null
+  const questionIdRegex = noteIdEscaped
+    ? new RegExp(`^\\-\\s+\\\`(q--${noteIdEscaped}--\\d{3})\\\`\\s*$`)
+    : /^-\s+`(q--[^`]+--\d{3})`\s*$/
 
   const questions = []
   const lines = sectionMarkdown.split('\n')
@@ -194,15 +203,13 @@ function parseOpenQuestions(sectionMarkdown) {
   for (const rawLine of lines) {
     const line = rawLine.trim()
 
-    const headerMatch = line.match(
-      /^-\s+`(q--[^`]+)`\s+—\s+Pergunta:\s+(.+?)\s+Estado:\s+`([^`]+)`\.\s*$/
-    )
-    if (headerMatch) {
+    const idMatch = line.match(questionIdRegex)
+    if (idMatch) {
       pushCurrent()
       current = {
-        id: headerMatch[1],
-        question: headerMatch[2],
-        state: headerMatch[3],
+        id: idMatch[1],
+        question: null,
+        state: null,
         hypothesis: null,
         counterHypothesis: null,
         nextSteps: null,
@@ -213,13 +220,25 @@ function parseOpenQuestions(sectionMarkdown) {
 
     if (!current) continue
 
+    const questionMatch = line.match(/^-+\s*Pergunta:\s*(.+?)\s*$/)
+    if (questionMatch) {
+      current.question = questionMatch[1]
+      continue
+    }
+
+    const stateMatch = line.match(/^-+\s*Estado:\s*`([^`]+)`\.?\s*$/)
+    if (stateMatch) {
+      current.state = stateMatch[1]
+      continue
+    }
+
     const hypothesisMatch = line.match(/^-+\s*Hipótese:\s*(.+?)\s*$/)
     if (hypothesisMatch) {
       current.hypothesis = hypothesisMatch[1]
       continue
     }
 
-    const counterMatch = line.match(/^-+\s*Contra-hipótese:\s*(.+?)\s*$/)
+    const counterMatch = line.match(/^-+\s*Contra[-\u2011]hipótese:\s*(.+?)\s*$/)
     if (counterMatch) {
       current.counterHypothesis = counterMatch[1]
       continue
@@ -370,6 +389,14 @@ function buildGraph({ notes, urlToId }) {
       })
     }
 
+    for (const rel of note.relations?.family ?? []) {
+      addEdge({
+        href: rel.href,
+        kind: 'family',
+        sectionTitle: relTitles.family ?? 'Relações familiares'
+      })
+    }
+
     for (const rel of note.relations?.people ?? []) {
       addEdge({
         href: rel.href,
@@ -419,7 +446,7 @@ function buildGraph({ notes, urlToId }) {
 
   return {
     schema: 'skepvox--demos-graph',
-    schemaVersion: 2,
+    schemaVersion: 3,
     nodeCount: nodes.length,
     edgeCount: edges.length,
     nodes,
@@ -461,17 +488,29 @@ async function exportNotes() {
         : sections.has('Casos associados')
           ? 'Casos associados'
           : null,
+      family: sections.has('Relações familiares')
+        ? 'Relações familiares'
+        : sections.has('Familia')
+          ? 'Familia'
+          : sections.has('Família')
+            ? 'Família'
+            : null,
       people: sections.has('Pessoas relacionadas') ? 'Pessoas relacionadas' : null,
       organizations: sections.has('Organizações relacionadas') ? 'Organizações relacionadas' : null
     }
 
     const relations = {
       cases: extractSectionInternalLinks(sections.get('Casos relacionados') ?? sections.get('Casos associados')),
+      family: extractSectionInternalLinks(
+        sections.get('Relações familiares') ??
+          sections.get('Família') ??
+          sections.get('Familia')
+      ),
       people: extractSectionInternalLinks(sections.get('Pessoas relacionadas')),
       organizations: extractSectionInternalLinks(sections.get('Organizações relacionadas'))
     }
 
-    const openQuestions = parseOpenQuestions(sections.get('Perguntas abertas (hipóteses)'))
+    const openQuestions = parseOpenQuestions(sections.get('Perguntas abertas (hipóteses)'), { noteId: demos.id })
 
     const outboundLinksBySection = []
     for (const [sectionTitle, sectionMarkdown] of sectionsWithIntro.entries()) {

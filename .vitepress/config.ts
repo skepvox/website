@@ -32,10 +32,6 @@ const nav: ThemeConfig['nav'] = [
     link: '/literatura/'
   },
   {
-    text: 'Enem',
-    link: '/enem/'
-  },
-  {
     text: 'Demos',
     activeMatch: '^/demos/',
     link: '/demos/'

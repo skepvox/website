@@ -1,17 +1,17 @@
 ---
-title: "Luiz Edson Fachin"
-description: "Linha do tempo e fontes públicas sobre Luiz Edson Fachin, ministro e presidente do STF."
+title: 'Luiz Edson Fachin'
+description: 'Linha do tempo e fontes públicas sobre Luiz Edson Fachin, ministro e presidente do STF.'
 demos:
   id: person--luiz-edson-fachin
   type: person
-  mapLabel: fachin
+  mapLabel: edson-fachin
   portrait: luiz-edson-fachin.png
   seed: no
   seed-id: person--luiz-inacio-lula-da-silva
   target-questions:
-    - q--person-luiz-inacio-lula-da-silva-rede-influencia-timing-desfechos
-    - q--case-triplex-do-guaruja-influencia-indevida-decisoes-chave
-    - q--case-sitio-de-atibaia-influencia-indevida-acelerar-anular-retardar
+    - q--person--luiz-inacio-lula-da-silva--001
+    - q--case--triplex-do-guaruja--001
+    - q--case--sitio-de-atibaia--001
   country: BR
   identifiers:
     wikidata: Q10320705
@@ -26,6 +26,7 @@ demos:
     - role--ministro-do-stf
     - role--presidente-do-stf
 ---
+
 # Luiz Edson Fachin
 
 ::: info Nota editorial (Skepvox)
@@ -47,11 +48,11 @@ _Última atualização: 2026-01-09. ID Skepvox: `person--luiz-edson-fachin`._
 ## Por que está no mapa
 
 - Conexão de origem: decisões do STF ligadas à Operação Lava Jato e seus efeitos
-  sobre condenações envolvendo [Luiz Inácio Lula da Silva (Lula)](/demos/pessoas/luiz-inacio-lula-da-silva).
-- Perguntas-alvo (rastreamento): `q--person-luiz-inacio-lula-da-silva-rede-influencia-timing-desfechos`; `q--case-triplex-do-guaruja-influencia-indevida-decisoes-chave`; `q--case-sitio-de-atibaia-influencia-indevida-acelerar-anular-retardar`.
+  sobre condenações envolvendo [Luiz Inácio Lula da Silva](/demos/pessoas/luiz-inacio-lula-da-silva).
+- Perguntas-alvo (rastreamento): `q--person--luiz-inacio-lula-da-silva--001`; `q--case--triplex-do-guaruja--001`; `q--case--sitio-de-atibaia--001`.
 - Evidência mínima (ponto de virada): em 2021, decisão do ministro Edson Fachin
   declarou incompetência do juízo da 13ª Vara Federal de Curitiba para julgar
-  ações envolvendo Lula (segundo notícia) e o Plenário do STF confirmou a
+  ações envolvendo [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) (segundo notícia) e o Plenário do STF confirmou a
   anulação das condenações (8×3) ao rejeitar recurso da PGR. Fontes: [Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2021-03/fachin-anula-condenacoes-de-lula-na-lava-jato), [STF](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1).
 - Fontes‑alvo (próximos passos): localizar e vincular decisões integrais,
   votos, acórdãos e movimentação processual — para comparar fundamentos,
@@ -59,13 +60,17 @@ _Última atualização: 2026-01-09. ID Skepvox: `person--luiz-edson-fachin`._
 
 ## Perguntas abertas (hipóteses)
 
-- `q--person-luiz-edson-fachin-decisoes-2021-coerencia-jurisprudencia` — Pergunta: a decisão de 2021 (competência do juízo) seguiu um padrão coerente com a jurisprudência do STF em casos análogos, ou foi um “ponto fora da curva”? Estado: `aberta`.
+- `q--person--luiz-edson-fachin--001`
+  - Pergunta: a decisão de 2021 (competência do juízo) seguiu um padrão coerente com a jurisprudência do STF em casos análogos, ou foi um “ponto fora da curva”?
+  - Estado: `aberta`.
   - Hipótese: a decisão de 2021 foi um “ponto fora da curva” em relação a padrões jurisprudenciais comparáveis.
   - Contra‑hipótese: a decisão de 2021 segue um padrão coerente com a jurisprudência e com os fundamentos explícitos no voto/decisão.
   - Próximos passos: comparação com casos similares; leitura integral do voto/decisão; cronologia processual; votos dos demais ministros.
   - Notas que avançam: nenhuma ainda.
-- `q--person-luiz-edson-fachin-pressao-influencia-externa-decisoes-lula` — Pergunta: existiram pressões/influências externas relevantes para decisões envolvendo Lula (diretas ou indiretas)? Estado: `aberta`.
-  - Hipótese: existiram pressões/influências externas relevantes (políticas, econômicas, institucionais) para decisões envolvendo Lula.
+- `q--person--luiz-edson-fachin--002`
+  - Pergunta: existiram pressões/influências externas relevantes para decisões envolvendo [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) (diretas ou indiretas)?
+  - Estado: `aberta`.
+  - Hipótese: existiram pressões/influências externas relevantes (políticas, econômicas, institucionais) para decisões envolvendo [Lula](/demos/pessoas/luiz-inacio-lula-da-silva).
   - Contra‑hipótese: os desfechos decorrem primariamente de fundamentos jurídicos (competência, devido processo, nulidades) e não exigem postular interferência externa.
   - Próximos passos: evidências documentais robustas (não apenas inferência); registros públicos; mudanças de posição com justificativas explícitas; padrões de votação; vínculos documentados.
   - Notas que avançam: nenhuma ainda.
@@ -111,7 +116,7 @@ _Última atualização: 2026-01-09. ID Skepvox: `person--luiz-edson-fachin`._
 - 2015-04-23 — Mensagem presidencial ao Senado submetendo a indicação de Fachin ao cargo de ministro do STF (registro no Diário do Senado). Status: `documented`. Fonte: [STF (PDF)](https://www.stf.jus.br/arquivo/biblioteca/PastasMinistros/EdsonFachin/DadosDatas/002.pdf).
 - 2015-06-16 — Posse como ministro do STF (segundo biografia). Status: `documented`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Edson_Fachin).
 - 2018-08-16 — Início como ministro do TSE (segundo biografia). Status: `documented`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Edson_Fachin).
-- 2021-03-08 — Decisão do ministro Edson Fachin anula condenações de Lula ligadas à Lava Jato por questões de competência (segundo notícia). Status: `documented`. Fonte: [Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2021-03/fachin-anula-condenacoes-de-lula-na-lava-jato).
+- 2021-03-08 — Decisão do ministro Edson Fachin anula condenações de [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) ligadas à Lava Jato por questões de competência (segundo notícia). Status: `documented`. Fonte: [Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2021-03/fachin-anula-condenacoes-de-lula-na-lava-jato).
 - 2021-04-15 — Plenário do STF confirma anulação das condenações (8×3), ao rejeitar recurso da PGR contra decisão de Fachin sobre competência do juízo de Curitiba (segundo notícia institucional). Status: `documented`. Fonte: [STF](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1).
 - 2022-02-22 — Posse como presidente do TSE (segundo cobertura). Status: `documented`. Fonte: [G1](https://g1.globo.com/politica/ao-vivo/fachin-moraes-posse-tse.ghtml).
 - 2022-08-16 — Encerramento do mandato como presidente do TSE (segundo biografia). Status: `documented`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Edson_Fachin).
@@ -127,8 +132,8 @@ _Última atualização: 2026-01-09. ID Skepvox: `person--luiz-edson-fachin`._
 ## Fontes
 
 - Wikipédia — “Edson Fachin” (acesso em 2026-01-09): https://pt.wikipedia.org/wiki/Edson_Fachin
-- Agência Brasil — “Fachin anula condenações de Lula na Lava Jato” (acesso em 2026-01-09): https://agenciabrasil.ebc.com.br/justica/noticia/2021-03/fachin-anula-condenacoes-de-lula-na-lava-jato
-- STF — “STF confirma anulação de condenações do ex-presidente Lula na Lava Jato” (acesso em 2026-01-09): https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1
-- G1 — “Fachin toma posse como presidente do TSE; Alexandre de Moraes é o vice” (acesso em 2026-01-09): https://g1.globo.com/politica/ao-vivo/fachin-moraes-posse-tse.ghtml
+- Agência Brasil — “Fachin anula condenações de [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) na Lava Jato” (acesso em 2026-01-09): https://agenciabrasil.ebc.com.br/justica/noticia/2021-03/fachin-anula-condenacoes-de-lula-na-lava-jato
+- STF — “STF confirma anulação de condenações do ex-presidente [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) na Lava Jato” (acesso em 2026-01-09): https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1
+- G1 — “Fachin toma posse como presidente do TSE; [Alexandre de Moraes](/demos/pessoas/alexandre-de-moraes) é o vice” (acesso em 2026-01-09): https://g1.globo.com/politica/ao-vivo/fachin-moraes-posse-tse.ghtml
 - G1 — “Fachin assume presidência do STF e Moraes vice; veja perfis dos ministros” (acesso em 2026-01-09): https://g1.globo.com/politica/noticia/2025/09/29/edson-fachin-toma-posse-como-presidente-do-supremo-tribunal-federal-nesta-segunda-veja-perfil.ghtml
 - STF — “Pasta Ministros · Edson Fachin · Dados/Datas · 002.pdf” (PDF) (acesso em 2026-01-09): https://www.stf.jus.br/arquivo/biblioteca/PastasMinistros/EdsonFachin/DadosDatas/002.pdf

@@ -1,0 +1,208 @@
+{
+  "schema": "skepvox--demos-note",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/pessoas/jaques-wagner.md",
+    "sha256": "5942f0ea1a100d0ee7fe42afe75e2f7e7f8700aa628771dd05b6aed7739e799e"
+  },
+  "id": "person--jaques-wagner",
+  "type": "person",
+  "url": "/demos/pessoas/jaques-wagner",
+  "title": "Jaques Wagner",
+  "description": "Linha do tempo e fontes públicas sobre Jaques Wagner.",
+  "updatedAt": "2026-01-10",
+  "demos": {
+    "id": "person--jaques-wagner",
+    "type": "person",
+    "mapLabel": "jaques-wagner",
+    "portrait": "jaques-wagner.png",
+    "seed": "no",
+    "seed-id": "case--caso-banco-master",
+    "target-questions": [
+      "q--case--caso-banco-master--003"
+    ],
+    "country": "BR",
+    "identifiers": {
+      "wikidata": "Q6159407",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Jaques_Wagner"
+    },
+    "aliases": [
+      "Jaques Wagner"
+    ],
+    "tags": [
+      "politica",
+      "legislativo",
+      "senador",
+      "pt",
+      "bahia",
+      "banco-master"
+    ]
+  },
+  "frontmatter": {
+    "title": "Jaques Wagner",
+    "description": "Linha do tempo e fontes públicas sobre Jaques Wagner.",
+    "demos": {
+      "id": "person--jaques-wagner",
+      "type": "person",
+      "mapLabel": "jaques-wagner",
+      "portrait": "jaques-wagner.png",
+      "seed": "no",
+      "seed-id": "case--caso-banco-master",
+      "target-questions": [
+        "q--case--caso-banco-master--003"
+      ],
+      "country": "BR",
+      "identifiers": {
+        "wikidata": "Q6159407",
+        "wikipedia": "https://pt.wikipedia.org/wiki/Jaques_Wagner"
+      },
+      "aliases": [
+        "Jaques Wagner"
+      ],
+      "tags": [
+        "politica",
+        "legislativo",
+        "senador",
+        "pt",
+        "bahia",
+        "banco-master"
+      ]
+    }
+  },
+  "frontmatterYaml": "title: \"Jaques Wagner\"\ndescription: \"Linha do tempo e fontes públicas sobre Jaques Wagner.\"\ndemos:\n  id: person--jaques-wagner\n  type: person\n  mapLabel: jaques-wagner\n  portrait: jaques-wagner.png\n  seed: no\n  seed-id: case--caso-banco-master\n  target-questions:\n    - q--case--caso-banco-master--003\n  country: BR\n  identifiers:\n    wikidata: Q6159407\n    wikipedia: https://pt.wikipedia.org/wiki/Jaques_Wagner\n  aliases:\n    - Jaques Wagner\n  tags:\n    - politica\n    - legislativo\n    - senador\n    - pt\n    - bahia\n    - banco-master",
+  "bodyMarkdown": "# Jaques Wagner\n\n::: info Nota editorial (Skepvox)\nEsta página entra no mapa a partir de menções jornalísticas a conexões políticas atribuídas ao “caso [Master](/demos/organizacoes/banco-master)”.\nPor ser um tema politicamente carregado, a nota separa explicitamente: (1) fatos enciclopédicos; (2) alegações\npublicadas por veículos; (3) perguntas investigáveis.\n:::\n\n_Última atualização: 2026-01-10. ID Skepvox: `person--jaques-wagner`._\n\n<DemosPortraitSvg />\n\n## Situação atual\n\n- Cargo: senador da República, segundo biografia enciclopédica. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Jaques_Wagner).\n\n## Por que está no mapa\n\n- Conexão de origem: caso [Caso Banco Master](/demos/casos/caso-banco-master) (semente).\n- Perguntas-alvo (rastreamento): `q--case--caso-banco-master--003`.\n- Evidência mínima: reportagem/opinião relata que a “oposição aponta” vínculos do [Banco Master](/demos/organizacoes/banco-master) com o governo do [PT](/demos/organizacoes/partido-dos-trabalhadores-pt) da Bahia e cita proximidade entre o senador Jaques Wagner e Augusto Lima (ex-sócio de [Daniel Vorcaro](/demos/pessoas/daniel-vorcaro), segundo o texto). Fonte: [Gazeta do Povo](https://www.gazetadopovo.com.br/economia/caso-master-mostra-forca-do-lobby-e-de-articulacoes-politicas-em-brasilia/).\n- Fontes‑alvo (próximos passos): registros documentais públicos (agendas, contratos, atos, decisões, convênios) que corroborem ou refutem as alegações e esclareçam o tipo de vínculo (se houver).\n\n## Perguntas abertas (hipóteses)\n\n- `q--person--jaques-wagner--001`\n  - Pergunta: existe documentação pública verificável que conecte Jaques Wagner a operações/contratos/agenda do [Banco Master](/demos/organizacoes/banco-master) (ou de atores centrais citados) no contexto da Bahia?\n  - Estado: `aberta`.\n  - Hipótese: há evidência documental (agendas, registros oficiais, contratos/convênios citados) que sustenta a existência de vínculos relevantes.\n  - Contra-hipótese: as alegações são majoritariamente políticas, com baixo lastro documental; vínculos (se existirem) são indiretos ou compatíveis com relações institucionais regulares.\n  - Próximos passos: identificar convênios e contratos citados; procurar agendas e registros oficiais; buscar fontes independentes que citem documentos.\n  - Notas que avançam: nenhuma ainda.\n\n## Identidade (básico)\n\n- Nome: Jaques Wagner. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Jaques_Wagner).\n\n## Linha do tempo\n\n### 1951–2014 — Trajetória (alto nível, enciclopédico)\n\n- 1951 — Nascimento (alto nível). Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Jaques_Wagner).\n- 2007–2015 — Governador da Bahia (alto nível, enciclopédico). Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Jaques_Wagner).\n\n### 2015– — Senado (alto nível, enciclopédico)\n\n- 2015– — Senador pela Bahia (alto nível, enciclopédico). Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Jaques_Wagner).\n\n## Eventos\n\n### 2025\n\n- 2025-12-01 — Artigo/reportagem cita Wagner em alegações políticas sobre vínculos do [Banco Master](/demos/organizacoes/banco-master) com a Bahia (tratar como fonte secundária e rotulada). Status: `reported`. Fonte: [Gazeta do Povo](https://www.gazetadopovo.com.br/economia/caso-master-mostra-forca-do-lobby-e-de-articulacoes-politicas-em-brasilia/).\n\n## Casos relacionados\n\n- [Caso Banco Master](/demos/casos/caso-banco-master)\n\n## Fontes\n\n- Wikipédia — “Jaques Wagner” (acesso em 2026-01-10): https://pt.wikipedia.org/wiki/Jaques_Wagner\n- Wikidata — “Jaques Wagner” (Q6159407) (acesso em 2026-01-10): https://www.wikidata.org/wiki/Q6159407\n- Gazeta do Povo — “Caso [Master](/demos/organizacoes/banco-master) mostra força do lobby e de articulações políticas em Brasília” (acesso em 2026-01-10): https://www.gazetadopovo.com.br/economia/caso-master-mostra-forca-do-lobby-e-de-articulacoes-politicas-em-brasilia/\n",
+  "outboundLinks": [
+    {
+      "text": "Master",
+      "href": "/demos/organizacoes/banco-master"
+    },
+    {
+      "text": "Caso Banco Master",
+      "href": "/demos/casos/caso-banco-master"
+    },
+    {
+      "text": "Banco Master",
+      "href": "/demos/organizacoes/banco-master"
+    },
+    {
+      "text": "PT",
+      "href": "/demos/organizacoes/partido-dos-trabalhadores-pt"
+    },
+    {
+      "text": "Daniel Vorcaro",
+      "href": "/demos/pessoas/daniel-vorcaro"
+    },
+    {
+      "text": "Banco Master",
+      "href": "/demos/organizacoes/banco-master"
+    },
+    {
+      "text": "Banco Master",
+      "href": "/demos/organizacoes/banco-master"
+    },
+    {
+      "text": "Caso Banco Master",
+      "href": "/demos/casos/caso-banco-master"
+    },
+    {
+      "text": "Master",
+      "href": "/demos/organizacoes/banco-master"
+    }
+  ],
+  "outboundLinksBySection": [
+    {
+      "section": "Intro",
+      "links": [
+        {
+          "text": "Master",
+          "href": "/demos/organizacoes/banco-master"
+        }
+      ]
+    },
+    {
+      "section": "Por que está no mapa",
+      "links": [
+        {
+          "text": "Caso Banco Master",
+          "href": "/demos/casos/caso-banco-master"
+        },
+        {
+          "text": "Banco Master",
+          "href": "/demos/organizacoes/banco-master"
+        },
+        {
+          "text": "PT",
+          "href": "/demos/organizacoes/partido-dos-trabalhadores-pt"
+        },
+        {
+          "text": "Daniel Vorcaro",
+          "href": "/demos/pessoas/daniel-vorcaro"
+        }
+      ]
+    },
+    {
+      "section": "Perguntas abertas (hipóteses)",
+      "links": [
+        {
+          "text": "Banco Master",
+          "href": "/demos/organizacoes/banco-master"
+        }
+      ]
+    },
+    {
+      "section": "Eventos",
+      "links": [
+        {
+          "text": "Banco Master",
+          "href": "/demos/organizacoes/banco-master"
+        }
+      ]
+    },
+    {
+      "section": "Casos relacionados",
+      "links": [
+        {
+          "text": "Caso Banco Master",
+          "href": "/demos/casos/caso-banco-master"
+        }
+      ]
+    },
+    {
+      "section": "Fontes",
+      "links": [
+        {
+          "text": "Master",
+          "href": "/demos/organizacoes/banco-master"
+        }
+      ]
+    }
+  ],
+  "relations": {
+    "cases": [
+      {
+        "text": "Caso Banco Master",
+        "href": "/demos/casos/caso-banco-master"
+      }
+    ],
+    "family": [],
+    "people": [],
+    "organizations": []
+  },
+  "relationSectionTitles": {
+    "cases": "Casos relacionados",
+    "family": null,
+    "people": null,
+    "organizations": null
+  },
+  "openQuestions": [
+    {
+      "id": "q--person--jaques-wagner--001",
+      "question": "existe documentação pública verificável que conecte Jaques Wagner a operações/contratos/agenda do [Banco Master](/demos/organizacoes/banco-master) (ou de atores centrais citados) no contexto da Bahia?",
+      "state": "aberta",
+      "hypothesis": "há evidência documental (agendas, registros oficiais, contratos/convênios citados) que sustenta a existência de vínculos relevantes.",
+      "counterHypothesis": "as alegações são majoritariamente políticas, com baixo lastro documental; vínculos (se existirem) são indiretos ou compatíveis com relações institucionais regulares.",
+      "nextSteps": "identificar convênios e contratos citados; procurar agendas e registros oficiais; buscar fontes independentes que citem documentos.",
+      "advancingNotes": []
+    }
+  ]
+}
