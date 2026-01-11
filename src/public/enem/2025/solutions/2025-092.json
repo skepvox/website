@@ -4,11 +4,11 @@
     "letter": "E",
     "value": "0,06 mg"
   },
-  "short_md": "Tempo de 26,5 anos corresponde a 5 meias-vidas.  \nMassa restante:  \n$2,00\\times(1/2)^5 = 2,00/32 \\approx 0,0625$ mg.  \nAproxima: 0,06 mg.",
+  "short_md": "Tempo de $26,5\\,\\text{anos}$ corresponde a $5\\,\\text{m}$eias-vidas.\nMassa restante:\n$2,00\\times(1/2)^5 = 2,00/32 \\approx 0,0625\\,\\text{mg}$.\nAproxima: $0,06\\,\\text{mg}$.",
   "steps": [
     {
       "title": "Contar meias-vidas",
-      "body_md": "$26,5/5,3 = 5$ meias-vidas."
+      "body_md": "$26,5/5,3 = 5\\,\\text{m}$eias-vidas."
     },
     {
       "title": "Aplicar o decaimento",
@@ -16,7 +16,7 @@
     },
     {
       "title": "Comparar com as opções",
-      "body_md": "Valor mais próximo: 0,06 mg (alternativa E)."
+      "body_md": "Valor mais próximo: $0,06\\,\\text{mg}$ (alternativa E)."
     }
   ],
   "tts_text": "A meia-vida do cobalto-60 é 5,3 anos. Em 26,5 anos passam exatamente cinco meias-vidas. A massa restante é a massa inicial multiplicada por um meio elevado a cinco: 2,00 dividido por 32, que dá 0,0625 mg. O valor mais próximo nas alternativas é 0,06 mg. Portanto, a alternativa correta é a letra E."

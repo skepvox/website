@@ -4,23 +4,23 @@
     "letter": "B",
     "value": "8"
   },
-  "short_md": "Volume da caixa:  \n$(2,5\\times 1,5\\times 2) = 7,5$ dm^3 = 7,5 L.  \nCada garrafa ocupa 0,3 L.  \nPara manter pelo menos 5 L de água:  \n$7,5 - 0,3n \\ge 5$  \n$\\Rightarrow n \\le 8,33$.  \nLogo, no máximo 8 garrafas.",
+  "short_md": "Volume da caixa:\n\n$$\nV = 2,5\\times 1,5\\times 2 = 7,5\\,\\text{dm}^3 = 7,5\\,\\text{L}\n$$\n\nCada garrafa ocupa $0,3\\,\\text{L}$.\nPara manter pelo menos $5\\,\\text{L}$ de água:\n\n$$\n\\begin{aligned}\n7,5 - 0,3n &\\ge 5 \\\\\nn &\\le 8,33\n\\end{aligned}\n$$\n\nLogo, no máximo $8$ garrafas.",
   "steps": [
     {
       "title": "Fórmula e termos",
-      "body_md": "Volume do paralelepípedo:  \n$V = a\\times b\\times h$.  \nAqui, $1$ dm^3 = $1$ L."
+      "body_md": "Volume do paralelepípedo:\n\n$$\nV = a\\times b\\times h\n$$\n\nAqui, $1\\,\\text{dm}^3$ = $1\\,\\text{L}$."
     },
     {
       "title": "Calcular o volume de água",
-      "body_md": "$V = 2,5\\times 1,5\\times 2 = 7,5$ dm^3 = 7,5 L."
+      "body_md": "$$\nV = 2,5\\times 1,5\\times 2 = 7,5\\,\\text{dm}^3 = 7,5\\,\\text{L}\n$$"
     },
     {
       "title": "Impor o volume mínimo",
-      "body_md": "Cada garrafa desloca 0,3 L:  \n$7,5 - 0,3n \\ge 5$  \n$n \\le 8,33$"
+      "body_md": "Cada garrafa desloca $0,3\\,\\text{L}$:\n\n$$\n\\begin{aligned}\n7,5 - 0,3n &\\ge 5 \\\\\nn &\\le 8,33\n\\end{aligned}\n$$"
     },
     {
       "title": "Conclusão",
-      "body_md": "A quantidade máxima inteira é 8 garrafas."
+      "body_md": "A quantidade máxima inteira é $8$ garrafas."
     }
   ],
   "tts_text": "A caixa tem base de 2,5 dm por 1,5 dm e altura de agua de 2 dm. O volume e 2,5 vezes 1,5 vezes 2, igual a 7,5 dm3, que corresponde a 7,5 litros. Cada garrafa ocupa 0,3 litro. Para manter pelo menos 5 litros, fazemos 7,5 menos 0,3n maior ou igual a 5. Isso da n menor ou igual a 8,33. Portanto, o maximo inteiro e 8 garrafas, alternativa B."

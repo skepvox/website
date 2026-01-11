@@ -4,19 +4,19 @@
     "letter": "C",
     "value": "380"
   },
-  "short_md": "Ordenando as velocidades:  \n$320,\\ 340,\\ 350,\\ 360,\\ 380,\\ 380,\\ 390,\\ 390,\\ 390,\\ 400$.  \nComo são 10 valores, a mediana é a média do 5º e 6º termos:  \n$\\dfrac{380 + 380}{2} = 380$ MB/s.",
+  "short_md": "Ordenando as velocidades:\n\n$$\n320,\\ 340,\\ 350,\\ 360,\\ 380,\\ 380,\\ 390,\\ 390,\\ 390,\\ 400\n$$\n\nComo são $10$ valores, a mediana é a média do $5$º e $6$º termos:\n\n$$\n\\dfrac{380 + 380}{2} = 380\\,\\text{MB/s}\n$$",
   "steps": [
     {
       "title": "Fórmula e termos",
-      "body_md": "Para uma lista com número par de dados, a mediana é a média dos dois valores centrais após ordenar." 
+      "body_md": "Para uma lista com número par de dados, a mediana é a média dos dois valores centrais após ordenar."
     },
     {
       "title": "Ordenar os dados",
-      "body_md": "Velocidades em ordem:  \n$320,\\ 340,\\ 350,\\ 360,\\ 380,\\ 380,\\ 390,\\ 390,\\ 390,\\ 400$."
+      "body_md": "Velocidades em ordem:\n\n$$\n320,\\ 340,\\ 350,\\ 360,\\ 380,\\ 380,\\ 390,\\ 390,\\ 390,\\ 400\n$$"
     },
     {
       "title": "Calcular a mediana",
-      "body_md": "Os valores centrais são o 5º e o 6º:  \n$\\dfrac{380 + 380}{2} = 380$ MB/s"
+      "body_md": "Os valores centrais são o $5$º e o $6$º:\n\n$$\n\\dfrac{380 + 380}{2} = 380\\,\\text{MB/s}\n$$"
     }
   ],
   "tts_text": "Para encontrar a mediana com dez valores, ordenamos a lista e fazemos a média dos dois termos centrais. Ordenando, temos 320, 340, 350, 360, 380, 380, 390, 390, 390 e 400. Os termos centrais são 380 e 380. A média é 380 megabytes por segundo. Portanto, a alternativa correta é a letra C."

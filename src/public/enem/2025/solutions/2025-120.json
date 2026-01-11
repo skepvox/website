@@ -4,7 +4,7 @@
     "letter": "B",
     "value": "120 V e 2,4 Ω"
   },
-  "short_md": "Cada placa: $E = 40$ V e $V_{op} = 34$ V com $I = 7,5$ A.  \nResistência interna: $r = (40-34)/7,5 = 0,8$ Ω.  \nPara 100 V, são 3 placas em série: $E = 120$ V e $r = 2,4$ Ω.  \nResposta: alternativa B.",
+  "short_md": "Cada placa: $E = 40$ V e $V_{op} = 34$ V com $I = 7,5$ A.\nResistência interna: $r = (40-34)/7,5 = 0,8$ Ω.\nPara $100\\,\\text{V}$, são $3$ placas em série: $E = 120$ V e $r = 2,4$ Ω.\nResposta: alternativa B.",
   "steps": [
     {
       "title": "Obter r de uma placa",
@@ -12,7 +12,7 @@
     },
     {
       "title": "Definir o número mínimo",
-      "body_md": "3 placas em série dão cerca de 102 V em operação."
+      "body_md": "$3$ placas em série dão cerca de $102\\,\\text{V}$ em operação."
     },
     {
       "title": "Equivalente do gerador",

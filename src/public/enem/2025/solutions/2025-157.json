@@ -4,19 +4,19 @@
     "letter": "B",
     "value": "20 × 18 × 16"
   },
-  "short_md": "Presidente: 20 pessoas.  \nSecretário: exclui-se o escolhido e seu par, restam $20 - 2 = 18$.  \nTesoureiro: excluem-se mais o secretário e seu par, restam $20 - 4 = 16$.  \nTotal:  \n$20\\times 18\\times 16$.",
+  "short_md": "Presidente: $20$ pessoas.\n\n$$\n\\begin{aligned}\n\\text{Secretário:}\\ 20 - 2 &= 18 \\\\\n\\text{Tesoureiro:}\\ 20 - 4 &= 16\n\\end{aligned}\n$$\n\nTotal:\n\n$$\n20\\times 18\\times 16\n$$",
   "steps": [
     {
       "title": "Fórmula e termos",
-      "body_md": "Como os cargos são distintos, usamos o princípio multiplicativo:  \n$N = P\\times S\\times T$  \nonde $P$, $S$ e $T$ são as opções para presidente, secretário e tesoureiro."
+      "body_md": "Como os cargos são distintos, usamos o princípio multiplicativo:\n\n$$\nN = P\\times S\\times T\n$$\n\nonde $P$, $S$ e $T$ são as opções para presidente, secretário e tesoureiro."
     },
     {
       "title": "Contar as escolhas",
-      "body_md": "Presidente: 20 pessoas.  \nSecretário: exclui-se o presidente e seu par: $20 - 2 = 18$.  \nTesoureiro: excluem-se presidente, secretário e seus pares: $20 - 4 = 16$."
+      "body_md": "Presidente: $20$ pessoas.\n\n$$\n\\begin{aligned}\n\\text{Secretário:}\\ 20 - 2 &= 18 \\\\\n\\text{Tesoureiro:}\\ 20 - 4 &= 16\n\\end{aligned}\n$$"
     },
     {
       "title": "Multiplicar",
-      "body_md": "$20\\times 18\\times 16$ diretorias possíveis."
+      "body_md": "$$\n20\\times 18\\times 16\n$$\n\ndiretorias possíveis."
     }
   ],
   "tts_text": "Ha 20 pessoas no total. Como nao pode haver duas pessoas do mesmo casal na diretoria, ao escolher o presidente restam 18 pessoas possiveis para secretario, pois o presidente e seu par saem da lista. Depois, para tesoureiro, restam 16 pessoas, pois saem o secretario e seu par. Assim, o total e 20 vezes 18 vezes 16. Portanto, a alternativa correta e a letra B."

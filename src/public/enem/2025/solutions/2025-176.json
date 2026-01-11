@@ -4,19 +4,19 @@
     "letter": "E",
     "value": "III, com o custo total de R$ 1 200,00"
   },
-  "short_md": "Autoescola I: $(20\\times 10) + (10\\times 80) + 400 = 1\\ 400$.  \nAutoescola II: $(20\\times 30) + (10\\times 50) + 200 = 1\\ 300$.  \nAutoescola III: $(20\\times 20) + (10\\times 40) + 400 = 1\\ 200$.  \nO menor custo \u00e9 o da autoescola III.",
+  "short_md": "$$\n\\begin{aligned}\n\\text{I:}\\ (20\\times 10) + (10\\times 80) + 400 &= 1\\,400\\,\\text{reais} \\\\\n\\text{II:}\\ (20\\times 30) + (10\\times 50) + 200 &= 1\\,300\\,\\text{reais} \\\\\n\\text{III:}\\ (20\\times 20) + (10\\times 40) + 400 &= 1\\,200\\,\\text{reais}\n\\end{aligned}\n$$\n\nO menor custo é o da autoescola III.",
   "steps": [
     {
-      "title": "F\u00f3rmula e termos",
-      "body_md": "Custo total = (20 aulas te\u00f3ricas) + (10 aulas pr\u00e1ticas) + aluguel do ve\u00edculo." 
+      "title": "Fórmula e termos",
+      "body_md": "Custo total = ($20$ aulas teóricas) + ($10$ aulas práticas) + aluguel do veículo."
     },
     {
       "title": "Calcular cada autoescola",
-      "body_md": "I: $(20\\times 10) + (10\\times 80) + 400 = 1\\ 400$.  \nII: $(20\\times 30) + (10\\times 50) + 200 = 1\\ 300$.  \nIII: $(20\\times 20) + (10\\times 40) + 400 = 1\\ 200$."
+      "body_md": "$$\n\\begin{aligned}\n\\text{I:}\\ (20\\times 10) + (10\\times 80) + 400 &= 1\\,400\\,\\text{reais} \\\\\n\\text{II:}\\ (20\\times 30) + (10\\times 50) + 200 &= 1\\,300\\,\\text{reais} \\\\\n\\text{III:}\\ (20\\times 20) + (10\\times 40) + 400 &= 1\\,200\\,\\text{reais}\n\\end{aligned}\n$$"
     },
     {
       "title": "Escolher o menor",
-      "body_md": "O menor custo \u00e9 1 200 reais, da autoescola III."
+      "body_md": "O menor custo é $1\\,200\\,\\text{reais}$, da autoescola III."
     }
   ],
   "tts_text": "O custo total e a soma de 20 aulas teoricas, 10 aulas praticas e o aluguel do veiculo. Na autoescola I, o total e 200 mais 800 mais 400, que da 1 400 reais. Na II, 600 mais 500 mais 200, totalizando 1 300 reais. Na III, 400 mais 400 mais 400, totalizando 1 200 reais. O menor custo e o da autoescola III, portanto a alternativa correta e a letra E."

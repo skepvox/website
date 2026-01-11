@@ -4,19 +4,19 @@
     "letter": "C",
     "value": "300"
   },
-  "short_md": "Caso 1: o mais velho recebe a bicicleta (não o celular).  \nEscolha de mais 2 presentes: $\\binom{6}{2} = 15$.  \nEscolha de 3 presentes para o mais novo: $\\binom{5}{3} = 10$.  \nTotal do caso: $15\\times 10 = 150$.  \nCaso 2 (troca bicicleta por celular): 150.  \nTotal: $300$.",
+  "short_md": "Caso $1$: o mais velho recebe a bicicleta (não o celular).\nEscolha de mais $2$ presentes: $\\binom{6}{2} = 15$.\nEscolha de $3$ presentes para o mais novo: $\\binom{5}{3} = 10$.\nTotal do caso: $15\\times 10 = 150$.\nCaso $2$ (troca bicicleta por celular): $150$.\nTotal: $300$.",
   "steps": [
     {
       "title": "Fórmula e termos",
-      "body_md": "Usamos combinações porque os presentes são distintos e a ordem não importa:  \n$\\binom{n}{k} = \\dfrac{n!}{k!(n-k)!}$." 
+      "body_md": "Usamos combinações porque os presentes são distintos e a ordem não importa:\n\n$$\n\\binom{n}{k} = \\dfrac{n!}{k!(n-k)!}\n$$"
     },
     {
       "title": "Caso 1: mais velho com a bicicleta",
-      "body_md": "Ele recebe a bicicleta e mais 2 entre os 6 restantes:  \n$\\binom{6}{2} = 15$.  \nO mais novo recebe 3 entre os 5 restantes:  \n$\\binom{5}{3} = 10$.  \nTotal: $15\\times 10 = 150$."
+      "body_md": "Ele recebe a bicicleta e mais $2$ entre os $6$ restantes:\n\n$$\n\\binom{6}{2} = 15\n$$\n\nO mais novo recebe $3$ entre os $5$ restantes:\n\n$$\n\\binom{5}{3} = 10\n$$\n\nTotal: $15\\times 10 = 150$."
     },
     {
       "title": "Caso 2: mais velho com o celular",
-      "body_md": "O raciocínio é o mesmo, totalizando mais 150 maneiras."
+      "body_md": "O raciocínio é o mesmo, totalizando mais $150$ maneiras."
     },
     {
       "title": "Somar",

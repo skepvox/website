@@ -4,7 +4,7 @@
     "letter": "D",
     "value": "1"
   },
-  "short_md": "Corrente máxima: 20 A.  \nComputador (250 W) + ar-condicionado (1100 W): $I = 12,27$ A.  \nImpressora (660 W): $I = 6,0$ A. Total = 18,27 A (ok).  \nCafeteira (900 W): $I = 8,18$ A. Total = 20,45 A (queima).  \nLogo, apenas 1 atividade.  \nResposta: alternativa D.",
+  "short_md": "Corrente máxima: $20\\,\\text{A}$.\nComputador ($250\\,\\text{W}$) + ar-condicionado ($1100\\,\\text{W}$): $I = 12,27$ A.\nImpressora ($660\\,\\text{W}$): $I = 6,0$ A. Total = $18,27\\,\\text{A}$ (ok).\nCafeteira ($900\\,\\text{W}$): $I = 8,18$ A. Total = $20,45\\,\\text{A}$ (queima).\nLogo, apenas $1$ atividade.\nResposta: alternativa D.",
   "steps": [
     {
       "title": "Calcular a corrente base",
@@ -12,7 +12,7 @@
     },
     {
       "title": "Testar as atividades",
-      "body_md": "Com a impressora: $12,27 + 660/110 = 18,27$ A (não queima).  \nCom a cafeteira: $12,27 + 900/110 = 20,45$ A (queima)."
+      "body_md": "Com a impressora: $12,27 + 660/110 = 18,27\\,\\text{A}$ (não queima).\nCom a cafeteira: $12,27 + 900/110 = 20,45\\,\\text{A}$ (queima)."
     },
     {
       "title": "Conclusão",

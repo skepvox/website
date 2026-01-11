@@ -4,19 +4,19 @@
     "letter": "A",
     "value": "10^0,5"
   },
-  "short_md": "Para $t\\in[0,10]$:  \n$P = 4\\log\\big(K(19-t)(t+1)\\big)$.  \nO produto $(19-t)(t+1)$ \u00e9 m\u00e1ximo em $t=9$, valendo 100.  \nLogo, $P_{max} = 4\\log(100K) \\le 10$.  \n$\\log(100K) \\le 2,5 \\Rightarrow 100K \\le 10^{2,5}$.  \n$K \\le 10^{0,5}$.",
+  "short_md": "Para $t\\in[0,10]$:\n\n$$\nP = 4\\log\\big(K(19-t)(t+1)\\big)\n$$\n\nO produto $(19-t)(t+1)$ é máximo em $t=9$, valendo $100$.\nLogo, $P_{max} = 4\\log(100K) \\le 10$.\n\n$$\n\\begin{aligned}\n\\log(100K) &\\le 2,5 \\\\\n100K &\\le 10^{2,5} \\\\\nK &\\le 10^{0,5}\n\\end{aligned}\n$$",
   "steps": [
     {
-      "title": "F\u00f3rmula e termos",
-      "body_md": "Press\u00e3o:  \n$P = 4\\log[-K(t+1)(t-19)]$  \nComo $(t+1)(t-19)$ \u00e9 negativo no intervalo, escrevemos:  \n$P = 4\\log\\big(K(19-t)(t+1)\\big)$." 
+      "title": "Fórmula e termos",
+      "body_md": "Pressão:\n\n$$\nP = 4\\log[-K(t+1)(t-19)]\n$$\n\nComo $(t+1)(t-19)$ é negativo no intervalo, escrevemos:\n\n$$\nP = 4\\log\\big(K(19-t)(t+1)\\big)\n$$"
     },
     {
       "title": "Maximizar o termo interno",
-      "body_md": "A fun\u00e7\u00e3o $(19-t)(t+1)$ \u00e9 um quadr\u00e1tico concavo e atinge m\u00e1ximo em $t=9$:  \n$(19-9)(9+1)=100$." 
+      "body_md": "A função $(19-t)(t+1)$ é um quadrático concavo e atinge máximo em $t=9$:\n\n$$\n(19-9)(9+1)=100\n$$"
     },
     {
-      "title": "Impor o limite de press\u00e3o",
-      "body_md": "$4\\log(100K) \\le 10$  \n$\\log(100K) \\le 2,5$  \n$K \\le 10^{0,5}$."
+      "title": "Impor o limite de pressão",
+      "body_md": "$$\n\\begin{aligned}\n4\\log(100K) &\\le 10 \\\\\n\\log(100K) &\\le 2,5 \\\\\nK &\\le 10^{0,5}\n\\end{aligned}\n$$"
     }
   ],
   "tts_text": "A pressao e dada por 4 vezes o logaritmo de menos K vezes t mais 1 vezes t menos 19. No intervalo de 0 a 10, o produto e negativo, entao podemos escrever K vezes 19 menos t vezes t mais 1. Essa funcao quadratica atinge o maximo em t igual a 9, com valor 100. Assim, o maior valor de P e 4 log de 100K. Para nao ultrapassar 10, precisamos de log de 100K menor ou igual a 2,5. Logo, 100K deve ser menor ou igual a 10 elevado a 2,5, o que implica K menor ou igual a 10 elevado a 0,5. Portanto, a alternativa correta e a letra A."

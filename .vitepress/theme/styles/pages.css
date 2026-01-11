@@ -40,9 +40,36 @@
   margin-left: 0 !important;
 }
 
-.vt-doc mjx-container {
+.vt-doc mjx-container[jax="CHTML"] {
   display: inline-block;
-  vertical-align: -0.12em;
+  vertical-align: 0;
+  font-size: 1em;
+}
+
+.vt-doc mjx-container[jax="CHTML"][display="true"] {
+  display: block;
+  font-size: 1.1em;
+  white-space: normal;
+  overflow-wrap: normal;
+  word-break: normal;
+}
+
+.vt-doc mjx-container[jax="CHTML"][display="true"] mjx-mtext {
+  white-space: normal;
+  display: inline;
+}
+
+.vt-doc mjx-assistive-mml {
+  position: absolute !important;
+  top: 0;
+  left: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  padding: 0 !important;
+  border: 0 !important;
+  display: block !important;
+  width: 1px !important;
+  height: 1px !important;
+  overflow: hidden !important;
 }
 
 .vt-doc .lavelle-portrait {
@@ -58,4 +85,20 @@
   border-color: var(--vt-c-divider-light);
   box-shadow: 0 12px 30px rgba(0, 0, 0, 0.28);
   filter: grayscale(1);
+}
+
+.demos-brasil-compare {
+  display: grid;
+  gap: 24px;
+  margin: 16px 0 32px;
+}
+
+.demos-brasil-compare > div > h3 {
+  margin-top: 0;
+}
+
+@media (min-width: 1100px) {
+  .demos-brasil-compare {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  }
 }

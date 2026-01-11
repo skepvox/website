@@ -132,7 +132,7 @@ question card and its nested components.
 - Formula assets render with KaTeX when possible, with a monospace fallback if
   rendering fails. Use `segments` to mix text and math.
 - Markdown math in context/statement is rendered by MathJax (via
-  `markdown-it-mathjax3`).
+  `.vitepress/mathjaxMdPlugin.ts`).
 - KaTeX output is left-aligned and uses the base site font with italic styles
   disabled to blend with surrounding text.
 - Assets should avoid hardcoded background colors; prefer transparency so they

@@ -4,7 +4,7 @@
     "letter": "E",
     "value": "2 e 5"
   },
-  "short_md": "A sensibilidade é a inclinação da reta $R(T) = A + BT$.  \nOs sensores com maior inclinação são 2 e 5.  \nResposta: alternativa E.",
+  "short_md": "A sensibilidade é a inclinação da reta $R(T) = A + BT$.\nOs sensores com maior inclinação são $2$ e $5$.\nResposta: alternativa E.",
   "steps": [
     {
       "title": "Definir sensibilidade",
@@ -12,7 +12,7 @@
     },
     {
       "title": "Comparar inclinações",
-      "body_md": "No gráfico, as maiores inclinações são dos sensores 2 e 5."
+      "body_md": "No gráfico, as maiores inclinações são dos sensores $2$ e $5$."
     }
   ],
   "tts_text": "A relação R(T) é linear, e a sensibilidade corresponde ao coeficiente angular da reta, isto é, à inclinação do gráfico. Observando as curvas, os sensores 2 e 5 têm as maiores inclinações. Portanto, a alternativa correta é a letra E."

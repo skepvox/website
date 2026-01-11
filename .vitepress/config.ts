@@ -3,7 +3,8 @@ import path from 'path'
 import {
   defineConfigWithTheme,
   type HeadConfig,
-  type Plugin
+  type Plugin,
+  type UserConfigExport
 } from 'vitepress'
 import type { Config as ThemeConfig } from '@vue/theme'
 import llmstxt from 'vitepress-plugin-llms'
@@ -14,7 +15,11 @@ import {
   groupIconMdPlugin,
   groupIconVitePlugin
 } from 'vitepress-plugin-group-icons'
-import markdownItMathjax3 from 'markdown-it-mathjax3'
+import {
+  createMathJaxMdPlugin,
+  getMathJaxStyles,
+  initMathJax
+} from './mathjaxMdPlugin'
 
 const nav: ThemeConfig['nav'] = [
   {
@@ -136,6 +141,7 @@ export const sidebar: ThemeConfig['sidebar'] = {
         { text: 'Organizações', link: '/demos/organizacoes/' },
         { text: 'Casos', link: '/demos/casos/' },
         { text: 'Mapa Relacional', link: '/demos/mapa' },
+        { text: 'Brasil', link: '/demos/brasil/' },
       ]
     }
   ],
@@ -216,7 +222,12 @@ function labelForDemosHub(kind: string) {
   return 'Demos'
 }
 
-export default defineConfigWithTheme<ThemeConfig>({
+const config: UserConfigExport<ThemeConfig> = (async () => {
+  const mathjax = await initMathJax()
+  const mathjaxMdPlugin = createMathJaxMdPlugin(mathjax)
+  const mathjaxStyles = await getMathJaxStyles(mathjax)
+
+  return defineConfigWithTheme<ThemeConfig>({
   extends: baseConfig,
   cleanUrls: false,
 
@@ -388,6 +399,9 @@ export default defineConfigWithTheme<ThemeConfig>({
   srcDir: 'src',
 
   head: [
+    ...(mathjaxStyles.css
+      ? [['style', { id: mathjaxStyles.id }, mathjaxStyles.css] as HeadConfig]
+      : []),
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }],
     [
       'link',
@@ -490,9 +504,17 @@ export default defineConfigWithTheme<ThemeConfig>({
   markdown: {
     theme: 'github-dark',
     config(md) {
-      md.use(markdownItMathjax3)
+      md.use(mathjaxMdPlugin)
       md.use(headerPlugin).use(groupIconMdPlugin)
       // .use(textAdPlugin)
+    }
+  },
+
+  vue: {
+    template: {
+      compilerOptions: {
+        isCustomElement: (tag) => tag.startsWith('mjx-')
+      }
     }
   },
 
@@ -559,4 +581,7 @@ Skepvox - Literatura & Filosofia
       }) as Plugin
     ]
   }
-})
+  })
+})()
+
+export default config

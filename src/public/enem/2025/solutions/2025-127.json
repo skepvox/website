@@ -4,7 +4,7 @@
     "letter": "B",
     "value": "3,5 g"
   },
-  "short_md": "Pelo gás ideal:  \n$n_{gas} = PV/RT = 4/(0,082\\times 453) \\approx 0,1077$ mol.  \nCada mol de NH4HCO3 gera 3 mol de gás: $n = 0,1077/3 = 0,0359$ mol.  \nCom rendimento 80%: $n = 0,0359/0,8 = 0,0449$ mol.  \nMassa: $0,0449\\times 79 \\approx 3,5$ g.  \nResposta: alternativa B.",
+  "short_md": "Pelo gás ideal:\n$n_{gas} = PV/RT = 4/(0,082\\times 453) \\approx 0,1077$ mol.\nCada mol de NH4HCO3 gera $3\\,\\text{mol}$ de gás: $n = 0,1077/3 = 0,0359$ mol.\nCom rendimento $80\\%$: $n = 0,0359/0,8 = 0,0449$ mol.\nMassa: $0,0449\\times 79 \\approx 3,5\\,\\text{g}$.\nResposta: alternativa B.",
   "steps": [
     {
       "title": "Quantidade de gás",
@@ -12,7 +12,7 @@
     },
     {
       "title": "Relacionar com o reagente",
-      "body_md": "1 mol de NH4HCO3 gera 3 mol de gás, então $n = 0,1077/3$."
+      "body_md": "$1\\,\\text{mol}$ de NH4HCO3 gera $3\\,\\text{mol}$ de gás, então $n = 0,1077/3$."
     },
     {
       "title": "Ajustar pelo rendimento",

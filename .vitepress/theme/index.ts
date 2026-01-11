@@ -14,6 +14,8 @@ import AssetChart from './components/enem/assets/AssetChart.vue'
 import NavBarTitleSkepvox from './components/NavBarTitleSkepvox.vue'
 import DemosMapa from './components/DemosMapa.vue'
 import DemosMapaRelacionalCta from './components/DemosMapaRelacionalCta.vue'
+import DemosBrasilMapa from './components/DemosBrasilMapa.vue'
+import DemosBrasilMapaTopo from './components/DemosBrasilMapaTopo.vue'
 import DemosPortraitStipple from './components/DemosPortraitStipple.vue'
 import DemosPortraitSvg from './components/DemosPortraitSvg.vue'
 
@@ -45,6 +47,8 @@ export default Object.assign({}, VPTheme, {
     app.component('AssetChart', AssetChart)
     app.component('DemosMapa', DemosMapa)
     app.component('DemosMapaRelacionalCta', DemosMapaRelacionalCta)
+    app.component('DemosBrasilMapa', DemosBrasilMapa)
+    app.component('DemosBrasilMapaTopo', DemosBrasilMapaTopo)
     app.component('DemosPortraitStipple', DemosPortraitStipple)
     app.component('DemosPortraitSvg', DemosPortraitSvg)
     // app.component('TextAd', TextAd)

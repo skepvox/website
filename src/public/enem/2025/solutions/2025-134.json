@@ -4,19 +4,19 @@
     "letter": "E",
     "value": "5,0 kg"
   },
-  "short_md": "Da reação: 6 mol de Nb requerem 10 mol de Al.  \nMassa de Nb: $6\\times 93 = 558$ g; massa de Al: $10\\times 27 = 270$ g.  \nRazão: $270/558 = 0,484$.  \nPara 9,3 kg de Nb: $9,3\\times 0,484 = 4,50$ kg.  \nCom 10% de excesso: $4,50\\times 1,1 = 4,95$ kg.  \nResposta: alternativa E.",
+  "short_md": "Da reação: $6\\,\\text{mol}$ de Nb requerem $10\\,\\text{mol}$ de Al.\nMassa de Nb: $6\\times 93 = 558\\,\\text{g}$; massa de Al: $10\\times 27 = 270\\,\\text{g}$.\nRazão: $270/558 = 0,484$.\nPara $9,3\\,\\text{kg}$ de Nb: $9,3\\times 0,484 = 4,50\\,\\text{kg}$.\nCom $10\\%$ de excesso: $4,50\\times 1,1 = 4,95\\,\\text{kg}$.\nResposta: alternativa E.",
   "steps": [
     {
       "title": "Usar a estequiometria",
-      "body_md": "6 mol de Nb exigem 10 mol de Al."
+      "body_md": "$6\\,\\text{mol}$ de Nb exigem $10\\,\\text{mol}$ de Al."
     },
     {
       "title": "Converter para massas",
-      "body_md": "$558$ g de Nb correspondem a $270$ g de Al."
+      "body_md": "$558\\,\\text{g}$ de Nb correspondem a $270\\,\\text{g}$ de Al."
     },
     {
       "title": "Aplicar o excesso",
-      "body_md": "Para 9,3 kg: 4,50 kg de Al, com 10%: 4,95 kg."
+      "body_md": "Para $9,3\\,\\text{kg}$: $4,50\\,\\text{kg}$ de Al, com $10\\%$: $4,95\\,\\text{kg}$."
     }
   ],
   "tts_text": "A reação mostra que 6 mol de nióbio são produzidos com 10 mol de alumínio. Em massa, 6 mol de Nb correspondem a 558 gramas e 10 mol de Al correspondem a 270 gramas. A razão é 270 dividido por 558, cerca de 0,484. Para 9,3 kg de Nb, a massa estequiométrica de Al é 4,50 kg. Como há 10 por cento de excesso, multiplicamos por 1,1 e obtemos 4,95 kg, aproximadamente 5,0 kg. Portanto, a alternativa correta é a letra E."

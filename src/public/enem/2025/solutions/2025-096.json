@@ -4,11 +4,11 @@
     "letter": "C",
     "value": "força de atrito constante"
   },
-  "short_md": "No plano inclinado, o atrito cinético vale $F_a = \\mu_k N$.  \nComo a inclinação e a rugosidade são constantes, $N$ é constante.  \nLogo, o atrito permanece constante (alternativa C).",
+  "short_md": "No plano inclinado, o atrito cinético vale $F_a = \\mu_k N$.\nComo a inclinação e a rugosidade são constantes, $N$ é constante.\nLogo, o atrito permanece constante (alternativa C).",
   "steps": [
     {
       "title": "Usar atrito cinético",
-      "body_md": "$F_a = \\mu_k N$."
+      "body_md": "$$\nF_a = \\mu_k N\n$$"
     },
     {
       "title": "Avaliar a normal",

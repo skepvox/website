@@ -4,19 +4,19 @@
     "letter": "C",
     "value": "T / F = 1,59"
   },
-  "short_md": "A frase \"T \u00e9 1,59 vezes F\" significa:  \n$T = 1,59\\times F$  \nLogo,  \n$T/F = 1,59$.",
+  "short_md": "A frase \"T é $1,59$ vezes F\" significa:\n\n$$\nT = 1,59\\times F\n$$\n\nLogo,\n\n$$\nT/F = 1,59\n$$",
   "steps": [
     {
-      "title": "F\u00f3rmula e termos",
-      "body_md": "Se uma grandeza \u00e9 $k$ vezes outra, ent\u00e3o:  \n$A = k\\times B$" 
+      "title": "Fórmula e termos",
+      "body_md": "Se uma grandeza é $k$ vezes outra, então:\n\n$$\nA = k\\times B\n$$"
     },
     {
       "title": "Aplicar ao enunciado",
-      "body_md": "Como $T$ \u00e9 1,59 vezes $F$:  \n$T = 1,59\\times F$"
+      "body_md": "Como $T$ é $1,59$ vezes $F$:\n\n$$\nT = 1,59\\times F\n$$"
     },
     {
-      "title": "Escrever a raz\u00e3o",
-      "body_md": "Dividindo ambos os lados por $F$:  \n$T/F = 1,59$"
+      "title": "Escrever a razão",
+      "body_md": "Dividindo ambos os lados por $F$:\n\n$$\nT/F = 1,59\n$$"
     }
   ],
   "tts_text": "O enunciado diz que a concentracao em dia de trabalho, T, e 1,59 vez a concentracao em dia de folga, F. Isso se escreve como T igual a 1,59 vezes F. Dividindo os dois lados por F, obtemos T sobre F igual a 1,59. Portanto, a alternativa correta e a letra C."

@@ -4,7 +4,7 @@
     "letter": "C",
     "value": "Caatinga"
   },
-  "short_md": "O monstro de gila é adaptado a ambientes secos e pobres em alimento.  \nNo Brasil, o bioma mais semelhante é a Caatinga.  \nResposta: alternativa C.",
+  "short_md": "O monstro de gila é adaptado a ambientes secos e pobres em alimento.\nNo Brasil, o bioma mais semelhante é a Caatinga.\nResposta: alternativa C.",
   "steps": [
     {
       "title": "Identificar o ambiente de origem",

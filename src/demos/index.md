@@ -25,6 +25,7 @@ organizações e eventos (bons, ruins e controversos) **com fontes** e
 
 - [Metodologia](/demos/metodologia)
 - [Mapa](/demos/mapa)
+- [Brasil](/demos/brasil/)
 - [Pessoas](/demos/pessoas/)
 - [Organizações](/demos/organizacoes/)
 - [Casos](/demos/casos/)

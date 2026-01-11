@@ -1,10 +1,10 @@
 ---
-title: "Sede do Instituto Lula"
-description: "Resumo, linha do tempo e fontes públicas sobre o caso envolvendo a suposta cessão de terreno para a nova sede do Instituto Lula (Lava Jato)."
+title: 'Sede do Instituto Lula'
+description: 'Resumo, linha do tempo e fontes públicas sobre o caso envolvendo a suposta cessão de terreno para a nova sede do Instituto Lula (Lava Jato).'
 demos:
   id: case--sede-do-instituto-lula
   type: case
-  mapLabel: sede-instituto
+  mapLabel: instituto-lula
   seed: no
   seed-id: person--luiz-inacio-lula-da-silva
   target-questions:
@@ -20,6 +20,7 @@ demos:
     - lava-jato
     - instituto-lula
 ---
+
 # Sede do Instituto [Lula](/demos/pessoas/luiz-inacio-lula-da-silva)
 
 ::: info Nota editorial (Skepvox)

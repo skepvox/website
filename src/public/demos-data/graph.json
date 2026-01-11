@@ -100,7 +100,7 @@
       "dataUrl": "/demos-data/notes/case--sede-do-instituto-lula.json",
       "title": "Sede do Instituto Lula",
       "description": "Resumo, linha do tempo e fontes públicas sobre o caso envolvendo a suposta cessão de terreno para a nova sede do Instituto Lula (Lava Jato).",
-      "mapLabel": "sede-instituto",
+      "mapLabel": "instituto-lula",
       "seed": false,
       "seedId": "person--luiz-inacio-lula-da-silva",
       "tags": [

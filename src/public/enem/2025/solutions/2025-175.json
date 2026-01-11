@@ -4,23 +4,23 @@
     "letter": "D",
     "value": "21"
   },
-  "short_md": "A 60 km/h, o rendimento \u00e9 10 km/m\u00b3 (GNV) e 8 km/L (gasolina).  \nCada combust\u00edvel foi usado em 120 km.  \nGNV: $120/10 = 12$ m\u00b3 \u2192 custo $12\\times 2 = 24$ reais.  \nGasolina: $120/8 = 15$ L \u2192 custo $15\\times 3 = 45$ reais.  \nDiferen\u00e7a: $45 - 24 = 21$ reais.",
+  "short_md": "A $60\\,\\text{km/h}$, o rendimento é $10\\,\\text{km}/\\text{m}^3$ (GNV) e $8\\,\\text{km}/\\text{L}$ (gasolina).\nCada combustível foi usado em $120\\,\\text{km}$.\nGNV: $120/10 = 12\\,\\text{m}^3$ → custo $12\\times 2 = 24\\,\\text{reais}$.\nGasolina: $120/8 = 15\\,\\text{L}$ → custo $15\\times 3 = 45\\,\\text{reais}$.\nDiferença: $45 - 24 = 21\\,\\text{reais}$.",
   "steps": [
     {
-      "title": "F\u00f3rmula e termos",
-      "body_md": "Consumo = dist\u00e2ncia / rendimento.  \nCusto = consumo \u00d7 pre\u00e7o do combust\u00edvel." 
+      "title": "Fórmula e termos",
+      "body_md": "Consumo e custo:\n\n$$\n\\begin{aligned}\nC &= \\dfrac{d}{r} \\\\\nK &= C\\times p\n\\end{aligned}\n$$\n\nonde:  \n$C$ = consumo.  \n$d$ = distância percorrida.  \n$r$ = rendimento.  \n$K$ = custo.  \n$p$ = preço do combustível."
     },
     {
-      "title": "Obter os rendimentos no gr\u00e1fico",
-      "body_md": "A 60 km/h: 10 km/m\u00b3 para GNV e 8 km/L para gasolina."
+      "title": "Obter os rendimentos no gráfico",
+      "body_md": "A $60\\,\\text{km/h}$: $10\\,\\text{km}/\\text{m}^3$ para GNV e $8\\,\\text{km}/\\text{L}$ para gasolina."
     },
     {
       "title": "Calcular custos",
-      "body_md": "GNV: $120/10 = 12$ m\u00b3, custo $12\\times 2 = 24$ reais.  \nGasolina: $120/8 = 15$ L, custo $15\\times 3 = 45$ reais."
+      "body_md": "GNV: $120/10 = 12\\,\\text{m}^3$, custo $12\\times 2 = 24\\,\\text{reais}$.\nGasolina: $120/8 = 15\\,\\text{L}$, custo $15\\times 3 = 45\\,\\text{reais}$."
     },
     {
-      "title": "Diferen\u00e7a",
-      "body_md": "$45 - 24 = 21$ reais."
+      "title": "Diferença",
+      "body_md": "$45 - 24 = 21\\,\\text{reais}$."
     }
   ],
   "tts_text": "Pelos graficos, a 60 km por hora o carro faz 10 km por metro cubico de GNV e 8 km por litro de gasolina. A viagem de 240 km foi dividida pela metade: 120 km com cada combustivel. O consumo de GNV e 120 dividido por 10, igual a 12 metros cubicos, custando 24 reais. O consumo de gasolina e 120 dividido por 8, igual a 15 litros, custando 45 reais. A diferenca e 21 reais. Portanto, a alternativa correta e a letra D."

@@ -4,23 +4,23 @@
     "letter": "A",
     "value": "o 1, pois apresenta área de seção transversal medindo 67,5 m²"
   },
-  "short_md": "Área de semicircunferência:  \n$A = \\dfrac{\\pi r^2}{2}$, com $\\pi \\approx 3$.  \nProjeto 1:  \n$A_1 = \\dfrac{3\\times 6^2}{2} + \\dfrac{3\\times 3^2}{2} = 54 + 13,5 = 67,5$ m^2.  \nProjeto 2:  \n$A_2 = \\dfrac{3\\times 9^2}{2} = 121,5$ m^2.  \nMenor área: Projeto 1.",
+  "short_md": "Área de semicircunferência:\n\n$$\nA = \\dfrac{\\pi r^2}{2},\\ \\pi \\approx 3\n$$\n\nProjeto $1$:\n\n$$\nA_1 = \\dfrac{3\\times 6^2}{2} + \\dfrac{3\\times 3^2}{2} = 54 + 13,5 = 67,5\\,\\text{m}^2\n$$\n\nProjeto $2$:\n\n$$\nA_2 = \\dfrac{3\\times 9^2}{2} = 121,5\\,\\text{m}^2\n$$\n\nMenor área: Projeto $1$.",
   "steps": [
     {
       "title": "Fórmula e termos",
-      "body_md": "Área de semicircunferência:  \n$A = \\dfrac{\\pi r^2}{2}$"
+      "body_md": "Área de semicircunferência:\n\n$$\nA = \\dfrac{\\pi r^2}{2}\n$$"
     },
     {
       "title": "Projeto 1",
-      "body_md": "Raios: 6 m (automóveis) e 3 m (bicicletas).  \n$A_1 = \\dfrac{3\\times 6^2}{2} + \\dfrac{3\\times 3^2}{2} = 67,5$ m^2"
+      "body_md": "Raios: $6\\,\\text{m}$ (automóveis) e $3\\,\\text{m}$ (bicicletas).\n\n$$\nA_1 = \\dfrac{3\\times 6^2}{2} + \\dfrac{3\\times 3^2}{2} = 67,5\\,\\text{m}^2\n$$"
     },
     {
       "title": "Projeto 2",
-      "body_md": "Raio: 9 m.  \n$A_2 = \\dfrac{3\\times 9^2}{2} = 121,5$ m^2"
+      "body_md": "Raio: $9\\,\\text{m}$.\n\n$$\nA_2 = \\dfrac{3\\times 9^2}{2} = 121,5\\,\\text{m}^2\n$$"
     },
     {
       "title": "Comparar",
-      "body_md": "Como $67,5 < 121,5$, o projeto 1 tem menor área."
+      "body_md": "Como $67,5 < 121,5$, o projeto $1$ tem menor área."
     }
   ],
   "tts_text": "A seção transversal de cada túnel é uma semicircunferência. A área de uma semicircunferência é pi vezes r ao quadrado dividido por dois. No projeto 1, há dois túneis: raio 6 m para automóveis e raio 3 m para bicicletas. As áreas são 54 e 13,5, totalizando 67,5 metros quadrados. No projeto 2, há um único túnel de raio 9 m, com área 121,5 metros quadrados. Como 67,5 é menor, o projeto 1 é o escolhido. Portanto, alternativa A."

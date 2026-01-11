@@ -4,7 +4,7 @@
     "letter": "C",
     "value": "7,5"
   },
-  "short_md": "No segundo tempo (45 min), ele percorreu 4,5 km.  \nVelocidade média:  \n$4,5/45 = 0,1$ km/min.  \nNa prorrogação (30 min):  \n$0,1\\times 30 = 3$ km.  \nTotal:  \n$4,5 + 3 = 7,5$ km.",
+  "short_md": "No segundo tempo ($45\\,\\text{min}$), ele percorreu $4,5\\,\\text{km}$.\nVelocidade média:\n\n$$\n4,5/45 = 0,1\\,\\text{km/min}\n$$\n\nNa prorrogação ($30\\,\\text{min}$):\n\n$$\n0,1\\times 30 = 3\\,\\text{km}\n$$\n\nTotal:\n\n$$\n4,5 + 3 = 7,5\\,\\text{km}\n$$",
   "steps": [
     {
       "title": "Fórmula e termos",
@@ -12,15 +12,15 @@
     },
     {
       "title": "Calcular a velocidade média",
-      "body_md": "No segundo tempo:  \n$4,5/45 = 0,1$ km/min."
+      "body_md": "No segundo tempo:\n\n$$\n4,5/45 = 0,1\\,\\text{km/min}\n$$"
     },
     {
       "title": "Aplicar na prorrogação",
-      "body_md": "Em 30 min:  \n$0,1\\times 30 = 3$ km."
+      "body_md": "Em $30\\,\\text{min}$:\n\n$$\n0,1\\times 30 = 3\\,\\text{km}\n$$"
     },
     {
       "title": "Somar as distâncias",
-      "body_md": "$4,5 + 3 = 7,5$ km."
+      "body_md": "$$\n4,5 + 3 = 7,5\\,\\text{km}\n$$"
     }
   ],
   "tts_text": "No segundo tempo, o jogador percorreu 4,5 quilometros em 45 minutos. Isso corresponde a 0,1 quilometro por minuto. Mantendo essa velocidade na prorrogacao de 30 minutos, ele percorre mais 3 quilometros. Somando, temos 7,5 quilometros. Portanto, a alternativa correta e a letra C."

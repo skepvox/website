@@ -4,23 +4,23 @@
     "letter": "E",
     "value": "D = 30 + tg[1/2(T - 5/2)]"
   },
-  "short_md": "O gr\u00e1fico tem linha m\u00e9dia em $D = 30$, logo $k = 30$.  \nAs ass\u00edntotas est\u00e3o em $T = (5 \\pm 2\\pi)/2$, o que indica argumento $\\frac{1}{2}(T - 5/2)$.  \nAssim,  \n$D = 30 + \\mathrm{tg}\\left[\\frac{1}{2}\\left(T - \\frac{5}{2}\\right)\\right]$.",
+  "short_md": "O gráfico tem linha média em $D = 30$, logo $k = 30$.\nAs assíntotas estão em $T = (5 \\pm 2\\pi)/2$, o que indica argumento $\\frac{1}{2}(T - 5/2)$.\nAssim,\n\n$$\nD = 30 + \\mathrm{tg}\\left[\\frac{1}{2}\\left(T - \\frac{5}{2}\\right)\\right]\n$$",
   "steps": [
     {
-      "title": "F\u00f3rmula e termos",
-      "body_md": "A fun\u00e7\u00e3o tem a forma:  \n$D = k + \\mathrm{tg}[p(T + m)]$  \nonde $k$ \u00e9 o deslocamento vertical, $p$ controla o per\u00edodo e $m$ o deslocamento horizontal." 
+      "title": "Fórmula e termos",
+      "body_md": "A função tem a forma:\n\n$$\nD = k + \\mathrm{tg}[p(T + m)]\n$$\n\nonde $k$ é o deslocamento vertical, $p$ controla o período e $m$ o deslocamento horizontal."
     },
     {
       "title": "Identificar o deslocamento vertical",
-      "body_md": "A linha central do gr\u00e1fico est\u00e1 em $D = 30$, ent\u00e3o $k = 30$."
+      "body_md": "A linha central do gráfico está em $D = 30$, então $k = 30$."
     },
     {
-      "title": "Usar as ass\u00edntotas",
-      "body_md": "As ass\u00edntotas est\u00e3o em $T = (5 \\pm 2\\pi)/2$.  \nIsso corresponde a $p = 1/2$ e $m = -5/2$."
+      "title": "Usar as assíntotas",
+      "body_md": "As assíntotas estão em $T = (5 \\pm 2\\pi)/2$.\nIsso corresponde a $p = 1/2$ e $m = -5/2$."
     },
     {
-      "title": "Escrever a fun\u00e7\u00e3o",
-      "body_md": "$D = 30 + \\mathrm{tg}\\left[\\frac{1}{2}\\left(T - \\frac{5}{2}\\right)\\right]$"
+      "title": "Escrever a função",
+      "body_md": "$$\nD = 30 + \\mathrm{tg}\\left[\\frac{1}{2}\\left(T - \\frac{5}{2}\\right)\\right]\n$$"
     }
   ],
   "tts_text": "O grafico mostra uma funcao tangente deslocada. A linha media esta em D igual a 30, entao k vale 30. As assintotas verticais estao em T igual a (5 menos 2 pi) sobre 2 e (5 mais 2 pi) sobre 2. Isso indica que o argumento da tangente e metade de T menos cinco sobre dois, ou seja, p igual a um meio e m igual a menos cinco sobre dois. Assim, a expressao fica D igual a 30 mais tg de um meio vezes T menos cinco sobre dois. Essa e a alternativa E."

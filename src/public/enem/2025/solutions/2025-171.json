@@ -4,23 +4,23 @@
     "letter": "B",
     "value": "297"
   },
-  "short_md": "Volume da medalha:  \n$V_c = \\pi r^2 h = 3,1\\times 3^2\\times 0,3 = 8,37$ cm^3.  \nO quadrado tem diagonal 6 cm, logo área $= 6^2/2 = 18$ cm^2.  \nVolume do prisma: $18\\times 0,3 = 5,4$ cm^3.  \nOuro por medalha: $8,37 - 5,4 = 2,97$ cm^3.  \nPara 100 medalhas: $2,97\\times 100 = 297$ cm^3.",
+  "short_md": "Volume da medalha:\n\n$$\nV_c = \\pi r^2 h = 3,1\\times 3^2\\times 0,3 = 8,37\\,\\text{cm}^3\n$$\n\nO quadrado tem diagonal $6\\,\\text{cm}$, logo área:\n\n$$\nA = 6^2/2 = 18\\,\\text{cm}^2\n$$\n\nVolume do prisma:\n\n$$\nV_q = 18\\times 0,3 = 5,4\\,\\text{cm}^3\n$$\n\nOuro por medalha:\n\n$$\n8,37 - 5,4 = 2,97\\,\\text{cm}^3\n$$\n\nPara $100$ medalhas:\n\n$$\n2,97\\times 100 = 297\\,\\text{cm}^3\n$$",
   "steps": [
     {
       "title": "Fórmulas e termos",
-      "body_md": "Cilindro: $V = \\pi r^2 h$.  \nQuadrado pela diagonal: $A = d^2/2$."
+      "body_md": "Cilindro: $V = \\pi r^2 h$.\nQuadrado pela diagonal: $A = d^2/2$."
     },
     {
       "title": "Volume do cilindro",
-      "body_md": "Raio 3 cm e altura 0,3 cm:  \n$V_c = 3,1\\times 3^2\\times 0,3 = 8,37$ cm^3."
+      "body_md": "Raio $3\\,\\text{cm}$ e altura $0,3\\,\\text{cm}$:\n\n$$\nV_c = 3,1\\times 3^2\\times 0,3 = 8,37\\,\\text{cm}^3\n$$"
     },
     {
       "title": "Volume do prisma quadrado",
-      "body_md": "Diagonal 6 cm:  \n$A = 6^2/2 = 18$ cm^2.  \n$V_q = 18\\times 0,3 = 5,4$ cm^3."
+      "body_md": "Diagonal $6\\,\\text{cm}$:\n\n$$\nA = 6^2/2 = 18\\,\\text{cm}^2\n$$\n\n$$\nV_q = 18\\times 0,3 = 5,4\\,\\text{cm}^3\n$$"
     },
     {
       "title": "Volume de ouro",
-      "body_md": "Por medalha: $8,37 - 5,4 = 2,97$ cm^3.  \nPara 100 medalhas: $2,97\\times 100 = 297$ cm^3."
+      "body_md": "Por medalha:\n\n$$\n8,37 - 5,4 = 2,97\\,\\text{cm}^3\n$$\n\nPara $100$ medalhas:\n\n$$\n2,97\\times 100 = 297\\,\\text{cm}^3\n$$"
     }
   ],
   "tts_text": "A medalha e um cilindro de raio 3 cm e espessura 0,3 cm. O volume do cilindro e pi vezes r ao quadrado vezes h, usando pi igual a 3,1, o que da 8,37 cm3. O prisma interno tem base quadrada com diagonal 6 cm, portanto a area da base e 6 ao quadrado dividido por 2, que da 18 cm2. Multiplicando pela espessura, o volume do prisma e 5,4 cm3. O volume de ouro por medalha e 8,37 menos 5,4, ou 2,97 cm3. Para 100 medalhas, o volume total e 297 cm3. Portanto, alternativa B."

@@ -1,6 +1,6 @@
 {
   "engines": {
-    "node": "22.x"
+    "node": ">=22"
   },
   "type": "module",
   "scripts": {
@@ -15,6 +15,12 @@
     "publish:enem": "node scripts/publish-enem.js"
   },
   "dependencies": {
+    "@mathjax/mathjax-bbm-font-extension": "^4.1.0",
+    "@mathjax/mathjax-bboldx-font-extension": "^4.1.0",
+    "@mathjax/mathjax-dsfont-font-extension": "^4.1.0",
+    "@mathjax/mathjax-fira-font": "^4.1.0",
+    "@mathjax/mathjax-mhchem-font-extension": "^4.1.0",
+    "@mathjax/src": "^4.1.0",
     "@vercel/analytics": "^1.6.1",
     "@vercel/speed-insights": "^1.3.1",
     "@vue/repl": "^4.4.2",
@@ -22,17 +28,20 @@
     "d3": "^7.9.0",
     "dynamics.js": "^1.1.5",
     "gsap": "^3.12.5",
-    "juice": "^11.0.3",
     "katex": "^0.16.27",
-    "markdown-it-mathjax3": "^4.3.2",
-    "mathjax-full": "^3.2.2",
+    "search-insights": "^2.17.2",
+    "topojson-client": "^3.1.0",
     "vitepress": "^1.6.4",
     "vue": "^3.5.12"
   },
   "devDependencies": {
     "@types/body-scroll-lock": "^3.1.2",
+    "@types/d3": "^7.4.3",
+    "@types/geojson": "^7946.0.16",
     "@types/markdown-it": "^14.1.2",
     "@types/node": "^22.7.5",
+    "@types/topojson-client": "^3.1.1",
+    "markdown-it": "^14.1.0",
     "markdown-it-katex": "^2.0.3",
     "playwright": "^1.57.0",
     "pngjs": "^7.0.0",
@@ -41,6 +50,9 @@
     "vitepress-plugin-llms": "^0.0.8",
     "vue-tsc": "^2.1.6",
     "yaml": "^2.8.2"
+  },
+  "pnpm": {
+    "autoInstallPeers": false
   },
   "packageManager": "pnpm@10.13.1"
 }

@@ -4,7 +4,7 @@
     "letter": "A",
     "value": "gráfico A"
   },
-  "short_md": "O texto afirma que a frequência da luz emitida aumenta com o tempo.  \nFrequência maior significa menor comprimento de onda.  \nLogo, o espectro final deve deslocar-se para a esquerda.  \nIsso ocorre no gráfico A.",
+  "short_md": "O texto afirma que a frequência da luz emitida aumenta com o tempo.\nFrequência maior significa menor comprimento de onda.\nLogo, o espectro final deve deslocar-se para a esquerda.\nIsso ocorre no gráfico A.",
   "steps": [
     {
       "title": "Relacionar frequência e comprimento de onda",

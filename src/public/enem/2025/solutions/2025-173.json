@@ -4,15 +4,15 @@
     "letter": "A",
     "value": "cd/m²"
   },
-  "short_md": "A luminância é a razão entre intensidade luminosa e distância ao quadrado:  \n$L = I/d^2$.  \nLogo, a unidade é cd/m^2.",
+  "short_md": "A luminância é a razão entre intensidade luminosa e distância ao quadrado:\n\n$$\nL = I/d^2\n$$\n\nLogo, a unidade é $\\text{cd}/\\text{m}^2$.",
   "steps": [
     {
       "title": "Fórmula e termos",
-      "body_md": "Luminância:  \n$L = \\dfrac{I}{d^2}$  \nonde $I$ está em cd e $d$ em m."
+      "body_md": "Luminância:\n\n$$\nL = \\dfrac{I}{d^2}\n$$\n\nonde $I$ está em cd e $d$ em m."
     },
     {
       "title": "Identificar a unidade",
-      "body_md": "Dividindo cd por m^2, obtemos a unidade cd/m^2."
+      "body_md": "Dividindo cd por $\\text{m}^2$, obtemos a unidade $\\text{cd}/\\text{m}^2$."
     }
   ],
   "tts_text": "A luminancia e definida como a intensidade luminosa dividida pelo quadrado da distancia. A intensidade esta em candela, e a distancia em metro. Portanto, a unidade e candela por metro ao quadrado. A alternativa correta e a letra A."

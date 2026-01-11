@@ -4,23 +4,23 @@
     "letter": "D",
     "value": "1/24"
   },
-  "short_md": "Há 4! maneiras de distribuir os envelopes entre 4 candidatos e apenas 1 distribuição correta. Logo, $P = 1/4! = 1/24$.",
+  "short_md": "Há $4!$ maneiras de distribuir os envelopes entre $4$ candidatos e apenas $1$ distribuição correta. Logo, $P = 1/4! = 1/24$.",
   "steps": [
     {
       "title": "Fórmula e termos",
-      "body_md": "A probabilidade pode ser escrita como:  \n$$P = N_f / N_t$$  \nonde:  \nN<sub>f</sub> = número de casos favoráveis,  \nN<sub>t</sub> = número de casos possíveis."
+      "body_md": "A probabilidade pode ser escrita como:\n\n$$\nP = N_f / N_t\n$$\n\nonde:\nN<sub>f</sub> = número de casos favoráveis,\nN<sub>t</sub> = número de casos possíveis."
     },
     {
       "title": "Contar os casos possíveis",
-      "body_md": "A devolução aleatória corresponde a uma permutação de 4 envelopes, então:  \n$$N_t = 4! = 24$$"
+      "body_md": "A devolução aleatória corresponde a uma permutação de $4$ envelopes, então:\n\n$$\nN_t = 4! = 24\n$$"
     },
     {
       "title": "Contar os favoráveis",
-      "body_md": "Apenas 1 permutação devolve cada celular ao seu dono, logo:  \n$$N_f = 1$$"
+      "body_md": "Apenas $1$ permutação devolve cada celular ao seu dono, logo:\n\n$$\nN_f = 1\n$$"
     },
     {
       "title": "Calcular a probabilidade",
-      "body_md": "Substituindo na fórmula:  \n$$P = 1/24$$  \ncorrespondente à alternativa D."
+      "body_md": "Substituindo na fórmula:\n\n$$\nP = 1/24\n$$\n\ncorrespondente à alternativa D."
     }
   ],
   "tts_text": "A entrega aleatória dos envelopes equivale a escolher uma permutação dos quatro celulares. Assim, o número total de possibilidades é 4 fatorial, que resulta em 24. Somente uma dessas permutações devolve cada celular ao seu dono, então há 1 caso favorável. Pela definição de probabilidade, dividimos casos favoráveis por casos possíveis, obtendo 1 sobre 24. Portanto, a alternativa correta é a D."

@@ -4,7 +4,7 @@
     "letter": "D",
     "value": "induzir corrente elétrica na parte inferior da panela, aquecendo-a por efeito Joule"
   },
-  "short_md": "O campo magnético variável induz correntes elétricas na base metálica da panela.  \nEssas correntes geram aquecimento por efeito Joule.  \nResposta: alternativa D.",
+  "short_md": "O campo magnético variável induz correntes elétricas na base metálica da panela.\nEssas correntes geram aquecimento por efeito Joule.\nResposta: alternativa D.",
   "steps": [
     {
       "title": "Aplicar indução eletromagnética",

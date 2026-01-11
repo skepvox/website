@@ -4,7 +4,7 @@
     "letter": "E",
     "value": "proporção 1:2:1"
   },
-  "short_md": "Os indivíduos da F1 exibem ambos os traços, indicando heterozigose com expressão conjunta.  \nO cruzamento F1 × F1 produz 1:2:1 (manchas, ambos, faixa).  \nResposta: alternativa E.",
+  "short_md": "Os indivíduos da F1 exibem ambos os traços, indicando heterozigose com expressão conjunta.\nO cruzamento F1 × F1 produz $1$:$2$:$1$ (manchas, ambos, faixa).\nResposta: alternativa E.",
   "steps": [
     {
       "title": "Reconhecer o fenótipo da F1",
@@ -12,11 +12,11 @@
     },
     {
       "title": "Aplicar a proporção",
-      "body_md": "Cruzamento entre heterozigotos gera proporção fenotípica 1:2:1."
+      "body_md": "Cruzamento entre heterozigotos gera proporção fenotípica $1$:$2$:$1$."
     },
     {
       "title": "Selecionar a alternativa",
-      "body_md": "A opção que mostra 1 com manchas, 2 com ambos e 1 com faixa é a E."
+      "body_md": "A opção que mostra $1$ com manchas, $2$ com ambos e $1$ com faixa é a E."
     }
   ],
   "tts_text": "Os indivíduos da primeira geração mostram simultaneamente manchas e faixa, o que indica heterozigose com expressão conjunta dos alelos. Ao cruzar dois heterozigotos, a distribuição fenotípica é 1 para manchas, 2 para ambos os traços e 1 para faixa. A alternativa que representa essa proporção é a E."

@@ -4,15 +4,15 @@
     "letter": "D",
     "value": "4"
   },
-  "short_md": "O protótipo é a união de um prisma hexagonal com um tronco de pirâmide hexagonal. A base comum fica interna. Restam 1 base hexagonal do prisma, 6 faces retangulares do prisma, 1 base hexagonal menor do tronco e 6 faces trapezoidais do tronco. São 4 tipos de faces congruentes, logo 4 cores.",
+  "short_md": "O protótipo é a união de um prisma hexagonal com um tronco de pirâmide hexagonal. A base comum fica interna. Restam $1$ base hexagonal do prisma, $6$ faces retangulares do prisma, $1$ base hexagonal menor do tronco e $6$ faces trapezoidais do tronco. São $4$ tipos de faces congruentes, logo $4$ cores.",
   "steps": [
     {
       "title": "Identificar as faces do prisma",
-      "body_md": "O prisma hexagonal regular possui 2 bases hexagonais congruentes e 6 faces laterais retangulares congruentes."
+      "body_md": "O prisma hexagonal regular possui $2$ bases hexagonais congruentes e $6$ faces laterais retangulares congruentes."
     },
     {
       "title": "Identificar as faces do tronco",
-      "body_md": "O tronco de pirâmide hexagonal possui 2 bases hexagonais (maior e menor, não congruentes) e 6 faces laterais trapezoidais congruentes."
+      "body_md": "O tronco de pirâmide hexagonal possui $2$ bases hexagonais (maior e menor, não congruentes) e $6$ faces laterais trapezoidais congruentes."
     },
     {
       "title": "Desconsiderar a base colada",
@@ -20,7 +20,7 @@
     },
     {
       "title": "Contar os tipos de faces",
-      "body_md": "Faces expostas: 1 base hexagonal do prisma, 6 retângulos do prisma, 1 base hexagonal menor do tronco e 6 trapézios do tronco. São 4 tipos distintos, logo 4 cores (alternativa D)."
+      "body_md": "Faces expostas: $1$ base hexagonal do prisma, $6$ retângulos do prisma, $1$ base hexagonal menor do tronco e $6$ trapézios do tronco. São $4$ tipos distintos, logo $4$ cores (alternativa D)."
     }
   ],
   "tts_text": "O sólido é formado por um prisma hexagonal regular e um tronco de pirâmide hexagonal. O prisma tem duas bases hexagonais congruentes e seis faces laterais retangulares congruentes. O tronco tem duas bases hexagonais de tamanhos diferentes e seis faces laterais trapezoidais congruentes. Como a base maior do tronco é colada a uma base do prisma, essa face fica interna e não é pintada. Assim, ficam expostas quatro classes de faces: uma base hexagonal do prisma, as seis faces retangulares do prisma, a base hexagonal menor do tronco e as seis faces trapezoidais do tronco. Cada classe recebe uma cor, totalizando quatro cores. Portanto, a alternativa correta é a D."

@@ -4,7 +4,7 @@
     "letter": null,
     "value": "Questão anulada"
   },
-  "short_md": "Para 1 pessoa: 100 dB.  \nCom 10 000 pessoas:  \n$\\Delta n = 10\\log(10^4) = 40$ dB.  \nLogo, $n = 100 + 40 = 140$ dB.  \nQuestão anulada no gabarito oficial.",
+  "short_md": "Para $1$ pessoa: $100$ dB.\nCom $10 000$ pessoas:\n$\\Delta n = 10\\log(10^4) = 40$ dB.\nLogo, $n = 100 + 40 = 140$ dB.\nQuestão anulada no gabarito oficial.",
   "steps": [
     {
       "title": "Somar intensidades",

@@ -4,7 +4,7 @@
     "letter": "B",
     "value": "2"
   },
-  "short_md": "O campo elétrico aponta para cima e o elétron é negativo.  \nA força é oposta ao campo, portanto para baixo.  \nO feixe atinge a parte inferior da tela, ponto 2.  \nResposta: alternativa B.",
+  "short_md": "O campo elétrico aponta para cima e o elétron é negativo.\nA força é oposta ao campo, portanto para baixo.\nO feixe atinge a parte inferior da tela, ponto $2$.\nResposta: alternativa B.",
   "steps": [
     {
       "title": "Definir a direção da força",

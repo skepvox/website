@@ -4,7 +4,7 @@
     "letter": "D",
     "value": "aumentando a pressão parcial de Cl2"
   },
-  "short_md": "No equilíbrio: TiO2 + 2 Cl2 <-> TiCl4 + O2 (endotérmica).  \nAumentar a concentração de reagente Cl2 desloca o equilíbrio para os produtos.  \nResposta: alternativa D.",
+  "short_md": "No equilíbrio: TiO2 + $2$ Cl2 <-> TiCl4 + O2 (endotérmica).\nAumentar a concentração de reagente Cl2 desloca o equilíbrio para os produtos.\nResposta: alternativa D.",
   "steps": [
     {
       "title": "Aplicar Le Chatelier",

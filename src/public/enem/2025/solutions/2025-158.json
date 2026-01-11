@@ -4,19 +4,19 @@
     "letter": "E",
     "value": "1 : 150"
   },
-  "short_md": "A medida no desenho é 20 cm e na obra final é 30 m = 3000 cm.  \nFator de escala:  \n$3000/20 = 150$.  \nLogo, a escala é $1:150$.",
+  "short_md": "A medida no desenho é $20\\,\\text{cm}$ e na obra final é $30\\,\\text{m} = 3000\\,\\text{cm}$.\nFator de escala:\n\n$$\n3000/20 = 150\n$$\n\nLogo, a escala é $1:150$.",
   "steps": [
     {
       "title": "Fórmula e termos",
-      "body_md": "Escala:  \n$E = \\dfrac{d_{desenho}}{d_{real}}$  \nonde $d_{desenho}$ é a medida no desenho e $d_{real}$ é a medida real."
+      "body_md": "Escala:\n\n$$\nE = \\dfrac{d_{desenho}}{d_{real}}\n$$\n\nonde $d_{desenho}$ é a medida no desenho e $d_{real}$ é a medida real."
     },
     {
       "title": "Converter unidades",
-      "body_md": "30 m = 3000 cm, para comparar com 20 cm do desenho."
+      "body_md": "$30\\,\\text{m}$ = $3000\\,\\text{cm}$, para comparar com $20\\,\\text{cm}$ do desenho."
     },
     {
       "title": "Calcular a escala",
-      "body_md": "$\\dfrac{20}{3000} = \\dfrac{1}{150}$, ou seja, escala $1:150$."
+      "body_md": "$$\n\\dfrac{20}{3000} = \\dfrac{1}{150}\n$$\n\nou seja, escala $1:150$."
     }
   ],
   "tts_text": "A medida indicada no desenho e 20 centimetros, e a medida real correspondente e 30 metros. Convertendo 30 metros para centimetros, obtemos 3000 centimetros. A escala e a razao entre o desenho e o real: 20 dividido por 3000, que simplifica para 1 dividido por 150. Portanto, a escala e 1 para 150, alternativa E."
