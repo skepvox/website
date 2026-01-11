@@ -4,7 +4,7 @@ description: 'Linha do tempo e fontes públicas sobre Sergio Fernando Moro, sena
 demos:
   id: person--sergio-fernando-moro
   type: person
-  mapLabel: sergio-moro
+  mapLabel: moro
   portrait: sergio-fernando-moro.png
   seed: no
   seed-id: person--luiz-inacio-lula-da-silva
@@ -27,6 +27,7 @@ demos:
     - politica
     - legislativo
 ---
+
 # Sergio Fernando Moro
 
 ::: info Nota editorial (Skepvox)

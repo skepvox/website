@@ -1,10 +1,10 @@
 ---
-title: "José Antonio Dias Toffoli"
-description: "Linha do tempo e fontes públicas sobre José Antonio Dias Toffoli, ministro do STF."
+title: 'José Antonio Dias Toffoli'
+description: 'Linha do tempo e fontes públicas sobre José Antonio Dias Toffoli, ministro do STF.'
 demos:
   id: person--jose-antonio-dias-toffoli
   type: person
-  mapLabel: dias-toffoli
+  mapLabel: toffoli
   portrait: jose-antonio-dias-toffoli.png
   seed: yes
   seed-id: person--jose-antonio-dias-toffoli
@@ -29,6 +29,7 @@ demos:
     - role--presidente-do-stf
     - role--presidente-do-tse
 ---
+
 # José Antonio Dias Toffoli
 
 ::: info Nota editorial (Skepvox)

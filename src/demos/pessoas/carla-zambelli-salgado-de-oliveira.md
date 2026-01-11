@@ -1,10 +1,10 @@
 ---
-title: "Carla Zambelli Salgado de Oliveira"
-description: "Linha do tempo e fontes públicas sobre Carla Zambelli Salgado de Oliveira, política brasileira e ex-deputada federal por SP."
+title: 'Carla Zambelli Salgado de Oliveira'
+description: 'Linha do tempo e fontes públicas sobre Carla Zambelli Salgado de Oliveira, política brasileira e ex-deputada federal por SP.'
 demos:
   id: person--carla-zambelli-salgado-de-oliveira
   type: person
-  mapLabel: carla-zambelli
+  mapLabel: zambelli
   portrait: carla-zambelli-salgado-de-oliveira.png
   seed: no
   seed-id: person--jose-antonio-dias-toffoli
@@ -30,6 +30,7 @@ demos:
   primaryRoles:
     - role--deputada-federal
 ---
+
 # Carla Zambelli Salgado de Oliveira
 
 ::: info Nota editorial (Skepvox)
@@ -181,8 +182,8 @@ _Última atualização: 2026-01-09. ID Skepvox: `person--carla-zambelli-salgado-
 
 ## Casos relacionados
 
-- Caso citado nas fontes (sem página ainda no Skepvox): invasão aos sistemas do CNJ (STF, 1ª Turma; 2024–2025) — a detalhar com processos/decisões integrais.
-- Caso citado nas fontes (sem página ainda no Skepvox): perseguição armada e porte ilegal de arma (São Paulo; 2022; STF 2025) — a detalhar com processos/decisões integrais.
+- [Invasão aos sistemas do CNJ](/demos/casos/invasao-sistemas-cnj)
+- [Perseguição armada em São Paulo (2022)](/demos/casos/perseguicao-armada-sp-2022)
 
 ## Pessoas relacionadas
 

@@ -4,7 +4,7 @@ description: 'Linha do tempo e fontes públicas sobre Jair Messias Bolsonaro.'
 demos:
   id: person--jair-messias-bolsonaro
   type: person
-  mapLabel: jair-bolsonaro
+  mapLabel: bolsonaro
   portrait: jair-messias-bolsonaro.png
   seed: no
   seed-id: person--adelio-bispo-de-oliveira
@@ -138,6 +138,7 @@ _Última atualização: 2026-01-10. ID Skepvox: `person--jair-messias-bolsonaro`
 ## Casos relacionados
 
 - [Atentado contra Jair Bolsonaro](/demos/casos/atentado-contra-jair-bolsonaro)
+- [8 de Janeiro de 2023 (Ataques em Brasília)](/demos/casos/8-de-janeiro-2023)
 
 ## Fontes
 

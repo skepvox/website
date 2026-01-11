@@ -339,6 +339,10 @@ function isYamlYes(value) {
 }
 
 function buildGraph({ notes, urlToId }) {
+  const allowedDirectPersonEdgeKinds = new Set(['family'])
+
+  const isPersonId = (id) => typeof id === 'string' && id.startsWith('person--')
+
   const nodes = notes
     .map((note) => ({
       id: note.demos.id,
@@ -371,6 +375,10 @@ function buildGraph({ notes, urlToId }) {
       const targetUrl = normalizeInternalHref(href)
       const target = targetUrl ? urlToId.get(targetUrl) : null
       if (!target || target === source) return
+
+      const isPersonToPerson = isPersonId(source) && isPersonId(target)
+      if (isPersonToPerson && !allowedDirectPersonEdgeKinds.has(kind)) return
+      if (kind === 'family' && !isPersonToPerson) return
 
       const current = ensureEdge({ target, kind })
       current.count += 1
@@ -411,28 +419,6 @@ function buildGraph({ notes, urlToId }) {
         kind: 'related',
         sectionTitle: relTitles.organizations ?? 'Organizações relacionadas'
       })
-    }
-
-    if (Array.isArray(note.outboundLinksBySection)) {
-      for (const entry of note.outboundLinksBySection) {
-        const sectionTitle = typeof entry?.section === 'string' ? entry.section : null
-        const links = Array.isArray(entry?.links) ? entry.links : []
-        for (const link of links) {
-          addEdge({
-            href: link?.href,
-            kind: 'link',
-            sectionTitle
-          })
-        }
-      }
-    } else {
-      for (const link of note.outboundLinks ?? []) {
-        addEdge({
-          href: link.href,
-          kind: 'link',
-          sectionTitle: null
-        })
-      }
     }
   }
 

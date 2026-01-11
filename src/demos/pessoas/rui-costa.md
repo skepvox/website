@@ -1,6 +1,6 @@
 ---
-title: "Rui Costa"
-description: "Linha do tempo e fontes públicas sobre Rui Costa."
+title: 'Rui Costa'
+description: 'Linha do tempo e fontes públicas sobre Rui Costa.'
 demos:
   id: person--rui-costa
   type: person
@@ -23,6 +23,7 @@ demos:
     - bahia
     - banco-master
 ---
+
 # Rui Costa
 
 ::: info Nota editorial (Skepvox)
@@ -37,7 +38,7 @@ _Última atualização: 2026-01-10. ID Skepvox: `person--rui-costa`._
 
 ## Situação atual
 
-- Cargo: ministro da Casa Civil (segundo biografia enciclopédica e reportagem). Fontes: [Wikipédia](https://pt.wikipedia.org/wiki/Rui_Costa_(pol%C3%ADtico)), [InfoMoney](https://www.infomoney.com.br/politica/rui-costa-afirma-que-competencia-de-liquidar-master-e-do-banco-central/).
+- Cargo: ministro da Casa Civil (segundo biografia enciclopédica e reportagem). Fontes: [Wikipédia](<https://pt.wikipedia.org/wiki/Rui_Costa_(pol%C3%ADtico)>), [InfoMoney](https://www.infomoney.com.br/politica/rui-costa-afirma-que-competencia-de-liquidar-master-e-do-banco-central/).
 
 ## Por que está no mapa
 
@@ -58,18 +59,18 @@ _Última atualização: 2026-01-10. ID Skepvox: `person--rui-costa`._
 
 ## Identidade (básico)
 
-- Nome: Rui Costa (político). Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Rui_Costa_(pol%C3%ADtico)).
+- Nome: Rui Costa (político). Fonte: [Wikipédia](<https://pt.wikipedia.org/wiki/Rui_Costa_(pol%C3%ADtico)>).
 
 ## Linha do tempo
 
 ### 1963–2014 — Trajetória (alto nível, enciclopédico)
 
-- 1963 — Nascimento (alto nível). Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Rui_Costa_(pol%C3%ADtico)).
-- 2015–2022 — Governador da Bahia (alto nível, enciclopédico). Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Rui_Costa_(pol%C3%ADtico)).
+- 1963 — Nascimento (alto nível). Status: `reported`. Fonte: [Wikipédia](<https://pt.wikipedia.org/wiki/Rui_Costa_(pol%C3%ADtico)>).
+- 2015–2022 — Governador da Bahia (alto nível, enciclopédico). Status: `reported`. Fonte: [Wikipédia](<https://pt.wikipedia.org/wiki/Rui_Costa_(pol%C3%ADtico)>).
 
 ### 2023– — Governo federal (alto nível, enciclopédico)
 
-- 2023– — Ministro da Casa Civil (alto nível, enciclopédico). Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Rui_Costa_(pol%C3%ADtico)).
+- 2023– — Ministro da Casa Civil (alto nível, enciclopédico). Status: `reported`. Fonte: [Wikipédia](<https://pt.wikipedia.org/wiki/Rui_Costa_(pol%C3%ADtico)>).
 
 ### 2026 — Declarações sobre o Caso [Master](/demos/organizacoes/banco-master) (segundo reportagem)
 

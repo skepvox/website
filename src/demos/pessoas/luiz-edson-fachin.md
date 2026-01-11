@@ -4,7 +4,7 @@ description: 'Linha do tempo e fontes públicas sobre Luiz Edson Fachin, ministr
 demos:
   id: person--luiz-edson-fachin
   type: person
-  mapLabel: edson-fachin
+  mapLabel: fachin
   portrait: luiz-edson-fachin.png
   seed: no
   seed-id: person--luiz-inacio-lula-da-silva

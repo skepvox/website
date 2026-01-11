@@ -20,7 +20,7 @@ type GraphNode = {
 type GraphEdge = {
   source: string
   target: string
-  kind: 'related' | 'family' | 'link' | string
+  kind: 'related' | 'family' | string
   count?: number
   sections?: Record<string, number>
 }
@@ -41,7 +41,7 @@ const graph = ref<GraphData | null>(null)
 const loading = ref(true)
 const error = ref<string | null>(null)
 
-const edgeKindFilter = ref<'all' | 'related' | 'family' | 'link'>('related')
+const edgeKindFilter = ref<'related' | 'family'>('related')
 const query = ref('')
 const showPeople = ref(true)
 const showOrganizations = ref(true)
@@ -69,11 +69,9 @@ const filteredGraph = computed(() => {
   const nodeIds = new Set(nodes.map((node) => node.id))
 
   const edgesByKind =
-    edgeKindFilter.value === 'all'
-      ? data.edges
-      : edgeKindFilter.value === 'related'
-        ? data.edges.filter((edge) => edge.kind === 'related' || edge.kind === 'family')
-        : data.edges.filter((edge) => edge.kind === edgeKindFilter.value)
+    edgeKindFilter.value === 'family'
+      ? data.edges.filter((edge) => edge.kind === 'family')
+      : data.edges.filter((edge) => edge.kind === 'related' || edge.kind === 'family')
 
   const edges = edgesByKind.filter((edge) => nodeIds.has(edge.source) && nodeIds.has(edge.target))
 
@@ -134,7 +132,7 @@ const selectedNeighborEdgesById = computed<Record<string, NeighborEdgeInfo>>(() 
   }
 
   const kindRank = (kind: string) =>
-    kind === 'family' ? 0 : kind === 'related' ? 1 : kind === 'link' ? 2 : 3
+    kind === 'family' ? 0 : kind === 'related' ? 1 : 2
 
   const sortEdges = (edges: GraphEdge[]) =>
     edges.sort((a, b) => {
@@ -156,6 +154,7 @@ let stopRenderWatch: (() => void) | null = null
 let stopQueryWatch: (() => void) | null = null
 let stopLabelsWatch: (() => void) | null = null
 let stopSelectionWatch: (() => void) | null = null
+let stopFilterWatch: (() => void) | null = null
 
 function colorForType(type: string) {
   if (type === 'person') return '#3b82f6'
@@ -186,7 +185,6 @@ function labelForNode(node: GraphNode) {
 function edgeKindLabel(kind: string) {
   if (kind === 'family') return 'Família'
   if (kind === 'related') return 'Relações'
-  if (kind === 'link') return 'Links'
   return kind
 }
 
@@ -217,6 +215,21 @@ function formatEdgeReason(edge: GraphEdge) {
 
 function clearSelection() {
   selectedNodeId.value = null
+}
+
+function applyVisibilityDefaultsForEdgeFilter(kind: 'related' | 'family') {
+  if (kind === 'family') {
+    showPeople.value = true
+    showOrganizations.value = false
+    showCases.value = false
+    showLabels.value = true
+    return
+  }
+
+  showPeople.value = true
+  showOrganizations.value = true
+  showCases.value = true
+  showLabels.value = true
 }
 
 async function loadSelectedNote() {
@@ -319,7 +332,6 @@ function render() {
   const colorForEdgeKind = (kind: string) => {
     if (kind === 'related') return '#64748b'
     if (kind === 'family') return '#e11d48'
-    if (kind === 'link') return '#a855f7'
     return '#a855f7'
   }
   const edgeColor = d3
@@ -341,13 +353,14 @@ function render() {
     .attr('orient', 'auto')
     .append('path')
     .attr('fill', (d) => edgeColor(d))
+    .attr('opacity', (d) => (d === 'family' ? 0.6 : 0.2))
     .attr('d', 'M0,-3L10,0L0,3')
 
   const linkForce = d3
     .forceLink(links as any)
     .id((d: any) => d.id)
-    .distance((d: any) => (d.kind === 'link' ? 110 : 70))
-    .strength((d: any) => (d.kind === 'link' ? 0.25 : 0.9))
+    .distance(70)
+    .strength(0.9)
 
   const simulation = d3
     .forceSimulation(nodes as any)
@@ -370,8 +383,7 @@ function render() {
     const r = Math.max(10, Math.hypot(dx, dy))
 
     const directionFlag = source.id < target.id ? 1 : 0
-    const kindFlag = d.kind === 'link' ? 0 : 1
-    const sweep = directionFlag ^ kindFlag
+    const sweep = directionFlag ^ 1
 
     return `M${source.x},${source.y}A${r},${r} 0 0,${sweep} ${target.x},${target.y}`
   }
@@ -383,7 +395,7 @@ function render() {
     .data(links as any)
     .join('path')
     .attr('stroke', (d: any) => edgeColor(d.kind))
-    .attr('stroke-opacity', (d: any) => (d.kind === 'link' ? 0.38 : d.kind === 'family' ? 0.78 : 0.6))
+    .attr('stroke-opacity', (d: any) => (d.kind === 'family' ? 0.6 : 0.2))
     .attr('stroke-width', (d: any) => {
       const base = d.kind === 'family' ? 1.35 : d.kind === 'related' ? 1.15 : 0.9
       const boost = Math.min(2, Math.log2(Math.max(1, d.count)))
@@ -476,17 +488,44 @@ function render() {
       }) as any
   )
 
-  const neighborIndex = new Set<string>()
+  const neighborsById = new Map<string, Set<string>>()
+  const addNeighbor = (from: string, to: string) => {
+    let entry = neighborsById.get(from)
+    if (!entry) {
+      entry = new Set<string>()
+      neighborsById.set(from, entry)
+    }
+    entry.add(to)
+  }
+
   for (const l of links as any[]) {
     const sourceId = typeof l.source === 'string' ? l.source : l.source?.id
     const targetId = typeof l.target === 'string' ? l.target : l.target?.id
     if (!sourceId || !targetId) continue
-    neighborIndex.add(`${sourceId}::${targetId}`)
-    neighborIndex.add(`${targetId}::${sourceId}`)
+    addNeighbor(sourceId, targetId)
+    addNeighbor(targetId, sourceId)
   }
 
   const isNeighbor = (a: GraphNode, b: GraphNode) =>
-    a.id === b.id || neighborIndex.has(`${a.id}::${b.id}`)
+    a.id === b.id || neighborsById.get(a.id)?.has(b.id) === true
+
+  const computeHopSets = (focusId: string) => {
+    const hop1 = new Set(neighborsById.get(focusId) ?? [])
+    const hop2 = new Set<string>()
+
+    for (const neighborId of hop1) {
+      const neighbors = neighborsById.get(neighborId)
+      if (!neighbors) continue
+
+      for (const secondHopId of neighbors) {
+        if (secondHopId === focusId) continue
+        if (hop1.has(secondHopId)) continue
+        hop2.add(secondHopId)
+      }
+    }
+
+    return { hop1, hop2 }
+  }
 
   const applyLabelsVisibility = () => {
     const display = showLabels.value ? null : 'none'
@@ -521,6 +560,36 @@ function render() {
     )
   }
 
+  const applyHoverFocusStyles = (focus: GraphNode) => {
+    const { hop1, hop2 } = computeHopSets(focus.id)
+    const visible = new Set<string>([focus.id, ...hop1, ...hop2])
+
+    node.attr('opacity', (d: any) => {
+      if (d.id === focus.id) return 1
+      if (hop1.has(d.id)) return 1
+      if (hop2.has(d.id)) return 0.32
+      return 0
+    })
+
+    link.attr('opacity', (d: any) => {
+      const sourceId = typeof d.source === 'string' ? d.source : d.source.id
+      const targetId = typeof d.target === 'string' ? d.target : d.target.id
+
+      if (!visible.has(sourceId) || !visible.has(targetId)) return 0
+      if (sourceId === focus.id || targetId === focus.id) return 1
+
+      const sourceHop1 = hop1.has(sourceId)
+      const targetHop1 = hop1.has(targetId)
+      const sourceHop2 = hop2.has(sourceId)
+      const targetHop2 = hop2.has(targetId)
+
+      if ((sourceHop1 && targetHop2) || (sourceHop2 && targetHop1)) return 0.62
+      if (sourceHop1 && targetHop1) return 0.42
+      if (sourceHop2 && targetHop2) return 0.22
+      return 0
+    })
+  }
+
   const applyDefaultStyles = () => {
     const selected = selectedNodeId.value ? nodeById.get(selectedNodeId.value) : null
     if (selected) applyFocusStyles(selected)
@@ -529,7 +598,7 @@ function render() {
   }
 
   node
-    .on('mouseenter', (_event, d: any) => applyFocusStyles(d))
+    .on('mouseenter', (_event, d: any) => applyHoverFocusStyles(d))
     .on('mouseleave', () => applyDefaultStyles())
 
   simulation.on('tick', () => {
@@ -584,6 +653,14 @@ onMounted(async () => {
     immediate: true
   })
 
+  stopFilterWatch = watch(
+    edgeKindFilter,
+    (value) => {
+      applyVisibilityDefaultsForEdgeFilter(value)
+    },
+    { immediate: true }
+  )
+
   stopQueryWatch = watch([query], () => applyDefaultStyles?.())
   stopLabelsWatch = watch([showLabels], () => applyLabelsVisibility?.())
   stopSelectionWatch = watch([selectedNodeId], () => applyDefaultStyles?.())
@@ -596,6 +673,8 @@ onMounted(async () => {
   onBeforeUnmount(() => {
     stopRenderWatch?.()
     stopRenderWatch = null
+    stopFilterWatch?.()
+    stopFilterWatch = null
     stopQueryWatch?.()
     stopQueryWatch = null
     stopLabelsWatch?.()
@@ -629,41 +708,49 @@ watch(
 <template>
   <div class="demos-map">
     <div class="demos-map__controls">
-      <label class="demos-map__field">
-        <span>Filtro</span>
-        <select v-model="edgeKindFilter">
-          <option value="related">Relações (curadas)</option>
-          <option value="family">Família</option>
-          <option value="link">Links (todos)</option>
-          <option value="all">Tudo</option>
-        </select>
-      </label>
-
       <label class="demos-map__field demos-map__field--grow">
         <span>Buscar</span>
         <input v-model="query" type="search" placeholder="Nome ou ID" />
       </label>
 
-      <div class="demos-map__toggles">
-        <label class="demos-map__toggle">
-          <input v-model="showPeople" type="checkbox" />
-          <span>Pessoas</span>
-        </label>
+      <div class="demos-map__field">
+        <span>Filtro</span>
+        <div class="demos-map__radio-group" role="radiogroup" aria-label="Filtro">
+          <label class="demos-map__radio">
+            <input v-model="edgeKindFilter" type="radio" name="demos-map-filter" value="related" />
+            <span>Relações</span>
+          </label>
 
-        <label class="demos-map__toggle">
-          <input v-model="showOrganizations" type="checkbox" />
-          <span>Organizações</span>
-        </label>
+          <label class="demos-map__radio">
+            <input v-model="edgeKindFilter" type="radio" name="demos-map-filter" value="family" />
+            <span>Família</span>
+          </label>
+        </div>
+      </div>
 
-        <label class="demos-map__toggle">
-          <input v-model="showCases" type="checkbox" />
-          <span>Casos</span>
-        </label>
+      <div class="demos-map__field demos-map__field--toggles">
+        <span>Exibir</span>
+        <div class="demos-map__toggles">
+          <label class="demos-map__toggle">
+            <input v-model="showPeople" type="checkbox" />
+            <span>Pessoas</span>
+          </label>
 
-        <label class="demos-map__toggle">
-          <input v-model="showLabels" type="checkbox" />
-          <span>Rótulos</span>
-        </label>
+          <label class="demos-map__toggle">
+            <input v-model="showOrganizations" type="checkbox" />
+            <span>Organizações</span>
+          </label>
+
+          <label class="demos-map__toggle">
+            <input v-model="showCases" type="checkbox" />
+            <span>Casos</span>
+          </label>
+
+          <label class="demos-map__toggle">
+            <input v-model="showLabels" type="checkbox" />
+            <span>Rótulos</span>
+          </label>
+        </div>
       </div>
     </div>
 
@@ -775,15 +862,11 @@ watch(
       <span class="demos-map__legend-sep" aria-hidden="true"></span>
       <span class="demos-map__legend-item">
         <span class="demos-map__edge" style="--edge-color: #64748b"></span>
-        Relações (curadas)
+        Relações
       </span>
       <span class="demos-map__legend-item">
         <span class="demos-map__edge" style="--edge-color: #e11d48"></span>
         Família
-      </span>
-      <span class="demos-map__legend-item">
-        <span class="demos-map__edge" style="--edge-color: #a855f7"></span>
-        Links (todos)
       </span>
     </div>
   </div>
@@ -813,9 +896,33 @@ watch(
   min-width: 180px;
 }
 
+.demos-map__radio-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+}
+
+.demos-map__radio {
+  display: inline-flex;
+  gap: 8px;
+  align-items: center;
+  font-size: 14px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.demos-map__radio input {
+  accent-color: var(--vp-c-brand-1);
+}
+
 .demos-map__field--grow {
   flex: 1;
   min-width: 240px;
+}
+
+.demos-map__field--toggles {
+  min-width: 260px;
 }
 
 .demos-map__field > span {

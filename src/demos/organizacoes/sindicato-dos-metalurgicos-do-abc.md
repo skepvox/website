@@ -4,7 +4,7 @@ description: 'Resumo factual e fontes públicas sobre o Sindicato dos Metalúrgi
 demos:
   id: org--sindicato-dos-metalurgicos-do-abc
   type: org
-  mapLabel: sindicato-metalurgicos
+  mapLabel: sindicato
   seed: no
   seed-id: person--luiz-inacio-lula-da-silva
   target-questions:
@@ -22,6 +22,7 @@ demos:
     - sindicato
     - brasil
 ---
+
 # Sindicato dos Metalúrgicos do ABC
 
 _Última atualização: 2026-01-09. ID Skepvox: `org--sindicato-dos-metalurgicos-do-abc`._

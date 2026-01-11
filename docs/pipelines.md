@@ -10,6 +10,7 @@ The `/demos/mapa` page consumes prebuilt graph data generated from the Markdown 
 
 - Generate: `pnpm demos:data` (or `node scripts/demos-notes-data.js export`)
 - Output: `src/public/demos-data/graph.json` and `src/public/demos-data/notes.jsonl`
+- Note: the exporter is conservative: it only emits `person ↔ person` edges for `family`, and does not emit “mentions/link” edges.
 
 ### Demos portraits (stipple SVGs)
 

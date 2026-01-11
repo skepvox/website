@@ -4,7 +4,7 @@ description: 'Linha do tempo e fontes públicas sobre Alexandre de Moraes, minis
 demos:
   id: person--alexandre-de-moraes
   type: person
-  mapLabel: alexandre-de-moraes
+  mapLabel: alexandre
   portrait: alexandre-de-moraes.png
   seed: no
   seed-id: case--8-de-janeiro-2023
@@ -24,6 +24,7 @@ demos:
     - 8-jan
     - banco-master
 ---
+
 # Alexandre de Moraes
 
 ::: info Nota editorial (Skepvox)

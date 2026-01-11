@@ -3,7 +3,7 @@
   "schemaVersion": 1,
   "source": {
     "path": "src/demos/pessoas/luiz-fux.md",
-    "sha256": "4f620f4a7c99ccbaff6d433985692313fa693bb267ff31236a3aef10035e3723"
+    "sha256": "3efa010a63040c7022214e81442cf40b1da88e2a4870c129be7f79f8f3d1375e"
   },
   "id": "person--luiz-fux",
   "type": "person",
@@ -66,7 +66,7 @@
     }
   },
   "frontmatterYaml": "title: 'Luiz Fux'\ndescription: 'Linha do tempo e fontes públicas sobre Luiz Fux, ministro do STF.'\ndemos:\n  id: person--luiz-fux\n  type: person\n  mapLabel: fux\n  portrait: luiz-fux.png\n  seed: no\n  seed-id: person--jair-messias-bolsonaro\n  target-questions:\n    - q--person--jair-messias-bolsonaro--002\n  country: BR\n  identifiers:\n    wikidata: Q3624733\n    wikipedia: https://pt.wikipedia.org/wiki/Luiz_Fux\n  aliases:\n    - Luiz Fux\n    - Luís Fux\n  tags:\n    - judiciario\n    - stf\n    - cautelares",
-  "bodyMarkdown": "# Luiz Fux\n\n::: info Nota editorial (Skepvox)\nEsta página entra no mapa por divergência pública registrada em julgamento sobre medidas cautelares\nimpostas a [Jair Bolsonaro](/demos/pessoas/jair-messias-bolsonaro), conforme reportagem. O objetivo é registrar fatos com fonte e manter\nas hipóteses como perguntas.\n:::\n\n_Última atualização: 2026-01-10. ID Skepvox: `person--luiz-fux`._\n\n<DemosPortraitSvg />\n\n## Situação atual\n\n- Cargo: ministro do STF, segundo biografia enciclopédica. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Luiz_Fux).\n- Evento de interesse (reportagem): em 2025-07-22, Fux foi o único voto contra medidas cautelares impostas a [Jair Bolsonaro](/demos/pessoas/jair-messias-bolsonaro); a Primeira Turma manteve as restrições por 4 a 1, segundo reportagem. Fonte: [G1](https://g1.globo.com/jornal-nacional/noticia/2025/07/22/fux-vota-contra-cautelares-de-moraes-a-bolsonaro-mas-stf-mantem-restricoes.ghtml).\n\n## Por que está no mapa\n\n- Conexão de origem: rede de [Jair Messias Bolsonaro](/demos/pessoas/jair-messias-bolsonaro) (derivada do caso do atentado e desdobramentos).\n- Perguntas-alvo (rastreamento): `q--person--jair-messias-bolsonaro--002`.\n- Evidência mínima: há registro público (em reportagem) de divergência no STF sobre proporcionalidade e fundamentos de medidas cautelares, com descrição das restrições e da razão apresentada por Fux. Fonte: [G1](https://g1.globo.com/jornal-nacional/noticia/2025/07/22/fux-vota-contra-cautelares-de-moraes-a-bolsonaro-mas-stf-mantem-restricoes.ghtml).\n- Fontes‑alvo (próximos passos): votos/decisões integrais e acórdãos; manifestações da PGR/PF citadas; documentação que permita auditar requisitos legais e prova contemporânea apontada.\n\n## Perguntas abertas (hipóteses)\n\n- `q--person--luiz-fux--001`\n  - Pergunta: quais fundamentos e evidências foram citados nos votos (incluindo o de Fux) e como eles se comparam (proporcionalidade, contemporaneidade, individualização)?\n  - Estado: `aberta`.\n  - Hipótese: a divergência é auditável pela leitura dos votos e permite reduzir “guerra de narrativas” sobre o caso.\n  - Contra-hipótese: há lacunas públicas (sigilo, peças não publicizadas), dificultando auditoria externa do conjunto completo de evidências.\n  - Próximos passos: localizar votos/decisões integrais; extrair trechos objetivos; cruzar com eventos públicos subsequentes.\n  - Notas que avançam: nenhuma ainda.\n\n## Identidade (básico)\n\n- Nome: Luiz Fux. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Luiz_Fux).\n\n## Linha do tempo\n\n### 1953–2010 — Formação e carreira (alto nível, enciclopédico)\n\n- 1953 — Nascimento (alto nível). Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Luiz_Fux).\n\n### 2011– — STF (alto nível, enciclopédico)\n\n- 2011– — Ministro do STF (alto nível). Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Luiz_Fux).\n\n### 2025 — Divergência sobre cautelares (segundo reportagem)\n\n- 2025-07-22 — Reportagem descreve voto divergente de Fux contra cautelares e lista as restrições mantidas pela Primeira Turma (tratar como fonte secundária até consultar voto/decisão integral). Status: `reported`. Fonte: [G1](https://g1.globo.com/jornal-nacional/noticia/2025/07/22/fux-vota-contra-cautelares-de-moraes-a-bolsonaro-mas-stf-mantem-restricoes.ghtml).\n\n## Eventos\n\n### 2025\n\n- 2025-07-22 — Reportagem descreve divergência sobre cautelares impostas a Bolsonaro. Status: `reported`. Fonte: [G1](https://g1.globo.com/jornal-nacional/noticia/2025/07/22/fux-vota-contra-cautelares-de-moraes-a-bolsonaro-mas-stf-mantem-restricoes.ghtml).\n\n## Pessoas relacionadas\n\n- [Jair Messias Bolsonaro](/demos/pessoas/jair-messias-bolsonaro).\n- [Alexandre de Moraes](/demos/pessoas/alexandre-de-moraes) — citado na matéria como autor das cautelares. Fonte: [G1](https://g1.globo.com/jornal-nacional/noticia/2025/07/22/fux-vota-contra-cautelares-de-moraes-a-bolsonaro-mas-stf-mantem-restricoes.ghtml).\n- [Flávio Dino](/demos/pessoas/flavio-dino) — citado na matéria como integrante da Turma. Fonte: [G1](https://g1.globo.com/jornal-nacional/noticia/2025/07/22/fux-vota-contra-cautelares-de-moraes-a-bolsonaro-mas-stf-mantem-restricoes.ghtml).\n\n## Fontes\n\n- Wikipédia — “Luiz Fux” (acesso em 2026-01-10): https://pt.wikipedia.org/wiki/Luiz_Fux\n- Wikidata — “Luiz Fux” (Q3624733) (acesso em 2026-01-10): https://www.wikidata.org/wiki/Q3624733\n- G1 — “Fux é o único a votar contra medidas cautelares impostas a [Jair Bolsonaro](/demos/pessoas/jair-messias-bolsonaro)” (acesso em 2026-01-10): https://g1.globo.com/jornal-nacional/noticia/2025/07/22/fux-vota-contra-cautelares-de-moraes-a-bolsonaro-mas-stf-mantem-restricoes.ghtml\n",
+  "bodyMarkdown": "# Luiz Fux\n\n::: info Nota editorial (Skepvox)\nEsta página entra no mapa por divergência pública registrada em julgamento sobre medidas cautelares\nimpostas a [Jair Bolsonaro](/demos/pessoas/jair-messias-bolsonaro), conforme reportagem. O objetivo é registrar fatos com fonte e manter\nas hipóteses como perguntas.\n:::\n\n_Última atualização: 2026-01-10. ID Skepvox: `person--luiz-fux`._\n\n<DemosPortraitSvg />\n\n## Situação atual\n\n- Cargo: ministro do STF, segundo biografia enciclopédica. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Luiz_Fux).\n- Evento de interesse (reportagem): em 2025-07-22, Fux foi o único voto contra medidas cautelares impostas a [Jair Bolsonaro](/demos/pessoas/jair-messias-bolsonaro); a Primeira Turma manteve as restrições por 4 a 1, segundo reportagem. Fonte: [G1](https://g1.globo.com/jornal-nacional/noticia/2025/07/22/fux-vota-contra-cautelares-de-moraes-a-bolsonaro-mas-stf-mantem-restricoes.ghtml).\n\n## Por que está no mapa\n\n- Conexão de origem: rede de [Jair Messias Bolsonaro](/demos/pessoas/jair-messias-bolsonaro) (derivada do caso do atentado e desdobramentos).\n- Perguntas-alvo (rastreamento): `q--person--jair-messias-bolsonaro--002`.\n- Evidência mínima: há registro público (em reportagem) de divergência no STF sobre proporcionalidade e fundamentos de medidas cautelares, com descrição das restrições e da razão apresentada por Fux. Fonte: [G1](https://g1.globo.com/jornal-nacional/noticia/2025/07/22/fux-vota-contra-cautelares-de-moraes-a-bolsonaro-mas-stf-mantem-restricoes.ghtml).\n- Fontes‑alvo (próximos passos): votos/decisões integrais e acórdãos; manifestações da PGR/PF citadas; documentação que permita auditar requisitos legais e prova contemporânea apontada.\n\n## Perguntas abertas (hipóteses)\n\n- `q--person--luiz-fux--001`\n  - Pergunta: quais fundamentos e evidências foram citados nos votos (incluindo o de Fux) e como eles se comparam (proporcionalidade, contemporaneidade, individualização)?\n  - Estado: `aberta`.\n  - Hipótese: a divergência é auditável pela leitura dos votos e permite reduzir “guerra de narrativas” sobre o caso.\n  - Contra-hipótese: há lacunas públicas (sigilo, peças não publicizadas), dificultando auditoria externa do conjunto completo de evidências.\n  - Próximos passos: localizar votos/decisões integrais; extrair trechos objetivos; cruzar com eventos públicos subsequentes.\n  - Notas que avançam: nenhuma ainda.\n\n## Identidade (básico)\n\n- Nome: Luiz Fux. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Luiz_Fux).\n\n## Linha do tempo\n\n### 1953–2010 — Formação e carreira (alto nível, enciclopédico)\n\n- 1953 — Nascimento (alto nível). Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Luiz_Fux).\n\n### 2011– — STF (alto nível, enciclopédico)\n\n- 2011– — Ministro do STF (alto nível). Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Luiz_Fux).\n\n### 2025 — Divergência sobre cautelares (segundo reportagem)\n\n- 2025-07-22 — Reportagem descreve voto divergente de Fux contra cautelares e lista as restrições mantidas pela Primeira Turma (tratar como fonte secundária até consultar voto/decisão integral). Status: `reported`. Fonte: [G1](https://g1.globo.com/jornal-nacional/noticia/2025/07/22/fux-vota-contra-cautelares-de-moraes-a-bolsonaro-mas-stf-mantem-restricoes.ghtml).\n\n## Eventos\n\n### 2025\n\n- 2025-07-22 — Reportagem descreve divergência sobre cautelares impostas a Bolsonaro. Status: `reported`. Fonte: [G1](https://g1.globo.com/jornal-nacional/noticia/2025/07/22/fux-vota-contra-cautelares-de-moraes-a-bolsonaro-mas-stf-mantem-restricoes.ghtml).\n\n## Casos relacionados\n\n- [8 de Janeiro de 2023 (Ataques em Brasília)](/demos/casos/8-de-janeiro-2023) — ver seção “2025–2026” (cautelares/custódia) no caso.\n\n## Pessoas relacionadas\n\n- [Jair Messias Bolsonaro](/demos/pessoas/jair-messias-bolsonaro).\n- [Alexandre de Moraes](/demos/pessoas/alexandre-de-moraes) — citado na matéria como autor das cautelares. Fonte: [G1](https://g1.globo.com/jornal-nacional/noticia/2025/07/22/fux-vota-contra-cautelares-de-moraes-a-bolsonaro-mas-stf-mantem-restricoes.ghtml).\n- [Flávio Dino](/demos/pessoas/flavio-dino) — citado na matéria como integrante da Turma. Fonte: [G1](https://g1.globo.com/jornal-nacional/noticia/2025/07/22/fux-vota-contra-cautelares-de-moraes-a-bolsonaro-mas-stf-mantem-restricoes.ghtml).\n\n## Fontes\n\n- Wikipédia — “Luiz Fux” (acesso em 2026-01-10): https://pt.wikipedia.org/wiki/Luiz_Fux\n- Wikidata — “Luiz Fux” (Q3624733) (acesso em 2026-01-10): https://www.wikidata.org/wiki/Q3624733\n- G1 — “Fux é o único a votar contra medidas cautelares impostas a [Jair Bolsonaro](/demos/pessoas/jair-messias-bolsonaro)” (acesso em 2026-01-10): https://g1.globo.com/jornal-nacional/noticia/2025/07/22/fux-vota-contra-cautelares-de-moraes-a-bolsonaro-mas-stf-mantem-restricoes.ghtml\n",
   "outboundLinks": [
     {
       "text": "Jair Bolsonaro",
@@ -79,6 +79,10 @@
     {
       "text": "Jair Messias Bolsonaro",
       "href": "/demos/pessoas/jair-messias-bolsonaro"
+    },
+    {
+      "text": "8 de Janeiro de 2023 (Ataques em Brasília)",
+      "href": "/demos/casos/8-de-janeiro-2023"
     },
     {
       "text": "Jair Messias Bolsonaro",
@@ -126,6 +130,15 @@
       ]
     },
     {
+      "section": "Casos relacionados",
+      "links": [
+        {
+          "text": "8 de Janeiro de 2023 (Ataques em Brasília)",
+          "href": "/demos/casos/8-de-janeiro-2023"
+        }
+      ]
+    },
+    {
       "section": "Pessoas relacionadas",
       "links": [
         {
@@ -153,7 +166,12 @@
     }
   ],
   "relations": {
-    "cases": [],
+    "cases": [
+      {
+        "text": "8 de Janeiro de 2023 (Ataques em Brasília)",
+        "href": "/demos/casos/8-de-janeiro-2023"
+      }
+    ],
     "family": [],
     "people": [
       {
@@ -172,7 +190,7 @@
     "organizations": []
   },
   "relationSectionTitles": {
-    "cases": null,
+    "cases": "Casos relacionados",
     "family": null,
     "people": "Pessoas relacionadas",
     "organizations": null

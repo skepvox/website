@@ -13,3 +13,5 @@ description: "Casos e processos públicos referenciados pelo Skepvox (rota `/dem
 - [Atentado contra Jair Bolsonaro](/demos/casos/atentado-contra-jair-bolsonaro)
 - [8 de Janeiro de 2023 (Ataques em Brasília)](/demos/casos/8-de-janeiro-2023)
 - [Caso Banco Master](/demos/casos/caso-banco-master)
+- [Invasão aos sistemas do CNJ](/demos/casos/invasao-sistemas-cnj)
+- [Perseguição armada em São Paulo (2022)](/demos/casos/perseguicao-armada-sp-2022)

@@ -1,10 +1,10 @@
 ---
-title: "Paulo Gonet Branco"
-description: "Linha do tempo e fontes públicas sobre Paulo Gonet Branco."
+title: 'Paulo Gonet Branco'
+description: 'Linha do tempo e fontes públicas sobre Paulo Gonet Branco.'
 demos:
   id: person--paulo-gonet-branco
   type: person
-  mapLabel: paulo-gonet
+  mapLabel: gonet
   portrait: paulo-gonet-branco.png
   seed: no
   seed-id: case--caso-banco-master
@@ -23,6 +23,7 @@ demos:
     - pgr
     - banco-master
 ---
+
 # Paulo Gonet Branco
 
 ::: info Nota editorial (Skepvox)

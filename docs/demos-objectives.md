@@ -174,6 +174,12 @@ Relações sempre têm:
 - **intervalo temporal** (quando aplicável),
 - **fonte(s)**.
 
+Regra atual do mapa (conservadora):
+
+- Conexões diretas **Pessoa ↔ Pessoa** no grafo (`/demos/mapa`) são exibidas apenas para **família**.
+- Vínculos institucionais entre pessoas (ex.: indicação/nomeação) devem, por enquanto, entrar como eventos na linha do tempo (com fonte) e/ou como conexão via Organização/Caso; no futuro podem virar arestas diretas tipadas (ex.: `appointed-by`).
+- O grafo usa apenas seções de relações curadas; links/menções no texto servem para navegação, mas não viram arestas automaticamente.
+
 ---
 
 ## 4) Convenção de IDs (estáveis e “machine-friendly”)

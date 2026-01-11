@@ -177,7 +177,7 @@ _Última atualização: 2026-01-09. ID Skepvox: `person--walter-delgatti-neto`._
 ## Casos relacionados
 
 - [Operação Spoofing](/demos/casos/operacao-spoofing)
-- Caso citado nas fontes (sem página ainda no Skepvox): invasão aos sistemas do CNJ (STF, 1ª Turma; 2024–2025) — a detalhar com processos/decisões integrais.
+- [Invasão aos sistemas do CNJ](/demos/casos/invasao-sistemas-cnj)
 
 ## Pessoas relacionadas
 

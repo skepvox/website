@@ -3,7 +3,7 @@
   "schemaVersion": 1,
   "source": {
     "path": "src/demos/pessoas/paulo-gonet-branco.md",
-    "sha256": "60e1e645a995892a35cd78c79b98f838b5bbe9ff4f190d847dede8e41da4827b"
+    "sha256": "0d9be039d1065fd037feaff757c1b8ae4c5f0768edd7d3d84a30c8fe54b61a92"
   },
   "id": "person--paulo-gonet-branco",
   "type": "person",
@@ -14,7 +14,7 @@
   "demos": {
     "id": "person--paulo-gonet-branco",
     "type": "person",
-    "mapLabel": "paulo-gonet",
+    "mapLabel": "gonet",
     "portrait": "paulo-gonet-branco.png",
     "seed": "no",
     "seed-id": "case--caso-banco-master",
@@ -43,7 +43,7 @@
     "demos": {
       "id": "person--paulo-gonet-branco",
       "type": "person",
-      "mapLabel": "paulo-gonet",
+      "mapLabel": "gonet",
       "portrait": "paulo-gonet-branco.png",
       "seed": "no",
       "seed-id": "case--caso-banco-master",
@@ -67,7 +67,7 @@
       ]
     }
   },
-  "frontmatterYaml": "title: \"Paulo Gonet Branco\"\ndescription: \"Linha do tempo e fontes públicas sobre Paulo Gonet Branco.\"\ndemos:\n  id: person--paulo-gonet-branco\n  type: person\n  mapLabel: paulo-gonet\n  portrait: paulo-gonet-branco.png\n  seed: no\n  seed-id: case--caso-banco-master\n  target-questions:\n    - q--case--caso-banco-master--003\n  country: BR\n  identifiers:\n    wikidata: Q30931461\n    wikipedia: https://pt.wikipedia.org/wiki/Paulo_Gonet_Branco\n  aliases:\n    - Paulo Gonet\n    - Paulo Gonet Branco\n  tags:\n    - justica\n    - mpf\n    - pgr\n    - banco-master",
+  "frontmatterYaml": "title: 'Paulo Gonet Branco'\ndescription: 'Linha do tempo e fontes públicas sobre Paulo Gonet Branco.'\ndemos:\n  id: person--paulo-gonet-branco\n  type: person\n  mapLabel: gonet\n  portrait: paulo-gonet-branco.png\n  seed: no\n  seed-id: case--caso-banco-master\n  target-questions:\n    - q--case--caso-banco-master--003\n  country: BR\n  identifiers:\n    wikidata: Q30931461\n    wikipedia: https://pt.wikipedia.org/wiki/Paulo_Gonet_Branco\n  aliases:\n    - Paulo Gonet\n    - Paulo Gonet Branco\n  tags:\n    - justica\n    - mpf\n    - pgr\n    - banco-master",
   "bodyMarkdown": "# Paulo Gonet Branco\n\n::: info Nota editorial (Skepvox)\nEsta página entra no mapa por ato noticiado de arquivamento (PGR) relacionado ao Caso [Banco Master](/demos/organizacoes/banco-master).\nO objetivo é registrar cronologia e fontes, sem inferir motivação além do que está documentado/publicado.\n:::\n\n_Última atualização: 2026-01-10. ID Skepvox: `person--paulo-gonet-branco`._\n\n<DemosPortraitSvg />\n\n## Situação atual\n\n- Cargo: procurador-geral da República (PGR), segundo biografia enciclopédica e reportagem. Fontes: [Wikipédia](https://pt.wikipedia.org/wiki/Paulo_Gonet_Branco), [Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2025-12/pgr-descarta-ilicitude-e-arquiva-pedido-para-investigar-moraes).\n- Ato noticiado no caso [Master](/demos/organizacoes/banco-master): segundo a Agência Brasil, Gonet decidiu arquivar pedido de investigação relacionado a [Alexandre de Moraes](/demos/pessoas/alexandre-de-moraes) e [Viviane Barci de Moraes](/demos/pessoas/viviane-barci-de-moraes), citando ausência de lastro probatório mínimo e ilicitude não vislumbrada a priori (despacho publicado em 27/12/2025, segundo a matéria). Fonte: [Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2025-12/pgr-descarta-ilicitude-e-arquiva-pedido-para-investigar-moraes).\n\n## Por que está no mapa\n\n- Conexão de origem: caso [Caso Banco Master](/demos/casos/caso-banco-master) (semente).\n- Perguntas-alvo (rastreamento): `q--case--caso-banco-master--003`.\n- Evidência mínima: decisão de arquivamento descrita em fonte pública, com trechos do argumento (“ausência de lastro probatório mínimo”), tem relevância institucional para o caso por afetar o status de uma linha de apuração noticiada. Fonte: [Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2025-12/pgr-descarta-ilicitude-e-arquiva-pedido-para-investigar-moraes).\n- Fontes‑alvo (próximos passos): despacho integral (se público), peças da representação mencionada, e eventual documentação adicional que sustente ou refute as alegações arquivadas.\n\n## Perguntas abertas (hipóteses)\n\n- `q--person--paulo-gonet-branco--001`\n  - Pergunta: a íntegra do despacho de arquivamento (e anexos) é acessível publicamente e permite auditar fundamentos, escopo e evidências avaliadas?\n  - Estado: `aberta`.\n  - Hipótese: a documentação pública disponível é suficiente para auditar os fundamentos e a abrangência do arquivamento (o que foi analisado e o que não foi).\n  - Contra-hipótese: a documentação pública é insuficiente (ou não acessível), e o debate permanece baseado em fontes secundárias e interpretações.\n  - Próximos passos: localizar despacho integral e anexos; mapear peças citadas pela matéria (representação, notícias, eventuais documentos); checar publicização em sistemas oficiais.\n  - Notas que avançam: nenhuma ainda.\n\n## Identidade (básico)\n\n- Nome: Paulo Gonet Branco. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Paulo_Gonet_Branco).\n\n## Linha do tempo\n\n### 1963–2023 — Formação e carreira (alto nível, enciclopédico)\n\n- 1963 — Nascimento (alto nível). Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Paulo_Gonet_Branco).\n\n### 2023– — PGR (alto nível, enciclopédico)\n\n- 2023– — Procurador-geral da República, segundo biografia enciclopédica. Status: `reported`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Paulo_Gonet_Branco).\n\n### 2025 — Caso [Master](/demos/organizacoes/banco-master) (segundo reportagem)\n\n- 2025-12-27 — Despacho de arquivamento é publicado (segundo a Agência Brasil), no contexto de pedido para investigar [Alexandre de Moraes](/demos/pessoas/alexandre-de-moraes) e [Viviane Barci de Moraes](/demos/pessoas/viviane-barci-de-moraes) no caso [Master](/demos/organizacoes/banco-master). Status: `reported`. Fonte: [Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2025-12/pgr-descarta-ilicitude-e-arquiva-pedido-para-investigar-moraes).\n\n## Eventos\n\n### 2025\n\n- 2025-12-27 — Arquivamento de pedido de investigação relacionado ao caso [Master](/demos/organizacoes/banco-master) (segundo a Agência Brasil). Status: `reported`. Fonte: [Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2025-12/pgr-descarta-ilicitude-e-arquiva-pedido-para-investigar-moraes).\n\n## Casos relacionados\n\n- [Caso Banco Master](/demos/casos/caso-banco-master)\n\n## Fontes\n\n- Wikipédia — “Paulo Gonet” (acesso em 2026-01-10): https://pt.wikipedia.org/wiki/Paulo_Gonet_Branco\n- Wikidata — “Paulo Gonet” (Q30931461) (acesso em 2026-01-10): https://www.wikidata.org/wiki/Q30931461\n- Agência Brasil — “PGR descarta ilicitude e arquiva pedido para investigar Moraes” (acesso em 2026-01-10): https://agenciabrasil.ebc.com.br/justica/noticia/2025-12/pgr-descarta-ilicitude-e-arquiva-pedido-para-investigar-moraes\n",
   "outboundLinks": [
     {

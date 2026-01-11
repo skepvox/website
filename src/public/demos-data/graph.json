@@ -1,8 +1,8 @@
 {
   "schema": "skepvox--demos-graph",
   "schemaVersion": 3,
-  "nodeCount": 34,
-  "edgeCount": 238,
+  "nodeCount": 36,
+  "edgeCount": 88,
   "nodes": [
     {
       "id": "case--8-de-janeiro-2023",
@@ -58,6 +58,25 @@
       "primaryRoles": []
     },
     {
+      "id": "case--invasao-sistemas-cnj",
+      "type": "case",
+      "url": "/demos/casos/invasao-sistemas-cnj",
+      "dataUrl": "/demos-data/notes/case--invasao-sistemas-cnj.json",
+      "title": "Invasão aos sistemas do CNJ",
+      "description": "Linha do tempo e fontes públicas sobre a invasão aos sistemas do CNJ e seus desdobramentos no STF.",
+      "mapLabel": "cnj-invasao",
+      "seed": false,
+      "seedId": "person--jose-antonio-dias-toffoli",
+      "tags": [
+        "justica",
+        "investigacao",
+        "hacking",
+        "cnj",
+        "stf"
+      ],
+      "primaryRoles": []
+    },
+    {
       "id": "case--operacao-lava-jato",
       "type": "case",
       "url": "/demos/casos/operacao-lava-jato",
@@ -90,6 +109,24 @@
         "hacking",
         "telegram",
         "lava-jato"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "case--perseguicao-armada-sp-2022",
+      "type": "case",
+      "url": "/demos/casos/perseguicao-armada-sp-2022",
+      "dataUrl": "/demos-data/notes/case--perseguicao-armada-sp-2022.json",
+      "title": "Perseguição armada em São Paulo (2022)",
+      "description": "Linha do tempo e fontes públicas sobre o episódio de perseguição armada em São Paulo (2022) atribuído a Carla Zambelli e seus desdobramentos no STF.",
+      "mapLabel": "zambelli-arma",
+      "seed": false,
+      "seedId": "person--jose-antonio-dias-toffoli",
+      "tags": [
+        "justica",
+        "stf",
+        "violencia-politica",
+        "armas"
       ],
       "primaryRoles": []
     },
@@ -199,7 +236,7 @@
       "dataUrl": "/demos-data/notes/org--sindicato-dos-metalurgicos-do-abc.json",
       "title": "Sindicato dos Metalúrgicos do ABC",
       "description": "Resumo factual e fontes públicas sobre o Sindicato dos Metalúrgicos de São Bernardo do Campo e Diadema (ABC paulista).",
-      "mapLabel": "sindicato-metalurgicos",
+      "mapLabel": "sindicato",
       "seed": false,
       "seedId": "person--luiz-inacio-lula-da-silva",
       "tags": [
@@ -231,7 +268,7 @@
       "dataUrl": "/demos-data/notes/person--alexandre-de-moraes.json",
       "title": "Alexandre de Moraes",
       "description": "Linha do tempo e fontes públicas sobre Alexandre de Moraes, ministro do STF.",
-      "mapLabel": "alexandre-de-moraes",
+      "mapLabel": "alexandre",
       "seed": false,
       "seedId": "case--8-de-janeiro-2023",
       "tags": [
@@ -250,7 +287,7 @@
       "dataUrl": "/demos-data/notes/person--andrei-augusto-passos-rodrigues.json",
       "title": "Andrei Augusto Passos Rodrigues",
       "description": "Linha do tempo e fontes públicas sobre Andrei Augusto Passos Rodrigues, diretor-geral da Polícia Federal (PF).",
-      "mapLabel": "andrei-rodrigues",
+      "mapLabel": "andrei",
       "seed": false,
       "seedId": "person--jair-messias-bolsonaro",
       "tags": [
@@ -267,7 +304,7 @@
       "dataUrl": "/demos-data/notes/person--carla-zambelli-salgado-de-oliveira.json",
       "title": "Carla Zambelli Salgado de Oliveira",
       "description": "Linha do tempo e fontes públicas sobre Carla Zambelli Salgado de Oliveira, política brasileira e ex-deputada federal por SP.",
-      "mapLabel": "carla-zambelli",
+      "mapLabel": "zambelli",
       "seed": false,
       "seedId": "person--jose-antonio-dias-toffoli",
       "tags": [
@@ -358,7 +395,7 @@
       "dataUrl": "/demos-data/notes/person--jair-messias-bolsonaro.json",
       "title": "Jair Messias Bolsonaro",
       "description": "Linha do tempo e fontes públicas sobre Jair Messias Bolsonaro.",
-      "mapLabel": "jair-bolsonaro",
+      "mapLabel": "bolsonaro",
       "seed": false,
       "seedId": "person--adelio-bispo-de-oliveira",
       "tags": [
@@ -397,7 +434,7 @@
       "dataUrl": "/demos-data/notes/person--jose-antonio-dias-toffoli.json",
       "title": "José Antonio Dias Toffoli",
       "description": "Linha do tempo e fontes públicas sobre José Antonio Dias Toffoli, ministro do STF.",
-      "mapLabel": "dias-toffoli",
+      "mapLabel": "toffoli",
       "seed": true,
       "seedId": "person--jose-antonio-dias-toffoli",
       "tags": [
@@ -420,7 +457,7 @@
       "dataUrl": "/demos-data/notes/person--luiz-edson-fachin.json",
       "title": "Luiz Edson Fachin",
       "description": "Linha do tempo e fontes públicas sobre Luiz Edson Fachin, ministro e presidente do STF.",
-      "mapLabel": "edson-fachin",
+      "mapLabel": "fachin",
       "seed": false,
       "seedId": "person--luiz-inacio-lula-da-silva",
       "tags": [
@@ -476,7 +513,7 @@
       "dataUrl": "/demos-data/notes/person--paulo-gonet-branco.json",
       "title": "Paulo Gonet Branco",
       "description": "Linha do tempo e fontes públicas sobre Paulo Gonet Branco.",
-      "mapLabel": "paulo-gonet",
+      "mapLabel": "gonet",
       "seed": false,
       "seedId": "case--caso-banco-master",
       "tags": [
@@ -550,7 +587,7 @@
       "dataUrl": "/demos-data/notes/person--sergio-fernando-moro.json",
       "title": "Sergio Fernando Moro",
       "description": "Linha do tempo e fontes públicas sobre Sergio Fernando Moro, senador pelo Paraná e ex-juiz federal.",
-      "mapLabel": "sergio-moro",
+      "mapLabel": "moro",
       "seed": false,
       "seedId": "person--luiz-inacio-lula-da-silva",
       "tags": [
@@ -568,7 +605,7 @@
       "dataUrl": "/demos-data/notes/person--viviane-barci-de-moraes.json",
       "title": "Viviane Barci de Moraes",
       "description": "Linha do tempo e fontes públicas sobre Viviane Barci de Moraes.",
-      "mapLabel": "viviane-de-moraes",
+      "mapLabel": "viviane",
       "seed": false,
       "seedId": "case--caso-banco-master",
       "tags": [
@@ -624,29 +661,9 @@
     {
       "source": "case--8-de-janeiro-2023",
       "target": "person--alexandre-de-moraes",
-      "kind": "link",
-      "count": 3,
-      "sections": {
-        "Perguntas abertas (hipóteses)": 2,
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "case--8-de-janeiro-2023",
-      "target": "person--alexandre-de-moraes",
       "kind": "related",
       "count": 1,
       "sections": {
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "case--8-de-janeiro-2023",
-      "target": "person--flavio-dino",
-      "kind": "link",
-      "count": 3,
-      "sections": {
-        "Perguntas abertas (hipóteses)": 2,
         "Pessoas relacionadas": 1
       }
     },
@@ -662,15 +679,6 @@
     {
       "source": "case--8-de-janeiro-2023",
       "target": "person--jair-messias-bolsonaro",
-      "kind": "link",
-      "count": 1,
-      "sections": {
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "case--8-de-janeiro-2023",
-      "target": "person--jair-messias-bolsonaro",
       "kind": "related",
       "count": 1,
       "sections": {
@@ -678,14 +686,12 @@
       }
     },
     {
-      "source": "case--atentado-contra-jair-bolsonaro",
-      "target": "person--adelio-bispo-de-oliveira",
-      "kind": "link",
-      "count": 7,
+      "source": "case--8-de-janeiro-2023",
+      "target": "person--luiz-fux",
+      "kind": "related",
+      "count": 1,
       "sections": {
-        "Por que está no mapa": 1,
-        "Pessoas relacionadas": 1,
-        "Fontes": 5
+        "Pessoas relacionadas": 1
       }
     },
     {
@@ -700,32 +706,9 @@
     {
       "source": "case--atentado-contra-jair-bolsonaro",
       "target": "person--jair-messias-bolsonaro",
-      "kind": "link",
-      "count": 6,
-      "sections": {
-        "Intro": 1,
-        "Perguntas abertas (hipóteses)": 1,
-        "Resumo": 1,
-        "Pessoas relacionadas": 1,
-        "Fontes": 2
-      }
-    },
-    {
-      "source": "case--atentado-contra-jair-bolsonaro",
-      "target": "person--jair-messias-bolsonaro",
       "kind": "related",
       "count": 1,
       "sections": {
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "case--atentado-contra-jair-bolsonaro",
-      "target": "person--rodrigo-morais-fernandes",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Perguntas abertas (hipóteses)": 1,
         "Pessoas relacionadas": 1
       }
     },
@@ -741,37 +724,10 @@
     {
       "source": "case--atentado-contra-jair-bolsonaro",
       "target": "person--zanone-manoel-de-oliveira-junior",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Perguntas abertas (hipóteses)": 1,
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "case--atentado-contra-jair-bolsonaro",
-      "target": "person--zanone-manoel-de-oliveira-junior",
       "kind": "related",
       "count": 1,
       "sections": {
         "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "case--caso-banco-master",
-      "target": "org--banco-master",
-      "kind": "link",
-      "count": 35,
-      "sections": {
-        "Intro": 1,
-        "Situação atual": 1,
-        "Perguntas abertas (hipóteses)": 2,
-        "Resumo": 5,
-        "Linha do tempo": 6,
-        "Eventos": 6,
-        "Pessoas relacionadas": 3,
-        "Organizações relacionadas": 1,
-        "Fontes": 10
       }
     },
     {
@@ -785,28 +741,6 @@
     },
     {
       "source": "case--caso-banco-master",
-      "target": "org--partido-dos-trabalhadores-pt",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Pessoas relacionadas": 2
-      }
-    },
-    {
-      "source": "case--caso-banco-master",
-      "target": "person--alexandre-de-moraes",
-      "kind": "link",
-      "count": 5,
-      "sections": {
-        "Perguntas abertas (hipóteses)": 1,
-        "Resumo": 1,
-        "Linha do tempo": 1,
-        "Eventos": 1,
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "case--caso-banco-master",
       "target": "person--alexandre-de-moraes",
       "kind": "related",
       "count": 1,
@@ -817,34 +751,9 @@
     {
       "source": "case--caso-banco-master",
       "target": "person--daniel-vorcaro",
-      "kind": "link",
-      "count": 9,
-      "sections": {
-        "Situação atual": 1,
-        "Perguntas abertas (hipóteses)": 2,
-        "Resumo": 1,
-        "Linha do tempo": 1,
-        "Eventos": 1,
-        "Pessoas relacionadas": 1,
-        "Fontes": 2
-      }
-    },
-    {
-      "source": "case--caso-banco-master",
-      "target": "person--daniel-vorcaro",
       "kind": "related",
       "count": 1,
       "sections": {
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "case--caso-banco-master",
-      "target": "person--guido-mantega",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Perguntas abertas (hipóteses)": 1,
         "Pessoas relacionadas": 1
       }
     },
@@ -860,16 +769,6 @@
     {
       "source": "case--caso-banco-master",
       "target": "person--henrique-meirelles",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Perguntas abertas (hipóteses)": 1,
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "case--caso-banco-master",
-      "target": "person--henrique-meirelles",
       "kind": "related",
       "count": 1,
       "sections": {
@@ -879,38 +778,9 @@
     {
       "source": "case--caso-banco-master",
       "target": "person--jaques-wagner",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Perguntas abertas (hipóteses)": 1,
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "case--caso-banco-master",
-      "target": "person--jaques-wagner",
       "kind": "related",
       "count": 1,
       "sections": {
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "case--caso-banco-master",
-      "target": "person--luiz-inacio-lula-da-silva",
-      "kind": "link",
-      "count": 1,
-      "sections": {
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "case--caso-banco-master",
-      "target": "person--paulo-gonet-branco",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Perguntas abertas (hipóteses)": 1,
         "Pessoas relacionadas": 1
       }
     },
@@ -926,33 +796,10 @@
     {
       "source": "case--caso-banco-master",
       "target": "person--ricardo-lewandowski",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Perguntas abertas (hipóteses)": 1,
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "case--caso-banco-master",
-      "target": "person--ricardo-lewandowski",
       "kind": "related",
       "count": 1,
       "sections": {
         "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "case--caso-banco-master",
-      "target": "person--rui-costa",
-      "kind": "link",
-      "count": 5,
-      "sections": {
-        "Perguntas abertas (hipóteses)": 1,
-        "Resumo": 1,
-        "Linha do tempo": 1,
-        "Pessoas relacionadas": 1,
-        "Fontes": 1
       }
     },
     {
@@ -967,19 +814,33 @@
     {
       "source": "case--caso-banco-master",
       "target": "person--viviane-barci-de-moraes",
-      "kind": "link",
-      "count": 5,
+      "kind": "related",
+      "count": 1,
       "sections": {
-        "Perguntas abertas (hipóteses)": 1,
-        "Resumo": 1,
-        "Linha do tempo": 1,
-        "Eventos": 1,
         "Pessoas relacionadas": 1
       }
     },
     {
-      "source": "case--caso-banco-master",
-      "target": "person--viviane-barci-de-moraes",
+      "source": "case--invasao-sistemas-cnj",
+      "target": "person--alexandre-de-moraes",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--invasao-sistemas-cnj",
+      "target": "person--carla-zambelli-salgado-de-oliveira",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--invasao-sistemas-cnj",
+      "target": "person--walter-delgatti-neto",
       "kind": "related",
       "count": 1,
       "sections": {
@@ -989,30 +850,9 @@
     {
       "source": "case--operacao-lava-jato",
       "target": "case--operacao-spoofing",
-      "kind": "link",
-      "count": 5,
-      "sections": {
-        "Casos associados": 1,
-        "Linha do tempo": 2,
-        "Eventos": 2
-      }
-    },
-    {
-      "source": "case--operacao-lava-jato",
-      "target": "case--operacao-spoofing",
       "kind": "related",
       "count": 1,
       "sections": {
-        "Casos associados": 1
-      }
-    },
-    {
-      "source": "case--operacao-lava-jato",
-      "target": "case--sede-do-instituto-lula",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Perguntas abertas (hipóteses)": 1,
         "Casos associados": 1
       }
     },
@@ -1028,31 +868,10 @@
     {
       "source": "case--operacao-lava-jato",
       "target": "case--sitio-de-atibaia",
-      "kind": "link",
-      "count": 3,
-      "sections": {
-        "Perguntas abertas (hipóteses)": 1,
-        "Casos associados": 1,
-        "Linha do tempo": 1
-      }
-    },
-    {
-      "source": "case--operacao-lava-jato",
-      "target": "case--sitio-de-atibaia",
       "kind": "related",
       "count": 1,
       "sections": {
         "Casos associados": 1
-      }
-    },
-    {
-      "source": "case--operacao-lava-jato",
-      "target": "case--triplex-do-guaruja",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Casos associados": 1,
-        "Linha do tempo": 1
       }
     },
     {
@@ -1067,30 +886,9 @@
     {
       "source": "case--operacao-lava-jato",
       "target": "person--jose-antonio-dias-toffoli",
-      "kind": "link",
-      "count": 3,
-      "sections": {
-        "Linha do tempo": 1,
-        "Pessoas relacionadas": 1,
-        "Fontes": 1
-      }
-    },
-    {
-      "source": "case--operacao-lava-jato",
-      "target": "person--jose-antonio-dias-toffoli",
       "kind": "related",
       "count": 1,
       "sections": {
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "case--operacao-lava-jato",
-      "target": "person--luiz-edson-fachin",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Eventos": 1,
         "Pessoas relacionadas": 1
       }
     },
@@ -1106,34 +904,9 @@
     {
       "source": "case--operacao-lava-jato",
       "target": "person--luiz-inacio-lula-da-silva",
-      "kind": "link",
-      "count": 18,
-      "sections": {
-        "Situação atual": 1,
-        "Por que está no mapa": 1,
-        "Perguntas abertas (hipóteses)": 2,
-        "Linha do tempo": 2,
-        "Eventos": 1,
-        "Pessoas relacionadas": 1,
-        "Fontes": 10
-      }
-    },
-    {
-      "source": "case--operacao-lava-jato",
-      "target": "person--luiz-inacio-lula-da-silva",
       "kind": "related",
       "count": 1,
       "sections": {
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "case--operacao-lava-jato",
-      "target": "person--sergio-fernando-moro",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Perguntas abertas (hipóteses)": 1,
         "Pessoas relacionadas": 1
       }
     },
@@ -1144,15 +917,6 @@
       "count": 1,
       "sections": {
         "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "case--operacao-spoofing",
-      "target": "case--operacao-lava-jato",
-      "kind": "link",
-      "count": 1,
-      "sections": {
-        "Casos relacionados": 1
       }
     },
     {
@@ -1167,31 +931,7 @@
     {
       "source": "case--operacao-spoofing",
       "target": "person--jose-antonio-dias-toffoli",
-      "kind": "link",
-      "count": 8,
-      "sections": {
-        "Situação atual": 1,
-        "Por que está no mapa": 1,
-        "Resumo": 1,
-        "Linha do tempo": 1,
-        "Eventos": 2,
-        "Pessoas relacionadas": 1,
-        "Fontes": 1
-      }
-    },
-    {
-      "source": "case--operacao-spoofing",
-      "target": "person--jose-antonio-dias-toffoli",
       "kind": "related",
-      "count": 1,
-      "sections": {
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "case--operacao-spoofing",
-      "target": "person--luiz-inacio-lula-da-silva",
-      "kind": "link",
       "count": 1,
       "sections": {
         "Pessoas relacionadas": 1
@@ -1204,17 +944,6 @@
       "count": 1,
       "sections": {
         "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "case--operacao-spoofing",
-      "target": "person--sergio-fernando-moro",
-      "kind": "link",
-      "count": 3,
-      "sections": {
-        "Linha do tempo": 1,
-        "Pessoas relacionadas": 1,
-        "Fontes": 1
       }
     },
     {
@@ -1229,18 +958,6 @@
     {
       "source": "case--operacao-spoofing",
       "target": "person--walter-delgatti-neto",
-      "kind": "link",
-      "count": 5,
-      "sections": {
-        "Situação atual": 1,
-        "Perguntas abertas (hipóteses)": 2,
-        "Linha do tempo": 1,
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "case--operacao-spoofing",
-      "target": "person--walter-delgatti-neto",
       "kind": "related",
       "count": 1,
       "sections": {
@@ -1248,39 +965,12 @@
       }
     },
     {
-      "source": "case--sede-do-instituto-lula",
-      "target": "case--operacao-lava-jato",
-      "kind": "link",
+      "source": "case--perseguicao-armada-sp-2022",
+      "target": "person--carla-zambelli-salgado-de-oliveira",
+      "kind": "related",
       "count": 1,
       "sections": {
-        "Por que está no mapa": 1
-      }
-    },
-    {
-      "source": "case--sede-do-instituto-lula",
-      "target": "person--luiz-edson-fachin",
-      "kind": "link",
-      "count": 1,
-      "sections": {
-        "Resumo": 1
-      }
-    },
-    {
-      "source": "case--sede-do-instituto-lula",
-      "target": "person--luiz-inacio-lula-da-silva",
-      "kind": "link",
-      "count": 25,
-      "sections": {
-        "Intro": 1,
-        "Situação atual": 1,
-        "Por que está no mapa": 2,
-        "Perguntas abertas (hipóteses)": 1,
-        "Resumo": 4,
-        "Linha do tempo": 6,
-        "Eventos": 4,
-        "Pessoas relacionadas": 1,
-        "Organizações relacionadas": 1,
-        "Fontes": 4
+        "Pessoas relacionadas": 1
       }
     },
     {
@@ -1295,42 +985,9 @@
     {
       "source": "case--sede-do-instituto-lula",
       "target": "person--sergio-fernando-moro",
-      "kind": "link",
-      "count": 3,
-      "sections": {
-        "Resumo": 1,
-        "Linha do tempo": 1,
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "case--sede-do-instituto-lula",
-      "target": "person--sergio-fernando-moro",
       "kind": "related",
       "count": 1,
       "sections": {
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "case--sitio-de-atibaia",
-      "target": "case--operacao-lava-jato",
-      "kind": "link",
-      "count": 1,
-      "sections": {
-        "Por que está no mapa": 1
-      }
-    },
-    {
-      "source": "case--sitio-de-atibaia",
-      "target": "person--luiz-edson-fachin",
-      "kind": "link",
-      "count": 5,
-      "sections": {
-        "Perguntas abertas (hipóteses)": 1,
-        "Resumo": 1,
-        "Linha do tempo": 1,
-        "Eventos": 1,
         "Pessoas relacionadas": 1
       }
     },
@@ -1346,43 +1003,9 @@
     {
       "source": "case--sitio-de-atibaia",
       "target": "person--luiz-inacio-lula-da-silva",
-      "kind": "link",
-      "count": 7,
-      "sections": {
-        "Por que está no mapa": 1,
-        "Resumo": 1,
-        "Pessoas relacionadas": 1,
-        "Fontes": 4
-      }
-    },
-    {
-      "source": "case--sitio-de-atibaia",
-      "target": "person--luiz-inacio-lula-da-silva",
       "kind": "related",
       "count": 1,
       "sections": {
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "case--triplex-do-guaruja",
-      "target": "case--operacao-lava-jato",
-      "kind": "link",
-      "count": 1,
-      "sections": {
-        "Por que está no mapa": 1
-      }
-    },
-    {
-      "source": "case--triplex-do-guaruja",
-      "target": "person--luiz-edson-fachin",
-      "kind": "link",
-      "count": 5,
-      "sections": {
-        "Perguntas abertas (hipóteses)": 1,
-        "Resumo": 1,
-        "Linha do tempo": 1,
-        "Eventos": 1,
         "Pessoas relacionadas": 1
       }
     },
@@ -1398,36 +1021,9 @@
     {
       "source": "case--triplex-do-guaruja",
       "target": "person--luiz-inacio-lula-da-silva",
-      "kind": "link",
-      "count": 13,
-      "sections": {
-        "Por que está no mapa": 1,
-        "Resumo": 1,
-        "Linha do tempo": 1,
-        "Eventos": 2,
-        "Pessoas relacionadas": 1,
-        "Fontes": 7
-      }
-    },
-    {
-      "source": "case--triplex-do-guaruja",
-      "target": "person--luiz-inacio-lula-da-silva",
       "kind": "related",
       "count": 1,
       "sections": {
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "case--triplex-do-guaruja",
-      "target": "person--sergio-fernando-moro",
-      "kind": "link",
-      "count": 7,
-      "sections": {
-        "Perguntas abertas (hipóteses)": 1,
-        "Resumo": 1,
-        "Linha do tempo": 2,
-        "Eventos": 2,
         "Pessoas relacionadas": 1
       }
     },
@@ -1443,17 +1039,6 @@
     {
       "source": "org--banco-master",
       "target": "case--caso-banco-master",
-      "kind": "link",
-      "count": 3,
-      "sections": {
-        "Intro": 1,
-        "Por que está no mapa": 1,
-        "Casos relacionados": 1
-      }
-    },
-    {
-      "source": "org--banco-master",
-      "target": "case--caso-banco-master",
       "kind": "related",
       "count": 1,
       "sections": {
@@ -1463,40 +1048,9 @@
     {
       "source": "org--banco-master",
       "target": "person--daniel-vorcaro",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Linha do tempo": 1,
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "org--banco-master",
-      "target": "person--daniel-vorcaro",
       "kind": "related",
       "count": 1,
       "sections": {
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "org--banco-master",
-      "target": "person--rui-costa",
-      "kind": "link",
-      "count": 1,
-      "sections": {
-        "Fontes": 1
-      }
-    },
-    {
-      "source": "org--central-unica-dos-trabalhadores-cut",
-      "target": "person--luiz-inacio-lula-da-silva",
-      "kind": "link",
-      "count": 5,
-      "sections": {
-        "Por que está no mapa": 2,
-        "Linha do tempo": 1,
-        "Eventos": 1,
         "Pessoas relacionadas": 1
       }
     },
@@ -1512,30 +1066,10 @@
     {
       "source": "org--partido-dos-trabalhadores-pt",
       "target": "person--luiz-inacio-lula-da-silva",
-      "kind": "link",
-      "count": 3,
-      "sections": {
-        "Por que está no mapa": 2,
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "org--partido-dos-trabalhadores-pt",
-      "target": "person--luiz-inacio-lula-da-silva",
       "kind": "related",
       "count": 1,
       "sections": {
         "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "org--sindicato-dos-metalurgicos-do-abc",
-      "target": "org--central-unica-dos-trabalhadores-cut",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Por que está no mapa": 1,
-        "Organizações relacionadas": 1
       }
     },
     {
@@ -1550,33 +1084,10 @@
     {
       "source": "org--sindicato-dos-metalurgicos-do-abc",
       "target": "org--partido-dos-trabalhadores-pt",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Por que está no mapa": 1,
-        "Organizações relacionadas": 1
-      }
-    },
-    {
-      "source": "org--sindicato-dos-metalurgicos-do-abc",
-      "target": "org--partido-dos-trabalhadores-pt",
       "kind": "related",
       "count": 1,
       "sections": {
         "Organizações relacionadas": 1
-      }
-    },
-    {
-      "source": "org--sindicato-dos-metalurgicos-do-abc",
-      "target": "person--luiz-inacio-lula-da-silva",
-      "kind": "link",
-      "count": 8,
-      "sections": {
-        "Por que está no mapa": 2,
-        "Resumo": 1,
-        "Linha do tempo": 2,
-        "Eventos": 2,
-        "Pessoas relacionadas": 1
       }
     },
     {
@@ -1591,60 +1102,9 @@
     {
       "source": "person--adelio-bispo-de-oliveira",
       "target": "case--atentado-contra-jair-bolsonaro",
-      "kind": "link",
-      "count": 3,
-      "sections": {
-        "Perguntas abertas (hipóteses)": 2,
-        "Casos relacionados": 1
-      }
-    },
-    {
-      "source": "person--adelio-bispo-de-oliveira",
-      "target": "case--atentado-contra-jair-bolsonaro",
       "kind": "related",
       "count": 1,
       "sections": {
-        "Casos relacionados": 1
-      }
-    },
-    {
-      "source": "person--adelio-bispo-de-oliveira",
-      "target": "person--jair-messias-bolsonaro",
-      "kind": "link",
-      "count": 5,
-      "sections": {
-        "Por que está no mapa": 1,
-        "Linha do tempo": 1,
-        "Eventos": 1,
-        "Fontes": 2
-      }
-    },
-    {
-      "source": "person--adelio-bispo-de-oliveira",
-      "target": "person--rodrigo-morais-fernandes",
-      "kind": "link",
-      "count": 1,
-      "sections": {
-        "Perguntas abertas (hipóteses)": 1
-      }
-    },
-    {
-      "source": "person--adelio-bispo-de-oliveira",
-      "target": "person--zanone-manoel-de-oliveira-junior",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Situação atual": 1,
-        "Perguntas abertas (hipóteses)": 1
-      }
-    },
-    {
-      "source": "person--alexandre-de-moraes",
-      "target": "case--8-de-janeiro-2023",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Por que está no mapa": 1,
         "Casos relacionados": 1
       }
     },
@@ -1660,39 +1120,7 @@
     {
       "source": "person--alexandre-de-moraes",
       "target": "case--caso-banco-master",
-      "kind": "link",
-      "count": 1,
-      "sections": {
-        "Casos relacionados": 1
-      }
-    },
-    {
-      "source": "person--alexandre-de-moraes",
-      "target": "case--caso-banco-master",
       "kind": "related",
-      "count": 1,
-      "sections": {
-        "Casos relacionados": 1
-      }
-    },
-    {
-      "source": "person--alexandre-de-moraes",
-      "target": "org--banco-master",
-      "kind": "link",
-      "count": 8,
-      "sections": {
-        "Intro": 1,
-        "Situação atual": 2,
-        "Por que está no mapa": 1,
-        "Perguntas abertas (hipóteses)": 1,
-        "Linha do tempo": 2,
-        "Eventos": 1
-      }
-    },
-    {
-      "source": "person--andrei-augusto-passos-rodrigues",
-      "target": "case--caso-banco-master",
-      "kind": "link",
       "count": 1,
       "sections": {
         "Casos relacionados": 1
@@ -1708,109 +1136,20 @@
       }
     },
     {
-      "source": "person--andrei-augusto-passos-rodrigues",
-      "target": "org--banco-master",
-      "kind": "link",
-      "count": 1,
-      "sections": {
-        "Por que está no mapa": 1
-      }
-    },
-    {
-      "source": "person--andrei-augusto-passos-rodrigues",
-      "target": "person--jair-messias-bolsonaro",
-      "kind": "link",
-      "count": 1,
-      "sections": {
-        "Por que está no mapa": 1
-      }
-    },
-    {
       "source": "person--carla-zambelli-salgado-de-oliveira",
-      "target": "person--alexandre-de-moraes",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Linha do tempo": 1,
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "person--carla-zambelli-salgado-de-oliveira",
-      "target": "person--jair-messias-bolsonaro",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Linha do tempo": 1,
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "person--carla-zambelli-salgado-de-oliveira",
-      "target": "person--jair-messias-bolsonaro",
+      "target": "case--invasao-sistemas-cnj",
       "kind": "related",
       "count": 1,
       "sections": {
-        "Pessoas relacionadas": 1
+        "Casos relacionados": 1
       }
     },
     {
       "source": "person--carla-zambelli-salgado-de-oliveira",
-      "target": "person--jose-antonio-dias-toffoli",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Intro": 1,
-        "Por que está no mapa": 1
-      }
-    },
-    {
-      "source": "person--carla-zambelli-salgado-de-oliveira",
-      "target": "person--sergio-fernando-moro",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Linha do tempo": 1,
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "person--carla-zambelli-salgado-de-oliveira",
-      "target": "person--sergio-fernando-moro",
+      "target": "case--perseguicao-armada-sp-2022",
       "kind": "related",
       "count": 1,
       "sections": {
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "person--carla-zambelli-salgado-de-oliveira",
-      "target": "person--walter-delgatti-neto",
-      "kind": "link",
-      "count": 3,
-      "sections": {
-        "Intro": 1,
-        "Por que está no mapa": 1,
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "person--carla-zambelli-salgado-de-oliveira",
-      "target": "person--walter-delgatti-neto",
-      "kind": "related",
-      "count": 1,
-      "sections": {
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "person--daniel-vorcaro",
-      "target": "case--caso-banco-master",
-      "kind": "link",
-      "count": 3,
-      "sections": {
-        "Intro": 1,
-        "Por que está no mapa": 1,
         "Casos relacionados": 1
       }
     },
@@ -1821,19 +1160,6 @@
       "count": 1,
       "sections": {
         "Casos relacionados": 1
-      }
-    },
-    {
-      "source": "person--daniel-vorcaro",
-      "target": "org--banco-master",
-      "kind": "link",
-      "count": 8,
-      "sections": {
-        "Situação atual": 1,
-        "Por que está no mapa": 1,
-        "Linha do tempo": 1,
-        "Organizações relacionadas": 1,
-        "Fontes": 4
       }
     },
     {
@@ -1843,43 +1169,6 @@
       "count": 1,
       "sections": {
         "Organizações relacionadas": 1
-      }
-    },
-    {
-      "source": "person--daniel-vorcaro",
-      "target": "org--partido-dos-trabalhadores-pt",
-      "kind": "link",
-      "count": 1,
-      "sections": {
-        "Linha do tempo": 1
-      }
-    },
-    {
-      "source": "person--daniel-vorcaro",
-      "target": "person--guido-mantega",
-      "kind": "link",
-      "count": 1,
-      "sections": {
-        "Linha do tempo": 1
-      }
-    },
-    {
-      "source": "person--daniel-vorcaro",
-      "target": "person--luiz-inacio-lula-da-silva",
-      "kind": "link",
-      "count": 1,
-      "sections": {
-        "Linha do tempo": 1
-      }
-    },
-    {
-      "source": "person--flavio-dino",
-      "target": "case--8-de-janeiro-2023",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Por que está no mapa": 1,
-        "Casos relacionados": 1
       }
     },
     {
@@ -1894,73 +1183,9 @@
     {
       "source": "person--guido-mantega",
       "target": "case--caso-banco-master",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Por que está no mapa": 1,
-        "Casos relacionados": 1
-      }
-    },
-    {
-      "source": "person--guido-mantega",
-      "target": "case--caso-banco-master",
       "kind": "related",
       "count": 1,
       "sections": {
-        "Casos relacionados": 1
-      }
-    },
-    {
-      "source": "person--guido-mantega",
-      "target": "org--banco-master",
-      "kind": "link",
-      "count": 6,
-      "sections": {
-        "Intro": 1,
-        "Situação atual": 2,
-        "Por que está no mapa": 1,
-        "Linha do tempo": 1,
-        "Fontes": 1
-      }
-    },
-    {
-      "source": "person--guido-mantega",
-      "target": "org--partido-dos-trabalhadores-pt",
-      "kind": "link",
-      "count": 1,
-      "sections": {
-        "Situação atual": 1
-      }
-    },
-    {
-      "source": "person--guido-mantega",
-      "target": "person--daniel-vorcaro",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Situação atual": 1,
-        "Linha do tempo": 1
-      }
-    },
-    {
-      "source": "person--guido-mantega",
-      "target": "person--luiz-inacio-lula-da-silva",
-      "kind": "link",
-      "count": 4,
-      "sections": {
-        "Intro": 1,
-        "Situação atual": 1,
-        "Por que está no mapa": 1,
-        "Linha do tempo": 1
-      }
-    },
-    {
-      "source": "person--henrique-meirelles",
-      "target": "case--caso-banco-master",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Por que está no mapa": 1,
         "Casos relacionados": 1
       }
     },
@@ -1971,30 +1196,14 @@
       "count": 1,
       "sections": {
         "Casos relacionados": 1
-      }
-    },
-    {
-      "source": "person--henrique-meirelles",
-      "target": "org--banco-master",
-      "kind": "link",
-      "count": 7,
-      "sections": {
-        "Intro": 1,
-        "Situação atual": 2,
-        "Por que está no mapa": 1,
-        "Linha do tempo": 1,
-        "Eventos": 1,
-        "Fontes": 1
       }
     },
     {
       "source": "person--jair-messias-bolsonaro",
-      "target": "case--atentado-contra-jair-bolsonaro",
-      "kind": "link",
-      "count": 3,
+      "target": "case--8-de-janeiro-2023",
+      "kind": "related",
+      "count": 1,
       "sections": {
-        "Intro": 1,
-        "Por que está no mapa": 1,
         "Casos relacionados": 1
       }
     },
@@ -2008,100 +1217,9 @@
       }
     },
     {
-      "source": "person--jair-messias-bolsonaro",
-      "target": "person--adelio-bispo-de-oliveira",
-      "kind": "link",
-      "count": 1,
-      "sections": {
-        "Por que está no mapa": 1
-      }
-    },
-    {
-      "source": "person--jair-messias-bolsonaro",
-      "target": "person--alexandre-de-moraes",
-      "kind": "link",
-      "count": 5,
-      "sections": {
-        "Situação atual": 1,
-        "Perguntas abertas (hipóteses)": 1,
-        "Linha do tempo": 2,
-        "Eventos": 1
-      }
-    },
-    {
-      "source": "person--jair-messias-bolsonaro",
-      "target": "person--andrei-augusto-passos-rodrigues",
-      "kind": "link",
-      "count": 1,
-      "sections": {
-        "Perguntas abertas (hipóteses)": 1
-      }
-    },
-    {
-      "source": "person--jair-messias-bolsonaro",
-      "target": "person--luiz-fux",
-      "kind": "link",
-      "count": 3,
-      "sections": {
-        "Perguntas abertas (hipóteses)": 1,
-        "Linha do tempo": 1,
-        "Eventos": 1
-      }
-    },
-    {
-      "source": "person--jaques-wagner",
-      "target": "case--caso-banco-master",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Por que está no mapa": 1,
-        "Casos relacionados": 1
-      }
-    },
-    {
       "source": "person--jaques-wagner",
       "target": "case--caso-banco-master",
       "kind": "related",
-      "count": 1,
-      "sections": {
-        "Casos relacionados": 1
-      }
-    },
-    {
-      "source": "person--jaques-wagner",
-      "target": "org--banco-master",
-      "kind": "link",
-      "count": 5,
-      "sections": {
-        "Intro": 1,
-        "Por que está no mapa": 1,
-        "Perguntas abertas (hipóteses)": 1,
-        "Eventos": 1,
-        "Fontes": 1
-      }
-    },
-    {
-      "source": "person--jaques-wagner",
-      "target": "org--partido-dos-trabalhadores-pt",
-      "kind": "link",
-      "count": 1,
-      "sections": {
-        "Por que está no mapa": 1
-      }
-    },
-    {
-      "source": "person--jaques-wagner",
-      "target": "person--daniel-vorcaro",
-      "kind": "link",
-      "count": 1,
-      "sections": {
-        "Por que está no mapa": 1
-      }
-    },
-    {
-      "source": "person--jose-antonio-dias-toffoli",
-      "target": "case--operacao-lava-jato",
-      "kind": "link",
       "count": 1,
       "sections": {
         "Casos relacionados": 1
@@ -2119,47 +1237,10 @@
     {
       "source": "person--jose-antonio-dias-toffoli",
       "target": "case--operacao-spoofing",
-      "kind": "link",
-      "count": 11,
-      "sections": {
-        "Por que está no mapa": 1,
-        "Perguntas abertas (hipóteses)": 2,
-        "Resumo": 2,
-        "Linha do tempo": 2,
-        "Eventos": 2,
-        "Casos relacionados": 1,
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "person--jose-antonio-dias-toffoli",
-      "target": "case--operacao-spoofing",
       "kind": "related",
       "count": 1,
       "sections": {
         "Casos relacionados": 1
-      }
-    },
-    {
-      "source": "person--jose-antonio-dias-toffoli",
-      "target": "org--central-unica-dos-trabalhadores-cut",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Linha do tempo": 1,
-        "Eventos": 1
-      }
-    },
-    {
-      "source": "person--jose-antonio-dias-toffoli",
-      "target": "org--partido-dos-trabalhadores-pt",
-      "kind": "link",
-      "count": 5,
-      "sections": {
-        "Perguntas abertas (hipóteses)": 1,
-        "Linha do tempo": 1,
-        "Eventos": 1,
-        "Organizações relacionadas": 2
       }
     },
     {
@@ -2172,77 +1253,9 @@
       }
     },
     {
-      "source": "person--jose-antonio-dias-toffoli",
-      "target": "person--luiz-fux",
-      "kind": "link",
-      "count": 4,
-      "sections": {
-        "Linha do tempo": 1,
-        "Eventos": 1,
-        "Fontes": 2
-      }
-    },
-    {
-      "source": "person--jose-antonio-dias-toffoli",
-      "target": "person--luiz-inacio-lula-da-silva",
-      "kind": "link",
-      "count": 4,
-      "sections": {
-        "Resumo": 1,
-        "Linha do tempo": 1,
-        "Eventos": 1,
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "person--jose-antonio-dias-toffoli",
-      "target": "person--luiz-inacio-lula-da-silva",
-      "kind": "related",
-      "count": 1,
-      "sections": {
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "person--jose-antonio-dias-toffoli",
-      "target": "person--sergio-fernando-moro",
-      "kind": "link",
-      "count": 1,
-      "sections": {
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "person--jose-antonio-dias-toffoli",
-      "target": "person--sergio-fernando-moro",
-      "kind": "related",
-      "count": 1,
-      "sections": {
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "person--luiz-edson-fachin",
-      "target": "case--operacao-lava-jato",
-      "kind": "link",
-      "count": 1,
-      "sections": {
-        "Casos relacionados": 1
-      }
-    },
-    {
       "source": "person--luiz-edson-fachin",
       "target": "case--operacao-lava-jato",
       "kind": "related",
-      "count": 1,
-      "sections": {
-        "Casos relacionados": 1
-      }
-    },
-    {
-      "source": "person--luiz-edson-fachin",
-      "target": "case--sitio-de-atibaia",
-      "kind": "link",
       "count": 1,
       "sections": {
         "Casos relacionados": 1
@@ -2260,15 +1273,6 @@
     {
       "source": "person--luiz-edson-fachin",
       "target": "case--triplex-do-guaruja",
-      "kind": "link",
-      "count": 1,
-      "sections": {
-        "Casos relacionados": 1
-      }
-    },
-    {
-      "source": "person--luiz-edson-fachin",
-      "target": "case--triplex-do-guaruja",
       "kind": "related",
       "count": 1,
       "sections": {
@@ -2276,92 +1280,11 @@
       }
     },
     {
-      "source": "person--luiz-edson-fachin",
-      "target": "person--alexandre-de-moraes",
-      "kind": "link",
-      "count": 1,
-      "sections": {
-        "Fontes": 1
-      }
-    },
-    {
-      "source": "person--luiz-edson-fachin",
-      "target": "person--luiz-inacio-lula-da-silva",
-      "kind": "link",
-      "count": 7,
-      "sections": {
-        "Por que está no mapa": 2,
-        "Perguntas abertas (hipóteses)": 2,
-        "Eventos": 1,
-        "Fontes": 2
-      }
-    },
-    {
       "source": "person--luiz-fux",
-      "target": "person--alexandre-de-moraes",
-      "kind": "link",
-      "count": 1,
-      "sections": {
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "person--luiz-fux",
-      "target": "person--alexandre-de-moraes",
+      "target": "case--8-de-janeiro-2023",
       "kind": "related",
       "count": 1,
       "sections": {
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "person--luiz-fux",
-      "target": "person--flavio-dino",
-      "kind": "link",
-      "count": 1,
-      "sections": {
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "person--luiz-fux",
-      "target": "person--flavio-dino",
-      "kind": "related",
-      "count": 1,
-      "sections": {
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "person--luiz-fux",
-      "target": "person--jair-messias-bolsonaro",
-      "kind": "link",
-      "count": 5,
-      "sections": {
-        "Intro": 1,
-        "Situação atual": 1,
-        "Por que está no mapa": 1,
-        "Pessoas relacionadas": 1,
-        "Fontes": 1
-      }
-    },
-    {
-      "source": "person--luiz-fux",
-      "target": "person--jair-messias-bolsonaro",
-      "kind": "related",
-      "count": 1,
-      "sections": {
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "person--luiz-inacio-lula-da-silva",
-      "target": "case--operacao-lava-jato",
-      "kind": "link",
-      "count": 3,
-      "sections": {
-        "Perguntas abertas (hipóteses)": 1,
-        "Linha do tempo": 1,
         "Casos relacionados": 1
       }
     },
@@ -2371,17 +1294,6 @@
       "kind": "related",
       "count": 1,
       "sections": {
-        "Casos relacionados": 1
-      }
-    },
-    {
-      "source": "person--luiz-inacio-lula-da-silva",
-      "target": "case--operacao-spoofing",
-      "kind": "link",
-      "count": 3,
-      "sections": {
-        "Linha do tempo": 1,
-        "Eventos": 1,
         "Casos relacionados": 1
       }
     },
@@ -2397,29 +1309,9 @@
     {
       "source": "person--luiz-inacio-lula-da-silva",
       "target": "case--sede-do-instituto-lula",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Perguntas abertas (hipóteses)": 1,
-        "Casos relacionados": 1
-      }
-    },
-    {
-      "source": "person--luiz-inacio-lula-da-silva",
-      "target": "case--sede-do-instituto-lula",
       "kind": "related",
       "count": 1,
       "sections": {
-        "Casos relacionados": 1
-      }
-    },
-    {
-      "source": "person--luiz-inacio-lula-da-silva",
-      "target": "case--sitio-de-atibaia",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Perguntas abertas (hipóteses)": 1,
         "Casos relacionados": 1
       }
     },
@@ -2435,99 +1327,9 @@
     {
       "source": "person--luiz-inacio-lula-da-silva",
       "target": "case--triplex-do-guaruja",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Perguntas abertas (hipóteses)": 1,
-        "Casos relacionados": 1
-      }
-    },
-    {
-      "source": "person--luiz-inacio-lula-da-silva",
-      "target": "case--triplex-do-guaruja",
       "kind": "related",
       "count": 1,
       "sections": {
-        "Casos relacionados": 1
-      }
-    },
-    {
-      "source": "person--luiz-inacio-lula-da-silva",
-      "target": "org--central-unica-dos-trabalhadores-cut",
-      "kind": "link",
-      "count": 6,
-      "sections": {
-        "Perguntas abertas (hipóteses)": 1,
-        "Resumo": 1,
-        "Linha do tempo": 2,
-        "Eventos": 1,
-        "Organizações e vínculos": 1
-      }
-    },
-    {
-      "source": "person--luiz-inacio-lula-da-silva",
-      "target": "org--partido-dos-trabalhadores-pt",
-      "kind": "link",
-      "count": 6,
-      "sections": {
-        "Perguntas abertas (hipóteses)": 1,
-        "Resumo": 1,
-        "Linha do tempo": 2,
-        "Eventos": 1,
-        "Organizações e vínculos": 1
-      }
-    },
-    {
-      "source": "person--luiz-inacio-lula-da-silva",
-      "target": "org--sindicato-dos-metalurgicos-do-abc",
-      "kind": "link",
-      "count": 5,
-      "sections": {
-        "Perguntas abertas (hipóteses)": 1,
-        "Cargos e atuação pública": 1,
-        "Linha do tempo": 1,
-        "Eventos": 1,
-        "Organizações e vínculos": 1
-      }
-    },
-    {
-      "source": "person--luiz-inacio-lula-da-silva",
-      "target": "person--jose-antonio-dias-toffoli",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Linha do tempo": 1,
-        "Eventos": 1
-      }
-    },
-    {
-      "source": "person--luiz-inacio-lula-da-silva",
-      "target": "person--luiz-edson-fachin",
-      "kind": "link",
-      "count": 3,
-      "sections": {
-        "Perguntas abertas (hipóteses)": 1,
-        "Eventos": 2
-      }
-    },
-    {
-      "source": "person--luiz-inacio-lula-da-silva",
-      "target": "person--sergio-fernando-moro",
-      "kind": "link",
-      "count": 4,
-      "sections": {
-        "Perguntas abertas (hipóteses)": 1,
-        "Resumo": 1,
-        "Eventos": 2
-      }
-    },
-    {
-      "source": "person--paulo-gonet-branco",
-      "target": "case--caso-banco-master",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Por que está no mapa": 1,
         "Casos relacionados": 1
       }
     },
@@ -2541,79 +1343,11 @@
       }
     },
     {
-      "source": "person--paulo-gonet-branco",
-      "target": "org--banco-master",
-      "kind": "link",
-      "count": 5,
-      "sections": {
-        "Intro": 1,
-        "Situação atual": 1,
-        "Linha do tempo": 2,
-        "Eventos": 1
-      }
-    },
-    {
-      "source": "person--paulo-gonet-branco",
-      "target": "person--alexandre-de-moraes",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Situação atual": 1,
-        "Linha do tempo": 1
-      }
-    },
-    {
-      "source": "person--paulo-gonet-branco",
-      "target": "person--viviane-barci-de-moraes",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Situação atual": 1,
-        "Linha do tempo": 1
-      }
-    },
-    {
-      "source": "person--ricardo-lewandowski",
-      "target": "case--caso-banco-master",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Por que está no mapa": 1,
-        "Casos relacionados": 1
-      }
-    },
-    {
       "source": "person--ricardo-lewandowski",
       "target": "case--caso-banco-master",
       "kind": "related",
       "count": 1,
       "sections": {
-        "Casos relacionados": 1
-      }
-    },
-    {
-      "source": "person--ricardo-lewandowski",
-      "target": "org--banco-master",
-      "kind": "link",
-      "count": 8,
-      "sections": {
-        "Intro": 1,
-        "Situação atual": 2,
-        "Por que está no mapa": 1,
-        "Perguntas abertas (hipóteses)": 1,
-        "Linha do tempo": 1,
-        "Eventos": 1,
-        "Fontes": 1
-      }
-    },
-    {
-      "source": "person--rodrigo-morais-fernandes",
-      "target": "case--atentado-contra-jair-bolsonaro",
-      "kind": "link",
-      "count": 3,
-      "sections": {
-        "Intro": 1,
-        "Por que está no mapa": 1,
         "Casos relacionados": 1
       }
     },
@@ -2627,92 +1361,11 @@
       }
     },
     {
-      "source": "person--rodrigo-morais-fernandes",
-      "target": "person--adelio-bispo-de-oliveira",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Por que está no mapa": 1,
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "person--rodrigo-morais-fernandes",
-      "target": "person--adelio-bispo-de-oliveira",
-      "kind": "related",
-      "count": 1,
-      "sections": {
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "person--rodrigo-morais-fernandes",
-      "target": "person--jair-messias-bolsonaro",
-      "kind": "link",
-      "count": 1,
-      "sections": {
-        "Fontes": 1
-      }
-    },
-    {
-      "source": "person--rodrigo-morais-fernandes",
-      "target": "person--zanone-manoel-de-oliveira-junior",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Perguntas abertas (hipóteses)": 1,
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "person--rodrigo-morais-fernandes",
-      "target": "person--zanone-manoel-de-oliveira-junior",
-      "kind": "related",
-      "count": 1,
-      "sections": {
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "person--rui-costa",
-      "target": "case--caso-banco-master",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Por que está no mapa": 1,
-        "Casos relacionados": 1
-      }
-    },
-    {
       "source": "person--rui-costa",
       "target": "case--caso-banco-master",
       "kind": "related",
       "count": 1,
       "sections": {
-        "Casos relacionados": 1
-      }
-    },
-    {
-      "source": "person--rui-costa",
-      "target": "org--banco-master",
-      "kind": "link",
-      "count": 7,
-      "sections": {
-        "Intro": 1,
-        "Por que está no mapa": 1,
-        "Perguntas abertas (hipóteses)": 1,
-        "Linha do tempo": 2,
-        "Eventos": 1,
-        "Fontes": 1
-      }
-    },
-    {
-      "source": "person--sergio-fernando-moro",
-      "target": "case--operacao-lava-jato",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Intro": 1,
         "Casos relacionados": 1
       }
     },
@@ -2728,17 +1381,6 @@
     {
       "source": "person--sergio-fernando-moro",
       "target": "case--operacao-spoofing",
-      "kind": "link",
-      "count": 5,
-      "sections": {
-        "Linha do tempo": 2,
-        "Eventos": 2,
-        "Casos relacionados": 1
-      }
-    },
-    {
-      "source": "person--sergio-fernando-moro",
-      "target": "case--operacao-spoofing",
       "kind": "related",
       "count": 1,
       "sections": {
@@ -2748,64 +1390,9 @@
     {
       "source": "person--sergio-fernando-moro",
       "target": "case--triplex-do-guaruja",
-      "kind": "link",
-      "count": 4,
-      "sections": {
-        "Intro": 1,
-        "Por que está no mapa": 1,
-        "Perguntas abertas (hipóteses)": 1,
-        "Casos relacionados": 1
-      }
-    },
-    {
-      "source": "person--sergio-fernando-moro",
-      "target": "case--triplex-do-guaruja",
       "kind": "related",
       "count": 1,
       "sections": {
-        "Casos relacionados": 1
-      }
-    },
-    {
-      "source": "person--sergio-fernando-moro",
-      "target": "person--jose-antonio-dias-toffoli",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Linha do tempo": 1,
-        "Eventos": 1
-      }
-    },
-    {
-      "source": "person--sergio-fernando-moro",
-      "target": "person--luiz-inacio-lula-da-silva",
-      "kind": "link",
-      "count": 8,
-      "sections": {
-        "Intro": 1,
-        "Por que está no mapa": 1,
-        "Linha do tempo": 1,
-        "Eventos": 2,
-        "Pessoas relacionadas": 1,
-        "Fontes": 2
-      }
-    },
-    {
-      "source": "person--sergio-fernando-moro",
-      "target": "person--luiz-inacio-lula-da-silva",
-      "kind": "related",
-      "count": 1,
-      "sections": {
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "person--viviane-barci-de-moraes",
-      "target": "case--caso-banco-master",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Por que está no mapa": 1,
         "Casos relacionados": 1
       }
     },
@@ -2816,21 +1403,6 @@
       "count": 1,
       "sections": {
         "Casos relacionados": 1
-      }
-    },
-    {
-      "source": "person--viviane-barci-de-moraes",
-      "target": "org--banco-master",
-      "kind": "link",
-      "count": 12,
-      "sections": {
-        "Intro": 1,
-        "Situação atual": 2,
-        "Por que está no mapa": 1,
-        "Perguntas abertas (hipóteses)": 1,
-        "Linha do tempo": 4,
-        "Eventos": 2,
-        "Organizações relacionadas": 1
       }
     },
     {
@@ -2852,39 +1424,11 @@
       }
     },
     {
-      "source": "person--viviane-barci-de-moraes",
-      "target": "person--alexandre-de-moraes",
-      "kind": "link",
-      "count": 5,
-      "sections": {
-        "Situação atual": 1,
-        "Identidade (básico)": 1,
-        "Linha do tempo": 2,
-        "Relações familiares": 1
-      }
-    },
-    {
-      "source": "person--viviane-barci-de-moraes",
-      "target": "person--paulo-gonet-branco",
-      "kind": "link",
-      "count": 3,
-      "sections": {
-        "Situação atual": 1,
-        "Por que está no mapa": 1,
-        "Linha do tempo": 1
-      }
-    },
-    {
       "source": "person--walter-delgatti-neto",
-      "target": "case--operacao-spoofing",
-      "kind": "link",
-      "count": 6,
+      "target": "case--invasao-sistemas-cnj",
+      "kind": "related",
+      "count": 1,
       "sections": {
-        "Intro": 1,
-        "Situação atual": 1,
-        "Por que está no mapa": 1,
-        "Perguntas abertas (hipóteses)": 1,
-        "Resumo": 1,
         "Casos relacionados": 1
       }
     },
@@ -2898,141 +1442,12 @@
       }
     },
     {
-      "source": "person--walter-delgatti-neto",
-      "target": "person--alexandre-de-moraes",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Linha do tempo": 1,
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "person--walter-delgatti-neto",
-      "target": "person--carla-zambelli-salgado-de-oliveira",
-      "kind": "link",
-      "count": 7,
-      "sections": {
-        "Perguntas abertas (hipóteses)": 1,
-        "Linha do tempo": 3,
-        "Pessoas relacionadas": 1,
-        "Fontes": 2
-      }
-    },
-    {
-      "source": "person--walter-delgatti-neto",
-      "target": "person--carla-zambelli-salgado-de-oliveira",
-      "kind": "related",
-      "count": 1,
-      "sections": {
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "person--walter-delgatti-neto",
-      "target": "person--jair-messias-bolsonaro",
-      "kind": "link",
-      "count": 5,
-      "sections": {
-        "Linha do tempo": 2,
-        "Eventos": 2,
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "person--walter-delgatti-neto",
-      "target": "person--jair-messias-bolsonaro",
-      "kind": "related",
-      "count": 1,
-      "sections": {
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "person--walter-delgatti-neto",
-      "target": "person--jose-antonio-dias-toffoli",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Intro": 1,
-        "Por que está no mapa": 1
-      }
-    },
-    {
-      "source": "person--walter-delgatti-neto",
-      "target": "person--sergio-fernando-moro",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Linha do tempo": 1,
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "person--walter-delgatti-neto",
-      "target": "person--sergio-fernando-moro",
-      "kind": "related",
-      "count": 1,
-      "sections": {
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "person--zanone-manoel-de-oliveira-junior",
-      "target": "case--atentado-contra-jair-bolsonaro",
-      "kind": "link",
-      "count": 3,
-      "sections": {
-        "Intro": 1,
-        "Por que está no mapa": 1,
-        "Casos relacionados": 1
-      }
-    },
-    {
       "source": "person--zanone-manoel-de-oliveira-junior",
       "target": "case--atentado-contra-jair-bolsonaro",
       "kind": "related",
       "count": 1,
       "sections": {
         "Casos relacionados": 1
-      }
-    },
-    {
-      "source": "person--zanone-manoel-de-oliveira-junior",
-      "target": "person--adelio-bispo-de-oliveira",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Por que está no mapa": 1,
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "person--zanone-manoel-de-oliveira-junior",
-      "target": "person--adelio-bispo-de-oliveira",
-      "kind": "related",
-      "count": 1,
-      "sections": {
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "person--zanone-manoel-de-oliveira-junior",
-      "target": "person--rodrigo-morais-fernandes",
-      "kind": "link",
-      "count": 2,
-      "sections": {
-        "Perguntas abertas (hipóteses)": 1,
-        "Pessoas relacionadas": 1
-      }
-    },
-    {
-      "source": "person--zanone-manoel-de-oliveira-junior",
-      "target": "person--rodrigo-morais-fernandes",
-      "kind": "related",
-      "count": 1,
-      "sections": {
-        "Pessoas relacionadas": 1
       }
     }
   ]

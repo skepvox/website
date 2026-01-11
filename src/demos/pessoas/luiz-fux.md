@@ -81,6 +81,10 @@ _Última atualização: 2026-01-10. ID Skepvox: `person--luiz-fux`._
 
 - 2025-07-22 — Reportagem descreve divergência sobre cautelares impostas a Bolsonaro. Status: `reported`. Fonte: [G1](https://g1.globo.com/jornal-nacional/noticia/2025/07/22/fux-vota-contra-cautelares-de-moraes-a-bolsonaro-mas-stf-mantem-restricoes.ghtml).
 
+## Casos relacionados
+
+- [8 de Janeiro de 2023 (Ataques em Brasília)](/demos/casos/8-de-janeiro-2023) — ver seção “2025–2026” (cautelares/custódia) no caso.
+
 ## Pessoas relacionadas
 
 - [Jair Messias Bolsonaro](/demos/pessoas/jair-messias-bolsonaro).

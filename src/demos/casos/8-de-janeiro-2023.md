@@ -27,7 +27,7 @@ organizar uma cronologia verificável (com fontes) e explicitar hipóteses como
 perguntas testáveis — sem tratar hipótese como fato e sem rótulos.
 :::
 
-_Última atualização: 2026-01-10. ID Skepvox: `case--8-de-janeiro-2023`._
+_Última atualização: 2026-01-11. ID Skepvox: `case--8-de-janeiro-2023`._
 
 ## Situação atual
 
@@ -96,6 +96,13 @@ _Última atualização: 2026-01-10. ID Skepvox: `case--8-de-janeiro-2023`._
 
 - 2024-08-05 — STF informa condenação de mais 119 pessoas envolvidas (sessões virtuais listadas na nota institucional). Status: `documented`. Fonte: [STF](https://noticias.stf.jus.br/postsnoticias/stf-condena-mais-119-pessoas-pelos-atos-antidemocraticos-de-8-1/).
 
+### 2025–2026 — Medidas cautelares e custódia (Bolsonaro) (segundo cobertura)
+
+- 2025-07-22 — Reportagem descreve medidas cautelares impostas por [Alexandre de Moraes](/demos/pessoas/alexandre-de-moraes) e mantidas pela Primeira Turma do STF por 4 a 1; [Luiz Fux](/demos/pessoas/luiz-fux) diverge, segundo o G1. Status: `reported`. Fonte: [G1](https://g1.globo.com/jornal-nacional/noticia/2025/07/22/fux-vota-contra-cautelares-de-moraes-a-bolsonaro-mas-stf-mantem-restricoes.ghtml).
+- 2025-11-22 — Reportagem descreve prisão preventiva decretada por Moraes e debate sobre risco de fuga e audiência de custódia, segundo o G1. Status: `reported`. Fonte: [G1](https://g1.globo.com/politica/noticia/2025/11/22/bolsonaro-preso-veja-perguntas-e-respostas.ghtml).
+- 2026-01-06 — Reportagem relata mal-estar e queda na cela na PF e nota da PF sobre atendimento, segundo o G1. Status: `reported`. Fonte: [G1](https://g1.globo.com/politica/noticia/2026/01/06/bolsonaro-passou-mal-e-teve-queda-durante-a-noite-diz-michelle.ghtml).
+- 2026-01-09 — Reportagem relata pedidos (Smart TV e assistência religiosa) e envio à PGR para parecer, segundo o G1. Status: `reported`. Fonte: [G1](https://g1.globo.com/politica/noticia/2026/01/09/preso-na-pf-bolsonaro-pede-a-moraes-smart-tv-e-assistencia-religiosa-de-bispo-e-pastor.ghtml).
+
 ## Eventos
 
 ### 2023
@@ -108,11 +115,19 @@ _Última atualização: 2026-01-10. ID Skepvox: `case--8-de-janeiro-2023`._
 
 - 2024-08-05 — STF informa condenações adicionais (mais 119) em julgamentos virtuais (datas descritas na nota). Status: `documented`. Fonte: [STF](https://noticias.stf.jus.br/postsnoticias/stf-condena-mais-119-pessoas-pelos-atos-antidemocraticos-de-8-1/).
 
+### 2025–2026
+
+- 2025-07-22 — Reportagem descreve medidas cautelares mantidas pela Primeira Turma e voto divergente de [Luiz Fux](/demos/pessoas/luiz-fux), segundo o G1. Status: `reported`. Fonte: [G1](https://g1.globo.com/jornal-nacional/noticia/2025/07/22/fux-vota-contra-cautelares-de-moraes-a-bolsonaro-mas-stf-mantem-restricoes.ghtml).
+- 2025-11-22 — Reportagem descreve prisão preventiva e audiência de custódia, segundo o G1. Status: `reported`. Fonte: [G1](https://g1.globo.com/politica/noticia/2025/11/22/bolsonaro-preso-veja-perguntas-e-respostas.ghtml).
+- 2026-01-06 — Reportagem descreve mal-estar e queda durante custódia, segundo o G1. Status: `reported`. Fonte: [G1](https://g1.globo.com/politica/noticia/2026/01/06/bolsonaro-passou-mal-e-teve-queda-durante-a-noite-diz-michelle.ghtml).
+- 2026-01-09 — Reportagem descreve pedidos à relatoria e envio à PGR para parecer, segundo o G1. Status: `reported`. Fonte: [G1](https://g1.globo.com/politica/noticia/2026/01/09/preso-na-pf-bolsonaro-pede-a-moraes-smart-tv-e-assistencia-religiosa-de-bispo-e-pastor.ghtml).
+
 ## Pessoas relacionadas
 
 - [Alexandre de Moraes](/demos/pessoas/alexandre-de-moraes) — citado em cobertura por decisões no pós‑8/1. Fonte: [Folha](https://www1.folha.uol.com.br/poder/2023/01/moraes-afasta-governador-do-df-do-cargo-apos-vandalismo-em-brasilia.shtml).
 - [Flávio Dino](/demos/pessoas/flavio-dino) — ministro da Justiça à época, citado em controvérsias públicas sobre imagens (cadeia de custódia). Fonte (exemplo): [Gazeta do Povo](https://www.gazetadopovo.com.br/republica/dino-entrega-imagens-de-apenas-4-das-185-cameras-do-palacio-da-justica/).
 - [Jair Messias Bolsonaro](/demos/pessoas/jair-messias-bolsonaro) — grupos descritos como “bolsonaristas” em cobertura sobre os atos (conexão contextual, sem imputação individual). Fonte: [G1](https://g1.globo.com/df/distrito-federal/noticia/2023/01/08/bolsonaristas-radicais-entram-em-confronto-com-a-policia-na-esplanada-e-sobem-rampa-do-congresso-nacional-em-brasilia.ghtml).
+- [Luiz Fux](/demos/pessoas/luiz-fux) — citado em cobertura por voto divergente em cautelares impostas a Bolsonaro (2025). Fonte: [G1](https://g1.globo.com/jornal-nacional/noticia/2025/07/22/fux-vota-contra-cautelares-de-moraes-a-bolsonaro-mas-stf-mantem-restricoes.ghtml).
 - Pessoas citadas nas fontes (sem página ainda no Skepvox): Ibaneis Rocha; Anderson Torres; integrantes de forças de segurança e de órgãos de inteligência citados em reportagens.
 
 ## Organizações relacionadas
@@ -126,3 +141,7 @@ _Última atualização: 2026-01-10. ID Skepvox: `case--8-de-janeiro-2023`._
 - Folha — “Veja íntegra dos alertas da Abin ao GSI e ao Ministério da Justiça antes do 8/1” (acesso em 2026-01-10): https://www1.folha.uol.com.br/poder/2023/04/veja-integra-dos-alertas-da-abin-ao-gsi-e-ao-ministerio-da-justica-antes-do-81.shtml
 - STF — “STF condena mais 119 pessoas pelos atos antidemocráticos de 8/1” (acesso em 2026-01-10): https://noticias.stf.jus.br/postsnoticias/stf-condena-mais-119-pessoas-pelos-atos-antidemocraticos-de-8-1/
 - Gazeta do Povo — “Dino entrega imagens de apenas 4 das 185 câmeras do Palácio da Justiça” (acesso em 2026-01-10): https://www.gazetadopovo.com.br/republica/dino-entrega-imagens-de-apenas-4-das-185-cameras-do-palacio-da-justica/
+- G1 — “Fux é o único a votar contra medidas cautelares impostas a Jair Bolsonaro” (acesso em 2026-01-11): https://g1.globo.com/jornal-nacional/noticia/2025/07/22/fux-vota-contra-cautelares-de-moraes-a-bolsonaro-mas-stf-mantem-restricoes.ghtml
+- G1 — “Bolsonaro preso: veja perguntas e respostas” (acesso em 2026-01-11): https://g1.globo.com/politica/noticia/2025/11/22/bolsonaro-preso-veja-perguntas-e-respostas.ghtml
+- G1 — “Bolsonaro passou mal e teve queda…” (acesso em 2026-01-11): https://g1.globo.com/politica/noticia/2026/01/06/bolsonaro-passou-mal-e-teve-queda-durante-a-noite-diz-michelle.ghtml
+- G1 — “Preso na PF, Bolsonaro pede a Moraes Smart TV…” (acesso em 2026-01-11): https://g1.globo.com/politica/noticia/2026/01/09/preso-na-pf-bolsonaro-pede-a-moraes-smart-tv-e-assistencia-religiosa-de-bispo-e-pastor.ghtml

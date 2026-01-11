@@ -4,7 +4,7 @@ description: 'Linha do tempo e fontes públicas sobre Viviane Barci de Moraes.'
 demos:
   id: person--viviane-barci-de-moraes
   type: person
-  mapLabel: viviane-de-moraes
+  mapLabel: viviane
   portrait: viviane-barci-de-moraes.png
   seed: no
   seed-id: case--caso-banco-master
@@ -20,6 +20,7 @@ demos:
     - justica
     - banco-master
 ---
+
 # Viviane Barci de Moraes
 
 ::: info Nota editorial (Skepvox)
