@@ -42,7 +42,10 @@
     {
       "letter": "A",
       "text": "",
+      "image_alt": "Alternativa A: projeções ortogonais do cubo nos planos coordenados após o deslocamento.",
       "chart": {
+        "id": "2025-140-chart-002",
+        "type": "2025-140-axis3d",
         "data_file": "charts/2025-140-chart-002.json",
         "meta_file": "charts/2025-140-chart-002-meta.json"
       }
@@ -50,7 +53,10 @@
     {
       "letter": "B",
       "text": "",
+      "image_alt": "Alternativa B: projeções ortogonais do cubo nos planos coordenados após o deslocamento.",
       "chart": {
+        "id": "2025-140-chart-003",
+        "type": "2025-140-axis3d",
         "data_file": "charts/2025-140-chart-003.json",
         "meta_file": "charts/2025-140-chart-003-meta.json"
       }
@@ -58,7 +64,10 @@
     {
       "letter": "C",
       "text": "",
+      "image_alt": "Alternativa C: projeções ortogonais do cubo nos planos coordenados após o deslocamento.",
       "chart": {
+        "id": "2025-140-chart-004",
+        "type": "2025-140-axis3d",
         "data_file": "charts/2025-140-chart-004.json",
         "meta_file": "charts/2025-140-chart-004-meta.json"
       }
@@ -66,7 +75,10 @@
     {
       "letter": "D",
       "text": "",
+      "image_alt": "Alternativa D: projeções ortogonais do cubo nos planos coordenados após o deslocamento.",
       "chart": {
+        "id": "2025-140-chart-005",
+        "type": "2025-140-axis3d",
         "data_file": "charts/2025-140-chart-005.json",
         "meta_file": "charts/2025-140-chart-005-meta.json"
       }
@@ -74,7 +86,10 @@
     {
       "letter": "E",
       "text": "",
+      "image_alt": "Alternativa E: projeções ortogonais do cubo nos planos coordenados após o deslocamento.",
       "chart": {
+        "id": "2025-140-chart-006",
+        "type": "2025-140-axis3d",
         "data_file": "charts/2025-140-chart-006.json",
         "meta_file": "charts/2025-140-chart-006-meta.json"
       }
@@ -86,6 +101,7 @@
     "charts": [
       {
         "id": "2025-140-chart-001",
+        "type": "2025-140-axis3d",
         "data_file": "charts/2025-140-chart-001.json",
         "meta_file": "charts/2025-140-chart-001-meta.json",
         "position": "context"

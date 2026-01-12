@@ -70,6 +70,27 @@ const normalizeText = (value, options = {}) => {
     .trim()
 }
 
+const stripLatexDelimitersForMeta = (value) => {
+  if (!value) {
+    return ''
+  }
+  return String(value)
+    .replace(/\\\[(.+?)\\\]/gs, (_, inner) => String(inner).replace(/\s+/g, ' ').trim())
+    .replace(/\\\((.+?)\\\)/g, (_, inner) => String(inner).trim())
+    .replace(/\$([^\s][\s\S]*?[^\s])\$/g, (_, inner) => String(inner).trim())
+    .replace(/\s+/g, ' ')
+    .trim()
+}
+
+const convertLatexDelimitersForMarkdown = (value) => {
+  if (!value) {
+    return ''
+  }
+  return String(value)
+    .replace(/\\\[(.+?)\\\]/gs, (_, inner) => `$$${String(inner).replace(/\s+/g, ' ').trim()}$$`)
+    .replace(/\\\((.+?)\\\)/g, (_, inner) => `$${String(inner).trim()}$`)
+}
+
 const collapseLines = (value) => {
   const lines = value.split('\n')
   const output = []
@@ -130,7 +151,7 @@ const extractSnippet = (question) => {
     parts.push(question.prompt.text.trim())
   }
   const normalized = collapseLines(parts.join(' '))
-  return normalized.replace(/\s+/g, ' ').trim()
+  return stripLatexDelimitersForMeta(normalized)
 }
 
 const truncateText = (value, maxLength) => {
@@ -309,7 +330,7 @@ const formatSource = (source) => {
 }
 
 const appendText = (lines, text, options = {}) => {
-  const normalized = normalizeText(text)
+  const normalized = convertLatexDelimitersForMarkdown(normalizeText(text))
   if (!normalized) {
     return
   }
@@ -485,7 +506,7 @@ const buildFlowBlocks = (question, scope, options = {}) => {
   const blocks = []
 
   const pushTextBlock = (text) => {
-    const normalized = normalizeText(text)
+    const normalized = convertLatexDelimitersForMarkdown(normalizeText(text))
     if (!normalized) {
       return
     }
@@ -754,7 +775,9 @@ const buildMarkdown = (question) => {
     lines.push('', ...optionAssets)
   }
   lines.push('', '## Resposta correta', '')
-  if (correctAnswer) {
+  if (question.metadata?.annulled || question.correct_answer === null) {
+    lines.push('- Quest\u00e3o anulada.')
+  } else if (correctAnswer) {
     const option = (question.options || []).find(
       (item) => item.letter === correctAnswer
     )

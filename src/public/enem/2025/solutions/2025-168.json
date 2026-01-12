@@ -1,10 +1,10 @@
 {
   "question_id": "2025_q168",
   "final_answer": {
-    "letter": "B",
-    "value": "24"
+    "letter": null,
+    "value": "Questão anulada"
   },
-  "short_md": "Opção $1$: parcela $= 60\\,000/n$.\nOpção $2$: parcela $= 60\\,000/(n+6) = 60\\,000/n - 500$.\nEquação:\n\n$$\n\\begin{aligned}\n\\dfrac{60\\,000}{n+6} &= \\dfrac{60\\,000}{n} - 500 \\\\\nn^2 + 6n - 720 &= 0 \\\\\nn &= 24\n\\end{aligned}\n$$",
+  "short_md": "Opção $1$: parcela $= 60\\,000/n$.\nOpção $2$: parcela $= 60\\,000/(n+6) = 60\\,000/n - 500$.\nEquação:\n\n$$\n\\begin{aligned}\n\\dfrac{60\\,000}{n+6} &= \\dfrac{60\\,000}{n} - 500 \\\\\nn^2 + 6n - 720 &= 0 \\\\\nn &= 24\n\\end{aligned}\n$$\n\nIsso levaria à alternativa B, mas a questão foi anulada no gabarito oficial.",
   "steps": [
     {
       "title": "Fórmula e termos",
@@ -17,7 +17,11 @@
     {
       "title": "Resolver",
       "body_md": "$$\n\\begin{aligned}\n60\\,000n &= (n+6)(60\\,000 - 500n) \\\\\nn^2 + 6n - 720 &= 0 \\\\\n(n-24)(n+30)&=0 \\\\\nn &= 24\n\\end{aligned}\n$$"
+    },
+    {
+      "title": "Observação",
+      "body_md": "Questão anulada no gabarito oficial."
     }
   ],
-  "tts_text": "Na opcao 1, cada parcela vale 60 000 dividido por n. Na opcao 2, ha n mais 6 parcelas, e cada uma e 500 reais menor. Assim, 60 000 dividido por n mais 6 deve ser igual a 60 000 dividido por n menos 500. Resolvendo a equacao, obtemos n igual a 24. Portanto, a alternativa correta e a letra B."
+  "tts_text": "Na opção 1, cada parcela vale 60 mil reais dividido por n. Na opção 2, há n mais 6 parcelas, e cada uma é 500 reais menor. Assim, 60 mil dividido por n mais 6 deve ser igual a 60 mil dividido por n menos 500. Resolvendo a equação, obtemos n igual a 24, que corresponderia à alternativa B. Entretanto, a questão foi anulada no gabarito oficial."
 }
