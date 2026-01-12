@@ -1,14 +1,14 @@
 {
   "schema": "skepvox--demos-graph",
   "schemaVersion": 3,
-  "nodeCount": 37,
-  "edgeCount": 89,
+  "nodeCount": 42,
+  "edgeCount": 108,
   "nodes": [
     {
       "id": "case--8-de-janeiro-2023",
       "type": "case",
       "url": "/demos/casos/8-de-janeiro-2023",
-      "dataUrl": "/demos-data/notes/case--8-de-janeiro-2023.json",
+      "dataUrl": "/demos-data/notes-meta/case--8-de-janeiro-2023.json",
       "title": "8 de Janeiro de 2023 (Ataques em Brasília)",
       "description": "Linha do tempo e fontes públicas sobre os ataques de 8 de janeiro de 2023 em Brasília e seus desdobramentos.",
       "mapLabel": "8-jan",
@@ -26,7 +26,7 @@
       "id": "case--atentado-contra-jair-bolsonaro",
       "type": "case",
       "url": "/demos/casos/atentado-contra-jair-bolsonaro",
-      "dataUrl": "/demos-data/notes/case--atentado-contra-jair-bolsonaro.json",
+      "dataUrl": "/demos-data/notes-meta/case--atentado-contra-jair-bolsonaro.json",
       "title": "Atentado contra Jair Bolsonaro",
       "description": "Resumo, linha do tempo e fontes públicas sobre o atentado contra Jair Bolsonaro em 2018.",
       "mapLabel": "atentado-bolsonaro",
@@ -43,7 +43,7 @@
       "id": "case--caso-banco-master",
       "type": "case",
       "url": "/demos/casos/caso-banco-master",
-      "dataUrl": "/demos-data/notes/case--caso-banco-master.json",
+      "dataUrl": "/demos-data/notes-meta/case--caso-banco-master.json",
       "title": "Caso Banco Master",
       "description": "Linha do tempo e fontes públicas sobre a crise, investigações e liquidação do Banco Master.",
       "mapLabel": "master",
@@ -58,10 +58,28 @@
       "primaryRoles": []
     },
     {
+      "id": "case--cpmi-do-inss",
+      "type": "case",
+      "url": "/demos/casos/cpmi-do-inss",
+      "dataUrl": "/demos-data/notes-meta/case--cpmi-do-inss.json",
+      "title": "CPMI do INSS",
+      "description": "Linha do tempo e fontes públicas sobre a CPMI do INSS (Congresso/Senado), criada para apurar descontos não autorizados em benefícios.",
+      "mapLabel": "cpmi-inss",
+      "seed": false,
+      "seedId": "person--luiz-inacio-lula-da-silva",
+      "tags": [
+        "previdencia",
+        "inss",
+        "cpmi",
+        "senado"
+      ],
+      "primaryRoles": []
+    },
+    {
       "id": "case--invasao-sistemas-cnj",
       "type": "case",
       "url": "/demos/casos/invasao-sistemas-cnj",
-      "dataUrl": "/demos-data/notes/case--invasao-sistemas-cnj.json",
+      "dataUrl": "/demos-data/notes-meta/case--invasao-sistemas-cnj.json",
       "title": "Invasão aos sistemas do CNJ",
       "description": "Linha do tempo e fontes públicas sobre a invasão aos sistemas do CNJ e seus desdobramentos no STF.",
       "mapLabel": "cnj-invasao",
@@ -80,7 +98,7 @@
       "id": "case--operacao-lava-jato",
       "type": "case",
       "url": "/demos/casos/operacao-lava-jato",
-      "dataUrl": "/demos-data/notes/case--operacao-lava-jato.json",
+      "dataUrl": "/demos-data/notes-meta/case--operacao-lava-jato.json",
       "title": "Operação Lava Jato",
       "description": "Linha do tempo e fontes públicas sobre a Operação Lava Jato e eventos associados a Luiz Inácio Lula da Silva.",
       "mapLabel": "lava-jato",
@@ -94,10 +112,29 @@
       "primaryRoles": []
     },
     {
+      "id": "case--operacao-sem-desconto",
+      "type": "case",
+      "url": "/demos/casos/operacao-sem-desconto",
+      "dataUrl": "/demos-data/notes-meta/case--operacao-sem-desconto.json",
+      "title": "Operação Sem Desconto (PF/CGU)",
+      "description": "Linha do tempo e fontes públicas sobre a Operação Sem Desconto (PF/CGU), que apura descontos não autorizados em benefícios.",
+      "mapLabel": "sem-desconto",
+      "seed": false,
+      "seedId": "person--luiz-inacio-lula-da-silva",
+      "tags": [
+        "previdencia",
+        "inss",
+        "investigacao",
+        "pf",
+        "cgu"
+      ],
+      "primaryRoles": []
+    },
+    {
       "id": "case--operacao-spoofing",
       "type": "case",
       "url": "/demos/casos/operacao-spoofing",
-      "dataUrl": "/demos-data/notes/case--operacao-spoofing.json",
+      "dataUrl": "/demos-data/notes-meta/case--operacao-spoofing.json",
       "title": "Operação Spoofing",
       "description": "Linha do tempo e fontes públicas sobre a Operação Spoofing (PF), que investigou invasões a contas do Telegram de autoridades e seus desdobramentos judiciais.",
       "mapLabel": "spoofing",
@@ -116,7 +153,7 @@
       "id": "case--perseguicao-armada-sp-2022",
       "type": "case",
       "url": "/demos/casos/perseguicao-armada-sp-2022",
-      "dataUrl": "/demos-data/notes/case--perseguicao-armada-sp-2022.json",
+      "dataUrl": "/demos-data/notes-meta/case--perseguicao-armada-sp-2022.json",
       "title": "Perseguição armada em São Paulo (2022)",
       "description": "Linha do tempo e fontes públicas sobre o episódio de perseguição armada em São Paulo (2022) atribuído a Carla Zambelli e seus desdobramentos no STF.",
       "mapLabel": "zambelli-arma",
@@ -134,7 +171,7 @@
       "id": "case--sede-do-instituto-lula",
       "type": "case",
       "url": "/demos/casos/sede-do-instituto-lula",
-      "dataUrl": "/demos-data/notes/case--sede-do-instituto-lula.json",
+      "dataUrl": "/demos-data/notes-meta/case--sede-do-instituto-lula.json",
       "title": "Sede do Instituto Lula",
       "description": "Resumo, linha do tempo e fontes públicas sobre o caso envolvendo a suposta cessão de terreno para a nova sede do Instituto Lula (Lava Jato).",
       "mapLabel": "instituto-lula",
@@ -151,7 +188,7 @@
       "id": "case--sitio-de-atibaia",
       "type": "case",
       "url": "/demos/casos/sitio-de-atibaia",
-      "dataUrl": "/demos-data/notes/case--sitio-de-atibaia.json",
+      "dataUrl": "/demos-data/notes-meta/case--sitio-de-atibaia.json",
       "title": "Sítio de Atibaia",
       "description": "Resumo, linha do tempo e fontes públicas sobre o caso do sítio de Atibaia (Lava Jato) envolvendo Luiz Inácio Lula da Silva.",
       "mapLabel": "sitio-atibaia",
@@ -167,7 +204,7 @@
       "id": "case--triplex-do-guaruja",
       "type": "case",
       "url": "/demos/casos/triplex-do-guaruja",
-      "dataUrl": "/demos-data/notes/case--triplex-do-guaruja.json",
+      "dataUrl": "/demos-data/notes-meta/case--triplex-do-guaruja.json",
       "title": "Tríplex do Guarujá",
       "description": "Resumo, linha do tempo e fontes públicas sobre o caso do tríplex do Guarujá (Lava Jato) envolvendo Luiz Inácio Lula da Silva.",
       "mapLabel": "triplex-guaruja",
@@ -180,10 +217,27 @@
       "primaryRoles": []
     },
     {
+      "id": "org--banco-letsbank",
+      "type": "org",
+      "url": "/demos/organizacoes/banco-letsbank",
+      "dataUrl": "/demos-data/notes-meta/org--banco-letsbank.json",
+      "title": "Banco Letsbank",
+      "description": "Resumo factual e fontes públicas sobre o Banco Letsbank e seu vínculo com o caso de liquidação do Banco Master.",
+      "mapLabel": "letsbank",
+      "seed": false,
+      "seedId": "case--caso-banco-master",
+      "tags": [
+        "banco",
+        "sistema-financeiro",
+        "liquidacao"
+      ],
+      "primaryRoles": []
+    },
+    {
       "id": "org--banco-master",
       "type": "org",
       "url": "/demos/organizacoes/banco-master",
-      "dataUrl": "/demos-data/notes/org--banco-master.json",
+      "dataUrl": "/demos-data/notes-meta/org--banco-master.json",
       "title": "Banco Master",
       "description": "Resumo factual e fontes públicas sobre o Banco Master e seus desdobramentos no caso de liquidação extrajudicial.",
       "mapLabel": "banco-master",
@@ -198,10 +252,27 @@
       "primaryRoles": []
     },
     {
+      "id": "org--banco-master-de-investimento",
+      "type": "org",
+      "url": "/demos/organizacoes/banco-master-de-investimento",
+      "dataUrl": "/demos-data/notes-meta/org--banco-master-de-investimento.json",
+      "title": "Banco Master de Investimento",
+      "description": "Resumo factual e fontes públicas sobre o Banco Master de Investimento e seu vínculo com o caso de liquidação do Banco Master.",
+      "mapLabel": "master-inv",
+      "seed": false,
+      "seedId": "case--caso-banco-master",
+      "tags": [
+        "banco",
+        "sistema-financeiro",
+        "liquidacao"
+      ],
+      "primaryRoles": []
+    },
+    {
       "id": "org--central-unica-dos-trabalhadores-cut",
       "type": "org",
       "url": "/demos/organizacoes/central-unica-dos-trabalhadores-cut",
-      "dataUrl": "/demos-data/notes/org--central-unica-dos-trabalhadores-cut.json",
+      "dataUrl": "/demos-data/notes-meta/org--central-unica-dos-trabalhadores-cut.json",
       "title": "Central Única dos Trabalhadores (CUT)",
       "description": "Resumo factual e fontes públicas sobre a Central Única dos Trabalhadores (CUT).",
       "mapLabel": "CUT",
@@ -217,7 +288,7 @@
       "id": "org--partido-dos-trabalhadores-pt",
       "type": "org",
       "url": "/demos/organizacoes/partido-dos-trabalhadores-pt",
-      "dataUrl": "/demos-data/notes/org--partido-dos-trabalhadores-pt.json",
+      "dataUrl": "/demos-data/notes-meta/org--partido-dos-trabalhadores-pt.json",
       "title": "Partido dos Trabalhadores (PT)",
       "description": "Resumo factual e fontes públicas sobre o Partido dos Trabalhadores (PT).",
       "mapLabel": "PT",
@@ -233,7 +304,7 @@
       "id": "org--sindicato-dos-metalurgicos-do-abc",
       "type": "org",
       "url": "/demos/organizacoes/sindicato-dos-metalurgicos-do-abc",
-      "dataUrl": "/demos-data/notes/org--sindicato-dos-metalurgicos-do-abc.json",
+      "dataUrl": "/demos-data/notes-meta/org--sindicato-dos-metalurgicos-do-abc.json",
       "title": "Sindicato dos Metalúrgicos do ABC",
       "description": "Resumo factual e fontes públicas sobre o Sindicato dos Metalúrgicos de São Bernardo do Campo e Diadema (ABC paulista).",
       "mapLabel": "sindicato",
@@ -249,7 +320,7 @@
       "id": "person--adelio-bispo-de-oliveira",
       "type": "person",
       "url": "/demos/pessoas/adelio-bispo-de-oliveira",
-      "dataUrl": "/demos-data/notes/person--adelio-bispo-de-oliveira.json",
+      "dataUrl": "/demos-data/notes-meta/person--adelio-bispo-de-oliveira.json",
       "title": "Adélio Bispo de Oliveira",
       "description": "Linha do tempo e fontes públicas sobre Adélio Bispo de Oliveira.",
       "mapLabel": "adelio",
@@ -265,7 +336,7 @@
       "id": "person--alexandre-de-moraes",
       "type": "person",
       "url": "/demos/pessoas/alexandre-de-moraes",
-      "dataUrl": "/demos-data/notes/person--alexandre-de-moraes.json",
+      "dataUrl": "/demos-data/notes-meta/person--alexandre-de-moraes.json",
       "title": "Alexandre de Moraes",
       "description": "Linha do tempo e fontes públicas sobre Alexandre de Moraes, ministro do STF.",
       "mapLabel": "alexandre",
@@ -284,7 +355,7 @@
       "id": "person--andrei-augusto-passos-rodrigues",
       "type": "person",
       "url": "/demos/pessoas/andrei-augusto-passos-rodrigues",
-      "dataUrl": "/demos-data/notes/person--andrei-augusto-passos-rodrigues.json",
+      "dataUrl": "/demos-data/notes-meta/person--andrei-augusto-passos-rodrigues.json",
       "title": "Andrei Augusto Passos Rodrigues",
       "description": "Linha do tempo e fontes públicas sobre Andrei Augusto Passos Rodrigues, diretor-geral da Polícia Federal (PF).",
       "mapLabel": "andrei",
@@ -298,10 +369,28 @@
       "primaryRoles": []
     },
     {
+      "id": "person--antonio-carlos-camilo-antunes",
+      "type": "person",
+      "url": "/demos/pessoas/antonio-carlos-camilo-antunes",
+      "dataUrl": "/demos-data/notes-meta/person--antonio-carlos-camilo-antunes.json",
+      "title": "Antônio Carlos Camilo Antunes",
+      "description": "Linha do tempo e fontes públicas sobre Antônio Carlos Camilo Antunes, citado em reportagens como \"careca do INSS\".",
+      "mapLabel": "careca-inss",
+      "seed": false,
+      "seedId": "person--luiz-inacio-lula-da-silva",
+      "tags": [
+        "previdencia",
+        "inss",
+        "investigacao",
+        "cpmi"
+      ],
+      "primaryRoles": []
+    },
+    {
       "id": "person--carla-zambelli-salgado-de-oliveira",
       "type": "person",
       "url": "/demos/pessoas/carla-zambelli-salgado-de-oliveira",
-      "dataUrl": "/demos-data/notes/person--carla-zambelli-salgado-de-oliveira.json",
+      "dataUrl": "/demos-data/notes-meta/person--carla-zambelli-salgado-de-oliveira.json",
       "title": "Carla Zambelli Salgado de Oliveira",
       "description": "Linha do tempo e fontes públicas sobre Carla Zambelli Salgado de Oliveira, política brasileira e ex-deputada federal por SP.",
       "mapLabel": "zambelli",
@@ -322,7 +411,7 @@
       "id": "person--daniel-vorcaro",
       "type": "person",
       "url": "/demos/pessoas/daniel-vorcaro",
-      "dataUrl": "/demos-data/notes/person--daniel-vorcaro.json",
+      "dataUrl": "/demos-data/notes-meta/person--daniel-vorcaro.json",
       "title": "Daniel Bueno Vorcaro",
       "description": "Linha do tempo e fontes públicas sobre Daniel Bueno Vorcaro.",
       "mapLabel": "vorcaro",
@@ -339,7 +428,7 @@
       "id": "person--fabio-luis-lula-da-silva",
       "type": "person",
       "url": "/demos/pessoas/fabio-luis-lula-da-silva",
-      "dataUrl": "/demos-data/notes/person--fabio-luis-lula-da-silva.json",
+      "dataUrl": "/demos-data/notes-meta/person--fabio-luis-lula-da-silva.json",
       "title": "Fábio Luís Lula da Silva",
       "description": "Linha do tempo e fontes públicas sobre Fábio Luís Lula da Silva (Lulinha).",
       "mapLabel": "lulinha",
@@ -355,7 +444,7 @@
       "id": "person--flavio-dino",
       "type": "person",
       "url": "/demos/pessoas/flavio-dino",
-      "dataUrl": "/demos-data/notes/person--flavio-dino.json",
+      "dataUrl": "/demos-data/notes-meta/person--flavio-dino.json",
       "title": "Flávio Dino",
       "description": "Linha do tempo e fontes públicas sobre Flávio Dino.",
       "mapLabel": "dino",
@@ -374,7 +463,7 @@
       "id": "person--guido-mantega",
       "type": "person",
       "url": "/demos/pessoas/guido-mantega",
-      "dataUrl": "/demos-data/notes/person--guido-mantega.json",
+      "dataUrl": "/demos-data/notes-meta/person--guido-mantega.json",
       "title": "Guido Mantega",
       "description": "Linha do tempo e fontes públicas sobre Guido Mantega.",
       "mapLabel": "mantega",
@@ -391,7 +480,7 @@
       "id": "person--henrique-meirelles",
       "type": "person",
       "url": "/demos/pessoas/henrique-meirelles",
-      "dataUrl": "/demos-data/notes/person--henrique-meirelles.json",
+      "dataUrl": "/demos-data/notes-meta/person--henrique-meirelles.json",
       "title": "Henrique Meirelles",
       "description": "Linha do tempo e fontes públicas sobre Henrique Meirelles.",
       "mapLabel": "meirelles",
@@ -408,7 +497,7 @@
       "id": "person--jair-messias-bolsonaro",
       "type": "person",
       "url": "/demos/pessoas/jair-messias-bolsonaro",
-      "dataUrl": "/demos-data/notes/person--jair-messias-bolsonaro.json",
+      "dataUrl": "/demos-data/notes-meta/person--jair-messias-bolsonaro.json",
       "title": "Jair Messias Bolsonaro",
       "description": "Linha do tempo e fontes públicas sobre Jair Messias Bolsonaro.",
       "mapLabel": "bolsonaro",
@@ -427,7 +516,7 @@
       "id": "person--jaques-wagner",
       "type": "person",
       "url": "/demos/pessoas/jaques-wagner",
-      "dataUrl": "/demos-data/notes/person--jaques-wagner.json",
+      "dataUrl": "/demos-data/notes-meta/person--jaques-wagner.json",
       "title": "Jaques Wagner",
       "description": "Linha do tempo e fontes públicas sobre Jaques Wagner.",
       "mapLabel": "jaques-wagner",
@@ -447,7 +536,7 @@
       "id": "person--jose-antonio-dias-toffoli",
       "type": "person",
       "url": "/demos/pessoas/jose-antonio-dias-toffoli",
-      "dataUrl": "/demos-data/notes/person--jose-antonio-dias-toffoli.json",
+      "dataUrl": "/demos-data/notes-meta/person--jose-antonio-dias-toffoli.json",
       "title": "José Antonio Dias Toffoli",
       "description": "Linha do tempo e fontes públicas sobre José Antonio Dias Toffoli, ministro do STF.",
       "mapLabel": "toffoli",
@@ -470,7 +559,7 @@
       "id": "person--luiz-edson-fachin",
       "type": "person",
       "url": "/demos/pessoas/luiz-edson-fachin",
-      "dataUrl": "/demos-data/notes/person--luiz-edson-fachin.json",
+      "dataUrl": "/demos-data/notes-meta/person--luiz-edson-fachin.json",
       "title": "Luiz Edson Fachin",
       "description": "Linha do tempo e fontes públicas sobre Luiz Edson Fachin, ministro e presidente do STF.",
       "mapLabel": "fachin",
@@ -490,7 +579,7 @@
       "id": "person--luiz-fux",
       "type": "person",
       "url": "/demos/pessoas/luiz-fux",
-      "dataUrl": "/demos-data/notes/person--luiz-fux.json",
+      "dataUrl": "/demos-data/notes-meta/person--luiz-fux.json",
       "title": "Luiz Fux",
       "description": "Linha do tempo e fontes públicas sobre Luiz Fux, ministro do STF.",
       "mapLabel": "fux",
@@ -507,7 +596,7 @@
       "id": "person--luiz-inacio-lula-da-silva",
       "type": "person",
       "url": "/demos/pessoas/luiz-inacio-lula-da-silva",
-      "dataUrl": "/demos-data/notes/person--luiz-inacio-lula-da-silva.json",
+      "dataUrl": "/demos-data/notes-meta/person--luiz-inacio-lula-da-silva.json",
       "title": "Luiz Inácio Lula da Silva",
       "description": "Linha do tempo e fontes públicas sobre Luiz Inácio Lula da Silva, presidente do Brasil.",
       "mapLabel": "lula",
@@ -526,7 +615,7 @@
       "id": "person--paulo-gonet-branco",
       "type": "person",
       "url": "/demos/pessoas/paulo-gonet-branco",
-      "dataUrl": "/demos-data/notes/person--paulo-gonet-branco.json",
+      "dataUrl": "/demos-data/notes-meta/person--paulo-gonet-branco.json",
       "title": "Paulo Gonet Branco",
       "description": "Linha do tempo e fontes públicas sobre Paulo Gonet Branco.",
       "mapLabel": "gonet",
@@ -544,7 +633,7 @@
       "id": "person--ricardo-lewandowski",
       "type": "person",
       "url": "/demos/pessoas/ricardo-lewandowski",
-      "dataUrl": "/demos-data/notes/person--ricardo-lewandowski.json",
+      "dataUrl": "/demos-data/notes-meta/person--ricardo-lewandowski.json",
       "title": "Ricardo Lewandowski",
       "description": "Linha do tempo e fontes públicas sobre Ricardo Lewandowski.",
       "mapLabel": "lewandowski",
@@ -563,7 +652,7 @@
       "id": "person--rodrigo-morais-fernandes",
       "type": "person",
       "url": "/demos/pessoas/rodrigo-morais-fernandes",
-      "dataUrl": "/demos-data/notes/person--rodrigo-morais-fernandes.json",
+      "dataUrl": "/demos-data/notes-meta/person--rodrigo-morais-fernandes.json",
       "title": "Rodrigo Morais Fernandes",
       "description": "Linha do tempo e fontes públicas sobre Rodrigo Morais Fernandes.",
       "mapLabel": "rodrigo-morais",
@@ -581,7 +670,7 @@
       "id": "person--rui-costa",
       "type": "person",
       "url": "/demos/pessoas/rui-costa",
-      "dataUrl": "/demos-data/notes/person--rui-costa.json",
+      "dataUrl": "/demos-data/notes-meta/person--rui-costa.json",
       "title": "Rui Costa",
       "description": "Linha do tempo e fontes públicas sobre Rui Costa.",
       "mapLabel": "rui-costa",
@@ -600,7 +689,7 @@
       "id": "person--sergio-fernando-moro",
       "type": "person",
       "url": "/demos/pessoas/sergio-fernando-moro",
-      "dataUrl": "/demos-data/notes/person--sergio-fernando-moro.json",
+      "dataUrl": "/demos-data/notes-meta/person--sergio-fernando-moro.json",
       "title": "Sergio Fernando Moro",
       "description": "Linha do tempo e fontes públicas sobre Sergio Fernando Moro, senador pelo Paraná e ex-juiz federal.",
       "mapLabel": "moro",
@@ -618,7 +707,7 @@
       "id": "person--viviane-barci-de-moraes",
       "type": "person",
       "url": "/demos/pessoas/viviane-barci-de-moraes",
-      "dataUrl": "/demos-data/notes/person--viviane-barci-de-moraes.json",
+      "dataUrl": "/demos-data/notes-meta/person--viviane-barci-de-moraes.json",
       "title": "Viviane Barci de Moraes",
       "description": "Linha do tempo e fontes públicas sobre Viviane Barci de Moraes.",
       "mapLabel": "viviane",
@@ -635,7 +724,7 @@
       "id": "person--walter-delgatti-neto",
       "type": "person",
       "url": "/demos/pessoas/walter-delgatti-neto",
-      "dataUrl": "/demos-data/notes/person--walter-delgatti-neto.json",
+      "dataUrl": "/demos-data/notes-meta/person--walter-delgatti-neto.json",
       "title": "Walter Delgatti Neto",
       "description": "Linha do tempo e fontes públicas sobre Walter Delgatti Neto, conhecido como “hacker de Araraquara”.",
       "mapLabel": "walter-delgatti",
@@ -657,7 +746,7 @@
       "id": "person--zanone-manoel-de-oliveira-junior",
       "type": "person",
       "url": "/demos/pessoas/zanone-manoel-de-oliveira-junior",
-      "dataUrl": "/demos-data/notes/person--zanone-manoel-de-oliveira-junior.json",
+      "dataUrl": "/demos-data/notes-meta/person--zanone-manoel-de-oliveira-junior.json",
       "title": "Zanone Manoel de Oliveira Júnior",
       "description": "Linha do tempo e fontes públicas sobre Zanone Manoel de Oliveira Júnior.",
       "mapLabel": "zanone",
@@ -748,7 +837,25 @@
     },
     {
       "source": "case--caso-banco-master",
+      "target": "org--banco-letsbank",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Organizações relacionadas": 1
+      }
+    },
+    {
+      "source": "case--caso-banco-master",
       "target": "org--banco-master",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Organizações relacionadas": 1
+      }
+    },
+    {
+      "source": "case--caso-banco-master",
+      "target": "org--banco-master-de-investimento",
       "kind": "related",
       "count": 1,
       "sections": {
@@ -830,6 +937,33 @@
     {
       "source": "case--caso-banco-master",
       "target": "person--viviane-barci-de-moraes",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--cpmi-do-inss",
+      "target": "case--operacao-sem-desconto",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "case--cpmi-do-inss",
+      "target": "person--antonio-carlos-camilo-antunes",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--cpmi-do-inss",
+      "target": "person--fabio-luis-lula-da-silva",
       "kind": "related",
       "count": 1,
       "sections": {
@@ -929,6 +1063,24 @@
     {
       "source": "case--operacao-lava-jato",
       "target": "person--sergio-fernando-moro",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--operacao-sem-desconto",
+      "target": "case--cpmi-do-inss",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "case--operacao-sem-desconto",
+      "target": "person--antonio-carlos-camilo-antunes",
       "kind": "related",
       "count": 1,
       "sections": {
@@ -1053,6 +1205,33 @@
       }
     },
     {
+      "source": "org--banco-letsbank",
+      "target": "case--caso-banco-master",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "org--banco-letsbank",
+      "target": "org--banco-master",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Organizações relacionadas": 1
+      }
+    },
+    {
+      "source": "org--banco-letsbank",
+      "target": "org--banco-master-de-investimento",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Organizações relacionadas": 1
+      }
+    },
+    {
       "source": "org--banco-master",
       "target": "case--caso-banco-master",
       "kind": "related",
@@ -1063,11 +1242,56 @@
     },
     {
       "source": "org--banco-master",
+      "target": "org--banco-letsbank",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Organizações relacionadas": 1
+      }
+    },
+    {
+      "source": "org--banco-master",
+      "target": "org--banco-master-de-investimento",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Organizações relacionadas": 1
+      }
+    },
+    {
+      "source": "org--banco-master",
       "target": "person--daniel-vorcaro",
       "kind": "related",
       "count": 1,
       "sections": {
         "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "org--banco-master-de-investimento",
+      "target": "case--caso-banco-master",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "org--banco-master-de-investimento",
+      "target": "org--banco-letsbank",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Organizações relacionadas": 1
+      }
+    },
+    {
+      "source": "org--banco-master-de-investimento",
+      "target": "org--banco-master",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Organizações relacionadas": 1
       }
     },
     {
@@ -1152,6 +1376,24 @@
       }
     },
     {
+      "source": "person--antonio-carlos-camilo-antunes",
+      "target": "case--cpmi-do-inss",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--antonio-carlos-camilo-antunes",
+      "target": "case--operacao-sem-desconto",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
       "source": "person--carla-zambelli-salgado-de-oliveira",
       "target": "case--invasao-sistemas-cnj",
       "kind": "related",
@@ -1185,6 +1427,24 @@
       "count": 1,
       "sections": {
         "Organizações relacionadas": 1
+      }
+    },
+    {
+      "source": "person--fabio-luis-lula-da-silva",
+      "target": "case--cpmi-do-inss",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--fabio-luis-lula-da-silva",
+      "target": "case--operacao-sem-desconto",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
       }
     },
     {

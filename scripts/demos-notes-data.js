@@ -31,8 +31,11 @@ const DEMOS_ENTITY_DIRS = [
 
 const OUT_DIR = path.join(ROOT, 'src', 'public', 'demos-data')
 const OUT_NOTES_DIR = path.join(OUT_DIR, 'notes')
+const OUT_NOTES_META_DIR = path.join(OUT_DIR, 'notes-meta')
+const OUT_SUBGRAPHS_DIR = path.join(OUT_DIR, 'subgraphs')
 const OUT_JSONL = path.join(OUT_DIR, 'notes.jsonl')
 const OUT_GRAPH = path.join(OUT_DIR, 'graph.json')
+const OUT_QUESTIONS = path.join(OUT_DIR, 'questions.json')
 
 function sha256(input) {
   return crypto.createHash('sha256').update(input).digest('hex')
@@ -348,7 +351,7 @@ function buildGraph({ notes, urlToId }) {
       id: note.demos.id,
       type: note.demos.type,
       url: note.url,
-      dataUrl: `/demos-data/notes/${note.demos.id}.json`,
+      dataUrl: `/demos-data/notes-meta/${note.demos.id}.json`,
       title: note.title ?? null,
       description: note.description ?? null,
       mapLabel: typeof note.demos.mapLabel === 'string' ? note.demos.mapLabel : null,
@@ -440,10 +443,206 @@ function buildGraph({ notes, urlToId }) {
   }
 }
 
+function buildQuestionsIndex({ notes }) {
+  const noteByUrl = new Map()
+  for (const note of notes) {
+    if (!note?.url) continue
+    noteByUrl.set(note.url, note)
+  }
+
+  const issues = {
+    missingBacklinks: [],
+    inconsistentStates: [],
+    orphanQuestions: [],
+    missingTargetQuestions: []
+  }
+
+  const questions = []
+  const questionById = new Map()
+
+  for (const note of notes) {
+    for (const q of note.openQuestions ?? []) {
+      const question = {
+        id: q.id,
+        state: q.state ?? null,
+        question: q.question ?? null,
+        hypothesis: q.hypothesis ?? null,
+        counterHypothesis: q.counterHypothesis ?? null,
+        nextSteps: q.nextSteps ?? null,
+        container: {
+          id: note.demos.id,
+          type: note.demos.type,
+          url: note.url,
+          title: note.title ?? null
+        },
+        advancingNotes: (q.advancingNotes ?? []).map((url) => {
+          const target = noteByUrl.get(url) ?? null
+          return {
+            url,
+            id: target?.demos?.id ?? null,
+            type: target?.demos?.type ?? null,
+            title: target?.title ?? null
+          }
+        }),
+        targetedBy: []
+      }
+
+      questions.push(question)
+      questionById.set(question.id, question)
+    }
+  }
+
+  for (const note of notes) {
+    const targets = Array.isArray(note.demos?.['target-questions'])
+      ? note.demos['target-questions']
+      : []
+    for (const questionId of targets) {
+      const question = questionById.get(questionId)
+      if (!question) {
+        issues.missingTargetQuestions.push({
+          questionId,
+          targetNoteId: note.demos.id
+        })
+        continue
+      }
+      question.targetedBy.push({
+        id: note.demos.id,
+        type: note.demos.type,
+        url: note.url,
+        title: note.title ?? null
+      })
+    }
+  }
+
+  const countsByState = {}
+
+  for (const question of questions) {
+    const state = question.state ?? 'missing'
+    countsByState[state] = (countsByState[state] ?? 0) + 1
+
+    question.targetedBy.sort((a, b) => a.id.localeCompare(b.id))
+    question.advancingNotes.sort((a, b) => (a.id ?? a.url).localeCompare(b.id ?? b.url))
+
+    const advancingUrls = new Set(question.advancingNotes.map((item) => item.url))
+
+    for (const target of question.targetedBy) {
+      if (!advancingUrls.has(target.url)) {
+        issues.missingBacklinks.push({
+          questionId: question.id,
+          questionIn: question.container.id,
+          targetNoteId: target.id
+        })
+      }
+    }
+
+    const hasWork = question.targetedBy.length > 0 || question.advancingNotes.length > 0
+
+    if (!hasWork) {
+      issues.orphanQuestions.push({
+        questionId: question.id,
+        questionIn: question.container.id
+      })
+    }
+
+    if (question.state === 'aberta' && hasWork) {
+      issues.inconsistentStates.push({
+        questionId: question.id,
+        questionIn: question.container.id,
+        state: question.state,
+        targetedByCount: question.targetedBy.length,
+        advancingNotesCount: question.advancingNotes.length
+      })
+    }
+
+    if (question.state === 'em-apuracao' && !hasWork) {
+      issues.inconsistentStates.push({
+        questionId: question.id,
+        questionIn: question.container.id,
+        state: question.state,
+        targetedByCount: question.targetedBy.length,
+        advancingNotesCount: question.advancingNotes.length
+      })
+    }
+  }
+
+  issues.missingBacklinks.sort((a, b) => a.questionId.localeCompare(b.questionId) || a.targetNoteId.localeCompare(b.targetNoteId))
+  issues.inconsistentStates.sort((a, b) => a.questionId.localeCompare(b.questionId))
+  issues.orphanQuestions.sort((a, b) => a.questionIn.localeCompare(b.questionIn) || a.questionId.localeCompare(b.questionId))
+  issues.missingTargetQuestions.sort((a, b) => a.questionId.localeCompare(b.questionId) || a.targetNoteId.localeCompare(b.targetNoteId))
+
+  const sourceSha256 = sha256(
+    notes
+      .map((note) => `${note.demos.id}:${note.source.sha256}`)
+      .sort()
+      .join('\n')
+  )
+
+  return {
+    schema: 'skepvox--demos-questions',
+    schemaVersion: 1,
+    source: { sha256: sourceSha256 },
+    questionCount: questions.length,
+    countsByState,
+    questions,
+    issues
+  }
+}
+
+function extractSubgraph(graph, focusId) {
+  const nodeById = new Map(graph.nodes.map((n) => [n.id, n]))
+
+  // Build adjacency map (bidirectional)
+  const neighbors = new Map()
+  for (const edge of graph.edges) {
+    if (!neighbors.has(edge.source)) neighbors.set(edge.source, new Set())
+    if (!neighbors.has(edge.target)) neighbors.set(edge.target, new Set())
+    neighbors.get(edge.source).add(edge.target)
+    neighbors.get(edge.target).add(edge.source)
+  }
+
+  // Find 1-hop neighbors
+  const hop1 = neighbors.get(focusId) ?? new Set()
+
+  // Find 2-hop neighbors (neighbors of 1-hop, excluding focus and 1-hop)
+  const hop2 = new Set()
+  for (const h1Id of hop1) {
+    for (const h2Id of neighbors.get(h1Id) ?? []) {
+      if (h2Id !== focusId && !hop1.has(h2Id)) {
+        hop2.add(h2Id)
+      }
+    }
+  }
+
+  // Collect all node IDs in subgraph
+  const subgraphNodeIds = new Set([focusId, ...hop1, ...hop2])
+
+  // Filter nodes - keep ALL original fields from graph.json (same schema)
+  const nodes = [...subgraphNodeIds]
+    .map((id) => nodeById.get(id))
+    .filter((n) => n != null)
+    .sort((a, b) => a.id.localeCompare(b.id))
+
+  // Filter edges - keep ALL original fields (same schema)
+  const edges = graph.edges
+    .filter((e) => subgraphNodeIds.has(e.source) && subgraphNodeIds.has(e.target))
+
+  // Return same schema as graph.json, plus focusId for the component
+  return {
+    schema: 'skepvox--demos-graph',
+    schemaVersion: 3,
+    focusId,
+    nodeCount: nodes.length,
+    edgeCount: edges.length,
+    nodes,
+    edges
+  }
+}
+
 async function exportNotes() {
   const files = await collectEntityMarkdownFiles()
 
   const notes = []
+  const notesMeta = []
   const errors = []
 
   for (const { entity, filePath } of files) {
@@ -530,17 +729,41 @@ async function exportNotes() {
     }
 
     notes.push(note)
+
+    notesMeta.push({
+      schema: 'skepvox--demos-note-meta',
+      schemaVersion: 1,
+      source: note.source,
+      id: note.id,
+      type: note.type,
+      url: note.url,
+      title: note.title,
+      description: note.description,
+      updatedAt: note.updatedAt,
+      demos: note.demos,
+      openQuestions: note.openQuestions
+    })
   }
 
   notes.sort((a, b) => a.id.localeCompare(b.id))
+  notesMeta.sort((a, b) => a.id.localeCompare(b.id))
 
   await fs.mkdir(OUT_NOTES_DIR, { recursive: true })
+  await fs.mkdir(OUT_NOTES_META_DIR, { recursive: true })
 
   let changedCount = 0
   for (const note of notes) {
     const outPath = path.join(OUT_NOTES_DIR, `${note.id}.json`)
     const result = await writeFileIfChanged(outPath, `${JSON.stringify(note, null, 2)}\n`)
     if (result.changed) changedCount += 1
+  }
+
+  let metaCount = 0
+  for (const noteMeta of notesMeta) {
+    const outPath = path.join(OUT_NOTES_META_DIR, `${noteMeta.id}.json`)
+    const result = await writeFileIfChanged(outPath, `${JSON.stringify(noteMeta, null, 2)}\n`)
+    if (result.changed) changedCount += 1
+    metaCount += 1
   }
 
   const jsonl = notes.map((note) => JSON.stringify(note)).join('\n') + '\n'
@@ -552,7 +775,22 @@ async function exportNotes() {
   const graphResult = await writeFileIfChanged(OUT_GRAPH, `${JSON.stringify(graph, null, 2)}\n`)
   if (graphResult.changed) changedCount += 1
 
-  return { notes, errors, changedCount }
+  const questionsIndex = buildQuestionsIndex({ notes })
+  const questionsResult = await writeFileIfChanged(OUT_QUESTIONS, `${JSON.stringify(questionsIndex, null, 2)}\n`)
+  if (questionsResult.changed) changedCount += 1
+
+  // Generate subgraphs for each entity
+  await fs.mkdir(OUT_SUBGRAPHS_DIR, { recursive: true })
+  let subgraphCount = 0
+  for (const note of notes) {
+    const subgraph = extractSubgraph(graph, note.demos.id)
+    const outPath = path.join(OUT_SUBGRAPHS_DIR, `${note.demos.id}.json`)
+    const result = await writeFileIfChanged(outPath, `${JSON.stringify(subgraph, null, 2)}\n`)
+    if (result.changed) changedCount += 1
+    subgraphCount += 1
+  }
+
+  return { notes, metaCount, errors, changedCount, subgraphCount, questionCount: questionsIndex.questionCount }
 }
 
 async function importNotes({ fromDir = OUT_NOTES_DIR } = {}) {
@@ -615,8 +853,11 @@ function usage() {
     '',
     'Outputs (export):',
     '  src/public/demos-data/notes/<demos.id>.json',
+    '  src/public/demos-data/notes-meta/<demos.id>.json',
+    '  src/public/demos-data/subgraphs/<demos.id>.json',
     '  src/public/demos-data/notes.jsonl',
     '  src/public/demos-data/graph.json',
+    '  src/public/demos-data/questions.json',
     ''
   ].join('\n')
 }
@@ -640,7 +881,7 @@ async function main() {
       process.exitCode = 1
     }
     console.log(
-      `Exported ${result.notes.length} notes (${result.changedCount} files changed).`
+      `Exported ${result.notes.length} notes, ${result.metaCount} note meta files, ${result.subgraphCount} subgraphs (${result.changedCount} files changed).`
     )
     return
   }

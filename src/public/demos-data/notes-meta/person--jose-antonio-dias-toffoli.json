@@ -1,0 +1,68 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/pessoas/jose-antonio-dias-toffoli.md",
+    "sha256": "ebed6fd6edfc8a9492acb79eec9ac9a294183d4a1a1936cf5ed1c2ad0ea761ab"
+  },
+  "id": "person--jose-antonio-dias-toffoli",
+  "type": "person",
+  "url": "/demos/pessoas/jose-antonio-dias-toffoli",
+  "title": "José Antonio Dias Toffoli",
+  "description": "Linha do tempo e fontes públicas sobre José Antonio Dias Toffoli, ministro do STF.",
+  "updatedAt": "2026-01-09",
+  "demos": {
+    "id": "person--jose-antonio-dias-toffoli",
+    "type": "person",
+    "mapLabel": "toffoli",
+    "portrait": "jose-antonio-dias-toffoli.png",
+    "seed": "yes",
+    "seed-id": "person--jose-antonio-dias-toffoli",
+    "country": "BR",
+    "identifiers": {
+      "wikidata": "Q10266077",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Dias_Toffoli",
+      "tse": "https://www.tse.jus.br/institucional/ministros/ministro-jose-antonio-dias-toffoli",
+      "cv-agu-2009-archived": "https://web.archive.org/web/20090823155421/http://www.agu.gov.br/Sistemas/Site/PaginasInternas/Download/institucional/ministro/CurriculumToffoli.pdf"
+    },
+    "aliases": [
+      "Dias Toffoli",
+      "José Antonio Dias Toffoli",
+      "José Antônio Dias Toffoli"
+    ],
+    "tags": [
+      "judiciario",
+      "stf",
+      "tse",
+      "agu",
+      "politica"
+    ],
+    "primaryRoles": [
+      "role--ministro-do-stf",
+      "role--presidente-do-stf",
+      "role--presidente-do-tse"
+    ]
+  },
+  "openQuestions": [
+    {
+      "id": "q--person--jose-antonio-dias-toffoli--001",
+      "question": "como ex-integrante do governo (Casa Civil/AGU) e ex-advogado ligado ao [PT](/demos/organizacoes/partido-dos-trabalhadores-pt), em quais casos Toffoli declarou impedimento/suspeição e em quais não declarou — e qual o padrão justificável por documentos?",
+      "state": "aberta",
+      "hypothesis": "existe um padrão materialmente relevante (e detectável por documentos) de decisões de impedimento/suspeição que merece auditoria por caso.",
+      "counterHypothesis": "o conjunto de impedimentos/suspeições (ou ausência deles) é consistente com as regras aplicáveis e com prática institucional comparável.",
+      "nextSteps": "levantar lista de processos relevantes; decisões de impedimento; atas; peças de declaração/recusa; e cronologia pública por processo.",
+      "advancingNotes": []
+    },
+    {
+      "id": "q--person--jose-antonio-dias-toffoli--002",
+      "question": "decisões sobre acordos de leniência (Odebrecht/Novonor) e sobre materiais da [Operação Spoofing](/demos/casos/operacao-spoofing) têm fundamentos e limites consistentes com a jurisprudência do STF — ou abrem uma janela de impacto sistêmico desproporcional?",
+      "state": "em-apuracao",
+      "hypothesis": "decisões sobre leniências e/ou sobre o uso do material da Spoofing produzem efeitos sistêmicos desproporcionais em relação aos fundamentos explicitados.",
+      "counterHypothesis": "as decisões refletem principalmente garantias processuais (devido processo, licitude da prova, voluntariedade de acordos) e padrões de nulidade, sem exigir postular “interferência externa”.",
+      "nextSteps": "ler decisão integral, anexos e fundamentos; mapear efeitos em ações penais/cíveis; comparar com decisões análogas e com posicionamentos de outros ministros.",
+      "advancingNotes": [
+        "/demos/casos/operacao-spoofing"
+      ]
+    }
+  ]
+}

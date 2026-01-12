@@ -28,6 +28,8 @@ documentado publicamente.
 
 _Última atualização: 2026-01-11. ID Skepvox: `case--invasao-sistemas-cnj`._
 
+<DemosEntityMap />
+
 ## Situação atual
 
 - Status (processo, segundo cobertura): há registros públicos de indiciamento pela PF (2024), denúncia pela PGR (2024), recebimento de denúncia no STF (2024) e condenação no STF (2025), com menção de trânsito em julgado e execução/“prisão definitiva” (2025) em cobertura. Fontes: [G1 (2024-02-29)](https://g1.globo.com/politica/blog/andreia-sadi/post/2024/02/29/pf-indicia-carla-zambelli-e-hacker-walter-delgatti-por-invasao-do-site-do-cnj.ghtml), [G1 (2024-05-21)](https://g1.globo.com/politica/noticia/2024/05/21/primeira-turma-stf-denuncia-carla-zambelli-walter-delgatti.ghtml), [G1 (2025-05-14)](https://g1.globo.com/politica/noticia/2025/05/14/stf-tem-unanimidade-para-condenar-zambelli.ghtml), [Migalhas (2025-06-07)](https://www.migalhas.com.br/quentes/432113/stf-determina-prisao-definitiva-de-zambelli-e-delgatti).

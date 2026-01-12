@@ -28,6 +28,8 @@ do que está documentado.
 
 _Última atualização: 2026-01-09. ID Skepvox: `case--sitio-de-atibaia`._
 
+<DemosEntityMap />
+
 ## Situação atual
 
 - Status: houve condenações em 1ª (2019) e 2ª instância (2019), mas o STF confirmou em 2021 a anulação das condenações ligadas à Lava Jato em decisão sobre competência (segundo notícia institucional). Fontes: [TRF4](https://www.trf4.jus.br/trf4/controlador.php?acao=noticia_visualizar&id_noticia=14914), [STF](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1).

@@ -105,8 +105,6 @@ export const renderQ154Displacement = (input: ChartRenderInput): ChartInstance =
       const angle = Math.atan2(y2 - y1, x2 - x1)
       const lineLen = Math.sqrt((x2 - x1) ** 2 + (y2 - y1) ** 2)
       if (lineLen === 0) return
-      const dx = (x2 - x1) / lineLen
-      const dy = (y2 - y1) / lineLen
 
       // Draw main line
       panelG.append('line')

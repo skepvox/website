@@ -1,0 +1,191 @@
+{
+  "schema": "skepvox--demos-graph",
+  "schemaVersion": 3,
+  "focusId": "case--operacao-sem-desconto",
+  "nodeCount": 5,
+  "edgeCount": 10,
+  "nodes": [
+    {
+      "id": "case--cpmi-do-inss",
+      "type": "case",
+      "url": "/demos/casos/cpmi-do-inss",
+      "dataUrl": "/demos-data/notes-meta/case--cpmi-do-inss.json",
+      "title": "CPMI do INSS",
+      "description": "Linha do tempo e fontes públicas sobre a CPMI do INSS (Congresso/Senado), criada para apurar descontos não autorizados em benefícios.",
+      "mapLabel": "cpmi-inss",
+      "seed": false,
+      "seedId": "person--luiz-inacio-lula-da-silva",
+      "tags": [
+        "previdencia",
+        "inss",
+        "cpmi",
+        "senado"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "case--operacao-sem-desconto",
+      "type": "case",
+      "url": "/demos/casos/operacao-sem-desconto",
+      "dataUrl": "/demos-data/notes-meta/case--operacao-sem-desconto.json",
+      "title": "Operação Sem Desconto (PF/CGU)",
+      "description": "Linha do tempo e fontes públicas sobre a Operação Sem Desconto (PF/CGU), que apura descontos não autorizados em benefícios.",
+      "mapLabel": "sem-desconto",
+      "seed": false,
+      "seedId": "person--luiz-inacio-lula-da-silva",
+      "tags": [
+        "previdencia",
+        "inss",
+        "investigacao",
+        "pf",
+        "cgu"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "person--antonio-carlos-camilo-antunes",
+      "type": "person",
+      "url": "/demos/pessoas/antonio-carlos-camilo-antunes",
+      "dataUrl": "/demos-data/notes-meta/person--antonio-carlos-camilo-antunes.json",
+      "title": "Antônio Carlos Camilo Antunes",
+      "description": "Linha do tempo e fontes públicas sobre Antônio Carlos Camilo Antunes, citado em reportagens como \"careca do INSS\".",
+      "mapLabel": "careca-inss",
+      "seed": false,
+      "seedId": "person--luiz-inacio-lula-da-silva",
+      "tags": [
+        "previdencia",
+        "inss",
+        "investigacao",
+        "cpmi"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "person--fabio-luis-lula-da-silva",
+      "type": "person",
+      "url": "/demos/pessoas/fabio-luis-lula-da-silva",
+      "dataUrl": "/demos-data/notes-meta/person--fabio-luis-lula-da-silva.json",
+      "title": "Fábio Luís Lula da Silva",
+      "description": "Linha do tempo e fontes públicas sobre Fábio Luís Lula da Silva (Lulinha).",
+      "mapLabel": "lulinha",
+      "seed": false,
+      "seedId": "person--luiz-inacio-lula-da-silva",
+      "tags": [
+        "familia",
+        "empresariado"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "person--luiz-inacio-lula-da-silva",
+      "type": "person",
+      "url": "/demos/pessoas/luiz-inacio-lula-da-silva",
+      "dataUrl": "/demos-data/notes-meta/person--luiz-inacio-lula-da-silva.json",
+      "title": "Luiz Inácio Lula da Silva",
+      "description": "Linha do tempo e fontes públicas sobre Luiz Inácio Lula da Silva, presidente do Brasil.",
+      "mapLabel": "lula",
+      "seed": true,
+      "seedId": "person--luiz-inacio-lula-da-silva",
+      "tags": [
+        "politica",
+        "executivo",
+        "brasil"
+      ],
+      "primaryRoles": [
+        "role--presidente-do-brasil"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": "case--cpmi-do-inss",
+      "target": "case--operacao-sem-desconto",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "case--cpmi-do-inss",
+      "target": "person--antonio-carlos-camilo-antunes",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--cpmi-do-inss",
+      "target": "person--fabio-luis-lula-da-silva",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--operacao-sem-desconto",
+      "target": "case--cpmi-do-inss",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "case--operacao-sem-desconto",
+      "target": "person--antonio-carlos-camilo-antunes",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "person--antonio-carlos-camilo-antunes",
+      "target": "case--cpmi-do-inss",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--antonio-carlos-camilo-antunes",
+      "target": "case--operacao-sem-desconto",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--fabio-luis-lula-da-silva",
+      "target": "case--cpmi-do-inss",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--fabio-luis-lula-da-silva",
+      "target": "case--operacao-sem-desconto",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--fabio-luis-lula-da-silva",
+      "target": "person--luiz-inacio-lula-da-silva",
+      "kind": "family",
+      "count": 1,
+      "sections": {
+        "Relações familiares": 1
+      }
+    }
+  ]
+}

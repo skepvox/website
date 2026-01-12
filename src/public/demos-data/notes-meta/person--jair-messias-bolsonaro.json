@@ -1,0 +1,74 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/pessoas/jair-messias-bolsonaro.md",
+    "sha256": "fe0e22f35bb8feb334ba694edf3dbc43c0f090d0a411d80fb88c8f57c7e1d90c"
+  },
+  "id": "person--jair-messias-bolsonaro",
+  "type": "person",
+  "url": "/demos/pessoas/jair-messias-bolsonaro",
+  "title": "Jair Messias Bolsonaro",
+  "description": "Linha do tempo e fontes públicas sobre Jair Messias Bolsonaro.",
+  "updatedAt": "2026-01-12",
+  "demos": {
+    "id": "person--jair-messias-bolsonaro",
+    "type": "person",
+    "mapLabel": "bolsonaro",
+    "portrait": "jair-messias-bolsonaro.png",
+    "seed": "no",
+    "seed-id": "person--adelio-bispo-de-oliveira",
+    "target-questions": [
+      "q--case--atentado-contra-jair-bolsonaro--002"
+    ],
+    "country": "BR",
+    "identifiers": {
+      "wikidata": "Q10304982",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Jair_Bolsonaro"
+    },
+    "aliases": [
+      "Jair Bolsonaro"
+    ],
+    "tags": [
+      "politica",
+      "executivo",
+      "brasil"
+    ],
+    "primaryRoles": [
+      "role--presidente-do-brasil"
+    ]
+  },
+  "openQuestions": [
+    {
+      "id": "q--person--jair-messias-bolsonaro--001",
+      "question": "falhas de segurança e resposta institucional ao ataque criaram efeitos políticos relevantes (curto e longo prazo)?",
+      "state": "aberta",
+      "hypothesis": "falhas de segurança e/ou resposta institucional tiveram efeito político relevante (curto e longo prazo).",
+      "counterHypothesis": "os efeitos políticos decorreram principalmente de dinâmica eleitoral e de campanha, sem evidência pública de que falhas/resposta institucional foram determinantes.",
+      "nextSteps": "cronologia verificável; documentos oficiais; análise comparativa com protocolos e casos análogos.",
+      "advancingNotes": []
+    },
+    {
+      "id": "q--person--jair-messias-bolsonaro--002",
+      "question": "quais foram os fundamentos e evidências citados para medidas cautelares e decisões de prisão/custódia descritas em reportagens, e como foram debatidos no STF (proporcionalidade, contemporaneidade, individualização)?",
+      "state": "em-apuracao",
+      "hypothesis": "os fundamentos (risco de fuga, ordem pública, descumprimento/violação de cautelares, etc.) e a prova contemporânea podem ser auditados por decisões/votos, reduzindo ambiguidade.",
+      "counterHypothesis": "a publicização parcial e a dependência de fontes secundárias dificultam auditoria independente, mantendo disputa narrativa sobre proporcionalidade e devido processo.",
+      "nextSteps": "localizar decisões e votos integrais (incluindo divergências); mapear o que é público vs. sigiloso; registrar critérios legais citados.",
+      "advancingNotes": [
+        "/demos/pessoas/luiz-fux"
+      ]
+    },
+    {
+      "id": "q--person--jair-messias-bolsonaro--003",
+      "question": "quais são as condições de custódia na PF e como pedidos e incidentes de saúde/direitos (atendimento, exames, informação, assistência religiosa) foram tratados, com documentação verificável?",
+      "state": "em-apuracao",
+      "hypothesis": "há registros verificáveis (decisões, notas oficiais, laudos/relatórios publicizados) que permitem auditar atendimento, incidentes e respostas institucionais.",
+      "counterHypothesis": "há pouca documentação pública e predomina disputa por narrativa (sem evidência suficiente), dificultando avaliação externa.",
+      "nextSteps": "coletar decisões e manifestações oficiais citadas (PF/STF/PGR); consolidar cronologia de pedidos e respostas; evitar extrapolar além do que está documentado.",
+      "advancingNotes": [
+        "/demos/pessoas/andrei-augusto-passos-rodrigues"
+      ]
+    }
+  ]
+}

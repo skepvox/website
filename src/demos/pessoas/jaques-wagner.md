@@ -34,7 +34,7 @@ publicadas por veículos; (3) perguntas investigáveis.
 
 _Última atualização: 2026-01-10. ID Skepvox: `person--jaques-wagner`._
 
-<DemosPortraitSvg />
+<DemosEntityMap />
 
 ## Situação atual
 

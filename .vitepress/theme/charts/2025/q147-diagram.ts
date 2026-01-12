@@ -121,7 +121,7 @@ export const renderQ147Diagram = (input: ChartRenderInput): ChartInstance => {
 
     group
       .append('path')
-      .attr('d', arc())
+      .attr('d', arc({} as any))
       .attr('transform', `translate(${centerX}, ${centerY})`)
       .attr('fill', protectedColor)
 

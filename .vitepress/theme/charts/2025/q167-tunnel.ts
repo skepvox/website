@@ -173,14 +173,14 @@ export const renderQ167Tunnel = (input: ChartRenderInput): ChartInstance => {
 
       plot
         .append('path')
-        .attr('d', arcFill())
+        .attr('d', arcFill({} as any))
         .attr('transform', arcTransform)
         .attr('fill', tunnelFill)
         .attr('stroke', 'none')
 
       plot
         .append('path')
-        .attr('d', arcStroke())
+        .attr('d', arcStroke({} as any))
         .attr('transform', arcTransform)
         .attr('fill', 'none')
         .attr('stroke', tunnelLine)

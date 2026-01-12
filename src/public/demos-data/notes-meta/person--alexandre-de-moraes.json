@@ -1,0 +1,61 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/pessoas/alexandre-de-moraes.md",
+    "sha256": "59ec77548ae0b83655655572bc45cd463aa721156defb0abc1d0ae71a23423aa"
+  },
+  "id": "person--alexandre-de-moraes",
+  "type": "person",
+  "url": "/demos/pessoas/alexandre-de-moraes",
+  "title": "Alexandre de Moraes",
+  "description": "Linha do tempo e fontes públicas sobre Alexandre de Moraes, ministro do STF.",
+  "updatedAt": "2026-01-10",
+  "demos": {
+    "id": "person--alexandre-de-moraes",
+    "type": "person",
+    "mapLabel": "alexandre",
+    "portrait": "alexandre-de-moraes.png",
+    "seed": "no",
+    "seed-id": "case--8-de-janeiro-2023",
+    "target-questions": [
+      "q--case--8-de-janeiro-2023--001",
+      "q--case--8-de-janeiro-2023--002"
+    ],
+    "country": "BR",
+    "identifiers": {
+      "wikidata": "Q22294946",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Alexandre_de_Moraes"
+    },
+    "aliases": [
+      "Alexandre de Moraes"
+    ],
+    "tags": [
+      "judiciario",
+      "stf",
+      "investigacao",
+      "8-jan",
+      "banco-master"
+    ]
+  },
+  "openQuestions": [
+    {
+      "id": "q--person--alexandre-de-moraes--001",
+      "question": "as decisões mais citadas no pós‑8/1 (ex.: afastamentos e medidas cautelares) têm íntegra acessível e permitem auditoria pública de fundamentos, provas e proporcionalidade?",
+      "state": "aberta",
+      "hypothesis": "há documentação pública suficiente (decisões/votos/acórdãos) para auditar fundamentos e requisitos legais, reduzindo “guerra de narrativas”.",
+      "counterHypothesis": "parte relevante permanece inacessível ou excessivamente dependente de fontes secundárias, o que dificulta auditoria pública e amplia especulações.",
+      "nextSteps": "localizar decisões integrais e votos; mapear o que é sigiloso e o que é público; registrar trechos relevantes com referência precisa.",
+      "advancingNotes": []
+    },
+    {
+      "id": "q--person--alexandre-de-moraes--002",
+      "question": "quais foram, exatamente, as alegações e o escopo do pedido de investigação arquivado pela PGR no contexto do caso [Master](/demos/organizacoes/banco-master), e qual documentação sustenta o arquivamento?",
+      "state": "aberta",
+      "hypothesis": "o arquivamento se sustenta em ausência de lastro probatório mínimo, conforme descrito pela PGR na matéria, e a documentação (despacho/representação) permite auditoria do escopo.",
+      "counterHypothesis": "há informação relevante não publicizada, e o debate público segue baseado em reportagens e interpretações sem documentação acessível.",
+      "nextSteps": "buscar despacho integral e anexos; mapear fontes primárias disponíveis; acompanhar eventuais desdobramentos em órgãos de controle.",
+      "advancingNotes": []
+    }
+  ]
+}

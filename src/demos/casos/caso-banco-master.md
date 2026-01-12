@@ -26,7 +26,9 @@ TCU, STF), com alto ruído político. Esta página organiza cronologia e fontes
 públicas, rotulando o que é alegação vs. decisão/ato documentado.
 :::
 
-_Última atualização: 2026-01-10. ID Skepvox: `case--caso-banco-master`._
+_Última atualização: 2026-01-12. ID Skepvox: `case--caso-banco-master`._
+
+<DemosEntityMap />
 
 ## Situação atual
 
@@ -61,7 +63,7 @@ _Última atualização: 2026-01-10. ID Skepvox: `case--caso-banco-master`._
   - Hipótese: houve tentativa relevante de influência institucional (lobby/pressão) com registros verificáveis e impacto nas decisões.
   - Contra-hipótese: interações ocorreram, mas são compatíveis com advocacy/lobby dentro das regras ou não tiveram impacto decisório demonstrável.
   - Próximos passos: coletar fontes primárias (agendas, registros, decisões, contratos e comunicações publicizadas); separar o que é “segundo reportagem” do que é documento.
-  - Notas que avançam: [Daniel Vorcaro](/demos/pessoas/daniel-vorcaro); [Ricardo Lewandowski](/demos/pessoas/ricardo-lewandowski); [Henrique Meirelles](/demos/pessoas/henrique-meirelles); [Guido Mantega](/demos/pessoas/guido-mantega); [Jaques Wagner](/demos/pessoas/jaques-wagner); [Rui Costa](/demos/pessoas/rui-costa); [Paulo Gonet Branco](/demos/pessoas/paulo-gonet-branco); [Viviane Barci de Moraes](/demos/pessoas/viviane-barci-de-moraes); [Alexandre de Moraes](/demos/pessoas/alexandre-de-moraes).
+  - Notas que avançam: [Banco Master](/demos/organizacoes/banco-master); [Daniel Vorcaro](/demos/pessoas/daniel-vorcaro); [Ricardo Lewandowski](/demos/pessoas/ricardo-lewandowski); [Henrique Meirelles](/demos/pessoas/henrique-meirelles); [Guido Mantega](/demos/pessoas/guido-mantega); [Jaques Wagner](/demos/pessoas/jaques-wagner); [Rui Costa](/demos/pessoas/rui-costa); [Paulo Gonet Branco](/demos/pessoas/paulo-gonet-branco); [Viviane Barci de Moraes](/demos/pessoas/viviane-barci-de-moraes).
 
 ## Resumo
 
@@ -131,6 +133,8 @@ _Última atualização: 2026-01-10. ID Skepvox: `case--caso-banco-master`._
 ## Organizações relacionadas
 
 - [Banco Master](/demos/organizacoes/banco-master).
+- [Banco Master de Investimento](/demos/organizacoes/banco-master-de-investimento) — citado em comunicado do site do Banco Master. Fonte: [Banco Master (comunicado)](https://www.bancomaster.com.br/).
+- [Banco Letsbank](/demos/organizacoes/banco-letsbank) — citado em comunicado do site do Banco Master. Fonte: [Banco Master (comunicado)](https://www.bancomaster.com.br/).
 - Instituições citadas nas fontes (sem página ainda no Skepvox): Banco Central do Brasil (BC); Polícia Federal (PF); Ministério Público Federal (MPF/PGR); Tribunal de Contas da União (TCU); Banco de Brasília (BRB); Fundo Garantidor de Créditos (FGC).
 
 ## Fontes

@@ -28,6 +28,8 @@ do que está documentado.
 
 _Última atualização: 2026-01-09. ID Skepvox: `case--triplex-do-guaruja`._
 
+<DemosEntityMap />
+
 ## Situação atual
 
 - Status: condenações foram anuladas por decisão do STF em 2021 (competência). Após remessa do caso para Brasília, o MPF opinou por arquivamento por prescrição (2021-12) e a Justiça Federal do DF arquivou o processo em 2022-01 (segundo cobertura). Fontes: [STF](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1), [G1 (2021-12-07)](https://g1.globo.com/politica/noticia/2021/12/07/mp-ve-prescricao-e-opina-por-arquivamento-de-denuncia-contra-lula-no-caso-do-triplex-do-guaruja.ghtml), [G1 (2022-01-28)](https://g1.globo.com/jornal-nacional/noticia/2022/01/28/justica-federal-do-df-arquiva-processo-contra-lula-no-caso-do-triplex.ghtml).

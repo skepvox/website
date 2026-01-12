@@ -29,6 +29,8 @@ perguntas testáveis — sem tratar hipótese como fato e sem rótulos.
 
 _Última atualização: 2026-01-11. ID Skepvox: `case--8-de-janeiro-2023`._
 
+<DemosEntityMap />
+
 ## Situação atual
 
 - Status (alto nível): o STF segue julgando e condenando envolvidos nos atos de 8 de janeiro (em diferentes sessões e turmas), segundo comunicado institucional. Fonte: [STF](https://noticias.stf.jus.br/postsnoticias/stf-condena-mais-119-pessoas-pelos-atos-antidemocraticos-de-8-1/).

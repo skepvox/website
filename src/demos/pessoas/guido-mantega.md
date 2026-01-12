@@ -31,7 +31,7 @@ O objetivo é registrar o que é verificável e tratar reportagens como fonte se
 
 _Última atualização: 2026-01-10. ID Skepvox: `person--guido-mantega`._
 
-<DemosPortraitSvg />
+<DemosEntityMap />
 
 ## Situação atual
 

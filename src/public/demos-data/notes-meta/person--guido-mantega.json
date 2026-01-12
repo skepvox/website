@@ -1,0 +1,58 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/pessoas/guido-mantega.md",
+    "sha256": "1e5d0dfc4f5a80030932e8b20e942b9dcf4ed23869d13d11dca8587b8cd1b540"
+  },
+  "id": "person--guido-mantega",
+  "type": "person",
+  "url": "/demos/pessoas/guido-mantega",
+  "title": "Guido Mantega",
+  "description": "Linha do tempo e fontes públicas sobre Guido Mantega.",
+  "updatedAt": "2026-01-10",
+  "demos": {
+    "id": "person--guido-mantega",
+    "type": "person",
+    "mapLabel": "mantega",
+    "portrait": "guido-mantega.png",
+    "seed": "no",
+    "seed-id": "case--caso-banco-master",
+    "target-questions": [
+      "q--case--caso-banco-master--003"
+    ],
+    "country": "BR",
+    "identifiers": {
+      "wikidata": "Q1359689",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Guido_Mantega"
+    },
+    "aliases": [
+      "Guido Mantega"
+    ],
+    "tags": [
+      "economia",
+      "fazenda",
+      "banco-master"
+    ]
+  },
+  "openQuestions": [
+    {
+      "id": "q--person--guido-mantega--001",
+      "question": "qual foi o escopo, período e natureza do vínculo de consultoria citado em reportagem (contrato, temas, remuneração, encerramento)?",
+      "state": "aberta",
+      "hypothesis": "os termos do vínculo são verificáveis e ajudam a entender o papel de consultores e conexões políticas no caso.",
+      "counterHypothesis": "o papel foi limitado/pontual e não há evidência verificável de impacto em decisões públicas (BC/TCU/STF).",
+      "nextSteps": "buscar documentação pública e declarações formais; mapear agendas e registros de encontros.",
+      "advancingNotes": []
+    },
+    {
+      "id": "q--person--guido-mantega--002",
+      "question": "há registro documental público do encontro citado em reportagem (data, participantes, pauta), e qual seu contexto verificável?",
+      "state": "aberta",
+      "hypothesis": "existe registro público suficiente (agenda oficial, foto, comunicado, ata, declaração) que permite auditar o encontro.",
+      "counterHypothesis": "o encontro não ocorreu como descrito ou não há registro público verificável; a menção é indireta e insuficiente para inferir influência.",
+      "nextSteps": "buscar agendas oficiais e notícias de fontes independentes; cruzar com registros do governo e declarações de participantes.",
+      "advancingNotes": []
+    }
+  ]
+}

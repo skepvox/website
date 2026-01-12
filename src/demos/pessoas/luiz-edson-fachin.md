@@ -37,7 +37,7 @@ o que está documentado, sem tratar hipóteses como fatos.
 
 _Última atualização: 2026-01-09. ID Skepvox: `person--luiz-edson-fachin`._
 
-<DemosPortraitSvg />
+<DemosEntityMap />
 
 ## Situação atual
 

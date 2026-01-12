@@ -1,0 +1,60 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/pessoas/daniel-vorcaro.md",
+    "sha256": "57642afb99fb08ffddc22fe038db22fa9abba9163ff936d884c63fb84e011292"
+  },
+  "id": "person--daniel-vorcaro",
+  "type": "person",
+  "url": "/demos/pessoas/daniel-vorcaro",
+  "title": "Daniel Bueno Vorcaro",
+  "description": "Linha do tempo e fontes públicas sobre Daniel Bueno Vorcaro.",
+  "updatedAt": "2026-01-10",
+  "demos": {
+    "id": "person--daniel-vorcaro",
+    "type": "person",
+    "mapLabel": "vorcaro",
+    "portrait": "daniel-vorcaro.png",
+    "seed": "no",
+    "seed-id": "case--caso-banco-master",
+    "target-questions": [
+      "q--case--caso-banco-master--002",
+      "q--case--caso-banco-master--003"
+    ],
+    "country": "BR",
+    "identifiers": {
+      "wikidata": "Q133259974",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Daniel_Vorcaro"
+    },
+    "aliases": [
+      "Daniel Vorcaro",
+      "Daniel Bueno Vorcaro"
+    ],
+    "tags": [
+      "banco-master",
+      "sistema-financeiro",
+      "investigacao"
+    ]
+  },
+  "openQuestions": [
+    {
+      "id": "q--person--daniel-vorcaro--001",
+      "question": "quais crimes/imputações foram formalmente atribuídos a Vorcaro (se houver denúncia) e qual o status processual atual (investigado, denunciado, réu, condenado)?",
+      "state": "aberta",
+      "hypothesis": "as imputações formais e o status processual (quando consolidados) coincidem, em linhas gerais, com os mecanismos descritos em reportagens.",
+      "counterHypothesis": "parte relevante das descrições públicas não se sustenta quando comparada com peças/decisões e evidência material; ou o enquadramento jurídico é diferente do sugerido em manchetes.",
+      "nextSteps": "coletar decisões integrais e movimentação processual; buscar denúncias e relatórios públicos; mapear quais trechos são “segundo investigadores” vs. documentos.",
+      "advancingNotes": []
+    },
+    {
+      "id": "q--person--daniel-vorcaro--002",
+      "question": "quais interações documentadas com agentes públicos (Executivo/Legislativo/Judiciário/órgãos de controle) são verificáveis e qual o peso delas no caso?",
+      "state": "aberta",
+      "hypothesis": "existe evidência pública/documental de interações relevantes que ajudam a explicar decisões e “timing” (ex.: tentativas de compra/apoios/pressões).",
+      "counterHypothesis": "há ruído político e inferências, mas pouca evidência verificável de influência decisória; interações existiram dentro de rotinas institucionais.",
+      "nextSteps": "identificar agendas públicas, registros de reuniões (quando disponíveis), decisões e documentos citados; separar acusações de evidência.",
+      "advancingNotes": []
+    }
+  ]
+}

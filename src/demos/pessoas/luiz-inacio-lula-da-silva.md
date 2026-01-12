@@ -32,9 +32,9 @@ casos controversos, o objetivo é descrever **status processual** (investigaçã
 denúncia, condenação, anulação etc.) e apontar divergências quando houver.
 :::
 
-_Última atualização: 2026-01-09. ID Skepvox: `person--luiz-inacio-lula-da-silva`._
+_Última atualização: 2026-01-12. ID Skepvox: `person--luiz-inacio-lula-da-silva`._
 
-<DemosPortraitSvg />
+<DemosEntityMap />
 
 ## Situação atual
 
@@ -57,7 +57,7 @@ _Última atualização: 2026-01-09. ID Skepvox: `person--luiz-inacio-lula-da-sil
   - Hipótese: redes de influência podem ter afetado timing e desfechos em momentos-chave (condenações, nulidades, suspeição, elegibilidade).
   - Contra-hipótese: os desfechos se explicam principalmente por fundamentos jurídicos (competência, devido processo, nulidades) e mudanças jurisprudenciais, sem evidência suficiente de interferência externa.
   - Próximos passos: mapear decisões integrais, votos e fundamentos; cronologia completa; atores (magistrados, MP, defesa, tribunais) e vínculos documentados; comparação com casos análogos.
-  - Notas que avançam: [Operação Lava Jato](/demos/casos/operacao-lava-jato); [Tríplex do Guarujá](/demos/casos/triplex-do-guaruja); [Sítio de Atibaia](/demos/casos/sitio-de-atibaia); [Sede do Instituto Lula](/demos/casos/sede-do-instituto-lula); [Sergio Fernando Moro](/demos/pessoas/sergio-fernando-moro); [Luiz Edson Fachin](/demos/pessoas/luiz-edson-fachin); [Partido dos Trabalhadores (PT)](/demos/organizacoes/partido-dos-trabalhadores-pt); [Central Única dos Trabalhadores (CUT)](/demos/organizacoes/central-unica-dos-trabalhadores-cut); [Sindicato dos Metalúrgicos do ABC](/demos/organizacoes/sindicato-dos-metalurgicos-do-abc).
+  - Notas que avançam: [Operação Lava Jato](/demos/casos/operacao-lava-jato); [Tríplex do Guarujá](/demos/casos/triplex-do-guaruja); [Sítio de Atibaia](/demos/casos/sitio-de-atibaia); [Sede do Instituto Lula](/demos/casos/sede-do-instituto-lula); [Sergio Fernando Moro](/demos/pessoas/sergio-fernando-moro); [Luiz Edson Fachin](/demos/pessoas/luiz-edson-fachin); [Partido dos Trabalhadores (PT)](/demos/organizacoes/partido-dos-trabalhadores-pt); [Central Única dos Trabalhadores (CUT)](/demos/organizacoes/central-unica-dos-trabalhadores-cut); [Sindicato dos Metalúrgicos do ABC](/demos/organizacoes/sindicato-dos-metalurgicos-do-abc); [Fábio Luís Lula da Silva](/demos/pessoas/fabio-luis-lula-da-silva); [Antônio Carlos Camilo Antunes](/demos/pessoas/antonio-carlos-camilo-antunes).
 
 ## Resumo
 

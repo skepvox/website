@@ -1,0 +1,78 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/casos/8-de-janeiro-2023.md",
+    "sha256": "bd55153214febcb59a0befbee3bfe9057ce130d005f6f4b0e887db3974772a54"
+  },
+  "id": "case--8-de-janeiro-2023",
+  "type": "case",
+  "url": "/demos/casos/8-de-janeiro-2023",
+  "title": "8 de Janeiro de 2023 (Ataques em Brasília)",
+  "description": "Linha do tempo e fontes públicas sobre os ataques de 8 de janeiro de 2023 em Brasília e seus desdobramentos.",
+  "updatedAt": "2026-01-11",
+  "demos": {
+    "id": "case--8-de-janeiro-2023",
+    "type": "case",
+    "mapLabel": "8-jan",
+    "seed": "yes",
+    "seed-id": "case--8-de-janeiro-2023",
+    "country": "BR",
+    "aliases": [
+      "8 de janeiro",
+      "8/1",
+      "Atos de 8 de janeiro",
+      "Ataques de 8 de janeiro"
+    ],
+    "tags": [
+      "democracia",
+      "justica",
+      "investigacao",
+      "brasilia"
+    ]
+  },
+  "openQuestions": [
+    {
+      "id": "q--case--8-de-janeiro-2023--001",
+      "question": "quais alertas prévios existiam (inteligência e segurança), para quem foram enviados, e o que foi feito com eles antes do 08-01?",
+      "state": "em-apuracao",
+      "hypothesis": "existiam alertas acionáveis e houve falhas/omissões relevantes na resposta preventiva (por ação, inação ou coordenação insuficiente).",
+      "counterHypothesis": "os alertas eram genéricos/insuficientes, ou a resposta foi compatível com as informações disponíveis e limitações operacionais.",
+      "nextSteps": "coletar íntegra de alertas e encaminhamentos; registros de recebimento e decisões; depoimentos públicos; relatórios de órgãos de controle. Fonte-alvo inicial: [Folha](https://www1.folha.uol.com.br/poder/2023/04/veja-integra-dos-alertas-da-abin-ao-gsi-e-ao-ministerio-da-justica-antes-do-81.shtml).",
+      "advancingNotes": [
+        "/demos/pessoas/flavio-dino",
+        "/demos/pessoas/alexandre-de-moraes"
+      ]
+    },
+    {
+      "id": "q--case--8-de-janeiro-2023--002",
+      "question": "a cadeia de custódia de imagens e outros materiais (câmeras/servidores/anexos) é auditável e preservada de ponta a ponta?",
+      "state": "em-apuracao",
+      "hypothesis": "há lacunas relevantes de preservação/entrega/documentação que prejudicam auditoria pública e judicial do que ocorreu e de quem fez o quê.",
+      "counterHypothesis": "a cadeia de custódia é suficientemente documentada (apreensão, cópias forenses, perícias) e as lacunas aparentes têm explicação técnica/administrativa verificável.",
+      "nextSteps": "identificar repositórios oficiais, laudos e termos de apreensão; mapear quais conjuntos de imagens existem, quais foram anexados a inquéritos e quais não; checar decisões e perícias citadas publicamente.",
+      "advancingNotes": [
+        "/demos/pessoas/flavio-dino",
+        "/demos/pessoas/alexandre-de-moraes"
+      ]
+    },
+    {
+      "id": "q--case--8-de-janeiro-2023--003",
+      "question": "existe evidência pública robusta de infiltração/provocação (por qualquer grupo político, estatal ou não) para escalar vandalismo e/ou produzir pretexto para prisões?",
+      "state": "aberta",
+      "hypothesis": "houve infiltração/provocação com objetivo de maximizar dano simbólico e influenciar desdobramentos políticos/judiciais.",
+      "counterHypothesis": "a explicação mais consistente é a participação voluntária de manifestantes e redes de mobilização já identificadas nas investigações, sem evidência verificável de “false flag”.",
+      "nextSteps": "buscar indícios documentais e não apenas inferências; checar se há inquéritos, denúncias ou decisões que tratem especificamente da hipótese; comparar com evidências materiais (vídeos, perícias, identificação).",
+      "advancingNotes": []
+    },
+    {
+      "id": "q--case--8-de-janeiro-2023--004",
+      "question": "qual foi o nível de coordenação e financiamento (logística, transporte, comunicação) e quais atores podem ser responsabilizados por isso?",
+      "state": "aberta",
+      "hypothesis": "existiu coordenação financiada (rede) com rastros verificáveis (pagamentos, mensagens, logística) além de “autoria individual”.",
+      "counterHypothesis": "a mobilização foi majoritariamente difusa, com coordenação limitada e sem um núcleo financiador identificável publicamente.",
+      "nextSteps": "mapear decisões e denúncias que tratem de financiamento; buscar dados de quebras de sigilo já publicadas; acompanhar sentenças e votos que descrevam elementos de coordenação.",
+      "advancingNotes": []
+    }
+  ]
+}

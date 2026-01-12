@@ -1,0 +1,69 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/pessoas/walter-delgatti-neto.md",
+    "sha256": "59d762a714f91a9a067b4b9174a32dc93002d0fc141778dc41443a809820610c"
+  },
+  "id": "person--walter-delgatti-neto",
+  "type": "person",
+  "url": "/demos/pessoas/walter-delgatti-neto",
+  "title": "Walter Delgatti Neto",
+  "description": "Linha do tempo e fontes públicas sobre Walter Delgatti Neto, conhecido como “hacker de Araraquara”.",
+  "updatedAt": "2026-01-09",
+  "demos": {
+    "id": "person--walter-delgatti-neto",
+    "type": "person",
+    "mapLabel": "walter-delgatti",
+    "portrait": "walter-delgatti-neto.png",
+    "seed": "no",
+    "seed-id": "person--jose-antonio-dias-toffoli",
+    "target-questions": [
+      "q--case--operacao-spoofing--001",
+      "q--case--operacao-spoofing--002"
+    ],
+    "country": "BR",
+    "identifiers": {
+      "wikidata": "Q121278217",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Walter_Delgatti_Neto"
+    },
+    "aliases": [
+      "Hacker de Araraquara",
+      "Vermelho",
+      "Walter Delgatti Junior"
+    ],
+    "tags": [
+      "hacking",
+      "cibercrime",
+      "justica",
+      "politica",
+      "cnj",
+      "telegram"
+    ],
+    "primaryRoles": [
+      "role--hacker"
+    ]
+  },
+  "openQuestions": [
+    {
+      "id": "q--person--walter-delgatti-neto--001",
+      "question": "na [Operação Spoofing](/demos/casos/operacao-spoofing), existiu financiamento/instigação externa relevante (política, econômica ou institucional) para obtenção/uso do material, além da ação do grupo?",
+      "state": "aberta",
+      "hypothesis": "existiu financiamento/instigação externa relevante além da ação do grupo.",
+      "counterHypothesis": "as evidências públicas disponíveis são compatíveis com a ação do grupo sem financiamento/instigação externa relevante (ou sem evidência verificável disso).",
+      "nextSteps": "peças integrais da denúncia e sentença; laudos e perícias; rastros financeiros (quando públicos); depoimentos formais; consistência entre versões públicas e autos.",
+      "advancingNotes": []
+    },
+    {
+      "id": "q--person--walter-delgatti-neto--002",
+      "question": "no caso CNJ, quais foram exatamente (i) o escopo técnico das invasões, (ii) a cadeia de comando e (iii) as evidências materiais que sustentaram a condenação?",
+      "state": "em-apuracao",
+      "hypothesis": "a cronologia pública ainda não consolida (de forma auditável) escopo, cadeia de comando e evidências materiais.",
+      "counterHypothesis": "as conclusões públicas existentes já são suficientemente explicadas pelos autos e por evidências materiais (perícias, confissões, mensagens) sem exigir postular uma rede oculta maior.",
+      "nextSteps": "acórdão; votos; provas explicitadas; perícias; cronologia completa de acessos; logs; dispositivos apreendidos; contraditório e recursos.",
+      "advancingNotes": [
+        "/demos/pessoas/carla-zambelli-salgado-de-oliveira"
+      ]
+    }
+  ]
+}

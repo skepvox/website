@@ -1,0 +1,57 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/pessoas/viviane-barci-de-moraes.md",
+    "sha256": "def8a068374c8e42ac8fe751b08b2c17f014d17d1b1abb66b0d3ee3c378d428e"
+  },
+  "id": "person--viviane-barci-de-moraes",
+  "type": "person",
+  "url": "/demos/pessoas/viviane-barci-de-moraes",
+  "title": "Viviane Barci de Moraes",
+  "description": "Linha do tempo e fontes públicas sobre Viviane Barci de Moraes.",
+  "updatedAt": "2026-01-10",
+  "demos": {
+    "id": "person--viviane-barci-de-moraes",
+    "type": "person",
+    "mapLabel": "viviane",
+    "portrait": "viviane-barci-de-moraes.png",
+    "seed": "no",
+    "seed-id": "case--caso-banco-master",
+    "target-questions": [
+      "q--case--caso-banco-master--003"
+    ],
+    "country": "BR",
+    "identifiers": {
+      "wikidata": "Q136352971"
+    },
+    "aliases": [
+      "Viviane Barci de Moraes"
+    ],
+    "tags": [
+      "advocacia",
+      "justica",
+      "banco-master"
+    ]
+  },
+  "openQuestions": [
+    {
+      "id": "q--person--viviane-barci-de-moraes--001",
+      "question": "qual foi o escopo, período e natureza do contrato de serviços advocatícios citado na matéria (se houver documentação pública)?",
+      "state": "aberta",
+      "hypothesis": "os termos do contrato são verificáveis e permitem avaliar se houve ou não risco material de conflito.",
+      "counterHypothesis": "não há documentação pública suficiente; e, conforme a PGR, os relatos disponíveis não indicam ilicitude nem lastro probatório mínimo para investigação no formato representado.",
+      "nextSteps": "localizar despacho integral e a representação; identificar se há publicização contratual por vias oficiais; buscar declarações formais das partes.",
+      "advancingNotes": []
+    },
+    {
+      "id": "q--person--viviane-barci-de-moraes--002",
+      "question": "existem registros documentais de medidas de mitigação (recusa/impedimento) relacionadas ao caso [Master](/demos/organizacoes/banco-master) em função de alegações de vínculo profissional?",
+      "state": "aberta",
+      "hypothesis": "há registro formal (ou decisão) sobre gestão de conflito.",
+      "counterHypothesis": "não há ato conectando o vínculo alegado a atuação decisória; e a ausência de lastro probatório descrita pela PGR indica que o tema permanece no campo de suposições.",
+      "nextSteps": "buscar decisões e atos; acompanhar manifestações de órgãos de controle e notas públicas.",
+      "advancingNotes": []
+    }
+  ]
+}

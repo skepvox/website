@@ -1,0 +1,377 @@
+{
+  "schema": "skepvox--demos-graph",
+  "schemaVersion": 3,
+  "focusId": "person--walter-delgatti-neto",
+  "nodeCount": 9,
+  "edgeCount": 21,
+  "nodes": [
+    {
+      "id": "case--invasao-sistemas-cnj",
+      "type": "case",
+      "url": "/demos/casos/invasao-sistemas-cnj",
+      "dataUrl": "/demos-data/notes-meta/case--invasao-sistemas-cnj.json",
+      "title": "Invasão aos sistemas do CNJ",
+      "description": "Linha do tempo e fontes públicas sobre a invasão aos sistemas do CNJ e seus desdobramentos no STF.",
+      "mapLabel": "cnj-invasao",
+      "seed": false,
+      "seedId": "person--jose-antonio-dias-toffoli",
+      "tags": [
+        "justica",
+        "investigacao",
+        "hacking",
+        "cnj",
+        "stf"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "case--operacao-lava-jato",
+      "type": "case",
+      "url": "/demos/casos/operacao-lava-jato",
+      "dataUrl": "/demos-data/notes-meta/case--operacao-lava-jato.json",
+      "title": "Operação Lava Jato",
+      "description": "Linha do tempo e fontes públicas sobre a Operação Lava Jato e eventos associados a Luiz Inácio Lula da Silva.",
+      "mapLabel": "lava-jato",
+      "seed": false,
+      "seedId": "person--luiz-inacio-lula-da-silva",
+      "tags": [
+        "justica",
+        "investigacao",
+        "lava-jato"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "case--operacao-spoofing",
+      "type": "case",
+      "url": "/demos/casos/operacao-spoofing",
+      "dataUrl": "/demos-data/notes-meta/case--operacao-spoofing.json",
+      "title": "Operação Spoofing",
+      "description": "Linha do tempo e fontes públicas sobre a Operação Spoofing (PF), que investigou invasões a contas do Telegram de autoridades e seus desdobramentos judiciais.",
+      "mapLabel": "spoofing",
+      "seed": false,
+      "seedId": "person--jose-antonio-dias-toffoli",
+      "tags": [
+        "justica",
+        "investigacao",
+        "hacking",
+        "telegram",
+        "lava-jato"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "person--alexandre-de-moraes",
+      "type": "person",
+      "url": "/demos/pessoas/alexandre-de-moraes",
+      "dataUrl": "/demos-data/notes-meta/person--alexandre-de-moraes.json",
+      "title": "Alexandre de Moraes",
+      "description": "Linha do tempo e fontes públicas sobre Alexandre de Moraes, ministro do STF.",
+      "mapLabel": "alexandre",
+      "seed": false,
+      "seedId": "case--8-de-janeiro-2023",
+      "tags": [
+        "judiciario",
+        "stf",
+        "investigacao",
+        "8-jan",
+        "banco-master"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "person--carla-zambelli-salgado-de-oliveira",
+      "type": "person",
+      "url": "/demos/pessoas/carla-zambelli-salgado-de-oliveira",
+      "dataUrl": "/demos-data/notes-meta/person--carla-zambelli-salgado-de-oliveira.json",
+      "title": "Carla Zambelli Salgado de Oliveira",
+      "description": "Linha do tempo e fontes públicas sobre Carla Zambelli Salgado de Oliveira, política brasileira e ex-deputada federal por SP.",
+      "mapLabel": "zambelli",
+      "seed": false,
+      "seedId": "person--jose-antonio-dias-toffoli",
+      "tags": [
+        "politica",
+        "legislativo",
+        "justica",
+        "stf",
+        "cnj"
+      ],
+      "primaryRoles": [
+        "role--deputada-federal"
+      ]
+    },
+    {
+      "id": "person--jose-antonio-dias-toffoli",
+      "type": "person",
+      "url": "/demos/pessoas/jose-antonio-dias-toffoli",
+      "dataUrl": "/demos-data/notes-meta/person--jose-antonio-dias-toffoli.json",
+      "title": "José Antonio Dias Toffoli",
+      "description": "Linha do tempo e fontes públicas sobre José Antonio Dias Toffoli, ministro do STF.",
+      "mapLabel": "toffoli",
+      "seed": true,
+      "seedId": "person--jose-antonio-dias-toffoli",
+      "tags": [
+        "judiciario",
+        "stf",
+        "tse",
+        "agu",
+        "politica"
+      ],
+      "primaryRoles": [
+        "role--ministro-do-stf",
+        "role--presidente-do-stf",
+        "role--presidente-do-tse"
+      ]
+    },
+    {
+      "id": "person--luiz-inacio-lula-da-silva",
+      "type": "person",
+      "url": "/demos/pessoas/luiz-inacio-lula-da-silva",
+      "dataUrl": "/demos-data/notes-meta/person--luiz-inacio-lula-da-silva.json",
+      "title": "Luiz Inácio Lula da Silva",
+      "description": "Linha do tempo e fontes públicas sobre Luiz Inácio Lula da Silva, presidente do Brasil.",
+      "mapLabel": "lula",
+      "seed": true,
+      "seedId": "person--luiz-inacio-lula-da-silva",
+      "tags": [
+        "politica",
+        "executivo",
+        "brasil"
+      ],
+      "primaryRoles": [
+        "role--presidente-do-brasil"
+      ]
+    },
+    {
+      "id": "person--sergio-fernando-moro",
+      "type": "person",
+      "url": "/demos/pessoas/sergio-fernando-moro",
+      "dataUrl": "/demos-data/notes-meta/person--sergio-fernando-moro.json",
+      "title": "Sergio Fernando Moro",
+      "description": "Linha do tempo e fontes públicas sobre Sergio Fernando Moro, senador pelo Paraná e ex-juiz federal.",
+      "mapLabel": "moro",
+      "seed": false,
+      "seedId": "person--luiz-inacio-lula-da-silva",
+      "tags": [
+        "judiciario",
+        "lava-jato",
+        "politica",
+        "legislativo"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "person--walter-delgatti-neto",
+      "type": "person",
+      "url": "/demos/pessoas/walter-delgatti-neto",
+      "dataUrl": "/demos-data/notes-meta/person--walter-delgatti-neto.json",
+      "title": "Walter Delgatti Neto",
+      "description": "Linha do tempo e fontes públicas sobre Walter Delgatti Neto, conhecido como “hacker de Araraquara”.",
+      "mapLabel": "walter-delgatti",
+      "seed": false,
+      "seedId": "person--jose-antonio-dias-toffoli",
+      "tags": [
+        "hacking",
+        "cibercrime",
+        "justica",
+        "politica",
+        "cnj",
+        "telegram"
+      ],
+      "primaryRoles": [
+        "role--hacker"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": "case--invasao-sistemas-cnj",
+      "target": "person--alexandre-de-moraes",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--invasao-sistemas-cnj",
+      "target": "person--carla-zambelli-salgado-de-oliveira",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--invasao-sistemas-cnj",
+      "target": "person--walter-delgatti-neto",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--operacao-lava-jato",
+      "target": "case--operacao-spoofing",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos associados": 1
+      }
+    },
+    {
+      "source": "case--operacao-lava-jato",
+      "target": "person--jose-antonio-dias-toffoli",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--operacao-lava-jato",
+      "target": "person--luiz-inacio-lula-da-silva",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--operacao-lava-jato",
+      "target": "person--sergio-fernando-moro",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--operacao-spoofing",
+      "target": "case--operacao-lava-jato",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "case--operacao-spoofing",
+      "target": "person--jose-antonio-dias-toffoli",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--operacao-spoofing",
+      "target": "person--luiz-inacio-lula-da-silva",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--operacao-spoofing",
+      "target": "person--sergio-fernando-moro",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--operacao-spoofing",
+      "target": "person--walter-delgatti-neto",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "person--carla-zambelli-salgado-de-oliveira",
+      "target": "case--invasao-sistemas-cnj",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--jose-antonio-dias-toffoli",
+      "target": "case--operacao-lava-jato",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--jose-antonio-dias-toffoli",
+      "target": "case--operacao-spoofing",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--luiz-inacio-lula-da-silva",
+      "target": "case--operacao-lava-jato",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--luiz-inacio-lula-da-silva",
+      "target": "case--operacao-spoofing",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--sergio-fernando-moro",
+      "target": "case--operacao-lava-jato",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--sergio-fernando-moro",
+      "target": "case--operacao-spoofing",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--walter-delgatti-neto",
+      "target": "case--invasao-sistemas-cnj",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--walter-delgatti-neto",
+      "target": "case--operacao-spoofing",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    }
+  ]
+}

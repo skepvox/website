@@ -1,0 +1,190 @@
+{
+  "schema": "skepvox--demos-note",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/casos/operacao-sem-desconto.md",
+    "sha256": "55454c1421e316c4ecffc866cd80a9100b00f1793342ba93f943c34124d4a3d1"
+  },
+  "id": "case--operacao-sem-desconto",
+  "type": "case",
+  "url": "/demos/casos/operacao-sem-desconto",
+  "title": "Operação Sem Desconto (PF/CGU)",
+  "description": "Linha do tempo e fontes públicas sobre a Operação Sem Desconto (PF/CGU), que apura descontos não autorizados em benefícios.",
+  "updatedAt": "2026-01-12",
+  "demos": {
+    "id": "case--operacao-sem-desconto",
+    "type": "case",
+    "mapLabel": "sem-desconto",
+    "seed": "no",
+    "seed-id": "person--luiz-inacio-lula-da-silva",
+    "target-questions": [
+      "q--person--antonio-carlos-camilo-antunes--001",
+      "q--case--cpmi-do-inss--001"
+    ],
+    "country": "BR",
+    "aliases": [
+      "Sem Desconto",
+      "Fraudes no INSS",
+      "Fraude no INSS",
+      "Descontos irregulares no INSS",
+      "Descontos indevidos no INSS",
+      "Descontos associativos no INSS"
+    ],
+    "tags": [
+      "previdencia",
+      "inss",
+      "investigacao",
+      "pf",
+      "cgu"
+    ]
+  },
+  "frontmatter": {
+    "title": "Operação Sem Desconto (PF/CGU)",
+    "description": "Linha do tempo e fontes públicas sobre a Operação Sem Desconto (PF/CGU), que apura descontos não autorizados em benefícios.",
+    "demos": {
+      "id": "case--operacao-sem-desconto",
+      "type": "case",
+      "mapLabel": "sem-desconto",
+      "seed": "no",
+      "seed-id": "person--luiz-inacio-lula-da-silva",
+      "target-questions": [
+        "q--person--antonio-carlos-camilo-antunes--001",
+        "q--case--cpmi-do-inss--001"
+      ],
+      "country": "BR",
+      "aliases": [
+        "Sem Desconto",
+        "Fraudes no INSS",
+        "Fraude no INSS",
+        "Descontos irregulares no INSS",
+        "Descontos indevidos no INSS",
+        "Descontos associativos no INSS"
+      ],
+      "tags": [
+        "previdencia",
+        "inss",
+        "investigacao",
+        "pf",
+        "cgu"
+      ]
+    }
+  },
+  "frontmatterYaml": "title: \"Operação Sem Desconto (PF/CGU)\"\ndescription: \"Linha do tempo e fontes públicas sobre a Operação Sem Desconto (PF/CGU), que apura descontos não autorizados em benefícios.\"\ndemos:\n  id: case--operacao-sem-desconto\n  type: case\n  mapLabel: sem-desconto\n  seed: no\n  seed-id: person--luiz-inacio-lula-da-silva\n  target-questions:\n    - q--person--antonio-carlos-camilo-antunes--001\n    - q--case--cpmi-do-inss--001\n  country: BR\n  aliases:\n    - Sem Desconto\n    - Fraudes no INSS\n    - Fraude no INSS\n    - Descontos irregulares no INSS\n    - Descontos indevidos no INSS\n    - Descontos associativos no INSS\n  tags:\n    - previdencia\n    - inss\n    - investigacao\n    - pf\n    - cgu",
+  "bodyMarkdown": "# Operação Sem Desconto (PF/CGU)\n\n::: info Nota editorial (Skepvox)\nEste caso está em apuração e envolve disputa política e alegações graves. O objetivo aqui é organizar\n**cronologia**, **status** e **fontes públicas** (PF/CGU e cobertura), sem tratar alegações como fato.\n:::\n\n_Última atualização: 2026-01-12. ID Skepvox: `case--operacao-sem-desconto`._\n\n<DemosEntityMap />\n\n## Situação atual\n\n- Status (alto nível): a Operação Sem Desconto (PF/CGU) investiga um esquema nacional de descontos associativos não autorizados em aposentadorias e pensões, segundo nota oficial. Fonte: [PF (2025-11-13)](https://www.gov.br/pf/pt-br/assuntos/noticias/2025/11/pf-e-cgu-deflagram-nova-fase-da-operacao-sem-desconto).\n- Trilha parlamentar relacionada: ver [CPMI do INSS](/demos/casos/cpmi-do-inss) para cronologia e fontes institucionais da comissão.\n- Nomes citados (cautela): [Antônio Carlos Camilo Antunes](/demos/pessoas/antonio-carlos-camilo-antunes) é citado em cobertura no contexto do caso. Fonte: [BBC (2025-12-18)](https://www.bbc.com/portuguese/articles/c4g98g52n8go).\n\n## Por que está no mapa\n\n- Conexão de origem: rede inicial de [Luiz Inácio Lula da Silva](/demos/pessoas/luiz-inacio-lula-da-silva), via páginas derivadas de [Fábio Luís Lula da Silva](/demos/pessoas/fabio-luis-lula-da-silva) e [Antônio Carlos Camilo Antunes](/demos/pessoas/antonio-carlos-camilo-antunes).\n- Perguntas-alvo (rastreamento): `q--person--antonio-carlos-camilo-antunes--001`; `q--case--cpmi-do-inss--001`.\n- Evidência mínima: há nota oficial da PF/CGU sobre a operação. Fonte: [PF (2025-11-13)](https://www.gov.br/pf/pt-br/assuntos/noticias/2025/11/pf-e-cgu-deflagram-nova-fase-da-operacao-sem-desconto).\n- Fontes-alvo (próximos passos): relatórios da CGU e peças/decisões judiciais públicas (incl. autorizações de medidas), além de movimentação processual e desfechos.\n\n## Linha do tempo\n\n- 2025-09 — Cobertura registra prisões na investigação, incluindo a prisão de [Antônio Carlos Camilo Antunes](/demos/pessoas/antonio-carlos-camilo-antunes), segundo texto. Status: `reported`. Fonte: [BBC (2025-12-18)](https://www.bbc.com/portuguese/articles/c4g98g52n8go).\n- 2025-11-13 — PF e CGU deflagram nova fase da Operação Sem Desconto; nota menciona cumprimento de mandados e crimes investigados. Status: `documented`. Fonte: [PF (2025-11-13)](https://www.gov.br/pf/pt-br/assuntos/noticias/2025/11/pf-e-cgu-deflagram-nova-fase-da-operacao-sem-desconto).\n- 2025-12-18 — Reportagem descreve nova fase da operação, com prisões e menção a estimativa de prejuízo bilionário no período 2019–2024, atribuída à investigação. Status: `reported`. Fonte: [BBC (2025-12-18)](https://www.bbc.com/portuguese/articles/c4g98g52n8go).\n\n## Pessoas relacionadas\n\n- [Antônio Carlos Camilo Antunes](/demos/pessoas/antonio-carlos-camilo-antunes) — citado em cobertura no contexto da investigação. Fonte: [BBC (2025-12-18)](https://www.bbc.com/portuguese/articles/c4g98g52n8go).\n\n## Organizações relacionadas\n\n- Instituições citadas nas fontes (sem página ainda no Skepvox): Instituto Nacional do Seguro Social (INSS); Polícia Federal (PF); Controladoria-Geral da União (CGU); Ministério da Previdência; Supremo Tribunal Federal (STF).\n\n## Casos relacionados\n\n- [CPMI do INSS](/demos/casos/cpmi-do-inss)\n\n## Fontes\n\n- Polícia Federal — “PF e CGU deflagram nova fase da Operação Sem Desconto” (acesso em 2026-01-12): https://www.gov.br/pf/pt-br/assuntos/noticias/2025/11/pf-e-cgu-deflagram-nova-fase-da-operacao-sem-desconto\n- BBC News Brasil — “‘Nº 2 da Previdência’ é preso: o que se sabe…” (acesso em 2026-01-12): https://www.bbc.com/portuguese/articles/c4g98g52n8go\n",
+  "outboundLinks": [
+    {
+      "text": "CPMI do INSS",
+      "href": "/demos/casos/cpmi-do-inss"
+    },
+    {
+      "text": "Antônio Carlos Camilo Antunes",
+      "href": "/demos/pessoas/antonio-carlos-camilo-antunes"
+    },
+    {
+      "text": "Luiz Inácio Lula da Silva",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    },
+    {
+      "text": "Fábio Luís Lula da Silva",
+      "href": "/demos/pessoas/fabio-luis-lula-da-silva"
+    },
+    {
+      "text": "Antônio Carlos Camilo Antunes",
+      "href": "/demos/pessoas/antonio-carlos-camilo-antunes"
+    },
+    {
+      "text": "Antônio Carlos Camilo Antunes",
+      "href": "/demos/pessoas/antonio-carlos-camilo-antunes"
+    },
+    {
+      "text": "Antônio Carlos Camilo Antunes",
+      "href": "/demos/pessoas/antonio-carlos-camilo-antunes"
+    },
+    {
+      "text": "CPMI do INSS",
+      "href": "/demos/casos/cpmi-do-inss"
+    }
+  ],
+  "outboundLinksBySection": [
+    {
+      "section": "Situação atual",
+      "links": [
+        {
+          "text": "CPMI do INSS",
+          "href": "/demos/casos/cpmi-do-inss"
+        },
+        {
+          "text": "Antônio Carlos Camilo Antunes",
+          "href": "/demos/pessoas/antonio-carlos-camilo-antunes"
+        }
+      ]
+    },
+    {
+      "section": "Por que está no mapa",
+      "links": [
+        {
+          "text": "Luiz Inácio Lula da Silva",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        },
+        {
+          "text": "Fábio Luís Lula da Silva",
+          "href": "/demos/pessoas/fabio-luis-lula-da-silva"
+        },
+        {
+          "text": "Antônio Carlos Camilo Antunes",
+          "href": "/demos/pessoas/antonio-carlos-camilo-antunes"
+        }
+      ]
+    },
+    {
+      "section": "Linha do tempo",
+      "links": [
+        {
+          "text": "Antônio Carlos Camilo Antunes",
+          "href": "/demos/pessoas/antonio-carlos-camilo-antunes"
+        }
+      ]
+    },
+    {
+      "section": "Pessoas relacionadas",
+      "links": [
+        {
+          "text": "Antônio Carlos Camilo Antunes",
+          "href": "/demos/pessoas/antonio-carlos-camilo-antunes"
+        }
+      ]
+    },
+    {
+      "section": "Casos relacionados",
+      "links": [
+        {
+          "text": "CPMI do INSS",
+          "href": "/demos/casos/cpmi-do-inss"
+        }
+      ]
+    }
+  ],
+  "relations": {
+    "cases": [
+      {
+        "text": "CPMI do INSS",
+        "href": "/demos/casos/cpmi-do-inss"
+      }
+    ],
+    "family": [],
+    "people": [
+      {
+        "text": "Antônio Carlos Camilo Antunes",
+        "href": "/demos/pessoas/antonio-carlos-camilo-antunes"
+      }
+    ],
+    "organizations": []
+  },
+  "relationSectionTitles": {
+    "cases": "Casos relacionados",
+    "family": null,
+    "people": "Pessoas relacionadas",
+    "organizations": "Organizações relacionadas"
+  },
+  "openQuestions": []
+}

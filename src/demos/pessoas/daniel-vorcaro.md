@@ -33,7 +33,7 @@ além do que as fontes descrevem.
 
 _Última atualização: 2026-01-10. ID Skepvox: `person--daniel-vorcaro`._
 
-<DemosPortraitSvg />
+<DemosEntityMap />
 
 ## Situação atual
 

@@ -140,6 +140,7 @@ export const sidebar: ThemeConfig['sidebar'] = {
         { text: 'Pessoas', link: '/demos/pessoas/' },
         { text: 'Organizações', link: '/demos/organizacoes/' },
         { text: 'Casos', link: '/demos/casos/' },
+        { text: 'Perguntas', link: '/demos/perguntas' },
         { text: 'Mapa Relacional', link: '/demos/mapa' },
         { text: 'Brasil', link: '/demos/brasil/' },
       ]
@@ -182,17 +183,6 @@ const ndjsonPlugin: Plugin = {
       fs.createReadStream(absolute).pipe(res)
     })
   }
-}
-
-function inlineScript(file: string): HeadConfig {
-  return [
-    'script',
-    {},
-    fs.readFileSync(
-      path.resolve(__dirname, `./inlined-scripts/${file}`),
-      'utf-8'
-    )
-  ]
 }
 
 function stripSkepvoxSuffix(value: string) {

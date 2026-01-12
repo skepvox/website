@@ -33,7 +33,7 @@ O objetivo é registrar cronologia e fontes, separando reportagem de evidência 
 
 _Última atualização: 2026-01-10. ID Skepvox: `person--ricardo-lewandowski`._
 
-<DemosPortraitSvg />
+<DemosEntityMap />
 
 ## Situação atual
 

@@ -1,0 +1,318 @@
+{
+  "schema": "skepvox--demos-graph",
+  "schemaVersion": 3,
+  "focusId": "case--8-de-janeiro-2023",
+  "nodeCount": 9,
+  "edgeCount": 16,
+  "nodes": [
+    {
+      "id": "case--8-de-janeiro-2023",
+      "type": "case",
+      "url": "/demos/casos/8-de-janeiro-2023",
+      "dataUrl": "/demos-data/notes-meta/case--8-de-janeiro-2023.json",
+      "title": "8 de Janeiro de 2023 (Ataques em Brasília)",
+      "description": "Linha do tempo e fontes públicas sobre os ataques de 8 de janeiro de 2023 em Brasília e seus desdobramentos.",
+      "mapLabel": "8-jan",
+      "seed": true,
+      "seedId": "case--8-de-janeiro-2023",
+      "tags": [
+        "democracia",
+        "justica",
+        "investigacao",
+        "brasilia"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "case--atentado-contra-jair-bolsonaro",
+      "type": "case",
+      "url": "/demos/casos/atentado-contra-jair-bolsonaro",
+      "dataUrl": "/demos-data/notes-meta/case--atentado-contra-jair-bolsonaro.json",
+      "title": "Atentado contra Jair Bolsonaro",
+      "description": "Resumo, linha do tempo e fontes públicas sobre o atentado contra Jair Bolsonaro em 2018.",
+      "mapLabel": "atentado-bolsonaro",
+      "seed": false,
+      "seedId": "person--adelio-bispo-de-oliveira",
+      "tags": [
+        "justica",
+        "eleicoes-2018",
+        "violencia-politica"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "case--caso-banco-master",
+      "type": "case",
+      "url": "/demos/casos/caso-banco-master",
+      "dataUrl": "/demos-data/notes-meta/case--caso-banco-master.json",
+      "title": "Caso Banco Master",
+      "description": "Linha do tempo e fontes públicas sobre a crise, investigações e liquidação do Banco Master.",
+      "mapLabel": "master",
+      "seed": true,
+      "seedId": "case--caso-banco-master",
+      "tags": [
+        "economia",
+        "sistema-financeiro",
+        "investigacao",
+        "banco-central"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "case--invasao-sistemas-cnj",
+      "type": "case",
+      "url": "/demos/casos/invasao-sistemas-cnj",
+      "dataUrl": "/demos-data/notes-meta/case--invasao-sistemas-cnj.json",
+      "title": "Invasão aos sistemas do CNJ",
+      "description": "Linha do tempo e fontes públicas sobre a invasão aos sistemas do CNJ e seus desdobramentos no STF.",
+      "mapLabel": "cnj-invasao",
+      "seed": false,
+      "seedId": "person--jose-antonio-dias-toffoli",
+      "tags": [
+        "justica",
+        "investigacao",
+        "hacking",
+        "cnj",
+        "stf"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "person--alexandre-de-moraes",
+      "type": "person",
+      "url": "/demos/pessoas/alexandre-de-moraes",
+      "dataUrl": "/demos-data/notes-meta/person--alexandre-de-moraes.json",
+      "title": "Alexandre de Moraes",
+      "description": "Linha do tempo e fontes públicas sobre Alexandre de Moraes, ministro do STF.",
+      "mapLabel": "alexandre",
+      "seed": false,
+      "seedId": "case--8-de-janeiro-2023",
+      "tags": [
+        "judiciario",
+        "stf",
+        "investigacao",
+        "8-jan",
+        "banco-master"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "person--flavio-dino",
+      "type": "person",
+      "url": "/demos/pessoas/flavio-dino",
+      "dataUrl": "/demos-data/notes-meta/person--flavio-dino.json",
+      "title": "Flávio Dino",
+      "description": "Linha do tempo e fontes públicas sobre Flávio Dino.",
+      "mapLabel": "dino",
+      "seed": false,
+      "seedId": "case--8-de-janeiro-2023",
+      "tags": [
+        "judiciario",
+        "stf",
+        "executivo",
+        "mjsp",
+        "8-jan"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "person--jair-messias-bolsonaro",
+      "type": "person",
+      "url": "/demos/pessoas/jair-messias-bolsonaro",
+      "dataUrl": "/demos-data/notes-meta/person--jair-messias-bolsonaro.json",
+      "title": "Jair Messias Bolsonaro",
+      "description": "Linha do tempo e fontes públicas sobre Jair Messias Bolsonaro.",
+      "mapLabel": "bolsonaro",
+      "seed": false,
+      "seedId": "person--adelio-bispo-de-oliveira",
+      "tags": [
+        "politica",
+        "executivo",
+        "brasil"
+      ],
+      "primaryRoles": [
+        "role--presidente-do-brasil"
+      ]
+    },
+    {
+      "id": "person--luiz-fux",
+      "type": "person",
+      "url": "/demos/pessoas/luiz-fux",
+      "dataUrl": "/demos-data/notes-meta/person--luiz-fux.json",
+      "title": "Luiz Fux",
+      "description": "Linha do tempo e fontes públicas sobre Luiz Fux, ministro do STF.",
+      "mapLabel": "fux",
+      "seed": false,
+      "seedId": "person--jair-messias-bolsonaro",
+      "tags": [
+        "judiciario",
+        "stf",
+        "cautelares"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "person--viviane-barci-de-moraes",
+      "type": "person",
+      "url": "/demos/pessoas/viviane-barci-de-moraes",
+      "dataUrl": "/demos-data/notes-meta/person--viviane-barci-de-moraes.json",
+      "title": "Viviane Barci de Moraes",
+      "description": "Linha do tempo e fontes públicas sobre Viviane Barci de Moraes.",
+      "mapLabel": "viviane",
+      "seed": false,
+      "seedId": "case--caso-banco-master",
+      "tags": [
+        "advocacia",
+        "justica",
+        "banco-master"
+      ],
+      "primaryRoles": []
+    }
+  ],
+  "edges": [
+    {
+      "source": "case--8-de-janeiro-2023",
+      "target": "person--alexandre-de-moraes",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--8-de-janeiro-2023",
+      "target": "person--flavio-dino",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--8-de-janeiro-2023",
+      "target": "person--jair-messias-bolsonaro",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--8-de-janeiro-2023",
+      "target": "person--luiz-fux",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--atentado-contra-jair-bolsonaro",
+      "target": "person--jair-messias-bolsonaro",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--caso-banco-master",
+      "target": "person--alexandre-de-moraes",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--caso-banco-master",
+      "target": "person--viviane-barci-de-moraes",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--invasao-sistemas-cnj",
+      "target": "person--alexandre-de-moraes",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "person--alexandre-de-moraes",
+      "target": "case--8-de-janeiro-2023",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--alexandre-de-moraes",
+      "target": "case--caso-banco-master",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--flavio-dino",
+      "target": "case--8-de-janeiro-2023",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--jair-messias-bolsonaro",
+      "target": "case--8-de-janeiro-2023",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--jair-messias-bolsonaro",
+      "target": "case--atentado-contra-jair-bolsonaro",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--luiz-fux",
+      "target": "case--8-de-janeiro-2023",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--viviane-barci-de-moraes",
+      "target": "case--caso-banco-master",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--viviane-barci-de-moraes",
+      "target": "person--alexandre-de-moraes",
+      "kind": "family",
+      "count": 1,
+      "sections": {
+        "Relações familiares": 1
+      }
+    }
+  ]
+}

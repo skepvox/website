@@ -1,0 +1,64 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/casos/atentado-contra-jair-bolsonaro.md",
+    "sha256": "e085e5369d53aaccc744ecd1614bf52b21f1566dce2949ebfd40b97205bc7197"
+  },
+  "id": "case--atentado-contra-jair-bolsonaro",
+  "type": "case",
+  "url": "/demos/casos/atentado-contra-jair-bolsonaro",
+  "title": "Atentado contra Jair Bolsonaro",
+  "description": "Resumo, linha do tempo e fontes públicas sobre o atentado contra Jair Bolsonaro em 2018.",
+  "updatedAt": "2026-01-09",
+  "demos": {
+    "id": "case--atentado-contra-jair-bolsonaro",
+    "type": "case",
+    "mapLabel": "atentado-bolsonaro",
+    "seed": "no",
+    "seed-id": "person--adelio-bispo-de-oliveira",
+    "target-questions": [
+      "q--person--adelio-bispo-de-oliveira--001",
+      "q--person--adelio-bispo-de-oliveira--002"
+    ],
+    "country": "BR",
+    "identifiers": {
+      "wikidata": "Q60999874",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Atentado_contra_Jair_Bolsonaro"
+    },
+    "aliases": [
+      "Facada em Jair Bolsonaro",
+      "Atentado de Juiz de Fora"
+    ],
+    "tags": [
+      "justica",
+      "eleicoes-2018",
+      "violencia-politica"
+    ]
+  },
+  "openQuestions": [
+    {
+      "id": "q--case--atentado-contra-jair-bolsonaro--001",
+      "question": "há evidência documentada de participação de terceiros (mandante, suporte logístico ou financiamento) que não foi incorporada à conclusão final?",
+      "state": "em-apuracao",
+      "hypothesis": "existe evidência documentada (não incorporada à conclusão final) de participação de terceiros.",
+      "counterHypothesis": "a conclusão de ação individual se sustenta no conjunto de evidências disponíveis, sem sinais verificáveis de participação de terceiros.",
+      "nextSteps": "relatório final e anexos; diligências registradas; perícias financeiras/telefônicas; reconstituição; transparência metodológica.",
+      "advancingNotes": [
+        "/demos/pessoas/rodrigo-morais-fernandes",
+        "/demos/pessoas/zanone-manoel-de-oliveira-junior"
+      ]
+    },
+    {
+      "id": "q--case--atentado-contra-jair-bolsonaro--002",
+      "question": "o caso foi instrumentalizado politicamente (por múltiplos atores) e isso influenciou percepção pública e prioridades de apuração?",
+      "state": "em-apuracao",
+      "hypothesis": "houve instrumentalização política relevante que influenciou percepção pública e prioridades de apuração.",
+      "counterHypothesis": "a percepção pública mudou principalmente por dinâmica eleitoral e mídia, sem evidência pública de influência material sobre atos investigativos/judiciais.",
+      "nextSteps": "cronologia de declarações públicas vs atos processuais; evidência de pressão institucional; decisões com justificativas verificáveis; comparação com protocolos e casos análogos.",
+      "advancingNotes": [
+        "/demos/pessoas/jair-messias-bolsonaro"
+      ]
+    }
+  ]
+}

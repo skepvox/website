@@ -32,9 +32,9 @@ Esta página, por enquanto, existe por causa da conexão direta com o caso
 O objetivo é registrar fatos públicos com linguagem neutra, sem “fechar” hipóteses.
 :::
 
-_Última atualização: 2026-01-10. ID Skepvox: `person--jair-messias-bolsonaro`._
+_Última atualização: 2026-01-12. ID Skepvox: `person--jair-messias-bolsonaro`._
 
-<DemosPortraitSvg />
+<DemosEntityMap />
 
 ## Situação atual
 
@@ -68,7 +68,7 @@ _Última atualização: 2026-01-10. ID Skepvox: `person--jair-messias-bolsonaro`
   - Hipótese: os fundamentos (risco de fuga, ordem pública, descumprimento/violação de cautelares, etc.) e a prova contemporânea podem ser auditados por decisões/votos, reduzindo ambiguidade.
   - Contra-hipótese: a publicização parcial e a dependência de fontes secundárias dificultam auditoria independente, mantendo disputa narrativa sobre proporcionalidade e devido processo.
   - Próximos passos: localizar decisões e votos integrais (incluindo divergências); mapear o que é público vs. sigiloso; registrar critérios legais citados.
-  - Notas que avançam: [Luiz Fux](/demos/pessoas/luiz-fux); [Alexandre de Moraes](/demos/pessoas/alexandre-de-moraes).
+  - Notas que avançam: [Luiz Fux](/demos/pessoas/luiz-fux).
 - `q--person--jair-messias-bolsonaro--003`
   - Pergunta: quais são as condições de custódia na PF e como pedidos e incidentes de saúde/direitos (atendimento, exames, informação, assistência religiosa) foram tratados, com documentação verificável?
   - Estado: `em-apuracao`.

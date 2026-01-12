@@ -1,7 +1,20 @@
 <script setup lang="ts">
 import { computed, onBeforeUnmount, onMounted, ref, watch } from 'vue'
-import { withBase } from 'vitepress'
+import { useRouter, withBase } from 'vitepress'
 import * as d3 from 'd3'
+
+const props = withDefaults(
+  defineProps<{
+    subgraphUrl?: string
+    focusEntityId?: string
+    openPanelOnFocus?: boolean
+  }>(),
+  {
+    openPanelOnFocus: false
+  }
+)
+
+const router = useRouter()
 
 type GraphNode = {
   id: string
@@ -49,10 +62,23 @@ const showCases = ref(true)
 const showLabels = ref(true)
 
 const selectedNodeId = ref<string | null>(null)
+const focusedNodeId = ref<string | null>(null)
 const selectedNote = ref<any | null>(null)
 const selectedNoteLoading = ref(false)
 const selectedNoteError = ref<string | null>(null)
 let selectedNoteAbort: AbortController | null = null
+const selectedNoteCache = new Map<string, any>()
+const selectedNoteCacheLimit = 150
+
+function cacheSelectedNote(url: string, data: any) {
+  if (selectedNoteCache.has(url)) {
+    selectedNoteCache.delete(url)
+  }
+  selectedNoteCache.set(url, data)
+  if (selectedNoteCache.size <= selectedNoteCacheLimit) return
+  const oldest = selectedNoteCache.keys().next().value
+  if (oldest) selectedNoteCache.delete(oldest)
+}
 
 const filteredGraph = computed(() => {
   const data = graph.value
@@ -155,6 +181,9 @@ let stopQueryWatch: (() => void) | null = null
 let stopLabelsWatch: (() => void) | null = null
 let stopSelectionWatch: (() => void) | null = null
 let stopFilterWatch: (() => void) | null = null
+let renderCleanup: (() => void) | null = null
+let applyDefaultStyles: (() => void) | null = null
+let applyLabelsVisibility: (() => void) | null = null
 
 function colorForType(type: string) {
   if (type === 'person') return '#3b82f6'
@@ -170,8 +199,18 @@ function typeLabel(type: string) {
   return type
 }
 
-function normalizeQuery(value: string) {
-  return value.trim().toLowerCase()
+function normalizeForSearch(value: string) {
+  return value
+    .trim()
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+}
+
+function queryTokens(value: string) {
+  const normalized = normalizeForSearch(value)
+  if (!normalized) return []
+  return normalized.split(/\s+/).filter(Boolean)
 }
 
 function labelForNode(node: GraphNode) {
@@ -251,6 +290,16 @@ async function loadSelectedNote() {
     return
   }
 
+  const cached = selectedNoteCache.get(node.dataUrl)
+  if (cached) {
+    selectedNoteAbort?.abort()
+    selectedNoteAbort = null
+    selectedNoteLoading.value = false
+    selectedNoteError.value = null
+    selectedNote.value = cached
+    return
+  }
+
   selectedNoteAbort?.abort()
   const controller = new AbortController()
   selectedNoteAbort = controller
@@ -268,6 +317,7 @@ async function loadSelectedNote() {
     }
     const data = await res.json()
     if (selectedNodeId.value === id) {
+      cacheSelectedNote(node.dataUrl, data)
       selectedNote.value = data
     }
   } catch (e: any) {
@@ -444,14 +494,23 @@ function render() {
 
   const applySelectedMarker = () => {
     const selectedId = selectedNodeId.value
+    const focusId = focusedNodeId.value
     circles
       .attr('r', (d: any) => {
         const base = d.seed ? 7 : 5
-        return d.id === selectedId ? base + 2.5 : base
+        if (d.id === selectedId) return base + 2.5
+        if (!selectedId && d.id === focusId) return base + 2
+        return base
       })
-      .attr('stroke-width', (d: any) => (d.id === selectedId ? 2.4 : 1.6))
+      .attr('stroke-width', (d: any) => {
+        if (d.id === selectedId) return 2.4
+        if (!selectedId && d.id === focusId) return 2.2
+        return 1.6
+      })
       .style('stroke', (d: any) =>
-        d.id === selectedId ? 'var(--vp-c-brand-1)' : 'var(--vp-c-bg)'
+        d.id === selectedId || (!selectedId && d.id === focusId)
+          ? 'var(--vp-c-brand-1)'
+          : 'var(--vp-c-bg)'
       )
   }
 
@@ -463,7 +522,8 @@ function render() {
     selectedNodeId.value = d.id
 
     if (isAlreadySelected && typeof window !== 'undefined' && d.url) {
-      window.location.href = d.url
+      clearSelection()
+      router.go(withBase(d.url))
     }
   })
 
@@ -534,16 +594,18 @@ function render() {
   }
 
   const applyQueryStyles = () => {
-    const q = normalizeQuery(query.value)
+    const tokens = queryTokens(query.value)
     const matchesNode = (d: GraphNode) => {
-      if (!q) return true
-      const haystack = `${d.id} ${d.mapLabel ?? ''} ${d.title ?? ''} ${d.description ?? ''}`.toLowerCase()
-      return haystack.includes(q)
+      if (!tokens.length) return true
+      const haystack = normalizeForSearch(
+        `${d.id} ${d.mapLabel ?? ''} ${d.title ?? ''} ${d.description ?? ''}`
+      )
+      return tokens.every((token) => haystack.includes(token))
     }
 
     node.attr('opacity', (d: any) => (matchesNode(d) ? 1 : 0.14))
     link.attr('opacity', (d: any) => {
-      if (!q) return 1
+      if (!tokens.length) return 1
       const source = typeof d.source === 'string' ? nodeById.get(d.source) : d.source
       const target = typeof d.target === 'string' ? nodeById.get(d.target) : d.target
       return (source && matchesNode(source)) || (target && matchesNode(target)) ? 1 : 0.06
@@ -618,12 +680,29 @@ async function loadGraph() {
     loading.value = true
     error.value = null
 
-    const res = await fetch(withBase('/demos-data/graph.json'), { cache: 'no-store' })
+    const url = props.subgraphUrl
+      ? withBase(props.subgraphUrl)
+      : withBase('/demos-data/graph.json')
+
+    const res = await fetch(url, { cache: 'no-store' })
     if (!res.ok) {
-      throw new Error(`Falha ao carregar /demos-data/graph.json (${res.status})`)
+      throw new Error(`Falha ao carregar ${url} (${res.status})`)
     }
 
     graph.value = (await res.json()) as GraphData
+
+    const focusId =
+      props.focusEntityId && graph.value.nodes.some((node) => node.id === props.focusEntityId)
+        ? props.focusEntityId
+        : null
+
+    focusedNodeId.value = focusId
+
+    if (props.openPanelOnFocus && focusId) {
+      selectedNodeId.value = focusId
+    } else {
+      selectedNodeId.value = null
+    }
   } catch (e: any) {
     error.value = e?.message ?? String(e)
   } finally {
@@ -634,17 +713,13 @@ async function loadGraph() {
 onMounted(async () => {
   await loadGraph()
 
-  let cleanup: (() => void) | null = null
-  let applyDefaultStyles: (() => void) | null = null
-  let applyLabelsVisibility: (() => void) | null = null
-
   const rerender = () => {
-    cleanup?.()
+    renderCleanup?.()
 
     const result = render() as
       | { cleanup: () => void; applyDefaultStyles: () => void; applyLabelsVisibility: () => void }
       | undefined
-    cleanup = result?.cleanup ?? null
+    renderCleanup = result?.cleanup ?? null
     applyDefaultStyles = result?.applyDefaultStyles ?? null
     applyLabelsVisibility = result?.applyLabelsVisibility ?? null
   }
@@ -669,23 +744,28 @@ onMounted(async () => {
     resizeObserver = new ResizeObserver(() => rerender())
     resizeObserver.observe(containerEl.value)
   }
+})
 
-  onBeforeUnmount(() => {
-    stopRenderWatch?.()
-    stopRenderWatch = null
-    stopFilterWatch?.()
-    stopFilterWatch = null
-    stopQueryWatch?.()
-    stopQueryWatch = null
-    stopLabelsWatch?.()
-    stopLabelsWatch = null
-    stopSelectionWatch?.()
-    stopSelectionWatch = null
-    resizeObserver?.disconnect()
-    resizeObserver = null
-    cleanup?.()
-    cleanup = null
-  })
+onBeforeUnmount(() => {
+  stopRenderWatch?.()
+  stopRenderWatch = null
+  stopFilterWatch?.()
+  stopFilterWatch = null
+  stopQueryWatch?.()
+  stopQueryWatch = null
+  stopLabelsWatch?.()
+  stopLabelsWatch = null
+  stopSelectionWatch?.()
+  stopSelectionWatch = null
+
+  resizeObserver?.disconnect()
+  resizeObserver = null
+
+  selectedNoteAbort?.abort()
+  selectedNoteAbort = null
+
+  renderCleanup?.()
+  renderCleanup = null
 })
 
 watch(selectedNodeId, async () => {
@@ -777,7 +857,7 @@ watch(
         </div>
 
         <div class="demos-map__panel-actions">
-          <a class="demos-map__panel-link" :href="withBase(selectedNode.url)">Abrir nota</a>
+          <a class="demos-map__panel-link" :href="withBase(selectedNode.url)" @click="clearSelection">Abrir nota</a>
         </div>
 
         <div class="demos-map__panel-body">

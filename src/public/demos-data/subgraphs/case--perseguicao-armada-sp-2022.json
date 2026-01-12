@@ -1,0 +1,105 @@
+{
+  "schema": "skepvox--demos-graph",
+  "schemaVersion": 3,
+  "focusId": "case--perseguicao-armada-sp-2022",
+  "nodeCount": 3,
+  "edgeCount": 4,
+  "nodes": [
+    {
+      "id": "case--invasao-sistemas-cnj",
+      "type": "case",
+      "url": "/demos/casos/invasao-sistemas-cnj",
+      "dataUrl": "/demos-data/notes-meta/case--invasao-sistemas-cnj.json",
+      "title": "Invasão aos sistemas do CNJ",
+      "description": "Linha do tempo e fontes públicas sobre a invasão aos sistemas do CNJ e seus desdobramentos no STF.",
+      "mapLabel": "cnj-invasao",
+      "seed": false,
+      "seedId": "person--jose-antonio-dias-toffoli",
+      "tags": [
+        "justica",
+        "investigacao",
+        "hacking",
+        "cnj",
+        "stf"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "case--perseguicao-armada-sp-2022",
+      "type": "case",
+      "url": "/demos/casos/perseguicao-armada-sp-2022",
+      "dataUrl": "/demos-data/notes-meta/case--perseguicao-armada-sp-2022.json",
+      "title": "Perseguição armada em São Paulo (2022)",
+      "description": "Linha do tempo e fontes públicas sobre o episódio de perseguição armada em São Paulo (2022) atribuído a Carla Zambelli e seus desdobramentos no STF.",
+      "mapLabel": "zambelli-arma",
+      "seed": false,
+      "seedId": "person--jose-antonio-dias-toffoli",
+      "tags": [
+        "justica",
+        "stf",
+        "violencia-politica",
+        "armas"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "person--carla-zambelli-salgado-de-oliveira",
+      "type": "person",
+      "url": "/demos/pessoas/carla-zambelli-salgado-de-oliveira",
+      "dataUrl": "/demos-data/notes-meta/person--carla-zambelli-salgado-de-oliveira.json",
+      "title": "Carla Zambelli Salgado de Oliveira",
+      "description": "Linha do tempo e fontes públicas sobre Carla Zambelli Salgado de Oliveira, política brasileira e ex-deputada federal por SP.",
+      "mapLabel": "zambelli",
+      "seed": false,
+      "seedId": "person--jose-antonio-dias-toffoli",
+      "tags": [
+        "politica",
+        "legislativo",
+        "justica",
+        "stf",
+        "cnj"
+      ],
+      "primaryRoles": [
+        "role--deputada-federal"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": "case--invasao-sistemas-cnj",
+      "target": "person--carla-zambelli-salgado-de-oliveira",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--perseguicao-armada-sp-2022",
+      "target": "person--carla-zambelli-salgado-de-oliveira",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "person--carla-zambelli-salgado-de-oliveira",
+      "target": "case--invasao-sistemas-cnj",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--carla-zambelli-salgado-de-oliveira",
+      "target": "case--perseguicao-armada-sp-2022",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    }
+  ]
+}

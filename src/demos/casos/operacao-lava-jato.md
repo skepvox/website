@@ -30,6 +30,8 @@ com rastreabilidade.
 
 _Última atualização: 2026-01-09. ID Skepvox: `case--operacao-lava-jato`._
 
+<DemosEntityMap />
+
 ## Situação atual
 
 - Status: para os casos envolvendo [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) citados aqui, o STF confirmou a anulação das condenações em 2021 (competência). No caso do tríplex, após remessa para o DF, houve arquivamento em 2022 (segundo cobertura). Fontes: [STF](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1), [G1](https://g1.globo.com/jornal-nacional/noticia/2022/01/28/justica-federal-do-df-arquiva-processo-contra-lula-no-caso-do-triplex.ghtml).

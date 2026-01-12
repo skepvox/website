@@ -44,7 +44,7 @@ controversos, o Skepvox descreve o que é **documentado** e separa **fatos**, **
 
 _Última atualização: 2026-01-09. ID Skepvox: `person--carla-zambelli-salgado-de-oliveira`._
 
-<DemosPortraitSvg />
+<DemosEntityMap />
 
 ## Situação atual
 

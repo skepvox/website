@@ -1,0 +1,175 @@
+{
+  "schema": "skepvox--demos-graph",
+  "schemaVersion": 3,
+  "focusId": "person--flavio-dino",
+  "nodeCount": 5,
+  "edgeCount": 8,
+  "nodes": [
+    {
+      "id": "case--8-de-janeiro-2023",
+      "type": "case",
+      "url": "/demos/casos/8-de-janeiro-2023",
+      "dataUrl": "/demos-data/notes-meta/case--8-de-janeiro-2023.json",
+      "title": "8 de Janeiro de 2023 (Ataques em Brasília)",
+      "description": "Linha do tempo e fontes públicas sobre os ataques de 8 de janeiro de 2023 em Brasília e seus desdobramentos.",
+      "mapLabel": "8-jan",
+      "seed": true,
+      "seedId": "case--8-de-janeiro-2023",
+      "tags": [
+        "democracia",
+        "justica",
+        "investigacao",
+        "brasilia"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "person--alexandre-de-moraes",
+      "type": "person",
+      "url": "/demos/pessoas/alexandre-de-moraes",
+      "dataUrl": "/demos-data/notes-meta/person--alexandre-de-moraes.json",
+      "title": "Alexandre de Moraes",
+      "description": "Linha do tempo e fontes públicas sobre Alexandre de Moraes, ministro do STF.",
+      "mapLabel": "alexandre",
+      "seed": false,
+      "seedId": "case--8-de-janeiro-2023",
+      "tags": [
+        "judiciario",
+        "stf",
+        "investigacao",
+        "8-jan",
+        "banco-master"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "person--flavio-dino",
+      "type": "person",
+      "url": "/demos/pessoas/flavio-dino",
+      "dataUrl": "/demos-data/notes-meta/person--flavio-dino.json",
+      "title": "Flávio Dino",
+      "description": "Linha do tempo e fontes públicas sobre Flávio Dino.",
+      "mapLabel": "dino",
+      "seed": false,
+      "seedId": "case--8-de-janeiro-2023",
+      "tags": [
+        "judiciario",
+        "stf",
+        "executivo",
+        "mjsp",
+        "8-jan"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "person--jair-messias-bolsonaro",
+      "type": "person",
+      "url": "/demos/pessoas/jair-messias-bolsonaro",
+      "dataUrl": "/demos-data/notes-meta/person--jair-messias-bolsonaro.json",
+      "title": "Jair Messias Bolsonaro",
+      "description": "Linha do tempo e fontes públicas sobre Jair Messias Bolsonaro.",
+      "mapLabel": "bolsonaro",
+      "seed": false,
+      "seedId": "person--adelio-bispo-de-oliveira",
+      "tags": [
+        "politica",
+        "executivo",
+        "brasil"
+      ],
+      "primaryRoles": [
+        "role--presidente-do-brasil"
+      ]
+    },
+    {
+      "id": "person--luiz-fux",
+      "type": "person",
+      "url": "/demos/pessoas/luiz-fux",
+      "dataUrl": "/demos-data/notes-meta/person--luiz-fux.json",
+      "title": "Luiz Fux",
+      "description": "Linha do tempo e fontes públicas sobre Luiz Fux, ministro do STF.",
+      "mapLabel": "fux",
+      "seed": false,
+      "seedId": "person--jair-messias-bolsonaro",
+      "tags": [
+        "judiciario",
+        "stf",
+        "cautelares"
+      ],
+      "primaryRoles": []
+    }
+  ],
+  "edges": [
+    {
+      "source": "case--8-de-janeiro-2023",
+      "target": "person--alexandre-de-moraes",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--8-de-janeiro-2023",
+      "target": "person--flavio-dino",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--8-de-janeiro-2023",
+      "target": "person--jair-messias-bolsonaro",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--8-de-janeiro-2023",
+      "target": "person--luiz-fux",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "person--alexandre-de-moraes",
+      "target": "case--8-de-janeiro-2023",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--flavio-dino",
+      "target": "case--8-de-janeiro-2023",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--jair-messias-bolsonaro",
+      "target": "case--8-de-janeiro-2023",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--luiz-fux",
+      "target": "case--8-de-janeiro-2023",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    }
+  ]
+}

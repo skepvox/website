@@ -1,0 +1,38 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/organizacoes/partido-dos-trabalhadores-pt.md",
+    "sha256": "87e8c17e825500d7b047745c9d53e6e2791bc57f8177da4bfd92086afc3af328"
+  },
+  "id": "org--partido-dos-trabalhadores-pt",
+  "type": "org",
+  "url": "/demos/organizacoes/partido-dos-trabalhadores-pt",
+  "title": "Partido dos Trabalhadores (PT)",
+  "description": "Resumo factual e fontes públicas sobre o Partido dos Trabalhadores (PT).",
+  "updatedAt": "2026-01-09",
+  "demos": {
+    "id": "org--partido-dos-trabalhadores-pt",
+    "type": "org",
+    "mapLabel": "PT",
+    "seed": "no",
+    "seed-id": "person--luiz-inacio-lula-da-silva",
+    "target-questions": [
+      "q--person--luiz-inacio-lula-da-silva--001"
+    ],
+    "country": "BR",
+    "identifiers": {
+      "wikidata": "Q657089",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Partido_dos_Trabalhadores"
+    },
+    "aliases": [
+      "PT",
+      "Partido dos Trabalhadores"
+    ],
+    "tags": [
+      "partido-politico",
+      "brasil"
+    ]
+  },
+  "openQuestions": []
+}

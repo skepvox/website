@@ -9,3 +9,5 @@ description: "Organizações (empresas, órgãos, partidos) mapeadas no Skepvox 
 - [Central Única dos Trabalhadores (CUT)](/demos/organizacoes/central-unica-dos-trabalhadores-cut)
 - [Sindicato dos Metalúrgicos do ABC](/demos/organizacoes/sindicato-dos-metalurgicos-do-abc)
 - [Banco Master](/demos/organizacoes/banco-master)
+- [Banco Master de Investimento](/demos/organizacoes/banco-master-de-investimento)
+- [Banco Letsbank](/demos/organizacoes/banco-letsbank)

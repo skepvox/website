@@ -41,7 +41,7 @@ como hipóteses (testáveis), com contra‑hipóteses explícitas.
 
 _Última atualização: 2026-01-09. ID Skepvox: `person--sergio-fernando-moro`._
 
-<DemosPortraitSvg />
+<DemosEntityMap />
 
 ## Situação atual
 

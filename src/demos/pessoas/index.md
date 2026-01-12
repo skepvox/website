@@ -8,6 +8,7 @@ description: "Pessoas públicas mapeadas no Skepvox (rota `/demos`)."
 - [Adélio Bispo de Oliveira](/demos/pessoas/adelio-bispo-de-oliveira)
 - [Alexandre de Moraes](/demos/pessoas/alexandre-de-moraes)
 - [Andrei Augusto Passos Rodrigues](/demos/pessoas/andrei-augusto-passos-rodrigues)
+- [Antônio Carlos Camilo Antunes](/demos/pessoas/antonio-carlos-camilo-antunes)
 - [Carla Zambelli Salgado de Oliveira](/demos/pessoas/carla-zambelli-salgado-de-oliveira)
 - [Daniel Bueno Vorcaro](/demos/pessoas/daniel-vorcaro)
 - [Fábio Luís Lula da Silva](/demos/pessoas/fabio-luis-lula-da-silva)

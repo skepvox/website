@@ -143,10 +143,6 @@ export const renderQ153Pie = (input: ChartRenderInput): ChartInstance => {
       .arc<d3.PieArcDatum<PieItem>>()
       .innerRadius(0)
       .outerRadius(radius)
-    const labelArc = d3
-      .arc<d3.PieArcDatum<PieItem>>()
-      .innerRadius(radius * 0.6)
-      .outerRadius(radius * 0.6)
 
     const arcs = pie(items)
 

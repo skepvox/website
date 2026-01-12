@@ -1,0 +1,51 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/pessoas/antonio-carlos-camilo-antunes.md",
+    "sha256": "3d61fe95448313548a8354e28b51fb4403fb516e5c7cf8966747e05bbc40168c"
+  },
+  "id": "person--antonio-carlos-camilo-antunes",
+  "type": "person",
+  "url": "/demos/pessoas/antonio-carlos-camilo-antunes",
+  "title": "Antônio Carlos Camilo Antunes",
+  "description": "Linha do tempo e fontes públicas sobre Antônio Carlos Camilo Antunes, citado em reportagens como \"careca do INSS\".",
+  "updatedAt": "2026-01-12",
+  "demos": {
+    "id": "person--antonio-carlos-camilo-antunes",
+    "type": "person",
+    "mapLabel": "careca-inss",
+    "seed": "no",
+    "seed-id": "person--luiz-inacio-lula-da-silva",
+    "target-questions": [
+      "q--person--fabio-luis-lula-da-silva--001",
+      "q--person--luiz-inacio-lula-da-silva--001"
+    ],
+    "country": "BR",
+    "aliases": [
+      "Careca do INSS",
+      "careca do INSS",
+      "Antonio Carlos Camilo Antunes"
+    ],
+    "tags": [
+      "previdencia",
+      "inss",
+      "investigacao",
+      "cpmi"
+    ]
+  },
+  "openQuestions": [
+    {
+      "id": "q--person--antonio-carlos-camilo-antunes--001",
+      "question": "quais documentos públicos (decisões, relatórios, peças e movimentações) descrevem o papel atribuído a Antunes na Operação Sem Desconto e qual é o status formal atual (prisão, medidas cautelares, denúncias, decisões)?",
+      "state": "em-apuracao",
+      "hypothesis": "há documentação pública suficiente para registrar, com rastreabilidade, o que foi imputado e o que foi decidido.",
+      "counterHypothesis": "a maior parte do caso permanece sob sigilo ou com documentação insuficiente; só existe cobertura jornalística, sem base documental acessível para auditoria independente.",
+      "nextSteps": "localizar notas oficiais da PF/CGU; identificar processos e decisões citados em reportagens; registrar o que é público vs. sigiloso; adicionar cronologia de medidas e decisões com links integrais.",
+      "advancingNotes": [
+        "/demos/casos/operacao-sem-desconto",
+        "/demos/casos/cpmi-do-inss"
+      ]
+    }
+  ]
+}

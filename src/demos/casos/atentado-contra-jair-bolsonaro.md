@@ -32,6 +32,8 @@ hipóteses como hipóteses (testáveis) e sem tratar alegações como fatos.
 
 _Última atualização: 2026-01-09. ID Skepvox: `case--atentado-contra-jair-bolsonaro`._
 
+<DemosEntityMap />
+
 ## Situação atual
 
 - Status: a PF concluiu em 2018 que o agressor agiu sozinho (segundo cobertura) e, em 2019, houve decisão judicial determinando internação por tempo indeterminado por inimputabilidade (“isento de pena”, segundo cobertura). Em 2024, houve tentativa de transferência para hospital psiquiátrico em MG, suspensa pelo STJ (segundo cobertura). Fontes: [G1 (2018-09-28)](https://g1.globo.com/jornal-nacional/noticia/2018/09/28/pf-conclui-que-agressor-de-jair-bolsonaro-agiu-sozinho.ghtml), [G1 (2019-06-14)](https://g1.globo.com/politica/noticia/2019/06/14/juiz-diz-que-adelio-bispo-e-isento-de-pena-e-converte-prisao-em-internacao-por-tempo-indeterminado.ghtml), [G1 (2024-07-05)](https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2024/07/05/adelio-bispo-autor-da-facada-em-bolsonaro-nao-sera-transferido-de-ms-para-mg-decide-stj.ghtml).

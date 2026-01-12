@@ -1,0 +1,64 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/casos/operacao-spoofing.md",
+    "sha256": "f774be6a479b67de56e58bdb99fb30738cf6fce863ad71d65bc697afe86052db"
+  },
+  "id": "case--operacao-spoofing",
+  "type": "case",
+  "url": "/demos/casos/operacao-spoofing",
+  "title": "Operação Spoofing",
+  "description": "Linha do tempo e fontes públicas sobre a Operação Spoofing (PF), que investigou invasões a contas do Telegram de autoridades e seus desdobramentos judiciais.",
+  "updatedAt": "2026-01-09",
+  "demos": {
+    "id": "case--operacao-spoofing",
+    "type": "case",
+    "mapLabel": "spoofing",
+    "seed": "no",
+    "seed-id": "person--jose-antonio-dias-toffoli",
+    "target-questions": [
+      "q--person--jose-antonio-dias-toffoli--002"
+    ],
+    "country": "BR",
+    "identifiers": {
+      "wikidata": "Q86727345",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Spoofing",
+      "intercept-series": "https://www.intercept.com.br/especiais/mensagens-lava-jato/"
+    },
+    "aliases": [
+      "Operação Spoofing (PF)"
+    ],
+    "tags": [
+      "justica",
+      "investigacao",
+      "hacking",
+      "telegram",
+      "lava-jato"
+    ]
+  },
+  "openQuestions": [
+    {
+      "id": "q--case--operacao-spoofing--001",
+      "question": "o material apreendido na Spoofing é tecnicamente auditável (integridade, hashes, logs, método de extração) a ponto de sustentar inferências institucionais amplas?",
+      "state": "em-apuracao",
+      "hypothesis": "é auditável de forma suficientemente robusta para sustentar inferências institucionais amplas.",
+      "counterHypothesis": "a auditabilidade pública disponível é insuficiente (ou limitada por lacunas de cadeia de custódia) para sustentar inferências amplas sem ressalvas.",
+      "nextSteps": "laudos integrais; cadeia de custódia; reprodutibilidade da extração; comparação com registros de servidor/dispositivo; auditorias independentes.",
+      "advancingNotes": [
+        "/demos/pessoas/walter-delgatti-neto"
+      ]
+    },
+    {
+      "id": "q--case--operacao-spoofing--002",
+      "question": "decisões que citam a Spoofing (ex.: leniências/Lava Jato) usam o material dentro de limites processuais consistentes, ou ampliam indevidamente o alcance de prova/indício?",
+      "state": "em-apuracao",
+      "hypothesis": "algumas decisões ampliam indevidamente o alcance do material como prova/indício além de limites processuais consistentes.",
+      "counterHypothesis": "mesmo com controvérsia técnica, o material tem valor probatório ao menos para garantir direito de defesa e revelar contradições, sem exigir “perfeita” cadeia de custódia.",
+      "nextSteps": "leitura das decisões integrais e fundamentos; decisões correlatas (STF/STJ); efeitos concretos; comparação com jurisprudência.",
+      "advancingNotes": [
+        "/demos/pessoas/walter-delgatti-neto"
+      ]
+    }
+  ]
+}

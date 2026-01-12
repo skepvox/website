@@ -1,0 +1,61 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/pessoas/adelio-bispo-de-oliveira.md",
+    "sha256": "ca7e9f0ee8243183495d55a409da4f35331249535a4ef7889a220ae226f8d2fa"
+  },
+  "id": "person--adelio-bispo-de-oliveira",
+  "type": "person",
+  "url": "/demos/pessoas/adelio-bispo-de-oliveira",
+  "title": "Adélio Bispo de Oliveira",
+  "description": "Linha do tempo e fontes públicas sobre Adélio Bispo de Oliveira.",
+  "updatedAt": "2026-01-10",
+  "demos": {
+    "id": "person--adelio-bispo-de-oliveira",
+    "type": "person",
+    "mapLabel": "adelio",
+    "portrait": "adelio-bispo-de-oliveira.png",
+    "seed": "yes",
+    "seed-id": "person--adelio-bispo-de-oliveira",
+    "country": "BR",
+    "identifiers": {
+      "wikidata": "Q59572084",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Atentado_contra_Jair_Bolsonaro#Autor"
+    },
+    "aliases": [
+      "Adélio Bispo",
+      "Adelio Bispo de Oliveira"
+    ],
+    "tags": [
+      "atentado-2018",
+      "violencia-politica"
+    ]
+  },
+  "openQuestions": [
+    {
+      "id": "q--person--adelio-bispo-de-oliveira--001",
+      "question": "existiu mandante, financiamento ou suporte logístico não identificado no inquérito?",
+      "state": "em-apuracao",
+      "hypothesis": "existiu mandante/financiamento/suporte logístico que não foi identificado (ou não foi incorporado) na conclusão oficial.",
+      "counterHypothesis": "os fatos e decisões disponíveis sustentam de forma suficiente a tese de ação individual, sem evidência verificável de mandante.",
+      "nextSteps": "leitura integral do relatório final e anexos; evidência documental de fluxos financeiros/comunicação; reconstituição auditável de diligências e decisões; confronto com conclusões oficiais.",
+      "advancingNotes": [
+        "/demos/casos/atentado-contra-jair-bolsonaro",
+        "/demos/pessoas/rodrigo-morais-fernandes",
+        "/demos/pessoas/zanone-manoel-de-oliveira-junior"
+      ]
+    },
+    {
+      "id": "q--person--adelio-bispo-de-oliveira--002",
+      "question": "houve falhas institucionais (antes/durante/depois) que distorceram a apuração (por pressão política, desinformação ou limitações técnicas)?",
+      "state": "em-apuracao",
+      "hypothesis": "houve falhas institucionais que distorceram a apuração (por pressão política, desinformação ou limitações técnicas).",
+      "counterHypothesis": "as limitações e decisões investigativas explicam-se por capacidade técnica e devido processo, sem evidência pública de distorção deliberada.",
+      "nextSteps": "cadeia de custódia; registro de diligências; consistência entre laudos/relatos e decisões judiciais; transparência metodológica; comparação com protocolos e casos análogos.",
+      "advancingNotes": [
+        "/demos/casos/atentado-contra-jair-bolsonaro"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "schema": "skepvox--demos-graph",
+  "schemaVersion": 3,
+  "focusId": "person--adelio-bispo-de-oliveira",
+  "nodeCount": 5,
+  "edgeCount": 8,
+  "nodes": [
+    {
+      "id": "case--atentado-contra-jair-bolsonaro",
+      "type": "case",
+      "url": "/demos/casos/atentado-contra-jair-bolsonaro",
+      "dataUrl": "/demos-data/notes-meta/case--atentado-contra-jair-bolsonaro.json",
+      "title": "Atentado contra Jair Bolsonaro",
+      "description": "Resumo, linha do tempo e fontes públicas sobre o atentado contra Jair Bolsonaro em 2018.",
+      "mapLabel": "atentado-bolsonaro",
+      "seed": false,
+      "seedId": "person--adelio-bispo-de-oliveira",
+      "tags": [
+        "justica",
+        "eleicoes-2018",
+        "violencia-politica"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "person--adelio-bispo-de-oliveira",
+      "type": "person",
+      "url": "/demos/pessoas/adelio-bispo-de-oliveira",
+      "dataUrl": "/demos-data/notes-meta/person--adelio-bispo-de-oliveira.json",
+      "title": "Adélio Bispo de Oliveira",
+      "description": "Linha do tempo e fontes públicas sobre Adélio Bispo de Oliveira.",
+      "mapLabel": "adelio",
+      "seed": true,
+      "seedId": "person--adelio-bispo-de-oliveira",
+      "tags": [
+        "atentado-2018",
+        "violencia-politica"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "person--jair-messias-bolsonaro",
+      "type": "person",
+      "url": "/demos/pessoas/jair-messias-bolsonaro",
+      "dataUrl": "/demos-data/notes-meta/person--jair-messias-bolsonaro.json",
+      "title": "Jair Messias Bolsonaro",
+      "description": "Linha do tempo e fontes públicas sobre Jair Messias Bolsonaro.",
+      "mapLabel": "bolsonaro",
+      "seed": false,
+      "seedId": "person--adelio-bispo-de-oliveira",
+      "tags": [
+        "politica",
+        "executivo",
+        "brasil"
+      ],
+      "primaryRoles": [
+        "role--presidente-do-brasil"
+      ]
+    },
+    {
+      "id": "person--rodrigo-morais-fernandes",
+      "type": "person",
+      "url": "/demos/pessoas/rodrigo-morais-fernandes",
+      "dataUrl": "/demos-data/notes-meta/person--rodrigo-morais-fernandes.json",
+      "title": "Rodrigo Morais Fernandes",
+      "description": "Linha do tempo e fontes públicas sobre Rodrigo Morais Fernandes.",
+      "mapLabel": "rodrigo-morais",
+      "seed": false,
+      "seedId": "person--adelio-bispo-de-oliveira",
+      "tags": [
+        "pf",
+        "atentado-2018",
+        "investigacao",
+        "justica"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "person--zanone-manoel-de-oliveira-junior",
+      "type": "person",
+      "url": "/demos/pessoas/zanone-manoel-de-oliveira-junior",
+      "dataUrl": "/demos-data/notes-meta/person--zanone-manoel-de-oliveira-junior.json",
+      "title": "Zanone Manoel de Oliveira Júnior",
+      "description": "Linha do tempo e fontes públicas sobre Zanone Manoel de Oliveira Júnior.",
+      "mapLabel": "zanone",
+      "seed": false,
+      "seedId": "person--adelio-bispo-de-oliveira",
+      "tags": [
+        "advocacia",
+        "oab",
+        "atentado-2018",
+        "investigacao",
+        "justica"
+      ],
+      "primaryRoles": []
+    }
+  ],
+  "edges": [
+    {
+      "source": "case--atentado-contra-jair-bolsonaro",
+      "target": "person--adelio-bispo-de-oliveira",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--atentado-contra-jair-bolsonaro",
+      "target": "person--jair-messias-bolsonaro",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--atentado-contra-jair-bolsonaro",
+      "target": "person--rodrigo-morais-fernandes",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--atentado-contra-jair-bolsonaro",
+      "target": "person--zanone-manoel-de-oliveira-junior",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "person--adelio-bispo-de-oliveira",
+      "target": "case--atentado-contra-jair-bolsonaro",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--jair-messias-bolsonaro",
+      "target": "case--atentado-contra-jair-bolsonaro",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--rodrigo-morais-fernandes",
+      "target": "case--atentado-contra-jair-bolsonaro",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--zanone-manoel-de-oliveira-junior",
+      "target": "case--atentado-contra-jair-bolsonaro",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    }
+  ]
+}

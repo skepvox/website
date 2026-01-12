@@ -33,7 +33,7 @@ as hipóteses como perguntas.
 
 _Última atualização: 2026-01-10. ID Skepvox: `person--luiz-fux`._
 
-<DemosPortraitSvg />
+<DemosEntityMap />
 
 ## Situação atual
 

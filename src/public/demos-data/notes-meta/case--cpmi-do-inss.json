@@ -1,0 +1,52 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/casos/cpmi-do-inss.md",
+    "sha256": "0eb41a41ea390a08bc9e525915be72c0bdcb02c5f6e6288423941f731d095f6d"
+  },
+  "id": "case--cpmi-do-inss",
+  "type": "case",
+  "url": "/demos/casos/cpmi-do-inss",
+  "title": "CPMI do INSS",
+  "description": "Linha do tempo e fontes públicas sobre a CPMI do INSS (Congresso/Senado), criada para apurar descontos não autorizados em benefícios.",
+  "updatedAt": "2026-01-12",
+  "demos": {
+    "id": "case--cpmi-do-inss",
+    "type": "case",
+    "mapLabel": "cpmi-inss",
+    "seed": "no",
+    "seed-id": "person--luiz-inacio-lula-da-silva",
+    "target-questions": [
+      "q--person--antonio-carlos-camilo-antunes--001",
+      "q--person--fabio-luis-lula-da-silva--001"
+    ],
+    "country": "BR",
+    "aliases": [
+      "CPMI do INSS",
+      "Comissão Parlamentar Mista de Inquérito do INSS",
+      "Fraudes no INSS (CPMI)",
+      "Descontos indevidos no INSS (CPMI)",
+      "Descontos associativos no INSS (CPMI)"
+    ],
+    "tags": [
+      "previdencia",
+      "inss",
+      "cpmi",
+      "senado"
+    ]
+  },
+  "openQuestions": [
+    {
+      "id": "q--case--cpmi-do-inss--001",
+      "question": "quais requerimentos, oitivas, documentos recebidos e relatórios da CPMI do INSS estão publicamente acessíveis, e como eles se conectam a peças/decisões públicas da investigação (PF/CGU)?",
+      "state": "em-apuracao",
+      "hypothesis": "existe documentação pública suficiente (atas, requerimentos e transcrições) para mapear, com rastreabilidade, o que foi alegado e quais foram os encaminhamentos formais da CPMI.",
+      "counterHypothesis": "parte relevante permanece sem publicização (ou em formatos difíceis de auditar), e a CPMI gera mais sinal político do que evidência documental rastreável.",
+      "nextSteps": "inventariar (com IDs) reuniões, requerimentos, documentos e notas taquigráficas via Dados Abertos; registrar o que é público vs. não publicado; cruzar peças parlamentares com peças/decisões públicas da investigação (PF/CGU).",
+      "advancingNotes": [
+        "/demos/casos/operacao-sem-desconto"
+      ]
+    }
+  ]
+}

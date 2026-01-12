@@ -1,0 +1,504 @@
+{
+  "schema": "skepvox--demos-graph",
+  "schemaVersion": 3,
+  "focusId": "person--fabio-luis-lula-da-silva",
+  "nodeCount": 13,
+  "edgeCount": 30,
+  "nodes": [
+    {
+      "id": "case--cpmi-do-inss",
+      "type": "case",
+      "url": "/demos/casos/cpmi-do-inss",
+      "dataUrl": "/demos-data/notes-meta/case--cpmi-do-inss.json",
+      "title": "CPMI do INSS",
+      "description": "Linha do tempo e fontes públicas sobre a CPMI do INSS (Congresso/Senado), criada para apurar descontos não autorizados em benefícios.",
+      "mapLabel": "cpmi-inss",
+      "seed": false,
+      "seedId": "person--luiz-inacio-lula-da-silva",
+      "tags": [
+        "previdencia",
+        "inss",
+        "cpmi",
+        "senado"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "case--operacao-lava-jato",
+      "type": "case",
+      "url": "/demos/casos/operacao-lava-jato",
+      "dataUrl": "/demos-data/notes-meta/case--operacao-lava-jato.json",
+      "title": "Operação Lava Jato",
+      "description": "Linha do tempo e fontes públicas sobre a Operação Lava Jato e eventos associados a Luiz Inácio Lula da Silva.",
+      "mapLabel": "lava-jato",
+      "seed": false,
+      "seedId": "person--luiz-inacio-lula-da-silva",
+      "tags": [
+        "justica",
+        "investigacao",
+        "lava-jato"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "case--operacao-sem-desconto",
+      "type": "case",
+      "url": "/demos/casos/operacao-sem-desconto",
+      "dataUrl": "/demos-data/notes-meta/case--operacao-sem-desconto.json",
+      "title": "Operação Sem Desconto (PF/CGU)",
+      "description": "Linha do tempo e fontes públicas sobre a Operação Sem Desconto (PF/CGU), que apura descontos não autorizados em benefícios.",
+      "mapLabel": "sem-desconto",
+      "seed": false,
+      "seedId": "person--luiz-inacio-lula-da-silva",
+      "tags": [
+        "previdencia",
+        "inss",
+        "investigacao",
+        "pf",
+        "cgu"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "case--operacao-spoofing",
+      "type": "case",
+      "url": "/demos/casos/operacao-spoofing",
+      "dataUrl": "/demos-data/notes-meta/case--operacao-spoofing.json",
+      "title": "Operação Spoofing",
+      "description": "Linha do tempo e fontes públicas sobre a Operação Spoofing (PF), que investigou invasões a contas do Telegram de autoridades e seus desdobramentos judiciais.",
+      "mapLabel": "spoofing",
+      "seed": false,
+      "seedId": "person--jose-antonio-dias-toffoli",
+      "tags": [
+        "justica",
+        "investigacao",
+        "hacking",
+        "telegram",
+        "lava-jato"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "case--sede-do-instituto-lula",
+      "type": "case",
+      "url": "/demos/casos/sede-do-instituto-lula",
+      "dataUrl": "/demos-data/notes-meta/case--sede-do-instituto-lula.json",
+      "title": "Sede do Instituto Lula",
+      "description": "Resumo, linha do tempo e fontes públicas sobre o caso envolvendo a suposta cessão de terreno para a nova sede do Instituto Lula (Lava Jato).",
+      "mapLabel": "instituto-lula",
+      "seed": false,
+      "seedId": "person--luiz-inacio-lula-da-silva",
+      "tags": [
+        "justica",
+        "lava-jato",
+        "instituto-lula"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "case--sitio-de-atibaia",
+      "type": "case",
+      "url": "/demos/casos/sitio-de-atibaia",
+      "dataUrl": "/demos-data/notes-meta/case--sitio-de-atibaia.json",
+      "title": "Sítio de Atibaia",
+      "description": "Resumo, linha do tempo e fontes públicas sobre o caso do sítio de Atibaia (Lava Jato) envolvendo Luiz Inácio Lula da Silva.",
+      "mapLabel": "sitio-atibaia",
+      "seed": false,
+      "seedId": "person--luiz-inacio-lula-da-silva",
+      "tags": [
+        "justica",
+        "lava-jato"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "case--triplex-do-guaruja",
+      "type": "case",
+      "url": "/demos/casos/triplex-do-guaruja",
+      "dataUrl": "/demos-data/notes-meta/case--triplex-do-guaruja.json",
+      "title": "Tríplex do Guarujá",
+      "description": "Resumo, linha do tempo e fontes públicas sobre o caso do tríplex do Guarujá (Lava Jato) envolvendo Luiz Inácio Lula da Silva.",
+      "mapLabel": "triplex-guaruja",
+      "seed": false,
+      "seedId": "person--luiz-inacio-lula-da-silva",
+      "tags": [
+        "justica",
+        "lava-jato"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "org--central-unica-dos-trabalhadores-cut",
+      "type": "org",
+      "url": "/demos/organizacoes/central-unica-dos-trabalhadores-cut",
+      "dataUrl": "/demos-data/notes-meta/org--central-unica-dos-trabalhadores-cut.json",
+      "title": "Central Única dos Trabalhadores (CUT)",
+      "description": "Resumo factual e fontes públicas sobre a Central Única dos Trabalhadores (CUT).",
+      "mapLabel": "CUT",
+      "seed": false,
+      "seedId": "person--luiz-inacio-lula-da-silva",
+      "tags": [
+        "central-sindical",
+        "brasil"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "org--partido-dos-trabalhadores-pt",
+      "type": "org",
+      "url": "/demos/organizacoes/partido-dos-trabalhadores-pt",
+      "dataUrl": "/demos-data/notes-meta/org--partido-dos-trabalhadores-pt.json",
+      "title": "Partido dos Trabalhadores (PT)",
+      "description": "Resumo factual e fontes públicas sobre o Partido dos Trabalhadores (PT).",
+      "mapLabel": "PT",
+      "seed": false,
+      "seedId": "person--luiz-inacio-lula-da-silva",
+      "tags": [
+        "partido-politico",
+        "brasil"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "org--sindicato-dos-metalurgicos-do-abc",
+      "type": "org",
+      "url": "/demos/organizacoes/sindicato-dos-metalurgicos-do-abc",
+      "dataUrl": "/demos-data/notes-meta/org--sindicato-dos-metalurgicos-do-abc.json",
+      "title": "Sindicato dos Metalúrgicos do ABC",
+      "description": "Resumo factual e fontes públicas sobre o Sindicato dos Metalúrgicos de São Bernardo do Campo e Diadema (ABC paulista).",
+      "mapLabel": "sindicato",
+      "seed": false,
+      "seedId": "person--luiz-inacio-lula-da-silva",
+      "tags": [
+        "sindicato",
+        "brasil"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "person--antonio-carlos-camilo-antunes",
+      "type": "person",
+      "url": "/demos/pessoas/antonio-carlos-camilo-antunes",
+      "dataUrl": "/demos-data/notes-meta/person--antonio-carlos-camilo-antunes.json",
+      "title": "Antônio Carlos Camilo Antunes",
+      "description": "Linha do tempo e fontes públicas sobre Antônio Carlos Camilo Antunes, citado em reportagens como \"careca do INSS\".",
+      "mapLabel": "careca-inss",
+      "seed": false,
+      "seedId": "person--luiz-inacio-lula-da-silva",
+      "tags": [
+        "previdencia",
+        "inss",
+        "investigacao",
+        "cpmi"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "person--fabio-luis-lula-da-silva",
+      "type": "person",
+      "url": "/demos/pessoas/fabio-luis-lula-da-silva",
+      "dataUrl": "/demos-data/notes-meta/person--fabio-luis-lula-da-silva.json",
+      "title": "Fábio Luís Lula da Silva",
+      "description": "Linha do tempo e fontes públicas sobre Fábio Luís Lula da Silva (Lulinha).",
+      "mapLabel": "lulinha",
+      "seed": false,
+      "seedId": "person--luiz-inacio-lula-da-silva",
+      "tags": [
+        "familia",
+        "empresariado"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "person--luiz-inacio-lula-da-silva",
+      "type": "person",
+      "url": "/demos/pessoas/luiz-inacio-lula-da-silva",
+      "dataUrl": "/demos-data/notes-meta/person--luiz-inacio-lula-da-silva.json",
+      "title": "Luiz Inácio Lula da Silva",
+      "description": "Linha do tempo e fontes públicas sobre Luiz Inácio Lula da Silva, presidente do Brasil.",
+      "mapLabel": "lula",
+      "seed": true,
+      "seedId": "person--luiz-inacio-lula-da-silva",
+      "tags": [
+        "politica",
+        "executivo",
+        "brasil"
+      ],
+      "primaryRoles": [
+        "role--presidente-do-brasil"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": "case--cpmi-do-inss",
+      "target": "case--operacao-sem-desconto",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "case--cpmi-do-inss",
+      "target": "person--antonio-carlos-camilo-antunes",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--cpmi-do-inss",
+      "target": "person--fabio-luis-lula-da-silva",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--operacao-lava-jato",
+      "target": "case--operacao-spoofing",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos associados": 1
+      }
+    },
+    {
+      "source": "case--operacao-lava-jato",
+      "target": "case--sede-do-instituto-lula",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos associados": 1
+      }
+    },
+    {
+      "source": "case--operacao-lava-jato",
+      "target": "case--sitio-de-atibaia",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos associados": 1
+      }
+    },
+    {
+      "source": "case--operacao-lava-jato",
+      "target": "case--triplex-do-guaruja",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos associados": 1
+      }
+    },
+    {
+      "source": "case--operacao-lava-jato",
+      "target": "person--luiz-inacio-lula-da-silva",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--operacao-sem-desconto",
+      "target": "case--cpmi-do-inss",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "case--operacao-sem-desconto",
+      "target": "person--antonio-carlos-camilo-antunes",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--operacao-spoofing",
+      "target": "case--operacao-lava-jato",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "case--operacao-spoofing",
+      "target": "person--luiz-inacio-lula-da-silva",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--sede-do-instituto-lula",
+      "target": "person--luiz-inacio-lula-da-silva",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--sitio-de-atibaia",
+      "target": "person--luiz-inacio-lula-da-silva",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "case--triplex-do-guaruja",
+      "target": "person--luiz-inacio-lula-da-silva",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "org--central-unica-dos-trabalhadores-cut",
+      "target": "person--luiz-inacio-lula-da-silva",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "org--partido-dos-trabalhadores-pt",
+      "target": "person--luiz-inacio-lula-da-silva",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "org--sindicato-dos-metalurgicos-do-abc",
+      "target": "org--central-unica-dos-trabalhadores-cut",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Organizações relacionadas": 1
+      }
+    },
+    {
+      "source": "org--sindicato-dos-metalurgicos-do-abc",
+      "target": "org--partido-dos-trabalhadores-pt",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Organizações relacionadas": 1
+      }
+    },
+    {
+      "source": "org--sindicato-dos-metalurgicos-do-abc",
+      "target": "person--luiz-inacio-lula-da-silva",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Pessoas relacionadas": 1
+      }
+    },
+    {
+      "source": "person--antonio-carlos-camilo-antunes",
+      "target": "case--cpmi-do-inss",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--antonio-carlos-camilo-antunes",
+      "target": "case--operacao-sem-desconto",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--fabio-luis-lula-da-silva",
+      "target": "case--cpmi-do-inss",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--fabio-luis-lula-da-silva",
+      "target": "case--operacao-sem-desconto",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--fabio-luis-lula-da-silva",
+      "target": "person--luiz-inacio-lula-da-silva",
+      "kind": "family",
+      "count": 1,
+      "sections": {
+        "Relações familiares": 1
+      }
+    },
+    {
+      "source": "person--luiz-inacio-lula-da-silva",
+      "target": "case--operacao-lava-jato",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--luiz-inacio-lula-da-silva",
+      "target": "case--operacao-spoofing",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--luiz-inacio-lula-da-silva",
+      "target": "case--sede-do-instituto-lula",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--luiz-inacio-lula-da-silva",
+      "target": "case--sitio-de-atibaia",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    },
+    {
+      "source": "person--luiz-inacio-lula-da-silva",
+      "target": "case--triplex-do-guaruja",
+      "kind": "related",
+      "count": 1,
+      "sections": {
+        "Casos relacionados": 1
+      }
+    }
+  ]
+}

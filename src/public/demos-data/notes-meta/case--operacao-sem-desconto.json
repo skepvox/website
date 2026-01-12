@@ -1,0 +1,42 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/casos/operacao-sem-desconto.md",
+    "sha256": "55454c1421e316c4ecffc866cd80a9100b00f1793342ba93f943c34124d4a3d1"
+  },
+  "id": "case--operacao-sem-desconto",
+  "type": "case",
+  "url": "/demos/casos/operacao-sem-desconto",
+  "title": "Operação Sem Desconto (PF/CGU)",
+  "description": "Linha do tempo e fontes públicas sobre a Operação Sem Desconto (PF/CGU), que apura descontos não autorizados em benefícios.",
+  "updatedAt": "2026-01-12",
+  "demos": {
+    "id": "case--operacao-sem-desconto",
+    "type": "case",
+    "mapLabel": "sem-desconto",
+    "seed": "no",
+    "seed-id": "person--luiz-inacio-lula-da-silva",
+    "target-questions": [
+      "q--person--antonio-carlos-camilo-antunes--001",
+      "q--case--cpmi-do-inss--001"
+    ],
+    "country": "BR",
+    "aliases": [
+      "Sem Desconto",
+      "Fraudes no INSS",
+      "Fraude no INSS",
+      "Descontos irregulares no INSS",
+      "Descontos indevidos no INSS",
+      "Descontos associativos no INSS"
+    ],
+    "tags": [
+      "previdencia",
+      "inss",
+      "investigacao",
+      "pf",
+      "cgu"
+    ]
+  },
+  "openQuestions": []
+}

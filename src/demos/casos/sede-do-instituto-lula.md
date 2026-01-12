@@ -31,6 +31,8 @@ do que está documentado.
 
 _Última atualização: 2026-01-09. ID Skepvox: `case--sede-do-instituto-lula`._
 
+<DemosEntityMap />
+
 ## Situação atual
 
 - Status: ação penal relativa à suposta cessão de terreno para construção da sede do Instituto [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) teve pedido de suspensão negado pelo STF em 2020 (HC 180985). Situação posterior do processo não foi localizada nesta nota. Fonte: [STF (2020-02-11)](https://noticias.stf.jus.br/postsnoticias/ministro-julga-inviavel-pedido-de-suspensao-de-acao-penal-sobre-terreno-do-instituto-lula/).

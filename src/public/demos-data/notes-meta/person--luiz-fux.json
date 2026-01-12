@@ -1,0 +1,50 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/pessoas/luiz-fux.md",
+    "sha256": "4309caea987d9d9029eeb6766db698bec323a56e5ee71c4ea391054002d6a2da"
+  },
+  "id": "person--luiz-fux",
+  "type": "person",
+  "url": "/demos/pessoas/luiz-fux",
+  "title": "Luiz Fux",
+  "description": "Linha do tempo e fontes públicas sobre Luiz Fux, ministro do STF.",
+  "updatedAt": "2026-01-10",
+  "demos": {
+    "id": "person--luiz-fux",
+    "type": "person",
+    "mapLabel": "fux",
+    "portrait": "luiz-fux.png",
+    "seed": "no",
+    "seed-id": "person--jair-messias-bolsonaro",
+    "target-questions": [
+      "q--person--jair-messias-bolsonaro--002"
+    ],
+    "country": "BR",
+    "identifiers": {
+      "wikidata": "Q3624733",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Luiz_Fux"
+    },
+    "aliases": [
+      "Luiz Fux",
+      "Luís Fux"
+    ],
+    "tags": [
+      "judiciario",
+      "stf",
+      "cautelares"
+    ]
+  },
+  "openQuestions": [
+    {
+      "id": "q--person--luiz-fux--001",
+      "question": "quais fundamentos e evidências foram citados nos votos (incluindo o de Fux) e como eles se comparam (proporcionalidade, contemporaneidade, individualização)?",
+      "state": "aberta",
+      "hypothesis": "a divergência é auditável pela leitura dos votos e permite reduzir “guerra de narrativas” sobre o caso.",
+      "counterHypothesis": "há lacunas públicas (sigilo, peças não publicizadas), dificultando auditoria externa do conjunto completo de evidências.",
+      "nextSteps": "localizar votos/decisões integrais; extrair trechos objetivos; cruzar com eventos públicos subsequentes.",
+      "advancingNotes": []
+    }
+  ]
+}

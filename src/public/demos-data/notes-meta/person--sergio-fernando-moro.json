@@ -1,0 +1,57 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/pessoas/sergio-fernando-moro.md",
+    "sha256": "36d0b1fcdadbddf578bb30a2e0cf10ab9847f0cfe2b6e9259a6d5810d15dadf4"
+  },
+  "id": "person--sergio-fernando-moro",
+  "type": "person",
+  "url": "/demos/pessoas/sergio-fernando-moro",
+  "title": "Sergio Fernando Moro",
+  "description": "Linha do tempo e fontes públicas sobre Sergio Fernando Moro, senador pelo Paraná e ex-juiz federal.",
+  "updatedAt": "2026-01-09",
+  "demos": {
+    "id": "person--sergio-fernando-moro",
+    "type": "person",
+    "mapLabel": "moro",
+    "portrait": "sergio-fernando-moro.png",
+    "seed": "no",
+    "seed-id": "person--luiz-inacio-lula-da-silva",
+    "target-questions": [
+      "q--person--luiz-inacio-lula-da-silva--001",
+      "q--case--triplex-do-guaruja--001",
+      "q--case--operacao-lava-jato--001"
+    ],
+    "country": "BR",
+    "identifiers": {
+      "wikidata": "Q19607958",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Sergio_Moro",
+      "senado": "6331",
+      "senadoProfile": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/6331"
+    },
+    "aliases": [
+      "Sergio Moro",
+      "Sérgio Moro"
+    ],
+    "tags": [
+      "judiciario",
+      "lava-jato",
+      "politica",
+      "legislativo"
+    ]
+  },
+  "openQuestions": [
+    {
+      "id": "q--person--sergio-fernando-moro--001",
+      "question": "houve coordenação indevida entre acusação e juiz em fases relevantes de casos da Lava Jato (incluindo o tríplex)?",
+      "state": "em-apuracao",
+      "hypothesis": "houve coordenação indevida entre acusação e juiz em fases relevantes.",
+      "counterHypothesis": "as controvérsias do período se explicam por fundamentos jurídicos e pelo funcionamento institucional (competência, nulidades, garantias processuais), sem necessidade de postular coordenação indevida.",
+      "nextSteps": "decisões e votos integrais; auditoria cronológica; evidência documental robusta (não apenas inferência); comparação com padrões de conduta/jurisprudência em casos análogos.",
+      "advancingNotes": [
+        "/demos/casos/triplex-do-guaruja"
+      ]
+    }
+  ]
+}

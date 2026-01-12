@@ -33,7 +33,7 @@ O objetivo é registrar cronologia e fontes, sem inferir motivação além do qu
 
 _Última atualização: 2026-01-10. ID Skepvox: `person--paulo-gonet-branco`._
 
-<DemosPortraitSvg />
+<DemosEntityMap />
 
 ## Situação atual
 

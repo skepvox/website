@@ -10,7 +10,6 @@
     "preinstall": "npx only-allow pnpm",
     "demos:data": "node scripts/demos-notes-data.js export",
     "demos:import": "node scripts/demos-notes-data.js import",
-    "demos:portraits": "node scripts/demos-portraits-stipple.js",
     "type": "vue-tsc --noEmit",
     "publish:enem": "node scripts/publish-enem.js"
   },

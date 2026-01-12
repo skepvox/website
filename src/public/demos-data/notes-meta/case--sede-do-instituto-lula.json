@@ -1,0 +1,47 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/casos/sede-do-instituto-lula.md",
+    "sha256": "49040e5d9b19d15d1f787dde53051a194b0d20ca5380d6156ac85ce337b0e0c5"
+  },
+  "id": "case--sede-do-instituto-lula",
+  "type": "case",
+  "url": "/demos/casos/sede-do-instituto-lula",
+  "title": "Sede do Instituto Lula",
+  "description": "Resumo, linha do tempo e fontes públicas sobre o caso envolvendo a suposta cessão de terreno para a nova sede do Instituto Lula (Lava Jato).",
+  "updatedAt": "2026-01-09",
+  "demos": {
+    "id": "case--sede-do-instituto-lula",
+    "type": "case",
+    "mapLabel": "instituto-lula",
+    "seed": "no",
+    "seed-id": "person--luiz-inacio-lula-da-silva",
+    "target-questions": [
+      "q--person--luiz-inacio-lula-da-silva--001",
+      "q--case--operacao-lava-jato--001"
+    ],
+    "country": "BR",
+    "aliases": [
+      "Caso do Instituto Lula",
+      "Caso da sede do Instituto Lula",
+      "Terreno do Instituto Lula"
+    ],
+    "tags": [
+      "justica",
+      "lava-jato",
+      "instituto-lula"
+    ]
+  },
+  "openQuestions": [
+    {
+      "id": "q--case--sede-do-instituto-lula--001",
+      "question": "qual foi a origem dos recursos e quais contrapartidas foram alegadas na suposta cessão/compra de terreno para a sede do Instituto [Lula](/demos/pessoas/luiz-inacio-lula-da-silva)?",
+      "state": "aberta",
+      "hypothesis": "a cessão/compra do terreno envolveu recursos ilícitos associados a contratos públicos e foi tratada como vantagem indevida.",
+      "counterHypothesis": "não há evidência robusta de vinculação com corrupção; a operação foi legal ou os indícios são insuficientes.",
+      "nextSteps": "acessar denúncia e decisões integrais; mapear fluxo financeiro e titularidade do imóvel; avaliar laudos/perícias e cadeia de custódia; verificar movimentação no DF após decisões de competência.",
+      "advancingNotes": []
+    }
+  ]
+}

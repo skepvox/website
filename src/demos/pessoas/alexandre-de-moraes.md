@@ -35,7 +35,7 @@ O objetivo é registrar cronologia e status com linguagem neutra e fontes públi
 
 _Última atualização: 2026-01-10. ID Skepvox: `person--alexandre-de-moraes`._
 
-<DemosPortraitSvg />
+<DemosEntityMap />
 
 ## Situação atual
 

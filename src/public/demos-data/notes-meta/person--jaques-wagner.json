@@ -1,0 +1,52 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/pessoas/jaques-wagner.md",
+    "sha256": "84febf69079a0d003fb0cb5f5c730ae6bc4f6e489e53d5b44deefead45309cf8"
+  },
+  "id": "person--jaques-wagner",
+  "type": "person",
+  "url": "/demos/pessoas/jaques-wagner",
+  "title": "Jaques Wagner",
+  "description": "Linha do tempo e fontes públicas sobre Jaques Wagner.",
+  "updatedAt": "2026-01-10",
+  "demos": {
+    "id": "person--jaques-wagner",
+    "type": "person",
+    "mapLabel": "jaques-wagner",
+    "portrait": "jaques-wagner.png",
+    "seed": "no",
+    "seed-id": "case--caso-banco-master",
+    "target-questions": [
+      "q--case--caso-banco-master--003"
+    ],
+    "country": "BR",
+    "identifiers": {
+      "wikidata": "Q6159407",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Jaques_Wagner"
+    },
+    "aliases": [
+      "Jaques Wagner"
+    ],
+    "tags": [
+      "politica",
+      "legislativo",
+      "senador",
+      "pt",
+      "bahia",
+      "banco-master"
+    ]
+  },
+  "openQuestions": [
+    {
+      "id": "q--person--jaques-wagner--001",
+      "question": "existe documentação pública verificável que conecte Jaques Wagner a operações/contratos/agenda do [Banco Master](/demos/organizacoes/banco-master) (ou de atores centrais citados) no contexto da Bahia?",
+      "state": "aberta",
+      "hypothesis": "há evidência documental (agendas, registros oficiais, contratos/convênios citados) que sustenta a existência de vínculos relevantes.",
+      "counterHypothesis": "as alegações são majoritariamente políticas, com baixo lastro documental; vínculos (se existirem) são indiretos ou compatíveis com relações institucionais regulares.",
+      "nextSteps": "identificar convênios e contratos citados; procurar agendas e registros oficiais; buscar fontes independentes que citem documentos.",
+      "advancingNotes": []
+    }
+  ]
+}

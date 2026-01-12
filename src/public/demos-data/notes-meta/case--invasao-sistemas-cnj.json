@@ -1,0 +1,33 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/casos/invasao-sistemas-cnj.md",
+    "sha256": "3b859f7f746a6d898f79bf5812ad0a2f20fa2712d5b8b7ca7a1c453980a9e269"
+  },
+  "id": "case--invasao-sistemas-cnj",
+  "type": "case",
+  "url": "/demos/casos/invasao-sistemas-cnj",
+  "title": "Invasão aos sistemas do CNJ",
+  "description": "Linha do tempo e fontes públicas sobre a invasão aos sistemas do CNJ e seus desdobramentos no STF.",
+  "updatedAt": "2026-01-11",
+  "demos": {
+    "id": "case--invasao-sistemas-cnj",
+    "type": "case",
+    "mapLabel": "cnj-invasao",
+    "seed": "no",
+    "seed-id": "person--jose-antonio-dias-toffoli",
+    "country": "BR",
+    "aliases": [
+      "Invasão ao CNJ"
+    ],
+    "tags": [
+      "justica",
+      "investigacao",
+      "hacking",
+      "cnj",
+      "stf"
+    ]
+  },
+  "openQuestions": []
+}

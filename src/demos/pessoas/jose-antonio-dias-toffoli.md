@@ -40,7 +40,7 @@ fatos, alegações e hipóteses.
 
 _Última atualização: 2026-01-09. ID Skepvox: `person--jose-antonio-dias-toffoli`._
 
-<DemosPortraitSvg />
+<DemosEntityMap />
 
 ## Situação atual
 

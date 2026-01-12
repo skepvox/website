@@ -1,0 +1,53 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/organizacoes/banco-master.md",
+    "sha256": "93ede81c7f4010f21d4913a1b46a176032306ef1e2887207c2a84655a639dae9"
+  },
+  "id": "org--banco-master",
+  "type": "org",
+  "url": "/demos/organizacoes/banco-master",
+  "title": "Banco Master",
+  "description": "Resumo factual e fontes públicas sobre o Banco Master e seus desdobramentos no caso de liquidação extrajudicial.",
+  "updatedAt": "2026-01-12",
+  "demos": {
+    "id": "org--banco-master",
+    "type": "org",
+    "mapLabel": "banco-master",
+    "seed": "no",
+    "seed-id": "case--caso-banco-master",
+    "target-questions": [
+      "q--case--caso-banco-master--001",
+      "q--case--caso-banco-master--002",
+      "q--case--caso-banco-master--003"
+    ],
+    "country": "BR",
+    "identifiers": {
+      "cnpj": "33923798000100"
+    },
+    "aliases": [
+      "Master"
+    ],
+    "tags": [
+      "banco",
+      "sistema-financeiro",
+      "investigacao",
+      "brasil"
+    ]
+  },
+  "openQuestions": [
+    {
+      "id": "q--org--banco-master--001",
+      "question": "qual era a estrutura societária/grupo econômico e quais ativos e operações eram centrais (CDBs, consignado, carteiras) segundo documentação verificável?",
+      "state": "em-apuracao",
+      "hypothesis": "uma estrutura de grupo e governança permitiu ampliar captação/risco com transparência insuficiente para o público e para contrapartes.",
+      "counterHypothesis": "a estrutura e os ativos eram compatíveis com práticas de mercado/regulação, e as aparentes lacunas decorrem de assimetria de informação e da natureza do processo de liquidação/investigação.",
+      "nextSteps": "auditar atos do BC citados em comunicados; mapear estrutura do grupo (entidades, CNPJs e vínculos); buscar demonstrações financeiras/relatórios públicos; coletar decisões que descrevam carteiras/fluxos; cruzar com explicadores técnicos publicados por veículos e órgãos (sem extrapolar).",
+      "advancingNotes": [
+        "/demos/organizacoes/banco-master-de-investimento",
+        "/demos/organizacoes/banco-letsbank"
+      ]
+    }
+  ]
+}

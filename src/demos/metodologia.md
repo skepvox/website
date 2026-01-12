@@ -234,6 +234,9 @@ Comandos:
 
 Saídas:
 
-- `src/public/demos-data/notes/<demos.id>.json` — 1 arquivo por nota.
+- `src/public/demos-data/notes/<demos.id>.json` — 1 arquivo por nota (conteúdo integral; usado para backup/import).
+- `src/public/demos-data/notes-meta/<demos.id>.json` — 1 arquivo por nota (metadados leves; usado pelo mapa/painel).
 - `src/public/demos-data/notes.jsonl` — todas as notas em JSONL (1 linha por nota).
 - `src/public/demos-data/graph.json` — grafo agregado consumido por `/demos/mapa`.
+- `src/public/demos-data/subgraphs/<demos.id>.json` — subgrafo por nota (2 saltos; consumido por mapas individuais).
+- `src/public/demos-data/questions.json` — índice agregado de perguntas (backlog/alertas; consumido por `/demos/perguntas`).

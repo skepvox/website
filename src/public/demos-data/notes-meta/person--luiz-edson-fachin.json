@@ -1,0 +1,64 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/pessoas/luiz-edson-fachin.md",
+    "sha256": "720cbec511ed3b0070adb88eda88cf1f5d21bb3d3769b961b45287aa543344cc"
+  },
+  "id": "person--luiz-edson-fachin",
+  "type": "person",
+  "url": "/demos/pessoas/luiz-edson-fachin",
+  "title": "Luiz Edson Fachin",
+  "description": "Linha do tempo e fontes públicas sobre Luiz Edson Fachin, ministro e presidente do STF.",
+  "updatedAt": "2026-01-09",
+  "demos": {
+    "id": "person--luiz-edson-fachin",
+    "type": "person",
+    "mapLabel": "fachin",
+    "portrait": "luiz-edson-fachin.png",
+    "seed": "no",
+    "seed-id": "person--luiz-inacio-lula-da-silva",
+    "target-questions": [
+      "q--person--luiz-inacio-lula-da-silva--001",
+      "q--case--triplex-do-guaruja--001",
+      "q--case--sitio-de-atibaia--001"
+    ],
+    "country": "BR",
+    "identifiers": {
+      "wikidata": "Q10320705",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Edson_Fachin"
+    },
+    "aliases": [
+      "Edson Fachin"
+    ],
+    "tags": [
+      "judiciario",
+      "stf",
+      "tse"
+    ],
+    "primaryRoles": [
+      "role--ministro-do-stf",
+      "role--presidente-do-stf"
+    ]
+  },
+  "openQuestions": [
+    {
+      "id": "q--person--luiz-edson-fachin--001",
+      "question": "a decisão de 2021 (competência do juízo) seguiu um padrão coerente com a jurisprudência do STF em casos análogos, ou foi um “ponto fora da curva”?",
+      "state": "aberta",
+      "hypothesis": "a decisão de 2021 foi um “ponto fora da curva” em relação a padrões jurisprudenciais comparáveis.",
+      "counterHypothesis": "a decisão de 2021 segue um padrão coerente com a jurisprudência e com os fundamentos explícitos no voto/decisão.",
+      "nextSteps": "comparação com casos similares; leitura integral do voto/decisão; cronologia processual; votos dos demais ministros.",
+      "advancingNotes": []
+    },
+    {
+      "id": "q--person--luiz-edson-fachin--002",
+      "question": "existiram pressões/influências externas relevantes para decisões envolvendo [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) (diretas ou indiretas)?",
+      "state": "aberta",
+      "hypothesis": "existiram pressões/influências externas relevantes (políticas, econômicas, institucionais) para decisões envolvendo [Lula](/demos/pessoas/luiz-inacio-lula-da-silva).",
+      "counterHypothesis": "os desfechos decorrem primariamente de fundamentos jurídicos (competência, devido processo, nulidades) e não exigem postular interferência externa.",
+      "nextSteps": "evidências documentais robustas (não apenas inferência); registros públicos; mudanças de posição com justificativas explícitas; padrões de votação; vínculos documentados.",
+      "advancingNotes": []
+    }
+  ]
+}

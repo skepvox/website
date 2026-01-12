@@ -1,0 +1,52 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/casos/operacao-lava-jato.md",
+    "sha256": "db41eb06473a4f8299f384b221d09053da932f91cccf6f97aa69463a560a5fb7"
+  },
+  "id": "case--operacao-lava-jato",
+  "type": "case",
+  "url": "/demos/casos/operacao-lava-jato",
+  "title": "Operação Lava Jato",
+  "description": "Linha do tempo e fontes públicas sobre a Operação Lava Jato e eventos associados a Luiz Inácio Lula da Silva.",
+  "updatedAt": "2026-01-09",
+  "demos": {
+    "id": "case--operacao-lava-jato",
+    "type": "case",
+    "mapLabel": "lava-jato",
+    "seed": "no",
+    "seed-id": "person--luiz-inacio-lula-da-silva",
+    "target-questions": [
+      "q--person--luiz-inacio-lula-da-silva--001"
+    ],
+    "country": "BR",
+    "identifiers": {
+      "wikidata": "Q18479704"
+    },
+    "aliases": [
+      "Lava Jato",
+      "Operação Car Wash"
+    ],
+    "tags": [
+      "justica",
+      "investigacao",
+      "lava-jato"
+    ]
+  },
+  "openQuestions": [
+    {
+      "id": "q--case--operacao-lava-jato--001",
+      "question": "houve influência indevida (política, econômica, institucional) na condução, seleção de alvos, timing e/ou decisões relacionadas a casos ligados a [Lula](/demos/pessoas/luiz-inacio-lula-da-silva)?",
+      "state": "em-apuracao",
+      "hypothesis": "houve influência indevida que afetou condução, seleção de alvos, timing e/ou decisões em casos ligados a [Lula](/demos/pessoas/luiz-inacio-lula-da-silva).",
+      "counterHypothesis": "as reviravoltas decorrem principalmente de fundamentos jurídicos (competência, devido processo, nulidades) e mudanças jurisprudenciais, sem necessidade de postular uma “rede de manipulação”.",
+      "nextSteps": "decisões, votos e fundamentos; cronologia completa; mensagens/relatórios públicos; mudanças de jurisprudência e seus motivos; comparação com casos análogos; padrões decisórios no STF/TRF; evidências diretas (ou ausência delas) de interferência.",
+      "advancingNotes": [
+        "/demos/casos/sitio-de-atibaia",
+        "/demos/casos/sede-do-instituto-lula",
+        "/demos/pessoas/sergio-fernando-moro"
+      ]
+    }
+  ]
+}

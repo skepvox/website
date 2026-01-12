@@ -24,6 +24,8 @@ demos:
 
 _Última atualização: 2026-01-09. ID Skepvox: `org--partido-dos-trabalhadores-pt`._
 
+<DemosEntityMap />
+
 ## Situação atual
 
 - Tipo: partido político brasileiro (em atividade). Fonte: [Wikidata (Q657089)](https://www.wikidata.org/wiki/Q657089).

@@ -1,0 +1,29 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/casos/perseguicao-armada-sp-2022.md",
+    "sha256": "590ce716c134e9cf81b7428978c937f908f776c39eaed3526b2886967d49e872"
+  },
+  "id": "case--perseguicao-armada-sp-2022",
+  "type": "case",
+  "url": "/demos/casos/perseguicao-armada-sp-2022",
+  "title": "Perseguição armada em São Paulo (2022)",
+  "description": "Linha do tempo e fontes públicas sobre o episódio de perseguição armada em São Paulo (2022) atribuído a Carla Zambelli e seus desdobramentos no STF.",
+  "updatedAt": "2026-01-11",
+  "demos": {
+    "id": "case--perseguicao-armada-sp-2022",
+    "type": "case",
+    "mapLabel": "zambelli-arma",
+    "seed": "no",
+    "seed-id": "person--jose-antonio-dias-toffoli",
+    "country": "BR",
+    "tags": [
+      "justica",
+      "stf",
+      "violencia-politica",
+      "armas"
+    ]
+  },
+  "openQuestions": []
+}

@@ -1,0 +1,170 @@
+{
+  "schema": "skepvox--demos-note",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/organizacoes/banco-letsbank.md",
+    "sha256": "474b661b2f305b8eeeb3b743daf6d97ca3ee321639899ca5dd6059cf70356b24"
+  },
+  "id": "org--banco-letsbank",
+  "type": "org",
+  "url": "/demos/organizacoes/banco-letsbank",
+  "title": "Banco Letsbank",
+  "description": "Resumo factual e fontes públicas sobre o Banco Letsbank e seu vínculo com o caso de liquidação do Banco Master.",
+  "updatedAt": "2026-01-12",
+  "demos": {
+    "id": "org--banco-letsbank",
+    "type": "org",
+    "mapLabel": "letsbank",
+    "seed": "no",
+    "seed-id": "case--caso-banco-master",
+    "target-questions": [
+      "q--org--banco-master--001"
+    ],
+    "country": "BR",
+    "aliases": [
+      "Banco Letsbank S.A."
+    ],
+    "tags": [
+      "banco",
+      "sistema-financeiro",
+      "liquidacao"
+    ]
+  },
+  "frontmatter": {
+    "title": "Banco Letsbank",
+    "description": "Resumo factual e fontes públicas sobre o Banco Letsbank e seu vínculo com o caso de liquidação do Banco Master.",
+    "demos": {
+      "id": "org--banco-letsbank",
+      "type": "org",
+      "mapLabel": "letsbank",
+      "seed": "no",
+      "seed-id": "case--caso-banco-master",
+      "target-questions": [
+        "q--org--banco-master--001"
+      ],
+      "country": "BR",
+      "aliases": [
+        "Banco Letsbank S.A."
+      ],
+      "tags": [
+        "banco",
+        "sistema-financeiro",
+        "liquidacao"
+      ]
+    }
+  },
+  "frontmatterYaml": "title: \"Banco Letsbank\"\ndescription: \"Resumo factual e fontes públicas sobre o Banco Letsbank e seu vínculo com o caso de liquidação do Banco Master.\"\ndemos:\n  id: org--banco-letsbank\n  type: org\n  mapLabel: letsbank\n  seed: no\n  seed-id: case--caso-banco-master\n  target-questions:\n    - q--org--banco-master--001\n  country: BR\n  aliases:\n    - Banco Letsbank S.A.\n  tags:\n    - banco\n    - sistema-financeiro\n    - liquidacao",
+  "bodyMarkdown": "# Banco Letsbank\n\n::: info Nota editorial (Skepvox)\nEsta nota é um nó derivado do [Caso Banco Master](/demos/casos/caso-banco-master) para ajudar a mapear, com rastreabilidade, a **estrutura de grupo** citada em comunicados públicos.\n:::\n\n_Última atualização: 2026-01-12. ID Skepvox: `org--banco-letsbank`._\n\n<DemosEntityMap />\n\n## Situação atual\n\n- Status (alto nível): o comunicado publicado no site do [Banco Master](/demos/organizacoes/banco-master) cita “Banco Letsbank S.A” como uma das instituições sob regime de liquidação extrajudicial no mesmo contexto. Fonte: [Banco Master (comunicado)](https://www.bancomaster.com.br/).\n\n## Por que está no mapa\n\n- Conexão de origem: [Banco Master](/demos/organizacoes/banco-master) (caso‑semente: [Caso Banco Master](/demos/casos/caso-banco-master)).\n- Perguntas-alvo (rastreamento): `q--org--banco-master--001`.\n- Evidência mínima: menção nominal em comunicado público no site do Banco Master. Fonte: [Banco Master (comunicado)](https://www.bancomaster.com.br/).\n- Fontes‑alvo (próximos passos): atos do Banco Central citados em comunicados; registro e identificadores públicos (ex.: CNPJ); documentos oficiais sobre o regime e seus desdobramentos.\n\n## Organizações relacionadas\n\n- [Banco Master](/demos/organizacoes/banco-master).\n- [Banco Master de Investimento](/demos/organizacoes/banco-master-de-investimento).\n\n## Casos relacionados\n\n- [Caso Banco Master](/demos/casos/caso-banco-master).\n\n## Fontes\n\n- Banco Master — “Em Liquidação Extrajudicial” (comunicado) (acesso em 2026-01-12): https://www.bancomaster.com.br/\n",
+  "outboundLinks": [
+    {
+      "text": "Caso Banco Master",
+      "href": "/demos/casos/caso-banco-master"
+    },
+    {
+      "text": "Banco Master",
+      "href": "/demos/organizacoes/banco-master"
+    },
+    {
+      "text": "Banco Master",
+      "href": "/demos/organizacoes/banco-master"
+    },
+    {
+      "text": "Caso Banco Master",
+      "href": "/demos/casos/caso-banco-master"
+    },
+    {
+      "text": "Banco Master",
+      "href": "/demos/organizacoes/banco-master"
+    },
+    {
+      "text": "Banco Master de Investimento",
+      "href": "/demos/organizacoes/banco-master-de-investimento"
+    },
+    {
+      "text": "Caso Banco Master",
+      "href": "/demos/casos/caso-banco-master"
+    }
+  ],
+  "outboundLinksBySection": [
+    {
+      "section": "Intro",
+      "links": [
+        {
+          "text": "Caso Banco Master",
+          "href": "/demos/casos/caso-banco-master"
+        }
+      ]
+    },
+    {
+      "section": "Situação atual",
+      "links": [
+        {
+          "text": "Banco Master",
+          "href": "/demos/organizacoes/banco-master"
+        }
+      ]
+    },
+    {
+      "section": "Por que está no mapa",
+      "links": [
+        {
+          "text": "Banco Master",
+          "href": "/demos/organizacoes/banco-master"
+        },
+        {
+          "text": "Caso Banco Master",
+          "href": "/demos/casos/caso-banco-master"
+        }
+      ]
+    },
+    {
+      "section": "Organizações relacionadas",
+      "links": [
+        {
+          "text": "Banco Master",
+          "href": "/demos/organizacoes/banco-master"
+        },
+        {
+          "text": "Banco Master de Investimento",
+          "href": "/demos/organizacoes/banco-master-de-investimento"
+        }
+      ]
+    },
+    {
+      "section": "Casos relacionados",
+      "links": [
+        {
+          "text": "Caso Banco Master",
+          "href": "/demos/casos/caso-banco-master"
+        }
+      ]
+    }
+  ],
+  "relations": {
+    "cases": [
+      {
+        "text": "Caso Banco Master",
+        "href": "/demos/casos/caso-banco-master"
+      }
+    ],
+    "family": [],
+    "people": [],
+    "organizations": [
+      {
+        "text": "Banco Master",
+        "href": "/demos/organizacoes/banco-master"
+      },
+      {
+        "text": "Banco Master de Investimento",
+        "href": "/demos/organizacoes/banco-master-de-investimento"
+      }
+    ]
+  },
+  "relationSectionTitles": {
+    "cases": "Casos relacionados",
+    "family": null,
+    "people": null,
+    "organizations": "Organizações relacionadas"
+  },
+  "openQuestions": []
+}

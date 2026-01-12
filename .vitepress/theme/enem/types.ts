@@ -26,10 +26,16 @@ export type EnemQuestionContextSource = {
 } | null
 
 export type EnemQuestionContext = {
-  type: 'text' | 'poem' | 'lyrics' | 'dialogue' | 'news' | 'academic'
+  type: 'text' | 'list' | 'poem' | 'lyrics' | 'dialogue' | 'news' | 'academic'
   content: string
   source?: EnemQuestionContextSource
   language?: 'pt' | 'en' | 'es'
+} | null
+
+export type EnemQuestionPrompt = {
+  text: string
+  scope?: string | null
+  anchor?: string | null
 } | null
 
 export type EnemQuestionOption = {
@@ -111,6 +117,7 @@ export type EnemQuestion = {
   competency?: string | null
   skill?: string | null
   context?: EnemQuestionContext
+  prompt?: EnemQuestionPrompt
   statement: string
   options: EnemQuestionOption[]
   correct_answer?: 'A' | 'B' | 'C' | 'D' | 'E' | null

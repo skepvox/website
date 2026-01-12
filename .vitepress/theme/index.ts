@@ -1,7 +1,7 @@
 import './ssr-shim'
 import 'katex/dist/katex.min.css'
 import './styles/index.css'
-import { h, App } from 'vue'
+import { h, App, defineAsyncComponent } from 'vue'
 import { VPTheme } from '@vue/theme'
 import VueSchoolLink from './components/VueSchoolLink.vue'
 import ScrimbaLink from './components/ScrimbaLink.vue'
@@ -12,15 +12,16 @@ import AssetChart from './components/enem/assets/AssetChart.vue'
 // import Banner from './components/Banner.vue'
 // import TextAd from './components/TextAd.vue'
 import NavBarTitleSkepvox from './components/NavBarTitleSkepvox.vue'
-import DemosMapa from './components/DemosMapa.vue'
 import DemosMapaRelacionalCta from './components/DemosMapaRelacionalCta.vue'
-import DemosBrasilMapa from './components/DemosBrasilMapa.vue'
-import DemosBrasilMapaTopo from './components/DemosBrasilMapaTopo.vue'
-import DemosPortraitStipple from './components/DemosPortraitStipple.vue'
-import DemosPortraitSvg from './components/DemosPortraitSvg.vue'
+import DemosEntityMap from './components/DemosEntityMap.vue'
 
 import 'vitepress/dist/client/theme-default/styles/components/vp-code-group.css'
 import 'virtual:group-icons.css'
+
+const DemosMapa = defineAsyncComponent(() => import('./components/DemosMapa.vue'))
+const DemosBrasilMapa = defineAsyncComponent(() => import('./components/DemosBrasilMapa.vue'))
+const DemosBrasilMapaTopo = defineAsyncComponent(() => import('./components/DemosBrasilMapaTopo.vue'))
+const DemosQuestions = defineAsyncComponent(() => import('./components/DemosQuestions.vue'))
 
 if (typeof window !== 'undefined') {
   import('katex/dist/contrib/copy-tex.js')
@@ -49,8 +50,8 @@ export default Object.assign({}, VPTheme, {
     app.component('DemosMapaRelacionalCta', DemosMapaRelacionalCta)
     app.component('DemosBrasilMapa', DemosBrasilMapa)
     app.component('DemosBrasilMapaTopo', DemosBrasilMapaTopo)
-    app.component('DemosPortraitStipple', DemosPortraitStipple)
-    app.component('DemosPortraitSvg', DemosPortraitSvg)
+    app.component('DemosEntityMap', DemosEntityMap)
+    app.component('DemosQuestions', DemosQuestions)
     // app.component('TextAd', TextAd)
   }
 })

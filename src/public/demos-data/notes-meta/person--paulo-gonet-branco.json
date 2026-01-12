@@ -1,0 +1,51 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/pessoas/paulo-gonet-branco.md",
+    "sha256": "0f878481699e63fd8297d5355b8caf93d709f9e713764c403a3a802dd070c4c6"
+  },
+  "id": "person--paulo-gonet-branco",
+  "type": "person",
+  "url": "/demos/pessoas/paulo-gonet-branco",
+  "title": "Paulo Gonet Branco",
+  "description": "Linha do tempo e fontes públicas sobre Paulo Gonet Branco.",
+  "updatedAt": "2026-01-10",
+  "demos": {
+    "id": "person--paulo-gonet-branco",
+    "type": "person",
+    "mapLabel": "gonet",
+    "portrait": "paulo-gonet-branco.png",
+    "seed": "no",
+    "seed-id": "case--caso-banco-master",
+    "target-questions": [
+      "q--case--caso-banco-master--003"
+    ],
+    "country": "BR",
+    "identifiers": {
+      "wikidata": "Q30931461",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Paulo_Gonet_Branco"
+    },
+    "aliases": [
+      "Paulo Gonet",
+      "Paulo Gonet Branco"
+    ],
+    "tags": [
+      "justica",
+      "mpf",
+      "pgr",
+      "banco-master"
+    ]
+  },
+  "openQuestions": [
+    {
+      "id": "q--person--paulo-gonet-branco--001",
+      "question": "a íntegra do despacho de arquivamento (e anexos) é acessível publicamente e permite auditar fundamentos, escopo e evidências avaliadas?",
+      "state": "aberta",
+      "hypothesis": "a documentação pública disponível é suficiente para auditar os fundamentos e a abrangência do arquivamento (o que foi analisado e o que não foi).",
+      "counterHypothesis": "a documentação pública é insuficiente (ou não acessível), e o debate permanece baseado em fontes secundárias e interpretações.",
+      "nextSteps": "localizar despacho integral e anexos; mapear peças citadas pela matéria (representação, notícias, eventuais documentos); checar publicização em sistemas oficiais.",
+      "advancingNotes": []
+    }
+  ]
+}

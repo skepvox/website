@@ -1,0 +1,51 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/pessoas/rui-costa.md",
+    "sha256": "92e1e3a756a0af4af3ad8c641a4887e55a13e1b66d0c1e2ec64720f34606fbb3"
+  },
+  "id": "person--rui-costa",
+  "type": "person",
+  "url": "/demos/pessoas/rui-costa",
+  "title": "Rui Costa",
+  "description": "Linha do tempo e fontes públicas sobre Rui Costa.",
+  "updatedAt": "2026-01-10",
+  "demos": {
+    "id": "person--rui-costa",
+    "type": "person",
+    "mapLabel": "rui-costa",
+    "portrait": "rui-costa.png",
+    "seed": "no",
+    "seed-id": "case--caso-banco-master",
+    "target-questions": [
+      "q--case--caso-banco-master--003"
+    ],
+    "country": "BR",
+    "identifiers": {
+      "wikidata": "Q10365240",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Rui_Costa_(pol%C3%ADtico)"
+    },
+    "aliases": [
+      "Rui Costa"
+    ],
+    "tags": [
+      "politica",
+      "executivo",
+      "casa-civil",
+      "bahia",
+      "banco-master"
+    ]
+  },
+  "openQuestions": [
+    {
+      "id": "q--person--rui-costa--001",
+      "question": "qual foi o contexto e a base técnica/jurídica citada (se houver) para a declaração de Rui Costa sobre competência do BC no caso [Master](/demos/organizacoes/banco-master)?",
+      "state": "aberta",
+      "hypothesis": "a declaração reflete entendimento institucional consistente com o regime jurídico aplicável e com informações técnicas disponíveis.",
+      "counterHypothesis": "a declaração é sobretudo política/reativa, com pouca relação demonstrável com os fundamentos técnicos do caso.",
+      "nextSteps": "mapear atos do BC e do TCU citados; buscar transcrição completa e perguntas/respostas; comparar com notas técnicas e decisões publicizadas.",
+      "advancingNotes": []
+    }
+  ]
+}

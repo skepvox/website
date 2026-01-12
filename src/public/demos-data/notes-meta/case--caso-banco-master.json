@@ -1,0 +1,77 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/casos/caso-banco-master.md",
+    "sha256": "fec91fc64f5a953c6c06a029ba3674efbd105f13453c157ea5b91da383b530a4"
+  },
+  "id": "case--caso-banco-master",
+  "type": "case",
+  "url": "/demos/casos/caso-banco-master",
+  "title": "Caso Banco Master",
+  "description": "Linha do tempo e fontes públicas sobre a crise, investigações e liquidação do Banco Master.",
+  "updatedAt": "2026-01-12",
+  "demos": {
+    "id": "case--caso-banco-master",
+    "type": "case",
+    "mapLabel": "master",
+    "seed": "yes",
+    "seed-id": "case--caso-banco-master",
+    "country": "BR",
+    "aliases": [
+      "Caso Master",
+      "Crise do Banco Master",
+      "Liquidação do Banco Master"
+    ],
+    "tags": [
+      "economia",
+      "sistema-financeiro",
+      "investigacao",
+      "banco-central"
+    ]
+  },
+  "openQuestions": [
+    {
+      "id": "q--case--caso-banco-master--001",
+      "question": "quais foram os fundamentos técnicos e jurídicos centrais para a decisão do BC de decretar a liquidação extrajudicial (e qual a documentação pública disponível)?",
+      "state": "em-apuracao",
+      "hypothesis": "havia crise de liquidez e/ou violações graves com evidência suficiente para justificar a medida nos termos do regime aplicável.",
+      "counterHypothesis": "a medida foi desproporcional ou inadequadamente fundamentada, e parte dos elementos determinantes permanece opaca para auditoria pública.",
+      "nextSteps": "localizar atos e notas técnicas públicas; mapear decisões citadas nas reportagens; acompanhar deliberações do TCU e respostas do BC.",
+      "advancingNotes": [
+        "/demos/organizacoes/banco-master"
+      ]
+    },
+    {
+      "id": "q--case--caso-banco-master--002",
+      "question": "qual é o mecanismo descrito nas investigações (títulos/carteiras/consignado) e quais evidências públicas sustentam a hipótese de fraude?",
+      "state": "em-apuracao",
+      "hypothesis": "existiu um esquema estruturado com documentação e trilhas financeiras verificáveis (carteiras falsas, ativos inflados, cadeia de transações).",
+      "counterHypothesis": "irregularidades existem, mas o mecanismo e a extensão alegada não se sustentam integralmente com as evidências disponíveis publicamente.",
+      "nextSteps": "acompanhar denúncias/peças públicas; coletar decisões, relatórios e perícias; mapear atores e operações citadas nominalmente nas fontes.",
+      "advancingNotes": [
+        "/demos/organizacoes/banco-master",
+        "/demos/pessoas/daniel-vorcaro"
+      ]
+    },
+    {
+      "id": "q--case--caso-banco-master--003",
+      "question": "quais interações documentadas com agentes do poder público (Executivo/Legislativo/Judiciário/órgãos de controle) ocorreram e qual sua relevância para o caso?",
+      "state": "em-apuracao",
+      "hypothesis": "houve tentativa relevante de influência institucional (lobby/pressão) com registros verificáveis e impacto nas decisões.",
+      "counterHypothesis": "interações ocorreram, mas são compatíveis com advocacy/lobby dentro das regras ou não tiveram impacto decisório demonstrável.",
+      "nextSteps": "coletar fontes primárias (agendas, registros, decisões, contratos e comunicações publicizadas); separar o que é “segundo reportagem” do que é documento.",
+      "advancingNotes": [
+        "/demos/organizacoes/banco-master",
+        "/demos/pessoas/daniel-vorcaro",
+        "/demos/pessoas/ricardo-lewandowski",
+        "/demos/pessoas/henrique-meirelles",
+        "/demos/pessoas/guido-mantega",
+        "/demos/pessoas/jaques-wagner",
+        "/demos/pessoas/rui-costa",
+        "/demos/pessoas/paulo-gonet-branco",
+        "/demos/pessoas/viviane-barci-de-moraes"
+      ]
+    }
+  ]
+}

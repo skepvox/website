@@ -1,0 +1,186 @@
+{
+  "schema": "skepvox--demos-note",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/pessoas/antonio-carlos-camilo-antunes.md",
+    "sha256": "3d61fe95448313548a8354e28b51fb4403fb516e5c7cf8966747e05bbc40168c"
+  },
+  "id": "person--antonio-carlos-camilo-antunes",
+  "type": "person",
+  "url": "/demos/pessoas/antonio-carlos-camilo-antunes",
+  "title": "Antônio Carlos Camilo Antunes",
+  "description": "Linha do tempo e fontes públicas sobre Antônio Carlos Camilo Antunes, citado em reportagens como \"careca do INSS\".",
+  "updatedAt": "2026-01-12",
+  "demos": {
+    "id": "person--antonio-carlos-camilo-antunes",
+    "type": "person",
+    "mapLabel": "careca-inss",
+    "seed": "no",
+    "seed-id": "person--luiz-inacio-lula-da-silva",
+    "target-questions": [
+      "q--person--fabio-luis-lula-da-silva--001",
+      "q--person--luiz-inacio-lula-da-silva--001"
+    ],
+    "country": "BR",
+    "aliases": [
+      "Careca do INSS",
+      "careca do INSS",
+      "Antonio Carlos Camilo Antunes"
+    ],
+    "tags": [
+      "previdencia",
+      "inss",
+      "investigacao",
+      "cpmi"
+    ]
+  },
+  "frontmatter": {
+    "title": "Antônio Carlos Camilo Antunes",
+    "description": "Linha do tempo e fontes públicas sobre Antônio Carlos Camilo Antunes, citado em reportagens como \"careca do INSS\".",
+    "demos": {
+      "id": "person--antonio-carlos-camilo-antunes",
+      "type": "person",
+      "mapLabel": "careca-inss",
+      "seed": "no",
+      "seed-id": "person--luiz-inacio-lula-da-silva",
+      "target-questions": [
+        "q--person--fabio-luis-lula-da-silva--001",
+        "q--person--luiz-inacio-lula-da-silva--001"
+      ],
+      "country": "BR",
+      "aliases": [
+        "Careca do INSS",
+        "careca do INSS",
+        "Antonio Carlos Camilo Antunes"
+      ],
+      "tags": [
+        "previdencia",
+        "inss",
+        "investigacao",
+        "cpmi"
+      ]
+    }
+  },
+  "frontmatterYaml": "title: \"Antônio Carlos Camilo Antunes\"\ndescription: \"Linha do tempo e fontes públicas sobre Antônio Carlos Camilo Antunes, citado em reportagens como \\\"careca do INSS\\\".\"\ndemos:\n  id: person--antonio-carlos-camilo-antunes\n  type: person\n  mapLabel: careca-inss\n  seed: no\n  seed-id: person--luiz-inacio-lula-da-silva\n  target-questions:\n    - q--person--fabio-luis-lula-da-silva--001\n    - q--person--luiz-inacio-lula-da-silva--001\n  country: BR\n  aliases:\n    - Careca do INSS\n    - careca do INSS\n    - Antonio Carlos Camilo Antunes\n  tags:\n    - previdencia\n    - inss\n    - investigacao\n    - cpmi",
+  "bodyMarkdown": "# Antônio Carlos Camilo Antunes\n\n::: info Nota editorial (Skepvox)\nEsta página entra no mapa por ser citada em cobertura jornalística sobre a Operação Sem Desconto (PF/CGU),\nque investiga descontos irregulares em benefícios do INSS.\n\nObjetivo: registrar **cronologia**, **status** e **documentos‑alvo** com linguagem neutra, sem tratar alegações como fatos.\n:::\n\n_Última atualização: 2026-01-12. ID Skepvox: `person--antonio-carlos-camilo-antunes`._\n\n<DemosEntityMap />\n\n## Situação atual\n\n- Descrição (segundo cobertura): descrito como lobista e conhecido como “careca do INSS”. Fontes: [BBC (2025-12-04)](https://www.bbc.com/portuguese/articles/cj69rj80g00o), [BBC (2025-12-18)](https://www.bbc.com/portuguese/articles/c4g98g52n8go).\n- Status (segundo cobertura): reportagens afirmam que está preso desde 2025-09 no contexto da Operação Sem Desconto. Fonte: [BBC (2025-12-18)](https://www.bbc.com/portuguese/articles/c4g98g52n8go).\n\n## Por que está no mapa\n\n- Conexão de origem: rede inicial de [Luiz Inácio Lula da Silva](/demos/pessoas/luiz-inacio-lula-da-silva), via menções em cobertura que também cita [Fábio Luís Lula da Silva](/demos/pessoas/fabio-luis-lula-da-silva) no contexto da CPMI do INSS. Fonte: [BBC (2025-12-04)](https://www.bbc.com/portuguese/articles/cj69rj80g00o).\n- Perguntas-alvo (rastreamento): `q--person--fabio-luis-lula-da-silva--001`; `q--person--luiz-inacio-lula-da-silva--001`.\n- Evidência mínima: cobertura atribui a Antunes papel relevante como investigado/apontado como operador/facilitador do esquema e registra prisões e diligências associadas à Operação Sem Desconto. Fontes: [BBC (2025-12-04)](https://www.bbc.com/portuguese/articles/cj69rj80g00o), [BBC (2025-12-18)](https://www.bbc.com/portuguese/articles/c4g98g52n8go).\n- Fontes-alvo (próximos passos): nota(s) oficial(is) da PF/CGU; decisões judiciais integrais (inclui STF, se aplicável); peças públicas sobre medidas cautelares e denúncias (quando houver); movimentação processual e desfechos.\n\n## Perguntas abertas (hipóteses)\n\n- `q--person--antonio-carlos-camilo-antunes--001`\n  - Pergunta: quais documentos públicos (decisões, relatórios, peças e movimentações) descrevem o papel atribuído a Antunes na Operação Sem Desconto e qual é o status formal atual (prisão, medidas cautelares, denúncias, decisões)?\n  - Estado: `em-apuracao`.\n  - Hipótese: há documentação pública suficiente para registrar, com rastreabilidade, o que foi imputado e o que foi decidido.\n  - Contra‑hipótese: a maior parte do caso permanece sob sigilo ou com documentação insuficiente; só existe cobertura jornalística, sem base documental acessível para auditoria independente.\n  - Próximos passos: localizar notas oficiais da PF/CGU; identificar processos e decisões citados em reportagens; registrar o que é público vs. sigiloso; adicionar cronologia de medidas e decisões com links integrais.\n  - Notas que avançam: [Operação Sem Desconto (PF/CGU)](/demos/casos/operacao-sem-desconto); [CPMI do INSS](/demos/casos/cpmi-do-inss).\n\n## Identidade (básico)\n\n- Nome: Antônio Carlos Camilo Antunes. Fonte: [BBC (2025-12-04)](https://www.bbc.com/portuguese/articles/cj69rj80g00o).\n- Também conhecido como: “careca do INSS” (apelido em reportagens). Fontes: [BBC (2025-12-04)](https://www.bbc.com/portuguese/articles/cj69rj80g00o), [BBC (2025-12-18)](https://www.bbc.com/portuguese/articles/c4g98g52n8go).\n\n## Linha do tempo\n\n### 2025 — Operação Sem Desconto (segundo cobertura)\n\n- 2025-09 — Cobertura afirma que Antunes foi preso e permanece preso no contexto da Operação Sem Desconto. Status: `reported`. Fonte: [BBC (2025-12-18)](https://www.bbc.com/portuguese/articles/c4g98g52n8go).\n- 2025-12-04 — Reportagem descreve apurações e transações atribuídas a Antunes e o cita como “careca do INSS”, no contexto de investigações sobre descontos irregulares no INSS. Status: `reported`. Fonte: [BBC (2025-12-04)](https://www.bbc.com/portuguese/articles/cj69rj80g00o).\n- 2025-12-18 — Reportagem descreve nova fase da Operação Sem Desconto e cita Antunes como um dos principais operadores do esquema investigado. Status: `reported`. Fonte: [BBC (2025-12-18)](https://www.bbc.com/portuguese/articles/c4g98g52n8go).\n\n## Pessoas relacionadas\n\n- [Fábio Luís Lula da Silva](/demos/pessoas/fabio-luis-lula-da-silva) — citado em cobertura jornalística no contexto da CPMI do INSS e de apurações sobre a Operação Sem Desconto. Fonte: [BBC (2025-12-04)](https://www.bbc.com/portuguese/articles/cj69rj80g00o).\n\n## Organizações relacionadas\n\n- Instituições citadas em cobertura (sem página ainda no Skepvox): Instituto Nacional do Seguro Social (INSS); Polícia Federal (PF); Controladoria-Geral da União (CGU); Ministério da Previdência; Supremo Tribunal Federal (STF); CPMI do INSS.\n\n## Casos relacionados\n\n- [Operação Sem Desconto (PF/CGU)](/demos/casos/operacao-sem-desconto)\n- [CPMI do INSS](/demos/casos/cpmi-do-inss)\n\n## Fontes\n\n- BBC News Brasil — “Amiga de Lulinha na mira da PF: o que se sabe sobre acusações contra filho do presidente na CPMI que investiga fraudes no INSS” (acesso em 2026-01-12): https://www.bbc.com/portuguese/articles/cj69rj80g00o\n- BBC News Brasil — “‘Nº 2 da Previdência’ é preso: o que se sabe sobre nova operação da PF contra fraudes no INSS” (acesso em 2026-01-12): https://www.bbc.com/portuguese/articles/c4g98g52n8go\n",
+  "outboundLinks": [
+    {
+      "text": "Luiz Inácio Lula da Silva",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    },
+    {
+      "text": "Fábio Luís Lula da Silva",
+      "href": "/demos/pessoas/fabio-luis-lula-da-silva"
+    },
+    {
+      "text": "Operação Sem Desconto (PF/CGU)",
+      "href": "/demos/casos/operacao-sem-desconto"
+    },
+    {
+      "text": "CPMI do INSS",
+      "href": "/demos/casos/cpmi-do-inss"
+    },
+    {
+      "text": "Fábio Luís Lula da Silva",
+      "href": "/demos/pessoas/fabio-luis-lula-da-silva"
+    },
+    {
+      "text": "Operação Sem Desconto (PF/CGU)",
+      "href": "/demos/casos/operacao-sem-desconto"
+    },
+    {
+      "text": "CPMI do INSS",
+      "href": "/demos/casos/cpmi-do-inss"
+    }
+  ],
+  "outboundLinksBySection": [
+    {
+      "section": "Por que está no mapa",
+      "links": [
+        {
+          "text": "Luiz Inácio Lula da Silva",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        },
+        {
+          "text": "Fábio Luís Lula da Silva",
+          "href": "/demos/pessoas/fabio-luis-lula-da-silva"
+        }
+      ]
+    },
+    {
+      "section": "Perguntas abertas (hipóteses)",
+      "links": [
+        {
+          "text": "Operação Sem Desconto (PF/CGU)",
+          "href": "/demos/casos/operacao-sem-desconto"
+        },
+        {
+          "text": "CPMI do INSS",
+          "href": "/demos/casos/cpmi-do-inss"
+        }
+      ]
+    },
+    {
+      "section": "Pessoas relacionadas",
+      "links": [
+        {
+          "text": "Fábio Luís Lula da Silva",
+          "href": "/demos/pessoas/fabio-luis-lula-da-silva"
+        }
+      ]
+    },
+    {
+      "section": "Casos relacionados",
+      "links": [
+        {
+          "text": "Operação Sem Desconto (PF/CGU)",
+          "href": "/demos/casos/operacao-sem-desconto"
+        },
+        {
+          "text": "CPMI do INSS",
+          "href": "/demos/casos/cpmi-do-inss"
+        }
+      ]
+    }
+  ],
+  "relations": {
+    "cases": [
+      {
+        "text": "Operação Sem Desconto (PF/CGU)",
+        "href": "/demos/casos/operacao-sem-desconto"
+      },
+      {
+        "text": "CPMI do INSS",
+        "href": "/demos/casos/cpmi-do-inss"
+      }
+    ],
+    "family": [],
+    "people": [
+      {
+        "text": "Fábio Luís Lula da Silva",
+        "href": "/demos/pessoas/fabio-luis-lula-da-silva"
+      }
+    ],
+    "organizations": []
+  },
+  "relationSectionTitles": {
+    "cases": "Casos relacionados",
+    "family": null,
+    "people": "Pessoas relacionadas",
+    "organizations": "Organizações relacionadas"
+  },
+  "openQuestions": [
+    {
+      "id": "q--person--antonio-carlos-camilo-antunes--001",
+      "question": "quais documentos públicos (decisões, relatórios, peças e movimentações) descrevem o papel atribuído a Antunes na Operação Sem Desconto e qual é o status formal atual (prisão, medidas cautelares, denúncias, decisões)?",
+      "state": "em-apuracao",
+      "hypothesis": "há documentação pública suficiente para registrar, com rastreabilidade, o que foi imputado e o que foi decidido.",
+      "counterHypothesis": "a maior parte do caso permanece sob sigilo ou com documentação insuficiente; só existe cobertura jornalística, sem base documental acessível para auditoria independente.",
+      "nextSteps": "localizar notas oficiais da PF/CGU; identificar processos e decisões citados em reportagens; registrar o que é público vs. sigiloso; adicionar cronologia de medidas e decisões com links integrais.",
+      "advancingNotes": [
+        "/demos/casos/operacao-sem-desconto",
+        "/demos/casos/cpmi-do-inss"
+      ]
+    }
+  ]
+}

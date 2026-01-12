@@ -6,6 +6,8 @@ description: "Casos e processos públicos referenciados pelo Skepvox (rota `/dem
 # Casos
 
 - [Operação Lava Jato](/demos/casos/operacao-lava-jato)
+- [Operação Sem Desconto (PF/CGU)](/demos/casos/operacao-sem-desconto)
+- [CPMI do INSS](/demos/casos/cpmi-do-inss)
 - [Operação Spoofing](/demos/casos/operacao-spoofing)
 - [Tríplex do Guarujá](/demos/casos/triplex-do-guaruja)
 - [Sítio de Atibaia](/demos/casos/sitio-de-atibaia)

@@ -18,6 +18,8 @@ type LineData = {
   lineColor?: string
   markerSize?: number
   labelFontSize?: number
+  labelOffset?: number
+  labelOffsetBelow?: number
 }
 
 const DEFAULT_LINE_COLOR = '#00c9e8'

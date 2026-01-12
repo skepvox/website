@@ -1,0 +1,52 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/pessoas/fabio-luis-lula-da-silva.md",
+    "sha256": "12d2968df2a49977f599d0b37a591110a0236e2d8efa6b74ba66c26ea58b1990"
+  },
+  "id": "person--fabio-luis-lula-da-silva",
+  "type": "person",
+  "url": "/demos/pessoas/fabio-luis-lula-da-silva",
+  "title": "Fábio Luís Lula da Silva",
+  "description": "Linha do tempo e fontes públicas sobre Fábio Luís Lula da Silva (Lulinha).",
+  "updatedAt": "2026-01-12",
+  "demos": {
+    "id": "person--fabio-luis-lula-da-silva",
+    "type": "person",
+    "mapLabel": "lulinha",
+    "seed": "no",
+    "seed-id": "person--luiz-inacio-lula-da-silva",
+    "target-questions": [
+      "q--person--luiz-inacio-lula-da-silva--001"
+    ],
+    "country": "BR",
+    "identifiers": {
+      "wikidata": "Q10286880",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Lulinha_(empres%C3%A1rio)"
+    },
+    "aliases": [
+      "Lulinha",
+      "Fabio Luis Lula da Silva"
+    ],
+    "tags": [
+      "familia",
+      "empresariado"
+    ],
+    "primaryRoles": []
+  },
+  "openQuestions": [
+    {
+      "id": "q--person--fabio-luis-lula-da-silva--001",
+      "question": "quais documentos públicos (depoimentos, relatórios, peças/decisões) sustentam ou refutam as acusações citadas em reportagens no contexto da CPMI do INSS, e qual é o status atual (investigação formal, arquivamento, inexistência de procedimento, etc.)?",
+      "state": "em-apuracao",
+      "hypothesis": "há documentação pública suficiente para auditar o que foi alegado e registrar o desfecho com rastreabilidade.",
+      "counterHypothesis": "as alegações não se sustentam ou não há documentação pública acessível para verificação independente; o tema permanece como disputa narrativa sem evidência verificável.",
+      "nextSteps": "localizar documentos oficiais citados pela reportagem (CPMI/PF) e registrar o que é público vs. sigiloso; identificar e registrar respostas/negações verificáveis; evitar extrapolar além do que estiver documentado.",
+      "advancingNotes": [
+        "/demos/pessoas/antonio-carlos-camilo-antunes",
+        "/demos/casos/cpmi-do-inss"
+      ]
+    }
+  ]
+}

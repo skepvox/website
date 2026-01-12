@@ -25,6 +25,8 @@ demos:
 
 _Última atualização: 2026-01-09. ID Skepvox: `org--central-unica-dos-trabalhadores-cut`._
 
+<DemosEntityMap />
+
 ## Situação atual
 
 - Tipo: central sindical brasileira (em atividade). Fonte: [Wikidata (Q365154)](https://www.wikidata.org/wiki/Q365154).

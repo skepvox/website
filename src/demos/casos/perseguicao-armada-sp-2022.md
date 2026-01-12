@@ -24,6 +24,8 @@ quando disponíveis, mantendo linguagem neutra e separando fatos de alegações.
 
 _Última atualização: 2026-01-11. ID Skepvox: `case--perseguicao-armada-sp-2022`._
 
+<DemosEntityMap />
+
 ## Situação atual
 
 - Status (segundo cobertura): há registro de condenação no STF em 2025, com menção de trânsito em julgado e custódia no exterior em 2025-10. Fontes: [G1 (2025-08-22)](https://g1.globo.com/jornal-nacional/noticia/2025/08/22/stf-condena-zambelli-a-5-anos-e-3-meses-de-prisao-por-perseguir-armada-homem-em-sp.ghtml), [G1 (2025-10-30)](https://g1.globo.com/politica/noticia/2025/10/30/carla-zambelli-transito-em-julgado-uso-de-arma.ghtml).

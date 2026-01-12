@@ -11,6 +11,7 @@ demos:
   target-questions:
     - q--case--atentado-contra-jair-bolsonaro--001
     - q--person--adelio-bispo-de-oliveira--001
+    - q--person--rodrigo-morais-fernandes--002
   country: BR
   aliases:
     - Zanone Manoel de Oliveira Junior
@@ -32,9 +33,9 @@ O objetivo é registrar cronologia e fontes sobre o que foi publicado publicamen
 sem inferir além do que está documentado.
 :::
 
-_Última atualização: 2026-01-10. ID Skepvox: `person--zanone-manoel-de-oliveira-junior`._
+_Última atualização: 2026-01-12. ID Skepvox: `person--zanone-manoel-de-oliveira-junior`._
 
-<DemosPortraitSvg />
+<DemosEntityMap />
 
 ## Situação atual
 
@@ -44,7 +45,7 @@ _Última atualização: 2026-01-10. ID Skepvox: `person--zanone-manoel-de-olivei
 ## Por que está no mapa
 
 - Conexão de origem: semente [Adélio Bispo de Oliveira](/demos/pessoas/adelio-bispo-de-oliveira) via o caso [Atentado contra Jair Bolsonaro](/demos/casos/atentado-contra-jair-bolsonaro).
-- Perguntas-alvo (rastreamento): `q--case--atentado-contra-jair-bolsonaro--001`; `q--person--adelio-bispo-de-oliveira--001`.
+- Perguntas-alvo (rastreamento): `q--case--atentado-contra-jair-bolsonaro--001`; `q--person--adelio-bispo-de-oliveira--001`; `q--person--rodrigo-morais-fernandes--002`.
 - Evidência mínima: aparece como peça factual relevante em cobertura sobre o 2º inquérito (participação de terceiros), porque a reportagem descreve uma diligência pendente envolvendo perícia de celular e disputa jurídica (OAB/TRF-1/STF). Fonte: [G1 (2020-05-14)](https://g1.globo.com/mg/minas-gerais/noticia/2020/05/14/pf-conclui-em-2o-inquerito-que-adelio-agiu-sozinho-e-sem-mandantes-no-ataque-a-bolsonaro.ghtml).
 - Fontes-alvo (próximos passos): decisões/acórdãos (TRF-1/STF) sobre a perícia; número do procedimento; delimitação de escopo (sigilo profissional, cadeia de custódia e relevância); documentos públicos que esclareçam se a diligência ocorreu e qual foi o resultado.
 
@@ -59,7 +60,7 @@ _Última atualização: 2026-01-10. ID Skepvox: `person--zanone-manoel-de-olivei
   - Notas que avançam: nenhuma ainda.
 - `q--person--zanone-manoel-de-oliveira-junior--002`
   - Pergunta: qual foi o escopo e a cadeia de custódia da apreensão do aparelho (data, ordem judicial, delimitação de acesso) e como foram tratados os limites de sigilo profissional?
-  - Estado: `aberta`.
+  - Estado: `em-apuracao`.
   - Hipótese: os autos/decisões (se públicos) esclarecem escopo, justificativa e salvaguardas (filtragem, lacres, perícia, delimitação temática) compatíveis com garantias legais.
   - Contra‑hipótese: a documentação pública é insuficiente para auditar escopo e salvaguardas, mantendo disputa interpretativa sobre legalidade e proporcionalidade.
   - Próximos passos: localizar decisão de busca e apreensão; registrar se houve impugnações além da OAB; mapear quais peças são públicas; checar menções em decisões posteriores do caso.

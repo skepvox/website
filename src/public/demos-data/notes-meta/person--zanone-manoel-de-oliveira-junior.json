@@ -1,0 +1,61 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/pessoas/zanone-manoel-de-oliveira-junior.md",
+    "sha256": "440050a22f7bbe0689d5e8ae5db1cbc92600e95d43d743405aaa640306bba50e"
+  },
+  "id": "person--zanone-manoel-de-oliveira-junior",
+  "type": "person",
+  "url": "/demos/pessoas/zanone-manoel-de-oliveira-junior",
+  "title": "Zanone Manoel de Oliveira Júnior",
+  "description": "Linha do tempo e fontes públicas sobre Zanone Manoel de Oliveira Júnior.",
+  "updatedAt": "2026-01-12",
+  "demos": {
+    "id": "person--zanone-manoel-de-oliveira-junior",
+    "type": "person",
+    "mapLabel": "zanone",
+    "portrait": "zanone-manoel-de-oliveira-junior.png",
+    "seed": "no",
+    "seed-id": "person--adelio-bispo-de-oliveira",
+    "target-questions": [
+      "q--case--atentado-contra-jair-bolsonaro--001",
+      "q--person--adelio-bispo-de-oliveira--001",
+      "q--person--rodrigo-morais-fernandes--002"
+    ],
+    "country": "BR",
+    "aliases": [
+      "Zanone Manoel de Oliveira Junior",
+      "Zanone"
+    ],
+    "tags": [
+      "advocacia",
+      "oab",
+      "atentado-2018",
+      "investigacao",
+      "justica"
+    ]
+  },
+  "openQuestions": [
+    {
+      "id": "q--person--zanone-manoel-de-oliveira-junior--001",
+      "question": "qual é o número do processo/medida no TRF-1 e no STF sobre a perícia no celular e qual foi o desfecho (decisão, fundamentação e datas)?",
+      "state": "aberta",
+      "hypothesis": "há registro público suficiente (ao menos com número, classe e movimentação) para documentar o desfecho e os limites impostos à diligência.",
+      "counterHypothesis": "o caso não é rastreável publicamente (sigilo, ausência de número em fontes abertas) e o desfecho permanece indeterminado do ponto de vista externo.",
+      "nextSteps": "identificar número a partir de fontes públicas; localizar decisão/acórdão (TRF-1/STF); registrar cronologia e fundamentos; checar se houve recursos ou decisões posteriores.",
+      "advancingNotes": []
+    },
+    {
+      "id": "q--person--zanone-manoel-de-oliveira-junior--002",
+      "question": "qual foi o escopo e a cadeia de custódia da apreensão do aparelho (data, ordem judicial, delimitação de acesso) e como foram tratados os limites de sigilo profissional?",
+      "state": "em-apuracao",
+      "hypothesis": "os autos/decisões (se públicos) esclarecem escopo, justificativa e salvaguardas (filtragem, lacres, perícia, delimitação temática) compatíveis com garantias legais.",
+      "counterHypothesis": "a documentação pública é insuficiente para auditar escopo e salvaguardas, mantendo disputa interpretativa sobre legalidade e proporcionalidade.",
+      "nextSteps": "localizar decisão de busca e apreensão; registrar se houve impugnações além da OAB; mapear quais peças são públicas; checar menções em decisões posteriores do caso.",
+      "advancingNotes": [
+        "/demos/pessoas/rodrigo-morais-fernandes"
+      ]
+    }
+  ]
+}

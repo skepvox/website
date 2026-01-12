@@ -32,13 +32,13 @@ Objetivo: registrar **cronologia**, **status** e **fontes** com linguagem neutra
 
 _Última atualização: 2026-01-12. ID Skepvox: `person--fabio-luis-lula-da-silva`._
 
-<DemosPortraitSvg />
+<DemosEntityMap />
 
 ## Situação atual
 
 - Descrição geral: descrito como biólogo e empresário brasileiro (segundo biografia enciclopédica). Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Lulinha_(empres%C3%A1rio)).
 - Relação familiar: filho de [Luiz Inácio Lula da Silva](/demos/pessoas/luiz-inacio-lula-da-silva) (segundo biografia enciclopédica). Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Lulinha_(empres%C3%A1rio)).
-- Acusações públicas (2025): reportagem descreve que um ex-funcionário do INSS teria dito à Polícia Federal que Fábio Luís receberia uma “mesada” de Antônio Carlos (“careca do INSS”), apontado na reportagem como operador das fraudes investigadas. Status: `reported`. Fonte: [BBC (2025-12-04)](https://www.bbc.com/portuguese/articles/cj69rj80g00o).
+- Acusações públicas (2025): reportagem descreve que um ex-funcionário do INSS teria dito à Polícia Federal que Fábio Luís receberia uma “mesada” de [Antônio Carlos Camilo Antunes](/demos/pessoas/antonio-carlos-camilo-antunes) (“careca do INSS”), apontado na reportagem como operador das fraudes investigadas. Status: `reported`. Fonte: [BBC (2025-12-04)](https://www.bbc.com/portuguese/articles/cj69rj80g00o).
 
 ## Por que está no mapa
 
@@ -51,11 +51,11 @@ _Última atualização: 2026-01-12. ID Skepvox: `person--fabio-luis-lula-da-silv
 
 - `q--person--fabio-luis-lula-da-silva--001`
   - Pergunta: quais documentos públicos (depoimentos, relatórios, peças/decisões) sustentam ou refutam as acusações citadas em reportagens no contexto da CPMI do INSS, e qual é o status atual (investigação formal, arquivamento, inexistência de procedimento, etc.)?
-  - Estado: `aberta`.
+  - Estado: `em-apuracao`.
   - Hipótese: há documentação pública suficiente para auditar o que foi alegado e registrar o desfecho com rastreabilidade.
   - Contra-hipótese: as alegações não se sustentam ou não há documentação pública acessível para verificação independente; o tema permanece como disputa narrativa sem evidência verificável.
   - Próximos passos: localizar documentos oficiais citados pela reportagem (CPMI/PF) e registrar o que é público vs. sigiloso; identificar e registrar respostas/negações verificáveis; evitar extrapolar além do que estiver documentado.
-  - Notas que avançam: nenhuma ainda.
+  - Notas que avançam: [Antônio Carlos Camilo Antunes](/demos/pessoas/antonio-carlos-camilo-antunes); [CPMI do INSS](/demos/casos/cpmi-do-inss).
 
 ## Identidade (básico)
 
@@ -77,6 +77,11 @@ _Última atualização: 2026-01-12. ID Skepvox: `person--fabio-luis-lula-da-silv
 ## Relações familiares
 
 - [Luiz Inácio Lula da Silva](/demos/pessoas/luiz-inacio-lula-da-silva) — pai (filho), conforme biografia enciclopédica citada nesta nota. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Lulinha_(empres%C3%A1rio)).
+
+## Casos relacionados
+
+- [Operação Sem Desconto (PF/CGU)](/demos/casos/operacao-sem-desconto)
+- [CPMI do INSS](/demos/casos/cpmi-do-inss)
 
 ## Fontes
 

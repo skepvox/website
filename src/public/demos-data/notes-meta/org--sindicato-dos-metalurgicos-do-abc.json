@@ -1,0 +1,40 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/organizacoes/sindicato-dos-metalurgicos-do-abc.md",
+    "sha256": "60b9a5c3bfb0867b6d0c66b7f818e2e6a1c6ec5eab39273c5f9a7384481239b7"
+  },
+  "id": "org--sindicato-dos-metalurgicos-do-abc",
+  "type": "org",
+  "url": "/demos/organizacoes/sindicato-dos-metalurgicos-do-abc",
+  "title": "Sindicato dos Metalúrgicos do ABC",
+  "description": "Resumo factual e fontes públicas sobre o Sindicato dos Metalúrgicos de São Bernardo do Campo e Diadema (ABC paulista).",
+  "updatedAt": "2026-01-09",
+  "demos": {
+    "id": "org--sindicato-dos-metalurgicos-do-abc",
+    "type": "org",
+    "mapLabel": "sindicato",
+    "seed": "no",
+    "seed-id": "person--luiz-inacio-lula-da-silva",
+    "target-questions": [
+      "q--person--luiz-inacio-lula-da-silva--001"
+    ],
+    "country": "BR",
+    "identifiers": {
+      "wikidata": "Q18484807",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Sindicato_dos_Metal%C3%BArgicos_do_ABC"
+    },
+    "aliases": [
+      "Sindicato dos Metalúrgicos de São Bernardo do Campo e Diadema",
+      "Sindicato dos Metalurgicos de Sao Bernardo do Campo e Diadema",
+      "Sindicato dos Metalúrgicos do ABC",
+      "Sindicato dos Metalurgicos do ABC"
+    ],
+    "tags": [
+      "sindicato",
+      "brasil"
+    ]
+  },
+  "openQuestions": []
+}

@@ -34,7 +34,7 @@ documentado.
 
 _Última atualização: 2026-01-10. ID Skepvox: `person--rui-costa`._
 
-<DemosPortraitSvg />
+<DemosEntityMap />
 
 ## Situação atual
 

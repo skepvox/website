@@ -9,17 +9,8 @@ This repo contains the VitePress site in `src/`. The ENEM pipeline lives at the 
 The `/demos/mapa` page consumes prebuilt graph data generated from the Markdown notes in `src/demos/`.
 
 - Generate: `pnpm demos:data` (or `node scripts/demos-notes-data.js export`)
-- Output: `src/public/demos-data/graph.json` and `src/public/demos-data/notes.jsonl`
+- Output: `src/public/demos-data/graph.json`, `src/public/demos-data/subgraphs/`, `src/public/demos-data/notes-meta/`, and `src/public/demos-data/notes.jsonl`
 - Note: the exporter is conservative: it only emits `person ↔ person` edges for `family`, and does not emit “mentions/link” edges.
-
-### Demos portraits (stipple SVGs)
-
-Person notes can render pre-generated stipple SVG portraits (with PNG fallback).
-
-- Input PNGs: `src/public/images/demos/pessoas/<slug>.png`
-- Generate SVGs: `pnpm demos:portraits`
-- Output SVGs: `src/public/images/demos/pessoas-stipple/<slug>--light.svg` and `...--dark.svg`
-- Re-generate everything: `pnpm demos:portraits -- --force`
 
 ## ENEM extraction pipeline (`pipeline-enem-extraction/`)
 

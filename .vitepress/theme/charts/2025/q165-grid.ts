@@ -123,8 +123,6 @@ export const renderQ165Grid = (input: ChartRenderInput): ChartInstance => {
     }
 
     const letterFontSize = Math.max(12, Math.round(squareSize * 0.32))
-    const letterOffsetX = squareSize * 0.18
-    const letterOffsetY = squareSize * 0.16
 
     letters.forEach((letter) => {
       const baseX = gridX + letter.col * (squareSize + gap)
@@ -228,7 +226,7 @@ export const renderQ165Grid = (input: ChartRenderInput): ChartInstance => {
       .attr('dominant-baseline', 'middle')
       .attr('fill', theme.textColor)
       .attr('font-size', compassLabelSize)
-      .text(compassLabels.north)
+      .text(compassLabels.north ?? '')
 
     compassGroup
       .append('text')
@@ -238,7 +236,7 @@ export const renderQ165Grid = (input: ChartRenderInput): ChartInstance => {
       .attr('dominant-baseline', 'middle')
       .attr('fill', theme.textColor)
       .attr('font-size', compassLabelSize)
-      .text(compassLabels.south)
+      .text(compassLabels.south ?? '')
 
     const horizontalLabelY = compassCenterY
 
@@ -250,7 +248,7 @@ export const renderQ165Grid = (input: ChartRenderInput): ChartInstance => {
       .attr('dominant-baseline', 'central')
       .attr('fill', theme.textColor)
       .attr('font-size', compassLabelSize)
-      .text(compassLabels.west)
+      .text(compassLabels.west ?? '')
 
     compassGroup
       .append('text')
@@ -260,7 +258,7 @@ export const renderQ165Grid = (input: ChartRenderInput): ChartInstance => {
       .attr('dominant-baseline', 'central')
       .attr('fill', theme.textColor)
       .attr('font-size', compassLabelSize)
-      .text(compassLabels.east)
+      .text(compassLabels.east ?? '')
   }
 
   const update = (next: ChartRenderInput) => {

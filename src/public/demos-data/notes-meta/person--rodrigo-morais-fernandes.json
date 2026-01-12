@@ -1,0 +1,69 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/pessoas/rodrigo-morais-fernandes.md",
+    "sha256": "d344075e479375116aac38427f1db8870f048785f81f185320e188739f666fbd"
+  },
+  "id": "person--rodrigo-morais-fernandes",
+  "type": "person",
+  "url": "/demos/pessoas/rodrigo-morais-fernandes",
+  "title": "Rodrigo Morais Fernandes",
+  "description": "Linha do tempo e fontes públicas sobre Rodrigo Morais Fernandes.",
+  "updatedAt": "2026-01-12",
+  "demos": {
+    "id": "person--rodrigo-morais-fernandes",
+    "type": "person",
+    "mapLabel": "rodrigo-morais",
+    "portrait": "rodrigo-morais-fernandes.png",
+    "seed": "no",
+    "seed-id": "person--adelio-bispo-de-oliveira",
+    "target-questions": [
+      "q--case--atentado-contra-jair-bolsonaro--001",
+      "q--person--adelio-bispo-de-oliveira--001",
+      "q--person--zanone-manoel-de-oliveira-junior--002"
+    ],
+    "country": "BR",
+    "aliases": [
+      "Rodrigo Morais",
+      "Delegado Rodrigo Morais"
+    ],
+    "tags": [
+      "pf",
+      "atentado-2018",
+      "investigacao",
+      "justica"
+    ]
+  },
+  "openQuestions": [
+    {
+      "id": "q--person--rodrigo-morais-fernandes--001",
+      "question": "quais diligências (e decisões judiciais) foram efetivamente executadas no Inquérito Policial nº 503/2018 DPF/JFA/MG após o relatório de 2018 e como isso se refletiu na conclusão de 2020?",
+      "state": "aberta",
+      "hypothesis": "há documentação pública suficiente (decisões/peças acessíveis, ao menos em parte) para auditar o que foi requerido, autorizado e feito (mensagens, e-mails, quebras de sigilo, perícias).",
+      "counterHypothesis": "a maior parte do material permanece inacessível publicamente (sigilo) e só é possível reconstruir a execução das diligências por fontes secundárias (reportagens), com baixa auditabilidade externa.",
+      "nextSteps": "localizar número/peças do IP 503/2018 e eventuais decisões públicas; checar publicização em sistemas judiciais; mapear o que foi publicado por PF/MPF/Justiça; atualizar com documentos integrais quando disponíveis.",
+      "advancingNotes": []
+    },
+    {
+      "id": "q--person--rodrigo-morais-fernandes--002",
+      "question": "qual foi o desfecho (em TRF-1/STF) da controvérsia sobre perícia em celular de advogado citada em reportagem (e qual o impacto disso no escopo probatório do 2º inquérito)?",
+      "state": "em-apuracao",
+      "hypothesis": "houve decisão/andamento rastreável (número processual, despacho, acórdão) que esclarece limites de diligências e de acesso a dados.",
+      "counterHypothesis": "não há decisão pública acessível (ou o caso permaneceu indefinido por longo período), mantendo ambiguidade sobre o que pôde ser analisado.",
+      "nextSteps": "identificar o número da ação/medida no TRF-1 e no STF (a partir de fontes públicas); localizar decisões/acórdãos; registrar datas e fundamentos.",
+      "advancingNotes": [
+        "/demos/pessoas/zanone-manoel-de-oliveira-junior"
+      ]
+    },
+    {
+      "id": "q--person--rodrigo-morais-fernandes--003",
+      "question": "existe evidência pública que conecte formalmente a atuação nos inquéritos do atentado (2018–2020) com nomeações/designações posteriores (ex.: Diretor de Inteligência Policial; Adido em Londres) — sem inferir causalidade além do que está documentado?",
+      "state": "aberta",
+      "hypothesis": "não há (até aqui) indício documental público de “nexo causal”; as nomeações podem ser explicadas por rotinas administrativas e critérios internos.",
+      "counterHypothesis": "existe documentação (peças, mensagens, representações, decisões) indicando algum tipo de interferência ou motivação extraprocessual, mas ela não é pública ou não foi localizada ainda.",
+      "nextSteps": "localizar decisão de arquivamento (se houver) e manifestações do MPF/Justiça sobre o IP nº 503/2018; checar se houve representação/controle externo (MPF/CGU/TCU) ou procedimentos internos; manter lista de atos do DOU relevantes em “Linha do tempo”.",
+      "advancingNotes": []
+    }
+  ]
+}

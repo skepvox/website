@@ -1,0 +1,52 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/pessoas/flavio-dino.md",
+    "sha256": "f81d32ab7461127579ea77438b71da71dff3b5c224e5f45e23de416d2495aa50"
+  },
+  "id": "person--flavio-dino",
+  "type": "person",
+  "url": "/demos/pessoas/flavio-dino",
+  "title": "Flávio Dino",
+  "description": "Linha do tempo e fontes públicas sobre Flávio Dino.",
+  "updatedAt": "2026-01-10",
+  "demos": {
+    "id": "person--flavio-dino",
+    "type": "person",
+    "mapLabel": "dino",
+    "portrait": "flavio-dino.png",
+    "seed": "no",
+    "seed-id": "case--8-de-janeiro-2023",
+    "target-questions": [
+      "q--case--8-de-janeiro-2023--001",
+      "q--case--8-de-janeiro-2023--002"
+    ],
+    "country": "BR",
+    "identifiers": {
+      "wikidata": "Q10283063",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Dino"
+    },
+    "aliases": [
+      "Flávio Dino"
+    ],
+    "tags": [
+      "judiciario",
+      "stf",
+      "executivo",
+      "mjsp",
+      "8-jan"
+    ]
+  },
+  "openQuestions": [
+    {
+      "id": "q--person--flavio-dino--001",
+      "question": "quais imagens existiam, por quanto tempo eram armazenadas, quais foram preservadas e entregues (e a quem), e qual documentação pública comprova a cadeia de custódia?",
+      "state": "aberta",
+      "hypothesis": "há lacunas documentais e/ou decisões administrativas que dificultam auditoria pública do conjunto completo de imagens.",
+      "counterHypothesis": "as imagens relevantes foram preservadas e entregues às autoridades competentes (PF/inquéritos), e o restante expirou por regras contratuais; a documentação existe e é verificável.",
+      "nextSteps": "localizar ofícios e anexos enviados à CPMI; identificar contratos e termos citados; mapear registros de apreensão/perícia pela PF; buscar decisões judiciais que descrevam os conjuntos de imagens.",
+      "advancingNotes": []
+    }
+  ]
+}

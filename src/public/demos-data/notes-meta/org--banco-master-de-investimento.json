@@ -1,0 +1,34 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/organizacoes/banco-master-de-investimento.md",
+    "sha256": "d426adca2662cf9caec4c353802621dd49d7146aa2940dd3418bcf066e11e688"
+  },
+  "id": "org--banco-master-de-investimento",
+  "type": "org",
+  "url": "/demos/organizacoes/banco-master-de-investimento",
+  "title": "Banco Master de Investimento",
+  "description": "Resumo factual e fontes públicas sobre o Banco Master de Investimento e seu vínculo com o caso de liquidação do Banco Master.",
+  "updatedAt": "2026-01-12",
+  "demos": {
+    "id": "org--banco-master-de-investimento",
+    "type": "org",
+    "mapLabel": "master-inv",
+    "seed": "no",
+    "seed-id": "case--caso-banco-master",
+    "target-questions": [
+      "q--org--banco-master--001"
+    ],
+    "country": "BR",
+    "aliases": [
+      "Banco Master de Investimento S.A."
+    ],
+    "tags": [
+      "banco",
+      "sistema-financeiro",
+      "liquidacao"
+    ]
+  },
+  "openQuestions": []
+}

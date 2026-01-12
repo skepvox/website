@@ -27,6 +27,8 @@ demos:
 
 _Última atualização: 2026-01-09. ID Skepvox: `org--sindicato-dos-metalurgicos-do-abc`._
 
+<DemosEntityMap />
+
 ## Situação atual
 
 - Tipo: sindicato de trabalhadores (metalúrgicos) no ABC paulista. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Sindicato_dos_Metal%C3%BArgicos_do_ABC).

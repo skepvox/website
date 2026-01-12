@@ -1,0 +1,47 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/casos/sitio-de-atibaia.md",
+    "sha256": "fe14169fef59e1e0196bb0123f3d3df56f8b01317a40f0d38927d0268f91cb30"
+  },
+  "id": "case--sitio-de-atibaia",
+  "type": "case",
+  "url": "/demos/casos/sitio-de-atibaia",
+  "title": "Sítio de Atibaia",
+  "description": "Resumo, linha do tempo e fontes públicas sobre o caso do sítio de Atibaia (Lava Jato) envolvendo Luiz Inácio Lula da Silva.",
+  "updatedAt": "2026-01-09",
+  "demos": {
+    "id": "case--sitio-de-atibaia",
+    "type": "case",
+    "mapLabel": "sitio-atibaia",
+    "seed": "no",
+    "seed-id": "person--luiz-inacio-lula-da-silva",
+    "target-questions": [
+      "q--person--luiz-inacio-lula-da-silva--001",
+      "q--case--operacao-lava-jato--001"
+    ],
+    "country": "BR",
+    "aliases": [
+      "Caso do sítio de Atibaia",
+      "Sítio Santa Bárbara (Atibaia)"
+    ],
+    "tags": [
+      "justica",
+      "lava-jato"
+    ]
+  },
+  "openQuestions": [
+    {
+      "id": "q--case--sitio-de-atibaia--001",
+      "question": "o caso foi afetado por influência indevida (política/institucional) — seja para acelerar, seja para anular/retardar?",
+      "state": "em-apuracao",
+      "hypothesis": "houve influência indevida que afetou o ritmo e/ou o desfecho (acelerar, anular ou retardar).",
+      "counterHypothesis": "os desfechos decorrem principalmente de fundamentos jurídicos (competência, nulidades, devido processo).",
+      "nextSteps": "coletar decisões integrais, votos e fundamentos; mapear cronologia completa; comparar com casos semelhantes.",
+      "advancingNotes": [
+        "/demos/pessoas/luiz-edson-fachin"
+      ]
+    }
+  ]
+}

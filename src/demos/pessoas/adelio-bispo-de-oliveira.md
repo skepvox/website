@@ -29,7 +29,7 @@ fatos, alegações e hipóteses.
 
 _Última atualização: 2026-01-10. ID Skepvox: `person--adelio-bispo-de-oliveira`._
 
-<DemosPortraitSvg />
+<DemosEntityMap />
 
 ## Situação atual
 

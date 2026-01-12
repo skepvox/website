@@ -35,7 +35,7 @@ O objetivo é registrar fatos e alegações com fonte e status explícitos.
 
 _Última atualização: 2026-01-10. ID Skepvox: `person--flavio-dino`._
 
-<DemosPortraitSvg />
+<DemosEntityMap />
 
 ## Situação atual
 

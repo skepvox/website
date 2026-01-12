@@ -1,0 +1,1761 @@
+{
+  "schema": "skepvox--demos-questions",
+  "schemaVersion": 1,
+  "source": {
+    "sha256": "1e17d702867cf2d128babcfc261078d0f075cd4dea4ff84428b44ffd8d0677b0"
+  },
+  "questionCount": 56,
+  "countsByState": {
+    "em-apuracao": 26,
+    "aberta": 30
+  },
+  "questions": [
+    {
+      "id": "q--case--8-de-janeiro-2023--001",
+      "state": "em-apuracao",
+      "question": "quais alertas prévios existiam (inteligência e segurança), para quem foram enviados, e o que foi feito com eles antes do 08-01?",
+      "hypothesis": "existiam alertas acionáveis e houve falhas/omissões relevantes na resposta preventiva (por ação, inação ou coordenação insuficiente).",
+      "counterHypothesis": "os alertas eram genéricos/insuficientes, ou a resposta foi compatível com as informações disponíveis e limitações operacionais.",
+      "nextSteps": "coletar íntegra de alertas e encaminhamentos; registros de recebimento e decisões; depoimentos públicos; relatórios de órgãos de controle. Fonte-alvo inicial: [Folha](https://www1.folha.uol.com.br/poder/2023/04/veja-integra-dos-alertas-da-abin-ao-gsi-e-ao-ministerio-da-justica-antes-do-81.shtml).",
+      "container": {
+        "id": "case--8-de-janeiro-2023",
+        "type": "case",
+        "url": "/demos/casos/8-de-janeiro-2023",
+        "title": "8 de Janeiro de 2023 (Ataques em Brasília)"
+      },
+      "advancingNotes": [
+        {
+          "url": "/demos/pessoas/alexandre-de-moraes",
+          "id": "person--alexandre-de-moraes",
+          "type": "person",
+          "title": "Alexandre de Moraes"
+        },
+        {
+          "url": "/demos/pessoas/flavio-dino",
+          "id": "person--flavio-dino",
+          "type": "person",
+          "title": "Flávio Dino"
+        }
+      ],
+      "targetedBy": [
+        {
+          "id": "person--alexandre-de-moraes",
+          "type": "person",
+          "url": "/demos/pessoas/alexandre-de-moraes",
+          "title": "Alexandre de Moraes"
+        },
+        {
+          "id": "person--flavio-dino",
+          "type": "person",
+          "url": "/demos/pessoas/flavio-dino",
+          "title": "Flávio Dino"
+        }
+      ]
+    },
+    {
+      "id": "q--case--8-de-janeiro-2023--002",
+      "state": "em-apuracao",
+      "question": "a cadeia de custódia de imagens e outros materiais (câmeras/servidores/anexos) é auditável e preservada de ponta a ponta?",
+      "hypothesis": "há lacunas relevantes de preservação/entrega/documentação que prejudicam auditoria pública e judicial do que ocorreu e de quem fez o quê.",
+      "counterHypothesis": "a cadeia de custódia é suficientemente documentada (apreensão, cópias forenses, perícias) e as lacunas aparentes têm explicação técnica/administrativa verificável.",
+      "nextSteps": "identificar repositórios oficiais, laudos e termos de apreensão; mapear quais conjuntos de imagens existem, quais foram anexados a inquéritos e quais não; checar decisões e perícias citadas publicamente.",
+      "container": {
+        "id": "case--8-de-janeiro-2023",
+        "type": "case",
+        "url": "/demos/casos/8-de-janeiro-2023",
+        "title": "8 de Janeiro de 2023 (Ataques em Brasília)"
+      },
+      "advancingNotes": [
+        {
+          "url": "/demos/pessoas/alexandre-de-moraes",
+          "id": "person--alexandre-de-moraes",
+          "type": "person",
+          "title": "Alexandre de Moraes"
+        },
+        {
+          "url": "/demos/pessoas/flavio-dino",
+          "id": "person--flavio-dino",
+          "type": "person",
+          "title": "Flávio Dino"
+        }
+      ],
+      "targetedBy": [
+        {
+          "id": "person--alexandre-de-moraes",
+          "type": "person",
+          "url": "/demos/pessoas/alexandre-de-moraes",
+          "title": "Alexandre de Moraes"
+        },
+        {
+          "id": "person--flavio-dino",
+          "type": "person",
+          "url": "/demos/pessoas/flavio-dino",
+          "title": "Flávio Dino"
+        }
+      ]
+    },
+    {
+      "id": "q--case--8-de-janeiro-2023--003",
+      "state": "aberta",
+      "question": "existe evidência pública robusta de infiltração/provocação (por qualquer grupo político, estatal ou não) para escalar vandalismo e/ou produzir pretexto para prisões?",
+      "hypothesis": "houve infiltração/provocação com objetivo de maximizar dano simbólico e influenciar desdobramentos políticos/judiciais.",
+      "counterHypothesis": "a explicação mais consistente é a participação voluntária de manifestantes e redes de mobilização já identificadas nas investigações, sem evidência verificável de “false flag”.",
+      "nextSteps": "buscar indícios documentais e não apenas inferências; checar se há inquéritos, denúncias ou decisões que tratem especificamente da hipótese; comparar com evidências materiais (vídeos, perícias, identificação).",
+      "container": {
+        "id": "case--8-de-janeiro-2023",
+        "type": "case",
+        "url": "/demos/casos/8-de-janeiro-2023",
+        "title": "8 de Janeiro de 2023 (Ataques em Brasília)"
+      },
+      "advancingNotes": [],
+      "targetedBy": []
+    },
+    {
+      "id": "q--case--8-de-janeiro-2023--004",
+      "state": "aberta",
+      "question": "qual foi o nível de coordenação e financiamento (logística, transporte, comunicação) e quais atores podem ser responsabilizados por isso?",
+      "hypothesis": "existiu coordenação financiada (rede) com rastros verificáveis (pagamentos, mensagens, logística) além de “autoria individual”.",
+      "counterHypothesis": "a mobilização foi majoritariamente difusa, com coordenação limitada e sem um núcleo financiador identificável publicamente.",
+      "nextSteps": "mapear decisões e denúncias que tratem de financiamento; buscar dados de quebras de sigilo já publicadas; acompanhar sentenças e votos que descrevam elementos de coordenação.",
+      "container": {
+        "id": "case--8-de-janeiro-2023",
+        "type": "case",
+        "url": "/demos/casos/8-de-janeiro-2023",
+        "title": "8 de Janeiro de 2023 (Ataques em Brasília)"
+      },
+      "advancingNotes": [],
+      "targetedBy": []
+    },
+    {
+      "id": "q--case--atentado-contra-jair-bolsonaro--001",
+      "state": "em-apuracao",
+      "question": "há evidência documentada de participação de terceiros (mandante, suporte logístico ou financiamento) que não foi incorporada à conclusão final?",
+      "hypothesis": "existe evidência documentada (não incorporada à conclusão final) de participação de terceiros.",
+      "counterHypothesis": "a conclusão de ação individual se sustenta no conjunto de evidências disponíveis, sem sinais verificáveis de participação de terceiros.",
+      "nextSteps": "relatório final e anexos; diligências registradas; perícias financeiras/telefônicas; reconstituição; transparência metodológica.",
+      "container": {
+        "id": "case--atentado-contra-jair-bolsonaro",
+        "type": "case",
+        "url": "/demos/casos/atentado-contra-jair-bolsonaro",
+        "title": "Atentado contra Jair Bolsonaro"
+      },
+      "advancingNotes": [
+        {
+          "url": "/demos/pessoas/rodrigo-morais-fernandes",
+          "id": "person--rodrigo-morais-fernandes",
+          "type": "person",
+          "title": "Rodrigo Morais Fernandes"
+        },
+        {
+          "url": "/demos/pessoas/zanone-manoel-de-oliveira-junior",
+          "id": "person--zanone-manoel-de-oliveira-junior",
+          "type": "person",
+          "title": "Zanone Manoel de Oliveira Júnior"
+        }
+      ],
+      "targetedBy": [
+        {
+          "id": "person--rodrigo-morais-fernandes",
+          "type": "person",
+          "url": "/demos/pessoas/rodrigo-morais-fernandes",
+          "title": "Rodrigo Morais Fernandes"
+        },
+        {
+          "id": "person--zanone-manoel-de-oliveira-junior",
+          "type": "person",
+          "url": "/demos/pessoas/zanone-manoel-de-oliveira-junior",
+          "title": "Zanone Manoel de Oliveira Júnior"
+        }
+      ]
+    },
+    {
+      "id": "q--case--atentado-contra-jair-bolsonaro--002",
+      "state": "em-apuracao",
+      "question": "o caso foi instrumentalizado politicamente (por múltiplos atores) e isso influenciou percepção pública e prioridades de apuração?",
+      "hypothesis": "houve instrumentalização política relevante que influenciou percepção pública e prioridades de apuração.",
+      "counterHypothesis": "a percepção pública mudou principalmente por dinâmica eleitoral e mídia, sem evidência pública de influência material sobre atos investigativos/judiciais.",
+      "nextSteps": "cronologia de declarações públicas vs atos processuais; evidência de pressão institucional; decisões com justificativas verificáveis; comparação com protocolos e casos análogos.",
+      "container": {
+        "id": "case--atentado-contra-jair-bolsonaro",
+        "type": "case",
+        "url": "/demos/casos/atentado-contra-jair-bolsonaro",
+        "title": "Atentado contra Jair Bolsonaro"
+      },
+      "advancingNotes": [
+        {
+          "url": "/demos/pessoas/jair-messias-bolsonaro",
+          "id": "person--jair-messias-bolsonaro",
+          "type": "person",
+          "title": "Jair Messias Bolsonaro"
+        }
+      ],
+      "targetedBy": [
+        {
+          "id": "person--jair-messias-bolsonaro",
+          "type": "person",
+          "url": "/demos/pessoas/jair-messias-bolsonaro",
+          "title": "Jair Messias Bolsonaro"
+        }
+      ]
+    },
+    {
+      "id": "q--case--caso-banco-master--001",
+      "state": "em-apuracao",
+      "question": "quais foram os fundamentos técnicos e jurídicos centrais para a decisão do BC de decretar a liquidação extrajudicial (e qual a documentação pública disponível)?",
+      "hypothesis": "havia crise de liquidez e/ou violações graves com evidência suficiente para justificar a medida nos termos do regime aplicável.",
+      "counterHypothesis": "a medida foi desproporcional ou inadequadamente fundamentada, e parte dos elementos determinantes permanece opaca para auditoria pública.",
+      "nextSteps": "localizar atos e notas técnicas públicas; mapear decisões citadas nas reportagens; acompanhar deliberações do TCU e respostas do BC.",
+      "container": {
+        "id": "case--caso-banco-master",
+        "type": "case",
+        "url": "/demos/casos/caso-banco-master",
+        "title": "Caso Banco Master"
+      },
+      "advancingNotes": [
+        {
+          "url": "/demos/organizacoes/banco-master",
+          "id": "org--banco-master",
+          "type": "org",
+          "title": "Banco Master"
+        }
+      ],
+      "targetedBy": [
+        {
+          "id": "org--banco-master",
+          "type": "org",
+          "url": "/demos/organizacoes/banco-master",
+          "title": "Banco Master"
+        }
+      ]
+    },
+    {
+      "id": "q--case--caso-banco-master--002",
+      "state": "em-apuracao",
+      "question": "qual é o mecanismo descrito nas investigações (títulos/carteiras/consignado) e quais evidências públicas sustentam a hipótese de fraude?",
+      "hypothesis": "existiu um esquema estruturado com documentação e trilhas financeiras verificáveis (carteiras falsas, ativos inflados, cadeia de transações).",
+      "counterHypothesis": "irregularidades existem, mas o mecanismo e a extensão alegada não se sustentam integralmente com as evidências disponíveis publicamente.",
+      "nextSteps": "acompanhar denúncias/peças públicas; coletar decisões, relatórios e perícias; mapear atores e operações citadas nominalmente nas fontes.",
+      "container": {
+        "id": "case--caso-banco-master",
+        "type": "case",
+        "url": "/demos/casos/caso-banco-master",
+        "title": "Caso Banco Master"
+      },
+      "advancingNotes": [
+        {
+          "url": "/demos/organizacoes/banco-master",
+          "id": "org--banco-master",
+          "type": "org",
+          "title": "Banco Master"
+        },
+        {
+          "url": "/demos/pessoas/daniel-vorcaro",
+          "id": "person--daniel-vorcaro",
+          "type": "person",
+          "title": "Daniel Bueno Vorcaro"
+        }
+      ],
+      "targetedBy": [
+        {
+          "id": "org--banco-master",
+          "type": "org",
+          "url": "/demos/organizacoes/banco-master",
+          "title": "Banco Master"
+        },
+        {
+          "id": "person--daniel-vorcaro",
+          "type": "person",
+          "url": "/demos/pessoas/daniel-vorcaro",
+          "title": "Daniel Bueno Vorcaro"
+        }
+      ]
+    },
+    {
+      "id": "q--case--caso-banco-master--003",
+      "state": "em-apuracao",
+      "question": "quais interações documentadas com agentes do poder público (Executivo/Legislativo/Judiciário/órgãos de controle) ocorreram e qual sua relevância para o caso?",
+      "hypothesis": "houve tentativa relevante de influência institucional (lobby/pressão) com registros verificáveis e impacto nas decisões.",
+      "counterHypothesis": "interações ocorreram, mas são compatíveis com advocacy/lobby dentro das regras ou não tiveram impacto decisório demonstrável.",
+      "nextSteps": "coletar fontes primárias (agendas, registros, decisões, contratos e comunicações publicizadas); separar o que é “segundo reportagem” do que é documento.",
+      "container": {
+        "id": "case--caso-banco-master",
+        "type": "case",
+        "url": "/demos/casos/caso-banco-master",
+        "title": "Caso Banco Master"
+      },
+      "advancingNotes": [
+        {
+          "url": "/demos/organizacoes/banco-master",
+          "id": "org--banco-master",
+          "type": "org",
+          "title": "Banco Master"
+        },
+        {
+          "url": "/demos/pessoas/daniel-vorcaro",
+          "id": "person--daniel-vorcaro",
+          "type": "person",
+          "title": "Daniel Bueno Vorcaro"
+        },
+        {
+          "url": "/demos/pessoas/guido-mantega",
+          "id": "person--guido-mantega",
+          "type": "person",
+          "title": "Guido Mantega"
+        },
+        {
+          "url": "/demos/pessoas/henrique-meirelles",
+          "id": "person--henrique-meirelles",
+          "type": "person",
+          "title": "Henrique Meirelles"
+        },
+        {
+          "url": "/demos/pessoas/jaques-wagner",
+          "id": "person--jaques-wagner",
+          "type": "person",
+          "title": "Jaques Wagner"
+        },
+        {
+          "url": "/demos/pessoas/paulo-gonet-branco",
+          "id": "person--paulo-gonet-branco",
+          "type": "person",
+          "title": "Paulo Gonet Branco"
+        },
+        {
+          "url": "/demos/pessoas/ricardo-lewandowski",
+          "id": "person--ricardo-lewandowski",
+          "type": "person",
+          "title": "Ricardo Lewandowski"
+        },
+        {
+          "url": "/demos/pessoas/rui-costa",
+          "id": "person--rui-costa",
+          "type": "person",
+          "title": "Rui Costa"
+        },
+        {
+          "url": "/demos/pessoas/viviane-barci-de-moraes",
+          "id": "person--viviane-barci-de-moraes",
+          "type": "person",
+          "title": "Viviane Barci de Moraes"
+        }
+      ],
+      "targetedBy": [
+        {
+          "id": "org--banco-master",
+          "type": "org",
+          "url": "/demos/organizacoes/banco-master",
+          "title": "Banco Master"
+        },
+        {
+          "id": "person--daniel-vorcaro",
+          "type": "person",
+          "url": "/demos/pessoas/daniel-vorcaro",
+          "title": "Daniel Bueno Vorcaro"
+        },
+        {
+          "id": "person--guido-mantega",
+          "type": "person",
+          "url": "/demos/pessoas/guido-mantega",
+          "title": "Guido Mantega"
+        },
+        {
+          "id": "person--henrique-meirelles",
+          "type": "person",
+          "url": "/demos/pessoas/henrique-meirelles",
+          "title": "Henrique Meirelles"
+        },
+        {
+          "id": "person--jaques-wagner",
+          "type": "person",
+          "url": "/demos/pessoas/jaques-wagner",
+          "title": "Jaques Wagner"
+        },
+        {
+          "id": "person--paulo-gonet-branco",
+          "type": "person",
+          "url": "/demos/pessoas/paulo-gonet-branco",
+          "title": "Paulo Gonet Branco"
+        },
+        {
+          "id": "person--ricardo-lewandowski",
+          "type": "person",
+          "url": "/demos/pessoas/ricardo-lewandowski",
+          "title": "Ricardo Lewandowski"
+        },
+        {
+          "id": "person--rui-costa",
+          "type": "person",
+          "url": "/demos/pessoas/rui-costa",
+          "title": "Rui Costa"
+        },
+        {
+          "id": "person--viviane-barci-de-moraes",
+          "type": "person",
+          "url": "/demos/pessoas/viviane-barci-de-moraes",
+          "title": "Viviane Barci de Moraes"
+        }
+      ]
+    },
+    {
+      "id": "q--case--cpmi-do-inss--001",
+      "state": "em-apuracao",
+      "question": "quais requerimentos, oitivas, documentos recebidos e relatórios da CPMI do INSS estão publicamente acessíveis, e como eles se conectam a peças/decisões públicas da investigação (PF/CGU)?",
+      "hypothesis": "existe documentação pública suficiente (atas, requerimentos e transcrições) para mapear, com rastreabilidade, o que foi alegado e quais foram os encaminhamentos formais da CPMI.",
+      "counterHypothesis": "parte relevante permanece sem publicização (ou em formatos difíceis de auditar), e a CPMI gera mais sinal político do que evidência documental rastreável.",
+      "nextSteps": "inventariar (com IDs) reuniões, requerimentos, documentos e notas taquigráficas via Dados Abertos; registrar o que é público vs. não publicado; cruzar peças parlamentares com peças/decisões públicas da investigação (PF/CGU).",
+      "container": {
+        "id": "case--cpmi-do-inss",
+        "type": "case",
+        "url": "/demos/casos/cpmi-do-inss",
+        "title": "CPMI do INSS"
+      },
+      "advancingNotes": [
+        {
+          "url": "/demos/casos/operacao-sem-desconto",
+          "id": "case--operacao-sem-desconto",
+          "type": "case",
+          "title": "Operação Sem Desconto (PF/CGU)"
+        }
+      ],
+      "targetedBy": [
+        {
+          "id": "case--operacao-sem-desconto",
+          "type": "case",
+          "url": "/demos/casos/operacao-sem-desconto",
+          "title": "Operação Sem Desconto (PF/CGU)"
+        }
+      ]
+    },
+    {
+      "id": "q--case--operacao-lava-jato--001",
+      "state": "em-apuracao",
+      "question": "houve influência indevida (política, econômica, institucional) na condução, seleção de alvos, timing e/ou decisões relacionadas a casos ligados a [Lula](/demos/pessoas/luiz-inacio-lula-da-silva)?",
+      "hypothesis": "houve influência indevida que afetou condução, seleção de alvos, timing e/ou decisões em casos ligados a [Lula](/demos/pessoas/luiz-inacio-lula-da-silva).",
+      "counterHypothesis": "as reviravoltas decorrem principalmente de fundamentos jurídicos (competência, devido processo, nulidades) e mudanças jurisprudenciais, sem necessidade de postular uma “rede de manipulação”.",
+      "nextSteps": "decisões, votos e fundamentos; cronologia completa; mensagens/relatórios públicos; mudanças de jurisprudência e seus motivos; comparação com casos análogos; padrões decisórios no STF/TRF; evidências diretas (ou ausência delas) de interferência.",
+      "container": {
+        "id": "case--operacao-lava-jato",
+        "type": "case",
+        "url": "/demos/casos/operacao-lava-jato",
+        "title": "Operação Lava Jato"
+      },
+      "advancingNotes": [
+        {
+          "url": "/demos/casos/sede-do-instituto-lula",
+          "id": "case--sede-do-instituto-lula",
+          "type": "case",
+          "title": "Sede do Instituto Lula"
+        },
+        {
+          "url": "/demos/casos/sitio-de-atibaia",
+          "id": "case--sitio-de-atibaia",
+          "type": "case",
+          "title": "Sítio de Atibaia"
+        },
+        {
+          "url": "/demos/pessoas/sergio-fernando-moro",
+          "id": "person--sergio-fernando-moro",
+          "type": "person",
+          "title": "Sergio Fernando Moro"
+        }
+      ],
+      "targetedBy": [
+        {
+          "id": "case--sede-do-instituto-lula",
+          "type": "case",
+          "url": "/demos/casos/sede-do-instituto-lula",
+          "title": "Sede do Instituto Lula"
+        },
+        {
+          "id": "case--sitio-de-atibaia",
+          "type": "case",
+          "url": "/demos/casos/sitio-de-atibaia",
+          "title": "Sítio de Atibaia"
+        },
+        {
+          "id": "person--sergio-fernando-moro",
+          "type": "person",
+          "url": "/demos/pessoas/sergio-fernando-moro",
+          "title": "Sergio Fernando Moro"
+        }
+      ]
+    },
+    {
+      "id": "q--case--operacao-spoofing--001",
+      "state": "em-apuracao",
+      "question": "o material apreendido na Spoofing é tecnicamente auditável (integridade, hashes, logs, método de extração) a ponto de sustentar inferências institucionais amplas?",
+      "hypothesis": "é auditável de forma suficientemente robusta para sustentar inferências institucionais amplas.",
+      "counterHypothesis": "a auditabilidade pública disponível é insuficiente (ou limitada por lacunas de cadeia de custódia) para sustentar inferências amplas sem ressalvas.",
+      "nextSteps": "laudos integrais; cadeia de custódia; reprodutibilidade da extração; comparação com registros de servidor/dispositivo; auditorias independentes.",
+      "container": {
+        "id": "case--operacao-spoofing",
+        "type": "case",
+        "url": "/demos/casos/operacao-spoofing",
+        "title": "Operação Spoofing"
+      },
+      "advancingNotes": [
+        {
+          "url": "/demos/pessoas/walter-delgatti-neto",
+          "id": "person--walter-delgatti-neto",
+          "type": "person",
+          "title": "Walter Delgatti Neto"
+        }
+      ],
+      "targetedBy": [
+        {
+          "id": "person--walter-delgatti-neto",
+          "type": "person",
+          "url": "/demos/pessoas/walter-delgatti-neto",
+          "title": "Walter Delgatti Neto"
+        }
+      ]
+    },
+    {
+      "id": "q--case--operacao-spoofing--002",
+      "state": "em-apuracao",
+      "question": "decisões que citam a Spoofing (ex.: leniências/Lava Jato) usam o material dentro de limites processuais consistentes, ou ampliam indevidamente o alcance de prova/indício?",
+      "hypothesis": "algumas decisões ampliam indevidamente o alcance do material como prova/indício além de limites processuais consistentes.",
+      "counterHypothesis": "mesmo com controvérsia técnica, o material tem valor probatório ao menos para garantir direito de defesa e revelar contradições, sem exigir “perfeita” cadeia de custódia.",
+      "nextSteps": "leitura das decisões integrais e fundamentos; decisões correlatas (STF/STJ); efeitos concretos; comparação com jurisprudência.",
+      "container": {
+        "id": "case--operacao-spoofing",
+        "type": "case",
+        "url": "/demos/casos/operacao-spoofing",
+        "title": "Operação Spoofing"
+      },
+      "advancingNotes": [
+        {
+          "url": "/demos/pessoas/walter-delgatti-neto",
+          "id": "person--walter-delgatti-neto",
+          "type": "person",
+          "title": "Walter Delgatti Neto"
+        }
+      ],
+      "targetedBy": [
+        {
+          "id": "person--walter-delgatti-neto",
+          "type": "person",
+          "url": "/demos/pessoas/walter-delgatti-neto",
+          "title": "Walter Delgatti Neto"
+        }
+      ]
+    },
+    {
+      "id": "q--case--sede-do-instituto-lula--001",
+      "state": "aberta",
+      "question": "qual foi a origem dos recursos e quais contrapartidas foram alegadas na suposta cessão/compra de terreno para a sede do Instituto [Lula](/demos/pessoas/luiz-inacio-lula-da-silva)?",
+      "hypothesis": "a cessão/compra do terreno envolveu recursos ilícitos associados a contratos públicos e foi tratada como vantagem indevida.",
+      "counterHypothesis": "não há evidência robusta de vinculação com corrupção; a operação foi legal ou os indícios são insuficientes.",
+      "nextSteps": "acessar denúncia e decisões integrais; mapear fluxo financeiro e titularidade do imóvel; avaliar laudos/perícias e cadeia de custódia; verificar movimentação no DF após decisões de competência.",
+      "container": {
+        "id": "case--sede-do-instituto-lula",
+        "type": "case",
+        "url": "/demos/casos/sede-do-instituto-lula",
+        "title": "Sede do Instituto Lula"
+      },
+      "advancingNotes": [],
+      "targetedBy": []
+    },
+    {
+      "id": "q--case--sitio-de-atibaia--001",
+      "state": "em-apuracao",
+      "question": "o caso foi afetado por influência indevida (política/institucional) — seja para acelerar, seja para anular/retardar?",
+      "hypothesis": "houve influência indevida que afetou o ritmo e/ou o desfecho (acelerar, anular ou retardar).",
+      "counterHypothesis": "os desfechos decorrem principalmente de fundamentos jurídicos (competência, nulidades, devido processo).",
+      "nextSteps": "coletar decisões integrais, votos e fundamentos; mapear cronologia completa; comparar com casos semelhantes.",
+      "container": {
+        "id": "case--sitio-de-atibaia",
+        "type": "case",
+        "url": "/demos/casos/sitio-de-atibaia",
+        "title": "Sítio de Atibaia"
+      },
+      "advancingNotes": [
+        {
+          "url": "/demos/pessoas/luiz-edson-fachin",
+          "id": "person--luiz-edson-fachin",
+          "type": "person",
+          "title": "Luiz Edson Fachin"
+        }
+      ],
+      "targetedBy": [
+        {
+          "id": "person--luiz-edson-fachin",
+          "type": "person",
+          "url": "/demos/pessoas/luiz-edson-fachin",
+          "title": "Luiz Edson Fachin"
+        }
+      ]
+    },
+    {
+      "id": "q--case--triplex-do-guaruja--001",
+      "state": "em-apuracao",
+      "question": "houve influência indevida (política/institucional) que afetou decisões-chave do caso (condenação, recursos, nulidades, suspeição)?",
+      "hypothesis": "houve influência indevida que afetou decisões-chave do caso.",
+      "counterHypothesis": "os desfechos decorrem de fundamentos jurídicos (competência, nulidades, devido processo) e não exigem postular interferência externa.",
+      "nextSteps": "mapear e linkar votos/decisões integrais, datas e fundamentos; comparar com casos análogos; registrar mudanças de jurisprudência e impactos.",
+      "container": {
+        "id": "case--triplex-do-guaruja",
+        "type": "case",
+        "url": "/demos/casos/triplex-do-guaruja",
+        "title": "Tríplex do Guarujá"
+      },
+      "advancingNotes": [
+        {
+          "url": "/demos/pessoas/luiz-edson-fachin",
+          "id": "person--luiz-edson-fachin",
+          "type": "person",
+          "title": "Luiz Edson Fachin"
+        },
+        {
+          "url": "/demos/pessoas/sergio-fernando-moro",
+          "id": "person--sergio-fernando-moro",
+          "type": "person",
+          "title": "Sergio Fernando Moro"
+        }
+      ],
+      "targetedBy": [
+        {
+          "id": "person--luiz-edson-fachin",
+          "type": "person",
+          "url": "/demos/pessoas/luiz-edson-fachin",
+          "title": "Luiz Edson Fachin"
+        },
+        {
+          "id": "person--sergio-fernando-moro",
+          "type": "person",
+          "url": "/demos/pessoas/sergio-fernando-moro",
+          "title": "Sergio Fernando Moro"
+        }
+      ]
+    },
+    {
+      "id": "q--org--banco-master--001",
+      "state": "em-apuracao",
+      "question": "qual era a estrutura societária/grupo econômico e quais ativos e operações eram centrais (CDBs, consignado, carteiras) segundo documentação verificável?",
+      "hypothesis": "uma estrutura de grupo e governança permitiu ampliar captação/risco com transparência insuficiente para o público e para contrapartes.",
+      "counterHypothesis": "a estrutura e os ativos eram compatíveis com práticas de mercado/regulação, e as aparentes lacunas decorrem de assimetria de informação e da natureza do processo de liquidação/investigação.",
+      "nextSteps": "auditar atos do BC citados em comunicados; mapear estrutura do grupo (entidades, CNPJs e vínculos); buscar demonstrações financeiras/relatórios públicos; coletar decisões que descrevam carteiras/fluxos; cruzar com explicadores técnicos publicados por veículos e órgãos (sem extrapolar).",
+      "container": {
+        "id": "org--banco-master",
+        "type": "org",
+        "url": "/demos/organizacoes/banco-master",
+        "title": "Banco Master"
+      },
+      "advancingNotes": [
+        {
+          "url": "/demos/organizacoes/banco-letsbank",
+          "id": "org--banco-letsbank",
+          "type": "org",
+          "title": "Banco Letsbank"
+        },
+        {
+          "url": "/demos/organizacoes/banco-master-de-investimento",
+          "id": "org--banco-master-de-investimento",
+          "type": "org",
+          "title": "Banco Master de Investimento"
+        }
+      ],
+      "targetedBy": [
+        {
+          "id": "org--banco-letsbank",
+          "type": "org",
+          "url": "/demos/organizacoes/banco-letsbank",
+          "title": "Banco Letsbank"
+        },
+        {
+          "id": "org--banco-master-de-investimento",
+          "type": "org",
+          "url": "/demos/organizacoes/banco-master-de-investimento",
+          "title": "Banco Master de Investimento"
+        }
+      ]
+    },
+    {
+      "id": "q--person--adelio-bispo-de-oliveira--001",
+      "state": "em-apuracao",
+      "question": "existiu mandante, financiamento ou suporte logístico não identificado no inquérito?",
+      "hypothesis": "existiu mandante/financiamento/suporte logístico que não foi identificado (ou não foi incorporado) na conclusão oficial.",
+      "counterHypothesis": "os fatos e decisões disponíveis sustentam de forma suficiente a tese de ação individual, sem evidência verificável de mandante.",
+      "nextSteps": "leitura integral do relatório final e anexos; evidência documental de fluxos financeiros/comunicação; reconstituição auditável de diligências e decisões; confronto com conclusões oficiais.",
+      "container": {
+        "id": "person--adelio-bispo-de-oliveira",
+        "type": "person",
+        "url": "/demos/pessoas/adelio-bispo-de-oliveira",
+        "title": "Adélio Bispo de Oliveira"
+      },
+      "advancingNotes": [
+        {
+          "url": "/demos/casos/atentado-contra-jair-bolsonaro",
+          "id": "case--atentado-contra-jair-bolsonaro",
+          "type": "case",
+          "title": "Atentado contra Jair Bolsonaro"
+        },
+        {
+          "url": "/demos/pessoas/rodrigo-morais-fernandes",
+          "id": "person--rodrigo-morais-fernandes",
+          "type": "person",
+          "title": "Rodrigo Morais Fernandes"
+        },
+        {
+          "url": "/demos/pessoas/zanone-manoel-de-oliveira-junior",
+          "id": "person--zanone-manoel-de-oliveira-junior",
+          "type": "person",
+          "title": "Zanone Manoel de Oliveira Júnior"
+        }
+      ],
+      "targetedBy": [
+        {
+          "id": "case--atentado-contra-jair-bolsonaro",
+          "type": "case",
+          "url": "/demos/casos/atentado-contra-jair-bolsonaro",
+          "title": "Atentado contra Jair Bolsonaro"
+        },
+        {
+          "id": "person--rodrigo-morais-fernandes",
+          "type": "person",
+          "url": "/demos/pessoas/rodrigo-morais-fernandes",
+          "title": "Rodrigo Morais Fernandes"
+        },
+        {
+          "id": "person--zanone-manoel-de-oliveira-junior",
+          "type": "person",
+          "url": "/demos/pessoas/zanone-manoel-de-oliveira-junior",
+          "title": "Zanone Manoel de Oliveira Júnior"
+        }
+      ]
+    },
+    {
+      "id": "q--person--adelio-bispo-de-oliveira--002",
+      "state": "em-apuracao",
+      "question": "houve falhas institucionais (antes/durante/depois) que distorceram a apuração (por pressão política, desinformação ou limitações técnicas)?",
+      "hypothesis": "houve falhas institucionais que distorceram a apuração (por pressão política, desinformação ou limitações técnicas).",
+      "counterHypothesis": "as limitações e decisões investigativas explicam-se por capacidade técnica e devido processo, sem evidência pública de distorção deliberada.",
+      "nextSteps": "cadeia de custódia; registro de diligências; consistência entre laudos/relatos e decisões judiciais; transparência metodológica; comparação com protocolos e casos análogos.",
+      "container": {
+        "id": "person--adelio-bispo-de-oliveira",
+        "type": "person",
+        "url": "/demos/pessoas/adelio-bispo-de-oliveira",
+        "title": "Adélio Bispo de Oliveira"
+      },
+      "advancingNotes": [
+        {
+          "url": "/demos/casos/atentado-contra-jair-bolsonaro",
+          "id": "case--atentado-contra-jair-bolsonaro",
+          "type": "case",
+          "title": "Atentado contra Jair Bolsonaro"
+        }
+      ],
+      "targetedBy": [
+        {
+          "id": "case--atentado-contra-jair-bolsonaro",
+          "type": "case",
+          "url": "/demos/casos/atentado-contra-jair-bolsonaro",
+          "title": "Atentado contra Jair Bolsonaro"
+        }
+      ]
+    },
+    {
+      "id": "q--person--alexandre-de-moraes--001",
+      "state": "aberta",
+      "question": "as decisões mais citadas no pós‑8/1 (ex.: afastamentos e medidas cautelares) têm íntegra acessível e permitem auditoria pública de fundamentos, provas e proporcionalidade?",
+      "hypothesis": "há documentação pública suficiente (decisões/votos/acórdãos) para auditar fundamentos e requisitos legais, reduzindo “guerra de narrativas”.",
+      "counterHypothesis": "parte relevante permanece inacessível ou excessivamente dependente de fontes secundárias, o que dificulta auditoria pública e amplia especulações.",
+      "nextSteps": "localizar decisões integrais e votos; mapear o que é sigiloso e o que é público; registrar trechos relevantes com referência precisa.",
+      "container": {
+        "id": "person--alexandre-de-moraes",
+        "type": "person",
+        "url": "/demos/pessoas/alexandre-de-moraes",
+        "title": "Alexandre de Moraes"
+      },
+      "advancingNotes": [],
+      "targetedBy": []
+    },
+    {
+      "id": "q--person--alexandre-de-moraes--002",
+      "state": "aberta",
+      "question": "quais foram, exatamente, as alegações e o escopo do pedido de investigação arquivado pela PGR no contexto do caso [Master](/demos/organizacoes/banco-master), e qual documentação sustenta o arquivamento?",
+      "hypothesis": "o arquivamento se sustenta em ausência de lastro probatório mínimo, conforme descrito pela PGR na matéria, e a documentação (despacho/representação) permite auditoria do escopo.",
+      "counterHypothesis": "há informação relevante não publicizada, e o debate público segue baseado em reportagens e interpretações sem documentação acessível.",
+      "nextSteps": "buscar despacho integral e anexos; mapear fontes primárias disponíveis; acompanhar eventuais desdobramentos em órgãos de controle.",
+      "container": {
+        "id": "person--alexandre-de-moraes",
+        "type": "person",
+        "url": "/demos/pessoas/alexandre-de-moraes",
+        "title": "Alexandre de Moraes"
+      },
+      "advancingNotes": [],
+      "targetedBy": []
+    },
+    {
+      "id": "q--person--andrei-augusto-passos-rodrigues--001",
+      "state": "aberta",
+      "question": "quais documentos oficiais (portaria/nomeação/posse) definem o período e atribuições do cargo de diretor-geral da PF ocupado por Andrei Rodrigues?",
+      "hypothesis": "há documentação pública suficiente para registrar datas e atribuições sem depender de fontes secundárias.",
+      "counterHypothesis": "a documentação é dispersa ou não facilmente acessível, limitando verificação independente.",
+      "nextSteps": "localizar atos no Diário Oficial e/ou páginas oficiais de transparência; registrar URLs e datas de acesso.",
+      "container": {
+        "id": "person--andrei-augusto-passos-rodrigues",
+        "type": "person",
+        "url": "/demos/pessoas/andrei-augusto-passos-rodrigues",
+        "title": "Andrei Augusto Passos Rodrigues"
+      },
+      "advancingNotes": [],
+      "targetedBy": []
+    },
+    {
+      "id": "q--person--antonio-carlos-camilo-antunes--001",
+      "state": "em-apuracao",
+      "question": "quais documentos públicos (decisões, relatórios, peças e movimentações) descrevem o papel atribuído a Antunes na Operação Sem Desconto e qual é o status formal atual (prisão, medidas cautelares, denúncias, decisões)?",
+      "hypothesis": "há documentação pública suficiente para registrar, com rastreabilidade, o que foi imputado e o que foi decidido.",
+      "counterHypothesis": "a maior parte do caso permanece sob sigilo ou com documentação insuficiente; só existe cobertura jornalística, sem base documental acessível para auditoria independente.",
+      "nextSteps": "localizar notas oficiais da PF/CGU; identificar processos e decisões citados em reportagens; registrar o que é público vs. sigiloso; adicionar cronologia de medidas e decisões com links integrais.",
+      "container": {
+        "id": "person--antonio-carlos-camilo-antunes",
+        "type": "person",
+        "url": "/demos/pessoas/antonio-carlos-camilo-antunes",
+        "title": "Antônio Carlos Camilo Antunes"
+      },
+      "advancingNotes": [
+        {
+          "url": "/demos/casos/cpmi-do-inss",
+          "id": "case--cpmi-do-inss",
+          "type": "case",
+          "title": "CPMI do INSS"
+        },
+        {
+          "url": "/demos/casos/operacao-sem-desconto",
+          "id": "case--operacao-sem-desconto",
+          "type": "case",
+          "title": "Operação Sem Desconto (PF/CGU)"
+        }
+      ],
+      "targetedBy": [
+        {
+          "id": "case--cpmi-do-inss",
+          "type": "case",
+          "url": "/demos/casos/cpmi-do-inss",
+          "title": "CPMI do INSS"
+        },
+        {
+          "id": "case--operacao-sem-desconto",
+          "type": "case",
+          "url": "/demos/casos/operacao-sem-desconto",
+          "title": "Operação Sem Desconto (PF/CGU)"
+        }
+      ]
+    },
+    {
+      "id": "q--person--carla-zambelli-salgado-de-oliveira--001",
+      "state": "aberta",
+      "question": "no caso CNJ, houve rede de apoio (financeira, política, operacional) maior do que a narrativa pública consolidada até aqui indica — e parte relevante ainda não foi mapeada publicamente?",
+      "hypothesis": "houve rede de apoio maior do que a narrativa pública consolidada até aqui indica, com lacunas relevantes ainda não mapeadas publicamente.",
+      "counterHypothesis": "os autos e a prova material do caso CNJ explicam suficientemente os fatos e a cadeia de comando, sem exigir postular uma rede oculta maior.",
+      "nextSteps": "peças integrais e anexos; perícias e logs; rastros financeiros; depoimentos formais; cadeia de custódia; coerência entre depoimentos e evidências materiais.",
+      "container": {
+        "id": "person--carla-zambelli-salgado-de-oliveira",
+        "type": "person",
+        "url": "/demos/pessoas/carla-zambelli-salgado-de-oliveira",
+        "title": "Carla Zambelli Salgado de Oliveira"
+      },
+      "advancingNotes": [],
+      "targetedBy": []
+    },
+    {
+      "id": "q--person--carla-zambelli-salgado-de-oliveira--002",
+      "state": "aberta",
+      "question": "a rota de saída do Brasil e a permanência/custódia na Itália envolvem (i) uso de cidadania e (ii) apoio logístico de terceiros?",
+      "hypothesis": "a rota e a permanência/custódia envolveram apoio logístico relevante de terceiros (além de fatores legais como cidadania).",
+      "counterHypothesis": "a saída/permanência pode ser explicada por decisões legais e escolhas individuais (incluindo cidadania), sem evidência pública de apoio logístico relevante de terceiros.",
+      "nextSteps": "decisões e pedidos de cooperação; registros públicos de imigração (quando/onde existirem); documentos de defesa; dados de autoridades italianas; cronologia detalhada e auditável.",
+      "container": {
+        "id": "person--carla-zambelli-salgado-de-oliveira",
+        "type": "person",
+        "url": "/demos/pessoas/carla-zambelli-salgado-de-oliveira",
+        "title": "Carla Zambelli Salgado de Oliveira"
+      },
+      "advancingNotes": [],
+      "targetedBy": []
+    },
+    {
+      "id": "q--person--daniel-vorcaro--001",
+      "state": "aberta",
+      "question": "quais crimes/imputações foram formalmente atribuídos a Vorcaro (se houver denúncia) e qual o status processual atual (investigado, denunciado, réu, condenado)?",
+      "hypothesis": "as imputações formais e o status processual (quando consolidados) coincidem, em linhas gerais, com os mecanismos descritos em reportagens.",
+      "counterHypothesis": "parte relevante das descrições públicas não se sustenta quando comparada com peças/decisões e evidência material; ou o enquadramento jurídico é diferente do sugerido em manchetes.",
+      "nextSteps": "coletar decisões integrais e movimentação processual; buscar denúncias e relatórios públicos; mapear quais trechos são “segundo investigadores” vs. documentos.",
+      "container": {
+        "id": "person--daniel-vorcaro",
+        "type": "person",
+        "url": "/demos/pessoas/daniel-vorcaro",
+        "title": "Daniel Bueno Vorcaro"
+      },
+      "advancingNotes": [],
+      "targetedBy": []
+    },
+    {
+      "id": "q--person--daniel-vorcaro--002",
+      "state": "aberta",
+      "question": "quais interações documentadas com agentes públicos (Executivo/Legislativo/Judiciário/órgãos de controle) são verificáveis e qual o peso delas no caso?",
+      "hypothesis": "existe evidência pública/documental de interações relevantes que ajudam a explicar decisões e “timing” (ex.: tentativas de compra/apoios/pressões).",
+      "counterHypothesis": "há ruído político e inferências, mas pouca evidência verificável de influência decisória; interações existiram dentro de rotinas institucionais.",
+      "nextSteps": "identificar agendas públicas, registros de reuniões (quando disponíveis), decisões e documentos citados; separar acusações de evidência.",
+      "container": {
+        "id": "person--daniel-vorcaro",
+        "type": "person",
+        "url": "/demos/pessoas/daniel-vorcaro",
+        "title": "Daniel Bueno Vorcaro"
+      },
+      "advancingNotes": [],
+      "targetedBy": []
+    },
+    {
+      "id": "q--person--fabio-luis-lula-da-silva--001",
+      "state": "em-apuracao",
+      "question": "quais documentos públicos (depoimentos, relatórios, peças/decisões) sustentam ou refutam as acusações citadas em reportagens no contexto da CPMI do INSS, e qual é o status atual (investigação formal, arquivamento, inexistência de procedimento, etc.)?",
+      "hypothesis": "há documentação pública suficiente para auditar o que foi alegado e registrar o desfecho com rastreabilidade.",
+      "counterHypothesis": "as alegações não se sustentam ou não há documentação pública acessível para verificação independente; o tema permanece como disputa narrativa sem evidência verificável.",
+      "nextSteps": "localizar documentos oficiais citados pela reportagem (CPMI/PF) e registrar o que é público vs. sigiloso; identificar e registrar respostas/negações verificáveis; evitar extrapolar além do que estiver documentado.",
+      "container": {
+        "id": "person--fabio-luis-lula-da-silva",
+        "type": "person",
+        "url": "/demos/pessoas/fabio-luis-lula-da-silva",
+        "title": "Fábio Luís Lula da Silva"
+      },
+      "advancingNotes": [
+        {
+          "url": "/demos/casos/cpmi-do-inss",
+          "id": "case--cpmi-do-inss",
+          "type": "case",
+          "title": "CPMI do INSS"
+        },
+        {
+          "url": "/demos/pessoas/antonio-carlos-camilo-antunes",
+          "id": "person--antonio-carlos-camilo-antunes",
+          "type": "person",
+          "title": "Antônio Carlos Camilo Antunes"
+        }
+      ],
+      "targetedBy": [
+        {
+          "id": "case--cpmi-do-inss",
+          "type": "case",
+          "url": "/demos/casos/cpmi-do-inss",
+          "title": "CPMI do INSS"
+        },
+        {
+          "id": "person--antonio-carlos-camilo-antunes",
+          "type": "person",
+          "url": "/demos/pessoas/antonio-carlos-camilo-antunes",
+          "title": "Antônio Carlos Camilo Antunes"
+        }
+      ]
+    },
+    {
+      "id": "q--person--flavio-dino--001",
+      "state": "aberta",
+      "question": "quais imagens existiam, por quanto tempo eram armazenadas, quais foram preservadas e entregues (e a quem), e qual documentação pública comprova a cadeia de custódia?",
+      "hypothesis": "há lacunas documentais e/ou decisões administrativas que dificultam auditoria pública do conjunto completo de imagens.",
+      "counterHypothesis": "as imagens relevantes foram preservadas e entregues às autoridades competentes (PF/inquéritos), e o restante expirou por regras contratuais; a documentação existe e é verificável.",
+      "nextSteps": "localizar ofícios e anexos enviados à CPMI; identificar contratos e termos citados; mapear registros de apreensão/perícia pela PF; buscar decisões judiciais que descrevam os conjuntos de imagens.",
+      "container": {
+        "id": "person--flavio-dino",
+        "type": "person",
+        "url": "/demos/pessoas/flavio-dino",
+        "title": "Flávio Dino"
+      },
+      "advancingNotes": [],
+      "targetedBy": []
+    },
+    {
+      "id": "q--person--guido-mantega--001",
+      "state": "aberta",
+      "question": "qual foi o escopo, período e natureza do vínculo de consultoria citado em reportagem (contrato, temas, remuneração, encerramento)?",
+      "hypothesis": "os termos do vínculo são verificáveis e ajudam a entender o papel de consultores e conexões políticas no caso.",
+      "counterHypothesis": "o papel foi limitado/pontual e não há evidência verificável de impacto em decisões públicas (BC/TCU/STF).",
+      "nextSteps": "buscar documentação pública e declarações formais; mapear agendas e registros de encontros.",
+      "container": {
+        "id": "person--guido-mantega",
+        "type": "person",
+        "url": "/demos/pessoas/guido-mantega",
+        "title": "Guido Mantega"
+      },
+      "advancingNotes": [],
+      "targetedBy": []
+    },
+    {
+      "id": "q--person--guido-mantega--002",
+      "state": "aberta",
+      "question": "há registro documental público do encontro citado em reportagem (data, participantes, pauta), e qual seu contexto verificável?",
+      "hypothesis": "existe registro público suficiente (agenda oficial, foto, comunicado, ata, declaração) que permite auditar o encontro.",
+      "counterHypothesis": "o encontro não ocorreu como descrito ou não há registro público verificável; a menção é indireta e insuficiente para inferir influência.",
+      "nextSteps": "buscar agendas oficiais e notícias de fontes independentes; cruzar com registros do governo e declarações de participantes.",
+      "container": {
+        "id": "person--guido-mantega",
+        "type": "person",
+        "url": "/demos/pessoas/guido-mantega",
+        "title": "Guido Mantega"
+      },
+      "advancingNotes": [],
+      "targetedBy": []
+    },
+    {
+      "id": "q--person--henrique-meirelles--001",
+      "state": "aberta",
+      "question": "qual foi o escopo, período e natureza do vínculo de consultoria citado em reportagem (contrato, temas, remuneração, encerramento)?",
+      "hypothesis": "o vínculo existiu e seus termos podem ser verificados, permitindo avaliar relevância para o caso e eventuais pontos de conflito.",
+      "counterHypothesis": "o papel foi mais limitado (ex.: consultoria pontual/estratégica sem influência em decisões), e não há impacto verificável sobre atos do BC/TCU/STF.",
+      "nextSteps": "buscar documentação pública, declarações formais e eventuais registros em decisões/peças.",
+      "container": {
+        "id": "person--henrique-meirelles",
+        "type": "person",
+        "url": "/demos/pessoas/henrique-meirelles",
+        "title": "Henrique Meirelles"
+      },
+      "advancingNotes": [],
+      "targetedBy": []
+    },
+    {
+      "id": "q--person--jair-messias-bolsonaro--001",
+      "state": "aberta",
+      "question": "falhas de segurança e resposta institucional ao ataque criaram efeitos políticos relevantes (curto e longo prazo)?",
+      "hypothesis": "falhas de segurança e/ou resposta institucional tiveram efeito político relevante (curto e longo prazo).",
+      "counterHypothesis": "os efeitos políticos decorreram principalmente de dinâmica eleitoral e de campanha, sem evidência pública de que falhas/resposta institucional foram determinantes.",
+      "nextSteps": "cronologia verificável; documentos oficiais; análise comparativa com protocolos e casos análogos.",
+      "container": {
+        "id": "person--jair-messias-bolsonaro",
+        "type": "person",
+        "url": "/demos/pessoas/jair-messias-bolsonaro",
+        "title": "Jair Messias Bolsonaro"
+      },
+      "advancingNotes": [],
+      "targetedBy": []
+    },
+    {
+      "id": "q--person--jair-messias-bolsonaro--002",
+      "state": "em-apuracao",
+      "question": "quais foram os fundamentos e evidências citados para medidas cautelares e decisões de prisão/custódia descritas em reportagens, e como foram debatidos no STF (proporcionalidade, contemporaneidade, individualização)?",
+      "hypothesis": "os fundamentos (risco de fuga, ordem pública, descumprimento/violação de cautelares, etc.) e a prova contemporânea podem ser auditados por decisões/votos, reduzindo ambiguidade.",
+      "counterHypothesis": "a publicização parcial e a dependência de fontes secundárias dificultam auditoria independente, mantendo disputa narrativa sobre proporcionalidade e devido processo.",
+      "nextSteps": "localizar decisões e votos integrais (incluindo divergências); mapear o que é público vs. sigiloso; registrar critérios legais citados.",
+      "container": {
+        "id": "person--jair-messias-bolsonaro",
+        "type": "person",
+        "url": "/demos/pessoas/jair-messias-bolsonaro",
+        "title": "Jair Messias Bolsonaro"
+      },
+      "advancingNotes": [
+        {
+          "url": "/demos/pessoas/luiz-fux",
+          "id": "person--luiz-fux",
+          "type": "person",
+          "title": "Luiz Fux"
+        }
+      ],
+      "targetedBy": [
+        {
+          "id": "person--luiz-fux",
+          "type": "person",
+          "url": "/demos/pessoas/luiz-fux",
+          "title": "Luiz Fux"
+        }
+      ]
+    },
+    {
+      "id": "q--person--jair-messias-bolsonaro--003",
+      "state": "em-apuracao",
+      "question": "quais são as condições de custódia na PF e como pedidos e incidentes de saúde/direitos (atendimento, exames, informação, assistência religiosa) foram tratados, com documentação verificável?",
+      "hypothesis": "há registros verificáveis (decisões, notas oficiais, laudos/relatórios publicizados) que permitem auditar atendimento, incidentes e respostas institucionais.",
+      "counterHypothesis": "há pouca documentação pública e predomina disputa por narrativa (sem evidência suficiente), dificultando avaliação externa.",
+      "nextSteps": "coletar decisões e manifestações oficiais citadas (PF/STF/PGR); consolidar cronologia de pedidos e respostas; evitar extrapolar além do que está documentado.",
+      "container": {
+        "id": "person--jair-messias-bolsonaro",
+        "type": "person",
+        "url": "/demos/pessoas/jair-messias-bolsonaro",
+        "title": "Jair Messias Bolsonaro"
+      },
+      "advancingNotes": [
+        {
+          "url": "/demos/pessoas/andrei-augusto-passos-rodrigues",
+          "id": "person--andrei-augusto-passos-rodrigues",
+          "type": "person",
+          "title": "Andrei Augusto Passos Rodrigues"
+        }
+      ],
+      "targetedBy": [
+        {
+          "id": "person--andrei-augusto-passos-rodrigues",
+          "type": "person",
+          "url": "/demos/pessoas/andrei-augusto-passos-rodrigues",
+          "title": "Andrei Augusto Passos Rodrigues"
+        }
+      ]
+    },
+    {
+      "id": "q--person--jaques-wagner--001",
+      "state": "aberta",
+      "question": "existe documentação pública verificável que conecte Jaques Wagner a operações/contratos/agenda do [Banco Master](/demos/organizacoes/banco-master) (ou de atores centrais citados) no contexto da Bahia?",
+      "hypothesis": "há evidência documental (agendas, registros oficiais, contratos/convênios citados) que sustenta a existência de vínculos relevantes.",
+      "counterHypothesis": "as alegações são majoritariamente políticas, com baixo lastro documental; vínculos (se existirem) são indiretos ou compatíveis com relações institucionais regulares.",
+      "nextSteps": "identificar convênios e contratos citados; procurar agendas e registros oficiais; buscar fontes independentes que citem documentos.",
+      "container": {
+        "id": "person--jaques-wagner",
+        "type": "person",
+        "url": "/demos/pessoas/jaques-wagner",
+        "title": "Jaques Wagner"
+      },
+      "advancingNotes": [],
+      "targetedBy": []
+    },
+    {
+      "id": "q--person--jose-antonio-dias-toffoli--001",
+      "state": "aberta",
+      "question": "como ex-integrante do governo (Casa Civil/AGU) e ex-advogado ligado ao [PT](/demos/organizacoes/partido-dos-trabalhadores-pt), em quais casos Toffoli declarou impedimento/suspeição e em quais não declarou — e qual o padrão justificável por documentos?",
+      "hypothesis": "existe um padrão materialmente relevante (e detectável por documentos) de decisões de impedimento/suspeição que merece auditoria por caso.",
+      "counterHypothesis": "o conjunto de impedimentos/suspeições (ou ausência deles) é consistente com as regras aplicáveis e com prática institucional comparável.",
+      "nextSteps": "levantar lista de processos relevantes; decisões de impedimento; atas; peças de declaração/recusa; e cronologia pública por processo.",
+      "container": {
+        "id": "person--jose-antonio-dias-toffoli",
+        "type": "person",
+        "url": "/demos/pessoas/jose-antonio-dias-toffoli",
+        "title": "José Antonio Dias Toffoli"
+      },
+      "advancingNotes": [],
+      "targetedBy": []
+    },
+    {
+      "id": "q--person--jose-antonio-dias-toffoli--002",
+      "state": "em-apuracao",
+      "question": "decisões sobre acordos de leniência (Odebrecht/Novonor) e sobre materiais da [Operação Spoofing](/demos/casos/operacao-spoofing) têm fundamentos e limites consistentes com a jurisprudência do STF — ou abrem uma janela de impacto sistêmico desproporcional?",
+      "hypothesis": "decisões sobre leniências e/ou sobre o uso do material da Spoofing produzem efeitos sistêmicos desproporcionais em relação aos fundamentos explicitados.",
+      "counterHypothesis": "as decisões refletem principalmente garantias processuais (devido processo, licitude da prova, voluntariedade de acordos) e padrões de nulidade, sem exigir postular “interferência externa”.",
+      "nextSteps": "ler decisão integral, anexos e fundamentos; mapear efeitos em ações penais/cíveis; comparar com decisões análogas e com posicionamentos de outros ministros.",
+      "container": {
+        "id": "person--jose-antonio-dias-toffoli",
+        "type": "person",
+        "url": "/demos/pessoas/jose-antonio-dias-toffoli",
+        "title": "José Antonio Dias Toffoli"
+      },
+      "advancingNotes": [
+        {
+          "url": "/demos/casos/operacao-spoofing",
+          "id": "case--operacao-spoofing",
+          "type": "case",
+          "title": "Operação Spoofing"
+        }
+      ],
+      "targetedBy": [
+        {
+          "id": "case--operacao-spoofing",
+          "type": "case",
+          "url": "/demos/casos/operacao-spoofing",
+          "title": "Operação Spoofing"
+        }
+      ]
+    },
+    {
+      "id": "q--person--luiz-edson-fachin--001",
+      "state": "aberta",
+      "question": "a decisão de 2021 (competência do juízo) seguiu um padrão coerente com a jurisprudência do STF em casos análogos, ou foi um “ponto fora da curva”?",
+      "hypothesis": "a decisão de 2021 foi um “ponto fora da curva” em relação a padrões jurisprudenciais comparáveis.",
+      "counterHypothesis": "a decisão de 2021 segue um padrão coerente com a jurisprudência e com os fundamentos explícitos no voto/decisão.",
+      "nextSteps": "comparação com casos similares; leitura integral do voto/decisão; cronologia processual; votos dos demais ministros.",
+      "container": {
+        "id": "person--luiz-edson-fachin",
+        "type": "person",
+        "url": "/demos/pessoas/luiz-edson-fachin",
+        "title": "Luiz Edson Fachin"
+      },
+      "advancingNotes": [],
+      "targetedBy": []
+    },
+    {
+      "id": "q--person--luiz-edson-fachin--002",
+      "state": "aberta",
+      "question": "existiram pressões/influências externas relevantes para decisões envolvendo [Lula](/demos/pessoas/luiz-inacio-lula-da-silva) (diretas ou indiretas)?",
+      "hypothesis": "existiram pressões/influências externas relevantes (políticas, econômicas, institucionais) para decisões envolvendo [Lula](/demos/pessoas/luiz-inacio-lula-da-silva).",
+      "counterHypothesis": "os desfechos decorrem primariamente de fundamentos jurídicos (competência, devido processo, nulidades) e não exigem postular interferência externa.",
+      "nextSteps": "evidências documentais robustas (não apenas inferência); registros públicos; mudanças de posição com justificativas explícitas; padrões de votação; vínculos documentados.",
+      "container": {
+        "id": "person--luiz-edson-fachin",
+        "type": "person",
+        "url": "/demos/pessoas/luiz-edson-fachin",
+        "title": "Luiz Edson Fachin"
+      },
+      "advancingNotes": [],
+      "targetedBy": []
+    },
+    {
+      "id": "q--person--luiz-fux--001",
+      "state": "aberta",
+      "question": "quais fundamentos e evidências foram citados nos votos (incluindo o de Fux) e como eles se comparam (proporcionalidade, contemporaneidade, individualização)?",
+      "hypothesis": "a divergência é auditável pela leitura dos votos e permite reduzir “guerra de narrativas” sobre o caso.",
+      "counterHypothesis": "há lacunas públicas (sigilo, peças não publicizadas), dificultando auditoria externa do conjunto completo de evidências.",
+      "nextSteps": "localizar votos/decisões integrais; extrair trechos objetivos; cruzar com eventos públicos subsequentes.",
+      "container": {
+        "id": "person--luiz-fux",
+        "type": "person",
+        "url": "/demos/pessoas/luiz-fux",
+        "title": "Luiz Fux"
+      },
+      "advancingNotes": [],
+      "targetedBy": []
+    },
+    {
+      "id": "q--person--luiz-inacio-lula-da-silva--001",
+      "state": "em-apuracao",
+      "question": "redes de influência (políticas, econômicas, institucionais) podem ter afetado o “timing” e os desfechos de processos e decisões envolvendo Lula (condenações, nulidades, suspeição, elegibilidade)?",
+      "hypothesis": "redes de influência podem ter afetado timing e desfechos em momentos-chave (condenações, nulidades, suspeição, elegibilidade).",
+      "counterHypothesis": "os desfechos se explicam principalmente por fundamentos jurídicos (competência, devido processo, nulidades) e mudanças jurisprudenciais, sem evidência suficiente de interferência externa.",
+      "nextSteps": "mapear decisões integrais, votos e fundamentos; cronologia completa; atores (magistrados, MP, defesa, tribunais) e vínculos documentados; comparação com casos análogos.",
+      "container": {
+        "id": "person--luiz-inacio-lula-da-silva",
+        "type": "person",
+        "url": "/demos/pessoas/luiz-inacio-lula-da-silva",
+        "title": "Luiz Inácio Lula da Silva"
+      },
+      "advancingNotes": [
+        {
+          "url": "/demos/casos/operacao-lava-jato",
+          "id": "case--operacao-lava-jato",
+          "type": "case",
+          "title": "Operação Lava Jato"
+        },
+        {
+          "url": "/demos/casos/sede-do-instituto-lula",
+          "id": "case--sede-do-instituto-lula",
+          "type": "case",
+          "title": "Sede do Instituto Lula"
+        },
+        {
+          "url": "/demos/casos/sitio-de-atibaia",
+          "id": "case--sitio-de-atibaia",
+          "type": "case",
+          "title": "Sítio de Atibaia"
+        },
+        {
+          "url": "/demos/casos/triplex-do-guaruja",
+          "id": "case--triplex-do-guaruja",
+          "type": "case",
+          "title": "Tríplex do Guarujá"
+        },
+        {
+          "url": "/demos/organizacoes/central-unica-dos-trabalhadores-cut",
+          "id": "org--central-unica-dos-trabalhadores-cut",
+          "type": "org",
+          "title": "Central Única dos Trabalhadores (CUT)"
+        },
+        {
+          "url": "/demos/organizacoes/partido-dos-trabalhadores-pt",
+          "id": "org--partido-dos-trabalhadores-pt",
+          "type": "org",
+          "title": "Partido dos Trabalhadores (PT)"
+        },
+        {
+          "url": "/demos/organizacoes/sindicato-dos-metalurgicos-do-abc",
+          "id": "org--sindicato-dos-metalurgicos-do-abc",
+          "type": "org",
+          "title": "Sindicato dos Metalúrgicos do ABC"
+        },
+        {
+          "url": "/demos/pessoas/antonio-carlos-camilo-antunes",
+          "id": "person--antonio-carlos-camilo-antunes",
+          "type": "person",
+          "title": "Antônio Carlos Camilo Antunes"
+        },
+        {
+          "url": "/demos/pessoas/fabio-luis-lula-da-silva",
+          "id": "person--fabio-luis-lula-da-silva",
+          "type": "person",
+          "title": "Fábio Luís Lula da Silva"
+        },
+        {
+          "url": "/demos/pessoas/luiz-edson-fachin",
+          "id": "person--luiz-edson-fachin",
+          "type": "person",
+          "title": "Luiz Edson Fachin"
+        },
+        {
+          "url": "/demos/pessoas/sergio-fernando-moro",
+          "id": "person--sergio-fernando-moro",
+          "type": "person",
+          "title": "Sergio Fernando Moro"
+        }
+      ],
+      "targetedBy": [
+        {
+          "id": "case--operacao-lava-jato",
+          "type": "case",
+          "url": "/demos/casos/operacao-lava-jato",
+          "title": "Operação Lava Jato"
+        },
+        {
+          "id": "case--sede-do-instituto-lula",
+          "type": "case",
+          "url": "/demos/casos/sede-do-instituto-lula",
+          "title": "Sede do Instituto Lula"
+        },
+        {
+          "id": "case--sitio-de-atibaia",
+          "type": "case",
+          "url": "/demos/casos/sitio-de-atibaia",
+          "title": "Sítio de Atibaia"
+        },
+        {
+          "id": "case--triplex-do-guaruja",
+          "type": "case",
+          "url": "/demos/casos/triplex-do-guaruja",
+          "title": "Tríplex do Guarujá"
+        },
+        {
+          "id": "org--central-unica-dos-trabalhadores-cut",
+          "type": "org",
+          "url": "/demos/organizacoes/central-unica-dos-trabalhadores-cut",
+          "title": "Central Única dos Trabalhadores (CUT)"
+        },
+        {
+          "id": "org--partido-dos-trabalhadores-pt",
+          "type": "org",
+          "url": "/demos/organizacoes/partido-dos-trabalhadores-pt",
+          "title": "Partido dos Trabalhadores (PT)"
+        },
+        {
+          "id": "org--sindicato-dos-metalurgicos-do-abc",
+          "type": "org",
+          "url": "/demos/organizacoes/sindicato-dos-metalurgicos-do-abc",
+          "title": "Sindicato dos Metalúrgicos do ABC"
+        },
+        {
+          "id": "person--antonio-carlos-camilo-antunes",
+          "type": "person",
+          "url": "/demos/pessoas/antonio-carlos-camilo-antunes",
+          "title": "Antônio Carlos Camilo Antunes"
+        },
+        {
+          "id": "person--fabio-luis-lula-da-silva",
+          "type": "person",
+          "url": "/demos/pessoas/fabio-luis-lula-da-silva",
+          "title": "Fábio Luís Lula da Silva"
+        },
+        {
+          "id": "person--luiz-edson-fachin",
+          "type": "person",
+          "url": "/demos/pessoas/luiz-edson-fachin",
+          "title": "Luiz Edson Fachin"
+        },
+        {
+          "id": "person--sergio-fernando-moro",
+          "type": "person",
+          "url": "/demos/pessoas/sergio-fernando-moro",
+          "title": "Sergio Fernando Moro"
+        }
+      ]
+    },
+    {
+      "id": "q--person--paulo-gonet-branco--001",
+      "state": "aberta",
+      "question": "a íntegra do despacho de arquivamento (e anexos) é acessível publicamente e permite auditar fundamentos, escopo e evidências avaliadas?",
+      "hypothesis": "a documentação pública disponível é suficiente para auditar os fundamentos e a abrangência do arquivamento (o que foi analisado e o que não foi).",
+      "counterHypothesis": "a documentação pública é insuficiente (ou não acessível), e o debate permanece baseado em fontes secundárias e interpretações.",
+      "nextSteps": "localizar despacho integral e anexos; mapear peças citadas pela matéria (representação, notícias, eventuais documentos); checar publicização em sistemas oficiais.",
+      "container": {
+        "id": "person--paulo-gonet-branco",
+        "type": "person",
+        "url": "/demos/pessoas/paulo-gonet-branco",
+        "title": "Paulo Gonet Branco"
+      },
+      "advancingNotes": [],
+      "targetedBy": []
+    },
+    {
+      "id": "q--person--ricardo-lewandowski--001",
+      "state": "aberta",
+      "question": "qual foi o escopo, período e natureza do vínculo de consultoria citado em reportagens (contrato, comitê consultivo, temas, remuneração, encerramento)?",
+      "hypothesis": "o vínculo existiu e seus termos são verificáveis (ou por documentação pública, ou por confirmação formal), permitindo avaliar compatibilidade com regras e eventual necessidade de recusa/impedimento.",
+      "counterHypothesis": "parte do relato público é imprecisa (ex.: papel distinto de “consultor”, período diferente, ou vínculo já encerrado sem impacto decisório), e não há evidência de conflito material.",
+      "nextSteps": "buscar documentos públicos e declarações formais; procurar registros em decisões, contratos publicizados, e eventuais notas de transparência.",
+      "container": {
+        "id": "person--ricardo-lewandowski",
+        "type": "person",
+        "url": "/demos/pessoas/ricardo-lewandowski",
+        "title": "Ricardo Lewandowski"
+      },
+      "advancingNotes": [],
+      "targetedBy": []
+    },
+    {
+      "id": "q--person--ricardo-lewandowski--002",
+      "state": "aberta",
+      "question": "houve medidas documentadas de gestão de conflito (ex.: impedimento/recusa) em atos do MJSP/PF relacionados ao caso [Master](/demos/organizacoes/banco-master)?",
+      "hypothesis": "existem procedimentos formais (ou decisões) registrando mitigação de conflito.",
+      "counterHypothesis": "não há ato ou decisão que conecte a consultoria a atuação ministerial no caso; as preocupações são majoritariamente inferenciais, sem evidência de influência.",
+      "nextSteps": "mapear atos oficiais, agendas, decisões e comunicados; buscar manifestações do próprio agente e de órgãos de controle.",
+      "container": {
+        "id": "person--ricardo-lewandowski",
+        "type": "person",
+        "url": "/demos/pessoas/ricardo-lewandowski",
+        "title": "Ricardo Lewandowski"
+      },
+      "advancingNotes": [],
+      "targetedBy": []
+    },
+    {
+      "id": "q--person--rodrigo-morais-fernandes--001",
+      "state": "aberta",
+      "question": "quais diligências (e decisões judiciais) foram efetivamente executadas no Inquérito Policial nº 503/2018 DPF/JFA/MG após o relatório de 2018 e como isso se refletiu na conclusão de 2020?",
+      "hypothesis": "há documentação pública suficiente (decisões/peças acessíveis, ao menos em parte) para auditar o que foi requerido, autorizado e feito (mensagens, e-mails, quebras de sigilo, perícias).",
+      "counterHypothesis": "a maior parte do material permanece inacessível publicamente (sigilo) e só é possível reconstruir a execução das diligências por fontes secundárias (reportagens), com baixa auditabilidade externa.",
+      "nextSteps": "localizar número/peças do IP 503/2018 e eventuais decisões públicas; checar publicização em sistemas judiciais; mapear o que foi publicado por PF/MPF/Justiça; atualizar com documentos integrais quando disponíveis.",
+      "container": {
+        "id": "person--rodrigo-morais-fernandes",
+        "type": "person",
+        "url": "/demos/pessoas/rodrigo-morais-fernandes",
+        "title": "Rodrigo Morais Fernandes"
+      },
+      "advancingNotes": [],
+      "targetedBy": []
+    },
+    {
+      "id": "q--person--rodrigo-morais-fernandes--002",
+      "state": "em-apuracao",
+      "question": "qual foi o desfecho (em TRF-1/STF) da controvérsia sobre perícia em celular de advogado citada em reportagem (e qual o impacto disso no escopo probatório do 2º inquérito)?",
+      "hypothesis": "houve decisão/andamento rastreável (número processual, despacho, acórdão) que esclarece limites de diligências e de acesso a dados.",
+      "counterHypothesis": "não há decisão pública acessível (ou o caso permaneceu indefinido por longo período), mantendo ambiguidade sobre o que pôde ser analisado.",
+      "nextSteps": "identificar o número da ação/medida no TRF-1 e no STF (a partir de fontes públicas); localizar decisões/acórdãos; registrar datas e fundamentos.",
+      "container": {
+        "id": "person--rodrigo-morais-fernandes",
+        "type": "person",
+        "url": "/demos/pessoas/rodrigo-morais-fernandes",
+        "title": "Rodrigo Morais Fernandes"
+      },
+      "advancingNotes": [
+        {
+          "url": "/demos/pessoas/zanone-manoel-de-oliveira-junior",
+          "id": "person--zanone-manoel-de-oliveira-junior",
+          "type": "person",
+          "title": "Zanone Manoel de Oliveira Júnior"
+        }
+      ],
+      "targetedBy": [
+        {
+          "id": "person--zanone-manoel-de-oliveira-junior",
+          "type": "person",
+          "url": "/demos/pessoas/zanone-manoel-de-oliveira-junior",
+          "title": "Zanone Manoel de Oliveira Júnior"
+        }
+      ]
+    },
+    {
+      "id": "q--person--rodrigo-morais-fernandes--003",
+      "state": "aberta",
+      "question": "existe evidência pública que conecte formalmente a atuação nos inquéritos do atentado (2018–2020) com nomeações/designações posteriores (ex.: Diretor de Inteligência Policial; Adido em Londres) — sem inferir causalidade além do que está documentado?",
+      "hypothesis": "não há (até aqui) indício documental público de “nexo causal”; as nomeações podem ser explicadas por rotinas administrativas e critérios internos.",
+      "counterHypothesis": "existe documentação (peças, mensagens, representações, decisões) indicando algum tipo de interferência ou motivação extraprocessual, mas ela não é pública ou não foi localizada ainda.",
+      "nextSteps": "localizar decisão de arquivamento (se houver) e manifestações do MPF/Justiça sobre o IP nº 503/2018; checar se houve representação/controle externo (MPF/CGU/TCU) ou procedimentos internos; manter lista de atos do DOU relevantes em “Linha do tempo”.",
+      "container": {
+        "id": "person--rodrigo-morais-fernandes",
+        "type": "person",
+        "url": "/demos/pessoas/rodrigo-morais-fernandes",
+        "title": "Rodrigo Morais Fernandes"
+      },
+      "advancingNotes": [],
+      "targetedBy": []
+    },
+    {
+      "id": "q--person--rui-costa--001",
+      "state": "aberta",
+      "question": "qual foi o contexto e a base técnica/jurídica citada (se houver) para a declaração de Rui Costa sobre competência do BC no caso [Master](/demos/organizacoes/banco-master)?",
+      "hypothesis": "a declaração reflete entendimento institucional consistente com o regime jurídico aplicável e com informações técnicas disponíveis.",
+      "counterHypothesis": "a declaração é sobretudo política/reativa, com pouca relação demonstrável com os fundamentos técnicos do caso.",
+      "nextSteps": "mapear atos do BC e do TCU citados; buscar transcrição completa e perguntas/respostas; comparar com notas técnicas e decisões publicizadas.",
+      "container": {
+        "id": "person--rui-costa",
+        "type": "person",
+        "url": "/demos/pessoas/rui-costa",
+        "title": "Rui Costa"
+      },
+      "advancingNotes": [],
+      "targetedBy": []
+    },
+    {
+      "id": "q--person--sergio-fernando-moro--001",
+      "state": "em-apuracao",
+      "question": "houve coordenação indevida entre acusação e juiz em fases relevantes de casos da Lava Jato (incluindo o tríplex)?",
+      "hypothesis": "houve coordenação indevida entre acusação e juiz em fases relevantes.",
+      "counterHypothesis": "as controvérsias do período se explicam por fundamentos jurídicos e pelo funcionamento institucional (competência, nulidades, garantias processuais), sem necessidade de postular coordenação indevida.",
+      "nextSteps": "decisões e votos integrais; auditoria cronológica; evidência documental robusta (não apenas inferência); comparação com padrões de conduta/jurisprudência em casos análogos.",
+      "container": {
+        "id": "person--sergio-fernando-moro",
+        "type": "person",
+        "url": "/demos/pessoas/sergio-fernando-moro",
+        "title": "Sergio Fernando Moro"
+      },
+      "advancingNotes": [
+        {
+          "url": "/demos/casos/triplex-do-guaruja",
+          "id": "case--triplex-do-guaruja",
+          "type": "case",
+          "title": "Tríplex do Guarujá"
+        }
+      ],
+      "targetedBy": [
+        {
+          "id": "case--triplex-do-guaruja",
+          "type": "case",
+          "url": "/demos/casos/triplex-do-guaruja",
+          "title": "Tríplex do Guarujá"
+        }
+      ]
+    },
+    {
+      "id": "q--person--viviane-barci-de-moraes--001",
+      "state": "aberta",
+      "question": "qual foi o escopo, período e natureza do contrato de serviços advocatícios citado na matéria (se houver documentação pública)?",
+      "hypothesis": "os termos do contrato são verificáveis e permitem avaliar se houve ou não risco material de conflito.",
+      "counterHypothesis": "não há documentação pública suficiente; e, conforme a PGR, os relatos disponíveis não indicam ilicitude nem lastro probatório mínimo para investigação no formato representado.",
+      "nextSteps": "localizar despacho integral e a representação; identificar se há publicização contratual por vias oficiais; buscar declarações formais das partes.",
+      "container": {
+        "id": "person--viviane-barci-de-moraes",
+        "type": "person",
+        "url": "/demos/pessoas/viviane-barci-de-moraes",
+        "title": "Viviane Barci de Moraes"
+      },
+      "advancingNotes": [],
+      "targetedBy": []
+    },
+    {
+      "id": "q--person--viviane-barci-de-moraes--002",
+      "state": "aberta",
+      "question": "existem registros documentais de medidas de mitigação (recusa/impedimento) relacionadas ao caso [Master](/demos/organizacoes/banco-master) em função de alegações de vínculo profissional?",
+      "hypothesis": "há registro formal (ou decisão) sobre gestão de conflito.",
+      "counterHypothesis": "não há ato conectando o vínculo alegado a atuação decisória; e a ausência de lastro probatório descrita pela PGR indica que o tema permanece no campo de suposições.",
+      "nextSteps": "buscar decisões e atos; acompanhar manifestações de órgãos de controle e notas públicas.",
+      "container": {
+        "id": "person--viviane-barci-de-moraes",
+        "type": "person",
+        "url": "/demos/pessoas/viviane-barci-de-moraes",
+        "title": "Viviane Barci de Moraes"
+      },
+      "advancingNotes": [],
+      "targetedBy": []
+    },
+    {
+      "id": "q--person--walter-delgatti-neto--001",
+      "state": "aberta",
+      "question": "na [Operação Spoofing](/demos/casos/operacao-spoofing), existiu financiamento/instigação externa relevante (política, econômica ou institucional) para obtenção/uso do material, além da ação do grupo?",
+      "hypothesis": "existiu financiamento/instigação externa relevante além da ação do grupo.",
+      "counterHypothesis": "as evidências públicas disponíveis são compatíveis com a ação do grupo sem financiamento/instigação externa relevante (ou sem evidência verificável disso).",
+      "nextSteps": "peças integrais da denúncia e sentença; laudos e perícias; rastros financeiros (quando públicos); depoimentos formais; consistência entre versões públicas e autos.",
+      "container": {
+        "id": "person--walter-delgatti-neto",
+        "type": "person",
+        "url": "/demos/pessoas/walter-delgatti-neto",
+        "title": "Walter Delgatti Neto"
+      },
+      "advancingNotes": [],
+      "targetedBy": []
+    },
+    {
+      "id": "q--person--walter-delgatti-neto--002",
+      "state": "em-apuracao",
+      "question": "no caso CNJ, quais foram exatamente (i) o escopo técnico das invasões, (ii) a cadeia de comando e (iii) as evidências materiais que sustentaram a condenação?",
+      "hypothesis": "a cronologia pública ainda não consolida (de forma auditável) escopo, cadeia de comando e evidências materiais.",
+      "counterHypothesis": "as conclusões públicas existentes já são suficientemente explicadas pelos autos e por evidências materiais (perícias, confissões, mensagens) sem exigir postular uma rede oculta maior.",
+      "nextSteps": "acórdão; votos; provas explicitadas; perícias; cronologia completa de acessos; logs; dispositivos apreendidos; contraditório e recursos.",
+      "container": {
+        "id": "person--walter-delgatti-neto",
+        "type": "person",
+        "url": "/demos/pessoas/walter-delgatti-neto",
+        "title": "Walter Delgatti Neto"
+      },
+      "advancingNotes": [
+        {
+          "url": "/demos/pessoas/carla-zambelli-salgado-de-oliveira",
+          "id": "person--carla-zambelli-salgado-de-oliveira",
+          "type": "person",
+          "title": "Carla Zambelli Salgado de Oliveira"
+        }
+      ],
+      "targetedBy": [
+        {
+          "id": "person--carla-zambelli-salgado-de-oliveira",
+          "type": "person",
+          "url": "/demos/pessoas/carla-zambelli-salgado-de-oliveira",
+          "title": "Carla Zambelli Salgado de Oliveira"
+        }
+      ]
+    },
+    {
+      "id": "q--person--zanone-manoel-de-oliveira-junior--001",
+      "state": "aberta",
+      "question": "qual é o número do processo/medida no TRF-1 e no STF sobre a perícia no celular e qual foi o desfecho (decisão, fundamentação e datas)?",
+      "hypothesis": "há registro público suficiente (ao menos com número, classe e movimentação) para documentar o desfecho e os limites impostos à diligência.",
+      "counterHypothesis": "o caso não é rastreável publicamente (sigilo, ausência de número em fontes abertas) e o desfecho permanece indeterminado do ponto de vista externo.",
+      "nextSteps": "identificar número a partir de fontes públicas; localizar decisão/acórdão (TRF-1/STF); registrar cronologia e fundamentos; checar se houve recursos ou decisões posteriores.",
+      "container": {
+        "id": "person--zanone-manoel-de-oliveira-junior",
+        "type": "person",
+        "url": "/demos/pessoas/zanone-manoel-de-oliveira-junior",
+        "title": "Zanone Manoel de Oliveira Júnior"
+      },
+      "advancingNotes": [],
+      "targetedBy": []
+    },
+    {
+      "id": "q--person--zanone-manoel-de-oliveira-junior--002",
+      "state": "em-apuracao",
+      "question": "qual foi o escopo e a cadeia de custódia da apreensão do aparelho (data, ordem judicial, delimitação de acesso) e como foram tratados os limites de sigilo profissional?",
+      "hypothesis": "os autos/decisões (se públicos) esclarecem escopo, justificativa e salvaguardas (filtragem, lacres, perícia, delimitação temática) compatíveis com garantias legais.",
+      "counterHypothesis": "a documentação pública é insuficiente para auditar escopo e salvaguardas, mantendo disputa interpretativa sobre legalidade e proporcionalidade.",
+      "nextSteps": "localizar decisão de busca e apreensão; registrar se houve impugnações além da OAB; mapear quais peças são públicas; checar menções em decisões posteriores do caso.",
+      "container": {
+        "id": "person--zanone-manoel-de-oliveira-junior",
+        "type": "person",
+        "url": "/demos/pessoas/zanone-manoel-de-oliveira-junior",
+        "title": "Zanone Manoel de Oliveira Júnior"
+      },
+      "advancingNotes": [
+        {
+          "url": "/demos/pessoas/rodrigo-morais-fernandes",
+          "id": "person--rodrigo-morais-fernandes",
+          "type": "person",
+          "title": "Rodrigo Morais Fernandes"
+        }
+      ],
+      "targetedBy": [
+        {
+          "id": "person--rodrigo-morais-fernandes",
+          "type": "person",
+          "url": "/demos/pessoas/rodrigo-morais-fernandes",
+          "title": "Rodrigo Morais Fernandes"
+        }
+      ]
+    }
+  ],
+  "issues": {
+    "missingBacklinks": [],
+    "inconsistentStates": [],
+    "orphanQuestions": [
+      {
+        "questionId": "q--case--8-de-janeiro-2023--003",
+        "questionIn": "case--8-de-janeiro-2023"
+      },
+      {
+        "questionId": "q--case--8-de-janeiro-2023--004",
+        "questionIn": "case--8-de-janeiro-2023"
+      },
+      {
+        "questionId": "q--case--sede-do-instituto-lula--001",
+        "questionIn": "case--sede-do-instituto-lula"
+      },
+      {
+        "questionId": "q--person--alexandre-de-moraes--001",
+        "questionIn": "person--alexandre-de-moraes"
+      },
+      {
+        "questionId": "q--person--alexandre-de-moraes--002",
+        "questionIn": "person--alexandre-de-moraes"
+      },
+      {
+        "questionId": "q--person--andrei-augusto-passos-rodrigues--001",
+        "questionIn": "person--andrei-augusto-passos-rodrigues"
+      },
+      {
+        "questionId": "q--person--carla-zambelli-salgado-de-oliveira--001",
+        "questionIn": "person--carla-zambelli-salgado-de-oliveira"
+      },
+      {
+        "questionId": "q--person--carla-zambelli-salgado-de-oliveira--002",
+        "questionIn": "person--carla-zambelli-salgado-de-oliveira"
+      },
+      {
+        "questionId": "q--person--daniel-vorcaro--001",
+        "questionIn": "person--daniel-vorcaro"
+      },
+      {
+        "questionId": "q--person--daniel-vorcaro--002",
+        "questionIn": "person--daniel-vorcaro"
+      },
+      {
+        "questionId": "q--person--flavio-dino--001",
+        "questionIn": "person--flavio-dino"
+      },
+      {
+        "questionId": "q--person--guido-mantega--001",
+        "questionIn": "person--guido-mantega"
+      },
+      {
+        "questionId": "q--person--guido-mantega--002",
+        "questionIn": "person--guido-mantega"
+      },
+      {
+        "questionId": "q--person--henrique-meirelles--001",
+        "questionIn": "person--henrique-meirelles"
+      },
+      {
+        "questionId": "q--person--jair-messias-bolsonaro--001",
+        "questionIn": "person--jair-messias-bolsonaro"
+      },
+      {
+        "questionId": "q--person--jaques-wagner--001",
+        "questionIn": "person--jaques-wagner"
+      },
+      {
+        "questionId": "q--person--jose-antonio-dias-toffoli--001",
+        "questionIn": "person--jose-antonio-dias-toffoli"
+      },
+      {
+        "questionId": "q--person--luiz-edson-fachin--001",
+        "questionIn": "person--luiz-edson-fachin"
+      },
+      {
+        "questionId": "q--person--luiz-edson-fachin--002",
+        "questionIn": "person--luiz-edson-fachin"
+      },
+      {
+        "questionId": "q--person--luiz-fux--001",
+        "questionIn": "person--luiz-fux"
+      },
+      {
+        "questionId": "q--person--paulo-gonet-branco--001",
+        "questionIn": "person--paulo-gonet-branco"
+      },
+      {
+        "questionId": "q--person--ricardo-lewandowski--001",
+        "questionIn": "person--ricardo-lewandowski"
+      },
+      {
+        "questionId": "q--person--ricardo-lewandowski--002",
+        "questionIn": "person--ricardo-lewandowski"
+      },
+      {
+        "questionId": "q--person--rodrigo-morais-fernandes--001",
+        "questionIn": "person--rodrigo-morais-fernandes"
+      },
+      {
+        "questionId": "q--person--rodrigo-morais-fernandes--003",
+        "questionIn": "person--rodrigo-morais-fernandes"
+      },
+      {
+        "questionId": "q--person--rui-costa--001",
+        "questionIn": "person--rui-costa"
+      },
+      {
+        "questionId": "q--person--viviane-barci-de-moraes--001",
+        "questionIn": "person--viviane-barci-de-moraes"
+      },
+      {
+        "questionId": "q--person--viviane-barci-de-moraes--002",
+        "questionIn": "person--viviane-barci-de-moraes"
+      },
+      {
+        "questionId": "q--person--walter-delgatti-neto--001",
+        "questionIn": "person--walter-delgatti-neto"
+      },
+      {
+        "questionId": "q--person--zanone-manoel-de-oliveira-junior--001",
+        "questionIn": "person--zanone-manoel-de-oliveira-junior"
+      }
+    ],
+    "missingTargetQuestions": []
+  }
+}

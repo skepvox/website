@@ -1,0 +1,60 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/pessoas/ricardo-lewandowski.md",
+    "sha256": "9b4644a89e8febd383191921cfbc40cff17eca0fc2c1d281df981d14d2cb1fb1"
+  },
+  "id": "person--ricardo-lewandowski",
+  "type": "person",
+  "url": "/demos/pessoas/ricardo-lewandowski",
+  "title": "Ricardo Lewandowski",
+  "description": "Linha do tempo e fontes públicas sobre Ricardo Lewandowski.",
+  "updatedAt": "2026-01-10",
+  "demos": {
+    "id": "person--ricardo-lewandowski",
+    "type": "person",
+    "mapLabel": "lewandowski",
+    "portrait": "ricardo-lewandowski.png",
+    "seed": "no",
+    "seed-id": "case--caso-banco-master",
+    "target-questions": [
+      "q--case--caso-banco-master--003"
+    ],
+    "country": "BR",
+    "identifiers": {
+      "wikidata": "Q7322696",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Ricardo_Lewandowski"
+    },
+    "aliases": [
+      "Ricardo Lewandowski"
+    ],
+    "tags": [
+      "judiciario",
+      "executivo",
+      "stf",
+      "mjsp",
+      "banco-master"
+    ]
+  },
+  "openQuestions": [
+    {
+      "id": "q--person--ricardo-lewandowski--001",
+      "question": "qual foi o escopo, período e natureza do vínculo de consultoria citado em reportagens (contrato, comitê consultivo, temas, remuneração, encerramento)?",
+      "state": "aberta",
+      "hypothesis": "o vínculo existiu e seus termos são verificáveis (ou por documentação pública, ou por confirmação formal), permitindo avaliar compatibilidade com regras e eventual necessidade de recusa/impedimento.",
+      "counterHypothesis": "parte do relato público é imprecisa (ex.: papel distinto de “consultor”, período diferente, ou vínculo já encerrado sem impacto decisório), e não há evidência de conflito material.",
+      "nextSteps": "buscar documentos públicos e declarações formais; procurar registros em decisões, contratos publicizados, e eventuais notas de transparência.",
+      "advancingNotes": []
+    },
+    {
+      "id": "q--person--ricardo-lewandowski--002",
+      "question": "houve medidas documentadas de gestão de conflito (ex.: impedimento/recusa) em atos do MJSP/PF relacionados ao caso [Master](/demos/organizacoes/banco-master)?",
+      "state": "aberta",
+      "hypothesis": "existem procedimentos formais (ou decisões) registrando mitigação de conflito.",
+      "counterHypothesis": "não há ato ou decisão que conecte a consultoria a atuação ministerial no caso; as preocupações são majoritariamente inferenciais, sem evidência de influência.",
+      "nextSteps": "mapear atos oficiais, agendas, decisões e comunicados; buscar manifestações do próprio agente e de órgãos de controle.",
+      "advancingNotes": []
+    }
+  ]
+}

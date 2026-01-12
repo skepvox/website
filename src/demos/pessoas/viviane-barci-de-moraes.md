@@ -31,7 +31,7 @@ e explicitar perguntas investigáveis, evitando acusações sem lastro.
 
 _Última atualização: 2026-01-10. ID Skepvox: `person--viviane-barci-de-moraes`._
 
-<DemosPortraitSvg />
+<DemosEntityMap />
 
 ## Situação atual
 

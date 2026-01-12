@@ -11,6 +11,7 @@ demos:
   target-questions:
     - q--case--atentado-contra-jair-bolsonaro--001
     - q--person--adelio-bispo-de-oliveira--001
+    - q--person--zanone-manoel-de-oliveira-junior--002
   country: BR
   aliases:
     - Rodrigo Morais
@@ -30,9 +31,9 @@ O objetivo é registrar cronologia e fontes sobre atos e registros públicos rel
 sem inferir motivação além do que está documentado/publicado.
 :::
 
-_Última atualização: 2026-01-10. ID Skepvox: `person--rodrigo-morais-fernandes`._
+_Última atualização: 2026-01-12. ID Skepvox: `person--rodrigo-morais-fernandes`._
 
-<DemosPortraitSvg />
+<DemosEntityMap />
 
 ## Situação atual
 
@@ -49,7 +50,7 @@ _Última atualização: 2026-01-10. ID Skepvox: `person--rodrigo-morais-fernande
 ## Por que está no mapa
 
 - Conexão de origem: semente [Adélio Bispo de Oliveira](/demos/pessoas/adelio-bispo-de-oliveira) via o caso [Atentado contra Jair Bolsonaro](/demos/casos/atentado-contra-jair-bolsonaro).
-- Perguntas-alvo (rastreamento): `q--case--atentado-contra-jair-bolsonaro--001`; `q--person--adelio-bispo-de-oliveira--001`.
+- Perguntas-alvo (rastreamento): `q--case--atentado-contra-jair-bolsonaro--001`; `q--person--adelio-bispo-de-oliveira--001`; `q--person--zanone-manoel-de-oliveira-junior--002`.
 - Evidência mínima: é citado em fonte jornalística e aparece como signatário de relatório oficial/publicado sobre os inquéritos do caso (com menções a diligências pendentes e continuidade da apuração em 2018–2020). Fontes: [G1 (2018-09-28)](https://g1.globo.com/jornal-nacional/noticia/2018/09/28/pf-conclui-que-agressor-de-jair-bolsonaro-agiu-sozinho.ghtml), [G1 (2020-05-14)](https://g1.globo.com/mg/minas-gerais/noticia/2020/05/14/pf-conclui-em-2o-inquerito-que-adelio-agiu-sozinho-e-sem-mandantes-no-ataque-a-bolsonaro.ghtml), [Relatório Final PF (PDF)](https://www.estadao.com.br/blogs/blog/wp-content/uploads/sites/41/2018/09/RELAT%C3%93RIO-FINAL-20180928_17464889.pdf).
 - Fontes-alvo (próximos passos): peças integrais do 2º inquérito (503/2018) e movimentação processual; decisões sobre quebras de sigilo e diligências pendentes citadas no relatório (incluindo controvérsia sobre perícia em celular de advogado, segundo cobertura); manifestações do MPF e decisões de arquivamento (se houver).
 
@@ -64,7 +65,7 @@ _Última atualização: 2026-01-10. ID Skepvox: `person--rodrigo-morais-fernande
   - Notas que avançam: nenhuma ainda.
 - `q--person--rodrigo-morais-fernandes--002`
   - Pergunta: qual foi o desfecho (em TRF-1/STF) da controvérsia sobre perícia em celular de advogado citada em reportagem (e qual o impacto disso no escopo probatório do 2º inquérito)?
-  - Estado: `aberta`.
+  - Estado: `em-apuracao`.
   - Hipótese: houve decisão/andamento rastreável (número processual, despacho, acórdão) que esclarece limites de diligências e de acesso a dados.
   - Contra‑hipótese: não há decisão pública acessível (ou o caso permaneceu indefinido por longo período), mantendo ambiguidade sobre o que pôde ser analisado.
   - Próximos passos: identificar o número da ação/medida no TRF-1 e no STF (a partir de fontes públicas); localizar decisões/acórdãos; registrar datas e fundamentos.

@@ -36,6 +36,8 @@ de alto impacto institucional sobre agentes públicos (Lava Jato). Por isso:
 
 _Última atualização: 2026-01-09. ID Skepvox: `case--operacao-spoofing`._
 
+<DemosEntityMap />
+
 ## Situação atual
 
 - Status (penal): em 2023-08, houve sentença da Justiça Federal do DF (10ª Vara Federal Criminal) condenando o hacker [Walter Delgatti Neto](/demos/pessoas/walter-delgatti-neto) e outros acusados por crimes associados às invasões (segundo cobertura). Situação recursal não mapeada nesta nota (lacuna). Fontes: [VEJA (2023-08-21)](https://veja.abril.com.br/coluna/radar/juiz-condena-delgatti-a-20-anos-de-prisao-por-crimes-na-operacao-spoofing/), [CNN Brasil (2023-08-21)](https://www.cnnbrasil.com.br/politica/hacker-walter-delgatti-e-condenado-a-20-anos-de-prisao/).

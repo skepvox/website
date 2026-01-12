@@ -1,0 +1,50 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/pessoas/andrei-augusto-passos-rodrigues.md",
+    "sha256": "3fc634f1f688939b8e2886fafbca0ba0ec0382b16630e315d3e7f0bdc62088ce"
+  },
+  "id": "person--andrei-augusto-passos-rodrigues",
+  "type": "person",
+  "url": "/demos/pessoas/andrei-augusto-passos-rodrigues",
+  "title": "Andrei Augusto Passos Rodrigues",
+  "description": "Linha do tempo e fontes públicas sobre Andrei Augusto Passos Rodrigues, diretor-geral da Polícia Federal (PF).",
+  "updatedAt": "2026-01-10",
+  "demos": {
+    "id": "person--andrei-augusto-passos-rodrigues",
+    "type": "person",
+    "mapLabel": "andrei",
+    "portrait": "andrei-augusto-passos-rodrigues.png",
+    "seed": "no",
+    "seed-id": "person--jair-messias-bolsonaro",
+    "target-questions": [
+      "q--person--jair-messias-bolsonaro--003"
+    ],
+    "country": "BR",
+    "identifiers": {
+      "govbr-pf": "https://www.gov.br/pf/pt-br",
+      "eagendas-cgu": "https://eagendas.cgu.gov.br/?filtro_codigo_orgao=324&filtro_tipo_cargo=cargo_comissao&filtro_descricao_cargo=DIRETOR-GERAL%20DA%20POL%C3%8DCIA%20FEDERAL&filtro_nome_servidor=Andrei%20Augusto%20Passos%20Rodrigues&origem_request=govbr"
+    },
+    "aliases": [
+      "Andrei Rodrigues",
+      "Andrei Augusto Passos Rodrigues"
+    ],
+    "tags": [
+      "policia-federal",
+      "justica",
+      "executivo"
+    ]
+  },
+  "openQuestions": [
+    {
+      "id": "q--person--andrei-augusto-passos-rodrigues--001",
+      "question": "quais documentos oficiais (portaria/nomeação/posse) definem o período e atribuições do cargo de diretor-geral da PF ocupado por Andrei Rodrigues?",
+      "state": "aberta",
+      "hypothesis": "há documentação pública suficiente para registrar datas e atribuições sem depender de fontes secundárias.",
+      "counterHypothesis": "a documentação é dispersa ou não facilmente acessível, limitando verificação independente.",
+      "nextSteps": "localizar atos no Diário Oficial e/ou páginas oficiais de transparência; registrar URLs e datas de acesso.",
+      "advancingNotes": []
+    }
+  ]
+}

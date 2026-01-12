@@ -33,7 +33,7 @@ O objetivo é registrar fontes públicas sem inferir participação pessoal em a
 
 _Última atualização: 2026-01-10. ID Skepvox: `person--andrei-augusto-passos-rodrigues`._
 
-<DemosPortraitSvg />
+<DemosEntityMap />
 
 ## Situação atual
 

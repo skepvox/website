@@ -1,0 +1,68 @@
+{
+  "schema": "skepvox--demos-note-meta",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/pessoas/carla-zambelli-salgado-de-oliveira.md",
+    "sha256": "ac106de9f6a1990fb12dde86bd4ffa56f35a5e65acfc43125eba17aa9e551fa8"
+  },
+  "id": "person--carla-zambelli-salgado-de-oliveira",
+  "type": "person",
+  "url": "/demos/pessoas/carla-zambelli-salgado-de-oliveira",
+  "title": "Carla Zambelli Salgado de Oliveira",
+  "description": "Linha do tempo e fontes públicas sobre Carla Zambelli Salgado de Oliveira, política brasileira e ex-deputada federal por SP.",
+  "updatedAt": "2026-01-09",
+  "demos": {
+    "id": "person--carla-zambelli-salgado-de-oliveira",
+    "type": "person",
+    "mapLabel": "zambelli",
+    "portrait": "carla-zambelli-salgado-de-oliveira.png",
+    "seed": "no",
+    "seed-id": "person--jose-antonio-dias-toffoli",
+    "target-questions": [
+      "q--person--walter-delgatti-neto--002"
+    ],
+    "country": "BR",
+    "identifiers": {
+      "wikidata": "Q59205152",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Carla_Zambelli",
+      "camara": "https://www.camara.leg.br/deputados/204507",
+      "camaraBio": "https://www.camara.leg.br/deputados/204507/biografia",
+      "cpdoc": "https://www18.fgv.br/cpdoc/acervo/dicionarios/verbete-biografico/carla-zambelli-salgado"
+    },
+    "aliases": [
+      "Carla Zambelli",
+      "Carla Zambelli Salgado de Oliveira",
+      "Carla Zambelli Salgado"
+    ],
+    "tags": [
+      "politica",
+      "legislativo",
+      "justica",
+      "stf",
+      "cnj"
+    ],
+    "primaryRoles": [
+      "role--deputada-federal"
+    ]
+  },
+  "openQuestions": [
+    {
+      "id": "q--person--carla-zambelli-salgado-de-oliveira--001",
+      "question": "no caso CNJ, houve rede de apoio (financeira, política, operacional) maior do que a narrativa pública consolidada até aqui indica — e parte relevante ainda não foi mapeada publicamente?",
+      "state": "aberta",
+      "hypothesis": "houve rede de apoio maior do que a narrativa pública consolidada até aqui indica, com lacunas relevantes ainda não mapeadas publicamente.",
+      "counterHypothesis": "os autos e a prova material do caso CNJ explicam suficientemente os fatos e a cadeia de comando, sem exigir postular uma rede oculta maior.",
+      "nextSteps": "peças integrais e anexos; perícias e logs; rastros financeiros; depoimentos formais; cadeia de custódia; coerência entre depoimentos e evidências materiais.",
+      "advancingNotes": []
+    },
+    {
+      "id": "q--person--carla-zambelli-salgado-de-oliveira--002",
+      "question": "a rota de saída do Brasil e a permanência/custódia na Itália envolvem (i) uso de cidadania e (ii) apoio logístico de terceiros?",
+      "state": "aberta",
+      "hypothesis": "a rota e a permanência/custódia envolveram apoio logístico relevante de terceiros (além de fatores legais como cidadania).",
+      "counterHypothesis": "a saída/permanência pode ser explicada por decisões legais e escolhas individuais (incluindo cidadania), sem evidência pública de apoio logístico relevante de terceiros.",
+      "nextSteps": "decisões e pedidos de cooperação; registros públicos de imigração (quando/onde existirem); documentos de defesa; dados de autoridades italianas; cronologia detalhada e auditável.",
+      "advancingNotes": []
+    }
+  ]
+}
