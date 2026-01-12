@@ -1,8 +1,8 @@
 {
   "schema": "skepvox--demos-graph",
   "schemaVersion": 3,
-  "nodeCount": 36,
-  "edgeCount": 88,
+  "nodeCount": 37,
+  "edgeCount": 89,
   "nodes": [
     {
       "id": "case--8-de-janeiro-2023",
@@ -332,6 +332,22 @@
         "banco-master",
         "sistema-financeiro",
         "investigacao"
+      ],
+      "primaryRoles": []
+    },
+    {
+      "id": "person--fabio-luis-lula-da-silva",
+      "type": "person",
+      "url": "/demos/pessoas/fabio-luis-lula-da-silva",
+      "dataUrl": "/demos-data/notes/person--fabio-luis-lula-da-silva.json",
+      "title": "Fábio Luís Lula da Silva",
+      "description": "Linha do tempo e fontes públicas sobre Fábio Luís Lula da Silva (Lulinha).",
+      "mapLabel": "lulinha",
+      "seed": false,
+      "seedId": "person--luiz-inacio-lula-da-silva",
+      "tags": [
+        "familia",
+        "empresariado"
       ],
       "primaryRoles": []
     },
@@ -1169,6 +1185,15 @@
       "count": 1,
       "sections": {
         "Organizações relacionadas": 1
+      }
+    },
+    {
+      "source": "person--fabio-luis-lula-da-silva",
+      "target": "person--luiz-inacio-lula-da-silva",
+      "kind": "family",
+      "count": 1,
+      "sections": {
+        "Relações familiares": 1
       }
     },
     {

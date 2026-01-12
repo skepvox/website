@@ -1,0 +1,152 @@
+{
+  "schema": "skepvox--demos-note",
+  "schemaVersion": 1,
+  "source": {
+    "path": "src/demos/pessoas/fabio-luis-lula-da-silva.md",
+    "sha256": "7dc5f747729def91f3ad81752cb0b783aca747537419d647d007b13b515793bd"
+  },
+  "id": "person--fabio-luis-lula-da-silva",
+  "type": "person",
+  "url": "/demos/pessoas/fabio-luis-lula-da-silva",
+  "title": "Fábio Luís Lula da Silva",
+  "description": "Linha do tempo e fontes públicas sobre Fábio Luís Lula da Silva (Lulinha).",
+  "updatedAt": "2026-01-12",
+  "demos": {
+    "id": "person--fabio-luis-lula-da-silva",
+    "type": "person",
+    "mapLabel": "lulinha",
+    "seed": "no",
+    "seed-id": "person--luiz-inacio-lula-da-silva",
+    "target-questions": [
+      "q--person--luiz-inacio-lula-da-silva--001"
+    ],
+    "country": "BR",
+    "identifiers": {
+      "wikidata": "Q10286880",
+      "wikipedia": "https://pt.wikipedia.org/wiki/Lulinha_(empres%C3%A1rio)"
+    },
+    "aliases": [
+      "Lulinha",
+      "Fabio Luis Lula da Silva"
+    ],
+    "tags": [
+      "familia",
+      "empresariado"
+    ],
+    "primaryRoles": []
+  },
+  "frontmatter": {
+    "title": "Fábio Luís Lula da Silva",
+    "description": "Linha do tempo e fontes públicas sobre Fábio Luís Lula da Silva (Lulinha).",
+    "demos": {
+      "id": "person--fabio-luis-lula-da-silva",
+      "type": "person",
+      "mapLabel": "lulinha",
+      "seed": "no",
+      "seed-id": "person--luiz-inacio-lula-da-silva",
+      "target-questions": [
+        "q--person--luiz-inacio-lula-da-silva--001"
+      ],
+      "country": "BR",
+      "identifiers": {
+        "wikidata": "Q10286880",
+        "wikipedia": "https://pt.wikipedia.org/wiki/Lulinha_(empres%C3%A1rio)"
+      },
+      "aliases": [
+        "Lulinha",
+        "Fabio Luis Lula da Silva"
+      ],
+      "tags": [
+        "familia",
+        "empresariado"
+      ],
+      "primaryRoles": []
+    }
+  },
+  "frontmatterYaml": "title: 'Fábio Luís Lula da Silva'\ndescription: 'Linha do tempo e fontes públicas sobre Fábio Luís Lula da Silva (Lulinha).'\ndemos:\n  id: person--fabio-luis-lula-da-silva\n  type: person\n  mapLabel: lulinha\n  seed: no\n  seed-id: person--luiz-inacio-lula-da-silva\n  target-questions:\n    - q--person--luiz-inacio-lula-da-silva--001\n  country: BR\n  identifiers:\n    wikidata: Q10286880\n    wikipedia: https://pt.wikipedia.org/wiki/Lulinha_(empres%C3%A1rio)\n  aliases:\n    - Lulinha\n    - Fabio Luis Lula da Silva\n  tags:\n    - familia\n    - empresariado\n  primaryRoles: []",
+  "bodyMarkdown": "# Fábio Luís Lula da Silva\n\n::: info Nota editorial (Skepvox)\nEsta nota é derivada da semente [Luiz Inácio Lula da Silva](/demos/pessoas/luiz-inacio-lula-da-silva) por relação familiar e por menções públicas (cobertura jornalística) no contexto da CPMI do INSS.\n\nObjetivo: registrar **cronologia**, **status** e **fontes** com linguagem neutra. Alegações ficam rotuladas como alegações/reportagens (não como fato).\n:::\n\n_Última atualização: 2026-01-12. ID Skepvox: `person--fabio-luis-lula-da-silva`._\n\n<DemosPortraitSvg />\n\n## Situação atual\n\n- Descrição geral: descrito como biólogo e empresário brasileiro (segundo biografia enciclopédica). Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Lulinha_(empres%C3%A1rio)).\n- Relação familiar: filho de [Luiz Inácio Lula da Silva](/demos/pessoas/luiz-inacio-lula-da-silva) (segundo biografia enciclopédica). Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Lulinha_(empres%C3%A1rio)).\n- Acusações públicas (2025): reportagem descreve que um ex-funcionário do INSS teria dito à Polícia Federal que Fábio Luís receberia uma “mesada” de Antônio Carlos (“careca do INSS”), apontado na reportagem como operador das fraudes investigadas. Status: `reported`. Fonte: [BBC (2025-12-04)](https://www.bbc.com/portuguese/articles/cj69rj80g00o).\n\n## Por que está no mapa\n\n- Conexão de origem: rede inicial de [Luiz Inácio Lula da Silva](/demos/pessoas/luiz-inacio-lula-da-silva) (relação familiar).\n- Perguntas-alvo (rastreamento): `q--person--luiz-inacio-lula-da-silva--001`.\n- Evidência mínima: figura pública por vínculo familiar com o presidente e por aparecer em cobertura jornalística sobre acusações no contexto da CPMI do INSS (fraudes investigadas, segundo reportagem). Fontes: [Wikipédia](https://pt.wikipedia.org/wiki/Lulinha_(empres%C3%A1rio)), [BBC](https://www.bbc.com/portuguese/articles/cj69rj80g00o).\n- Fontes-alvo (próximos passos): documentos e transcrições citadas em reportagens (depoimentos, relatórios, decisões) quando/onde houver publicização; manifestações e respostas registradas; cronologia verificável e status formal.\n\n## Perguntas abertas (hipóteses)\n\n- `q--person--fabio-luis-lula-da-silva--001`\n  - Pergunta: quais documentos públicos (depoimentos, relatórios, peças/decisões) sustentam ou refutam as acusações citadas em reportagens no contexto da CPMI do INSS, e qual é o status atual (investigação formal, arquivamento, inexistência de procedimento, etc.)?\n  - Estado: `aberta`.\n  - Hipótese: há documentação pública suficiente para auditar o que foi alegado e registrar o desfecho com rastreabilidade.\n  - Contra-hipótese: as alegações não se sustentam ou não há documentação pública acessível para verificação independente; o tema permanece como disputa narrativa sem evidência verificável.\n  - Próximos passos: localizar documentos oficiais citados pela reportagem (CPMI/PF) e registrar o que é público vs. sigiloso; identificar e registrar respostas/negações verificáveis; evitar extrapolar além do que estiver documentado.\n  - Notas que avançam: nenhuma ainda.\n\n## Identidade (básico)\n\n- Nome: Fábio Luís Lula da Silva. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Lulinha_(empres%C3%A1rio)).\n- Nascimento: 03-03-1975, São Bernardo do Campo (SP), Brasil (segundo biografia enciclopédica). Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Lulinha_(empres%C3%A1rio)).\n- Também conhecido como: “Lulinha”. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Lulinha_(empres%C3%A1rio)).\n\n## Linha do tempo\n\n### 1975–2024 — Origem e trajetória (lacunas)\n\n- 1975-03-03 — Nascimento (São Bernardo do Campo, SP). Status: `documented`. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Lulinha_(empres%C3%A1rio)).\n- 1975–2024 — Nenhuma cronologia detalhada foi consolidada nesta nota ainda (a expandir com fontes primárias/checagens e sem extrapolar além do documentado).\n\n### 2025 — CPMI do INSS e acusações públicas (segundo cobertura)\n\n- 2025-12-04 — Reportagem descreve acusações no contexto da CPMI do INSS (fraudes investigadas) e menciona relato atribuído a ex-funcionário do INSS à Polícia Federal sobre suposta “mesada”. Status: `reported`. Fonte: [BBC (2025-12-04)](https://www.bbc.com/portuguese/articles/cj69rj80g00o).\n\n## Relações familiares\n\n- [Luiz Inácio Lula da Silva](/demos/pessoas/luiz-inacio-lula-da-silva) — pai (filho), conforme biografia enciclopédica citada nesta nota. Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Lulinha_(empres%C3%A1rio)).\n\n## Fontes\n\n- BBC News Brasil — “Amiga de Lulinha na mira da PF: o que se sabe sobre acusações contra filho do presidente na CPMI que investiga fraudes no INSS” (acesso em 2026-01-12): https://www.bbc.com/portuguese/articles/cj69rj80g00o\n- Wikipédia — “Lulinha (empresário)” (acesso em 2026-01-12): https://pt.wikipedia.org/wiki/Lulinha_(empres%C3%A1rio)\n- Wikidata — “Lulinha” (Q10286880) (acesso em 2026-01-12): https://www.wikidata.org/wiki/Q10286880\n",
+  "outboundLinks": [
+    {
+      "text": "Luiz Inácio Lula da Silva",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    },
+    {
+      "text": "Luiz Inácio Lula da Silva",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    },
+    {
+      "text": "Luiz Inácio Lula da Silva",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    },
+    {
+      "text": "Luiz Inácio Lula da Silva",
+      "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+    }
+  ],
+  "outboundLinksBySection": [
+    {
+      "section": "Intro",
+      "links": [
+        {
+          "text": "Luiz Inácio Lula da Silva",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        }
+      ]
+    },
+    {
+      "section": "Situação atual",
+      "links": [
+        {
+          "text": "Luiz Inácio Lula da Silva",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        }
+      ]
+    },
+    {
+      "section": "Por que está no mapa",
+      "links": [
+        {
+          "text": "Luiz Inácio Lula da Silva",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        }
+      ]
+    },
+    {
+      "section": "Relações familiares",
+      "links": [
+        {
+          "text": "Luiz Inácio Lula da Silva",
+          "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+        }
+      ]
+    }
+  ],
+  "relations": {
+    "cases": [],
+    "family": [
+      {
+        "text": "Luiz Inácio Lula da Silva",
+        "href": "/demos/pessoas/luiz-inacio-lula-da-silva"
+      }
+    ],
+    "people": [],
+    "organizations": []
+  },
+  "relationSectionTitles": {
+    "cases": null,
+    "family": "Relações familiares",
+    "people": null,
+    "organizations": null
+  },
+  "openQuestions": [
+    {
+      "id": "q--person--fabio-luis-lula-da-silva--001",
+      "question": "quais documentos públicos (depoimentos, relatórios, peças/decisões) sustentam ou refutam as acusações citadas em reportagens no contexto da CPMI do INSS, e qual é o status atual (investigação formal, arquivamento, inexistência de procedimento, etc.)?",
+      "state": "aberta",
+      "hypothesis": "há documentação pública suficiente para auditar o que foi alegado e registrar o desfecho com rastreabilidade.",
+      "counterHypothesis": "as alegações não se sustentam ou não há documentação pública acessível para verificação independente; o tema permanece como disputa narrativa sem evidência verificável.",
+      "nextSteps": "localizar documentos oficiais citados pela reportagem (CPMI/PF) e registrar o que é público vs. sigiloso; identificar e registrar respostas/negações verificáveis; evitar extrapolar além do que estiver documentado.",
+      "advancingNotes": []
+    }
+  ]
+}

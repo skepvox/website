@@ -10,6 +10,7 @@ description: "Pessoas públicas mapeadas no Skepvox (rota `/demos`)."
 - [Andrei Augusto Passos Rodrigues](/demos/pessoas/andrei-augusto-passos-rodrigues)
 - [Carla Zambelli Salgado de Oliveira](/demos/pessoas/carla-zambelli-salgado-de-oliveira)
 - [Daniel Bueno Vorcaro](/demos/pessoas/daniel-vorcaro)
+- [Fábio Luís Lula da Silva](/demos/pessoas/fabio-luis-lula-da-silva)
 - [Flávio Dino](/demos/pessoas/flavio-dino)
 - [Guido Mantega](/demos/pessoas/guido-mantega)
 - [Henrique Meirelles](/demos/pessoas/henrique-meirelles)
