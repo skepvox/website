@@ -3,14 +3,14 @@
   "schemaVersion": 1,
   "source": {
     "path": "src/demos/casos/operacao-sem-desconto.md",
-    "sha256": "55454c1421e316c4ecffc866cd80a9100b00f1793342ba93f943c34124d4a3d1"
+    "sha256": "22c238fd63df428716a0f4e9c711471834b10796ebe19c89d8416d89950b08ff"
   },
   "id": "case--operacao-sem-desconto",
   "type": "case",
   "url": "/demos/casos/operacao-sem-desconto",
   "title": "Operação Sem Desconto (PF/CGU)",
   "description": "Linha do tempo e fontes públicas sobre a Operação Sem Desconto (PF/CGU), que apura descontos não autorizados em benefícios.",
-  "updatedAt": "2026-01-12",
+  "updatedAt": "2026-01-13",
   "demos": {
     "id": "case--operacao-sem-desconto",
     "type": "case",

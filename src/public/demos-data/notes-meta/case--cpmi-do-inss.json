@@ -3,14 +3,14 @@
   "schemaVersion": 1,
   "source": {
     "path": "src/demos/casos/cpmi-do-inss.md",
-    "sha256": "0eb41a41ea390a08bc9e525915be72c0bdcb02c5f6e6288423941f731d095f6d"
+    "sha256": "0e3907229aa5e5a8f2621d3c0338dd7243a889e6897b4fd1b2a2156554c12116"
   },
   "id": "case--cpmi-do-inss",
   "type": "case",
   "url": "/demos/casos/cpmi-do-inss",
   "title": "CPMI do INSS",
   "description": "Linha do tempo e fontes públicas sobre a CPMI do INSS (Congresso/Senado), criada para apurar descontos não autorizados em benefícios.",
-  "updatedAt": "2026-01-12",
+  "updatedAt": "2026-01-13",
   "demos": {
     "id": "case--cpmi-do-inss",
     "type": "case",
