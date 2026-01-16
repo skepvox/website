@@ -567,18 +567,45 @@ const buildFlowBlocks = (question, scope, options = {}) => {
   return blocks
 }
 
+const stripOptionPrefix = (value, letter) => {
+  if (!value) {
+    return ''
+  }
+  const normalized = String(value).trim()
+  if (!normalized) {
+    return ''
+  }
+  if (!letter) {
+    return normalized
+  }
+  const escapedLetter = String(letter).trim().replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+  return normalized
+    .replace(new RegExp(`^Alternativa\\s+${escapedLetter}\\s*[:.\\-–—]\\s*`, 'i'), '')
+    .trim()
+}
+
 const getOptionLabel = (option) => {
   const text = option.text?.trim()
   if (text) {
     return text
   }
   if (option.image_alt?.trim()) {
-    return option.image_alt.trim()
+    const stripped = stripOptionPrefix(option.image_alt, option.letter)
+    return stripped || option.image_alt.trim()
   }
   if (option.chart) {
     return `Alternativa ${option.letter} (gr\u00e1fico)`
   }
   return `Alternativa ${option.letter}`
+}
+
+const renderOptionImage = (option, question) => {
+  if (!option.image) {
+    return []
+  }
+  const alt = (option.image_alt || '').trim()
+  const src = `/enem/${question.year}/${option.image}`
+  return [`![${alt}](${src})`]
 }
 
 const renderOptions = (question) => {
@@ -587,6 +614,15 @@ const renderOptions = (question) => {
   options.forEach((option, index) => {
     const label = getOptionLabel(option)
     lines.push(`- **${option.letter}.** ${label}`)
+    if (option.image) {
+      lines.push('')
+      for (const line of renderOptionImage(option, question)) {
+        lines.push(`  ${line}`)
+      }
+      if (index < options.length - 1) {
+        lines.push('')
+      }
+    }
     if (option.chart) {
       lines.push('')
       const chartLines = renderChartAsset(option.chart, question, 'option')
@@ -783,6 +819,9 @@ const buildMarkdown = (question) => {
     )
     const label = option ? getOptionLabel(option) : `Alternativa ${correctAnswer}`
     lines.push(`- **${correctAnswer}.** ${label}`)
+    if (option?.image) {
+      lines.push('', `  ${renderOptionImage(option, question)[0]}`)
+    }
   } else {
     lines.push('_Resposta em revisão._')
   }
