@@ -1,7 +1,7 @@
 # SEO Strategy (Skepvox)
 
 This document captures the SEO strategy across major content types in this repo
-(books, ENEM, and essays/blog posts). The core model is consistent: hubs are for
+(books, Enem, and essays/blog posts). The core model is consistent: hubs are for
 navigation, leaves are for ranking.
 
 ## Core principles
@@ -43,7 +43,7 @@ navigation, leaves are for ranking.
 - Use the author profile image when a book cover is missing.
 - Leaf titles include the main book to avoid collisions across works.
 
-## ENEM (exams)
+## Enem (exams)
 
 ### Canonical content model
 
@@ -68,7 +68,7 @@ Canonical URL pattern:
 
 ### Hub title convention
 
-- Use an em dash between “Tecnologias” and “Caderno Verde”, e.g. `ENEM 2025 — Matemática e suas Tecnologias — Caderno Verde`.
+- Use an em dash between “Tecnologias” and “Caderno Verde”, e.g. `Enem 2025 — Matemática e suas Tecnologias — Caderno Verde`.
 
 ### Leaf page layout
 

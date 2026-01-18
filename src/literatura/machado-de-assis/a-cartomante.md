@@ -1,6 +1,84 @@
 ---
-title: A Cartomante — Machado de Assis
-outline: [2, 3]
+title: "A Cartomante — Machado de Assis"
+description: "Texto integral de A Cartomante, conto de Machado de Assis."
+outline: 2
+head:
+  - - link
+    - rel: canonical
+      href: "https://skepvox.com/literatura/machado-de-assis/a-cartomante.html"
+  - - meta
+    - name: description
+      content: "Texto integral de A Cartomante, conto de Machado de Assis."
+  - - meta
+    - property: og:title
+      content: "A Cartomante — Machado de Assis"
+  - - meta
+    - property: og:description
+      content: "Texto integral de A Cartomante, conto de Machado de Assis."
+  - - meta
+    - property: og:url
+      content: "https://skepvox.com/literatura/machado-de-assis/a-cartomante.html"
+  - - meta
+    - property: og:type
+      content: book
+  - - meta
+    - property: og:image
+      content: "https://skepvox.com/images/authors/machado-de-assis.png"
+  - - meta
+    - property: og:image:alt
+      content: "Machado de Assis"
+  - - meta
+    - name: twitter:card
+      content: summary
+  - - meta
+    - name: twitter:title
+      content: "A Cartomante — Machado de Assis"
+  - - meta
+    - name: twitter:description
+      content: "Texto integral de A Cartomante, conto de Machado de Assis."
+  - - meta
+    - name: twitter:image
+      content: "https://skepvox.com/images/authors/machado-de-assis.png"
+  - - meta
+    - name: twitter:image:alt
+      content: "Machado de Assis"
+  - - script
+    - type: application/ld+json
+    - |
+      {
+        "@context": "https://schema.org",
+        "@type": "Book",
+        "name": "A Cartomante",
+        "author": {
+          "@type": "Person",
+          "name": "Machado de Assis"
+        },
+        "inLanguage": "pt-BR",
+        "url": "https://skepvox.com/literatura/machado-de-assis/a-cartomante.html",
+        "description": "Texto integral de A Cartomante, conto de Machado de Assis.",
+        "image": "https://skepvox.com/images/authors/machado-de-assis.png"
+      }
+  - - script
+    - type: application/ld+json
+    - |
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Machado de Assis",
+            "item": "https://skepvox.com/literatura/machado-de-assis/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "A Cartomante",
+            "item": "https://skepvox.com/literatura/machado-de-assis/a-cartomante.html"
+          }
+        ]
+      }
 ---
 
 # A Cartomante

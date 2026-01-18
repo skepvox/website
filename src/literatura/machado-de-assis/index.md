@@ -1,5 +1,150 @@
 ---
-title: Literatura — Machado de Assis
+title: "Literatura — Machado de Assis"
+description: "Bibliografia e textos integrais de Machado de Assis: Brás Cubas, Quincas Borba, Dom Casmurro, Esaú e Jacó, O Alienista e A Cartomante."
+outline: 2
+head:
+  - - link
+    - rel: canonical
+      href: "https://skepvox.com/literatura/machado-de-assis/"
+  - - meta
+    - name: description
+      content: "Bibliografia e textos integrais de Machado de Assis: Brás Cubas, Quincas Borba, Dom Casmurro, Esaú e Jacó, O Alienista e A Cartomante."
+  - - meta
+    - property: og:title
+      content: "Literatura — Machado de Assis"
+  - - meta
+    - property: og:description
+      content: "Bibliografia e textos integrais de Machado de Assis: Brás Cubas, Quincas Borba, Dom Casmurro, Esaú e Jacó, O Alienista e A Cartomante."
+  - - meta
+    - property: og:url
+      content: "https://skepvox.com/literatura/machado-de-assis/"
+  - - meta
+    - property: og:type
+      content: profile
+  - - meta
+    - property: og:image
+      content: "https://skepvox.com/images/authors/machado-de-assis.png"
+  - - meta
+    - property: og:image:alt
+      content: "Machado de Assis"
+  - - meta
+    - name: twitter:card
+      content: summary_large_image
+  - - meta
+    - name: twitter:title
+      content: "Literatura — Machado de Assis"
+  - - meta
+    - name: twitter:description
+      content: "Bibliografia e textos integrais de Machado de Assis: Brás Cubas, Quincas Borba, Dom Casmurro, Esaú e Jacó, O Alienista e A Cartomante."
+  - - meta
+    - name: twitter:image
+      content: "https://skepvox.com/images/authors/machado-de-assis.png"
+  - - meta
+    - name: twitter:image:alt
+      content: "Machado de Assis"
+  - - script
+    - type: application/ld+json
+    - |
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "https://skepvox.com/literatura/machado-de-assis/#person",
+        "name": "Machado de Assis",
+        "alternateName": "Joaquim Maria Machado de Assis",
+        "description": "Bibliografia e textos integrais de Machado de Assis: Brás Cubas, Quincas Borba, Dom Casmurro, Esaú e Jacó, O Alienista e A Cartomante.",
+        "url": "https://skepvox.com/literatura/machado-de-assis/",
+        "image": "https://skepvox.com/images/authors/machado-de-assis.png",
+        "birthDate": "1839-06-21",
+        "deathDate": "1908-09-29",
+        "nationality": "Brasileira",
+        "jobTitle": "Escritor",
+        "inLanguage": "pt-BR",
+        "workExample": [
+          {
+            "@type": "Book",
+            "name": "Memórias póstumas de Brás Cubas",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html",
+            "inLanguage": "pt-BR"
+          },
+          {
+            "@type": "Book",
+            "name": "Quincas Borba",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba.html",
+            "inLanguage": "pt-BR"
+          },
+          {
+            "@type": "Book",
+            "name": "Dom Casmurro",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html",
+            "inLanguage": "pt-BR"
+          },
+          {
+            "@type": "Book",
+            "name": "Esaú e Jacó",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html",
+            "inLanguage": "pt-BR"
+          },
+          {
+            "@type": "Book",
+            "name": "O Alienista",
+            "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista.html",
+            "inLanguage": "pt-BR"
+          },
+          {
+            "@type": "Book",
+            "name": "A Cartomante",
+            "url": "https://skepvox.com/literatura/machado-de-assis/a-cartomante.html",
+            "inLanguage": "pt-BR"
+          }
+        ]
+      }
+  - - script
+    - type: application/ld+json
+    - |
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "itemListOrder": "http://schema.org/ItemListOrderAscending",
+        "numberOfItems": 6,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Memórias póstumas de Brás Cubas",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Quincas Borba",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Dom Casmurro",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Esaú e Jacó",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "O Alienista",
+            "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "A Cartomante",
+            "url": "https://skepvox.com/literatura/machado-de-assis/a-cartomante.html"
+          }
+        ]
+      }
 ---
 
 # Machado de Assis
@@ -7,6 +152,15 @@ title: Literatura — Machado de Assis
 Joaquim Maria Machado de Assis (1839–1908) é amplamente considerado o maior nome da literatura brasileira. Sua obra abrange praticamente todos os gêneros literários, sendo fundamental tanto para o Romantismo (em sua fase inicial) quanto para a consolidação do Realismo no Brasil.
 
 Abaixo, uma bibliografia abrangente de suas obras, organizada por gênero e ordem cronológica de publicação.
+
+## Obras no Skepvox
+
+*   [Memórias póstumas de Brás Cubas](/literatura/machado-de-assis/bras-cubas.html)
+*   [Quincas Borba](/literatura/machado-de-assis/quincas-borba.html)
+*   [Dom Casmurro](/literatura/machado-de-assis/dom-casmurro.html)
+*   [Esaú e Jacó](/literatura/machado-de-assis/esau-e-jaco.html)
+*   [O Alienista](/literatura/machado-de-assis/o-alienista.html)
+*   [A Cartomante](/literatura/machado-de-assis/a-cartomante.html)
 
 ## Romances
 

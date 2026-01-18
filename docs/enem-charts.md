@@ -1,7 +1,7 @@
-# ENEM D3 Charts (WIP)
+# Enem D3 Charts (WIP)
 
 This document defines the architecture, file structure, and interaction
-requirements for all D3-based charts used in ENEM questions.
+requirements for all D3-based charts used in Enem questions.
 
 ## Scope
 

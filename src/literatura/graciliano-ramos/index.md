@@ -1,5 +1,113 @@
 ---
-title: Literatura — Graciliano Ramos
+title: "Literatura — Graciliano Ramos"
+description: "Bibliografia e textos integrais de Graciliano Ramos: São Bernardo, Angústia e Vidas Secas."
+outline: 2
+head:
+  - - link
+    - rel: canonical
+      href: "https://skepvox.com/literatura/graciliano-ramos/"
+  - - meta
+    - name: description
+      content: "Bibliografia e textos integrais de Graciliano Ramos: São Bernardo, Angústia e Vidas Secas."
+  - - meta
+    - property: og:title
+      content: "Literatura — Graciliano Ramos"
+  - - meta
+    - property: og:description
+      content: "Bibliografia e textos integrais de Graciliano Ramos: São Bernardo, Angústia e Vidas Secas."
+  - - meta
+    - property: og:url
+      content: "https://skepvox.com/literatura/graciliano-ramos/"
+  - - meta
+    - property: og:type
+      content: profile
+  - - meta
+    - property: og:image
+      content: "https://skepvox.com/images/authors/graciliano-ramos.png"
+  - - meta
+    - property: og:image:alt
+      content: "Graciliano Ramos"
+  - - meta
+    - name: twitter:card
+      content: summary_large_image
+  - - meta
+    - name: twitter:title
+      content: "Literatura — Graciliano Ramos"
+  - - meta
+    - name: twitter:description
+      content: "Bibliografia e textos integrais de Graciliano Ramos: São Bernardo, Angústia e Vidas Secas."
+  - - meta
+    - name: twitter:image
+      content: "https://skepvox.com/images/authors/graciliano-ramos.png"
+  - - meta
+    - name: twitter:image:alt
+      content: "Graciliano Ramos"
+  - - script
+    - type: application/ld+json
+    - |
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "https://skepvox.com/literatura/graciliano-ramos/#person",
+        "name": "Graciliano Ramos",
+        "description": "Bibliografia e textos integrais de Graciliano Ramos: São Bernardo, Angústia e Vidas Secas.",
+        "url": "https://skepvox.com/literatura/graciliano-ramos/",
+        "image": "https://skepvox.com/images/authors/graciliano-ramos.png",
+        "birthDate": "1892-10-27",
+        "deathDate": "1953-03-20",
+        "nationality": "Brasileira",
+        "jobTitle": "Escritor",
+        "inLanguage": "pt-BR",
+        "workExample": [
+          {
+            "@type": "Book",
+            "name": "São Bernardo",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo.html",
+            "inLanguage": "pt-BR"
+          },
+          {
+            "@type": "Book",
+            "name": "Angústia",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia.html",
+            "inLanguage": "pt-BR"
+          },
+          {
+            "@type": "Book",
+            "name": "Vidas Secas",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas.html",
+            "inLanguage": "pt-BR"
+          }
+        ]
+      }
+  - - script
+    - type: application/ld+json
+    - |
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "itemListOrder": "http://schema.org/ItemListOrderAscending",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "São Bernardo",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Angústia",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Vidas Secas",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas.html"
+          }
+        ]
+      }
 ---
 
 # Graciliano Ramos
@@ -7,6 +115,12 @@ title: Literatura — Graciliano Ramos
 Graciliano Ramos (1892–1953) foi um romancista, cronista, contista, jornalista e memorialista brasileiro, considerado um dos maiores nomes da nossa literatura. Sua obra, marcada por um rigoroso estilo seco e direto, aborda com profundidade a realidade social do Nordeste e a psicologia humana.
 
 Abaixo, uma bibliografia completa de suas obras, organizadas por gênero e ordem cronológica de publicação.
+
+## Obras no Skepvox
+
+*   [São Bernardo](/literatura/graciliano-ramos/sao-bernardo.html)
+*   [Angústia](/literatura/graciliano-ramos/angustia.html)
+*   [Vidas Secas](/literatura/graciliano-ramos/vidas-secas.html)
 
 ## Romances
 

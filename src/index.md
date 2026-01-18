@@ -1,17 +1,17 @@
 ---
 page: true
 title: Skepvox — Engenharia de Letras
-description: "Skepvox reúne as obras de Louis Lavelle, literatura clássica e materiais do ENEM — leitura, filosofia e estudo em um único lugar."
+description: "Skepvox reúne as obras de Louis Lavelle, literatura clássica e materiais do Enem — leitura, filosofia e estudo em um único lugar."
 head:
   - - link
     - rel: canonical
       href: "https://skepvox.com/"
   - - meta
     - name: description
-      content: "Skepvox reúne as obras de Louis Lavelle, literatura clássica e materiais do ENEM — leitura, filosofia e estudo em um único lugar."
+      content: "Skepvox reúne as obras de Louis Lavelle, literatura clássica e materiais do Enem — leitura, filosofia e estudo em um único lugar."
   - - meta
     - name: keywords
-      content: "Skepvox, Louis Lavelle, literatura, filosofia, ENEM, questões ENEM, biblioteca digital, obras clássicas, educação"
+      content: "Skepvox, Louis Lavelle, literatura, filosofia, Enem, questões Enem, biblioteca digital, obras clássicas, educação"
   - - meta
     - name: robots
       content: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
@@ -20,7 +20,7 @@ head:
       content: "Skepvox — Engenharia de Letras"
   - - meta
     - property: og:description
-      content: "Skepvox reúne as obras de Louis Lavelle, literatura clássica e materiais do ENEM — leitura, filosofia e estudo em um único lugar."
+      content: "Skepvox reúne as obras de Louis Lavelle, literatura clássica e materiais do Enem — leitura, filosofia e estudo em um único lugar."
   - - meta
     - property: og:url
       content: "https://skepvox.com/"
@@ -47,7 +47,7 @@ head:
       content: "Skepvox — Engenharia de Letras"
   - - meta
     - name: twitter:description
-      content: "Skepvox reúne as obras de Louis Lavelle, literatura clássica e materiais do ENEM — leitura, filosofia e estudo em um único lugar."
+      content: "Skepvox reúne as obras de Louis Lavelle, literatura clássica e materiais do Enem — leitura, filosofia e estudo em um único lugar."
   - - meta
     - name: twitter:image
       content: "https://skepvox.com/og-skepvox.png"
@@ -77,7 +77,7 @@ head:
             "url": "https://skepvox.com/",
             "name": "Skepvox",
             "alternateName": "Engenharia de Letras",
-            "description": "Skepvox reúne as obras de Louis Lavelle, literatura clássica e materiais do ENEM — leitura, filosofia e estudo em um único lugar.",
+            "description": "Skepvox reúne as obras de Louis Lavelle, literatura clássica e materiais do Enem — leitura, filosofia e estudo em um único lugar.",
             "publisher": {
               "@id": "https://skepvox.com/#organization"
             },
@@ -104,7 +104,7 @@ head:
               {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "ENEM",
+                "name": "Enem",
                 "url": "https://skepvox.com/enem/"
               }
             ]
@@ -114,7 +114,7 @@ head:
             "@id": "https://skepvox.com/#webpage",
             "url": "https://skepvox.com/",
             "name": "Skepvox — Engenharia de Letras",
-            "description": "Skepvox reúne as obras de Louis Lavelle, literatura clássica e materiais do ENEM — leitura, filosofia e estudo em um único lugar.",
+            "description": "Skepvox reúne as obras de Louis Lavelle, literatura clássica e materiais do Enem — leitura, filosofia e estudo em um único lugar.",
             "isPartOf": {
               "@id": "https://skepvox.com/#website"
             },
@@ -135,7 +135,7 @@ head:
               },
               {
                 "@type": "Thing",
-                "name": "ENEM",
+                "name": "Enem",
                 "url": "https://skepvox.com/enem/"
               }
             ],

@@ -1,9 +1,155 @@
 ---
-title: O Alienista — Machado de Assis
-outline: [2, 3]
+title: "O Alienista — Machado de Assis"
+description: "Texto integral de O Alienista, de Machado de Assis, com capítulos separados para leitura."
+outline: 2
+head:
+  - - link
+    - rel: canonical
+      href: "https://skepvox.com/literatura/machado-de-assis/o-alienista.html"
+  - - meta
+    - name: description
+      content: "Texto integral de O Alienista, de Machado de Assis, com capítulos separados para leitura."
+  - - meta
+    - property: og:title
+      content: "O Alienista — Machado de Assis"
+  - - meta
+    - property: og:description
+      content: "Texto integral de O Alienista, de Machado de Assis, com capítulos separados para leitura."
+  - - meta
+    - property: og:url
+      content: "https://skepvox.com/literatura/machado-de-assis/o-alienista.html"
+  - - meta
+    - property: og:type
+      content: book
+  - - meta
+    - property: og:image
+      content: "https://skepvox.com/images/authors/machado-de-assis.png"
+  - - meta
+    - property: og:image:alt
+      content: "Machado de Assis"
+  - - meta
+    - name: twitter:card
+      content: summary
+  - - meta
+    - name: twitter:title
+      content: "O Alienista — Machado de Assis"
+  - - meta
+    - name: twitter:description
+      content: "Texto integral de O Alienista, de Machado de Assis, com capítulos separados para leitura."
+  - - meta
+    - name: twitter:image
+      content: "https://skepvox.com/images/authors/machado-de-assis.png"
+  - - meta
+    - name: twitter:image:alt
+      content: "Machado de Assis"
+  - - script
+    - type: application/ld+json
+    - |
+      {
+        "@context": "https://schema.org",
+        "@type": "Book",
+        "name": "O Alienista",
+        "author": {
+          "@type": "Person",
+          "name": "Machado de Assis"
+        },
+        "inLanguage": "pt-BR",
+        "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista.html",
+        "description": "Texto integral de O Alienista, de Machado de Assis, com capítulos separados para leitura.",
+        "image": "https://skepvox.com/images/authors/machado-de-assis.png",
+        "hasPart": [
+          {
+            "@type": "Chapter",
+            "name": "I — De como Itaguaí Ganhou uma Casa de Orates",
+            "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-001-de-como-itaguai-ganhou-uma-casa-de-orates.html",
+            "identifier": "00-00-001"
+          },
+          {
+            "@type": "Chapter",
+            "name": "II — Torrente de Loucos",
+            "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-002-torrente-de-loucos.html",
+            "identifier": "00-00-002"
+          },
+          {
+            "@type": "Chapter",
+            "name": "III — Deus Sabe o que Faz!",
+            "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-003-deus-sabe-o-que-faz.html",
+            "identifier": "00-00-003"
+          },
+          {
+            "@type": "Chapter",
+            "name": "IV — Nota do Autor",
+            "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-004-nota-do-autor.html",
+            "identifier": "00-00-004"
+          }
+        ]
+      }
+  - - script
+    - type: application/ld+json
+    - |
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "itemListOrder": "http://schema.org/ItemListOrderAscending",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "I — De como Itaguaí Ganhou uma Casa de Orates",
+            "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-001-de-como-itaguai-ganhou-uma-casa-de-orates.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "II — Torrente de Loucos",
+            "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-002-torrente-de-loucos.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "III — Deus Sabe o que Faz!",
+            "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-003-deus-sabe-o-que-faz.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "IV — Nota do Autor",
+            "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-004-nota-do-autor.html"
+          }
+        ]
+      }
+  - - script
+    - type: application/ld+json
+    - |
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Machado de Assis",
+            "item": "https://skepvox.com/literatura/machado-de-assis/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "O Alienista",
+            "item": "https://skepvox.com/literatura/machado-de-assis/o-alienista.html"
+          }
+        ]
+      }
 ---
 
 # O Alienista
+
+## Sumário
+
+- [I — De como Itaguaí Ganhou uma Casa de Orates](/literatura/machado-de-assis/o-alienista/00-00-001-de-como-itaguai-ganhou-uma-casa-de-orates.html)
+- [II — Torrente de Loucos](/literatura/machado-de-assis/o-alienista/00-00-002-torrente-de-loucos.html)
+- [III — Deus Sabe o que Faz!](/literatura/machado-de-assis/o-alienista/00-00-003-deus-sabe-o-que-faz.html)
+- [IV — Nota do Autor](/literatura/machado-de-assis/o-alienista/00-00-004-nota-do-autor.html)
 
 ## I — De como Itaguaí Ganhou uma Casa de Orates
 

@@ -208,7 +208,7 @@ const getCanonicalAnswer = (question) => {
 }
 
 const buildMetaDescription = (question, entries) => {
-  const lead = `ENEM ${question.year} ${AREA_SHORT} — Questão ${question.number}.`
+  const lead = `Enem ${question.year} ${AREA_SHORT} — Questão ${question.number}.`
   const mappingText = buildBookletSummary(entries)
   const snippet = extractSnippet(question)
   const baseLength = lead.length + (mappingText ? mappingText.length + 1 : 0)
@@ -236,20 +236,20 @@ const buildJsonLd = (question, entries, canonicalUrl, questionJsonUrl, correctAn
     {
       '@context': 'https://schema.org',
       '@type': 'EducationalQuestion',
-      name: `ENEM ${question.year} ${AREA_LABEL} — Questão ${question.number}`,
+      name: `Enem ${question.year} ${AREA_LABEL} — Questão ${question.number}`,
       identifier,
       url: canonicalUrl,
       mainEntityOfPage: canonicalUrl,
       inLanguage: 'pt-BR',
       educationalLevel: 'Ensino Médio',
       learningResourceType: 'Questão de prova',
-      about: [AREA_SHORT, 'ENEM'],
+      about: [AREA_SHORT, 'Enem'],
       text: text || undefined,
       isAccessibleForFree: true,
       acceptedAnswer,
       isPartOf: {
         '@type': 'LearningResource',
-        name: `ENEM ${question.year} — ${AREA_LABEL}`,
+        name: `Enem ${question.year} — ${AREA_LABEL}`,
         url: `${SITE_URL}/enem/${question.year}/${AREA_CODE}.html`
       },
       additionalProperty: props.length ? props : undefined,
@@ -262,13 +262,13 @@ const buildJsonLd = (question, entries, canonicalUrl, questionJsonUrl, correctAn
         {
           '@type': 'ListItem',
           position: 1,
-          name: 'ENEM',
+          name: 'Enem',
           item: `${SITE_URL}/enem/`
         },
         {
           '@type': 'ListItem',
           position: 2,
-          name: `ENEM ${question.year} ${AREA_LABEL}`,
+          name: `Enem ${question.year} ${AREA_LABEL}`,
           item: `${SITE_URL}/enem/${question.year}/${AREA_CODE}.html`
         },
         {
@@ -687,7 +687,7 @@ const buildMarkdown = (question) => {
   const correctAnswer = getCanonicalAnswer(question)
   const solution = solutionsById[questionId]
   const description = buildMetaDescription(question, bookletEntries)
-  const title = `ENEM ${question.year} ${AREA_LABEL} — Questão ${question.number}`
+  const title = `Enem ${question.year} ${AREA_LABEL} — Questão ${question.number}`
   const jsonLd = buildJsonLd(
     question,
     bookletEntries,
@@ -746,7 +746,7 @@ const buildMarkdown = (question) => {
     }
   }
   lines.push('---', '')
-  lines.push(`# ENEM ${question.year} — ${AREA_LABEL} — Questão ${question.number}`, '')
+  lines.push(`# Enem ${question.year} — ${AREA_LABEL} — Questão ${question.number}`, '')
 
   const mappingLines = renderBookletMapping(question, bookletEntries)
   if (mappingLines.length) {

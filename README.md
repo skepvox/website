@@ -32,9 +32,9 @@ pnpm preview
 See `docs/pipelines.md` for how local extraction projects feed content into `src/`.
 Book ingestion, naming, and SEO rules live in `docs/books-workflow.md`.
 
-## ENEM data
+## Enem data
 
-Publish ENEM data from the pipeline into `src/public/enem/{year}/`:
+Publish Enem data from the pipeline into `src/public/enem/{year}/`:
 
 ```bash
 pnpm publish:enem -- --year 2025

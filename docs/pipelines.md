@@ -1,6 +1,6 @@
 # Content Pipelines
 
-This repo contains the VitePress site in `src/`. The ENEM pipeline lives at the repo root and is git-ignored so we can iterate on data without committing it.
+This repo contains the VitePress site in `src/`. The Enem pipeline lives at the repo root and is git-ignored so we can iterate on data without committing it.
 
 ## Demos pipelines (`/demos`)
 
@@ -12,9 +12,9 @@ The `/demos/mapa` page consumes prebuilt graph data generated from the Markdown 
 - Output: `src/public/demos-data/graph.json`, `src/public/demos-data/subgraphs/`, `src/public/demos-data/notes-meta/`, and `src/public/demos-data/notes.jsonl`
 - Note: the exporter is conservative: it only emits `person ↔ person` edges for `family`, and does not emit “mentions/link” edges.
 
-## ENEM extraction pipeline (`pipeline-enem-extraction/`)
+## Enem extraction pipeline (`pipeline-enem-extraction/`)
 
-Purpose: extract ENEM PDF exams into structured JSON plus assets for rendering questions.
+Purpose: extract Enem PDF exams into structured JSON plus assets for rendering questions.
 
 Flow:
 - Inputs: `pipeline-enem-extraction/raw/{year}/` (PDFs).
@@ -39,7 +39,7 @@ Suggested manual-fix workflow:
 3) Apply fixes in `adjusted/` (text, assets, tables, charts).
 4) Either overlay `adjusted/` onto `processed/` and run `pnpm publish:enem -- --year {year}`, or copy `adjusted/` into `src/public/enem/{year}/` manually.
 
-## ENEM site publishing workflow
+## Enem site publishing workflow
 
 Use this when moving adjusted data into the website and generating pages.
 
@@ -53,7 +53,7 @@ Use this when moving adjusted data into the website and generating pages.
    (see `docs/enem-solutions.md`).
 5) Generate or refresh leaves:
    - `node scripts/generate-enem-question-pages.js --year {year} --area {area} --label "{Área completa}" --short "{Área curta}"`
-6) Update the ENEM sidebar group in `.vitepress/config.ts` if new areas were added.
+6) Update the Enem sidebar group in `.vitepress/config.ts` if new areas were added.
 7) Update `.vitepress/theme/enem/types.ts` and `src/enem/index.md` when adding
    a new area slug.
 8) Add alias redirects in `vercel.json` (see `docs/seo-strategy.md`).
@@ -63,7 +63,7 @@ Notes:
 
 ### Booklet mapping
 
-ENEM exams are distributed in multiple colored booklets (cadernos) with identical questions in different orders. We extract from the verde (green) booklet as the canonical reference, then map question positions across all booklet colors.
+Enem exams are distributed in multiple colored booklets (cadernos) with identical questions in different orders. We extract from the verde (green) booklet as the canonical reference, then map question positions across all booklet colors.
 
 Booklet structure:
 - Day 1: CD1 (azul), CD2 (amarelo), CD3 (branco), CD4 (verde)

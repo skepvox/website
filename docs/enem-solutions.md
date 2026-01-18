@@ -1,11 +1,11 @@
-# ENEM Solutions — Assumptions and Conventions
+# Enem Solutions — Assumptions and Conventions
 
-This document defines the writing rules, assumptions, and structure for ENEM
+This document defines the writing rules, assumptions, and structure for Enem
 question solutions in this repository.
 
 ## Scope
 
-- Applies to ENEM 2025 Mathematics (questions 136–180) and Ciências da Natureza
+- Applies to Enem 2025 Mathematics (questions 136–180) and Ciências da Natureza
   (questions 91–135).
 - Solutions are written to be beginner-friendly and self-contained.
 - We assume the reader does not know the formulas used in the solution.

@@ -112,7 +112,7 @@ export const sidebar: ThemeConfig['sidebar'] = {
 
   '/enem-sandbox/': [
     {
-      text: 'ENEM Sandbox 2025',
+      text: 'Enem Sandbox 2025',
       items: [
         { text: 'Linguagens', link: '/enem-sandbox/2025/linguagens' },
         { text: 'Humanas', link: '/enem-sandbox/2025/humanas' },
@@ -123,7 +123,7 @@ export const sidebar: ThemeConfig['sidebar'] = {
   ],
   '/enem/': [
     {
-      text: 'ENEM 2025 · Caderno Verde',
+      text: 'Enem 2025 · Caderno Verde',
       items: [
         { text: 'Ciências da Natureza', link: '/enem/2025/ciencias-da-natureza' },
         { text: 'Matemática', link: '/enem/2025/matematica' }

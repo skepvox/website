@@ -1,4 +1,4 @@
-# Vercel SEO Testing Checklist (ENEM 2025)
+# Vercel SEO Testing Checklist (Enem 2025)
 
 Use this guide to validate redirects, canonical URLs, and sitemap behavior
 after a Vercel deployment.

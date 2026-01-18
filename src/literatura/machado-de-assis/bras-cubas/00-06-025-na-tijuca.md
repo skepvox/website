@@ -1,0 +1,157 @@
+---
+title: "Memórias póstumas de Brás Cubas — 025 — Na Tijuca"
+description: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 025 — Na Tijuca."
+sidebar: false
+aside: false
+footer: false
+outline: false
+book: "Memórias póstumas de Brás Cubas"
+author: "Machado de Assis"
+language: "pt-BR"
+chapter-id: "00-06-025"
+part-number: "06"
+chapter-title: "025 — Na Tijuca"
+head:
+  - - link
+    - rel: canonical
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-025-na-tijuca.html"
+  - - meta
+    - name: description
+      content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 025 — Na Tijuca."
+  - - meta
+    - property: og:title
+      content: "Memórias póstumas de Brás Cubas — 025 — Na Tijuca"
+  - - meta
+    - property: og:description
+      content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 025 — Na Tijuca."
+  - - meta
+    - property: og:url
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-025-na-tijuca.html"
+  - - meta
+    - property: og:type
+      content: article
+  - - meta
+    - property: og:image
+      content: "https://skepvox.com/images/authors/machado-de-assis.png"
+  - - meta
+    - property: og:image:alt
+      content: "Machado de Assis"
+  - - meta
+    - name: twitter:card
+      content: summary
+  - - meta
+    - name: twitter:title
+      content: "Memórias póstumas de Brás Cubas — 025 — Na Tijuca"
+  - - meta
+    - name: twitter:description
+      content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 025 — Na Tijuca."
+  - - meta
+    - name: twitter:image
+      content: "https://skepvox.com/images/authors/machado-de-assis.png"
+  - - meta
+    - name: twitter:image:alt
+      content: "Machado de Assis"
+  - - script
+    - type: application/ld+json
+    - |
+      {
+        "@context": "https://schema.org",
+        "@type": "Chapter",
+        "name": "025 — Na Tijuca",
+        "identifier": "00-06-025",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-025-na-tijuca.html",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-025-na-tijuca.html",
+        "inLanguage": "pt-BR",
+        "isAccessibleForFree": true,
+        "author": {
+          "@type": "Person",
+          "name": "Machado de Assis"
+        },
+        "isPartOf": {
+          "@type": "Book",
+          "name": "Memórias póstumas de Brás Cubas",
+          "author": {
+            "@type": "Person",
+            "name": "Machado de Assis"
+          },
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+        },
+        "image": "https://skepvox.com/images/authors/machado-de-assis.png",
+        "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 025 — Na Tijuca.",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "chapter-number",
+            "value": "25"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "chapter-id",
+            "value": "00-06-025"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "part-number",
+            "value": "06"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "chapter-title",
+            "value": "025 — Na Tijuca"
+          }
+        ]
+      }
+  - - script
+    - type: application/ld+json
+    - |
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Machado de Assis",
+            "item": "https://skepvox.com/literatura/machado-de-assis/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Memórias póstumas de Brás Cubas",
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "025 — Na Tijuca",
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-025-na-tijuca.html"
+          }
+        ]
+      }
+---
+
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+
+## 025 — Na Tijuca
+
+Ui! Lá me ia a pena a escorregar para o enfático. Sejamos simples, como era simples a vida que levei na Tijuca, durante as primeiras semanas depois da morte de minha mãe.
+
+No sétimo dia, acabada a missa fúnebre, travei de uma espingarda, alguns livros, roupa, charutos, um moleque - o Prudêncio do capítulo XI -, e fui meter-me numa velha casa de nossa propriedade. Meu pai forcejou por me torcer a resolução, mas eu é que não podia nem queria obedecer-lhe. Sabina desejava que eu fosse morar com ela algum tempo, duas semanas, ao menos; meu cunhado esteve a ponto de me levar à fina força. Era um bom rapaz este Cotrim; passara de estroina a circunspecto. Agora comerciava em gêneros de estiva, labutava de manhã até à noite, com ardor, com perseverança. De noite, sentado à janela, a encaracolar as suíças, não pensava em outra cousa. Amava a mulher e um filho, que então tinha, e que lhe morreu alguns anos depois. Diziam que era avaro.
+
+Renunciei tudo; tinha o espírito atônito. Creio que por então é que começou a desabotoar em mim a hipocondria, essa flor amarela, solitária e mórbida, de um cheiro inebriante e subtil. "Que bom que é estar triste e não dizer cousa nenhuma!" Quando esta palavra de Shakespeare me chamou a atenção, confesso que senti em mim um eco, um eco delicioso. Lembra-me que estava sentado, debaixo de um tamarineiro, com o livro do poeta aberto nas mãos e o espírito ainda mais cabisbaixo do que a figura - ou jururu, como dizemos das galinhas tristes. Apertava ao peito a minha dor taciturna, com uma sensação única, uma cousa a que poderia chamar volúpia do aborrecimento. Volúpia do aborrecimento: decora esta expressão, leitor; guarda-a, examina-a, e se não chegares a entendê-la, podes concluir que ignoras uma das sensações mais subtis desse mundo e daquele tempo.
+
+Às vezes caçava, outras dormia, outras lia - lia muito -, outras enfim não fazia nada; deixava-me atoar de ideia em ideia, de imaginação em imaginação, como uma borboleta vadia ou faminta. As horas iam pingando uma a uma, o sol caía, as sombras da noite velavam a montanha e a cidade. Ninguém me visitava; recomendei expressamente que me deixassem só. Um dia, dous dias, três dias, uma semana inteira passada assim, sem dizer palavra, era bastante para sacudir-me da Tijuca fora e restituir-me ao bulício. Com efeito, ao cabo de sete dias, estava farto da solidão; a dor aplacara; o espírito já se não contentava com o uso da espingarda e dos livros, nem com a vista do arvoredo e do céu. Reagia a mocidade, era preciso viver. Meti no baú o problema da vida e da morte, os hipocondríacos do poeta, as camisas, as meditações, as gravatas, e ia fechá-lo quando o moleque Prudêncio me disse que uma pessoa do meu conhecimento se mudara na véspera para uma casa roxa, situada a duzentos passos da nossa.
+
+— Quem?
+
+— Nhonhô talvez não se lembre mais de D. Eusébia...
+
+— Lembra-me... É ela?
+
+— Ela e a filha. Vieram ontem de manhã.
+
+Ocorreu-me logo o episódio de 1814, e senti-me vexado; mas adverti que os acontecimentos tinham-me dado razão. Na verdade, fora impossível evitar as relações íntimas do Vilaça com a irmã do sargento-mor; antes mesmo do meu embarque, já se boquejava misteriosamente no nascimento de uma menina. Meu tio João mandou-me dizer depois que o Vilaça, ao morrer, deixara um bom legado a D. Eusébia, cousa que deu muito que falar em todo o bairro. O próprio tio João, guloso de escândalos, não tratou de outro assunto na carta, aliás de muitas folhas. Tinham-me dado razão os acontecimentos. Ainda porém que ma não dessem, 1814 lá ia longe, e, com ele, a travessura, e o Vilaça, e o beijo da moita; finalmente, nenhumas relações estreitas existiam entre mim e ela. Fiz comigo essa reflexão e acabei de fechar o baú.
+
+— Nhonhô não vai visitar sinhá D. Eusébia? - perguntou-me o Prudêncio. - Foi ela quem vestiu o corpo da minha defunta senhora.
+
+Lembrei-me que a vira, entre outras senhoras, por ocasião da morte e do enterro; ignorava porém que ela houvesse prestado a minha mãe esse derradeiro obséquio. A ponderação do moleque era razoável; eu devia-lhe uma visita; determinei fazê-la imediatamente e descer.

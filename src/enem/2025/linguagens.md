@@ -1,10 +1,10 @@
 ---
-title: ENEM 2025 — Linguagens
+title: Enem 2025 — Linguagens
 outline: [2, 3]
 sitemap: false
 ---
 
-# ENEM 2025 — Linguagens
+# Enem 2025 — Linguagens
 
 Língua Portuguesa, Literatura e Língua Estrangeira (Inglês).
 

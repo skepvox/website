@@ -1,9 +1,1702 @@
 ---
-title: Esaú e Jacó — Machado de Assis
+title: "Esaú e Jacó — Machado de Assis"
+description: "Texto integral de Esaú e Jacó, de Machado de Assis, com capítulos separados para leitura."
 outline: 2
+head:
+  - - link
+    - rel: canonical
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+  - - meta
+    - name: description
+      content: "Texto integral de Esaú e Jacó, de Machado de Assis, com capítulos separados para leitura."
+  - - meta
+    - property: og:title
+      content: "Esaú e Jacó — Machado de Assis"
+  - - meta
+    - property: og:description
+      content: "Texto integral de Esaú e Jacó, de Machado de Assis, com capítulos separados para leitura."
+  - - meta
+    - property: og:url
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+  - - meta
+    - property: og:type
+      content: book
+  - - meta
+    - property: og:image
+      content: "https://skepvox.com/images/authors/machado-de-assis.png"
+  - - meta
+    - property: og:image:alt
+      content: "Machado de Assis"
+  - - meta
+    - name: twitter:card
+      content: summary
+  - - meta
+    - name: twitter:title
+      content: "Esaú e Jacó — Machado de Assis"
+  - - meta
+    - name: twitter:description
+      content: "Texto integral de Esaú e Jacó, de Machado de Assis, com capítulos separados para leitura."
+  - - meta
+    - name: twitter:image
+      content: "https://skepvox.com/images/authors/machado-de-assis.png"
+  - - meta
+    - name: twitter:image:alt
+      content: "Machado de Assis"
+  - - script
+    - type: application/ld+json
+    - |
+      {
+        "@context": "https://schema.org",
+        "@type": "Book",
+        "name": "Esaú e Jacó",
+        "author": {
+          "@type": "Person",
+          "name": "Machado de Assis"
+        },
+        "inLanguage": "pt-BR",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html",
+        "description": "Texto integral de Esaú e Jacó, de Machado de Assis, com capítulos separados para leitura.",
+        "image": "https://skepvox.com/images/authors/machado-de-assis.png",
+        "hasPart": [
+          {
+            "@type": "Chapter",
+            "name": "Advertência",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-01-001-advertencia.html",
+            "identifier": "00-01-001"
+          },
+          {
+            "@type": "Chapter",
+            "name": "001 — Coisas Futuras!",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-001-coisas-futuras.html",
+            "identifier": "00-02-001"
+          },
+          {
+            "@type": "Chapter",
+            "name": "002 — Melhor de Descer que de Subir",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-002-melhor-de-descer-que-de-subir.html",
+            "identifier": "00-02-002"
+          },
+          {
+            "@type": "Chapter",
+            "name": "003 — A Esmola da Felicidade",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-003-a-esmola-da-felicidade.html",
+            "identifier": "00-02-003"
+          },
+          {
+            "@type": "Chapter",
+            "name": "004 — A Missa do Coupé",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-004-a-missa-do-coupe.html",
+            "identifier": "00-02-004"
+          },
+          {
+            "@type": "Chapter",
+            "name": "005 — Há Contradições Explicáveis",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-005-ha-contradicoes-explicaveis.html",
+            "identifier": "00-02-005"
+          },
+          {
+            "@type": "Chapter",
+            "name": "006 — Maternidade",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-006-maternidade.html",
+            "identifier": "00-02-006"
+          },
+          {
+            "@type": "Chapter",
+            "name": "007 — Gestação",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-007-gestacao.html",
+            "identifier": "00-02-007"
+          },
+          {
+            "@type": "Chapter",
+            "name": "008 — Nem Casal, nem General",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-008-nem-casal-nem-general.html",
+            "identifier": "00-02-008"
+          },
+          {
+            "@type": "Chapter",
+            "name": "009 — Vista de Palácio",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-009-vista-de-palacio.html",
+            "identifier": "00-02-009"
+          },
+          {
+            "@type": "Chapter",
+            "name": "010 — O Juramento",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-010-o-juramento.html",
+            "identifier": "00-02-010"
+          },
+          {
+            "@type": "Chapter",
+            "name": "011 — Um Caso Único!",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-011-um-caso-unico.html",
+            "identifier": "00-03-011"
+          },
+          {
+            "@type": "Chapter",
+            "name": "012 — Esse Aires",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-012-esse-aires.html",
+            "identifier": "00-03-012"
+          },
+          {
+            "@type": "Chapter",
+            "name": "013 — A Epígrafe",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-013-a-epigrafe.html",
+            "identifier": "00-03-013"
+          },
+          {
+            "@type": "Chapter",
+            "name": "014 — A Lição do Discípulo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-014-a-licao-do-discipulo.html",
+            "identifier": "00-03-014"
+          },
+          {
+            "@type": "Chapter",
+            "name": "015 — Teste David Cum Sibylla",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-015-teste-david-cum-sibylla.html",
+            "identifier": "00-03-015"
+          },
+          {
+            "@type": "Chapter",
+            "name": "016 — Paternalismo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-016-paternalismo.html",
+            "identifier": "00-03-016"
+          },
+          {
+            "@type": "Chapter",
+            "name": "017 — Tudo o que Restrinjo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-017-tudo-o-que-restrinjo.html",
+            "identifier": "00-03-017"
+          },
+          {
+            "@type": "Chapter",
+            "name": "018 — De como Vieram Crescendo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-018-de-como-vieram-crescendo.html",
+            "identifier": "00-03-018"
+          },
+          {
+            "@type": "Chapter",
+            "name": "019 — Apenas Duas. - Quarenta Anos. - Terceira Causa",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-019-apenas-duas-quarenta-anos-terceira-causa.html",
+            "identifier": "00-03-019"
+          },
+          {
+            "@type": "Chapter",
+            "name": "020 — A Joia",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-020-a-joia.html",
+            "identifier": "00-03-020"
+          },
+          {
+            "@type": "Chapter",
+            "name": "021 — Um Ponto Escuro",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-021-um-ponto-escuro.html",
+            "identifier": "00-04-021"
+          },
+          {
+            "@type": "Chapter",
+            "name": "022 — Agora um Salto",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-022-agora-um-salto.html",
+            "identifier": "00-04-022"
+          },
+          {
+            "@type": "Chapter",
+            "name": "023 — Quando Tiverem Barbas",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-023-quando-tiverem-barbas.html",
+            "identifier": "00-04-023"
+          },
+          {
+            "@type": "Chapter",
+            "name": "024 — Robespierre e Luís XVI",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-024-robespierre-e-luis-xvi.html",
+            "identifier": "00-04-024"
+          },
+          {
+            "@type": "Chapter",
+            "name": "025 — D. Miguel",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-025-d-miguel.html",
+            "identifier": "00-04-025"
+          },
+          {
+            "@type": "Chapter",
+            "name": "026 — A Luta dos Retratos",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-026-a-luta-dos-retratos.html",
+            "identifier": "00-04-026"
+          },
+          {
+            "@type": "Chapter",
+            "name": "027 — De uma Reflexão Intempestiva",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-027-de-uma-reflexao-intempestiva.html",
+            "identifier": "00-04-027"
+          },
+          {
+            "@type": "Chapter",
+            "name": "028 — O Resto É Certo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-028-o-resto-e-certo.html",
+            "identifier": "00-04-028"
+          },
+          {
+            "@type": "Chapter",
+            "name": "029 — A Pessoa Mais Moça",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-029-a-pessoa-mais-moca.html",
+            "identifier": "00-04-029"
+          },
+          {
+            "@type": "Chapter",
+            "name": "030 — A Gente Batista",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-030-a-gente-batista.html",
+            "identifier": "00-04-030"
+          },
+          {
+            "@type": "Chapter",
+            "name": "031 — Flora",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-031-flora.html",
+            "identifier": "00-05-031"
+          },
+          {
+            "@type": "Chapter",
+            "name": "032 — O Aposentado",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-032-o-aposentado.html",
+            "identifier": "00-05-032"
+          },
+          {
+            "@type": "Chapter",
+            "name": "033 — A Solidão Também Cansa",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-033-a-solidao-tambem-cansa.html",
+            "identifier": "00-05-033"
+          },
+          {
+            "@type": "Chapter",
+            "name": "034 — Inexplicável",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-034-inexplicavel.html",
+            "identifier": "00-05-034"
+          },
+          {
+            "@type": "Chapter",
+            "name": "035 — Em Volta da Moça",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-035-em-volta-da-moca.html",
+            "identifier": "00-05-035"
+          },
+          {
+            "@type": "Chapter",
+            "name": "036 — A Discórdia Não É Tão Feia como se Pinta",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-036-a-discordia-nao-e-tao-feia-como-se-pinta.html",
+            "identifier": "00-05-036"
+          },
+          {
+            "@type": "Chapter",
+            "name": "037 — Desacordo no Acordo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-037-desacordo-no-acordo.html",
+            "identifier": "00-05-037"
+          },
+          {
+            "@type": "Chapter",
+            "name": "038 — Chegada a Propósito",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-038-chegada-a-proposito.html",
+            "identifier": "00-05-038"
+          },
+          {
+            "@type": "Chapter",
+            "name": "039 — Um Gatuno",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-039-um-gatuno.html",
+            "identifier": "00-05-039"
+          },
+          {
+            "@type": "Chapter",
+            "name": "040 — Recuerdos",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-040-recuerdos.html",
+            "identifier": "00-05-040"
+          },
+          {
+            "@type": "Chapter",
+            "name": "041 — Caso do Burro",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-06-041-caso-do-burro.html",
+            "identifier": "00-06-041"
+          },
+          {
+            "@type": "Chapter",
+            "name": "042 — Uma Hipótese",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-06-042-uma-hipotese.html",
+            "identifier": "00-06-042"
+          },
+          {
+            "@type": "Chapter",
+            "name": "043 — O Discurso",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-06-043-o-discurso.html",
+            "identifier": "00-06-043"
+          },
+          {
+            "@type": "Chapter",
+            "name": "044 — O Salmão",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-06-044-o-salmao.html",
+            "identifier": "00-06-044"
+          },
+          {
+            "@type": "Chapter",
+            "name": "045 — Musa, Canta...",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-06-045-musa-canta.html",
+            "identifier": "00-06-045"
+          },
+          {
+            "@type": "Chapter",
+            "name": "046 — Entre um Ato e Outro",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-06-046-entre-um-ato-e-outro.html",
+            "identifier": "00-06-046"
+          },
+          {
+            "@type": "Chapter",
+            "name": "047 — S. Mateus, IV, 1-10",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-06-047-s-mateus-iv-1-10.html",
+            "identifier": "00-06-047"
+          },
+          {
+            "@type": "Chapter",
+            "name": "048 — Terpsícore",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-06-048-terpsicore.html",
+            "identifier": "00-06-048"
+          },
+          {
+            "@type": "Chapter",
+            "name": "049 — Tabuleta Velha",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-06-049-tabuleta-velha.html",
+            "identifier": "00-06-049"
+          },
+          {
+            "@type": "Chapter",
+            "name": "050 — O Tinteiro de Evaristo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-06-050-o-tinteiro-de-evaristo.html",
+            "identifier": "00-06-050"
+          },
+          {
+            "@type": "Chapter",
+            "name": "051 — Aqui Presente",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-051-aqui-presente.html",
+            "identifier": "00-07-051"
+          },
+          {
+            "@type": "Chapter",
+            "name": "052 — Um Segredo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-052-um-segredo.html",
+            "identifier": "00-07-052"
+          },
+          {
+            "@type": "Chapter",
+            "name": "053 — De Confidências",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-053-de-confidencias.html",
+            "identifier": "00-07-053"
+          },
+          {
+            "@type": "Chapter",
+            "name": "054 — Enfim, Só!",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-054-enfim-so.html",
+            "identifier": "00-07-054"
+          },
+          {
+            "@type": "Chapter",
+            "name": "055 — \"A Mulher É a Desolação do Homem",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-055-a-mulher-e-a-desolacao-do-homem.html",
+            "identifier": "00-07-055"
+          },
+          {
+            "@type": "Chapter",
+            "name": "056 — O Golpe",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-056-o-golpe.html",
+            "identifier": "00-07-056"
+          },
+          {
+            "@type": "Chapter",
+            "name": "057 — Das Encomendas",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-057-das-encomendas.html",
+            "identifier": "00-07-057"
+          },
+          {
+            "@type": "Chapter",
+            "name": "058 — Matar Saudades",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-058-matar-saudades.html",
+            "identifier": "00-07-058"
+          },
+          {
+            "@type": "Chapter",
+            "name": "059 — Noite de 14",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-059-noite-de-14.html",
+            "identifier": "00-07-059"
+          },
+          {
+            "@type": "Chapter",
+            "name": "060 — Manhã de 15",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-060-manha-de-15.html",
+            "identifier": "00-07-060"
+          },
+          {
+            "@type": "Chapter",
+            "name": "061 — Lendo Xenofonte",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-061-lendo-xenofonte.html",
+            "identifier": "00-08-061"
+          },
+          {
+            "@type": "Chapter",
+            "name": "062 — \"Pare no D.",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-062-pare-no-d.html",
+            "identifier": "00-08-062"
+          },
+          {
+            "@type": "Chapter",
+            "name": "063 — Tabuleta Nova",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-063-tabuleta-nova.html",
+            "identifier": "00-08-063"
+          },
+          {
+            "@type": "Chapter",
+            "name": "064 — Paz!",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-064-paz.html",
+            "identifier": "00-08-064"
+          },
+          {
+            "@type": "Chapter",
+            "name": "065 — Entre os Filhos",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-065-entre-os-filhos.html",
+            "identifier": "00-08-065"
+          },
+          {
+            "@type": "Chapter",
+            "name": "066 — O Basto e a Espadilha",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-066-o-basto-e-a-espadilha.html",
+            "identifier": "00-08-066"
+          },
+          {
+            "@type": "Chapter",
+            "name": "067 — A Noite Inteira",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-067-a-noite-inteira.html",
+            "identifier": "00-08-067"
+          },
+          {
+            "@type": "Chapter",
+            "name": "068 — De Manhã",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-068-de-manha.html",
+            "identifier": "00-08-068"
+          },
+          {
+            "@type": "Chapter",
+            "name": "069 — Ao Piano",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-069-ao-piano.html",
+            "identifier": "00-08-069"
+          },
+          {
+            "@type": "Chapter",
+            "name": "070 — De uma Conclusão Errada",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-070-de-uma-conclusao-errada.html",
+            "identifier": "00-08-070"
+          },
+          {
+            "@type": "Chapter",
+            "name": "071 — A Comissão",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-071-a-comissao.html",
+            "identifier": "00-09-071"
+          },
+          {
+            "@type": "Chapter",
+            "name": "072 — O Regresso",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-072-o-regresso.html",
+            "identifier": "00-09-072"
+          },
+          {
+            "@type": "Chapter",
+            "name": "073 — Um Eldorado",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-073-um-eldorado.html",
+            "identifier": "00-09-073"
+          },
+          {
+            "@type": "Chapter",
+            "name": "074 — A Alusão do Texto",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-074-a-alusao-do-texto.html",
+            "identifier": "00-09-074"
+          },
+          {
+            "@type": "Chapter",
+            "name": "075 — Provérbio Errado",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-075-proverbio-errado.html",
+            "identifier": "00-09-075"
+          },
+          {
+            "@type": "Chapter",
+            "name": "076 — Talvez Fosse a Mesma!",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-076-talvez-fosse-a-mesma.html",
+            "identifier": "00-09-076"
+          },
+          {
+            "@type": "Chapter",
+            "name": "077 — Hospedagem",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-077-hospedagem.html",
+            "identifier": "00-09-077"
+          },
+          {
+            "@type": "Chapter",
+            "name": "078 — Visita ao Marechal",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-078-visita-ao-marechal.html",
+            "identifier": "00-09-078"
+          },
+          {
+            "@type": "Chapter",
+            "name": "079 — Fusão, Difusão, Confusão...",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-079-fusao-difusao-confusao.html",
+            "identifier": "00-09-079"
+          },
+          {
+            "@type": "Chapter",
+            "name": "080 — Transfusão, Enfim",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-080-transfusao-enfim.html",
+            "identifier": "00-09-080"
+          },
+          {
+            "@type": "Chapter",
+            "name": "081 — Ai, Duas Almas...",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-081-ai-duas-almas.html",
+            "identifier": "00-10-081"
+          },
+          {
+            "@type": "Chapter",
+            "name": "082 — Em S. Clemente",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-082-em-s-clemente.html",
+            "identifier": "00-10-082"
+          },
+          {
+            "@type": "Chapter",
+            "name": "083 — A Grande Noite",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-083-a-grande-noite.html",
+            "identifier": "00-10-083"
+          },
+          {
+            "@type": "Chapter",
+            "name": "084 — O Velho Segredo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-084-o-velho-segredo.html",
+            "identifier": "00-10-084"
+          },
+          {
+            "@type": "Chapter",
+            "name": "085 — Três Constituições",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-085-tres-constituicoes.html",
+            "identifier": "00-10-085"
+          },
+          {
+            "@type": "Chapter",
+            "name": "086 — Antes que Me Esqueça",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-086-antes-que-me-esqueca.html",
+            "identifier": "00-10-086"
+          },
+          {
+            "@type": "Chapter",
+            "name": "087 — Entre Aires e Flora",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-087-entre-aires-e-flora.html",
+            "identifier": "00-10-087"
+          },
+          {
+            "@type": "Chapter",
+            "name": "088 — Não, Não, Não",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-088-nao-nao-nao.html",
+            "identifier": "00-10-088"
+          },
+          {
+            "@type": "Chapter",
+            "name": "089 — O Dragão",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-089-o-dragao.html",
+            "identifier": "00-10-089"
+          },
+          {
+            "@type": "Chapter",
+            "name": "090 — O Ajuste",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-090-o-ajuste.html",
+            "identifier": "00-10-090"
+          },
+          {
+            "@type": "Chapter",
+            "name": "091 — Nem Só a Verdade se Deve às Mães",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-091-nem-so-a-verdade-se-deve-as-maes.html",
+            "identifier": "00-11-091"
+          },
+          {
+            "@type": "Chapter",
+            "name": "092 — Segredo Acordado",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-092-segredo-acordado.html",
+            "identifier": "00-11-092"
+          },
+          {
+            "@type": "Chapter",
+            "name": "093 — Não Ata Nem Desata",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-093-nao-ata-nem-desata.html",
+            "identifier": "00-11-093"
+          },
+          {
+            "@type": "Chapter",
+            "name": "094 — Gestos Opostos",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-094-gestos-opostos.html",
+            "identifier": "00-11-094"
+          },
+          {
+            "@type": "Chapter",
+            "name": "095 — O Terceiro",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-095-o-terceiro.html",
+            "identifier": "00-11-095"
+          },
+          {
+            "@type": "Chapter",
+            "name": "096 — Retraimento",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-096-retraimento.html",
+            "identifier": "00-11-096"
+          },
+          {
+            "@type": "Chapter",
+            "name": "097 — Um Cristo Particular",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-097-um-cristo-particular.html",
+            "identifier": "00-11-097"
+          },
+          {
+            "@type": "Chapter",
+            "name": "098 — O Médico Aires",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-098-o-medico-aires.html",
+            "identifier": "00-11-098"
+          },
+          {
+            "@type": "Chapter",
+            "name": "099 — A Título de Ares Novos",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-099-a-titulo-de-ares-novos.html",
+            "identifier": "00-11-099"
+          },
+          {
+            "@type": "Chapter",
+            "name": "100 — Duas Cabeças",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-100-duas-cabecas.html",
+            "identifier": "00-11-100"
+          },
+          {
+            "@type": "Chapter",
+            "name": "101 — O Caso Embrulhado",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-101-o-caso-embrulhado.html",
+            "identifier": "00-12-101"
+          },
+          {
+            "@type": "Chapter",
+            "name": "102 — Visão Pede Meia Sombra",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-102-visao-pede-meia-sombra.html",
+            "identifier": "00-12-102"
+          },
+          {
+            "@type": "Chapter",
+            "name": "103 — O Quarto",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-103-o-quarto.html",
+            "identifier": "00-12-103"
+          },
+          {
+            "@type": "Chapter",
+            "name": "104 — A Resposta",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-104-a-resposta.html",
+            "identifier": "00-12-104"
+          },
+          {
+            "@type": "Chapter",
+            "name": "105 — A Realidade",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-105-a-realidade.html",
+            "identifier": "00-12-105"
+          },
+          {
+            "@type": "Chapter",
+            "name": "106 — Ambos Quais?",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-106-ambos-quais.html",
+            "identifier": "00-12-106"
+          },
+          {
+            "@type": "Chapter",
+            "name": "107 — Estado de Sítio",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-107-estado-de-sitio.html",
+            "identifier": "00-12-107"
+          },
+          {
+            "@type": "Chapter",
+            "name": "108 — Velhas Cerimônias",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-108-velhas-cerimonias.html",
+            "identifier": "00-12-108"
+          },
+          {
+            "@type": "Chapter",
+            "name": "109 — Ao Pé da Cova",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-109-ao-pe-da-cova.html",
+            "identifier": "00-12-109"
+          },
+          {
+            "@type": "Chapter",
+            "name": "110 — Que Voa",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-110-que-voa.html",
+            "identifier": "00-12-110"
+          },
+          {
+            "@type": "Chapter",
+            "name": "111 — Um Resumo de Esperanças",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-111-um-resumo-de-esperancas.html",
+            "identifier": "00-13-111"
+          },
+          {
+            "@type": "Chapter",
+            "name": "112 — O Primeiro Mês",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-112-o-primeiro-mes.html",
+            "identifier": "00-13-112"
+          },
+          {
+            "@type": "Chapter",
+            "name": "113 — Uma Beatriz para Dois",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-113-uma-beatriz-para-dois.html",
+            "identifier": "00-13-113"
+          },
+          {
+            "@type": "Chapter",
+            "name": "114 — Consultório e Banca",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-114-consultorio-e-banca.html",
+            "identifier": "00-13-114"
+          },
+          {
+            "@type": "Chapter",
+            "name": "115 — Troca de Opiniões",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-115-troca-de-opinioes.html",
+            "identifier": "00-13-115"
+          },
+          {
+            "@type": "Chapter",
+            "name": "116 — De Regresso",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-116-de-regresso.html",
+            "identifier": "00-13-116"
+          },
+          {
+            "@type": "Chapter",
+            "name": "117 — Posse das Cadeiras",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-117-posse-das-cadeiras.html",
+            "identifier": "00-13-117"
+          },
+          {
+            "@type": "Chapter",
+            "name": "118 — Coisas Passadas, Coisas Futuras",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-118-coisas-passadas-coisas-futuras.html",
+            "identifier": "00-13-118"
+          },
+          {
+            "@type": "Chapter",
+            "name": "119 — Que Anuncia os Seguintes",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-119-que-anuncia-os-seguintes.html",
+            "identifier": "00-13-119"
+          },
+          {
+            "@type": "Chapter",
+            "name": "120 — Penúltimo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-120-penultimo.html",
+            "identifier": "00-13-120"
+          },
+          {
+            "@type": "Chapter",
+            "name": "121 — Último",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-14-121-ultimo.html",
+            "identifier": "00-14-121"
+          }
+        ]
+      }
+  - - script
+    - type: application/ld+json
+    - |
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "itemListOrder": "http://schema.org/ItemListOrderAscending",
+        "numberOfItems": 122,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Advertência",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-01-001-advertencia.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "001 — Coisas Futuras!",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-001-coisas-futuras.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "002 — Melhor de Descer que de Subir",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-002-melhor-de-descer-que-de-subir.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "003 — A Esmola da Felicidade",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-003-a-esmola-da-felicidade.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "004 — A Missa do Coupé",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-004-a-missa-do-coupe.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "005 — Há Contradições Explicáveis",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-005-ha-contradicoes-explicaveis.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "name": "006 — Maternidade",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-006-maternidade.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "name": "007 — Gestação",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-007-gestacao.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "name": "008 — Nem Casal, nem General",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-008-nem-casal-nem-general.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 10,
+            "name": "009 — Vista de Palácio",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-009-vista-de-palacio.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 11,
+            "name": "010 — O Juramento",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-010-o-juramento.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 12,
+            "name": "011 — Um Caso Único!",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-011-um-caso-unico.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 13,
+            "name": "012 — Esse Aires",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-012-esse-aires.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 14,
+            "name": "013 — A Epígrafe",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-013-a-epigrafe.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 15,
+            "name": "014 — A Lição do Discípulo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-014-a-licao-do-discipulo.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 16,
+            "name": "015 — Teste David Cum Sibylla",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-015-teste-david-cum-sibylla.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 17,
+            "name": "016 — Paternalismo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-016-paternalismo.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 18,
+            "name": "017 — Tudo o que Restrinjo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-017-tudo-o-que-restrinjo.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 19,
+            "name": "018 — De como Vieram Crescendo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-018-de-como-vieram-crescendo.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 20,
+            "name": "019 — Apenas Duas. - Quarenta Anos. - Terceira Causa",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-019-apenas-duas-quarenta-anos-terceira-causa.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 21,
+            "name": "020 — A Joia",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-020-a-joia.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 22,
+            "name": "021 — Um Ponto Escuro",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-021-um-ponto-escuro.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 23,
+            "name": "022 — Agora um Salto",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-022-agora-um-salto.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 24,
+            "name": "023 — Quando Tiverem Barbas",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-023-quando-tiverem-barbas.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 25,
+            "name": "024 — Robespierre e Luís XVI",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-024-robespierre-e-luis-xvi.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 26,
+            "name": "025 — D. Miguel",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-025-d-miguel.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 27,
+            "name": "026 — A Luta dos Retratos",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-026-a-luta-dos-retratos.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 28,
+            "name": "027 — De uma Reflexão Intempestiva",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-027-de-uma-reflexao-intempestiva.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 29,
+            "name": "028 — O Resto É Certo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-028-o-resto-e-certo.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 30,
+            "name": "029 — A Pessoa Mais Moça",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-029-a-pessoa-mais-moca.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 31,
+            "name": "030 — A Gente Batista",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-030-a-gente-batista.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 32,
+            "name": "031 — Flora",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-031-flora.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 33,
+            "name": "032 — O Aposentado",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-032-o-aposentado.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 34,
+            "name": "033 — A Solidão Também Cansa",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-033-a-solidao-tambem-cansa.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 35,
+            "name": "034 — Inexplicável",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-034-inexplicavel.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 36,
+            "name": "035 — Em Volta da Moça",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-035-em-volta-da-moca.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 37,
+            "name": "036 — A Discórdia Não É Tão Feia como se Pinta",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-036-a-discordia-nao-e-tao-feia-como-se-pinta.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 38,
+            "name": "037 — Desacordo no Acordo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-037-desacordo-no-acordo.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 39,
+            "name": "038 — Chegada a Propósito",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-038-chegada-a-proposito.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 40,
+            "name": "039 — Um Gatuno",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-039-um-gatuno.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 41,
+            "name": "040 — Recuerdos",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-040-recuerdos.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 42,
+            "name": "041 — Caso do Burro",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-06-041-caso-do-burro.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 43,
+            "name": "042 — Uma Hipótese",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-06-042-uma-hipotese.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 44,
+            "name": "043 — O Discurso",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-06-043-o-discurso.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 45,
+            "name": "044 — O Salmão",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-06-044-o-salmao.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 46,
+            "name": "045 — Musa, Canta...",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-06-045-musa-canta.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 47,
+            "name": "046 — Entre um Ato e Outro",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-06-046-entre-um-ato-e-outro.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 48,
+            "name": "047 — S. Mateus, IV, 1-10",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-06-047-s-mateus-iv-1-10.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 49,
+            "name": "048 — Terpsícore",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-06-048-terpsicore.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 50,
+            "name": "049 — Tabuleta Velha",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-06-049-tabuleta-velha.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 51,
+            "name": "050 — O Tinteiro de Evaristo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-06-050-o-tinteiro-de-evaristo.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 52,
+            "name": "051 — Aqui Presente",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-051-aqui-presente.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 53,
+            "name": "052 — Um Segredo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-052-um-segredo.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 54,
+            "name": "053 — De Confidências",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-053-de-confidencias.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 55,
+            "name": "054 — Enfim, Só!",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-054-enfim-so.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 56,
+            "name": "055 — \"A Mulher É a Desolação do Homem",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-055-a-mulher-e-a-desolacao-do-homem.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 57,
+            "name": "056 — O Golpe",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-056-o-golpe.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 58,
+            "name": "057 — Das Encomendas",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-057-das-encomendas.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 59,
+            "name": "058 — Matar Saudades",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-058-matar-saudades.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 60,
+            "name": "059 — Noite de 14",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-059-noite-de-14.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 61,
+            "name": "060 — Manhã de 15",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-060-manha-de-15.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 62,
+            "name": "061 — Lendo Xenofonte",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-061-lendo-xenofonte.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 63,
+            "name": "062 — \"Pare no D.",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-062-pare-no-d.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 64,
+            "name": "063 — Tabuleta Nova",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-063-tabuleta-nova.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 65,
+            "name": "064 — Paz!",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-064-paz.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 66,
+            "name": "065 — Entre os Filhos",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-065-entre-os-filhos.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 67,
+            "name": "066 — O Basto e a Espadilha",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-066-o-basto-e-a-espadilha.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 68,
+            "name": "067 — A Noite Inteira",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-067-a-noite-inteira.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 69,
+            "name": "068 — De Manhã",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-068-de-manha.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 70,
+            "name": "069 — Ao Piano",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-069-ao-piano.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 71,
+            "name": "070 — De uma Conclusão Errada",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-070-de-uma-conclusao-errada.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 72,
+            "name": "071 — A Comissão",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-071-a-comissao.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 73,
+            "name": "072 — O Regresso",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-072-o-regresso.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 74,
+            "name": "073 — Um Eldorado",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-073-um-eldorado.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 75,
+            "name": "074 — A Alusão do Texto",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-074-a-alusao-do-texto.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 76,
+            "name": "075 — Provérbio Errado",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-075-proverbio-errado.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 77,
+            "name": "076 — Talvez Fosse a Mesma!",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-076-talvez-fosse-a-mesma.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 78,
+            "name": "077 — Hospedagem",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-077-hospedagem.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 79,
+            "name": "078 — Visita ao Marechal",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-078-visita-ao-marechal.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 80,
+            "name": "079 — Fusão, Difusão, Confusão...",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-079-fusao-difusao-confusao.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 81,
+            "name": "080 — Transfusão, Enfim",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-080-transfusao-enfim.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 82,
+            "name": "081 — Ai, Duas Almas...",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-081-ai-duas-almas.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 83,
+            "name": "082 — Em S. Clemente",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-082-em-s-clemente.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 84,
+            "name": "083 — A Grande Noite",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-083-a-grande-noite.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 85,
+            "name": "084 — O Velho Segredo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-084-o-velho-segredo.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 86,
+            "name": "085 — Três Constituições",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-085-tres-constituicoes.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 87,
+            "name": "086 — Antes que Me Esqueça",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-086-antes-que-me-esqueca.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 88,
+            "name": "087 — Entre Aires e Flora",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-087-entre-aires-e-flora.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 89,
+            "name": "088 — Não, Não, Não",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-088-nao-nao-nao.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 90,
+            "name": "089 — O Dragão",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-089-o-dragao.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 91,
+            "name": "090 — O Ajuste",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-090-o-ajuste.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 92,
+            "name": "091 — Nem Só a Verdade se Deve às Mães",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-091-nem-so-a-verdade-se-deve-as-maes.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 93,
+            "name": "092 — Segredo Acordado",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-092-segredo-acordado.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 94,
+            "name": "093 — Não Ata Nem Desata",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-093-nao-ata-nem-desata.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 95,
+            "name": "094 — Gestos Opostos",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-094-gestos-opostos.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 96,
+            "name": "095 — O Terceiro",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-095-o-terceiro.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 97,
+            "name": "096 — Retraimento",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-096-retraimento.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 98,
+            "name": "097 — Um Cristo Particular",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-097-um-cristo-particular.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 99,
+            "name": "098 — O Médico Aires",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-098-o-medico-aires.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 100,
+            "name": "099 — A Título de Ares Novos",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-099-a-titulo-de-ares-novos.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 101,
+            "name": "100 — Duas Cabeças",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-100-duas-cabecas.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 102,
+            "name": "101 — O Caso Embrulhado",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-101-o-caso-embrulhado.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 103,
+            "name": "102 — Visão Pede Meia Sombra",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-102-visao-pede-meia-sombra.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 104,
+            "name": "103 — O Quarto",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-103-o-quarto.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 105,
+            "name": "104 — A Resposta",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-104-a-resposta.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 106,
+            "name": "105 — A Realidade",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-105-a-realidade.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 107,
+            "name": "106 — Ambos Quais?",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-106-ambos-quais.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 108,
+            "name": "107 — Estado de Sítio",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-107-estado-de-sitio.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 109,
+            "name": "108 — Velhas Cerimônias",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-108-velhas-cerimonias.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 110,
+            "name": "109 — Ao Pé da Cova",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-109-ao-pe-da-cova.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 111,
+            "name": "110 — Que Voa",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-110-que-voa.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 112,
+            "name": "111 — Um Resumo de Esperanças",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-111-um-resumo-de-esperancas.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 113,
+            "name": "112 — O Primeiro Mês",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-112-o-primeiro-mes.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 114,
+            "name": "113 — Uma Beatriz para Dois",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-113-uma-beatriz-para-dois.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 115,
+            "name": "114 — Consultório e Banca",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-114-consultorio-e-banca.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 116,
+            "name": "115 — Troca de Opiniões",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-115-troca-de-opinioes.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 117,
+            "name": "116 — De Regresso",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-116-de-regresso.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 118,
+            "name": "117 — Posse das Cadeiras",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-117-posse-das-cadeiras.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 119,
+            "name": "118 — Coisas Passadas, Coisas Futuras",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-118-coisas-passadas-coisas-futuras.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 120,
+            "name": "119 — Que Anuncia os Seguintes",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-119-que-anuncia-os-seguintes.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 121,
+            "name": "120 — Penúltimo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-120-penultimo.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 122,
+            "name": "121 — Último",
+            "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-14-121-ultimo.html"
+          }
+        ]
+      }
+  - - script
+    - type: application/ld+json
+    - |
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Machado de Assis",
+            "item": "https://skepvox.com/literatura/machado-de-assis/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Esaú e Jacó",
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          }
+        ]
+      }
 ---
 
 # Esaú e Jacó
+
+## Sumário
+
+- [Advertência](/literatura/machado-de-assis/esau-e-jaco/00-01-001-advertencia.html)
+- Capítulos 001 — 010
+  - [001 — Coisas Futuras!](/literatura/machado-de-assis/esau-e-jaco/00-02-001-coisas-futuras.html)
+  - [002 — Melhor de Descer que de Subir](/literatura/machado-de-assis/esau-e-jaco/00-02-002-melhor-de-descer-que-de-subir.html)
+  - [003 — A Esmola da Felicidade](/literatura/machado-de-assis/esau-e-jaco/00-02-003-a-esmola-da-felicidade.html)
+  - [004 — A Missa do Coupé](/literatura/machado-de-assis/esau-e-jaco/00-02-004-a-missa-do-coupe.html)
+  - [005 — Há Contradições Explicáveis](/literatura/machado-de-assis/esau-e-jaco/00-02-005-ha-contradicoes-explicaveis.html)
+  - [006 — Maternidade](/literatura/machado-de-assis/esau-e-jaco/00-02-006-maternidade.html)
+  - [007 — Gestação](/literatura/machado-de-assis/esau-e-jaco/00-02-007-gestacao.html)
+  - [008 — Nem Casal, nem General](/literatura/machado-de-assis/esau-e-jaco/00-02-008-nem-casal-nem-general.html)
+  - [009 — Vista de Palácio](/literatura/machado-de-assis/esau-e-jaco/00-02-009-vista-de-palacio.html)
+  - [010 — O Juramento](/literatura/machado-de-assis/esau-e-jaco/00-02-010-o-juramento.html)
+- Capítulos 011 — 020
+  - [011 — Um Caso Único!](/literatura/machado-de-assis/esau-e-jaco/00-03-011-um-caso-unico.html)
+  - [012 — Esse Aires](/literatura/machado-de-assis/esau-e-jaco/00-03-012-esse-aires.html)
+  - [013 — A Epígrafe](/literatura/machado-de-assis/esau-e-jaco/00-03-013-a-epigrafe.html)
+  - [014 — A Lição do Discípulo](/literatura/machado-de-assis/esau-e-jaco/00-03-014-a-licao-do-discipulo.html)
+  - [015 — Teste David Cum Sibylla](/literatura/machado-de-assis/esau-e-jaco/00-03-015-teste-david-cum-sibylla.html)
+  - [016 — Paternalismo](/literatura/machado-de-assis/esau-e-jaco/00-03-016-paternalismo.html)
+  - [017 — Tudo o que Restrinjo](/literatura/machado-de-assis/esau-e-jaco/00-03-017-tudo-o-que-restrinjo.html)
+  - [018 — De como Vieram Crescendo](/literatura/machado-de-assis/esau-e-jaco/00-03-018-de-como-vieram-crescendo.html)
+  - [019 — Apenas Duas. - Quarenta Anos. - Terceira Causa](/literatura/machado-de-assis/esau-e-jaco/00-03-019-apenas-duas-quarenta-anos-terceira-causa.html)
+  - [020 — A Joia](/literatura/machado-de-assis/esau-e-jaco/00-03-020-a-joia.html)
+- Capítulos 021 — 030
+  - [021 — Um Ponto Escuro](/literatura/machado-de-assis/esau-e-jaco/00-04-021-um-ponto-escuro.html)
+  - [022 — Agora um Salto](/literatura/machado-de-assis/esau-e-jaco/00-04-022-agora-um-salto.html)
+  - [023 — Quando Tiverem Barbas](/literatura/machado-de-assis/esau-e-jaco/00-04-023-quando-tiverem-barbas.html)
+  - [024 — Robespierre e Luís XVI](/literatura/machado-de-assis/esau-e-jaco/00-04-024-robespierre-e-luis-xvi.html)
+  - [025 — D. Miguel](/literatura/machado-de-assis/esau-e-jaco/00-04-025-d-miguel.html)
+  - [026 — A Luta dos Retratos](/literatura/machado-de-assis/esau-e-jaco/00-04-026-a-luta-dos-retratos.html)
+  - [027 — De uma Reflexão Intempestiva](/literatura/machado-de-assis/esau-e-jaco/00-04-027-de-uma-reflexao-intempestiva.html)
+  - [028 — O Resto É Certo](/literatura/machado-de-assis/esau-e-jaco/00-04-028-o-resto-e-certo.html)
+  - [029 — A Pessoa Mais Moça](/literatura/machado-de-assis/esau-e-jaco/00-04-029-a-pessoa-mais-moca.html)
+  - [030 — A Gente Batista](/literatura/machado-de-assis/esau-e-jaco/00-04-030-a-gente-batista.html)
+- Capítulos 031 — 040
+  - [031 — Flora](/literatura/machado-de-assis/esau-e-jaco/00-05-031-flora.html)
+  - [032 — O Aposentado](/literatura/machado-de-assis/esau-e-jaco/00-05-032-o-aposentado.html)
+  - [033 — A Solidão Também Cansa](/literatura/machado-de-assis/esau-e-jaco/00-05-033-a-solidao-tambem-cansa.html)
+  - [034 — Inexplicável](/literatura/machado-de-assis/esau-e-jaco/00-05-034-inexplicavel.html)
+  - [035 — Em Volta da Moça](/literatura/machado-de-assis/esau-e-jaco/00-05-035-em-volta-da-moca.html)
+  - [036 — A Discórdia Não É Tão Feia como se Pinta](/literatura/machado-de-assis/esau-e-jaco/00-05-036-a-discordia-nao-e-tao-feia-como-se-pinta.html)
+  - [037 — Desacordo no Acordo](/literatura/machado-de-assis/esau-e-jaco/00-05-037-desacordo-no-acordo.html)
+  - [038 — Chegada a Propósito](/literatura/machado-de-assis/esau-e-jaco/00-05-038-chegada-a-proposito.html)
+  - [039 — Um Gatuno](/literatura/machado-de-assis/esau-e-jaco/00-05-039-um-gatuno.html)
+  - [040 — Recuerdos](/literatura/machado-de-assis/esau-e-jaco/00-05-040-recuerdos.html)
+- Capítulos 041 — 050
+  - [041 — Caso do Burro](/literatura/machado-de-assis/esau-e-jaco/00-06-041-caso-do-burro.html)
+  - [042 — Uma Hipótese](/literatura/machado-de-assis/esau-e-jaco/00-06-042-uma-hipotese.html)
+  - [043 — O Discurso](/literatura/machado-de-assis/esau-e-jaco/00-06-043-o-discurso.html)
+  - [044 — O Salmão](/literatura/machado-de-assis/esau-e-jaco/00-06-044-o-salmao.html)
+  - [045 — Musa, Canta...](/literatura/machado-de-assis/esau-e-jaco/00-06-045-musa-canta.html)
+  - [046 — Entre um Ato e Outro](/literatura/machado-de-assis/esau-e-jaco/00-06-046-entre-um-ato-e-outro.html)
+  - [047 — S. Mateus, IV, 1-10](/literatura/machado-de-assis/esau-e-jaco/00-06-047-s-mateus-iv-1-10.html)
+  - [048 — Terpsícore](/literatura/machado-de-assis/esau-e-jaco/00-06-048-terpsicore.html)
+  - [049 — Tabuleta Velha](/literatura/machado-de-assis/esau-e-jaco/00-06-049-tabuleta-velha.html)
+  - [050 — O Tinteiro de Evaristo](/literatura/machado-de-assis/esau-e-jaco/00-06-050-o-tinteiro-de-evaristo.html)
+- Capítulos 051 — 060
+  - [051 — Aqui Presente](/literatura/machado-de-assis/esau-e-jaco/00-07-051-aqui-presente.html)
+  - [052 — Um Segredo](/literatura/machado-de-assis/esau-e-jaco/00-07-052-um-segredo.html)
+  - [053 — De Confidências](/literatura/machado-de-assis/esau-e-jaco/00-07-053-de-confidencias.html)
+  - [054 — Enfim, Só!](/literatura/machado-de-assis/esau-e-jaco/00-07-054-enfim-so.html)
+  - [055 — "A Mulher É a Desolação do Homem](/literatura/machado-de-assis/esau-e-jaco/00-07-055-a-mulher-e-a-desolacao-do-homem.html)
+  - [056 — O Golpe](/literatura/machado-de-assis/esau-e-jaco/00-07-056-o-golpe.html)
+  - [057 — Das Encomendas](/literatura/machado-de-assis/esau-e-jaco/00-07-057-das-encomendas.html)
+  - [058 — Matar Saudades](/literatura/machado-de-assis/esau-e-jaco/00-07-058-matar-saudades.html)
+  - [059 — Noite de 14](/literatura/machado-de-assis/esau-e-jaco/00-07-059-noite-de-14.html)
+  - [060 — Manhã de 15](/literatura/machado-de-assis/esau-e-jaco/00-07-060-manha-de-15.html)
+- Capítulos 061 — 070
+  - [061 — Lendo Xenofonte](/literatura/machado-de-assis/esau-e-jaco/00-08-061-lendo-xenofonte.html)
+  - [062 — "Pare no D.](/literatura/machado-de-assis/esau-e-jaco/00-08-062-pare-no-d.html)
+  - [063 — Tabuleta Nova](/literatura/machado-de-assis/esau-e-jaco/00-08-063-tabuleta-nova.html)
+  - [064 — Paz!](/literatura/machado-de-assis/esau-e-jaco/00-08-064-paz.html)
+  - [065 — Entre os Filhos](/literatura/machado-de-assis/esau-e-jaco/00-08-065-entre-os-filhos.html)
+  - [066 — O Basto e a Espadilha](/literatura/machado-de-assis/esau-e-jaco/00-08-066-o-basto-e-a-espadilha.html)
+  - [067 — A Noite Inteira](/literatura/machado-de-assis/esau-e-jaco/00-08-067-a-noite-inteira.html)
+  - [068 — De Manhã](/literatura/machado-de-assis/esau-e-jaco/00-08-068-de-manha.html)
+  - [069 — Ao Piano](/literatura/machado-de-assis/esau-e-jaco/00-08-069-ao-piano.html)
+  - [070 — De uma Conclusão Errada](/literatura/machado-de-assis/esau-e-jaco/00-08-070-de-uma-conclusao-errada.html)
+- Capítulos 071 — 080
+  - [071 — A Comissão](/literatura/machado-de-assis/esau-e-jaco/00-09-071-a-comissao.html)
+  - [072 — O Regresso](/literatura/machado-de-assis/esau-e-jaco/00-09-072-o-regresso.html)
+  - [073 — Um Eldorado](/literatura/machado-de-assis/esau-e-jaco/00-09-073-um-eldorado.html)
+  - [074 — A Alusão do Texto](/literatura/machado-de-assis/esau-e-jaco/00-09-074-a-alusao-do-texto.html)
+  - [075 — Provérbio Errado](/literatura/machado-de-assis/esau-e-jaco/00-09-075-proverbio-errado.html)
+  - [076 — Talvez Fosse a Mesma!](/literatura/machado-de-assis/esau-e-jaco/00-09-076-talvez-fosse-a-mesma.html)
+  - [077 — Hospedagem](/literatura/machado-de-assis/esau-e-jaco/00-09-077-hospedagem.html)
+  - [078 — Visita ao Marechal](/literatura/machado-de-assis/esau-e-jaco/00-09-078-visita-ao-marechal.html)
+  - [079 — Fusão, Difusão, Confusão...](/literatura/machado-de-assis/esau-e-jaco/00-09-079-fusao-difusao-confusao.html)
+  - [080 — Transfusão, Enfim](/literatura/machado-de-assis/esau-e-jaco/00-09-080-transfusao-enfim.html)
+- Capítulos 081 — 090
+  - [081 — Ai, Duas Almas...](/literatura/machado-de-assis/esau-e-jaco/00-10-081-ai-duas-almas.html)
+  - [082 — Em S. Clemente](/literatura/machado-de-assis/esau-e-jaco/00-10-082-em-s-clemente.html)
+  - [083 — A Grande Noite](/literatura/machado-de-assis/esau-e-jaco/00-10-083-a-grande-noite.html)
+  - [084 — O Velho Segredo](/literatura/machado-de-assis/esau-e-jaco/00-10-084-o-velho-segredo.html)
+  - [085 — Três Constituições](/literatura/machado-de-assis/esau-e-jaco/00-10-085-tres-constituicoes.html)
+  - [086 — Antes que Me Esqueça](/literatura/machado-de-assis/esau-e-jaco/00-10-086-antes-que-me-esqueca.html)
+  - [087 — Entre Aires e Flora](/literatura/machado-de-assis/esau-e-jaco/00-10-087-entre-aires-e-flora.html)
+  - [088 — Não, Não, Não](/literatura/machado-de-assis/esau-e-jaco/00-10-088-nao-nao-nao.html)
+  - [089 — O Dragão](/literatura/machado-de-assis/esau-e-jaco/00-10-089-o-dragao.html)
+  - [090 — O Ajuste](/literatura/machado-de-assis/esau-e-jaco/00-10-090-o-ajuste.html)
+- Capítulos 091 — 100
+  - [091 — Nem Só a Verdade se Deve às Mães](/literatura/machado-de-assis/esau-e-jaco/00-11-091-nem-so-a-verdade-se-deve-as-maes.html)
+  - [092 — Segredo Acordado](/literatura/machado-de-assis/esau-e-jaco/00-11-092-segredo-acordado.html)
+  - [093 — Não Ata Nem Desata](/literatura/machado-de-assis/esau-e-jaco/00-11-093-nao-ata-nem-desata.html)
+  - [094 — Gestos Opostos](/literatura/machado-de-assis/esau-e-jaco/00-11-094-gestos-opostos.html)
+  - [095 — O Terceiro](/literatura/machado-de-assis/esau-e-jaco/00-11-095-o-terceiro.html)
+  - [096 — Retraimento](/literatura/machado-de-assis/esau-e-jaco/00-11-096-retraimento.html)
+  - [097 — Um Cristo Particular](/literatura/machado-de-assis/esau-e-jaco/00-11-097-um-cristo-particular.html)
+  - [098 — O Médico Aires](/literatura/machado-de-assis/esau-e-jaco/00-11-098-o-medico-aires.html)
+  - [099 — A Título de Ares Novos](/literatura/machado-de-assis/esau-e-jaco/00-11-099-a-titulo-de-ares-novos.html)
+  - [100 — Duas Cabeças](/literatura/machado-de-assis/esau-e-jaco/00-11-100-duas-cabecas.html)
+- Capítulos 101 — 110
+  - [101 — O Caso Embrulhado](/literatura/machado-de-assis/esau-e-jaco/00-12-101-o-caso-embrulhado.html)
+  - [102 — Visão Pede Meia Sombra](/literatura/machado-de-assis/esau-e-jaco/00-12-102-visao-pede-meia-sombra.html)
+  - [103 — O Quarto](/literatura/machado-de-assis/esau-e-jaco/00-12-103-o-quarto.html)
+  - [104 — A Resposta](/literatura/machado-de-assis/esau-e-jaco/00-12-104-a-resposta.html)
+  - [105 — A Realidade](/literatura/machado-de-assis/esau-e-jaco/00-12-105-a-realidade.html)
+  - [106 — Ambos Quais?](/literatura/machado-de-assis/esau-e-jaco/00-12-106-ambos-quais.html)
+  - [107 — Estado de Sítio](/literatura/machado-de-assis/esau-e-jaco/00-12-107-estado-de-sitio.html)
+  - [108 — Velhas Cerimônias](/literatura/machado-de-assis/esau-e-jaco/00-12-108-velhas-cerimonias.html)
+  - [109 — Ao Pé da Cova](/literatura/machado-de-assis/esau-e-jaco/00-12-109-ao-pe-da-cova.html)
+  - [110 — Que Voa](/literatura/machado-de-assis/esau-e-jaco/00-12-110-que-voa.html)
+- Capítulos 111 — 120
+  - [111 — Um Resumo de Esperanças](/literatura/machado-de-assis/esau-e-jaco/00-13-111-um-resumo-de-esperancas.html)
+  - [112 — O Primeiro Mês](/literatura/machado-de-assis/esau-e-jaco/00-13-112-o-primeiro-mes.html)
+  - [113 — Uma Beatriz para Dois](/literatura/machado-de-assis/esau-e-jaco/00-13-113-uma-beatriz-para-dois.html)
+  - [114 — Consultório e Banca](/literatura/machado-de-assis/esau-e-jaco/00-13-114-consultorio-e-banca.html)
+  - [115 — Troca de Opiniões](/literatura/machado-de-assis/esau-e-jaco/00-13-115-troca-de-opinioes.html)
+  - [116 — De Regresso](/literatura/machado-de-assis/esau-e-jaco/00-13-116-de-regresso.html)
+  - [117 — Posse das Cadeiras](/literatura/machado-de-assis/esau-e-jaco/00-13-117-posse-das-cadeiras.html)
+  - [118 — Coisas Passadas, Coisas Futuras](/literatura/machado-de-assis/esau-e-jaco/00-13-118-coisas-passadas-coisas-futuras.html)
+  - [119 — Que Anuncia os Seguintes](/literatura/machado-de-assis/esau-e-jaco/00-13-119-que-anuncia-os-seguintes.html)
+  - [120 — Penúltimo](/literatura/machado-de-assis/esau-e-jaco/00-13-120-penultimo.html)
+- Capítulo 121
+  - [121 — Último](/literatura/machado-de-assis/esau-e-jaco/00-14-121-ultimo.html)
 
 ## Advertência
 

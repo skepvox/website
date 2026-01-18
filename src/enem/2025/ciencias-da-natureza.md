@@ -1,6 +1,6 @@
 ---
-title: ENEM 2025 — Ciências da Natureza e suas Tecnologias — Caderno Verde
-description: Questões de Ciências da Natureza e suas Tecnologias do ENEM 2025 (Dia 2, aplicação regular). Ordem do caderno verde (CD8) com mapeamento para amarelo, azul e cinza.
+title: Enem 2025 — Ciências da Natureza e suas Tecnologias — Caderno Verde
+description: Questões de Ciências da Natureza e suas Tecnologias do Enem 2025 (Dia 2, aplicação regular). Ordem do caderno verde (CD8) com mapeamento para amarelo, azul e cinza.
 outline: [2, 3]
 head:
   - - link
@@ -8,13 +8,13 @@ head:
       href: "https://skepvox.com/enem/2025/ciencias-da-natureza.html"
   - - meta
     - name: description
-      content: "Questões de Ciências da Natureza e suas Tecnologias do ENEM 2025 (Dia 2, aplicação regular). Ordem do caderno verde (CD8) com mapeamento para amarelo, azul e cinza."
+      content: "Questões de Ciências da Natureza e suas Tecnologias do Enem 2025 (Dia 2, aplicação regular). Ordem do caderno verde (CD8) com mapeamento para amarelo, azul e cinza."
   - - meta
     - property: og:title
-      content: "ENEM 2025 Ciências da Natureza e suas Tecnologias — Caderno Verde"
+      content: "Enem 2025 Ciências da Natureza e suas Tecnologias — Caderno Verde"
   - - meta
     - property: og:description
-      content: "Questões de Ciências da Natureza e suas Tecnologias do ENEM 2025 (Dia 2, aplicação regular). Ordem do caderno verde (CD8) com mapeamento para amarelo, azul e cinza."
+      content: "Questões de Ciências da Natureza e suas Tecnologias do Enem 2025 (Dia 2, aplicação regular). Ordem do caderno verde (CD8) com mapeamento para amarelo, azul e cinza."
   - - meta
     - property: og:url
       content: "https://skepvox.com/enem/2025/ciencias-da-natureza.html"
@@ -26,22 +26,22 @@ head:
       content: summary
   - - meta
     - name: twitter:title
-      content: "ENEM 2025 Ciências da Natureza e suas Tecnologias — Caderno Verde"
+      content: "Enem 2025 Ciências da Natureza e suas Tecnologias — Caderno Verde"
   - - meta
     - name: twitter:description
-      content: "Questões de Ciências da Natureza e suas Tecnologias do ENEM 2025 (Dia 2, aplicação regular). Ordem do caderno verde (CD8) com mapeamento para amarelo, azul e cinza."
+      content: "Questões de Ciências da Natureza e suas Tecnologias do Enem 2025 (Dia 2, aplicação regular). Ordem do caderno verde (CD8) com mapeamento para amarelo, azul e cinza."
   - - script
     - type: application/ld+json
     - |
       {
         "@context": "https://schema.org",
         "@type": "CollectionPage",
-        "name": "ENEM 2025 — Ciências da Natureza e suas Tecnologias — Caderno Verde",
-        "description": "Questões de Ciências da Natureza e suas Tecnologias do ENEM 2025 (Dia 2, aplicação regular). Ordem do caderno verde (CD8) com mapeamento para amarelo, azul e cinza.",
+        "name": "Enem 2025 — Ciências da Natureza e suas Tecnologias — Caderno Verde",
+        "description": "Questões de Ciências da Natureza e suas Tecnologias do Enem 2025 (Dia 2, aplicação regular). Ordem do caderno verde (CD8) com mapeamento para amarelo, azul e cinza.",
         "url": "https://skepvox.com/enem/2025/ciencias-da-natureza.html",
         "inLanguage": "pt-BR",
         "about": [
-          "ENEM",
+          "Enem",
           "Ciências da Natureza"
         ],
         "isPartOf": {
@@ -329,7 +329,7 @@ head:
       }
 ---
 
-# ENEM 2025 — Ciências da Natureza e suas Tecnologias — Caderno Verde
+# Enem 2025 — Ciências da Natureza e suas Tecnologias — Caderno Verde
 
 <div class="enem-hub">
 

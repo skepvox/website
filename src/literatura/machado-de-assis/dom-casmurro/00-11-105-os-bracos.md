@@ -1,0 +1,147 @@
+---
+title: "Dom Casmurro — 105 — Os Braços"
+description: "Texto integral de Dom Casmurro, de Machado de Assis. 105 — Os Braços."
+sidebar: false
+aside: false
+footer: false
+outline: false
+book: "Dom Casmurro"
+author: "Machado de Assis"
+language: "pt-BR"
+chapter-id: "00-11-105"
+part-number: "11"
+chapter-title: "105 — Os Braços"
+head:
+  - - link
+    - rel: canonical
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-105-os-bracos.html"
+  - - meta
+    - name: description
+      content: "Texto integral de Dom Casmurro, de Machado de Assis. 105 — Os Braços."
+  - - meta
+    - property: og:title
+      content: "Dom Casmurro — 105 — Os Braços"
+  - - meta
+    - property: og:description
+      content: "Texto integral de Dom Casmurro, de Machado de Assis. 105 — Os Braços."
+  - - meta
+    - property: og:url
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-105-os-bracos.html"
+  - - meta
+    - property: og:type
+      content: article
+  - - meta
+    - property: og:image
+      content: "https://skepvox.com/images/authors/machado-de-assis.png"
+  - - meta
+    - property: og:image:alt
+      content: "Machado de Assis"
+  - - meta
+    - name: twitter:card
+      content: summary
+  - - meta
+    - name: twitter:title
+      content: "Dom Casmurro — 105 — Os Braços"
+  - - meta
+    - name: twitter:description
+      content: "Texto integral de Dom Casmurro, de Machado de Assis. 105 — Os Braços."
+  - - meta
+    - name: twitter:image
+      content: "https://skepvox.com/images/authors/machado-de-assis.png"
+  - - meta
+    - name: twitter:image:alt
+      content: "Machado de Assis"
+  - - script
+    - type: application/ld+json
+    - |
+      {
+        "@context": "https://schema.org",
+        "@type": "Chapter",
+        "name": "105 — Os Braços",
+        "identifier": "00-11-105",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-105-os-bracos.html",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-105-os-bracos.html",
+        "inLanguage": "pt-BR",
+        "isAccessibleForFree": true,
+        "author": {
+          "@type": "Person",
+          "name": "Machado de Assis"
+        },
+        "isPartOf": {
+          "@type": "Book",
+          "name": "Dom Casmurro",
+          "author": {
+            "@type": "Person",
+            "name": "Machado de Assis"
+          },
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+        },
+        "image": "https://skepvox.com/images/authors/machado-de-assis.png",
+        "description": "Texto integral de Dom Casmurro, de Machado de Assis. 105 — Os Braços.",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "chapter-number",
+            "value": "105"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "chapter-id",
+            "value": "00-11-105"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "part-number",
+            "value": "11"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "chapter-title",
+            "value": "105 — Os Braços"
+          }
+        ]
+      }
+  - - script
+    - type: application/ld+json
+    - |
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Machado de Assis",
+            "item": "https://skepvox.com/literatura/machado-de-assis/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Dom Casmurro",
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "105 — Os Braços",
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-105-os-bracos.html"
+          }
+        ]
+      }
+---
+
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+
+## 105 — Os Braços
+
+No mais,tudo corria bem. Capitu gostava de rir e divertir-se, e, nos primeiros tempos, quando íamos a passeios ou espetáculos, era como um pássaro que saísse da gaiola. Arranjava-se com graça e modéstia. Embora gostasse de joias, como as outras moças, não queria que eu lhe comprasse muitas nem caras, e um dia afligiu-se tanto que prometi não comprar mais nenhuma; mas foi só por pouco tempo.
+
+A nossa vida era mais ou menos plácida. Quando não estávamos com a família ou com amigos, ou se não íamos a algum espetáculo ou serão particular (e estes eram raros) passávamos as noites à nossa janela da Glória, mirando o mar e o céu, a sombra das montanhas e dos navios, ou a gente que passava na praia. As vezes, eu contava a Capitu a história da cidade, outras dava-lhe notícias de astronomia; notícias de amador que ela escutava atenta e curiosa, nem sempre tanto que não cochilasse um pouco. Não sabendo piano, aprendeu depois de casada, e depressa, e daí a pouco tocava nas casas de amizade. Na Glória era uma das nossas recreações; também cantava, mas pouco e raro, por não ter voz; um dia chegou a entender que era melhor não cantar nada e cumpriu o alvitre. De dançar gostava, e enfeitava-se com amor quando ia a um baile; os braços é que... Os braços merecem um período.
+
+Eram belos, e na primeira noite que os levou nus a um baile, não creio que houvesse iguais na cidade, nem os seus, leitora, que eram então de menina, se eram nascidos, mas provavelmente estariam ainda no mármore, donde vieram, ou nas mãos do divino escultor. Eram os mais belos da noite, a ponto que me encheram de desvane acontecimento. Conversava mal com as outras pessoas, só para vê-los, por mais que eles se entrelaçassem aos das casacas alheias. lá não foi assim no segundo baile; nesse, quando vi que os homens não se fartavam de olhar para eles, de os buscar, quase de os pedir, e que roçavam por eles as mangas pretas, fiquei vexado e aborrecido. Ao terceiro não fui, e aqui tive o apoio de Escobar, a quem confiei candidamente os meus tédios, concordou logo comigo.
+
+— Sanchinha também não vai, ou irá de mangas compridas; o contrário parece-me indecente.
+
+— Não é? Mas não diga o motivo; hão de chamar-nos seminaristas. Capitu já me chamou assim.
+
+Nem por isso deixei de contar a Capitu a aprovação de Escobar. Ela sorriu e respondeu que os braços de Sanchinha eram mal feitos, mas cedeu depressa, e não foi ao baile; a outros foi, mas levou-os meio vestidos de escumilha ou não sei que, que nem cobria nem descobria inteiramente, como o cendal de Camões.

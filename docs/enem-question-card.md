@@ -1,11 +1,11 @@
-# ENEM Question Card (WIP)
+# Enem Question Card (WIP)
 
-This doc is the source of truth for requirements and behavior of the ENEM
+This doc is the source of truth for requirements and behavior of the Enem
 question card and its nested components.
 
 ## Goal and scope
 
-- Define the data contract for rendering a single ENEM question.
+- Define the data contract for rendering a single Enem question.
 - Document rendering rules, states, and asset handling.
 - Outline the component tree for nested subcomponents.
 - Track key layout and styling decisions for the card.

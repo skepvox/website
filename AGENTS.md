@@ -11,8 +11,8 @@
 ## Key Paths
 - Site content: `src/`
 - Theme/components: `.vitepress/theme/`
-- ENEM question data: `src/public/enem/{year}/`
-- ENEM overrides: `src/enem/overrides/{year}/`
+- Enem question data: `src/public/enem/{year}/`
+- Enem overrides: `src/enem/overrides/{year}/`
 - Question pages: `src/enem/2025/matematica/questao/`
 - Pipelines (ignored): `pipeline-enem-extraction/`
 
@@ -21,9 +21,9 @@
 - Dev: `pnpm dev`
 - Build: `pnpm build`
 - Preview: `pnpm preview`
-- Publish ENEM data: `pnpm publish:enem -- --year 2025`
+- Publish Enem data: `pnpm publish:enem -- --year 2025`
 
-## ENEM Docs
+## Enem Docs
 - `docs/enem-question-card.md`
 - `docs/enem-charts.md`
 - `docs/enem-chart-sandbox.md`

@@ -1,9 +1,2238 @@
 ---
-title: Memórias póstumas de Brás Cubas — Machado de Assis
+title: "Memórias póstumas de Brás Cubas — Machado de Assis"
+description: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis, com capítulos separados para leitura."
 outline: 2
+head:
+  - - link
+    - rel: canonical
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+  - - meta
+    - name: description
+      content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis, com capítulos separados para leitura."
+  - - meta
+    - property: og:title
+      content: "Memórias póstumas de Brás Cubas — Machado de Assis"
+  - - meta
+    - property: og:description
+      content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis, com capítulos separados para leitura."
+  - - meta
+    - property: og:url
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+  - - meta
+    - property: og:type
+      content: book
+  - - meta
+    - property: og:image
+      content: "https://skepvox.com/images/authors/machado-de-assis.png"
+  - - meta
+    - property: og:image:alt
+      content: "Machado de Assis"
+  - - meta
+    - name: twitter:card
+      content: summary
+  - - meta
+    - name: twitter:title
+      content: "Memórias póstumas de Brás Cubas — Machado de Assis"
+  - - meta
+    - name: twitter:description
+      content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis, com capítulos separados para leitura."
+  - - meta
+    - name: twitter:image
+      content: "https://skepvox.com/images/authors/machado-de-assis.png"
+  - - meta
+    - name: twitter:image:alt
+      content: "Machado de Assis"
+  - - script
+    - type: application/ld+json
+    - |
+      {
+        "@context": "https://schema.org",
+        "@type": "Book",
+        "name": "Memórias póstumas de Brás Cubas",
+        "author": {
+          "@type": "Person",
+          "name": "Machado de Assis"
+        },
+        "inLanguage": "pt-BR",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html",
+        "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis, com capítulos separados para leitura.",
+        "image": "https://skepvox.com/images/authors/machado-de-assis.png",
+        "hasPart": [
+          {
+            "@type": "Chapter",
+            "name": "Dedicatoria",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-01-001-dedicatoria.html",
+            "identifier": "00-01-001"
+          },
+          {
+            "@type": "Chapter",
+            "name": "Prólogo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-02-001-prologo.html",
+            "identifier": "00-02-001"
+          },
+          {
+            "@type": "Chapter",
+            "name": "Ao leitor",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-03-001-ao-leitor.html",
+            "identifier": "00-03-001"
+          },
+          {
+            "@type": "Chapter",
+            "name": "001 — Óbito do Autor",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-001-obito-do-autor.html",
+            "identifier": "00-04-001"
+          },
+          {
+            "@type": "Chapter",
+            "name": "002 — O Emplasto",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-002-o-emplasto.html",
+            "identifier": "00-04-002"
+          },
+          {
+            "@type": "Chapter",
+            "name": "003 — Genealogia",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-003-genealogia.html",
+            "identifier": "00-04-003"
+          },
+          {
+            "@type": "Chapter",
+            "name": "004 — A Ideia Fixa",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-004-a-ideia-fixa.html",
+            "identifier": "00-04-004"
+          },
+          {
+            "@type": "Chapter",
+            "name": "005 — Em que Aparece a Orelha de uma Senhora",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-005-em-que-aparece-a-orelha-de-uma-senhora.html",
+            "identifier": "00-04-005"
+          },
+          {
+            "@type": "Chapter",
+            "name": "006 — Chimène, Qui l'eût Dit? Rodrigue, Qui l'eût Cru?",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-006-chimene-qui-l-eut-dit-rodrigue-qui-l-eut-cru.html",
+            "identifier": "00-04-006"
+          },
+          {
+            "@type": "Chapter",
+            "name": "007 — O Delírio",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-007-o-delirio.html",
+            "identifier": "00-04-007"
+          },
+          {
+            "@type": "Chapter",
+            "name": "008 — Razão Contra Sandice",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-008-razao-contra-sandice.html",
+            "identifier": "00-04-008"
+          },
+          {
+            "@type": "Chapter",
+            "name": "009 — Transição",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-009-transicao.html",
+            "identifier": "00-04-009"
+          },
+          {
+            "@type": "Chapter",
+            "name": "010 — Naquele Dia",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-010-naquele-dia.html",
+            "identifier": "00-04-010"
+          },
+          {
+            "@type": "Chapter",
+            "name": "011 — O Menino É Pai do Homem",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-011-o-menino-e-pai-do-homem.html",
+            "identifier": "00-05-011"
+          },
+          {
+            "@type": "Chapter",
+            "name": "012 — Um Episódio de 1814",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-012-um-episodio-de-1814.html",
+            "identifier": "00-05-012"
+          },
+          {
+            "@type": "Chapter",
+            "name": "013 — Um Salto",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-013-um-salto.html",
+            "identifier": "00-05-013"
+          },
+          {
+            "@type": "Chapter",
+            "name": "014 — O Primeiro Beijo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-014-o-primeiro-beijo.html",
+            "identifier": "00-05-014"
+          },
+          {
+            "@type": "Chapter",
+            "name": "015 — Marcela",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-015-marcela.html",
+            "identifier": "00-05-015"
+          },
+          {
+            "@type": "Chapter",
+            "name": "016 — Uma Reflexão Imoral",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-016-uma-reflexao-imoral.html",
+            "identifier": "00-05-016"
+          },
+          {
+            "@type": "Chapter",
+            "name": "017 — Do Trapézio e Outras Cousas",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-017-do-trapezio-e-outras-cousas.html",
+            "identifier": "00-05-017"
+          },
+          {
+            "@type": "Chapter",
+            "name": "018 — Visão do Corredor",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-018-visao-do-corredor.html",
+            "identifier": "00-05-018"
+          },
+          {
+            "@type": "Chapter",
+            "name": "019 — A Bordo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-019-a-bordo.html",
+            "identifier": "00-05-019"
+          },
+          {
+            "@type": "Chapter",
+            "name": "020 — Bacharelo-me",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-020-bacharelo-me.html",
+            "identifier": "00-05-020"
+          },
+          {
+            "@type": "Chapter",
+            "name": "021 — O Almocreve",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-021-o-almocreve.html",
+            "identifier": "00-06-021"
+          },
+          {
+            "@type": "Chapter",
+            "name": "022 — Volta ao Rio",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-022-volta-ao-rio.html",
+            "identifier": "00-06-022"
+          },
+          {
+            "@type": "Chapter",
+            "name": "023 — Triste, mas Curto",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-023-triste-mas-curto.html",
+            "identifier": "00-06-023"
+          },
+          {
+            "@type": "Chapter",
+            "name": "024 — Curto, mas Alegre",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-024-curto-mas-alegre.html",
+            "identifier": "00-06-024"
+          },
+          {
+            "@type": "Chapter",
+            "name": "025 — Na Tijuca",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-025-na-tijuca.html",
+            "identifier": "00-06-025"
+          },
+          {
+            "@type": "Chapter",
+            "name": "026 — O Autor Hesita",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-026-o-autor-hesita.html",
+            "identifier": "00-06-026"
+          },
+          {
+            "@type": "Chapter",
+            "name": "027 — Virgília?",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-027-virgilia.html",
+            "identifier": "00-06-027"
+          },
+          {
+            "@type": "Chapter",
+            "name": "028 — Contanto que...",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-028-contanto-que.html",
+            "identifier": "00-06-028"
+          },
+          {
+            "@type": "Chapter",
+            "name": "029 — A Visita",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-029-a-visita.html",
+            "identifier": "00-06-029"
+          },
+          {
+            "@type": "Chapter",
+            "name": "030 — A Flor da Moita",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-030-a-flor-da-moita.html",
+            "identifier": "00-06-030"
+          },
+          {
+            "@type": "Chapter",
+            "name": "031 — A Borboleta Preta",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-031-a-borboleta-preta.html",
+            "identifier": "00-07-031"
+          },
+          {
+            "@type": "Chapter",
+            "name": "032 — Coxa de Nascença",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-032-coxa-de-nascenca.html",
+            "identifier": "00-07-032"
+          },
+          {
+            "@type": "Chapter",
+            "name": "033 — Bem-aventurados Os que Não Descem",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-033-bem-aventurados-os-que-nao-descem.html",
+            "identifier": "00-07-033"
+          },
+          {
+            "@type": "Chapter",
+            "name": "034 — A uma Alma Sensível",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-034-a-uma-alma-sensivel.html",
+            "identifier": "00-07-034"
+          },
+          {
+            "@type": "Chapter",
+            "name": "035 — O Caminho de Damasco",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-035-o-caminho-de-damasco.html",
+            "identifier": "00-07-035"
+          },
+          {
+            "@type": "Chapter",
+            "name": "036 — A Propósito de Botas",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-036-a-proposito-de-botas.html",
+            "identifier": "00-07-036"
+          },
+          {
+            "@type": "Chapter",
+            "name": "037 — Enfim!",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-037-enfim.html",
+            "identifier": "00-07-037"
+          },
+          {
+            "@type": "Chapter",
+            "name": "038 — A Quarta Edição",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-038-a-quarta-edicao.html",
+            "identifier": "00-07-038"
+          },
+          {
+            "@type": "Chapter",
+            "name": "039 — O Vizinho",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-039-o-vizinho.html",
+            "identifier": "00-07-039"
+          },
+          {
+            "@type": "Chapter",
+            "name": "040 — Na Sege",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-040-na-sege.html",
+            "identifier": "00-07-040"
+          },
+          {
+            "@type": "Chapter",
+            "name": "041 — A Alucinação",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-041-a-alucinacao.html",
+            "identifier": "00-08-041"
+          },
+          {
+            "@type": "Chapter",
+            "name": "042 — Que Escapou a Aristóteles",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-042-que-escapou-a-aristoteles.html",
+            "identifier": "00-08-042"
+          },
+          {
+            "@type": "Chapter",
+            "name": "043 — Marquesa, Porque Eu Serei Marquês",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-043-marquesa-porque-eu-serei-marques.html",
+            "identifier": "00-08-043"
+          },
+          {
+            "@type": "Chapter",
+            "name": "044 — Um Cubas!",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-044-um-cubas.html",
+            "identifier": "00-08-044"
+          },
+          {
+            "@type": "Chapter",
+            "name": "045 — Notas",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-045-notas.html",
+            "identifier": "00-08-045"
+          },
+          {
+            "@type": "Chapter",
+            "name": "046 — A Herança",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-046-a-heranca.html",
+            "identifier": "00-08-046"
+          },
+          {
+            "@type": "Chapter",
+            "name": "047 — O Recluso",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-047-o-recluso.html",
+            "identifier": "00-08-047"
+          },
+          {
+            "@type": "Chapter",
+            "name": "048 — Um Primo de Virgília",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-048-um-primo-de-virgilia.html",
+            "identifier": "00-08-048"
+          },
+          {
+            "@type": "Chapter",
+            "name": "049 — A Ponta do Nariz",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-049-a-ponta-do-nariz.html",
+            "identifier": "00-08-049"
+          },
+          {
+            "@type": "Chapter",
+            "name": "050 — Virgília Casada",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-050-virgilia-casada.html",
+            "identifier": "00-08-050"
+          },
+          {
+            "@type": "Chapter",
+            "name": "051 — É Minha!",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-051-e-minha.html",
+            "identifier": "00-09-051"
+          },
+          {
+            "@type": "Chapter",
+            "name": "052 — O Embrulho Misterioso",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-052-o-embrulho-misterioso.html",
+            "identifier": "00-09-052"
+          },
+          {
+            "@type": "Chapter",
+            "name": "053 — Virgília É que Já Se Não Lembrava da Meia Dobra; Toda Ela Estava Concentrada em Mim, nos Meus Olhos, na Minha Vida, no Meu Pensamento - Era o que Dizia, e Era Verdade.",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-053-virgilia-e-que-ja-se-nao-lembrava-da-meia-dobra-toda-ela-estava-concentrada-em-mim-nos-meus-olhos-na-minha-vida-no-meu-pensamento-era-o-que-dizia-e-era-verdade.html",
+            "identifier": "00-09-053"
+          },
+          {
+            "@type": "Chapter",
+            "name": "054 — A Pêndula",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-054-a-pendula.html",
+            "identifier": "00-09-054"
+          },
+          {
+            "@type": "Chapter",
+            "name": "055 — O Velho Diálogo de Adão e Eva",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-055-o-velho-dialogo-de-adao-e-eva.html",
+            "identifier": "00-09-055"
+          },
+          {
+            "@type": "Chapter",
+            "name": "056 — O Momento Oportuno",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-056-o-momento-oportuno.html",
+            "identifier": "00-09-056"
+          },
+          {
+            "@type": "Chapter",
+            "name": "057 — Destino",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-057-destino.html",
+            "identifier": "00-09-057"
+          },
+          {
+            "@type": "Chapter",
+            "name": "058 — Confidência",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-058-confidencia.html",
+            "identifier": "00-09-058"
+          },
+          {
+            "@type": "Chapter",
+            "name": "059 — Um Encontro",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-059-um-encontro.html",
+            "identifier": "00-09-059"
+          },
+          {
+            "@type": "Chapter",
+            "name": "060 — O Abraço",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-060-o-abraco.html",
+            "identifier": "00-09-060"
+          },
+          {
+            "@type": "Chapter",
+            "name": "061 — Um Projeto",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-061-um-projeto.html",
+            "identifier": "00-10-061"
+          },
+          {
+            "@type": "Chapter",
+            "name": "062 — O Travesseiro",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-062-o-travesseiro.html",
+            "identifier": "00-10-062"
+          },
+          {
+            "@type": "Chapter",
+            "name": "063 — Fujamos!",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-063-fujamos.html",
+            "identifier": "00-10-063"
+          },
+          {
+            "@type": "Chapter",
+            "name": "064 — A Transação",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-064-a-transacao.html",
+            "identifier": "00-10-064"
+          },
+          {
+            "@type": "Chapter",
+            "name": "065 — Olheiros e Escutas",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-065-olheiros-e-escutas.html",
+            "identifier": "00-10-065"
+          },
+          {
+            "@type": "Chapter",
+            "name": "066 — As Pernas",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-066-as-pernas.html",
+            "identifier": "00-10-066"
+          },
+          {
+            "@type": "Chapter",
+            "name": "067 — A Casinha",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-067-a-casinha.html",
+            "identifier": "00-10-067"
+          },
+          {
+            "@type": "Chapter",
+            "name": "068 — O Vergalho",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-068-o-vergalho.html",
+            "identifier": "00-10-068"
+          },
+          {
+            "@type": "Chapter",
+            "name": "069 — Um Grão de Sandice",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-069-um-grao-de-sandice.html",
+            "identifier": "00-10-069"
+          },
+          {
+            "@type": "Chapter",
+            "name": "070 — D. Plácida",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-070-d-placida.html",
+            "identifier": "00-10-070"
+          },
+          {
+            "@type": "Chapter",
+            "name": "071 — O Senão do Livro",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-071-o-senao-do-livro.html",
+            "identifier": "00-11-071"
+          },
+          {
+            "@type": "Chapter",
+            "name": "072 — O Bibliômano",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-072-o-bibliomano.html",
+            "identifier": "00-11-072"
+          },
+          {
+            "@type": "Chapter",
+            "name": "073 — O Luncheon",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-073-o-luncheon.html",
+            "identifier": "00-11-073"
+          },
+          {
+            "@type": "Chapter",
+            "name": "074 — História de D. Plácida",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-074-historia-de-d-placida.html",
+            "identifier": "00-11-074"
+          },
+          {
+            "@type": "Chapter",
+            "name": "075 — Comigo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-075-comigo.html",
+            "identifier": "00-11-075"
+          },
+          {
+            "@type": "Chapter",
+            "name": "076 — O Estrume",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-076-o-estrume.html",
+            "identifier": "00-11-076"
+          },
+          {
+            "@type": "Chapter",
+            "name": "077 — Entrevista",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-077-entrevista.html",
+            "identifier": "00-11-077"
+          },
+          {
+            "@type": "Chapter",
+            "name": "078 — A Presidência",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-078-a-presidencia.html",
+            "identifier": "00-11-078"
+          },
+          {
+            "@type": "Chapter",
+            "name": "079 — Compromisso",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-079-compromisso.html",
+            "identifier": "00-11-079"
+          },
+          {
+            "@type": "Chapter",
+            "name": "080 — De Secretário",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-080-de-secretario.html",
+            "identifier": "00-11-080"
+          },
+          {
+            "@type": "Chapter",
+            "name": "081 — A Reconciliação",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-081-a-reconciliacao.html",
+            "identifier": "00-12-081"
+          },
+          {
+            "@type": "Chapter",
+            "name": "082 — Questão de Botânica",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-082-questao-de-botanica.html",
+            "identifier": "00-12-082"
+          },
+          {
+            "@type": "Chapter",
+            "name": "083 — 13",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-083-13.html",
+            "identifier": "00-12-083"
+          },
+          {
+            "@type": "Chapter",
+            "name": "084 — O Conflito",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-084-o-conflito.html",
+            "identifier": "00-12-084"
+          },
+          {
+            "@type": "Chapter",
+            "name": "085 — O Cimo da Montanha",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-085-o-cimo-da-montanha.html",
+            "identifier": "00-12-085"
+          },
+          {
+            "@type": "Chapter",
+            "name": "086 — O Mistério",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-086-o-misterio.html",
+            "identifier": "00-12-086"
+          },
+          {
+            "@type": "Chapter",
+            "name": "087 — Geologia",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-087-geologia.html",
+            "identifier": "00-12-087"
+          },
+          {
+            "@type": "Chapter",
+            "name": "088 — O Enfermo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-088-o-enfermo.html",
+            "identifier": "00-12-088"
+          },
+          {
+            "@type": "Chapter",
+            "name": "089 — In Extremis",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-089-in-extremis.html",
+            "identifier": "00-12-089"
+          },
+          {
+            "@type": "Chapter",
+            "name": "090 — O Velho Colóquio de Adão e Caim",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-090-o-velho-coloquio-de-adao-e-caim.html",
+            "identifier": "00-12-090"
+          },
+          {
+            "@type": "Chapter",
+            "name": "091 — Uma Carta Extraordinária",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-091-uma-carta-extraordinaria.html",
+            "identifier": "00-13-091"
+          },
+          {
+            "@type": "Chapter",
+            "name": "092 — Um Homem Extraordinário",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-092-um-homem-extraordinario.html",
+            "identifier": "00-13-092"
+          },
+          {
+            "@type": "Chapter",
+            "name": "093 — O Jantar",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-093-o-jantar.html",
+            "identifier": "00-13-093"
+          },
+          {
+            "@type": "Chapter",
+            "name": "094 — A Causa Secreta",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-094-a-causa-secreta.html",
+            "identifier": "00-13-094"
+          },
+          {
+            "@type": "Chapter",
+            "name": "095 — Flores de Antanho",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-095-flores-de-antanho.html",
+            "identifier": "00-13-095"
+          },
+          {
+            "@type": "Chapter",
+            "name": "096 — A Carta Anônima",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-096-a-carta-anonima.html",
+            "identifier": "00-13-096"
+          },
+          {
+            "@type": "Chapter",
+            "name": "097 — Entre a Boca e a Testa",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-097-entre-a-boca-e-a-testa.html",
+            "identifier": "00-13-097"
+          },
+          {
+            "@type": "Chapter",
+            "name": "098 — Suprimido",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-098-suprimido.html",
+            "identifier": "00-13-098"
+          },
+          {
+            "@type": "Chapter",
+            "name": "099 — Na Plateia",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-099-na-plateia.html",
+            "identifier": "00-13-099"
+          },
+          {
+            "@type": "Chapter",
+            "name": "100 — O Caso Provável",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-100-o-caso-provavel.html",
+            "identifier": "00-13-100"
+          },
+          {
+            "@type": "Chapter",
+            "name": "101 — A Revolução Dálmata",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-101-a-revolucao-dalmata.html",
+            "identifier": "00-14-101"
+          },
+          {
+            "@type": "Chapter",
+            "name": "102 — De Repouso",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-102-de-repouso.html",
+            "identifier": "00-14-102"
+          },
+          {
+            "@type": "Chapter",
+            "name": "103 — Distração",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-103-distracao.html",
+            "identifier": "00-14-103"
+          },
+          {
+            "@type": "Chapter",
+            "name": "104 — Era Ele!",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-104-era-ele.html",
+            "identifier": "00-14-104"
+          },
+          {
+            "@type": "Chapter",
+            "name": "105 — Equivalência das Janelas",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-105-equivalencia-das-janelas.html",
+            "identifier": "00-14-105"
+          },
+          {
+            "@type": "Chapter",
+            "name": "106 — Jogo Perigoso",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-106-jogo-perigoso.html",
+            "identifier": "00-14-106"
+          },
+          {
+            "@type": "Chapter",
+            "name": "107 — Bilhete",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-107-bilhete.html",
+            "identifier": "00-14-107"
+          },
+          {
+            "@type": "Chapter",
+            "name": "108 — Que Se Não Entende",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-108-que-se-nao-entende.html",
+            "identifier": "00-14-108"
+          },
+          {
+            "@type": "Chapter",
+            "name": "109 — O Filósofo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-109-o-filosofo.html",
+            "identifier": "00-14-109"
+          },
+          {
+            "@type": "Chapter",
+            "name": "110 — 31",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-110-31.html",
+            "identifier": "00-14-110"
+          },
+          {
+            "@type": "Chapter",
+            "name": "111 — O Muro",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-111-o-muro.html",
+            "identifier": "00-15-111"
+          },
+          {
+            "@type": "Chapter",
+            "name": "112 — A Opinião",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-112-a-opiniao.html",
+            "identifier": "00-15-112"
+          },
+          {
+            "@type": "Chapter",
+            "name": "113 — A Solda",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-113-a-solda.html",
+            "identifier": "00-15-113"
+          },
+          {
+            "@type": "Chapter",
+            "name": "114 — Fim de um Diálogo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-114-fim-de-um-dialogo.html",
+            "identifier": "00-15-114"
+          },
+          {
+            "@type": "Chapter",
+            "name": "115 — O Almoço",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-115-o-almoco.html",
+            "identifier": "00-15-115"
+          },
+          {
+            "@type": "Chapter",
+            "name": "116 — Filosofia das Folhas Velhas",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-116-filosofia-das-folhas-velhas.html",
+            "identifier": "00-15-116"
+          },
+          {
+            "@type": "Chapter",
+            "name": "117 — O Humanitismo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-117-o-humanitismo.html",
+            "identifier": "00-15-117"
+          },
+          {
+            "@type": "Chapter",
+            "name": "118 — A Terceira Força",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-118-a-terceira-forca.html",
+            "identifier": "00-15-118"
+          },
+          {
+            "@type": "Chapter",
+            "name": "119 — Parêntesis",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-119-parentesis.html",
+            "identifier": "00-15-119"
+          },
+          {
+            "@type": "Chapter",
+            "name": "120 — Compelle Intrare",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-120-compelle-intrare.html",
+            "identifier": "00-15-120"
+          },
+          {
+            "@type": "Chapter",
+            "name": "121 — Morro Abaixo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-121-morro-abaixo.html",
+            "identifier": "00-16-121"
+          },
+          {
+            "@type": "Chapter",
+            "name": "122 — Uma Intenção Mui Fina",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-122-uma-intencao-mui-fina.html",
+            "identifier": "00-16-122"
+          },
+          {
+            "@type": "Chapter",
+            "name": "123 — O Verdadeiro Cotrim",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-123-o-verdadeiro-cotrim.html",
+            "identifier": "00-16-123"
+          },
+          {
+            "@type": "Chapter",
+            "name": "124 — Vá de Intermédio",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-124-va-de-intermedio.html",
+            "identifier": "00-16-124"
+          },
+          {
+            "@type": "Chapter",
+            "name": "125 — Epitáfio",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-125-epitafio.html",
+            "identifier": "00-16-125"
+          },
+          {
+            "@type": "Chapter",
+            "name": "126 — Desconsolação",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-126-desconsolacao.html",
+            "identifier": "00-16-126"
+          },
+          {
+            "@type": "Chapter",
+            "name": "127 — Formalidade",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-127-formalidade.html",
+            "identifier": "00-16-127"
+          },
+          {
+            "@type": "Chapter",
+            "name": "128 — Na Câmara",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-128-na-camara.html",
+            "identifier": "00-16-128"
+          },
+          {
+            "@type": "Chapter",
+            "name": "129 — Sem Remorsos",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-129-sem-remorsos.html",
+            "identifier": "00-16-129"
+          },
+          {
+            "@type": "Chapter",
+            "name": "130 — Para Intercalar no Capítulo CXXIX",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-130-para-intercalar-no-capitulo-cxxix.html",
+            "identifier": "00-16-130"
+          },
+          {
+            "@type": "Chapter",
+            "name": "131 — De uma Calúnia",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-131-de-uma-calunia.html",
+            "identifier": "00-17-131"
+          },
+          {
+            "@type": "Chapter",
+            "name": "132 — Que Não É Sério",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-132-que-nao-e-serio.html",
+            "identifier": "00-17-132"
+          },
+          {
+            "@type": "Chapter",
+            "name": "133 — O Princípio de Helvetius",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-133-o-principio-de-helvetius.html",
+            "identifier": "00-17-133"
+          },
+          {
+            "@type": "Chapter",
+            "name": "134 — Cinquenta Anos",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-134-cinquenta-anos.html",
+            "identifier": "00-17-134"
+          },
+          {
+            "@type": "Chapter",
+            "name": "135 — Oblivion",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-135-oblivion.html",
+            "identifier": "00-17-135"
+          },
+          {
+            "@type": "Chapter",
+            "name": "136 — Inutilidade",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-136-inutilidade.html",
+            "identifier": "00-17-136"
+          },
+          {
+            "@type": "Chapter",
+            "name": "137 — A Barretina",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-137-a-barretina.html",
+            "identifier": "00-17-137"
+          },
+          {
+            "@type": "Chapter",
+            "name": "138 — A um Crítico",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-138-a-um-critico.html",
+            "identifier": "00-17-138"
+          },
+          {
+            "@type": "Chapter",
+            "name": "139 — De como Não Fui Ministro d'Estado",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-139-de-como-nao-fui-ministro-d-estado.html",
+            "identifier": "00-17-139"
+          },
+          {
+            "@type": "Chapter",
+            "name": "140 — Que Explica o Anterior",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-140-que-explica-o-anterior.html",
+            "identifier": "00-17-140"
+          },
+          {
+            "@type": "Chapter",
+            "name": "141 — Os Cães",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-141-os-caes.html",
+            "identifier": "00-18-141"
+          },
+          {
+            "@type": "Chapter",
+            "name": "142 — O Pedido Secreto",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-142-o-pedido-secreto.html",
+            "identifier": "00-18-142"
+          },
+          {
+            "@type": "Chapter",
+            "name": "143 — Não Vou",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-143-nao-vou.html",
+            "identifier": "00-18-143"
+          },
+          {
+            "@type": "Chapter",
+            "name": "144 — Utilidade Relativa",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-144-utilidade-relativa.html",
+            "identifier": "00-18-144"
+          },
+          {
+            "@type": "Chapter",
+            "name": "145 — Simples Repetição",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-145-simples-repeticao.html",
+            "identifier": "00-18-145"
+          },
+          {
+            "@type": "Chapter",
+            "name": "146 — O Programa",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-146-o-programa.html",
+            "identifier": "00-18-146"
+          },
+          {
+            "@type": "Chapter",
+            "name": "147 — O Desatino",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-147-o-desatino.html",
+            "identifier": "00-18-147"
+          },
+          {
+            "@type": "Chapter",
+            "name": "148 — O Problema Insolúvel",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-148-o-problema-insoluvel.html",
+            "identifier": "00-18-148"
+          },
+          {
+            "@type": "Chapter",
+            "name": "149 — Teoria do Benefício",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-149-teoria-do-beneficio.html",
+            "identifier": "00-18-149"
+          },
+          {
+            "@type": "Chapter",
+            "name": "150 — Rotação e Translação",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-150-rotacao-e-translacao.html",
+            "identifier": "00-18-150"
+          },
+          {
+            "@type": "Chapter",
+            "name": "151 — Filosofia dos Epitáfios",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-151-filosofia-dos-epitafios.html",
+            "identifier": "00-19-151"
+          },
+          {
+            "@type": "Chapter",
+            "name": "152 — A Moeda de Vespasiano",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-152-a-moeda-de-vespasiano.html",
+            "identifier": "00-19-152"
+          },
+          {
+            "@type": "Chapter",
+            "name": "153 — O Alienista",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-153-o-alienista.html",
+            "identifier": "00-19-153"
+          },
+          {
+            "@type": "Chapter",
+            "name": "154 — Os Navios do Pireu",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-154-os-navios-do-pireu.html",
+            "identifier": "00-19-154"
+          },
+          {
+            "@type": "Chapter",
+            "name": "155 — Reflexão Cordial",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-155-reflexao-cordial.html",
+            "identifier": "00-19-155"
+          },
+          {
+            "@type": "Chapter",
+            "name": "156 — Orgulho da Servilidade",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-156-orgulho-da-servilidade.html",
+            "identifier": "00-19-156"
+          },
+          {
+            "@type": "Chapter",
+            "name": "157 — Fase Brilhante",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-157-fase-brilhante.html",
+            "identifier": "00-19-157"
+          },
+          {
+            "@type": "Chapter",
+            "name": "158 — Dous Encontros",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-158-dous-encontros.html",
+            "identifier": "00-19-158"
+          },
+          {
+            "@type": "Chapter",
+            "name": "159 — A Semidemência",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-159-a-semidemencia.html",
+            "identifier": "00-19-159"
+          },
+          {
+            "@type": "Chapter",
+            "name": "160 — Das Negativas",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-160-das-negativas.html",
+            "identifier": "00-19-160"
+          }
+        ]
+      }
+  - - script
+    - type: application/ld+json
+    - |
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "itemListOrder": "http://schema.org/ItemListOrderAscending",
+        "numberOfItems": 163,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Dedicatoria",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-01-001-dedicatoria.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Prólogo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-02-001-prologo.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Ao leitor",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-03-001-ao-leitor.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "001 — Óbito do Autor",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-001-obito-do-autor.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "002 — O Emplasto",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-002-o-emplasto.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "003 — Genealogia",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-003-genealogia.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "name": "004 — A Ideia Fixa",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-004-a-ideia-fixa.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "name": "005 — Em que Aparece a Orelha de uma Senhora",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-005-em-que-aparece-a-orelha-de-uma-senhora.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "name": "006 — Chimène, Qui l'eût Dit? Rodrigue, Qui l'eût Cru?",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-006-chimene-qui-l-eut-dit-rodrigue-qui-l-eut-cru.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 10,
+            "name": "007 — O Delírio",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-007-o-delirio.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 11,
+            "name": "008 — Razão Contra Sandice",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-008-razao-contra-sandice.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 12,
+            "name": "009 — Transição",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-009-transicao.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 13,
+            "name": "010 — Naquele Dia",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-010-naquele-dia.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 14,
+            "name": "011 — O Menino É Pai do Homem",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-011-o-menino-e-pai-do-homem.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 15,
+            "name": "012 — Um Episódio de 1814",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-012-um-episodio-de-1814.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 16,
+            "name": "013 — Um Salto",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-013-um-salto.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 17,
+            "name": "014 — O Primeiro Beijo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-014-o-primeiro-beijo.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 18,
+            "name": "015 — Marcela",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-015-marcela.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 19,
+            "name": "016 — Uma Reflexão Imoral",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-016-uma-reflexao-imoral.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 20,
+            "name": "017 — Do Trapézio e Outras Cousas",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-017-do-trapezio-e-outras-cousas.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 21,
+            "name": "018 — Visão do Corredor",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-018-visao-do-corredor.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 22,
+            "name": "019 — A Bordo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-019-a-bordo.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 23,
+            "name": "020 — Bacharelo-me",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-020-bacharelo-me.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 24,
+            "name": "021 — O Almocreve",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-021-o-almocreve.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 25,
+            "name": "022 — Volta ao Rio",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-022-volta-ao-rio.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 26,
+            "name": "023 — Triste, mas Curto",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-023-triste-mas-curto.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 27,
+            "name": "024 — Curto, mas Alegre",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-024-curto-mas-alegre.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 28,
+            "name": "025 — Na Tijuca",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-025-na-tijuca.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 29,
+            "name": "026 — O Autor Hesita",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-026-o-autor-hesita.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 30,
+            "name": "027 — Virgília?",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-027-virgilia.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 31,
+            "name": "028 — Contanto que...",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-028-contanto-que.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 32,
+            "name": "029 — A Visita",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-029-a-visita.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 33,
+            "name": "030 — A Flor da Moita",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-030-a-flor-da-moita.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 34,
+            "name": "031 — A Borboleta Preta",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-031-a-borboleta-preta.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 35,
+            "name": "032 — Coxa de Nascença",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-032-coxa-de-nascenca.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 36,
+            "name": "033 — Bem-aventurados Os que Não Descem",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-033-bem-aventurados-os-que-nao-descem.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 37,
+            "name": "034 — A uma Alma Sensível",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-034-a-uma-alma-sensivel.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 38,
+            "name": "035 — O Caminho de Damasco",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-035-o-caminho-de-damasco.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 39,
+            "name": "036 — A Propósito de Botas",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-036-a-proposito-de-botas.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 40,
+            "name": "037 — Enfim!",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-037-enfim.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 41,
+            "name": "038 — A Quarta Edição",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-038-a-quarta-edicao.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 42,
+            "name": "039 — O Vizinho",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-039-o-vizinho.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 43,
+            "name": "040 — Na Sege",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-040-na-sege.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 44,
+            "name": "041 — A Alucinação",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-041-a-alucinacao.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 45,
+            "name": "042 — Que Escapou a Aristóteles",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-042-que-escapou-a-aristoteles.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 46,
+            "name": "043 — Marquesa, Porque Eu Serei Marquês",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-043-marquesa-porque-eu-serei-marques.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 47,
+            "name": "044 — Um Cubas!",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-044-um-cubas.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 48,
+            "name": "045 — Notas",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-045-notas.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 49,
+            "name": "046 — A Herança",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-046-a-heranca.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 50,
+            "name": "047 — O Recluso",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-047-o-recluso.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 51,
+            "name": "048 — Um Primo de Virgília",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-048-um-primo-de-virgilia.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 52,
+            "name": "049 — A Ponta do Nariz",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-049-a-ponta-do-nariz.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 53,
+            "name": "050 — Virgília Casada",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-050-virgilia-casada.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 54,
+            "name": "051 — É Minha!",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-051-e-minha.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 55,
+            "name": "052 — O Embrulho Misterioso",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-052-o-embrulho-misterioso.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 56,
+            "name": "053 — Virgília É que Já Se Não Lembrava da Meia Dobra; Toda Ela Estava Concentrada em Mim, nos Meus Olhos, na Minha Vida, no Meu Pensamento - Era o que Dizia, e Era Verdade.",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-053-virgilia-e-que-ja-se-nao-lembrava-da-meia-dobra-toda-ela-estava-concentrada-em-mim-nos-meus-olhos-na-minha-vida-no-meu-pensamento-era-o-que-dizia-e-era-verdade.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 57,
+            "name": "054 — A Pêndula",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-054-a-pendula.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 58,
+            "name": "055 — O Velho Diálogo de Adão e Eva",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-055-o-velho-dialogo-de-adao-e-eva.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 59,
+            "name": "056 — O Momento Oportuno",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-056-o-momento-oportuno.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 60,
+            "name": "057 — Destino",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-057-destino.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 61,
+            "name": "058 — Confidência",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-058-confidencia.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 62,
+            "name": "059 — Um Encontro",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-059-um-encontro.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 63,
+            "name": "060 — O Abraço",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-060-o-abraco.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 64,
+            "name": "061 — Um Projeto",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-061-um-projeto.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 65,
+            "name": "062 — O Travesseiro",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-062-o-travesseiro.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 66,
+            "name": "063 — Fujamos!",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-063-fujamos.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 67,
+            "name": "064 — A Transação",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-064-a-transacao.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 68,
+            "name": "065 — Olheiros e Escutas",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-065-olheiros-e-escutas.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 69,
+            "name": "066 — As Pernas",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-066-as-pernas.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 70,
+            "name": "067 — A Casinha",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-067-a-casinha.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 71,
+            "name": "068 — O Vergalho",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-068-o-vergalho.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 72,
+            "name": "069 — Um Grão de Sandice",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-069-um-grao-de-sandice.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 73,
+            "name": "070 — D. Plácida",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-070-d-placida.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 74,
+            "name": "071 — O Senão do Livro",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-071-o-senao-do-livro.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 75,
+            "name": "072 — O Bibliômano",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-072-o-bibliomano.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 76,
+            "name": "073 — O Luncheon",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-073-o-luncheon.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 77,
+            "name": "074 — História de D. Plácida",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-074-historia-de-d-placida.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 78,
+            "name": "075 — Comigo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-075-comigo.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 79,
+            "name": "076 — O Estrume",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-076-o-estrume.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 80,
+            "name": "077 — Entrevista",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-077-entrevista.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 81,
+            "name": "078 — A Presidência",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-078-a-presidencia.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 82,
+            "name": "079 — Compromisso",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-079-compromisso.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 83,
+            "name": "080 — De Secretário",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-080-de-secretario.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 84,
+            "name": "081 — A Reconciliação",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-081-a-reconciliacao.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 85,
+            "name": "082 — Questão de Botânica",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-082-questao-de-botanica.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 86,
+            "name": "083 — 13",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-083-13.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 87,
+            "name": "084 — O Conflito",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-084-o-conflito.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 88,
+            "name": "085 — O Cimo da Montanha",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-085-o-cimo-da-montanha.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 89,
+            "name": "086 — O Mistério",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-086-o-misterio.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 90,
+            "name": "087 — Geologia",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-087-geologia.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 91,
+            "name": "088 — O Enfermo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-088-o-enfermo.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 92,
+            "name": "089 — In Extremis",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-089-in-extremis.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 93,
+            "name": "090 — O Velho Colóquio de Adão e Caim",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-090-o-velho-coloquio-de-adao-e-caim.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 94,
+            "name": "091 — Uma Carta Extraordinária",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-091-uma-carta-extraordinaria.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 95,
+            "name": "092 — Um Homem Extraordinário",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-092-um-homem-extraordinario.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 96,
+            "name": "093 — O Jantar",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-093-o-jantar.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 97,
+            "name": "094 — A Causa Secreta",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-094-a-causa-secreta.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 98,
+            "name": "095 — Flores de Antanho",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-095-flores-de-antanho.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 99,
+            "name": "096 — A Carta Anônima",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-096-a-carta-anonima.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 100,
+            "name": "097 — Entre a Boca e a Testa",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-097-entre-a-boca-e-a-testa.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 101,
+            "name": "098 — Suprimido",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-098-suprimido.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 102,
+            "name": "099 — Na Plateia",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-099-na-plateia.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 103,
+            "name": "100 — O Caso Provável",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-100-o-caso-provavel.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 104,
+            "name": "101 — A Revolução Dálmata",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-101-a-revolucao-dalmata.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 105,
+            "name": "102 — De Repouso",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-102-de-repouso.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 106,
+            "name": "103 — Distração",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-103-distracao.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 107,
+            "name": "104 — Era Ele!",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-104-era-ele.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 108,
+            "name": "105 — Equivalência das Janelas",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-105-equivalencia-das-janelas.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 109,
+            "name": "106 — Jogo Perigoso",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-106-jogo-perigoso.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 110,
+            "name": "107 — Bilhete",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-107-bilhete.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 111,
+            "name": "108 — Que Se Não Entende",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-108-que-se-nao-entende.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 112,
+            "name": "109 — O Filósofo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-109-o-filosofo.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 113,
+            "name": "110 — 31",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-110-31.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 114,
+            "name": "111 — O Muro",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-111-o-muro.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 115,
+            "name": "112 — A Opinião",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-112-a-opiniao.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 116,
+            "name": "113 — A Solda",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-113-a-solda.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 117,
+            "name": "114 — Fim de um Diálogo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-114-fim-de-um-dialogo.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 118,
+            "name": "115 — O Almoço",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-115-o-almoco.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 119,
+            "name": "116 — Filosofia das Folhas Velhas",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-116-filosofia-das-folhas-velhas.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 120,
+            "name": "117 — O Humanitismo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-117-o-humanitismo.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 121,
+            "name": "118 — A Terceira Força",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-118-a-terceira-forca.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 122,
+            "name": "119 — Parêntesis",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-119-parentesis.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 123,
+            "name": "120 — Compelle Intrare",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-120-compelle-intrare.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 124,
+            "name": "121 — Morro Abaixo",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-121-morro-abaixo.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 125,
+            "name": "122 — Uma Intenção Mui Fina",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-122-uma-intencao-mui-fina.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 126,
+            "name": "123 — O Verdadeiro Cotrim",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-123-o-verdadeiro-cotrim.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 127,
+            "name": "124 — Vá de Intermédio",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-124-va-de-intermedio.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 128,
+            "name": "125 — Epitáfio",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-125-epitafio.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 129,
+            "name": "126 — Desconsolação",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-126-desconsolacao.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 130,
+            "name": "127 — Formalidade",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-127-formalidade.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 131,
+            "name": "128 — Na Câmara",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-128-na-camara.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 132,
+            "name": "129 — Sem Remorsos",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-129-sem-remorsos.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 133,
+            "name": "130 — Para Intercalar no Capítulo CXXIX",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-130-para-intercalar-no-capitulo-cxxix.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 134,
+            "name": "131 — De uma Calúnia",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-131-de-uma-calunia.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 135,
+            "name": "132 — Que Não É Sério",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-132-que-nao-e-serio.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 136,
+            "name": "133 — O Princípio de Helvetius",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-133-o-principio-de-helvetius.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 137,
+            "name": "134 — Cinquenta Anos",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-134-cinquenta-anos.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 138,
+            "name": "135 — Oblivion",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-135-oblivion.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 139,
+            "name": "136 — Inutilidade",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-136-inutilidade.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 140,
+            "name": "137 — A Barretina",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-137-a-barretina.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 141,
+            "name": "138 — A um Crítico",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-138-a-um-critico.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 142,
+            "name": "139 — De como Não Fui Ministro d'Estado",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-139-de-como-nao-fui-ministro-d-estado.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 143,
+            "name": "140 — Que Explica o Anterior",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-140-que-explica-o-anterior.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 144,
+            "name": "141 — Os Cães",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-141-os-caes.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 145,
+            "name": "142 — O Pedido Secreto",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-142-o-pedido-secreto.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 146,
+            "name": "143 — Não Vou",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-143-nao-vou.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 147,
+            "name": "144 — Utilidade Relativa",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-144-utilidade-relativa.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 148,
+            "name": "145 — Simples Repetição",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-145-simples-repeticao.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 149,
+            "name": "146 — O Programa",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-146-o-programa.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 150,
+            "name": "147 — O Desatino",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-147-o-desatino.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 151,
+            "name": "148 — O Problema Insolúvel",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-148-o-problema-insoluvel.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 152,
+            "name": "149 — Teoria do Benefício",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-149-teoria-do-beneficio.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 153,
+            "name": "150 — Rotação e Translação",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-150-rotacao-e-translacao.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 154,
+            "name": "151 — Filosofia dos Epitáfios",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-151-filosofia-dos-epitafios.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 155,
+            "name": "152 — A Moeda de Vespasiano",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-152-a-moeda-de-vespasiano.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 156,
+            "name": "153 — O Alienista",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-153-o-alienista.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 157,
+            "name": "154 — Os Navios do Pireu",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-154-os-navios-do-pireu.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 158,
+            "name": "155 — Reflexão Cordial",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-155-reflexao-cordial.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 159,
+            "name": "156 — Orgulho da Servilidade",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-156-orgulho-da-servilidade.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 160,
+            "name": "157 — Fase Brilhante",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-157-fase-brilhante.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 161,
+            "name": "158 — Dous Encontros",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-158-dous-encontros.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 162,
+            "name": "159 — A Semidemência",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-159-a-semidemencia.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 163,
+            "name": "160 — Das Negativas",
+            "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-160-das-negativas.html"
+          }
+        ]
+      }
+  - - script
+    - type: application/ld+json
+    - |
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Machado de Assis",
+            "item": "https://skepvox.com/literatura/machado-de-assis/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Memórias póstumas de Brás Cubas",
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          }
+        ]
+      }
 ---
 
 # Memórias póstumas de Brás Cubas
+
+## Sumário
+
+- [Dedicatoria](/literatura/machado-de-assis/bras-cubas/00-01-001-dedicatoria.html)
+- [Prólogo](/literatura/machado-de-assis/bras-cubas/00-02-001-prologo.html)
+- [Ao leitor](/literatura/machado-de-assis/bras-cubas/00-03-001-ao-leitor.html)
+- Capítulos 001 — 010
+  - [001 — Óbito do Autor](/literatura/machado-de-assis/bras-cubas/00-04-001-obito-do-autor.html)
+  - [002 — O Emplasto](/literatura/machado-de-assis/bras-cubas/00-04-002-o-emplasto.html)
+  - [003 — Genealogia](/literatura/machado-de-assis/bras-cubas/00-04-003-genealogia.html)
+  - [004 — A Ideia Fixa](/literatura/machado-de-assis/bras-cubas/00-04-004-a-ideia-fixa.html)
+  - [005 — Em que Aparece a Orelha de uma Senhora](/literatura/machado-de-assis/bras-cubas/00-04-005-em-que-aparece-a-orelha-de-uma-senhora.html)
+  - [006 — Chimène, Qui l'eût Dit? Rodrigue, Qui l'eût Cru?](/literatura/machado-de-assis/bras-cubas/00-04-006-chimene-qui-l-eut-dit-rodrigue-qui-l-eut-cru.html)
+  - [007 — O Delírio](/literatura/machado-de-assis/bras-cubas/00-04-007-o-delirio.html)
+  - [008 — Razão Contra Sandice](/literatura/machado-de-assis/bras-cubas/00-04-008-razao-contra-sandice.html)
+  - [009 — Transição](/literatura/machado-de-assis/bras-cubas/00-04-009-transicao.html)
+  - [010 — Naquele Dia](/literatura/machado-de-assis/bras-cubas/00-04-010-naquele-dia.html)
+- Capítulos 011 — 020
+  - [011 — O Menino É Pai do Homem](/literatura/machado-de-assis/bras-cubas/00-05-011-o-menino-e-pai-do-homem.html)
+  - [012 — Um Episódio de 1814](/literatura/machado-de-assis/bras-cubas/00-05-012-um-episodio-de-1814.html)
+  - [013 — Um Salto](/literatura/machado-de-assis/bras-cubas/00-05-013-um-salto.html)
+  - [014 — O Primeiro Beijo](/literatura/machado-de-assis/bras-cubas/00-05-014-o-primeiro-beijo.html)
+  - [015 — Marcela](/literatura/machado-de-assis/bras-cubas/00-05-015-marcela.html)
+  - [016 — Uma Reflexão Imoral](/literatura/machado-de-assis/bras-cubas/00-05-016-uma-reflexao-imoral.html)
+  - [017 — Do Trapézio e Outras Cousas](/literatura/machado-de-assis/bras-cubas/00-05-017-do-trapezio-e-outras-cousas.html)
+  - [018 — Visão do Corredor](/literatura/machado-de-assis/bras-cubas/00-05-018-visao-do-corredor.html)
+  - [019 — A Bordo](/literatura/machado-de-assis/bras-cubas/00-05-019-a-bordo.html)
+  - [020 — Bacharelo-me](/literatura/machado-de-assis/bras-cubas/00-05-020-bacharelo-me.html)
+- Capítulos 021 — 030
+  - [021 — O Almocreve](/literatura/machado-de-assis/bras-cubas/00-06-021-o-almocreve.html)
+  - [022 — Volta ao Rio](/literatura/machado-de-assis/bras-cubas/00-06-022-volta-ao-rio.html)
+  - [023 — Triste, mas Curto](/literatura/machado-de-assis/bras-cubas/00-06-023-triste-mas-curto.html)
+  - [024 — Curto, mas Alegre](/literatura/machado-de-assis/bras-cubas/00-06-024-curto-mas-alegre.html)
+  - [025 — Na Tijuca](/literatura/machado-de-assis/bras-cubas/00-06-025-na-tijuca.html)
+  - [026 — O Autor Hesita](/literatura/machado-de-assis/bras-cubas/00-06-026-o-autor-hesita.html)
+  - [027 — Virgília?](/literatura/machado-de-assis/bras-cubas/00-06-027-virgilia.html)
+  - [028 — Contanto que...](/literatura/machado-de-assis/bras-cubas/00-06-028-contanto-que.html)
+  - [029 — A Visita](/literatura/machado-de-assis/bras-cubas/00-06-029-a-visita.html)
+  - [030 — A Flor da Moita](/literatura/machado-de-assis/bras-cubas/00-06-030-a-flor-da-moita.html)
+- Capítulos 031 — 040
+  - [031 — A Borboleta Preta](/literatura/machado-de-assis/bras-cubas/00-07-031-a-borboleta-preta.html)
+  - [032 — Coxa de Nascença](/literatura/machado-de-assis/bras-cubas/00-07-032-coxa-de-nascenca.html)
+  - [033 — Bem-aventurados Os que Não Descem](/literatura/machado-de-assis/bras-cubas/00-07-033-bem-aventurados-os-que-nao-descem.html)
+  - [034 — A uma Alma Sensível](/literatura/machado-de-assis/bras-cubas/00-07-034-a-uma-alma-sensivel.html)
+  - [035 — O Caminho de Damasco](/literatura/machado-de-assis/bras-cubas/00-07-035-o-caminho-de-damasco.html)
+  - [036 — A Propósito de Botas](/literatura/machado-de-assis/bras-cubas/00-07-036-a-proposito-de-botas.html)
+  - [037 — Enfim!](/literatura/machado-de-assis/bras-cubas/00-07-037-enfim.html)
+  - [038 — A Quarta Edição](/literatura/machado-de-assis/bras-cubas/00-07-038-a-quarta-edicao.html)
+  - [039 — O Vizinho](/literatura/machado-de-assis/bras-cubas/00-07-039-o-vizinho.html)
+  - [040 — Na Sege](/literatura/machado-de-assis/bras-cubas/00-07-040-na-sege.html)
+- Capítulos 041 — 050
+  - [041 — A Alucinação](/literatura/machado-de-assis/bras-cubas/00-08-041-a-alucinacao.html)
+  - [042 — Que Escapou a Aristóteles](/literatura/machado-de-assis/bras-cubas/00-08-042-que-escapou-a-aristoteles.html)
+  - [043 — Marquesa, Porque Eu Serei Marquês](/literatura/machado-de-assis/bras-cubas/00-08-043-marquesa-porque-eu-serei-marques.html)
+  - [044 — Um Cubas!](/literatura/machado-de-assis/bras-cubas/00-08-044-um-cubas.html)
+  - [045 — Notas](/literatura/machado-de-assis/bras-cubas/00-08-045-notas.html)
+  - [046 — A Herança](/literatura/machado-de-assis/bras-cubas/00-08-046-a-heranca.html)
+  - [047 — O Recluso](/literatura/machado-de-assis/bras-cubas/00-08-047-o-recluso.html)
+  - [048 — Um Primo de Virgília](/literatura/machado-de-assis/bras-cubas/00-08-048-um-primo-de-virgilia.html)
+  - [049 — A Ponta do Nariz](/literatura/machado-de-assis/bras-cubas/00-08-049-a-ponta-do-nariz.html)
+  - [050 — Virgília Casada](/literatura/machado-de-assis/bras-cubas/00-08-050-virgilia-casada.html)
+- Capítulos 051 — 060
+  - [051 — É Minha!](/literatura/machado-de-assis/bras-cubas/00-09-051-e-minha.html)
+  - [052 — O Embrulho Misterioso](/literatura/machado-de-assis/bras-cubas/00-09-052-o-embrulho-misterioso.html)
+  - [053 — Virgília É que Já Se Não Lembrava da Meia Dobra; Toda Ela Estava Concentrada em Mim, nos Meus Olhos, na Minha Vida, no Meu Pensamento - Era o que Dizia, e Era Verdade.](/literatura/machado-de-assis/bras-cubas/00-09-053-virgilia-e-que-ja-se-nao-lembrava-da-meia-dobra-toda-ela-estava-concentrada-em-mim-nos-meus-olhos-na-minha-vida-no-meu-pensamento-era-o-que-dizia-e-era-verdade.html)
+  - [054 — A Pêndula](/literatura/machado-de-assis/bras-cubas/00-09-054-a-pendula.html)
+  - [055 — O Velho Diálogo de Adão e Eva](/literatura/machado-de-assis/bras-cubas/00-09-055-o-velho-dialogo-de-adao-e-eva.html)
+  - [056 — O Momento Oportuno](/literatura/machado-de-assis/bras-cubas/00-09-056-o-momento-oportuno.html)
+  - [057 — Destino](/literatura/machado-de-assis/bras-cubas/00-09-057-destino.html)
+  - [058 — Confidência](/literatura/machado-de-assis/bras-cubas/00-09-058-confidencia.html)
+  - [059 — Um Encontro](/literatura/machado-de-assis/bras-cubas/00-09-059-um-encontro.html)
+  - [060 — O Abraço](/literatura/machado-de-assis/bras-cubas/00-09-060-o-abraco.html)
+- Capítulos 061 — 070
+  - [061 — Um Projeto](/literatura/machado-de-assis/bras-cubas/00-10-061-um-projeto.html)
+  - [062 — O Travesseiro](/literatura/machado-de-assis/bras-cubas/00-10-062-o-travesseiro.html)
+  - [063 — Fujamos!](/literatura/machado-de-assis/bras-cubas/00-10-063-fujamos.html)
+  - [064 — A Transação](/literatura/machado-de-assis/bras-cubas/00-10-064-a-transacao.html)
+  - [065 — Olheiros e Escutas](/literatura/machado-de-assis/bras-cubas/00-10-065-olheiros-e-escutas.html)
+  - [066 — As Pernas](/literatura/machado-de-assis/bras-cubas/00-10-066-as-pernas.html)
+  - [067 — A Casinha](/literatura/machado-de-assis/bras-cubas/00-10-067-a-casinha.html)
+  - [068 — O Vergalho](/literatura/machado-de-assis/bras-cubas/00-10-068-o-vergalho.html)
+  - [069 — Um Grão de Sandice](/literatura/machado-de-assis/bras-cubas/00-10-069-um-grao-de-sandice.html)
+  - [070 — D. Plácida](/literatura/machado-de-assis/bras-cubas/00-10-070-d-placida.html)
+- Capítulos 071 — 080
+  - [071 — O Senão do Livro](/literatura/machado-de-assis/bras-cubas/00-11-071-o-senao-do-livro.html)
+  - [072 — O Bibliômano](/literatura/machado-de-assis/bras-cubas/00-11-072-o-bibliomano.html)
+  - [073 — O Luncheon](/literatura/machado-de-assis/bras-cubas/00-11-073-o-luncheon.html)
+  - [074 — História de D. Plácida](/literatura/machado-de-assis/bras-cubas/00-11-074-historia-de-d-placida.html)
+  - [075 — Comigo](/literatura/machado-de-assis/bras-cubas/00-11-075-comigo.html)
+  - [076 — O Estrume](/literatura/machado-de-assis/bras-cubas/00-11-076-o-estrume.html)
+  - [077 — Entrevista](/literatura/machado-de-assis/bras-cubas/00-11-077-entrevista.html)
+  - [078 — A Presidência](/literatura/machado-de-assis/bras-cubas/00-11-078-a-presidencia.html)
+  - [079 — Compromisso](/literatura/machado-de-assis/bras-cubas/00-11-079-compromisso.html)
+  - [080 — De Secretário](/literatura/machado-de-assis/bras-cubas/00-11-080-de-secretario.html)
+- Capítulos 081 — 090
+  - [081 — A Reconciliação](/literatura/machado-de-assis/bras-cubas/00-12-081-a-reconciliacao.html)
+  - [082 — Questão de Botânica](/literatura/machado-de-assis/bras-cubas/00-12-082-questao-de-botanica.html)
+  - [083 — 13](/literatura/machado-de-assis/bras-cubas/00-12-083-13.html)
+  - [084 — O Conflito](/literatura/machado-de-assis/bras-cubas/00-12-084-o-conflito.html)
+  - [085 — O Cimo da Montanha](/literatura/machado-de-assis/bras-cubas/00-12-085-o-cimo-da-montanha.html)
+  - [086 — O Mistério](/literatura/machado-de-assis/bras-cubas/00-12-086-o-misterio.html)
+  - [087 — Geologia](/literatura/machado-de-assis/bras-cubas/00-12-087-geologia.html)
+  - [088 — O Enfermo](/literatura/machado-de-assis/bras-cubas/00-12-088-o-enfermo.html)
+  - [089 — In Extremis](/literatura/machado-de-assis/bras-cubas/00-12-089-in-extremis.html)
+  - [090 — O Velho Colóquio de Adão e Caim](/literatura/machado-de-assis/bras-cubas/00-12-090-o-velho-coloquio-de-adao-e-caim.html)
+- Capítulos 091 — 100
+  - [091 — Uma Carta Extraordinária](/literatura/machado-de-assis/bras-cubas/00-13-091-uma-carta-extraordinaria.html)
+  - [092 — Um Homem Extraordinário](/literatura/machado-de-assis/bras-cubas/00-13-092-um-homem-extraordinario.html)
+  - [093 — O Jantar](/literatura/machado-de-assis/bras-cubas/00-13-093-o-jantar.html)
+  - [094 — A Causa Secreta](/literatura/machado-de-assis/bras-cubas/00-13-094-a-causa-secreta.html)
+  - [095 — Flores de Antanho](/literatura/machado-de-assis/bras-cubas/00-13-095-flores-de-antanho.html)
+  - [096 — A Carta Anônima](/literatura/machado-de-assis/bras-cubas/00-13-096-a-carta-anonima.html)
+  - [097 — Entre a Boca e a Testa](/literatura/machado-de-assis/bras-cubas/00-13-097-entre-a-boca-e-a-testa.html)
+  - [098 — Suprimido](/literatura/machado-de-assis/bras-cubas/00-13-098-suprimido.html)
+  - [099 — Na Plateia](/literatura/machado-de-assis/bras-cubas/00-13-099-na-plateia.html)
+  - [100 — O Caso Provável](/literatura/machado-de-assis/bras-cubas/00-13-100-o-caso-provavel.html)
+- Capítulos 101 — 110
+  - [101 — A Revolução Dálmata](/literatura/machado-de-assis/bras-cubas/00-14-101-a-revolucao-dalmata.html)
+  - [102 — De Repouso](/literatura/machado-de-assis/bras-cubas/00-14-102-de-repouso.html)
+  - [103 — Distração](/literatura/machado-de-assis/bras-cubas/00-14-103-distracao.html)
+  - [104 — Era Ele!](/literatura/machado-de-assis/bras-cubas/00-14-104-era-ele.html)
+  - [105 — Equivalência das Janelas](/literatura/machado-de-assis/bras-cubas/00-14-105-equivalencia-das-janelas.html)
+  - [106 — Jogo Perigoso](/literatura/machado-de-assis/bras-cubas/00-14-106-jogo-perigoso.html)
+  - [107 — Bilhete](/literatura/machado-de-assis/bras-cubas/00-14-107-bilhete.html)
+  - [108 — Que Se Não Entende](/literatura/machado-de-assis/bras-cubas/00-14-108-que-se-nao-entende.html)
+  - [109 — O Filósofo](/literatura/machado-de-assis/bras-cubas/00-14-109-o-filosofo.html)
+  - [110 — 31](/literatura/machado-de-assis/bras-cubas/00-14-110-31.html)
+- Capítulos 111 — 120
+  - [111 — O Muro](/literatura/machado-de-assis/bras-cubas/00-15-111-o-muro.html)
+  - [112 — A Opinião](/literatura/machado-de-assis/bras-cubas/00-15-112-a-opiniao.html)
+  - [113 — A Solda](/literatura/machado-de-assis/bras-cubas/00-15-113-a-solda.html)
+  - [114 — Fim de um Diálogo](/literatura/machado-de-assis/bras-cubas/00-15-114-fim-de-um-dialogo.html)
+  - [115 — O Almoço](/literatura/machado-de-assis/bras-cubas/00-15-115-o-almoco.html)
+  - [116 — Filosofia das Folhas Velhas](/literatura/machado-de-assis/bras-cubas/00-15-116-filosofia-das-folhas-velhas.html)
+  - [117 — O Humanitismo](/literatura/machado-de-assis/bras-cubas/00-15-117-o-humanitismo.html)
+  - [118 — A Terceira Força](/literatura/machado-de-assis/bras-cubas/00-15-118-a-terceira-forca.html)
+  - [119 — Parêntesis](/literatura/machado-de-assis/bras-cubas/00-15-119-parentesis.html)
+  - [120 — Compelle Intrare](/literatura/machado-de-assis/bras-cubas/00-15-120-compelle-intrare.html)
+- Capítulos 121 — 130
+  - [121 — Morro Abaixo](/literatura/machado-de-assis/bras-cubas/00-16-121-morro-abaixo.html)
+  - [122 — Uma Intenção Mui Fina](/literatura/machado-de-assis/bras-cubas/00-16-122-uma-intencao-mui-fina.html)
+  - [123 — O Verdadeiro Cotrim](/literatura/machado-de-assis/bras-cubas/00-16-123-o-verdadeiro-cotrim.html)
+  - [124 — Vá de Intermédio](/literatura/machado-de-assis/bras-cubas/00-16-124-va-de-intermedio.html)
+  - [125 — Epitáfio](/literatura/machado-de-assis/bras-cubas/00-16-125-epitafio.html)
+  - [126 — Desconsolação](/literatura/machado-de-assis/bras-cubas/00-16-126-desconsolacao.html)
+  - [127 — Formalidade](/literatura/machado-de-assis/bras-cubas/00-16-127-formalidade.html)
+  - [128 — Na Câmara](/literatura/machado-de-assis/bras-cubas/00-16-128-na-camara.html)
+  - [129 — Sem Remorsos](/literatura/machado-de-assis/bras-cubas/00-16-129-sem-remorsos.html)
+  - [130 — Para Intercalar no Capítulo CXXIX](/literatura/machado-de-assis/bras-cubas/00-16-130-para-intercalar-no-capitulo-cxxix.html)
+- Capítulos 131 — 140
+  - [131 — De uma Calúnia](/literatura/machado-de-assis/bras-cubas/00-17-131-de-uma-calunia.html)
+  - [132 — Que Não É Sério](/literatura/machado-de-assis/bras-cubas/00-17-132-que-nao-e-serio.html)
+  - [133 — O Princípio de Helvetius](/literatura/machado-de-assis/bras-cubas/00-17-133-o-principio-de-helvetius.html)
+  - [134 — Cinquenta Anos](/literatura/machado-de-assis/bras-cubas/00-17-134-cinquenta-anos.html)
+  - [135 — Oblivion](/literatura/machado-de-assis/bras-cubas/00-17-135-oblivion.html)
+  - [136 — Inutilidade](/literatura/machado-de-assis/bras-cubas/00-17-136-inutilidade.html)
+  - [137 — A Barretina](/literatura/machado-de-assis/bras-cubas/00-17-137-a-barretina.html)
+  - [138 — A um Crítico](/literatura/machado-de-assis/bras-cubas/00-17-138-a-um-critico.html)
+  - [139 — De como Não Fui Ministro d'Estado](/literatura/machado-de-assis/bras-cubas/00-17-139-de-como-nao-fui-ministro-d-estado.html)
+  - [140 — Que Explica o Anterior](/literatura/machado-de-assis/bras-cubas/00-17-140-que-explica-o-anterior.html)
+- Capítulos 141 — 150
+  - [141 — Os Cães](/literatura/machado-de-assis/bras-cubas/00-18-141-os-caes.html)
+  - [142 — O Pedido Secreto](/literatura/machado-de-assis/bras-cubas/00-18-142-o-pedido-secreto.html)
+  - [143 — Não Vou](/literatura/machado-de-assis/bras-cubas/00-18-143-nao-vou.html)
+  - [144 — Utilidade Relativa](/literatura/machado-de-assis/bras-cubas/00-18-144-utilidade-relativa.html)
+  - [145 — Simples Repetição](/literatura/machado-de-assis/bras-cubas/00-18-145-simples-repeticao.html)
+  - [146 — O Programa](/literatura/machado-de-assis/bras-cubas/00-18-146-o-programa.html)
+  - [147 — O Desatino](/literatura/machado-de-assis/bras-cubas/00-18-147-o-desatino.html)
+  - [148 — O Problema Insolúvel](/literatura/machado-de-assis/bras-cubas/00-18-148-o-problema-insoluvel.html)
+  - [149 — Teoria do Benefício](/literatura/machado-de-assis/bras-cubas/00-18-149-teoria-do-beneficio.html)
+  - [150 — Rotação e Translação](/literatura/machado-de-assis/bras-cubas/00-18-150-rotacao-e-translacao.html)
+- Capítulos 151 — 160
+  - [151 — Filosofia dos Epitáfios](/literatura/machado-de-assis/bras-cubas/00-19-151-filosofia-dos-epitafios.html)
+  - [152 — A Moeda de Vespasiano](/literatura/machado-de-assis/bras-cubas/00-19-152-a-moeda-de-vespasiano.html)
+  - [153 — O Alienista](/literatura/machado-de-assis/bras-cubas/00-19-153-o-alienista.html)
+  - [154 — Os Navios do Pireu](/literatura/machado-de-assis/bras-cubas/00-19-154-os-navios-do-pireu.html)
+  - [155 — Reflexão Cordial](/literatura/machado-de-assis/bras-cubas/00-19-155-reflexao-cordial.html)
+  - [156 — Orgulho da Servilidade](/literatura/machado-de-assis/bras-cubas/00-19-156-orgulho-da-servilidade.html)
+  - [157 — Fase Brilhante](/literatura/machado-de-assis/bras-cubas/00-19-157-fase-brilhante.html)
+  - [158 — Dous Encontros](/literatura/machado-de-assis/bras-cubas/00-19-158-dous-encontros.html)
+  - [159 — A Semidemência](/literatura/machado-de-assis/bras-cubas/00-19-159-a-semidemencia.html)
+  - [160 — Das Negativas](/literatura/machado-de-assis/bras-cubas/00-19-160-das-negativas.html)
 
 ## Dedicatoria
 

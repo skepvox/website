@@ -2,7 +2,7 @@
   "schema": "skepvox--demos-questions",
   "schemaVersion": 1,
   "source": {
-    "sha256": "92ca938da1806e5971fad90ae9f4c738d33d4ca6cdb0233d02497ba9500e1ede"
+    "sha256": "9cdb93ce82376734e7d11399be59d08dbe36720eb55819ae20a1ec17207d6c1a"
   },
   "questionCount": 56,
   "countsByState": {
@@ -402,7 +402,7 @@
       "question": "quais requerimentos, oitivas, documentos recebidos e relatórios da CPMI do INSS estão publicamente acessíveis, e como eles se conectam a peças/decisões públicas da investigação (PF/CGU)?",
       "hypothesis": "existe documentação pública suficiente (atas, requerimentos e transcrições) para mapear, com rastreabilidade, o que foi alegado e quais foram os encaminhamentos formais da CPMI.",
       "counterHypothesis": "parte relevante permanece sem publicização (ou em formatos difíceis de auditar), e a CPMI gera mais sinal político do que evidência documental rastreável.",
-      "nextSteps": "inventariar (com IDs) reuniões, requerimentos, documentos e notas taquigráficas via Dados Abertos; registrar o que é público vs. não publicado; cruzar peças parlamentares com peças/decisões públicas da investigação (PF/CGU).",
+      "nextSteps": "inventariar (com IDs) reuniões, requerimentos, documentos e notas taquigráficas via Dados Abertos; mapear documentos enviados/respostas por órgão usando processo/documento e vincular aos requerimentos aprovados; extrair trechos-chave das notas taquigráficas (oitivas) e associar a pessoas/organizações; montar tabela de cumprimento (requerimento -> órgão -> data -> resposta/link); cruzar peças parlamentares com peças/decisões públicas da investigação (PF/CGU).",
       "container": {
         "id": "case--cpmi-do-inss",
         "type": "case",

@@ -1,4 +1,4 @@
-# ENEM Chart Sandbox (WIP)
+# Enem Chart Sandbox (WIP)
 
 This document defines how we iterate on D3 charts in a dedicated sandbox page
 before a chart is considered ready for production use.

@@ -2,7 +2,7 @@
 sitemap: false
 ---
 
-# ENEM Overrides
+# Enem Overrides
 
 Per-question JSON overrides that are merged into the raw pipeline output
 before publishing data to `src/public/enem/`..html
