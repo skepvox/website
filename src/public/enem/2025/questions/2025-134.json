@@ -12,7 +12,7 @@
   "skill": null,
   "context": {
     "type": "text",
-    "content": "O Brasil é o maior produtor mundial de nióbio (massa molar = 93 g mol-1), metal utilizado na fabricação de vários tipos de aço: automotivos, estruturais e inoxidáveis. O processo utilizado na produção do nióbio é a redução aluminotérmica de Nb2O5 com excesso de 10% de Al (massa molar = 27 g mol-1), em relação à quantidade estequiométrica da reação, representada pela equação química:\n\n3 Nb2O5 (s) + 10 Al (s) -> 6 Nb (s) + 5 Al2O3 (s)\n\nUma engenheira metalúrgica estimou a massa de alumínio necessária para produzir 9,3 kg de nióbio, nas condições descritas, para a produção de um lote de peças de aço encomendado por uma indústria, considerando um rendimento de 100%.",
+    "content": "O Brasil é o maior produtor mundial de nióbio (massa molar = $93\\,\\text{g·mol}^{-1}$), metal utilizado na fabricação de vários tipos de aço: automotivos, estruturais e inoxidáveis. O processo utilizado na produção do nióbio é a redução aluminotérmica de Nb<sub>2</sub>O<sub>5</sub> com excesso de 10% de Al (massa molar = $27\\,\\text{g·mol}^{-1}$), em relação à quantidade estequiométrica da reação, representada pela equação química:\n\n$$\\mathrm{3\\,Nb_2O_5(s) + 10\\,Al(s) \\rightarrow 6\\,Nb(s) + 5\\,Al_2O_3(s)}$$\n\nUma engenheira metalúrgica estimou a massa de alumínio necessária para produzir 9,3 kg de nióbio, nas condições descritas, para a produção de um lote de peças de aço encomendado por uma indústria, considerando um rendimento de 100%.",
     "source": {
       "url": "www.cbmm.com.br",
       "access_date": "17 out. 2015",
@@ -25,7 +25,7 @@
     {
       "id": "t1",
       "scope": "context",
-      "text": "O Brasil é o maior produtor mundial de nióbio (massa molar = 93 g mol-1), metal utilizado na fabricação de vários tipos de aço: automotivos, estruturais e inoxidáveis. O processo utilizado na produção do nióbio é a redução aluminotérmica de Nb2O5 com excesso de 10% de Al (massa molar = 27 g mol-1), em relação à quantidade estequiométrica da reação, representada pela equação química:\n\n3 Nb2O5 (s) + 10 Al (s) -> 6 Nb (s) + 5 Al2O3 (s)\n\nUma engenheira metalúrgica estimou a massa de alumínio necessária para produzir 9,3 kg de nióbio, nas condições descritas, para a produção de um lote de peças de aço encomendado por uma indústria, considerando um rendimento de 100%.",
+      "text": "O Brasil é o maior produtor mundial de nióbio (massa molar = $93\\,\\text{g·mol}^{-1}$), metal utilizado na fabricação de vários tipos de aço: automotivos, estruturais e inoxidáveis. O processo utilizado na produção do nióbio é a redução aluminotérmica de Nb<sub>2</sub>O<sub>5</sub> com excesso de 10% de Al (massa molar = $27\\,\\text{g·mol}^{-1}$), em relação à quantidade estequiométrica da reação, representada pela equação química:\n\n$$\\mathrm{3\\,Nb_2O_5(s) + 10\\,Al(s) \\rightarrow 6\\,Nb(s) + 5\\,Al_2O_3(s)}$$\n\nUma engenheira metalúrgica estimou a massa de alumínio necessária para produzir 9,3 kg de nióbio, nas condições descritas, para a produção de um lote de peças de aço encomendado por uma indústria, considerando um rendimento de 100%.",
       "anchor": "before:assets:context",
       "order": 1
     }

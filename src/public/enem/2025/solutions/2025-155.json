@@ -23,5 +23,5 @@
       "body_md": "Logo, todas as idades do grupo $4$ estão entre $20$ e $30$. Assim, esse grupo certamente atende ao critério de maioria no intervalo."
     }
   ],
-  "tts_text": "O grupo 4 tem media 25 e desvio padrao 1. Pelo conceito de desvio padrao, a soma dos quadrados dos desvios em relacao a media vale 11. Se alguma idade estivesse fora do intervalo de 20 a 30, o desvio seria pelo menos 5, e o quadrado seria pelo menos 25. Isso ja ultrapassaria a soma total de 11, o que e impossivel. Portanto, todas as idades do grupo 4 estao entre 20 e 30, garantindo maioria. A alternativa correta e a letra D."
+  "tts_text": "O grupo 4 tem média 25 e desvio padrão 1. Pelo conceito de desvio padrão, a soma dos quadrados dos desvios em relação à média vale 11. Se alguma idade estivesse fora do intervalo de 20 a 30, o desvio seria pelo menos 5, e o quadrado seria pelo menos 25. Isso já ultrapassaria a soma total de 11, o que é impossível. Portanto, todas as idades do grupo 4 estão entre 20 e 30, garantindo maioria. A alternativa correta é a letra D."
 }

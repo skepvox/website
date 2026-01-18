@@ -23,5 +23,5 @@
       "body_md": "A quantidade máxima inteira é $8$ garrafas."
     }
   ],
-  "tts_text": "A caixa tem base de 2,5 dm por 1,5 dm e altura de agua de 2 dm. O volume e 2,5 vezes 1,5 vezes 2, igual a 7,5 dm3, que corresponde a 7,5 litros. Cada garrafa ocupa 0,3 litro. Para manter pelo menos 5 litros, fazemos 7,5 menos 0,3n maior ou igual a 5. Isso da n menor ou igual a 8,33. Portanto, o maximo inteiro e 8 garrafas, alternativa B."
+  "tts_text": "A caixa tem base de 2,5 dm por 1,5 dm e altura de água de 2 dm. O volume é 2,5 vezes 1,5 vezes 2, igual a 7,5 dm3, que corresponde a 7,5 litros. Cada garrafa ocupa 0,3 litro. Para manter pelo menos 5 litros, fazemos 7,5 menos 0,3n maior ou igual a 5. Isso dá n menor ou igual a 8,33. Portanto, o máximo inteiro é 8 garrafas, alternativa B."
 }

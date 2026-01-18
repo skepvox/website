@@ -19,5 +19,5 @@
       "body_md": "$$\nP(V_A) = \\dfrac{1}{6}\\sum_{j=1}^{6}\\left(1 - \\dfrac{j^2}{36}\\right) = \\dfrac{125}{216}\n$$"
     }
   ],
-  "tts_text": "Se o resultado de Joao e j, Artur vence quando o maior dos seus dois dados e maior que j. A probabilidade de ambos os dados de Artur serem no maximo j e (j sobre 6) ao quadrado. Assim, a chance de Artur vencer dado j e 1 menos (j sobre 6) ao quadrado. Como j pode ser de 1 a 6, fazemos a media dessas probabilidades. O resultado e 125 dividido por 216. Portanto, Artur tem maior chance e a alternativa correta e a letra E."
+  "tts_text": "Se o resultado de João é j, Artur vence quando o maior dos seus dois dados é maior que j. A probabilidade de ambos os dados de Artur serem no máximo j é (j sobre 6) ao quadrado. Assim, a chance de Artur vencer dado j é 1 menos (j sobre 6) ao quadrado. Como j pode ser de 1 a 6, fazemos a média dessas probabilidades. O resultado é 125 dividido por 216. Portanto, Artur tem maior chance, e a alternativa correta é a letra E."
 }

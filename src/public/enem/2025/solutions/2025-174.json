@@ -19,5 +19,5 @@
       "body_md": "Com $100$ moedas no início:\n\n$$\n100 + 3n\n$$"
     }
   ],
-  "tts_text": "Em cada rodada, o jogador da posicao 1 entrega 1 moeda e recebe 4. Assim, o ganho liquido por rodada e de 3 moedas. Partindo de 100 moedas, ao final de n rodadas ele tera 100 mais 3n. Portanto, a alternativa correta e a letra D."
+  "tts_text": "Em cada rodada, o jogador da posição 1 entrega 1 moeda e recebe 4. Assim, o ganho líquido por rodada é de 3 moedas. Partindo de 100 moedas, ao final de n rodadas ele terá 100 mais 3n. Portanto, a alternativa correta é a letra D."
 }

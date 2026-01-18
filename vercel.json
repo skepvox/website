@@ -63,6 +63,11 @@
   ],
   "redirects": [
     {
+      "source": "/enem/2025/:path*.html",
+      "destination": "/enem/2025/:path*",
+      "permanent": true
+    },
+    {
       "source": "/enem/2025/matematica/caderno-5/questao-136",
       "destination": "/enem/2025/matematica/questao/2025-147",
       "permanent": true

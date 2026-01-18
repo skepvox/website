@@ -5,7 +5,7 @@ outline: [2, 3]
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/enem/2025/ciencias-da-natureza.html"
+      href: "https://skepvox.com/enem/2025/ciencias-da-natureza"
   - - meta
     - name: description
       content: "Questões de Ciências da Natureza e suas Tecnologias do Enem 2025 (Dia 2, aplicação regular). Ordem do caderno verde (CD8) com mapeamento para amarelo, azul e cinza."
@@ -17,7 +17,7 @@ head:
       content: "Questões de Ciências da Natureza e suas Tecnologias do Enem 2025 (Dia 2, aplicação regular). Ordem do caderno verde (CD8) com mapeamento para amarelo, azul e cinza."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/enem/2025/ciencias-da-natureza.html"
+      content: "https://skepvox.com/enem/2025/ciencias-da-natureza"
   - - meta
     - property: og:type
       content: website
@@ -38,7 +38,7 @@ head:
         "@type": "CollectionPage",
         "name": "Enem 2025 — Ciências da Natureza e suas Tecnologias — Caderno Verde",
         "description": "Questões de Ciências da Natureza e suas Tecnologias do Enem 2025 (Dia 2, aplicação regular). Ordem do caderno verde (CD8) com mapeamento para amarelo, azul e cinza.",
-        "url": "https://skepvox.com/enem/2025/ciencias-da-natureza.html",
+        "url": "https://skepvox.com/enem/2025/ciencias-da-natureza",
         "inLanguage": "pt-BR",
         "about": [
           "Enem",
@@ -57,271 +57,271 @@ head:
             {
               "@type": "ListItem",
               "position": 1,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-091.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-091",
               "name": "Questão 91"
             },
             {
               "@type": "ListItem",
               "position": 2,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-092.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-092",
               "name": "Questão 92"
             },
             {
               "@type": "ListItem",
               "position": 3,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-093.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-093",
               "name": "Questão 93"
             },
             {
               "@type": "ListItem",
               "position": 4,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-094.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-094",
               "name": "Questão 94"
             },
             {
               "@type": "ListItem",
               "position": 5,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-095.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-095",
               "name": "Questão 95"
             },
             {
               "@type": "ListItem",
               "position": 6,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-096.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-096",
               "name": "Questão 96"
             },
             {
               "@type": "ListItem",
               "position": 7,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-097.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-097",
               "name": "Questão 97"
             },
             {
               "@type": "ListItem",
               "position": 8,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-098.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-098",
               "name": "Questão 98"
             },
             {
               "@type": "ListItem",
               "position": 9,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-099.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-099",
               "name": "Questão 99"
             },
             {
               "@type": "ListItem",
               "position": 10,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-100.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-100",
               "name": "Questão 100"
             },
             {
               "@type": "ListItem",
               "position": 11,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-101.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-101",
               "name": "Questão 101"
             },
             {
               "@type": "ListItem",
               "position": 12,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-102.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-102",
               "name": "Questão 102"
             },
             {
               "@type": "ListItem",
               "position": 13,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-103.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-103",
               "name": "Questão 103"
             },
             {
               "@type": "ListItem",
               "position": 14,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-104.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-104",
               "name": "Questão 104"
             },
             {
               "@type": "ListItem",
               "position": 15,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-105.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-105",
               "name": "Questão 105"
             },
             {
               "@type": "ListItem",
               "position": 16,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-106.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-106",
               "name": "Questão 106"
             },
             {
               "@type": "ListItem",
               "position": 17,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-107.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-107",
               "name": "Questão 107"
             },
             {
               "@type": "ListItem",
               "position": 18,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-108.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-108",
               "name": "Questão 108"
             },
             {
               "@type": "ListItem",
               "position": 19,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-109.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-109",
               "name": "Questão 109"
             },
             {
               "@type": "ListItem",
               "position": 20,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-110.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-110",
               "name": "Questão 110"
             },
             {
               "@type": "ListItem",
               "position": 21,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-111.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-111",
               "name": "Questão 111"
             },
             {
               "@type": "ListItem",
               "position": 22,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-112.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-112",
               "name": "Questão 112"
             },
             {
               "@type": "ListItem",
               "position": 23,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-113.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-113",
               "name": "Questão 113"
             },
             {
               "@type": "ListItem",
               "position": 24,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-114.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-114",
               "name": "Questão 114"
             },
             {
               "@type": "ListItem",
               "position": 25,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-115.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-115",
               "name": "Questão 115"
             },
             {
               "@type": "ListItem",
               "position": 26,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-116.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-116",
               "name": "Questão 116"
             },
             {
               "@type": "ListItem",
               "position": 27,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-117.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-117",
               "name": "Questão 117"
             },
             {
               "@type": "ListItem",
               "position": 28,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-118.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-118",
               "name": "Questão 118"
             },
             {
               "@type": "ListItem",
               "position": 29,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-119.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-119",
               "name": "Questão 119"
             },
             {
               "@type": "ListItem",
               "position": 30,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-120.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-120",
               "name": "Questão 120"
             },
             {
               "@type": "ListItem",
               "position": 31,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-121.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-121",
               "name": "Questão 121"
             },
             {
               "@type": "ListItem",
               "position": 32,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-122.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-122",
               "name": "Questão 122"
             },
             {
               "@type": "ListItem",
               "position": 33,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-123.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-123",
               "name": "Questão 123"
             },
             {
               "@type": "ListItem",
               "position": 34,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-124.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-124",
               "name": "Questão 124"
             },
             {
               "@type": "ListItem",
               "position": 35,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-125.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-125",
               "name": "Questão 125"
             },
             {
               "@type": "ListItem",
               "position": 36,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-126.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-126",
               "name": "Questão 126"
             },
             {
               "@type": "ListItem",
               "position": 37,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-127.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-127",
               "name": "Questão 127"
             },
             {
               "@type": "ListItem",
               "position": 38,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-128.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-128",
               "name": "Questão 128"
             },
             {
               "@type": "ListItem",
               "position": 39,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-129.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-129",
               "name": "Questão 129"
             },
             {
               "@type": "ListItem",
               "position": 40,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-130.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-130",
               "name": "Questão 130"
             },
             {
               "@type": "ListItem",
               "position": 41,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-131.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-131",
               "name": "Questão 131"
             },
             {
               "@type": "ListItem",
               "position": 42,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-132.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-132",
               "name": "Questão 132"
             },
             {
               "@type": "ListItem",
               "position": 43,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-133.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-133",
               "name": "Questão 133"
             },
             {
               "@type": "ListItem",
               "position": 44,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-134.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-134",
               "name": "Questão 134"
             },
             {
               "@type": "ListItem",
               "position": 45,
-              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-135.html",
+              "url": "https://skepvox.com/enem/2025/ciencias-da-natureza/questao/2025-135",
               "name": "Questão 135"
             }
           ]

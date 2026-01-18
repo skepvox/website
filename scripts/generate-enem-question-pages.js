@@ -78,6 +78,7 @@ const stripLatexDelimitersForMeta = (value) => {
     .replace(/\\\[(.+?)\\\]/gs, (_, inner) => String(inner).replace(/\s+/g, ' ').trim())
     .replace(/\\\((.+?)\\\)/g, (_, inner) => String(inner).trim())
     .replace(/\$([^\s][\s\S]*?[^\s])\$/g, (_, inner) => String(inner).trim())
+    .replace(/<[^>]+>/g, '')
     .replace(/\s+/g, ' ')
     .trim()
 }
@@ -137,7 +138,7 @@ const padNumber = (value) => String(value).padStart(3, '0')
 const getQuestionId = (question) => `${question.year}-${padNumber(question.number)}`
 
 const buildCanonicalUrl = (questionId) =>
-  `${SITE_URL}/enem/${YEAR}/${AREA_CODE}/questao/${questionId}.html`
+  `${SITE_URL}/enem/${YEAR}/${AREA_CODE}/questao/${questionId}`
 
 const buildQuestionJsonUrl = (questionId) =>
   `${SITE_URL}/enem/${YEAR}/questions/${questionId}.json`
@@ -214,7 +215,16 @@ const buildMetaDescription = (question, entries) => {
   const baseLength = lead.length + (mappingText ? mappingText.length + 1 : 0)
   const remaining = Math.max(0, 180 - baseLength - 1)
   const snippetText = truncateText(snippet, remaining)
-  const parts = [lead, snippetText, mappingText].filter(Boolean)
+  const parts = [lead, snippetText].filter(Boolean)
+  if (mappingText) {
+    if (snippetText) {
+      const tail = parts[parts.length - 1] || ''
+      if (tail && !/[.!?…]$/.test(tail.trim())) {
+        parts[parts.length - 1] = `${tail.trim()}.`
+      }
+    }
+    parts.push(mappingText)
+  }
   return parts.join(' ').replace(/\s+/g, ' ').trim()
 }
 
@@ -250,7 +260,7 @@ const buildJsonLd = (question, entries, canonicalUrl, questionJsonUrl, correctAn
       isPartOf: {
         '@type': 'LearningResource',
         name: `Enem ${question.year} — ${AREA_LABEL}`,
-        url: `${SITE_URL}/enem/${question.year}/${AREA_CODE}.html`
+        url: `${SITE_URL}/enem/${question.year}/${AREA_CODE}`
       },
       additionalProperty: props.length ? props : undefined,
       contentUrl: questionJsonUrl
@@ -269,7 +279,7 @@ const buildJsonLd = (question, entries, canonicalUrl, questionJsonUrl, correctAn
           '@type': 'ListItem',
           position: 2,
           name: `Enem ${question.year} ${AREA_LABEL}`,
-          item: `${SITE_URL}/enem/${question.year}/${AREA_CODE}.html`
+          item: `${SITE_URL}/enem/${question.year}/${AREA_CODE}`
         },
         {
           '@type': 'ListItem',
@@ -323,8 +333,16 @@ const formatSource = (source) => {
     parts.push(source.url)
   }
   let line = parts.filter(Boolean).join('. ')
+  const suffixes = []
   if (source.access_date) {
-    line = line ? `${line} (acesso em ${source.access_date})` : `Acesso em ${source.access_date}`
+    suffixes.push(`acesso em ${source.access_date}`)
+  }
+  if (source.note) {
+    suffixes.push(source.note)
+  }
+  if (suffixes.length) {
+    const suffix = suffixes.join('; ')
+    line = line ? `${line} (${suffix})` : suffix
   }
   return line
 }
@@ -753,7 +771,7 @@ const buildMarkdown = (question) => {
     lines.push(...mappingLines, '')
   }
   lines.push(
-    `[${AREA_SHORT} ${question.year} · Caderno Verde Completo](/enem/${question.year}/${AREA_CODE}.html)`,
+    `[${AREA_SHORT} ${question.year} · Caderno Verde Completo](/enem/${question.year}/${AREA_CODE})`,
     ''
   )
 

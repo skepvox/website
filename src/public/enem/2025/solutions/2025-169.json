@@ -23,5 +23,5 @@
       "body_md": "$150 + 150 = 300$ maneiras."
     }
   ],
-  "tts_text": "Ha oito presentes diferentes, incluindo bicicleta e celular. O mais velho deve receber ou a bicicleta ou o celular, mas nao os dois. No caso em que ele recebe a bicicleta, escolhemos mais 2 presentes entre os 6 restantes, o que da 15 maneiras. Em seguida, escolhemos 3 presentes entre os 5 restantes para o mais novo, totalizando 10 maneiras. Esse caso da 150. O caso em que o mais velho recebe o celular e igual, somando mais 150. Portanto, ha 300 maneiras, alternativa C."
+  "tts_text": "Há oito presentes diferentes, incluindo bicicleta e celular. O mais velho deve receber ou a bicicleta ou o celular, mas não os dois. No caso em que ele recebe a bicicleta, escolhemos mais 2 presentes entre os 6 restantes, o que dá 15 maneiras. Em seguida, escolhemos 3 presentes entre os 5 restantes para o mais novo, totalizando 10 maneiras. Esse caso dá 150. O caso em que o mais velho recebe o celular é igual, somando mais 150. Portanto, há 300 maneiras, alternativa C."
 }
