@@ -1,5 +1,3 @@
-import fs from 'fs'
-import path from 'path'
 import {
   defineConfigWithTheme,
   type HeadConfig,
@@ -39,7 +37,7 @@ const nav: ThemeConfig['nav'] = [
   {
     text: 'Demos',
     activeMatch: '^/demos/',
-    link: '/demos/'
+    link: '/demos/brasil/'
   },
 ]
 
@@ -134,16 +132,7 @@ export const sidebar: ThemeConfig['sidebar'] = {
   '/demos/': [
     {
       text: 'Demos',
-      items: [
-        { text: 'Visão geral', link: '/demos/' },
-        { text: 'Metodologia', link: '/demos/metodologia' },
-        { text: 'Pessoas', link: '/demos/pessoas/' },
-        { text: 'Organizações', link: '/demos/organizacoes/' },
-        { text: 'Casos', link: '/demos/casos/' },
-        { text: 'Perguntas', link: '/demos/perguntas' },
-        { text: 'Mapa Relacional', link: '/demos/mapa' },
-        { text: 'Brasil', link: '/demos/brasil/' },
-      ]
+      items: [{ text: 'Mapa do Brasil', link: '/demos/brasil/' }]
     }
   ],
 
@@ -158,60 +147,6 @@ const i18n: ThemeConfig['i18n'] = {
 
 const SITE_ORIGIN = 'https://skepvox.com'
 
-const PUBLIC_DIR = path.resolve(__dirname, '..', 'src', 'public')
-
-const ndjsonPlugin: Plugin = {
-  name: 'skepvox-ndjson-utf8',
-  configureServer(server) {
-    server.middlewares.use((req, res, next) => {
-      const rawUrl = req.url
-      if (!rawUrl) return next()
-
-      const pathname = rawUrl.split('?')[0]
-      if (!pathname?.endsWith('.jsonl')) return next()
-
-      const relative = decodeURIComponent(pathname).replace(/^\//, '')
-      const absolute = path.resolve(PUBLIC_DIR, relative)
-
-      if (!absolute.startsWith(PUBLIC_DIR + path.sep)) return next()
-      if (!fs.existsSync(absolute)) return next()
-
-      res.statusCode = 200
-      res.setHeader('Content-Type', 'application/x-ndjson; charset=utf-8')
-      res.setHeader('Cache-Control', 'no-store')
-
-      fs.createReadStream(absolute).pipe(res)
-    })
-  }
-}
-
-function stripSkepvoxSuffix(value: string) {
-  return value.replace(/\s+—\s+Skepvox\s*$/i, '').trim()
-}
-
-function canonicalUrlFromRelativePath(relativePath: string) {
-  const withoutExt = relativePath.replace(/\.md$/i, '')
-  return `${SITE_ORIGIN}/${withoutExt}.html`
-}
-
-function demosNoteJsonUrl(demosId: string) {
-  return `${SITE_ORIGIN}/demos-data/notes/${encodeURIComponent(demosId)}.json`
-}
-
-function urlForDemosHub(kind: string) {
-  if (kind === 'person') return `${SITE_ORIGIN}/demos/pessoas/index.html`
-  if (kind === 'org') return `${SITE_ORIGIN}/demos/organizacoes/index.html`
-  if (kind === 'case') return `${SITE_ORIGIN}/demos/casos/index.html`
-  return `${SITE_ORIGIN}/demos/index.html`
-}
-
-function labelForDemosHub(kind: string) {
-  if (kind === 'person') return 'Pessoas'
-  if (kind === 'org') return 'Organizações'
-  if (kind === 'case') return 'Casos'
-  return 'Demos'
-}
-
 const config: UserConfigExport<ThemeConfig> = (async () => {
   const mathjax = await initMathJax()
   const mathjaxMdPlugin = createMathJaxMdPlugin(mathjax)
@@ -220,151 +155,6 @@ const config: UserConfigExport<ThemeConfig> = (async () => {
   return defineConfigWithTheme<ThemeConfig>({
   extends: baseConfig,
   cleanUrls: false,
-
-  transformHead: ({ pageData }: any) => {
-    const frontmatter = pageData?.frontmatter ?? {}
-    const demos = frontmatter?.demos
-    const demosId = typeof demos?.id === 'string' ? demos.id : ''
-    const demosType = typeof demos?.type === 'string' ? demos.type : ''
-
-    if (!demosId) return []
-    if (typeof pageData?.relativePath !== 'string') return []
-    if (!pageData.relativePath.startsWith('demos/')) return []
-
-    const title = typeof frontmatter.title === 'string' ? frontmatter.title : ''
-    const description =
-      typeof frontmatter.description === 'string'
-        ? frontmatter.description
-        : typeof pageData?.description === 'string'
-          ? pageData.description
-          : ''
-
-    const canonicalUrl = canonicalUrlFromRelativePath(pageData.relativePath)
-    const jsonUrl = demosNoteJsonUrl(demosId)
-    const fallbackTitle = typeof pageData?.title === 'string' ? pageData.title : demosId
-    const pageTitle = stripSkepvoxSuffix(title || fallbackTitle)
-    const entityName = pageTitle
-    const ogImage = `${SITE_ORIGIN}/og-skepvox.png`
-
-    const sameAs: string[] = []
-    const identifiers = demos?.identifiers
-    if (identifiers && typeof identifiers === 'object') {
-      for (const value of Object.values(identifiers as Record<string, unknown>)) {
-        if (typeof value !== 'string') continue
-        if (value.startsWith('http://') || value.startsWith('https://')) {
-          sameAs.push(value)
-        }
-        if (/^Q[0-9]+$/.test(value)) {
-          sameAs.push(`https://www.wikidata.org/wiki/${value}`)
-        }
-      }
-    }
-
-    const aliases = Array.isArray(demos?.aliases)
-      ? (demos.aliases.filter((v: unknown) => typeof v === 'string') as string[])
-      : []
-
-    const entityType =
-      demosType === 'person'
-        ? 'Person'
-        : demosType === 'org'
-          ? 'Organization'
-          : demosType === 'case'
-            ? 'CreativeWork'
-            : 'Thing'
-
-    const pageType =
-      demosType === 'person' || demosType === 'org' ? 'ProfilePage' : 'WebPage'
-
-    const jsonLd = {
-      '@context': 'https://schema.org',
-      '@graph': [
-        {
-          '@type': 'BreadcrumbList',
-          itemListElement: [
-            {
-              '@type': 'ListItem',
-              position: 1,
-              name: 'Skepvox',
-              item: `${SITE_ORIGIN}/`
-            },
-            {
-              '@type': 'ListItem',
-              position: 2,
-              name: 'Demos',
-              item: `${SITE_ORIGIN}/demos/index.html`
-            },
-            {
-              '@type': 'ListItem',
-              position: 3,
-              name: labelForDemosHub(demosType),
-              item: urlForDemosHub(demosType)
-            },
-            {
-              '@type': 'ListItem',
-              position: 4,
-              name: entityName,
-              item: canonicalUrl
-            }
-          ]
-        },
-        {
-          '@type': pageType,
-          '@id': `${canonicalUrl}#webpage`,
-          url: canonicalUrl,
-          name: entityName,
-          description,
-          inLanguage: 'pt-BR',
-          isAccessibleForFree: true,
-          mainEntity: {
-            '@id': `${canonicalUrl}#entity`
-          }
-        },
-        {
-          '@type': entityType,
-          '@id': `${canonicalUrl}#entity`,
-          name: entityName,
-          identifier: demosId,
-          ...(aliases.length ? { alternateName: aliases } : {}),
-          ...(sameAs.length ? { sameAs } : {})
-        }
-      ]
-    }
-
-    return [
-      ['link', { rel: 'canonical', href: canonicalUrl }],
-      [
-        'link',
-        {
-          rel: 'alternate',
-          type: 'application/json',
-          href: jsonUrl,
-          title: 'Dados da nota (JSON)'
-        }
-      ],
-      [
-        'meta',
-        {
-          name: 'robots',
-          content: 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'
-        }
-      ],
-      ['meta', { property: 'og:title', content: pageTitle }],
-      ['meta', { property: 'og:description', content: description }],
-      ['meta', { property: 'og:url', content: canonicalUrl }],
-      ['meta', { property: 'og:type', content: 'article' }],
-      ['meta', { property: 'og:site_name', content: 'Skepvox' }],
-      ['meta', { property: 'og:locale', content: 'pt_BR' }],
-      ['meta', { property: 'og:image', content: ogImage }],
-      ['meta', { property: 'og:image:alt', content: 'Skepvox' }],
-      ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
-      ['meta', { name: 'twitter:title', content: pageTitle }],
-      ['meta', { name: 'twitter:description', content: description }],
-      ['meta', { name: 'twitter:image', content: ogImage }],
-      ['meta', { name: 'twitter:image:alt', content: 'Skepvox' }],
-      ['script', { type: 'application/ld+json' }, JSON.stringify(jsonLd)]
-    ]
-  },
 
   sitemap: {
     hostname: SITE_ORIGIN,
@@ -393,15 +183,6 @@ const config: UserConfigExport<ThemeConfig> = (async () => {
       ? [['style', { id: mathjaxStyles.id }, mathjaxStyles.css] as HeadConfig]
       : []),
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }],
-    [
-      'link',
-      {
-        rel: 'alternate',
-        type: 'application/x-ndjson',
-        href: '/demos-data/notes.jsonl',
-        title: 'Skepvox · Demos · Notes (JSONL)'
-      }
-    ],
     ['meta', { name: 'theme-color', content: '#3c8772' }],
     ['meta', { property: 'og:url', content: 'https://skepvox.com/' }],
     ['meta', { property: 'og:type', content: 'website' }],
@@ -562,7 +343,6 @@ Skepvox - Literatura & Filosofia
 
 {toc}`
       }) as Plugin,
-      ndjsonPlugin,
       groupIconVitePlugin({
         customIcon: {
           cypress: 'vscode-icons:file-type-cypress',

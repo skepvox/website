@@ -12,16 +12,12 @@ import AssetChart from './components/enem/assets/AssetChart.vue'
 // import Banner from './components/Banner.vue'
 // import TextAd from './components/TextAd.vue'
 import NavBarTitleSkepvox from './components/NavBarTitleSkepvox.vue'
-import DemosMapaRelacionalCta from './components/DemosMapaRelacionalCta.vue'
-import DemosEntityMap from './components/DemosEntityMap.vue'
 
 import 'vitepress/dist/client/theme-default/styles/components/vp-code-group.css'
 import 'virtual:group-icons.css'
 
-const DemosMapa = defineAsyncComponent(() => import('./components/DemosMapa.vue'))
 const DemosBrasilMapa = defineAsyncComponent(() => import('./components/DemosBrasilMapa.vue'))
 const DemosBrasilMapaTopo = defineAsyncComponent(() => import('./components/DemosBrasilMapaTopo.vue'))
-const DemosQuestions = defineAsyncComponent(() => import('./components/DemosQuestions.vue'))
 
 if (typeof window !== 'undefined') {
   import('katex/dist/contrib/copy-tex.js')
@@ -46,12 +42,8 @@ export default Object.assign({}, VPTheme, {
     app.component('QuestionCardLoader', QuestionCardLoader)
     app.component('QuestionPreviewCard', QuestionPreviewCard)
     app.component('AssetChart', AssetChart)
-    app.component('DemosMapa', DemosMapa)
-    app.component('DemosMapaRelacionalCta', DemosMapaRelacionalCta)
     app.component('DemosBrasilMapa', DemosBrasilMapa)
     app.component('DemosBrasilMapaTopo', DemosBrasilMapaTopo)
-    app.component('DemosEntityMap', DemosEntityMap)
-    app.component('DemosQuestions', DemosQuestions)
     // app.component('TextAd', TextAd)
   }
 })

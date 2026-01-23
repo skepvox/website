@@ -4,12 +4,10 @@
   },
   "type": "module",
   "scripts": {
-    "dev": "node scripts/demos-notes-data.js export && vitepress",
-    "build": "node scripts/demos-notes-data.js export && vitepress build",
+    "dev": "vitepress",
+    "build": "vitepress build",
     "preview": "vitepress preview",
     "preinstall": "npx only-allow pnpm",
-    "demos:data": "node scripts/demos-notes-data.js export",
-    "demos:import": "node scripts/demos-notes-data.js import",
     "type": "vue-tsc --noEmit",
     "publish:enem": "node scripts/publish-enem.js"
   },

@@ -13,7 +13,7 @@ const items = ecosystem
 </script>
 
 <template>
-  <section id="sitemap">
+  <section id="sitemap" v-if="items.length">
     <div class="container">
       <div class="sitemap-col" v-for="col in items">
         <h4>{{ col.text }}</h4>

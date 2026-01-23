@@ -2,16 +2,6 @@
 
 This repo contains the VitePress site in `src/`. The Enem pipeline lives at the repo root and is git-ignored so we can iterate on data without committing it.
 
-## Demos pipelines (`/demos`)
-
-### Demos graph export
-
-The `/demos/mapa` page consumes prebuilt graph data generated from the Markdown notes in `src/demos/`.
-
-- Generate: `pnpm demos:data` (or `node scripts/demos-notes-data.js export`)
-- Output: `src/public/demos-data/graph.json`, `src/public/demos-data/subgraphs/`, `src/public/demos-data/notes-meta/`, and `src/public/demos-data/notes.jsonl`
-- Note: the exporter is conservative: it only emits `person ↔ person` edges for `family`, and does not emit “mentions/link” edges.
-
 ## Enem extraction pipeline (`pipeline-enem-extraction/`)
 
 Purpose: extract Enem PDF exams into structured JSON plus assets for rendering questions.

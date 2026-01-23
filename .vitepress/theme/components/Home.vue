@@ -34,8 +34,8 @@ import VueMasteryModal from './VueMasteryModal.vue'
         </svg> -->
       </a>
       <a class="setup" href="/literatura/">Literatura</a>
-      <a class="security" href="/demos/mapa">
-        Mapa Relacional
+      <a class="security" href="/demos/brasil/">
+        Demos
         <!-- <svg
           class="icon"
           xmlns="http://www.w3.org/2000/svg"
