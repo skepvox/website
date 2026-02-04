@@ -63,8 +63,29 @@
   ],
   "redirects": [
     {
-      "source": "/enem/2025/:path*.html",
-      "destination": "/enem/2025/:path*",
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "skepvox.com"
+        }
+      ],
+      "destination": "https://www.skepvox.com/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/:path*/index.html",
+      "destination": "/:path*/",
+      "permanent": true
+    },
+    {
+      "source": "/:path*.html",
+      "destination": "/:path*",
       "permanent": true
     },
     {

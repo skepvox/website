@@ -145,7 +145,82 @@ const i18n: ThemeConfig['i18n'] = {
   appearance: 'Modo de leitura'
 }
 
-const SITE_ORIGIN = 'https://skepvox.com'
+const SITE_ORIGIN = 'https://www.skepvox.com'
+
+const CANONICAL_HOSTNAME = 'www.skepvox.com'
+
+function normalizeSkepvoxPathname(pathname: string): string {
+  if (pathname === '/index.html') return '/'
+  if (pathname.endsWith('/index.html')) return pathname.slice(0, -'index.html'.length)
+  if (pathname.endsWith('.html')) return pathname.slice(0, -'.html'.length)
+  return pathname
+}
+
+function normalizeSkepvoxUrl(input: string): string {
+  if (
+    !input.startsWith('https://skepvox.com') &&
+    !input.startsWith('http://skepvox.com') &&
+    !input.startsWith('https://www.skepvox.com') &&
+    !input.startsWith('http://www.skepvox.com')
+  ) {
+    return input
+  }
+
+  try {
+    const url = new URL(input)
+    url.protocol = 'https:'
+    url.hostname = CANONICAL_HOSTNAME
+    url.pathname = normalizeSkepvoxPathname(url.pathname)
+    return url.toString()
+  } catch {
+    return input
+  }
+}
+
+function normalizeJsonLdUrls(value: unknown): unknown {
+  if (Array.isArray(value)) return value.map(normalizeJsonLdUrls)
+  if (value && typeof value === 'object') {
+    const entries = Object.entries(value)
+    const normalized: Record<string, unknown> = {}
+    for (const [key, v] of entries) normalized[key] = normalizeJsonLdUrls(v)
+    return normalized
+  }
+  if (typeof value === 'string') return normalizeSkepvoxUrl(value)
+  return value
+}
+
+function normalizeHeadUrls(head: unknown): unknown {
+  if (!Array.isArray(head)) return head
+
+  return head.map((entry) => {
+    if (!Array.isArray(entry) || entry.length < 2) return entry
+    const [tag, attrs, children] = entry
+    if (!attrs || typeof attrs !== 'object') return entry
+
+    const normalizedAttrs: Record<string, unknown> = { ...(attrs as Record<string, unknown>) }
+    for (const key of ['href', 'content', 'src']) {
+      if (typeof normalizedAttrs[key] === 'string') {
+        normalizedAttrs[key] = normalizeSkepvoxUrl(normalizedAttrs[key] as string)
+      }
+    }
+
+    if (
+      tag === 'script' &&
+      normalizedAttrs.type === 'application/ld+json' &&
+      typeof children === 'string'
+    ) {
+      try {
+        const json = JSON.parse(children) as unknown
+        const normalizedJson = normalizeJsonLdUrls(json)
+        return ['script', normalizedAttrs, JSON.stringify(normalizedJson, null, 2)]
+      } catch {
+        return ['script', normalizedAttrs, children.replaceAll('https://skepvox.com', SITE_ORIGIN)]
+      }
+    }
+
+    return entry.length === 2 ? [tag, normalizedAttrs] : [tag, normalizedAttrs, children]
+  })
+}
 
 const config: UserConfigExport<ThemeConfig> = (async () => {
   const mathjax = await initMathJax()
@@ -165,11 +240,15 @@ const config: UserConfigExport<ThemeConfig> = (async () => {
         '/enem/overrides/README'
       ])
 
-      return items.filter((item) => {
-        const normalized = item.url.startsWith('/') ? item.url : `/${item.url}`
-        const comparable = normalized.replace(/\.html$/, '')
-        return !excluded.has(comparable)
-      })
+      return items
+        .map((item) => {
+          const normalized = item.url.startsWith('/') ? item.url : `/${item.url}`
+          return {
+            ...item,
+            url: normalizeSkepvoxPathname(normalized)
+          }
+        })
+        .filter((item) => !excluded.has(item.url))
     }
   },
 
@@ -184,7 +263,7 @@ const config: UserConfigExport<ThemeConfig> = (async () => {
       : []),
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }],
     ['meta', { name: 'theme-color', content: '#3c8772' }],
-    ['meta', { property: 'og:url', content: 'https://skepvox.com/' }],
+    ['meta', { property: 'og:url', content: `${SITE_ORIGIN}/` }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: 'Skepvox — Engenharia de Letras' }],
     [
@@ -198,14 +277,14 @@ const config: UserConfigExport<ThemeConfig> = (async () => {
       'meta',
       {
         property: 'og:image',
-        content: 'https://skepvox.com/og-skepvox-square.png'
+        content: `${SITE_ORIGIN}/og-skepvox-square.png`
       }
     ],
     [
       'meta',
       {
         name: 'twitter:image',
-        content: 'https://skepvox.com/og-skepvox-square.png'
+        content: `${SITE_ORIGIN}/og-skepvox-square.png`
       }
     ],
     ['meta', { name: 'twitter:site', content: '@skepvox' }],
@@ -269,6 +348,21 @@ const config: UserConfigExport<ThemeConfig> = (async () => {
       //   link: 'https://opensource.org/licenses/MIT'
       // },
       copyright: `2025-${new Date().getFullYear()} © Thiago Oliveira`
+    }
+  },
+
+  transformPageData: (pageData) => {
+    const frontmatter = pageData.frontmatter
+    if (!frontmatter || typeof frontmatter !== 'object') return
+    // @ts-ignore - frontmatter is untyped and can contain HeadConfig[]
+    const head = frontmatter.head
+    if (!Array.isArray(head)) return
+
+    return {
+      frontmatter: {
+        ...frontmatter,
+        head: normalizeHeadUrls(head)
+      }
     }
   },
 
