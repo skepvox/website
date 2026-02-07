@@ -1,6 +1,6 @@
 ---
-title: "Biografia — Louis Lavelle"
-description: "Biografia de Louis Lavelle (1883–1951), filósofo francês do spiritualisme français e da philosophie réflexive. Biographie du philosophe français, vie et œuvres."
+title: "Louis Lavelle — Leitura"
+description: "Louis Lavelle (1883–1951): leitura guiada, biografia e obras — spiritualisme français, philosophie réflexive, participação, dialética do ato e eterno presente."
 outline: 2
 head:
   - - link
@@ -8,22 +8,25 @@ head:
       href: "https://skepvox.com/louis-lavelle/"
   - - meta
     - name: description
-      content: "Biografia de Louis Lavelle (1883–1951), filósofo francês do spiritualisme français e da philosophie réflexive. Biographie du philosophe français, vie et œuvres."
+      content: "Louis Lavelle (1883–1951): leitura guiada, biografia e obras — spiritualisme français, philosophie réflexive, participação, dialética do ato e eterno presente."
   - - meta
     - name: keywords
-      content: "Louis Lavelle, biografia, biographie, filósofo francês, philosophe français, spiritualisme français, philosophie réflexive, La Dialectique de l'éternel présent, La conscience de soi, La Présence totale, Introduction à l'ontologie, De l'être, De l'acte, Du temps et de l'éternité, De l'âme humaine, L'Erreur de Narcisse, Quatre saints"
+      content: "Louis Lavelle, leitura, biografia, biographie, participação, metafísica da presença, dialética do ato, filósofo francês, philosophe français, spiritualisme français, philosophie réflexive, La Dialectique de l'éternel présent, La conscience de soi, La Présence totale, Introduction à l'ontologie, De l'être, De l'acte, Du temps et de l'éternité, De l'âme humaine, L'Erreur de Narcisse, Quatre saints"
   - - meta
     - property: og:title
-      content: "Biografia — Louis Lavelle"
+      content: "Louis Lavelle — Leitura"
   - - meta
     - property: og:description
-      content: "Biografia de Louis Lavelle (1883–1951), filósofo francês do spiritualisme français e da philosophie réflexive. Biographie du philosophe français, vie et œuvres."
+      content: "Louis Lavelle (1883–1951): leitura guiada, biografia e obras — spiritualisme français, philosophie réflexive, participação, dialética do ato e eterno presente."
   - - meta
     - property: og:url
       content: "https://skepvox.com/louis-lavelle/"
   - - meta
     - property: og:type
       content: profile
+  - - meta
+    - property: og:site_name
+      content: "Skepvox"
   - - meta
     - property: og:locale
       content: pt_BR
@@ -40,6 +43,15 @@ head:
     - property: og:image
       content: "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png"
   - - meta
+    - property: og:image:type
+      content: "image/png"
+  - - meta
+    - property: og:image:width
+      content: "1024"
+  - - meta
+    - property: og:image:height
+      content: "1024"
+  - - meta
     - property: og:image:alt
       content: "Retrato de Louis Lavelle"
   - - meta
@@ -47,10 +59,10 @@ head:
       content: summary_large_image
   - - meta
     - name: twitter:title
-      content: "Biografia — Louis Lavelle"
+      content: "Louis Lavelle — Leitura"
   - - meta
     - name: twitter:description
-      content: "Biografia de Louis Lavelle (1883–1951), filósofo francês do spiritualisme français e da philosophie réflexive. Biographie du philosophe français, vie et œuvres."
+      content: "Louis Lavelle (1883–1951): leitura guiada, biografia e obras — spiritualisme français, philosophie réflexive, participação, dialética do ato e eterno presente."
   - - meta
     - name: twitter:image
       content: "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png"
@@ -69,7 +81,7 @@ head:
           "Louis Lavelle (1883–1951)",
           "Lavelle"
         ],
-        "description": "Biografia de Louis Lavelle (1883–1951), filósofo francês do spiritualisme français e da philosophie réflexive. Biographie du philosophe français, vie et œuvres.",
+        "description": "Louis Lavelle (1883–1951): leitura guiada, biografia e obras — spiritualisme français, philosophie réflexive, participação, dialética do ato e eterno presente.",
         "url": "https://skepvox.com/louis-lavelle/",
         "image": {
           "@type": "ImageObject",
@@ -259,7 +271,7 @@ head:
       }
 ---
 
-# Louis Lavelle
+# Louis Lavelle — Leitura
 
 _Metafísica da presença, participação e dialética do ato._
 
