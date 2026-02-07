@@ -14,7 +14,7 @@ chapter-title: "138 — A um Crítico"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-138-a-um-critico.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-138-a-um-critico"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 138 — A um Crítico."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 138 — A um Crítico."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-138-a-um-critico.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-138-a-um-critico"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "138 — A um Crítico",
         "identifier": "00-17-138",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-138-a-um-critico.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-138-a-um-critico.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-138-a-um-critico",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-138-a-um-critico",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 138 — A um Crítico.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "138 — A um Crítico",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-138-a-um-critico.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-138-a-um-critico"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 138 — A um Crítico
 

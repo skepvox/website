@@ -14,7 +14,7 @@ chapter-title: "014 — A Inscrição"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-014-a-inscricao.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-014-a-inscricao"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 014 — A Inscrição."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 014 — A Inscrição."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-014-a-inscricao.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-014-a-inscricao"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "014 — A Inscrição",
         "identifier": "00-02-014",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-014-a-inscricao.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-014-a-inscricao.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-014-a-inscricao",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-014-a-inscricao",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 014 — A Inscrição.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "014 — A Inscrição",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-014-a-inscricao.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-014-a-inscricao"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 014 — A Inscrição
 

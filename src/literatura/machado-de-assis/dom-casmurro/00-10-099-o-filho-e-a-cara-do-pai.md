@@ -14,7 +14,7 @@ chapter-title: "099 — O Filho É a Cara do Pai"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-099-o-filho-e-a-cara-do-pai.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-099-o-filho-e-a-cara-do-pai"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 099 — O Filho É a Cara do Pai."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 099 — O Filho É a Cara do Pai."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-099-o-filho-e-a-cara-do-pai.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-099-o-filho-e-a-cara-do-pai"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "099 — O Filho É a Cara do Pai",
         "identifier": "00-10-099",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-099-o-filho-e-a-cara-do-pai.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-099-o-filho-e-a-cara-do-pai.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-099-o-filho-e-a-cara-do-pai",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-099-o-filho-e-a-cara-do-pai",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 099 — O Filho É a Cara do Pai.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "099 — O Filho É a Cara do Pai",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-099-o-filho-e-a-cara-do-pai.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-099-o-filho-e-a-cara-do-pai"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 099 — O Filho É a Cara do Pai
 

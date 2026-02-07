@@ -5,7 +5,7 @@ outline: 2
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse.html"
+      href: "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse"
   - - meta
     - name: description
       content: "Texte intégral en français de L'Erreur de Narcisse de Louis Lavelle."
@@ -17,7 +17,7 @@ head:
       content: "Texte intégral en français de L'Erreur de Narcisse de Louis Lavelle."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse.html"
+      content: "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse"
   - - meta
     - property: og:type
       content: book
@@ -54,80 +54,80 @@ head:
           "name": "Louis Lavelle"
         },
         "inLanguage": "fr",
-        "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse.html",
+        "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse",
         "description": "Texte intégral en français de L'Erreur de Narcisse de Louis Lavelle.",
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
         "hasPart": [
           {
             "@type": "Chapter",
             "name": "Chapitre 1. L'erreur de Narcisse",
-            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-001-l-erreur-de-narcisse.html",
+            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-001-l-erreur-de-narcisse",
             "identifier": "00-00-001"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre 2. Le secret de l'intimité",
-            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-002-le-secret-de-l-intimite.html",
+            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-002-le-secret-de-l-intimite",
             "identifier": "00-00-002"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre 3. Être soi-même",
-            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-003-etre-soi-meme.html",
+            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-003-etre-soi-meme",
             "identifier": "00-00-003"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre 4. L'action visible et l'action invisible",
-            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-004-l-action-visible-et-l-action-invisible.html",
+            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-004-l-action-visible-et-l-action-invisible",
             "identifier": "00-00-004"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre 5. Les puissances de la sensibilité",
-            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-005-les-puissances-de-la-sensibilite.html",
+            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-005-les-puissances-de-la-sensibilite",
             "identifier": "00-00-005"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre 6. L'indifférence et l'oubli",
-            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-006-l-indifference-et-l-oubli.html",
+            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-006-l-indifference-et-l-oubli",
             "identifier": "00-00-006"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre 7. La vocation et la destinée",
-            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-007-la-vocation-et-la-destinee.html",
+            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-007-la-vocation-et-la-destinee",
             "identifier": "00-00-007"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre 8. Tourments de l'individu",
-            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-008-tourments-de-l-individu.html",
+            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-008-tourments-de-l-individu",
             "identifier": "00-00-008"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre 9. Commerce entre les esprits",
-            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-009-commerce-entre-les-esprits.html",
+            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-009-commerce-entre-les-esprits",
             "identifier": "00-00-009"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre 10. Tranquillité d'âme",
-            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-010-tranquillite-d-ame.html",
+            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-010-tranquillite-d-ame",
             "identifier": "00-00-010"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre 11. La sagesse et les passions",
-            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-011-la-sagesse-et-les-passions.html",
+            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-011-la-sagesse-et-les-passions",
             "identifier": "00-00-011"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre 12. L'espace spirituel",
-            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-012-l-espace-spirituel.html",
+            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-012-l-espace-spirituel",
             "identifier": "00-00-012"
           }
         ]
@@ -145,73 +145,73 @@ head:
             "@type": "ListItem",
             "position": 1,
             "name": "Chapitre 1. L'erreur de Narcisse",
-            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-001-l-erreur-de-narcisse.html"
+            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-001-l-erreur-de-narcisse"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Chapitre 2. Le secret de l'intimité",
-            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-002-le-secret-de-l-intimite.html"
+            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-002-le-secret-de-l-intimite"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre 3. Être soi-même",
-            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-003-etre-soi-meme.html"
+            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-003-etre-soi-meme"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Chapitre 4. L'action visible et l'action invisible",
-            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-004-l-action-visible-et-l-action-invisible.html"
+            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-004-l-action-visible-et-l-action-invisible"
           },
           {
             "@type": "ListItem",
             "position": 5,
             "name": "Chapitre 5. Les puissances de la sensibilité",
-            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-005-les-puissances-de-la-sensibilite.html"
+            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-005-les-puissances-de-la-sensibilite"
           },
           {
             "@type": "ListItem",
             "position": 6,
             "name": "Chapitre 6. L'indifférence et l'oubli",
-            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-006-l-indifference-et-l-oubli.html"
+            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-006-l-indifference-et-l-oubli"
           },
           {
             "@type": "ListItem",
             "position": 7,
             "name": "Chapitre 7. La vocation et la destinée",
-            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-007-la-vocation-et-la-destinee.html"
+            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-007-la-vocation-et-la-destinee"
           },
           {
             "@type": "ListItem",
             "position": 8,
             "name": "Chapitre 8. Tourments de l'individu",
-            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-008-tourments-de-l-individu.html"
+            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-008-tourments-de-l-individu"
           },
           {
             "@type": "ListItem",
             "position": 9,
             "name": "Chapitre 9. Commerce entre les esprits",
-            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-009-commerce-entre-les-esprits.html"
+            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-009-commerce-entre-les-esprits"
           },
           {
             "@type": "ListItem",
             "position": 10,
             "name": "Chapitre 10. Tranquillité d'âme",
-            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-010-tranquillite-d-ame.html"
+            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-010-tranquillite-d-ame"
           },
           {
             "@type": "ListItem",
             "position": 11,
             "name": "Chapitre 11. La sagesse et les passions",
-            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-011-la-sagesse-et-les-passions.html"
+            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-011-la-sagesse-et-les-passions"
           },
           {
             "@type": "ListItem",
             "position": 12,
             "name": "Chapitre 12. L'espace spirituel",
-            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-012-l-espace-spirituel.html"
+            "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse/00-00-012-l-espace-spirituel"
           }
         ]
       }
@@ -232,7 +232,7 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "L'Erreur de Narcisse",
-            "item": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse.html"
+            "item": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse"
           }
         ]
       }
@@ -240,20 +240,20 @@ head:
 
 # L'Erreur de Narcisse
 
-## Table des matières
+**Table des matières**
 
-- [Chapitre 1. L'erreur de Narcisse](/louis-lavelle/l-erreur-de-narcisse/00-00-001-l-erreur-de-narcisse.html)
-- [Chapitre 2. Le secret de l'intimité](/louis-lavelle/l-erreur-de-narcisse/00-00-002-le-secret-de-l-intimite.html)
-- [Chapitre 3. Être soi-même](/louis-lavelle/l-erreur-de-narcisse/00-00-003-etre-soi-meme.html)
-- [Chapitre 4. L'action visible et l'action invisible](/louis-lavelle/l-erreur-de-narcisse/00-00-004-l-action-visible-et-l-action-invisible.html)
-- [Chapitre 5. Les puissances de la sensibilité](/louis-lavelle/l-erreur-de-narcisse/00-00-005-les-puissances-de-la-sensibilite.html)
-- [Chapitre 6. L'indifférence et l'oubli](/louis-lavelle/l-erreur-de-narcisse/00-00-006-l-indifference-et-l-oubli.html)
-- [Chapitre 7. La vocation et la destinée](/louis-lavelle/l-erreur-de-narcisse/00-00-007-la-vocation-et-la-destinee.html)
-- [Chapitre 8. Tourments de l'individu](/louis-lavelle/l-erreur-de-narcisse/00-00-008-tourments-de-l-individu.html)
-- [Chapitre 9. Commerce entre les esprits](/louis-lavelle/l-erreur-de-narcisse/00-00-009-commerce-entre-les-esprits.html)
-- [Chapitre 10. Tranquillité d'âme](/louis-lavelle/l-erreur-de-narcisse/00-00-010-tranquillite-d-ame.html)
-- [Chapitre 11. La sagesse et les passions](/louis-lavelle/l-erreur-de-narcisse/00-00-011-la-sagesse-et-les-passions.html)
-- [Chapitre 12. L'espace spirituel](/louis-lavelle/l-erreur-de-narcisse/00-00-012-l-espace-spirituel.html)
+- [Chapitre 1. L'erreur de Narcisse](/louis-lavelle/l-erreur-de-narcisse/00-00-001-l-erreur-de-narcisse)
+- [Chapitre 2. Le secret de l'intimité](/louis-lavelle/l-erreur-de-narcisse/00-00-002-le-secret-de-l-intimite)
+- [Chapitre 3. Être soi-même](/louis-lavelle/l-erreur-de-narcisse/00-00-003-etre-soi-meme)
+- [Chapitre 4. L'action visible et l'action invisible](/louis-lavelle/l-erreur-de-narcisse/00-00-004-l-action-visible-et-l-action-invisible)
+- [Chapitre 5. Les puissances de la sensibilité](/louis-lavelle/l-erreur-de-narcisse/00-00-005-les-puissances-de-la-sensibilite)
+- [Chapitre 6. L'indifférence et l'oubli](/louis-lavelle/l-erreur-de-narcisse/00-00-006-l-indifference-et-l-oubli)
+- [Chapitre 7. La vocation et la destinée](/louis-lavelle/l-erreur-de-narcisse/00-00-007-la-vocation-et-la-destinee)
+- [Chapitre 8. Tourments de l'individu](/louis-lavelle/l-erreur-de-narcisse/00-00-008-tourments-de-l-individu)
+- [Chapitre 9. Commerce entre les esprits](/louis-lavelle/l-erreur-de-narcisse/00-00-009-commerce-entre-les-esprits)
+- [Chapitre 10. Tranquillité d'âme](/louis-lavelle/l-erreur-de-narcisse/00-00-010-tranquillite-d-ame)
+- [Chapitre 11. La sagesse et les passions](/louis-lavelle/l-erreur-de-narcisse/00-00-011-la-sagesse-et-les-passions)
+- [Chapitre 12. L'espace spirituel](/louis-lavelle/l-erreur-de-narcisse/00-00-012-l-espace-spirituel)
 
 ## Chapitre 1. L'erreur de Narcisse
 

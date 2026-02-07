@@ -14,7 +14,7 @@ chapter-title: "104 — A Resposta"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-104-a-resposta.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-104-a-resposta"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 104 — A Resposta."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 104 — A Resposta."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-104-a-resposta.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-104-a-resposta"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "104 — A Resposta",
         "identifier": "00-12-104",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-104-a-resposta.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-104-a-resposta.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-104-a-resposta",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-104-a-resposta",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 104 — A Resposta.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "104 — A Resposta",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-104-a-resposta.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-104-a-resposta"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 104 — A Resposta
 

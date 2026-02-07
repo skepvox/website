@@ -14,7 +14,7 @@ chapter-title: "052 — O Velho Pádua"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-052-o-velho-padua.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-052-o-velho-padua"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 052 — O Velho Pádua."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 052 — O Velho Pádua."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-052-o-velho-padua.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-052-o-velho-padua"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "052 — O Velho Pádua",
         "identifier": "00-06-052",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-052-o-velho-padua.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-052-o-velho-padua.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-052-o-velho-padua",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-052-o-velho-padua",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 052 — O Velho Pádua.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "052 — O Velho Pádua",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-052-o-velho-padua.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-052-o-velho-padua"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 052 — O Velho Pádua
 

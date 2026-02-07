@@ -14,7 +14,7 @@ chapter-title: "019 — Sem Falta"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-019-sem-falta.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-019-sem-falta"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 019 — Sem Falta."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 019 — Sem Falta."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-019-sem-falta.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-019-sem-falta"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "019 — Sem Falta",
         "identifier": "00-02-019",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-019-sem-falta.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-019-sem-falta.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-019-sem-falta",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-019-sem-falta",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 019 — Sem Falta.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "019 — Sem Falta",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-019-sem-falta.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-019-sem-falta"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 019 — Sem Falta
 

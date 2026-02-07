@@ -123,7 +123,7 @@ head:
       }
 ---
 
-[Retour au livre](/louis-lavelle/la-presence-totale.html)
+[Retour au livre](/louis-lavelle/la-presence-totale)
 
 ## La présence de tous les états est suspendue à la présence du même acte
 

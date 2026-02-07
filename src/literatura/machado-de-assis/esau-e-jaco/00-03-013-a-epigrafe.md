@@ -14,7 +14,7 @@ chapter-title: "013 — A Epígrafe"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-013-a-epigrafe.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-013-a-epigrafe"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 013 — A Epígrafe."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 013 — A Epígrafe."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-013-a-epigrafe.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-013-a-epigrafe"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "013 — A Epígrafe",
         "identifier": "00-03-013",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-013-a-epigrafe.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-013-a-epigrafe.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-013-a-epigrafe",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-013-a-epigrafe",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 013 — A Epígrafe.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "013 — A Epígrafe",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-013-a-epigrafe.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-013-a-epigrafe"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 013 — A Epígrafe
 

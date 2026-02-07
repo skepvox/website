@@ -123,7 +123,7 @@ head:
       }
 ---
 
-[Retour au livre](/louis-lavelle/de-l-etre.html)
+[Retour au livre](/louis-lavelle/de-l-etre)
 
 ## Chapitre 1. De la primauté de l'être
 

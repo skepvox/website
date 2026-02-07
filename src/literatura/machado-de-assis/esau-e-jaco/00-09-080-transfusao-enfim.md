@@ -14,7 +14,7 @@ chapter-title: "080 — Transfusão, Enfim"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-080-transfusao-enfim.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-080-transfusao-enfim"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 080 — Transfusão, Enfim."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 080 — Transfusão, Enfim."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-080-transfusao-enfim.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-080-transfusao-enfim"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "080 — Transfusão, Enfim",
         "identifier": "00-09-080",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-080-transfusao-enfim.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-080-transfusao-enfim.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-080-transfusao-enfim",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-080-transfusao-enfim",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 080 — Transfusão, Enfim.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "080 — Transfusão, Enfim",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-080-transfusao-enfim.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-080-transfusao-enfim"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 080 — Transfusão, Enfim
 

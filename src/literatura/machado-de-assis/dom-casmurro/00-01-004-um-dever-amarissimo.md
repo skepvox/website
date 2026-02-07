@@ -14,7 +14,7 @@ chapter-title: "004 — Um Dever Amaríssimo!"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-004-um-dever-amarissimo.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-004-um-dever-amarissimo"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 004 — Um Dever Amaríssimo!."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 004 — Um Dever Amaríssimo!."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-004-um-dever-amarissimo.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-004-um-dever-amarissimo"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "004 — Um Dever Amaríssimo!",
         "identifier": "00-01-004",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-004-um-dever-amarissimo.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-004-um-dever-amarissimo.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-004-um-dever-amarissimo",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-004-um-dever-amarissimo",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 004 — Um Dever Amaríssimo!.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "004 — Um Dever Amaríssimo!",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-004-um-dever-amarissimo.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-004-um-dever-amarissimo"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 004 — Um Dever Amaríssimo!
 

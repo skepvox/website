@@ -14,7 +14,7 @@ chapter-title: "091 — Nem Só a Verdade se Deve às Mães"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-091-nem-so-a-verdade-se-deve-as-maes.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-091-nem-so-a-verdade-se-deve-as-maes"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 091 — Nem Só a Verdade se Deve às Mães."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 091 — Nem Só a Verdade se Deve às Mães."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-091-nem-so-a-verdade-se-deve-as-maes.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-091-nem-so-a-verdade-se-deve-as-maes"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "091 — Nem Só a Verdade se Deve às Mães",
         "identifier": "00-11-091",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-091-nem-so-a-verdade-se-deve-as-maes.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-091-nem-so-a-verdade-se-deve-as-maes.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-091-nem-so-a-verdade-se-deve-as-maes",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-091-nem-so-a-verdade-se-deve-as-maes",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 091 — Nem Só a Verdade se Deve às Mães.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "091 — Nem Só a Verdade se Deve às Mães",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-091-nem-so-a-verdade-se-deve-as-maes.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-091-nem-so-a-verdade-se-deve-as-maes"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 091 — Nem Só a Verdade se Deve às Mães
 

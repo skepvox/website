@@ -10,7 +10,7 @@ LOCAL_SOURCE_DIR = Path('local-books/louis-lavelle/la-conscience-de-soi/fr')
 SITE_BASE = 'https://skepvox.com'
 BOOK_PATH = '/louis-lavelle/la-conscience-de-soi'
 BOOK_PATH_HTML = f'{BOOK_PATH}.html'
-BOOK_URL = f'{SITE_BASE}{BOOK_PATH_HTML}'
+BOOK_URL = f'{SITE_BASE}{BOOK_PATH}'
 BOOK_TITLE = 'La conscience de soi'
 AUTHOR = 'Louis Lavelle'
 LANGUAGE = 'fr'
@@ -111,7 +111,7 @@ def build_leaf_frontmatter(local_path: Path) -> str:
     chapter_title = normalize_title(chapter_title)
     book_number, part_number, chapter_number = parse_identifier(local_path.stem)
     identifier = f"{book_number}-{part_number}-{chapter_number}"
-    url = f"{SITE_BASE}{BOOK_PATH}/{local_path.stem}.html"
+    url = f"{SITE_BASE}{BOOK_PATH}/{local_path.stem}"
     description = build_description(chapter_title)
 
     chapter_ld = {
@@ -335,7 +335,7 @@ def sync_leaf_bodies(*, create_missing: bool) -> None:
         extras = ', '.join(extra_targets)
         print(f'Warning: chapters without local source: {extras}', file=sys.stderr)
 
-    back_link = f"[Retour au livre]({BOOK_PATH_HTML})"
+    back_link = f"[Retour au livre]({BOOK_PATH})"
     for local_path in local_files:
         target_path = CHAPTER_DIR / local_path.name
         local_text = local_path.read_text(encoding='utf-8')
@@ -389,8 +389,8 @@ def main() -> None:
         book_title = (meta.get('book-title') or '').strip()
         part_title = (meta.get('part-title') or '').strip()
         identifier = f"{book_number}-{part_number}-{chapter_number}"
-        url_abs = f"{SITE_BASE}{BOOK_PATH}/{path.stem}.html"
-        url_rel = f"{BOOK_PATH}/{path.stem}.html"
+        url_abs = f"{SITE_BASE}{BOOK_PATH}/{path.stem}"
+        url_rel = f"{BOOK_PATH}/{path.stem}"
         chapters.append({
             'title': chapter_title,
             'url_abs': url_abs,
@@ -419,7 +419,7 @@ def main() -> None:
         current_book_title = book_title or None
         current_part_title = part_title or None
 
-    toc_lines = ['## Table des matières', '']
+    toc_lines = ['**Table des matières**', '']
     current_book = None
     current_part = None
     pending_intro = None

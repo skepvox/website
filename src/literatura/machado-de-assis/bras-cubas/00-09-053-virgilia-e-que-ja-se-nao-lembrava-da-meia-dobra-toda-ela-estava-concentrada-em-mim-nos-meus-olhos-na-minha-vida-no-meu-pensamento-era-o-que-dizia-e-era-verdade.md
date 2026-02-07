@@ -14,7 +14,7 @@ chapter-title: "053 — Virgília É que Já Se Não Lembrava da Meia Dobra; Tod
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-053-virgilia-e-que-ja-se-nao-lembrava-da-meia-dobra-toda-ela-estava-concentrada-em-mim-nos-meus-olhos-na-minha-vida-no-meu-pensamento-era-o-que-dizia-e-era-verdade.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-053-virgilia-e-que-ja-se-nao-lembrava-da-meia-dobra-toda-ela-estava-concentrada-em-mim-nos-meus-olhos-na-minha-vida-no-meu-pensamento-era-o-que-dizia-e-era-verdade"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 053 — Virgília É que Já Se Não Lembrava da Meia Dobra; Toda Ela Estava Concentrada em Mim, nos Meus Olhos, na Minha Vida, no Meu Pensamento - Era o que Dizia, e Era Verdade.."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 053 — Virgília É que Já Se Não Lembrava da Meia Dobra; Toda Ela Estava Concentrada em Mim, nos Meus Olhos, na Minha Vida, no Meu Pensamento - Era o que Dizia, e Era Verdade.."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-053-virgilia-e-que-ja-se-nao-lembrava-da-meia-dobra-toda-ela-estava-concentrada-em-mim-nos-meus-olhos-na-minha-vida-no-meu-pensamento-era-o-que-dizia-e-era-verdade.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-053-virgilia-e-que-ja-se-nao-lembrava-da-meia-dobra-toda-ela-estava-concentrada-em-mim-nos-meus-olhos-na-minha-vida-no-meu-pensamento-era-o-que-dizia-e-era-verdade"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "053 — Virgília É que Já Se Não Lembrava da Meia Dobra; Toda Ela Estava Concentrada em Mim, nos Meus Olhos, na Minha Vida, no Meu Pensamento - Era o que Dizia, e Era Verdade.",
         "identifier": "00-09-053",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-053-virgilia-e-que-ja-se-nao-lembrava-da-meia-dobra-toda-ela-estava-concentrada-em-mim-nos-meus-olhos-na-minha-vida-no-meu-pensamento-era-o-que-dizia-e-era-verdade.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-053-virgilia-e-que-ja-se-nao-lembrava-da-meia-dobra-toda-ela-estava-concentrada-em-mim-nos-meus-olhos-na-minha-vida-no-meu-pensamento-era-o-que-dizia-e-era-verdade.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-053-virgilia-e-que-ja-se-nao-lembrava-da-meia-dobra-toda-ela-estava-concentrada-em-mim-nos-meus-olhos-na-minha-vida-no-meu-pensamento-era-o-que-dizia-e-era-verdade",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-053-virgilia-e-que-ja-se-nao-lembrava-da-meia-dobra-toda-ela-estava-concentrada-em-mim-nos-meus-olhos-na-minha-vida-no-meu-pensamento-era-o-que-dizia-e-era-verdade",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 053 — Virgília É que Já Se Não Lembrava da Meia Dobra; Toda Ela Estava Concentrada em Mim, nos Meus Olhos, na Minha Vida, no Meu Pensamento - Era o que Dizia, e Era Verdade..",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "053 — Virgília É que Já Se Não Lembrava da Meia Dobra; Toda Ela Estava Concentrada em Mim, nos Meus Olhos, na Minha Vida, no Meu Pensamento - Era o que Dizia, e Era Verdade.",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-053-virgilia-e-que-ja-se-nao-lembrava-da-meia-dobra-toda-ela-estava-concentrada-em-mim-nos-meus-olhos-na-minha-vida-no-meu-pensamento-era-o-que-dizia-e-era-verdade.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-053-virgilia-e-que-ja-se-nao-lembrava-da-meia-dobra-toda-ela-estava-concentrada-em-mim-nos-meus-olhos-na-minha-vida-no-meu-pensamento-era-o-que-dizia-e-era-verdade"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 053 — Virgília É que Já Se Não Lembrava da Meia Dobra; Toda Ela Estava Concentrada em Mim, nos Meus Olhos, na Minha Vida, no Meu Pensamento - Era o que Dizia, e Era Verdade.
 

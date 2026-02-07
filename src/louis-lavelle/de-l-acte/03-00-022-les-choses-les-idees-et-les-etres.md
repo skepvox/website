@@ -138,7 +138,7 @@ head:
       }
 ---
 
-[Retour au livre](/louis-lavelle/de-l-acte.html)
+[Retour au livre](/louis-lavelle/de-l-acte)
 
 ## Livre III. L'acte de participation — Deuxième partie : Le jeu de la participation
 

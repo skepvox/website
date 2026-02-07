@@ -14,7 +14,7 @@ chapter-title: "017 — Os Vermes \"Ele Fere Ecura!"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-017-os-vermes-ele-fere-ecura.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-017-os-vermes-ele-fere-ecura"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 017 — Os Vermes \"Ele Fere Ecura!."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 017 — Os Vermes \"Ele Fere Ecura!."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-017-os-vermes-ele-fere-ecura.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-017-os-vermes-ele-fere-ecura"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "017 — Os Vermes \"Ele Fere Ecura!",
         "identifier": "00-02-017",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-017-os-vermes-ele-fere-ecura.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-017-os-vermes-ele-fere-ecura.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-017-os-vermes-ele-fere-ecura",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-017-os-vermes-ele-fere-ecura",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 017 — Os Vermes \"Ele Fere Ecura!.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "017 — Os Vermes \"Ele Fere Ecura!",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-017-os-vermes-ele-fere-ecura.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-017-os-vermes-ele-fere-ecura"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 017 — Os Vermes "Ele Fere Ecura!"
 

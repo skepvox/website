@@ -13,7 +13,7 @@ chapter-title: "III — Deus Sabe o que Faz!"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-003-deus-sabe-o-que-faz.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-003-deus-sabe-o-que-faz"
   - - meta
     - name: description
       content: "Texto integral de O Alienista, de Machado de Assis. III — Deus Sabe o que Faz!."
@@ -25,7 +25,7 @@ head:
       content: "Texto integral de O Alienista, de Machado de Assis. III — Deus Sabe o que Faz!."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-003-deus-sabe-o-que-faz.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-003-deus-sabe-o-que-faz"
   - - meta
     - property: og:type
       content: article
@@ -58,8 +58,8 @@ head:
         "@type": "Chapter",
         "name": "III — Deus Sabe o que Faz!",
         "identifier": "00-00-003",
-        "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-003-deus-sabe-o-que-faz.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-003-deus-sabe-o-que-faz.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-003-deus-sabe-o-que-faz",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-003-deus-sabe-o-que-faz",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -73,7 +73,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de O Alienista, de Machado de Assis. III — Deus Sabe o que Faz!.",
@@ -102,19 +102,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "O Alienista",
-            "item": "https://skepvox.com/literatura/machado-de-assis/o-alienista.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/o-alienista"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "III — Deus Sabe o que Faz!",
-            "item": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-003-deus-sabe-o-que-faz.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-003-deus-sabe-o-que-faz"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/o-alienista.html)
+[Voltar ao livro](/literatura/machado-de-assis/o-alienista)
 
 ## III — Deus Sabe o que Faz!
 

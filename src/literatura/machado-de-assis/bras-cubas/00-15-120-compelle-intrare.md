@@ -14,7 +14,7 @@ chapter-title: "120 — Compelle Intrare"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-120-compelle-intrare.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-120-compelle-intrare"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 120 — Compelle Intrare."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 120 — Compelle Intrare."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-120-compelle-intrare.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-120-compelle-intrare"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "120 — Compelle Intrare",
         "identifier": "00-15-120",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-120-compelle-intrare.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-120-compelle-intrare.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-120-compelle-intrare",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-120-compelle-intrare",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 120 — Compelle Intrare.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "120 — Compelle Intrare",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-120-compelle-intrare.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-120-compelle-intrare"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 120 — Compelle Intrare
 

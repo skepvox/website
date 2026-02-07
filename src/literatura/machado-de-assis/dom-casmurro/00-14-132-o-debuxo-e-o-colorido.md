@@ -14,7 +14,7 @@ chapter-title: "132 — O Debuxo e o Colorido"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-132-o-debuxo-e-o-colorido.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-132-o-debuxo-e-o-colorido"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 132 — O Debuxo e o Colorido."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 132 — O Debuxo e o Colorido."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-132-o-debuxo-e-o-colorido.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-132-o-debuxo-e-o-colorido"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "132 — O Debuxo e o Colorido",
         "identifier": "00-14-132",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-132-o-debuxo-e-o-colorido.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-132-o-debuxo-e-o-colorido.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-132-o-debuxo-e-o-colorido",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-132-o-debuxo-e-o-colorido",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 132 — O Debuxo e o Colorido.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "132 — O Debuxo e o Colorido",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-132-o-debuxo-e-o-colorido.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-132-o-debuxo-e-o-colorido"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 132 — O Debuxo e o Colorido
 

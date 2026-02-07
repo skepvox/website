@@ -14,7 +14,7 @@ chapter-title: "063 — Metades de um Sonho"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-063-metades-de-um-sonho.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-063-metades-de-um-sonho"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 063 — Metades de um Sonho."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 063 — Metades de um Sonho."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-063-metades-de-um-sonho.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-063-metades-de-um-sonho"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "063 — Metades de um Sonho",
         "identifier": "00-07-063",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-063-metades-de-um-sonho.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-063-metades-de-um-sonho.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-063-metades-de-um-sonho",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-063-metades-de-um-sonho",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 063 — Metades de um Sonho.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "063 — Metades de um Sonho",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-063-metades-de-um-sonho.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-063-metades-de-um-sonho"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 063 — Metades de um Sonho
 

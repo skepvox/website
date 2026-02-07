@@ -14,7 +14,7 @@ chapter-title: "041 — A Alucinação"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-041-a-alucinacao.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-041-a-alucinacao"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 041 — A Alucinação."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 041 — A Alucinação."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-041-a-alucinacao.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-041-a-alucinacao"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "041 — A Alucinação",
         "identifier": "00-08-041",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-041-a-alucinacao.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-041-a-alucinacao.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-041-a-alucinacao",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-041-a-alucinacao",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 041 — A Alucinação.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "041 — A Alucinação",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-041-a-alucinacao.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-041-a-alucinacao"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 041 — A Alucinação
 

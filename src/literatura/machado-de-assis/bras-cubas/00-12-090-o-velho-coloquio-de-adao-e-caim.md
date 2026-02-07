@@ -14,7 +14,7 @@ chapter-title: "090 — O Velho Colóquio de Adão e Caim"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-090-o-velho-coloquio-de-adao-e-caim.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-090-o-velho-coloquio-de-adao-e-caim"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 090 — O Velho Colóquio de Adão e Caim."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 090 — O Velho Colóquio de Adão e Caim."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-090-o-velho-coloquio-de-adao-e-caim.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-090-o-velho-coloquio-de-adao-e-caim"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "090 — O Velho Colóquio de Adão e Caim",
         "identifier": "00-12-090",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-090-o-velho-coloquio-de-adao-e-caim.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-090-o-velho-coloquio-de-adao-e-caim.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-090-o-velho-coloquio-de-adao-e-caim",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-090-o-velho-coloquio-de-adao-e-caim",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 090 — O Velho Colóquio de Adão e Caim.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "090 — O Velho Colóquio de Adão e Caim",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-090-o-velho-coloquio-de-adao-e-caim.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-090-o-velho-coloquio-de-adao-e-caim"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 090 — O Velho Colóquio de Adão e Caim
 

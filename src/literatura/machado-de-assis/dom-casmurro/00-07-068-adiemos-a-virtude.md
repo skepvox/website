@@ -14,7 +14,7 @@ chapter-title: "068 — Adiemos a Virtude"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-068-adiemos-a-virtude.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-068-adiemos-a-virtude"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 068 — Adiemos a Virtude."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 068 — Adiemos a Virtude."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-068-adiemos-a-virtude.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-068-adiemos-a-virtude"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "068 — Adiemos a Virtude",
         "identifier": "00-07-068",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-068-adiemos-a-virtude.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-068-adiemos-a-virtude.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-068-adiemos-a-virtude",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-068-adiemos-a-virtude",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 068 — Adiemos a Virtude.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "068 — Adiemos a Virtude",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-068-adiemos-a-virtude.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-068-adiemos-a-virtude"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 068 — Adiemos a Virtude
 

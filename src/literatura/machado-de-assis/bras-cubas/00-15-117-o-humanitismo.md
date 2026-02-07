@@ -14,7 +14,7 @@ chapter-title: "117 — O Humanitismo"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-117-o-humanitismo.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-117-o-humanitismo"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 117 — O Humanitismo."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 117 — O Humanitismo."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-117-o-humanitismo.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-117-o-humanitismo"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "117 — O Humanitismo",
         "identifier": "00-15-117",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-117-o-humanitismo.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-117-o-humanitismo.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-117-o-humanitismo",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-117-o-humanitismo",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 117 — O Humanitismo.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "117 — O Humanitismo",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-117-o-humanitismo.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-117-o-humanitismo"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 117 — O Humanitismo
 

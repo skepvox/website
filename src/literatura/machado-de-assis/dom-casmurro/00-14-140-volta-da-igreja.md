@@ -14,7 +14,7 @@ chapter-title: "140 — Volta da Igreja"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-140-volta-da-igreja.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-140-volta-da-igreja"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 140 — Volta da Igreja."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 140 — Volta da Igreja."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-140-volta-da-igreja.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-140-volta-da-igreja"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "140 — Volta da Igreja",
         "identifier": "00-14-140",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-140-volta-da-igreja.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-140-volta-da-igreja.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-140-volta-da-igreja",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-140-volta-da-igreja",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 140 — Volta da Igreja.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "140 — Volta da Igreja",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-140-volta-da-igreja.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-140-volta-da-igreja"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 140 — Volta da Igreja
 

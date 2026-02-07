@@ -14,7 +14,7 @@ chapter-title: "118 — A Mão de Sancha"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-118-a-mao-de-sancha.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-118-a-mao-de-sancha"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 118 — A Mão de Sancha."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 118 — A Mão de Sancha."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-118-a-mao-de-sancha.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-118-a-mao-de-sancha"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "118 — A Mão de Sancha",
         "identifier": "00-12-118",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-118-a-mao-de-sancha.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-118-a-mao-de-sancha.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-118-a-mao-de-sancha",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-118-a-mao-de-sancha",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 118 — A Mão de Sancha.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "118 — A Mão de Sancha",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-118-a-mao-de-sancha.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-118-a-mao-de-sancha"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 118 — A Mão de Sancha
 

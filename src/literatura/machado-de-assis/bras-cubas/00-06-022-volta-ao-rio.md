@@ -14,7 +14,7 @@ chapter-title: "022 — Volta ao Rio"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-022-volta-ao-rio.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-022-volta-ao-rio"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 022 — Volta ao Rio."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 022 — Volta ao Rio."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-022-volta-ao-rio.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-022-volta-ao-rio"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "022 — Volta ao Rio",
         "identifier": "00-06-022",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-022-volta-ao-rio.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-022-volta-ao-rio.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-022-volta-ao-rio",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-022-volta-ao-rio",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 022 — Volta ao Rio.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "022 — Volta ao Rio",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-022-volta-ao-rio.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-022-volta-ao-rio"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 022 — Volta ao Rio
 

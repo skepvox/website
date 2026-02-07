@@ -14,7 +14,7 @@ chapter-title: "033 — O Penteado"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-033-o-penteado.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-033-o-penteado"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 033 — O Penteado."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 033 — O Penteado."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-033-o-penteado.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-033-o-penteado"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "033 — O Penteado",
         "identifier": "00-04-033",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-033-o-penteado.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-033-o-penteado.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-033-o-penteado",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-033-o-penteado",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 033 — O Penteado.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "033 — O Penteado",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-033-o-penteado.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-033-o-penteado"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 033 — O Penteado
 

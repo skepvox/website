@@ -123,7 +123,7 @@ head:
       }
 ---
 
-[Retour au livre](/louis-lavelle/la-presence-totale.html)
+[Retour au livre](/louis-lavelle/la-presence-totale)
 
 ## La découverte du moi contient déjà la découverte de l'être
 

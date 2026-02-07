@@ -14,7 +14,7 @@ chapter-title: "056 — O Momento Oportuno"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-056-o-momento-oportuno.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-056-o-momento-oportuno"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 056 — O Momento Oportuno."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 056 — O Momento Oportuno."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-056-o-momento-oportuno.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-056-o-momento-oportuno"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "056 — O Momento Oportuno",
         "identifier": "00-09-056",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-056-o-momento-oportuno.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-056-o-momento-oportuno.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-056-o-momento-oportuno",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-056-o-momento-oportuno",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 056 — O Momento Oportuno.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "056 — O Momento Oportuno",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-056-o-momento-oportuno.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-056-o-momento-oportuno"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 056 — O Momento Oportuno
 

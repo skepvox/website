@@ -14,7 +14,7 @@ chapter-title: "011 — A Promessa"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-011-a-promessa.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-011-a-promessa"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 011 — A Promessa."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 011 — A Promessa."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-011-a-promessa.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-011-a-promessa"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "011 — A Promessa",
         "identifier": "00-02-011",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-011-a-promessa.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-011-a-promessa.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-011-a-promessa",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-011-a-promessa",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 011 — A Promessa.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "011 — A Promessa",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-011-a-promessa.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-011-a-promessa"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 011 — A Promessa
 

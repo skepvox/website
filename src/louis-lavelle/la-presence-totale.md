@@ -5,7 +5,7 @@ outline: 2
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/la-presence-totale.html"
+      href: "https://skepvox.com/louis-lavelle/la-presence-totale"
   - - meta
     - name: description
       content: "Texte intégral en français de La Présence totale de Louis Lavelle."
@@ -17,7 +17,7 @@ head:
       content: "Texte intégral en français de La Présence totale de Louis Lavelle."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/la-presence-totale.html"
+      content: "https://skepvox.com/louis-lavelle/la-presence-totale"
   - - meta
     - property: og:type
       content: book
@@ -54,284 +54,284 @@ head:
           "name": "Louis Lavelle"
         },
         "inLanguage": "fr",
-        "url": "https://skepvox.com/louis-lavelle/la-presence-totale.html",
+        "url": "https://skepvox.com/louis-lavelle/la-presence-totale",
         "description": "Texte intégral en français de La Présence totale de Louis Lavelle.",
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
         "hasPart": [
           {
             "@type": "Chapter",
             "name": "Avertissement et introduction",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-00-000-avertissement-et-introduction.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-00-000-avertissement-et-introduction",
             "identifier": "00-00-000"
           },
           {
             "@type": "Chapter",
             "name": "Le moi reconnaît la présence de l'être",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-01-001-le-moi-reconnait-la-presence-de-l-etre.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-01-001-le-moi-reconnait-la-presence-de-l-etre",
             "identifier": "00-01-001"
           },
           {
             "@type": "Chapter",
             "name": "La vie de l'esprit est une complicité avec l'être",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-01-002-la-vie-de-l-esprit-est-une-complicite-avec-l-etre.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-01-002-la-vie-de-l-esprit-est-une-complicite-avec-l-etre",
             "identifier": "00-01-002"
           },
           {
             "@type": "Chapter",
             "name": "La possession de l'être est le but de toute action particulière",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-01-003-la-possession-de-l-etre-est-le-but-de-toute-action-particuliere.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-01-003-la-possession-de-l-etre-est-le-but-de-toute-action-particuliere",
             "identifier": "00-01-003"
           },
           {
             "@type": "Chapter",
             "name": "La découverte du moi contient déjà la découverte de l'être",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-01-004-la-decouverte-du-moi-contient-deja-la-decouverte-de-l-etre.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-01-004-la-decouverte-du-moi-contient-deja-la-decouverte-de-l-etre",
             "identifier": "00-01-004"
           },
           {
             "@type": "Chapter",
             "name": "La connaissance est de plain-pied avec l'être",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-01-005-la-connaissance-est-de-plain-pied-avec-l-etre.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-01-005-la-connaissance-est-de-plain-pied-avec-l-etre",
             "identifier": "00-01-005"
           },
           {
             "@type": "Chapter",
             "name": "La présence de l'être crée notre propre intimité à l'être",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-01-006-la-presence-de-l-etre-cree-notre-propre-intimite-a-l-etre.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-01-006-la-presence-de-l-etre-cree-notre-propre-intimite-a-l-etre",
             "identifier": "00-01-006"
           },
           {
             "@type": "Chapter",
             "name": "L'intimité à l'être ne diffère pas de l'intimité à soi-même",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-01-007-l-intimite-a-l-etre-ne-differe-pas-de-l-intimite-a-soi-meme.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-01-007-l-intimite-a-l-etre-ne-differe-pas-de-l-intimite-a-soi-meme",
             "identifier": "00-01-007"
           },
           {
             "@type": "Chapter",
             "name": "La conscience est un dialogue avec l'être",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-01-008-la-conscience-est-un-dialogue-avec-l-etre.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-01-008-la-conscience-est-un-dialogue-avec-l-etre",
             "identifier": "00-01-008"
           },
           {
             "@type": "Chapter",
             "name": "La présence de l'être illumine l'apparence la plus humble",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-01-009-la-presence-de-l-etre-illumine-l-apparence-la-plus-humble.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-01-009-la-presence-de-l-etre-illumine-l-apparence-la-plus-humble",
             "identifier": "00-01-009"
           },
           {
             "@type": "Chapter",
             "name": "La pensée ne se distingue de l'être que par son inachèvement",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-02-001-la-pensee-ne-se-distingue-de-l-etre-que-par-son-inachevement.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-02-001-la-pensee-ne-se-distingue-de-l-etre-que-par-son-inachevement",
             "identifier": "00-02-001"
           },
           {
             "@type": "Chapter",
             "name": "La pensée de l'être porte déjà en elle l'être même qu'elle pense",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-02-002-la-pensee-de-l-etre-porte-deja-en-elle-l-etre-meme-qu-elle-pense.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-02-002-la-pensee-de-l-etre-porte-deja-en-elle-l-etre-meme-qu-elle-pense",
             "identifier": "00-02-002"
           },
           {
             "@type": "Chapter",
             "name": "L'idée de l'être contient toutes les idées particulières",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-02-003-l-idee-de-l-etre-contient-toutes-les-idees-particulieres.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-02-003-l-idee-de-l-etre-contient-toutes-les-idees-particulieres",
             "identifier": "00-02-003"
           },
           {
             "@type": "Chapter",
             "name": "L'être est la totalité du possible",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-02-004-l-etre-est-la-totalite-du-possible.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-02-004-l-etre-est-la-totalite-du-possible",
             "identifier": "00-02-004"
           },
           {
             "@type": "Chapter",
             "name": "L'être d'une chose est identique à la réunion de tous ses attributs",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-02-005-l-etre-d-une-chose-est-identique-a-la-reunion-de-tous-ses-attributs.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-02-005-l-etre-d-une-chose-est-identique-a-la-reunion-de-tous-ses-attributs",
             "identifier": "00-02-005"
           },
           {
             "@type": "Chapter",
             "name": "La pensée totale et la totalité de l'être sont indiscernables",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-02-006-la-pensee-totale-et-la-totalite-de-l-etre-sont-indiscernables.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-02-006-la-pensee-totale-et-la-totalite-de-l-etre-sont-indiscernables",
             "identifier": "00-02-006"
           },
           {
             "@type": "Chapter",
             "name": "L'être est un acte omniprésent et non pas une somme",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-02-007-l-etre-est-un-acte-omnipresent-et-non-pas-une-somme.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-02-007-l-etre-est-un-acte-omnipresent-et-non-pas-une-somme",
             "identifier": "00-02-007"
           },
           {
             "@type": "Chapter",
             "name": "La présence fonde toutes les différences plutôt qu'elle ne les contient",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-02-008-la-presence-fonde-toutes-les-differences-plutot-qu-elle-ne-les-contient.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-02-008-la-presence-fonde-toutes-les-differences-plutot-qu-elle-ne-les-contient",
             "identifier": "00-02-008"
           },
           {
             "@type": "Chapter",
             "name": "L'être pur, qui est tout, n'est rien de particulier",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-02-009-l-etre-pur-qui-est-tout-n-est-rien-de-particulier.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-02-009-l-etre-pur-qui-est-tout-n-est-rien-de-particulier",
             "identifier": "00-02-009"
           },
           {
             "@type": "Chapter",
             "name": "La pensée discursive inscrit dans l'être toutes ses opérations",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-03-001-la-pensee-discursive-inscrit-dans-l-etre-toutes-ses-operations.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-03-001-la-pensee-discursive-inscrit-dans-l-etre-toutes-ses-operations",
             "identifier": "00-03-001"
           },
           {
             "@type": "Chapter",
             "name": "L'avènement du particulier est un effet de l'analyse",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-03-002-l-avenement-du-particulier-est-un-effet-de-l-analyse.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-03-002-l-avenement-du-particulier-est-un-effet-de-l-analyse",
             "identifier": "00-03-002"
           },
           {
             "@type": "Chapter",
             "name": "L'être fini se crée lui-même par un acte de participation",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-03-003-l-etre-fini-se-cree-lui-meme-par-un-acte-de-participation.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-03-003-l-etre-fini-se-cree-lui-meme-par-un-acte-de-participation",
             "identifier": "00-03-003"
           },
           {
             "@type": "Chapter",
             "name": "La participation produit l'apparition de la conscience",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-03-004-la-participation-produit-l-apparition-de-la-conscience.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-03-004-la-participation-produit-l-apparition-de-la-conscience",
             "identifier": "00-03-004"
           },
           {
             "@type": "Chapter",
             "name": "La conscience creuse un intervalle entre l'acte et la donnée",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-03-005-la-conscience-creuse-un-intervalle-entre-l-acte-et-la-donnee.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-03-005-la-conscience-creuse-un-intervalle-entre-l-acte-et-la-donnee",
             "identifier": "00-03-005"
           },
           {
             "@type": "Chapter",
             "name": "L'intelligible et le sensible s'enveloppent l'un l'autre",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-03-006-l-intelligible-et-le-sensible-s-enveloppent-l-un-l-autre.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-03-006-l-intelligible-et-le-sensible-s-enveloppent-l-un-l-autre",
             "identifier": "00-03-006"
           },
           {
             "@type": "Chapter",
             "name": "Le tout et la partie ne peuvent pas être dissociés",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-03-007-le-tout-et-la-partie-ne-peuvent-pas-etre-dissocies.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-03-007-le-tout-et-la-partie-ne-peuvent-pas-etre-dissocies",
             "identifier": "00-03-007"
           },
           {
             "@type": "Chapter",
             "name": "La conscience est médiatrice entre le tout et la partie",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-03-008-la-conscience-est-mediatrice-entre-le-tout-et-la-partie.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-03-008-la-conscience-est-mediatrice-entre-le-tout-et-la-partie",
             "identifier": "00-03-008"
           },
           {
             "@type": "Chapter",
             "name": "Chaque individu imite le tout à sa manière",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-03-009-chaque-individu-imite-le-tout-a-sa-maniere.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-03-009-chaque-individu-imite-le-tout-a-sa-maniere",
             "identifier": "00-03-009"
           },
           {
             "@type": "Chapter",
             "name": "La présence totale se disperse en présences particulières",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-04-001-la-presence-totale-se-disperse-en-presences-particulieres.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-04-001-la-presence-totale-se-disperse-en-presences-particulieres",
             "identifier": "00-04-001"
           },
           {
             "@type": "Chapter",
             "name": "Le temps est la clef de la participation",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-04-002-le-temps-est-la-clef-de-la-participation.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-04-002-le-temps-est-la-clef-de-la-participation",
             "identifier": "00-04-002"
           },
           {
             "@type": "Chapter",
             "name": "Il y a une aventure temporelle de tous les êtres finis",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-04-003-il-y-a-une-aventure-temporelle-de-tous-les-etres-finis.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-04-003-il-y-a-une-aventure-temporelle-de-tous-les-etres-finis",
             "identifier": "00-04-003"
           },
           {
             "@type": "Chapter",
             "name": "L'instant est le séjour des corps ou des apparences",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-04-004-l-instant-est-le-sejour-des-corps-ou-des-apparences.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-04-004-l-instant-est-le-sejour-des-corps-ou-des-apparences",
             "identifier": "00-04-004"
           },
           {
             "@type": "Chapter",
             "name": "Toutes les apparences sont situées dans l'être absolu",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-04-005-toutes-les-apparences-sont-situees-dans-l-etre-absolu.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-04-005-toutes-les-apparences-sont-situees-dans-l-etre-absolu",
             "identifier": "00-04-005"
           },
           {
             "@type": "Chapter",
             "name": "La présence sensible alimente la présence spirituelle",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-04-006-la-presence-sensible-alimente-la-presence-spirituelle.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-04-006-la-presence-sensible-alimente-la-presence-spirituelle",
             "identifier": "00-04-006"
           },
           {
             "@type": "Chapter",
             "name": "Le moi reçoit de l'être la présence qu'il paraît lui donner",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-04-007-le-moi-recoit-de-l-etre-la-presence-qu-il-parait-lui-donner.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-04-007-le-moi-recoit-de-l-etre-la-presence-qu-il-parait-lui-donner",
             "identifier": "00-04-007"
           },
           {
             "@type": "Chapter",
             "name": "Nos états sont liés entre eux parce qu'ils font partie d'une présence identique",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-04-008-nos-etats-sont-lies-entre-eux-parce-qu-ils-font-partie-d-une-presence-identique.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-04-008-nos-etats-sont-lies-entre-eux-parce-qu-ils-font-partie-d-une-presence-identique",
             "identifier": "00-04-008"
           },
           {
             "@type": "Chapter",
             "name": "La présence de tous les états est suspendue à la présence du même acte",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-04-009-la-presence-de-tous-les-etats-est-suspendue-a-la-presence-du-meme-acte.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-04-009-la-presence-de-tous-les-etats-est-suspendue-a-la-presence-du-meme-acte",
             "identifier": "00-04-009"
           },
           {
             "@type": "Chapter",
             "name": "La philosophie est une genèse intérieure de l'être",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-05-001-la-philosophie-est-une-genese-interieure-de-l-etre.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-05-001-la-philosophie-est-une-genese-interieure-de-l-etre",
             "identifier": "00-05-001"
           },
           {
             "@type": "Chapter",
             "name": "Il y a une compensation entre toutes les actions particulières",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-05-002-il-y-a-une-compensation-entre-toutes-les-actions-particulieres.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-05-002-il-y-a-une-compensation-entre-toutes-les-actions-particulieres",
             "identifier": "00-05-002"
           },
           {
             "@type": "Chapter",
             "name": "Le temps est à la fois la meilleure des choses et la pire",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-05-003-le-temps-est-a-la-fois-la-meilleure-des-choses-et-la-pire.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-05-003-le-temps-est-a-la-fois-la-meilleure-des-choses-et-la-pire",
             "identifier": "00-05-003"
           },
           {
             "@type": "Chapter",
             "name": "L'individu est esclave du temps dès que son activité fléchit",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-05-004-l-individu-est-esclave-du-temps-des-que-son-activite-flechit.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-05-004-l-individu-est-esclave-du-temps-des-que-son-activite-flechit",
             "identifier": "00-05-004"
           },
           {
             "@type": "Chapter",
             "name": "L'instant est un moyen d'accès dans le présent éternel",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-05-005-l-instant-est-un-moyen-d-acces-dans-le-present-eternel.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-05-005-l-instant-est-un-moyen-d-acces-dans-le-present-eternel",
             "identifier": "00-05-005"
           },
           {
             "@type": "Chapter",
             "name": "Il n'y a de nôtre que l'acte dans l'instant où il s'exerce",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-05-006-il-n-y-a-de-notre-que-l-acte-dans-l-instant-ou-il-s-exerce.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-05-006-il-n-y-a-de-notre-que-l-acte-dans-l-instant-ou-il-s-exerce",
             "identifier": "00-05-006"
           },
           {
             "@type": "Chapter",
             "name": "L'acte est un et intemporel",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-05-007-l-acte-est-un-et-intemporel.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-05-007-l-acte-est-un-et-intemporel",
             "identifier": "00-05-007"
           },
           {
             "@type": "Chapter",
             "name": "Le sage est indifférent aux états",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-05-008-le-sage-est-indifferent-aux-etats.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-05-008-le-sage-est-indifferent-aux-etats",
             "identifier": "00-05-008"
           },
           {
             "@type": "Chapter",
             "name": "La joie est la perfection de l'acte même",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-05-009-la-joie-est-la-perfection-de-l-acte-meme.html",
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-05-009-la-joie-est-la-perfection-de-l-acte-meme",
             "identifier": "00-05-009"
           }
         ]
@@ -349,277 +349,277 @@ head:
             "@type": "ListItem",
             "position": 1,
             "name": "Avertissement et introduction",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-00-000-avertissement-et-introduction.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-00-000-avertissement-et-introduction"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Le moi reconnaît la présence de l'être",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-01-001-le-moi-reconnait-la-presence-de-l-etre.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-01-001-le-moi-reconnait-la-presence-de-l-etre"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "La vie de l'esprit est une complicité avec l'être",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-01-002-la-vie-de-l-esprit-est-une-complicite-avec-l-etre.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-01-002-la-vie-de-l-esprit-est-une-complicite-avec-l-etre"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "La possession de l'être est le but de toute action particulière",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-01-003-la-possession-de-l-etre-est-le-but-de-toute-action-particuliere.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-01-003-la-possession-de-l-etre-est-le-but-de-toute-action-particuliere"
           },
           {
             "@type": "ListItem",
             "position": 5,
             "name": "La découverte du moi contient déjà la découverte de l'être",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-01-004-la-decouverte-du-moi-contient-deja-la-decouverte-de-l-etre.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-01-004-la-decouverte-du-moi-contient-deja-la-decouverte-de-l-etre"
           },
           {
             "@type": "ListItem",
             "position": 6,
             "name": "La connaissance est de plain-pied avec l'être",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-01-005-la-connaissance-est-de-plain-pied-avec-l-etre.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-01-005-la-connaissance-est-de-plain-pied-avec-l-etre"
           },
           {
             "@type": "ListItem",
             "position": 7,
             "name": "La présence de l'être crée notre propre intimité à l'être",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-01-006-la-presence-de-l-etre-cree-notre-propre-intimite-a-l-etre.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-01-006-la-presence-de-l-etre-cree-notre-propre-intimite-a-l-etre"
           },
           {
             "@type": "ListItem",
             "position": 8,
             "name": "L'intimité à l'être ne diffère pas de l'intimité à soi-même",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-01-007-l-intimite-a-l-etre-ne-differe-pas-de-l-intimite-a-soi-meme.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-01-007-l-intimite-a-l-etre-ne-differe-pas-de-l-intimite-a-soi-meme"
           },
           {
             "@type": "ListItem",
             "position": 9,
             "name": "La conscience est un dialogue avec l'être",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-01-008-la-conscience-est-un-dialogue-avec-l-etre.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-01-008-la-conscience-est-un-dialogue-avec-l-etre"
           },
           {
             "@type": "ListItem",
             "position": 10,
             "name": "La présence de l'être illumine l'apparence la plus humble",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-01-009-la-presence-de-l-etre-illumine-l-apparence-la-plus-humble.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-01-009-la-presence-de-l-etre-illumine-l-apparence-la-plus-humble"
           },
           {
             "@type": "ListItem",
             "position": 11,
             "name": "La pensée ne se distingue de l'être que par son inachèvement",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-02-001-la-pensee-ne-se-distingue-de-l-etre-que-par-son-inachevement.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-02-001-la-pensee-ne-se-distingue-de-l-etre-que-par-son-inachevement"
           },
           {
             "@type": "ListItem",
             "position": 12,
             "name": "La pensée de l'être porte déjà en elle l'être même qu'elle pense",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-02-002-la-pensee-de-l-etre-porte-deja-en-elle-l-etre-meme-qu-elle-pense.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-02-002-la-pensee-de-l-etre-porte-deja-en-elle-l-etre-meme-qu-elle-pense"
           },
           {
             "@type": "ListItem",
             "position": 13,
             "name": "L'idée de l'être contient toutes les idées particulières",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-02-003-l-idee-de-l-etre-contient-toutes-les-idees-particulieres.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-02-003-l-idee-de-l-etre-contient-toutes-les-idees-particulieres"
           },
           {
             "@type": "ListItem",
             "position": 14,
             "name": "L'être est la totalité du possible",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-02-004-l-etre-est-la-totalite-du-possible.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-02-004-l-etre-est-la-totalite-du-possible"
           },
           {
             "@type": "ListItem",
             "position": 15,
             "name": "L'être d'une chose est identique à la réunion de tous ses attributs",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-02-005-l-etre-d-une-chose-est-identique-a-la-reunion-de-tous-ses-attributs.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-02-005-l-etre-d-une-chose-est-identique-a-la-reunion-de-tous-ses-attributs"
           },
           {
             "@type": "ListItem",
             "position": 16,
             "name": "La pensée totale et la totalité de l'être sont indiscernables",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-02-006-la-pensee-totale-et-la-totalite-de-l-etre-sont-indiscernables.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-02-006-la-pensee-totale-et-la-totalite-de-l-etre-sont-indiscernables"
           },
           {
             "@type": "ListItem",
             "position": 17,
             "name": "L'être est un acte omniprésent et non pas une somme",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-02-007-l-etre-est-un-acte-omnipresent-et-non-pas-une-somme.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-02-007-l-etre-est-un-acte-omnipresent-et-non-pas-une-somme"
           },
           {
             "@type": "ListItem",
             "position": 18,
             "name": "La présence fonde toutes les différences plutôt qu'elle ne les contient",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-02-008-la-presence-fonde-toutes-les-differences-plutot-qu-elle-ne-les-contient.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-02-008-la-presence-fonde-toutes-les-differences-plutot-qu-elle-ne-les-contient"
           },
           {
             "@type": "ListItem",
             "position": 19,
             "name": "L'être pur, qui est tout, n'est rien de particulier",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-02-009-l-etre-pur-qui-est-tout-n-est-rien-de-particulier.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-02-009-l-etre-pur-qui-est-tout-n-est-rien-de-particulier"
           },
           {
             "@type": "ListItem",
             "position": 20,
             "name": "La pensée discursive inscrit dans l'être toutes ses opérations",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-03-001-la-pensee-discursive-inscrit-dans-l-etre-toutes-ses-operations.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-03-001-la-pensee-discursive-inscrit-dans-l-etre-toutes-ses-operations"
           },
           {
             "@type": "ListItem",
             "position": 21,
             "name": "L'avènement du particulier est un effet de l'analyse",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-03-002-l-avenement-du-particulier-est-un-effet-de-l-analyse.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-03-002-l-avenement-du-particulier-est-un-effet-de-l-analyse"
           },
           {
             "@type": "ListItem",
             "position": 22,
             "name": "L'être fini se crée lui-même par un acte de participation",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-03-003-l-etre-fini-se-cree-lui-meme-par-un-acte-de-participation.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-03-003-l-etre-fini-se-cree-lui-meme-par-un-acte-de-participation"
           },
           {
             "@type": "ListItem",
             "position": 23,
             "name": "La participation produit l'apparition de la conscience",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-03-004-la-participation-produit-l-apparition-de-la-conscience.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-03-004-la-participation-produit-l-apparition-de-la-conscience"
           },
           {
             "@type": "ListItem",
             "position": 24,
             "name": "La conscience creuse un intervalle entre l'acte et la donnée",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-03-005-la-conscience-creuse-un-intervalle-entre-l-acte-et-la-donnee.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-03-005-la-conscience-creuse-un-intervalle-entre-l-acte-et-la-donnee"
           },
           {
             "@type": "ListItem",
             "position": 25,
             "name": "L'intelligible et le sensible s'enveloppent l'un l'autre",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-03-006-l-intelligible-et-le-sensible-s-enveloppent-l-un-l-autre.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-03-006-l-intelligible-et-le-sensible-s-enveloppent-l-un-l-autre"
           },
           {
             "@type": "ListItem",
             "position": 26,
             "name": "Le tout et la partie ne peuvent pas être dissociés",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-03-007-le-tout-et-la-partie-ne-peuvent-pas-etre-dissocies.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-03-007-le-tout-et-la-partie-ne-peuvent-pas-etre-dissocies"
           },
           {
             "@type": "ListItem",
             "position": 27,
             "name": "La conscience est médiatrice entre le tout et la partie",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-03-008-la-conscience-est-mediatrice-entre-le-tout-et-la-partie.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-03-008-la-conscience-est-mediatrice-entre-le-tout-et-la-partie"
           },
           {
             "@type": "ListItem",
             "position": 28,
             "name": "Chaque individu imite le tout à sa manière",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-03-009-chaque-individu-imite-le-tout-a-sa-maniere.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-03-009-chaque-individu-imite-le-tout-a-sa-maniere"
           },
           {
             "@type": "ListItem",
             "position": 29,
             "name": "La présence totale se disperse en présences particulières",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-04-001-la-presence-totale-se-disperse-en-presences-particulieres.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-04-001-la-presence-totale-se-disperse-en-presences-particulieres"
           },
           {
             "@type": "ListItem",
             "position": 30,
             "name": "Le temps est la clef de la participation",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-04-002-le-temps-est-la-clef-de-la-participation.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-04-002-le-temps-est-la-clef-de-la-participation"
           },
           {
             "@type": "ListItem",
             "position": 31,
             "name": "Il y a une aventure temporelle de tous les êtres finis",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-04-003-il-y-a-une-aventure-temporelle-de-tous-les-etres-finis.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-04-003-il-y-a-une-aventure-temporelle-de-tous-les-etres-finis"
           },
           {
             "@type": "ListItem",
             "position": 32,
             "name": "L'instant est le séjour des corps ou des apparences",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-04-004-l-instant-est-le-sejour-des-corps-ou-des-apparences.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-04-004-l-instant-est-le-sejour-des-corps-ou-des-apparences"
           },
           {
             "@type": "ListItem",
             "position": 33,
             "name": "Toutes les apparences sont situées dans l'être absolu",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-04-005-toutes-les-apparences-sont-situees-dans-l-etre-absolu.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-04-005-toutes-les-apparences-sont-situees-dans-l-etre-absolu"
           },
           {
             "@type": "ListItem",
             "position": 34,
             "name": "La présence sensible alimente la présence spirituelle",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-04-006-la-presence-sensible-alimente-la-presence-spirituelle.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-04-006-la-presence-sensible-alimente-la-presence-spirituelle"
           },
           {
             "@type": "ListItem",
             "position": 35,
             "name": "Le moi reçoit de l'être la présence qu'il paraît lui donner",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-04-007-le-moi-recoit-de-l-etre-la-presence-qu-il-parait-lui-donner.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-04-007-le-moi-recoit-de-l-etre-la-presence-qu-il-parait-lui-donner"
           },
           {
             "@type": "ListItem",
             "position": 36,
             "name": "Nos états sont liés entre eux parce qu'ils font partie d'une présence identique",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-04-008-nos-etats-sont-lies-entre-eux-parce-qu-ils-font-partie-d-une-presence-identique.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-04-008-nos-etats-sont-lies-entre-eux-parce-qu-ils-font-partie-d-une-presence-identique"
           },
           {
             "@type": "ListItem",
             "position": 37,
             "name": "La présence de tous les états est suspendue à la présence du même acte",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-04-009-la-presence-de-tous-les-etats-est-suspendue-a-la-presence-du-meme-acte.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-04-009-la-presence-de-tous-les-etats-est-suspendue-a-la-presence-du-meme-acte"
           },
           {
             "@type": "ListItem",
             "position": 38,
             "name": "La philosophie est une genèse intérieure de l'être",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-05-001-la-philosophie-est-une-genese-interieure-de-l-etre.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-05-001-la-philosophie-est-une-genese-interieure-de-l-etre"
           },
           {
             "@type": "ListItem",
             "position": 39,
             "name": "Il y a une compensation entre toutes les actions particulières",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-05-002-il-y-a-une-compensation-entre-toutes-les-actions-particulieres.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-05-002-il-y-a-une-compensation-entre-toutes-les-actions-particulieres"
           },
           {
             "@type": "ListItem",
             "position": 40,
             "name": "Le temps est à la fois la meilleure des choses et la pire",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-05-003-le-temps-est-a-la-fois-la-meilleure-des-choses-et-la-pire.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-05-003-le-temps-est-a-la-fois-la-meilleure-des-choses-et-la-pire"
           },
           {
             "@type": "ListItem",
             "position": 41,
             "name": "L'individu est esclave du temps dès que son activité fléchit",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-05-004-l-individu-est-esclave-du-temps-des-que-son-activite-flechit.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-05-004-l-individu-est-esclave-du-temps-des-que-son-activite-flechit"
           },
           {
             "@type": "ListItem",
             "position": 42,
             "name": "L'instant est un moyen d'accès dans le présent éternel",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-05-005-l-instant-est-un-moyen-d-acces-dans-le-present-eternel.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-05-005-l-instant-est-un-moyen-d-acces-dans-le-present-eternel"
           },
           {
             "@type": "ListItem",
             "position": 43,
             "name": "Il n'y a de nôtre que l'acte dans l'instant où il s'exerce",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-05-006-il-n-y-a-de-notre-que-l-acte-dans-l-instant-ou-il-s-exerce.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-05-006-il-n-y-a-de-notre-que-l-acte-dans-l-instant-ou-il-s-exerce"
           },
           {
             "@type": "ListItem",
             "position": 44,
             "name": "L'acte est un et intemporel",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-05-007-l-acte-est-un-et-intemporel.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-05-007-l-acte-est-un-et-intemporel"
           },
           {
             "@type": "ListItem",
             "position": 45,
             "name": "Le sage est indifférent aux états",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-05-008-le-sage-est-indifferent-aux-etats.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-05-008-le-sage-est-indifferent-aux-etats"
           },
           {
             "@type": "ListItem",
             "position": 46,
             "name": "La joie est la perfection de l'acte même",
-            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-05-009-la-joie-est-la-perfection-de-l-acte-meme.html"
+            "url": "https://skepvox.com/louis-lavelle/la-presence-totale/00-05-009-la-joie-est-la-perfection-de-l-acte-meme"
           }
         ]
       }
@@ -640,7 +640,7 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "La Présence totale",
-            "item": "https://skepvox.com/louis-lavelle/la-presence-totale.html"
+            "item": "https://skepvox.com/louis-lavelle/la-presence-totale"
           }
         ]
       }
@@ -648,60 +648,60 @@ head:
 
 # La Présence totale
 
-## Table des matières
+**Table des matières**
 
 - Avant-propos
-  - [Avertissement et introduction](/louis-lavelle/la-presence-totale/00-00-000-avertissement-et-introduction.html)
+  - [Avertissement et introduction](/louis-lavelle/la-presence-totale/00-00-000-avertissement-et-introduction)
 - Première partie
-  - [Le moi reconnaît la présence de l'être](/louis-lavelle/la-presence-totale/00-01-001-le-moi-reconnait-la-presence-de-l-etre.html)
-  - [La vie de l'esprit est une complicité avec l'être](/louis-lavelle/la-presence-totale/00-01-002-la-vie-de-l-esprit-est-une-complicite-avec-l-etre.html)
-  - [La possession de l'être est le but de toute action particulière](/louis-lavelle/la-presence-totale/00-01-003-la-possession-de-l-etre-est-le-but-de-toute-action-particuliere.html)
-  - [La découverte du moi contient déjà la découverte de l'être](/louis-lavelle/la-presence-totale/00-01-004-la-decouverte-du-moi-contient-deja-la-decouverte-de-l-etre.html)
-  - [La connaissance est de plain-pied avec l'être](/louis-lavelle/la-presence-totale/00-01-005-la-connaissance-est-de-plain-pied-avec-l-etre.html)
-  - [La présence de l'être crée notre propre intimité à l'être](/louis-lavelle/la-presence-totale/00-01-006-la-presence-de-l-etre-cree-notre-propre-intimite-a-l-etre.html)
-  - [L'intimité à l'être ne diffère pas de l'intimité à soi-même](/louis-lavelle/la-presence-totale/00-01-007-l-intimite-a-l-etre-ne-differe-pas-de-l-intimite-a-soi-meme.html)
-  - [La conscience est un dialogue avec l'être](/louis-lavelle/la-presence-totale/00-01-008-la-conscience-est-un-dialogue-avec-l-etre.html)
-  - [La présence de l'être illumine l'apparence la plus humble](/louis-lavelle/la-presence-totale/00-01-009-la-presence-de-l-etre-illumine-l-apparence-la-plus-humble.html)
+  - [Le moi reconnaît la présence de l'être](/louis-lavelle/la-presence-totale/00-01-001-le-moi-reconnait-la-presence-de-l-etre)
+  - [La vie de l'esprit est une complicité avec l'être](/louis-lavelle/la-presence-totale/00-01-002-la-vie-de-l-esprit-est-une-complicite-avec-l-etre)
+  - [La possession de l'être est le but de toute action particulière](/louis-lavelle/la-presence-totale/00-01-003-la-possession-de-l-etre-est-le-but-de-toute-action-particuliere)
+  - [La découverte du moi contient déjà la découverte de l'être](/louis-lavelle/la-presence-totale/00-01-004-la-decouverte-du-moi-contient-deja-la-decouverte-de-l-etre)
+  - [La connaissance est de plain-pied avec l'être](/louis-lavelle/la-presence-totale/00-01-005-la-connaissance-est-de-plain-pied-avec-l-etre)
+  - [La présence de l'être crée notre propre intimité à l'être](/louis-lavelle/la-presence-totale/00-01-006-la-presence-de-l-etre-cree-notre-propre-intimite-a-l-etre)
+  - [L'intimité à l'être ne diffère pas de l'intimité à soi-même](/louis-lavelle/la-presence-totale/00-01-007-l-intimite-a-l-etre-ne-differe-pas-de-l-intimite-a-soi-meme)
+  - [La conscience est un dialogue avec l'être](/louis-lavelle/la-presence-totale/00-01-008-la-conscience-est-un-dialogue-avec-l-etre)
+  - [La présence de l'être illumine l'apparence la plus humble](/louis-lavelle/la-presence-totale/00-01-009-la-presence-de-l-etre-illumine-l-apparence-la-plus-humble)
 - Deuxième partie
-  - [La pensée ne se distingue de l'être que par son inachèvement](/louis-lavelle/la-presence-totale/00-02-001-la-pensee-ne-se-distingue-de-l-etre-que-par-son-inachevement.html)
-  - [La pensée de l'être porte déjà en elle l'être même qu'elle pense](/louis-lavelle/la-presence-totale/00-02-002-la-pensee-de-l-etre-porte-deja-en-elle-l-etre-meme-qu-elle-pense.html)
-  - [L'idée de l'être contient toutes les idées particulières](/louis-lavelle/la-presence-totale/00-02-003-l-idee-de-l-etre-contient-toutes-les-idees-particulieres.html)
-  - [L'être est la totalité du possible](/louis-lavelle/la-presence-totale/00-02-004-l-etre-est-la-totalite-du-possible.html)
-  - [L'être d'une chose est identique à la réunion de tous ses attributs](/louis-lavelle/la-presence-totale/00-02-005-l-etre-d-une-chose-est-identique-a-la-reunion-de-tous-ses-attributs.html)
-  - [La pensée totale et la totalité de l'être sont indiscernables](/louis-lavelle/la-presence-totale/00-02-006-la-pensee-totale-et-la-totalite-de-l-etre-sont-indiscernables.html)
-  - [L'être est un acte omniprésent et non pas une somme](/louis-lavelle/la-presence-totale/00-02-007-l-etre-est-un-acte-omnipresent-et-non-pas-une-somme.html)
-  - [La présence fonde toutes les différences plutôt qu'elle ne les contient](/louis-lavelle/la-presence-totale/00-02-008-la-presence-fonde-toutes-les-differences-plutot-qu-elle-ne-les-contient.html)
-  - [L'être pur, qui est tout, n'est rien de particulier](/louis-lavelle/la-presence-totale/00-02-009-l-etre-pur-qui-est-tout-n-est-rien-de-particulier.html)
+  - [La pensée ne se distingue de l'être que par son inachèvement](/louis-lavelle/la-presence-totale/00-02-001-la-pensee-ne-se-distingue-de-l-etre-que-par-son-inachevement)
+  - [La pensée de l'être porte déjà en elle l'être même qu'elle pense](/louis-lavelle/la-presence-totale/00-02-002-la-pensee-de-l-etre-porte-deja-en-elle-l-etre-meme-qu-elle-pense)
+  - [L'idée de l'être contient toutes les idées particulières](/louis-lavelle/la-presence-totale/00-02-003-l-idee-de-l-etre-contient-toutes-les-idees-particulieres)
+  - [L'être est la totalité du possible](/louis-lavelle/la-presence-totale/00-02-004-l-etre-est-la-totalite-du-possible)
+  - [L'être d'une chose est identique à la réunion de tous ses attributs](/louis-lavelle/la-presence-totale/00-02-005-l-etre-d-une-chose-est-identique-a-la-reunion-de-tous-ses-attributs)
+  - [La pensée totale et la totalité de l'être sont indiscernables](/louis-lavelle/la-presence-totale/00-02-006-la-pensee-totale-et-la-totalite-de-l-etre-sont-indiscernables)
+  - [L'être est un acte omniprésent et non pas une somme](/louis-lavelle/la-presence-totale/00-02-007-l-etre-est-un-acte-omnipresent-et-non-pas-une-somme)
+  - [La présence fonde toutes les différences plutôt qu'elle ne les contient](/louis-lavelle/la-presence-totale/00-02-008-la-presence-fonde-toutes-les-differences-plutot-qu-elle-ne-les-contient)
+  - [L'être pur, qui est tout, n'est rien de particulier](/louis-lavelle/la-presence-totale/00-02-009-l-etre-pur-qui-est-tout-n-est-rien-de-particulier)
 - Troisième partie
-  - [La pensée discursive inscrit dans l'être toutes ses opérations](/louis-lavelle/la-presence-totale/00-03-001-la-pensee-discursive-inscrit-dans-l-etre-toutes-ses-operations.html)
-  - [L'avènement du particulier est un effet de l'analyse](/louis-lavelle/la-presence-totale/00-03-002-l-avenement-du-particulier-est-un-effet-de-l-analyse.html)
-  - [L'être fini se crée lui-même par un acte de participation](/louis-lavelle/la-presence-totale/00-03-003-l-etre-fini-se-cree-lui-meme-par-un-acte-de-participation.html)
-  - [La participation produit l'apparition de la conscience](/louis-lavelle/la-presence-totale/00-03-004-la-participation-produit-l-apparition-de-la-conscience.html)
-  - [La conscience creuse un intervalle entre l'acte et la donnée](/louis-lavelle/la-presence-totale/00-03-005-la-conscience-creuse-un-intervalle-entre-l-acte-et-la-donnee.html)
-  - [L'intelligible et le sensible s'enveloppent l'un l'autre](/louis-lavelle/la-presence-totale/00-03-006-l-intelligible-et-le-sensible-s-enveloppent-l-un-l-autre.html)
-  - [Le tout et la partie ne peuvent pas être dissociés](/louis-lavelle/la-presence-totale/00-03-007-le-tout-et-la-partie-ne-peuvent-pas-etre-dissocies.html)
-  - [La conscience est médiatrice entre le tout et la partie](/louis-lavelle/la-presence-totale/00-03-008-la-conscience-est-mediatrice-entre-le-tout-et-la-partie.html)
-  - [Chaque individu imite le tout à sa manière](/louis-lavelle/la-presence-totale/00-03-009-chaque-individu-imite-le-tout-a-sa-maniere.html)
+  - [La pensée discursive inscrit dans l'être toutes ses opérations](/louis-lavelle/la-presence-totale/00-03-001-la-pensee-discursive-inscrit-dans-l-etre-toutes-ses-operations)
+  - [L'avènement du particulier est un effet de l'analyse](/louis-lavelle/la-presence-totale/00-03-002-l-avenement-du-particulier-est-un-effet-de-l-analyse)
+  - [L'être fini se crée lui-même par un acte de participation](/louis-lavelle/la-presence-totale/00-03-003-l-etre-fini-se-cree-lui-meme-par-un-acte-de-participation)
+  - [La participation produit l'apparition de la conscience](/louis-lavelle/la-presence-totale/00-03-004-la-participation-produit-l-apparition-de-la-conscience)
+  - [La conscience creuse un intervalle entre l'acte et la donnée](/louis-lavelle/la-presence-totale/00-03-005-la-conscience-creuse-un-intervalle-entre-l-acte-et-la-donnee)
+  - [L'intelligible et le sensible s'enveloppent l'un l'autre](/louis-lavelle/la-presence-totale/00-03-006-l-intelligible-et-le-sensible-s-enveloppent-l-un-l-autre)
+  - [Le tout et la partie ne peuvent pas être dissociés](/louis-lavelle/la-presence-totale/00-03-007-le-tout-et-la-partie-ne-peuvent-pas-etre-dissocies)
+  - [La conscience est médiatrice entre le tout et la partie](/louis-lavelle/la-presence-totale/00-03-008-la-conscience-est-mediatrice-entre-le-tout-et-la-partie)
+  - [Chaque individu imite le tout à sa manière](/louis-lavelle/la-presence-totale/00-03-009-chaque-individu-imite-le-tout-a-sa-maniere)
 - Quatrième partie
-  - [La présence totale se disperse en présences particulières](/louis-lavelle/la-presence-totale/00-04-001-la-presence-totale-se-disperse-en-presences-particulieres.html)
-  - [Le temps est la clef de la participation](/louis-lavelle/la-presence-totale/00-04-002-le-temps-est-la-clef-de-la-participation.html)
-  - [Il y a une aventure temporelle de tous les êtres finis](/louis-lavelle/la-presence-totale/00-04-003-il-y-a-une-aventure-temporelle-de-tous-les-etres-finis.html)
-  - [L'instant est le séjour des corps ou des apparences](/louis-lavelle/la-presence-totale/00-04-004-l-instant-est-le-sejour-des-corps-ou-des-apparences.html)
-  - [Toutes les apparences sont situées dans l'être absolu](/louis-lavelle/la-presence-totale/00-04-005-toutes-les-apparences-sont-situees-dans-l-etre-absolu.html)
-  - [La présence sensible alimente la présence spirituelle](/louis-lavelle/la-presence-totale/00-04-006-la-presence-sensible-alimente-la-presence-spirituelle.html)
-  - [Le moi reçoit de l'être la présence qu'il paraît lui donner](/louis-lavelle/la-presence-totale/00-04-007-le-moi-recoit-de-l-etre-la-presence-qu-il-parait-lui-donner.html)
-  - [Nos états sont liés entre eux parce qu'ils font partie d'une présence identique](/louis-lavelle/la-presence-totale/00-04-008-nos-etats-sont-lies-entre-eux-parce-qu-ils-font-partie-d-une-presence-identique.html)
-  - [La présence de tous les états est suspendue à la présence du même acte](/louis-lavelle/la-presence-totale/00-04-009-la-presence-de-tous-les-etats-est-suspendue-a-la-presence-du-meme-acte.html)
+  - [La présence totale se disperse en présences particulières](/louis-lavelle/la-presence-totale/00-04-001-la-presence-totale-se-disperse-en-presences-particulieres)
+  - [Le temps est la clef de la participation](/louis-lavelle/la-presence-totale/00-04-002-le-temps-est-la-clef-de-la-participation)
+  - [Il y a une aventure temporelle de tous les êtres finis](/louis-lavelle/la-presence-totale/00-04-003-il-y-a-une-aventure-temporelle-de-tous-les-etres-finis)
+  - [L'instant est le séjour des corps ou des apparences](/louis-lavelle/la-presence-totale/00-04-004-l-instant-est-le-sejour-des-corps-ou-des-apparences)
+  - [Toutes les apparences sont situées dans l'être absolu](/louis-lavelle/la-presence-totale/00-04-005-toutes-les-apparences-sont-situees-dans-l-etre-absolu)
+  - [La présence sensible alimente la présence spirituelle](/louis-lavelle/la-presence-totale/00-04-006-la-presence-sensible-alimente-la-presence-spirituelle)
+  - [Le moi reçoit de l'être la présence qu'il paraît lui donner](/louis-lavelle/la-presence-totale/00-04-007-le-moi-recoit-de-l-etre-la-presence-qu-il-parait-lui-donner)
+  - [Nos états sont liés entre eux parce qu'ils font partie d'une présence identique](/louis-lavelle/la-presence-totale/00-04-008-nos-etats-sont-lies-entre-eux-parce-qu-ils-font-partie-d-une-presence-identique)
+  - [La présence de tous les états est suspendue à la présence du même acte](/louis-lavelle/la-presence-totale/00-04-009-la-presence-de-tous-les-etats-est-suspendue-a-la-presence-du-meme-acte)
 - Cinquième partie
-  - [La philosophie est une genèse intérieure de l'être](/louis-lavelle/la-presence-totale/00-05-001-la-philosophie-est-une-genese-interieure-de-l-etre.html)
-  - [Il y a une compensation entre toutes les actions particulières](/louis-lavelle/la-presence-totale/00-05-002-il-y-a-une-compensation-entre-toutes-les-actions-particulieres.html)
-  - [Le temps est à la fois la meilleure des choses et la pire](/louis-lavelle/la-presence-totale/00-05-003-le-temps-est-a-la-fois-la-meilleure-des-choses-et-la-pire.html)
-  - [L'individu est esclave du temps dès que son activité fléchit](/louis-lavelle/la-presence-totale/00-05-004-l-individu-est-esclave-du-temps-des-que-son-activite-flechit.html)
-  - [L'instant est un moyen d'accès dans le présent éternel](/louis-lavelle/la-presence-totale/00-05-005-l-instant-est-un-moyen-d-acces-dans-le-present-eternel.html)
-  - [Il n'y a de nôtre que l'acte dans l'instant où il s'exerce](/louis-lavelle/la-presence-totale/00-05-006-il-n-y-a-de-notre-que-l-acte-dans-l-instant-ou-il-s-exerce.html)
-  - [L'acte est un et intemporel](/louis-lavelle/la-presence-totale/00-05-007-l-acte-est-un-et-intemporel.html)
-  - [Le sage est indifférent aux états](/louis-lavelle/la-presence-totale/00-05-008-le-sage-est-indifferent-aux-etats.html)
-  - [La joie est la perfection de l'acte même](/louis-lavelle/la-presence-totale/00-05-009-la-joie-est-la-perfection-de-l-acte-meme.html)
+  - [La philosophie est une genèse intérieure de l'être](/louis-lavelle/la-presence-totale/00-05-001-la-philosophie-est-une-genese-interieure-de-l-etre)
+  - [Il y a une compensation entre toutes les actions particulières](/louis-lavelle/la-presence-totale/00-05-002-il-y-a-une-compensation-entre-toutes-les-actions-particulieres)
+  - [Le temps est à la fois la meilleure des choses et la pire](/louis-lavelle/la-presence-totale/00-05-003-le-temps-est-a-la-fois-la-meilleure-des-choses-et-la-pire)
+  - [L'individu est esclave du temps dès que son activité fléchit](/louis-lavelle/la-presence-totale/00-05-004-l-individu-est-esclave-du-temps-des-que-son-activite-flechit)
+  - [L'instant est un moyen d'accès dans le présent éternel](/louis-lavelle/la-presence-totale/00-05-005-l-instant-est-un-moyen-d-acces-dans-le-present-eternel)
+  - [Il n'y a de nôtre que l'acte dans l'instant où il s'exerce](/louis-lavelle/la-presence-totale/00-05-006-il-n-y-a-de-notre-que-l-acte-dans-l-instant-ou-il-s-exerce)
+  - [L'acte est un et intemporel](/louis-lavelle/la-presence-totale/00-05-007-l-acte-est-un-et-intemporel)
+  - [Le sage est indifférent aux états](/louis-lavelle/la-presence-totale/00-05-008-le-sage-est-indifferent-aux-etats)
+  - [La joie est la perfection de l'acte même](/louis-lavelle/la-presence-totale/00-05-009-la-joie-est-la-perfection-de-l-acte-meme)
 
 ## Avertissement
 

@@ -14,7 +14,7 @@ chapter-title: "087 — Entre Aires e Flora"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-087-entre-aires-e-flora.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-087-entre-aires-e-flora"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 087 — Entre Aires e Flora."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 087 — Entre Aires e Flora."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-087-entre-aires-e-flora.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-087-entre-aires-e-flora"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "087 — Entre Aires e Flora",
         "identifier": "00-10-087",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-087-entre-aires-e-flora.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-087-entre-aires-e-flora.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-087-entre-aires-e-flora",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-087-entre-aires-e-flora",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 087 — Entre Aires e Flora.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "087 — Entre Aires e Flora",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-087-entre-aires-e-flora.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-087-entre-aires-e-flora"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 087 — Entre Aires e Flora
 

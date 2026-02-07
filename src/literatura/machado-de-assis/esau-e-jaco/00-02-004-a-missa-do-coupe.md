@@ -14,7 +14,7 @@ chapter-title: "004 — A Missa do Coupé"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-004-a-missa-do-coupe.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-004-a-missa-do-coupe"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 004 — A Missa do Coupé."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 004 — A Missa do Coupé."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-004-a-missa-do-coupe.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-004-a-missa-do-coupe"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "004 — A Missa do Coupé",
         "identifier": "00-02-004",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-004-a-missa-do-coupe.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-004-a-missa-do-coupe.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-004-a-missa-do-coupe",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-004-a-missa-do-coupe",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 004 — A Missa do Coupé.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "004 — A Missa do Coupé",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-004-a-missa-do-coupe.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-004-a-missa-do-coupe"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 004 — A Missa do Coupé
 

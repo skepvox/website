@@ -14,7 +14,7 @@ chapter-title: "012 — Um Episódio de 1814"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-012-um-episodio-de-1814.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-012-um-episodio-de-1814"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 012 — Um Episódio de 1814."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 012 — Um Episódio de 1814."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-012-um-episodio-de-1814.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-012-um-episodio-de-1814"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "012 — Um Episódio de 1814",
         "identifier": "00-05-012",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-012-um-episodio-de-1814.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-012-um-episodio-de-1814.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-012-um-episodio-de-1814",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-012-um-episodio-de-1814",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 012 — Um Episódio de 1814.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "012 — Um Episódio de 1814",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-012-um-episodio-de-1814.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-012-um-episodio-de-1814"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 012 — Um Episódio de 1814
 

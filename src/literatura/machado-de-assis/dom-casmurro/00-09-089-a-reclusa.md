@@ -14,7 +14,7 @@ chapter-title: "089 — A Reclusa"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-089-a-reclusa.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-089-a-reclusa"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 089 — A Reclusa."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 089 — A Reclusa."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-089-a-reclusa.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-089-a-reclusa"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "089 — A Reclusa",
         "identifier": "00-09-089",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-089-a-reclusa.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-089-a-reclusa.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-089-a-reclusa",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-089-a-reclusa",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 089 — A Reclusa.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "089 — A Reclusa",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-089-a-reclusa.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-089-a-reclusa"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 089 — A Reclusa
 

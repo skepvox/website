@@ -14,7 +14,7 @@ chapter-title: "057 — De Preparação"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-057-de-preparacao.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-057-de-preparacao"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 057 — De Preparação."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 057 — De Preparação."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-057-de-preparacao.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-057-de-preparacao"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "057 — De Preparação",
         "identifier": "00-06-057",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-057-de-preparacao.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-057-de-preparacao.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-057-de-preparacao",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-057-de-preparacao",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 057 — De Preparação.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "057 — De Preparação",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-057-de-preparacao.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-057-de-preparacao"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 057 — De Preparação
 

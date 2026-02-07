@@ -13,7 +13,7 @@ chapter-title: "A Noite em Bebedouro"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-009-a-noite-em-bebedouro.html"
+      href: "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-009-a-noite-em-bebedouro"
   - - meta
     - name: description
       content: "Texto integral de Angústia, de Graciliano Ramos. A Noite em Bebedouro."
@@ -25,7 +25,7 @@ head:
       content: "Texto integral de Angústia, de Graciliano Ramos. A Noite em Bebedouro."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-009-a-noite-em-bebedouro.html"
+      content: "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-009-a-noite-em-bebedouro"
   - - meta
     - property: og:type
       content: article
@@ -58,8 +58,8 @@ head:
         "@type": "Chapter",
         "name": "A Noite em Bebedouro",
         "identifier": "00-00-009",
-        "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-009-a-noite-em-bebedouro.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-009-a-noite-em-bebedouro.html",
+        "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-009-a-noite-em-bebedouro",
+        "mainEntityOfPage": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-009-a-noite-em-bebedouro",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -73,7 +73,7 @@ head:
             "@type": "Person",
             "name": "Graciliano Ramos"
           },
-          "url": "https://skepvox.com/literatura/graciliano-ramos/angustia.html"
+          "url": "https://skepvox.com/literatura/graciliano-ramos/angustia"
         },
         "image": "https://skepvox.com/images/authors/graciliano-ramos.png",
         "description": "Texto integral de Angústia, de Graciliano Ramos. A Noite em Bebedouro.",
@@ -102,19 +102,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Angústia",
-            "item": "https://skepvox.com/literatura/graciliano-ramos/angustia.html"
+            "item": "https://skepvox.com/literatura/graciliano-ramos/angustia"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "A Noite em Bebedouro",
-            "item": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-009-a-noite-em-bebedouro.html"
+            "item": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-009-a-noite-em-bebedouro"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/graciliano-ramos/angustia.html)
+[Voltar ao livro](/literatura/graciliano-ramos/angustia)
 
 ## A Noite em Bebedouro
 

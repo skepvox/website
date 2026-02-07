@@ -14,7 +14,7 @@ chapter-title: "069 — Um Grão de Sandice"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-069-um-grao-de-sandice.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-069-um-grao-de-sandice"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 069 — Um Grão de Sandice."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 069 — Um Grão de Sandice."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-069-um-grao-de-sandice.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-069-um-grao-de-sandice"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "069 — Um Grão de Sandice",
         "identifier": "00-10-069",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-069-um-grao-de-sandice.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-069-um-grao-de-sandice.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-069-um-grao-de-sandice",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-069-um-grao-de-sandice",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 069 — Um Grão de Sandice.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "069 — Um Grão de Sandice",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-069-um-grao-de-sandice.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-069-um-grao-de-sandice"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 069 — Um Grão de Sandice
 

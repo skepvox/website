@@ -14,7 +14,7 @@ chapter-title: "101 — O Caso Embrulhado"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-101-o-caso-embrulhado.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-101-o-caso-embrulhado"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 101 — O Caso Embrulhado."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 101 — O Caso Embrulhado."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-101-o-caso-embrulhado.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-101-o-caso-embrulhado"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "101 — O Caso Embrulhado",
         "identifier": "00-12-101",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-101-o-caso-embrulhado.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-101-o-caso-embrulhado.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-101-o-caso-embrulhado",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-101-o-caso-embrulhado",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 101 — O Caso Embrulhado.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "101 — O Caso Embrulhado",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-101-o-caso-embrulhado.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-101-o-caso-embrulhado"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 101 — O Caso Embrulhado
 

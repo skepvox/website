@@ -14,7 +14,7 @@ chapter-title: "071 — O Senão do Livro"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-071-o-senao-do-livro.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-071-o-senao-do-livro"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 071 — O Senão do Livro."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 071 — O Senão do Livro."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-071-o-senao-do-livro.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-071-o-senao-do-livro"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "071 — O Senão do Livro",
         "identifier": "00-11-071",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-071-o-senao-do-livro.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-071-o-senao-do-livro.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-071-o-senao-do-livro",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-071-o-senao-do-livro",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 071 — O Senão do Livro.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "071 — O Senão do Livro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-071-o-senao-do-livro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-071-o-senao-do-livro"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 071 — O Senão do Livro
 

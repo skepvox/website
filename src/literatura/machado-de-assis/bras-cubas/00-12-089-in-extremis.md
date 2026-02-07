@@ -14,7 +14,7 @@ chapter-title: "089 — In Extremis"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-089-in-extremis.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-089-in-extremis"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 089 — In Extremis."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 089 — In Extremis."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-089-in-extremis.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-089-in-extremis"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "089 — In Extremis",
         "identifier": "00-12-089",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-089-in-extremis.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-089-in-extremis.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-089-in-extremis",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-089-in-extremis",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 089 — In Extremis.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "089 — In Extremis",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-089-in-extremis.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-089-in-extremis"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 089 — In Extremis
 

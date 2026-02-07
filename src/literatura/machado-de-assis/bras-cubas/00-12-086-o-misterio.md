@@ -14,7 +14,7 @@ chapter-title: "086 — O Mistério"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-086-o-misterio.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-086-o-misterio"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 086 — O Mistério."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 086 — O Mistério."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-086-o-misterio.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-086-o-misterio"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "086 — O Mistério",
         "identifier": "00-12-086",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-086-o-misterio.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-086-o-misterio.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-086-o-misterio",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-086-o-misterio",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 086 — O Mistério.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "086 — O Mistério",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-086-o-misterio.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-086-o-misterio"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 086 — O Mistério
 

@@ -13,7 +13,7 @@ chapter-title: "Infância no Sertão"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-003-infancia-no-sertao.html"
+      href: "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-003-infancia-no-sertao"
   - - meta
     - name: description
       content: "Texto integral de Angústia, de Graciliano Ramos. Infância no Sertão."
@@ -25,7 +25,7 @@ head:
       content: "Texto integral de Angústia, de Graciliano Ramos. Infância no Sertão."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-003-infancia-no-sertao.html"
+      content: "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-003-infancia-no-sertao"
   - - meta
     - property: og:type
       content: article
@@ -58,8 +58,8 @@ head:
         "@type": "Chapter",
         "name": "Infância no Sertão",
         "identifier": "00-00-003",
-        "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-003-infancia-no-sertao.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-003-infancia-no-sertao.html",
+        "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-003-infancia-no-sertao",
+        "mainEntityOfPage": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-003-infancia-no-sertao",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -73,7 +73,7 @@ head:
             "@type": "Person",
             "name": "Graciliano Ramos"
           },
-          "url": "https://skepvox.com/literatura/graciliano-ramos/angustia.html"
+          "url": "https://skepvox.com/literatura/graciliano-ramos/angustia"
         },
         "image": "https://skepvox.com/images/authors/graciliano-ramos.png",
         "description": "Texto integral de Angústia, de Graciliano Ramos. Infância no Sertão.",
@@ -102,19 +102,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Angústia",
-            "item": "https://skepvox.com/literatura/graciliano-ramos/angustia.html"
+            "item": "https://skepvox.com/literatura/graciliano-ramos/angustia"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Infância no Sertão",
-            "item": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-003-infancia-no-sertao.html"
+            "item": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-003-infancia-no-sertao"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/graciliano-ramos/angustia.html)
+[Voltar ao livro](/literatura/graciliano-ramos/angustia)
 
 ## Infância no Sertão
 

@@ -123,7 +123,7 @@ head:
       }
 ---
 
-[Retour au livre](/louis-lavelle/la-presence-totale.html)
+[Retour au livre](/louis-lavelle/la-presence-totale)
 
 ## L'intelligible et le sensible s'enveloppent l'un l'autre
 

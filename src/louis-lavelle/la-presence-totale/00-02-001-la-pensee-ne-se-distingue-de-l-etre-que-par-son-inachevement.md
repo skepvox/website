@@ -123,7 +123,7 @@ head:
       }
 ---
 
-[Retour au livre](/louis-lavelle/la-presence-totale.html)
+[Retour au livre](/louis-lavelle/la-presence-totale)
 
 ## La pensée ne se distingue de l'être que par son inachèvement
 

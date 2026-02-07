@@ -14,7 +14,7 @@ chapter-title: "004 — A Ideia Fixa"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-004-a-ideia-fixa.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-004-a-ideia-fixa"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 004 — A Ideia Fixa."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 004 — A Ideia Fixa."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-004-a-ideia-fixa.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-004-a-ideia-fixa"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "004 — A Ideia Fixa",
         "identifier": "00-04-004",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-004-a-ideia-fixa.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-004-a-ideia-fixa.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-004-a-ideia-fixa",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-004-a-ideia-fixa",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 004 — A Ideia Fixa.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "004 — A Ideia Fixa",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-004-a-ideia-fixa.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-004-a-ideia-fixa"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 004 — A Ideia Fixa
 

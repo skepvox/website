@@ -123,7 +123,7 @@ head:
       }
 ---
 
-[Retour au livre](/louis-lavelle/la-presence-totale.html)
+[Retour au livre](/louis-lavelle/la-presence-totale)
 
 ## Le tout et la partie ne peuvent pas être dissociés
 

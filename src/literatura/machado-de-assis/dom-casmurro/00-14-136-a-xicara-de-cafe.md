@@ -14,7 +14,7 @@ chapter-title: "136 — A Xícara de Café"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-136-a-xicara-de-cafe.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-136-a-xicara-de-cafe"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 136 — A Xícara de Café."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 136 — A Xícara de Café."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-136-a-xicara-de-cafe.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-136-a-xicara-de-cafe"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "136 — A Xícara de Café",
         "identifier": "00-14-136",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-136-a-xicara-de-cafe.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-136-a-xicara-de-cafe.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-136-a-xicara-de-cafe",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-136-a-xicara-de-cafe",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 136 — A Xícara de Café.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "136 — A Xícara de Café",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-136-a-xicara-de-cafe.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-136-a-xicara-de-cafe"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 136 — A Xícara de Café
 

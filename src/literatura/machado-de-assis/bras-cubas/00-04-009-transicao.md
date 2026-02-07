@@ -14,7 +14,7 @@ chapter-title: "009 — Transição"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-009-transicao.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-009-transicao"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 009 — Transição."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 009 — Transição."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-009-transicao.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-009-transicao"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "009 — Transição",
         "identifier": "00-04-009",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-009-transicao.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-009-transicao.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-009-transicao",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-009-transicao",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 009 — Transição.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "009 — Transição",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-009-transicao.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-009-transicao"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 009 — Transição
 

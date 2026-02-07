@@ -14,7 +14,7 @@ chapter-title: "065 — A Dissimulação"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-065-a-dissimulacao.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-065-a-dissimulacao"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 065 — A Dissimulação."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 065 — A Dissimulação."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-065-a-dissimulacao.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-065-a-dissimulacao"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "065 — A Dissimulação",
         "identifier": "00-07-065",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-065-a-dissimulacao.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-065-a-dissimulacao.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-065-a-dissimulacao",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-065-a-dissimulacao",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 065 — A Dissimulação.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "065 — A Dissimulação",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-065-a-dissimulacao.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-065-a-dissimulacao"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 065 — A Dissimulação
 

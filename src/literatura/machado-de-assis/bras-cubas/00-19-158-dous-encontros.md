@@ -14,7 +14,7 @@ chapter-title: "158 — Dous Encontros"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-158-dous-encontros.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-158-dous-encontros"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 158 — Dous Encontros."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 158 — Dous Encontros."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-158-dous-encontros.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-158-dous-encontros"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "158 — Dous Encontros",
         "identifier": "00-19-158",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-158-dous-encontros.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-158-dous-encontros.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-158-dous-encontros",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-158-dous-encontros",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 158 — Dous Encontros.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "158 — Dous Encontros",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-158-dous-encontros.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-158-dous-encontros"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 158 — Dous Encontros
 

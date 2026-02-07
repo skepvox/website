@@ -123,7 +123,7 @@ head:
       }
 ---
 
-[Retour au livre](/louis-lavelle/la-conscience-de-soi.html)
+[Retour au livre](/louis-lavelle/la-conscience-de-soi)
 
 ## Chapitre VIII. Solitude et communion
 

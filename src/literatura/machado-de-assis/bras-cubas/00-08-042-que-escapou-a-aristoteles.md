@@ -14,7 +14,7 @@ chapter-title: "042 — Que Escapou a Aristóteles"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-042-que-escapou-a-aristoteles.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-042-que-escapou-a-aristoteles"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 042 — Que Escapou a Aristóteles."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 042 — Que Escapou a Aristóteles."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-042-que-escapou-a-aristoteles.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-042-que-escapou-a-aristoteles"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "042 — Que Escapou a Aristóteles",
         "identifier": "00-08-042",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-042-que-escapou-a-aristoteles.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-042-que-escapou-a-aristoteles.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-042-que-escapou-a-aristoteles",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-042-que-escapou-a-aristoteles",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 042 — Que Escapou a Aristóteles.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "042 — Que Escapou a Aristóteles",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-042-que-escapou-a-aristoteles.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-042-que-escapou-a-aristoteles"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 042 — Que Escapou a Aristóteles
 

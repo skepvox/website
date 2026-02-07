@@ -14,7 +14,7 @@ chapter-title: "053 — A Caminho!"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-053-a-caminho.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-053-a-caminho"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 053 — A Caminho!."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 053 — A Caminho!."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-053-a-caminho.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-053-a-caminho"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "053 — A Caminho!",
         "identifier": "00-06-053",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-053-a-caminho.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-053-a-caminho.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-053-a-caminho",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-053-a-caminho",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 053 — A Caminho!.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "053 — A Caminho!",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-053-a-caminho.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-053-a-caminho"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 053 — A Caminho!
 

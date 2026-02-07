@@ -14,7 +14,7 @@ chapter-title: "086 — Antes que Me Esqueça"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-086-antes-que-me-esqueca.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-086-antes-que-me-esqueca"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 086 — Antes que Me Esqueça."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 086 — Antes que Me Esqueça."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-086-antes-que-me-esqueca.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-086-antes-que-me-esqueca"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "086 — Antes que Me Esqueça",
         "identifier": "00-10-086",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-086-antes-que-me-esqueca.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-086-antes-que-me-esqueca.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-086-antes-que-me-esqueca",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-086-antes-que-me-esqueca",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 086 — Antes que Me Esqueça.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "086 — Antes que Me Esqueça",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-086-antes-que-me-esqueca.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-086-antes-que-me-esqueca"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 086 — Antes que Me Esqueça
 

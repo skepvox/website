@@ -14,7 +14,7 @@ chapter-title: "032 — Coxa de Nascença"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-032-coxa-de-nascenca.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-032-coxa-de-nascenca"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 032 — Coxa de Nascença."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 032 — Coxa de Nascença."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-032-coxa-de-nascenca.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-032-coxa-de-nascenca"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "032 — Coxa de Nascença",
         "identifier": "00-07-032",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-032-coxa-de-nascenca.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-032-coxa-de-nascenca.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-032-coxa-de-nascenca",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-032-coxa-de-nascenca",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 032 — Coxa de Nascença.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "032 — Coxa de Nascença",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-032-coxa-de-nascenca.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-032-coxa-de-nascenca"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 032 — Coxa de Nascença
 

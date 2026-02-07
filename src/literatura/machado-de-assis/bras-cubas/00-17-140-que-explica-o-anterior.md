@@ -14,7 +14,7 @@ chapter-title: "140 — Que Explica o Anterior"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-140-que-explica-o-anterior.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-140-que-explica-o-anterior"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 140 — Que Explica o Anterior."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 140 — Que Explica o Anterior."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-140-que-explica-o-anterior.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-140-que-explica-o-anterior"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "140 — Que Explica o Anterior",
         "identifier": "00-17-140",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-140-que-explica-o-anterior.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-140-que-explica-o-anterior.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-140-que-explica-o-anterior",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-140-que-explica-o-anterior",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 140 — Que Explica o Anterior.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "140 — Que Explica o Anterior",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-140-que-explica-o-anterior.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-140-que-explica-o-anterior"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 140 — Que Explica o Anterior
 

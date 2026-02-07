@@ -5,7 +5,7 @@ outline: 2
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/o-alienista.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/o-alienista"
   - - meta
     - name: description
       content: "Texto integral de O Alienista, de Machado de Assis, com capítulos separados para leitura."
@@ -17,7 +17,7 @@ head:
       content: "Texto integral de O Alienista, de Machado de Assis, com capítulos separados para leitura."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/o-alienista.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/o-alienista"
   - - meta
     - property: og:type
       content: book
@@ -54,32 +54,32 @@ head:
           "name": "Machado de Assis"
         },
         "inLanguage": "pt-BR",
-        "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista",
         "description": "Texto integral de O Alienista, de Machado de Assis, com capítulos separados para leitura.",
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "hasPart": [
           {
             "@type": "Chapter",
             "name": "I — De como Itaguaí Ganhou uma Casa de Orates",
-            "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-001-de-como-itaguai-ganhou-uma-casa-de-orates.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-001-de-como-itaguai-ganhou-uma-casa-de-orates",
             "identifier": "00-00-001"
           },
           {
             "@type": "Chapter",
             "name": "II — Torrente de Loucos",
-            "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-002-torrente-de-loucos.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-002-torrente-de-loucos",
             "identifier": "00-00-002"
           },
           {
             "@type": "Chapter",
             "name": "III — Deus Sabe o que Faz!",
-            "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-003-deus-sabe-o-que-faz.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-003-deus-sabe-o-que-faz",
             "identifier": "00-00-003"
           },
           {
             "@type": "Chapter",
             "name": "IV — Nota do Autor",
-            "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-004-nota-do-autor.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-004-nota-do-autor",
             "identifier": "00-00-004"
           }
         ]
@@ -97,25 +97,25 @@ head:
             "@type": "ListItem",
             "position": 1,
             "name": "I — De como Itaguaí Ganhou uma Casa de Orates",
-            "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-001-de-como-itaguai-ganhou-uma-casa-de-orates.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-001-de-como-itaguai-ganhou-uma-casa-de-orates"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "II — Torrente de Loucos",
-            "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-002-torrente-de-loucos.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-002-torrente-de-loucos"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "III — Deus Sabe o que Faz!",
-            "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-003-deus-sabe-o-que-faz.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-003-deus-sabe-o-que-faz"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "IV — Nota do Autor",
-            "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-004-nota-do-autor.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-004-nota-do-autor"
           }
         ]
       }
@@ -136,7 +136,7 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "O Alienista",
-            "item": "https://skepvox.com/literatura/machado-de-assis/o-alienista.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/o-alienista"
           }
         ]
       }
@@ -144,12 +144,12 @@ head:
 
 # O Alienista
 
-## Sumário
+**Sumário**
 
-- [I — De como Itaguaí Ganhou uma Casa de Orates](/literatura/machado-de-assis/o-alienista/00-00-001-de-como-itaguai-ganhou-uma-casa-de-orates.html)
-- [II — Torrente de Loucos](/literatura/machado-de-assis/o-alienista/00-00-002-torrente-de-loucos.html)
-- [III — Deus Sabe o que Faz!](/literatura/machado-de-assis/o-alienista/00-00-003-deus-sabe-o-que-faz.html)
-- [IV — Nota do Autor](/literatura/machado-de-assis/o-alienista/00-00-004-nota-do-autor.html)
+- [I — De como Itaguaí Ganhou uma Casa de Orates](/literatura/machado-de-assis/o-alienista/00-00-001-de-como-itaguai-ganhou-uma-casa-de-orates)
+- [II — Torrente de Loucos](/literatura/machado-de-assis/o-alienista/00-00-002-torrente-de-loucos)
+- [III — Deus Sabe o que Faz!](/literatura/machado-de-assis/o-alienista/00-00-003-deus-sabe-o-que-faz)
+- [IV — Nota do Autor](/literatura/machado-de-assis/o-alienista/00-00-004-nota-do-autor)
 
 ## I — De como Itaguaí Ganhou uma Casa de Orates
 

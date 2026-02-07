@@ -14,7 +14,7 @@ chapter-title: "111 — Contado Depressa"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-111-contado-depressa.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-111-contado-depressa"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 111 — Contado Depressa."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 111 — Contado Depressa."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-111-contado-depressa.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-111-contado-depressa"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "111 — Contado Depressa",
         "identifier": "00-12-111",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-111-contado-depressa.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-111-contado-depressa.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-111-contado-depressa",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-111-contado-depressa",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 111 — Contado Depressa.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "111 — Contado Depressa",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-111-contado-depressa.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-111-contado-depressa"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 111 — Contado Depressa
 

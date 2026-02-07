@@ -14,7 +14,7 @@ chapter-title: "025 — Na Tijuca"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-025-na-tijuca.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-025-na-tijuca"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 025 — Na Tijuca."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 025 — Na Tijuca."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-025-na-tijuca.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-025-na-tijuca"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "025 — Na Tijuca",
         "identifier": "00-06-025",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-025-na-tijuca.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-025-na-tijuca.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-025-na-tijuca",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-025-na-tijuca",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 025 — Na Tijuca.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "025 — Na Tijuca",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-025-na-tijuca.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-025-na-tijuca"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 025 — Na Tijuca
 

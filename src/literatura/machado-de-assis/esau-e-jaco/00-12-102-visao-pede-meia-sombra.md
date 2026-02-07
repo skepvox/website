@@ -14,7 +14,7 @@ chapter-title: "102 — Visão Pede Meia Sombra"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-102-visao-pede-meia-sombra.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-102-visao-pede-meia-sombra"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 102 — Visão Pede Meia Sombra."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 102 — Visão Pede Meia Sombra."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-102-visao-pede-meia-sombra.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-102-visao-pede-meia-sombra"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "102 — Visão Pede Meia Sombra",
         "identifier": "00-12-102",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-102-visao-pede-meia-sombra.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-102-visao-pede-meia-sombra.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-102-visao-pede-meia-sombra",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-102-visao-pede-meia-sombra",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 102 — Visão Pede Meia Sombra.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "102 — Visão Pede Meia Sombra",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-102-visao-pede-meia-sombra.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-102-visao-pede-meia-sombra"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 102 — Visão Pede Meia Sombra
 

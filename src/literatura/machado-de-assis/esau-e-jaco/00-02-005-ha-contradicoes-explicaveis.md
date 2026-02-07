@@ -14,7 +14,7 @@ chapter-title: "005 — Há Contradições Explicáveis"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-005-ha-contradicoes-explicaveis.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-005-ha-contradicoes-explicaveis"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 005 — Há Contradições Explicáveis."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 005 — Há Contradições Explicáveis."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-005-ha-contradicoes-explicaveis.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-005-ha-contradicoes-explicaveis"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "005 — Há Contradições Explicáveis",
         "identifier": "00-02-005",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-005-ha-contradicoes-explicaveis.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-005-ha-contradicoes-explicaveis.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-005-ha-contradicoes-explicaveis",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-005-ha-contradicoes-explicaveis",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 005 — Há Contradições Explicáveis.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "005 — Há Contradições Explicáveis",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-005-ha-contradicoes-explicaveis.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-005-ha-contradicoes-explicaveis"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 005 — Há Contradições Explicáveis
 

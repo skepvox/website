@@ -14,7 +14,7 @@ chapter-title: "122 — O Enterro"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-122-o-enterro.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-122-o-enterro"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 122 — O Enterro."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 122 — O Enterro."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-122-o-enterro.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-122-o-enterro"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "122 — O Enterro",
         "identifier": "00-13-122",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-122-o-enterro.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-122-o-enterro.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-122-o-enterro",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-122-o-enterro",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 122 — O Enterro.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "122 — O Enterro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-122-o-enterro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-122-o-enterro"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 122 — O Enterro
 

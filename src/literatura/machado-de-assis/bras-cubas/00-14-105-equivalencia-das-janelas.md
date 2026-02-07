@@ -14,7 +14,7 @@ chapter-title: "105 — Equivalência das Janelas"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-105-equivalencia-das-janelas.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-105-equivalencia-das-janelas"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 105 — Equivalência das Janelas."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 105 — Equivalência das Janelas."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-105-equivalencia-das-janelas.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-105-equivalencia-das-janelas"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "105 — Equivalência das Janelas",
         "identifier": "00-14-105",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-105-equivalencia-das-janelas.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-105-equivalencia-das-janelas.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-105-equivalencia-das-janelas",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-105-equivalencia-das-janelas",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 105 — Equivalência das Janelas.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "105 — Equivalência das Janelas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-105-equivalencia-das-janelas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-105-equivalencia-das-janelas"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 105 — Equivalência das Janelas
 

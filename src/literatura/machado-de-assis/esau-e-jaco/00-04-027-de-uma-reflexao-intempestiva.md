@@ -14,7 +14,7 @@ chapter-title: "027 — De uma Reflexão Intempestiva"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-027-de-uma-reflexao-intempestiva.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-027-de-uma-reflexao-intempestiva"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 027 — De uma Reflexão Intempestiva."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 027 — De uma Reflexão Intempestiva."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-027-de-uma-reflexao-intempestiva.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-027-de-uma-reflexao-intempestiva"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "027 — De uma Reflexão Intempestiva",
         "identifier": "00-04-027",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-027-de-uma-reflexao-intempestiva.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-027-de-uma-reflexao-intempestiva.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-027-de-uma-reflexao-intempestiva",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-027-de-uma-reflexao-intempestiva",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 027 — De uma Reflexão Intempestiva.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "027 — De uma Reflexão Intempestiva",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-027-de-uma-reflexao-intempestiva.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-027-de-uma-reflexao-intempestiva"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 027 — De uma Reflexão Intempestiva
 

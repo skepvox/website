@@ -14,7 +14,7 @@ chapter-title: "114 — Fim de um Diálogo"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-114-fim-de-um-dialogo.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-114-fim-de-um-dialogo"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 114 — Fim de um Diálogo."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 114 — Fim de um Diálogo."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-114-fim-de-um-dialogo.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-114-fim-de-um-dialogo"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "114 — Fim de um Diálogo",
         "identifier": "00-15-114",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-114-fim-de-um-dialogo.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-114-fim-de-um-dialogo.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-114-fim-de-um-dialogo",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-114-fim-de-um-dialogo",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 114 — Fim de um Diálogo.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "114 — Fim de um Diálogo",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-114-fim-de-um-dialogo.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-114-fim-de-um-dialogo"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 114 — Fim de um Diálogo
 

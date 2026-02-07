@@ -14,7 +14,7 @@ chapter-title: "011 — O Menino É Pai do Homem"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-011-o-menino-e-pai-do-homem.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-011-o-menino-e-pai-do-homem"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 011 — O Menino É Pai do Homem."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 011 — O Menino É Pai do Homem."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-011-o-menino-e-pai-do-homem.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-011-o-menino-e-pai-do-homem"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "011 — O Menino É Pai do Homem",
         "identifier": "00-05-011",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-011-o-menino-e-pai-do-homem.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-011-o-menino-e-pai-do-homem.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-011-o-menino-e-pai-do-homem",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-011-o-menino-e-pai-do-homem",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 011 — O Menino É Pai do Homem.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "011 — O Menino É Pai do Homem",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-011-o-menino-e-pai-do-homem.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-011-o-menino-e-pai-do-homem"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 011 — O Menino É Pai do Homem
 

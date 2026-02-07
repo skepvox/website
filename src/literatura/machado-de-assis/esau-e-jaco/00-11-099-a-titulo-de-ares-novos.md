@@ -14,7 +14,7 @@ chapter-title: "099 — A Título de Ares Novos"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-099-a-titulo-de-ares-novos.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-099-a-titulo-de-ares-novos"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 099 — A Título de Ares Novos."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 099 — A Título de Ares Novos."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-099-a-titulo-de-ares-novos.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-099-a-titulo-de-ares-novos"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "099 — A Título de Ares Novos",
         "identifier": "00-11-099",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-099-a-titulo-de-ares-novos.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-099-a-titulo-de-ares-novos.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-099-a-titulo-de-ares-novos",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-099-a-titulo-de-ares-novos",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 099 — A Título de Ares Novos.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "099 — A Título de Ares Novos",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-099-a-titulo-de-ares-novos.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-099-a-titulo-de-ares-novos"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 099 — A Título de Ares Novos
 

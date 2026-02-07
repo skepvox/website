@@ -14,7 +14,7 @@ chapter-title: "067 — A Noite Inteira"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-067-a-noite-inteira.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-067-a-noite-inteira"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 067 — A Noite Inteira."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 067 — A Noite Inteira."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-067-a-noite-inteira.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-067-a-noite-inteira"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "067 — A Noite Inteira",
         "identifier": "00-08-067",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-067-a-noite-inteira.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-067-a-noite-inteira.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-067-a-noite-inteira",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-067-a-noite-inteira",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 067 — A Noite Inteira.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "067 — A Noite Inteira",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-067-a-noite-inteira.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-067-a-noite-inteira"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 067 — A Noite Inteira
 

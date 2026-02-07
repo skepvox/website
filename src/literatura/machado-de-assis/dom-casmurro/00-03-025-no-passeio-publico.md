@@ -14,7 +14,7 @@ chapter-title: "025 — No Passeio Público"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-025-no-passeio-publico.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-025-no-passeio-publico"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 025 — No Passeio Público."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 025 — No Passeio Público."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-025-no-passeio-publico.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-025-no-passeio-publico"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "025 — No Passeio Público",
         "identifier": "00-03-025",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-025-no-passeio-publico.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-025-no-passeio-publico.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-025-no-passeio-publico",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-025-no-passeio-publico",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 025 — No Passeio Público.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "025 — No Passeio Público",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-025-no-passeio-publico.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-025-no-passeio-publico"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 025 — No Passeio Público
 

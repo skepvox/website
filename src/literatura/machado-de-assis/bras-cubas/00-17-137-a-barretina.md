@@ -14,7 +14,7 @@ chapter-title: "137 — A Barretina"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-137-a-barretina.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-137-a-barretina"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 137 — A Barretina."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 137 — A Barretina."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-137-a-barretina.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-137-a-barretina"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "137 — A Barretina",
         "identifier": "00-17-137",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-137-a-barretina.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-137-a-barretina.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-137-a-barretina",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-137-a-barretina",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 137 — A Barretina.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "137 — A Barretina",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-137-a-barretina.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-137-a-barretina"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 137 — A Barretina
 

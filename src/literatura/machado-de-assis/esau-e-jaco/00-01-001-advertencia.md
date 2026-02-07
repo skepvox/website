@@ -14,7 +14,7 @@ chapter-title: "Advertência"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-01-001-advertencia.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-01-001-advertencia"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. Advertência."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. Advertência."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-01-001-advertencia.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-01-001-advertencia"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "Advertência",
         "identifier": "00-01-001",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-01-001-advertencia.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-01-001-advertencia.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-01-001-advertencia",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-01-001-advertencia",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. Advertência.",
@@ -113,19 +113,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Advertência",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-01-001-advertencia.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-01-001-advertencia"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## Advertência
 

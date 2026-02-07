@@ -14,7 +14,7 @@ chapter-title: "076 — Talvez Fosse a Mesma!"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-076-talvez-fosse-a-mesma.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-076-talvez-fosse-a-mesma"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 076 — Talvez Fosse a Mesma!."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 076 — Talvez Fosse a Mesma!."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-076-talvez-fosse-a-mesma.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-076-talvez-fosse-a-mesma"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "076 — Talvez Fosse a Mesma!",
         "identifier": "00-09-076",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-076-talvez-fosse-a-mesma.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-076-talvez-fosse-a-mesma.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-076-talvez-fosse-a-mesma",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-076-talvez-fosse-a-mesma",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 076 — Talvez Fosse a Mesma!.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "076 — Talvez Fosse a Mesma!",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-076-talvez-fosse-a-mesma.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-076-talvez-fosse-a-mesma"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 076 — Talvez Fosse a Mesma!
 

@@ -14,7 +14,7 @@ chapter-title: "108 — Velhas Cerimônias"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-108-velhas-cerimonias.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-108-velhas-cerimonias"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 108 — Velhas Cerimônias."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 108 — Velhas Cerimônias."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-108-velhas-cerimonias.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-108-velhas-cerimonias"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "108 — Velhas Cerimônias",
         "identifier": "00-12-108",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-108-velhas-cerimonias.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-108-velhas-cerimonias.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-108-velhas-cerimonias",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-108-velhas-cerimonias",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 108 — Velhas Cerimônias.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "108 — Velhas Cerimônias",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-108-velhas-cerimonias.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-108-velhas-cerimonias"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 108 — Velhas Cerimônias
 

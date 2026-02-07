@@ -14,7 +14,7 @@ chapter-title: "126 — Desconsolação"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-126-desconsolacao.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-126-desconsolacao"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 126 — Desconsolação."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 126 — Desconsolação."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-126-desconsolacao.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-126-desconsolacao"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "126 — Desconsolação",
         "identifier": "00-16-126",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-126-desconsolacao.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-126-desconsolacao.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-126-desconsolacao",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-126-desconsolacao",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 126 — Desconsolação.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "126 — Desconsolação",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-126-desconsolacao.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-126-desconsolacao"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 126 — Desconsolação
 

@@ -14,7 +14,7 @@ chapter-title: "088 — O Enfermo"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-088-o-enfermo.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-088-o-enfermo"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 088 — O Enfermo."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 088 — O Enfermo."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-088-o-enfermo.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-088-o-enfermo"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "088 — O Enfermo",
         "identifier": "00-12-088",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-088-o-enfermo.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-088-o-enfermo.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-088-o-enfermo",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-088-o-enfermo",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 088 — O Enfermo.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "088 — O Enfermo",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-088-o-enfermo.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-088-o-enfermo"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 088 — O Enfermo
 

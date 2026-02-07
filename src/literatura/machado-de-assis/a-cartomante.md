@@ -5,7 +5,7 @@ outline: 2
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/a-cartomante.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/a-cartomante"
   - - meta
     - name: description
       content: "Texto integral de A Cartomante, conto de Machado de Assis."
@@ -17,7 +17,7 @@ head:
       content: "Texto integral de A Cartomante, conto de Machado de Assis."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/a-cartomante.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/a-cartomante"
   - - meta
     - property: og:type
       content: book
@@ -54,7 +54,7 @@ head:
           "name": "Machado de Assis"
         },
         "inLanguage": "pt-BR",
-        "url": "https://skepvox.com/literatura/machado-de-assis/a-cartomante.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/a-cartomante",
         "description": "Texto integral de A Cartomante, conto de Machado de Assis.",
         "image": "https://skepvox.com/images/authors/machado-de-assis.png"
       }
@@ -75,7 +75,7 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "A Cartomante",
-            "item": "https://skepvox.com/literatura/machado-de-assis/a-cartomante.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/a-cartomante"
           }
         ]
       }

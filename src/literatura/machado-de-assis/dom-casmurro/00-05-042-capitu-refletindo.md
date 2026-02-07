@@ -14,7 +14,7 @@ chapter-title: "042 — Capitu Refletindo"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-042-capitu-refletindo.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-042-capitu-refletindo"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 042 — Capitu Refletindo."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 042 — Capitu Refletindo."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-042-capitu-refletindo.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-042-capitu-refletindo"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "042 — Capitu Refletindo",
         "identifier": "00-05-042",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-042-capitu-refletindo.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-042-capitu-refletindo.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-042-capitu-refletindo",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-042-capitu-refletindo",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 042 — Capitu Refletindo.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "042 — Capitu Refletindo",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-042-capitu-refletindo.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-042-capitu-refletindo"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 042 — Capitu Refletindo
 

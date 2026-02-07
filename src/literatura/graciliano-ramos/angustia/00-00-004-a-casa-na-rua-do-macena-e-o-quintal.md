@@ -13,7 +13,7 @@ chapter-title: "A Casa na Rua do Macena e o Quintal"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-004-a-casa-na-rua-do-macena-e-o-quintal.html"
+      href: "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-004-a-casa-na-rua-do-macena-e-o-quintal"
   - - meta
     - name: description
       content: "Texto integral de Angústia, de Graciliano Ramos. A Casa na Rua do Macena e o Quintal."
@@ -25,7 +25,7 @@ head:
       content: "Texto integral de Angústia, de Graciliano Ramos. A Casa na Rua do Macena e o Quintal."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-004-a-casa-na-rua-do-macena-e-o-quintal.html"
+      content: "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-004-a-casa-na-rua-do-macena-e-o-quintal"
   - - meta
     - property: og:type
       content: article
@@ -58,8 +58,8 @@ head:
         "@type": "Chapter",
         "name": "A Casa na Rua do Macena e o Quintal",
         "identifier": "00-00-004",
-        "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-004-a-casa-na-rua-do-macena-e-o-quintal.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-004-a-casa-na-rua-do-macena-e-o-quintal.html",
+        "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-004-a-casa-na-rua-do-macena-e-o-quintal",
+        "mainEntityOfPage": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-004-a-casa-na-rua-do-macena-e-o-quintal",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -73,7 +73,7 @@ head:
             "@type": "Person",
             "name": "Graciliano Ramos"
           },
-          "url": "https://skepvox.com/literatura/graciliano-ramos/angustia.html"
+          "url": "https://skepvox.com/literatura/graciliano-ramos/angustia"
         },
         "image": "https://skepvox.com/images/authors/graciliano-ramos.png",
         "description": "Texto integral de Angústia, de Graciliano Ramos. A Casa na Rua do Macena e o Quintal.",
@@ -102,19 +102,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Angústia",
-            "item": "https://skepvox.com/literatura/graciliano-ramos/angustia.html"
+            "item": "https://skepvox.com/literatura/graciliano-ramos/angustia"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "A Casa na Rua do Macena e o Quintal",
-            "item": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-004-a-casa-na-rua-do-macena-e-o-quintal.html"
+            "item": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-004-a-casa-na-rua-do-macena-e-o-quintal"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/graciliano-ramos/angustia.html)
+[Voltar ao livro](/literatura/graciliano-ramos/angustia)
 
 ## A Casa na Rua do Macena e o Quintal
 

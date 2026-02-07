@@ -14,7 +14,7 @@ chapter-title: "049 — Uma Vela aos Sábados"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-049-uma-vela-aos-sabados.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-049-uma-vela-aos-sabados"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 049 — Uma Vela aos Sábados."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 049 — Uma Vela aos Sábados."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-049-uma-vela-aos-sabados.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-049-uma-vela-aos-sabados"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "049 — Uma Vela aos Sábados",
         "identifier": "00-05-049",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-049-uma-vela-aos-sabados.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-049-uma-vela-aos-sabados.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-049-uma-vela-aos-sabados",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-049-uma-vela-aos-sabados",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 049 — Uma Vela aos Sábados.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "049 — Uma Vela aos Sábados",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-049-uma-vela-aos-sabados.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-049-uma-vela-aos-sabados"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 049 — Uma Vela aos Sábados
 

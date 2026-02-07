@@ -14,7 +14,7 @@ chapter-title: "021 — Prima Justina"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-021-prima-justina.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-021-prima-justina"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 021 — Prima Justina."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 021 — Prima Justina."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-021-prima-justina.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-021-prima-justina"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "021 — Prima Justina",
         "identifier": "00-03-021",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-021-prima-justina.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-021-prima-justina.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-021-prima-justina",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-021-prima-justina",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 021 — Prima Justina.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "021 — Prima Justina",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-021-prima-justina.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-021-prima-justina"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 021 — Prima Justina
 

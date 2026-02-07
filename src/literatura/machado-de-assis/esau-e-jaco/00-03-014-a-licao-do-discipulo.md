@@ -14,7 +14,7 @@ chapter-title: "014 — A Lição do Discípulo"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-014-a-licao-do-discipulo.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-014-a-licao-do-discipulo"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 014 — A Lição do Discípulo."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 014 — A Lição do Discípulo."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-014-a-licao-do-discipulo.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-014-a-licao-do-discipulo"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "014 — A Lição do Discípulo",
         "identifier": "00-03-014",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-014-a-licao-do-discipulo.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-014-a-licao-do-discipulo.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-014-a-licao-do-discipulo",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-014-a-licao-do-discipulo",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 014 — A Lição do Discípulo.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "014 — A Lição do Discípulo",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-014-a-licao-do-discipulo.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-014-a-licao-do-discipulo"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 014 — A Lição do Discípulo
 

@@ -14,7 +14,7 @@ chapter-title: "100 — O Caso Provável"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-100-o-caso-provavel.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-100-o-caso-provavel"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 100 — O Caso Provável."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 100 — O Caso Provável."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-100-o-caso-provavel.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-100-o-caso-provavel"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "100 — O Caso Provável",
         "identifier": "00-13-100",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-100-o-caso-provavel.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-100-o-caso-provavel.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-100-o-caso-provavel",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-100-o-caso-provavel",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 100 — O Caso Provável.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "100 — O Caso Provável",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-100-o-caso-provavel.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-100-o-caso-provavel"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 100 — O Caso Provável
 

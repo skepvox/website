@@ -14,7 +14,7 @@ chapter-title: "109 — Um Filho Único"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-109-um-filho-unico.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-109-um-filho-unico"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 109 — Um Filho Único."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 109 — Um Filho Único."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-109-um-filho-unico.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-109-um-filho-unico"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "109 — Um Filho Único",
         "identifier": "00-11-109",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-109-um-filho-unico.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-109-um-filho-unico.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-109-um-filho-unico",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-109-um-filho-unico",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 109 — Um Filho Único.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "109 — Um Filho Único",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-109-um-filho-unico.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-109-um-filho-unico"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 109 — Um Filho Único
 

@@ -14,7 +14,7 @@ chapter-title: "010 — Aceito a Teoria"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-010-aceito-a-teoria.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-010-aceito-a-teoria"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 010 — Aceito a Teoria."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 010 — Aceito a Teoria."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-010-aceito-a-teoria.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-010-aceito-a-teoria"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "010 — Aceito a Teoria",
         "identifier": "00-01-010",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-010-aceito-a-teoria.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-010-aceito-a-teoria.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-010-aceito-a-teoria",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-010-aceito-a-teoria",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 010 — Aceito a Teoria.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "010 — Aceito a Teoria",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-010-aceito-a-teoria.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-010-aceito-a-teoria"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 010 — Aceito a Teoria
 

@@ -14,7 +14,7 @@ chapter-title: "129 — Sem Remorsos"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-129-sem-remorsos.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-129-sem-remorsos"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 129 — Sem Remorsos."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 129 — Sem Remorsos."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-129-sem-remorsos.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-129-sem-remorsos"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "129 — Sem Remorsos",
         "identifier": "00-16-129",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-129-sem-remorsos.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-129-sem-remorsos.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-129-sem-remorsos",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-129-sem-remorsos",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 129 — Sem Remorsos.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "129 — Sem Remorsos",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-129-sem-remorsos.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-16-129-sem-remorsos"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 129 — Sem Remorsos
 

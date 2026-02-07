@@ -14,7 +14,7 @@ chapter-title: "030 — A Gente Batista"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-030-a-gente-batista.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-030-a-gente-batista"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 030 — A Gente Batista."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 030 — A Gente Batista."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-030-a-gente-batista.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-030-a-gente-batista"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "030 — A Gente Batista",
         "identifier": "00-04-030",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-030-a-gente-batista.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-030-a-gente-batista.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-030-a-gente-batista",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-030-a-gente-batista",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 030 — A Gente Batista.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "030 — A Gente Batista",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-030-a-gente-batista.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-030-a-gente-batista"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 030 — A Gente Batista
 

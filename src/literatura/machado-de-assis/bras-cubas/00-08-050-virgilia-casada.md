@@ -14,7 +14,7 @@ chapter-title: "050 — Virgília Casada"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-050-virgilia-casada.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-050-virgilia-casada"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 050 — Virgília Casada."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 050 — Virgília Casada."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-050-virgilia-casada.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-050-virgilia-casada"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "050 — Virgília Casada",
         "identifier": "00-08-050",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-050-virgilia-casada.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-050-virgilia-casada.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-050-virgilia-casada",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-050-virgilia-casada",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 050 — Virgília Casada.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "050 — Virgília Casada",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-050-virgilia-casada.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-050-virgilia-casada"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 050 — Virgília Casada
 

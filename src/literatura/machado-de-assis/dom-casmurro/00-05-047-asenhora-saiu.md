@@ -14,7 +14,7 @@ chapter-title: "047 — \"Asenhora Saiu"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-047-asenhora-saiu.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-047-asenhora-saiu"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 047 — \"Asenhora Saiu."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 047 — \"Asenhora Saiu."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-047-asenhora-saiu.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-047-asenhora-saiu"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "047 — \"Asenhora Saiu",
         "identifier": "00-05-047",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-047-asenhora-saiu.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-047-asenhora-saiu.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-047-asenhora-saiu",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-047-asenhora-saiu",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 047 — \"Asenhora Saiu.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "047 — \"Asenhora Saiu",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-047-asenhora-saiu.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-047-asenhora-saiu"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 047 — "Asenhora Saiu"
 

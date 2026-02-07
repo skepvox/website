@@ -123,7 +123,7 @@ head:
       }
 ---
 
-[Retour au livre](/louis-lavelle/quatre-saints.html)
+[Retour au livre](/louis-lavelle/quatre-saints)
 
 ## Chapitre 5. Saint François de Sales ou l'unité de la volonté et de l'amour
 

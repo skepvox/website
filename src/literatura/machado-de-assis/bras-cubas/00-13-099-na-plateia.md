@@ -14,7 +14,7 @@ chapter-title: "099 — Na Plateia"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-099-na-plateia.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-099-na-plateia"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 099 — Na Plateia."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 099 — Na Plateia."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-099-na-plateia.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-099-na-plateia"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "099 — Na Plateia",
         "identifier": "00-13-099",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-099-na-plateia.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-099-na-plateia.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-099-na-plateia",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-099-na-plateia",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 099 — Na Plateia.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "099 — Na Plateia",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-099-na-plateia.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-099-na-plateia"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 099 — Na Plateia
 

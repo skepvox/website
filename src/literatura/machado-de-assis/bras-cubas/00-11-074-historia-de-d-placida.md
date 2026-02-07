@@ -14,7 +14,7 @@ chapter-title: "074 — História de D. Plácida"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-074-historia-de-d-placida.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-074-historia-de-d-placida"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 074 — História de D. Plácida."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 074 — História de D. Plácida."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-074-historia-de-d-placida.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-074-historia-de-d-placida"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "074 — História de D. Plácida",
         "identifier": "00-11-074",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-074-historia-de-d-placida.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-074-historia-de-d-placida.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-074-historia-de-d-placida",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-074-historia-de-d-placida",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 074 — História de D. Plácida.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "074 — História de D. Plácida",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-074-historia-de-d-placida.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-074-historia-de-d-placida"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 074 — História de D. Plácida
 

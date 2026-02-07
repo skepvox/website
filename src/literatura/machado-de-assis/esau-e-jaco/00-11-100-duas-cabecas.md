@@ -14,7 +14,7 @@ chapter-title: "100 — Duas Cabeças"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-100-duas-cabecas.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-100-duas-cabecas"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 100 — Duas Cabeças."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 100 — Duas Cabeças."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-100-duas-cabecas.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-100-duas-cabecas"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "100 — Duas Cabeças",
         "identifier": "00-11-100",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-100-duas-cabecas.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-100-duas-cabecas.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-100-duas-cabecas",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-100-duas-cabecas",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 100 — Duas Cabeças.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "100 — Duas Cabeças",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-100-duas-cabecas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-100-duas-cabecas"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 100 — Duas Cabeças
 

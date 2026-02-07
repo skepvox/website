@@ -14,7 +14,7 @@ chapter-title: "076 — Explicação"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-076-explicacao.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-076-explicacao"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 076 — Explicação."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 076 — Explicação."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-076-explicacao.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-076-explicacao"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "076 — Explicação",
         "identifier": "00-08-076",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-076-explicacao.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-076-explicacao.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-076-explicacao",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-076-explicacao",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 076 — Explicação.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "076 — Explicação",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-076-explicacao.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-076-explicacao"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 076 — Explicação
 

@@ -14,7 +14,7 @@ chapter-title: "076 — O Estrume"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-076-o-estrume.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-076-o-estrume"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 076 — O Estrume."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 076 — O Estrume."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-076-o-estrume.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-076-o-estrume"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "076 — O Estrume",
         "identifier": "00-11-076",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-076-o-estrume.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-076-o-estrume.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-076-o-estrume",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-076-o-estrume",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 076 — O Estrume.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "076 — O Estrume",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-076-o-estrume.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-076-o-estrume"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 076 — O Estrume
 

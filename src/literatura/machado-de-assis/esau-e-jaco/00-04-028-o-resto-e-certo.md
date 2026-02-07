@@ -14,7 +14,7 @@ chapter-title: "028 — O Resto É Certo"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-028-o-resto-e-certo.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-028-o-resto-e-certo"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 028 — O Resto É Certo."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 028 — O Resto É Certo."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-028-o-resto-e-certo.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-028-o-resto-e-certo"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "028 — O Resto É Certo",
         "identifier": "00-04-028",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-028-o-resto-e-certo.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-028-o-resto-e-certo.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-028-o-resto-e-certo",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-028-o-resto-e-certo",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 028 — O Resto É Certo.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "028 — O Resto É Certo",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-028-o-resto-e-certo.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-028-o-resto-e-certo"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 028 — O Resto É Certo
 

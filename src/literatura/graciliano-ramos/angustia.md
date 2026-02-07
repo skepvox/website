@@ -5,7 +5,7 @@ outline: 2
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/graciliano-ramos/angustia.html"
+      href: "https://skepvox.com/literatura/graciliano-ramos/angustia"
   - - meta
     - name: description
       content: "Texto integral de Angústia, de Graciliano Ramos, com capítulos separados para leitura."
@@ -17,7 +17,7 @@ head:
       content: "Texto integral de Angústia, de Graciliano Ramos, com capítulos separados para leitura."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/graciliano-ramos/angustia.html"
+      content: "https://skepvox.com/literatura/graciliano-ramos/angustia"
   - - meta
     - property: og:type
       content: book
@@ -54,74 +54,74 @@ head:
           "name": "Graciliano Ramos"
         },
         "inLanguage": "pt-BR",
-        "url": "https://skepvox.com/literatura/graciliano-ramos/angustia.html",
+        "url": "https://skepvox.com/literatura/graciliano-ramos/angustia",
         "description": "Texto integral de Angústia, de Graciliano Ramos, com capítulos separados para leitura.",
         "image": "https://skepvox.com/images/authors/graciliano-ramos.png",
         "hasPart": [
           {
             "@type": "Chapter",
             "name": "Convalescença e Pressentimentos",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-001-convalescenca-e-pressentimentos.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-001-convalescenca-e-pressentimentos",
             "identifier": "00-00-001"
           },
           {
             "@type": "Chapter",
             "name": "A Pensão e a Cidade Grande",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-002-a-pensao-e-a-cidade-grande.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-002-a-pensao-e-a-cidade-grande",
             "identifier": "00-00-002"
           },
           {
             "@type": "Chapter",
             "name": "Infância no Sertão",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-003-infancia-no-sertao.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-003-infancia-no-sertao",
             "identifier": "00-00-003"
           },
           {
             "@type": "Chapter",
             "name": "A Casa na Rua do Macena e o Quintal",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-004-a-casa-na-rua-do-macena-e-o-quintal.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-004-a-casa-na-rua-do-macena-e-o-quintal",
             "identifier": "00-00-004"
           },
           {
             "@type": "Chapter",
             "name": "Julião Tavares",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-005-juliao-tavares.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-005-juliao-tavares",
             "identifier": "00-00-005"
           },
           {
             "@type": "Chapter",
             "name": "A Janela da Rua do Macena",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-006-a-janela-da-rua-do-macena.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-006-a-janela-da-rua-do-macena",
             "identifier": "00-00-006"
           },
           {
             "@type": "Chapter",
             "name": "Hiatos e Lembranças",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-007-hiatos-e-lembrancas.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-007-hiatos-e-lembrancas",
             "identifier": "00-00-007"
           },
           {
             "@type": "Chapter",
             "name": "Marina e d. Albertina",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-008-marina-e-d-albertina.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-008-marina-e-d-albertina",
             "identifier": "00-00-008"
           },
           {
             "@type": "Chapter",
             "name": "A Noite em Bebedouro",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-009-a-noite-em-bebedouro.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-009-a-noite-em-bebedouro",
             "identifier": "00-00-009"
           },
           {
             "@type": "Chapter",
             "name": "De Volta à Casa",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-010-de-volta-a-casa.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-010-de-volta-a-casa",
             "identifier": "00-00-010"
           },
           {
             "@type": "Chapter",
             "name": "Nota Editorial",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-011-nota-editorial.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-011-nota-editorial",
             "identifier": "00-00-011"
           }
         ]
@@ -139,67 +139,67 @@ head:
             "@type": "ListItem",
             "position": 1,
             "name": "Convalescença e Pressentimentos",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-001-convalescenca-e-pressentimentos.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-001-convalescenca-e-pressentimentos"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "A Pensão e a Cidade Grande",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-002-a-pensao-e-a-cidade-grande.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-002-a-pensao-e-a-cidade-grande"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Infância no Sertão",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-003-infancia-no-sertao.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-003-infancia-no-sertao"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "A Casa na Rua do Macena e o Quintal",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-004-a-casa-na-rua-do-macena-e-o-quintal.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-004-a-casa-na-rua-do-macena-e-o-quintal"
           },
           {
             "@type": "ListItem",
             "position": 5,
             "name": "Julião Tavares",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-005-juliao-tavares.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-005-juliao-tavares"
           },
           {
             "@type": "ListItem",
             "position": 6,
             "name": "A Janela da Rua do Macena",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-006-a-janela-da-rua-do-macena.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-006-a-janela-da-rua-do-macena"
           },
           {
             "@type": "ListItem",
             "position": 7,
             "name": "Hiatos e Lembranças",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-007-hiatos-e-lembrancas.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-007-hiatos-e-lembrancas"
           },
           {
             "@type": "ListItem",
             "position": 8,
             "name": "Marina e d. Albertina",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-008-marina-e-d-albertina.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-008-marina-e-d-albertina"
           },
           {
             "@type": "ListItem",
             "position": 9,
             "name": "A Noite em Bebedouro",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-009-a-noite-em-bebedouro.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-009-a-noite-em-bebedouro"
           },
           {
             "@type": "ListItem",
             "position": 10,
             "name": "De Volta à Casa",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-010-de-volta-a-casa.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-010-de-volta-a-casa"
           },
           {
             "@type": "ListItem",
             "position": 11,
             "name": "Nota Editorial",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-011-nota-editorial.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-011-nota-editorial"
           }
         ]
       }
@@ -220,7 +220,7 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Angústia",
-            "item": "https://skepvox.com/literatura/graciliano-ramos/angustia.html"
+            "item": "https://skepvox.com/literatura/graciliano-ramos/angustia"
           }
         ]
       }
@@ -228,19 +228,19 @@ head:
 
 # Angústia
 
-## Sumário
+**Sumário**
 
-- [Convalescença e Pressentimentos](/literatura/graciliano-ramos/angustia/00-00-001-convalescenca-e-pressentimentos.html)
-- [A Pensão e a Cidade Grande](/literatura/graciliano-ramos/angustia/00-00-002-a-pensao-e-a-cidade-grande.html)
-- [Infância no Sertão](/literatura/graciliano-ramos/angustia/00-00-003-infancia-no-sertao.html)
-- [A Casa na Rua do Macena e o Quintal](/literatura/graciliano-ramos/angustia/00-00-004-a-casa-na-rua-do-macena-e-o-quintal.html)
-- [Julião Tavares](/literatura/graciliano-ramos/angustia/00-00-005-juliao-tavares.html)
-- [A Janela da Rua do Macena](/literatura/graciliano-ramos/angustia/00-00-006-a-janela-da-rua-do-macena.html)
-- [Hiatos e Lembranças](/literatura/graciliano-ramos/angustia/00-00-007-hiatos-e-lembrancas.html)
-- [Marina e d. Albertina](/literatura/graciliano-ramos/angustia/00-00-008-marina-e-d-albertina.html)
-- [A Noite em Bebedouro](/literatura/graciliano-ramos/angustia/00-00-009-a-noite-em-bebedouro.html)
-- [De Volta à Casa](/literatura/graciliano-ramos/angustia/00-00-010-de-volta-a-casa.html)
-- [Nota Editorial](/literatura/graciliano-ramos/angustia/00-00-011-nota-editorial.html)
+- [Convalescença e Pressentimentos](/literatura/graciliano-ramos/angustia/00-00-001-convalescenca-e-pressentimentos)
+- [A Pensão e a Cidade Grande](/literatura/graciliano-ramos/angustia/00-00-002-a-pensao-e-a-cidade-grande)
+- [Infância no Sertão](/literatura/graciliano-ramos/angustia/00-00-003-infancia-no-sertao)
+- [A Casa na Rua do Macena e o Quintal](/literatura/graciliano-ramos/angustia/00-00-004-a-casa-na-rua-do-macena-e-o-quintal)
+- [Julião Tavares](/literatura/graciliano-ramos/angustia/00-00-005-juliao-tavares)
+- [A Janela da Rua do Macena](/literatura/graciliano-ramos/angustia/00-00-006-a-janela-da-rua-do-macena)
+- [Hiatos e Lembranças](/literatura/graciliano-ramos/angustia/00-00-007-hiatos-e-lembrancas)
+- [Marina e d. Albertina](/literatura/graciliano-ramos/angustia/00-00-008-marina-e-d-albertina)
+- [A Noite em Bebedouro](/literatura/graciliano-ramos/angustia/00-00-009-a-noite-em-bebedouro)
+- [De Volta à Casa](/literatura/graciliano-ramos/angustia/00-00-010-de-volta-a-casa)
+- [Nota Editorial](/literatura/graciliano-ramos/angustia/00-00-011-nota-editorial)
 
 ## Convalescença e Pressentimentos
 

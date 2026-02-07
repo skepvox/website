@@ -14,7 +14,7 @@ chapter-title: "061 — A Vaca de Homero"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-061-a-vaca-de-homero.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-061-a-vaca-de-homero"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 061 — A Vaca de Homero."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 061 — A Vaca de Homero."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-061-a-vaca-de-homero.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-061-a-vaca-de-homero"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "061 — A Vaca de Homero",
         "identifier": "00-07-061",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-061-a-vaca-de-homero.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-061-a-vaca-de-homero.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-061-a-vaca-de-homero",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-061-a-vaca-de-homero",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 061 — A Vaca de Homero.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "061 — A Vaca de Homero",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-061-a-vaca-de-homero.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-061-a-vaca-de-homero"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 061 — A Vaca de Homero
 

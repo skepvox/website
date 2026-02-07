@@ -14,7 +14,7 @@ chapter-title: "109 — Ao Pé da Cova"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-109-ao-pe-da-cova.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-109-ao-pe-da-cova"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 109 — Ao Pé da Cova."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 109 — Ao Pé da Cova."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-109-ao-pe-da-cova.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-109-ao-pe-da-cova"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "109 — Ao Pé da Cova",
         "identifier": "00-12-109",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-109-ao-pe-da-cova.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-109-ao-pe-da-cova.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-109-ao-pe-da-cova",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-109-ao-pe-da-cova",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 109 — Ao Pé da Cova.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "109 — Ao Pé da Cova",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-109-ao-pe-da-cova.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-12-109-ao-pe-da-cova"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 109 — Ao Pé da Cova
 

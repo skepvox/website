@@ -14,7 +14,7 @@ chapter-title: "150 — Rotação e Translação"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-150-rotacao-e-translacao.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-150-rotacao-e-translacao"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 150 — Rotação e Translação."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 150 — Rotação e Translação."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-150-rotacao-e-translacao.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-150-rotacao-e-translacao"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "150 — Rotação e Translação",
         "identifier": "00-18-150",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-150-rotacao-e-translacao.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-150-rotacao-e-translacao.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-150-rotacao-e-translacao",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-150-rotacao-e-translacao",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 150 — Rotação e Translação.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "150 — Rotação e Translação",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-150-rotacao-e-translacao.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-150-rotacao-e-translacao"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 150 — Rotação e Translação
 

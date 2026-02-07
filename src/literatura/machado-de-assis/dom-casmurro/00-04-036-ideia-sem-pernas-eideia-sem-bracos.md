@@ -14,7 +14,7 @@ chapter-title: "036 — Ideia sem Pernas Eideia sem Braços"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-036-ideia-sem-pernas-eideia-sem-bracos.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-036-ideia-sem-pernas-eideia-sem-bracos"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 036 — Ideia sem Pernas Eideia sem Braços."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 036 — Ideia sem Pernas Eideia sem Braços."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-036-ideia-sem-pernas-eideia-sem-bracos.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-036-ideia-sem-pernas-eideia-sem-bracos"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "036 — Ideia sem Pernas Eideia sem Braços",
         "identifier": "00-04-036",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-036-ideia-sem-pernas-eideia-sem-bracos.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-036-ideia-sem-pernas-eideia-sem-bracos.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-036-ideia-sem-pernas-eideia-sem-bracos",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-036-ideia-sem-pernas-eideia-sem-bracos",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 036 — Ideia sem Pernas Eideia sem Braços.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "036 — Ideia sem Pernas Eideia sem Braços",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-036-ideia-sem-pernas-eideia-sem-bracos.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-036-ideia-sem-pernas-eideia-sem-bracos"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 036 — Ideia sem Pernas Eideia sem Braços
 

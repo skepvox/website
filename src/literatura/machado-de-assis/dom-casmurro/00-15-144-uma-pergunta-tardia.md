@@ -14,7 +14,7 @@ chapter-title: "144 — Uma Pergunta Tardia"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-144-uma-pergunta-tardia.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-144-uma-pergunta-tardia"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 144 — Uma Pergunta Tardia."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 144 — Uma Pergunta Tardia."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-144-uma-pergunta-tardia.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-144-uma-pergunta-tardia"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "144 — Uma Pergunta Tardia",
         "identifier": "00-15-144",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-144-uma-pergunta-tardia.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-144-uma-pergunta-tardia.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-144-uma-pergunta-tardia",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-144-uma-pergunta-tardia",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 144 — Uma Pergunta Tardia.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "144 — Uma Pergunta Tardia",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-144-uma-pergunta-tardia.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-144-uma-pergunta-tardia"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 144 — Uma Pergunta Tardia
 

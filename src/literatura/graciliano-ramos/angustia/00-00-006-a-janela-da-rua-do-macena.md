@@ -13,7 +13,7 @@ chapter-title: "A Janela da Rua do Macena"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-006-a-janela-da-rua-do-macena.html"
+      href: "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-006-a-janela-da-rua-do-macena"
   - - meta
     - name: description
       content: "Texto integral de Angústia, de Graciliano Ramos. A Janela da Rua do Macena."
@@ -25,7 +25,7 @@ head:
       content: "Texto integral de Angústia, de Graciliano Ramos. A Janela da Rua do Macena."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-006-a-janela-da-rua-do-macena.html"
+      content: "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-006-a-janela-da-rua-do-macena"
   - - meta
     - property: og:type
       content: article
@@ -58,8 +58,8 @@ head:
         "@type": "Chapter",
         "name": "A Janela da Rua do Macena",
         "identifier": "00-00-006",
-        "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-006-a-janela-da-rua-do-macena.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-006-a-janela-da-rua-do-macena.html",
+        "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-006-a-janela-da-rua-do-macena",
+        "mainEntityOfPage": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-006-a-janela-da-rua-do-macena",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -73,7 +73,7 @@ head:
             "@type": "Person",
             "name": "Graciliano Ramos"
           },
-          "url": "https://skepvox.com/literatura/graciliano-ramos/angustia.html"
+          "url": "https://skepvox.com/literatura/graciliano-ramos/angustia"
         },
         "image": "https://skepvox.com/images/authors/graciliano-ramos.png",
         "description": "Texto integral de Angústia, de Graciliano Ramos. A Janela da Rua do Macena.",
@@ -102,19 +102,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Angústia",
-            "item": "https://skepvox.com/literatura/graciliano-ramos/angustia.html"
+            "item": "https://skepvox.com/literatura/graciliano-ramos/angustia"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "A Janela da Rua do Macena",
-            "item": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-006-a-janela-da-rua-do-macena.html"
+            "item": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-006-a-janela-da-rua-do-macena"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/graciliano-ramos/angustia.html)
+[Voltar ao livro](/literatura/graciliano-ramos/angustia)
 
 ## A Janela da Rua do Macena
 

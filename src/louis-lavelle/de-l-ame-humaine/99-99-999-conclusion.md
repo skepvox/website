@@ -123,7 +123,7 @@ head:
       }
 ---
 
-[Retour au livre](/louis-lavelle/de-l-ame-humaine.html)
+[Retour au livre](/louis-lavelle/de-l-ame-humaine)
 
 ## Conclusion. L'essence de l'âme, ou la réhabilitation des notions de possibilité et de puissance
 

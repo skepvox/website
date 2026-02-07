@@ -14,7 +14,7 @@ chapter-title: "142 — O Pedido Secreto"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-142-o-pedido-secreto.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-142-o-pedido-secreto"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 142 — O Pedido Secreto."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 142 — O Pedido Secreto."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-142-o-pedido-secreto.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-142-o-pedido-secreto"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "142 — O Pedido Secreto",
         "identifier": "00-18-142",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-142-o-pedido-secreto.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-142-o-pedido-secreto.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-142-o-pedido-secreto",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-142-o-pedido-secreto",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 142 — O Pedido Secreto.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "142 — O Pedido Secreto",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-142-o-pedido-secreto.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-142-o-pedido-secreto"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 142 — O Pedido Secreto
 

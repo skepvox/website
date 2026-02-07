@@ -14,7 +14,7 @@ chapter-title: "141 — A Solução"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-141-a-solucao.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-141-a-solucao"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 141 — A Solução."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 141 — A Solução."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-141-a-solucao.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-141-a-solucao"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "141 — A Solução",
         "identifier": "00-15-141",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-141-a-solucao.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-141-a-solucao.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-141-a-solucao",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-141-a-solucao",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 141 — A Solução.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "141 — A Solução",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-141-a-solucao.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-141-a-solucao"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 141 — A Solução
 

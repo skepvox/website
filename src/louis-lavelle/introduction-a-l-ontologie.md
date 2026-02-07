@@ -5,7 +5,7 @@ outline: 2
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie.html"
+      href: "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie"
   - - meta
     - name: description
       content: "Texte intégral en français de Introduction à l'ontologie de Louis Lavelle."
@@ -17,7 +17,7 @@ head:
       content: "Texte intégral en français de Introduction à l'ontologie de Louis Lavelle."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie.html"
+      content: "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie"
   - - meta
     - property: og:type
       content: book
@@ -54,80 +54,80 @@ head:
           "name": "Louis Lavelle"
         },
         "inLanguage": "fr",
-        "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie.html",
+        "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie",
         "description": "Texte intégral en français de Introduction à l'ontologie de Louis Lavelle.",
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
         "hasPart": [
           {
             "@type": "Chapter",
             "name": "Avertissement",
-            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-00-000-avertissement.html",
+            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-00-000-avertissement",
             "identifier": "00-00-000"
           },
           {
             "@type": "Chapter",
             "name": "Distinction",
-            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-01-001-distinction.html",
+            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-01-001-distinction",
             "identifier": "00-01-001"
           },
           {
             "@type": "Chapter",
             "name": "Être",
-            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-01-002-etre.html",
+            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-01-002-etre",
             "identifier": "00-01-002"
           },
           {
             "@type": "Chapter",
             "name": "Existence",
-            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-01-003-existence.html",
+            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-01-003-existence",
             "identifier": "00-01-003"
           },
           {
             "@type": "Chapter",
             "name": "Réalité",
-            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-01-004-realite.html",
+            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-01-004-realite",
             "identifier": "00-01-004"
           },
           {
             "@type": "Chapter",
             "name": "Connexion",
-            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-01-005-connexion.html",
+            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-01-005-connexion",
             "identifier": "00-01-005"
           },
           {
             "@type": "Chapter",
             "name": "Distinction",
-            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-02-001-distinction.html",
+            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-02-001-distinction",
             "identifier": "00-02-001"
           },
           {
             "@type": "Chapter",
             "name": "Bien",
-            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-02-002-bien.html",
+            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-02-002-bien",
             "identifier": "00-02-002"
           },
           {
             "@type": "Chapter",
             "name": "Valeur",
-            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-02-003-valeur.html",
+            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-02-003-valeur",
             "identifier": "00-02-003"
           },
           {
             "@type": "Chapter",
             "name": "Idéal",
-            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-02-004-ideal.html",
+            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-02-004-ideal",
             "identifier": "00-02-004"
           },
           {
             "@type": "Chapter",
             "name": "Connexion",
-            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-02-005-connexion.html",
+            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-02-005-connexion",
             "identifier": "00-02-005"
           },
           {
             "@type": "Chapter",
             "name": "Conclusion",
-            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/99-99-999-conclusion.html",
+            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/99-99-999-conclusion",
             "identifier": "99-99-999"
           }
         ]
@@ -145,73 +145,73 @@ head:
             "@type": "ListItem",
             "position": 1,
             "name": "Avertissement",
-            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-00-000-avertissement.html"
+            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-00-000-avertissement"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Distinction",
-            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-01-001-distinction.html"
+            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-01-001-distinction"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Être",
-            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-01-002-etre.html"
+            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-01-002-etre"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Existence",
-            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-01-003-existence.html"
+            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-01-003-existence"
           },
           {
             "@type": "ListItem",
             "position": 5,
             "name": "Réalité",
-            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-01-004-realite.html"
+            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-01-004-realite"
           },
           {
             "@type": "ListItem",
             "position": 6,
             "name": "Connexion",
-            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-01-005-connexion.html"
+            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-01-005-connexion"
           },
           {
             "@type": "ListItem",
             "position": 7,
             "name": "Distinction",
-            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-02-001-distinction.html"
+            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-02-001-distinction"
           },
           {
             "@type": "ListItem",
             "position": 8,
             "name": "Bien",
-            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-02-002-bien.html"
+            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-02-002-bien"
           },
           {
             "@type": "ListItem",
             "position": 9,
             "name": "Valeur",
-            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-02-003-valeur.html"
+            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-02-003-valeur"
           },
           {
             "@type": "ListItem",
             "position": 10,
             "name": "Idéal",
-            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-02-004-ideal.html"
+            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-02-004-ideal"
           },
           {
             "@type": "ListItem",
             "position": 11,
             "name": "Connexion",
-            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-02-005-connexion.html"
+            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/00-02-005-connexion"
           },
           {
             "@type": "ListItem",
             "position": 12,
             "name": "Conclusion",
-            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/99-99-999-conclusion.html"
+            "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie/99-99-999-conclusion"
           }
         ]
       }
@@ -232,7 +232,7 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Introduction à l'ontologie",
-            "item": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie.html"
+            "item": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie"
           }
         ]
       }
@@ -240,24 +240,24 @@ head:
 
 # Introduction à l'ontologie
 
-## Table des matières
+**Table des matières**
 
 - Avant-propos
-  - [Avertissement](/louis-lavelle/introduction-a-l-ontologie/00-00-000-avertissement.html)
+  - [Avertissement](/louis-lavelle/introduction-a-l-ontologie/00-00-000-avertissement)
 - Première partie
-  - [Distinction](/louis-lavelle/introduction-a-l-ontologie/00-01-001-distinction.html)
-  - [Être](/louis-lavelle/introduction-a-l-ontologie/00-01-002-etre.html)
-  - [Existence](/louis-lavelle/introduction-a-l-ontologie/00-01-003-existence.html)
-  - [Réalité](/louis-lavelle/introduction-a-l-ontologie/00-01-004-realite.html)
-  - [Connexion](/louis-lavelle/introduction-a-l-ontologie/00-01-005-connexion.html)
+  - [Distinction](/louis-lavelle/introduction-a-l-ontologie/00-01-001-distinction)
+  - [Être](/louis-lavelle/introduction-a-l-ontologie/00-01-002-etre)
+  - [Existence](/louis-lavelle/introduction-a-l-ontologie/00-01-003-existence)
+  - [Réalité](/louis-lavelle/introduction-a-l-ontologie/00-01-004-realite)
+  - [Connexion](/louis-lavelle/introduction-a-l-ontologie/00-01-005-connexion)
 - Deuxième partie
-  - [Distinction](/louis-lavelle/introduction-a-l-ontologie/00-02-001-distinction.html)
-  - [Bien](/louis-lavelle/introduction-a-l-ontologie/00-02-002-bien.html)
-  - [Valeur](/louis-lavelle/introduction-a-l-ontologie/00-02-003-valeur.html)
-  - [Idéal](/louis-lavelle/introduction-a-l-ontologie/00-02-004-ideal.html)
-  - [Connexion](/louis-lavelle/introduction-a-l-ontologie/00-02-005-connexion.html)
+  - [Distinction](/louis-lavelle/introduction-a-l-ontologie/00-02-001-distinction)
+  - [Bien](/louis-lavelle/introduction-a-l-ontologie/00-02-002-bien)
+  - [Valeur](/louis-lavelle/introduction-a-l-ontologie/00-02-003-valeur)
+  - [Idéal](/louis-lavelle/introduction-a-l-ontologie/00-02-004-ideal)
+  - [Connexion](/louis-lavelle/introduction-a-l-ontologie/00-02-005-connexion)
 - Conclusion
-  - [Conclusion](/louis-lavelle/introduction-a-l-ontologie/99-99-999-conclusion.html)
+  - [Conclusion](/louis-lavelle/introduction-a-l-ontologie/99-99-999-conclusion)
 
 ## Avertissement
 

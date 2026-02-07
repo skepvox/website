@@ -14,7 +14,7 @@ chapter-title: "038 — Que Susto, Meu Deus!"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-038-que-susto-meu-deus.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-038-que-susto-meu-deus"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 038 — Que Susto, Meu Deus!."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 038 — Que Susto, Meu Deus!."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-038-que-susto-meu-deus.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-038-que-susto-meu-deus"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "038 — Que Susto, Meu Deus!",
         "identifier": "00-04-038",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-038-que-susto-meu-deus.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-038-que-susto-meu-deus.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-038-que-susto-meu-deus",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-038-que-susto-meu-deus",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 038 — Que Susto, Meu Deus!.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "038 — Que Susto, Meu Deus!",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-038-que-susto-meu-deus.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-038-que-susto-meu-deus"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 038 — Que Susto, Meu Deus!
 

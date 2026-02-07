@@ -138,7 +138,7 @@ head:
       }
 ---
 
-[Retour au livre](/louis-lavelle/du-temps-et-de-l-eternite.html)
+[Retour au livre](/louis-lavelle/du-temps-et-de-l-eternite)
 
 ## Livre II. L'idéalité du temps
 

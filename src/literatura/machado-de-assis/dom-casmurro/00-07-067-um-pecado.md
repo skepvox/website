@@ -14,7 +14,7 @@ chapter-title: "067 — Um Pecado"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-067-um-pecado.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-067-um-pecado"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 067 — Um Pecado."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 067 — Um Pecado."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-067-um-pecado.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-067-um-pecado"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "067 — Um Pecado",
         "identifier": "00-07-067",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-067-um-pecado.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-067-um-pecado.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-067-um-pecado",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-067-um-pecado",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 067 — Um Pecado.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "067 — Um Pecado",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-067-um-pecado.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-067-um-pecado"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 067 — Um Pecado
 

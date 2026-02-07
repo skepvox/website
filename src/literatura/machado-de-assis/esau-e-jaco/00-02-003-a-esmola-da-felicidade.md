@@ -14,7 +14,7 @@ chapter-title: "003 — A Esmola da Felicidade"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-003-a-esmola-da-felicidade.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-003-a-esmola-da-felicidade"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 003 — A Esmola da Felicidade."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 003 — A Esmola da Felicidade."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-003-a-esmola-da-felicidade.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-003-a-esmola-da-felicidade"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "003 — A Esmola da Felicidade",
         "identifier": "00-02-003",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-003-a-esmola-da-felicidade.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-003-a-esmola-da-felicidade.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-003-a-esmola-da-felicidade",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-003-a-esmola-da-felicidade",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 003 — A Esmola da Felicidade.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "003 — A Esmola da Felicidade",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-003-a-esmola-da-felicidade.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-003-a-esmola-da-felicidade"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 003 — A Esmola da Felicidade
 

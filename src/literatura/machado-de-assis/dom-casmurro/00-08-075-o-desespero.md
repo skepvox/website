@@ -14,7 +14,7 @@ chapter-title: "075 — O Desespero"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-075-o-desespero.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-075-o-desespero"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 075 — O Desespero."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 075 — O Desespero."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-075-o-desespero.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-075-o-desespero"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "075 — O Desespero",
         "identifier": "00-08-075",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-075-o-desespero.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-075-o-desespero.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-075-o-desespero",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-075-o-desespero",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 075 — O Desespero.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "075 — O Desespero",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-075-o-desespero.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-075-o-desespero"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 075 — O Desespero
 

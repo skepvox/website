@@ -14,7 +14,7 @@ chapter-title: "119 — Não Faça Isso, Querida!"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-119-nao-faca-isso-querida.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-119-nao-faca-isso-querida"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 119 — Não Faça Isso, Querida!."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 119 — Não Faça Isso, Querida!."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-119-nao-faca-isso-querida.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-119-nao-faca-isso-querida"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "119 — Não Faça Isso, Querida!",
         "identifier": "00-12-119",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-119-nao-faca-isso-querida.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-119-nao-faca-isso-querida.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-119-nao-faca-isso-querida",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-119-nao-faca-isso-querida",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 119 — Não Faça Isso, Querida!.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "119 — Não Faça Isso, Querida!",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-119-nao-faca-isso-querida.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-119-nao-faca-isso-querida"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 119 — Não Faça Isso, Querida!
 

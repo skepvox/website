@@ -14,7 +14,7 @@ chapter-title: "115 — Dúvidas sobre Dúvidas"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-115-duvidas-sobre-duvidas.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-115-duvidas-sobre-duvidas"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 115 — Dúvidas sobre Dúvidas."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 115 — Dúvidas sobre Dúvidas."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-115-duvidas-sobre-duvidas.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-115-duvidas-sobre-duvidas"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "115 — Dúvidas sobre Dúvidas",
         "identifier": "00-12-115",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-115-duvidas-sobre-duvidas.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-115-duvidas-sobre-duvidas.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-115-duvidas-sobre-duvidas",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-115-duvidas-sobre-duvidas",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 115 — Dúvidas sobre Dúvidas.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "115 — Dúvidas sobre Dúvidas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-115-duvidas-sobre-duvidas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-115-duvidas-sobre-duvidas"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 115 — Dúvidas sobre Dúvidas
 

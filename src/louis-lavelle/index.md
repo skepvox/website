@@ -11,7 +11,7 @@ head:
       content: "Biografia de Louis Lavelle (1883–1951), filósofo francês do spiritualisme français e da philosophie réflexive. Biographie du philosophe français, vie et œuvres."
   - - meta
     - name: keywords
-      content: "Louis Lavelle, biografia, biographie, filósofo francês, philosophe français, spiritualisme français, philosophie réflexive, La Dialectique de l'éternel présent, La Conscience de soi, La Présence totale, Introduction à l'ontologie, De l'être, De l'acte, Du Temps et de l'Éternité, De l'Âme humaine, L'Erreur de Narcisse, Quatre saints"
+      content: "Louis Lavelle, biografia, biographie, filósofo francês, philosophe français, spiritualisme français, philosophie réflexive, La Dialectique de l'éternel présent, La conscience de soi, La Présence totale, Introduction à l'ontologie, De l'être, De l'acte, Du temps et de l'éternité, De l'âme humaine, L'Erreur de Narcisse, Quatre saints"
   - - meta
     - property: og:title
       content: "Biografia — Louis Lavelle"
@@ -259,29 +259,33 @@ head:
       }
 ---
 
-# Louis Lavelle: A Metafísica da Presença e a Dialética do Ato
+# Louis Lavelle
+
+_Metafísica da presença, participação e dialética do ato._
 
 <img
   src="/images/louis-lavelle/louis-lavelle-profile-picture.png"
-  alt="Louis Lavelle"
+  alt="Retrato de Louis Lavelle"
   class="lavelle-portrait"
 />
 
-## Obras Originais
+## Obras no Skepvox
 
-- [_De l'Être_](/louis-lavelle/de-l-etre.html) (1928)
-- [_La Conscience de soi_](/louis-lavelle/la-conscience-de-soi.html) (1933)
-- [_La Présence totale_](/louis-lavelle/la-presence-totale.html) (1934)
-- [_De l'Acte_](/louis-lavelle/de-l-acte.html) (1937)
-- [_L'Erreur de Narcisse_](/louis-lavelle/l-erreur-de-narcisse.html) (1939)
-- [_Du Temps et de l'Éternité_](/louis-lavelle/du-temps-et-de-l-eternite.html) (1945)
-- [_Introduction à l'ontologie_](/louis-lavelle/introduction-a-l-ontologie.html) (1947)
-- [_De l'Âme humaine_](/louis-lavelle/de-l-ame-humaine.html) (1951)
-- [_Quatre saints_](/louis-lavelle/quatre-saints.html) (1951)
+Textos integrais em francês:
 
-## A) Resolução de Identidade e Desambiguação
+- [_De l'être_](/louis-lavelle/de-l-etre) (1928)
+- [_La conscience de soi_](/louis-lavelle/la-conscience-de-soi) (1933)
+- [_La Présence totale_](/louis-lavelle/la-presence-totale) (1934)
+- [_De l'acte_](/louis-lavelle/de-l-acte) (1937)
+- [_L'Erreur de Narcisse_](/louis-lavelle/l-erreur-de-narcisse) (1939)
+- [_Du temps et de l'éternité_](/louis-lavelle/du-temps-et-de-l-eternite) (1945)
+- [_Introduction à l'ontologie_](/louis-lavelle/introduction-a-l-ontologie) (1947)
+- [_De l'âme humaine_](/louis-lavelle/de-l-ame-humaine) (1951)
+- [_Quatre saints_](/louis-lavelle/quatre-saints) (1951)
 
-Louis Lavelle (1883–1951), um preeminente filósofo francês do século XX. Ele é historicamente classificado dentro das tradições do Espiritualismo Francês (spiritualisme français) e da Filosofia Reflexiva (philosophie réflexive). Lavelle é mais conhecido por sua magnum opus, a obra em vários volumes _La Dialectique de l'éternel présent_ (A Dialética do Eterno Presente), e por sua rigorosa articulação metafísica do conceito de "participação", que postula que o eu finito atualiza sua existência participando do Ato infinito de Ser.
+## Identidade e desambiguação
+
+Louis Lavelle (1883–1951) foi um preeminente filósofo francês do século XX. É historicamente associado ao _spiritualisme français_ e à _philosophie réflexive_. Lavelle é mais conhecido por sua magnum opus, a obra em vários volumes _La Dialectique de l'éternel présent_ (A Dialética do Eterno Presente), e por sua articulação metafísica do conceito de "participação", segundo a qual o eu finito atualiza sua existência ao participar do Ato infinito de Ser.
 
 ### Distinções e Homônimos
 
@@ -308,12 +312,11 @@ A pesquisa sobre Louis Lavelle requer uma desambiguação cuidadosa de indivídu
 
 - BnF (Bibliothèque nationale de France): FRBNF11911415
 - IdRef (SUDOC): 026970428
-- VIAF: Arquivo de Autoridade Internacional Virtual
 - ISNI: 0000 0001 2125 8084
 
-## B) Visão Geral Executiva
+## Visão geral
 
-Louis Lavelle destaca-se como um dos metafísicos mais rigorosos, arquitetônicos e espiritualmente profundos do século XX. Embora seu renome tenha sido um tanto ofuscado na era pós-guerra pela ascensão meteórica do existencialismo ateu — representado principalmente por Jean-Paul Sartre e Albert Camus — e mais tarde pela virada estruturalista, a obra de Lavelle constitui o apogeu da _philosophie de l'esprit_ (filosofia do espírito). Diferente dos existencialistas que frequentemente postulavam a existência como uma separação do ser, uma "paixão inútil" ou um absurdo, Lavelle articulou um "existencialismo espiritual". Em seu sistema, a existência humana é definida não pela alienação, mas por sua participação no Absoluto.
+Louis Lavelle destaca-se como um dos metafísicos mais rigorosos, arquitetônicos e espiritualmente profundos do século XX. Embora seu renome tenha sido um tanto ofuscado na era pós-guerra pela ascensão meteórica do existencialismo ateu — representado principalmente por Jean-Paul Sartre e Albert Camus — e mais tarde pela virada estruturalista, a obra de Lavelle constitui o apogeu da _philosophie de l'esprit_ (filosofia do espírito). Diferentemente dos existencialistas que frequentemente postulavam a existência como uma separação do ser, uma "paixão inútil" ou um absurdo, Lavelle articulou um "existencialismo espiritual". Em seu sistema, a existência humana é definida não pela alienação, mas por sua participação no Absoluto.
 
 Seu projeto filosófico foi uma tentativa ambiciosa e vitalícia de reconciliar o imediatismo da experiência subjetiva com a universalidade do Ser. Ele rejeitou firmemente o dualismo kantiano que separava o fenômeno do númeno. Em vez disso, Lavelle argumentou que o Ser é unívoco e acessível através do próprio ato de consciência. Para Lavelle, o axioma fundamental da existência é que **ser é agir**, e **agir é participar do Ato puro que cria o eu**.
 
@@ -321,7 +324,7 @@ Seu projeto filosófico foi uma tentativa ambiciosa e vitalícia de reconciliar 
 
 #### A Dialética do Eterno Presente
 
-O sistema central de Lavelle foi planejado como uma arquitetura metafísica de cinco volumes. Quatro volumes foram concluídos durante sua vida e logo após: [De l'Être](/louis-lavelle/de-l-etre.html) (Do Ser), [De l'Acte](/louis-lavelle/de-l-acte.html) (Do Ato), [Du Temps et de l'Eternité](/louis-lavelle/du-temps-et-de-l-eternite.html) (Do Tempo e da Eternidade) e [De l'Âme humaine](/louis-lavelle/de-l-ame-humaine.html) (Da Alma Humana). Este sistema explora a estrutura da realidade através dessas categorias, argumentando que o tempo não é uma barreira para a eternidade, nem uma degradação do ser, mas o próprio meio ou "intervalo" através do qual o espírito finito constrói sua essência eterna.
+O sistema central de Lavelle foi planejado como uma arquitetura metafísica de cinco volumes. Quatro volumes foram concluídos durante sua vida e logo após: [De l'être](/louis-lavelle/de-l-etre) (Do Ser), [De l'acte](/louis-lavelle/de-l-acte) (Do Ato), [Du temps et de l'éternité](/louis-lavelle/du-temps-et-de-l-eternite) (Do Tempo e da Eternidade) e [De l'âme humaine](/louis-lavelle/de-l-ame-humaine) (Da Alma Humana). Este sistema explora a estrutura da realidade através dessas categorias, argumentando que o tempo não é uma barreira para a eternidade, nem uma degradação do ser, mas o próprio meio ou "intervalo" através do qual o espírito finito constrói sua essência eterna.
 
 #### O Conceito de Participação
 
@@ -339,7 +342,7 @@ A filosofia de Lavelle é inextricavelmente ética. Ele postulou que o "moi" (o 
 
 O legado de Lavelle é o de um "filósofo para filósofos". Sua prosa é elegante, porém densa, e seus sistemas são introspectivos, exigindo uma "conversão de atenção" semelhante à exigida por Plotino ou Bergson. Após sua morte em 1951, sua obra caiu em relativa obscuridade, deslocada pelo engajamento político do existencialismo sartreano. No entanto, um círculo dedicado de estudiosos, notadamente Jean École e Jean-Louis Vieillard-Baron, juntamente com a Association Louis Lavelle, garantiu a preservação de seus arquivos e a publicação contínua de suas obras póstumas, facilitando uma reavaliação de sua contribuição para a metafísica no século XXI.
 
-## C) Linha do Tempo da Vida (Cronologia Absoluta)
+## Linha do tempo (1883–1951)
 
 Esta linha do tempo reconstrói a vida de Louis Lavelle com datação de alta confiança baseada em biografias acadêmicas primárias, registros de arquivo e edições críticas de sua correspondência.
 
@@ -416,7 +419,7 @@ O período entreguerras viu Lavelle ascender ao topo do estabelecimento acadêmi
 
 - _Ensino:_ Leciona na Première Supérieure (Khâgne), a classe preparatória para a École Normale Supérieure. Nesse papel, mentora uma geração de intelectuais franceses.
 
-**1928: Publicação Principal.** Publicação de [_De l'Être_](/louis-lavelle/de-l-etre.html) (Do Ser), o primeiro volume de sua sistemática _La Dialectique de l'éternel présent_. Esta obra estabelece sua reputação como um metafísico de primeira ordem.
+**1928: Publicação Principal.** Publicação de [_De l'être_](/louis-lavelle/de-l-etre) (Do Ser), o primeiro volume de sua sistemática _La Dialectique de l'éternel présent_. Esta obra estabelece sua reputação como um metafísico de primeira ordem.
 
 **1930–1942: Jornalismo no Le Temps.** Lavelle assume o papel de cronista de filosofia para o grande jornal _Le Temps_.
 
@@ -427,9 +430,9 @@ O período entreguerras viu Lavelle ascender ao topo do estabelecimento acadêmi
 **1934: Fundação de Coleção.** Juntamente com seu amigo e colega espiritualista René Le Senne, Lavelle co-funda a coleção "Philosophie de l'esprit" (Filosofia do Espírito) na editora Aubier-Montaigne.
 
 - _Significado:_ Esta coleção torna-se o principal veículo para o pensamento espiritualista francês, publicando obras que contrariam a maré crescente do materialismo e da fenomenologia.
-- _Publicação:_ [_La Présence totale_](/louis-lavelle/la-presence-totale.html) (A Presença Total).
+- _Publicação:_ [_La Présence totale_](/louis-lavelle/la-presence-totale) (A Presença Total).
 
-**1937: Publicação.** [De l'Acte](/louis-lavelle/de-l-acte.html) (Do Ato), o segundo volume de sua magnum opus.
+**1937: Publicação.** [De l'acte](/louis-lavelle/de-l-acte) (Do Ato), o segundo volume de sua magnum opus.
 
 ### IV. O Collège de France e os Anos de Guerra (1940–1945)
 
@@ -452,7 +455,7 @@ A carreira de Lavelle atingiu o pico durante o período complexo e moralmente ca
 
 Os anos pós-guerra foram uma corrida contra o declínio da saúde para completar seu sistema. Lavelle encontrou-se cada vez mais isolado à medida que a moda intelectual mudava para Sartre e o marxismo.
 
-**1945: Publicação.** [Du Temps et de l'Éternité](/louis-lavelle/du-temps-et-de-l-eternite.html) (Do Tempo e da Eternidade), Volume 3 da Dialética.
+**1945: Publicação.** [Du temps et de l'éternité](/louis-lavelle/du-temps-et-de-l-eternite) (Do Tempo e da Eternidade), Volume 3 da Dialética.
 
 **1947: Honrarias Acadêmicas.** É eleito para a Académie des Sciences Morales et Politiques, solidificando seu status como um pilar do estabelecimento francês.
 
@@ -461,7 +464,7 @@ Os anos pós-guerra foram uma corrida contra o declínio da saúde para completa
 - _Viagens:_ Apesar da saúde debilitada, ele palestra extensivamente na Bélgica, Países Baixos, Suíça, Itália e Alemanha. Ele se esforça para reafirmar o espiritualismo como uma alternativa viável ao existencialismo ateu que varria a Europa.
 - _Saúde:_ Sua própria saúde declina em paralelo com a de seu filho Jean-François.
 
-**1951: Um Ano de Culminação.** Em uma explosão final de produtividade, vê a publicação de três grandes obras: [De l'âme humaine](/louis-lavelle/de-l-ame-humaine.html) (Volume 4 da Dialética), _Traité des valeurs_ (Volume 1) e [_Quatre saints_](/louis-lavelle/quatre-saints.html).
+**1951: Um Ano de Culminação.** Em uma explosão final de produtividade, vê a publicação de três grandes obras: [De l'âme humaine](/louis-lavelle/de-l-ame-humaine) (Volume 4 da Dialética), _Traité des valeurs_ (Volume 1) e [_Quatre saints_](/louis-lavelle/quatre-saints).
 
 **1951, 1º de setembro: Morte.** Louis Lavelle morre em sua casa em Parranquet (Lot-et-Garonne) aos 68 anos.
 
@@ -469,7 +472,7 @@ Os anos pós-guerra foram uma corrida contra o declínio da saúde para completa
 
 **1952, Início: Morte do Filho.** A tragédia atinge a família novamente quando Jean-François Lavelle morre aos 37 anos, apenas cinco meses após seu pai.
 
-## D) Obras Completas e Produção
+## Obras e produção
 
 A bibliografia de Louis Lavelle é caracterizada por uma estrutura dupla: uma arquitetura sistemática central (A Dialética) cercada por uma constelação de ensaios morais acessíveis, crônicas acadêmicas e textos pedagógicos.
 
@@ -477,29 +480,29 @@ A bibliografia de Louis Lavelle é caracterizada por uma estrutura dupla: uma ar
 
 Esta série de vários volumes constitui a magnum opus de Lavelle. Foi concebida como uma exploração sistemática da metafísica, movendo-se do fundamento mais abstrato para a realização concreta da sabedoria.
 
-#### Vol 1: [De l'Être](/louis-lavelle/de-l-etre.html) (Do Ser)
+#### Vol 1: [De l'être](/louis-lavelle/de-l-etre) (Do Ser)
 
 - **Publicação:** Paris: Félix Alcan, 1928. Edições posteriores por Aubier.
 - **Conteúdo:** Este volume estabelece a fundação da ontologia de Lavelle: a univocidade do Ser. Argumenta que o Ser não é um gênero abstrato, mas um Ato dinâmico no qual todos os seres particulares participam. Introduz a tese central de que "Ser é Ato".
 
-#### Vol 2: [De l'Acte](/louis-lavelle/de-l-acte.html) (Do Ato)
+#### Vol 2: [De l'acte](/louis-lavelle/de-l-acte) (Do Ato)
 
 - **Publicação:** Paris: Aubier, 1937.
 - **Conteúdo:** Esta obra explora a natureza do "Ato" como a força geradora da realidade. Distingue entre o "Ato Puro" (Deus) e o "ato participado" (o eu). Analisa rigorosamente a liberdade humana não como autonomia do Ser, mas como o poder de consentir ao Ser.
 
-#### Vol 3: [Du Temps et de l'Éternité](/louis-lavelle/du-temps-et-de-l-eternite.html) (Do Tempo e da Eternidade)
+#### Vol 3: [Du temps et de l'éternité](/louis-lavelle/du-temps-et-de-l-eternite) (Do Tempo e da Eternidade)
 
 - **Publicação:** Paris: Aubier, 1945.
 - **Conteúdo:** Lavelle desafia as visões bergsonianas e heideggerianas do tempo. Argumenta que o tempo não é uma "queda" ou uma degradação da eternidade, mas o "intervalo" ou "mediação" dada ao espírito finito para atualizar seu potencial. O tempo é a oportunidade para a participação.
 
-#### Vol 4: [De l'Âme humaine](/louis-lavelle/de-l-ame-humaine.html) (Da Alma Humana)
+#### Vol 4: [De l'âme humaine](/louis-lavelle/de-l-ame-humaine) (Da Alma Humana)
 
 - **Publicação:** Paris: Aubier, 1951.
 - **Conteúdo:** Publicado no ano de sua morte, este volume foca na individuação. Pergunta como o espírito universal se torna uma alma particular. Examina os mecanismos do sentimento, memória e vida espiritual.
 
 #### Vol 5: De la Sagesse (Da Sabedoria) - Inacabado
 
-- **Status:** Este volume final destinava-se a sintetizar o sistema em um modo de vida prático. Nunca foi concluído. Postumamente, fragmentos e notas foram coletados, e temas destinados a este volume aparecem em obras menores como [_Quatre saints_](/louis-lavelle/quatre-saints.html) e _Traité des valeurs_.
+- **Status:** Este volume final destinava-se a sintetizar o sistema em um modo de vida prático. Nunca foi concluído. Postumamente, fragmentos e notas foram coletados, e temas destinados a este volume aparecem em obras menores como [_Quatre saints_](/louis-lavelle/quatre-saints) e _Traité des valeurs_.
 
 ### 2. Principais Publicações em Vida (Não-Dialética)
 
@@ -511,11 +514,11 @@ Esta série de vários volumes constitui a magnum opus de Lavelle. Foi concebida
 
 - **1921:** _La Perception visuelle de la profondeur_ (A Percepção Visual da Profundidade). Estrasburgo. (Tese Complementar).
 
-- **1933:** _La Conscience de soi_ (A Consciência de Si). Paris: Grasset.
+- **1933:** _La conscience de soi_ (A Consciência de Si). Paris: Grasset.
 
   - _Significado:_ Um de seus livros mais lidos, oferecendo um ponto de entrada mais acessível para sua filosofia da interioridade.
 
-- **1934:** [_La Présence totale_](/louis-lavelle/la-presence-totale.html) (A Presença Total). Paris: Aubier.
+- **1934:** [_La Présence totale_](/louis-lavelle/la-presence-totale) (A Presença Total). Paris: Aubier.
 
   - _Significado:_ Um manifesto conciso de sua metafísica, argumentando que a totalidade do Ser está presente para o eu em cada ato de consciência.
 
@@ -527,7 +530,7 @@ Esta série de vários volumes constitui a magnum opus de Lavelle. Foi concebida
 
 - **1942:** _La Parole et l'écriture_ (A Fala e a Escrita). Paris: L'Artisan du livre.
 
-- **1947:** [_Introduction à l'ontologie_](/louis-lavelle/introduction-a-l-ontologie.html) (Introdução à Ontologia). Paris: PUF.
+- **1947:** [_Introduction à l'ontologie_](/louis-lavelle/introduction-a-l-ontologie) (Introdução à Ontologia). Paris: PUF.
 
   - _Significado:_ Um texto pedagógico destilando sua ontologia para estudantes.
 
@@ -535,11 +538,11 @@ Esta série de vários volumes constitui a magnum opus de Lavelle. Foi concebida
 
 #### Obras Morais e Hagiográficas
 
-- **1939:** [_L'Erreur de Narcisse_](/louis-lavelle/l-erreur-de-narcisse.html) (O Erro de Narciso). Paris: Grasset.
+- **1939:** [_L'Erreur de Narcisse_](/louis-lavelle/l-erreur-de-narcisse) (O Erro de Narciso). Paris: Grasset.
 
   - _Tema:_ Uma análise moral profunda da vaidade, isolamento e recusa da participação. Narciso é o símbolo da alma que prefere seu próprio reflexo à realidade do Ser.
 
-- **1951:** [_Quatre saints_](/louis-lavelle/quatre-saints.html) (Quatro Santos). Paris: Albin Michel.
+- **1951:** [_Quatre saints_](/louis-lavelle/quatre-saints) (Quatro Santos). Paris: Albin Michel.
   - _Assunto:_ Perfis de São Francisco de Assis, São João da Cruz, Santa Teresa de Ávila e São Francisco de Sales, ilustrando exemplos concretos da "presença total".
 
 ### 3. Obras Póstumas e Coleções
@@ -556,7 +559,7 @@ Após sua morte, um esforço significativo foi empreendido por seus alunos e pel
   - Vol 2: _Psychologie et spiritualité_.
   - Vol 3: _Science, esthétique, métaphysique_.
 
-## E) Mapa do Desenvolvimento Intelectual
+## Desenvolvimento intelectual
 
 A filosofia de Lavelle não é um monólito estático, mas uma trajetória em desenvolvimento que responde às crises do século XX. Move-se de uma crítica epistemológica da sensação para uma metafísica completa do Ato.
 
@@ -586,7 +589,7 @@ A filosofia de Lavelle não é um monólito estático, mas uma trajetória em de
 
 **Resposta a Sartre:** A paisagem intelectual dos anos 1940 foi dominada por _O Ser e o Nada_ de Sartre. Enquanto Sartre argumentava que "a existência precede a essência" e que o homem é uma "paixão inútil", Lavelle argumentava que a existência é a conquista da essência. Recebemos o poder de ser (existência) para criar quem somos (essência) em alinhamento com o Absoluto. Para Lavelle, a essência não é uma prisão, mas uma vocação.
 
-## F) Redes, Influências e Recepção
+## Influências e recepção
 
 ### 1. Influências
 
@@ -628,7 +631,7 @@ Um renascimento silencioso, mas persistente, começou no final do século XX, im
 
 - **Recepção Internacional:** Lavelle encontrou um público receptivo na Itália, particularmente através do trabalho de Michele Federico Sciacca, que viu afinidades entre o pensamento de Lavelle e sua própria "filosofia da integridade".
 
-## G) Controvérsias e Alegações Disputadas
+## Controvérsias e debates
 
 ### 1. O Papel na Administração de Vichy (1940)
 
@@ -656,7 +659,7 @@ Um renascimento silencioso, mas persistente, começou no final do século XX, im
 
 **Avaliação:** Esta é uma questão de nuance. Lavelle era pessoalmente católico e sua filosofia tem profundas afinidades com a tradição cristã (a participação no Ser divino, a liberdade como consentimento à graça). No entanto, ele insistia que sua filosofia era estritamente racional e não dependia da revelação. Ele buscava uma metafísica que fosse acessível a qualquer mente reflexiva, independentemente da fé religiosa. Assim, ele é melhor classificado como um "filósofo espiritualista" cujo pensamento é compatível com, mas não dependente do, cristianismo.
 
-## H) Conceitos Fundamentais
+## Conceitos fundamentais
 
 ### 1. Ser (L'Être)
 
@@ -682,7 +685,7 @@ Narciso representa a tentação fundamental da consciência: preferir sua própr
 
 Para Lavelle, o tempo não é uma degradação da eternidade, nem uma prisão. É o "intervalo" dado ao espírito finito para atualizar seu potencial. O tempo é a oportunidade da liberdade — o espaço onde podemos escolher nossa essência. A eternidade não está além do tempo; ela se realiza através do tempo, em cada ato de participação.
 
-## I) Relevância Contemporânea
+## Relevância contemporânea
 
 A filosofia de Lavelle oferece recursos valiosos para várias questões contemporâneas:
 
@@ -696,15 +699,15 @@ A filosofia de Lavelle oferece recursos valiosos para várias questões contempo
 
 5. **Fenomenologia da Interioridade:** Seu trabalho sobre a consciência de si e a vida interior permanece relevante para a psicologia e a fenomenologia contemporâneas.
 
-## J) Bibliografia Selecionada para Estudo
+## Bibliografia para estudo
 
 ### Obras Primárias (em ordem de acessibilidade)
 
-1. [_La Conscience de soi_](/louis-lavelle/la-conscience-de-soi.html) (1933) — Melhor ponto de entrada
-2. [_La Présence totale_](/louis-lavelle/la-presence-totale.html) (1934) — Manifesto conciso
-3. [_L'Erreur de Narcisse_](/louis-lavelle/l-erreur-de-narcisse.html) (1939) — Obra moral acessível
-4. [_Introduction à l'ontologie_](/louis-lavelle/introduction-a-l-ontologie.html) (1947) — Texto pedagógico
-5. [_De l'Être_](/louis-lavelle/de-l-etre.html) (1928) — Primeiro volume da sistemática
+1. [_La conscience de soi_](/louis-lavelle/la-conscience-de-soi) (1933) — Melhor ponto de entrada
+2. [_La Présence totale_](/louis-lavelle/la-presence-totale) (1934) — Manifesto conciso
+3. [_L'Erreur de Narcisse_](/louis-lavelle/l-erreur-de-narcisse) (1939) — Obra moral acessível
+4. [_Introduction à l'ontologie_](/louis-lavelle/introduction-a-l-ontologie) (1947) — Texto pedagógico
+5. [_De l'être_](/louis-lavelle/de-l-etre) (1928) — Primeiro volume da sistemática
 
 ### Estudos Secundários
 

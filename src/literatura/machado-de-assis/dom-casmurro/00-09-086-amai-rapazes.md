@@ -14,7 +14,7 @@ chapter-title: "086 — Amai, Rapazes!"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-086-amai-rapazes.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-086-amai-rapazes"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 086 — Amai, Rapazes!."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 086 — Amai, Rapazes!."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-086-amai-rapazes.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-086-amai-rapazes"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "086 — Amai, Rapazes!",
         "identifier": "00-09-086",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-086-amai-rapazes.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-086-amai-rapazes.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-086-amai-rapazes",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-086-amai-rapazes",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 086 — Amai, Rapazes!.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "086 — Amai, Rapazes!",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-086-amai-rapazes.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-086-amai-rapazes"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 086 — Amai, Rapazes!
 

@@ -14,7 +14,7 @@ chapter-title: "083 — A Grande Noite"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-083-a-grande-noite.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-083-a-grande-noite"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 083 — A Grande Noite."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 083 — A Grande Noite."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-083-a-grande-noite.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-083-a-grande-noite"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "083 — A Grande Noite",
         "identifier": "00-10-083",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-083-a-grande-noite.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-083-a-grande-noite.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-083-a-grande-noite",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-083-a-grande-noite",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 083 — A Grande Noite.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "083 — A Grande Noite",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-083-a-grande-noite.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-083-a-grande-noite"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 083 — A Grande Noite
 

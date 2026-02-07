@@ -5,7 +5,7 @@ outline: 2
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/de-l-acte.html"
+      href: "https://skepvox.com/louis-lavelle/de-l-acte"
   - - meta
     - name: description
       content: "Texte intégral en français de De l'acte de Louis Lavelle, deuxième volume de La Dialectique de l'éternel présent."
@@ -17,7 +17,7 @@ head:
       content: "Texte intégral en français de De l'acte de Louis Lavelle, deuxième volume de La Dialectique de l'éternel présent."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/de-l-acte.html"
+      content: "https://skepvox.com/louis-lavelle/de-l-acte"
   - - meta
     - property: og:type
       content: book
@@ -54,7 +54,7 @@ head:
           "name": "Louis Lavelle"
         },
         "inLanguage": "fr",
-        "url": "https://skepvox.com/louis-lavelle/de-l-acte.html",
+        "url": "https://skepvox.com/louis-lavelle/de-l-acte",
         "description": "Texte intégral en français de De l'acte de Louis Lavelle, deuxième volume de La Dialectique de l'éternel présent.",
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
         "isPartOf": {
@@ -65,163 +65,163 @@ head:
           {
             "@type": "Chapter",
             "name": "Chapitre I. L'expérience de l'acte",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-001-l-experience-de-l-acte.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-001-l-experience-de-l-acte",
             "identifier": "01-00-001"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre II. L'acte réflexif",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-002-l-acte-reflexif.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-002-l-acte-reflexif",
             "identifier": "01-00-002"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre III. L'acte dialectique",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-003-l-acte-dialectique.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-003-l-acte-dialectique",
             "identifier": "01-00-003"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre IV. L'acte d'être",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-004-l-acte-d-etre.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-004-l-acte-d-etre",
             "identifier": "01-00-004"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre V. L'unité de l'acte",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-005-l-unite-de-l-acte.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-005-l-unite-de-l-acte",
             "identifier": "01-00-005"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre VI. L'existence et l'essence",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-006-l-existence-et-l-essence.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-006-l-existence-et-l-essence",
             "identifier": "01-00-006"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre VII. L'acte cause de soi",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-007-l-acte-cause-de-soi.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-007-l-acte-cause-de-soi",
             "identifier": "01-00-007"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre VIII. Le soi pur",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-008-le-soi-pur.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-008-le-soi-pur",
             "identifier": "01-00-008"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre IX. La transcendance",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-009-la-transcendance.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-009-la-transcendance",
             "identifier": "01-00-009"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre X. L'acte pur et la participation",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-010-l-acte-pur-et-la-participation.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-010-l-acte-pur-et-la-participation",
             "identifier": "02-00-010"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre XI. La participation et la liberté",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-011-la-participation-et-la-liberte.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-011-la-participation-et-la-liberte",
             "identifier": "02-00-011"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre XII. La liberté et l'intervalle",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-012-la-liberte-et-l-intervalle.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-012-la-liberte-et-l-intervalle",
             "identifier": "02-00-012"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre XIII. L'un et le multiple",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-013-l-un-et-le-multiple.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-013-l-un-et-le-multiple",
             "identifier": "02-00-013"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre XIV. L'infini et le fini",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-014-l-infini-et-le-fini.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-014-l-infini-et-le-fini",
             "identifier": "02-00-014"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre XV. L'espace et le temps",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-015-l-espace-et-le-temps.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-015-l-espace-et-le-temps",
             "identifier": "02-00-015"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre XVI. L'origine de la puissance",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-016-l-origine-de-la-puissance.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-016-l-origine-de-la-puissance",
             "identifier": "02-00-016"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre XVII. L'apparition de la donnée",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-017-l-apparition-de-la-donnee.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-017-l-apparition-de-la-donnee",
             "identifier": "02-00-017"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre XVIII. La formation du monde",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-018-la-formation-du-monde.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-018-la-formation-du-monde",
             "identifier": "02-00-018"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre XIX. Le moi en acte",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-019-le-moi-en-acte.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-019-le-moi-en-acte",
             "identifier": "03-00-019"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre XX. Caractéristique de l'action",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-020-caracteristique-de-l-action.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-020-caracteristique-de-l-action",
             "identifier": "03-00-020"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre XXI. Agir et pâtir",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-021-agir-et-patir.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-021-agir-et-patir",
             "identifier": "03-00-021"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre XXII. Les choses, les idées et les êtres",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-022-les-choses-les-idees-et-les-etres.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-022-les-choses-les-idees-et-les-etres",
             "identifier": "03-00-022"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre XXIII. La division de la liberté",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-023-la-division-de-la-liberte.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-023-la-division-de-la-liberte",
             "identifier": "03-00-023"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre XXIV. Le circuit dialectique",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-024-le-circuit-dialectique.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-024-le-circuit-dialectique",
             "identifier": "03-00-024"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre XXV. L'acte de vouloir",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-025-l-acte-de-vouloir.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-025-l-acte-de-vouloir",
             "identifier": "03-00-025"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre XXVI. L'acte de penser",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-026-l-acte-de-penser.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-026-l-acte-de-penser",
             "identifier": "03-00-026"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre XXVII. L'acte d'aimer",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-027-l-acte-d-aimer.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-027-l-acte-d-aimer",
             "identifier": "03-00-027"
           }
         ]
@@ -239,163 +239,163 @@ head:
             "@type": "ListItem",
             "position": 1,
             "name": "Chapitre I. L'expérience de l'acte",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-001-l-experience-de-l-acte.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-001-l-experience-de-l-acte"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Chapitre II. L'acte réflexif",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-002-l-acte-reflexif.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-002-l-acte-reflexif"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre III. L'acte dialectique",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-003-l-acte-dialectique.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-003-l-acte-dialectique"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Chapitre IV. L'acte d'être",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-004-l-acte-d-etre.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-004-l-acte-d-etre"
           },
           {
             "@type": "ListItem",
             "position": 5,
             "name": "Chapitre V. L'unité de l'acte",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-005-l-unite-de-l-acte.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-005-l-unite-de-l-acte"
           },
           {
             "@type": "ListItem",
             "position": 6,
             "name": "Chapitre VI. L'existence et l'essence",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-006-l-existence-et-l-essence.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-006-l-existence-et-l-essence"
           },
           {
             "@type": "ListItem",
             "position": 7,
             "name": "Chapitre VII. L'acte cause de soi",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-007-l-acte-cause-de-soi.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-007-l-acte-cause-de-soi"
           },
           {
             "@type": "ListItem",
             "position": 8,
             "name": "Chapitre VIII. Le soi pur",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-008-le-soi-pur.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-008-le-soi-pur"
           },
           {
             "@type": "ListItem",
             "position": 9,
             "name": "Chapitre IX. La transcendance",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-009-la-transcendance.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/01-00-009-la-transcendance"
           },
           {
             "@type": "ListItem",
             "position": 10,
             "name": "Chapitre X. L'acte pur et la participation",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-010-l-acte-pur-et-la-participation.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-010-l-acte-pur-et-la-participation"
           },
           {
             "@type": "ListItem",
             "position": 11,
             "name": "Chapitre XI. La participation et la liberté",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-011-la-participation-et-la-liberte.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-011-la-participation-et-la-liberte"
           },
           {
             "@type": "ListItem",
             "position": 12,
             "name": "Chapitre XII. La liberté et l'intervalle",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-012-la-liberte-et-l-intervalle.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-012-la-liberte-et-l-intervalle"
           },
           {
             "@type": "ListItem",
             "position": 13,
             "name": "Chapitre XIII. L'un et le multiple",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-013-l-un-et-le-multiple.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-013-l-un-et-le-multiple"
           },
           {
             "@type": "ListItem",
             "position": 14,
             "name": "Chapitre XIV. L'infini et le fini",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-014-l-infini-et-le-fini.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-014-l-infini-et-le-fini"
           },
           {
             "@type": "ListItem",
             "position": 15,
             "name": "Chapitre XV. L'espace et le temps",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-015-l-espace-et-le-temps.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-015-l-espace-et-le-temps"
           },
           {
             "@type": "ListItem",
             "position": 16,
             "name": "Chapitre XVI. L'origine de la puissance",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-016-l-origine-de-la-puissance.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-016-l-origine-de-la-puissance"
           },
           {
             "@type": "ListItem",
             "position": 17,
             "name": "Chapitre XVII. L'apparition de la donnée",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-017-l-apparition-de-la-donnee.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-017-l-apparition-de-la-donnee"
           },
           {
             "@type": "ListItem",
             "position": 18,
             "name": "Chapitre XVIII. La formation du monde",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-018-la-formation-du-monde.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/02-00-018-la-formation-du-monde"
           },
           {
             "@type": "ListItem",
             "position": 19,
             "name": "Chapitre XIX. Le moi en acte",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-019-le-moi-en-acte.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-019-le-moi-en-acte"
           },
           {
             "@type": "ListItem",
             "position": 20,
             "name": "Chapitre XX. Caractéristique de l'action",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-020-caracteristique-de-l-action.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-020-caracteristique-de-l-action"
           },
           {
             "@type": "ListItem",
             "position": 21,
             "name": "Chapitre XXI. Agir et pâtir",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-021-agir-et-patir.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-021-agir-et-patir"
           },
           {
             "@type": "ListItem",
             "position": 22,
             "name": "Chapitre XXII. Les choses, les idées et les êtres",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-022-les-choses-les-idees-et-les-etres.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-022-les-choses-les-idees-et-les-etres"
           },
           {
             "@type": "ListItem",
             "position": 23,
             "name": "Chapitre XXIII. La division de la liberté",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-023-la-division-de-la-liberte.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-023-la-division-de-la-liberte"
           },
           {
             "@type": "ListItem",
             "position": 24,
             "name": "Chapitre XXIV. Le circuit dialectique",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-024-le-circuit-dialectique.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-024-le-circuit-dialectique"
           },
           {
             "@type": "ListItem",
             "position": 25,
             "name": "Chapitre XXV. L'acte de vouloir",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-025-l-acte-de-vouloir.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-025-l-acte-de-vouloir"
           },
           {
             "@type": "ListItem",
             "position": 26,
             "name": "Chapitre XXVI. L'acte de penser",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-026-l-acte-de-penser.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-026-l-acte-de-penser"
           },
           {
             "@type": "ListItem",
             "position": 27,
             "name": "Chapitre XXVII. L'acte d'aimer",
-            "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-027-l-acte-d-aimer.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-acte/03-00-027-l-acte-d-aimer"
           }
         ]
       }
@@ -416,7 +416,7 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "De l'acte",
-            "item": "https://skepvox.com/louis-lavelle/de-l-acte.html"
+            "item": "https://skepvox.com/louis-lavelle/de-l-acte"
           }
         ]
       }
@@ -424,44 +424,44 @@ head:
 
 # De l'acte
 
-## Table des matières
+**Table des matières**
 
 - Livre I. L'acte pur — Première partie : La méthode
-  - [Chapitre I. L'expérience de l'acte](/louis-lavelle/de-l-acte/01-00-001-l-experience-de-l-acte.html)
-  - [Chapitre II. L'acte réflexif](/louis-lavelle/de-l-acte/01-00-002-l-acte-reflexif.html)
-  - [Chapitre III. L'acte dialectique](/louis-lavelle/de-l-acte/01-00-003-l-acte-dialectique.html)
+  - [Chapitre I. L'expérience de l'acte](/louis-lavelle/de-l-acte/01-00-001-l-experience-de-l-acte)
+  - [Chapitre II. L'acte réflexif](/louis-lavelle/de-l-acte/01-00-002-l-acte-reflexif)
+  - [Chapitre III. L'acte dialectique](/louis-lavelle/de-l-acte/01-00-003-l-acte-dialectique)
 - Livre I. L'acte pur — Deuxième partie : Être et acte
-  - [Chapitre IV. L'acte d'être](/louis-lavelle/de-l-acte/01-00-004-l-acte-d-etre.html)
-  - [Chapitre V. L'unité de l'acte](/louis-lavelle/de-l-acte/01-00-005-l-unite-de-l-acte.html)
-  - [Chapitre VI. L'existence et l'essence](/louis-lavelle/de-l-acte/01-00-006-l-existence-et-l-essence.html)
+  - [Chapitre IV. L'acte d'être](/louis-lavelle/de-l-acte/01-00-004-l-acte-d-etre)
+  - [Chapitre V. L'unité de l'acte](/louis-lavelle/de-l-acte/01-00-005-l-unite-de-l-acte)
+  - [Chapitre VI. L'existence et l'essence](/louis-lavelle/de-l-acte/01-00-006-l-existence-et-l-essence)
 - Livre I. L'acte pur — Troisième partie : Le soi absolu
-  - [Chapitre VII. L'acte cause de soi](/louis-lavelle/de-l-acte/01-00-007-l-acte-cause-de-soi.html)
-  - [Chapitre VIII. Le soi pur](/louis-lavelle/de-l-acte/01-00-008-le-soi-pur.html)
-  - [Chapitre IX. La transcendance](/louis-lavelle/de-l-acte/01-00-009-la-transcendance.html)
+  - [Chapitre VII. L'acte cause de soi](/louis-lavelle/de-l-acte/01-00-007-l-acte-cause-de-soi)
+  - [Chapitre VIII. Le soi pur](/louis-lavelle/de-l-acte/01-00-008-le-soi-pur)
+  - [Chapitre IX. La transcendance](/louis-lavelle/de-l-acte/01-00-009-la-transcendance)
 - Livre II. L'intervalle — Première partie : La genèse de l'intervalle
-  - [Chapitre X. L'acte pur et la participation](/louis-lavelle/de-l-acte/02-00-010-l-acte-pur-et-la-participation.html)
-  - [Chapitre XI. La participation et la liberté](/louis-lavelle/de-l-acte/02-00-011-la-participation-et-la-liberte.html)
-  - [Chapitre XII. La liberté et l'intervalle](/louis-lavelle/de-l-acte/02-00-012-la-liberte-et-l-intervalle.html)
+  - [Chapitre X. L'acte pur et la participation](/louis-lavelle/de-l-acte/02-00-010-l-acte-pur-et-la-participation)
+  - [Chapitre XI. La participation et la liberté](/louis-lavelle/de-l-acte/02-00-011-la-participation-et-la-liberte)
+  - [Chapitre XII. La liberté et l'intervalle](/louis-lavelle/de-l-acte/02-00-012-la-liberte-et-l-intervalle)
 - Livre II. L'intervalle — Deuxième partie : Les modalités de l'intervalle
-  - [Chapitre XIII. L'un et le multiple](/louis-lavelle/de-l-acte/02-00-013-l-un-et-le-multiple.html)
-  - [Chapitre XIV. L'infini et le fini](/louis-lavelle/de-l-acte/02-00-014-l-infini-et-le-fini.html)
-  - [Chapitre XV. L'espace et le temps](/louis-lavelle/de-l-acte/02-00-015-l-espace-et-le-temps.html)
+  - [Chapitre XIII. L'un et le multiple](/louis-lavelle/de-l-acte/02-00-013-l-un-et-le-multiple)
+  - [Chapitre XIV. L'infini et le fini](/louis-lavelle/de-l-acte/02-00-014-l-infini-et-le-fini)
+  - [Chapitre XV. L'espace et le temps](/louis-lavelle/de-l-acte/02-00-015-l-espace-et-le-temps)
 - Livre II. L'intervalle — Troisième partie : L'intervalle rempli
-  - [Chapitre XVI. L'origine de la puissance](/louis-lavelle/de-l-acte/02-00-016-l-origine-de-la-puissance.html)
-  - [Chapitre XVII. L'apparition de la donnée](/louis-lavelle/de-l-acte/02-00-017-l-apparition-de-la-donnee.html)
-  - [Chapitre XVIII. La formation du monde](/louis-lavelle/de-l-acte/02-00-018-la-formation-du-monde.html)
+  - [Chapitre XVI. L'origine de la puissance](/louis-lavelle/de-l-acte/02-00-016-l-origine-de-la-puissance)
+  - [Chapitre XVII. L'apparition de la donnée](/louis-lavelle/de-l-acte/02-00-017-l-apparition-de-la-donnee)
+  - [Chapitre XVIII. La formation du monde](/louis-lavelle/de-l-acte/02-00-018-la-formation-du-monde)
 - Livre III. L'acte de participation — Première partie : Le moi et la participation
-  - [Chapitre XIX. Le moi en acte](/louis-lavelle/de-l-acte/03-00-019-le-moi-en-acte.html)
-  - [Chapitre XX. Caractéristique de l'action](/louis-lavelle/de-l-acte/03-00-020-caracteristique-de-l-action.html)
-  - [Chapitre XXI. Agir et pâtir](/louis-lavelle/de-l-acte/03-00-021-agir-et-patir.html)
+  - [Chapitre XIX. Le moi en acte](/louis-lavelle/de-l-acte/03-00-019-le-moi-en-acte)
+  - [Chapitre XX. Caractéristique de l'action](/louis-lavelle/de-l-acte/03-00-020-caracteristique-de-l-action)
+  - [Chapitre XXI. Agir et pâtir](/louis-lavelle/de-l-acte/03-00-021-agir-et-patir)
 - Livre III. L'acte de participation — Deuxième partie : Le jeu de la participation
-  - [Chapitre XXII. Les choses, les idées et les êtres](/louis-lavelle/de-l-acte/03-00-022-les-choses-les-idees-et-les-etres.html)
-  - [Chapitre XXIII. La division de la liberté](/louis-lavelle/de-l-acte/03-00-023-la-division-de-la-liberte.html)
-  - [Chapitre XXIV. Le circuit dialectique](/louis-lavelle/de-l-acte/03-00-024-le-circuit-dialectique.html)
+  - [Chapitre XXII. Les choses, les idées et les êtres](/louis-lavelle/de-l-acte/03-00-022-les-choses-les-idees-et-les-etres)
+  - [Chapitre XXIII. La division de la liberté](/louis-lavelle/de-l-acte/03-00-023-la-division-de-la-liberte)
+  - [Chapitre XXIV. Le circuit dialectique](/louis-lavelle/de-l-acte/03-00-024-le-circuit-dialectique)
 - Livre III. L'acte de participation — Troisième partie : L'acte triple
-  - [Chapitre XXV. L'acte de vouloir](/louis-lavelle/de-l-acte/03-00-025-l-acte-de-vouloir.html)
-  - [Chapitre XXVI. L'acte de penser](/louis-lavelle/de-l-acte/03-00-026-l-acte-de-penser.html)
-  - [Chapitre XXVII. L'acte d'aimer](/louis-lavelle/de-l-acte/03-00-027-l-acte-d-aimer.html)
+  - [Chapitre XXV. L'acte de vouloir](/louis-lavelle/de-l-acte/03-00-025-l-acte-de-vouloir)
+  - [Chapitre XXVI. L'acte de penser](/louis-lavelle/de-l-acte/03-00-026-l-acte-de-penser)
+  - [Chapitre XXVII. L'acte d'aimer](/louis-lavelle/de-l-acte/03-00-027-l-acte-d-aimer)
 
 ## Livre I. L'acte pur — Première partie : La méthode
 

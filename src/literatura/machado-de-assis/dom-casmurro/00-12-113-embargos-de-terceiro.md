@@ -14,7 +14,7 @@ chapter-title: "113 — Embargos de Terceiro"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-113-embargos-de-terceiro.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-113-embargos-de-terceiro"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 113 — Embargos de Terceiro."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 113 — Embargos de Terceiro."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-113-embargos-de-terceiro.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-113-embargos-de-terceiro"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "113 — Embargos de Terceiro",
         "identifier": "00-12-113",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-113-embargos-de-terceiro.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-113-embargos-de-terceiro.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-113-embargos-de-terceiro",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-113-embargos-de-terceiro",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 113 — Embargos de Terceiro.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "113 — Embargos de Terceiro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-113-embargos-de-terceiro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-113-embargos-de-terceiro"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 113 — Embargos de Terceiro
 

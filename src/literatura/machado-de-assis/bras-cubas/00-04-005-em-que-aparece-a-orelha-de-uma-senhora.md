@@ -14,7 +14,7 @@ chapter-title: "005 — Em que Aparece a Orelha de uma Senhora"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-005-em-que-aparece-a-orelha-de-uma-senhora.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-005-em-que-aparece-a-orelha-de-uma-senhora"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 005 — Em que Aparece a Orelha de uma Senhora."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 005 — Em que Aparece a Orelha de uma Senhora."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-005-em-que-aparece-a-orelha-de-uma-senhora.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-005-em-que-aparece-a-orelha-de-uma-senhora"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "005 — Em que Aparece a Orelha de uma Senhora",
         "identifier": "00-04-005",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-005-em-que-aparece-a-orelha-de-uma-senhora.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-005-em-que-aparece-a-orelha-de-uma-senhora.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-005-em-que-aparece-a-orelha-de-uma-senhora",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-005-em-que-aparece-a-orelha-de-uma-senhora",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 005 — Em que Aparece a Orelha de uma Senhora.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "005 — Em que Aparece a Orelha de uma Senhora",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-005-em-que-aparece-a-orelha-de-uma-senhora.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-04-005-em-que-aparece-a-orelha-de-uma-senhora"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 005 — Em que Aparece a Orelha de uma Senhora
 

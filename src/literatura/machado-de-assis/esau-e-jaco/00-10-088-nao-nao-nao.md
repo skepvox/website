@@ -14,7 +14,7 @@ chapter-title: "088 — Não, Não, Não"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-088-nao-nao-nao.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-088-nao-nao-nao"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 088 — Não, Não, Não."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 088 — Não, Não, Não."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-088-nao-nao-nao.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-088-nao-nao-nao"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "088 — Não, Não, Não",
         "identifier": "00-10-088",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-088-nao-nao-nao.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-088-nao-nao-nao.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-088-nao-nao-nao",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-088-nao-nao-nao",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 088 — Não, Não, Não.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "088 — Não, Não, Não",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-088-nao-nao-nao.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-088-nao-nao-nao"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 088 — Não, Não, Não
 

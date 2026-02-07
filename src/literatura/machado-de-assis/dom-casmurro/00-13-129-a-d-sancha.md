@@ -14,7 +14,7 @@ chapter-title: "129 — A D.SANCHA"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-129-a-d-sancha.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-129-a-d-sancha"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 129 — A D.SANCHA."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 129 — A D.SANCHA."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-129-a-d-sancha.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-129-a-d-sancha"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "129 — A D.SANCHA",
         "identifier": "00-13-129",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-129-a-d-sancha.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-129-a-d-sancha.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-129-a-d-sancha",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-129-a-d-sancha",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 129 — A D.SANCHA.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "129 — A D.SANCHA",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-129-a-d-sancha.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-129-a-d-sancha"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 129 — A D.SANCHA
 

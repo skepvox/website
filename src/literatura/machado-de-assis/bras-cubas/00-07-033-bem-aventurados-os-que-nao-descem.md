@@ -14,7 +14,7 @@ chapter-title: "033 — Bem-aventurados Os que Não Descem"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-033-bem-aventurados-os-que-nao-descem.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-033-bem-aventurados-os-que-nao-descem"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 033 — Bem-aventurados Os que Não Descem."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 033 — Bem-aventurados Os que Não Descem."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-033-bem-aventurados-os-que-nao-descem.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-033-bem-aventurados-os-que-nao-descem"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "033 — Bem-aventurados Os que Não Descem",
         "identifier": "00-07-033",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-033-bem-aventurados-os-que-nao-descem.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-033-bem-aventurados-os-que-nao-descem.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-033-bem-aventurados-os-que-nao-descem",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-033-bem-aventurados-os-que-nao-descem",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 033 — Bem-aventurados Os que Não Descem.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "033 — Bem-aventurados Os que Não Descem",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-033-bem-aventurados-os-que-nao-descem.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-033-bem-aventurados-os-que-nao-descem"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 033 — Bem-aventurados Os que Não Descem
 

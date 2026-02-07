@@ -5,7 +5,7 @@ outline: 2
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo.html"
+      href: "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo"
   - - meta
     - name: description
       content: "Texto integral de São Bernardo, de Graciliano Ramos, com capítulos separados para leitura."
@@ -17,7 +17,7 @@ head:
       content: "Texto integral de São Bernardo, de Graciliano Ramos, com capítulos separados para leitura."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo.html"
+      content: "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo"
   - - meta
     - property: og:type
       content: book
@@ -54,224 +54,224 @@ head:
           "name": "Graciliano Ramos"
         },
         "inLanguage": "pt-BR",
-        "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo.html",
+        "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo",
         "description": "Texto integral de São Bernardo, de Graciliano Ramos, com capítulos separados para leitura.",
         "image": "https://skepvox.com/images/authors/graciliano-ramos.png",
         "hasPart": [
           {
             "@type": "Chapter",
             "name": "Capítulo — 01",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-001-capitulo-01.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-001-capitulo-01",
             "identifier": "00-01-001"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 02",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-002-capitulo-02.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-002-capitulo-02",
             "identifier": "00-01-002"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 03",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-003-capitulo-03.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-003-capitulo-03",
             "identifier": "00-01-003"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 04",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-004-capitulo-04.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-004-capitulo-04",
             "identifier": "00-01-004"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 05",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-005-capitulo-05.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-005-capitulo-05",
             "identifier": "00-01-005"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 06",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-006-capitulo-06.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-006-capitulo-06",
             "identifier": "00-01-006"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 07",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-007-capitulo-07.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-007-capitulo-07",
             "identifier": "00-01-007"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 08",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-008-capitulo-08.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-008-capitulo-08",
             "identifier": "00-01-008"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 09",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-009-capitulo-09.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-009-capitulo-09",
             "identifier": "00-01-009"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 10",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-010-capitulo-10.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-010-capitulo-10",
             "identifier": "00-01-010"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 11",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-011-capitulo-11.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-011-capitulo-11",
             "identifier": "00-02-011"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 12",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-012-capitulo-12.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-012-capitulo-12",
             "identifier": "00-02-012"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 13",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-013-capitulo-13.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-013-capitulo-13",
             "identifier": "00-02-013"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 14",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-014-capitulo-14.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-014-capitulo-14",
             "identifier": "00-02-014"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 15",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-015-capitulo-15.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-015-capitulo-15",
             "identifier": "00-02-015"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 16",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-016-capitulo-16.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-016-capitulo-16",
             "identifier": "00-02-016"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 17",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-017-capitulo-17.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-017-capitulo-17",
             "identifier": "00-02-017"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 18",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-018-capitulo-18.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-018-capitulo-18",
             "identifier": "00-02-018"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 19",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-019-capitulo-19.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-019-capitulo-19",
             "identifier": "00-02-019"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 20",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-020-capitulo-20.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-020-capitulo-20",
             "identifier": "00-02-020"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 21",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-021-capitulo-21.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-021-capitulo-21",
             "identifier": "00-03-021"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 22",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-022-capitulo-22.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-022-capitulo-22",
             "identifier": "00-03-022"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 23",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-023-capitulo-23.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-023-capitulo-23",
             "identifier": "00-03-023"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 24",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-024-capitulo-24.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-024-capitulo-24",
             "identifier": "00-03-024"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 25",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-025-capitulo-25.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-025-capitulo-25",
             "identifier": "00-03-025"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 26",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-026-capitulo-26.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-026-capitulo-26",
             "identifier": "00-03-026"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 27",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-027-capitulo-27.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-027-capitulo-27",
             "identifier": "00-03-027"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 28",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-028-capitulo-28.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-028-capitulo-28",
             "identifier": "00-03-028"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 29",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-029-capitulo-29.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-029-capitulo-29",
             "identifier": "00-03-029"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 30",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-030-capitulo-30.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-030-capitulo-30",
             "identifier": "00-03-030"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 31",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-04-031-capitulo-31.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-04-031-capitulo-31",
             "identifier": "00-04-031"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 32",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-04-032-capitulo-32.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-04-032-capitulo-32",
             "identifier": "00-04-032"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 33",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-04-033-capitulo-33.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-04-033-capitulo-33",
             "identifier": "00-04-033"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 34",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-04-034-capitulo-34.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-04-034-capitulo-34",
             "identifier": "00-04-034"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 35",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-04-035-capitulo-35.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-04-035-capitulo-35",
             "identifier": "00-04-035"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 36",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-04-036-capitulo-36.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-04-036-capitulo-36",
             "identifier": "00-04-036"
           }
         ]
@@ -289,217 +289,217 @@ head:
             "@type": "ListItem",
             "position": 1,
             "name": "Capítulo — 01",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-001-capitulo-01.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-001-capitulo-01"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Capítulo — 02",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-002-capitulo-02.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-002-capitulo-02"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Capítulo — 03",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-003-capitulo-03.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-003-capitulo-03"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Capítulo — 04",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-004-capitulo-04.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-004-capitulo-04"
           },
           {
             "@type": "ListItem",
             "position": 5,
             "name": "Capítulo — 05",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-005-capitulo-05.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-005-capitulo-05"
           },
           {
             "@type": "ListItem",
             "position": 6,
             "name": "Capítulo — 06",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-006-capitulo-06.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-006-capitulo-06"
           },
           {
             "@type": "ListItem",
             "position": 7,
             "name": "Capítulo — 07",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-007-capitulo-07.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-007-capitulo-07"
           },
           {
             "@type": "ListItem",
             "position": 8,
             "name": "Capítulo — 08",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-008-capitulo-08.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-008-capitulo-08"
           },
           {
             "@type": "ListItem",
             "position": 9,
             "name": "Capítulo — 09",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-009-capitulo-09.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-009-capitulo-09"
           },
           {
             "@type": "ListItem",
             "position": 10,
             "name": "Capítulo — 10",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-010-capitulo-10.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-01-010-capitulo-10"
           },
           {
             "@type": "ListItem",
             "position": 11,
             "name": "Capítulo — 11",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-011-capitulo-11.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-011-capitulo-11"
           },
           {
             "@type": "ListItem",
             "position": 12,
             "name": "Capítulo — 12",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-012-capitulo-12.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-012-capitulo-12"
           },
           {
             "@type": "ListItem",
             "position": 13,
             "name": "Capítulo — 13",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-013-capitulo-13.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-013-capitulo-13"
           },
           {
             "@type": "ListItem",
             "position": 14,
             "name": "Capítulo — 14",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-014-capitulo-14.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-014-capitulo-14"
           },
           {
             "@type": "ListItem",
             "position": 15,
             "name": "Capítulo — 15",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-015-capitulo-15.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-015-capitulo-15"
           },
           {
             "@type": "ListItem",
             "position": 16,
             "name": "Capítulo — 16",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-016-capitulo-16.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-016-capitulo-16"
           },
           {
             "@type": "ListItem",
             "position": 17,
             "name": "Capítulo — 17",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-017-capitulo-17.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-017-capitulo-17"
           },
           {
             "@type": "ListItem",
             "position": 18,
             "name": "Capítulo — 18",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-018-capitulo-18.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-018-capitulo-18"
           },
           {
             "@type": "ListItem",
             "position": 19,
             "name": "Capítulo — 19",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-019-capitulo-19.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-019-capitulo-19"
           },
           {
             "@type": "ListItem",
             "position": 20,
             "name": "Capítulo — 20",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-020-capitulo-20.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-02-020-capitulo-20"
           },
           {
             "@type": "ListItem",
             "position": 21,
             "name": "Capítulo — 21",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-021-capitulo-21.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-021-capitulo-21"
           },
           {
             "@type": "ListItem",
             "position": 22,
             "name": "Capítulo — 22",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-022-capitulo-22.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-022-capitulo-22"
           },
           {
             "@type": "ListItem",
             "position": 23,
             "name": "Capítulo — 23",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-023-capitulo-23.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-023-capitulo-23"
           },
           {
             "@type": "ListItem",
             "position": 24,
             "name": "Capítulo — 24",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-024-capitulo-24.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-024-capitulo-24"
           },
           {
             "@type": "ListItem",
             "position": 25,
             "name": "Capítulo — 25",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-025-capitulo-25.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-025-capitulo-25"
           },
           {
             "@type": "ListItem",
             "position": 26,
             "name": "Capítulo — 26",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-026-capitulo-26.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-026-capitulo-26"
           },
           {
             "@type": "ListItem",
             "position": 27,
             "name": "Capítulo — 27",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-027-capitulo-27.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-027-capitulo-27"
           },
           {
             "@type": "ListItem",
             "position": 28,
             "name": "Capítulo — 28",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-028-capitulo-28.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-028-capitulo-28"
           },
           {
             "@type": "ListItem",
             "position": 29,
             "name": "Capítulo — 29",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-029-capitulo-29.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-029-capitulo-29"
           },
           {
             "@type": "ListItem",
             "position": 30,
             "name": "Capítulo — 30",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-030-capitulo-30.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-03-030-capitulo-30"
           },
           {
             "@type": "ListItem",
             "position": 31,
             "name": "Capítulo — 31",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-04-031-capitulo-31.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-04-031-capitulo-31"
           },
           {
             "@type": "ListItem",
             "position": 32,
             "name": "Capítulo — 32",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-04-032-capitulo-32.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-04-032-capitulo-32"
           },
           {
             "@type": "ListItem",
             "position": 33,
             "name": "Capítulo — 33",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-04-033-capitulo-33.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-04-033-capitulo-33"
           },
           {
             "@type": "ListItem",
             "position": 34,
             "name": "Capítulo — 34",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-04-034-capitulo-34.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-04-034-capitulo-34"
           },
           {
             "@type": "ListItem",
             "position": 35,
             "name": "Capítulo — 35",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-04-035-capitulo-35.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-04-035-capitulo-35"
           },
           {
             "@type": "ListItem",
             "position": 36,
             "name": "Capítulo — 36",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-04-036-capitulo-36.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo/00-04-036-capitulo-36"
           }
         ]
       }
@@ -520,7 +520,7 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "São Bernardo",
-            "item": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo.html"
+            "item": "https://skepvox.com/literatura/graciliano-ramos/sao-bernardo"
           }
         ]
       }
@@ -528,48 +528,48 @@ head:
 
 # São Bernardo
 
-## Sumário
+**Sumário**
 
 - Capítulos 01 — 10
-  - [Capítulo — 01](/literatura/graciliano-ramos/sao-bernardo/00-01-001-capitulo-01.html)
-  - [Capítulo — 02](/literatura/graciliano-ramos/sao-bernardo/00-01-002-capitulo-02.html)
-  - [Capítulo — 03](/literatura/graciliano-ramos/sao-bernardo/00-01-003-capitulo-03.html)
-  - [Capítulo — 04](/literatura/graciliano-ramos/sao-bernardo/00-01-004-capitulo-04.html)
-  - [Capítulo — 05](/literatura/graciliano-ramos/sao-bernardo/00-01-005-capitulo-05.html)
-  - [Capítulo — 06](/literatura/graciliano-ramos/sao-bernardo/00-01-006-capitulo-06.html)
-  - [Capítulo — 07](/literatura/graciliano-ramos/sao-bernardo/00-01-007-capitulo-07.html)
-  - [Capítulo — 08](/literatura/graciliano-ramos/sao-bernardo/00-01-008-capitulo-08.html)
-  - [Capítulo — 09](/literatura/graciliano-ramos/sao-bernardo/00-01-009-capitulo-09.html)
-  - [Capítulo — 10](/literatura/graciliano-ramos/sao-bernardo/00-01-010-capitulo-10.html)
+  - [Capítulo — 01](/literatura/graciliano-ramos/sao-bernardo/00-01-001-capitulo-01)
+  - [Capítulo — 02](/literatura/graciliano-ramos/sao-bernardo/00-01-002-capitulo-02)
+  - [Capítulo — 03](/literatura/graciliano-ramos/sao-bernardo/00-01-003-capitulo-03)
+  - [Capítulo — 04](/literatura/graciliano-ramos/sao-bernardo/00-01-004-capitulo-04)
+  - [Capítulo — 05](/literatura/graciliano-ramos/sao-bernardo/00-01-005-capitulo-05)
+  - [Capítulo — 06](/literatura/graciliano-ramos/sao-bernardo/00-01-006-capitulo-06)
+  - [Capítulo — 07](/literatura/graciliano-ramos/sao-bernardo/00-01-007-capitulo-07)
+  - [Capítulo — 08](/literatura/graciliano-ramos/sao-bernardo/00-01-008-capitulo-08)
+  - [Capítulo — 09](/literatura/graciliano-ramos/sao-bernardo/00-01-009-capitulo-09)
+  - [Capítulo — 10](/literatura/graciliano-ramos/sao-bernardo/00-01-010-capitulo-10)
 - Capítulos 11 — 20
-  - [Capítulo — 11](/literatura/graciliano-ramos/sao-bernardo/00-02-011-capitulo-11.html)
-  - [Capítulo — 12](/literatura/graciliano-ramos/sao-bernardo/00-02-012-capitulo-12.html)
-  - [Capítulo — 13](/literatura/graciliano-ramos/sao-bernardo/00-02-013-capitulo-13.html)
-  - [Capítulo — 14](/literatura/graciliano-ramos/sao-bernardo/00-02-014-capitulo-14.html)
-  - [Capítulo — 15](/literatura/graciliano-ramos/sao-bernardo/00-02-015-capitulo-15.html)
-  - [Capítulo — 16](/literatura/graciliano-ramos/sao-bernardo/00-02-016-capitulo-16.html)
-  - [Capítulo — 17](/literatura/graciliano-ramos/sao-bernardo/00-02-017-capitulo-17.html)
-  - [Capítulo — 18](/literatura/graciliano-ramos/sao-bernardo/00-02-018-capitulo-18.html)
-  - [Capítulo — 19](/literatura/graciliano-ramos/sao-bernardo/00-02-019-capitulo-19.html)
-  - [Capítulo — 20](/literatura/graciliano-ramos/sao-bernardo/00-02-020-capitulo-20.html)
+  - [Capítulo — 11](/literatura/graciliano-ramos/sao-bernardo/00-02-011-capitulo-11)
+  - [Capítulo — 12](/literatura/graciliano-ramos/sao-bernardo/00-02-012-capitulo-12)
+  - [Capítulo — 13](/literatura/graciliano-ramos/sao-bernardo/00-02-013-capitulo-13)
+  - [Capítulo — 14](/literatura/graciliano-ramos/sao-bernardo/00-02-014-capitulo-14)
+  - [Capítulo — 15](/literatura/graciliano-ramos/sao-bernardo/00-02-015-capitulo-15)
+  - [Capítulo — 16](/literatura/graciliano-ramos/sao-bernardo/00-02-016-capitulo-16)
+  - [Capítulo — 17](/literatura/graciliano-ramos/sao-bernardo/00-02-017-capitulo-17)
+  - [Capítulo — 18](/literatura/graciliano-ramos/sao-bernardo/00-02-018-capitulo-18)
+  - [Capítulo — 19](/literatura/graciliano-ramos/sao-bernardo/00-02-019-capitulo-19)
+  - [Capítulo — 20](/literatura/graciliano-ramos/sao-bernardo/00-02-020-capitulo-20)
 - Capítulos 21 — 30
-  - [Capítulo — 21](/literatura/graciliano-ramos/sao-bernardo/00-03-021-capitulo-21.html)
-  - [Capítulo — 22](/literatura/graciliano-ramos/sao-bernardo/00-03-022-capitulo-22.html)
-  - [Capítulo — 23](/literatura/graciliano-ramos/sao-bernardo/00-03-023-capitulo-23.html)
-  - [Capítulo — 24](/literatura/graciliano-ramos/sao-bernardo/00-03-024-capitulo-24.html)
-  - [Capítulo — 25](/literatura/graciliano-ramos/sao-bernardo/00-03-025-capitulo-25.html)
-  - [Capítulo — 26](/literatura/graciliano-ramos/sao-bernardo/00-03-026-capitulo-26.html)
-  - [Capítulo — 27](/literatura/graciliano-ramos/sao-bernardo/00-03-027-capitulo-27.html)
-  - [Capítulo — 28](/literatura/graciliano-ramos/sao-bernardo/00-03-028-capitulo-28.html)
-  - [Capítulo — 29](/literatura/graciliano-ramos/sao-bernardo/00-03-029-capitulo-29.html)
-  - [Capítulo — 30](/literatura/graciliano-ramos/sao-bernardo/00-03-030-capitulo-30.html)
+  - [Capítulo — 21](/literatura/graciliano-ramos/sao-bernardo/00-03-021-capitulo-21)
+  - [Capítulo — 22](/literatura/graciliano-ramos/sao-bernardo/00-03-022-capitulo-22)
+  - [Capítulo — 23](/literatura/graciliano-ramos/sao-bernardo/00-03-023-capitulo-23)
+  - [Capítulo — 24](/literatura/graciliano-ramos/sao-bernardo/00-03-024-capitulo-24)
+  - [Capítulo — 25](/literatura/graciliano-ramos/sao-bernardo/00-03-025-capitulo-25)
+  - [Capítulo — 26](/literatura/graciliano-ramos/sao-bernardo/00-03-026-capitulo-26)
+  - [Capítulo — 27](/literatura/graciliano-ramos/sao-bernardo/00-03-027-capitulo-27)
+  - [Capítulo — 28](/literatura/graciliano-ramos/sao-bernardo/00-03-028-capitulo-28)
+  - [Capítulo — 29](/literatura/graciliano-ramos/sao-bernardo/00-03-029-capitulo-29)
+  - [Capítulo — 30](/literatura/graciliano-ramos/sao-bernardo/00-03-030-capitulo-30)
 - Capítulos 31 — 36
-  - [Capítulo — 31](/literatura/graciliano-ramos/sao-bernardo/00-04-031-capitulo-31.html)
-  - [Capítulo — 32](/literatura/graciliano-ramos/sao-bernardo/00-04-032-capitulo-32.html)
-  - [Capítulo — 33](/literatura/graciliano-ramos/sao-bernardo/00-04-033-capitulo-33.html)
-  - [Capítulo — 34](/literatura/graciliano-ramos/sao-bernardo/00-04-034-capitulo-34.html)
-  - [Capítulo — 35](/literatura/graciliano-ramos/sao-bernardo/00-04-035-capitulo-35.html)
-  - [Capítulo — 36](/literatura/graciliano-ramos/sao-bernardo/00-04-036-capitulo-36.html)
+  - [Capítulo — 31](/literatura/graciliano-ramos/sao-bernardo/00-04-031-capitulo-31)
+  - [Capítulo — 32](/literatura/graciliano-ramos/sao-bernardo/00-04-032-capitulo-32)
+  - [Capítulo — 33](/literatura/graciliano-ramos/sao-bernardo/00-04-033-capitulo-33)
+  - [Capítulo — 34](/literatura/graciliano-ramos/sao-bernardo/00-04-034-capitulo-34)
+  - [Capítulo — 35](/literatura/graciliano-ramos/sao-bernardo/00-04-035-capitulo-35)
+  - [Capítulo — 36](/literatura/graciliano-ramos/sao-bernardo/00-04-036-capitulo-36)
 
 ## Capítulos 01 — 10
 

@@ -14,7 +14,7 @@ chapter-title: "149 — Teoria do Benefício"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-149-teoria-do-beneficio.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-149-teoria-do-beneficio"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 149 — Teoria do Benefício."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 149 — Teoria do Benefício."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-149-teoria-do-beneficio.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-149-teoria-do-beneficio"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "149 — Teoria do Benefício",
         "identifier": "00-18-149",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-149-teoria-do-beneficio.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-149-teoria-do-beneficio.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-149-teoria-do-beneficio",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-149-teoria-do-beneficio",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 149 — Teoria do Benefício.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "149 — Teoria do Benefício",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-149-teoria-do-beneficio.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-149-teoria-do-beneficio"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 149 — Teoria do Benefício
 

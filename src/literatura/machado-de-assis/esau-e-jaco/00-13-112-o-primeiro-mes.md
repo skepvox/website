@@ -14,7 +14,7 @@ chapter-title: "112 — O Primeiro Mês"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-112-o-primeiro-mes.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-112-o-primeiro-mes"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 112 — O Primeiro Mês."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 112 — O Primeiro Mês."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-112-o-primeiro-mes.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-112-o-primeiro-mes"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "112 — O Primeiro Mês",
         "identifier": "00-13-112",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-112-o-primeiro-mes.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-112-o-primeiro-mes.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-112-o-primeiro-mes",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-112-o-primeiro-mes",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 112 — O Primeiro Mês.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "112 — O Primeiro Mês",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-112-o-primeiro-mes.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-112-o-primeiro-mes"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 112 — O Primeiro Mês
 

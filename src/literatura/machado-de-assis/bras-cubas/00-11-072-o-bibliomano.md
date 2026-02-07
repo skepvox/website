@@ -14,7 +14,7 @@ chapter-title: "072 — O Bibliômano"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-072-o-bibliomano.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-072-o-bibliomano"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 072 — O Bibliômano."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 072 — O Bibliômano."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-072-o-bibliomano.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-072-o-bibliomano"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "072 — O Bibliômano",
         "identifier": "00-11-072",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-072-o-bibliomano.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-072-o-bibliomano.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-072-o-bibliomano",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-072-o-bibliomano",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 072 — O Bibliômano.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "072 — O Bibliômano",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-072-o-bibliomano.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-072-o-bibliomano"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 072 — O Bibliômano
 

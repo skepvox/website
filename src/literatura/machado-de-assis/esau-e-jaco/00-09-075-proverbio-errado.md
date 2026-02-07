@@ -14,7 +14,7 @@ chapter-title: "075 — Provérbio Errado"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-075-proverbio-errado.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-075-proverbio-errado"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 075 — Provérbio Errado."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 075 — Provérbio Errado."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-075-proverbio-errado.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-075-proverbio-errado"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "075 — Provérbio Errado",
         "identifier": "00-09-075",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-075-proverbio-errado.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-075-proverbio-errado.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-075-proverbio-errado",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-075-proverbio-errado",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 075 — Provérbio Errado.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "075 — Provérbio Errado",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-075-proverbio-errado.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-075-proverbio-errado"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 075 — Provérbio Errado
 

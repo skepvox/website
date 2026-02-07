@@ -14,7 +14,7 @@ chapter-title: "097 — Entre a Boca e a Testa"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-097-entre-a-boca-e-a-testa.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-097-entre-a-boca-e-a-testa"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 097 — Entre a Boca e a Testa."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 097 — Entre a Boca e a Testa."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-097-entre-a-boca-e-a-testa.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-097-entre-a-boca-e-a-testa"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "097 — Entre a Boca e a Testa",
         "identifier": "00-13-097",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-097-entre-a-boca-e-a-testa.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-097-entre-a-boca-e-a-testa.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-097-entre-a-boca-e-a-testa",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-097-entre-a-boca-e-a-testa",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 097 — Entre a Boca e a Testa.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "097 — Entre a Boca e a Testa",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-097-entre-a-boca-e-a-testa.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-097-entre-a-boca-e-a-testa"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 097 — Entre a Boca e a Testa
 

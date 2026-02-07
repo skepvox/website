@@ -14,7 +14,7 @@ chapter-title: "048 — Juramento do Poço"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-048-juramento-do-poco.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-048-juramento-do-poco"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 048 — Juramento do Poço."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 048 — Juramento do Poço."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-048-juramento-do-poco.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-048-juramento-do-poco"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "048 — Juramento do Poço",
         "identifier": "00-05-048",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-048-juramento-do-poco.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-048-juramento-do-poco.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-048-juramento-do-poco",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-048-juramento-do-poco",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 048 — Juramento do Poço.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "048 — Juramento do Poço",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-048-juramento-do-poco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-048-juramento-do-poco"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 048 — Juramento do Poço
 

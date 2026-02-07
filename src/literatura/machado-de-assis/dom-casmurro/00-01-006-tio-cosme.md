@@ -14,7 +14,7 @@ chapter-title: "006 — Tio Cosme"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-006-tio-cosme.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-006-tio-cosme"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 006 — Tio Cosme."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 006 — Tio Cosme."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-006-tio-cosme.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-006-tio-cosme"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "006 — Tio Cosme",
         "identifier": "00-01-006",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-006-tio-cosme.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-006-tio-cosme.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-006-tio-cosme",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-006-tio-cosme",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 006 — Tio Cosme.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "006 — Tio Cosme",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-006-tio-cosme.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-006-tio-cosme"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 006 — Tio Cosme
 

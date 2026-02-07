@@ -14,7 +14,7 @@ chapter-title: "016 — Paternalismo"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-016-paternalismo.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-016-paternalismo"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 016 — Paternalismo."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 016 — Paternalismo."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-016-paternalismo.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-016-paternalismo"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "016 — Paternalismo",
         "identifier": "00-03-016",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-016-paternalismo.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-016-paternalismo.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-016-paternalismo",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-016-paternalismo",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 016 — Paternalismo.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "016 — Paternalismo",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-016-paternalismo.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-016-paternalismo"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 016 — Paternalismo
 

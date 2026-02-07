@@ -14,7 +14,7 @@ chapter-title: "084 — O Velho Segredo"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-084-o-velho-segredo.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-084-o-velho-segredo"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 084 — O Velho Segredo."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 084 — O Velho Segredo."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-084-o-velho-segredo.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-084-o-velho-segredo"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "084 — O Velho Segredo",
         "identifier": "00-10-084",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-084-o-velho-segredo.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-084-o-velho-segredo.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-084-o-velho-segredo",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-084-o-velho-segredo",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 084 — O Velho Segredo.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "084 — O Velho Segredo",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-084-o-velho-segredo.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-084-o-velho-segredo"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 084 — O Velho Segredo
 

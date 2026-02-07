@@ -14,7 +14,7 @@ chapter-title: "016 — O Administrador Interino"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-016-o-administrador-interino.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-016-o-administrador-interino"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 016 — O Administrador Interino."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 016 — O Administrador Interino."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-016-o-administrador-interino.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-016-o-administrador-interino"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "016 — O Administrador Interino",
         "identifier": "00-02-016",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-016-o-administrador-interino.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-016-o-administrador-interino.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-016-o-administrador-interino",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-016-o-administrador-interino",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 016 — O Administrador Interino.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "016 — O Administrador Interino",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-016-o-administrador-interino.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-016-o-administrador-interino"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 016 — O Administrador Interino
 

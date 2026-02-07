@@ -14,7 +14,7 @@ chapter-title: "106 — Dez Libras Esterlinas"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-106-dez-libras-esterlinas.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-106-dez-libras-esterlinas"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 106 — Dez Libras Esterlinas."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 106 — Dez Libras Esterlinas."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-106-dez-libras-esterlinas.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-106-dez-libras-esterlinas"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "106 — Dez Libras Esterlinas",
         "identifier": "00-11-106",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-106-dez-libras-esterlinas.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-106-dez-libras-esterlinas.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-106-dez-libras-esterlinas",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-106-dez-libras-esterlinas",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 106 — Dez Libras Esterlinas.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "106 — Dez Libras Esterlinas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-106-dez-libras-esterlinas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-106-dez-libras-esterlinas"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 106 — Dez Libras Esterlinas
 

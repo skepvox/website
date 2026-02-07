@@ -123,7 +123,7 @@ head:
       }
 ---
 
-[Retour au livre](/louis-lavelle/de-l-etre.html)
+[Retour au livre](/louis-lavelle/de-l-etre)
 
 ## Chapitre 4. De l'extension et de la compréhension de l'être
 

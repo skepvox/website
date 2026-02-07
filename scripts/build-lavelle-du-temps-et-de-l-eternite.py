@@ -10,7 +10,7 @@ LOCAL_SOURCE_DIR = Path('local-books/louis-lavelle/du-temps-et-de-l-eternite/fr'
 SITE_BASE = 'https://skepvox.com'
 BOOK_PATH = '/louis-lavelle/du-temps-et-de-l-eternite'
 BOOK_PATH_HTML = f'{BOOK_PATH}.html'
-BOOK_URL = f'{SITE_BASE}{BOOK_PATH_HTML}'
+BOOK_URL = f'{SITE_BASE}{BOOK_PATH}'
 BOOK_TITLE = "Du temps et de l'éternité"
 AUTHOR = 'Louis Lavelle'
 LANGUAGE = 'fr'
@@ -101,7 +101,7 @@ def sync_leaf_bodies() -> None:
         extras = ', '.join(extra_targets)
         print(f'Warning: chapters without local source: {extras}', file=sys.stderr)
 
-    back_link = f"[Retour au livre]({BOOK_PATH_HTML})"
+    back_link = f"[Retour au livre]({BOOK_PATH})"
     for local_path in local_files:
         target_path = CHAPTER_DIR / local_path.name
         local_text = local_path.read_text(encoding='utf-8')
@@ -210,8 +210,8 @@ def main() -> None:
         book_title = (meta.get('book-title') or '').strip()
         part_title = (meta.get('part-title') or '').strip()
         identifier = f"{book_number}-{part_number}-{chapter_number}"
-        url_abs = f"{SITE_BASE}{BOOK_PATH}/{path.stem}.html"
-        url_rel = f"{BOOK_PATH}/{path.stem}.html"
+        url_abs = f"{SITE_BASE}{BOOK_PATH}/{path.stem}"
+        url_rel = f"{BOOK_PATH}/{path.stem}"
         chapters.append({
             'title': chapter_title,
             'url_abs': url_abs,
@@ -240,7 +240,7 @@ def main() -> None:
         current_book_title = book_title or None
         current_part_title = part_title or None
 
-    toc_lines = ['## Table des matières', '']
+    toc_lines = ['**Table des matières**', '']
     current_book = None
     current_part = None
     pending_intro = None

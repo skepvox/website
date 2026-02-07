@@ -14,7 +14,7 @@ chapter-title: "118 — Coisas Passadas, Coisas Futuras"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-118-coisas-passadas-coisas-futuras.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-118-coisas-passadas-coisas-futuras"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 118 — Coisas Passadas, Coisas Futuras."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 118 — Coisas Passadas, Coisas Futuras."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-118-coisas-passadas-coisas-futuras.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-118-coisas-passadas-coisas-futuras"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "118 — Coisas Passadas, Coisas Futuras",
         "identifier": "00-13-118",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-118-coisas-passadas-coisas-futuras.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-118-coisas-passadas-coisas-futuras.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-118-coisas-passadas-coisas-futuras",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-118-coisas-passadas-coisas-futuras",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 118 — Coisas Passadas, Coisas Futuras.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "118 — Coisas Passadas, Coisas Futuras",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-118-coisas-passadas-coisas-futuras.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-118-coisas-passadas-coisas-futuras"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 118 — Coisas Passadas, Coisas Futuras
 

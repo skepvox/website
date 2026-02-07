@@ -14,7 +14,7 @@ chapter-title: "103 — Distração"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-103-distracao.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-103-distracao"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 103 — Distração."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 103 — Distração."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-103-distracao.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-103-distracao"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "103 — Distração",
         "identifier": "00-14-103",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-103-distracao.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-103-distracao.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-103-distracao",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-103-distracao",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 103 — Distração.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "103 — Distração",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-103-distracao.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-103-distracao"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 103 — Distração
 

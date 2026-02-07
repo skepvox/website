@@ -14,7 +14,7 @@ chapter-title: "045 — Abane a Cabeça, Leitor"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-045-abane-a-cabeca-leitor.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-045-abane-a-cabeca-leitor"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 045 — Abane a Cabeça, Leitor."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 045 — Abane a Cabeça, Leitor."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-045-abane-a-cabeca-leitor.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-045-abane-a-cabeca-leitor"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "045 — Abane a Cabeça, Leitor",
         "identifier": "00-05-045",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-045-abane-a-cabeca-leitor.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-045-abane-a-cabeca-leitor.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-045-abane-a-cabeca-leitor",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-045-abane-a-cabeca-leitor",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 045 — Abane a Cabeça, Leitor.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "045 — Abane a Cabeça, Leitor",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-045-abane-a-cabeca-leitor.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-045-abane-a-cabeca-leitor"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 045 — Abane a Cabeça, Leitor
 

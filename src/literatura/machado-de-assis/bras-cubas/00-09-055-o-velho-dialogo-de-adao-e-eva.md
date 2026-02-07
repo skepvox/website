@@ -14,7 +14,7 @@ chapter-title: "055 — O Velho Diálogo de Adão e Eva"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-055-o-velho-dialogo-de-adao-e-eva.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-055-o-velho-dialogo-de-adao-e-eva"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 055 — O Velho Diálogo de Adão e Eva."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 055 — O Velho Diálogo de Adão e Eva."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-055-o-velho-dialogo-de-adao-e-eva.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-055-o-velho-dialogo-de-adao-e-eva"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "055 — O Velho Diálogo de Adão e Eva",
         "identifier": "00-09-055",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-055-o-velho-dialogo-de-adao-e-eva.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-055-o-velho-dialogo-de-adao-e-eva.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-055-o-velho-dialogo-de-adao-e-eva",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-055-o-velho-dialogo-de-adao-e-eva",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 055 — O Velho Diálogo de Adão e Eva.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "055 — O Velho Diálogo de Adão e Eva",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-055-o-velho-dialogo-de-adao-e-eva.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-055-o-velho-dialogo-de-adao-e-eva"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 055 — O Velho Diálogo de Adão e Eva
 

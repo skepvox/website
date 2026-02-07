@@ -14,7 +14,7 @@ chapter-title: "151 — Filosofia dos Epitáfios"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-151-filosofia-dos-epitafios.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-151-filosofia-dos-epitafios"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 151 — Filosofia dos Epitáfios."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 151 — Filosofia dos Epitáfios."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-151-filosofia-dos-epitafios.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-151-filosofia-dos-epitafios"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "151 — Filosofia dos Epitáfios",
         "identifier": "00-19-151",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-151-filosofia-dos-epitafios.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-151-filosofia-dos-epitafios.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-151-filosofia-dos-epitafios",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-151-filosofia-dos-epitafios",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 151 — Filosofia dos Epitáfios.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "151 — Filosofia dos Epitáfios",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-151-filosofia-dos-epitafios.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-151-filosofia-dos-epitafios"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 151 — Filosofia dos Epitáfios
 

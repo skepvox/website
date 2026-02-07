@@ -123,7 +123,7 @@ head:
       }
 ---
 
-[Retour au livre](/louis-lavelle/quatre-saints.html)
+[Retour au livre](/louis-lavelle/quatre-saints)
 
 ## Chapitre 3. La contemplation selon Saint Jean de la croix
 

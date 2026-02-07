@@ -14,7 +14,7 @@ chapter-title: "035 — Em Volta da Moça"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-035-em-volta-da-moca.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-035-em-volta-da-moca"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 035 — Em Volta da Moça."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 035 — Em Volta da Moça."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-035-em-volta-da-moca.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-035-em-volta-da-moca"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "035 — Em Volta da Moça",
         "identifier": "00-05-035",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-035-em-volta-da-moca.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-035-em-volta-da-moca.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-035-em-volta-da-moca",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-035-em-volta-da-moca",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 035 — Em Volta da Moça.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "035 — Em Volta da Moça",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-035-em-volta-da-moca.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-035-em-volta-da-moca"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 035 — Em Volta da Moça
 

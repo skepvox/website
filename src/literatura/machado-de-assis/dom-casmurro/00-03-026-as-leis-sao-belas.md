@@ -14,7 +14,7 @@ chapter-title: "026 — As Leis São Belas"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-026-as-leis-sao-belas.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-026-as-leis-sao-belas"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 026 — As Leis São Belas."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 026 — As Leis São Belas."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-026-as-leis-sao-belas.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-026-as-leis-sao-belas"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "026 — As Leis São Belas",
         "identifier": "00-03-026",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-026-as-leis-sao-belas.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-026-as-leis-sao-belas.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-026-as-leis-sao-belas",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-026-as-leis-sao-belas",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 026 — As Leis São Belas.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "026 — As Leis São Belas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-026-as-leis-sao-belas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-026-as-leis-sao-belas"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 026 — As Leis São Belas
 

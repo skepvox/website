@@ -13,7 +13,7 @@ chapter-title: "Nota Editorial"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-011-nota-editorial.html"
+      href: "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-011-nota-editorial"
   - - meta
     - name: description
       content: "Texto integral de Angústia, de Graciliano Ramos. Nota Editorial."
@@ -25,7 +25,7 @@ head:
       content: "Texto integral de Angústia, de Graciliano Ramos. Nota Editorial."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-011-nota-editorial.html"
+      content: "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-011-nota-editorial"
   - - meta
     - property: og:type
       content: article
@@ -58,8 +58,8 @@ head:
         "@type": "Chapter",
         "name": "Nota Editorial",
         "identifier": "00-00-011",
-        "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-011-nota-editorial.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-011-nota-editorial.html",
+        "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-011-nota-editorial",
+        "mainEntityOfPage": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-011-nota-editorial",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -73,7 +73,7 @@ head:
             "@type": "Person",
             "name": "Graciliano Ramos"
           },
-          "url": "https://skepvox.com/literatura/graciliano-ramos/angustia.html"
+          "url": "https://skepvox.com/literatura/graciliano-ramos/angustia"
         },
         "image": "https://skepvox.com/images/authors/graciliano-ramos.png",
         "description": "Texto integral de Angústia, de Graciliano Ramos. Nota Editorial.",
@@ -102,19 +102,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Angústia",
-            "item": "https://skepvox.com/literatura/graciliano-ramos/angustia.html"
+            "item": "https://skepvox.com/literatura/graciliano-ramos/angustia"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Nota Editorial",
-            "item": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-011-nota-editorial.html"
+            "item": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-011-nota-editorial"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/graciliano-ramos/angustia.html)
+[Voltar ao livro](/literatura/graciliano-ramos/angustia)
 
 ## Nota Editorial
 

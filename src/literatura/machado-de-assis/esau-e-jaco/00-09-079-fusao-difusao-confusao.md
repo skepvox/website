@@ -14,7 +14,7 @@ chapter-title: "079 — Fusão, Difusão, Confusão..."
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-079-fusao-difusao-confusao.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-079-fusao-difusao-confusao"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 079 — Fusão, Difusão, Confusão...."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 079 — Fusão, Difusão, Confusão...."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-079-fusao-difusao-confusao.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-079-fusao-difusao-confusao"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "079 — Fusão, Difusão, Confusão...",
         "identifier": "00-09-079",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-079-fusao-difusao-confusao.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-079-fusao-difusao-confusao.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-079-fusao-difusao-confusao",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-079-fusao-difusao-confusao",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 079 — Fusão, Difusão, Confusão....",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "079 — Fusão, Difusão, Confusão...",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-079-fusao-difusao-confusao.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-079-fusao-difusao-confusao"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 079 — Fusão, Difusão, Confusão...
 

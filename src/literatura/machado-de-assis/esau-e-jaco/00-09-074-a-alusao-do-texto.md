@@ -14,7 +14,7 @@ chapter-title: "074 — A Alusão do Texto"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-074-a-alusao-do-texto.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-074-a-alusao-do-texto"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 074 — A Alusão do Texto."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 074 — A Alusão do Texto."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-074-a-alusao-do-texto.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-074-a-alusao-do-texto"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "074 — A Alusão do Texto",
         "identifier": "00-09-074",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-074-a-alusao-do-texto.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-074-a-alusao-do-texto.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-074-a-alusao-do-texto",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-074-a-alusao-do-texto",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 074 — A Alusão do Texto.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "074 — A Alusão do Texto",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-074-a-alusao-do-texto.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-09-074-a-alusao-do-texto"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 074 — A Alusão do Texto
 

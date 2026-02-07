@@ -14,7 +14,7 @@ chapter-title: "032 — Olhos de Ressaca"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-032-olhos-de-ressaca.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-032-olhos-de-ressaca"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 032 — Olhos de Ressaca."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 032 — Olhos de Ressaca."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-032-olhos-de-ressaca.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-032-olhos-de-ressaca"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "032 — Olhos de Ressaca",
         "identifier": "00-04-032",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-032-olhos-de-ressaca.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-032-olhos-de-ressaca.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-032-olhos-de-ressaca",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-032-olhos-de-ressaca",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 032 — Olhos de Ressaca.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "032 — Olhos de Ressaca",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-032-olhos-de-ressaca.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-032-olhos-de-ressaca"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 032 — Olhos de Ressaca
 

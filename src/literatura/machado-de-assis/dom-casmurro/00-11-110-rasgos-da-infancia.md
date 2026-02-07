@@ -14,7 +14,7 @@ chapter-title: "110 — Rasgos da Infância"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-110-rasgos-da-infancia.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-110-rasgos-da-infancia"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 110 — Rasgos da Infância."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 110 — Rasgos da Infância."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-110-rasgos-da-infancia.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-110-rasgos-da-infancia"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "110 — Rasgos da Infância",
         "identifier": "00-11-110",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-110-rasgos-da-infancia.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-110-rasgos-da-infancia.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-110-rasgos-da-infancia",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-110-rasgos-da-infancia",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 110 — Rasgos da Infância.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "110 — Rasgos da Infância",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-110-rasgos-da-infancia.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-110-rasgos-da-infancia"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 110 — Rasgos da Infância
 

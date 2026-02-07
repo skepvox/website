@@ -14,7 +14,7 @@ chapter-title: "078 — A Presidência"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-078-a-presidencia.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-078-a-presidencia"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 078 — A Presidência."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 078 — A Presidência."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-078-a-presidencia.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-078-a-presidencia"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "078 — A Presidência",
         "identifier": "00-11-078",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-078-a-presidencia.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-078-a-presidencia.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-078-a-presidencia",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-078-a-presidencia",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 078 — A Presidência.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "078 — A Presidência",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-078-a-presidencia.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-078-a-presidencia"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 078 — A Presidência
 

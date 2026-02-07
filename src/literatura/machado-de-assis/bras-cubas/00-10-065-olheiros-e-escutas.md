@@ -14,7 +14,7 @@ chapter-title: "065 — Olheiros e Escutas"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-065-olheiros-e-escutas.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-065-olheiros-e-escutas"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 065 — Olheiros e Escutas."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 065 — Olheiros e Escutas."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-065-olheiros-e-escutas.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-065-olheiros-e-escutas"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "065 — Olheiros e Escutas",
         "identifier": "00-10-065",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-065-olheiros-e-escutas.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-065-olheiros-e-escutas.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-065-olheiros-e-escutas",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-065-olheiros-e-escutas",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 065 — Olheiros e Escutas.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "065 — Olheiros e Escutas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-065-olheiros-e-escutas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-065-olheiros-e-escutas"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 065 — Olheiros e Escutas
 

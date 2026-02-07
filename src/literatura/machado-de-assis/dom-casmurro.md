@@ -5,7 +5,7 @@ outline: 2
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis, com capítulos separados para leitura."
@@ -17,7 +17,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis, com capítulos separados para leitura."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
   - - meta
     - property: og:type
       content: book
@@ -54,896 +54,896 @@ head:
           "name": "Machado de Assis"
         },
         "inLanguage": "pt-BR",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis, com capítulos separados para leitura.",
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "hasPart": [
           {
             "@type": "Chapter",
             "name": "001 — Do Título",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-001-do-titulo.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-001-do-titulo",
             "identifier": "00-01-001"
           },
           {
             "@type": "Chapter",
             "name": "002 — Do Livro",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-002-do-livro.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-002-do-livro",
             "identifier": "00-01-002"
           },
           {
             "@type": "Chapter",
             "name": "003 — A Denúncia",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-003-a-denuncia.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-003-a-denuncia",
             "identifier": "00-01-003"
           },
           {
             "@type": "Chapter",
             "name": "004 — Um Dever Amaríssimo!",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-004-um-dever-amarissimo.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-004-um-dever-amarissimo",
             "identifier": "00-01-004"
           },
           {
             "@type": "Chapter",
             "name": "005 — O Agregado",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-005-o-agregado.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-005-o-agregado",
             "identifier": "00-01-005"
           },
           {
             "@type": "Chapter",
             "name": "006 — Tio Cosme",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-006-tio-cosme.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-006-tio-cosme",
             "identifier": "00-01-006"
           },
           {
             "@type": "Chapter",
             "name": "007 — D. Glória",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-007-d-gloria.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-007-d-gloria",
             "identifier": "00-01-007"
           },
           {
             "@type": "Chapter",
             "name": "008 — É Tempo",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-008-e-tempo.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-008-e-tempo",
             "identifier": "00-01-008"
           },
           {
             "@type": "Chapter",
             "name": "009 — A Ópera",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-009-a-opera.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-009-a-opera",
             "identifier": "00-01-009"
           },
           {
             "@type": "Chapter",
             "name": "010 — Aceito a Teoria",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-010-aceito-a-teoria.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-010-aceito-a-teoria",
             "identifier": "00-01-010"
           },
           {
             "@type": "Chapter",
             "name": "011 — A Promessa",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-011-a-promessa.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-011-a-promessa",
             "identifier": "00-02-011"
           },
           {
             "@type": "Chapter",
             "name": "012 — Na Varanda",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-012-na-varanda.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-012-na-varanda",
             "identifier": "00-02-012"
           },
           {
             "@type": "Chapter",
             "name": "013 — Capitu",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-013-capitu.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-013-capitu",
             "identifier": "00-02-013"
           },
           {
             "@type": "Chapter",
             "name": "014 — A Inscrição",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-014-a-inscricao.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-014-a-inscricao",
             "identifier": "00-02-014"
           },
           {
             "@type": "Chapter",
             "name": "015 — Outra Voz Repentina",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-015-outra-voz-repentina.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-015-outra-voz-repentina",
             "identifier": "00-02-015"
           },
           {
             "@type": "Chapter",
             "name": "016 — O Administrador Interino",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-016-o-administrador-interino.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-016-o-administrador-interino",
             "identifier": "00-02-016"
           },
           {
             "@type": "Chapter",
             "name": "017 — Os Vermes \"Ele Fere Ecura!",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-017-os-vermes-ele-fere-ecura.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-017-os-vermes-ele-fere-ecura",
             "identifier": "00-02-017"
           },
           {
             "@type": "Chapter",
             "name": "018 — Um Plano",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-018-um-plano.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-018-um-plano",
             "identifier": "00-02-018"
           },
           {
             "@type": "Chapter",
             "name": "019 — Sem Falta",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-019-sem-falta.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-019-sem-falta",
             "identifier": "00-02-019"
           },
           {
             "@type": "Chapter",
             "name": "020 — Mil PADRE-NOSSOS Emil AVE-MARIAS",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-020-mil-padre-nossos-emil-ave-marias.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-020-mil-padre-nossos-emil-ave-marias",
             "identifier": "00-02-020"
           },
           {
             "@type": "Chapter",
             "name": "021 — Prima Justina",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-021-prima-justina.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-021-prima-justina",
             "identifier": "00-03-021"
           },
           {
             "@type": "Chapter",
             "name": "022 — Sensações Alheias",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-022-sensacoes-alheias.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-022-sensacoes-alheias",
             "identifier": "00-03-022"
           },
           {
             "@type": "Chapter",
             "name": "023 — Prazo Dado",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-023-prazo-dado.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-023-prazo-dado",
             "identifier": "00-03-023"
           },
           {
             "@type": "Chapter",
             "name": "024 — De Mãe Ede Servo",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-024-de-mae-ede-servo.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-024-de-mae-ede-servo",
             "identifier": "00-03-024"
           },
           {
             "@type": "Chapter",
             "name": "025 — No Passeio Público",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-025-no-passeio-publico.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-025-no-passeio-publico",
             "identifier": "00-03-025"
           },
           {
             "@type": "Chapter",
             "name": "026 — As Leis São Belas",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-026-as-leis-sao-belas.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-026-as-leis-sao-belas",
             "identifier": "00-03-026"
           },
           {
             "@type": "Chapter",
             "name": "027 — Ao Portão",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-027-ao-portao.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-027-ao-portao",
             "identifier": "00-03-027"
           },
           {
             "@type": "Chapter",
             "name": "028 — Na Rua",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-028-na-rua.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-028-na-rua",
             "identifier": "00-03-028"
           },
           {
             "@type": "Chapter",
             "name": "029 — O Imperador",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-029-o-imperador.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-029-o-imperador",
             "identifier": "00-03-029"
           },
           {
             "@type": "Chapter",
             "name": "030 — O Santísslmo",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-030-o-santisslmo.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-030-o-santisslmo",
             "identifier": "00-03-030"
           },
           {
             "@type": "Chapter",
             "name": "031 — As Curiosidades de Capitu",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-031-as-curiosidades-de-capitu.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-031-as-curiosidades-de-capitu",
             "identifier": "00-04-031"
           },
           {
             "@type": "Chapter",
             "name": "032 — Olhos de Ressaca",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-032-olhos-de-ressaca.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-032-olhos-de-ressaca",
             "identifier": "00-04-032"
           },
           {
             "@type": "Chapter",
             "name": "033 — O Penteado",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-033-o-penteado.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-033-o-penteado",
             "identifier": "00-04-033"
           },
           {
             "@type": "Chapter",
             "name": "034 — Sou Homem!",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-034-sou-homem.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-034-sou-homem",
             "identifier": "00-04-034"
           },
           {
             "@type": "Chapter",
             "name": "035 — O Protonotário Apostólico",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-035-o-protonotario-apostolico.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-035-o-protonotario-apostolico",
             "identifier": "00-04-035"
           },
           {
             "@type": "Chapter",
             "name": "036 — Ideia sem Pernas Eideia sem Braços",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-036-ideia-sem-pernas-eideia-sem-bracos.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-036-ideia-sem-pernas-eideia-sem-bracos",
             "identifier": "00-04-036"
           },
           {
             "@type": "Chapter",
             "name": "037 — A Alma Echeia de Mistérios",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-037-a-alma-echeia-de-misterios.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-037-a-alma-echeia-de-misterios",
             "identifier": "00-04-037"
           },
           {
             "@type": "Chapter",
             "name": "038 — Que Susto, Meu Deus!",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-038-que-susto-meu-deus.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-038-que-susto-meu-deus",
             "identifier": "00-04-038"
           },
           {
             "@type": "Chapter",
             "name": "039 — A Vocação",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-039-a-vocacao.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-039-a-vocacao",
             "identifier": "00-04-039"
           },
           {
             "@type": "Chapter",
             "name": "040 — Uma Égua",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-040-uma-egua.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-040-uma-egua",
             "identifier": "00-04-040"
           },
           {
             "@type": "Chapter",
             "name": "041 — A Audiência Secreta",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-041-a-audiencia-secreta.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-041-a-audiencia-secreta",
             "identifier": "00-05-041"
           },
           {
             "@type": "Chapter",
             "name": "042 — Capitu Refletindo",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-042-capitu-refletindo.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-042-capitu-refletindo",
             "identifier": "00-05-042"
           },
           {
             "@type": "Chapter",
             "name": "043 — Você Tem Medo?",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-043-voce-tem-medo.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-043-voce-tem-medo",
             "identifier": "00-05-043"
           },
           {
             "@type": "Chapter",
             "name": "044 — O Primeiro Filho",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-044-o-primeiro-filho.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-044-o-primeiro-filho",
             "identifier": "00-05-044"
           },
           {
             "@type": "Chapter",
             "name": "045 — Abane a Cabeça, Leitor",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-045-abane-a-cabeca-leitor.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-045-abane-a-cabeca-leitor",
             "identifier": "00-05-045"
           },
           {
             "@type": "Chapter",
             "name": "046 — As Pazes",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-046-as-pazes.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-046-as-pazes",
             "identifier": "00-05-046"
           },
           {
             "@type": "Chapter",
             "name": "047 — \"Asenhora Saiu",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-047-asenhora-saiu.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-047-asenhora-saiu",
             "identifier": "00-05-047"
           },
           {
             "@type": "Chapter",
             "name": "048 — Juramento do Poço",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-048-juramento-do-poco.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-048-juramento-do-poco",
             "identifier": "00-05-048"
           },
           {
             "@type": "Chapter",
             "name": "049 — Uma Vela aos Sábados",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-049-uma-vela-aos-sabados.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-049-uma-vela-aos-sabados",
             "identifier": "00-05-049"
           },
           {
             "@type": "Chapter",
             "name": "050 — Um MEIO-TERMO",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-050-um-meio-termo.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-050-um-meio-termo",
             "identifier": "00-05-050"
           },
           {
             "@type": "Chapter",
             "name": "051 — Entre Luz Efusco",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-051-entre-luz-efusco.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-051-entre-luz-efusco",
             "identifier": "00-06-051"
           },
           {
             "@type": "Chapter",
             "name": "052 — O Velho Pádua",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-052-o-velho-padua.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-052-o-velho-padua",
             "identifier": "00-06-052"
           },
           {
             "@type": "Chapter",
             "name": "053 — A Caminho!",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-053-a-caminho.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-053-a-caminho",
             "identifier": "00-06-053"
           },
           {
             "@type": "Chapter",
             "name": "054 — Panegírico de Santa Mônica",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-054-panegirico-de-santa-monica.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-054-panegirico-de-santa-monica",
             "identifier": "00-06-054"
           },
           {
             "@type": "Chapter",
             "name": "055 — Um Soneto",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-055-um-soneto.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-055-um-soneto",
             "identifier": "00-06-055"
           },
           {
             "@type": "Chapter",
             "name": "056 — Um Seminarista",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-056-um-seminarista.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-056-um-seminarista",
             "identifier": "00-06-056"
           },
           {
             "@type": "Chapter",
             "name": "057 — De Preparação",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-057-de-preparacao.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-057-de-preparacao",
             "identifier": "00-06-057"
           },
           {
             "@type": "Chapter",
             "name": "058 — O Tratado",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-058-o-tratado.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-058-o-tratado",
             "identifier": "00-06-058"
           },
           {
             "@type": "Chapter",
             "name": "059 — Convivas de Boa Memória",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-059-convivas-de-boa-memoria.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-059-convivas-de-boa-memoria",
             "identifier": "00-06-059"
           },
           {
             "@type": "Chapter",
             "name": "060 — Querido Opúsculo",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-060-querido-opusculo.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-060-querido-opusculo",
             "identifier": "00-06-060"
           },
           {
             "@type": "Chapter",
             "name": "061 — A Vaca de Homero",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-061-a-vaca-de-homero.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-061-a-vaca-de-homero",
             "identifier": "00-07-061"
           },
           {
             "@type": "Chapter",
             "name": "062 — Uma Ponta de Iago",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-062-uma-ponta-de-iago.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-062-uma-ponta-de-iago",
             "identifier": "00-07-062"
           },
           {
             "@type": "Chapter",
             "name": "063 — Metades de um Sonho",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-063-metades-de-um-sonho.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-063-metades-de-um-sonho",
             "identifier": "00-07-063"
           },
           {
             "@type": "Chapter",
             "name": "064 — Uma Ideia Eum Escrúpulo",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-064-uma-ideia-eum-escrupulo.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-064-uma-ideia-eum-escrupulo",
             "identifier": "00-07-064"
           },
           {
             "@type": "Chapter",
             "name": "065 — A Dissimulação",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-065-a-dissimulacao.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-065-a-dissimulacao",
             "identifier": "00-07-065"
           },
           {
             "@type": "Chapter",
             "name": "066 — Intimidade",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-066-intimidade.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-066-intimidade",
             "identifier": "00-07-066"
           },
           {
             "@type": "Chapter",
             "name": "067 — Um Pecado",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-067-um-pecado.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-067-um-pecado",
             "identifier": "00-07-067"
           },
           {
             "@type": "Chapter",
             "name": "068 — Adiemos a Virtude",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-068-adiemos-a-virtude.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-068-adiemos-a-virtude",
             "identifier": "00-07-068"
           },
           {
             "@type": "Chapter",
             "name": "069 — A Missa",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-069-a-missa.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-069-a-missa",
             "identifier": "00-07-069"
           },
           {
             "@type": "Chapter",
             "name": "070 — Depois da Missa",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-070-depois-da-missa.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-070-depois-da-missa",
             "identifier": "00-07-070"
           },
           {
             "@type": "Chapter",
             "name": "071 — Visita de Escobar",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-071-visita-de-escobar.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-071-visita-de-escobar",
             "identifier": "00-08-071"
           },
           {
             "@type": "Chapter",
             "name": "072 — Uma Reforma Dramática",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-072-uma-reforma-dramatica.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-072-uma-reforma-dramatica",
             "identifier": "00-08-072"
           },
           {
             "@type": "Chapter",
             "name": "073 — O Contrarregra",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-073-o-contrarregra.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-073-o-contrarregra",
             "identifier": "00-08-073"
           },
           {
             "@type": "Chapter",
             "name": "074 — A Presilha",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-074-a-presilha.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-074-a-presilha",
             "identifier": "00-08-074"
           },
           {
             "@type": "Chapter",
             "name": "075 — O Desespero",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-075-o-desespero.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-075-o-desespero",
             "identifier": "00-08-075"
           },
           {
             "@type": "Chapter",
             "name": "076 — Explicação",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-076-explicacao.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-076-explicacao",
             "identifier": "00-08-076"
           },
           {
             "@type": "Chapter",
             "name": "077 — Prazer das Dores Velhas",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-077-prazer-das-dores-velhas.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-077-prazer-das-dores-velhas",
             "identifier": "00-08-077"
           },
           {
             "@type": "Chapter",
             "name": "078 — Segredo por Segredo",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-078-segredo-por-segredo.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-078-segredo-por-segredo",
             "identifier": "00-08-078"
           },
           {
             "@type": "Chapter",
             "name": "079 — Vamos ao Capítulo",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-079-vamos-ao-capitulo.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-079-vamos-ao-capitulo",
             "identifier": "00-08-079"
           },
           {
             "@type": "Chapter",
             "name": "080 — Venhamos ao Capítulo",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-080-venhamos-ao-capitulo.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-080-venhamos-ao-capitulo",
             "identifier": "00-08-080"
           },
           {
             "@type": "Chapter",
             "name": "081 — Uma Palavra",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-081-uma-palavra.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-081-uma-palavra",
             "identifier": "00-09-081"
           },
           {
             "@type": "Chapter",
             "name": "082 — O Canapé",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-082-o-canape.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-082-o-canape",
             "identifier": "00-09-082"
           },
           {
             "@type": "Chapter",
             "name": "083 — O Retrato",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-083-o-retrato.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-083-o-retrato",
             "identifier": "00-09-083"
           },
           {
             "@type": "Chapter",
             "name": "084 — Chamado",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-084-chamado.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-084-chamado",
             "identifier": "00-09-084"
           },
           {
             "@type": "Chapter",
             "name": "085 — O Defunto",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-085-o-defunto.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-085-o-defunto",
             "identifier": "00-09-085"
           },
           {
             "@type": "Chapter",
             "name": "086 — Amai, Rapazes!",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-086-amai-rapazes.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-086-amai-rapazes",
             "identifier": "00-09-086"
           },
           {
             "@type": "Chapter",
             "name": "087 — A Sege",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-087-a-sege.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-087-a-sege",
             "identifier": "00-09-087"
           },
           {
             "@type": "Chapter",
             "name": "088 — Um Pretexto Honesto",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-088-um-pretexto-honesto.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-088-um-pretexto-honesto",
             "identifier": "00-09-088"
           },
           {
             "@type": "Chapter",
             "name": "089 — A Reclusa",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-089-a-reclusa.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-089-a-reclusa",
             "identifier": "00-09-089"
           },
           {
             "@type": "Chapter",
             "name": "090 — A Polêmica",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-090-a-polemica.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-090-a-polemica",
             "identifier": "00-09-090"
           },
           {
             "@type": "Chapter",
             "name": "091 — Achado que Consola",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-091-achado-que-consola.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-091-achado-que-consola",
             "identifier": "00-10-091"
           },
           {
             "@type": "Chapter",
             "name": "092 — O Diabo Não É Tão Feio como Se Pinta",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-092-o-diabo-nao-e-tao-feio-como-se-pinta.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-092-o-diabo-nao-e-tao-feio-como-se-pinta",
             "identifier": "00-10-092"
           },
           {
             "@type": "Chapter",
             "name": "093 — Um Amigo por um Defunto",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-093-um-amigo-por-um-defunto.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-093-um-amigo-por-um-defunto",
             "identifier": "00-10-093"
           },
           {
             "@type": "Chapter",
             "name": "094 — Ideias Aritméticas",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-094-ideias-aritmeticas.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-094-ideias-aritmeticas",
             "identifier": "00-10-094"
           },
           {
             "@type": "Chapter",
             "name": "095 — O Papa",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-095-o-papa.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-095-o-papa",
             "identifier": "00-10-095"
           },
           {
             "@type": "Chapter",
             "name": "096 — O Substituto",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-096-o-substituto.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-096-o-substituto",
             "identifier": "00-10-096"
           },
           {
             "@type": "Chapter",
             "name": "097 — A Saída",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-097-a-saida.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-097-a-saida",
             "identifier": "00-10-097"
           },
           {
             "@type": "Chapter",
             "name": "098 — Cinco Anos",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-098-cinco-anos.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-098-cinco-anos",
             "identifier": "00-10-098"
           },
           {
             "@type": "Chapter",
             "name": "099 — O Filho É a Cara do Pai",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-099-o-filho-e-a-cara-do-pai.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-099-o-filho-e-a-cara-do-pai",
             "identifier": "00-10-099"
           },
           {
             "@type": "Chapter",
             "name": "100 — \"Tu Serás Feliz, Bentinho",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-100-tu-seras-feliz-bentinho.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-100-tu-seras-feliz-bentinho",
             "identifier": "00-10-100"
           },
           {
             "@type": "Chapter",
             "name": "101 — No Céu",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-101-no-ceu.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-101-no-ceu",
             "identifier": "00-11-101"
           },
           {
             "@type": "Chapter",
             "name": "102 — De Casada",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-102-de-casada.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-102-de-casada",
             "identifier": "00-11-102"
           },
           {
             "@type": "Chapter",
             "name": "103 — A Felicidade Tem Boa Alma",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-103-a-felicidade-tem-boa-alma.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-103-a-felicidade-tem-boa-alma",
             "identifier": "00-11-103"
           },
           {
             "@type": "Chapter",
             "name": "104 — As Pirâmides",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-104-as-piramides.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-104-as-piramides",
             "identifier": "00-11-104"
           },
           {
             "@type": "Chapter",
             "name": "105 — Os Braços",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-105-os-bracos.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-105-os-bracos",
             "identifier": "00-11-105"
           },
           {
             "@type": "Chapter",
             "name": "106 — Dez Libras Esterlinas",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-106-dez-libras-esterlinas.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-106-dez-libras-esterlinas",
             "identifier": "00-11-106"
           },
           {
             "@type": "Chapter",
             "name": "107 — Ciúmes do Mar",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-107-ciumes-do-mar.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-107-ciumes-do-mar",
             "identifier": "00-11-107"
           },
           {
             "@type": "Chapter",
             "name": "108 — Um Filho",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-108-um-filho.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-108-um-filho",
             "identifier": "00-11-108"
           },
           {
             "@type": "Chapter",
             "name": "109 — Um Filho Único",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-109-um-filho-unico.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-109-um-filho-unico",
             "identifier": "00-11-109"
           },
           {
             "@type": "Chapter",
             "name": "110 — Rasgos da Infância",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-110-rasgos-da-infancia.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-110-rasgos-da-infancia",
             "identifier": "00-11-110"
           },
           {
             "@type": "Chapter",
             "name": "111 — Contado Depressa",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-111-contado-depressa.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-111-contado-depressa",
             "identifier": "00-12-111"
           },
           {
             "@type": "Chapter",
             "name": "112 — As Imitações de Ezequiel",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-112-as-imitacoes-de-ezequiel.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-112-as-imitacoes-de-ezequiel",
             "identifier": "00-12-112"
           },
           {
             "@type": "Chapter",
             "name": "113 — Embargos de Terceiro",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-113-embargos-de-terceiro.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-113-embargos-de-terceiro",
             "identifier": "00-12-113"
           },
           {
             "@type": "Chapter",
             "name": "114 — Em que Se Explica o Explicado",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-114-em-que-se-explica-o-explicado.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-114-em-que-se-explica-o-explicado",
             "identifier": "00-12-114"
           },
           {
             "@type": "Chapter",
             "name": "115 — Dúvidas sobre Dúvidas",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-115-duvidas-sobre-duvidas.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-115-duvidas-sobre-duvidas",
             "identifier": "00-12-115"
           },
           {
             "@type": "Chapter",
             "name": "116 — Filho do Homem",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-116-filho-do-homem.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-116-filho-do-homem",
             "identifier": "00-12-116"
           },
           {
             "@type": "Chapter",
             "name": "117 — Amigos Próximos",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-117-amigos-proximos.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-117-amigos-proximos",
             "identifier": "00-12-117"
           },
           {
             "@type": "Chapter",
             "name": "118 — A Mão de Sancha",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-118-a-mao-de-sancha.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-118-a-mao-de-sancha",
             "identifier": "00-12-118"
           },
           {
             "@type": "Chapter",
             "name": "119 — Não Faça Isso, Querida!",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-119-nao-faca-isso-querida.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-119-nao-faca-isso-querida",
             "identifier": "00-12-119"
           },
           {
             "@type": "Chapter",
             "name": "120 — Os Autos",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-120-os-autos.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-120-os-autos",
             "identifier": "00-12-120"
           },
           {
             "@type": "Chapter",
             "name": "121 — A Catástrofe",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-121-a-catastrofe.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-121-a-catastrofe",
             "identifier": "00-13-121"
           },
           {
             "@type": "Chapter",
             "name": "122 — O Enterro",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-122-o-enterro.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-122-o-enterro",
             "identifier": "00-13-122"
           },
           {
             "@type": "Chapter",
             "name": "123 — Olhos de Ressaca",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-123-olhos-de-ressaca.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-123-olhos-de-ressaca",
             "identifier": "00-13-123"
           },
           {
             "@type": "Chapter",
             "name": "124 — O Discurso",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-124-o-discurso.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-124-o-discurso",
             "identifier": "00-13-124"
           },
           {
             "@type": "Chapter",
             "name": "125 — Uma Comparação",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-125-uma-comparacao.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-125-uma-comparacao",
             "identifier": "00-13-125"
           },
           {
             "@type": "Chapter",
             "name": "126 — Cismando",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-126-cismando.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-126-cismando",
             "identifier": "00-13-126"
           },
           {
             "@type": "Chapter",
             "name": "127 — O Barbeiro",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-127-o-barbeiro.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-127-o-barbeiro",
             "identifier": "00-13-127"
           },
           {
             "@type": "Chapter",
             "name": "128 — Punhado de Sucessos",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-128-punhado-de-sucessos.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-128-punhado-de-sucessos",
             "identifier": "00-13-128"
           },
           {
             "@type": "Chapter",
             "name": "129 — A D.SANCHA",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-129-a-d-sancha.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-129-a-d-sancha",
             "identifier": "00-13-129"
           },
           {
             "@type": "Chapter",
             "name": "130 — Um Dia...",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-130-um-dia.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-130-um-dia",
             "identifier": "00-13-130"
           },
           {
             "@type": "Chapter",
             "name": "131 — Anterior ao Anterior",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-131-anterior-ao-anterior.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-131-anterior-ao-anterior",
             "identifier": "00-14-131"
           },
           {
             "@type": "Chapter",
             "name": "132 — O Debuxo e o Colorido",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-132-o-debuxo-e-o-colorido.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-132-o-debuxo-e-o-colorido",
             "identifier": "00-14-132"
           },
           {
             "@type": "Chapter",
             "name": "133 — Uma Ideia",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-133-uma-ideia.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-133-uma-ideia",
             "identifier": "00-14-133"
           },
           {
             "@type": "Chapter",
             "name": "134 — O Dia de Sábado",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-134-o-dia-de-sabado.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-134-o-dia-de-sabado",
             "identifier": "00-14-134"
           },
           {
             "@type": "Chapter",
             "name": "135 — Otelo",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-135-otelo.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-135-otelo",
             "identifier": "00-14-135"
           },
           {
             "@type": "Chapter",
             "name": "136 — A Xícara de Café",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-136-a-xicara-de-cafe.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-136-a-xicara-de-cafe",
             "identifier": "00-14-136"
           },
           {
             "@type": "Chapter",
             "name": "137 — Segundo Impulso",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-137-segundo-impulso.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-137-segundo-impulso",
             "identifier": "00-14-137"
           },
           {
             "@type": "Chapter",
             "name": "138 — Capitu que Entra",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-138-capitu-que-entra.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-138-capitu-que-entra",
             "identifier": "00-14-138"
           },
           {
             "@type": "Chapter",
             "name": "139 — A Fotografia",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-139-a-fotografia.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-139-a-fotografia",
             "identifier": "00-14-139"
           },
           {
             "@type": "Chapter",
             "name": "140 — Volta da Igreja",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-140-volta-da-igreja.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-140-volta-da-igreja",
             "identifier": "00-14-140"
           },
           {
             "@type": "Chapter",
             "name": "141 — A Solução",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-141-a-solucao.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-141-a-solucao",
             "identifier": "00-15-141"
           },
           {
             "@type": "Chapter",
             "name": "142 — Uma Santa",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-142-uma-santa.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-142-uma-santa",
             "identifier": "00-15-142"
           },
           {
             "@type": "Chapter",
             "name": "143 — O Último Superlativo",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-143-o-ultimo-superlativo.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-143-o-ultimo-superlativo",
             "identifier": "00-15-143"
           },
           {
             "@type": "Chapter",
             "name": "144 — Uma Pergunta Tardia",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-144-uma-pergunta-tardia.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-144-uma-pergunta-tardia",
             "identifier": "00-15-144"
           },
           {
             "@type": "Chapter",
             "name": "145 — O Regresso",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-145-o-regresso.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-145-o-regresso",
             "identifier": "00-15-145"
           },
           {
             "@type": "Chapter",
             "name": "146 — Não Houve Lepra",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-146-nao-houve-lepra.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-146-nao-houve-lepra",
             "identifier": "00-15-146"
           },
           {
             "@type": "Chapter",
             "name": "147 — A Exposição Retrospectiva",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-147-a-exposicao-retrospectiva.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-147-a-exposicao-retrospectiva",
             "identifier": "00-15-147"
           },
           {
             "@type": "Chapter",
             "name": "148 — Ebem, e o Resto?",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-148-ebem-e-o-resto.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-148-ebem-e-o-resto",
             "identifier": "00-15-148"
           }
         ]
@@ -961,889 +961,889 @@ head:
             "@type": "ListItem",
             "position": 1,
             "name": "001 — Do Título",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-001-do-titulo.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-001-do-titulo"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "002 — Do Livro",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-002-do-livro.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-002-do-livro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "003 — A Denúncia",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-003-a-denuncia.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-003-a-denuncia"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "004 — Um Dever Amaríssimo!",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-004-um-dever-amarissimo.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-004-um-dever-amarissimo"
           },
           {
             "@type": "ListItem",
             "position": 5,
             "name": "005 — O Agregado",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-005-o-agregado.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-005-o-agregado"
           },
           {
             "@type": "ListItem",
             "position": 6,
             "name": "006 — Tio Cosme",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-006-tio-cosme.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-006-tio-cosme"
           },
           {
             "@type": "ListItem",
             "position": 7,
             "name": "007 — D. Glória",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-007-d-gloria.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-007-d-gloria"
           },
           {
             "@type": "ListItem",
             "position": 8,
             "name": "008 — É Tempo",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-008-e-tempo.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-008-e-tempo"
           },
           {
             "@type": "ListItem",
             "position": 9,
             "name": "009 — A Ópera",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-009-a-opera.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-009-a-opera"
           },
           {
             "@type": "ListItem",
             "position": 10,
             "name": "010 — Aceito a Teoria",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-010-aceito-a-teoria.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-01-010-aceito-a-teoria"
           },
           {
             "@type": "ListItem",
             "position": 11,
             "name": "011 — A Promessa",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-011-a-promessa.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-011-a-promessa"
           },
           {
             "@type": "ListItem",
             "position": 12,
             "name": "012 — Na Varanda",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-012-na-varanda.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-012-na-varanda"
           },
           {
             "@type": "ListItem",
             "position": 13,
             "name": "013 — Capitu",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-013-capitu.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-013-capitu"
           },
           {
             "@type": "ListItem",
             "position": 14,
             "name": "014 — A Inscrição",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-014-a-inscricao.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-014-a-inscricao"
           },
           {
             "@type": "ListItem",
             "position": 15,
             "name": "015 — Outra Voz Repentina",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-015-outra-voz-repentina.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-015-outra-voz-repentina"
           },
           {
             "@type": "ListItem",
             "position": 16,
             "name": "016 — O Administrador Interino",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-016-o-administrador-interino.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-016-o-administrador-interino"
           },
           {
             "@type": "ListItem",
             "position": 17,
             "name": "017 — Os Vermes \"Ele Fere Ecura!",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-017-os-vermes-ele-fere-ecura.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-017-os-vermes-ele-fere-ecura"
           },
           {
             "@type": "ListItem",
             "position": 18,
             "name": "018 — Um Plano",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-018-um-plano.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-018-um-plano"
           },
           {
             "@type": "ListItem",
             "position": 19,
             "name": "019 — Sem Falta",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-019-sem-falta.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-019-sem-falta"
           },
           {
             "@type": "ListItem",
             "position": 20,
             "name": "020 — Mil PADRE-NOSSOS Emil AVE-MARIAS",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-020-mil-padre-nossos-emil-ave-marias.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-020-mil-padre-nossos-emil-ave-marias"
           },
           {
             "@type": "ListItem",
             "position": 21,
             "name": "021 — Prima Justina",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-021-prima-justina.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-021-prima-justina"
           },
           {
             "@type": "ListItem",
             "position": 22,
             "name": "022 — Sensações Alheias",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-022-sensacoes-alheias.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-022-sensacoes-alheias"
           },
           {
             "@type": "ListItem",
             "position": 23,
             "name": "023 — Prazo Dado",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-023-prazo-dado.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-023-prazo-dado"
           },
           {
             "@type": "ListItem",
             "position": 24,
             "name": "024 — De Mãe Ede Servo",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-024-de-mae-ede-servo.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-024-de-mae-ede-servo"
           },
           {
             "@type": "ListItem",
             "position": 25,
             "name": "025 — No Passeio Público",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-025-no-passeio-publico.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-025-no-passeio-publico"
           },
           {
             "@type": "ListItem",
             "position": 26,
             "name": "026 — As Leis São Belas",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-026-as-leis-sao-belas.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-026-as-leis-sao-belas"
           },
           {
             "@type": "ListItem",
             "position": 27,
             "name": "027 — Ao Portão",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-027-ao-portao.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-027-ao-portao"
           },
           {
             "@type": "ListItem",
             "position": 28,
             "name": "028 — Na Rua",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-028-na-rua.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-028-na-rua"
           },
           {
             "@type": "ListItem",
             "position": 29,
             "name": "029 — O Imperador",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-029-o-imperador.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-029-o-imperador"
           },
           {
             "@type": "ListItem",
             "position": 30,
             "name": "030 — O Santísslmo",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-030-o-santisslmo.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-030-o-santisslmo"
           },
           {
             "@type": "ListItem",
             "position": 31,
             "name": "031 — As Curiosidades de Capitu",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-031-as-curiosidades-de-capitu.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-031-as-curiosidades-de-capitu"
           },
           {
             "@type": "ListItem",
             "position": 32,
             "name": "032 — Olhos de Ressaca",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-032-olhos-de-ressaca.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-032-olhos-de-ressaca"
           },
           {
             "@type": "ListItem",
             "position": 33,
             "name": "033 — O Penteado",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-033-o-penteado.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-033-o-penteado"
           },
           {
             "@type": "ListItem",
             "position": 34,
             "name": "034 — Sou Homem!",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-034-sou-homem.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-034-sou-homem"
           },
           {
             "@type": "ListItem",
             "position": 35,
             "name": "035 — O Protonotário Apostólico",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-035-o-protonotario-apostolico.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-035-o-protonotario-apostolico"
           },
           {
             "@type": "ListItem",
             "position": 36,
             "name": "036 — Ideia sem Pernas Eideia sem Braços",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-036-ideia-sem-pernas-eideia-sem-bracos.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-036-ideia-sem-pernas-eideia-sem-bracos"
           },
           {
             "@type": "ListItem",
             "position": 37,
             "name": "037 — A Alma Echeia de Mistérios",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-037-a-alma-echeia-de-misterios.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-037-a-alma-echeia-de-misterios"
           },
           {
             "@type": "ListItem",
             "position": 38,
             "name": "038 — Que Susto, Meu Deus!",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-038-que-susto-meu-deus.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-038-que-susto-meu-deus"
           },
           {
             "@type": "ListItem",
             "position": 39,
             "name": "039 — A Vocação",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-039-a-vocacao.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-039-a-vocacao"
           },
           {
             "@type": "ListItem",
             "position": 40,
             "name": "040 — Uma Égua",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-040-uma-egua.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-040-uma-egua"
           },
           {
             "@type": "ListItem",
             "position": 41,
             "name": "041 — A Audiência Secreta",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-041-a-audiencia-secreta.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-041-a-audiencia-secreta"
           },
           {
             "@type": "ListItem",
             "position": 42,
             "name": "042 — Capitu Refletindo",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-042-capitu-refletindo.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-042-capitu-refletindo"
           },
           {
             "@type": "ListItem",
             "position": 43,
             "name": "043 — Você Tem Medo?",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-043-voce-tem-medo.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-043-voce-tem-medo"
           },
           {
             "@type": "ListItem",
             "position": 44,
             "name": "044 — O Primeiro Filho",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-044-o-primeiro-filho.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-044-o-primeiro-filho"
           },
           {
             "@type": "ListItem",
             "position": 45,
             "name": "045 — Abane a Cabeça, Leitor",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-045-abane-a-cabeca-leitor.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-045-abane-a-cabeca-leitor"
           },
           {
             "@type": "ListItem",
             "position": 46,
             "name": "046 — As Pazes",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-046-as-pazes.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-046-as-pazes"
           },
           {
             "@type": "ListItem",
             "position": 47,
             "name": "047 — \"Asenhora Saiu",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-047-asenhora-saiu.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-047-asenhora-saiu"
           },
           {
             "@type": "ListItem",
             "position": 48,
             "name": "048 — Juramento do Poço",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-048-juramento-do-poco.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-048-juramento-do-poco"
           },
           {
             "@type": "ListItem",
             "position": 49,
             "name": "049 — Uma Vela aos Sábados",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-049-uma-vela-aos-sabados.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-049-uma-vela-aos-sabados"
           },
           {
             "@type": "ListItem",
             "position": 50,
             "name": "050 — Um MEIO-TERMO",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-050-um-meio-termo.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-050-um-meio-termo"
           },
           {
             "@type": "ListItem",
             "position": 51,
             "name": "051 — Entre Luz Efusco",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-051-entre-luz-efusco.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-051-entre-luz-efusco"
           },
           {
             "@type": "ListItem",
             "position": 52,
             "name": "052 — O Velho Pádua",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-052-o-velho-padua.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-052-o-velho-padua"
           },
           {
             "@type": "ListItem",
             "position": 53,
             "name": "053 — A Caminho!",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-053-a-caminho.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-053-a-caminho"
           },
           {
             "@type": "ListItem",
             "position": 54,
             "name": "054 — Panegírico de Santa Mônica",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-054-panegirico-de-santa-monica.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-054-panegirico-de-santa-monica"
           },
           {
             "@type": "ListItem",
             "position": 55,
             "name": "055 — Um Soneto",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-055-um-soneto.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-055-um-soneto"
           },
           {
             "@type": "ListItem",
             "position": 56,
             "name": "056 — Um Seminarista",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-056-um-seminarista.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-056-um-seminarista"
           },
           {
             "@type": "ListItem",
             "position": 57,
             "name": "057 — De Preparação",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-057-de-preparacao.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-057-de-preparacao"
           },
           {
             "@type": "ListItem",
             "position": 58,
             "name": "058 — O Tratado",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-058-o-tratado.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-058-o-tratado"
           },
           {
             "@type": "ListItem",
             "position": 59,
             "name": "059 — Convivas de Boa Memória",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-059-convivas-de-boa-memoria.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-059-convivas-de-boa-memoria"
           },
           {
             "@type": "ListItem",
             "position": 60,
             "name": "060 — Querido Opúsculo",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-060-querido-opusculo.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-060-querido-opusculo"
           },
           {
             "@type": "ListItem",
             "position": 61,
             "name": "061 — A Vaca de Homero",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-061-a-vaca-de-homero.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-061-a-vaca-de-homero"
           },
           {
             "@type": "ListItem",
             "position": 62,
             "name": "062 — Uma Ponta de Iago",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-062-uma-ponta-de-iago.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-062-uma-ponta-de-iago"
           },
           {
             "@type": "ListItem",
             "position": 63,
             "name": "063 — Metades de um Sonho",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-063-metades-de-um-sonho.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-063-metades-de-um-sonho"
           },
           {
             "@type": "ListItem",
             "position": 64,
             "name": "064 — Uma Ideia Eum Escrúpulo",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-064-uma-ideia-eum-escrupulo.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-064-uma-ideia-eum-escrupulo"
           },
           {
             "@type": "ListItem",
             "position": 65,
             "name": "065 — A Dissimulação",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-065-a-dissimulacao.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-065-a-dissimulacao"
           },
           {
             "@type": "ListItem",
             "position": 66,
             "name": "066 — Intimidade",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-066-intimidade.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-066-intimidade"
           },
           {
             "@type": "ListItem",
             "position": 67,
             "name": "067 — Um Pecado",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-067-um-pecado.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-067-um-pecado"
           },
           {
             "@type": "ListItem",
             "position": 68,
             "name": "068 — Adiemos a Virtude",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-068-adiemos-a-virtude.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-068-adiemos-a-virtude"
           },
           {
             "@type": "ListItem",
             "position": 69,
             "name": "069 — A Missa",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-069-a-missa.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-069-a-missa"
           },
           {
             "@type": "ListItem",
             "position": 70,
             "name": "070 — Depois da Missa",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-070-depois-da-missa.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-07-070-depois-da-missa"
           },
           {
             "@type": "ListItem",
             "position": 71,
             "name": "071 — Visita de Escobar",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-071-visita-de-escobar.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-071-visita-de-escobar"
           },
           {
             "@type": "ListItem",
             "position": 72,
             "name": "072 — Uma Reforma Dramática",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-072-uma-reforma-dramatica.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-072-uma-reforma-dramatica"
           },
           {
             "@type": "ListItem",
             "position": 73,
             "name": "073 — O Contrarregra",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-073-o-contrarregra.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-073-o-contrarregra"
           },
           {
             "@type": "ListItem",
             "position": 74,
             "name": "074 — A Presilha",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-074-a-presilha.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-074-a-presilha"
           },
           {
             "@type": "ListItem",
             "position": 75,
             "name": "075 — O Desespero",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-075-o-desespero.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-075-o-desespero"
           },
           {
             "@type": "ListItem",
             "position": 76,
             "name": "076 — Explicação",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-076-explicacao.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-076-explicacao"
           },
           {
             "@type": "ListItem",
             "position": 77,
             "name": "077 — Prazer das Dores Velhas",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-077-prazer-das-dores-velhas.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-077-prazer-das-dores-velhas"
           },
           {
             "@type": "ListItem",
             "position": 78,
             "name": "078 — Segredo por Segredo",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-078-segredo-por-segredo.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-078-segredo-por-segredo"
           },
           {
             "@type": "ListItem",
             "position": 79,
             "name": "079 — Vamos ao Capítulo",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-079-vamos-ao-capitulo.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-079-vamos-ao-capitulo"
           },
           {
             "@type": "ListItem",
             "position": 80,
             "name": "080 — Venhamos ao Capítulo",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-080-venhamos-ao-capitulo.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-080-venhamos-ao-capitulo"
           },
           {
             "@type": "ListItem",
             "position": 81,
             "name": "081 — Uma Palavra",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-081-uma-palavra.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-081-uma-palavra"
           },
           {
             "@type": "ListItem",
             "position": 82,
             "name": "082 — O Canapé",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-082-o-canape.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-082-o-canape"
           },
           {
             "@type": "ListItem",
             "position": 83,
             "name": "083 — O Retrato",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-083-o-retrato.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-083-o-retrato"
           },
           {
             "@type": "ListItem",
             "position": 84,
             "name": "084 — Chamado",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-084-chamado.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-084-chamado"
           },
           {
             "@type": "ListItem",
             "position": 85,
             "name": "085 — O Defunto",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-085-o-defunto.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-085-o-defunto"
           },
           {
             "@type": "ListItem",
             "position": 86,
             "name": "086 — Amai, Rapazes!",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-086-amai-rapazes.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-086-amai-rapazes"
           },
           {
             "@type": "ListItem",
             "position": 87,
             "name": "087 — A Sege",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-087-a-sege.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-087-a-sege"
           },
           {
             "@type": "ListItem",
             "position": 88,
             "name": "088 — Um Pretexto Honesto",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-088-um-pretexto-honesto.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-088-um-pretexto-honesto"
           },
           {
             "@type": "ListItem",
             "position": 89,
             "name": "089 — A Reclusa",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-089-a-reclusa.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-089-a-reclusa"
           },
           {
             "@type": "ListItem",
             "position": 90,
             "name": "090 — A Polêmica",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-090-a-polemica.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-090-a-polemica"
           },
           {
             "@type": "ListItem",
             "position": 91,
             "name": "091 — Achado que Consola",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-091-achado-que-consola.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-091-achado-que-consola"
           },
           {
             "@type": "ListItem",
             "position": 92,
             "name": "092 — O Diabo Não É Tão Feio como Se Pinta",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-092-o-diabo-nao-e-tao-feio-como-se-pinta.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-092-o-diabo-nao-e-tao-feio-como-se-pinta"
           },
           {
             "@type": "ListItem",
             "position": 93,
             "name": "093 — Um Amigo por um Defunto",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-093-um-amigo-por-um-defunto.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-093-um-amigo-por-um-defunto"
           },
           {
             "@type": "ListItem",
             "position": 94,
             "name": "094 — Ideias Aritméticas",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-094-ideias-aritmeticas.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-094-ideias-aritmeticas"
           },
           {
             "@type": "ListItem",
             "position": 95,
             "name": "095 — O Papa",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-095-o-papa.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-095-o-papa"
           },
           {
             "@type": "ListItem",
             "position": 96,
             "name": "096 — O Substituto",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-096-o-substituto.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-096-o-substituto"
           },
           {
             "@type": "ListItem",
             "position": 97,
             "name": "097 — A Saída",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-097-a-saida.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-097-a-saida"
           },
           {
             "@type": "ListItem",
             "position": 98,
             "name": "098 — Cinco Anos",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-098-cinco-anos.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-098-cinco-anos"
           },
           {
             "@type": "ListItem",
             "position": 99,
             "name": "099 — O Filho É a Cara do Pai",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-099-o-filho-e-a-cara-do-pai.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-099-o-filho-e-a-cara-do-pai"
           },
           {
             "@type": "ListItem",
             "position": 100,
             "name": "100 — \"Tu Serás Feliz, Bentinho",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-100-tu-seras-feliz-bentinho.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-100-tu-seras-feliz-bentinho"
           },
           {
             "@type": "ListItem",
             "position": 101,
             "name": "101 — No Céu",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-101-no-ceu.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-101-no-ceu"
           },
           {
             "@type": "ListItem",
             "position": 102,
             "name": "102 — De Casada",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-102-de-casada.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-102-de-casada"
           },
           {
             "@type": "ListItem",
             "position": 103,
             "name": "103 — A Felicidade Tem Boa Alma",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-103-a-felicidade-tem-boa-alma.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-103-a-felicidade-tem-boa-alma"
           },
           {
             "@type": "ListItem",
             "position": 104,
             "name": "104 — As Pirâmides",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-104-as-piramides.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-104-as-piramides"
           },
           {
             "@type": "ListItem",
             "position": 105,
             "name": "105 — Os Braços",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-105-os-bracos.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-105-os-bracos"
           },
           {
             "@type": "ListItem",
             "position": 106,
             "name": "106 — Dez Libras Esterlinas",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-106-dez-libras-esterlinas.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-106-dez-libras-esterlinas"
           },
           {
             "@type": "ListItem",
             "position": 107,
             "name": "107 — Ciúmes do Mar",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-107-ciumes-do-mar.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-107-ciumes-do-mar"
           },
           {
             "@type": "ListItem",
             "position": 108,
             "name": "108 — Um Filho",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-108-um-filho.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-108-um-filho"
           },
           {
             "@type": "ListItem",
             "position": 109,
             "name": "109 — Um Filho Único",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-109-um-filho-unico.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-109-um-filho-unico"
           },
           {
             "@type": "ListItem",
             "position": 110,
             "name": "110 — Rasgos da Infância",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-110-rasgos-da-infancia.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-110-rasgos-da-infancia"
           },
           {
             "@type": "ListItem",
             "position": 111,
             "name": "111 — Contado Depressa",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-111-contado-depressa.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-111-contado-depressa"
           },
           {
             "@type": "ListItem",
             "position": 112,
             "name": "112 — As Imitações de Ezequiel",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-112-as-imitacoes-de-ezequiel.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-112-as-imitacoes-de-ezequiel"
           },
           {
             "@type": "ListItem",
             "position": 113,
             "name": "113 — Embargos de Terceiro",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-113-embargos-de-terceiro.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-113-embargos-de-terceiro"
           },
           {
             "@type": "ListItem",
             "position": 114,
             "name": "114 — Em que Se Explica o Explicado",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-114-em-que-se-explica-o-explicado.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-114-em-que-se-explica-o-explicado"
           },
           {
             "@type": "ListItem",
             "position": 115,
             "name": "115 — Dúvidas sobre Dúvidas",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-115-duvidas-sobre-duvidas.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-115-duvidas-sobre-duvidas"
           },
           {
             "@type": "ListItem",
             "position": 116,
             "name": "116 — Filho do Homem",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-116-filho-do-homem.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-116-filho-do-homem"
           },
           {
             "@type": "ListItem",
             "position": 117,
             "name": "117 — Amigos Próximos",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-117-amigos-proximos.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-117-amigos-proximos"
           },
           {
             "@type": "ListItem",
             "position": 118,
             "name": "118 — A Mão de Sancha",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-118-a-mao-de-sancha.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-118-a-mao-de-sancha"
           },
           {
             "@type": "ListItem",
             "position": 119,
             "name": "119 — Não Faça Isso, Querida!",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-119-nao-faca-isso-querida.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-119-nao-faca-isso-querida"
           },
           {
             "@type": "ListItem",
             "position": 120,
             "name": "120 — Os Autos",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-120-os-autos.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-12-120-os-autos"
           },
           {
             "@type": "ListItem",
             "position": 121,
             "name": "121 — A Catástrofe",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-121-a-catastrofe.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-121-a-catastrofe"
           },
           {
             "@type": "ListItem",
             "position": 122,
             "name": "122 — O Enterro",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-122-o-enterro.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-122-o-enterro"
           },
           {
             "@type": "ListItem",
             "position": 123,
             "name": "123 — Olhos de Ressaca",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-123-olhos-de-ressaca.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-123-olhos-de-ressaca"
           },
           {
             "@type": "ListItem",
             "position": 124,
             "name": "124 — O Discurso",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-124-o-discurso.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-124-o-discurso"
           },
           {
             "@type": "ListItem",
             "position": 125,
             "name": "125 — Uma Comparação",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-125-uma-comparacao.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-125-uma-comparacao"
           },
           {
             "@type": "ListItem",
             "position": 126,
             "name": "126 — Cismando",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-126-cismando.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-126-cismando"
           },
           {
             "@type": "ListItem",
             "position": 127,
             "name": "127 — O Barbeiro",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-127-o-barbeiro.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-127-o-barbeiro"
           },
           {
             "@type": "ListItem",
             "position": 128,
             "name": "128 — Punhado de Sucessos",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-128-punhado-de-sucessos.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-128-punhado-de-sucessos"
           },
           {
             "@type": "ListItem",
             "position": 129,
             "name": "129 — A D.SANCHA",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-129-a-d-sancha.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-129-a-d-sancha"
           },
           {
             "@type": "ListItem",
             "position": 130,
             "name": "130 — Um Dia...",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-130-um-dia.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-130-um-dia"
           },
           {
             "@type": "ListItem",
             "position": 131,
             "name": "131 — Anterior ao Anterior",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-131-anterior-ao-anterior.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-131-anterior-ao-anterior"
           },
           {
             "@type": "ListItem",
             "position": 132,
             "name": "132 — O Debuxo e o Colorido",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-132-o-debuxo-e-o-colorido.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-132-o-debuxo-e-o-colorido"
           },
           {
             "@type": "ListItem",
             "position": 133,
             "name": "133 — Uma Ideia",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-133-uma-ideia.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-133-uma-ideia"
           },
           {
             "@type": "ListItem",
             "position": 134,
             "name": "134 — O Dia de Sábado",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-134-o-dia-de-sabado.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-134-o-dia-de-sabado"
           },
           {
             "@type": "ListItem",
             "position": 135,
             "name": "135 — Otelo",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-135-otelo.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-135-otelo"
           },
           {
             "@type": "ListItem",
             "position": 136,
             "name": "136 — A Xícara de Café",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-136-a-xicara-de-cafe.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-136-a-xicara-de-cafe"
           },
           {
             "@type": "ListItem",
             "position": 137,
             "name": "137 — Segundo Impulso",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-137-segundo-impulso.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-137-segundo-impulso"
           },
           {
             "@type": "ListItem",
             "position": 138,
             "name": "138 — Capitu que Entra",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-138-capitu-que-entra.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-138-capitu-que-entra"
           },
           {
             "@type": "ListItem",
             "position": 139,
             "name": "139 — A Fotografia",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-139-a-fotografia.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-139-a-fotografia"
           },
           {
             "@type": "ListItem",
             "position": 140,
             "name": "140 — Volta da Igreja",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-140-volta-da-igreja.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-140-volta-da-igreja"
           },
           {
             "@type": "ListItem",
             "position": 141,
             "name": "141 — A Solução",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-141-a-solucao.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-141-a-solucao"
           },
           {
             "@type": "ListItem",
             "position": 142,
             "name": "142 — Uma Santa",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-142-uma-santa.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-142-uma-santa"
           },
           {
             "@type": "ListItem",
             "position": 143,
             "name": "143 — O Último Superlativo",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-143-o-ultimo-superlativo.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-143-o-ultimo-superlativo"
           },
           {
             "@type": "ListItem",
             "position": 144,
             "name": "144 — Uma Pergunta Tardia",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-144-uma-pergunta-tardia.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-144-uma-pergunta-tardia"
           },
           {
             "@type": "ListItem",
             "position": 145,
             "name": "145 — O Regresso",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-145-o-regresso.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-145-o-regresso"
           },
           {
             "@type": "ListItem",
             "position": 146,
             "name": "146 — Não Houve Lepra",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-146-nao-houve-lepra.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-146-nao-houve-lepra"
           },
           {
             "@type": "ListItem",
             "position": 147,
             "name": "147 — A Exposição Retrospectiva",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-147-a-exposicao-retrospectiva.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-147-a-exposicao-retrospectiva"
           },
           {
             "@type": "ListItem",
             "position": 148,
             "name": "148 — Ebem, e o Resto?",
-            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-148-ebem-e-o-resto.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-148-ebem-e-o-resto"
           }
         ]
       }
@@ -1864,7 +1864,7 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           }
         ]
       }
@@ -1872,171 +1872,171 @@ head:
 
 # Dom Casmurro
 
-## Sumário
+**Sumário**
 
 - Capítulos 001 — 010
-  - [001 — Do Título](/literatura/machado-de-assis/dom-casmurro/00-01-001-do-titulo.html)
-  - [002 — Do Livro](/literatura/machado-de-assis/dom-casmurro/00-01-002-do-livro.html)
-  - [003 — A Denúncia](/literatura/machado-de-assis/dom-casmurro/00-01-003-a-denuncia.html)
-  - [004 — Um Dever Amaríssimo!](/literatura/machado-de-assis/dom-casmurro/00-01-004-um-dever-amarissimo.html)
-  - [005 — O Agregado](/literatura/machado-de-assis/dom-casmurro/00-01-005-o-agregado.html)
-  - [006 — Tio Cosme](/literatura/machado-de-assis/dom-casmurro/00-01-006-tio-cosme.html)
-  - [007 — D. Glória](/literatura/machado-de-assis/dom-casmurro/00-01-007-d-gloria.html)
-  - [008 — É Tempo](/literatura/machado-de-assis/dom-casmurro/00-01-008-e-tempo.html)
-  - [009 — A Ópera](/literatura/machado-de-assis/dom-casmurro/00-01-009-a-opera.html)
-  - [010 — Aceito a Teoria](/literatura/machado-de-assis/dom-casmurro/00-01-010-aceito-a-teoria.html)
+  - [001 — Do Título](/literatura/machado-de-assis/dom-casmurro/00-01-001-do-titulo)
+  - [002 — Do Livro](/literatura/machado-de-assis/dom-casmurro/00-01-002-do-livro)
+  - [003 — A Denúncia](/literatura/machado-de-assis/dom-casmurro/00-01-003-a-denuncia)
+  - [004 — Um Dever Amaríssimo!](/literatura/machado-de-assis/dom-casmurro/00-01-004-um-dever-amarissimo)
+  - [005 — O Agregado](/literatura/machado-de-assis/dom-casmurro/00-01-005-o-agregado)
+  - [006 — Tio Cosme](/literatura/machado-de-assis/dom-casmurro/00-01-006-tio-cosme)
+  - [007 — D. Glória](/literatura/machado-de-assis/dom-casmurro/00-01-007-d-gloria)
+  - [008 — É Tempo](/literatura/machado-de-assis/dom-casmurro/00-01-008-e-tempo)
+  - [009 — A Ópera](/literatura/machado-de-assis/dom-casmurro/00-01-009-a-opera)
+  - [010 — Aceito a Teoria](/literatura/machado-de-assis/dom-casmurro/00-01-010-aceito-a-teoria)
 - Capítulos 011 — 020
-  - [011 — A Promessa](/literatura/machado-de-assis/dom-casmurro/00-02-011-a-promessa.html)
-  - [012 — Na Varanda](/literatura/machado-de-assis/dom-casmurro/00-02-012-na-varanda.html)
-  - [013 — Capitu](/literatura/machado-de-assis/dom-casmurro/00-02-013-capitu.html)
-  - [014 — A Inscrição](/literatura/machado-de-assis/dom-casmurro/00-02-014-a-inscricao.html)
-  - [015 — Outra Voz Repentina](/literatura/machado-de-assis/dom-casmurro/00-02-015-outra-voz-repentina.html)
-  - [016 — O Administrador Interino](/literatura/machado-de-assis/dom-casmurro/00-02-016-o-administrador-interino.html)
-  - [017 — Os Vermes "Ele Fere Ecura!](/literatura/machado-de-assis/dom-casmurro/00-02-017-os-vermes-ele-fere-ecura.html)
-  - [018 — Um Plano](/literatura/machado-de-assis/dom-casmurro/00-02-018-um-plano.html)
-  - [019 — Sem Falta](/literatura/machado-de-assis/dom-casmurro/00-02-019-sem-falta.html)
-  - [020 — Mil PADRE-NOSSOS Emil AVE-MARIAS](/literatura/machado-de-assis/dom-casmurro/00-02-020-mil-padre-nossos-emil-ave-marias.html)
+  - [011 — A Promessa](/literatura/machado-de-assis/dom-casmurro/00-02-011-a-promessa)
+  - [012 — Na Varanda](/literatura/machado-de-assis/dom-casmurro/00-02-012-na-varanda)
+  - [013 — Capitu](/literatura/machado-de-assis/dom-casmurro/00-02-013-capitu)
+  - [014 — A Inscrição](/literatura/machado-de-assis/dom-casmurro/00-02-014-a-inscricao)
+  - [015 — Outra Voz Repentina](/literatura/machado-de-assis/dom-casmurro/00-02-015-outra-voz-repentina)
+  - [016 — O Administrador Interino](/literatura/machado-de-assis/dom-casmurro/00-02-016-o-administrador-interino)
+  - [017 — Os Vermes "Ele Fere Ecura!](/literatura/machado-de-assis/dom-casmurro/00-02-017-os-vermes-ele-fere-ecura)
+  - [018 — Um Plano](/literatura/machado-de-assis/dom-casmurro/00-02-018-um-plano)
+  - [019 — Sem Falta](/literatura/machado-de-assis/dom-casmurro/00-02-019-sem-falta)
+  - [020 — Mil PADRE-NOSSOS Emil AVE-MARIAS](/literatura/machado-de-assis/dom-casmurro/00-02-020-mil-padre-nossos-emil-ave-marias)
 - Capítulos 021 — 030
-  - [021 — Prima Justina](/literatura/machado-de-assis/dom-casmurro/00-03-021-prima-justina.html)
-  - [022 — Sensações Alheias](/literatura/machado-de-assis/dom-casmurro/00-03-022-sensacoes-alheias.html)
-  - [023 — Prazo Dado](/literatura/machado-de-assis/dom-casmurro/00-03-023-prazo-dado.html)
-  - [024 — De Mãe Ede Servo](/literatura/machado-de-assis/dom-casmurro/00-03-024-de-mae-ede-servo.html)
-  - [025 — No Passeio Público](/literatura/machado-de-assis/dom-casmurro/00-03-025-no-passeio-publico.html)
-  - [026 — As Leis São Belas](/literatura/machado-de-assis/dom-casmurro/00-03-026-as-leis-sao-belas.html)
-  - [027 — Ao Portão](/literatura/machado-de-assis/dom-casmurro/00-03-027-ao-portao.html)
-  - [028 — Na Rua](/literatura/machado-de-assis/dom-casmurro/00-03-028-na-rua.html)
-  - [029 — O Imperador](/literatura/machado-de-assis/dom-casmurro/00-03-029-o-imperador.html)
-  - [030 — O Santísslmo](/literatura/machado-de-assis/dom-casmurro/00-03-030-o-santisslmo.html)
+  - [021 — Prima Justina](/literatura/machado-de-assis/dom-casmurro/00-03-021-prima-justina)
+  - [022 — Sensações Alheias](/literatura/machado-de-assis/dom-casmurro/00-03-022-sensacoes-alheias)
+  - [023 — Prazo Dado](/literatura/machado-de-assis/dom-casmurro/00-03-023-prazo-dado)
+  - [024 — De Mãe Ede Servo](/literatura/machado-de-assis/dom-casmurro/00-03-024-de-mae-ede-servo)
+  - [025 — No Passeio Público](/literatura/machado-de-assis/dom-casmurro/00-03-025-no-passeio-publico)
+  - [026 — As Leis São Belas](/literatura/machado-de-assis/dom-casmurro/00-03-026-as-leis-sao-belas)
+  - [027 — Ao Portão](/literatura/machado-de-assis/dom-casmurro/00-03-027-ao-portao)
+  - [028 — Na Rua](/literatura/machado-de-assis/dom-casmurro/00-03-028-na-rua)
+  - [029 — O Imperador](/literatura/machado-de-assis/dom-casmurro/00-03-029-o-imperador)
+  - [030 — O Santísslmo](/literatura/machado-de-assis/dom-casmurro/00-03-030-o-santisslmo)
 - Capítulos 031 — 040
-  - [031 — As Curiosidades de Capitu](/literatura/machado-de-assis/dom-casmurro/00-04-031-as-curiosidades-de-capitu.html)
-  - [032 — Olhos de Ressaca](/literatura/machado-de-assis/dom-casmurro/00-04-032-olhos-de-ressaca.html)
-  - [033 — O Penteado](/literatura/machado-de-assis/dom-casmurro/00-04-033-o-penteado.html)
-  - [034 — Sou Homem!](/literatura/machado-de-assis/dom-casmurro/00-04-034-sou-homem.html)
-  - [035 — O Protonotário Apostólico](/literatura/machado-de-assis/dom-casmurro/00-04-035-o-protonotario-apostolico.html)
-  - [036 — Ideia sem Pernas Eideia sem Braços](/literatura/machado-de-assis/dom-casmurro/00-04-036-ideia-sem-pernas-eideia-sem-bracos.html)
-  - [037 — A Alma Echeia de Mistérios](/literatura/machado-de-assis/dom-casmurro/00-04-037-a-alma-echeia-de-misterios.html)
-  - [038 — Que Susto, Meu Deus!](/literatura/machado-de-assis/dom-casmurro/00-04-038-que-susto-meu-deus.html)
-  - [039 — A Vocação](/literatura/machado-de-assis/dom-casmurro/00-04-039-a-vocacao.html)
-  - [040 — Uma Égua](/literatura/machado-de-assis/dom-casmurro/00-04-040-uma-egua.html)
+  - [031 — As Curiosidades de Capitu](/literatura/machado-de-assis/dom-casmurro/00-04-031-as-curiosidades-de-capitu)
+  - [032 — Olhos de Ressaca](/literatura/machado-de-assis/dom-casmurro/00-04-032-olhos-de-ressaca)
+  - [033 — O Penteado](/literatura/machado-de-assis/dom-casmurro/00-04-033-o-penteado)
+  - [034 — Sou Homem!](/literatura/machado-de-assis/dom-casmurro/00-04-034-sou-homem)
+  - [035 — O Protonotário Apostólico](/literatura/machado-de-assis/dom-casmurro/00-04-035-o-protonotario-apostolico)
+  - [036 — Ideia sem Pernas Eideia sem Braços](/literatura/machado-de-assis/dom-casmurro/00-04-036-ideia-sem-pernas-eideia-sem-bracos)
+  - [037 — A Alma Echeia de Mistérios](/literatura/machado-de-assis/dom-casmurro/00-04-037-a-alma-echeia-de-misterios)
+  - [038 — Que Susto, Meu Deus!](/literatura/machado-de-assis/dom-casmurro/00-04-038-que-susto-meu-deus)
+  - [039 — A Vocação](/literatura/machado-de-assis/dom-casmurro/00-04-039-a-vocacao)
+  - [040 — Uma Égua](/literatura/machado-de-assis/dom-casmurro/00-04-040-uma-egua)
 - Capítulos 041 — 050
-  - [041 — A Audiência Secreta](/literatura/machado-de-assis/dom-casmurro/00-05-041-a-audiencia-secreta.html)
-  - [042 — Capitu Refletindo](/literatura/machado-de-assis/dom-casmurro/00-05-042-capitu-refletindo.html)
-  - [043 — Você Tem Medo?](/literatura/machado-de-assis/dom-casmurro/00-05-043-voce-tem-medo.html)
-  - [044 — O Primeiro Filho](/literatura/machado-de-assis/dom-casmurro/00-05-044-o-primeiro-filho.html)
-  - [045 — Abane a Cabeça, Leitor](/literatura/machado-de-assis/dom-casmurro/00-05-045-abane-a-cabeca-leitor.html)
-  - [046 — As Pazes](/literatura/machado-de-assis/dom-casmurro/00-05-046-as-pazes.html)
-  - [047 — "Asenhora Saiu](/literatura/machado-de-assis/dom-casmurro/00-05-047-asenhora-saiu.html)
-  - [048 — Juramento do Poço](/literatura/machado-de-assis/dom-casmurro/00-05-048-juramento-do-poco.html)
-  - [049 — Uma Vela aos Sábados](/literatura/machado-de-assis/dom-casmurro/00-05-049-uma-vela-aos-sabados.html)
-  - [050 — Um MEIO-TERMO](/literatura/machado-de-assis/dom-casmurro/00-05-050-um-meio-termo.html)
+  - [041 — A Audiência Secreta](/literatura/machado-de-assis/dom-casmurro/00-05-041-a-audiencia-secreta)
+  - [042 — Capitu Refletindo](/literatura/machado-de-assis/dom-casmurro/00-05-042-capitu-refletindo)
+  - [043 — Você Tem Medo?](/literatura/machado-de-assis/dom-casmurro/00-05-043-voce-tem-medo)
+  - [044 — O Primeiro Filho](/literatura/machado-de-assis/dom-casmurro/00-05-044-o-primeiro-filho)
+  - [045 — Abane a Cabeça, Leitor](/literatura/machado-de-assis/dom-casmurro/00-05-045-abane-a-cabeca-leitor)
+  - [046 — As Pazes](/literatura/machado-de-assis/dom-casmurro/00-05-046-as-pazes)
+  - [047 — "Asenhora Saiu](/literatura/machado-de-assis/dom-casmurro/00-05-047-asenhora-saiu)
+  - [048 — Juramento do Poço](/literatura/machado-de-assis/dom-casmurro/00-05-048-juramento-do-poco)
+  - [049 — Uma Vela aos Sábados](/literatura/machado-de-assis/dom-casmurro/00-05-049-uma-vela-aos-sabados)
+  - [050 — Um MEIO-TERMO](/literatura/machado-de-assis/dom-casmurro/00-05-050-um-meio-termo)
 - Capítulos 051 — 060
-  - [051 — Entre Luz Efusco](/literatura/machado-de-assis/dom-casmurro/00-06-051-entre-luz-efusco.html)
-  - [052 — O Velho Pádua](/literatura/machado-de-assis/dom-casmurro/00-06-052-o-velho-padua.html)
-  - [053 — A Caminho!](/literatura/machado-de-assis/dom-casmurro/00-06-053-a-caminho.html)
-  - [054 — Panegírico de Santa Mônica](/literatura/machado-de-assis/dom-casmurro/00-06-054-panegirico-de-santa-monica.html)
-  - [055 — Um Soneto](/literatura/machado-de-assis/dom-casmurro/00-06-055-um-soneto.html)
-  - [056 — Um Seminarista](/literatura/machado-de-assis/dom-casmurro/00-06-056-um-seminarista.html)
-  - [057 — De Preparação](/literatura/machado-de-assis/dom-casmurro/00-06-057-de-preparacao.html)
-  - [058 — O Tratado](/literatura/machado-de-assis/dom-casmurro/00-06-058-o-tratado.html)
-  - [059 — Convivas de Boa Memória](/literatura/machado-de-assis/dom-casmurro/00-06-059-convivas-de-boa-memoria.html)
-  - [060 — Querido Opúsculo](/literatura/machado-de-assis/dom-casmurro/00-06-060-querido-opusculo.html)
+  - [051 — Entre Luz Efusco](/literatura/machado-de-assis/dom-casmurro/00-06-051-entre-luz-efusco)
+  - [052 — O Velho Pádua](/literatura/machado-de-assis/dom-casmurro/00-06-052-o-velho-padua)
+  - [053 — A Caminho!](/literatura/machado-de-assis/dom-casmurro/00-06-053-a-caminho)
+  - [054 — Panegírico de Santa Mônica](/literatura/machado-de-assis/dom-casmurro/00-06-054-panegirico-de-santa-monica)
+  - [055 — Um Soneto](/literatura/machado-de-assis/dom-casmurro/00-06-055-um-soneto)
+  - [056 — Um Seminarista](/literatura/machado-de-assis/dom-casmurro/00-06-056-um-seminarista)
+  - [057 — De Preparação](/literatura/machado-de-assis/dom-casmurro/00-06-057-de-preparacao)
+  - [058 — O Tratado](/literatura/machado-de-assis/dom-casmurro/00-06-058-o-tratado)
+  - [059 — Convivas de Boa Memória](/literatura/machado-de-assis/dom-casmurro/00-06-059-convivas-de-boa-memoria)
+  - [060 — Querido Opúsculo](/literatura/machado-de-assis/dom-casmurro/00-06-060-querido-opusculo)
 - Capítulos 061 — 070
-  - [061 — A Vaca de Homero](/literatura/machado-de-assis/dom-casmurro/00-07-061-a-vaca-de-homero.html)
-  - [062 — Uma Ponta de Iago](/literatura/machado-de-assis/dom-casmurro/00-07-062-uma-ponta-de-iago.html)
-  - [063 — Metades de um Sonho](/literatura/machado-de-assis/dom-casmurro/00-07-063-metades-de-um-sonho.html)
-  - [064 — Uma Ideia Eum Escrúpulo](/literatura/machado-de-assis/dom-casmurro/00-07-064-uma-ideia-eum-escrupulo.html)
-  - [065 — A Dissimulação](/literatura/machado-de-assis/dom-casmurro/00-07-065-a-dissimulacao.html)
-  - [066 — Intimidade](/literatura/machado-de-assis/dom-casmurro/00-07-066-intimidade.html)
-  - [067 — Um Pecado](/literatura/machado-de-assis/dom-casmurro/00-07-067-um-pecado.html)
-  - [068 — Adiemos a Virtude](/literatura/machado-de-assis/dom-casmurro/00-07-068-adiemos-a-virtude.html)
-  - [069 — A Missa](/literatura/machado-de-assis/dom-casmurro/00-07-069-a-missa.html)
-  - [070 — Depois da Missa](/literatura/machado-de-assis/dom-casmurro/00-07-070-depois-da-missa.html)
+  - [061 — A Vaca de Homero](/literatura/machado-de-assis/dom-casmurro/00-07-061-a-vaca-de-homero)
+  - [062 — Uma Ponta de Iago](/literatura/machado-de-assis/dom-casmurro/00-07-062-uma-ponta-de-iago)
+  - [063 — Metades de um Sonho](/literatura/machado-de-assis/dom-casmurro/00-07-063-metades-de-um-sonho)
+  - [064 — Uma Ideia Eum Escrúpulo](/literatura/machado-de-assis/dom-casmurro/00-07-064-uma-ideia-eum-escrupulo)
+  - [065 — A Dissimulação](/literatura/machado-de-assis/dom-casmurro/00-07-065-a-dissimulacao)
+  - [066 — Intimidade](/literatura/machado-de-assis/dom-casmurro/00-07-066-intimidade)
+  - [067 — Um Pecado](/literatura/machado-de-assis/dom-casmurro/00-07-067-um-pecado)
+  - [068 — Adiemos a Virtude](/literatura/machado-de-assis/dom-casmurro/00-07-068-adiemos-a-virtude)
+  - [069 — A Missa](/literatura/machado-de-assis/dom-casmurro/00-07-069-a-missa)
+  - [070 — Depois da Missa](/literatura/machado-de-assis/dom-casmurro/00-07-070-depois-da-missa)
 - Capítulos 071 — 080
-  - [071 — Visita de Escobar](/literatura/machado-de-assis/dom-casmurro/00-08-071-visita-de-escobar.html)
-  - [072 — Uma Reforma Dramática](/literatura/machado-de-assis/dom-casmurro/00-08-072-uma-reforma-dramatica.html)
-  - [073 — O Contrarregra](/literatura/machado-de-assis/dom-casmurro/00-08-073-o-contrarregra.html)
-  - [074 — A Presilha](/literatura/machado-de-assis/dom-casmurro/00-08-074-a-presilha.html)
-  - [075 — O Desespero](/literatura/machado-de-assis/dom-casmurro/00-08-075-o-desespero.html)
-  - [076 — Explicação](/literatura/machado-de-assis/dom-casmurro/00-08-076-explicacao.html)
-  - [077 — Prazer das Dores Velhas](/literatura/machado-de-assis/dom-casmurro/00-08-077-prazer-das-dores-velhas.html)
-  - [078 — Segredo por Segredo](/literatura/machado-de-assis/dom-casmurro/00-08-078-segredo-por-segredo.html)
-  - [079 — Vamos ao Capítulo](/literatura/machado-de-assis/dom-casmurro/00-08-079-vamos-ao-capitulo.html)
-  - [080 — Venhamos ao Capítulo](/literatura/machado-de-assis/dom-casmurro/00-08-080-venhamos-ao-capitulo.html)
+  - [071 — Visita de Escobar](/literatura/machado-de-assis/dom-casmurro/00-08-071-visita-de-escobar)
+  - [072 — Uma Reforma Dramática](/literatura/machado-de-assis/dom-casmurro/00-08-072-uma-reforma-dramatica)
+  - [073 — O Contrarregra](/literatura/machado-de-assis/dom-casmurro/00-08-073-o-contrarregra)
+  - [074 — A Presilha](/literatura/machado-de-assis/dom-casmurro/00-08-074-a-presilha)
+  - [075 — O Desespero](/literatura/machado-de-assis/dom-casmurro/00-08-075-o-desespero)
+  - [076 — Explicação](/literatura/machado-de-assis/dom-casmurro/00-08-076-explicacao)
+  - [077 — Prazer das Dores Velhas](/literatura/machado-de-assis/dom-casmurro/00-08-077-prazer-das-dores-velhas)
+  - [078 — Segredo por Segredo](/literatura/machado-de-assis/dom-casmurro/00-08-078-segredo-por-segredo)
+  - [079 — Vamos ao Capítulo](/literatura/machado-de-assis/dom-casmurro/00-08-079-vamos-ao-capitulo)
+  - [080 — Venhamos ao Capítulo](/literatura/machado-de-assis/dom-casmurro/00-08-080-venhamos-ao-capitulo)
 - Capítulos 081 — 090
-  - [081 — Uma Palavra](/literatura/machado-de-assis/dom-casmurro/00-09-081-uma-palavra.html)
-  - [082 — O Canapé](/literatura/machado-de-assis/dom-casmurro/00-09-082-o-canape.html)
-  - [083 — O Retrato](/literatura/machado-de-assis/dom-casmurro/00-09-083-o-retrato.html)
-  - [084 — Chamado](/literatura/machado-de-assis/dom-casmurro/00-09-084-chamado.html)
-  - [085 — O Defunto](/literatura/machado-de-assis/dom-casmurro/00-09-085-o-defunto.html)
-  - [086 — Amai, Rapazes!](/literatura/machado-de-assis/dom-casmurro/00-09-086-amai-rapazes.html)
-  - [087 — A Sege](/literatura/machado-de-assis/dom-casmurro/00-09-087-a-sege.html)
-  - [088 — Um Pretexto Honesto](/literatura/machado-de-assis/dom-casmurro/00-09-088-um-pretexto-honesto.html)
-  - [089 — A Reclusa](/literatura/machado-de-assis/dom-casmurro/00-09-089-a-reclusa.html)
-  - [090 — A Polêmica](/literatura/machado-de-assis/dom-casmurro/00-09-090-a-polemica.html)
+  - [081 — Uma Palavra](/literatura/machado-de-assis/dom-casmurro/00-09-081-uma-palavra)
+  - [082 — O Canapé](/literatura/machado-de-assis/dom-casmurro/00-09-082-o-canape)
+  - [083 — O Retrato](/literatura/machado-de-assis/dom-casmurro/00-09-083-o-retrato)
+  - [084 — Chamado](/literatura/machado-de-assis/dom-casmurro/00-09-084-chamado)
+  - [085 — O Defunto](/literatura/machado-de-assis/dom-casmurro/00-09-085-o-defunto)
+  - [086 — Amai, Rapazes!](/literatura/machado-de-assis/dom-casmurro/00-09-086-amai-rapazes)
+  - [087 — A Sege](/literatura/machado-de-assis/dom-casmurro/00-09-087-a-sege)
+  - [088 — Um Pretexto Honesto](/literatura/machado-de-assis/dom-casmurro/00-09-088-um-pretexto-honesto)
+  - [089 — A Reclusa](/literatura/machado-de-assis/dom-casmurro/00-09-089-a-reclusa)
+  - [090 — A Polêmica](/literatura/machado-de-assis/dom-casmurro/00-09-090-a-polemica)
 - Capítulos 091 — 100
-  - [091 — Achado que Consola](/literatura/machado-de-assis/dom-casmurro/00-10-091-achado-que-consola.html)
-  - [092 — O Diabo Não É Tão Feio como Se Pinta](/literatura/machado-de-assis/dom-casmurro/00-10-092-o-diabo-nao-e-tao-feio-como-se-pinta.html)
-  - [093 — Um Amigo por um Defunto](/literatura/machado-de-assis/dom-casmurro/00-10-093-um-amigo-por-um-defunto.html)
-  - [094 — Ideias Aritméticas](/literatura/machado-de-assis/dom-casmurro/00-10-094-ideias-aritmeticas.html)
-  - [095 — O Papa](/literatura/machado-de-assis/dom-casmurro/00-10-095-o-papa.html)
-  - [096 — O Substituto](/literatura/machado-de-assis/dom-casmurro/00-10-096-o-substituto.html)
-  - [097 — A Saída](/literatura/machado-de-assis/dom-casmurro/00-10-097-a-saida.html)
-  - [098 — Cinco Anos](/literatura/machado-de-assis/dom-casmurro/00-10-098-cinco-anos.html)
-  - [099 — O Filho É a Cara do Pai](/literatura/machado-de-assis/dom-casmurro/00-10-099-o-filho-e-a-cara-do-pai.html)
-  - [100 — "Tu Serás Feliz, Bentinho](/literatura/machado-de-assis/dom-casmurro/00-10-100-tu-seras-feliz-bentinho.html)
+  - [091 — Achado que Consola](/literatura/machado-de-assis/dom-casmurro/00-10-091-achado-que-consola)
+  - [092 — O Diabo Não É Tão Feio como Se Pinta](/literatura/machado-de-assis/dom-casmurro/00-10-092-o-diabo-nao-e-tao-feio-como-se-pinta)
+  - [093 — Um Amigo por um Defunto](/literatura/machado-de-assis/dom-casmurro/00-10-093-um-amigo-por-um-defunto)
+  - [094 — Ideias Aritméticas](/literatura/machado-de-assis/dom-casmurro/00-10-094-ideias-aritmeticas)
+  - [095 — O Papa](/literatura/machado-de-assis/dom-casmurro/00-10-095-o-papa)
+  - [096 — O Substituto](/literatura/machado-de-assis/dom-casmurro/00-10-096-o-substituto)
+  - [097 — A Saída](/literatura/machado-de-assis/dom-casmurro/00-10-097-a-saida)
+  - [098 — Cinco Anos](/literatura/machado-de-assis/dom-casmurro/00-10-098-cinco-anos)
+  - [099 — O Filho É a Cara do Pai](/literatura/machado-de-assis/dom-casmurro/00-10-099-o-filho-e-a-cara-do-pai)
+  - [100 — "Tu Serás Feliz, Bentinho](/literatura/machado-de-assis/dom-casmurro/00-10-100-tu-seras-feliz-bentinho)
 - Capítulos 101 — 110
-  - [101 — No Céu](/literatura/machado-de-assis/dom-casmurro/00-11-101-no-ceu.html)
-  - [102 — De Casada](/literatura/machado-de-assis/dom-casmurro/00-11-102-de-casada.html)
-  - [103 — A Felicidade Tem Boa Alma](/literatura/machado-de-assis/dom-casmurro/00-11-103-a-felicidade-tem-boa-alma.html)
-  - [104 — As Pirâmides](/literatura/machado-de-assis/dom-casmurro/00-11-104-as-piramides.html)
-  - [105 — Os Braços](/literatura/machado-de-assis/dom-casmurro/00-11-105-os-bracos.html)
-  - [106 — Dez Libras Esterlinas](/literatura/machado-de-assis/dom-casmurro/00-11-106-dez-libras-esterlinas.html)
-  - [107 — Ciúmes do Mar](/literatura/machado-de-assis/dom-casmurro/00-11-107-ciumes-do-mar.html)
-  - [108 — Um Filho](/literatura/machado-de-assis/dom-casmurro/00-11-108-um-filho.html)
-  - [109 — Um Filho Único](/literatura/machado-de-assis/dom-casmurro/00-11-109-um-filho-unico.html)
-  - [110 — Rasgos da Infância](/literatura/machado-de-assis/dom-casmurro/00-11-110-rasgos-da-infancia.html)
+  - [101 — No Céu](/literatura/machado-de-assis/dom-casmurro/00-11-101-no-ceu)
+  - [102 — De Casada](/literatura/machado-de-assis/dom-casmurro/00-11-102-de-casada)
+  - [103 — A Felicidade Tem Boa Alma](/literatura/machado-de-assis/dom-casmurro/00-11-103-a-felicidade-tem-boa-alma)
+  - [104 — As Pirâmides](/literatura/machado-de-assis/dom-casmurro/00-11-104-as-piramides)
+  - [105 — Os Braços](/literatura/machado-de-assis/dom-casmurro/00-11-105-os-bracos)
+  - [106 — Dez Libras Esterlinas](/literatura/machado-de-assis/dom-casmurro/00-11-106-dez-libras-esterlinas)
+  - [107 — Ciúmes do Mar](/literatura/machado-de-assis/dom-casmurro/00-11-107-ciumes-do-mar)
+  - [108 — Um Filho](/literatura/machado-de-assis/dom-casmurro/00-11-108-um-filho)
+  - [109 — Um Filho Único](/literatura/machado-de-assis/dom-casmurro/00-11-109-um-filho-unico)
+  - [110 — Rasgos da Infância](/literatura/machado-de-assis/dom-casmurro/00-11-110-rasgos-da-infancia)
 - Capítulos 111 — 120
-  - [111 — Contado Depressa](/literatura/machado-de-assis/dom-casmurro/00-12-111-contado-depressa.html)
-  - [112 — As Imitações de Ezequiel](/literatura/machado-de-assis/dom-casmurro/00-12-112-as-imitacoes-de-ezequiel.html)
-  - [113 — Embargos de Terceiro](/literatura/machado-de-assis/dom-casmurro/00-12-113-embargos-de-terceiro.html)
-  - [114 — Em que Se Explica o Explicado](/literatura/machado-de-assis/dom-casmurro/00-12-114-em-que-se-explica-o-explicado.html)
-  - [115 — Dúvidas sobre Dúvidas](/literatura/machado-de-assis/dom-casmurro/00-12-115-duvidas-sobre-duvidas.html)
-  - [116 — Filho do Homem](/literatura/machado-de-assis/dom-casmurro/00-12-116-filho-do-homem.html)
-  - [117 — Amigos Próximos](/literatura/machado-de-assis/dom-casmurro/00-12-117-amigos-proximos.html)
-  - [118 — A Mão de Sancha](/literatura/machado-de-assis/dom-casmurro/00-12-118-a-mao-de-sancha.html)
-  - [119 — Não Faça Isso, Querida!](/literatura/machado-de-assis/dom-casmurro/00-12-119-nao-faca-isso-querida.html)
-  - [120 — Os Autos](/literatura/machado-de-assis/dom-casmurro/00-12-120-os-autos.html)
+  - [111 — Contado Depressa](/literatura/machado-de-assis/dom-casmurro/00-12-111-contado-depressa)
+  - [112 — As Imitações de Ezequiel](/literatura/machado-de-assis/dom-casmurro/00-12-112-as-imitacoes-de-ezequiel)
+  - [113 — Embargos de Terceiro](/literatura/machado-de-assis/dom-casmurro/00-12-113-embargos-de-terceiro)
+  - [114 — Em que Se Explica o Explicado](/literatura/machado-de-assis/dom-casmurro/00-12-114-em-que-se-explica-o-explicado)
+  - [115 — Dúvidas sobre Dúvidas](/literatura/machado-de-assis/dom-casmurro/00-12-115-duvidas-sobre-duvidas)
+  - [116 — Filho do Homem](/literatura/machado-de-assis/dom-casmurro/00-12-116-filho-do-homem)
+  - [117 — Amigos Próximos](/literatura/machado-de-assis/dom-casmurro/00-12-117-amigos-proximos)
+  - [118 — A Mão de Sancha](/literatura/machado-de-assis/dom-casmurro/00-12-118-a-mao-de-sancha)
+  - [119 — Não Faça Isso, Querida!](/literatura/machado-de-assis/dom-casmurro/00-12-119-nao-faca-isso-querida)
+  - [120 — Os Autos](/literatura/machado-de-assis/dom-casmurro/00-12-120-os-autos)
 - Capítulos 121 — 130
-  - [121 — A Catástrofe](/literatura/machado-de-assis/dom-casmurro/00-13-121-a-catastrofe.html)
-  - [122 — O Enterro](/literatura/machado-de-assis/dom-casmurro/00-13-122-o-enterro.html)
-  - [123 — Olhos de Ressaca](/literatura/machado-de-assis/dom-casmurro/00-13-123-olhos-de-ressaca.html)
-  - [124 — O Discurso](/literatura/machado-de-assis/dom-casmurro/00-13-124-o-discurso.html)
-  - [125 — Uma Comparação](/literatura/machado-de-assis/dom-casmurro/00-13-125-uma-comparacao.html)
-  - [126 — Cismando](/literatura/machado-de-assis/dom-casmurro/00-13-126-cismando.html)
-  - [127 — O Barbeiro](/literatura/machado-de-assis/dom-casmurro/00-13-127-o-barbeiro.html)
-  - [128 — Punhado de Sucessos](/literatura/machado-de-assis/dom-casmurro/00-13-128-punhado-de-sucessos.html)
-  - [129 — A D.SANCHA](/literatura/machado-de-assis/dom-casmurro/00-13-129-a-d-sancha.html)
-  - [130 — Um Dia...](/literatura/machado-de-assis/dom-casmurro/00-13-130-um-dia.html)
+  - [121 — A Catástrofe](/literatura/machado-de-assis/dom-casmurro/00-13-121-a-catastrofe)
+  - [122 — O Enterro](/literatura/machado-de-assis/dom-casmurro/00-13-122-o-enterro)
+  - [123 — Olhos de Ressaca](/literatura/machado-de-assis/dom-casmurro/00-13-123-olhos-de-ressaca)
+  - [124 — O Discurso](/literatura/machado-de-assis/dom-casmurro/00-13-124-o-discurso)
+  - [125 — Uma Comparação](/literatura/machado-de-assis/dom-casmurro/00-13-125-uma-comparacao)
+  - [126 — Cismando](/literatura/machado-de-assis/dom-casmurro/00-13-126-cismando)
+  - [127 — O Barbeiro](/literatura/machado-de-assis/dom-casmurro/00-13-127-o-barbeiro)
+  - [128 — Punhado de Sucessos](/literatura/machado-de-assis/dom-casmurro/00-13-128-punhado-de-sucessos)
+  - [129 — A D.SANCHA](/literatura/machado-de-assis/dom-casmurro/00-13-129-a-d-sancha)
+  - [130 — Um Dia...](/literatura/machado-de-assis/dom-casmurro/00-13-130-um-dia)
 - Capítulos 131 — 140
-  - [131 — Anterior ao Anterior](/literatura/machado-de-assis/dom-casmurro/00-14-131-anterior-ao-anterior.html)
-  - [132 — O Debuxo e o Colorido](/literatura/machado-de-assis/dom-casmurro/00-14-132-o-debuxo-e-o-colorido.html)
-  - [133 — Uma Ideia](/literatura/machado-de-assis/dom-casmurro/00-14-133-uma-ideia.html)
-  - [134 — O Dia de Sábado](/literatura/machado-de-assis/dom-casmurro/00-14-134-o-dia-de-sabado.html)
-  - [135 — Otelo](/literatura/machado-de-assis/dom-casmurro/00-14-135-otelo.html)
-  - [136 — A Xícara de Café](/literatura/machado-de-assis/dom-casmurro/00-14-136-a-xicara-de-cafe.html)
-  - [137 — Segundo Impulso](/literatura/machado-de-assis/dom-casmurro/00-14-137-segundo-impulso.html)
-  - [138 — Capitu que Entra](/literatura/machado-de-assis/dom-casmurro/00-14-138-capitu-que-entra.html)
-  - [139 — A Fotografia](/literatura/machado-de-assis/dom-casmurro/00-14-139-a-fotografia.html)
-  - [140 — Volta da Igreja](/literatura/machado-de-assis/dom-casmurro/00-14-140-volta-da-igreja.html)
+  - [131 — Anterior ao Anterior](/literatura/machado-de-assis/dom-casmurro/00-14-131-anterior-ao-anterior)
+  - [132 — O Debuxo e o Colorido](/literatura/machado-de-assis/dom-casmurro/00-14-132-o-debuxo-e-o-colorido)
+  - [133 — Uma Ideia](/literatura/machado-de-assis/dom-casmurro/00-14-133-uma-ideia)
+  - [134 — O Dia de Sábado](/literatura/machado-de-assis/dom-casmurro/00-14-134-o-dia-de-sabado)
+  - [135 — Otelo](/literatura/machado-de-assis/dom-casmurro/00-14-135-otelo)
+  - [136 — A Xícara de Café](/literatura/machado-de-assis/dom-casmurro/00-14-136-a-xicara-de-cafe)
+  - [137 — Segundo Impulso](/literatura/machado-de-assis/dom-casmurro/00-14-137-segundo-impulso)
+  - [138 — Capitu que Entra](/literatura/machado-de-assis/dom-casmurro/00-14-138-capitu-que-entra)
+  - [139 — A Fotografia](/literatura/machado-de-assis/dom-casmurro/00-14-139-a-fotografia)
+  - [140 — Volta da Igreja](/literatura/machado-de-assis/dom-casmurro/00-14-140-volta-da-igreja)
 - Capítulos 141 — 148
-  - [141 — A Solução](/literatura/machado-de-assis/dom-casmurro/00-15-141-a-solucao.html)
-  - [142 — Uma Santa](/literatura/machado-de-assis/dom-casmurro/00-15-142-uma-santa.html)
-  - [143 — O Último Superlativo](/literatura/machado-de-assis/dom-casmurro/00-15-143-o-ultimo-superlativo.html)
-  - [144 — Uma Pergunta Tardia](/literatura/machado-de-assis/dom-casmurro/00-15-144-uma-pergunta-tardia.html)
-  - [145 — O Regresso](/literatura/machado-de-assis/dom-casmurro/00-15-145-o-regresso.html)
-  - [146 — Não Houve Lepra](/literatura/machado-de-assis/dom-casmurro/00-15-146-nao-houve-lepra.html)
-  - [147 — A Exposição Retrospectiva](/literatura/machado-de-assis/dom-casmurro/00-15-147-a-exposicao-retrospectiva.html)
-  - [148 — Ebem, e o Resto?](/literatura/machado-de-assis/dom-casmurro/00-15-148-ebem-e-o-resto.html)
+  - [141 — A Solução](/literatura/machado-de-assis/dom-casmurro/00-15-141-a-solucao)
+  - [142 — Uma Santa](/literatura/machado-de-assis/dom-casmurro/00-15-142-uma-santa)
+  - [143 — O Último Superlativo](/literatura/machado-de-assis/dom-casmurro/00-15-143-o-ultimo-superlativo)
+  - [144 — Uma Pergunta Tardia](/literatura/machado-de-assis/dom-casmurro/00-15-144-uma-pergunta-tardia)
+  - [145 — O Regresso](/literatura/machado-de-assis/dom-casmurro/00-15-145-o-regresso)
+  - [146 — Não Houve Lepra](/literatura/machado-de-assis/dom-casmurro/00-15-146-nao-houve-lepra)
+  - [147 — A Exposição Retrospectiva](/literatura/machado-de-assis/dom-casmurro/00-15-147-a-exposicao-retrospectiva)
+  - [148 — Ebem, e o Resto?](/literatura/machado-de-assis/dom-casmurro/00-15-148-ebem-e-o-resto)
 
 ## Capítulos 001 — 010
 

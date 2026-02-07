@@ -5,7 +5,7 @@ outline: 2
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/la-conscience-de-soi.html"
+      href: "https://skepvox.com/louis-lavelle/la-conscience-de-soi"
   - - meta
     - name: description
       content: "Texte intégral en français de La conscience de soi de Louis Lavelle."
@@ -17,7 +17,7 @@ head:
       content: "Texte intégral en français de La conscience de soi de Louis Lavelle."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/la-conscience-de-soi.html"
+      content: "https://skepvox.com/louis-lavelle/la-conscience-de-soi"
   - - meta
     - property: og:type
       content: book
@@ -54,86 +54,86 @@ head:
           "name": "Louis Lavelle"
         },
         "inLanguage": "fr",
-        "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi.html",
+        "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi",
         "description": "Texte intégral en français de La conscience de soi de Louis Lavelle.",
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
         "hasPart": [
           {
             "@type": "Chapter",
             "name": "Préface",
-            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-000-preface.html",
+            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-000-preface",
             "identifier": "00-00-000"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre I. La conscience de soi",
-            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-001-la-presence-de-soi.html",
+            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-001-la-presence-de-soi",
             "identifier": "00-00-001"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre II. La connaissance",
-            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-002-le-moi-pur.html",
+            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-002-le-moi-pur",
             "identifier": "00-00-002"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre III. La naissance des idées",
-            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-003-les-jeux-de-l-amour-propre.html",
+            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-003-les-jeux-de-l-amour-propre",
             "identifier": "00-00-003"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre IV. Le message de l'écrivain",
-            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-004-analyse-et-confidence.html",
+            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-004-analyse-et-confidence",
             "identifier": "00-00-004"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre V. L'activité",
-            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-005-le-consentement.html",
+            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-005-le-consentement",
             "identifier": "00-00-005"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre VI. Le consentement",
-            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-006-la-solitude.html",
+            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-006-la-solitude",
             "identifier": "00-00-006"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre VII. Amour-propre et sincérité",
-            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-007-les-rapports-avec-autrui.html",
+            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-007-les-rapports-avec-autrui",
             "identifier": "00-00-007"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre VIII. Solitude et communion",
-            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-008-l-illusion-de-notre-importance.html",
+            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-008-l-illusion-de-notre-importance",
             "identifier": "00-00-008"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre IX. L'amour",
-            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-009-la-destinee.html",
+            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-009-la-destinee",
             "identifier": "00-00-009"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre X. Le temps",
-            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-010-le-temps.html",
+            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-010-le-temps",
             "identifier": "00-00-010"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre XI. La mort",
-            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-011-la-mort.html",
+            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-011-la-mort",
             "identifier": "00-00-011"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre XII. Les biens de l'esprit",
-            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-012-les-biens-de-l-esprit.html",
+            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-012-les-biens-de-l-esprit",
             "identifier": "00-00-012"
           }
         ]
@@ -151,79 +151,79 @@ head:
             "@type": "ListItem",
             "position": 1,
             "name": "Préface",
-            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-000-preface.html"
+            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-000-preface"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Chapitre I. La conscience de soi",
-            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-001-la-presence-de-soi.html"
+            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-001-la-presence-de-soi"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre II. La connaissance",
-            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-002-le-moi-pur.html"
+            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-002-le-moi-pur"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Chapitre III. La naissance des idées",
-            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-003-les-jeux-de-l-amour-propre.html"
+            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-003-les-jeux-de-l-amour-propre"
           },
           {
             "@type": "ListItem",
             "position": 5,
             "name": "Chapitre IV. Le message de l'écrivain",
-            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-004-analyse-et-confidence.html"
+            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-004-analyse-et-confidence"
           },
           {
             "@type": "ListItem",
             "position": 6,
             "name": "Chapitre V. L'activité",
-            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-005-le-consentement.html"
+            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-005-le-consentement"
           },
           {
             "@type": "ListItem",
             "position": 7,
             "name": "Chapitre VI. Le consentement",
-            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-006-la-solitude.html"
+            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-006-la-solitude"
           },
           {
             "@type": "ListItem",
             "position": 8,
             "name": "Chapitre VII. Amour-propre et sincérité",
-            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-007-les-rapports-avec-autrui.html"
+            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-007-les-rapports-avec-autrui"
           },
           {
             "@type": "ListItem",
             "position": 9,
             "name": "Chapitre VIII. Solitude et communion",
-            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-008-l-illusion-de-notre-importance.html"
+            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-008-l-illusion-de-notre-importance"
           },
           {
             "@type": "ListItem",
             "position": 10,
             "name": "Chapitre IX. L'amour",
-            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-009-la-destinee.html"
+            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-009-la-destinee"
           },
           {
             "@type": "ListItem",
             "position": 11,
             "name": "Chapitre X. Le temps",
-            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-010-le-temps.html"
+            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-010-le-temps"
           },
           {
             "@type": "ListItem",
             "position": 12,
             "name": "Chapitre XI. La mort",
-            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-011-la-mort.html"
+            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-011-la-mort"
           },
           {
             "@type": "ListItem",
             "position": 13,
             "name": "Chapitre XII. Les biens de l'esprit",
-            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-012-les-biens-de-l-esprit.html"
+            "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi/00-00-012-les-biens-de-l-esprit"
           }
         ]
       }
@@ -244,7 +244,7 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "La conscience de soi",
-            "item": "https://skepvox.com/louis-lavelle/la-conscience-de-soi.html"
+            "item": "https://skepvox.com/louis-lavelle/la-conscience-de-soi"
           }
         ]
       }
@@ -252,22 +252,22 @@ head:
 
 # La conscience de soi
 
-## Table des matières
+**Table des matières**
 
 - Avant-propos
-  - [Préface](/louis-lavelle/la-conscience-de-soi/00-00-000-preface.html)
-- [Chapitre I. La conscience de soi](/louis-lavelle/la-conscience-de-soi/00-00-001-la-presence-de-soi.html)
-- [Chapitre II. La connaissance](/louis-lavelle/la-conscience-de-soi/00-00-002-le-moi-pur.html)
-- [Chapitre III. La naissance des idées](/louis-lavelle/la-conscience-de-soi/00-00-003-les-jeux-de-l-amour-propre.html)
-- [Chapitre IV. Le message de l'écrivain](/louis-lavelle/la-conscience-de-soi/00-00-004-analyse-et-confidence.html)
-- [Chapitre V. L'activité](/louis-lavelle/la-conscience-de-soi/00-00-005-le-consentement.html)
-- [Chapitre VI. Le consentement](/louis-lavelle/la-conscience-de-soi/00-00-006-la-solitude.html)
-- [Chapitre VII. Amour-propre et sincérité](/louis-lavelle/la-conscience-de-soi/00-00-007-les-rapports-avec-autrui.html)
-- [Chapitre VIII. Solitude et communion](/louis-lavelle/la-conscience-de-soi/00-00-008-l-illusion-de-notre-importance.html)
-- [Chapitre IX. L'amour](/louis-lavelle/la-conscience-de-soi/00-00-009-la-destinee.html)
-- [Chapitre X. Le temps](/louis-lavelle/la-conscience-de-soi/00-00-010-le-temps.html)
-- [Chapitre XI. La mort](/louis-lavelle/la-conscience-de-soi/00-00-011-la-mort.html)
-- [Chapitre XII. Les biens de l'esprit](/louis-lavelle/la-conscience-de-soi/00-00-012-les-biens-de-l-esprit.html)
+  - [Préface](/louis-lavelle/la-conscience-de-soi/00-00-000-preface)
+- [Chapitre I. La conscience de soi](/louis-lavelle/la-conscience-de-soi/00-00-001-la-presence-de-soi)
+- [Chapitre II. La connaissance](/louis-lavelle/la-conscience-de-soi/00-00-002-le-moi-pur)
+- [Chapitre III. La naissance des idées](/louis-lavelle/la-conscience-de-soi/00-00-003-les-jeux-de-l-amour-propre)
+- [Chapitre IV. Le message de l'écrivain](/louis-lavelle/la-conscience-de-soi/00-00-004-analyse-et-confidence)
+- [Chapitre V. L'activité](/louis-lavelle/la-conscience-de-soi/00-00-005-le-consentement)
+- [Chapitre VI. Le consentement](/louis-lavelle/la-conscience-de-soi/00-00-006-la-solitude)
+- [Chapitre VII. Amour-propre et sincérité](/louis-lavelle/la-conscience-de-soi/00-00-007-les-rapports-avec-autrui)
+- [Chapitre VIII. Solitude et communion](/louis-lavelle/la-conscience-de-soi/00-00-008-l-illusion-de-notre-importance)
+- [Chapitre IX. L'amour](/louis-lavelle/la-conscience-de-soi/00-00-009-la-destinee)
+- [Chapitre X. Le temps](/louis-lavelle/la-conscience-de-soi/00-00-010-le-temps)
+- [Chapitre XI. La mort](/louis-lavelle/la-conscience-de-soi/00-00-011-la-mort)
+- [Chapitre XII. Les biens de l'esprit](/louis-lavelle/la-conscience-de-soi/00-00-012-les-biens-de-l-esprit)
 
 ## Préface
 

@@ -14,7 +14,7 @@ chapter-title: "091 — Achado que Consola"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-091-achado-que-consola.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-091-achado-que-consola"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 091 — Achado que Consola."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 091 — Achado que Consola."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-091-achado-que-consola.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-091-achado-que-consola"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "091 — Achado que Consola",
         "identifier": "00-10-091",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-091-achado-que-consola.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-091-achado-que-consola.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-091-achado-que-consola",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-091-achado-que-consola",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 091 — Achado que Consola.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "091 — Achado que Consola",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-091-achado-que-consola.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-091-achado-que-consola"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 091 — Achado que Consola
 

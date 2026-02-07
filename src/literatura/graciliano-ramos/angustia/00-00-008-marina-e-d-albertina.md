@@ -13,7 +13,7 @@ chapter-title: "Marina e d. Albertina"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-008-marina-e-d-albertina.html"
+      href: "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-008-marina-e-d-albertina"
   - - meta
     - name: description
       content: "Texto integral de Angústia, de Graciliano Ramos. Marina e d. Albertina."
@@ -25,7 +25,7 @@ head:
       content: "Texto integral de Angústia, de Graciliano Ramos. Marina e d. Albertina."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-008-marina-e-d-albertina.html"
+      content: "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-008-marina-e-d-albertina"
   - - meta
     - property: og:type
       content: article
@@ -58,8 +58,8 @@ head:
         "@type": "Chapter",
         "name": "Marina e d. Albertina",
         "identifier": "00-00-008",
-        "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-008-marina-e-d-albertina.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-008-marina-e-d-albertina.html",
+        "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-008-marina-e-d-albertina",
+        "mainEntityOfPage": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-008-marina-e-d-albertina",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -73,7 +73,7 @@ head:
             "@type": "Person",
             "name": "Graciliano Ramos"
           },
-          "url": "https://skepvox.com/literatura/graciliano-ramos/angustia.html"
+          "url": "https://skepvox.com/literatura/graciliano-ramos/angustia"
         },
         "image": "https://skepvox.com/images/authors/graciliano-ramos.png",
         "description": "Texto integral de Angústia, de Graciliano Ramos. Marina e d. Albertina.",
@@ -102,19 +102,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Angústia",
-            "item": "https://skepvox.com/literatura/graciliano-ramos/angustia.html"
+            "item": "https://skepvox.com/literatura/graciliano-ramos/angustia"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Marina e d. Albertina",
-            "item": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-008-marina-e-d-albertina.html"
+            "item": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-008-marina-e-d-albertina"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/graciliano-ramos/angustia.html)
+[Voltar ao livro](/literatura/graciliano-ramos/angustia)
 
 ## Marina e d. Albertina
 

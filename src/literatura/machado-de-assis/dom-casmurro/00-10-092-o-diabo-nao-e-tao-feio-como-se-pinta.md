@@ -14,7 +14,7 @@ chapter-title: "092 — O Diabo Não É Tão Feio como Se Pinta"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-092-o-diabo-nao-e-tao-feio-como-se-pinta.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-092-o-diabo-nao-e-tao-feio-como-se-pinta"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 092 — O Diabo Não É Tão Feio como Se Pinta."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 092 — O Diabo Não É Tão Feio como Se Pinta."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-092-o-diabo-nao-e-tao-feio-como-se-pinta.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-092-o-diabo-nao-e-tao-feio-como-se-pinta"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "092 — O Diabo Não É Tão Feio como Se Pinta",
         "identifier": "00-10-092",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-092-o-diabo-nao-e-tao-feio-como-se-pinta.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-092-o-diabo-nao-e-tao-feio-como-se-pinta.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-092-o-diabo-nao-e-tao-feio-como-se-pinta",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-092-o-diabo-nao-e-tao-feio-como-se-pinta",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 092 — O Diabo Não É Tão Feio como Se Pinta.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "092 — O Diabo Não É Tão Feio como Se Pinta",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-092-o-diabo-nao-e-tao-feio-como-se-pinta.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-092-o-diabo-nao-e-tao-feio-como-se-pinta"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 092 — O Diabo Não É Tão Feio como Se Pinta
 

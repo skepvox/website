@@ -13,7 +13,7 @@ chapter-title: "A Pensão e a Cidade Grande"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-002-a-pensao-e-a-cidade-grande.html"
+      href: "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-002-a-pensao-e-a-cidade-grande"
   - - meta
     - name: description
       content: "Texto integral de Angústia, de Graciliano Ramos. A Pensão e a Cidade Grande."
@@ -25,7 +25,7 @@ head:
       content: "Texto integral de Angústia, de Graciliano Ramos. A Pensão e a Cidade Grande."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-002-a-pensao-e-a-cidade-grande.html"
+      content: "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-002-a-pensao-e-a-cidade-grande"
   - - meta
     - property: og:type
       content: article
@@ -58,8 +58,8 @@ head:
         "@type": "Chapter",
         "name": "A Pensão e a Cidade Grande",
         "identifier": "00-00-002",
-        "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-002-a-pensao-e-a-cidade-grande.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-002-a-pensao-e-a-cidade-grande.html",
+        "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-002-a-pensao-e-a-cidade-grande",
+        "mainEntityOfPage": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-002-a-pensao-e-a-cidade-grande",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -73,7 +73,7 @@ head:
             "@type": "Person",
             "name": "Graciliano Ramos"
           },
-          "url": "https://skepvox.com/literatura/graciliano-ramos/angustia.html"
+          "url": "https://skepvox.com/literatura/graciliano-ramos/angustia"
         },
         "image": "https://skepvox.com/images/authors/graciliano-ramos.png",
         "description": "Texto integral de Angústia, de Graciliano Ramos. A Pensão e a Cidade Grande.",
@@ -102,19 +102,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Angústia",
-            "item": "https://skepvox.com/literatura/graciliano-ramos/angustia.html"
+            "item": "https://skepvox.com/literatura/graciliano-ramos/angustia"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "A Pensão e a Cidade Grande",
-            "item": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-002-a-pensao-e-a-cidade-grande.html"
+            "item": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-002-a-pensao-e-a-cidade-grande"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/graciliano-ramos/angustia.html)
+[Voltar ao livro](/literatura/graciliano-ramos/angustia)
 
 ## A Pensão e a Cidade Grande
 

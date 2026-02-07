@@ -14,7 +14,7 @@ chapter-title: "046 — A Herança"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-046-a-heranca.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-046-a-heranca"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 046 — A Herança."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 046 — A Herança."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-046-a-heranca.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-046-a-heranca"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "046 — A Herança",
         "identifier": "00-08-046",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-046-a-heranca.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-046-a-heranca.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-046-a-heranca",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-046-a-heranca",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 046 — A Herança.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "046 — A Herança",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-046-a-heranca.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-08-046-a-heranca"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 046 — A Herança
 

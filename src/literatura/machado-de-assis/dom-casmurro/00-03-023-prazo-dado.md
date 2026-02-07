@@ -14,7 +14,7 @@ chapter-title: "023 — Prazo Dado"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-023-prazo-dado.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-023-prazo-dado"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 023 — Prazo Dado."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 023 — Prazo Dado."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-023-prazo-dado.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-023-prazo-dado"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "023 — Prazo Dado",
         "identifier": "00-03-023",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-023-prazo-dado.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-023-prazo-dado.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-023-prazo-dado",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-023-prazo-dado",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 023 — Prazo Dado.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "023 — Prazo Dado",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-023-prazo-dado.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-023-prazo-dado"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 023 — Prazo Dado
 

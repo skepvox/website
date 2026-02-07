@@ -14,7 +14,7 @@ chapter-title: "049 — Tabuleta Velha"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-06-049-tabuleta-velha.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-06-049-tabuleta-velha"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 049 — Tabuleta Velha."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 049 — Tabuleta Velha."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-06-049-tabuleta-velha.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-06-049-tabuleta-velha"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "049 — Tabuleta Velha",
         "identifier": "00-06-049",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-06-049-tabuleta-velha.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-06-049-tabuleta-velha.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-06-049-tabuleta-velha",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-06-049-tabuleta-velha",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 049 — Tabuleta Velha.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "049 — Tabuleta Velha",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-06-049-tabuleta-velha.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-06-049-tabuleta-velha"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 049 — Tabuleta Velha
 

@@ -14,7 +14,7 @@ chapter-title: "117 — Posse das Cadeiras"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-117-posse-das-cadeiras.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-117-posse-das-cadeiras"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 117 — Posse das Cadeiras."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 117 — Posse das Cadeiras."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-117-posse-das-cadeiras.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-117-posse-das-cadeiras"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "117 — Posse das Cadeiras",
         "identifier": "00-13-117",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-117-posse-das-cadeiras.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-117-posse-das-cadeiras.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-117-posse-das-cadeiras",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-117-posse-das-cadeiras",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 117 — Posse das Cadeiras.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "117 — Posse das Cadeiras",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-117-posse-das-cadeiras.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-117-posse-das-cadeiras"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 117 — Posse das Cadeiras
 

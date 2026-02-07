@@ -5,7 +5,7 @@ outline: 2
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/de-l-ame-humaine.html"
+      href: "https://skepvox.com/louis-lavelle/de-l-ame-humaine"
   - - meta
     - name: description
       content: "Texte intégral en français de De l'âme humaine de Louis Lavelle, quatrième volume de La Dialectique de l'éternel présent."
@@ -17,7 +17,7 @@ head:
       content: "Texte intégral en français de De l'âme humaine de Louis Lavelle, quatrième volume de La Dialectique de l'éternel présent."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/de-l-ame-humaine.html"
+      content: "https://skepvox.com/louis-lavelle/de-l-ame-humaine"
   - - meta
     - property: og:type
       content: book
@@ -54,7 +54,7 @@ head:
           "name": "Louis Lavelle"
         },
         "inLanguage": "fr",
-        "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine.html",
+        "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine",
         "description": "Texte intégral en français de De l'âme humaine de Louis Lavelle, quatrième volume de La Dialectique de l'éternel présent.",
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
         "isPartOf": {
@@ -65,133 +65,133 @@ head:
           {
             "@type": "Chapter",
             "name": "Introduction",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/00-00-000-introduction.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/00-00-000-introduction",
             "identifier": "00-00-000"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre I. La conscience, ou une intimité, en droit, universelle",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-001-la-conscience-ou-une-intimite-en-droit-universelle.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-001-la-conscience-ou-une-intimite-en-droit-universelle",
             "identifier": "01-00-001"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre II. Le moi, ou le point d'attache de la conscience dans l'acte de participation",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-002-le-moi-ou-le-point-d-attache-de-la-conscience-dans-l-acte-de-participation.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-002-le-moi-ou-le-point-d-attache-de-la-conscience-dans-l-acte-de-participation",
             "identifier": "01-00-002"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre III. Le corps, ou l'insertion du moi dans le monde",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-003-le-corps-ou-l-insertion-du-moi-dans-le-monde.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-003-le-corps-ou-l-insertion-du-moi-dans-le-monde",
             "identifier": "01-00-003"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre IV. L'interprétation de la proposition « Cogito ergo sum »",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-004-l-interpretation-de-la-proposition-cogito-ergo-sum.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-004-l-interpretation-de-la-proposition-cogito-ergo-sum",
             "identifier": "01-00-004"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre V. La possibilité, ou l'être d'un pouvoir-être",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-005-la-possibilite-ou-l-etre-d-un-pouvoir-etre.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-005-la-possibilite-ou-l-etre-d-un-pouvoir-etre",
             "identifier": "02-00-005"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre VI. L'accès dans l'existence",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-006-l-acces-dans-l-existence.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-006-l-acces-dans-l-existence",
             "identifier": "02-00-006"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre VII. La création du temps comme condition de l'autocréation de l'âme par elle-même",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-007-la-creation-du-temps-comme-condition-de-l-autocreation-de-l-ame-par-elle-meme.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-007-la-creation-du-temps-comme-condition-de-l-autocreation-de-l-ame-par-elle-meme",
             "identifier": "02-00-007"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre VIII. La poursuite de la valeur",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-008-la-poursuite-de-la-valeur.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-008-la-poursuite-de-la-valeur",
             "identifier": "02-00-008"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre IX. Une existence qui se donne à elle-même une essence",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-009-une-existence-qui-se-donne-a-elle-meme-une-essence.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-009-une-existence-qui-se-donne-a-elle-meme-une-essence",
             "identifier": "02-00-009"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre X. La liberté et la division de l'âme en puissances différentes",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-00-010-la-liberte-et-la-division-de-l-ame-en-puissances-differentes.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-00-010-la-liberte-et-la-division-de-l-ame-en-puissances-differentes",
             "identifier": "03-00-010"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre XI. La puissance représentative",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-01-011-la-puissance-representative.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-01-011-la-puissance-representative",
             "identifier": "03-01-011"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre XII. La puissance noétique",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-01-012-la-puissance-noetique.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-01-012-la-puissance-noetique",
             "identifier": "03-01-012"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre XIII. La puissance volitive",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-02-013-la-puissance-volitive.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-02-013-la-puissance-volitive",
             "identifier": "03-02-013"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre XIV. La puissance mnémonique",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-02-014-la-puissance-mnemonique.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-02-014-la-puissance-mnemonique",
             "identifier": "03-02-014"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre XV. La puissance expressive",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-03-015-la-puissance-expressive.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-03-015-la-puissance-expressive",
             "identifier": "03-03-015"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre XVI. La puissance affective",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-03-016-la-puissance-affective.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-03-016-la-puissance-affective",
             "identifier": "03-03-016"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre XVII. L'unité de l'âme",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/04-00-017-l-unite-de-l-ame.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/04-00-017-l-unite-de-l-ame",
             "identifier": "04-00-017"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre XVIII. La vocation de l'âme",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/04-00-018-la-vocation-de-l-ame.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/04-00-018-la-vocation-de-l-ame",
             "identifier": "04-00-018"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre XIX. L'immortalité de l'âme",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/04-00-019-l-immortalite-de-l-ame.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/04-00-019-l-immortalite-de-l-ame",
             "identifier": "04-00-019"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre XX. Âme et esprit",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/04-00-020-ame-et-esprit.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/04-00-020-ame-et-esprit",
             "identifier": "04-00-020"
           },
           {
             "@type": "Chapter",
             "name": "Conclusion. L'essence de l'âme, ou la réhabilitation des notions de possibilité et de puissance",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/99-99-999-conclusion.html",
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/99-99-999-conclusion",
             "identifier": "99-99-999"
           }
         ]
@@ -209,133 +209,133 @@ head:
             "@type": "ListItem",
             "position": 1,
             "name": "Introduction",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/00-00-000-introduction.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/00-00-000-introduction"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Chapitre I. La conscience, ou une intimité, en droit, universelle",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-001-la-conscience-ou-une-intimite-en-droit-universelle.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-001-la-conscience-ou-une-intimite-en-droit-universelle"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre II. Le moi, ou le point d'attache de la conscience dans l'acte de participation",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-002-le-moi-ou-le-point-d-attache-de-la-conscience-dans-l-acte-de-participation.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-002-le-moi-ou-le-point-d-attache-de-la-conscience-dans-l-acte-de-participation"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Chapitre III. Le corps, ou l'insertion du moi dans le monde",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-003-le-corps-ou-l-insertion-du-moi-dans-le-monde.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-003-le-corps-ou-l-insertion-du-moi-dans-le-monde"
           },
           {
             "@type": "ListItem",
             "position": 5,
             "name": "Chapitre IV. L'interprétation de la proposition « Cogito ergo sum »",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-004-l-interpretation-de-la-proposition-cogito-ergo-sum.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/01-00-004-l-interpretation-de-la-proposition-cogito-ergo-sum"
           },
           {
             "@type": "ListItem",
             "position": 6,
             "name": "Chapitre V. La possibilité, ou l'être d'un pouvoir-être",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-005-la-possibilite-ou-l-etre-d-un-pouvoir-etre.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-005-la-possibilite-ou-l-etre-d-un-pouvoir-etre"
           },
           {
             "@type": "ListItem",
             "position": 7,
             "name": "Chapitre VI. L'accès dans l'existence",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-006-l-acces-dans-l-existence.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-006-l-acces-dans-l-existence"
           },
           {
             "@type": "ListItem",
             "position": 8,
             "name": "Chapitre VII. La création du temps comme condition de l'autocréation de l'âme par elle-même",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-007-la-creation-du-temps-comme-condition-de-l-autocreation-de-l-ame-par-elle-meme.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-007-la-creation-du-temps-comme-condition-de-l-autocreation-de-l-ame-par-elle-meme"
           },
           {
             "@type": "ListItem",
             "position": 9,
             "name": "Chapitre VIII. La poursuite de la valeur",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-008-la-poursuite-de-la-valeur.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-008-la-poursuite-de-la-valeur"
           },
           {
             "@type": "ListItem",
             "position": 10,
             "name": "Chapitre IX. Une existence qui se donne à elle-même une essence",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-009-une-existence-qui-se-donne-a-elle-meme-une-essence.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/02-00-009-une-existence-qui-se-donne-a-elle-meme-une-essence"
           },
           {
             "@type": "ListItem",
             "position": 11,
             "name": "Chapitre X. La liberté et la division de l'âme en puissances différentes",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-00-010-la-liberte-et-la-division-de-l-ame-en-puissances-differentes.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-00-010-la-liberte-et-la-division-de-l-ame-en-puissances-differentes"
           },
           {
             "@type": "ListItem",
             "position": 12,
             "name": "Chapitre XI. La puissance représentative",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-01-011-la-puissance-representative.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-01-011-la-puissance-representative"
           },
           {
             "@type": "ListItem",
             "position": 13,
             "name": "Chapitre XII. La puissance noétique",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-01-012-la-puissance-noetique.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-01-012-la-puissance-noetique"
           },
           {
             "@type": "ListItem",
             "position": 14,
             "name": "Chapitre XIII. La puissance volitive",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-02-013-la-puissance-volitive.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-02-013-la-puissance-volitive"
           },
           {
             "@type": "ListItem",
             "position": 15,
             "name": "Chapitre XIV. La puissance mnémonique",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-02-014-la-puissance-mnemonique.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-02-014-la-puissance-mnemonique"
           },
           {
             "@type": "ListItem",
             "position": 16,
             "name": "Chapitre XV. La puissance expressive",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-03-015-la-puissance-expressive.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-03-015-la-puissance-expressive"
           },
           {
             "@type": "ListItem",
             "position": 17,
             "name": "Chapitre XVI. La puissance affective",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-03-016-la-puissance-affective.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/03-03-016-la-puissance-affective"
           },
           {
             "@type": "ListItem",
             "position": 18,
             "name": "Chapitre XVII. L'unité de l'âme",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/04-00-017-l-unite-de-l-ame.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/04-00-017-l-unite-de-l-ame"
           },
           {
             "@type": "ListItem",
             "position": 19,
             "name": "Chapitre XVIII. La vocation de l'âme",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/04-00-018-la-vocation-de-l-ame.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/04-00-018-la-vocation-de-l-ame"
           },
           {
             "@type": "ListItem",
             "position": 20,
             "name": "Chapitre XIX. L'immortalité de l'âme",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/04-00-019-l-immortalite-de-l-ame.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/04-00-019-l-immortalite-de-l-ame"
           },
           {
             "@type": "ListItem",
             "position": 21,
             "name": "Chapitre XX. Âme et esprit",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/04-00-020-ame-et-esprit.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/04-00-020-ame-et-esprit"
           },
           {
             "@type": "ListItem",
             "position": 22,
             "name": "Conclusion. L'essence de l'âme, ou la réhabilitation des notions de possibilité et de puissance",
-            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/99-99-999-conclusion.html"
+            "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine/99-99-999-conclusion"
           }
         ]
       }
@@ -356,7 +356,7 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "De l'âme humaine",
-            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine.html"
+            "item": "https://skepvox.com/louis-lavelle/de-l-ame-humaine"
           }
         ]
       }
@@ -364,39 +364,39 @@ head:
 
 # De l'âme humaine
 
-## Table des matières
+**Table des matières**
 
 - Avant-propos
-  - [Introduction](/louis-lavelle/de-l-ame-humaine/00-00-000-introduction.html)
+  - [Introduction](/louis-lavelle/de-l-ame-humaine/00-00-000-introduction)
 - Livre I. L'intimité de l'âme
-  - [Chapitre I. La conscience, ou une intimité, en droit, universelle](/louis-lavelle/de-l-ame-humaine/01-00-001-la-conscience-ou-une-intimite-en-droit-universelle.html)
-  - [Chapitre II. Le moi, ou le point d'attache de la conscience dans l'acte de participation](/louis-lavelle/de-l-ame-humaine/01-00-002-le-moi-ou-le-point-d-attache-de-la-conscience-dans-l-acte-de-participation.html)
-  - [Chapitre III. Le corps, ou l'insertion du moi dans le monde](/louis-lavelle/de-l-ame-humaine/01-00-003-le-corps-ou-l-insertion-du-moi-dans-le-monde.html)
-  - [Chapitre IV. L'interprétation de la proposition « Cogito ergo sum »](/louis-lavelle/de-l-ame-humaine/01-00-004-l-interpretation-de-la-proposition-cogito-ergo-sum.html)
+  - [Chapitre I. La conscience, ou une intimité, en droit, universelle](/louis-lavelle/de-l-ame-humaine/01-00-001-la-conscience-ou-une-intimite-en-droit-universelle)
+  - [Chapitre II. Le moi, ou le point d'attache de la conscience dans l'acte de participation](/louis-lavelle/de-l-ame-humaine/01-00-002-le-moi-ou-le-point-d-attache-de-la-conscience-dans-l-acte-de-participation)
+  - [Chapitre III. Le corps, ou l'insertion du moi dans le monde](/louis-lavelle/de-l-ame-humaine/01-00-003-le-corps-ou-l-insertion-du-moi-dans-le-monde)
+  - [Chapitre IV. L'interprétation de la proposition « Cogito ergo sum »](/louis-lavelle/de-l-ame-humaine/01-00-004-l-interpretation-de-la-proposition-cogito-ergo-sum)
 - Livre II. La genèse de l'âme
-  - [Chapitre V. La possibilité, ou l'être d'un pouvoir-être](/louis-lavelle/de-l-ame-humaine/02-00-005-la-possibilite-ou-l-etre-d-un-pouvoir-etre.html)
-  - [Chapitre VI. L'accès dans l'existence](/louis-lavelle/de-l-ame-humaine/02-00-006-l-acces-dans-l-existence.html)
-  - [Chapitre VII. La création du temps comme condition de l'autocréation de l'âme par elle-même](/louis-lavelle/de-l-ame-humaine/02-00-007-la-creation-du-temps-comme-condition-de-l-autocreation-de-l-ame-par-elle-meme.html)
-  - [Chapitre VIII. La poursuite de la valeur](/louis-lavelle/de-l-ame-humaine/02-00-008-la-poursuite-de-la-valeur.html)
-  - [Chapitre IX. Une existence qui se donne à elle-même une essence](/louis-lavelle/de-l-ame-humaine/02-00-009-une-existence-qui-se-donne-a-elle-meme-une-essence.html)
+  - [Chapitre V. La possibilité, ou l'être d'un pouvoir-être](/louis-lavelle/de-l-ame-humaine/02-00-005-la-possibilite-ou-l-etre-d-un-pouvoir-etre)
+  - [Chapitre VI. L'accès dans l'existence](/louis-lavelle/de-l-ame-humaine/02-00-006-l-acces-dans-l-existence)
+  - [Chapitre VII. La création du temps comme condition de l'autocréation de l'âme par elle-même](/louis-lavelle/de-l-ame-humaine/02-00-007-la-creation-du-temps-comme-condition-de-l-autocreation-de-l-ame-par-elle-meme)
+  - [Chapitre VIII. La poursuite de la valeur](/louis-lavelle/de-l-ame-humaine/02-00-008-la-poursuite-de-la-valeur)
+  - [Chapitre IX. Une existence qui se donne à elle-même une essence](/louis-lavelle/de-l-ame-humaine/02-00-009-une-existence-qui-se-donne-a-elle-meme-une-essence)
 - Livre III. Classification nouvelle des puissances de l'âme
-  - [Chapitre X. La liberté et la division de l'âme en puissances différentes](/louis-lavelle/de-l-ame-humaine/03-00-010-la-liberte-et-la-division-de-l-ame-en-puissances-differentes.html)
+  - [Chapitre X. La liberté et la division de l'âme en puissances différentes](/louis-lavelle/de-l-ame-humaine/03-00-010-la-liberte-et-la-division-de-l-ame-en-puissances-differentes)
   - Première section. La connaissance du non-moi
-    - [Chapitre XI. La puissance représentative](/louis-lavelle/de-l-ame-humaine/03-01-011-la-puissance-representative.html)
-    - [Chapitre XII. La puissance noétique](/louis-lavelle/de-l-ame-humaine/03-01-012-la-puissance-noetique.html)
+    - [Chapitre XI. La puissance représentative](/louis-lavelle/de-l-ame-humaine/03-01-011-la-puissance-representative)
+    - [Chapitre XII. La puissance noétique](/louis-lavelle/de-l-ame-humaine/03-01-012-la-puissance-noetique)
   - Deuxième section. La constitution du moi
-    - [Chapitre XIII. La puissance volitive](/louis-lavelle/de-l-ame-humaine/03-02-013-la-puissance-volitive.html)
-    - [Chapitre XIV. La puissance mnémonique](/louis-lavelle/de-l-ame-humaine/03-02-014-la-puissance-mnemonique.html)
+    - [Chapitre XIII. La puissance volitive](/louis-lavelle/de-l-ame-humaine/03-02-013-la-puissance-volitive)
+    - [Chapitre XIV. La puissance mnémonique](/louis-lavelle/de-l-ame-humaine/03-02-014-la-puissance-mnemonique)
   - Troisième section. La médiation entre le moi et l'autre moi
-    - [Chapitre XV. La puissance expressive](/louis-lavelle/de-l-ame-humaine/03-03-015-la-puissance-expressive.html)
-    - [Chapitre XVI. La puissance affective](/louis-lavelle/de-l-ame-humaine/03-03-016-la-puissance-affective.html)
+    - [Chapitre XV. La puissance expressive](/louis-lavelle/de-l-ame-humaine/03-03-015-la-puissance-expressive)
+    - [Chapitre XVI. La puissance affective](/louis-lavelle/de-l-ame-humaine/03-03-016-la-puissance-affective)
 - Livre IV. Immortalité et éternité
-  - [Chapitre XVII. L'unité de l'âme](/louis-lavelle/de-l-ame-humaine/04-00-017-l-unite-de-l-ame.html)
-  - [Chapitre XVIII. La vocation de l'âme](/louis-lavelle/de-l-ame-humaine/04-00-018-la-vocation-de-l-ame.html)
-  - [Chapitre XIX. L'immortalité de l'âme](/louis-lavelle/de-l-ame-humaine/04-00-019-l-immortalite-de-l-ame.html)
-  - [Chapitre XX. Âme et esprit](/louis-lavelle/de-l-ame-humaine/04-00-020-ame-et-esprit.html)
+  - [Chapitre XVII. L'unité de l'âme](/louis-lavelle/de-l-ame-humaine/04-00-017-l-unite-de-l-ame)
+  - [Chapitre XVIII. La vocation de l'âme](/louis-lavelle/de-l-ame-humaine/04-00-018-la-vocation-de-l-ame)
+  - [Chapitre XIX. L'immortalité de l'âme](/louis-lavelle/de-l-ame-humaine/04-00-019-l-immortalite-de-l-ame)
+  - [Chapitre XX. Âme et esprit](/louis-lavelle/de-l-ame-humaine/04-00-020-ame-et-esprit)
 - Conclusion
-  - [L'essence de l'âme, ou la réhabilitation des notions de possibilité et de puissance](/louis-lavelle/de-l-ame-humaine/99-99-999-conclusion.html)
+  - [L'essence de l'âme, ou la réhabilitation des notions de possibilité et de puissance](/louis-lavelle/de-l-ame-humaine/99-99-999-conclusion)
 
 ## Introduction
 

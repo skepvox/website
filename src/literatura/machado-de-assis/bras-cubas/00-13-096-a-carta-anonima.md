@@ -14,7 +14,7 @@ chapter-title: "096 — A Carta Anônima"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-096-a-carta-anonima.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-096-a-carta-anonima"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 096 — A Carta Anônima."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 096 — A Carta Anônima."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-096-a-carta-anonima.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-096-a-carta-anonima"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "096 — A Carta Anônima",
         "identifier": "00-13-096",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-096-a-carta-anonima.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-096-a-carta-anonima.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-096-a-carta-anonima",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-096-a-carta-anonima",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 096 — A Carta Anônima.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "096 — A Carta Anônima",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-096-a-carta-anonima.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-096-a-carta-anonima"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 096 — A Carta Anônima
 

@@ -14,7 +14,7 @@ chapter-title: "081 — Uma Palavra"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-081-uma-palavra.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-081-uma-palavra"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 081 — Uma Palavra."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 081 — Uma Palavra."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-081-uma-palavra.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-081-uma-palavra"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "081 — Uma Palavra",
         "identifier": "00-09-081",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-081-uma-palavra.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-081-uma-palavra.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-081-uma-palavra",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-081-uma-palavra",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 081 — Uma Palavra.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "081 — Uma Palavra",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-081-uma-palavra.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-081-uma-palavra"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 081 — Uma Palavra
 

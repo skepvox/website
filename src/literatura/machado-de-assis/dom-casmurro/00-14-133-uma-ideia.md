@@ -14,7 +14,7 @@ chapter-title: "133 — Uma Ideia"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-133-uma-ideia.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-133-uma-ideia"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 133 — Uma Ideia."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 133 — Uma Ideia."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-133-uma-ideia.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-133-uma-ideia"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "133 — Uma Ideia",
         "identifier": "00-14-133",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-133-uma-ideia.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-133-uma-ideia.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-133-uma-ideia",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-133-uma-ideia",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 133 — Uma Ideia.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "133 — Uma Ideia",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-133-uma-ideia.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-133-uma-ideia"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 133 — Uma Ideia
 

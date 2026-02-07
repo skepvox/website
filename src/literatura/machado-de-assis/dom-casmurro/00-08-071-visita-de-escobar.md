@@ -14,7 +14,7 @@ chapter-title: "071 — Visita de Escobar"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-071-visita-de-escobar.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-071-visita-de-escobar"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 071 — Visita de Escobar."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 071 — Visita de Escobar."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-071-visita-de-escobar.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-071-visita-de-escobar"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "071 — Visita de Escobar",
         "identifier": "00-08-071",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-071-visita-de-escobar.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-071-visita-de-escobar.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-071-visita-de-escobar",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-071-visita-de-escobar",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 071 — Visita de Escobar.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "071 — Visita de Escobar",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-071-visita-de-escobar.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-071-visita-de-escobar"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 071 — Visita de Escobar
 

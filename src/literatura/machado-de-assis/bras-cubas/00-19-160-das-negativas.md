@@ -14,7 +14,7 @@ chapter-title: "160 — Das Negativas"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-160-das-negativas.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-160-das-negativas"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 160 — Das Negativas."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 160 — Das Negativas."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-160-das-negativas.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-160-das-negativas"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "160 — Das Negativas",
         "identifier": "00-19-160",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-160-das-negativas.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-160-das-negativas.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-160-das-negativas",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-160-das-negativas",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 160 — Das Negativas.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "160 — Das Negativas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-160-das-negativas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-160-das-negativas"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 160 — Das Negativas
 

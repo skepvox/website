@@ -5,7 +5,7 @@ outline: 2
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/quatre-saints.html"
+      href: "https://skepvox.com/louis-lavelle/quatre-saints"
   - - meta
     - name: description
       content: "Texte intégral en français de Quatre saints de Louis Lavelle."
@@ -17,7 +17,7 @@ head:
       content: "Texte intégral en français de Quatre saints de Louis Lavelle."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/quatre-saints.html"
+      content: "https://skepvox.com/louis-lavelle/quatre-saints"
   - - meta
     - property: og:type
       content: book
@@ -54,38 +54,38 @@ head:
           "name": "Louis Lavelle"
         },
         "inLanguage": "fr",
-        "url": "https://skepvox.com/louis-lavelle/quatre-saints.html",
+        "url": "https://skepvox.com/louis-lavelle/quatre-saints",
         "description": "Texte intégral en français de Quatre saints de Louis Lavelle.",
         "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
         "hasPart": [
           {
             "@type": "Chapter",
             "name": "Chapitre 1. De la sainteté",
-            "url": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-001-de-la-saintete.html",
+            "url": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-001-de-la-saintete",
             "identifier": "00-00-001"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre 2. La spiritualité franciscaine",
-            "url": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-002-la-spiritualite-franciscaine.html",
+            "url": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-002-la-spiritualite-franciscaine",
             "identifier": "00-00-002"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre 3. La contemplation selon Saint Jean de la croix",
-            "url": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-003-la-contemplation-selon-saint-jean-de-la-croix.html",
+            "url": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-003-la-contemplation-selon-saint-jean-de-la-croix",
             "identifier": "00-00-003"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre 4. Sainte Thérèse ou l'union de la contemplation et de l'action",
-            "url": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-004-sainte-therese-ou-l-union-de-la-contemplation-et-de-l-action.html",
+            "url": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-004-sainte-therese-ou-l-union-de-la-contemplation-et-de-l-action",
             "identifier": "00-00-004"
           },
           {
             "@type": "Chapter",
             "name": "Chapitre 5. Saint François de Sales ou l'unité de la volonté et de l'amour",
-            "url": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-005-saint-francois-de-sales-ou-l-unite-de-la-volonte-et-de-l-amour.html",
+            "url": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-005-saint-francois-de-sales-ou-l-unite-de-la-volonte-et-de-l-amour",
             "identifier": "00-00-005"
           }
         ]
@@ -103,31 +103,31 @@ head:
             "@type": "ListItem",
             "position": 1,
             "name": "Chapitre 1. De la sainteté",
-            "url": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-001-de-la-saintete.html"
+            "url": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-001-de-la-saintete"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Chapitre 2. La spiritualité franciscaine",
-            "url": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-002-la-spiritualite-franciscaine.html"
+            "url": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-002-la-spiritualite-franciscaine"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chapitre 3. La contemplation selon Saint Jean de la croix",
-            "url": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-003-la-contemplation-selon-saint-jean-de-la-croix.html"
+            "url": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-003-la-contemplation-selon-saint-jean-de-la-croix"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Chapitre 4. Sainte Thérèse ou l'union de la contemplation et de l'action",
-            "url": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-004-sainte-therese-ou-l-union-de-la-contemplation-et-de-l-action.html"
+            "url": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-004-sainte-therese-ou-l-union-de-la-contemplation-et-de-l-action"
           },
           {
             "@type": "ListItem",
             "position": 5,
             "name": "Chapitre 5. Saint François de Sales ou l'unité de la volonté et de l'amour",
-            "url": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-005-saint-francois-de-sales-ou-l-unite-de-la-volonte-et-de-l-amour.html"
+            "url": "https://skepvox.com/louis-lavelle/quatre-saints/00-00-005-saint-francois-de-sales-ou-l-unite-de-la-volonte-et-de-l-amour"
           }
         ]
       }
@@ -148,7 +148,7 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Quatre saints",
-            "item": "https://skepvox.com/louis-lavelle/quatre-saints.html"
+            "item": "https://skepvox.com/louis-lavelle/quatre-saints"
           }
         ]
       }
@@ -156,13 +156,13 @@ head:
 
 # Quatre saints
 
-## Table des matières
+**Table des matières**
 
-- [Chapitre 1. De la sainteté](/louis-lavelle/quatre-saints/00-00-001-de-la-saintete.html)
-- [Chapitre 2. La spiritualité franciscaine](/louis-lavelle/quatre-saints/00-00-002-la-spiritualite-franciscaine.html)
-- [Chapitre 3. La contemplation selon Saint Jean de la croix](/louis-lavelle/quatre-saints/00-00-003-la-contemplation-selon-saint-jean-de-la-croix.html)
-- [Chapitre 4. Sainte Thérèse ou l'union de la contemplation et de l'action](/louis-lavelle/quatre-saints/00-00-004-sainte-therese-ou-l-union-de-la-contemplation-et-de-l-action.html)
-- [Chapitre 5. Saint François de Sales ou l'unité de la volonté et de l'amour](/louis-lavelle/quatre-saints/00-00-005-saint-francois-de-sales-ou-l-unite-de-la-volonte-et-de-l-amour.html)
+- [Chapitre 1. De la sainteté](/louis-lavelle/quatre-saints/00-00-001-de-la-saintete)
+- [Chapitre 2. La spiritualité franciscaine](/louis-lavelle/quatre-saints/00-00-002-la-spiritualite-franciscaine)
+- [Chapitre 3. La contemplation selon Saint Jean de la croix](/louis-lavelle/quatre-saints/00-00-003-la-contemplation-selon-saint-jean-de-la-croix)
+- [Chapitre 4. Sainte Thérèse ou l'union de la contemplation et de l'action](/louis-lavelle/quatre-saints/00-00-004-sainte-therese-ou-l-union-de-la-contemplation-et-de-l-action)
+- [Chapitre 5. Saint François de Sales ou l'unité de la volonté et de l'amour](/louis-lavelle/quatre-saints/00-00-005-saint-francois-de-sales-ou-l-unite-de-la-volonte-et-de-l-amour)
 
 ## Chapitre 1. De la sainteté
 

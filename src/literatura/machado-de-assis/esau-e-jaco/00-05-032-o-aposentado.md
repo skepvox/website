@@ -14,7 +14,7 @@ chapter-title: "032 — O Aposentado"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-032-o-aposentado.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-032-o-aposentado"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 032 — O Aposentado."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 032 — O Aposentado."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-032-o-aposentado.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-032-o-aposentado"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "032 — O Aposentado",
         "identifier": "00-05-032",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-032-o-aposentado.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-032-o-aposentado.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-032-o-aposentado",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-032-o-aposentado",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 032 — O Aposentado.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "032 — O Aposentado",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-032-o-aposentado.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-032-o-aposentado"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 032 — O Aposentado
 

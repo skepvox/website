@@ -14,7 +14,7 @@ chapter-title: "157 — Fase Brilhante"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-157-fase-brilhante.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-157-fase-brilhante"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 157 — Fase Brilhante."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 157 — Fase Brilhante."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-157-fase-brilhante.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-157-fase-brilhante"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "157 — Fase Brilhante",
         "identifier": "00-19-157",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-157-fase-brilhante.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-157-fase-brilhante.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-157-fase-brilhante",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-157-fase-brilhante",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 157 — Fase Brilhante.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "157 — Fase Brilhante",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-157-fase-brilhante.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-19-157-fase-brilhante"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 157 — Fase Brilhante
 

@@ -14,7 +14,7 @@ chapter-title: "074 — A Presilha"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-074-a-presilha.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-074-a-presilha"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 074 — A Presilha."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 074 — A Presilha."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-074-a-presilha.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-074-a-presilha"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "074 — A Presilha",
         "identifier": "00-08-074",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-074-a-presilha.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-074-a-presilha.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-074-a-presilha",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-074-a-presilha",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 074 — A Presilha.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "074 — A Presilha",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-074-a-presilha.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-074-a-presilha"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 074 — A Presilha
 

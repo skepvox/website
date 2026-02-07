@@ -14,7 +14,7 @@ chapter-title: "057 — Das Encomendas"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-057-das-encomendas.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-057-das-encomendas"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 057 — Das Encomendas."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 057 — Das Encomendas."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-057-das-encomendas.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-057-das-encomendas"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "057 — Das Encomendas",
         "identifier": "00-07-057",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-057-das-encomendas.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-057-das-encomendas.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-057-das-encomendas",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-057-das-encomendas",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 057 — Das Encomendas.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "057 — Das Encomendas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-057-das-encomendas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-057-das-encomendas"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 057 — Das Encomendas
 

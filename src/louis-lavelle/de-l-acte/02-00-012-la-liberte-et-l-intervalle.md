@@ -138,7 +138,7 @@ head:
       }
 ---
 
-[Retour au livre](/louis-lavelle/de-l-acte.html)
+[Retour au livre](/louis-lavelle/de-l-acte)
 
 ## Livre II. L'intervalle — Première partie : La genèse de l'intervalle
 

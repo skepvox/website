@@ -14,7 +14,7 @@ chapter-title: "058 — Confidência"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-058-confidencia.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-058-confidencia"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 058 — Confidência."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 058 — Confidência."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-058-confidencia.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-058-confidencia"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "058 — Confidência",
         "identifier": "00-09-058",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-058-confidencia.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-058-confidencia.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-058-confidencia",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-058-confidencia",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 058 — Confidência.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "058 — Confidência",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-058-confidencia.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-09-058-confidencia"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 058 — Confidência
 

@@ -14,7 +14,7 @@ chapter-title: "031 — As Curiosidades de Capitu"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-031-as-curiosidades-de-capitu.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-031-as-curiosidades-de-capitu"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 031 — As Curiosidades de Capitu."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 031 — As Curiosidades de Capitu."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-031-as-curiosidades-de-capitu.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-031-as-curiosidades-de-capitu"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "031 — As Curiosidades de Capitu",
         "identifier": "00-04-031",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-031-as-curiosidades-de-capitu.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-031-as-curiosidades-de-capitu.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-031-as-curiosidades-de-capitu",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-031-as-curiosidades-de-capitu",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 031 — As Curiosidades de Capitu.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "031 — As Curiosidades de Capitu",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-031-as-curiosidades-de-capitu.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-031-as-curiosidades-de-capitu"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 031 — As Curiosidades de Capitu
 

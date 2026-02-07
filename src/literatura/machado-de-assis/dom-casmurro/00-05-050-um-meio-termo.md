@@ -14,7 +14,7 @@ chapter-title: "050 — Um MEIO-TERMO"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-050-um-meio-termo.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-050-um-meio-termo"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 050 — Um MEIO-TERMO."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 050 — Um MEIO-TERMO."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-050-um-meio-termo.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-050-um-meio-termo"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "050 — Um MEIO-TERMO",
         "identifier": "00-05-050",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-050-um-meio-termo.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-050-um-meio-termo.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-050-um-meio-termo",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-050-um-meio-termo",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 050 — Um MEIO-TERMO.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "050 — Um MEIO-TERMO",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-050-um-meio-termo.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-050-um-meio-termo"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 050 — Um MEIO-TERMO
 

@@ -14,7 +14,7 @@ chapter-title: "147 — A Exposição Retrospectiva"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-147-a-exposicao-retrospectiva.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-147-a-exposicao-retrospectiva"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 147 — A Exposição Retrospectiva."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 147 — A Exposição Retrospectiva."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-147-a-exposicao-retrospectiva.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-147-a-exposicao-retrospectiva"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "147 — A Exposição Retrospectiva",
         "identifier": "00-15-147",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-147-a-exposicao-retrospectiva.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-147-a-exposicao-retrospectiva.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-147-a-exposicao-retrospectiva",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-147-a-exposicao-retrospectiva",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 147 — A Exposição Retrospectiva.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "147 — A Exposição Retrospectiva",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-147-a-exposicao-retrospectiva.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-147-a-exposicao-retrospectiva"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 147 — A Exposição Retrospectiva
 

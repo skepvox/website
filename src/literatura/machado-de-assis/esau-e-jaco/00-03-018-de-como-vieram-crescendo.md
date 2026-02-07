@@ -14,7 +14,7 @@ chapter-title: "018 — De como Vieram Crescendo"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-018-de-como-vieram-crescendo.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-018-de-como-vieram-crescendo"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 018 — De como Vieram Crescendo."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 018 — De como Vieram Crescendo."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-018-de-como-vieram-crescendo.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-018-de-como-vieram-crescendo"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "018 — De como Vieram Crescendo",
         "identifier": "00-03-018",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-018-de-como-vieram-crescendo.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-018-de-como-vieram-crescendo.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-018-de-como-vieram-crescendo",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-018-de-como-vieram-crescendo",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 018 — De como Vieram Crescendo.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "018 — De como Vieram Crescendo",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-018-de-como-vieram-crescendo.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-018-de-como-vieram-crescendo"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 018 — De como Vieram Crescendo
 

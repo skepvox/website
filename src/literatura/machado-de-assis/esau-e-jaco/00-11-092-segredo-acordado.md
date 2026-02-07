@@ -14,7 +14,7 @@ chapter-title: "092 — Segredo Acordado"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-092-segredo-acordado.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-092-segredo-acordado"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 092 — Segredo Acordado."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 092 — Segredo Acordado."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-092-segredo-acordado.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-092-segredo-acordado"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "092 — Segredo Acordado",
         "identifier": "00-11-092",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-092-segredo-acordado.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-092-segredo-acordado.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-092-segredo-acordado",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-092-segredo-acordado",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 092 — Segredo Acordado.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "092 — Segredo Acordado",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-092-segredo-acordado.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-092-segredo-acordado"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 092 — Segredo Acordado
 

@@ -14,7 +14,7 @@ chapter-title: "043 — Você Tem Medo?"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-043-voce-tem-medo.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-043-voce-tem-medo"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 043 — Você Tem Medo?."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 043 — Você Tem Medo?."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-043-voce-tem-medo.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-043-voce-tem-medo"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "043 — Você Tem Medo?",
         "identifier": "00-05-043",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-043-voce-tem-medo.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-043-voce-tem-medo.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-043-voce-tem-medo",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-043-voce-tem-medo",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 043 — Você Tem Medo?.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "043 — Você Tem Medo?",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-043-voce-tem-medo.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-043-voce-tem-medo"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 043 — Você Tem Medo?
 

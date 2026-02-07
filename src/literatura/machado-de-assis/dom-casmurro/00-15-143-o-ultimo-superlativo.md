@@ -14,7 +14,7 @@ chapter-title: "143 — O Último Superlativo"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-143-o-ultimo-superlativo.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-143-o-ultimo-superlativo"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 143 — O Último Superlativo."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 143 — O Último Superlativo."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-143-o-ultimo-superlativo.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-143-o-ultimo-superlativo"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "143 — O Último Superlativo",
         "identifier": "00-15-143",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-143-o-ultimo-superlativo.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-143-o-ultimo-superlativo.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-143-o-ultimo-superlativo",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-143-o-ultimo-superlativo",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 143 — O Último Superlativo.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "143 — O Último Superlativo",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-143-o-ultimo-superlativo.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-143-o-ultimo-superlativo"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 143 — O Último Superlativo
 

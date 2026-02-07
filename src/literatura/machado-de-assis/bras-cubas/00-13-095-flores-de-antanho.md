@@ -14,7 +14,7 @@ chapter-title: "095 — Flores de Antanho"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-095-flores-de-antanho.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-095-flores-de-antanho"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 095 — Flores de Antanho."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 095 — Flores de Antanho."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-095-flores-de-antanho.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-095-flores-de-antanho"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "095 — Flores de Antanho",
         "identifier": "00-13-095",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-095-flores-de-antanho.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-095-flores-de-antanho.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-095-flores-de-antanho",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-095-flores-de-antanho",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 095 — Flores de Antanho.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "095 — Flores de Antanho",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-095-flores-de-antanho.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-13-095-flores-de-antanho"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 095 — Flores de Antanho
 

@@ -14,7 +14,7 @@ chapter-title: "006 — Maternidade"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-006-maternidade.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-006-maternidade"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 006 — Maternidade."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 006 — Maternidade."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-006-maternidade.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-006-maternidade"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "006 — Maternidade",
         "identifier": "00-02-006",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-006-maternidade.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-006-maternidade.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-006-maternidade",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-006-maternidade",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 006 — Maternidade.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "006 — Maternidade",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-006-maternidade.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-02-006-maternidade"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 006 — Maternidade
 

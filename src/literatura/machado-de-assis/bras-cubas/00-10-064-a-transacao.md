@@ -14,7 +14,7 @@ chapter-title: "064 — A Transação"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-064-a-transacao.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-064-a-transacao"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 064 — A Transação."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 064 — A Transação."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-064-a-transacao.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-064-a-transacao"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "064 — A Transação",
         "identifier": "00-10-064",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-064-a-transacao.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-064-a-transacao.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-064-a-transacao",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-064-a-transacao",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 064 — A Transação.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "064 — A Transação",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-064-a-transacao.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-064-a-transacao"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 064 — A Transação
 

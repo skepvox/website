@@ -14,7 +14,7 @@ chapter-title: "145 — O Regresso"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-145-o-regresso.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-145-o-regresso"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 145 — O Regresso."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 145 — O Regresso."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-145-o-regresso.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-145-o-regresso"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "145 — O Regresso",
         "identifier": "00-15-145",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-145-o-regresso.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-145-o-regresso.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-145-o-regresso",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-145-o-regresso",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 145 — O Regresso.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "145 — O Regresso",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-145-o-regresso.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-15-145-o-regresso"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 145 — O Regresso
 

@@ -14,7 +14,7 @@ chapter-title: "012 — Esse Aires"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-012-esse-aires.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-012-esse-aires"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 012 — Esse Aires."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 012 — Esse Aires."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-012-esse-aires.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-012-esse-aires"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "012 — Esse Aires",
         "identifier": "00-03-012",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-012-esse-aires.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-012-esse-aires.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-012-esse-aires",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-012-esse-aires",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 012 — Esse Aires.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "012 — Esse Aires",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-012-esse-aires.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-03-012-esse-aires"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 012 — Esse Aires
 

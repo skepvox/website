@@ -14,7 +14,7 @@ chapter-title: "035 — O Caminho de Damasco"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-035-o-caminho-de-damasco.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-035-o-caminho-de-damasco"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 035 — O Caminho de Damasco."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 035 — O Caminho de Damasco."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-035-o-caminho-de-damasco.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-035-o-caminho-de-damasco"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "035 — O Caminho de Damasco",
         "identifier": "00-07-035",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-035-o-caminho-de-damasco.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-035-o-caminho-de-damasco.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-035-o-caminho-de-damasco",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-035-o-caminho-de-damasco",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 035 — O Caminho de Damasco.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "035 — O Caminho de Damasco",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-035-o-caminho-de-damasco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-07-035-o-caminho-de-damasco"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 035 — O Caminho de Damasco
 

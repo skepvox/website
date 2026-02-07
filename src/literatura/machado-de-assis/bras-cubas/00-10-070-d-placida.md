@@ -14,7 +14,7 @@ chapter-title: "070 — D. Plácida"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-070-d-placida.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-070-d-placida"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 070 — D. Plácida."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 070 — D. Plácida."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-070-d-placida.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-070-d-placida"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "070 — D. Plácida",
         "identifier": "00-10-070",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-070-d-placida.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-070-d-placida.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-070-d-placida",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-070-d-placida",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 070 — D. Plácida.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "070 — D. Plácida",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-070-d-placida.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-070-d-placida"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 070 — D. Plácida
 

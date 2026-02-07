@@ -14,7 +14,7 @@ chapter-title: "085 — O Defunto"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-085-o-defunto.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-085-o-defunto"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 085 — O Defunto."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 085 — O Defunto."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-085-o-defunto.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-085-o-defunto"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "085 — O Defunto",
         "identifier": "00-09-085",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-085-o-defunto.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-085-o-defunto.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-085-o-defunto",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-085-o-defunto",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 085 — O Defunto.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "085 — O Defunto",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-085-o-defunto.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-085-o-defunto"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 085 — O Defunto
 

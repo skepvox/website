@@ -14,7 +14,7 @@ chapter-title: "024 — Robespierre e Luís XVI"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-024-robespierre-e-luis-xvi.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-024-robespierre-e-luis-xvi"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 024 — Robespierre e Luís XVI."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 024 — Robespierre e Luís XVI."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-024-robespierre-e-luis-xvi.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-024-robespierre-e-luis-xvi"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "024 — Robespierre e Luís XVI",
         "identifier": "00-04-024",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-024-robespierre-e-luis-xvi.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-024-robespierre-e-luis-xvi.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-024-robespierre-e-luis-xvi",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-024-robespierre-e-luis-xvi",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 024 — Robespierre e Luís XVI.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "024 — Robespierre e Luís XVI",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-024-robespierre-e-luis-xvi.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-04-024-robespierre-e-luis-xvi"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 024 — Robespierre e Luís XVI
 

@@ -14,7 +14,7 @@ chapter-title: "Dedicatoria"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-01-001-dedicatoria.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-01-001-dedicatoria"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. Dedicatoria."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. Dedicatoria."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-01-001-dedicatoria.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-01-001-dedicatoria"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "Dedicatoria",
         "identifier": "00-01-001",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-01-001-dedicatoria.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-01-001-dedicatoria.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-01-001-dedicatoria",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-01-001-dedicatoria",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. Dedicatoria.",
@@ -113,19 +113,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Dedicatoria",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-01-001-dedicatoria.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-01-001-dedicatoria"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## Dedicatoria
 

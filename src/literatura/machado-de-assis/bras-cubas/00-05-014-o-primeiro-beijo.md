@@ -14,7 +14,7 @@ chapter-title: "014 — O Primeiro Beijo"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-014-o-primeiro-beijo.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-014-o-primeiro-beijo"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 014 — O Primeiro Beijo."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 014 — O Primeiro Beijo."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-014-o-primeiro-beijo.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-014-o-primeiro-beijo"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "014 — O Primeiro Beijo",
         "identifier": "00-05-014",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-014-o-primeiro-beijo.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-014-o-primeiro-beijo.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-014-o-primeiro-beijo",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-014-o-primeiro-beijo",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 014 — O Primeiro Beijo.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "014 — O Primeiro Beijo",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-014-o-primeiro-beijo.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-014-o-primeiro-beijo"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 014 — O Primeiro Beijo
 

@@ -118,9 +118,9 @@ Abaixo, uma bibliografia completa de suas obras, organizadas por gênero e ordem
 
 ## Obras no Skepvox
 
-*   [São Bernardo](/literatura/graciliano-ramos/sao-bernardo.html)
-*   [Angústia](/literatura/graciliano-ramos/angustia.html)
-*   [Vidas Secas](/literatura/graciliano-ramos/vidas-secas.html)
+*   [São Bernardo](/literatura/graciliano-ramos/sao-bernardo)
+*   [Angústia](/literatura/graciliano-ramos/angustia)
+*   [Vidas Secas](/literatura/graciliano-ramos/vidas-secas)
 
 ## Romances
 

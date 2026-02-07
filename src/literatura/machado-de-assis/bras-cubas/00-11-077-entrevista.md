@@ -14,7 +14,7 @@ chapter-title: "077 — Entrevista"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-077-entrevista.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-077-entrevista"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 077 — Entrevista."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 077 — Entrevista."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-077-entrevista.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-077-entrevista"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "077 — Entrevista",
         "identifier": "00-11-077",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-077-entrevista.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-077-entrevista.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-077-entrevista",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-077-entrevista",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 077 — Entrevista.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "077 — Entrevista",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-077-entrevista.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-077-entrevista"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 077 — Entrevista
 

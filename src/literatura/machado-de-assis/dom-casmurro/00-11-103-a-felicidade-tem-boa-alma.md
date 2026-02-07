@@ -14,7 +14,7 @@ chapter-title: "103 — A Felicidade Tem Boa Alma"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-103-a-felicidade-tem-boa-alma.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-103-a-felicidade-tem-boa-alma"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 103 — A Felicidade Tem Boa Alma."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 103 — A Felicidade Tem Boa Alma."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-103-a-felicidade-tem-boa-alma.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-103-a-felicidade-tem-boa-alma"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "103 — A Felicidade Tem Boa Alma",
         "identifier": "00-11-103",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-103-a-felicidade-tem-boa-alma.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-103-a-felicidade-tem-boa-alma.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-103-a-felicidade-tem-boa-alma",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-103-a-felicidade-tem-boa-alma",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 103 — A Felicidade Tem Boa Alma.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "103 — A Felicidade Tem Boa Alma",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-103-a-felicidade-tem-boa-alma.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-11-103-a-felicidade-tem-boa-alma"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 103 — A Felicidade Tem Boa Alma
 

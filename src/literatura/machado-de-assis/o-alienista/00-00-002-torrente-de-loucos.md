@@ -13,7 +13,7 @@ chapter-title: "II — Torrente de Loucos"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-002-torrente-de-loucos.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-002-torrente-de-loucos"
   - - meta
     - name: description
       content: "Texto integral de O Alienista, de Machado de Assis. II — Torrente de Loucos."
@@ -25,7 +25,7 @@ head:
       content: "Texto integral de O Alienista, de Machado de Assis. II — Torrente de Loucos."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-002-torrente-de-loucos.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-002-torrente-de-loucos"
   - - meta
     - property: og:type
       content: article
@@ -58,8 +58,8 @@ head:
         "@type": "Chapter",
         "name": "II — Torrente de Loucos",
         "identifier": "00-00-002",
-        "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-002-torrente-de-loucos.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-002-torrente-de-loucos.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-002-torrente-de-loucos",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-002-torrente-de-loucos",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -73,7 +73,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de O Alienista, de Machado de Assis. II — Torrente de Loucos.",
@@ -102,19 +102,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "O Alienista",
-            "item": "https://skepvox.com/literatura/machado-de-assis/o-alienista.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/o-alienista"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "II — Torrente de Loucos",
-            "item": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-002-torrente-de-loucos.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-002-torrente-de-loucos"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/o-alienista.html)
+[Voltar ao livro](/literatura/machado-de-assis/o-alienista)
 
 ## II — Torrente de Loucos
 

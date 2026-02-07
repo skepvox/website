@@ -13,7 +13,7 @@ chapter-title: "IV — Nota do Autor"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-004-nota-do-autor.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-004-nota-do-autor"
   - - meta
     - name: description
       content: "Texto integral de O Alienista, de Machado de Assis. IV — Nota do Autor."
@@ -25,7 +25,7 @@ head:
       content: "Texto integral de O Alienista, de Machado de Assis. IV — Nota do Autor."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-004-nota-do-autor.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-004-nota-do-autor"
   - - meta
     - property: og:type
       content: article
@@ -58,8 +58,8 @@ head:
         "@type": "Chapter",
         "name": "IV — Nota do Autor",
         "identifier": "00-00-004",
-        "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-004-nota-do-autor.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-004-nota-do-autor.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-004-nota-do-autor",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-004-nota-do-autor",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -73,7 +73,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de O Alienista, de Machado de Assis. IV — Nota do Autor.",
@@ -102,19 +102,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "O Alienista",
-            "item": "https://skepvox.com/literatura/machado-de-assis/o-alienista.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/o-alienista"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "IV — Nota do Autor",
-            "item": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-004-nota-do-autor.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-004-nota-do-autor"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/o-alienista.html)
+[Voltar ao livro](/literatura/machado-de-assis/o-alienista)
 
 ## IV — Nota do Autor
 

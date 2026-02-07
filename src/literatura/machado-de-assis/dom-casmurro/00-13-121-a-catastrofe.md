@@ -14,7 +14,7 @@ chapter-title: "121 — A Catástrofe"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-121-a-catastrofe.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-121-a-catastrofe"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 121 — A Catástrofe."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 121 — A Catástrofe."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-121-a-catastrofe.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-121-a-catastrofe"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "121 — A Catástrofe",
         "identifier": "00-13-121",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-121-a-catastrofe.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-121-a-catastrofe.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-121-a-catastrofe",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-121-a-catastrofe",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 121 — A Catástrofe.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "121 — A Catástrofe",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-121-a-catastrofe.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-121-a-catastrofe"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 121 — A Catástrofe
 

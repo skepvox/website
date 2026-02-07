@@ -14,7 +14,7 @@ chapter-title: "037 — A Alma Echeia de Mistérios"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-037-a-alma-echeia-de-misterios.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-037-a-alma-echeia-de-misterios"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 037 — A Alma Echeia de Mistérios."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 037 — A Alma Echeia de Mistérios."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-037-a-alma-echeia-de-misterios.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-037-a-alma-echeia-de-misterios"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "037 — A Alma Echeia de Mistérios",
         "identifier": "00-04-037",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-037-a-alma-echeia-de-misterios.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-037-a-alma-echeia-de-misterios.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-037-a-alma-echeia-de-misterios",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-037-a-alma-echeia-de-misterios",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 037 — A Alma Echeia de Mistérios.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "037 — A Alma Echeia de Mistérios",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-037-a-alma-echeia-de-misterios.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-04-037-a-alma-echeia-de-misterios"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 037 — A Alma Echeia de Mistérios
 

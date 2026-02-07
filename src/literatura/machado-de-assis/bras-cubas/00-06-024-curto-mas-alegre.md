@@ -14,7 +14,7 @@ chapter-title: "024 — Curto, mas Alegre"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-024-curto-mas-alegre.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-024-curto-mas-alegre"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 024 — Curto, mas Alegre."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 024 — Curto, mas Alegre."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-024-curto-mas-alegre.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-024-curto-mas-alegre"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "024 — Curto, mas Alegre",
         "identifier": "00-06-024",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-024-curto-mas-alegre.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-024-curto-mas-alegre.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-024-curto-mas-alegre",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-024-curto-mas-alegre",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 024 — Curto, mas Alegre.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "024 — Curto, mas Alegre",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-024-curto-mas-alegre.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-024-curto-mas-alegre"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 024 — Curto, mas Alegre
 

@@ -18,7 +18,7 @@ BOOK_TITLE = 'Vidas Secas'
 BOOK_SLUG = 'vidas-secas'
 BOOK_PATH = f'/literatura/{AUTHOR_SLUG}/{BOOK_SLUG}'
 BOOK_PATH_HTML = f'{BOOK_PATH}.html'
-BOOK_URL = f'{SITE_BASE}{BOOK_PATH_HTML}'
+BOOK_URL = f'{SITE_BASE}{BOOK_PATH}'
 BOOK_DESCRIPTION = (
     'Texto integral de Vidas Secas, de Graciliano Ramos, '
     'com capítulos separados para leitura.'
@@ -224,14 +224,14 @@ def sync_leaf_bodies() -> list[dict]:
         sys.exit(f'No local source files found in {LOCAL_SOURCE_DIR}')
 
     chapters: list[dict] = []
-    back_link = f'[Voltar ao livro]({BOOK_PATH_HTML})'
+    back_link = f'[Voltar ao livro]({BOOK_PATH})'
 
     for local_path in local_files:
         target_path = CHAPTER_DIR / local_path.name
         book_number, part_number, chapter_number = parse_file_id(local_path.name)
         identifier = f'{book_number}-{part_number}-{chapter_number}'
-        url_abs = f'{SITE_BASE}{BOOK_PATH}/{target_path.stem}.html'
-        url_rel = f'{BOOK_PATH}/{target_path.stem}.html'
+        url_abs = f'{SITE_BASE}{BOOK_PATH}/{target_path.stem}'
+        url_rel = f'{BOOK_PATH}/{target_path.stem}'
 
         local_text = local_path.read_text(encoding='utf-8')
         local_meta = parse_frontmatter(local_text)
@@ -286,8 +286,8 @@ def main() -> None:
             chapter_title = (meta.get('chapter-title') or meta.get('title') or path.stem).strip()
             book_number, part_number, chapter_number = parse_file_id(path.name)
             identifier = f'{book_number}-{part_number}-{chapter_number}'
-            url_abs = f'{SITE_BASE}{BOOK_PATH}/{path.stem}.html'
-            url_rel = f'{BOOK_PATH}/{path.stem}.html'
+            url_abs = f'{SITE_BASE}{BOOK_PATH}/{path.stem}'
+            url_rel = f'{BOOK_PATH}/{path.stem}'
             chapters.append(
                 {
                     'title': chapter_title,
@@ -298,7 +298,7 @@ def main() -> None:
                 }
             )
 
-    toc_lines = ['## Sumário', '']
+    toc_lines = ['**Sumário**', '']
     toc_lines.extend([f"- [{chapter['title']}]({chapter['url_rel']})" for chapter in chapters])
 
     bodies: list[str] = []

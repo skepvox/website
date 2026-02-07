@@ -14,7 +14,7 @@ chapter-title: "096 — O Substituto"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-096-o-substituto.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-096-o-substituto"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 096 — O Substituto."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 096 — O Substituto."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-096-o-substituto.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-096-o-substituto"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "096 — O Substituto",
         "identifier": "00-10-096",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-096-o-substituto.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-096-o-substituto.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-096-o-substituto",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-096-o-substituto",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 096 — O Substituto.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "096 — O Substituto",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-096-o-substituto.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-10-096-o-substituto"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 096 — O Substituto
 

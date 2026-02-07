@@ -14,7 +14,7 @@ chapter-title: "120 — Penúltimo"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-120-penultimo.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-120-penultimo"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 120 — Penúltimo."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 120 — Penúltimo."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-120-penultimo.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-120-penultimo"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "120 — Penúltimo",
         "identifier": "00-13-120",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-120-penultimo.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-120-penultimo.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-120-penultimo",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-120-penultimo",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 120 — Penúltimo.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "120 — Penúltimo",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-120-penultimo.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-13-120-penultimo"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 120 — Penúltimo
 

@@ -14,7 +14,7 @@ chapter-title: "073 — O Luncheon"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-073-o-luncheon.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-073-o-luncheon"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 073 — O Luncheon."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 073 — O Luncheon."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-073-o-luncheon.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-073-o-luncheon"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "073 — O Luncheon",
         "identifier": "00-11-073",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-073-o-luncheon.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-073-o-luncheon.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-073-o-luncheon",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-073-o-luncheon",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 073 — O Luncheon.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "073 — O Luncheon",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-073-o-luncheon.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-073-o-luncheon"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 073 — O Luncheon
 

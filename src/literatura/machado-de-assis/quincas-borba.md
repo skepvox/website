@@ -5,7 +5,7 @@ outline: 2
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/quincas-borba.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/quincas-borba"
   - - meta
     - name: description
       content: "Texto integral de Quincas Borba, de Machado de Assis, com capítulos separados para leitura."
@@ -17,7 +17,7 @@ head:
       content: "Texto integral de Quincas Borba, de Machado de Assis, com capítulos separados para leitura."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/quincas-borba.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/quincas-borba"
   - - meta
     - property: og:type
       content: book
@@ -54,374 +54,374 @@ head:
           "name": "Machado de Assis"
         },
         "inLanguage": "pt-BR",
-        "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba",
         "description": "Texto integral de Quincas Borba, de Machado de Assis, com capítulos separados para leitura.",
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "hasPart": [
           {
             "@type": "Chapter",
             "name": "Capítulo — 01",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-001-capitulo-01.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-001-capitulo-01",
             "identifier": "00-01-001"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 02",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-002-capitulo-02.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-002-capitulo-02",
             "identifier": "00-01-002"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 03",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-003-capitulo-03.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-003-capitulo-03",
             "identifier": "00-01-003"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 04",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-004-capitulo-04.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-004-capitulo-04",
             "identifier": "00-01-004"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 05",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-005-capitulo-05.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-005-capitulo-05",
             "identifier": "00-01-005"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 06",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-006-capitulo-06.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-006-capitulo-06",
             "identifier": "00-01-006"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 07",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-007-capitulo-07.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-007-capitulo-07",
             "identifier": "00-01-007"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 08",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-008-capitulo-08.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-008-capitulo-08",
             "identifier": "00-01-008"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 09",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-009-capitulo-09.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-009-capitulo-09",
             "identifier": "00-01-009"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 10",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-010-capitulo-10.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-010-capitulo-10",
             "identifier": "00-01-010"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 11",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-011-capitulo-11.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-011-capitulo-11",
             "identifier": "00-02-011"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 12",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-012-capitulo-12.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-012-capitulo-12",
             "identifier": "00-02-012"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 13",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-013-capitulo-13.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-013-capitulo-13",
             "identifier": "00-02-013"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 14",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-014-capitulo-14.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-014-capitulo-14",
             "identifier": "00-02-014"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 15",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-015-capitulo-15.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-015-capitulo-15",
             "identifier": "00-02-015"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 16",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-016-capitulo-16.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-016-capitulo-16",
             "identifier": "00-02-016"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 17",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-017-capitulo-17.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-017-capitulo-17",
             "identifier": "00-02-017"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 18",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-018-capitulo-18.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-018-capitulo-18",
             "identifier": "00-02-018"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 19",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-019-capitulo-19.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-019-capitulo-19",
             "identifier": "00-02-019"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 20",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-020-capitulo-20.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-020-capitulo-20",
             "identifier": "00-02-020"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 21",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-021-capitulo-21.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-021-capitulo-21",
             "identifier": "00-03-021"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 22",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-022-capitulo-22.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-022-capitulo-22",
             "identifier": "00-03-022"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 23",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-023-capitulo-23.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-023-capitulo-23",
             "identifier": "00-03-023"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 24",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-024-capitulo-24.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-024-capitulo-24",
             "identifier": "00-03-024"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 25",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-025-capitulo-25.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-025-capitulo-25",
             "identifier": "00-03-025"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 26",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-026-capitulo-26.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-026-capitulo-26",
             "identifier": "00-03-026"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 27",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-027-capitulo-27.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-027-capitulo-27",
             "identifier": "00-03-027"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 28",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-028-capitulo-28.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-028-capitulo-28",
             "identifier": "00-03-028"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 29",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-029-capitulo-29.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-029-capitulo-29",
             "identifier": "00-03-029"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 30",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-030-capitulo-30.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-030-capitulo-30",
             "identifier": "00-03-030"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 31",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-031-capitulo-31.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-031-capitulo-31",
             "identifier": "00-04-031"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 32",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-032-capitulo-32.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-032-capitulo-32",
             "identifier": "00-04-032"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 33",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-033-capitulo-33.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-033-capitulo-33",
             "identifier": "00-04-033"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 34",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-034-capitulo-34.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-034-capitulo-34",
             "identifier": "00-04-034"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 35",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-035-capitulo-35.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-035-capitulo-35",
             "identifier": "00-04-035"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 36",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-036-capitulo-36.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-036-capitulo-36",
             "identifier": "00-04-036"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 37",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-037-capitulo-37.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-037-capitulo-37",
             "identifier": "00-04-037"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 38",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-038-capitulo-38.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-038-capitulo-38",
             "identifier": "00-04-038"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 39",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-039-capitulo-39.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-039-capitulo-39",
             "identifier": "00-04-039"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 40",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-040-capitulo-40.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-040-capitulo-40",
             "identifier": "00-04-040"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 41",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-041-capitulo-41.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-041-capitulo-41",
             "identifier": "00-05-041"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 42",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-042-capitulo-42.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-042-capitulo-42",
             "identifier": "00-05-042"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 43",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-043-capitulo-43.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-043-capitulo-43",
             "identifier": "00-05-043"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 44",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-044-capitulo-44.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-044-capitulo-44",
             "identifier": "00-05-044"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 45",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-045-capitulo-45.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-045-capitulo-45",
             "identifier": "00-05-045"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 46",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-046-capitulo-46.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-046-capitulo-46",
             "identifier": "00-05-046"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 47",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-047-capitulo-47.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-047-capitulo-47",
             "identifier": "00-05-047"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 48",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-048-capitulo-48.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-048-capitulo-48",
             "identifier": "00-05-048"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 49",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-049-capitulo-49.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-049-capitulo-49",
             "identifier": "00-05-049"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 50",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-050-capitulo-50.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-050-capitulo-50",
             "identifier": "00-05-050"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 51",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-051-capitulo-51.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-051-capitulo-51",
             "identifier": "00-06-051"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 52",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-052-capitulo-52.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-052-capitulo-52",
             "identifier": "00-06-052"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 53",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-053-capitulo-53.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-053-capitulo-53",
             "identifier": "00-06-053"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 54",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-054-capitulo-54.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-054-capitulo-54",
             "identifier": "00-06-054"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 55",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-055-capitulo-55.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-055-capitulo-55",
             "identifier": "00-06-055"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 56",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-056-capitulo-56.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-056-capitulo-56",
             "identifier": "00-06-056"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 57",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-057-capitulo-57.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-057-capitulo-57",
             "identifier": "00-06-057"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 58",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-058-capitulo-58.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-058-capitulo-58",
             "identifier": "00-06-058"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 59",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-059-capitulo-59.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-059-capitulo-59",
             "identifier": "00-06-059"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 60",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-060-capitulo-60.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-060-capitulo-60",
             "identifier": "00-06-060"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo — 61",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-07-061-capitulo-61.html",
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-07-061-capitulo-61",
             "identifier": "00-07-061"
           }
         ]
@@ -439,367 +439,367 @@ head:
             "@type": "ListItem",
             "position": 1,
             "name": "Capítulo — 01",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-001-capitulo-01.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-001-capitulo-01"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Capítulo — 02",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-002-capitulo-02.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-002-capitulo-02"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Capítulo — 03",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-003-capitulo-03.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-003-capitulo-03"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Capítulo — 04",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-004-capitulo-04.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-004-capitulo-04"
           },
           {
             "@type": "ListItem",
             "position": 5,
             "name": "Capítulo — 05",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-005-capitulo-05.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-005-capitulo-05"
           },
           {
             "@type": "ListItem",
             "position": 6,
             "name": "Capítulo — 06",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-006-capitulo-06.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-006-capitulo-06"
           },
           {
             "@type": "ListItem",
             "position": 7,
             "name": "Capítulo — 07",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-007-capitulo-07.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-007-capitulo-07"
           },
           {
             "@type": "ListItem",
             "position": 8,
             "name": "Capítulo — 08",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-008-capitulo-08.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-008-capitulo-08"
           },
           {
             "@type": "ListItem",
             "position": 9,
             "name": "Capítulo — 09",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-009-capitulo-09.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-009-capitulo-09"
           },
           {
             "@type": "ListItem",
             "position": 10,
             "name": "Capítulo — 10",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-010-capitulo-10.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-01-010-capitulo-10"
           },
           {
             "@type": "ListItem",
             "position": 11,
             "name": "Capítulo — 11",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-011-capitulo-11.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-011-capitulo-11"
           },
           {
             "@type": "ListItem",
             "position": 12,
             "name": "Capítulo — 12",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-012-capitulo-12.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-012-capitulo-12"
           },
           {
             "@type": "ListItem",
             "position": 13,
             "name": "Capítulo — 13",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-013-capitulo-13.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-013-capitulo-13"
           },
           {
             "@type": "ListItem",
             "position": 14,
             "name": "Capítulo — 14",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-014-capitulo-14.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-014-capitulo-14"
           },
           {
             "@type": "ListItem",
             "position": 15,
             "name": "Capítulo — 15",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-015-capitulo-15.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-015-capitulo-15"
           },
           {
             "@type": "ListItem",
             "position": 16,
             "name": "Capítulo — 16",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-016-capitulo-16.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-016-capitulo-16"
           },
           {
             "@type": "ListItem",
             "position": 17,
             "name": "Capítulo — 17",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-017-capitulo-17.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-017-capitulo-17"
           },
           {
             "@type": "ListItem",
             "position": 18,
             "name": "Capítulo — 18",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-018-capitulo-18.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-018-capitulo-18"
           },
           {
             "@type": "ListItem",
             "position": 19,
             "name": "Capítulo — 19",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-019-capitulo-19.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-019-capitulo-19"
           },
           {
             "@type": "ListItem",
             "position": 20,
             "name": "Capítulo — 20",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-020-capitulo-20.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-02-020-capitulo-20"
           },
           {
             "@type": "ListItem",
             "position": 21,
             "name": "Capítulo — 21",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-021-capitulo-21.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-021-capitulo-21"
           },
           {
             "@type": "ListItem",
             "position": 22,
             "name": "Capítulo — 22",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-022-capitulo-22.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-022-capitulo-22"
           },
           {
             "@type": "ListItem",
             "position": 23,
             "name": "Capítulo — 23",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-023-capitulo-23.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-023-capitulo-23"
           },
           {
             "@type": "ListItem",
             "position": 24,
             "name": "Capítulo — 24",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-024-capitulo-24.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-024-capitulo-24"
           },
           {
             "@type": "ListItem",
             "position": 25,
             "name": "Capítulo — 25",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-025-capitulo-25.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-025-capitulo-25"
           },
           {
             "@type": "ListItem",
             "position": 26,
             "name": "Capítulo — 26",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-026-capitulo-26.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-026-capitulo-26"
           },
           {
             "@type": "ListItem",
             "position": 27,
             "name": "Capítulo — 27",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-027-capitulo-27.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-027-capitulo-27"
           },
           {
             "@type": "ListItem",
             "position": 28,
             "name": "Capítulo — 28",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-028-capitulo-28.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-028-capitulo-28"
           },
           {
             "@type": "ListItem",
             "position": 29,
             "name": "Capítulo — 29",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-029-capitulo-29.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-029-capitulo-29"
           },
           {
             "@type": "ListItem",
             "position": 30,
             "name": "Capítulo — 30",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-030-capitulo-30.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-03-030-capitulo-30"
           },
           {
             "@type": "ListItem",
             "position": 31,
             "name": "Capítulo — 31",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-031-capitulo-31.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-031-capitulo-31"
           },
           {
             "@type": "ListItem",
             "position": 32,
             "name": "Capítulo — 32",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-032-capitulo-32.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-032-capitulo-32"
           },
           {
             "@type": "ListItem",
             "position": 33,
             "name": "Capítulo — 33",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-033-capitulo-33.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-033-capitulo-33"
           },
           {
             "@type": "ListItem",
             "position": 34,
             "name": "Capítulo — 34",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-034-capitulo-34.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-034-capitulo-34"
           },
           {
             "@type": "ListItem",
             "position": 35,
             "name": "Capítulo — 35",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-035-capitulo-35.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-035-capitulo-35"
           },
           {
             "@type": "ListItem",
             "position": 36,
             "name": "Capítulo — 36",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-036-capitulo-36.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-036-capitulo-36"
           },
           {
             "@type": "ListItem",
             "position": 37,
             "name": "Capítulo — 37",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-037-capitulo-37.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-037-capitulo-37"
           },
           {
             "@type": "ListItem",
             "position": 38,
             "name": "Capítulo — 38",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-038-capitulo-38.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-038-capitulo-38"
           },
           {
             "@type": "ListItem",
             "position": 39,
             "name": "Capítulo — 39",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-039-capitulo-39.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-039-capitulo-39"
           },
           {
             "@type": "ListItem",
             "position": 40,
             "name": "Capítulo — 40",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-040-capitulo-40.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-04-040-capitulo-40"
           },
           {
             "@type": "ListItem",
             "position": 41,
             "name": "Capítulo — 41",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-041-capitulo-41.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-041-capitulo-41"
           },
           {
             "@type": "ListItem",
             "position": 42,
             "name": "Capítulo — 42",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-042-capitulo-42.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-042-capitulo-42"
           },
           {
             "@type": "ListItem",
             "position": 43,
             "name": "Capítulo — 43",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-043-capitulo-43.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-043-capitulo-43"
           },
           {
             "@type": "ListItem",
             "position": 44,
             "name": "Capítulo — 44",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-044-capitulo-44.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-044-capitulo-44"
           },
           {
             "@type": "ListItem",
             "position": 45,
             "name": "Capítulo — 45",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-045-capitulo-45.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-045-capitulo-45"
           },
           {
             "@type": "ListItem",
             "position": 46,
             "name": "Capítulo — 46",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-046-capitulo-46.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-046-capitulo-46"
           },
           {
             "@type": "ListItem",
             "position": 47,
             "name": "Capítulo — 47",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-047-capitulo-47.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-047-capitulo-47"
           },
           {
             "@type": "ListItem",
             "position": 48,
             "name": "Capítulo — 48",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-048-capitulo-48.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-048-capitulo-48"
           },
           {
             "@type": "ListItem",
             "position": 49,
             "name": "Capítulo — 49",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-049-capitulo-49.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-049-capitulo-49"
           },
           {
             "@type": "ListItem",
             "position": 50,
             "name": "Capítulo — 50",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-050-capitulo-50.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-05-050-capitulo-50"
           },
           {
             "@type": "ListItem",
             "position": 51,
             "name": "Capítulo — 51",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-051-capitulo-51.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-051-capitulo-51"
           },
           {
             "@type": "ListItem",
             "position": 52,
             "name": "Capítulo — 52",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-052-capitulo-52.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-052-capitulo-52"
           },
           {
             "@type": "ListItem",
             "position": 53,
             "name": "Capítulo — 53",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-053-capitulo-53.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-053-capitulo-53"
           },
           {
             "@type": "ListItem",
             "position": 54,
             "name": "Capítulo — 54",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-054-capitulo-54.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-054-capitulo-54"
           },
           {
             "@type": "ListItem",
             "position": 55,
             "name": "Capítulo — 55",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-055-capitulo-55.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-055-capitulo-55"
           },
           {
             "@type": "ListItem",
             "position": 56,
             "name": "Capítulo — 56",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-056-capitulo-56.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-056-capitulo-56"
           },
           {
             "@type": "ListItem",
             "position": 57,
             "name": "Capítulo — 57",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-057-capitulo-57.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-057-capitulo-57"
           },
           {
             "@type": "ListItem",
             "position": 58,
             "name": "Capítulo — 58",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-058-capitulo-58.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-058-capitulo-58"
           },
           {
             "@type": "ListItem",
             "position": 59,
             "name": "Capítulo — 59",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-059-capitulo-59.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-059-capitulo-59"
           },
           {
             "@type": "ListItem",
             "position": 60,
             "name": "Capítulo — 60",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-060-capitulo-60.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-06-060-capitulo-60"
           },
           {
             "@type": "ListItem",
             "position": 61,
             "name": "Capítulo — 61",
-            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-07-061-capitulo-61.html"
+            "url": "https://skepvox.com/literatura/machado-de-assis/quincas-borba/00-07-061-capitulo-61"
           }
         ]
       }
@@ -820,7 +820,7 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Quincas Borba",
-            "item": "https://skepvox.com/literatura/machado-de-assis/quincas-borba.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/quincas-borba"
           }
         ]
       }
@@ -828,76 +828,76 @@ head:
 
 # Quincas Borba
 
-## Sumário
+**Sumário**
 
 - Capítulos 01 — 10
-  - [Capítulo — 01](/literatura/machado-de-assis/quincas-borba/00-01-001-capitulo-01.html)
-  - [Capítulo — 02](/literatura/machado-de-assis/quincas-borba/00-01-002-capitulo-02.html)
-  - [Capítulo — 03](/literatura/machado-de-assis/quincas-borba/00-01-003-capitulo-03.html)
-  - [Capítulo — 04](/literatura/machado-de-assis/quincas-borba/00-01-004-capitulo-04.html)
-  - [Capítulo — 05](/literatura/machado-de-assis/quincas-borba/00-01-005-capitulo-05.html)
-  - [Capítulo — 06](/literatura/machado-de-assis/quincas-borba/00-01-006-capitulo-06.html)
-  - [Capítulo — 07](/literatura/machado-de-assis/quincas-borba/00-01-007-capitulo-07.html)
-  - [Capítulo — 08](/literatura/machado-de-assis/quincas-borba/00-01-008-capitulo-08.html)
-  - [Capítulo — 09](/literatura/machado-de-assis/quincas-borba/00-01-009-capitulo-09.html)
-  - [Capítulo — 10](/literatura/machado-de-assis/quincas-borba/00-01-010-capitulo-10.html)
+  - [Capítulo — 01](/literatura/machado-de-assis/quincas-borba/00-01-001-capitulo-01)
+  - [Capítulo — 02](/literatura/machado-de-assis/quincas-borba/00-01-002-capitulo-02)
+  - [Capítulo — 03](/literatura/machado-de-assis/quincas-borba/00-01-003-capitulo-03)
+  - [Capítulo — 04](/literatura/machado-de-assis/quincas-borba/00-01-004-capitulo-04)
+  - [Capítulo — 05](/literatura/machado-de-assis/quincas-borba/00-01-005-capitulo-05)
+  - [Capítulo — 06](/literatura/machado-de-assis/quincas-borba/00-01-006-capitulo-06)
+  - [Capítulo — 07](/literatura/machado-de-assis/quincas-borba/00-01-007-capitulo-07)
+  - [Capítulo — 08](/literatura/machado-de-assis/quincas-borba/00-01-008-capitulo-08)
+  - [Capítulo — 09](/literatura/machado-de-assis/quincas-borba/00-01-009-capitulo-09)
+  - [Capítulo — 10](/literatura/machado-de-assis/quincas-borba/00-01-010-capitulo-10)
 - Capítulos 11 — 20
-  - [Capítulo — 11](/literatura/machado-de-assis/quincas-borba/00-02-011-capitulo-11.html)
-  - [Capítulo — 12](/literatura/machado-de-assis/quincas-borba/00-02-012-capitulo-12.html)
-  - [Capítulo — 13](/literatura/machado-de-assis/quincas-borba/00-02-013-capitulo-13.html)
-  - [Capítulo — 14](/literatura/machado-de-assis/quincas-borba/00-02-014-capitulo-14.html)
-  - [Capítulo — 15](/literatura/machado-de-assis/quincas-borba/00-02-015-capitulo-15.html)
-  - [Capítulo — 16](/literatura/machado-de-assis/quincas-borba/00-02-016-capitulo-16.html)
-  - [Capítulo — 17](/literatura/machado-de-assis/quincas-borba/00-02-017-capitulo-17.html)
-  - [Capítulo — 18](/literatura/machado-de-assis/quincas-borba/00-02-018-capitulo-18.html)
-  - [Capítulo — 19](/literatura/machado-de-assis/quincas-borba/00-02-019-capitulo-19.html)
-  - [Capítulo — 20](/literatura/machado-de-assis/quincas-borba/00-02-020-capitulo-20.html)
+  - [Capítulo — 11](/literatura/machado-de-assis/quincas-borba/00-02-011-capitulo-11)
+  - [Capítulo — 12](/literatura/machado-de-assis/quincas-borba/00-02-012-capitulo-12)
+  - [Capítulo — 13](/literatura/machado-de-assis/quincas-borba/00-02-013-capitulo-13)
+  - [Capítulo — 14](/literatura/machado-de-assis/quincas-borba/00-02-014-capitulo-14)
+  - [Capítulo — 15](/literatura/machado-de-assis/quincas-borba/00-02-015-capitulo-15)
+  - [Capítulo — 16](/literatura/machado-de-assis/quincas-borba/00-02-016-capitulo-16)
+  - [Capítulo — 17](/literatura/machado-de-assis/quincas-borba/00-02-017-capitulo-17)
+  - [Capítulo — 18](/literatura/machado-de-assis/quincas-borba/00-02-018-capitulo-18)
+  - [Capítulo — 19](/literatura/machado-de-assis/quincas-borba/00-02-019-capitulo-19)
+  - [Capítulo — 20](/literatura/machado-de-assis/quincas-borba/00-02-020-capitulo-20)
 - Capítulos 21 — 30
-  - [Capítulo — 21](/literatura/machado-de-assis/quincas-borba/00-03-021-capitulo-21.html)
-  - [Capítulo — 22](/literatura/machado-de-assis/quincas-borba/00-03-022-capitulo-22.html)
-  - [Capítulo — 23](/literatura/machado-de-assis/quincas-borba/00-03-023-capitulo-23.html)
-  - [Capítulo — 24](/literatura/machado-de-assis/quincas-borba/00-03-024-capitulo-24.html)
-  - [Capítulo — 25](/literatura/machado-de-assis/quincas-borba/00-03-025-capitulo-25.html)
-  - [Capítulo — 26](/literatura/machado-de-assis/quincas-borba/00-03-026-capitulo-26.html)
-  - [Capítulo — 27](/literatura/machado-de-assis/quincas-borba/00-03-027-capitulo-27.html)
-  - [Capítulo — 28](/literatura/machado-de-assis/quincas-borba/00-03-028-capitulo-28.html)
-  - [Capítulo — 29](/literatura/machado-de-assis/quincas-borba/00-03-029-capitulo-29.html)
-  - [Capítulo — 30](/literatura/machado-de-assis/quincas-borba/00-03-030-capitulo-30.html)
+  - [Capítulo — 21](/literatura/machado-de-assis/quincas-borba/00-03-021-capitulo-21)
+  - [Capítulo — 22](/literatura/machado-de-assis/quincas-borba/00-03-022-capitulo-22)
+  - [Capítulo — 23](/literatura/machado-de-assis/quincas-borba/00-03-023-capitulo-23)
+  - [Capítulo — 24](/literatura/machado-de-assis/quincas-borba/00-03-024-capitulo-24)
+  - [Capítulo — 25](/literatura/machado-de-assis/quincas-borba/00-03-025-capitulo-25)
+  - [Capítulo — 26](/literatura/machado-de-assis/quincas-borba/00-03-026-capitulo-26)
+  - [Capítulo — 27](/literatura/machado-de-assis/quincas-borba/00-03-027-capitulo-27)
+  - [Capítulo — 28](/literatura/machado-de-assis/quincas-borba/00-03-028-capitulo-28)
+  - [Capítulo — 29](/literatura/machado-de-assis/quincas-borba/00-03-029-capitulo-29)
+  - [Capítulo — 30](/literatura/machado-de-assis/quincas-borba/00-03-030-capitulo-30)
 - Capítulos 31 — 40
-  - [Capítulo — 31](/literatura/machado-de-assis/quincas-borba/00-04-031-capitulo-31.html)
-  - [Capítulo — 32](/literatura/machado-de-assis/quincas-borba/00-04-032-capitulo-32.html)
-  - [Capítulo — 33](/literatura/machado-de-assis/quincas-borba/00-04-033-capitulo-33.html)
-  - [Capítulo — 34](/literatura/machado-de-assis/quincas-borba/00-04-034-capitulo-34.html)
-  - [Capítulo — 35](/literatura/machado-de-assis/quincas-borba/00-04-035-capitulo-35.html)
-  - [Capítulo — 36](/literatura/machado-de-assis/quincas-borba/00-04-036-capitulo-36.html)
-  - [Capítulo — 37](/literatura/machado-de-assis/quincas-borba/00-04-037-capitulo-37.html)
-  - [Capítulo — 38](/literatura/machado-de-assis/quincas-borba/00-04-038-capitulo-38.html)
-  - [Capítulo — 39](/literatura/machado-de-assis/quincas-borba/00-04-039-capitulo-39.html)
-  - [Capítulo — 40](/literatura/machado-de-assis/quincas-borba/00-04-040-capitulo-40.html)
+  - [Capítulo — 31](/literatura/machado-de-assis/quincas-borba/00-04-031-capitulo-31)
+  - [Capítulo — 32](/literatura/machado-de-assis/quincas-borba/00-04-032-capitulo-32)
+  - [Capítulo — 33](/literatura/machado-de-assis/quincas-borba/00-04-033-capitulo-33)
+  - [Capítulo — 34](/literatura/machado-de-assis/quincas-borba/00-04-034-capitulo-34)
+  - [Capítulo — 35](/literatura/machado-de-assis/quincas-borba/00-04-035-capitulo-35)
+  - [Capítulo — 36](/literatura/machado-de-assis/quincas-borba/00-04-036-capitulo-36)
+  - [Capítulo — 37](/literatura/machado-de-assis/quincas-borba/00-04-037-capitulo-37)
+  - [Capítulo — 38](/literatura/machado-de-assis/quincas-borba/00-04-038-capitulo-38)
+  - [Capítulo — 39](/literatura/machado-de-assis/quincas-borba/00-04-039-capitulo-39)
+  - [Capítulo — 40](/literatura/machado-de-assis/quincas-borba/00-04-040-capitulo-40)
 - Capítulos 41 — 50
-  - [Capítulo — 41](/literatura/machado-de-assis/quincas-borba/00-05-041-capitulo-41.html)
-  - [Capítulo — 42](/literatura/machado-de-assis/quincas-borba/00-05-042-capitulo-42.html)
-  - [Capítulo — 43](/literatura/machado-de-assis/quincas-borba/00-05-043-capitulo-43.html)
-  - [Capítulo — 44](/literatura/machado-de-assis/quincas-borba/00-05-044-capitulo-44.html)
-  - [Capítulo — 45](/literatura/machado-de-assis/quincas-borba/00-05-045-capitulo-45.html)
-  - [Capítulo — 46](/literatura/machado-de-assis/quincas-borba/00-05-046-capitulo-46.html)
-  - [Capítulo — 47](/literatura/machado-de-assis/quincas-borba/00-05-047-capitulo-47.html)
-  - [Capítulo — 48](/literatura/machado-de-assis/quincas-borba/00-05-048-capitulo-48.html)
-  - [Capítulo — 49](/literatura/machado-de-assis/quincas-borba/00-05-049-capitulo-49.html)
-  - [Capítulo — 50](/literatura/machado-de-assis/quincas-borba/00-05-050-capitulo-50.html)
+  - [Capítulo — 41](/literatura/machado-de-assis/quincas-borba/00-05-041-capitulo-41)
+  - [Capítulo — 42](/literatura/machado-de-assis/quincas-borba/00-05-042-capitulo-42)
+  - [Capítulo — 43](/literatura/machado-de-assis/quincas-borba/00-05-043-capitulo-43)
+  - [Capítulo — 44](/literatura/machado-de-assis/quincas-borba/00-05-044-capitulo-44)
+  - [Capítulo — 45](/literatura/machado-de-assis/quincas-borba/00-05-045-capitulo-45)
+  - [Capítulo — 46](/literatura/machado-de-assis/quincas-borba/00-05-046-capitulo-46)
+  - [Capítulo — 47](/literatura/machado-de-assis/quincas-borba/00-05-047-capitulo-47)
+  - [Capítulo — 48](/literatura/machado-de-assis/quincas-borba/00-05-048-capitulo-48)
+  - [Capítulo — 49](/literatura/machado-de-assis/quincas-borba/00-05-049-capitulo-49)
+  - [Capítulo — 50](/literatura/machado-de-assis/quincas-borba/00-05-050-capitulo-50)
 - Capítulos 51 — 60
-  - [Capítulo — 51](/literatura/machado-de-assis/quincas-borba/00-06-051-capitulo-51.html)
-  - [Capítulo — 52](/literatura/machado-de-assis/quincas-borba/00-06-052-capitulo-52.html)
-  - [Capítulo — 53](/literatura/machado-de-assis/quincas-borba/00-06-053-capitulo-53.html)
-  - [Capítulo — 54](/literatura/machado-de-assis/quincas-borba/00-06-054-capitulo-54.html)
-  - [Capítulo — 55](/literatura/machado-de-assis/quincas-borba/00-06-055-capitulo-55.html)
-  - [Capítulo — 56](/literatura/machado-de-assis/quincas-borba/00-06-056-capitulo-56.html)
-  - [Capítulo — 57](/literatura/machado-de-assis/quincas-borba/00-06-057-capitulo-57.html)
-  - [Capítulo — 58](/literatura/machado-de-assis/quincas-borba/00-06-058-capitulo-58.html)
-  - [Capítulo — 59](/literatura/machado-de-assis/quincas-borba/00-06-059-capitulo-59.html)
-  - [Capítulo — 60](/literatura/machado-de-assis/quincas-borba/00-06-060-capitulo-60.html)
+  - [Capítulo — 51](/literatura/machado-de-assis/quincas-borba/00-06-051-capitulo-51)
+  - [Capítulo — 52](/literatura/machado-de-assis/quincas-borba/00-06-052-capitulo-52)
+  - [Capítulo — 53](/literatura/machado-de-assis/quincas-borba/00-06-053-capitulo-53)
+  - [Capítulo — 54](/literatura/machado-de-assis/quincas-borba/00-06-054-capitulo-54)
+  - [Capítulo — 55](/literatura/machado-de-assis/quincas-borba/00-06-055-capitulo-55)
+  - [Capítulo — 56](/literatura/machado-de-assis/quincas-borba/00-06-056-capitulo-56)
+  - [Capítulo — 57](/literatura/machado-de-assis/quincas-borba/00-06-057-capitulo-57)
+  - [Capítulo — 58](/literatura/machado-de-assis/quincas-borba/00-06-058-capitulo-58)
+  - [Capítulo — 59](/literatura/machado-de-assis/quincas-borba/00-06-059-capitulo-59)
+  - [Capítulo — 60](/literatura/machado-de-assis/quincas-borba/00-06-060-capitulo-60)
 - Capítulo 61
-  - [Capítulo — 61](/literatura/machado-de-assis/quincas-borba/00-07-061-capitulo-61.html)
+  - [Capítulo — 61](/literatura/machado-de-assis/quincas-borba/00-07-061-capitulo-61)
 
 ## Capítulos 01 — 10
 

@@ -14,7 +14,7 @@ chapter-title: "085 — Três Constituições"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-085-tres-constituicoes.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-085-tres-constituicoes"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 085 — Três Constituições."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 085 — Três Constituições."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-085-tres-constituicoes.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-085-tres-constituicoes"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "085 — Três Constituições",
         "identifier": "00-10-085",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-085-tres-constituicoes.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-085-tres-constituicoes.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-085-tres-constituicoes",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-085-tres-constituicoes",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 085 — Três Constituições.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "085 — Três Constituições",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-085-tres-constituicoes.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-085-tres-constituicoes"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 085 — Três Constituições
 

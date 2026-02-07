@@ -14,7 +14,7 @@ chapter-title: "081 — Ai, Duas Almas..."
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-081-ai-duas-almas.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-081-ai-duas-almas"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 081 — Ai, Duas Almas...."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 081 — Ai, Duas Almas...."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-081-ai-duas-almas.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-081-ai-duas-almas"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "081 — Ai, Duas Almas...",
         "identifier": "00-10-081",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-081-ai-duas-almas.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-081-ai-duas-almas.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-081-ai-duas-almas",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-081-ai-duas-almas",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 081 — Ai, Duas Almas....",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "081 — Ai, Duas Almas...",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-081-ai-duas-almas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-10-081-ai-duas-almas"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 081 — Ai, Duas Almas...
 

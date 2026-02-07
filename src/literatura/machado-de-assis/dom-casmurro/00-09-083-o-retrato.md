@@ -14,7 +14,7 @@ chapter-title: "083 — O Retrato"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-083-o-retrato.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-083-o-retrato"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 083 — O Retrato."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 083 — O Retrato."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-083-o-retrato.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-083-o-retrato"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "083 — O Retrato",
         "identifier": "00-09-083",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-083-o-retrato.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-083-o-retrato.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-083-o-retrato",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-083-o-retrato",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 083 — O Retrato.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "083 — O Retrato",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-083-o-retrato.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-09-083-o-retrato"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 083 — O Retrato
 

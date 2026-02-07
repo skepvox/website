@@ -14,7 +14,7 @@ chapter-title: "024 — De Mãe Ede Servo"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-024-de-mae-ede-servo.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-024-de-mae-ede-servo"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 024 — De Mãe Ede Servo."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 024 — De Mãe Ede Servo."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-024-de-mae-ede-servo.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-024-de-mae-ede-servo"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "024 — De Mãe Ede Servo",
         "identifier": "00-03-024",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-024-de-mae-ede-servo.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-024-de-mae-ede-servo.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-024-de-mae-ede-servo",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-024-de-mae-ede-servo",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 024 — De Mãe Ede Servo.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "024 — De Mãe Ede Servo",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-024-de-mae-ede-servo.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-03-024-de-mae-ede-servo"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 024 — De Mãe Ede Servo
 

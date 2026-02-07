@@ -18,7 +18,7 @@ BOOK_TITLE = 'Dom Casmurro'
 BOOK_SLUG = 'dom-casmurro'
 BOOK_PATH = f'/literatura/{AUTHOR_SLUG}/{BOOK_SLUG}'
 BOOK_PATH_HTML = f'{BOOK_PATH}.html'
-BOOK_URL = f'{SITE_BASE}{BOOK_PATH_HTML}'
+BOOK_URL = f'{SITE_BASE}{BOOK_PATH}'
 BOOK_DESCRIPTION = (
     'Texto integral de Dom Casmurro, de Machado de Assis, '
     'com capítulos separados para leitura.'
@@ -257,7 +257,7 @@ def sync_leaf_bodies() -> list[dict]:
         sys.exit(f'No local source files found in {LOCAL_SOURCE_DIR}')
 
     chapters: list[dict] = []
-    back_link = f'[Voltar ao livro]({BOOK_PATH_HTML})'
+    back_link = f'[Voltar ao livro]({BOOK_PATH})'
 
     for local_path in local_files:
         local_text = local_path.read_text(encoding='utf-8')
@@ -271,8 +271,8 @@ def sync_leaf_bodies() -> list[dict]:
         target_path = CHAPTER_DIR / target_filename
 
         identifier = f'{book_number}-{part_number}-{chapter_number}'
-        url_abs = f'{SITE_BASE}{BOOK_PATH}/{target_path.stem}.html'
-        url_rel = f'{BOOK_PATH}/{target_path.stem}.html'
+        url_abs = f'{SITE_BASE}{BOOK_PATH}/{target_path.stem}'
+        url_rel = f'{BOOK_PATH}/{target_path.stem}'
 
         local_body = strip_frontmatter(local_text).lstrip('\n').rstrip()
         local_body = remove_hub_only_lines(local_body)
@@ -334,8 +334,8 @@ def main() -> None:
             chapter_title = (meta.get('chapter-title') or meta.get('title') or path.stem).strip()
             book_number, part_number, chapter_idx = parse_file_id(path.name)
             identifier = f'{book_number}-{part_number}-{chapter_idx}'
-            url_abs = f'{SITE_BASE}{BOOK_PATH}/{path.stem}.html'
-            url_rel = f'{BOOK_PATH}/{path.stem}.html'
+            url_abs = f'{SITE_BASE}{BOOK_PATH}/{path.stem}'
+            url_rel = f'{BOOK_PATH}/{path.stem}'
             chapters.append(
                 {
                     'title': chapter_title,
@@ -347,7 +347,7 @@ def main() -> None:
                 }
             )
 
-    toc_lines = ['## Sumário', '']
+    toc_lines = ['**Sumário**', '']
     parts: dict[str, list[dict]] = {}
     for chapter in chapters:
         parts.setdefault(chapter['part_number'], []).append(chapter)

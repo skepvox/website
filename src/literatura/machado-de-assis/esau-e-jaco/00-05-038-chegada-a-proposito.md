@@ -14,7 +14,7 @@ chapter-title: "038 — Chegada a Propósito"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-038-chegada-a-proposito.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-038-chegada-a-proposito"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 038 — Chegada a Propósito."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 038 — Chegada a Propósito."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-038-chegada-a-proposito.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-038-chegada-a-proposito"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "038 — Chegada a Propósito",
         "identifier": "00-05-038",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-038-chegada-a-proposito.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-038-chegada-a-proposito.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-038-chegada-a-proposito",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-038-chegada-a-proposito",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 038 — Chegada a Propósito.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "038 — Chegada a Propósito",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-038-chegada-a-proposito.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-038-chegada-a-proposito"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 038 — Chegada a Propósito
 

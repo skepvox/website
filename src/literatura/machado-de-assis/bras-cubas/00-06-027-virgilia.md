@@ -14,7 +14,7 @@ chapter-title: "027 — Virgília?"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-027-virgilia.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-027-virgilia"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 027 — Virgília?."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 027 — Virgília?."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-027-virgilia.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-027-virgilia"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "027 — Virgília?",
         "identifier": "00-06-027",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-027-virgilia.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-027-virgilia.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-027-virgilia",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-027-virgilia",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 027 — Virgília?.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "027 — Virgília?",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-027-virgilia.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-027-virgilia"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 027 — Virgília?
 

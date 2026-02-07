@@ -14,7 +14,7 @@ chapter-title: "039 — Um Gatuno"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-039-um-gatuno.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-039-um-gatuno"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 039 — Um Gatuno."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 039 — Um Gatuno."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-039-um-gatuno.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-039-um-gatuno"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "039 — Um Gatuno",
         "identifier": "00-05-039",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-039-um-gatuno.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-039-um-gatuno.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-039-um-gatuno",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-039-um-gatuno",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 039 — Um Gatuno.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "039 — Um Gatuno",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-039-um-gatuno.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-039-um-gatuno"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 039 — Um Gatuno
 

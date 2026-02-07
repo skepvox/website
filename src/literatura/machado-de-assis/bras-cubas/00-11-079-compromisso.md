@@ -14,7 +14,7 @@ chapter-title: "079 — Compromisso"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-079-compromisso.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-079-compromisso"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 079 — Compromisso."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 079 — Compromisso."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-079-compromisso.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-079-compromisso"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "079 — Compromisso",
         "identifier": "00-11-079",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-079-compromisso.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-079-compromisso.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-079-compromisso",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-079-compromisso",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 079 — Compromisso.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "079 — Compromisso",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-079-compromisso.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-11-079-compromisso"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 079 — Compromisso
 

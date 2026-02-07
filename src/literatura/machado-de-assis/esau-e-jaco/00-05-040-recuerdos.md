@@ -14,7 +14,7 @@ chapter-title: "040 — Recuerdos"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-040-recuerdos.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-040-recuerdos"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 040 — Recuerdos."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 040 — Recuerdos."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-040-recuerdos.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-040-recuerdos"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "040 — Recuerdos",
         "identifier": "00-05-040",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-040-recuerdos.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-040-recuerdos.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-040-recuerdos",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-040-recuerdos",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 040 — Recuerdos.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "040 — Recuerdos",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-040-recuerdos.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-040-recuerdos"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 040 — Recuerdos
 

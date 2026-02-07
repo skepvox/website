@@ -138,7 +138,7 @@ head:
       }
 ---
 
-[Retour au livre](/louis-lavelle/de-l-ame-humaine.html)
+[Retour au livre](/louis-lavelle/de-l-ame-humaine)
 
 ## Livre IV. Immortalité et éternité
 

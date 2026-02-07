@@ -5,7 +5,7 @@ outline: 2
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/graciliano-ramos/vidas-secas.html"
+      href: "https://skepvox.com/literatura/graciliano-ramos/vidas-secas"
   - - meta
     - name: description
       content: "Texto integral de Vidas Secas, de Graciliano Ramos, com capítulos separados para leitura."
@@ -17,7 +17,7 @@ head:
       content: "Texto integral de Vidas Secas, de Graciliano Ramos, com capítulos separados para leitura."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/graciliano-ramos/vidas-secas.html"
+      content: "https://skepvox.com/literatura/graciliano-ramos/vidas-secas"
   - - meta
     - property: og:type
       content: book
@@ -54,86 +54,86 @@ head:
           "name": "Graciliano Ramos"
         },
         "inLanguage": "pt-BR",
-        "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas.html",
+        "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas",
         "description": "Texto integral de Vidas Secas, de Graciliano Ramos, com capítulos separados para leitura.",
         "image": "https://skepvox.com/images/authors/graciliano-ramos.png",
         "hasPart": [
           {
             "@type": "Chapter",
             "name": "Capítulo 1 — Mudança",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-001-mudanca.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-001-mudanca",
             "identifier": "00-00-001"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo 2 — Fabiano",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-002-fabiano.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-002-fabiano",
             "identifier": "00-00-002"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo 3 — Cadeia",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-003-cadeia.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-003-cadeia",
             "identifier": "00-00-003"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo 4 — Sinha Vitoria",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-004-sinha-vitoria.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-004-sinha-vitoria",
             "identifier": "00-00-004"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo 5 — O menino mais novo",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-005-o-menino-mais-novo.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-005-o-menino-mais-novo",
             "identifier": "00-00-005"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo 6 — Inverno",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-006-inverno.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-006-inverno",
             "identifier": "00-00-006"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo 7 — Festa",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-007-festa.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-007-festa",
             "identifier": "00-00-007"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo 8 — Baleia",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-008-baleia.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-008-baleia",
             "identifier": "00-00-008"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo 9 — Contas",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-009-contas.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-009-contas",
             "identifier": "00-00-009"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo 10 — O soldado amarelo",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-010-o-soldado-amarelo.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-010-o-soldado-amarelo",
             "identifier": "00-00-010"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo 11 — O mundo",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-011-o-mundo.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-011-o-mundo",
             "identifier": "00-00-011"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo 12 — Pia",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-012-pia.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-012-pia",
             "identifier": "00-00-012"
           },
           {
             "@type": "Chapter",
             "name": "Capítulo 13 — Fuga",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-013-fuga.html",
+            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-013-fuga",
             "identifier": "00-00-013"
           }
         ]
@@ -151,79 +151,79 @@ head:
             "@type": "ListItem",
             "position": 1,
             "name": "Capítulo 1 — Mudança",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-001-mudanca.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-001-mudanca"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Capítulo 2 — Fabiano",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-002-fabiano.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-002-fabiano"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Capítulo 3 — Cadeia",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-003-cadeia.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-003-cadeia"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Capítulo 4 — Sinha Vitoria",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-004-sinha-vitoria.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-004-sinha-vitoria"
           },
           {
             "@type": "ListItem",
             "position": 5,
             "name": "Capítulo 5 — O menino mais novo",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-005-o-menino-mais-novo.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-005-o-menino-mais-novo"
           },
           {
             "@type": "ListItem",
             "position": 6,
             "name": "Capítulo 6 — Inverno",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-006-inverno.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-006-inverno"
           },
           {
             "@type": "ListItem",
             "position": 7,
             "name": "Capítulo 7 — Festa",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-007-festa.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-007-festa"
           },
           {
             "@type": "ListItem",
             "position": 8,
             "name": "Capítulo 8 — Baleia",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-008-baleia.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-008-baleia"
           },
           {
             "@type": "ListItem",
             "position": 9,
             "name": "Capítulo 9 — Contas",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-009-contas.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-009-contas"
           },
           {
             "@type": "ListItem",
             "position": 10,
             "name": "Capítulo 10 — O soldado amarelo",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-010-o-soldado-amarelo.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-010-o-soldado-amarelo"
           },
           {
             "@type": "ListItem",
             "position": 11,
             "name": "Capítulo 11 — O mundo",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-011-o-mundo.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-011-o-mundo"
           },
           {
             "@type": "ListItem",
             "position": 12,
             "name": "Capítulo 12 — Pia",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-012-pia.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-012-pia"
           },
           {
             "@type": "ListItem",
             "position": 13,
             "name": "Capítulo 13 — Fuga",
-            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-013-fuga.html"
+            "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas/00-00-013-fuga"
           }
         ]
       }
@@ -244,7 +244,7 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Vidas Secas",
-            "item": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas.html"
+            "item": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas"
           }
         ]
       }
@@ -252,21 +252,21 @@ head:
 
 # Vidas Secas
 
-## Sumário
+**Sumário**
 
-- [Capítulo 1 — Mudança](/literatura/graciliano-ramos/vidas-secas/00-00-001-mudanca.html)
-- [Capítulo 2 — Fabiano](/literatura/graciliano-ramos/vidas-secas/00-00-002-fabiano.html)
-- [Capítulo 3 — Cadeia](/literatura/graciliano-ramos/vidas-secas/00-00-003-cadeia.html)
-- [Capítulo 4 — Sinha Vitoria](/literatura/graciliano-ramos/vidas-secas/00-00-004-sinha-vitoria.html)
-- [Capítulo 5 — O menino mais novo](/literatura/graciliano-ramos/vidas-secas/00-00-005-o-menino-mais-novo.html)
-- [Capítulo 6 — Inverno](/literatura/graciliano-ramos/vidas-secas/00-00-006-inverno.html)
-- [Capítulo 7 — Festa](/literatura/graciliano-ramos/vidas-secas/00-00-007-festa.html)
-- [Capítulo 8 — Baleia](/literatura/graciliano-ramos/vidas-secas/00-00-008-baleia.html)
-- [Capítulo 9 — Contas](/literatura/graciliano-ramos/vidas-secas/00-00-009-contas.html)
-- [Capítulo 10 — O soldado amarelo](/literatura/graciliano-ramos/vidas-secas/00-00-010-o-soldado-amarelo.html)
-- [Capítulo 11 — O mundo](/literatura/graciliano-ramos/vidas-secas/00-00-011-o-mundo.html)
-- [Capítulo 12 — Pia](/literatura/graciliano-ramos/vidas-secas/00-00-012-pia.html)
-- [Capítulo 13 — Fuga](/literatura/graciliano-ramos/vidas-secas/00-00-013-fuga.html)
+- [Capítulo 1 — Mudança](/literatura/graciliano-ramos/vidas-secas/00-00-001-mudanca)
+- [Capítulo 2 — Fabiano](/literatura/graciliano-ramos/vidas-secas/00-00-002-fabiano)
+- [Capítulo 3 — Cadeia](/literatura/graciliano-ramos/vidas-secas/00-00-003-cadeia)
+- [Capítulo 4 — Sinha Vitoria](/literatura/graciliano-ramos/vidas-secas/00-00-004-sinha-vitoria)
+- [Capítulo 5 — O menino mais novo](/literatura/graciliano-ramos/vidas-secas/00-00-005-o-menino-mais-novo)
+- [Capítulo 6 — Inverno](/literatura/graciliano-ramos/vidas-secas/00-00-006-inverno)
+- [Capítulo 7 — Festa](/literatura/graciliano-ramos/vidas-secas/00-00-007-festa)
+- [Capítulo 8 — Baleia](/literatura/graciliano-ramos/vidas-secas/00-00-008-baleia)
+- [Capítulo 9 — Contas](/literatura/graciliano-ramos/vidas-secas/00-00-009-contas)
+- [Capítulo 10 — O soldado amarelo](/literatura/graciliano-ramos/vidas-secas/00-00-010-o-soldado-amarelo)
+- [Capítulo 11 — O mundo](/literatura/graciliano-ramos/vidas-secas/00-00-011-o-mundo)
+- [Capítulo 12 — Pia](/literatura/graciliano-ramos/vidas-secas/00-00-012-pia)
+- [Capítulo 13 — Fuga](/literatura/graciliano-ramos/vidas-secas/00-00-013-fuga)
 
 ## Capítulo 1 — Mudança
 

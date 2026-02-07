@@ -14,7 +14,7 @@ chapter-title: "094 — Gestos Opostos"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-094-gestos-opostos.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-094-gestos-opostos"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 094 — Gestos Opostos."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 094 — Gestos Opostos."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-094-gestos-opostos.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-094-gestos-opostos"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "094 — Gestos Opostos",
         "identifier": "00-11-094",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-094-gestos-opostos.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-094-gestos-opostos.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-094-gestos-opostos",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-094-gestos-opostos",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 094 — Gestos Opostos.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "094 — Gestos Opostos",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-094-gestos-opostos.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-11-094-gestos-opostos"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 094 — Gestos Opostos
 

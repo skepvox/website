@@ -14,7 +14,7 @@ chapter-title: "023 — Triste, mas Curto"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-023-triste-mas-curto.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-023-triste-mas-curto"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 023 — Triste, mas Curto."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 023 — Triste, mas Curto."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-023-triste-mas-curto.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-023-triste-mas-curto"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "023 — Triste, mas Curto",
         "identifier": "00-06-023",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-023-triste-mas-curto.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-023-triste-mas-curto.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-023-triste-mas-curto",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-023-triste-mas-curto",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 023 — Triste, mas Curto.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "023 — Triste, mas Curto",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-023-triste-mas-curto.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-06-023-triste-mas-curto"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 023 — Triste, mas Curto
 

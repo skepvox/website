@@ -14,7 +14,7 @@ chapter-title: "054 — Panegírico de Santa Mônica"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-054-panegirico-de-santa-monica.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-054-panegirico-de-santa-monica"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 054 — Panegírico de Santa Mônica."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 054 — Panegírico de Santa Mônica."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-054-panegirico-de-santa-monica.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-054-panegirico-de-santa-monica"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "054 — Panegírico de Santa Mônica",
         "identifier": "00-06-054",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-054-panegirico-de-santa-monica.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-054-panegirico-de-santa-monica.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-054-panegirico-de-santa-monica",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-054-panegirico-de-santa-monica",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 054 — Panegírico de Santa Mônica.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "054 — Panegírico de Santa Mônica",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-054-panegirico-de-santa-monica.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-06-054-panegirico-de-santa-monica"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 054 — Panegírico de Santa Mônica
 

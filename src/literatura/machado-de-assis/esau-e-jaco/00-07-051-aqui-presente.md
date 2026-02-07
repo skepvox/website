@@ -14,7 +14,7 @@ chapter-title: "051 — Aqui Presente"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-051-aqui-presente.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-051-aqui-presente"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 051 — Aqui Presente."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 051 — Aqui Presente."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-051-aqui-presente.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-051-aqui-presente"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "051 — Aqui Presente",
         "identifier": "00-07-051",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-051-aqui-presente.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-051-aqui-presente.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-051-aqui-presente",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-051-aqui-presente",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 051 — Aqui Presente.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "051 — Aqui Presente",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-051-aqui-presente.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-07-051-aqui-presente"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 051 — Aqui Presente
 

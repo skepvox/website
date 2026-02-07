@@ -13,7 +13,7 @@ chapter-title: "Hiatos e Lembranças"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-007-hiatos-e-lembrancas.html"
+      href: "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-007-hiatos-e-lembrancas"
   - - meta
     - name: description
       content: "Texto integral de Angústia, de Graciliano Ramos. Hiatos e Lembranças."
@@ -25,7 +25,7 @@ head:
       content: "Texto integral de Angústia, de Graciliano Ramos. Hiatos e Lembranças."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-007-hiatos-e-lembrancas.html"
+      content: "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-007-hiatos-e-lembrancas"
   - - meta
     - property: og:type
       content: article
@@ -58,8 +58,8 @@ head:
         "@type": "Chapter",
         "name": "Hiatos e Lembranças",
         "identifier": "00-00-007",
-        "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-007-hiatos-e-lembrancas.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-007-hiatos-e-lembrancas.html",
+        "url": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-007-hiatos-e-lembrancas",
+        "mainEntityOfPage": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-007-hiatos-e-lembrancas",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -73,7 +73,7 @@ head:
             "@type": "Person",
             "name": "Graciliano Ramos"
           },
-          "url": "https://skepvox.com/literatura/graciliano-ramos/angustia.html"
+          "url": "https://skepvox.com/literatura/graciliano-ramos/angustia"
         },
         "image": "https://skepvox.com/images/authors/graciliano-ramos.png",
         "description": "Texto integral de Angústia, de Graciliano Ramos. Hiatos e Lembranças.",
@@ -102,19 +102,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Angústia",
-            "item": "https://skepvox.com/literatura/graciliano-ramos/angustia.html"
+            "item": "https://skepvox.com/literatura/graciliano-ramos/angustia"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Hiatos e Lembranças",
-            "item": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-007-hiatos-e-lembrancas.html"
+            "item": "https://skepvox.com/literatura/graciliano-ramos/angustia/00-00-007-hiatos-e-lembrancas"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/graciliano-ramos/angustia.html)
+[Voltar ao livro](/literatura/graciliano-ramos/angustia)
 
 ## Hiatos e Lembranças
 

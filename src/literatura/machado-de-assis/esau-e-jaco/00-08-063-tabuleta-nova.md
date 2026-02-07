@@ -14,7 +14,7 @@ chapter-title: "063 — Tabuleta Nova"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-063-tabuleta-nova.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-063-tabuleta-nova"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 063 — Tabuleta Nova."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 063 — Tabuleta Nova."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-063-tabuleta-nova.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-063-tabuleta-nova"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "063 — Tabuleta Nova",
         "identifier": "00-08-063",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-063-tabuleta-nova.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-063-tabuleta-nova.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-063-tabuleta-nova",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-063-tabuleta-nova",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 063 — Tabuleta Nova.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "063 — Tabuleta Nova",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-063-tabuleta-nova.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-08-063-tabuleta-nova"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 063 — Tabuleta Nova
 

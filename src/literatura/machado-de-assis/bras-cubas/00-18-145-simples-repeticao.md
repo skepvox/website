@@ -14,7 +14,7 @@ chapter-title: "145 — Simples Repetição"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-145-simples-repeticao.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-145-simples-repeticao"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 145 — Simples Repetição."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 145 — Simples Repetição."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-145-simples-repeticao.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-145-simples-repeticao"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "145 — Simples Repetição",
         "identifier": "00-18-145",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-145-simples-repeticao.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-145-simples-repeticao.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-145-simples-repeticao",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-145-simples-repeticao",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 145 — Simples Repetição.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "145 — Simples Repetição",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-145-simples-repeticao.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-18-145-simples-repeticao"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 145 — Simples Repetição
 

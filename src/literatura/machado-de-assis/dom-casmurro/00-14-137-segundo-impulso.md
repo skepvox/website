@@ -14,7 +14,7 @@ chapter-title: "137 — Segundo Impulso"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-137-segundo-impulso.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-137-segundo-impulso"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 137 — Segundo Impulso."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 137 — Segundo Impulso."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-137-segundo-impulso.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-137-segundo-impulso"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "137 — Segundo Impulso",
         "identifier": "00-14-137",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-137-segundo-impulso.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-137-segundo-impulso.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-137-segundo-impulso",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-137-segundo-impulso",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 137 — Segundo Impulso.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "137 — Segundo Impulso",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-137-segundo-impulso.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-14-137-segundo-impulso"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 137 — Segundo Impulso
 

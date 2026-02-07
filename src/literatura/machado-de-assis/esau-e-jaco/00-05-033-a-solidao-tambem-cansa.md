@@ -14,7 +14,7 @@ chapter-title: "033 — A Solidão Também Cansa"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-033-a-solidao-tambem-cansa.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-033-a-solidao-tambem-cansa"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 033 — A Solidão Também Cansa."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 033 — A Solidão Também Cansa."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-033-a-solidao-tambem-cansa.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-033-a-solidao-tambem-cansa"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "033 — A Solidão Também Cansa",
         "identifier": "00-05-033",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-033-a-solidao-tambem-cansa.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-033-a-solidao-tambem-cansa.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-033-a-solidao-tambem-cansa",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-033-a-solidao-tambem-cansa",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 033 — A Solidão Também Cansa.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "033 — A Solidão Também Cansa",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-033-a-solidao-tambem-cansa.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-033-a-solidao-tambem-cansa"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 033 — A Solidão Também Cansa
 

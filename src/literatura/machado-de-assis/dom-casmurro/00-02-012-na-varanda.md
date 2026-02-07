@@ -14,7 +14,7 @@ chapter-title: "012 — Na Varanda"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-012-na-varanda.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-012-na-varanda"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 012 — Na Varanda."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 012 — Na Varanda."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-012-na-varanda.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-012-na-varanda"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "012 — Na Varanda",
         "identifier": "00-02-012",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-012-na-varanda.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-012-na-varanda.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-012-na-varanda",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-012-na-varanda",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 012 — Na Varanda.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "012 — Na Varanda",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-012-na-varanda.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-012-na-varanda"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 012 — Na Varanda
 

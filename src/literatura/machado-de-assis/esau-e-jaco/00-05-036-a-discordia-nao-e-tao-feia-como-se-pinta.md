@@ -14,7 +14,7 @@ chapter-title: "036 — A Discórdia Não É Tão Feia como se Pinta"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-036-a-discordia-nao-e-tao-feia-como-se-pinta.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-036-a-discordia-nao-e-tao-feia-como-se-pinta"
   - - meta
     - name: description
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 036 — A Discórdia Não É Tão Feia como se Pinta."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Esaú e Jacó, de Machado de Assis. 036 — A Discórdia Não É Tão Feia como se Pinta."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-036-a-discordia-nao-e-tao-feia-como-se-pinta.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-036-a-discordia-nao-e-tao-feia-como-se-pinta"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "036 — A Discórdia Não É Tão Feia como se Pinta",
         "identifier": "00-05-036",
-        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-036-a-discordia-nao-e-tao-feia-como-se-pinta.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-036-a-discordia-nao-e-tao-feia-como-se-pinta.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-036-a-discordia-nao-e-tao-feia-como-se-pinta",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-036-a-discordia-nao-e-tao-feia-como-se-pinta",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Esaú e Jacó, de Machado de Assis. 036 — A Discórdia Não É Tão Feia como se Pinta.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Esaú e Jacó",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "036 — A Discórdia Não É Tão Feia como se Pinta",
-            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-036-a-discordia-nao-e-tao-feia-como-se-pinta.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/esau-e-jaco/00-05-036-a-discordia-nao-e-tao-feia-como-se-pinta"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco.html)
+[Voltar ao livro](/literatura/machado-de-assis/esau-e-jaco)
 
 ## 036 — A Discórdia Não É Tão Feia como se Pinta
 

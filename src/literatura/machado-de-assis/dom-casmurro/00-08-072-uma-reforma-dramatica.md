@@ -14,7 +14,7 @@ chapter-title: "072 — Uma Reforma Dramática"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-072-uma-reforma-dramatica.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-072-uma-reforma-dramatica"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 072 — Uma Reforma Dramática."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 072 — Uma Reforma Dramática."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-072-uma-reforma-dramatica.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-072-uma-reforma-dramatica"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "072 — Uma Reforma Dramática",
         "identifier": "00-08-072",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-072-uma-reforma-dramatica.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-072-uma-reforma-dramatica.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-072-uma-reforma-dramatica",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-072-uma-reforma-dramatica",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 072 — Uma Reforma Dramática.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "072 — Uma Reforma Dramática",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-072-uma-reforma-dramatica.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-072-uma-reforma-dramatica"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 072 — Uma Reforma Dramática
 

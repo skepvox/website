@@ -123,7 +123,7 @@ head:
       }
 ---
 
-[Retour au livre](/louis-lavelle/quatre-saints.html)
+[Retour au livre](/louis-lavelle/quatre-saints)
 
 ## Chapitre 4. Sainte Thérèse ou l'union de la contemplation et de l'action
 

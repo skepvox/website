@@ -14,7 +14,7 @@ chapter-title: "118 — A Terceira Força"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-118-a-terceira-forca.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-118-a-terceira-forca"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 118 — A Terceira Força."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 118 — A Terceira Força."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-118-a-terceira-forca.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-118-a-terceira-forca"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "118 — A Terceira Força",
         "identifier": "00-15-118",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-118-a-terceira-forca.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-118-a-terceira-forca.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-118-a-terceira-forca",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-118-a-terceira-forca",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 118 — A Terceira Força.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "118 — A Terceira Força",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-118-a-terceira-forca.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-15-118-a-terceira-forca"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 118 — A Terceira Força
 

@@ -123,7 +123,7 @@ head:
       }
 ---
 
-[Retour au livre](/louis-lavelle/l-erreur-de-narcisse.html)
+[Retour au livre](/louis-lavelle/l-erreur-de-narcisse)
 
 ## Chapitre 5. Les puissances de la sensibilité
 

@@ -14,7 +14,7 @@ chapter-title: "020 — Bacharelo-me"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-020-bacharelo-me.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-020-bacharelo-me"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 020 — Bacharelo-me."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 020 — Bacharelo-me."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-020-bacharelo-me.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-020-bacharelo-me"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "020 — Bacharelo-me",
         "identifier": "00-05-020",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-020-bacharelo-me.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-020-bacharelo-me.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-020-bacharelo-me",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-020-bacharelo-me",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 020 — Bacharelo-me.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "020 — Bacharelo-me",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-020-bacharelo-me.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-05-020-bacharelo-me"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 020 — Bacharelo-me
 

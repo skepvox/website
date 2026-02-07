@@ -14,7 +14,7 @@ chapter-title: "108 — Que Se Não Entende"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-108-que-se-nao-entende.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-108-que-se-nao-entende"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 108 — Que Se Não Entende."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 108 — Que Se Não Entende."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-108-que-se-nao-entende.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-108-que-se-nao-entende"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "108 — Que Se Não Entende",
         "identifier": "00-14-108",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-108-que-se-nao-entende.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-108-que-se-nao-entende.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-108-que-se-nao-entende",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-108-que-se-nao-entende",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 108 — Que Se Não Entende.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "108 — Que Se Não Entende",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-108-que-se-nao-entende.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-14-108-que-se-nao-entende"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 108 — Que Se Não Entende
 

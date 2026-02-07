@@ -14,7 +14,7 @@ chapter-title: "066 — As Pernas"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-066-as-pernas.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-066-as-pernas"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 066 — As Pernas."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 066 — As Pernas."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-066-as-pernas.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-066-as-pernas"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "066 — As Pernas",
         "identifier": "00-10-066",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-066-as-pernas.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-066-as-pernas.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-066-as-pernas",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-066-as-pernas",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 066 — As Pernas.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "066 — As Pernas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-066-as-pernas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-10-066-as-pernas"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 066 — As Pernas
 

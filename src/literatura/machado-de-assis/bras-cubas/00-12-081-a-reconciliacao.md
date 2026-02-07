@@ -14,7 +14,7 @@ chapter-title: "081 — A Reconciliação"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-081-a-reconciliacao.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-081-a-reconciliacao"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 081 — A Reconciliação."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 081 — A Reconciliação."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-081-a-reconciliacao.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-081-a-reconciliacao"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "081 — A Reconciliação",
         "identifier": "00-12-081",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-081-a-reconciliacao.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-081-a-reconciliacao.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-081-a-reconciliacao",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-081-a-reconciliacao",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 081 — A Reconciliação.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "081 — A Reconciliação",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-081-a-reconciliacao.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-12-081-a-reconciliacao"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 081 — A Reconciliação
 

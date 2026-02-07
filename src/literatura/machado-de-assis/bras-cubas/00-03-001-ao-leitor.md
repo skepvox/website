@@ -14,7 +14,7 @@ chapter-title: "Ao leitor"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-03-001-ao-leitor.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-03-001-ao-leitor"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. Ao leitor."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. Ao leitor."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-03-001-ao-leitor.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-03-001-ao-leitor"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "Ao leitor",
         "identifier": "00-03-001",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-03-001-ao-leitor.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-03-001-ao-leitor.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-03-001-ao-leitor",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-03-001-ao-leitor",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. Ao leitor.",
@@ -113,19 +113,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Ao leitor",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-03-001-ao-leitor.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-03-001-ao-leitor"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## Ao leitor
 

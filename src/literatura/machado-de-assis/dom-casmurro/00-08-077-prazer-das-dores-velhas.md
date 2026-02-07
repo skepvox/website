@@ -14,7 +14,7 @@ chapter-title: "077 — Prazer das Dores Velhas"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-077-prazer-das-dores-velhas.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-077-prazer-das-dores-velhas"
   - - meta
     - name: description
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 077 — Prazer das Dores Velhas."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Dom Casmurro, de Machado de Assis. 077 — Prazer das Dores Velhas."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-077-prazer-das-dores-velhas.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-077-prazer-das-dores-velhas"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "077 — Prazer das Dores Velhas",
         "identifier": "00-08-077",
-        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-077-prazer-das-dores-velhas.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-077-prazer-das-dores-velhas.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-077-prazer-das-dores-velhas",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-077-prazer-das-dores-velhas",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Dom Casmurro, de Machado de Assis. 077 — Prazer das Dores Velhas.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Dom Casmurro",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "077 — Prazer das Dores Velhas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-077-prazer-das-dores-velhas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-08-077-prazer-das-dores-velhas"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro.html)
+[Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
 ## 077 — Prazer das Dores Velhas
 

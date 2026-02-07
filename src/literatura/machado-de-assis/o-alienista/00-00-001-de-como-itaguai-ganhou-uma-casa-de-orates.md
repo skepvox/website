@@ -13,7 +13,7 @@ chapter-title: "I — De como Itaguaí Ganhou uma Casa de Orates"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-001-de-como-itaguai-ganhou-uma-casa-de-orates.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-001-de-como-itaguai-ganhou-uma-casa-de-orates"
   - - meta
     - name: description
       content: "Texto integral de O Alienista, de Machado de Assis. I — De como Itaguaí Ganhou uma Casa de Orates."
@@ -25,7 +25,7 @@ head:
       content: "Texto integral de O Alienista, de Machado de Assis. I — De como Itaguaí Ganhou uma Casa de Orates."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-001-de-como-itaguai-ganhou-uma-casa-de-orates.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-001-de-como-itaguai-ganhou-uma-casa-de-orates"
   - - meta
     - property: og:type
       content: article
@@ -58,8 +58,8 @@ head:
         "@type": "Chapter",
         "name": "I — De como Itaguaí Ganhou uma Casa de Orates",
         "identifier": "00-00-001",
-        "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-001-de-como-itaguai-ganhou-uma-casa-de-orates.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-001-de-como-itaguai-ganhou-uma-casa-de-orates.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-001-de-como-itaguai-ganhou-uma-casa-de-orates",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-001-de-como-itaguai-ganhou-uma-casa-de-orates",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -73,7 +73,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de O Alienista, de Machado de Assis. I — De como Itaguaí Ganhou uma Casa de Orates.",
@@ -102,19 +102,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "O Alienista",
-            "item": "https://skepvox.com/literatura/machado-de-assis/o-alienista.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/o-alienista"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "I — De como Itaguaí Ganhou uma Casa de Orates",
-            "item": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-001-de-como-itaguai-ganhou-uma-casa-de-orates.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-001-de-como-itaguai-ganhou-uma-casa-de-orates"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/o-alienista.html)
+[Voltar ao livro](/literatura/machado-de-assis/o-alienista)
 
 ## I — De como Itaguaí Ganhou uma Casa de Orates
 

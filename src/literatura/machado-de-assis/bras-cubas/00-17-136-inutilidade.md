@@ -14,7 +14,7 @@ chapter-title: "136 — Inutilidade"
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-136-inutilidade.html"
+      href: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-136-inutilidade"
   - - meta
     - name: description
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 136 — Inutilidade."
@@ -26,7 +26,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 136 — Inutilidade."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-136-inutilidade.html"
+      content: "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-136-inutilidade"
   - - meta
     - property: og:type
       content: article
@@ -59,8 +59,8 @@ head:
         "@type": "Chapter",
         "name": "136 — Inutilidade",
         "identifier": "00-17-136",
-        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-136-inutilidade.html",
-        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-136-inutilidade.html",
+        "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-136-inutilidade",
+        "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-136-inutilidade",
         "inLanguage": "pt-BR",
         "isAccessibleForFree": true,
         "author": {
@@ -74,7 +74,7 @@ head:
             "@type": "Person",
             "name": "Machado de Assis"
           },
-          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+          "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.png",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis. 136 — Inutilidade.",
@@ -118,19 +118,19 @@ head:
             "@type": "ListItem",
             "position": 2,
             "name": "Memórias póstumas de Brás Cubas",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "136 — Inutilidade",
-            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-136-inutilidade.html"
+            "item": "https://skepvox.com/literatura/machado-de-assis/bras-cubas/00-17-136-inutilidade"
           }
         ]
       }
 ---
 
-[Voltar ao livro](/literatura/machado-de-assis/bras-cubas.html)
+[Voltar ao livro](/literatura/machado-de-assis/bras-cubas)
 
 ## 136 — Inutilidade
 
