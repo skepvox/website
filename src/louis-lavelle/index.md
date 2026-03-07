@@ -1,32 +1,32 @@
 ---
-title: "Louis Lavelle — Leitura"
-description: "Louis Lavelle (1883–1951): leitura guiada, biografia e obras — spiritualisme français, philosophie réflexive, participação, dialética do ato e eterno presente."
+title: 'Louis Lavelle'
+description: 'Louis Lavelle (1883–1951): leitura guiada, biografia e obras em francês e português do Brasil — participação, dialética do ato e eterno presente.'
 outline: 2
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/louis-lavelle/"
+      href: 'https://skepvox.com/louis-lavelle/'
   - - meta
     - name: description
-      content: "Louis Lavelle (1883–1951): leitura guiada, biografia e obras — spiritualisme français, philosophie réflexive, participação, dialética do ato e eterno presente."
+      content: 'Louis Lavelle (1883–1951): leitura guiada, biografia e obras em francês e português do Brasil — participação, dialética do ato e eterno presente.'
   - - meta
     - name: keywords
-      content: "Louis Lavelle, leitura, biografia, biographie, participação, metafísica da presença, dialética do ato, filósofo francês, philosophe français, spiritualisme français, philosophie réflexive, La Dialectique de l'éternel présent, La conscience de soi, La Présence totale, Introduction à l'ontologie, De l'être, De l'acte, Du temps et de l'éternité, De l'âme humaine, L'Erreur de Narcisse, Quatre saints"
+      content: "Louis Lavelle, leitura, biografia, participação, metafísica da presença, dialética do ato, filósofo francês, spiritualisme français, philosophie réflexive, La Dialectique de l'éternel présent, A consciência de si, La conscience de soi, La Présence totale, Introduction à l'ontologie, De l'être, De l'acte, Du temps et de l'éternité, De l'âme humaine, L'Erreur de Narcisse, Quatre saints, português do Brasil"
   - - meta
     - property: og:title
-      content: "Louis Lavelle — Leitura"
+      content: 'Louis Lavelle'
   - - meta
     - property: og:description
-      content: "Louis Lavelle (1883–1951): leitura guiada, biografia e obras — spiritualisme français, philosophie réflexive, participação, dialética do ato e eterno presente."
+      content: 'Louis Lavelle (1883–1951): leitura guiada, biografia e obras em francês e português do Brasil — participação, dialética do ato e eterno presente.'
   - - meta
     - property: og:url
-      content: "https://skepvox.com/louis-lavelle/"
+      content: 'https://skepvox.com/louis-lavelle/'
   - - meta
     - property: og:type
       content: profile
   - - meta
     - property: og:site_name
-      content: "Skepvox"
+      content: 'Skepvox'
   - - meta
     - property: og:locale
       content: pt_BR
@@ -41,34 +41,34 @@ head:
       content: Lavelle
   - - meta
     - property: og:image
-      content: "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png"
+      content: 'https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png'
   - - meta
     - property: og:image:type
-      content: "image/png"
+      content: 'image/png'
   - - meta
     - property: og:image:width
-      content: "1024"
+      content: '1024'
   - - meta
     - property: og:image:height
-      content: "1024"
+      content: '1024'
   - - meta
     - property: og:image:alt
-      content: "Retrato de Louis Lavelle"
+      content: 'Retrato de Louis Lavelle'
   - - meta
     - name: twitter:card
       content: summary_large_image
   - - meta
     - name: twitter:title
-      content: "Louis Lavelle — Leitura"
+      content: 'Louis Lavelle'
   - - meta
     - name: twitter:description
-      content: "Louis Lavelle (1883–1951): leitura guiada, biografia e obras — spiritualisme français, philosophie réflexive, participação, dialética do ato e eterno presente."
+      content: 'Louis Lavelle (1883–1951): leitura guiada, biografia e obras em francês e português do Brasil — participação, dialética do ato e eterno presente.'
   - - meta
     - name: twitter:image
-      content: "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png"
+      content: 'https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png'
   - - meta
     - name: twitter:image:alt
-      content: "Retrato de Louis Lavelle"
+      content: 'Retrato de Louis Lavelle'
   - - script
     - type: application/ld+json
     - |
@@ -81,7 +81,7 @@ head:
           "Louis Lavelle (1883–1951)",
           "Lavelle"
         ],
-        "description": "Louis Lavelle (1883–1951): leitura guiada, biografia e obras — spiritualisme français, philosophie réflexive, participação, dialética do ato e eterno presente.",
+        "description": "Louis Lavelle (1883–1951): leitura guiada, biografia e obras em francês e português do Brasil — participação, dialética do ato e eterno presente.",
         "url": "https://skepvox.com/louis-lavelle/",
         "image": {
           "@type": "ImageObject",
@@ -139,6 +139,13 @@ head:
           "participation"
         ],
         "workExample": [
+          {
+            "@type": "Book",
+            "name": "A consciência de si",
+            "alternateName": "La conscience de soi",
+            "url": "https://skepvox.com/louis-lavelle/a-consciencia-de-si",
+            "inLanguage": "pt-BR"
+          },
           {
             "@type": "Book",
             "name": "De l'être",
@@ -211,59 +218,65 @@ head:
         "@context": "https://schema.org",
         "@type": "ItemList",
         "itemListOrder": "http://schema.org/ItemListOrderAscending",
-        "numberOfItems": 9,
+        "numberOfItems": 10,
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
+            "name": "A consciência de si",
+            "url": "https://skepvox.com/louis-lavelle/a-consciencia-de-si"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
             "name": "De l'être",
             "url": "https://skepvox.com/louis-lavelle/de-l-etre.html"
           },
           {
             "@type": "ListItem",
-            "position": 2,
+            "position": 3,
             "name": "La conscience de soi",
             "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi.html"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 4,
             "name": "La Présence totale",
             "url": "https://skepvox.com/louis-lavelle/la-presence-totale.html"
           },
           {
             "@type": "ListItem",
-            "position": 4,
+            "position": 5,
             "name": "De l'acte",
             "url": "https://skepvox.com/louis-lavelle/de-l-acte.html"
           },
           {
             "@type": "ListItem",
-            "position": 5,
+            "position": 6,
             "name": "L'Erreur de Narcisse",
             "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse.html"
           },
           {
             "@type": "ListItem",
-            "position": 6,
+            "position": 7,
             "name": "Du temps et de l'éternité",
             "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite.html"
           },
           {
             "@type": "ListItem",
-            "position": 7,
+            "position": 8,
             "name": "Introduction à l'ontologie",
             "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie.html"
           },
           {
             "@type": "ListItem",
-            "position": 8,
+            "position": 9,
             "name": "De l'âme humaine",
             "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine.html"
           },
           {
             "@type": "ListItem",
-            "position": 9,
+            "position": 10,
             "name": "Quatre saints",
             "url": "https://skepvox.com/louis-lavelle/quatre-saints.html"
           }
@@ -271,7 +284,7 @@ head:
       }
 ---
 
-# Louis Lavelle — Leitura
+# Louis Lavelle
 
 _Metafísica da presença, participação e dialética do ato._
 
@@ -282,6 +295,8 @@ _Metafísica da presença, participação e dialética do ato._
 />
 
 ## Obras no Skepvox
+
+- [_A consciência de si_](/louis-lavelle/a-consciencia-de-si)
 
 Textos integrais em francês:
 
@@ -295,7 +310,7 @@ Textos integrais em francês:
 - [_De l'âme humaine_](/louis-lavelle/de-l-ame-humaine) (1951)
 - [_Quatre saints_](/louis-lavelle/quatre-saints) (1951)
 
-## Identidade e desambiguação
+## Identidade
 
 Louis Lavelle (1883–1951) foi um preeminente filósofo francês do século XX. É historicamente associado ao _spiritualisme français_ e à _philosophie réflexive_. Lavelle é mais conhecido por sua magnum opus, a obra em vários volumes _La Dialectique de l'éternel présent_ (A Dialética do Eterno Presente), e por sua articulação metafísica do conceito de "participação", segundo a qual o eu finito atualiza sua existência ao participar do Ato infinito de Ser.
 
@@ -521,29 +536,24 @@ Esta série de vários volumes constitui a magnum opus de Lavelle. Foi concebida
 #### Estudos Metafísicos e Psicológicos
 
 - **1921:** _La Dialectique du monde sensible_ (A Dialética do Mundo Sensível). Estrasburgo: Publications de la Faculté des Lettres. (Tese de Doutorado). Reimpresso pela PUF em 1954.
-
   - _Significado:_ Sua primeira grande declaração, argumentando que o mundo sensível é a "solicitação" para a atividade espiritual.
 
 - **1921:** _La Perception visuelle de la profondeur_ (A Percepção Visual da Profundidade). Estrasburgo. (Tese Complementar).
 
 - **1933:** _La conscience de soi_ (A Consciência de Si). Paris: Grasset.
-
   - _Significado:_ Um de seus livros mais lidos, oferecendo um ponto de entrada mais acessível para sua filosofia da interioridade.
 
 - **1934:** [_La Présence totale_](/louis-lavelle/la-presence-totale) (A Presença Total). Paris: Aubier.
-
   - _Significado:_ Um manifesto conciso de sua metafísica, argumentando que a totalidade do Ser está presente para o eu em cada ato de consciência.
 
 - **1936:** _Le Moi et son destin_ (O Eu e seu Destino). Paris: Aubier.
 
 - **1940:** _Le Mal et la souffrance_ (O Mal e o Sofrimento). Paris: Plon.
-
   - _Contexto:_ Escrito no início da Segunda Guerra Mundial, oferece uma meditação sobre como o sofrimento pode ser transformado em uma prova espiritual.
 
 - **1942:** _La Parole et l'écriture_ (A Fala e a Escrita). Paris: L'Artisan du livre.
 
 - **1947:** [_Introduction à l'ontologie_](/louis-lavelle/introduction-a-l-ontologie) (Introdução à Ontologia). Paris: PUF.
-
   - _Significado:_ Um texto pedagógico destilando sua ontologia para estudantes.
 
 - **1948:** _Les Puissances du moi_ (As Potências do Eu). Paris: Flammarion.
@@ -551,7 +561,6 @@ Esta série de vários volumes constitui a magnum opus de Lavelle. Foi concebida
 #### Obras Morais e Hagiográficas
 
 - **1939:** [_L'Erreur de Narcisse_](/louis-lavelle/l-erreur-de-narcisse) (O Erro de Narciso). Paris: Grasset.
-
   - _Tema:_ Uma análise moral profunda da vaidade, isolamento e recusa da participação. Narciso é o símbolo da alma que prefere seu próprio reflexo à realidade do Ser.
 
 - **1951:** [_Quatre saints_](/louis-lavelle/quatre-saints) (Quatro Santos). Paris: Albin Michel.
@@ -715,11 +724,12 @@ A filosofia de Lavelle oferece recursos valiosos para várias questões contempo
 
 ### Obras Primárias (em ordem de acessibilidade)
 
-1. [_La conscience de soi_](/louis-lavelle/la-conscience-de-soi) (1933) — Melhor ponto de entrada
-2. [_La Présence totale_](/louis-lavelle/la-presence-totale) (1934) — Manifesto conciso
-3. [_L'Erreur de Narcisse_](/louis-lavelle/l-erreur-de-narcisse) (1939) — Obra moral acessível
-4. [_Introduction à l'ontologie_](/louis-lavelle/introduction-a-l-ontologie) (1947) — Texto pedagógico
-5. [_De l'être_](/louis-lavelle/de-l-etre) (1928) — Primeiro volume da sistemática
+1. [_A consciência de si_](/louis-lavelle/a-consciencia-de-si) — Tradução pt-BR e melhor ponto de entrada
+2. [_La conscience de soi_](/louis-lavelle/la-conscience-de-soi) (1933) — Texto francês original
+3. [_La Présence totale_](/louis-lavelle/la-presence-totale) (1934) — Manifesto conciso
+4. [_L'Erreur de Narcisse_](/louis-lavelle/l-erreur-de-narcisse) (1939) — Obra moral acessível
+5. [_Introduction à l'ontologie_](/louis-lavelle/introduction-a-l-ontologie) (1947) — Texto pedagógico
+6. [_De l'être_](/louis-lavelle/de-l-etre) (1928) — Primeiro volume da sistemática
 
 ### Estudos Secundários
 

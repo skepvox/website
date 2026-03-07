@@ -89,6 +89,7 @@ export const sidebar: ThemeConfig['sidebar'] = {
     {
       text: 'Œuvres introductoires',
       items: [
+        { text: 'A consciência de si', link: '/louis-lavelle/a-consciencia-de-si' },
         { text: 'La conscience de soi', link: '/louis-lavelle/la-conscience-de-soi' },
         { text: 'La Présence totale', link: '/louis-lavelle/la-presence-totale' },
         { text: "Introduction à l'ontologie", link: '/louis-lavelle/introduction-a-l-ontologie' }
