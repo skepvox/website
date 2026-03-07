@@ -1,7 +1,7 @@
 # SEO Strategy (Skepvox)
 
 This document captures the SEO strategy across major content types in this repo
-(books, Enem, and essays/blog posts). The core model is consistent: hubs are for
+(books and essays/blog posts). The core model is consistent: hubs are for
 navigation, leaves are for ranking.
 
 ## Core principles
@@ -42,71 +42,6 @@ navigation, leaves are for ranking.
     - `book-title`, `part-title`, `chapter-title`
 - Use the author profile image when a book cover is missing.
 - Leaf titles include the main book to avoid collisions across works.
-
-## Enem (exams)
-
-### Canonical content model
-
-- One canonical page per unique question.
-- Canonical is independent of caderno color or booklet numbering.
-- Canonical must be indexable and contain the full question content.
-
-Canonical URL pattern:
-
-- `/enem/2025/matematica/questao/2025-136`
-
-### Alias strategy (color and caderno number)
-
-- 301 redirects in `vercel.json`.
-- Aliases are not separate pages and are not in the sitemap.
-- Canonical pages include the mapping text for the four day-2 colors.
-
-### Page types
-
-- **Exam overview page (hub):** `/enem/2025/ciencias-da-natureza`, `/enem/2025/matematica`
-- **Single-question page (leaf):** `/enem/2025/ciencias-da-natureza/questao/2025-091`, `/enem/2025/matematica/questao/2025-136`
-
-### Hub title convention
-
-- Use an em dash between “Tecnologias” and “Caderno Verde”, e.g. `Enem 2025 — Matemática e suas Tecnologias — Caderno Verde`.
-
-### Leaf page layout
-
-- No sidebars, no outline, no right aside.
-- Top link back to the hub.
-- Includes the “Mapeamento de cadernos” section.
-
-### Redirect aliases (cadernos)
-
-- Aliases live in `vercel.json` as 301 redirects.
-- For each area, include both slug styles:
-  - `caderno-{5,6,7,8}/questao-{N}`
-  - `caderno-{amarelo,cinza,azul,verde}/questao-{N}`
-- Redirect each alias to the canonical leaf using
-  `src/public/enem/{year}/mappings/booklet-question-mapping.json`.
-
-### Rendering strategy (SEO-critical)
-
-- Question pages are fully rendered at build time.
-- `scripts/generate-enem-question-pages.js` generates the Markdown leaves.
-- Sections: `## Contexto`, `## Enunciado`, `## Alternativas`, `## Solução`.
-
-### Metadata (implemented)
-
-- `title`, `description`, canonical link, OG/Twitter, JSON-LD.
-- `rel="alternate"` to the JSON data endpoint.
-
-### Structured data (JSON-LD)
-
-- `EducationalQuestion` + `BreadcrumbList`.
-- `additionalProperty` carries the booklet mapping.
-
-### Sitemap strategy
-
-- All canonical question pages are in the sitemap.
-- Alias URLs are excluded (301 redirects).
-- JSON endpoints are excluded.
-- Keep hubs out of the sitemap exclusion list in `.vitepress/config.ts`.
 
 ## Essays / blog posts (when present)
 

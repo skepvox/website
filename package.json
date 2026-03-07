@@ -8,8 +8,7 @@
     "build": "vitepress build",
     "preview": "vitepress preview",
     "preinstall": "npx only-allow pnpm",
-    "type": "vue-tsc --noEmit",
-    "publish:enem": "node scripts/publish-enem.js"
+    "type": "vue-tsc --noEmit"
   },
   "dependencies": {
     "@mathjax/mathjax-bbm-font-extension": "^4.1.0",
@@ -20,24 +19,17 @@
     "@mathjax/src": "^4.1.0",
     "@vercel/analytics": "^1.6.1",
     "@vercel/speed-insights": "^1.3.1",
-    "@vue/repl": "^4.4.2",
     "@vue/theme": "^2.3.0",
-    "d3": "^7.9.0",
-    "dynamics.js": "^1.1.5",
-    "gsap": "^3.12.5",
     "katex": "^0.16.27",
     "search-insights": "^2.17.2",
-    "topojson-client": "^3.1.0",
     "vitepress": "^1.6.4",
     "vue": "^3.5.12"
   },
   "devDependencies": {
     "@types/body-scroll-lock": "^3.1.2",
-    "@types/d3": "^7.4.3",
     "@types/geojson": "^7946.0.16",
     "@types/markdown-it": "^14.1.2",
     "@types/node": "^22.7.5",
-    "@types/topojson-client": "^3.1.1",
     "markdown-it": "^14.1.0",
     "markdown-it-katex": "^2.0.3",
     "playwright": "^1.57.0",

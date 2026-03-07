@@ -11,31 +11,19 @@
 ## Key Paths
 - Site content: `src/`
 - Theme/components: `.vitepress/theme/`
-- Enem question data: `src/public/enem/{year}/`
-- Enem overrides: `src/enem/overrides/{year}/`
-- Question pages: `src/enem/2025/matematica/questao/`
-- Pipelines (ignored): `pipeline-enem-extraction/`
 
 ## Commands
 - Install: `corepack enable` then `pnpm i`
 - Dev: `pnpm dev`
 - Build: `pnpm build`
 - Preview: `pnpm preview`
-- Publish Enem data: `pnpm publish:enem -- --year 2025`
 
-## Enem Docs
-- `docs/enem-question-card.md`
-- `docs/enem-charts.md`
-- `docs/enem-chart-sandbox.md`
-- `docs/pipelines.md`
+## Docs
+- `docs/books-workflow.md`
 - `docs/seo-strategy.md`
-- `docs/vercel-seo-testing.md`
 
 ## Conventions
-- Charts live in `.vitepress/theme/charts/` and use D3.
-- Sandbox pages live in `src/enem-sandbox/`.
-- Prefer improved assets when available; fall back to raw assets.
-- Canonical question pages are generated via `scripts/generate-enem-question-pages.js`.
+- Preserve the existing VitePress structure and content organization.
 
 ## Testing
 - No formal test suite; validate changes with the dev server.

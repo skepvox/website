@@ -34,11 +34,6 @@ const nav: ThemeConfig['nav'] = [
     activeMatch: '^/literatura/',
     link: '/literatura/'
   },
-  {
-    text: 'Demos',
-    activeMatch: '^/demos/',
-    link: '/demos/brasil/'
-  },
 ]
 
 export const sidebar: ThemeConfig['sidebar'] = {
@@ -107,35 +102,6 @@ export const sidebar: ThemeConfig['sidebar'] = {
       ]
     }
   ],
-
-  '/enem-sandbox/': [
-    {
-      text: 'Enem Sandbox 2025',
-      items: [
-        { text: 'Linguagens', link: '/enem-sandbox/2025/linguagens' },
-        { text: 'Humanas', link: '/enem-sandbox/2025/humanas' },
-        { text: 'Ciências da Natureza', link: '/enem-sandbox/2025/ciencias-da-natureza' },
-        { text: 'Matemática', link: '/enem-sandbox/2025/matematica' }
-      ]
-    }
-  ],
-  '/enem/': [
-    {
-      text: 'Enem 2025 · Caderno Verde',
-      items: [
-        { text: 'Ciências da Natureza', link: '/enem/2025/ciencias-da-natureza' },
-        { text: 'Matemática', link: '/enem/2025/matematica' }
-      ]
-    }
-  ],
-
-  '/demos/': [
-    {
-      text: 'Demos',
-      items: [{ text: 'Mapa do Brasil', link: '/demos/brasil/' }]
-    }
-  ],
-
 }
 
 const i18n: ThemeConfig['i18n'] = {
@@ -233,28 +199,19 @@ const config: UserConfigExport<ThemeConfig> = (async () => {
 
   sitemap: {
     hostname: SITE_ORIGIN,
-    transformItems: (items) => {
-      const excluded = new Set([
-        '/enem/2025/humanas',
-        '/enem/2025/linguagens',
-        '/enem/overrides/README'
-      ])
-
-      return items
-        .map((item) => {
-          const normalized = item.url.startsWith('/') ? item.url : `/${item.url}`
-          return {
-            ...item,
-            url: normalizeSkepvoxPathname(normalized)
-          }
-        })
-        .filter((item) => !excluded.has(item.url))
-    }
+    transformItems: (items) =>
+      items.map((item) => {
+        const normalized = item.url.startsWith('/') ? item.url : `/${item.url}`
+        return {
+          ...item,
+          url: normalizeSkepvoxPathname(normalized)
+        }
+      })
   },
 
   lang: 'pt-BR',
   title: 'Skepvox — Engenharia de Letras',
-  description: 'Louis Lavelle, Literatura & Filosofia',
+  description: 'Louis Lavelle e literatura clássica',
   srcDir: 'src',
 
   head: [
@@ -270,7 +227,7 @@ const config: UserConfigExport<ThemeConfig> = (async () => {
       'meta',
       {
         property: 'og:description',
-        content: 'Louis Lavelle, Literatura & Filosofia'
+        content: 'Louis Lavelle e literatura clássica'
       }
     ],
     [
@@ -391,12 +348,7 @@ const config: UserConfigExport<ThemeConfig> = (async () => {
       __VUE_OPTIONS_API__: false
     },
     optimizeDeps: {
-      include: ['gsap', 'dynamics.js'],
-      exclude: ['@vue/repl']
-    },
-    // @ts-ignore
-    ssr: {
-      external: ['@vue/repl']
+      include: []
     },
     server: {
       host: true,
@@ -423,7 +375,6 @@ const config: UserConfigExport<ThemeConfig> = (async () => {
           'examples/**/*',
           'partners/**/*',
           'sponsor/**/*',
-          'enem/**/*',
           'latim/**/*',
           'blog/**/*',
           'index.md'

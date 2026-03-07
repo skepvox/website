@@ -8,14 +8,6 @@
   margin-top: 16px;
 }
 
-.vt-doc > div > .enem-question-card__asset + .enem-question-card__asset {
-  margin-top: 12px;
-}
-
-.enem-question-page .enem-question-card__asset {
-  margin: 12px 0;
-}
-
 .vt-doc .katex {
   font-size: 1em;
 }
@@ -85,20 +77,4 @@
   border-color: var(--vt-c-divider-light);
   box-shadow: 0 12px 30px rgba(0, 0, 0, 0.28);
   filter: grayscale(1);
-}
-
-.demos-brasil-compare {
-  display: grid;
-  gap: 24px;
-  margin: 16px 0 32px;
-}
-
-.demos-brasil-compare > div > h3 {
-  margin-top: 0;
-}
-
-@media (min-width: 1100px) {
-  .demos-brasil-compare {
-    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
-  }
 }

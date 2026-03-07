@@ -106,6 +106,7 @@ dist/
 
 # Temporary folders
 tmp/
+archive-local/
 local-books/
 # Local-only Demos source snapshots (screenshots/PDF/HTML captures)
 local-demos-sources/

@@ -3,7 +3,6 @@ import SiteMap from './SiteMap.vue'
 // import NewsLetter from './NewsLetter.vue'
 // import { data, base } from './sponsors'
 // import SponsorsGroup from './SponsorsGroup.vue'
-import VueMasteryModal from './VueMasteryModal.vue'
 </script>
 
 <template>
@@ -14,49 +13,13 @@ import VueMasteryModal from './VueMasteryModal.vue'
       <br />Engenharia de Letras
     </h1>
     <p class="description">
-      Louis Lavelle, literatura e cidadania.
+      Louis Lavelle e literatura clássica.
     </p>
     <p class="actions">
-      <VueMasteryModal />
-
       <a class="get-started" href="/louis-lavelle/">
         Louis Lavelle
-        <!-- <svg
-          class="icon"
-          xmlns="http://www.w3.org/2000/svg"
-          width="10"
-          height="10"
-          viewBox="0 0 24 24"
-        >
-          <path
-            d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z"
-          />
-        </svg> -->
       </a>
       <a class="setup" href="/literatura/">Literatura</a>
-      <a class="security" href="/demos/brasil/">
-        Demos
-        <!-- <svg
-          class="icon"
-          xmlns="http://www.w3.org/2000/svg"
-          width="10"
-          height="10"
-          viewBox="0 0 24 24"
-        >
-          <path
-            d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z"
-          />
-        </svg> -->
-        <!-- <svg
-          class="icon"
-          xmlns="http://www.w3.org/2000/svg"
-          viewBox="0 0 512 512"
-        >
-          <path
-            d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"
-          />
-        </svg> -->
-      </a>
     </p>
   </section>
 
@@ -94,21 +57,15 @@ import VueMasteryModal from './VueMasteryModal.vue'
     <div class="vt-box">
       <h2>Louis Lavelle</h2>
       <p>
-        Inspiração para este hobby, em que compartilho suas obras
-        que, durate minhas buscas, não estavam prontamente disponíveis.
+        Obras e estudos de Louis Lavelle reunidos em uma navegação simples,
+        com foco em leitura contínua e referência.
       </p>
     </div>
     <div class="vt-box">
       <h2>Literatura</h2>
       <p>
-        Biblioteca digital de obras clássicas,
-        especialmente brasileiras.
-      </p>
-    </div>
-    <div class="vt-box">
-      <h2>Demos</h2>
-      <p>
-        Notas, estudos de casos e ferramentas experimentais.
+        Biblioteca digital de obras clássicas, com ênfase em autores
+        brasileiros e leitura em formato limpo.
       </p>
     </div>
   </section>
@@ -190,28 +147,6 @@ section {
   transition: background-color 0.5s, color 0.5s;
 }
 
-.actions .security {
-  background: linear-gradient(var(--vt-c-bg-mute), var(--vt-c-bg-mute)) padding-box,
-    linear-gradient(45deg, #42d392, #647eff) border-box;
-  border: 2px solid transparent;
-}
-
-.actions .security:hover {
-  background: linear-gradient(var(--vt-c-gray-light-4), var(--vt-c-gray-light-4)) padding-box,
-    linear-gradient(45deg, #42d392, #647eff) border-box;
-}
-
-.dark .actions .security:hover {
-  background: linear-gradient(var(--vt-c-gray-dark-3), var(--vt-c-gray-dark-3)) padding-box,
-    linear-gradient(45deg, #42d392, #647eff) border-box;
-}
-
-.actions .security .icon {
-  width: 12px;
-  height: 12px;
-  margin-left: 4px;
-}
-
 .actions .get-started,
 .actions .setup {
   margin-right: 18px;
@@ -235,21 +170,18 @@ section {
 }
 
 .actions .get-started,
-.actions .setup,
-.actions .security {
+.actions .setup {
   color: var(--vt-c-text-code);
 }
 
 .actions .get-started:hover,
-.actions .setup:hover,
-.actions .security:hover {
+.actions .setup:hover {
   background-color: var(--vt-c-gray-light-4);
   transition-duration: 0.2s;
 }
 
 .dark .actions .get-started:hover,
-.dark .actions .setup:hover,
-.dark .actions .security:hover {
+.dark .actions .setup:hover {
   background-color: var(--vt-c-gray-dark-3);
 }
 
@@ -344,9 +276,6 @@ section {
     font-size: 48px;
     letter-spacing: -0.5px;
   }
-  .actions .security {
-    margin-top: 18px;
-  }
 }
 
 @media (max-width: 576px) {
@@ -375,9 +304,6 @@ section {
   }
   .actions a {
     margin: 18px 0;
-  }
-  .actions .security {
-    margin-top: 0;
   }
 }
 

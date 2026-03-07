@@ -1,6 +1,6 @@
 # Skepvox
 
-Personal site and digital library focused on literatura, filosofia, and classical studies.
+Personal site and digital library focused on Louis Lavelle, literatura, and classical studies.
 
 ## Requirements
 
@@ -29,20 +29,8 @@ pnpm preview
 
 ## Content pipelines
 
-See `docs/pipelines.md` for how local extraction projects feed content into `src/`.
 Book ingestion, naming, and SEO rules live in `docs/books-workflow.md`.
-
-## Enem data
-
-Publish Enem data from the pipeline into `src/public/enem/{year}/`:
-
-```bash
-pnpm publish:enem -- --year 2025
-```
-
-Per-question overrides live in `src/enem/overrides/{year}/qNNN.json`.
 
 ## SEO (local)
 
 - `docs/seo-strategy.md`
-- `docs/vercel-seo-testing.md`
