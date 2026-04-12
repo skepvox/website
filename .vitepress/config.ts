@@ -30,6 +30,11 @@ const nav: ThemeConfig['nav'] = [
     link: '/louis-lavelle/'
   },
   {
+    text: 'Podcast FLE',
+    activeMatch: '^/podcastfle/',
+    link: '/podcastfle/'
+  },
+  {
     text: 'Literatura',
     activeMatch: '^/literatura/',
     link: '/literatura/'
@@ -37,6 +42,16 @@ const nav: ThemeConfig['nav'] = [
 ]
 
 export const sidebar: ThemeConfig['sidebar'] = {
+  '/podcastfle/': [
+    {
+      text: 'Podcast FLE',
+      items: [
+        { text: 'Présentation', link: '/podcastfle/' },
+        { text: '001 Le badge', link: '/podcastfle/001-le-badge' }
+      ]
+    }
+  ],
+
   '/literatura/': [
     {
       text: 'Machado de Assis', 
