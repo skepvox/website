@@ -68,4 +68,4 @@ Les pages de cette section réunissent les transcriptions, le vocabulaire et les
 ## Leçons
 
 - [001 Le badge](/podcastfle/001-le-badge) — le verbe `être` au présent, l'identité, les rôles et les lieux dans un forum des associations.
-
+- [002 La valise verte](/podcastfle/002-la-valise-verte) — le verbe `être` au présent, les descriptions, les lieux et la possession au bureau des objets trouvés.
