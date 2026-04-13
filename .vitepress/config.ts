@@ -30,9 +30,9 @@ const nav: ThemeConfig['nav'] = [
     link: '/louis-lavelle/'
   },
   {
-    text: 'Podcast FLE',
-    activeMatch: '^/podcastfle/',
-    link: '/podcastfle/'
+    text: 'Podcasts',
+    activeMatch: '^/podcast/',
+    link: '/podcast/'
   },
   {
     text: 'Literatura',
@@ -42,12 +42,64 @@ const nav: ThemeConfig['nav'] = [
 ]
 
 export const sidebar: ThemeConfig['sidebar'] = {
-  '/podcastfle/': [
+  '/podcast/francais/': [
     {
       text: 'Podcast FLE',
       items: [
-        { text: 'Présentation', link: '/podcastfle/' },
-        { text: '001 Le badge', link: '/podcastfle/001-le-badge' }
+        { text: 'Présentation', link: '/podcast/francais/' },
+        { text: '001 Le badge', link: '/podcast/francais/001-le-badge' },
+        { text: '002 La valise verte', link: '/podcast/francais/002-la-valise-verte' }
+      ]
+    },
+    {
+      text: 'Autres podcasts',
+      items: [
+        { text: 'English', link: '/podcast/english/' },
+        { text: 'Español', link: '/podcast/espanol/' }
+      ]
+    }
+  ],
+
+  '/podcast/english/': [
+    {
+      text: 'EFL Podcast',
+      items: [
+        { text: 'Overview', link: '/podcast/english/' }
+      ]
+    },
+    {
+      text: 'Other podcasts',
+      items: [
+        { text: 'Français', link: '/podcast/francais/' },
+        { text: 'Español', link: '/podcast/espanol/' }
+      ]
+    }
+  ],
+
+  '/podcast/espanol/': [
+    {
+      text: 'Podcast ELE',
+      items: [
+        { text: 'Presentación', link: '/podcast/espanol/' }
+      ]
+    },
+    {
+      text: 'Otros podcasts',
+      items: [
+        { text: 'Français', link: '/podcast/francais/' },
+        { text: 'English', link: '/podcast/english/' }
+      ]
+    }
+  ],
+
+  '/podcast/': [
+    {
+      text: 'Podcasts',
+      items: [
+        { text: 'Visão geral', link: '/podcast/' },
+        { text: 'Français', link: '/podcast/francais/' },
+        { text: 'English', link: '/podcast/english/' },
+        { text: 'Español', link: '/podcast/espanol/' }
       ]
     }
   ],
