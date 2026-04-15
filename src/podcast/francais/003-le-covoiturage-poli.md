@@ -170,15 +170,15 @@ C'est parti.
 
 [début du dialogue]
 
-Léa: Bonjour, vous êtes Thomas, le passager pour Dijon? Je suis Léa, la conductrice. La voiture bleue est juste derrière vous.
+Léa: Bonjour, vous êtes Thomas, le passager pour Dijon ? Je suis Léa, la conductrice. La voiture bleue est juste derrière vous.
 
-Thomas: Oui, je suis Thomas. Et vous êtes bien Léa? L'application dit: "Ici, on se tutoie", mais elle est très enthousiaste pour une application.
+Thomas: Oui, je suis Thomas. Et vous êtes bien Léa ? L'application dit : "Ici, on se tutoie", mais elle est très enthousiaste pour une application.
 
-Léa: C'est vrai. Alors tu es prêt? Nous sommes déjà un peu en retard, le tableau de départ est plein de noms, et l'aire d'autoroute est moins charmante que sur les photos.
+Léa: C'est vrai. Alors tu es prêt ? Nous sommes déjà un peu en retard, le tableau de départ est plein de noms, et l'aire d'autoroute est moins charmante que sur les photos.
 
 Thomas: Je suis prêt, mais je préfère commencer par vous. Nous ne sommes pas chez des amis, nous sommes sur un parking avec trois poubelles et un sandwich triste.
 
-Léa: D'accord, vous êtes prêt. Vous êtes de Nancy, avec un sac rouge et un chien calme?
+Léa: D'accord, vous êtes prêt. Vous êtes de Nancy, avec un sac rouge et un chien calme ?
 
 Thomas: Je suis de Nancy, oui. Mais mon sac est noir, je suis seul, et je suis très sensible aux pronoms. Quand une inconnue me dit "tu", mon manteau se ferme tout seul.
 
@@ -194,7 +194,7 @@ Léa: Ah. L'autre Thomas a un chien, un sac rouge, et deux messages avec des sou
 
 Thomas: Ce n'est pas faux. Administrativement, je suis Thomas du service qualité.
 
-Léa: Du service qualité? Vous n'êtes donc pas mon passager?
+Léa: Du service qualité ? Vous n'êtes donc pas mon passager ?
 
 Thomas: Non. Aujourd'hui, je suis ici pour observer la politesse des conducteurs et le passage entre tu et vous.
 
@@ -272,15 +272,15 @@ Ce dialogue montre donc que le verbe être n'est pas seulement une conjugaison �
 
 [début du dialogue]
 
-Léa: Bonjour, vous êtes Thomas, le passager pour Dijon? Je suis Léa, la conductrice. La voiture bleue est juste derrière vous.
+Léa: Bonjour, vous êtes Thomas, le passager pour Dijon ? Je suis Léa, la conductrice. La voiture bleue est juste derrière vous.
 
-Thomas: Oui, je suis Thomas. Et vous êtes bien Léa? L'application dit: "Ici, on se tutoie", mais elle est très enthousiaste pour une application.
+Thomas: Oui, je suis Thomas. Et vous êtes bien Léa ? L'application dit : "Ici, on se tutoie", mais elle est très enthousiaste pour une application.
 
-Léa: C'est vrai. Alors tu es prêt? Nous sommes déjà un peu en retard, le tableau de départ est plein de noms, et l'aire d'autoroute est moins charmante que sur les photos.
+Léa: C'est vrai. Alors tu es prêt ? Nous sommes déjà un peu en retard, le tableau de départ est plein de noms, et l'aire d'autoroute est moins charmante que sur les photos.
 
 Thomas: Je suis prêt, mais je préfère commencer par vous. Nous ne sommes pas chez des amis, nous sommes sur un parking avec trois poubelles et un sandwich triste.
 
-Léa: D'accord, vous êtes prêt. Vous êtes de Nancy, avec un sac rouge et un chien calme?
+Léa: D'accord, vous êtes prêt. Vous êtes de Nancy, avec un sac rouge et un chien calme ?
 
 Thomas: Je suis de Nancy, oui. Mais mon sac est noir, je suis seul, et je suis très sensible aux pronoms. Quand une inconnue me dit "tu", mon manteau se ferme tout seul.
 
@@ -296,7 +296,7 @@ Léa: Ah. L'autre Thomas a un chien, un sac rouge, et deux messages avec des sou
 
 Thomas: Ce n'est pas faux. Administrativement, je suis Thomas du service qualité.
 
-Léa: Du service qualité? Vous n'êtes donc pas mon passager?
+Léa: Du service qualité ? Vous n'êtes donc pas mon passager ?
 
 Thomas: Non. Aujourd'hui, je suis ici pour observer la politesse des conducteurs et le passage entre tu et vous.
 
