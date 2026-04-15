@@ -69,3 +69,4 @@ Les pages de cette section réunissent les transcriptions, le vocabulaire et les
 
 - [001 Le badge](/podcast/francais/001-le-badge) — le verbe `être` au présent, l'identité, les rôles et les lieux dans un forum des associations.
 - [002 La valise verte](/podcast/francais/002-la-valise-verte) — le verbe `être` au présent, les descriptions, les lieux et la possession au bureau des objets trouvés.
+- [003 Le covoiturage poli](/podcast/francais/003-le-covoiturage-poli) — le verbe `être` au présent, l'identité, l'origine, les lieux et la différence entre `tu` et `vous` dans un covoiturage.
