@@ -1,6 +1,6 @@
 ---
-title: 'Podcast FLE'
-description: 'Podcast FLE, un podcast de français langue étrangère par SkepVox, avec dialogues, explications, guides de leçon et transcriptions.'
+title: 'Vox Français - Podcast de français langue étrangère'
+description: 'Vox Français - Podcast de français langue étrangère, par SkepVox, avec dialogues, explications, guides de leçon et transcriptions.'
 outline: 2
 head:
   - - link
@@ -8,16 +8,16 @@ head:
       href: 'https://skepvox.com/podcast/francais/'
   - - meta
     - name: description
-      content: 'Podcast FLE, un podcast de français langue étrangère par SkepVox, avec dialogues, explications, guides de leçon et transcriptions.'
+      content: 'Vox Français - Podcast de français langue étrangère, par SkepVox, avec dialogues, explications, guides de leçon et transcriptions.'
   - - meta
     - name: keywords
-      content: 'Podcast FLE, SkepVox, français langue étrangère, FLE, apprendre le français, podcast français, dialogue français, transcription français'
+      content: 'Vox Français, Podcast de français langue étrangère, SkepVox, français langue étrangère, FLE, apprendre le français, podcast français, dialogue français, transcription français'
   - - meta
     - property: og:title
-      content: 'Podcast FLE'
+      content: 'Vox Français - Podcast de français langue étrangère'
   - - meta
     - property: og:description
-      content: 'Dialogues, explications et guides de leçon pour apprendre le français avec Podcast FLE.'
+      content: 'Dialogues, explications et guides de leçon pour apprendre le français avec Vox Français - Podcast de français langue étrangère.'
   - - meta
     - property: og:url
       content: 'https://skepvox.com/podcast/francais/'
@@ -35,10 +35,10 @@ head:
       content: summary_large_image
   - - meta
     - name: twitter:title
-      content: 'Podcast FLE'
+      content: 'Vox Français - Podcast de français langue étrangère'
   - - meta
     - name: twitter:description
-      content: 'Dialogues, explications et guides de leçon pour apprendre le français avec Podcast FLE.'
+      content: 'Dialogues, explications et guides de leçon pour apprendre le français avec Vox Français - Podcast de français langue étrangère.'
   - - script
     - type: application/ld+json
     - |
@@ -47,8 +47,8 @@ head:
         "@type": "CollectionPage",
         "@id": "https://skepvox.com/podcast/francais/#webpage",
         "url": "https://skepvox.com/podcast/francais/",
-        "name": "Podcast FLE",
-        "description": "Podcast FLE, un podcast de français langue étrangère par SkepVox, avec dialogues, explications, guides de leçon et transcriptions.",
+        "name": "Vox Français - Podcast de français langue étrangère",
+        "description": "Vox Français - Podcast de français langue étrangère, par SkepVox, avec dialogues, explications, guides de leçon et transcriptions.",
         "isPartOf": {
           "@id": "https://skepvox.com/#website"
         },
@@ -59,9 +59,9 @@ head:
       }
 ---
 
-# Podcast FLE
+# Vox Français - Podcast de français langue étrangère
 
-Podcast FLE est un podcast de français langue étrangère par SkepVox. Chaque épisode propose une petite scène en français, un dialogue à deux vitesses, une explication guidée et un guide de leçon.
+Vox Français - Podcast de français langue étrangère est une série SkepVox pour apprendre le français. Chaque épisode propose une petite scène en français, un dialogue à deux vitesses, une explication guidée et un guide de leçon.
 
 Les pages de cette section réunissent les transcriptions, le vocabulaire et les notes utiles pour réécouter l'épisode avec le texte sous les yeux.
 

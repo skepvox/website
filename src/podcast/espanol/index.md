@@ -1,6 +1,6 @@
 ---
-title: 'Podcast ELE'
-description: 'Podcast ELE, un podcast de español como lengua extranjera por SkepVox.'
+title: 'Vox Español - Podcast de español como lengua extranjera'
+description: 'Vox Español - Podcast de español como lengua extranjera, por SkepVox, con diálogos, explicaciones y guías de lección.'
 outline: 2
 head:
   - - link
@@ -8,16 +8,16 @@ head:
       href: 'https://skepvox.com/podcast/espanol/'
   - - meta
     - name: description
-      content: 'Podcast ELE, un podcast de español como lengua extranjera por SkepVox.'
+      content: 'Vox Español - Podcast de español como lengua extranjera, por SkepVox, con diálogos, explicaciones y guías de lección.'
   - - meta
     - name: keywords
-      content: 'Podcast ELE, SkepVox, español como lengua extranjera, ELE, aprender español, podcast español, diálogo español'
+      content: 'Vox Español, Podcast de español como lengua extranjera, SkepVox, español como lengua extranjera, ELE, aprender español, podcast español, diálogo español'
   - - meta
     - property: og:title
-      content: 'Podcast ELE'
+      content: 'Vox Español - Podcast de español como lengua extranjera'
   - - meta
     - property: og:description
-      content: 'Diálogos, explicaciones y guías de lección para aprender español con Podcast ELE.'
+      content: 'Diálogos, explicaciones y guías de lección para aprender español con Vox Español - Podcast de español como lengua extranjera.'
   - - meta
     - property: og:url
       content: 'https://skepvox.com/podcast/espanol/'
@@ -38,8 +38,8 @@ head:
         "@type": "CollectionPage",
         "@id": "https://skepvox.com/podcast/espanol/#webpage",
         "url": "https://skepvox.com/podcast/espanol/",
-        "name": "Podcast ELE",
-        "description": "Podcast ELE, un podcast de español como lengua extranjera por SkepVox.",
+        "name": "Vox Español - Podcast de español como lengua extranjera",
+        "description": "Vox Español - Podcast de español como lengua extranjera, por SkepVox, con diálogos, explicaciones y guías de lección.",
         "isPartOf": {
           "@id": "https://skepvox.com/#website"
         },
@@ -50,9 +50,9 @@ head:
       }
 ---
 
-# Podcast ELE
+# Vox Español - Podcast de español como lengua extranjera
 
-Podcast ELE es un podcast de español como lengua extranjera por SkepVox. La serie empieza con episodios A2-B1 y después avanza hacia B1-B2.
+Vox Español - Podcast de español como lengua extranjera ayuda a estudiar español con diálogos, explicaciones y guías de lección. La serie empieza con episodios A2-B1 y después avanza hacia B1-B2.
 
 ## Lecciones
 

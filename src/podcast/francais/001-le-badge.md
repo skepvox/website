@@ -1,6 +1,6 @@
 ---
-title: "Podcast FLE 001 — Le badge"
-description: "Guide de leçon et transcription de l’épisode 001 de Podcast FLE : Le badge, sur le verbe être au présent."
+title: "Vox Français 001 — Le badge"
+description: "Guide de leçon et transcription de l’épisode 001 de Vox Français - Podcast de français langue étrangère : Le badge, sur le verbe être au présent."
 outline: [2, 3]
 head:
   - - link
@@ -8,16 +8,16 @@ head:
       href: "https://skepvox.com/podcast/francais/001-le-badge"
   - - meta
     - name: description
-      content: "Guide de leçon et transcription de l’épisode 001 de Podcast FLE : Le badge, sur le verbe être au présent."
+      content: "Guide de leçon et transcription de l’épisode 001 de Vox Français - Podcast de français langue étrangère : Le badge, sur le verbe être au présent."
   - - meta
     - name: keywords
-      content: "Podcast FLE, SkepVox, Le badge, verbe être, français langue étrangère, FLE, transcription, dialogue français, guide de leçon"
+      content: "Vox Français, SkepVox, Le badge, verbe être, français langue étrangère, FLE, transcription, dialogue français, guide de leçon"
   - - meta
     - property: og:title
-      content: "Podcast FLE 001 — Le badge"
+      content: "Vox Français 001 — Le badge"
   - - meta
     - property: og:description
-      content: "Guide de leçon et transcription de l’épisode 001 de Podcast FLE : Le badge, sur le verbe être au présent."
+      content: "Guide de leçon et transcription de l’épisode 001 de Vox Français - Podcast de français langue étrangère : Le badge, sur le verbe être au présent."
   - - meta
     - property: og:url
       content: "https://skepvox.com/podcast/francais/001-le-badge"
@@ -35,10 +35,10 @@ head:
       content: summary_large_image
   - - meta
     - name: twitter:title
-      content: "Podcast FLE 001 — Le badge"
+      content: "Vox Français 001 — Le badge"
   - - meta
     - name: twitter:description
-      content: "Guide de leçon et transcription de l’épisode 001 de Podcast FLE : Le badge, sur le verbe être au présent."
+      content: "Guide de leçon et transcription de l’épisode 001 de Vox Français - Podcast de français langue étrangère : Le badge, sur le verbe être au présent."
   - - script
     - type: application/ld+json
     - |
@@ -47,8 +47,8 @@ head:
         "@type": "LearningResource",
         "@id": "https://skepvox.com/podcast/francais/001-le-badge#learning-resource",
         "url": "https://skepvox.com/podcast/francais/001-le-badge",
-        "name": "Podcast FLE 001 — Le badge",
-        "description": "Guide de leçon et transcription de l’épisode 001 de Podcast FLE : Le badge, sur le verbe être au présent.",
+        "name": "Vox Français 001 — Le badge",
+        "description": "Guide de leçon et transcription de l’épisode 001 de Vox Français - Podcast de français langue étrangère : Le badge, sur le verbe être au présent.",
         "learningResourceType": ["podcast transcript", "lesson guide"],
         "teaches": "Le verbe être au présent pour parler d’identité, de rôle, d’état et de lieu.",
         "inLanguage": "fr-FR",
@@ -61,9 +61,9 @@ head:
       }
 ---
 
-# Podcast FLE 001 — Le badge
+# Vox Français 001 — Le badge
 
-Cette page accompagne l’épisode 001 de Podcast FLE, un podcast de français langue étrangère par SkepVox. Elle réunit le guide d’apprentissage, le dialogue et la transcription complète.
+Cette page accompagne l’épisode 001 de Vox Français - Podcast de français langue étrangère, une série SkepVox pour apprendre le français. Elle réunit le guide d’apprentissage, le dialogue et la transcription complète.
 
 **Épisode :** Le badge
 
@@ -164,7 +164,7 @@ Pour un apprenant, ce type de lieu est intéressant parce qu'il rassemble beauco
 
 ### Introduction
 
-Bonjour et bienvenue dans Podcast FLE, le podcast pour apprendre le français avec une scène courte, un dialogue vivant et une explication claire. Aujourd'hui, nous travaillons le verbe être au présent : je suis, vous êtes, il est, nous sommes, ils sont. Ce verbe est partout dans la conversation, surtout quand on parle d'identité, de rôle, d'état ou de lieu. Notre dialogue s'appelle "Le badge". Claire arrive dans un forum municipal des associations. Elle pense être bénévole à l'accueil. Mathieu, lui, semble s'occuper des badges. Mais très vite, le badge ne clarifie rien du tout. Écoutez bien les expressions avec être : je suis bénévole, vous êtes laquelle, il est écrit, mon assistant est absent. Et écoutez aussi la dernière phrase : elle garde le petit tour de magie pour la fin. C'est parti.
+Bonjour et bienvenue dans le Podcast de français langue étrangère, le podcast pour apprendre le français avec une scène courte, un dialogue vivant et une explication claire. Aujourd'hui, nous travaillons le verbe être au présent : je suis, vous êtes, il est, nous sommes, ils sont. Ce verbe est partout dans la conversation, surtout quand on parle d'identité, de rôle, d'état ou de lieu. Notre dialogue s'appelle "Le badge". Claire arrive dans un forum municipal des associations. Elle pense être bénévole à l'accueil. Mathieu, lui, semble s'occuper des badges. Mais très vite, le badge ne clarifie rien du tout. Écoutez bien les expressions avec être : je suis bénévole, vous êtes laquelle, il est écrit, mon assistant est absent. Et écoutez aussi la dernière phrase : elle garde le petit tour de magie pour la fin. C'est parti.
 
 ### Dialogue - version lente
 
@@ -274,4 +274,4 @@ Claire : Très bien. Votre premier tour est réussi : vous avez fait disparaîtr
 
 ### Conclusion
 
-Voilà pour "Le badge". Aujourd'hui, nous avons travaillé le verbe être pour présenter une identité, un rôle, un état et un lieu : je suis bénévole, vous êtes convaincante, le maire est perdu, les artistes sont dans la salle jaune. Répétez quelques phrases à voix haute, surtout vous êtes avec la liaison. Et si vous êtes à l'accueil d'un événement, vérifiez toujours le badge avant de suivre un magicien. À bientôt dans Podcast FLE, et restez disponibles, mais pas trop disponibles sous une cape.
+Voilà pour "Le badge". Aujourd'hui, nous avons travaillé le verbe être pour présenter une identité, un rôle, un état et un lieu : je suis bénévole, vous êtes convaincante, le maire est perdu, les artistes sont dans la salle jaune. Répétez quelques phrases à voix haute, surtout vous êtes avec la liaison. Et si vous êtes à l'accueil d'un événement, vérifiez toujours le badge avant de suivre un magicien. À bientôt dans le Podcast de français langue étrangère, et restez disponibles, mais pas trop disponibles sous une cape.

@@ -1,6 +1,6 @@
 ---
 title: 'Podcasts'
-description: 'Podcasts SkepVox para aprendizagem de idiomas: Podcast FLE, Podcast ELE e EFL Podcast.'
+description: 'Podcasts SkepVox para aprendizagem de idiomas: Vox Français - Podcast de français langue étrangère, Vox Español - Podcast de español como lengua extranjera e Vox English - English as a Foreign Language Podcast.'
 outline: 2
 head:
   - - link
@@ -8,7 +8,7 @@ head:
       href: 'https://skepvox.com/podcast/'
   - - meta
     - name: description
-      content: 'Podcasts SkepVox para aprendizagem de idiomas: Podcast FLE, Podcast ELE e EFL Podcast.'
+      content: 'Podcasts SkepVox para aprendizagem de idiomas: Vox Français - Podcast de français langue étrangère, Vox Español - Podcast de español como lengua extranjera e Vox English - English as a Foreign Language Podcast.'
   - - meta
     - property: og:title
       content: 'Podcasts SkepVox'
@@ -50,6 +50,6 @@ Projetos SkepVox para aprendizagem de idiomas, com diálogos, transcrições, gu
 
 ## Séries
 
-- [Podcast FLE](/podcast/francais/) — francês língua estrangeira, com episódios A2-B1 no início da série.
-- [Podcast ELE](/podcast/espanol/) — español como lengua extranjera, con episodios A2-B1 al inicio de la serie.
-- [EFL Podcast](/podcast/english/) — English as a foreign language, with advanced B2-C1 episodes at the start of the series.
+- [Vox Français - Podcast de français langue étrangère](/podcast/francais/) — francês língua estrangeira, com episódios A2-B1 no início da série.
+- [Vox Español - Podcast de español como lengua extranjera](/podcast/espanol/) — español como lengua extranjera, con episodios A2-B1 al inicio de la serie.
+- [Vox English - English as a Foreign Language Podcast](/podcast/english/) — English as a foreign language, with advanced B2-C1 episodes at the start of the series.

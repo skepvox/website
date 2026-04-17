@@ -44,7 +44,7 @@ const nav: ThemeConfig['nav'] = [
 export const sidebar: ThemeConfig['sidebar'] = {
   '/podcast/francais/': [
     {
-      text: 'Podcast FLE',
+      text: 'Vox Français - Podcast de français langue étrangère',
       items: [
         { text: 'Présentation', link: '/podcast/francais/' },
         { text: '001 Le badge', link: '/podcast/francais/001-le-badge' },
@@ -63,7 +63,7 @@ export const sidebar: ThemeConfig['sidebar'] = {
 
   '/podcast/english/': [
     {
-      text: 'EFL Podcast',
+      text: 'Vox English - English as a Foreign Language Podcast',
       items: [
         { text: 'Overview', link: '/podcast/english/' }
       ]
@@ -79,7 +79,7 @@ export const sidebar: ThemeConfig['sidebar'] = {
 
   '/podcast/espanol/': [
     {
-      text: 'Podcast ELE',
+      text: 'Vox Español - Podcast de español como lengua extranjera',
       items: [
         { text: 'Presentación', link: '/podcast/espanol/' }
       ]

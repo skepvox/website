@@ -1,6 +1,6 @@
 ---
-title: 'EFL Podcast'
-description: 'EFL Podcast, an advanced English-as-a-foreign-language podcast by SkepVox.'
+title: 'Vox English - English as a Foreign Language Podcast'
+description: 'Vox English - English as a Foreign Language Podcast, by SkepVox, with dialogues, explanations, and lesson guides.'
 outline: 2
 head:
   - - link
@@ -8,16 +8,16 @@ head:
       href: 'https://skepvox.com/podcast/english/'
   - - meta
     - name: description
-      content: 'EFL Podcast, an advanced English-as-a-foreign-language podcast by SkepVox.'
+      content: 'Vox English - English as a Foreign Language Podcast, by SkepVox, with dialogues, explanations, and lesson guides.'
   - - meta
     - name: keywords
-      content: 'EFL Podcast, SkepVox, English as a foreign language, advanced English, B2 C1, C1 C2, English podcast'
+      content: 'Vox English, English as a Foreign Language Podcast, SkepVox, English as a foreign language, advanced English, B2 C1, C1 C2, English podcast'
   - - meta
     - property: og:title
-      content: 'EFL Podcast'
+      content: 'Vox English - English as a Foreign Language Podcast'
   - - meta
     - property: og:description
-      content: 'Advanced English dialogues, explanations, and lesson guides from EFL Podcast.'
+      content: 'Advanced English dialogues, explanations, and lesson guides from Vox English - English as a Foreign Language Podcast.'
   - - meta
     - property: og:url
       content: 'https://skepvox.com/podcast/english/'
@@ -38,8 +38,8 @@ head:
         "@type": "CollectionPage",
         "@id": "https://skepvox.com/podcast/english/#webpage",
         "url": "https://skepvox.com/podcast/english/",
-        "name": "EFL Podcast",
-        "description": "EFL Podcast, an advanced English-as-a-foreign-language podcast by SkepVox.",
+        "name": "Vox English - English as a Foreign Language Podcast",
+        "description": "Vox English - English as a Foreign Language Podcast, by SkepVox, with dialogues, explanations, and lesson guides.",
         "isPartOf": {
           "@id": "https://skepvox.com/#website"
         },
@@ -50,9 +50,9 @@ head:
       }
 ---
 
-# EFL Podcast
+# Vox English - English as a Foreign Language Podcast
 
-EFL Podcast is an advanced English-as-a-foreign-language podcast by SkepVox. The series starts at B2-C1 and later moves into C1-C2.
+Vox English - English as a Foreign Language Podcast helps advanced learners work on English through dialogues, explanations, and lesson guides. The series starts at B2-C1 and later moves into C1-C2.
 
 ## Lessons
 

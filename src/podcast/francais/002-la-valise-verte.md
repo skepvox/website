@@ -1,6 +1,6 @@
 ---
-title: "Podcast FLE 002 — La valise verte"
-description: "Guide de leçon et transcription de l’épisode 002 de Podcast FLE : La valise verte, sur le verbe être au présent."
+title: "Vox Français 002 — La valise verte"
+description: "Guide de leçon et transcription de l’épisode 002 de Vox Français - Podcast de français langue étrangère : La valise verte, sur le verbe être au présent."
 outline: [2, 3]
 head:
   - - link
@@ -8,16 +8,16 @@ head:
       href: "https://skepvox.com/podcast/francais/002-la-valise-verte"
   - - meta
     - name: description
-      content: "Guide de leçon et transcription de l’épisode 002 de Podcast FLE : La valise verte, sur le verbe être au présent."
+      content: "Guide de leçon et transcription de l’épisode 002 de Vox Français - Podcast de français langue étrangère : La valise verte, sur le verbe être au présent."
   - - meta
     - name: keywords
-      content: "Podcast FLE, SkepVox, La valise verte, verbe être, objets trouvés, gare, valise, français langue étrangère, FLE, transcription, dialogue français, guide de leçon"
+      content: "Vox Français, SkepVox, La valise verte, verbe être, objets trouvés, gare, valise, français langue étrangère, FLE, transcription, dialogue français, guide de leçon"
   - - meta
     - property: og:title
-      content: "Podcast FLE 002 — La valise verte"
+      content: "Vox Français 002 — La valise verte"
   - - meta
     - property: og:description
-      content: "Guide de leçon et transcription de l’épisode 002 de Podcast FLE : La valise verte, sur le verbe être au présent."
+      content: "Guide de leçon et transcription de l’épisode 002 de Vox Français - Podcast de français langue étrangère : La valise verte, sur le verbe être au présent."
   - - meta
     - property: og:url
       content: "https://skepvox.com/podcast/francais/002-la-valise-verte"
@@ -35,10 +35,10 @@ head:
       content: summary_large_image
   - - meta
     - name: twitter:title
-      content: "Podcast FLE 002 — La valise verte"
+      content: "Vox Français 002 — La valise verte"
   - - meta
     - name: twitter:description
-      content: "Guide de leçon et transcription de l’épisode 002 de Podcast FLE : La valise verte, sur le verbe être au présent."
+      content: "Guide de leçon et transcription de l’épisode 002 de Vox Français - Podcast de français langue étrangère : La valise verte, sur le verbe être au présent."
   - - script
     - type: application/ld+json
     - |
@@ -47,8 +47,8 @@ head:
         "@type": "LearningResource",
         "@id": "https://skepvox.com/podcast/francais/002-la-valise-verte#learning-resource",
         "url": "https://skepvox.com/podcast/francais/002-la-valise-verte",
-        "name": "Podcast FLE 002 — La valise verte",
-        "description": "Guide de leçon et transcription de l’épisode 002 de Podcast FLE : La valise verte, sur le verbe être au présent.",
+        "name": "Vox Français 002 — La valise verte",
+        "description": "Guide de leçon et transcription de l’épisode 002 de Vox Français - Podcast de français langue étrangère : La valise verte, sur le verbe être au présent.",
         "learningResourceType": ["podcast transcript", "lesson guide"],
         "teaches": "Le verbe être au présent pour parler d’identité, d’état, de lieu, de description et de possession.",
         "inLanguage": "fr-FR",
@@ -61,9 +61,9 @@ head:
       }
 ---
 
-# Podcast FLE 002 — La valise verte
+# Vox Français 002 — La valise verte
 
-Cette page accompagne l’épisode 002 de Podcast FLE, un podcast de français langue étrangère par SkepVox. Elle réunit le guide d’apprentissage, le dialogue et la transcription complète.
+Cette page accompagne l’épisode 002 de Vox Français - Podcast de français langue étrangère, une série SkepVox pour apprendre le français. Elle réunit le guide d’apprentissage, le dialogue et la transcription complète.
 
 **Épisode :** La valise verte
 
@@ -168,7 +168,7 @@ Ce contexte permet aussi de pratiquer le vouvoiement. Camille et Marc ne se conn
 
 ### Introduction
 
-Bonjour et bienvenue dans Podcast FLE, le podcast pour apprendre le français avec une scène courte, un dialogue vivant et une explication claire. Aujourd'hui, nous retravaillons le verbe être au présent : je suis, vous êtes, elle est, nous sommes. Le dialogue s'appelle "La valise verte". Camille arrive dans une gare, au bureau des objets trouvés. Elle cherche une valise perdue. Marc, l'employé, semble reconnaître la valise un peu trop vite. Écoutez bien les phrases avec être : je suis ici, vous êtes au bureau, elle est verte, la table est cassée, nous sommes sans bureau. Elles servent à donner une identité, une description, un état et un lieu. Et écoutez la fin : la valise n'est pas seulement retrouvée, elle a presque une carrière administrative.
+Bonjour et bienvenue dans le Podcast de français langue étrangère, le podcast pour apprendre le français avec une scène courte, un dialogue vivant et une explication claire. Aujourd'hui, nous retravaillons le verbe être au présent : je suis, vous êtes, elle est, nous sommes. Le dialogue s'appelle "La valise verte". Camille arrive dans une gare, au bureau des objets trouvés. Elle cherche une valise perdue. Marc, l'employé, semble reconnaître la valise un peu trop vite. Écoutez bien les phrases avec être : je suis ici, vous êtes au bureau, elle est verte, la table est cassée, nous sommes sans bureau. Elles servent à donner une identité, une description, un état et un lieu. Et écoutez la fin : la valise n'est pas seulement retrouvée, elle a presque une carrière administrative.
 
 C'est parti.
 
@@ -312,4 +312,4 @@ Marc : Non. Elle est en CDI jusqu'à la livraison de la nouvelle table. Si vous 
 
 ### Conclusion
 
-Voilà pour "La valise verte". Aujourd'hui, nous avons revu le verbe être pour présenter une personne, décrire un objet, indiquer un lieu, et montrer un état : je suis ici, vous êtes au bureau, elle est verte, nous sommes sans bureau. Répétez surtout vous êtes avec la liaison, et elle est avec une voyelle claire. Vous pouvez aussi décrire un objet autour de vous : où est-il, comment est-il, à qui est-il ? À bientôt dans Podcast FLE, et si votre valise est très respectée par l'équipe, vérifiez quand même qu'elle n'a pas signé un CDI.
+Voilà pour "La valise verte". Aujourd'hui, nous avons revu le verbe être pour présenter une personne, décrire un objet, indiquer un lieu, et montrer un état : je suis ici, vous êtes au bureau, elle est verte, nous sommes sans bureau. Répétez surtout vous êtes avec la liaison, et elle est avec une voyelle claire. Vous pouvez aussi décrire un objet autour de vous : où est-il, comment est-il, à qui est-il ? À bientôt dans le Podcast de français langue étrangère, et si votre valise est très respectée par l'équipe, vérifiez quand même qu'elle n'a pas signé un CDI.

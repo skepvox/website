@@ -1,6 +1,6 @@
 ---
-title: "Podcast FLE 003 — Le covoiturage poli"
-description: "Guide de leçon et transcription de l’épisode 003 de Podcast FLE : Le covoiturage poli, sur le verbe être au présent, tu et vous."
+title: "Vox Français 003 — Le covoiturage poli"
+description: "Guide de leçon et transcription de l’épisode 003 de Vox Français - Podcast de français langue étrangère : Le covoiturage poli, sur le verbe être au présent, tu et vous."
 outline: [2, 3]
 head:
   - - link
@@ -8,16 +8,16 @@ head:
       href: "https://skepvox.com/podcast/francais/003-le-covoiturage-poli"
   - - meta
     - name: description
-      content: "Guide de leçon et transcription de l’épisode 003 de Podcast FLE : Le covoiturage poli, sur le verbe être au présent, tu et vous."
+      content: "Guide de leçon et transcription de l’épisode 003 de Vox Français - Podcast de français langue étrangère : Le covoiturage poli, sur le verbe être au présent, tu et vous."
   - - meta
     - name: keywords
-      content: "Podcast FLE, SkepVox, Le covoiturage poli, verbe être, tu et vous, covoiturage, politesse, français langue étrangère, FLE, transcription, dialogue français, guide de leçon"
+      content: "Vox Français, SkepVox, Le covoiturage poli, verbe être, tu et vous, covoiturage, politesse, français langue étrangère, FLE, transcription, dialogue français, guide de leçon"
   - - meta
     - property: og:title
-      content: "Podcast FLE 003 — Le covoiturage poli"
+      content: "Vox Français 003 — Le covoiturage poli"
   - - meta
     - property: og:description
-      content: "Guide de leçon et transcription de l’épisode 003 de Podcast FLE : Le covoiturage poli, sur le verbe être au présent, tu et vous."
+      content: "Guide de leçon et transcription de l’épisode 003 de Vox Français - Podcast de français langue étrangère : Le covoiturage poli, sur le verbe être au présent, tu et vous."
   - - meta
     - property: og:url
       content: "https://skepvox.com/podcast/francais/003-le-covoiturage-poli"
@@ -35,10 +35,10 @@ head:
       content: summary_large_image
   - - meta
     - name: twitter:title
-      content: "Podcast FLE 003 — Le covoiturage poli"
+      content: "Vox Français 003 — Le covoiturage poli"
   - - meta
     - name: twitter:description
-      content: "Guide de leçon et transcription de l’épisode 003 de Podcast FLE : Le covoiturage poli, sur le verbe être au présent, tu et vous."
+      content: "Guide de leçon et transcription de l’épisode 003 de Vox Français - Podcast de français langue étrangère : Le covoiturage poli, sur le verbe être au présent, tu et vous."
   - - script
     - type: application/ld+json
     - |
@@ -47,8 +47,8 @@ head:
         "@type": "LearningResource",
         "@id": "https://skepvox.com/podcast/francais/003-le-covoiturage-poli#learning-resource",
         "url": "https://skepvox.com/podcast/francais/003-le-covoiturage-poli",
-        "name": "Podcast FLE 003 — Le covoiturage poli",
-        "description": "Guide de leçon et transcription de l’épisode 003 de Podcast FLE : Le covoiturage poli, sur le verbe être au présent, tu et vous.",
+        "name": "Vox Français 003 — Le covoiturage poli",
+        "description": "Guide de leçon et transcription de l’épisode 003 de Vox Français - Podcast de français langue étrangère : Le covoiturage poli, sur le verbe être au présent, tu et vous.",
         "learningResourceType": ["podcast transcript", "lesson guide"],
         "teaches": "Le verbe être au présent pour vérifier une identité, donner une origine, situer une personne, exprimer un état et ajuster tu ou vous dans une interaction polie.",
         "inLanguage": "fr-FR",
@@ -61,9 +61,9 @@ head:
       }
 ---
 
-# Podcast FLE 003 — Le covoiturage poli
+# Vox Français 003 — Le covoiturage poli
 
-Cette page accompagne l'épisode 003 de Podcast FLE, un podcast de français langue étrangère par SkepVox. Elle réunit le guide d'apprentissage, le dialogue et la transcription complète.
+Cette page accompagne l'épisode 003 de Vox Français - Podcast de français langue étrangère, une série SkepVox pour apprendre le français. Elle réunit le guide d'apprentissage, le dialogue et la transcription complète.
 
 **Épisode :** Le covoiturage poli
 
@@ -162,7 +162,7 @@ La fin du dialogue joue avec cette nuance. Léa repasse à `tu`, mais cette fois
 
 ### Introduction
 
-Bonjour et bienvenue dans Podcast FLE, le podcast pour apprendre le français avec une scène courte, un dialogue vivant et une explication claire. Aujourd'hui, nous retravaillons le verbe être au présent : je suis, tu es, vous êtes, nous sommes. Nous allons aussi écouter une différence très importante en français : tu et vous. Le dialogue s'appelle "Le covoiturage poli". Léa attend ses passagers sur une aire d'autoroute pour partir vers Dijon. Un homme arrive. Il s'appelle Thomas, il est de Nancy, et il semble être le bon passager. Mais il préfère parler de politesse avant de monter dans la voiture. Écoutez les formes avec être : vous êtes Thomas, je suis Léa, tu es prêt, nous sommes en retard, je suis ici. Et écoutez la dernière phrase : elle utilise la grammaire comme une petite revanche très polie.
+Bonjour et bienvenue dans le Podcast de français langue étrangère, le podcast pour apprendre le français avec une scène courte, un dialogue vivant et une explication claire. Aujourd'hui, nous retravaillons le verbe être au présent : je suis, tu es, vous êtes, nous sommes. Nous allons aussi écouter une différence très importante en français : tu et vous. Le dialogue s'appelle "Le covoiturage poli". Léa attend ses passagers sur une aire d'autoroute pour partir vers Dijon. Un homme arrive. Il s'appelle Thomas, il est de Nancy, et il semble être le bon passager. Mais il préfère parler de politesse avant de monter dans la voiture. Écoutez les formes avec être : vous êtes Thomas, je suis Léa, tu es prêt, nous sommes en retard, je suis ici. Et écoutez la dernière phrase : elle utilise la grammaire comme une petite revanche très polie.
 
 C'est parti.
 
@@ -310,4 +310,4 @@ Léa: Très bien. Monsieur le contrôleur, vous êtes devant la bonne voiture. M
 
 ### Conclusion
 
-Voilà pour "Le covoiturage poli". Aujourd'hui, nous avons travaillé être pour vérifier une identité, donner une origine, situer une personne et exprimer un état : je suis Léa, vous êtes Thomas, je suis de Nancy, nous sommes en retard. Nous avons aussi entendu comment tu et vous peuvent changer la relation entre deux inconnus. Répétez surtout vous êtes avec la liaison, puis tu es avec un rythme clair. À bientôt dans Podcast FLE, et si vous êtes en retard, soyez au moins polis avec le contrôleur.
+Voilà pour "Le covoiturage poli". Aujourd'hui, nous avons travaillé être pour vérifier une identité, donner une origine, situer une personne et exprimer un état : je suis Léa, vous êtes Thomas, je suis de Nancy, nous sommes en retard. Nous avons aussi entendu comment tu et vous peuvent changer la relation entre deux inconnus. Répétez surtout vous êtes avec la liaison, puis tu es avec un rythme clair. À bientôt dans le Podcast de français langue étrangère, et si vous êtes en retard, soyez au moins polis avec le contrôleur.
