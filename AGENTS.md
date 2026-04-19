@@ -29,4 +29,4 @@
 - No formal test suite; validate changes with the dev server.
 
 ## Deployment
-- Hosted on Vercel; use `docs/vercel-seo-testing.md` for post-deploy checks.
+- Hosted on Cloudflare Pages.
