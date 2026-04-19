@@ -1,6 +1,6 @@
 ---
 title: "Vox Français 001 — Le badge"
-description: "Guide de leçon et transcription de l’épisode 001 de Vox Français - Podcast de français langue étrangère : Le badge, sur le verbe être au présent."
+description: "Guide de leçon et transcription de l’épisode 001 de Vox Français : Le badge, sur le verbe être au présent."
 outline: [2, 3]
 head:
   - - link
@@ -8,7 +8,7 @@ head:
       href: "https://skepvox.com/podcast/francais/001-le-badge"
   - - meta
     - name: description
-      content: "Guide de leçon et transcription de l’épisode 001 de Vox Français - Podcast de français langue étrangère : Le badge, sur le verbe être au présent."
+      content: "Guide de leçon et transcription de l’épisode 001 de Vox Français : Le badge, sur le verbe être au présent."
   - - meta
     - name: keywords
       content: "Vox Français, SkepVox, Le badge, verbe être, français langue étrangère, FLE, transcription, dialogue français, guide de leçon"
@@ -17,7 +17,7 @@ head:
       content: "Vox Français 001 — Le badge"
   - - meta
     - property: og:description
-      content: "Guide de leçon et transcription de l’épisode 001 de Vox Français - Podcast de français langue étrangère : Le badge, sur le verbe être au présent."
+      content: "Guide de leçon et transcription de l’épisode 001 de Vox Français : Le badge, sur le verbe être au présent."
   - - meta
     - property: og:url
       content: "https://skepvox.com/podcast/francais/001-le-badge"
@@ -38,7 +38,7 @@ head:
       content: "Vox Français 001 — Le badge"
   - - meta
     - name: twitter:description
-      content: "Guide de leçon et transcription de l’épisode 001 de Vox Français - Podcast de français langue étrangère : Le badge, sur le verbe être au présent."
+      content: "Guide de leçon et transcription de l’épisode 001 de Vox Français : Le badge, sur le verbe être au présent."
   - - script
     - type: application/ld+json
     - |
@@ -48,7 +48,7 @@ head:
         "@id": "https://skepvox.com/podcast/francais/001-le-badge#learning-resource",
         "url": "https://skepvox.com/podcast/francais/001-le-badge",
         "name": "Vox Français 001 — Le badge",
-        "description": "Guide de leçon et transcription de l’épisode 001 de Vox Français - Podcast de français langue étrangère : Le badge, sur le verbe être au présent.",
+        "description": "Guide de leçon et transcription de l’épisode 001 de Vox Français : Le badge, sur le verbe être au présent.",
         "learningResourceType": ["podcast transcript", "lesson guide"],
         "teaches": "Le verbe être au présent pour parler d’identité, de rôle, d’état et de lieu.",
         "inLanguage": "fr-FR",
@@ -63,7 +63,7 @@ head:
 
 # Vox Français 001 — Le badge
 
-Cette page accompagne l’épisode 001 de Vox Français - Podcast de français langue étrangère, une série SkepVox pour apprendre le français. Elle réunit le guide d’apprentissage, le dialogue et la transcription complète.
+Cette page accompagne l’épisode 001 de Vox Français, une série SkepVox pour apprendre le français. Elle réunit le guide d’apprentissage, le dialogue et la transcription complète.
 
 **Épisode :** Le badge
 

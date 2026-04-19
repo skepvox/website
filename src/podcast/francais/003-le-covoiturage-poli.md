@@ -1,6 +1,6 @@
 ---
 title: "Vox Français 003 — Le covoiturage poli"
-description: "Guide de leçon et transcription de l’épisode 003 de Vox Français - Podcast de français langue étrangère : Le covoiturage poli, sur le verbe être au présent, tu et vous."
+description: "Guide de leçon et transcription de l’épisode 003 de Vox Français : Le covoiturage poli, sur le verbe être au présent, tu et vous."
 outline: [2, 3]
 head:
   - - link
@@ -8,7 +8,7 @@ head:
       href: "https://skepvox.com/podcast/francais/003-le-covoiturage-poli"
   - - meta
     - name: description
-      content: "Guide de leçon et transcription de l’épisode 003 de Vox Français - Podcast de français langue étrangère : Le covoiturage poli, sur le verbe être au présent, tu et vous."
+      content: "Guide de leçon et transcription de l’épisode 003 de Vox Français : Le covoiturage poli, sur le verbe être au présent, tu et vous."
   - - meta
     - name: keywords
       content: "Vox Français, SkepVox, Le covoiturage poli, verbe être, tu et vous, covoiturage, politesse, français langue étrangère, FLE, transcription, dialogue français, guide de leçon"
@@ -17,7 +17,7 @@ head:
       content: "Vox Français 003 — Le covoiturage poli"
   - - meta
     - property: og:description
-      content: "Guide de leçon et transcription de l’épisode 003 de Vox Français - Podcast de français langue étrangère : Le covoiturage poli, sur le verbe être au présent, tu et vous."
+      content: "Guide de leçon et transcription de l’épisode 003 de Vox Français : Le covoiturage poli, sur le verbe être au présent, tu et vous."
   - - meta
     - property: og:url
       content: "https://skepvox.com/podcast/francais/003-le-covoiturage-poli"
@@ -38,7 +38,7 @@ head:
       content: "Vox Français 003 — Le covoiturage poli"
   - - meta
     - name: twitter:description
-      content: "Guide de leçon et transcription de l’épisode 003 de Vox Français - Podcast de français langue étrangère : Le covoiturage poli, sur le verbe être au présent, tu et vous."
+      content: "Guide de leçon et transcription de l’épisode 003 de Vox Français : Le covoiturage poli, sur le verbe être au présent, tu et vous."
   - - script
     - type: application/ld+json
     - |
@@ -48,7 +48,7 @@ head:
         "@id": "https://skepvox.com/podcast/francais/003-le-covoiturage-poli#learning-resource",
         "url": "https://skepvox.com/podcast/francais/003-le-covoiturage-poli",
         "name": "Vox Français 003 — Le covoiturage poli",
-        "description": "Guide de leçon et transcription de l’épisode 003 de Vox Français - Podcast de français langue étrangère : Le covoiturage poli, sur le verbe être au présent, tu et vous.",
+        "description": "Guide de leçon et transcription de l’épisode 003 de Vox Français : Le covoiturage poli, sur le verbe être au présent, tu et vous.",
         "learningResourceType": ["podcast transcript", "lesson guide"],
         "teaches": "Le verbe être au présent pour vérifier une identité, donner une origine, situer une personne, exprimer un état et ajuster tu ou vous dans une interaction polie.",
         "inLanguage": "fr-FR",
@@ -63,7 +63,7 @@ head:
 
 # Vox Français 003 — Le covoiturage poli
 
-Cette page accompagne l'épisode 003 de Vox Français - Podcast de français langue étrangère, une série SkepVox pour apprendre le français. Elle réunit le guide d'apprentissage, le dialogue et la transcription complète.
+Cette page accompagne l'épisode 003 de Vox Français, une série SkepVox pour apprendre le français. Elle réunit le guide d'apprentissage, le dialogue et la transcription complète.
 
 **Épisode :** Le covoiturage poli
 

@@ -1,6 +1,6 @@
 ---
 title: "Vox Français 002 — La valise verte"
-description: "Guide de leçon et transcription de l’épisode 002 de Vox Français - Podcast de français langue étrangère : La valise verte, sur le verbe être au présent."
+description: "Guide de leçon et transcription de l’épisode 002 de Vox Français : La valise verte, sur le verbe être au présent."
 outline: [2, 3]
 head:
   - - link
@@ -8,7 +8,7 @@ head:
       href: "https://skepvox.com/podcast/francais/002-la-valise-verte"
   - - meta
     - name: description
-      content: "Guide de leçon et transcription de l’épisode 002 de Vox Français - Podcast de français langue étrangère : La valise verte, sur le verbe être au présent."
+      content: "Guide de leçon et transcription de l’épisode 002 de Vox Français : La valise verte, sur le verbe être au présent."
   - - meta
     - name: keywords
       content: "Vox Français, SkepVox, La valise verte, verbe être, objets trouvés, gare, valise, français langue étrangère, FLE, transcription, dialogue français, guide de leçon"
@@ -17,7 +17,7 @@ head:
       content: "Vox Français 002 — La valise verte"
   - - meta
     - property: og:description
-      content: "Guide de leçon et transcription de l’épisode 002 de Vox Français - Podcast de français langue étrangère : La valise verte, sur le verbe être au présent."
+      content: "Guide de leçon et transcription de l’épisode 002 de Vox Français : La valise verte, sur le verbe être au présent."
   - - meta
     - property: og:url
       content: "https://skepvox.com/podcast/francais/002-la-valise-verte"
@@ -38,7 +38,7 @@ head:
       content: "Vox Français 002 — La valise verte"
   - - meta
     - name: twitter:description
-      content: "Guide de leçon et transcription de l’épisode 002 de Vox Français - Podcast de français langue étrangère : La valise verte, sur le verbe être au présent."
+      content: "Guide de leçon et transcription de l’épisode 002 de Vox Français : La valise verte, sur le verbe être au présent."
   - - script
     - type: application/ld+json
     - |
@@ -48,7 +48,7 @@ head:
         "@id": "https://skepvox.com/podcast/francais/002-la-valise-verte#learning-resource",
         "url": "https://skepvox.com/podcast/francais/002-la-valise-verte",
         "name": "Vox Français 002 — La valise verte",
-        "description": "Guide de leçon et transcription de l’épisode 002 de Vox Français - Podcast de français langue étrangère : La valise verte, sur le verbe être au présent.",
+        "description": "Guide de leçon et transcription de l’épisode 002 de Vox Français : La valise verte, sur le verbe être au présent.",
         "learningResourceType": ["podcast transcript", "lesson guide"],
         "teaches": "Le verbe être au présent pour parler d’identité, d’état, de lieu, de description et de possession.",
         "inLanguage": "fr-FR",
@@ -63,7 +63,7 @@ head:
 
 # Vox Français 002 — La valise verte
 
-Cette page accompagne l’épisode 002 de Vox Français - Podcast de français langue étrangère, une série SkepVox pour apprendre le français. Elle réunit le guide d’apprentissage, le dialogue et la transcription complète.
+Cette page accompagne l’épisode 002 de Vox Français, une série SkepVox pour apprendre le français. Elle réunit le guide d’apprentissage, le dialogue et la transcription complète.
 
 **Épisode :** La valise verte
 

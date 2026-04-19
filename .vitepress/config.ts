@@ -44,7 +44,7 @@ const nav: ThemeConfig['nav'] = [
 export const sidebar: ThemeConfig['sidebar'] = {
   '/podcast/francais/': [
     {
-      text: 'Vox Français - Podcast de français langue étrangère',
+      text: 'Vox Français',
       items: [
         { text: 'Présentation', link: '/podcast/francais/' },
         { text: '001 - Le badge', link: '/podcast/francais/001-le-badge' },
