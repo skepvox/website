@@ -31,7 +31,7 @@ Vox Français aide les apprenants de français à travailler la langue avec des 
       <title>Vox Français</title>
       <link>https://skepvox.com/podcast/francais/</link>
     </image>
-    <lastBuildDate>Sun, 19 Apr 2026 15:38:43 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 16:16:00 -0300</lastBuildDate>
 
     <item>
       <title>001 - Le badge</title>
@@ -65,6 +65,7 @@ Vous trouverez sur la page de l'épisode le guide d'apprentissage, les questions
       <enclosure url="https://media.skepvox.com/podcast/francais/audio/francais-001-le-badge-v1.mp3" length="30494973" type="audio/mpeg" />
       <itunes:duration>00:21:11</itunes:duration>
       <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://media.skepvox.com/podcast/francais/artwork/show-cover-v1.jpg" />
@@ -102,6 +103,7 @@ Vous trouverez sur la page de l'épisode le guide d'apprentissage, les questions
       <enclosure url="https://media.skepvox.com/podcast/francais/audio/francais-002-la-valise-verte-v1.mp3" length="37600070" type="audio/mpeg" />
       <itunes:duration>00:26:07</itunes:duration>
       <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://media.skepvox.com/podcast/francais/artwork/show-cover-v1.jpg" />
@@ -139,6 +141,7 @@ Vous trouverez sur la page de l'épisode le guide d'apprentissage, les questions
       <enclosure url="https://media.skepvox.com/podcast/francais/audio/francais-003-le-covoiturage-poli-v1.mp3" length="36769376" type="audio/mpeg" />
       <itunes:duration>00:25:32</itunes:duration>
       <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://media.skepvox.com/podcast/francais/artwork/show-cover-v1.jpg" />

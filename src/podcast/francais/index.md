@@ -72,6 +72,8 @@ Les pages de cette section réunissent les transcriptions, le vocabulaire et les
 
 **Flux RSS :** <https://skepvox.com/podcast/francais/feed.xml>
 
+**Apple Podcasts :** <https://podcasts.apple.com/us/podcast/vox-français/id1894698848>
+
 **Spotify :** <https://open.spotify.com/show/1tmAKW7h6tOwuTouAhtYzk>
 
 ## Leçons
