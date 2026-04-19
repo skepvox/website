@@ -47,9 +47,9 @@ export const sidebar: ThemeConfig['sidebar'] = {
       text: 'Vox Français - Podcast de français langue étrangère',
       items: [
         { text: 'Présentation', link: '/podcast/francais/' },
-        { text: '001 Le badge', link: '/podcast/francais/001-le-badge' },
-        { text: '002 La valise verte', link: '/podcast/francais/002-la-valise-verte' },
-        { text: '003 Le covoiturage poli', link: '/podcast/francais/003-le-covoiturage-poli' }
+        { text: '001 - Le badge', link: '/podcast/francais/001-le-badge' },
+        { text: '002 - La valise verte', link: '/podcast/francais/002-la-valise-verte' },
+        { text: '003 - Le covoiturage poli', link: '/podcast/francais/003-le-covoiturage-poli' }
       ]
     },
     {

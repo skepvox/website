@@ -4,6 +4,11 @@ description: 'Vox Français - Podcast de français langue étrangère, par SkepV
 outline: 2
 head:
   - - link
+    - rel: alternate
+      type: application/rss+xml
+      title: 'Vox Français - Podcast de français langue étrangère'
+      href: 'https://skepvox.com/podcast/francais/feed.xml'
+  - - link
     - rel: canonical
       href: 'https://skepvox.com/podcast/francais/'
   - - meta
@@ -65,8 +70,10 @@ Vox Français - Podcast de français langue étrangère est une série SkepVox p
 
 Les pages de cette section réunissent les transcriptions, le vocabulaire et les notes utiles pour réécouter l'épisode avec le texte sous les yeux.
 
+**Flux RSS :** <https://skepvox.com/podcast/francais/feed.xml>
+
 ## Leçons
 
-- [001 Le badge](/podcast/francais/001-le-badge) — le verbe `être` au présent, l'identité, les rôles et les lieux dans un forum des associations.
-- [002 La valise verte](/podcast/francais/002-la-valise-verte) — le verbe `être` au présent, les descriptions, les lieux et la possession au bureau des objets trouvés.
-- [003 Le covoiturage poli](/podcast/francais/003-le-covoiturage-poli) — le verbe `être` au présent, l'identité, l'origine, les lieux et la différence entre `tu` et `vous` dans un covoiturage.
+- [001 - Le badge](/podcast/francais/001-le-badge) — le verbe `être` au présent, l'identité, les rôles, les lieux et l'orientation dans une interaction quotidienne.
+- [002 - La valise verte](/podcast/francais/002-la-valise-verte) — le verbe `être` au présent, les descriptions, les lieux, les états et la possession dans une situation progressive.
+- [003 - Le covoiturage poli](/podcast/francais/003-le-covoiturage-poli) — le verbe `être` au présent, l'identité, l'origine, les lieux et la différence entre `tu` et `vous`.
