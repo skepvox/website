@@ -1,4 +1,4 @@
-# SEO Strategy (Skepvox)
+# SEO Strategy (skepvox)
 
 This document captures the SEO strategy across major content types in this repo
 (books and essays/blog posts). The core model is consistent: hubs are for

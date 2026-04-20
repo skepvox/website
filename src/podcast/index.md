@@ -1,6 +1,6 @@
 ---
 title: 'Podcasts'
-description: 'Podcasts SkepVox para aprendizagem de idiomas: Vox Français, Vox Español e Vox English.'
+description: 'Podcasts skepvox para aprendizagem de idiomas: Vox Français, Vox Español e Vox English.'
 outline: 2
 head:
   - - link
@@ -8,13 +8,13 @@ head:
       href: 'https://skepvox.com/podcast/'
   - - meta
     - name: description
-      content: 'Podcasts SkepVox para aprendizagem de idiomas: Vox Français, Vox Español e Vox English.'
+      content: 'Podcasts skepvox para aprendizagem de idiomas: Vox Français, Vox Español e Vox English.'
   - - meta
     - property: og:title
-      content: 'Podcasts SkepVox'
+      content: 'Podcasts skepvox'
   - - meta
     - property: og:description
-      content: 'Podcasts SkepVox para aprendizagem de idiomas.'
+      content: 'Podcasts skepvox para aprendizagem de idiomas.'
   - - meta
     - property: og:url
       content: 'https://skepvox.com/podcast/'
@@ -23,7 +23,7 @@ head:
       content: website
   - - meta
     - property: og:site_name
-      content: 'SkepVox'
+      content: 'skepvox'
   - - script
     - type: application/ld+json
     - |
@@ -32,8 +32,8 @@ head:
         "@type": "CollectionPage",
         "@id": "https://skepvox.com/podcast/#webpage",
         "url": "https://skepvox.com/podcast/",
-        "name": "Podcasts SkepVox",
-        "description": "Podcasts SkepVox para aprendizagem de idiomas.",
+        "name": "Podcasts skepvox",
+        "description": "Podcasts skepvox para aprendizagem de idiomas.",
         "isPartOf": {
           "@id": "https://skepvox.com/#website"
         },
@@ -46,7 +46,7 @@ head:
 
 # Podcasts
 
-Projetos SkepVox para aprendizagem de idiomas, com diálogos, transcrições, guias de estudo e áudio.
+Projetos skepvox para aprendizagem de idiomas, com diálogos, transcrições, guias de estudo e áudio.
 
 ## Séries
 

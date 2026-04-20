@@ -8,18 +8,18 @@
     <link>https://skepvox.com/podcast/francais/</link>
     <atom:link href="https://skepvox.com/podcast/francais/feed.xml" rel="self" type="application/rss+xml" />
     <language>fr-FR</language>
-    <copyright>Copyright 2026 SkepVox</copyright>
+    <copyright>Copyright 2026 Thiago Oliveira</copyright>
     <description><![CDATA[Page de l'émission : https://skepvox.com/podcast/francais/
 
-Vox Français aide les apprenants de français à travailler la langue avec des dialogues originaux, des explications guidées et des transcriptions. Chaque épisode commence par une petite scène en français, puis reprend les mots, la grammaire, le registre et l'humour du dialogue. Les guides de leçon et transcriptions sont publiés sur https://skepvox.com/podcast/francais/.]]></description>
-    <itunes:author>SkepVox</itunes:author>
+Vox Français est une série skepvox de Thiago Oliveira qui aide les apprenants de français à travailler la langue avec des dialogues originaux, des explications guidées et des transcriptions. Chaque épisode commence par une petite scène en français, puis reprend les mots, la grammaire, le registre et l'humour du dialogue. Les guides de leçon et transcriptions sont publiés sur https://skepvox.com/podcast/francais/.]]></description>
+    <itunes:author>skepvox</itunes:author>
     <itunes:owner>
-      <itunes:name>SkepVox</itunes:name>
+      <itunes:name>Thiago Oliveira</itunes:name>
       <itunes:email>podcasts@skepvox.com</itunes:email>
     </itunes:owner>
     <itunes:summary><![CDATA[Page de l'émission : https://skepvox.com/podcast/francais/
 
-Vox Français aide les apprenants de français à travailler la langue avec des dialogues originaux, des explications guidées et des transcriptions. Chaque épisode commence par une petite scène en français, puis reprend les mots, la grammaire, le registre et l'humour du dialogue. Les guides de leçon et transcriptions sont publiés sur https://skepvox.com/podcast/francais/.]]></itunes:summary>
+Vox Français est une série skepvox de Thiago Oliveira qui aide les apprenants de français à travailler la langue avec des dialogues originaux, des explications guidées et des transcriptions. Chaque épisode commence par une petite scène en français, puis reprend les mots, la grammaire, le registre et l'humour du dialogue. Les guides de leçon et transcriptions sont publiés sur https://skepvox.com/podcast/francais/.]]></itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://media.skepvox.com/podcast/francais/artwork/show-cover-v1.jpg" />
@@ -31,7 +31,7 @@ Vox Français aide les apprenants de français à travailler la langue avec des 
       <title>Vox Français</title>
       <link>https://skepvox.com/podcast/francais/</link>
     </image>
-    <lastBuildDate>Mon, 20 Apr 2026 08:17:50 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 11:15:45 -0300</lastBuildDate>
 
     <item>
       <title>001 - Le badge</title>
@@ -73,7 +73,7 @@ Vous trouverez sur la page de l'épisode le guide d'apprentissage, les questions
       <title>002 - La valise verte</title>
       <link>https://skepvox.com/podcast/francais/002-la-valise-verte</link>
       <guid isPermaLink="false">vox-francais-002</guid>
-      <pubDate>Wed, 15 Apr 2026 05:00:00 -0300</pubDate>
+      <pubDate>Thu, 16 Apr 2026 05:00:00 -0300</pubDate>
       <description><![CDATA[Guide complet et transcription : https://skepvox.com/podcast/francais/002-la-valise-verte
 
 Dans cet épisode de Vox Français, nous continuons à travailler le verbe être au présent.
@@ -109,7 +109,7 @@ Vous trouverez sur la page de l'épisode le guide d'apprentissage, les questions
       <title>003 - Le covoiturage poli</title>
       <link>https://skepvox.com/podcast/francais/003-le-covoiturage-poli</link>
       <guid isPermaLink="false">vox-francais-003</guid>
-      <pubDate>Fri, 17 Apr 2026 05:00:00 -0300</pubDate>
+      <pubDate>Mon, 20 Apr 2026 05:00:00 -0300</pubDate>
       <description><![CDATA[Guide complet et transcription : https://skepvox.com/podcast/francais/003-le-covoiturage-poli
 
 Dans cet épisode de Vox Français, nous travaillons le verbe être au présent avec l'identité, l'origine, le lieu, l'état et la différence entre tu et vous.
@@ -145,7 +145,7 @@ Vous trouverez sur la page de l'épisode le guide d'apprentissage, les questions
       <title>004 - Le studio calme</title>
       <link>https://skepvox.com/podcast/francais/004-le-studio-calme</link>
       <guid isPermaLink="false">vox-francais-004</guid>
-      <pubDate>Sun, 19 Apr 2026 05:00:00 -0300</pubDate>
+      <pubDate>Thu, 23 Apr 2026 05:00:00 -0300</pubDate>
       <description><![CDATA[Guide complet et transcription : https://skepvox.com/podcast/francais/004-le-studio-calme
 
 Dans cet épisode de Vox Français, nous travaillons l'accord de l'adjectif au masculin, au féminin, au singulier et au pluriel.

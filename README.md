@@ -1,4 +1,4 @@
-# Skepvox
+# skepvox
 
 Personal site and digital library focused on Louis Lavelle, literatura, and classical studies.
 

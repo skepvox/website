@@ -1,26 +1,26 @@
 ---
 page: true
-title: Skepvox — Engenharia de Letras
-description: "Skepvox reúne as obras de Louis Lavelle e uma biblioteca digital de literatura clássica em um único lugar."
+title: skepvox — Engenharia de Letras
+description: "skepvox reúne as obras de Louis Lavelle e uma biblioteca digital de literatura clássica em um único lugar."
 head:
   - - link
     - rel: canonical
       href: "https://skepvox.com/"
   - - meta
     - name: description
-      content: "Skepvox reúne as obras de Louis Lavelle e uma biblioteca digital de literatura clássica em um único lugar."
+      content: "skepvox reúne as obras de Louis Lavelle e uma biblioteca digital de literatura clássica em um único lugar."
   - - meta
     - name: keywords
-      content: "Skepvox, Louis Lavelle, literatura, filosofia, biblioteca digital, obras clássicas"
+      content: "skepvox, Louis Lavelle, literatura, filosofia, biblioteca digital, obras clássicas"
   - - meta
     - name: robots
       content: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
   - - meta
     - property: og:title
-      content: "Skepvox — Engenharia de Letras"
+      content: "skepvox — Engenharia de Letras"
   - - meta
     - property: og:description
-      content: "Skepvox reúne as obras de Louis Lavelle e uma biblioteca digital de literatura clássica em um único lugar."
+      content: "skepvox reúne as obras de Louis Lavelle e uma biblioteca digital de literatura clássica em um único lugar."
   - - meta
     - property: og:url
       content: "https://skepvox.com/"
@@ -29,7 +29,7 @@ head:
       content: website
   - - meta
     - property: og:site_name
-      content: Skepvox
+      content: skepvox
   - - meta
     - property: og:locale
       content: pt_BR
@@ -38,22 +38,22 @@ head:
       content: "https://skepvox.com/og-skepvox.png"
   - - meta
     - property: og:image:alt
-      content: "Skepvox — Engenharia de Letras"
+      content: "skepvox — Engenharia de Letras"
   - - meta
     - name: twitter:card
       content: summary_large_image
   - - meta
     - name: twitter:title
-      content: "Skepvox — Engenharia de Letras"
+      content: "skepvox — Engenharia de Letras"
   - - meta
     - name: twitter:description
-      content: "Skepvox reúne as obras de Louis Lavelle e uma biblioteca digital de literatura clássica em um único lugar."
+      content: "skepvox reúne as obras de Louis Lavelle e uma biblioteca digital de literatura clássica em um único lugar."
   - - meta
     - name: twitter:image
       content: "https://skepvox.com/og-skepvox.png"
   - - meta
     - name: twitter:image:alt
-      content: "Skepvox — Engenharia de Letras"
+      content: "skepvox — Engenharia de Letras"
   - - script
     - type: application/ld+json
     - |
@@ -63,7 +63,7 @@ head:
           {
             "@type": "Organization",
             "@id": "https://skepvox.com/#organization",
-            "name": "Skepvox",
+            "name": "skepvox",
             "url": "https://skepvox.com/",
             "sameAs": [
               "https://github.com/skepvox/",
@@ -75,9 +75,9 @@ head:
             "@type": "WebSite",
             "@id": "https://skepvox.com/#website",
             "url": "https://skepvox.com/",
-            "name": "Skepvox",
+            "name": "skepvox",
             "alternateName": "Engenharia de Letras",
-            "description": "Skepvox reúne as obras de Louis Lavelle e uma biblioteca digital de literatura clássica em um único lugar.",
+            "description": "skepvox reúne as obras de Louis Lavelle e uma biblioteca digital de literatura clássica em um único lugar.",
             "publisher": {
               "@id": "https://skepvox.com/#organization"
             },
@@ -107,8 +107,8 @@ head:
             "@type": "CollectionPage",
             "@id": "https://skepvox.com/#webpage",
             "url": "https://skepvox.com/",
-            "name": "Skepvox — Engenharia de Letras",
-            "description": "Skepvox reúne as obras de Louis Lavelle e uma biblioteca digital de literatura clássica em um único lugar.",
+            "name": "skepvox — Engenharia de Letras",
+            "description": "skepvox reúne as obras de Louis Lavelle e uma biblioteca digital de literatura clássica em um único lugar.",
             "isPartOf": {
               "@id": "https://skepvox.com/#website"
             },

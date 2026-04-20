@@ -11,7 +11,7 @@ head:
       content: "Lesson guide and transcript for episode 001 of Vox English: The Apology Window, on present simple and present continuous in advanced professional English."
   - - meta
     - name: keywords
-      content: "Vox English, SkepVox, The Apology Window, present simple, present continuous, English as a Foreign Language, EFL, transcript, English dialogue, lesson guide"
+      content: "Vox English, skepvox, The Apology Window, present simple, present continuous, English as a Foreign Language, EFL, transcript, English dialogue, lesson guide"
   - - meta
     - property: og:title
       content: "Vox English 001 - The Apology Window"
@@ -26,7 +26,7 @@ head:
       content: article
   - - meta
     - property: og:site_name
-      content: SkepVox
+      content: skepvox
   - - meta
     - property: og:locale
       content: en_US
@@ -66,7 +66,7 @@ head:
 
 # Vox English 001 - The Apology Window
 
-This page accompanies episode 001 of Vox English, a SkepVox series for advanced English learners. It brings together the learning guide, dialogue, and full transcript.
+This page accompanies episode 001 of Vox English, a skepvox series by Thiago Oliveira for advanced English learners. It brings together the learning guide, dialogue, and full transcript.
 
 **Episode:** The Apology Window
 

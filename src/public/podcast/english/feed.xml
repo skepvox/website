@@ -8,18 +8,18 @@
     <link>https://skepvox.com/podcast/english/</link>
     <atom:link href="https://skepvox.com/podcast/english/feed.xml" rel="self" type="application/rss+xml" />
     <language>en-US</language>
-    <copyright>Copyright 2026 SkepVox</copyright>
+    <copyright>Copyright 2026 Thiago Oliveira</copyright>
     <description><![CDATA[Show page: https://skepvox.com/podcast/english/
 
-Vox English is a SkepVox series for advanced English learners who want language that sounds precise, idiomatic, and socially aware. Each episode uses an original scene, a nuanced dialogue, a guided explanation, and a lesson guide. Episodes 001-150 target B2-C1, then the show moves into C1-C2 from episode 151. The focus is nuance: grammar choices, collocation, idiom, register, stance, implication, and how English works in real conversation. Lesson guides and transcripts are published at https://skepvox.com/podcast/english/]]></description>
-    <itunes:author>SkepVox</itunes:author>
+Vox English is a skepvox series by Thiago Oliveira for advanced English learners who want language that sounds precise, idiomatic, and socially aware. Each episode uses an original scene, a nuanced dialogue, a guided explanation, and a lesson guide. Episodes 001-150 target B2-C1, then the show moves into C1-C2 from episode 151. The focus is nuance: grammar choices, collocation, idiom, register, stance, implication, and how English works in real conversation. Lesson guides and transcripts are published at https://skepvox.com/podcast/english/]]></description>
+    <itunes:author>skepvox</itunes:author>
     <itunes:owner>
-      <itunes:name>SkepVox</itunes:name>
+      <itunes:name>Thiago Oliveira</itunes:name>
       <itunes:email>podcasts@skepvox.com</itunes:email>
     </itunes:owner>
     <itunes:summary><![CDATA[Show page: https://skepvox.com/podcast/english/
 
-Vox English is a SkepVox series for advanced English learners who want language that sounds precise, idiomatic, and socially aware. Each episode uses an original scene, a nuanced dialogue, a guided explanation, and a lesson guide. Episodes 001-150 target B2-C1, then the show moves into C1-C2 from episode 151. The focus is nuance: grammar choices, collocation, idiom, register, stance, implication, and how English works in real conversation. Lesson guides and transcripts are published at https://skepvox.com/podcast/english/]]></itunes:summary>
+Vox English is a skepvox series by Thiago Oliveira for advanced English learners who want language that sounds precise, idiomatic, and socially aware. Each episode uses an original scene, a nuanced dialogue, a guided explanation, and a lesson guide. Episodes 001-150 target B2-C1, then the show moves into C1-C2 from episode 151. The focus is nuance: grammar choices, collocation, idiom, register, stance, implication, and how English works in real conversation. Lesson guides and transcripts are published at https://skepvox.com/podcast/english/]]></itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://media.skepvox.com/podcast/english/artwork/show-cover-v1.jpg" />
@@ -31,13 +31,13 @@ Vox English is a SkepVox series for advanced English learners who want language 
       <title>Vox English</title>
       <link>https://skepvox.com/podcast/english/</link>
     </image>
-    <lastBuildDate>Mon, 20 Apr 2026 09:33:27 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 11:15:45 -0300</lastBuildDate>
 
     <item>
       <title>001 - The Apology Window</title>
       <link>https://skepvox.com/podcast/english/001-the-apology-window</link>
       <guid isPermaLink="false">vox-english-001</guid>
-      <pubDate>Tue, 14 Apr 2026 05:00:00 -0300</pubDate>
+      <pubDate>Wed, 15 Apr 2026 05:00:00 -0300</pubDate>
       <description><![CDATA[Lesson guide and full transcript:
 https://skepvox.com/podcast/english/001-the-apology-window
 
@@ -74,7 +74,7 @@ On the episode page you will find the study guide, comprehension questions, answ
       <title>002 - The Headline Cushion</title>
       <link>https://skepvox.com/podcast/english/002-the-headline-cushion</link>
       <guid isPermaLink="false">vox-english-002</guid>
-      <pubDate>Thu, 16 Apr 2026 05:00:00 -0300</pubDate>
+      <pubDate>Sat, 18 Apr 2026 05:00:00 -0300</pubDate>
       <description><![CDATA[Lesson guide and full transcript:
 https://skepvox.com/podcast/english/002-the-headline-cushion
 
@@ -111,7 +111,7 @@ On the episode page you will find the study guide, comprehension questions, answ
       <title>003 - The Embargoed Award</title>
       <link>https://skepvox.com/podcast/english/003-the-embargoed-award</link>
       <guid isPermaLink="false">vox-english-003</guid>
-      <pubDate>Sat, 18 Apr 2026 05:00:00 -0300</pubDate>
+      <pubDate>Wed, 22 Apr 2026 05:00:00 -0300</pubDate>
       <description><![CDATA[Lesson guide and full transcript:
 https://skepvox.com/podcast/english/003-the-embargoed-award
 

@@ -8,18 +8,18 @@
     <link>https://skepvox.com/podcast/espanol/</link>
     <atom:link href="https://skepvox.com/podcast/espanol/feed.xml" rel="self" type="application/rss+xml" />
     <language>es-ES</language>
-    <copyright>Copyright 2026 SkepVox</copyright>
+    <copyright>Copyright 2026 Thiago Oliveira</copyright>
     <description><![CDATA[Página del programa: https://skepvox.com/podcast/espanol/
 
-Vox Español ayuda a los estudiantes de español a trabajar la lengua con diálogos originales, explicaciones guiadas y transcripciones. Cada episodio empieza con una pequeña escena en español, y después retoma las palabras, la gramática, el registro, la pronunciación y el humor del diálogo. Las guías de lección y transcripciones se publican en https://skepvox.com/podcast/espanol/.]]></description>
-    <itunes:author>SkepVox</itunes:author>
+Vox Español es una serie skepvox de Thiago Oliveira que ayuda a los estudiantes de español a trabajar la lengua con diálogos originales, explicaciones guiadas y transcripciones. Cada episodio empieza con una pequeña escena en español, y después retoma las palabras, la gramática, el registro, la pronunciación y el humor del diálogo. Las guías de lección y transcripciones se publican en https://skepvox.com/podcast/espanol/.]]></description>
+    <itunes:author>skepvox</itunes:author>
     <itunes:owner>
-      <itunes:name>SkepVox</itunes:name>
+      <itunes:name>Thiago Oliveira</itunes:name>
       <itunes:email>podcasts@skepvox.com</itunes:email>
     </itunes:owner>
     <itunes:summary><![CDATA[Página del programa: https://skepvox.com/podcast/espanol/
 
-Vox Español ayuda a los estudiantes de español a trabajar la lengua con diálogos originales, explicaciones guiadas y transcripciones. Cada episodio empieza con una pequeña escena en español, y después retoma las palabras, la gramática, el registro, la pronunciación y el humor del diálogo. Las guías de lección y transcripciones se publican en https://skepvox.com/podcast/espanol/.]]></itunes:summary>
+Vox Español es una serie skepvox de Thiago Oliveira que ayuda a los estudiantes de español a trabajar la lengua con diálogos originales, explicaciones guiadas y transcripciones. Cada episodio empieza con una pequeña escena en español, y después retoma las palabras, la gramática, el registro, la pronunciación y el humor del diálogo. Las guías de lección y transcripciones se publican en https://skepvox.com/podcast/espanol/.]]></itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://media.skepvox.com/podcast/espanol/artwork/show-cover-v1.jpg" />
@@ -31,7 +31,7 @@ Vox Español ayuda a los estudiantes de español a trabajar la lengua con diálo
       <title>Vox Español</title>
       <link>https://skepvox.com/podcast/espanol/</link>
     </image>
-    <lastBuildDate>Mon, 20 Apr 2026 10:17:44 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 11:15:45 -0300</lastBuildDate>
 
     <item>
       <title>001 - La boda es a las seis</title>
@@ -75,7 +75,7 @@ En la página del episodio encontrará la guía de aprendizaje, las preguntas de
       <title>002 - La sartén está ocupada</title>
       <link>https://skepvox.com/podcast/espanol/002-la-sarten-esta-ocupada</link>
       <guid isPermaLink="false">vox-espanol-002</guid>
-      <pubDate>Thu, 16 Apr 2026 05:00:00 -0300</pubDate>
+      <pubDate>Fri, 17 Apr 2026 05:00:00 -0300</pubDate>
       <description><![CDATA[Guía completa y transcripción:
 https://skepvox.com/podcast/espanol/002-la-sarten-esta-ocupada
 
@@ -113,7 +113,7 @@ En la página del episodio encontrará la guía de aprendizaje, las preguntas de
       <title>003 - El tren está parado</title>
       <link>https://skepvox.com/podcast/espanol/003-el-tren-esta-parado</link>
       <guid isPermaLink="false">vox-espanol-003</guid>
-      <pubDate>Sat, 18 Apr 2026 05:00:00 -0300</pubDate>
+      <pubDate>Tue, 21 Apr 2026 05:00:00 -0300</pubDate>
       <description><![CDATA[Guía completa y transcripción:
 https://skepvox.com/podcast/espanol/003-el-tren-esta-parado
 

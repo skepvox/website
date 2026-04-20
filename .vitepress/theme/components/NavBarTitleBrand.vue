@@ -2,12 +2,12 @@
     <!-- The outer <a href="/"> comes from VPNavBarTitle -->
     <img
       src="/logo.svg"
-      alt="Skepvox"
+      alt="skepvox"
       class="logo"
       width="36"
       height="36"
     />
-    <span class="text">Skepvox</span>
+    <span class="text">skepvox</span>
   </template>
 
   <style scoped>

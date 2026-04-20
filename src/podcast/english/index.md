@@ -1,6 +1,6 @@
 ---
 title: 'Vox English'
-description: 'Vox English, by SkepVox, with advanced English dialogues, explanations, lesson guides, and transcripts.'
+description: 'Vox English, a skepvox series by Thiago Oliveira, with advanced English dialogues, explanations, lesson guides, and transcripts.'
 outline: 2
 head:
   - - link
@@ -13,10 +13,10 @@ head:
       href: 'https://skepvox.com/podcast/english/'
   - - meta
     - name: description
-      content: 'Vox English, by SkepVox, with advanced English dialogues, explanations, lesson guides, and transcripts.'
+      content: 'Vox English, a skepvox series by Thiago Oliveira, with advanced English dialogues, explanations, lesson guides, and transcripts.'
   - - meta
     - name: keywords
-      content: 'Vox English, English as a Foreign Language Podcast, SkepVox, English as a foreign language, advanced English, B2 C1, C1 C2, English podcast'
+      content: 'Vox English, English as a Foreign Language Podcast, skepvox, English as a foreign language, advanced English, B2 C1, C1 C2, English podcast'
   - - meta
     - property: og:title
       content: 'Vox English'
@@ -31,7 +31,7 @@ head:
       content: website
   - - meta
     - property: og:site_name
-      content: 'SkepVox'
+      content: 'skepvox'
   - - meta
     - property: og:locale
       content: en_US
@@ -53,7 +53,7 @@ head:
         "@id": "https://skepvox.com/podcast/english/#webpage",
         "url": "https://skepvox.com/podcast/english/",
         "name": "Vox English",
-        "description": "Vox English, by SkepVox, with advanced English dialogues, explanations, lesson guides, and transcripts.",
+        "description": "Vox English, a skepvox series by Thiago Oliveira, with advanced English dialogues, explanations, lesson guides, and transcripts.",
         "isPartOf": {
           "@id": "https://skepvox.com/#website"
         },
@@ -66,7 +66,7 @@ head:
 
 # Vox English
 
-Vox English is a SkepVox series for advanced English learners. Each episode offers an original English dialogue, a guided explanation, a transcript, and a lesson guide. The series starts at B2-C1 and later moves into C1-C2.
+Vox English is a skepvox series by Thiago Oliveira for advanced English learners. Each episode offers an original English dialogue, a guided explanation, a transcript, and a lesson guide. The series starts at B2-C1 and later moves into C1-C2.
 
 The pages in this section collect transcripts, vocabulary, grammar notes, and usage explanations for listening with the text in front of you.
 

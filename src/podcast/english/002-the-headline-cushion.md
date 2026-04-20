@@ -11,7 +11,7 @@ head:
       content: "Lesson guide and transcript for episode 002 of Vox English: The Headline Cushion, on headline present simple, reported-news phrases, and present continuous in workplace English."
   - - meta
     - name: keywords
-      content: "Vox English, SkepVox, The Headline Cushion, headline present simple, reported news, present continuous, English as a Foreign Language, EFL, transcript, English dialogue, lesson guide"
+      content: "Vox English, skepvox, The Headline Cushion, headline present simple, reported news, present continuous, English as a Foreign Language, EFL, transcript, English dialogue, lesson guide"
   - - meta
     - property: og:title
       content: "Vox English 002 - The Headline Cushion"
@@ -26,7 +26,7 @@ head:
       content: article
   - - meta
     - property: og:site_name
-      content: SkepVox
+      content: skepvox
   - - meta
     - property: og:locale
       content: en_US
@@ -66,7 +66,7 @@ head:
 
 # Vox English 002 - The Headline Cushion
 
-This page accompanies episode 002 of Vox English, a SkepVox series for advanced English learners. It brings together the learning guide, dialogue, and full transcript.
+This page accompanies episode 002 of Vox English, a skepvox series by Thiago Oliveira for advanced English learners. It brings together the learning guide, dialogue, and full transcript.
 
 **Episode:** The Headline Cushion
 

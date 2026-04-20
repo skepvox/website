@@ -185,14 +185,14 @@ const SITE_ORIGIN = 'https://www.skepvox.com'
 
 const CANONICAL_HOSTNAME = 'www.skepvox.com'
 
-function normalizeSkepvoxPathname(pathname: string): string {
+function normalizeSitePathname(pathname: string): string {
   if (pathname === '/index.html') return '/'
   if (pathname.endsWith('/index.html')) return pathname.slice(0, -'index.html'.length)
   if (pathname.endsWith('.html')) return pathname.slice(0, -'.html'.length)
   return pathname
 }
 
-function normalizeSkepvoxUrl(input: string): string {
+function normalizeSiteUrl(input: string): string {
   if (
     !input.startsWith('https://skepvox.com') &&
     !input.startsWith('http://skepvox.com') &&
@@ -206,7 +206,7 @@ function normalizeSkepvoxUrl(input: string): string {
     const url = new URL(input)
     url.protocol = 'https:'
     url.hostname = CANONICAL_HOSTNAME
-    url.pathname = normalizeSkepvoxPathname(url.pathname)
+    url.pathname = normalizeSitePathname(url.pathname)
     return url.toString()
   } catch {
     return input
@@ -221,7 +221,7 @@ function normalizeJsonLdUrls(value: unknown): unknown {
     for (const [key, v] of entries) normalized[key] = normalizeJsonLdUrls(v)
     return normalized
   }
-  if (typeof value === 'string') return normalizeSkepvoxUrl(value)
+  if (typeof value === 'string') return normalizeSiteUrl(value)
   return value
 }
 
@@ -236,7 +236,7 @@ function normalizeHeadUrls(head: unknown): unknown {
     const normalizedAttrs: Record<string, unknown> = { ...(attrs as Record<string, unknown>) }
     for (const key of ['href', 'content', 'src']) {
       if (typeof normalizedAttrs[key] === 'string') {
-        normalizedAttrs[key] = normalizeSkepvoxUrl(normalizedAttrs[key] as string)
+        normalizedAttrs[key] = normalizeSiteUrl(normalizedAttrs[key] as string)
       }
     }
 
@@ -274,13 +274,13 @@ const config: UserConfigExport<ThemeConfig> = (async () => {
         const normalized = item.url.startsWith('/') ? item.url : `/${item.url}`
         return {
           ...item,
-          url: normalizeSkepvoxPathname(normalized)
+          url: normalizeSitePathname(normalized)
         }
       })
   },
 
   lang: 'pt-BR',
-  title: 'Skepvox — Engenharia de Letras',
+  title: 'skepvox — Engenharia de Letras',
   description: 'Louis Lavelle e literatura clássica',
   srcDir: 'src',
 
@@ -292,7 +292,7 @@ const config: UserConfigExport<ThemeConfig> = (async () => {
     ['meta', { name: 'theme-color', content: '#3c8772' }],
     ['meta', { property: 'og:url', content: `${SITE_ORIGIN}/` }],
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:title', content: 'Skepvox — Engenharia de Letras' }],
+    ['meta', { property: 'og:title', content: 'skepvox — Engenharia de Letras' }],
     [
       'meta',
       {
@@ -450,9 +450,9 @@ const config: UserConfigExport<ThemeConfig> = (async () => {
           'index.md'
         ],
         customLLMsTxtTemplate: `\
-# Skepvox
+# skepvox
 
-Skepvox - Literatura & Filosofia
+skepvox - Literatura & Filosofia
 
 ## Índice de Conteúdos
 

@@ -11,7 +11,7 @@ head:
       content: "Guide de leçon et transcription de l’épisode 002 de Vox Français : La valise verte, sur le verbe être au présent."
   - - meta
     - name: keywords
-      content: "Vox Français, SkepVox, La valise verte, verbe être, objets trouvés, gare, valise, français langue étrangère, FLE, transcription, dialogue français, guide de leçon"
+      content: "Vox Français, skepvox, La valise verte, verbe être, objets trouvés, gare, valise, français langue étrangère, FLE, transcription, dialogue français, guide de leçon"
   - - meta
     - property: og:title
       content: "Vox Français 002 — La valise verte"
@@ -26,7 +26,7 @@ head:
       content: article
   - - meta
     - property: og:site_name
-      content: SkepVox
+      content: skepvox
   - - meta
     - property: og:locale
       content: fr_FR
@@ -63,7 +63,7 @@ head:
 
 # Vox Français 002 — La valise verte
 
-Cette page accompagne l’épisode 002 de Vox Français, une série SkepVox pour apprendre le français. Elle réunit le guide d’apprentissage, le dialogue et la transcription complète.
+Cette page accompagne l’épisode 002 de Vox Français, une série skepvox de Thiago Oliveira pour apprendre le français. Elle réunit le guide d’apprentissage, le dialogue et la transcription complète.
 
 **Épisode :** La valise verte
 

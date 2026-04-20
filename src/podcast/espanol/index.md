@@ -1,6 +1,6 @@
 ---
 title: 'Vox Español'
-description: 'Vox Español, por SkepVox, con diálogos, explicaciones, guías de lección y transcripciones.'
+description: 'Vox Español, una serie skepvox de Thiago Oliveira, con diálogos, explicaciones, guías de lección y transcripciones.'
 outline: 2
 head:
   - - link
@@ -13,10 +13,10 @@ head:
       href: 'https://skepvox.com/podcast/espanol/'
   - - meta
     - name: description
-      content: 'Vox Español, por SkepVox, con diálogos, explicaciones, guías de lección y transcripciones.'
+      content: 'Vox Español, una serie skepvox de Thiago Oliveira, con diálogos, explicaciones, guías de lección y transcripciones.'
   - - meta
     - name: keywords
-      content: 'Vox Español, Podcast de español como lengua extranjera, SkepVox, español como lengua extranjera, ELE, aprender español, podcast español, diálogo español'
+      content: 'Vox Español, Podcast de español como lengua extranjera, skepvox, español como lengua extranjera, ELE, aprender español, podcast español, diálogo español'
   - - meta
     - property: og:title
       content: 'Vox Español'
@@ -31,7 +31,7 @@ head:
       content: website
   - - meta
     - property: og:site_name
-      content: 'SkepVox'
+      content: 'skepvox'
   - - meta
     - property: og:locale
       content: es_ES
@@ -53,7 +53,7 @@ head:
         "@id": "https://skepvox.com/podcast/espanol/#webpage",
         "url": "https://skepvox.com/podcast/espanol/",
         "name": "Vox Español",
-        "description": "Vox Español, por SkepVox, con diálogos, explicaciones, guías de lección y transcripciones.",
+        "description": "Vox Español, una serie skepvox de Thiago Oliveira, con diálogos, explicaciones, guías de lección y transcripciones.",
         "isPartOf": {
           "@id": "https://skepvox.com/#website"
         },
@@ -66,7 +66,7 @@ head:
 
 # Vox Español
 
-Vox Español es una serie SkepVox para aprender español. Cada episodio propone una pequeña escena en español, un diálogo a dos velocidades, una explicación guiada y una guía de lección.
+Vox Español es una serie skepvox de Thiago Oliveira para aprender español. Cada episodio propone una pequeña escena en español, un diálogo a dos velocidades, una explicación guiada y una guía de lección.
 
 Las páginas de esta sección reúnen las transcripciones, el vocabulario y las notas útiles para volver a escuchar el episodio con el texto delante.
 

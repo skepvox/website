@@ -153,7 +153,7 @@ Joaquim Maria Machado de Assis (1839–1908) é amplamente considerado o maior n
 
 Abaixo, uma bibliografia abrangente de suas obras, organizada por gênero e ordem cronológica de publicação.
 
-## Obras no Skepvox
+## Obras no skepvox
 
 *   [Memórias póstumas de Brás Cubas](/literatura/machado-de-assis/bras-cubas)
 *   [Quincas Borba](/literatura/machado-de-assis/quincas-borba)

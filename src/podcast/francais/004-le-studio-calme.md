@@ -11,7 +11,7 @@ head:
       content: "Guide de leçon et transcription de l’épisode 004 de Vox Français : Le studio calme, sur l’accord de l’adjectif."
   - - meta
     - name: keywords
-      content: "Vox Français, SkepVox, Le studio calme, accord de l’adjectif, logement, annonce immobilière, dossier locatif, français langue étrangère, FLE, transcription, dialogue français, guide de leçon"
+      content: "Vox Français, skepvox, Le studio calme, accord de l’adjectif, logement, annonce immobilière, dossier locatif, français langue étrangère, FLE, transcription, dialogue français, guide de leçon"
   - - meta
     - property: og:title
       content: "Vox Français 004 — Le studio calme"
@@ -26,7 +26,7 @@ head:
       content: article
   - - meta
     - property: og:site_name
-      content: SkepVox
+      content: skepvox
   - - meta
     - property: og:locale
       content: fr_FR
@@ -63,7 +63,7 @@ head:
 
 # Vox Français 004 — Le studio calme
 
-Cette page accompagne l’épisode 004 de Vox Français, une série SkepVox pour apprendre le français. Elle réunit le guide d’apprentissage, le dialogue et la transcription complète.
+Cette page accompagne l’épisode 004 de Vox Français, une série skepvox de Thiago Oliveira pour apprendre le français. Elle réunit le guide d’apprentissage, le dialogue et la transcription complète.
 
 **Épisode :** Le studio calme
 

@@ -11,7 +11,7 @@ head:
       content: "Guía de lección y transcripción del episodio 002 de Vox Español: La sartén está ocupada, sobre el contraste entre ser y estar en objetos, personas, lugares y estados temporales."
   - - meta
     - name: keywords
-      content: "Vox Español, SkepVox, La sartén está ocupada, ser y estar, español como lengua extranjera, ELE, transcripción, diálogo español, guía de lección"
+      content: "Vox Español, skepvox, La sartén está ocupada, ser y estar, español como lengua extranjera, ELE, transcripción, diálogo español, guía de lección"
   - - meta
     - property: og:title
       content: "Vox Español 002 - La sartén está ocupada"
@@ -26,7 +26,7 @@ head:
       content: article
   - - meta
     - property: og:site_name
-      content: SkepVox
+      content: skepvox
   - - meta
     - property: og:locale
       content: es_ES
@@ -66,7 +66,7 @@ head:
 
 # Vox Español 002 - La sartén está ocupada
 
-Esta página acompaña el episodio 002 de Vox Español, una serie SkepVox para aprender español. Reúne la guía de aprendizaje, el diálogo y la transcripción completa.
+Esta página acompaña el episodio 002 de Vox Español, una serie skepvox de Thiago Oliveira para aprender español. Reúne la guía de aprendizaje, el diálogo y la transcripción completa.
 
 **Episodio:** La sartén está ocupada
 

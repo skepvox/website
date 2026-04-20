@@ -26,7 +26,7 @@ head:
       content: profile
   - - meta
     - property: og:site_name
-      content: 'Skepvox'
+      content: 'skepvox'
   - - meta
     - property: og:locale
       content: pt_BR
@@ -294,7 +294,7 @@ _Metafísica da presença, participação e dialética do ato._
   class="lavelle-portrait"
 />
 
-## Obras no Skepvox
+## Obras no skepvox
 
 - [_A consciência de si_](/louis-lavelle/a-consciencia-de-si)
 

@@ -9,7 +9,7 @@ import SiteMap from './SiteMap.vue'
   <section id="hero">
     <h1 class="tagline">
       
-      <span class="accent">Skepvox</span>
+      <span class="accent">skepvox</span>
       <br />Engenharia de Letras
     </h1>
     <p class="description">
