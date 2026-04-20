@@ -1,28 +1,28 @@
 ---
-title: 'Vox English - English as a Foreign Language Podcast'
-description: 'Vox English - English as a Foreign Language Podcast, by SkepVox, with dialogues, explanations, and lesson guides.'
+title: 'Vox English'
+description: 'Vox English, by SkepVox, with advanced English dialogues, explanations, lesson guides, and transcripts.'
 outline: 2
 head:
   - - link
     - rel: alternate
       type: application/rss+xml
-      title: 'Vox English - English as a Foreign Language Podcast'
+      title: 'Vox English'
       href: 'https://skepvox.com/podcast/english/feed.xml'
   - - link
     - rel: canonical
       href: 'https://skepvox.com/podcast/english/'
   - - meta
     - name: description
-      content: 'Vox English - English as a Foreign Language Podcast, by SkepVox, with dialogues, explanations, and lesson guides.'
+      content: 'Vox English, by SkepVox, with advanced English dialogues, explanations, lesson guides, and transcripts.'
   - - meta
     - name: keywords
       content: 'Vox English, English as a Foreign Language Podcast, SkepVox, English as a foreign language, advanced English, B2 C1, C1 C2, English podcast'
   - - meta
     - property: og:title
-      content: 'Vox English - English as a Foreign Language Podcast'
+      content: 'Vox English'
   - - meta
     - property: og:description
-      content: 'Advanced English dialogues, explanations, and lesson guides from Vox English - English as a Foreign Language Podcast.'
+      content: 'Advanced English dialogues, explanations, and lesson guides from Vox English.'
   - - meta
     - property: og:url
       content: 'https://skepvox.com/podcast/english/'
@@ -40,10 +40,10 @@ head:
       content: summary_large_image
   - - meta
     - name: twitter:title
-      content: 'Vox English - English as a Foreign Language Podcast'
+      content: 'Vox English'
   - - meta
     - name: twitter:description
-      content: 'Advanced English dialogues, explanations, and lesson guides from Vox English - English as a Foreign Language Podcast.'
+      content: 'Advanced English dialogues, explanations, and lesson guides from Vox English.'
   - - script
     - type: application/ld+json
     - |
@@ -52,8 +52,8 @@ head:
         "@type": "CollectionPage",
         "@id": "https://skepvox.com/podcast/english/#webpage",
         "url": "https://skepvox.com/podcast/english/",
-        "name": "Vox English - English as a Foreign Language Podcast",
-        "description": "Vox English - English as a Foreign Language Podcast, by SkepVox, with dialogues, explanations, and lesson guides.",
+        "name": "Vox English",
+        "description": "Vox English, by SkepVox, with advanced English dialogues, explanations, lesson guides, and transcripts.",
         "isPartOf": {
           "@id": "https://skepvox.com/#website"
         },
@@ -64,9 +64,9 @@ head:
       }
 ---
 
-# Vox English - English as a Foreign Language Podcast
+# Vox English
 
-Vox English - English as a Foreign Language Podcast helps advanced learners work on English through dialogues, explanations, and lesson guides. The series starts at B2-C1 and later moves into C1-C2.
+Vox English is a SkepVox series for advanced English learners. Each episode offers an original English dialogue, a guided explanation, a transcript, and a lesson guide. The series starts at B2-C1 and later moves into C1-C2.
 
 The pages in this section collect transcripts, vocabulary, grammar notes, and usage explanations for listening with the text in front of you.
 

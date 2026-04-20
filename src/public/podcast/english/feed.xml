@@ -4,14 +4,14 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Vox English - English as a Foreign Language Podcast</title>
+    <title>Vox English</title>
     <link>https://skepvox.com/podcast/english/</link>
     <atom:link href="https://skepvox.com/podcast/english/feed.xml" rel="self" type="application/rss+xml" />
     <language>en-US</language>
     <copyright>Copyright 2026 SkepVox</copyright>
     <description><![CDATA[Show page: https://skepvox.com/podcast/english/
 
-Vox English - English as a Foreign Language Podcast is a SkepVox series for advanced learners who want English that sounds precise, idiomatic, and socially aware. Each episode uses an original scene, a nuanced dialogue, a guided explanation, and a lesson guide. Episodes 001-150 target B2-C1, then the show moves into C1-C2 from episode 151. The focus is nuance: grammar choices, collocation, idiom, register, stance, implication, and how English works in real conversation. Lesson guides and transcripts are published at https://skepvox.com/podcast/english/]]></description>
+Vox English is a SkepVox series for advanced English learners who want language that sounds precise, idiomatic, and socially aware. Each episode uses an original scene, a nuanced dialogue, a guided explanation, and a lesson guide. Episodes 001-150 target B2-C1, then the show moves into C1-C2 from episode 151. The focus is nuance: grammar choices, collocation, idiom, register, stance, implication, and how English works in real conversation. Lesson guides and transcripts are published at https://skepvox.com/podcast/english/]]></description>
     <itunes:author>SkepVox</itunes:author>
     <itunes:owner>
       <itunes:name>SkepVox</itunes:name>
@@ -19,7 +19,7 @@ Vox English - English as a Foreign Language Podcast is a SkepVox series for adva
     </itunes:owner>
     <itunes:summary><![CDATA[Show page: https://skepvox.com/podcast/english/
 
-Vox English - English as a Foreign Language Podcast is a SkepVox series for advanced learners who want English that sounds precise, idiomatic, and socially aware. Each episode uses an original scene, a nuanced dialogue, a guided explanation, and a lesson guide. Episodes 001-150 target B2-C1, then the show moves into C1-C2 from episode 151. The focus is nuance: grammar choices, collocation, idiom, register, stance, implication, and how English works in real conversation. Lesson guides and transcripts are published at https://skepvox.com/podcast/english/]]></itunes:summary>
+Vox English is a SkepVox series for advanced English learners who want language that sounds precise, idiomatic, and socially aware. Each episode uses an original scene, a nuanced dialogue, a guided explanation, and a lesson guide. Episodes 001-150 target B2-C1, then the show moves into C1-C2 from episode 151. The focus is nuance: grammar choices, collocation, idiom, register, stance, implication, and how English works in real conversation. Lesson guides and transcripts are published at https://skepvox.com/podcast/english/]]></itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://media.skepvox.com/podcast/english/artwork/show-cover-v1.jpg" />
@@ -28,7 +28,7 @@ Vox English - English as a Foreign Language Podcast is a SkepVox series for adva
     </itunes:category>
     <image>
       <url>https://media.skepvox.com/podcast/english/artwork/show-cover-v1.jpg</url>
-      <title>Vox English - English as a Foreign Language Podcast</title>
+      <title>Vox English</title>
       <link>https://skepvox.com/podcast/english/</link>
     </image>
     <lastBuildDate>Mon, 20 Apr 2026 09:33:27 -0300</lastBuildDate>

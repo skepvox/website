@@ -66,7 +66,7 @@ head:
 
 # Vox English 002 - The Headline Cushion
 
-This page accompanies episode 002 of Vox English - English as a Foreign Language Podcast, a SkepVox series for advanced English learners. It brings together the learning guide, dialogue, and full transcript.
+This page accompanies episode 002 of Vox English, a SkepVox series for advanced English learners. It brings together the learning guide, dialogue, and full transcript.
 
 **Episode:** The Headline Cushion
 
