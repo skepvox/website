@@ -51,5 +51,5 @@ Projetos SkepVox para aprendizagem de idiomas, com diálogos, transcrições, gu
 ## Séries
 
 - [Vox Français](/podcast/francais/) — francês língua estrangeira, com episódios A2-B1 no início da série.
-- [Vox Español - Podcast de español como lengua extranjera](/podcast/espanol/) — español como lengua extranjera, con episodios A2-B1 al inicio de la serie.
+- [Vox Español](/podcast/espanol/) — español como lengua extranjera, con episodios A2-B1 al inicio de la serie.
 - [Vox English](/podcast/english/) — English as a foreign language, with advanced B2-C1 episodes at the start of the series.

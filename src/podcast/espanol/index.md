@@ -1,23 +1,28 @@
 ---
-title: 'Vox Español - Podcast de español como lengua extranjera'
-description: 'Vox Español - Podcast de español como lengua extranjera, por SkepVox, con diálogos, explicaciones y guías de lección.'
+title: 'Vox Español'
+description: 'Vox Español, por SkepVox, con diálogos, explicaciones, guías de lección y transcripciones.'
 outline: 2
 head:
+  - - link
+    - rel: alternate
+      type: application/rss+xml
+      title: 'Vox Español'
+      href: 'https://skepvox.com/podcast/espanol/feed.xml'
   - - link
     - rel: canonical
       href: 'https://skepvox.com/podcast/espanol/'
   - - meta
     - name: description
-      content: 'Vox Español - Podcast de español como lengua extranjera, por SkepVox, con diálogos, explicaciones y guías de lección.'
+      content: 'Vox Español, por SkepVox, con diálogos, explicaciones, guías de lección y transcripciones.'
   - - meta
     - name: keywords
       content: 'Vox Español, Podcast de español como lengua extranjera, SkepVox, español como lengua extranjera, ELE, aprender español, podcast español, diálogo español'
   - - meta
     - property: og:title
-      content: 'Vox Español - Podcast de español como lengua extranjera'
+      content: 'Vox Español'
   - - meta
     - property: og:description
-      content: 'Diálogos, explicaciones y guías de lección para aprender español con Vox Español - Podcast de español como lengua extranjera.'
+      content: 'Diálogos, explicaciones y guías de lección para aprender español con Vox Español.'
   - - meta
     - property: og:url
       content: 'https://skepvox.com/podcast/espanol/'
@@ -30,6 +35,15 @@ head:
   - - meta
     - property: og:locale
       content: es_ES
+  - - meta
+    - name: twitter:card
+      content: summary_large_image
+  - - meta
+    - name: twitter:title
+      content: 'Vox Español'
+  - - meta
+    - name: twitter:description
+      content: 'Diálogos, explicaciones y guías de lección para aprender español con Vox Español.'
   - - script
     - type: application/ld+json
     - |
@@ -38,8 +52,8 @@ head:
         "@type": "CollectionPage",
         "@id": "https://skepvox.com/podcast/espanol/#webpage",
         "url": "https://skepvox.com/podcast/espanol/",
-        "name": "Vox Español - Podcast de español como lengua extranjera",
-        "description": "Vox Español - Podcast de español como lengua extranjera, por SkepVox, con diálogos, explicaciones y guías de lección.",
+        "name": "Vox Español",
+        "description": "Vox Español, por SkepVox, con diálogos, explicaciones, guías de lección y transcripciones.",
         "isPartOf": {
           "@id": "https://skepvox.com/#website"
         },
@@ -50,10 +64,16 @@ head:
       }
 ---
 
-# Vox Español - Podcast de español como lengua extranjera
+# Vox Español
 
-Vox Español - Podcast de español como lengua extranjera ayuda a estudiar español con diálogos, explicaciones y guías de lección. La serie empieza con episodios A2-B1 y después avanza hacia B1-B2.
+Vox Español es una serie SkepVox para aprender español. Cada episodio propone una pequeña escena en español, un diálogo a dos velocidades, una explicación guiada y una guía de lección.
+
+Las páginas de esta sección reúnen las transcripciones, el vocabulario y las notas útiles para volver a escuchar el episodio con el texto delante.
+
+**Flujo RSS:** <https://skepvox.com/podcast/espanol/feed.xml>
 
 ## Lecciones
 
-Las primeras lecciones estarán disponibles aquí.
+- [001 - La boda es a las seis](/podcast/espanol/001-la-boda-es-a-las-seis) — el contraste entre `ser` y `estar` para identidad, profesión, hora de un evento, ubicación, estado y función temporal.
+- [002 - La sartén está ocupada](/podcast/espanol/002-la-sarten-esta-ocupada) — el contraste entre `ser` y `estar` para identidad, rol, propiedad, ubicación, preparación, temperatura y estados temporales de objetos.
+- [003 - El tren está parado](/podcast/espanol/003-el-tren-esta-parado) — el contraste entre `ser` y `estar` para identidad, ubicación, función profesional, hora, servicio y estados temporales.
