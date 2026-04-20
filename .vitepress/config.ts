@@ -30,14 +30,14 @@ const nav: ThemeConfig['nav'] = [
     link: '/louis-lavelle/'
   },
   {
-    text: 'Podcasts',
-    activeMatch: '^/podcast/',
-    link: '/podcast/'
-  },
-  {
     text: 'Literatura',
     activeMatch: '^/literatura/',
     link: '/literatura/'
+  },
+  {
+    text: 'Podcasts',
+    activeMatch: '^/podcast/',
+    link: '/podcast/'
   },
 ]
 
@@ -49,7 +49,8 @@ export const sidebar: ThemeConfig['sidebar'] = {
         { text: 'Présentation', link: '/podcast/francais/' },
         { text: '001 - Le badge', link: '/podcast/francais/001-le-badge' },
         { text: '002 - La valise verte', link: '/podcast/francais/002-la-valise-verte' },
-        { text: '003 - Le covoiturage poli', link: '/podcast/francais/003-le-covoiturage-poli' }
+        { text: '003 - Le covoiturage poli', link: '/podcast/francais/003-le-covoiturage-poli' },
+        { text: '004 - Le studio calme', link: '/podcast/francais/004-le-studio-calme' }
       ]
     },
     {
