@@ -9,17 +9,17 @@
     <atom:link href="https://skepvox.com/podcast/espanol/feed.xml" rel="self" type="application/rss+xml" />
     <language>es-ES</language>
     <copyright>Copyright 2026 Thiago Oliveira</copyright>
-    <description><![CDATA[Página del programa: https://skepvox.com/podcast/espanol/
+    <description><![CDATA[Vox Español es una serie skepvox de Thiago Oliveira que ayuda a los estudiantes de español a trabajar la lengua con diálogos originales, explicaciones guiadas y transcripciones. Cada episodio empieza con una pequeña escena en español, y después retoma las palabras, la gramática, el registro, la pronunciación y el humor del diálogo.
 
-Vox Español es una serie skepvox de Thiago Oliveira que ayuda a los estudiantes de español a trabajar la lengua con diálogos originales, explicaciones guiadas y transcripciones. Cada episodio empieza con una pequeña escena en español, y después retoma las palabras, la gramática, el registro, la pronunciación y el humor del diálogo. Las guías de lección y transcripciones se publican en https://skepvox.com/podcast/espanol/.]]></description>
+Página del programa: https://skepvox.com/podcast/espanol/]]></description>
     <itunes:author>skepvox</itunes:author>
     <itunes:owner>
       <itunes:name>Thiago Oliveira</itunes:name>
       <itunes:email>podcasts@skepvox.com</itunes:email>
     </itunes:owner>
-    <itunes:summary><![CDATA[Página del programa: https://skepvox.com/podcast/espanol/
+    <itunes:summary><![CDATA[Vox Español es una serie skepvox de Thiago Oliveira que ayuda a los estudiantes de español a trabajar la lengua con diálogos originales, explicaciones guiadas y transcripciones. Cada episodio empieza con una pequeña escena en español, y después retoma las palabras, la gramática, el registro, la pronunciación y el humor del diálogo.
 
-Vox Español es una serie skepvox de Thiago Oliveira que ayuda a los estudiantes de español a trabajar la lengua con diálogos originales, explicaciones guiadas y transcripciones. Cada episodio empieza con una pequeña escena en español, y después retoma las palabras, la gramática, el registro, la pronunciación y el humor del diálogo. Las guías de lección y transcripciones se publican en https://skepvox.com/podcast/espanol/.]]></itunes:summary>
+Página del programa: https://skepvox.com/podcast/espanol/]]></itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://media.skepvox.com/podcast/espanol/artwork/show-cover-v1.jpg" />
@@ -31,7 +31,7 @@ Vox Español es una serie skepvox de Thiago Oliveira que ayuda a los estudiantes
       <title>Vox Español</title>
       <link>https://skepvox.com/podcast/espanol/</link>
     </image>
-    <lastBuildDate>Mon, 20 Apr 2026 11:15:45 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 12:31:59 -0300</lastBuildDate>
 
     <item>
       <title>001 - La boda es a las seis</title>
@@ -103,44 +103,6 @@ En la página del episodio encontrará la guía de aprendizaje, las preguntas de
       <enclosure url="https://media.skepvox.com/podcast/espanol/audio/espanol-002-la-sarten-esta-ocupada-v1.mp3" length="40120991" type="audio/mpeg" />
       <itunes:duration>00:27:52</itunes:duration>
       <itunes:episode>2</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://media.skepvox.com/podcast/espanol/artwork/show-cover-v1.jpg" />
-    </item>
-
-    <item>
-      <title>003 - El tren está parado</title>
-      <link>https://skepvox.com/podcast/espanol/003-el-tren-esta-parado</link>
-      <guid isPermaLink="false">vox-espanol-003</guid>
-      <pubDate>Tue, 21 Apr 2026 05:00:00 -0300</pubDate>
-      <description><![CDATA[Guía completa y transcripción:
-https://skepvox.com/podcast/espanol/003-el-tren-esta-parado
-
-En este episodio de Vox Español, trabajamos el contraste entre ser y estar en una estación de tren, con identidad, ubicación, función profesional y estados temporales.
-
-El episodio se llama "El tren está parado". Un tren a Granada, una pantalla de retrasos y un mostrador de información crean una conversación en la que cada detalle depende de entender quién es quién, dónde está cada cosa y qué está pasando en ese momento.
-
-Esta lección le ayuda a usar ser y estar para hablar de identidad, lugar, hora, estado temporal, función de servicio y expresiones como estar parado, estar libre y estar de servicio.
-
-La guía de lección explica también el vocabulario importante del episodio: estación, tren, vía, andén, mostrador, billete, retraso, incidencia técnica, directo, parado, libre y otras palabras útiles.
-
-En la página del episodio encontrará la guía de aprendizaje, las preguntas de comprensión, las respuestas, la nota cultural, el diálogo lento, el diálogo a velocidad natural y la transcripción completa.]]></description>
-      <content:encoded><![CDATA[<p>Guía completa y transcripción:<br />
-<a href="https://skepvox.com/podcast/espanol/003-el-tren-esta-parado">https://skepvox.com/podcast/espanol/003-el-tren-esta-parado</a></p>
-
-<p>En este episodio de Vox Español, trabajamos el contraste entre ser y estar en una estación de tren, con identidad, ubicación, función profesional y estados temporales.</p>
-
-<p>El episodio se llama "El tren está parado". Un tren a Granada, una pantalla de retrasos y un mostrador de información crean una conversación en la que cada detalle depende de entender quién es quién, dónde está cada cosa y qué está pasando en ese momento.</p>
-
-<p>Esta lección le ayuda a usar ser y estar para hablar de identidad, lugar, hora, estado temporal, función de servicio y expresiones como estar parado, estar libre y estar de servicio.</p>
-
-<p>La guía de lección explica también el vocabulario importante del episodio: estación, tren, vía, andén, mostrador, billete, retraso, incidencia técnica, directo, parado, libre y otras palabras útiles.</p>
-
-<p>En la página del episodio encontrará la guía de aprendizaje, las preguntas de comprensión, las respuestas, la nota cultural, el diálogo lento, el diálogo a velocidad natural y la transcripción completa.</p>]]></content:encoded>
-      <enclosure url="https://media.skepvox.com/podcast/espanol/audio/espanol-003-el-tren-esta-parado-v1.mp3" length="38960527" type="audio/mpeg" />
-      <itunes:duration>00:27:03</itunes:duration>
-      <itunes:episode>3</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>

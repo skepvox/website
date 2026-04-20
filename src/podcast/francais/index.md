@@ -78,6 +78,8 @@ Les pages de cette section réunissent les transcriptions, le vocabulaire et les
 
 **Amazon Music :** <https://music.amazon.com/podcasts/d7df025e-6ee3-48da-953f-198756fd1508/vox-français>
 
+**YouTube :** <https://www.youtube.com/playlist?list=PLpaLfQv0ILtcAgCZeIxaJkJETSQN-v7G1>
+
 ## Leçons
 
 - [001 - Le badge](/podcast/francais/001-le-badge) — le verbe `être` au présent, l'identité, les rôles, les lieux et l'orientation dans une interaction quotidienne.

@@ -72,6 +72,12 @@ The pages in this section collect transcripts, vocabulary, grammar notes, and us
 
 **RSS feed:** <https://skepvox.com/podcast/english/feed.xml>
 
+**Apple Podcasts:** <https://podcasts.apple.com/us/podcast/vox-english/id1894879280>
+
+**Spotify:** <https://open.spotify.com/show/4Mlol3BnZgNRraKKspWFvf>
+
+**YouTube:** <https://www.youtube.com/playlist?list=PLpaLfQv0ILtcd5NN8eulwXvdaX7mlvlJk>
+
 ## Lessons
 
 - [001 - The Apology Window](/podcast/english/001-the-apology-window) - present simple and present continuous for stable facts, temporary situations, state/action meanings, and public performative verbs.

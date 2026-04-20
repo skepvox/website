@@ -72,6 +72,12 @@ Las páginas de esta sección reúnen las transcripciones, el vocabulario y las 
 
 **Flujo RSS:** <https://skepvox.com/podcast/espanol/feed.xml>
 
+**Apple Podcasts:** <https://podcasts.apple.com/us/podcast/vox-español/id1894875937>
+
+**Spotify:** <https://open.spotify.com/show/7zcDdSa9cfxrAVmRhRVyIv>
+
+**YouTube:** <https://www.youtube.com/playlist?list=PLpaLfQv0ILtcvukfQYR36E6-qVx85W001>
+
 ## Lecciones
 
 - [001 - La boda es a las seis](/podcast/espanol/001-la-boda-es-a-las-seis) — el contraste entre `ser` y `estar` para identidad, profesión, hora de un evento, ubicación, estado y función temporal.
