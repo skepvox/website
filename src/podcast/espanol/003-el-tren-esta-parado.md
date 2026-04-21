@@ -1,7 +1,7 @@
 ---
 title: "Vox Español 003 - El tren está parado"
 description: "Guía de lección y transcripción del episodio 003 de Vox Español: El tren está parado, sobre el contraste entre ser y estar en una estación de tren, con identidad, ubicación, función profesional y estados temporales."
-outline: [2, 3]
+outline: 2
 head:
   - - link
     - rel: canonical
@@ -66,7 +66,7 @@ head:
 
 # Vox Español 003 - El tren está parado
 
-Esta página acompaña el episodio 003 de Vox Español, una serie skepvox de Thiago Oliveira para aprender español. Reúne la guía de aprendizaje, el diálogo y la transcripción completa.
+Esta página acompaña el episodio 003 de Vox Español, una serie skepvox de Thiago Oliveira para aprender español. Reúne la transcripción completa, el diálogo y la guía de aprendizaje.
 
 **Episodio:** El tren está parado
 
@@ -74,120 +74,15 @@ Esta página acompaña el episodio 003 de Vox Español, una serie skepvox de Thi
 
 **Enlace permanente:** <https://skepvox.com/podcast/espanol/003-el-tren-esta-parado>
 
-## Guía de aprendizaje
+## Transcripción completa
 
-### Vocabulario
+Use las secciones siguientes para entrar directamente en la transcripción, en la versión lenta, en la explicación y en la repetición a velocidad natural.
 
-- **La estación**: lugar donde salen y llegan los trenes. En la escena, la estación está llena y el mostrador de información tiene mucho trabajo. Ejemplo: La estación está llena a las nueve y veinte.
-
-- **El tren**: medio de transporte que circula por vías. En el diálogo, el tren a Granada está parado porque falta una persona importante. Ejemplo: El tren está en la vía cuatro.
-
-- **La vía**: carril o zona por donde circula o espera el tren. En una estación, la pantalla indica la vía para cada salida. Ejemplo: La vía cuatro está ocupada por el tren a Granada.
-
-- **El andén**: zona donde esperan los pasajeros antes de subir al tren. Ejemplo: El andén está libre por la izquierda.
-
-- **El mostrador**: mesa o zona de atención donde una persona ayuda al público. Ejemplo: Samuel está delante del mostrador, pero no necesita un billete.
-
-- **El billete**: documento que permite viajar. Puede ser en papel o digital. Ejemplo: Beatriz cree que Samuel tiene un billete para las nueve y diez.
-
-- **El pasajero, la pasajera**: persona que viaja en un transporte. Ejemplo: Beatriz piensa que Samuel es pasajero, pero Samuel es maquinista.
-
-- **El maquinista, la maquinista**: persona que conduce el tren. La misma forma sirve para un hombre o una mujer; el artículo y el contexto ayudan. Ejemplo: Samuel es maquinista suplente.
-
-- **La cabina**: espacio del tren desde donde trabaja el maquinista. Ejemplo: El asiento de Samuel está en la cabina.
-
-- **Estar de servicio**: estar trabajando en un turno o en una función profesional. Ejemplo: Samuel no está viajando; está de servicio.
-
-- **El retraso**: situación en la que algo ocurre más tarde de lo previsto. Ejemplo: El retraso no está solo en la vía; también está en el mostrador.
-
-- **La incidencia técnica**: problema que afecta al funcionamiento de un servicio. En el diálogo, la frase se vuelve cómica porque la incidencia es una persona bloqueada. Ejemplo: La pantalla habla de una incidencia técnica.
-
-- **Directo, directa**: puede describir un tren que no hace paradas intermedias, o una forma clara y sin rodeos de actuar. Ejemplo: El tren es directo, pero Samuel necesita que lo dejen pasar directamente.
-
-- **Estar parado, parada**: no moverse, estar detenido. Se usa para vehículos, máquinas, trabajos o personas en una situación de espera. Ejemplo: El tren está parado en la vía cuatro.
-
-- **Estar libre**: no estar ocupado o no estar bloqueado. Ejemplo: El andén está libre por la izquierda.
-
-- **Estar enfermo, enferma**: tener un problema de salud. Ejemplo: El maquinista asignado está enfermo.
-
-- **La credencial**: documento o tarjeta que identifica a una persona en su trabajo. Ejemplo: Samuel lleva una credencial, pero Beatriz la interpreta mal.
-
-- **El uniforme**: ropa propia de un trabajo, una empresa o un servicio. Ejemplo: Samuel lleva uniforme, pero Beatriz tarda en interpretar bien su función.
-
-- **El chaleco**: prenda sin mangas que puede formar parte de un uniforme o servir para hacerse visible. Ejemplo: Samuel bromea con una incidencia técnica que llevaba chaleco.
-
-- **El depósito**: zona técnica donde se guardan, preparan o gestionan trenes y personal antes de salir al servicio. Ejemplo: Samuel viene desde el depósito, no desde la cola de viajeros.
-
-- **Atender**: escuchar y ayudar a una persona en un servicio. Ejemplo: Beatriz atiende a Samuel, pero lo atiende como si fuera pasajero.
-
-- **La pantalla**: panel que muestra información de salidas, vías, retrasos o avisos. Ejemplo: La pantalla dice que hay una incidencia técnica.
-
-El vocabulario de este episodio se organiza en cuatro grupos. El primer grupo nombra espacios: `estación`, `vía`, `andén`, `mostrador`, `cabina`. Con estos nombres, `estar` es muy útil porque coloca a personas y cosas en un lugar. Samuel está delante del mostrador; el tren está en la vía cuatro; el andén está libre por la izquierda.
-
-El segundo grupo nombra personas y funciones: `pasajero`, `maquinista`, `empleada`, `trabajador`. Aquí aparece mucho `ser`, porque identifica el papel de una persona. Samuel no es pasajero; es maquinista suplente. Beatriz es empleada del mostrador. La confusión nace precisamente porque Beatriz no interpreta bien quién es Samuel.
-
-El tercer grupo habla de estados temporales: `parado`, `enfermo`, `libre`, `llena`, `bloqueado`. El tren está parado ahora, pero puede salir después. El maquinista asignado está enfermo hoy. Samuel está bloqueado en información durante unos minutos. Son estados de la situación, no definiciones permanentes.
-
-El cuarto grupo habla de procedimientos: `billete`, `credencial`, `incidencia técnica`, `estar de servicio`, `atender`. Son palabras de atención al público y de transporte. Ayudan a ver el humor: Beatriz aplica un procedimiento para pasajeros a una persona que pertenece al funcionamiento interno del tren.
-
-### Preguntas de comprensión
-
-Responda después de escuchar el diálogo completo. Las preguntas comprueban si entendió el malentendido principal.
-
-1. ¿Por qué Samuel necesita pasar al andén?
-
-   a. Porque quiere comprar un billete para Granada.
-   b. Porque es el maquinista suplente y debe llegar a la cabina.
-   c. Porque perdió una maleta en la vía cuatro.
-
-2. ¿Por qué la frase `incidencia técnica` resulta cómica en el diálogo?
-
-   a. Porque Beatriz no sabe leer la pantalla.
-   b. Porque el problema no es una máquina: Samuel está bloqueado en información.
-   c. Porque el tren ya salió sin pasajeros.
-
-Las respuestas correctas muestran el centro de la escena: Samuel no es un pasajero perdido, sino la persona que necesita entrar en el tren para que el servicio pueda continuar.
-
-### Expresiones y otros sentidos
-
-**Estar de servicio** se usa cuando una persona está trabajando en un turno, una función o una responsabilidad. No describe la identidad completa de la persona, sino su situación laboral en ese momento. Samuel es maquinista, pero además está de servicio. Fuera de su horario, seguiría siendo maquinista, pero no estaría de servicio. La diferencia ayuda a separar profesión e instante.
-
-**Estar parado** puede referirse a un tren, un coche, una máquina, una obra o una actividad. En el diálogo, el tren está parado físicamente en la vía cuatro. Pero el humor amplía la idea: el procedimiento también está parado, porque Beatriz no deja pasar a Samuel. Incluso Samuel, que debería moverse hacia la cabina, está parado delante del mostrador. Una sola expresión ordena varios niveles de la escena.
-
-**Está y esta** se parecen mucho, pero no son iguales. `Está` lleva tilde y viene del verbo `estar`: el tren está parado. `Esta`, sin tilde, acompaña a un nombre cercano: esta estación, esta pantalla, esta credencial. Al escuchar, la diferencia depende del ritmo y del contexto.
-
-**Ser directo** y **estar directo** no funcionan igual. En el diálogo, `el tren es directo` describe el tipo de servicio: va a su destino sin muchas paradas. Es una característica del recorrido. Al final, Samuel juega con la idea de conducir el tren directamente fuera de la estación. La palabra `directo` también puede hablar de una persona que habla claro, sin rodeos. Por eso la escena permite un pequeño juego: el tren es directo, pero la conversación no lo es.
-
-**Estar libre** puede hablar de un asiento, un andén, una mesa, una persona o un horario. Si un asiento está libre, nadie lo ocupa. Si una persona está libre, puede tener tiempo o disponibilidad. En el diálogo, el andén está libre por la izquierda: Beatriz por fin abre una posibilidad de movimiento. Es un estado útil y temporal.
-
-**La incidencia técnica** suele sonar impersonal. Puede referirse a un problema con una máquina, una señal, un sistema o una instalación. En la escena, la expresión resulta graciosa porque es demasiado fría para describir lo que ocurre: la incidencia es Samuel, una persona con uniforme y credencial, atrapada en el mostrador. El lenguaje administrativo tapa por un momento una situación muy humana.
-
-### Nota cultural
-
-En muchas estaciones, el viajero depende de varios tipos de información al mismo tiempo: pantallas, avisos por megafonía, números de vía, puertas de acceso, personal de información y mensajes en el billete. Cuando todo va bien, esas capas de información ayudan. Cuando algo cambia, también pueden crear confusión. Una pantalla puede decir `retrasado` o `incidencia técnica`, pero esa frase no siempre explica qué ocurre de verdad.
-
-El mostrador de información es un espacio especial porque mezcla ayuda, control y procedimiento. La persona que atiende no solo responde preguntas: también organiza filas, interpreta pantallas, revisa documentos y decide por dónde puede pasar alguien. Por eso Beatriz no actúa de forma absurda. Ella intenta ordenar una situación llena de gente, maletas y retrasos. Su error es aplicar el molde de pasajero a Samuel, que pertenece a otro lado del sistema.
-
-La escena también usa una situación reconocible: una persona tiene prisa, pero debe explicar quién es antes de poder actuar. En aeropuertos, estaciones, edificios públicos o centros médicos, no basta con tener razón; a veces hay que pasar por el canal correcto. Samuel no necesita que le expliquen el billete, pero necesita que Beatriz reconozca su función.
-
-Desde el punto de vista del español, este tipo de escena es muy útil porque obliga a cambiar entre identidad, ubicación y estado. `Samuel es maquinista` identifica su función. `Samuel está delante del mostrador` lo coloca en el espacio. `Samuel está de servicio` explica su situación laboral. `El tren está parado` describe el estado temporal del tren. El humor aparece cuando esas cuatro capas no coinciden: la persona correcta está en el lugar equivocado, recibiendo la ayuda equivocada.
-
-El trato de `usted` mantiene la escena educada. Beatriz no es hostil; Samuel tampoco. Los dos hablan con cortesía, pero la cortesía no elimina el malentendido. Al contrario, lo hace más seco: nadie grita, nadie exagera, y aun así el tren sigue parado porque una conversación formal está bloqueando la solución práctica.
-
-También hay una pequeña diferencia entre la información pública y la información interna. Para los pasajeros, la pantalla resume el problema con una frase breve. Para Samuel, el problema tiene una causa concreta: falta una persona en la cabina. En situaciones reales, esas dos formas de hablar conviven. La frase pública debe ser corta; la explicación interna puede ser más precisa. El episodio usa esa distancia para crear humor sin convertir a Beatriz en una caricatura.
-
-### Respuestas a las preguntas
-
-1. b. Samuel es el maquinista suplente.
-2. b. La incidencia es Samuel bloqueado en información.
-
-## Guión completo
-
-### Introducción
+## Introducción
 
 Bienvenidos a Podcast de español como lengua extranjera. Hoy escucharemos un diálogo en una estación de tren, durante unos minutos de retraso muy incómodos. Beatriz trabaja en el mostrador de información y cree que Samuel es un pasajero con problemas de billete. Samuel, en cambio, es el maquinista suplente que necesita llegar a la cabina. El tren a Granada está parado, y la conversación explica por qué. La gramática central vuelve a ser el contraste entre `ser` y `estar`: quién es Samuel, dónde está, qué estado tiene el tren, qué significa estar de servicio y por qué una incidencia técnica puede tener cara, uniforme y mucha paciencia. Escuchen el trato de `usted`, el vocabulario de estación y el pequeño juego con la palabra `directo`. Vamos allá.
 
-### Diálogo - versión lenta
+## Diálogo - versión lenta
 
 [inicio del diálogo]
 
@@ -229,7 +124,7 @@ Samuel: Gracias. Si el tren sale pronto, diremos que la incidencia técnica esta
 
 [fin del diálogo]
 
-### Explicación
+## Explicación
 
 Vamos a recorrer el diálogo paso a paso. La escena parece sencilla: una estación, un tren a Granada y un mostrador de información. Pero el humor está en una pregunta muy básica: ¿quién es Samuel? Para Beatriz, Samuel es un pasajero que necesita ayuda. Para Samuel, la respuesta es otra: él es el maquinista suplente. La diferencia no es pequeña. Si Samuel es pasajero, Beatriz debe mirar el billete, el asiento y la vía. Si Samuel es maquinista, Beatriz debe dejarlo pasar a la cabina. La gramática no está decorando la escena; organiza la acción.
 
@@ -291,7 +186,7 @@ Para practicar, puede construir frases con el mismo personaje. Samuel es maquini
 
 Y observe el detalle final: cuando Beatriz dice que su orgullo profesional está en revisión, no cambia la gramática principal. Es otro estado temporal. Hoy está en revisión; mañana, quizá, estará recuperado. En una estación, hasta el orgullo puede tener retraso. Ahora escuchemos el diálogo, esta vez a velocidad natural.
 
-### Diálogo - velocidad natural
+## Diálogo - velocidad natural
 
 [inicio del diálogo]
 
@@ -333,6 +228,115 @@ Samuel: Gracias. Si el tren sale pronto, diremos que la incidencia técnica esta
 
 [fin del diálogo]
 
-### Conclusión
+## Conclusión
 
 Hoy hemos visto cómo `ser` y `estar` organizan una escena completa. Samuel es maquinista, pero está delante del mostrador. El tren es directo, pero está parado. Beatriz es profesional, pero su orgullo está momentáneamente en revisión. Repase las preguntas básicas: quién es, qué es, dónde está y cómo está ahora. Si puede responderlas por separado, la escena ya no está tan bloqueada. Y recuerde: que su español sea directo, pero que no se quede parado en la vía cuatro. Gracias por escuchar Podcast de español como lengua extranjera.
+
+## Guía de aprendizaje
+
+Las secciones siguientes reúnen el vocabulario, las preguntas de comprensión, las notas de uso y las respuestas.
+
+## Vocabulario
+
+- **La estación**: lugar donde salen y llegan los trenes. En la escena, la estación está llena y el mostrador de información tiene mucho trabajo. Ejemplo: La estación está llena a las nueve y veinte.
+
+- **El tren**: medio de transporte que circula por vías. En el diálogo, el tren a Granada está parado porque falta una persona importante. Ejemplo: El tren está en la vía cuatro.
+
+- **La vía**: carril o zona por donde circula o espera el tren. En una estación, la pantalla indica la vía para cada salida. Ejemplo: La vía cuatro está ocupada por el tren a Granada.
+
+- **El andén**: zona donde esperan los pasajeros antes de subir al tren. Ejemplo: El andén está libre por la izquierda.
+
+- **El mostrador**: mesa o zona de atención donde una persona ayuda al público. Ejemplo: Samuel está delante del mostrador, pero no necesita un billete.
+
+- **El billete**: documento que permite viajar. Puede ser en papel o digital. Ejemplo: Beatriz cree que Samuel tiene un billete para las nueve y diez.
+
+- **El pasajero, la pasajera**: persona que viaja en un transporte. Ejemplo: Beatriz piensa que Samuel es pasajero, pero Samuel es maquinista.
+
+- **El maquinista, la maquinista**: persona que conduce el tren. La misma forma sirve para un hombre o una mujer; el artículo y el contexto ayudan. Ejemplo: Samuel es maquinista suplente.
+
+- **La cabina**: espacio del tren desde donde trabaja el maquinista. Ejemplo: El asiento de Samuel está en la cabina.
+
+- **Estar de servicio**: estar trabajando en un turno o en una función profesional. Ejemplo: Samuel no está viajando; está de servicio.
+
+- **El retraso**: situación en la que algo ocurre más tarde de lo previsto. Ejemplo: El retraso no está solo en la vía; también está en el mostrador.
+
+- **La incidencia técnica**: problema que afecta al funcionamiento de un servicio. En el diálogo, la frase se vuelve cómica porque la incidencia es una persona bloqueada. Ejemplo: La pantalla habla de una incidencia técnica.
+
+- **Directo, directa**: puede describir un tren que no hace paradas intermedias, o una forma clara y sin rodeos de actuar. Ejemplo: El tren es directo, pero Samuel necesita que lo dejen pasar directamente.
+
+- **Estar parado, parada**: no moverse, estar detenido. Se usa para vehículos, máquinas, trabajos o personas en una situación de espera. Ejemplo: El tren está parado en la vía cuatro.
+
+- **Estar libre**: no estar ocupado o no estar bloqueado. Ejemplo: El andén está libre por la izquierda.
+
+- **Estar enfermo, enferma**: tener un problema de salud. Ejemplo: El maquinista asignado está enfermo.
+
+- **La credencial**: documento o tarjeta que identifica a una persona en su trabajo. Ejemplo: Samuel lleva una credencial, pero Beatriz la interpreta mal.
+
+- **El uniforme**: ropa propia de un trabajo, una empresa o un servicio. Ejemplo: Samuel lleva uniforme, pero Beatriz tarda en interpretar bien su función.
+
+- **El chaleco**: prenda sin mangas que puede formar parte de un uniforme o servir para hacerse visible. Ejemplo: Samuel bromea con una incidencia técnica que llevaba chaleco.
+
+- **El depósito**: zona técnica donde se guardan, preparan o gestionan trenes y personal antes de salir al servicio. Ejemplo: Samuel viene desde el depósito, no desde la cola de viajeros.
+
+- **Atender**: escuchar y ayudar a una persona en un servicio. Ejemplo: Beatriz atiende a Samuel, pero lo atiende como si fuera pasajero.
+
+- **La pantalla**: panel que muestra información de salidas, vías, retrasos o avisos. Ejemplo: La pantalla dice que hay una incidencia técnica.
+
+El vocabulario de este episodio se organiza en cuatro grupos. El primer grupo nombra espacios: `estación`, `vía`, `andén`, `mostrador`, `cabina`. Con estos nombres, `estar` es muy útil porque coloca a personas y cosas en un lugar. Samuel está delante del mostrador; el tren está en la vía cuatro; el andén está libre por la izquierda.
+
+El segundo grupo nombra personas y funciones: `pasajero`, `maquinista`, `empleada`, `trabajador`. Aquí aparece mucho `ser`, porque identifica el papel de una persona. Samuel no es pasajero; es maquinista suplente. Beatriz es empleada del mostrador. La confusión nace precisamente porque Beatriz no interpreta bien quién es Samuel.
+
+El tercer grupo habla de estados temporales: `parado`, `enfermo`, `libre`, `llena`, `bloqueado`. El tren está parado ahora, pero puede salir después. El maquinista asignado está enfermo hoy. Samuel está bloqueado en información durante unos minutos. Son estados de la situación, no definiciones permanentes.
+
+El cuarto grupo habla de procedimientos: `billete`, `credencial`, `incidencia técnica`, `estar de servicio`, `atender`. Son palabras de atención al público y de transporte. Ayudan a ver el humor: Beatriz aplica un procedimiento para pasajeros a una persona que pertenece al funcionamiento interno del tren.
+
+## Preguntas de comprensión
+
+Responda después de escuchar el diálogo completo. Las preguntas comprueban si entendió el malentendido principal.
+
+1. ¿Por qué Samuel necesita pasar al andén?
+
+   a. Porque quiere comprar un billete para Granada.
+   b. Porque es el maquinista suplente y debe llegar a la cabina.
+   c. Porque perdió una maleta en la vía cuatro.
+
+2. ¿Por qué la frase `incidencia técnica` resulta cómica en el diálogo?
+
+   a. Porque Beatriz no sabe leer la pantalla.
+   b. Porque el problema no es una máquina: Samuel está bloqueado en información.
+   c. Porque el tren ya salió sin pasajeros.
+
+Las respuestas correctas muestran el centro de la escena: Samuel no es un pasajero perdido, sino la persona que necesita entrar en el tren para que el servicio pueda continuar.
+
+## Expresiones y otros sentidos
+
+**Estar de servicio** se usa cuando una persona está trabajando en un turno, una función o una responsabilidad. No describe la identidad completa de la persona, sino su situación laboral en ese momento. Samuel es maquinista, pero además está de servicio. Fuera de su horario, seguiría siendo maquinista, pero no estaría de servicio. La diferencia ayuda a separar profesión e instante.
+
+**Estar parado** puede referirse a un tren, un coche, una máquina, una obra o una actividad. En el diálogo, el tren está parado físicamente en la vía cuatro. Pero el humor amplía la idea: el procedimiento también está parado, porque Beatriz no deja pasar a Samuel. Incluso Samuel, que debería moverse hacia la cabina, está parado delante del mostrador. Una sola expresión ordena varios niveles de la escena.
+
+**Está y esta** se parecen mucho, pero no son iguales. `Está` lleva tilde y viene del verbo `estar`: el tren está parado. `Esta`, sin tilde, acompaña a un nombre cercano: esta estación, esta pantalla, esta credencial. Al escuchar, la diferencia depende del ritmo y del contexto.
+
+**Ser directo** y **estar directo** no funcionan igual. En el diálogo, `el tren es directo` describe el tipo de servicio: va a su destino sin muchas paradas. Es una característica del recorrido. Al final, Samuel juega con la idea de conducir el tren directamente fuera de la estación. La palabra `directo` también puede hablar de una persona que habla claro, sin rodeos. Por eso la escena permite un pequeño juego: el tren es directo, pero la conversación no lo es.
+
+**Estar libre** puede hablar de un asiento, un andén, una mesa, una persona o un horario. Si un asiento está libre, nadie lo ocupa. Si una persona está libre, puede tener tiempo o disponibilidad. En el diálogo, el andén está libre por la izquierda: Beatriz por fin abre una posibilidad de movimiento. Es un estado útil y temporal.
+
+**La incidencia técnica** suele sonar impersonal. Puede referirse a un problema con una máquina, una señal, un sistema o una instalación. En la escena, la expresión resulta graciosa porque es demasiado fría para describir lo que ocurre: la incidencia es Samuel, una persona con uniforme y credencial, atrapada en el mostrador. El lenguaje administrativo tapa por un momento una situación muy humana.
+
+## Nota cultural
+
+En muchas estaciones, el viajero depende de varios tipos de información al mismo tiempo: pantallas, avisos por megafonía, números de vía, puertas de acceso, personal de información y mensajes en el billete. Cuando todo va bien, esas capas de información ayudan. Cuando algo cambia, también pueden crear confusión. Una pantalla puede decir `retrasado` o `incidencia técnica`, pero esa frase no siempre explica qué ocurre de verdad.
+
+El mostrador de información es un espacio especial porque mezcla ayuda, control y procedimiento. La persona que atiende no solo responde preguntas: también organiza filas, interpreta pantallas, revisa documentos y decide por dónde puede pasar alguien. Por eso Beatriz no actúa de forma absurda. Ella intenta ordenar una situación llena de gente, maletas y retrasos. Su error es aplicar el molde de pasajero a Samuel, que pertenece a otro lado del sistema.
+
+La escena también usa una situación reconocible: una persona tiene prisa, pero debe explicar quién es antes de poder actuar. En aeropuertos, estaciones, edificios públicos o centros médicos, no basta con tener razón; a veces hay que pasar por el canal correcto. Samuel no necesita que le expliquen el billete, pero necesita que Beatriz reconozca su función.
+
+Desde el punto de vista del español, este tipo de escena es muy útil porque obliga a cambiar entre identidad, ubicación y estado. `Samuel es maquinista` identifica su función. `Samuel está delante del mostrador` lo coloca en el espacio. `Samuel está de servicio` explica su situación laboral. `El tren está parado` describe el estado temporal del tren. El humor aparece cuando esas cuatro capas no coinciden: la persona correcta está en el lugar equivocado, recibiendo la ayuda equivocada.
+
+El trato de `usted` mantiene la escena educada. Beatriz no es hostil; Samuel tampoco. Los dos hablan con cortesía, pero la cortesía no elimina el malentendido. Al contrario, lo hace más seco: nadie grita, nadie exagera, y aun así el tren sigue parado porque una conversación formal está bloqueando la solución práctica.
+
+También hay una pequeña diferencia entre la información pública y la información interna. Para los pasajeros, la pantalla resume el problema con una frase breve. Para Samuel, el problema tiene una causa concreta: falta una persona en la cabina. En situaciones reales, esas dos formas de hablar conviven. La frase pública debe ser corta; la explicación interna puede ser más precisa. El episodio usa esa distancia para crear humor sin convertir a Beatriz en una caricatura.
+
+## Respuestas a las preguntas
+
+1. b. Samuel es el maquinista suplente.
+2. b. La incidencia es Samuel bloqueado en información.

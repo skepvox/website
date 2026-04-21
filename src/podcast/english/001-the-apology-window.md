@@ -1,7 +1,7 @@
 ---
 title: "Vox English 001 - The Apology Window"
 description: "Lesson guide and transcript for episode 001 of Vox English: The Apology Window, on present simple and present continuous in advanced professional English."
-outline: [2, 3]
+outline: 2
 head:
   - - link
     - rel: canonical
@@ -66,95 +66,19 @@ head:
 
 # Vox English 001 - The Apology Window
 
-This page accompanies episode 001 of Vox English, a skepvox series by Thiago Oliveira for advanced English learners. It brings together the learning guide, dialogue, and full transcript.
+This page accompanies episode 001 of Vox English, a skepvox series by Thiago Oliveira for advanced English learners. It brings together the full transcript, dialogue, and learning guide.
 
 **Episode:** The Apology Window
 
-**Main point:** Present simple and present continuous for stable facts, temporary situations, state and action meanings, developing mental states, and performative verbs.
+**Main point:** Present simple and present continuous for stable facts, temporary situations, state/action meanings, developing mental states, and performative verbs.
 
 **Permanent link:** <https://skepvox.com/podcast/english/001-the-apology-window>
 
-## Learning Guide
+## Full transcript
 
-### Vocabulary
+Use the sections below to jump straight into the episode transcript, slow replay, explanation, and natural-speed replay.
 
-- inconvenience: a problem or difficulty that causes trouble, delay, or discomfort, especially when the speaker wants to sound polite or official. It is common in customer-service and public-statement language. Example: The airline apologized for the inconvenience after moving every passenger to a later flight.
-- to perform an action: to do something by saying it, especially with verbs such as apologize, promise, request, or declare. In formal speech, the verb is not just reporting action; it is creating the action. Example: When the chair says, "I declare the meeting open," the sentence performs the opening.
-- to be in the mood for: to feel ready or willing to do something. Example: The team was not in the mood for another branding discussion after the projector failed.
-- quarter: a three-month business period used in finance and corporate planning. Example: The company expects stronger sales in the next quarter.
-- to appear busy: to seem active or occupied, whether or not useful work is actually happening. This expression is useful when you want to suggest activity without confirming effectiveness. Example: The dashboard appeared busy, but nobody could explain what the moving numbers meant.
-- share price: the market value of one share in a company. Example: The share price fell after investors heard that the demo had been delayed.
-- to pretend not to notice: to act as if one has not seen or understood something obvious. It often implies social discomfort or deliberate avoidance. Example: Everyone pretended not to notice the smoke coming from the printer.
-- immersive: surrounding the audience or user so that they feel inside an experience. In business writing, it can sound impressive or vague, depending on context. Example: The event promised an immersive launch, although most guests only wanted clear seating.
-- to resemble: to look like or be similar to something. This verb is more formal than "look like" and is common in careful description. Example: Without the lighting, the device resembled an expensive doorstop.
-- flammable: able to catch fire easily. The word is technical enough to sound serious and concrete in a safety discussion. Example: The legal team did not enjoy hearing that the display material was flammable.
-- compliance: the work of following laws, rules, standards, or internal policies. The noun is usually uncountable: we say "compliance with regulations" or "in compliance with the law," not "a compliance." When it refers to a corporate department, English often treats Compliance as a department name, similar to Legal. Example: Compliance reviewed the statement before it went to the press.
-- insurance burden: the amount of risk or responsibility that insurance may have to cover. The phrase suggests that language, process, or design choices may affect liability. Example: Clear safety procedures can reduce the insurance burden for a company.
-- billable: able to be charged to a client, often used for professional time. Example: The consultants stayed silent on the call, but every silent minute was billable.
-- to request patience: to formally ask people to wait or remain calm. In the dialogue, Owen says, "We request patience, we acknowledge concern, and we promise transparency," using three performative verbs in one breath. Example: The company requested patience while the system recovered.
-- to acknowledge concern: to show that you recognize people's worry or criticism. It can sound responsible, but it may also avoid saying exactly what went wrong. In Owen's cluster, "we acknowledge concern" creates an official stance without admitting fault. Example: The CEO acknowledged concern but avoided giving details.
-- transparency: openness and honesty about what is happening or how decisions are made. The word is common in corporate communication, especially when trust is under pressure. Example: Investors asked for transparency after the launch schedule changed twice.
-- to guarantee: to promise that something is certain or will happen. Because it creates a strong expectation, it should not be used casually. Example: The company could not guarantee that the first version would work offline.
-- stress ball: a small soft object squeezed in the hand to reduce anxiety. Example: Owen held a stress ball during the rehearsal and called it executive equipment.
-- to deny: to say that something is not true, or to refuse responsibility for it. In public statements, denial is a strong move because it may later be checked against evidence. Example: The spokesperson denied that the product had failed during testing.
-- to leave a door open: to avoid closing off a possibility completely. The expression can be literal, but in professional speech it usually means keeping options available. Example: The lawyer left a door open by saying the company was reviewing the issue.
-- countdown: a backward count toward a planned event, especially a launch. Example: The countdown made the apology feel alarmingly official.
-- branded: designed or labeled to fit a company's identity, colors, slogans, or public image. It can be neutral, but in the dialogue it sounds absurd because even an apology has been styled. Example: Even the emergency exit signs looked branded.
-- contingency asset: a prepared resource kept ready in case a possible problem happens. The phrase is deliberately corporate and emotionally cold, and it is not a standard business-English set phrase. "Contingency plan," "contingency fund," and "contingency reserve" are standard; Owen's pairing is a character invention. Example: Owen treated the apology as a contingency asset, like spare batteries or backup slides.
-- narrative arc: the shape of a story as it moves from beginning to development to resolution. In public relations, it can mean the planned story a company wants people to accept. Example: The sponsors wanted a narrative arc, not a messy explanation.
-- accountability: responsibility for actions, decisions, and consequences. It is stronger than simply saying "sorry" because it implies ownership of what happens next. Common collocations include "hold someone accountable for," "accept accountability," "demand accountability," "full accountability," and "lack of accountability." Example: Maya wanted accountability to mean truth, not a premium feature.
-- subscription feature: a service or benefit available only to paying subscribers. The phrase belongs to product pricing, which makes it comic when applied to ethics. Example: The joke lands because accountability should not be a subscription feature.
-
-### Comprehension Questions
-
-Choose the best answer for each question. The questions focus on what the speakers are doing with language, not only on the surface events.
-
-1. Why does Maya object to the wording "we are apologizing"?
-   A. It sounds too informal for investors.
-   B. It describes an ongoing mood rather than performing a formal apology.
-   C. It proves that the product has already failed.
-
-2. What does the calendar reveal near the end of the dialogue?
-   A. The apology is scheduled before the incident.
-   B. Legal has cancelled the product demo.
-   C. The sponsors have refused to attend.
-
-### Expressions And Other Meanings
-
-The verb "appear" can describe a state or an action. In the dialogue, Owen says investors like verbs that "appear busy." Here "appear" means "seem." It describes how something looks to observers, not an action performed on a stage or in public. In another context, "appear" can mean to take part in an event, a show, a court case, or a public setting: a musician appears at a festival, a witness appears in court, or a guest appears on a podcast. That action meaning can naturally use continuous forms: "She is appearing at the conference this week." The state meaning usually prefers the simple form: "The plan appears risky."
-
-This distinction is useful because many advanced mistakes happen when learners treat a verb as if it always behaves the same way. The better question is often: what does the verb mean in this sentence? "The device appears reliable" is a judgment of appearance, so the simple form is natural. "The director is appearing at the launch" is an event in someone's schedule, so the continuous form can be natural. The grammar follows the use.
-
-The expression "I am not denying" is also worth noticing. A direct "I deny it" is a strong performative statement: the speaker is making a denial. "I am not denying it" is softer and more strategic. It can leave space for a later admission, or signal that the speaker wants to control the interpretation without making a full confession. In the dialogue, Owen says, "I am not denying regret. I am shaping it." He is not making a clean denial. He is managing his public position. That is why Maya says the wording "leaves a door open and stands near it with a suitcase." Her image means the sentence is ready to escape.
-
-This is a common pattern in careful professional speech. A speaker may say, "I am not suggesting that..." before making a suggestion indirectly, or "I am not promising that..." before leaving hope alive. These forms can be polite, cautious, or evasive, depending on context. In Owen's mouth, the wording sounds evasive because he is trying to make regret useful without fully owning it.
-
-A useful test is to ask what risk the speaker is avoiding. "I deny" risks being contradicted. "I am not denying" avoids that risk while still controlling the listener's attention. That is why Maya hears it as a suitcase sentence: it is already packed for a later escape.
-
-### Register And Discourse Note
-
-This dialogue depends on a clash between official language and branding language. Maya speaks like someone who knows that public words can create obligations. When she hears "We apologize," she treats it as an institutional act. The company is not merely describing an emotion; it is doing something in public. That is why her objections are precise. She cares whether a sentence requests, acknowledges, promises, denies, or guarantees, because those verbs can carry legal and reputational force.
-
-Owen speaks in a polished corporate register, but his polished language hides panic. He calls an apology a "contingency asset" and describes accountability as part of a "narrative arc." These expressions sound strategic and professional, yet they also expose his distorted priority. He is not asking whether the product will work. He is asking whether the failure story will look active, timely, and sponsor-friendly.
-
-The tense choices support that comic engine. Simple forms present official actions or stable claims: "We request," "we acknowledge," "we promise," "Legal never leaves the room." Continuous forms present temporary states, developing attitudes, or carefully hedged positions: "the product is looking slightly nervous," "I am finding your concept less visionary," "I am not denying regret." The grammar lets the characters fight over whether a situation is real, temporary, official, or merely useful.
-
-In discourse analysis, a speaker's attitude toward the truth, force, or reliability of a statement is called stance. A firm stance commits; a hedged stance leaves room; a mitigated stance reduces force. Present-simple performatives often project a firm stance, while a negative continuous form such as "I am not denying" can project a hedged or mitigated stance. That is why Maya and Owen sound so different even when they are discussing the same event.
-
-The final reveal depends on discourse, not just plot. When Maya sees "Apology" scheduled before "Incident," the audience understands that Owen has treated responsibility as part of the launch design. His language has been preparing us for this: he prefers verbs that look active, treats regret as something to shape, and calls the apology a contingency asset. By the time he says accountability becomes a subscription feature, the wording is ridiculous but internally consistent. His register has already turned ethics into product management.
-
-For advanced speakers, that is the lesson beyond the tense contrast. Grammar choices do social work. They tell listeners whether you are committing, hedging, generalizing, reporting a temporary impression, or trying to control the story. In high-stakes professional English, those differences can be more important than the basic time reference.
-
-This is also why Maya's language feels severe without being emotional. She rarely says that she is angry. Instead, she chooses forms that make Owen's wording responsible for its consequences. Her precision becomes the pressure. Owen's language does the opposite: it makes responsibility feel movable, branded, and temporary.
-
-### Answers To The Questions
-
-1. B. It describes an ongoing mood rather than performing a formal apology.
-2. A. The apology is scheduled before the incident.
-
-## Complete Script
-
-### Introduction
+## Introduction
 
 Welcome to English as a Foreign Language Podcast. In this episode, we will listen to a conversation between Maya, a compliance lead, and Owen, a brand director, just before a product demo. The company has prepared a public apology, which would be sensible if something had already gone wrong. The problem is that the apology seems to have arrived a little early.
 
@@ -162,7 +86,7 @@ Our grammar focus is the present simple and the present continuous, but at an ad
 
 Let's get started.
 
-### Dialogue - slow version
+## Dialogue - slow version
 
 [start of dialogue]
 
@@ -204,7 +128,7 @@ Owen: Only for the first week. After that, accountability becomes a subscription
 
 [end of dialogue]
 
-### Explanation
+## Explanation
 
 Maya begins with the sentence in the public statement: "We apologize for the inconvenience." This is a useful place to start because the verb "apologize" is doing more than describing an emotion. In a formal statement, "we apologize" performs the apology. The company is not saying, "We often apologize," and it is not saying, "We are spending the afternoon apologizing." It is using the present simple to do a public act at the moment of speaking or publishing. Other verbs can work in the same way: "we request," "we acknowledge," "we promise," "we guarantee," and "we deny." These are called performative verbs because the sentence performs the action it names.
 
@@ -260,7 +184,7 @@ When you listen again, pay attention to who wants stability and who wants moveme
 
 Now let's listen to the dialogue, this time at a normal speed.
 
-### Dialogue - natural speed
+## Dialogue - natural speed
 
 [start of dialogue]
 
@@ -302,8 +226,88 @@ Owen: Only for the first week. After that, accountability becomes a subscription
 
 [end of dialogue]
 
-### Conclusion
+## Conclusion
 
 In this episode, we looked at how present simple and present continuous choices can shape meaning in advanced English. The present simple can make a public act official: "we apologize," "we promise," "I deny." The present continuous can make a state feel temporary, developing, or strategically unfinished: "I am finding," "currently regretting," "I am not denying." In Maya and Owen's conversation, grammar is not decoration. It is the place where responsibility, branding, and panic meet.
 
 Until next time, keep your promises simple and your accountability out of the subscription tier.
+
+## Learning Guide
+
+The study sections below review the vocabulary, comprehension questions, usage notes, and answer key.
+
+## Vocabulary
+
+- inconvenience: a problem or difficulty that causes trouble, delay, or discomfort, especially when the speaker wants to sound polite or official. It is common in customer-service and public-statement language. Example: The airline apologized for the inconvenience after moving every passenger to a later flight.
+- to perform an action: to do something by saying it, especially with verbs such as apologize, promise, request, or declare. In formal speech, the verb is not just reporting action; it is creating the action. Example: When the chair says, "I declare the meeting open," the sentence performs the opening.
+- to be in the mood for: to feel ready or willing to do something. Example: The team was not in the mood for another branding discussion after the projector failed.
+- quarter: a three-month business period used in finance and corporate planning. Example: The company expects stronger sales in the next quarter.
+- to appear busy: to seem active or occupied, whether or not useful work is actually happening. This expression is useful when you want to suggest activity without confirming effectiveness. Example: The dashboard appeared busy, but nobody could explain what the moving numbers meant.
+- share price: the market value of one share in a company. Example: The share price fell after investors heard that the demo had been delayed.
+- to pretend not to notice: to act as if one has not seen or understood something obvious. It often implies social discomfort or deliberate avoidance. Example: Everyone pretended not to notice the smoke coming from the printer.
+- immersive: surrounding the audience or user so that they feel inside an experience. In business writing, it can sound impressive or vague, depending on context. Example: The event promised an immersive launch, although most guests only wanted clear seating.
+- to resemble: to look like or be similar to something. This verb is more formal than "look like" and is common in careful description. Example: Without the lighting, the device resembled an expensive doorstop.
+- flammable: able to catch fire easily. The word is technical enough to sound serious and concrete in a safety discussion. Example: The legal team did not enjoy hearing that the display material was flammable.
+- compliance: the work of following laws, rules, standards, or internal policies. The noun is usually uncountable: we say "compliance with regulations" or "in compliance with the law," not "a compliance." When it refers to a corporate department, English often treats Compliance as a department name, similar to Legal. Example: Compliance reviewed the statement before it went to the press.
+- insurance burden: the amount of risk or responsibility that insurance may have to cover. The phrase suggests that language, process, or design choices may affect liability. Example: Clear safety procedures can reduce the insurance burden for a company.
+- billable: able to be charged to a client, often used for professional time. Example: The consultants stayed silent on the call, but every silent minute was billable.
+- to request patience: to formally ask people to wait or remain calm. In the dialogue, Owen says, "We request patience, we acknowledge concern, and we promise transparency," using three performative verbs in one breath. Example: The company requested patience while the system recovered.
+- to acknowledge concern: to show that you recognize people's worry or criticism. It can sound responsible, but it may also avoid saying exactly what went wrong. In Owen's cluster, "we acknowledge concern" creates an official stance without admitting fault. Example: The CEO acknowledged concern but avoided giving details.
+- transparency: openness and honesty about what is happening or how decisions are made. The word is common in corporate communication, especially when trust is under pressure. Example: Investors asked for transparency after the launch schedule changed twice.
+- to guarantee: to promise that something is certain or will happen. Because it creates a strong expectation, it should not be used casually. Example: The company could not guarantee that the first version would work offline.
+- stress ball: a small soft object squeezed in the hand to reduce anxiety. Example: Owen held a stress ball during the rehearsal and called it executive equipment.
+- to deny: to say that something is not true, or to refuse responsibility for it. In public statements, denial is a strong move because it may later be checked against evidence. Example: The spokesperson denied that the product had failed during testing.
+- to leave a door open: to avoid closing off a possibility completely. The expression can be literal, but in professional speech it usually means keeping options available. Example: The lawyer left a door open by saying the company was reviewing the issue.
+- countdown: a backward count toward a planned event, especially a launch. Example: The countdown made the apology feel alarmingly official.
+- branded: designed or labeled to fit a company's identity, colors, slogans, or public image. It can be neutral, but in the dialogue it sounds absurd because even an apology has been styled. Example: Even the emergency exit signs looked branded.
+- contingency asset: a prepared resource kept ready in case a possible problem happens. The phrase is deliberately corporate and emotionally cold, and it is not a standard business-English set phrase. "Contingency plan," "contingency fund," and "contingency reserve" are standard; Owen's pairing is a character invention. Example: Owen treated the apology as a contingency asset, like spare batteries or backup slides.
+- narrative arc: the shape of a story as it moves from beginning to development to resolution. In public relations, it can mean the planned story a company wants people to accept. Example: The sponsors wanted a narrative arc, not a messy explanation.
+- accountability: responsibility for actions, decisions, and consequences. It is stronger than simply saying "sorry" because it implies ownership of what happens next. Common collocations include "hold someone accountable for," "accept accountability," "demand accountability," "full accountability," and "lack of accountability." Example: Maya wanted accountability to mean truth, not a premium feature.
+- subscription feature: a service or benefit available only to paying subscribers. The phrase belongs to product pricing, which makes it comic when applied to ethics. Example: The joke lands because accountability should not be a subscription feature.
+
+## Comprehension Questions
+
+Choose the best answer for each question. The questions focus on what the speakers are doing with language, not only on the surface events.
+
+1. Why does Maya object to the wording "we are apologizing"?
+   A. It sounds too informal for investors.
+   B. It describes an ongoing mood rather than performing a formal apology.
+   C. It proves that the product has already failed.
+
+2. What does the calendar reveal near the end of the dialogue?
+   A. The apology is scheduled before the incident.
+   B. Legal has cancelled the product demo.
+   C. The sponsors have refused to attend.
+
+## Expressions And Other Meanings
+
+The verb "appear" can describe a state or an action. In the dialogue, Owen says investors like verbs that "appear busy." Here "appear" means "seem." It describes how something looks to observers, not an action performed on a stage or in public. In another context, "appear" can mean to take part in an event, a show, a court case, or a public setting: a musician appears at a festival, a witness appears in court, or a guest appears on a podcast. That action meaning can naturally use continuous forms: "She is appearing at the conference this week." The state meaning usually prefers the simple form: "The plan appears risky."
+
+This distinction is useful because many advanced mistakes happen when learners treat a verb as if it always behaves the same way. The better question is often: what does the verb mean in this sentence? "The device appears reliable" is a judgment of appearance, so the simple form is natural. "The director is appearing at the launch" is an event in someone's schedule, so the continuous form can be natural. The grammar follows the use.
+
+The expression "I am not denying" is also worth noticing. A direct "I deny it" is a strong performative statement: the speaker is making a denial. "I am not denying it" is softer and more strategic. It can leave space for a later admission, or signal that the speaker wants to control the interpretation without making a full confession. In the dialogue, Owen says, "I am not denying regret. I am shaping it." He is not making a clean denial. He is managing his public position. That is why Maya says the wording "leaves a door open and stands near it with a suitcase." Her image means the sentence is ready to escape.
+
+This is a common pattern in careful professional speech. A speaker may say, "I am not suggesting that..." before making a suggestion indirectly, or "I am not promising that..." before leaving hope alive. These forms can be polite, cautious, or evasive, depending on context. In Owen's mouth, the wording sounds evasive because he is trying to make regret useful without fully owning it.
+
+A useful test is to ask what risk the speaker is avoiding. "I deny" risks being contradicted. "I am not denying" avoids that risk while still controlling the listener's attention. That is why Maya hears it as a suitcase sentence: it is already packed for a later escape.
+
+## Register And Discourse Note
+
+This dialogue depends on a clash between official language and branding language. Maya speaks like someone who knows that public words can create obligations. When she hears "We apologize," she treats it as an institutional act. The company is not merely describing an emotion; it is doing something in public. That is why her objections are precise. She cares whether a sentence requests, acknowledges, promises, denies, or guarantees, because those verbs can carry legal and reputational force.
+
+Owen speaks in a polished corporate register, but his polished language hides panic. He calls an apology a "contingency asset" and describes accountability as part of a "narrative arc." These expressions sound strategic and professional, yet they also expose his distorted priority. He is not asking whether the product will work. He is asking whether the failure story will look active, timely, and sponsor-friendly.
+
+The tense choices support that comic engine. Simple forms present official actions or stable claims: "We request," "we acknowledge," "we promise," "Legal never leaves the room." Continuous forms present temporary states, developing attitudes, or carefully hedged positions: "the product is looking slightly nervous," "I am finding your concept less visionary," "I am not denying regret." The grammar lets the characters fight over whether a situation is real, temporary, official, or merely useful.
+
+In discourse analysis, a speaker's attitude toward the truth, force, or reliability of a statement is called stance. A firm stance commits; a hedged stance leaves room; a mitigated stance reduces force. Present-simple performatives often project a firm stance, while a negative continuous form such as "I am not denying" can project a hedged or mitigated stance. That is why Maya and Owen sound so different even when they are discussing the same event.
+
+The final reveal depends on discourse, not just plot. When Maya sees "Apology" scheduled before "Incident," the audience understands that Owen has treated responsibility as part of the launch design. His language has been preparing us for this: he prefers verbs that look active, treats regret as something to shape, and calls the apology a contingency asset. By the time he says accountability becomes a subscription feature, the wording is ridiculous but internally consistent. His register has already turned ethics into product management.
+
+For advanced speakers, that is the lesson beyond the tense contrast. Grammar choices do social work. They tell listeners whether you are committing, hedging, generalizing, reporting a temporary impression, or trying to control the story. In high-stakes professional English, those differences can be more important than the basic time reference.
+
+This is also why Maya's language feels severe without being emotional. She rarely says that she is angry. Instead, she chooses forms that make Owen's wording responsible for its consequences. Her precision becomes the pressure. Owen's language does the opposite: it makes responsibility feel movable, branded, and temporary.
+
+## Answers To The Questions
+
+1. B. It describes an ongoing mood rather than performing a formal apology.
+2. A. The apology is scheduled before the incident.

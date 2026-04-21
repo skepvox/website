@@ -1,7 +1,7 @@
 ---
 title: "Vox Español 001 - La boda es a las seis"
 description: "Guía de lección y transcripción del episodio 001 de Vox Español: La boda es a las seis, sobre el contraste entre ser y estar en identidad, lugar, estado y función temporal."
-outline: [2, 3]
+outline: 2
 head:
   - - link
     - rel: canonical
@@ -66,7 +66,7 @@ head:
 
 # Vox Español 001 - La boda es a las seis
 
-Esta página acompaña el episodio 001 de Vox Español, una serie skepvox de Thiago Oliveira para aprender español. Reúne la guía de aprendizaje, el diálogo y la transcripción completa.
+Esta página acompaña el episodio 001 de Vox Español, una serie skepvox de Thiago Oliveira para aprender español. Reúne la transcripción completa, el diálogo y la guía de aprendizaje.
 
 **Episodio:** La boda es a las seis
 
@@ -74,110 +74,15 @@ Esta página acompaña el episodio 001 de Vox Español, una serie skepvox de Thi
 
 **Enlace permanente:** <https://skepvox.com/podcast/espanol/001-la-boda-es-a-las-seis>
 
-## Guía de aprendizaje
+## Transcripción completa
 
-### Vocabulario
+Use las secciones siguientes para entrar directamente en la transcripción, en la versión lenta, en la explicación y en la repetición a velocidad natural.
 
-- **La boda civil**: ceremonia en la que dos personas se casan ante una autoridad civil. Ejemplo: La boda civil es breve, pero todos están muy emocionados.
-
-- **El salón**: sala grande de un restaurante o de un local para una celebración. Ejemplo: El salón está preparado para los invitados.
-
-- **Los novios**: las dos personas que se casan. También se usa para una pareja que mantiene una relación. Ejemplo: Los novios están nerviosos antes de la ceremonia.
-
-- **El funcionario**: persona que trabaja para una administración pública. En el diálogo, Diego es funcionario del registro civil. Ejemplo: El funcionario tiene el acta en su carpeta.
-
-- **El registro civil**: oficina pública relacionada con nacimientos, matrimonios y otros datos oficiales de las personas. Ejemplo: Diego viene del registro civil para celebrar la boda.
-
-- **El acta**: documento oficial que recoge un hecho importante. En una boda civil, el acta confirma la ceremonia. Aunque se dice `el acta` en singular, `acta` es femenino: `el acta firmada`, `las actas`. Ejemplo: El acta está en la carpeta de Diego.
-
-- **La tarta**: postre dulce que se sirve en celebraciones. En algunos países también se dice `pastel` o `torta`. Ejemplo: La tarta está inclinada y Marta la mira con miedo.
-
-- **Estar citado**: tener una cita o una hora acordada con alguien. Ejemplo: Diego está citado con los novios desde las cinco y media.
-
-- **Estar listo**: estar preparado para hacer algo o para que algo ocurra. Ejemplo: El salón está listo, pero la organización no está tranquila.
-
-- **Estar perdido**: no saber dónde se está o no estar en el lugar esperado. Ejemplo: El DJ está perdido y Marta está preocupada.
-
-- **Estar nervioso**: sentir tensión, preocupación o inquietud. Ejemplo: El novio está nervioso en la terraza.
-
-- **Ser de limón**: indicar de qué sabor o material es algo. Ejemplo: La tarta es de limón.
-
-- **Estar inclinado**: no estar recto; estar un poco hacia un lado. Ejemplo: La tarta está inclinada y Marta la mira con miedo.
-
-- **Estar de estilista**: actuar temporalmente como estilista, aunque esa no sea la profesión principal. Ejemplo: La hermana es médica, pero hoy está de estilista.
-
-- **El oficio**: trabajo, profesión o actividad habitual de una persona. Ejemplo: Hoy nadie es completamente de su oficio.
-
-- **El altar**: lugar principal de la ceremonia. En este diálogo, es el sitio donde Diego debe estar para casar a los novios. Ejemplo: Diego está en el altar al final.
-
-- **Las servilletas**: piezas de tela o papel que se usan en la mesa para limpiarse. Ejemplo: Las servilletas están en cajas.
-
-- **Soltero, soltera**: persona que no está casada. Marta juega con la palabra cuando dice que las servilletas están solteras. Ejemplo: Las servilletas están solteras porque todavía no están en las mesas.
-
-- **Estratégicamente localizado**: situado en un lugar por una razón práctica. Es una forma humorística de decir que alguien no está perdido. Ejemplo: Diego no está perdido; está estratégicamente localizado.
-
-- **Seguir allí**: continuar en el mismo lugar. Ejemplo: Si los novios siguen allí, la boda todavía es hoy.
-
-- **La crisis**: problema urgente que exige una solución rápida. Ejemplo: En la boda, cada esquina parece tener una crisis.
-
-Para estudiar este vocabulario, conviene separar tres grupos. El primer grupo habla de personas y funciones: `los novios`, `el funcionario`, `el registro civil`, `el oficio`. Con estas palabras, muchas frases usan `ser`, porque identifican a alguien o dicen cuál es su papel. Diego es funcionario; la hermana es médica; Marta no es la novia, sino la coordinadora.
-
-El segundo grupo habla de lugares: `el salón`, `el altar`, `la barra`, `la carpeta`, `el baño`. Con estos nombres aparece mucho `estar`, porque preguntamos dónde se encuentra algo o alguien. El ramo está en la barra, el acta está en la carpeta y Diego debe estar en el altar. La palabra no cambia, pero el verbo nos dice si identificamos algo o si localizamos algo.
-
-El tercer grupo habla de estado: `listo`, `perdido`, `nervioso`, `inclinado`, `ocupado`. Estas palabras muestran cómo está una persona, un objeto o una situación en un momento concreto. En el diálogo, casi todo está preparado y problemático al mismo tiempo. El salón está listo, pero el DJ está perdido; la tarta es de limón, pero está inclinada. Esa mezcla crea el humor.
-
-Una buena forma de practicar es tomar un sustantivo del diálogo y hacer dos frases. Primero, una frase con `ser`: la tarta es de limón, Diego es funcionario, la boda es a las seis. Después, una frase con `estar`: la tarta está inclinada, Diego está lejos de los novios, las servilletas están en cajas. Así se ve que el contraste no depende solo de la palabra aislada, sino de la pregunta que queremos responder. Si preguntamos qué es algo, quién es alguien o cuándo es un evento, normalmente aparece `ser`. Si preguntamos dónde está algo o cómo está ahora, normalmente aparece `estar`.
-
-### Preguntas de comprensión
-
-Responda después de escuchar el diálogo completo. Las preguntas no buscan detalles pequeños, sino la relación entre la situación cómica y el contraste entre `ser` y `estar`.
-
-1. ¿Quién es Diego realmente?
-
-   a. Es camarero del restaurante.  
-   b. Es funcionario del registro civil.  
-   c. Es el músico de la boda.
-
-2. ¿Por qué Marta se equivoca con Diego?
-
-   a. Porque solo piensa en las crisis prácticas del restaurante.  
-   b. Porque Diego no dice su nombre.  
-   c. Porque la boda ya terminó.
-
-Observe que las dos respuestas correctas dependen de la misma idea: Diego intenta explicar quién es, mientras Marta piensa en dónde está cada cosa y cómo está cada problema.
-
-### Expresiones y otros sentidos
-
-**Estar listo** y **ser listo** no son iguales. En el diálogo, el salón está listo. Esto significa que el salón está preparado: las mesas, las copas y el espacio están en condiciones para recibir a los invitados. En cambio, una persona que es lista tiene inteligencia o rapidez mental. Una persona también puede estar lista para salir, para empezar o para firmar un documento. En ese caso, hablamos de preparación, no de inteligencia. Por eso conviene mirar la situación: si hablamos de una cualidad general, normalmente usamos `ser`; si hablamos de preparación para una acción concreta, usamos `estar`.
-
-Algo parecido ocurre con **seguro**. Diego dice que no está seguro porque duda. No sabe si Marta entiende quién es. Una persona segura, con `ser`, puede ser una persona que transmite confianza o que no duda mucho. Pero una persona que está segura tiene certeza en ese momento. En una boda, muchas personas pueden ser responsables y, al mismo tiempo, no estar seguras de nada durante unos minutos.
-
-**Ser de** puede indicar origen, pertenencia, material, sabor o relación. En el diálogo, la tarta es de limón: hablamos del sabor. También podemos decir que una mesa es de madera, que una carpeta es de Diego o que una persona es de Sevilla. La estructura parece simple, pero es muy útil porque identifica algo. En cambio, cuando decimos que algo está en un lugar, no identificamos su material ni su origen; indicamos ubicación. La tarta es de limón, pero está inclinada. El acta es de la boda, pero está en la carpeta. Esta diferencia ayuda a separar identidad y estado.
-
-También aparece **estar de** con una función temporal: la hermana es médica, pero está de estilista. Su profesión no cambia por una tarde. Lo que cambia es su papel dentro de la crisis. Esta expresión es muy útil para situaciones provisionales: alguien está de responsable, está de conductor, está de ayudante o está de mediador de la familia, aunque ese no sea su oficio normal.
-
-### Nota cultural
-
-En muchas celebraciones de boda en España, la ceremonia y la fiesta pueden estar muy conectadas, aunque no sean exactamente lo mismo. Algunas parejas celebran una boda civil en un ayuntamiento, un juzgado, un registro o un espacio preparado para la ocasión, y después hacen la comida o la cena en un restaurante. En otras celebraciones, una autoridad o una persona autorizada puede participar en una ceremonia civil o simbólica en el mismo lugar de la fiesta. Por eso, en una boda puede haber muchas funciones al mismo tiempo: personal del restaurante, familiares que ayudan, fotógrafos, músicos, una persona que coordina el horario y una autoridad que formaliza la parte civil.
-
-El diálogo juega con ese ambiente. Marta ve un problema práctico en cada rincón: el salón está listo, pero el DJ está perdido; la tarta es de limón, pero está inclinada; los novios están nerviosos; las servilletas están en cajas. Diego intenta explicar su identidad profesional: él es funcionario del registro civil. Para él, lo importante es quién es y qué función tiene. Para Marta, lo urgente es dónde está cada persona y en qué estado está cada objeto. El humor nace de esa diferencia de prioridades. En una boda real, un pequeño retraso puede parecer enorme, porque todos miran el reloj y todos quieren que el momento sea perfecto.
-
-También aparece el trato de `usted`. Marta y Diego no se conocen, y la situación es formal. Usan cortesía, incluso cuando están tensos. Ese contraste es común: una conversación puede ser educada y, al mismo tiempo, muy urgente. La cortesía no elimina el caos; solo lo viste mejor.
-
-El episodio también muestra una diferencia práctica entre la organización ideal y la organización real. En teoría, cada persona tiene una función: el funcionario celebra la boda, el camarero atiende las mesas, el florista cuida las flores y la coordinadora organiza. En la práctica, cuando falta tiempo, todos ayudan donde pueden. Por eso Marta dice que nadie es completamente de su oficio. La frase exagera, pero se entiende: durante una celebración, una persona puede ser una cosa y estar haciendo otra. Esa tensión es perfecta para practicar `ser` y `estar` sin salir de una escena cotidiana.
-
-### Respuestas a las preguntas
-
-1. b. Diego es funcionario del registro civil.  
-2. a. Marta solo piensa en las crisis prácticas del restaurante.
-
-## Guión completo
-
-### Introducción
+## Introducción
 
 Bienvenidos a Podcast de español como lengua extranjera. Hoy escucharemos un diálogo en una boda civil que está a punto de empezar, aunque casi nadie parece estar en el lugar correcto. Marta coordina la celebración en un restaurante. Diego llega para la ceremonia, pero Marta lo interpreta como otra persona disponible para resolver problemas. La gramática central es el contraste entre `ser` y `estar`: quién es una persona, cuál es su oficio, dónde está alguien, cómo está algo y en qué estado se encuentra la situación. Escuchen también el tono de cortesía: Marta y Diego usan `usted`, pero la urgencia está en cada frase. Diego intenta decir quién es, mientras Marta solo piensa en dónde está cada crisis. Vamos allá.
 
-### Diálogo - versión lenta
+## Diálogo - versión lenta
 
 [inicio del diálogo]
 
@@ -219,7 +124,7 @@ Diego: Perfecto. Si los novios siguen allí, la boda todavía es hoy.
 
 [fin del diálogo]
 
-### Explicación
+## Explicación
 
 Vamos a recorrer el diálogo paso a paso. La escena parece simple: una boda va a empezar y hay mucha prisa. Pero la prisa es precisamente lo que hace útil la gramática. Marta necesita saber dónde está cada persona y cómo está cada objeto. Diego necesita decir quién es. Esa diferencia nos lleva al contraste entre `ser` y `estar`.
 
@@ -279,7 +184,7 @@ En el diálogo, la gramática no está pegada desde fuera. La necesita la situac
 
 Ahora escuchemos el diálogo, esta vez a velocidad natural.
 
-### Diálogo - velocidad natural
+## Diálogo - velocidad natural
 
 [inicio del diálogo]
 
@@ -321,6 +226,105 @@ Diego: Perfecto. Si los novios siguen allí, la boda todavía es hoy.
 
 [fin del diálogo]
 
-### Conclusión
+## Conclusión
 
 Hoy hemos visto cómo `ser` y `estar` cambian la manera de presentar una situación. Diego es funcionario, pero está lejos de los novios. La boda es a las seis, pero casi todo está fuera de sitio. Repasen el diálogo fijándose en dos preguntas: ¿quién es cada persona?, y ¿dónde o cómo está cada cosa? Si pueden responder a esas dos preguntas, ya tienen una buena parte del contraste. Hasta la próxima, y que su español sea claro, aunque la tarta esté inclinada.
+
+## Guía de aprendizaje
+
+Las secciones siguientes reúnen el vocabulario, las preguntas de comprensión, las notas de uso y las respuestas.
+
+## Vocabulario
+
+- **La boda civil**: ceremonia en la que dos personas se casan ante una autoridad civil. Ejemplo: La boda civil es breve, pero todos están muy emocionados.
+
+- **El salón**: sala grande de un restaurante o de un local para una celebración. Ejemplo: El salón está preparado para los invitados.
+
+- **Los novios**: las dos personas que se casan. También se usa para una pareja que mantiene una relación. Ejemplo: Los novios están nerviosos antes de la ceremonia.
+
+- **El funcionario**: persona que trabaja para una administración pública. En el diálogo, Diego es funcionario del registro civil. Ejemplo: El funcionario tiene el acta en su carpeta.
+
+- **El registro civil**: oficina pública relacionada con nacimientos, matrimonios y otros datos oficiales de las personas. Ejemplo: Diego viene del registro civil para celebrar la boda.
+
+- **El acta**: documento oficial que recoge un hecho importante. En una boda civil, el acta confirma la ceremonia. Aunque se dice `el acta` en singular, `acta` es femenino: `el acta firmada`, `las actas`. Ejemplo: El acta está en la carpeta de Diego.
+
+- **La tarta**: postre dulce que se sirve en celebraciones. En algunos países también se dice `pastel` o `torta`. Ejemplo: La tarta está inclinada y Marta la mira con miedo.
+
+- **Estar citado**: tener una cita o una hora acordada con alguien. Ejemplo: Diego está citado con los novios desde las cinco y media.
+
+- **Estar listo**: estar preparado para hacer algo o para que algo ocurra. Ejemplo: El salón está listo, pero la organización no está tranquila.
+
+- **Estar perdido**: no saber dónde se está o no estar en el lugar esperado. Ejemplo: El DJ está perdido y Marta está preocupada.
+
+- **Estar nervioso**: sentir tensión, preocupación o inquietud. Ejemplo: El novio está nervioso en la terraza.
+
+- **Ser de limón**: indicar de qué sabor o material es algo. Ejemplo: La tarta es de limón.
+
+- **Estar inclinado**: no estar recto; estar un poco hacia un lado. Ejemplo: La tarta está inclinada y Marta la mira con miedo.
+
+- **Estar de estilista**: actuar temporalmente como estilista, aunque esa no sea la profesión principal. Ejemplo: La hermana es médica, pero hoy está de estilista.
+
+- **El oficio**: trabajo, profesión o actividad habitual de una persona. Ejemplo: Hoy nadie es completamente de su oficio.
+
+- **El altar**: lugar principal de la ceremonia. En este diálogo, es el sitio donde Diego debe estar para casar a los novios. Ejemplo: Diego está en el altar al final.
+
+- **Las servilletas**: piezas de tela o papel que se usan en la mesa para limpiarse. Ejemplo: Las servilletas están en cajas.
+
+- **Soltero, soltera**: persona que no está casada. Marta juega con la palabra cuando dice que las servilletas están solteras. Ejemplo: Las servilletas están solteras porque todavía no están en las mesas.
+
+- **Estratégicamente localizado**: situado en un lugar por una razón práctica. Es una forma humorística de decir que alguien no está perdido. Ejemplo: Diego no está perdido; está estratégicamente localizado.
+
+- **Seguir allí**: continuar en el mismo lugar. Ejemplo: Si los novios siguen allí, la boda todavía es hoy.
+
+- **La crisis**: problema urgente que exige una solución rápida. Ejemplo: En la boda, cada esquina parece tener una crisis.
+
+Para estudiar este vocabulario, conviene separar tres grupos. El primer grupo habla de personas y funciones: `los novios`, `el funcionario`, `el registro civil`, `el oficio`. Con estas palabras, muchas frases usan `ser`, porque identifican a alguien o dicen cuál es su papel. Diego es funcionario; la hermana es médica; Marta no es la novia, sino la coordinadora.
+
+El segundo grupo habla de lugares: `el salón`, `el altar`, `la barra`, `la carpeta`, `el baño`. Con estos nombres aparece mucho `estar`, porque preguntamos dónde se encuentra algo o alguien. El ramo está en la barra, el acta está en la carpeta y Diego debe estar en el altar. La palabra no cambia, pero el verbo nos dice si identificamos algo o si localizamos algo.
+
+El tercer grupo habla de estado: `listo`, `perdido`, `nervioso`, `inclinado`, `ocupado`. Estas palabras muestran cómo está una persona, un objeto o una situación en un momento concreto. En el diálogo, casi todo está preparado y problemático al mismo tiempo. El salón está listo, pero el DJ está perdido; la tarta es de limón, pero está inclinada. Esa mezcla crea el humor.
+
+Una buena forma de practicar es tomar un sustantivo del diálogo y hacer dos frases. Primero, una frase con `ser`: la tarta es de limón, Diego es funcionario, la boda es a las seis. Después, una frase con `estar`: la tarta está inclinada, Diego está lejos de los novios, las servilletas están en cajas. Así se ve que el contraste no depende solo de la palabra aislada, sino de la pregunta que queremos responder. Si preguntamos qué es algo, quién es alguien o cuándo es un evento, normalmente aparece `ser`. Si preguntamos dónde está algo o cómo está ahora, normalmente aparece `estar`.
+
+## Preguntas de comprensión
+
+Responda después de escuchar el diálogo completo. Las preguntas no buscan detalles pequeños, sino la relación entre la situación cómica y el contraste entre `ser` y `estar`.
+
+1. ¿Quién es Diego realmente?
+
+   a. Es camarero del restaurante.
+   b. Es funcionario del registro civil.
+   c. Es el músico de la boda.
+
+2. ¿Por qué Marta se equivoca con Diego?
+
+   a. Porque solo piensa en las crisis prácticas del restaurante.
+   b. Porque Diego no dice su nombre.
+   c. Porque la boda ya terminó.
+
+Observe que las dos respuestas correctas dependen de la misma idea: Diego intenta explicar quién es, mientras Marta piensa en dónde está cada cosa y cómo está cada problema.
+
+## Expresiones y otros sentidos
+
+**Estar listo** y **ser listo** no son iguales. En el diálogo, el salón está listo. Esto significa que el salón está preparado: las mesas, las copas y el espacio están en condiciones para recibir a los invitados. En cambio, una persona que es lista tiene inteligencia o rapidez mental. Una persona también puede estar lista para salir, para empezar o para firmar un documento. En ese caso, hablamos de preparación, no de inteligencia. Por eso conviene mirar la situación: si hablamos de una cualidad general, normalmente usamos `ser`; si hablamos de preparación para una acción concreta, usamos `estar`.
+
+Algo parecido ocurre con **seguro**. Diego dice que no está seguro porque duda. No sabe si Marta entiende quién es. Una persona segura, con `ser`, puede ser una persona que transmite confianza o que no duda mucho. Pero una persona que está segura tiene certeza en ese momento. En una boda, muchas personas pueden ser responsables y, al mismo tiempo, no estar seguras de nada durante unos minutos.
+
+**Ser de** puede indicar origen, pertenencia, material, sabor o relación. En el diálogo, la tarta es de limón: hablamos del sabor. También podemos decir que una mesa es de madera, que una carpeta es de Diego o que una persona es de Sevilla. La estructura parece simple, pero es muy útil porque identifica algo. En cambio, cuando decimos que algo está en un lugar, no identificamos su material ni su origen; indicamos ubicación. La tarta es de limón, pero está inclinada. El acta es de la boda, pero está en la carpeta. Esta diferencia ayuda a separar identidad y estado.
+
+También aparece **estar de** con una función temporal: la hermana es médica, pero está de estilista. Su profesión no cambia por una tarde. Lo que cambia es su papel dentro de la crisis. Esta expresión es muy útil para situaciones provisionales: alguien está de responsable, está de conductor, está de ayudante o está de mediador de la familia, aunque ese no sea su oficio normal.
+
+## Nota cultural
+
+En muchas celebraciones de boda en España, la ceremonia y la fiesta pueden estar muy conectadas, aunque no sean exactamente lo mismo. Algunas parejas celebran una boda civil en un ayuntamiento, un juzgado, un registro o un espacio preparado para la ocasión, y después hacen la comida o la cena en un restaurante. En otras celebraciones, una autoridad o una persona autorizada puede participar en una ceremonia civil o simbólica en el mismo lugar de la fiesta. Por eso, en una boda puede haber muchas funciones al mismo tiempo: personal del restaurante, familiares que ayudan, fotógrafos, músicos, una persona que coordina el horario y una autoridad que formaliza la parte civil.
+
+El diálogo juega con ese ambiente. Marta ve un problema práctico en cada rincón: el salón está listo, pero el DJ está perdido; la tarta es de limón, pero está inclinada; los novios están nerviosos; las servilletas están en cajas. Diego intenta explicar su identidad profesional: él es funcionario del registro civil. Para él, lo importante es quién es y qué función tiene. Para Marta, lo urgente es dónde está cada persona y en qué estado está cada objeto. El humor nace de esa diferencia de prioridades. En una boda real, un pequeño retraso puede parecer enorme, porque todos miran el reloj y todos quieren que el momento sea perfecto.
+
+También aparece el trato de `usted`. Marta y Diego no se conocen, y la situación es formal. Usan cortesía, incluso cuando están tensos. Ese contraste es común: una conversación puede ser educada y, al mismo tiempo, muy urgente. La cortesía no elimina el caos; solo lo viste mejor.
+
+El episodio también muestra una diferencia práctica entre la organización ideal y la organización real. En teoría, cada persona tiene una función: el funcionario celebra la boda, el camarero atiende las mesas, el florista cuida las flores y la coordinadora organiza. En la práctica, cuando falta tiempo, todos ayudan donde pueden. Por eso Marta dice que nadie es completamente de su oficio. La frase exagera, pero se entiende: durante una celebración, una persona puede ser una cosa y estar haciendo otra. Esa tensión es perfecta para practicar `ser` y `estar` sin salir de una escena cotidiana.
+
+## Respuestas a las preguntas
+
+1. b. Diego es funcionario del registro civil.
+2. a. Marta solo piensa en las crisis prácticas del restaurante.

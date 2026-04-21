@@ -1,7 +1,7 @@
 ---
 title: "Vox Español 002 - La sartén está ocupada"
 description: "Guía de lección y transcripción del episodio 002 de Vox Español: La sartén está ocupada, sobre el contraste entre ser y estar en objetos, personas, lugares y estados temporales."
-outline: [2, 3]
+outline: 2
 head:
   - - link
     - rel: canonical
@@ -66,7 +66,7 @@ head:
 
 # Vox Español 002 - La sartén está ocupada
 
-Esta página acompaña el episodio 002 de Vox Español, una serie skepvox de Thiago Oliveira para aprender español. Reúne la guía de aprendizaje, el diálogo y la transcripción completa.
+Esta página acompaña el episodio 002 de Vox Español, una serie skepvox de Thiago Oliveira para aprender español. Reúne la transcripción completa, el diálogo y la guía de aprendizaje.
 
 **Episodio:** La sartén está ocupada
 
@@ -74,120 +74,15 @@ Esta página acompaña el episodio 002 de Vox Español, una serie skepvox de Thi
 
 **Enlace permanente:** <https://skepvox.com/podcast/espanol/002-la-sarten-esta-ocupada>
 
-## Guía de aprendizaje
+## Transcripción completa
 
-### Vocabulario
+Use las secciones siguientes para entrar directamente en la transcripción, en la versión lenta, en la explicación y en la repetición a velocidad natural.
 
-- **El concurso**: actividad organizada para elegir la mejor opción entre varias. En el diálogo, el concurso es de tortilla. Ejemplo: El concurso es a las ocho y todos están pendientes de la mesa.
-
-- **La tortilla**: plato muy común hecho con huevo y, normalmente, patata. Puede llevar cebolla o no, según el gusto de cada persona. Ejemplo: La tortilla clásica es de patata y cebolla.
-
-- **La sartén**: utensilio de cocina, normalmente redondo y con mango, que sirve para freír o cocinar alimentos. Ejemplo: Oscar busca una sartén negra con mango rojo. En este episodio usamos la forma habitual en España: `la sartén`. En algunas zonas de Hispanoamérica también se oye `el sartén`.
-
-- **El jurado**: persona o grupo que evalúa y decide quién gana un concurso. Ejemplo: Marina cree que Oscar es jurado.
-
-- **El suplente**: persona que ocupa temporalmente el lugar de otra cuando falta. Ejemplo: El jurado anterior está enfermo y el suplente está perdido.
-
-- **El centro de barrio**: local de uso comunitario donde se hacen reuniones, cursos, fiestas o actividades vecinales. Ejemplo: El concurso se celebra en un centro de barrio.
-
-- **La libreta**: cuaderno pequeño para escribir notas. Ejemplo: Oscar usa la libreta para apuntar dónde busca la sartén.
-
-- **El mango**: parte alargada por donde se agarra una sartén, una taza o una herramienta. Ejemplo: La sartén tiene un mango rojo.
-
-- **La marca**: señal que identifica o distingue un objeto. Ejemplo: La sartén tiene una marca cerca del mango.
-
-- **Estar listo, lista**: estar preparado para una acción o una situación. Ejemplo: Las tortillas están listas antes del concurso.
-
-- **Estar frío, fría**: tener una temperatura baja o haber perdido calor. Ejemplo: La tortilla está un poco fría porque la presidenta habló demasiado.
-
-- **Estar jugoso, jugosa**: tener humedad o textura agradable, especialmente en la comida. Ejemplo: La tortilla moderna está jugosa.
-
-- **Estar raro, rara**: tener un aspecto, sabor o comportamiento que llama la atención. Ejemplo: La tortilla número tres está rara, pero Marina la defiende.
-
-- **Ser de hierro**: estar hecho de hierro, un material fuerte y pesado. Ejemplo: La sartén es de hierro.
-
-- **Ser de alguien**: pertenecer a una persona. Ejemplo: Oscar insiste en que la sartén es suya.
-
-- **Estar sobre**: encontrarse encima de algo. Ejemplo: La tortilla favorita está sobre una sartén negra.
-
-- **Estar debajo**: encontrarse en una posición inferior a otra cosa. Ejemplo: La cena de Oscar está debajo del prestigio gastronómico del barrio.
-
-- **El pedestal**: base que sirve para elevar o mostrar un objeto. Ejemplo: La sartén no es un pedestal, pero sirve de pedestal improvisado para darle altura a la tortilla favorita.
-
-- **El fallo**: decisión final de un jurado. Ejemplo: Marina dice que Oscar ya es parte del fallo. En otros contextos, `fallo` puede ser un error o una avería: un fallo del sistema, un fallo de memoria. Aquí el contexto del concurso fija el sentido.
-
-- **El vecindario**: conjunto de vecinos de una zona. Ejemplo: Todo el vecindario mira la tortilla ganadora.
-
-- **Técnicamente**: según una norma, una definición o una interpretación precisa. Ejemplo: Si Oscar retira la sartén, la tortilla estará técnicamente en el suelo.
-
-Este vocabulario forma tres grupos útiles. El primer grupo habla de personas y roles: `jurado`, `suplente`, `vecino`, `presidenta`. Con estas palabras usamos mucho `ser`, porque identificamos a alguien o decimos qué papel tiene. Marina cree que Oscar es jurado; Oscar dice que es vecino.
-
-El segundo grupo habla de objetos y materia: `sartén`, `mango`, `marca`, `pedestal`. Aquí aparecen frases como `la sartén es de hierro` y `la sartén es mía`. No hablamos de dónde está, sino de qué es, de qué material está hecha o a quién pertenece.
-
-El tercer grupo habla de ubicación y estado: `estar sobre`, `estar debajo`, `estar lista`, `estar fría`, `estar rara`. En el diálogo, casi todo depende de dónde está la sartén y cómo están las tortillas. La tortilla favorita está sobre la sartén; la sartén está ocupada; Oscar está allí por un motivo muy diferente del que Marina imagina.
-
-Una práctica útil es transformar una misma escena en preguntas pequeñas. ¿Quién es la persona? Oscar es vecino. ¿Qué es el objeto? Es una sartén. ¿De qué es? Es de hierro. ¿De quién es? Es de Oscar. ¿Dónde está? Está sobre la mesa, debajo de una tortilla. ¿Cómo está? Está ocupada. Si separa las preguntas, el contraste entre los verbos deja de parecer una regla abstracta y empieza a parecer una herramienta para ordenar la situación.
-
-También conviene escuchar los objetos como si fueran personajes secundarios. La libreta no es importante por sí sola; está en la mano de Oscar y cambia la interpretación de Marina. La sartén no cambia de dueño, pero cambia de función. La tortilla no habla, pero está en una posición social delicada: si pierde altura, pierde presencia delante del vecindario.
-
-Para repasar, elija cinco nombres del diálogo y escriba una frase con `ser` y otra con `estar`. Por ejemplo: la sartén es de hierro, pero está sobre la mesa.
-
-### Preguntas de comprensión
-
-Responda después de escuchar el diálogo completo. Las preguntas ayudan a comprobar si entendió la situación y el malentendido.
-
-1. ¿Por qué Oscar está en el centro de barrio?
-
-   a. Porque es el jurado principal del concurso.
-   b. Porque busca una sartén negra que dejó allí.
-   c. Porque es el suplente del jurado y llega tarde.
-
-2. ¿Por qué Marina no quiere que Oscar retire la sartén inmediatamente?
-
-   a. Porque la sartén está debajo de la tortilla favorita y funciona como soporte.
-   b. Porque la sartén es de la presidenta.
-   c. Porque el concurso ya terminó.
-
-Las dos respuestas correctas muestran el centro del humor: Oscar habla de propiedad y ubicación, mientras Marina piensa en presentación, concurso y vecindario.
-
-### Expresiones y otros sentidos
-
-**Estar ocupada** puede tener varios sentidos. Una persona está ocupada cuando tiene mucho trabajo o no tiene tiempo libre. Una silla está ocupada cuando alguien la usa o la reserva. En el diálogo, la sartén está ocupada de una manera cómica: no tiene trabajo, claro, pero está sirviendo de soporte para una tortilla. No está libre para volver a la casa de Oscar. Su función temporal crea el problema.
-
-La palabra **libre** funciona bien para ver el contraste. Una silla está libre cuando nadie la usa. Una sartén está libre cuando puede volver a la cocina de su dueño. Pero una persona libre puede tener independencia o permiso para decidir. En el diálogo, la sartén no está libre: está atrapada en la lógica del concurso. No es una prisión real, pero para Oscar la situación se parece mucho a una retención injusta.
-
-**Ser de** también es muy flexible. Puede hablar de material: la sartén es de hierro. Puede hablar de propiedad: la sartén es de Oscar, o es suya. Puede hablar de origen: una persona es de un barrio o de una ciudad. Puede hablar de sabor o composición: una tortilla es de patata y cebolla. La estructura parece pequeña, pero en el diálogo ayuda mucho porque Oscar no solo busca una sartén; busca una sartén concreta, con material, color, mango, marca y dueño.
-
-**Estar sobre** y **estar debajo** son expresiones de posición. No identifican el objeto, sino su lugar. La tortilla favorita está sobre una sartén negra. La cena de Oscar, en una imagen humorística, está debajo del prestigio gastronómico del barrio. La frase exagera, pero se entiende: una necesidad privada queda atrapada bajo un evento público.
-
-**Estar lista** y **ser lista** no son iguales. Una tortilla está lista cuando ya se puede presentar o comer. Una persona lista, en cambio, puede ser inteligente o rápida mentalmente. En este episodio, interesa sobre todo `estar lista`: las tortillas están preparadas para el concurso. La preparación es temporal y depende del momento.
-
-**Estar bueno** y **ser bueno** también cambian según el contexto. Oscar dice que la tortilla `está buena`: habla del sabor de esa tortilla concreta, en ese momento. `Ser bueno` puede hablar de una cualidad más general: una persona es buena por su carácter, una herramienta es buena si funciona bien, y una idea es buena si resulta útil. Algo parecido ocurre con `rico`: una tortilla puede estar rica por su sabor, pero una persona rica tiene mucho dinero.
-
-### Nota cultural
-
-La tortilla de patata es un plato muy cotidiano en España, pero también puede ser motivo de debates intensos. Una discusión clásica es si debe llevar cebolla o no. Otra discusión puede ser si debe estar más cuajada o más jugosa. En muchas familias, bares, asociaciones o fiestas locales, cada persona tiene una idea muy clara de lo que es una buena tortilla. Por eso un concurso de tortilla es un contexto perfecto para una escena pequeña y cómica: parece una actividad sencilla, pero todos la toman con una seriedad particular.
-
-Los centros de barrio, asociaciones vecinales y locales comunitarios suelen organizar actividades muy variadas: talleres, charlas, fiestas, comidas, rifas, cursos y concursos. Son espacios donde la organización oficial y la improvisación conviven. Hay carteles, mesas, horarios y personas responsables, pero también aparecen problemas de último minuto: falta un jurado, alguien trae una silla de más, una mesa está baja, una tortilla necesita altura o una sartén aparece en el lugar menos esperado.
-
-El diálogo juega con ese ambiente. Marina necesita que el concurso siga adelante y ve en Oscar una solución. Oscar, en cambio, no llega para participar: llega para recuperar un objeto suyo. La escena funciona porque en un espacio comunitario los objetos privados pueden volverse públicos por accidente. Una sartén puede ser de Oscar, pero estar sobre una mesa y servir como pedestal. La propiedad no cambia, pero la situación sí.
-
-También es importante el trato de `usted`. Marina trata a Oscar con cortesía porque lo imagina como jurado. Si lo tratara como vecino conocido, diría: `Tú eres Oscar, ¿verdad?` El uso de `usted` nace del malentendido: Marina trata a Oscar como autoridad del concurso. Esa formalidad hace que la confusión sea más divertida: los dos hablan de manera educada, pero no hablan de la misma cosa. Marina escucha criterio gastronómico donde Oscar solo describe una sartén. Oscar escucha organización de concurso donde él necesita una cena. La cortesía no elimina la confusión; la mantiene limpia y socialmente plausible.
-
-La escena también muestra cómo un objeto puede cambiar de valor según el contexto. En una cocina, la sartén es una herramienta normal. En el centro de barrio, sobre una mesa baja, se convierte en solución técnica. Para Oscar es propiedad personal; para Marina es parte de la presentación. Ninguna de las dos miradas es completamente absurda, y por eso el conflicto puede crecer sin romper la naturalidad de la escena.
-
-### Respuestas a las preguntas
-
-1. b. Oscar busca una sartén negra.
-2. a. La sartén sostiene la tortilla favorita.
-
-## Guión completo
-
-### Introducción
+## Introducción
 
 Bienvenidos a Podcast de español como lengua extranjera. Hoy escucharemos un diálogo en un centro de barrio, justo antes de un concurso de tortilla. Marina organiza el concurso y necesita un jurado. Oscar llega con una libreta, pero no viene a evaluar tortillas: viene a buscar una sartén negra que dejó allí el día anterior. La gramática central vuelve a ser el contraste entre `ser` y `estar`: quién es Oscar, qué es una sartén, de quién es, dónde está y en qué estado están las tortillas. Escuchen también el trato de `usted`, porque Marina habla con respeto mientras se equivoca de persona. El humor está en un objeto privado que, por accidente, se vuelve parte pública del concurso. Vamos allá.
 
-### Diálogo - versión lenta
+## Diálogo - versión lenta
 
 [inicio del diálogo]
 
@@ -227,7 +122,7 @@ Marina: En ese caso, usted no es jurado, pero es parte del fallo: si retira la s
 
 [fin del diálogo]
 
-### Explicación
+## Explicación
 
 Vamos a recorrer el diálogo con calma. La escena tiene dos líneas que avanzan al mismo tiempo. Para Marina, Oscar es probablemente el jurado que necesita. Para Oscar, Marina es la persona que puede ayudarlo a encontrar una sartén. El malentendido funciona porque los dos usan palabras muy concretas, pero las interpretan desde necesidades diferentes. Marina oye evaluación; Oscar habla de propiedad y ubicación.
 
@@ -297,7 +192,7 @@ Antes de escuchar otra vez, fíjense en tres líneas. Primero: `No soy jurado. S
 
 Ahora escuchemos el diálogo, esta vez a velocidad natural.
 
-### Diálogo - velocidad natural
+## Diálogo - velocidad natural
 
 [inicio del diálogo]
 
@@ -337,6 +232,115 @@ Marina: En ese caso, usted no es jurado, pero es parte del fallo: si retira la s
 
 [fin del diálogo]
 
-### Conclusión
+## Conclusión
 
 Hoy hemos visto cómo `ser` y `estar` pueden ordenar una escena entera. Oscar es vecino, la sartén es de hierro y es suya; pero la sartén está sobre la mesa, está ocupada y está sosteniendo una tortilla demasiado importante. Repasen el diálogo fijándose en tres preguntas: ¿quién es cada persona?, ¿de quién es cada objeto?, y ¿dónde o cómo está ahora? Hasta la próxima, cuiden sus sartenes sin perder el mango, y que su español esté listo, aunque la sartén esté ocupada.
+
+## Guía de aprendizaje
+
+Las secciones siguientes reúnen el vocabulario, las preguntas de comprensión, las notas de uso y las respuestas.
+
+## Vocabulario
+
+- **El concurso**: actividad organizada para elegir la mejor opción entre varias. En el diálogo, el concurso es de tortilla. Ejemplo: El concurso es a las ocho y todos están pendientes de la mesa.
+
+- **La tortilla**: plato muy común hecho con huevo y, normalmente, patata. Puede llevar cebolla o no, según el gusto de cada persona. Ejemplo: La tortilla clásica es de patata y cebolla.
+
+- **La sartén**: utensilio de cocina, normalmente redondo y con mango, que sirve para freír o cocinar alimentos. Ejemplo: Oscar busca una sartén negra con mango rojo. En este episodio usamos la forma habitual en España: `la sartén`. En algunas zonas de Hispanoamérica también se oye `el sartén`.
+
+- **El jurado**: persona o grupo que evalúa y decide quién gana un concurso. Ejemplo: Marina cree que Oscar es jurado.
+
+- **El suplente**: persona que ocupa temporalmente el lugar de otra cuando falta. Ejemplo: El jurado anterior está enfermo y el suplente está perdido.
+
+- **El centro de barrio**: local de uso comunitario donde se hacen reuniones, cursos, fiestas o actividades vecinales. Ejemplo: El concurso se celebra en un centro de barrio.
+
+- **La libreta**: cuaderno pequeño para escribir notas. Ejemplo: Oscar usa la libreta para apuntar dónde busca la sartén.
+
+- **El mango**: parte alargada por donde se agarra una sartén, una taza o una herramienta. Ejemplo: La sartén tiene un mango rojo.
+
+- **La marca**: señal que identifica o distingue un objeto. Ejemplo: La sartén tiene una marca cerca del mango.
+
+- **Estar listo, lista**: estar preparado para una acción o una situación. Ejemplo: Las tortillas están listas antes del concurso.
+
+- **Estar frío, fría**: tener una temperatura baja o haber perdido calor. Ejemplo: La tortilla está un poco fría porque la presidenta habló demasiado.
+
+- **Estar jugoso, jugosa**: tener humedad o textura agradable, especialmente en la comida. Ejemplo: La tortilla moderna está jugosa.
+
+- **Estar raro, rara**: tener un aspecto, sabor o comportamiento que llama la atención. Ejemplo: La tortilla número tres está rara, pero Marina la defiende.
+
+- **Ser de hierro**: estar hecho de hierro, un material fuerte y pesado. Ejemplo: La sartén es de hierro.
+
+- **Ser de alguien**: pertenecer a una persona. Ejemplo: Oscar insiste en que la sartén es suya.
+
+- **Estar sobre**: encontrarse encima de algo. Ejemplo: La tortilla favorita está sobre una sartén negra.
+
+- **Estar debajo**: encontrarse en una posición inferior a otra cosa. Ejemplo: La cena de Oscar está debajo del prestigio gastronómico del barrio.
+
+- **El pedestal**: base que sirve para elevar o mostrar un objeto. Ejemplo: La sartén no es un pedestal, pero sirve de pedestal improvisado para darle altura a la tortilla favorita.
+
+- **El fallo**: decisión final de un jurado. Ejemplo: Marina dice que Oscar ya es parte del fallo. En otros contextos, `fallo` puede ser un error o una avería: un fallo del sistema, un fallo de memoria. Aquí el contexto del concurso fija el sentido.
+
+- **El vecindario**: conjunto de vecinos de una zona. Ejemplo: Todo el vecindario mira la tortilla ganadora.
+
+- **Técnicamente**: según una norma, una definición o una interpretación precisa. Ejemplo: Si Oscar retira la sartén, la tortilla estará técnicamente en el suelo.
+
+Este vocabulario forma tres grupos útiles. El primer grupo habla de personas y roles: `jurado`, `suplente`, `vecino`, `presidenta`. Con estas palabras usamos mucho `ser`, porque identificamos a alguien o decimos qué papel tiene. Marina cree que Oscar es jurado; Oscar dice que es vecino.
+
+El segundo grupo habla de objetos y materia: `sartén`, `mango`, `marca`, `pedestal`. Aquí aparecen frases como `la sartén es de hierro` y `la sartén es mía`. No hablamos de dónde está, sino de qué es, de qué material está hecha o a quién pertenece.
+
+El tercer grupo habla de ubicación y estado: `estar sobre`, `estar debajo`, `estar lista`, `estar fría`, `estar rara`. En el diálogo, casi todo depende de dónde está la sartén y cómo están las tortillas. La tortilla favorita está sobre la sartén; la sartén está ocupada; Oscar está allí por un motivo muy diferente del que Marina imagina.
+
+Una práctica útil es transformar una misma escena en preguntas pequeñas. ¿Quién es la persona? Oscar es vecino. ¿Qué es el objeto? Es una sartén. ¿De qué es? Es de hierro. ¿De quién es? Es de Oscar. ¿Dónde está? Está sobre la mesa, debajo de una tortilla. ¿Cómo está? Está ocupada. Si separa las preguntas, el contraste entre los verbos deja de parecer una regla abstracta y empieza a parecer una herramienta para ordenar la situación.
+
+También conviene escuchar los objetos como si fueran personajes secundarios. La libreta no es importante por sí sola; está en la mano de Oscar y cambia la interpretación de Marina. La sartén no cambia de dueño, pero cambia de función. La tortilla no habla, pero está en una posición social delicada: si pierde altura, pierde presencia delante del vecindario.
+
+Para repasar, elija cinco nombres del diálogo y escriba una frase con `ser` y otra con `estar`. Por ejemplo: la sartén es de hierro, pero está sobre la mesa.
+
+## Preguntas de comprensión
+
+Responda después de escuchar el diálogo completo. Las preguntas ayudan a comprobar si entendió la situación y el malentendido.
+
+1. ¿Por qué Oscar está en el centro de barrio?
+
+   a. Porque es el jurado principal del concurso.
+   b. Porque busca una sartén negra que dejó allí.
+   c. Porque es el suplente del jurado y llega tarde.
+
+2. ¿Por qué Marina no quiere que Oscar retire la sartén inmediatamente?
+
+   a. Porque la sartén está debajo de la tortilla favorita y funciona como soporte.
+   b. Porque la sartén es de la presidenta.
+   c. Porque el concurso ya terminó.
+
+Las dos respuestas correctas muestran el centro del humor: Oscar habla de propiedad y ubicación, mientras Marina piensa en presentación, concurso y vecindario.
+
+## Expresiones y otros sentidos
+
+**Estar ocupada** puede tener varios sentidos. Una persona está ocupada cuando tiene mucho trabajo o no tiene tiempo libre. Una silla está ocupada cuando alguien la usa o la reserva. En el diálogo, la sartén está ocupada de una manera cómica: no tiene trabajo, claro, pero está sirviendo de soporte para una tortilla. No está libre para volver a la casa de Oscar. Su función temporal crea el problema.
+
+La palabra **libre** funciona bien para ver el contraste. Una silla está libre cuando nadie la usa. Una sartén está libre cuando puede volver a la cocina de su dueño. Pero una persona libre puede tener independencia o permiso para decidir. En el diálogo, la sartén no está libre: está atrapada en la lógica del concurso. No es una prisión real, pero para Oscar la situación se parece mucho a una retención injusta.
+
+**Ser de** también es muy flexible. Puede hablar de material: la sartén es de hierro. Puede hablar de propiedad: la sartén es de Oscar, o es suya. Puede hablar de origen: una persona es de un barrio o de una ciudad. Puede hablar de sabor o composición: una tortilla es de patata y cebolla. La estructura parece pequeña, pero en el diálogo ayuda mucho porque Oscar no solo busca una sartén; busca una sartén concreta, con material, color, mango, marca y dueño.
+
+**Estar sobre** y **estar debajo** son expresiones de posición. No identifican el objeto, sino su lugar. La tortilla favorita está sobre una sartén negra. La cena de Oscar, en una imagen humorística, está debajo del prestigio gastronómico del barrio. La frase exagera, pero se entiende: una necesidad privada queda atrapada bajo un evento público.
+
+**Estar lista** y **ser lista** no son iguales. Una tortilla está lista cuando ya se puede presentar o comer. Una persona lista, en cambio, puede ser inteligente o rápida mentalmente. En este episodio, interesa sobre todo `estar lista`: las tortillas están preparadas para el concurso. La preparación es temporal y depende del momento.
+
+**Estar bueno** y **ser bueno** también cambian según el contexto. Oscar dice que la tortilla `está buena`: habla del sabor de esa tortilla concreta, en ese momento. `Ser bueno` puede hablar de una cualidad más general: una persona es buena por su carácter, una herramienta es buena si funciona bien, y una idea es buena si resulta útil. Algo parecido ocurre con `rico`: una tortilla puede estar rica por su sabor, pero una persona rica tiene mucho dinero.
+
+## Nota cultural
+
+La tortilla de patata es un plato muy cotidiano en España, pero también puede ser motivo de debates intensos. Una discusión clásica es si debe llevar cebolla o no. Otra discusión puede ser si debe estar más cuajada o más jugosa. En muchas familias, bares, asociaciones o fiestas locales, cada persona tiene una idea muy clara de lo que es una buena tortilla. Por eso un concurso de tortilla es un contexto perfecto para una escena pequeña y cómica: parece una actividad sencilla, pero todos la toman con una seriedad particular.
+
+Los centros de barrio, asociaciones vecinales y locales comunitarios suelen organizar actividades muy variadas: talleres, charlas, fiestas, comidas, rifas, cursos y concursos. Son espacios donde la organización oficial y la improvisación conviven. Hay carteles, mesas, horarios y personas responsables, pero también aparecen problemas de último minuto: falta un jurado, alguien trae una silla de más, una mesa está baja, una tortilla necesita altura o una sartén aparece en el lugar menos esperado.
+
+El diálogo juega con ese ambiente. Marina necesita que el concurso siga adelante y ve en Oscar una solución. Oscar, en cambio, no llega para participar: llega para recuperar un objeto suyo. La escena funciona porque en un espacio comunitario los objetos privados pueden volverse públicos por accidente. Una sartén puede ser de Oscar, pero estar sobre una mesa y servir como pedestal. La propiedad no cambia, pero la situación sí.
+
+También es importante el trato de `usted`. Marina trata a Oscar con cortesía porque lo imagina como jurado. Si lo tratara como vecino conocido, diría: `Tú eres Oscar, ¿verdad?` El uso de `usted` nace del malentendido: Marina trata a Oscar como autoridad del concurso. Esa formalidad hace que la confusión sea más divertida: los dos hablan de manera educada, pero no hablan de la misma cosa. Marina escucha criterio gastronómico donde Oscar solo describe una sartén. Oscar escucha organización de concurso donde él necesita una cena. La cortesía no elimina la confusión; la mantiene limpia y socialmente plausible.
+
+La escena también muestra cómo un objeto puede cambiar de valor según el contexto. En una cocina, la sartén es una herramienta normal. En el centro de barrio, sobre una mesa baja, se convierte en solución técnica. Para Oscar es propiedad personal; para Marina es parte de la presentación. Ninguna de las dos miradas es completamente absurda, y por eso el conflicto puede crecer sin romper la naturalidad de la escena.
+
+## Respuestas a las preguntas
+
+1. b. Oscar busca una sartén negra.
+2. a. La sartén sostiene la tortilla favorita.

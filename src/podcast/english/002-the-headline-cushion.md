@@ -1,7 +1,7 @@
 ---
 title: "Vox English 002 - The Headline Cushion"
 description: "Lesson guide and transcript for episode 002 of Vox English: The Headline Cushion, on headline present simple, reported-news phrases, and present continuous in workplace English."
-outline: [2, 3]
+outline: 2
 head:
   - - link
     - rel: canonical
@@ -66,7 +66,7 @@ head:
 
 # Vox English 002 - The Headline Cushion
 
-This page accompanies episode 002 of Vox English, a skepvox series by Thiago Oliveira for advanced English learners. It brings together the learning guide, dialogue, and full transcript.
+This page accompanies episode 002 of Vox English, a skepvox series by Thiago Oliveira for advanced English learners. It brings together the full transcript, dialogue, and learning guide.
 
 **Episode:** The Headline Cushion
 
@@ -74,89 +74,11 @@ This page accompanies episode 002 of Vox English, a skepvox series by Thiago Oli
 
 **Permanent link:** <https://skepvox.com/podcast/english/002-the-headline-cushion>
 
-## Learning Guide
+## Full transcript
 
-### Vocabulary
+Use the sections below to jump straight into the episode transcript, slow replay, explanation, and natural-speed replay.
 
-- internal update: a message sent inside an organization, usually to employees or a team, rather than to the public. It often explains decisions, changes, or problems in a controlled way. Example: The internal update explained the new reporting structure before the public announcement.
-- headline: the short title of a news story, article, or announcement. Headlines often use compact grammar and strong verbs because they must signal the main event quickly, with little room for hedging or explanation. Example: The headline said "Board Reviews Strategy," although the meeting had lasted only ten minutes.
-- present simple: a verb form used for facts, routines, headlines, summaries, live commentary, and certain reporting phrases. It can make an event sound concise, official, or generally true. Example: The update says the board supports the transition.
-- present continuous: a verb form with "be" plus an -ing verb, often used for actions happening now, temporary situations, or repeated behavior that feels characteristic. Example: The bakery is calling again because Nolan is changing the order.
-- under board supervision: being watched, guided, or controlled by a company's board of directors. Example: The founder drafted the message under board supervision after the investors asked for clarity.
-- humane: showing care for people's feelings or dignity. In the dialogue, Nolan uses it to defend a headline that is emotionally soft but not very precise. The adjective is stressed on the second syllable, hu-MANE; the related noun "human" is stressed on the first syllable, HU-man. Example: The editor wanted accurate wording, not merely humane wording.
-- accountability: responsibility for decisions, actions, and consequences. It is stronger than sounding sorry because it implies ownership. In this institutional sense, accountability, governance, and transparency are usually uncountable: a company needs accountability, not "an accountability." Example: The board asked for accountability after the failed launch.
-- governance: the system by which an organization is directed, controlled, and held responsible. Example: Free pastries may improve the mood, but they do not create governance.
-- transparency: openness and clarity about what is happening or why a decision was made. Example: Employees asked for transparency after the leadership meeting.
-- see-through: physically clear enough to see through, or figuratively too obvious to hide its purpose. Example: The explanation was so see-through that everyone noticed what it avoided.
-- sourced: supported by information from a known person, document, or authority. Example: Ava calls Nolan's complaint sourced because she knows who said it.
-- to gather: to understand or learn something indirectly, often from signs, reports, or what people have told you. Example: I gather the board wants a shorter statement.
-- fingerprints on a sentence: a figurative way to say that a person can be identified as responsible for particular wording. Example: Nobody wanted fingerprints on the sentence about budget cuts.
-- mystical: mysterious in a spiritual or unclear way. Ava uses it to criticize Nolan's vague headline style. Example: The plan sounded mystical when it should have sounded operational.
-- Human Resources: the department that manages employment matters, staffing, policies, and workplace procedures. Example: Human Resources was waiting outside with a folder.
-- fatal: causing death, or more generally, causing serious failure. In ordinary speech, "fatal" can be used with dry exaggeration. Example: Nolan says Ava makes folders sound fatal.
-- stationery: paper, envelopes, folders, and other office writing materials. This noun is easy to confuse in writing with "stationary," an adjective meaning not moving; the noun for office supplies ends in -ery. Example: He joked that a sandwich inside a folder would be brave with stationery.
-- leadership transition: a change from one leader to another, often managed carefully to reduce uncertainty. Example: The company prepared a leadership transition after the board vote.
-- legal exposure: the risk that a person or organization may face legal claims, penalties, or liability. Example: The pastry names seemed harmless until Nolan ranked them by legal exposure.
-- to step aside: to leave a role or stop leading, often in a softer or more voluntary-sounding way than "step down." Example: The chair stepped aside while the investigation continued.
-- to step down: to leave an official position or resign from a role. In a headline, it sounds clear and institutional. Example: "Founder Steps Down" tells readers that the role has changed.
-- draft tracker: a system or document that shows versions of a text as they are edited, approved, or published. Example: The draft tracker revealed that the board version had already gone live.
-- interim role: a temporary role held until a permanent successor is named. Example: Ava takes the interim role while the board searches for a new chief executive.
-- board version: the version of a document approved or preferred by the board. Example: The scheduler published the board version before Nolan finished arguing about the headline.
-- scheduler: a tool or system that sends a message at a planned time. It can make a draft public automatically if the settings are already approved. Example: The scheduler published the update while Nolan was still trying to soften the headline.
-- gracious: polite, generous, and dignified, especially in a difficult situation. Example: The former founder was expected to write a gracious note to the team.
-- to imply liability: to suggest that someone may be legally responsible for harm, loss, or wrongdoing. "Imply" and "infer" are often confused: speakers, texts, and actions imply; listeners and readers infer. Example: Ava worries that the croissant wording might imply liability.
-- to cushion: to soften the effect of something unpleasant or difficult. In this episode, Nolan wants headlines to cushion a leadership transition, while Ava wants them to state the event clearly. Example: The announcement tried to cushion the bad news with warm language.
-
-### Comprehension Questions
-
-Choose the best answer for each question. The questions focus on how the speakers use language, not only on what happens.
-
-1. Why does Ava object to "Company Discovers Feelings"?
-   A. It sounds too short for an internal update.
-   B. It treats a leadership crisis like emotional branding rather than news.
-   C. It gives too much information about the board.
-
-2. What does Ava reveal about the internal update near the end?
-   A. Nolan has approved Ava's softer headline.
-   B. Human Resources has cancelled the update.
-   C. The board version has already published Ava's interim role.
-
-### Expressions And Other Meanings
-
-"To step down" usually means to leave an official position. It is common in news, company announcements, and public statements: a minister steps down, a chair steps down, a founder steps down. The expression is clear, but it is not necessarily harsh. It says the role is ending or changing. In the dialogue, Ava likes "Founder Steps Down" because it gives employees the essential fact without asking them to decode a softer story.
-
-"To step aside" is related, but it can sound more temporary, polite, or strategic. A person may step aside during an investigation, while another person takes responsibility for a project, or to make room for someone else. Nolan wants "Founder Steps Aside" because it sounds less final. He even jokes that it sounds as if he trips politely. That joke depends on the literal image of stepping and the public-relations use of the phrase.
-
-"To step into" something usually means to begin a new role, situation, or phase: a manager steps into a new position, or a team steps into a difficult period. Nolan proposes "Founder Steps Into New Chapter" because he wants the change to sound literary and inevitable. The wording avoids saying that he is losing authority. It creates movement, but not accountability. That is why Ava resists it.
-
-"It says here" can introduce information from a text, screen, report, or published statement. It can sound neutral: the speaker points to a source rather than claiming the information personally. "I hear" and "I gather" introduce information received indirectly. "I hear" can sound like news has reached the speaker. "I gather" often suggests that the speaker has understood something from clues or reports. These phrases are useful, but they also manage responsibility. They let a speaker bring information into the conversation while keeping some distance from the source.
-
-That distance matters in the final turn. Ava says, "I hear you are available to write a gracious note from the former founder." She is not merely giving Nolan a task. She is using a sourced-sounding phrase to mark the new hierarchy. The wording is polite, but the implication is firm: the headline has already made him the former founder.
-
-The expression "to have movement" is also useful. Nolan says a headline has movement because he wants it to sound active and forward-looking. In writing feedback, "movement" can mean that an idea develops or that a sentence has energy. But movement is not the same as clarity. A sentence can move gracefully in the wrong direction. In this scene, Nolan keeps asking whether the wording feels active, while Ava asks whether it tells employees what happened.
-
-### Register And Discourse Note
-
-The dialogue depends on a register clash. Nolan uses a polished, therapeutic corporate style. He wants headlines to soften the emotional impact of the crisis: "Founder Reflects," "Future Smiles," "Founder Steps Into New Chapter." His verbs suggest movement, warmth, and optimism, but they avoid the central event. He is trying to make the transition feel like a story about growth rather than a change in power.
-
-Ava speaks in an editorial and institutional register. She cares about what a headline commits the organization to saying. For her, "Board Reviews Leadership Structure" is acceptable because it is concise and attached to an actual event. "Everyone Breathes Normally" is not acceptable because it sounds like reassurance under pressure. Her language is dry, but it is not vague. She keeps moving the conversation back to what the company can responsibly claim.
-
-The grammar supports the power shift. Headline present simple makes recent events sound official and compact: "Board Reviews Leadership Structure," "Founder Steps Down," "Ava Takes Interim Role." These forms do not include all the background detail. They compress the event into a public claim. That is why they can feel powerful. Nolan wants the comfort of headline style without the commitment of headline meaning.
-
-Reported-news phrases also shape stance. When Nolan says "I hear," "I gather," and "I understand," he is half joking, but he is also testing ways to introduce information without owning it fully. These are hedging phrases that mark indirect source: the information enters the room, but the speaker signals distance from it. Ava recognizes that this distance can be useful because the speaker does not leave fingerprints on every word. Later, she uses the same kind of phrase against him. "I hear you are available..." sounds gentle, but it completes the transfer of authority.
-
-The final reveal works because the language has already been doing institutional work. The published headline does not merely describe Ava's interim role. In the workplace context, it helps make that role socially real. Nolan has spent the dialogue trying to cushion the headline. Ava has understood from the beginning that the headline is the event.
-
-This is why the comedy is more sophisticated than a simple joke about office language. Both speakers understand professional English, but they value different effects. Nolan values emotional softness, attractive motion, and phrases that reduce the shock of the transition. Ava values source, verb choice, and institutional consequence. Their disagreement is not about grammar labels. It is about what a sentence permits, conceals, and makes official.
-
-### Answers To The Questions
-
-1. B. It treats a leadership crisis like emotional branding rather than news.
-2. C. The board version has already published Ava's interim role.
-
-## Complete Script
-
-### Introduction
+## Introduction
 
 Welcome to English as a Foreign Language Podcast. In this episode, we will listen to a conversation between Ava, an internal editor, and Nolan, a company founder. The company is preparing an internal update during a leadership crisis. Nolan wants the headlines to sound warm, humane, and a little less final. Ava wants the language to say what has happened.
 
@@ -164,7 +86,7 @@ Our grammar focus is the present simple and the present continuous in advanced u
 
 Let's get started.
 
-### Dialogue - slow version
+## Dialogue - slow version
 
 [start of dialogue]
 
@@ -208,7 +130,7 @@ Ava: You do. And I hear you are available to write a gracious note from the form
 
 [end of dialogue]
 
-### Explanation
+## Explanation
 
 Ava begins with a refusal: "The internal update cannot say 'Company Discovers Feelings.'" This is a good opening because it immediately shows the difference between a headline that reports an event and a headline that tries to manage emotion. In a company, an internal update is not just casual conversation. It is a controlled message sent to employees. It tells people what has happened, what is changing, and what they are supposed to understand. Ava hears Nolan's proposed headline as too vague and too therapeutic. A company does not "discover feelings" in the same way it reviews a leadership structure or announces a transition.
 
@@ -280,7 +202,7 @@ When you listen again, notice how Ava wins the argument by understanding what th
 
 Now let's listen to the dialogue, this time at a normal speed.
 
-### Dialogue - natural speed
+## Dialogue - natural speed
 
 [start of dialogue]
 
@@ -324,8 +246,90 @@ Ava: You do. And I hear you are available to write a gracious note from the form
 
 [end of dialogue]
 
-### Conclusion
+## Conclusion
 
 That's all for this episode of English as a Foreign Language Podcast. Today we looked at headline present simple, reported-news phrases, present continuous for repeated irritating behavior, and the way grammar can shape authority in a workplace message.
 
 When you read or write concise professional English, notice what the verb is doing socially. Is it reporting an event, introducing a source, cushioning a decision, or making a role official? A small present-tense choice can carry a surprisingly large folder. Until next time, keep your verbs employed, but make sure they are doing the job you actually hired them for.
+
+## Learning Guide
+
+The study sections below review the vocabulary, comprehension questions, usage notes, and answer key.
+
+## Vocabulary
+
+- internal update: a message sent inside an organization, usually to employees or a team, rather than to the public. It often explains decisions, changes, or problems in a controlled way. Example: The internal update explained the new reporting structure before the public announcement.
+- headline: the short title of a news story, article, or announcement. Headlines often use compact grammar and strong verbs because they must signal the main event quickly, with little room for hedging or explanation. Example: The headline said "Board Reviews Strategy," although the meeting had lasted only ten minutes.
+- present simple: a verb form used for facts, routines, headlines, summaries, live commentary, and certain reporting phrases. It can make an event sound concise, official, or generally true. Example: The update says the board supports the transition.
+- present continuous: a verb form with "be" plus an -ing verb, often used for actions happening now, temporary situations, or repeated behavior that feels characteristic. Example: The bakery is calling again because Nolan is changing the order.
+- under board supervision: being watched, guided, or controlled by a company's board of directors. Example: The founder drafted the message under board supervision after the investors asked for clarity.
+- humane: showing care for people's feelings or dignity. In the dialogue, Nolan uses it to defend a headline that is emotionally soft but not very precise. The adjective is stressed on the second syllable, hu-MANE; the related noun "human" is stressed on the first syllable, HU-man. Example: The editor wanted accurate wording, not merely humane wording.
+- accountability: responsibility for decisions, actions, and consequences. It is stronger than sounding sorry because it implies ownership. In this institutional sense, accountability, governance, and transparency are usually uncountable: a company needs accountability, not "an accountability." Example: The board asked for accountability after the failed launch.
+- governance: the system by which an organization is directed, controlled, and held responsible. Example: Free pastries may improve the mood, but they do not create governance.
+- transparency: openness and clarity about what is happening or why a decision was made. Example: Employees asked for transparency after the leadership meeting.
+- see-through: physically clear enough to see through, or figuratively too obvious to hide its purpose. Example: The explanation was so see-through that everyone noticed what it avoided.
+- sourced: supported by information from a known person, document, or authority. Example: Ava calls Nolan's complaint sourced because she knows who said it.
+- to gather: to understand or learn something indirectly, often from signs, reports, or what people have told you. Example: I gather the board wants a shorter statement.
+- fingerprints on a sentence: a figurative way to say that a person can be identified as responsible for particular wording. Example: Nobody wanted fingerprints on the sentence about budget cuts.
+- mystical: mysterious in a spiritual or unclear way. Ava uses it to criticize Nolan's vague headline style. Example: The plan sounded mystical when it should have sounded operational.
+- Human Resources: the department that manages employment matters, staffing, policies, and workplace procedures. Example: Human Resources was waiting outside with a folder.
+- fatal: causing death, or more generally, causing serious failure. In ordinary speech, "fatal" can be used with dry exaggeration. Example: Nolan says Ava makes folders sound fatal.
+- stationery: paper, envelopes, folders, and other office writing materials. This noun is easy to confuse in writing with "stationary," an adjective meaning not moving; the noun for office supplies ends in -ery. Example: He joked that a sandwich inside a folder would be brave with stationery.
+- leadership transition: a change from one leader to another, often managed carefully to reduce uncertainty. Example: The company prepared a leadership transition after the board vote.
+- legal exposure: the risk that a person or organization may face legal claims, penalties, or liability. Example: The pastry names seemed harmless until Nolan ranked them by legal exposure.
+- to step aside: to leave a role or stop leading, often in a softer or more voluntary-sounding way than "step down." Example: The chair stepped aside while the investigation continued.
+- to step down: to leave an official position or resign from a role. In a headline, it sounds clear and institutional. Example: "Founder Steps Down" tells readers that the role has changed.
+- draft tracker: a system or document that shows versions of a text as they are edited, approved, or published. Example: The draft tracker revealed that the board version had already gone live.
+- interim role: a temporary role held until a permanent successor is named. Example: Ava takes the interim role while the board searches for a new chief executive.
+- board version: the version of a document approved or preferred by the board. Example: The scheduler published the board version before Nolan finished arguing about the headline.
+- scheduler: a tool or system that sends a message at a planned time. It can make a draft public automatically if the settings are already approved. Example: The scheduler published the update while Nolan was still trying to soften the headline.
+- gracious: polite, generous, and dignified, especially in a difficult situation. Example: The former founder was expected to write a gracious note to the team.
+- to imply liability: to suggest that someone may be legally responsible for harm, loss, or wrongdoing. "Imply" and "infer" are often confused: speakers, texts, and actions imply; listeners and readers infer. Example: Ava worries that the croissant wording might imply liability.
+- to cushion: to soften the effect of something unpleasant or difficult. In this episode, Nolan wants headlines to cushion a leadership transition, while Ava wants them to state the event clearly. Example: The announcement tried to cushion the bad news with warm language.
+
+## Comprehension Questions
+
+Choose the best answer for each question. The questions focus on how the speakers use language, not only on what happens.
+
+1. Why does Ava object to "Company Discovers Feelings"?
+   A. It sounds too short for an internal update.
+   B. It treats a leadership crisis like emotional branding rather than news.
+   C. It gives too much information about the board.
+
+2. What does Ava reveal about the internal update near the end?
+   A. Nolan has approved Ava's softer headline.
+   B. Human Resources has cancelled the update.
+   C. The board version has already published Ava's interim role.
+
+## Expressions And Other Meanings
+
+"To step down" usually means to leave an official position. It is common in news, company announcements, and public statements: a minister steps down, a chair steps down, a founder steps down. The expression is clear, but it is not necessarily harsh. It says the role is ending or changing. In the dialogue, Ava likes "Founder Steps Down" because it gives employees the essential fact without asking them to decode a softer story.
+
+"To step aside" is related, but it can sound more temporary, polite, or strategic. A person may step aside during an investigation, while another person takes responsibility for a project, or to make room for someone else. Nolan wants "Founder Steps Aside" because it sounds less final. He even jokes that it sounds as if he trips politely. That joke depends on the literal image of stepping and the public-relations use of the phrase.
+
+"To step into" something usually means to begin a new role, situation, or phase: a manager steps into a new position, or a team steps into a difficult period. Nolan proposes "Founder Steps Into New Chapter" because he wants the change to sound literary and inevitable. The wording avoids saying that he is losing authority. It creates movement, but not accountability. That is why Ava resists it.
+
+"It says here" can introduce information from a text, screen, report, or published statement. It can sound neutral: the speaker points to a source rather than claiming the information personally. "I hear" and "I gather" introduce information received indirectly. "I hear" can sound like news has reached the speaker. "I gather" often suggests that the speaker has understood something from clues or reports. These phrases are useful, but they also manage responsibility. They let a speaker bring information into the conversation while keeping some distance from the source.
+
+That distance matters in the final turn. Ava says, "I hear you are available to write a gracious note from the former founder." She is not merely giving Nolan a task. She is using a sourced-sounding phrase to mark the new hierarchy. The wording is polite, but the implication is firm: the headline has already made him the former founder.
+
+The expression "to have movement" is also useful. Nolan says a headline has movement because he wants it to sound active and forward-looking. In writing feedback, "movement" can mean that an idea develops or that a sentence has energy. But movement is not the same as clarity. A sentence can move gracefully in the wrong direction. In this scene, Nolan keeps asking whether the wording feels active, while Ava asks whether it tells employees what happened.
+
+## Register And Discourse Note
+
+The dialogue depends on a register clash. Nolan uses a polished, therapeutic corporate style. He wants headlines to soften the emotional impact of the crisis: "Founder Reflects," "Future Smiles," "Founder Steps Into New Chapter." His verbs suggest movement, warmth, and optimism, but they avoid the central event. He is trying to make the transition feel like a story about growth rather than a change in power.
+
+Ava speaks in an editorial and institutional register. She cares about what a headline commits the organization to saying. For her, "Board Reviews Leadership Structure" is acceptable because it is concise and attached to an actual event. "Everyone Breathes Normally" is not acceptable because it sounds like reassurance under pressure. Her language is dry, but it is not vague. She keeps moving the conversation back to what the company can responsibly claim.
+
+The grammar supports the power shift. Headline present simple makes recent events sound official and compact: "Board Reviews Leadership Structure," "Founder Steps Down," "Ava Takes Interim Role." These forms do not include all the background detail. They compress the event into a public claim. That is why they can feel powerful. Nolan wants the comfort of headline style without the commitment of headline meaning.
+
+Reported-news phrases also shape stance. When Nolan says "I hear," "I gather," and "I understand," he is half joking, but he is also testing ways to introduce information without owning it fully. These are hedging phrases that mark indirect source: the information enters the room, but the speaker signals distance from it. Ava recognizes that this distance can be useful because the speaker does not leave fingerprints on every word. Later, she uses the same kind of phrase against him. "I hear you are available..." sounds gentle, but it completes the transfer of authority.
+
+The final reveal works because the language has already been doing institutional work. The published headline does not merely describe Ava's interim role. In the workplace context, it helps make that role socially real. Nolan has spent the dialogue trying to cushion the headline. Ava has understood from the beginning that the headline is the event.
+
+This is why the comedy is more sophisticated than a simple joke about office language. Both speakers understand professional English, but they value different effects. Nolan values emotional softness, attractive motion, and phrases that reduce the shock of the transition. Ava values source, verb choice, and institutional consequence. Their disagreement is not about grammar labels. It is about what a sentence permits, conceals, and makes official.
+
+## Answers To The Questions
+
+1. B. It treats a leadership crisis like emotional branding rather than news.
+2. C. The board version has already published Ava's interim role.

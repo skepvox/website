@@ -1,7 +1,7 @@
 ---
 title: "Vox Français 004 — Le studio calme"
 description: "Guide de leçon et transcription de l’épisode 004 de Vox Français : Le studio calme, sur l’accord de l’adjectif."
-outline: [2, 3]
+outline: 2
 head:
   - - link
     - rel: canonical
@@ -63,122 +63,25 @@ head:
 
 # Vox Français 004 — Le studio calme
 
-Cette page accompagne l’épisode 004 de Vox Français, une série skepvox de Thiago Oliveira pour apprendre le français. Elle réunit le guide d’apprentissage, le dialogue et la transcription complète.
+Cette page accompagne l’épisode 004 de Vox Français, une série skepvox de Thiago Oliveira pour apprendre le français. Elle réunit la transcription complète, le dialogue et le guide d’apprentissage.
 
-**Épisode :** Le studio calme
+**Épisode:** Le studio calme
 
-**Point principal :** l’accord de l’adjectif au masculin, au féminin, au singulier et au pluriel
+**Point principal:** Accord de l'adjectif au masculin, au féminin, au singulier, au pluriel, et avec je, tu, vous et on.
 
-**Lien permanent :** <https://skepvox.com/podcast/francais/004-le-studio-calme>
+**Lien permanent:** <https://skepvox.com/podcast/francais/004-le-studio-calme>
 
-## Guide d'apprentissage
+## Transcription complète
 
-### Vocabulaire
+Utilisez les sections suivantes pour accéder directement à la transcription, au dialogue lent, à l’explication et à la reprise à vitesse naturelle.
 
-**un studio** : Un studio est un petit logement avec une pièce principale. Souvent, la cuisine est dans la même pièce, ou dans un coin séparé. Le mot est très fréquent dans les annonces immobilières, surtout pour une personne seule ou un étudiant. Exemple : Sophie fait visiter un studio à Marc.
-
-**une pièce** : Une pièce est un espace dans un logement : une chambre, un salon, une cuisine, une salle de bains. Dans un studio, la pièce principale sert souvent à plusieurs choses. Exemple : Marc trouve que la pièce semblait grande sur les photos.
-
-**lumineux / lumineuse** : Un lieu lumineux reçoit beaucoup de lumière. L'adjectif change avec le nom : un studio lumineux, une pièce lumineuse. Exemple : Sophie dit que le studio est petit, mais lumineux.
-
-**calme** : Calme décrit un lieu sans beaucoup de bruit, ou une personne tranquille. Cet adjectif garde la même forme au masculin et au féminin : un voisin calme, une voisine calme. Au pluriel, on écrit calmes. Exemple : La cour est calme le matin.
-
-**une cour** : Une cour est un espace extérieur, souvent au centre ou à l'arrière d'un immeuble. Elle peut être calme si elle est loin de la rue. Exemple : Sophie présente la cour comme un avantage du studio.
-
-**une annonce** : Une annonce présente un logement, un objet, un emploi ou un service. Elle choisit souvent des mots positifs et courts, parce qu'elle doit attirer l'attention rapidement. Il faut donc lire les adjectifs avec précision. Exemple : L'annonce du studio promet un lieu calme et sérieux.
-
-**optimiste** : Une personne optimiste voit les choses de façon positive. Une photo optimiste montre parfois un logement sous son meilleur angle. Exemple : Sophie dit que les photos sont optimistes.
-
-**organisé / organisée** : Une personne organisée range bien ses affaires et prépare les documents nécessaires. L'adjectif s'accorde avec la personne. Dans le dialogue, Sophie utilise ce mot avec Marc, parce que l'espace du studio demande une vraie méthode. Exemple : Dans une petite pièce, il faut être très organisé.
-
-**un mur** : Un mur sépare ou ferme un espace. Dans un logement ancien, les murs peuvent être épais, proches ou irréguliers. Marc parle des murs comme s'ils avaient une personnalité, ce qui crée une partie de l'humour. Exemple : Marc trouve que les murs sont proches et anciens.
-
-**ancien / ancienne** : Ancien décrit quelque chose qui n'est pas récent. Au féminin, la forme change : une porte ancienne, une maison ancienne. Dans ancienne, on entend le n. Exemple : Les murs du studio sont anciens.
-
-**nouveau / nouvelle** : Nouveau décrit quelque chose qui vient d'être changé, ajouté ou acheté. Au féminin, on dit nouvelle. Exemple : Les fenêtres sont nouvelles.
-
-**discret / discrète** : Une personne discrète ne fait pas beaucoup de bruit et ne se met pas trop en avant. Le t final devient audible au féminin. Exemple : Le propriétaire cherche une personne discrète.
-
-**ouvert / ouverte** : Ouvert décrit quelque chose qui n'est pas fermé. Une cuisine ouverte communique avec la pièce principale. Au féminin, le t final devient audible : ouvert, ouverte. Exemple : La cuisine est ouverte sur la pièce.
-
-**un placard** : Un placard est un espace fermé pour ranger des vêtements, de la vaisselle ou des affaires. Exemple : Sophie présente les placards comme profonds.
-
-**profond / profonde** : Profond décrit un espace qui va loin vers l'intérieur. Au féminin, le d final devient audible. Exemple : Les placards sont profonds.
-
-**pratique** : Pratique signifie utile et facile à utiliser au quotidien. Cet adjectif a la même forme au masculin et au féminin. Exemple : Un studio peut être petit, mais pratique.
-
-**sérieux / sérieuse** : Sérieux décrit une personne fiable, ou une situation qui demande de l'attention. Au féminin, on dit sérieuse, avec un son z. Le mot peut aussi qualifier un dossier, un travail ou une promesse, mais il semble bizarre pour un studio. Exemple : L'annonce cherche une personne sérieuse.
-
-**un dossier** : Un dossier est un ensemble de documents. Pour louer un logement, on peut présenter des pièces d'identité, des justificatifs et des informations financières. Un dossier complet rassure le propriétaire, mais il ne garantit pas toujours une bonne impression pendant la visite. Exemple : Le dossier de Marc est complet.
-
-**soigneux / soigneuse** : Une personne soigneuse fait attention aux objets et garde les choses en bon état. Exemple : Le propriétaire aime les locataires calmes et soigneux.
-
-**silencieux / silencieuse** : Silencieux décrit quelqu'un ou quelque chose qui fait peu de bruit. Exemple : Après vingt-deux heures, le propriétaire préfère les locataires silencieux.
-
-**les charges** : Les charges sont des frais liés au logement, par exemple l'entretien, l'eau ou certains services. Exemple : Sophie dit que les charges sont raisonnables.
-
-**raisonnable** : Raisonnable signifie acceptable, mesuré, pas excessif. Cet adjectif garde la même forme au masculin et au féminin. Exemple : Les charges sont raisonnables.
-
-### Questions de compréhension
-
-1. Pourquoi Marc comprend-il mal l'annonce du studio ?
-
-A. Il pense que certains adjectifs décrivent seulement le logement.
-B. Il confond Sophie avec la propriétaire.
-C. Il croit que le studio est déjà loué.
-
-Relisez les répliques autour de `studio calme, sérieux, idéal pour personne discrète`.
-
-2. Pourquoi Sophie hésite-t-elle à choisir Marc ?
-
-A. Son dossier est incomplet.
-B. Il a insulté plusieurs éléments du studio pendant la visite.
-C. Il refuse de visiter la salle de bains.
-
-La réponse apparaît quand Sophie parle des murs, de la porte et de la cuisine.
-
-### Expressions et autres sens
-
-**Un dossier complet** est une expression très utile dans les démarches administratives. Un dossier est complet quand il contient toutes les pièces demandées. Pour un logement, cela peut inclure une pièce d'identité, des justificatifs de revenus, une attestation ou d'autres documents. Le mot complet peut aussi s'utiliser dans d'autres contextes : un formulaire complet, une réponse complète, un repas complet. Il s'accorde comme un adjectif ordinaire : un dossier complet, une demande complète, des dossiers complets.
-
-Dans le dialogue, Sophie dit que le dossier de Marc est complet. C'est une bonne nouvelle. Mais ce n'est pas suffisant. La scène devient drôle parce que le dossier administratif est complet, tandis que l'impression sociale est moins solide. Marc a les documents nécessaires, mais il donne beaucoup trop d'avis sur les murs, la porte et la cuisine. Il est complet sur le papier, pas forcément discret dans la pièce.
-
-On peut aussi employer complet pour une personne ou pour une situation : je suis complet se dit parfois d'un restaurant ou d'un hôtel qui n'a plus de place, mais dans une conversation ordinaire on dira plutôt le restaurant est complet. Le contexte décide donc si complet parle d'un document, d'un lieu ou d'une disponibilité.
-
-**Une personne discrète** peut désigner une personne qui parle peu, qui ne dérange pas les autres, ou qui ne cherche pas à attirer l'attention. Le mot peut être positif : une personne discrète respecte l'espace des autres. Il peut aussi être utilisé dans une annonce ou une demande, pour dire : nous voulons quelqu'un de calme, stable, facile à vivre. Attention à l'accord : un voisin discret, une voisine discrète, des locataires discrets, des personnes discrètes.
-
-Dans le dialogue, Marc croit d'abord que `personne discrète` pourrait être une voisine charmante. Il transforme une condition de location en personnage imaginaire. Sophie corrige calmement : l'expression décrit le profil souhaité. Cette petite confusion permet de faire travailler l'accord de l'adjectif, mais aussi le sens social des mots.
-
-Discret ne signifie pas forcément timide. Une personne discrète peut parler normalement, mais elle sait quand ne pas prendre toute la place. Dans le dialogue, Marc n'est pas méchant. Il est trop expressif au mauvais moment. C'est précisément ce décalage qui rend la scène comique.
-
-### Note culturelle
-
-En France, une visite de logement peut être très rapide et très codée, surtout dans les villes où la demande est forte. L'annonce présente le logement avec des adjectifs choisis : lumineux, calme, bien situé, rénové, pratique, agréable. Ces adjectifs ne sont pas toujours faux, mais ils montrent souvent le meilleur côté du lieu. Une pièce peut être `lumineuse` à dix heures du matin et beaucoup moins à dix-huit heures. Un studio peut être `petit mais bien organisé`. Une cuisine peut être `ouverte`, ce qui est pratique pour certaines personnes et gênant pour d'autres.
-
-Le candidat locataire observe donc le logement, mais il est aussi observé. Il peut apporter un dossier avec des documents. Il peut poser des questions sur les charges, le chauffage, le voisinage, le bruit ou les travaux. En même temps, l'agent ou le propriétaire écoute sa manière de parler. Une personne qui critique tout dès la première minute peut donner une impression difficile, même si son dossier est complet.
-
-Dans le dialogue, Sophie reste polie. Elle ne se moque pas directement de Marc. Mais elle note son comportement. Marc croit évaluer le studio ; en réalité, il est aussi évalué. C'est une situation très quotidienne : la langue ne sert pas seulement à décrire les murs et les fenêtres. Elle crée aussi une image de la personne qui parle.
-
-Il y a aussi une question de ton. Pendant une visite, il est normal de poser des questions et de remarquer les défauts. Mais la manière compte. Dire "la pièce est un peu petite" n'a pas le même effet que commenter chaque mur comme s'il était coupable. Un candidat peut être direct sans être bruyant. Il peut être prudent sans paraître impossible à vivre.
-
-Dans beaucoup d'immeubles, vingt-deux heures sert de repère social pour le calme du soir, même si le respect du voisinage ne commence pas seulement à cette heure-là.
-
-Cette scène est utile pour l'accord de l'adjectif parce que le logement change souvent de genre et de nombre : le studio est petit, la pièce est blanche, les murs sont anciens, les fenêtres sont nouvelles. Puis la grammaire devient sociale : un dossier sérieux, une personne sérieuse, un voisin discret, une locataire discrète. Les accords ne sont pas seulement des formes à écrire. Ils aident à savoir de quoi, et de qui, on parle.
-
-### Réponses aux questions
-
-1. A. Il pense que certains adjectifs décrivent seulement le logement.
-2. B. Il a insulté plusieurs éléments du studio pendant la visite.
-
-## Script complet
-
-### Introduction
+## Introduction
 
 Bonjour et bienvenue dans le Podcast de français langue étrangère, le podcast pour apprendre le français avec une scène courte, un dialogue vivant et une explication claire. Aujourd'hui, nous travaillons l'accord de l'adjectif. Nous allons entendre des formes comme petit, petite, lumineux, lumineuse, sérieux, sérieuse, discret, discrète, anciens, nouvelles. Le dialogue s'appelle "Le studio calme". Sophie fait visiter un studio à Marc. Marc écoute les adjectifs de l'annonce et pense qu'ils décrivent seulement le logement. Mais Sophie écoute aussi les adjectifs que Marc révèle sur lui-même. Le studio est peut-être petit, la cuisine est ouverte, le dossier est complet. Pourtant, une question reste importante : Marc est-il vraiment la personne calme, sérieuse et discrète que l'annonce espérait ? Écoutez bien les accords avec le studio, la pièce, les murs, les fenêtres, la cuisine, le dossier et la personne.
 
 C'est parti.
 
-### Dialogue - version lente
+## Dialogue - version lente
 
 [début du dialogue]
 
@@ -220,7 +123,7 @@ Marc: D'accord. Je peux revenir demain, silencieux, poli et beaucoup plus petit,
 
 [fin du dialogue]
 
-### Explication
+## Explication
 
 Dans ce dialogue, Sophie fait visiter un studio à Marc. Un studio, c'est un petit logement, souvent avec une seule pièce principale. Il peut être pratique, agréable, bien situé, mais il est rarement immense. Dès la première réplique, Sophie choisit des adjectifs. Elle dit : "Le studio est petit, mais lumineux, et la cour est très calme le matin." Ces mots décrivent le logement. Petit signifie que l'espace n'est pas grand. Lumineux signifie que le lieu reçoit de la lumière. Calme signifie qu'il y a peu de bruit.
 
@@ -282,7 +185,7 @@ Le comique du dialogue vient de ce déplacement. Au début, les adjectifs semble
 
 Avant de réécouter le dialogue, retenez trois idées. Premièrement, l'adjectif s'accorde avec le nom ou la personne qu'il décrit : le studio est petit, la pièce est grande, les fenêtres sont nouvelles. Deuxièmement, certaines formes s'entendent clairement, surtout au féminin : sérieux, sérieuse ; discret, discrète ; ouvert, ouverte. Troisièmement, les adjectifs peuvent être concrets ou sociaux. Ils décrivent un mur, une porte, un dossier, mais aussi une attitude. Dans ce studio, la grammaire n'est pas collée à la scène. Elle est la scène : chaque adjectif décide si Marc se rapproche du logement, ou s'il s'en éloigne. Maintenant, écoutons le dialogue, cette fois à vitesse naturelle.
 
-### Dialogue - vitesse naturelle
+## Dialogue - vitesse naturelle
 
 [début du dialogue]
 
@@ -324,6 +227,107 @@ Marc: D'accord. Je peux revenir demain, silencieux, poli et beaucoup plus petit,
 
 [fin du dialogue]
 
-### Conclusion
+## Conclusion
 
 Voilà pour "Le studio calme". Aujourd'hui, nous avons travaillé l'accord de l'adjectif avec des noms masculins, féminins, singuliers et pluriels : un studio petit, une pièce blanche, des murs anciens, des fenêtres nouvelles, une personne discrète. Nous avons aussi entendu comment un adjectif peut décrire un logement, puis révéler une attitude. Répétez surtout les formes qui s'entendent bien : sérieux, sérieuse ; discret, discrète ; ouvert, ouverte. À bientôt dans le Podcast de français langue étrangère, et pendant votre prochaine visite, restez calmes, sérieux... et ne critiquez pas la cuisine trop tôt.
+
+## Guide d'apprentissage
+
+Les sections suivantes regroupent le vocabulaire, les questions de compréhension, les notes d’usage et les réponses.
+
+## Vocabulaire
+
+**un studio** : Un studio est un petit logement avec une pièce principale. Souvent, la cuisine est dans la même pièce, ou dans un coin séparé. Le mot est très fréquent dans les annonces immobilières, surtout pour une personne seule ou un étudiant. Exemple : Sophie fait visiter un studio à Marc.
+
+**une pièce** : Une pièce est un espace dans un logement : une chambre, un salon, une cuisine, une salle de bains. Dans un studio, la pièce principale sert souvent à plusieurs choses. Exemple : Marc trouve que la pièce semblait grande sur les photos.
+
+**lumineux / lumineuse** : Un lieu lumineux reçoit beaucoup de lumière. L'adjectif change avec le nom : un studio lumineux, une pièce lumineuse. Exemple : Sophie dit que le studio est petit, mais lumineux.
+
+**calme** : Calme décrit un lieu sans beaucoup de bruit, ou une personne tranquille. Cet adjectif garde la même forme au masculin et au féminin : un voisin calme, une voisine calme. Au pluriel, on écrit calmes. Exemple : La cour est calme le matin.
+
+**une cour** : Une cour est un espace extérieur, souvent au centre ou à l'arrière d'un immeuble. Elle peut être calme si elle est loin de la rue. Exemple : Sophie présente la cour comme un avantage du studio.
+
+**une annonce** : Une annonce présente un logement, un objet, un emploi ou un service. Elle choisit souvent des mots positifs et courts, parce qu'elle doit attirer l'attention rapidement. Il faut donc lire les adjectifs avec précision. Exemple : L'annonce du studio promet un lieu calme et sérieux.
+
+**optimiste** : Une personne optimiste voit les choses de façon positive. Une photo optimiste montre parfois un logement sous son meilleur angle. Exemple : Sophie dit que les photos sont optimistes.
+
+**organisé / organisée** : Une personne organisée range bien ses affaires et prépare les documents nécessaires. L'adjectif s'accorde avec la personne. Dans le dialogue, Sophie utilise ce mot avec Marc, parce que l'espace du studio demande une vraie méthode. Exemple : Dans une petite pièce, il faut être très organisé.
+
+**un mur** : Un mur sépare ou ferme un espace. Dans un logement ancien, les murs peuvent être épais, proches ou irréguliers. Marc parle des murs comme s'ils avaient une personnalité, ce qui crée une partie de l'humour. Exemple : Marc trouve que les murs sont proches et anciens.
+
+**ancien / ancienne** : Ancien décrit quelque chose qui n'est pas récent. Au féminin, la forme change : une porte ancienne, une maison ancienne. Dans ancienne, on entend le n. Exemple : Les murs du studio sont anciens.
+
+**nouveau / nouvelle** : Nouveau décrit quelque chose qui vient d'être changé, ajouté ou acheté. Au féminin, on dit nouvelle. Exemple : Les fenêtres sont nouvelles.
+
+**discret / discrète** : Une personne discrète ne fait pas beaucoup de bruit et ne se met pas trop en avant. Le t final devient audible au féminin. Exemple : Le propriétaire cherche une personne discrète.
+
+**ouvert / ouverte** : Ouvert décrit quelque chose qui n'est pas fermé. Une cuisine ouverte communique avec la pièce principale. Au féminin, le t final devient audible : ouvert, ouverte. Exemple : La cuisine est ouverte sur la pièce.
+
+**un placard** : Un placard est un espace fermé pour ranger des vêtements, de la vaisselle ou des affaires. Exemple : Sophie présente les placards comme profonds.
+
+**profond / profonde** : Profond décrit un espace qui va loin vers l'intérieur. Au féminin, le d final devient audible. Exemple : Les placards sont profonds.
+
+**pratique** : Pratique signifie utile et facile à utiliser au quotidien. Cet adjectif a la même forme au masculin et au féminin. Exemple : Un studio peut être petit, mais pratique.
+
+**sérieux / sérieuse** : Sérieux décrit une personne fiable, ou une situation qui demande de l'attention. Au féminin, on dit sérieuse, avec un son z. Le mot peut aussi qualifier un dossier, un travail ou une promesse, mais il semble bizarre pour un studio. Exemple : L'annonce cherche une personne sérieuse.
+
+**un dossier** : Un dossier est un ensemble de documents. Pour louer un logement, on peut présenter des pièces d'identité, des justificatifs et des informations financières. Un dossier complet rassure le propriétaire, mais il ne garantit pas toujours une bonne impression pendant la visite. Exemple : Le dossier de Marc est complet.
+
+**soigneux / soigneuse** : Une personne soigneuse fait attention aux objets et garde les choses en bon état. Exemple : Le propriétaire aime les locataires calmes et soigneux.
+
+**silencieux / silencieuse** : Silencieux décrit quelqu'un ou quelque chose qui fait peu de bruit. Exemple : Après vingt-deux heures, le propriétaire préfère les locataires silencieux.
+
+**les charges** : Les charges sont des frais liés au logement, par exemple l'entretien, l'eau ou certains services. Exemple : Sophie dit que les charges sont raisonnables.
+
+**raisonnable** : Raisonnable signifie acceptable, mesuré, pas excessif. Cet adjectif garde la même forme au masculin et au féminin. Exemple : Les charges sont raisonnables.
+
+## Questions de compréhension
+
+1. Pourquoi Marc comprend-il mal l'annonce du studio ?
+
+A. Il pense que certains adjectifs décrivent seulement le logement.
+B. Il confond Sophie avec la propriétaire.
+C. Il croit que le studio est déjà loué.
+
+Relisez les répliques autour de `studio calme, sérieux, idéal pour personne discrète`.
+
+2. Pourquoi Sophie hésite-t-elle à choisir Marc ?
+
+A. Son dossier est incomplet.
+B. Il a insulté plusieurs éléments du studio pendant la visite.
+C. Il refuse de visiter la salle de bains.
+
+La réponse apparaît quand Sophie parle des murs, de la porte et de la cuisine.
+
+## Expressions et autres sens
+
+**Un dossier complet** est une expression très utile dans les démarches administratives. Un dossier est complet quand il contient toutes les pièces demandées. Pour un logement, cela peut inclure une pièce d'identité, des justificatifs de revenus, une attestation ou d'autres documents. Le mot complet peut aussi s'utiliser dans d'autres contextes : un formulaire complet, une réponse complète, un repas complet. Il s'accorde comme un adjectif ordinaire : un dossier complet, une demande complète, des dossiers complets.
+
+Dans le dialogue, Sophie dit que le dossier de Marc est complet. C'est une bonne nouvelle. Mais ce n'est pas suffisant. La scène devient drôle parce que le dossier administratif est complet, tandis que l'impression sociale est moins solide. Marc a les documents nécessaires, mais il donne beaucoup trop d'avis sur les murs, la porte et la cuisine. Il est complet sur le papier, pas forcément discret dans la pièce.
+
+On peut aussi employer complet pour une personne ou pour une situation : je suis complet se dit parfois d'un restaurant ou d'un hôtel qui n'a plus de place, mais dans une conversation ordinaire on dira plutôt le restaurant est complet. Le contexte décide donc si complet parle d'un document, d'un lieu ou d'une disponibilité.
+
+**Une personne discrète** peut désigner une personne qui parle peu, qui ne dérange pas les autres, ou qui ne cherche pas à attirer l'attention. Le mot peut être positif : une personne discrète respecte l'espace des autres. Il peut aussi être utilisé dans une annonce ou une demande, pour dire : nous voulons quelqu'un de calme, stable, facile à vivre. Attention à l'accord : un voisin discret, une voisine discrète, des locataires discrets, des personnes discrètes.
+
+Dans le dialogue, Marc croit d'abord que `personne discrète` pourrait être une voisine charmante. Il transforme une condition de location en personnage imaginaire. Sophie corrige calmement : l'expression décrit le profil souhaité. Cette petite confusion permet de faire travailler l'accord de l'adjectif, mais aussi le sens social des mots.
+
+Discret ne signifie pas forcément timide. Une personne discrète peut parler normalement, mais elle sait quand ne pas prendre toute la place. Dans le dialogue, Marc n'est pas méchant. Il est trop expressif au mauvais moment. C'est précisément ce décalage qui rend la scène comique.
+
+## Note culturelle
+
+En France, une visite de logement peut être très rapide et très codée, surtout dans les villes où la demande est forte. L'annonce présente le logement avec des adjectifs choisis : lumineux, calme, bien situé, rénové, pratique, agréable. Ces adjectifs ne sont pas toujours faux, mais ils montrent souvent le meilleur côté du lieu. Une pièce peut être `lumineuse` à dix heures du matin et beaucoup moins à dix-huit heures. Un studio peut être `petit mais bien organisé`. Une cuisine peut être `ouverte`, ce qui est pratique pour certaines personnes et gênant pour d'autres.
+
+Le candidat locataire observe donc le logement, mais il est aussi observé. Il peut apporter un dossier avec des documents. Il peut poser des questions sur les charges, le chauffage, le voisinage, le bruit ou les travaux. En même temps, l'agent ou le propriétaire écoute sa manière de parler. Une personne qui critique tout dès la première minute peut donner une impression difficile, même si son dossier est complet.
+
+Dans le dialogue, Sophie reste polie. Elle ne se moque pas directement de Marc. Mais elle note son comportement. Marc croit évaluer le studio ; en réalité, il est aussi évalué. C'est une situation très quotidienne : la langue ne sert pas seulement à décrire les murs et les fenêtres. Elle crée aussi une image de la personne qui parle.
+
+Il y a aussi une question de ton. Pendant une visite, il est normal de poser des questions et de remarquer les défauts. Mais la manière compte. Dire "la pièce est un peu petite" n'a pas le même effet que commenter chaque mur comme s'il était coupable. Un candidat peut être direct sans être bruyant. Il peut être prudent sans paraître impossible à vivre.
+
+Dans beaucoup d'immeubles, vingt-deux heures sert de repère social pour le calme du soir, même si le respect du voisinage ne commence pas seulement à cette heure-là.
+
+Cette scène est utile pour l'accord de l'adjectif parce que le logement change souvent de genre et de nombre : le studio est petit, la pièce est blanche, les murs sont anciens, les fenêtres sont nouvelles. Puis la grammaire devient sociale : un dossier sérieux, une personne sérieuse, un voisin discret, une locataire discrète. Les accords ne sont pas seulement des formes à écrire. Ils aident à savoir de quoi, et de qui, on parle.
+
+## Réponses aux questions
+
+1. A. Il pense que certains adjectifs décrivent seulement le logement.
+2. B. Il a insulté plusieurs éléments du studio pendant la visite.

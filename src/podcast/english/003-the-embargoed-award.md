@@ -1,7 +1,7 @@
 ---
 title: "Vox English 003 - The Embargoed Award"
 description: "Lesson guide and transcript for episode 003 of Vox English: The Embargoed Award, on past simple and present perfect in public-communication English."
-outline: [2, 3]
+outline: 2
 head:
   - - link
     - rel: canonical
@@ -66,7 +66,7 @@ head:
 
 # Vox English 003 - The Embargoed Award
 
-This page accompanies episode 003 of Vox English, a skepvox series by Thiago Oliveira for advanced English learners. It brings together the learning guide, dialogue, and full transcript.
+This page accompanies episode 003 of Vox English, a skepvox series by Thiago Oliveira for advanced English learners. It brings together the full transcript, dialogue, and learning guide.
 
 **Episode:** The Embargoed Award
 
@@ -74,92 +74,11 @@ This page accompanies episode 003 of Vox English, a skepvox series by Thiago Oli
 
 **Permanent link:** <https://skepvox.com/podcast/english/003-the-embargoed-award>
 
-## Learning Guide
+## Full transcript
 
-### Vocabulary
+Use the sections below to jump straight into the episode transcript, slow replay, explanation, and natural-speed replay.
 
-- embargo: a rule that information must not be published before a particular time or event. Universities, journals, companies, and prize committees may use embargoes to control announcements, protect fairness, or coordinate publicity. Breaking an embargo can damage trust. Example: The research team prepared a statement, but the result was still under embargo.
-- press note: a short written message prepared for journalists, staff, or public communication. It usually gives the main facts in a controlled form, and it may be less polished than a full public announcement. Example: The press note explained the award timetable without naming the winner.
-- news release: an official public announcement sent to the media or published by an organization. It often opens with the most important recent event and then gives background details. Example: The university wrote a news release after the committee reached a decision.
-- committee: a group of people chosen to discuss, judge, or decide something. The word often suggests formal procedure, shared responsibility, and minutes or records. Example: The committee reviewed the research proposals before voting.
-- panel: a small group of experts or judges who discuss or evaluate something. A panel may be less permanent than a committee and more closely connected to one event. Example: The prize panel met in the afternoon to choose the winner.
-- to vote: to formally express a choice, often in a meeting or election. In committee contexts, the vote is the procedural act that makes the result official. Example: The judges cannot announce a winner until they have voted.
-- to reach a decision: to arrive at a final choice after discussion or thought. Example: Once the panel has reached a decision, Communications can publish the result.
-- present perfect: a verb form with "have" or "has" plus a past participle, often used when a past event matters to the present. Example: The committee has recognized a breakthrough.
-- past simple: a verb form used for completed past events, especially with finished time expressions such as yesterday or last week. Example: The judges canceled the meeting yesterday.
-- future time clause: a time clause that refers to a future event, often introduced by until, once, after, as soon as, or by the time. In these clauses, English often uses present forms rather than "will." Example: Elliot must wait until the chair has called him.
-- public mood: the general feeling or attitude of an audience, community, or public group at a particular time. In publicity work, public mood can matter, but it should not replace facts. Example: Elliot worries that the public mood may move on.
-- momentum: the sense that something is moving forward with energy and attention. Momentum can help a campaign, but it can also pressure people to speak too soon. Example: The researcher wanted momentum before the official result existed.
-- to endorse: to approve, support, or recommend someone or something publicly. Example: A poster on the wall does not endorse a research project.
-- deliberation: careful discussion before making a decision. Example: The committee's deliberation was delayed when the meeting room was unavailable.
-- accountable: responsible and able to explain or justify actions or decisions. Accountable communication gives enough detail for readers to understand what happened and who is responsible. Example: Details can make a report feel accountable, but they cannot create a fact.
-- breakthrough: an important discovery, improvement, or success after difficulty. The word is common in science, medicine, technology, and institutional publicity, so it can sound impressive when used carefully. Example: Elliot wants the committee to call his project a breakthrough.
-- donor: a person or organization that gives money to support an institution or project. In universities, donors may influence tone because institutions want to sound confident and successful. Example: The donors wanted confident language in the announcement.
-- decisiveness: the quality of making decisions clearly and quickly. Decisiveness is positive when a decision is real; it is dangerous when it is only a style of speaking. Example: Decisiveness can be useful, but it becomes risky when the facts are not ready.
-- acceptance speech: a speech given by someone who has received an award, prize, or honor. Example: Priya says Elliot should wait before writing his acceptance speech.
-- shortlist: a reduced list of candidates chosen from a larger group. Example: Elliot once waited for the shortlist before planning the lighting.
-- to rebrand: to change how something is presented or described so that it appears more attractive or useful. Example: Elliot rebranded disappointment as independent illumination.
-- rejection email: a message telling someone that an application, proposal, or request has not been accepted. Example: Colleagues asked Elliot to review their rejection emails.
-- case study: a detailed example used for teaching, training, or analysis. A case study often turns one situation into a lesson for other people. Example: Elliot becomes the first case study in the embargo training.
-- professional development: training or experience that helps a person improve in a professional role. The phrase usually sounds positive and organized, which is why Elliot likes it. Example: Elliot calls the training professional development by accident.
-- premature: happening too early, before the proper time or before conditions are ready. Example: A premature press release can damage trust.
-
-### Comprehension Questions
-
-Choose the best answer for each question. The questions focus on the dialogue and the way the speakers use language.
-
-1. Why does Priya object to Elliot's headline "Dr. Vale has won the Innovation Prize"?
-   A. The headline is too informal for university communication.
-   B. The committee has not voted yet, so the result cannot be reported as completed news.
-   C. The headline should mention the donors before the prize.
-
-2. What is the real result near the end of the dialogue?
-   A. Elliot has won the Innovation Prize after a delayed vote.
-   B. Priya has canceled the prize because of a press note.
-   C. Elliot has not won; his premature press release has become a training case study.
-
-### Expressions And Other Meanings
-
-"To reach a decision" means to arrive at a final choice after consideration. It is common in meetings, committees, legal discussions, and workplace decisions. The expression suggests a process, not an instant reaction. A panel may discuss evidence, compare options, and then reach a decision. In the dialogue, Priya says, "Once the panel has reached a decision, Communications can use the present perfect in the news release." The phrase matters because the decision must exist before the announcement can treat it as news.
-
-"To reach" can also mean to physically arrive somewhere, to contact someone, or to extend far enough to touch something. You can reach the station at six, reach a colleague by phone, or reach for a file. In professional English, "reach a decision" is a fixed collocation. We usually do not say that a committee "arrived a decision" or "got a decision" in formal style. "Reached a decision" sounds controlled and institutional.
-
-Notice also the tense around the expression. Priya does not say, "once the panel will reach a decision." In a future time clause after "once," English normally uses a present form. "Once the panel reaches a decision" is possible. "Once the panel has reached a decision" adds the idea of completion before the next action. That is exactly what Priya needs: the decision must be complete before the university can publish the result.
-
-"To rebrand" means to change the public image or description of something. Companies rebrand products, universities rebrand programs, and people sometimes rebrand failure as experience. Elliot says, "Since I rebranded disappointment, several colleagues have asked me to review their rejection emails." He is turning a negative event into something that sounds useful and strategic. That is his comic habit: he changes the label before the reality changes.
-
-"Rebrand" can be useful in serious contexts. A museum may rebrand to attract younger visitors; a department may rebrand a training course to show its real purpose more clearly. But the word can also sound suspicious if it hides the truth. In this episode, Elliot's rebranding is funny because it is too quick and too self-protective. He does not merely recover from disappointment. He markets it.
-
-The expression also affects register. "I was disappointed" is direct and personal. "I rebranded disappointment" sounds like a strategy meeting. That shift is why Elliot's language is comic. He imports institutional vocabulary into emotional situations and then treats the new wording as if it solved the problem.
-
-Compare rebrand, relaunch, and reposition. To rebrand is to change the name, image, or public story. To relaunch is to release something again, usually with changes. To reposition is to change how people understand its place in a market or field. Elliot strictly rebrands: he changes the label, not the substance.
-
-### Register And Discourse Note
-
-This dialogue depends on a clash between communications register and self-promotional register. Priya speaks like someone responsible for an official institution. Her sentences separate what has happened, what has not happened yet, and what can be said publicly. She uses precise time clauses: "until the committee has voted," "once the panel has reached a decision," and "after the chair has called me." Those clauses protect the university because they keep the announcement tied to real conditions.
-
-Elliot speaks like a researcher who has absorbed too much publicity language. He wants "has won" because it sounds energetic. He wants momentum before facts become crowded. He worries that donors dislike an unresolved future. His language is polished, but it is not responsible. He treats grammar as a way to make confidence sound factual.
-
-The main discourse lesson is that tense choice can change the status of information. Present perfect in a news release often makes a recent event feel current and important: "The university has launched embargo training." Past simple gives completed details: "The judges did not meet." Future time clauses keep the event conditional: "until the committee has voted." Priya understands these distinctions. Elliot tries to use the strongest form before the world has earned it.
-
-Priya's politeness is also part of the register. She does not insult Elliot directly. She corrects the sentence, the timing, and the institutional risk. This is a common feature of professional disagreement: the grammar becomes a way to discuss responsibility without saying, "You are being reckless." Her wording is controlled, but the implications are sharp.
-
-Elliot's self-promotion is softer on the surface and more dangerous underneath. He says "energy," "momentum," "accountable," and "decisiveness," all of which can sound positive. The problem is that he uses positive register to rush the timeline. He wants the audience to feel that the result has already happened because that feeling benefits him.
-
-The goat-yoga detail also matters for register. It is silly, but Priya reports it with the same precise past-simple control she uses for the serious facts. That steadiness keeps the scene adult and dry. She lets the absurdity appear inside a professional record.
-
-Priya's "did admire" is a concessive move. The auxiliary "did" grants a limited positive point precisely so the surrounding sentence can expose the larger failure: Elliot thanked people while they were still voting.
-
-That is why the final reveal works. Elliot does not win the Innovation Prize. Instead, he becomes evidence in a training program about premature announcements. His final question, "Is it the first time I have won professional development by accident?" is funny because he immediately rebrands the failure again. The grammar remains elegant, but his interpretation remains professionally dangerous.
-
-### Answers To The Questions
-
-1. B. The committee has not voted yet.
-2. C. Elliot has not won; he has become a training case study.
-
-## Complete Script
-
-### Introduction
+## Introduction
 
 Welcome to English as a Foreign Language Podcast. In this episode, we will listen to a conversation between Priya, a university communications officer, and Elliot, a researcher who is waiting for an award result. Elliot's full professional name in the headline is Dr. Vale, so he is both the researcher and the subject of his own announcement. Elliot wants to announce success before the prize committee has actually voted. Priya has to stop him from turning a future possibility into completed public news.
 
@@ -167,7 +86,7 @@ Our grammar focus is the past simple and the present perfect. We will look at wh
 
 Let's get started.
 
-### Dialogue - slow version
+## Dialogue - slow version
 
 [start of dialogue]
 
@@ -209,7 +128,7 @@ Elliot: Is it the first time I have won professional development by accident?
 
 [end of dialogue]
 
-### Explanation
+## Explanation
 
 Priya begins with a very direct professional warning: "Elliot, you cannot publish 'Dr. Vale has won the Innovation Prize' until the committee has voted." The important words are "has won" and "until the committee has voted." Elliot wants to use the present perfect, "has won," because it sounds like recent official news. If a university publishes that sentence, readers will understand that the result exists now. The prize has been awarded, and the news is current.
 
@@ -279,7 +198,7 @@ When you listen again, notice how Priya does not defeat Elliot by being louder. 
 
 Now let's listen to the dialogue, this time at a normal speed.
 
-### Dialogue - natural speed
+## Dialogue - natural speed
 
 [start of dialogue]
 
@@ -321,8 +240,93 @@ Elliot: Is it the first time I have won professional development by accident?
 
 [end of dialogue]
 
-### Conclusion
+## Conclusion
 
 That's all for this episode of English as a Foreign Language Podcast. Today we looked at the past simple and the present perfect in current time periods, news reports, future time clauses, since clauses, and first-time patterns.
 
 When you hear a sentence such as "has won," "did not meet," or "until the committee has voted," ask what the grammar is doing to the timeline. Is the speaker reporting a real completed event, keeping a future condition open, or trying to make confidence sound like news? Until the committee has voted, keep your victory speech in draft mode.
+
+## Learning Guide
+
+The study sections below review the vocabulary, comprehension questions, usage notes, and answer key.
+
+## Vocabulary
+
+- embargo: a rule that information must not be published before a particular time or event. Universities, journals, companies, and prize committees may use embargoes to control announcements, protect fairness, or coordinate publicity. Breaking an embargo can damage trust. Example: The research team prepared a statement, but the result was still under embargo.
+- press note: a short written message prepared for journalists, staff, or public communication. It usually gives the main facts in a controlled form, and it may be less polished than a full public announcement. Example: The press note explained the award timetable without naming the winner.
+- news release: an official public announcement sent to the media or published by an organization. It often opens with the most important recent event and then gives background details. Example: The university wrote a news release after the committee reached a decision.
+- committee: a group of people chosen to discuss, judge, or decide something. The word often suggests formal procedure, shared responsibility, and minutes or records. Example: The committee reviewed the research proposals before voting.
+- panel: a small group of experts or judges who discuss or evaluate something. A panel may be less permanent than a committee and more closely connected to one event. Example: The prize panel met in the afternoon to choose the winner.
+- to vote: to formally express a choice, often in a meeting or election. In committee contexts, the vote is the procedural act that makes the result official. Example: The judges cannot announce a winner until they have voted.
+- to reach a decision: to arrive at a final choice after discussion or thought. Example: Once the panel has reached a decision, Communications can publish the result.
+- present perfect: a verb form with "have" or "has" plus a past participle, often used when a past event matters to the present. Example: The committee has recognized a breakthrough.
+- past simple: a verb form used for completed past events, especially with finished time expressions such as yesterday or last week. Example: The judges canceled the meeting yesterday.
+- future time clause: a time clause that refers to a future event, often introduced by until, once, after, as soon as, or by the time. In these clauses, English often uses present forms rather than "will." Example: Elliot must wait until the chair has called him.
+- public mood: the general feeling or attitude of an audience, community, or public group at a particular time. In publicity work, public mood can matter, but it should not replace facts. Example: Elliot worries that the public mood may move on.
+- momentum: the sense that something is moving forward with energy and attention. Momentum can help a campaign, but it can also pressure people to speak too soon. Example: The researcher wanted momentum before the official result existed.
+- to endorse: to approve, support, or recommend someone or something publicly. Example: A poster on the wall does not endorse a research project.
+- deliberation: careful discussion before making a decision. Example: The committee's deliberation was delayed when the meeting room was unavailable.
+- accountable: responsible and able to explain or justify actions or decisions. Accountable communication gives enough detail for readers to understand what happened and who is responsible. Example: Details can make a report feel accountable, but they cannot create a fact.
+- breakthrough: an important discovery, improvement, or success after difficulty. The word is common in science, medicine, technology, and institutional publicity, so it can sound impressive when used carefully. Example: Elliot wants the committee to call his project a breakthrough.
+- donor: a person or organization that gives money to support an institution or project. In universities, donors may influence tone because institutions want to sound confident and successful. Example: The donors wanted confident language in the announcement.
+- decisiveness: the quality of making decisions clearly and quickly. Decisiveness is positive when a decision is real; it is dangerous when it is only a style of speaking. Example: Decisiveness can be useful, but it becomes risky when the facts are not ready.
+- acceptance speech: a speech given by someone who has received an award, prize, or honor. Example: Priya says Elliot should wait before writing his acceptance speech.
+- shortlist: a reduced list of candidates chosen from a larger group. Example: Elliot once waited for the shortlist before planning the lighting.
+- to rebrand: to change how something is presented or described so that it appears more attractive or useful. Example: Elliot rebranded disappointment as independent illumination.
+- rejection email: a message telling someone that an application, proposal, or request has not been accepted. Example: Colleagues asked Elliot to review their rejection emails.
+- case study: a detailed example used for teaching, training, or analysis. A case study often turns one situation into a lesson for other people. Example: Elliot becomes the first case study in the embargo training.
+- professional development: training or experience that helps a person improve in a professional role. The phrase usually sounds positive and organized, which is why Elliot likes it. Example: Elliot calls the training professional development by accident.
+- premature: happening too early, before the proper time or before conditions are ready. Example: A premature press release can damage trust.
+
+## Comprehension Questions
+
+Choose the best answer for each question. The questions focus on the dialogue and the way the speakers use language.
+
+1. Why does Priya object to Elliot's headline "Dr. Vale has won the Innovation Prize"?
+   A. The headline is too informal for university communication.
+   B. The committee has not voted yet, so the result cannot be reported as completed news.
+   C. The headline should mention the donors before the prize.
+
+2. What is the real result near the end of the dialogue?
+   A. Elliot has won the Innovation Prize after a delayed vote.
+   B. Priya has canceled the prize because of a press note.
+   C. Elliot has not won; his premature press release has become a training case study.
+
+## Expressions And Other Meanings
+
+"To reach a decision" means to arrive at a final choice after consideration. It is common in meetings, committees, legal discussions, and workplace decisions. The expression suggests a process, not an instant reaction. A panel may discuss evidence, compare options, and then reach a decision. In the dialogue, Priya says, "Once the panel has reached a decision, Communications can use the present perfect in the news release." The phrase matters because the decision must exist before the announcement can treat it as news.
+
+"To reach" can also mean to physically arrive somewhere, to contact someone, or to extend far enough to touch something. You can reach the station at six, reach a colleague by phone, or reach for a file. In professional English, "reach a decision" is a fixed collocation. We usually do not say that a committee "arrived a decision" or "got a decision" in formal style. "Reached a decision" sounds controlled and institutional.
+
+Notice also the tense around the expression. Priya does not say, "once the panel will reach a decision." In a future time clause after "once," English normally uses a present form. "Once the panel reaches a decision" is possible. "Once the panel has reached a decision" adds the idea of completion before the next action. That is exactly what Priya needs: the decision must be complete before the university can publish the result.
+
+"To rebrand" means to change the public image or description of something. Companies rebrand products, universities rebrand programs, and people sometimes rebrand failure as experience. Elliot says, "Since I rebranded disappointment, several colleagues have asked me to review their rejection emails." He is turning a negative event into something that sounds useful and strategic. That is his comic habit: he changes the label before the reality changes.
+
+"Rebrand" can be useful in serious contexts. A museum may rebrand to attract younger visitors; a department may rebrand a training course to show its real purpose more clearly. But the word can also sound suspicious if it hides the truth. In this episode, Elliot's rebranding is funny because it is too quick and too self-protective. He does not merely recover from disappointment. He markets it.
+
+The expression also affects register. "I was disappointed" is direct and personal. "I rebranded disappointment" sounds like a strategy meeting. That shift is why Elliot's language is comic. He imports institutional vocabulary into emotional situations and then treats the new wording as if it solved the problem.
+
+Compare rebrand, relaunch, and reposition. To rebrand is to change the name, image, or public story. To relaunch is to release something again, usually with changes. To reposition is to change how people understand its place in a market or field. Elliot strictly rebrands: he changes the label, not the substance.
+
+## Register And Discourse Note
+
+This dialogue depends on a clash between communications register and self-promotional register. Priya speaks like someone responsible for an official institution. Her sentences separate what has happened, what has not happened yet, and what can be said publicly. She uses precise time clauses: "until the committee has voted," "once the panel has reached a decision," and "after the chair has called me." Those clauses protect the university because they keep the announcement tied to real conditions.
+
+Elliot speaks like a researcher who has absorbed too much publicity language. He wants "has won" because it sounds energetic. He wants momentum before facts become crowded. He worries that donors dislike an unresolved future. His language is polished, but it is not responsible. He treats grammar as a way to make confidence sound factual.
+
+The main discourse lesson is that tense choice can change the status of information. Present perfect in a news release often makes a recent event feel current and important: "The university has launched embargo training." Past simple gives completed details: "The judges did not meet." Future time clauses keep the event conditional: "until the committee has voted." Priya understands these distinctions. Elliot tries to use the strongest form before the world has earned it.
+
+Priya's politeness is also part of the register. She does not insult Elliot directly. She corrects the sentence, the timing, and the institutional risk. This is a common feature of professional disagreement: the grammar becomes a way to discuss responsibility without saying, "You are being reckless." Her wording is controlled, but the implications are sharp.
+
+Elliot's self-promotion is softer on the surface and more dangerous underneath. He says "energy," "momentum," "accountable," and "decisiveness," all of which can sound positive. The problem is that he uses positive register to rush the timeline. He wants the audience to feel that the result has already happened because that feeling benefits him.
+
+The goat-yoga detail also matters for register. It is silly, but Priya reports it with the same precise past-simple control she uses for the serious facts. That steadiness keeps the scene adult and dry. She lets the absurdity appear inside a professional record.
+
+Priya's "did admire" is a concessive move. The auxiliary "did" grants a limited positive point precisely so the surrounding sentence can expose the larger failure: Elliot thanked people while they were still voting.
+
+That is why the final reveal works. Elliot does not win the Innovation Prize. Instead, he becomes evidence in a training program about premature announcements. His final question, "Is it the first time I have won professional development by accident?" is funny because he immediately rebrands the failure again. The grammar remains elegant, but his interpretation remains professionally dangerous.
+
+## Answers To The Questions
+
+1. B. The committee has not voted yet.
+2. C. Elliot has not won; he has become a training case study.
