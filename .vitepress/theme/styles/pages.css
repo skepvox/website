@@ -8,6 +8,100 @@
   margin-top: 16px;
 }
 
+.vt-doc,
+.vp-doc {
+  color: var(--sk-reading-body);
+}
+
+.vt-doc h1,
+.vt-doc h2,
+.vt-doc h3,
+.vt-doc h4,
+.vp-doc h1,
+.vp-doc h2,
+.vp-doc h3,
+.vp-doc h4 {
+  color: var(--sk-reading-heading);
+}
+
+.vt-doc h1,
+.vp-doc h1 {
+  font-size: 30px;
+  line-height: 1.16;
+  letter-spacing: -0.03em;
+}
+
+.vt-doc h2,
+.vp-doc h2 {
+  margin: 2.75rem 0 1rem;
+  padding-top: 0;
+  border-top: 0;
+  font-size: 22px;
+  line-height: 1.28;
+  letter-spacing: -0.025em;
+}
+
+.vt-doc h2::before,
+.vp-doc h2::before {
+  content: '';
+  display: block;
+  width: 2rem;
+  height: 2px;
+  margin-bottom: 0.75rem;
+  border-radius: 999px;
+  background-color: var(--sk-reading-accent);
+}
+
+.vt-doc h3,
+.vp-doc h3 {
+  margin: 1.75rem 0 0.75rem;
+  font-size: 18px;
+  line-height: 1.35;
+}
+
+.vt-doc h2 + h3,
+.vp-doc h2 + h3 {
+  margin-top: 0.35rem;
+}
+
+.vt-doc h4,
+.vp-doc h4 {
+  margin: 1.4rem 0 0.65rem;
+  line-height: 1.35;
+}
+
+.vt-doc p,
+.vt-doc li,
+.vt-doc summary,
+.vp-doc p,
+.vp-doc li,
+.vp-doc summary {
+  color: inherit;
+}
+
+.vt-doc strong,
+.vp-doc strong {
+  color: var(--sk-reading-heading);
+  font-weight: 650;
+}
+
+@media (min-width: 768px) {
+  .vt-doc h1,
+  .vp-doc h1 {
+    font-size: 36px;
+  }
+
+  .vt-doc h2,
+  .vp-doc h2 {
+    font-size: 24px;
+  }
+
+  .vt-doc h3,
+  .vp-doc h3 {
+    font-size: 19px;
+  }
+}
+
 .vt-doc .katex {
   font-size: 1em;
 }
