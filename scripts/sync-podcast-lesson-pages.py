@@ -10,9 +10,21 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 PROJECTS = ROOT.parent
+SHOW_CONFIG_PATH = Path(__file__).resolve().with_name("podcast-show-config.json")
 
 FRONTMATTER_RE = re.compile(r"\A---\n(.*?)\n---\n?", re.DOTALL)
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.+?)\s*$", re.MULTILINE)
+SHARED_SHOW_CONFIG = json.loads(SHOW_CONFIG_PATH.read_text(encoding="utf-8"))
+
+
+def shared_show_value(show_key: str, field: str) -> str:
+    show_config = SHARED_SHOW_CONFIG.get(show_key)
+    if not isinstance(show_config, dict):
+        raise KeyError(f"Missing shared show config for: {show_key}")
+    value = show_config.get(field)
+    if not isinstance(value, str) or not value:
+        raise KeyError(f"Missing shared show config field {field!r} for: {show_key}")
+    return value
 
 
 @dataclass(frozen=True)
@@ -42,14 +54,14 @@ class ShowConfig:
 SHOWS: tuple[ShowConfig, ...] = (
     ShowConfig(
         key="english",
-        source_repo="skepvox-podcast-english",
+        source_repo=shared_show_value("english", "repo"),
         target_subdir="src/podcast/english",
-        page_title_prefix="Vox English",
+        page_title_prefix=shared_show_value("english", "show_title"),
         title_separator=" - ",
         episode_label="Episode",
         main_point_label="Main point",
         permalink_label="Permanent link",
-        transcript_label="Full transcript",
+        transcript_label=shared_show_value("english", "transcript_heading"),
         guide_label="Learning Guide",
         intro_template=(
             "This page accompanies episode {episode_number:03d} of Vox English, "
@@ -66,8 +78,8 @@ SHOWS: tuple[ShowConfig, ...] = (
         ),
         guide_heading="Learning Guide",
         script_heading="Complete Script",
-        canonical_base="https://skepvox.com/podcast/english",
-        site_part_of_id="https://skepvox.com/podcast/english/#webpage",
+        canonical_base=shared_show_value("english", "show_page_url").rstrip("/"),
+        site_part_of_id=f"{shared_show_value('english', 'show_page_url')}#webpage",
         fallback_description_template=(
             "Lesson guide and transcript for episode {episode_number:03d} of Vox "
             "English: {episode_title}. {main_grammar_point}"
@@ -80,14 +92,14 @@ SHOWS: tuple[ShowConfig, ...] = (
     ),
     ShowConfig(
         key="francais",
-        source_repo="skepvox-podcast-francais",
+        source_repo=shared_show_value("francais", "repo"),
         target_subdir="src/podcast/francais",
-        page_title_prefix="Vox Français",
+        page_title_prefix=shared_show_value("francais", "show_title"),
         title_separator=" — ",
         episode_label="Épisode",
         main_point_label="Point principal",
         permalink_label="Lien permanent",
-        transcript_label="Transcription complète",
+        transcript_label=shared_show_value("francais", "transcript_heading"),
         guide_label="Guide d'apprentissage",
         intro_template=(
             "Cette page accompagne l’épisode {episode_number:03d} de Vox Français, "
@@ -106,8 +118,8 @@ SHOWS: tuple[ShowConfig, ...] = (
         ),
         guide_heading="Guide d'apprentissage",
         script_heading="Script complet",
-        canonical_base="https://skepvox.com/podcast/francais",
-        site_part_of_id="https://skepvox.com/podcast/francais/#webpage",
+        canonical_base=shared_show_value("francais", "show_page_url").rstrip("/"),
+        site_part_of_id=f"{shared_show_value('francais', 'show_page_url')}#webpage",
         fallback_description_template=(
             "Guide de leçon et transcription de l’épisode {episode_number:03d} de "
             "Vox Français : {episode_title}. {main_grammar_point}"
@@ -120,14 +132,14 @@ SHOWS: tuple[ShowConfig, ...] = (
     ),
     ShowConfig(
         key="espanol",
-        source_repo="skepvox-podcast-espanol",
+        source_repo=shared_show_value("espanol", "repo"),
         target_subdir="src/podcast/espanol",
-        page_title_prefix="Vox Español",
+        page_title_prefix=shared_show_value("espanol", "show_title"),
         title_separator=" - ",
         episode_label="Episodio",
         main_point_label="Punto principal",
         permalink_label="Enlace permanente",
-        transcript_label="Transcripción completa",
+        transcript_label=shared_show_value("espanol", "transcript_heading"),
         guide_label="Guía de aprendizaje",
         intro_template=(
             "Esta página acompaña el episodio {episode_number:03d} de Vox Español, "
@@ -145,8 +157,8 @@ SHOWS: tuple[ShowConfig, ...] = (
         ),
         guide_heading="Guía de aprendizaje",
         script_heading="Guión completo",
-        canonical_base="https://skepvox.com/podcast/espanol",
-        site_part_of_id="https://skepvox.com/podcast/espanol/#webpage",
+        canonical_base=shared_show_value("espanol", "show_page_url").rstrip("/"),
+        site_part_of_id=f"{shared_show_value('espanol', 'show_page_url')}#webpage",
         fallback_description_template=(
             "Guía de lección y transcripción del episodio {episode_number:03d} de "
             "Vox Español: {episode_title}. {main_grammar_point}"
