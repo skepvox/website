@@ -31,7 +31,7 @@ Page de l'émission : https://skepvox.com/podcast/francais/]]></itunes:summary>
       <title>Vox Français</title>
       <link>https://skepvox.com/podcast/francais/</link>
     </image>
-    <lastBuildDate>Tue, 21 Apr 2026 08:33:02 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 06:30:56 -0300</lastBuildDate>
 
     <item>
       <title>001 - Le badge</title>
@@ -135,6 +135,42 @@ Vous trouverez sur la page de l'épisode le guide d'apprentissage, les questions
       <enclosure url="https://media.skepvox.com/podcast/francais/audio/francais-003-le-covoiturage-poli-v2.mp3" length="42946604" type="audio/mpeg" />
       <itunes:duration>00:29:49</itunes:duration>
       <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://media.skepvox.com/podcast/francais/artwork/show-cover-v1.jpg" />
+    </item>
+
+    <item>
+      <title>004 - Le studio calme</title>
+      <link>https://skepvox.com/podcast/francais/004-le-studio-calme</link>
+      <guid isPermaLink="false">vox-francais-004</guid>
+      <pubDate>Thu, 23 Apr 2026 05:00:00 -0300</pubDate>
+      <description><![CDATA[Guide complet et transcription : https://skepvox.com/podcast/francais/004-le-studio-calme#transcription-complete
+
+Dans cet épisode de Vox Français, nous travaillons l'accord de l'adjectif au masculin, au féminin, au singulier et au pluriel.
+
+L'épisode s'appelle "Le studio calme". Sophie fait visiter un studio à Marc. La visite demande de lire les adjectifs d'une annonce immobilière, de décrire un logement et de comprendre quels mots parlent aussi du candidat.
+
+Cette leçon vous aide à accorder les adjectifs avec des noms masculins, féminins, singuliers et pluriels, et à entendre des formes comme sérieux, sérieuse, discret, discrète, ouvert et ouverte.
+
+Le guide de leçon explique aussi le vocabulaire important de l'épisode : studio, pièce, lumineux, calme, annonce, organisé, mur, ancien, nouveau, discret, cuisine ouverte, placard, sérieux, dossier, charges, raisonnable, et plusieurs autres mots utiles.
+
+Vous trouverez sur la page de l'épisode le guide d'apprentissage, les questions de compréhension, les réponses, la note culturelle, le dialogue lent, le dialogue à vitesse naturelle et la transcription complète.]]></description>
+      <content:encoded><![CDATA[<p><strong>Guide complet et transcription :</strong> <a href="https://skepvox.com/podcast/francais/004-le-studio-calme#transcription-complete">https://skepvox.com/podcast/francais/004-le-studio-calme#transcription-complete</a></p>
+
+<p>Dans cet épisode de <strong>Vox Français</strong>, nous travaillons <strong>l'accord de l'adjectif</strong> au masculin, au féminin, au singulier et au pluriel.</p>
+
+<p>L'épisode s'appelle <strong>"Le studio calme"</strong>. Sophie fait visiter un studio à Marc. La visite demande de lire les adjectifs d'une annonce immobilière, de décrire un logement et de comprendre quels mots parlent aussi du candidat.</p>
+
+<p>Cette leçon vous aide à accorder les adjectifs avec des noms masculins, féminins, singuliers et pluriels, et à entendre des formes comme <em>sérieux, sérieuse, discret, discrète, ouvert et ouverte</em>.</p>
+
+<p>Le guide de leçon explique aussi le vocabulaire important de l'épisode : <em>studio, pièce, lumineux, calme, annonce, organisé, mur, ancien, nouveau, discret, cuisine ouverte, placard, sérieux, dossier, charges, raisonnable</em>, et plusieurs autres mots utiles.</p>
+
+<p>Vous trouverez sur la page de l'épisode le guide d'apprentissage, les questions de compréhension, les réponses, la note culturelle, le dialogue lent, le dialogue à vitesse naturelle et la transcription complète.</p>]]></content:encoded>
+      <enclosure url="https://media.skepvox.com/podcast/francais/audio/francais-004-le-studio-calme-v2.mp3" length="47538930" type="audio/mpeg" />
+      <itunes:duration>00:33:00</itunes:duration>
+      <itunes:episode>4</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
