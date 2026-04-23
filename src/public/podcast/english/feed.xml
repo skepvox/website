@@ -22,19 +22,19 @@ Show page: https://skepvox.com/podcast/english/]]></description>
 Show page: https://skepvox.com/podcast/english/]]></itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://media.skepvox.com/podcast/english/artwork/show-cover-v1.jpg" />
+    <itunes:image href="https://media.skepvox.com/podcast/english/artwork/show-cover-v2.jpg" />
     <itunes:category text="Education">
       <itunes:category text="Language Learning" />
     </itunes:category>
     <image>
-      <url>https://media.skepvox.com/podcast/english/artwork/show-cover-v1.jpg</url>
+      <url>https://media.skepvox.com/podcast/english/artwork/show-cover-v2.jpg</url>
       <title>Vox English</title>
       <link>https://skepvox.com/podcast/english/</link>
     </image>
-    <lastBuildDate>Wed, 22 Apr 2026 05:01:35 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 08:13:39 -0300</lastBuildDate>
 
     <item>
-      <title>001 - The Apology Window</title>
+      <title>The Apology Window</title>
       <link>https://skepvox.com/podcast/english/001-the-apology-window</link>
       <guid isPermaLink="false">vox-english-001</guid>
       <pubDate>Wed, 15 Apr 2026 05:00:00 -0300</pubDate>
@@ -67,11 +67,11 @@ On the episode page you will find the study guide, comprehension questions, answ
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://media.skepvox.com/podcast/english/artwork/show-cover-v1.jpg" />
+      <itunes:image href="https://media.skepvox.com/podcast/english/artwork/show-cover-v2.jpg" />
     </item>
 
     <item>
-      <title>002 - The Headline Cushion</title>
+      <title>The Headline Cushion</title>
       <link>https://skepvox.com/podcast/english/002-the-headline-cushion</link>
       <guid isPermaLink="false">vox-english-002</guid>
       <pubDate>Sat, 18 Apr 2026 05:00:00 -0300</pubDate>
@@ -104,11 +104,11 @@ On the episode page you will find the study guide, comprehension questions, answ
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://media.skepvox.com/podcast/english/artwork/show-cover-v1.jpg" />
+      <itunes:image href="https://media.skepvox.com/podcast/english/artwork/show-cover-v2.jpg" />
     </item>
 
     <item>
-      <title>003 - The Embargoed Award</title>
+      <title>The Embargoed Award</title>
       <link>https://skepvox.com/podcast/english/003-the-embargoed-award</link>
       <guid isPermaLink="false">vox-english-003</guid>
       <pubDate>Wed, 22 Apr 2026 05:00:00 -0300</pubDate>
@@ -141,7 +141,7 @@ On the episode page you will find the study guide, comprehension questions, answ
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://media.skepvox.com/podcast/english/artwork/show-cover-v1.jpg" />
+      <itunes:image href="https://media.skepvox.com/podcast/english/artwork/show-cover-v2.jpg" />
     </item>
   </channel>
 </rss>

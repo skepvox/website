@@ -22,19 +22,19 @@ Página del programa: https://skepvox.com/podcast/espanol/]]></description>
 Página del programa: https://skepvox.com/podcast/espanol/]]></itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://media.skepvox.com/podcast/espanol/artwork/show-cover-v1.jpg" />
+    <itunes:image href="https://media.skepvox.com/podcast/espanol/artwork/show-cover-v2.jpg" />
     <itunes:category text="Education">
       <itunes:category text="Language Learning" />
     </itunes:category>
     <image>
-      <url>https://media.skepvox.com/podcast/espanol/artwork/show-cover-v1.jpg</url>
+      <url>https://media.skepvox.com/podcast/espanol/artwork/show-cover-v2.jpg</url>
       <title>Vox Español</title>
       <link>https://skepvox.com/podcast/espanol/</link>
     </image>
-    <lastBuildDate>Tue, 21 Apr 2026 07:10:47 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 08:13:39 -0300</lastBuildDate>
 
     <item>
-      <title>001 - La boda es a las seis</title>
+      <title>La boda es a las seis</title>
       <link>https://skepvox.com/podcast/espanol/001-la-boda-es-a-las-seis</link>
       <guid isPermaLink="false">vox-espanol-001</guid>
       <pubDate>Tue, 14 Apr 2026 05:00:00 -0300</pubDate>
@@ -68,11 +68,11 @@ En la página del episodio encontrará la guía de aprendizaje, las preguntas de
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://media.skepvox.com/podcast/espanol/artwork/show-cover-v1.jpg" />
+      <itunes:image href="https://media.skepvox.com/podcast/espanol/artwork/show-cover-v2.jpg" />
     </item>
 
     <item>
-      <title>002 - La sartén está ocupada</title>
+      <title>La sartén está ocupada</title>
       <link>https://skepvox.com/podcast/espanol/002-la-sarten-esta-ocupada</link>
       <guid isPermaLink="false">vox-espanol-002</guid>
       <pubDate>Fri, 17 Apr 2026 05:00:00 -0300</pubDate>
@@ -106,11 +106,11 @@ En la página del episodio encontrará la guía de aprendizaje, las preguntas de
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://media.skepvox.com/podcast/espanol/artwork/show-cover-v1.jpg" />
+      <itunes:image href="https://media.skepvox.com/podcast/espanol/artwork/show-cover-v2.jpg" />
     </item>
 
     <item>
-      <title>003 - El tren está parado</title>
+      <title>El tren está parado</title>
       <link>https://skepvox.com/podcast/espanol/003-el-tren-esta-parado</link>
       <guid isPermaLink="false">vox-espanol-003</guid>
       <pubDate>Tue, 21 Apr 2026 05:00:00 -0300</pubDate>
@@ -144,7 +144,7 @@ En la página del episodio encontrará la guía de aprendizaje, las preguntas de
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://media.skepvox.com/podcast/espanol/artwork/show-cover-v1.jpg" />
+      <itunes:image href="https://media.skepvox.com/podcast/espanol/artwork/show-cover-v2.jpg" />
     </item>
   </channel>
 </rss>

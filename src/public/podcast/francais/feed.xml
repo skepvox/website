@@ -22,19 +22,19 @@ Page de l'émission : https://skepvox.com/podcast/francais/]]></description>
 Page de l'émission : https://skepvox.com/podcast/francais/]]></itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://media.skepvox.com/podcast/francais/artwork/show-cover-v1.jpg" />
+    <itunes:image href="https://media.skepvox.com/podcast/francais/artwork/show-cover-v2.jpg" />
     <itunes:category text="Education">
       <itunes:category text="Language Learning" />
     </itunes:category>
     <image>
-      <url>https://media.skepvox.com/podcast/francais/artwork/show-cover-v1.jpg</url>
+      <url>https://media.skepvox.com/podcast/francais/artwork/show-cover-v2.jpg</url>
       <title>Vox Français</title>
       <link>https://skepvox.com/podcast/francais/</link>
     </image>
-    <lastBuildDate>Thu, 23 Apr 2026 06:30:56 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 08:13:39 -0300</lastBuildDate>
 
     <item>
-      <title>001 - Le badge</title>
+      <title>Le badge</title>
       <link>https://skepvox.com/podcast/francais/001-le-badge</link>
       <guid isPermaLink="false">vox-francais-001</guid>
       <pubDate>Mon, 13 Apr 2026 05:00:00 -0300</pubDate>
@@ -66,11 +66,11 @@ Vous trouverez sur la page de l'épisode le guide d'apprentissage, les questions
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://media.skepvox.com/podcast/francais/artwork/show-cover-v1.jpg" />
+      <itunes:image href="https://media.skepvox.com/podcast/francais/artwork/show-cover-v2.jpg" />
     </item>
 
     <item>
-      <title>002 - La valise verte</title>
+      <title>La valise verte</title>
       <link>https://skepvox.com/podcast/francais/002-la-valise-verte</link>
       <guid isPermaLink="false">vox-francais-002</guid>
       <pubDate>Thu, 16 Apr 2026 05:00:00 -0300</pubDate>
@@ -102,11 +102,11 @@ Vous trouverez sur la page de l'épisode le guide d'apprentissage, les questions
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://media.skepvox.com/podcast/francais/artwork/show-cover-v1.jpg" />
+      <itunes:image href="https://media.skepvox.com/podcast/francais/artwork/show-cover-v2.jpg" />
     </item>
 
     <item>
-      <title>003 - Le covoiturage poli</title>
+      <title>Le covoiturage poli</title>
       <link>https://skepvox.com/podcast/francais/003-le-covoiturage-poli</link>
       <guid isPermaLink="false">vox-francais-003</guid>
       <pubDate>Mon, 20 Apr 2026 05:00:00 -0300</pubDate>
@@ -138,11 +138,11 @@ Vous trouverez sur la page de l'épisode le guide d'apprentissage, les questions
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://media.skepvox.com/podcast/francais/artwork/show-cover-v1.jpg" />
+      <itunes:image href="https://media.skepvox.com/podcast/francais/artwork/show-cover-v2.jpg" />
     </item>
 
     <item>
-      <title>004 - Le studio calme</title>
+      <title>Le studio calme</title>
       <link>https://skepvox.com/podcast/francais/004-le-studio-calme</link>
       <guid isPermaLink="false">vox-francais-004</guid>
       <pubDate>Thu, 23 Apr 2026 05:00:00 -0300</pubDate>
@@ -174,7 +174,7 @@ Vous trouverez sur la page de l'épisode le guide d'apprentissage, les questions
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://media.skepvox.com/podcast/francais/artwork/show-cover-v1.jpg" />
+      <itunes:image href="https://media.skepvox.com/podcast/francais/artwork/show-cover-v2.jpg" />
     </item>
   </channel>
 </rss>
