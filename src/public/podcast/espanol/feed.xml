@@ -31,7 +31,7 @@ Página del programa: https://skepvox.com/podcast/espanol/]]></itunes:summary>
       <title>Vox Español</title>
       <link>https://skepvox.com/podcast/espanol/</link>
     </image>
-    <lastBuildDate>Thu, 23 Apr 2026 08:13:39 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 17:36:13 -0300</lastBuildDate>
 
     <item>
       <title>La boda es a las seis</title>
@@ -141,6 +141,44 @@ En la página del episodio encontrará la guía de aprendizaje, las preguntas de
       <enclosure url="https://media.skepvox.com/podcast/espanol/audio/espanol-003-el-tren-esta-parado-v2.mp3" length="41749777" type="audio/mpeg" />
       <itunes:duration>00:28:59</itunes:duration>
       <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://media.skepvox.com/podcast/espanol/artwork/show-cover-v2.jpg" />
+    </item>
+
+    <item>
+      <title>La pendiente correcta</title>
+      <link>https://skepvox.com/podcast/espanol/004-la-pendiente-correcta</link>
+      <guid isPermaLink="false">vox-espanol-004</guid>
+      <pubDate>Fri, 24 Apr 2026 05:00:00 -0300</pubDate>
+      <description><![CDATA[Guía completa y transcripción:
+https://skepvox.com/podcast/espanol/004-la-pendiente-correcta#transcripcion-completa
+
+En este episodio de Vox Español, trabajamos el género gramatical y el artículo como claves de significado en una escena vecinal sobre accesibilidad e inauguraciones.
+
+El episodio se llama "La pendiente correcta". Una presidenta de comunidad, una rampa recién terminada y una visita técnica convierten un detalle de artículo en una confusión muy útil para distinguir `el pendiente` y `la pendiente` dentro de una situación real.
+
+Esta lección le ayuda a reconocer sustantivos cuyo género cambia el significado, a seguir cargos y profesiones en femenino visible y a entender cómo el contexto decide la lectura correcta de una palabra.
+
+La guía de lección explica también el vocabulario importante del episodio: rampa, pasamanos, accesibilidad, maceta, alfombra, presidenta, concejala, arquitecta, intérprete, pendiente y otras palabras útiles.
+
+En la página del episodio encontrará la guía de aprendizaje, las preguntas de comprensión, las respuestas, la nota cultural, el diálogo lento, el diálogo a velocidad natural y la transcripción completa.]]></description>
+      <content:encoded><![CDATA[<p>Guía completa y transcripción:<br />
+<a href="https://skepvox.com/podcast/espanol/004-la-pendiente-correcta#transcripcion-completa">https://skepvox.com/podcast/espanol/004-la-pendiente-correcta#transcripcion-completa</a></p>
+
+<p>En este episodio de Vox Español, trabajamos el género gramatical y el artículo como claves de significado en una escena vecinal sobre accesibilidad e inauguraciones.</p>
+
+<p>El episodio se llama "La pendiente correcta". Una presidenta de comunidad, una rampa recién terminada y una visita técnica convierten un detalle de artículo en una confusión muy útil para distinguir `el pendiente` y `la pendiente` dentro de una situación real.</p>
+
+<p>Esta lección le ayuda a reconocer sustantivos cuyo género cambia el significado, a seguir cargos y profesiones en femenino visible y a entender cómo el contexto decide la lectura correcta de una palabra.</p>
+
+<p>La guía de lección explica también el vocabulario importante del episodio: rampa, pasamanos, accesibilidad, maceta, alfombra, presidenta, concejala, arquitecta, intérprete, pendiente y otras palabras útiles.</p>
+
+<p>En la página del episodio encontrará la guía de aprendizaje, las preguntas de comprensión, las respuestas, la nota cultural, el diálogo lento, el diálogo a velocidad natural y la transcripción completa.</p>]]></content:encoded>
+      <enclosure url="https://media.skepvox.com/podcast/espanol/audio/espanol-004-la-pendiente-correcta-v1.mp3" length="35113004" type="audio/mpeg" />
+      <itunes:duration>00:24:23</itunes:duration>
+      <itunes:episode>4</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
