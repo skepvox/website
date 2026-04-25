@@ -56,23 +56,6 @@ export const sidebar: ThemeConfig['sidebar'] = {
     {
       text: 'Autres podcasts',
       items: [
-        { text: 'English', link: '/podcast/english/' },
-        { text: 'Español', link: '/podcast/espanol/' }
-      ]
-    }
-  ],
-
-  '/podcast/english/': [
-    {
-      text: 'Vox English - English as a Foreign Language Podcast',
-      items: [
-        { text: 'Overview', link: '/podcast/english/' }
-      ]
-    },
-    {
-      text: 'Other podcasts',
-      items: [
-        { text: 'Français', link: '/podcast/francais/' },
         { text: 'Español', link: '/podcast/espanol/' }
       ]
     }
@@ -88,8 +71,7 @@ export const sidebar: ThemeConfig['sidebar'] = {
     {
       text: 'Otros podcasts',
       items: [
-        { text: 'Français', link: '/podcast/francais/' },
-        { text: 'English', link: '/podcast/english/' }
+        { text: 'Français', link: '/podcast/francais/' }
       ]
     }
   ],
@@ -100,7 +82,6 @@ export const sidebar: ThemeConfig['sidebar'] = {
       items: [
         { text: 'Visão geral', link: '/podcast/' },
         { text: 'Français', link: '/podcast/francais/' },
-        { text: 'English', link: '/podcast/english/' },
         { text: 'Español', link: '/podcast/espanol/' }
       ]
     }

@@ -4,7 +4,7 @@
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Vox English</title>
-    <link>https://skepvox.com/podcast/english/</link>
+    <link>https://skepvox.com/podcast/</link>
     <atom:link href="https://skepvox.com/podcast/english/feed.xml" rel="self" type="application/rss+xml" />
     <language>en-US</language>
     <copyright>Copyright 2026 Thiago Oliveira</copyright>
