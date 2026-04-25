@@ -53,44 +53,6 @@ class ShowConfig:
 
 SHOWS: tuple[ShowConfig, ...] = (
     ShowConfig(
-        key="english",
-        source_repo=shared_show_value("english", "repo"),
-        target_subdir="src/podcast/english",
-        page_title_prefix=shared_show_value("english", "show_title"),
-        title_separator=" - ",
-        episode_label="Episode",
-        main_point_label="Main point",
-        permalink_label="Permanent link",
-        transcript_label=shared_show_value("english", "transcript_heading"),
-        guide_label="Learning Guide",
-        intro_template=(
-            "This page accompanies episode {episode_number:03d} of Vox English, "
-            "a skepvox series by Thiago Oliveira for advanced English learners. "
-            "It brings together the full transcript, dialogue, and learning guide."
-        ),
-        transcript_intro=(
-            "Use the sections below to jump straight into the episode transcript, "
-            "slow replay, explanation, and natural-speed replay."
-        ),
-        guide_intro=(
-            "The study sections below review the vocabulary, comprehension "
-            "questions, usage notes, and answer key."
-        ),
-        guide_heading="Learning Guide",
-        script_heading="Complete Script",
-        canonical_base=shared_show_value("english", "show_page_url").rstrip("/"),
-        site_part_of_id=f"{shared_show_value('english', 'show_page_url')}#webpage",
-        fallback_description_template=(
-            "Lesson guide and transcript for episode {episode_number:03d} of Vox "
-            "English: {episode_title}. {main_grammar_point}"
-        ),
-        fallback_keywords_template=(
-            "Vox English, skepvox, {episode_title}, English as a Foreign Language, "
-            "EFL, transcript, English dialogue, lesson guide"
-        ),
-        og_locale="en_US",
-    ),
-    ShowConfig(
         key="francais",
         source_repo=shared_show_value("francais", "repo"),
         target_subdir="src/podcast/francais",

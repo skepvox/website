@@ -1,28 +1,23 @@
 ---
 title: 'Vox English'
-description: 'Vox English, a skepvox series by Thiago Oliveira, with advanced English dialogues, explanations, lesson guides, and transcripts.'
+description: 'Vox English has been retired. No episodes are distributed from this feed or section.'
 outline: 2
 head:
-  - - link
-    - rel: alternate
-      type: application/rss+xml
-      title: 'Vox English'
-      href: 'https://skepvox.com/podcast/english/feed.xml'
   - - link
     - rel: canonical
       href: 'https://skepvox.com/podcast/english/'
   - - meta
     - name: description
-      content: 'Vox English, a skepvox series by Thiago Oliveira, with advanced English dialogues, explanations, lesson guides, and transcripts.'
+      content: 'Vox English has been retired. No episodes are distributed from this feed or section.'
   - - meta
-    - name: keywords
-      content: 'Vox English, English as a Foreign Language Podcast, skepvox, English as a foreign language, advanced English, B2 C1, C1 C2, English podcast'
+    - name: robots
+      content: 'noindex, follow'
   - - meta
     - property: og:title
       content: 'Vox English'
   - - meta
     - property: og:description
-      content: 'Advanced English dialogues, explanations, and lesson guides from Vox English.'
+      content: 'Vox English has been retired.'
   - - meta
     - property: og:url
       content: 'https://skepvox.com/podcast/english/'
@@ -43,7 +38,7 @@ head:
       content: 'Vox English'
   - - meta
     - name: twitter:description
-      content: 'Advanced English dialogues, explanations, and lesson guides from Vox English.'
+      content: 'Vox English has been retired.'
   - - script
     - type: application/ld+json
     - |
@@ -53,7 +48,7 @@ head:
         "@id": "https://skepvox.com/podcast/english/#webpage",
         "url": "https://skepvox.com/podcast/english/",
         "name": "Vox English",
-        "description": "Vox English, a skepvox series by Thiago Oliveira, with advanced English dialogues, explanations, lesson guides, and transcripts.",
+        "description": "Vox English has been retired. No episodes are distributed from this feed or section.",
         "isPartOf": {
           "@id": "https://skepvox.com/#website"
         },
@@ -66,20 +61,4 @@ head:
 
 # Vox English
 
-Vox English is a skepvox series by Thiago Oliveira for advanced English learners. Each episode offers an original English dialogue, a guided explanation, a transcript, and a lesson guide. The series starts at B2-C1 and later moves into C1-C2.
-
-The pages in this section collect transcripts, vocabulary, grammar notes, and usage explanations for listening with the text in front of you.
-
-**RSS feed:** <https://skepvox.com/podcast/english/feed.xml>
-
-**Apple Podcasts:** <https://podcasts.apple.com/us/podcast/vox-english/id1894879280>
-
-**Spotify:** <https://open.spotify.com/show/4Mlol3BnZgNRraKKspWFvf>
-
-**YouTube:** <https://www.youtube.com/playlist?list=PLpaLfQv0ILtcd5NN8eulwXvdaX7mlvlJk>
-
-## Lessons
-
-- [001 - The Apology Window](/podcast/english/001-the-apology-window) - present simple and present continuous for stable facts, temporary situations, state/action meanings, and public performative verbs.
-- [002 - The Headline Cushion](/podcast/english/002-the-headline-cushion) - headline present simple, reported-news phrases, content-summary present simple, and present continuous for current or repeated behavior.
-- [003 - The Embargoed Award](/podcast/english/003-the-embargoed-award) - past simple and present perfect with news openings, future time clauses, since clauses, current relevance, and first-time patterns.
+Vox English has been retired. No episodes are currently distributed from this section or from its RSS feed.

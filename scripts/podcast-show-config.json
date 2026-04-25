@@ -1,17 +1,4 @@
 {
-  "english": {
-    "repo": "skepvox-podcast-english",
-    "show_title": "Vox English",
-    "language_tag": "en-US",
-    "website_subdir": "english",
-    "show_page_url": "https://skepvox.com/podcast/english/",
-    "rss_feed_url": "https://skepvox.com/podcast/english/feed.xml",
-    "artwork_url": "https://media.skepvox.com/podcast/english/artwork/show-cover-v2.jpg",
-    "transcript_heading": "Full transcript",
-    "transcript_anchor": "full-transcript",
-    "rss_description_label": "Lesson guide and full transcript:",
-    "rss_page_tail": "On the episode page you will find the study guide, comprehension questions, answers, notes on usage, the slow dialogue, the natural-speed dialogue, and the full transcript."
-  },
   "francais": {
     "repo": "skepvox-podcast-francais",
     "show_title": "Vox Français",

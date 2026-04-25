@@ -1,6 +1,6 @@
 ---
 title: 'Podcasts'
-description: 'Podcasts skepvox para aprendizagem de idiomas: Vox Français, Vox Español e Vox English.'
+description: 'Podcasts skepvox para aprendizagem de idiomas: Vox Français e Vox Español.'
 outline: 2
 head:
   - - link
@@ -8,7 +8,7 @@ head:
       href: 'https://skepvox.com/podcast/'
   - - meta
     - name: description
-      content: 'Podcasts skepvox para aprendizagem de idiomas: Vox Français, Vox Español e Vox English.'
+      content: 'Podcasts skepvox para aprendizagem de idiomas: Vox Français e Vox Español.'
   - - meta
     - property: og:title
       content: 'Podcasts skepvox'
@@ -52,4 +52,3 @@ Projetos skepvox para aprendizagem de idiomas, com diálogos, transcrições, gu
 
 - [Vox Français](/podcast/francais/) — français langue étrangère, avec des épisodes A2-B1 au début de la série.
 - [Vox Español](/podcast/espanol/) — español como lengua extranjera, con episodios A2-B1 al inicio de la serie.
-- [Vox English](/podcast/english/) — English as a foreign language, with advanced B2-C1 episodes at the start of the series.

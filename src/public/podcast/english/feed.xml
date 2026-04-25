@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Vox English</title>
@@ -9,139 +8,19 @@
     <atom:link href="https://skepvox.com/podcast/english/feed.xml" rel="self" type="application/rss+xml" />
     <language>en-US</language>
     <copyright>Copyright 2026 Thiago Oliveira</copyright>
-    <description><![CDATA[Vox English is a skepvox series by Thiago Oliveira for advanced English learners who want language that sounds precise, idiomatic, and socially aware. Each episode uses an original scene, a nuanced dialogue, a guided explanation, and a lesson guide. Episodes 001-150 target B2-C1, then the show moves into C1-C2 from episode 151. The focus is nuance: grammar choices, collocation, idiom, register, stance, implication, and how English works in real conversation.
-
-Show page: https://skepvox.com/podcast/english/]]></description>
+    <description><![CDATA[Vox English has been retired. This feed is intentionally preserved as a valid RSS endpoint with no episode items so podcast platforms can refresh to the retired state.]]></description>
     <itunes:author>skepvox</itunes:author>
     <itunes:owner>
       <itunes:name>Thiago Oliveira</itunes:name>
       <itunes:email>podcasts@skepvox.com</itunes:email>
     </itunes:owner>
-    <itunes:summary><![CDATA[Vox English is a skepvox series by Thiago Oliveira for advanced English learners who want language that sounds precise, idiomatic, and socially aware. Each episode uses an original scene, a nuanced dialogue, a guided explanation, and a lesson guide. Episodes 001-150 target B2-C1, then the show moves into C1-C2 from episode 151. The focus is nuance: grammar choices, collocation, idiom, register, stance, implication, and how English works in real conversation.
-
-Show page: https://skepvox.com/podcast/english/]]></itunes:summary>
+    <itunes:summary><![CDATA[Vox English has been retired. No episodes are distributed from this feed.]]></itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://media.skepvox.com/podcast/english/artwork/show-cover-v2.jpg" />
+    <itunes:block>Yes</itunes:block>
     <itunes:category text="Education">
       <itunes:category text="Language Learning" />
     </itunes:category>
-    <image>
-      <url>https://media.skepvox.com/podcast/english/artwork/show-cover-v2.jpg</url>
-      <title>Vox English</title>
-      <link>https://skepvox.com/podcast/english/</link>
-    </image>
-    <lastBuildDate>Thu, 23 Apr 2026 08:13:39 -0300</lastBuildDate>
-
-    <item>
-      <title>The Apology Window</title>
-      <link>https://skepvox.com/podcast/english/001-the-apology-window</link>
-      <guid isPermaLink="false">vox-english-001</guid>
-      <pubDate>Wed, 15 Apr 2026 05:00:00 -0300</pubDate>
-      <description><![CDATA[Lesson guide and full transcript:
-https://skepvox.com/podcast/english/001-the-apology-window#full-transcript
-
-In this episode of Vox English, we work with the present simple and present continuous in advanced professional English.
-
-The episode is called "The Apology Window". Maya and Owen prepare language for a public product-demo statement. The scene turns formal apology language, temporary states, corporate register, and careful negative phrasing into a compact lesson in timing and stance.
-
-This lesson helps you use the present simple and present continuous for stable facts, temporary situations, state and action meanings, developing mental states, and performative verbs.
-
-The lesson guide also explains useful vocabulary and expressions from the episode: apologize, request patience, acknowledge concern, deny regret, contingency, accountability, public statement, product demo, temporary state, and other useful advanced-English phrases.
-
-On the episode page you will find the study guide, comprehension questions, answers, notes on usage, the slow dialogue, the natural-speed dialogue, and the full transcript.]]></description>
-      <content:encoded><![CDATA[<p><strong>Lesson guide and full transcript:</strong> <a href="https://skepvox.com/podcast/english/001-the-apology-window#full-transcript">https://skepvox.com/podcast/english/001-the-apology-window#full-transcript</a></p>
-
-<p>In this episode of <strong>Vox English</strong>, we work with the present simple and present continuous in advanced professional English.</p>
-
-<p>The episode is called "<strong>The Apology Window</strong>". Maya and Owen prepare language for a public product-demo statement. The scene turns formal apology language, temporary states, corporate register, and careful negative phrasing into a compact lesson in timing and stance.</p>
-
-<p>This lesson helps you use the present simple and present continuous for stable facts, temporary situations, state and action meanings, developing mental states, and performative verbs.</p>
-
-<p>The lesson guide also explains useful vocabulary and expressions from the episode: apologize, request patience, acknowledge concern, deny regret, contingency, accountability, public statement, product demo, temporary state, and other useful advanced-English phrases.</p>
-
-<p>On the episode page you will find the study guide, comprehension questions, answers, notes on usage, the slow dialogue, the natural-speed dialogue, and the full transcript.</p>]]></content:encoded>
-      <enclosure url="https://media.skepvox.com/podcast/english/audio/english-001-the-apology-window-v3.mp3" length="34222124" type="audio/mpeg" />
-      <itunes:duration>00:23:46</itunes:duration>
-      <itunes:episode>1</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://media.skepvox.com/podcast/english/artwork/show-cover-v2.jpg" />
-    </item>
-
-    <item>
-      <title>The Headline Cushion</title>
-      <link>https://skepvox.com/podcast/english/002-the-headline-cushion</link>
-      <guid isPermaLink="false">vox-english-002</guid>
-      <pubDate>Sat, 18 Apr 2026 05:00:00 -0300</pubDate>
-      <description><![CDATA[Lesson guide and full transcript:
-https://skepvox.com/podcast/english/002-the-headline-cushion#full-transcript
-
-In this episode of Vox English, we work with headline present simple, reported-news phrases, content-summary present simple, and present continuous forms in advanced workplace English.
-
-The episode is called "The Headline Cushion". Ava and Nolan revise an internal update during a leadership transition. The scene turns headlines, board language, corporate caution, and editorial precision into a lesson in how grammar can shape authority.
-
-This lesson helps you use present simple forms in headlines, reports, summaries, and official updates, and present continuous forms for current action and repeated characteristic behavior.
-
-The lesson guide also explains useful vocabulary and expressions from the episode: internal update, headline, accountability, governance, sourced, leadership transition, legal exposure, interim role, former founder, and other useful advanced-English phrases.
-
-On the episode page you will find the study guide, comprehension questions, answers, notes on usage, the slow dialogue, the natural-speed dialogue, and the full transcript.]]></description>
-      <content:encoded><![CDATA[<p><strong>Lesson guide and full transcript:</strong> <a href="https://skepvox.com/podcast/english/002-the-headline-cushion#full-transcript">https://skepvox.com/podcast/english/002-the-headline-cushion#full-transcript</a></p>
-
-<p>In this episode of <strong>Vox English</strong>, we work with headline present simple, reported-news phrases, content-summary present simple, and present continuous forms in advanced workplace English.</p>
-
-<p>The episode is called "<strong>The Headline Cushion</strong>". Ava and Nolan revise an internal update during a leadership transition. The scene turns headlines, board language, corporate caution, and editorial precision into a lesson in how grammar can shape authority.</p>
-
-<p>This lesson helps you use present simple forms in headlines, reports, summaries, and official updates, and present continuous forms for current action and repeated characteristic behavior.</p>
-
-<p>The lesson guide also explains useful vocabulary and expressions from the episode: internal update, headline, accountability, governance, sourced, leadership transition, legal exposure, interim role, former founder, and other useful advanced-English phrases.</p>
-
-<p>On the episode page you will find the study guide, comprehension questions, answers, notes on usage, the slow dialogue, the natural-speed dialogue, and the full transcript.</p>]]></content:encoded>
-      <enclosure url="https://media.skepvox.com/podcast/english/audio/english-002-the-headline-cushion-v2.mp3" length="35083537" type="audio/mpeg" />
-      <itunes:duration>00:24:22</itunes:duration>
-      <itunes:episode>2</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://media.skepvox.com/podcast/english/artwork/show-cover-v2.jpg" />
-    </item>
-
-    <item>
-      <title>The Embargoed Award</title>
-      <link>https://skepvox.com/podcast/english/003-the-embargoed-award</link>
-      <guid isPermaLink="false">vox-english-003</guid>
-      <pubDate>Wed, 22 Apr 2026 05:00:00 -0300</pubDate>
-      <description><![CDATA[Lesson guide and full transcript:
-https://skepvox.com/podcast/english/003-the-embargoed-award#full-transcript
-
-In this episode of Vox English, we work with the past simple and the present perfect in advanced public-communication English.
-
-The episode is called "The Embargoed Award". Priya and Elliot prepare university communication around an award result. The scene turns embargoes, news releases, timing, and professional reputation into a lesson in how English frames completed facts and current relevance.
-
-This lesson helps you use past simple and present perfect with news-report openings, finished time expressions, future time clauses, since clauses, current relevance, and first-time patterns.
-
-The lesson guide also explains useful vocabulary and expressions from the episode: embargo, press note, news release, committee, panel, to reach a decision, present perfect, past simple, public mood, momentum, and other useful advanced-English phrases.
-
-On the episode page you will find the study guide, comprehension questions, answers, notes on usage, the slow dialogue, the natural-speed dialogue, and the full transcript.]]></description>
-      <content:encoded><![CDATA[<p><strong>Lesson guide and full transcript:</strong> <a href="https://skepvox.com/podcast/english/003-the-embargoed-award#full-transcript">https://skepvox.com/podcast/english/003-the-embargoed-award#full-transcript</a></p>
-
-<p>In this episode of <strong>Vox English</strong>, we work with the past simple and the present perfect in advanced public-communication English.</p>
-
-<p>The episode is called "<strong>The Embargoed Award</strong>". Priya and Elliot prepare university communication around an award result. The scene turns embargoes, news releases, timing, and professional reputation into a lesson in how English frames completed facts and current relevance.</p>
-
-<p>This lesson helps you use past simple and present perfect with news-report openings, finished time expressions, future time clauses, since clauses, current relevance, and first-time patterns.</p>
-
-<p>The lesson guide also explains useful vocabulary and expressions from the episode: embargo, press note, news release, committee, panel, to reach a decision, present perfect, past simple, public mood, momentum, and other useful advanced-English phrases.</p>
-
-<p>On the episode page you will find the study guide, comprehension questions, answers, notes on usage, the slow dialogue, the natural-speed dialogue, and the full transcript.</p>]]></content:encoded>
-      <enclosure url="https://media.skepvox.com/podcast/english/audio/english-003-the-embargoed-award-v2.mp3" length="32685497" type="audio/mpeg" />
-      <itunes:duration>00:22:42</itunes:duration>
-      <itunes:episode>3</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://media.skepvox.com/podcast/english/artwork/show-cover-v2.jpg" />
-    </item>
+    <lastBuildDate>Sat, 25 Apr 2026 09:40:31 -0300</lastBuildDate>
   </channel>
 </rss>
