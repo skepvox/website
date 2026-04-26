@@ -83,6 +83,6 @@ Les pages de cette section réunissent les transcriptions, le vocabulaire et les
 ## Leçons
 
 - [001 - Le badge](/podcast/francais/001-le-badge) — le verbe `être` au présent, l'identité, les rôles, les lieux et l'orientation dans une interaction quotidienne.
-- [002 - La valise verte](/podcast/francais/002-la-valise-verte) — le verbe `être` au présent, les descriptions, les lieux, les états et la possession dans une situation progressive.
+- [002 - La valise verte](/podcast/francais/002-la-valise-verte) — décrire une valise, situer un service, clarifier une situation et rester poli au bureau des objets trouvés.
 - [003 - Le covoiturage poli](/podcast/francais/003-le-covoiturage-poli) — le verbe `être` au présent, l'identité, l'origine, les lieux et la différence entre `tu` et `vous`.
 - [004 - Le studio calme](/podcast/francais/004-le-studio-calme) — l'accord de l'adjectif au masculin, au féminin, au singulier et au pluriel dans une visite de logement.
