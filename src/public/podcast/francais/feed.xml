@@ -31,7 +31,7 @@ Page de l'émission : https://skepvox.com/podcast/francais/]]></itunes:summary>
       <title>Vox Français</title>
       <link>https://skepvox.com/podcast/francais/</link>
     </image>
-    <lastBuildDate>Sun, 26 Apr 2026 16:29:34 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 06:24:49 -0300</lastBuildDate>
 
     <item>
       <title>Le badge</title>
@@ -163,6 +163,43 @@ Vous trouverez sur la page de l'épisode le guide d'apprentissage, les questions
       <enclosure url="https://media.skepvox.com/podcast/francais/audio/francais-004-le-studio-calme-v3.mp3" length="36549947" type="audio/mpeg" />
       <itunes:duration>00:25:23</itunes:duration>
       <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://media.skepvox.com/podcast/francais/artwork/show-cover-v2.jpg" />
+    </item>
+
+    <item>
+      <title>Le colis invisible</title>
+      <link>https://skepvox.com/podcast/francais/005-le-colis-invisible</link>
+      <guid isPermaLink="false">vox-francais-005</guid>
+      <pubDate>Mon, 27 Apr 2026 05:00:00 -0300</pubDate>
+      <description><![CDATA[Guide complet et transcription :
+https://skepvox.com/podcast/francais/005-le-colis-invisible#transcription-complete
+
+Dans cet épisode de Vox Français, nous travaillons la négation simple, les questions oui/non et les réponses courtes comme oui, non, si, pas vraiment et moi non plus.
+
+L'épisode s'appelle "Le colis invisible". Claire travaille dans un point relais et Antoine arrive avec une histoire d'immeuble, un avis de passage et beaucoup de réponses indirectes.
+
+Cette leçon vous aide à comprendre les questions par intonation, les questions avec est-ce que, les phrases avec ne ... pas ou n' ... pas, et la réponse si après une question négative.
+
+Le guide de leçon explique aussi le vocabulaire important de l'épisode : point relais, colis, code de retrait, pièce d'identité, destinataire, avis de passage, reçu, automatique, organiseur mural, boîte aux lettres et plusieurs autres mots utiles.
+
+Vous trouverez sur la page de l'épisode le guide d'apprentissage, les questions de compréhension, les réponses, la note culturelle, le dialogue lent, le dialogue à vitesse naturelle et la transcription complète.]]></description>
+      <content:encoded><![CDATA[<p><strong>Guide complet et transcription :</strong> <a href="https://skepvox.com/podcast/francais/005-le-colis-invisible#transcription-complete">https://skepvox.com/podcast/francais/005-le-colis-invisible#transcription-complete</a></p>
+
+<p>Dans cet épisode de <strong>Vox Français</strong>, nous travaillons la négation simple, les questions oui/non et les réponses courtes comme <em>oui, non, si, pas vraiment</em> et <em>moi non plus</em>.</p>
+
+<p>L'épisode s'appelle <strong>"Le colis invisible"</strong>. Claire travaille dans un point relais et Antoine arrive avec une histoire d'immeuble, un avis de passage et beaucoup de réponses indirectes.</p>
+
+<p>Cette leçon vous aide à comprendre les questions par intonation, les questions avec <em>est-ce que</em>, les phrases avec <em>ne ... pas</em> ou <em>n' ... pas</em>, et la réponse <em>si</em> après une question négative.</p>
+
+<p>Le guide de leçon explique aussi le vocabulaire important de l'épisode : <em>point relais, colis, code de retrait, pièce d'identité, destinataire, avis de passage, reçu, automatique, organiseur mural, boîte aux lettres</em> et plusieurs autres mots utiles.</p>
+
+<p>Vous trouverez sur la page de l'épisode le guide d'apprentissage, les questions de compréhension, les réponses, la note culturelle, le dialogue lent, le dialogue à vitesse naturelle et la transcription complète.</p>]]></content:encoded>
+      <enclosure url="https://media.skepvox.com/podcast/francais/audio/francais-005-le-colis-invisible-v1.mp3" length="32272971" type="audio/mpeg" />
+      <itunes:duration>00:22:25</itunes:duration>
+      <itunes:episode>5</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
