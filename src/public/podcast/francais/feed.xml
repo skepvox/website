@@ -31,7 +31,7 @@ Page de l'émission : https://skepvox.com/podcast/francais/]]></itunes:summary>
       <title>Vox Français</title>
       <link>https://skepvox.com/podcast/francais/</link>
     </image>
-    <lastBuildDate>Mon, 27 Apr 2026 06:24:49 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 20:08:52 -0300</lastBuildDate>
 
     <item>
       <title>Le badge</title>
@@ -200,6 +200,43 @@ Vous trouverez sur la page de l'épisode le guide d'apprentissage, les questions
       <enclosure url="https://media.skepvox.com/podcast/francais/audio/francais-005-le-colis-invisible-v1.mp3" length="32272971" type="audio/mpeg" />
       <itunes:duration>00:22:25</itunes:duration>
       <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://media.skepvox.com/podcast/francais/artwork/show-cover-v2.jpg" />
+    </item>
+
+    <item>
+      <title>Le livre en retard</title>
+      <link>https://skepvox.com/podcast/francais/006-le-livre-en-retard</link>
+      <guid isPermaLink="false">vox-francais-006</guid>
+      <pubDate>Thu, 30 Apr 2026 05:00:00 -0300</pubDate>
+      <description><![CDATA[Guide complet et transcription :
+https://skepvox.com/podcast/francais/006-le-livre-en-retard#transcription-complete
+
+Dans cet épisode de Vox Français, nous continuons la négation simple, les questions oui/non et les réponses courtes comme oui, non, si, pas vraiment, moi aussi et moi non plus.
+
+L'épisode s'appelle "Le livre en retard". Bérénice travaille dans une médiathèque et Samir vient renouveler sa carte, mais son dossier contient un détail administratif un peu gênant.
+
+Cette leçon vous aide à comprendre les questions avec est-ce que, les questions par intonation, les phrases avec ne ... pas ou n' ... pas, et la différence entre non, pas et si selon la question.
+
+Le guide de leçon explique aussi le vocabulaire important de l'épisode : médiathèque, inscription, renouvellement, dossier, sous contrôle, livre en retard, amende, atelier, démonstration pédagogique, désorganisé, exemple vivant et plusieurs autres mots utiles.
+
+Vous trouverez sur la page de l'épisode le guide d'apprentissage, les questions de compréhension, les réponses, la note culturelle, le dialogue lent, le dialogue à vitesse naturelle et la transcription complète.]]></description>
+      <content:encoded><![CDATA[<p><strong>Guide complet et transcription :</strong> <a href="https://skepvox.com/podcast/francais/006-le-livre-en-retard#transcription-complete">https://skepvox.com/podcast/francais/006-le-livre-en-retard#transcription-complete</a></p>
+
+<p>Dans cet épisode de <strong>Vox Français</strong>, nous continuons la négation simple, les questions oui/non et les réponses courtes comme <em>oui, non, si, pas vraiment, moi aussi</em> et <em>moi non plus</em>.</p>
+
+<p>L'épisode s'appelle <strong>"Le livre en retard"</strong>. Bérénice travaille dans une médiathèque et Samir vient renouveler sa carte, mais son dossier contient un détail administratif un peu gênant.</p>
+
+<p>Cette leçon vous aide à comprendre les questions avec <em>est-ce que</em>, les questions par intonation, les phrases avec <em>ne ... pas</em> ou <em>n' ... pas</em>, et la différence entre <em>non</em>, <em>pas</em> et <em>si</em> selon la question.</p>
+
+<p>Le guide de leçon explique aussi le vocabulaire important de l'épisode : <em>médiathèque, inscription, renouvellement, dossier, sous contrôle, livre en retard, amende, atelier, démonstration pédagogique, désorganisé, exemple vivant</em> et plusieurs autres mots utiles.</p>
+
+<p>Vous trouverez sur la page de l'épisode le guide d'apprentissage, les questions de compréhension, les réponses, la note culturelle, le dialogue lent, le dialogue à vitesse naturelle et la transcription complète.</p>]]></content:encoded>
+      <enclosure url="https://media.skepvox.com/podcast/francais/audio/francais-006-le-livre-en-retard-v1.mp3" length="33814613" type="audio/mpeg" />
+      <itunes:duration>00:23:29</itunes:duration>
+      <itunes:episode>6</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
