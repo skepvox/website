@@ -49,6 +49,8 @@ class ShowConfig:
     fallback_description_template: str
     fallback_keywords_template: str
     og_locale: str
+    artwork_url: str
+    artwork_alt: str
 
 
 SHOWS: tuple[ShowConfig, ...] = (
@@ -91,6 +93,8 @@ SHOWS: tuple[ShowConfig, ...] = (
             "FLE, transcription, dialogue français, guide de leçon"
         ),
         og_locale="fr_FR",
+        artwork_url=shared_show_value("francais", "artwork_url"),
+        artwork_alt="Couverture de Vox Français",
     ),
     ShowConfig(
         key="espanol",
@@ -130,6 +134,8 @@ SHOWS: tuple[ShowConfig, ...] = (
             "ELE, transcripción, diálogo español, guía de lección"
         ),
         og_locale="es_ES",
+        artwork_url=shared_show_value("espanol", "artwork_url"),
+        artwork_alt="Portada de Vox Español",
     ),
 )
 
@@ -213,6 +219,23 @@ def normalize_existing_frontmatter(raw_frontmatter: str) -> str:
     return raw_frontmatter.strip()
 
 
+def parse_existing_top_level_scalar(frontmatter: str, key: str) -> str:
+    match = re.search(rf"(?m)^{re.escape(key)}:\s*(.+)$", frontmatter)
+    if not match:
+        return ""
+    return strip_quotes(match.group(1))
+
+
+def parse_existing_meta_content(frontmatter: str, attr: str, value: str) -> str:
+    pattern = re.compile(
+        rf"(?ms)^  - - meta\n    - {re.escape(attr)}: {re.escape(value)}\n      content:\s*(.+?)$"
+    )
+    match = pattern.search(frontmatter)
+    if not match:
+        return ""
+    return strip_quotes(match.group(1))
+
+
 def build_new_frontmatter(show: ShowConfig, page_title: str, description: str, keywords: str, url: str, teaches: str, language: str) -> str:
     json_ld = json.dumps(
         {
@@ -222,6 +245,12 @@ def build_new_frontmatter(show: ShowConfig, page_title: str, description: str, k
             "url": url,
             "name": page_title,
             "description": description,
+            "image": {
+                "@type": "ImageObject",
+                "url": show.artwork_url,
+                "width": 3000,
+                "height": 3000,
+            },
             "learningResourceType": ["podcast transcript", "lesson guide"],
             "teaches": teaches,
             "inLanguage": language,
@@ -265,6 +294,21 @@ def build_new_frontmatter(show: ShowConfig, page_title: str, description: str, k
         "    - property: og:locale",
         f"      content: {show.og_locale}",
         "  - - meta",
+        "    - property: og:image",
+        f"      content: {yaml_quote(show.artwork_url)}",
+        "  - - meta",
+        "    - property: og:image:type",
+        "      content: image/jpeg",
+        "  - - meta",
+        "    - property: og:image:width",
+        "      content: \"3000\"",
+        "  - - meta",
+        "    - property: og:image:height",
+        "      content: \"3000\"",
+        "  - - meta",
+        "    - property: og:image:alt",
+        f"      content: {yaml_quote(show.artwork_alt)}",
+        "  - - meta",
         "    - name: twitter:card",
         "      content: summary_large_image",
         "  - - meta",
@@ -273,6 +317,12 @@ def build_new_frontmatter(show: ShowConfig, page_title: str, description: str, k
         "  - - meta",
         "    - name: twitter:description",
         f"      content: {yaml_quote(description)}",
+        "  - - meta",
+        "    - name: twitter:image",
+        f"      content: {yaml_quote(show.artwork_url)}",
+        "  - - meta",
+        "    - name: twitter:image:alt",
+        f"      content: {yaml_quote(show.artwork_alt)}",
         "  - - script",
         "    - type: application/ld+json",
         "    - |",
@@ -282,23 +332,28 @@ def build_new_frontmatter(show: ShowConfig, page_title: str, description: str, k
 
 
 def build_frontmatter(show: ShowConfig, source_frontmatter: str, page_title: str, url: str, existing_frontmatter: str | None) -> str:
-    if existing_frontmatter is not None:
-        return normalize_existing_frontmatter(existing_frontmatter)
-
     episode_number = int(parse_source_scalar(source_frontmatter, "episode-number"))
     episode_title = parse_source_scalar(source_frontmatter, "episode-title")
     main_grammar_point = parse_source_scalar(source_frontmatter, "main-grammar-point")
     language = parse_source_scalar(source_frontmatter, "language")
-    description = show.fallback_description_template.format(
-        episode_number=episode_number,
-        episode_title=episode_title,
-        main_grammar_point=main_grammar_point,
-    )
-    keywords = show.fallback_keywords_template.format(
-        episode_number=episode_number,
-        episode_title=episode_title,
-        main_grammar_point=main_grammar_point,
-    )
+    description = ""
+    keywords = ""
+    if existing_frontmatter is not None:
+        normalized_existing = normalize_existing_frontmatter(existing_frontmatter)
+        description = parse_existing_top_level_scalar(normalized_existing, "description")
+        keywords = parse_existing_meta_content(normalized_existing, "name", "keywords")
+    if not description:
+        description = show.fallback_description_template.format(
+            episode_number=episode_number,
+            episode_title=episode_title,
+            main_grammar_point=main_grammar_point,
+        )
+    if not keywords:
+        keywords = show.fallback_keywords_template.format(
+            episode_number=episode_number,
+            episode_title=episode_title,
+            main_grammar_point=main_grammar_point,
+        )
     return build_new_frontmatter(show, page_title, description, keywords, url, main_grammar_point, language)
 
 

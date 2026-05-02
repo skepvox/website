@@ -31,6 +31,21 @@ head:
     - property: og:locale
       content: fr_FR
   - - meta
+    - property: og:image
+      content: "https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg"
+  - - meta
+    - property: og:image:type
+      content: image/jpeg
+  - - meta
+    - property: og:image:width
+      content: "3000"
+  - - meta
+    - property: og:image:height
+      content: "3000"
+  - - meta
+    - property: og:image:alt
+      content: "Couverture de Vox Français"
+  - - meta
     - name: twitter:card
       content: summary_large_image
   - - meta
@@ -39,6 +54,12 @@ head:
   - - meta
     - name: twitter:description
       content: "Guide de leçon et transcription de l’épisode 003 de Vox Français : Le covoiturage poli, sur le verbe être au présent, tu et vous."
+  - - meta
+    - name: twitter:image
+      content: "https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg"
+  - - meta
+    - name: twitter:image:alt
+      content: "Couverture de Vox Français"
   - - script
     - type: application/ld+json
     - |
@@ -49,8 +70,17 @@ head:
         "url": "https://skepvox.com/podcast/francais/003-le-covoiturage-poli",
         "name": "Vox Français 003 — Le covoiturage poli",
         "description": "Guide de leçon et transcription de l’épisode 003 de Vox Français : Le covoiturage poli, sur le verbe être au présent, tu et vous.",
-        "learningResourceType": ["podcast transcript", "lesson guide"],
-        "teaches": "Le verbe être au présent pour vérifier une identité, donner une origine, situer une personne, exprimer un état et ajuster tu ou vous dans une interaction polie.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg",
+          "width": 3000,
+          "height": 3000
+        },
+        "learningResourceType": [
+          "podcast transcript",
+          "lesson guide"
+        ],
+        "teaches": "Vérifier une identité, indiquer une origine ou un lieu, et ajuster tu/vous avec des phrases simples autour de être.",
         "inLanguage": "fr-FR",
         "publisher": {
           "@id": "https://skepvox.com/#organization"

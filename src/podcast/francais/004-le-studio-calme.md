@@ -31,6 +31,21 @@ head:
     - property: og:locale
       content: fr_FR
   - - meta
+    - property: og:image
+      content: "https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg"
+  - - meta
+    - property: og:image:type
+      content: image/jpeg
+  - - meta
+    - property: og:image:width
+      content: "3000"
+  - - meta
+    - property: og:image:height
+      content: "3000"
+  - - meta
+    - property: og:image:alt
+      content: "Couverture de Vox Français"
+  - - meta
     - name: twitter:card
       content: summary_large_image
   - - meta
@@ -39,6 +54,12 @@ head:
   - - meta
     - name: twitter:description
       content: "Guide de leçon et transcription de l’épisode 004 de Vox Français : Le studio calme, sur l’accord de l’adjectif."
+  - - meta
+    - name: twitter:image
+      content: "https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg"
+  - - meta
+    - name: twitter:image:alt
+      content: "Couverture de Vox Français"
   - - script
     - type: application/ld+json
     - |
@@ -49,8 +70,17 @@ head:
         "url": "https://skepvox.com/podcast/francais/004-le-studio-calme",
         "name": "Vox Français 004 — Le studio calme",
         "description": "Guide de leçon et transcription de l’épisode 004 de Vox Français : Le studio calme, sur l’accord de l’adjectif.",
-        "learningResourceType": ["podcast transcript", "lesson guide"],
-        "teaches": "L’accord de l’adjectif au masculin, au féminin, au singulier et au pluriel pour décrire un logement, un dossier et une personne.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg",
+          "width": 3000,
+          "height": 3000
+        },
+        "learningResourceType": [
+          "podcast transcript",
+          "lesson guide"
+        ],
+        "teaches": "Accord de l'adjectif au masculin, au féminin, au singulier, au pluriel, et avec je, tu, vous et on.",
         "inLanguage": "fr-FR",
         "publisher": {
           "@id": "https://skepvox.com/#organization"

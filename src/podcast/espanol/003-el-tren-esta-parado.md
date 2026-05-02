@@ -31,6 +31,21 @@ head:
     - property: og:locale
       content: es_ES
   - - meta
+    - property: og:image
+      content: "https://media.skepvox.com/podcast/espanol/artwork/show-cover-v3.jpg"
+  - - meta
+    - property: og:image:type
+      content: image/jpeg
+  - - meta
+    - property: og:image:width
+      content: "3000"
+  - - meta
+    - property: og:image:height
+      content: "3000"
+  - - meta
+    - property: og:image:alt
+      content: "Portada de Vox Español"
+  - - meta
     - name: twitter:card
       content: summary_large_image
   - - meta
@@ -39,6 +54,12 @@ head:
   - - meta
     - name: twitter:description
       content: "Guía de lección y transcripción del episodio 003 de Vox Español: El tren está parado, sobre el contraste entre ser y estar en una estación de tren, con identidad, ubicación, función profesional y estados temporales."
+  - - meta
+    - name: twitter:image
+      content: "https://media.skepvox.com/podcast/espanol/artwork/show-cover-v3.jpg"
+  - - meta
+    - name: twitter:image:alt
+      content: "Portada de Vox Español"
   - - script
     - type: application/ld+json
     - |
@@ -49,6 +70,12 @@ head:
         "url": "https://skepvox.com/podcast/espanol/003-el-tren-esta-parado",
         "name": "Vox Español 003 - El tren está parado",
         "description": "Guía de lección y transcripción del episodio 003 de Vox Español: El tren está parado, sobre el contraste entre ser y estar en una estación de tren, con identidad, ubicación, función profesional y estados temporales.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://media.skepvox.com/podcast/espanol/artwork/show-cover-v3.jpg",
+          "width": 3000,
+          "height": 3000
+        },
         "learningResourceType": [
           "podcast transcript",
           "lesson guide"

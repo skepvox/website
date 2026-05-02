@@ -36,6 +36,21 @@ head:
     - property: og:locale
       content: fr_FR
   - - meta
+    - property: og:image
+      content: 'https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg'
+  - - meta
+    - property: og:image:type
+      content: image/jpeg
+  - - meta
+    - property: og:image:width
+      content: '3000'
+  - - meta
+    - property: og:image:height
+      content: '3000'
+  - - meta
+    - property: og:image:alt
+      content: 'Couverture de Vox Français'
+  - - meta
     - name: twitter:card
       content: summary_large_image
   - - meta
@@ -44,6 +59,12 @@ head:
   - - meta
     - name: twitter:description
       content: 'Dialogues, explications et guides de leçon pour apprendre le français avec Vox Français.'
+  - - meta
+    - name: twitter:image
+      content: 'https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg'
+  - - meta
+    - name: twitter:image:alt
+      content: 'Couverture de Vox Français'
   - - script
     - type: application/ld+json
     - |
@@ -54,6 +75,12 @@ head:
         "url": "https://skepvox.com/podcast/francais/",
         "name": "Vox Français",
         "description": "Vox Français, une série skepvox de Thiago Oliveira, avec dialogues, explications, guides de leçon et transcriptions.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg",
+          "width": 3000,
+          "height": 3000
+        },
         "isPartOf": {
           "@id": "https://skepvox.com/#website"
         },

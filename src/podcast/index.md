@@ -24,6 +24,45 @@ head:
   - - meta
     - property: og:site_name
       content: 'skepvox'
+  - - meta
+    - property: og:image
+      content: 'https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg'
+  - - meta
+    - property: og:image:type
+      content: image/jpeg
+  - - meta
+    - property: og:image:width
+      content: '3000'
+  - - meta
+    - property: og:image:height
+      content: '3000'
+  - - meta
+    - property: og:image:alt
+      content: 'Couverture de Vox Français'
+  - - meta
+    - property: og:image
+      content: 'https://media.skepvox.com/podcast/espanol/artwork/show-cover-v3.jpg'
+  - - meta
+    - property: og:image:type
+      content: image/jpeg
+  - - meta
+    - property: og:image:width
+      content: '3000'
+  - - meta
+    - property: og:image:height
+      content: '3000'
+  - - meta
+    - property: og:image:alt
+      content: 'Portada de Vox Español'
+  - - meta
+    - name: twitter:card
+      content: summary_large_image
+  - - meta
+    - name: twitter:image
+      content: 'https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg'
+  - - meta
+    - name: twitter:image:alt
+      content: 'Couverture de Vox Français'
   - - script
     - type: application/ld+json
     - |
@@ -34,6 +73,10 @@ head:
         "url": "https://skepvox.com/podcast/",
         "name": "Podcasts skepvox",
         "description": "Podcasts skepvox para aprendizagem de idiomas.",
+        "image": [
+          "https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg",
+          "https://media.skepvox.com/podcast/espanol/artwork/show-cover-v3.jpg"
+        ],
         "isPartOf": {
           "@id": "https://skepvox.com/#website"
         },

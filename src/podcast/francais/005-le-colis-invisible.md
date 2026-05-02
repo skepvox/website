@@ -31,6 +31,21 @@ head:
     - property: og:locale
       content: fr_FR
   - - meta
+    - property: og:image
+      content: "https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg"
+  - - meta
+    - property: og:image:type
+      content: image/jpeg
+  - - meta
+    - property: og:image:width
+      content: "3000"
+  - - meta
+    - property: og:image:height
+      content: "3000"
+  - - meta
+    - property: og:image:alt
+      content: "Couverture de Vox Français"
+  - - meta
     - name: twitter:card
       content: summary_large_image
   - - meta
@@ -39,6 +54,12 @@ head:
   - - meta
     - name: twitter:description
       content: "Guide de leçon et transcription de l’épisode 005 de Vox Français : Le colis invisible. Négation simple avec ne ... pas et n' ... pas; questions oui/non par intonation, est-ce que et inversion; réponses oui, si, non, pas, moi aussi et moi non plus."
+  - - meta
+    - name: twitter:image
+      content: "https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg"
+  - - meta
+    - name: twitter:image:alt
+      content: "Couverture de Vox Français"
   - - script
     - type: application/ld+json
     - |
@@ -49,6 +70,12 @@ head:
         "url": "https://skepvox.com/podcast/francais/005-le-colis-invisible",
         "name": "Vox Français 005 — Le colis invisible",
         "description": "Guide de leçon et transcription de l’épisode 005 de Vox Français : Le colis invisible. Négation simple avec ne ... pas et n' ... pas; questions oui/non par intonation, est-ce que et inversion; réponses oui, si, non, pas, moi aussi et moi non plus.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg",
+          "width": 3000,
+          "height": 3000
+        },
         "learningResourceType": [
           "podcast transcript",
           "lesson guide"

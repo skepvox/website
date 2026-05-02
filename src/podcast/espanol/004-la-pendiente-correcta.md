@@ -31,6 +31,21 @@ head:
     - property: og:locale
       content: es_ES
   - - meta
+    - property: og:image
+      content: "https://media.skepvox.com/podcast/espanol/artwork/show-cover-v3.jpg"
+  - - meta
+    - property: og:image:type
+      content: image/jpeg
+  - - meta
+    - property: og:image:width
+      content: "3000"
+  - - meta
+    - property: og:image:height
+      content: "3000"
+  - - meta
+    - property: og:image:alt
+      content: "Portada de Vox Español"
+  - - meta
     - name: twitter:card
       content: summary_large_image
   - - meta
@@ -39,6 +54,12 @@ head:
   - - meta
     - name: twitter:description
       content: "Guía de lección y transcripción del episodio 004 de Vox Español: La pendiente correcta. Genero gramatical y articulo como clave de significado, con foco en el pendiente/la pendiente, profesiones y cargos en femenino visible, y lectura precisa del sustantivo dentro de una escena social."
+  - - meta
+    - name: twitter:image
+      content: "https://media.skepvox.com/podcast/espanol/artwork/show-cover-v3.jpg"
+  - - meta
+    - name: twitter:image:alt
+      content: "Portada de Vox Español"
   - - script
     - type: application/ld+json
     - |
@@ -49,6 +70,12 @@ head:
         "url": "https://skepvox.com/podcast/espanol/004-la-pendiente-correcta",
         "name": "Vox Español 004 - La pendiente correcta",
         "description": "Guía de lección y transcripción del episodio 004 de Vox Español: La pendiente correcta. Genero gramatical y articulo como clave de significado, con foco en el pendiente/la pendiente, profesiones y cargos en femenino visible, y lectura precisa del sustantivo dentro de una escena social.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://media.skepvox.com/podcast/espanol/artwork/show-cover-v3.jpg",
+          "width": 3000,
+          "height": 3000
+        },
         "learningResourceType": [
           "podcast transcript",
           "lesson guide"

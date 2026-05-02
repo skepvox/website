@@ -31,6 +31,21 @@ head:
     - property: og:locale
       content: fr_FR
   - - meta
+    - property: og:image
+      content: "https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg"
+  - - meta
+    - property: og:image:type
+      content: image/jpeg
+  - - meta
+    - property: og:image:width
+      content: "3000"
+  - - meta
+    - property: og:image:height
+      content: "3000"
+  - - meta
+    - property: og:image:alt
+      content: "Couverture de Vox Français"
+  - - meta
     - name: twitter:card
       content: summary_large_image
   - - meta
@@ -39,6 +54,12 @@ head:
   - - meta
     - name: twitter:description
       content: "Guide de leçon et transcription de l’épisode 001 de Vox Français : Le badge, une scène de forum municipal, d’accueil et de confusion polie."
+  - - meta
+    - name: twitter:image
+      content: "https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg"
+  - - meta
+    - name: twitter:image:alt
+      content: "Couverture de Vox Français"
   - - script
     - type: application/ld+json
     - |
@@ -49,8 +70,17 @@ head:
         "url": "https://skepvox.com/podcast/francais/001-le-badge",
         "name": "Vox Français 001 — Le badge",
         "description": "Guide de leçon et transcription de l’épisode 001 de Vox Français : Le badge, une scène de forum municipal, d’accueil et de confusion polie.",
-        "learningResourceType": ["podcast transcript", "lesson guide"],
-        "teaches": "Se présenter, préciser un rôle et clarifier qui est qui dans un lieu public.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg",
+          "width": 3000,
+          "height": 3000
+        },
+        "learningResourceType": [
+          "podcast transcript",
+          "lesson guide"
+        ],
+        "teaches": "Se présenter, préciser un rôle et clarifier qui est qui dans un lieu public, avec des phrases simples autour de être.",
         "inLanguage": "fr-FR",
         "publisher": {
           "@id": "https://skepvox.com/#organization"

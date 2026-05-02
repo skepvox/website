@@ -31,6 +31,21 @@ head:
     - property: og:locale
       content: fr_FR
   - - meta
+    - property: og:image
+      content: "https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg"
+  - - meta
+    - property: og:image:type
+      content: image/jpeg
+  - - meta
+    - property: og:image:width
+      content: "3000"
+  - - meta
+    - property: og:image:height
+      content: "3000"
+  - - meta
+    - property: og:image:alt
+      content: "Couverture de Vox Français"
+  - - meta
     - name: twitter:card
       content: summary_large_image
   - - meta
@@ -39,6 +54,12 @@ head:
   - - meta
     - name: twitter:description
       content: "Guide de leçon et transcription de l’épisode 002 de Vox Français : La valise verte, une scène au bureau des objets trouvés pour décrire une valise et clarifier une situation."
+  - - meta
+    - name: twitter:image
+      content: "https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg"
+  - - meta
+    - name: twitter:image:alt
+      content: "Couverture de Vox Français"
   - - script
     - type: application/ld+json
     - |
@@ -49,7 +70,16 @@ head:
         "url": "https://skepvox.com/podcast/francais/002-la-valise-verte",
         "name": "Vox Français 002 — La valise verte",
         "description": "Guide de leçon et transcription de l’épisode 002 de Vox Français : La valise verte, une scène au bureau des objets trouvés pour décrire une valise et clarifier une situation.",
-        "learningResourceType": ["podcast transcript", "lesson guide"],
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg",
+          "width": 3000,
+          "height": 3000
+        },
+        "learningResourceType": [
+          "podcast transcript",
+          "lesson guide"
+        ],
         "teaches": "Décrire un objet, situer un service, préciser un état et clarifier une situation avec des phrases simples autour de être.",
         "inLanguage": "fr-FR",
         "publisher": {
