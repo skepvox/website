@@ -77,15 +77,13 @@ Utilisez les sections suivantes pour accéder directement à la transcription, a
 
 ## Introduction
 
-Bonjour et bienvenue dans le Podcast de français langue étrangère, le podcast pour apprendre le français avec une scène courte, un dialogue vivant et une explication claire. Aujourd'hui, nous sommes dans une gare, au bureau des objets trouvés. Camille cherche une valise verte qu'elle a perdue après un voyage. Marc, l'employé, l'aide à décrire l'objet : la couleur, la taille, l'étiquette, le contenu, et le lieu. Le verbe être sert de fil conducteur pour dire qui parle, où l'on est, comment est la valise, et dans quel état se trouve la situation.
-
-C'est parti.
+Bonjour et bienvenue dans le Podcast de français langue étrangère, le podcast pour apprendre le français avec une scène courte, un dialogue vivant et une explication claire. Aujourd'hui, nous sommes dans une gare, au bureau des objets trouvés. Camille cherche une valise verte qu'elle a perdue après un voyage. Marc, l'employé, l'aide à décrire l'objet : la couleur, la taille, l'étiquette, le contenu, et le lieu. Le verbe être sert de fil conducteur pour dire qui parle, où l'on est, comment est cet objet, puis dans quel état se trouve la situation. C'est parti.
 
 ## Dialogue - version lente
 
 [début du dialogue]
 
-Camille : Bonjour, je suis Camille Morel. Je suis ici pour une valise perdue depuis mardi soir, voie six, entre deux annonces très dramatiques.
+Camille : Bonjour, je suis Camille Morel. Je suis ici pour une valise perdue depuis mardi soir, voie numéro six, entre deux annonces très dramatiques.
 
 Marc : Très bien. Vous êtes au bureau des objets trouvés. La valise est comment ? Soyez précise : ici, les objets ont parfois beaucoup de personnalité.
 
@@ -113,7 +111,7 @@ Camille : Vous voulez dire que ma valise est sous vos dossiers ? J'espère qu'el
 
 Marc : Pas sous. Elle est le support officiel des dossiers urgents, du formulaire jaune, et d'un petit panneau "merci de patienter".
 
-Camille : Monsieur, je suis fatiguée, mes pulls sont prisonniers, et ma tante est sans cadeau. Je peux récupérer ma valise avant sa promotion ?
+Camille : Monsieur, je suis fatiguée, mes pulls sont prisonniers, et ma tante est sans cadeau. Est-ce que je peux récupérer ma valise avant sa promotion ?
 
 Marc : Oui, mais doucement. Le formulaire jaune est dessus, le tampon est dessus, et mon café est malheureusement dessus aussi. Il est presque vide, par chance.
 
@@ -125,51 +123,73 @@ Marc : Non. Elle est en CDI jusqu'à la livraison de la nouvelle table. Si vous 
 
 ## Explication
 
+<!-- explication-beat: 01-arrivee-au-service -->
+
 Dans ce dialogue, Camille arrive dans une gare. Elle va au bureau des objets trouvés. Ce service garde les objets oubliés ou retrouvés : un sac, une clé, un téléphone, un parapluie, ou ici, une valise. Camille commence simplement : "Bonjour, je suis Camille Morel." Elle donne son identité. Puis elle ajoute : "Je suis ici pour une valise perdue." Cette phrase est très utile dans un service public. "Je suis ici pour..." annonce l'objectif : je suis ici pour un rendez-vous, pour un colis, pour une inscription, pour une valise. La grammaire reste très simple, mais elle sert tout de suite à agir.
 
-Camille situe ensuite la scène : "depuis mardi soir, voie six, entre deux annonces très dramatiques." La voie, dans une gare, c'est l'endroit où le train arrive ou part. À l'oral, voie se prononce exactement comme la voix d'une personne ; seul le contexte de la gare permet de distinguer les deux. Une annonce est un message que l'on entend dans la gare. Camille dit "très dramatiques" avec humour, parce que les annonces peuvent être rapides, fortes, et un peu stressantes quand on voyage. Le détail "depuis mardi soir" donne aussi le temps du problème. La valise n'est pas perdue depuis cinq minutes. Camille a attendu, elle a cherché, et maintenant elle vient demander de l'aide.
+<!-- explication-beat: 02-voie-numero-six -->
+
+Camille situe ensuite la scène : "depuis mardi soir, voie numéro six, entre deux annonces très dramatiques." La voie, dans une gare, c'est l'endroit où le train arrive ou part. À l'oral, voie se prononce exactement comme la voix d'une personne ; seul le contexte de la gare permet de distinguer les deux. Une annonce est un message que l'on entend dans la gare. Camille dit "très dramatiques" avec humour, parce que les annonces peuvent être rapides, fortes, et un peu stressantes quand on voyage. Le détail "depuis mardi soir" donne aussi le temps du problème. La valise n'est pas perdue depuis cinq minutes. Camille a attendu, elle a cherché, et maintenant elle vient demander de l'aide.
+
+<!-- explication-beat: 03-vous-etes-et-description -->
 
 Marc répond : "Vous êtes au bureau des objets trouvés." Ici, "vous êtes" situe Camille dans le bon service. Elle n'est pas au guichet des billets, elle n'est pas sur le quai, elle est au bureau où l'on cherche les objets perdus. Cette petite formule rassure aussi Camille : elle est au bon endroit, et elle peut commencer sa demande. Remarquez le ton : Marc dit vous. Camille et Marc ne se connaissent pas, et l'échange se passe dans une interaction de service. Le vouvoiement garde la distance polie. À l'oral, la liaison dans "vous êtes" est très fréquente. Elle aide aussi à entendre la formule comme un bloc très naturel.
 
 Marc demande : "La valise est comment ?" Il ne demande pas encore toute l'histoire ; il demande une description. Dans un bureau des objets trouvés, il faut être précis. Le mot précis signifie : clair, détaillé, pas vague. Camille répond donc : "Elle est verte, assez grande, avec une petite étiquette rouge." L'étiquette est la petite carte attachée à la valise. Elle peut porter un nom, une adresse ou un signe qui permet de reconnaître le bagage. Ici, l'étiquette rouge devient un indice important. Marc semble la connaître.
 
-Camille continue : "Elle est lourde, mais pas tragique." Lourd ou lourde veut dire que l'objet pèse beaucoup. Tragique est un mot beaucoup plus fort, presque théâtral. Camille joue avec ce contraste. Une valise peut être lourde, mais normalement elle n'est pas tragique. Elle devient tragique parce que ses pulls sont dedans. Un pull est un vêtement chaud, et Camille porte déjà le même pull depuis trop longtemps. Le détail est petit, concret, et il rend son problème très humain.
+<!-- explication-beat: 04-lourde-et-peut-etre -->
+
+Camille continue : "Elle est lourde, mais pas tragique." On dit lourd au masculin et lourde au féminin. Le sens est le même : l'objet pèse beaucoup. Tragique est un mot beaucoup plus fort, presque théâtral. Camille joue avec ce contraste. Une valise peut être lourde, mais normalement elle n'est pas tragique. Elle devient tragique parce que ses pulls sont dedans. Un pull est un vêtement chaud, et Camille porte déjà le même pull depuis trop longtemps. Le détail est petit, concret, et il rend son problème très humain.
 
 Marc répond avec prudence : "Elle est peut-être ici." Peut-être marque l'incertitude. Mais sa phrase suivante le trahit un peu : il ne veut pas être "trop affirmatif" devant une valise qu'il connaît depuis deux jours. Normalement, on ne connaît pas une valise comme une personne. On peut la voir, la ranger, la retrouver. Marc parle déjà comme si la valise avait une petite place dans la vie du bureau. Camille entend cette nuance. Elle lui dit qu'il a l'air très sûr pour un "peut-être". Avoir l'air signifie sembler. Son regard donne plus d'information que ses mots.
 
-Marc se présente alors comme prudent : "Je suis prudent." Ici, être décrit une attitude. Il ne dit pas seulement où il est ; il explique comment il se comporte. Puis il transforme la valise en "problème administratif avec des roulettes". Cette expression est très bonne pour la scène. Les roulettes appartiennent au monde du voyage. Le problème administratif appartient au monde des formulaires, des dossiers et des services. En mélangeant les deux, Marc montre que la valise n'est déjà plus seulement un bagage. Elle est entrée dans la logique du bureau.
+<!-- explication-beat: 05-prudent-et-a-moi -->
+
+Marc se présente alors comme prudent : "Je suis prudent." Ici, être décrit une attitude. Il ne dit pas seulement où il est ; il explique comment il se comporte. Puis il transforme la valise en "problème administratif avec des roulettes". Cette expression est très bonne pour la scène. Les roulettes appartiennent au monde du voyage. Le problème administratif appartient au monde des formulaires, des dossiers et des services. En mélangeant les deux, Marc montre que la valise n'est déjà plus seulement un bagage. Elle fait maintenant partie de ce service.
 
 Camille insiste : "Elle est à moi." Cette structure indique la possession. On peut dire : ce sac est à moi, cette place est à vous, ces clés sont au gardien. Camille ne décrit plus la couleur ou la taille ; elle affirme que la valise lui appartient. Elle ajoute ce qu'il y a à l'intérieur : des livres, deux pulls, un cadeau pour sa tante. Le cadeau est important parce qu'il ajoute une pression personnelle. Camille ne cherche pas seulement un objet anonyme. Elle veut récupérer ses affaires, et elle veut offrir quelque chose à quelqu'un.
 
+<!-- explication-beat: 06-contenu-fragile -->
+
 Marc vérifie le contenu : "Le cadeau est fragile ?" Fragile veut dire que l'objet peut se casser facilement. Une lampe, un verre, une assiette peuvent être fragiles. Camille confirme : c'est une petite lampe bleue. Et là, Marc devient suspect : il parle de trois romans et d'une odeur de menthe. Une odeur est ce que l'on sent avec le nez. La menthe peut venir d'un bonbon, d'un thé, ou ici, du savon de Camille. Le savon sert à se laver. Ces détails prouvent que Marc connaît très bien le contenu. Il n'a pas seulement vu la valise de loin.
+
+<!-- explication-beat: 07-stable-respectee-collegue -->
 
 Marc avoue presque : "Alors la valise est ici depuis mardi." Être ici situe l'objet. Puis il ajoute trois adjectifs : "Elle est stable, elle est pratique, et elle est très respectée." Stable signifie que l'objet ne bouge pas facilement. Pratique signifie utile, facile à utiliser. Ces deux mots peuvent décrire une valise posée quelque part. Mais respectée est plus étrange. On respecte une personne, une collègue, une directrice. Quand Marc dit que la valise est respectée, il lui donne presque un statut humain.
 
-Camille réagit tout de suite : "Je cherche une valise, pas une collègue." Une collègue est une personne avec qui l'on travaille. Cette phrase nomme exactement le décalage comique : Marc parle d'un bagage comme d'une employée. Camille continue avec "sa carrière". Une carrière, c'est le parcours professionnel d'une personne. La valise a donc, dans l'imagination de Marc, une vie de bureau. Camille, elle, reste avec son même pull et sa tante sans cadeau. Le contraste est sec, mais très clair.
+Camille réagit tout de suite : "Je cherche une valise, pas une collègue." Une collègue est une personne avec qui l'on travaille. Cette phrase nomme exactement le décalage comique : Marc parle d'un bagage comme d'une employée. Camille continue avec "sa carrière". Une carrière, c'est le parcours professionnel d'une personne. La valise a donc, dans l'imagination de Marc, une vie de bureau. Camille, elle, reste avec son même pull, et sa tante n'a toujours pas de cadeau. Le contraste est sec, mais très clair.
+
+<!-- explication-beat: 08-travaux-et-dossiers -->
 
 Marc explique enfin le problème matériel : "Notre bureau est en travaux." Un lieu est en travaux quand on le répare ou quand on le transforme. La table est cassée, les chaises sont dans le couloir, et la valise est à la bonne hauteur. Voilà pourquoi elle est si utile. Le mot bureau est déjà intéressant ici. Il peut désigner le service des objets trouvés, mais aussi un meuble, une table de travail. Marc travaille dans un bureau qui n'a presque plus de bureau. La valise remplit ce manque.
 
 Camille demande si sa valise est sous les dossiers. Sous veut dire en dessous. Marc corrige : "Pas sous. Elle est le support officiel des dossiers urgents." Un support, c'est ce qui porte ou soutient quelque chose. Les dossiers sont des documents liés à une demande, une affaire ou une procédure. Le formulaire jaune est un papier à remplir. Le tampon sert à marquer un document avec de l'encre. Tous ces mots donnent une atmosphère administrative très concrète. La valise est devenue une petite table officielle, même si personne ne l'a demandé à Camille.
 
+<!-- explication-beat: 09-fatiguee-et-promotion -->
+
 Camille reste polie, mais elle devient ferme : "Monsieur, je suis fatiguée, mes pulls sont prisonniers, et ma tante est sans cadeau." Monsieur garde la forme correcte de l'échange. Mais la phrase montre aussi son agacement. "Je suis fatiguée" décrit son état. "Mes pulls sont prisonniers" transforme les vêtements en petits captifs comiques. "Ma tante est sans cadeau" rappelle l'urgence familiale. Camille reprend donc la logique absurde de Marc, mais elle la met au service de sa demande : elle veut récupérer sa valise avant "sa promotion".
 
-Marc accepte, mais lentement. Le formulaire est dessus, le tampon est dessus, et son café est dessus aussi. Dessus indique une position : sur la valise. Sous et dessus sont très utiles pour parler d'un bureau, d'une table, d'une étagère, d'un sac. Ici, ils sont aussi drôles parce qu'ils montrent à quel point la valise a été intégrée au fonctionnement du bureau. Marc ne doit pas seulement rendre un objet. Il doit démonter une organisation provisoire.
+Marc accepte, mais lentement. Le formulaire est dessus, le tampon est dessus, et son café est dessus aussi. Dessus indique une position : sur la valise. Sous et dessus sont très utiles pour parler d'un bureau, d'une table, d'une étagère, d'un sac. Ici, ils sont aussi drôles parce qu'ils montrent à quel point la valise a été intégrée au fonctionnement du bureau. Marc ne doit pas seulement rendre un objet. Il doit retirer une solution provisoire.
+
+<!-- explication-beat: 10-valise-pas-perdue-et-cdi -->
 
 Camille comprend enfin : "Donc ma valise n'est pas perdue." Cette phrase retourne toute la scène. Au début, elle vient chercher une valise perdue. À la fin, elle découvre que la valise est là, mais qu'elle est utilisée. La négation complète est "n'est pas". Dans une phrase simple, elle permet de corriger une idée : elle n'est pas perdue, elle est ici ; elle n'est pas une collègue, elle est à Camille ; elle n'est pas libre, elle sert de table. La grammaire accompagne donc le changement de compréhension.
 
+<!-- explication-beat: 11-cdi-et-bureau -->
+
 La dernière réplique de Marc donne le vrai statut comique de l'objet : "Elle est en CDI jusqu'à la livraison de la nouvelle table." Un CDI est un contrat de travail stable. Dans la vie courante, on parle d'un CDI dans une annonce d'emploi, dans un contrat de travail, ou pour décrire une situation professionnelle stable. Une valise ne peut évidemment pas avoir de contrat. Marc utilise un mot du monde du travail pour parler d'un objet. C'est le cœur de l'humour : le bureau a tellement besoin de cette valise qu'il la traite comme une ressource professionnelle. Puis Marc ajoute : "Nous sommes encore un bureau, mais nous sommes sans bureau." Cette phrase joue sur les deux sens du mot bureau : le service existe encore, mais le meuble manque.
+
+<!-- explication-beat: 12-fil-grammatical-et-registre -->
 
 L'épisode utilise donc être comme un fil discret. Camille dit qui elle est et pourquoi elle est là. Marc situe le service : vous êtes au bureau des objets trouvés. La valise est verte, lourde, ici, stable, pratique, puis presque employée. Le bureau est en travaux. Camille est fatiguée. À chaque fois, la phrase sert d'abord à comprendre la scène. La grammaire n'arrive pas comme une liste ; elle aide à suivre les personnes, les objets, les lieux et les états.
 
-Il y a aussi une bonne leçon de registre. Marc et Camille restent polis, même quand la situation devient absurde. Le comique vient justement de ce contraste. Marc parle sérieusement d'une valise qui sert de meuble. Camille répond avec ironie, mais elle garde le cadre de la conversation. Pour un apprenant, c'est utile : dans un service public, on peut être clair, insister, corriger une situation, et rester poli. Et parfois, une phrase très simple suffit : "Elle est à moi."
-
-Maintenant, écoutons le dialogue, cette fois à vitesse naturelle.
+Il y a aussi une bonne leçon de registre. Marc et Camille restent polis, même quand la situation devient absurde. Le comique vient justement de ce contraste. Marc parle sérieusement d'une valise qui sert de meuble. Camille répond avec ironie, mais elle garde le cadre de la conversation. Pour un apprenant, c'est utile : dans un service public, on peut être clair, insister, corriger une situation, et rester poli. Et parfois, une phrase très simple suffit : "Elle est à moi." Maintenant, écoutons le dialogue, cette fois à vitesse naturelle.
 
 ## Dialogue - vitesse naturelle
 
 [début du dialogue]
 
-Camille : Bonjour, je suis Camille Morel. Je suis ici pour une valise perdue depuis mardi soir, voie six, entre deux annonces très dramatiques.
+Camille : Bonjour, je suis Camille Morel. Je suis ici pour une valise perdue depuis mardi soir, voie numéro six, entre deux annonces très dramatiques.
 
 Marc : Très bien. Vous êtes au bureau des objets trouvés. La valise est comment ? Soyez précise : ici, les objets ont parfois beaucoup de personnalité.
 
@@ -197,7 +217,7 @@ Camille : Vous voulez dire que ma valise est sous vos dossiers ? J'espère qu'el
 
 Marc : Pas sous. Elle est le support officiel des dossiers urgents, du formulaire jaune, et d'un petit panneau "merci de patienter".
 
-Camille : Monsieur, je suis fatiguée, mes pulls sont prisonniers, et ma tante est sans cadeau. Je peux récupérer ma valise avant sa promotion ?
+Camille : Monsieur, je suis fatiguée, mes pulls sont prisonniers, et ma tante est sans cadeau. Est-ce que je peux récupérer ma valise avant sa promotion ?
 
 Marc : Oui, mais doucement. Le formulaire jaune est dessus, le tampon est dessus, et mon café est malheureusement dessus aussi. Il est presque vide, par chance.
 
@@ -221,7 +241,7 @@ Les sections suivantes regroupent le vocabulaire, les questions de compréhensio
 
 **perdu / perdue** : Quelque chose de perdu n'est plus à sa place, ou son propriétaire ne sait pas où il est. L'adjectif s'accorde : une valise perdue, un billet perdu. Exemple : Camille dit que sa valise est perdue depuis mardi soir.
 
-**la voie** : Dans une gare, la voie est l'endroit où le train arrive ou part. On dit souvent voie un, voie deux, voie six, etc. Attention : voie est un nom féminin et le e final ne se prononce pas. Ne confondez pas la voie, dans une gare, et la voix d'une personne : les deux mots se prononcent de la même façon. Exemple : Camille a perdu sa valise près de la voie six.
+**la voie** : Dans une gare, la voie est l'endroit où le train arrive ou part. On dit souvent voie numéro un, voie numéro deux, voie numéro six, etc. Attention : voie est un nom féminin et le e final ne se prononce pas. Ne confondez pas la voie, dans une gare, et la voix d'une personne : les deux mots se prononcent de la même façon. Exemple : Camille a perdu sa valise près de la voie numéro six.
 
 **une annonce** : Une annonce est un message officiel que l'on entend dans une gare, un aéroport ou un magasin. Elle donne une information. Exemple : Camille parle de deux annonces très dramatiques dans la gare.
 
