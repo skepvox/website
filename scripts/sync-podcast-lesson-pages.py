@@ -75,8 +75,8 @@ SHOWS: tuple[ShowConfig, ...] = (
             "vitesse naturelle."
         ),
         guide_intro=(
-            "Les sections suivantes regroupent le vocabulaire, les questions de "
-            "compréhension, les notes d’usage et les réponses."
+            "Les sections suivantes regroupent le vocabulaire, les notes "
+            "d’usage et le contexte culturel."
         ),
         guide_heading="Guide d'apprentissage",
         script_heading="Script complet",
@@ -114,8 +114,8 @@ SHOWS: tuple[ShowConfig, ...] = (
             "repetición a velocidad natural."
         ),
         guide_intro=(
-            "Las secciones siguientes reúnen el vocabulario, las preguntas de "
-            "comprensión, las notas de uso y las respuestas."
+            "Las secciones siguientes reúnen el vocabulario, las notas de uso "
+            "y el contexto cultural."
         ),
         guide_heading="Guía de aprendizaje",
         script_heading="Guión completo",

@@ -214,7 +214,7 @@ Aujourd'hui, nous avons suivi un colis, un code, un reçu, et surtout beaucoup d
 
 ## Guide d'apprentissage
 
-Les sections suivantes regroupent le vocabulaire, les questions de compréhension, les notes d’usage et les réponses.
+Les sections suivantes regroupent le vocabulaire, les notes d’usage et le contexte culturel.
 
 ## Vocabulaire
 
@@ -258,22 +258,6 @@ Les sections suivantes regroupent le vocabulaire, les questions de compréhensio
 
 **avoir de l'autorité** : Avoir de l'autorité, c'est pouvoir décider ou être écouté. Dans la scène, l'expression est comique parce qu'Antoine parle d'une imprimante comme d'une personne importante. Il se sent dominé par une procédure, pas par un humain. Exemple : L'imprimante a plus d'autorité que lui.
 
-## Questions de compréhension
-
-1. Pourquoi Antoine vient-il au point relais ?
-
-A. Il veut récupérer un colis en disant qu'il vient seulement enquêter.
-B. Il veut envoyer un cadeau à Claire.
-C. Il veut déposer une plainte contre les voisins.
-
-2. Qu'est-ce qui rend la fin comique ?
-
-A. Le colis contient un objet qui confirme qu'Antoine est très bien organisé.
-B. Claire refuse de donner le colis à Antoine.
-C. Le reçu automatique révèle que l'objet est banal et qu'Antoine n'a pas beaucoup de contrôle sur l'histoire.
-
-Repères après les questions : pour la première, relisez le début du dialogue, où Antoine parle d'un message d'immeuble et d'un colis non réclamé. Pour la deuxième, relisez la fin, quand Claire parle du reçu et quand Antoine parle de l'imprimante.
-
 ## Expressions et autres sens
 
 **Pas vraiment** est une réponse très utile à l'oral. Elle ne dit pas simplement oui, et elle ne dit pas complètement non. Elle signifie souvent : la réponse est compliquée, ou la situation n'est pas exactement celle que vous proposez. On peut dire : Tu es prêt ? Pas vraiment. Vous connaissez ce quartier ? Pas vraiment. Cette formule adoucit la réponse et laisse la porte ouverte à une explication.
@@ -299,8 +283,3 @@ Dans un immeuble, les colis peuvent devenir une affaire collective. Un voisin re
 Le dialogue exagère cette petite réalité. Antoine parle comme s'il menait une enquête pour les voisins. Claire, elle, suit une procédure simple. Elle demande le code, l'identité et le nom. La comédie vient du contraste entre une situation quotidienne et un discours trop dramatique. En français courant, les questions courtes et les réponses négatives sont très utiles dans ce type d'échange : Vous avez le code ? Vous êtes le destinataire ? Vous n'êtes pas Antoine Martin ? Non, pas vraiment, si, pas officiellement.
 
 La scène montre aussi une politesse administrative française : on peut être direct sans être agressif. Claire ne se moque pas d'Antoine. Elle reste calme, mais elle ne suit pas son théâtre intérieur. Elle ramène chaque phrase vers le fait pratique : le colis est là, le nom est là, le reçu est automatique.
-
-## Réponses aux questions
-
-1. A. Il veut récupérer un colis en disant qu'il vient seulement enquêter.
-2. C. Le reçu automatique révèle que l'objet est banal.

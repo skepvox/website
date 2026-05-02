@@ -50,7 +50,9 @@ export const sidebar: ThemeConfig['sidebar'] = {
         { text: '001 - Le badge', link: '/podcast/francais/001-le-badge' },
         { text: '002 - La valise verte', link: '/podcast/francais/002-la-valise-verte' },
         { text: '003 - Le covoiturage poli', link: '/podcast/francais/003-le-covoiturage-poli' },
-        { text: '004 - Le studio calme', link: '/podcast/francais/004-le-studio-calme' }
+        { text: '004 - Le studio calme', link: '/podcast/francais/004-le-studio-calme' },
+        { text: '005 - Le colis invisible', link: '/podcast/francais/005-le-colis-invisible' },
+        { text: '006 - Le livre en retard', link: '/podcast/francais/006-le-livre-en-retard' }
       ]
     },
     {
@@ -65,7 +67,11 @@ export const sidebar: ThemeConfig['sidebar'] = {
     {
       text: 'Vox Español - Podcast de español como lengua extranjera',
       items: [
-        { text: 'Presentación', link: '/podcast/espanol/' }
+        { text: 'Presentación', link: '/podcast/espanol/' },
+        { text: '001 - La boda es a las seis', link: '/podcast/espanol/001-la-boda-es-a-las-seis' },
+        { text: '002 - La sartén está ocupada', link: '/podcast/espanol/002-la-sarten-esta-ocupada' },
+        { text: '003 - El tren está parado', link: '/podcast/espanol/003-el-tren-esta-parado' },
+        { text: '004 - La pendiente correcta', link: '/podcast/espanol/004-la-pendiente-correcta' }
       ]
     },
     {

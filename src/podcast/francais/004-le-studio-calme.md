@@ -225,7 +225,7 @@ Voilà pour "Le studio calme". Aujourd'hui, nous avons travaillé l'accord de l'
 
 ## Guide d'apprentissage
 
-Les sections suivantes regroupent le vocabulaire, les questions de compréhension, les notes d’usage et les réponses.
+Les sections suivantes regroupent le vocabulaire, les notes d’usage et le contexte culturel.
 
 ## Vocabulaire
 
@@ -273,24 +273,6 @@ Les sections suivantes regroupent le vocabulaire, les questions de compréhensio
 
 **raisonnable** : Raisonnable signifie acceptable, mesuré, pas excessif. Cet adjectif garde la même forme au masculin et au féminin. Exemple : Les charges sont raisonnables.
 
-## Questions de compréhension
-
-1. Pourquoi Marc comprend-il mal l'annonce du studio ?
-
-A. Il pense que certains adjectifs décrivent seulement le logement.
-B. Il pense que `personne discrète` désigne une voisine charmante.
-C. Il pense que `studio sérieux` parle d'une bibliothèque dans le studio.
-
-Relisez les répliques autour de `studio calme, sérieux, idéal pour personne discrète`.
-
-2. Pourquoi Sophie hésite-t-elle à choisir Marc ?
-
-A. Son dossier est incomplet.
-B. Il a insulté plusieurs éléments du studio pendant la visite.
-C. Il refuse de visiter la salle de bains.
-
-La réponse apparaît quand Sophie parle des murs, de la porte et de la cuisine.
-
 ## Expressions et autres sens
 
 **Un dossier complet** est une expression très utile dans les démarches administratives. Un dossier est complet quand il contient toutes les pièces demandées. Pour un logement, cela peut inclure une pièce d'identité, des justificatifs de revenus, une attestation ou d'autres documents. Le mot complet peut aussi s'utiliser dans d'autres contextes : un formulaire complet, une réponse complète, un repas complet. Il s'accorde comme un adjectif ordinaire : un dossier complet, une demande complète, des dossiers complets.
@@ -318,8 +300,3 @@ Il y a aussi une question de ton. Pendant une visite, il est normal de poser des
 Dans beaucoup d'immeubles, vingt-deux heures sert de repère social pour le calme du soir, même si le respect du voisinage ne commence pas seulement à cette heure-là.
 
 Cette scène est utile pour l'accord de l'adjectif parce que le logement change souvent de genre et de nombre : le studio est petit, la pièce est blanche, les murs sont anciens, les fenêtres sont nouvelles. Puis la grammaire devient sociale : un dossier sérieux, une personne sérieuse, un voisin discret, une locataire discrète. Les accords ne sont pas seulement des formes à écrire. Ils aident à savoir de quoi, et de qui, on parle.
-
-## Réponses aux questions
-
-1. A. Il pense que certains adjectifs décrivent seulement le logement.
-2. B. Il a insulté plusieurs éléments du studio pendant la visite.

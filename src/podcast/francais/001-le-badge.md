@@ -205,7 +205,7 @@ Voilà pour "Le badge". Aujourd'hui, Claire voulait simplement aider à l'accuei
 
 ## Guide d'apprentissage
 
-Les sections suivantes regroupent le vocabulaire, les questions de compréhension, les notes d’usage et les réponses.
+Les sections suivantes regroupent le vocabulaire, les notes d’usage et le contexte culturel.
 
 ## Vocabulaire
 
@@ -249,24 +249,6 @@ Les sections suivantes regroupent le vocabulaire, les questions de compréhensio
 
 **disponible** : Une personne disponible peut aider ou participer maintenant. Exemple : Mathieu cherche quelqu'un qui est disponible, calme et capable de sourire sous une cape.
 
-## Questions de compréhension
-
-1. Pourquoi Claire arrive-t-elle au forum ?
-
-A. Elle vient comme bénévole pour l'accueil.
-B. Elle vient faire un spectacle de magie.
-C. Elle vient chercher le maire près des cactus.
-
-Relisez surtout les premières répliques : Claire donne son nom, puis son rôle. La réponse correcte doit respecter ce qu'elle dit d'elle-même, pas ce que Mathieu croit.
-
-2. Quel est le vrai rôle de Mathieu ?
-
-A. Il est responsable du club de jardinage.
-B. Il est magicien et cherche une personne pour l'aider.
-C. Il est le maire de la ville.
-
-La réponse apparaît quand Claire lit le badge de Mathieu. Avant ce moment, il parle comme s'il était à l'accueil, mais son vrai rôle est ailleurs.
-
 ## Expressions et autres sens
 
 **Être à l'accueil** ne veut pas seulement dire "être physiquement près d'un bureau". Dans ce dialogue, l'expression indique aussi un rôle : Claire doit recevoir les visiteurs et les orienter. On peut dire : "Je suis à l'accueil aujourd'hui", comme on dirait : "Je suis au stand des inscriptions" ou "Je suis à la billetterie". Attention : "je suis l'accueil" serait étrange, parce que Claire n'est pas le service lui-même. Elle est à l'accueil, ou elle travaille à l'accueil.
@@ -288,8 +270,3 @@ Le mot "municipal" renvoie à la ville et à la mairie. Quand Claire dit "vampir
 Ce contexte explique aussi pourquoi Claire et Mathieu se disent vous. Ils sont dans un lieu public, ils ne se connaissent pas, et l'échange commence comme une interaction de service. Le vouvoiement garde une distance polie, même quand la situation devient absurde. Dans un forum réel, on pourrait aussi entendre des phrases très pratiques : "Vous êtes inscrit ?", "Vous êtes bénévole ?", "La salle est au fond du couloir." Ce sont des phrases simples, mais elles font fonctionner tout l'événement.
 
 Pour un apprenant, ce type de lieu est intéressant parce qu'il rassemble beaucoup de micro-dialogues utiles : demander où est une salle, expliquer pourquoi on est là, corriger un nom sur une liste, ou dire qu'une personne est absente. Ce ne sont pas de grandes phrases littéraires. Ce sont des phrases de service, très fréquentes et très réalistes.
-
-## Réponses aux questions
-
-1. A. Claire vient comme bénévole pour l'accueil.
-2. B. Mathieu est magicien et cherche une personne pour l'aider.

@@ -221,7 +221,7 @@ Voilà pour "Le covoiturage poli". Aujourd'hui, nous avons travaillé le verbe �
 
 ## Guide d'apprentissage
 
-Les sections suivantes regroupent le vocabulaire, les questions de compréhension, les notes d’usage et les réponses.
+Les sections suivantes regroupent le vocabulaire, les notes d’usage et le contexte culturel.
 
 ## Vocabulaire
 
@@ -267,24 +267,6 @@ Dans la scène, "moins charmante que sur les photos" adoucit une critique : Léa
 
 **être en examen** : Être en examen signifie être observé ou évalué. Dans le dialogue, Léa plaisante : elle a l'impression de passer un test avant de conduire. En français administratif ou juridique, être mis en examen a un sens technique : une personne est officiellement suspectée dans une affaire. Ici, Léa emploie l'expression de façon figurée. Le côté solennel de la formule fait partie de la plaisanterie. Exemple : Léa plaisante : elle se sent en examen avant même de sortir du parking.
 
-## Questions de compréhension
-
-1. Pourquoi Léa pense-t-elle d'abord que Thomas est son passager ?
-
-A. Il dit qu'il s'appelle Thomas et il est de Nancy.
-B. Il porte un sac rouge et voyage avec un chien.
-C. Il connaît déjà la voiture bleue de Léa.
-
-Relisez les premières répliques : Thomas donne un prénom et une origine, mais certains détails ne correspondent pas.
-
-2. Quel est le vrai rôle de Thomas ?
-
-A. Il est le passager réservé par l'application.
-B. Il est du service qualité et observe la politesse.
-C. Il est le frère de Sami.
-
-La réponse apparaît quand Léa voit son air d'inspecteur et pose une question directe.
-
 ## Expressions et autres sens
 
 **On se tutoie** est une expression très utile pour parler de la relation entre deux personnes. Elle signifie que les personnes utilisent `tu` entre elles. Le verbe est pronominal : se tutoyer. Dans un groupe informel, quelqu'un peut dire : "On se tutoie ?" Cela propose de passer à `tu`. Mais cette proposition dépend de la situation. Entre deux collègues proches, entre amis, ou dans une activité détendue, `tu` peut sembler naturel. Dans un contexte de service, avec une personne inconnue, `vous` peut rester plus sûr.
@@ -308,8 +290,3 @@ Dans le dialogue, Léa suit d'abord l'esprit de l'application : "tu es prêt ?" 
 La fin du dialogue joue avec cette nuance. Léa repasse à `tu`, mais cette fois ce n'est pas une erreur. Elle a compris le jeu social, elle sait que Thomas est le contrôleur, et elle utilise `tu` pour marquer une impatience très contrôlée. Le changement de pronom devient donc un petit outil comique.
 
 En français, repasser volontairement de `vous` à `tu` peut marquer l'agacement, l'autorité ou une pointe d'ironie. Le pronom devient un petit signal social, plus fort qu'un mot supplémentaire. C'est ce que fait Léa à la fin : elle reste correcte, mais elle reprend le contrôle de la situation.
-
-## Réponses aux questions
-
-1. A. Il dit qu'il s'appelle Thomas et il est de Nancy.
-2. B. Il est du service qualité et observe la politesse.

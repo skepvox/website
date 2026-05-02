@@ -40,6 +40,9 @@ python3 scripts/sync-podcast-lesson-pages.py
 
 The sync keeps the website pages transcript-first for navigation while leaving
 the TTS-sensitive source episode structure unchanged in the podcast repos.
+After syncing a new episode, add its lesson link to the matching podcast
+sidebar section in `.vitepress/config.ts` so it appears in the left panel. Use
+the path shape `/podcast/<show>/<episode-slug>`.
 
 Shared podcast show metadata for transcript headings and anchors lives in
 `scripts/podcast-show-config.json`. The website sync and the release scanner

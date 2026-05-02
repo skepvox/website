@@ -10,7 +10,7 @@
     "transcript_heading": "Transcription complète",
     "transcript_anchor": "transcription-complete",
     "rss_description_label": "Guide complet et transcription :",
-    "rss_page_tail": "Vous trouverez sur la page de l'épisode le guide d'apprentissage, les questions de compréhension, les réponses, la note culturelle, le dialogue lent, le dialogue à vitesse naturelle et la transcription complète."
+    "rss_page_tail": "Vous trouverez sur la page de l'épisode le guide d'apprentissage, la note culturelle, le dialogue lent, le dialogue à vitesse naturelle et la transcription complète."
   },
   "espanol": {
     "repo": "skepvox-podcast-espanol",
@@ -23,6 +23,6 @@
     "transcript_heading": "Transcripción completa",
     "transcript_anchor": "transcripcion-completa",
     "rss_description_label": "Guía completa y transcripción:",
-    "rss_page_tail": "En la página del episodio encontrará la guía de aprendizaje, las preguntas de comprensión, las respuestas, la nota cultural, el diálogo lento, el diálogo a velocidad natural y la transcripción completa."
+    "rss_page_tail": "En la página del episodio encontrará la guía de aprendizaje, la nota cultural, el diálogo lento, el diálogo a velocidad natural y la transcripción completa."
   }
 }

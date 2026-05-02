@@ -233,7 +233,7 @@ Voilà pour "La valise verte". Aujourd'hui, nous avons suivi une situation très
 
 ## Guide d'apprentissage
 
-Les sections suivantes regroupent le vocabulaire, les questions de compréhension, les notes d’usage et les réponses.
+Les sections suivantes regroupent le vocabulaire, les notes d’usage et le contexte culturel.
 
 ## Vocabulaire
 
@@ -279,24 +279,6 @@ Les sections suivantes regroupent le vocabulaire, les questions de compréhensio
 
 **dessus / sous** : Dessus indique une position sur quelque chose. Sous indique une position en bas ou en dessous. Avec un complément, on dit au-dessus de ou en dessous de : la lampe est au-dessus de la table, le sac est en dessous de la chaise. Ces mots sont très pratiques pour décrire un bureau, une table ou une étagère. Exemple : Camille demande si la valise est sous les dossiers, mais Marc explique que les dossiers sont dessus.
 
-## Questions de compréhension
-
-1. Pourquoi Camille vient-elle au bureau des objets trouvés ?
-
-A. Elle cherche une valise verte perdue depuis mardi soir.
-B. Elle veut acheter une nouvelle table pour la gare.
-C. Elle vient signer un contrat de travail.
-
-Relisez les premières répliques : Camille donne son nom, puis explique l'objet qu'elle cherche. La réponse correcte correspond à son objectif réel.
-
-2. Pourquoi Marc connaît-il si bien la valise ?
-
-A. Il voyage souvent avec Camille.
-B. Il utilise la valise comme support pour les dossiers du bureau.
-C. Il a acheté la lampe bleue pour la tante de Camille.
-
-La réponse apparaît quand Marc parle du bureau en travaux.
-
 ## Expressions et autres sens
 
 **Être à moi** indique la possession. Camille dit : "Elle est à moi." Elle ne dit pas seulement que la valise est verte ou lourde ; elle affirme que la valise lui appartient. Cette structure est très utile : ce sac est à moi, cette place est à vous, ces clés sont au gardien. Avec être, on peut donc exprimer l'identité, l'état, le lieu, mais aussi la relation entre une chose et son propriétaire.
@@ -320,8 +302,3 @@ Le mot CDI ajoute une deuxième couche culturelle. En France, un CDI est souvent
 Il n'est pas nécessaire de connaître tout le droit du travail français pour suivre la scène. Il suffit de sentir le contraste. Un CDI appartient au monde sérieux de l'emploi. Une valise appartient au monde très concret du voyage. Quand Marc mélange les deux, il montre que le bureau est tellement désorganisé qu'un bagage peut devenir une ressource officielle.
 
 Ce contexte permet aussi de pratiquer le vouvoiement. Camille et Marc ne se connaissent pas ; ils sont dans une interaction de service. Ils utilisent donc vous, même quand Camille devient plus agacée. Le ton reste poli, mais la situation devient de plus en plus étrange. C'est un bon modèle pour beaucoup de situations réelles : on peut être ferme sans abandonner la politesse.
-
-## Réponses aux questions
-
-1. A. Camille cherche une valise verte perdue depuis mardi soir.
-2. B. Marc utilise la valise comme support pour les dossiers du bureau.
