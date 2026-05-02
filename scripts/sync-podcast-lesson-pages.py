@@ -14,6 +14,7 @@ SHOW_CONFIG_PATH = Path(__file__).resolve().with_name("podcast-show-config.json"
 
 FRONTMATTER_RE = re.compile(r"\A---\n(.*?)\n---\n?", re.DOTALL)
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.+?)\s*$", re.MULTILINE)
+HTML_COMMENT_RE = re.compile(r"(?ms)^<!--.*?-->\s*")
 SHARED_SHOW_CONFIG = json.loads(SHOW_CONFIG_PATH.read_text(encoding="utf-8"))
 
 
@@ -219,6 +220,10 @@ def normalize_existing_frontmatter(raw_frontmatter: str) -> str:
     return raw_frontmatter.strip()
 
 
+def strip_internal_comments(text: str) -> str:
+    return HTML_COMMENT_RE.sub("", text).strip()
+
+
 def parse_existing_top_level_scalar(frontmatter: str, key: str) -> str:
     match = re.search(rf"(?m)^{re.escape(key)}:\s*(.+)$", frontmatter)
     if not match:
@@ -384,12 +389,12 @@ def render_body(show: ShowConfig, source_frontmatter: str, body: str, page_title
     ]
 
     for section in script_sections:
-        parts.extend([f"## {section['title']}", "", str(section["content"]), ""])
+        parts.extend([f"## {section['title']}", "", strip_internal_comments(str(section["content"])), ""])
 
     parts.extend([f"## {show.guide_label}", "", show.guide_intro, ""])
 
     for section in guide_sections:
-        parts.extend([f"## {section['title']}", "", str(section["content"]), ""])
+        parts.extend([f"## {section['title']}", "", strip_internal_comments(str(section["content"])), ""])
 
     rendered = "\n".join(parts).rstrip() + "\n"
     cleaned_lines = [line.rstrip() for line in rendered.splitlines()]

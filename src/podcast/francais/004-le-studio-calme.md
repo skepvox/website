@@ -313,13 +313,13 @@ On peut aussi employer complet pour une personne ou pour une situation : je suis
 
 **Une personne discrète** peut désigner une personne qui parle peu, qui ne dérange pas les autres, ou qui ne cherche pas à attirer l'attention. Le mot peut être positif : une personne discrète respecte l'espace des autres. Il peut aussi être utilisé dans une annonce ou une demande, pour dire : nous voulons quelqu'un de calme, stable, facile à vivre. Attention à l'accord : un voisin discret, une voisine discrète, des locataires discrets, des personnes discrètes.
 
-Dans le dialogue, Marc croit d'abord que `personne discrète` pourrait être une voisine charmante. Il transforme une condition de location en personnage imaginaire. Sophie corrige calmement : l'expression décrit le profil souhaité. Cette petite confusion permet de faire travailler l'accord de l'adjectif, mais aussi le sens social des mots.
+Dans le dialogue, Marc croit d'abord que « personne discrète » pourrait être une voisine charmante. Il transforme une condition de location en personnage imaginaire. Sophie corrige calmement : l'expression décrit le profil souhaité. Cette petite confusion permet de faire travailler l'accord de l'adjectif, mais aussi le sens social des mots.
 
 Discret ne signifie pas forcément timide. Une personne discrète peut parler normalement, mais elle sait quand ne pas prendre toute la place. Dans le dialogue, Marc n'est pas méchant. Il est trop expressif au mauvais moment. C'est précisément ce décalage qui rend la scène comique.
 
 ## Note culturelle
 
-En France, une visite de logement peut être très rapide et très codée, surtout dans les villes où la demande est forte. L'annonce présente le logement avec des adjectifs choisis : lumineux, calme, bien situé, rénové, pratique, agréable. Ces adjectifs ne sont pas toujours faux, mais ils montrent souvent le meilleur côté du lieu. Une pièce peut être `lumineuse` à dix heures du matin et beaucoup moins à dix-huit heures. Un studio peut être `petit mais bien organisé`. Une cuisine peut être `ouverte`, ce qui est pratique pour certaines personnes et gênant pour d'autres.
+En France, une visite de logement peut être très rapide et très codée, surtout dans les villes où la demande est forte. L'annonce présente le logement avec des adjectifs choisis : lumineux, calme, bien situé, rénové, pratique, agréable. Ces adjectifs ne sont pas toujours faux, mais ils montrent souvent le meilleur côté du lieu. Une pièce peut être « lumineuse » à dix heures du matin et beaucoup moins à dix-huit heures. Un studio peut être « petit mais bien organisé ». Une cuisine peut être « ouverte », ce qui est pratique pour certaines personnes et gênant pour d'autres.
 
 Le candidat locataire observe donc le logement, mais il est aussi observé. Il peut apporter un dossier avec des documents. Il peut poser des questions sur les charges, le chauffage, le voisinage, le bruit ou les travaux. En même temps, l'agent ou le propriétaire écoute sa manière de parler. Une personne qui critique tout dès la première minute peut laisser une mauvaise impression, même si son dossier est complet.
 

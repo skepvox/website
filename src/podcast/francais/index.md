@@ -109,9 +109,9 @@ Les pages de cette section réunissent les transcriptions, le vocabulaire et les
 
 ## Leçons
 
-- [001 - Le badge](/podcast/francais/001-le-badge) — le verbe `être` au présent, l'identité, les rôles, les lieux et l'orientation dans une interaction quotidienne.
+- [001 - Le badge](/podcast/francais/001-le-badge) — le verbe « être » au présent, l'identité, les rôles, les lieux et l'orientation dans une interaction quotidienne.
 - [002 - La valise verte](/podcast/francais/002-la-valise-verte) — décrire une valise, situer un service, clarifier une situation et rester poli au bureau des objets trouvés.
-- [003 - Le covoiturage poli](/podcast/francais/003-le-covoiturage-poli) — le verbe `être` au présent, l'identité, l'origine, les lieux et la différence entre `tu` et `vous`.
+- [003 - Le covoiturage poli](/podcast/francais/003-le-covoiturage-poli) — le verbe « être » au présent, l'identité, l'origine, les lieux et la différence entre « tu » et « vous ».
 - [004 - Le studio calme](/podcast/francais/004-le-studio-calme) — l'accord de l'adjectif au masculin, au féminin, au singulier et au pluriel dans une visite de logement.
 - [005 - Le colis invisible](/podcast/francais/005-le-colis-invisible) — la négation simple, les questions oui/non et les réponses courtes dans un point relais.
 - [006 - Le livre en retard](/podcast/francais/006-le-livre-en-retard) — la négation simple, les questions oui/non et les réponses oui, si, non, pas, moi aussi et moi non plus dans une médiathèque.
