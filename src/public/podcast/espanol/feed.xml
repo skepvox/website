@@ -31,7 +31,7 @@ Página del programa: https://skepvox.com/podcast/espanol/]]></itunes:summary>
       <title>Vox Español</title>
       <link>https://skepvox.com/podcast/espanol/</link>
     </image>
-    <lastBuildDate>Sun, 03 May 2026 16:01:30 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 18:02:28 -0300</lastBuildDate>
 
     <item>
       <title>La boda es a las seis</title>
@@ -179,6 +179,44 @@ En la página del episodio encontrará la guía de aprendizaje, la nota cultural
       <enclosure url="https://media.skepvox.com/podcast/espanol/audio/espanol-004-la-pendiente-correcta-v2.mp3" length="34553774" type="audio/mpeg" />
       <itunes:duration>00:24:00</itunes:duration>
       <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://media.skepvox.com/podcast/espanol/artwork/show-cover-v3.jpg" />
+    </item>
+
+    <item>
+      <title>El paquete del buzón</title>
+      <link>https://skepvox.com/podcast/espanol/005-el-paquete-del-buzon</link>
+      <guid isPermaLink="false">vox-espanol-005</guid>
+      <pubDate>Tue, 28 Apr 2026 05:00:00 -0300</pubDate>
+      <description><![CDATA[Guía completa y transcripción:
+https://skepvox.com/podcast/espanol/005-el-paquete-del-buzon#transcripcion-completa
+
+En este episodio de Vox Español, trabajamos los pronombres átonos de objeto directo e indirecto en una escena de comunidad de vecinos sobre un paquete pequeño, la portería y unos buzones.
+
+El episodio se llama "El paquete del buzón". Lucía reconstruye el recorrido de una entrega mientras Diego defiende su manera muy ordenada de proteger paquetes, avisos y llaves dentro del edificio.
+
+Esta lección le ayuda a seguir formas como «me lo dejó», «te lo di» y «se lo dio», y a escuchar cómo los pronombres breves dependen del objeto, de la persona y del contexto ya compartido.
+
+La guía de lección explica también el vocabulario importante del episodio: paquete, cartero, cartera, portería, aviso, buzón, llaves, comunidad de vecinos, proteger, guardar y otras palabras útiles.
+
+En la página del episodio encontrará la guía de aprendizaje, la nota cultural, el diálogo lento, el diálogo a velocidad natural y la transcripción completa.]]></description>
+      <content:encoded><![CDATA[<p>Guía completa y transcripción:<br />
+<a href="https://skepvox.com/podcast/espanol/005-el-paquete-del-buzon#transcripcion-completa">https://skepvox.com/podcast/espanol/005-el-paquete-del-buzon#transcripcion-completa</a></p>
+
+<p>En este episodio de Vox Español, trabajamos los pronombres átonos de objeto directo e indirecto en una escena de comunidad de vecinos sobre un paquete pequeño, la portería y unos buzones.</p>
+
+<p>El episodio se llama "El paquete del buzón". Lucía reconstruye el recorrido de una entrega mientras Diego defiende su manera muy ordenada de proteger paquetes, avisos y llaves dentro del edificio.</p>
+
+<p>Esta lección le ayuda a seguir formas como «me lo dejó», «te lo di» y «se lo dio», y a escuchar cómo los pronombres breves dependen del objeto, de la persona y del contexto ya compartido.</p>
+
+<p>La guía de lección explica también el vocabulario importante del episodio: paquete, cartero, cartera, portería, aviso, buzón, llaves, comunidad de vecinos, proteger, guardar y otras palabras útiles.</p>
+
+<p>En la página del episodio encontrará la guía de aprendizaje, la nota cultural, el diálogo lento, el diálogo a velocidad natural y la transcripción completa.</p>]]></content:encoded>
+      <enclosure url="https://media.skepvox.com/podcast/espanol/audio/espanol-005-el-paquete-del-buzon-v1.mp3" length="34071658" type="audio/mpeg" />
+      <itunes:duration>00:23:40</itunes:duration>
+      <itunes:episode>5</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
