@@ -52,7 +52,8 @@ export const sidebar: ThemeConfig['sidebar'] = {
         { text: '003 - Le covoiturage poli', link: '/podcast/francais/003-le-covoiturage-poli' },
         { text: '004 - Le studio calme', link: '/podcast/francais/004-le-studio-calme' },
         { text: '005 - Le colis invisible', link: '/podcast/francais/005-le-colis-invisible' },
-        { text: '006 - Le livre en retard', link: '/podcast/francais/006-le-livre-en-retard' }
+        { text: '006 - Le livre en retard', link: '/podcast/francais/006-le-livre-en-retard' },
+        { text: '007 - Le frigo honnête', link: '/podcast/francais/007-le-frigo-honnete' }
       ]
     },
     {

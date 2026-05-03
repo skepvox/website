@@ -115,3 +115,4 @@ Les pages de cette section réunissent les transcriptions, le vocabulaire et les
 - [004 - Le studio calme](/podcast/francais/004-le-studio-calme) — l'accord de l'adjectif au masculin, au féminin, au singulier et au pluriel dans une visite de logement.
 - [005 - Le colis invisible](/podcast/francais/005-le-colis-invisible) — la négation simple, les questions oui/non et les réponses courtes dans un point relais.
 - [006 - Le livre en retard](/podcast/francais/006-le-livre-en-retard) — la négation simple, les questions oui/non et les réponses oui, si, non, pas, moi aussi et moi non plus dans une médiathèque.
+- [007 - Le frigo honnête](/podcast/francais/007-le-frigo-honnete) — les articles pour nommer les aliments, les objets et les absences dans une cuisine de colocation avant un apéritif.
