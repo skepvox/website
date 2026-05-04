@@ -31,7 +31,7 @@ Page de l'émission : https://skepvox.com/podcast/francais/]]></itunes:summary>
       <title>Vox Français</title>
       <link>https://skepvox.com/podcast/francais/</link>
     </image>
-    <lastBuildDate>Sat, 02 May 2026 11:32:50 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 10:13:31 -0300</lastBuildDate>
 
     <item>
       <title>Le badge</title>
@@ -237,6 +237,43 @@ Vous trouverez sur la page de l'épisode le guide d'apprentissage, la note cultu
       <enclosure url="https://media.skepvox.com/podcast/francais/audio/francais-006-le-livre-en-retard-v1.mp3" length="33814613" type="audio/mpeg" />
       <itunes:duration>00:23:29</itunes:duration>
       <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg" />
+    </item>
+
+    <item>
+      <title>007 - Le frigo honnête</title>
+      <link>https://skepvox.com/podcast/francais/007-le-frigo-honnete</link>
+      <guid isPermaLink="false">vox-francais-007</guid>
+      <pubDate>Mon, 04 May 2026 05:00:00 -0300</pubDate>
+      <description><![CDATA[Guide complet et transcription :
+https://skepvox.com/podcast/francais/007-le-frigo-honnete#transcription-complete
+
+Dans cet épisode de Vox Français, nous travaillons les articles pour nommer les aliments et les objets : de l'eau, du citron, de la moutarde, une olive, des cornichons, du fromage, un ticket et le menu.
+
+L'épisode s'appelle "Le frigo honnête". Chloé et Malik sont dans une cuisine de colocation juste avant l'arrivée des voisins, et un apéritif annoncé comme simple devient une inspection très précise du frigo.
+
+Cette leçon vous aide à entendre les articles partitifs comme du, de la et de l', les articles indéfinis comme un, une et des, la reprise avec le, et la forme pas de après une négation.
+
+Le guide de leçon explique aussi le vocabulaire important de l'épisode : frigo, apéritif, voisin, verre, olive, cornichons, personnalité, minimaliste, matière solide, ticket, fromagerie, conversation, anti-gaspillage, consommation responsable, comté et convivial.
+
+Vous trouverez sur la page de l'épisode le guide d'apprentissage, la note culturelle, le dialogue lent, le dialogue à vitesse naturelle et la transcription complète.]]></description>
+      <content:encoded><![CDATA[<p><strong>Guide complet et transcription :</strong> <a href="https://skepvox.com/podcast/francais/007-le-frigo-honnete#transcription-complete">https://skepvox.com/podcast/francais/007-le-frigo-honnete#transcription-complete</a></p>
+
+<p>Dans cet épisode de <strong>Vox Français</strong>, nous travaillons les articles pour nommer les aliments et les objets : <em>de l'eau, du citron, de la moutarde, une olive, des cornichons, du fromage, un ticket</em> et <em>le menu</em>.</p>
+
+<p>L'épisode s'appelle <strong>"Le frigo honnête"</strong>. Chloé et Malik sont dans une cuisine de colocation juste avant l'arrivée des voisins, et un apéritif annoncé comme simple devient une inspection très précise du frigo.</p>
+
+<p>Cette leçon vous aide à entendre les articles partitifs comme <em>du, de la</em> et <em>de l'</em>, les articles indéfinis comme <em>un, une</em> et <em>des</em>, la reprise avec <em>le</em>, et la forme <em>pas de</em> après une négation.</p>
+
+<p>Le guide de leçon explique aussi le vocabulaire important de l'épisode : <em>frigo, apéritif, voisin, verre, olive, cornichons, personnalité, minimaliste, matière solide, ticket, fromagerie, conversation, anti-gaspillage, consommation responsable, comté</em> et <em>convivial</em>.</p>
+
+<p>Vous trouverez sur la page de l'épisode le guide d'apprentissage, la note culturelle, le dialogue lent, le dialogue à vitesse naturelle et la transcription complète.</p>]]></content:encoded>
+      <enclosure url="https://media.skepvox.com/podcast/francais/audio/francais-007-le-frigo-honnete-v1.mp3" length="33056644" type="audio/mpeg" />
+      <itunes:duration>00:22:57</itunes:duration>
+      <itunes:episode>7</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
