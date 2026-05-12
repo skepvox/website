@@ -31,7 +31,7 @@ Page de l'émission : https://skepvox.com/podcast/francais/]]></itunes:summary>
       <title>Vox Français</title>
       <link>https://skepvox.com/podcast/francais/</link>
     </image>
-    <lastBuildDate>Mon, 04 May 2026 10:13:31 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 19:46:51 -0300</lastBuildDate>
 
     <item>
       <title>Le badge</title>
@@ -244,7 +244,7 @@ Vous trouverez sur la page de l'épisode le guide d'apprentissage, la note cultu
     </item>
 
     <item>
-      <title>007 - Le frigo honnête</title>
+      <title>Le frigo honnête</title>
       <link>https://skepvox.com/podcast/francais/007-le-frigo-honnete</link>
       <guid isPermaLink="false">vox-francais-007</guid>
       <pubDate>Mon, 04 May 2026 05:00:00 -0300</pubDate>
@@ -274,6 +274,43 @@ Vous trouverez sur la page de l'épisode le guide d'apprentissage, la note cultu
       <enclosure url="https://media.skepvox.com/podcast/francais/audio/francais-007-le-frigo-honnete-v1.mp3" length="33056644" type="audio/mpeg" />
       <itunes:duration>00:22:57</itunes:duration>
       <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg" />
+    </item>
+
+    <item>
+      <title>Le panier de la photo</title>
+      <link>https://skepvox.com/podcast/francais/008-le-panier-de-la-photo</link>
+      <guid isPermaLink="false">vox-francais-008</guid>
+      <pubDate>Thu, 07 May 2026 05:00:00 -0300</pubDate>
+      <description><![CDATA[Guide complet et transcription :
+https://skepvox.com/podcast/francais/008-le-panier-de-la-photo#transcription-complete
+
+Dans cet épisode de Vox Français, nous travaillons les articles pour nommer des produits, reprendre un objet déjà identifié et parler des absences avec pas de.
+
+L'épisode s'appelle "Le panier de la photo". Pauline et Olivier préparent une distribution locale, mais la recherche d'une belle image pour le bulletin municipal rencontre la logique très pratique des paniers destinés aux familles.
+
+Cette leçon vous aide à entendre les articles indéfinis comme un, une et des, les articles définis comme le panier et la table, les articles partitifs comme du pain et de la soupe, et la forme pas de après une négation.
+
+Le guide de leçon explique aussi le vocabulaire important de l'épisode : distribution, panier, bulletin municipal, mairie, marché local, bénévole, officiel, abondance, saison, don, réservation, solidarité, file et poser.
+
+Vous trouverez sur la page de l'épisode le guide d'apprentissage, la note culturelle, le dialogue lent, le dialogue à vitesse naturelle et la transcription complète.]]></description>
+      <content:encoded><![CDATA[<p><strong>Guide complet et transcription :</strong> <a href="https://skepvox.com/podcast/francais/008-le-panier-de-la-photo#transcription-complete">https://skepvox.com/podcast/francais/008-le-panier-de-la-photo#transcription-complete</a></p>
+
+<p>Dans cet épisode de <strong>Vox Français</strong>, nous travaillons les articles pour nommer des produits, reprendre un objet déjà identifié et parler des absences avec <em>pas de</em>.</p>
+
+<p>L'épisode s'appelle <strong>"Le panier de la photo"</strong>. Pauline et Olivier préparent une distribution locale, mais la recherche d'une belle image pour le bulletin municipal rencontre la logique très pratique des paniers destinés aux familles.</p>
+
+<p>Cette leçon vous aide à entendre les articles indéfinis comme <em>un, une</em> et <em>des</em>, les articles définis comme <em>le panier</em> et <em>la table</em>, les articles partitifs comme <em>du pain</em> et <em>de la soupe</em>, et la forme <em>pas de</em> après une négation.</p>
+
+<p>Le guide de leçon explique aussi le vocabulaire important de l'épisode : <em>distribution, panier, bulletin municipal, mairie, marché local, bénévole, officiel, abondance, saison, don, réservation, solidarité, file</em> et <em>poser</em>.</p>
+
+<p>Vous trouverez sur la page de l'épisode le guide d'apprentissage, la note culturelle, le dialogue lent, le dialogue à vitesse naturelle et la transcription complète.</p>]]></content:encoded>
+      <enclosure url="https://media.skepvox.com/podcast/francais/audio/francais-008-le-panier-de-la-photo-v1.mp3" length="31817813" type="audio/mpeg" />
+      <itunes:duration>00:22:06</itunes:duration>
+      <itunes:episode>8</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
