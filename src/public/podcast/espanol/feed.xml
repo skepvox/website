@@ -31,7 +31,7 @@ Página del programa: https://skepvox.com/podcast/espanol/]]></itunes:summary>
       <title>Vox Español</title>
       <link>https://skepvox.com/podcast/espanol/</link>
     </image>
-    <lastBuildDate>Sun, 03 May 2026 18:02:28 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 13:54:53 -0300</lastBuildDate>
 
     <item>
       <title>La boda es a las seis</title>
@@ -217,6 +217,44 @@ En la página del episodio encontrará la guía de aprendizaje, la nota cultural
       <enclosure url="https://media.skepvox.com/podcast/espanol/audio/espanol-005-el-paquete-del-buzon-v1.mp3" length="34071658" type="audio/mpeg" />
       <itunes:duration>00:23:40</itunes:duration>
       <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://media.skepvox.com/podcast/espanol/artwork/show-cover-v3.jpg" />
+    </item>
+
+    <item>
+      <title>El sobre del simulacro</title>
+      <link>https://skepvox.com/podcast/espanol/006-el-sobre-del-simulacro</link>
+      <guid isPermaLink="false">vox-espanol-006</guid>
+      <pubDate>Fri, 01 May 2026 05:00:00 -0300</pubDate>
+      <description><![CDATA[Guía completa y transcripción:
+https://skepvox.com/podcast/espanol/006-el-sobre-del-simulacro#transcripcion-completa
+
+En este episodio de Vox Español, trabajamos los pronombres átonos de objeto directo e indirecto en una escena de academia de idiomas antes de un simulacro de examen.
+
+El episodio se llama "El sobre del simulacro". Marina busca unas hojas importantes mientras Pablo reconstruye una entrega hecha con demasiada confianza, varios sobres y una interpretación muy optimista de la recepción.
+
+Esta lección le ayuda a seguir formas como «te las dejé», «se las di», «les di» y «se la explico», y a escuchar cómo los pronombres breves organizan objetos, destinatarios y rutas dentro de una conversación real.
+
+La guía de lección explica también el vocabulario importante del episodio: simulacro, recepción, sobre, pegatina, jerarquía, lista de errores típicos, boca abajo, transparentarse, suspense y otras palabras útiles.
+
+En la página del episodio encontrará la guía de aprendizaje, la nota cultural, el diálogo lento, el diálogo a velocidad natural y la transcripción completa.]]></description>
+      <content:encoded><![CDATA[<p>Guía completa y transcripción:<br />
+<a href="https://skepvox.com/podcast/espanol/006-el-sobre-del-simulacro#transcripcion-completa">https://skepvox.com/podcast/espanol/006-el-sobre-del-simulacro#transcripcion-completa</a></p>
+
+<p>En este episodio de Vox Español, trabajamos los pronombres átonos de objeto directo e indirecto en una escena de academia de idiomas antes de un simulacro de examen.</p>
+
+<p>El episodio se llama "El sobre del simulacro". Marina busca unas hojas importantes mientras Pablo reconstruye una entrega hecha con demasiada confianza, varios sobres y una interpretación muy optimista de la recepción.</p>
+
+<p>Esta lección le ayuda a seguir formas como «te las dejé», «se las di», «les di» y «se la explico», y a escuchar cómo los pronombres breves organizan objetos, destinatarios y rutas dentro de una conversación real.</p>
+
+<p>La guía de lección explica también el vocabulario importante del episodio: simulacro, recepción, sobre, pegatina, jerarquía, lista de errores típicos, boca abajo, transparentarse, suspense y otras palabras útiles.</p>
+
+<p>En la página del episodio encontrará la guía de aprendizaje, la nota cultural, el diálogo lento, el diálogo a velocidad natural y la transcripción completa.</p>]]></content:encoded>
+      <enclosure url="https://media.skepvox.com/podcast/espanol/audio/espanol-006-el-sobre-del-simulacro-v1.mp3" length="32877967" type="audio/mpeg" />
+      <itunes:duration>00:22:50</itunes:duration>
+      <itunes:episode>6</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>

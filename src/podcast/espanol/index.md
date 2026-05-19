@@ -110,3 +110,6 @@ Las páginas de esta sección reúnen las transcripciones, el vocabulario y las 
 - [001 - La boda es a las seis](/podcast/espanol/001-la-boda-es-a-las-seis) — el contraste entre «ser» y «estar» para identidad, profesión, hora de un evento, ubicación, estado y función temporal.
 - [002 - La sartén está ocupada](/podcast/espanol/002-la-sarten-esta-ocupada) — el contraste entre «ser» y «estar» para identidad, rol, propiedad, ubicación, preparación, temperatura y estados temporales de objetos.
 - [003 - El tren está parado](/podcast/espanol/003-el-tren-esta-parado) — el contraste entre «ser» y «estar» para identidad, ubicación, función profesional, hora, servicio y estados temporales.
+- [004 - La pendiente correcta](/podcast/espanol/004-la-pendiente-correcta) — el género gramatical y el artículo como claves de significado en una escena vecinal sobre accesibilidad e inauguraciones.
+- [005 - El paquete del buzón](/podcast/espanol/005-el-paquete-del-buzon) — los pronombres átonos de objeto directo e indirecto en una escena de comunidad de vecinos sobre paquetes, avisos y buzones.
+- [006 - El sobre del simulacro](/podcast/espanol/006-el-sobre-del-simulacro) — los pronombres átonos de objeto directo e indirecto en una academia de idiomas antes de un simulacro de examen.
