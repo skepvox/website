@@ -116,3 +116,5 @@ Les pages de cette section réunissent les transcriptions, le vocabulaire et les
 - [005 - Le colis invisible](/podcast/francais/005-le-colis-invisible) — la négation simple, les questions oui/non et les réponses courtes dans un point relais.
 - [006 - Le livre en retard](/podcast/francais/006-le-livre-en-retard) — la négation simple, les questions oui/non et les réponses oui, si, non, pas, moi aussi et moi non plus dans une médiathèque.
 - [007 - Le frigo honnête](/podcast/francais/007-le-frigo-honnete) — les articles pour nommer les aliments, les objets et les absences dans une cuisine de colocation avant un apéritif.
+- [008 - Le panier de la photo](/podcast/francais/008-le-panier-de-la-photo) — les articles indéfinis, définis et partitifs, ainsi que « pas de », dans une distribution locale très attentive à son image.
+- [009 - Le docteur du ficus](/podcast/francais/009-le-docteur-du-ficus) — l'alternance entre « c'est » pour présenter ou commenter et « il est » pour décrire un rôle, une spécialité ou un référent précis.

@@ -54,7 +54,8 @@ export const sidebar: ThemeConfig['sidebar'] = {
         { text: '005 - Le colis invisible', link: '/podcast/francais/005-le-colis-invisible' },
         { text: '006 - Le livre en retard', link: '/podcast/francais/006-le-livre-en-retard' },
         { text: '007 - Le frigo honnête', link: '/podcast/francais/007-le-frigo-honnete' },
-        { text: '008 - Le panier de la photo', link: '/podcast/francais/008-le-panier-de-la-photo' }
+        { text: '008 - Le panier de la photo', link: '/podcast/francais/008-le-panier-de-la-photo' },
+        { text: '009 - Le docteur du ficus', link: '/podcast/francais/009-le-docteur-du-ficus' }
       ]
     },
     {
