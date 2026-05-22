@@ -118,3 +118,4 @@ Les pages de cette section réunissent les transcriptions, le vocabulaire et les
 - [007 - Le frigo honnête](/podcast/francais/007-le-frigo-honnete) — les articles pour nommer les aliments, les objets et les absences dans une cuisine de colocation avant un apéritif.
 - [008 - Le panier de la photo](/podcast/francais/008-le-panier-de-la-photo) — les articles indéfinis, définis et partitifs, ainsi que « pas de », dans une distribution locale très attentive à son image.
 - [009 - Le docteur du ficus](/podcast/francais/009-le-docteur-du-ficus) — l'alternance entre « c'est » pour présenter ou commenter et « il est » pour décrire un rôle, une spécialité ou un référent précis.
+- [010 - Le maire discret](/podcast/francais/010-le-maire-discret) — l'alternance entre « c'est » pour identifier ou commenter, « ce sont » pour présenter un groupe, et « il est », « elle est » ou « ils sont » pour décrire un statut ou un référent précis.

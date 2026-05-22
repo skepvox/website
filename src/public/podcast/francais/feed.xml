@@ -31,7 +31,7 @@ Page de l'émission : https://skepvox.com/podcast/francais/]]></itunes:summary>
       <title>Vox Français</title>
       <link>https://skepvox.com/podcast/francais/</link>
     </image>
-    <lastBuildDate>Fri, 22 May 2026 11:17:23 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 15:50:50 -0300</lastBuildDate>
 
     <item>
       <title>001 Le badge</title>
@@ -348,6 +348,42 @@ Vous trouverez sur la page de l'épisode le guide d'apprentissage, la note cultu
       <enclosure url="https://media.skepvox.com/podcast/francais/audio/francais-009-le-docteur-du-ficus-v1.mp3" length="33936240" type="audio/mpeg" />
       <itunes:duration>00:23:34</itunes:duration>
       <itunes:episode>9</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg" />
+    </item>
+    <item>
+      <title>010 Le maire discret</title>
+      <link>https://skepvox.com/podcast/francais/010-le-maire-discret</link>
+      <guid isPermaLink="false">vox-francais-010</guid>
+      <pubDate>Thu, 14 May 2026 05:00:00 -0300</pubDate>
+      <description><![CDATA[Guide complet et transcription :
+https://skepvox.com/podcast/francais/010-le-maire-discret#transcription-complete
+
+Dans cet épisode de Vox Français, nous travaillons l'alternance entre « c'est » pour identifier ou commenter, « ce sont » pour présenter un groupe, et « il est », « elle est » ou « ils sont » pour décrire un statut ou un référent précis.
+
+L'épisode s'appelle "Le maire discret". Claire accueille un visiteur pendant une journée portes ouvertes à la mairie, explique les badges, les rôles de l'équipe municipale et l'ordre très précis du bâtiment.
+
+Cette leçon vous aide à entendre des phrases comme « c'est Mireille », « elle est secrétaire générale », « ce sont les adjoints », « ils sont disponibles », « il est trois heures » et « c'est tôt », avec une attention particulière au rythme et au contexte.
+
+Le guide de leçon explique aussi le vocabulaire important de l'épisode : mairie, journée portes ouvertes, badge, registre, secrétaire générale, état civil, adjoint, écharpe, presse, travaux, portrait, hall, discours, ponctuel et discret.
+
+Vous trouverez sur la page de l'épisode le guide d'apprentissage, la note culturelle, le dialogue lent, le dialogue à vitesse naturelle et la transcription complète.]]></description>
+      <content:encoded><![CDATA[<p><strong>Guide complet et transcription :</strong> <a href="https://skepvox.com/podcast/francais/010-le-maire-discret#transcription-complete">https://skepvox.com/podcast/francais/010-le-maire-discret#transcription-complete</a></p>
+
+<p>Dans cet épisode de <strong>Vox Français</strong>, nous travaillons l'alternance entre <em>c'est</em> pour identifier ou commenter, <em>ce sont</em> pour présenter un groupe, et <em>il est</em>, <em>elle est</em> ou <em>ils sont</em> pour décrire un statut ou un référent précis.</p>
+
+<p>L'épisode s'appelle <strong>"Le maire discret"</strong>. Claire accueille un visiteur pendant une journée portes ouvertes à la mairie, explique les badges, les rôles de l'équipe municipale et l'ordre très précis du bâtiment.</p>
+
+<p>Cette leçon vous aide à entendre des phrases comme <em>c'est Mireille</em>, <em>elle est secrétaire générale</em>, <em>ce sont les adjoints</em>, <em>ils sont disponibles</em>, <em>il est trois heures</em> et <em>c'est tôt</em>, avec une attention particulière au rythme et au contexte.</p>
+
+<p>Le guide de leçon explique aussi le vocabulaire important de l'épisode : <em>mairie, journée portes ouvertes, badge, registre, secrétaire générale, état civil, adjoint, écharpe, presse, travaux, portrait, hall, discours, ponctuel</em> et <em>discret</em>.</p>
+
+<p>Vous trouverez sur la page de l'épisode le guide d'apprentissage, la note culturelle, le dialogue lent, le dialogue à vitesse naturelle et la transcription complète.</p>]]></content:encoded>
+      <enclosure url="https://media.skepvox.com/podcast/francais/audio/francais-010-le-maire-discret-v1.mp3" length="33538133" type="audio/mpeg" />
+      <itunes:duration>00:23:17</itunes:duration>
+      <itunes:episode>10</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
