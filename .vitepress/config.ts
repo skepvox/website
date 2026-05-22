@@ -76,7 +76,8 @@ export const sidebar: ThemeConfig['sidebar'] = {
         { text: '003 - El tren está parado', link: '/podcast/espanol/003-el-tren-esta-parado' },
         { text: '004 - La pendiente correcta', link: '/podcast/espanol/004-la-pendiente-correcta' },
         { text: '005 - El paquete del buzón', link: '/podcast/espanol/005-el-paquete-del-buzon' },
-        { text: '006 - El sobre del simulacro', link: '/podcast/espanol/006-el-sobre-del-simulacro' }
+        { text: '006 - El sobre del simulacro', link: '/podcast/espanol/006-el-sobre-del-simulacro' },
+        { text: '007 - El mapa real', link: '/podcast/espanol/007-el-mapa-real' }
       ]
     },
     {

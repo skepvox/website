@@ -113,3 +113,4 @@ Las páginas de esta sección reúnen las transcripciones, el vocabulario y las 
 - [004 - La pendiente correcta](/podcast/espanol/004-la-pendiente-correcta) — el género gramatical y el artículo como claves de significado en una escena vecinal sobre accesibilidad e inauguraciones.
 - [005 - El paquete del buzón](/podcast/espanol/005-el-paquete-del-buzon) — los pronombres átonos de objeto directo e indirecto en una escena de comunidad de vecinos sobre paquetes, avisos y buzones.
 - [006 - El sobre del simulacro](/podcast/espanol/006-el-sobre-del-simulacro) — los pronombres átonos de objeto directo e indirecto en una academia de idiomas antes de un simulacro de examen.
+- [007 - El mapa real](/podcast/espanol/007-el-mapa-real) — la presencia y ausencia de artículos en una oficina de turismo donde un cartógrafo busca un mapa más práctico que amable.
