@@ -127,3 +127,6 @@ pipeline-enem-extraction/
 
 # Local-only brand kit (tracked elsewhere later)
 skepvox-brand/
+
+# Retired podcast feed; do not republish this public endpoint.
+src/public/podcast/english/feed.xml
