@@ -103,7 +103,7 @@ Las páginas de esta sección reúnen las transcripciones, el vocabulario y las 
 
 **Spotify:** <https://open.spotify.com/show/7zcDdSa9cfxrAVmRhRVyIv>
 
-**YouTube:** <https://www.youtube.com/playlist?list=PLpaLfQv0ILtcvukfQYR36E6-qVx85W001>
+**YouTube:** <https://www.youtube.com/playlist?list=PLpaLfQv0ILtf3OAGipkO4zgGe6ZhsiO6T>
 
 ## Lecciones
 

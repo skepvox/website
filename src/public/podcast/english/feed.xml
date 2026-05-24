@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Vox English</title>
@@ -9,42 +8,19 @@
     <atom:link href="https://skepvox.com/podcast/english/feed.xml" rel="self" type="application/rss+xml" />
     <language>en-US</language>
     <copyright>Copyright 2026 Thiago Oliveira</copyright>
-    <description><![CDATA[Vox English is temporarily active for podcast-platform account maintenance. This placeholder feed will be retired again after platform cleanup is complete.]]></description>
+    <description><![CDATA[Vox English has been retired. This feed is intentionally preserved as a valid RSS endpoint with no episode items so podcast platforms can refresh to the retired state.]]></description>
     <itunes:author>skepvox</itunes:author>
     <itunes:owner>
       <itunes:name>Thiago Oliveira</itunes:name>
       <itunes:email>podcasts@skepvox.com</itunes:email>
     </itunes:owner>
-    <itunes:summary><![CDATA[Vox English is temporarily active for podcast-platform account maintenance. This placeholder feed will be retired again after platform cleanup is complete.]]></itunes:summary>
+    <itunes:summary><![CDATA[Vox English has been retired. No episodes are distributed from this feed.]]></itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://media.skepvox.com/podcast/shared/artwork/skepvox-baseline-v1.jpg" />
+    <itunes:block>Yes</itunes:block>
     <itunes:category text="Education">
       <itunes:category text="Language Learning" />
     </itunes:category>
-    <image>
-      <url>https://media.skepvox.com/podcast/shared/artwork/skepvox-baseline-v1.jpg</url>
-      <title>Vox English</title>
-      <link>https://skepvox.com/podcast/</link>
-    </image>
-    <lastBuildDate>Tue, 19 May 2026 15:44:43 -0300</lastBuildDate>
-
-    <item>
-      <title>Temporary Platform Recovery Episode</title>
-      <link>https://skepvox.com/podcast/</link>
-      <guid isPermaLink="false">vox-english-platform-recovery-001</guid>
-      <pubDate>Tue, 19 May 2026 15:44:43 -0300</pubDate>
-      <description><![CDATA[This temporary placeholder episode exists only to refresh the Vox English feed for podcast-platform account maintenance before the show is retired again. It uses an existing skepvox audio asset from Vox Español so platforms can read a valid active feed item.]]></description>
-      <content:encoded><![CDATA[<p>This temporary placeholder episode exists only to refresh the Vox English feed for podcast-platform account maintenance before the show is retired again.</p>
-
-<p>It uses an existing skepvox audio asset from Vox Español so platforms can read a valid active feed item.</p>]]></content:encoded>
-      <enclosure url="https://media.skepvox.com/podcast/espanol/audio/espanol-001-la-boda-es-a-las-seis-v3.mp3" length="32527508" type="audio/mpeg" />
-      <itunes:duration>00:22:35</itunes:duration>
-      <itunes:episode>1</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://media.skepvox.com/podcast/shared/artwork/skepvox-baseline-v1.jpg" />
-    </item>
+    <lastBuildDate>Sun, 24 May 2026 12:18:38 -0300</lastBuildDate>
   </channel>
 </rss>

@@ -105,7 +105,7 @@ Les pages de cette section réunissent les transcriptions, le vocabulaire et les
 
 **Amazon Music :** <https://music.amazon.com/podcasts/d7df025e-6ee3-48da-953f-198756fd1508/vox-français>
 
-**YouTube :** <https://www.youtube.com/playlist?list=PLpaLfQv0ILtcAgCZeIxaJkJETSQN-v7G1>
+**YouTube :** <https://www.youtube.com/playlist?list=PLpaLfQv0ILtdsZ42J_jE67suLr7BPvOa_>
 
 ## Leçons
 
