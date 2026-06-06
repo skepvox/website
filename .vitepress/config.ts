@@ -56,7 +56,8 @@ export const sidebar: ThemeConfig['sidebar'] = {
         { text: '007 - Le frigo honnête', link: '/podcast/francais/007-le-frigo-honnete' },
         { text: '008 - Le panier de la photo', link: '/podcast/francais/008-le-panier-de-la-photo' },
         { text: '009 - Le docteur du ficus', link: '/podcast/francais/009-le-docteur-du-ficus' },
-        { text: '010 - Le maire discret', link: '/podcast/francais/010-le-maire-discret' }
+        { text: '010 - Le maire discret', link: '/podcast/francais/010-le-maire-discret' },
+        { text: '011 - La photo de survie', link: '/podcast/francais/011-la-photo-de-survie' }
       ]
     },
     {

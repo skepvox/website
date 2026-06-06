@@ -31,7 +31,7 @@ Page de l'émission : https://skepvox.com/podcast/francais/]]></itunes:summary>
       <title>Vox Français</title>
       <link>https://skepvox.com/podcast/francais/</link>
     </image>
-    <lastBuildDate>Fri, 22 May 2026 15:50:50 -0300</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 18:33:38 -0300</lastBuildDate>
 
     <item>
       <title>001 Le badge</title>
@@ -384,6 +384,42 @@ Vous trouverez sur la page de l'épisode le guide d'apprentissage, la note cultu
       <enclosure url="https://media.skepvox.com/podcast/francais/audio/francais-010-le-maire-discret-v1.mp3" length="33538133" type="audio/mpeg" />
       <itunes:duration>00:23:17</itunes:duration>
       <itunes:episode>10</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg" />
+    </item>
+    <item>
+      <title>011 La photo de survie</title>
+      <link>https://skepvox.com/podcast/francais/011-la-photo-de-survie</link>
+      <guid isPermaLink="false">vox-francais-011</guid>
+      <pubDate>Mon, 18 May 2026 05:00:00 -0300</pubDate>
+      <description><![CDATA[Guide complet et transcription :
+https://skepvox.com/podcast/francais/011-la-photo-de-survie#transcription-complete
+
+Dans cet épisode de Vox Français, nous travaillons les possessifs pour parler de famille, d'objets et d'appartenance : « ton père », « ta mère », « son chien », « leurs cousins », « la fiche est à moi » et « le mien ».
+
+L'épisode s'appelle "La photo de survie". Inès et Théo préparent un déjeuner de famille, mais Théo regarde la grande photo sur la table comme un outil très sérieux pour ne pas se perdre dans les liens de parenté.
+
+Cette leçon vous aide à entendre comment les possessifs suivent le nom possédé, comment « son » peut rester ambigu, comment « mon amie » s'enchaîne à l'oral, et comment une formule comme « à moi » insiste sur l'appartenance.
+
+Le guide de leçon explique aussi le vocabulaire important de l'épisode : photo de famille, carte de survie, déjeuner, nappe, prénom, tante, oncle, cousin, chien, chat, grand-mère, étiquette, discrétion, fiche, parrain, buffet et plan d'évacuation sociale.
+
+Vous trouverez sur la page de l'épisode le guide d'apprentissage, la note culturelle, le dialogue lent, le dialogue à vitesse naturelle et la transcription complète.]]></description>
+      <content:encoded><![CDATA[<p><strong>Guide complet et transcription :</strong> <a href="https://skepvox.com/podcast/francais/011-la-photo-de-survie#transcription-complete">https://skepvox.com/podcast/francais/011-la-photo-de-survie#transcription-complete</a></p>
+
+<p>Dans cet épisode de Vox Français, nous travaillons les possessifs pour parler de famille, d'objets et d'appartenance : « ton père », « ta mère », « son chien », « leurs cousins », « la fiche est à moi » et « le mien ».</p>
+
+<p>L'épisode s'appelle "La photo de survie". Inès et Théo préparent un déjeuner de famille, mais Théo regarde la grande photo sur la table comme un outil très sérieux pour ne pas se perdre dans les liens de parenté.</p>
+
+<p>Cette leçon vous aide à entendre comment les possessifs suivent le nom possédé, comment « son » peut rester ambigu, comment « mon amie » s'enchaîne à l'oral, et comment une formule comme « à moi » insiste sur l'appartenance.</p>
+
+<p>Le guide de leçon explique aussi le vocabulaire important de l'épisode : photo de famille, carte de survie, déjeuner, nappe, prénom, tante, oncle, cousin, chien, chat, grand-mère, étiquette, discrétion, fiche, parrain, buffet et plan d'évacuation sociale.</p>
+
+<p>Vous trouverez sur la page de l'épisode le guide d'apprentissage, la note culturelle, le dialogue lent, le dialogue à vitesse naturelle et la transcription complète.</p>]]></content:encoded>
+      <enclosure url="https://media.skepvox.com/podcast/francais/audio/francais-011-la-photo-de-survie-v1.mp3" length="30550770" type="audio/mpeg" />
+      <itunes:duration>00:21:13</itunes:duration>
+      <itunes:episode>11</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
