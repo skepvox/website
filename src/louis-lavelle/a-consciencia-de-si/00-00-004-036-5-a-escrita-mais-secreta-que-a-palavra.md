@@ -46,7 +46,7 @@ head:
       content: fr_FR
   - - meta
     - property: og:image
-      content: "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png"
+      content: "https://skepvox.com/images/authors/louis-lavelle.webp"
   - - meta
     - property: og:image:alt
       content: "Retrato de Louis Lavelle"
@@ -61,7 +61,7 @@ head:
       content: "Leitura em português do Brasil de A consciência de si, de Louis Lavelle. Capítulo IV. A mensagem do escritor. 5. A escrita mais secreta que a palavra."
   - - meta
     - name: twitter:image
-      content: "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png"
+      content: "https://skepvox.com/images/authors/louis-lavelle.webp"
   - - meta
     - name: twitter:image:alt
       content: "Retrato de Louis Lavelle"
@@ -95,7 +95,7 @@ head:
             "url": "https://skepvox.com/louis-lavelle/a-consciencia-de-si"
           }
         },
-        "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
+        "image": "https://skepvox.com/images/authors/louis-lavelle.webp",
         "description": "Leitura em português do Brasil de A consciência de si, de Louis Lavelle. Capítulo IV. A mensagem do escritor. 5. A escrita mais secreta que a palavra.",
         "additionalProperty": [
           {

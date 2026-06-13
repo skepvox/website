@@ -35,7 +35,7 @@ head:
       content: article
   - - meta
     - property: og:image
-      content: "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png"
+      content: "https://skepvox.com/images/authors/louis-lavelle.webp"
   - - meta
     - property: og:image:alt
       content: "Retrato de Louis Lavelle"
@@ -50,7 +50,7 @@ head:
       content: "Texte intégral en français de Du temps et de l'éternité de Louis Lavelle. Chapitre I. La déduction du temps."
   - - meta
     - name: twitter:image
-      content: "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png"
+      content: "https://skepvox.com/images/authors/louis-lavelle.webp"
   - - meta
     - name: twitter:image:alt
       content: "Retrato de Louis Lavelle"
@@ -84,7 +84,7 @@ head:
             "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite.html"
           }
         },
-        "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
+        "image": "https://skepvox.com/images/authors/louis-lavelle.webp",
         "description": "Texte intégral en français de Du temps et de l'éternité de Louis Lavelle. Chapitre I. La déduction du temps.",
         "additionalProperty": [
           {

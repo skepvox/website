@@ -32,7 +32,7 @@ head:
       content: fr_FR
   - - meta
     - property: og:image
-      content: "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png"
+      content: "https://skepvox.com/images/authors/louis-lavelle.webp"
   - - meta
     - property: og:image:alt
       content: "Retrato de Louis Lavelle"
@@ -47,7 +47,7 @@ head:
       content: "Tradução em português do Brasil de A consciência de si, de Louis Lavelle, com índice completo e leitura por trechos."
   - - meta
     - name: twitter:image
-      content: "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png"
+      content: "https://skepvox.com/images/authors/louis-lavelle.webp"
   - - meta
     - name: twitter:image:alt
       content: "Retrato de Louis Lavelle"
@@ -66,7 +66,7 @@ head:
         "inLanguage": "pt-BR",
         "url": "https://skepvox.com/louis-lavelle/a-consciencia-de-si",
         "description": "Tradução em português do Brasil de A consciência de si, de Louis Lavelle, com índice completo e leitura por trechos.",
-        "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
+        "image": "https://skepvox.com/images/authors/louis-lavelle.webp",
         "hasPart": [
           {
             "@type": "Chapter",

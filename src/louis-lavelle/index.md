@@ -41,16 +41,16 @@ head:
       content: Lavelle
   - - meta
     - property: og:image
-      content: 'https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png'
+      content: 'https://skepvox.com/images/authors/louis-lavelle.webp'
   - - meta
     - property: og:image:type
-      content: 'image/png'
+      content: 'image/webp'
   - - meta
     - property: og:image:width
-      content: '1024'
+      content: '900'
   - - meta
     - property: og:image:height
-      content: '1024'
+      content: '900'
   - - meta
     - property: og:image:alt
       content: 'Retrato de Louis Lavelle'
@@ -65,7 +65,7 @@ head:
       content: 'Louis Lavelle (1883–1951): leitura guiada, biografia e obras em francês e português do Brasil — participação, dialética do ato e eterno presente.'
   - - meta
     - name: twitter:image
-      content: 'https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png'
+      content: 'https://skepvox.com/images/authors/louis-lavelle.webp'
   - - meta
     - name: twitter:image:alt
       content: 'Retrato de Louis Lavelle'
@@ -85,9 +85,9 @@ head:
         "url": "https://skepvox.com/louis-lavelle/",
         "image": {
           "@type": "ImageObject",
-          "url": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
-          "width": 1024,
-          "height": 1024
+          "url": "https://skepvox.com/images/authors/louis-lavelle.webp",
+          "width": 900,
+          "height": 900
         },
         "birthDate": "1883-07-15",
         "deathDate": "1951-09-01",
@@ -289,7 +289,7 @@ head:
 _Metafísica da presença, participação e dialética do ato._
 
 <img
-  src="/images/louis-lavelle/louis-lavelle-profile-picture.png"
+  src="/images/authors/louis-lavelle.webp"
   alt="Retrato de Louis Lavelle"
   class="lavelle-portrait"
 />

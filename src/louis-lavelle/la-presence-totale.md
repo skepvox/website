@@ -23,7 +23,7 @@ head:
       content: book
   - - meta
     - property: og:image
-      content: "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png"
+      content: "https://skepvox.com/images/authors/louis-lavelle.webp"
   - - meta
     - property: og:image:alt
       content: "Retrato de Louis Lavelle"
@@ -38,7 +38,7 @@ head:
       content: "Texte intégral en français de La Présence totale de Louis Lavelle."
   - - meta
     - name: twitter:image
-      content: "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png"
+      content: "https://skepvox.com/images/authors/louis-lavelle.webp"
   - - meta
     - name: twitter:image:alt
       content: "Retrato de Louis Lavelle"
@@ -56,7 +56,7 @@ head:
         "inLanguage": "fr",
         "url": "https://skepvox.com/louis-lavelle/la-presence-totale",
         "description": "Texte intégral en français de La Présence totale de Louis Lavelle.",
-        "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
+        "image": "https://skepvox.com/images/authors/louis-lavelle.webp",
         "hasPart": [
           {
             "@type": "Chapter",

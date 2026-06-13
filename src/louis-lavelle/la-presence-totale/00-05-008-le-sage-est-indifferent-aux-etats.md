@@ -35,7 +35,7 @@ head:
       content: article
   - - meta
     - property: og:image
-      content: "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png"
+      content: "https://skepvox.com/images/authors/louis-lavelle.webp"
   - - meta
     - property: og:image:alt
       content: "Retrato de Louis Lavelle"
@@ -50,7 +50,7 @@ head:
       content: "Texte intégral en français de La Présence totale de Louis Lavelle. Le sage est indifférent aux états."
   - - meta
     - name: twitter:image
-      content: "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png"
+      content: "https://skepvox.com/images/authors/louis-lavelle.webp"
   - - meta
     - name: twitter:image:alt
       content: "Retrato de Louis Lavelle"
@@ -79,7 +79,7 @@ head:
           },
           "url": "https://skepvox.com/louis-lavelle/la-presence-totale.html"
         },
-        "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
+        "image": "https://skepvox.com/images/authors/louis-lavelle.webp",
         "description": "Texte intégral en français de La Présence totale de Louis Lavelle. Le sage est indifférent aux états.",
         "additionalProperty": [
           {

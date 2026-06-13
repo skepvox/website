@@ -23,7 +23,7 @@ head:
       content: book
   - - meta
     - property: og:image
-      content: "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png"
+      content: "https://skepvox.com/images/authors/louis-lavelle.webp"
   - - meta
     - property: og:image:alt
       content: "Retrato de Louis Lavelle"
@@ -38,7 +38,7 @@ head:
       content: "Texte intégral en français de De l'âme humaine de Louis Lavelle, quatrième volume de La Dialectique de l'éternel présent."
   - - meta
     - name: twitter:image
-      content: "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png"
+      content: "https://skepvox.com/images/authors/louis-lavelle.webp"
   - - meta
     - name: twitter:image:alt
       content: "Retrato de Louis Lavelle"
@@ -56,7 +56,7 @@ head:
         "inLanguage": "fr",
         "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine",
         "description": "Texte intégral en français de De l'âme humaine de Louis Lavelle, quatrième volume de La Dialectique de l'éternel présent.",
-        "image": "https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png",
+        "image": "https://skepvox.com/images/authors/louis-lavelle.webp",
         "isPartOf": {
           "@type": "BookSeries",
           "name": "La Dialectique de l'éternel présent"
