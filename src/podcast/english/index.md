@@ -99,6 +99,8 @@ The pages in this section collect transcripts, vocabulary and notes for listenin
 
 **RSS feed:** <https://skepvox.com/podcast/english/feed.xml>
 
+**Amazon Music:** <https://music.amazon.com/podcasts/b1200000-5b01-44b8-a2a1-d47955fd7687/vox-english>
+
 ## Lessons
 
 - [001 - The Two-Minute Phone Call](/podcast/english/001-the-two-minute-phone-call) — steering a practical neighbor call with small spoken markers such as “so”, “well”, “anyway” and “right then”.

@@ -23,7 +23,7 @@ head:
       content: book
   - - meta
     - property: og:image
-      content: "https://skepvox.com/images/authors/graciliano-ramos.png"
+      content: "https://skepvox.com/images/authors/graciliano-ramos.webp"
   - - meta
     - property: og:image:alt
       content: "Graciliano Ramos"
@@ -38,7 +38,7 @@ head:
       content: "Texto integral de Angústia, de Graciliano Ramos, com capítulos separados para leitura."
   - - meta
     - name: twitter:image
-      content: "https://skepvox.com/images/authors/graciliano-ramos.png"
+      content: "https://skepvox.com/images/authors/graciliano-ramos.webp"
   - - meta
     - name: twitter:image:alt
       content: "Graciliano Ramos"
@@ -56,7 +56,7 @@ head:
         "inLanguage": "pt-BR",
         "url": "https://skepvox.com/literatura/graciliano-ramos/angustia",
         "description": "Texto integral de Angústia, de Graciliano Ramos, com capítulos separados para leitura.",
-        "image": "https://skepvox.com/images/authors/graciliano-ramos.png",
+        "image": "https://skepvox.com/images/authors/graciliano-ramos.webp",
         "hasPart": [
           {
             "@type": "Chapter",

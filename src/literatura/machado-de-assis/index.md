@@ -23,7 +23,7 @@ head:
       content: profile
   - - meta
     - property: og:image
-      content: "https://skepvox.com/images/authors/machado-de-assis.png"
+      content: "https://skepvox.com/images/authors/machado-de-assis.webp"
   - - meta
     - property: og:image:alt
       content: "Machado de Assis"
@@ -38,7 +38,7 @@ head:
       content: "Bibliografia e textos integrais de Machado de Assis: Brás Cubas, Quincas Borba, Dom Casmurro, Esaú e Jacó, O Alienista e A Cartomante."
   - - meta
     - name: twitter:image
-      content: "https://skepvox.com/images/authors/machado-de-assis.png"
+      content: "https://skepvox.com/images/authors/machado-de-assis.webp"
   - - meta
     - name: twitter:image:alt
       content: "Machado de Assis"
@@ -53,7 +53,7 @@ head:
         "alternateName": "Joaquim Maria Machado de Assis",
         "description": "Bibliografia e textos integrais de Machado de Assis: Brás Cubas, Quincas Borba, Dom Casmurro, Esaú e Jacó, O Alienista e A Cartomante.",
         "url": "https://skepvox.com/literatura/machado-de-assis/",
-        "image": "https://skepvox.com/images/authors/machado-de-assis.png",
+        "image": "https://skepvox.com/images/authors/machado-de-assis.webp",
         "birthDate": "1839-06-21",
         "deathDate": "1908-09-29",
         "nationality": "Brasileira",

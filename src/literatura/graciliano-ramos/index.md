@@ -23,7 +23,7 @@ head:
       content: profile
   - - meta
     - property: og:image
-      content: "https://skepvox.com/images/authors/graciliano-ramos.png"
+      content: "https://skepvox.com/images/authors/graciliano-ramos.webp"
   - - meta
     - property: og:image:alt
       content: "Graciliano Ramos"
@@ -38,7 +38,7 @@ head:
       content: "Bibliografia e textos integrais de Graciliano Ramos: São Bernardo, Angústia e Vidas Secas."
   - - meta
     - name: twitter:image
-      content: "https://skepvox.com/images/authors/graciliano-ramos.png"
+      content: "https://skepvox.com/images/authors/graciliano-ramos.webp"
   - - meta
     - name: twitter:image:alt
       content: "Graciliano Ramos"
@@ -52,7 +52,7 @@ head:
         "name": "Graciliano Ramos",
         "description": "Bibliografia e textos integrais de Graciliano Ramos: São Bernardo, Angústia e Vidas Secas.",
         "url": "https://skepvox.com/literatura/graciliano-ramos/",
-        "image": "https://skepvox.com/images/authors/graciliano-ramos.png",
+        "image": "https://skepvox.com/images/authors/graciliano-ramos.webp",
         "birthDate": "1892-10-27",
         "deathDate": "1953-03-20",
         "nationality": "Brasileira",

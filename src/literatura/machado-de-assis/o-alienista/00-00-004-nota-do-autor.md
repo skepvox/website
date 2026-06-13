@@ -31,7 +31,7 @@ head:
       content: article
   - - meta
     - property: og:image
-      content: "https://skepvox.com/images/authors/machado-de-assis.png"
+      content: "https://skepvox.com/images/authors/machado-de-assis.webp"
   - - meta
     - property: og:image:alt
       content: "Machado de Assis"
@@ -46,7 +46,7 @@ head:
       content: "Texto integral de O Alienista, de Machado de Assis. IV — Nota do Autor."
   - - meta
     - name: twitter:image
-      content: "https://skepvox.com/images/authors/machado-de-assis.png"
+      content: "https://skepvox.com/images/authors/machado-de-assis.webp"
   - - meta
     - name: twitter:image:alt
       content: "Machado de Assis"
@@ -75,7 +75,7 @@ head:
           },
           "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista"
         },
-        "image": "https://skepvox.com/images/authors/machado-de-assis.png",
+        "image": "https://skepvox.com/images/authors/machado-de-assis.webp",
         "description": "Texto integral de O Alienista, de Machado de Assis. IV — Nota do Autor.",
         "additionalProperty": [
           {

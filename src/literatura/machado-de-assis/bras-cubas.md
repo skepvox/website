@@ -23,7 +23,7 @@ head:
       content: book
   - - meta
     - property: og:image
-      content: "https://skepvox.com/images/authors/machado-de-assis.png"
+      content: "https://skepvox.com/images/authors/machado-de-assis.webp"
   - - meta
     - property: og:image:alt
       content: "Machado de Assis"
@@ -38,7 +38,7 @@ head:
       content: "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis, com capítulos separados para leitura."
   - - meta
     - name: twitter:image
-      content: "https://skepvox.com/images/authors/machado-de-assis.png"
+      content: "https://skepvox.com/images/authors/machado-de-assis.webp"
   - - meta
     - name: twitter:image:alt
       content: "Machado de Assis"
@@ -56,7 +56,7 @@ head:
         "inLanguage": "pt-BR",
         "url": "https://skepvox.com/literatura/machado-de-assis/bras-cubas",
         "description": "Texto integral de Memórias póstumas de Brás Cubas, de Machado de Assis, com capítulos separados para leitura.",
-        "image": "https://skepvox.com/images/authors/machado-de-assis.png",
+        "image": "https://skepvox.com/images/authors/machado-de-assis.webp",
         "hasPart": [
           {
             "@type": "Chapter",

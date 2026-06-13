@@ -31,7 +31,7 @@ head:
       content: article
   - - meta
     - property: og:image
-      content: "https://skepvox.com/images/authors/graciliano-ramos.png"
+      content: "https://skepvox.com/images/authors/graciliano-ramos.webp"
   - - meta
     - property: og:image:alt
       content: "Graciliano Ramos"
@@ -46,7 +46,7 @@ head:
       content: "Texto integral de Vidas Secas, de Graciliano Ramos. Capítulo 4 — Sinha Vitoria."
   - - meta
     - name: twitter:image
-      content: "https://skepvox.com/images/authors/graciliano-ramos.png"
+      content: "https://skepvox.com/images/authors/graciliano-ramos.webp"
   - - meta
     - name: twitter:image:alt
       content: "Graciliano Ramos"
@@ -75,7 +75,7 @@ head:
           },
           "url": "https://skepvox.com/literatura/graciliano-ramos/vidas-secas.html"
         },
-        "image": "https://skepvox.com/images/authors/graciliano-ramos.png",
+        "image": "https://skepvox.com/images/authors/graciliano-ramos.webp",
         "description": "Texto integral de Vidas Secas, de Graciliano Ramos. Capítulo 4 — Sinha Vitoria.",
         "additionalProperty": [
           {
