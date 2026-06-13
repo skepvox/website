@@ -83,7 +83,7 @@ onUnmounted(() => {
   align-items: center;
   border-radius: 6px;
   transition: background-color 0.2s ease;
-  height: var(--max-width);
+  aspect-ratio: 1 / 1;
   overflow: hidden;
   padding: 12px;          /* inner margin */
   box-sizing: border-box;
