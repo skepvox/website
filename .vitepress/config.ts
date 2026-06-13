@@ -349,7 +349,7 @@ gtag('config', 'G-1VWHF2D1QJ');`
 #skepvox-consent a{color:var(--vt-c-brand,#3c8772);text-decoration:underline}
 #skepvox-consent .sc-actions{display:flex;gap:8px;flex-shrink:0}
 #skepvox-consent button{padding:6px 14px;border-radius:6px;border:1px solid var(--vt-c-divider,#ccc);background:transparent;color:inherit;cursor:pointer;font-size:13px}
-#skepvox-consent .sc-accept{background:#3c8772;color:#fff;border-color:transparent}`
+#skepvox-consent button:hover{border-color:var(--vt-c-brand,#3c8772)}`
     ],
     [
       'script',
