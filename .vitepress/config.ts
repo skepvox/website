@@ -125,7 +125,7 @@ export const sidebar: ThemeConfig['sidebar'] = {
     {
       text: 'Raul Pompeia', 
       items: [
-        // { text: 'Visão geral', link: '/literatura/machado-de-assis/' },
+        { text: 'Visão geral', link: '/literatura/raul-pompeia/' },
         { text: 'O Ateneu', link: '/literatura/raul-pompeia/o-ateneu' },
         // depois: livros específicos
       ]
@@ -407,9 +407,18 @@ const config: UserConfigExport<ThemeConfig> = (() => {
     } else if (rel.startsWith('podcast/english')) {
       lang = 'en'
     }
-    if (lang && lang !== 'pt-BR') {
-      return code.replace('<html lang="pt-BR"', `<html lang="${lang}"`)
+    if (!lang || lang === 'pt-BR') return
+    let out = code.replace('<html lang="pt-BR"', `<html lang="${lang}"`)
+    const ogLocale = ({ fr: 'fr_FR', es: 'es_ES', en: 'en_US' } as Record<string, string>)[
+      lang.slice(0, 2)
+    ]
+    if (ogLocale && !out.includes('property="og:locale"')) {
+      out = out.replace(
+        '</head>',
+        `<meta property="og:locale" content="${ogLocale}">\n</head>`
+      )
     }
+    return out
   },
 
   markdown: {

@@ -1,4 +1,5 @@
 ---
+language: fr
 title: "La conscience de soi — Louis Lavelle"
 description: "Texte intégral en français de La conscience de soi de Louis Lavelle."
 outline: 2

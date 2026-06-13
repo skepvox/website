@@ -1,4 +1,5 @@
 ---
+language: fr
 title: "De l'être — Louis Lavelle"
 description: "Texte intégral en français de De l'être de Louis Lavelle, premier volume de La Dialectique de l'éternel présent."
 outline: 2

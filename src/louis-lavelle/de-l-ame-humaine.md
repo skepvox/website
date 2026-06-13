@@ -1,4 +1,5 @@
 ---
+language: fr
 title: "De l'âme humaine — Louis Lavelle"
 description: "Texte intégral en français de De l'âme humaine de Louis Lavelle, quatrième volume de La Dialectique de l'éternel présent."
 outline: 2
