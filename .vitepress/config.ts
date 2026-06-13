@@ -7,7 +7,6 @@ import type { Config as ThemeConfig } from '@vue/theme'
 import llmstxt from 'vitepress-plugin-llms'
 import baseConfig from '@vue/theme/config'
 import { headerPlugin } from './headerMdPlugin'
-// import { textAdPlugin } from './textAdMdPlugin'
 import {
   groupIconMdPlugin,
   groupIconVitePlugin
@@ -176,7 +175,16 @@ const i18n: ThemeConfig['i18n'] = {
   toc: 'Índice',   // "On this page"
   returnToTop: 'Retornar ao início', // "Return to top"
   appearance: 'Modo de leitura',
-  search: 'Buscar'
+  search: 'Buscar',
+  previous: 'Anterior',
+  next: 'Próximo',
+  pageNotFound: 'Página não encontrada',
+  ariaSkipToContent: 'Pular para o conteúdo',
+  ariaDarkMode: 'Alternar modo escuro',
+  ariaToC: 'Índice da página',
+  ariaMainNav: 'Navegação principal',
+  ariaMobileNav: 'Navegação móvel',
+  ariaSidebarNav: 'Navegação lateral'
 }
 
 const SITE_ORIGIN = 'https://www.skepvox.com'
@@ -295,18 +303,18 @@ const config: UserConfigExport<ThemeConfig> = (() => {
       'meta',
       {
         property: 'og:image',
-        content: `${SITE_ORIGIN}/og-skepvox-square.png`
+        content: `${SITE_ORIGIN}/og-skepvox.png`
       }
     ],
     [
       'meta',
       {
         name: 'twitter:image',
-        content: `${SITE_ORIGIN}/og-skepvox-square.png`
+        content: `${SITE_ORIGIN}/og-skepvox.png`
       }
     ],
     ['meta', { name: 'twitter:site', content: '@skepvox' }],
-    ['meta', { name: 'twitter:card', content: 'summary' }],
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     [
       'script',
       {
@@ -408,21 +416,11 @@ gtag('config', 'G-1VWHF2D1QJ');`
       }
     },
 
-    // carbonAds: {
-    //   code: 'CEBDT27Y',
-    //   placement: 'vuejsorg'
-    // },
-
     socialLinks: [
       { icon: 'github', link: 'https://github.com/skepvox/' },
       { icon: 'twitter', link: 'https://x.com/skepvox' },
       { icon: 'facebook', link: 'https://instagram.com/skepvox' }
     ],
-
-    // editLink: {
-    //   repo: 'vuejs/docs',
-    //   text: 'Edit this page on GitHub'
-    // },
 
     footer: {
       // license: {
@@ -479,7 +477,6 @@ gtag('config', 'G-1VWHF2D1QJ');`
     theme: 'github-dark',
     config(md) {
       md.use(headerPlugin).use(groupIconMdPlugin)
-      // .use(textAdPlugin)
     }
   },
 
@@ -508,20 +505,7 @@ gtag('config', 'G-1VWHF2D1QJ');`
     },
     plugins: [
       llmstxt({
-        ignoreFiles: [
-          'about/team/**/*',
-          'about/team.md',
-          'about/privacy.md',
-          'about/coc.md',
-          'developers/**/*',
-          'ecosystem/themes.md',
-          'examples/**/*',
-          'partners/**/*',
-          'sponsor/**/*',
-          'latim/**/*',
-          'blog/**/*',
-          'index.md'
-        ],
+        ignoreFiles: ['index.md', 'privacidade.md'],
         customLLMsTxtTemplate: `\
 # skepvox
 

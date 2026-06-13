@@ -1,14 +1,6 @@
-<script setup lang="ts">
-import SiteMap from './SiteMap.vue'
-// import NewsLetter from './NewsLetter.vue'
-// import { data, base } from './sponsors'
-// import SponsorsGroup from './SponsorsGroup.vue'
-</script>
-
 <template>
   <section id="hero">
     <h1 class="tagline">
-      
       <span class="accent">skepvox</span>
       <br />Engenharia de Letras
     </h1>
@@ -16,42 +8,11 @@ import SiteMap from './SiteMap.vue'
       Louis Lavelle e literatura clássica.
     </p>
     <p class="actions">
-      <a class="get-started" href="/louis-lavelle/">
-        Louis Lavelle
-      </a>
+      <a class="get-started" href="/louis-lavelle/">Louis Lavelle</a>
       <a class="setup" href="/literatura/">Literatura</a>
+      <a class="setup" href="/podcast/">Podcasts</a>
     </p>
   </section>
-
-  <!-- <section v-if="data && data.special" id="special-spsr">
-    <span class="lead">Special Sponsor</span>
-    <template v-for="{ url, img, name, description } of data.special">
-      <a :href="url" target="_blank" rel="sponsored noopener">
-        <picture v-if="img.endsWith('png')">
-          <source
-            type="image/avif"
-            :srcset="`${base}/images/${img.replace(/\.png$/, '.avif')}`"
-          />
-          <img :src="`${base}/images/${img}`" :alt="name" />
-        </picture>
-        <img
-          width="168"
-          height="42"
-          v-else
-          :src="`${base}/images/${img}`"
-          :alt="name"
-        />
-      </a>
-      <span>{{ description }}</span>
-    </template>
-  </section>
-  <section v-else id="special-spsr">
-    <span>
-      <a href="/sponsor/#tier-benefits">
-        Special Sponsor slot is now vacant - Inquire now
-      </a>
-    </span>
-  </section> -->
 
   <section id="highlights" class="vt-box-container">
     <div class="vt-box">
@@ -69,16 +30,6 @@ import SiteMap from './SiteMap.vue'
       </p>
     </div>
   </section>
-
-  <!-- <section id="spsrs">
-    <h2>Platinum Sponsors</h2>
-    <SponsorsGroup tier="platinum" placement="landing" />
-    <h2>Gold Sponsors</h2>
-    <SponsorsGroup tier="gold" placement="landing" />
-  </section> -->
-
-  <SiteMap />
-  <!-- <NewsLetter /> -->
 </template>
 
 <style scoped>
@@ -98,35 +49,12 @@ section {
   letter-spacing: -1.5px;
   max-width: 960px;
   margin: 0px auto;
+  color: var(--vt-c-text-1);
 }
 
-/* html:not(.dark) .accent,
-.dark .tagline {
-  background: -webkit-linear-gradient(315deg, #42d392 25%, #647eff);
-  background-clip: text;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-} */
-
-.tagline {
-  font-size: 76px;
-  line-height: 1.25;
-  font-weight: 900;
-  letter-spacing: -1.5px;
-  max-width: 960px;
-  margin: 0px auto;
-  background: -webkit-linear-gradient(315deg, #42d392 25%, #647eff);
-  background-clip: text;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+.accent {
+  color: var(--vt-c-brand, #3c8772);
 }
-
-/* .accent {
-  background: -webkit-linear-gradient(315deg, #42d392 25%, #647eff);
-  background-clip: text;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-} */
 
 .description {
   max-width: 960px;
@@ -145,33 +73,12 @@ section {
   font-weight: 500;
   border-radius: 8px;
   transition: background-color 0.5s, color 0.5s;
+  color: var(--vt-c-text-code);
 }
 
 .actions .get-started,
 .actions .setup {
   margin-right: 18px;
-}
-
-.actions .icon {
-  display: inline;
-  position: relative;
-  top: -1px;
-  margin-left: 2px;
-  fill: currentColor;
-  transition: transform 0.2s;
-}
-
-.actions .get-started:hover {
-  transition-duration: 0.2s;
-}
-
-.actions .get-started:hover .icon {
-  transform: translateX(2px);
-}
-
-.actions .get-started,
-.actions .setup {
-  color: var(--vt-c-text-code);
 }
 
 .actions .get-started:hover,
@@ -183,41 +90,6 @@ section {
 .dark .actions .get-started:hover,
 .dark .actions .setup:hover {
   background-color: var(--vt-c-gray-dark-3);
-}
-
-#special-spsr {
-  border-top: 1px solid var(--vt-c-divider-light);
-  border-bottom: 1px solid var(--vt-c-divider-light);
-  padding: 12px 24px;
-  display: flex;
-  align-items: center;
-}
-
-#special-spsr span {
-  color: var(--vt-c-text-2);
-  font-weight: 500;
-  font-size: 13px;
-  vertical-align: middle;
-  flex: 1;
-}
-
-#special-spsr span:first-child {
-  text-align: right;
-}
-
-#special-spsr a {
-  display: flex;
-  justify-content: center;
-  padding: 0 24px;
-}
-
-#special-spsr img {
-  height: 42px;
-  margin: -6px 0;
-}
-
-.dark #special-spsr img {
-  filter: grayscale(1) invert(1);
 }
 
 #highlights {
@@ -243,22 +115,6 @@ section {
 #highlights .vt-box {
   background-color: transparent;
 }
-
-#spsrs {
-  max-width: 900px;
-  margin: 0px auto;
-}
-
-#spsrs h2 {
-  font-size: 20px;
-  font-weight: 600;
-  margin-bottom: 1em;
-}
-
-#spsrs .spsr-container,
-#spsrs .author-container {
-    margin-bottom: 3em;
-  }
 
 @media (max-width: 960px) {
   .tagline {
@@ -286,19 +142,6 @@ section {
     font-size: 16px;
     margin: 18px 0 30px;
   }
-  #special-spsr {
-    flex-direction: column;
-  }
-  #special-spsr img {
-    height: 36px;
-    margin: 8px 0;
-  }
-  #special-spsr span {
-    text-align: center !important;
-  }
-  #highlights h3 {
-    margin-bottom: 0.6em;
-  }
   #highlights .vt-box {
     padding: 20px 36px;
   }
@@ -312,5 +155,4 @@ section {
     font-size: 36px;
   }
 }
-
 </style>
