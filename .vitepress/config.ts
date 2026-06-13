@@ -32,10 +32,6 @@ const nav: ThemeConfig['nav'] = [
     activeMatch: '^/podcast/',
     link: '/podcast/'
   },
-  {
-    text: 'Privacidade',
-    link: '/privacidade'
-  },
 ]
 
 export const sidebar: ThemeConfig['sidebar'] = {
@@ -346,10 +342,10 @@ gtag('config', 'G-1VWHF2D1QJ');`
       'style',
       {},
       `#skepvox-consent{position:fixed;left:0;right:0;bottom:0;z-index:60;display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between;padding:12px 16px;background:var(--vt-c-bg-soft,#f6f6f7);border-top:1px solid var(--vt-c-divider,#e2e2e3);color:var(--vt-c-text-1,#213547);font-size:14px;line-height:1.45}
-#skepvox-consent a{color:var(--vt-c-brand,#3c8772);text-decoration:underline}
 #skepvox-consent .sc-actions{display:flex;gap:8px;flex-shrink:0}
 #skepvox-consent button{padding:6px 14px;border-radius:6px;border:1px solid var(--vt-c-divider,#ccc);background:transparent;color:inherit;cursor:pointer;font-size:13px}
-#skepvox-consent button:hover{border-color:var(--vt-c-brand,#3c8772)}`
+#skepvox-consent button:hover{border-color:var(--vt-c-brand,#3c8772)}
+@media (max-width:640px){#skepvox-consent{justify-content:center;text-align:center}#skepvox-consent .sc-msg{flex-basis:100%}#skepvox-consent .sc-actions{flex-basis:100%;justify-content:center}}`
     ],
     [
       'script',
@@ -362,7 +358,7 @@ gtag('config', 'G-1VWHF2D1QJ');`
     bar.id = 'skepvox-consent';
     bar.setAttribute('role', 'dialog');
     bar.setAttribute('aria-label', 'Aviso de privacidade');
-    bar.innerHTML = '<div class="sc-msg">Usamos cookies de análise (Google Analytics) para entender o uso do site. <a href="/privacidade">Saiba mais</a>.</div><div class="sc-actions"><button type="button" class="sc-reject">Recusar</button><button type="button" class="sc-accept">Aceitar</button></div>';
+    bar.innerHTML = '<div class="sc-msg">Usamos cookies de análise (Google Analytics) para entender o uso do site.</div><div class="sc-actions"><button type="button" class="sc-reject">Recusar</button><button type="button" class="sc-accept">Aceitar</button></div>';
     document.body.appendChild(bar);
     function choose(v){
       try { localStorage.setItem('skepvox-consent', v); } catch (e) {}
@@ -505,7 +501,7 @@ gtag('config', 'G-1VWHF2D1QJ');`
     },
     plugins: [
       llmstxt({
-        ignoreFiles: ['index.md', 'privacidade.md'],
+        ignoreFiles: ['index.md'],
         customLLMsTxtTemplate: `\
 # skepvox
 
