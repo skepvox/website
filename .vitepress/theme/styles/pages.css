@@ -158,7 +158,8 @@
   overflow: hidden !important;
 }
 
-.vt-doc .lavelle-portrait {
+.vt-doc .lavelle-portrait,
+.vt-doc .author-portrait {
   width: 100%;
   border-radius: 10px;
   margin: 12px 0 24px;
@@ -167,7 +168,8 @@
   box-shadow: 0 12px 30px rgba(0, 0, 0, 0.08);
 }
 
-.dark .vt-doc .lavelle-portrait {
+.dark .vt-doc .lavelle-portrait,
+.dark .vt-doc .author-portrait {
   border-color: var(--vt-c-divider-light);
   box-shadow: 0 12px 30px rgba(0, 0, 0, 0.28);
   filter: grayscale(1);

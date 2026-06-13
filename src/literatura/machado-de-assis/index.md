@@ -149,6 +149,12 @@ head:
 
 # Machado de Assis
 
+<img
+  src="/images/authors/machado-de-assis.webp"
+  alt="Retrato de Machado de Assis"
+  class="author-portrait"
+/>
+
 Joaquim Maria Machado de Assis (1839–1908) é amplamente considerado o maior nome da literatura brasileira. Sua obra abrange praticamente todos os gêneros literários, sendo fundamental tanto para o Romantismo (em sua fase inicial) quanto para a consolidação do Realismo no Brasil.
 
 Abaixo, uma bibliografia abrangente de suas obras, organizada por gênero e ordem cronológica de publicação.

@@ -112,6 +112,12 @@ head:
 
 # Graciliano Ramos
 
+<img
+  src="/images/authors/graciliano-ramos.webp"
+  alt="Retrato de Graciliano Ramos"
+  class="author-portrait"
+/>
+
 Graciliano Ramos (1892–1953) foi um romancista, cronista, contista, jornalista e memorialista brasileiro, considerado um dos maiores nomes da nossa literatura. Sua obra, marcada por um rigoroso estilo seco e direto, aborda com profundidade a realidade social do Nordeste e a psicologia humana.
 
 Abaixo, uma bibliografia completa de suas obras, organizadas por gênero e ordem cronológica de publicação.
