@@ -407,9 +407,9 @@ gtag('config', 'G-1VWHF2D1QJ');`
             backButtonTitle: 'Fechar busca',
             displayDetails: 'Exibir detalhes',
             footer: {
-              selectText: 'selecionar',
-              navigateText: 'navegar',
-              closeText: 'fechar'
+              selectText: 'Selecionar',
+              navigateText: 'Navegar',
+              closeText: 'Fechar'
             }
           }
         }

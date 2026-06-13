@@ -5,6 +5,7 @@ import './styles/index.css'
 import NavBarTitleBrand from './components/NavBarTitleBrand.vue'
 
 import 'vitepress/dist/client/theme-default/styles/components/vp-code-group.css'
+import 'vitepress/dist/client/theme-default/styles/icons.css'
 import 'virtual:group-icons.css'
 
 export default Object.assign({}, VPTheme, {
