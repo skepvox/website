@@ -39,7 +39,10 @@
     "yaml": "^2.8.2"
   },
   "pnpm": {
-    "autoInstallPeers": false
+    "autoInstallPeers": false,
+    "patchedDependencies": {
+      "@vue/theme@2.3.0": "patches/@vue__theme@2.3.0.patch"
+    }
   },
   "packageManager": "pnpm@10.13.1"
 }

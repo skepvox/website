@@ -4,6 +4,11 @@ settings:
   autoInstallPeers: false
   excludeLinksFromLockfile: false
 
+patchedDependencies:
+  '@vue/theme@2.3.0':
+    hash: da015a091c7d68243eb67608bfcbe34b336a7511540b68a5755ea1b707bb723a
+    path: patches/@vue__theme@2.3.0.patch
+
 importers:
 
   .:
@@ -28,7 +33,7 @@ importers:
         version: 4.1.0
       '@vue/theme':
         specifier: ^2.3.0
-        version: 2.3.0(@algolia/client-search@5.35.0)(search-insights@2.17.3)(vitepress@1.6.4(@algolia/client-search@5.35.0)(@types/node@22.7.5)(postcss@8.5.6)(search-insights@2.17.3)(typescript@5.6.3))(vue@3.5.24(typescript@5.6.3))
+        version: 2.3.0(patch_hash=da015a091c7d68243eb67608bfcbe34b336a7511540b68a5755ea1b707bb723a)(@algolia/client-search@5.35.0)(search-insights@2.17.3)(vitepress@1.6.4(@algolia/client-search@5.35.0)(@types/node@22.7.5)(postcss@8.5.6)(search-insights@2.17.3)(typescript@5.6.3))(vue@3.5.24(typescript@5.6.3))
       katex:
         specifier: ^0.16.27
         version: 0.16.27
@@ -1977,7 +1982,7 @@ snapshots:
 
   '@vue/shared@3.5.24': {}
 
-  '@vue/theme@2.3.0(@algolia/client-search@5.35.0)(search-insights@2.17.3)(vitepress@1.6.4(@algolia/client-search@5.35.0)(@types/node@22.7.5)(postcss@8.5.6)(search-insights@2.17.3)(typescript@5.6.3))(vue@3.5.24(typescript@5.6.3))':
+  '@vue/theme@2.3.0(patch_hash=da015a091c7d68243eb67608bfcbe34b336a7511540b68a5755ea1b707bb723a)(@algolia/client-search@5.35.0)(search-insights@2.17.3)(vitepress@1.6.4(@algolia/client-search@5.35.0)(@types/node@22.7.5)(postcss@8.5.6)(search-insights@2.17.3)(typescript@5.6.3))(vue@3.5.24(typescript@5.6.3))':
     dependencies:
       '@docsearch/css': 3.6.2
       '@docsearch/js': 3.6.2(@algolia/client-search@5.35.0)(search-insights@2.17.3)

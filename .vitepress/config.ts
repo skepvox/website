@@ -264,7 +264,7 @@ const config: UserConfigExport<ThemeConfig> = (async () => {
 
   return defineConfigWithTheme<ThemeConfig>({
   extends: baseConfig,
-  cleanUrls: false,
+  cleanUrls: true,
 
   sitemap: {
     hostname: SITE_ORIGIN,
