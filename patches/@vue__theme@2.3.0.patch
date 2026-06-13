@@ -1,3 +1,89 @@
+diff --git a/src/vitepress/components/VPNavBarSearch.vue b/src/vitepress/components/VPNavBarSearch.vue
+index c27721def8b77ec63c872015fb237ef303dfec36..17ebb87fe89cf17aec07242ed9f60becff6c8801 100644
+--- a/src/vitepress/components/VPNavBarSearch.vue
++++ b/src/vitepress/components/VPNavBarSearch.vue
+@@ -1,23 +1,37 @@
+ <script lang="ts" setup>
+ import '@docsearch/css'
+-import { ref, defineAsyncComponent, onMounted, onUnmounted } from 'vue'
++import { ref, computed, defineAsyncComponent, onMounted, onUnmounted } from 'vue'
+ import { useConfig } from '../composables/config'
+ 
+ const { config } = useConfig()
+ 
++const provider = computed<'local' | 'algolia' | ''>(() =>
++  (config.value as any).search?.provider === 'local'
++    ? 'local'
++    : config.value.algolia
++      ? 'algolia'
++      : ''
++)
++
++const VPLocalSearchBox = defineAsyncComponent(
++  () =>
++    import(
++      'vitepress/dist/client/theme-default/components/VPLocalSearchBox.vue'
++    )
++)
+ const VPAlgoliaSearchBox = defineAsyncComponent(
+   () => import('./VPAlgoliaSearchBox.vue')
+ )
+ 
+-// to avoid loading the docsearch js upfront (which is more than 1/3 of the
+-// payload), we delay initializing it until the user has actually clicked or
+-// hit the hotkey to invoke it
++// to avoid loading search js upfront, we delay initializing it until the
++// user has actually clicked or hit the hotkey to invoke it
++const showSearch = ref(false)
+ const started = ref(false)
+ const loaded = ref(false)
+ const metaKey = ref('Meta')
+ 
+ onMounted(() => {
+-  if (!config.value.algolia) return
++  if (!provider.value) return
+ 
+   // meta key detect (same logic as in @docsearch/js)
+   metaKey.value = /(Mac|iPhone|iPod|iPad)/i.test(navigator.platform)
+@@ -27,7 +41,7 @@ onMounted(() => {
+     if (e.key === 'k' && (e.ctrlKey || e.metaKey)) {
+       e.preventDefault()
+       load()
+-      remove()
++      if (provider.value === 'algolia') remove()
+     }
+   }
+   const remove = () => {
+@@ -38,16 +52,25 @@ onMounted(() => {
+ })
+ 
+ function load() {
+-  if (!started.value) {
++  if (provider.value === 'local') {
++    showSearch.value = true
++  } else if (!started.value) {
+     started.value = true
+   }
+ }
+ </script>
+ 
+ <template>
+-  <div v-if="config.algolia" class="VPNavBarSearch">
+-    <VPAlgoliaSearchBox v-if="started" @vue:mounted="loaded = true" />
+-    <div v-if="!loaded" id="docsearch" @click="load">
++  <div v-if="provider" class="VPNavBarSearch">
++    <VPLocalSearchBox
++      v-if="provider === 'local' && showSearch"
++      @close="showSearch = false"
++    />
++    <VPAlgoliaSearchBox
++      v-else-if="provider === 'algolia' && started"
++      @vue:mounted="loaded = true"
++    />
++    <div v-if="provider === 'local' || !loaded" id="docsearch" @click="load">
+       <button
+         type="button"
+         class="DocSearch DocSearch-Button"
 diff --git a/src/vitepress/support/utils.ts b/src/vitepress/support/utils.ts
 index b991a0e1c9008c6b3a92de37e2eb11d630e1dd13..55ae29c3847886ca591cf0cf89d6e67b99057483 100644
 --- a/src/vitepress/support/utils.ts

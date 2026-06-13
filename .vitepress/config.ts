@@ -171,7 +171,8 @@ const i18n: ThemeConfig['i18n'] = {
   menu: 'Navegar',          // label in the mobile nav
   toc: 'Índice',   // "On this page"
   returnToTop: 'Retornar ao início', // "Return to top"
-  appearance: 'Modo de leitura'
+  appearance: 'Modo de leitura',
+  search: 'Buscar'
 }
 
 const SITE_ORIGIN = 'https://www.skepvox.com'
@@ -330,14 +331,28 @@ const config: UserConfigExport<ThemeConfig> = (() => {
     sidebar,
     i18n,
 
-    // algolia: {
-    //   indexName: 'vuejs',
-    //   appId: 'ML0LEBN7FQ',
-    //   apiKey: '21cf9df0734770a2448a9da64a700c22',
-    //   searchParameters: {
-    //     facetFilters: ['version:v3']
-    //   }
-    // },
+    search: {
+      provider: 'local',
+      options: {
+        translations: {
+          button: {
+            buttonText: 'Buscar',
+            buttonAriaLabel: 'Buscar'
+          },
+          modal: {
+            noResultsText: 'Nenhum resultado para',
+            resetButtonTitle: 'Limpar busca',
+            backButtonTitle: 'Fechar busca',
+            displayDetails: 'Exibir detalhes',
+            footer: {
+              selectText: 'selecionar',
+              navigateText: 'navegar',
+              closeText: 'fechar'
+            }
+          }
+        }
+      }
+    },
 
     // carbonAds: {
     //   code: 'CEBDT27Y',
