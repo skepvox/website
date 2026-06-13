@@ -1,0 +1,19 @@
+/*
+ * VPLocalSearchBox ships with VitePress's default theme and is styled with
+ * `--vp-*` design tokens. This site uses @vue/theme, which only defines
+ * `--vt-*` tokens, so the search modal rendered without a visible container.
+ * Map the variables the search box needs onto @vue/theme's tokens. Using
+ * var() indirection means these automatically follow .dark mode.
+ */
+:root {
+  --vp-c-brand-1: var(--vt-c-brand);
+  --vp-c-divider: var(--vt-c-divider);
+  --vp-backdrop-bg-color: rgba(0, 0, 0, 0.6);
+  --vp-local-search-bg: var(--vt-c-bg);
+  --vp-local-search-result-bg: var(--vt-c-bg);
+  --vp-local-search-result-border: var(--vt-c-divider);
+  --vp-local-search-result-selected-bg: var(--vt-c-bg-soft);
+  --vp-local-search-result-selected-border: var(--vt-c-brand);
+  --vp-local-search-highlight-bg: var(--vt-c-brand);
+  --vp-local-search-highlight-text: #ffffff;
+}
