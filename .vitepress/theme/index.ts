@@ -1,5 +1,4 @@
 import './ssr-shim'
-import 'katex/dist/katex.min.css'
 import { h, App } from 'vue'
 import { VPTheme } from '@vue/theme'
 import './styles/index.css'
@@ -11,10 +10,6 @@ import NavBarTitleBrand from './components/NavBarTitleBrand.vue'
 
 import 'vitepress/dist/client/theme-default/styles/components/vp-code-group.css'
 import 'virtual:group-icons.css'
-
-if (typeof window !== 'undefined') {
-  import('katex/dist/contrib/copy-tex.js')
-}
 
 export default Object.assign({}, VPTheme, {
   Layout: () => {

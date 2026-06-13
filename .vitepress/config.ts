@@ -1,6 +1,5 @@
 import {
   defineConfigWithTheme,
-  type HeadConfig,
   type Plugin,
   type UserConfigExport
 } from 'vitepress'
@@ -13,11 +12,6 @@ import {
   groupIconMdPlugin,
   groupIconVitePlugin
 } from 'vitepress-plugin-group-icons'
-import {
-  createMathJaxMdPlugin,
-  getMathJaxStyles,
-  initMathJax
-} from './mathjaxMdPlugin'
 
 const nav: ThemeConfig['nav'] = [
   {
@@ -257,11 +251,7 @@ function normalizeHeadUrls(head: unknown): unknown {
   })
 }
 
-const config: UserConfigExport<ThemeConfig> = (async () => {
-  const mathjax = await initMathJax()
-  const mathjaxMdPlugin = createMathJaxMdPlugin(mathjax)
-  const mathjaxStyles = await getMathJaxStyles(mathjax)
-
+const config: UserConfigExport<ThemeConfig> = (() => {
   return defineConfigWithTheme<ThemeConfig>({
   extends: baseConfig,
   cleanUrls: true,
@@ -284,9 +274,6 @@ const config: UserConfigExport<ThemeConfig> = (async () => {
   srcDir: 'src',
 
   head: [
-    ...(mathjaxStyles.css
-      ? [['style', { id: mathjaxStyles.id }, mathjaxStyles.css] as HeadConfig]
-      : []),
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }],
     ['meta', { name: 'theme-color', content: '#3c8772' }],
     ['meta', { property: 'og:url', content: `${SITE_ORIGIN}/` }],
@@ -392,20 +379,29 @@ const config: UserConfigExport<ThemeConfig> = (async () => {
     }
   },
 
-  markdown: {
-    theme: 'github-dark',
-    config(md) {
-      md.use(mathjaxMdPlugin)
-      md.use(headerPlugin).use(groupIconMdPlugin)
-      // .use(textAdPlugin)
+  transformHtml(code, _id, ctx) {
+    const fm = (ctx.pageData?.frontmatter ?? {}) as Record<string, unknown>
+    const rel = ctx.pageData?.relativePath ?? ''
+    let lang: string | undefined
+    if (typeof fm.language === 'string' && fm.language.trim()) {
+      lang = fm.language.trim()
+    } else if (rel.startsWith('podcast/francais')) {
+      lang = 'fr'
+    } else if (rel.startsWith('podcast/espanol')) {
+      lang = 'es'
+    } else if (rel.startsWith('podcast/english')) {
+      lang = 'en'
+    }
+    if (lang && lang !== 'pt-BR') {
+      return code.replace('<html lang="pt-BR"', `<html lang="${lang}"`)
     }
   },
 
-  vue: {
-    template: {
-      compilerOptions: {
-        isCustomElement: (tag) => tag.startsWith('mjx-')
-      }
+  markdown: {
+    theme: 'github-dark',
+    config(md) {
+      md.use(headerPlugin).use(groupIconMdPlugin)
+      // .use(textAdPlugin)
     }
   },
 
