@@ -138,6 +138,47 @@ SHOWS: tuple[ShowConfig, ...] = (
         artwork_url=shared_show_value("espanol", "artwork_url"),
         artwork_alt="Portada de Vox Español",
     ),
+    ShowConfig(
+        key="english",
+        source_repo=shared_show_value("english", "repo"),
+        target_subdir="src/podcast/english",
+        page_title_prefix=shared_show_value("english", "show_title"),
+        title_separator=" - ",
+        episode_label="Episode",
+        main_point_label="Main point",
+        permalink_label="Permanent link",
+        transcript_label=shared_show_value("english", "transcript_heading"),
+        guide_label="Learning Guide",
+        intro_template=(
+            "This page accompanies episode {episode_number:03d} of Vox English, "
+            "a skepvox series by Thiago Oliveira for practical English learning. "
+            "It brings together the complete transcript, the dialogue and the "
+            "learning guide."
+        ),
+        transcript_intro=(
+            "Use the sections below to go directly to the transcript, the slow "
+            "version, the explanation and the natural-speed repetition."
+        ),
+        guide_intro=(
+            "The sections below collect the vocabulary, usage notes and "
+            "practical context."
+        ),
+        guide_heading="Learning Guide",
+        script_heading="Full Script",
+        canonical_base=shared_show_value("english", "show_page_url").rstrip("/"),
+        site_part_of_id=f"{shared_show_value('english', 'show_page_url')}#webpage",
+        fallback_description_template=(
+            "Lesson guide and transcript for Vox English episode "
+            "{episode_number:03d}: {episode_title}. {main_grammar_point}"
+        ),
+        fallback_keywords_template=(
+            "Vox English, skepvox, {episode_title}, English learning, "
+            "English conversation, transcript, dialogue, lesson guide"
+        ),
+        og_locale="en_US",
+        artwork_url=shared_show_value("english", "artwork_url"),
+        artwork_alt="Vox English cover art",
+    ),
 )
 
 

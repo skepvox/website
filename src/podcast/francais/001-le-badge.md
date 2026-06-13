@@ -149,7 +149,7 @@ Claire n'arrive pas pour participer à un spectacle. Elle arrive comme bénévol
 
 Dès la première phrase, Claire se présente : "je suis Claire Martin". Puis elle ajoute : "je suis bénévole pour le forum des associations." Ces phrases sont très simples, mais très utiles. Elles donnent son nom et son rôle. Dans une situation réelle, c'est souvent la première chose à dire : qui vous êtes, et pourquoi vous êtes là.
 
-Mathieu répond : "Vous êtes Claire Martin, donc vous êtes au spectacle de magie." Le mot donc montre qu'il tire une conclusion. Pour lui, le nom Claire Martin correspond à une autre personne. Il ne voit pas encore Claire comme bénévole à l'accueil ; il la met dans le spectacle. Ici, vous est aussi important que êtes. Mathieu parle à une seule personne, mais il utilise vous parce qu'ils ne se connaissent pas et qu'ils sont dans un lieu public. On entend normalement la liaison dans vous êtes : le s de vous se prononce comme un petit z devant êtes.
+Mathieu répond : "Vous êtes Claire Martin, donc vous êtes au spectacle de magie." Le mot donc montre qu'il tire une conclusion. Pour lui, le nom Claire Martin correspond à une autre personne. Il ne voit pas encore Claire comme bénévole à l'accueil ; il la met dans le spectacle. Ici, la forme « vous êtes » est importante. Mathieu parle à une seule personne, mais il utilise vous : la situation est publique, et les deux personnes ne se connaissent pas personnellement. On entend normalement la liaison dans « vous êtes » : le s de « vous » se prononce comme un petit z au début de cette forme.
 
 Mathieu ajoute : "Les artistes sont dans la salle jaune." Une salle jaune, dans ce contexte, c'est probablement une salle indiquée par une couleur sur un plan. Les artistes, ce sont les personnes du spectacle. Mathieu parle comme si tout était déjà décidé : Claire doit aller avec eux. Mais pour Claire, l'information est fausse.
 
@@ -193,7 +193,7 @@ Faire disparaître revient aussi dans la dernière phrase. Au début, Claire dis
 
 Cette dernière phrase fonctionne parce qu'elle ne dit pas directement que la situation est drôle. Elle transforme simplement le problème en numéro de magie. Mathieu voulait quelqu'un sous une cape ; Claire lui montre que son vrai tour a déjà commencé. Dans cette scène, le badge ne clarifie pas l'identité. Il déplace les rôles, puis il révèle le vrai problème.
 
-Gardez aussi une petite note de registre. Claire et Mathieu se vouvoient parce qu'ils sont dans un lieu public et ne se connaissent pas. Le vouvoiement garde une distance polie, même quand Claire devient ironique. Elle décrit l'absurde avec précision, et ce ton très sérieux donne au dialogue son humour sec.
+Gardez aussi une petite note de registre. Claire et Mathieu se vouvoient parce qu'ils sont dans un lieu public et ne se connaissent pas personnellement. Ce vouvoiement garde une distance polie, même quand Claire devient ironique. Elle décrit l'absurde avec précision, et ce ton très sérieux donne au dialogue son humour sec.
 
 Avant de réécouter, retenez quelques expressions utiles : je suis bénévole, je suis à l'accueil, vous êtes laquelle, il est écrit sur le badge, je ne suis pas vraiment à l'accueil. Elles servent à dire une identité, un rôle, une information écrite ou une correction, mais aussi à faire avancer une catastrophe municipale. Maintenant, écoutons le dialogue, cette fois à vitesse naturelle.
 

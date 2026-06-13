@@ -105,17 +105,6 @@ Les pages de cette section réunissent les transcriptions, le vocabulaire et les
 
 **Amazon Music :** <https://music.amazon.com/podcasts/d7df025e-6ee3-48da-953f-198756fd1508/vox-français>
 
-**YouTube :** <https://www.youtube.com/playlist?list=PLpaLfQv0ILtdsZ42J_jE67suLr7BPvOa_>
-
 ## Leçons
 
 - [001 - Le badge](/podcast/francais/001-le-badge) — le verbe « être » au présent, l'identité, les rôles, les lieux et l'orientation dans une interaction quotidienne.
-- [002 - La valise verte](/podcast/francais/002-la-valise-verte) — décrire une valise, situer un service, clarifier une situation et rester poli au bureau des objets trouvés.
-- [003 - Le covoiturage poli](/podcast/francais/003-le-covoiturage-poli) — le verbe « être » au présent, l'identité, l'origine, les lieux et la différence entre « tu » et « vous ».
-- [004 - Le studio calme](/podcast/francais/004-le-studio-calme) — l'accord de l'adjectif au masculin, au féminin, au singulier et au pluriel dans une visite de logement.
-- [005 - Le colis invisible](/podcast/francais/005-le-colis-invisible) — la négation simple, les questions oui/non et les réponses courtes dans un point relais.
-- [006 - Le livre en retard](/podcast/francais/006-le-livre-en-retard) — la négation simple, les questions oui/non et les réponses oui, si, non, pas, moi aussi et moi non plus dans une médiathèque.
-- [007 - Le frigo honnête](/podcast/francais/007-le-frigo-honnete) — les articles pour nommer les aliments, les objets et les absences dans une cuisine de colocation avant un apéritif.
-- [008 - Le panier de la photo](/podcast/francais/008-le-panier-de-la-photo) — les articles indéfinis, définis et partitifs, ainsi que « pas de », dans une distribution locale très attentive à son image.
-- [009 - Le docteur du ficus](/podcast/francais/009-le-docteur-du-ficus) — l'alternance entre « c'est » pour présenter ou commenter et « il est » pour décrire un rôle, une spécialité ou un référent précis.
-- [010 - Le maire discret](/podcast/francais/010-le-maire-discret) — l'alternance entre « c'est » pour identifier ou commenter, « ce sont » pour présenter un groupe, et « il est », « elle est » ou « ils sont » pour décrire un statut ou un référent précis.

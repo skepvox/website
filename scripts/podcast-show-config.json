@@ -24,5 +24,18 @@
     "transcript_anchor": "transcripcion-completa",
     "rss_description_label": "Guía completa y transcripción:",
     "rss_page_tail": "En la página del episodio encontrará la guía de aprendizaje, la nota cultural, el diálogo lento, el diálogo a velocidad natural y la transcripción completa."
+  },
+  "english": {
+    "repo": "skepvox-podcast-english",
+    "show_title": "Vox English",
+    "language_tag": "en-US",
+    "website_subdir": "english",
+    "show_page_url": "https://skepvox.com/podcast/english/",
+    "rss_feed_url": "https://skepvox.com/podcast/english/feed.xml",
+    "artwork_url": "https://media.skepvox.com/podcast/english/artwork/show-cover-v3.jpg",
+    "transcript_heading": "Complete Transcript",
+    "transcript_anchor": "complete-transcript",
+    "rss_description_label": "Complete guide and transcript:",
+    "rss_page_tail": "On the episode page, you will find the learning guide, cultural and practical note, slow dialogue, natural-speed dialogue, and complete transcript."
   }
 }

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Vox English</title>
+    <link>https://skepvox.com/podcast/english/</link>
+    <atom:link href="https://skepvox.com/podcast/english/feed.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <copyright>Copyright 2026 Thiago Oliveira</copyright>
+    <description><![CDATA[Vox English is a skepvox series by Thiago Oliveira for practical English learners. Each episode starts with a short everyday scene, then returns to the vocabulary, expressions, tone and spoken rhythm that make the dialogue work.
+
+Show page: https://skepvox.com/podcast/english/]]></description>
+    <itunes:author>skepvox</itunes:author>
+    <itunes:owner>
+      <itunes:name>Thiago Oliveira</itunes:name>
+      <itunes:email>podcasts@skepvox.com</itunes:email>
+    </itunes:owner>
+    <itunes:summary><![CDATA[Vox English is a skepvox series by Thiago Oliveira for practical English learners. Each episode starts with a short everyday scene, then returns to the vocabulary, expressions, tone and spoken rhythm that make the dialogue work.
+
+Show page: https://skepvox.com/podcast/english/]]></itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://media.skepvox.com/podcast/english/artwork/show-cover-v3.jpg" />
+    <itunes:category text="Education">
+      <itunes:category text="Language Learning" />
+    </itunes:category>
+    <image>
+      <url>https://media.skepvox.com/podcast/english/artwork/show-cover-v3.jpg</url>
+      <title>Vox English</title>
+      <link>https://skepvox.com/podcast/english/</link>
+    </image>
+    <lastBuildDate>Sat, 13 Jun 2026 12:11:42 -0300</lastBuildDate>
+
+    <item>
+      <title>001 - The Two-Minute Phone Call</title>
+      <link>https://skepvox.com/podcast/english/001-the-two-minute-phone-call</link>
+      <guid isPermaLink="false">vox-english-001</guid>
+      <pubDate>Sun, 07 Jun 2026 09:00:00 -0300</pubDate>
+      <description><![CDATA[Complete guide and transcript:
+https://skepvox.com/podcast/english/001-the-two-minute-phone-call#complete-transcript
+
+In this Vox English story, a small neighbor request turns into a careful phone call about timing, help, and the pressure of being just outside someone's door.
+
+The lesson works on practical spoken English for steering a conversation: opening gently, delaying an answer, returning to the point, drawing an inference, and closing the call without sounding cold.
+
+The learning guide also explains useful words and expressions from the scene: step ladder, hallway light, doorbell, doorstep, adjacent, off-ramp, quick thing, right then, and other everyday phrases.
+
+On the episode page, you will find the learning guide, cultural and practical note, slow dialogue, natural-speed dialogue, and complete transcript.]]></description>
+      <content:encoded><![CDATA[<p>Complete guide and transcript:<br />
+<a href="https://skepvox.com/podcast/english/001-the-two-minute-phone-call#complete-transcript">https://skepvox.com/podcast/english/001-the-two-minute-phone-call#complete-transcript</a></p>
+
+<p>In this <strong>Vox English</strong> story, a small neighbor request turns into a careful phone call about timing, help, and the pressure of being just outside someone's door.</p>
+
+<p>The lesson works on practical spoken English for steering a conversation: opening gently, delaying an answer, returning to the point, drawing an inference, and closing the call without sounding cold.</p>
+
+<p>The learning guide also explains useful words and expressions from the scene: step ladder, hallway light, doorbell, doorstep, adjacent, off-ramp, quick thing, right then, and other everyday phrases.</p>
+
+<p>On the episode page, you will find the learning guide, cultural and practical note, slow dialogue, natural-speed dialogue, and complete transcript.</p>]]></content:encoded>
+      <enclosure url="https://media.skepvox.com/podcast/english/audio/english-001-the-two-minute-phone-call-v1.mp3" length="30580863" type="audio/mpeg" />
+      <itunes:duration>00:21:14</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://media.skepvox.com/podcast/english/artwork/show-cover-v3.jpg" />
+    </item>
+  </channel>
+</rss>

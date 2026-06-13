@@ -47,23 +47,14 @@ export const sidebar: ThemeConfig['sidebar'] = {
       text: 'Vox Français',
       items: [
         { text: 'Présentation', link: '/podcast/francais/' },
-        { text: '001 - Le badge', link: '/podcast/francais/001-le-badge' },
-        { text: '002 - La valise verte', link: '/podcast/francais/002-la-valise-verte' },
-        { text: '003 - Le covoiturage poli', link: '/podcast/francais/003-le-covoiturage-poli' },
-        { text: '004 - Le studio calme', link: '/podcast/francais/004-le-studio-calme' },
-        { text: '005 - Le colis invisible', link: '/podcast/francais/005-le-colis-invisible' },
-        { text: '006 - Le livre en retard', link: '/podcast/francais/006-le-livre-en-retard' },
-        { text: '007 - Le frigo honnête', link: '/podcast/francais/007-le-frigo-honnete' },
-        { text: '008 - Le panier de la photo', link: '/podcast/francais/008-le-panier-de-la-photo' },
-        { text: '009 - Le docteur du ficus', link: '/podcast/francais/009-le-docteur-du-ficus' },
-        { text: '010 - Le maire discret', link: '/podcast/francais/010-le-maire-discret' },
-        { text: '011 - La photo de survie', link: '/podcast/francais/011-la-photo-de-survie' }
+        { text: '001 - Le badge', link: '/podcast/francais/001-le-badge' }
       ]
     },
     {
       text: 'Autres podcasts',
       items: [
-        { text: 'Español', link: '/podcast/espanol/' }
+        { text: 'Español', link: '/podcast/espanol/' },
+        { text: 'English', link: '/podcast/english/' }
       ]
     }
   ],
@@ -73,19 +64,31 @@ export const sidebar: ThemeConfig['sidebar'] = {
       text: 'Vox Español - Podcast de español como lengua extranjera',
       items: [
         { text: 'Presentación', link: '/podcast/espanol/' },
-        { text: '001 - La boda es a las seis', link: '/podcast/espanol/001-la-boda-es-a-las-seis' },
-        { text: '002 - La sartén está ocupada', link: '/podcast/espanol/002-la-sarten-esta-ocupada' },
-        { text: '003 - El tren está parado', link: '/podcast/espanol/003-el-tren-esta-parado' },
-        { text: '004 - La pendiente correcta', link: '/podcast/espanol/004-la-pendiente-correcta' },
-        { text: '005 - El paquete del buzón', link: '/podcast/espanol/005-el-paquete-del-buzon' },
-        { text: '006 - El sobre del simulacro', link: '/podcast/espanol/006-el-sobre-del-simulacro' },
-        { text: '007 - El mapa real', link: '/podcast/espanol/007-el-mapa-real' }
+        { text: '001 - La boda es a las seis', link: '/podcast/espanol/001-la-boda-es-a-las-seis' }
       ]
     },
     {
       text: 'Otros podcasts',
       items: [
-        { text: 'Français', link: '/podcast/francais/' }
+        { text: 'Français', link: '/podcast/francais/' },
+        { text: 'English', link: '/podcast/english/' }
+      ]
+    }
+  ],
+
+  '/podcast/english/': [
+    {
+      text: 'Vox English',
+      items: [
+        { text: 'Overview', link: '/podcast/english/' },
+        { text: '001 - The Two-Minute Phone Call', link: '/podcast/english/001-the-two-minute-phone-call' }
+      ]
+    },
+    {
+      text: 'Other podcasts',
+      items: [
+        { text: 'Français', link: '/podcast/francais/' },
+        { text: 'Español', link: '/podcast/espanol/' }
       ]
     }
   ],
@@ -96,7 +99,8 @@ export const sidebar: ThemeConfig['sidebar'] = {
       items: [
         { text: 'Visão geral', link: '/podcast/' },
         { text: 'Français', link: '/podcast/francais/' },
-        { text: 'Español', link: '/podcast/espanol/' }
+        { text: 'Español', link: '/podcast/espanol/' },
+        { text: 'English', link: '/podcast/english/' }
       ]
     }
   ],
