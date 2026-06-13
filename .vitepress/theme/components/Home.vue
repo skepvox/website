@@ -145,8 +145,14 @@ section {
   #highlights .vt-box {
     padding: 20px 36px;
   }
+  .actions {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 14px;
+  }
   .actions a {
-    margin: 18px 0;
+    margin: 0;
   }
 }
 
