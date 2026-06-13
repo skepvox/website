@@ -1,6 +1,6 @@
 ---
 title: "O Alienista — IV — Nota do Autor"
-description: "Texto integral de O Alienista, de Machado de Assis. IV — Nota do Autor."
+description: "Leitura de O Alienista, de Machado de Assis. IV — Nota do Autor."
 sidebar: false
 aside: false
 footer: false
@@ -16,13 +16,13 @@ head:
       href: "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-004-nota-do-autor"
   - - meta
     - name: description
-      content: "Texto integral de O Alienista, de Machado de Assis. IV — Nota do Autor."
+      content: "Leitura de O Alienista, de Machado de Assis. IV — Nota do Autor."
   - - meta
     - property: og:title
       content: "O Alienista — IV — Nota do Autor"
   - - meta
     - property: og:description
-      content: "Texto integral de O Alienista, de Machado de Assis. IV — Nota do Autor."
+      content: "Leitura de O Alienista, de Machado de Assis. IV — Nota do Autor."
   - - meta
     - property: og:url
       content: "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-004-nota-do-autor"
@@ -43,7 +43,7 @@ head:
       content: "O Alienista — IV — Nota do Autor"
   - - meta
     - name: twitter:description
-      content: "Texto integral de O Alienista, de Machado de Assis. IV — Nota do Autor."
+      content: "Leitura de O Alienista, de Machado de Assis. IV — Nota do Autor."
   - - meta
     - name: twitter:image
       content: "https://skepvox.com/images/authors/machado-de-assis.webp"
@@ -76,7 +76,7 @@ head:
           "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.webp",
-        "description": "Texto integral de O Alienista, de Machado de Assis. IV — Nota do Autor.",
+        "description": "Leitura de O Alienista, de Machado de Assis. IV — Nota do Autor.",
         "additionalProperty": [
           {
             "@type": "PropertyValue",

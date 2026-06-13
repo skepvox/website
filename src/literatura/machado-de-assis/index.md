@@ -1,6 +1,6 @@
 ---
 title: "Literatura — Machado de Assis"
-description: "Bibliografia e textos integrais de Machado de Assis: Brás Cubas, Quincas Borba, Dom Casmurro, Esaú e Jacó, O Alienista e A Cartomante."
+description: "Bibliografia e obras de Machado de Assis: Brás Cubas, Quincas Borba, Dom Casmurro, Esaú e Jacó, O Alienista e A Cartomante."
 outline: 2
 head:
   - - link
@@ -8,13 +8,13 @@ head:
       href: "https://skepvox.com/literatura/machado-de-assis/"
   - - meta
     - name: description
-      content: "Bibliografia e textos integrais de Machado de Assis: Brás Cubas, Quincas Borba, Dom Casmurro, Esaú e Jacó, O Alienista e A Cartomante."
+      content: "Bibliografia e obras de Machado de Assis: Brás Cubas, Quincas Borba, Dom Casmurro, Esaú e Jacó, O Alienista e A Cartomante."
   - - meta
     - property: og:title
       content: "Literatura — Machado de Assis"
   - - meta
     - property: og:description
-      content: "Bibliografia e textos integrais de Machado de Assis: Brás Cubas, Quincas Borba, Dom Casmurro, Esaú e Jacó, O Alienista e A Cartomante."
+      content: "Bibliografia e obras de Machado de Assis: Brás Cubas, Quincas Borba, Dom Casmurro, Esaú e Jacó, O Alienista e A Cartomante."
   - - meta
     - property: og:url
       content: "https://skepvox.com/literatura/machado-de-assis/"
@@ -35,7 +35,7 @@ head:
       content: "Literatura — Machado de Assis"
   - - meta
     - name: twitter:description
-      content: "Bibliografia e textos integrais de Machado de Assis: Brás Cubas, Quincas Borba, Dom Casmurro, Esaú e Jacó, O Alienista e A Cartomante."
+      content: "Bibliografia e obras de Machado de Assis: Brás Cubas, Quincas Borba, Dom Casmurro, Esaú e Jacó, O Alienista e A Cartomante."
   - - meta
     - name: twitter:image
       content: "https://skepvox.com/images/authors/machado-de-assis.webp"
@@ -51,7 +51,7 @@ head:
         "@id": "https://skepvox.com/literatura/machado-de-assis/#person",
         "name": "Machado de Assis",
         "alternateName": "Joaquim Maria Machado de Assis",
-        "description": "Bibliografia e textos integrais de Machado de Assis: Brás Cubas, Quincas Borba, Dom Casmurro, Esaú e Jacó, O Alienista e A Cartomante.",
+        "description": "Bibliografia e obras de Machado de Assis: Brás Cubas, Quincas Borba, Dom Casmurro, Esaú e Jacó, O Alienista e A Cartomante.",
         "url": "https://skepvox.com/literatura/machado-de-assis/",
         "image": "https://skepvox.com/images/authors/machado-de-assis.webp",
         "birthDate": "1839-06-21",

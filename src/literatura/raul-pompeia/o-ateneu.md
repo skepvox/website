@@ -1,6 +1,49 @@
 ---
-title: O Ateneu — Raul Pompeia
+title: "O Ateneu — Raul Pompeia"
+description: "Texto integral de O Ateneu, de Raul Pompeia, romance da literatura brasileira do realismo-naturalismo."
 outline: [2, 3]
+head:
+  - - link
+    - rel: canonical
+      href: "https://www.skepvox.com/literatura/raul-pompeia/o-ateneu"
+  - - meta
+    - name: description
+      content: "Texto integral de O Ateneu, de Raul Pompeia, romance da literatura brasileira do realismo-naturalismo."
+  - - meta
+    - property: og:type
+      content: book
+  - - meta
+    - property: og:title
+      content: "O Ateneu — Raul Pompeia"
+  - - meta
+    - property: og:description
+      content: "Texto integral de O Ateneu, de Raul Pompeia, romance da literatura brasileira do realismo-naturalismo."
+  - - meta
+    - property: og:url
+      content: "https://www.skepvox.com/literatura/raul-pompeia/o-ateneu"
+  - - meta
+    - name: twitter:title
+      content: "O Ateneu — Raul Pompeia"
+  - - meta
+    - name: twitter:description
+      content: "Texto integral de O Ateneu, de Raul Pompeia, romance da literatura brasileira do realismo-naturalismo."
+  - - script
+    - type: application/ld+json
+    - |
+      {
+        "@context": "https://schema.org",
+        "@type": "Book",
+        "@id": "https://www.skepvox.com/literatura/raul-pompeia/o-ateneu#book",
+        "name": "O Ateneu",
+        "author": {
+          "@type": "Person",
+          "name": "Raul Pompeia"
+        },
+        "inLanguage": "pt-BR",
+        "url": "https://www.skepvox.com/literatura/raul-pompeia/o-ateneu",
+        "genre": "Romance",
+        "isAccessibleForFree": true
+      }
 ---
 
 # O Ateneu

@@ -1,6 +1,6 @@
 ---
 title: "O Alienista — I — De como Itaguaí Ganhou uma Casa de Orates"
-description: "Texto integral de O Alienista, de Machado de Assis. I — De como Itaguaí Ganhou uma Casa de Orates."
+description: "Leitura de O Alienista, de Machado de Assis. I — De como Itaguaí Ganhou uma Casa de Orates."
 sidebar: false
 aside: false
 footer: false
@@ -16,13 +16,13 @@ head:
       href: "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-001-de-como-itaguai-ganhou-uma-casa-de-orates"
   - - meta
     - name: description
-      content: "Texto integral de O Alienista, de Machado de Assis. I — De como Itaguaí Ganhou uma Casa de Orates."
+      content: "Leitura de O Alienista, de Machado de Assis. I — De como Itaguaí Ganhou uma Casa de Orates."
   - - meta
     - property: og:title
       content: "O Alienista — I — De como Itaguaí Ganhou uma Casa de Orates"
   - - meta
     - property: og:description
-      content: "Texto integral de O Alienista, de Machado de Assis. I — De como Itaguaí Ganhou uma Casa de Orates."
+      content: "Leitura de O Alienista, de Machado de Assis. I — De como Itaguaí Ganhou uma Casa de Orates."
   - - meta
     - property: og:url
       content: "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-001-de-como-itaguai-ganhou-uma-casa-de-orates"
@@ -43,7 +43,7 @@ head:
       content: "O Alienista — I — De como Itaguaí Ganhou uma Casa de Orates"
   - - meta
     - name: twitter:description
-      content: "Texto integral de O Alienista, de Machado de Assis. I — De como Itaguaí Ganhou uma Casa de Orates."
+      content: "Leitura de O Alienista, de Machado de Assis. I — De como Itaguaí Ganhou uma Casa de Orates."
   - - meta
     - name: twitter:image
       content: "https://skepvox.com/images/authors/machado-de-assis.webp"
@@ -76,7 +76,7 @@ head:
           "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.webp",
-        "description": "Texto integral de O Alienista, de Machado de Assis. I — De como Itaguaí Ganhou uma Casa de Orates.",
+        "description": "Leitura de O Alienista, de Machado de Assis. I — De como Itaguaí Ganhou uma Casa de Orates.",
         "additionalProperty": [
           {
             "@type": "PropertyValue",

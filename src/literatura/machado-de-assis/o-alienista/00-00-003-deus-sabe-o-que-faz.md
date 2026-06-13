@@ -1,6 +1,6 @@
 ---
 title: "O Alienista — III — Deus Sabe o que Faz!"
-description: "Texto integral de O Alienista, de Machado de Assis. III — Deus Sabe o que Faz!."
+description: "Leitura de O Alienista, de Machado de Assis. III — Deus Sabe o que Faz!."
 sidebar: false
 aside: false
 footer: false
@@ -16,13 +16,13 @@ head:
       href: "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-003-deus-sabe-o-que-faz"
   - - meta
     - name: description
-      content: "Texto integral de O Alienista, de Machado de Assis. III — Deus Sabe o que Faz!."
+      content: "Leitura de O Alienista, de Machado de Assis. III — Deus Sabe o que Faz!."
   - - meta
     - property: og:title
       content: "O Alienista — III — Deus Sabe o que Faz!"
   - - meta
     - property: og:description
-      content: "Texto integral de O Alienista, de Machado de Assis. III — Deus Sabe o que Faz!."
+      content: "Leitura de O Alienista, de Machado de Assis. III — Deus Sabe o que Faz!."
   - - meta
     - property: og:url
       content: "https://skepvox.com/literatura/machado-de-assis/o-alienista/00-00-003-deus-sabe-o-que-faz"
@@ -43,7 +43,7 @@ head:
       content: "O Alienista — III — Deus Sabe o que Faz!"
   - - meta
     - name: twitter:description
-      content: "Texto integral de O Alienista, de Machado de Assis. III — Deus Sabe o que Faz!."
+      content: "Leitura de O Alienista, de Machado de Assis. III — Deus Sabe o que Faz!."
   - - meta
     - name: twitter:image
       content: "https://skepvox.com/images/authors/machado-de-assis.webp"
@@ -76,7 +76,7 @@ head:
           "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.webp",
-        "description": "Texto integral de O Alienista, de Machado de Assis. III — Deus Sabe o que Faz!.",
+        "description": "Leitura de O Alienista, de Machado de Assis. III — Deus Sabe o que Faz!.",
         "additionalProperty": [
           {
             "@type": "PropertyValue",

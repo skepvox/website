@@ -1,6 +1,6 @@
 ---
 title: "O Alienista — Machado de Assis"
-description: "Texto integral de O Alienista, de Machado de Assis, com capítulos separados para leitura."
+description: "Leitura de O Alienista, de Machado de Assis, com capítulos separados para leitura."
 outline: 2
 head:
   - - link
@@ -8,13 +8,13 @@ head:
       href: "https://skepvox.com/literatura/machado-de-assis/o-alienista"
   - - meta
     - name: description
-      content: "Texto integral de O Alienista, de Machado de Assis, com capítulos separados para leitura."
+      content: "Leitura de O Alienista, de Machado de Assis, com capítulos separados para leitura."
   - - meta
     - property: og:title
       content: "O Alienista — Machado de Assis"
   - - meta
     - property: og:description
-      content: "Texto integral de O Alienista, de Machado de Assis, com capítulos separados para leitura."
+      content: "Leitura de O Alienista, de Machado de Assis, com capítulos separados para leitura."
   - - meta
     - property: og:url
       content: "https://skepvox.com/literatura/machado-de-assis/o-alienista"
@@ -35,7 +35,7 @@ head:
       content: "O Alienista — Machado de Assis"
   - - meta
     - name: twitter:description
-      content: "Texto integral de O Alienista, de Machado de Assis, com capítulos separados para leitura."
+      content: "Leitura de O Alienista, de Machado de Assis, com capítulos separados para leitura."
   - - meta
     - name: twitter:image
       content: "https://skepvox.com/images/authors/machado-de-assis.webp"
@@ -55,7 +55,7 @@ head:
         },
         "inLanguage": "pt-BR",
         "url": "https://skepvox.com/literatura/machado-de-assis/o-alienista",
-        "description": "Texto integral de O Alienista, de Machado de Assis, com capítulos separados para leitura.",
+        "description": "Leitura de O Alienista, de Machado de Assis, com capítulos separados para leitura.",
         "image": "https://skepvox.com/images/authors/machado-de-assis.webp",
         "hasPart": [
           {
