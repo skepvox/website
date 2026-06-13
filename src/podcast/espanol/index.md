@@ -7,10 +7,10 @@ head:
     - rel: alternate
       type: application/rss+xml
       title: 'Vox Español'
-      href: 'https://skepvox.com/podcast/espanol/feed.xml'
+      href: 'https://www.skepvox.com/podcast/espanol/feed.xml'
   - - link
     - rel: canonical
-      href: 'https://skepvox.com/podcast/espanol/'
+      href: 'https://www.skepvox.com/podcast/espanol/'
   - - meta
     - name: description
       content: 'Vox Español, una serie skepvox de Thiago Oliveira, con diálogos, explicaciones, guías de lección y transcripciones.'
@@ -25,7 +25,7 @@ head:
       content: 'Diálogos, explicaciones y guías de lección para aprender español con Vox Español.'
   - - meta
     - property: og:url
-      content: 'https://skepvox.com/podcast/espanol/'
+      content: 'https://www.skepvox.com/podcast/espanol/'
   - - meta
     - property: og:type
       content: website
@@ -71,8 +71,8 @@ head:
       {
         "@context": "https://schema.org",
         "@type": "CollectionPage",
-        "@id": "https://skepvox.com/podcast/espanol/#webpage",
-        "url": "https://skepvox.com/podcast/espanol/",
+        "@id": "https://www.skepvox.com/podcast/espanol/#webpage",
+        "url": "https://www.skepvox.com/podcast/espanol/",
         "name": "Vox Español",
         "description": "Vox Español, una serie skepvox de Thiago Oliveira, con diálogos, explicaciones, guías de lección y transcripciones.",
         "image": {
@@ -82,10 +82,10 @@ head:
           "height": 3000
         },
         "isPartOf": {
-          "@id": "https://skepvox.com/#website"
+          "@id": "https://www.skepvox.com/#website"
         },
         "publisher": {
-          "@id": "https://skepvox.com/#organization"
+          "@id": "https://www.skepvox.com/#organization"
         },
         "inLanguage": "es-ES"
       }
@@ -97,7 +97,7 @@ Vox Español es una serie skepvox de Thiago Oliveira para aprender español. Cad
 
 Las páginas de esta sección reúnen las transcripciones, el vocabulario y las notas útiles para volver a escuchar el episodio con el texto delante.
 
-**Flujo RSS:** <https://skepvox.com/podcast/espanol/feed.xml>
+**Flujo RSS:** <https://www.skepvox.com/podcast/espanol/feed.xml>
 
 **Apple Podcasts:** <https://podcasts.apple.com/us/podcast/vox-español/id1894875937>
 

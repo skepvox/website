@@ -5,7 +5,7 @@ outline: 2
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/podcast/espanol/001-la-boda-es-a-las-seis"
+      href: "https://www.skepvox.com/podcast/espanol/001-la-boda-es-a-las-seis"
   - - meta
     - name: description
       content: "Guía de lección y transcripción del episodio 001 de Vox Español: La boda es a las seis, sobre el contraste entre ser y estar en identidad, lugar, estado y función temporal."
@@ -20,7 +20,7 @@ head:
       content: "Guía de lección y transcripción del episodio 001 de Vox Español: La boda es a las seis, sobre el contraste entre ser y estar en identidad, lugar, estado y función temporal."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/podcast/espanol/001-la-boda-es-a-las-seis"
+      content: "https://www.skepvox.com/podcast/espanol/001-la-boda-es-a-las-seis"
   - - meta
     - property: og:type
       content: article
@@ -66,8 +66,8 @@ head:
       {
         "@context": "https://schema.org",
         "@type": "LearningResource",
-        "@id": "https://skepvox.com/podcast/espanol/001-la-boda-es-a-las-seis#learning-resource",
-        "url": "https://skepvox.com/podcast/espanol/001-la-boda-es-a-las-seis",
+        "@id": "https://www.skepvox.com/podcast/espanol/001-la-boda-es-a-las-seis#learning-resource",
+        "url": "https://www.skepvox.com/podcast/espanol/001-la-boda-es-a-las-seis",
         "name": "Vox Español 001 - La boda es a las seis",
         "description": "Guía de lección y transcripción del episodio 001 de Vox Español: La boda es a las seis, sobre el contraste entre ser y estar en identidad, lugar, estado y función temporal.",
         "image": {
@@ -83,10 +83,10 @@ head:
         "teaches": "Contraste entre ser y estar para identificar personas y cosas, hablar de profesiones, cualidades, lugar de eventos, ubicación, estado, ánimo y cambios de sentido con algunos adjetivos.",
         "inLanguage": "es-ES",
         "publisher": {
-          "@id": "https://skepvox.com/#organization"
+          "@id": "https://www.skepvox.com/#organization"
         },
         "isPartOf": {
-          "@id": "https://skepvox.com/podcast/espanol/#webpage"
+          "@id": "https://www.skepvox.com/podcast/espanol/#webpage"
         }
       }
 ---
@@ -99,7 +99,7 @@ Esta página acompaña el episodio 001 de Vox Español, una serie skepvox de Thi
 
 **Punto principal:** Contraste entre ser y estar para identificar personas y cosas, hablar de profesiones, cualidades, lugar de eventos, ubicación, estado, ánimo y cambios de sentido con algunos adjetivos.
 
-**Enlace permanente:** <https://skepvox.com/podcast/espanol/001-la-boda-es-a-las-seis>
+**Enlace permanente:** <https://www.skepvox.com/podcast/espanol/001-la-boda-es-a-las-seis>
 
 ## Transcripción completa
 

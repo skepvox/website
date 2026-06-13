@@ -67,7 +67,7 @@ def render_markdown(*, show_key: str, episode_number: int, episode_title: str, s
             f"episode-slug: {yaml_quote(website_episode_slug)}",
             f"show-title: {yaml_quote(show_title)}",
             'publisher: "skepvox"',
-            'website: "https://skepvox.com"',
+            'website: "https://www.skepvox.com"',
             f"show-page-url: {yaml_quote(show_page_url)}",
             f"lesson-url: {yaml_quote(lesson_url)}",
             f"rss-feed-url: {yaml_quote(rss_feed_url)}",

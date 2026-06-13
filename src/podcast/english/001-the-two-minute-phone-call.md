@@ -5,7 +5,7 @@ outline: 2
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/podcast/english/001-the-two-minute-phone-call"
+      href: "https://www.skepvox.com/podcast/english/001-the-two-minute-phone-call"
   - - meta
     - name: description
       content: "Lesson guide and transcript for Vox English episode 001: The Two-Minute Phone Call. Using discourse markers to open, delay, steer, infer and close practical spoken exchanges."
@@ -20,7 +20,7 @@ head:
       content: "Lesson guide and transcript for Vox English episode 001: The Two-Minute Phone Call. Using discourse markers to open, delay, steer, infer and close practical spoken exchanges."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/podcast/english/001-the-two-minute-phone-call"
+      content: "https://www.skepvox.com/podcast/english/001-the-two-minute-phone-call"
   - - meta
     - property: og:type
       content: article
@@ -66,8 +66,8 @@ head:
       {
         "@context": "https://schema.org",
         "@type": "LearningResource",
-        "@id": "https://skepvox.com/podcast/english/001-the-two-minute-phone-call#learning-resource",
-        "url": "https://skepvox.com/podcast/english/001-the-two-minute-phone-call",
+        "@id": "https://www.skepvox.com/podcast/english/001-the-two-minute-phone-call#learning-resource",
+        "url": "https://www.skepvox.com/podcast/english/001-the-two-minute-phone-call",
         "name": "Vox English 001 - The Two-Minute Phone Call",
         "description": "Lesson guide and transcript for Vox English episode 001: The Two-Minute Phone Call. Using discourse markers to open, delay, steer, infer and close practical spoken exchanges.",
         "image": {
@@ -83,10 +83,10 @@ head:
         "teaches": "Using discourse markers to open, delay, steer, infer and close practical spoken exchanges.",
         "inLanguage": "en-US",
         "publisher": {
-          "@id": "https://skepvox.com/#organization"
+          "@id": "https://www.skepvox.com/#organization"
         },
         "isPartOf": {
-          "@id": "https://skepvox.com/podcast/english/#webpage"
+          "@id": "https://www.skepvox.com/podcast/english/#webpage"
         }
       }
 ---
@@ -99,7 +99,7 @@ This page accompanies episode 001 of Vox English, a skepvox series by Thiago Oli
 
 **Main point:** Using discourse markers to open, delay, steer, infer and close practical spoken exchanges.
 
-**Permanent link:** <https://skepvox.com/podcast/english/001-the-two-minute-phone-call>
+**Permanent link:** <https://www.skepvox.com/podcast/english/001-the-two-minute-phone-call>
 
 ## Complete Transcript
 

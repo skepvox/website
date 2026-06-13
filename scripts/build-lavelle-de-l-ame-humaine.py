@@ -7,7 +7,7 @@ CHAPTER_DIR = Path('src/louis-lavelle/de-l-ame-humaine')
 OUTPUT_FILE = Path('src/louis-lavelle/de-l-ame-humaine.md')
 LOCAL_SOURCE_DIR = Path('local-books/louis-lavelle/de-l-ame-humaine/fr')
 
-SITE_BASE = 'https://skepvox.com'
+SITE_BASE = 'https://www.skepvox.com'
 BOOK_PATH = '/louis-lavelle/de-l-ame-humaine'
 BOOK_PATH_HTML = f'{BOOK_PATH}.html'
 BOOK_URL = f'{SITE_BASE}{BOOK_PATH}'
@@ -19,7 +19,7 @@ DESCRIPTION = (
     "quatrième volume de La Dialectique de l'éternel présent."
 )
 IMAGE_URL = (
-    'https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png'
+    'https://www.skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png'
 )
 SERIES_NAME = "La Dialectique de l'éternel présent"
 
@@ -342,7 +342,7 @@ def main() -> None:
                 '@type': 'ListItem',
                 'position': 1,
                 'name': 'Louis Lavelle',
-                'item': 'https://skepvox.com/louis-lavelle/',
+                'item': 'https://www.skepvox.com/louis-lavelle/',
             },
             {
                 '@type': 'ListItem',

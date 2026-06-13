@@ -6,7 +6,7 @@ import json
 import re
 import sys
 
-SITE_BASE = 'https://skepvox.com'
+SITE_BASE = 'https://www.skepvox.com'
 
 AUTHOR = 'Machado de Assis'
 AUTHOR_SLUG = 'machado-de-assis'
@@ -20,7 +20,7 @@ BOOK_PATH = f'/literatura/{AUTHOR_SLUG}/{BOOK_SLUG}'
 BOOK_PATH_HTML = f'{BOOK_PATH}.html'
 BOOK_URL = f'{SITE_BASE}{BOOK_PATH}'
 BOOK_DESCRIPTION = (
-    'Texto integral de O Alienista, de Machado de Assis, '
+    'Leitura de O Alienista, de Machado de Assis, '
     'com capítulos separados para leitura.'
 )
 

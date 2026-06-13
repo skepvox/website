@@ -6,7 +6,7 @@ import json
 import re
 import sys
 
-SITE_BASE = 'https://skepvox.com'
+SITE_BASE = 'https://www.skepvox.com'
 
 AUTHOR = 'Louis Lavelle'
 AUTHOR_PATH = '/louis-lavelle/'

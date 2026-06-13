@@ -5,7 +5,7 @@ outline: 2
 head:
   - - link
     - rel: canonical
-      href: 'https://skepvox.com/podcast/'
+      href: 'https://www.skepvox.com/podcast/'
   - - meta
     - name: description
       content: 'Podcasts skepvox para aprendizagem de idiomas: Vox Français, Vox Español e Vox English.'
@@ -17,7 +17,7 @@ head:
       content: 'Podcasts skepvox para aprendizagem de idiomas.'
   - - meta
     - property: og:url
-      content: 'https://skepvox.com/podcast/'
+      content: 'https://www.skepvox.com/podcast/'
   - - meta
     - property: og:type
       content: website
@@ -84,8 +84,8 @@ head:
       {
         "@context": "https://schema.org",
         "@type": "CollectionPage",
-        "@id": "https://skepvox.com/podcast/#webpage",
-        "url": "https://skepvox.com/podcast/",
+        "@id": "https://www.skepvox.com/podcast/#webpage",
+        "url": "https://www.skepvox.com/podcast/",
         "name": "Podcasts skepvox",
         "description": "Podcasts skepvox para aprendizagem de idiomas.",
         "image": [
@@ -94,10 +94,10 @@ head:
           "https://media.skepvox.com/podcast/english/artwork/show-cover-v3.jpg"
         ],
         "isPartOf": {
-          "@id": "https://skepvox.com/#website"
+          "@id": "https://www.skepvox.com/#website"
         },
         "publisher": {
-          "@id": "https://skepvox.com/#organization"
+          "@id": "https://www.skepvox.com/#organization"
         },
         "inLanguage": "pt-BR"
       }

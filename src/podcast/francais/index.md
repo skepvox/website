@@ -7,10 +7,10 @@ head:
     - rel: alternate
       type: application/rss+xml
       title: 'Vox Français'
-      href: 'https://skepvox.com/podcast/francais/feed.xml'
+      href: 'https://www.skepvox.com/podcast/francais/feed.xml'
   - - link
     - rel: canonical
-      href: 'https://skepvox.com/podcast/francais/'
+      href: 'https://www.skepvox.com/podcast/francais/'
   - - meta
     - name: description
       content: 'Vox Français, une série skepvox de Thiago Oliveira, avec dialogues, explications, guides de leçon et transcriptions.'
@@ -25,7 +25,7 @@ head:
       content: 'Dialogues, explications et guides de leçon pour apprendre le français avec Vox Français.'
   - - meta
     - property: og:url
-      content: 'https://skepvox.com/podcast/francais/'
+      content: 'https://www.skepvox.com/podcast/francais/'
   - - meta
     - property: og:type
       content: website
@@ -71,8 +71,8 @@ head:
       {
         "@context": "https://schema.org",
         "@type": "CollectionPage",
-        "@id": "https://skepvox.com/podcast/francais/#webpage",
-        "url": "https://skepvox.com/podcast/francais/",
+        "@id": "https://www.skepvox.com/podcast/francais/#webpage",
+        "url": "https://www.skepvox.com/podcast/francais/",
         "name": "Vox Français",
         "description": "Vox Français, une série skepvox de Thiago Oliveira, avec dialogues, explications, guides de leçon et transcriptions.",
         "image": {
@@ -82,10 +82,10 @@ head:
           "height": 3000
         },
         "isPartOf": {
-          "@id": "https://skepvox.com/#website"
+          "@id": "https://www.skepvox.com/#website"
         },
         "publisher": {
-          "@id": "https://skepvox.com/#organization"
+          "@id": "https://www.skepvox.com/#organization"
         },
         "inLanguage": "fr-FR"
       }
@@ -97,7 +97,7 @@ Vox Français est une série skepvox de Thiago Oliveira pour apprendre le franç
 
 Les pages de cette section réunissent les transcriptions, le vocabulaire et les notes utiles pour réécouter l'épisode avec le texte sous les yeux.
 
-**Flux RSS :** <https://skepvox.com/podcast/francais/feed.xml>
+**Flux RSS :** <https://www.skepvox.com/podcast/francais/feed.xml>
 
 **Apple Podcasts :** <https://podcasts.apple.com/us/podcast/vox-français/id1894698848>
 

@@ -300,7 +300,7 @@ def build_new_frontmatter(show: ShowConfig, page_title: str, description: str, k
             "learningResourceType": ["podcast transcript", "lesson guide"],
             "teaches": teaches,
             "inLanguage": language,
-            "publisher": {"@id": "https://skepvox.com/#organization"},
+            "publisher": {"@id": "https://www.skepvox.com/#organization"},
             "isPartOf": {"@id": show.site_part_of_id},
         },
         ensure_ascii=False,

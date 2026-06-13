@@ -7,7 +7,7 @@ CHAPTER_DIR = Path('src/louis-lavelle/l-erreur-de-narcisse')
 OUTPUT_FILE = Path('src/louis-lavelle/l-erreur-de-narcisse.md')
 LOCAL_SOURCE_DIR = Path('local-books/louis-lavelle/l-erreur-de-narcisse/fr')
 
-SITE_BASE = 'https://skepvox.com'
+SITE_BASE = 'https://www.skepvox.com'
 BOOK_PATH = '/louis-lavelle/l-erreur-de-narcisse'
 BOOK_PATH_HTML = f'{BOOK_PATH}.html'
 BOOK_URL = f'{SITE_BASE}{BOOK_PATH}'
@@ -16,7 +16,7 @@ AUTHOR = 'Louis Lavelle'
 LANGUAGE = 'fr'
 DESCRIPTION = "Texte intégral en français de L'Erreur de Narcisse de Louis Lavelle."
 IMAGE_URL = (
-    'https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png'
+    'https://www.skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png'
 )
 
 
@@ -334,7 +334,7 @@ def main() -> None:
                 '@type': 'ListItem',
                 'position': 1,
                 'name': 'Louis Lavelle',
-                'item': 'https://skepvox.com/louis-lavelle/',
+                'item': 'https://www.skepvox.com/louis-lavelle/',
             },
             {
                 '@type': 'ListItem',

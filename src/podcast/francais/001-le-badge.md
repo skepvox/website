@@ -5,7 +5,7 @@ outline: 2
 head:
   - - link
     - rel: canonical
-      href: "https://skepvox.com/podcast/francais/001-le-badge"
+      href: "https://www.skepvox.com/podcast/francais/001-le-badge"
   - - meta
     - name: description
       content: "Guide de leçon et transcription de l’épisode 001 de Vox Français : Le badge, une scène de forum municipal, d’accueil et de confusion polie."
@@ -20,7 +20,7 @@ head:
       content: "Guide de leçon et transcription de l’épisode 001 de Vox Français : Le badge, une scène de forum municipal, d’accueil et de confusion polie."
   - - meta
     - property: og:url
-      content: "https://skepvox.com/podcast/francais/001-le-badge"
+      content: "https://www.skepvox.com/podcast/francais/001-le-badge"
   - - meta
     - property: og:type
       content: article
@@ -66,8 +66,8 @@ head:
       {
         "@context": "https://schema.org",
         "@type": "LearningResource",
-        "@id": "https://skepvox.com/podcast/francais/001-le-badge#learning-resource",
-        "url": "https://skepvox.com/podcast/francais/001-le-badge",
+        "@id": "https://www.skepvox.com/podcast/francais/001-le-badge#learning-resource",
+        "url": "https://www.skepvox.com/podcast/francais/001-le-badge",
         "name": "Vox Français 001 — Le badge",
         "description": "Guide de leçon et transcription de l’épisode 001 de Vox Français : Le badge, une scène de forum municipal, d’accueil et de confusion polie.",
         "image": {
@@ -83,10 +83,10 @@ head:
         "teaches": "Se présenter, préciser un rôle et clarifier qui est qui dans un lieu public, avec des phrases simples autour de être.",
         "inLanguage": "fr-FR",
         "publisher": {
-          "@id": "https://skepvox.com/#organization"
+          "@id": "https://www.skepvox.com/#organization"
         },
         "isPartOf": {
-          "@id": "https://skepvox.com/podcast/francais/#webpage"
+          "@id": "https://www.skepvox.com/podcast/francais/#webpage"
         }
       }
 ---
@@ -99,7 +99,7 @@ Cette page accompagne l’épisode 001 de Vox Français, une série skepvox de T
 
 **Point principal:** Se présenter, préciser un rôle et clarifier qui est qui dans un lieu public, avec des phrases simples autour de être.
 
-**Lien permanent:** <https://skepvox.com/podcast/francais/001-le-badge>
+**Lien permanent:** <https://www.skepvox.com/podcast/francais/001-le-badge>
 
 ## Transcription complète
 

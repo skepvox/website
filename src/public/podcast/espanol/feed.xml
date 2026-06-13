@@ -5,13 +5,13 @@
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Vox Español</title>
-    <link>https://skepvox.com/podcast/espanol/</link>
-    <atom:link href="https://skepvox.com/podcast/espanol/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.skepvox.com/podcast/espanol/</link>
+    <atom:link href="https://www.skepvox.com/podcast/espanol/feed.xml" rel="self" type="application/rss+xml" />
     <language>es-ES</language>
     <copyright>Copyright 2026 Thiago Oliveira</copyright>
     <description><![CDATA[Vox Español es una serie skepvox de Thiago Oliveira que ayuda a los estudiantes de español a trabajar la lengua con diálogos originales, explicaciones guiadas y transcripciones. Cada episodio empieza con una pequeña escena en español, y después retoma las palabras, la gramática, el registro, la pronunciación y el humor del diálogo.
 
-Página del programa: https://skepvox.com/podcast/espanol/]]></description>
+Página del programa: https://www.skepvox.com/podcast/espanol/]]></description>
     <itunes:author>skepvox</itunes:author>
     <itunes:owner>
       <itunes:name>Thiago Oliveira</itunes:name>
@@ -19,7 +19,7 @@ Página del programa: https://skepvox.com/podcast/espanol/]]></description>
     </itunes:owner>
     <itunes:summary><![CDATA[Vox Español es una serie skepvox de Thiago Oliveira que ayuda a los estudiantes de español a trabajar la lengua con diálogos originales, explicaciones guiadas y transcripciones. Cada episodio empieza con una pequeña escena en español, y después retoma las palabras, la gramática, el registro, la pronunciación y el humor del diálogo.
 
-Página del programa: https://skepvox.com/podcast/espanol/]]></itunes:summary>
+Página del programa: https://www.skepvox.com/podcast/espanol/]]></itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://media.skepvox.com/podcast/espanol/artwork/show-cover-v3.jpg" />
@@ -29,18 +29,18 @@ Página del programa: https://skepvox.com/podcast/espanol/]]></itunes:summary>
     <image>
       <url>https://media.skepvox.com/podcast/espanol/artwork/show-cover-v3.jpg</url>
       <title>Vox Español</title>
-      <link>https://skepvox.com/podcast/espanol/</link>
+      <link>https://www.skepvox.com/podcast/espanol/</link>
     </image>
     <lastBuildDate>Sat, 13 Jun 2026 12:11:42 -0300</lastBuildDate>
 
 
     <item>
       <title>001 - La boda es a las seis</title>
-      <link>https://skepvox.com/podcast/espanol/001-la-boda-es-a-las-seis</link>
+      <link>https://www.skepvox.com/podcast/espanol/001-la-boda-es-a-las-seis</link>
       <guid isPermaLink="false">vox-espanol-001</guid>
       <pubDate>Sun, 07 Jun 2026 09:00:00 -0300</pubDate>
       <description><![CDATA[Guía completa y transcripción:
-https://skepvox.com/podcast/espanol/001-la-boda-es-a-las-seis#transcripcion-completa
+https://www.skepvox.com/podcast/espanol/001-la-boda-es-a-las-seis#transcripcion-completa
 
 En esta entrega de Vox Español, entramos en una boda civil donde identidad, lugar, estado y función temporal se cruzan en una conversación urgente.
 
@@ -52,7 +52,7 @@ La guía de lección explica también el vocabulario importante de la historia: 
 
 En la página encontrará la guía de aprendizaje, la nota cultural, el diálogo lento, el diálogo a velocidad natural y la transcripción completa.]]></description>
       <content:encoded><![CDATA[<p>Guía completa y transcripción:<br />
-<a href="https://skepvox.com/podcast/espanol/001-la-boda-es-a-las-seis#transcripcion-completa">https://skepvox.com/podcast/espanol/001-la-boda-es-a-las-seis#transcripcion-completa</a></p>
+<a href="https://www.skepvox.com/podcast/espanol/001-la-boda-es-a-las-seis#transcripcion-completa">https://www.skepvox.com/podcast/espanol/001-la-boda-es-a-las-seis#transcripcion-completa</a></p>
 
 <p>En esta entrega de Vox Español, entramos en una boda civil donde identidad, lugar, estado y función temporal se cruzan en una conversación urgente.</p>
 

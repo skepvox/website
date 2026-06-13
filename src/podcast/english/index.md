@@ -7,10 +7,10 @@ head:
     - rel: alternate
       type: application/rss+xml
       title: 'Vox English'
-      href: 'https://skepvox.com/podcast/english/feed.xml'
+      href: 'https://www.skepvox.com/podcast/english/feed.xml'
   - - link
     - rel: canonical
-      href: 'https://skepvox.com/podcast/english/'
+      href: 'https://www.skepvox.com/podcast/english/'
   - - meta
     - name: description
       content: 'Vox English, a skepvox series by Thiago Oliveira, with practical dialogues, explanations, learning guides and transcripts.'
@@ -25,7 +25,7 @@ head:
       content: 'Practical dialogues, explanations and learning guides for English learners with Vox English.'
   - - meta
     - property: og:url
-      content: 'https://skepvox.com/podcast/english/'
+      content: 'https://www.skepvox.com/podcast/english/'
   - - meta
     - property: og:type
       content: website
@@ -71,8 +71,8 @@ head:
       {
         "@context": "https://schema.org",
         "@type": "CollectionPage",
-        "@id": "https://skepvox.com/podcast/english/#webpage",
-        "url": "https://skepvox.com/podcast/english/",
+        "@id": "https://www.skepvox.com/podcast/english/#webpage",
+        "url": "https://www.skepvox.com/podcast/english/",
         "name": "Vox English",
         "description": "Vox English, a skepvox series by Thiago Oliveira, with practical dialogues, explanations, learning guides and transcripts.",
         "image": {
@@ -82,10 +82,10 @@ head:
           "height": 3000
         },
         "isPartOf": {
-          "@id": "https://skepvox.com/#website"
+          "@id": "https://www.skepvox.com/#website"
         },
         "publisher": {
-          "@id": "https://skepvox.com/#organization"
+          "@id": "https://www.skepvox.com/#organization"
         },
         "inLanguage": "en-US"
       }
@@ -97,7 +97,7 @@ Vox English is a skepvox series by Thiago Oliveira for practical English learnin
 
 The pages in this section collect transcripts, vocabulary and notes for listening again with the text open.
 
-**RSS feed:** <https://skepvox.com/podcast/english/feed.xml>
+**RSS feed:** <https://www.skepvox.com/podcast/english/feed.xml>
 
 **Amazon Music:** <https://music.amazon.com/podcasts/b1200000-5b01-44b8-a2a1-d47955fd7687/vox-english>
 

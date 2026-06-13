@@ -7,7 +7,7 @@ CHAPTER_DIR = Path('src/louis-lavelle/du-temps-et-de-l-eternite')
 OUTPUT_FILE = Path('src/louis-lavelle/du-temps-et-de-l-eternite.md')
 LOCAL_SOURCE_DIR = Path('local-books/louis-lavelle/du-temps-et-de-l-eternite/fr')
 
-SITE_BASE = 'https://skepvox.com'
+SITE_BASE = 'https://www.skepvox.com'
 BOOK_PATH = '/louis-lavelle/du-temps-et-de-l-eternite'
 BOOK_PATH_HTML = f'{BOOK_PATH}.html'
 BOOK_URL = f'{SITE_BASE}{BOOK_PATH}'
@@ -19,7 +19,7 @@ DESCRIPTION = (
     "troisième volume de La Dialectique de l'éternel présent."
 )
 IMAGE_URL = (
-    'https://skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png'
+    'https://www.skepvox.com/images/louis-lavelle/louis-lavelle-profile-picture.png'
 )
 SERIES_NAME = "La Dialectique de l'éternel présent"
 
@@ -342,7 +342,7 @@ def main() -> None:
                 '@type': 'ListItem',
                 'position': 1,
                 'name': 'Louis Lavelle',
-                'item': 'https://skepvox.com/louis-lavelle/',
+                'item': 'https://www.skepvox.com/louis-lavelle/',
             },
             {
                 '@type': 'ListItem',

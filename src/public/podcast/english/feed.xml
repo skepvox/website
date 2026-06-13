@@ -5,13 +5,13 @@
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Vox English</title>
-    <link>https://skepvox.com/podcast/english/</link>
-    <atom:link href="https://skepvox.com/podcast/english/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.skepvox.com/podcast/english/</link>
+    <atom:link href="https://www.skepvox.com/podcast/english/feed.xml" rel="self" type="application/rss+xml" />
     <language>en-US</language>
     <copyright>Copyright 2026 Thiago Oliveira</copyright>
     <description><![CDATA[Vox English is a skepvox series by Thiago Oliveira for practical English learners. Each episode starts with a short everyday scene, then returns to the vocabulary, expressions, tone and spoken rhythm that make the dialogue work.
 
-Show page: https://skepvox.com/podcast/english/]]></description>
+Show page: https://www.skepvox.com/podcast/english/]]></description>
     <itunes:author>skepvox</itunes:author>
     <itunes:owner>
       <itunes:name>Thiago Oliveira</itunes:name>
@@ -19,7 +19,7 @@ Show page: https://skepvox.com/podcast/english/]]></description>
     </itunes:owner>
     <itunes:summary><![CDATA[Vox English is a skepvox series by Thiago Oliveira for practical English learners. Each episode starts with a short everyday scene, then returns to the vocabulary, expressions, tone and spoken rhythm that make the dialogue work.
 
-Show page: https://skepvox.com/podcast/english/]]></itunes:summary>
+Show page: https://www.skepvox.com/podcast/english/]]></itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://media.skepvox.com/podcast/english/artwork/show-cover-v3.jpg" />
@@ -29,17 +29,17 @@ Show page: https://skepvox.com/podcast/english/]]></itunes:summary>
     <image>
       <url>https://media.skepvox.com/podcast/english/artwork/show-cover-v3.jpg</url>
       <title>Vox English</title>
-      <link>https://skepvox.com/podcast/english/</link>
+      <link>https://www.skepvox.com/podcast/english/</link>
     </image>
     <lastBuildDate>Sat, 13 Jun 2026 12:11:42 -0300</lastBuildDate>
 
     <item>
       <title>001 - The Two-Minute Phone Call</title>
-      <link>https://skepvox.com/podcast/english/001-the-two-minute-phone-call</link>
+      <link>https://www.skepvox.com/podcast/english/001-the-two-minute-phone-call</link>
       <guid isPermaLink="false">vox-english-001</guid>
       <pubDate>Sun, 07 Jun 2026 09:00:00 -0300</pubDate>
       <description><![CDATA[Complete guide and transcript:
-https://skepvox.com/podcast/english/001-the-two-minute-phone-call#complete-transcript
+https://www.skepvox.com/podcast/english/001-the-two-minute-phone-call#complete-transcript
 
 In this Vox English story, a small neighbor request turns into a careful phone call about timing, help, and the pressure of being just outside someone's door.
 
@@ -49,7 +49,7 @@ The learning guide also explains useful words and expressions from the scene: st
 
 On the episode page, you will find the learning guide, cultural and practical note, slow dialogue, natural-speed dialogue, and complete transcript.]]></description>
       <content:encoded><![CDATA[<p>Complete guide and transcript:<br />
-<a href="https://skepvox.com/podcast/english/001-the-two-minute-phone-call#complete-transcript">https://skepvox.com/podcast/english/001-the-two-minute-phone-call#complete-transcript</a></p>
+<a href="https://www.skepvox.com/podcast/english/001-the-two-minute-phone-call#complete-transcript">https://www.skepvox.com/podcast/english/001-the-two-minute-phone-call#complete-transcript</a></p>
 
 <p>In this <strong>Vox English</strong> story, a small neighbor request turns into a careful phone call about timing, help, and the pressure of being just outside someone's door.</p>
 

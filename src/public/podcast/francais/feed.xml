@@ -5,13 +5,13 @@
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Vox Français</title>
-    <link>https://skepvox.com/podcast/francais/</link>
-    <atom:link href="https://skepvox.com/podcast/francais/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.skepvox.com/podcast/francais/</link>
+    <atom:link href="https://www.skepvox.com/podcast/francais/feed.xml" rel="self" type="application/rss+xml" />
     <language>fr-FR</language>
     <copyright>Copyright 2026 Thiago Oliveira</copyright>
     <description><![CDATA[Vox Français est une série skepvox de Thiago Oliveira qui aide les apprenants de français à travailler la langue avec des dialogues originaux, des explications guidées et des transcriptions. Chaque épisode commence par une petite scène en français, puis reprend les mots, la grammaire, le registre et l'humour du dialogue.
 
-Page de l'émission : https://skepvox.com/podcast/francais/]]></description>
+Page de l'émission : https://www.skepvox.com/podcast/francais/]]></description>
     <itunes:author>skepvox</itunes:author>
     <itunes:owner>
       <itunes:name>Thiago Oliveira</itunes:name>
@@ -19,7 +19,7 @@ Page de l'émission : https://skepvox.com/podcast/francais/]]></description>
     </itunes:owner>
     <itunes:summary><![CDATA[Vox Français est une série skepvox de Thiago Oliveira qui aide les apprenants de français à travailler la langue avec des dialogues originaux, des explications guidées et des transcriptions. Chaque épisode commence par une petite scène en français, puis reprend les mots, la grammaire, le registre et l'humour du dialogue.
 
-Page de l'émission : https://skepvox.com/podcast/francais/]]></itunes:summary>
+Page de l'émission : https://www.skepvox.com/podcast/francais/]]></itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg" />
@@ -29,16 +29,16 @@ Page de l'émission : https://skepvox.com/podcast/francais/]]></itunes:summary>
     <image>
       <url>https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg</url>
       <title>Vox Français</title>
-      <link>https://skepvox.com/podcast/francais/</link>
+      <link>https://www.skepvox.com/podcast/francais/</link>
     </image>
     <lastBuildDate>Sat, 13 Jun 2026 12:11:42 -0300</lastBuildDate>
 
     <item>
       <title>001 - Le badge</title>
-      <link>https://skepvox.com/podcast/francais/001-le-badge</link>
+      <link>https://www.skepvox.com/podcast/francais/001-le-badge</link>
       <guid isPermaLink="false">vox-francais-001</guid>
       <pubDate>Sun, 07 Jun 2026 09:00:00 -0300</pubDate>
-      <description><![CDATA[Guide complet et transcription : https://skepvox.com/podcast/francais/001-le-badge#transcription-complete
+      <description><![CDATA[Guide complet et transcription : https://www.skepvox.com/podcast/francais/001-le-badge#transcription-complete
 
 Dans cet épisode de Vox Français, Claire arrive à un forum municipal des associations pour aider à l'accueil. Un badge mal compris, deux personnes qui portent le même nom et une organisation fragile transforment une mission simple en scène de confusion polie.
 
@@ -47,7 +47,7 @@ La leçon travaille des phrases utiles pour se présenter, expliquer un rôle, d
 Le guide de leçon explique aussi le vocabulaire important de l'épisode : bénévole, forum des associations, accueil, orienter, badge, mairie, couloir, programme, disponible, et plusieurs autres mots utiles.
 
 Vous trouverez sur la page de l'épisode le guide d'apprentissage, la note culturelle, le dialogue lent, le dialogue à vitesse naturelle et la transcription complète.]]></description>
-      <content:encoded><![CDATA[<p><strong>Guide complet et transcription :</strong> <a href="https://skepvox.com/podcast/francais/001-le-badge#transcription-complete">https://skepvox.com/podcast/francais/001-le-badge#transcription-complete</a></p>
+      <content:encoded><![CDATA[<p><strong>Guide complet et transcription :</strong> <a href="https://www.skepvox.com/podcast/francais/001-le-badge#transcription-complete">https://www.skepvox.com/podcast/francais/001-le-badge#transcription-complete</a></p>
 
 <p>Dans cet épisode de <strong>Vox Français</strong>, Claire arrive à un forum municipal des associations pour aider à l'accueil. Un badge mal compris, deux personnes qui portent le même nom et une organisation fragile transforment une mission simple en scène de confusion polie.</p>
 
