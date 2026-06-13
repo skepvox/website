@@ -83,7 +83,6 @@ onUnmounted(() => {
   align-items: center;
   border-radius: 6px;
   transition: background-color 0.2s ease;
-  aspect-ratio: 1 / 1;
   overflow: hidden;
   padding: 12px;          /* inner margin */
   box-sizing: border-box;
@@ -91,7 +90,8 @@ onUnmounted(() => {
 
 .author-item img {
   width: 100%;
-  height: 100%;
+  aspect-ratio: 1 / 1;
+  height: auto;
   object-fit: cover;
   border-radius: 4px;    /* optional: soften image corners */
 }
