@@ -2,7 +2,8 @@
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title>Vox Español</title>
     <link>https://www.skepvox.com/podcast/espanol/</link>
@@ -31,7 +32,7 @@ Página del programa: https://www.skepvox.com/podcast/espanol/]]></itunes:summar
       <title>Vox Español</title>
       <link>https://www.skepvox.com/podcast/espanol/</link>
     </image>
-    <lastBuildDate>Sun, 14 Jun 2026 10:25:22 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 14:53:09 -0300</lastBuildDate>
 
 
     <item>
@@ -64,6 +65,7 @@ En la página encontrará la guía de aprendizaje, la nota cultural, el diálogo
 
 <p>En la página encontrará la guía de aprendizaje, la nota cultural, el diálogo lento, el diálogo a velocidad natural y la transcripción completa.</p>]]></content:encoded>
       <enclosure url="https://media.skepvox.com/podcast/espanol/audio/espanol-001-la-boda-es-a-las-seis-v4.mp3" length="31486790" type="audio/mpeg" />
+      <podcast:transcript url="https://media.skepvox.com/podcast/espanol/transcripts/espanol-001-la-boda-es-a-las-seis-v4.vtt" type="text/vtt" language="es" rel="captions" />
       <itunes:duration>00:21:52</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
