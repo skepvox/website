@@ -1,0 +1,2062 @@
+{
+  "episode": {
+    "id": "english-001",
+    "title": "The Two-Minute Phone Call",
+    "audioUrl": "https://media.skepvox.com/podcast/english/audio/english-001-the-two-minute-phone-call-v1.mp3",
+    "lang": "en",
+    "durationSeconds": 1266.7
+  },
+  "sections": [
+    {
+      "id": "01-introduction",
+      "label": "Introduction",
+      "isDialogue": false,
+      "paragraphs": [
+        {
+          "id": "01-introduction-p001",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0001",
+              "start": 0.0,
+              "end": 1.92,
+              "text": "Welcome to Vox English."
+            },
+            {
+              "id": "0002",
+              "start": 3.08,
+              "end": 7.92,
+              "text": "Today we are in a shared apartment building, where a small favor becomes less small"
+            },
+            {
+              "id": "0003",
+              "start": 7.92,
+              "end": 9.0,
+              "text": "with every sentence."
+            },
+            {
+              "id": "0004",
+              "start": 9.76,
+              "end": 14.34,
+              "text": "Nora is trying to cook, and Leo is trying to borrow a step ladder without"
+            },
+            {
+              "id": "0005",
+              "start": 14.34,
+              "end": 16.34,
+              "text": "making the evening more complicated."
+            },
+            {
+              "id": "0006",
+              "start": 16.96,
+              "end": 22.64,
+              "text": "The call stays friendly, but it keeps slipping between practical help, awkward timing,"
+            },
+            {
+              "id": "0007",
+              "start": 22.9,
+              "end": 24.74,
+              "text": "and quiet pressure in the hallway."
+            },
+            {
+              "id": "0008",
+              "start": 25.8,
+              "end": 29.86,
+              "text": "Listen for how both speakers stay polite while trying to get the situation moving."
+            },
+            {
+              "id": "0009",
+              "start": 30.82,
+              "end": 31.58,
+              "text": "Let's get started."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-dialogue-slow",
+      "label": "Dialogue - slow version",
+      "isDialogue": true,
+      "paragraphs": [
+        {
+          "id": "02-dialogue-slow-p001",
+          "speaker": "Leo",
+          "cues": [
+            {
+              "id": "0010",
+              "start": 38.24,
+              "end": 39.74,
+              "text": "So, quick thing."
+            },
+            {
+              "id": "0011",
+              "start": 40.24,
+              "end": 42.28,
+              "text": "Are you using your step ladder tonight?"
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-slow-p002",
+          "speaker": "Nora",
+          "cues": [
+            {
+              "id": "0012",
+              "start": 42.6,
+              "end": 44.42,
+              "text": "I wasn't planning to."
+            },
+            {
+              "id": "0013",
+              "start": 45.16,
+              "end": 48.46,
+              "text": "Why does that sound like the opening of a much longer thing?"
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-slow-p003",
+          "speaker": "Leo",
+          "cues": [
+            {
+              "id": "0014",
+              "start": 49.04,
+              "end": 55.3,
+              "text": "Well, it depends how emotionally attached you are to your hallway light bulb, and whether"
+            },
+            {
+              "id": "0015",
+              "start": 55.3,
+              "end": 59.14,
+              "text": "you believe stairs deserve warning labels after sunset."
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-slow-p004",
+          "speaker": "Nora",
+          "cues": [
+            {
+              "id": "0016",
+              "start": 60.22,
+              "end": 60.38,
+              "text": "Right."
+            },
+            {
+              "id": "0017",
+              "start": 61.22,
+              "end": 63.3,
+              "text": "That is not a quick thing."
+            },
+            {
+              "id": "0018",
+              "start": 64.4,
+              "end": 65.72,
+              "text": "Is something broken?"
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-slow-p005",
+          "speaker": "Leo",
+          "cues": [
+            {
+              "id": "0019",
+              "start": 66.6,
+              "end": 67.9,
+              "text": "Not broken."
+            },
+            {
+              "id": "0020",
+              "start": 68.78,
+              "end": 71.801,
+              "text": "More... committed to darkness."
+            },
+            {
+              "id": "0021",
+              "start": 72.74,
+              "end": 78.64,
+              "text": "I changed my bulb, then noticed your landing light is also out, which feels unfair"
+            },
+            {
+              "id": "0022",
+              "start": 78.64,
+              "end": 83.38,
+              "text": "to everyone carrying soup, laundry, or confidence after nine."
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-slow-p006",
+          "speaker": "Nora",
+          "cues": [
+            {
+              "id": "0023",
+              "start": 83.38,
+              "end": 90.3,
+              "text": "Anyway, do you need the ladder, or are we discussing stair justice as a civic"
+            },
+            {
+              "id": "0024",
+              "start": 90.3,
+              "end": 90.7,
+              "text": "principle?"
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-slow-p007",
+          "speaker": "Leo",
+          "cues": [
+            {
+              "id": "0025",
+              "start": 91.42,
+              "end": 92.22,
+              "text": "Ladder."
+            },
+            {
+              "id": "0026",
+              "start": 93.84,
+              "end": 94.36,
+              "text": "Definitely ladder."
+            },
+            {
+              "id": "0027",
+              "start": 95.2,
+              "end": 98.64,
+              "text": "I mean, also justice, but mainly ladder."
+            },
+            {
+              "id": "0028",
+              "start": 99.36,
+              "end": 105.38,
+              "text": "I thought if I fixed both bulbs, we'd all enjoy not falling with dignity, which"
+            },
+            {
+              "id": "0029",
+              "start": 105.38,
+              "end": 107.54,
+              "text": "feels like a shared building goal."
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-slow-p008",
+          "speaker": "Nora",
+          "cues": [
+            {
+              "id": "0030",
+              "start": 108.04,
+              "end": 108.56,
+              "text": "Fine."
+            },
+            {
+              "id": "0031",
+              "start": 108.6,
+              "end": 113.621,
+              "text": "I'm cooking, so come by in ten minutes and I'll leave it by the door."
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-slow-p009",
+          "speaker": "Leo",
+          "cues": [
+            {
+              "id": "0032",
+              "start": 114.26,
+              "end": 116.54,
+              "text": "Right, about \"come by\"."
+            },
+            {
+              "id": "0033",
+              "start": 117.3,
+              "end": 119.14,
+              "text": "I'm already sort of adjacent."
+            },
+            {
+              "id": "0034",
+              "start": 120.54,
+              "end": 126.86,
+              "text": "Outside your apartment, specifically, with the old bulb, the new bulb, and an optimism that"
+            },
+            {
+              "id": "0035",
+              "start": 126.86,
+              "end": 128.26,
+              "text": "now seems theatrical."
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-slow-p010",
+          "speaker": "Nora",
+          "cues": [
+            {
+              "id": "0036",
+              "start": 129.14,
+              "end": 136.1,
+              "text": "So this call was not \"can I borrow the ladder?\" It was \"please open the"
+            },
+            {
+              "id": "0037",
+              "start": 136.1,
+              "end": 139.84,
+              "text": "door before I look stranger than I already do.\""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-slow-p011",
+          "speaker": "Leo",
+          "cues": [
+            {
+              "id": "0038",
+              "start": 141.1,
+              "end": 142.12,
+              "text": "That's a fair reading."
+            },
+            {
+              "id": "0039",
+              "start": 142.9,
+              "end": 148.42,
+              "text": "I was trying to arrive with context rather than just knock while holding equipment like"
+            },
+            {
+              "id": "0040",
+              "start": 148.42,
+              "end": 151.74,
+              "text": "a very local emergency and frightening your doorbell."
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-slow-p012",
+          "speaker": "Nora",
+          "cues": [
+            {
+              "id": "0041",
+              "start": 152.54,
+              "end": 157.08,
+              "text": "You arrived with a ladder-shaped silence on the other side of my door."
+            },
+            {
+              "id": "0042",
+              "start": 157.98,
+              "end": 162.22,
+              "text": "There's a difference, especially when the hallway has witnesses."
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-slow-p013",
+          "speaker": "Leo",
+          "cues": [
+            {
+              "id": "0043",
+              "start": 162.22,
+              "end": 167.08,
+              "text": "Anyway, shall I knock, or has the phone call become the knock?"
+            },
+            {
+              "id": "0044",
+              "start": 167.78,
+              "end": 174.6,
+              "text": "I'm happy to respect whichever system your pasta prefers, including silence with occasional regret."
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-slow-p014",
+          "speaker": "Nora",
+          "cues": [
+            {
+              "id": "0045",
+              "start": 175.58,
+              "end": 176.04,
+              "text": "Right then."
+            },
+            {
+              "id": "0046",
+              "start": 177.38,
+              "end": 182.341,
+              "text": "Stay there, stop narrating, and don't lean on the door."
+            },
+            {
+              "id": "0047",
+              "start": 183.26,
+              "end": 189.44,
+              "text": "I've got pasta in a dangerous stage and a neighbor in a stranger one."
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-slow-p015",
+          "speaker": "Leo",
+          "cues": [
+            {
+              "id": "0048",
+              "start": 189.44,
+              "end": 190.76,
+              "text": "Understood."
+            },
+            {
+              "id": "0049",
+              "start": 191.84,
+              "end": 192.58,
+              "text": "Quiet neighbor mode."
+            },
+            {
+              "id": "0050",
+              "start": 193.26,
+              "end": 193.66,
+              "text": "Mostly."
+            },
+            {
+              "id": "0051",
+              "start": 194.42,
+              "end": 197.58,
+              "text": "If the bulb starts a speech, that's not on me."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-explanation",
+      "label": "Explanation",
+      "isDialogue": false,
+      "paragraphs": [
+        {
+          "id": "03-explanation-p001",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0052",
+              "start": 203.72,
+              "end": 209.38,
+              "text": "Leo begins with \"So, quick thing.\" This is a soft opening."
+            },
+            {
+              "id": "0053",
+              "start": 210.1,
+              "end": 217.08,
+              "text": "The word \"so\" leans forward and says, \"I am bringing something up now.\" Then \"quick"
+            },
+            {
+              "id": "0054",
+              "start": 217.08,
+              "end": 221.3,
+              "text": "thing\" makes the request sound small before we know what it is."
+            },
+            {
+              "id": "0055",
+              "start": 222.02,
+              "end": 224.94,
+              "text": "In daily talk, this can be friendly and"
+            },
+            {
+              "id": "0056",
+              "start": 224.94,
+              "end": 230.34,
+              "text": "efficient: \"So, quick thing, can I borrow"
+            },
+            {
+              "id": "0057",
+              "start": 230.34,
+              "end": 237.04,
+              "text": "your charger?\" But it can also be a warning sign, because many \"quick things\" are"
+            },
+            {
+              "id": "0058",
+              "start": 237.04,
+              "end": 238.28,
+              "text": "not quick at all."
+            },
+            {
+              "id": "0059",
+              "start": 239.3,
+              "end": 240.96,
+              "text": "Nora hears that immediately."
+            },
+            {
+              "id": "0060",
+              "start": 241.84,
+              "end": 247.22,
+              "text": "Her reply does not reject the request; it questions the shape of the conversation."
+            },
+            {
+              "id": "0061",
+              "start": 247.22,
+              "end": 250.241,
+              "text": "She is already preparing to steer."
+            },
+            {
+              "id": "0062",
+              "start": 251.42,
+              "end": 256.96,
+              "text": "Notice the placement: \"so\" comes before the request, not inside it."
+            },
+            {
+              "id": "0063",
+              "start": 257.7,
+              "end": 259.3,
+              "text": "It frames the whole turn."
+            },
+            {
+              "id": "0064",
+              "start": 260.5,
+              "end": 266.8,
+              "text": "If the voice rises gently after \"so\", the opening feels warm; if it lands too"
+            },
+            {
+              "id": "0065",
+              "start": 266.8,
+              "end": 269.0,
+              "text": "heavily, it can sound like an announcement."
+            },
+            {
+              "id": "0066",
+              "start": 269.68,
+              "end": 274.82,
+              "text": "In a real call, the first marker often tells you what kind of turn is"
+            },
+            {
+              "id": "0067",
+              "start": 274.82,
+              "end": 277.44,
+              "text": "coming before the practical content arrives."
+            }
+          ]
+        },
+        {
+          "id": "03-explanation-p002",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0068",
+              "start": 278.62,
+              "end": 281.04,
+              "text": "Nora says, \"I wasn't planning to."
+            },
+            {
+              "id": "0069",
+              "start": 281.72,
+              "end": 287.14,
+              "text": "Why does that sound like the opening of a much longer thing?\" Notice the contraction"
+            },
+            {
+              "id": "0070",
+              "start": 287.14,
+              "end": 288.06,
+              "text": "\"wasn't\"."
+            },
+            {
+              "id": "0071",
+              "start": 289.02,
+              "end": 291.96,
+              "text": "It keeps the answer light and spoken."
+            },
+            {
+              "id": "0072",
+              "start": 292.86,
+              "end": 295.88,
+              "text": "More importantly, she names the social pattern."
+            },
+            {
+              "id": "0073",
+              "start": 297.48,
+              "end": 302.84,
+              "text": "Leo has not yet asked for the ladder directly, but his opening has the sound"
+            },
+            {
+              "id": "0074",
+              "start": 302.84,
+              "end": 303.88,
+              "text": "of a story."
+            },
+            {
+              "id": "0075",
+              "start": 304.9,
+              "end": 310.48,
+              "text": "\"A much longer thing\" is a useful everyday phrase for a request that is pretending"
+            },
+            {
+              "id": "0076",
+              "start": 310.48,
+              "end": 311.28,
+              "text": "to be simple."
+            },
+            {
+              "id": "0077",
+              "start": 312.18,
+              "end": 317.24,
+              "text": "At this point the scene is still open: Nora might help, but she will not"
+            },
+            {
+              "id": "0078",
+              "start": 317.24,
+              "end": 319.68,
+              "text": "let Leo hide the size of the favor."
+            },
+            {
+              "id": "0079",
+              "start": 320.78,
+              "end": 325.96,
+              "text": "This is social listening: she hears the request behind the pre-request."
+            },
+            {
+              "id": "0080",
+              "start": 326.72,
+              "end": 333.38,
+              "text": "A similar line could appear before a long explanation, a delayed apology, or a favor"
+            },
+            {
+              "id": "0081",
+              "start": 333.38,
+              "end": 336.06,
+              "text": "that arrives wrapped in too much background."
+            },
+            {
+              "id": "0082",
+              "start": 336.52,
+              "end": 343.44,
+              "text": "The humor stays gentle because she questions the shape of the request, not Leo himself."
+            }
+          ]
+        },
+        {
+          "id": "03-explanation-p003",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0083",
+              "start": 344.32,
+              "end": 351.22,
+              "text": "Leo answers, \"Well, it depends...\" Here \"well\" is not just filler."
+            },
+            {
+              "id": "0084",
+              "start": 351.22,
+              "end": 355.82,
+              "text": "It tells the listener that the answer is not straightforward."
+            },
+            {
+              "id": "0085",
+              "start": 356.82,
+              "end": 359.96,
+              "text": "If someone asks, \"Can you come tonight?\" and"
+            },
+            {
+              "id": "0086",
+              "start": 359.96,
+              "end": 364.08,
+              "text": "the answer begins \"Well...\", you already expect"
+            },
+            {
+              "id": "0087",
+              "start": 364.08,
+              "end": 367.34,
+              "text": "a condition, a delay, or a soft no."
+            },
+            {
+              "id": "0088",
+              "start": 368.32,
+              "end": 374.06,
+              "text": "Leo then makes the line more comic: \"how emotionally attached you are to your hallway"
+            },
+            {
+              "id": "0089",
+              "start": 374.06,
+              "end": 378.06,
+              "text": "light bulb.\" He could simply say, \"Your light"
+            },
+            {
+              "id": "0090",
+              "start": 378.06,
+              "end": 381.38,
+              "text": "is out.\" Instead, he treats the bulb"
+            },
+            {
+              "id": "0091",
+              "start": 381.38,
+              "end": 382.48,
+              "text": "like a relationship."
+            },
+            {
+              "id": "0092",
+              "start": 383.52,
+              "end": 387.38,
+              "text": "The marker gives him time; the image gives him personality."
+            },
+            {
+              "id": "0093",
+              "start": 388.44,
+              "end": 393.3,
+              "text": "If he began with a plain \"yes\" or \"no\", the social warning would disappear."
+            },
+            {
+              "id": "0094",
+              "start": 394.3,
+              "end": 400.44,
+              "text": "The pause after \"well\" also matters: it gives the listener a tiny moment to prepare"
+            },
+            {
+              "id": "0095",
+              "start": 400.44,
+              "end": 401.46,
+              "text": "for complication."
+            },
+            {
+              "id": "0096",
+              "start": 402.58,
+              "end": 408.34,
+              "text": "In speech, that tiny delay can be kinder than a blunt answer, because it lets"
+            },
+            {
+              "id": "0097",
+              "start": 408.34,
+              "end": 411.28,
+              "text": "the other person adjust before the news arrives."
+            }
+          ]
+        },
+        {
+          "id": "03-explanation-p004",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0098",
+              "start": 411.98,
+              "end": 414.54,
+              "text": "Nora's short \"Right\" does a different job."
+            },
+            {
+              "id": "0099",
+              "start": 415.2,
+              "end": 418.261,
+              "text": "It is not the tag \"right?\" at the end of a question."
+            },
+            {
+              "id": "0100",
+              "start": 418.86,
+              "end": 422.36,
+              "text": "It is a compact acknowledgment: \"I hear enough"
+            },
+            {
+              "id": "0101",
+              "start": 422.36,
+              "end": 426.06,
+              "text": "to continue.\" Then she says, \"That is"
+            },
+            {
+              "id": "0102",
+              "start": 426.06,
+              "end": 431.32,
+              "text": "not a quick thing.\" She pulls the call back from Leo's dramatic wording to the"
+            },
+            {
+              "id": "0103",
+              "start": 431.32,
+              "end": 432.3,
+              "text": "practical issue."
+            },
+            {
+              "id": "0104",
+              "start": 433.88,
+              "end": 439.48,
+              "text": "\"Is something broken?\" is direct, but not rude."
+            },
+            {
+              "id": "0105",
+              "start": 440.46,
+              "end": 445.32,
+              "text": "The rhythm matters: short marker, short judgment, short question."
+            },
+            {
+              "id": "0106",
+              "start": 446.58,
+              "end": 451.9,
+              "text": "Nora is not giving a speech; she is tightening the exchange so Leo has to"
+            },
+            {
+              "id": "0107",
+              "start": 451.9,
+              "end": 452.42,
+              "text": "answer clearly."
+            },
+            {
+              "id": "0108",
+              "start": 453.42,
+              "end": 456.84,
+              "text": "A rising \"right?\" would ask for confirmation."
+            },
+            {
+              "id": "0109",
+              "start": 457.92,
+              "end": 461.48,
+              "text": "This flat \"Right\" keeps control of the floor."
+            },
+            {
+              "id": "0110",
+              "start": 462.16,
+              "end": 466.94,
+              "text": "In a phone call, that kind of short turn is useful because the other person"
+            },
+            {
+              "id": "0111",
+              "start": 466.94,
+              "end": 469.56,
+              "text": "cannot see your face or your impatience."
+            },
+            {
+              "id": "0112",
+              "start": 470.52,
+              "end": 477.5,
+              "text": "It also lets her sound alert rather than annoyed: she has understood the problem is"
+            },
+            {
+              "id": "0113",
+              "start": 477.5,
+              "end": 481.4,
+              "text": "probably bigger, and she wants the usable version now."
+            }
+          ]
+        },
+        {
+          "id": "03-explanation-p005",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0114",
+              "start": 482.38,
+              "end": 485.18,
+              "text": "Leo says the light is \"not broken."
+            },
+            {
+              "id": "0115",
+              "start": 485.82,
+              "end": 490.58,
+              "text": "More... committed to darkness.\" The little repair, \"More"
+            },
+            {
+              "id": "0116",
+              "start": 491.5,
+              "end": 493.74,
+              "text": "sounds like someone adjusting the wording while"
+            },
+            {
+              "id": "0117",
+              "start": 493.74,
+              "end": 494.36,
+              "text": "speaking."
+            },
+            {
+              "id": "0118",
+              "start": 495.14,
+              "end": 501.94,
+              "text": "\"Committed to darkness\" is humorous personification: an object is described as if it has chosen"
+            },
+            {
+              "id": "0119",
+              "start": 501.94,
+              "end": 502.62,
+              "text": "a position."
+            },
+            {
+              "id": "0120",
+              "start": 503.8,
+              "end": 509.14,
+              "text": "People use this dry trick for small problems: a phone that is not dead, just"
+            },
+            {
+              "id": "0121",
+              "start": 509.14,
+              "end": 511.401,
+              "text": "resting, or a printer on strike."
+            },
+            {
+              "id": "0122",
+              "start": 512.25,
+              "end": 517.24,
+              "text": "Giving an object a will makes a complaint sound playful rather than flat."
+            },
+            {
+              "id": "0123",
+              "start": 518.28,
+              "end": 522.68,
+              "text": "Then Leo mentions soup, laundry, and confidence after nine."
+            },
+            {
+              "id": "0124",
+              "start": 523.96,
+              "end": 528.16,
+              "text": "The list makes the dark stairs feel practical, not abstract."
+            },
+            {
+              "id": "0125",
+              "start": 529.22,
+              "end": 530.76,
+              "text": "He is still drifting, though."
+            },
+            {
+              "id": "0126",
+              "start": 531.84,
+              "end": 536.64,
+              "text": "We understand the problem, but Nora still does not have the simple request."
+            },
+            {
+              "id": "0127",
+              "start": 536.64,
+              "end": 540.52,
+              "text": "The conversation needs another steering move."
+            },
+            {
+              "id": "0128",
+              "start": 541.62,
+              "end": 547.2,
+              "text": "This is where a fluent speaker often uses a marker to avoid sounding abrupt."
+            },
+            {
+              "id": "0129",
+              "start": 548.38,
+              "end": 553.64,
+              "text": "Nora could jump in with \"What do you want?\", but that would change the relationship"
+            },
+            {
+              "id": "0130",
+              "start": 553.64,
+              "end": 554.3,
+              "text": "temperature."
+            },
+            {
+              "id": "0131",
+              "start": 555.1,
+              "end": 559.8,
+              "text": "Her next move keeps the shared humor alive while still making the call useful."
+            },
+            {
+              "id": "0132",
+              "start": 560.22,
+              "end": 566.9,
+              "text": "The list also reveals Leo's style: he turns a small maintenance task into a public-safety"
+            },
+            {
+              "id": "0133",
+              "start": 566.9,
+              "end": 571.021,
+              "text": "story, which is exactly why Nora has to manage the pace."
+            }
+          ]
+        },
+        {
+          "id": "03-explanation-p006",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0134",
+              "start": 572.1,
+              "end": 578.161,
+              "text": "Nora uses \"Anyway\" to pivot: \"Anyway, do you need the ladder, or are we discussing"
+            },
+            {
+              "id": "0135",
+              "start": 578.162,
+              "end": 583.68,
+              "text": "stair justice as a civic principle?\" This is the classic job of \"anyway\"."
+            },
+            {
+              "id": "0136",
+              "start": 584.52,
+              "end": 588.5,
+              "text": "It closes one thread and returns to the useful path."
+            },
+            {
+              "id": "0137",
+              "start": 588.5,
+              "end": 593.2,
+              "text": "The phrase \"stair justice\" copies Leo's dramatic"
+            },
+            {
+              "id": "0138",
+              "start": 593.2,
+              "end": 595.641,
+              "text": "tone but shrinks it into a joke"
+            },
+            {
+              "id": "0139",
+              "start": 596.72,
+              "end": 600.32,
+              "text": "In another setting, \"anyway\" can sound dismissive."
+            },
+            {
+              "id": "0140",
+              "start": 601.1,
+              "end": 605.72,
+              "text": "Here it is controlled and warm because Nora keeps the humor while moving the call"
+            },
+            {
+              "id": "0141",
+              "start": 605.72,
+              "end": 606.24,
+              "text": "forward."
+            },
+            {
+              "id": "0142",
+              "start": 607.08,
+              "end": 611.5,
+              "text": "She is not ignoring Leo; she is rescuing the call from the tangent."
+            },
+            {
+              "id": "0143",
+              "start": 611.78,
+              "end": 617.16,
+              "text": "The listener hears both things at once: affection and direction."
+            },
+            {
+              "id": "0144",
+              "start": 617.16,
+              "end": 621.78,
+              "text": "This is why \"anyway\" needs care; it can"
+            },
+            {
+              "id": "0145",
+              "start": 621.78,
+              "end": 624.64,
+              "text": "close a side path politely or cut"
+            },
+            {
+              "id": "0146",
+              "start": 624.64,
+              "end": 625.78,
+              "text": "someone off sharply."
+            },
+            {
+              "id": "0147",
+              "start": 626.8,
+              "end": 632.3,
+              "text": "If the voice is light and quick, it feels like a helpful return; if it"
+            },
+            {
+              "id": "0148",
+              "start": 632.3,
+              "end": 635.5,
+              "text": "is hard and flat, it can feel like a shutdown."
+            }
+          ]
+        },
+        {
+          "id": "03-explanation-p007",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0149",
+              "start": 636.06,
+              "end": 639.66,
+              "text": "Leo's answer is beautifully spoken: \"Ladder."
+            },
+            {
+              "id": "0150",
+              "start": 640.42,
+              "end": 641.46,
+              "text": "Definitely ladder."
+            },
+            {
+              "id": "0151",
+              "start": 642.08,
+              "end": 648.26,
+              "text": "I mean, also justice, but mainly ladder.\" The fragments are important."
+            },
+            {
+              "id": "0152",
+              "start": 649.06,
+              "end": 651.66,
+              "text": "He does not say a polished full sentence."
+            },
+            {
+              "id": "0153",
+              "start": 652.64,
+              "end": 657.0,
+              "text": "He gives a one-word answer, strengthens it, then repairs himself."
+            },
+            {
+              "id": "0154",
+              "start": 657.84,
+              "end": 662.92,
+              "text": "\"I mean\" signals that he is rephrasing or correcting the previous bit."
+            },
+            {
+              "id": "0155",
+              "start": 663.78,
+              "end": 667.84,
+              "text": "In daily English, \"I mean\" often softens a"
+            },
+            {
+              "id": "0156",
+              "start": 667.84,
+              "end": 670.96,
+              "text": "change of direction: \"I mean, I can"
+            },
+            {
+              "id": "0157",
+              "start": 670.96,
+              "end": 675.36,
+              "text": "help, just not tonight.\" Here it lets Leo"
+            },
+            {
+              "id": "0158",
+              "start": 675.36,
+              "end": 678.2,
+              "text": "keep the comic idea of justice while"
+            },
+            {
+              "id": "0159",
+              "start": 678.2,
+              "end": 681.301,
+              "text": "admitting the practical object is the ladder."
+            },
+            {
+              "id": "0160",
+              "start": 682.58,
+              "end": 687.84,
+              "text": "Without the fragments, the line would lose its live, slightly embarrassed rhythm."
+            },
+            {
+              "id": "0161",
+              "start": 688.78,
+              "end": 695.481,
+              "text": "The correction also tells Nora that her steering worked: he has returned to the object."
+            },
+            {
+              "id": "0162",
+              "start": 696.28,
+              "end": 701.72,
+              "text": "The order is useful: object first, joke second, object again."
+            },
+            {
+              "id": "0163",
+              "start": 701.72,
+              "end": 707.26,
+              "text": "That is why the line stays clear even though Leo is being ridiculous."
+            },
+            {
+              "id": "0164",
+              "start": 708.38,
+              "end": 714.16,
+              "text": "It is also why the dialogue can stay fast later: the listener has a firm"
+            },
+            {
+              "id": "0165",
+              "start": 714.16,
+              "end": 715.86,
+              "text": "noun to hold onto."
+            }
+          ]
+        },
+        {
+          "id": "03-explanation-p008",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0166",
+              "start": 716.56,
+              "end": 719.84,
+              "text": "Nora gives a clear plan: \"come by in"
+            },
+            {
+              "id": "0167",
+              "start": 719.84,
+              "end": 724.08,
+              "text": "ten minutes.\" Leo then says, \"Right, about"
+            },
+            {
+              "id": "0168",
+              "start": 724.08,
+              "end": 728.22,
+              "text": "'come by'.\" This \"right\" prepares a correction."
+            },
+            {
+              "id": "0169",
+              "start": 728.22,
+              "end": 735.14,
+              "text": "The phrase \"about...\" is a gentle way to revisit a detail that no longer fits."
+            },
+            {
+              "id": "0170",
+              "start": 736.04,
+              "end": 738.6,
+              "text": "Then comes the dry word \"adjacent\"."
+            },
+            {
+              "id": "0171",
+              "start": 739.5,
+              "end": 744.74,
+              "text": "It means very near or next to something, but it sounds slightly too formal for"
+            },
+            {
+              "id": "0172",
+              "start": 744.74,
+              "end": 745.52,
+              "text": "a neighbor call."
+            },
+            {
+              "id": "0173",
+              "start": 746.66,
+              "end": 751.44,
+              "text": "Leo immediately cushions it: \"Outside your apartment, specifically"
+            },
+            {
+              "id": "0174",
+              "start": 752.36,
+              "end": 755.3,
+              "text": "That plain phrase makes the meaning recoverable"
+            },
+            {
+              "id": "0175",
+              "start": 755.3,
+              "end": 758.62,
+              "text": "He is not somewhere nearby in theory."
+            },
+            {
+              "id": "0176",
+              "start": 759.46,
+              "end": 760.901,
+              "text": "He is already at the door."
+            },
+            {
+              "id": "0177",
+              "start": 761.86,
+              "end": 765.301,
+              "text": "The careful word hides the awkwardness for half a second."
+            },
+            {
+              "id": "0178",
+              "start": 766.26,
+              "end": 770.84,
+              "text": "This is a good example of a stretch word made clear by the next phrase."
+            },
+            {
+              "id": "0179",
+              "start": 771.62,
+              "end": 778.5,
+              "text": "It is also a useful listening pattern: when someone says \"about that\", expect a correction,"
+            },
+            {
+              "id": "0180",
+              "start": 779.1,
+              "end": 781.52,
+              "text": "a problem, or a missing condition."
+            },
+            {
+              "id": "0181",
+              "start": 782.34,
+              "end": 785.98,
+              "text": "The politeness is indirect, but the information is"
+            },
+            {
+              "id": "0182",
+              "start": 785.98,
+              "end": 790.44,
+              "text": "not: after \"specifically\", there is nowhere left"
+            },
+            {
+              "id": "0183",
+              "start": 790.44,
+              "end": 791.041,
+              "text": "to hide."
+            }
+          ]
+        },
+        {
+          "id": "03-explanation-p009",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0184",
+              "start": 791.84,
+              "end": 798.4,
+              "text": "Now Nora uses the other kind of \"so\": \"So this call was not 'can I"
+            },
+            {
+              "id": "0185",
+              "start": 798.4,
+              "end": 804.34,
+              "text": "borrow the ladder?' It was 'please open the door before I look stranger than I"
+            },
+            {
+              "id": "0186",
+              "start": 804.34,
+              "end": 808.52,
+              "text": "already do.'\" This is inferential \"so\"."
+            },
+            {
+              "id": "0187",
+              "start": 809.12,
+              "end": 814.44,
+              "text": "It does not open a topic; it draws a conclusion from what Leo has implied"
+            },
+            {
+              "id": "0188",
+              "start": 815.04,
+              "end": 819.94,
+              "text": "and puts that conclusion back to him for confirmation, which is why he can answer,"
+            },
+            {
+              "id": "0189",
+              "start": 820.68,
+              "end": 826.66,
+              "text": "\"That's a fair reading.\" The contrast between the two quoted versions is the heart of"
+            },
+            {
+              "id": "0190",
+              "start": 826.66,
+              "end": 827.26,
+              "text": "the turn."
+            },
+            {
+              "id": "0191",
+              "start": 828.32,
+              "end": 833.78,
+              "text": "Nora translates the polite request into the real social situation."
+            },
+            {
+              "id": "0192",
+              "start": 835.06,
+              "end": 842.02,
+              "text": "Leo has tried to arrive with context, but Nora hears the awkward truth underneath it."
+            },
+            {
+              "id": "0193",
+              "start": 842.98,
+              "end": 848.92,
+              "text": "The tone should land flatter than the opening \"so\", because it is a deduction, not"
+            },
+            {
+              "id": "0194",
+              "start": 848.92,
+              "end": 849.88,
+              "text": "a new topic."
+            },
+            {
+              "id": "0195",
+              "start": 850.84,
+              "end": 856.74,
+              "text": "In listening, that difference is often clearer from the melody than from the word itself."
+            },
+            {
+              "id": "0196",
+              "start": 856.98,
+              "end": 861.38,
+              "text": "The line also protects the comedy: Nora does"
+            },
+            {
+              "id": "0197",
+              "start": 861.38,
+              "end": 864.02,
+              "text": "not call him strange directly as an"
+            },
+            {
+              "id": "0198",
+              "start": 864.02,
+              "end": 868.06,
+              "text": "insult; she turns his situation into a quoted message."
+            }
+          ]
+        },
+        {
+          "id": "03-explanation-p010",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0199",
+              "start": 869.0,
+              "end": 875.26,
+              "text": "Leo accepts the reading: \"That's a fair reading.\" This phrase is a useful way to"
+            },
+            {
+              "id": "0200",
+              "start": 875.26,
+              "end": 877.1,
+              "text": "concede without sounding defeated."
+            },
+            {
+              "id": "0201",
+              "start": 877.84,
+              "end": 884.46,
+              "text": "He says he wanted to arrive with context, not \"like a very local emergency.\" A"
+            },
+            {
+              "id": "0202",
+              "start": 884.46,
+              "end": 889.4,
+              "text": "local emergency is small in scale but urgent in that one place."
+            },
+            {
+              "id": "0203",
+              "start": 890.48,
+              "end": 894.26,
+              "text": "Nora answers with \"a ladder-shaped silence\", a"
+            },
+            {
+              "id": "0204",
+              "start": 894.26,
+              "end": 897.94,
+              "text": "dry image for someone waiting outside without knocking"
+            },
+            {
+              "id": "0205",
+              "start": 898.28,
+              "end": 904.64,
+              "text": "The phrase is not literal, but the meaning is clear from the scene: his presence"
+            },
+            {
+              "id": "0206",
+              "start": 904.64,
+              "end": 906.62,
+              "text": "is already communicating."
+            },
+            {
+              "id": "0207",
+              "start": 907.68,
+              "end": 910.86,
+              "text": "The hallway witnesses make the pressure more social."
+            },
+            {
+              "id": "0208",
+              "start": 910.86,
+              "end": 915.72,
+              "text": "The image also keeps Nora from sounding genuinely angry."
+            },
+            {
+              "id": "0209",
+              "start": 916.76,
+              "end": 921.34,
+              "text": "She is correcting the behavior while still playing inside Leo's comic frame."
+            },
+            {
+              "id": "0210",
+              "start": 922.16,
+              "end": 927.78,
+              "text": "At a service counter, in a kitchen, or in a hallway, that balance matters: the"
+            },
+            {
+              "id": "0211",
+              "start": 927.78,
+              "end": 933.18,
+              "text": "problem needs to move, but the person must not feel crushed by the correction."
+            },
+            {
+              "id": "0212",
+              "start": 934.78,
+              "end": 940.96,
+              "text": "\"Fair reading\" and \"there's a difference\" are both firm, but neither one turns the exchange"
+            },
+            {
+              "id": "0213",
+              "start": 940.96,
+              "end": 941.781,
+              "text": "into a fight."
+            }
+          ]
+        },
+        {
+          "id": "03-explanation-p011",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0214",
+              "start": 942.42,
+              "end": 948.58,
+              "text": "Leo then tries one more steering move: \"Anyway, shall I knock, or has the phone"
+            },
+            {
+              "id": "0215",
+              "start": 948.58,
+              "end": 954.18,
+              "text": "call become the knock?\" Again, \"anyway\" pulls the talk toward action."
+            },
+            {
+              "id": "0216",
+              "start": 954.92,
+              "end": 958.08,
+              "text": "The second half is the reveal in practical form."
+            },
+            {
+              "id": "0217",
+              "start": 958.58,
+              "end": 961.881,
+              "text": "A knock usually announces that someone is at the door."
+            },
+            {
+              "id": "0218",
+              "start": 962.74,
+              "end": 965.86,
+              "text": "Here, the call has already done that work."
+            },
+            {
+              "id": "0219",
+              "start": 966.86,
+              "end": 973.58,
+              "text": "The phrase \"whichever system your pasta prefers\" keeps Nora's cooking pressure inside the scene."
+            },
+            {
+              "id": "0220",
+              "start": 974.68,
+              "end": 979.98,
+              "text": "Leo is still playful, but he is finally asking what to do now, not adding"
+            },
+            {
+              "id": "0221",
+              "start": 979.98,
+              "end": 980.96,
+              "text": "more background."
+            },
+            {
+              "id": "0222",
+              "start": 981.88,
+              "end": 985.16,
+              "text": "That is the shift from story to action."
+            },
+            {
+              "id": "0223",
+              "start": 985.74,
+              "end": 991.76,
+              "text": "The marker helps him climb back from the awkward reveal into a useful next step."
+            },
+            {
+              "id": "0224",
+              "start": 992.71,
+              "end": 995.661,
+              "text": "Notice that he asks a real question at the end."
+            },
+            {
+              "id": "0225",
+              "start": 996.54,
+              "end": 1001.6,
+              "text": "After all the comic wording, he finally gives Nora the power to choose the next"
+            },
+            {
+              "id": "0226",
+              "start": 1001.6,
+              "end": 1002.2,
+              "text": "move."
+            },
+            {
+              "id": "0227",
+              "start": 1002.86,
+              "end": 1008.92,
+              "text": "That matters socially because he is standing in her space; the choice should belong to"
+            },
+            {
+              "id": "0228",
+              "start": 1008.92,
+              "end": 1011.181,
+              "text": "the person inside the door."
+            }
+          ]
+        },
+        {
+          "id": "03-explanation-p012",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0229",
+              "start": 1012.3,
+              "end": 1017.16,
+              "text": "Nora closes with \"Right then.\" This should fall, not rise."
+            },
+            {
+              "id": "0230",
+              "start": 1017.16,
+              "end": 1022.42,
+              "text": "A rising \"right?\" would invite confirmation; a falling"
+            },
+            {
+              "id": "0231",
+              "start": 1022.82,
+              "end": 1027.14,
+              "text": "Right then\" says, \"Decision made.\" Her instructions"
+            },
+            {
+              "id": "0232",
+              "start": 1027.14,
+              "end": 1033.101,
+              "text": "are concrete: stay there, stop narrating, do not lean on the door."
+            },
+            {
+              "id": "0233",
+              "start": 1034.34,
+              "end": 1039.5,
+              "text": "\"Pasta in a dangerous stage\" keeps the kitchen pressure funny and immediate."
+            },
+            {
+              "id": "0234",
+              "start": 1040.48,
+              "end": 1043.1,
+              "text": "Leo's final \"Quiet neighbor mode."
+            },
+            {
+              "id": "0235",
+              "start": 1043.4,
+              "end": 1048.32,
+              "text": "Mostly.\" accepts the close while leaving a tiny bit of character noise."
+            },
+            {
+              "id": "0236",
+              "start": 1049.1,
+              "end": 1055.78,
+              "text": "The word \"mostly\" is important because it leaves one last little opening for Leo's personality"
+            },
+            {
+              "id": "0237",
+              "start": 1055.78,
+              "end": 1058.741,
+              "text": "without reopening the call."
+            },
+            {
+              "id": "0238",
+              "start": 1059.9,
+              "end": 1066.56,
+              "text": "The small words have moved the call from request, to tangent, to inference, to action."
+            },
+            {
+              "id": "0239",
+              "start": 1067.4,
+              "end": 1073.5,
+              "text": "That is why they matter in listening: they show where the conversation is going before"
+            },
+            {
+              "id": "0240",
+              "start": 1073.5,
+              "end": 1075.5,
+              "text": "the main information arrives."
+            },
+            {
+              "id": "0241",
+              "start": 1076.44,
+              "end": 1082.32,
+              "text": "In a real call, you might miss one detail and still follow the exchange if"
+            },
+            {
+              "id": "0242",
+              "start": 1082.32,
+              "end": 1084.02,
+              "text": "you hear these steering points."
+            },
+            {
+              "id": "0243",
+              "start": 1084.68,
+              "end": 1090.46,
+              "text": "Now let's listen to the dialogue again, this time at natural speed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04-dialogue-natural",
+      "label": "Dialogue - natural speed",
+      "isDialogue": true,
+      "paragraphs": [
+        {
+          "id": "04-dialogue-natural-p001",
+          "speaker": "Leo",
+          "cues": [
+            {
+              "id": "0244",
+              "start": 1097.0,
+              "end": 1098.4,
+              "text": "So, quick thing."
+            },
+            {
+              "id": "0245",
+              "start": 1098.76,
+              "end": 1100.52,
+              "text": "Are you using your step ladder tonight?"
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-natural-p002",
+          "speaker": "Nora",
+          "cues": [
+            {
+              "id": "0246",
+              "start": 1100.78,
+              "end": 1102.32,
+              "text": "I wasn't planning to."
+            },
+            {
+              "id": "0247",
+              "start": 1102.9,
+              "end": 1105.66,
+              "text": "Why does that sound like the opening of a much longer thing?"
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-natural-p003",
+          "speaker": "Leo",
+          "cues": [
+            {
+              "id": "0248",
+              "start": 1106.18,
+              "end": 1111.32,
+              "text": "Well, it depends how emotionally attached you are to your hallway light bulb, and whether"
+            },
+            {
+              "id": "0249",
+              "start": 1111.32,
+              "end": 1114.48,
+              "text": "you believe stairs deserve warning labels after sunset."
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-natural-p004",
+          "speaker": "Nora",
+          "cues": [
+            {
+              "id": "0250",
+              "start": 1115.12,
+              "end": 1115.82,
+              "text": "Right."
+            },
+            {
+              "id": "0251",
+              "start": 1115.82,
+              "end": 1117.94,
+              "text": "That is not a quick thing."
+            },
+            {
+              "id": "0252",
+              "start": 1118.66,
+              "end": 1120.02,
+              "text": "Is something broken?"
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-natural-p005",
+          "speaker": "Leo",
+          "cues": [
+            {
+              "id": "0253",
+              "start": 1120.02,
+              "end": 1121.76,
+              "text": "Not broken."
+            },
+            {
+              "id": "0254",
+              "start": 1122.66,
+              "end": 1124.98,
+              "text": "More... committed to darkness."
+            },
+            {
+              "id": "0255",
+              "start": 1125.96,
+              "end": 1130.68,
+              "text": "I changed my bulb, then noticed your landing light is also out, which feels unfair"
+            },
+            {
+              "id": "0256",
+              "start": 1130.68,
+              "end": 1134.68,
+              "text": "to everyone carrying soup, laundry, or confidence after nine."
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-natural-p006",
+          "speaker": "Nora",
+          "cues": [
+            {
+              "id": "0257",
+              "start": 1135.5,
+              "end": 1140.381,
+              "text": "Anyway, do you need the ladder, or are we discussing stair justice as a civic"
+            },
+            {
+              "id": "0258",
+              "start": 1140.382,
+              "end": 1140.9,
+              "text": "principle?"
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-natural-p007",
+          "speaker": "Leo",
+          "cues": [
+            {
+              "id": "0259",
+              "start": 1141.88,
+              "end": 1141.96,
+              "text": "Ladder."
+            },
+            {
+              "id": "0260",
+              "start": 1142.84,
+              "end": 1143.72,
+              "text": "Definitely ladder."
+            },
+            {
+              "id": "0261",
+              "start": 1144.38,
+              "end": 1147.3,
+              "text": "I mean, also justice, but mainly ladder."
+            },
+            {
+              "id": "0262",
+              "start": 1147.3,
+              "end": 1152.88,
+              "text": "I thought if I fixed both bulbs, we'd all enjoy not falling with dignity, which"
+            },
+            {
+              "id": "0263",
+              "start": 1152.88,
+              "end": 1154.86,
+              "text": "feels like a shared building goal."
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-natural-p008",
+          "speaker": "Nora",
+          "cues": [
+            {
+              "id": "0264",
+              "start": 1155.28,
+              "end": 1155.52,
+              "text": "Fine."
+            },
+            {
+              "id": "0265",
+              "start": 1155.72,
+              "end": 1159.721,
+              "text": "I'm cooking, so come by in ten minutes and I'll leave it by the door."
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-natural-p009",
+          "speaker": "Leo",
+          "cues": [
+            {
+              "id": "0266",
+              "start": 1160.32,
+              "end": 1162.14,
+              "text": "Right, about \"come by\"."
+            },
+            {
+              "id": "0267",
+              "start": 1162.8,
+              "end": 1164.28,
+              "text": "I'm already sort of adjacent."
+            },
+            {
+              "id": "0268",
+              "start": 1165.48,
+              "end": 1170.7,
+              "text": "Outside your apartment, specifically, with the old bulb, the new bulb, and an optimism that"
+            },
+            {
+              "id": "0269",
+              "start": 1170.7,
+              "end": 1171.88,
+              "text": "now seems theatrical."
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-natural-p010",
+          "speaker": "Nora",
+          "cues": [
+            {
+              "id": "0270",
+              "start": 1172.3,
+              "end": 1178.4,
+              "text": "So this call was not \"can I borrow the ladder?\" It was \"please open the"
+            },
+            {
+              "id": "0271",
+              "start": 1178.4,
+              "end": 1181.08,
+              "text": "door before I look stranger than I already do.\""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-natural-p011",
+          "speaker": "Leo",
+          "cues": [
+            {
+              "id": "0272",
+              "start": 1181.98,
+              "end": 1183.36,
+              "text": "That's a fair reading."
+            },
+            {
+              "id": "0273",
+              "start": 1183.92,
+              "end": 1188.6,
+              "text": "I was trying to arrive with context rather than just knock while holding equipment like"
+            },
+            {
+              "id": "0274",
+              "start": 1188.6,
+              "end": 1191.34,
+              "text": "a very local emergency and frightening your doorbell."
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-natural-p012",
+          "speaker": "Nora",
+          "cues": [
+            {
+              "id": "0275",
+              "start": 1191.94,
+              "end": 1195.78,
+              "text": "You arrived with a ladder-shaped silence on the other side of my door."
+            },
+            {
+              "id": "0276",
+              "start": 1196.5,
+              "end": 1200.08,
+              "text": "There's a difference, especially when the hallway has witnesses."
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-natural-p013",
+          "speaker": "Leo",
+          "cues": [
+            {
+              "id": "0277",
+              "start": 1200.66,
+              "end": 1204.06,
+              "text": "Anyway, shall I knock, or has the phone call become the knock?"
+            },
+            {
+              "id": "0278",
+              "start": 1204.06,
+              "end": 1210.52,
+              "text": "I'm happy to respect whichever system your pasta prefers, including silence with occasional regret."
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-natural-p014",
+          "speaker": "Nora",
+          "cues": [
+            {
+              "id": "0279",
+              "start": 1211.06,
+              "end": 1211.56,
+              "text": "Right then."
+            },
+            {
+              "id": "0280",
+              "start": 1212.58,
+              "end": 1216.74,
+              "text": "Stay there, stop narrating, and don't lean on the door."
+            },
+            {
+              "id": "0281",
+              "start": 1217.5,
+              "end": 1222.8,
+              "text": "I've got pasta in a dangerous stage and a neighbor in a stranger one."
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-natural-p015",
+          "speaker": "Leo",
+          "cues": [
+            {
+              "id": "0282",
+              "start": 1223.26,
+              "end": 1223.72,
+              "text": "Understood."
+            },
+            {
+              "id": "0283",
+              "start": 1224.28,
+              "end": 1225.24,
+              "text": "Quiet neighbor mode."
+            },
+            {
+              "id": "0284",
+              "start": 1225.8,
+              "end": 1226.14,
+              "text": "Mostly."
+            },
+            {
+              "id": "0285",
+              "start": 1226.66,
+              "end": 1229.0,
+              "text": "If the bulb starts a speech, that's not on me."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "05-conclusion",
+      "label": "Conclusion",
+      "isDialogue": false,
+      "paragraphs": [
+        {
+          "id": "05-conclusion-p001",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0286",
+              "start": 1235.32,
+              "end": 1239.92,
+              "text": "In this scene, the smallest words carry the shape of the call."
+            },
+            {
+              "id": "0287",
+              "start": 1240.82,
+              "end": 1242.24,
+              "text": "\"So\" opens it."
+            },
+            {
+              "id": "0288",
+              "start": 1242.84,
+              "end": 1244.9,
+              "text": "\"Well\" slows the answer down."
+            },
+            {
+              "id": "0289",
+              "start": 1245.68,
+              "end": 1248.581,
+              "text": "\"Anyway\" pulls everyone back from the tangent."
+            },
+            {
+              "id": "0290",
+              "start": 1249.5,
+              "end": 1255.72,
+              "text": "\"So\" later turns into a conclusion, and \"Right then\" closes the talk with action."
+            },
+            {
+              "id": "0291",
+              "start": 1256.8,
+              "end": 1261.9,
+              "text": "Listen again for where each marker sits, how the voice rises or falls, and how"
+            },
+            {
+              "id": "0292",
+              "start": 1261.9,
+              "end": 1266.7,
+              "text": "Nora keeps the ladder, the door, and the pasta moving in the same direction."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

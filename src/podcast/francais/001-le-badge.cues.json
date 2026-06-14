@@ -1,0 +1,2038 @@
+{
+  "episode": {
+    "id": "francais-001",
+    "title": "Le badge",
+    "audioUrl": "https://media.skepvox.com/podcast/francais/audio/francais-001-le-badge-v8.mp3",
+    "lang": "fr",
+    "durationSeconds": 1346.72
+  },
+  "sections": [
+    {
+      "id": "01-introduction",
+      "label": "Introduction",
+      "isDialogue": false,
+      "paragraphs": [
+        {
+          "id": "01-introduction-p001",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0001",
+              "start": 0.0,
+              "end": 5.227,
+              "text": "Bonjour et bienvenue dans le Podcast de français langue étrangère,"
+            },
+            {
+              "id": "0002",
+              "start": 5.86,
+              "end": 9.22,
+              "text": "le podcast pour apprendre le français avec une scène courte"
+            },
+            {
+              "id": "0003",
+              "start": 9.82,
+              "end": 12.98,
+              "text": "un dialogue vivant et une explication claire"
+            },
+            {
+              "id": "0004",
+              "start": 14.4,
+              "end": 16.64,
+              "text": "Notre dialogue s'appelle \"Le badge\"."
+            },
+            {
+              "id": "0005",
+              "start": 18.26,
+              "end": 22.78,
+              "text": "Claire arrive dans un forum municipal des associations pour aider à l'accueil."
+            },
+            {
+              "id": "0006",
+              "start": 24.28,
+              "end": 30.72,
+              "text": "Elle a un nom, un courriel et une mission assez simple : orienter les visiteurs."
+            },
+            {
+              "id": "0007",
+              "start": 32.66,
+              "end": 35.62,
+              "text": "Mathieu regarde les badges, les salles et les horaires,"
+            },
+            {
+              "id": "0008",
+              "start": 36.48,
+              "end": 39.34,
+              "text": "mais l'organisation du forum n'est pas aussi claire que prévu."
+            },
+            {
+              "id": "0009",
+              "start": 40.7,
+              "end": 47.0,
+              "text": "Aujourd'hui, nous entendrons beaucoup de phrases pour dire qui est qui, et qui doit être où."
+            },
+            {
+              "id": "0010",
+              "start": 47.3,
+              "end": 47.78,
+              "text": "C'est parti."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-dialogue-lent",
+      "label": "Dialogue - version lente",
+      "isDialogue": true,
+      "paragraphs": [
+        {
+          "id": "02-dialogue-lent-p001",
+          "speaker": "Claire",
+          "cues": [
+            {
+              "id": "0011",
+              "start": 54.76,
+              "end": 56.82,
+              "text": "Bonjour, je suis Claire Martin."
+            },
+            {
+              "id": "0012",
+              "start": 58.28,
+              "end": 61.42,
+              "text": "Je suis bénévole pour le forum des associations."
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p002",
+          "speaker": "Mathieu",
+          "cues": [
+            {
+              "id": "0013",
+              "start": 62.06,
+              "end": 62.7,
+              "text": "Parfait."
+            },
+            {
+              "id": "0014",
+              "start": 63.86,
+              "end": 67.56,
+              "text": "Vous êtes Claire Martin, donc vous êtes au spectacle de magie."
+            },
+            {
+              "id": "0015",
+              "start": 68.62,
+              "end": 70.58,
+              "text": "Les artistes sont dans la salle jaune."
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p003",
+          "speaker": "Claire",
+          "cues": [
+            {
+              "id": "0016",
+              "start": 71.38,
+              "end": 72.78,
+              "text": "Non, je suis à l'accueil."
+            },
+            {
+              "id": "0017",
+              "start": 73.62,
+              "end": 74.56,
+              "text": "Je suis certaine."
+            },
+            {
+              "id": "0018",
+              "start": 76.42,
+              "end": 80.57,
+              "text": "Mon courriel est très clair : \"Claire Martin, accueil\"."
+            },
+            {
+              "id": "0019",
+              "start": 81.76,
+              "end": 85.68,
+              "text": "Je suis venue pour orienter les visiteurs, pas pour les effrayer."
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p004",
+          "speaker": "Mathieu",
+          "cues": [
+            {
+              "id": "0020",
+              "start": 86.22,
+              "end": 90.74,
+              "text": "Ah, le problème est simple : il y a deux Claire Martin."
+            },
+            {
+              "id": "0021",
+              "start": 91.2,
+              "end": 94.52,
+              "text": "Une Claire est à l'accueil, l'autre est avec les enfants."
+            },
+            {
+              "id": "0022",
+              "start": 95.34,
+              "end": 97.86,
+              "text": "Alors, vous êtes laquelle ?"
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p005",
+          "speaker": "Claire",
+          "cues": [
+            {
+              "id": "0023",
+              "start": 98.74,
+              "end": 102.3,
+              "text": "Je suis celle qui ne sait pas faire disparaître une pièce de monnaie."
+            },
+            {
+              "id": "0024",
+              "start": 103.24,
+              "end": 107.88,
+              "text": "Quand je suis nerveuse, je perds seulement mon stylo et ma dignité."
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p006",
+          "speaker": "Mathieu",
+          "cues": [
+            {
+              "id": "0025",
+              "start": 109.06,
+              "end": 109.74,
+              "text": "Dommage."
+            },
+            {
+              "id": "0026",
+              "start": 110.42,
+              "end": 113.02,
+              "text": "Votre badge est déjà avec une cape noire."
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p007",
+          "speaker": "Claire",
+          "cues": [
+            {
+              "id": "0027",
+              "start": 113.02,
+              "end": 113.98,
+              "text": "Une cape ?"
+            },
+            {
+              "id": "0028",
+              "start": 114.82,
+              "end": 117.59,
+              "text": "Je suis bénévole, pas vampire municipal."
+            },
+            {
+              "id": "0029",
+              "start": 118.46,
+              "end": 121.661,
+              "text": "Et je suis presque sûre que la mairie n'a pas voté ce thème."
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p008",
+          "speaker": "Mathieu",
+          "cues": [
+            {
+              "id": "0030",
+              "start": 122.04,
+              "end": 124.54,
+              "text": "Ici, tout est possible."
+            },
+            {
+              "id": "0031",
+              "start": 125.64,
+              "end": 130.9,
+              "text": "Le club de jardinage est dans la salle de danse, les danseurs sont dans le couloir,"
+            },
+            {
+              "id": "0032",
+              "start": 130.9,
+              "end": 134.02,
+              "text": "et le maire est perdu près des cactus."
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p009",
+          "speaker": "Claire",
+          "cues": [
+            {
+              "id": "0033",
+              "start": 134.72,
+              "end": 137.82,
+              "text": "Alors je suis peut-être la bonne personne pour l'accueil."
+            },
+            {
+              "id": "0034",
+              "start": 138.58,
+              "end": 142.18,
+              "text": "Je peux au moins dire aux gens qu'ils sont perdus avec élégance,"
+            },
+            {
+              "id": "0035",
+              "start": 142.67,
+              "end": 146.78,
+              "text": "et que leurs enfants sont probablement en train d'applaudir un ficus."
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p010",
+          "speaker": "Mathieu",
+          "cues": [
+            {
+              "id": "0036",
+              "start": 147.42,
+              "end": 148.6,
+              "text": "Vous êtes convaincante."
+            },
+            {
+              "id": "0037",
+              "start": 149.7,
+              "end": 152.34,
+              "text": "Tenez, prenez mon badge pendant deux minutes."
+            },
+            {
+              "id": "0038",
+              "start": 153.28,
+              "end": 156.68,
+              "text": "Si quelqu'un demande le programme, il est sous la cafetière."
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p011",
+          "speaker": "Claire",
+          "cues": [
+            {
+              "id": "0039",
+              "start": 157.62,
+              "end": 158.32,
+              "text": "Attendez."
+            },
+            {
+              "id": "0040",
+              "start": 159.52,
+              "end": 162.94,
+              "text": "Sur votre badge, il est écrit \"Mathieu, magicien\"."
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p012",
+          "speaker": "Mathieu",
+          "cues": [
+            {
+              "id": "0041",
+              "start": 164.62,
+              "end": 165.32,
+              "text": "Oui."
+            },
+            {
+              "id": "0042",
+              "start": 166.42,
+              "end": 168.0,
+              "text": "Je ne suis pas vraiment à l'accueil."
+            },
+            {
+              "id": "0043",
+              "start": 168.76,
+              "end": 175.04,
+              "text": "Mon assistant est absent, le rideau est prêt, et je cherche quelqu'un qui est disponible,"
+            },
+            {
+              "id": "0044",
+              "start": 176.26,
+              "end": 179.88,
+              "text": "calme et capable de sourire sous une cape. Très bien."
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p013",
+          "speaker": "Claire",
+          "cues": [
+            {
+              "id": "0045",
+              "start": 181.22,
+              "end": 185.74,
+              "text": "Votre premier tour est réussi : vous avez fait disparaître l'accueil."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-explication",
+      "label": "Explication",
+      "isDialogue": false,
+      "paragraphs": [
+        {
+          "id": "03-explication-p001",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0046",
+              "start": 191.8,
+              "end": 196.44,
+              "text": "Dans ce dialogue, Claire arrive au forum des associations."
+            },
+            {
+              "id": "0047",
+              "start": 197.44,
+              "end": 204.26,
+              "text": "Un forum des associations, c'est un événement où des clubs et des groupes locaux présentent leurs activités :"
+            },
+            {
+              "id": "0048",
+              "start": 205.76,
+              "end": 211.72,
+              "text": "sport, musique, jardinage, théâtre, aide aux enfants"
+            },
+            {
+              "id": "0049",
+              "start": 212.48,
+              "end": 214.12,
+              "text": "et ainsi de suite"
+            },
+            {
+              "id": "0050",
+              "start": 214.7,
+              "end": 220.72,
+              "text": "On utilise souvent cette expression dans une ville, surtout au moment de la rentrée."
+            },
+            {
+              "id": "0051",
+              "start": 221.94,
+              "end": 228.36,
+              "text": "Ici, ce mot installe un lieu public, avec des stands, des salles,"
+            },
+            {
+              "id": "0052",
+              "start": 229.2,
+              "end": 233.08,
+              "text": "des badges et beaucoup de petites informations à coordonner."
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p002",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0053",
+              "start": 234.88,
+              "end": 237.6,
+              "text": "Claire n'arrive pas pour participer à un spectacle."
+            },
+            {
+              "id": "0054",
+              "start": 238.8,
+              "end": 240.98,
+              "text": "Elle arrive comme bénévole."
+            },
+            {
+              "id": "0055",
+              "start": 242.62,
+              "end": 246.4,
+              "text": "Une personne bénévole donne de son temps sans recevoir de salaire."
+            },
+            {
+              "id": "0056",
+              "start": 247.76,
+              "end": 253.82,
+              "text": "Ce n'est pas seulement quelqu'un qui aide une fois ; c'est souvent quelqu'un qui accepte une tâche concrète :"
+            },
+            {
+              "id": "0057",
+              "start": 255.12,
+              "end": 257.8,
+              "text": "tenir une table, accompagner un groupe"
+            },
+            {
+              "id": "0058",
+              "start": 258.82,
+              "end": 262.46,
+              "text": "distribuer un programme, expliquer où sont les salles"
+            },
+            {
+              "id": "0059",
+              "start": 264.42,
+              "end": 268.12,
+              "text": "Dans la scène, ce mot donne à Claire une mission pratique."
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p003",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0060",
+              "start": 268.66,
+              "end": 274.14,
+              "text": "Dès la première phrase, Claire se présente : \"je suis Claire Martin\"."
+            },
+            {
+              "id": "0061",
+              "start": 275.2,
+              "end": 279.98,
+              "text": "Puis elle ajoute : \"je suis bénévole pour le forum des associations"
+            },
+            {
+              "id": "0062",
+              "start": 281.52,
+              "end": 283.58,
+              "text": "Ces phrases sont très simples"
+            },
+            {
+              "id": "0063",
+              "start": 284.38,
+              "end": 285.38,
+              "text": "mais très utiles."
+            },
+            {
+              "id": "0064",
+              "start": 286.62,
+              "end": 288.96,
+              "text": "Elles donnent son nom et son rôle."
+            },
+            {
+              "id": "0065",
+              "start": 290.1,
+              "end": 294.101,
+              "text": "Dans une situation réelle, c'est souvent la première chose à dire"
+            },
+            {
+              "id": "0066",
+              "start": 294.92,
+              "end": 297.62,
+              "text": "qui vous êtes, et pourquoi vous êtes là"
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p004",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0067",
+              "start": 299.04,
+              "end": 304.38,
+              "text": "Mathieu répond : \"Vous êtes Claire Martin, donc vous êtes au spectacle de magie.\""
+            },
+            {
+              "id": "0068",
+              "start": 305.96,
+              "end": 308.24,
+              "text": "Le mot donc montre qu'il tire une conclusion."
+            },
+            {
+              "id": "0069",
+              "start": 309.08,
+              "end": 313.92,
+              "text": "Pour lui, le nom Claire Martin correspond à une autre personne."
+            },
+            {
+              "id": "0070",
+              "start": 315.1,
+              "end": 320.26,
+              "text": "Il ne voit pas encore Claire comme bénévole à l'accueil ; il la met dans le spectacle."
+            },
+            {
+              "id": "0071",
+              "start": 321.84,
+              "end": 325.32,
+              "text": "Ici, la forme « vous êtes » est importante."
+            },
+            {
+              "id": "0072",
+              "start": 326.84,
+              "end": 332.7,
+              "text": "Mathieu parle à une seule personne, mais il utilise vous : la situation est publique,"
+            },
+            {
+              "id": "0073",
+              "start": 332.7,
+              "end": 337.6,
+              "text": "et les deux personnes ne se connaissent pas personnellement."
+            },
+            {
+              "id": "0074",
+              "start": 339.02,
+              "end": 342.7,
+              "text": "On entend normalement la liaison dans « vous êtes » :"
+            },
+            {
+              "id": "0075",
+              "start": 344.02,
+              "end": 349.6,
+              "text": "le s de « vous » se prononce comme un petit z au début de cette forme."
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p005",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0076",
+              "start": 350.32,
+              "end": 354.06,
+              "text": "Mathieu ajoute : \"Les artistes sont dans la salle jaune"
+            },
+            {
+              "id": "0077",
+              "start": 355.62,
+              "end": 358.22,
+              "text": "Une salle jaune, dans ce contexte"
+            },
+            {
+              "id": "0078",
+              "start": 358.86,
+              "end": 362.04,
+              "text": "c'est probablement une salle indiquée par une couleur sur un plan."
+            },
+            {
+              "id": "0079",
+              "start": 363.44,
+              "end": 366.78,
+              "text": "Les artistes, ce sont les personnes du spectacle."
+            },
+            {
+              "id": "0080",
+              "start": 367.8,
+              "end": 373.54,
+              "text": "Mathieu parle comme si tout était déjà décidé : Claire doit aller avec eux."
+            },
+            {
+              "id": "0081",
+              "start": 374.3,
+              "end": 378.94,
+              "text": "Mais pour Claire, l'information est fausse."
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p006",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0082",
+              "start": 380.66,
+              "end": 385.04,
+              "text": "Claire corrige immédiatement : \"Non, je suis à l'accueil."
+            },
+            {
+              "id": "0083",
+              "start": 386.02,
+              "end": 391.96,
+              "text": "Je suis certaine.\" L'accueil est le lieu où l'on reçoit les personnes qui arrivent."
+            },
+            {
+              "id": "0084",
+              "start": 392.9,
+              "end": 398.48,
+              "text": "Dans un événement, l'accueil donne souvent les plans, les badges et les horaires."
+            },
+            {
+              "id": "0085",
+              "start": 399.72,
+              "end": 402.28,
+              "text": "Dans un bâtiment public, on peut demander"
+            },
+            {
+              "id": "0086",
+              "start": 403.34,
+              "end": 407.94,
+              "text": "Où est l'accueil ?\" Dans une entreprise, on peut dire"
+            },
+            {
+              "id": "0087",
+              "start": 408.88,
+              "end": 410.46,
+              "text": "La visite commence à l'accueil"
+            },
+            {
+              "id": "0088",
+              "start": 411.96,
+              "end": 417.02,
+              "text": "Ici, être à l'accueil indique un endroit, mais aussi une fonction"
+            },
+            {
+              "id": "0089",
+              "start": 418.06,
+              "end": 422.76,
+              "text": "Claire travaille à ce poste, et c'est cette place que Mathieu va déplacer."
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p007",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0090",
+              "start": 423.04,
+              "end": 427.14,
+              "text": "Elle explique ensuite : \"Je suis venue pour orienter les visiteurs"
+            },
+            {
+              "id": "0091",
+              "start": 427.86,
+              "end": 431.94,
+              "text": "pas pour les effrayer.\" Orienter quelqu'un"
+            },
+            {
+              "id": "0092",
+              "start": 432.72,
+              "end": 436.14,
+              "text": "c'est l'aider à trouver la bonne direction ou la bonne information."
+            },
+            {
+              "id": "0093",
+              "start": 437.5,
+              "end": 439.74,
+              "text": "On peut orienter une famille vers une salle"
+            },
+            {
+              "id": "0094",
+              "start": 440.52,
+              "end": 445.06,
+              "text": "un visiteur vers un bureau, ou un étudiant vers le bon service"
+            },
+            {
+              "id": "0095",
+              "start": 445.86,
+              "end": 450.72,
+              "text": "Dans la scène, Claire veut faire ce travail calme et utile"
+            },
+            {
+              "id": "0096",
+              "start": 451.9,
+              "end": 453.56,
+              "text": "aider les gens à savoir où aller"
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p008",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0097",
+              "start": 454.92,
+              "end": 457.32,
+              "text": "Le verbe effrayer signifie faire peur."
+            },
+            {
+              "id": "0098",
+              "start": 458.7,
+              "end": 464.88,
+              "text": "Un bruit soudain peut effrayer un enfant ; une annonce trop dramatique peut effrayer un visiteur."
+            },
+            {
+              "id": "0099",
+              "start": 466.54,
+              "end": 470.92,
+              "text": "Claire oppose donc deux actions : orienter les visiteurs"
+            },
+            {
+              "id": "0100",
+              "start": 471.56,
+              "end": 475.6,
+              "text": "c'est les aider ; les effrayer, c'est les inquiéter"
+            },
+            {
+              "id": "0101",
+              "start": 477.06,
+              "end": 482.64,
+              "text": "Cette opposition prépare le ton comique, parce que Mathieu l'envoie vers un univers de magie,"
+            },
+            {
+              "id": "0102",
+              "start": 483.18,
+              "end": 485.82,
+              "text": "de scène et de cape noire."
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p009",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0103",
+              "start": 486.02,
+              "end": 490.5,
+              "text": "Mathieu croit avoir compris le problème : \"Il y a deux Claire Martin.\""
+            },
+            {
+              "id": "0104",
+              "start": 491.8,
+              "end": 497.24,
+              "text": "La formule il y a sert à annoncer l'existence d'une chose ou d'une personne"
+            },
+            {
+              "id": "0105",
+              "start": 497.9,
+              "end": 499.12,
+              "text": "il y a un problème"
+            },
+            {
+              "id": "0106",
+              "start": 499.26,
+              "end": 502.88,
+              "text": "il y a deux badges, il y a beaucoup de monde."
+            },
+            {
+              "id": "0107",
+              "start": 504.54,
+              "end": 507.22,
+              "text": "Ici, deux personnes portent le même nom."
+            },
+            {
+              "id": "0108",
+              "start": 508.5,
+              "end": 512.7,
+              "text": "Une Claire est à l'accueil, l'autre est avec les enfants."
+            },
+            {
+              "id": "0109",
+              "start": 513.9,
+              "end": 518.14,
+              "text": "Puis Mathieu demande : \"Alors, vous êtes laquelle"
+            },
+            {
+              "id": "0110",
+              "start": 520.0,
+              "end": 522.7,
+              "text": "Laquelle sert à choisir une personne parmi plusieurs"
+            },
+            {
+              "id": "0111",
+              "start": 523.5,
+              "end": 528.44,
+              "text": "La question est pratique pour Mathieu, mais un peu absurde pour Claire"
+            },
+            {
+              "id": "0112",
+              "start": 529.28,
+              "end": 531.1,
+              "text": "parce qu'elle sait très bien qui elle est"
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p010",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0113",
+              "start": 532.52,
+              "end": 534.581,
+              "text": "Claire répond avec le vocabulaire de la magie :"
+            },
+            {
+              "id": "0114",
+              "start": 535.86,
+              "end": 542.46,
+              "text": "\"Je suis celle qui ne sait pas faire disparaître une pièce de monnaie.\" Faire disparaître quelque chose,"
+            },
+            {
+              "id": "0115",
+              "start": 543.26,
+              "end": 546.38,
+              "text": "c'est le rendre invisible ou introuvable."
+            },
+            {
+              "id": "0116",
+              "start": 547.42,
+              "end": 553.42,
+              "text": "Dans la magie, on fait disparaître une carte, une pièce ou un foulard."
+            },
+            {
+              "id": "0117",
+              "start": 554.84,
+              "end": 559.24,
+              "text": "Dans la vie quotidienne, on peut dire avec humour qu'un dossier a disparu."
+            },
+            {
+              "id": "0118",
+              "start": 560.94,
+              "end": 563.08,
+              "text": "Claire utilise cette expression pour dire"
+            },
+            {
+              "id": "0119",
+              "start": 564.12,
+              "end": 568.02,
+              "text": "je ne suis pas la personne du spectacle, je n'ai pas ce talent"
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p011",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0120",
+              "start": 568.7,
+              "end": 574.76,
+              "text": "Puis elle ajoute : \"Quand je suis nerveuse, je perds seulement mon stylo et ma dignité.\""
+            },
+            {
+              "id": "0121",
+              "start": 576.52,
+              "end": 581.36,
+              "text": "Une pièce de monnaie est un petit objet rond en métal que l'on utilise pour payer."
+            },
+            {
+              "id": "0122",
+              "start": 582.46,
+              "end": 585.4,
+              "text": "Un stylo, lui, est très ordinaire."
+            },
+            {
+              "id": "0123",
+              "start": 587.34,
+              "end": 591.84,
+              "text": "Claire remplace donc un grand geste de magicien par un petit accident quotidien"
+            },
+            {
+              "id": "0124",
+              "start": 593.38,
+              "end": 594.44,
+              "text": "quand elle est stressée"
+            },
+            {
+              "id": "0125",
+              "start": 595.22,
+              "end": 597.22,
+              "text": "elle égare son stylo et son calme."
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p012",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0126",
+              "start": 598.7,
+              "end": 600.64,
+              "text": "Mathieu dit : \"Dommage."
+            },
+            {
+              "id": "0127",
+              "start": 601.62,
+              "end": 603.62,
+              "text": "Votre badge est déjà avec une cape noire"
+            },
+            {
+              "id": "0128",
+              "start": 605.56,
+              "end": 609.74,
+              "text": "Dommage exprime un petit regret : c'est dommage, malheureusement"
+            },
+            {
+              "id": "0129",
+              "start": 611.1,
+              "end": 617.3,
+              "text": "Un badge est une petite carte ou étiquette avec un nom, une fonction ou un rôle."
+            },
+            {
+              "id": "0130",
+              "start": 618.54,
+              "end": 623.3,
+              "text": "On en porte dans une conférence, une entreprise ou un événement municipal."
+            },
+            {
+              "id": "0131",
+              "start": 624.52,
+              "end": 631.08,
+              "text": "Normalement, il dit qui est la personne, quel est son rôle, et où elle doit être."
+            },
+            {
+              "id": "0132",
+              "start": 632.3,
+              "end": 637.101,
+              "text": "Dans notre dialogue, le badge fait presque l'inverse"
+            },
+            {
+              "id": "0133",
+              "start": 638.42,
+              "end": 640.62,
+              "text": "il pousse Claire vers le mauvais endroit"
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p013",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0134",
+              "start": 641.4,
+              "end": 643.68,
+              "text": "Claire réagit : \"Une cape ?"
+            },
+            {
+              "id": "0135",
+              "start": 644.42,
+              "end": 647.74,
+              "text": "Je suis bénévole, pas vampire municipal"
+            },
+            {
+              "id": "0136",
+              "start": 648.82,
+              "end": 652.22,
+              "text": "Le mot municipal signifie lié à la ville ou à la mairie"
+            },
+            {
+              "id": "0137",
+              "start": 653.26,
+              "end": 659.04,
+              "text": "On parle d'une piscine municipale, d'une bibliothèque municipale ou d'une fête municipale."
+            },
+            {
+              "id": "0138",
+              "start": 659.96,
+              "end": 663.72,
+              "text": "Ces expressions sont administratives et ordinaires."
+            },
+            {
+              "id": "0139",
+              "start": 665.34,
+              "end": 670.1,
+              "text": "Un vampire municipal serait donc un vampire officiel de la mairie."
+            },
+            {
+              "id": "0140",
+              "start": 671.64,
+              "end": 676.14,
+              "text": "Ce mélange entre un mot sérieux et une image fantastique rend la phrase amusante."
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p014",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0141",
+              "start": 678.04,
+              "end": 682.02,
+              "text": "Mathieu continue : \"Ici, tout est possible"
+            },
+            {
+              "id": "0142",
+              "start": 683.9,
+              "end": 686.24,
+              "text": "Puis il donne des exemples de désordre"
+            },
+            {
+              "id": "0143",
+              "start": 686.92,
+              "end": 692.561,
+              "text": "le club de jardinage est dans la salle de danse, les danseurs sont dans le couloir,"
+            },
+            {
+              "id": "0144",
+              "start": 692.562,
+              "end": 695.48,
+              "text": "et le maire est perdu près des cactus."
+            },
+            {
+              "id": "0145",
+              "start": 697.26,
+              "end": 700.5,
+              "text": "Un couloir est un passage qui relie plusieurs pièces ou salles."
+            },
+            {
+              "id": "0146",
+              "start": 702.0,
+              "end": 708.76,
+              "text": "Dans une école, un bureau ou une mairie, on passe par le couloir pour trouver la bonne porte."
+            },
+            {
+              "id": "0147",
+              "start": 710.22,
+              "end": 714.72,
+              "text": "Ici, le couloir devient presque une salle de secours pour les danseurs."
+            },
+            {
+              "id": "0148",
+              "start": 715.52,
+              "end": 720.76,
+              "text": "Si même le maire est perdu, l'organisation du forum est vraiment fragile."
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p015",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0149",
+              "start": 721.62,
+              "end": 722.84,
+              "text": "Claire saisit l'occasion."
+            },
+            {
+              "id": "0150",
+              "start": 723.96,
+              "end": 726.64,
+              "text": "Elle dit qu'elle est peut-être la bonne personne pour l'accueil."
+            },
+            {
+              "id": "0151",
+              "start": 728.12,
+              "end": 731.18,
+              "text": "Elle peut au moins dire aux gens qu'ils sont perdus avec élégance."
+            },
+            {
+              "id": "0152",
+              "start": 732.84,
+              "end": 734.32,
+              "text": "Cette formule est très sèche."
+            },
+            {
+              "id": "0153",
+              "start": 735.98,
+              "end": 742.0,
+              "text": "Être perdu est normalement un petit problème ; avec élégance transforme le problème en presque qualité."
+            },
+            {
+              "id": "0154",
+              "start": 743.56,
+              "end": 748.38,
+              "text": "Claire ajoute que les enfants sont probablement en train d'applaudir un ficus."
+            },
+            {
+              "id": "0155",
+              "start": 749.68,
+              "end": 751.901,
+              "text": "Un ficus est une plante d'intérieur."
+            },
+            {
+              "id": "0156",
+              "start": 753.3,
+              "end": 758.86,
+              "text": "Dans ce forum désorganisé, les enfants applaudissent peut-être une plante au lieu d'un spectacle."
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p016",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0157",
+              "start": 760.22,
+              "end": 763.32,
+              "text": "Mathieu répond : \"Vous êtes convaincante.\""
+            },
+            {
+              "id": "0158",
+              "start": 764.92,
+              "end": 769.76,
+              "text": "Convaincante signifie qu'une personne parle d'une manière qui donne envie de la croire."
+            },
+            {
+              "id": "0159",
+              "start": 770.76,
+              "end": 776.36,
+              "text": "Dans un débat ou un entretien, des mots clairs et un ton calme peuvent être convaincants."
+            },
+            {
+              "id": "0160",
+              "start": 777.68,
+              "end": 784.16,
+              "text": "Dans la scène, le compliment devient un piège : Mathieu ne lui donne pas le bon badge,"
+            },
+            {
+              "id": "0161",
+              "start": 785.0,
+              "end": 786.94,
+              "text": "il lui donne son badge à lui."
+            },
+            {
+              "id": "0162",
+              "start": 788.46,
+              "end": 793.36,
+              "text": "La formule tenez accompagne souvent un geste : tenez, prenez ceci."
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p017",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0163",
+              "start": 793.68,
+              "end": 799.2,
+              "text": "Puis Mathieu dit : \"Si quelqu'un demande le programme, il est sous la cafetière.\""
+            },
+            {
+              "id": "0164",
+              "start": 800.64,
+              "end": 805.5,
+              "text": "Le programme est la liste des activités, avec les horaires et les lieux."
+            },
+            {
+              "id": "0165",
+              "start": 807.04,
+              "end": 809.76,
+              "text": "Dans un théâtre, il présente le spectacle"
+            },
+            {
+              "id": "0166",
+              "start": 810.96,
+              "end": 814.601,
+              "text": "dans un forum, il indique les stands et les salles"
+            },
+            {
+              "id": "0167",
+              "start": 815.96,
+              "end": 818.46,
+              "text": "On le met normalement à l'accueil ou sur une table."
+            },
+            {
+              "id": "0168",
+              "start": 820.08,
+              "end": 824.54,
+              "text": "Sous la cafetière, c'est un endroit ridicule pour une information importante."
+            },
+            {
+              "id": "0169",
+              "start": 825.32,
+              "end": 829.76,
+              "text": "Le désordre n'est donc pas seulement dans les badges : il est partout."
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p018",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0170",
+              "start": 831.96,
+              "end": 833.88,
+              "text": "Remarquez la petite stratégie de Mathieu."
+            },
+            {
+              "id": "0171",
+              "start": 835.1,
+              "end": 838.44,
+              "text": "Il ne dit pas : \"Vous devez m'aider"
+            },
+            {
+              "id": "0172",
+              "start": 839.62,
+              "end": 844.18,
+              "text": "Il dit : \"Tenez, prenez mon badge pendant deux minutes"
+            },
+            {
+              "id": "0173",
+              "start": 845.8,
+              "end": 849.26,
+              "text": "Deux minutes semble très court, presque rien."
+            },
+            {
+              "id": "0174",
+              "start": 850.56,
+              "end": 853.1,
+              "text": "C'est une manière douce de créer une obligation."
+            },
+            {
+              "id": "0175",
+              "start": 854.12,
+              "end": 860.2,
+              "text": "Claire n'accepte pas encore d'être assistante, mais elle a déjà l'objet de Mathieu dans la main."
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p019",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0176",
+              "start": 860.8,
+              "end": 862.701,
+              "text": "Claire lit alors le badge de Mathieu"
+            },
+            {
+              "id": "0177",
+              "start": 863.6,
+              "end": 868.4,
+              "text": "Sur votre badge, il est écrit Mathieu, magicien"
+            },
+            {
+              "id": "0178",
+              "start": 869.38,
+              "end": 873.08,
+              "text": "La formule il est écrit est utile pour parler d'un panneau"
+            },
+            {
+              "id": "0179",
+              "start": 873.66,
+              "end": 876.8,
+              "text": "d'un papier, d'une affiche ou d'un badge"
+            },
+            {
+              "id": "0180",
+              "start": 878.4,
+              "end": 880.86,
+              "text": "Ici, elle révèle la vérité."
+            },
+            {
+              "id": "0181",
+              "start": 881.68,
+              "end": 884.82,
+              "text": "Le badge, qui devait aider Claire"
+            },
+            {
+              "id": "0182",
+              "start": 886.0,
+              "end": 889.0,
+              "text": "révèle surtout que Mathieu n'est pas vraiment la personne de l'accueil"
+            },
+            {
+              "id": "0183",
+              "start": 889.98,
+              "end": 890.84,
+              "text": "Il est magicien."
+            },
+            {
+              "id": "0184",
+              "start": 892.28,
+              "end": 898.66,
+              "text": "Un magicien fait des tours de magie, sur scène, dans une fête ou devant des enfants."
+            },
+            {
+              "id": "0185",
+              "start": 900.34,
+              "end": 906.08,
+              "text": "Ici, ce mot explique la cape noire, le spectacle et la pression de Mathieu."
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p020",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0186",
+              "start": 907.2,
+              "end": 910.98,
+              "text": "Mathieu avoue : \"Je ne suis pas vraiment à l'accueil"
+            },
+            {
+              "id": "0187",
+              "start": 912.58,
+              "end": 915.34,
+              "text": "La négation complète est ne suis pas"
+            },
+            {
+              "id": "0188",
+              "start": 916.44,
+              "end": 921.7,
+              "text": "Dans la conversation rapide, on entend souvent seulement \"je suis pas\","
+            },
+            {
+              "id": "0189",
+              "start": 922.4,
+              "end": 925.6,
+              "text": "mais la forme complète reste importante à reconnaître."
+            },
+            {
+              "id": "0190",
+              "start": 927.66,
+              "end": 933.66,
+              "text": "Mathieu explique ensuite son vrai problème : son assistant est absent, le rideau est prêt,"
+            },
+            {
+              "id": "0191",
+              "start": 933.66,
+              "end": 939.44,
+              "text": "et il cherche quelqu'un de disponible, calme et capable de sourire sous une cape."
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p021",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0192",
+              "start": 939.98,
+              "end": 942.86,
+              "text": "Un assistant aide une autre personne dans son travail."
+            },
+            {
+              "id": "0193",
+              "start": 944.1,
+              "end": 949.06,
+              "text": "On peut parler d'un assistant administratif ou d'une assistante de direction."
+            },
+            {
+              "id": "0194",
+              "start": 950.54,
+              "end": 954.2,
+              "text": "Dans la magie, cette personne peut entrer sur scène"
+            },
+            {
+              "id": "0195",
+              "start": 955.28,
+              "end": 958.38,
+              "text": "tenir un objet ou participer au tour"
+            },
+            {
+              "id": "0196",
+              "start": 959.84,
+              "end": 965.46,
+              "text": "Ici, le mot est essentiel : Mathieu ne cherche pas la bonne Claire Martin,"
+            },
+            {
+              "id": "0197",
+              "start": 966.48,
+              "end": 969.46,
+              "text": "il cherche quelqu'un pour remplacer la personne qui manque."
+            },
+            {
+              "id": "0198",
+              "start": 970.9,
+              "end": 974.54,
+              "text": "Le rideau est prêt signifie que le spectacle peut commencer bientôt."
+            },
+            {
+              "id": "0199",
+              "start": 976.28,
+              "end": 979.321,
+              "text": "Disponible veut dire que la personne peut aider tout de suite."
+            },
+            {
+              "id": "0200",
+              "start": 980.88,
+              "end": 982.52,
+              "text": "Toute la pression tombe sur Claire."
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p022",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0201",
+              "start": 984.04,
+              "end": 987.181,
+              "text": "À ce moment, tout le dialogue change de sens."
+            },
+            {
+              "id": "0202",
+              "start": 987.98,
+              "end": 991.82,
+              "text": "Au début, Mathieu semblait aider à l'accueil."
+            },
+            {
+              "id": "0203",
+              "start": 993.18,
+              "end": 997.62,
+              "text": "En réalité, il utilise la confusion pour trouver une remplaçante."
+            },
+            {
+              "id": "0204",
+              "start": 999.38,
+              "end": 1005.94,
+              "text": "Chaque correction de Claire l'aide malgré elle : elle garde son calme, elle parle clairement,"
+            },
+            {
+              "id": "0205",
+              "start": 1006.92,
+              "end": 1011.64,
+              "text": "elle comprend l'organisation, et elle semble capable de gérer le public."
+            },
+            {
+              "id": "0206",
+              "start": 1013.72,
+              "end": 1018.24,
+              "text": "Mathieu transforme donc ses qualités de bénévole en solution pour son urgence."
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p023",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0207",
+              "start": 1018.74,
+              "end": 1020.42,
+              "text": "La dernière phrase de Claire est"
+            },
+            {
+              "id": "0208",
+              "start": 1021.62,
+              "end": 1025.82,
+              "text": "Votre premier tour est réussi : vous avez fait disparaître l'accueil"
+            },
+            {
+              "id": "0209",
+              "start": 1027.88,
+              "end": 1031.08,
+              "text": "Un tour, ici, est un tour de magie"
+            },
+            {
+              "id": "0210",
+              "start": 1031.98,
+              "end": 1035.06,
+              "text": "c'est-à-dire un petit numéro avec un effet surprenant"
+            },
+            {
+              "id": "0211",
+              "start": 1036.0,
+              "end": 1041.02,
+              "text": "Mais tour a aussi d'autres usages : on peut faire un tour dans le quartier,"
+            },
+            {
+              "id": "0212",
+              "start": 1041.24,
+              "end": 1045.98,
+              "text": "ou dire \"à mon tour\" quand c'est le moment d'agir."
+            },
+            {
+              "id": "0213",
+              "start": 1047.12,
+              "end": 1052.02,
+              "text": "Dans la phrase de Claire, le sens magique revient au premier plan :"
+            },
+            {
+              "id": "0214",
+              "start": 1053.4,
+              "end": 1057.38,
+              "text": "elle transforme le mauvais arrangement de Mathieu en numéro de spectacle."
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p024",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0215",
+              "start": 1059.12,
+              "end": 1061.88,
+              "text": "Faire disparaître revient aussi dans la dernière phrase."
+            },
+            {
+              "id": "0216",
+              "start": 1063.2,
+              "end": 1067.881,
+              "text": "Au début, Claire disait qu'elle ne savait pas faire disparaître une pièce de monnaie."
+            },
+            {
+              "id": "0217",
+              "start": 1069.2,
+              "end": 1073.14,
+              "text": "À la fin, elle accuse Mathieu d'avoir fait disparaître l'accueil."
+            },
+            {
+              "id": "0218",
+              "start": 1074.26,
+              "end": 1079.32,
+              "text": "Si Claire part au spectacle, il n'y a plus personne pour orienter les visiteurs."
+            },
+            {
+              "id": "0219",
+              "start": 1080.58,
+              "end": 1086.24,
+              "text": "Le poste d'accueil disparaît, non pas par magie, mais par mauvaise organisation."
+            },
+            {
+              "id": "0220",
+              "start": 1087.58,
+              "end": 1090.16,
+              "text": "Cette expression porte donc la chute du dialogue."
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p025",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0221",
+              "start": 1090.88,
+              "end": 1095.76,
+              "text": "Cette dernière phrase fonctionne parce qu'elle ne dit pas directement que la situation est drôle."
+            },
+            {
+              "id": "0222",
+              "start": 1096.82,
+              "end": 1099.78,
+              "text": "Elle transforme simplement le problème en numéro de magie."
+            },
+            {
+              "id": "0223",
+              "start": 1101.74,
+              "end": 1108.441,
+              "text": "Mathieu voulait quelqu'un sous une cape ; Claire lui montre que son vrai tour a déjà commencé."
+            },
+            {
+              "id": "0224",
+              "start": 1109.16,
+              "end": 1113.96,
+              "text": "Dans cette scène, le badge ne clarifie pas l'identité."
+            },
+            {
+              "id": "0225",
+              "start": 1115.5,
+              "end": 1119.62,
+              "text": "Il déplace les rôles, puis il révèle le vrai problème."
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p026",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0226",
+              "start": 1121.5,
+              "end": 1123.9,
+              "text": "Gardez aussi une petite note de registre."
+            },
+            {
+              "id": "0227",
+              "start": 1125.44,
+              "end": 1127.68,
+              "text": "Claire et Mathieu se vouvoient parce qu'ils sont"
+            },
+            {
+              "id": "0228",
+              "start": 1127.68,
+              "end": 1132.86,
+              "text": "dans un lieu public et ne se connaissent pas"
+            },
+            {
+              "id": "0229",
+              "start": 1133.62,
+              "end": 1138.72,
+              "text": "Ce vouvoiement garde une distance polie, même quand Claire devient ironique."
+            },
+            {
+              "id": "0230",
+              "start": 1140.26,
+              "end": 1146.26,
+              "text": "Elle décrit l'absurde avec précision, et ce ton très sérieux donne au dialogue son humour sec."
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p027",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0231",
+              "start": 1148.26,
+              "end": 1152.26,
+              "text": "Avant de réécouter, retenez quelques expressions utiles"
+            },
+            {
+              "id": "0232",
+              "start": 1153.32,
+              "end": 1156.28,
+              "text": "je suis bénévole, je suis à l'accueil"
+            },
+            {
+              "id": "0233",
+              "start": 1157.2,
+              "end": 1162.94,
+              "text": "vous êtes laquelle, il est écrit sur le badge, je ne suis pas vraiment à l'accueil."
+            },
+            {
+              "id": "0234",
+              "start": 1164.1,
+              "end": 1170.06,
+              "text": "Elles servent à dire une identité, un rôle, une information écrite ou une correction,"
+            },
+            {
+              "id": "0235",
+              "start": 1171.06,
+              "end": 1174.32,
+              "text": "mais aussi à faire"
+            },
+            {
+              "id": "0236",
+              "start": 1174.32,
+              "end": 1178.2,
+              "text": "avancer une catastrophe municipale"
+            },
+            {
+              "id": "0237",
+              "start": 1180.12,
+              "end": 1186.44,
+              "text": "Maintenant, écoutons le dialogue, cette fois à vitesse naturelle."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04-dialogue-naturel",
+      "label": "Dialogue - vitesse naturelle",
+      "isDialogue": true,
+      "paragraphs": [
+        {
+          "id": "04-dialogue-naturel-p001",
+          "speaker": "Claire",
+          "cues": [
+            {
+              "id": "0238",
+              "start": 1193.68,
+              "end": 1195.56,
+              "text": "Bonjour, je suis Claire Martin."
+            },
+            {
+              "id": "0239",
+              "start": 1197.16,
+              "end": 1199.42,
+              "text": "Je suis bénévole pour le forum des associations."
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p002",
+          "speaker": "Mathieu",
+          "cues": [
+            {
+              "id": "0240",
+              "start": 1200.44,
+              "end": 1200.94,
+              "text": "Parfait."
+            },
+            {
+              "id": "0241",
+              "start": 1201.44,
+              "end": 1204.56,
+              "text": "Vous êtes Claire Martin, donc vous êtes au spectacle de magie."
+            },
+            {
+              "id": "0242",
+              "start": 1205.48,
+              "end": 1207.12,
+              "text": "Les artistes sont dans la salle jaune."
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p003",
+          "speaker": "Claire",
+          "cues": [
+            {
+              "id": "0243",
+              "start": 1207.78,
+              "end": 1208.96,
+              "text": "Non, je suis à l'accueil."
+            },
+            {
+              "id": "0244",
+              "start": 1209.66,
+              "end": 1210.66,
+              "text": "Je suis certaine."
+            },
+            {
+              "id": "0245",
+              "start": 1212.04,
+              "end": 1215.51,
+              "text": "Mon courriel est très clair : \"Claire Martin, accueil\"."
+            },
+            {
+              "id": "0246",
+              "start": 1216.5,
+              "end": 1219.8,
+              "text": "Je suis venue pour orienter les visiteurs, pas pour les effrayer."
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p004",
+          "speaker": "Mathieu",
+          "cues": [
+            {
+              "id": "0247",
+              "start": 1219.8,
+              "end": 1224.06,
+              "text": "Ah, le problème est simple : il y a deux Claire Martin."
+            },
+            {
+              "id": "0248",
+              "start": 1224.4,
+              "end": 1227.24,
+              "text": "Une Claire est à l'accueil, l'autre est avec les enfants."
+            },
+            {
+              "id": "0249",
+              "start": 1227.94,
+              "end": 1230.04,
+              "text": "Alors, vous êtes laquelle ?"
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p005",
+          "speaker": "Claire",
+          "cues": [
+            {
+              "id": "0250",
+              "start": 1230.7,
+              "end": 1233.76,
+              "text": "Je suis celle qui ne sait pas faire disparaître une pièce de monnaie."
+            },
+            {
+              "id": "0251",
+              "start": 1234.58,
+              "end": 1238.46,
+              "text": "Quand je suis nerveuse, je perds seulement mon stylo et ma dignité."
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p006",
+          "speaker": "Mathieu",
+          "cues": [
+            {
+              "id": "0252",
+              "start": 1239.52,
+              "end": 1240.08,
+              "text": "Dommage."
+            },
+            {
+              "id": "0253",
+              "start": 1240.64,
+              "end": 1243.56,
+              "text": "Votre badge est déjà avec une cape noire. Une cape ?"
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p007",
+          "speaker": "Claire",
+          "cues": [
+            {
+              "id": "0254",
+              "start": 1243.9,
+              "end": 1246.55,
+              "text": "Je suis bénévole, pas vampire municipal."
+            },
+            {
+              "id": "0255",
+              "start": 1247.24,
+              "end": 1250.281,
+              "text": "Et je suis presque sûre que la mairie n'a pas voté ce thème."
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p008",
+          "speaker": "Mathieu",
+          "cues": [
+            {
+              "id": "0256",
+              "start": 1250.7,
+              "end": 1252.46,
+              "text": "Ici, tout est possible."
+            },
+            {
+              "id": "0257",
+              "start": 1253.46,
+              "end": 1257.78,
+              "text": "Le club de jardinage est dans la salle de danse, les danseurs sont dans le couloir,"
+            },
+            {
+              "id": "0258",
+              "start": 1257.94,
+              "end": 1260.44,
+              "text": "et le maire est perdu près des cactus."
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p009",
+          "speaker": "Claire",
+          "cues": [
+            {
+              "id": "0259",
+              "start": 1261.0,
+              "end": 1263.6,
+              "text": "Alors je suis peut-être la bonne personne pour l'accueil."
+            },
+            {
+              "id": "0260",
+              "start": 1264.28,
+              "end": 1267.28,
+              "text": "Je peux au moins dire aux gens qu'ils sont perdus avec élégance,"
+            },
+            {
+              "id": "0261",
+              "start": 1267.44,
+              "end": 1271.12,
+              "text": "et que leurs enfants sont probablement en train d'applaudir un ficus."
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p010",
+          "speaker": "Mathieu",
+          "cues": [
+            {
+              "id": "0262",
+              "start": 1271.54,
+              "end": 1272.64,
+              "text": "Vous êtes convaincante."
+            },
+            {
+              "id": "0263",
+              "start": 1273.42,
+              "end": 1275.8,
+              "text": "Tenez, prenez mon badge pendant deux minutes."
+            },
+            {
+              "id": "0264",
+              "start": 1276.48,
+              "end": 1280.6,
+              "text": "Si quelqu'un demande le programme, il est sous la cafetière. Attendez."
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p011",
+          "speaker": "Claire",
+          "cues": [
+            {
+              "id": "0265",
+              "start": 1281.9,
+              "end": 1286.68,
+              "text": "Sur votre badge, il est écrit \"Mathieu, magicien\". Oui."
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p012",
+          "speaker": "Mathieu",
+          "cues": [
+            {
+              "id": "0266",
+              "start": 1287.68,
+              "end": 1288.92,
+              "text": "Je ne suis pas vraiment à l'accueil."
+            },
+            {
+              "id": "0267",
+              "start": 1289.8,
+              "end": 1294.86,
+              "text": "Mon assistant est absent, le rideau est prêt, et je cherche quelqu'un qui est disponible,"
+            },
+            {
+              "id": "0268",
+              "start": 1295.88,
+              "end": 1297.84,
+              "text": "calme et capable de sourire sous une cape."
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p013",
+          "speaker": "Claire",
+          "cues": [
+            {
+              "id": "0269",
+              "start": 1298.58,
+              "end": 1298.94,
+              "text": "Très bien."
+            },
+            {
+              "id": "0270",
+              "start": 1300.0,
+              "end": 1303.24,
+              "text": "Votre premier tour est réussi : vous avez fait disparaître l'accueil."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "05-conclusion",
+      "label": "Conclusion",
+      "isDialogue": false,
+      "paragraphs": [
+        {
+          "id": "05-conclusion-p001",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0271",
+              "start": 1310.04,
+              "end": 1312.48,
+              "text": "Voilà pour \"Le badge\"."
+            },
+            {
+              "id": "0272",
+              "start": 1314.24,
+              "end": 1317.26,
+              "text": "Aujourd'hui, Claire voulait simplement aider à l'accueil,"
+            },
+            {
+              "id": "0273",
+              "start": 1318.06,
+              "end": 1321.7,
+              "text": "mais un badge mal compris a transformé le forum en petit spectacle."
+            },
+            {
+              "id": "0274",
+              "start": 1323.44,
+              "end": 1329.4,
+              "text": "Retenez quelques expressions utiles pour vous présenter, demander un rôle ou corriger une erreur :"
+            },
+            {
+              "id": "0275",
+              "start": 1330.2,
+              "end": 1334.86,
+              "text": "je suis bénévole, je suis à l'accueil, vous êtes laquelle."
+            },
+            {
+              "id": "0276",
+              "start": 1336.4,
+              "end": 1339.5,
+              "text": "À bientôt dans le Podcast de français langue étrangère,"
+            },
+            {
+              "id": "0277",
+              "start": 1339.92,
+              "end": 1346.72,
+              "text": "et si vous suivez un magicien pendant un événement municipal, vérifiez d'abord qui garde l'accueil."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

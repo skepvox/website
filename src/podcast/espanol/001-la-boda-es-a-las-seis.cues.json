@@ -1,0 +1,1990 @@
+{
+  "episode": {
+    "id": "espanol-001",
+    "title": "La boda es a las seis",
+    "audioUrl": "https://media.skepvox.com/podcast/espanol/audio/espanol-001-la-boda-es-a-las-seis-v4.mp3",
+    "lang": "es",
+    "durationSeconds": 1304.8
+  },
+  "sections": [
+    {
+      "id": "01-introduccion",
+      "label": "Introducción",
+      "isDialogue": false,
+      "paragraphs": [
+        {
+          "id": "01-introduccion-p001",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0001",
+              "start": 0.0,
+              "end": 3.26,
+              "text": "Bienvenidos a Podcast de español como lengua extranjera."
+            },
+            {
+              "id": "0002",
+              "start": 4.1,
+              "end": 8.12,
+              "text": "Hoy escucharemos una escena en una boda civil organizada en un restaurante."
+            },
+            {
+              "id": "0003",
+              "start": 9.2,
+              "end": 13.7,
+              "text": "Marta coordina la celebración, mira el reloj y ve problemas en cada rincón."
+            },
+            {
+              "id": "0004",
+              "start": 14.82,
+              "end": 21.02,
+              "text": "Diego llega con prisa, una carpeta y mucha cortesía, pero la conversación no avanza como él espera."
+            },
+            {
+              "id": "0005",
+              "start": 22.74,
+              "end": 29.56,
+              "text": "Fíjense en cómo los personajes hablan de identidad, lugar, estado y función mientras intentan mantener la calma,"
+            },
+            {
+              "id": "0006",
+              "start": 30.14,
+              "end": 32.06,
+              "text": "incluso cuando todo parece urgente."
+            },
+            {
+              "id": "0007",
+              "start": 32.84,
+              "end": 33.88,
+              "text": "Vamos allá."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-dialogo-lento",
+      "label": "Diálogo - versión lenta",
+      "isDialogue": true,
+      "paragraphs": [
+        {
+          "id": "02-dialogo-lento-p001",
+          "speaker": "Marta",
+          "cues": [
+            {
+              "id": "0008",
+              "start": 40.04,
+              "end": 41.02,
+              "text": "Por fin."
+            },
+            {
+              "id": "0009",
+              "start": 42.48,
+              "end": 43.62,
+              "text": "Usted es Diego, ¿verdad?"
+            },
+            {
+              "id": "0010",
+              "start": 44.54,
+              "end": 51.4,
+              "text": "La boda es a las seis, el salón está listo, los novios están nerviosos y el DJ está perdido."
+            },
+            {
+              "id": "0011",
+              "start": 52.26,
+              "end": 54.9,
+              "text": "El restaurante es precioso cuando nadie corre."
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p002",
+          "speaker": "Diego",
+          "cues": [
+            {
+              "id": "0012",
+              "start": 55.58,
+              "end": 59.48,
+              "text": "Soy Diego, sí, pero no estoy seguro de que usted..."
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p003",
+          "speaker": "Marta",
+          "cues": [
+            {
+              "id": "0013",
+              "start": 59.48,
+              "end": 61.22,
+              "text": "Nadie está seguro en una boda."
+            },
+            {
+              "id": "0014",
+              "start": 62.4,
+              "end": 63.2,
+              "text": "Eso es normal."
+            },
+            {
+              "id": "0015",
+              "start": 64.34,
+              "end": 68.08,
+              "text": "El ramo está en la barra, las copas están limpias y"
+            },
+            {
+              "id": "0016",
+              "start": 68.08,
+              "end": 71.98,
+              "text": "la tarta es de limón, aunque ahora está un poco inclinada"
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p004",
+          "speaker": "Diego",
+          "cues": [
+            {
+              "id": "0017",
+              "start": 73.02,
+              "end": 75.26,
+              "text": "Vengo por la ceremonia, no por el banquete."
+            },
+            {
+              "id": "0018",
+              "start": 75.82,
+              "end": 80.96,
+              "text": "Soy funcionario del registro civil y estoy citado con los novios desde las cinco y media."
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p005",
+          "speaker": "Marta",
+          "cues": [
+            {
+              "id": "0019",
+              "start": 81.78,
+              "end": 84.821,
+              "text": "Perfecto, un funcionario siempre es útil."
+            },
+            {
+              "id": "0020",
+              "start": 85.78,
+              "end": 89.74,
+              "text": "Entonces esté aquí, junto a la mesa, y revise esta lista."
+            },
+            {
+              "id": "0021",
+              "start": 91.34,
+              "end": 94.02,
+              "text": "La mesa es redonda, pero el problema es cuadrado"
+            },
+            {
+              "id": "0022",
+              "start": 95.12,
+              "end": 99.36,
+              "text": "faltan dos primos, sobra una tía y una silla está coja"
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p006",
+          "speaker": "Diego",
+          "cues": [
+            {
+              "id": "0023",
+              "start": 100.16,
+              "end": 101.38,
+              "text": "Creo que hay una confusión."
+            },
+            {
+              "id": "0024",
+              "start": 101.9,
+              "end": 103.581,
+              "text": "Mi sitio no está junto a la mesa."
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p007",
+          "speaker": "Marta",
+          "cues": [
+            {
+              "id": "0025",
+              "start": 104.48,
+              "end": 106.44,
+              "text": "Su sitio está donde hay crisis."
+            },
+            {
+              "id": "0026",
+              "start": 107.64,
+              "end": 111.16,
+              "text": "El novio está en la terraza porque dice que está tranquilo."
+            },
+            {
+              "id": "0027",
+              "start": 112.92,
+              "end": 113.62,
+              "text": "No está tranquilo."
+            },
+            {
+              "id": "0028",
+              "start": 114.56,
+              "end": 117.5,
+              "text": "Es muy educado, pero hoy está transparente."
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p008",
+          "speaker": "Diego",
+          "cues": [
+            {
+              "id": "0029",
+              "start": 117.86,
+              "end": 118.36,
+              "text": "¿Y la novia?"
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p009",
+          "speaker": "Marta",
+          "cues": [
+            {
+              "id": "0030",
+              "start": 119.08,
+              "end": 120.72,
+              "text": "Está arriba con su hermana."
+            },
+            {
+              "id": "0031",
+              "start": 122.4,
+              "end": 125.92,
+              "text": "La hermana es médica, pero ahora está de estilista"
+            },
+            {
+              "id": "0032",
+              "start": 126.8,
+              "end": 129.64,
+              "text": "psicóloga y guardia de seguridad emocional"
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p010",
+          "speaker": "Diego",
+          "cues": [
+            {
+              "id": "0033",
+              "start": 130.58,
+              "end": 133.1,
+              "text": "Entiendo, pero la boda no puede empezar sin mí."
+            },
+            {
+              "id": "0034",
+              "start": 133.1,
+              "end": 138.88,
+              "text": "No lo digo por importancia personal; lo digo porque el acta está en mi carpeta."
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p011",
+          "speaker": "Marta",
+          "cues": [
+            {
+              "id": "0035",
+              "start": 138.94,
+              "end": 139.62,
+              "text": "Claro que no."
+            },
+            {
+              "id": "0036",
+              "start": 140.7,
+              "end": 142.38,
+              "text": "Nadie empieza sin las servilletas."
+            },
+            {
+              "id": "0037",
+              "start": 144.02,
+              "end": 150.22,
+              "text": "Son blancas, están en cajas y una caja está en el baño por motivos que prefiero no investigar."
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p012",
+          "speaker": "Diego",
+          "cues": [
+            {
+              "id": "0038",
+              "start": 151.12,
+              "end": 153.46,
+              "text": "Señora, yo no soy del restaurante."
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p013",
+          "speaker": "Marta",
+          "cues": [
+            {
+              "id": "0039",
+              "start": 154.36,
+              "end": 156.78,
+              "text": "Hoy nadie es completamente de su oficio."
+            },
+            {
+              "id": "0040",
+              "start": 157.78,
+              "end": 159.92,
+              "text": "El camarero está de florista,"
+            },
+            {
+              "id": "0041",
+              "start": 160.76,
+              "end": 166.86,
+              "text": "el florista está en la cocina y mi jefe está debajo de una mesa diciendo que está ocupado."
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p014",
+          "speaker": "Diego",
+          "cues": [
+            {
+              "id": "0042",
+              "start": 167.58,
+              "end": 172.66,
+              "text": "Entonces escúcheme: yo soy la persona que pregunta a los novios si quieren casarse."
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p015",
+          "speaker": "Marta",
+          "cues": [
+            {
+              "id": "0043",
+              "start": 173.8,
+              "end": 174.8,
+              "text": "¿Usted es esa persona?"
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p016",
+          "speaker": "Diego",
+          "cues": [
+            {
+              "id": "0044",
+              "start": 175.7,
+              "end": 176.16,
+              "text": "Sí."
+            },
+            {
+              "id": "0045",
+              "start": 176.56,
+              "end": 182.9,
+              "text": "Y ahora estoy con servilletas, lejos de los novios y peligrosamente cerca de la tarta inclinada."
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p017",
+          "speaker": "Marta",
+          "cues": [
+            {
+              "id": "0046",
+              "start": 183.86,
+              "end": 184.22,
+              "text": "Muy bien."
+            },
+            {
+              "id": "0047",
+              "start": 185.48,
+              "end": 188.6,
+              "text": "Cambio de plan: la tarta está en observación"
+            },
+            {
+              "id": "0048",
+              "start": 189.32,
+              "end": 192.9,
+              "text": "las servilletas están solteras y usted está en el altar"
+            },
+            {
+              "id": "0049",
+              "start": 194.4,
+              "end": 200.02,
+              "text": "Si alguien pregunta, usted no está perdido; está estratégicamente localizado."
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p018",
+          "speaker": "Diego",
+          "cues": [
+            {
+              "id": "0050",
+              "start": 201.72,
+              "end": 202.42,
+              "text": "Perfecto."
+            },
+            {
+              "id": "0051",
+              "start": 202.6,
+              "end": 206.18,
+              "text": "Si los novios siguen allí, la boda todavía es hoy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-explicacion",
+      "label": "Explicación",
+      "isDialogue": false,
+      "paragraphs": [
+        {
+          "id": "03-explicacion-p001",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0052",
+              "start": 212.1,
+              "end": 218.56,
+              "text": "La escena empieza con prisa y con una pregunta sencilla: «Usted es Diego, ¿verdad?»."
+            },
+            {
+              "id": "0053",
+              "start": 219.64,
+              "end": 226.58,
+              "text": "Marta necesita confirmar una identidad, pero enseguida mezcla esa identidad con todo lo que está pasando alrededor."
+            },
+            {
+              "id": "0054",
+              "start": 227.42,
+              "end": 230.28,
+              "text": "La palabra «boda civil» es importante"
+            },
+            {
+              "id": "0055",
+              "start": 230.84,
+              "end": 235.94,
+              "text": "no es solo una fiesta, sino una ceremonia con una parte oficial"
+            },
+            {
+              "id": "0056",
+              "start": 237.16,
+              "end": 243.221,
+              "text": "En la escena, esa ceremonia ocurre en un restaurante, dentro de un ambiente práctico y urgente."
+            },
+            {
+              "id": "0057",
+              "start": 244.24,
+              "end": 247.04,
+              "text": "Marta dice que «la boda es a las seis»."
+            },
+            {
+              "id": "0058",
+              "start": 247.66,
+              "end": 249.5,
+              "text": "Aquí la hora organiza el evento,"
+            },
+            {
+              "id": "0059",
+              "start": 249.94,
+              "end": 255.18,
+              "text": "como cuando decimos que una reunión es a las diez o que una cena es en el salón."
+            },
+            {
+              "id": "0060",
+              "start": 256.0,
+              "end": 257.981,
+              "text": "La frase fija el momento."
+            },
+            {
+              "id": "0061",
+              "start": 259.04,
+              "end": 262.72,
+              "text": "Si la boda es a las seis, cada retraso tiene consecuencias."
+            },
+            {
+              "id": "0062",
+              "start": 263.54,
+              "end": 267.04,
+              "text": "El reloj convierte una confusión pequeña en un problema serio,"
+            },
+            {
+              "id": "0063",
+              "start": 267.04,
+              "end": 273.08,
+              "text": "y por eso Marta habla tan rápido desde la primera línea."
+            },
+            {
+              "id": "0064",
+              "start": 274.18,
+              "end": 280.66,
+              "text": "La primera pista importante, entonces, no es una etiqueta: es la urgencia."
+            }
+          ]
+        },
+        {
+          "id": "03-explicacion-p002",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0065",
+              "start": 280.66,
+              "end": 285.3,
+              "text": "Marta presenta tres datos rápidos: «el salón está listo"
+            },
+            {
+              "id": "0066",
+              "start": 285.94,
+              "end": 290.36,
+              "text": "los novios están nerviosos» y «el DJ está perdido"
+            },
+            {
+              "id": "0067",
+              "start": 291.78,
+              "end": 298.38,
+              "text": "El «salón» es la sala de la celebración, y «listo» aquí significa preparado."
+            },
+            {
+              "id": "0068",
+              "start": 299.26,
+              "end": 304.72,
+              "text": "No hablamos de inteligencia; hablamos de un espacio que ya puede recibir a los invitados."
+            },
+            {
+              "id": "0069",
+              "start": 305.28,
+              "end": 310.18,
+              "text": "Una pista de pronunciación: «es» es breve;"
+            },
+            {
+              "id": "0070",
+              "start": 311.48,
+              "end": 318.14,
+              "text": "«está» y «están» llevan la fuerza en la última sílaba y por eso se escriben con tilde."
+            },
+            {
+              "id": "0071",
+              "start": 319.3,
+              "end": 323.5,
+              "text": "Ese cambio rítmico ayuda a separar identidad y estado."
+            },
+            {
+              "id": "0072",
+              "start": 324.66,
+              "end": 328.56,
+              "text": "«Nerviosos» describe el estado emocional de los novios en ese momento."
+            },
+            {
+              "id": "0073",
+              "start": 329.66,
+              "end": 334.7,
+              "text": "«Perdido» puede significar que alguien no sabe dónde está o que no aparece donde debería."
+            },
+            {
+              "id": "0074",
+              "start": 335.42,
+              "end": 339.96,
+              "text": "Estas palabras son muy reutilizables: una sala puede estar lista,"
+            },
+            {
+              "id": "0075",
+              "start": 340.66,
+              "end": 345.22,
+              "text": "una persona puede estar nerviosa y una llave puede estar perdida."
+            },
+            {
+              "id": "0076",
+              "start": 346.16,
+              "end": 351.8,
+              "text": "En una boda, los tres datos juntos cuentan la escena: el lugar parece preparado,"
+            },
+            {
+              "id": "0077",
+              "start": 352.44,
+              "end": 356.66,
+              "text": "las personas están tensas y una pieza del plan ha desaparecido."
+            },
+            {
+              "id": "0078",
+              "start": 358.22,
+              "end": 363.82,
+              "text": "Diego entra en una organización que parece lista por fuera, pero inestable por dentro."
+            },
+            {
+              "id": "0079",
+              "start": 364.42,
+              "end": 369.78,
+              "text": "Esa tensión se entiende mejor en la situación que en una lista abstracta."
+            }
+          ]
+        },
+        {
+          "id": "03-explicacion-p003",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0080",
+              "start": 370.4,
+              "end": 374.06,
+              "text": "Cuando Diego intenta hablar, Marta lo interrumpe con objetos"
+            },
+            {
+              "id": "0081",
+              "start": 374.94,
+              "end": 377.64,
+              "text": "el «ramo», las copas y la tarta"
+            },
+            {
+              "id": "0082",
+              "start": 378.68,
+              "end": 385.26,
+              "text": "El ramo es el conjunto de flores asociado a la ceremonia; en el diálogo está en la barra, es decir,"
+            },
+            {
+              "id": "0083",
+              "start": 385.76,
+              "end": 387.46,
+              "text": "en el mostrador del restaurante."
+            },
+            {
+              "id": "0084",
+              "start": 387.46,
+              "end": 391.52,
+              "text": "Si alguien dice «el ramo está en la barra"
+            },
+            {
+              "id": "0085",
+              "start": 392.32,
+              "end": 395.52,
+              "text": "entendemos un objeto colocado en un lugar poco ideal"
+            },
+            {
+              "id": "0086",
+              "start": 396.58,
+              "end": 400.58,
+              "text": "Las copas están limpias, así que ese problema parece resuelto."
+            },
+            {
+              "id": "0087",
+              "start": 401.64,
+              "end": 405.42,
+              "text": "La tarta «es de limón» y «está un poco inclinada»."
+            },
+            {
+              "id": "0088",
+              "start": 406.52,
+              "end": 408.08,
+              "text": "Esta combinación es muy útil."
+            },
+            {
+              "id": "0089",
+              "start": 408.62,
+              "end": 415.38,
+              "text": "El sabor nos dice qué tarta es; la inclinación muestra cómo se encuentra ahora."
+            },
+            {
+              "id": "0090",
+              "start": 417.1,
+              "end": 421.46,
+              "text": "«Inclinado» sirve para una tarta, una mesa o una calle."
+            },
+            {
+              "id": "0091",
+              "start": 422.92,
+              "end": 428.58,
+              "text": "Marta no está explicando nada: está vigilando un postre que puede caerse durante una boda."
+            },
+            {
+              "id": "0092",
+              "start": 430.24,
+              "end": 436.52,
+              "text": "La tarta se vuelve casi un personaje silencioso: no habla, pero amenaza la calma."
+            },
+            {
+              "id": "0093",
+              "start": 437.44,
+              "end": 440.32,
+              "text": "Por eso conviene recordarla durante todo el diálogo."
+            }
+          ]
+        },
+        {
+          "id": "03-explicacion-p004",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0094",
+              "start": 440.9,
+              "end": 446.72,
+              "text": "Diego por fin explica su llegada: «Vengo por la ceremonia, no por el banquete»."
+            },
+            {
+              "id": "0095",
+              "start": 447.98,
+              "end": 451.88,
+              "text": "El «banquete» es la comida o fiesta después de la parte formal."
+            },
+            {
+              "id": "0096",
+              "start": 452.92,
+              "end": 458.18,
+              "text": "Luego dice: «Soy funcionario del registro civil y estoy citado con los novios»."
+            },
+            {
+              "id": "0097",
+              "start": 459.42,
+              "end": 462.38,
+              "text": "Un funcionario trabaja para una administración pública"
+            },
+            {
+              "id": "0098",
+              "start": 463.2,
+              "end": 466.46,
+              "text": "el registro civil trata documentos oficiales"
+            },
+            {
+              "id": "0099",
+              "start": 466.46,
+              "end": 468.32,
+              "text": "como matrimonios y nacimientos."
+            },
+            {
+              "id": "0100",
+              "start": 469.64,
+              "end": 474.42,
+              "text": "«Citado» indica que alguien tiene una cita o una hora acordada."
+            },
+            {
+              "id": "0101",
+              "start": 475.54,
+              "end": 481.86,
+              "text": "Podemos estar citados con un médico, con una oficina o con una persona en un lugar concreto."
+            },
+            {
+              "id": "0102",
+              "start": 483.38,
+              "end": 489.46,
+              "text": "En esta línea, Diego intenta separar su identidad profesional de la logística del restaurante."
+            },
+            {
+              "id": "0103",
+              "start": 491.02,
+              "end": 493.661,
+              "text": "Él no viene a mover sillas ni a mirar la tarta."
+            },
+            {
+              "id": "0104",
+              "start": 493.662,
+              "end": 497.42,
+              "text": "Viene porque su función pertenece a la ceremonia"
+            },
+            {
+              "id": "0105",
+              "start": 498.02,
+              "end": 501.16,
+              "text": "aunque Marta todavía no lo escuche"
+            },
+            {
+              "id": "0106",
+              "start": 502.88,
+              "end": 506.74,
+              "text": "La palabra «funcionario» debería resolver el malentendido"
+            },
+            {
+              "id": "0107",
+              "start": 507.28,
+              "end": 511.46,
+              "text": "pero en la mente de Marta solo significa «adulto útil"
+            },
+            {
+              "id": "0108",
+              "start": 512.7,
+              "end": 516.06,
+              "text": "Esa interpretación equivocada mantiene vivo el conflicto."
+            }
+          ]
+        },
+        {
+          "id": "03-explicacion-p005",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0109",
+              "start": 516.76,
+              "end": 521.02,
+              "text": "Marta oye «funcionario» y lo convierte en ayuda disponible."
+            },
+            {
+              "id": "0110",
+              "start": 521.02,
+              "end": 523.34,
+              "text": "Le pide que revise una «lista»."
+            },
+            {
+              "id": "0111",
+              "start": 523.98,
+              "end": 529.92,
+              "text": "Una lista parece una tarea pequeña, pero aquí abre otro mundo de problemas: faltan dos primos,"
+            },
+            {
+              "id": "0112",
+              "start": 530.48,
+              "end": 533.36,
+              "text": "sobra una tía y una silla está coja."
+            },
+            {
+              "id": "0113",
+              "start": 534.04,
+              "end": 540.06,
+              "text": "«Coja», para una silla, significa que no se apoya bien, que se mueve o queda inestable."
+            },
+            {
+              "id": "0114",
+              "start": 541.08,
+              "end": 544.387,
+              "text": "En una casa también podemos decir que una mesa está coja."
+            },
+            {
+              "id": "0115",
+              "start": 544.82,
+              "end": 547.5,
+              "text": "La frase «la mesa es redonda,"
+            },
+            {
+              "id": "0116",
+              "start": 548.02,
+              "end": 554.64,
+              "text": "pero el problema es cuadrado» crea humor porque aplica una forma física a una dificultad social."
+            },
+            {
+              "id": "0117",
+              "start": 556.0,
+              "end": 562.04,
+              "text": "Marta habla con seriedad, pero su manera de ordenar el caos es absurda."
+            },
+            {
+              "id": "0118",
+              "start": 562.56,
+              "end": 568.16,
+              "text": "Para ella, cualquier persona que aparece puede quedar colocada junto a una crisis."
+            },
+            {
+              "id": "0119",
+              "start": 569.1,
+              "end": 575.78,
+              "text": "Diego intenta entrar en la escena como autoridad; Marta lo recibe como manos extra."
+            },
+            {
+              "id": "0120",
+              "start": 577.36,
+              "end": 580.08,
+              "text": "Esa diferencia de lectura sostiene todo el diálogo."
+            },
+            {
+              "id": "0121",
+              "start": 581.22,
+              "end": 584.54,
+              "text": "Una misma presencia produce dos historias distintas."
+            }
+          ]
+        },
+        {
+          "id": "03-explicacion-p006",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0122",
+              "start": 585.3,
+              "end": 591.24,
+              "text": "Diego responde con una frase muy clara: «Mi sitio no está junto a la mesa»."
+            },
+            {
+              "id": "0123",
+              "start": 591.24,
+              "end": 596.38,
+              "text": "«Sitio» aquí significa lugar correcto, puesto o posición dentro del evento."
+            },
+            {
+              "id": "0124",
+              "start": 597.36,
+              "end": 600.64,
+              "text": "Marta contesta: «Su sitio está donde hay crisis»."
+            },
+            {
+              "id": "0125",
+              "start": 601.36,
+              "end": 603.44,
+              "text": "Esa frase resume su lógica."
+            },
+            {
+              "id": "0126",
+              "start": 604.08,
+              "end": 609.92,
+              "text": "Ella no pregunta quién es Diego; decide dónde debe estar según el problema más cercano."
+            },
+            {
+              "id": "0127",
+              "start": 610.86,
+              "end": 612.56,
+              "text": "Después menciona al novio en la terraza."
+            },
+            {
+              "id": "0128",
+              "start": 613.16,
+              "end": 619.12,
+              "text": "La «terraza» es un espacio exterior del restaurante, y el novio dice que está tranquilo."
+            },
+            {
+              "id": "0129",
+              "start": 619.68,
+              "end": 622.14,
+              "text": "Marta no le cree: «No está tranquilo."
+            },
+            {
+              "id": "0130",
+              "start": 622.58,
+              "end": 625.88,
+              "text": "Es muy educado, pero hoy está transparente»."
+            },
+            {
+              "id": "0131",
+              "start": 626.9,
+              "end": 631.7,
+              "text": "«Transparente» no es literal; significa que se le notan los nervios."
+            },
+            {
+              "id": "0132",
+              "start": 632.28,
+              "end": 636.94,
+              "text": "La palabra normalmente describe algo que deja pasar la luz, como un cristal."
+            },
+            {
+              "id": "0133",
+              "start": 637.72,
+              "end": 640.18,
+              "text": "Aquí describe una emoción demasiado visible."
+            },
+            {
+              "id": "0134",
+              "start": 641.36,
+              "end": 645.42,
+              "text": "Marta observa estados, no identidades."
+            },
+            {
+              "id": "0135",
+              "start": 646.44,
+              "end": 648.52,
+              "text": "Por eso Diego no consigue avanzar"
+            },
+            {
+              "id": "0136",
+              "start": 649.3,
+              "end": 653.78,
+              "text": "cada vez que habla de su lugar correcto, Marta ve otro síntoma del caos"
+            },
+            {
+              "id": "0137",
+              "start": 654.61,
+              "end": 659.54,
+              "text": "La cortesía de «usted» hace esa frustración más seca."
+            }
+          ]
+        },
+        {
+          "id": "03-explicacion-p007",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0138",
+              "start": 659.54,
+              "end": 663.94,
+              "text": "Cuando Diego pregunta por la novia, Marta dice que está arriba con su hermana."
+            },
+            {
+              "id": "0139",
+              "start": 664.88,
+              "end": 671.46,
+              "text": "Después aparece una de las mejores frases de la escena: «La hermana es médica, pero ahora está de estilista,"
+            },
+            {
+              "id": "0140",
+              "start": 672.14,
+              "end": 674.84,
+              "text": "psicóloga y guardia de seguridad emocional»."
+            },
+            {
+              "id": "0141",
+              "start": 675.88,
+              "end": 680.76,
+              "text": "«Estilista» es la persona que ayuda con imagen, ropa o peinado."
+            },
+            {
+              "id": "0142",
+              "start": 681.32,
+              "end": 684.32,
+              "text": "Una «guardia de seguridad» protege un lugar"
+            },
+            {
+              "id": "0143",
+              "start": 684.98,
+              "end": 688.84,
+              "text": "aquí Marta añade «emocional» para exagerar con humor"
+            },
+            {
+              "id": "0144",
+              "start": 689.92,
+              "end": 694.46,
+              "text": "La hermana tiene una profesión real, pero cumple varios papeles temporales."
+            },
+            {
+              "id": "0145",
+              "start": 694.98,
+              "end": 701.44,
+              "text": "La forma «estar de» ayuda a contar esa presión: durante una boda,"
+            },
+            {
+              "id": "0146",
+              "start": 701.84,
+              "end": 704.9,
+              "text": "una persona puede actuar como otra cosa por necesidad."
+            },
+            {
+              "id": "0147",
+              "start": 705.74,
+              "end": 708.36,
+              "text": "Este no es un cambio de identidad profunda."
+            },
+            {
+              "id": "0148",
+              "start": 708.36,
+              "end": 710.88,
+              "text": "Es una función de emergencia."
+            },
+            {
+              "id": "0149",
+              "start": 711.62,
+              "end": 716.08,
+              "text": "La escena lo muestra con claridad: la hermana conserva su oficio"
+            },
+            {
+              "id": "0150",
+              "start": 716.96,
+              "end": 720.24,
+              "text": "pero la situación la usa para tareas inesperadas"
+            },
+            {
+              "id": "0151",
+              "start": 721.38,
+              "end": 726.301,
+              "text": "Este detalle prepara el error de Marta con Diego: si todos cambian de papel,"
+            },
+            {
+              "id": "0152",
+              "start": 727.12,
+              "end": 729.8,
+              "text": "Diego también puede ser absorbido por el caos."
+            },
+            {
+              "id": "0153",
+              "start": 730.7,
+              "end": 734.6,
+              "text": "La frase enseña función temporal sin detener la escena."
+            }
+          ]
+        },
+        {
+          "id": "03-explicacion-p008",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0154",
+              "start": 734.6,
+              "end": 739.38,
+              "text": "Diego insiste: «La boda no puede empezar sin mí»."
+            },
+            {
+              "id": "0155",
+              "start": 739.38,
+              "end": 740.7,
+              "text": "No lo dice por orgullo."
+            },
+            {
+              "id": "0156",
+              "start": 741.02,
+              "end": 744.18,
+              "text": "Lo dice porque «el acta está en mi carpeta»."
+            },
+            {
+              "id": "0157",
+              "start": 744.18,
+              "end": 746.1,
+              "text": "El acta es un documento oficial"
+            },
+            {
+              "id": "0158",
+              "start": 746.74,
+              "end": 751.42,
+              "text": "en una boda civil, ese documento importa más que muchos detalles decorativos"
+            },
+            {
+              "id": "0159",
+              "start": 752.28,
+              "end": 757.32,
+              "text": "También puede haber un acta de una reunión, con decisiones y firmas."
+            },
+            {
+              "id": "0160",
+              "start": 758.1,
+              "end": 761.64,
+              "text": "Si el acta falta, la ceremonia pierde su base formal."
+            },
+            {
+              "id": "0161",
+              "start": 762.62,
+              "end": 768.08,
+              "text": "Marta, sin embargo, responde como si el centro del mundo fueran las servilletas."
+            },
+            {
+              "id": "0162",
+              "start": 769.12,
+              "end": 772.301,
+              "text": "Las servilletas son piezas de tela o papel para la mesa"
+            },
+            {
+              "id": "0163",
+              "start": 772.74,
+              "end": 776.78,
+              "text": "y en la escena «son blancas» pero «están en cajas"
+            },
+            {
+              "id": "0164",
+              "start": 777.7,
+              "end": 781.48,
+              "text": "El contraste es cómico: Diego habla de la parte legal;"
+            },
+            {
+              "id": "0165",
+              "start": 782.46,
+              "end": 786.18,
+              "text": "Marta piensa en objetos visibles que todavía no han llegado a su lugar."
+            },
+            {
+              "id": "0166",
+              "start": 786.98,
+              "end": 789.76,
+              "text": "Cada uno tiene razón dentro de su propio mapa de la boda."
+            },
+            {
+              "id": "0167",
+              "start": 790.56,
+              "end": 794.5,
+              "text": "El problema es que esos mapas todavía no se han encontrado."
+            },
+            {
+              "id": "0168",
+              "start": 795.44,
+              "end": 798.88,
+              "text": "Esa distancia hace que una respuesta lógica suene absurda."
+            },
+            {
+              "id": "0169",
+              "start": 800.34,
+              "end": 803.36,
+              "text": "También muestra por qué el vocabulario administrativo y"
+            },
+            {
+              "id": "0170",
+              "start": 803.36,
+              "end": 807.96,
+              "text": "el vocabulario de mesa chocan en la misma conversación"
+            }
+          ]
+        },
+        {
+          "id": "03-explicacion-p009",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0171",
+              "start": 808.6,
+              "end": 811.72,
+              "text": "Diego dice al fin: «Yo no soy del restaurante»."
+            },
+            {
+              "id": "0172",
+              "start": 812.62,
+              "end": 816.6,
+              "text": "No habla de ubicación, porque sí está físicamente en el restaurante."
+            },
+            {
+              "id": "0173",
+              "start": 817.6,
+              "end": 822.241,
+              "text": "Habla de pertenencia y función: no forma parte del equipo que sirve la comida."
+            },
+            {
+              "id": "0174",
+              "start": 822.96,
+              "end": 827.04,
+              "text": "Esta frase es importante porque separa presencia y papel."
+            },
+            {
+              "id": "0175",
+              "start": 827.78,
+              "end": 834.3,
+              "text": "Marta responde: «Hoy nadie es completamente de su oficio»."
+            },
+            {
+              "id": "0176",
+              "start": 834.58,
+              "end": 839.08,
+              "text": "Oficio» significa trabajo, profesión o actividad habitual"
+            },
+            {
+              "id": "0177",
+              "start": 840.3,
+              "end": 842.16,
+              "text": "podemos hablar del oficio de carpintero"
+            },
+            {
+              "id": "0178",
+              "start": 842.48,
+              "end": 844.08,
+              "text": "de cocinero o de florista."
+            },
+            {
+              "id": "0179",
+              "start": 845.24,
+              "end": 849.3,
+              "text": "Su ejemplo lo explica todo: el camarero está de florista,"
+            },
+            {
+              "id": "0180",
+              "start": 849.96,
+              "end": 854.16,
+              "text": "el florista está en la cocina y el jefe está debajo de una mesa."
+            },
+            {
+              "id": "0181",
+              "start": 855.74,
+              "end": 859.14,
+              "text": "«Florista» es la persona que prepara o vende flores,"
+            },
+            {
+              "id": "0182",
+              "start": 859.76,
+              "end": 863.94,
+              "text": "así que un camarero de florista ya muestra una organización desbordada."
+            },
+            {
+              "id": "0183",
+              "start": 865.12,
+              "end": 871.2,
+              "text": "El humor nace de una situación reconocible: cuando un evento se desordena,"
+            },
+            {
+              "id": "0184",
+              "start": 871.7,
+              "end": 875.38,
+              "text": "los papeles oficiales importan menos que las tareas urgentes."
+            },
+            {
+              "id": "0185",
+              "start": 876.1,
+              "end": 882.6,
+              "text": "Diego pide una frontera clara; Marta vive en un día sin fronteras claras."
+            },
+            {
+              "id": "0186",
+              "start": 883.98,
+              "end": 886.281,
+              "text": "Ahí está el choque pragmático de la escena."
+            }
+          ]
+        },
+        {
+          "id": "03-explicacion-p010",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0187",
+              "start": 887.16,
+              "end": 888.62,
+              "text": "Diego cambia de estrategia."
+            },
+            {
+              "id": "0188",
+              "start": 889.54,
+              "end": 893.34,
+              "text": "En vez de decir solo «soy funcionario», define su acción:"
+            },
+            {
+              "id": "0189",
+              "start": 894.54,
+              "end": 898.06,
+              "text": "«Yo soy la persona que pregunta a los novios si quieren casarse»."
+            },
+            {
+              "id": "0190",
+              "start": 898.98,
+              "end": 905.0,
+              "text": "Esta frase es larga, pero funciona porque conecta su identidad con una escena concreta."
+            },
+            {
+              "id": "0191",
+              "start": 905.94,
+              "end": 912.84,
+              "text": "«Casarse» es contraer matrimonio, y la pregunta a los novios es el centro simbólico de la ceremonia."
+            },
+            {
+              "id": "0192",
+              "start": 913.9,
+              "end": 917.52,
+              "text": "Marta entiende de golpe: «¿Usted es esa persona?»."
+            },
+            {
+              "id": "0193",
+              "start": 918.74,
+              "end": 923.16,
+              "text": "La pregunta no trata de dónde está Diego, sino de quién es dentro de la boda."
+            },
+            {
+              "id": "0194",
+              "start": 924.22,
+              "end": 928.72,
+              "text": "La diferencia clave aquí no es dónde está Diego"
+            },
+            {
+              "id": "0195",
+              "start": 929.34,
+              "end": 933.881,
+              "text": "sino quién es: la identidad reordena toda la escena"
+            },
+            {
+              "id": "0196",
+              "start": 933.882,
+              "end": 939.04,
+              "text": "Antes, Diego era para Marta una persona útil cerca de una mesa."
+            },
+            {
+              "id": "0197",
+              "start": 940.1,
+              "end": 943.62,
+              "text": "Ahora es la persona necesaria en el momento central."
+            },
+            {
+              "id": "0198",
+              "start": 944.8,
+              "end": 950.16,
+              "text": "La revelación no añade un chiste externo; reorganiza todo lo que ya hemos oído."
+            },
+            {
+              "id": "0199",
+              "start": 951.48,
+              "end": 956.06,
+              "text": "Esa es la fuerza del final: no cambia los hechos, cambia su lectura."
+            }
+          ]
+        },
+        {
+          "id": "03-explicacion-p011",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0200",
+              "start": 957.04,
+              "end": 961.181,
+              "text": "La reacción de Marta es inmediata: «Cambio de plan»."
+            },
+            {
+              "id": "0201",
+              "start": 961.74,
+              "end": 968.18,
+              "text": "La tarta queda «en observación», como si fuera un paciente o un objeto peligroso."
+            },
+            {
+              "id": "0202",
+              "start": 968.94,
+              "end": 974.18,
+              "text": "La expresión se usa cuando alguien vigila una situación para ver si mejora o empeora."
+            },
+            {
+              "id": "0203",
+              "start": 975.3,
+              "end": 978.9,
+              "text": "Literalmente, una persona soltera no está casada."
+            },
+            {
+              "id": "0204",
+              "start": 979.88,
+              "end": 982.34,
+              "text": "Las servilletas están «solteras»,"
+            },
+            {
+              "id": "0205",
+              "start": 983.18,
+              "end": 989.88,
+              "text": "una broma pequeña porque todo ocurre en una boda y las servilletas aún no están colocadas con las mesas."
+            },
+            {
+              "id": "0206",
+              "start": 989.88,
+              "end": 996.72,
+              "text": "Y Diego, por fin, está en el «altar», el lugar principal de la ceremonia."
+            },
+            {
+              "id": "0207",
+              "start": 998.3,
+              "end": 1001.64,
+              "text": "En una boda civil, el altar puede ser una mesa"
+            },
+            {
+              "id": "0208",
+              "start": 1001.64,
+              "end": 1006.06,
+              "text": "o un espacio preparado, no necesariamente un altar religioso"
+            },
+            {
+              "id": "0209",
+              "start": 1007.92,
+              "end": 1009.94,
+              "text": "Marta no pide una larga disculpa."
+            },
+            {
+              "id": "0210",
+              "start": 1011.04,
+              "end": 1016.6,
+              "text": "Reorganiza el mundo: tarta vigilada, servilletas esperando y Diego en su sitio."
+            },
+            {
+              "id": "0211",
+              "start": 1017.66,
+              "end": 1024.02,
+              "text": "Su talento no es admitir errores; es convertirlos en un nuevo plan."
+            },
+            {
+              "id": "0212",
+              "start": 1025.28,
+              "end": 1030.88,
+              "text": "La frase es seca y rápida, por eso la comedia no necesita explicarse dentro del diálogo."
+            },
+            {
+              "id": "0213",
+              "start": 1032.34,
+              "end": 1035.18,
+              "text": "Marta salva la situación sin abandonar su estilo."
+            }
+          ]
+        },
+        {
+          "id": "03-explicacion-p012",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0214",
+              "start": 1035.74,
+              "end": 1041.76,
+              "text": "La expresión «estratégicamente localizado» cierra el malentendido con elegancia cómica."
+            },
+            {
+              "id": "0215",
+              "start": 1042.64,
+              "end": 1048.34,
+              "text": "Marta toma un error y lo viste como decisión inteligente: Diego no estaba perdido,"
+            },
+            {
+              "id": "0216",
+              "start": 1049.12,
+              "end": 1051.32,
+              "text": "estaba localizado de forma estratégica."
+            },
+            {
+              "id": "0217",
+              "start": 1052.44,
+              "end": 1054.74,
+              "text": "Localizado» se relaciona con el lugar"
+            },
+            {
+              "id": "0218",
+              "start": 1056.02,
+              "end": 1061.22,
+              "text": "estratégicamente» añade una importancia casi administrativa"
+            },
+            {
+              "id": "0219",
+              "start": 1061.9,
+              "end": 1064.08,
+              "text": "como si todo hubiera sido calculado."
+            },
+            {
+              "id": "0220",
+              "start": 1064.94,
+              "end": 1069.4,
+              "text": "En la vida diaria, «localizar» puede ser encontrar un objeto,"
+            },
+            {
+              "id": "0221",
+              "start": 1070.32,
+              "end": 1073.62,
+              "text": "ubicar un problema o conseguir hablar con una persona."
+            },
+            {
+              "id": "0222",
+              "start": 1074.22,
+              "end": 1077.54,
+              "text": "Diego acepta el juego con su última línea"
+            },
+            {
+              "id": "0223",
+              "start": 1078.88,
+              "end": 1084.5,
+              "text": "Si los novios siguen allí, la boda todavía es hoy"
+            },
+            {
+              "id": "0224",
+              "start": 1086.14,
+              "end": 1089.94,
+              "text": "«Seguir allí» significa continuar en el mismo lugar."
+            },
+            {
+              "id": "0225",
+              "start": 1091.06,
+              "end": 1096.68,
+              "text": "La frase recuerda que la ceremonia depende de que las personas correctas estén donde deben estar."
+            },
+            {
+              "id": "0226",
+              "start": 1097.8,
+              "end": 1103.96,
+              "text": "También devuelve la escena al reloj inicial: la boda era a las seis, y todavía puede ocurrir."
+            },
+            {
+              "id": "0227",
+              "start": 1104.98,
+              "end": 1110.08,
+              "text": "En esta escena, cada frase ayuda a ordenar una boda que casi se desordena por completo."
+            },
+            {
+              "id": "0228",
+              "start": 1111.08,
+              "end": 1115.28,
+              "text": "La clave es escuchar qué necesita cada personaje en cada momento."
+            },
+            {
+              "id": "0229",
+              "start": 1116.56,
+              "end": 1121.9,
+              "text": "Ahora escuchemos el diálogo, esta vez a velocidad natural."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04-dialogo-natural",
+      "label": "Diálogo - velocidad natural",
+      "isDialogue": true,
+      "paragraphs": [
+        {
+          "id": "04-dialogo-natural-p001",
+          "speaker": "Marta",
+          "cues": [
+            {
+              "id": "0230",
+              "start": 1128.82,
+              "end": 1129.54,
+              "text": "Por fin."
+            },
+            {
+              "id": "0231",
+              "start": 1130.76,
+              "end": 1131.74,
+              "text": "Usted es Diego, ¿verdad?"
+            },
+            {
+              "id": "0232",
+              "start": 1132.6,
+              "end": 1138.28,
+              "text": "La boda es a las seis, el salón está listo, los novios están nerviosos y el DJ está perdido."
+            },
+            {
+              "id": "0233",
+              "start": 1139.08,
+              "end": 1141.22,
+              "text": "El restaurante es precioso cuando nadie corre."
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p002",
+          "speaker": "Diego",
+          "cues": [
+            {
+              "id": "0234",
+              "start": 1141.98,
+              "end": 1145.2,
+              "text": "Soy Diego, sí, pero no estoy seguro de que usted..."
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p003",
+          "speaker": "Marta",
+          "cues": [
+            {
+              "id": "0235",
+              "start": 1145.2,
+              "end": 1146.5,
+              "text": "Nadie está seguro en una boda."
+            },
+            {
+              "id": "0236",
+              "start": 1147.48,
+              "end": 1148.16,
+              "text": "Eso es normal."
+            },
+            {
+              "id": "0237",
+              "start": 1149.14,
+              "end": 1155.56,
+              "text": "El ramo está en la barra, las copas están limpias y la tarta es de limón, aunque ahora está un poco inclinada."
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p004",
+          "speaker": "Diego",
+          "cues": [
+            {
+              "id": "0238",
+              "start": 1156.22,
+              "end": 1158.32,
+              "text": "Vengo por la ceremonia, no por el banquete."
+            },
+            {
+              "id": "0239",
+              "start": 1158.82,
+              "end": 1163.1,
+              "text": "Soy funcionario del registro civil y estoy citado con los novios desde las cinco y media."
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p005",
+          "speaker": "Marta",
+          "cues": [
+            {
+              "id": "0240",
+              "start": 1164.02,
+              "end": 1166.361,
+              "text": "Perfecto, un funcionario siempre es útil."
+            },
+            {
+              "id": "0241",
+              "start": 1167.1,
+              "end": 1170.4,
+              "text": "Entonces esté aquí, junto a la mesa, y revise esta lista."
+            },
+            {
+              "id": "0242",
+              "start": 1171.88,
+              "end": 1178.12,
+              "text": "La mesa es redonda, pero el problema es cuadrado: faltan dos primos, sobra una tía y una silla está coja."
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p006",
+          "speaker": "Diego",
+          "cues": [
+            {
+              "id": "0243",
+              "start": 1178.7,
+              "end": 1180.24,
+              "text": "Creo que hay una confusión."
+            },
+            {
+              "id": "0244",
+              "start": 1180.78,
+              "end": 1182.121,
+              "text": "Mi sitio no está junto a la mesa."
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p007",
+          "speaker": "Marta",
+          "cues": [
+            {
+              "id": "0245",
+              "start": 1182.82,
+              "end": 1184.5,
+              "text": "Su sitio está donde hay crisis."
+            },
+            {
+              "id": "0246",
+              "start": 1185.96,
+              "end": 1188.46,
+              "text": "El novio está en la terraza porque dice que está tranquilo."
+            },
+            {
+              "id": "0247",
+              "start": 1189.84,
+              "end": 1190.5,
+              "text": "No está tranquilo."
+            },
+            {
+              "id": "0248",
+              "start": 1191.32,
+              "end": 1193.54,
+              "text": "Es muy educado, pero hoy está transparente."
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p008",
+          "speaker": "Diego",
+          "cues": [
+            {
+              "id": "0249",
+              "start": 1194.06,
+              "end": 1194.48,
+              "text": "¿Y la novia?"
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p009",
+          "speaker": "Marta",
+          "cues": [
+            {
+              "id": "0250",
+              "start": 1195.04,
+              "end": 1196.48,
+              "text": "Está arriba con su hermana."
+            },
+            {
+              "id": "0251",
+              "start": 1197.86,
+              "end": 1203.96,
+              "text": "La hermana es médica, pero ahora está de estilista, psicóloga y guardia de seguridad emocional."
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p010",
+          "speaker": "Diego",
+          "cues": [
+            {
+              "id": "0252",
+              "start": 1204.78,
+              "end": 1206.86,
+              "text": "Entiendo, pero la boda no puede empezar sin mí."
+            },
+            {
+              "id": "0253",
+              "start": 1206.86,
+              "end": 1210.96,
+              "text": "No lo digo por importancia personal; lo digo porque el acta está en mi carpeta."
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p011",
+          "speaker": "Marta",
+          "cues": [
+            {
+              "id": "0254",
+              "start": 1211.9,
+              "end": 1212.52,
+              "text": "Claro que no."
+            },
+            {
+              "id": "0255",
+              "start": 1213.22,
+              "end": 1214.66,
+              "text": "Nadie empieza sin las servilletas."
+            },
+            {
+              "id": "0256",
+              "start": 1216.12,
+              "end": 1221.28,
+              "text": "Son blancas, están en cajas y una caja está en el baño por motivos que prefiero no investigar."
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p012",
+          "speaker": "Diego",
+          "cues": [
+            {
+              "id": "0257",
+              "start": 1222.04,
+              "end": 1223.86,
+              "text": "Señora, yo no soy del restaurante."
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p013",
+          "speaker": "Marta",
+          "cues": [
+            {
+              "id": "0258",
+              "start": 1224.74,
+              "end": 1226.78,
+              "text": "Hoy nadie es completamente de su oficio."
+            },
+            {
+              "id": "0259",
+              "start": 1228.14,
+              "end": 1229.42,
+              "text": "El camarero está de florista,"
+            },
+            {
+              "id": "0260",
+              "start": 1230.14,
+              "end": 1235.2,
+              "text": "el florista está en la cocina y mi jefe está debajo de una mesa diciendo que está ocupado."
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p014",
+          "speaker": "Diego",
+          "cues": [
+            {
+              "id": "0261",
+              "start": 1235.84,
+              "end": 1240.14,
+              "text": "Entonces escúcheme: yo soy la persona que pregunta a los novios si quieren casarse."
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p015",
+          "speaker": "Marta",
+          "cues": [
+            {
+              "id": "0262",
+              "start": 1241.1,
+              "end": 1241.9,
+              "text": "¿Usted es esa persona?"
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p016",
+          "speaker": "Diego",
+          "cues": [
+            {
+              "id": "0263",
+              "start": 1242.7,
+              "end": 1243.06,
+              "text": "Sí."
+            },
+            {
+              "id": "0264",
+              "start": 1243.18,
+              "end": 1249.86,
+              "text": "Y ahora estoy con servilletas, lejos de los novios y peligrosamente cerca de la tarta inclinada. Muy bien."
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p017",
+          "speaker": "Marta",
+          "cues": [
+            {
+              "id": "0265",
+              "start": 1250.84,
+              "end": 1257.101,
+              "text": "Cambio de plan: la tarta está en observación, las servilletas están solteras y usted está en el altar."
+            },
+            {
+              "id": "0266",
+              "start": 1258.34,
+              "end": 1263.08,
+              "text": "Si alguien pregunta, usted no está perdido; está estratégicamente localizado."
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p018",
+          "speaker": "Diego",
+          "cues": [
+            {
+              "id": "0267",
+              "start": 1264.18,
+              "end": 1264.86,
+              "text": "Perfecto."
+            },
+            {
+              "id": "0268",
+              "start": 1265.3,
+              "end": 1268.36,
+              "text": "Si los novios siguen allí, la boda todavía es hoy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "05-conclusion",
+      "label": "Conclusión",
+      "isDialogue": false,
+      "paragraphs": [
+        {
+          "id": "05-conclusion-p001",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0269",
+              "start": 1275.16,
+              "end": 1281.9,
+              "text": "Hoy Marta ha visto una crisis en cada mesa, y Diego ha tenido que defender su verdadero papel con mucha paciencia."
+            },
+            {
+              "id": "0270",
+              "start": 1283.08,
+              "end": 1286.74,
+              "text": "Recuerden algunas palabras de la escena: el acta, el ramo"
+            },
+            {
+              "id": "0271",
+              "start": 1287.18,
+              "end": 1290.62,
+              "text": "el oficio, el altar y la tarta en observación"
+            },
+            {
+              "id": "0272",
+              "start": 1290.62,
+              "end": 1295.68,
+              "text": "En la próxima escucha, sigan a Diego: no está perdido,"
+            },
+            {
+              "id": "0273",
+              "start": 1296.5,
+              "end": 1299.8,
+              "text": "solo necesita que todos entiendan quién es y dónde debe estar."
+            },
+            {
+              "id": "0274",
+              "start": 1300.62,
+              "end": 1304.8,
+              "text": "Hasta la próxima, y que sus servilletas nunca estén solteras demasiado tiempo."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
