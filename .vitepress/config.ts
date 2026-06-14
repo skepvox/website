@@ -76,7 +76,8 @@ export const sidebar: ThemeConfig['sidebar'] = {
       text: 'Vox English',
       items: [
         { text: 'Overview', link: '/podcast/english/' },
-        { text: '001 - The Two-Minute Phone Call', link: '/podcast/english/001-the-two-minute-phone-call' }
+        { text: '001 - The Two-Minute Phone Call', link: '/podcast/english/001-the-two-minute-phone-call' },
+        { text: '002 - The Bowl of Something', link: '/podcast/english/002-the-bowl-of-something' }
       ]
     },
     {

@@ -31,7 +31,7 @@ Show page: https://www.skepvox.com/podcast/english/]]></itunes:summary>
       <title>Vox English</title>
       <link>https://www.skepvox.com/podcast/english/</link>
     </image>
-    <lastBuildDate>Sat, 13 Jun 2026 12:11:42 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 11:55:40 -0300</lastBuildDate>
 
     <item>
       <title>001 - The Two-Minute Phone Call</title>
@@ -61,6 +61,43 @@ On the episode page, you will find the learning guide, cultural and practical no
       <enclosure url="https://media.skepvox.com/podcast/english/audio/english-001-the-two-minute-phone-call-v1.mp3" length="30580863" type="audio/mpeg" />
       <itunes:duration>00:21:14</itunes:duration>
       <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://media.skepvox.com/podcast/english/artwork/show-cover-v3.jpg" />
+    </item>
+    <item>
+      <title>002 - The Bowl of Something</title>
+      <link>https://skepvox.com/podcast/english/002-the-bowl-of-something</link>
+      <guid isPermaLink="false">vox-english-002</guid>
+      <pubDate>Sun, 14 Jun 2026 09:00:00 -0300</pubDate>
+      <description><![CDATA[Complete guide and transcript:
+https://skepvox.com/podcast/english/002-the-bowl-of-something#complete-transcript
+
+In this Vox English story, a casual kitchen message turns into a neighborly misunderstanding about bowls, soup, timing, and how much detail a friendly invitation really needs.
+
+The lesson works on practical spoken English for deliberate imprecision: approximate times, loose quantities, softened categories, placeholder words, and list extenders that sound natural only when the situation can tolerate vagueness.
+
+The learning guide also explains useful words and expressions from the scene: more or less, sevenish, a glug, a bit, a couple of, thingy, or something, stuff like that, container, and support soup.
+
+The audio includes a slow dialogue, a guided explanation, and the same dialogue again at natural speed.
+
+On the episode page, you will find the learning guide, cultural and practical note, slow dialogue, natural-speed dialogue, and complete transcript.]]></description>
+      <content:encoded><![CDATA[<p>Complete guide and transcript:<br />
+<a href="https://skepvox.com/podcast/english/002-the-bowl-of-something#complete-transcript">https://skepvox.com/podcast/english/002-the-bowl-of-something#complete-transcript</a></p>
+
+<p>In this <strong>Vox English</strong> story, a casual kitchen message turns into a neighborly misunderstanding about bowls, soup, timing, and how much detail a friendly invitation really needs.</p>
+
+<p>The lesson works on practical spoken English for deliberate imprecision: approximate times, loose quantities, softened categories, placeholder words, and list extenders that sound natural only when the situation can tolerate vagueness.</p>
+
+<p>The learning guide also explains useful words and expressions from the scene: more or less, sevenish, a glug, a bit, a couple of, thingy, or something, stuff like that, container, and support soup.</p>
+
+<p>The audio includes a slow dialogue, a guided explanation, and the same dialogue again at natural speed.</p>
+
+<p>On the episode page, you will find the learning guide, cultural and practical note, slow dialogue, natural-speed dialogue, and complete transcript.</p>]]></content:encoded>
+      <enclosure url="https://media.skepvox.com/podcast/english/audio/english-002-the-bowl-of-something-v1.mp3" length="31419080" type="audio/mpeg" />
+      <itunes:duration>00:21:49</itunes:duration>
+      <itunes:episode>2</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>

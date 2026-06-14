@@ -106,3 +106,4 @@ The pages in this section collect transcripts, vocabulary and notes for listenin
 ## Lessons
 
 - [001 - The Two-Minute Phone Call](/podcast/english/001-the-two-minute-phone-call) — steering a practical neighbor call with small spoken markers such as “so”, “well”, “anyway” and “right then”.
+- [002 - The Bowl of Something](/podcast/english/002-the-bowl-of-something) — using deliberate imprecision for approximate times, quantities, categories, placeholder words and list extenders in a neighborly kitchen scene.
