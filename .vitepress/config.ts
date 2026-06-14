@@ -40,7 +40,8 @@ export const sidebar: ThemeConfig['sidebar'] = {
       text: 'Vox Français',
       items: [
         { text: 'Présentation', link: '/podcast/francais/' },
-        { text: '001 - Le badge', link: '/podcast/francais/001-le-badge' }
+        { text: '001 - Le badge', link: '/podcast/francais/001-le-badge' },
+        { text: '002 - La valise verte', link: '/podcast/francais/002-la-valise-verte' }
       ]
     },
     {

@@ -31,7 +31,7 @@ Page de l'émission : https://www.skepvox.com/podcast/francais/]]></itunes:summa
       <title>Vox Français</title>
       <link>https://www.skepvox.com/podcast/francais/</link>
     </image>
-    <lastBuildDate>Sat, 13 Jun 2026 12:11:42 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 09:31:23 -0300</lastBuildDate>
 
     <item>
       <title>001 - Le badge</title>
@@ -59,6 +59,39 @@ Vous trouverez sur la page de l'épisode le guide d'apprentissage, la note cultu
       <enclosure url="https://media.skepvox.com/podcast/francais/audio/francais-001-le-badge-v7.mp3" length="32577663" type="audio/mpeg" />
       <itunes:duration>00:22:37</itunes:duration>
       <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg" />
+    </item>
+
+    <item>
+      <title>002 - La valise verte</title>
+      <link>https://skepvox.com/podcast/francais/002-la-valise-verte</link>
+      <guid isPermaLink="false">vox-francais-002</guid>
+      <pubDate>Sun, 14 Jun 2026 09:00:00 -0300</pubDate>
+      <description><![CDATA[Guide complet et transcription :
+https://skepvox.com/podcast/francais/002-la-valise-verte#transcription-complete
+
+Dans cet épisode de Vox Français, Camille arrive au bureau des objets trouvés d'une gare pour chercher une valise verte perdue après un voyage.
+
+La conversation aide à décrire un objet, situer un service, expliquer un état et corriger une situation concrète avec des phrases simples autour de être.
+
+Le guide de leçon explique aussi le vocabulaire important de l'épisode : valise, perdu, voie, annonce, bureau des objets trouvés, précis, étiquette, lourd, cadeau, formulaire, dessus, sous, stable, en travaux, et plusieurs autres mots utiles.
+
+Vous trouverez sur la page de l'épisode le guide d'apprentissage, la note culturelle, le dialogue lent, le dialogue à vitesse naturelle et la transcription complète.]]></description>
+      <content:encoded><![CDATA[<p><strong>Guide complet et transcription :</strong> <a href="https://skepvox.com/podcast/francais/002-la-valise-verte#transcription-complete">https://skepvox.com/podcast/francais/002-la-valise-verte#transcription-complete</a></p>
+
+<p>Dans cet épisode de <strong>Vox Français</strong>, Camille arrive au bureau des objets trouvés d'une gare pour chercher une valise verte perdue après un voyage.</p>
+
+<p>La conversation aide à décrire un objet, situer un service, expliquer un état et corriger une situation concrète avec des phrases simples autour de être.</p>
+
+<p>Le guide de leçon explique aussi le vocabulaire important de l'épisode : valise, perdu, voie, annonce, bureau des objets trouvés, précis, étiquette, lourd, cadeau, formulaire, dessus, sous, stable, en travaux, et plusieurs autres mots utiles.</p>
+
+<p>Vous trouverez sur la page de l'épisode le guide d'apprentissage, la note culturelle, le dialogue lent, le dialogue à vitesse naturelle et la transcription complète.</p>]]></content:encoded>
+      <enclosure url="https://media.skepvox.com/podcast/francais/audio/francais-002-la-valise-verte-v6.mp3" length="33382653" type="audio/mpeg" />
+      <itunes:duration>00:23:11</itunes:duration>
+      <itunes:episode>2</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>

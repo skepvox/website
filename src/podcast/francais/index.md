@@ -108,3 +108,4 @@ Les pages de cette section réunissent les transcriptions, le vocabulaire et les
 ## Leçons
 
 - [001 - Le badge](/podcast/francais/001-le-badge) — le verbe « être » au présent, l'identité, les rôles, les lieux et l'orientation dans une interaction quotidienne.
+- [002 - La valise verte](/podcast/francais/002-la-valise-verte) — décrire un objet, situer un service, préciser un état et clarifier une situation concrète.
