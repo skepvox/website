@@ -10,6 +10,8 @@
   --sk-reading-muted: rgba(33, 53, 71, 0.62);
   --sk-reading-rule: rgba(33, 53, 71, 0.10);
   --sk-reading-accent: rgba(66, 184, 131, 0.18);
+  --sk-cue-active: rgba(66, 184, 131, 0.26);
+  --sk-cue-hover: rgba(33, 53, 71, 0.06);
 }
 
 .dark {
@@ -23,4 +25,6 @@
   --sk-reading-muted: rgba(255, 255, 255, 0.62);
   --sk-reading-rule: rgba(255, 255, 255, 0.10);
   --sk-reading-accent: rgba(66, 184, 131, 0.22);
+  --sk-cue-active: rgba(66, 184, 131, 0.32);
+  --sk-cue-hover: rgba(255, 255, 255, 0.08);
 }
