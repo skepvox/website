@@ -39,6 +39,11 @@ const props = defineProps<{
 // which cue is highlighted — click-to-seek still uses the true cue.start. Kept
 // small so it never lights up the next phrase before it is spoken.
 const VISUAL_SYNC_OFFSET_SECONDS = 0.15
+const MEDIA_SESSION_ARTWORK = {
+  src: '/skepvox-media-session.png',
+  sizes: '512x512',
+  type: 'image/png'
+}
 
 // Flat, time-ordered cue list + id->index map, built once (props are static).
 // Pure data work — safe to run during SSR.
@@ -216,8 +221,9 @@ function onReducedMotionChange(event: MediaQueryListEvent): void {
   prefersReduced = event.matches
 }
 
-// Populate the OS media surface (lock screen / Dynamic Island) with the show
-// artwork and titles. Artwork is the existing media.skepvox.com show cover.
+// Populate the OS media surface (lock screen / Dynamic Island) with the
+// episode/show titles and the compact skepvox app mark. The show covers remain
+// the page/feed/share artwork, but they are too detailed for tiny system UI.
 function setupMediaSession(): void {
   const ms = typeof navigator !== 'undefined' ? navigator.mediaSession : undefined
   if (!ms || typeof MediaMetadata === 'undefined') return
@@ -226,9 +232,7 @@ function setupMediaSession(): void {
       title: props.episode.title,
       artist: props.episode.showTitle,
       album: props.episode.showTitle,
-      artwork: props.episode.artworkUrl
-        ? [{ src: props.episode.artworkUrl, sizes: '3000x3000', type: 'image/jpeg' }]
-        : []
+      artwork: [MEDIA_SESSION_ARTWORK]
     })
   } catch {
     /* metadata unsupported — ignore */

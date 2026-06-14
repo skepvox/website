@@ -340,9 +340,9 @@ def build_episode(show: str, number: int) -> Path:
     all_ids = [c["id"] for c in cues]
     unmapped = len(all_ids) - len(mapped_ids)
     duplicates = len(mapped_ids) - len(set(mapped_ids))
-    if sorted(mapped_ids) != sorted(all_ids) or unmapped or duplicates:
+    if mapped_ids != all_ids or unmapped or duplicates:
         raise BuildError(
-            f"{episode_id}: cue mapping is not a 1:1 cover "
+            f"{episode_id}: cue mapping is not a 1:1 in-order cover "
             f"(unmapped={unmapped}, duplicates={duplicates})"
         )
 
