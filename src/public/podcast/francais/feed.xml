@@ -2,7 +2,8 @@
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title>Vox Français</title>
     <link>https://www.skepvox.com/podcast/francais/</link>
@@ -31,7 +32,7 @@ Page de l'émission : https://www.skepvox.com/podcast/francais/]]></itunes:summa
       <title>Vox Français</title>
       <link>https://www.skepvox.com/podcast/francais/</link>
     </image>
-    <lastBuildDate>Sun, 14 Jun 2026 09:31:23 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 14:39:05 -0300</lastBuildDate>
 
     <item>
       <title>001 - Le badge</title>
@@ -56,8 +57,9 @@ Vous trouverez sur la page de l'épisode le guide d'apprentissage, la note cultu
 <p>Le guide de leçon explique aussi le vocabulaire important de l'épisode : bénévole, forum des associations, accueil, orienter, badge, mairie, couloir, programme, disponible, et plusieurs autres mots utiles.</p>
 
 <p>Vous trouverez sur la page de l'épisode le guide d'apprentissage, la note culturelle, le dialogue lent, le dialogue à vitesse naturelle et la transcription complète.</p>]]></content:encoded>
-      <enclosure url="https://media.skepvox.com/podcast/francais/audio/francais-001-le-badge-v7.mp3" length="32577663" type="audio/mpeg" />
-      <itunes:duration>00:22:37</itunes:duration>
+      <enclosure url="https://media.skepvox.com/podcast/francais/audio/francais-001-le-badge-v8.mp3" length="32482369" type="audio/mpeg" />
+      <podcast:transcript url="https://media.skepvox.com/podcast/francais/transcripts/francais-001-le-badge-v8.vtt" type="text/vtt" language="fr" rel="captions" />
+      <itunes:duration>00:22:33</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>

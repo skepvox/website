@@ -193,7 +193,7 @@ Faire disparaître revient aussi dans la dernière phrase. Au début, Claire dis
 
 Cette dernière phrase fonctionne parce qu'elle ne dit pas directement que la situation est drôle. Elle transforme simplement le problème en numéro de magie. Mathieu voulait quelqu'un sous une cape ; Claire lui montre que son vrai tour a déjà commencé. Dans cette scène, le badge ne clarifie pas l'identité. Il déplace les rôles, puis il révèle le vrai problème.
 
-Gardez aussi une petite note de registre. Claire et Mathieu se vouvoient parce qu'ils sont dans un lieu public et ne se connaissent pas personnellement. Ce vouvoiement garde une distance polie, même quand Claire devient ironique. Elle décrit l'absurde avec précision, et ce ton très sérieux donne au dialogue son humour sec.
+Gardez aussi une petite note de registre. Claire et Mathieu se vouvoient parce qu'ils sont dans un lieu public et ne se connaissent pas. Ce vouvoiement garde une distance polie, même quand Claire devient ironique. Elle décrit l'absurde avec précision, et ce ton très sérieux donne au dialogue son humour sec.
 
 Avant de réécouter, retenez quelques expressions utiles : je suis bénévole, je suis à l'accueil, vous êtes laquelle, il est écrit sur le badge, je ne suis pas vraiment à l'accueil. Elles servent à dire une identité, un rôle, une information écrite ou une correction, mais aussi à faire avancer une catastrophe municipale. Maintenant, écoutons le dialogue, cette fois à vitesse naturelle.
 
