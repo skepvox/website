@@ -91,6 +91,11 @@ head:
       }
 ---
 
+<script setup>
+import PodcastPlayer from '@theme/components/PodcastPlayer.vue'
+import cues from './001-the-two-minute-phone-call.cues.json'
+</script>
+
 # Vox English 001 - The Two-Minute Phone Call
 
 This page accompanies episode 001 of Vox English, a skepvox series by Thiago Oliveira for practical English learning. It brings together the complete transcript, the dialogue and the learning guide.
@@ -103,109 +108,7 @@ This page accompanies episode 001 of Vox English, a skepvox series by Thiago Oli
 
 ## Complete Transcript
 
-Use the sections below to go directly to the transcript, the slow version, the explanation and the natural-speed repetition.
-
-## Introduction
-
-Welcome to Vox English. Today we are in a shared apartment building, where a small favor becomes less small with every sentence. Nora is trying to cook, and Leo is trying to borrow a step ladder without making the evening more complicated. The call stays friendly, but it keeps slipping between practical help, awkward timing, and quiet pressure in the hallway. Listen for how both speakers stay polite while trying to get the situation moving. Let's get started.
-
-## Dialogue - slow version
-
-[start of dialogue]
-Leo: So, quick thing. Are you using your step ladder tonight?
-
-Nora: I wasn't planning to. Why does that sound like the opening of a much longer thing?
-
-Leo: Well, it depends how emotionally attached you are to your hallway light bulb, and whether you believe stairs deserve warning labels after sunset.
-
-Nora: Right. That is not a quick thing. Is something broken?
-
-Leo: Not broken. More... committed to darkness. I changed my bulb, then noticed your landing light is also out, which feels unfair to everyone carrying soup, laundry, or confidence after nine.
-
-Nora: Anyway, do you need the ladder, or are we discussing stair justice as a civic principle?
-
-Leo: Ladder. Definitely ladder. I mean, also justice, but mainly ladder. I thought if I fixed both bulbs, we'd all enjoy not falling with dignity, which feels like a shared building goal.
-
-Nora: Fine. I'm cooking, so come by in ten minutes and I'll leave it by the door.
-
-Leo: Right, about "come by". I'm already sort of adjacent. Outside your apartment, specifically, with the old bulb, the new bulb, and an optimism that now seems theatrical.
-
-Nora: So this call was not "can I borrow the ladder?" It was "please open the door before I look stranger than I already do."
-
-Leo: That's a fair reading. I was trying to arrive with context rather than just knock while holding equipment like a very local emergency and frightening your doorbell.
-
-Nora: You arrived with a ladder-shaped silence on the other side of my door. There's a difference, especially when the hallway has witnesses.
-
-Leo: Anyway, shall I knock, or has the phone call become the knock? I'm happy to respect whichever system your pasta prefers, including silence with occasional regret.
-
-Nora: Right then. Stay there, stop narrating, and don't lean on the door. I've got pasta in a dangerous stage and a neighbor in a stranger one.
-
-Leo: Understood. Quiet neighbor mode. Mostly. If the bulb starts a speech, that's not on me.
-[end of dialogue]
-
-## Explanation
-
-Leo begins with "So, quick thing." This is a soft opening. The word "so" leans forward and says, "I am bringing something up now." Then "quick thing" makes the request sound small before we know what it is. In daily talk, this can be friendly and efficient: "So, quick thing, can I borrow your charger?" But it can also be a warning sign, because many "quick things" are not quick at all. Nora hears that immediately. Her reply does not reject the request; it questions the shape of the conversation. She is already preparing to steer. Notice the placement: "so" comes before the request, not inside it. It frames the whole turn. If the voice rises gently after "so", the opening feels warm; if it lands too heavily, it can sound like an announcement. In a real call, the first marker often tells you what kind of turn is coming before the practical content arrives.
-
-Nora says, "I wasn't planning to. Why does that sound like the opening of a much longer thing?" Notice the contraction "wasn't". It keeps the answer light and spoken. More importantly, she names the social pattern. Leo has not yet asked for the ladder directly, but his opening has the sound of a story. "A much longer thing" is a useful everyday phrase for a request that is pretending to be simple. At this point the scene is still open: Nora might help, but she will not let Leo hide the size of the favor. This is social listening: she hears the request behind the pre-request. A similar line could appear before a long explanation, a delayed apology, or a favor that arrives wrapped in too much background. The humor stays gentle because she questions the shape of the request, not Leo himself.
-
-Leo answers, "Well, it depends..." Here "well" is not just filler. It tells the listener that the answer is not straightforward. If someone asks, "Can you come tonight?" and the answer begins "Well...", you already expect a condition, a delay, or a soft no. Leo then makes the line more comic: "how emotionally attached you are to your hallway light bulb." He could simply say, "Your light is out." Instead, he treats the bulb like a relationship. The marker gives him time; the image gives him personality. If he began with a plain "yes" or "no", the social warning would disappear. The pause after "well" also matters: it gives the listener a tiny moment to prepare for complication. In speech, that tiny delay can be kinder than a blunt answer, because it lets the other person adjust before the news arrives.
-
-Nora's short "Right" does a different job. It is not the tag "right?" at the end of a question. It is a compact acknowledgment: "I hear enough to continue." Then she says, "That is not a quick thing." She pulls the call back from Leo's dramatic wording to the practical issue. "Is something broken?" is direct, but not rude. The rhythm matters: short marker, short judgment, short question. Nora is not giving a speech; she is tightening the exchange so Leo has to answer clearly. A rising "right?" would ask for confirmation. This flat "Right" keeps control of the floor. In a phone call, that kind of short turn is useful because the other person cannot see your face or your impatience. It also lets her sound alert rather than annoyed: she has understood the problem is probably bigger, and she wants the usable version now.
-
-Leo says the light is "not broken. More... committed to darkness." The little repair, "More...", sounds like someone adjusting the wording while speaking. "Committed to darkness" is humorous personification: an object is described as if it has chosen a position. People use this dry trick for small problems: a phone that is not dead, just resting, or a printer on strike. Giving an object a will makes a complaint sound playful rather than flat. Then Leo mentions soup, laundry, and confidence after nine. The list makes the dark stairs feel practical, not abstract. He is still drifting, though. We understand the problem, but Nora still does not have the simple request. The conversation needs another steering move. This is where a fluent speaker often uses a marker to avoid sounding abrupt. Nora could jump in with "What do you want?", but that would change the relationship temperature. Her next move keeps the shared humor alive while still making the call useful. The list also reveals Leo's style: he turns a small maintenance task into a public-safety story, which is exactly why Nora has to manage the pace.
-
-Nora uses "Anyway" to pivot: "Anyway, do you need the ladder, or are we discussing stair justice as a civic principle?" This is the classic job of "anyway". It closes one thread and returns to the useful path. The phrase "stair justice" copies Leo's dramatic tone but shrinks it into a joke. In another setting, "anyway" can sound dismissive. Here it is controlled and warm because Nora keeps the humor while moving the call forward. She is not ignoring Leo; she is rescuing the call from the tangent. The listener hears both things at once: affection and direction. This is why "anyway" needs care; it can close a side path politely or cut someone off sharply. If the voice is light and quick, it feels like a helpful return; if it is hard and flat, it can feel like a shutdown.
-
-Leo's answer is beautifully spoken: "Ladder. Definitely ladder. I mean, also justice, but mainly ladder." The fragments are important. He does not say a polished full sentence. He gives a one-word answer, strengthens it, then repairs himself. "I mean" signals that he is rephrasing or correcting the previous bit. In daily English, "I mean" often softens a change of direction: "I mean, I can help, just not tonight." Here it lets Leo keep the comic idea of justice while admitting the practical object is the ladder. Without the fragments, the line would lose its live, slightly embarrassed rhythm. The correction also tells Nora that her steering worked: he has returned to the object. The order is useful: object first, joke second, object again. That is why the line stays clear even though Leo is being ridiculous. It is also why the dialogue can stay fast later: the listener has a firm noun to hold onto.
-
-Nora gives a clear plan: "come by in ten minutes." Leo then says, "Right, about 'come by'." This "right" prepares a correction. The phrase "about..." is a gentle way to revisit a detail that no longer fits. Then comes the dry word "adjacent". It means very near or next to something, but it sounds slightly too formal for a neighbor call. Leo immediately cushions it: "Outside your apartment, specifically." That plain phrase makes the meaning recoverable. He is not somewhere nearby in theory. He is already at the door. The careful word hides the awkwardness for half a second. This is a good example of a stretch word made clear by the next phrase. It is also a useful listening pattern: when someone says "about that", expect a correction, a problem, or a missing condition. The politeness is indirect, but the information is not: after "specifically", there is nowhere left to hide.
-
-Now Nora uses the other kind of "so": "So this call was not 'can I borrow the ladder?' It was 'please open the door before I look stranger than I already do.'" This is inferential "so". It does not open a topic; it draws a conclusion from what Leo has implied and puts that conclusion back to him for confirmation, which is why he can answer, "That's a fair reading." The contrast between the two quoted versions is the heart of the turn. Nora translates the polite request into the real social situation. Leo has tried to arrive with context, but Nora hears the awkward truth underneath it. The tone should land flatter than the opening "so", because it is a deduction, not a new topic. In listening, that difference is often clearer from the melody than from the word itself. The line also protects the comedy: Nora does not call him strange directly as an insult; she turns his situation into a quoted message.
-
-Leo accepts the reading: "That's a fair reading." This phrase is a useful way to concede without sounding defeated. He says he wanted to arrive with context, not "like a very local emergency." A local emergency is small in scale but urgent in that one place. Nora answers with "a ladder-shaped silence", a dry image for someone waiting outside without knocking. The phrase is not literal, but the meaning is clear from the scene: his presence is already communicating. The hallway witnesses make the pressure more social. The image also keeps Nora from sounding genuinely angry. She is correcting the behavior while still playing inside Leo's comic frame. At a service counter, in a kitchen, or in a hallway, that balance matters: the problem needs to move, but the person must not feel crushed by the correction. "Fair reading" and "there's a difference" are both firm, but neither one turns the exchange into a fight.
-
-Leo then tries one more steering move: "Anyway, shall I knock, or has the phone call become the knock?" Again, "anyway" pulls the talk toward action. The second half is the reveal in practical form. A knock usually announces that someone is at the door. Here, the call has already done that work. The phrase "whichever system your pasta prefers" keeps Nora's cooking pressure inside the scene. Leo is still playful, but he is finally asking what to do now, not adding more background. That is the shift from story to action. The marker helps him climb back from the awkward reveal into a useful next step. Notice that he asks a real question at the end. After all the comic wording, he finally gives Nora the power to choose the next move. That matters socially because he is standing in her space; the choice should belong to the person inside the door.
-
-Nora closes with "Right then." This should fall, not rise. A rising "right?" would invite confirmation; a falling "Right then" says, "Decision made." Her instructions are concrete: stay there, stop narrating, do not lean on the door. "Pasta in a dangerous stage" keeps the kitchen pressure funny and immediate. Leo's final "Quiet neighbor mode. Mostly." accepts the close while leaving a tiny bit of character noise. The word "mostly" is important because it leaves one last little opening for Leo's personality without reopening the call. The small words have moved the call from request, to tangent, to inference, to action. That is why they matter in listening: they show where the conversation is going before the main information arrives. In a real call, you might miss one detail and still follow the exchange if you hear these steering points. Now let's listen to the dialogue again, this time at natural speed.
-
-## Dialogue - natural speed
-
-[start of dialogue]
-Leo: So, quick thing. Are you using your step ladder tonight?
-
-Nora: I wasn't planning to. Why does that sound like the opening of a much longer thing?
-
-Leo: Well, it depends how emotionally attached you are to your hallway light bulb, and whether you believe stairs deserve warning labels after sunset.
-
-Nora: Right. That is not a quick thing. Is something broken?
-
-Leo: Not broken. More... committed to darkness. I changed my bulb, then noticed your landing light is also out, which feels unfair to everyone carrying soup, laundry, or confidence after nine.
-
-Nora: Anyway, do you need the ladder, or are we discussing stair justice as a civic principle?
-
-Leo: Ladder. Definitely ladder. I mean, also justice, but mainly ladder. I thought if I fixed both bulbs, we'd all enjoy not falling with dignity, which feels like a shared building goal.
-
-Nora: Fine. I'm cooking, so come by in ten minutes and I'll leave it by the door.
-
-Leo: Right, about "come by". I'm already sort of adjacent. Outside your apartment, specifically, with the old bulb, the new bulb, and an optimism that now seems theatrical.
-
-Nora: So this call was not "can I borrow the ladder?" It was "please open the door before I look stranger than I already do."
-
-Leo: That's a fair reading. I was trying to arrive with context rather than just knock while holding equipment like a very local emergency and frightening your doorbell.
-
-Nora: You arrived with a ladder-shaped silence on the other side of my door. There's a difference, especially when the hallway has witnesses.
-
-Leo: Anyway, shall I knock, or has the phone call become the knock? I'm happy to respect whichever system your pasta prefers, including silence with occasional regret.
-
-Nora: Right then. Stay there, stop narrating, and don't lean on the door. I've got pasta in a dangerous stage and a neighbor in a stranger one.
-
-Leo: Understood. Quiet neighbor mode. Mostly. If the bulb starts a speech, that's not on me.
-[end of dialogue]
-
-## Conclusion
-
-In this scene, the smallest words carry the shape of the call. "So" opens it. "Well" slows the answer down. "Anyway" pulls everyone back from the tangent. "So" later turns into a conclusion, and "Right then" closes the talk with action. Listen again for where each marker sits, how the voice rises or falls, and how Nora keeps the ladder, the door, and the pasta moving in the same direction.
+<PodcastPlayer :episode="cues.episode" :sections="cues.sections" />
 
 ## Learning Guide
 

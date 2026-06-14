@@ -91,6 +91,11 @@ head:
       }
 ---
 
+<script setup>
+import PodcastPlayer from '@theme/components/PodcastPlayer.vue'
+import cues from './001-la-boda-es-a-las-seis.cues.json'
+</script>
+
 # Vox Español 001 - La boda es a las seis
 
 Esta página acompaña el episodio 001 de Vox Español, una serie skepvox de Thiago Oliveira para aprender español. Reúne la transcripción completa, el diálogo y la guía de aprendizaje.
@@ -103,125 +108,7 @@ Esta página acompaña el episodio 001 de Vox Español, una serie skepvox de Thi
 
 ## Transcripción completa
 
-Use las secciones siguientes para entrar directamente en la transcripción, en la versión lenta, en la explicación y en la repetición a velocidad natural.
-
-## Introducción
-
-Bienvenidos a Podcast de español como lengua extranjera. Hoy escucharemos una escena en una boda civil organizada en un restaurante. Marta coordina la celebración, mira el reloj y ve problemas en cada rincón. Diego llega con prisa, una carpeta y mucha cortesía, pero la conversación no avanza como él espera. Fíjense en cómo los personajes hablan de identidad, lugar, estado y función mientras intentan mantener la calma, incluso cuando todo parece urgente. Vamos allá.
-
-## Diálogo - versión lenta
-
-[inicio del diálogo]
-
-Marta: Por fin. Usted es Diego, ¿verdad? La boda es a las seis, el salón está listo, los novios están nerviosos y el DJ está perdido. El restaurante es precioso cuando nadie corre.
-
-Diego: Soy Diego, sí, pero no estoy seguro de que usted...
-
-Marta: Nadie está seguro en una boda. Eso es normal. El ramo está en la barra, las copas están limpias y la tarta es de limón, aunque ahora está un poco inclinada.
-
-Diego: Vengo por la ceremonia, no por el banquete. Soy funcionario del registro civil y estoy citado con los novios desde las cinco y media.
-
-Marta: Perfecto, un funcionario siempre es útil. Entonces esté aquí, junto a la mesa, y revise esta lista. La mesa es redonda, pero el problema es cuadrado: faltan dos primos, sobra una tía y una silla está coja.
-
-Diego: Creo que hay una confusión. Mi sitio no está junto a la mesa.
-
-Marta: Su sitio está donde hay crisis. El novio está en la terraza porque dice que está tranquilo. No está tranquilo. Es muy educado, pero hoy está transparente.
-
-Diego: ¿Y la novia?
-
-Marta: Está arriba con su hermana. La hermana es médica, pero ahora está de estilista, psicóloga y guardia de seguridad emocional.
-
-Diego: Entiendo, pero la boda no puede empezar sin mí. No lo digo por importancia personal; lo digo porque el acta está en mi carpeta.
-
-Marta: Claro que no. Nadie empieza sin las servilletas. Son blancas, están en cajas y una caja está en el baño por motivos que prefiero no investigar.
-
-Diego: Señora, yo no soy del restaurante.
-
-Marta: Hoy nadie es completamente de su oficio. El camarero está de florista, el florista está en la cocina y mi jefe está debajo de una mesa diciendo que está ocupado.
-
-Diego: Entonces escúcheme: yo soy la persona que pregunta a los novios si quieren casarse.
-
-Marta: ¿Usted es esa persona?
-
-Diego: Sí. Y ahora estoy con servilletas, lejos de los novios y peligrosamente cerca de la tarta inclinada.
-
-Marta: Muy bien. Cambio de plan: la tarta está en observación, las servilletas están solteras y usted está en el altar. Si alguien pregunta, usted no está perdido; está estratégicamente localizado.
-
-Diego: Perfecto. Si los novios siguen allí, la boda todavía es hoy.
-
-[fin del diálogo]
-
-## Explicación
-
-La escena empieza con prisa y con una pregunta sencilla: «Usted es Diego, ¿verdad?». Marta necesita confirmar una identidad, pero enseguida mezcla esa identidad con todo lo que está pasando alrededor. La palabra «boda civil» es importante: no es solo una fiesta, sino una ceremonia con una parte oficial. En la escena, esa ceremonia ocurre en un restaurante, dentro de un ambiente práctico y urgente. Marta dice que «la boda es a las seis». Aquí la hora organiza el evento, como cuando decimos que una reunión es a las diez o que una cena es en el salón. La frase fija el momento. Si la boda es a las seis, cada retraso tiene consecuencias. El reloj convierte una confusión pequeña en un problema serio, y por eso Marta habla tan rápido desde la primera línea. La primera pista importante, entonces, no es una etiqueta: es la urgencia.
-
-Marta presenta tres datos rápidos: «el salón está listo», «los novios están nerviosos» y «el DJ está perdido». El «salón» es la sala de la celebración, y «listo» aquí significa preparado. No hablamos de inteligencia; hablamos de un espacio que ya puede recibir a los invitados. Una pista de pronunciación: «es» es breve; «está» y «están» llevan la fuerza en la última sílaba y por eso se escriben con tilde. Ese cambio rítmico ayuda a separar identidad y estado. «Nerviosos» describe el estado emocional de los novios en ese momento. «Perdido» puede significar que alguien no sabe dónde está o que no aparece donde debería. Estas palabras son muy reutilizables: una sala puede estar lista, una persona puede estar nerviosa y una llave puede estar perdida. En una boda, los tres datos juntos cuentan la escena: el lugar parece preparado, las personas están tensas y una pieza del plan ha desaparecido. Diego entra en una organización que parece lista por fuera, pero inestable por dentro. Esa tensión se entiende mejor en la situación que en una lista abstracta.
-
-Cuando Diego intenta hablar, Marta lo interrumpe con objetos: el «ramo», las copas y la tarta. El ramo es el conjunto de flores asociado a la ceremonia; en el diálogo está en la barra, es decir, en el mostrador del restaurante. Si alguien dice «el ramo está en la barra», entendemos un objeto colocado en un lugar poco ideal. Las copas están limpias, así que ese problema parece resuelto. La tarta «es de limón» y «está un poco inclinada». Esta combinación es muy útil. El sabor nos dice qué tarta es; la inclinación muestra cómo se encuentra ahora. «Inclinado» sirve para una tarta, una mesa o una calle. Marta no está explicando nada: está vigilando un postre que puede caerse durante una boda. La tarta se vuelve casi un personaje silencioso: no habla, pero amenaza la calma. Por eso conviene recordarla durante todo el diálogo.
-
-Diego por fin explica su llegada: «Vengo por la ceremonia, no por el banquete». El «banquete» es la comida o fiesta después de la parte formal. Luego dice: «Soy funcionario del registro civil y estoy citado con los novios». Un funcionario trabaja para una administración pública; el registro civil trata documentos oficiales, como matrimonios y nacimientos. «Citado» indica que alguien tiene una cita o una hora acordada. Podemos estar citados con un médico, con una oficina o con una persona en un lugar concreto. En esta línea, Diego intenta separar su identidad profesional de la logística del restaurante. Él no viene a mover sillas ni a mirar la tarta. Viene porque su función pertenece a la ceremonia, aunque Marta todavía no lo escuche. La palabra «funcionario» debería resolver el malentendido, pero en la mente de Marta solo significa «adulto útil». Esa interpretación equivocada mantiene vivo el conflicto.
-
-Marta oye «funcionario» y lo convierte en ayuda disponible. Le pide que revise una «lista». Una lista parece una tarea pequeña, pero aquí abre otro mundo de problemas: faltan dos primos, sobra una tía y una silla está coja. «Coja», para una silla, significa que no se apoya bien, que se mueve o queda inestable. En una casa también podemos decir que una mesa está coja. La frase «la mesa es redonda, pero el problema es cuadrado» crea humor porque aplica una forma física a una dificultad social. Marta habla con seriedad, pero su manera de ordenar el caos es absurda. Para ella, cualquier persona que aparece puede quedar colocada junto a una crisis. Diego intenta entrar en la escena como autoridad; Marta lo recibe como manos extra. Esa diferencia de lectura sostiene todo el diálogo. Una misma presencia produce dos historias distintas.
-
-Diego responde con una frase muy clara: «Mi sitio no está junto a la mesa». «Sitio» aquí significa lugar correcto, puesto o posición dentro del evento. Marta contesta: «Su sitio está donde hay crisis». Esa frase resume su lógica. Ella no pregunta quién es Diego; decide dónde debe estar según el problema más cercano. Después menciona al novio en la terraza. La «terraza» es un espacio exterior del restaurante, y el novio dice que está tranquilo. Marta no le cree: «No está tranquilo. Es muy educado, pero hoy está transparente». «Transparente» no es literal; significa que se le notan los nervios. La palabra normalmente describe algo que deja pasar la luz, como un cristal. Aquí describe una emoción demasiado visible. Marta observa estados, no identidades. Por eso Diego no consigue avanzar: cada vez que habla de su lugar correcto, Marta ve otro síntoma del caos. La cortesía de «usted» hace esa frustración más seca.
-
-Cuando Diego pregunta por la novia, Marta dice que está arriba con su hermana. Después aparece una de las mejores frases de la escena: «La hermana es médica, pero ahora está de estilista, psicóloga y guardia de seguridad emocional». «Estilista» es la persona que ayuda con imagen, ropa o peinado. Una «guardia de seguridad» protege un lugar; aquí Marta añade «emocional» para exagerar con humor. La hermana tiene una profesión real, pero cumple varios papeles temporales. La forma «estar de» ayuda a contar esa presión: durante una boda, una persona puede actuar como otra cosa por necesidad. Este no es un cambio de identidad profunda. Es una función de emergencia. La escena lo muestra con claridad: la hermana conserva su oficio, pero la situación la usa para tareas inesperadas. Este detalle prepara el error de Marta con Diego: si todos cambian de papel, Diego también puede ser absorbido por el caos. La frase enseña función temporal sin detener la escena.
-
-Diego insiste: «La boda no puede empezar sin mí». No lo dice por orgullo. Lo dice porque «el acta está en mi carpeta». El acta es un documento oficial; en una boda civil, ese documento importa más que muchos detalles decorativos. También puede haber un acta de una reunión, con decisiones y firmas. Si el acta falta, la ceremonia pierde su base formal. Marta, sin embargo, responde como si el centro del mundo fueran las servilletas. Las servilletas son piezas de tela o papel para la mesa, y en la escena «son blancas» pero «están en cajas». El contraste es cómico: Diego habla de la parte legal; Marta piensa en objetos visibles que todavía no han llegado a su lugar. Cada uno tiene razón dentro de su propio mapa de la boda. El problema es que esos mapas todavía no se han encontrado. Esa distancia hace que una respuesta lógica suene absurda. También muestra por qué el vocabulario administrativo y el vocabulario de mesa chocan en la misma conversación.
-
-Diego dice al fin: «Yo no soy del restaurante». No habla de ubicación, porque sí está físicamente en el restaurante. Habla de pertenencia y función: no forma parte del equipo que sirve la comida. Esta frase es importante porque separa presencia y papel. Marta responde: «Hoy nadie es completamente de su oficio». «Oficio» significa trabajo, profesión o actividad habitual; podemos hablar del oficio de carpintero, de cocinero o de florista. Su ejemplo lo explica todo: el camarero está de florista, el florista está en la cocina y el jefe está debajo de una mesa. «Florista» es la persona que prepara o vende flores, así que un camarero de florista ya muestra una organización desbordada. El humor nace de una situación reconocible: cuando un evento se desordena, los papeles oficiales importan menos que las tareas urgentes. Diego pide una frontera clara; Marta vive en un día sin fronteras claras. Ahí está el choque pragmático de la escena.
-
-Diego cambia de estrategia. En vez de decir solo «soy funcionario», define su acción: «Yo soy la persona que pregunta a los novios si quieren casarse». Esta frase es larga, pero funciona porque conecta su identidad con una escena concreta. «Casarse» es contraer matrimonio, y la pregunta a los novios es el centro simbólico de la ceremonia. Marta entiende de golpe: «¿Usted es esa persona?». La pregunta no trata de dónde está Diego, sino de quién es dentro de la boda. La diferencia clave aquí no es dónde está Diego, sino quién es: la identidad reordena toda la escena. Antes, Diego era para Marta una persona útil cerca de una mesa. Ahora es la persona necesaria en el momento central. La revelación no añade un chiste externo; reorganiza todo lo que ya hemos oído. Esa es la fuerza del final: no cambia los hechos, cambia su lectura.
-
-La reacción de Marta es inmediata: «Cambio de plan». La tarta queda «en observación», como si fuera un paciente o un objeto peligroso. La expresión se usa cuando alguien vigila una situación para ver si mejora o empeora. Literalmente, una persona soltera no está casada. Las servilletas están «solteras», una broma pequeña porque todo ocurre en una boda y las servilletas aún no están colocadas con las mesas. Y Diego, por fin, está en el «altar», el lugar principal de la ceremonia. En una boda civil, el altar puede ser una mesa o un espacio preparado, no necesariamente un altar religioso. Marta no pide una larga disculpa. Reorganiza el mundo: tarta vigilada, servilletas esperando y Diego en su sitio. Su talento no es admitir errores; es convertirlos en un nuevo plan. La frase es seca y rápida, por eso la comedia no necesita explicarse dentro del diálogo. Marta salva la situación sin abandonar su estilo.
-
-La expresión «estratégicamente localizado» cierra el malentendido con elegancia cómica. Marta toma un error y lo viste como decisión inteligente: Diego no estaba perdido, estaba localizado de forma estratégica. «Localizado» se relaciona con el lugar; «estratégicamente» añade una importancia casi administrativa, como si todo hubiera sido calculado. En la vida diaria, «localizar» puede ser encontrar un objeto, ubicar un problema o conseguir hablar con una persona. Diego acepta el juego con su última línea: «Si los novios siguen allí, la boda todavía es hoy». «Seguir allí» significa continuar en el mismo lugar. La frase recuerda que la ceremonia depende de que las personas correctas estén donde deben estar. También devuelve la escena al reloj inicial: la boda era a las seis, y todavía puede ocurrir. En esta escena, cada frase ayuda a ordenar una boda que casi se desordena por completo. La clave es escuchar qué necesita cada personaje en cada momento. Ahora escuchemos el diálogo, esta vez a velocidad natural.
-
-## Diálogo - velocidad natural
-
-[inicio del diálogo]
-
-Marta: Por fin. Usted es Diego, ¿verdad? La boda es a las seis, el salón está listo, los novios están nerviosos y el DJ está perdido. El restaurante es precioso cuando nadie corre.
-
-Diego: Soy Diego, sí, pero no estoy seguro de que usted...
-
-Marta: Nadie está seguro en una boda. Eso es normal. El ramo está en la barra, las copas están limpias y la tarta es de limón, aunque ahora está un poco inclinada.
-
-Diego: Vengo por la ceremonia, no por el banquete. Soy funcionario del registro civil y estoy citado con los novios desde las cinco y media.
-
-Marta: Perfecto, un funcionario siempre es útil. Entonces esté aquí, junto a la mesa, y revise esta lista. La mesa es redonda, pero el problema es cuadrado: faltan dos primos, sobra una tía y una silla está coja.
-
-Diego: Creo que hay una confusión. Mi sitio no está junto a la mesa.
-
-Marta: Su sitio está donde hay crisis. El novio está en la terraza porque dice que está tranquilo. No está tranquilo. Es muy educado, pero hoy está transparente.
-
-Diego: ¿Y la novia?
-
-Marta: Está arriba con su hermana. La hermana es médica, pero ahora está de estilista, psicóloga y guardia de seguridad emocional.
-
-Diego: Entiendo, pero la boda no puede empezar sin mí. No lo digo por importancia personal; lo digo porque el acta está en mi carpeta.
-
-Marta: Claro que no. Nadie empieza sin las servilletas. Son blancas, están en cajas y una caja está en el baño por motivos que prefiero no investigar.
-
-Diego: Señora, yo no soy del restaurante.
-
-Marta: Hoy nadie es completamente de su oficio. El camarero está de florista, el florista está en la cocina y mi jefe está debajo de una mesa diciendo que está ocupado.
-
-Diego: Entonces escúcheme: yo soy la persona que pregunta a los novios si quieren casarse.
-
-Marta: ¿Usted es esa persona?
-
-Diego: Sí. Y ahora estoy con servilletas, lejos de los novios y peligrosamente cerca de la tarta inclinada.
-
-Marta: Muy bien. Cambio de plan: la tarta está en observación, las servilletas están solteras y usted está en el altar. Si alguien pregunta, usted no está perdido; está estratégicamente localizado.
-
-Diego: Perfecto. Si los novios siguen allí, la boda todavía es hoy.
-
-[fin del diálogo]
-
-## Conclusión
-
-Hoy Marta ha visto una crisis en cada mesa, y Diego ha tenido que defender su verdadero papel con mucha paciencia. Recuerden algunas palabras de la escena: el acta, el ramo, el oficio, el altar y la tarta en observación. En la próxima escucha, sigan a Diego: no está perdido, solo necesita que todos entiendan quién es y dónde debe estar. Hasta la próxima, y que sus servilletas nunca estén solteras demasiado tiempo.
+<PodcastPlayer :episode="cues.episode" :sections="cues.sections" />
 
 ## Guía de aprendizaje
 
