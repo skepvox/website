@@ -2,7 +2,8 @@
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title>Vox English</title>
     <link>https://www.skepvox.com/podcast/english/</link>
@@ -31,7 +32,7 @@ Show page: https://www.skepvox.com/podcast/english/]]></itunes:summary>
       <title>Vox English</title>
       <link>https://www.skepvox.com/podcast/english/</link>
     </image>
-    <lastBuildDate>Sun, 14 Jun 2026 11:55:40 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 15:04:01 -0300</lastBuildDate>
 
     <item>
       <title>001 - The Two-Minute Phone Call</title>
@@ -59,6 +60,7 @@ On the episode page, you will find the learning guide, cultural and practical no
 
 <p>On the episode page, you will find the learning guide, cultural and practical note, slow dialogue, natural-speed dialogue, and complete transcript.</p>]]></content:encoded>
       <enclosure url="https://media.skepvox.com/podcast/english/audio/english-001-the-two-minute-phone-call-v1.mp3" length="30580863" type="audio/mpeg" />
+      <podcast:transcript url="https://media.skepvox.com/podcast/english/transcripts/english-001-the-two-minute-phone-call-v1.vtt" type="text/vtt" language="en" rel="captions" />
       <itunes:duration>00:21:14</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
