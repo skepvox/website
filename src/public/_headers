@@ -2,6 +2,17 @@
 /assets/*
   Cache-Control: public, max-age=31536000, immutable
 
+# LLM helper artifacts should remain crawlable/readable for tools, but the
+# canonical HTML pages should be the only versions indexed by search engines.
+/llms.txt
+  X-Robots-Tag: noindex
+
+/llms-full.txt
+  X-Robots-Tag: noindex
+
+/*.md
+  X-Robots-Tag: noindex
+
 # Security headers for all responses
 /*
   X-Content-Type-Options: nosniff
