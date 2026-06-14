@@ -6,6 +6,7 @@ interface Cue {
   start: number
   end: number
   text: string
+  sep: string
 }
 interface Paragraph {
   id: string
@@ -21,7 +22,9 @@ interface Section {
 interface Episode {
   id: string
   title: string
+  showTitle: string
   audioUrl: string
+  artworkUrl?: string
   lang: string
   durationSeconds?: number
 }
@@ -31,6 +34,12 @@ const props = defineProps<{
   sections: Section[]
 }>()
 
+// Display-only nudge: ASR word timestamps tend to lag the true spoken onset, so
+// the highlight is chosen slightly ahead of audio.currentTime. This affects ONLY
+// which cue is highlighted — click-to-seek still uses the true cue.start. Kept
+// small so it never lights up the next phrase before it is spoken.
+const VISUAL_SYNC_OFFSET_SECONDS = 0.15
+
 // Flat, time-ordered cue list + id->index map, built once (props are static).
 // Pure data work — safe to run during SSR.
 const flatCues: Cue[] = props.sections.flatMap((section) =>
@@ -38,16 +47,27 @@ const flatCues: Cue[] = props.sections.flatMap((section) =>
 )
 const indexById = new Map<string, number>(flatCues.map((cue, i) => [cue.id, i]))
 
+const playerRef = ref<HTMLElement | null>(null)
+const barRef = ref<HTMLElement | null>(null)
 const audioRef = ref<HTMLAudioElement | null>(null)
 const transcriptRef = ref<HTMLElement | null>(null)
 const activeId = ref<string | null>(null)
 // Roving tabindex: exactly one cue is in the tab order; arrows move between them.
 const focusId = ref<string | null>(flatCues.length ? flatCues[0].id : null)
 
+// Desktop uses CSS position:sticky. On mobile the @vue/theme content wrapper has
+// overflow:auto, which disables sticky, so the bar is pinned with position:fixed
+// only while the transcript is in view (JS-driven). barHeight feeds the spacer
+// (no content jump) and the auto-scroll clearance.
+const pinned = ref(false)
+const barHeight = ref(64)
+
 // Client-only state (never read during SSR render).
 let following = true
 let prefersReduced = false
 let hint = 0
+let navHeight = 55
+let pinScheduled = false
 let mediaQuery: MediaQueryList | null = null
 
 function cssEscape(value: string): string {
@@ -78,17 +98,51 @@ function scrollActiveIntoView(id: string): void {
   const el = cueElement(id)
   if (!el) return
   // Only scroll when the active cue drifts out of a comfortable reading band,
-  // so the transcript does not re-center on every cue change.
+  // so the transcript does not re-center on every cue change. The band starts
+  // below the nav + audio bar so the active cue is never read under the bar.
   const rect = el.getBoundingClientRect()
   const viewport = window.innerHeight || document.documentElement.clientHeight
-  if (rect.top >= viewport * 0.2 && rect.bottom <= viewport * 0.75) return
+  const obstruction = navHeight + barHeight.value
+  const topGuard = Math.max(viewport * 0.18, obstruction + 16)
+  const bottomGuard = viewport * 0.8
+  if (rect.top >= topGuard && rect.bottom <= bottomGuard) return
   el.scrollIntoView({ block: 'center', behavior: prefersReduced ? 'auto' : 'smooth' })
+}
+
+function isNarrow(): boolean {
+  return window.matchMedia('(max-width: 768px)').matches
+}
+
+// Pin the bar (position:fixed) while the transcript is in view; otherwise leave
+// it in flow so it never floats over the intro or the learning-guide sections.
+function updatePin(): void {
+  pinScheduled = false
+  const player = playerRef.value
+  const transcript = transcriptRef.value
+  if (!player || !transcript || !isNarrow()) {
+    pinned.value = false
+    return
+  }
+  const playerTop = player.getBoundingClientRect().top
+  const transcriptBottom = transcript.getBoundingClientRect().bottom
+  pinned.value =
+    playerTop <= navHeight && transcriptBottom > navHeight + barHeight.value + 8
+}
+
+function schedulePin(): void {
+  if (pinScheduled) return
+  pinScheduled = true
+  requestAnimationFrame(updatePin)
+}
+
+function measureBar(): void {
+  if (barRef.value) barHeight.value = barRef.value.offsetHeight || barHeight.value
 }
 
 function syncActive(): void {
   const audio = audioRef.value
   if (!audio) return
-  const index = activeIndex(audio.currentTime)
+  const index = activeIndex(audio.currentTime + VISUAL_SYNC_OFFSET_SECONDS)
   const id = index >= 0 ? flatCues[index].id : null
   if (id === activeId.value) return
   activeId.value = id
@@ -103,7 +157,7 @@ function onPlay(): void {
 function seekTo(cue: Cue): void {
   const audio = audioRef.value
   if (!audio) return
-  audio.currentTime = cue.start
+  audio.currentTime = cue.start // seek uses the true cue start, not the offset
   activeId.value = cue.id
   following = true
   const played = audio.play()
@@ -162,24 +216,75 @@ function onReducedMotionChange(event: MediaQueryListEvent): void {
   prefersReduced = event.matches
 }
 
+// Populate the OS media surface (lock screen / Dynamic Island) with the show
+// artwork and titles. Artwork is the existing media.skepvox.com show cover.
+function setupMediaSession(): void {
+  const ms = typeof navigator !== 'undefined' ? navigator.mediaSession : undefined
+  if (!ms || typeof MediaMetadata === 'undefined') return
+  try {
+    ms.metadata = new MediaMetadata({
+      title: props.episode.title,
+      artist: props.episode.showTitle,
+      album: props.episode.showTitle,
+      artwork: props.episode.artworkUrl
+        ? [{ src: props.episode.artworkUrl, sizes: '3000x3000', type: 'image/jpeg' }]
+        : []
+    })
+  } catch {
+    /* metadata unsupported — ignore */
+  }
+  const bind = (action: MediaSessionAction, handler: MediaSessionActionHandler) => {
+    try {
+      ms.setActionHandler(action, handler)
+    } catch {
+      /* action unsupported on this platform */
+    }
+  }
+  bind('play', () => audioRef.value?.play())
+  bind('pause', () => audioRef.value?.pause())
+  bind('seekto', (details) => {
+    if (audioRef.value && details.seekTime != null) audioRef.value.currentTime = details.seekTime
+  })
+}
+
 onMounted(() => {
   mediaQuery = window.matchMedia('(prefers-reduced-motion: reduce)')
   prefersReduced = mediaQuery.matches
   mediaQuery.addEventListener?.('change', onReducedMotionChange)
   window.addEventListener('wheel', onReaderScroll, { passive: true })
   window.addEventListener('touchmove', onReaderScroll, { passive: true })
+  setupMediaSession()
+
+  navHeight =
+    parseFloat(
+      getComputedStyle(document.documentElement).getPropertyValue('--vt-nav-height')
+    ) || 55
+  measureBar()
+  audioRef.value?.addEventListener('loadedmetadata', measureBar)
+  window.addEventListener('scroll', schedulePin, { passive: true })
+  window.addEventListener('resize', schedulePin)
+  updatePin()
 })
 
 onBeforeUnmount(() => {
   mediaQuery?.removeEventListener?.('change', onReducedMotionChange)
   window.removeEventListener('wheel', onReaderScroll)
   window.removeEventListener('touchmove', onReaderScroll)
+  audioRef.value?.removeEventListener('loadedmetadata', measureBar)
+  window.removeEventListener('scroll', schedulePin)
+  window.removeEventListener('resize', schedulePin)
 })
 </script>
 
 <template>
-  <section class="vox-player" :lang="episode.lang">
-    <div class="vox-player__bar">
+  <section
+    ref="playerRef"
+    class="vox-player"
+    :class="{ 'is-pinned': pinned }"
+    :style="{ '--vox-bar-h': barHeight + 'px' }"
+    :lang="episode.lang"
+  >
+    <div ref="barRef" class="vox-player__bar">
       <audio
         ref="audioRef"
         class="vox-player__audio"
@@ -193,6 +298,7 @@ onBeforeUnmount(() => {
         <a :href="episode.audioUrl">{{ episode.audioUrl }}</a>
       </audio>
     </div>
+    <div class="vox-player__spacer" aria-hidden="true"></div>
 
     <div ref="transcriptRef" class="vox-transcript">
       <section
@@ -222,7 +328,7 @@ onBeforeUnmount(() => {
               @keydown="onCueKey($event, cue)"
               @focus="focusId = cue.id"
               >{{ cue.text }}</span
-            >{{ ' ' }}</template
+            >{{ cue.sep }}</template
           >
         </p>
       </section>
@@ -235,10 +341,11 @@ onBeforeUnmount(() => {
   margin: 1.5rem 0 2rem;
 }
 
-/* Sticky transport so controls stay reachable while reading the transcript. */
+/* Desktop: CSS sticky keeps the transport reachable while reading. */
 .vox-player__bar {
   position: sticky;
-  top: var(--vt-nav-height, 56px);
+  position: -webkit-sticky;
+  top: var(--vt-nav-height, 55px);
   z-index: 5;
   padding: 10px 0;
   background: var(--vt-c-bg);
@@ -248,6 +355,34 @@ onBeforeUnmount(() => {
 .vox-player__audio {
   width: 100%;
   display: block;
+}
+
+/* Reserves the bar's height when it is lifted out of flow on mobile. */
+.vox-player__spacer {
+  height: 0;
+}
+
+/* Mobile: sticky is disabled by the theme's overflow:auto content wrapper, so
+   the bar is pinned with position:fixed only while the transcript is in view.
+   Scoped entirely to the player; no global layout rules are touched. */
+@media (max-width: 768px) {
+  .vox-player__bar {
+    position: static;
+  }
+  .vox-player.is-pinned .vox-player__bar {
+    position: fixed;
+    top: calc(var(--vt-nav-height, 55px) + env(safe-area-inset-top, 0px));
+    left: 0;
+    right: 0;
+    z-index: 10;
+    padding: 8px 24px;
+    padding-left: calc(24px + env(safe-area-inset-left, 0px));
+    padding-right: calc(24px + env(safe-area-inset-right, 0px));
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.12);
+  }
+  .vox-player.is-pinned .vox-player__spacer {
+    height: var(--vox-bar-h, 64px);
+  }
 }
 
 .vox-transcript {
