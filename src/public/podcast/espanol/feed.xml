@@ -31,7 +31,7 @@ Página del programa: https://www.skepvox.com/podcast/espanol/]]></itunes:summar
       <title>Vox Español</title>
       <link>https://www.skepvox.com/podcast/espanol/</link>
     </image>
-    <lastBuildDate>Sat, 13 Jun 2026 12:11:42 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 10:25:22 -0300</lastBuildDate>
 
 
     <item>
@@ -66,6 +66,43 @@ En la página encontrará la guía de aprendizaje, la nota cultural, el diálogo
       <enclosure url="https://media.skepvox.com/podcast/espanol/audio/espanol-001-la-boda-es-a-las-seis-v4.mp3" length="31486790" type="audio/mpeg" />
       <itunes:duration>00:21:52</itunes:duration>
       <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://media.skepvox.com/podcast/espanol/artwork/show-cover-v3.jpg" />
+    </item>
+    <item>
+      <title>002 - La sartén está ocupada</title>
+      <link>https://skepvox.com/podcast/espanol/002-la-sarten-esta-ocupada</link>
+      <guid isPermaLink="false">vox-espanol-002</guid>
+      <pubDate>Sun, 14 Jun 2026 09:00:00 -0300</pubDate>
+      <description><![CDATA[Guía completa y transcripción:
+https://skepvox.com/podcast/espanol/002-la-sarten-esta-ocupada#transcripcion-completa
+
+En esta entrega de Vox Español, entramos en una escena de cocina comunitaria, con objetos, personas, lugares y estados temporales.
+
+La historia se llama "La sartén está ocupada". Un concurso de tortilla, una mesa llena y una sartén difícil de ubicar crean una conversación en la que cada detalle depende de elegir bien entre ser y estar.
+
+Esta lección le ayuda a usar ser y estar para hablar de identidad, rol, propiedad, ubicación, preparación, temperatura y estados temporales de objetos.
+
+La guía de lección explica también el vocabulario importante de la historia: concurso, tortilla, sartén, jurado, suplente, centro de barrio, libreta, mango, marca, listo, frío, raro, libre y otras palabras útiles.
+
+En la página encontrará la guía de aprendizaje, la nota cultural, el diálogo lento, el diálogo a velocidad natural y la transcripción completa.]]></description>
+      <content:encoded><![CDATA[<p>Guía completa y transcripción:<br />
+<a href="https://skepvox.com/podcast/espanol/002-la-sarten-esta-ocupada#transcripcion-completa">https://skepvox.com/podcast/espanol/002-la-sarten-esta-ocupada#transcripcion-completa</a></p>
+
+<p>En esta entrega de Vox Español, entramos en una escena de cocina comunitaria, con objetos, personas, lugares y estados temporales.</p>
+
+<p>La historia se llama "La sartén está ocupada". Un concurso de tortilla, una mesa llena y una sartén difícil de ubicar crean una conversación en la que cada detalle depende de elegir bien entre ser y estar.</p>
+
+<p>Esta lección le ayuda a usar ser y estar para hablar de identidad, rol, propiedad, ubicación, preparación, temperatura y estados temporales de objetos.</p>
+
+<p>La guía de lección explica también el vocabulario importante de la historia: concurso, tortilla, sartén, jurado, suplente, centro de barrio, libreta, mango, marca, listo, frío, raro, libre y otras palabras útiles.</p>
+
+<p>En la página encontrará la guía de aprendizaje, la nota cultural, el diálogo lento, el diálogo a velocidad natural y la transcripción completa.</p>]]></content:encoded>
+      <enclosure url="https://media.skepvox.com/podcast/espanol/audio/espanol-002-la-sarten-esta-ocupada-v4.mp3" length="32793330" type="audio/mpeg" />
+      <itunes:duration>00:22:46</itunes:duration>
+      <itunes:episode>2</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>

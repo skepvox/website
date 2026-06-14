@@ -106,3 +106,4 @@ Las páginas de esta sección reúnen las transcripciones, el vocabulario y las 
 ## Lecciones
 
 - [001 - La boda es a las seis](/podcast/espanol/001-la-boda-es-a-las-seis) — el contraste entre «ser» y «estar» para identidad, profesión, hora de un evento, ubicación, estado y función temporal.
+- [002 - La sartén está ocupada](/podcast/espanol/002-la-sarten-esta-ocupada) — el contraste entre «ser» y «estar» para identidad, propiedad, ubicación y estado temporal en una escena de cocina comunitaria.

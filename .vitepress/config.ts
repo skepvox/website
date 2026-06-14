@@ -58,7 +58,8 @@ export const sidebar: ThemeConfig['sidebar'] = {
       text: 'Vox Español - Podcast de español como lengua extranjera',
       items: [
         { text: 'Presentación', link: '/podcast/espanol/' },
-        { text: '001 - La boda es a las seis', link: '/podcast/espanol/001-la-boda-es-a-las-seis' }
+        { text: '001 - La boda es a las seis', link: '/podcast/espanol/001-la-boda-es-a-las-seis' },
+        { text: '002 - La sartén está ocupada', link: '/podcast/espanol/002-la-sarten-esta-ocupada' }
       ]
     },
     {
