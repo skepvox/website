@@ -489,7 +489,41 @@ def distribution_status(show: ShowConfig, episode_number: int) -> str:
     return parse_existing_top_level_scalar(frontmatter, "status")
 
 
-def sync_show(show: ShowConfig) -> list[Path]:
+# Localized "episode" noun for the hub show-card meta line, by show key.
+EPISODE_NOUN = {
+    "francais": ("épisode", "épisodes"),
+    "espanol": ("episodio", "episodios"),
+    "english": ("episode", "episodes"),
+}
+
+
+def show_blurb(target_dir: Path) -> str:
+    """The show's own page description, reused as the hub card blurb."""
+    index_path = target_dir / "index.md"
+    if not index_path.exists():
+        return ""
+    try:
+        frontmatter, _ = split_frontmatter(index_path.read_text())
+    except ValueError:
+        return ""
+    return parse_existing_top_level_scalar(frontmatter, "description")
+
+
+def build_show_entry(show: ShowConfig, site_rel: str, target_dir: Path, episode_count: int) -> dict:
+    """Hub show-card entry; episode_count is the public count (buffers excluded)."""
+    singular, plural = EPISODE_NOUN.get(show.key, ("episode", "episodes"))
+    return {
+        "title": show.page_title_prefix,
+        "href": f"/{site_rel}/",
+        "description": show_blurb(target_dir),
+        "imageUrl": show.artwork_url,
+        "imageAlt": show.artwork_alt,
+        "episodeCount": episode_count,
+        "meta": f"{episode_count} {singular if episode_count == 1 else plural}",
+    }
+
+
+def sync_show(show: ShowConfig) -> tuple[list[Path], dict]:
     source_dir = PROJECTS / show.source_repo / "episodes"
     target_dir = ROOT / show.target_subdir
     site_rel = show.target_subdir.removeprefix("src/")
@@ -557,13 +591,22 @@ def sync_show(show: ShowConfig) -> list[Path]:
         manifest_path.write_text(manifest_text)
         changed.append(manifest_path)
 
-    return changed
+    return changed, build_show_entry(show, site_rel, target_dir, len(manifest))
 
 
 def main() -> None:
     changed: list[Path] = []
+    shows: list[dict] = []
     for show in SHOWS:
-        changed.extend(sync_show(show))
+        show_changed, show_entry = sync_show(show)
+        changed.extend(show_changed)
+        shows.append(show_entry)
+
+    shows_path = ROOT / "src" / "podcast" / "shows.json"
+    shows_text = json.dumps(shows, ensure_ascii=False, indent=2) + "\n"
+    if not shows_path.exists() or shows_path.read_text() != shows_text:
+        shows_path.write_text(shows_text)
+        changed.append(shows_path)
 
     if not changed:
         print("No podcast lesson page changes.")
