@@ -204,3 +204,47 @@ test.describe('buffer episode (francais-003)', () => {
     }
   })
 })
+
+// Per-show episode card grid: a generated manifest drives SSR cards on the index
+// pages. Buffer/draft episodes are excluded from the manifest and never linked.
+// File-based; requires a prior build (pnpm podcast:build).
+test.describe('episode card grid', () => {
+  const MANIFEST = path.resolve('src/podcast/francais/episodes.json')
+  const INDEX_HTML = path.resolve('.vitepress/dist/podcast/francais/index.html')
+  const BUFFER_SLUG = '003-le-covoiturage-poli'
+
+  test('manifest includes public episodes and excludes the buffer', () => {
+    const manifest = JSON.parse(fs.readFileSync(MANIFEST, 'utf-8'))
+    const numbers = manifest.map((e: { number: number }) => e.number)
+    expect(numbers).toContain(1)
+    expect(numbers).toContain(2)
+    expect(numbers).not.toContain(3) // francais-003 is a buffer
+    for (const e of manifest) {
+      expect(typeof e.title).toBe('string')
+      expect(e.href).toMatch(/^\/podcast\/francais\//)
+      expect(typeof e.durationSeconds).toBe('number')
+    }
+  })
+
+  test('built index renders SSR episode cards', () => {
+    const html = fs.readFileSync(INDEX_HTML, 'utf-8')
+    expect(html).toContain('class="episode-grid"')
+    expect((html.match(/class="episode-card"/g) || []).length).toBe(2)
+  })
+
+  test('cards link to public episode pages and show duration', () => {
+    const html = fs.readFileSync(INDEX_HTML, 'utf-8')
+    expect(html).toContain('href="/podcast/francais/001-le-badge"')
+    expect(html).toContain('href="/podcast/francais/002-la-valise-verte"')
+    expect(html).toMatch(/\d+ min/)
+  })
+
+  test('no buffer episode is linked from the index', () => {
+    const html = fs.readFileSync(INDEX_HTML, 'utf-8')
+    // The buffer slug may appear in VitePress's internal route hashmap, but it
+    // must never be a navigable link or appear in the card grid.
+    expect(html).not.toContain(`href="/podcast/francais/${BUFFER_SLUG}"`)
+    const grid = html.match(/<ul class="episode-grid".*?<\/ul>/s)?.[0] ?? ''
+    expect(grid).not.toContain(BUFFER_SLUG)
+  })
+})
