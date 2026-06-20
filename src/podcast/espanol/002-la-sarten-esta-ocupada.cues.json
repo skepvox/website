@@ -1,0 +1,2366 @@
+{
+  "episode": {
+    "id": "espanol-002",
+    "title": "La sartén está ocupada",
+    "showTitle": "Vox Español",
+    "audioUrl": "https://media.skepvox.com/podcast/espanol/audio/espanol-002-la-sarten-esta-ocupada-v4.mp3",
+    "artworkUrl": "https://media.skepvox.com/podcast/espanol/artwork/show-cover-v3.jpg",
+    "lang": "es",
+    "durationSeconds": 1366.317
+  },
+  "sections": [
+    {
+      "id": "01-introduccion",
+      "label": "Introducción",
+      "isDialogue": false,
+      "paragraphs": [
+        {
+          "id": "01-introduccion-p001",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0001",
+              "start": 0.0,
+              "end": 3.26,
+              "text": "Bienvenidos a Podcast de español como lengua extranjera.",
+              "sep": " "
+            },
+            {
+              "id": "0002",
+              "start": 4.14,
+              "end": 9.2,
+              "text": "Hoy escucharemos una escena en un centro de barrio, justo antes de un concurso de tortilla.",
+              "sep": " "
+            },
+            {
+              "id": "0003",
+              "start": 10.02,
+              "end": 16.78,
+              "text": "Marina coordina mesas, participantes y nervios; Oscar llega con una libreta y una idea muy distinta de la urgencia.",
+              "sep": " "
+            },
+            {
+              "id": "0004",
+              "start": 18.14,
+              "end": 21.74,
+              "text": "Fíjense en cómo las personas y los",
+              "sep": " "
+            },
+            {
+              "id": "0005",
+              "start": 21.74,
+              "end": 25.24,
+              "text": "objetos cambian de lugar, función y estado,",
+              "sep": " "
+            },
+            {
+              "id": "0006",
+              "start": 25.24,
+              "end": 31.76,
+              "text": "mientras todos intentan mantener la cortesía y cada objeto parece tener más de un papel.",
+              "sep": " "
+            },
+            {
+              "id": "0007",
+              "start": 33.18,
+              "end": 33.54,
+              "text": "Vamos allá.",
+              "sep": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-dialogo-lento",
+      "label": "Diálogo - versión lenta",
+      "isDialogue": true,
+      "paragraphs": [
+        {
+          "id": "02-dialogo-lento-p001",
+          "speaker": "Marina",
+          "cues": [
+            {
+              "id": "0008",
+              "start": 40.555,
+              "end": 42.195,
+              "text": "Usted es Oscar, ¿verdad?",
+              "sep": " "
+            },
+            {
+              "id": "0009",
+              "start": 43.815,
+              "end": 44.415,
+              "text": "Perfecto.",
+              "sep": " "
+            },
+            {
+              "id": "0010",
+              "start": 45.215,
+              "end": 50.735,
+              "text": "El concurso es a las ocho, las tortillas están listas y el jurado está más serio que el mantel.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p002",
+          "speaker": "Oscar",
+          "cues": [
+            {
+              "id": "0011",
+              "start": 51.695,
+              "end": 55.175,
+              "text": "Soy Oscar, sí, pero estoy aquí por una sartén negra.",
+              "sep": " "
+            },
+            {
+              "id": "0012",
+              "start": 55.935,
+              "end": 58.235,
+              "text": "Es grande, de hierro, con mango rojo.",
+              "sep": " "
+            },
+            {
+              "id": "0013",
+              "start": 58.775,
+              "end": 60.856,
+              "text": "La dejé en esta sala ayer por la tarde.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p003",
+          "speaker": "Marina",
+          "cues": [
+            {
+              "id": "0014",
+              "start": 61.815,
+              "end": 66.055,
+              "text": "Muy bien, empezamos fuerte: color, material, memoria emocional.",
+              "sep": " "
+            },
+            {
+              "id": "0015",
+              "start": 67.215,
+              "end": 69.615,
+              "text": "Se nota que usted es un jurado detallista.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p004",
+          "speaker": "Oscar",
+          "cues": [
+            {
+              "id": "0016",
+              "start": 70.555,
+              "end": 71.795,
+              "text": "No soy jurado.",
+              "sep": " "
+            },
+            {
+              "id": "0017",
+              "start": 72.495,
+              "end": 75.395,
+              "text": "Soy vecino del tercero y estoy buscando una sartén.",
+              "sep": " "
+            },
+            {
+              "id": "0018",
+              "start": 76.035,
+              "end": 78.555,
+              "text": "Sin ella, mi cena está en peligro.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p005",
+          "speaker": "Marina",
+          "cues": [
+            {
+              "id": "0019",
+              "start": 78.935,
+              "end": 80.755,
+              "text": "Todos decimos eso al principio.",
+              "sep": " "
+            },
+            {
+              "id": "0020",
+              "start": 82.175,
+              "end": 82.955,
+              "text": "Pruebe esta tortilla.",
+              "sep": " "
+            },
+            {
+              "id": "0021",
+              "start": 84.695,
+              "end": 87.135,
+              "text": "Es clásica, es de patata y cebolla,",
+              "sep": " "
+            },
+            {
+              "id": "0022",
+              "start": 87.755,
+              "end": 92.695,
+              "text": "y ahora está un poco fría porque la presidenta habló demasiado durante la bienvenida.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p006",
+          "speaker": "Oscar",
+          "cues": [
+            {
+              "id": "0023",
+              "start": 93.635,
+              "end": 96.175,
+              "text": "Está buena, pero no he venido a probar nada.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p007",
+          "speaker": "Marina",
+          "cues": [
+            {
+              "id": "0024",
+              "start": 96.935,
+              "end": 98.295,
+              "text": "Entonces esta otra.",
+              "sep": " "
+            },
+            {
+              "id": "0025",
+              "start": 98.295,
+              "end": 102.455,
+              "text": "Es moderna, está jugosa y es de una",
+              "sep": " "
+            },
+            {
+              "id": "0026",
+              "start": 102.455,
+              "end": 105.555,
+              "text": "señora que dice que la cebolla es libertad personal.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p008",
+          "speaker": "Oscar",
+          "cues": [
+            {
+              "id": "0027",
+              "start": 106.795,
+              "end": 109.255,
+              "text": "Marina, de verdad, la sartén es mía.",
+              "sep": " "
+            },
+            {
+              "id": "0028",
+              "start": 109.975,
+              "end": 111.455,
+              "text": "Tiene una marca cerca del mango.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p009",
+          "speaker": "Marina",
+          "cues": [
+            {
+              "id": "0029",
+              "start": 112.255,
+              "end": 115.535,
+              "text": "Ah, busca personalidad en los utensilios.",
+              "sep": " "
+            },
+            {
+              "id": "0030",
+              "start": 117.115,
+              "end": 118.235,
+              "text": "Excelente criterio.",
+              "sep": " "
+            },
+            {
+              "id": "0031",
+              "start": 119.655,
+              "end": 123.715,
+              "text": "La tortilla número tres está rara, pero rara con confianza.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p010",
+          "speaker": "Oscar",
+          "cues": [
+            {
+              "id": "0032",
+              "start": 123.715,
+              "end": 129.655,
+              "text": "Mire, no quiero ser grosero, pero usted está ignorando mi problema con mucha alegría.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p011",
+          "speaker": "Marina",
+          "cues": [
+            {
+              "id": "0033",
+              "start": 130.735,
+              "end": 131.595,
+              "text": "Estoy concentrada.",
+              "sep": " "
+            },
+            {
+              "id": "0034",
+              "start": 132.735,
+              "end": 136.915,
+              "text": "El jurado anterior está enfermo, el suplente está perdido,",
+              "sep": " "
+            },
+            {
+              "id": "0035",
+              "start": 138.015,
+              "end": 142.975,
+              "text": "la presidenta está vendiendo rifas en la puerta y usted está aquí con una libreta.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p012",
+          "speaker": "Oscar",
+          "cues": [
+            {
+              "id": "0036",
+              "start": 143.815,
+              "end": 146.115,
+              "text": "La libreta es para apuntar dónde busco.",
+              "sep": " "
+            },
+            {
+              "id": "0037",
+              "start": 146.675,
+              "end": 151.555,
+              "text": "Ya estoy en la línea «centro de barrio, mesa larga, olor a cebolla».",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p013",
+          "speaker": "Marina",
+          "cues": [
+            {
+              "id": "0038",
+              "start": 151.555,
+              "end": 155.855,
+              "text": "Pues escriba también que la tortilla favorita está en la mesa del fondo.",
+              "sep": " "
+            },
+            {
+              "id": "0039",
+              "start": 157.175,
+              "end": 160.215,
+              "text": "Es pequeña, pero es muy elegante.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p014",
+          "speaker": "Oscar",
+          "cues": [
+            {
+              "id": "0040",
+              "start": 160.875,
+              "end": 163.055,
+              "text": "¿La que está sobre una sartén negra?",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p015",
+          "speaker": "Marina",
+          "cues": [
+            {
+              "id": "0041",
+              "start": 163.595,
+              "end": 165.795,
+              "text": "Sí, para darle altura.",
+              "sep": " "
+            },
+            {
+              "id": "0042",
+              "start": 167.295,
+              "end": 169.975,
+              "text": "La mesa está baja y la tortilla es tímida.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p016",
+          "speaker": "Oscar",
+          "cues": [
+            {
+              "id": "0043",
+              "start": 170.635,
+              "end": 173.435,
+              "text": "Marina, esa sartén no es un pedestal.",
+              "sep": " "
+            },
+            {
+              "id": "0044",
+              "start": 174.115,
+              "end": 175.095,
+              "text": "Es mi sartén.",
+              "sep": " "
+            },
+            {
+              "id": "0045",
+              "start": 175.095,
+              "end": 181.975,
+              "text": "La favorita está ocupando propiedad privada, y mi cena está debajo del prestigio gastronómico del barrio,",
+              "sep": " "
+            },
+            {
+              "id": "0046",
+              "start": 182.255,
+              "end": 185.195,
+              "text": "con cartel, número y aplausos pendientes.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p017",
+          "speaker": "Marina",
+          "cues": [
+            {
+              "id": "0047",
+              "start": 186.075,
+              "end": 190.095,
+              "text": "En ese caso, usted no es jurado, pero es parte del fallo:",
+              "sep": " "
+            },
+            {
+              "id": "0048",
+              "start": 191.295,
+              "end": 193.455,
+              "text": "si retira la sartén antes de las ocho,",
+              "sep": " "
+            },
+            {
+              "id": "0049",
+              "start": 194.115,
+              "end": 197.695,
+              "text": "la tortilla ganadora estará técnicamente en el suelo,",
+              "sep": " "
+            },
+            {
+              "id": "0050",
+              "start": 198.555,
+              "end": 203.315,
+              "text": "con todo el vecindario mirando y la presidenta todavía vendiendo rifas.",
+              "sep": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-explicacion",
+      "label": "Explicación",
+      "isDialogue": false,
+      "paragraphs": [
+        {
+          "id": "03-explicacion-p001",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0051",
+              "start": 211.179,
+              "end": 216.739,
+              "text": "La escena empieza con Marina en modo organización total: «Usted es Oscar, ¿verdad?».",
+              "sep": " "
+            },
+            {
+              "id": "0052",
+              "start": 217.559,
+              "end": 222.559,
+              "text": "Ella necesita confirmar una identidad, pero ya está pensando en el concurso.",
+              "sep": " "
+            },
+            {
+              "id": "0053",
+              "start": 222.939,
+              "end": 228.159,
+              "text": "Un «concurso» es una actividad donde alguien evalúa y elige una opción ganadora.",
+              "sep": " "
+            },
+            {
+              "id": "0054",
+              "start": 229.239,
+              "end": 235.459,
+              "text": "Aquí el concurso es de tortilla, un plato cotidiano que puede volverse muy serio cuando hay vecinos,",
+              "sep": " "
+            },
+            {
+              "id": "0055",
+              "start": 235.979,
+              "end": 238.919,
+              "text": "una mesa y una presidenta vendiendo rifas.",
+              "sep": " "
+            },
+            {
+              "id": "0056",
+              "start": 239.639,
+              "end": 242.979,
+              "text": "Marina dice que «el concurso es a las ocho».",
+              "sep": " "
+            },
+            {
+              "id": "0057",
+              "start": 243.899,
+              "end": 248.759,
+              "text": "La hora fija el evento, como cuando decimos que una reunión es a las nueve.",
+              "sep": " "
+            },
+            {
+              "id": "0058",
+              "start": 249.959,
+              "end": 256.179,
+              "text": "No hace falta abrir una tabla: si el concurso es a las ocho, todo lo demás está contra el reloj.",
+              "sep": " "
+            },
+            {
+              "id": "0059",
+              "start": 257.199,
+              "end": 262.539,
+              "text": "Además, el centro de barrio no es un fondo neutro: es un lugar donde todos miran,",
+              "sep": " "
+            },
+            {
+              "id": "0060",
+              "start": 263.239,
+              "end": 265.119,
+              "text": "opinan y esperan que alguien resuelva.",
+              "sep": " "
+            },
+            {
+              "id": "0061",
+              "start": 266.079,
+              "end": 271.599,
+              "text": "La primera palabra útil no es solo «ser»; es «urgencia».",
+              "sep": " "
+            },
+            {
+              "id": "0062",
+              "start": 272.859,
+              "end": 277.639,
+              "text": "Esa urgencia explica por qué Marina interpreta todo lo que ve como parte del concurso.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explicacion-p002",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0063",
+              "start": 278.072,
+              "end": 285.072,
+              "text": "Marina añade que «las tortillas están listas» y que «el jurado está más serio que el mantel».",
+              "sep": " "
+            },
+            {
+              "id": "0064",
+              "start": 285.772,
+              "end": 288.552,
+              "text": "«Listo» aquí significa preparado.",
+              "sep": " "
+            },
+            {
+              "id": "0065",
+              "start": 289.212,
+              "end": 296.132,
+              "text": "Una tortilla está lista cuando ya puede presentarse o comerse; una persona lista puede ser inteligente,",
+              "sep": " "
+            },
+            {
+              "id": "0066",
+              "start": 296.732,
+              "end": 299.432,
+              "text": "pero ese no es el sentido principal de esta línea.",
+              "sep": " "
+            },
+            {
+              "id": "0067",
+              "start": 300.552,
+              "end": 306.812,
+              "text": "Al oír «listo» o «lista», la fuerza cae en la primera sílaba;",
+              "sep": " "
+            },
+            {
+              "id": "0068",
+              "start": 307.332,
+              "end": 310.252,
+              "text": "lo que cambia es la lectura, no el acento.",
+              "sep": " "
+            },
+            {
+              "id": "0069",
+              "start": 311.252,
+              "end": 315.332,
+              "text": "El «jurado» es quien evalúa y decide el resultado del concurso.",
+              "sep": " "
+            },
+            {
+              "id": "0070",
+              "start": 316.332,
+              "end": 320.952,
+              "text": "Marina necesita uno, y por eso mira a Oscar con esperanza inmediata.",
+              "sep": " "
+            },
+            {
+              "id": "0071",
+              "start": 321.792,
+              "end": 326.512,
+              "text": "La expresión «más serio que el mantel» da un tono seco y visual:",
+              "sep": " "
+            },
+            {
+              "id": "0072",
+              "start": 327.552,
+              "end": 330.232,
+              "text": "todo parece formal, incluso los objetos.",
+              "sep": " "
+            },
+            {
+              "id": "0073",
+              "start": 331.232,
+              "end": 333.953,
+              "text": "En esta primera línea ya tenemos el motor de la escena.",
+              "sep": " "
+            },
+            {
+              "id": "0074",
+              "start": 334.752,
+              "end": 340.753,
+              "text": "Marina no busca una conversación tranquila; busca que alguien ocupe un papel.",
+              "sep": " "
+            },
+            {
+              "id": "0075",
+              "start": 341.812,
+              "end": 346.412,
+              "text": "Si Oscar parece la persona correcta, para ella casi ya lo es.",
+              "sep": " "
+            },
+            {
+              "id": "0076",
+              "start": 347.332,
+              "end": 350.992,
+              "text": "Por eso «estar listo» no es una forma aislada,",
+              "sep": " "
+            },
+            {
+              "id": "0077",
+              "start": 351.592,
+              "end": 355.153,
+              "text": "sino una señal de que el concurso está a punto de empezar.",
+              "sep": " "
+            },
+            {
+              "id": "0078",
+              "start": 355.852,
+              "end": 359.672,
+              "text": "La forma del verbo acompaña la presión, pero la presión manda.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explicacion-p003",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0079",
+              "start": 359.979,
+              "end": 366.539,
+              "text": "Oscar responde desde otro mundo: «Soy Oscar, sí, pero estoy aquí por una sartén negra».",
+              "sep": " "
+            },
+            {
+              "id": "0080",
+              "start": 367.739,
+              "end": 371.259,
+              "text": "La «sartén» es un utensilio de cocina con mango,",
+              "sep": " "
+            },
+            {
+              "id": "0081",
+              "start": 371.259,
+              "end": 374.799,
+              "text": "y en España se dice normalmente «la sartén».",
+              "sep": " "
+            },
+            {
+              "id": "0082",
+              "start": 375.679,
+              "end": 378.759,
+              "text": "En partes de América también se oye «el sartén»;",
+              "sep": " "
+            },
+            {
+              "id": "0083",
+              "start": 379.679,
+              "end": 383.759,
+              "text": "aquí mantenemos «la sartén», la forma habitual en España,",
+              "sep": " "
+            },
+            {
+              "id": "0084",
+              "start": 384.299,
+              "end": 387.759,
+              "text": "y el adjetivo lo confirma: «una sartén negra».",
+              "sep": " "
+            },
+            {
+              "id": "0085",
+              "start": 388.639,
+              "end": 393.219,
+              "text": "Oscar confirma quién es, pero enseguida explica por qué está allí.",
+              "sep": " "
+            },
+            {
+              "id": "0086",
+              "start": 394.179,
+              "end": 396.999,
+              "text": "No viene por el concurso; viene por un objeto.",
+              "sep": " "
+            },
+            {
+              "id": "0087",
+              "start": 398.239,
+              "end": 403.999,
+              "text": "Luego describe la sartén: «es grande, de hierro, con mango rojo».",
+              "sep": " "
+            },
+            {
+              "id": "0088",
+              "start": 404.819,
+              "end": 406.699,
+              "text": "«De hierro» habla del material.",
+              "sep": " "
+            },
+            {
+              "id": "0089",
+              "start": 407.759,
+              "end": 410.999,
+              "text": "El «mango» es la parte por donde se agarra.",
+              "sep": " "
+            },
+            {
+              "id": "0090",
+              "start": 412.019,
+              "end": 417.879,
+              "text": "Estos detalles no son decoración: Oscar intenta que Marina reconozca una sartén concreta.",
+              "sep": " "
+            },
+            {
+              "id": "0091",
+              "start": 418.559,
+              "end": 423.219,
+              "text": "Para él, cada palabra acerca la búsqueda al objeto perdido.",
+              "sep": " "
+            },
+            {
+              "id": "0092",
+              "start": 423.499,
+              "end": 426.619,
+              "text": "También muestra cómo un objeto común puede necesitar",
+              "sep": " "
+            },
+            {
+              "id": "0093",
+              "start": 426.619,
+              "end": 430.519,
+              "text": "una descripción precisa cuando hay muchas cosas parecidas",
+              "sep": " "
+            },
+            {
+              "id": "0094",
+              "start": 430.519,
+              "end": 431.199,
+              "text": "alrededor.",
+              "sep": " "
+            },
+            {
+              "id": "0095",
+              "start": 432.079,
+              "end": 437.399,
+              "text": "Para Marina, en cambio, esos mismos detalles suenan a evaluación culinaria,",
+              "sep": " "
+            },
+            {
+              "id": "0096",
+              "start": 437.979,
+              "end": 439.739,
+              "text": "como si Oscar examinara color,",
+              "sep": " "
+            },
+            {
+              "id": "0097",
+              "start": 440.719,
+              "end": 441.959,
+              "text": "material y presentación.",
+              "sep": " "
+            },
+            {
+              "id": "0098",
+              "start": 442.839,
+              "end": 447.979,
+              "text": "Ahí nace el malentendido: Oscar da pistas de propiedad y ubicación;",
+              "sep": " "
+            },
+            {
+              "id": "0099",
+              "start": 448.999,
+              "end": 450.919,
+              "text": "Marina escucha criterio de jurado.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explicacion-p004",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0100",
+              "start": 451.324,
+              "end": 457.744,
+              "text": "Marina transforma la descripción en elogio: «Se nota que usted es un jurado detallista».",
+              "sep": " "
+            },
+            {
+              "id": "0101",
+              "start": 458.984,
+              "end": 462.284,
+              "text": "«Detallista» es alguien que observa detalles pequeños.",
+              "sep": " "
+            },
+            {
+              "id": "0102",
+              "start": 463.044,
+              "end": 467.784,
+              "text": "La palabra encaja con lo que Oscar acaba de decir, pero la conclusión es falsa.",
+              "sep": " "
+            },
+            {
+              "id": "0103",
+              "start": 468.684,
+              "end": 471.384,
+              "text": "Oscar corrige: «No soy jurado.",
+              "sep": " "
+            },
+            {
+              "id": "0104",
+              "start": 472.244,
+              "end": 474.664,
+              "text": "Soy vecino del tercero y estoy buscando una sartén».",
+              "sep": " "
+            },
+            {
+              "id": "0105",
+              "start": 475.924,
+              "end": 477.524,
+              "text": "Esta línea separa tres cosas.",
+              "sep": " "
+            },
+            {
+              "id": "0106",
+              "start": 478.484,
+              "end": 481.064,
+              "text": "Primero, niega el rol que Marina le asigna.",
+              "sep": " "
+            },
+            {
+              "id": "0107",
+              "start": 481.324,
+              "end": 485.064,
+              "text": "Después presenta su identidad local: es vecino.",
+              "sep": " "
+            },
+            {
+              "id": "0108",
+              "start": 486.104,
+              "end": 489.384,
+              "text": "Finalmente explica la acción actual: está buscando.",
+              "sep": " "
+            },
+            {
+              "id": "0109",
+              "start": 490.304,
+              "end": 493.624,
+              "text": "La palabra «vecino» también importa:",
+              "sep": " "
+            },
+            {
+              "id": "0110",
+              "start": 495.044,
+              "end": 500.144,
+              "text": "Oscar pertenece al edificio o al barrio, no al equipo del concurso.",
+              "sep": " "
+            },
+            {
+              "id": "0111",
+              "start": 500.964,
+              "end": 505.364,
+              "text": "La forma «estoy buscando» muestra algo que ocurre ahora,",
+              "sep": " "
+            },
+            {
+              "id": "0112",
+              "start": 506.064,
+              "end": 508.824,
+              "text": "no una profesión ni una cualidad permanente.",
+              "sep": " "
+            },
+            {
+              "id": "0113",
+              "start": 509.604,
+              "end": 513.384,
+              "text": "La cena de Oscar «está en peligro» porque",
+              "sep": " "
+            },
+            {
+              "id": "0114",
+              "start": 513.384,
+              "end": 516.744,
+              "text": "sin la sartén no puede preparar lo que planeaba.",
+              "sep": " "
+            },
+            {
+              "id": "0115",
+              "start": 517.904,
+              "end": 521.304,
+              "text": "El problema es doméstico, pequeño y real.",
+              "sep": " "
+            },
+            {
+              "id": "0116",
+              "start": 522.604,
+              "end": 526.804,
+              "text": "Marina, sin embargo, vive un problema público y urgente.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explicacion-p005",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0117",
+              "start": 527.231,
+              "end": 528.991,
+              "text": "Marina no acepta la corrección.",
+              "sep": " "
+            },
+            {
+              "id": "0118",
+              "start": 529.591,
+              "end": 534.451,
+              "text": "Le ofrece una tortilla «clásica», «de patata y cebolla», y «un poco fría».",
+              "sep": " "
+            },
+            {
+              "id": "0119",
+              "start": 535.271,
+              "end": 538.051,
+              "text": "La «tortilla» es el centro visible del concurso.",
+              "sep": " "
+            },
+            {
+              "id": "0120",
+              "start": 539.231,
+              "end": 544.151,
+              "text": "«Clásica» describe su estilo; «de patata y cebolla» habla de composición;",
+              "sep": " "
+            },
+            {
+              "id": "0121",
+              "start": 545.411,
+              "end": 547.491,
+              "text": "«fría» describe su estado actual.",
+              "sep": " "
+            },
+            {
+              "id": "0122",
+              "start": 548.911,
+              "end": 551.851,
+              "text": "Oscar prueba y concede: «Está buena».",
+              "sep": " "
+            },
+            {
+              "id": "0123",
+              "start": 553.191,
+              "end": 559.111,
+              "text": "Con comida, «estar bueno» suele hablar del sabor en ese momento, al probarla.",
+              "sep": " "
+            },
+            {
+              "id": "0124",
+              "start": 560.171,
+              "end": 563.131,
+              "text": "Si dice «es buena», juzga la calidad;",
+              "sep": " "
+            },
+            {
+              "id": "0125",
+              "start": 563.991,
+              "end": 567.891,
+              "text": "con «está buena», responde al sabor que acaba de probar.",
+              "sep": " "
+            },
+            {
+              "id": "0126",
+              "start": 569.111,
+              "end": 572.791,
+              "text": "La causa de la temperatura, una bienvenida demasiado larga,",
+              "sep": " "
+            },
+            {
+              "id": "0127",
+              "start": 573.651,
+              "end": 576.292,
+              "text": "recuerda que los discursos también cambian la comida.",
+              "sep": " "
+            },
+            {
+              "id": "0128",
+              "start": 577.491,
+              "end": 583.111,
+              "text": "Marina pasa a otra tortilla: «es moderna» y «está jugosa».",
+              "sep": " "
+            },
+            {
+              "id": "0129",
+              "start": 584.311,
+              "end": 589.551,
+              "text": "«Jugosa» significa que conserva humedad y una textura agradable.",
+              "sep": " "
+            },
+            {
+              "id": "0130",
+              "start": 591.511,
+              "end": 595.591,
+              "text": "Estas palabras sirven para la escena porque no son etiquetas sueltas:",
+              "sep": " "
+            },
+            {
+              "id": "0131",
+              "start": 596.331,
+              "end": 600.931,
+              "text": "cada una dice qué ocurre con una tortilla delante de un jurado imaginario.",
+              "sep": " "
+            },
+            {
+              "id": "0132",
+              "start": 602.111,
+              "end": 608.711,
+              "text": "Así el vocabulario de sabor y temperatura mantiene la escena concreta, no escolar.",
+              "sep": " "
+            },
+            {
+              "id": "0133",
+              "start": 610.031,
+              "end": 615.611,
+              "text": "Oscar quiere recuperar un utensilio; Marina le obliga a convertirse,",
+              "sep": " "
+            },
+            {
+              "id": "0134",
+              "start": 616.131,
+              "end": 619.211,
+              "text": "poco a poco, en boca oficial del concurso.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explicacion-p006",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0135",
+              "start": 619.606,
+              "end": 623.466,
+              "text": "Oscar vuelve al objeto: «la sartén es mía.",
+              "sep": " "
+            },
+            {
+              "id": "0136",
+              "start": 624.366,
+              "end": 625.966,
+              "text": "Tiene una marca cerca del mango».",
+              "sep": " "
+            },
+            {
+              "id": "0137",
+              "start": 627.566,
+              "end": 633.766,
+              "text": "«Ser de alguien» expresa pertenencia, y «es mía» lo dice de forma directa.",
+              "sep": " "
+            },
+            {
+              "id": "0138",
+              "start": 634.666,
+              "end": 638.326,
+              "text": "La «marca» es una señal que distingue un objeto de otros.",
+              "sep": " "
+            },
+            {
+              "id": "0139",
+              "start": 639.646,
+              "end": 644.467,
+              "text": "Oscar necesita esa marca porque una sartén negra podría parecerse a muchas;",
+              "sep": " "
+            },
+            {
+              "id": "0140",
+              "start": 645.186,
+              "end": 647.747,
+              "text": "la suya tiene historia y prueba.",
+              "sep": " "
+            },
+            {
+              "id": "0141",
+              "start": 648.466,
+              "end": 653.426,
+              "text": "Marina responde: «busca personalidad en los utensilios».",
+              "sep": " "
+            },
+            {
+              "id": "0142",
+              "start": 653.886,
+              "end": 660.486,
+              "text": "Un «utensilio» es un objeto usado para una tarea, como cocinar, cortar o medir.",
+              "sep": " "
+            },
+            {
+              "id": "0143",
+              "start": 661.506,
+              "end": 667.226,
+              "text": "La frase de Marina es divertida porque trata la sartén como si pudiera tener carácter.",
+              "sep": " "
+            },
+            {
+              "id": "0144",
+              "start": 668.226,
+              "end": 674.666,
+              "text": "Para un oyente, «marca», «mango» y «utensilio» forman una cadena muy concreta:",
+              "sep": " "
+            },
+            {
+              "id": "0145",
+              "start": 675.306,
+              "end": 678.046,
+              "text": "ver, tocar, reconocer.",
+              "sep": " "
+            },
+            {
+              "id": "0146",
+              "start": 679.246,
+              "end": 681.506,
+              "text": "Esto mantiene la búsqueda pegada a la escena.",
+              "sep": " "
+            },
+            {
+              "id": "0147",
+              "start": 682.286,
+              "end": 686.106,
+              "text": "Pero Marina no está escuchando propiedad; escucha estilo.",
+              "sep": " "
+            },
+            {
+              "id": "0148",
+              "start": 687.166,
+              "end": 689.126,
+              "text": "Esa diferencia mantiene la escena viva.",
+              "sep": " "
+            },
+            {
+              "id": "0149",
+              "start": 690.226,
+              "end": 697.086,
+              "text": "Oscar habla como dueño; Marina oye a un experto con opiniones profundas sobre instrumentos de cocina.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explicacion-p007",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0150",
+              "start": 697.511,
+              "end": 702.051,
+              "text": "La tortilla número tres «está rara, pero rara con confianza».",
+              "sep": " "
+            },
+            {
+              "id": "0151",
+              "start": 703.091,
+              "end": 707.471,
+              "text": "«Raro» puede indicar algo extraño, inesperado o difícil de clasificar.",
+              "sep": " "
+            },
+            {
+              "id": "0152",
+              "start": 708.391,
+              "end": 714.791,
+              "text": "Si una tortilla está rara, quizá su aspecto, su olor o su textura llaman la atención en ese momento.",
+              "sep": " "
+            },
+            {
+              "id": "0153",
+              "start": 715.811,
+              "end": 721.371,
+              "text": "Marina añade «con confianza» para defenderla, como si la tortilla tuviera actitud.",
+              "sep": " "
+            },
+            {
+              "id": "0154",
+              "start": 722.351,
+              "end": 728.211,
+              "text": "Oscar, en cambio, ya se cansa: «usted está ignorando mi problema con mucha alegría».",
+              "sep": " "
+            },
+            {
+              "id": "0155",
+              "start": 729.191,
+              "end": 736.071,
+              "text": "«Grosero» es la palabra que usa antes para proteger la cortesía: no quiere parecer descortés,",
+              "sep": " "
+            },
+            {
+              "id": "0156",
+              "start": 736.671,
+              "end": 739.111,
+              "text": "pero necesita ser escuchado.",
+              "sep": " "
+            },
+            {
+              "id": "0157",
+              "start": 740.271,
+              "end": 742.511,
+              "text": "Esta frase es importante por tono.",
+              "sep": " "
+            },
+            {
+              "id": "0158",
+              "start": 743.091,
+              "end": 748.911,
+              "text": "Oscar usa «usted», mantiene cortesía y no grita, pero la queja ya es clara.",
+              "sep": " "
+            },
+            {
+              "id": "0159",
+              "start": 749.831,
+              "end": 753.351,
+              "text": "«Ignorar con alegría» describe muy bien a Marina:",
+              "sep": " "
+            },
+            {
+              "id": "0160",
+              "start": 753.871,
+              "end": 756.871,
+              "text": "no niega el problema de Oscar por maldad;",
+              "sep": " "
+            },
+            {
+              "id": "0161",
+              "start": 757.751,
+              "end": 760.451,
+              "text": "lo absorbe con energía organizativa.",
+              "sep": " "
+            },
+            {
+              "id": "0162",
+              "start": 762.251,
+              "end": 766.471,
+              "text": "La cortesía no elimina la frustración, solo la hace más seca.",
+              "sep": " "
+            },
+            {
+              "id": "0163",
+              "start": 767.411,
+              "end": 771.751,
+              "text": "Ese equilibrio permite que el humor siga siendo social y no agresivo.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explicacion-p008",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0164",
+              "start": 772.181,
+              "end": 778.081,
+              "text": "Marina explica su presión: «el jurado anterior está enfermo, el suplente está perdido,",
+              "sep": " "
+            },
+            {
+              "id": "0165",
+              "start": 778.561,
+              "end": 780.701,
+              "text": "la presidenta está vendiendo rifas».",
+              "sep": " "
+            },
+            {
+              "id": "0166",
+              "start": 781.401,
+              "end": 784.501,
+              "text": "Un «suplente» sustituye a otra persona cuando falta.",
+              "sep": " "
+            },
+            {
+              "id": "0167",
+              "start": 785.341,
+              "end": 789.801,
+              "text": "Si el suplente está perdido, la organización pierde su plan de reserva.",
+              "sep": " "
+            },
+            {
+              "id": "0168",
+              "start": 790.001,
+              "end": 793.761,
+              "text": "La presidenta vendiendo rifas añade ruido comunitario:",
+              "sep": " "
+            },
+            {
+              "id": "0169",
+              "start": 794.501,
+              "end": 798.261,
+              "text": "todo el mundo hace algo y nadie está exactamente donde debería.",
+              "sep": " "
+            },
+            {
+              "id": "0170",
+              "start": 798.821,
+              "end": 802.501,
+              "text": "Entonces Marina ve a Oscar «aquí con una libreta».",
+              "sep": " "
+            },
+            {
+              "id": "0171",
+              "start": 803.601,
+              "end": 807.541,
+              "text": "La «libreta» es un cuaderno pequeño para tomar notas.",
+              "sep": " "
+            },
+            {
+              "id": "0172",
+              "start": 808.501,
+              "end": 811.841,
+              "text": "Para Marina, libreta significa evaluación;",
+              "sep": " "
+            },
+            {
+              "id": "0173",
+              "start": 812.961,
+              "end": 816.181,
+              "text": "para Oscar, significa búsqueda.",
+              "sep": " "
+            },
+            {
+              "id": "0174",
+              "start": 817.181,
+              "end": 823.541,
+              "text": "Él incluso dicta su coordenada: «centro de barrio, mesa larga, olor a cebolla».",
+              "sep": " "
+            },
+            {
+              "id": "0175",
+              "start": 824.961,
+              "end": 831.161,
+              "text": "Esa lista convierte el olor en pista espacial, casi como si la cebolla fuera una señal en un mapa.",
+              "sep": " "
+            },
+            {
+              "id": "0176",
+              "start": 832.421,
+              "end": 837.541,
+              "text": "La escena sigue en diálogo ordenado, pero cada objeto tiene doble lectura.",
+              "sep": " "
+            },
+            {
+              "id": "0177",
+              "start": 838.701,
+              "end": 842.441,
+              "text": "Lo que para uno es prueba, para la otra es malentendido.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explicacion-p009",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0178",
+              "start": 842.854,
+              "end": 849.854,
+              "text": "Marina menciona la tortilla favorita, y Oscar pregunta: «¿La que está sobre una sartén negra?».",
+              "sep": " "
+            },
+            {
+              "id": "0179",
+              "start": 850.794,
+              "end": 855.934,
+              "text": "«Estar sobre» indica posición: algo se encuentra encima de otra cosa.",
+              "sep": " "
+            },
+            {
+              "id": "0180",
+              "start": 856.894,
+              "end": 858.694,
+              "text": "Por fin los dos mundos se tocan.",
+              "sep": " "
+            },
+            {
+              "id": "0181",
+              "start": 859.594,
+              "end": 865.154,
+              "text": "La sartén no está perdida en un armario; está a la vista, pero usada para otra función.",
+              "sep": " "
+            },
+            {
+              "id": "0182",
+              "start": 865.754,
+              "end": 869.714,
+              "text": "Marina dice que es «para darle altura» porque",
+              "sep": " "
+            },
+            {
+              "id": "0183",
+              "start": 869.714,
+              "end": 872.894,
+              "text": "la mesa está baja y la tortilla «es tímida».",
+              "sep": " "
+            },
+            {
+              "id": "0184",
+              "start": 873.714,
+              "end": 880.374,
+              "text": "La personificación es graciosa: una tortilla no tiene timidez, pero sí puede quedar poco visible.",
+              "sep": " "
+            },
+            {
+              "id": "0185",
+              "start": 881.354,
+              "end": 887.814,
+              "text": "Ahí aparece «pedestal», una base que eleva o muestra algo.",
+              "sep": " "
+            },
+            {
+              "id": "0186",
+              "start": 889.054,
+              "end": 895.054,
+              "text": "También decimos «poner a alguien en un pedestal» cuando idealizamos a una persona;",
+              "sep": " "
+            },
+            {
+              "id": "0187",
+              "start": 895.794,
+              "end": 898.994,
+              "text": "Marina casi hace eso con Oscar como jurado.",
+              "sep": " "
+            },
+            {
+              "id": "0188",
+              "start": 900.014,
+              "end": 902.174,
+              "text": "La altura no es un detalle decorativo:",
+              "sep": " "
+            },
+            {
+              "id": "0189",
+              "start": 903.594,
+              "end": 907.114,
+              "text": "decide si la tortilla parece importante ante los vecinos.",
+              "sep": " "
+            },
+            {
+              "id": "0190",
+              "start": 908.094,
+              "end": 910.434,
+              "text": "Para Marina, la sartén es soporte.",
+              "sep": " "
+            },
+            {
+              "id": "0191",
+              "start": 911.354,
+              "end": 914.754,
+              "text": "Para Oscar, ese soporte es una invasión de su cocina.",
+              "sep": " "
+            },
+            {
+              "id": "0192",
+              "start": 915.614,
+              "end": 921.934,
+              "text": "La misma realidad permite dos lecturas prácticas, y por eso la escena no depende de una broma externa.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explicacion-p010",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0193",
+              "start": 922.269,
+              "end": 926.909,
+              "text": "Oscar marca el límite: «esa sartén no es un pedestal.",
+              "sep": " "
+            },
+            {
+              "id": "0194",
+              "start": 927.349,
+              "end": 928.309,
+              "text": "Es mi sartén».",
+              "sep": " "
+            },
+            {
+              "id": "0195",
+              "start": 929.289,
+              "end": 933.269,
+              "text": "Las frases son cortas porque necesita recuperar el control del objeto.",
+              "sep": " "
+            },
+            {
+              "id": "0196",
+              "start": 934.489,
+              "end": 937.849,
+              "text": "Después sube el tono formal: «propiedad privada».",
+              "sep": " "
+            },
+            {
+              "id": "0197",
+              "start": 938.769,
+              "end": 943.369,
+              "text": "La expresión suena grande para una sartén, y justamente por eso funciona.",
+              "sep": " "
+            },
+            {
+              "id": "0198",
+              "start": 944.529,
+              "end": 948.549,
+              "text": "Oscar convierte su cena en un asunto casi legal.",
+              "sep": " "
+            },
+            {
+              "id": "0199",
+              "start": 949.299,
+              "end": 953.189,
+              "text": "También usa «ocupando», una acción temporal:",
+              "sep": " "
+            },
+            {
+              "id": "0200",
+              "start": 954.229,
+              "end": 958.11,
+              "text": "la tortilla no se vuelve dueña de la sartén, solo la usa.",
+              "sep": " "
+            },
+            {
+              "id": "0201",
+              "start": 959.349,
+              "end": 963.609,
+              "text": "Luego dice que está «debajo del prestigio gastronómico del barrio».",
+              "sep": " "
+            },
+            {
+              "id": "0202",
+              "start": 965.269,
+              "end": 970.389,
+              "text": "«Prestigio» es reconocimiento o buena fama.",
+              "sep": " "
+            },
+            {
+              "id": "0203",
+              "start": 971.229,
+              "end": 973.729,
+              "text": "La imagen es exagerada, pero clara:",
+              "sep": " "
+            },
+            {
+              "id": "0204",
+              "start": 974.209,
+              "end": 978.689,
+              "text": "su necesidad personal queda bajo el orgullo colectivo del concurso.",
+              "sep": " "
+            },
+            {
+              "id": "0205",
+              "start": 979.869,
+              "end": 984.249,
+              "text": "Aquí la palabra «debajo» no solo habla de posición física;",
+              "sep": " "
+            },
+            {
+              "id": "0206",
+              "start": 984.809,
+              "end": 987.129,
+              "text": "también crea una jerarquía cómica.",
+              "sep": " "
+            },
+            {
+              "id": "0207",
+              "start": 988.229,
+              "end": 994.629,
+              "text": "La frase tiene fuerza porque une cocina, propiedad y reputación en una sola imagen.",
+              "sep": " "
+            },
+            {
+              "id": "0208",
+              "start": 995.709,
+              "end": 998.849,
+              "text": "La tortilla está arriba, visible y pública.",
+              "sep": " "
+            },
+            {
+              "id": "0209",
+              "start": 999.789,
+              "end": 1004.009,
+              "text": "La cena de Oscar queda abajo, invisible y privada.",
+              "sep": " "
+            },
+            {
+              "id": "0210",
+              "start": 1005.309,
+              "end": 1010.769,
+              "text": "El conflicto ya no es encontrar la sartén, sino decidir qué valor pesa más.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explicacion-p011",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0211",
+              "start": 1011.128,
+              "end": 1015.708,
+              "text": "Marina acepta una parte de la verdad: Oscar no es jurado.",
+              "sep": " "
+            },
+            {
+              "id": "0212",
+              "start": 1016.608,
+              "end": 1021.088,
+              "text": "Pero lo incorpora al concurso de otra manera: «es parte del fallo».",
+              "sep": " "
+            },
+            {
+              "id": "0213",
+              "start": 1022.088,
+              "end": 1025.148,
+              "text": "El «fallo» es la decisión final de un jurado.",
+              "sep": " "
+            },
+            {
+              "id": "0214",
+              "start": 1026.108,
+              "end": 1032.428,
+              "text": "También puede significar un error o una avería, pero en este concurso la palabra apunta al resultado.",
+              "sep": " "
+            },
+            {
+              "id": "0215",
+              "start": 1033.388,
+              "end": 1037.208,
+              "text": "Si Oscar retira la sartén,",
+              "sep": " "
+            },
+            {
+              "id": "0216",
+              "start": 1037.648,
+              "end": 1041.708,
+              "text": "la tortilla ganadora estará «técnicamente» en el suelo.",
+              "sep": " "
+            },
+            {
+              "id": "0217",
+              "start": 1043.368,
+              "end": 1050.088,
+              "text": "«Técnicamente» introduce una precisión casi legal: quizá la tortilla no se caiga con drama,",
+              "sep": " "
+            },
+            {
+              "id": "0218",
+              "start": 1050.548,
+              "end": 1052.828,
+              "text": "pero perderá su base y su presentación.",
+              "sep": " "
+            },
+            {
+              "id": "0219",
+              "start": 1054.188,
+              "end": 1060.908,
+              "text": "El «vecindario» es el conjunto de vecinos, y todos miran.",
+              "sep": " "
+            },
+            {
+              "id": "0220",
+              "start": 1062.168,
+              "end": 1065.548,
+              "text": "La última línea cambia el peso social del objeto:",
+              "sep": " "
+            },
+            {
+              "id": "0221",
+              "start": 1065.988,
+              "end": 1070.528,
+              "text": "ya no es solo una sartén, sino la base visible de una decisión.",
+              "sep": " "
+            },
+            {
+              "id": "0222",
+              "start": 1072.148,
+              "end": 1073.708,
+              "text": "Marina piensa en la escena pública:",
+              "sep": " "
+            },
+            {
+              "id": "0223",
+              "start": 1074.668,
+              "end": 1079.888,
+              "text": "la mesa, la tortilla, los aplausos y la presidenta vendiendo rifas.",
+              "sep": " "
+            },
+            {
+              "id": "0224",
+              "start": 1081.248,
+              "end": 1086.248,
+              "text": "Oscar pensaba en una cena privada; ahora su objeto sostiene la imagen colectiva.",
+              "sep": " "
+            },
+            {
+              "id": "0225",
+              "start": 1087.308,
+              "end": 1089.548,
+              "text": "Esa tensión da fuerza al último turno.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explicacion-p012",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0226",
+              "start": 1089.893,
+              "end": 1093.393,
+              "text": "La palabra que resume todo es «ocupada».",
+              "sep": " "
+            },
+            {
+              "id": "0227",
+              "start": 1093.393,
+              "end": 1099.733,
+              "text": "Una persona puede estar ocupada si no tiene tiempo; una silla puede estar ocupada si alguien la usa;",
+              "sep": " "
+            },
+            {
+              "id": "0228",
+              "start": 1100.353,
+              "end": 1104.193,
+              "text": "una sartén puede estar ocupada si otra función la retiene.",
+              "sep": " "
+            },
+            {
+              "id": "0229",
+              "start": 1105.113,
+              "end": 1108.353,
+              "text": "La sartén sigue siendo de Oscar y de hierro.",
+              "sep": " "
+            },
+            {
+              "id": "0230",
+              "start": 1108.853,
+              "end": 1111.353,
+              "text": "Su identidad y su dueño no cambian.",
+              "sep": " "
+            },
+            {
+              "id": "0231",
+              "start": 1112.213,
+              "end": 1118.253,
+              "text": "Lo que cambia es su situación: está sobre una mesa, debajo de una tortilla,",
+              "sep": " "
+            },
+            {
+              "id": "0232",
+              "start": 1118.253,
+              "end": 1122.493,
+              "text": "sirviendo como pedestal y atrapada en el fallo del concurso.",
+              "sep": " "
+            },
+            {
+              "id": "0233",
+              "start": 1123.653,
+              "end": 1127.853,
+              "text": "Eso explica el título: no se trata de una sartén cansada,",
+              "sep": " "
+            },
+            {
+              "id": "0234",
+              "start": 1128.433,
+              "end": 1132.033,
+              "text": "sino de una sartén retenida por una función.",
+              "sep": " "
+            },
+            {
+              "id": "0235",
+              "start": 1133.313,
+              "end": 1135.333,
+              "text": "Esa distinción ayuda:",
+              "sep": " "
+            },
+            {
+              "id": "0236",
+              "start": 1136.393,
+              "end": 1141.833,
+              "text": "una identidad puede permanecer estable mientras la circunstancia se mueve a toda velocidad.",
+              "sep": " "
+            },
+            {
+              "id": "0237",
+              "start": 1143.033,
+              "end": 1147.013,
+              "text": "La escena vuelve a preguntas concretas: quién es Oscar,",
+              "sep": " "
+            },
+            {
+              "id": "0238",
+              "start": 1147.273,
+              "end": 1151.973,
+              "text": "qué es la sartén, de quién es, dónde está,",
+              "sep": " "
+            },
+            {
+              "id": "0239",
+              "start": 1152.473,
+              "end": 1156.473,
+              "text": "cómo está y qué función cumple ahora.",
+              "sep": " "
+            },
+            {
+              "id": "0240",
+              "start": 1157.573,
+              "end": 1161.113,
+              "text": "La sartén no está libre porque está ocupada;",
+              "sep": " "
+            },
+            {
+              "id": "0241",
+              "start": 1162.393,
+              "end": 1166.254,
+              "text": "cuando termine el concurso, volverá a estar libre para la cena.",
+              "sep": " "
+            },
+            {
+              "id": "0242",
+              "start": 1167.533,
+              "end": 1173.893,
+              "text": "Si escucha esas preguntas en la historia, el contraste se vuelve una forma de ordenar el caos.",
+              "sep": " "
+            },
+            {
+              "id": "0243",
+              "start": 1174.813,
+              "end": 1179.813,
+              "text": "Ahora escuchemos el diálogo, esta vez a velocidad natural.",
+              "sep": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04-dialogo-natural",
+      "label": "Diálogo - velocidad natural",
+      "isDialogue": true,
+      "paragraphs": [
+        {
+          "id": "04-dialogo-natural-p001",
+          "speaker": "Marina",
+          "cues": [
+            {
+              "id": "0244",
+              "start": 1186.867,
+              "end": 1188.207,
+              "text": "Usted es Oscar, ¿verdad?",
+              "sep": " "
+            },
+            {
+              "id": "0245",
+              "start": 1189.627,
+              "end": 1190.147,
+              "text": "Perfecto.",
+              "sep": " "
+            },
+            {
+              "id": "0246",
+              "start": 1190.907,
+              "end": 1195.467,
+              "text": "El concurso es a las ocho, las tortillas están listas y el jurado está más serio que el mantel.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p002",
+          "speaker": "Oscar",
+          "cues": [
+            {
+              "id": "0247",
+              "start": 1196.227,
+              "end": 1199.187,
+              "text": "Soy Oscar, sí, pero estoy aquí por una sartén negra.",
+              "sep": " "
+            },
+            {
+              "id": "0248",
+              "start": 1199.767,
+              "end": 1201.747,
+              "text": "Es grande, de hierro, con mango rojo.",
+              "sep": " "
+            },
+            {
+              "id": "0249",
+              "start": 1202.187,
+              "end": 1204.547,
+              "text": "La dejé en esta sala ayer por la tarde.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p003",
+          "speaker": "Marina",
+          "cues": [
+            {
+              "id": "0250",
+              "start": 1204.767,
+              "end": 1208.287,
+              "text": "Muy bien, empezamos fuerte: color, material, memoria emocional.",
+              "sep": " "
+            },
+            {
+              "id": "0251",
+              "start": 1209.287,
+              "end": 1211.287,
+              "text": "Se nota que usted es un jurado detallista.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p004",
+          "speaker": "Oscar",
+          "cues": [
+            {
+              "id": "0252",
+              "start": 1212.527,
+              "end": 1213.107,
+              "text": "No soy jurado.",
+              "sep": " "
+            },
+            {
+              "id": "0253",
+              "start": 1213.607,
+              "end": 1216.107,
+              "text": "Soy vecino del tercero y estoy buscando una sartén.",
+              "sep": " "
+            },
+            {
+              "id": "0254",
+              "start": 1216.107,
+              "end": 1218.547,
+              "text": "Sin ella, mi cena está en peligro.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p005",
+          "speaker": "Marina",
+          "cues": [
+            {
+              "id": "0255",
+              "start": 1219.027,
+              "end": 1220.667,
+              "text": "Todos decimos eso al principio.",
+              "sep": " "
+            },
+            {
+              "id": "0256",
+              "start": 1221.847,
+              "end": 1222.507,
+              "text": "Pruebe esta tortilla.",
+              "sep": " "
+            },
+            {
+              "id": "0257",
+              "start": 1223.947,
+              "end": 1225.987,
+              "text": "Es clásica, es de patata y cebolla,",
+              "sep": " "
+            },
+            {
+              "id": "0258",
+              "start": 1226.447,
+              "end": 1230.667,
+              "text": "y ahora está un poco fría porque la presidenta habló demasiado durante la bienvenida.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p006",
+          "speaker": "Oscar",
+          "cues": [
+            {
+              "id": "0259",
+              "start": 1231.547,
+              "end": 1233.587,
+              "text": "Está buena, pero no he venido a probar nada.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p007",
+          "speaker": "Marina",
+          "cues": [
+            {
+              "id": "0260",
+              "start": 1234.347,
+              "end": 1235.387,
+              "text": "Entonces esta otra.",
+              "sep": " "
+            },
+            {
+              "id": "0261",
+              "start": 1236.067,
+              "end": 1241.627,
+              "text": "Es moderna, está jugosa y es de una señora que dice que la cebolla es libertad personal.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p008",
+          "speaker": "Oscar",
+          "cues": [
+            {
+              "id": "0262",
+              "start": 1242.007,
+              "end": 1244.568,
+              "text": "Marina, de verdad, la sartén es mía.",
+              "sep": " "
+            },
+            {
+              "id": "0263",
+              "start": 1244.569,
+              "end": 1246.927,
+              "text": "Tiene una marca cerca del mango.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p009",
+          "speaker": "Marina",
+          "cues": [
+            {
+              "id": "0264",
+              "start": 1247.167,
+              "end": 1250.227,
+              "text": "Ah, busca personalidad en los utensilios.",
+              "sep": " "
+            },
+            {
+              "id": "0265",
+              "start": 1251.367,
+              "end": 1252.567,
+              "text": "Excelente criterio.",
+              "sep": " "
+            },
+            {
+              "id": "0266",
+              "start": 1253.347,
+              "end": 1256.767,
+              "text": "La tortilla número tres está rara, pero rara con confianza.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p010",
+          "speaker": "Oscar",
+          "cues": [
+            {
+              "id": "0267",
+              "start": 1257.347,
+              "end": 1261.567,
+              "text": "Mire, no quiero ser grosero, pero usted está ignorando mi problema con mucha alegría.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p011",
+          "speaker": "Marina",
+          "cues": [
+            {
+              "id": "0268",
+              "start": 1262.527,
+              "end": 1263.347,
+              "text": "Estoy concentrada.",
+              "sep": " "
+            },
+            {
+              "id": "0269",
+              "start": 1264.307,
+              "end": 1267.827,
+              "text": "El jurado anterior está enfermo, el suplente está perdido,",
+              "sep": " "
+            },
+            {
+              "id": "0270",
+              "start": 1268.707,
+              "end": 1272.887,
+              "text": "la presidenta está vendiendo rifas en la puerta y usted está aquí con una libreta.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p012",
+          "speaker": "Oscar",
+          "cues": [
+            {
+              "id": "0271",
+              "start": 1272.887,
+              "end": 1275.547,
+              "text": "La libreta es para apuntar dónde busco.",
+              "sep": " "
+            },
+            {
+              "id": "0272",
+              "start": 1276.107,
+              "end": 1279.807,
+              "text": "Ya estoy en la línea «centro de barrio, mesa larga, olor a cebolla».",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p013",
+          "speaker": "Marina",
+          "cues": [
+            {
+              "id": "0273",
+              "start": 1280.507,
+              "end": 1283.747,
+              "text": "Pues escriba también que la tortilla favorita está en la mesa del fondo.",
+              "sep": " "
+            },
+            {
+              "id": "0274",
+              "start": 1284.747,
+              "end": 1287.427,
+              "text": "Es pequeña, pero es muy elegante.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p014",
+          "speaker": "Oscar",
+          "cues": [
+            {
+              "id": "0275",
+              "start": 1287.647,
+              "end": 1289.767,
+              "text": "¿La que está sobre una sartén negra?",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p015",
+          "speaker": "Marina",
+          "cues": [
+            {
+              "id": "0276",
+              "start": 1290.267,
+              "end": 1292.087,
+              "text": "Sí, para darle altura.",
+              "sep": " "
+            },
+            {
+              "id": "0277",
+              "start": 1293.327,
+              "end": 1295.447,
+              "text": "La mesa está baja y la tortilla es tímida.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p016",
+          "speaker": "Oscar",
+          "cues": [
+            {
+              "id": "0278",
+              "start": 1296.167,
+              "end": 1298.507,
+              "text": "Marina, esa sartén no es un pedestal.",
+              "sep": " "
+            },
+            {
+              "id": "0279",
+              "start": 1299.047,
+              "end": 1299.887,
+              "text": "Es mi sartén.",
+              "sep": " "
+            },
+            {
+              "id": "0280",
+              "start": 1299.887,
+              "end": 1305.667,
+              "text": "La favorita está ocupando propiedad privada, y mi cena está debajo del prestigio gastronómico del barrio,",
+              "sep": " "
+            },
+            {
+              "id": "0281",
+              "start": 1305.907,
+              "end": 1308.367,
+              "text": "con cartel, número y aplausos pendientes.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p017",
+          "speaker": "Marina",
+          "cues": [
+            {
+              "id": "0282",
+              "start": 1309.147,
+              "end": 1315.307,
+              "text": "En ese caso, usted no es jurado, pero es parte del fallo: si retira la sartén antes de las ocho,",
+              "sep": " "
+            },
+            {
+              "id": "0283",
+              "start": 1315.887,
+              "end": 1318.868,
+              "text": "la tortilla ganadora estará técnicamente en el suelo,",
+              "sep": " "
+            },
+            {
+              "id": "0284",
+              "start": 1319.607,
+              "end": 1323.587,
+              "text": "con todo el vecindario mirando y la presidenta todavía vendiendo rifas.",
+              "sep": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "05-conclusion",
+      "label": "Conclusión",
+      "isDialogue": false,
+      "paragraphs": [
+        {
+          "id": "05-conclusion-p001",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0285",
+              "start": 1331.264,
+              "end": 1335.764,
+              "text": "Hoy una sartén ha tenido demasiada vida pública para ser un simple utensilio.",
+              "sep": " "
+            },
+            {
+              "id": "0286",
+              "start": 1336.584,
+              "end": 1341.665,
+              "text": "Oscar es vecino, la sartén es de hierro y es suya; pero ahora está sobre la mesa,",
+              "sep": " "
+            },
+            {
+              "id": "0287",
+              "start": 1342.404,
+              "end": 1345.384,
+              "text": "debajo de una tortilla y ocupada por el prestigio del barrio.",
+              "sep": " "
+            },
+            {
+              "id": "0288",
+              "start": 1346.104,
+              "end": 1348.584,
+              "text": "En la próxima escucha, sigan tres preguntas:",
+              "sep": " "
+            },
+            {
+              "id": "0289",
+              "start": 1349.704,
+              "end": 1354.104,
+              "text": "quién es cada persona, de quién es cada objeto y dónde está cada cosa.",
+              "sep": " "
+            },
+            {
+              "id": "0290",
+              "start": 1354.944,
+              "end": 1359.325,
+              "text": "Hasta la próxima, y que sus sartenes estén libres cuando llegue la cena.",
+              "sep": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
