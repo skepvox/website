@@ -275,3 +275,47 @@ test.describe('buffer notice', () => {
     }
   })
 })
+
+// Generated show manifest drives an SSR CardGrid on the /podcast/ hub. Episode
+// counts come from the per-show episodes.json (buffers already excluded), so the
+// buffer episode never reaches the public count or the grid. File-based; needs a
+// prior build (pnpm podcast:build).
+test.describe('podcast hub show grid', () => {
+  const SHOWS = path.resolve('src/podcast/shows.json')
+  const HUB_HTML = path.resolve('.vitepress/dist/podcast/index.html')
+
+  test('shows manifest has the three shows with public episode counts', () => {
+    const shows = JSON.parse(fs.readFileSync(SHOWS, 'utf-8'))
+    expect(shows).toHaveLength(3)
+    for (const s of shows) {
+      expect(typeof s.title).toBe('string')
+      expect(s.href).toMatch(/^\/podcast\/[a-z]+\/$/)
+      expect(typeof s.imageUrl).toBe('string')
+      expect(typeof s.description).toBe('string')
+      expect(typeof s.meta).toBe('string')
+      expect(typeof s.episodeCount).toBe('number')
+    }
+    // francais excludes the buffer episode (003) from the public count
+    const fr = shows.find((s: { href: string }) => s.href === '/podcast/francais/')
+    expect(fr.episodeCount).toBe(2)
+  })
+
+  test('built hub renders three SSR show cards linking to the series', () => {
+    const html = fs.readFileSync(HUB_HTML, 'utf-8')
+    expect(html).toContain('class="card-grid"')
+    expect((html.match(/class="card-grid__item"/g) || []).length).toBe(3)
+    for (const lang of ['francais', 'espanol', 'english']) {
+      expect(html).toContain(`href="/podcast/${lang}/"`)
+    }
+    expect(html).toMatch(/\d+ (épisodes?|episodios?|episodes?)/)
+  })
+
+  test('does not leak the buffer episode into the hub', () => {
+    const html = fs.readFileSync(HUB_HTML, 'utf-8')
+    // The buffer slug may appear in VitePress's internal route hashmap, but never
+    // as a link or inside the card grid.
+    expect(html).not.toContain('href="/podcast/francais/003-le-covoiturage-poli"')
+    const grid = html.match(/<ul class="card-grid".*?<\/ul>/s)?.[0] ?? ''
+    expect(grid).not.toContain('003-le-covoiturage-poli')
+  })
+})
