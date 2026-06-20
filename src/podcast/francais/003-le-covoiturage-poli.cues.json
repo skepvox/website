@@ -1,0 +1,2394 @@
+{
+  "episode": {
+    "id": "francais-003",
+    "title": "Le covoiturage poli",
+    "showTitle": "Vox Français",
+    "audioUrl": "https://media.skepvox.com/podcast/francais/audio/francais-003-le-covoiturage-poli-v6.mp3",
+    "artworkUrl": "https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg",
+    "lang": "fr",
+    "durationSeconds": 1325.469
+  },
+  "sections": [
+    {
+      "id": "01-introduction",
+      "label": "Introduction",
+      "isDialogue": false,
+      "paragraphs": [
+        {
+          "id": "01-introduction-p001",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0001",
+              "start": 0.0,
+              "end": 4.26,
+              "text": "Bonjour et bienvenue dans le Podcast de français langue étrangère,",
+              "sep": " "
+            },
+            {
+              "id": "0002",
+              "start": 5.04,
+              "end": 8.42,
+              "text": "le podcast pour apprendre le français avec une scène courte,",
+              "sep": " "
+            },
+            {
+              "id": "0003",
+              "start": 9.14,
+              "end": 12.4,
+              "text": "un dialogue vivant et une explication claire.",
+              "sep": " "
+            },
+            {
+              "id": "0004",
+              "start": 14.06,
+              "end": 19.62,
+              "text": "Aujourd'hui, nous sommes sur une aire d'autoroute, au départ d'un covoiturage pour Dijon.",
+              "sep": " "
+            },
+            {
+              "id": "0005",
+              "start": 21.14,
+              "end": 27.38,
+              "text": "Léa attend ses passagers, vérifie les noms et essaie de garder un départ simple et poli.",
+              "sep": " "
+            },
+            {
+              "id": "0006",
+              "start": 28.22,
+              "end": 32.56,
+              "text": "Un homme arrive : il s'appelle Thomas, il est de Nancy,",
+              "sep": " "
+            },
+            {
+              "id": "0007",
+              "start": 32.56,
+              "end": 35.6,
+              "text": "et une question pratique apparaît tout de suite :",
+              "sep": " "
+            },
+            {
+              "id": "0008",
+              "start": 36.88,
+              "end": 39.021,
+              "text": "on dit tu ou vous ?",
+              "sep": " "
+            },
+            {
+              "id": "0009",
+              "start": 40.18,
+              "end": 44.6,
+              "text": "Dans ce dialogue, quelques petites phrases suffisent pour identifier,",
+              "sep": " "
+            },
+            {
+              "id": "0010",
+              "start": 45.36,
+              "end": 48.4,
+              "text": "situer et ajuster la distance entre deux inconnus.",
+              "sep": " "
+            },
+            {
+              "id": "0011",
+              "start": 49.5,
+              "end": 50.02,
+              "text": "C'est parti.",
+              "sep": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-dialogue-lent",
+      "label": "Dialogue - version lente",
+      "isDialogue": true,
+      "paragraphs": [
+        {
+          "id": "02-dialogue-lent-p001",
+          "speaker": "Léa",
+          "cues": [
+            {
+              "id": "0012",
+              "start": 57.064,
+              "end": 60.164,
+              "text": "Bonjour, vous êtes Thomas, le passager pour Dijon ?",
+              "sep": " "
+            },
+            {
+              "id": "0013",
+              "start": 61.284,
+              "end": 63.124,
+              "text": "Je suis Léa, la conductrice.",
+              "sep": " "
+            },
+            {
+              "id": "0014",
+              "start": 64.244,
+              "end": 66.444,
+              "text": "La voiture bleue est juste derrière vous.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p002",
+          "speaker": "Thomas",
+          "cues": [
+            {
+              "id": "0015",
+              "start": 67.344,
+              "end": 69.004,
+              "text": "Oui, je suis Thomas.",
+              "sep": " "
+            },
+            {
+              "id": "0016",
+              "start": 69.644,
+              "end": 71.004,
+              "text": "Et vous êtes bien Léa ?",
+              "sep": " "
+            },
+            {
+              "id": "0017",
+              "start": 72.324,
+              "end": 79.104,
+              "text": "L'application dit : \"Ici, on se tutoie\", mais elle est très enthousiaste pour une application.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p003",
+          "speaker": "Léa",
+          "cues": [
+            {
+              "id": "0018",
+              "start": 79.944,
+              "end": 80.424,
+              "text": "C'est vrai.",
+              "sep": " "
+            },
+            {
+              "id": "0019",
+              "start": 81.684,
+              "end": 82.464,
+              "text": "Alors tu es prêt ?",
+              "sep": " "
+            },
+            {
+              "id": "0020",
+              "start": 83.304,
+              "end": 88.005,
+              "text": "Nous sommes déjà un peu en retard, le tableau de départ est plein de noms,",
+              "sep": " "
+            },
+            {
+              "id": "0021",
+              "start": 88.164,
+              "end": 91.664,
+              "text": "et l'aire d'autoroute est moins charmante que sur les photos.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p004",
+          "speaker": "Thomas",
+          "cues": [
+            {
+              "id": "0022",
+              "start": 92.464,
+              "end": 96.004,
+              "text": "Je suis prêt, mais je préfère commencer par vous.",
+              "sep": " "
+            },
+            {
+              "id": "0023",
+              "start": 97.144,
+              "end": 103.964,
+              "text": "Nous ne sommes pas chez des amis, nous sommes sur un parking avec trois poubelles et un sandwich triste.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p005",
+          "speaker": "Léa",
+          "cues": [
+            {
+              "id": "0024",
+              "start": 104.764,
+              "end": 106.044,
+              "text": "D'accord, vous êtes prêt.",
+              "sep": " "
+            },
+            {
+              "id": "0025",
+              "start": 107.884,
+              "end": 111.664,
+              "text": "Vous êtes de Nancy, avec un sac rouge et un chien calme ?",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p006",
+          "speaker": "Thomas",
+          "cues": [
+            {
+              "id": "0026",
+              "start": 112.404,
+              "end": 113.844,
+              "text": "Je suis de Nancy, oui.",
+              "sep": " "
+            },
+            {
+              "id": "0027",
+              "start": 114.424,
+              "end": 120.444,
+              "text": "Mais mon sac est noir, je suis seul, et je suis très sensible aux pronoms.",
+              "sep": " "
+            },
+            {
+              "id": "0028",
+              "start": 121.724,
+              "end": 126.124,
+              "text": "Quand une inconnue me dit \"tu\", mon manteau se ferme tout seul.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p007",
+          "speaker": "Léa",
+          "cues": [
+            {
+              "id": "0029",
+              "start": 126.844,
+              "end": 129.904,
+              "text": "Dans le covoiturage, on est souvent plus simple.",
+              "sep": " "
+            },
+            {
+              "id": "0030",
+              "start": 130.504,
+              "end": 134.004,
+              "text": "Si je dis \"tu es devant la voiture bleue\", tout le monde comprend.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p008",
+          "speaker": "Thomas",
+          "cues": [
+            {
+              "id": "0031",
+              "start": 134.804,
+              "end": 139.704,
+              "text": "Tout le monde comprend, mais tout le monde n'est pas intime avec la voiture bleue.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p009",
+          "speaker": "Léa",
+          "cues": [
+            {
+              "id": "0032",
+              "start": 140.304,
+              "end": 143.884,
+              "text": "Vous êtes drôle, ou difficile, je ne sais pas encore.",
+              "sep": " "
+            },
+            {
+              "id": "0033",
+              "start": 145.724,
+              "end": 151.464,
+              "text": "Clara est à la boulangerie, Sami est chez son frère, et Thomas devrait être ici.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p010",
+          "speaker": "Thomas",
+          "cues": [
+            {
+              "id": "0034",
+              "start": 152.124,
+              "end": 155.964,
+              "text": "Je suis ici, mais pas forcément le Thomas que vous attendez.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p011",
+          "speaker": "Léa",
+          "cues": [
+            {
+              "id": "0035",
+              "start": 156.784,
+              "end": 157.424,
+              "text": "Ah.",
+              "sep": " "
+            },
+            {
+              "id": "0036",
+              "start": 158.064,
+              "end": 162.964,
+              "text": "L'autre Thomas a un chien, un sac rouge, et deux messages avec des sourires.",
+              "sep": " "
+            },
+            {
+              "id": "0037",
+              "start": 164.244,
+              "end": 167.324,
+              "text": "Vous avez une sacoche noire et un air d'inspecteur.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p012",
+          "speaker": "Thomas",
+          "cues": [
+            {
+              "id": "0038",
+              "start": 167.944,
+              "end": 168.944,
+              "text": "Ce n'est pas faux.",
+              "sep": " "
+            },
+            {
+              "id": "0039",
+              "start": 170.484,
+              "end": 173.024,
+              "text": "Administrativement, je suis Thomas du service qualité.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p013",
+          "speaker": "Léa",
+          "cues": [
+            {
+              "id": "0040",
+              "start": 173.844,
+              "end": 175.004,
+              "text": "Du service qualité ?",
+              "sep": " "
+            },
+            {
+              "id": "0041",
+              "start": 176.284,
+              "end": 177.764,
+              "text": "Vous n'êtes donc pas mon passager ?",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p014",
+          "speaker": "Thomas",
+          "cues": [
+            {
+              "id": "0042",
+              "start": 179.884,
+              "end": 180.134,
+              "text": "Non.",
+              "sep": " "
+            },
+            {
+              "id": "0043",
+              "start": 181.284,
+              "end": 187.064,
+              "text": "Aujourd'hui, je suis ici pour observer la politesse des conducteurs et le passage entre tu et vous.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p015",
+          "speaker": "Léa",
+          "cues": [
+            {
+              "id": "0044",
+              "start": 187.484,
+              "end": 191.564,
+              "text": "Donc le vrai passager est absent, le chien est ailleurs,",
+              "sep": " "
+            },
+            {
+              "id": "0045",
+              "start": 192.204,
+              "end": 196.564,
+              "text": "et moi, je suis en examen avant même de sortir du parking.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p016",
+          "speaker": "Thomas",
+          "cues": [
+            {
+              "id": "0046",
+              "start": 197.384,
+              "end": 198.204,
+              "text": "Pas exactement.",
+              "sep": " "
+            },
+            {
+              "id": "0047",
+              "start": 199.184,
+              "end": 201.144,
+              "text": "Vous êtes déjà très polie.",
+              "sep": " "
+            },
+            {
+              "id": "0048",
+              "start": 201.644,
+              "end": 206.064,
+              "text": "Mais vous êtes aussi en train d'emmener le contrôleur à Dijon sans le vrai Thomas.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p017",
+          "speaker": "Léa",
+          "cues": [
+            {
+              "id": "0049",
+              "start": 207.044,
+              "end": 207.324,
+              "text": "Très bien.",
+              "sep": " "
+            },
+            {
+              "id": "0050",
+              "start": 208.224,
+              "end": 211.264,
+              "text": "Monsieur le contrôleur, vous êtes devant la bonne voiture.",
+              "sep": " "
+            },
+            {
+              "id": "0051",
+              "start": 212.104,
+              "end": 214.164,
+              "text": "Mais pour monter, tu es en retard.",
+              "sep": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-explication",
+      "label": "Explication",
+      "isDialogue": false,
+      "paragraphs": [
+        {
+          "id": "03-explication-p001",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0052",
+              "start": 221.221,
+              "end": 225.841,
+              "text": "Dans ce dialogue, Léa attend des passagers pour un covoiturage.",
+              "sep": " "
+            },
+            {
+              "id": "0053",
+              "start": 227.101,
+              "end": 230.961,
+              "text": "Le covoiturage, c'est un trajet partagé en voiture.",
+              "sep": " "
+            },
+            {
+              "id": "0054",
+              "start": 232.101,
+              "end": 236.561,
+              "text": "Une personne conduit, et d'autres personnes montent comme passagers.",
+              "sep": " "
+            },
+            {
+              "id": "0055",
+              "start": 237.821,
+              "end": 244.601,
+              "text": "On partage le prix, le trajet, et pendant quelques heures, un espace assez petit.",
+              "sep": " "
+            },
+            {
+              "id": "0056",
+              "start": 246.021,
+              "end": 250.741,
+              "text": "C'est très pratique, mais cela demande aussi une petite organisation :",
+              "sep": " "
+            },
+            {
+              "id": "0057",
+              "start": 250.741,
+              "end": 255.482,
+              "text": "vérifier les noms, les bagages, l'heure,",
+              "sep": " "
+            },
+            {
+              "id": "0058",
+              "start": 256.201,
+              "end": 259.961,
+              "text": "la destination, et parfois le niveau de politesse.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p002",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0059",
+              "start": 261.441,
+              "end": 263.421,
+              "text": "Léa commence par une question très simple :",
+              "sep": " "
+            },
+            {
+              "id": "0060",
+              "start": 264.981,
+              "end": 268.861,
+              "text": "\"Bonjour, vous êtes Thomas, le passager pour Dijon ?\"",
+              "sep": " "
+            },
+            {
+              "id": "0061",
+              "start": 270.061,
+              "end": 273.901,
+              "text": "Elle ne connaît pas l'homme devant elle, donc elle utilise vous.",
+              "sep": " "
+            },
+            {
+              "id": "0062",
+              "start": 275.121,
+              "end": 278.641,
+              "text": "Elle vérifie aussi une identité : vous êtes Thomas.",
+              "sep": " "
+            },
+            {
+              "id": "0063",
+              "start": 279.521,
+              "end": 285.981,
+              "text": "À l'oral, notez la liaison dans vous êtes : on entend un z qui relie les deux mots.",
+              "sep": " "
+            },
+            {
+              "id": "0064",
+              "start": 287.421,
+              "end": 291.301,
+              "text": "Dans un départ de covoiturage, cette phrase est essentielle.",
+              "sep": " "
+            },
+            {
+              "id": "0065",
+              "start": 292.661,
+              "end": 295.661,
+              "text": "On ne demande pas seulement un prénom par curiosité.",
+              "sep": " "
+            },
+            {
+              "id": "0066",
+              "start": 296.901,
+              "end": 300.081,
+              "text": "On vérifie que la bonne personne monte dans la bonne voiture.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p003",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0067",
+              "start": 300.641,
+              "end": 304.621,
+              "text": "Le mot passager désigne la personne qui voyage sans conduire.",
+              "sep": " "
+            },
+            {
+              "id": "0068",
+              "start": 305.741,
+              "end": 310.341,
+              "text": "Dans un train, dans un bus, dans une voiture ou dans un avion,",
+              "sep": " "
+            },
+            {
+              "id": "0069",
+              "start": 311.261,
+              "end": 313.761,
+              "text": "les passagers sont les personnes transportées.",
+              "sep": " "
+            },
+            {
+              "id": "0070",
+              "start": 314.901,
+              "end": 318.561,
+              "text": "Ici, Thomas semble être le passager attendu.",
+              "sep": " "
+            },
+            {
+              "id": "0071",
+              "start": 320.061,
+              "end": 322.081,
+              "text": "Ce mot donne à Thomas un rôle pratique :",
+              "sep": " "
+            },
+            {
+              "id": "0072",
+              "start": 322.081,
+              "end": 328.101,
+              "text": "s'il est passager, il doit monter, payer sa place,",
+              "sep": " "
+            },
+            {
+              "id": "0073",
+              "start": 328.101,
+              "end": 331.301,
+              "text": "et partir vers Dijon avec Léa.",
+              "sep": " "
+            },
+            {
+              "id": "0074",
+              "start": 332.541,
+              "end": 336.581,
+              "text": "Dans la vie quotidienne, ce mot appelle souvent une vérification simple :",
+              "sep": " "
+            },
+            {
+              "id": "0075",
+              "start": 337.621,
+              "end": 340.121,
+              "text": "nom, destination, horaire,",
+              "sep": " "
+            },
+            {
+              "id": "0076",
+              "start": 340.121,
+              "end": 342.441,
+              "text": "et parfois un bagage reconnaissable.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p004",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0077",
+              "start": 344.041,
+              "end": 350.121,
+              "text": "Léa se présente ensuite : \"Je suis Léa, la conductrice.\"",
+              "sep": " "
+            },
+            {
+              "id": "0078",
+              "start": 351.541,
+              "end": 355.141,
+              "text": "Une conductrice, c'est la personne qui conduit.",
+              "sep": " "
+            },
+            {
+              "id": "0079",
+              "start": 356.441,
+              "end": 359.021,
+              "text": "Au masculin, on dit un conducteur.",
+              "sep": " "
+            },
+            {
+              "id": "0080",
+              "start": 360.461,
+              "end": 365.221,
+              "text": "Dans la scène, le mot est important parce qu'il donne à Léa une responsabilité.",
+              "sep": " "
+            },
+            {
+              "id": "0081",
+              "start": 366.621,
+              "end": 372.901,
+              "text": "Elle doit reconnaître les bonnes personnes, respecter l'heure, et faire partir la voiture.",
+              "sep": " "
+            },
+            {
+              "id": "0082",
+              "start": 374.221,
+              "end": 379.141,
+              "text": "Elle n'est pas seulement une femme sur un parking ; elle est la conductrice du trajet.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p005",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0083",
+              "start": 379.517,
+              "end": 382.297,
+              "text": "Elle ajoute que la voiture bleue est derrière Thomas.",
+              "sep": " "
+            },
+            {
+              "id": "0084",
+              "start": 383.717,
+              "end": 385.257,
+              "text": "Cette phrase situe l'objet.",
+              "sep": " "
+            },
+            {
+              "id": "0085",
+              "start": 386.457,
+              "end": 391.157,
+              "text": "Avec être, on peut donner une identité, mais aussi une position :",
+              "sep": " "
+            },
+            {
+              "id": "0086",
+              "start": 392.317,
+              "end": 395.517,
+              "text": "la voiture est derrière vous, le sac est ici,",
+              "sep": " "
+            },
+            {
+              "id": "0087",
+              "start": 396.677,
+              "end": 398.237,
+              "text": "Clara est à la boulangerie.",
+              "sep": " "
+            },
+            {
+              "id": "0088",
+              "start": 399.337,
+              "end": 405.497,
+              "text": "Dans ce dialogue, les lieux comptent beaucoup, parce que tout se passe dans un espace de passage :",
+              "sep": " "
+            },
+            {
+              "id": "0089",
+              "start": 406.317,
+              "end": 407.297,
+              "text": "une aire d'autoroute.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p006",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0090",
+              "start": 408.117,
+              "end": 411.377,
+              "text": "Une aire d'autoroute, c'est un lieu où les",
+              "sep": " "
+            },
+            {
+              "id": "0091",
+              "start": 411.377,
+              "end": 417.097,
+              "text": "voyageurs s'arrêtent pendant un trajet : parking, toilettes, café,",
+              "sep": " "
+            },
+            {
+              "id": "0092",
+              "start": 418.177,
+              "end": 421.777,
+              "text": "station-service, parfois tables ou boutique.",
+              "sep": " "
+            },
+            {
+              "id": "0093",
+              "start": 422.737,
+              "end": 425.697,
+              "text": "C'est utile, mais ce n'est pas intime.",
+              "sep": " "
+            },
+            {
+              "id": "0094",
+              "start": 426.977,
+              "end": 429.597,
+              "text": "Léa attend là parce que c'est pratique pour le départ.",
+              "sep": " "
+            },
+            {
+              "id": "0095",
+              "start": 431.017,
+              "end": 434.957,
+              "text": "Thomas, lui, va utiliser ce lieu pour justifier sa prudence :",
+              "sep": " "
+            },
+            {
+              "id": "0096",
+              "start": 435.577,
+              "end": 440.797,
+              "text": "on ne parle pas forcément à un inconnu sur un parking comme à un ami dans un salon.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p007",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0097",
+              "start": 441.169,
+              "end": 444.709,
+              "text": "Thomas confirme : \"Oui, je suis Thomas.",
+              "sep": " "
+            },
+            {
+              "id": "0098",
+              "start": 445.429,
+              "end": 450.089,
+              "text": "Et vous êtes bien Léa ?\" Pour l'instant, tout semble correct.",
+              "sep": " "
+            },
+            {
+              "id": "0099",
+              "start": 451.029,
+              "end": 455.389,
+              "text": "Puis il cite l'application : \"Ici, on se tutoie.\"",
+              "sep": " "
+            },
+            {
+              "id": "0100",
+              "start": 457.129,
+              "end": 459.809,
+              "text": "Une application est un programme sur le téléphone.",
+              "sep": " "
+            },
+            {
+              "id": "0101",
+              "start": 460.829,
+              "end": 467.529,
+              "text": "Dans le covoiturage, elle sert à réserver, payer, envoyer des messages, lire les avis,",
+              "sep": " "
+            },
+            {
+              "id": "0102",
+              "start": 468.049,
+              "end": 471.429,
+              "text": "et parfois créer une ambiance très directe.",
+              "sep": " "
+            },
+            {
+              "id": "0103",
+              "start": 472.689,
+              "end": 478.049,
+              "text": "Une application peut dire tu très facilement, parce qu'elle veut paraître simple et moderne.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p008",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0104",
+              "start": 479.509,
+              "end": 482.909,
+              "text": "Se tutoyer, c'est utiliser tu entre deux personnes.",
+              "sep": " "
+            },
+            {
+              "id": "0105",
+              "start": 484.269,
+              "end": 491.17,
+              "text": "Quand on dit \"on se tutoie\", cela signifie que les deux personnes utilisent tu l'une avec l'autre.",
+              "sep": " "
+            },
+            {
+              "id": "0106",
+              "start": 492.109,
+              "end": 494.889,
+              "text": "Entre amis, dans une famille,",
+              "sep": " "
+            },
+            {
+              "id": "0107",
+              "start": 494.889,
+              "end": 499.149,
+              "text": "ou dans certains groupes informels, c'est naturel.",
+              "sep": " "
+            },
+            {
+              "id": "0108",
+              "start": 500.489,
+              "end": 504.569,
+              "text": "Mais ici, Léa et Thomas ne se connaissent pas encore.",
+              "sep": " "
+            },
+            {
+              "id": "0109",
+              "start": 506.009,
+              "end": 508.829,
+              "text": "L'application propose une règle générale ;",
+              "sep": " "
+            },
+            {
+              "id": "0110",
+              "start": 509.889,
+              "end": 513.349,
+              "text": "Thomas veut vérifier si cette règle convient vraiment à la situation.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p009",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0111",
+              "start": 513.837,
+              "end": 516.797,
+              "text": "Le contraire, c'est choisir vous.",
+              "sep": " "
+            },
+            {
+              "id": "0112",
+              "start": 518.297,
+              "end": 520.757,
+              "text": "Avec vous, on garde une distance polie.",
+              "sep": " "
+            },
+            {
+              "id": "0113",
+              "start": 522.177,
+              "end": 524.237,
+              "text": "On l'utilise souvent avec un inconnu,",
+              "sep": " "
+            },
+            {
+              "id": "0114",
+              "start": 525.037,
+              "end": 529.257,
+              "text": "un client, un professeur, une personne plus âgée,",
+              "sep": " "
+            },
+            {
+              "id": "0115",
+              "start": 530.037,
+              "end": 532.997,
+              "text": "ou simplement quand la relation n'est pas encore claire.",
+              "sep": " "
+            },
+            {
+              "id": "0116",
+              "start": 534.637,
+              "end": 537.117,
+              "text": "Thomas ne dit pas que tu es impoli dans tous les cas.",
+              "sep": " "
+            },
+            {
+              "id": "0117",
+              "start": 538.277,
+              "end": 541.257,
+              "text": "Il dit seulement : commençons par vous.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p010",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0118",
+              "start": 542.797,
+              "end": 547.537,
+              "text": "Léa suit d'abord l'esprit de l'application : \"Alors tu es prêt ?\"",
+              "sep": " "
+            },
+            {
+              "id": "0119",
+              "start": 549.017,
+              "end": 551.977,
+              "text": "Le mot prêt décrit une personne qui peut commencer maintenant.",
+              "sep": " "
+            },
+            {
+              "id": "0120",
+              "start": 553.237,
+              "end": 556.237,
+              "text": "Si Thomas est prêt, le trajet peut partir.",
+              "sep": " "
+            },
+            {
+              "id": "0121",
+              "start": 557.717,
+              "end": 564.538,
+              "text": "Léa pense à l'horaire, aux autres passagers, et au tableau de départ plein de noms.",
+              "sep": " "
+            },
+            {
+              "id": "0122",
+              "start": 565.917,
+              "end": 571.937,
+              "text": "Pour elle, la question est pratique : tu es prêt, donc on peut y aller.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p011",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0123",
+              "start": 572.306,
+              "end": 575.687,
+              "text": "Elle ajoute : \"Nous sommes déjà un peu en retard.\"",
+              "sep": " "
+            },
+            {
+              "id": "0124",
+              "start": 577.566,
+              "end": 580.387,
+              "text": "Être en retard signifie ne pas être à l'heure.",
+              "sep": " "
+            },
+            {
+              "id": "0125",
+              "start": 581.286,
+              "end": 588.286,
+              "text": "On peut être en retard pour un train, un cours, un rendez-vous ou un départ de covoiturage.",
+              "sep": " "
+            },
+            {
+              "id": "0126",
+              "start": 589.946,
+              "end": 593.386,
+              "text": "Dans la scène, en retard donne une pression concrète.",
+              "sep": " "
+            },
+            {
+              "id": "0127",
+              "start": 594.966,
+              "end": 599.366,
+              "text": "Léa n'a pas envie de transformer un départ rapide en débat social.",
+              "sep": " "
+            },
+            {
+              "id": "0128",
+              "start": 600.126,
+              "end": 604.246,
+              "text": "Elle veut être polie, mais elle veut surtout partir.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p012",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0129",
+              "start": 605.606,
+              "end": 610.186,
+              "text": "Thomas répond : \"Je suis prêt, mais je préfère commencer par vous.\"",
+              "sep": " "
+            },
+            {
+              "id": "0130",
+              "start": 611.566,
+              "end": 613.486,
+              "text": "Il accepte le départ,",
+              "sep": " "
+            },
+            {
+              "id": "0131",
+              "start": 614.186,
+              "end": 615.626,
+              "text": "mais pas encore le tutoiement.",
+              "sep": " "
+            },
+            {
+              "id": "0132",
+              "start": 616.806,
+              "end": 622.766,
+              "text": "Puis il donne une image très claire : \"Nous ne sommes pas chez des amis,",
+              "sep": " "
+            },
+            {
+              "id": "0133",
+              "start": 623.466,
+              "end": 627.286,
+              "text": "nous sommes sur un parking avec trois poubelles et un sandwich triste.\"",
+              "sep": " "
+            },
+            {
+              "id": "0134",
+              "start": 628.836,
+              "end": 630.836,
+              "text": "Chez des amis indique un lieu familier,",
+              "sep": " "
+            },
+            {
+              "id": "0135",
+              "start": 631.716,
+              "end": 633.336,
+              "text": "lié à des personnes que l'on connaît.",
+              "sep": " "
+            },
+            {
+              "id": "0136",
+              "start": 634.676,
+              "end": 636.557,
+              "text": "Sur un parking, au contraire,",
+              "sep": " "
+            },
+            {
+              "id": "0137",
+              "start": 637.216,
+              "end": 641.676,
+              "text": "on est dans un lieu public, provisoire, un peu froid.",
+              "sep": " "
+            },
+            {
+              "id": "0138",
+              "start": 643.056,
+              "end": 646.856,
+              "text": "Thomas explique donc son choix avec le décor même de la scène.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p013",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0139",
+              "start": 647.247,
+              "end": 649.887,
+              "text": "Le sandwich triste rend la phrase drôle.",
+              "sep": " "
+            },
+            {
+              "id": "0140",
+              "start": 651.107,
+              "end": 653.787,
+              "text": "Thomas pourrait faire une grande théorie sur la politesse,",
+              "sep": " "
+            },
+            {
+              "id": "0141",
+              "start": 654.467,
+              "end": 658.347,
+              "text": "mais il montre simplement ce qu'il voit : un parking,",
+              "sep": " "
+            },
+            {
+              "id": "0142",
+              "start": 659.327,
+              "end": 662.127,
+              "text": "des poubelles, un sandwich peu attirant.",
+              "sep": " "
+            },
+            {
+              "id": "0143",
+              "start": 663.607,
+              "end": 666.267,
+              "text": "Cette précision concrète explique son caractère.",
+              "sep": " "
+            },
+            {
+              "id": "0144",
+              "start": 667.347,
+              "end": 672.067,
+              "text": "Il n'est pas agressif ; il est cérémonieux, attentif,",
+              "sep": " "
+            },
+            {
+              "id": "0145",
+              "start": 672.067,
+              "end": 676.327,
+              "text": "et peut-être un peu trop sérieux pour un départ de covoiturage.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p014",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0146",
+              "start": 677.747,
+              "end": 683.267,
+              "text": "Léa s'adapte : \"D'accord, vous êtes prêt.\" Elle revient à vous.",
+              "sep": " "
+            },
+            {
+              "id": "0147",
+              "start": 684.147,
+              "end": 690.807,
+              "text": "Puis elle vérifie les détails : \"Vous êtes de Nancy, avec un sac rouge et un chien calme ?\"",
+              "sep": " "
+            },
+            {
+              "id": "0148",
+              "start": 692.427,
+              "end": 694.408,
+              "text": "Être de indique souvent l'origine :",
+              "sep": " "
+            },
+            {
+              "id": "0149",
+              "start": 695.387,
+              "end": 700.207,
+              "text": "je suis de Nancy, elle est de Lyon, nous sommes de Toulouse.",
+              "sep": " "
+            },
+            {
+              "id": "0150",
+              "start": 701.947,
+              "end": 705.587,
+              "text": "Thomas confirme l'origine, mais le reste ne correspond pas.",
+              "sep": " "
+            },
+            {
+              "id": "0151",
+              "start": 706.847,
+              "end": 711.527,
+              "text": "Il a un sac noir, il est seul, et il est très sensible aux pronoms.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p015",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0152",
+              "start": 711.925,
+              "end": 713.965,
+              "text": "Cette réponse fait avancer le doute.",
+              "sep": " "
+            },
+            {
+              "id": "0153",
+              "start": 715.465,
+              "end": 721.525,
+              "text": "Un vrai passager de covoiturage doit correspondre à plusieurs informations, pas seulement au prénom.",
+              "sep": " "
+            },
+            {
+              "id": "0154",
+              "start": 723.325,
+              "end": 726.145,
+              "text": "Le sac rouge et le chien calme sont des indices.",
+              "sep": " "
+            },
+            {
+              "id": "0155",
+              "start": 727.225,
+              "end": 731.285,
+              "text": "Thomas a le bon prénom et la bonne origine, mais pas le bon portrait.",
+              "sep": " "
+            },
+            {
+              "id": "0156",
+              "start": 732.865,
+              "end": 737.705,
+              "text": "Léa commence donc à comprendre que l'identité \"Thomas\" n'est pas suffisante.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p016",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0157",
+              "start": 739.145,
+              "end": 741.305,
+              "text": "Thomas dit qu'il est \"très sensible aux pronoms\".",
+              "sep": " "
+            },
+            {
+              "id": "0158",
+              "start": 742.065,
+              "end": 745.705,
+              "text": "Un pronom, ici, c'est un petit mot comme je,",
+              "sep": " "
+            },
+            {
+              "id": "0159",
+              "start": 746.285,
+              "end": 750.406,
+              "text": "tu, vous, il, elle, nous ou on.",
+              "sep": " "
+            },
+            {
+              "id": "0160",
+              "start": 751.425,
+              "end": 754.765,
+              "text": "Dans ce dialogue, les pronoms ne sont pas abstraits.",
+              "sep": " "
+            },
+            {
+              "id": "0161",
+              "start": 755.865,
+              "end": 759.725,
+              "text": "Ils règlent la distance entre deux personnes.",
+              "sep": " "
+            },
+            {
+              "id": "0162",
+              "start": 760.965,
+              "end": 765.385,
+              "text": "Quand Thomas dit que son manteau se ferme tout seul si une inconnue lui dit tu,",
+              "sep": " "
+            },
+            {
+              "id": "0163",
+              "start": 765.845,
+              "end": 768.225,
+              "text": "il donne une image comique de protection.",
+              "sep": " "
+            },
+            {
+              "id": "0164",
+              "start": 769.385,
+              "end": 771.186,
+              "text": "Le corps se met presque en mode vous.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p017",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0165",
+              "start": 771.524,
+              "end": 777.944,
+              "text": "Léa défend une autre logique : \"Dans le covoiturage, on est souvent plus simple.\"",
+              "sep": " "
+            },
+            {
+              "id": "0166",
+              "start": 779.224,
+              "end": 783.265,
+              "text": "On est appartient à la langue courante et remplace souvent nous sommes.",
+              "sep": " "
+            },
+            {
+              "id": "0167",
+              "start": 783.984,
+              "end": 786.384,
+              "text": "Léa parle de l'usage pratique :",
+              "sep": " "
+            },
+            {
+              "id": "0168",
+              "start": 787.664,
+              "end": 791.524,
+              "text": "dans une voiture partagée, les gens veulent souvent aller vite,",
+              "sep": " "
+            },
+            {
+              "id": "0169",
+              "start": 792.304,
+              "end": 796.904,
+              "text": "se parler simplement, et résoudre les problèmes sans cérémonie.",
+              "sep": " "
+            },
+            {
+              "id": "0170",
+              "start": 798.104,
+              "end": 804.824,
+              "text": "Pour elle, si elle dit \"tu es devant la voiture bleue\", le message est clair.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p018",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0171",
+              "start": 806.744,
+              "end": 810.164,
+              "text": "Thomas répond que tout le monde n'est pas intime avec la voiture bleue.",
+              "sep": " "
+            },
+            {
+              "id": "0172",
+              "start": 811.644,
+              "end": 814.664,
+              "text": "Intime signifie proche, familier.",
+              "sep": " "
+            },
+            {
+              "id": "0173",
+              "start": 816.384,
+              "end": 820.424,
+              "text": "La phrase fonctionne parce qu'il applique une idée humaine à une voiture.",
+              "sep": " "
+            },
+            {
+              "id": "0174",
+              "start": 821.184,
+              "end": 826.644,
+              "text": "Il montre que la simplicité automatique peut devenir bizarre quand elle arrive trop tôt.",
+              "sep": " "
+            },
+            {
+              "id": "0175",
+              "start": 828.544,
+              "end": 835.384,
+              "text": "Léa ne l'a pas insulté, mais Thomas refuse que l'application décide toute seule du niveau de proximité.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p019",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0176",
+              "start": 835.769,
+              "end": 837.869,
+              "text": "Léa commence alors à classer Thomas :",
+              "sep": " "
+            },
+            {
+              "id": "0177",
+              "start": 838.949,
+              "end": 843.049,
+              "text": "\"Vous êtes drôle, ou difficile, je ne sais pas encore.\"",
+              "sep": " "
+            },
+            {
+              "id": "0178",
+              "start": 844.989,
+              "end": 846.869,
+              "text": "Cette phrase montre son hésitation.",
+              "sep": " "
+            },
+            {
+              "id": "0179",
+              "start": 848.429,
+              "end": 851.329,
+              "text": "Thomas est peut-être amusant, peut-être compliqué.",
+              "sep": " "
+            },
+            {
+              "id": "0180",
+              "start": 852.689,
+              "end": 859.609,
+              "text": "Puis elle mentionne Clara à la boulangerie, Sami chez son frère, et Thomas qui devrait être ici.",
+              "sep": " "
+            },
+            {
+              "id": "0181",
+              "start": 861.129,
+              "end": 864.949,
+              "text": "Quand Clara est à la boulangerie, on la place dans un lieu public.",
+              "sep": " "
+            },
+            {
+              "id": "0182",
+              "start": 865.929,
+              "end": 870.609,
+              "text": "Quand Sami est chez son frère, on le place dans le lieu d'une personne.",
+              "sep": " "
+            },
+            {
+              "id": "0183",
+              "start": 872.149,
+              "end": 876.009,
+              "text": "Ces petites structures placent chaque passager sur la carte du départ.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p020",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0184",
+              "start": 877.389,
+              "end": 883.709,
+              "text": "Thomas répond : \"Je suis ici, mais pas forcément le Thomas que vous attendez.\"",
+              "sep": " "
+            },
+            {
+              "id": "0185",
+              "start": 885.049,
+              "end": 886.43,
+              "text": "C'est le tournant de la scène.",
+              "sep": " "
+            },
+            {
+              "id": "0186",
+              "start": 887.709,
+              "end": 893.849,
+              "text": "Il ne ment pas : il est bien Thomas, il est bien là, et il est bien de Nancy.",
+              "sep": " "
+            },
+            {
+              "id": "0187",
+              "start": 894.829,
+              "end": 897.789,
+              "text": "Mais il n'est pas forcément le bon Thomas.",
+              "sep": " "
+            },
+            {
+              "id": "0188",
+              "start": 899.229,
+              "end": 904.849,
+              "text": "Dans une application, un prénom peut aider, mais il ne suffit pas toujours.",
+              "sep": " "
+            },
+            {
+              "id": "0189",
+              "start": 905.889,
+              "end": 907.789,
+              "text": "Il faut aussi vérifier les détails.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p021",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0190",
+              "start": 908.161,
+              "end": 912.201,
+              "text": "Léa observe alors sa sacoche noire et son air d'inspecteur.",
+              "sep": " "
+            },
+            {
+              "id": "0191",
+              "start": 913.261,
+              "end": 918.641,
+              "text": "Un inspecteur est une personne qui vérifie, observe ou contrôle.",
+              "sep": " "
+            },
+            {
+              "id": "0192",
+              "start": 919.981,
+              "end": 926.801,
+              "text": "Thomas confirme avec une phrase sèche : \"Administrativement, je suis Thomas du service qualité.\"",
+              "sep": " "
+            },
+            {
+              "id": "0193",
+              "start": 928.681,
+              "end": 932.001,
+              "text": "Le service qualité vérifie qu'un service fonctionne bien :",
+              "sep": " "
+            },
+            {
+              "id": "0194",
+              "start": 932.861,
+              "end": 938.521,
+              "text": "accueil, ponctualité, sécurité, politesse.",
+              "sep": " "
+            },
+            {
+              "id": "0195",
+              "start": 940.321,
+              "end": 942.681,
+              "text": "Dans la scène, ce mot transforme Thomas.",
+              "sep": " "
+            },
+            {
+              "id": "0196",
+              "start": 944.001,
+              "end": 948.281,
+              "text": "Il n'est plus un simple passager cérémonieux ; il est là pour observer.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p022",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0197",
+              "start": 949.801,
+              "end": 954.941,
+              "text": "Léa pose donc la question directe : \"Vous n'êtes donc pas mon passager ?\"",
+              "sep": " "
+            },
+            {
+              "id": "0198",
+              "start": 957.001,
+              "end": 959.402,
+              "text": "Cette courte phrase corrige l'idée de départ.",
+              "sep": " "
+            },
+            {
+              "id": "0199",
+              "start": 960.021,
+              "end": 964.221,
+              "text": "Il s'appelle Thomas, mais il n'est pas le passager réservé.",
+              "sep": " "
+            },
+            {
+              "id": "0200",
+              "start": 965.581,
+              "end": 966.401,
+              "text": "Elle change tout.",
+              "sep": " "
+            },
+            {
+              "id": "0201",
+              "start": 967.841,
+              "end": 970.802,
+              "text": "Léa comprend que le problème n'est pas seulement tu ou vous.",
+              "sep": " "
+            },
+            {
+              "id": "0202",
+              "start": 971.501,
+              "end": 973.501,
+              "text": "Le vrai passager est ailleurs.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p023",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0203",
+              "start": 973.859,
+              "end": 975.339,
+              "text": "Thomas explique sa mission :",
+              "sep": " "
+            },
+            {
+              "id": "0204",
+              "start": 976.659,
+              "end": 982.86,
+              "text": "il est ici pour observer la politesse des conducteurs et le passage entre tu et vous.",
+              "sep": " "
+            },
+            {
+              "id": "0205",
+              "start": 983.619,
+              "end": 987.459,
+              "text": "La politesse, ce n'est pas seulement choisir un pronom.",
+              "sep": " "
+            },
+            {
+              "id": "0206",
+              "start": 988.519,
+              "end": 992.299,
+              "text": "C'est aussi dire bonjour, vérifier sans humilier,",
+              "sep": " "
+            },
+            {
+              "id": "0207",
+              "start": 993.499,
+              "end": 996.379,
+              "text": "écouter une préférence, et rester clair.",
+              "sep": " "
+            },
+            {
+              "id": "0208",
+              "start": 997.799,
+              "end": 1002.059,
+              "text": "Léa a commencé par vous, elle est revenue à vous,",
+              "sep": " "
+            },
+            {
+              "id": "0209",
+              "start": 1002.759,
+              "end": 1005.259,
+              "text": "et elle a posé les questions nécessaires.",
+              "sep": " "
+            },
+            {
+              "id": "0210",
+              "start": 1006.419,
+              "end": 1010.939,
+              "text": "Elle n'a pas tout raté ; elle est seulement tombée sur un contrôle étrange.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p024",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0211",
+              "start": 1012.359,
+              "end": 1018.659,
+              "text": "Léa résume avec humour : le vrai passager est absent, le chien est ailleurs,",
+              "sep": " "
+            },
+            {
+              "id": "0212",
+              "start": 1018.659,
+              "end": 1024.619,
+              "text": "et elle est \"en examen\" avant même de sortir du parking.",
+              "sep": " "
+            },
+            {
+              "id": "0213",
+              "start": 1026.339,
+              "end": 1030.319,
+              "text": "Être en examen veut dire ici être observé, évalué.",
+              "sep": " "
+            },
+            {
+              "id": "0214",
+              "start": 1031.839,
+              "end": 1038.119,
+              "text": "La formule sonne très sérieuse, presque administrative, ce qui rend la phrase drôle.",
+              "sep": " "
+            },
+            {
+              "id": "0215",
+              "start": 1039.619,
+              "end": 1043.319,
+              "text": "Un simple départ devient une petite épreuve officielle.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p025",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0216",
+              "start": 1043.722,
+              "end": 1046.882,
+              "text": "La dernière phrase de Léa rassemble tout le dialogue :",
+              "sep": " "
+            },
+            {
+              "id": "0217",
+              "start": 1047.282,
+              "end": 1051.482,
+              "text": "\"Monsieur le contrôleur, vous êtes devant la bonne voiture.",
+              "sep": " "
+            },
+            {
+              "id": "0218",
+              "start": 1052.462,
+              "end": 1055.022,
+              "text": "Mais pour monter, tu es en retard.\"",
+              "sep": " "
+            },
+            {
+              "id": "0219",
+              "start": 1056.942,
+              "end": 1061.122,
+              "text": "Un contrôleur est une personne qui vérifie une règle ou une situation.",
+              "sep": " "
+            },
+            {
+              "id": "0220",
+              "start": 1062.622,
+              "end": 1067.522,
+              "text": "Léa lui donne d'abord son titre, avec vous : elle respecte son rôle.",
+              "sep": " "
+            },
+            {
+              "id": "0221",
+              "start": 1068.822,
+              "end": 1071.882,
+              "text": "Puis elle passe à tu pour l'homme qui retarde le départ.",
+              "sep": " "
+            },
+            {
+              "id": "0222",
+              "start": 1073.722,
+              "end": 1076.362,
+              "text": "Ce changement n'est plus une erreur de l'application.",
+              "sep": " "
+            },
+            {
+              "id": "0223",
+              "start": 1078.022,
+              "end": 1079.382,
+              "text": "C'est une décision de Léa.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p026",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0224",
+              "start": 1080.842,
+              "end": 1082.602,
+              "text": "Voilà pourquoi la fin marche bien.",
+              "sep": " "
+            },
+            {
+              "id": "0225",
+              "start": 1084.122,
+              "end": 1089.262,
+              "text": "Léa a compris la règle sociale, puis elle l'utilise avec précision.",
+              "sep": " "
+            },
+            {
+              "id": "0226",
+              "start": 1090.502,
+              "end": 1092.802,
+              "text": "Avec vous, elle parle au contrôleur.",
+              "sep": " "
+            },
+            {
+              "id": "0227",
+              "start": 1093.942,
+              "end": 1097.642,
+              "text": "Avec tu, elle parle au presque-passager qui bloque le trajet.",
+              "sep": " "
+            },
+            {
+              "id": "0228",
+              "start": 1098.642,
+              "end": 1103.142,
+              "text": "Le verbe être reste très simple : vous êtes, tu es.",
+              "sep": " "
+            },
+            {
+              "id": "0229",
+              "start": 1103.142,
+              "end": 1105.962,
+              "text": "Mais la relation change autour de lui.",
+              "sep": " "
+            },
+            {
+              "id": "0230",
+              "start": 1107.262,
+              "end": 1111.822,
+              "text": "Dans cette scène, être sert à vérifier l'identité,",
+              "sep": " "
+            },
+            {
+              "id": "0231",
+              "start": 1113.122,
+              "end": 1118.082,
+              "text": "donner un rôle, indiquer une origine, situer les personnes,",
+              "sep": " "
+            },
+            {
+              "id": "0232",
+              "start": 1118.082,
+              "end": 1121.422,
+              "text": "et régler une tension polie sur un parking.",
+              "sep": " "
+            },
+            {
+              "id": "0233",
+              "start": 1122.362,
+              "end": 1128.142,
+              "text": "Maintenant, écoutons le dialogue, cette fois à vitesse naturelle.",
+              "sep": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04-dialogue-naturel",
+      "label": "Dialogue - vitesse naturelle",
+      "isDialogue": true,
+      "paragraphs": [
+        {
+          "id": "04-dialogue-naturel-p001",
+          "speaker": "Léa",
+          "cues": [
+            {
+              "id": "0234",
+              "start": 1135.192,
+              "end": 1137.812,
+              "text": "Bonjour, vous êtes Thomas, le passager pour Dijon ?",
+              "sep": " "
+            },
+            {
+              "id": "0235",
+              "start": 1138.752,
+              "end": 1140.292,
+              "text": "Je suis Léa, la conductrice.",
+              "sep": " "
+            },
+            {
+              "id": "0236",
+              "start": 1141.232,
+              "end": 1143.172,
+              "text": "La voiture bleue est juste derrière vous.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p002",
+          "speaker": "Thomas",
+          "cues": [
+            {
+              "id": "0237",
+              "start": 1143.812,
+              "end": 1145.232,
+              "text": "Oui, je suis Thomas.",
+              "sep": " "
+            },
+            {
+              "id": "0238",
+              "start": 1145.692,
+              "end": 1146.932,
+              "text": "Et vous êtes bien Léa ?",
+              "sep": " "
+            },
+            {
+              "id": "0239",
+              "start": 1148.032,
+              "end": 1153.732,
+              "text": "L'application dit : \"Ici, on se tutoie\", mais elle est très enthousiaste pour une application.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p003",
+          "speaker": "Léa",
+          "cues": [
+            {
+              "id": "0240",
+              "start": 1154.472,
+              "end": 1154.852,
+              "text": "C'est vrai.",
+              "sep": " "
+            },
+            {
+              "id": "0241",
+              "start": 1155.912,
+              "end": 1156.552,
+              "text": "Alors tu es prêt ?",
+              "sep": " "
+            },
+            {
+              "id": "0242",
+              "start": 1157.272,
+              "end": 1161.173,
+              "text": "Nous sommes déjà un peu en retard, le tableau de départ est plein de noms,",
+              "sep": " "
+            },
+            {
+              "id": "0243",
+              "start": 1161.332,
+              "end": 1164.172,
+              "text": "et l'aire d'autoroute est moins charmante que sur les photos.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p004",
+          "speaker": "Thomas",
+          "cues": [
+            {
+              "id": "0244",
+              "start": 1164.712,
+              "end": 1167.892,
+              "text": "Je suis prêt, mais je préfère commencer par vous.",
+              "sep": " "
+            },
+            {
+              "id": "0245",
+              "start": 1168.932,
+              "end": 1174.632,
+              "text": "Nous ne sommes pas chez des amis, nous sommes sur un parking avec trois poubelles et un sandwich triste.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p005",
+          "speaker": "Léa",
+          "cues": [
+            {
+              "id": "0246",
+              "start": 1175.272,
+              "end": 1176.352,
+              "text": "D'accord, vous êtes prêt.",
+              "sep": " "
+            },
+            {
+              "id": "0247",
+              "start": 1177.912,
+              "end": 1181.092,
+              "text": "Vous êtes de Nancy, avec un sac rouge et un chien calme ?",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p006",
+          "speaker": "Thomas",
+          "cues": [
+            {
+              "id": "0248",
+              "start": 1181.732,
+              "end": 1182.912,
+              "text": "Je suis de Nancy, oui.",
+              "sep": " "
+            },
+            {
+              "id": "0249",
+              "start": 1183.572,
+              "end": 1188.352,
+              "text": "Mais mon sac est noir, je suis seul, et je suis très sensible aux pronoms.",
+              "sep": " "
+            },
+            {
+              "id": "0250",
+              "start": 1189.432,
+              "end": 1193.152,
+              "text": "Quand une inconnue me dit \"tu\", mon manteau se ferme tout seul.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p007",
+          "speaker": "Léa",
+          "cues": [
+            {
+              "id": "0251",
+              "start": 1193.632,
+              "end": 1196.412,
+              "text": "Dans le covoiturage, on est souvent plus simple.",
+              "sep": " "
+            },
+            {
+              "id": "0252",
+              "start": 1196.932,
+              "end": 1199.872,
+              "text": "Si je dis \"tu es devant la voiture bleue\", tout le monde comprend.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p008",
+          "speaker": "Thomas",
+          "cues": [
+            {
+              "id": "0253",
+              "start": 1200.452,
+              "end": 1204.672,
+              "text": "Tout le monde comprend, mais tout le monde n'est pas intime avec la voiture bleue.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p009",
+          "speaker": "Léa",
+          "cues": [
+            {
+              "id": "0254",
+              "start": 1205.272,
+              "end": 1208.132,
+              "text": "Vous êtes drôle, ou difficile, je ne sais pas encore.",
+              "sep": " "
+            },
+            {
+              "id": "0255",
+              "start": 1209.452,
+              "end": 1214.492,
+              "text": "Clara est à la boulangerie, Sami est chez son frère, et Thomas devrait être ici.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p010",
+          "speaker": "Thomas",
+          "cues": [
+            {
+              "id": "0256",
+              "start": 1215.032,
+              "end": 1218.392,
+              "text": "Je suis ici, mais pas forcément le Thomas que vous attendez.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p011",
+          "speaker": "Léa",
+          "cues": [
+            {
+              "id": "0257",
+              "start": 1219.032,
+              "end": 1219.552,
+              "text": "Ah.",
+              "sep": " "
+            },
+            {
+              "id": "0258",
+              "start": 1220.072,
+              "end": 1224.152,
+              "text": "L'autre Thomas a un chien, un sac rouge, et deux messages avec des sourires.",
+              "sep": " "
+            },
+            {
+              "id": "0259",
+              "start": 1225.312,
+              "end": 1227.852,
+              "text": "Vous avez une sacoche noire et un air d'inspecteur.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p012",
+          "speaker": "Thomas",
+          "cues": [
+            {
+              "id": "0260",
+              "start": 1228.552,
+              "end": 1229.172,
+              "text": "Ce n'est pas faux.",
+              "sep": " "
+            },
+            {
+              "id": "0261",
+              "start": 1230.392,
+              "end": 1232.592,
+              "text": "Administrativement, je suis Thomas du service qualité.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p013",
+          "speaker": "Léa",
+          "cues": [
+            {
+              "id": "0262",
+              "start": 1233.312,
+              "end": 1234.272,
+              "text": "Du service qualité ?",
+              "sep": " "
+            },
+            {
+              "id": "0263",
+              "start": 1235.252,
+              "end": 1236.572,
+              "text": "Vous n'êtes donc pas mon passager ?",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p014",
+          "speaker": "Thomas",
+          "cues": [
+            {
+              "id": "0264",
+              "start": 1238.232,
+              "end": 1238.572,
+              "text": "Non.",
+              "sep": " "
+            },
+            {
+              "id": "0265",
+              "start": 1239.332,
+              "end": 1244.433,
+              "text": "Aujourd'hui, je suis ici pour observer la politesse des conducteurs et le passage entre tu et vous.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p015",
+          "speaker": "Léa",
+          "cues": [
+            {
+              "id": "0266",
+              "start": 1244.632,
+              "end": 1248.172,
+              "text": "Donc le vrai passager est absent, le chien est ailleurs,",
+              "sep": " "
+            },
+            {
+              "id": "0267",
+              "start": 1248.892,
+              "end": 1252.392,
+              "text": "et moi, je suis en examen avant même de sortir du parking.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p016",
+          "speaker": "Thomas",
+          "cues": [
+            {
+              "id": "0268",
+              "start": 1253.272,
+              "end": 1253.792,
+              "text": "Pas exactement.",
+              "sep": " "
+            },
+            {
+              "id": "0269",
+              "start": 1254.872,
+              "end": 1256.392,
+              "text": "Vous êtes déjà très polie.",
+              "sep": " "
+            },
+            {
+              "id": "0270",
+              "start": 1256.952,
+              "end": 1260.352,
+              "text": "Mais vous êtes aussi en train d'emmener le contrôleur à Dijon sans le vrai Thomas.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p017",
+          "speaker": "Léa",
+          "cues": [
+            {
+              "id": "0271",
+              "start": 1261.132,
+              "end": 1261.412,
+              "text": "Très bien.",
+              "sep": " "
+            },
+            {
+              "id": "0272",
+              "start": 1262.192,
+              "end": 1264.752,
+              "text": "Monsieur le contrôleur, vous êtes devant la bonne voiture.",
+              "sep": " "
+            },
+            {
+              "id": "0273",
+              "start": 1265.432,
+              "end": 1267.172,
+              "text": "Mais pour monter, tu es en retard.",
+              "sep": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "05-conclusion",
+      "label": "Conclusion",
+      "isDialogue": false,
+      "paragraphs": [
+        {
+          "id": "05-conclusion-p001",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0274",
+              "start": 1274.155,
+              "end": 1276.875,
+              "text": "Voilà pour \"Le covoiturage poli\".",
+              "sep": " "
+            },
+            {
+              "id": "0275",
+              "start": 1278.835,
+              "end": 1284.875,
+              "text": "Aujourd'hui, dans la voiture de Léa, quelques phrases avec être ont servi à vérifier une identité,",
+              "sep": " "
+            },
+            {
+              "id": "0276",
+              "start": 1286.015,
+              "end": 1290.255,
+              "text": "donner une origine, situer une personne et exprimer un état :",
+              "sep": " "
+            },
+            {
+              "id": "0277",
+              "start": 1290.795,
+              "end": 1294.795,
+              "text": "je suis Léa, vous êtes Thomas, je suis de Nancy,",
+              "sep": " "
+            },
+            {
+              "id": "0278",
+              "start": 1295.615,
+              "end": 1296.756,
+              "text": "nous sommes en retard.",
+              "sep": " "
+            },
+            {
+              "id": "0279",
+              "start": 1298.035,
+              "end": 1302.435,
+              "text": "Nous avons aussi entendu comment tu et vous peuvent changer la relation entre deux inconnus.",
+              "sep": " "
+            },
+            {
+              "id": "0280",
+              "start": 1303.555,
+              "end": 1308.595,
+              "text": "Répétez surtout vous êtes avec la liaison, puis tu es avec un rythme clair.",
+              "sep": " "
+            },
+            {
+              "id": "0281",
+              "start": 1310.355,
+              "end": 1315.555,
+              "text": "À bientôt dans le Podcast de français langue étrangère, et si vous êtes en retard,",
+              "sep": " "
+            },
+            {
+              "id": "0282",
+              "start": 1316.595,
+              "end": 1318.535,
+              "text": "soyez au moins polis avec le contrôleur.",
+              "sep": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

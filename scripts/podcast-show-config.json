@@ -1,7 +1,7 @@
 {
   "francais": {
     "repo": "skepvox-podcast-francais",
-    "episodes": [1, 2],
+    "episodes": [1, 2, 3],
     "show_title": "Vox Français",
     "language_tag": "fr-FR",
     "website_subdir": "francais",
