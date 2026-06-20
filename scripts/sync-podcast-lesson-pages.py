@@ -7,6 +7,8 @@ import re
 from dataclasses import dataclass
 from pathlib import Path
 
+from _podcast_player_wiring import COMPONENT_TAG, script_setup_block
+
 
 ROOT = Path(__file__).resolve().parent.parent
 PROJECTS = ROOT.parent
@@ -282,7 +284,7 @@ def parse_existing_meta_content(frontmatter: str, attr: str, value: str) -> str:
     return strip_quotes(match.group(1))
 
 
-def build_new_frontmatter(show: ShowConfig, page_title: str, description: str, keywords: str, url: str, teaches: str, language: str) -> str:
+def build_new_frontmatter(show: ShowConfig, page_title: str, description: str, keywords: str, url: str, teaches: str, language: str, is_buffer: bool = False) -> str:
     json_ld = json.dumps(
         {
             "@context": "https://schema.org",
@@ -374,10 +376,19 @@ def build_new_frontmatter(show: ShowConfig, page_title: str, description: str, k
         "    - |",
         indent(json_ld, 6),
     ]
+    if is_buffer:
+        outline_index = lines.index("outline: 2")
+        lines[outline_index:outline_index] = ["search: false", "buffer: true"]
+        head_index = lines.index("head:")
+        lines[head_index + 1 : head_index + 1] = [
+            "  - - meta",
+            "    - name: robots",
+            f"      content: {yaml_quote('noindex, nofollow')}",
+        ]
     return "\n".join(lines)
 
 
-def build_frontmatter(show: ShowConfig, source_frontmatter: str, page_title: str, url: str, existing_frontmatter: str | None) -> str:
+def build_frontmatter(show: ShowConfig, source_frontmatter: str, page_title: str, url: str, existing_frontmatter: str | None, is_buffer: bool = False) -> str:
     episode_number = int(parse_source_scalar(source_frontmatter, "episode-number"))
     episode_title = parse_source_scalar(source_frontmatter, "episode-title")
     main_grammar_point = parse_source_scalar(source_frontmatter, "main-grammar-point")
@@ -400,12 +411,11 @@ def build_frontmatter(show: ShowConfig, source_frontmatter: str, page_title: str
             episode_title=episode_title,
             main_grammar_point=main_grammar_point,
         )
-    return build_new_frontmatter(show, page_title, description, keywords, url, main_grammar_point, language)
+    return build_new_frontmatter(show, page_title, description, keywords, url, main_grammar_point, language, is_buffer)
 
 
-def render_body(show: ShowConfig, source_frontmatter: str, body: str, page_title: str, url: str) -> str:
+def render_body(show: ShowConfig, source_frontmatter: str, body: str, page_title: str, url: str, website_slug: str) -> str:
     headings = parse_headings(body)
-    script_sections = children_of(show.script_heading, 2, headings)
     guide_sections = children_of(show.guide_heading, 2, headings)
 
     episode_number = int(parse_source_scalar(source_frontmatter, "episode-number"))
@@ -413,6 +423,8 @@ def render_body(show: ShowConfig, source_frontmatter: str, body: str, page_title
     main_grammar_point = parse_source_scalar(source_frontmatter, "main-grammar-point")
 
     parts = [
+        script_setup_block(f"{website_slug}.cues.json"),
+        "",
         f"# {page_title}",
         "",
         show.intro_template.format(episode_number=episode_number),
@@ -425,14 +437,13 @@ def render_body(show: ShowConfig, source_frontmatter: str, body: str, page_title
         "",
         f"## {show.transcript_label}",
         "",
-        show.transcript_intro,
+        COMPONENT_TAG,
+        "",
+        f"## {show.guide_label}",
+        "",
+        show.guide_intro,
         "",
     ]
-
-    for section in script_sections:
-        parts.extend([f"## {section['title']}", "", strip_internal_comments(str(section["content"])), ""])
-
-    parts.extend([f"## {show.guide_label}", "", show.guide_intro, ""])
 
     for section in guide_sections:
         parts.extend([f"## {section['title']}", "", strip_internal_comments(str(section["content"])), ""])
@@ -446,9 +457,42 @@ def render_document(frontmatter: str, body: str) -> str:
     return f"---\n{frontmatter.strip()}\n---\n\n{body}"
 
 
+# Upstream distribution statuses that mark an episode as an unlisted buffer
+# (noindex, excluded from indexes/sitemap, reachable only by direct URL).
+BUFFER_STATUSES = {"buffer", "draft"}
+
+
+def configured_numbers(show: ShowConfig) -> set[int]:
+    """Registered website episode numbers for a show (the page allowlist)."""
+    show_config = SHARED_SHOW_CONFIG.get(show.key)
+    numbers = show_config.get("episodes") if isinstance(show_config, dict) else None
+    if not isinstance(numbers, list):
+        raise KeyError(f"Missing 'episodes' registry for show: {show.key}")
+    return {int(number) for number in numbers}
+
+
+def distribution_status(show: ShowConfig, episode_number: int) -> str:
+    """Upstream distribution status for an episode, or '' when unavailable.
+
+    The distribution file is the single source of truth for whether a page is
+    indexable or an unlisted buffer; page existence is decided by the registry.
+    """
+    episode_id = f"{show.key}-{episode_number:03d}"
+    dist_dir = PROJECTS / show.source_repo / "distribution" / "episodes"
+    matches = sorted(dist_dir.glob(f"{episode_id}-*.md"))
+    if not matches:
+        return ""
+    try:
+        frontmatter, _ = split_frontmatter(matches[0].read_text())
+    except ValueError:
+        return ""
+    return parse_existing_top_level_scalar(frontmatter, "status")
+
+
 def sync_show(show: ShowConfig) -> list[Path]:
     source_dir = PROJECTS / show.source_repo / "episodes"
     target_dir = ROOT / show.target_subdir
+    registry = configured_numbers(show)
     changed: list[Path] = []
 
     for source_path in sorted(source_dir.glob("*.md")):
@@ -457,10 +501,23 @@ def sync_show(show: ShowConfig) -> list[Path]:
 
         source_frontmatter, source_body = split_frontmatter(source_path.read_text())
         episode_number = int(parse_source_scalar(source_frontmatter, "episode-number"))
+        if episode_number not in registry:
+            continue
+
         episode_title = parse_source_scalar(source_frontmatter, "episode-title")
         slug = parse_source_scalar(source_frontmatter, "slug")
         website_slug = f"{episode_number:03d}-{slug}"
         target_path = target_dir / f"{website_slug}.md"
+
+        cues_path = target_dir / f"{website_slug}.cues.json"
+        if not cues_path.exists():
+            raise FileNotFoundError(
+                f"{show.key}-{episode_number:03d}: missing cue JSON "
+                f"{cues_path.relative_to(ROOT)}; run build-episode-cues.py before "
+                f"syncing player pages"
+            )
+
+        is_buffer = distribution_status(show, episode_number).strip().lower() in BUFFER_STATUSES
 
         existing_frontmatter: str | None = None
         if target_path.exists():
@@ -468,8 +525,8 @@ def sync_show(show: ShowConfig) -> list[Path]:
 
         page_title = f"{show.page_title_prefix} {episode_number:03d}{show.title_separator}{episode_title}"
         url = canonical_url(show, website_slug)
-        frontmatter = build_frontmatter(show, source_frontmatter, page_title, url, existing_frontmatter)
-        body = render_body(show, source_frontmatter, source_body, page_title, url)
+        frontmatter = build_frontmatter(show, source_frontmatter, page_title, url, existing_frontmatter, is_buffer)
+        body = render_body(show, source_frontmatter, source_body, page_title, url, website_slug)
         rendered = render_document(frontmatter, body)
 
         if not target_path.exists() or target_path.read_text() != rendered:
