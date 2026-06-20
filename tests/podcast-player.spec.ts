@@ -248,3 +248,27 @@ test.describe('episode card grid', () => {
     expect(grid).not.toContain(BUFFER_SLUG)
   })
 })
+
+// The pre-publication notice renders (theme content-top slot) only on buffer
+// pages (frontmatter buffer: true). Public pages must stay clean. File-based;
+// requires a prior build. (noindex/search:false/sitemap/reachability for 003 are
+// covered by the 'buffer episode (francais-003)' block above.)
+test.describe('buffer notice', () => {
+  const dist = (slug: string) =>
+    path.resolve(`.vitepress/dist/podcast/francais/${slug}.html`)
+  const FR_LABEL = 'Pré-publication · page non listée'
+
+  test('renders on the francais-003 buffer page', () => {
+    const html = fs.readFileSync(dist('003-le-covoiturage-poli'), 'utf-8')
+    expect(html).toContain('class="buffer-notice"')
+    expect(html).toContain(FR_LABEL)
+  })
+
+  test('does not render on public episode pages (001, 002)', () => {
+    for (const slug of ['001-le-badge', '002-la-valise-verte']) {
+      const html = fs.readFileSync(dist(slug), 'utf-8')
+      expect(html).not.toContain('class="buffer-notice"')
+      expect(html).not.toContain(FR_LABEL)
+    }
+  })
+})
