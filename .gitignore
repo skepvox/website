@@ -118,6 +118,12 @@ src/tutorial/data.json
 draft.md
 docs/local-podcast-business-model-next-steps.md
 
+# Playwright
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+
 # folders created by IDE
 .idea
 

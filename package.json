@@ -8,7 +8,9 @@
     "build": "vitepress build && python3 scripts/render-podcast-player-llms.py",
     "preview": "vitepress preview",
     "preinstall": "npx only-allow pnpm",
-    "type": "vue-tsc --noEmit"
+    "type": "vue-tsc --noEmit",
+    "test": "playwright test",
+    "podcast:build": "python3 scripts/build-episode-cues.py --all && python3 scripts/sync-podcast-lesson-pages.py && pnpm run build"
   },
   "dependencies": {
     "@vue/theme": "^2.3.0",
@@ -17,6 +19,7 @@
     "vue": "^3.5.12"
   },
   "devDependencies": {
+    "@playwright/test": "1.57.0",
     "@types/body-scroll-lock": "^3.1.2",
     "@types/geojson": "^7946.0.16",
     "@types/markdown-it": "^14.1.2",
