@@ -91,6 +91,11 @@ head:
       }
 ---
 
+<script setup>
+import EpisodeGrid from '@theme/components/EpisodeGrid.vue'
+import episodes from './episodes.json'
+</script>
+
 # Vox Français
 
 Vox Français est une série skepvox de Thiago Oliveira pour apprendre le français. Chaque épisode propose une petite scène en français, un dialogue à deux vitesses, une explication guidée et un guide de leçon.
@@ -107,5 +112,4 @@ Les pages de cette section réunissent les transcriptions, le vocabulaire et les
 
 ## Leçons
 
-- [001 - Le badge](/podcast/francais/001-le-badge) — le verbe « être » au présent, l'identité, les rôles, les lieux et l'orientation dans une interaction quotidienne.
-- [002 - La valise verte](/podcast/francais/002-la-valise-verte) — décrire un objet, situer un service, préciser un état et clarifier une situation concrète.
+<EpisodeGrid :episodes="episodes" />
