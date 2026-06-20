@@ -32,7 +32,7 @@ Page de l'émission : https://www.skepvox.com/podcast/francais/]]></itunes:summa
       <title>Vox Français</title>
       <link>https://www.skepvox.com/podcast/francais/</link>
     </image>
-    <lastBuildDate>Sun, 14 Jun 2026 15:12:33 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 21:04:29 -0300</lastBuildDate>
     <pubDate>Sun, 07 Jun 2026 09:00:00 -0300</pubDate>
 
     <item>
@@ -92,8 +92,9 @@ Vous trouverez sur la page de l'épisode le guide d'apprentissage, la note cultu
 <p>Le guide de leçon explique aussi le vocabulaire important de l'épisode : valise, perdu, voie, annonce, bureau des objets trouvés, précis, étiquette, lourd, cadeau, formulaire, dessus, sous, stable, en travaux, et plusieurs autres mots utiles.</p>
 
 <p>Vous trouverez sur la page de l'épisode le guide d'apprentissage, la note culturelle, le dialogue lent, le dialogue à vitesse naturelle et la transcription complète.</p>]]></content:encoded>
-      <enclosure url="https://media.skepvox.com/podcast/francais/audio/francais-002-la-valise-verte-v6.mp3" length="33382653" type="audio/mpeg" />
-      <itunes:duration>00:23:11</itunes:duration>
+      <enclosure url="https://media.skepvox.com/podcast/francais/audio/francais-002-la-valise-verte-v11.mp3" length="33366352" type="audio/mpeg" />
+      <podcast:transcript url="https://media.skepvox.com/podcast/francais/transcripts/francais-002-la-valise-verte-v11.vtt" type="text/vtt" language="fr" rel="captions" />
+      <itunes:duration>00:23:10</itunes:duration>
       <itunes:episode>2</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
