@@ -69,6 +69,13 @@ function formatDuration(seconds: number | null): string {
 
 .episode-card {
   margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.episode-card::before {
+  content: none !important;
+  display: none !important;
 }
 
 .episode-card__link {
