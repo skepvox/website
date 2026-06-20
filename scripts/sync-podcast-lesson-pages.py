@@ -492,8 +492,10 @@ def distribution_status(show: ShowConfig, episode_number: int) -> str:
 def sync_show(show: ShowConfig) -> list[Path]:
     source_dir = PROJECTS / show.source_repo / "episodes"
     target_dir = ROOT / show.target_subdir
+    site_rel = show.target_subdir.removeprefix("src/")
     registry = configured_numbers(show)
     changed: list[Path] = []
+    manifest: list[dict] = []
 
     for source_path in sorted(source_dir.glob("*.md")):
         if source_path.name == "README.md":
@@ -505,6 +507,7 @@ def sync_show(show: ShowConfig) -> list[Path]:
             continue
 
         episode_title = parse_source_scalar(source_frontmatter, "episode-title")
+        main_grammar_point = parse_source_scalar(source_frontmatter, "main-grammar-point")
         slug = parse_source_scalar(source_frontmatter, "slug")
         website_slug = f"{episode_number:03d}-{slug}"
         target_path = target_dir / f"{website_slug}.md"
@@ -532,6 +535,27 @@ def sync_show(show: ShowConfig) -> list[Path]:
         if not target_path.exists() or target_path.read_text() != rendered:
             target_path.write_text(rendered)
             changed.append(target_path)
+
+        # Buffer/draft episodes stay off the public catalog manifest (and the grid).
+        if not is_buffer:
+            episode = json.loads(cues_path.read_text(encoding="utf-8")).get("episode", {})
+            manifest.append(
+                {
+                    "number": episode_number,
+                    "title": episode_title,
+                    "href": f"/{site_rel}/{website_slug}",
+                    "durationSeconds": episode.get("durationSeconds"),
+                    "description": main_grammar_point,
+                    "artworkUrl": episode.get("artworkUrl"),
+                }
+            )
+
+    manifest.sort(key=lambda entry: entry["number"])
+    manifest_path = target_dir / "episodes.json"
+    manifest_text = json.dumps(manifest, ensure_ascii=False, indent=2) + "\n"
+    if not manifest_path.exists() or manifest_path.read_text() != manifest_text:
+        manifest_path.write_text(manifest_text)
+        changed.append(manifest_path)
 
     return changed
 

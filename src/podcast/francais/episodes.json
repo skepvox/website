@@ -1,0 +1,18 @@
+[
+  {
+    "number": 1,
+    "title": "Le badge",
+    "href": "/podcast/francais/001-le-badge",
+    "durationSeconds": 1346.72,
+    "description": "Se présenter, préciser un rôle et clarifier qui est qui dans un lieu public, avec des phrases simples autour de être.",
+    "artworkUrl": "https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg"
+  },
+  {
+    "number": 2,
+    "title": "La valise verte",
+    "href": "/podcast/francais/002-la-valise-verte",
+    "durationSeconds": 1390.199,
+    "description": "Décrire un objet, situer un service, préciser un état et clarifier une situation avec des phrases simples autour de être.",
+    "artworkUrl": "https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg"
+  }
+]
