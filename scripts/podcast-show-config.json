@@ -1,6 +1,7 @@
 {
   "francais": {
     "repo": "skepvox-podcast-francais",
+    "episodes": [1, 2],
     "show_title": "Vox Français",
     "language_tag": "fr-FR",
     "website_subdir": "francais",
@@ -14,6 +15,7 @@
   },
   "espanol": {
     "repo": "skepvox-podcast-espanol",
+    "episodes": [1, 2],
     "show_title": "Vox Español",
     "language_tag": "es-ES",
     "website_subdir": "espanol",
@@ -27,6 +29,7 @@
   },
   "english": {
     "repo": "skepvox-podcast-english",
+    "episodes": [1, 2],
     "show_title": "Vox English",
     "language_tag": "en-US",
     "website_subdir": "english",

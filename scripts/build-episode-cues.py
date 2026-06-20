@@ -426,11 +426,29 @@ def build_episode(show: str, number: int) -> Path:
     return out_path
 
 
+def configured_episodes() -> list[tuple[str, int]]:
+    """Every registered website episode (show, number) from the show config."""
+    episodes: list[tuple[str, int]] = []
+    for show, show_config in SHARED_SHOW_CONFIG.items():
+        if not isinstance(show_config, dict):
+            continue
+        numbers = show_config.get("episodes")
+        if not isinstance(numbers, list):
+            continue
+        for number in numbers:
+            episodes.append((show, int(number)))
+    return episodes
+
+
 def parse_args(argv: list[str]) -> list[tuple[str, int]]:
+    if argv == ["--all"]:
+        return configured_episodes()
     if not argv:
         return list(DEFAULT_EPISODES)
     if len(argv) % 2 != 0:
-        raise SystemExit("Usage: build-episode-cues.py [<show> <episode-number> ...]")
+        raise SystemExit(
+            "Usage: build-episode-cues.py [--all | <show> <episode-number> ...]"
+        )
     return [(argv[i], int(argv[i + 1])) for i in range(0, len(argv), 2)]
 
 
