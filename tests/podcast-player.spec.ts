@@ -156,3 +156,51 @@ test.describe('podcast player', () => {
     expect(top).toBeLessThanOrEqual(90)
   })
 })
+
+// Real unlisted buffer episode. Asserts the stable buffer-visibility contract:
+// built + reachable, noindex, our search:false/buffer directives, sitemap
+// exclusion, and no listing/sidebar link. Deliberately avoids VitePress-internal
+// search-index chunks (hashed name + version-dependent format). Fully file-based
+// (no browser, no remote audio); requires a prior build (pnpm podcast:build).
+test.describe('buffer episode (francais-003)', () => {
+  const SLUG = '003-le-covoiturage-poli'
+  const SRC = path.resolve(`src/podcast/francais/${SLUG}.md`)
+  const CUES = path.resolve(`src/podcast/francais/${SLUG}.cues.json`)
+  const HTML = path.resolve(`.vitepress/dist/podcast/francais/${SLUG}.html`)
+  const SITEMAP = path.resolve('.vitepress/dist/sitemap.xml')
+  const V6_MP3 = 'francais-003-le-covoiturage-poli-v6.mp3'
+
+  test('builds a reachable page with the synced transcript and v6 audio', () => {
+    expect(fs.existsSync(HTML)).toBeTruthy()
+    const html = fs.readFileSync(HTML, 'utf-8')
+    expect(html).toContain('class="vox-transcript"')
+    expect((html.match(/class="vox-cue/g) || []).length).toBeGreaterThan(50)
+    expect(html).toContain(V6_MP3)
+    expect(fs.readFileSync(SRC, 'utf-8')).toContain(`import cues from './${SLUG}.cues.json'`)
+  })
+
+  test('cue JSON uses the v6 public audio', () => {
+    const cues = JSON.parse(fs.readFileSync(CUES, 'utf-8'))
+    expect(cues.episode.audioUrl).toContain(V6_MP3)
+  })
+
+  test('is noindex and flagged search:false / buffer', () => {
+    expect(fs.readFileSync(HTML, 'utf-8')).toContain('name="robots" content="noindex, nofollow"')
+    const fm = fs.readFileSync(SRC, 'utf-8').match(/^---\n([\s\S]*?)\n---\n/)?.[1] ?? ''
+    expect(fm.match(/^buffer: true$/gm)?.length).toBe(1)
+    expect(fm.match(/^search: false$/gm)?.length).toBe(1)
+  })
+
+  test('is excluded from the sitemap while 001 and 002 remain', () => {
+    const sitemap = fs.readFileSync(SITEMAP, 'utf-8')
+    expect(sitemap).not.toContain(SLUG)
+    expect(sitemap).toContain('001-le-badge')
+    expect(sitemap).toContain('002-la-valise-verte')
+  })
+
+  test('is not linked from listings or the sidebar', () => {
+    for (const rel of ['src/podcast/francais/index.md', 'src/podcast/index.md', '.vitepress/config.ts']) {
+      expect(fs.readFileSync(path.resolve(rel), 'utf-8')).not.toContain(SLUG)
+    }
+  })
+})
