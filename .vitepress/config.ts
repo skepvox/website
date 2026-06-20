@@ -197,6 +197,15 @@ function normalizeSitePathname(pathname: string): string {
   return pathname
 }
 
+// Routes of buffer pages (frontmatter `buffer: true`), collected during page
+// rendering and excluded from the sitemap. Buffer pages stay reachable by
+// direct URL but are unlisted, noindexed, and out of search.
+const bufferRoutes = new Set<string>()
+
+function routeFromRelativePath(relativePath: string): string {
+  return normalizeSitePathname('/' + relativePath.replace(/\.md$/, '.html'))
+}
+
 function normalizeSiteUrl(input: string): string {
   if (
     !input.startsWith('https://skepvox.com') &&
@@ -271,13 +280,15 @@ const config: UserConfigExport<ThemeConfig> = (() => {
   sitemap: {
     hostname: SITE_ORIGIN,
     transformItems: (items) =>
-      items.map((item) => {
-        const normalized = item.url.startsWith('/') ? item.url : `/${item.url}`
-        return {
-          ...item,
-          url: normalizeSitePathname(normalized)
-        }
-      })
+      items
+        .map((item) => {
+          const normalized = item.url.startsWith('/') ? item.url : `/${item.url}`
+          return {
+            ...item,
+            url: normalizeSitePathname(normalized)
+          }
+        })
+        .filter((item) => !bufferRoutes.has(item.url))
   },
 
   lang: 'pt-BR',
@@ -433,6 +444,10 @@ gtag('config', 'G-1VWHF2D1QJ');`
   transformPageData: (pageData) => {
     const frontmatter = pageData.frontmatter
     if (!frontmatter || typeof frontmatter !== 'object') return
+    // @ts-ignore - frontmatter is untyped; buffer pages are excluded from the sitemap
+    if (frontmatter.buffer === true && pageData.relativePath) {
+      bufferRoutes.add(routeFromRelativePath(pageData.relativePath))
+    }
     // @ts-ignore - frontmatter is untyped and can contain HeadConfig[]
     const head = frontmatter.head
     if (!Array.isArray(head)) return
