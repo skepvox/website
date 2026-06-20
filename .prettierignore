@@ -1,1 +1,18 @@
-*.vue
+# Build output and dependencies
+node_modules
+.vitepress/dist
+.vitepress/cache
+dist
+tmp
+
+# Lockfile
+pnpm-lock.yaml
+
+# Content and generated data are intentionally NOT formatted by the quality
+# gate: the prose/book corpus, podcast episode pages, and generated
+# cue/manifest JSON. The gate scopes Prettier to owned source only.
+src
+
+# Large pre-existing config; excluded from the first gate slice to keep the
+# format diff small. Reformat as a separate, deliberate pass.
+.vitepress/config.ts

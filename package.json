@@ -10,7 +10,11 @@
     "preinstall": "npx only-allow pnpm",
     "type": "vue-tsc --noEmit",
     "test": "playwright test",
-    "podcast:build": "python3 scripts/build-episode-cues.py --all && python3 scripts/sync-podcast-lesson-pages.py && pnpm run build"
+    "podcast:build": "python3 scripts/build-episode-cues.py --all && python3 scripts/sync-podcast-lesson-pages.py && pnpm run build",
+    "format": "prettier --write '.vitepress/**/*.{ts,vue,css}' 'tests/**/*.ts' 'playwright.config.ts'",
+    "format:check": "prettier --check '.vitepress/**/*.{ts,vue,css}' 'tests/**/*.ts' 'playwright.config.ts'",
+    "lint": "oxlint .vitepress tests playwright.config.ts",
+    "verify": "pnpm format:check && pnpm lint && pnpm podcast:build && pnpm test"
   },
   "dependencies": {
     "@vue/theme": "^2.3.0",
@@ -25,8 +29,10 @@
     "@types/markdown-it": "^14.1.2",
     "@types/node": "^22.7.5",
     "markdown-it": "^14.1.0",
+    "oxlint": "^1.70.0",
     "playwright": "^1.57.0",
     "pngjs": "^7.0.0",
+    "prettier": "^3.8.4",
     "typescript": "^5.6.3",
     "vitepress-plugin-group-icons": "^1.5.4",
     "vitepress-plugin-llms": "^0.0.8",
