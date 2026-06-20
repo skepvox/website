@@ -103,12 +103,15 @@ head:
       }
 ---
 
+<script setup>
+import CardGrid from '@theme/components/CardGrid.vue'
+import shows from './shows.json'
+</script>
+
 # Podcasts
 
 Projetos skepvox para aprendizagem de idiomas, com diálogos, transcrições, guias de estudo e áudio.
 
 ## Séries
 
-- [Vox Français](/podcast/francais/) — français langue étrangère, avec des épisodes A2-B1 au début de la série.
-- [Vox Español](/podcast/espanol/) — español como lengua extranjera, con episodios A2-B1 al inicio de la serie.
-- [Vox English](/podcast/english/) — practical English for everyday exchanges, with C1-C2 listening and spoken-register work.
+<CardGrid :items="shows" />
