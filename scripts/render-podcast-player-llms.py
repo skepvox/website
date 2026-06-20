@@ -14,12 +14,13 @@ import json
 import re
 from pathlib import Path
 
+from _podcast_player_wiring import COMPONENT_TAG
+
 
 ROOT = Path(__file__).resolve().parents[1]
 SRC = ROOT / "src"
 DIST = ROOT / ".vitepress" / "dist"
 LLMS_FULL = DIST / "llms-full.txt"
-COMPONENT_TAG = '<PodcastPlayer :episode="cues.episode" :sections="cues.sections" />'
 RENDER_MARKER = "<!-- Rendered for LLM outputs from synced cue JSON. -->"
 CUES_IMPORT_RE = re.compile(r"import\s+cues\s+from\s+['\"]\.\/([^'\"]+\.cues\.json)['\"]")
 
