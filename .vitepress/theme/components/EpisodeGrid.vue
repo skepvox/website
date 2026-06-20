@@ -88,7 +88,9 @@ function formatDuration(seconds: number | null): string {
   background: var(--vt-c-bg-soft, #f6f6f7);
   color: inherit;
   text-decoration: none;
-  transition: border-color 0.2s, background-color 0.2s;
+  transition:
+    border-color 0.2s,
+    background-color 0.2s;
 }
 
 .episode-card__link:hover {

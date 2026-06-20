@@ -1,10 +1,6 @@
 <script setup lang="ts">
 import { computed, ref, onMounted, onUnmounted } from 'vue'
-import {
-  literatureAuthors,
-  philosophyAuthors,
-  type Author
-} from './authors'
+import { literatureAuthors, philosophyAuthors, type Author } from './authors'
 
 const props = defineProps<{
   kind: 'literature' | 'philosophy' | 'all'
@@ -84,7 +80,7 @@ onUnmounted(() => {
   border-radius: 6px;
   transition: background-color 0.2s ease;
   overflow: hidden;
-  padding: 12px;          /* inner margin */
+  padding: 12px; /* inner margin */
   box-sizing: border-box;
 }
 
@@ -93,7 +89,7 @@ onUnmounted(() => {
   aspect-ratio: 1 / 1;
   height: auto;
   object-fit: cover;
-  border-radius: 4px;    /* optional: soften image corners */
+  border-radius: 4px; /* optional: soften image corners */
 }
 
 /* dark mode */
@@ -124,4 +120,3 @@ onUnmounted(() => {
   }
 }
 </style>
-

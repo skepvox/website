@@ -32,8 +32,8 @@ onMounted(() => {
 })
 
 function processItems(items: Array<any>, splitBy: string, shouldShuffle: boolean) {
-  const splitItems = items.filter(item => item[splitBy])
-  const otherItems = items.filter(item => !item[splitBy])
+  const splitItems = items.filter((item) => item[splitBy])
+  const otherItems = items.filter((item) => !item[splitBy])
 
   if (shouldShuffle) {
     shuffleArray(splitItems)
@@ -45,8 +45,8 @@ function processItems(items: Array<any>, splitBy: string, shouldShuffle: boolean
 
 function shuffleArray(array: Array<any>) {
   for (let i = array.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1)); // don't remove semicolon
-    [array[i], array[j]] = [array[j], array[i]]
+    const j = Math.floor(Math.random() * (i + 1)) // don't remove semicolon
+    ;[array[i], array[j]] = [array[j], array[i]]
   }
 }
 </script>

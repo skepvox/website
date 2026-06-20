@@ -26,7 +26,10 @@ export default defineConfig({
   projects: [
     {
       name: 'desktop',
-      use: { ...devices['Desktop Chrome'], viewport: { width: 1280, height: 900 } }
+      use: {
+        ...devices['Desktop Chrome'],
+        viewport: { width: 1280, height: 900 }
+      }
     },
     {
       // Pixel 5 is a Chromium-based mobile device (narrow viewport + touch),

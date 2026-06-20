@@ -199,7 +199,11 @@ test.describe('buffer episode (francais-003)', () => {
   })
 
   test('is not linked from listings or the sidebar', () => {
-    for (const rel of ['src/podcast/francais/index.md', 'src/podcast/index.md', '.vitepress/config.ts']) {
+    for (const rel of [
+      'src/podcast/francais/index.md',
+      'src/podcast/index.md',
+      '.vitepress/config.ts'
+    ]) {
       expect(fs.readFileSync(path.resolve(rel), 'utf-8')).not.toContain(SLUG)
     }
   })
@@ -254,8 +258,7 @@ test.describe('episode card grid', () => {
 // requires a prior build. (noindex/search:false/sitemap/reachability for 003 are
 // covered by the 'buffer episode (francais-003)' block above.)
 test.describe('buffer notice', () => {
-  const dist = (slug: string) =>
-    path.resolve(`.vitepress/dist/podcast/francais/${slug}.html`)
+  const dist = (slug: string) => path.resolve(`.vitepress/dist/podcast/francais/${slug}.html`)
   const FR_LABEL = 'Pré-publication · page non listée'
 
   test('renders on the francais-003 buffer page', () => {

@@ -4,9 +4,7 @@
       <span class="accent">skepvox</span>
       <br />Engenharia de Letras
     </h1>
-    <p class="description">
-      Louis Lavelle e literatura clássica.
-    </p>
+    <p class="description">Louis Lavelle e literatura clássica.</p>
     <p class="actions">
       <a class="get-started" href="/louis-lavelle/">Louis Lavelle</a>
       <a class="setup" href="/literatura/">Literatura</a>
@@ -18,15 +16,15 @@
     <div class="vt-box">
       <h2>Louis Lavelle</h2>
       <p>
-        Obras e estudos de Louis Lavelle reunidos em uma navegação simples,
-        com foco em leitura contínua e referência.
+        Obras e estudos de Louis Lavelle reunidos em uma navegação simples, com foco em leitura
+        contínua e referência.
       </p>
     </div>
     <div class="vt-box">
       <h2>Literatura</h2>
       <p>
-        Biblioteca digital de obras clássicas, com ênfase em autores
-        brasileiros e leitura em formato limpo.
+        Biblioteca digital de obras clássicas, com ênfase em autores brasileiros e leitura em
+        formato limpo.
       </p>
     </div>
   </section>
@@ -72,7 +70,9 @@ section {
   padding: 8px 18px;
   font-weight: 500;
   border-radius: 8px;
-  transition: background-color 0.5s, color 0.5s;
+  transition:
+    background-color 0.5s,
+    color 0.5s;
   color: var(--vt-c-text-code);
 }
 

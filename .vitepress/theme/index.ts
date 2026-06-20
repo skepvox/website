@@ -1,5 +1,5 @@
 import './ssr-shim'
-import { h, App } from 'vue'
+import { h } from 'vue'
 import { VPTheme } from '@vue/theme'
 import './styles/index.css'
 import NavBarTitleBrand from './components/NavBarTitleBrand.vue'

@@ -111,7 +111,10 @@ function scrollActiveIntoView(id: string): void {
   const topGuard = Math.max(viewport * 0.18, obstruction + 16)
   const bottomGuard = viewport * 0.8
   if (rect.top >= topGuard && rect.bottom <= bottomGuard) return
-  el.scrollIntoView({ block: 'center', behavior: prefersReduced ? 'auto' : 'smooth' })
+  el.scrollIntoView({
+    block: 'center',
+    behavior: prefersReduced ? 'auto' : 'smooth'
+  })
 }
 
 function isNarrow(): boolean {
@@ -130,8 +133,7 @@ function updatePin(): void {
   }
   const playerTop = player.getBoundingClientRect().top
   const transcriptBottom = transcript.getBoundingClientRect().bottom
-  pinned.value =
-    playerTop <= navHeight && transcriptBottom > navHeight + barHeight.value + 8
+  pinned.value = playerTop <= navHeight && transcriptBottom > navHeight + barHeight.value + 8
 }
 
 function schedulePin(): void {
@@ -260,9 +262,7 @@ onMounted(() => {
   setupMediaSession()
 
   navHeight =
-    parseFloat(
-      getComputedStyle(document.documentElement).getPropertyValue('--vt-nav-height')
-    ) || 55
+    parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--vt-nav-height')) || 55
   measureBar()
   audioRef.value?.addEventListener('loadedmetadata', measureBar)
   window.addEventListener('scroll', schedulePin, { passive: true })
@@ -318,8 +318,7 @@ onBeforeUnmount(() => {
           class="vox-para"
           :class="{ 'vox-para--dialogue': section.isDialogue }"
         >
-          <span v-if="paragraph.speaker" class="vox-speaker"
-            >{{ paragraph.speaker }}:</span
+          <span v-if="paragraph.speaker" class="vox-speaker">{{ paragraph.speaker }}:</span
           ><template v-for="cue in paragraph.cues" :key="cue.id"
             ><span
               class="vox-cue"
@@ -437,7 +436,9 @@ onBeforeUnmount(() => {
   border-radius: 4px;
   padding: 0.06em 0.12em;
   margin: 0 -0.02em;
-  transition: background-color 0.18s ease, color 0.18s ease;
+  transition:
+    background-color 0.18s ease,
+    color 0.18s ease;
   -webkit-box-decoration-break: clone;
   box-decoration-break: clone;
 }
