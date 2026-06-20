@@ -118,13 +118,44 @@ def reconstruct_canonical(repo_dir: Path, section: dict) -> str:
     same with line-initial ``Speaker:`` labels removed (labels are non-timed).
     """
     raw = (repo_dir / section["file"]).read_text(encoding="utf-8")
-    if section["is_dialogue"]:
+    if section_is_dialogue(section):
         raw = re.sub(r"(?m)^[^\n:]{1,40}?:\s+", "", raw)
     return raw.rstrip()
 
 
 def non_space(text: str) -> str:
     return "".join(ch for ch in text if not ch.isspace())
+
+
+def section_is_dialogue(section: dict) -> bool:
+    """Return whether a transcript source section is dialogue.
+
+    Older transcript exports store an explicit ``is_dialogue`` flag. Newer
+    unit-wise exports store section/beat units without that flag, so infer from
+    the stable section slug.
+    """
+    if "is_dialogue" in section:
+        return bool(section["is_dialogue"])
+    slug = str(section["slug"])
+    return slug in {
+        "02-dialogue-lent",
+        "04-dialogue-naturel",
+        "02-dialogo-lento",
+        "04-dialogo-natural",
+        "02-dialogue-slow",
+        "04-dialogue-natural",
+    }
+
+
+def section_chars(section: dict) -> int:
+    if "chars" in section:
+        return int(section["chars"])
+    return int(section["end_char"]) - int(section["start_char"])
+
+
+def display_section_slug(slug: str) -> str:
+    """Collapse unit-wise explanation beat slugs into their parent section."""
+    return slug.split("/", 1)[0]
 
 
 def map_section(
@@ -136,12 +167,13 @@ def map_section(
 ) -> tuple[dict, int, str]:
     """Group cues into paragraphs and restore gap punctuation (strict)."""
     slug = section["slug"]
-    is_dialogue = bool(section["is_dialogue"])
+    is_dialogue = section_is_dialogue(section)
     off = section["start_char"]
     canon = reconstruct_canonical(repo_dir, section)
-    if len(canon) != section["chars"]:
+    chars = section_chars(section)
+    if len(canon) != chars:
         raise BuildError(
-            f"{slug}: canonical length {len(canon)} != chars {section['chars']}"
+            f"{slug}: canonical length {len(canon)} != chars {chars}"
         )
     # Confirm we are in the coordinate space transcript.json used. Compare on
     # non-whitespace content: a cue that spans a paragraph collapses the source
@@ -244,7 +276,7 @@ def map_section(
         raise BuildError(f"{slug}: punctuation preservation check failed")
 
     section_out = {
-        "id": slug,
+        "id": display_section_slug(slug),
         "label": label,
         "isDialogue": is_dialogue,
         "paragraphs": paragraphs,
@@ -317,9 +349,12 @@ def build_episode(show: str, number: int) -> Path:
 
     for section in transcript["source"]["sections"]:
         slug = section["slug"]
-        label = titles.get(slug)
+        display_slug = display_section_slug(slug)
+        label = titles.get(display_slug)
         if label is None:
-            raise BuildError(f"{episode_id}: no display label for section {slug!r}")
+            raise BuildError(
+                f"{episode_id}: no display label for section {display_slug!r}"
+            )
         if not (repo_dir / section["file"]).is_file():
             raise BuildError(f"{episode_id}: source text not found: {section['file']}")
         section_cues = cues_by_section.get(slug, [])
@@ -335,7 +370,14 @@ def build_episode(show: str, number: int) -> Path:
         crossing_count += crossings
         for paragraph in section_out["paragraphs"]:
             mapped_ids.extend(c["id"] for c in paragraph["cues"])
-        sections_out.append(section_out)
+        if sections_out and sections_out[-1]["id"] == display_slug:
+            sections_out[-1]["paragraphs"].extend(section_out["paragraphs"])
+        else:
+            sections_out.append(section_out)
+
+    for section_out in sections_out:
+        for index, paragraph in enumerate(section_out["paragraphs"], start=1):
+            paragraph["id"] = f"{section_out['id']}-p{index:03d}"
 
     all_ids = [c["id"] for c in cues]
     unmapped = len(all_ids) - len(mapped_ids)

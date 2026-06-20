@@ -1,0 +1,2525 @@
+{
+  "episode": {
+    "id": "francais-002",
+    "title": "La valise verte",
+    "showTitle": "Vox Français",
+    "audioUrl": "https://media.skepvox.com/podcast/francais/audio/francais-002-la-valise-verte-v11.mp3",
+    "artworkUrl": "https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg",
+    "lang": "fr",
+    "durationSeconds": 1390.199
+  },
+  "sections": [
+    {
+      "id": "01-introduction",
+      "label": "Introduction",
+      "isDialogue": false,
+      "paragraphs": [
+        {
+          "id": "01-introduction-p001",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0001",
+              "start": 0.0,
+              "end": 4.44,
+              "text": "Bonjour et bienvenue dans le Podcast de français langue étrangère,",
+              "sep": " "
+            },
+            {
+              "id": "0002",
+              "start": 4.92,
+              "end": 11.82,
+              "text": "le podcast pour apprendre le français avec une scène courte, un dialogue vivant et une explication claire.",
+              "sep": " "
+            },
+            {
+              "id": "0003",
+              "start": 13.62,
+              "end": 18.08,
+              "text": "Aujourd'hui, nous sommes dans une gare, au bureau des objets trouvés.",
+              "sep": " "
+            },
+            {
+              "id": "0004",
+              "start": 19.84,
+              "end": 24.48,
+              "text": "Camille cherche une valise verte qu'elle a perdue après un voyage.",
+              "sep": " "
+            },
+            {
+              "id": "0005",
+              "start": 26.24,
+              "end": 29.561,
+              "text": "Marc, l'employé, l'aide à décrire l'objet :",
+              "sep": " "
+            },
+            {
+              "id": "0006",
+              "start": 30.0,
+              "end": 35.76,
+              "text": "couleur, taille, étiquette, contenu et lieu.",
+              "sep": " "
+            },
+            {
+              "id": "0007",
+              "start": 37.08,
+              "end": 41.04,
+              "text": "Très vite, la situation devient moins simple qu'un formulaire.",
+              "sep": " "
+            },
+            {
+              "id": "0008",
+              "start": 42.18,
+              "end": 42.56,
+              "text": "C'est parti.",
+              "sep": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-dialogue-lent",
+      "label": "Dialogue - version lente",
+      "isDialogue": true,
+      "paragraphs": [
+        {
+          "id": "02-dialogue-lent-p001",
+          "speaker": "Camille",
+          "cues": [
+            {
+              "id": "0009",
+              "start": 49.645,
+              "end": 51.931,
+              "text": "Bonjour, je suis Camille Morel.",
+              "sep": " "
+            },
+            {
+              "id": "0010",
+              "start": 53.645,
+              "end": 57.002,
+              "text": "Je suis ici pour une valise perdue depuis mardi soir,",
+              "sep": " "
+            },
+            {
+              "id": "0011",
+              "start": 57.621,
+              "end": 61.335,
+              "text": "voie numéro six, entre deux annonces très dramatiques.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p002",
+          "speaker": "Marc",
+          "cues": [
+            {
+              "id": "0012",
+              "start": 62.288,
+              "end": 62.621,
+              "text": "Très bien.",
+              "sep": " "
+            },
+            {
+              "id": "0013",
+              "start": 63.526,
+              "end": 65.478,
+              "text": "Vous êtes au bureau des objets trouvés.",
+              "sep": " "
+            },
+            {
+              "id": "0014",
+              "start": 66.407,
+              "end": 67.549,
+              "text": "La valise est comment ?",
+              "sep": " "
+            },
+            {
+              "id": "0015",
+              "start": 69.121,
+              "end": 74.597,
+              "text": "Soyez précise : ici, les objets ont parfois beaucoup de personnalité.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p003",
+          "speaker": "Camille",
+          "cues": [
+            {
+              "id": "0016",
+              "start": 75.43,
+              "end": 79.93,
+              "text": "Elle est verte, assez grande, avec une petite étiquette rouge.",
+              "sep": " "
+            },
+            {
+              "id": "0017",
+              "start": 81.93,
+              "end": 83.811,
+              "text": "Elle est lourde, mais pas tragique.",
+              "sep": " "
+            },
+            {
+              "id": "0018",
+              "start": 83.811,
+              "end": 88.43,
+              "text": "Enfin, elle devient tragique sans mes pulls.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p004",
+          "speaker": "Marc",
+          "cues": [
+            {
+              "id": "0019",
+              "start": 88.763,
+              "end": 89.013,
+              "text": "Ah.",
+              "sep": " "
+            },
+            {
+              "id": "0020",
+              "start": 89.358,
+              "end": 91.263,
+              "text": "Elle est peut-être ici.",
+              "sep": " "
+            },
+            {
+              "id": "0021",
+              "start": 92.192,
+              "end": 97.525,
+              "text": "Je ne veux pas être trop affirmatif devant une valise que je connais depuis seulement deux jours.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p005",
+          "speaker": "Camille",
+          "cues": [
+            {
+              "id": "0022",
+              "start": 98.358,
+              "end": 98.859,
+              "text": "Peut-être ?",
+              "sep": " "
+            },
+            {
+              "id": "0023",
+              "start": 100.811,
+              "end": 103.501,
+              "text": "Vous avez l'air très sûr pour un \"peut-être\".",
+              "sep": " "
+            },
+            {
+              "id": "0024",
+              "start": 105.072,
+              "end": 109.12,
+              "text": "Votre regard est celui d'un homme qui a déjà vu mon étiquette rouge.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p006",
+          "speaker": "Marc",
+          "cues": [
+            {
+              "id": "0025",
+              "start": 109.12,
+              "end": 110.834,
+              "text": "Je suis prudent.",
+              "sep": " "
+            },
+            {
+              "id": "0026",
+              "start": 112.334,
+              "end": 115.763,
+              "text": "Dans une gare, une valise verte peut être une valise,",
+              "sep": " "
+            },
+            {
+              "id": "0027",
+              "start": 116.572,
+              "end": 120.929,
+              "text": "un souvenir, ou un problème administratif avec des roulettes.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p007",
+          "speaker": "Camille",
+          "cues": [
+            {
+              "id": "0028",
+              "start": 121.667,
+              "end": 122.477,
+              "text": "Elle est à moi.",
+              "sep": " "
+            },
+            {
+              "id": "0029",
+              "start": 124.191,
+              "end": 129.072,
+              "text": "À l'intérieur, il y a des livres, deux pulls, et un cadeau pour ma tante.",
+              "sep": " "
+            },
+            {
+              "id": "0030",
+              "start": 130.905,
+              "end": 133.453,
+              "text": "Ma tante est patiente, mais pas à ce point.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p008",
+          "speaker": "Marc",
+          "cues": [
+            {
+              "id": "0031",
+              "start": 133.453,
+              "end": 134.738,
+              "text": "D'accord.",
+              "sep": " "
+            },
+            {
+              "id": "0032",
+              "start": 136.096,
+              "end": 137.262,
+              "text": "Le cadeau est fragile ?",
+              "sep": " "
+            },
+            {
+              "id": "0033",
+              "start": 138.572,
+              "end": 144.286,
+              "text": "Nous avons une lampe bleue, trois romans, et une odeur de menthe qui est assez confiante.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p009",
+          "speaker": "Camille",
+          "cues": [
+            {
+              "id": "0034",
+              "start": 145.095,
+              "end": 147.048,
+              "text": "Oui, c'est une petite lampe bleue.",
+              "sep": " "
+            },
+            {
+              "id": "0035",
+              "start": 148.667,
+              "end": 150.452,
+              "text": "L'odeur de menthe, c'est mon savon.",
+              "sep": " "
+            },
+            {
+              "id": "0036",
+              "start": 151.381,
+              "end": 152.929,
+              "text": "Il est plus organisé que moi.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p010",
+          "speaker": "Marc",
+          "cues": [
+            {
+              "id": "0037",
+              "start": 153.69,
+              "end": 156.048,
+              "text": "Alors la valise est ici depuis mardi.",
+              "sep": " "
+            },
+            {
+              "id": "0038",
+              "start": 156.952,
+              "end": 162.643,
+              "text": "Elle est stable, elle est pratique, et elle est très respectée par l'équipe du matin.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p011",
+          "speaker": "Camille",
+          "cues": [
+            {
+              "id": "0039",
+              "start": 164.047,
+              "end": 164.666,
+              "text": "Respectée ?",
+              "sep": " "
+            },
+            {
+              "id": "0040",
+              "start": 165.285,
+              "end": 167.357,
+              "text": "Je cherche une valise, pas une collègue.",
+              "sep": " "
+            },
+            {
+              "id": "0041",
+              "start": 168.643,
+              "end": 172.047,
+              "text": "Pourquoi est-ce qu'elle a une carrière pendant que je porte le même pull ?",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p012",
+          "speaker": "Marc",
+          "cues": [
+            {
+              "id": "0042",
+              "start": 172.881,
+              "end": 173.404,
+              "text": "Bien sûr.",
+              "sep": " "
+            },
+            {
+              "id": "0043",
+              "start": 174.38,
+              "end": 176.047,
+              "text": "Mais notre bureau est en travaux.",
+              "sep": " "
+            },
+            {
+              "id": "0044",
+              "start": 176.88,
+              "end": 180.38,
+              "text": "La table est cassée, les chaises sont dans le couloir,",
+              "sep": " "
+            },
+            {
+              "id": "0045",
+              "start": 180.38,
+              "end": 184.095,
+              "text": "et votre valise est exactement à la bonne hauteur.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p013",
+          "speaker": "Camille",
+          "cues": [
+            {
+              "id": "0046",
+              "start": 184.904,
+              "end": 187.285,
+              "text": "Vous voulez dire que ma valise est sous vos dossiers ?",
+              "sep": " "
+            },
+            {
+              "id": "0047",
+              "start": 188.785,
+              "end": 191.285,
+              "text": "J'espère qu'elle n'est pas responsable du budget.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p014",
+          "speaker": "Marc",
+          "cues": [
+            {
+              "id": "0048",
+              "start": 191.285,
+              "end": 192.618,
+              "text": "Pas sous.",
+              "sep": " "
+            },
+            {
+              "id": "0049",
+              "start": 194.142,
+              "end": 198.404,
+              "text": "Elle est le support officiel des dossiers urgents, du formulaire jaune,",
+              "sep": " "
+            },
+            {
+              "id": "0050",
+              "start": 198.404,
+              "end": 202.404,
+              "text": "et d'un petit panneau \"merci de patienter\".",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p015",
+          "speaker": "Camille",
+          "cues": [
+            {
+              "id": "0051",
+              "start": 202.713,
+              "end": 209.642,
+              "text": "Monsieur, je suis fatiguée, mes pulls sont prisonniers, et ma tante est sans cadeau.",
+              "sep": " "
+            },
+            {
+              "id": "0052",
+              "start": 211.451,
+              "end": 214.427,
+              "text": "Est-ce que je peux récupérer ma valise avant sa promotion ?",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p016",
+          "speaker": "Marc",
+          "cues": [
+            {
+              "id": "0053",
+              "start": 215.118,
+              "end": 217.022,
+              "text": "Oui, mais doucement.",
+              "sep": " "
+            },
+            {
+              "id": "0054",
+              "start": 218.046,
+              "end": 221.665,
+              "text": "Le formulaire jaune est dessus, le tampon est dessus,",
+              "sep": " "
+            },
+            {
+              "id": "0055",
+              "start": 221.665,
+              "end": 225.07,
+              "text": "et mon café est malheureusement dessus aussi.",
+              "sep": " "
+            },
+            {
+              "id": "0056",
+              "start": 226.379,
+              "end": 228.189,
+              "text": "Il est presque vide, par chance.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p017",
+          "speaker": "Camille",
+          "cues": [
+            {
+              "id": "0057",
+              "start": 228.832,
+              "end": 230.713,
+              "text": "Donc ma valise n'est pas perdue.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p018",
+          "speaker": "Marc",
+          "cues": [
+            {
+              "id": "0058",
+              "start": 231.403,
+              "end": 231.76,
+              "text": "Non.",
+              "sep": " "
+            },
+            {
+              "id": "0059",
+              "start": 232.665,
+              "end": 235.974,
+              "text": "Elle est en C D I jusqu'à la livraison de la nouvelle table.",
+              "sep": " "
+            },
+            {
+              "id": "0060",
+              "start": 237.213,
+              "end": 242.451,
+              "text": "Si vous la reprenez maintenant, nous sommes encore un bureau, mais nous sommes sans bureau.",
+              "sep": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-explication",
+      "label": "Explication",
+      "isDialogue": false,
+      "paragraphs": [
+        {
+          "id": "03-explication-p001",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0061",
+              "start": 249.542,
+              "end": 253.002,
+              "text": "Dans ce dialogue, Camille arrive dans une gare.",
+              "sep": " "
+            },
+            {
+              "id": "0062",
+              "start": 254.182,
+              "end": 255.922,
+              "text": "Elle va au bureau des objets trouvés.",
+              "sep": " "
+            },
+            {
+              "id": "0063",
+              "start": 257.042,
+              "end": 260.062,
+              "text": "Ce service garde les objets oubliés ou retrouvés :",
+              "sep": " "
+            },
+            {
+              "id": "0064",
+              "start": 261.062,
+              "end": 267.822,
+              "text": "un sac, une clé, un téléphone, un parapluie, ou ici, une valise.",
+              "sep": " "
+            },
+            {
+              "id": "0065",
+              "start": 269.382,
+              "end": 274.302,
+              "text": "Camille commence simplement : \"Bonjour, je suis Camille Morel.\"",
+              "sep": " "
+            },
+            {
+              "id": "0066",
+              "start": 275.242,
+              "end": 276.942,
+              "text": "Elle donne son identité.",
+              "sep": " "
+            },
+            {
+              "id": "0067",
+              "start": 277.842,
+              "end": 281.242,
+              "text": "Puis elle ajoute : \"Je suis ici pour une valise perdue.\"",
+              "sep": " "
+            },
+            {
+              "id": "0068",
+              "start": 283.262,
+              "end": 285.882,
+              "text": "Cette phrase est très utile dans un service public.",
+              "sep": " "
+            },
+            {
+              "id": "0069",
+              "start": 287.262,
+              "end": 290.642,
+              "text": "\"Je suis ici pour...\" annonce l'objectif :",
+              "sep": " "
+            },
+            {
+              "id": "0070",
+              "start": 291.822,
+              "end": 296.682,
+              "text": "je suis ici pour un rendez-vous, pour un colis, pour une inscription,",
+              "sep": " "
+            },
+            {
+              "id": "0071",
+              "start": 297.642,
+              "end": 298.462,
+              "text": "pour une valise.",
+              "sep": " "
+            },
+            {
+              "id": "0072",
+              "start": 299.582,
+              "end": 303.802,
+              "text": "La phrase reste très simple, mais elle sert tout de suite à agir.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p002",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0073",
+              "start": 304.175,
+              "end": 308.535,
+              "text": "Camille situe ensuite la scène : \"depuis mardi soir,",
+              "sep": " "
+            },
+            {
+              "id": "0074",
+              "start": 309.435,
+              "end": 313.395,
+              "text": "voie numéro six, entre deux annonces très dramatiques.\"",
+              "sep": " "
+            },
+            {
+              "id": "0075",
+              "start": 314.855,
+              "end": 320.355,
+              "text": "La voie, dans une gare, c'est l'endroit où le train arrive ou part.",
+              "sep": " "
+            },
+            {
+              "id": "0076",
+              "start": 321.755,
+              "end": 325.955,
+              "text": "À l'oral, voie se prononce exactement comme la voix d'une personne ;",
+              "sep": " "
+            },
+            {
+              "id": "0077",
+              "start": 327.295,
+              "end": 330.795,
+              "text": "seul le contexte de la gare permet de distinguer les deux.",
+              "sep": " "
+            },
+            {
+              "id": "0078",
+              "start": 331.795,
+              "end": 334.815,
+              "text": "Une annonce est un message que l'on entend dans la gare.",
+              "sep": " "
+            },
+            {
+              "id": "0079",
+              "start": 336.355,
+              "end": 339.555,
+              "text": "Camille dit \"très dramatiques\" avec humour,",
+              "sep": " "
+            },
+            {
+              "id": "0080",
+              "start": 340.495,
+              "end": 343.655,
+              "text": "parce que les annonces peuvent être rapides, fortes,",
+              "sep": " "
+            },
+            {
+              "id": "0081",
+              "start": 343.655,
+              "end": 346.335,
+              "text": "et un peu stressantes quand on voyage.",
+              "sep": " "
+            },
+            {
+              "id": "0082",
+              "start": 347.855,
+              "end": 353.895,
+              "text": "Le détail \"depuis mardi soir\" donne aussi le temps du problème.",
+              "sep": " "
+            },
+            {
+              "id": "0083",
+              "start": 355.335,
+              "end": 357.875,
+              "text": "La valise n'est pas perdue depuis cinq minutes.",
+              "sep": " "
+            },
+            {
+              "id": "0084",
+              "start": 359.095,
+              "end": 364.756,
+              "text": "Camille a attendu, elle a cherché, et maintenant elle vient demander de l'aide.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p003",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0085",
+              "start": 365.121,
+              "end": 369.121,
+              "text": "Marc répond : \"Vous êtes au bureau des objets trouvés.\"",
+              "sep": " "
+            },
+            {
+              "id": "0086",
+              "start": 370.201,
+              "end": 374.981,
+              "text": "Ici, \"vous êtes\" situe Camille dans le bon service.",
+              "sep": " "
+            },
+            {
+              "id": "0087",
+              "start": 376.421,
+              "end": 379.722,
+              "text": "Elle n'est pas au guichet des billets, elle n'est pas sur le quai,",
+              "sep": " "
+            },
+            {
+              "id": "0088",
+              "start": 380.741,
+              "end": 383.601,
+              "text": "elle est au bureau où l'on cherche les objets perdus.",
+              "sep": " "
+            },
+            {
+              "id": "0089",
+              "start": 385.161,
+              "end": 391.901,
+              "text": "Cette petite formule rassure aussi Camille : elle est au bon endroit, et elle peut commencer sa demande.",
+              "sep": " "
+            },
+            {
+              "id": "0090",
+              "start": 393.521,
+              "end": 396.581,
+              "text": "Remarquez le ton : Marc dit vous.",
+              "sep": " "
+            },
+            {
+              "id": "0091",
+              "start": 397.821,
+              "end": 403.401,
+              "text": "Camille et Marc ne se connaissent pas, et l'échange se passe dans une interaction de service.",
+              "sep": " "
+            },
+            {
+              "id": "0092",
+              "start": 404.861,
+              "end": 407.101,
+              "text": "Le vouvoiement garde la distance polie.",
+              "sep": " "
+            },
+            {
+              "id": "0093",
+              "start": 408.461,
+              "end": 413.521,
+              "text": "À l'oral, la liaison dans \"vous êtes\" est très fréquente.",
+              "sep": " "
+            },
+            {
+              "id": "0094",
+              "start": 414.541,
+              "end": 417.981,
+              "text": "Elle aide aussi à entendre la formule comme un bloc très naturel.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p004",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0095",
+              "start": 419.661,
+              "end": 422.281,
+              "text": "Marc demande : \"La valise est comment ?\"",
+              "sep": " "
+            },
+            {
+              "id": "0096",
+              "start": 423.201,
+              "end": 428.001,
+              "text": "Il ne demande pas encore toute l'histoire ; il demande une description.",
+              "sep": " "
+            },
+            {
+              "id": "0097",
+              "start": 429.461,
+              "end": 432.901,
+              "text": "Dans un bureau des objets trouvés, il faut être précis.",
+              "sep": " "
+            },
+            {
+              "id": "0098",
+              "start": 434.021,
+              "end": 438.921,
+              "text": "Le mot précis signifie : clair, détaillé, pas vague.",
+              "sep": " "
+            },
+            {
+              "id": "0099",
+              "start": 440.561,
+              "end": 446.941,
+              "text": "Camille répond donc : \"Elle est verte, assez grande, avec une petite étiquette rouge.\"",
+              "sep": " "
+            },
+            {
+              "id": "0100",
+              "start": 449.021,
+              "end": 451.661,
+              "text": "L'étiquette est la petite carte attachée à la valise.",
+              "sep": " "
+            },
+            {
+              "id": "0101",
+              "start": 452.281,
+              "end": 457.161,
+              "text": "Elle peut porter un nom, une adresse ou un signe qui permet de reconnaître le bagage.",
+              "sep": " "
+            },
+            {
+              "id": "0102",
+              "start": 459.201,
+              "end": 462.501,
+              "text": "Ici, l'étiquette rouge devient un indice important.",
+              "sep": " "
+            },
+            {
+              "id": "0103",
+              "start": 464.481,
+              "end": 465.781,
+              "text": "Marc semble la connaître.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p005",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0104",
+              "start": 466.136,
+              "end": 470.556,
+              "text": "Camille continue : \"Elle est lourde, mais pas tragique.\"",
+              "sep": " "
+            },
+            {
+              "id": "0105",
+              "start": 471.516,
+              "end": 474.156,
+              "text": "On dit lourd au masculin et lourde au féminin.",
+              "sep": " "
+            },
+            {
+              "id": "0106",
+              "start": 475.136,
+              "end": 478.136,
+              "text": "Le sens est le même : l'objet pèse beaucoup.",
+              "sep": " "
+            },
+            {
+              "id": "0107",
+              "start": 479.476,
+              "end": 482.956,
+              "text": "Tragique est un mot beaucoup plus fort, presque théâtral.",
+              "sep": " "
+            },
+            {
+              "id": "0108",
+              "start": 484.296,
+              "end": 486.016,
+              "text": "Camille joue avec ce contraste.",
+              "sep": " "
+            },
+            {
+              "id": "0109",
+              "start": 486.816,
+              "end": 491.476,
+              "text": "Une valise peut être lourde, mais normalement elle n'est pas tragique.",
+              "sep": " "
+            },
+            {
+              "id": "0110",
+              "start": 492.376,
+              "end": 494.856,
+              "text": "Elle devient tragique parce que ses pulls sont dedans.",
+              "sep": " "
+            },
+            {
+              "id": "0111",
+              "start": 496.136,
+              "end": 501.756,
+              "text": "Un pull est un vêtement chaud, et Camille porte déjà le même pull depuis trop longtemps.",
+              "sep": " "
+            },
+            {
+              "id": "0112",
+              "start": 502.576,
+              "end": 507.776,
+              "text": "Le détail est petit, concret, et il rend son problème très humain.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p006",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0113",
+              "start": 509.356,
+              "end": 512.676,
+              "text": "Marc répond avec prudence : \"Elle est peut-être ici.\"",
+              "sep": " "
+            },
+            {
+              "id": "0114",
+              "start": 514.736,
+              "end": 516.376,
+              "text": "Peut-être marque l'incertitude.",
+              "sep": " "
+            },
+            {
+              "id": "0115",
+              "start": 517.636,
+              "end": 519.976,
+              "text": "Mais sa phrase suivante le trahit un peu :",
+              "sep": " "
+            },
+            {
+              "id": "0116",
+              "start": 521.056,
+              "end": 525.796,
+              "text": "il ne veut pas être \"trop affirmatif\" devant une valise qu'il connaît depuis deux jours.",
+              "sep": " "
+            },
+            {
+              "id": "0117",
+              "start": 527.216,
+              "end": 530.836,
+              "text": "Normalement, on ne connaît pas une valise comme une personne.",
+              "sep": " "
+            },
+            {
+              "id": "0118",
+              "start": 531.956,
+              "end": 535.596,
+              "text": "On peut la voir, la ranger, la retrouver.",
+              "sep": " "
+            },
+            {
+              "id": "0119",
+              "start": 537.456,
+              "end": 541.416,
+              "text": "Marc parle déjà comme si la valise avait une petite place dans la vie du bureau.",
+              "sep": " "
+            },
+            {
+              "id": "0120",
+              "start": 542.856,
+              "end": 544.496,
+              "text": "Camille entend cette nuance.",
+              "sep": " "
+            },
+            {
+              "id": "0121",
+              "start": 546.016,
+              "end": 549.337,
+              "text": "Elle lui dit qu'il a l'air très sûr pour un \"peut-être\".",
+              "sep": " "
+            },
+            {
+              "id": "0122",
+              "start": 550.896,
+              "end": 552.556,
+              "text": "Avoir l'air signifie sembler.",
+              "sep": " "
+            },
+            {
+              "id": "0123",
+              "start": 553.636,
+              "end": 556.536,
+              "text": "Son regard donne plus d'information que ses mots.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p007",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0124",
+              "start": 556.95,
+              "end": 560.93,
+              "text": "Marc se présente alors comme prudent : \"Je suis prudent.\"",
+              "sep": " "
+            },
+            {
+              "id": "0125",
+              "start": 562.77,
+              "end": 564.99,
+              "text": "Ici, être décrit une attitude.",
+              "sep": " "
+            },
+            {
+              "id": "0126",
+              "start": 566.45,
+              "end": 570.95,
+              "text": "Il ne dit pas seulement où il est ; il explique comment il se comporte.",
+              "sep": " "
+            },
+            {
+              "id": "0127",
+              "start": 572.27,
+              "end": 576.69,
+              "text": "Puis il transforme la valise en \"problème administratif avec des roulettes\".",
+              "sep": " "
+            },
+            {
+              "id": "0128",
+              "start": 578.67,
+              "end": 581.131,
+              "text": "Cette expression est très bonne pour la scène.",
+              "sep": " "
+            },
+            {
+              "id": "0129",
+              "start": 582.53,
+              "end": 585.17,
+              "text": "Les roulettes appartiennent au monde du voyage.",
+              "sep": " "
+            },
+            {
+              "id": "0130",
+              "start": 586.09,
+              "end": 590.35,
+              "text": "Le problème administratif appartient au monde des formulaires,",
+              "sep": " "
+            },
+            {
+              "id": "0131",
+              "start": 591.17,
+              "end": 593.29,
+              "text": "des dossiers et des services.",
+              "sep": " "
+            },
+            {
+              "id": "0132",
+              "start": 594.35,
+              "end": 600.31,
+              "text": "En mélangeant les deux, Marc montre que la valise n'est déjà plus seulement un bagage.",
+              "sep": " "
+            },
+            {
+              "id": "0133",
+              "start": 601.87,
+              "end": 603.99,
+              "text": "Elle fait maintenant partie de ce service.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p008",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0134",
+              "start": 605.35,
+              "end": 611.75,
+              "text": "Camille insiste : \"Elle est à moi.\" Cette structure indique la possession.",
+              "sep": " "
+            },
+            {
+              "id": "0135",
+              "start": 612.59,
+              "end": 615.57,
+              "text": "On peut dire : ce sac est à moi,",
+              "sep": " "
+            },
+            {
+              "id": "0136",
+              "start": 616.45,
+              "end": 619.69,
+              "text": "cette place est à vous, ces clés sont au gardien.",
+              "sep": " "
+            },
+            {
+              "id": "0137",
+              "start": 621.43,
+              "end": 626.35,
+              "text": "Camille ne décrit plus la couleur ou la taille ; elle affirme que la valise lui appartient.",
+              "sep": " "
+            },
+            {
+              "id": "0138",
+              "start": 627.75,
+              "end": 634.31,
+              "text": "Elle ajoute ce qu'il y a à l'intérieur : des livres, deux pulls, un cadeau pour sa tante.",
+              "sep": " "
+            },
+            {
+              "id": "0139",
+              "start": 635.71,
+              "end": 639.07,
+              "text": "Le cadeau est important parce qu'il ajoute une pression personnelle.",
+              "sep": " "
+            },
+            {
+              "id": "0140",
+              "start": 639.95,
+              "end": 643.01,
+              "text": "Camille ne cherche pas seulement un objet anonyme.",
+              "sep": " "
+            },
+            {
+              "id": "0141",
+              "start": 644.01,
+              "end": 648.65,
+              "text": "Elle veut récupérer ses affaires, et elle veut offrir quelque chose à quelqu'un.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p009",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0142",
+              "start": 649.057,
+              "end": 652.937,
+              "text": "Marc vérifie le contenu : \"Le cadeau est fragile ?\"",
+              "sep": " "
+            },
+            {
+              "id": "0143",
+              "start": 654.637,
+              "end": 657.617,
+              "text": "Fragile veut dire que l'objet peut se casser facilement.",
+              "sep": " "
+            },
+            {
+              "id": "0144",
+              "start": 658.837,
+              "end": 663.077,
+              "text": "Une lampe, un verre, une assiette peuvent être fragiles.",
+              "sep": " "
+            },
+            {
+              "id": "0145",
+              "start": 664.777,
+              "end": 668.237,
+              "text": "Camille confirme : c'est une petite lampe bleue.",
+              "sep": " "
+            },
+            {
+              "id": "0146",
+              "start": 669.757,
+              "end": 676.057,
+              "text": "Et là, Marc devient suspect : il parle de trois romans et d'une odeur de menthe.",
+              "sep": " "
+            },
+            {
+              "id": "0147",
+              "start": 677.017,
+              "end": 680.177,
+              "text": "Une odeur est ce que l'on sent avec le nez.",
+              "sep": " "
+            },
+            {
+              "id": "0148",
+              "start": 681.417,
+              "end": 687.497,
+              "text": "La menthe peut venir d'un bonbon, d'un thé, ou ici, du savon de Camille.",
+              "sep": " "
+            },
+            {
+              "id": "0149",
+              "start": 688.837,
+              "end": 690.297,
+              "text": "Le savon sert à se laver.",
+              "sep": " "
+            },
+            {
+              "id": "0150",
+              "start": 691.857,
+              "end": 694.817,
+              "text": "Ces détails prouvent que Marc connaît très bien le contenu.",
+              "sep": " "
+            },
+            {
+              "id": "0151",
+              "start": 695.917,
+              "end": 697.997,
+              "text": "Il n'a pas seulement vu la valise de loin.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p010",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0152",
+              "start": 698.345,
+              "end": 703.065,
+              "text": "Marc l'avoue presque : \"Alors la valise est ici depuis mardi.\"",
+              "sep": " "
+            },
+            {
+              "id": "0153",
+              "start": 704.565,
+              "end": 705.966,
+              "text": "Être ici situe l'objet.",
+              "sep": " "
+            },
+            {
+              "id": "0154",
+              "start": 706.945,
+              "end": 710.545,
+              "text": "Puis il ajoute trois adjectifs : \"Elle est stable,",
+              "sep": " "
+            },
+            {
+              "id": "0155",
+              "start": 711.265,
+              "end": 714.365,
+              "text": "elle est pratique, et elle est très respectée.\"",
+              "sep": " "
+            },
+            {
+              "id": "0156",
+              "start": 716.265,
+              "end": 718.825,
+              "text": "Stable signifie que l'objet ne bouge pas facilement.",
+              "sep": " "
+            },
+            {
+              "id": "0157",
+              "start": 720.065,
+              "end": 723.225,
+              "text": "Pratique signifie utile, facile à utiliser.",
+              "sep": " "
+            },
+            {
+              "id": "0158",
+              "start": 724.505,
+              "end": 728.425,
+              "text": "Ces deux mots peuvent décrire une valise posée quelque part.",
+              "sep": " "
+            },
+            {
+              "id": "0159",
+              "start": 729.445,
+              "end": 731.505,
+              "text": "Mais respectée est plus étrange.",
+              "sep": " "
+            },
+            {
+              "id": "0160",
+              "start": 732.765,
+              "end": 737.085,
+              "text": "On respecte une personne, une collègue, une directrice.",
+              "sep": " "
+            },
+            {
+              "id": "0161",
+              "start": 738.485,
+              "end": 743.645,
+              "text": "Quand Marc dit que la valise est respectée, il lui donne presque un statut humain.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p011",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0162",
+              "start": 745.185,
+              "end": 750.585,
+              "text": "Camille réagit tout de suite : \"Je cherche une valise, pas une collègue.\"",
+              "sep": " "
+            },
+            {
+              "id": "0163",
+              "start": 751.865,
+              "end": 755.145,
+              "text": "Une collègue est une personne avec qui l'on travaille.",
+              "sep": " "
+            },
+            {
+              "id": "0164",
+              "start": 756.365,
+              "end": 761.825,
+              "text": "Cette phrase montre tout le décalage : Marc parle d'un bagage comme d'une employée.",
+              "sep": " "
+            },
+            {
+              "id": "0165",
+              "start": 763.545,
+              "end": 766.385,
+              "text": "Camille continue avec \"sa carrière\".",
+              "sep": " "
+            },
+            {
+              "id": "0166",
+              "start": 767.905,
+              "end": 771.425,
+              "text": "Une carrière, c'est le parcours professionnel d'une personne.",
+              "sep": " "
+            },
+            {
+              "id": "0167",
+              "start": 772.865,
+              "end": 777.006,
+              "text": "La valise a donc, dans l'imagination de Marc, une vie de bureau.",
+              "sep": " "
+            },
+            {
+              "id": "0168",
+              "start": 778.265,
+              "end": 784.245,
+              "text": "Camille, elle, reste avec son même pull, et sa tante n'a toujours pas de cadeau.",
+              "sep": " "
+            },
+            {
+              "id": "0169",
+              "start": 785.985,
+              "end": 788.365,
+              "text": "Le contraste est sec, mais très clair.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p012",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0170",
+              "start": 788.784,
+              "end": 794.044,
+              "text": "Marc explique enfin le problème matériel : \"Notre bureau est en travaux.\"",
+              "sep": " "
+            },
+            {
+              "id": "0171",
+              "start": 795.384,
+              "end": 799.724,
+              "text": "Un lieu est en travaux quand on le répare ou quand on le transforme.",
+              "sep": " "
+            },
+            {
+              "id": "0172",
+              "start": 800.544,
+              "end": 806.784,
+              "text": "La table est cassée, les chaises sont dans le couloir, et la valise est à la bonne hauteur.",
+              "sep": " "
+            },
+            {
+              "id": "0173",
+              "start": 808.204,
+              "end": 809.844,
+              "text": "Voilà pourquoi elle est si utile.",
+              "sep": " "
+            },
+            {
+              "id": "0174",
+              "start": 811.164,
+              "end": 814.024,
+              "text": "Le mot bureau est déjà intéressant ici.",
+              "sep": " "
+            },
+            {
+              "id": "0175",
+              "start": 814.904,
+              "end": 821.484,
+              "text": "Il peut désigner le service des objets trouvés, mais aussi un meuble, une table de travail.",
+              "sep": " "
+            },
+            {
+              "id": "0176",
+              "start": 823.104,
+              "end": 826.285,
+              "text": "Marc travaille dans un bureau qui n'a presque plus de bureau.",
+              "sep": " "
+            },
+            {
+              "id": "0177",
+              "start": 827.304,
+              "end": 828.924,
+              "text": "La valise remplit ce manque.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p013",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0178",
+              "start": 830.384,
+              "end": 832.804,
+              "text": "Camille demande si sa valise est sous les dossiers.",
+              "sep": " "
+            },
+            {
+              "id": "0179",
+              "start": 833.964,
+              "end": 835.044,
+              "text": "Sous veut dire en dessous.",
+              "sep": " "
+            },
+            {
+              "id": "0180",
+              "start": 836.824,
+              "end": 838.824,
+              "text": "Marc corrige : \"Pas sous.",
+              "sep": " "
+            },
+            {
+              "id": "0181",
+              "start": 839.744,
+              "end": 842.164,
+              "text": "Elle est le support officiel des dossiers urgents.\"",
+              "sep": " "
+            },
+            {
+              "id": "0182",
+              "start": 844.024,
+              "end": 847.784,
+              "text": "Un support, c'est ce qui porte ou soutient quelque chose.",
+              "sep": " "
+            },
+            {
+              "id": "0183",
+              "start": 849.184,
+              "end": 854.564,
+              "text": "Les dossiers sont des documents liés à une demande, une affaire ou une procédure.",
+              "sep": " "
+            },
+            {
+              "id": "0184",
+              "start": 855.544,
+              "end": 858.364,
+              "text": "Le formulaire jaune est un papier à remplir.",
+              "sep": " "
+            },
+            {
+              "id": "0185",
+              "start": 859.584,
+              "end": 862.764,
+              "text": "Le tampon sert à marquer un document avec de l'encre.",
+              "sep": " "
+            },
+            {
+              "id": "0186",
+              "start": 864.044,
+              "end": 867.684,
+              "text": "Tous ces mots donnent une atmosphère administrative très concrète.",
+              "sep": " "
+            },
+            {
+              "id": "0187",
+              "start": 869.104,
+              "end": 872.144,
+              "text": "La valise sert maintenant de petite table.",
+              "sep": " "
+            },
+            {
+              "id": "0188",
+              "start": 873.084,
+              "end": 874.804,
+              "text": "Presque une table officielle.",
+              "sep": " "
+            },
+            {
+              "id": "0189",
+              "start": 876.244,
+              "end": 878.704,
+              "text": "Et personne n'a demandé son avis à Camille.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p014",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0190",
+              "start": 879.103,
+              "end": 882.563,
+              "text": "Camille reste polie, mais elle devient ferme :",
+              "sep": " "
+            },
+            {
+              "id": "0191",
+              "start": 883.543,
+              "end": 887.683,
+              "text": "\"Monsieur, je suis fatiguée, mes pulls sont prisonniers,",
+              "sep": " "
+            },
+            {
+              "id": "0192",
+              "start": 887.683,
+              "end": 894.023,
+              "text": "et ma tante est sans cadeau.\" Monsieur garde la forme correcte de l'échange.",
+              "sep": " "
+            },
+            {
+              "id": "0193",
+              "start": 895.023,
+              "end": 897.523,
+              "text": "Mais la phrase montre aussi son agacement.",
+              "sep": " "
+            },
+            {
+              "id": "0194",
+              "start": 898.443,
+              "end": 901.443,
+              "text": "\"Je suis fatiguée\" décrit son état.",
+              "sep": " "
+            },
+            {
+              "id": "0195",
+              "start": 902.843,
+              "end": 907.883,
+              "text": "\"Mes pulls sont prisonniers\" transforme les vêtements en petits captifs comiques.",
+              "sep": " "
+            },
+            {
+              "id": "0196",
+              "start": 908.843,
+              "end": 913.563,
+              "text": "\"Ma tante est sans cadeau\" rappelle l'urgence familiale.",
+              "sep": " "
+            },
+            {
+              "id": "0197",
+              "start": 915.043,
+              "end": 920.843,
+              "text": "Camille reprend donc la logique absurde de Marc, mais elle la met au service de sa demande :",
+              "sep": " "
+            },
+            {
+              "id": "0198",
+              "start": 922.043,
+              "end": 926.263,
+              "text": "elle veut récupérer sa valise avant \"sa promotion\".",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p015",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0199",
+              "start": 928.163,
+              "end": 929.943,
+              "text": "Marc accepte, mais lentement.",
+              "sep": " "
+            },
+            {
+              "id": "0200",
+              "start": 931.423,
+              "end": 937.003,
+              "text": "Le formulaire est dessus, le tampon est dessus, et son café est dessus aussi.",
+              "sep": " "
+            },
+            {
+              "id": "0201",
+              "start": 938.283,
+              "end": 941.943,
+              "text": "Dessus indique une position : sur la valise.",
+              "sep": " "
+            },
+            {
+              "id": "0202",
+              "start": 943.503,
+              "end": 949.863,
+              "text": "Sous et dessus sont très utiles pour parler d'un bureau, d'une table, d'une étagère, d'un sac.",
+              "sep": " "
+            },
+            {
+              "id": "0203",
+              "start": 951.443,
+              "end": 957.923,
+              "text": "Ici, ils sont aussi drôles parce qu'ils montrent à quel point la valise a été intégrée au fonctionnement du bureau.",
+              "sep": " "
+            },
+            {
+              "id": "0204",
+              "start": 959.563,
+              "end": 961.683,
+              "text": "Marc ne doit pas seulement rendre un objet.",
+              "sep": " "
+            },
+            {
+              "id": "0205",
+              "start": 962.383,
+              "end": 965.003,
+              "text": "Il doit retirer une solution provisoire.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p016",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0206",
+              "start": 965.382,
+              "end": 969.782,
+              "text": "Camille comprend enfin : \"Donc ma valise n'est pas perdue.\"",
+              "sep": " "
+            },
+            {
+              "id": "0207",
+              "start": 971.562,
+              "end": 973.503,
+              "text": "Cette phrase retourne toute la scène.",
+              "sep": " "
+            },
+            {
+              "id": "0208",
+              "start": 974.642,
+              "end": 977.442,
+              "text": "Au début, elle vient chercher une valise perdue.",
+              "sep": " "
+            },
+            {
+              "id": "0209",
+              "start": 978.882,
+              "end": 981.782,
+              "text": "À la fin, elle découvre que la valise est là,",
+              "sep": " "
+            },
+            {
+              "id": "0210",
+              "start": 982.522,
+              "end": 985.982,
+              "text": "mais qu'elle est occupée par des dossiers, un formulaire,",
+              "sep": " "
+            },
+            {
+              "id": "0211",
+              "start": 986.602,
+              "end": 988.762,
+              "text": "un tampon et même un café.",
+              "sep": " "
+            },
+            {
+              "id": "0212",
+              "start": 990.082,
+              "end": 995.542,
+              "text": "La correction est très simple : elle n'est pas perdue, elle est utilisée.",
+              "sep": " "
+            },
+            {
+              "id": "0213",
+              "start": 996.882,
+              "end": 997.562,
+              "text": "En quelques mots,",
+              "sep": " "
+            },
+            {
+              "id": "0214",
+              "start": 998.362,
+              "end": 1004.522,
+              "text": "Camille passe donc d'une enquête sur un objet disparu à une négociation pour récupérer une table improvisée.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p017",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0215",
+              "start": 1004.891,
+              "end": 1008.931,
+              "text": "La dernière réplique de Marc donne le vrai statut absurde de l'objet :",
+              "sep": " "
+            },
+            {
+              "id": "0216",
+              "start": 1010.031,
+              "end": 1013.871,
+              "text": "\"Elle est en C D I jusqu'à la livraison de la nouvelle table.\"",
+              "sep": " "
+            },
+            {
+              "id": "0217",
+              "start": 1014.851,
+              "end": 1018.271,
+              "text": "Un C D I est un contrat de travail stable.",
+              "sep": " "
+            },
+            {
+              "id": "0218",
+              "start": 1019.271,
+              "end": 1021.891,
+              "text": "Dans la vie courante, on parle d'un C D",
+              "sep": " "
+            },
+            {
+              "id": "0219",
+              "start": 1021.891,
+              "end": 1026.272,
+              "text": "I dans une annonce d'emploi, dans un contrat de travail,",
+              "sep": " "
+            },
+            {
+              "id": "0220",
+              "start": 1026.273,
+              "end": 1030.531,
+              "text": "ou pour décrire une situation professionnelle stable.",
+              "sep": " "
+            },
+            {
+              "id": "0221",
+              "start": 1031.331,
+              "end": 1034.451,
+              "text": "Une valise ne peut évidemment pas avoir de contrat.",
+              "sep": " "
+            },
+            {
+              "id": "0222",
+              "start": 1035.931,
+              "end": 1039.111,
+              "text": "Marc utilise un mot du monde du travail pour parler d'un objet.",
+              "sep": " "
+            },
+            {
+              "id": "0223",
+              "start": 1040.391,
+              "end": 1045.771,
+              "text": "Le bureau a tellement besoin de cette valise qu'il la traite presque comme une ressource professionnelle.",
+              "sep": " "
+            },
+            {
+              "id": "0224",
+              "start": 1046.951,
+              "end": 1050.491,
+              "text": "Puis Marc ajoute : \"Si vous la reprenez maintenant,",
+              "sep": " "
+            },
+            {
+              "id": "0225",
+              "start": 1051.371,
+              "end": 1054.711,
+              "text": "nous sommes encore un bureau, mais nous sommes sans bureau.\"",
+              "sep": " "
+            },
+            {
+              "id": "0226",
+              "start": 1056.491,
+              "end": 1058.011,
+              "text": "La condition est importante :",
+              "sep": " "
+            },
+            {
+              "id": "0227",
+              "start": 1058.811,
+              "end": 1063.711,
+              "text": "si Camille reprend sa valise, elle récupère son bagage,",
+              "sep": " "
+            },
+            {
+              "id": "0228",
+              "start": 1064.051,
+              "end": 1066.731,
+              "text": "mais Marc perd sa table provisoire.",
+              "sep": " "
+            },
+            {
+              "id": "0229",
+              "start": 1068.531,
+              "end": 1071.011,
+              "text": "La phrase joue sur les deux sens du mot bureau :",
+              "sep": " "
+            },
+            {
+              "id": "0230",
+              "start": 1072.111,
+              "end": 1075.911,
+              "text": "le service existe encore, mais le meuble disparaît.",
+              "sep": " "
+            },
+            {
+              "id": "0231",
+              "start": 1077.251,
+              "end": 1080.691,
+              "text": "C'est pour cela que la valise est presque devenue indispensable.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p018",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0232",
+              "start": 1081.124,
+              "end": 1086.844,
+              "text": "Tout au long de la scène, les petites phrases servent à poser des repères très concrets.",
+              "sep": " "
+            },
+            {
+              "id": "0233",
+              "start": 1088.364,
+              "end": 1090.744,
+              "text": "Camille dit qui elle est et pourquoi elle est là.",
+              "sep": " "
+            },
+            {
+              "id": "0234",
+              "start": 1092.224,
+              "end": 1096.744,
+              "text": "Marc situe le service : vous êtes au bureau des objets trouvés.",
+              "sep": " "
+            },
+            {
+              "id": "0235",
+              "start": 1097.644,
+              "end": 1101.224,
+              "text": "La valise est verte, lourde, ici,",
+              "sep": " "
+            },
+            {
+              "id": "0236",
+              "start": 1102.404,
+              "end": 1105.724,
+              "text": "stable, pratique, puis presque employée.",
+              "sep": " "
+            },
+            {
+              "id": "0237",
+              "start": 1106.824,
+              "end": 1108.065,
+              "text": "Le bureau est en travaux.",
+              "sep": " "
+            },
+            {
+              "id": "0238",
+              "start": 1109.104,
+              "end": 1110.184,
+              "text": "Camille est fatiguée.",
+              "sep": " "
+            },
+            {
+              "id": "0239",
+              "start": 1111.124,
+              "end": 1117.845,
+              "text": "Chaque phrase répond à une question simple : qui parle, où sommes-nous, comment est l'objet,",
+              "sep": " "
+            },
+            {
+              "id": "0240",
+              "start": 1118.604,
+              "end": 1120.584,
+              "text": "et dans quel état se trouve la situation.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p019",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0241",
+              "start": 1121.904,
+              "end": 1123.664,
+              "text": "Le registre compte aussi.",
+              "sep": " "
+            },
+            {
+              "id": "0242",
+              "start": 1124.484,
+              "end": 1131.024,
+              "text": "Marc et Camille restent polis, même quand la situation devient absurde.",
+              "sep": " "
+            },
+            {
+              "id": "0243",
+              "start": 1132.444,
+              "end": 1135.644,
+              "text": "Marc parle sérieusement d'une valise qui sert de meuble.",
+              "sep": " "
+            },
+            {
+              "id": "0244",
+              "start": 1136.644,
+              "end": 1141.844,
+              "text": "Camille répond avec ironie, mais elle garde le cadre de la conversation.",
+              "sep": " "
+            },
+            {
+              "id": "0245",
+              "start": 1143.164,
+              "end": 1146.544,
+              "text": "Dans un service public, on peut être clair,",
+              "sep": " "
+            },
+            {
+              "id": "0246",
+              "start": 1147.924,
+              "end": 1153.384,
+              "text": "insister, corriger une situation, et rester poli.",
+              "sep": " "
+            },
+            {
+              "id": "0247",
+              "start": 1154.384,
+              "end": 1157.684,
+              "text": "Et parfois, une phrase très simple suffit :",
+              "sep": " "
+            },
+            {
+              "id": "0248",
+              "start": 1158.744,
+              "end": 1163.824,
+              "text": "\"Elle est à moi.\" Maintenant, écoutons le dialogue,",
+              "sep": " "
+            },
+            {
+              "id": "0249",
+              "start": 1164.884,
+              "end": 1166.824,
+              "text": "cette fois à vitesse naturelle.",
+              "sep": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04-dialogue-naturel",
+      "label": "Dialogue - vitesse naturelle",
+      "isDialogue": true,
+      "paragraphs": [
+        {
+          "id": "04-dialogue-naturel-p001",
+          "speaker": "Camille",
+          "cues": [
+            {
+              "id": "0250",
+              "start": 1173.892,
+              "end": 1175.812,
+              "text": "Bonjour, je suis Camille Morel.",
+              "sep": " "
+            },
+            {
+              "id": "0251",
+              "start": 1177.252,
+              "end": 1183.712,
+              "text": "Je suis ici pour une valise perdue depuis mardi soir, voie numéro six, entre deux annonces très dramatiques.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p002",
+          "speaker": "Marc",
+          "cues": [
+            {
+              "id": "0252",
+              "start": 1184.512,
+              "end": 1184.792,
+              "text": "Très bien.",
+              "sep": " "
+            },
+            {
+              "id": "0253",
+              "start": 1185.552,
+              "end": 1187.192,
+              "text": "Vous êtes au bureau des objets trouvés.",
+              "sep": " "
+            },
+            {
+              "id": "0254",
+              "start": 1187.972,
+              "end": 1188.932,
+              "text": "La valise est comment ?",
+              "sep": " "
+            },
+            {
+              "id": "0255",
+              "start": 1190.252,
+              "end": 1194.852,
+              "text": "Soyez précise : ici, les objets ont parfois beaucoup de personnalité.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p003",
+          "speaker": "Camille",
+          "cues": [
+            {
+              "id": "0256",
+              "start": 1195.552,
+              "end": 1199.332,
+              "text": "Elle est verte, assez grande, avec une petite étiquette rouge.",
+              "sep": " "
+            },
+            {
+              "id": "0257",
+              "start": 1201.012,
+              "end": 1202.592,
+              "text": "Elle est lourde, mais pas tragique.",
+              "sep": " "
+            },
+            {
+              "id": "0258",
+              "start": 1202.592,
+              "end": 1206.472,
+              "text": "Enfin, elle devient tragique sans mes pulls.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p004",
+          "speaker": "Marc",
+          "cues": [
+            {
+              "id": "0259",
+              "start": 1206.752,
+              "end": 1207.002,
+              "text": "Ah.",
+              "sep": " "
+            },
+            {
+              "id": "0260",
+              "start": 1207.252,
+              "end": 1208.852,
+              "text": "Elle est peut-être ici.",
+              "sep": " "
+            },
+            {
+              "id": "0261",
+              "start": 1209.632,
+              "end": 1214.112,
+              "text": "Je ne veux pas être trop affirmatif devant une valise que je connais depuis seulement deux jours.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p005",
+          "speaker": "Camille",
+          "cues": [
+            {
+              "id": "0262",
+              "start": 1214.812,
+              "end": 1215.233,
+              "text": "Peut-être ?",
+              "sep": " "
+            },
+            {
+              "id": "0263",
+              "start": 1216.872,
+              "end": 1219.132,
+              "text": "Vous avez l'air très sûr pour un \"peut-être\".",
+              "sep": " "
+            },
+            {
+              "id": "0264",
+              "start": 1220.452,
+              "end": 1223.852,
+              "text": "Votre regard est celui d'un homme qui a déjà vu mon étiquette rouge.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p006",
+          "speaker": "Marc",
+          "cues": [
+            {
+              "id": "0265",
+              "start": 1223.852,
+              "end": 1225.292,
+              "text": "Je suis prudent.",
+              "sep": " "
+            },
+            {
+              "id": "0266",
+              "start": 1226.552,
+              "end": 1229.432,
+              "text": "Dans une gare, une valise verte peut être une valise,",
+              "sep": " "
+            },
+            {
+              "id": "0267",
+              "start": 1230.112,
+              "end": 1233.772,
+              "text": "un souvenir, ou un problème administratif avec des roulettes.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p007",
+          "speaker": "Camille",
+          "cues": [
+            {
+              "id": "0268",
+              "start": 1234.392,
+              "end": 1235.072,
+              "text": "Elle est à moi.",
+              "sep": " "
+            },
+            {
+              "id": "0269",
+              "start": 1236.512,
+              "end": 1240.612,
+              "text": "À l'intérieur, il y a des livres, deux pulls, et un cadeau pour ma tante.",
+              "sep": " "
+            },
+            {
+              "id": "0270",
+              "start": 1242.152,
+              "end": 1244.292,
+              "text": "Ma tante est patiente, mais pas à ce point.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p008",
+          "speaker": "Marc",
+          "cues": [
+            {
+              "id": "0271",
+              "start": 1244.292,
+              "end": 1245.372,
+              "text": "D'accord.",
+              "sep": " "
+            },
+            {
+              "id": "0272",
+              "start": 1246.512,
+              "end": 1247.492,
+              "text": "Le cadeau est fragile ?",
+              "sep": " "
+            },
+            {
+              "id": "0273",
+              "start": 1248.592,
+              "end": 1253.392,
+              "text": "Nous avons une lampe bleue, trois romans, et une odeur de menthe qui est assez confiante.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p009",
+          "speaker": "Camille",
+          "cues": [
+            {
+              "id": "0274",
+              "start": 1254.072,
+              "end": 1255.712,
+              "text": "Oui, c'est une petite lampe bleue.",
+              "sep": " "
+            },
+            {
+              "id": "0275",
+              "start": 1257.072,
+              "end": 1258.572,
+              "text": "L'odeur de menthe, c'est mon savon.",
+              "sep": " "
+            },
+            {
+              "id": "0276",
+              "start": 1259.352,
+              "end": 1260.652,
+              "text": "Il est plus organisé que moi.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p010",
+          "speaker": "Marc",
+          "cues": [
+            {
+              "id": "0277",
+              "start": 1261.292,
+              "end": 1263.272,
+              "text": "Alors la valise est ici depuis mardi.",
+              "sep": " "
+            },
+            {
+              "id": "0278",
+              "start": 1264.032,
+              "end": 1268.812,
+              "text": "Elle est stable, elle est pratique, et elle est très respectée par l'équipe du matin.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p011",
+          "speaker": "Camille",
+          "cues": [
+            {
+              "id": "0279",
+              "start": 1269.992,
+              "end": 1270.512,
+              "text": "Respectée ?",
+              "sep": " "
+            },
+            {
+              "id": "0280",
+              "start": 1271.032,
+              "end": 1272.772,
+              "text": "Je cherche une valise, pas une collègue.",
+              "sep": " "
+            },
+            {
+              "id": "0281",
+              "start": 1273.852,
+              "end": 1276.712,
+              "text": "Pourquoi est-ce qu'elle a une carrière pendant que je porte le même pull ?",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p012",
+          "speaker": "Marc",
+          "cues": [
+            {
+              "id": "0282",
+              "start": 1277.412,
+              "end": 1277.852,
+              "text": "Bien sûr.",
+              "sep": " "
+            },
+            {
+              "id": "0283",
+              "start": 1278.672,
+              "end": 1280.072,
+              "text": "Mais notre bureau est en travaux.",
+              "sep": " "
+            },
+            {
+              "id": "0284",
+              "start": 1280.772,
+              "end": 1286.832,
+              "text": "La table est cassée, les chaises sont dans le couloir, et votre valise est exactement à la bonne hauteur.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p013",
+          "speaker": "Camille",
+          "cues": [
+            {
+              "id": "0285",
+              "start": 1287.512,
+              "end": 1289.512,
+              "text": "Vous voulez dire que ma valise est sous vos dossiers ?",
+              "sep": " "
+            },
+            {
+              "id": "0286",
+              "start": 1290.772,
+              "end": 1292.872,
+              "text": "J'espère qu'elle n'est pas responsable du budget.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p014",
+          "speaker": "Marc",
+          "cues": [
+            {
+              "id": "0287",
+              "start": 1292.872,
+              "end": 1293.992,
+              "text": "Pas sous.",
+              "sep": " "
+            },
+            {
+              "id": "0288",
+              "start": 1295.272,
+              "end": 1302.212,
+              "text": "Elle est le support officiel des dossiers urgents, du formulaire jaune, et d'un petit panneau \"merci de patienter\".",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p015",
+          "speaker": "Camille",
+          "cues": [
+            {
+              "id": "0289",
+              "start": 1302.472,
+              "end": 1308.292,
+              "text": "Monsieur, je suis fatiguée, mes pulls sont prisonniers, et ma tante est sans cadeau.",
+              "sep": " "
+            },
+            {
+              "id": "0290",
+              "start": 1309.812,
+              "end": 1312.312,
+              "text": "Est-ce que je peux récupérer ma valise avant sa promotion ?",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p016",
+          "speaker": "Marc",
+          "cues": [
+            {
+              "id": "0291",
+              "start": 1312.892,
+              "end": 1314.492,
+              "text": "Oui, mais doucement.",
+              "sep": " "
+            },
+            {
+              "id": "0292",
+              "start": 1315.352,
+              "end": 1321.252,
+              "text": "Le formulaire jaune est dessus, le tampon est dessus, et mon café est malheureusement dessus aussi.",
+              "sep": " "
+            },
+            {
+              "id": "0293",
+              "start": 1322.352,
+              "end": 1323.872,
+              "text": "Il est presque vide, par chance.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p017",
+          "speaker": "Camille",
+          "cues": [
+            {
+              "id": "0294",
+              "start": 1324.412,
+              "end": 1325.992,
+              "text": "Donc ma valise n'est pas perdue.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p018",
+          "speaker": "Marc",
+          "cues": [
+            {
+              "id": "0295",
+              "start": 1326.572,
+              "end": 1326.872,
+              "text": "Non.",
+              "sep": " "
+            },
+            {
+              "id": "0296",
+              "start": 1327.632,
+              "end": 1330.412,
+              "text": "Elle est en C D I jusqu'à la livraison de la nouvelle table.",
+              "sep": " "
+            },
+            {
+              "id": "0297",
+              "start": 1331.452,
+              "end": 1335.852,
+              "text": "Si vous la reprenez maintenant, nous sommes encore un bureau, mais nous sommes sans bureau.",
+              "sep": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "05-conclusion",
+      "label": "Conclusion",
+      "isDialogue": false,
+      "paragraphs": [
+        {
+          "id": "05-conclusion-p001",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0298",
+              "start": 1342.874,
+              "end": 1345.714,
+              "text": "Voilà pour \"La valise verte\".",
+              "sep": " "
+            },
+            {
+              "id": "0299",
+              "start": 1347.074,
+              "end": 1353.914,
+              "text": "Aujourd'hui, nous avons suivi une situation très concrète : une voyageuse, un service,",
+              "sep": " "
+            },
+            {
+              "id": "0300",
+              "start": 1354.734,
+              "end": 1358.994,
+              "text": "un bureau qui manque de bureau, et une valise un peu trop bien installée.",
+              "sep": " "
+            },
+            {
+              "id": "0301",
+              "start": 1360.714,
+              "end": 1366.254,
+              "text": "Retenez surtout que de petites phrases avec être peuvent faire beaucoup de travail : se présenter,",
+              "sep": " "
+            },
+            {
+              "id": "0302",
+              "start": 1367.274,
+              "end": 1372.074,
+              "text": "situer un objet, décrire son état, et corriger une idée.",
+              "sep": " "
+            },
+            {
+              "id": "0303",
+              "start": 1372.874,
+              "end": 1376.074,
+              "text": "À bientôt dans le Podcast de français langue étrangère,",
+              "sep": " "
+            },
+            {
+              "id": "0304",
+              "start": 1376.094,
+              "end": 1379.934,
+              "text": "et si un objet perdu semble très respecté par l'équipe,",
+              "sep": " "
+            },
+            {
+              "id": "0305",
+              "start": 1380.874,
+              "end": 1383.114,
+              "text": "demandez d'abord s'il est vraiment disponible.",
+              "sep": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

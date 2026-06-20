@@ -91,6 +91,11 @@ head:
       }
 ---
 
+<script setup>
+import PodcastPlayer from '@theme/components/PodcastPlayer.vue'
+import cues from './002-la-valise-verte.cues.json'
+</script>
+
 # Vox Français 002 — La valise verte
 
 Cette page accompagne l’épisode 002 de Vox Français, une série skepvox de Thiago Oliveira pour apprendre le français. Elle réunit la transcription complète, le dialogue et le guide d’apprentissage.
@@ -103,139 +108,7 @@ Cette page accompagne l’épisode 002 de Vox Français, une série skepvox de T
 
 ## Transcription complète
 
-Utilisez les sections suivantes pour accéder directement à la transcription, au dialogue lent, à l’explication et à la reprise à vitesse naturelle.
-
-## Introduction
-
-Bonjour et bienvenue dans le Podcast de français langue étrangère, le podcast pour apprendre le français avec une scène courte, un dialogue vivant et une explication claire. Aujourd'hui, nous sommes dans une gare, au bureau des objets trouvés. Camille cherche une valise verte qu'elle a perdue après un voyage. Marc, l'employé, l'aide à décrire l'objet : couleur, taille, étiquette, contenu et lieu. Très vite, la situation devient moins simple qu'un formulaire. C'est parti.
-
-## Dialogue - version lente
-
-[début du dialogue]
-
-Camille : Bonjour, je suis Camille Morel. Je suis ici pour une valise perdue depuis mardi soir, voie numéro six, entre deux annonces très dramatiques.
-
-Marc : Très bien. Vous êtes au bureau des objets trouvés. La valise est comment ? Soyez précise : ici, les objets ont parfois beaucoup de personnalité.
-
-Camille : Elle est verte, assez grande, avec une petite étiquette rouge. Elle est lourde, mais pas tragique. Enfin, elle devient tragique sans mes pulls.
-
-Marc : Ah. Elle est peut-être ici. Je ne veux pas être trop affirmatif devant une valise que je connais depuis seulement deux jours.
-
-Camille : Peut-être ? Vous avez l'air très sûr pour un "peut-être". Votre regard est celui d'un homme qui a déjà vu mon étiquette rouge.
-
-Marc : Je suis prudent. Dans une gare, une valise verte peut être une valise, un souvenir, ou un problème administratif avec des roulettes.
-
-Camille : Elle est à moi. À l'intérieur, il y a des livres, deux pulls, et un cadeau pour ma tante. Ma tante est patiente, mais pas à ce point.
-
-Marc : D'accord. Le cadeau est fragile ? Nous avons une lampe bleue, trois romans, et une odeur de menthe qui est assez confiante.
-
-Camille : Oui, c'est une petite lampe bleue. L'odeur de menthe, c'est mon savon. Il est plus organisé que moi.
-
-Marc : Alors la valise est ici depuis mardi. Elle est stable, elle est pratique, et elle est très respectée par l'équipe du matin.
-
-Camille : Respectée ? Je cherche une valise, pas une collègue. Pourquoi est-ce qu'elle a une carrière pendant que je porte le même pull ?
-
-Marc : Bien sûr. Mais notre bureau est en travaux. La table est cassée, les chaises sont dans le couloir, et votre valise est exactement à la bonne hauteur.
-
-Camille : Vous voulez dire que ma valise est sous vos dossiers ? J'espère qu'elle n'est pas responsable du budget.
-
-Marc : Pas sous. Elle est le support officiel des dossiers urgents, du formulaire jaune, et d'un petit panneau "merci de patienter".
-
-Camille : Monsieur, je suis fatiguée, mes pulls sont prisonniers, et ma tante est sans cadeau. Est-ce que je peux récupérer ma valise avant sa promotion ?
-
-Marc : Oui, mais doucement. Le formulaire jaune est dessus, le tampon est dessus, et mon café est malheureusement dessus aussi. Il est presque vide, par chance.
-
-Camille : Donc ma valise n'est pas perdue.
-
-Marc : Non. Elle est en CDI jusqu'à la livraison de la nouvelle table. Si vous la reprenez maintenant, nous sommes encore un bureau, mais nous sommes sans bureau.
-
-[fin du dialogue]
-
-## Explication
-
-Dans ce dialogue, Camille arrive dans une gare. Elle va au bureau des objets trouvés. Ce service garde les objets oubliés ou retrouvés : un sac, une clé, un téléphone, un parapluie, ou ici, une valise. Camille commence simplement : "Bonjour, je suis Camille Morel." Elle donne son identité. Puis elle ajoute : "Je suis ici pour une valise perdue." Cette phrase est très utile dans un service public. "Je suis ici pour..." annonce l'objectif : je suis ici pour un rendez-vous, pour un colis, pour une inscription, pour une valise. La phrase reste très simple, mais elle sert tout de suite à agir.
-
-Camille situe ensuite la scène : "depuis mardi soir, voie numéro six, entre deux annonces très dramatiques." La voie, dans une gare, c'est l'endroit où le train arrive ou part. À l'oral, voie se prononce exactement comme la voix d'une personne ; seul le contexte de la gare permet de distinguer les deux. Une annonce est un message que l'on entend dans la gare. Camille dit "très dramatiques" avec humour, parce que les annonces peuvent être rapides, fortes, et un peu stressantes quand on voyage. Le détail "depuis mardi soir" donne aussi le temps du problème. La valise n'est pas perdue depuis cinq minutes. Camille a attendu, elle a cherché, et maintenant elle vient demander de l'aide.
-
-Marc répond : "Vous êtes au bureau des objets trouvés." Ici, "vous êtes" situe Camille dans le bon service. Elle n'est pas au guichet des billets, elle n'est pas sur le quai, elle est au bureau où l'on cherche les objets perdus. Cette petite formule rassure aussi Camille : elle est au bon endroit, et elle peut commencer sa demande. Remarquez le ton : Marc dit vous. Camille et Marc ne se connaissent pas, et l'échange se passe dans une interaction de service. Le vouvoiement garde la distance polie. À l'oral, la liaison dans "vous êtes" est très fréquente. Elle aide aussi à entendre la formule comme un bloc très naturel.
-
-Marc demande : "La valise est comment ?" Il ne demande pas encore toute l'histoire ; il demande une description. Dans un bureau des objets trouvés, il faut être précis. Le mot précis signifie : clair, détaillé, pas vague. Camille répond donc : "Elle est verte, assez grande, avec une petite étiquette rouge." L'étiquette est la petite carte attachée à la valise. Elle peut porter un nom, une adresse ou un signe qui permet de reconnaître le bagage. Ici, l'étiquette rouge devient un indice important. Marc semble la connaître.
-
-Camille continue : "Elle est lourde, mais pas tragique." On dit lourd au masculin et lourde au féminin. Le sens est le même : l'objet pèse beaucoup. Tragique est un mot beaucoup plus fort, presque théâtral. Camille joue avec ce contraste. Une valise peut être lourde, mais normalement elle n'est pas tragique. Elle devient tragique parce que ses pulls sont dedans. Un pull est un vêtement chaud, et Camille porte déjà le même pull depuis trop longtemps. Le détail est petit, concret, et il rend son problème très humain.
-
-Marc répond avec prudence : "Elle est peut-être ici." Peut-être marque l'incertitude. Mais sa phrase suivante le trahit un peu : il ne veut pas être "trop affirmatif" devant une valise qu'il connaît depuis deux jours. Normalement, on ne connaît pas une valise comme une personne. On peut la voir, la ranger, la retrouver. Marc parle déjà comme si la valise avait une petite place dans la vie du bureau. Camille entend cette nuance. Elle lui dit qu'il a l'air très sûr pour un "peut-être". Avoir l'air signifie sembler. Son regard donne plus d'information que ses mots.
-
-Marc se présente alors comme prudent : "Je suis prudent." Ici, être décrit une attitude. Il ne dit pas seulement où il est ; il explique comment il se comporte. Puis il transforme la valise en "problème administratif avec des roulettes". Cette expression est très bonne pour la scène. Les roulettes appartiennent au monde du voyage. Le problème administratif appartient au monde des formulaires, des dossiers et des services. En mélangeant les deux, Marc montre que la valise n'est déjà plus seulement un bagage. Elle fait maintenant partie de ce service.
-
-Camille insiste : "Elle est à moi." Cette structure indique la possession. On peut dire : ce sac est à moi, cette place est à vous, ces clés sont au gardien. Camille ne décrit plus la couleur ou la taille ; elle affirme que la valise lui appartient. Elle ajoute ce qu'il y a à l'intérieur : des livres, deux pulls, un cadeau pour sa tante. Le cadeau est important parce qu'il ajoute une pression personnelle. Camille ne cherche pas seulement un objet anonyme. Elle veut récupérer ses affaires, et elle veut offrir quelque chose à quelqu'un.
-
-Marc vérifie le contenu : "Le cadeau est fragile ?" Fragile veut dire que l'objet peut se casser facilement. Une lampe, un verre, une assiette peuvent être fragiles. Camille confirme : c'est une petite lampe bleue. Et là, Marc devient suspect : il parle de trois romans et d'une odeur de menthe. Une odeur est ce que l'on sent avec le nez. La menthe peut venir d'un bonbon, d'un thé, ou ici, du savon de Camille. Le savon sert à se laver. Ces détails prouvent que Marc connaît très bien le contenu. Il n'a pas seulement vu la valise de loin.
-
-Marc l'avoue presque : "Alors la valise est ici depuis mardi." Être ici situe l'objet. Puis il ajoute trois adjectifs : "Elle est stable, elle est pratique, et elle est très respectée." Stable signifie que l'objet ne bouge pas facilement. Pratique signifie utile, facile à utiliser. Ces deux mots peuvent décrire une valise posée quelque part. Mais respectée est plus étrange. On respecte une personne, une collègue, une directrice. Quand Marc dit que la valise est respectée, il lui donne presque un statut humain.
-
-Camille réagit tout de suite : "Je cherche une valise, pas une collègue." Une collègue est une personne avec qui l'on travaille. Cette phrase montre tout le décalage : Marc parle d'un bagage comme d'une employée. Camille continue avec "sa carrière". Une carrière, c'est le parcours professionnel d'une personne. La valise a donc, dans l'imagination de Marc, une vie de bureau. Camille, elle, reste avec son même pull, et sa tante n'a toujours pas de cadeau. Le contraste est sec, mais très clair.
-
-Marc explique enfin le problème matériel : "Notre bureau est en travaux." Un lieu est en travaux quand on le répare ou quand on le transforme. La table est cassée, les chaises sont dans le couloir, et la valise est à la bonne hauteur. Voilà pourquoi elle est si utile. Le mot bureau est déjà intéressant ici. Il peut désigner le service des objets trouvés, mais aussi un meuble, une table de travail. Marc travaille dans un bureau qui n'a presque plus de bureau. La valise remplit ce manque.
-
-Camille demande si sa valise est sous les dossiers. Sous veut dire en dessous. Marc corrige : "Pas sous. Elle est le support officiel des dossiers urgents." Un support, c'est ce qui porte ou soutient quelque chose. Les dossiers sont des documents liés à une demande, une affaire ou une procédure. Le formulaire jaune est un papier à remplir. Le tampon sert à marquer un document avec de l'encre. Tous ces mots donnent une atmosphère administrative très concrète. La valise est devenue une petite table officielle, même si personne ne l'a demandé à Camille.
-
-Camille reste polie, mais elle devient ferme : "Monsieur, je suis fatiguée, mes pulls sont prisonniers, et ma tante est sans cadeau." Monsieur garde la forme correcte de l'échange. Mais la phrase montre aussi son agacement. "Je suis fatiguée" décrit son état. "Mes pulls sont prisonniers" transforme les vêtements en petits captifs comiques. "Ma tante est sans cadeau" rappelle l'urgence familiale. Camille reprend donc la logique absurde de Marc, mais elle la met au service de sa demande : elle veut récupérer sa valise avant "sa promotion".
-
-Marc accepte, mais lentement. Le formulaire est dessus, le tampon est dessus, et son café est dessus aussi. Dessus indique une position : sur la valise. Sous et dessus sont très utiles pour parler d'un bureau, d'une table, d'une étagère, d'un sac. Ici, ils sont aussi drôles parce qu'ils montrent à quel point la valise a été intégrée au fonctionnement du bureau. Marc ne doit pas seulement rendre un objet. Il doit retirer une solution provisoire.
-
-Camille comprend enfin : "Donc ma valise n'est pas perdue." Cette phrase retourne toute la scène. Au début, elle vient chercher une valise perdue. À la fin, elle découvre que la valise est là, mais qu'elle est occupée par des dossiers, un formulaire, un tampon et même un café. La correction est très simple : elle n'est pas perdue, elle est utilisée. En quelques mots, Camille passe donc d'une enquête sur un objet disparu à une négociation pour récupérer une table improvisée.
-
-La dernière réplique de Marc donne le vrai statut absurde de l'objet : "Elle est en CDI jusqu'à la livraison de la nouvelle table." Un CDI est un contrat de travail stable. Dans la vie courante, on parle d'un CDI dans une annonce d'emploi, dans un contrat de travail, ou pour décrire une situation professionnelle stable. Une valise ne peut évidemment pas avoir de contrat. Marc utilise un mot du monde du travail pour parler d'un objet. Le bureau a tellement besoin de cette valise qu'il la traite presque comme une ressource professionnelle. Puis Marc ajoute : "Si vous la reprenez maintenant, nous sommes encore un bureau, mais nous sommes sans bureau." La condition est importante : si Camille reprend sa valise, elle récupère son bagage, mais Marc perd sa table provisoire. La phrase joue sur les deux sens du mot bureau : le service existe encore, mais le meuble disparaît. C'est pour cela que la valise est presque devenue indispensable.
-
-Tout au long de la scène, les petites phrases servent à poser des repères très concrets. Camille dit qui elle est et pourquoi elle est là. Marc situe le service : vous êtes au bureau des objets trouvés. La valise est verte, lourde, ici, stable, pratique, puis presque employée. Le bureau est en travaux. Camille est fatiguée. Chaque phrase répond à une question simple : qui parle, où sommes-nous, comment est l'objet, et dans quel état se trouve la situation.
-
-Le registre compte aussi. Marc et Camille restent polis, même quand la situation devient absurde. Marc parle sérieusement d'une valise qui sert de meuble. Camille répond avec ironie, mais elle garde le cadre de la conversation. Dans un service public, on peut être clair, insister, corriger une situation, et rester poli. Et parfois, une phrase très simple suffit : "Elle est à moi." Maintenant, écoutons le dialogue, cette fois à vitesse naturelle.
-
-## Dialogue - vitesse naturelle
-
-[début du dialogue]
-
-Camille : Bonjour, je suis Camille Morel. Je suis ici pour une valise perdue depuis mardi soir, voie numéro six, entre deux annonces très dramatiques.
-
-Marc : Très bien. Vous êtes au bureau des objets trouvés. La valise est comment ? Soyez précise : ici, les objets ont parfois beaucoup de personnalité.
-
-Camille : Elle est verte, assez grande, avec une petite étiquette rouge. Elle est lourde, mais pas tragique. Enfin, elle devient tragique sans mes pulls.
-
-Marc : Ah. Elle est peut-être ici. Je ne veux pas être trop affirmatif devant une valise que je connais depuis seulement deux jours.
-
-Camille : Peut-être ? Vous avez l'air très sûr pour un "peut-être". Votre regard est celui d'un homme qui a déjà vu mon étiquette rouge.
-
-Marc : Je suis prudent. Dans une gare, une valise verte peut être une valise, un souvenir, ou un problème administratif avec des roulettes.
-
-Camille : Elle est à moi. À l'intérieur, il y a des livres, deux pulls, et un cadeau pour ma tante. Ma tante est patiente, mais pas à ce point.
-
-Marc : D'accord. Le cadeau est fragile ? Nous avons une lampe bleue, trois romans, et une odeur de menthe qui est assez confiante.
-
-Camille : Oui, c'est une petite lampe bleue. L'odeur de menthe, c'est mon savon. Il est plus organisé que moi.
-
-Marc : Alors la valise est ici depuis mardi. Elle est stable, elle est pratique, et elle est très respectée par l'équipe du matin.
-
-Camille : Respectée ? Je cherche une valise, pas une collègue. Pourquoi est-ce qu'elle a une carrière pendant que je porte le même pull ?
-
-Marc : Bien sûr. Mais notre bureau est en travaux. La table est cassée, les chaises sont dans le couloir, et votre valise est exactement à la bonne hauteur.
-
-Camille : Vous voulez dire que ma valise est sous vos dossiers ? J'espère qu'elle n'est pas responsable du budget.
-
-Marc : Pas sous. Elle est le support officiel des dossiers urgents, du formulaire jaune, et d'un petit panneau "merci de patienter".
-
-Camille : Monsieur, je suis fatiguée, mes pulls sont prisonniers, et ma tante est sans cadeau. Est-ce que je peux récupérer ma valise avant sa promotion ?
-
-Marc : Oui, mais doucement. Le formulaire jaune est dessus, le tampon est dessus, et mon café est malheureusement dessus aussi. Il est presque vide, par chance.
-
-Camille : Donc ma valise n'est pas perdue.
-
-Marc : Non. Elle est en CDI jusqu'à la livraison de la nouvelle table. Si vous la reprenez maintenant, nous sommes encore un bureau, mais nous sommes sans bureau.
-
-[fin du dialogue]
-
-## Conclusion
-
-Voilà pour "La valise verte". Aujourd'hui, nous avons suivi une situation très concrète : une voyageuse, un service, un bureau qui manque de bureau, et une valise un peu trop bien installée. Retenez surtout que de petites phrases avec être peuvent faire beaucoup de travail : se présenter, situer un objet, décrire son état, et corriger une idée. À bientôt dans le Podcast de français langue étrangère, et si un objet perdu semble très respecté par l'équipe, demandez d'abord s'il est vraiment disponible.
+<PodcastPlayer :episode="cues.episode" :sections="cues.sections" />
 
 ## Guide d'apprentissage
 
