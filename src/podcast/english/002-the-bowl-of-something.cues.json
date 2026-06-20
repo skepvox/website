@@ -1,0 +1,2300 @@
+{
+  "episode": {
+    "id": "english-002",
+    "title": "The Bowl of Something",
+    "showTitle": "Vox English",
+    "audioUrl": "https://media.skepvox.com/podcast/english/audio/english-002-the-bowl-of-something-v1.mp3",
+    "artworkUrl": "https://media.skepvox.com/podcast/english/artwork/show-cover-v3.jpg",
+    "lang": "en",
+    "durationSeconds": 1309.062
+  },
+  "sections": [
+    {
+      "id": "01-introduction",
+      "label": "Introduction",
+      "isDialogue": false,
+      "paragraphs": [
+        {
+          "id": "01-introduction-p001",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0001",
+              "start": 0.0,
+              "end": 2.12,
+              "text": "Welcome to Vox English.",
+              "sep": " "
+            },
+            {
+              "id": "0002",
+              "start": 3.22,
+              "end": 6.82,
+              "text": "Today we are in a kitchen just before a visit downstairs.",
+              "sep": " "
+            },
+            {
+              "id": "0003",
+              "start": 7.66,
+              "end": 14.12,
+              "text": "Grace expected a simple neighbor invitation, but Sam is already standing over a pan, a wooden spoon,",
+              "sep": " "
+            },
+            {
+              "id": "0004",
+              "start": 14.36,
+              "end": 16.92,
+              "text": "and a smell with far too much personality.",
+              "sep": " "
+            },
+            {
+              "id": "0005",
+              "start": 17.58,
+              "end": 19.36,
+              "text": "The conversation stays friendly,",
+              "sep": " "
+            },
+            {
+              "id": "0006",
+              "start": 19.72,
+              "end": 25.601,
+              "text": "but she has to separate practical help from creative interpretation before they leave the flat.",
+              "sep": " "
+            },
+            {
+              "id": "0007",
+              "start": 26.58,
+              "end": 30.4,
+              "text": "Listen for the small words that make a plan feel relaxed,",
+              "sep": " "
+            },
+            {
+              "id": "0008",
+              "start": 30.96,
+              "end": 34.46,
+              "text": "and for the moment relaxation stops being enough.",
+              "sep": " "
+            },
+            {
+              "id": "0009",
+              "start": 35.62,
+              "end": 36.38,
+              "text": "Let's get started.",
+              "sep": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-dialogue-slow",
+      "label": "Dialogue - slow version",
+      "isDialogue": true,
+      "paragraphs": [
+        {
+          "id": "02-dialogue-slow-p001",
+          "speaker": "Grace",
+          "cues": [
+            {
+              "id": "0010",
+              "start": 43.466,
+              "end": 47.206,
+              "text": "Why does the kitchen smell like confidence and panic,",
+              "sep": " "
+            },
+            {
+              "id": "0011",
+              "start": 47.366,
+              "end": 53.626,
+              "text": "and why is the wooden spoon standing upright as if it has seen things?",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-slow-p002",
+          "speaker": "Sam",
+          "cues": [
+            {
+              "id": "0012",
+              "start": 54.446,
+              "end": 54.696,
+              "text": "Soup.",
+              "sep": " "
+            },
+            {
+              "id": "0013",
+              "start": 55.426,
+              "end": 56.706,
+              "text": "More or less soup.",
+              "sep": " "
+            },
+            {
+              "id": "0014",
+              "start": 57.206,
+              "end": 62.366,
+              "text": "It started as a simple neighbor thing, and then the garlic got ideas.",
+              "sep": " "
+            },
+            {
+              "id": "0015",
+              "start": 62.646,
+              "end": 66.666,
+              "text": "I was trying to be helpful in a warm, liquid direction.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-slow-p003",
+          "speaker": "Grace",
+          "cues": [
+            {
+              "id": "0016",
+              "start": 67.386,
+              "end": 71.006,
+              "text": "I thought Mrs Patel invited us downstairs at seven.",
+              "sep": " "
+            },
+            {
+              "id": "0017",
+              "start": 71.166,
+              "end": 72.546,
+              "text": "As guests.",
+              "sep": " "
+            },
+            {
+              "id": "0018",
+              "start": 72.546,
+              "end": 74.486,
+              "text": "With shoes on.",
+              "sep": " "
+            },
+            {
+              "id": "0019",
+              "start": 74.826,
+              "end": 76.306,
+              "text": "Not as a second kitchen.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-slow-p004",
+          "speaker": "Sam",
+          "cues": [
+            {
+              "id": "0020",
+              "start": 77.206,
+              "end": 79.046,
+              "text": "Around seven.",
+              "sep": " "
+            },
+            {
+              "id": "0021",
+              "start": 79.046,
+              "end": 80.086,
+              "text": "Sevenish.",
+              "sep": " "
+            },
+            {
+              "id": "0022",
+              "start": 81.126,
+              "end": 85.886,
+              "text": "She said bring something light, so I went with soup-adjacent generosity.",
+              "sep": " "
+            },
+            {
+              "id": "0023",
+              "start": 86.686,
+              "end": 90.226,
+              "text": "It felt modest before the pasta became involved.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-slow-p005",
+          "speaker": "Grace",
+          "cues": [
+            {
+              "id": "0024",
+              "start": 91.306,
+              "end": 93.546,
+              "text": "Soup-adjacent is already worrying.",
+              "sep": " "
+            },
+            {
+              "id": "0025",
+              "start": 94.506,
+              "end": 98.726,
+              "text": "What recipe are you following, and does it know it's being followed?",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-slow-p006",
+          "speaker": "Sam",
+          "cues": [
+            {
+              "id": "0026",
+              "start": 99.406,
+              "end": 101.187,
+              "text": "Her voice note, mostly.",
+              "sep": " "
+            },
+            {
+              "id": "0027",
+              "start": 101.666,
+              "end": 105.686,
+              "text": "A glug of oil, a bit of onion, a couple of carrots or so,",
+              "sep": " "
+            },
+            {
+              "id": "0028",
+              "start": 106.006,
+              "end": 109.107,
+              "text": "then the red powder thingy from the back of the cupboard.",
+              "sep": " "
+            },
+            {
+              "id": "0029",
+              "start": 109.526,
+              "end": 112.886,
+              "text": "The exact sequence got emotionally flexible.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-slow-p007",
+          "speaker": "Grace",
+          "cues": [
+            {
+              "id": "0030",
+              "start": 113.946,
+              "end": 117.026,
+              "text": "That red powder thingy is smoked paprika,",
+              "sep": " "
+            },
+            {
+              "id": "0031",
+              "start": 117.446,
+              "end": 123.326,
+              "text": "and \"or so\" after carrots is not where cooking becomes relaxed.",
+              "sep": " "
+            },
+            {
+              "id": "0032",
+              "start": 124.086,
+              "end": 125.846,
+              "text": "How much did you use?",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-slow-p008",
+          "speaker": "Sam",
+          "cues": [
+            {
+              "id": "0033",
+              "start": 126.846,
+              "end": 128.566,
+              "text": "A respectful cloud.",
+              "sep": " "
+            },
+            {
+              "id": "0034",
+              "start": 129.346,
+              "end": 130.926,
+              "text": "Maybe a dramatic teaspoon.",
+              "sep": " "
+            },
+            {
+              "id": "0035",
+              "start": 131.366,
+              "end": 135.887,
+              "text": "It looked friendly until the pan developed a position on garlic.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-slow-p009",
+          "speaker": "Grace",
+          "cues": [
+            {
+              "id": "0036",
+              "start": 136.926,
+              "end": 139.706,
+              "text": "Sam, why is there pasta in it?",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-slow-p010",
+          "speaker": "Sam",
+          "cues": [
+            {
+              "id": "0037",
+              "start": 140.566,
+              "end": 140.816,
+              "text": "Texture.",
+              "sep": " "
+            },
+            {
+              "id": "0038",
+              "start": 141.566,
+              "end": 143.246,
+              "text": "Also reassurance.",
+              "sep": " "
+            },
+            {
+              "id": "0039",
+              "start": 144.226,
+              "end": 150.326,
+              "text": "She mentioned a bowl, and a bowl with only liquid can feel emotionally underdressed,",
+              "sep": " "
+            },
+            {
+              "id": "0040",
+              "start": 150.786,
+              "end": 153.926,
+              "text": "especially when the evening is trying to be neighborly.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-slow-p011",
+          "speaker": "Grace",
+          "cues": [
+            {
+              "id": "0041",
+              "start": 154.686,
+              "end": 155.146,
+              "text": "Wait.",
+              "sep": " "
+            },
+            {
+              "id": "0042",
+              "start": 156.866,
+              "end": 159.806,
+              "text": "Which message are you working from?",
+              "sep": " "
+            },
+            {
+              "id": "0043",
+              "start": 160.046,
+              "end": 165.386,
+              "text": "The actual invitation, not the culinary weather system in your head.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-slow-p012",
+          "speaker": "Sam",
+          "cues": [
+            {
+              "id": "0044",
+              "start": 165.766,
+              "end": 171.726,
+              "text": "The one under the tomato tin, because my phone was getting splashed with purpose. Here.",
+              "sep": " "
+            },
+            {
+              "id": "0045",
+              "start": 171.926,
+              "end": 174.066,
+              "text": "It says \"bring a bowl or something\".",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-slow-p013",
+          "speaker": "Grace",
+          "cues": [
+            {
+              "id": "0046",
+              "start": 174.366,
+              "end": 177.926,
+              "text": "It says, \"Bring a bowl or something.",
+              "sep": " "
+            },
+            {
+              "id": "0047",
+              "start": 178.426,
+              "end": 182.026,
+              "text": "I've made soup.\" She needed containers.",
+              "sep": " "
+            },
+            {
+              "id": "0048",
+              "start": 183.286,
+              "end": 187.286,
+              "text": "Bowls, spoons, maybe napkins, stuff like that.",
+              "sep": " "
+            },
+            {
+              "id": "0049",
+              "start": 188.066,
+              "end": 193.826,
+              "text": "You heard \"bring a bowl or something\" and made a bowl of something in a separate pan.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-slow-p014",
+          "speaker": "Sam",
+          "cues": [
+            {
+              "id": "0050",
+              "start": 194.306,
+              "end": 198.707,
+              "text": "In my defense, English placed the trap very close to the soup.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-slow-p015",
+          "speaker": "Grace",
+          "cues": [
+            {
+              "id": "0051",
+              "start": 199.406,
+              "end": 205.646,
+              "text": "At sevenish, we're taking her an empty bowl, maybe a spoon, and your support soup,",
+              "sep": " "
+            },
+            {
+              "id": "0052",
+              "start": 206.306,
+              "end": 210.666,
+              "text": "which can stay upstairs and think about its choices beside the spoon.",
+              "sep": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-explanation",
+      "label": "Explanation",
+      "isDialogue": false,
+      "paragraphs": [
+        {
+          "id": "03-explanation-p001",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0053",
+              "start": 217.726,
+              "end": 220.826,
+              "text": "Grace opens with a smell that has personality:",
+              "sep": " "
+            },
+            {
+              "id": "0054",
+              "start": 222.006,
+              "end": 225.726,
+              "text": "\"confidence and panic.\" Neither word is literal,",
+              "sep": " "
+            },
+            {
+              "id": "0055",
+              "start": 226.086,
+              "end": 228.386,
+              "text": "but both are precise in effect.",
+              "sep": " "
+            },
+            {
+              "id": "0056",
+              "start": 229.746,
+              "end": 234.606,
+              "text": "\"Confidence\" suggests a kitchen acting as if everything is under control.",
+              "sep": " "
+            },
+            {
+              "id": "0057",
+              "start": 235.866,
+              "end": 237.766,
+              "text": "\"Panic\" suggests the opposite:",
+              "sep": " "
+            },
+            {
+              "id": "0058",
+              "start": 238.546,
+              "end": 243.306,
+              "text": "too much heat, too much smell, too much improvisation.",
+              "sep": " "
+            },
+            {
+              "id": "0059",
+              "start": 244.306,
+              "end": 247.666,
+              "text": "This is a good way to describe a scene when",
+              "sep": " "
+            },
+            {
+              "id": "0060",
+              "start": 247.666,
+              "end": 252.226,
+              "text": "the exact sensory word is less important than the impression.",
+              "sep": " "
+            },
+            {
+              "id": "0061",
+              "start": 253.286,
+              "end": 258.346,
+              "text": "Then the wooden spoon is \"standing upright as if it has seen things.\"",
+              "sep": " "
+            },
+            {
+              "id": "0062",
+              "start": 259.406,
+              "end": 262.086,
+              "text": "That phrase makes the spoon almost human.",
+              "sep": " "
+            },
+            {
+              "id": "0063",
+              "start": 263.306,
+              "end": 267.286,
+              "text": "In daily talk, people often describe objects this",
+              "sep": " "
+            },
+            {
+              "id": "0064",
+              "start": 267.286,
+              "end": 270.807,
+              "text": "way when the situation feels slightly out of control:",
+              "sep": " "
+            },
+            {
+              "id": "0065",
+              "start": 271.586,
+              "end": 278.186,
+              "text": "a bag that has given up, a chair that looks offended, a phone that refuses to cooperate.",
+              "sep": " "
+            },
+            {
+              "id": "0066",
+              "start": 279.306,
+              "end": 283.186,
+              "text": "The image lets Grace sound amused before she sounds worried.",
+              "sep": " "
+            },
+            {
+              "id": "0067",
+              "start": 284.006,
+              "end": 285.726,
+              "text": "She is already telling Sam:",
+              "sep": " "
+            },
+            {
+              "id": "0068",
+              "start": 285.966,
+              "end": 291.587,
+              "text": "this kitchen is not just busy; it is suspiciously busy.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explanation-p002",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0069",
+              "start": 292.014,
+              "end": 294.375,
+              "text": "Sam answers with \"Soup.",
+              "sep": " "
+            },
+            {
+              "id": "0070",
+              "start": 295.034,
+              "end": 298.254,
+              "text": "More or less soup.\" The first word is confident.",
+              "sep": " "
+            },
+            {
+              "id": "0071",
+              "start": 298.974,
+              "end": 301.894,
+              "text": "The second phrase immediately weakens it.",
+              "sep": " "
+            },
+            {
+              "id": "0072",
+              "start": 302.714,
+              "end": 307.774,
+              "text": "\"More or less\" works here because Sam is describing the whole state of the pan.",
+              "sep": " "
+            },
+            {
+              "id": "0073",
+              "start": 308.434,
+              "end": 314.394,
+              "text": "It is basically soup, near enough, though maybe not the cleanest example of soup.",
+              "sep": " "
+            },
+            {
+              "id": "0074",
+              "start": 315.534,
+              "end": 319.414,
+              "text": "That is different from using the phrase for a precise number.",
+              "sep": " "
+            },
+            {
+              "id": "0075",
+              "start": 320.034,
+              "end": 324.954,
+              "text": "For a time, \"around seven\" or \"sevenish\" sounds natural.",
+              "sep": " "
+            },
+            {
+              "id": "0076",
+              "start": 325.794,
+              "end": 329.654,
+              "text": "For a quantity, \"about two cups\" is clearer.",
+              "sep": " "
+            },
+            {
+              "id": "0077",
+              "start": 330.934,
+              "end": 336.794,
+              "text": "\"More or less\" fits when the question is, \"Has this reached the general category?\"",
+              "sep": " "
+            },
+            {
+              "id": "0078",
+              "start": 337.834,
+              "end": 342.894,
+              "text": "A common misstep is to use it wherever a number feels approximate.",
+              "sep": " "
+            },
+            {
+              "id": "0079",
+              "start": 344.054,
+              "end": 350.474,
+              "text": "Sam avoids that: he is judging the identity of the food, not estimating a quantity.",
+              "sep": " "
+            },
+            {
+              "id": "0080",
+              "start": 351.494,
+              "end": 354.695,
+              "text": "His answer also tells us about his stance.",
+              "sep": " "
+            },
+            {
+              "id": "0081",
+              "start": 355.154,
+              "end": 359.794,
+              "text": "He wants credit for helpfulness but leaves himself a little escape route.",
+              "sep": " "
+            },
+            {
+              "id": "0082",
+              "start": 360.474,
+              "end": 362.434,
+              "text": "The soup is not fully defended.",
+              "sep": " "
+            },
+            {
+              "id": "0083",
+              "start": 363.114,
+              "end": 369.354,
+              "text": "It is defended with a soft edge, which is useful because Grace is already looking at the spoon.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explanation-p003",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0084",
+              "start": 370.21,
+              "end": 374.67,
+              "text": "Grace remembers the invitation differently: downstairs at seven,",
+              "sep": " "
+            },
+            {
+              "id": "0085",
+              "start": 375.15,
+              "end": 378.59,
+              "text": "as guests, with shoes on, not as a second kitchen.",
+              "sep": " "
+            },
+            {
+              "id": "0086",
+              "start": 379.49,
+              "end": 382.61,
+              "text": "Sam softens the time: \"Around seven.",
+              "sep": " "
+            },
+            {
+              "id": "0087",
+              "start": 382.61,
+              "end": 387.11,
+              "text": "Sevenish.\" Both forms are friendly and approximate.",
+              "sep": " "
+            },
+            {
+              "id": "0088",
+              "start": 388.13,
+              "end": 389.93,
+              "text": "\"Around seven\" is ordinary.",
+              "sep": " "
+            },
+            {
+              "id": "0089",
+              "start": 389.93,
+              "end": 396.85,
+              "text": "\"Sevenish\" is lighter, more casual, and usually belongs in informal plans.",
+              "sep": " "
+            },
+            {
+              "id": "0090",
+              "start": 397.61,
+              "end": 403.111,
+              "text": "The ending \"-ish\" says the time is close to seven, not fixed to the minute.",
+              "sep": " "
+            },
+            {
+              "id": "0091",
+              "start": 403.45,
+              "end": 406.31,
+              "text": "That works for a neighbor's soup invitation.",
+              "sep": " "
+            },
+            {
+              "id": "0092",
+              "start": 406.75,
+              "end": 410.77,
+              "text": "It would not work for a train departure or a job interview.",
+              "sep": " "
+            },
+            {
+              "id": "0093",
+              "start": 411.65,
+              "end": 417.41,
+              "text": "Then Sam adds \"something light\", which he hears too broadly.",
+              "sep": " "
+            },
+            {
+              "id": "0094",
+              "start": 417.79,
+              "end": 422.81,
+              "text": "He is trying to stay inside the relaxed social tone of the invitation,",
+              "sep": " "
+            },
+            {
+              "id": "0095",
+              "start": 422.81,
+              "end": 428.83,
+              "text": "but he is also using that relaxation to justify a cooking project.",
+              "sep": " "
+            },
+            {
+              "id": "0096",
+              "start": 430.35,
+              "end": 431.43,
+              "text": "Notice the contrast:",
+              "sep": " "
+            },
+            {
+              "id": "0097",
+              "start": 432.77,
+              "end": 438.69,
+              "text": "Grace uses exact social roles, \"as guests\";",
+              "sep": " "
+            },
+            {
+              "id": "0098",
+              "start": 440.21,
+              "end": 445.41,
+              "text": "Sam uses soft edges, \"around\", \"sevenish\",",
+              "sep": " "
+            },
+            {
+              "id": "0099",
+              "start": 446.81,
+              "end": 453.77,
+              "text": "\"something light.\" The disagreement starts before anyone mentions the bowl.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explanation-p004",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0100",
+              "start": 454.697,
+              "end": 460.717,
+              "text": "\"Soup-adjacent generosity\" is Sam's attempt to make his action sound almost reasonable.",
+              "sep": " "
+            },
+            {
+              "id": "0101",
+              "start": 461.877,
+              "end": 466.297,
+              "text": "\"Adjacent\" means next to something, but not exactly inside it.",
+              "sep": " "
+            },
+            {
+              "id": "0102",
+              "start": 466.777,
+              "end": 471.297,
+              "text": "In normal use, two rooms can be adjacent, or two buildings.",
+              "sep": " "
+            },
+            {
+              "id": "0103",
+              "start": 472.417,
+              "end": 475.337,
+              "text": "Here the word is stretched into a comic category:",
+              "sep": " "
+            },
+            {
+              "id": "0104",
+              "start": 476.057,
+              "end": 482.097,
+              "text": "his contribution is near soup, near generosity, near helpfulness.",
+              "sep": " "
+            },
+            {
+              "id": "0105",
+              "start": 482.817,
+              "end": 488.817,
+              "text": "Grace hears the danger immediately: \"Soup-adjacent is already worrying.\"",
+              "sep": " "
+            },
+            {
+              "id": "0106",
+              "start": 489.777,
+              "end": 493.597,
+              "text": "That reply matters because it tests the vague category.",
+              "sep": " "
+            },
+            {
+              "id": "0107",
+              "start": 494.397,
+              "end": 500.737,
+              "text": "There is a useful split here: \"a sort of cafe\" blurs the category of the place,",
+              "sep": " "
+            },
+            {
+              "id": "0108",
+              "start": 501.297,
+              "end": 506.397,
+              "text": "while \"I sort of helped\" blurs how strongly you commit to your own action.",
+              "sep": " "
+            },
+            {
+              "id": "0109",
+              "start": 507.337,
+              "end": 508.677,
+              "text": "Sam is doing both.",
+              "sep": " "
+            },
+            {
+              "id": "0110",
+              "start": 509.317,
+              "end": 513.877,
+              "text": "In speech, that second use often carries a little self-protection:",
+              "sep": " "
+            },
+            {
+              "id": "0111",
+              "start": 514.677,
+              "end": 518.357,
+              "text": "I helped, but perhaps not cleanly.",
+              "sep": " "
+            },
+            {
+              "id": "0112",
+              "start": 519.337,
+              "end": 525.217,
+              "text": "His wording sounds clever, but it also shows that he knows the thing is hard to name honestly.",
+              "sep": " "
+            },
+            {
+              "id": "0113",
+              "start": 526.657,
+              "end": 532.197,
+              "text": "Grace does not need the label to be more elegant; she needs the plan to be real.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explanation-p005",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0114",
+              "start": 532.557,
+              "end": 538.258,
+              "text": "Sam lists the quantities from the voice note: \"a glug of oil, a bit of onion,",
+              "sep": " "
+            },
+            {
+              "id": "0115",
+              "start": 538.597,
+              "end": 542.777,
+              "text": "a couple of carrots or so.\" This is normal kitchen language.",
+              "sep": " "
+            },
+            {
+              "id": "0116",
+              "start": 543.577,
+              "end": 547.617,
+              "text": "A \"glug\" is what oil sounds and feels like when you pour it.",
+              "sep": " "
+            },
+            {
+              "id": "0117",
+              "start": 548.337,
+              "end": 550.197,
+              "text": "\"A bit\" is a small amount.",
+              "sep": " "
+            },
+            {
+              "id": "0118",
+              "start": 550.997,
+              "end": 556.717,
+              "text": "\"A couple of\" is usually two, and \"or so\" rounds the number gently,",
+              "sep": " "
+            },
+            {
+              "id": "0119",
+              "start": 557.357,
+              "end": 560.537,
+              "text": "often upward or slightly beyond the exact figure.",
+              "sep": " "
+            },
+            {
+              "id": "0120",
+              "start": 561.377,
+              "end": 566.257,
+              "text": "In relaxed speech, the little word \"of\" often reduces:",
+              "sep": " "
+            },
+            {
+              "id": "0121",
+              "start": 567.397,
+              "end": 570.437,
+              "text": "\"a bit of onion\" can sound like \"a bitta onion\",",
+              "sep": " "
+            },
+            {
+              "id": "0122",
+              "start": 570.437,
+              "end": 574.998,
+              "text": "and \"a couple of carrots\" like \"a coupla carrots.\"",
+              "sep": " "
+            },
+            {
+              "id": "0123",
+              "start": 575.537,
+              "end": 578.777,
+              "text": "That reduction is part of the casual sound;",
+              "sep": " "
+            },
+            {
+              "id": "0124",
+              "start": 579.477,
+              "end": 586.237,
+              "text": "if every small word is pronounced fully, the phrase can sound oddly exact for such loose cooking.",
+              "sep": " "
+            },
+            {
+              "id": "0125",
+              "start": 586.997,
+              "end": 591.017,
+              "text": "\"Or so\" leans toward the number and a little past it;",
+              "sep": " "
+            },
+            {
+              "id": "0126",
+              "start": 591.737,
+              "end": 595.337,
+              "text": "\"give or take\" opens the margin both ways.",
+              "sep": " "
+            },
+            {
+              "id": "0127",
+              "start": 596.997,
+              "end": 602.337,
+              "text": "Grace's correction shows the limit: vague quantities still need judgment.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explanation-p006",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0128",
+              "start": 603.048,
+              "end": 605.688,
+              "text": "\"The red powder thingy\" is a placeholder.",
+              "sep": " "
+            },
+            {
+              "id": "0129",
+              "start": 606.808,
+              "end": 612.728,
+              "text": "Sam does not name the spice, either because he has forgotten the word or because he is speaking quickly.",
+              "sep": " "
+            },
+            {
+              "id": "0130",
+              "start": 613.748,
+              "end": 618.528,
+              "text": "\"Thingy\" is warm, informal, and useful between people who know each other.",
+              "sep": " "
+            },
+            {
+              "id": "0131",
+              "start": 619.288,
+              "end": 626.088,
+              "text": "You might say \"the plastic thingy\", \"the little metal thingy\", or \"the thingy that holds the cable.\"",
+              "sep": " "
+            },
+            {
+              "id": "0132",
+              "start": 626.728,
+              "end": 633.408,
+              "text": "In a recipe card, a shop complaint, or a medical instruction, it would sound too casual.",
+              "sep": " "
+            },
+            {
+              "id": "0133",
+              "start": 634.308,
+              "end": 637.928,
+              "text": "Grace supplies the exact term: smoked paprika.",
+              "sep": " "
+            },
+            {
+              "id": "0134",
+              "start": 638.628,
+              "end": 641.788,
+              "text": "That repair changes the temperature of the conversation.",
+              "sep": " "
+            },
+            {
+              "id": "0135",
+              "start": 643.068,
+              "end": 646.708,
+              "text": "Sam's \"thingy\" keeps the cooking story loose;",
+              "sep": " "
+            },
+            {
+              "id": "0136",
+              "start": 647.868,
+              "end": 651.408,
+              "text": "Grace's \"smoked paprika\" brings precision back.",
+              "sep": " "
+            },
+            {
+              "id": "0137",
+              "start": 651.908,
+              "end": 655.308,
+              "text": "The line also has a sound pattern worth hearing:",
+              "sep": " "
+            },
+            {
+              "id": "0138",
+              "start": 656.288,
+              "end": 659.048,
+              "text": "\"red powder thingy\" is light and quick,",
+              "sep": " "
+            },
+            {
+              "id": "0139",
+              "start": 659.708,
+              "end": 665.388,
+              "text": "but \"smoked paprika\" lands with clearer stress and more authority.",
+              "sep": " "
+            },
+            {
+              "id": "0140",
+              "start": 666.948,
+              "end": 669.249,
+              "text": "Grace is not just naming the spice.",
+              "sep": " "
+            },
+            {
+              "id": "0141",
+              "start": 669.628,
+              "end": 672.208,
+              "text": "She is taking control of the facts.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explanation-p007",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0142",
+              "start": 672.578,
+              "end": 678.958,
+              "text": "When Grace asks how much paprika Sam used, he answers, \"A respectful cloud.",
+              "sep": " "
+            },
+            {
+              "id": "0143",
+              "start": 679.698,
+              "end": 683.638,
+              "text": "Maybe a dramatic teaspoon.\" These are not measurements.",
+              "sep": " "
+            },
+            {
+              "id": "0144",
+              "start": 684.558,
+              "end": 686.518,
+              "text": "They are face-saving descriptions.",
+              "sep": " "
+            },
+            {
+              "id": "0145",
+              "start": 687.518,
+              "end": 692.098,
+              "text": "\"A respectful cloud\" makes the amount sound delicate and tasteful.",
+              "sep": " "
+            },
+            {
+              "id": "0146",
+              "start": 692.838,
+              "end": 698.478,
+              "text": "\"A dramatic teaspoon\" admits it may have been too much, but still keeps the tone playful.",
+              "sep": " "
+            },
+            {
+              "id": "0147",
+              "start": 699.318,
+              "end": 706.018,
+              "text": "People often use this kind of wording when the exact answer would sound bad: \"a confident splash\",",
+              "sep": " "
+            },
+            {
+              "id": "0148",
+              "start": 706.718,
+              "end": 710.479,
+              "text": "\"a generous handful\", \"a tiny mountain of paperwork.\"",
+              "sep": " "
+            },
+            {
+              "id": "0149",
+              "start": 711.558,
+              "end": 716.438,
+              "text": "The phrase gives shape to the mistake without making Sam confess too directly.",
+              "sep": " "
+            },
+            {
+              "id": "0150",
+              "start": 717.598,
+              "end": 721.018,
+              "text": "Then the pan \"developed a position on garlic.\"",
+              "sep": " "
+            },
+            {
+              "id": "0151",
+              "start": 722.098,
+              "end": 725.338,
+              "text": "Again, the object is treated as if it has an opinion.",
+              "sep": " "
+            },
+            {
+              "id": "0152",
+              "start": 726.178,
+              "end": 730.758,
+              "text": "That keeps the scene comic, but it also confirms Grace's concern:",
+              "sep": " "
+            },
+            {
+              "id": "0153",
+              "start": 731.638,
+              "end": 733.898,
+              "text": "the kitchen is no longer following a simple plan.",
+              "sep": " "
+            },
+            {
+              "id": "0154",
+              "start": 734.898,
+              "end": 736.958,
+              "text": "Sam is using style to cover uncertainty.",
+              "sep": " "
+            },
+            {
+              "id": "0155",
+              "start": 738.178,
+              "end": 740.778,
+              "text": "Grace keeps pulling him back toward plain information.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explanation-p008",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0156",
+              "start": 741.263,
+              "end": 746.383,
+              "text": "Grace asks the practical question: why is there pasta in it?",
+              "sep": " "
+            },
+            {
+              "id": "0157",
+              "start": 747.243,
+              "end": 750.124,
+              "text": "Sam's answer turns vagueness into a defense.",
+              "sep": " "
+            },
+            {
+              "id": "0158",
+              "start": 750.124,
+              "end": 751.433,
+              "text": "\"Texture.",
+              "sep": " "
+            },
+            {
+              "id": "0159",
+              "start": 752.743,
+              "end": 759.083,
+              "text": "Also reassurance.\" These fragments sound like reasons, but they are not the original reason.",
+              "sep": " "
+            },
+            {
+              "id": "0160",
+              "start": 759.783,
+              "end": 765.163,
+              "text": "Then he says a bowl with only liquid can feel \"emotionally underdressed.\"",
+              "sep": " "
+            },
+            {
+              "id": "0161",
+              "start": 766.143,
+              "end": 768.903,
+              "text": "The phrase is charming and completely unnecessary.",
+              "sep": " "
+            },
+            {
+              "id": "0162",
+              "start": 769.903,
+              "end": 775.543,
+              "text": "Sam is using soft, playful language to make the extra pasta sound considerate.",
+              "sep": " "
+            },
+            {
+              "id": "0163",
+              "start": 776.323,
+              "end": 779.323,
+              "text": "This is where vagueness becomes socially interesting.",
+              "sep": " "
+            },
+            {
+              "id": "0164",
+              "start": 780.283,
+              "end": 783.003,
+              "text": "It can protect the speaker from sounding wrong.",
+              "sep": " "
+            },
+            {
+              "id": "0165",
+              "start": 784.103,
+              "end": 788.744,
+              "text": "A less careful person might say, \"I added pasta because I panicked.\"",
+              "sep": " "
+            },
+            {
+              "id": "0166",
+              "start": 789.803,
+              "end": 791.203,
+              "text": "Sam says, in effect,",
+              "sep": " "
+            },
+            {
+              "id": "0167",
+              "start": 791.923,
+              "end": 795.063,
+              "text": "\"I added pasta because the bowl deserved support.\"",
+              "sep": " "
+            },
+            {
+              "id": "0168",
+              "start": 796.063,
+              "end": 800.163,
+              "text": "Grace lets him talk for one line, then asks for the message.",
+              "sep": " "
+            },
+            {
+              "id": "0169",
+              "start": 800.963,
+              "end": 802.803,
+              "text": "That is the key move:",
+              "sep": " "
+            },
+            {
+              "id": "0170",
+              "start": 803.783,
+              "end": 809.384,
+              "text": "when approximate language starts creating a fog, ask for the source.",
+              "sep": " "
+            },
+            {
+              "id": "0171",
+              "start": 810.023,
+              "end": 811.943,
+              "text": "What did the person actually say?",
+              "sep": " "
+            },
+            {
+              "id": "0172",
+              "start": 812.683,
+              "end": 814.583,
+              "text": "Which words are we working from?",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explanation-p009",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0173",
+              "start": 814.881,
+              "end": 818.921,
+              "text": "Sam finally shows the message: \"bring a bowl or something.\"",
+              "sep": " "
+            },
+            {
+              "id": "0174",
+              "start": 819.681,
+              "end": 822.961,
+              "text": "This phrase is the center of the misunderstanding.",
+              "sep": " "
+            },
+            {
+              "id": "0175",
+              "start": 824.021,
+              "end": 827.241,
+              "text": "\"Or something\" usually leaves a category open.",
+              "sep": " "
+            },
+            {
+              "id": "0176",
+              "start": 828.061,
+              "end": 830.401,
+              "text": "It does not mean \"anything at all.\"",
+              "sep": " "
+            },
+            {
+              "id": "0177",
+              "start": 831.061,
+              "end": 836.242,
+              "text": "If someone says, \"Bring a jacket or something,\" they probably mean a jacket,",
+              "sep": " "
+            },
+            {
+              "id": "0178",
+              "start": 836.661,
+              "end": 841.081,
+              "text": "a hoodie, a coat, something you can wear for warmth.",
+              "sep": " "
+            },
+            {
+              "id": "0179",
+              "start": 841.901,
+              "end": 848.641,
+              "text": "In Mrs Patel's message, \"a bowl or something\" belongs with containers and table items.",
+              "sep": " "
+            },
+            {
+              "id": "0180",
+              "start": 849.541,
+              "end": 855.601,
+              "text": "The friendly version should stay light, with a small upward lift rather than a heavy fall.",
+              "sep": " "
+            },
+            {
+              "id": "0181",
+              "start": 856.541,
+              "end": 862.521,
+              "text": "In relaxed speech, \"or\" can weaken and link to the noun before it,",
+              "sep": " "
+            },
+            {
+              "id": "0182",
+              "start": 862.941,
+              "end": 868.221,
+              "text": "so \"a bowl or something\" may sound closer to \"a bowl-r-something.\"",
+              "sep": " "
+            },
+            {
+              "id": "0183",
+              "start": 868.981,
+              "end": 875.941,
+              "text": "That light sound matters because it tells the listener the category is open but still cooperative.",
+              "sep": " "
+            },
+            {
+              "id": "0184",
+              "start": 877.301,
+              "end": 880.541,
+              "text": "In Sam's head, the phrase opens too wide.",
+              "sep": " "
+            },
+            {
+              "id": "0185",
+              "start": 881.201,
+              "end": 884.521,
+              "text": "He hears \"bowl\" and \"something\" too literally,",
+              "sep": " "
+            },
+            {
+              "id": "0186",
+              "start": 885.641,
+              "end": 888.721,
+              "text": "almost as if the bowl should contain a new contribution.",
+              "sep": " "
+            },
+            {
+              "id": "0187",
+              "start": 889.701,
+              "end": 893.741,
+              "text": "The wording was relaxed, but it still had a practical frame:",
+              "sep": " "
+            },
+            {
+              "id": "0188",
+              "start": 894.861,
+              "end": 897.201,
+              "text": "Mrs Patel had already made soup.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explanation-p010",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0189",
+              "start": 897.888,
+              "end": 904.448,
+              "text": "Grace repairs the category: \"Bowls, spoons, maybe napkins, stuff like that.\"",
+              "sep": " "
+            },
+            {
+              "id": "0190",
+              "start": 905.068,
+              "end": 907.968,
+              "text": "Her phrase is vague too, but it works.",
+              "sep": " "
+            },
+            {
+              "id": "0191",
+              "start": 908.948,
+              "end": 912.509,
+              "text": "\"Stuff like that\" points to a clear family of objects:",
+              "sep": " "
+            },
+            {
+              "id": "0192",
+              "start": 913.448,
+              "end": 916.588,
+              "text": "things used for serving, carrying, or eating soup.",
+              "sep": " "
+            },
+            {
+              "id": "0193",
+              "start": 917.308,
+              "end": 919.388,
+              "text": "This is an important contrast.",
+              "sep": " "
+            },
+            {
+              "id": "0194",
+              "start": 920.228,
+              "end": 923.288,
+              "text": "Vagueness is not automatically weak.",
+              "sep": " "
+            },
+            {
+              "id": "0195",
+              "start": 924.048,
+              "end": 927.068,
+              "text": "Grace is imprecise, but operational.",
+              "sep": " "
+            },
+            {
+              "id": "0196",
+              "start": 928.088,
+              "end": 932.308,
+              "text": "Sam was imprecise and creative in the wrong direction.",
+              "sep": " "
+            },
+            {
+              "id": "0197",
+              "start": 933.248,
+              "end": 937.728,
+              "text": "Her list gives several examples, then lets the category continue.",
+              "sep": " "
+            },
+            {
+              "id": "0198",
+              "start": 938.568,
+              "end": 942.628,
+              "text": "This is how list extenders often work in natural speech:",
+              "sep": " "
+            },
+            {
+              "id": "0199",
+              "start": 943.648,
+              "end": 949.268,
+              "text": "\"chargers, cables, stuff like that\"; \"bread, cheese,",
+              "sep": " "
+            },
+            {
+              "id": "0200",
+              "start": 949.428,
+              "end": 951.708,
+              "text": "maybe fruit, that kind of thing.\"",
+              "sep": " "
+            },
+            {
+              "id": "0201",
+              "start": 952.468,
+              "end": 957.489,
+              "text": "The listener does not need every item named because the frame is stable.",
+              "sep": " "
+            },
+            {
+              "id": "0202",
+              "start": 958.388,
+              "end": 961.228,
+              "text": "Grace also repeats Sam's phrase back to him:",
+              "sep": " "
+            },
+            {
+              "id": "0203",
+              "start": 961.908,
+              "end": 966.768,
+              "text": "he heard \"a bowl or something\" and made \"a bowl of something.\"",
+              "sep": " "
+            },
+            {
+              "id": "0204",
+              "start": 967.288,
+              "end": 974.268,
+              "text": "The tiny change from \"or\" to \"of\" is where the whole practical mistake becomes visible.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explanation-p011",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0205",
+              "start": 974.671,
+              "end": 980.512,
+              "text": "Sam says, \"In my defense, English placed the trap very close to the soup.\"",
+              "sep": " "
+            },
+            {
+              "id": "0206",
+              "start": 981.091,
+              "end": 987.851,
+              "text": "He is not wrong that the words sit close together, but the responsibility is still his.",
+              "sep": " "
+            },
+            {
+              "id": "0207",
+              "start": 988.631,
+              "end": 991.232,
+              "text": "Instead of arguing, Grace moves to action:",
+              "sep": " "
+            },
+            {
+              "id": "0208",
+              "start": 992.031,
+              "end": 995.992,
+              "text": "at sevenish, they are taking an empty bowl, maybe a spoon,",
+              "sep": " "
+            },
+            {
+              "id": "0209",
+              "start": 996.091,
+              "end": 999.211,
+              "text": "and the support soup is staying upstairs.",
+              "sep": " "
+            },
+            {
+              "id": "0210",
+              "start": 1000.111,
+              "end": 1004.211,
+              "text": "\"Support soup\" gives the extra pan a harmless identity.",
+              "sep": " "
+            },
+            {
+              "id": "0211",
+              "start": 1005.091,
+              "end": 1008.511,
+              "text": "It can exist, but it cannot take over the visit.",
+              "sep": " "
+            },
+            {
+              "id": "0212",
+              "start": 1009.831,
+              "end": 1013.711,
+              "text": "Notice how Grace keeps one approximate word, \"maybe\",",
+              "sep": " "
+            },
+            {
+              "id": "0213",
+              "start": 1014.431,
+              "end": 1017.191,
+              "text": "because the practical plan is now clear enough.",
+              "sep": " "
+            },
+            {
+              "id": "0214",
+              "start": 1018.171,
+              "end": 1020.571,
+              "text": "She is not becoming rigid.",
+              "sep": " "
+            },
+            {
+              "id": "0215",
+              "start": 1021.451,
+              "end": 1024.331,
+              "text": "She is choosing where looseness is safe.",
+              "sep": " "
+            },
+            {
+              "id": "0216",
+              "start": 1024.791,
+              "end": 1029.051,
+              "text": "The final instruction also closes the social problem.",
+              "sep": " "
+            },
+            {
+              "id": "0217",
+              "start": 1029.971,
+              "end": 1032.151,
+              "text": "They will still go downstairs.",
+              "sep": " "
+            },
+            {
+              "id": "0218",
+              "start": 1033.271,
+              "end": 1035.451,
+              "text": "The neighborly visit survives.",
+              "sep": " "
+            },
+            {
+              "id": "0219",
+              "start": 1036.291,
+              "end": 1039.611,
+              "text": "The second soup just loses its speaking role.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explanation-p012",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0220",
+              "start": 1040.349,
+              "end": 1045.549,
+              "text": "When you listen again, focus on the frame around each soft phrase.",
+              "sep": " "
+            },
+            {
+              "id": "0221",
+              "start": 1046.909,
+              "end": 1049.629,
+              "text": "Sam's soft words keep expanding the plan:",
+              "sep": " "
+            },
+            {
+              "id": "0222",
+              "start": 1050.229,
+              "end": 1055.73,
+              "text": "soup, time, quantities, spice, category.",
+              "sep": " "
+            },
+            {
+              "id": "0223",
+              "start": 1057.189,
+              "end": 1059.569,
+              "text": "Grace's soft words narrow it back down:",
+              "sep": " "
+            },
+            {
+              "id": "0224",
+              "start": 1060.729,
+              "end": 1065.47,
+              "text": "bowl, spoon, maybe napkins, the practical family of objects.",
+              "sep": " "
+            },
+            {
+              "id": "0225",
+              "start": 1065.869,
+              "end": 1072.029,
+              "text": "That is the useful listening point: approximate words are not vague because they are empty.",
+              "sep": " "
+            },
+            {
+              "id": "0226",
+              "start": 1072.769,
+              "end": 1076.189,
+              "text": "They are vague because they rely on shared context.",
+              "sep": " "
+            },
+            {
+              "id": "0227",
+              "start": 1076.649,
+              "end": 1079.869,
+              "text": "You can also hear the social difference in the voice.",
+              "sep": " "
+            },
+            {
+              "id": "0228",
+              "start": 1080.949,
+              "end": 1083.509,
+              "text": "Sam's softer phrases buy him room;",
+              "sep": " "
+            },
+            {
+              "id": "0229",
+              "start": 1084.409,
+              "end": 1088.749,
+              "text": "Grace's softer phrases keep the relationship calm while she closes that room.",
+              "sep": " "
+            },
+            {
+              "id": "0230",
+              "start": 1089.649,
+              "end": 1091.99,
+              "text": "Listen for who has to repair the frame.",
+              "sep": " "
+            },
+            {
+              "id": "0231",
+              "start": 1092.769,
+              "end": 1096.489,
+              "text": "If the context is clear, imprecision makes talk warmer.",
+              "sep": " "
+            },
+            {
+              "id": "0232",
+              "start": 1096.489,
+              "end": 1101.109,
+              "text": "If it is not, imprecision creates work for someone else,",
+              "sep": " "
+            },
+            {
+              "id": "0233",
+              "start": 1101.109,
+              "end": 1105.189,
+              "text": "and someone may end up with support soup.",
+              "sep": " "
+            },
+            {
+              "id": "0234",
+              "start": 1106.289,
+              "end": 1111.029,
+              "text": "Now let's listen to the dialogue again, this time at natural speed.",
+              "sep": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04-dialogue-natural",
+      "label": "Dialogue - natural speed",
+      "isDialogue": true,
+      "paragraphs": [
+        {
+          "id": "04-dialogue-natural-p001",
+          "speaker": "Grace",
+          "cues": [
+            {
+              "id": "0235",
+              "start": 1118.517,
+              "end": 1121.617,
+              "text": "Why does the kitchen smell like confidence and panic,",
+              "sep": " "
+            },
+            {
+              "id": "0236",
+              "start": 1121.857,
+              "end": 1126.977,
+              "text": "and why is the wooden spoon standing upright as if it has seen things?",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-natural-p002",
+          "speaker": "Sam",
+          "cues": [
+            {
+              "id": "0237",
+              "start": 1127.657,
+              "end": 1127.907,
+              "text": "Soup.",
+              "sep": " "
+            },
+            {
+              "id": "0238",
+              "start": 1128.397,
+              "end": 1129.497,
+              "text": "More or less soup.",
+              "sep": " "
+            },
+            {
+              "id": "0239",
+              "start": 1129.857,
+              "end": 1134.177,
+              "text": "It started as a simple neighbor thing, and then the garlic got ideas.",
+              "sep": " "
+            },
+            {
+              "id": "0240",
+              "start": 1134.697,
+              "end": 1137.757,
+              "text": "I was trying to be helpful in a warm, liquid direction.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-natural-p003",
+          "speaker": "Grace",
+          "cues": [
+            {
+              "id": "0241",
+              "start": 1138.097,
+              "end": 1141.387,
+              "text": "I thought Mrs Patel invited us downstairs at seven.",
+              "sep": " "
+            },
+            {
+              "id": "0242",
+              "start": 1141.497,
+              "end": 1142.617,
+              "text": "As guests.",
+              "sep": " "
+            },
+            {
+              "id": "0243",
+              "start": 1143.037,
+              "end": 1144.097,
+              "text": "With shoes on.",
+              "sep": " "
+            },
+            {
+              "id": "0244",
+              "start": 1144.437,
+              "end": 1145.777,
+              "text": "Not as a second kitchen.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-natural-p004",
+          "speaker": "Sam",
+          "cues": [
+            {
+              "id": "0245",
+              "start": 1146.557,
+              "end": 1148.037,
+              "text": "Around seven.",
+              "sep": " "
+            },
+            {
+              "id": "0246",
+              "start": 1148.037,
+              "end": 1148.917,
+              "text": "Sevenish.",
+              "sep": " "
+            },
+            {
+              "id": "0247",
+              "start": 1149.797,
+              "end": 1153.717,
+              "text": "She said bring something light, so I went with soup-adjacent generosity.",
+              "sep": " "
+            },
+            {
+              "id": "0248",
+              "start": 1154.237,
+              "end": 1157.357,
+              "text": "It felt modest before the pasta became involved.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-natural-p005",
+          "speaker": "Grace",
+          "cues": [
+            {
+              "id": "0249",
+              "start": 1157.997,
+              "end": 1160.097,
+              "text": "Soup-adjacent is already worrying.",
+              "sep": " "
+            },
+            {
+              "id": "0250",
+              "start": 1160.977,
+              "end": 1164.417,
+              "text": "What recipe are you following, and does it know it's being followed?",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-natural-p006",
+          "speaker": "Sam",
+          "cues": [
+            {
+              "id": "0251",
+              "start": 1164.737,
+              "end": 1166.397,
+              "text": "Her voice note, mostly.",
+              "sep": " "
+            },
+            {
+              "id": "0252",
+              "start": 1166.817,
+              "end": 1170.137,
+              "text": "A glug of oil, a bit of onion, a couple of carrots or so,",
+              "sep": " "
+            },
+            {
+              "id": "0253",
+              "start": 1170.377,
+              "end": 1172.998,
+              "text": "then the red powder thingy from the back of the cupboard.",
+              "sep": " "
+            },
+            {
+              "id": "0254",
+              "start": 1173.237,
+              "end": 1176.237,
+              "text": "The exact sequence got emotionally flexible.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-natural-p007",
+          "speaker": "Grace",
+          "cues": [
+            {
+              "id": "0255",
+              "start": 1177.057,
+              "end": 1179.557,
+              "text": "That red powder thingy is smoked paprika,",
+              "sep": " "
+            },
+            {
+              "id": "0256",
+              "start": 1180.277,
+              "end": 1184.817,
+              "text": "and \"or so\" after carrots is not where cooking becomes relaxed.",
+              "sep": " "
+            },
+            {
+              "id": "0257",
+              "start": 1185.817,
+              "end": 1186.897,
+              "text": "How much did you use?",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-natural-p008",
+          "speaker": "Sam",
+          "cues": [
+            {
+              "id": "0258",
+              "start": 1188.137,
+              "end": 1189.157,
+              "text": "A respectful cloud.",
+              "sep": " "
+            },
+            {
+              "id": "0259",
+              "start": 1189.697,
+              "end": 1191.097,
+              "text": "Maybe a dramatic teaspoon.",
+              "sep": " "
+            },
+            {
+              "id": "0260",
+              "start": 1191.717,
+              "end": 1195.258,
+              "text": "It looked friendly until the pan developed a position on garlic.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-natural-p009",
+          "speaker": "Grace",
+          "cues": [
+            {
+              "id": "0261",
+              "start": 1195.857,
+              "end": 1198.397,
+              "text": "Sam, why is there pasta in it?",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-natural-p010",
+          "speaker": "Sam",
+          "cues": [
+            {
+              "id": "0262",
+              "start": 1199.037,
+              "end": 1199.287,
+              "text": "Texture.",
+              "sep": " "
+            },
+            {
+              "id": "0263",
+              "start": 1199.897,
+              "end": 1201.197,
+              "text": "Also reassurance.",
+              "sep": " "
+            },
+            {
+              "id": "0264",
+              "start": 1202.027,
+              "end": 1207.157,
+              "text": "She mentioned a bowl, and a bowl with only liquid can feel emotionally underdressed,",
+              "sep": " "
+            },
+            {
+              "id": "0265",
+              "start": 1207.597,
+              "end": 1210.217,
+              "text": "especially when the evening is trying to be neighborly.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-natural-p011",
+          "speaker": "Grace",
+          "cues": [
+            {
+              "id": "0266",
+              "start": 1211.617,
+              "end": 1212.237,
+              "text": "Wait.",
+              "sep": " "
+            },
+            {
+              "id": "0267",
+              "start": 1212.237,
+              "end": 1214.617,
+              "text": "Which message are you working from?",
+              "sep": " "
+            },
+            {
+              "id": "0268",
+              "start": 1215.217,
+              "end": 1219.697,
+              "text": "The actual invitation, not the culinary weather system in your head.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-natural-p012",
+          "speaker": "Sam",
+          "cues": [
+            {
+              "id": "0269",
+              "start": 1219.997,
+              "end": 1224.937,
+              "text": "The one under the tomato tin, because my phone was getting splashed with purpose. Here.",
+              "sep": " "
+            },
+            {
+              "id": "0270",
+              "start": 1225.097,
+              "end": 1226.897,
+              "text": "It says \"bring a bowl or something\".",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-natural-p013",
+          "speaker": "Grace",
+          "cues": [
+            {
+              "id": "0271",
+              "start": 1227.137,
+              "end": 1229.957,
+              "text": "It says, \"Bring a bowl or something.",
+              "sep": " "
+            },
+            {
+              "id": "0272",
+              "start": 1230.597,
+              "end": 1233.537,
+              "text": "I've made soup.\" She needed containers.",
+              "sep": " "
+            },
+            {
+              "id": "0273",
+              "start": 1234.557,
+              "end": 1237.877,
+              "text": "Bowls, spoons, maybe napkins, stuff like that.",
+              "sep": " "
+            },
+            {
+              "id": "0274",
+              "start": 1238.437,
+              "end": 1243.277,
+              "text": "You heard \"bring a bowl or something\" and made a bowl of something in a separate pan.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-natural-p014",
+          "speaker": "Sam",
+          "cues": [
+            {
+              "id": "0275",
+              "start": 1243.677,
+              "end": 1247.338,
+              "text": "In my defense, English placed the trap very close to the soup.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-natural-p015",
+          "speaker": "Grace",
+          "cues": [
+            {
+              "id": "0276",
+              "start": 1247.957,
+              "end": 1253.077,
+              "text": "At sevenish, we're taking her an empty bowl, maybe a spoon, and your support soup,",
+              "sep": " "
+            },
+            {
+              "id": "0277",
+              "start": 1253.417,
+              "end": 1257.338,
+              "text": "which can stay upstairs and think about its choices beside the spoon.",
+              "sep": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "05-conclusion",
+      "label": "Conclusion",
+      "isDialogue": false,
+      "paragraphs": [
+        {
+          "id": "05-conclusion-p001",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0278",
+              "start": 1264.247,
+              "end": 1271.028,
+              "text": "Today we heard how relaxed words can make ordinary talk warmer, but only when both people share the frame.",
+              "sep": " "
+            },
+            {
+              "id": "0279",
+              "start": 1271.907,
+              "end": 1275.347,
+              "text": "Sam hears room for invention; Grace hears bowls,",
+              "sep": " "
+            },
+            {
+              "id": "0280",
+              "start": 1276.227,
+              "end": 1279.187,
+              "text": "spoons, napkins, and a practical visit downstairs.",
+              "sep": " "
+            },
+            {
+              "id": "0281",
+              "start": 1280.447,
+              "end": 1286.907,
+              "text": "Listen again for \"more or less\", \"sevenish\", \"thingy\", \"or something\", and \"stuff like that\".",
+              "sep": " "
+            },
+            {
+              "id": "0282",
+              "start": 1287.587,
+              "end": 1290.387,
+              "text": "Each one softens the edge in a different way.",
+              "sep": " "
+            },
+            {
+              "id": "0283",
+              "start": 1290.867,
+              "end": 1297.587,
+              "text": "The useful skill is not to be less precise; it is to know when precision is actually needed.",
+              "sep": " "
+            },
+            {
+              "id": "0284",
+              "start": 1298.287,
+              "end": 1301.467,
+              "text": "And may your helpfulness never become support soup.",
+              "sep": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
