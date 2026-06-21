@@ -1,0 +1,30 @@
+/*
+ * Self-hosted Literata (SIL Open Font License 1.1) — the book reading face.
+ * Static, Latin-subset instances (400, 700, 400 italic) sliced from Google Fonts'
+ * Literata v40 variable font with fontTools. Applied ONLY to book chapter/segment
+ * prose via --sk-reading-font in pages.css; chrome stays the UI sans.
+ * font-display: swap so the text is readable immediately in the fallback serif.
+ */
+@font-face {
+  font-family: 'Literata';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/fonts/literata-400.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Literata';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/fonts/literata-700.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Literata';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/fonts/literata-400-italic.woff2') format('woff2');
+}

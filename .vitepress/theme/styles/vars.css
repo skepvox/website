@@ -18,6 +18,7 @@
   --sk-reading-line-height: 1.75;
   --sk-reading-para-space: 1.4em;
   --sk-reading-heading-space: 3rem;
+  --sk-reading-font: 'Literata', Georgia, 'Times New Roman', serif;
   --sk-cue-active: rgba(181, 148, 84, 0.26); /* muted antique gold "now playing" wash */
   --sk-cue-hover: rgba(33, 53, 71, 0.06); /* neutral pre-click affordance */
 
