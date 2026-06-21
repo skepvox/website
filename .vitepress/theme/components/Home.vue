@@ -4,36 +4,30 @@
       <span class="accent">skepvox</span>
       <br />Engenharia de Letras
     </h1>
-    <p class="description">Louis Lavelle, literatura clássica e podcasts.</p>
-    <p class="actions">
-      <a class="get-started" href="/louis-lavelle/">Louis Lavelle</a>
-      <a class="setup" href="/literatura/">Literatura</a>
-      <a class="setup" href="/podcast/">Podcasts</a>
-    </p>
   </section>
 
   <section id="highlights" class="vt-box-container">
-    <div class="vt-box">
+    <a class="vt-box" href="/louis-lavelle/">
       <h2>Louis Lavelle</h2>
       <p>
         Obras e estudos de Louis Lavelle reunidos em uma navegação simples, com foco em leitura
         contínua e referência.
       </p>
-    </div>
-    <div class="vt-box">
+    </a>
+    <a class="vt-box" href="/literatura/">
       <h2>Literatura</h2>
       <p>
         Biblioteca digital de obras clássicas, com ênfase em autores brasileiros e leitura em
         formato limpo.
       </p>
-    </div>
-    <div class="vt-box">
+    </a>
+    <a class="vt-box" href="/podcast/">
       <h2>Podcasts</h2>
       <p>
         Projetos skepvox para aprendizagem de idiomas, com diálogos, transcrições, guias de estudo e
         áudio.
       </p>
-    </div>
+    </a>
   </section>
 </template>
 
@@ -43,7 +37,7 @@ section {
 }
 
 #hero {
-  padding: 96px 32px;
+  padding: 96px 32px 64px;
   text-align: center;
 }
 
@@ -61,48 +55,34 @@ section {
   color: var(--vt-c-brand, #3c8772);
 }
 
-.description {
-  max-width: 960px;
-  line-height: 1.5;
-  color: var(--vt-c-text-2);
-  transition: color 0.5s;
-  font-size: 22px;
-  margin: 24px auto 40px;
-}
-
-.actions a {
-  font-size: 16px;
-  display: inline-block;
-  background-color: var(--vt-c-bg-mute);
-  padding: 8px 18px;
-  font-weight: 500;
-  border-radius: 8px;
-  transition:
-    background-color 0.5s,
-    color 0.5s;
-  color: var(--vt-c-text-code);
-}
-
-.actions .get-started,
-.actions .setup {
-  margin-right: 18px;
-}
-
-.actions .get-started:hover,
-.actions .setup:hover {
-  background-color: var(--vt-c-gray-light-4);
-  transition-duration: 0.2s;
-}
-
-.dark .actions .get-started:hover,
-.dark .actions .setup:hover {
-  background-color: var(--vt-c-gray-dark-3);
-}
-
 #highlights {
   max-width: 960px;
   margin: 0px auto;
   color: var(--vt-c-text-2);
+}
+
+#highlights .vt-box {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  background-color: var(--vt-c-bg-soft, #f6f6f7);
+  border: 1px solid var(--vt-c-divider, #e2e2e3);
+  border-radius: 8px;
+  transition:
+    border-color 0.2s,
+    background-color 0.2s;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  #highlights .vt-box:hover {
+    border-color: var(--vt-c-brand, #3c8772);
+    background-color: var(--vt-c-bg, #fff);
+  }
+}
+
+#highlights .vt-box:focus-visible {
+  outline: 2px solid var(--vt-c-brand, #3c8772);
+  outline-offset: 3px;
 }
 
 #highlights h2 {
@@ -119,18 +99,10 @@ section {
   font-size: 15px;
 }
 
-#highlights .vt-box {
-  background-color: transparent;
-}
-
 @media (max-width: 960px) {
   .tagline {
     font-size: 64px;
     letter-spacing: -0.5px;
-  }
-  .description {
-    font-size: 18px;
-    margin-bottom: 48px;
   }
 }
 
@@ -143,23 +115,10 @@ section {
 
 @media (max-width: 576px) {
   #hero {
-    padding: 56px 32px;
-  }
-  .description {
-    font-size: 16px;
-    margin: 18px 0 30px;
+    padding: 56px 32px 42px;
   }
   #highlights .vt-box {
-    padding: 20px 36px;
-  }
-  .actions {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 14px;
-  }
-  .actions a {
-    margin: 0;
+    padding: 20px 28px;
   }
 }
 

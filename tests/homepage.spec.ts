@@ -1,25 +1,27 @@
 import { test, expect } from '@playwright/test'
 
 // The homepage reflects the three site pillars (Louis Lavelle, Literatura,
-// Podcasts) as three peer .vt-box cards — 3-up on desktop, 1-up on mobile — plus
-// the hero pillar links. Real-DOM checks against the built site (vitepress preview).
+// Podcasts) as three clickable peer .vt-box cards — 3-up on desktop, 1-up on
+// mobile. Real-DOM checks against the built site (vitepress preview).
 test.describe('homepage pillars', () => {
   test.beforeEach(async ({ page }) => {
     await page.goto('/')
   })
 
   test('shows exactly three peer pillar boxes in order', async ({ page }) => {
-    await expect(page.locator('#highlights .vt-box')).toHaveCount(3)
-    await expect(page.locator('#highlights .vt-box h2')).toHaveText([
+    await expect(page.locator('#highlights a.vt-box')).toHaveCount(3)
+    await expect(page.locator('#highlights a.vt-box h2')).toHaveText([
       'Louis Lavelle',
       'Literatura',
       'Podcasts'
     ])
   })
 
-  test('hero links to all three pillar hubs (site-root-relative)', async ({ page }) => {
+  test('uses the three cards as the only homepage pillar links', async ({ page }) => {
+    await expect(page.locator('#hero a')).toHaveCount(0)
+    await expect(page.locator('#hero .description')).toHaveCount(0)
     for (const href of ['/louis-lavelle/', '/literatura/', '/podcast/']) {
-      await expect(page.locator(`#hero a[href="${href}"]`)).toHaveCount(1)
+      await expect(page.locator(`#highlights a.vt-box[href="${href}"]`)).toHaveCount(1)
     }
   })
 
@@ -31,7 +33,7 @@ test.describe('homepage pillars', () => {
     )
     expect(overflow).toBeLessThanOrEqual(0)
     const tops = await page
-      .locator('#highlights .vt-box')
+      .locator('#highlights a.vt-box')
       .evaluateAll((els) => els.map((el) => Math.round(el.getBoundingClientRect().top)))
     const distinctRows = new Set(tops).size
     if (page.viewportSize()!.width >= 700) {
@@ -41,10 +43,7 @@ test.describe('homepage pillars', () => {
     }
   })
 
-  test('hero and meta description name all three pillars (no two-pillar regression)', async ({
-    page
-  }) => {
-    await expect(page.locator('#hero .description')).toContainText('podcasts')
+  test('meta description names all three pillars (no two-pillar regression)', async ({ page }) => {
     const desc = await page.locator('head meta[name="description"]').getAttribute('content')
     expect(desc).toContain('Louis Lavelle')
     expect(desc).toContain('literatura')
