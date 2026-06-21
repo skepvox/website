@@ -51,7 +51,8 @@
   --sk-ease: cubic-bezier(0.4, 0, 0.2, 1);
 
   /* Focus ring (a11y floor): the existing 2px brand ring, tokenised so every
-     interactive surface shares one definition. Inherits --vt-c-brand per mode. */
+     interactive surface shares one definition. In 1C-i, --sk-accent still
+     aliases today's rendered green. */
   --sk-focus-ring: 2px solid var(--sk-accent);
   --sk-focus-offset: 3px;
 
