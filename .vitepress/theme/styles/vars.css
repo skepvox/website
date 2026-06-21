@@ -76,7 +76,7 @@
      values. The final skepvox palette is chosen in 1C-ii; this slice changes no
      pixels. --sk-ink / --sk-cue are channel triples for future alpha derivation. —— */
   --sk-ink: 33 53 71; /* #213547 — the reading ink */
-  --sk-text: var(--vt-c-text-1);
+  --sk-text: #213547; /* ink (= --vt-c-indigo); literal so --vt-c-text-1 can route through it */
   --sk-text-body: rgba(33, 53, 71, 0.86);
   --sk-text-muted: rgba(
     33,
@@ -86,8 +86,21 @@
   ); /* bumped from .62 → ~4.7:1 on white (AA at small label sizes) */
   --sk-text-faint: rgba(33, 53, 71, 0.42); /* decorative separators only (aria-hidden) */
   --sk-rule: rgba(33, 53, 71, 0.1);
-  --sk-surface: var(--vt-c-bg);
-  --sk-surface-raised: var(--vt-c-bg-soft);
+  /* Owned surface system (Slice 1C-iii). Literal warm-neutral values; the @vue/theme
+     surface tokens are routed through these so the whole shell — body, nav, sidebar,
+     aside, cards, search — follows one owned system instead of docs surfaces. */
+  --sk-surface: #fcfcfa; /* page base — quiet warm white, not clinical pure #fff */
+  --sk-surface-raised: #f4f3ef; /* cards / soft panels */
+  --sk-surface-soft: #f8f7f3; /* subtle fill between base and raised */
+  --sk-surface-overlay: #ffffff; /* elevated (search modal) — pops above the warm base */
+  --sk-border: rgba(45, 40, 30, 0.11); /* soft warm hairline for surfaces */
+  --vt-c-bg: var(--sk-surface);
+  --vt-c-bg-soft: var(--sk-surface-raised);
+  --vt-c-bg-mute: var(--sk-surface-soft);
+  --vt-c-divider: var(--sk-border);
+  --vt-c-divider-light: var(--sk-border);
+  --vt-c-text-1: var(--sk-text); /* route @vue/theme text to the owned ink → warm ivory in dark */
+  --vt-c-text-2: var(--sk-text-muted);
   --sk-accent: #2f4a6b; /* skepvox ink-blue (assessment Direction A) */
   --sk-accent-hover: #233a57;
   --sk-accent-soft: rgb(47 74 107 / 0.16);
@@ -109,15 +122,20 @@
   --vp-code-tab-active-text-color: var(--vt-c-text-1);
   --vp-code-tab-bg: var(--vt-c-black-mute);
   --vp-code-block-bg: var(--vt-c-black-mute);
-  /* Dark ink layer (values unchanged; --sk-reading-* alias these). --sk-accent and
-     --sk-surface* are not overridden here — the brand keeps the same value in dark and
-     the surfaces follow --vt-c-bg/--vt-c-bg-soft, exactly as before. */
-  --sk-ink: 255 255 255;
-  --sk-text: rgba(255, 255, 255, 0.92);
-  --sk-text-body: rgba(255, 255, 255, 0.8);
-  --sk-text-muted: rgba(255, 255, 255, 0.62);
-  --sk-text-faint: rgba(255, 255, 255, 0.46);
-  --sk-rule: rgba(255, 255, 255, 0.1);
+  /* Dark ink: warm ivory (not pure white) over the warm deep surfaces below. */
+  --sk-ink: 237 232 223;
+  --sk-text: rgba(237, 232, 223, 0.92);
+  --sk-text-body: rgba(237, 232, 223, 0.82);
+  --sk-text-muted: rgba(237, 232, 223, 0.62);
+  --sk-text-faint: rgba(237, 232, 223, 0.46);
+  --sk-rule: rgba(237, 232, 223, 0.1);
+  /* Warm, deep, restrained dark surfaces (the 1C-iii goal): reading by lamplight, not a
+     terminal. The routed --vt-c-bg/-soft/-mute/divider follow these in dark too. */
+  --sk-surface: #181510; /* warm deep near-black base */
+  --sk-surface-raised: #211d16; /* restrained warm lift for cards */
+  --sk-surface-soft: #1d1913;
+  --sk-surface-overlay: #262019; /* elevated modal */
+  --sk-border: rgba(237, 232, 223, 0.12); /* soft warm border */
   /* Lifted ink-blue for the still-dark surfaces (1C-iii will warm the bg): readable,
      not neon. The brand token follows --sk-accent, so it lifts in dark too. */
   --sk-accent: #8fb3df;

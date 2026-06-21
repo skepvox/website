@@ -9,10 +9,10 @@
   --vp-c-brand-1: var(--vt-c-brand);
   --vp-c-divider: var(--vt-c-divider);
   --vp-backdrop-bg-color: rgba(0, 0, 0, 0.6);
-  --vp-local-search-bg: var(--vt-c-bg);
-  --vp-local-search-result-bg: var(--vt-c-bg);
+  --vp-local-search-bg: var(--sk-surface-overlay);
+  --vp-local-search-result-bg: var(--sk-surface-overlay);
   --vp-local-search-result-border: var(--vt-c-divider);
-  --vp-local-search-result-selected-bg: var(--vt-c-bg-soft);
+  --vp-local-search-result-selected-bg: var(--sk-surface-raised);
   --vp-local-search-result-selected-border: var(--vt-c-brand);
   --vp-local-search-highlight-bg: var(--vt-c-brand);
   --vp-local-search-highlight-text: #ffffff;
