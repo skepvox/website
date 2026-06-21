@@ -151,4 +151,10 @@ const hasNav = computed(() => !!siblings.value && (!!siblings.value.prev || !!si
 .reading-nav__link:hover .reading-nav__title {
   color: var(--sk-reading-heading);
 }
+
+.reading-nav__link:focus-visible {
+  outline: var(--sk-focus-ring);
+  outline-offset: var(--sk-focus-offset);
+  border-radius: var(--sk-radius-sm);
+}
 </style>

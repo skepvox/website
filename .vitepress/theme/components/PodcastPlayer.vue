@@ -453,7 +453,7 @@ onBeforeUnmount(() => {
 }
 
 .vox-cue:focus-visible {
-  outline: 2px solid var(--vt-c-brand, #3c8772);
+  outline: var(--sk-focus-ring);
   outline-offset: 1px;
 }
 

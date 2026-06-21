@@ -147,4 +147,10 @@ const links = computed<ListenLink[]>(() => {
   font-size: 0.85rem;
   color: var(--sk-reading-muted);
 }
+
+.show-head__listen-link:focus-visible {
+  outline: var(--sk-focus-ring);
+  outline-offset: var(--sk-focus-offset);
+  border-radius: var(--sk-radius-sm);
+}
 </style>

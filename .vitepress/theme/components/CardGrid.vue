@@ -92,8 +92,8 @@ defineProps<{ items: CardGridItem[] }>()
 }
 
 .card-grid__link:focus-visible {
-  outline: 2px solid var(--vt-c-brand, #3c8772);
-  outline-offset: 3px;
+  outline: var(--sk-focus-ring);
+  outline-offset: var(--sk-focus-offset);
 }
 
 .card-grid__art {
