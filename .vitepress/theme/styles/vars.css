@@ -106,6 +106,11 @@
   --sk-accent-hover: #233a57;
   --sk-accent-soft: rgb(47 74 107 / 0.16);
   --sk-accent-contrast: #ffffff;
+  /* The horse+rider navbar mark — ink-blue on light. A dedicated token (not ambient
+     currentColor) so the mark never inherits the surrounding link's hover/active colour.
+     The legacy green #42b883 stays only inside logo.svg (favicon/provenance), never shown
+     in the nav. */
+  --sk-brand-mark: #2f4a6b;
   /* Route @vue/theme's brand token through the owned accent so inherited green islands
      (nav-active state, local-search highlight, prose links) follow the skepvox accent
      in one place. The live podcast cue uses --sk-cue (a muted gold), kept separate. */
@@ -142,6 +147,12 @@
   --sk-accent: #8fb3df;
   --sk-accent-hover: #a6c4e8;
   --sk-accent-soft: rgb(143 179 223 / 0.2);
+  --sk-brand-mark: rgba(
+    237,
+    232,
+    223,
+    0.92
+  ); /* warm ivory mark on dark, matching the reading ink */
   --sk-cue-active: rgba(199, 166, 99, 0.34); /* lifted gold, readable on the dark bg */
   --sk-cue-hover: rgba(255, 255, 255, 0.08);
   --sk-reading-heading: var(--sk-text);
