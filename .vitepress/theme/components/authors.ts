@@ -9,6 +9,7 @@ export const literatureAuthorCards: CardGridItem[] = [
     href: '/literatura/machado-de-assis/',
     imageUrl: '/images/authors/machado-de-assis.webp',
     imageAlt: 'Machado de Assis',
+    imageVariant: 'portrait',
     description:
       'Bibliografia e obras de Machado de Assis: Brás Cubas, Quincas Borba, Dom Casmurro, Esaú e Jacó, O Alienista e A Cartomante.'
   },
@@ -17,6 +18,7 @@ export const literatureAuthorCards: CardGridItem[] = [
     href: '/literatura/graciliano-ramos/',
     imageUrl: '/images/authors/graciliano-ramos.webp',
     imageAlt: 'Graciliano Ramos',
+    imageVariant: 'portrait',
     description:
       'Bibliografia e textos integrais de Graciliano Ramos: São Bernardo, Angústia e Vidas Secas.'
   },

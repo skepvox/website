@@ -20,6 +20,7 @@ defineProps<{ items: CardGridItem[] }>()
           class="card-grid__art"
           :src="item.imageUrl"
           :alt="item.imageAlt || ''"
+          :data-image-variant="item.imageVariant"
           width="72"
           height="72"
           loading="lazy"
@@ -101,6 +102,14 @@ defineProps<{ items: CardGridItem[] }>()
   height: 72px;
   border-radius: 8px;
   object-fit: cover;
+}
+
+.card-grid__art[data-image-variant='portrait'] {
+  filter: none;
+}
+
+.dark .card-grid__art[data-image-variant='portrait'] {
+  filter: grayscale(1);
 }
 
 .card-grid__body {

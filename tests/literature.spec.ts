@@ -31,6 +31,14 @@ test.describe('literature author grid', () => {
     expect((grid.match(/class="card-grid__art"/g) || []).length).toBe(2)
   })
 
+  test('author portraits opt into the theme-aware portrait treatment', () => {
+    const html = fs.readFileSync(HTML, 'utf-8')
+    const grid = html.match(/<ul class="card-grid".*?<\/ul>/s)?.[0] ?? ''
+    expect((grid.match(/data-image-variant="portrait"/g) || []).length).toBe(2)
+    expect(grid).toContain('src="/images/authors/machado-de-assis.webp"')
+    expect(grid).toContain('src="/images/authors/graciliano-ramos.webp"')
+  })
+
   test('sidebar group titles link to author hubs without overview rows', () => {
     const config = fs.readFileSync(CONFIG, 'utf-8')
     for (const author of ['machado-de-assis', 'graciliano-ramos', 'raul-pompeia']) {
