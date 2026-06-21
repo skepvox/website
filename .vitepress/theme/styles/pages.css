@@ -122,6 +122,32 @@
   margin-top: var(--sk-reading-heading-space);
 }
 
+/* Demote the generated body back-link to a quiet escape hatch — smaller, muted (not
+   brand green), compact — so the chapter title stays dominant. Scoped to the chapter
+   reading layout and the FIRST direct paragraph of the content wrapper, which is only
+   the generated "[Voltar ao livro]" / "[Retour au livre]" link: never in-prose links,
+   blockquote paragraphs, hubs, work hubs, podcast, or home. CSS only; the link stays
+   functional and visible. */
+.VPContentDoc:not(.has-aside) .vt-doc > div > p:first-child {
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
+.VPContentDoc:not(.has-aside) .vt-doc > div > p:first-child a {
+  color: var(--sk-reading-muted);
+  text-decoration: none;
+  transition: color 0.18s ease;
+}
+
+.VPContentDoc:not(.has-aside) .vt-doc > div > p:first-child a::before {
+  content: '←\00a0';
+}
+
+.VPContentDoc:not(.has-aside) .vt-doc > div > p:first-child a:hover {
+  color: var(--sk-reading-heading);
+}
+
 .vt-doc .katex {
   font-size: 1em;
 }
