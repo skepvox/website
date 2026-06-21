@@ -28,7 +28,7 @@ const SHOWS = [
     title: 'Vox English',
     count: '2 lessons',
     cards: 2,
-    listen: ['Apple Podcasts', 'RSS']
+    listen: ['Apple Podcasts', 'Spotify', 'RSS']
   }
 ]
 
@@ -68,10 +68,11 @@ test.describe('podcast show pages', () => {
     })
   }
 
-  test('english show page exposes no Spotify (no source URL exists)', () => {
+  test('english show page exposes the restored Spotify show link', () => {
     const html = showHtml('english')
-    expect(listenLabels(html)).not.toContain('Spotify')
-    expect(html).not.toContain('open.spotify.com')
+    expect(listenLabels(html)).toContain('Spotify')
+    expect(html).toContain('https://open.spotify.com/show/4Mlol3BnZgNRraKKspWFvf')
+    expect(html).not.toContain('https://open.spotify.com/episode/')
   })
 
   test('public lesson count matches the rendered cards', () => {

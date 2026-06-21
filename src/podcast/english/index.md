@@ -105,6 +105,7 @@ import episodes from './episodes.json'
   standfirst="A skepvox series by Thiago Oliveira: a short everyday scene, a two-speed dialogue, a guided explanation, and the full transcript."
   :count="episodes.length"
   apple="https://podcasts.apple.com/us/podcast/vox-english/id1894879280"
+  spotify="https://open.spotify.com/show/4Mlol3BnZgNRraKKspWFvf"
   rss="https://www.skepvox.com/podcast/english/feed.xml"
 />
 
