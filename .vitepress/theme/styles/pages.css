@@ -122,6 +122,18 @@
   margin-top: var(--sk-reading-heading-space);
 }
 
+/* Reading text face: self-hosted Literata on the running book prose only. Headings,
+   the back-link, ReadingNav, and all chrome stay in the UI sans (controlled). */
+.VPContentDoc:not(.has-aside) .vt-doc :is(p, li, blockquote, dd) {
+  font-family: var(--sk-reading-font);
+}
+
+/* Book prose bold uses the real Literata 700 (the theme's 650 weight would map to it
+   anyway, but pin it so a bold proposition number is unambiguously the 700 face). */
+.VPContentDoc:not(.has-aside) .vt-doc :is(p, li, blockquote, dd) :is(strong, b) {
+  font-weight: 700;
+}
+
 /* Demote the generated body back-link to a quiet escape hatch — smaller, muted (not
    brand green), compact — so the chapter title stays dominant. Scoped to the chapter
    reading layout and the FIRST direct paragraph of the content wrapper, which is only
@@ -132,6 +144,7 @@
   margin-bottom: 1rem;
   font-size: 0.9rem;
   line-height: 1.4;
+  font-family: var(--vt-font-family-base);
 }
 
 .VPContentDoc:not(.has-aside) .vt-doc > div > p:first-child a {
