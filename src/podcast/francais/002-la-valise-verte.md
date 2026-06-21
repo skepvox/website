@@ -92,21 +92,14 @@ head:
 ---
 
 <script setup>
+import PodcastEpisodeHeader from '@theme/components/PodcastEpisodeHeader.vue'
 import PodcastPlayer from '@theme/components/PodcastPlayer.vue'
 import cues from './002-la-valise-verte.cues.json'
 </script>
 
-# Vox Français 002 — La valise verte
-
-Cette page accompagne l’épisode 002 de Vox Français, une série skepvox de Thiago Oliveira pour apprendre le français. Elle réunit la transcription complète, le dialogue et le guide d’apprentissage.
-
-**Épisode:** La valise verte
-
-**Point principal:** Décrire un objet, situer un service, préciser un état et clarifier une situation avec des phrases simples autour de être.
-
-**Lien permanent:** <https://www.skepvox.com/podcast/francais/002-la-valise-verte>
-
-## Transcription complète
+<PodcastEpisodeHeader :episode="cues.episode">
+Décrire un objet, situer un service, préciser un état et clarifier une situation avec des phrases simples autour de être.
+</PodcastEpisodeHeader>
 
 <PodcastPlayer :episode="cues.episode" :sections="cues.sections" />
 

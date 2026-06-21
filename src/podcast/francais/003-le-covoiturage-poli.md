@@ -97,21 +97,14 @@ head:
 ---
 
 <script setup>
+import PodcastEpisodeHeader from '@theme/components/PodcastEpisodeHeader.vue'
 import PodcastPlayer from '@theme/components/PodcastPlayer.vue'
 import cues from './003-le-covoiturage-poli.cues.json'
 </script>
 
-# Vox Français 003 — Le covoiturage poli
-
-Cette page accompagne l’épisode 003 de Vox Français, une série skepvox de Thiago Oliveira pour apprendre le français. Elle réunit la transcription complète, le dialogue et le guide d’apprentissage.
-
-**Épisode:** Le covoiturage poli
-
-**Point principal:** Vérifier une identité, indiquer une origine ou un lieu, et ajuster tu/vous avec des phrases simples autour de être.
-
-**Lien permanent:** <https://www.skepvox.com/podcast/francais/003-le-covoiturage-poli>
-
-## Transcription complète
+<PodcastEpisodeHeader :episode="cues.episode">
+Vérifier une identité, indiquer une origine ou un lieu, et ajuster tu/vous avec des phrases simples autour de être.
+</PodcastEpisodeHeader>
 
 <PodcastPlayer :episode="cues.episode" :sections="cues.sections" />
 

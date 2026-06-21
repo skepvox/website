@@ -92,21 +92,14 @@ head:
 ---
 
 <script setup>
+import PodcastEpisodeHeader from '@theme/components/PodcastEpisodeHeader.vue'
 import PodcastPlayer from '@theme/components/PodcastPlayer.vue'
 import cues from './001-le-badge.cues.json'
 </script>
 
-# Vox Français 001 — Le badge
-
-Cette page accompagne l’épisode 001 de Vox Français, une série skepvox de Thiago Oliveira pour apprendre le français. Elle réunit la transcription complète, le dialogue et le guide d’apprentissage.
-
-**Épisode:** Le badge
-
-**Point principal:** Se présenter, préciser un rôle et clarifier qui est qui dans un lieu public, avec des phrases simples autour de être.
-
-**Lien permanent:** <https://www.skepvox.com/podcast/francais/001-le-badge>
-
-## Transcription complète
+<PodcastEpisodeHeader :episode="cues.episode">
+Se présenter, préciser un rôle et clarifier qui est qui dans un lieu public, avec des phrases simples autour de être.
+</PodcastEpisodeHeader>
 
 <PodcastPlayer :episode="cues.episode" :sections="cues.sections" />
 

@@ -7,7 +7,7 @@ import re
 from dataclasses import dataclass
 from pathlib import Path
 
-from _podcast_player_wiring import COMPONENT_TAG, script_setup_block
+from _podcast_player_wiring import COMPONENT_TAG, HEADER_CLOSE, HEADER_OPEN, script_setup_block
 
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -414,28 +414,22 @@ def build_frontmatter(show: ShowConfig, source_frontmatter: str, page_title: str
     return build_new_frontmatter(show, page_title, description, keywords, url, main_grammar_point, language, is_buffer)
 
 
-def render_body(show: ShowConfig, source_frontmatter: str, body: str, page_title: str, url: str, website_slug: str) -> str:
+def render_body(show: ShowConfig, source_frontmatter: str, body: str, website_slug: str) -> str:
     headings = parse_headings(body)
     guide_sections = children_of(show.guide_heading, 2, headings)
 
-    episode_number = int(parse_source_scalar(source_frontmatter, "episode-number"))
-    episode_title = parse_source_scalar(source_frontmatter, "episode-title")
     main_grammar_point = parse_source_scalar(source_frontmatter, "main-grammar-point")
 
+    # Compact "lesson thesis" header: eyebrow + episode-title H1 + the learning
+    # point as the lede (slot text). The boilerplate intro, the Épisode label, the
+    # raw permalink and the "Transcript" H2 are intentionally gone; the player
+    # follows immediately so it sits high on the page (mobile especially).
     parts = [
         script_setup_block(f"{website_slug}.cues.json"),
         "",
-        f"# {page_title}",
-        "",
-        show.intro_template.format(episode_number=episode_number),
-        "",
-        f"**{show.episode_label}:** {episode_title}",
-        "",
-        f"**{show.main_point_label}:** {main_grammar_point}",
-        "",
-        f"**{show.permalink_label}:** <{url}>",
-        "",
-        f"## {show.transcript_label}",
+        HEADER_OPEN,
+        main_grammar_point,
+        HEADER_CLOSE,
         "",
         COMPONENT_TAG,
         "",
@@ -563,7 +557,7 @@ def sync_show(show: ShowConfig) -> tuple[list[Path], dict]:
         page_title = f"{show.page_title_prefix} {episode_number:03d}{show.title_separator}{episode_title}"
         url = canonical_url(show, website_slug)
         frontmatter = build_frontmatter(show, source_frontmatter, page_title, url, existing_frontmatter, is_buffer)
-        body = render_body(show, source_frontmatter, source_body, page_title, url, website_slug)
+        body = render_body(show, source_frontmatter, source_body, website_slug)
         rendered = render_document(frontmatter, body)
 
         if not target_path.exists() or target_path.read_text() != rendered:

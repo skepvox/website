@@ -92,21 +92,14 @@ head:
 ---
 
 <script setup>
+import PodcastEpisodeHeader from '@theme/components/PodcastEpisodeHeader.vue'
 import PodcastPlayer from '@theme/components/PodcastPlayer.vue'
 import cues from './002-la-sarten-esta-ocupada.cues.json'
 </script>
 
-# Vox Español 002 - La sartén está ocupada
-
-Esta página acompaña el episodio 002 de Vox Español, una serie skepvox de Thiago Oliveira para aprender español. Reúne la transcripción completa, el diálogo y la guía de aprendizaje.
-
-**Episodio:** La sartén está ocupada
-
-**Punto principal:** Contraste entre ser y estar para identidad y rol, materia y propiedad, ubicación física, estado temporal, temperatura, preparación y cambios de lectura con adjetivos como bueno, raro, frío, listo y libre.
-
-**Enlace permanente:** <https://www.skepvox.com/podcast/espanol/002-la-sarten-esta-ocupada>
-
-## Transcripción completa
+<PodcastEpisodeHeader :episode="cues.episode">
+Contraste entre ser y estar para identidad y rol, materia y propiedad, ubicación física, estado temporal, temperatura, preparación y cambios de lectura con adjetivos como bueno, raro, frío, listo y libre.
+</PodcastEpisodeHeader>
 
 <PodcastPlayer :episode="cues.episode" :sections="cues.sections" />
 

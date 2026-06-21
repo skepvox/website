@@ -92,21 +92,14 @@ head:
 ---
 
 <script setup>
+import PodcastEpisodeHeader from '@theme/components/PodcastEpisodeHeader.vue'
 import PodcastPlayer from '@theme/components/PodcastPlayer.vue'
 import cues from './001-la-boda-es-a-las-seis.cues.json'
 </script>
 
-# Vox Español 001 - La boda es a las seis
-
-Esta página acompaña el episodio 001 de Vox Español, una serie skepvox de Thiago Oliveira para aprender español. Reúne la transcripción completa, el diálogo y la guía de aprendizaje.
-
-**Episodio:** La boda es a las seis
-
-**Punto principal:** Contraste entre ser y estar para identificar personas y cosas, hablar de profesiones, cualidades, lugar de eventos, ubicación, estado, ánimo y cambios de sentido con algunos adjetivos.
-
-**Enlace permanente:** <https://www.skepvox.com/podcast/espanol/001-la-boda-es-a-las-seis>
-
-## Transcripción completa
+<PodcastEpisodeHeader :episode="cues.episode">
+Contraste entre ser y estar para identificar personas y cosas, hablar de profesiones, cualidades, lugar de eventos, ubicación, estado, ánimo y cambios de sentido con algunos adjetivos.
+</PodcastEpisodeHeader>
 
 <PodcastPlayer :episode="cues.episode" :sections="cues.sections" />
 

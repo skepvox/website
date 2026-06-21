@@ -92,21 +92,14 @@ head:
 ---
 
 <script setup>
+import PodcastEpisodeHeader from '@theme/components/PodcastEpisodeHeader.vue'
 import PodcastPlayer from '@theme/components/PodcastPlayer.vue'
 import cues from './002-the-bowl-of-something.cues.json'
 </script>
 
-# Vox English 002 - The Bowl of Something
-
-This page accompanies episode 002 of Vox English, a skepvox series by Thiago Oliveira for practical English learning. It brings together the complete transcript, the dialogue and the learning guide.
-
-**Episode:** The Bowl of Something
-
-**Main point:** Using deliberate imprecision for approximate times, quantities, categories, placeholders, and list extenders in practical spoken English.
-
-**Permanent link:** <https://www.skepvox.com/podcast/english/002-the-bowl-of-something>
-
-## Complete Transcript
+<PodcastEpisodeHeader :episode="cues.episode">
+Using deliberate imprecision for approximate times, quantities, categories, placeholders, and list extenders in practical spoken English.
+</PodcastEpisodeHeader>
 
 <PodcastPlayer :episode="cues.episode" :sections="cues.sections" />
 

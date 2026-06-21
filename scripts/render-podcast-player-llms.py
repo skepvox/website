@@ -14,7 +14,7 @@ import json
 import re
 from pathlib import Path
 
-from _podcast_player_wiring import COMPONENT_TAG
+from _podcast_player_wiring import COMPONENT_TAG, HEADER_BLOCK_RE
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -79,9 +79,53 @@ def replace_component_after_import(text: str, cue_filename: str, rendered: str, 
     return text[:tag_index] + rendered + text[tag_index + len(COMPONENT_TAG) :]
 
 
-def patch_file(path: Path, cue_filename: str, rendered: str) -> None:
+# Human-readable episode-context labels for LLM outputs, by show language.
+LLM_LABELS = {
+    "fr": ("Série", "Épisode", "Point principal", "Durée"),
+    "es": ("Serie", "Episodio", "Punto principal", "Duración"),
+    "en": ("Series", "Episode", "Main point", "Duration"),
+}
+
+
+def header_markdown(episode: dict, lede: str) -> str:
+    """Plain-Markdown episode context for LLM outputs, built from the cue JSON and
+    the header slot text (the learning point). No component tag, no raw URL."""
+    series_label, episode_label, point_label, duration_label = LLM_LABELS.get(
+        episode.get("lang", "en"), LLM_LABELS["en"]
+    )
+    number = (episode.get("id", "").rsplit("-", 1)[-1] or "").zfill(3)
+    seconds = episode.get("durationSeconds") or 0
+    lines = [
+        f"# {episode.get('title', '')}",
+        f"{series_label}: {episode.get('showTitle', '')}",
+        f"{episode_label}: {number}",
+        f"{point_label}: {lede}",
+    ]
+    if seconds > 0:
+        lines.append(f"{duration_label}: {round(seconds / 60)} min")
+    return "\n".join(lines)
+
+
+def replace_header_after_import(text: str, cue_filename: str, episode: dict) -> str:
+    """Swap the <PodcastEpisodeHeader> block (located by tag, slot read as plain
+    text) for a Markdown context block; no-op if already expanded/absent."""
+    import_match = re.search(
+        rf"import\s+cues\s+from\s+['\"]\./{re.escape(cue_filename)}['\"]",
+        text,
+    )
+    if not import_match:
+        return text
+    match = HEADER_BLOCK_RE.search(text, import_match.end())
+    if not match:
+        return text
+    block = header_markdown(episode, match.group("lede").strip())
+    return text[: match.start()] + block + text[match.end() :]
+
+
+def patch_file(path: Path, cue_filename: str, rendered: str, episode: dict) -> None:
     original = path.read_text(encoding="utf-8")
     updated = replace_component_after_import(original, cue_filename, rendered, path)
+    updated = replace_header_after_import(updated, cue_filename, episode)
     path.write_text(updated, encoding="utf-8")
 
 
@@ -115,8 +159,10 @@ def main() -> None:
         if not dist_page.exists():
             raise RenderError(f"dist page not found: {dist_page}")
 
-        patch_file(dist_page, cue_json.name, rendered)
+        episode = json.loads(cue_json.read_text(encoding="utf-8")).get("episode", {})
+        patch_file(dist_page, cue_json.name, rendered, episode)
         llms_text = replace_component_after_import(llms_text, cue_json.name, rendered, LLMS_FULL)
+        llms_text = replace_header_after_import(llms_text, cue_json.name, episode)
         patched += 1
         print(f"OK   {page.relative_to(SRC)} -> rendered {cue_json.name} for LLM outputs")
 

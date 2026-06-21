@@ -92,21 +92,14 @@ head:
 ---
 
 <script setup>
+import PodcastEpisodeHeader from '@theme/components/PodcastEpisodeHeader.vue'
 import PodcastPlayer from '@theme/components/PodcastPlayer.vue'
 import cues from './001-the-two-minute-phone-call.cues.json'
 </script>
 
-# Vox English 001 - The Two-Minute Phone Call
-
-This page accompanies episode 001 of Vox English, a skepvox series by Thiago Oliveira for practical English learning. It brings together the complete transcript, the dialogue and the learning guide.
-
-**Episode:** The Two-Minute Phone Call
-
-**Main point:** Using discourse markers to open, delay, steer, infer and close practical spoken exchanges.
-
-**Permanent link:** <https://www.skepvox.com/podcast/english/001-the-two-minute-phone-call>
-
-## Complete Transcript
+<PodcastEpisodeHeader :episode="cues.episode">
+Using discourse markers to open, delay, steer, infer and close practical spoken exchanges.
+</PodcastEpisodeHeader>
 
 <PodcastPlayer :episode="cues.episode" :sections="cues.sections" />
 
