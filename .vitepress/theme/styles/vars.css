@@ -1,5 +1,5 @@
 :root {
-  --vp-code-tab-active-bar-color: var(--vt-c-green);
+  --vp-code-tab-active-bar-color: var(--sk-accent);
   --vp-code-tab-active-text-color: var(--vt-c-text-inverse-1);
   --vp-code-tab-text-color: var(--vt-c-text-inverse-2);
   --vp-code-tab-hover-text-color: var(--vt-c-text-inverse-1);
@@ -18,8 +18,8 @@
   --sk-reading-line-height: 1.75;
   --sk-reading-para-space: 1.4em;
   --sk-reading-heading-space: 3rem;
-  --sk-cue-active: rgba(66, 184, 131, 0.26);
-  --sk-cue-hover: rgba(33, 53, 71, 0.06);
+  --sk-cue-active: rgba(181, 148, 84, 0.26); /* muted antique gold "now playing" wash */
+  --sk-cue-hover: rgba(33, 53, 71, 0.06); /* neutral pre-click affordance */
 
   /* --- skepvox semantic tokens (Slice 1A, additive). Surfaces migrate onto these in
      a later slice; defining them here changes nothing on its own. --- */
@@ -78,19 +78,29 @@
   --sk-ink: 33 53 71; /* #213547 — the reading ink */
   --sk-text: var(--vt-c-text-1);
   --sk-text-body: rgba(33, 53, 71, 0.86);
-  --sk-text-muted: rgba(33, 53, 71, 0.62);
-  --sk-text-faint: rgba(33, 53, 71, 0.62); /* aliased to muted for now; unused */
+  --sk-text-muted: rgba(
+    33,
+    53,
+    71,
+    0.68
+  ); /* bumped from .62 → ~4.7:1 on white (AA at small label sizes) */
+  --sk-text-faint: rgba(33, 53, 71, 0.42); /* decorative separators only (aria-hidden) */
   --sk-rule: rgba(33, 53, 71, 0.1);
   --sk-surface: var(--vt-c-bg);
   --sk-surface-raised: var(--vt-c-bg-soft);
-  --sk-accent: #42b883; /* today's accent = Vue green; re-hued in 1C-ii */
-  --sk-accent-hover: #42b883;
-  --sk-accent-soft: rgba(66, 184, 131, 0.18);
+  --sk-accent: #2f4a6b; /* skepvox ink-blue (assessment Direction A) */
+  --sk-accent-hover: #233a57;
+  --sk-accent-soft: rgb(47 74 107 / 0.16);
   --sk-accent-contrast: #ffffff;
-  --sk-cue: 66 184 131; /* #42b883 — the live-audio cue hue */
-  --sk-link: #42b883; /* prose links render green today (@vue/theme); not yet overridden */
-  --sk-link-line: #42b883;
-  --sk-link-hover: #42b883;
+  /* Route @vue/theme's brand token through the owned accent so inherited green islands
+     (nav-active state, local-search highlight, prose links) follow the skepvox accent
+     in one place. The live podcast cue uses --sk-cue (a muted gold), kept separate. */
+  --vt-c-brand: var(--sk-accent);
+  --sk-cue: 181 148 84; /* muted antique gold — the live-audio "now playing" hue,
+     warm against the cool ink-blue accent; kept distinct from brand and from warnings */
+  --sk-link: var(--sk-text-body); /* prose links read as ink… */
+  --sk-link-line: rgb(47 74 107 / 0.45); /* …with a quiet accent underline */
+  --sk-link-hover: var(--sk-accent);
 }
 
 .dark {
@@ -106,10 +116,14 @@
   --sk-text: rgba(255, 255, 255, 0.92);
   --sk-text-body: rgba(255, 255, 255, 0.8);
   --sk-text-muted: rgba(255, 255, 255, 0.62);
-  --sk-text-faint: rgba(255, 255, 255, 0.62);
+  --sk-text-faint: rgba(255, 255, 255, 0.46);
   --sk-rule: rgba(255, 255, 255, 0.1);
-  --sk-accent-soft: rgba(66, 184, 131, 0.22);
-  --sk-cue-active: rgba(66, 184, 131, 0.32);
+  /* Lifted ink-blue for the still-dark surfaces (1C-iii will warm the bg): readable,
+     not neon. The brand token follows --sk-accent, so it lifts in dark too. */
+  --sk-accent: #8fb3df;
+  --sk-accent-hover: #a6c4e8;
+  --sk-accent-soft: rgb(143 179 223 / 0.2);
+  --sk-cue-active: rgba(199, 166, 99, 0.34); /* lifted gold, readable on the dark bg */
   --sk-cue-hover: rgba(255, 255, 255, 0.08);
   --sk-reading-heading: var(--sk-text);
   --sk-reading-body: var(--sk-text-body);

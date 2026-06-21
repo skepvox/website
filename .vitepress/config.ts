@@ -268,7 +268,7 @@ const config: UserConfigExport<ThemeConfig> = (() => {
 
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }],
-    ['meta', { name: 'theme-color', content: '#3c8772' }],
+    ['meta', { name: 'theme-color', content: '#2f4a6b' }],
     ['meta', { property: 'og:url', content: `${SITE_ORIGIN}/` }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: 'skepvox — Engenharia de Letras' }],
