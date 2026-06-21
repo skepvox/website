@@ -36,4 +36,17 @@ test.describe('card component consolidation', () => {
     )
     expect(offenders).toEqual([])
   })
+
+  test('CardGrid hover styles are gated away from touch-only browsers', () => {
+    const source = fs.readFileSync(
+      path.resolve('.vitepress/theme/components/CardGrid.vue'),
+      'utf-8'
+    )
+    const hoverRule = source.indexOf('.card-grid__link:hover')
+    const hoverMedia = source.indexOf('@media (hover: hover) and (pointer: fine)')
+    expect(hoverRule).toBeGreaterThan(-1)
+    expect(hoverMedia).toBeGreaterThan(-1)
+    expect(hoverMedia).toBeLessThan(hoverRule)
+    expect(source).toContain('.card-grid__link:focus-visible')
+  })
 })

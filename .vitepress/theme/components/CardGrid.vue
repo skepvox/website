@@ -81,9 +81,18 @@ defineProps<{ items: CardGridItem[] }>()
     background-color 0.2s;
 }
 
-.card-grid__link:hover {
-  border-color: var(--vt-c-brand, #3c8772);
-  background: var(--vt-c-bg, #fff);
+/* Keep hover styling off touch-only browsers. iOS Safari can otherwise consume
+   the first card tap to apply :hover, requiring a second tap to navigate. */
+@media (hover: hover) and (pointer: fine) {
+  .card-grid__link:hover {
+    border-color: var(--vt-c-brand, #3c8772);
+    background: var(--vt-c-bg, #fff);
+  }
+}
+
+.card-grid__link:focus-visible {
+  outline: 2px solid var(--vt-c-brand, #3c8772);
+  outline-offset: 3px;
 }
 
 .card-grid__art {
