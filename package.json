@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vitepress",
-    "build": "vitepress build && python3 scripts/render-podcast-player-llms.py",
+    "build": "python3 scripts/build-reading-nav.py && vitepress build && python3 scripts/render-podcast-player-llms.py",
+    "reading:nav": "python3 scripts/build-reading-nav.py",
     "preview": "vitepress preview",
     "preinstall": "npx only-allow pnpm",
     "type": "vue-tsc --noEmit",
