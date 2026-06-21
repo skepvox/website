@@ -73,4 +73,20 @@ test.describe('podcast show pages', () => {
       expect(headText(html)).toContain(show.count)
     }
   })
+
+  test('mobile card tap after returning from an episode navigates on the first tap', async ({
+    page
+  }, testInfo) => {
+    test.skip(testInfo.project.name !== 'mobile', 'mobile touch regression only')
+
+    await page.goto('/podcast/francais/')
+    await page.locator('.card-grid__link', { hasText: 'Le badge' }).click()
+    await expect(page).toHaveURL(/\/podcast\/francais\/001-le-badge$/)
+
+    await page.goBack()
+    await expect(page).toHaveURL(/\/podcast\/francais\/?$/)
+
+    await page.locator('.card-grid__link', { hasText: 'La valise verte' }).click()
+    await expect(page).toHaveURL(/\/podcast\/francais\/002-la-valise-verte$/)
+  })
 })

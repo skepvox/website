@@ -82,6 +82,15 @@ defineProps<{ items: CardGridItem[] }>()
     background-color var(--sk-motion-base);
 }
 
+.card-grid__link:hover,
+.card-grid__link:active {
+  /* Override @vue/theme's prose-link hover color inside .vt-doc. On touch
+     browsers that inherited hover state can consume the first tap before
+     navigation, so cards must stay visually stable unless a real pointer hover
+     exists. */
+  color: inherit;
+}
+
 /* Keep hover styling off touch-only browsers. iOS Safari can otherwise consume
    the first card tap to apply :hover, requiring a second tap to navigate. */
 @media (hover: hover) and (pointer: fine) {

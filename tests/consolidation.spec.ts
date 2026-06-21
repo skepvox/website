@@ -42,11 +42,16 @@ test.describe('card component consolidation', () => {
       path.resolve('.vitepress/theme/components/CardGrid.vue'),
       'utf-8'
     )
-    const hoverRule = source.indexOf('.card-grid__link:hover')
+    const inheritedHoverReset = source.indexOf('.card-grid__link:hover,\n.card-grid__link:active')
     const hoverMedia = source.indexOf('@media (hover: hover) and (pointer: fine)')
-    expect(hoverRule).toBeGreaterThan(-1)
+    const visualHoverRule = source.indexOf('border-color: var(--sk-accent)')
+    expect(inheritedHoverReset).toBeGreaterThan(-1)
+    expect(source).toMatch(
+      /\.card-grid__link:hover,\s*\.card-grid__link:active\s*{[^}]*color:\s*inherit;/s
+    )
     expect(hoverMedia).toBeGreaterThan(-1)
-    expect(hoverMedia).toBeLessThan(hoverRule)
+    expect(visualHoverRule).toBeGreaterThan(-1)
+    expect(hoverMedia).toBeLessThan(visualHoverRule)
     expect(source).toContain('.card-grid__link:focus-visible')
   })
 })

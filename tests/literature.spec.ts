@@ -46,6 +46,22 @@ test.describe('literature author grid', () => {
     }
     expect(config).not.toContain("text: 'Visão geral'")
   })
+
+  test('mobile author-card tap after returning from an author navigates on the first tap', async ({
+    page
+  }, testInfo) => {
+    test.skip(testInfo.project.name !== 'mobile', 'mobile touch regression only')
+
+    await page.goto('/literatura/')
+    await page.locator('.card-grid__link', { hasText: 'Machado de Assis' }).click()
+    await expect(page).toHaveURL(/\/literatura\/machado-de-assis\/?$/)
+
+    await page.goBack()
+    await expect(page).toHaveURL(/\/literatura\/?$/)
+
+    await page.locator('.card-grid__link', { hasText: 'Graciliano Ramos' }).click()
+    await expect(page).toHaveURL(/\/literatura\/graciliano-ramos\/?$/)
+  })
 })
 
 // SSR work cards on each author hub via CardGrid + generated works.json. Cards
@@ -110,4 +126,20 @@ test.describe('literature author hub work grids', () => {
       }
     })
   }
+
+  test('mobile work-card tap after returning from a work navigates on the first tap', async ({
+    page
+  }, testInfo) => {
+    test.skip(testInfo.project.name !== 'mobile', 'mobile touch regression only')
+
+    await page.goto('/literatura/machado-de-assis/')
+    await page.locator('.card-grid__link', { hasText: 'Dom Casmurro' }).click()
+    await expect(page).toHaveURL(/\/literatura\/machado-de-assis\/dom-casmurro$/)
+
+    await page.goBack()
+    await expect(page).toHaveURL(/\/literatura\/machado-de-assis\/?$/)
+
+    await page.locator('.card-grid__link', { hasText: 'Quincas Borba' }).click()
+    await expect(page).toHaveURL(/\/literatura\/machado-de-assis\/quincas-borba$/)
+  })
 })
