@@ -1,5 +1,6 @@
 /*
- * Self-hosted Literata (SIL Open Font License 1.1) — the book reading face.
+ * Self-hosted Literata — the book reading face. SIL Open Font License 1.1;
+ * the full license + copyright ships alongside the woff2 in src/public/fonts/OFL.txt.
  * Static, Latin-subset instances (400, 700, 400 italic) sliced from Google Fonts'
  * Literata v40 variable font with fontTools. Applied ONLY to book chapter/segment
  * prose via --sk-reading-font in pages.css; chrome stays the UI sans.
