@@ -3,7 +3,8 @@ title: Literatura
 ---
 
 <script setup>
-import AuthorGrid from '@theme/components/AuthorGrid.vue'
+import CardGrid from '@theme/components/CardGrid.vue'
+import { literatureAuthorCards } from '@theme/components/authors'
 </script>
 
 # Literatura
@@ -12,4 +13,4 @@ Biblioteca digital de obras clássicas, especialmente brasileiras.
 
 ## Autores
 
-<AuthorGrid kind="literature" />
+<CardGrid :items="literatureAuthorCards" />
