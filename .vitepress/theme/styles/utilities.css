@@ -26,3 +26,22 @@
     scroll-behavior: auto !important;
   }
 }
+
+/* Refined light↔dark theme transition: a deliberate, smooth fade of surface
+   backgrounds, borders, and text — never layout or position, so there is no shift.
+   Component hover transitions keep their own snappier timing. The reduced-motion floor
+   above neutralises this; the no-preference guard states the intent explicitly. */
+@media (prefers-reduced-motion: no-preference) {
+  body,
+  .VPNav,
+  .VPNavBar,
+  .VPSidebar,
+  .VPContent,
+  .vt-doc,
+  .vt-doc :is(h1, h2, h3, h4, p, li, blockquote) {
+    transition:
+      background-color 0.32s var(--sk-ease, ease),
+      border-color 0.32s var(--sk-ease, ease),
+      color 0.32s var(--sk-ease, ease);
+  }
+}
