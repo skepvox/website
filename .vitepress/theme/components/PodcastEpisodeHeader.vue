@@ -73,7 +73,7 @@ const durationLabel = computed(() => {
 }
 
 .vox-ep__sep {
-  color: var(--sk-accent);
+  color: var(--sk-text-faint);
 }
 
 /* Class + scoped attribute beats the theme's `.vp-doc h1`, so the episode title

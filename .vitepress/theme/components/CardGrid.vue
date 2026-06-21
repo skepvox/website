@@ -130,7 +130,7 @@ defineProps<{ items: CardGridItem[] }>()
   font-size: var(--sk-text-2xs);
   font-weight: 600;
   font-variant-numeric: tabular-nums;
-  color: var(--sk-accent);
+  color: var(--sk-text-muted);
 }
 
 .card-grid__title {

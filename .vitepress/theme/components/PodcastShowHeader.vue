@@ -84,7 +84,7 @@ const links = computed<ListenLink[]>(() => {
 }
 
 .show-head__sep {
-  color: var(--sk-accent);
+  color: var(--sk-text-faint);
 }
 
 /* Beats the theme's `.vt-doc h1`: restrained masthead title, not a marketing hero. */
