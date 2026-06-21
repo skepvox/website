@@ -2,6 +2,7 @@
 title: 'Vox Español'
 description: 'Vox Español, una serie skepvox de Thiago Oliveira, con diálogos, explicaciones, guías de lección y transcripciones.'
 outline: 2
+footer: false
 head:
   - - link
     - rel: alternate
@@ -92,22 +93,21 @@ head:
 ---
 
 <script setup>
+import PodcastShowHeader from '@theme/components/PodcastShowHeader.vue'
 import CardGrid from '@theme/components/CardGrid.vue'
 import { episodesToCards } from '@theme/components/episodes'
 import episodes from './episodes.json'
 </script>
 
-# Vox Español
-
-Vox Español es una serie skepvox de Thiago Oliveira para aprender español. Cada episodio propone una pequeña escena en español, un diálogo a dos velocidades, una explicación guiada y una guía de lección.
-
-Las páginas de esta sección reúnen las transcripciones, el vocabulario y las notas útiles para volver a escuchar el episodio con el texto delante.
-
-**Flujo RSS:** <https://www.skepvox.com/podcast/espanol/feed.xml>
-
-**Apple Podcasts:** <https://podcasts.apple.com/us/podcast/vox-español/id1894875937>
-
-**Spotify:** <https://open.spotify.com/show/7zcDdSa9cfxrAVmRhRVyIv>
+<PodcastShowHeader
+  lang="es"
+  eyebrow="Podcast de español como lengua extranjera"
+  standfirst="Una serie skepvox de Thiago Oliveira: una escena breve, un diálogo a dos velocidades, una explicación guiada y la transcripción completa."
+  :count="episodes.length"
+  apple="https://podcasts.apple.com/us/podcast/vox-español/id1894875937"
+  spotify="https://open.spotify.com/show/7zcDdSa9cfxrAVmRhRVyIv"
+  rss="https://www.skepvox.com/podcast/espanol/feed.xml"
+/>
 
 ## Lecciones
 

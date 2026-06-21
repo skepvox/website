@@ -2,6 +2,7 @@
 title: 'Vox Français'
 description: 'Vox Français, une série skepvox de Thiago Oliveira, avec dialogues, explications, guides de leçon et transcriptions.'
 outline: 2
+footer: false
 head:
   - - link
     - rel: alternate
@@ -92,24 +93,21 @@ head:
 ---
 
 <script setup>
+import PodcastShowHeader from '@theme/components/PodcastShowHeader.vue'
 import CardGrid from '@theme/components/CardGrid.vue'
 import { episodesToCards } from '@theme/components/episodes'
 import episodes from './episodes.json'
 </script>
 
-# Vox Français
-
-Vox Français est une série skepvox de Thiago Oliveira pour apprendre le français. Chaque épisode propose une petite scène en français, un dialogue à deux vitesses, une explication guidée et un guide de leçon.
-
-Les pages de cette section réunissent les transcriptions, le vocabulaire et les notes utiles pour réécouter l'épisode avec le texte sous les yeux.
-
-**Flux RSS :** <https://www.skepvox.com/podcast/francais/feed.xml>
-
-**Apple Podcasts :** <https://podcasts.apple.com/us/podcast/vox-français/id1894698848>
-
-**Spotify :** <https://open.spotify.com/show/1tmAKW7h6tOwuTouAhtYzk>
-
-**Amazon Music :** <https://music.amazon.com/podcasts/d7df025e-6ee3-48da-953f-198756fd1508/vox-français>
+<PodcastShowHeader
+  lang="fr"
+  eyebrow="Podcast de français langue étrangère"
+  standfirst="Une série skepvox de Thiago Oliveira : une scène courte, un dialogue à deux vitesses, une explication guidée et la transcription complète."
+  :count="episodes.length"
+  apple="https://podcasts.apple.com/us/podcast/vox-français/id1894698848"
+  spotify="https://open.spotify.com/show/1tmAKW7h6tOwuTouAhtYzk"
+  rss="https://www.skepvox.com/podcast/francais/feed.xml"
+/>
 
 ## Leçons
 

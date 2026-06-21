@@ -2,6 +2,7 @@
 title: 'Vox English'
 description: 'Vox English, a skepvox series by Thiago Oliveira, with practical dialogues, explanations, learning guides and transcripts.'
 outline: 2
+footer: false
 head:
   - - link
     - rel: alternate
@@ -92,22 +93,20 @@ head:
 ---
 
 <script setup>
+import PodcastShowHeader from '@theme/components/PodcastShowHeader.vue'
 import CardGrid from '@theme/components/CardGrid.vue'
 import { episodesToCards } from '@theme/components/episodes'
 import episodes from './episodes.json'
 </script>
 
-# Vox English
-
-Vox English is a skepvox series by Thiago Oliveira for practical English learning. Each lesson uses a small everyday scene, a two-speed dialogue, a guided explanation and a learning guide.
-
-The pages in this section collect transcripts, vocabulary and notes for listening again with the text open.
-
-**RSS feed:** <https://www.skepvox.com/podcast/english/feed.xml>
-
-**Apple Podcasts:** <https://podcasts.apple.com/us/podcast/vox-english/id1894879280>
-
-**Amazon Music:** <https://music.amazon.com/podcasts/b1200000-5b01-44b8-a2a1-d47955fd7687/vox-english>
+<PodcastShowHeader
+  lang="en"
+  eyebrow="Practical English podcast"
+  standfirst="A skepvox series by Thiago Oliveira: a short everyday scene, a two-speed dialogue, a guided explanation, and the full transcript."
+  :count="episodes.length"
+  apple="https://podcasts.apple.com/us/podcast/vox-english/id1894879280"
+  rss="https://www.skepvox.com/podcast/english/feed.xml"
+/>
 
 ## Lessons
 
