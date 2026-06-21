@@ -92,7 +92,8 @@ head:
 ---
 
 <script setup>
-import EpisodeGrid from '@theme/components/EpisodeGrid.vue'
+import CardGrid from '@theme/components/CardGrid.vue'
+import { episodesToCards } from '@theme/components/episodes'
 import episodes from './episodes.json'
 </script>
 
@@ -110,4 +111,4 @@ Las páginas de esta sección reúnen las transcripciones, el vocabulario y las 
 
 ## Lecciones
 
-<EpisodeGrid :episodes="episodes" />
+<CardGrid :items="episodesToCards(episodes)" />
