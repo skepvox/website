@@ -12,16 +12,24 @@ const SHOWS = [
   {
     slug: 'francais',
     title: 'Vox Français',
-    count: '2 leçons',
+    count: '3 leçons',
+    cards: 3,
     listen: ['Apple Podcasts', 'Spotify', 'RSS']
   },
   {
     slug: 'espanol',
     title: 'Vox Español',
     count: '2 lecciones',
+    cards: 2,
     listen: ['Apple Podcasts', 'Spotify', 'RSS']
   },
-  { slug: 'english', title: 'Vox English', count: '2 lessons', listen: ['Apple Podcasts', 'RSS'] }
+  {
+    slug: 'english',
+    title: 'Vox English',
+    count: '2 lessons',
+    cards: 2,
+    listen: ['Apple Podcasts', 'RSS']
+  }
 ]
 
 const head = (html: string) =>
@@ -54,7 +62,7 @@ test.describe('podcast show pages', () => {
       expect(bodyText(html)).not.toMatch(
         /https?:\/\/(podcasts\.apple|open\.spotify|www\.skepvox\.com\/podcast[^"\s]*feed)/
       )
-      expect((html.match(/card-grid__item/g) || []).length).toBe(2)
+      expect((html.match(/card-grid__item/g) || []).length).toBe(show.cards)
       // the misleading sidebar-derived doc pager is suppressed on show pages
       expect(html).not.toContain('VPContentDocFooter')
     })
@@ -66,10 +74,10 @@ test.describe('podcast show pages', () => {
     expect(html).not.toContain('open.spotify.com')
   })
 
-  test('public lesson count excludes buffer episodes (matches the rendered cards)', () => {
+  test('public lesson count matches the rendered cards', () => {
     for (const show of SHOWS) {
       const html = showHtml(show.slug)
-      expect((html.match(/card-grid__item/g) || []).length).toBe(2)
+      expect((html.match(/card-grid__item/g) || []).length).toBe(show.cards)
       expect(headText(html)).toContain(show.count)
     }
   })

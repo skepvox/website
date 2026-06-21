@@ -148,7 +148,7 @@ test.describe('reading-nav component (SSR)', () => {
     }
   })
 
-  test('BufferNotice still renders above content on a buffer page', () => {
-    expect(html('podcast/francais/003-le-covoiturage-poli')).toContain('class="buffer-notice"')
+  test('BufferNotice is absent on the released francais-003 page', () => {
+    expect(html('podcast/francais/003-le-covoiturage-poli')).not.toContain('class="buffer-notice"')
   })
 })

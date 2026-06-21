@@ -14,5 +14,13 @@
     "durationSeconds": 1390.199,
     "description": "Décrire un objet, situer un service, préciser un état et clarifier une situation avec des phrases simples autour de être.",
     "artworkUrl": "https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg"
+  },
+  {
+    "number": 3,
+    "title": "Le covoiturage poli",
+    "href": "/podcast/francais/003-le-covoiturage-poli",
+    "durationSeconds": 1325.469,
+    "description": "Vérifier une identité, indiquer une origine ou un lieu, et ajuster tu/vous avec des phrases simples autour de être.",
+    "artworkUrl": "https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg"
   }
 ]

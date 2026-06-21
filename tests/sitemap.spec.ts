@@ -24,6 +24,7 @@ test.describe('sitemap de-emphasis', () => {
       '/podcast/',
       '/podcast/francais/',
       '/podcast/francais/001-le-badge',
+      '/podcast/francais/003-le-covoiturage-poli',
       '/literatura/',
       '/literatura/machado-de-assis/',
       '/literatura/machado-de-assis/dom-casmurro', // multi-chapter work hub
@@ -36,13 +37,12 @@ test.describe('sitemap de-emphasis', () => {
     }
   })
 
-  test('drops chapter routes, /404, and the buffer page', () => {
+  test('drops chapter routes and /404', () => {
     const urls = sitemapUrls()
     for (const u of [
       '/literatura/machado-de-assis/dom-casmurro/00-01-001-do-titulo', // chapter under a multi-chapter work
       '/louis-lavelle/de-l-etre/00-00-001-de-la-primaute-de-l-etre', // chapter under a kept lavelle work
-      '/404',
-      '/podcast/francais/003-le-covoiturage-poli' // buffer page
+      '/404'
     ]) {
       expect(urls, `${u} should NOT be in the sitemap`).not.toContain(u)
     }

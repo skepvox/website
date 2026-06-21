@@ -44,6 +44,12 @@ const MEDIA_SESSION_ARTWORK = {
   sizes: '512x512',
   type: 'image/png'
 }
+const TRANSCRIPT_ANCHORS: Record<string, string> = {
+  fr: 'transcription-complete',
+  es: 'transcripcion-completa',
+  en: 'complete-transcript'
+}
+const transcriptAnchor = TRANSCRIPT_ANCHORS[props.episode.lang] ?? 'transcript'
 
 // Flat, time-ordered cue list + id->index map, built once (props are static).
 // Pure data work — safe to run during SSR.
@@ -304,7 +310,7 @@ onBeforeUnmount(() => {
     </div>
     <div class="vox-player__spacer" aria-hidden="true"></div>
 
-    <div ref="transcriptRef" class="vox-transcript">
+    <div :id="transcriptAnchor" ref="transcriptRef" class="vox-transcript">
       <section
         v-for="section in sections"
         :key="section.id"

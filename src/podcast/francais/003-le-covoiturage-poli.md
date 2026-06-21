@@ -1,13 +1,8 @@
 ---
 title: "Vox Français 003 — Le covoiturage poli"
 description: "Guide de leçon et transcription de l’épisode 003 de Vox Français : Le covoiturage poli. Vérifier une identité, indiquer une origine ou un lieu, et ajuster tu/vous avec des phrases simples autour de être."
-search: false
-buffer: true
 outline: 2
 head:
-  - - meta
-    - name: robots
-      content: "noindex, nofollow"
   - - link
     - rel: canonical
       href: "https://www.skepvox.com/podcast/francais/003-le-covoiturage-poli"

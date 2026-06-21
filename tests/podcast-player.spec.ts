@@ -158,12 +158,11 @@ test.describe('podcast player', () => {
   })
 })
 
-// Real unlisted buffer episode. Asserts the stable buffer-visibility contract:
-// built + reachable, noindex, our search:false/buffer directives, sitemap
-// exclusion, and no listing/sidebar link. Deliberately avoids VitePress-internal
-// search-index chunks (hashed name + version-dependent format). Fully file-based
-// (no browser, no remote audio); requires a prior build (pnpm podcast:build).
-test.describe('buffer episode (francais-003)', () => {
+// Published target episode. It used to be a reviewed buffer page, so this locks
+// the promotion contract: the page stays built/reachable, becomes indexable,
+// enters the public manifest/sidebar/sitemap, and keeps the synced transcript.
+// Fully file-based (no browser, no remote audio); requires a prior build.
+test.describe('published target episode (francais-003)', () => {
   const SLUG = '003-le-covoiturage-poli'
   const SRC = path.resolve(`src/podcast/francais/${SLUG}.md`)
   const CUES = path.resolve(`src/podcast/francais/${SLUG}.cues.json`)
@@ -185,45 +184,44 @@ test.describe('buffer episode (francais-003)', () => {
     expect(cues.episode.audioUrl).toContain(V6_MP3)
   })
 
-  test('is noindex and flagged search:false / buffer', () => {
-    expect(fs.readFileSync(HTML, 'utf-8')).toContain('name="robots" content="noindex, nofollow"')
+  test('is public and indexable after release promotion', () => {
+    expect(fs.readFileSync(HTML, 'utf-8')).not.toContain('name="robots" content="noindex')
     const fm = fs.readFileSync(SRC, 'utf-8').match(/^---\n([\s\S]*?)\n---\n/)?.[1] ?? ''
-    expect(fm.match(/^buffer: true$/gm)?.length).toBe(1)
-    expect(fm.match(/^search: false$/gm)?.length).toBe(1)
+    expect(fm).not.toMatch(/^buffer:\s*true$/m)
+    expect(fm).not.toMatch(/^search:\s*false$/m)
   })
 
-  test('is excluded from the sitemap while 001 and 002 remain', () => {
+  test('is included in the sitemap with 001 and 002', () => {
     const sitemap = fs.readFileSync(SITEMAP, 'utf-8')
-    expect(sitemap).not.toContain(SLUG)
     expect(sitemap).toContain('001-le-badge')
     expect(sitemap).toContain('002-la-valise-verte')
+    expect(sitemap).toContain(SLUG)
   })
 
-  test('is not linked from listings or the sidebar', () => {
-    for (const rel of [
-      'src/podcast/francais/index.md',
-      'src/podcast/index.md',
-      '.vitepress/config.ts'
-    ]) {
-      expect(fs.readFileSync(path.resolve(rel), 'utf-8')).not.toContain(SLUG)
-    }
+  test('is listed in the public manifest and sidebar', () => {
+    const manifest = JSON.parse(fs.readFileSync('src/podcast/francais/episodes.json', 'utf-8'))
+    expect(manifest.map((e: { number: number }) => e.number)).toContain(3)
+    expect(manifest.find((e: { number: number }) => e.number === 3)?.href).toContain(SLUG)
+    expect(fs.readFileSync('.vitepress/config.ts', 'utf-8')).toContain(`/podcast/francais/${SLUG}`)
   })
 })
 
 // Per-show episode card grid: a generated manifest drives SSR cards on the index
-// pages. Buffer/draft episodes are excluded from the manifest and never linked.
+// pages. Released episodes are listed; future buffers/drafts remain absent.
 // File-based; requires a prior build (pnpm podcast:build).
 test.describe('episode card grid', () => {
   const MANIFEST = path.resolve('src/podcast/francais/episodes.json')
   const INDEX_HTML = path.resolve('.vitepress/dist/podcast/francais/index.html')
-  const BUFFER_SLUG = '003-le-covoiturage-poli'
+  const RELEASED_SLUG = '003-le-covoiturage-poli'
+  const FUTURE_BUFFER_SLUG = '004-le-studio-calme'
 
-  test('manifest includes public episodes and excludes the buffer', () => {
+  test('manifest includes released public episodes and excludes future buffers', () => {
     const manifest = JSON.parse(fs.readFileSync(MANIFEST, 'utf-8'))
     const numbers = manifest.map((e: { number: number }) => e.number)
     expect(numbers).toContain(1)
     expect(numbers).toContain(2)
-    expect(numbers).not.toContain(3) // francais-003 is a buffer
+    expect(numbers).toContain(3)
+    expect(numbers).not.toContain(4)
     for (const e of manifest) {
       expect(typeof e.title).toBe('string')
       expect(e.href).toMatch(/^\/podcast\/francais\//)
@@ -234,45 +232,40 @@ test.describe('episode card grid', () => {
   test('built index renders SSR episode cards with numbers', () => {
     const html = fs.readFileSync(INDEX_HTML, 'utf-8')
     expect(html).toContain('class="card-grid"')
-    expect((html.match(/class="card-grid__item"/g) || []).length).toBe(2)
-    // the episode number is preserved as the card eyebrow (001/002 style)
+    expect((html.match(/class="card-grid__item"/g) || []).length).toBe(3)
+    // the episode number is preserved as the card eyebrow (001/002/003 style)
     expect(html).toMatch(/card-grid__eyebrow[^>]*>001</)
     expect(html).toMatch(/card-grid__eyebrow[^>]*>002</)
+    expect(html).toMatch(/card-grid__eyebrow[^>]*>003</)
   })
 
   test('cards link to public episode pages and show duration', () => {
     const html = fs.readFileSync(INDEX_HTML, 'utf-8')
     expect(html).toContain('href="/podcast/francais/001-le-badge"')
     expect(html).toContain('href="/podcast/francais/002-la-valise-verte"')
+    expect(html).toContain(`href="/podcast/francais/${RELEASED_SLUG}"`)
     expect(html).toMatch(/\d+ min/)
   })
 
-  test('no buffer episode is linked from the index', () => {
+  test('future buffer episode is not linked from the index', () => {
     const html = fs.readFileSync(INDEX_HTML, 'utf-8')
-    // The buffer slug may appear in VitePress's internal route hashmap, but it
+    // Future buffer slugs may appear in VitePress's internal route hashmap, but
     // must never be a navigable link or appear in the card grid.
-    expect(html).not.toContain(`href="/podcast/francais/${BUFFER_SLUG}"`)
+    expect(html).not.toContain(`href="/podcast/francais/${FUTURE_BUFFER_SLUG}"`)
     const grid = html.match(/<ul class="card-grid".*?<\/ul>/s)?.[0] ?? ''
-    expect(grid).not.toContain(BUFFER_SLUG)
+    expect(grid).not.toContain(FUTURE_BUFFER_SLUG)
   })
 })
 
 // The pre-publication notice renders (theme content-top slot) only on buffer
 // pages (frontmatter buffer: true). Public pages must stay clean. File-based;
-// requires a prior build. (noindex/search:false/sitemap/reachability for 003 are
-// covered by the 'buffer episode (francais-003)' block above.)
+// requires a prior build.
 test.describe('buffer notice', () => {
   const dist = (slug: string) => path.resolve(`.vitepress/dist/podcast/francais/${slug}.html`)
   const FR_LABEL = 'Pré-publication · page non listée'
 
-  test('renders on the francais-003 buffer page', () => {
-    const html = fs.readFileSync(dist('003-le-covoiturage-poli'), 'utf-8')
-    expect(html).toContain('class="buffer-notice"')
-    expect(html).toContain(FR_LABEL)
-  })
-
-  test('does not render on public episode pages (001, 002)', () => {
-    for (const slug of ['001-le-badge', '002-la-valise-verte']) {
+  test('does not render on public episode pages (001, 002, 003)', () => {
+    for (const slug of ['001-le-badge', '002-la-valise-verte', '003-le-covoiturage-poli']) {
       const html = fs.readFileSync(dist(slug), 'utf-8')
       expect(html).not.toContain('class="buffer-notice"')
       expect(html).not.toContain(FR_LABEL)
@@ -281,9 +274,8 @@ test.describe('buffer notice', () => {
 })
 
 // Generated show manifest drives an SSR CardGrid on the /podcast/ hub. Episode
-// counts come from the per-show episodes.json (buffers already excluded), so the
-// buffer episode never reaches the public count or the grid. File-based; needs a
-// prior build (pnpm podcast:build).
+// counts come from the per-show episodes.json, so released episodes count and
+// future buffers do not. File-based; needs a prior build (pnpm podcast:build).
 test.describe('podcast hub show grid', () => {
   const SHOWS = path.resolve('src/podcast/shows.json')
   const HUB_HTML = path.resolve('.vitepress/dist/podcast/index.html')
@@ -299,9 +291,9 @@ test.describe('podcast hub show grid', () => {
       expect(typeof s.meta).toBe('string')
       expect(typeof s.episodeCount).toBe('number')
     }
-    // francais excludes the buffer episode (003) from the public count
+    // francais includes the released 003 and excludes future buffers.
     const fr = shows.find((s: { href: string }) => s.href === '/podcast/francais/')
-    expect(fr.episodeCount).toBe(2)
+    expect(fr.episodeCount).toBe(3)
   })
 
   test('built hub renders three SSR show cards linking to the series', () => {
@@ -314,13 +306,13 @@ test.describe('podcast hub show grid', () => {
     expect(html).toMatch(/\d+ (épisodes?|episodios?|episodes?)/)
   })
 
-  test('does not leak the buffer episode into the hub', () => {
+  test('does not leak future buffer episodes into the hub', () => {
     const html = fs.readFileSync(HUB_HTML, 'utf-8')
-    // The buffer slug may appear in VitePress's internal route hashmap, but never
-    // as a link or inside the card grid.
-    expect(html).not.toContain('href="/podcast/francais/003-le-covoiturage-poli"')
+    // Future buffer slugs may appear in VitePress's internal route hashmap, but
+    // never as a link or inside the card grid.
+    expect(html).not.toContain('href="/podcast/francais/004-le-studio-calme"')
     const grid = html.match(/<ul class="card-grid".*?<\/ul>/s)?.[0] ?? ''
-    expect(grid).not.toContain('003-le-covoiturage-poli')
+    expect(grid).not.toContain('004-le-studio-calme')
   })
 })
 
@@ -335,7 +327,7 @@ test.describe('podcast sidebar labels', () => {
     expect(config).not.toMatch(/^\s*'\/podcast\/(?:francais|espanol|english)\/':/m)
 
     expect(podcastSidebar).toMatch(
-      /text: 'Vox Français',\s*link: '\/podcast\/francais\/'[\s\S]*?001 - Le badge[\s\S]*?002 - La valise verte/
+      /text: 'Vox Français',\s*link: '\/podcast\/francais\/'[\s\S]*?001 - Le badge[\s\S]*?002 - La valise verte[\s\S]*?003 - Le covoiturage poli/
     )
     expect(podcastSidebar).toMatch(
       /text: 'Vox Español',\s*link: '\/podcast\/espanol\/'[\s\S]*?001 - La boda es a las seis[\s\S]*?002 - La sartén está ocupada/
@@ -355,7 +347,9 @@ test.describe('podcast sidebar labels', () => {
 // (PodcastEpisodeHeader), generated by sync-podcast-lesson-pages.py. These lock
 // in the redesign so the old generated-document shape cannot creep back.
 test.describe('podcast episode header', () => {
-  const BUFFER_HTML = path.resolve('.vitepress/dist/podcast/francais/003-le-covoiturage-poli.html')
+  const PUBLIC_003_HTML = path.resolve(
+    '.vitepress/dist/podcast/francais/003-le-covoiturage-poli.html'
+  )
 
   test('built page SSR-renders the compact header (eyebrow, episode-title H1, lede)', () => {
     const html = fs.readFileSync(DIST_HTML, 'utf-8')
@@ -403,12 +397,11 @@ test.describe('podcast episode header', () => {
     expect(llms).toContain('Point principal: Se présenter, préciser un rôle')
   })
 
-  test('buffer page keeps the BufferNotice above the header', () => {
-    const html = fs.readFileSync(BUFFER_HTML, 'utf-8')
-    const notice = html.indexOf('class="buffer-notice"')
+  test('published 003 page has the header with no BufferNotice', () => {
+    const html = fs.readFileSync(PUBLIC_003_HTML, 'utf-8')
     const header = html.indexOf('vox-ep__eyebrow')
-    expect(notice).toBeGreaterThanOrEqual(0) // BufferNotice present on the buffer page
-    expect(header).toBeGreaterThan(notice) // and it renders above the header
+    expect(header).toBeGreaterThanOrEqual(0)
+    expect(html).not.toContain('class="buffer-notice"')
   })
 
   test('the page generator is idempotent', () => {

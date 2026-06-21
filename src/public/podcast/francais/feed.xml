@@ -32,7 +32,7 @@ Page de l'émission : https://www.skepvox.com/podcast/francais/]]></itunes:summa
       <title>Vox Français</title>
       <link>https://www.skepvox.com/podcast/francais/</link>
     </image>
-    <lastBuildDate>Fri, 19 Jun 2026 21:04:29 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 19:19:03 -0300</lastBuildDate>
     <pubDate>Sun, 07 Jun 2026 09:00:00 -0300</pubDate>
 
     <item>
@@ -96,6 +96,44 @@ Vous trouverez sur la page de l'épisode le guide d'apprentissage, la note cultu
       <podcast:transcript url="https://media.skepvox.com/podcast/francais/transcripts/francais-002-la-valise-verte-v11.vtt" type="text/vtt" language="fr" rel="captions" />
       <itunes:duration>00:23:10</itunes:duration>
       <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg" />
+    </item>
+
+    <item>
+      <title>003 - Le covoiturage poli</title>
+      <link>https://skepvox.com/podcast/francais/003-le-covoiturage-poli</link>
+      <guid isPermaLink="false">vox-francais-003</guid>
+      <pubDate>Sun, 21 Jun 2026 09:00:00 -0300</pubDate>
+      <description><![CDATA[Guide complet et transcription :
+https://skepvox.com/podcast/francais/003-le-covoiturage-poli#transcription-complete
+
+Dans cet épisode de Vox Français, nous travaillons le verbe être au présent avec l'identité, l'origine, le lieu, l'état et la différence entre tu et vous.
+
+L'épisode s'appelle "Le covoiturage poli". Une rencontre de covoiturage commence avec des présentations, des vérifications et beaucoup de prudence dans le choix entre tu et vous.
+
+Cette leçon vous aide à utiliser être dans une interaction polie, à situer une personne, à parler d'origine et à ajuster le niveau de formalité dans une conversation.
+
+Le guide de leçon explique aussi le vocabulaire important de l'épisode : covoiturage, conductrice, passager, aire d'autoroute, application, se tutoyer, vouvoyer, en retard, service qualité, contrôleur, être en examen, et plusieurs autres mots utiles.
+
+Vous trouverez sur la page de l'épisode le guide d'apprentissage, la note culturelle, le dialogue lent, le dialogue à vitesse naturelle et la transcription complète.]]></description>
+      <content:encoded><![CDATA[<p><strong>Guide complet et transcription :</strong> <a href="https://skepvox.com/podcast/francais/003-le-covoiturage-poli#transcription-complete">https://skepvox.com/podcast/francais/003-le-covoiturage-poli#transcription-complete</a></p>
+
+<p>Dans cet épisode de <strong>Vox Français</strong>, nous travaillons le verbe être au présent avec l'identité, l'origine, le lieu, l'état et la différence entre tu et vous.</p>
+
+<p>L'épisode s'appelle "Le covoiturage poli". Une rencontre de covoiturage commence avec des présentations, des vérifications et beaucoup de prudence dans le choix entre tu et vous.</p>
+
+<p>Cette leçon vous aide à utiliser être dans une interaction polie, à situer une personne, à parler d'origine et à ajuster le niveau de formalité dans une conversation.</p>
+
+<p>Le guide de leçon explique aussi le vocabulaire important de l'épisode : covoiturage, conductrice, passager, aire d'autoroute, application, se tutoyer, vouvoyer, en retard, service qualité, contrôleur, être en examen, et plusieurs autres mots utiles.</p>
+
+<p>Vous trouverez sur la page de l'épisode le guide d'apprentissage, la note culturelle, le dialogue lent, le dialogue à vitesse naturelle et la transcription complète.</p>]]></content:encoded>
+      <enclosure url="https://media.skepvox.com/podcast/francais/audio/francais-003-le-covoiturage-poli-v6.mp3" length="31812798" type="audio/mpeg" />
+      <podcast:transcript url="https://media.skepvox.com/podcast/francais/transcripts/francais-003-le-covoiturage-poli-v6.vtt" type="text/vtt" language="fr" rel="captions" />
+      <itunes:duration>00:22:05</itunes:duration>
+      <itunes:episode>3</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
