@@ -369,3 +369,47 @@ These are genuine forks that need a human call before the slices they gate:
 6. **Global site footer.** Today the copyright footer renders only on the home page. Add a quiet global footer on all pages, or keep reading pages chrome-free? Affects Phase 5.
 7. **Mobile appearance toggle.** The dark/light toggle is hidden below 1280px — mobile users cannot switch. Surface a mobile-reachable toggle (it's a real gap for night reading), or rely on the OS preference? Affects Phase 5.
 8. **Dark-mode reading ink.** Pure-white-at-0.8 can be harsh for long night reading; adopt a slightly warm off-white reading ink in the leaf scope? Affects Slice 1C/2.
+
+---
+
+## Closing Handoff — 2026-06-21
+
+This section is the working tasknote for the current roadmap execution. It records what is already shipped, what is intentionally unpushed, and where to resume.
+
+### Shipped / merged today
+
+- Warm owned surface system and ink-blue accent are live: light uses a warm paper surface, dark uses a warm near-black/ivory reading system, and inherited `@vue/theme` brand color routes through `--sk-accent`.
+- The active podcast cue was reassessed after the warm surfaces: muted gold remains the better live-state color than blue or neutral ink. It reads as "now playing," not text selection.
+- Literata is self-hosted and applied only to book chapter prose. Chrome, headings, podcast transcript, and navigation stay UI-sans. The OFL license ships with the font files.
+- Mobile theme toggle is exposed in the navbar near search, and the theme chrome sync is route-aware.
+- The theme transition regression was fixed after the snap-shell experiment was rejected: visible page/chrome surfaces fade together again; only the iOS Safari browser bars still snap because they are outside the DOM.
+- The mobile card tap/back-navigation bug was fixed for card surfaces.
+
+### Explicitly rejected / do not retry as-is
+
+- Custom podcast playback-rate controls and transcript breadcrumb controls: rejected. Native audio already exposes speed, and the breadcrumb took space without enough sophistication.
+- Shell snap transition for iOS Safari chrome: rejected. It removed the stale edge but looked cheap because the page composition split during the theme change.
+- Badge-wall podcast show pages: rejected. Listen links should stay calm and text-based unless a future platform module is designed as a full system.
+- Bare green logo carryover: rejected as brand direction. The current green reads as Vue/framework, not skepvox.
+- "Just the horse" logo direction: rejected. If the jagunço/rider is removed, the mark loses the soul of the identity.
+
+### Currently unpushed
+
+- `6872ad2 Retire legacy green from the navbar mark via a brand-mark token`
+  - Scope: `.vitepress/theme/components/NavBarTitleBrand.vue` and `.vitepress/theme/styles/vars.css`.
+  - Behavior: navbar mark uses `logo.svg` as a CSS mask and fills it with `--sk-brand-mark` (`#2f4a6b` light, warm ivory dark).
+  - Intentionally untouched: `src/public/logo.svg`, favicon, OG image, media-session assets, and future disc/icon work.
+  - Review status at close: diff boundary is clean; final review/verify still needs to be completed before push.
+
+### First task next session
+
+1. Finish Codex review of `6872ad2` without changing scope.
+2. Run/confirm `pnpm verify`.
+3. If approved, Codex pushes through the standard develop → main flow.
+4. Then decide whether the next design slice is:
+   - the small favicon/app-icon/disc-lockup asset slice, or
+   - a deeper navigation assessment covering mobile nav, sidebars, browser back behavior, theme toggle placement, search, and the eventual custom shell.
+
+### Roadmap continuity
+
+The next broad strategic move should not be another generic product report. The useful next assessment is specifically **navigation and shell ownership**: how to move from rented `@vue/theme` chrome toward a skepvox-owned web-app shell while preserving search, SEO, generated content, reading surfaces, podcast transcript behavior, and the calm iOS-level visual standard.
