@@ -19,6 +19,10 @@
   background-color: var(--sk-brand-mark);
   -webkit-mask: url(/logo.svg) center / contain no-repeat;
   mask: url(/logo.svg) center / contain no-repeat;
+  /* Fade the lockup as one object: the logo fill and the wordmark colour share the same
+     token, duration and easing, so they are the same colour at every frame of the theme
+     fade — no part snaps or lags. */
+  transition: background-color 0.32s var(--sk-ease, ease);
 }
 
 /* Increase this padding if you want more space */
@@ -27,7 +31,12 @@
 }
 
 .text {
+  /* Same brand-mark token as the logo, so the lockup is one colour in light and dark and
+     fades in lockstep with the mark (overrides the inherited nav-link colour/transition,
+     so the wordmark never fades through a mismatched tone while the logo holds). */
+  color: var(--sk-brand-mark);
   font-size: 16px;
   font-weight: 500;
+  transition: color 0.32s var(--sk-ease, ease);
 }
 </style>
