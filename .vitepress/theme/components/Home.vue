@@ -52,7 +52,7 @@ section {
 }
 
 .accent {
-  color: var(--vt-c-brand, #3c8772);
+  color: var(--sk-accent);
 }
 
 #highlights {
@@ -65,7 +65,7 @@ section {
   display: block;
   text-decoration: none;
   color: inherit;
-  background-color: var(--vt-c-bg-soft, #f6f6f7);
+  background-color: var(--sk-surface-raised);
   border: 1px solid var(--vt-c-divider, #e2e2e3);
   border-radius: 8px;
   transition:
@@ -75,8 +75,8 @@ section {
 
 @media (hover: hover) and (pointer: fine) {
   #highlights .vt-box:hover {
-    border-color: var(--vt-c-brand, #3c8772);
-    background-color: var(--vt-c-bg, #fff);
+    border-color: var(--sk-accent);
+    background-color: var(--sk-surface);
   }
 }
 

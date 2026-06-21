@@ -74,7 +74,7 @@ defineProps<{ items: CardGridItem[] }>()
   padding: 14px;
   border: 1px solid var(--vt-c-divider, #e2e2e3);
   border-radius: var(--sk-card-radius);
-  background: var(--vt-c-bg-soft, #f6f6f7);
+  background: var(--sk-surface-raised);
   color: inherit;
   text-decoration: none;
   transition:
@@ -86,8 +86,8 @@ defineProps<{ items: CardGridItem[] }>()
    the first card tap to apply :hover, requiring a second tap to navigate. */
 @media (hover: hover) and (pointer: fine) {
   .card-grid__link:hover {
-    border-color: var(--vt-c-brand, #3c8772);
-    background: var(--vt-c-bg, #fff);
+    border-color: var(--sk-accent);
+    background: var(--sk-surface);
   }
 }
 
@@ -130,7 +130,7 @@ defineProps<{ items: CardGridItem[] }>()
   font-size: var(--sk-text-2xs);
   font-weight: 600;
   font-variant-numeric: tabular-nums;
-  color: var(--vt-c-brand, #3c8772);
+  color: var(--sk-accent);
 }
 
 .card-grid__title {

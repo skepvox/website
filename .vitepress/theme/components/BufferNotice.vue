@@ -48,7 +48,7 @@ const copy = computed(() => COPY[lang.value])
   border: 1px solid var(--vt-c-divider, #e2e2e3);
   border-left: 3px solid var(--vt-c-yellow-1, #e0a82e);
   border-radius: 8px;
-  background: var(--vt-c-bg-soft, #f6f6f7);
+  background: var(--sk-surface-raised);
   font-size: var(--sk-text-xs);
   line-height: 1.5;
 }
@@ -56,7 +56,7 @@ const copy = computed(() => COPY[lang.value])
 .buffer-notice__label {
   display: block;
   font-weight: 600;
-  color: var(--vt-c-text-1, #213547);
+  color: var(--sk-text);
 }
 
 .buffer-notice__body {

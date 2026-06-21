@@ -84,7 +84,7 @@ const links = computed<ListenLink[]>(() => {
 }
 
 .show-head__sep {
-  color: var(--vt-c-brand, #3c8772);
+  color: var(--sk-accent);
 }
 
 /* Beats the theme's `.vt-doc h1`: restrained masthead title, not a marketing hero. */
@@ -139,8 +139,8 @@ const links = computed<ListenLink[]>(() => {
 }
 
 .show-head__listen-link:hover {
-  color: var(--vt-c-brand, #3c8772);
-  border-bottom-color: var(--vt-c-brand, #3c8772);
+  color: var(--sk-accent);
+  border-bottom-color: var(--sk-accent);
 }
 
 .show-head__listen-link.is-secondary {

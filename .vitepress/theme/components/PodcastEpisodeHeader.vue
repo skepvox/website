@@ -73,7 +73,7 @@ const durationLabel = computed(() => {
 }
 
 .vox-ep__sep {
-  color: var(--vt-c-brand, #3c8772);
+  color: var(--sk-accent);
 }
 
 /* Class + scoped attribute beats the theme's `.vp-doc h1`, so the episode title
@@ -93,7 +93,7 @@ const durationLabel = computed(() => {
   width: 2.25rem;
   height: 2px;
   margin: 0.7rem 0 0.6rem;
-  background: var(--vt-c-brand, #3c8772);
+  background: var(--sk-accent);
   border-radius: 2px;
 }
 

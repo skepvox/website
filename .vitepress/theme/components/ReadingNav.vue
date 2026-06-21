@@ -135,7 +135,7 @@ const hasNav = computed(() => !!siblings.value && (!!siblings.value.prev || !!si
   font-weight: 600;
   letter-spacing: 0.04em;
   text-transform: uppercase;
-  color: var(--vt-c-brand, #42b883);
+  color: var(--sk-accent);
 }
 
 .reading-nav__title {
