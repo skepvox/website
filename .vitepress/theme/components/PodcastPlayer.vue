@@ -341,7 +341,7 @@ onBeforeUnmount(() => {
 
 <style scoped>
 .vox-player {
-  margin: 1.5rem 0 2rem;
+  margin: var(--sk-space-5) 0 var(--sk-space-6);
 }
 
 /* Desktop: CSS sticky keeps the transport reachable while reading. */
@@ -378,7 +378,7 @@ onBeforeUnmount(() => {
     left: 0;
     right: 0;
     z-index: 10;
-    padding: 8px 24px;
+    padding: var(--sk-space-2) var(--sk-space-5);
     padding-left: calc(24px + env(safe-area-inset-left, 0px));
     padding-right: calc(24px + env(safe-area-inset-right, 0px));
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.12);
@@ -401,7 +401,7 @@ onBeforeUnmount(() => {
   margin: 0 0 0.6rem;
   padding-top: 1rem;
   border-top: 1px solid var(--sk-reading-rule);
-  font-size: 15px;
+  font-size: var(--sk-text-sm);
   font-weight: 600;
   letter-spacing: 0.01em;
   color: var(--sk-reading-muted);
@@ -414,7 +414,7 @@ onBeforeUnmount(() => {
 
 .vox-para {
   margin: 0 0 0.85rem;
-  font-size: 17px;
+  font-size: var(--sk-text-md);
   line-height: 1.78;
 }
 
@@ -465,7 +465,7 @@ onBeforeUnmount(() => {
 
 @media (max-width: 768px) {
   .vox-para {
-    font-size: 16px;
+    font-size: var(--sk-text-base);
     line-height: 1.72;
   }
 }
