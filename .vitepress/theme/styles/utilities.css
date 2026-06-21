@@ -12,3 +12,17 @@
   clip: rect(0, 0, 0, 0);
   border: 0;
 }
+
+/* Global reduced-motion floor (a11y): neutralise transitions, animations and smooth
+   scroll for readers who ask for less motion. Component-level reduced-motion rules and
+   PodcastPlayer's JS scroll handling remain in addition to this. */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
