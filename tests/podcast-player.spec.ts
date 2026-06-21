@@ -322,3 +322,177 @@ test.describe('podcast hub show grid', () => {
     expect(grid).not.toContain('003-le-covoiturage-poli')
   })
 })
+
+// Learning controls: scroll-only section breadcrumb + playback-rate. Media-free —
+// the section steps never touch audio, and the rate only sets audio.playbackRate.
+test.describe('podcast player learning controls', () => {
+  const SECTION_IDS = [
+    'vox-section-01',
+    'vox-section-02',
+    'vox-section-03',
+    'vox-section-04',
+    'vox-section-05'
+  ]
+
+  test('renders the section breadcrumb and rate control server-side', () => {
+    const html = fs.readFileSync(DIST_HTML, 'utf-8')
+    expect(html).toContain('class="vox-steps"')
+    for (const id of SECTION_IDS) {
+      expect(html).toContain(`id="${id}"`) // the section anchor target
+      expect(html).toContain(`aria-controls="${id}"`) // breadcrumb step -> section
+    }
+    expect(html).toContain('class="vox-rate__toggle"')
+    for (const label of ['0.75×', '1.00×', '1.25×', '1.50×']) expect(html).toContain(label)
+  })
+
+  test('breadcrumb renders exactly the five compact steps in order', async ({ page }) => {
+    await page.goto(PAGE_PATH)
+    // exactly 5 button steps; the two dialogue steps deliberately share "Dial."
+    await expect(page.locator('.vox-step')).toHaveText([
+      'Intro',
+      'Dial.',
+      'Exp.',
+      'Dial.',
+      'Concl.'
+    ])
+    await expect(page.locator('button.vox-step')).toHaveCount(5)
+    // separation: the breadcrumb has no rate control; the rate lives in the player bar
+    await expect(page.locator('.vox-steps .vox-rate')).toHaveCount(0)
+    await expect(page.locator('.vox-steps .vox-rate__toggle')).toHaveCount(0)
+    await expect(page.locator('.vox-player__bar .vox-rate')).toHaveCount(1)
+    // the two dialogue steps stay distinguishable via their full source labels
+    const titles = await page
+      .locator('.vox-step')
+      .evaluateAll((els) => els.map((el) => el.getAttribute('title')))
+    expect(titles[1]).not.toBe(titles[3])
+  })
+
+  test('a real click on a section step scrolls below the bar, no seek, no nav', async ({
+    page
+  }) => {
+    await page.emulateMedia({ reducedMotion: 'reduce' }) // instant scroll for determinism
+    await page.goto(PAGE_PATH)
+    const before = await page.evaluate(() => {
+      const a = document.querySelector('.vox-player__audio') as HTMLMediaElement
+      return { time: a.currentTime, paused: a.paused }
+    })
+    const step = page.locator('.vox-step').nth(2) // Explication
+    const targetId = await step.getAttribute('aria-controls')
+    await step.click() // real user click, not a synthetic dispatch
+    await page.waitForTimeout(300) // let the scroll settle / any nav race surface
+    const after = await page.evaluate((id) => {
+      const a = document.querySelector('.vox-player__audio') as HTMLMediaElement
+      const sec = document.getElementById(id!)!.getBoundingClientRect()
+      const bar = document.querySelector('.vox-player__bar')!.getBoundingClientRect()
+      return {
+        time: a.currentTime,
+        paused: a.paused,
+        top: sec.top,
+        barBottom: bar.bottom,
+        hash: location.hash
+      }
+    }, targetId)
+    // scroll-only: audio untouched, and no hash navigation raced the custom scroll
+    expect(after.time).toBe(before.time)
+    expect(after.paused).toBe(before.paused)
+    expect(after.hash).toBe('')
+    // heading landed below the sticky/fixed bar (not hidden) and near the top
+    expect(after.top).toBeGreaterThanOrEqual(after.barBottom - 2)
+    expect(after.top).toBeLessThan(320)
+  })
+
+  test('the playing section step gets aria-current', async ({ page }) => {
+    await page.goto(PAGE_PATH)
+    const cues = loadCues()
+    const cue = cues[Math.floor(cues.length * 0.7)]
+    await page.evaluate((c) => {
+      const audio = document.querySelector('.vox-player__audio') as HTMLMediaElement
+      Object.defineProperty(audio, 'currentTime', {
+        configurable: true,
+        get: () => c.start + 0.2,
+        set: () => {}
+      })
+      audio.dispatchEvent(new Event('timeupdate'))
+    }, cue)
+    await expect(page.locator('.vox-step[aria-current="true"]')).toHaveCount(1)
+  })
+
+  test('a rate button sets native audio.playbackRate', async ({ page }) => {
+    await page.goto(PAGE_PATH)
+    const rate = await page.evaluate(() => {
+      const audio = document.querySelector('.vox-player__audio') as HTMLMediaElement
+      const btns = [...document.querySelectorAll('.vox-rate__btn')] as HTMLElement[]
+      btns[btns.length - 1].click() // 1.50×
+      return audio.playbackRate
+    })
+    expect(rate).toBe(1.5)
+  })
+
+  test('restores the saved playback rate from localStorage', async ({ page }) => {
+    await page.addInitScript(() => localStorage.setItem('vox:playback-rate', '1.25'))
+    await page.goto(PAGE_PATH)
+    const result = await page.evaluate(() => ({
+      rate: (document.querySelector('.vox-player__audio') as HTMLMediaElement).playbackRate,
+      active: document.querySelector('.vox-rate__btn.is-active')?.textContent?.trim()
+    }))
+    expect(result.rate).toBe(1.25)
+    expect(result.active).toBe('1.25×')
+  })
+
+  test('mobile rate menu: in the bar, opens and closes on Escape / outside / select', async ({
+    page
+  }, info) => {
+    test.skip(info.project.name !== 'mobile', 'mobile-only toggle')
+    await page.goto(PAGE_PATH)
+    // Deterministic state: bring the player to the top so the fixed bar settles and
+    // the menu opens into the visible area. We then wait on visibility, not a sleep.
+    await page.evaluate(() => {
+      const player = document.querySelector('.vox-player')!
+      const nav =
+        parseFloat(
+          getComputedStyle(document.documentElement).getPropertyValue('--vt-nav-height')
+        ) || 55
+      window.scrollTo(0, player.getBoundingClientRect().top + window.scrollY - nav - 6)
+    })
+    const bar = page.locator('.vox-player__bar')
+    const toggle = page.locator('.vox-player__bar .vox-rate__toggle')
+    const menu = page.locator('.vox-rate__menu')
+    await expect(bar).toBeVisible()
+    await expect(toggle).toBeVisible()
+    // the breadcrumb is a separate row, not inside the player bar
+    await expect(page.locator('.vox-player__bar .vox-steps')).toHaveCount(0)
+    await expect(toggle).toHaveAttribute('aria-expanded', 'false')
+    await expect(menu).toBeHidden()
+
+    // open: menu visible, four fixed two-decimal labels, no horizontal overflow
+    await toggle.click()
+    await expect(menu).toBeVisible()
+    await expect(menu.locator('.vox-rate__btn')).toHaveText(['0.75×', '1.00×', '1.25×', '1.50×'])
+    const overflow = await page.evaluate(
+      () => document.documentElement.scrollWidth - document.documentElement.clientWidth
+    )
+    expect(overflow).toBeLessThanOrEqual(1)
+
+    // Escape closes
+    await page.keyboard.press('Escape')
+    await expect(menu).toBeHidden()
+
+    // reopen → outside click closes
+    await toggle.click()
+    await expect(menu).toBeVisible()
+    await page.evaluate(() =>
+      document.body.dispatchEvent(new MouseEvent('click', { bubbles: true }))
+    )
+    await expect(menu).toBeHidden()
+
+    // reopen → selecting 1.50× closes and sets native playbackRate
+    await toggle.click()
+    await expect(menu).toBeVisible()
+    await menu.locator('.vox-rate__btn', { hasText: '1.50×' }).click()
+    await expect(menu).toBeHidden()
+    const rate = await page.evaluate(
+      () => (document.querySelector('.vox-player__audio') as HTMLMediaElement).playbackRate
+    )
+    expect(rate).toBe(1.5)
+  })
+})
