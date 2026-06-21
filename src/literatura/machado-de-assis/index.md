@@ -147,6 +147,11 @@ head:
       }
 ---
 
+<script setup>
+import CardGrid from '@theme/components/CardGrid.vue'
+import works from './works.json'
+</script>
+
 # Machado de Assis
 
 <img
@@ -161,12 +166,7 @@ Abaixo, uma bibliografia abrangente de suas obras, organizada por gênero e orde
 
 ## Obras no skepvox
 
-*   [Memórias póstumas de Brás Cubas](/literatura/machado-de-assis/bras-cubas)
-*   [Quincas Borba](/literatura/machado-de-assis/quincas-borba)
-*   [Dom Casmurro](/literatura/machado-de-assis/dom-casmurro)
-*   [Esaú e Jacó](/literatura/machado-de-assis/esau-e-jaco)
-*   [O Alienista](/literatura/machado-de-assis/o-alienista)
-*   [A Cartomante](/literatura/machado-de-assis/a-cartomante)
+<CardGrid :items="works" />
 
 ## Romances
 

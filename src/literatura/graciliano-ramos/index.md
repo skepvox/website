@@ -110,6 +110,11 @@ head:
       }
 ---
 
+<script setup>
+import CardGrid from '@theme/components/CardGrid.vue'
+import works from './works.json'
+</script>
+
 # Graciliano Ramos
 
 <img
@@ -124,9 +129,7 @@ Abaixo, uma bibliografia completa de suas obras, organizadas por gênero e ordem
 
 ## Obras no skepvox
 
-*   [São Bernardo](/literatura/graciliano-ramos/sao-bernardo)
-*   [Angústia](/literatura/graciliano-ramos/angustia)
-*   [Vidas Secas](/literatura/graciliano-ramos/vidas-secas)
+<CardGrid :items="works" />
 
 ## Romances
 

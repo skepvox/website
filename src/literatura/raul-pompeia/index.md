@@ -42,6 +42,11 @@ head:
       }
 ---
 
+<script setup>
+import CardGrid from '@theme/components/CardGrid.vue'
+import works from './works.json'
+</script>
+
 # Raul Pompeia
 
 Raul Pompeia (1863–1895) foi um escritor brasileiro, ligado ao realismo-naturalismo,
@@ -50,4 +55,4 @@ brasileira do século XIX.
 
 ## Obras
 
-- [O Ateneu](/literatura/raul-pompeia/o-ateneu)
+<CardGrid :items="works" />
