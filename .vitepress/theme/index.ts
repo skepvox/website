@@ -4,6 +4,7 @@ import { VPTheme } from '@vue/theme'
 import './styles/index.css'
 import NavBarTitleBrand from './components/NavBarTitleBrand.vue'
 import BufferNotice from './components/BufferNotice.vue'
+import ReadingNav from './components/ReadingNav.vue'
 
 import 'vitepress/dist/client/theme-default/styles/components/vp-code-group.css'
 import 'vitepress/dist/client/theme-default/styles/icons.css'
@@ -14,7 +15,8 @@ export default Object.assign({}, VPTheme, {
     // @ts-ignore
     return h(VPTheme.Layout, null, {
       'navbar-title': () => h(NavBarTitleBrand),
-      'content-top': () => h(BufferNotice)
+      'content-top': () => [h(BufferNotice), h(ReadingNav, { placement: 'top' })],
+      'content-bottom': () => h(ReadingNav, { placement: 'bottom' })
     })
   }
 })
