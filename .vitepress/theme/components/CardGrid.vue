@@ -43,10 +43,10 @@ defineProps<{ items: CardGridItem[] }>()
 <style scoped>
 .card-grid {
   list-style: none;
-  margin: 1.5rem 0 0;
+  margin: var(--sk-space-5) 0 0;
   padding: 0;
   display: grid;
-  gap: 16px;
+  gap: var(--sk-space-4);
   grid-template-columns: 1fr;
 }
 
@@ -73,13 +73,13 @@ defineProps<{ items: CardGridItem[] }>()
   height: 100%;
   padding: 14px;
   border: 1px solid var(--vt-c-divider, #e2e2e3);
-  border-radius: 12px;
+  border-radius: var(--sk-card-radius);
   background: var(--vt-c-bg-soft, #f6f6f7);
   color: inherit;
   text-decoration: none;
   transition:
-    border-color 0.2s,
-    background-color 0.2s;
+    border-color var(--sk-motion-base),
+    background-color var(--sk-motion-base);
 }
 
 /* Keep hover styling off touch-only browsers. iOS Safari can otherwise consume
@@ -122,19 +122,19 @@ defineProps<{ items: CardGridItem[] }>()
 .card-grid__heading {
   display: flex;
   align-items: baseline;
-  gap: 8px;
+  gap: var(--sk-space-2);
 }
 
 .card-grid__eyebrow {
   flex: 0 0 auto;
-  font-size: 12px;
+  font-size: var(--sk-text-2xs);
   font-weight: 600;
   font-variant-numeric: tabular-nums;
   color: var(--vt-c-brand, #3c8772);
 }
 
 .card-grid__title {
-  font-size: 16px;
+  font-size: var(--sk-text-base);
   font-weight: 600;
   line-height: 1.3;
 }
@@ -151,7 +151,7 @@ defineProps<{ items: CardGridItem[] }>()
 }
 
 .card-grid__meta {
-  font-size: 12px;
+  font-size: var(--sk-text-2xs);
   color: var(--vt-c-text-3, #67676c);
   font-variant-numeric: tabular-nums;
 }

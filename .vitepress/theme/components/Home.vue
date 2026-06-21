@@ -69,8 +69,8 @@ section {
   border: 1px solid var(--vt-c-divider, #e2e2e3);
   border-radius: 8px;
   transition:
-    border-color 0.2s,
-    background-color 0.2s;
+    border-color var(--sk-motion-base),
+    background-color var(--sk-motion-base);
 }
 
 @media (hover: hover) and (pointer: fine) {
@@ -96,7 +96,7 @@ section {
 
 #highlights p {
   font-weight: 400;
-  font-size: 15px;
+  font-size: var(--sk-text-sm);
 }
 
 @media (max-width: 960px) {
