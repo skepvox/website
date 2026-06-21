@@ -61,13 +61,16 @@ test.describe('color token layer (Slice 1C-i)', () => {
     expect(css).toContain('var(--sk-accent)')
   })
 
-  test("the accent still resolves to today's green in this indirection slice", () => {
-    expect(css).toMatch(/--sk-accent:\s*#42b883/)
+  test('the accent is the skepvox ink-blue and routes @vue/theme brand through it (1C-ii)', () => {
+    expect(css).toMatch(/--sk-accent:\s*#2f4a6b/)
+    expect(css).toMatch(/--vt-c-brand:\s*var\(--sk-accent\)/)
+    expect(css).not.toMatch(/--sk-accent:\s*#42b883/)
   })
 
-  test('the active podcast cue sources from the cue tokens', () => {
+  test('the active podcast cue sources from the cue tokens and is the muted gold (not green)', () => {
     expect(css).toMatch(/vox-cue\.is-active[^{]*\{[^}]*var\(--sk-cue-active\)/)
-    expect(css).toContain('--sk-cue:')
+    expect(css).toMatch(/--sk-cue:\s*181 148 84/)
+    expect(css).toMatch(/--sk-cue-active:\s*rgba\(181, ?148, ?84/)
   })
 
   test('owned components consume the owned surface tokens', () => {
