@@ -71,7 +71,7 @@ const links = computed<ListenLink[]>(() => {
 
 <style scoped>
 .show-head {
-  margin: 0 0 2rem;
+  margin: 0 0 var(--sk-space-6);
 }
 
 .show-head__eyebrow {
@@ -92,7 +92,7 @@ const links = computed<ListenLink[]>(() => {
   margin: 0 0 0.65rem;
   padding: 0;
   border: 0;
-  font-size: clamp(1.85rem, 4vw, 2.25rem);
+  font-size: var(--sk-masthead);
   line-height: 1.12;
   font-weight: 600;
   letter-spacing: -0.02em;
@@ -100,7 +100,7 @@ const links = computed<ListenLink[]>(() => {
 }
 
 .show-head__standfirst {
-  max-width: 42rem;
+  max-width: var(--sk-measure-lede);
   margin: 0 0 1.1rem;
   font-size: 1.05rem;
   line-height: 1.6;

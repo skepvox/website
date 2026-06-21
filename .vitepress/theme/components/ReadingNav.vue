@@ -91,7 +91,7 @@ const hasNav = computed(() => !!siblings.value && (!!siblings.value.prev || !!si
    small, muted, lower-case, aligned to the reading column. */
 .reading-context {
   max-width: var(--sk-reading-measure, 35rem);
-  margin: 0 auto 1rem;
+  margin: 0 auto var(--sk-space-4);
   font-size: 0.76rem;
   letter-spacing: 0.01em;
   color: var(--sk-reading-muted);
@@ -109,7 +109,7 @@ const hasNav = computed(() => !!siblings.value && (!!siblings.value.prev || !!si
 .reading-nav__row {
   display: flex;
   justify-content: space-between;
-  gap: 1.5rem;
+  gap: var(--sk-space-5);
 }
 
 .reading-nav__link {

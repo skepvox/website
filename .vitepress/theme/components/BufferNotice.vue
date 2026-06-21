@@ -43,13 +43,13 @@ const copy = computed(() => COPY[lang.value])
 
 <style scoped>
 .buffer-notice {
-  margin: 0 0 1.5rem;
+  margin: 0 0 var(--sk-space-5);
   padding: 12px 14px;
   border: 1px solid var(--vt-c-divider, #e2e2e3);
   border-left: 3px solid var(--vt-c-yellow-1, #e0a82e);
   border-radius: 8px;
   background: var(--vt-c-bg-soft, #f6f6f7);
-  font-size: 13px;
+  font-size: var(--sk-text-xs);
   line-height: 1.5;
 }
 

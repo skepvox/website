@@ -63,7 +63,7 @@ const durationLabel = computed(() => {
   display: flex;
   flex-wrap: wrap;
   align-items: baseline;
-  gap: 0 0.5rem;
+  gap: 0 var(--sk-space-2);
   margin: 0 0 0.45rem;
   font-size: 0.78rem;
   font-weight: 500;
@@ -111,7 +111,7 @@ const durationLabel = computed(() => {
 
 @media (min-width: 768px) {
   .vox-ep {
-    margin-bottom: 1.5rem;
+    margin-bottom: var(--sk-space-5);
   }
 
   .vox-ep__title {
