@@ -1,19 +1,14 @@
 <script setup lang="ts">
-// Generic SSR card grid: a responsive list of linked cards with an optional
-// square image, title, description and meta line. Presentation only, no data
-// work and no browser APIs, so it renders fully server-side. Shared across hubs
-// (e.g. the /podcast/ show grid); mirrors EpisodeGrid's card anatomy for visual
-// harmony.
-interface CardItem {
-  title: string
-  href: string
-  description?: string
-  imageUrl?: string
-  imageAlt?: string
-  meta?: string
-}
+// Generic SSR card grid: a responsive list of linked cards, each with an optional
+// square image, an optional brand-colored eyebrow before the title, a clamped
+// description and an optional meta line. Presentation only — no data work and no
+// browser APIs, so it renders fully server-side. Shared across every hub (podcast
+// shows/episodes, literature authors/works, Lavelle works); callers adapt their
+// own data into CardGridItem (e.g. episodesToCards) rather than CardGrid knowing
+// about any one section.
+import type { CardGridItem } from './cards'
 
-defineProps<{ items: CardItem[] }>()
+defineProps<{ items: CardGridItem[] }>()
 </script>
 
 <template>
@@ -31,7 +26,11 @@ defineProps<{ items: CardItem[] }>()
           decoding="async"
         />
         <span class="card-grid__body">
-          <span class="card-grid__title">{{ item.title }}</span>
+          <span v-if="item.eyebrow" class="card-grid__heading">
+            <span class="card-grid__eyebrow">{{ item.eyebrow }}</span>
+            <span class="card-grid__title">{{ item.title }}</span>
+          </span>
+          <span v-else class="card-grid__title">{{ item.title }}</span>
           <span v-if="item.description" class="card-grid__desc">{{ item.description }}</span>
           <span v-if="item.meta" class="card-grid__meta">{{ item.meta }}</span>
         </span>
@@ -100,6 +99,20 @@ defineProps<{ items: CardItem[] }>()
   min-width: 0;
   flex-direction: column;
   gap: 6px;
+}
+
+.card-grid__heading {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+}
+
+.card-grid__eyebrow {
+  flex: 0 0 auto;
+  font-size: 12px;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  color: var(--vt-c-brand, #3c8772);
 }
 
 .card-grid__title {
