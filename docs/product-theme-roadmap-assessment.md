@@ -384,32 +384,38 @@ This section is the working tasknote for the current roadmap execution. It recor
 - Mobile theme toggle is exposed in the navbar near search, and the theme chrome sync is route-aware.
 - The theme transition regression was fixed after the snap-shell experiment was rejected: visible page/chrome surfaces fade together again; only the iOS Safari browser bars still snap because they are outside the DOM.
 - The mobile card tap/back-navigation bug was fixed for card surfaces.
+- The navbar mark no longer carries the legacy Vue green: the visible nav mark now uses `logo.svg` as a mask filled by `--sk-brand-mark` (`#2f4a6b` light, warm ivory dark).
 
 ### Explicitly rejected / do not retry as-is
 
 - Custom podcast playback-rate controls and transcript breadcrumb controls: rejected. Native audio already exposes speed, and the breadcrumb took space without enough sophistication.
 - Shell snap transition for iOS Safari chrome: rejected. It removed the stale edge but looked cheap because the page composition split during the theme change.
 - Badge-wall podcast show pages: rejected. Listen links should stay calm and text-based unless a future platform module is designed as a full system.
-- Bare green logo carryover: rejected as brand direction. The current green reads as Vue/framework, not skepvox.
+- Bare green logo carryover: rejected as brand direction. Green reads as Vue/framework, not skepvox; any remaining green logo assets are now follow-up asset debt, not the direction.
 - "Just the horse" logo direction: rejected. If the jagunço/rider is removed, the mark loses the soul of the identity.
 
-### Currently unpushed
+### Logo state after the final push
 
-- `6872ad2 Retire legacy green from the navbar mark via a brand-mark token`
-  - Scope: `.vitepress/theme/components/NavBarTitleBrand.vue` and `.vitepress/theme/styles/vars.css`.
-  - Behavior: navbar mark uses `logo.svg` as a CSS mask and fills it with `--sk-brand-mark` (`#2f4a6b` light, warm ivory dark).
-  - Intentionally untouched: `src/public/logo.svg`, favicon, OG image, media-session assets, and future disc/icon work.
-  - Review status at close: diff boundary is clean; final review/verify still needs to be completed before push.
+- `6872ad2 Retire legacy green from the navbar mark via a brand-mark token` is pushed.
+- Scope was deliberately narrow: `.vitepress/theme/components/NavBarTitleBrand.vue` and `.vitepress/theme/styles/vars.css`.
+- Behavior: the navbar mark uses `logo.svg` as a CSS mask and fills it with `--sk-brand-mark` (`#2f4a6b` light, warm ivory dark). The SVG file itself is unchanged.
+- Intentionally untouched and still open: favicon, Apple touch icon, mask/pinned-tab icon if present, OG/social preview, media-session artwork, and any other direct logo asset usage.
+- This is not a redraw. The jagunço/rider remains the identity. No monogram, no "just horse," no gold identity color.
 
-### First task next session
+### First task next session — start here
 
-1. Finish Codex review of `6872ad2` without changing scope.
-2. Run/confirm `pnpm verify`.
-3. If approved, Codex pushes through the standard develop → main flow.
-4. Then decide whether the next design slice is:
-   - the small favicon/app-icon/disc-lockup asset slice, or
-   - a deeper navigation assessment covering mobile nav, sidebars, browser back behavior, theme toggle placement, search, and the eventual custom shell.
+1. Real-device QA the pushed navbar mark in light/dark and mobile/desktop:
+   - confirm the ink-blue/ivory mark feels right beside the wordmark;
+   - confirm the mark does not feel too heavy or too faint at nav size;
+   - confirm the theme toggle / nav-open state did not introduce a color or repaint regression.
+2. Then run the **focused logo asset follow-up** before the broader shell work:
+   - inventory every remaining asset surface: favicon, Apple touch icon, mask/pinned-tab icon, OG/social image, media-session artwork, and direct `/logo.svg` usages;
+   - decide which surfaces should use the bare ink/ivory silhouette and which should use the ink-blue disc lockup;
+   - keep the existing jagunço+rider, with no redraw in this slice;
+   - do not use gold for identity assets; gold remains reserved for the live podcast cue;
+   - preserve SEO/social metadata and avoid disturbing navbar behavior.
+3. Only after that focused brand-asset pass, start the deeper **navigation and shell ownership assessment**.
 
 ### Roadmap continuity
 
-The next broad strategic move should not be another generic product report. The useful next assessment is specifically **navigation and shell ownership**: how to move from rented `@vue/theme` chrome toward a skepvox-owned web-app shell while preserving search, SEO, generated content, reading surfaces, podcast transcript behavior, and the calm iOS-level visual standard.
+The next broad strategic move should not be another generic product report. After the logo asset follow-up, the useful assessment is specifically **navigation and shell ownership**: how to move from rented `@vue/theme` chrome toward a skepvox-owned web-app shell while preserving search, SEO, generated content, reading surfaces, podcast transcript behavior, and the calm iOS-level visual standard.
