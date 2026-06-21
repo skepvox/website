@@ -47,15 +47,15 @@ export const sidebar: ThemeConfig['sidebar'] = {
     {
       text: 'Autres podcasts',
       items: [
-        { text: 'Español', link: '/podcast/espanol/' },
-        { text: 'English', link: '/podcast/english/' }
+        { text: 'Vox Español', link: '/podcast/espanol/' },
+        { text: 'Vox English', link: '/podcast/english/' }
       ]
     }
   ],
 
   '/podcast/espanol/': [
     {
-      text: 'Vox Español - Podcast de español como lengua extranjera',
+      text: 'Vox Español',
       items: [
         { text: 'Presentación', link: '/podcast/espanol/' },
         { text: '001 - La boda es a las seis', link: '/podcast/espanol/001-la-boda-es-a-las-seis' },
@@ -65,8 +65,8 @@ export const sidebar: ThemeConfig['sidebar'] = {
     {
       text: 'Otros podcasts',
       items: [
-        { text: 'Français', link: '/podcast/francais/' },
-        { text: 'English', link: '/podcast/english/' }
+        { text: 'Vox Français', link: '/podcast/francais/' },
+        { text: 'Vox English', link: '/podcast/english/' }
       ]
     }
   ],
@@ -83,8 +83,8 @@ export const sidebar: ThemeConfig['sidebar'] = {
     {
       text: 'Other podcasts',
       items: [
-        { text: 'Français', link: '/podcast/francais/' },
-        { text: 'Español', link: '/podcast/espanol/' }
+        { text: 'Vox Français', link: '/podcast/francais/' },
+        { text: 'Vox Español', link: '/podcast/espanol/' }
       ]
     }
   ],
