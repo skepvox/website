@@ -206,6 +206,20 @@ function routeFromRelativePath(relativePath: string): string {
   return normalizeSitePathname('/' + relativePath.replace(/\.md$/, '.html'))
 }
 
+// Book/chapter leaf routes are kept indexable and locally searchable but dropped
+// from the sitemap, so broad "skepvox" searches favour the hubs and work pages
+// rather than hundreds of chapter pages. Work pages themselves (one level up)
+// stay in the sitemap. URLs here are already normalised (extensionless, hubs end
+// in "/").
+//   /literatura/<author>/<work>/<chapter>  -> dropped
+//   /louis-lavelle/<work>/<chapter>        -> dropped
+function isChapterRoute(url: string): boolean {
+  const segments = url.replace(/^\/+|\/+$/g, '').split('/').filter(Boolean)
+  if (segments[0] === 'literatura' && segments.length >= 4) return true
+  if (segments[0] === 'louis-lavelle' && segments.length >= 3) return true
+  return false
+}
+
 function normalizeSiteUrl(input: string): string {
   if (
     !input.startsWith('https://skepvox.com') &&
@@ -288,7 +302,10 @@ const config: UserConfigExport<ThemeConfig> = (() => {
             url: normalizeSitePathname(normalized)
           }
         })
-        .filter((item) => !bufferRoutes.has(item.url))
+        .filter(
+          (item) =>
+            !bufferRoutes.has(item.url) && item.url !== '/404' && !isChapterRoute(item.url)
+        )
   },
 
   lang: 'pt-BR',
