@@ -284,6 +284,11 @@ head:
       }
 ---
 
+<script setup>
+import CardGrid from '@theme/components/CardGrid.vue'
+import works from './works.json'
+</script>
+
 # Louis Lavelle
 
 _Metafísica da presença, participação e dialética do ato._
@@ -296,19 +301,13 @@ _Metafísica da presença, participação e dialética do ato._
 
 ## Obras no skepvox
 
-- [_A consciência de si_](/louis-lavelle/a-consciencia-de-si)
+Tradução em português:
+
+<CardGrid :items="works.translationsPt" />
 
 Textos integrais em francês:
 
-- [_De l'être_](/louis-lavelle/de-l-etre) (1928)
-- [_La conscience de soi_](/louis-lavelle/la-conscience-de-soi) (1933)
-- [_La Présence totale_](/louis-lavelle/la-presence-totale) (1934)
-- [_De l'acte_](/louis-lavelle/de-l-acte) (1937)
-- [_L'Erreur de Narcisse_](/louis-lavelle/l-erreur-de-narcisse) (1939)
-- [_Du temps et de l'éternité_](/louis-lavelle/du-temps-et-de-l-eternite) (1945)
-- [_Introduction à l'ontologie_](/louis-lavelle/introduction-a-l-ontologie) (1947)
-- [_De l'âme humaine_](/louis-lavelle/de-l-ame-humaine) (1951)
-- [_Quatre saints_](/louis-lavelle/quatre-saints) (1951)
+<CardGrid :items="works.frenchOriginals" />
 
 ## Identidade
 
