@@ -64,4 +64,18 @@ test.describe('a11y floor (Slice 1A)', () => {
       expect(css, token).toContain(token)
     }
   })
+
+  // Slice 1B — owned components now consume the tokens (not just define them).
+  test('owned components consume the semantic tokens', () => {
+    for (const usage of [
+      'var(--sk-text-',
+      'var(--sk-space-',
+      'var(--sk-motion-base)',
+      'var(--sk-card-radius)',
+      'var(--sk-masthead)',
+      'var(--sk-measure-lede)'
+    ]) {
+      expect(css, usage).toContain(usage)
+    }
+  })
 })
