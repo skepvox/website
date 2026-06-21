@@ -35,112 +35,65 @@ const nav: ThemeConfig['nav'] = [
 ]
 
 export const sidebar: ThemeConfig['sidebar'] = {
-  '/podcast/francais/': [
+  '/podcast/': [
     {
       text: 'Vox Français',
+      link: '/podcast/francais/',
       items: [
-        { text: 'Présentation', link: '/podcast/francais/' },
         { text: '001 - Le badge', link: '/podcast/francais/001-le-badge' },
         { text: '002 - La valise verte', link: '/podcast/francais/002-la-valise-verte' }
       ]
     },
     {
-      text: 'Autres podcasts',
-      items: [
-        { text: 'Vox Español', link: '/podcast/espanol/' },
-        { text: 'Vox English', link: '/podcast/english/' }
-      ]
-    }
-  ],
-
-  '/podcast/espanol/': [
-    {
       text: 'Vox Español',
+      link: '/podcast/espanol/',
       items: [
-        { text: 'Presentación', link: '/podcast/espanol/' },
         { text: '001 - La boda es a las seis', link: '/podcast/espanol/001-la-boda-es-a-las-seis' },
         { text: '002 - La sartén está ocupada', link: '/podcast/espanol/002-la-sarten-esta-ocupada' }
       ]
     },
     {
-      text: 'Otros podcasts',
-      items: [
-        { text: 'Vox Français', link: '/podcast/francais/' },
-        { text: 'Vox English', link: '/podcast/english/' }
-      ]
-    }
-  ],
-
-  '/podcast/english/': [
-    {
       text: 'Vox English',
+      link: '/podcast/english/',
       items: [
-        { text: 'Overview', link: '/podcast/english/' },
         { text: '001 - The Two-Minute Phone Call', link: '/podcast/english/001-the-two-minute-phone-call' },
         { text: '002 - The Bowl of Something', link: '/podcast/english/002-the-bowl-of-something' }
-      ]
-    },
-    {
-      text: 'Other podcasts',
-      items: [
-        { text: 'Vox Français', link: '/podcast/francais/' },
-        { text: 'Vox Español', link: '/podcast/espanol/' }
-      ]
-    }
-  ],
-
-  '/podcast/': [
-    {
-      text: 'Podcasts',
-      items: [
-        { text: 'Visão geral', link: '/podcast/' },
-        { text: 'Français', link: '/podcast/francais/' },
-        { text: 'Español', link: '/podcast/espanol/' },
-        { text: 'English', link: '/podcast/english/' }
       ]
     }
   ],
 
   '/literatura/': [
     {
-      text: 'Machado de Assis', 
+      text: 'Machado de Assis',
+      link: '/literatura/machado-de-assis/',
       items: [
-        // { text: 'Visão geral', link: '/literatura/machado-de-assis/' },
         { text: 'Memórias Póstumas de Brás Cubas', link: '/literatura/machado-de-assis/bras-cubas' },
         { text: 'Quincas Borba', link: '/literatura/machado-de-assis/quincas-borba' },
         { text: 'Dom Casmurro', link: '/literatura/machado-de-assis/dom-casmurro' },
         { text: 'Esaú e Jacó', link: '/literatura/machado-de-assis/esau-e-jaco' },
         { text: 'O Alienista', link: '/literatura/machado-de-assis/o-alienista' },
-        { text: 'A Cartomante', link: '/literatura/machado-de-assis/a-cartomante' },
-        // depois: livros específicos
+        { text: 'A Cartomante', link: '/literatura/machado-de-assis/a-cartomante' }
       ]
     },
     {
       text: 'Graciliano Ramos',
+      link: '/literatura/graciliano-ramos/',
       items: [
-        // { text: 'Visão geral', link: '/literatura/graciliano-ramos/' },
         { text: 'São Bernardo', link: '/literatura/graciliano-ramos/sao-bernardo' },
         { text: 'Angústia', link: '/literatura/graciliano-ramos/angustia' },
-        { text: 'Vidas Secas', link: '/literatura/graciliano-ramos/vidas-secas' },
+        { text: 'Vidas Secas', link: '/literatura/graciliano-ramos/vidas-secas' }
       ]
     },
     {
-      text: 'Raul Pompeia', 
+      text: 'Raul Pompeia',
+      link: '/literatura/raul-pompeia/',
       items: [
-        { text: 'Visão geral', link: '/literatura/raul-pompeia/' },
-        { text: 'O Ateneu', link: '/literatura/raul-pompeia/o-ateneu' },
-        // depois: livros específicos
+        { text: 'O Ateneu', link: '/literatura/raul-pompeia/o-ateneu' }
       ]
-    },
+    }
   ],
 
   '/louis-lavelle/': [
-    {
-      text: 'Louis Lavelle',
-      items: [
-        { text: 'Biografia', link: '/louis-lavelle/' }
-      ]
-    },
     {
       text: "La Dialectique de l'éternel présent",
       items: [

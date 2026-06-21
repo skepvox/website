@@ -1,4 +1,6 @@
 import { test, expect } from '@playwright/test'
+import fs from 'node:fs'
+import path from 'node:path'
 
 // SSR work cards on /louis-lavelle/: one CardGrid block under "Obras
 // traduzidas" and one under "Obras originais". Checked against the real DOM of
@@ -16,8 +18,19 @@ const FRENCH = [
 ]
 
 test.describe('louis lavelle work grids', () => {
+  const CONFIG = path.resolve('.vitepress/config.ts')
+
   test.beforeEach(async ({ page }) => {
     await page.goto('/louis-lavelle/')
+  })
+
+  test('sidebar starts at work collections without a duplicate Lavelle or Biografia row', () => {
+    const config = fs.readFileSync(CONFIG, 'utf-8')
+    expect(config).toMatch(
+      /'\/louis-lavelle\/': \[\s*\{\s*text: "La Dialectique de l'éternel présent"/
+    )
+    expect(config).not.toContain("text: 'Louis Lavelle'")
+    expect(config).not.toContain("text: 'Biografia'")
   })
 
   test('renders translated and original work sections with one grid each', async ({ page }) => {

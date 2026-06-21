@@ -7,6 +7,7 @@ import path from 'node:path'
 // File-based; requires a prior build (pnpm build / pnpm podcast:build).
 test.describe('literature author grid', () => {
   const HTML = path.resolve('.vitepress/dist/literatura/index.html')
+  const CONFIG = path.resolve('.vitepress/config.ts')
 
   test('renders three SSR author cards', () => {
     const html = fs.readFileSync(HTML, 'utf-8')
@@ -28,6 +29,14 @@ test.describe('literature author grid', () => {
     expect(grid).toContain('href="/literatura/raul-pompeia/"')
     // only Machado + Graciliano have portrait images; Raul is text-only
     expect((grid.match(/class="card-grid__art"/g) || []).length).toBe(2)
+  })
+
+  test('sidebar group titles link to author hubs without overview rows', () => {
+    const config = fs.readFileSync(CONFIG, 'utf-8')
+    for (const author of ['machado-de-assis', 'graciliano-ramos', 'raul-pompeia']) {
+      expect(config).toContain(`link: '/literatura/${author}/'`)
+    }
+    expect(config).not.toContain("text: 'Visão geral'")
   })
 })
 

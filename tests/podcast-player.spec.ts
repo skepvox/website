@@ -326,14 +326,26 @@ test.describe('podcast hub show grid', () => {
 test.describe('podcast sidebar labels', () => {
   const CONFIG = path.resolve('.vitepress/config.ts')
 
-  test('uses short show titles for all show sidebars', () => {
+  test('uses one podcast sidebar with show groups and public episodes', () => {
     const config = fs.readFileSync(CONFIG, 'utf-8')
-    expect(config).toMatch(/'\/podcast\/francais\/':[\s\S]*?text: 'Vox Français'/)
-    expect(config).toMatch(/'\/podcast\/espanol\/':[\s\S]*?text: 'Vox Español'/)
-    expect(config).toMatch(/'\/podcast\/english\/':[\s\S]*?text: 'Vox English'/)
-    expect(config).toMatch(/text: 'Vox Français', link: '\/podcast\/francais\/'/)
-    expect(config).toMatch(/text: 'Vox Español', link: '\/podcast\/espanol\/'/)
-    expect(config).toMatch(/text: 'Vox English', link: '\/podcast\/english\/'/)
+    const podcastSidebar =
+      config.match(/'\/podcast\/': \[[\s\S]*?\n  \],\n\n  '\/literatura\/':/)?.[0] ?? ''
+    expect(config.match(/^\s*'\/podcast\/':/gm)).toHaveLength(1)
+    expect(config).not.toMatch(/^\s*'\/podcast\/(?:francais|espanol|english)\/':/m)
+
+    expect(podcastSidebar).toMatch(
+      /text: 'Vox Français',\s*link: '\/podcast\/francais\/'[\s\S]*?001 - Le badge[\s\S]*?002 - La valise verte/
+    )
+    expect(podcastSidebar).toMatch(
+      /text: 'Vox Español',\s*link: '\/podcast\/espanol\/'[\s\S]*?001 - La boda es a las seis[\s\S]*?002 - La sartén está ocupada/
+    )
+    expect(podcastSidebar).toMatch(
+      /text: 'Vox English',\s*link: '\/podcast\/english\/'[\s\S]*?001 - The Two-Minute Phone Call[\s\S]*?002 - The Bowl of Something/
+    )
+    expect(podcastSidebar).not.toMatch(
+      /text: '(Podcasts|Présentation|Presentación|Overview|Visão geral)'/
+    )
+    expect(podcastSidebar).not.toMatch(/text: '(Autres podcasts|Otros podcasts|Other podcasts)'/)
     expect(config).not.toContain('Vox Español - Podcast de español como lengua extranjera')
   })
 })
