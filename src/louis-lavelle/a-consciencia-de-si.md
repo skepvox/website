@@ -1,4 +1,5 @@
 ---
+language: pt-BR
 title: "A consciência de si — Louis Lavelle"
 description: "Tradução em português do Brasil de A consciência de si, de Louis Lavelle, com índice completo e leitura por trechos."
 outline: 2
