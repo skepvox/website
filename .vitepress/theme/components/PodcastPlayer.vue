@@ -379,8 +379,8 @@ onBeforeUnmount(() => {
     right: 0;
     z-index: 10;
     padding: var(--sk-space-2) var(--sk-space-5);
-    padding-left: calc(24px + env(safe-area-inset-left, 0px));
-    padding-right: calc(24px + env(safe-area-inset-right, 0px));
+    padding-left: calc(var(--sk-space-5) + env(safe-area-inset-left, 0px));
+    padding-right: calc(var(--sk-space-5) + env(safe-area-inset-right, 0px));
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.12);
   }
   .vox-player.is-pinned .vox-player__spacer {
