@@ -26,6 +26,11 @@ function navText(page: string): string {
     .join(' ')
 }
 
+function contextText(page: string): string {
+  const m = page.match(/<p class="reading-context"[^>]*>([\s\S]*?)<\/p>/)
+  return m ? m[1].replace(/<[^>]+>/g, ' ') : ''
+}
+
 test.describe('reading-nav manifest', () => {
   test('is keyed by work route with ordered [slug, displayTitle] rows', () => {
     const m = manifest()
@@ -84,13 +89,21 @@ test.describe('reading-nav manifest', () => {
 })
 
 test.describe('reading-nav component (SSR)', () => {
-  test('renders top eyebrow + prev/next and a bottom nav on a literature leaf', () => {
+  test('top is quiet bibliographic context only — not a nav, no prev/next', () => {
     const page = html(LIT_MID)
-    expect(page).toContain('reading-nav--top')
+    const context = contextText(page)
+    expect(context).toContain('Dom Casmurro')
+    expect(context).toContain('Machado de Assis')
+    expect(page).not.toContain('reading-nav--top') // top is not a <nav>
+    expect(context).not.toMatch(/Anterior|Próximo|Précédent|Suivant/) // no nav in top
+  })
+
+  test('bottom nav is the only prev/next navigation on a literature leaf', () => {
+    const page = html(LIT_MID)
     expect(page).toContain('reading-nav--bottom')
     const text = navText(page)
-    expect(text).toContain('Dom Casmurro')
-    expect(text).toContain('Machado de Assis')
+    expect(text).toContain('Anterior')
+    expect(text).toContain('Próximo')
   })
 
   test('renders on a Lavelle FR leaf with French labels', () => {
@@ -121,7 +134,7 @@ test.describe('reading-nav component (SSR)', () => {
     expect(text).not.toMatch(/00-\d\d-\d\d\d-/) // no slug shown
   })
 
-  test('is absent on hubs, single-file works, podcast, and home', () => {
+  test('top context and bottom nav are both absent on hubs, single-file works, podcast, home', () => {
     for (const route of [
       'literatura/index',
       'literatura/machado-de-assis/index',
@@ -130,6 +143,7 @@ test.describe('reading-nav component (SSR)', () => {
       'podcast/francais/001-le-badge',
       'index' // home
     ]) {
+      expect(html(route), route).not.toContain('class="reading-context"')
       expect(html(route), route).not.toContain('class="reading-nav')
     }
   })

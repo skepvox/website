@@ -3,11 +3,10 @@ import { computed } from 'vue'
 import { useData } from 'vitepress'
 import navData from '../data/reading-nav.json'
 
-// One component, two placements: 'top' renders a quiet context eyebrow plus
-// prev/next; 'bottom' renders prev/next only ("continue reading"). It renders only
-// on book chapter leaves, detected by MANIFEST MEMBERSHIP — not by chapter-id, which
-// Lavelle FR leaves lack. It never parses canonical URLs or JSON-LD: the key is the
-// source relativePath and the labels come from frontmatter scalars + the manifest.
+// Two placements: 'top' renders quiet bibliographic context only (book · author) — it
+// is NOT navigation; 'bottom' renders the prev/next "continue reading" nav, the only
+// chapter navigation. Renders only on book chapter leaves, by MANIFEST MEMBERSHIP (not
+// chapter-id, which Lavelle FR leaves lack). Never parses canonical URLs or JSON-LD.
 const props = defineProps<{ placement: 'top' | 'bottom' }>()
 
 const nav = navData as Record<string, [string, string][]>
@@ -48,23 +47,23 @@ const eyebrow = computed(() => {
   return book ?? ''
 })
 
+const isLeaf = computed(() => siblings.value !== null)
+// Top: quiet context on any leaf that carries a book label (no nav, so no lopsided
+// first/last state). Bottom: prev/next only when there is somewhere to go.
+const showContext = computed(() => isLeaf.value && !!eyebrow.value)
 const hasNav = computed(() => !!siblings.value && (!!siblings.value.prev || !!siblings.value.next))
-// top: render on any leaf (the eyebrow is useful even when prev/next are absent);
-// bottom: only when there is somewhere to go.
-const show = computed(() => (props.placement === 'top' ? siblings.value !== null : hasNav.value))
 </script>
 
 <template>
+  <p v-if="placement === 'top' && showContext" class="reading-context">{{ eyebrow }}</p>
   <nav
-    v-if="show"
-    class="reading-nav"
-    :class="`reading-nav--${placement}`"
+    v-if="placement === 'bottom' && hasNav"
+    class="reading-nav reading-nav--bottom"
     aria-label="Navegação de capítulos"
   >
-    <p v-if="placement === 'top' && eyebrow" class="reading-nav__eyebrow">{{ eyebrow }}</p>
-    <div v-if="siblings && (siblings.prev || siblings.next)" class="reading-nav__row">
+    <div class="reading-nav__row">
       <a
-        v-if="siblings.prev"
+        v-if="siblings && siblings.prev"
         class="reading-nav__link reading-nav__link--prev"
         :href="siblings.prev.href"
         rel="prev"
@@ -74,7 +73,7 @@ const show = computed(() => (props.placement === 'top' ? siblings.value !== null
       </a>
       <span v-else class="reading-nav__spacer" aria-hidden="true"></span>
       <a
-        v-if="siblings.next"
+        v-if="siblings && siblings.next"
         class="reading-nav__link reading-nav__link--next"
         :href="siblings.next.href"
         rel="next"
@@ -88,30 +87,23 @@ const show = computed(() => (props.placement === 'top' ? siblings.value !== null
 </template>
 
 <style scoped>
-/* Self-constrain to the Slice A reading measure: content-top/bottom slots sit in the
-   688px .content column, outside the 35rem .vt-doc cap, so align flush with prose. */
-.reading-nav {
+/* Quiet bibliographic orientation above the chapter — not navigation, not a toolbar:
+   small, muted, lower-case, aligned to the reading column. */
+.reading-context {
   max-width: var(--sk-reading-measure, 35rem);
-  margin-inline: auto;
+  margin: 0 auto 1rem;
+  font-size: 0.76rem;
+  letter-spacing: 0.01em;
+  color: var(--sk-reading-muted);
 }
 
-.reading-nav--top {
-  margin-bottom: 1.5rem;
-}
-
+/* The only chapter navigation: a prev/next "continue reading" footer after the prose,
+   aligned flush with the reading column. */
 .reading-nav--bottom {
-  margin-top: 2.75rem;
+  max-width: var(--sk-reading-measure, 35rem);
+  margin: 2.75rem auto 0;
   padding-top: 1.25rem;
   border-top: 1px solid var(--sk-reading-rule);
-}
-
-.reading-nav__eyebrow {
-  margin: 0 0 0.9rem;
-  font-size: 0.78rem;
-  font-weight: 500;
-  letter-spacing: 0.05em;
-  text-transform: uppercase;
-  color: var(--sk-reading-muted);
 }
 
 .reading-nav__row {
