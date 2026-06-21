@@ -3,6 +3,30 @@
   display: none !important;
 }
 
+/* Mobile bridge while we still use @vue/theme chrome: expose the existing
+   appearance switch next to search, and remove the duplicate lower nav card. */
+@media (max-width: 767.98px) {
+  .VPNavBar .VPNavBarAppearance {
+    display: flex !important;
+    align-items: center;
+    height: var(--vt-nav-height);
+    margin-left: 10px;
+  }
+
+  .VPNavBar .VPNavBarAppearance .vt-switch:focus-visible {
+    outline: var(--sk-focus-ring);
+    outline-offset: var(--sk-focus-offset);
+  }
+
+  .VPNavScreen .VPNavScreenAppearance {
+    display: none !important;
+  }
+
+  .VPNavScreen .VPNavScreenAppearance + .social-links {
+    margin-top: 16px;
+  }
+}
+
 /* Add back some space before the Appearance card */
 .VPNavScreenAppearance {
   margin-top: 16px;
