@@ -87,7 +87,7 @@ head:
             "@type": "ItemList",
             "@id": "https://skepvox.com/#focos",
             "itemListOrder": "http://schema.org/ItemListOrderAscending",
-            "numberOfItems": 2,
+            "numberOfItems": 3,
             "itemListElement": [
               {
                 "@type": "ListItem",
@@ -100,6 +100,12 @@ head:
                 "position": 2,
                 "name": "Literatura",
                 "url": "https://skepvox.com/literatura/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Podcasts",
+                "url": "https://skepvox.com/podcast/"
               }
             ]
           },

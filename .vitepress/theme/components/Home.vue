@@ -27,6 +27,13 @@
         formato limpo.
       </p>
     </div>
+    <div class="vt-box">
+      <h2>Podcasts</h2>
+      <p>
+        Projetos skepvox para aprendizagem de idiomas, com diálogos, transcrições, guias de estudo e
+        áudio.
+      </p>
+    </div>
   </section>
 </template>
 
