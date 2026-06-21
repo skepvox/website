@@ -5,11 +5,14 @@
   --vp-code-tab-hover-text-color: var(--vt-c-text-inverse-1);
   --vp-code-tab-bg: #292d3ef0;
   --vp-code-block-bg: #292d3ef0;
-  --sk-reading-heading: var(--vt-c-text-1);
-  --sk-reading-body: rgba(33, 53, 71, 0.86);
-  --sk-reading-muted: rgba(33, 53, 71, 0.62);
-  --sk-reading-rule: rgba(33, 53, 71, 0.1);
-  --sk-reading-accent: rgba(66, 184, 131, 0.18);
+  /* Reading-prose color tokens are now compatibility aliases of the semantic color
+     layer defined below (Slice 1C-i). Same rendered values; existing consumers keep
+     working unchanged. */
+  --sk-reading-heading: var(--sk-text);
+  --sk-reading-body: var(--sk-text-body);
+  --sk-reading-muted: var(--sk-text-muted);
+  --sk-reading-rule: var(--sk-rule);
+  --sk-reading-accent: var(--sk-accent-soft);
   /* Reading rhythm (theme-independent); applied to book chapter prose in pages.css. */
   --sk-reading-measure: 35rem;
   --sk-reading-line-height: 1.75;
@@ -49,7 +52,7 @@
 
   /* Focus ring (a11y floor): the existing 2px brand ring, tokenised so every
      interactive surface shares one definition. Inherits --vt-c-brand per mode. */
-  --sk-focus-ring: 2px solid var(--vt-c-brand, #3c8772);
+  --sk-focus-ring: 2px solid var(--sk-accent);
   --sk-focus-offset: 3px;
 
   /* Corner radii. */
@@ -67,6 +70,26 @@
   /* Reading measure tiers. Prose tracks the existing reading measure. */
   --sk-measure-prose: var(--sk-reading-measure);
   --sk-measure-lede: 42rem;
+
+  /* —— Semantic color layer (Slice 1C-i): owned names aliasing today's rendered
+     values. The final skepvox palette is chosen in 1C-ii; this slice changes no
+     pixels. --sk-ink / --sk-cue are channel triples for future alpha derivation. —— */
+  --sk-ink: 33 53 71; /* #213547 — the reading ink */
+  --sk-text: var(--vt-c-text-1);
+  --sk-text-body: rgba(33, 53, 71, 0.86);
+  --sk-text-muted: rgba(33, 53, 71, 0.62);
+  --sk-text-faint: rgba(33, 53, 71, 0.62); /* aliased to muted for now; unused */
+  --sk-rule: rgba(33, 53, 71, 0.1);
+  --sk-surface: var(--vt-c-bg);
+  --sk-surface-raised: var(--vt-c-bg-soft);
+  --sk-accent: #42b883; /* today's accent = Vue green; re-hued in 1C-ii */
+  --sk-accent-hover: #42b883;
+  --sk-accent-soft: rgba(66, 184, 131, 0.18);
+  --sk-accent-contrast: #ffffff;
+  --sk-cue: 66 184 131; /* #42b883 — the live-audio cue hue */
+  --sk-link: #42b883; /* prose links render green today (@vue/theme); not yet overridden */
+  --sk-link-line: #42b883;
+  --sk-link-hover: #42b883;
 }
 
 .dark {
@@ -75,11 +98,21 @@
   --vp-code-tab-active-text-color: var(--vt-c-text-1);
   --vp-code-tab-bg: var(--vt-c-black-mute);
   --vp-code-block-bg: var(--vt-c-black-mute);
-  --sk-reading-heading: rgba(255, 255, 255, 0.92);
-  --sk-reading-body: rgba(255, 255, 255, 0.8);
-  --sk-reading-muted: rgba(255, 255, 255, 0.62);
-  --sk-reading-rule: rgba(255, 255, 255, 0.1);
-  --sk-reading-accent: rgba(66, 184, 131, 0.22);
+  /* Dark ink layer (values unchanged; --sk-reading-* alias these). --sk-accent and
+     --sk-surface* are not overridden here — the brand keeps the same value in dark and
+     the surfaces follow --vt-c-bg/--vt-c-bg-soft, exactly as before. */
+  --sk-ink: 255 255 255;
+  --sk-text: rgba(255, 255, 255, 0.92);
+  --sk-text-body: rgba(255, 255, 255, 0.8);
+  --sk-text-muted: rgba(255, 255, 255, 0.62);
+  --sk-text-faint: rgba(255, 255, 255, 0.62);
+  --sk-rule: rgba(255, 255, 255, 0.1);
+  --sk-accent-soft: rgba(66, 184, 131, 0.22);
   --sk-cue-active: rgba(66, 184, 131, 0.32);
   --sk-cue-hover: rgba(255, 255, 255, 0.08);
+  --sk-reading-heading: var(--sk-text);
+  --sk-reading-body: var(--sk-text-body);
+  --sk-reading-muted: var(--sk-text-muted);
+  --sk-reading-rule: var(--sk-rule);
+  --sk-reading-accent: var(--sk-accent-soft);
 }
