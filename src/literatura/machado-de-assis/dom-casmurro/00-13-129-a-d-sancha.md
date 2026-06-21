@@ -1,6 +1,6 @@
 ---
-title: "Dom Casmurro — 129 — A D.SANCHA"
-description: "Texto integral de Dom Casmurro, de Machado de Assis. 129 — A D.SANCHA."
+title: "Dom Casmurro — 129 — A D. Sancha"
+description: "Texto integral de Dom Casmurro, de Machado de Assis. 129 — A D. Sancha."
 sidebar: false
 aside: false
 footer: false
@@ -10,20 +10,20 @@ author: "Machado de Assis"
 language: "pt-BR"
 chapter-id: "00-13-129"
 part-number: "13"
-chapter-title: "129 — A D.SANCHA"
+chapter-title: "129 — A D. Sancha"
 head:
   - - link
     - rel: canonical
       href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-129-a-d-sancha"
   - - meta
     - name: description
-      content: "Texto integral de Dom Casmurro, de Machado de Assis. 129 — A D.SANCHA."
+      content: "Texto integral de Dom Casmurro, de Machado de Assis. 129 — A D. Sancha."
   - - meta
     - property: og:title
-      content: "Dom Casmurro — 129 — A D.SANCHA"
+      content: "Dom Casmurro — 129 — A D. Sancha"
   - - meta
     - property: og:description
-      content: "Texto integral de Dom Casmurro, de Machado de Assis. 129 — A D.SANCHA."
+      content: "Texto integral de Dom Casmurro, de Machado de Assis. 129 — A D. Sancha."
   - - meta
     - property: og:url
       content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-129-a-d-sancha"
@@ -41,10 +41,10 @@ head:
       content: summary
   - - meta
     - name: twitter:title
-      content: "Dom Casmurro — 129 — A D.SANCHA"
+      content: "Dom Casmurro — 129 — A D. Sancha"
   - - meta
     - name: twitter:description
-      content: "Texto integral de Dom Casmurro, de Machado de Assis. 129 — A D.SANCHA."
+      content: "Texto integral de Dom Casmurro, de Machado de Assis. 129 — A D. Sancha."
   - - meta
     - name: twitter:image
       content: "https://skepvox.com/images/authors/machado-de-assis.webp"
@@ -57,7 +57,7 @@ head:
       {
         "@context": "https://schema.org",
         "@type": "Chapter",
-        "name": "129 — A D.SANCHA",
+        "name": "129 — A D. Sancha",
         "identifier": "00-13-129",
         "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-129-a-d-sancha",
         "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-129-a-d-sancha",
@@ -77,7 +77,7 @@ head:
           "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.webp",
-        "description": "Texto integral de Dom Casmurro, de Machado de Assis. 129 — A D.SANCHA.",
+        "description": "Texto integral de Dom Casmurro, de Machado de Assis. 129 — A D. Sancha.",
         "additionalProperty": [
           {
             "@type": "PropertyValue",
@@ -97,7 +97,7 @@ head:
           {
             "@type": "PropertyValue",
             "name": "chapter-title",
-            "value": "129 — A D.SANCHA"
+            "value": "129 — A D. Sancha"
           }
         ]
       }
@@ -123,7 +123,7 @@ head:
           {
             "@type": "ListItem",
             "position": 3,
-            "name": "129 — A D.SANCHA",
+            "name": "129 — A D. Sancha",
             "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-129-a-d-sancha"
           }
         ]
@@ -132,7 +132,7 @@ head:
 
 [Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
-## 129 — A D.SANCHA
+## 129 — A D. Sancha
 
 D.Sancha, peço-lhe que não leia este livro; ou, se o houver lido até aqui, abandone o resto. Basta fechá-lo; melhor será queimá-lo, para lhe não dar tentação e abri-lo outra vez. Se, apesar do aviso, quiser ir até o fim, a culpa é sua; não respondo pelo mal que receber. O que já lhe tiver feito, contando os gestos daquele sábado, esse acabou, uma vez que os acontecimentos, e eu com eles, desmentimos a minha ilusão; mas o que agora a alcançar, esse é indelével. Não, amiga minha, não leia mais. Vá envelhecendo, sem marido nem filha, que eu faço a mesma cousa, e é ainda o melhor que se pode fazer depois da mocidade. Um dia. iremos daqui até à porta do céu, onde nos encontraremos renovados, como as plantas novas, come piante novelle,
 

@@ -1,6 +1,6 @@
 ---
-title: "Dom Casmurro — 047 — \"Asenhora Saiu"
-description: "Texto integral de Dom Casmurro, de Machado de Assis. 047 — \"Asenhora Saiu."
+title: "Dom Casmurro — 047 — A senhora saiu"
+description: "Texto integral de Dom Casmurro, de Machado de Assis. 047 — A senhora saiu."
 sidebar: false
 aside: false
 footer: false
@@ -10,20 +10,20 @@ author: "Machado de Assis"
 language: "pt-BR"
 chapter-id: "00-05-047"
 part-number: "05"
-chapter-title: "047 — \"Asenhora Saiu"
+chapter-title: "047 — A senhora saiu"
 head:
   - - link
     - rel: canonical
       href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-047-asenhora-saiu"
   - - meta
     - name: description
-      content: "Texto integral de Dom Casmurro, de Machado de Assis. 047 — \"Asenhora Saiu."
+      content: "Texto integral de Dom Casmurro, de Machado de Assis. 047 — A senhora saiu."
   - - meta
     - property: og:title
-      content: "Dom Casmurro — 047 — \"Asenhora Saiu"
+      content: "Dom Casmurro — 047 — A senhora saiu"
   - - meta
     - property: og:description
-      content: "Texto integral de Dom Casmurro, de Machado de Assis. 047 — \"Asenhora Saiu."
+      content: "Texto integral de Dom Casmurro, de Machado de Assis. 047 — A senhora saiu."
   - - meta
     - property: og:url
       content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-047-asenhora-saiu"
@@ -41,10 +41,10 @@ head:
       content: summary
   - - meta
     - name: twitter:title
-      content: "Dom Casmurro — 047 — \"Asenhora Saiu"
+      content: "Dom Casmurro — 047 — A senhora saiu"
   - - meta
     - name: twitter:description
-      content: "Texto integral de Dom Casmurro, de Machado de Assis. 047 — \"Asenhora Saiu."
+      content: "Texto integral de Dom Casmurro, de Machado de Assis. 047 — A senhora saiu."
   - - meta
     - name: twitter:image
       content: "https://skepvox.com/images/authors/machado-de-assis.webp"
@@ -57,7 +57,7 @@ head:
       {
         "@context": "https://schema.org",
         "@type": "Chapter",
-        "name": "047 — \"Asenhora Saiu",
+        "name": "047 — A senhora saiu",
         "identifier": "00-05-047",
         "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-047-asenhora-saiu",
         "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-047-asenhora-saiu",
@@ -77,7 +77,7 @@ head:
           "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.webp",
-        "description": "Texto integral de Dom Casmurro, de Machado de Assis. 047 — \"Asenhora Saiu.",
+        "description": "Texto integral de Dom Casmurro, de Machado de Assis. 047 — A senhora saiu.",
         "additionalProperty": [
           {
             "@type": "PropertyValue",
@@ -97,7 +97,7 @@ head:
           {
             "@type": "PropertyValue",
             "name": "chapter-title",
-            "value": "047 — \"Asenhora Saiu"
+            "value": "047 — A senhora saiu"
           }
         ]
       }
@@ -123,7 +123,7 @@ head:
           {
             "@type": "ListItem",
             "position": 3,
-            "name": "047 — \"Asenhora Saiu",
+            "name": "047 — A senhora saiu",
             "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-047-asenhora-saiu"
           }
         ]
@@ -132,7 +132,7 @@ head:
 
 [Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
-## 047 — "Asenhora Saiu"
+## 047 — A senhora saiu
 
 — Está bom,acabou,disse eu finalmente; mas, explique-me só uma cousa, por que é que você me perguntou se eu tinha medo de apanhar?
 

@@ -1,6 +1,6 @@
 ---
-title: "Dom Casmurro — 017 — Os Vermes \"Ele Fere Ecura!"
-description: "Texto integral de Dom Casmurro, de Machado de Assis. 017 — Os Vermes \"Ele Fere Ecura!."
+title: "Dom Casmurro — 017 — Os vermes 'Ele fere e cura'"
+description: "Texto integral de Dom Casmurro, de Machado de Assis. 017 — Os vermes 'Ele fere e cura'."
 sidebar: false
 aside: false
 footer: false
@@ -10,20 +10,20 @@ author: "Machado de Assis"
 language: "pt-BR"
 chapter-id: "00-02-017"
 part-number: "02"
-chapter-title: "017 — Os Vermes \"Ele Fere Ecura!"
+chapter-title: "017 — Os vermes 'Ele fere e cura'"
 head:
   - - link
     - rel: canonical
       href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-017-os-vermes-ele-fere-ecura"
   - - meta
     - name: description
-      content: "Texto integral de Dom Casmurro, de Machado de Assis. 017 — Os Vermes \"Ele Fere Ecura!."
+      content: "Texto integral de Dom Casmurro, de Machado de Assis. 017 — Os vermes 'Ele fere e cura'."
   - - meta
     - property: og:title
-      content: "Dom Casmurro — 017 — Os Vermes \"Ele Fere Ecura!"
+      content: "Dom Casmurro — 017 — Os vermes 'Ele fere e cura'"
   - - meta
     - property: og:description
-      content: "Texto integral de Dom Casmurro, de Machado de Assis. 017 — Os Vermes \"Ele Fere Ecura!."
+      content: "Texto integral de Dom Casmurro, de Machado de Assis. 017 — Os vermes 'Ele fere e cura'."
   - - meta
     - property: og:url
       content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-017-os-vermes-ele-fere-ecura"
@@ -41,10 +41,10 @@ head:
       content: summary
   - - meta
     - name: twitter:title
-      content: "Dom Casmurro — 017 — Os Vermes \"Ele Fere Ecura!"
+      content: "Dom Casmurro — 017 — Os vermes 'Ele fere e cura'"
   - - meta
     - name: twitter:description
-      content: "Texto integral de Dom Casmurro, de Machado de Assis. 017 — Os Vermes \"Ele Fere Ecura!."
+      content: "Texto integral de Dom Casmurro, de Machado de Assis. 017 — Os vermes 'Ele fere e cura'."
   - - meta
     - name: twitter:image
       content: "https://skepvox.com/images/authors/machado-de-assis.webp"
@@ -57,7 +57,7 @@ head:
       {
         "@context": "https://schema.org",
         "@type": "Chapter",
-        "name": "017 — Os Vermes \"Ele Fere Ecura!",
+        "name": "017 — Os vermes 'Ele fere e cura'",
         "identifier": "00-02-017",
         "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-017-os-vermes-ele-fere-ecura",
         "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-017-os-vermes-ele-fere-ecura",
@@ -77,7 +77,7 @@ head:
           "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.webp",
-        "description": "Texto integral de Dom Casmurro, de Machado de Assis. 017 — Os Vermes \"Ele Fere Ecura!.",
+        "description": "Texto integral de Dom Casmurro, de Machado de Assis. 017 — Os vermes 'Ele fere e cura'.",
         "additionalProperty": [
           {
             "@type": "PropertyValue",
@@ -97,7 +97,7 @@ head:
           {
             "@type": "PropertyValue",
             "name": "chapter-title",
-            "value": "017 — Os Vermes \"Ele Fere Ecura!"
+            "value": "017 — Os vermes 'Ele fere e cura'"
           }
         ]
       }
@@ -123,7 +123,7 @@ head:
           {
             "@type": "ListItem",
             "position": 3,
-            "name": "017 — Os Vermes \"Ele Fere Ecura!",
+            "name": "017 — Os vermes 'Ele fere e cura'",
             "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-017-os-vermes-ele-fere-ecura"
           }
         ]
@@ -132,7 +132,7 @@ head:
 
 [Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
-## 017 — Os Vermes "Ele Fere Ecura!"
+## 017 — Os vermes 'Ele fere e cura'
 
 "ELE FERE Ecura!" Quando, mais tarde, vim a saber que a lança de Aquiles também curou uma ferida que fez, tive tais ou quais veleidades de escrever uma dissertação a este propósito. Cheguei a pegar em livros velhos, livros mortos, livros enterrados, a abri-los, a compará-los, catando o texto e o sentido, para achar a origem comum do oráculo pagão e do pensamento israelita. Catei os próprios vermes dos livros, para que me dissessem o que havia nos textos roídos por eles.
 

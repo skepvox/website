@@ -156,7 +156,7 @@ head:
           },
           {
             "@type": "Chapter",
-            "name": "017 — Os Vermes \"Ele Fere Ecura!",
+            "name": "017 — Os vermes 'Ele fere e cura'",
             "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-017-os-vermes-ele-fere-ecura",
             "identifier": "00-02-017"
           },
@@ -174,7 +174,7 @@ head:
           },
           {
             "@type": "Chapter",
-            "name": "020 — Mil PADRE-NOSSOS Emil AVE-MARIAS",
+            "name": "020 — Mil padre-nossos e mil ave-marias",
             "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-020-mil-padre-nossos-emil-ave-marias",
             "identifier": "00-02-020"
           },
@@ -336,7 +336,7 @@ head:
           },
           {
             "@type": "Chapter",
-            "name": "047 — \"Asenhora Saiu",
+            "name": "047 — A senhora saiu",
             "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-047-asenhora-saiu",
             "identifier": "00-05-047"
           },
@@ -828,7 +828,7 @@ head:
           },
           {
             "@type": "Chapter",
-            "name": "129 — A D.SANCHA",
+            "name": "129 — A D. Sancha",
             "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-129-a-d-sancha",
             "identifier": "00-13-129"
           },
@@ -1056,7 +1056,7 @@ head:
           {
             "@type": "ListItem",
             "position": 17,
-            "name": "017 — Os Vermes \"Ele Fere Ecura!",
+            "name": "017 — Os vermes 'Ele fere e cura'",
             "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-017-os-vermes-ele-fere-ecura"
           },
           {
@@ -1074,7 +1074,7 @@ head:
           {
             "@type": "ListItem",
             "position": 20,
-            "name": "020 — Mil PADRE-NOSSOS Emil AVE-MARIAS",
+            "name": "020 — Mil padre-nossos e mil ave-marias",
             "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-020-mil-padre-nossos-emil-ave-marias"
           },
           {
@@ -1236,7 +1236,7 @@ head:
           {
             "@type": "ListItem",
             "position": 47,
-            "name": "047 — \"Asenhora Saiu",
+            "name": "047 — A senhora saiu",
             "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-05-047-asenhora-saiu"
           },
           {
@@ -1728,7 +1728,7 @@ head:
           {
             "@type": "ListItem",
             "position": 129,
-            "name": "129 — A D.SANCHA",
+            "name": "129 — A D. Sancha",
             "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-13-129-a-d-sancha"
           },
           {
@@ -1892,10 +1892,10 @@ head:
   - [014 — A Inscrição](/literatura/machado-de-assis/dom-casmurro/00-02-014-a-inscricao)
   - [015 — Outra Voz Repentina](/literatura/machado-de-assis/dom-casmurro/00-02-015-outra-voz-repentina)
   - [016 — O Administrador Interino](/literatura/machado-de-assis/dom-casmurro/00-02-016-o-administrador-interino)
-  - [017 — Os Vermes "Ele Fere Ecura!](/literatura/machado-de-assis/dom-casmurro/00-02-017-os-vermes-ele-fere-ecura)
+  - [017 — Os vermes 'Ele fere e cura'](/literatura/machado-de-assis/dom-casmurro/00-02-017-os-vermes-ele-fere-ecura)
   - [018 — Um Plano](/literatura/machado-de-assis/dom-casmurro/00-02-018-um-plano)
   - [019 — Sem Falta](/literatura/machado-de-assis/dom-casmurro/00-02-019-sem-falta)
-  - [020 — Mil PADRE-NOSSOS Emil AVE-MARIAS](/literatura/machado-de-assis/dom-casmurro/00-02-020-mil-padre-nossos-emil-ave-marias)
+  - [020 — Mil padre-nossos e mil ave-marias](/literatura/machado-de-assis/dom-casmurro/00-02-020-mil-padre-nossos-emil-ave-marias)
 - Capítulos 021 — 030
   - [021 — Prima Justina](/literatura/machado-de-assis/dom-casmurro/00-03-021-prima-justina)
   - [022 — Sensações Alheias](/literatura/machado-de-assis/dom-casmurro/00-03-022-sensacoes-alheias)
@@ -1925,7 +1925,7 @@ head:
   - [044 — O Primeiro Filho](/literatura/machado-de-assis/dom-casmurro/00-05-044-o-primeiro-filho)
   - [045 — Abane a Cabeça, Leitor](/literatura/machado-de-assis/dom-casmurro/00-05-045-abane-a-cabeca-leitor)
   - [046 — As Pazes](/literatura/machado-de-assis/dom-casmurro/00-05-046-as-pazes)
-  - [047 — "Asenhora Saiu](/literatura/machado-de-assis/dom-casmurro/00-05-047-asenhora-saiu)
+  - [047 — A senhora saiu](/literatura/machado-de-assis/dom-casmurro/00-05-047-asenhora-saiu)
   - [048 — Juramento do Poço](/literatura/machado-de-assis/dom-casmurro/00-05-048-juramento-do-poco)
   - [049 — Uma Vela aos Sábados](/literatura/machado-de-assis/dom-casmurro/00-05-049-uma-vela-aos-sabados)
   - [050 — Um MEIO-TERMO](/literatura/machado-de-assis/dom-casmurro/00-05-050-um-meio-termo)
@@ -2015,7 +2015,7 @@ head:
   - [126 — Cismando](/literatura/machado-de-assis/dom-casmurro/00-13-126-cismando)
   - [127 — O Barbeiro](/literatura/machado-de-assis/dom-casmurro/00-13-127-o-barbeiro)
   - [128 — Punhado de Sucessos](/literatura/machado-de-assis/dom-casmurro/00-13-128-punhado-de-sucessos)
-  - [129 — A D.SANCHA](/literatura/machado-de-assis/dom-casmurro/00-13-129-a-d-sancha)
+  - [129 — A D. Sancha](/literatura/machado-de-assis/dom-casmurro/00-13-129-a-d-sancha)
   - [130 — Um Dia...](/literatura/machado-de-assis/dom-casmurro/00-13-130-um-dia)
 - Capítulos 131 — 140
   - [131 — Anterior ao Anterior](/literatura/machado-de-assis/dom-casmurro/00-14-131-anterior-ao-anterior)
@@ -2402,7 +2402,7 @@ Ou ainda:
 
 Tal é o sabor póstumo das glórias interinas. José Dias bradava que era a vaidade sobrevivente; mas o Padre Cabral, que levava tudo para a Escritura, dizia que com o vizinho Pádua se dava a lição de Elifás a Jó: "Não desprezes a correção do Senhor; Ele fere e cura".
 
-### 017 — Os Vermes "Ele Fere Ecura!"
+### 017 — Os vermes 'Ele fere e cura'
 
 "ELE FERE Ecura!" Quando, mais tarde, vim a saber que a lança de Aquiles também curou uma ferida que fez, tive tais ou quais veleidades de escrever uma dissertação a este propósito. Cheguei a pegar em livros velhos, livros mortos, livros enterrados, a abri-los, a compará-los, catando o texto e o sentido, para achar a origem comum do oráculo pagão e do pensamento israelita. Catei os próprios vermes dos livros, para que me dissessem o que havia nos textos roídos por eles.
 
@@ -2504,7 +2504,7 @@ Quando voltei casa era noite. Vim depressa, não tanto, porém, que não pensass
 
 Afinal disse comigo que as palavras podiam servir,tudo era dizê-las em tom que não ofendesse. E a prova é que, repetindo-as novamente, saíram-me quase súplices. Bastava não carregar tanto, nem adoçar muito, um meio-termo. "E Capitu tem razão, pensei, a casa é minha, ele é um simples agregado... Jeitoso é, pode muito bem trabalhar por mim, e desfazer o plano de mamãe."
 
-### 020 — Mil PADRE-NOSSOS Emil AVE-MARIAS
+### 020 — Mil padre-nossos e mil ave-marias
 
 Levantei os olhos ao céu, que começava a embruscar-se, mas não foi para vê-lo coberto ou descoberto. Era ao outro céu que eu erguia a minha alma; era ao meu refúgio, ao meu amigo. E então disse de mim para mim:
 
@@ -3244,7 +3244,7 @@ Outra vez D. Fortunata apareceu à porta da casa; não sei para que, se nem me d
 
 Fosse o que fosse, o meu braço continuou a apertar a cintura da filha, e foi assim que nos pacificamos. O bonito é que cada um de nós queria agora as culpas para si, e pedíamos reciprocamente perdão. Capitu alegava a insônia, a dor de cabeça, o abatimento do espírito, e finalmente "os seus calundus." Eu, que era muito chorão por esse tempo, sentia os olhos molhados... Era amor puro, era efeito dos padecimentos da amiguinha, era a ternura da reconciliação.
 
-### 047 — "Asenhora Saiu"
+### 047 — A senhora saiu
 
 — Está bom,acabou,disse eu finalmente; mas, explique-me só uma cousa, por que é que você me perguntou se eu tinha medo de apanhar?
 
@@ -4900,7 +4900,7 @@ Inventariei as lembranças de Escobar, livros, um tinteiro de bronze, uma bengal
 
 Testamento, inventário, tudo andou quase tão depressa como aqui vai dito. Ao cabo de pouco tempo, Sancha retirou-se para a casa dos parentes no Paraná.
 
-### 129 — A D.SANCHA
+### 129 — A D. Sancha
 
 D.Sancha, peço-lhe que não leia este livro; ou, se o houver lido até aqui, abandone o resto. Basta fechá-lo; melhor será queimá-lo, para lhe não dar tentação e abri-lo outra vez. Se, apesar do aviso, quiser ir até o fim, a culpa é sua; não respondo pelo mal que receber. O que já lhe tiver feito, contando os gestos daquele sábado, esse acabou, uma vez que os acontecimentos, e eu com eles, desmentimos a minha ilusão; mas o que agora a alcançar, esse é indelével. Não, amiga minha, não leia mais. Vá envelhecendo, sem marido nem filha, que eu faço a mesma cousa, e é ainda o melhor que se pode fazer depois da mocidade. Um dia. iremos daqui até à porta do céu, onde nos encontraremos renovados, como as plantas novas, come piante novelle,
 

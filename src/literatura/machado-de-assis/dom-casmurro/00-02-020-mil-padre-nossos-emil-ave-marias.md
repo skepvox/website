@@ -1,6 +1,6 @@
 ---
-title: "Dom Casmurro — 020 — Mil PADRE-NOSSOS Emil AVE-MARIAS"
-description: "Texto integral de Dom Casmurro, de Machado de Assis. 020 — Mil PADRE-NOSSOS Emil AVE-MARIAS."
+title: "Dom Casmurro — 020 — Mil padre-nossos e mil ave-marias"
+description: "Texto integral de Dom Casmurro, de Machado de Assis. 020 — Mil padre-nossos e mil ave-marias."
 sidebar: false
 aside: false
 footer: false
@@ -10,20 +10,20 @@ author: "Machado de Assis"
 language: "pt-BR"
 chapter-id: "00-02-020"
 part-number: "02"
-chapter-title: "020 — Mil PADRE-NOSSOS Emil AVE-MARIAS"
+chapter-title: "020 — Mil padre-nossos e mil ave-marias"
 head:
   - - link
     - rel: canonical
       href: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-020-mil-padre-nossos-emil-ave-marias"
   - - meta
     - name: description
-      content: "Texto integral de Dom Casmurro, de Machado de Assis. 020 — Mil PADRE-NOSSOS Emil AVE-MARIAS."
+      content: "Texto integral de Dom Casmurro, de Machado de Assis. 020 — Mil padre-nossos e mil ave-marias."
   - - meta
     - property: og:title
-      content: "Dom Casmurro — 020 — Mil PADRE-NOSSOS Emil AVE-MARIAS"
+      content: "Dom Casmurro — 020 — Mil padre-nossos e mil ave-marias"
   - - meta
     - property: og:description
-      content: "Texto integral de Dom Casmurro, de Machado de Assis. 020 — Mil PADRE-NOSSOS Emil AVE-MARIAS."
+      content: "Texto integral de Dom Casmurro, de Machado de Assis. 020 — Mil padre-nossos e mil ave-marias."
   - - meta
     - property: og:url
       content: "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-020-mil-padre-nossos-emil-ave-marias"
@@ -41,10 +41,10 @@ head:
       content: summary
   - - meta
     - name: twitter:title
-      content: "Dom Casmurro — 020 — Mil PADRE-NOSSOS Emil AVE-MARIAS"
+      content: "Dom Casmurro — 020 — Mil padre-nossos e mil ave-marias"
   - - meta
     - name: twitter:description
-      content: "Texto integral de Dom Casmurro, de Machado de Assis. 020 — Mil PADRE-NOSSOS Emil AVE-MARIAS."
+      content: "Texto integral de Dom Casmurro, de Machado de Assis. 020 — Mil padre-nossos e mil ave-marias."
   - - meta
     - name: twitter:image
       content: "https://skepvox.com/images/authors/machado-de-assis.webp"
@@ -57,7 +57,7 @@ head:
       {
         "@context": "https://schema.org",
         "@type": "Chapter",
-        "name": "020 — Mil PADRE-NOSSOS Emil AVE-MARIAS",
+        "name": "020 — Mil padre-nossos e mil ave-marias",
         "identifier": "00-02-020",
         "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-020-mil-padre-nossos-emil-ave-marias",
         "mainEntityOfPage": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-020-mil-padre-nossos-emil-ave-marias",
@@ -77,7 +77,7 @@ head:
           "url": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro"
         },
         "image": "https://skepvox.com/images/authors/machado-de-assis.webp",
-        "description": "Texto integral de Dom Casmurro, de Machado de Assis. 020 — Mil PADRE-NOSSOS Emil AVE-MARIAS.",
+        "description": "Texto integral de Dom Casmurro, de Machado de Assis. 020 — Mil padre-nossos e mil ave-marias.",
         "additionalProperty": [
           {
             "@type": "PropertyValue",
@@ -97,7 +97,7 @@ head:
           {
             "@type": "PropertyValue",
             "name": "chapter-title",
-            "value": "020 — Mil PADRE-NOSSOS Emil AVE-MARIAS"
+            "value": "020 — Mil padre-nossos e mil ave-marias"
           }
         ]
       }
@@ -123,7 +123,7 @@ head:
           {
             "@type": "ListItem",
             "position": 3,
-            "name": "020 — Mil PADRE-NOSSOS Emil AVE-MARIAS",
+            "name": "020 — Mil padre-nossos e mil ave-marias",
             "item": "https://skepvox.com/literatura/machado-de-assis/dom-casmurro/00-02-020-mil-padre-nossos-emil-ave-marias"
           }
         ]
@@ -132,7 +132,7 @@ head:
 
 [Voltar ao livro](/literatura/machado-de-assis/dom-casmurro)
 
-## 020 — Mil PADRE-NOSSOS Emil AVE-MARIAS
+## 020 — Mil padre-nossos e mil ave-marias
 
 Levantei os olhos ao céu, que começava a embruscar-se, mas não foi para vê-lo coberto ou descoberto. Era ao outro céu que eu erguia a minha alma; era ao meu refúgio, ao meu amigo. E então disse de mim para mim:
 
