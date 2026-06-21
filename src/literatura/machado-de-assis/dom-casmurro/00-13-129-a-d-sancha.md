@@ -134,7 +134,7 @@ head:
 
 ## 129 — A D. Sancha
 
-D.Sancha, peço-lhe que não leia este livro; ou, se o houver lido até aqui, abandone o resto. Basta fechá-lo; melhor será queimá-lo, para lhe não dar tentação e abri-lo outra vez. Se, apesar do aviso, quiser ir até o fim, a culpa é sua; não respondo pelo mal que receber. O que já lhe tiver feito, contando os gestos daquele sábado, esse acabou, uma vez que os acontecimentos, e eu com eles, desmentimos a minha ilusão; mas o que agora a alcançar, esse é indelével. Não, amiga minha, não leia mais. Vá envelhecendo, sem marido nem filha, que eu faço a mesma cousa, e é ainda o melhor que se pode fazer depois da mocidade. Um dia. iremos daqui até à porta do céu, onde nos encontraremos renovados, como as plantas novas, come piante novelle,
+D. Sancha, peço-lhe que não leia este livro; ou, se o houver lido até aqui, abandone o resto. Basta fechá-lo; melhor será queimá-lo, para lhe não dar tentação e abri-lo outra vez. Se, apesar do aviso, quiser ir até o fim, a culpa é sua; não respondo pelo mal que receber. O que já lhe tiver feito, contando os gestos daquele sábado, esse acabou, uma vez que os acontecimentos, e eu com eles, desmentimos a minha ilusão; mas o que agora a alcançar, esse é indelével. Não, amiga minha, não leia mais. Vá envelhecendo, sem marido nem filha, que eu faço a mesma cousa, e é ainda o melhor que se pode fazer depois da mocidade. Um dia. iremos daqui até à porta do céu, onde nos encontraremos renovados, como as plantas novas, come piante novelle,
 
 Rinovellate di novelle fronde.
 

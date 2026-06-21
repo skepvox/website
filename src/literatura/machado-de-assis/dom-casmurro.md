@@ -2404,7 +2404,7 @@ Tal é o sabor póstumo das glórias interinas. José Dias bradava que era a vai
 
 ### 017 — Os vermes 'Ele fere e cura'
 
-"ELE FERE Ecura!" Quando, mais tarde, vim a saber que a lança de Aquiles também curou uma ferida que fez, tive tais ou quais veleidades de escrever uma dissertação a este propósito. Cheguei a pegar em livros velhos, livros mortos, livros enterrados, a abri-los, a compará-los, catando o texto e o sentido, para achar a origem comum do oráculo pagão e do pensamento israelita. Catei os próprios vermes dos livros, para que me dissessem o que havia nos textos roídos por eles.
+"Ele fere e cura!" Quando, mais tarde, vim a saber que a lança de Aquiles também curou uma ferida que fez, tive tais ou quais veleidades de escrever uma dissertação a este propósito. Cheguei a pegar em livros velhos, livros mortos, livros enterrados, a abri-los, a compará-los, catando o texto e o sentido, para achar a origem comum do oráculo pagão e do pensamento israelita. Catei os próprios vermes dos livros, para que me dissessem o que havia nos textos roídos por eles.
 
 — Meu senhor, respondeu-me um longo verme gordo, nós não sabemos absolutamente nada dos textos que roemos, nem escolhermos o que roemos, nem amamos ou detestamos o que roemos; nós roemos.
 
@@ -4902,7 +4902,7 @@ Testamento, inventário, tudo andou quase tão depressa como aqui vai dito. Ao c
 
 ### 129 — A D. Sancha
 
-D.Sancha, peço-lhe que não leia este livro; ou, se o houver lido até aqui, abandone o resto. Basta fechá-lo; melhor será queimá-lo, para lhe não dar tentação e abri-lo outra vez. Se, apesar do aviso, quiser ir até o fim, a culpa é sua; não respondo pelo mal que receber. O que já lhe tiver feito, contando os gestos daquele sábado, esse acabou, uma vez que os acontecimentos, e eu com eles, desmentimos a minha ilusão; mas o que agora a alcançar, esse é indelével. Não, amiga minha, não leia mais. Vá envelhecendo, sem marido nem filha, que eu faço a mesma cousa, e é ainda o melhor que se pode fazer depois da mocidade. Um dia. iremos daqui até à porta do céu, onde nos encontraremos renovados, como as plantas novas, come piante novelle,
+D. Sancha, peço-lhe que não leia este livro; ou, se o houver lido até aqui, abandone o resto. Basta fechá-lo; melhor será queimá-lo, para lhe não dar tentação e abri-lo outra vez. Se, apesar do aviso, quiser ir até o fim, a culpa é sua; não respondo pelo mal que receber. O que já lhe tiver feito, contando os gestos daquele sábado, esse acabou, uma vez que os acontecimentos, e eu com eles, desmentimos a minha ilusão; mas o que agora a alcançar, esse é indelével. Não, amiga minha, não leia mais. Vá envelhecendo, sem marido nem filha, que eu faço a mesma cousa, e é ainda o melhor que se pode fazer depois da mocidade. Um dia. iremos daqui até à porta do céu, onde nos encontraremos renovados, como as plantas novas, come piante novelle,
 
 Rinovellate di novelle fronde.
 

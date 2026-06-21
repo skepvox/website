@@ -134,7 +134,7 @@ head:
 
 ## 017 — Os vermes 'Ele fere e cura'
 
-"ELE FERE Ecura!" Quando, mais tarde, vim a saber que a lança de Aquiles também curou uma ferida que fez, tive tais ou quais veleidades de escrever uma dissertação a este propósito. Cheguei a pegar em livros velhos, livros mortos, livros enterrados, a abri-los, a compará-los, catando o texto e o sentido, para achar a origem comum do oráculo pagão e do pensamento israelita. Catei os próprios vermes dos livros, para que me dissessem o que havia nos textos roídos por eles.
+"Ele fere e cura!" Quando, mais tarde, vim a saber que a lança de Aquiles também curou uma ferida que fez, tive tais ou quais veleidades de escrever uma dissertação a este propósito. Cheguei a pegar em livros velhos, livros mortos, livros enterrados, a abri-los, a compará-los, catando o texto e o sentido, para achar a origem comum do oráculo pagão e do pensamento israelita. Catei os próprios vermes dos livros, para que me dissessem o que havia nos textos roídos por eles.
 
 — Meu senhor, respondeu-me um longo verme gordo, nós não sabemos absolutamente nada dos textos que roemos, nem escolhermos o que roemos, nem amamos ou detestamos o que roemos; nós roemos.
 
