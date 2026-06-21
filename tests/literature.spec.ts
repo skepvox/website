@@ -30,3 +30,59 @@ test.describe('literature author grid', () => {
     expect((grid.match(/class="card-grid__art"/g) || []).length).toBe(2)
   })
 })
+
+// SSR work cards on each author hub via CardGrid + generated works.json. Cards
+// represent work hub pages only (no chapter/section pages) and carry no images.
+// File-based; requires a prior build (pnpm build / pnpm podcast:build).
+test.describe('literature author hub work grids', () => {
+  const HUBS = [
+    {
+      author: 'machado-de-assis',
+      works: [
+        'bras-cubas',
+        'quincas-borba',
+        'dom-casmurro',
+        'esau-e-jaco',
+        'o-alienista',
+        'a-cartomante'
+      ]
+    },
+    { author: 'graciliano-ramos', works: ['sao-bernardo', 'angustia', 'vidas-secas'] },
+    { author: 'raul-pompeia', works: ['o-ateneu'] }
+  ]
+  const gridOf = (author: string) => {
+    const html = fs.readFileSync(
+      path.resolve(`.vitepress/dist/literatura/${author}/index.html`),
+      'utf-8'
+    )
+    return html.match(/<ul class="card-grid".*?<\/ul>/s)?.[0] ?? ''
+  }
+
+  for (const { author, works } of HUBS) {
+    test(`${author}: renders an SSR work-card grid with ${works.length} cards`, () => {
+      const grid = gridOf(author)
+      expect(grid).toContain('class="card-grid"')
+      expect((grid.match(/class="card-grid__item"/g) || []).length).toBe(works.length)
+    })
+
+    test(`${author}: links to each hosted work hub`, () => {
+      const grid = gridOf(author)
+      for (const slug of works) {
+        expect(grid).toContain(`href="/literatura/${author}/${slug}"`)
+      }
+    })
+
+    test(`${author}: work cards are text-only (no card art)`, () => {
+      expect(gridOf(author)).not.toContain('card-grid__art')
+    })
+
+    test(`${author}: no chapter/section links leak into the grid`, () => {
+      const links = [...gridOf(author).matchAll(/href="(\/literatura\/[^"]+)"/g)].map((m) => m[1])
+      expect(links.length).toBe(works.length)
+      // every link is a work hub: /literatura/<author>/<slug>, no further path segment
+      for (const href of links) {
+        expect(href).toMatch(new RegExp(`^/literatura/${author}/[^/]+$`))
+      }
+    })
+  }
+})
