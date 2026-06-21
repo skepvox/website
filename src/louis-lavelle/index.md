@@ -299,13 +299,11 @@ _Metafísica da presença, participação e dialética do ato._
   class="lavelle-portrait"
 />
 
-## Obras no skepvox
-
-Tradução em português:
+## Obras traduzidas
 
 <CardGrid :items="works.translationsPt" />
 
-Textos integrais em francês:
+## Obras originais
 
 <CardGrid :items="works.frenchOriginals" />
 

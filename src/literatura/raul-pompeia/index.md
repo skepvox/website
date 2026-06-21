@@ -53,6 +53,6 @@ Raul Pompeia (1863–1895) foi um escritor brasileiro, ligado ao realismo-natura
 cuja obra-prima, **O Ateneu** (1888), é um dos romances mais importantes da literatura
 brasileira do século XIX.
 
-## Obras
+## Obras originais
 
 <CardGrid :items="works" />

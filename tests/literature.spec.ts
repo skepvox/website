@@ -57,8 +57,16 @@ test.describe('literature author hub work grids', () => {
     )
     return html.match(/<ul class="card-grid".*?<\/ul>/s)?.[0] ?? ''
   }
+  const htmlOf = (author: string) =>
+    fs.readFileSync(path.resolve(`.vitepress/dist/literatura/${author}/index.html`), 'utf-8')
 
   for (const { author, works } of HUBS) {
+    test(`${author}: hosted works section is titled Obras originais`, () => {
+      const html = htmlOf(author)
+      expect(html).toContain('id="obras-originais"')
+      expect(html).not.toContain('Obras no skepvox')
+    })
+
     test(`${author}: renders an SSR work-card grid with ${works.length} cards`, () => {
       const grid = gridOf(author)
       expect(grid).toContain('class="card-grid"')

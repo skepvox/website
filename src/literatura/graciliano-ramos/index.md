@@ -127,7 +127,7 @@ Graciliano Ramos (1892–1953) foi um romancista, cronista, contista, jornalista
 
 Abaixo, uma bibliografia completa de suas obras, organizadas por gênero e ordem cronológica de publicação.
 
-## Obras no skepvox
+## Obras originais
 
 <CardGrid :items="works" />
 

@@ -1,9 +1,8 @@
 import { test, expect } from '@playwright/test'
 
-// SSR work cards on /louis-lavelle/: two CardGrid blocks in the "Obras no skepvox"
-// section — a Portuguese translation, then the 9 French originals with publication
-// years. Checked against the real DOM of the built site (served by vitepress
-// preview), not by regex over minified HTML.
+// SSR work cards on /louis-lavelle/: one CardGrid block under "Obras
+// traduzidas" and one under "Obras originais". Checked against the real DOM of
+// the built site (served by vitepress preview), not by regex over minified HTML.
 const FRENCH = [
   'de-l-etre',
   'la-conscience-de-soi',
@@ -21,19 +20,35 @@ test.describe('louis lavelle work grids', () => {
     await page.goto('/louis-lavelle/')
   })
 
-  test('renders exactly two CardGrid blocks in the Obras section', async ({ page }) => {
+  test('renders translated and original work sections with one grid each', async ({ page }) => {
     await expect(page.locator('.card-grid')).toHaveCount(2)
-    // both grids sit between the "Obras no skepvox" and "Identidade" headings
-    const inObrasSection = await page.evaluate(() => {
-      const obras = document.querySelector('h2#obras-no-skepvox')!
+    const structure = await page.evaluate(() => {
+      const translated = document.querySelector('h2#obras-traduzidas')!
+      const originals = document.querySelector('h2#obras-originais')!
       const ident = document.querySelector('h2#identidade')!
-      return [...document.querySelectorAll('.card-grid')].filter(
-        (g) =>
-          obras.compareDocumentPosition(g) & Node.DOCUMENT_POSITION_FOLLOWING &&
-          ident.compareDocumentPosition(g) & Node.DOCUMENT_POSITION_PRECEDING
-      ).length
+      const grids = [...document.querySelectorAll('.card-grid')]
+      return {
+        h2ids: [...document.querySelectorAll('h2[id]')].map((h) => h.id),
+        firstGridAfterTranslated:
+          translated.compareDocumentPosition(grids[0]) & Node.DOCUMENT_POSITION_FOLLOWING,
+        originalsAfterFirstGrid:
+          grids[0].compareDocumentPosition(originals) & Node.DOCUMENT_POSITION_FOLLOWING,
+        secondGridAfterOriginals:
+          originals.compareDocumentPosition(grids[1]) & Node.DOCUMENT_POSITION_FOLLOWING,
+        identAfterSecondGrid:
+          grids[1].compareDocumentPosition(ident) & Node.DOCUMENT_POSITION_FOLLOWING
+      }
     })
-    expect(inObrasSection).toBe(2)
+    expect(structure.h2ids.slice(0, 4)).toEqual([
+      'obras-traduzidas',
+      'obras-originais',
+      'identidade',
+      'visao-geral'
+    ])
+    expect(Boolean(structure.firstGridAfterTranslated)).toBe(true)
+    expect(Boolean(structure.originalsAfterFirstGrid)).toBe(true)
+    expect(Boolean(structure.secondGridAfterOriginals)).toBe(true)
+    expect(Boolean(structure.identAfterSecondGrid)).toBe(true)
   })
 
   test('first block contains only the pt-BR translation', async ({ page }) => {
@@ -87,11 +102,12 @@ test.describe('louis lavelle work grids', () => {
       return { identSectionItems, h2ids }
     })
     expect(dom.identSectionItems).toBe(0)
-    // heading order preserved: Obras no skepvox -> Identidade -> Visão geral -> ...
-    const obrasIdx = dom.h2ids.indexOf('obras-no-skepvox')
-    expect(obrasIdx).toBeGreaterThanOrEqual(0)
-    expect(dom.h2ids.slice(obrasIdx, obrasIdx + 3)).toEqual([
-      'obras-no-skepvox',
+    // heading order preserved: translated works -> originals -> Identidade -> ...
+    const translatedIdx = dom.h2ids.indexOf('obras-traduzidas')
+    expect(translatedIdx).toBeGreaterThanOrEqual(0)
+    expect(dom.h2ids.slice(translatedIdx, translatedIdx + 4)).toEqual([
+      'obras-traduzidas',
+      'obras-originais',
       'identidade',
       'visao-geral'
     ])
