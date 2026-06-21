@@ -27,28 +27,30 @@
   }
 }
 
-/* iOS Safari's browser chrome (top/bottom bars, safe-area) is not a DOM element — it
-   only reacts to <meta name="theme-color">, which it updates instantly and cannot
-   crossfade. So the page ROOT and the chrome-adjacent top bar SNAP with it: html, body,
-   #app and the navbar switch instantly (this also overrides @vue/theme's 0.5s body and
-   navbar transitions), so no stale page background lingers behind the browser bars and
-   there is no seam at the page edge. The sidebar is intentionally left to @vue/theme so
-   its drawer slide (a transform transition) is preserved. */
-html,
-body,
-#app,
-.VPNav,
-.VPNavBar {
-  transition: none;
-}
+/* Refined light↔dark theme transition. The whole VISIBLE page — the nav shell, the page
+   surfaces, reading surfaces, cards' borders and all text — crossfades together over
+   0.32s as ONE composition. The navbar must never snap while the content fades: that
+   split reads cheap. The page background (#app) fades WITH the text, so contrast is held
+   through the fade (no dark-on-dark flash). Only color/background/border — never layout
+   or position, so there is no shift — and .VPSidebar is intentionally excluded so
+   @vue/theme keeps its drawer transform.
 
-/* The inner content keeps the refined fade — reading prose, mastheads, the reading nav,
-   the podcast transcript panels, their borders and text. Away from the chrome edge this
-   reads as the content settling, not a laggy background. Scoped to color / background /
-   border only — never transform or position, so @vue/theme's nav and sidebar open/close
-   motion is untouched. Cards keep their own hover-timed fade. The reduced-motion floor
-   above neutralises all of this; the no-preference guard states the intent explicitly. */
+   iOS Safari's browser bars (theme-color) snap instantly and cannot crossfade. We accept
+   that platform limitation: the page fades TOWARD the bar's already-correct final colour
+   (a brief, smooth convergence at the very edge) rather than snapping the whole visible
+   composition to match the bar — a unified fade with one quiet edge is calmer than a
+   coherent page torn into a snapping shell and a fading body. ThemeChromeSync sets the
+   bar to the correct final colour immediately, so the convergence is short.
+
+   The reduced-motion floor above neutralises all of this; the no-preference guard states
+   the intent explicitly. */
 @media (prefers-reduced-motion: no-preference) {
+  html,
+  body,
+  #app,
+  .VPNav,
+  .VPNavBar,
+  .VPContent,
   .VPContent :is(h1, h2, h3, h4, h5, h6, p, li, blockquote, dd, a, span, strong, em),
   .vt-doc,
   .reading-nav,
