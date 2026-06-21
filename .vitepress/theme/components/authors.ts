@@ -1,52 +1,8 @@
-export interface Author {
-  url: string
-  img: string
-  name: string
-}
+import type { CardGridItem } from './cards'
 
-export const literatureAuthors: Author[] = [
-  {
-    url: '/literatura/machado-de-assis/',
-    img: '/images/authors/machado-de-assis.webp',
-    name: 'Machado de Assis'
-  },
-  {
-    url: '/literatura/graciliano-ramos/',
-    img: '/images/authors/graciliano-ramos.webp',
-    name: 'Graciliano Ramos'
-  }
-]
-
-export const philosophyAuthors: Author[] = [
-  {
-    url: '/louis-lavelle/',
-    img: '/images/authors/louis-lavelle.webp',
-    name: 'Louis Lavelle'
-  }
-  // {
-  //   url: '/filosofia/louis-lavelle/',
-  //   img: '/images/authors/louis-lavelle.webp',
-  //   name: 'Louis Lavelle'
-  // },
-  // {
-  //   url: '/filosofia/',
-  //   img: '/images/authors/marcus-aurelius.png',
-  //   name: 'Marcus Aurelius'
-  // }
-]
-
-export interface CardGridItem {
-  title: string
-  href: string
-  description?: string
-  imageUrl?: string
-  imageAlt?: string
-  meta?: string
-}
-
-// Richer literature author cards for the SSR CardGrid on /literatura/. Descriptions
-// are reused verbatim from each author hub's frontmatter; Raul Pompeia has no
-// portrait asset and renders as a text-only card.
+// Literature author cards for the SSR CardGrid on /literatura/. Descriptions are
+// reused verbatim from each author hub's frontmatter; Raul Pompeia has no portrait
+// asset and renders as a text-only card.
 export const literatureAuthorCards: CardGridItem[] = [
   {
     title: 'Machado de Assis',
