@@ -1,5 +1,6 @@
 ---
 title: Literatura
+description: 'Biblioteca digital de obras clássicas, especialmente brasileiras.'
 ---
 
 <script setup>

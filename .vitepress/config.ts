@@ -310,7 +310,7 @@ const config: UserConfigExport<ThemeConfig> = (() => {
 
   lang: 'pt-BR',
   title: 'skepvox — Engenharia de Letras',
-  description: 'Louis Lavelle e literatura clássica',
+  description: 'Louis Lavelle, literatura clássica e podcasts',
   srcDir: 'src',
 
   head: [
@@ -323,7 +323,7 @@ const config: UserConfigExport<ThemeConfig> = (() => {
       'meta',
       {
         property: 'og:description',
-        content: 'Louis Lavelle e literatura clássica'
+        content: 'Louis Lavelle, literatura clássica e podcasts'
       }
     ],
     [

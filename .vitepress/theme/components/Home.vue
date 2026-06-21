@@ -4,7 +4,7 @@
       <span class="accent">skepvox</span>
       <br />Engenharia de Letras
     </h1>
-    <p class="description">Louis Lavelle e literatura clássica.</p>
+    <p class="description">Louis Lavelle, literatura clássica e podcasts.</p>
     <p class="actions">
       <a class="get-started" href="/louis-lavelle/">Louis Lavelle</a>
       <a class="setup" href="/literatura/">Literatura</a>

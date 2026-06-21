@@ -40,4 +40,14 @@ test.describe('homepage pillars', () => {
       expect(distinctRows).toBe(3) // 1-up: stacked
     }
   })
+
+  test('hero and meta description name all three pillars (no two-pillar regression)', async ({
+    page
+  }) => {
+    await expect(page.locator('#hero .description')).toContainText('podcasts')
+    const desc = await page.locator('head meta[name="description"]').getAttribute('content')
+    expect(desc).toContain('Louis Lavelle')
+    expect(desc).toContain('literatura')
+    expect(desc).toContain('podcasts')
+  })
 })
