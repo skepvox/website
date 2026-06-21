@@ -230,10 +230,13 @@ test.describe('episode card grid', () => {
     }
   })
 
-  test('built index renders SSR episode cards', () => {
+  test('built index renders SSR episode cards with numbers', () => {
     const html = fs.readFileSync(INDEX_HTML, 'utf-8')
-    expect(html).toContain('class="episode-grid"')
-    expect((html.match(/class="episode-card"/g) || []).length).toBe(2)
+    expect(html).toContain('class="card-grid"')
+    expect((html.match(/class="card-grid__item"/g) || []).length).toBe(2)
+    // the episode number is preserved as the card eyebrow (001/002 style)
+    expect(html).toMatch(/card-grid__eyebrow[^>]*>001</)
+    expect(html).toMatch(/card-grid__eyebrow[^>]*>002</)
   })
 
   test('cards link to public episode pages and show duration', () => {
@@ -248,7 +251,7 @@ test.describe('episode card grid', () => {
     // The buffer slug may appear in VitePress's internal route hashmap, but it
     // must never be a navigable link or appear in the card grid.
     expect(html).not.toContain(`href="/podcast/francais/${BUFFER_SLUG}"`)
-    const grid = html.match(/<ul class="episode-grid".*?<\/ul>/s)?.[0] ?? ''
+    const grid = html.match(/<ul class="card-grid".*?<\/ul>/s)?.[0] ?? ''
     expect(grid).not.toContain(BUFFER_SLUG)
   })
 })
