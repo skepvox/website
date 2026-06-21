@@ -102,6 +102,26 @@
   }
 }
 
+/* Reading edition — book chapter prose only. .VPContentDoc:not(.has-aside) is the
+   leaf reading layout (sidebar/aside/outline all false). This deliberately EXCLUDES
+   card hubs and work hubs (has-sidebar + has-aside) and podcast episode pages
+   (outline: 2 -> has-aside), so CardGrid and the podcast transcript / cue spans keep
+   their own typography. The 688px column lives in the patched @vue/theme
+   VPContentDoc.vue; we cap the inner .vt-doc from the project side, never the patch. */
+.VPContentDoc:not(.has-aside) .vt-doc {
+  max-width: var(--sk-reading-measure);
+  margin-inline: auto;
+  line-height: var(--sk-reading-line-height);
+}
+
+.VPContentDoc:not(.has-aside) .vt-doc :is(p, ul, ol) {
+  margin-bottom: var(--sk-reading-para-space);
+}
+
+.VPContentDoc:not(.has-aside) .vt-doc h2 {
+  margin-top: var(--sk-reading-heading-space);
+}
+
 .vt-doc .katex {
   font-size: 1em;
 }

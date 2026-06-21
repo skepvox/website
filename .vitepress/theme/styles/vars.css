@@ -10,6 +10,11 @@
   --sk-reading-muted: rgba(33, 53, 71, 0.62);
   --sk-reading-rule: rgba(33, 53, 71, 0.1);
   --sk-reading-accent: rgba(66, 184, 131, 0.18);
+  /* Reading rhythm (theme-independent); applied to book chapter prose in pages.css. */
+  --sk-reading-measure: 35rem;
+  --sk-reading-line-height: 1.75;
+  --sk-reading-para-space: 1.4em;
+  --sk-reading-heading-space: 3rem;
   --sk-cue-active: rgba(66, 184, 131, 0.26);
   --sk-cue-hover: rgba(33, 53, 71, 0.06);
 }
