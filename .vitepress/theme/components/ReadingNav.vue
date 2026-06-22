@@ -2,6 +2,7 @@
 import { computed } from 'vue'
 import { useData } from 'vitepress'
 import navData from '../data/reading-nav.json'
+import SkLink from './SkLink.vue'
 
 // Two placements: 'top' renders quiet bibliographic context only (book · author) — it
 // is NOT navigation; 'bottom' renders the prev/next "continue reading" nav, the only
@@ -62,7 +63,7 @@ const hasNav = computed(() => !!siblings.value && (!!siblings.value.prev || !!si
     aria-label="Navegação de capítulos"
   >
     <div class="reading-nav__row">
-      <a
+      <SkLink
         v-if="siblings && siblings.prev"
         class="reading-nav__link reading-nav__link--prev"
         :href="siblings.prev.href"
@@ -70,9 +71,9 @@ const hasNav = computed(() => !!siblings.value && (!!siblings.value.prev || !!si
       >
         <span class="reading-nav__dir">‹ {{ labels.prev }}</span>
         <span class="reading-nav__title">{{ siblings.prev.title }}</span>
-      </a>
+      </SkLink>
       <span v-else class="reading-nav__spacer" aria-hidden="true"></span>
-      <a
+      <SkLink
         v-if="siblings && siblings.next"
         class="reading-nav__link reading-nav__link--next"
         :href="siblings.next.href"
@@ -80,7 +81,7 @@ const hasNav = computed(() => !!siblings.value && (!!siblings.value.prev || !!si
       >
         <span class="reading-nav__dir">{{ labels.next }} ›</span>
         <span class="reading-nav__title">{{ siblings.next.title }}</span>
-      </a>
+      </SkLink>
       <span v-else class="reading-nav__spacer" aria-hidden="true"></span>
     </div>
   </nav>
@@ -158,10 +159,6 @@ const hasNav = computed(() => !!siblings.value && (!!siblings.value.prev || !!si
     color: var(--sk-reading-heading);
   }
 }
-
-.reading-nav__link:focus-visible {
-  outline: var(--sk-focus-ring);
-  outline-offset: var(--sk-focus-offset);
-  border-radius: var(--sk-radius-sm);
-}
+/* Keyboard focus + neutral pressed/touch are owned by the SkLink primitive (see
+   components/SkLink.vue), so no per-component :focus-visible rule lives here. */
 </style>

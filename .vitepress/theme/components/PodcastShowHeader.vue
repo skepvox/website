@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { computed } from 'vue'
 import { useData } from 'vitepress'
+import SkLink from './SkLink.vue'
 
 // "Series index" masthead for a podcast show page: a quiet eyebrow framing the show
 // as a series with a real lesson count, the show title (from frontmatter), one
@@ -57,13 +58,13 @@ const links = computed<ListenLink[]>(() => {
       <span class="show-head__listen-label">{{ t.listen }}</span>
       <template v-for="(link, i) in links" :key="link.href">
         <span v-if="i > 0" class="show-head__listen-sep" aria-hidden="true">·</span>
-        <a
+        <SkLink
           class="show-head__listen-link"
           :class="{ 'is-secondary': link.secondary }"
           :href="link.href"
           target="_blank"
           rel="noopener"
-          >{{ link.label }}</a
+          >{{ link.label }}</SkLink
         >
       </template>
     </p>
@@ -154,10 +155,6 @@ const links = computed<ListenLink[]>(() => {
   font-size: 0.85rem;
   color: var(--sk-reading-muted);
 }
-
-.show-head__listen-link:focus-visible {
-  outline: var(--sk-focus-ring);
-  outline-offset: var(--sk-focus-offset);
-  border-radius: var(--sk-radius-sm);
-}
+/* Keyboard focus + neutral pressed/touch are owned by the SkLink primitive (see
+   components/SkLink.vue), so no per-component :focus-visible rule lives here. */
 </style>

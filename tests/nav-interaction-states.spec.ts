@@ -23,6 +23,9 @@ function hoverIsPointerGated(source: string, signatureHoverDecl: string): boolea
 }
 
 // Owned affordances and the single declaration that proves their visible hover styling.
+// All four keep their VISIBLE hover local + pointer-gated. The focus ring is owned either
+// per-component (CardGrid, Home) or — after the SkLink slice — by the SkLink primitive the
+// consumer wraps its anchor in (PodcastShowHeader, ReadingNav).
 const OWNED = [
   { file: 'components/CardGrid.vue', hover: 'border-color: var(--sk-accent)' },
   { file: 'components/Home.vue', hover: 'border-color: var(--sk-accent)' },
@@ -30,16 +33,62 @@ const OWNED = [
   { file: 'components/ReadingNav.vue', hover: 'color: var(--sk-reading-heading)' }
 ]
 
+// Surfaces that own their focus ring directly vs. surfaces that delegate it to SkLink.
+// (CardGrid + Home are the documented fast-follow migration candidates.)
+const OWNS_FOCUS = ['components/CardGrid.vue', 'components/Home.vue']
+const DELEGATES_TO_SKLINK = ['components/PodcastShowHeader.vue', 'components/ReadingNav.vue']
+
 test.describe('nav interaction-state standard — owned affordances', () => {
   for (const c of OWNED) {
     test(`${c.file}: visible hover is gated behind the pointer media query`, () => {
       expect(hoverIsPointerGated(read(c.file), c.hover), c.file).toBe(true)
     })
+  }
 
-    test(`${c.file}: keyboard focus uses --sk-focus-ring`, () => {
-      expect(read(c.file), c.file).toMatch(/:focus-visible\s*\{[^}]*var\(--sk-focus-ring\)/)
+  for (const file of OWNS_FOCUS) {
+    test(`${file}: owns its keyboard focus ring (--sk-focus-ring)`, () => {
+      expect(read(file), file).toMatch(/:focus-visible\s*\{[^}]*var\(--sk-focus-ring\)/)
     })
   }
+
+  for (const file of DELEGATES_TO_SKLINK) {
+    test(`${file}: wraps its anchor in SkLink and declares no own :focus-visible rule`, () => {
+      const src = read(file)
+      expect(src, file).toContain("import SkLink from './SkLink.vue'")
+      expect(src, file).toContain('<SkLink')
+      // the per-component focus rule is removed; SkLink owns it now (the explanatory
+      // comment may mention :focus-visible, so match the RULE form `:focus-visible {`).
+      expect(src, file).not.toMatch(/:focus-visible\s*\{/)
+    })
+  }
+})
+
+test.describe('nav interaction-state standard — SkLink primitive', () => {
+  const sk = read('components/SkLink.vue')
+
+  test('is a transparent single <a> root with href + slot (no wrapper element)', () => {
+    expect(sk).toMatch(/<a\b[^>]*:href="href"/)
+    expect(sk).toContain('<slot')
+    const template = sk.slice(sk.indexOf('<template>'), sk.indexOf('</template>'))
+    expect(template.match(/<a\b/g)?.length, 'exactly one anchor, no wrapper').toBe(1)
+  })
+
+  test('passes attrs through transparently (inheritAttrs:false + v-bind="$attrs")', () => {
+    expect(sk).toContain('inheritAttrs: false')
+    expect(sk).toContain('v-bind="$attrs"')
+  })
+
+  test('emits aria-current="page" only when current', () => {
+    expect(sk).toMatch(/:aria-current="current \? 'page' : undefined"/)
+  })
+
+  test('owns the shared keyboard focus ring', () => {
+    expect(sk).toMatch(/a:focus-visible\s*\{[^}]*var\(--sk-focus-ring\)/)
+  })
+
+  test('does NOT define a visible hover colour itself (consumer-owned, pointer-gated)', () => {
+    expect(sk).not.toContain(':hover')
+  })
 })
 
 test.describe('nav interaction-state standard — rented chrome floor (pages.css)', () => {

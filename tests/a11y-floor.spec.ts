@@ -36,13 +36,26 @@ test.describe('a11y floor (Slice 1A)', () => {
     expect(css).toMatch(/outline:\s*var\(--sk-focus-ring\)/)
   })
 
-  test('PodcastShowHeader listen links have a keyboard-visible focus ring', () => {
-    // covers the regular and the .is-secondary (RSS) variant — both are this class
-    expect(css).toMatch(/show-head__listen-link[^{]*:focus-visible/)
+  // After the SkLink slice the keyboard focus ring for these links is owned by the SkLink
+  // primitive (the anchors are wrapped in <SkLink>), not declared per-component. The
+  // guarantee is unchanged — assert the links go through SkLink AND that SkLink ships the
+  // tokenised ring. (The built bundle still containing `outline: var(--sk-focus-ring)` is
+  // also locked by 'focus-ring tokens are defined and consumed' above.)
+  test('PodcastShowHeader listen links get the keyboard focus ring via SkLink', () => {
+    const show = fs.readFileSync(
+      path.resolve('.vitepress/theme/components/PodcastShowHeader.vue'),
+      'utf-8'
+    )
+    const sk = fs.readFileSync(path.resolve('.vitepress/theme/components/SkLink.vue'), 'utf-8')
+    expect(show).toContain('<SkLink')
+    expect(sk).toMatch(/a:focus-visible\s*\{[^}]*var\(--sk-focus-ring\)/)
   })
 
-  test('ReadingNav prev/next links have a keyboard-visible focus ring', () => {
-    expect(css).toMatch(/reading-nav__link[^{]*:focus-visible/)
+  test('ReadingNav prev/next links get the keyboard focus ring via SkLink', () => {
+    const nav = fs.readFileSync(path.resolve('.vitepress/theme/components/ReadingNav.vue'), 'utf-8')
+    const sk = fs.readFileSync(path.resolve('.vitepress/theme/components/SkLink.vue'), 'utf-8')
+    expect(nav).toContain('<SkLink')
+    expect(sk).toMatch(/a:focus-visible\s*\{[^}]*var\(--sk-focus-ring\)/)
   })
 
   test('existing focus surfaces are not broken (cards, home pillars, cues)', () => {
