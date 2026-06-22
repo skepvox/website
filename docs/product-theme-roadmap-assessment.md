@@ -337,6 +337,34 @@ Do not build native now. Build the web foundations a future iOS/Android app re-u
 
 ---
 
+## Future Experiment — Segment-Level Reading-Progress Map (deferred; not current scope)
+
+_Captured 2026-06-22 so the idea isn't lost. This is a future experiment, **not** part of the current local-navigation work (see `docs/sidebar-local-nav-model.md`) and not on the near-term roadmap._
+
+**The idea.** For works split into self-contained reading **segments / _trechos_**, a future reading interface could render a calm tree/map of the work's reading leaves. Unread segments stay **quiet and neutral**; as the reader advances, completed segments **gradually gain beautiful colour** — giving an ambient sense of progress, memory, and accumulating _life_ in the text. The colour is earned and quiet, an atmosphere rather than a metric.
+
+**What it must not become.** This is **not** a docs-style file-tree or a navigation sidebar — the opposite intent. It is an expressive, ambient _map of a reading life_, not chrome for jumping between files. It must never regress into the file-tree behaviour this product is moving away from (see `docs/sidebar-local-nav-model.md` §9).
+
+**Why segment-level, not chapter-level.** The canonical reading unit is the **segment / _trecho_**, not the chapter: sometimes a segment _is_ a chapter, but often a chapter contains many segments (especially in Louis Lavelle, where the canonical leaf is frequently a section/segment). Progress and colour must accrue **per segment**, so the map reflects how the text is actually read — not a coarse chapter checklist.
+
+**Aesthetic bar (high).** Calm, literary, beautiful. **Not gamified** — no badges, streaks, percentages-as-trophies, or progress bars; no noise. The signal is a quiet, earned warmth spreading through the text, in keeping with the single-ink / restrained direction.
+
+**Prerequisites — consider only after all of these exist:**
+- A **stable segment manifest** at true segment granularity (finer and more explicit than today's work→leaf `reading-nav.json`; a "leaf" today is not always a discrete segment). This is the structural foundation.
+- A **reading-progress model** — per-reader, per-segment completion state, with persistence. This implies an account / local-persistence story and belongs with the reading-position model noted under Phase 6 / Native App Readiness.
+- An **owned reading shell** (Phase 3+ / native-app readiness) — the experiment lives inside an owned reading surface, never bolted onto the rented docs chrome.
+
+**Risks / open questions (note only; no implementation plan):**
+- **Granularity drift** — without a real segment manifest, "segment progress" would silently degrade into chapter or leaf progress, defeating the point.
+- **Gamification creep** — the failure mode is turning a quiet map into a points/streak UI; the aesthetic bar must be enforced in review.
+- **Re-docsifying** — a tree of segments is one careless step from a file-tree sidebar; it must read as an expressive map, not navigation.
+- **Performance / calm at scale** — long works have hundreds of segments; the map must stay quiet and performant, not a dense wall of cells.
+- **Progress semantics** — define "completed" honestly (scrolled-through vs. dwell-time vs. explicit mark) before any colour is earned.
+
+Revisit when the app has a stable segment manifest, a progress model, and an owned reading shell. Until then this is a one-paragraph aspiration, deliberately unbuilt.
+
+---
+
 ## Risks And Anti-Patterns
 
 **Architecture/process risks:**
