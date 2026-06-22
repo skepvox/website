@@ -127,7 +127,7 @@ const i18n: ThemeConfig['i18n'] = {
   menu: 'Navegar',          // label in the mobile nav
   toc: 'Índice',   // "On this page"
   returnToTop: 'Retornar ao início', // "Return to top"
-  appearance: 'Modo de leitura',
+  appearance: 'Tema',
   search: 'Buscar',
   previous: 'Anterior',
   next: 'Próximo',
@@ -397,10 +397,16 @@ gtag('config', 'G-1VWHF2D1QJ');`
       }
     },
 
+    // Instagram is the intended public presence, but @vue/theme@2.3.0 socialLinks accept
+    // only a fixed preset icon set (no Instagram, no custom SVG) and derive the link's
+    // accessible name from the icon string — so a `facebook` icon on an instagram.com URL
+    // is both a wrong glyph and a wrong screen-reader name. A wrong icon + wrong name is
+    // worse than no link, so Instagram is removed here until an owned social component can
+    // render a proper Instagram icon + label. (`twitter` renders the X glyph via
+    // @vue/theme's own mapping, matching the x.com link.)
     socialLinks: [
       { icon: 'github', link: 'https://github.com/skepvox/' },
-      { icon: 'twitter', link: 'https://x.com/skepvox' },
-      { icon: 'facebook', link: 'https://instagram.com/skepvox' }
+      { icon: 'twitter', link: 'https://x.com/skepvox' }
     ],
 
     footer: {
