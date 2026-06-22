@@ -36,6 +36,17 @@ export default defineConfig({
       // so the suite needs only the already-cached Chromium browser.
       name: 'mobile',
       use: { ...devices['Pixel 5'] }
+    },
+    {
+      // Narrow, intentional: this project runs ONLY tablet-shell.spec.ts (testMatch),
+      // to cover the 768-1279px nav/shell dead-band — it does NOT duplicate the full
+      // suite at tablet width. The spec also skips on non-'tablet' projects.
+      name: 'tablet',
+      testMatch: /tablet-shell\.spec\.ts$/,
+      use: {
+        ...devices['Desktop Chrome'],
+        viewport: { width: 1024, height: 800 }
+      }
     }
   ]
 })

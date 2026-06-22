@@ -148,8 +148,15 @@ const hasNav = computed(() => !!siblings.value && (!!siblings.value.prev || !!si
   transition: color 0.18s ease;
 }
 
-.reading-nav__link:hover .reading-nav__title {
-  color: var(--sk-reading-heading);
+/* Four-state floor (navigation interaction-state standard): the visible hover lift
+   applies only on real pointer devices, so an iOS tap never sticks the hover state (the
+   tap-after-back class of bug). On touch no hover rule matches, so the title keeps its
+   resting colour and :active adds nothing — the first tap navigates. Keyboard focus and
+   the current-route state live in their own rules; the four never visually conflict. */
+@media (hover: hover) and (pointer: fine) {
+  .reading-nav__link:hover .reading-nav__title {
+    color: var(--sk-reading-heading);
+  }
 }
 
 .reading-nav__link:focus-visible {

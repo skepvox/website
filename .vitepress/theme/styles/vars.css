@@ -115,6 +115,21 @@
      (nav-active state, local-search highlight, prose links) follow the skepvox accent
      in one place. The live podcast cue uses --sk-cue (a muted gold), kept separate. */
   --vt-c-brand: var(--sk-accent);
+  /* Route @vue/theme's remaining green/brand-shade family through the owned accent.
+     --vt-c-brand is routed above; these are the leftover unrouted leaks that otherwise
+     still paint legacy Vue green in rented chrome: the skip link + outline active-marker
+     (var(--vt-c-green)), the search Cmd+K-key hover (var(--vt-c-brand-light)), and the
+     doc-pager title hover (var(--vt-c-brand-highlight) -> brand-dark/-light). The
+     #42b883 / #42d392 / #33a06f literals live only in @vue/theme's base --vt-c-green*
+     tokens (and logo.svg), so routing here recolours every consumer with no node_modules
+     edit. Declared once in :root; they resolve to the dark accent inside .dark
+     automatically — the same mechanism as --vt-c-brand. */
+  --vt-c-green: var(--sk-accent);
+  --vt-c-green-light: var(--sk-accent-hover);
+  --vt-c-green-dark: var(--sk-accent-hover);
+  --vt-c-brand-light: var(--sk-accent-hover);
+  --vt-c-brand-dark: var(--sk-accent-hover);
+  --vt-c-brand-highlight: var(--sk-accent-hover);
   --sk-cue: 181 148 84; /* muted antique gold — the live-audio "now playing" hue,
      warm against the cool ink-blue accent; kept distinct from brand and from warnings */
   --sk-link: var(--sk-text-body); /* prose links read as ink… */

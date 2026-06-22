@@ -139,9 +139,15 @@ const links = computed<ListenLink[]>(() => {
     border-color 0.18s ease;
 }
 
-.show-head__listen-link:hover {
-  color: var(--sk-accent);
-  border-bottom-color: var(--sk-accent);
+/* Four-state floor (navigation interaction-state standard): the visible hover applies
+   only on real pointer devices, so an iOS tap never sticks the hover state (the
+   tap-after-back class of bug). On touch no hover rule matches, so the link keeps its
+   resting colour and :active adds nothing — the first tap follows the link. */
+@media (hover: hover) and (pointer: fine) {
+  .show-head__listen-link:hover {
+    color: var(--sk-accent);
+    border-bottom-color: var(--sk-accent);
+  }
 }
 
 .show-head__listen-link.is-secondary {
