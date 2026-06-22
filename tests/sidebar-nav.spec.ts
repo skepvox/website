@@ -114,14 +114,17 @@ test.describe('sidebar-nav manifest (Slice 2A data foundation)', () => {
     expect(missing, `unresolved hrefs: ${missing.join(', ')}`).toEqual([])
   })
 
-  test('NOT wired yet: config.ts is still the live sidebar source and nothing imports the manifest', () => {
+  test('config.ts remains the live rented-sidebar source; manifest feeds only owned components', () => {
     const config = fs.readFileSync(path.resolve('.vitepress/config.ts'), 'utf-8')
-    // the hand-maintained sidebar object is unchanged and still live
+    // the hand-maintained rented sidebar object is unchanged and still live
     expect(config).toContain("'/literatura/':")
     expect(config).toContain("'/podcast/':")
     expect(config).toContain("'/louis-lavelle/':")
-    // no .vitepress source file imports/references sidebar-nav.json (so no visible nav change)
-    const offenders: string[] = []
+    // the rented sidebar (config.ts) is NOT fed by the manifest
+    expect(config).not.toContain('sidebar-nav')
+    // the manifest's only .vitepress consumer is the owned PodcastEpisodeNav (Slice 2B);
+    // it is never wired into config.ts or the rented VPSidebar.
+    const consumers: string[] = []
     const walk = (dir: string) => {
       for (const e of fs.readdirSync(dir, { withFileTypes: true })) {
         if (['data', 'dist', 'cache'].includes(e.name)) continue
@@ -131,12 +134,10 @@ test.describe('sidebar-nav manifest (Slice 2A data foundation)', () => {
           /\.(ts|vue|js|mjs)$/.test(e.name) &&
           fs.readFileSync(p, 'utf-8').includes('sidebar-nav')
         )
-          offenders.push(p)
+          consumers.push(path.relative(path.resolve('.vitepress'), p))
       }
     }
     walk(path.resolve('.vitepress'))
-    expect(offenders, `sidebar-nav.json must not be consumed yet: ${offenders.join(', ')}`).toEqual(
-      []
-    )
+    expect(consumers.sort()).toEqual(['theme/components/PodcastEpisodeNav.vue'])
   })
 })
