@@ -7,6 +7,7 @@
 // own data into CardGridItem (e.g. episodesToCards) rather than CardGrid knowing
 // about any one section.
 import type { CardGridItem } from './cards'
+import SkLink from './SkLink.vue'
 
 defineProps<{ items: CardGridItem[] }>()
 </script>
@@ -14,7 +15,7 @@ defineProps<{ items: CardGridItem[] }>()
 <template>
   <ul class="card-grid">
     <li v-for="item in items" :key="item.href" class="card-grid__item">
-      <a :href="item.href" class="card-grid__link">
+      <SkLink :href="item.href" class="card-grid__link">
         <img
           v-if="item.imageUrl"
           class="card-grid__art"
@@ -35,7 +36,7 @@ defineProps<{ items: CardGridItem[] }>()
           <span v-if="item.description" class="card-grid__desc">{{ item.description }}</span>
           <span v-if="item.meta" class="card-grid__meta">{{ item.meta }}</span>
         </span>
-      </a>
+      </SkLink>
     </li>
   </ul>
 </template>
@@ -74,6 +75,8 @@ defineProps<{ items: CardGridItem[] }>()
   padding: 14px;
   border: 1px solid var(--vt-c-divider, #e2e2e3);
   border-radius: var(--sk-card-radius);
+  /* Card-sized focus ring: keep SkLink's focus outline on the card's own radius. */
+  --sk-link-focus-radius: var(--sk-card-radius);
   background: var(--sk-surface-raised);
   color: inherit;
   text-decoration: none;
@@ -100,10 +103,8 @@ defineProps<{ items: CardGridItem[] }>()
   }
 }
 
-.card-grid__link:focus-visible {
-  outline: var(--sk-focus-ring);
-  outline-offset: var(--sk-focus-offset);
-}
+/* Keyboard focus + neutral pressed/touch are owned by SkLink (components/SkLink.vue);
+   --sk-link-focus-radius on .card-grid__link keeps the ring on the card's corner radius. */
 
 .card-grid__art {
   flex: 0 0 auto;

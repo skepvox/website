@@ -1,3 +1,7 @@
+<script setup lang="ts">
+import SkLink from './SkLink.vue'
+</script>
+
 <template>
   <section id="hero">
     <h1 class="tagline">
@@ -7,21 +11,21 @@
   </section>
 
   <section id="highlights" class="vt-box-container">
-    <a class="vt-box" href="/louis-lavelle/">
+    <SkLink class="vt-box" href="/louis-lavelle/">
       <h2>Louis Lavelle</h2>
       <p>
         Textos de Louis Lavelle, ainda pouco acessíveis, organizados aos poucos para minha própria
         leitura.
       </p>
-    </a>
-    <a class="vt-box" href="/literatura/">
+    </SkLink>
+    <SkLink class="vt-box" href="/literatura/">
       <h2>Literatura</h2>
       <p>Obras clássicas em domínio público, reunidas em um formato em que gosto de ler.</p>
-    </a>
-    <a class="vt-box" href="/podcast/">
+    </SkLink>
+    <SkLink class="vt-box" href="/podcast/">
       <h2>Podcasts</h2>
       <p>Episódios que uso para praticar idiomas, com áudio, transcrição e notas.</p>
-    </a>
+    </SkLink>
   </section>
 </template>
 
@@ -62,6 +66,8 @@ section {
   background-color: var(--sk-surface-raised);
   border: 1px solid var(--vt-c-divider, #e2e2e3);
   border-radius: 8px;
+  /* Pillar-sized focus ring: keep SkLink's focus outline on the pillar's own radius. */
+  --sk-link-focus-radius: 8px;
   transition:
     border-color var(--sk-motion-base),
     background-color var(--sk-motion-base);
@@ -74,10 +80,8 @@ section {
   }
 }
 
-#highlights .vt-box:focus-visible {
-  outline: var(--sk-focus-ring);
-  outline-offset: var(--sk-focus-offset);
-}
+/* Keyboard focus + neutral pressed/touch are owned by SkLink (components/SkLink.vue);
+   --sk-link-focus-radius on .vt-box keeps the ring on the pillar's corner radius. */
 
 #highlights h2 {
   font-weight: 600;

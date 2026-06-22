@@ -22,32 +22,21 @@ function hoverIsPointerGated(source: string, signatureHoverDecl: string): boolea
   return media > -1 && decl > -1 && media < decl
 }
 
-// Owned affordances and the single declaration that proves their visible hover styling.
-// All four keep their VISIBLE hover local + pointer-gated. The focus ring is owned either
-// per-component (CardGrid, Home) or — after the SkLink slice — by the SkLink primitive the
-// consumer wraps its anchor in (PodcastShowHeader, ReadingNav).
+// The four owned affordance families. All keep their VISIBLE hover local + pointer-gated,
+// and all wrap their anchor in the SkLink primitive, which owns the keyboard focus ring +
+// neutral pressed/touch state (card-sized surfaces tune --sk-link-focus-radius).
 const OWNED = [
   { file: 'components/CardGrid.vue', hover: 'border-color: var(--sk-accent)' },
   { file: 'components/Home.vue', hover: 'border-color: var(--sk-accent)' },
   { file: 'components/PodcastShowHeader.vue', hover: 'border-bottom-color: var(--sk-accent)' },
   { file: 'components/ReadingNav.vue', hover: 'color: var(--sk-reading-heading)' }
 ]
-
-// Surfaces that own their focus ring directly vs. surfaces that delegate it to SkLink.
-// (CardGrid + Home are the documented fast-follow migration candidates.)
-const OWNS_FOCUS = ['components/CardGrid.vue', 'components/Home.vue']
-const DELEGATES_TO_SKLINK = ['components/PodcastShowHeader.vue', 'components/ReadingNav.vue']
+const DELEGATES_TO_SKLINK = OWNED.map((c) => c.file)
 
 test.describe('nav interaction-state standard — owned affordances', () => {
   for (const c of OWNED) {
     test(`${c.file}: visible hover is gated behind the pointer media query`, () => {
       expect(hoverIsPointerGated(read(c.file), c.hover), c.file).toBe(true)
-    })
-  }
-
-  for (const file of OWNS_FOCUS) {
-    test(`${file}: owns its keyboard focus ring (--sk-focus-ring)`, () => {
-      expect(read(file), file).toMatch(/:focus-visible\s*\{[^}]*var\(--sk-focus-ring\)/)
     })
   }
 

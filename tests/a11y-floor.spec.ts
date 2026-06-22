@@ -58,10 +58,19 @@ test.describe('a11y floor (Slice 1A)', () => {
     expect(sk).toMatch(/a:focus-visible\s*\{[^}]*var\(--sk-focus-ring\)/)
   })
 
-  test('existing focus surfaces are not broken (cards, home pillars, cues)', () => {
-    for (const selector of ['card-grid__link', 'vt-box', 'vox-cue']) {
-      expect(css, selector).toMatch(new RegExp(`${selector}[^{]*:focus-visible`))
-    }
+  test('vox-cue keeps its own focus ring; cards + home pillars delegate it to SkLink', () => {
+    // vox-cue (the synced-transcript cue) is not a link and keeps its own ring.
+    expect(css).toMatch(/vox-cue[^{]*:focus-visible/)
+    // CardGrid + Home now get their keyboard focus ring from the SkLink primitive.
+    const cardGrid = fs.readFileSync(
+      path.resolve('.vitepress/theme/components/CardGrid.vue'),
+      'utf-8'
+    )
+    const home = fs.readFileSync(path.resolve('.vitepress/theme/components/Home.vue'), 'utf-8')
+    const sk = fs.readFileSync(path.resolve('.vitepress/theme/components/SkLink.vue'), 'utf-8')
+    expect(cardGrid).toContain('<SkLink')
+    expect(home).toContain('<SkLink')
+    expect(sk).toMatch(/a:focus-visible\s*\{[^}]*var\(--sk-focus-ring\)/)
   })
 
   test('the additive token groups are present', () => {

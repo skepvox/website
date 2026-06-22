@@ -19,7 +19,8 @@
  * own hover rule, gated under `@media (hover: hover) and (pointer: fine)`, so hover never
  * applies on touch (the tap-after-back class of bug).
  *
- * Fast-follow migration candidates: CardGrid card links and the Home pillars.
+ * Used by ReadingNav, PodcastShowHeader, CardGrid, and Home. Card-sized consumers set
+ * --sk-link-focus-radius to their resting radius so the focus ring keeps their corners.
  */
 defineOptions({ inheritAttrs: false })
 defineProps<{ href: string; current?: boolean }>()
@@ -39,6 +40,9 @@ a {
 a:focus-visible {
   outline: var(--sk-focus-ring);
   outline-offset: var(--sk-focus-offset);
-  border-radius: var(--sk-radius-sm);
+  /* Round the focus ring to the link's own shape. Defaults to the small radius
+     (inline / text links); card-sized consumers set --sk-link-focus-radius to their
+     resting radius so the element's corners do not change on focus. */
+  border-radius: var(--sk-link-focus-radius, var(--sk-radius-sm));
 }
 </style>
