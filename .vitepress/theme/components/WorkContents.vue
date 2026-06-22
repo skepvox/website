@@ -7,7 +7,13 @@ import SkLink from './SkLink.vue'
 // deliberately CONTEXT-FREE and reusable: the work hub mounts it (via WorkContentsMount), and a
 // future reading-leaf zoom-out overlay/sheet will render the same component with a `currentId`
 // to center + open around the segment being read. It renders the authored hierarchy from each
-// segment's `groupPath` (never from route slugs) and localizes group labels from works[].language.
+// segment's `groupPath` (never from route slugs) and localizes labels from works[].language.
+//
+// Two rendering modes, chosen per work by whether its segments carry an authored groupPath:
+//   - GROUPED (e.g. de-l-acte): collapsible authored groups (Livre 1 …) with real disclosure buttons.
+//   - FLAT (e.g. Brás Cubas, empty groupPath): an ordered list with quiet PRESENTATION range
+//     dividers (Matéria inicial, Capítulos 001–010 …) that are scan aids only — never authored,
+//     never collapsible — so no fake book/part/chapter hierarchy is invented.
 const props = withDefaults(
   defineProps<{
     workId: string
@@ -17,13 +23,19 @@ const props = withDefaults(
   { variant: 'hub' }
 )
 
-// Localized level words + nav-landmark label, keyed off the work's base language (not its route).
+// Localized labels, keyed off the work's base language (works[].language), not its route family.
 const LEVEL_WORDS: Record<string, Record<string, string>> = {
   fr: { book: 'Livre', part: 'Partie', chapter: 'Chapitre', section: 'Section' },
   pt: { book: 'Livro', part: 'Parte', chapter: 'Capítulo', section: 'Seção' },
   en: { book: 'Book', part: 'Part', chapter: 'Chapter', section: 'Section' }
 }
 const NAV_LABEL: Record<string, string> = { fr: 'Sommaire', pt: 'Sumário', en: 'Contents' }
+const RANGE_WORD: Record<string, string> = { fr: 'Chapitres', pt: 'Capítulos', en: 'Chapters' }
+const FRONT_LABEL: Record<string, string> = {
+  fr: 'Matière liminaire',
+  pt: 'Matéria inicial',
+  en: 'Front matter'
+}
 
 interface Level {
   kind: string
@@ -37,6 +49,7 @@ interface Segment {
   slug: string
   displayTitle: string
   order: number
+  chapterIndex?: number
   groupPath: Level[]
 }
 
@@ -47,26 +60,31 @@ const lang = computed(() => (work.value?.language as string) || 'pt')
 const words = computed(() => LEVEL_WORDS[lang.value] ?? LEVEL_WORDS.pt)
 const navLabel = computed(() => NAV_LABEL[lang.value] ?? NAV_LABEL.en)
 
-// Group the work's segments by their top authored level (book for de-l-acte), in reading order.
-// A group with no authored level above it (flat legacy works) has hasHeader=false and its leaves
-// render directly — no fabricated header. This same shape serves the hub and the future overlay.
-const groups = computed(() => {
-  if (!work.value) return []
-  const segs = (manifest.segments as Segment[])
+const segs = computed(() =>
+  (manifest.segments as Segment[])
     .filter((s) => s.workId === props.workId)
     .sort((a, b) => a.order - b.order)
+)
+
+// FLAT when no segment carries an authored level above it (legacy chapter-level works).
+const isFlat = computed(
+  () => segs.value.length > 0 && segs.value.every((s) => !(s.groupPath && s.groupPath.length))
+)
+
+// Grouped mode: authored hierarchy by top groupPath level (book for de-l-acte), in reading order.
+const groups = computed(() => {
+  if (!work.value || isFlat.value) return []
   const out: any[] = []
   const byKey = new Map<string, any>()
-  for (const s of segs) {
+  for (const s of segs.value) {
     const top = s.groupPath[0]
-    const key = top ? top.key : `${props.workId}::root`
+    const key = top.key
     let g = byKey.get(key)
     if (!g) {
       g = {
         key,
         domId: 'wc-' + key.replace(/[^a-z0-9]+/gi, '-'),
-        hasHeader: !!top,
-        label: top ? `${words.value[top.kind] ?? ''} ${top.index}`.trim() : '',
+        label: `${words.value[top.kind] ?? ''} ${top.index}`.trim(),
         segments: []
       }
       byKey.set(key, g)
@@ -77,20 +95,71 @@ const groups = computed(() => {
   return out
 })
 
-// The group holding the current segment — for centering/auto-open from a leaf. Dormant on the hub.
-const currentGroupKey = computed(() => {
-  if (!props.currentId) return null
-  const seg = (manifest.segments as Segment[]).find(
-    (s) => s.canonicalId === props.currentId && s.workId === props.workId
-  )
-  if (!seg) return null
-  const top = seg.groupPath[0]
-  return top ? top.key : `${props.workId}::root`
+// Flat mode: PRESENTATION range dividers (scan aids, not authored groups, not collapsible).
+// Front matter = leaves whose chapterIndex recurs on a later leaf (Brás Cubas reuses chapter
+// index 1 for Dedicatória/Prólogo/Ao leitor and chapter 1); works with unique indices (Vidas
+// Secas) yield no front-matter section. Chapters are bucketed into decades by chapterIndex.
+const pad3 = (n: number) => String(n).padStart(3, '0')
+const flatSections = computed(() => {
+  if (!isFlat.value) return []
+  const list = segs.value
+  const lastPos = new Map<number, number>()
+  for (const s of list) {
+    const ci = s.chapterIndex ?? -1
+    lastPos.set(ci, Math.max(lastPos.get(ci) ?? -1, s.order))
+  }
+  const isFront = (s: Segment) =>
+    s.chapterIndex != null && s.order < (lastPos.get(s.chapterIndex) ?? -1)
+
+  const sections: any[] = []
+  const front = list.filter(isFront)
+  if (front.length) {
+    sections.push({ key: 'front', label: FRONT_LABEL[lang.value] ?? FRONT_LABEL.en, leaves: front })
+  }
+  const byDecade = new Map<number, Segment[]>()
+  for (const s of list.filter((x) => !isFront(x))) {
+    const n = s.chapterIndex ?? s.order + 1
+    const k = Math.floor((n - 1) / 10)
+    if (!byDecade.has(k)) byDecade.set(k, [])
+    byDecade.get(k)!.push(s)
+  }
+  const word = RANGE_WORD[lang.value] ?? RANGE_WORD.en
+  for (const k of [...byDecade.keys()].sort((a, b) => a - b)) {
+    const arr = byDecade.get(k)!
+    const nums = arr.map((s) => s.chapterIndex ?? 0)
+    sections.push({
+      key: `r${k}`,
+      label: `${word} ${pad3(Math.min(...nums))}–${pad3(Math.max(...nums))}`,
+      leaves: arr
+    })
+  }
+  return sections
 })
 
-// Collapse state. v1 default: when reading a leaf (currentId set), open only the current group;
-// otherwise small works (<= 3 groups) open fully — de-l-acte's 3 books read like a printed TOC,
-// the whole map calm and visible — while larger works will default collapsed. Explicit toggles win.
+// Display-label cleanup — RENDER LAYER ONLY. Never mutates the manifest, href, or canonicalId; the
+// route stays exactly as published. Legacy `displayTitle` can carry title-quality debt: e.g. Brás
+// Cubas ch. 053's title is the chapter's opening sentence (167 chars) rather than its true heading
+// ("· · · · ·"). When a numbered title's body is absurdly long for a dense contents view, fall back
+// to the compact ordinal ("053") instead of leaking the sentence. Clean titles arrive via the
+// pipeline later; this is presentation cleanup, not source-of-truth cleanup.
+const MAX_TITLE_BODY = 64
+function displayLabel(s: Segment): string {
+  const m = /^(\d{1,4})\s*[—–-]\s*(.+)$/.exec(s.displayTitle)
+  if (m && m[2].length > MAX_TITLE_BODY) return m[1]
+  return s.displayTitle
+}
+
+// Group holding the current segment — for centering/auto-open from a leaf. Dormant on the hub.
+const currentGroupKey = computed(() => {
+  if (!props.currentId) return null
+  const seg = segs.value.find((s) => s.canonicalId === props.currentId)
+  if (!seg) return null
+  const top = seg.groupPath[0]
+  return top ? top.key : null
+})
+
+// Collapse state (grouped mode). v1 default: when a leaf passes currentId, open only its group;
+// otherwise small works (<= 3 groups) open fully — de-l-acte's 3 books read like a printed TOC.
 const expanded = reactive<Record<string, boolean>>({})
 function defaultOpen(key: string): boolean {
   if (currentGroupKey.value) return key === currentGroupKey.value
@@ -110,34 +179,54 @@ const isCurrent = (id: string) => !!props.currentId && id === props.currentId
     :class="`work-contents--${variant}`"
     :aria-label="navLabel"
   >
-    <div v-for="g in groups" :key="g.key" class="work-contents__group">
-      <button
-        v-if="g.hasHeader"
-        class="work-contents__heading"
-        type="button"
-        :aria-expanded="isOpen(g.key)"
-        :aria-controls="g.domId"
-        @click="toggle(g.key)"
-      >
-        <span class="work-contents__label">{{ g.label }}</span>
-        <span
-          class="work-contents__chevron"
-          :class="{ 'is-open': isOpen(g.key) }"
-          aria-hidden="true"
-        />
-      </button>
-      <div :id="g.domId" v-show="isOpen(g.key)" class="work-contents__leaves">
-        <SkLink
-          v-for="s in g.segments"
-          :key="s.canonicalId"
-          class="work-contents__link"
-          :class="{ 'is-current': isCurrent(s.canonicalId) }"
-          :href="s.href"
-          :current="isCurrent(s.canonicalId)"
-          >{{ s.displayTitle }}</SkLink
-        >
+    <!-- FLAT: ordered list with presentation range dividers (scan aids; never collapsible groups) -->
+    <template v-if="isFlat">
+      <div v-for="sec in flatSections" :key="sec.key" class="work-contents__section">
+        <p class="work-contents__divider">{{ sec.label }}</p>
+        <div class="work-contents__leaves">
+          <SkLink
+            v-for="s in sec.leaves"
+            :key="s.canonicalId"
+            class="work-contents__link"
+            :class="{ 'is-current': isCurrent(s.canonicalId) }"
+            :href="s.href"
+            :current="isCurrent(s.canonicalId)"
+            >{{ displayLabel(s) }}</SkLink
+          >
+        </div>
       </div>
-    </div>
+    </template>
+
+    <!-- GROUPED: collapsible authored hierarchy -->
+    <template v-else>
+      <div v-for="g in groups" :key="g.key" class="work-contents__group">
+        <button
+          class="work-contents__heading"
+          type="button"
+          :aria-expanded="isOpen(g.key)"
+          :aria-controls="g.domId"
+          @click="toggle(g.key)"
+        >
+          <span class="work-contents__label">{{ g.label }}</span>
+          <span
+            class="work-contents__chevron"
+            :class="{ 'is-open': isOpen(g.key) }"
+            aria-hidden="true"
+          />
+        </button>
+        <div :id="g.domId" v-show="isOpen(g.key)" class="work-contents__leaves">
+          <SkLink
+            v-for="s in g.segments"
+            :key="s.canonicalId"
+            class="work-contents__link"
+            :class="{ 'is-current': isCurrent(s.canonicalId) }"
+            :href="s.href"
+            :current="isCurrent(s.canonicalId)"
+            >{{ displayLabel(s) }}</SkLink
+          >
+        </div>
+      </div>
+    </template>
   </nav>
 </template>
 
@@ -149,11 +238,12 @@ const isCurrent = (id: string) => !!props.currentId && id === props.currentId
   margin: 0 0 2.5rem;
 }
 
-.work-contents__group + .work-contents__group {
+.work-contents__group + .work-contents__group,
+.work-contents__section + .work-contents__section {
   margin-top: 0.35rem;
 }
 
-/* Group heading is a real disclosure button, styled as a quiet literary eyebrow (Livre 1 …). */
+/* Grouped mode: the group heading is a real disclosure button (quiet literary eyebrow, Livre 1 …). */
 .work-contents__heading {
   display: flex;
   align-items: center;
@@ -179,7 +269,6 @@ const isCurrent = (id: string) => !!props.currentId && id === props.currentId
   flex: 1 1 auto;
 }
 
-/* Quiet rotating chevron — points right when collapsed, down when open. */
 .work-contents__chevron {
   flex: none;
   width: 0;
@@ -194,14 +283,29 @@ const isCurrent = (id: string) => !!props.currentId && id === props.currentId
   transform: rotate(90deg);
 }
 
+/* Flat mode: a quiet, NON-interactive range divider — a scan aid, deliberately distinct from the
+   grouped disclosure button (no chevron, lighter, not clickable) so it never reads as an authored
+   collapsible group. */
+.work-contents__divider {
+  margin: 0;
+  padding: 0.6rem 0 0.25rem;
+  border-top: 1px solid var(--sk-reading-rule);
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+  color: var(--sk-text-muted);
+  opacity: 0.85;
+}
+
 .work-contents__leaves {
   display: flex;
   flex-direction: column;
   padding: 0.1rem 0 0.85rem;
 }
 
-/* Each leaf is a SkLink row: the displayTitle leads; no bullets, no slugs, no numbering imposed
-   by the UI (these French titles already carry "Chapitre I." as their own quiet orientation). */
+/* Each leaf is a SkLink row: the display label leads; no bullets, no slugs, no UI-imposed numbering
+   (authored "Chapitre I." / "001 —" prefixes already carry their own quiet orientation). */
 .work-contents__link {
   display: block;
   min-height: 44px;

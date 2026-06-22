@@ -4,10 +4,11 @@ import { useData } from 'vitepress'
 import manifest from '../data/segment-manifest.json'
 import WorkContents from './WorkContents.vue'
 
-// Hub adapter for the book map. Slice b v1 mounts WorkContents on ONE work hub only (de-l-acte);
-// the allowlist is the only thing that changes as more work hubs adopt it. The map itself
-// (WorkContents) stays context-free so a future reading-leaf overlay can reuse it directly.
-const ALLOWED = new Set(['louis-lavelle/de-l-acte.md'])
+// Hub adapter for the book map. WorkContents adopts work hubs one at a time via this allowlist;
+// the map itself stays context-free so a future reading-leaf overlay can reuse it directly.
+//   - louis-lavelle/de-l-acte  — grouped mode (book-level hierarchy) mechanics target
+//   - machado-de-assis/bras-cubas — flat mode (163 leaves, empty groupPath) visual stress target
+const ALLOWED = new Set(['louis-lavelle/de-l-acte.md', 'literatura/machado-de-assis/bras-cubas.md'])
 
 const { page } = useData()
 const work = computed(() => {

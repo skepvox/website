@@ -19,20 +19,21 @@ const visibleText = (b: string) =>
     .trim()
 const count = (b: string, re: RegExp) => (b.match(re) || []).length
 
-const TARGET = 'louis-lavelle/de-l-acte.html'
+const TARGET = 'louis-lavelle/de-l-acte.html' // grouped-mode mechanics target
+const FLAT = 'literatura/machado-de-assis/bras-cubas.html' // flat-mode stress target
 
-test.describe('WorkContents — owned work-hub book map (Slice b v1)', () => {
-  test('renders only on the de-l-acte work hub', () => {
+test.describe('WorkContents — owned work-hub book map (Slice b)', () => {
+  test('renders on both allowlisted work hubs (de-l-acte grouped, bras-cubas flat)', () => {
     expect(block(html(TARGET)), 'present on de-l-acte hub').toBeTruthy()
+    expect(block(html(FLAT)), 'present on bras-cubas hub').toBeTruthy()
   })
 
-  test('is absent on leaves, other hubs, single-file works, podcast, and home', () => {
+  test('is absent on leaves, non-adopted hubs, single-file works, podcast, and home', () => {
     const off = [
       'louis-lavelle/de-l-acte/01-00-001-l-experience-de-l-acte.html', // a leaf of the target work
       'louis-lavelle/index.html', // corpus hub
       'louis-lavelle/de-l-etre.html', // another (not-yet-adopted) work hub
       'louis-lavelle/a-consciencia-de-si.html', // another work hub
-      'literatura/machado-de-assis/bras-cubas.html', // another work hub (flat, next slice)
       'literatura/machado-de-assis/a-cartomante.html', // single-file work
       'literatura/index.html',
       'podcast/francais/001-le-badge.html',
@@ -108,5 +109,54 @@ test.describe('WorkContents — owned work-hub book map (Slice b v1)', () => {
     expect(src).toMatch(/\.work-contents__heading:focus-visible\s*\{[^}]*var\(--sk-focus-ring\)/)
     // links delegate their focus ring to SkLink — no per-link :focus-visible rule here
     expect(src).not.toMatch(/\.work-contents__link:focus-visible/)
+  })
+
+  // ---- Flat mode: Brás Cubas (163 leaves, empty groupPath) ----
+
+  test('bras-cubas uses flat mode: presentation range dividers, no collapsible authored groups', () => {
+    const b = block(html(FLAT))!
+    // quiet presentation dividers (scan aids), pt-BR labels
+    expect(b).toContain('Matéria inicial')
+    expect(b).toContain('Capítulos 001–010')
+    expect(b).toContain('Capítulos 051–060') // the range holding ch 053
+    expect(b).toContain('Capítulos 151–160')
+    // flat mode invents NO authored hierarchy and is NOT collapsible
+    expect(b).not.toContain('aria-expanded')
+    expect(count(b, /<button\b/g)).toBe(0)
+    // dividers are not Livre/Partie/Capítulo authored headers
+    expect(b).not.toContain('Livre ')
+  })
+
+  test('bras-cubas renders all 163 leaves as SkLink anchors in reading-nav order', () => {
+    const b = block(html(FLAT))!
+    const rn = JSON.parse(
+      fs.readFileSync(path.resolve('.vitepress/theme/data/reading-nav.json'), 'utf-8')
+    )
+    const route = '/literatura/machado-de-assis/bras-cubas'
+    const expected = rn[route].map(([slug]: [string]) => `${route}/${slug}`)
+    expect(expected.length).toBe(163)
+    const hrefs = [...b.matchAll(/href="([^"]+)"/g)].map((m) => m[1])
+    expect(hrefs).toEqual(expected) // exact reading order, front matter first
+    expect(count(b, /<a\b/g)).toBe(163)
+  })
+
+  test('chapter 053 shows a compact label, never the opening sentence, route preserved', () => {
+    const b = block(html(FLAT))!
+    // the long opening sentence must NOT appear as visible text (distinctive word "Lembrava")
+    expect(visibleText(b)).not.toContain('Lembrava')
+    // …but the public route is untouched (slug lives only in the href attribute)
+    expect(b).toContain(
+      'href="/literatura/machado-de-assis/bras-cubas/00-09-053-virgilia-e-que-ja-se-nao-lembrava'
+    )
+    // the compact ordinal label is shown for that chapter (only ch.053 collapses to a bare number)
+    expect(visibleText(b)).toContain('053')
+  })
+
+  test('bras-cubas: no slug leakage as visible text, no bullet-list markup', () => {
+    const b = block(html(FLAT))!
+    expect(visibleText(b)).not.toMatch(/\d{2}-\d{2}-\d{3}/) // no BB-PP-CCC slug in visible text
+    expect(b).not.toMatch(/<ul\b/)
+    expect(b).not.toMatch(/<ol\b/)
+    expect(b).not.toMatch(/<li\b/)
   })
 })
