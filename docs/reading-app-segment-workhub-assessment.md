@@ -673,6 +673,50 @@ interaction-state standard.
   hierarchy inferred from slugs; not wired to UI.
 - **QA:** none visible.
 
+**Realized v0 schema (Slice a, implemented in `scripts/build-segment-manifest.py` →
+`.vitepress/theme/data/segment-manifest.json`).** Generated from committed website data only
+(`reading-nav.json`, `sidebar-nav.json`, leaf paths); scope `literatura` + `louis-lavelle` (podcast
+excluded); no prose. Top level: `{ $schema: "skepvox-segment-manifest-v0", generatedBy, source:
+"website-committed", scope, note, works[], segments[] }`.
+
+- **`works[]`** — one per book/work: `workId` (`{author}/{work}`), `corpus`, `author`, `work`,
+  `displayTitle`, `href`, `relativePath`, `kind` (`multi-leaf | single-file`), `leafCount`,
+  `prefixCompatibility` (`chapter-level | segment-level | single-file`), `semanticMaturity`
+  (`"unknown"`), `urlStability` (`"preserve"`).
+- **`segments[]`** — one per reading leaf (834 multi-leaf + 2 single-file = 836):
+  - *Identity:* `canonicalId` = `{author}/{work}/{prefix}` (provisional, deterministic; **never** a
+    route href or slug; single-file works use `{author}/{work}`).
+  - *Ordering:* `order` (within-work, matches `reading-nav` order), `prefix`, `bookIndex`, `partIndex`,
+    `chapterIndex`, and `segmentIndex` only when present (segment-level); omitted, never null-filled,
+    when not derivable.
+  - *Granularity:* `segmentKind` = `chapter` (legacy `BB-PP-CCC`) / `segment` (`BB-PP-CCC-SSS`, kept
+    generic — not `paragraph-marker`, which awaits pipeline metadata) / `single-file`; optional `bucket`
+    = `front-matter | conclusion` for the reserved `00-00-000` / `99-99-999` prefixes.
+  - *Hierarchy:* `groupPath[]` of `{ kind, index, key, inferred: true }`, absent levels omitted —
+    `book` when `bookIndex ∉ {0,99}`; `part` only for segment-level (the legacy synthetic `PP` is
+    **not** projected for chapter-level leaves); `chapter` only for segment-level (where the segment is
+    below the chapter). `key` is a **stable group key** (`{workId}/{index-path}`, e.g.
+    `louis-lavelle/a-consciencia-de-si/00-00-001`) shared by every segment in that group. Chapter-level
+    leaves therefore carry `groupPath: []` unless they have an internal book; reserved buckets carry
+    `[]`.
+  - *Route/display (presentation, not identity):* `href`, `relativePath`, `slug`, `displayTitle`.
+  - *Maturity:* `source: "website-committed"`, `prefixCompatibility`, `semanticMaturity: "unknown"`,
+    `urlStability: "preserve"`.
+
+This is the conservative bridge; a future revision ingests the pipeline `sync-map.yaml` + segment
+frontmatter to replace `groupPath` placeholders with authored titles, refine `segmentKind`, add the
+edition dimension + review/reading state, and (per §4.4) a durable `uid`.
+
+**v1 WorkContents readiness (no UI/collapse logic in Slice a).** The manifest already carries
+everything a collapsible WorkContents needs from day one, without any slug parsing: a stable
+`canonicalId` per segment; an ordered `groupPath` with a stable per-group `key` (for group headers,
+`aria-controls`, and collapse/`localStorage` keys); `kind` + `index` per level for header labels
+(authored titles arrive with the pipeline); and the ordering fields (`order`, `prefix`, `bookIndex`/
+`partIndex`/`chapterIndex`/`segmentIndex`) to reconstruct or bucket the hierarchy deterministically.
+Flat legacy works with no derivable authored structure (e.g. Brás Cubas, `groupPath: []`) expose those
+ordering fields so WorkContents can bucket them at render time — a Slice b presentation decision, not
+fabricated structure here.
+
 ### Slice b — Owned work-contents component for ONE stress-test work
 
 - **What:** the owned contents/map surface (§5), wired for **one** work behind the existing hub, reading
@@ -680,8 +724,14 @@ interaction-state standard.
 - **Files:** `.vitepress/theme/components/WorkContents.vue` (+ a slot/wiring approach consistent with
   `ReadingNav`/`PodcastEpisodeNav`), tests.
 - **Risk:** medium (first visible hub change; one work only).
-- **Tests:** renders grouped/collapsed contents; current-position marking; SkLink four-state; no
-  concatenation removed yet.
+- **Collapse is v1, not deferred.** Group headers are real `<button>`s with `aria-expanded` +
+  `aria-controls` over each group's stable `groupPath` `key`; large works default **collapsed**, small
+  works may default **expanded**; the current/continue group opens automatically once a progress signal
+  exists; optional `localStorage` may remember expanded groups as **local convenience only — never
+  durable identity** (identity stays `canonicalId`). What is *deferred* from Slice a is only that this
+  logic lives in the component, not the manifest.
+- **Tests:** renders grouped/collapsed contents; group headers expose `aria-expanded`/`aria-controls`;
+  current-position marking; SkLink four-state; no concatenation removed yet.
 - **QA:** Brás Cubas mobile + desktop, light + dark; verify calm at 163 chapters.
 
 ### Slice c — Remove visible full-book concatenation for selected hubs (+ SEO/search replacement)
