@@ -1,0 +1,256 @@
+{
+  "generatedBy": "scripts/build-sidebar-nav.py",
+  "note": "Data foundation only (Slice 2A); not wired to navigation. config.ts is the live sidebar source.",
+  "corpora": [
+    {
+      "key": "louis-lavelle",
+      "label": "Louis Lavelle",
+      "route": "/louis-lavelle/",
+      "groups": [
+        {
+          "key": "translationsPt",
+          "label": "Obras traduzidas",
+          "works": [
+            {
+              "title": "A consciência de si",
+              "href": "/louis-lavelle/a-consciencia-de-si",
+              "kind": "multi-leaf",
+              "leaves": 118,
+              "meta": "1933"
+            }
+          ]
+        },
+        {
+          "key": "frenchOriginals",
+          "label": "Obras originais",
+          "works": [
+            {
+              "title": "De l'être",
+              "href": "/louis-lavelle/de-l-etre",
+              "kind": "multi-leaf",
+              "leaves": 9,
+              "meta": "1928"
+            },
+            {
+              "title": "La conscience de soi",
+              "href": "/louis-lavelle/la-conscience-de-soi",
+              "kind": "multi-leaf",
+              "leaves": 13,
+              "meta": "1933"
+            },
+            {
+              "title": "La Présence totale",
+              "href": "/louis-lavelle/la-presence-totale",
+              "kind": "multi-leaf",
+              "leaves": 46,
+              "meta": "1934"
+            },
+            {
+              "title": "De l'acte",
+              "href": "/louis-lavelle/de-l-acte",
+              "kind": "multi-leaf",
+              "leaves": 27,
+              "meta": "1937"
+            },
+            {
+              "title": "L'Erreur de Narcisse",
+              "href": "/louis-lavelle/l-erreur-de-narcisse",
+              "kind": "multi-leaf",
+              "leaves": 12,
+              "meta": "1939"
+            },
+            {
+              "title": "Du temps et de l'éternité",
+              "href": "/louis-lavelle/du-temps-et-de-l-eternite",
+              "kind": "multi-leaf",
+              "leaves": 12,
+              "meta": "1945"
+            },
+            {
+              "title": "Introduction à l'ontologie",
+              "href": "/louis-lavelle/introduction-a-l-ontologie",
+              "kind": "multi-leaf",
+              "leaves": 12,
+              "meta": "1947"
+            },
+            {
+              "title": "De l'âme humaine",
+              "href": "/louis-lavelle/de-l-ame-humaine",
+              "kind": "multi-leaf",
+              "leaves": 22,
+              "meta": "1951"
+            },
+            {
+              "title": "Quatre saints",
+              "href": "/louis-lavelle/quatre-saints",
+              "kind": "multi-leaf",
+              "leaves": 5,
+              "meta": "1951"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "literatura",
+      "label": "Literatura",
+      "route": "/literatura/",
+      "authors": [
+        {
+          "label": "Machado de Assis",
+          "route": "/literatura/machado-de-assis/",
+          "works": [
+            {
+              "title": "Memórias póstumas de Brás Cubas",
+              "href": "/literatura/machado-de-assis/bras-cubas",
+              "kind": "multi-leaf",
+              "leaves": 163,
+              "meta": "1880"
+            },
+            {
+              "title": "O Alienista",
+              "href": "/literatura/machado-de-assis/o-alienista",
+              "kind": "multi-leaf",
+              "leaves": 4,
+              "meta": "1881"
+            },
+            {
+              "title": "A Cartomante",
+              "href": "/literatura/machado-de-assis/a-cartomante",
+              "kind": "single-file",
+              "leaves": 0,
+              "meta": "1884"
+            },
+            {
+              "title": "Quincas Borba",
+              "href": "/literatura/machado-de-assis/quincas-borba",
+              "kind": "multi-leaf",
+              "leaves": 61,
+              "meta": "1891"
+            },
+            {
+              "title": "Dom Casmurro",
+              "href": "/literatura/machado-de-assis/dom-casmurro",
+              "kind": "multi-leaf",
+              "leaves": 148,
+              "meta": "1899"
+            },
+            {
+              "title": "Esaú e Jacó",
+              "href": "/literatura/machado-de-assis/esau-e-jaco",
+              "kind": "multi-leaf",
+              "leaves": 122,
+              "meta": "1904"
+            }
+          ]
+        },
+        {
+          "label": "Graciliano Ramos",
+          "route": "/literatura/graciliano-ramos/",
+          "works": [
+            {
+              "title": "São Bernardo",
+              "href": "/literatura/graciliano-ramos/sao-bernardo",
+              "kind": "multi-leaf",
+              "leaves": 36,
+              "meta": "1934"
+            },
+            {
+              "title": "Angústia",
+              "href": "/literatura/graciliano-ramos/angustia",
+              "kind": "multi-leaf",
+              "leaves": 11,
+              "meta": "1936"
+            },
+            {
+              "title": "Vidas Secas",
+              "href": "/literatura/graciliano-ramos/vidas-secas",
+              "kind": "multi-leaf",
+              "leaves": 13,
+              "meta": "1938"
+            }
+          ]
+        },
+        {
+          "label": "Raul Pompeia",
+          "route": "/literatura/raul-pompeia/",
+          "works": [
+            {
+              "title": "O Ateneu",
+              "href": "/literatura/raul-pompeia/o-ateneu",
+              "kind": "single-file",
+              "leaves": 0,
+              "meta": "1888"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "podcast",
+      "label": "Podcasts",
+      "route": "/podcast/",
+      "shows": [
+        {
+          "title": "Vox Français",
+          "href": "/podcast/francais/",
+          "meta": "3 épisodes",
+          "episodeCount": 3,
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Le badge",
+              "href": "/podcast/francais/001-le-badge"
+            },
+            {
+              "number": 2,
+              "title": "La valise verte",
+              "href": "/podcast/francais/002-la-valise-verte"
+            },
+            {
+              "number": 3,
+              "title": "Le covoiturage poli",
+              "href": "/podcast/francais/003-le-covoiturage-poli"
+            }
+          ]
+        },
+        {
+          "title": "Vox Español",
+          "href": "/podcast/espanol/",
+          "meta": "2 episodios",
+          "episodeCount": 2,
+          "episodes": [
+            {
+              "number": 1,
+              "title": "La boda es a las seis",
+              "href": "/podcast/espanol/001-la-boda-es-a-las-seis"
+            },
+            {
+              "number": 2,
+              "title": "La sartén está ocupada",
+              "href": "/podcast/espanol/002-la-sarten-esta-ocupada"
+            }
+          ]
+        },
+        {
+          "title": "Vox English",
+          "href": "/podcast/english/",
+          "meta": "2 episodes",
+          "episodeCount": 2,
+          "episodes": [
+            {
+              "number": 1,
+              "title": "The Two-Minute Phone Call",
+              "href": "/podcast/english/001-the-two-minute-phone-call"
+            },
+            {
+              "number": 2,
+              "title": "The Bowl of Something",
+              "href": "/podcast/english/002-the-bowl-of-something"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
