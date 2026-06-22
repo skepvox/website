@@ -140,10 +140,31 @@ The visible lead for each segment is its **`displayTitle`**; the ordinal is seco
    `00-00-000` / `99-99-999`. Legacy works put front matter at `00-01/02/03` (e.g. Brás Cubas
    Dedicatória/Prólogo/Ao leitor), so they are **not** flagged. Flat mode should render those leaves in
    order at the top; do not hard-depend on `bucket` to separate front matter for legacy works.
+3. **`displayTitle` is not always editorially mature (title-quality debt).** The legacy `displayTitle`
+   can be wrong: e.g. **Brás Cubas chapter 053** currently uses the chapter's opening sentence
+   ("Virgília é que já se não lembrava…") as its title/slug, whereas reference editions (Wikisource,
+   FUVEST) show Chapter LIII's heading is the dotted marker "`. . . . .`" and that sentence is body
+   text. WorkContents must **tolerate** this and never assume the manifest's `displayTitle` is clean.
+
+**Display label vs identity vs route — keep the three separate (the §2.7 principle, restated for the
+title layer).** WorkContents must treat these as independent:
+
+- **route / `href`** — the **stable public URL**; never renamed for a title fix (preserve SEO/links).
+- **`canonicalId`** — **identity**; never the visible text and never the slug.
+- **display label** — the **reader-facing title**, which may be **cleaned later** without touching the
+  route or the id.
+
+So for the future flat-mode (Brás Cubas) slice: do **not** rename routes; render a **faithful compact
+fallback** for debt cases — chapter 053 should display as "`053 — . . . . .`" or just "`053`" in dense
+contents views, keeping the sentence as body text — and, more generally, dense views may prefer a short
+ordinal label over a very long `displayTitle`. This is render-layer cleanup over a separate (eventually
+pipeline-fed) clean-title source; it does **not** mutate `href` or `canonicalId`. *(Not implemented in
+the de-l-acte slice — its titles are clean — and added only as defensive guidance for flat mode.)*
 
 **Conclusion:** build v1 against v0 plus the small `works[].language` add, so group-level labels
-localize correctly for whichever first target is chosen (pt or fr). Authored group titles arrive later
-via pipeline ingestion.
+localize correctly for whichever first target is chosen (pt or fr). Authored group titles — and clean
+chapter titles for debt cases like Brás Cubas 053 — arrive later via pipeline ingestion; until then the
+render layer must tolerate title-quality debt and may substitute a compact ordinal label.
 
 ## 6. First implementation target
 
@@ -236,7 +257,10 @@ replacement (assessment §6, Slice c). v1 must **coexist** with the current hub:
 
 **Live-testable now (on-site):**
 - **Brás Cubas** (`/literatura/machado-de-assis/bras-cubas`) — *flat mode*, 163 tiny chapters: calm at
-  scale, front-matter ordering, optional chunking, no ugly 163-row wall.
+  scale, front-matter ordering, optional chunking, no ugly 163-row wall. **Also the title-quality-debt
+  case:** chapter 053's `displayTitle` is a full sentence (should be the dotted marker "`. . . . .`");
+  the contents view must fall back to a compact label ("`053 — . . . . .`" / "`053`"), not render the
+  sentence — without renaming the route (see §5).
 - **a-consciência de si** (`/louis-lavelle/a-consciencia-de-si`) — *grouped mode*, segment-level, ~13
   chapter groups / 118 segments: collapse mechanics + a11y + the segment template.
 - **de-l-acte** (`/louis-lavelle/de-l-acte`, Lavelle FR — a first-class reading target) — *grouped
