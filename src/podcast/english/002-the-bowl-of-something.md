@@ -2,6 +2,7 @@
 title: "Vox English 002 - The Bowl of Something"
 description: "Episode page for Vox English 002: The Bowl of Something, with audio, transcript, and notes."
 outline: 2
+footer: false
 head:
   - - link
     - rel: canonical

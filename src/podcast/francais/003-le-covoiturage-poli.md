@@ -2,6 +2,7 @@
 title: "Vox Français 003 — Le covoiturage poli"
 description: "Page de l’épisode 003 de Vox Français : Le covoiturage poli, avec audio, transcription et notes."
 outline: 2
+footer: false
 head:
   - - link
     - rel: canonical

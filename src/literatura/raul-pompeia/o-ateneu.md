@@ -2,6 +2,7 @@
 title: "O Ateneu — Raul Pompeia"
 description: "Texto integral de O Ateneu, de Raul Pompeia, romance da literatura brasileira do realismo-naturalismo."
 outline: [2, 3]
+footer: false
 head:
   - - link
     - rel: canonical

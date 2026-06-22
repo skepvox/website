@@ -3,6 +3,7 @@ language: fr
 title: "De l'acte — Louis Lavelle"
 description: "Texte intégral en français de De l'acte de Louis Lavelle, deuxième volume de La Dialectique de l'éternel présent."
 outline: 2
+footer: false
 head:
   - - link
     - rel: canonical

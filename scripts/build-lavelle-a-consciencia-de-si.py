@@ -479,6 +479,7 @@ def main() -> None:
         f'title: {yaml_str(f"{BOOK_TITLE} — {AUTHOR}")}',
         f'description: {yaml_str(BOOK_DESCRIPTION)}',
         'outline: 2',
+        'footer: false',
         'head:',
         '  - - link',
         '    - rel: canonical',

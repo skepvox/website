@@ -2,6 +2,7 @@
 title: "Vox Français 002 — La valise verte"
 description: "Page de l’épisode 002 de Vox Français : La valise verte, avec audio, transcription et notes."
 outline: 2
+footer: false
 head:
   - - link
     - rel: canonical

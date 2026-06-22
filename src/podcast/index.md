@@ -2,6 +2,7 @@
 title: 'Podcasts'
 description: 'Podcasts que criei para meu próprio estudo: francês, espanhol e inglês em um formato que tem funcionado bem para mim.'
 outline: 2
+footer: false
 head:
   - - link
     - rel: canonical

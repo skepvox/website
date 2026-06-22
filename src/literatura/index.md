@@ -1,6 +1,7 @@
 ---
 title: Literatura
 description: 'Obras clássicas em domínio público, reunidas em um formato simples de leitura.'
+footer: false
 ---
 
 <script setup>

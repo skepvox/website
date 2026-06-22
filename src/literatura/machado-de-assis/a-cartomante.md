@@ -2,6 +2,7 @@
 title: "A Cartomante — Machado de Assis"
 description: "Texto integral de A Cartomante, conto de Machado de Assis."
 outline: 2
+footer: false
 head:
   - - link
     - rel: canonical

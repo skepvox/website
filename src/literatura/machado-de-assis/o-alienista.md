@@ -2,6 +2,7 @@
 title: "O Alienista — Machado de Assis"
 description: "Leitura de O Alienista, de Machado de Assis, com capítulos separados para leitura."
 outline: 2
+footer: false
 head:
   - - link
     - rel: canonical

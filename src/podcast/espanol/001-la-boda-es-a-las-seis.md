@@ -2,6 +2,7 @@
 title: "Vox Español 001 - La boda es a las seis"
 description: "Página del episodio 001 de Vox Español: La boda es a las seis, con audio, transcripción y notas."
 outline: 2
+footer: false
 head:
   - - link
     - rel: canonical

@@ -2,6 +2,7 @@
 title: "Literatura — Graciliano Ramos"
 description: "Graciliano Ramos"
 outline: 2
+footer: false
 head:
   - - link
     - rel: canonical

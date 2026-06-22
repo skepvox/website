@@ -2,6 +2,7 @@
 title: "Vox English 001 - The Two-Minute Phone Call"
 description: "Episode page for Vox English 001: The Two-Minute Phone Call, with audio, transcript, and notes."
 outline: 2
+footer: false
 head:
   - - link
     - rel: canonical

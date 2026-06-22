@@ -2,6 +2,7 @@
 title: "Quincas Borba — Machado de Assis"
 description: "Texto integral de Quincas Borba, de Machado de Assis, com capítulos separados para leitura."
 outline: 2
+footer: false
 head:
   - - link
     - rel: canonical

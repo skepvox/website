@@ -3,6 +3,7 @@ language: fr
 title: "Introduction à l'ontologie — Louis Lavelle"
 description: "Texte intégral en français de Introduction à l'ontologie de Louis Lavelle."
 outline: 2
+footer: false
 head:
   - - link
     - rel: canonical

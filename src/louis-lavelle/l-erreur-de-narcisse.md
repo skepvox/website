@@ -3,6 +3,7 @@ language: fr
 title: "L'Erreur de Narcisse — Louis Lavelle"
 description: "Texte intégral en français de L'Erreur de Narcisse de Louis Lavelle."
 outline: 2
+footer: false
 head:
   - - link
     - rel: canonical

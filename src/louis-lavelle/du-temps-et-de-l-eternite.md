@@ -3,6 +3,7 @@ language: fr
 title: "Du temps et de l'éternité — Louis Lavelle"
 description: "Texte intégral en français de Du temps et de l'éternité de Louis Lavelle, troisième volume de La Dialectique de l'éternel présent."
 outline: 2
+footer: false
 head:
   - - link
     - rel: canonical

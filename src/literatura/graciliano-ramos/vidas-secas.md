@@ -2,6 +2,7 @@
 title: "Vidas Secas — Graciliano Ramos"
 description: "Texto integral de Vidas Secas, de Graciliano Ramos, com capítulos separados para leitura."
 outline: 2
+footer: false
 head:
   - - link
     - rel: canonical

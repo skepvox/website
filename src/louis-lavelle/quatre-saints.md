@@ -3,6 +3,7 @@ language: fr
 title: "Quatre saints — Louis Lavelle"
 description: "Texte intégral en français de Quatre saints de Louis Lavelle."
 outline: 2
+footer: false
 head:
   - - link
     - rel: canonical

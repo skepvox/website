@@ -554,6 +554,7 @@ def main() -> None:
         f'title: "{BOOK_TITLE} — {AUTHOR}"',
         f'description: "{DESCRIPTION}"',
         'outline: 2',
+        'footer: false',
         'head:',
         '  - - link',
         '    - rel: canonical',

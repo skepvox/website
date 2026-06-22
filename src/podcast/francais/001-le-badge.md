@@ -2,6 +2,7 @@
 title: "Vox Français 001 — Le badge"
 description: "Page de l’épisode 001 de Vox Français : Le badge, avec audio, transcription et notes."
 outline: 2
+footer: false
 head:
   - - link
     - rel: canonical

@@ -1,6 +1,7 @@
 ---
 title: "Raul Pompeia — Obras"
 description: "Raul Pompeia"
+footer: false
 head:
   - - link
     - rel: canonical

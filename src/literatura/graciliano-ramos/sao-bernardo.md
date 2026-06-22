@@ -2,6 +2,7 @@
 title: "São Bernardo — Graciliano Ramos"
 description: "Texto integral de São Bernardo, de Graciliano Ramos, com capítulos separados para leitura."
 outline: 2
+footer: false
 head:
   - - link
     - rel: canonical

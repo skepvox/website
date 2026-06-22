@@ -2,6 +2,7 @@
 title: "Angústia — Graciliano Ramos"
 description: "Texto integral de Angústia, de Graciliano Ramos, com capítulos separados para leitura."
 outline: 2
+footer: false
 head:
   - - link
     - rel: canonical

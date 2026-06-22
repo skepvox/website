@@ -314,6 +314,7 @@ def build_new_frontmatter(show: ShowConfig, page_title: str, description: str, k
         f"title: {yaml_quote(page_title)}",
         f"description: {yaml_quote(description)}",
         "outline: 2",
+        "footer: false",
         "head:",
         "  - - link",
         "    - rel: canonical",

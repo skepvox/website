@@ -2,6 +2,7 @@
 title: "Vox Español 002 - La sartén está ocupada"
 description: "Página del episodio 002 de Vox Español: La sartén está ocupada, con audio, transcripción y notas."
 outline: 2
+footer: false
 head:
   - - link
     - rel: canonical

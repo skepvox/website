@@ -2,6 +2,7 @@
 title: 'Louis Lavelle'
 description: 'Louis Lavelle'
 outline: 2
+footer: false
 head:
   - - link
     - rel: canonical

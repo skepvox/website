@@ -2,6 +2,7 @@
 title: "Literatura — Machado de Assis"
 description: "Machado de Assis"
 outline: 2
+footer: false
 head:
   - - link
     - rel: canonical

@@ -3,6 +3,7 @@ language: fr
 title: "La Présence totale — Louis Lavelle"
 description: "Texte intégral en français de La Présence totale de Louis Lavelle."
 outline: 2
+footer: false
 head:
   - - link
     - rel: canonical
