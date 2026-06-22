@@ -4,9 +4,10 @@ import { useData } from 'vitepress'
 
 // "Series index" masthead for a podcast show page: a quiet eyebrow framing the show
 // as a series with a real lesson count, the show title (from frontmatter), one
-// editorial standfirst, and a restrained text "listen" line — Apple Podcasts /
-// Spotify / RSS, rendered only when a URL is provided (no badge artwork, so the
-// platforms harmonise; no Amazon). The lesson cards below stay the page's hero.
+// editorial standfirst, and a restrained text "listen" line — usually Apple
+// Podcasts / Spotify (RSS remains discoverable in the document head unless
+// explicitly passed here). No badge artwork; the lesson cards below stay the
+// page's hero.
 const props = defineProps<{
   lang: string
   eyebrow: string
@@ -34,7 +35,7 @@ interface ListenLink {
   secondary?: boolean
 }
 
-// Only the platforms that actually have a source URL; RSS is the secondary one.
+// Only the platforms that actually have a source URL; RSS is secondary when used.
 const links = computed<ListenLink[]>(() => {
   const out: ListenLink[] = []
   if (props.apple) out.push({ label: 'Apple Podcasts', href: props.apple })

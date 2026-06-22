@@ -1,6 +1,6 @@
 ---
 title: 'Vox Español'
-description: 'Vox Español, una serie skepvox de Thiago Oliveira, con diálogos, explicaciones, guías de lección y transcripciones.'
+description: 'Vox Español, un podcast que creé para mantener el contacto con el español, con escenas breves, diálogos, explicaciones y transcripciones.'
 outline: 2
 footer: false
 head:
@@ -14,7 +14,7 @@ head:
       href: 'https://www.skepvox.com/podcast/espanol/'
   - - meta
     - name: description
-      content: 'Vox Español, una serie skepvox de Thiago Oliveira, con diálogos, explicaciones, guías de lección y transcripciones.'
+      content: 'Vox Español, un podcast que creé para mantener el contacto con el español, con escenas breves, diálogos, explicaciones y transcripciones.'
   - - meta
     - name: keywords
       content: 'Vox Español, Podcast de español como lengua extranjera, skepvox, español como lengua extranjera, ELE, aprender español, podcast español, diálogo español'
@@ -23,7 +23,7 @@ head:
       content: 'Vox Español'
   - - meta
     - property: og:description
-      content: 'Diálogos, explicaciones y guías de lección para aprender español con Vox Español.'
+      content: 'Un podcast que creé para mantener el contacto con el español, con escenas breves, diálogos y transcripciones.'
   - - meta
     - property: og:url
       content: 'https://www.skepvox.com/podcast/espanol/'
@@ -59,7 +59,7 @@ head:
       content: 'Vox Español'
   - - meta
     - name: twitter:description
-      content: 'Diálogos, explicaciones y guías de lección para aprender español con Vox Español.'
+      content: 'Un podcast que creé para mantener el contacto con el español, con escenas breves, diálogos y transcripciones.'
   - - meta
     - name: twitter:image
       content: 'https://media.skepvox.com/podcast/espanol/artwork/show-cover-v3.jpg'
@@ -75,7 +75,7 @@ head:
         "@id": "https://www.skepvox.com/podcast/espanol/#webpage",
         "url": "https://www.skepvox.com/podcast/espanol/",
         "name": "Vox Español",
-        "description": "Vox Español, una serie skepvox de Thiago Oliveira, con diálogos, explicaciones, guías de lección y transcripciones.",
+        "description": "Vox Español, un podcast que creé para mantener el contacto con el español, con escenas breves, diálogos, explicaciones y transcripciones.",
         "image": {
           "@type": "ImageObject",
           "url": "https://media.skepvox.com/podcast/espanol/artwork/show-cover-v3.jpg",
@@ -101,12 +101,11 @@ import episodes from './episodes.json'
 
 <PodcastShowHeader
   lang="es"
-  eyebrow="Podcast de español como lengua extranjera"
-  standfirst="Una serie skepvox de Thiago Oliveira: una escena breve, un diálogo a dos velocidades, una explicación guiada y la transcripción completa."
+  eyebrow="Podcast"
+  standfirst="Creé Vox Español para mantener el contacto con el español. El formato es sencillo y me ayuda a volver regularmente a la lengua: una escena breve, un diálogo a dos velocidades, una explicación y la transcripción."
   :count="episodes.length"
   apple="https://podcasts.apple.com/us/podcast/vox-español/id1894875937"
   spotify="https://open.spotify.com/show/7zcDdSa9cfxrAVmRhRVyIv"
-  rss="https://www.skepvox.com/podcast/espanol/feed.xml"
 />
 
 ## Lecciones

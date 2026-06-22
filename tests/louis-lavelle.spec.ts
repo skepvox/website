@@ -38,7 +38,6 @@ test.describe('louis lavelle work grids', () => {
     const structure = await page.evaluate(() => {
       const translated = document.querySelector('h2#obras-traduzidas')!
       const originals = document.querySelector('h2#obras-originais')!
-      const ident = document.querySelector('h2#identidade')!
       const grids = [...document.querySelectorAll('.card-grid')]
       return {
         h2ids: [...document.querySelectorAll('h2[id]')].map((h) => h.id),
@@ -47,28 +46,20 @@ test.describe('louis lavelle work grids', () => {
         originalsAfterFirstGrid:
           grids[0].compareDocumentPosition(originals) & Node.DOCUMENT_POSITION_FOLLOWING,
         secondGridAfterOriginals:
-          originals.compareDocumentPosition(grids[1]) & Node.DOCUMENT_POSITION_FOLLOWING,
-        identAfterSecondGrid:
-          grids[1].compareDocumentPosition(ident) & Node.DOCUMENT_POSITION_FOLLOWING
+          originals.compareDocumentPosition(grids[1]) & Node.DOCUMENT_POSITION_FOLLOWING
       }
     })
-    expect(structure.h2ids.slice(0, 4)).toEqual([
-      'obras-traduzidas',
-      'obras-originais',
-      'identidade',
-      'visao-geral'
-    ])
+    expect(structure.h2ids).toEqual(['obras-traduzidas', 'obras-originais'])
     expect(Boolean(structure.firstGridAfterTranslated)).toBe(true)
     expect(Boolean(structure.originalsAfterFirstGrid)).toBe(true)
     expect(Boolean(structure.secondGridAfterOriginals)).toBe(true)
-    expect(Boolean(structure.identAfterSecondGrid)).toBe(true)
   })
 
-  test('first block contains only the pt-BR translation', async ({ page }) => {
+  test('first block contains only the Portuguese version', async ({ page }) => {
     const pt = page.locator('.card-grid').nth(0)
     await expect(pt.locator('.card-grid__item')).toHaveCount(1)
     await expect(pt.locator('a[href="/louis-lavelle/a-consciencia-de-si"]')).toHaveCount(1)
-    await expect(pt.locator('.card-grid__meta')).toHaveText('Tradução pt-BR')
+    await expect(pt.locator('.card-grid__meta')).toHaveText('1933')
   })
 
   test('second block contains only the 9 French originals', async ({ page }) => {
@@ -77,7 +68,7 @@ test.describe('louis lavelle work grids', () => {
     for (const slug of FRENCH) {
       await expect(fr.locator(`a[href="/louis-lavelle/${slug}"]`)).toHaveCount(1)
     }
-    // the pt-BR translation is not counted among the French originals
+    // the Portuguese version is not counted among the French originals
     await expect(fr.locator('a[href="/louis-lavelle/a-consciencia-de-si"]')).toHaveCount(0)
   })
 
@@ -100,29 +91,14 @@ test.describe('louis lavelle work grids', () => {
     }
   })
 
-  // Markdown/Vue HTML-block swallowing regression, on the real DOM: an HTML block
-  // with no trailing blank line can absorb the following heading/section.
-  test('grids do not swallow the Identidade heading or section', async ({ page }) => {
-    await expect(page.locator('h2#identidade')).toHaveCount(1)
-    const dom = await page.evaluate(() => {
-      const ident = document.querySelector('h2#identidade')!
-      // no card-grid item lives inside the Identidade section (until the next h2)
-      let identSectionItems = 0
-      for (let n = ident.nextElementSibling; n && n.tagName !== 'H2'; n = n.nextElementSibling) {
-        identSectionItems += n.querySelectorAll('.card-grid__item').length
-      }
-      const h2ids = [...document.querySelectorAll('h2[id]')].map((h) => h.id)
-      return { identSectionItems, h2ids }
-    })
-    expect(dom.identSectionItems).toBe(0)
-    // heading order preserved: translated works -> originals -> Identidade -> ...
-    const translatedIdx = dom.h2ids.indexOf('obras-traduzidas')
-    expect(translatedIdx).toBeGreaterThanOrEqual(0)
-    expect(dom.h2ids.slice(translatedIdx, translatedIdx + 4)).toEqual([
-      'obras-traduzidas',
-      'obras-originais',
-      'identidade',
-      'visao-geral'
-    ])
+  test('keeps the hub visually spare: one portrait and no secondary Lavelle assets', async ({
+    page
+  }) => {
+    await expect(page.locator('img.lavelle-portrait')).toHaveCount(1)
+    await expect(page.locator('img[src*="/images/louis-lavelle/"]')).toHaveCount(0)
+    const contentH2Ids = await page
+      .locator('.vt-doc h2[id]')
+      .evaluateAll((els) => els.map((el) => el.id))
+    expect(contentH2Ids).toEqual(['obras-traduzidas', 'obras-originais'])
   })
 })

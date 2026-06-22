@@ -136,8 +136,8 @@ defineProps<{ items: CardGridItem[] }>()
 
 .card-grid__eyebrow {
   flex: 0 0 auto;
-  font-size: var(--sk-text-2xs);
-  font-weight: 600;
+  font-size: var(--sk-text-xs);
+  font-weight: 650;
   font-variant-numeric: tabular-nums;
   color: var(--sk-text-muted);
 }

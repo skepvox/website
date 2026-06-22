@@ -1,6 +1,6 @@
 ---
 title: "Vox Français 002 — La valise verte"
-description: "Guide de leçon et transcription de l’épisode 002 de Vox Français : La valise verte. Décrire un objet, situer un service, préciser un état et clarifier une situation avec des phrases simples autour de être."
+description: "Page de l’épisode 002 de Vox Français : La valise verte, avec audio, transcription et notes."
 outline: 2
 head:
   - - link
@@ -8,16 +8,16 @@ head:
       href: "https://www.skepvox.com/podcast/francais/002-la-valise-verte"
   - - meta
     - name: description
-      content: "Guide de leçon et transcription de l’épisode 002 de Vox Français : La valise verte. Décrire un objet, situer un service, préciser un état et clarifier une situation avec des phrases simples autour de être."
+      content: "Page de l’épisode 002 de Vox Français : La valise verte, avec audio, transcription et notes."
   - - meta
     - name: keywords
-      content: "Vox Français, skepvox, La valise verte, français langue étrangère, FLE, transcription, dialogue français, guide de leçon"
+      content: "Vox Français, skepvox, La valise verte, français langue étrangère, FLE, transcription, dialogue français, notes"
   - - meta
     - property: og:title
       content: "Vox Français 002 — La valise verte"
   - - meta
     - property: og:description
-      content: "Guide de leçon et transcription de l’épisode 002 de Vox Français : La valise verte. Décrire un objet, situer un service, préciser un état et clarifier une situation avec des phrases simples autour de être."
+      content: "Page de l’épisode 002 de Vox Français : La valise verte, avec audio, transcription et notes."
   - - meta
     - property: og:url
       content: "https://www.skepvox.com/podcast/francais/002-la-valise-verte"
@@ -53,7 +53,7 @@ head:
       content: "Vox Français 002 — La valise verte"
   - - meta
     - name: twitter:description
-      content: "Guide de leçon et transcription de l’épisode 002 de Vox Français : La valise verte. Décrire un objet, situer un service, préciser un état et clarifier une situation avec des phrases simples autour de être."
+      content: "Page de l’épisode 002 de Vox Français : La valise verte, avec audio, transcription et notes."
   - - meta
     - name: twitter:image
       content: "https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg"
@@ -69,7 +69,7 @@ head:
         "@id": "https://www.skepvox.com/podcast/francais/002-la-valise-verte#learning-resource",
         "url": "https://www.skepvox.com/podcast/francais/002-la-valise-verte",
         "name": "Vox Français 002 — La valise verte",
-        "description": "Guide de leçon et transcription de l’épisode 002 de Vox Français : La valise verte. Décrire un objet, situer un service, préciser un état et clarifier une situation avec des phrases simples autour de être.",
+        "description": "Page de l’épisode 002 de Vox Français : La valise verte, avec audio, transcription et notes.",
         "image": {
           "@type": "ImageObject",
           "url": "https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg",
@@ -78,7 +78,7 @@ head:
         },
         "learningResourceType": [
           "podcast transcript",
-          "lesson guide"
+          "study notes"
         ],
         "teaches": "Décrire un objet, situer un service, préciser un état et clarifier une situation avec des phrases simples autour de être.",
         "inLanguage": "fr-FR",
@@ -103,9 +103,9 @@ Décrire un objet, situer un service, préciser un état et clarifier une situat
 
 <PodcastPlayer :episode="cues.episode" :sections="cues.sections" />
 
-## Guide d'apprentissage
+## Notes
 
-Les sections suivantes regroupent le vocabulaire, les notes d’usage et le contexte culturel.
+Je garde ici le vocabulaire, les remarques d’usage et quelques repères de contexte.
 
 ## Vocabulaire
 

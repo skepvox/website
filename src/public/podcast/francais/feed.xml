@@ -10,17 +10,17 @@
     <atom:link href="https://www.skepvox.com/podcast/francais/feed.xml" rel="self" type="application/rss+xml" />
     <language>fr-FR</language>
     <copyright>Copyright 2026 Thiago Oliveira</copyright>
-    <description><![CDATA[Vox Français est une série skepvox de Thiago Oliveira qui aide les apprenants de français à travailler la langue avec des dialogues originaux, des explications guidées et des transcriptions. Chaque épisode commence par une petite scène en français, puis reprend les mots, la grammaire, le registre et l'humour du dialogue.
+    <description><![CDATA[J'ai créé Vox Français pour garder le contact avec le français. Chaque épisode suit un format simple qui m'aide à revenir régulièrement à la langue : une petite scène, un dialogue à deux vitesses, une explication et la transcription. Si ce format vous parle aussi, vous pouvez l'écouter à votre rythme.
 
-Page de l'émission : https://www.skepvox.com/podcast/francais/]]></description>
+Pour accompagner l'écoute : https://www.skepvox.com/podcast/francais/]]></description>
     <itunes:author>skepvox</itunes:author>
     <itunes:owner>
       <itunes:name>Thiago Oliveira</itunes:name>
       <itunes:email>podcasts@skepvox.com</itunes:email>
     </itunes:owner>
-    <itunes:summary><![CDATA[Vox Français est une série skepvox de Thiago Oliveira qui aide les apprenants de français à travailler la langue avec des dialogues originaux, des explications guidées et des transcriptions. Chaque épisode commence par une petite scène en français, puis reprend les mots, la grammaire, le registre et l'humour du dialogue.
+    <itunes:summary><![CDATA[J'ai créé Vox Français pour garder le contact avec le français. Chaque épisode suit un format simple qui m'aide à revenir régulièrement à la langue : une petite scène, un dialogue à deux vitesses, une explication et la transcription. Si ce format vous parle aussi, vous pouvez l'écouter à votre rythme.
 
-Page de l'émission : https://www.skepvox.com/podcast/francais/]]></itunes:summary>
+Pour accompagner l'écoute : https://www.skepvox.com/podcast/francais/]]></itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg" />
@@ -32,7 +32,7 @@ Page de l'émission : https://www.skepvox.com/podcast/francais/]]></itunes:summa
       <title>Vox Français</title>
       <link>https://www.skepvox.com/podcast/francais/</link>
     </image>
-    <lastBuildDate>Sun, 21 Jun 2026 19:19:03 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 07:44:00 -0300</lastBuildDate>
     <pubDate>Sun, 07 Jun 2026 09:00:00 -0300</pubDate>
 
     <item>
@@ -40,24 +40,22 @@ Page de l'émission : https://www.skepvox.com/podcast/francais/]]></itunes:summa
       <link>https://www.skepvox.com/podcast/francais/001-le-badge</link>
       <guid isPermaLink="false">vox-francais-001</guid>
       <pubDate>Sun, 07 Jun 2026 09:00:00 -0300</pubDate>
-      <description><![CDATA[Guide complet et transcription : https://www.skepvox.com/podcast/francais/001-le-badge#transcription-complete
+      <description><![CDATA[Guide complet et transcription :
+https://skepvox.com/podcast/francais/001-le-badge#transcription-complete
 
-Dans cet épisode de Vox Français, Claire arrive à un forum municipal des associations pour aider à l'accueil. Un badge mal compris, deux personnes qui portent le même nom et une organisation fragile transforment une mission simple en scène de confusion polie.
+Cet épisode me sert à revenir à une situation très simple en apparence : se présenter, expliquer son rôle et comprendre qui est qui dans un lieu public.
 
-La leçon travaille des phrases utiles pour se présenter, expliquer un rôle, demander qui est qui et corriger une erreur dans un lieu public.
+La scène se passe dans un forum municipal des associations. Claire arrive pour aider à l'accueil, mais un badge, deux personnes qui portent le même nom et une organisation fragile rendent la mission moins claire que prévu.
 
-Le guide de leçon explique aussi le vocabulaire important de l'épisode : bénévole, forum des associations, accueil, orienter, badge, mairie, couloir, programme, disponible, et plusieurs autres mots utiles.
+Sur la page de l'épisode, je garde la transcription complète, le vocabulaire et les notes qui m'aident à reprendre l'écoute plus lentement.]]></description>
+      <content:encoded><![CDATA[<p>Guide complet et transcription :<br />
+<a href="https://skepvox.com/podcast/francais/001-le-badge#transcription-complete">https://skepvox.com/podcast/francais/001-le-badge#transcription-complete</a></p>
 
-Vous trouverez sur la page de l'épisode le guide d'apprentissage, la note culturelle, le dialogue lent, le dialogue à vitesse naturelle et la transcription complète.]]></description>
-      <content:encoded><![CDATA[<p><strong>Guide complet et transcription :</strong> <a href="https://www.skepvox.com/podcast/francais/001-le-badge#transcription-complete">https://www.skepvox.com/podcast/francais/001-le-badge#transcription-complete</a></p>
+<p>Cet épisode me sert à revenir à une situation très simple en apparence : se présenter, expliquer son rôle et comprendre qui est qui dans un lieu public.</p>
 
-<p>Dans cet épisode de <strong>Vox Français</strong>, Claire arrive à un forum municipal des associations pour aider à l'accueil. Un badge mal compris, deux personnes qui portent le même nom et une organisation fragile transforment une mission simple en scène de confusion polie.</p>
+<p>La scène se passe dans un forum municipal des associations. Claire arrive pour aider à l'accueil, mais un badge, deux personnes qui portent le même nom et une organisation fragile rendent la mission moins claire que prévu.</p>
 
-<p>La leçon travaille des phrases utiles pour se présenter, expliquer un rôle, demander qui est qui et corriger une erreur dans un lieu public.</p>
-
-<p>Le guide de leçon explique aussi le vocabulaire important de l'épisode : bénévole, forum des associations, accueil, orienter, badge, mairie, couloir, programme, disponible, et plusieurs autres mots utiles.</p>
-
-<p>Vous trouverez sur la page de l'épisode le guide d'apprentissage, la note culturelle, le dialogue lent, le dialogue à vitesse naturelle et la transcription complète.</p>]]></content:encoded>
+<p>Sur la page de l'épisode, je garde la transcription complète, le vocabulaire et les notes qui m'aident à reprendre l'écoute plus lentement.</p>]]></content:encoded>
       <enclosure url="https://media.skepvox.com/podcast/francais/audio/francais-001-le-badge-v8.mp3" length="32482369" type="audio/mpeg" />
       <podcast:transcript url="https://media.skepvox.com/podcast/francais/transcripts/francais-001-le-badge-v8.vtt" type="text/vtt" language="fr" rel="captions" />
       <itunes:duration>00:22:33</itunes:duration>
@@ -76,22 +74,19 @@ Vous trouverez sur la page de l'épisode le guide d'apprentissage, la note cultu
       <description><![CDATA[Guide complet et transcription :
 https://skepvox.com/podcast/francais/002-la-valise-verte#transcription-complete
 
-Dans cet épisode de Vox Français, Camille arrive au bureau des objets trouvés d'une gare pour chercher une valise verte perdue après un voyage.
+Cet épisode me sert à reprendre des phrases utiles pour décrire un objet, situer un service et corriger une situation concrète autour de être.
 
-La conversation aide à décrire un objet, situer un service, expliquer un état et corriger une situation concrète avec des phrases simples autour de être.
+La scène se passe au bureau des objets trouvés d'une gare. Camille cherche une valise verte après un voyage, et la conversation avance par détails : couleur, lieu, état, étiquette, formulaire.
 
-Le guide de leçon explique aussi le vocabulaire important de l'épisode : valise, perdu, voie, annonce, bureau des objets trouvés, précis, étiquette, lourd, cadeau, formulaire, dessus, sous, stable, en travaux, et plusieurs autres mots utiles.
+Sur la page de l'épisode, je garde la transcription complète, le vocabulaire et les notes qui m'aident à reprendre l'écoute plus lentement.]]></description>
+      <content:encoded><![CDATA[<p>Guide complet et transcription :<br />
+<a href="https://skepvox.com/podcast/francais/002-la-valise-verte#transcription-complete">https://skepvox.com/podcast/francais/002-la-valise-verte#transcription-complete</a></p>
 
-Vous trouverez sur la page de l'épisode le guide d'apprentissage, la note culturelle, le dialogue lent, le dialogue à vitesse naturelle et la transcription complète.]]></description>
-      <content:encoded><![CDATA[<p><strong>Guide complet et transcription :</strong> <a href="https://skepvox.com/podcast/francais/002-la-valise-verte#transcription-complete">https://skepvox.com/podcast/francais/002-la-valise-verte#transcription-complete</a></p>
+<p>Cet épisode me sert à reprendre des phrases utiles pour décrire un objet, situer un service et corriger une situation concrète autour de être.</p>
 
-<p>Dans cet épisode de <strong>Vox Français</strong>, Camille arrive au bureau des objets trouvés d'une gare pour chercher une valise verte perdue après un voyage.</p>
+<p>La scène se passe au bureau des objets trouvés d'une gare. Camille cherche une valise verte après un voyage, et la conversation avance par détails : couleur, lieu, état, étiquette, formulaire.</p>
 
-<p>La conversation aide à décrire un objet, situer un service, expliquer un état et corriger une situation concrète avec des phrases simples autour de être.</p>
-
-<p>Le guide de leçon explique aussi le vocabulaire important de l'épisode : valise, perdu, voie, annonce, bureau des objets trouvés, précis, étiquette, lourd, cadeau, formulaire, dessus, sous, stable, en travaux, et plusieurs autres mots utiles.</p>
-
-<p>Vous trouverez sur la page de l'épisode le guide d'apprentissage, la note culturelle, le dialogue lent, le dialogue à vitesse naturelle et la transcription complète.</p>]]></content:encoded>
+<p>Sur la page de l'épisode, je garde la transcription complète, le vocabulaire et les notes qui m'aident à reprendre l'écoute plus lentement.</p>]]></content:encoded>
       <enclosure url="https://media.skepvox.com/podcast/francais/audio/francais-002-la-valise-verte-v11.mp3" length="33366352" type="audio/mpeg" />
       <podcast:transcript url="https://media.skepvox.com/podcast/francais/transcripts/francais-002-la-valise-verte-v11.vtt" type="text/vtt" language="fr" rel="captions" />
       <itunes:duration>00:23:10</itunes:duration>
@@ -110,26 +105,19 @@ Vous trouverez sur la page de l'épisode le guide d'apprentissage, la note cultu
       <description><![CDATA[Guide complet et transcription :
 https://skepvox.com/podcast/francais/003-le-covoiturage-poli#transcription-complete
 
-Dans cet épisode de Vox Français, nous travaillons le verbe être au présent avec l'identité, l'origine, le lieu, l'état et la différence entre tu et vous.
+Cet épisode me sert à reprendre un point simple du français : vérifier qui est une personne, d'où elle vient et comment lui parler sans rendre l'échange trop raide.
 
-L'épisode s'appelle "Le covoiturage poli". Une rencontre de covoiturage commence avec des présentations, des vérifications et beaucoup de prudence dans le choix entre tu et vous.
+La scène se passe dans un covoiturage. Une rencontre qui devrait être ordinaire demande un peu plus de prudence, et tout se joue dans le choix entre tu et vous, dans les petites vérifications et dans la manière de rester poli.
 
-Cette leçon vous aide à utiliser être dans une interaction polie, à situer une personne, à parler d'origine et à ajuster le niveau de formalité dans une conversation.
+Sur la page de l'épisode, je garde la transcription complète, le vocabulaire et les notes qui m'aident à reprendre l'écoute plus lentement.]]></description>
+      <content:encoded><![CDATA[<p>Guide complet et transcription :<br />
+<a href="https://skepvox.com/podcast/francais/003-le-covoiturage-poli#transcription-complete">https://skepvox.com/podcast/francais/003-le-covoiturage-poli#transcription-complete</a></p>
 
-Le guide de leçon explique aussi le vocabulaire important de l'épisode : covoiturage, conductrice, passager, aire d'autoroute, application, se tutoyer, vouvoyer, en retard, service qualité, contrôleur, être en examen, et plusieurs autres mots utiles.
+<p>Cet épisode me sert à reprendre un point simple du français : vérifier qui est une personne, d'où elle vient et comment lui parler sans rendre l'échange trop raide.</p>
 
-Vous trouverez sur la page de l'épisode le guide d'apprentissage, la note culturelle, le dialogue lent, le dialogue à vitesse naturelle et la transcription complète.]]></description>
-      <content:encoded><![CDATA[<p><strong>Guide complet et transcription :</strong> <a href="https://skepvox.com/podcast/francais/003-le-covoiturage-poli#transcription-complete">https://skepvox.com/podcast/francais/003-le-covoiturage-poli#transcription-complete</a></p>
+<p>La scène se passe dans un covoiturage. Une rencontre qui devrait être ordinaire demande un peu plus de prudence, et tout se joue dans le choix entre tu et vous, dans les petites vérifications et dans la manière de rester poli.</p>
 
-<p>Dans cet épisode de <strong>Vox Français</strong>, nous travaillons le verbe être au présent avec l'identité, l'origine, le lieu, l'état et la différence entre tu et vous.</p>
-
-<p>L'épisode s'appelle "Le covoiturage poli". Une rencontre de covoiturage commence avec des présentations, des vérifications et beaucoup de prudence dans le choix entre tu et vous.</p>
-
-<p>Cette leçon vous aide à utiliser être dans une interaction polie, à situer une personne, à parler d'origine et à ajuster le niveau de formalité dans une conversation.</p>
-
-<p>Le guide de leçon explique aussi le vocabulaire important de l'épisode : covoiturage, conductrice, passager, aire d'autoroute, application, se tutoyer, vouvoyer, en retard, service qualité, contrôleur, être en examen, et plusieurs autres mots utiles.</p>
-
-<p>Vous trouverez sur la page de l'épisode le guide d'apprentissage, la note culturelle, le dialogue lent, le dialogue à vitesse naturelle et la transcription complète.</p>]]></content:encoded>
+<p>Sur la page de l'épisode, je garde la transcription complète, le vocabulaire et les notes qui m'aident à reprendre l'écoute plus lentement.</p>]]></content:encoded>
       <enclosure url="https://media.skepvox.com/podcast/francais/audio/francais-003-le-covoiturage-poli-v6.mp3" length="31812798" type="audio/mpeg" />
       <podcast:transcript url="https://media.skepvox.com/podcast/francais/transcripts/francais-003-le-covoiturage-poli-v6.vtt" type="text/vtt" language="fr" rel="captions" />
       <itunes:duration>00:22:05</itunes:duration>

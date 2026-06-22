@@ -1,6 +1,6 @@
 ---
 title: "Vox English 001 - The Two-Minute Phone Call"
-description: "Lesson guide and transcript for Vox English episode 001: The Two-Minute Phone Call. Using discourse markers to open, delay, steer, infer and close practical spoken exchanges."
+description: "Episode page for Vox English 001: The Two-Minute Phone Call, with audio, transcript, and notes."
 outline: 2
 head:
   - - link
@@ -8,16 +8,16 @@ head:
       href: "https://www.skepvox.com/podcast/english/001-the-two-minute-phone-call"
   - - meta
     - name: description
-      content: "Lesson guide and transcript for Vox English episode 001: The Two-Minute Phone Call. Using discourse markers to open, delay, steer, infer and close practical spoken exchanges."
+      content: "Episode page for Vox English 001: The Two-Minute Phone Call, with audio, transcript, and notes."
   - - meta
     - name: keywords
-      content: "Vox English, skepvox, The Two-Minute Phone Call, English learning, English conversation, transcript, dialogue, lesson guide"
+      content: "Vox English, skepvox, The Two-Minute Phone Call, English learning, English conversation, transcript, dialogue, notes"
   - - meta
     - property: og:title
       content: "Vox English 001 - The Two-Minute Phone Call"
   - - meta
     - property: og:description
-      content: "Lesson guide and transcript for Vox English episode 001: The Two-Minute Phone Call. Using discourse markers to open, delay, steer, infer and close practical spoken exchanges."
+      content: "Episode page for Vox English 001: The Two-Minute Phone Call, with audio, transcript, and notes."
   - - meta
     - property: og:url
       content: "https://www.skepvox.com/podcast/english/001-the-two-minute-phone-call"
@@ -53,7 +53,7 @@ head:
       content: "Vox English 001 - The Two-Minute Phone Call"
   - - meta
     - name: twitter:description
-      content: "Lesson guide and transcript for Vox English episode 001: The Two-Minute Phone Call. Using discourse markers to open, delay, steer, infer and close practical spoken exchanges."
+      content: "Episode page for Vox English 001: The Two-Minute Phone Call, with audio, transcript, and notes."
   - - meta
     - name: twitter:image
       content: "https://media.skepvox.com/podcast/english/artwork/show-cover-v3.jpg"
@@ -69,7 +69,7 @@ head:
         "@id": "https://www.skepvox.com/podcast/english/001-the-two-minute-phone-call#learning-resource",
         "url": "https://www.skepvox.com/podcast/english/001-the-two-minute-phone-call",
         "name": "Vox English 001 - The Two-Minute Phone Call",
-        "description": "Lesson guide and transcript for Vox English episode 001: The Two-Minute Phone Call. Using discourse markers to open, delay, steer, infer and close practical spoken exchanges.",
+        "description": "Episode page for Vox English 001: The Two-Minute Phone Call, with audio, transcript, and notes.",
         "image": {
           "@type": "ImageObject",
           "url": "https://media.skepvox.com/podcast/english/artwork/show-cover-v3.jpg",
@@ -78,7 +78,7 @@ head:
         },
         "learningResourceType": [
           "podcast transcript",
-          "lesson guide"
+          "study notes"
         ],
         "teaches": "Using discourse markers to open, delay, steer, infer and close practical spoken exchanges.",
         "inLanguage": "en-US",
@@ -103,9 +103,9 @@ Using discourse markers to open, delay, steer, infer and close practical spoken 
 
 <PodcastPlayer :episode="cues.episode" :sections="cues.sections" />
 
-## Learning Guide
+## Notes
 
-The sections below collect the vocabulary, usage notes and practical context.
+I keep the vocabulary, usage notes, and a little context here.
 
 ## Vocabulary
 

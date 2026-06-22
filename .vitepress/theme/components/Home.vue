@@ -10,23 +10,17 @@
     <a class="vt-box" href="/louis-lavelle/">
       <h2>Louis Lavelle</h2>
       <p>
-        Obras e estudos de Louis Lavelle reunidos em uma navegação simples, com foco em leitura
-        contínua e referência.
+        Textos de Louis Lavelle, ainda pouco acessíveis, organizados aos poucos para minha própria
+        leitura.
       </p>
     </a>
     <a class="vt-box" href="/literatura/">
       <h2>Literatura</h2>
-      <p>
-        Biblioteca digital de obras clássicas, com ênfase em autores brasileiros e leitura em
-        formato limpo.
-      </p>
+      <p>Obras clássicas em domínio público, reunidas em um formato em que gosto de ler.</p>
     </a>
     <a class="vt-box" href="/podcast/">
       <h2>Podcasts</h2>
-      <p>
-        Projetos skepvox para aprendizagem de idiomas, com diálogos, transcrições, guias de estudo e
-        áudio.
-      </p>
+      <p>Episódios que uso para praticar idiomas, com áudio, transcrição e notas.</p>
     </a>
   </section>
 </template>

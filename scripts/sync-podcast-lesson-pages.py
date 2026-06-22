@@ -67,12 +67,10 @@ SHOWS: tuple[ShowConfig, ...] = (
         main_point_label="Point principal",
         permalink_label="Lien permanent",
         transcript_label=shared_show_value("francais", "transcript_heading"),
-        guide_label="Guide d'apprentissage",
+        guide_label="Notes",
         intro_template=(
-            "Cette page accompagne l’épisode {episode_number:03d} de Vox Français, "
-            "une série skepvox de Thiago Oliveira pour apprendre le français. "
-            "Elle réunit la transcription complète, le dialogue et le guide "
-            "d’apprentissage."
+            "Page de l’épisode {episode_number:03d} de Vox Français : "
+            "{episode_title}, avec audio, transcription et notes."
         ),
         transcript_intro=(
             "Utilisez les sections suivantes pour accéder directement à la "
@@ -80,20 +78,20 @@ SHOWS: tuple[ShowConfig, ...] = (
             "vitesse naturelle."
         ),
         guide_intro=(
-            "Les sections suivantes regroupent le vocabulaire, les notes "
-            "d’usage et le contexte culturel."
+            "Je garde ici le vocabulaire, les remarques d’usage et quelques "
+            "repères de contexte."
         ),
         guide_heading="Guide d'apprentissage",
         script_heading="Script complet",
         canonical_base=shared_show_value("francais", "show_page_url").rstrip("/"),
         site_part_of_id=f"{shared_show_value('francais', 'show_page_url')}#webpage",
         fallback_description_template=(
-            "Guide de leçon et transcription de l’épisode {episode_number:03d} de "
-            "Vox Français : {episode_title}. {main_grammar_point}"
+            "Page de l’épisode {episode_number:03d} de Vox Français : "
+            "{episode_title}, avec audio, transcription et notes."
         ),
         fallback_keywords_template=(
             "Vox Français, skepvox, {episode_title}, français langue étrangère, "
-            "FLE, transcription, dialogue français, guide de leçon"
+            "FLE, transcription, dialogue français, notes"
         ),
         og_locale="fr_FR",
         artwork_url=shared_show_value("francais", "artwork_url"),
@@ -109,11 +107,10 @@ SHOWS: tuple[ShowConfig, ...] = (
         main_point_label="Punto principal",
         permalink_label="Enlace permanente",
         transcript_label=shared_show_value("espanol", "transcript_heading"),
-        guide_label="Guía de aprendizaje",
+        guide_label="Notas",
         intro_template=(
-            "Esta página acompaña el episodio {episode_number:03d} de Vox Español, "
-            "una serie skepvox de Thiago Oliveira para aprender español. Reúne la "
-            "transcripción completa, el diálogo y la guía de aprendizaje."
+            "Página del episodio {episode_number:03d} de Vox Español: "
+            "{episode_title}, con audio, transcripción y notas."
         ),
         transcript_intro=(
             "Use las secciones siguientes para entrar directamente en la "
@@ -121,20 +118,20 @@ SHOWS: tuple[ShowConfig, ...] = (
             "repetición a velocidad natural."
         ),
         guide_intro=(
-            "Las secciones siguientes reúnen el vocabulario, las notas de uso "
-            "y el contexto cultural."
+            "Guardo aquí el vocabulario, algunas notas de uso y un poco de "
+            "contexto."
         ),
         guide_heading="Guía de aprendizaje",
         script_heading="Guión completo",
         canonical_base=shared_show_value("espanol", "show_page_url").rstrip("/"),
         site_part_of_id=f"{shared_show_value('espanol', 'show_page_url')}#webpage",
         fallback_description_template=(
-            "Guía de lección y transcripción del episodio {episode_number:03d} de "
-            "Vox Español: {episode_title}. {main_grammar_point}"
+            "Página del episodio {episode_number:03d} de Vox Español: "
+            "{episode_title}, con audio, transcripción y notas."
         ),
         fallback_keywords_template=(
             "Vox Español, skepvox, {episode_title}, español como lengua extranjera, "
-            "ELE, transcripción, diálogo español, guía de lección"
+            "ELE, transcripción, diálogo español, notas"
         ),
         og_locale="es_ES",
         artwork_url=shared_show_value("espanol", "artwork_url"),
@@ -150,32 +147,29 @@ SHOWS: tuple[ShowConfig, ...] = (
         main_point_label="Main point",
         permalink_label="Permanent link",
         transcript_label=shared_show_value("english", "transcript_heading"),
-        guide_label="Learning Guide",
+        guide_label="Notes",
         intro_template=(
-            "This page accompanies episode {episode_number:03d} of Vox English, "
-            "a skepvox series by Thiago Oliveira for practical English learning. "
-            "It brings together the complete transcript, the dialogue and the "
-            "learning guide."
+            "Episode page for Vox English {episode_number:03d}: "
+            "{episode_title}, with audio, transcript, and notes."
         ),
         transcript_intro=(
             "Use the sections below to go directly to the transcript, the slow "
             "version, the explanation and the natural-speed repetition."
         ),
         guide_intro=(
-            "The sections below collect the vocabulary, usage notes and "
-            "practical context."
+            "I keep the vocabulary, usage notes, and a little context here."
         ),
         guide_heading="Learning Guide",
         script_heading="Full Script",
         canonical_base=shared_show_value("english", "show_page_url").rstrip("/"),
         site_part_of_id=f"{shared_show_value('english', 'show_page_url')}#webpage",
         fallback_description_template=(
-            "Lesson guide and transcript for Vox English episode "
-            "{episode_number:03d}: {episode_title}. {main_grammar_point}"
+            "Episode page for Vox English {episode_number:03d}: "
+            "{episode_title}, with audio, transcript, and notes."
         ),
         fallback_keywords_template=(
             "Vox English, skepvox, {episode_title}, English learning, "
-            "English conversation, transcript, dialogue, lesson guide"
+            "English conversation, transcript, dialogue, notes"
         ),
         og_locale="en_US",
         artwork_url=shared_show_value("english", "artwork_url"),
@@ -213,6 +207,13 @@ def parse_source_scalar(frontmatter: str, key: str) -> str:
     if not match:
         raise KeyError(f"Missing frontmatter key: {key}")
     return strip_quotes(match.group(1))
+
+
+def parse_source_scalar_optional(frontmatter: str, key: str) -> str:
+    try:
+        return parse_source_scalar(frontmatter, key)
+    except KeyError:
+        return ""
 
 
 def parse_headings(text: str) -> list[dict[str, str | int]]:
@@ -299,7 +300,7 @@ def build_new_frontmatter(show: ShowConfig, page_title: str, description: str, k
                 "width": 3000,
                 "height": 3000,
             },
-            "learningResourceType": ["podcast transcript", "lesson guide"],
+            "learningResourceType": ["podcast transcript", "study notes"],
             "teaches": teaches,
             "inLanguage": language,
             "publisher": {"@id": "https://www.skepvox.com/#organization"},
@@ -393,24 +394,16 @@ def build_frontmatter(show: ShowConfig, source_frontmatter: str, page_title: str
     episode_title = parse_source_scalar(source_frontmatter, "episode-title")
     main_grammar_point = parse_source_scalar(source_frontmatter, "main-grammar-point")
     language = parse_source_scalar(source_frontmatter, "language")
-    description = ""
-    keywords = ""
-    if existing_frontmatter is not None:
-        normalized_existing = normalize_existing_frontmatter(existing_frontmatter)
-        description = parse_existing_top_level_scalar(normalized_existing, "description")
-        keywords = parse_existing_meta_content(normalized_existing, "name", "keywords")
-    if not description:
-        description = show.fallback_description_template.format(
-            episode_number=episode_number,
-            episode_title=episode_title,
-            main_grammar_point=main_grammar_point,
-        )
-    if not keywords:
-        keywords = show.fallback_keywords_template.format(
-            episode_number=episode_number,
-            episode_title=episode_title,
-            main_grammar_point=main_grammar_point,
-        )
+    description = show.fallback_description_template.format(
+        episode_number=episode_number,
+        episode_title=episode_title,
+        main_grammar_point=main_grammar_point,
+    )
+    keywords = show.fallback_keywords_template.format(
+        episode_number=episode_number,
+        episode_title=episode_title,
+        main_grammar_point=main_grammar_point,
+    )
     return build_new_frontmatter(show, page_title, description, keywords, url, main_grammar_point, language, is_buffer)
 
 
@@ -536,6 +529,9 @@ def sync_show(show: ShowConfig) -> tuple[list[Path], dict]:
 
         episode_title = parse_source_scalar(source_frontmatter, "episode-title")
         main_grammar_point = parse_source_scalar(source_frontmatter, "main-grammar-point")
+        card_description = (
+            parse_source_scalar_optional(source_frontmatter, "card-description") or main_grammar_point
+        )
         slug = parse_source_scalar(source_frontmatter, "slug")
         website_slug = f"{episode_number:03d}-{slug}"
         target_path = target_dir / f"{website_slug}.md"
@@ -573,7 +569,7 @@ def sync_show(show: ShowConfig) -> tuple[list[Path], dict]:
                     "title": episode_title,
                     "href": f"/{site_rel}/{website_slug}",
                     "durationSeconds": episode.get("durationSeconds"),
-                    "description": main_grammar_point,
+                    "description": card_description,
                     "artworkUrl": episode.get("artworkUrl"),
                 }
             )

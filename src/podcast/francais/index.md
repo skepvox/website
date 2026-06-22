@@ -1,6 +1,6 @@
 ---
 title: 'Vox Français'
-description: 'Vox Français, une série skepvox de Thiago Oliveira, avec dialogues, explications, guides de leçon et transcriptions.'
+description: 'Vox Français, un podcast que j’ai créé pour garder le contact avec le français, avec de courtes scènes, des dialogues, des explications et des transcriptions.'
 outline: 2
 footer: false
 head:
@@ -14,7 +14,7 @@ head:
       href: 'https://www.skepvox.com/podcast/francais/'
   - - meta
     - name: description
-      content: 'Vox Français, une série skepvox de Thiago Oliveira, avec dialogues, explications, guides de leçon et transcriptions.'
+      content: 'Vox Français, un podcast que j’ai créé pour garder le contact avec le français, avec de courtes scènes, des dialogues, des explications et des transcriptions.'
   - - meta
     - name: keywords
       content: 'Vox Français, Podcast de français langue étrangère, skepvox, français langue étrangère, FLE, apprendre le français, podcast français, dialogue français, transcription français'
@@ -23,7 +23,7 @@ head:
       content: 'Vox Français'
   - - meta
     - property: og:description
-      content: 'Dialogues, explications et guides de leçon pour apprendre le français avec Vox Français.'
+      content: 'Un podcast que j’ai créé pour garder le contact avec le français, avec des scènes courtes, des dialogues et des transcriptions.'
   - - meta
     - property: og:url
       content: 'https://www.skepvox.com/podcast/francais/'
@@ -59,7 +59,7 @@ head:
       content: 'Vox Français'
   - - meta
     - name: twitter:description
-      content: 'Dialogues, explications et guides de leçon pour apprendre le français avec Vox Français.'
+      content: 'Un podcast que j’ai créé pour garder le contact avec le français, avec des scènes courtes, des dialogues et des transcriptions.'
   - - meta
     - name: twitter:image
       content: 'https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg'
@@ -75,7 +75,7 @@ head:
         "@id": "https://www.skepvox.com/podcast/francais/#webpage",
         "url": "https://www.skepvox.com/podcast/francais/",
         "name": "Vox Français",
-        "description": "Vox Français, une série skepvox de Thiago Oliveira, avec dialogues, explications, guides de leçon et transcriptions.",
+        "description": "Vox Français, un podcast que j’ai créé pour garder le contact avec le français, avec de courtes scènes, des dialogues, des explications et des transcriptions.",
         "image": {
           "@type": "ImageObject",
           "url": "https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg",
@@ -101,12 +101,11 @@ import episodes from './episodes.json'
 
 <PodcastShowHeader
   lang="fr"
-  eyebrow="Podcast de français langue étrangère"
-  standfirst="Une série skepvox de Thiago Oliveira : une scène courte, un dialogue à deux vitesses, une explication guidée et la transcription complète."
+  eyebrow="Podcast"
+  standfirst="J’ai créé Vox Français pour garder le contact avec le français. Le format est simple et m’aide à revenir régulièrement à la langue : une scène courte, un dialogue à deux vitesses, une explication et la transcription."
   :count="episodes.length"
   apple="https://podcasts.apple.com/us/podcast/vox-français/id1894698848"
   spotify="https://open.spotify.com/show/1tmAKW7h6tOwuTouAhtYzk"
-  rss="https://www.skepvox.com/podcast/francais/feed.xml"
 />
 
 ## Leçons

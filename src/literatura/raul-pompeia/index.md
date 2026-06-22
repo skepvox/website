@@ -1,13 +1,13 @@
 ---
 title: "Raul Pompeia — Obras"
-description: "Raul Pompeia (1863–1895), autor de O Ateneu, marco do realismo-naturalismo na literatura brasileira."
+description: "Raul Pompeia"
 head:
   - - link
     - rel: canonical
       href: "https://www.skepvox.com/literatura/raul-pompeia/"
   - - meta
     - name: description
-      content: "Raul Pompeia (1863–1895), autor de O Ateneu, marco do realismo-naturalismo na literatura brasileira."
+      content: "Raul Pompeia"
   - - meta
     - property: og:type
       content: profile
@@ -16,7 +16,7 @@ head:
       content: "Raul Pompeia — Obras"
   - - meta
     - property: og:description
-      content: "Raul Pompeia (1863–1895), autor de O Ateneu, marco do realismo-naturalismo na literatura brasileira."
+      content: "Raul Pompeia"
   - - meta
     - property: og:url
       content: "https://www.skepvox.com/literatura/raul-pompeia/"
@@ -25,7 +25,7 @@ head:
       content: "Raul Pompeia — Obras"
   - - meta
     - name: twitter:description
-      content: "Raul Pompeia (1863–1895), autor de O Ateneu, marco do realismo-naturalismo na literatura brasileira."
+      content: "Raul Pompeia"
   - - script
     - type: application/ld+json
     - |
@@ -49,9 +49,7 @@ import works from './works.json'
 
 # Raul Pompeia
 
-Raul Pompeia (1863–1895) foi um escritor brasileiro, ligado ao realismo-naturalismo,
-cuja obra-prima, **O Ateneu** (1888), é um dos romances mais importantes da literatura
-brasileira do século XIX.
+1863–1895 †
 
 ## Obras originais
 

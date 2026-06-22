@@ -1,6 +1,6 @@
 ---
 title: "Vox English 002 - The Bowl of Something"
-description: "Lesson guide and transcript for Vox English episode 002: The Bowl of Something. Using deliberate imprecision for approximate times, quantities, categories, placeholders, and list extenders in practical spoken English."
+description: "Episode page for Vox English 002: The Bowl of Something, with audio, transcript, and notes."
 outline: 2
 head:
   - - link
@@ -8,16 +8,16 @@ head:
       href: "https://www.skepvox.com/podcast/english/002-the-bowl-of-something"
   - - meta
     - name: description
-      content: "Lesson guide and transcript for Vox English episode 002: The Bowl of Something. Using deliberate imprecision for approximate times, quantities, categories, placeholders, and list extenders in practical spoken English."
+      content: "Episode page for Vox English 002: The Bowl of Something, with audio, transcript, and notes."
   - - meta
     - name: keywords
-      content: "Vox English, skepvox, The Bowl of Something, English learning, English conversation, transcript, dialogue, lesson guide"
+      content: "Vox English, skepvox, The Bowl of Something, English learning, English conversation, transcript, dialogue, notes"
   - - meta
     - property: og:title
       content: "Vox English 002 - The Bowl of Something"
   - - meta
     - property: og:description
-      content: "Lesson guide and transcript for Vox English episode 002: The Bowl of Something. Using deliberate imprecision for approximate times, quantities, categories, placeholders, and list extenders in practical spoken English."
+      content: "Episode page for Vox English 002: The Bowl of Something, with audio, transcript, and notes."
   - - meta
     - property: og:url
       content: "https://www.skepvox.com/podcast/english/002-the-bowl-of-something"
@@ -53,7 +53,7 @@ head:
       content: "Vox English 002 - The Bowl of Something"
   - - meta
     - name: twitter:description
-      content: "Lesson guide and transcript for Vox English episode 002: The Bowl of Something. Using deliberate imprecision for approximate times, quantities, categories, placeholders, and list extenders in practical spoken English."
+      content: "Episode page for Vox English 002: The Bowl of Something, with audio, transcript, and notes."
   - - meta
     - name: twitter:image
       content: "https://media.skepvox.com/podcast/english/artwork/show-cover-v3.jpg"
@@ -69,7 +69,7 @@ head:
         "@id": "https://www.skepvox.com/podcast/english/002-the-bowl-of-something#learning-resource",
         "url": "https://www.skepvox.com/podcast/english/002-the-bowl-of-something",
         "name": "Vox English 002 - The Bowl of Something",
-        "description": "Lesson guide and transcript for Vox English episode 002: The Bowl of Something. Using deliberate imprecision for approximate times, quantities, categories, placeholders, and list extenders in practical spoken English.",
+        "description": "Episode page for Vox English 002: The Bowl of Something, with audio, transcript, and notes.",
         "image": {
           "@type": "ImageObject",
           "url": "https://media.skepvox.com/podcast/english/artwork/show-cover-v3.jpg",
@@ -78,7 +78,7 @@ head:
         },
         "learningResourceType": [
           "podcast transcript",
-          "lesson guide"
+          "study notes"
         ],
         "teaches": "Using deliberate imprecision for approximate times, quantities, categories, placeholders, and list extenders in practical spoken English.",
         "inLanguage": "en-US",
@@ -103,9 +103,9 @@ Using deliberate imprecision for approximate times, quantities, categories, plac
 
 <PodcastPlayer :episode="cues.episode" :sections="cues.sections" />
 
-## Learning Guide
+## Notes
 
-The sections below collect the vocabulary, usage notes and practical context.
+I keep the vocabulary, usage notes, and a little context here.
 
 ## Vocabulary
 

@@ -1,6 +1,6 @@
 ---
 title: "Vox Español 002 - La sartén está ocupada"
-description: "Guía de lección y transcripción del episodio 002 de Vox Español: La sartén está ocupada. Contraste entre ser y estar para identidad y rol, materia y propiedad, ubicación física, estado temporal, temperatura, preparación y cambios de lectura con adjetivos como bueno, raro, frío, listo y libre."
+description: "Página del episodio 002 de Vox Español: La sartén está ocupada, con audio, transcripción y notas."
 outline: 2
 head:
   - - link
@@ -8,16 +8,16 @@ head:
       href: "https://www.skepvox.com/podcast/espanol/002-la-sarten-esta-ocupada"
   - - meta
     - name: description
-      content: "Guía de lección y transcripción del episodio 002 de Vox Español: La sartén está ocupada. Contraste entre ser y estar para identidad y rol, materia y propiedad, ubicación física, estado temporal, temperatura, preparación y cambios de lectura con adjetivos como bueno, raro, frío, listo y libre."
+      content: "Página del episodio 002 de Vox Español: La sartén está ocupada, con audio, transcripción y notas."
   - - meta
     - name: keywords
-      content: "Vox Español, skepvox, La sartén está ocupada, español como lengua extranjera, ELE, transcripción, diálogo español, guía de lección"
+      content: "Vox Español, skepvox, La sartén está ocupada, español como lengua extranjera, ELE, transcripción, diálogo español, notas"
   - - meta
     - property: og:title
       content: "Vox Español 002 - La sartén está ocupada"
   - - meta
     - property: og:description
-      content: "Guía de lección y transcripción del episodio 002 de Vox Español: La sartén está ocupada. Contraste entre ser y estar para identidad y rol, materia y propiedad, ubicación física, estado temporal, temperatura, preparación y cambios de lectura con adjetivos como bueno, raro, frío, listo y libre."
+      content: "Página del episodio 002 de Vox Español: La sartén está ocupada, con audio, transcripción y notas."
   - - meta
     - property: og:url
       content: "https://www.skepvox.com/podcast/espanol/002-la-sarten-esta-ocupada"
@@ -53,7 +53,7 @@ head:
       content: "Vox Español 002 - La sartén está ocupada"
   - - meta
     - name: twitter:description
-      content: "Guía de lección y transcripción del episodio 002 de Vox Español: La sartén está ocupada. Contraste entre ser y estar para identidad y rol, materia y propiedad, ubicación física, estado temporal, temperatura, preparación y cambios de lectura con adjetivos como bueno, raro, frío, listo y libre."
+      content: "Página del episodio 002 de Vox Español: La sartén está ocupada, con audio, transcripción y notas."
   - - meta
     - name: twitter:image
       content: "https://media.skepvox.com/podcast/espanol/artwork/show-cover-v3.jpg"
@@ -69,7 +69,7 @@ head:
         "@id": "https://www.skepvox.com/podcast/espanol/002-la-sarten-esta-ocupada#learning-resource",
         "url": "https://www.skepvox.com/podcast/espanol/002-la-sarten-esta-ocupada",
         "name": "Vox Español 002 - La sartén está ocupada",
-        "description": "Guía de lección y transcripción del episodio 002 de Vox Español: La sartén está ocupada. Contraste entre ser y estar para identidad y rol, materia y propiedad, ubicación física, estado temporal, temperatura, preparación y cambios de lectura con adjetivos como bueno, raro, frío, listo y libre.",
+        "description": "Página del episodio 002 de Vox Español: La sartén está ocupada, con audio, transcripción y notas.",
         "image": {
           "@type": "ImageObject",
           "url": "https://media.skepvox.com/podcast/espanol/artwork/show-cover-v3.jpg",
@@ -78,7 +78,7 @@ head:
         },
         "learningResourceType": [
           "podcast transcript",
-          "lesson guide"
+          "study notes"
         ],
         "teaches": "Contraste entre ser y estar para identidad y rol, materia y propiedad, ubicación física, estado temporal, temperatura, preparación y cambios de lectura con adjetivos como bueno, raro, frío, listo y libre.",
         "inLanguage": "es-ES",
@@ -103,9 +103,9 @@ Contraste entre ser y estar para identidad y rol, materia y propiedad, ubicació
 
 <PodcastPlayer :episode="cues.episode" :sections="cues.sections" />
 
-## Guía de aprendizaje
+## Notas
 
-Las secciones siguientes reúnen el vocabulario, las notas de uso y el contexto cultural.
+Guardo aquí el vocabulario, algunas notas de uso y un poco de contexto.
 
 ## Vocabulario
 

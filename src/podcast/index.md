@@ -1,6 +1,6 @@
 ---
 title: 'Podcasts'
-description: 'Podcasts skepvox para aprendizagem de idiomas: Vox Français, Vox Español e Vox English.'
+description: 'Podcasts que criei para meu próprio estudo: francês, espanhol e inglês em um formato que tem funcionado bem para mim.'
 outline: 2
 head:
   - - link
@@ -8,13 +8,13 @@ head:
       href: 'https://www.skepvox.com/podcast/'
   - - meta
     - name: description
-      content: 'Podcasts skepvox para aprendizagem de idiomas: Vox Français, Vox Español e Vox English.'
+      content: 'Podcasts que criei para meu próprio estudo: francês, espanhol e inglês em um formato que tem funcionado bem para mim.'
   - - meta
     - property: og:title
       content: 'Podcasts skepvox'
   - - meta
     - property: og:description
-      content: 'Podcasts skepvox para aprendizagem de idiomas.'
+      content: 'Podcasts que criei para meu próprio estudo, em francês, espanhol e inglês.'
   - - meta
     - property: og:url
       content: 'https://www.skepvox.com/podcast/'
@@ -87,7 +87,7 @@ head:
         "@id": "https://www.skepvox.com/podcast/#webpage",
         "url": "https://www.skepvox.com/podcast/",
         "name": "Podcasts skepvox",
-        "description": "Podcasts skepvox para aprendizagem de idiomas.",
+        "description": "Podcasts que criei para meu próprio estudo, em francês, espanhol e inglês.",
         "image": [
           "https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg",
           "https://media.skepvox.com/podcast/espanol/artwork/show-cover-v3.jpg",
@@ -110,7 +110,7 @@ import shows from './shows.json'
 
 # Podcasts
 
-Projetos skepvox para aprendizagem de idiomas, com diálogos, transcrições, guias de estudo e áudio.
+Criei estes podcasts para meu próprio estudo, como uma forma de manter contato com o francês, o espanhol e o inglês. Eles seguem um formato que tem funcionado bem para mim. Se também fizer sentido para você, fique à vontade para acompanhar.
 
 ## Séries
 

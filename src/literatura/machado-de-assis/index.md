@@ -1,6 +1,6 @@
 ---
 title: "Literatura — Machado de Assis"
-description: "Bibliografia e obras de Machado de Assis: Brás Cubas, Quincas Borba, Dom Casmurro, Esaú e Jacó, O Alienista e A Cartomante."
+description: "Machado de Assis"
 outline: 2
 head:
   - - link
@@ -8,13 +8,13 @@ head:
       href: "https://skepvox.com/literatura/machado-de-assis/"
   - - meta
     - name: description
-      content: "Bibliografia e obras de Machado de Assis: Brás Cubas, Quincas Borba, Dom Casmurro, Esaú e Jacó, O Alienista e A Cartomante."
+      content: "Machado de Assis"
   - - meta
     - property: og:title
       content: "Literatura — Machado de Assis"
   - - meta
     - property: og:description
-      content: "Bibliografia e obras de Machado de Assis: Brás Cubas, Quincas Borba, Dom Casmurro, Esaú e Jacó, O Alienista e A Cartomante."
+      content: "Machado de Assis"
   - - meta
     - property: og:url
       content: "https://skepvox.com/literatura/machado-de-assis/"
@@ -35,7 +35,7 @@ head:
       content: "Literatura — Machado de Assis"
   - - meta
     - name: twitter:description
-      content: "Bibliografia e obras de Machado de Assis: Brás Cubas, Quincas Borba, Dom Casmurro, Esaú e Jacó, O Alienista e A Cartomante."
+      content: "Machado de Assis"
   - - meta
     - name: twitter:image
       content: "https://skepvox.com/images/authors/machado-de-assis.webp"
@@ -51,7 +51,7 @@ head:
         "@id": "https://skepvox.com/literatura/machado-de-assis/#person",
         "name": "Machado de Assis",
         "alternateName": "Joaquim Maria Machado de Assis",
-        "description": "Bibliografia e obras de Machado de Assis: Brás Cubas, Quincas Borba, Dom Casmurro, Esaú e Jacó, O Alienista e A Cartomante.",
+        "description": "Machado de Assis",
         "url": "https://skepvox.com/literatura/machado-de-assis/",
         "image": "https://skepvox.com/images/authors/machado-de-assis.webp",
         "birthDate": "1839-06-21",
@@ -160,17 +160,13 @@ import works from './works.json'
   class="author-portrait"
 />
 
-Joaquim Maria Machado de Assis (1839–1908) é amplamente considerado o maior nome da literatura brasileira. Sua obra abrange praticamente todos os gêneros literários, sendo fundamental tanto para o Romantismo (em sua fase inicial) quanto para a consolidação do Realismo no Brasil.
-
-Abaixo, uma bibliografia abrangente de suas obras, organizada por gênero e ordem cronológica de publicação.
+1839–1908 †
 
 ## Obras originais
 
 <CardGrid :items="works" />
 
 ## Romances
-
-Machado de Assis publicou nove romances em vida e um póstumo (*Memorial de Aires*), divididos tradicionalmente em duas fases: a romântica e a realista.
 
 *   **Ressurreição** (1872)
 *   **A Mão e a Luva** (1874)
@@ -185,8 +181,6 @@ Machado de Assis publicou nove romances em vida e um póstumo (*Memorial de Aire
 
 ## Contos (Coletâneas)
 
-Mestre inconteste do conto, Machado reuniu suas histórias em diversas coletâneas ao longo da vida.
-
 *   **Contos Fluminenses** (1870)
 *   **Histórias da Meia-Noite** (1873)
 *   **Papéis Avulsos** (1882)
@@ -197,16 +191,12 @@ Mestre inconteste do conto, Machado reuniu suas histórias em diversas coletâne
 
 ## Poesia
 
-Embora mais conhecido pela prosa, Machado iniciou sua carreira literária como poeta.
-
 *   **Crisálidas** (1864)
 *   **Falenas** (1870)
 *   **Americanas** (1875)
 *   **Poesias Completas** (1901) – *Inclui a série inédita "Ocidentais".*
 
 ## Teatro
-
-Produção teatral significativa, especialmente comédias e peças curtas.
 
 *   **Hoje Avental, Amanhã Luva** (1860)
 *   **Desencantos** (1861)
@@ -219,12 +209,6 @@ Produção teatral significativa, especialmente comédias e peças curtas.
 
 ## Crônicas e Outros Escritos
 
-Machado foi um cronista prolífico, escrevendo para jornais por décadas. Muitas dessas crônicas foram reunidas postumamente.
-
 *   **A Semana** (Coletânea póstuma, crônicas publicadas entre 1892 e 1897)
 *   **Crítica** (Coletânea de textos de crítica literária)
 *   **Correspondência** (Vários volumes publicados postumamente)
-
-## Referências
-
-A obra de Machado de Assis encontra-se em domínio público e pode ser consultada integralmente através do portal **Machado de Assis Real** ou na **Biblioteca Brasiliana Guita e José Mindlin**.

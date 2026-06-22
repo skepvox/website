@@ -1,6 +1,6 @@
 ---
 title: "Vox Français 001 — Le badge"
-description: "Guide de leçon et transcription de l’épisode 001 de Vox Français : Le badge, une scène de forum municipal, d’accueil et de confusion polie."
+description: "Page de l’épisode 001 de Vox Français : Le badge, avec audio, transcription et notes."
 outline: 2
 head:
   - - link
@@ -8,16 +8,16 @@ head:
       href: "https://www.skepvox.com/podcast/francais/001-le-badge"
   - - meta
     - name: description
-      content: "Guide de leçon et transcription de l’épisode 001 de Vox Français : Le badge, une scène de forum municipal, d’accueil et de confusion polie."
+      content: "Page de l’épisode 001 de Vox Français : Le badge, avec audio, transcription et notes."
   - - meta
     - name: keywords
-      content: "Vox Français, skepvox, Le badge, forum des associations, accueil, français langue étrangère, FLE, transcription, dialogue français, guide de leçon"
+      content: "Vox Français, skepvox, Le badge, français langue étrangère, FLE, transcription, dialogue français, notes"
   - - meta
     - property: og:title
       content: "Vox Français 001 — Le badge"
   - - meta
     - property: og:description
-      content: "Guide de leçon et transcription de l’épisode 001 de Vox Français : Le badge, une scène de forum municipal, d’accueil et de confusion polie."
+      content: "Page de l’épisode 001 de Vox Français : Le badge, avec audio, transcription et notes."
   - - meta
     - property: og:url
       content: "https://www.skepvox.com/podcast/francais/001-le-badge"
@@ -53,7 +53,7 @@ head:
       content: "Vox Français 001 — Le badge"
   - - meta
     - name: twitter:description
-      content: "Guide de leçon et transcription de l’épisode 001 de Vox Français : Le badge, une scène de forum municipal, d’accueil et de confusion polie."
+      content: "Page de l’épisode 001 de Vox Français : Le badge, avec audio, transcription et notes."
   - - meta
     - name: twitter:image
       content: "https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg"
@@ -69,7 +69,7 @@ head:
         "@id": "https://www.skepvox.com/podcast/francais/001-le-badge#learning-resource",
         "url": "https://www.skepvox.com/podcast/francais/001-le-badge",
         "name": "Vox Français 001 — Le badge",
-        "description": "Guide de leçon et transcription de l’épisode 001 de Vox Français : Le badge, une scène de forum municipal, d’accueil et de confusion polie.",
+        "description": "Page de l’épisode 001 de Vox Français : Le badge, avec audio, transcription et notes.",
         "image": {
           "@type": "ImageObject",
           "url": "https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg",
@@ -78,7 +78,7 @@ head:
         },
         "learningResourceType": [
           "podcast transcript",
-          "lesson guide"
+          "study notes"
         ],
         "teaches": "Se présenter, préciser un rôle et clarifier qui est qui dans un lieu public, avec des phrases simples autour de être.",
         "inLanguage": "fr-FR",
@@ -103,9 +103,9 @@ Se présenter, préciser un rôle et clarifier qui est qui dans un lieu public, 
 
 <PodcastPlayer :episode="cues.episode" :sections="cues.sections" />
 
-## Guide d'apprentissage
+## Notes
 
-Les sections suivantes regroupent le vocabulaire, les notes d’usage et le contexte culturel.
+Je garde ici le vocabulaire, les remarques d’usage et quelques repères de contexte.
 
 ## Vocabulaire
 

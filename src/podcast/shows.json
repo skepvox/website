@@ -2,7 +2,7 @@
   {
     "title": "Vox Français",
     "href": "/podcast/francais/",
-    "description": "Vox Français, une série skepvox de Thiago Oliveira, avec dialogues, explications, guides de leçon et transcriptions.",
+    "description": "Vox Français, un podcast que j’ai créé pour garder le contact avec le français, avec de courtes scènes, des dialogues, des explications et des transcriptions.",
     "imageUrl": "https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg",
     "imageAlt": "Couverture de Vox Français",
     "episodeCount": 3,
@@ -11,7 +11,7 @@
   {
     "title": "Vox Español",
     "href": "/podcast/espanol/",
-    "description": "Vox Español, una serie skepvox de Thiago Oliveira, con diálogos, explicaciones, guías de lección y transcripciones.",
+    "description": "Vox Español, un podcast que creé para mantener el contacto con el español, con escenas breves, diálogos, explicaciones y transcripciones.",
     "imageUrl": "https://media.skepvox.com/podcast/espanol/artwork/show-cover-v3.jpg",
     "imageAlt": "Portada de Vox Español",
     "episodeCount": 2,
@@ -20,7 +20,7 @@
   {
     "title": "Vox English",
     "href": "/podcast/english/",
-    "description": "Vox English, a skepvox series by Thiago Oliveira, with practical dialogues, explanations, learning guides and transcripts.",
+    "description": "Vox English, a podcast I made to keep my English active, with short scenes, dialogues, explanations and transcripts.",
     "imageUrl": "https://media.skepvox.com/podcast/english/artwork/show-cover-v3.jpg",
     "imageAlt": "Vox English cover art",
     "episodeCount": 2,

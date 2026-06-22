@@ -1,6 +1,6 @@
 ---
 title: "Vox Español 001 - La boda es a las seis"
-description: "Guía de lección y transcripción del episodio 001 de Vox Español: La boda es a las seis, sobre el contraste entre ser y estar en identidad, lugar, estado y función temporal."
+description: "Página del episodio 001 de Vox Español: La boda es a las seis, con audio, transcripción y notas."
 outline: 2
 head:
   - - link
@@ -8,16 +8,16 @@ head:
       href: "https://www.skepvox.com/podcast/espanol/001-la-boda-es-a-las-seis"
   - - meta
     - name: description
-      content: "Guía de lección y transcripción del episodio 001 de Vox Español: La boda es a las seis, sobre el contraste entre ser y estar en identidad, lugar, estado y función temporal."
+      content: "Página del episodio 001 de Vox Español: La boda es a las seis, con audio, transcripción y notas."
   - - meta
     - name: keywords
-      content: "Vox Español, skepvox, La boda es a las seis, ser y estar, español como lengua extranjera, ELE, transcripción, diálogo español, guía de lección"
+      content: "Vox Español, skepvox, La boda es a las seis, español como lengua extranjera, ELE, transcripción, diálogo español, notas"
   - - meta
     - property: og:title
       content: "Vox Español 001 - La boda es a las seis"
   - - meta
     - property: og:description
-      content: "Guía de lección y transcripción del episodio 001 de Vox Español: La boda es a las seis, sobre el contraste entre ser y estar en identidad, lugar, estado y función temporal."
+      content: "Página del episodio 001 de Vox Español: La boda es a las seis, con audio, transcripción y notas."
   - - meta
     - property: og:url
       content: "https://www.skepvox.com/podcast/espanol/001-la-boda-es-a-las-seis"
@@ -53,7 +53,7 @@ head:
       content: "Vox Español 001 - La boda es a las seis"
   - - meta
     - name: twitter:description
-      content: "Guía de lección y transcripción del episodio 001 de Vox Español: La boda es a las seis, sobre el contraste entre ser y estar en identidad, lugar, estado y función temporal."
+      content: "Página del episodio 001 de Vox Español: La boda es a las seis, con audio, transcripción y notas."
   - - meta
     - name: twitter:image
       content: "https://media.skepvox.com/podcast/espanol/artwork/show-cover-v3.jpg"
@@ -69,7 +69,7 @@ head:
         "@id": "https://www.skepvox.com/podcast/espanol/001-la-boda-es-a-las-seis#learning-resource",
         "url": "https://www.skepvox.com/podcast/espanol/001-la-boda-es-a-las-seis",
         "name": "Vox Español 001 - La boda es a las seis",
-        "description": "Guía de lección y transcripción del episodio 001 de Vox Español: La boda es a las seis, sobre el contraste entre ser y estar en identidad, lugar, estado y función temporal.",
+        "description": "Página del episodio 001 de Vox Español: La boda es a las seis, con audio, transcripción y notas.",
         "image": {
           "@type": "ImageObject",
           "url": "https://media.skepvox.com/podcast/espanol/artwork/show-cover-v3.jpg",
@@ -78,7 +78,7 @@ head:
         },
         "learningResourceType": [
           "podcast transcript",
-          "lesson guide"
+          "study notes"
         ],
         "teaches": "Contraste entre ser y estar para identificar personas y cosas, hablar de profesiones, cualidades, lugar de eventos, ubicación, estado, ánimo y cambios de sentido con algunos adjetivos.",
         "inLanguage": "es-ES",
@@ -103,9 +103,9 @@ Contraste entre ser y estar para identificar personas y cosas, hablar de profesi
 
 <PodcastPlayer :episode="cues.episode" :sections="cues.sections" />
 
-## Guía de aprendizaje
+## Notas
 
-Las secciones siguientes reúnen el vocabulario, las notas de uso y el contexto cultural.
+Guardo aquí el vocabulario, algunas notas de uso y un poco de contexto.
 
 ## Vocabulario
 

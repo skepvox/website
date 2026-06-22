@@ -1,6 +1,6 @@
 ---
 title: Literatura
-description: 'Biblioteca digital de obras clássicas, especialmente brasileiras.'
+description: 'Obras clássicas em domínio público, reunidas em um formato simples de leitura.'
 ---
 
 <script setup>
@@ -10,7 +10,7 @@ import { literatureAuthorCards } from '@theme/components/authors'
 
 # Literatura
 
-Biblioteca digital de obras clássicas, especialmente brasileiras.
+Obras clássicas em domínio público, reunidas em um formato simples de leitura.
 
 ## Autores
 

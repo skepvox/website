@@ -14,21 +14,21 @@ const SHOWS = [
     title: 'Vox Français',
     count: '3 leçons',
     cards: 3,
-    listen: ['Apple Podcasts', 'Spotify', 'RSS']
+    listen: ['Apple Podcasts', 'Spotify']
   },
   {
     slug: 'espanol',
     title: 'Vox Español',
     count: '2 lecciones',
     cards: 2,
-    listen: ['Apple Podcasts', 'Spotify', 'RSS']
+    listen: ['Apple Podcasts', 'Spotify']
   },
   {
     slug: 'english',
     title: 'Vox English',
     count: '2 lessons',
     cards: 2,
-    listen: ['Apple Podcasts', 'Spotify', 'RSS']
+    listen: ['Apple Podcasts', 'Spotify']
   }
 ]
 
@@ -52,7 +52,7 @@ test.describe('podcast show pages', () => {
       expect(headText(html)).toContain(show.count) // matches visible cards / public manifest
       expect(html).toMatch(new RegExp(`show-head__title[^>]*>\\s*${show.title}\\s*<`))
       expect(html).toContain('class="show-head__standfirst"')
-      expect(listenLabels(html)).toEqual(show.listen) // refined text links, only where a URL exists
+      expect(listenLabels(html)).toEqual(show.listen) // visible listener links only; RSS stays in head
     })
 
     test(`${show.slug}: no Amazon, no raw URLs in body, CardGrid intact, no doc pager`, () => {

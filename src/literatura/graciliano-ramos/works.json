@@ -2,16 +2,19 @@
   {
     "title": "São Bernardo",
     "href": "/literatura/graciliano-ramos/sao-bernardo",
-    "description": "Texto integral de São Bernardo, de Graciliano Ramos, com capítulos separados para leitura."
+    "description": "Organizado por capítulos para leitura.",
+    "meta": "1934"
   },
   {
     "title": "Angústia",
     "href": "/literatura/graciliano-ramos/angustia",
-    "description": "Texto integral de Angústia, de Graciliano Ramos, com capítulos separados para leitura."
+    "description": "Organizado por capítulos para leitura.",
+    "meta": "1936"
   },
   {
     "title": "Vidas Secas",
     "href": "/literatura/graciliano-ramos/vidas-secas",
-    "description": "Texto integral de Vidas Secas, de Graciliano Ramos, com capítulos separados para leitura."
+    "description": "Organizado por capítulos para leitura.",
+    "meta": "1938"
   }
 ]

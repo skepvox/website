@@ -1,6 +1,6 @@
 ---
 title: "Vox Français 003 — Le covoiturage poli"
-description: "Guide de leçon et transcription de l’épisode 003 de Vox Français : Le covoiturage poli. Vérifier une identité, indiquer une origine ou un lieu, et ajuster tu/vous avec des phrases simples autour de être."
+description: "Page de l’épisode 003 de Vox Français : Le covoiturage poli, avec audio, transcription et notes."
 outline: 2
 head:
   - - link
@@ -8,16 +8,16 @@ head:
       href: "https://www.skepvox.com/podcast/francais/003-le-covoiturage-poli"
   - - meta
     - name: description
-      content: "Guide de leçon et transcription de l’épisode 003 de Vox Français : Le covoiturage poli. Vérifier une identité, indiquer une origine ou un lieu, et ajuster tu/vous avec des phrases simples autour de être."
+      content: "Page de l’épisode 003 de Vox Français : Le covoiturage poli, avec audio, transcription et notes."
   - - meta
     - name: keywords
-      content: "Vox Français, skepvox, Le covoiturage poli, français langue étrangère, FLE, transcription, dialogue français, guide de leçon"
+      content: "Vox Français, skepvox, Le covoiturage poli, français langue étrangère, FLE, transcription, dialogue français, notes"
   - - meta
     - property: og:title
       content: "Vox Français 003 — Le covoiturage poli"
   - - meta
     - property: og:description
-      content: "Guide de leçon et transcription de l’épisode 003 de Vox Français : Le covoiturage poli. Vérifier une identité, indiquer une origine ou un lieu, et ajuster tu/vous avec des phrases simples autour de être."
+      content: "Page de l’épisode 003 de Vox Français : Le covoiturage poli, avec audio, transcription et notes."
   - - meta
     - property: og:url
       content: "https://www.skepvox.com/podcast/francais/003-le-covoiturage-poli"
@@ -53,7 +53,7 @@ head:
       content: "Vox Français 003 — Le covoiturage poli"
   - - meta
     - name: twitter:description
-      content: "Guide de leçon et transcription de l’épisode 003 de Vox Français : Le covoiturage poli. Vérifier une identité, indiquer une origine ou un lieu, et ajuster tu/vous avec des phrases simples autour de être."
+      content: "Page de l’épisode 003 de Vox Français : Le covoiturage poli, avec audio, transcription et notes."
   - - meta
     - name: twitter:image
       content: "https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg"
@@ -69,7 +69,7 @@ head:
         "@id": "https://www.skepvox.com/podcast/francais/003-le-covoiturage-poli#learning-resource",
         "url": "https://www.skepvox.com/podcast/francais/003-le-covoiturage-poli",
         "name": "Vox Français 003 — Le covoiturage poli",
-        "description": "Guide de leçon et transcription de l’épisode 003 de Vox Français : Le covoiturage poli. Vérifier une identité, indiquer une origine ou un lieu, et ajuster tu/vous avec des phrases simples autour de être.",
+        "description": "Page de l’épisode 003 de Vox Français : Le covoiturage poli, avec audio, transcription et notes.",
         "image": {
           "@type": "ImageObject",
           "url": "https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg",
@@ -78,7 +78,7 @@ head:
         },
         "learningResourceType": [
           "podcast transcript",
-          "lesson guide"
+          "study notes"
         ],
         "teaches": "Vérifier une identité, indiquer une origine ou un lieu, et ajuster tu/vous avec des phrases simples autour de être.",
         "inLanguage": "fr-FR",
@@ -103,9 +103,9 @@ Vérifier une identité, indiquer une origine ou un lieu, et ajuster tu/vous ave
 
 <PodcastPlayer :episode="cues.episode" :sections="cues.sections" />
 
-## Guide d'apprentissage
+## Notes
 
-Les sections suivantes regroupent le vocabulaire, les notes d’usage et le contexte culturel.
+Je garde ici le vocabulaire, les remarques d’usage et quelques repères de contexte.
 
 ## Vocabulaire
 

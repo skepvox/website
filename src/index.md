@@ -1,14 +1,14 @@
 ---
 page: true
 title: skepvox — Engenharia de Letras
-description: "skepvox reúne as obras de Louis Lavelle, uma biblioteca digital de literatura clássica e podcasts para aprendizagem de idiomas em um único lugar."
+description: "Textos de Louis Lavelle, literatura e podcasts que organizo para minha própria leitura e estudo."
 head:
   - - link
     - rel: canonical
       href: "https://skepvox.com/"
   - - meta
     - name: description
-      content: "skepvox reúne as obras de Louis Lavelle, uma biblioteca digital de literatura clássica e podcasts para aprendizagem de idiomas em um único lugar."
+      content: "Textos de Louis Lavelle, literatura e podcasts que organizo para minha própria leitura e estudo."
   - - meta
     - name: keywords
       content: "skepvox, Louis Lavelle, literatura, filosofia, biblioteca digital, obras clássicas"
@@ -20,7 +20,7 @@ head:
       content: "skepvox — Engenharia de Letras"
   - - meta
     - property: og:description
-      content: "skepvox reúne as obras de Louis Lavelle, uma biblioteca digital de literatura clássica e podcasts para aprendizagem de idiomas em um único lugar."
+      content: "Textos de Louis Lavelle, literatura e podcasts que organizo para minha própria leitura e estudo."
   - - meta
     - property: og:url
       content: "https://skepvox.com/"
@@ -47,7 +47,7 @@ head:
       content: "skepvox — Engenharia de Letras"
   - - meta
     - name: twitter:description
-      content: "skepvox reúne as obras de Louis Lavelle, uma biblioteca digital de literatura clássica e podcasts para aprendizagem de idiomas em um único lugar."
+      content: "Textos de Louis Lavelle, literatura e podcasts que organizo para minha própria leitura e estudo."
   - - meta
     - name: twitter:image
       content: "https://skepvox.com/og-skepvox.png"
@@ -77,7 +77,7 @@ head:
             "url": "https://skepvox.com/",
             "name": "skepvox",
             "alternateName": "Engenharia de Letras",
-            "description": "skepvox reúne as obras de Louis Lavelle, uma biblioteca digital de literatura clássica e podcasts para aprendizagem de idiomas em um único lugar.",
+            "description": "Textos de Louis Lavelle, literatura e podcasts que organizo para minha própria leitura e estudo.",
             "publisher": {
               "@id": "https://skepvox.com/#organization"
             },
@@ -114,7 +114,7 @@ head:
             "@id": "https://skepvox.com/#webpage",
             "url": "https://skepvox.com/",
             "name": "skepvox — Engenharia de Letras",
-            "description": "skepvox reúne as obras de Louis Lavelle, uma biblioteca digital de literatura clássica e podcasts para aprendizagem de idiomas em um único lugar.",
+            "description": "Textos, obras e podcasts que organizo para minha própria leitura e estudo.",
             "isPartOf": {
               "@id": "https://skepvox.com/#website"
             },

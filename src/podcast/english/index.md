@@ -1,6 +1,6 @@
 ---
 title: 'Vox English'
-description: 'Vox English, a skepvox series by Thiago Oliveira, with practical dialogues, explanations, learning guides and transcripts.'
+description: 'Vox English, a podcast I made to keep my English active, with short scenes, dialogues, explanations and transcripts.'
 outline: 2
 footer: false
 head:
@@ -14,7 +14,7 @@ head:
       href: 'https://www.skepvox.com/podcast/english/'
   - - meta
     - name: description
-      content: 'Vox English, a skepvox series by Thiago Oliveira, with practical dialogues, explanations, learning guides and transcripts.'
+      content: 'Vox English, a podcast I made to keep my English active, with short scenes, dialogues, explanations and transcripts.'
   - - meta
     - name: keywords
       content: 'Vox English, skepvox, English learning, practical English, English conversation, podcast English, transcript English'
@@ -23,7 +23,7 @@ head:
       content: 'Vox English'
   - - meta
     - property: og:description
-      content: 'Practical dialogues, explanations and learning guides for English learners with Vox English.'
+      content: 'A podcast I made to keep my English active, with short scenes, dialogues and transcripts.'
   - - meta
     - property: og:url
       content: 'https://www.skepvox.com/podcast/english/'
@@ -59,7 +59,7 @@ head:
       content: 'Vox English'
   - - meta
     - name: twitter:description
-      content: 'Practical dialogues, explanations and learning guides for English learners with Vox English.'
+      content: 'A podcast I made to keep my English active, with short scenes, dialogues and transcripts.'
   - - meta
     - name: twitter:image
       content: 'https://media.skepvox.com/podcast/english/artwork/show-cover-v3.jpg'
@@ -75,7 +75,7 @@ head:
         "@id": "https://www.skepvox.com/podcast/english/#webpage",
         "url": "https://www.skepvox.com/podcast/english/",
         "name": "Vox English",
-        "description": "Vox English, a skepvox series by Thiago Oliveira, with practical dialogues, explanations, learning guides and transcripts.",
+        "description": "Vox English, a podcast I made to keep my English active, with short scenes, dialogues, explanations and transcripts.",
         "image": {
           "@type": "ImageObject",
           "url": "https://media.skepvox.com/podcast/english/artwork/show-cover-v3.jpg",
@@ -101,12 +101,11 @@ import episodes from './episodes.json'
 
 <PodcastShowHeader
   lang="en"
-  eyebrow="Practical English podcast"
-  standfirst="A skepvox series by Thiago Oliveira: a short everyday scene, a two-speed dialogue, a guided explanation, and the full transcript."
+  eyebrow="Podcast"
+  standfirst="I made Vox English to keep my English active. The format is simple, and it helps me return to the language regularly: a short scene, a two-speed dialogue, an explanation, and the transcript."
   :count="episodes.length"
   apple="https://podcasts.apple.com/us/podcast/vox-english/id1894879280"
   spotify="https://open.spotify.com/show/4Mlol3BnZgNRraKKspWFvf"
-  rss="https://www.skepvox.com/podcast/english/feed.xml"
 />
 
 ## Lessons
