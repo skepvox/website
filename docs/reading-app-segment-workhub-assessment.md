@@ -141,7 +141,9 @@ bridge layer (§4) rather than parsed raw.
 | `chapter-prefix` | `02-06-002` | `BB-PP-CCC`. The optional grouping key above the segment; finer trechos attach to one chapter by sharing it. **The only level at which today's chapter-grained website can join the pipeline.** |
 
 **Ordering / grouping (numeric decompositions):** `book-index`, `part-index`, `chapter-index`,
-`segment-index` — for sorting and for Book/Part/Chapter structured data.
+`segment-index` — for sorting and for Book/Part/Chapter structured data. The website/app model should
+also carry an explicit ordered **`groupPath`** (§2.4) so the UI renders the authored structure above the
+segment from the model, never inferred from the route slug or hard-coded `BB-PP-CCC` parsing.
 
 **Granularity / type:**
 
@@ -191,7 +193,61 @@ semantically distinct.
 - **Leaf** — the website's *presentation* of a segment (one URL, one reading page). "Reading leaf" ≈
   rendered segment; the terms are interchangeable for UI purposes.
 
-### 2.4 The granularity spectrum (a first-class requirement, not an edge case)
+### 2.4 Authored structure vs content leaf — the orientation hierarchy
+
+**The reading-app model must distinguish the content leaf from the authored structure above it.** Prose
+lives only in the segment leaf, but the work-hub and zoom-out UI must preserve and render the *full
+authored structure* above each segment — and must **not** assume a flat chapter list.
+
+The required hierarchy, with every intermediate level optional:
+
+```
+Work
+  Internal Book / Volume / Tome      optional
+    Part                             optional
+      Chapter                        optional
+        Section / Proposition        optional
+          Segment / Trecho           REQUIRED — the leaf, the only level with content
+```
+
+**The rule: segments are the content unit; structure is the orientation unit.** The segment is the only
+thing that carries prose and the only required level; everything above it exists to orient the reader,
+not to hold text.
+
+**The UI must collapse absent levels gracefully** — render only the levels a work actually has:
+
+- Simple works render `Work → Chapter → Segment` (or even `Work → Segment`).
+- Works divided into internal books / volumes / parts **must show those groupings** (do not flatten them
+  into a single chapter list).
+- A chapter may itself **be** the segment/leaf when the chapter is the natural reading unit
+  (Brazilian literature: `segment-kind: chapter`).
+- A chapter may instead **be a group** containing many segments.
+- Lavelle-like works may use **sections / propositions** as meaningful grouping *or* as leaf labels
+  (`segment-kind: h3`/`h4`).
+- Confissões uses **numbered paragraphs** as segment leaves (`paragraph-marker`).
+- Karamázov uses **internal books → parts → chapters** plus heavy chapter-sized or `semantic-section`
+  segments — the case that breaks any flat-list assumption.
+
+**Manifest implication.** The future `segment-manifest` (§4, Slice a in §8) must carry an ordered
+**`groupPath`** (or equivalent) per segment — the authored levels *above* it, in order, each with a
+`kind`, an `index`, and a display `title`. For example:
+
+```jsonc
+"groupPath": [
+  { "kind": "internal-book", "index": 2, "title": "Pró e contra" },
+  { "kind": "part",          "index": 1, "title": "..." },
+  { "kind": "chapter",       "index": 6, "title": "O grande inquisidor" },
+  { "kind": "section",       "index": 2, "title": "..." }
+]
+```
+
+`kind` ∈ `internal-book | volume | tome | part | chapter | section | proposition` (extend as needed),
+and absent levels are simply omitted from the array. **The UI renders the hierarchy from this `groupPath`
+model — never inferred from route slugs and never from hard-coded `BB-PP-CCC` positional assumptions.**
+The numeric `book-index`/`part-index`/`chapter-index` remain the *sort* decomposition; `groupPath` is the
+*orientation* structure the hub and zoom-out (§5, §7) actually draw.
+
+### 2.5 The granularity spectrum (a first-class requirement, not an edge case)
 
 The model must support **stable, ordered segments at any granularity**, with optional grouping above
 them (`book → part → chapter → section → segment`). The `BB-PP-CCC-SSS` scheme already encodes exactly
@@ -220,7 +276,7 @@ this, and the corpus already spans the full spectrum:
 **not** use `99-99-999` (its epilogue is a real `book-index: 05`). So the model must treat both buckets
 as **optional but sortable** — never hard-require, never hard-exclude.
 
-### 2.5 How it works per flow
+### 2.6 How it works per flow
 
 - **Brazilian literature (pt):** chapter *is* the segment (`segment-kind: chapter`). Already published as
   pt chapter leaves; semantically mature at this grain. Needs `canonical-id` + `SSS` added (identity),
@@ -234,7 +290,7 @@ as **optional but sortable** — never hard-require, never hard-exclude.
 - **Future translated books (Karamázov, Confissões, …):** already segment-grade and aligned in the
   pipeline; the website must consume them by `canonical-id` and respect the `sync-map` active edition.
 
-### 2.6 Slug / ID Migration Debt
+### 2.7 Slug / ID Migration Debt
 
 The current website leaf slugs are an **older generation**, predating the mature `BB-PP-CCC-SSS`
 convention. The risk this subsection exists to prevent: **"the prefix looks okay" silently becoming
@@ -326,7 +382,8 @@ axis onto the canonical-pt segment grain **book by book**.
 
 ### 3.3 Fields needed to preserve the workflow in the app
 
-Carry: `canonical-id`, `segment-prefix`, `segment-index`, `language`/`edition-role`, per-edition `book`
+Carry: `canonical-id`, `segment-prefix`, `segment-index`, the ordered `groupPath` (the authored
+structure above the segment — §2.4), `language`/`edition-role`, per-edition `book`
 display title, `segment-kind`, the `chapter-*` grouping, the review fields (`review-stage`,
 `needs-review`, `review-tags`, `review-note`), `updated-at` (edit clock) and `read-at` (reading clock),
 plus **reference-witness links** (resolve siblings by `canonical-id`) and a **per-book review-log /
@@ -482,8 +539,10 @@ the "huge TOC, easy to make ugly" failure. The hub must:
 
 For v1 of the owned hub:
 
-- **Group by part/chapter** using the work's own divisions (`book-index`/`part-index`/`chapter-index`),
-  with front-matter (`00-00-000`) and conclusion (`99-99-999`) as named non-numbered sections.
+- **Render the authored hierarchy from each segment's `groupPath`** (§2.4) — internal book/volume →
+  part → chapter → section, collapsing absent levels — rather than a flat chapter list or any
+  `BB-PP-CCC` slug parsing. Front-matter (`00-00-000`) and conclusion (`99-99-999`) appear as named
+  non-numbered sections; `book-index`/`part-index`/`chapter-index` drive the sort.
 - **Collapse by default; expand the current group.** Show full contents on demand.
 - **Lead with "continue reading."**
 - **No in-work search in v1** (search is global and handled by the existing local search; revisit a
@@ -568,7 +627,8 @@ with Kindle's page overview). It is **not** a docs sidebar or file tree.
 
 It should:
 
-- **Orient** — show where the current segment sits in the work's shape (part/chapter/section), by name.
+- **Orient** — show where the current segment sits in the work's authored structure, drawn from its
+  `groupPath` (internal book → part → chapter → section, §2.4), by name — not a flat list.
 - **Show the current segment prominently**, with a few **nearby segments** above/below for context.
 - **Condense the distance** — the rest of the work is present but quiet (collapsed groups, counts), so
   the overview is scannable, not exhaustive.
@@ -599,15 +659,18 @@ interaction-state standard.
 ### Slice a — Richer segment manifest (no UI)
 
 - **What:** a generated, app-ready `segment-manifest` (the bridge layer, §4.3) carrying `canonical-id`,
-  `segment-prefix`/`segment-index`, `segment-kind`, `chapter-*` grouping, per-edition pairing + role, a
-  clean projection of review/reading state, and per-book maturity (pipeline/Kairos/website axes). Built
-  from committed website data first (the existing leaves + `reading-nav.json`), with a defined path to
-  ingest pipeline `sync-map` + segment frontmatter.
+  `segment-prefix`/`segment-index`, the ordered `groupPath` (authored structure above the segment, §2.4),
+  `segment-kind`, `chapter-*` grouping, per-edition pairing + role, a clean projection of review/reading
+  state, and per-book maturity (pipeline/Kairos/website axes). Built from committed website data first
+  (the existing leaves + `reading-nav.json`), with a defined path to ingest pipeline `sync-map` + segment
+  frontmatter.
 - **Files:** `scripts/build-segment-manifest.py`, `.vitepress/theme/data/segment-manifest.json`,
   `package.json` (wire into build like `reading-nav`), tests.
 - **Risk:** low (data-only, idempotent, nothing consumes it yet — mirrors Slice 2A).
 - **Tests:** deterministic/idempotent build; `canonical-id` present + unique; ordering by
-  `segment-index`; granularity union enum; not wired to UI.
+  `segment-index`; granularity union enum; every segment carries a `groupPath` whose order matches the
+  `book-index`/`part-index`/`chapter-index` sort, with absent levels omitted (not null-filled) and no
+  hierarchy inferred from slugs; not wired to UI.
 - **QA:** none visible.
 
 ### Slice b — Owned work-contents component for ONE stress-test work
@@ -667,7 +730,7 @@ interaction-state standard.
   book). **The model must actually be *fed*, not just defined.**
 - **Canonical / frontmatter / SEO breakage.** Changing slugs, removing concatenation, or moving to
   segment grain can break canonical URLs, sitemap, search, `reading-nav`/`sidebar-nav`, and internal
-  links. Every such move must be atomic + tested (§2.6, §6).
+  links. Every such move must be atomic + tested (§2.7, §6).
 - **Performance at hundreds/thousands of segments.** Angústia (806), Confissões (453), Jung (222). The
   hub/overview must paginate/condense by `segment-index` and never render thousands of open rows; the
   manifest must stay lean (ids + ordering + state, **no prose**).
@@ -725,7 +788,7 @@ pairing, and per-book maturity, built from committed website data with a defined
 **Manifest first.** Three reasons:
 
 1. **Identity before UI.** Building the Brás Cubas hub before a durable segment id would hard-wire the UI
-   to today's older `BB-PP-CCC` slugs — the exact "treat current URLs as canonical identity" trap §2.6
+   to today's older `BB-PP-CCC` slugs — the exact "treat current URLs as canonical identity" trap §2.7
    warns against. The manifest establishes `canonical-id` as identity *before* anything renders against it.
 2. **The model already exists; the gap is consumption.** The expensive thinking (the segment schema) is
    done in the pipeline. The high-leverage move is to *bridge* it, not to draw a hub against a model the
