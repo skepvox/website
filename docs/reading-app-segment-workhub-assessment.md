@@ -855,3 +855,85 @@ manifest, validated alongside Confissões (fine) and Karamázov (coarse/paired).
 component, no concatenation removal, no frontmatter edits, no builder changes, no `page:true`, no
 `node_modules` patches, and no edits to `skepvox-book-pipeline` or the `kairos` vault. The next step is
 review of this document; implementation begins only with an explicit go-ahead, starting at Slice a.
+
+---
+
+## 11. Future Feature — AI Reading Companion (deferred)
+
+> **Deferred — beyond current scope.** This is a *mature-version* product note, not near-term work. It
+> belongs only **after** the reading-app foundations (segment manifest, authored work map, local/user
+> reading state) **and** an auth/user + backend phase exist. **No AI/chat UI now, no backend now, no
+> auth now.** It is recorded here because it is the natural culmination of the identity and pairing
+> foundations this assessment defines, and because designing those foundations well now keeps this door
+> open later.
+
+### 11.1 Perspective — a quiet scholar beside the text
+
+In the mature version of skepvox, once the segment manifest, authored work map, reading state, auth, and
+backend are in place, the app may offer a **quiet AI reading companion scoped to the current
+segment/trecho**. It is explicitly **not** a generic chatbot bolted onto the page. The product idea is
+that, while reading a segment, the reader can ask about *this passage*:
+
+- the original-language passage;
+- the canonical Portuguese version;
+- the translation choices made (and **why** a given rendering was chosen);
+- difficult vocabulary or syntax;
+- references and context;
+- the nearby segments;
+- how this segment fits the work's larger authored structure.
+
+The tone is **"a quiet scholar beside the text"** — calm, literary, contextual. Not a generic chatbot,
+not gamified, not noisy. It should feel like an extension of the reading surface, never a separate app
+mode shouting for attention.
+
+### 11.2 Architecture direction — skepvox provides the AI (preferred)
+
+| Model | Verdict | Why |
+|---|---|---|
+| **1. Bring-your-own API key** | Not preferred | Technically feasible, but awkward and insecure for mainstream readers (client-side key handling) and far from a polished experience. |
+| **2. skepvox-provided AI via its own backend/API account** | **Preferred (mature path)** | Best UX (no setup); lets the app control the **context bundle, prompts, cost limits, privacy, caching, moderation, and model choice**. The reader just reads and asks. |
+| **3. Deep-link out to ChatGPT/Claude** | Interim bridge only | Useful as an early, zero-backend stopgap (hand the reader a prepared prompt/link), but not a true integrated reading experience. |
+
+**Option 2 is the target.** Under it, model choice is a backend concern — defaulting to a current,
+top-tier model — and never requires storing API keys client-side. Option 3 is acceptable only as a
+transitional bridge before the backend exists.
+
+### 11.3 Why this depends on the foundations we are building now
+
+The companion is only feasible — and only *calm* — because the segment model gives it a precise,
+bounded context to reason over. It ties directly to:
+
+- **stable `canonicalId`** — the key the backend resolves to assemble context;
+- **the `segment-manifest`** — the index of what exists and how it is ordered;
+- **original ↔ canonical-pt pairing** (by `canonicalId`) — so it can discuss source vs translation;
+- **`editionRole` + reference editions kept separate** — references inform answers but are never
+  presented as the canonical text, mirroring the reading surface's witness-not-shelf rule;
+- **`groupPath` / authored structure** — so it can answer "how does this fit the work?";
+- **reading state** — so it knows where the reader is (and, later, what they have read/noted);
+- **the later auth/user model** — to scope per-user state, history, and cost;
+- **backend retrieval of the segment bundle** — the assembly step below.
+
+### 11.4 Target context bundle
+
+Given the current `canonicalId`, the backend retrieves a bounded **segment bundle** to ground the
+companion (retrieval-augmented, not free-floating):
+
+- the current **canonical pt** segment;
+- the paired **original-language** segment;
+- **permitted reference editions or excerpts** (gated, attributed, never presented as canonical);
+- the **`groupPath` / location** in the work;
+- **surrounding segments** when useful (prev/next context);
+- **translation-style notes / glossary / review decisions** where available (the pipeline's
+  `docs/translation-style/*` + review metadata, projected through the bridge layer — never raw);
+- **user reading state / notes** (later, once the user model exists).
+
+The companion answers from this bundle, with the original/canonical/reference distinction preserved, so
+its replies stay faithful to the same edition discipline the reader sees on the page.
+
+### 11.5 Constraints (explicit)
+
+- **Not near-term.** No AI/chat UI, no backend, no auth in current scope.
+- **No client-side API keys** for the preferred path (Option 2); keys live only server-side.
+- It is sequenced **after** the reading-app foundations and the auth/user phase — well beyond Slice e.
+- **Tone is load-bearing:** quiet scholar beside the text — calm, literary, contextual; never a generic
+  chatbot, never gamified, never noisy.
