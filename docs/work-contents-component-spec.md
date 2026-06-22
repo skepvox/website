@@ -122,14 +122,15 @@ The visible lead for each segment is its **`displayTitle`**; the ordinal is seco
 | Identity (current marker, later) | `canonicalId` | ✓ present (never the route slug) |
 | Route to the leaf | `href` (via `SkLink`) | ✓ present |
 
-**Recommended small addition before *grouped mode on non-pt works*:**
+**Recommended small addition (in scope for grouped mode):**
 - **`language` on `works[]`** (e.g. `pt` | `fr`). Group **headers** are rendered from `kind` + `index`
-  (no authored titles exist in committed website data), e.g. "Capítulo {index}". Localizing the kind
-  word (Chapter/Chapitre/Capítulo, Book/Livre/Livro) needs the work's language. **Not needed for the
-  recommended first target** (*a-consciência de si* is pt → pt headers by default); add it before doing
-  grouped mode on French Lavelle works (e.g. *de-l-acte*). Cheap to derive (read `language` from a leaf
-  frontmatter, or default by corpus: `literatura` → pt, `louis-lavelle` → fr except the pt
-  translations).
+  (no authored titles exist in committed website data), e.g. "Capítulo 1" / "Livre 1", so the level word
+  (Chapter/Chapitre/Capítulo, Book/Livre/Livro) must match the work's language. Because the **Lavelle
+  French originals are first-class first targets** (§6) — they are read in French now and paired with
+  Portuguese later — add `works[].language` as part of this slice rather than treating fr as a later
+  case. It is not a reason to prefer a pt target. Cheap + deterministic to derive (read `language` from
+  a leaf's frontmatter, or default by corpus: `literatura` → pt, `louis-lavelle` → fr except the pt
+  translations such as `a-consciencia-de-si`).
 
 **Documented limitations (do not block v1; resolved later by pipeline ingestion):**
 1. **No authored group titles.** `groupPath` levels carry `kind`+`index`, not the authored chapter/part
@@ -140,8 +141,9 @@ The visible lead for each segment is its **`displayTitle`**; the ordinal is seco
    Dedicatória/Prólogo/Ao leitor), so they are **not** flagged. Flat mode should render those leaves in
    order at the top; do not hard-depend on `bucket` to separate front matter for legacy works.
 
-**Conclusion:** build v1 against v0 as-is for the pt first target. Add `language` (and, later, authored
-titles via pipeline) before broad grouped-mode rollout.
+**Conclusion:** build v1 against v0 plus the small `works[].language` add, so group-level labels
+localize correctly for whichever first target is chosen (pt or fr). Authored group titles arrive later
+via pipeline ingestion.
 
 ## 6. First implementation target
 
@@ -152,22 +154,34 @@ or premature presentation-bucketing decisions, while leaving the hard part (coll
 
 **Do not assume Brás Cubas is the best first target just because it is the best stress test.** Its v0
 `groupPath` is empty, so it is a *visual scale* test (flat mode) and does **not** exercise the
-authored-hierarchy collapse mechanics. Split the targets explicitly:
+authored-hierarchy collapse mechanics. And **do not choose the mechanics target by language** — the
+**Lavelle French originals are first-class reading targets** (read in French now, paired with Portuguese
+later), not lesser than the pt translations. Choose the mechanics target by **structural usefulness in
+the manifest**. Split the targets:
 
-- **First mechanics target — `a-consciência de si`** (`/louis-lavelle/a-consciencia-de-si`). A work with
-  **non-empty `groupPath`**: validates nested hierarchy, collapse buttons, stable group `key`s,
-  `aria-expanded`/`aria-controls`, default-collapsed/expanded logic, keyboard nav, and `SkLink` leaves.
-  It is the existing on-site **segment-level template**, pt (no `language` field needed), 118 segments
-  across ~13 chapter groups — representative and manageable. *(An even smaller grouped smoke test is
-  `de-l-acte`: 3 book groups / 27 chapters — but it is fr, so it needs the `language` addition first;
-  prefer a-consciência.)*
+- **First mechanics target — either `de-l-acte` or `a-consciência de si`** (decide on structure, not
+  language; both are on-site, both have non-empty `groupPath`):
+  - **`de-l-acte`** (`/louis-lavelle/de-l-acte`, Lavelle FR) — **internal book-level grouping** (3
+    `book` groups / 27 chapter leaves). The richest *grouping-shape* test, because the group level is a
+    **book**, not a chapter — it exercises a level the segment-level pt template does not. Validates
+    book→chapter grouping, collapse buttons, stable group `key`s, `aria-expanded`/`aria-controls`, and
+    `SkLink` leaves on a real French reading work. Other middle-sized Lavelle FR works
+    (`du-temps-et-de-l-eternite`, etc.) are equally valid for the same reasons.
+  - **`a-consciência de si`** (`/louis-lavelle/a-consciencia-de-si`, Lavelle pt) — the existing on-site
+    **segment-level template**: chapter grouping over **paragraph-level segment leaves** (~13 groups /
+    118 segments). Validates segment-grained leaves and a larger collapse set.
+  - They exercise **different structures** (book-grouping vs chapter-grouping over segment leaves), so
+    either is a sound first mechanics target — picking on *structural coverage*, not language. Doing both
+    across the slice is reasonable. Add `works[].language` (§5) so group-level labels localize for
+    whichever is chosen; this is in-scope, never a reason to prefer one language.
 - **First visual stress target — `bras-cubas`** (`/literatura/machado-de-assis/bras-cubas`). A legacy
   work with **empty `groupPath`**: validates **flat mode** — the calm handling of 163 tiny chapter-leaves
   as a condensed ordered list, front-matter ordering, and any presentation chunking (labeled as such).
 
-Sequence the **mechanics target first** (the novel collapse + a11y risk, on real authored groups, on a
+Sequence a **mechanics target first** (the novel collapse + a11y risk, on real authored groups, on a
 manageable published work), then the **visual stress target** (a *distinct rendering mode*, not "the same
-UI, bigger"). The smallest safe first slice (§11) ships one work — the mechanics target.
+UI, bigger"). The smallest safe first slice (§11) ships one work — a mechanics target (`de-l-acte` or
+`a-consciência de si`).
 
 ## 7. Interaction & accessibility
 
@@ -225,8 +239,9 @@ replacement (assessment §6, Slice c). v1 must **coexist** with the current hub:
   scale, front-matter ordering, optional chunking, no ugly 163-row wall.
 - **a-consciência de si** (`/louis-lavelle/a-consciencia-de-si`) — *grouped mode*, segment-level, ~13
   chapter groups / 118 segments: collapse mechanics + a11y + the segment template.
-- **de-l-acte** (`/louis-lavelle/de-l-acte`) — *grouped mode*, 3 book groups / 27 chapters: book-level
-  grouping (needs the `language` addition for fr headers).
+- **de-l-acte** (`/louis-lavelle/de-l-acte`, Lavelle FR — a first-class reading target) — *grouped
+  mode*, 3 book groups / 27 chapters: **book-level** grouping (the distinct grouping shape), with fr
+  group headers via the `works[].language` add.
 
 **Design must-handle (not live until pipeline ingestion — validate the design, not a live page):**
 - **Confissões** — ~453 paragraph-level segments: the fine-granularity extreme; the grouped layout +
@@ -240,7 +255,8 @@ Each live case gets screenshot QA (mobile + desktop, light + dark).
 
 **Build:**
 - One owned `.vitepress/theme/components/WorkContents.vue`, consuming `segment-manifest.json`, mounted
-  via the `content-top` slot guarded to **one** work (`a-consciência de si`) by `relativePath`.
+  via the `content-top` slot guarded to **one** work — a mechanics target chosen on structure
+  (`de-l-acte` or `a-consciência de si`) — by `relativePath`.
 - Grouped + flat rendering modes; collapsible group `<button>`s (`aria-expanded`/`aria-controls`);
   `SkLink` segment links; pointer-gated hover; `--sk-focus-ring` focus.
 - Coexist with the current hub (do **not** remove concatenation); optionally scope-hide that work's
@@ -250,8 +266,8 @@ Each live case gets screenshot QA (mobile + desktop, light + dark).
 - no broad rollout (one work only);
 - no concatenation/Sumário removal from the builder;
 - no progress colors, current-segment state, AI/chat, auth, or server state;
-- no manifest schema change beyond the optional `language` add (only if fr grouped mode is in this
-  slice — it should not be; first target is pt);
+- no manifest schema change beyond the small `works[].language` add (in scope — a Lavelle FR work such
+  as `de-l-acte` is a valid first mechanics target, so its group headers must localize);
 - no generated-Markdown, builder, frontmatter, podcast, or other-repo edits.
 
 **Tests:**
