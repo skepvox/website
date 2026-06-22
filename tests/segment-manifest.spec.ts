@@ -183,8 +183,17 @@ test.describe('segment-manifest (reading-app Slice a data foundation)', () => {
     expect(prosey).toEqual([])
   })
 
-  test('NOT wired: no .vitepress source consumes the manifest yet', () => {
-    const offenders: string[] = []
+  test('every work carries a base language for label localization', () => {
+    const works = manifest().works
+    expect(works.every((w: any) => ['pt', 'fr', 'en'].includes(w.language))).toBe(true)
+    const byId = Object.fromEntries(works.map((w: any) => [w.workId, w.language]))
+    expect(byId['louis-lavelle/de-l-acte']).toBe('fr')
+    expect(byId['louis-lavelle/a-consciencia-de-si']).toBe('pt')
+    expect(byId['machado-de-assis/bras-cubas']).toBe('pt')
+  })
+
+  test('the manifest is consumed only by the owned WorkContents book map (Slice b)', () => {
+    const consumers: string[] = []
     const walk = (dir: string) => {
       for (const e of fs.readdirSync(dir, { withFileTypes: true })) {
         if (['data', 'dist', 'cache'].includes(e.name)) continue
@@ -194,12 +203,13 @@ test.describe('segment-manifest (reading-app Slice a data foundation)', () => {
           /\.(ts|vue|js|mjs)$/.test(e.name) &&
           fs.readFileSync(p, 'utf-8').includes('segment-manifest')
         )
-          offenders.push(path.relative(path.resolve('.vitepress'), p))
+          consumers.push(path.relative(path.resolve('.vitepress'), p))
       }
     }
     walk(path.resolve('.vitepress'))
-    expect(offenders, `segment-manifest must not be consumed yet: ${offenders.join(', ')}`).toEqual(
-      []
-    )
+    expect(consumers.sort()).toEqual([
+      'theme/components/WorkContents.vue',
+      'theme/components/WorkContentsMount.vue'
+    ])
   })
 })

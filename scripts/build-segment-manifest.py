@@ -70,6 +70,20 @@ def parse_route(route: str) -> dict:
     return {"corpus": corpus, "author": author, "work": work, "workId": f"{author}/{work}"}
 
 
+FM_LANGUAGE_RE = re.compile(r"(?m)^language:\s*[\"']?([A-Za-z]{2})")
+
+
+def work_language(rel_path: str, corpus: str) -> str:
+    """Base language code for the work, read from its hub frontmatter (authoritative); falls back
+    to the corpus default. Used by WorkContents to localize group-level labels (Livre/Livro/Book)."""
+    fpath = SRC / rel_path
+    if fpath.exists():
+        match = FM_LANGUAGE_RE.search(fpath.read_text(encoding="utf-8"))
+        if match:
+            return match.group(1).lower()
+    return "fr" if corpus == "louis-lavelle" else "pt"
+
+
 def classify(rows: list) -> str:
     """A work is 'segment-level' iff every leaf carries an SSS; 'chapter-level' iff none do;
     'mixed' otherwise (defensive — does not occur in current data)."""
@@ -237,6 +251,7 @@ def build() -> dict:
                 "author": ids["author"],
                 "work": ids["work"],
                 "displayTitle": w["title"],
+                "language": work_language(f"{route.lstrip('/')}.md", ids["corpus"]),
                 "href": route,
                 "relativePath": f"{route.lstrip('/')}.md",
                 "kind": kind,
