@@ -496,7 +496,9 @@ gtag('config', 'G-1VWHF2D1QJ');`
     },
     plugins: [
       llmstxt({
-        ignoreFiles: ['index.md'],
+        // 'reading-review/**' is the internal pipeline-export review buffer surface (Slice 2C):
+        // noindex/unlisted/out-of-search, and excluded from the LLM output too.
+        ignoreFiles: ['index.md', 'reading-review/**'],
         customLLMsTxtTemplate: `\
 # skepvox
 

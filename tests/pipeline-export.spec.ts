@@ -141,8 +141,12 @@ test.describe('pipeline-export ingestion (Slice 2B: vendor + reshape, no routes)
     for (const stem of stems) expect(builtExists(`${work}/${stem}`), stem).toBe(true)
   })
 
-  test('this slice wires no consumer and leaves segment-manifest consumers unchanged', () => {
-    expect(codeRefs('pipeline-export-segments')).toEqual([])
+  test('pipeline-export is consumed only by the review component; segment-manifest consumers unchanged', () => {
+    // Slice 2C added the SOLE consumer of the vendored export: the review-only component on the
+    // buffer page (not wired into any live work hub). segment-manifest's own consumers are unchanged.
+    expect(codeRefs('pipeline-export-segments')).toEqual([
+      'theme/components/PipelineExportReview.vue'
+    ])
     expect(codeRefs('segment-manifest')).toEqual([
       'theme/components/WorkContents.vue',
       'theme/components/WorkContentsMount.vue'

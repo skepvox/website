@@ -7,6 +7,7 @@ import BufferNotice from './components/BufferNotice.vue'
 import ReadingNav from './components/ReadingNav.vue'
 import PodcastEpisodeNav from './components/PodcastEpisodeNav.vue'
 import WorkContentsMount from './components/WorkContentsMount.vue'
+import PipelineExportReview from './components/PipelineExportReview.vue'
 import ThemeChromeSync from './components/ThemeChromeSync.vue'
 
 import 'vitepress/dist/client/theme-default/styles/components/vp-code-group.css'
@@ -28,5 +29,13 @@ export default Object.assign({}, VPTheme, {
       }),
       h(ThemeChromeSync)
     ]
+  },
+  // Review-only consumer of the vendored pipeline export, used solely on the buffer page
+  // src/reading-review/introduction-a-l-ontologie.md (Slice 2C). Registered globally so the
+  // markdown page can render it; mounted on no live work hub.
+  enhanceApp(ctx: { app: { component: (name: string, c: unknown) => void } }) {
+    // @ts-ignore - VPTheme may define its own enhanceApp; chain it.
+    VPTheme.enhanceApp?.(ctx)
+    ctx.app.component('PipelineExportReview', PipelineExportReview)
   }
 })
