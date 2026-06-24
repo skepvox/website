@@ -21,6 +21,8 @@ and is NEVER used as an identity/join key. Reads only committed metadata; determ
 import json
 from pathlib import Path
 
+from pipeline_gate import route_visibility
+
 ROOT = Path(__file__).resolve().parent.parent
 META = ROOT / ".vitepress" / "theme" / "data" / "pipeline-export-segments.json"
 OUT_DIR = ROOT / "src" / "reading-review" / "introducao-a-ontologia"
@@ -29,22 +31,26 @@ GENERATED_MARKER = "pipeline-segment-routes"
 
 
 def page_text(rec: dict) -> str:
-    fm = "\n".join(
-        [
-            "---",
-            f"title: {json.dumps(rec['displayTitle'], ensure_ascii=False)}",
-            "buffer: true",
-            "search: false",
-            "head:",
-            "  - ['meta', { name: 'robots', content: 'noindex' }]",
-            f"pipelineCanonicalId: {json.dumps(rec['canonicalId'])}",
-            f"pipelineLanguage: {EDITION}",
-            f"pipelineSegment: {json.dumps(rec['segmentPrefix'])}",
-            f"generated: {GENERATED_MARKER}",
-            "---",
-        ]
-    )
-    return f"{fm}\n\n<PipelineSegmentRoute />\n"
+    # Visibility is decided by the stability-aware publication gate, never hardcoded. Today every
+    # segment is urlStability:draft / publicSlug:null -> hidden, so this emits buffer + search:false +
+    # noindex (byte-identical to before). A stable+publicSlug segment would instead emit an indexable
+    # page; nothing here mints publicSlug or changes urlStability.
+    vis = route_visibility(rec)
+    lines = ["---", f"title: {json.dumps(rec['displayTitle'], ensure_ascii=False)}"]
+    if vis["buffer"]:
+        lines.append("buffer: true")
+    if not vis["search"]:
+        lines.append("search: false")
+    if vis["noindex"]:
+        lines += ["head:", "  - ['meta', { name: 'robots', content: 'noindex' }]"]
+    lines += [
+        f"pipelineCanonicalId: {json.dumps(rec['canonicalId'])}",
+        f"pipelineLanguage: {EDITION}",
+        f"pipelineSegment: {json.dumps(rec['segmentPrefix'])}",
+        f"generated: {GENERATED_MARKER}",
+        "---",
+    ]
+    return f"{chr(10).join(lines)}\n\n<PipelineSegmentRoute />\n"
 
 
 def build() -> dict[str, str]:
