@@ -8,6 +8,7 @@ import ReadingNav from './components/ReadingNav.vue'
 import PodcastEpisodeNav from './components/PodcastEpisodeNav.vue'
 import WorkContentsMount from './components/WorkContentsMount.vue'
 import PipelineExportReview from './components/PipelineExportReview.vue'
+import PipelineSegmentPreview from './components/PipelineSegmentPreview.vue'
 import ThemeChromeSync from './components/ThemeChromeSync.vue'
 
 import 'vitepress/dist/client/theme-default/styles/components/vp-code-group.css'
@@ -37,5 +38,6 @@ export default Object.assign({}, VPTheme, {
     // @ts-ignore - VPTheme may define its own enhanceApp; chain it.
     VPTheme.enhanceApp?.(ctx)
     ctx.app.component('PipelineExportReview', PipelineExportReview)
+    ctx.app.component('PipelineSegmentPreview', PipelineSegmentPreview)
   }
 })
