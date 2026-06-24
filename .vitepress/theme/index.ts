@@ -10,6 +10,7 @@ import WorkContentsMount from './components/WorkContentsMount.vue'
 import PipelineExportReview from './components/PipelineExportReview.vue'
 import PipelineSegmentPreview from './components/PipelineSegmentPreview.vue'
 import PipelineWindowPreview from './components/PipelineWindowPreview.vue'
+import PipelineReaderPreview from './components/PipelineReaderPreview.vue'
 import ThemeChromeSync from './components/ThemeChromeSync.vue'
 
 import 'vitepress/dist/client/theme-default/styles/components/vp-code-group.css'
@@ -41,5 +42,6 @@ export default Object.assign({}, VPTheme, {
     ctx.app.component('PipelineExportReview', PipelineExportReview)
     ctx.app.component('PipelineSegmentPreview', PipelineSegmentPreview)
     ctx.app.component('PipelineWindowPreview', PipelineWindowPreview)
+    ctx.app.component('PipelineReaderPreview', PipelineReaderPreview)
   }
 })
