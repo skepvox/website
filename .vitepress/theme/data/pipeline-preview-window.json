@@ -1,0 +1,167 @@
+{
+  "$schema": "skepvox-pipeline-preview-window-v1",
+  "current": "00-01-002-008",
+  "generatedBy": "scripts/build-pipeline-preview.py",
+  "segments": [
+    {
+      "bodyHtml": "<p>Tornamo-nos, por isso, capazes de responder à censura que não deixarão de nos fazer, a saber, a de pôr em xeque essa unidade absoluta do ser na qual parece que sua univocidade nos obrigaria a nos encerrar. Mas,</p>\n<p>1º o ser, a existência e a realidade não são como um gênero e suas espécies; são três aspectos inseparáveis uns dos outros sob os quais o mesmo ser pode ser definido, desde que a participação seja introduzida e para que ela o possa ser;</p>\n<p>2º se pensarmos que, por aí, introduzimos o relativo no seio mesmo do ser, isto é, do absoluto, isso de modo algum é mau sinal. Pois o que caracteriza o absoluto não é excluir o relativo, mas, ao contrário, fundar todos os relativos — que só podem sustentar-se por ele e que lhe são necessários não porque ele os suponha, mas porque ele os chama e porque, sem eles, ele mesmo não seria o absoluto de nada. Contudo, nenhum desses relativos tem outro ser senão aquele mesmo que o absoluto lhe dá: são contemporâneos do ato pelo qual o eu se põe e, ao pôr-se, põe ao mesmo tempo todos os outros relativos — inclusive, no próprio ser, os dois modos que chamamos existência e realidade.</p>",
+      "canonicalId": "louis-lavelle/introduction-a-l-ontologie/00-01-001-006",
+      "displayTitle": "Parágrafo 5",
+      "groupPath": [
+        {
+          "index": 1,
+          "inferred": false,
+          "key": "louis-lavelle/introduction-a-l-ontologie/00-01",
+          "kind": "part",
+          "label": "Primeira parte",
+          "title": "As categorias primeiras da ontologia"
+        },
+        {
+          "index": 1,
+          "inferred": false,
+          "key": "louis-lavelle/introduction-a-l-ontologie/00-01-001",
+          "kind": "chapter",
+          "label": "Distinção",
+          "title": "Distinção"
+        }
+      ],
+      "language": "pt",
+      "maturity": "draft",
+      "order": 6,
+      "publishable": false,
+      "routePath": "louis-lavelle/introducao-a-ontologia/00-01-001-006-paragrafo-5",
+      "segmentPrefix": "00-01-001-006",
+      "urlStability": "draft",
+      "workId": "louis-lavelle/introduction-a-l-ontologie"
+    },
+    {
+      "bodyHtml": "<p>O ser, a existência e a realidade são os três aspectos diferentes sob os quais o todo pode ser considerado em relação à participação. Em cada um desses três aspectos ele está envolvido por inteiro; é apenas a perspectiva que muda. Mas a escolha que se faz de uma ou de outra dessas perspectivas permite compreender as principais direções nas quais o pensamento filosófico se engajou.</p>\n<p>1º o emprego da palavra ser caracteriza todas as doutrinas em que a participação é considerada em sua fonte, isto é, naquela onipresença da qual ela bebe e que jamais cessa de dividir: compreende em si, ao mesmo tempo, a existência e a essência. A ontologia tradicional deve ser considerada como uma filosofia do ser;</p>\n<p>2º a palavra existência retém da participação o ato pelo qual ela se realiza; implica não um desprestígio da essência, mas a impossibilidade de considerá-la senão no ato pelo qual um indivíduo a assume. Esta filosofia, cuja inspiração não é nova, recebeu, em nossos dias, sob o nome de existencialismo, um desenvolvimento notável.</p>\n<p>Enfim, 3º só se faz uso da palavra realidade para marcar que se pretende reter da participação apenas suas formas já cumpridas: por isso, a realidade é sempre dada; só pode ser apreendida como um fato de experiência, seja em sua forma física, seja em sua forma psicológica. Só a realidade conta, não apenas para o realismo e para o empirismo, mas também para a ciência, cujo objetivo é precisamente dela tomar posse. Essas três palavras nos revelam três atitudes diferentes do espírito diante da participação, das quais a primeira a considera em sua fonte, a segunda em seu ato e a terceira <em>em seu efeito</em>.</p>\n<p>Acontece com frequência que se tomem os termos ser, existência e realidade no mesmo sentido. O que, de certa maneira, é legítimo, precisamente na medida em que, por um lado, todos os três se opõem a conceitos negativos — não-ser, inexistência e irrealidade —, e, por outro lado, o ser é, ele próprio, o termo originário ao qual os dois outros sempre se referem. Mas a oposição desses três termos permite-nos compreender o jogo da participação e, em vez de bloquear o ser em uma imobilidade estática, obrigá-lo, ao dar nascimento às duas noções de existência e de realidade, a desvelar sua fecundidade. Dando dessas palavras a definição mais rigorosa, parece, pois, que se possa chegar, no que diz respeito às primeiras proposições da metafísica, a um acordo entre todos os espíritos e a certezas demonstráveis.</p>",
+      "canonicalId": "louis-lavelle/introduction-a-l-ontologie/00-01-001-007",
+      "displayTitle": "Parágrafo 6",
+      "groupPath": [
+        {
+          "index": 1,
+          "inferred": false,
+          "key": "louis-lavelle/introduction-a-l-ontologie/00-01",
+          "kind": "part",
+          "label": "Primeira parte",
+          "title": "As categorias primeiras da ontologia"
+        },
+        {
+          "index": 1,
+          "inferred": false,
+          "key": "louis-lavelle/introduction-a-l-ontologie/00-01-001",
+          "kind": "chapter",
+          "label": "Distinção",
+          "title": "Distinção"
+        }
+      ],
+      "language": "pt",
+      "maturity": "draft",
+      "order": 7,
+      "publishable": false,
+      "routePath": "louis-lavelle/introducao-a-ontologia/00-01-001-007-paragrafo-6",
+      "segmentPrefix": "00-01-001-007",
+      "urlStability": "draft",
+      "workId": "louis-lavelle/introduction-a-l-ontologie"
+    },
+    {
+      "bodyHtml": "<p>Há, na simples enunciação da palavra ser, uma espécie de exigência implacável e de invencível necessidade. Pois essa única palavra basta para pôr o objeto que designa, para mostrar que há alguma coisa — ainda que seja apenas a própria palavra — e para excluir o nada. Mas essa palavra tem uma virtude muito maior: ela nos obriga a reconhecer de imediato, e antes mesmo de toda experiência real, que envolve toda experiência possível, que nada pode estar fora nem de sua extensão nem de sua compreensão. Tal é o sentido da dupla afirmação de Parmênides — «o ser é, o não-ser não é» —, que podemos considerar <em>como o ato de consciência metafísica</em> sem o qual todo outro ato de pensamento perderia seu suporte e sua validade. E nenhuma dessas duas proposições é vã, se é verdade que a noção de ser é, com efeito, a única que não se pode evocar sem ser obrigado a afirmá-la, nem supor negada sem ser obrigado a negar sua negação, de modo que, <em>longe de temer não poder encontrar o ser, é preciso, ao contrário, ter a certeza de não poder escapar dele</em> — o que confere à nossa existência um alcance e uma gravidade que de outro modo ela não poderia conhecer. Podemos exprimir isso dizendo, primeiramente, que o ser é universal — isto é, que fora dele não há nada, e que esse nada nada é —; em seguida, que ele é unívoco — isto é, que, qualquer que seja a diferença entre seus modos (por exemplo, entre o possível e o realizado), ela não atinge o ser desses modos.</p>",
+      "canonicalId": "louis-lavelle/introduction-a-l-ontologie/00-01-002-008",
+      "displayTitle": "Parágrafo 7",
+      "groupPath": [
+        {
+          "index": 1,
+          "inferred": false,
+          "key": "louis-lavelle/introduction-a-l-ontologie/00-01",
+          "kind": "part",
+          "label": "Primeira parte",
+          "title": "As categorias primeiras da ontologia"
+        },
+        {
+          "index": 2,
+          "inferred": false,
+          "key": "louis-lavelle/introduction-a-l-ontologie/00-01-002",
+          "kind": "chapter",
+          "label": "Ser",
+          "title": "Ser"
+        }
+      ],
+      "language": "pt",
+      "maturity": "draft",
+      "order": 8,
+      "publishable": false,
+      "routePath": "louis-lavelle/introducao-a-ontologia/00-01-002-008-paragrafo-7",
+      "segmentPrefix": "00-01-002-008",
+      "urlStability": "draft",
+      "workId": "louis-lavelle/introduction-a-l-ontologie"
+    },
+    {
+      "bodyHtml": "<p>Contudo, esse ser parmenidiano, que parece ser o mais pleno e o mais profundo, não será também o mais vazio e o mais estéril? Toda universalidade, com efeito, não é uma universalidade abstrata? E, para que o ser possa dizer-se de toda coisa do mesmo modo, é preciso que, de nenhuma coisa, diga algo. De tal sorte que o conhecimento começaria para nós a partir do momento em que acrescentamos ao ser determinações que o enriquecem e o realizam. Mas é um paradoxo evidente considerar o ser como um abstrato. Ele é o todo que se pode dividir, mas de modo algum acrescer. Não lhe acrescentamos suas determinações: discernimo-las nele pela análise. Ao dizer que ele envolve tudo o que é, não queremos dizer que ele seja apenas o envolvente e não o envolvido, nem que aquilo que é não deva ser confundido com o ser daquilo que é. Ao contrário, <em>o ser de cada coisa é a sua própria concretude</em>, e não um caráter que dela se pudesse separar; e, se alguém objetar que a concretude de uma coisa não pode ser identificada com a de outra, responderemos que cada coisa, enquanto distinta de todas as outras, é incapaz de bastar-se, e que seu ser reside no feixe de relações que a une a todas as demais, e pelo qual cada uma desenha, por assim dizer, sobre o todo do ser, a configuração que lhe é própria. O ser é anterior à oposição entre o abstrato e o concreto; ou, antes, ele identifica a propriedade comum que permite dizer de cada coisa que ela é com aquela propriedade que a faz ser tal — isto é, que a põe em relação com todas as outras; do mesmo modo, é anterior à oposição entre a extensão e a compreensão, ou, antes, conjuga-as em si tão estreitamente que, se parece não ter por compreensão senão sua extensão, é também verdade dizer que, em contrapartida, tem sua compreensão por extensão.</p>",
+      "canonicalId": "louis-lavelle/introduction-a-l-ontologie/00-01-002-009",
+      "displayTitle": "Parágrafo 8",
+      "groupPath": [
+        {
+          "index": 1,
+          "inferred": false,
+          "key": "louis-lavelle/introduction-a-l-ontologie/00-01",
+          "kind": "part",
+          "label": "Primeira parte",
+          "title": "As categorias primeiras da ontologia"
+        },
+        {
+          "index": 2,
+          "inferred": false,
+          "key": "louis-lavelle/introduction-a-l-ontologie/00-01-002",
+          "kind": "chapter",
+          "label": "Ser",
+          "title": "Ser"
+        }
+      ],
+      "language": "pt",
+      "maturity": "draft",
+      "order": 9,
+      "publishable": false,
+      "routePath": "louis-lavelle/introducao-a-ontologia/00-01-002-009-paragrafo-8",
+      "segmentPrefix": "00-01-002-009",
+      "urlStability": "draft",
+      "workId": "louis-lavelle/introduction-a-l-ontologie"
+    },
+    {
+      "bodyHtml": "<p>Contudo, não podemos contentar-nos em definir o ser como o uno que é tudo e fazer dele, de algum modo, o objeto absoluto; pois bem sabemos que não há objeto que não seja correlativo de um sujeito, que esse objeto absoluto, fora do qual nada há, não poderia ser posto por um sujeito que dele se distinguisse, que, por consequência, ele só pode ser posto por si mesmo, e que, assim, tem direito ao nome de sujeito absoluto tanto quanto ao de objeto absoluto. É o que sugere Parmênides quando nos diz que há identidade entre τὸ εἶναι e τὸ νοεῖν. Mas como se deve entender essa identidade? Podemos primeiramente admitir que esse ser, por inteiro interior a si mesmo, não pode deixar subsistir em si qualquer objetividade, e que essa interioridade, à qual nada é exterior, só pode ser uma interioridade de pensamento; de modo que, se o ser nos parecera de início um objeto universal, era apenas na medida em que ultrapassava infinitamente a interioridade de nosso próprio pensamento. Contudo, <em>essa ultrapassagem não podia efetuar-se por fora, mas somente por dentro</em>. Ela exprimia a infinitude potencial de um pensamento que apenas atualizamos imperfeitamente. A universalidade do ser só podia, pois, receber um sentido para nós se fosse confundida com a universalidade do pensável: o que bastava para mostrar a comunidade de direito e a inadequação de fato entre o ser e a consciência que dele temos, uma vez que o pensável preenche o intervalo que separa o pensamento absoluto do pensamento exercido por nós. Daí esta consequência: <em>o ser é naturalmente assimilado a uma possibilidade universal que só se atualiza na existência manifestada</em>. Mas a distinção entre o possível e o atual só tem sentido para nós: o ser contém em si os dois termos, ou, antes, antecede sua dissociação, que é apenas o meio da participação.</p>",
+      "canonicalId": "louis-lavelle/introduction-a-l-ontologie/00-01-002-010",
+      "displayTitle": "Parágrafo 9",
+      "groupPath": [
+        {
+          "index": 1,
+          "inferred": false,
+          "key": "louis-lavelle/introduction-a-l-ontologie/00-01",
+          "kind": "part",
+          "label": "Primeira parte",
+          "title": "As categorias primeiras da ontologia"
+        },
+        {
+          "index": 2,
+          "inferred": false,
+          "key": "louis-lavelle/introduction-a-l-ontologie/00-01-002",
+          "kind": "chapter",
+          "label": "Ser",
+          "title": "Ser"
+        }
+      ],
+      "language": "pt",
+      "maturity": "draft",
+      "order": 10,
+      "publishable": false,
+      "routePath": "louis-lavelle/introducao-a-ontologia/00-01-002-010-paragrafo-9",
+      "segmentPrefix": "00-01-002-010",
+      "urlStability": "draft",
+      "workId": "louis-lavelle/introduction-a-l-ontologie"
+    }
+  ],
+  "source": "pipeline-export",
+  "work": {
+    "title": "Introdução à ontologia",
+    "workId": "louis-lavelle/introduction-a-l-ontologie"
+  }
+}
