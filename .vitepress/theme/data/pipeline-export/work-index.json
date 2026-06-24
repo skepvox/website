@@ -1,0 +1,41 @@
+{
+  "$schema": "skepvox-export-v1",
+  "generatedBy": "book-pipeline",
+  "routePolicy": "Public routes are presentation/publishing state, NOT identity: identity is canonicalId and the cross-edition pairing/order key is segmentPrefix; neither is ever a route. displayTitle (and its derived displaySlug) is the current editorial label and stays improvable forever -- URL permanence comes from a separate publishing layer, never from freezing the title. publicSlug is frozen at first publication (per edition) and stored in the per-work published-routes.yaml manifest. routePath uses the frozen publicSlug when present (urlStability 'stable'); otherwise the provisional displaySlug (urlStability 'provisional' if publishable, else 'draft'), which may change without a redirect until it is frozen. A deliberate publicSlug change is recorded in the manifest and 301-redirected; canonicalId never changes. Only 'stable' routes may be indexed/canonicalized. See docs/public-url-convention.md.",
+  "works": [
+    {
+      "author": "Louis Lavelle",
+      "authorSlug": "louis-lavelle",
+      "bookSlug": "introduction-a-l-ontologie",
+      "bundlePath": "works/louis-lavelle/introduction-a-l-ontologie.json",
+      "collapsedLevels": [],
+      "editions": [
+        {
+          "default": false,
+          "editionRole": "source",
+          "language": "fr",
+          "routePrefix": "louis-lavelle/introduction-a-l-ontologie",
+          "routeSlug": "introduction-a-l-ontologie",
+          "segmentCount": 99
+        },
+        {
+          "default": true,
+          "editionRole": "canonical",
+          "language": "pt",
+          "routePrefix": "louis-lavelle/introducao-a-ontologia",
+          "routeSlug": "introducao-a-ontologia",
+          "segmentCount": 99
+        }
+      ],
+      "maturity": "draft",
+      "publishable": false,
+      "referenceEditions": [],
+      "routeStability": "draft",
+      "segmentCount": 99,
+      "sourceLanguage": "fr",
+      "targetLanguage": "pt",
+      "title": "Introdução à ontologia",
+      "workId": "louis-lavelle/introduction-a-l-ontologie"
+    }
+  ]
+}
