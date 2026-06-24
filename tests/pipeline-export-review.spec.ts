@@ -47,19 +47,29 @@ function codeRefs(needle: string): string[] {
   return found.sort()
 }
 
-test.describe('pipeline-export review consumer (Slice 2C, buffer/noindex, no route migration)', () => {
-  test('the review page renders the authored Part -> Chapter structure from source:"pipeline-export"', () => {
+test.describe('pipeline-export review consumer (Slice 2C/2D, buffer/noindex, no route migration)', () => {
+  test('the default (pt) edition renders authored Part -> Chapter from source:"pipeline-export"', () => {
     const html = reviewHtml()
     expect(html).toContain('data-source="pipeline-export"')
-    // authored groupPath (inferred:false), fr edition — labels + titles, not synthesized "Partie 1"
-    expect(html).toContain('Première partie')
-    expect(html).toContain('Les catégories premières de') // authored part title (apostrophe-escape agnostic)
-    expect(html).toContain('Deuxième partie')
-    expect(html).toContain('Être') // fr chapter title
-    // pt edition is rendered too
+    expect(html).toContain('data-active="pt"') // default = canonical reading edition
+    // default edition (pt) authored groupPath (inferred:false): labels + titles, not synthesized "Parte 1"
     expect(html).toContain('Primeira parte')
     expect(html).toContain('As categorias primeiras da ontologia')
     expect(html).toContain('Ser') // pt chapter title
+    // both language buttons are present; the fr edition renders client-side on switch
+    expect(html).toContain('Português')
+    expect(html).toContain('Français')
+  })
+
+  test('the compare/QA block reports 99/99/99, matched canonicalIds, and draft state', () => {
+    const html = reviewHtml()
+    // tolerant of Vue's scoped data-v-* attribute between the attr and ">"
+    expect(html).toMatch(/data-qa="canonical"[^>]*>\s*99\s*</)
+    expect(html).toMatch(/data-qa="fr"[^>]*>\s*99\s*</)
+    expect(html).toMatch(/data-qa="pt"[^>]*>\s*99\s*</)
+    expect(html).toMatch(/data-qa="ids-match"[^>]*>\s*matched/)
+    expect(html).toMatch(/data-qa="route-stability"[^>]*>\s*draft\s*</)
+    expect(html).toMatch(/data-qa="maturity"[^>]*>\s*draft\s*</)
   })
 
   test('99 fr + 99 pt records are available, but no 198 public pages are generated', () => {
@@ -138,6 +148,37 @@ test.describe('pipeline-export review consumer (Slice 2C, buffer/noindex, no rou
     await page.goto('/reading-review/introduction-a-l-ontologie')
     await expect(page.locator('[data-source="pipeline-export"]').first()).toBeVisible()
     await expect(page.locator('.work-contents')).toHaveCount(0) // WorkContents is NOT mounted here
+  })
+
+  test('language switcher: default pt; switching to fr updates content with no navigation; routePath is never a link', async ({
+    page
+  }) => {
+    await page.goto('/reading-review/introduction-a-l-ontologie')
+    const url = page.url()
+    const switcher = page.locator('[data-testid="pe-lang-switch"]')
+    const pt = switcher.getByRole('button', { name: 'Português' })
+    const fr = switcher.getByRole('button', { name: 'Français' })
+
+    // default = Português (canonical reading edition)
+    await expect(pt).toHaveAttribute('aria-pressed', 'true')
+    await expect(fr).toHaveAttribute('aria-pressed', 'false')
+    await expect(page.getByText('Primeira parte', { exact: false }).first()).toBeVisible()
+
+    // switch to Français — content updates client-side, no navigation
+    await fr.click()
+    await expect(fr).toHaveAttribute('aria-pressed', 'true')
+    await expect(pt).toHaveAttribute('aria-pressed', 'false')
     await expect(page.getByText('Première partie', { exact: false }).first()).toBeVisible()
+    await expect(
+      page.getByText('Les catégories premières de', { exact: false }).first()
+    ).toBeVisible()
+    await expect(page.getByText('Être', { exact: false }).first()).toBeVisible()
+    await expect(page.getByText('Primeira parte', { exact: false })).toHaveCount(0)
+    expect(page.url()).toBe(url) // no URL/navigation change
+
+    // routePath is shown only as QA data: the review component itself renders NO anchors
+    // (the page H1's header-anchor permalink is VitePress chrome, outside the component).
+    await expect(page.locator('[data-testid="pe-routepaths"]')).toHaveCount(1)
+    await expect(page.locator('[data-source="pipeline-export"] a')).toHaveCount(0)
   })
 })
