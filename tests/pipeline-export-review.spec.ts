@@ -61,30 +61,32 @@ test.describe('pipeline-export review consumer (Slice 2C/2D, buffer/noindex, no 
     expect(html).toContain('Français')
   })
 
-  test('the compare/QA block reports 99/99/99, matched canonicalIds, and draft state', () => {
+  test('the compare/QA block reports 99/99/99, matched canonicalIds, and the minted pt state', () => {
     const html = reviewHtml()
     // tolerant of Vue's scoped data-v-* attribute between the attr and ">"
     expect(html).toMatch(/data-qa="canonical"[^>]*>\s*99\s*</)
     expect(html).toMatch(/data-qa="fr"[^>]*>\s*99\s*</)
     expect(html).toMatch(/data-qa="pt"[^>]*>\s*99\s*</)
     expect(html).toMatch(/data-qa="ids-match"[^>]*>\s*matched/)
-    expect(html).toMatch(/data-qa="route-stability"[^>]*>\s*draft\s*</)
+    // the pt canonical edition has been minted: routeStability rolls up to stable; maturity is still draft
+    expect(html).toMatch(/data-qa="route-stability"[^>]*>\s*stable\s*</)
     expect(html).toMatch(/data-qa="maturity"[^>]*>\s*draft\s*</)
   })
 
-  test('99 fr + 99 pt records are available, but no 198 public pages are generated', () => {
+  test('99 fr + 99 pt records; the pt public family is built and the hidden review family is gone', () => {
     const segs = artifact().segments
     expect(segs.filter((s: any) => s.language === 'fr').length).toBe(99)
     expect(segs.filter((s: any) => s.language === 'pt').length).toBe(99)
-    // the localized pt route family does not exist as built pages
-    expect(fs.existsSync(path.join(DIST, 'louis-lavelle/introducao-a-ontologia'))).toBe(false)
-    // sample segment routePaths (fr + pt) are NOT built into pages
+    // the minted pt family is now built at its PUBLIC namespace...
+    expect(builtExists('/louis-lavelle/introducao-a-ontologia/00-01-002-008-paragrafo-7')).toBe(
+      true
+    )
+    // ...and the earlier HIDDEN duplicate under reading-review/ is gone (no duplicate route family)
+    expect(fs.existsSync(path.join(DIST, 'reading-review/introducao-a-ontologia'))).toBe(false)
+    // the fr source edition is NOT generated as a public segment family (only its 12 chapter pages)
     expect(
       builtExists('/louis-lavelle/introduction-a-l-ontologie/00-01-002-008-paragraphe-7')
     ).toBe(false)
-    expect(builtExists('/louis-lavelle/introducao-a-ontologia/00-01-002-008-paragrafo-7')).toBe(
-      false
-    )
   })
 
   test('the existing 12 live fr chapter routes (and the hub) still resolve', () => {

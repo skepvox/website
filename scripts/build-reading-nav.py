@@ -42,9 +42,13 @@ def strip_quotes(value: str) -> str:
     return value
 
 
-def display_title(path: Path) -> str:
+def _frontmatter_block(path: Path) -> str:
     match = FRONTMATTER_RE.match(path.read_text(encoding="utf-8"))
-    block = match.group(1) if match else ""
+    return match.group(1) if match else ""
+
+
+def display_title(path: Path) -> str:
+    block = _frontmatter_block(path)
     for key in TITLE_KEYS:
         found = re.search(rf"(?m)^{key}:\s*(.+?)\s*$", block)
         if found:
@@ -52,11 +56,20 @@ def display_title(path: Path) -> str:
     return path.stem
 
 
+def _is_pipeline_generated(path: Path) -> bool:
+    # Pipeline-export segment-route pages carry their own data path (pipeline-export metadata +
+    # PipelineSegmentRoute), separate from the hand-authored reading-nav / segment-manifest / WorkContents
+    # system. Keep them out of reading-nav so that legacy system is not rewired.
+    return bool(re.search(r"(?m)^generated:\s*pipeline-segment-routes\s*$", _frontmatter_block(path)))
+
+
 def build() -> dict[str, list[list[str]]]:
     by_work: dict[Path, list[Path]] = defaultdict(list)
     for pattern in LEAF_GLOBS:
         for leaf in SRC.glob(pattern):
             if leaf.name.lower() in SKIP_NAMES:
+                continue
+            if _is_pipeline_generated(leaf):
                 continue
             by_work[leaf.parent].append(leaf)
 

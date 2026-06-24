@@ -2,21 +2,21 @@ import { test, expect } from '@playwright/test'
 import fs from 'node:fs'
 import path from 'node:path'
 
-// Slice 2J — the real 99-segment route family for Introdução à ontologia, kept HIDDEN.
-// docs/introduction-a-ontologia-live-migration-plan.md §4(ii)/§5. pt review edition generated under
-// src/reading-review/introducao-a-ontologia/ behind buffer:true / search:false / noindex, out of
-// sitemap / local search / LLM. The 12 live fr chapter pages + hub are untouched; nothing is published.
+// Slice 2J/2L — the real pt segment route family, now at its PUBLIC namespace.
+// docs/introduction-a-ontologia-live-migration-plan.md §4. The pipeline minted the pt edition
+// (urlStability:stable + publicSlug), so the 99 pt pages are generated under
+// src/louis-lavelle/introducao-a-ontologia/<routePath-leaf>.md and are indexable. The earlier HIDDEN
+// duplicate under reading-review/ is removed. routePath is presentation; canonicalId is identity.
+// Redirects from the old fr chapter URLs are NOT enabled yet (go-live is one slice away).
 const DIST = path.resolve('.vitepress/dist')
 const META = path.resolve('.vitepress/theme/data/pipeline-export-segments.json')
-const GEN_DIR = path.resolve('src/reading-review/introducao-a-ontologia')
+const PUBLIC_DIR = path.resolve('src/louis-lavelle/introducao-a-ontologia')
 const REDIRECTS = path.resolve('src/public/_redirects')
-const ORIGIN = 'https://www.skepvox.com'
 
 const read = (p: string) => JSON.parse(fs.readFileSync(p, 'utf-8'))
 const ptSegments = () => read(META).segments.filter((s: any) => s.language === 'pt')
-// the hidden review route = reading-review namespace + the real pt routePath leaf
-const hiddenRoute = (s: any) =>
-  `/reading-review/introducao-a-ontologia/${s.routePath.split('/').pop()}`
+const publicRoute = (s: any) =>
+  `/louis-lavelle/introducao-a-ontologia/${s.routePath.split('/').pop()}`
 
 function builtExists(href: string): boolean {
   if (href.endsWith('/')) return fs.existsSync(path.join(DIST, href, 'index.html'))
@@ -26,34 +26,35 @@ function builtExists(href: string): boolean {
   )
 }
 
-const sitemapUrls = () =>
-  new Set(
-    [
-      ...fs
-        .readFileSync(path.resolve(DIST, 'sitemap.xml'), 'utf-8')
-        .matchAll(/<loc>([^<]+)<\/loc>/g)
-    ].map((m) => m[1].replace(ORIGIN, ''))
-  )
-
-test.describe('pipeline-export hidden 99-segment route family (Slice 2J, buffer/noindex)', () => {
-  test('all 99 hidden pt segment routes build (one generated page each)', () => {
+test.describe('pipeline pt segment route family (Slice 2J/2L, public namespace, not yet redirected)', () => {
+  test('all 99 pt segment pages build at the public namespace, one per segment', () => {
     const pt = ptSegments()
     expect(pt.length).toBe(99)
-    for (const s of pt) expect(builtExists(hiddenRoute(s)), hiddenRoute(s)).toBe(true)
-    // exactly 99 generated source pages, all carrying the generated marker + hidden frontmatter
-    const files = fs.readdirSync(GEN_DIR).filter((f) => f.endsWith('.md'))
+    for (const s of pt) expect(builtExists(publicRoute(s)), publicRoute(s)).toBe(true)
+    const files = fs.readdirSync(PUBLIC_DIR).filter((f) => f.endsWith('.md'))
     expect(files.length).toBe(99)
     for (const f of files) {
-      const t = fs.readFileSync(path.join(GEN_DIR, f), 'utf-8')
+      const t = fs.readFileSync(path.join(PUBLIC_DIR, f), 'utf-8')
       expect(t).toContain('generated: pipeline-segment-routes')
-      expect(t).toMatch(/^buffer: true$/m)
-      expect(t).toMatch(/^search: false$/m)
-      expect(t).toContain("name: 'robots', content: 'noindex'")
-      expect(t).toContain('pipelineCanonicalId:') // (canonicalId, language) join, not routePath
+      expect(t).toContain('pipelineCanonicalId:') // (canonicalId, language) join key, not routePath
     }
   })
 
-  test('the 12 live fr chapter routes (and the hub) still resolve', () => {
+  test('the earlier HIDDEN reading-review pt family is gone (no duplicate route family)', () => {
+    expect(fs.existsSync(path.resolve('src/reading-review/introducao-a-ontologia'))).toBe(false)
+    expect(fs.existsSync(path.join(DIST, 'reading-review/introducao-a-ontologia'))).toBe(false)
+    // the 4 hand-written demo pages still exist (kept, noindex/unlisted)
+    for (const demo of [
+      'introduction-a-l-ontologie',
+      'introduction-a-l-ontologie-segment',
+      'introduction-a-l-ontologie-window',
+      'introduction-a-l-ontologie-reader'
+    ]) {
+      expect(builtExists(`/reading-review/${demo}`), demo).toBe(true)
+    }
+  })
+
+  test('the 12 live fr chapter routes (and the hub) still resolve before redirects are enabled', () => {
     const work = '/louis-lavelle/introduction-a-l-ontologie'
     expect(builtExists(work)).toBe(true)
     const stems = fs
@@ -64,78 +65,31 @@ test.describe('pipeline-export hidden 99-segment route family (Slice 2J, buffer/
     for (const stem of stems) expect(builtExists(`${work}/${stem}`), stem).toBe(true)
   })
 
-  test('the new routes are noindex and out of sitemap / search / LLM', () => {
-    const pt = ptSegments()
-    // noindex on a sample built page
-    const sample = fs.readFileSync(
-      path.join(DIST, 'reading-review/introducao-a-ontologia/00-01-002-008-paragrafo-7.html'),
-      'utf-8'
-    )
-    expect(sample).toMatch(/name="robots"[^>]*content="noindex"/)
-    // none of the 99 hidden routes appear in the sitemap
-    const urls = sitemapUrls()
-    for (const s of pt) expect(urls.has(hiddenRoute(s)), hiddenRoute(s)).toBe(false)
-    expect([...urls].some((u) => u.includes('introducao-a-ontologia'))).toBe(false)
-    // out of LLM output (reading-review/** is ignored)
-    const llms = path.resolve(DIST, 'llms-full.txt')
-    if (fs.existsSync(llms)) {
-      expect(fs.readFileSync(llms, 'utf-8').includes('introducao-a-ontologia')).toBe(false)
-    }
-  })
-
-  test('the family is isolated: reading-nav, segment-manifest, and the redirect-map are unaffected', () => {
-    const readingNav = read(path.resolve('.vitepress/theme/data/reading-nav.json'))
-    expect(Object.keys(readingNav).some((k) => k.includes('introducao-a-ontologia'))).toBe(false)
-    expect(Object.keys(readingNav).some((k) => k.includes('reading-review'))).toBe(false)
-
-    const manifest = read(path.resolve('.vitepress/theme/data/segment-manifest.json'))
-    const blob = JSON.stringify(manifest)
-    expect(blob.includes('introducao-a-ontologia')).toBe(false)
-
-    // WorkContentsMount allowlist unchanged (no public WorkContents rewiring)
-    const mount = fs.readFileSync(
-      path.resolve('.vitepress/theme/components/WorkContentsMount.vue'),
-      'utf-8'
-    )
-    expect(mount).toContain(
-      "new Set(['louis-lavelle/de-l-acte.md', 'literatura/machado-de-assis/bras-cubas.md'])"
-    )
-
-    // redirect-map remains not-enabled; no _redirects
+  test('redirects are NOT enabled (no _redirects, redirect-map still not-enabled)', () => {
+    expect(fs.existsSync(REDIRECTS)).toBe(false)
     const rmap = read(
       path.resolve('.vitepress/theme/data/pipeline-redirect-map-introduction-a-l-ontologie.json')
     )
     expect(rmap.status).toBe('not-enabled')
-    expect(fs.existsSync(REDIRECTS)).toBe(false)
   })
 
-  test('routePath is never identity: pages join by (canonicalId, language) and render no anchors', async ({
+  test('routePath is presentation only: pages join by (canonicalId, language); the component emits no anchors', async ({
     page
   }) => {
-    // the component joins on canonicalId, not routePath
     const comp = fs.readFileSync(
       path.resolve('.vitepress/theme/components/PipelineSegmentRoute.vue'),
       'utf-8'
     )
     expect(comp).toContain('s.canonicalId === canonicalId.value && s.language === lang.value')
 
-    // a LOADED segment (in the preview window) renders prose; no anchors anywhere in the component
-    await page.goto('/reading-review/introducao-a-ontologia/00-01-002-008-paragrafo-7')
+    await page.goto('/louis-lavelle/introducao-a-ontologia/00-01-002-008-paragrafo-7')
     const leaf = page.locator('[data-source="pipeline-export"]')
     await expect(leaf).toHaveAttribute('data-segment', '00-01-002-008')
-    await expect(leaf).toHaveAttribute('data-loaded', 'true')
+    await expect(leaf).toHaveAttribute('data-loaded', 'true') // in the vendored prose window
     await expect(
       page.getByText('na simples enunciação da palavra ser', { exact: false })
     ).toBeVisible()
+    // the segment component renders no anchors (routePath is QA data, never an href)
     await expect(leaf.locator('a')).toHaveCount(0)
-
-    // an UNLOADED segment renders metadata + the not-vendored notice, no prose
-    await page.goto('/reading-review/introducao-a-ontologia/00-00-000-001-advertencia')
-    const leaf2 = page.locator('[data-source="pipeline-export"]')
-    await expect(leaf2).toHaveAttribute('data-segment', '00-00-000-001')
-    await expect(leaf2).toHaveAttribute('data-loaded', 'false')
-    await expect(page.locator('[data-testid="pe-route-notice"]')).toBeVisible()
-    await expect(leaf2.locator('.pe-route__prose')).toHaveCount(0)
-    await expect(leaf2.locator('a')).toHaveCount(0)
   })
 })

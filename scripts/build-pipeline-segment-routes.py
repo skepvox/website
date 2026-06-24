@@ -1,18 +1,21 @@
 #!/usr/bin/env python3
-"""Generate the real 99-segment route family for Introdução à ontologia, kept HIDDEN (Slice 2J).
+"""Generate the real pt segment route family for Introdução à ontologia at its PUBLIC namespace.
 
-Per docs/introduction-a-ontologia-live-migration-plan.md §4(ii)/§5: stand up the actual per-segment
-route family from the pipeline export, but behind buffer:true / search:false / robots noindex, fully
-out of sitemap / local search / LLM output. This exercises the real route shape + the
-(canonicalId, language) join + authored groupPath under production rendering, while every public
-surface stays closed and the 12 live fr chapter pages + hub are untouched.
+Per docs/introduction-a-ontologia-live-migration-plan.md §4: now that the pipeline has minted
+publicSlug / urlStability:stable for the pt canonical edition (vendored into
+pipeline-export-segments.json), generate one page per pt segment under the real public namespace
+src/louis-lavelle/introducao-a-ontologia/<routePath-leaf>.md. Per-page visibility is decided by the
+stability-aware gate (scripts/pipeline_gate.py, route_visibility): stable+publicSlug -> indexable
+(no buffer/search:false/noindex); draft/provisional -> hidden (buffer + search:false + noindex). Today
+all 99 pt segments are stable, so all 99 are indexable public pages.
 
-Chosen review edition: pt (the contract's canonical/default reading edition). Pages are written under
-src/reading-review/introducao-a-ontologia/ — the established HIDDEN namespace, which the
-reading-nav / sidebar / segment-manifest builders never sweep (their globs are literatura/louis-lavelle
-only) and which config.ts already excludes from LLM output (ignoreFiles 'reading-review/**'). The leaf
-filename is the pt routePath leaf (real public leaf shape); the eventual public flip relocates the
-family to louis-lavelle/introducao-a-ontologia/ with redirects + stability gating (a later slice).
+The leaf filename is the pt routePath leaf (the real public URL shape). These pages are deliberately
+kept OUT of the legacy hand-authored reading system: build-reading-nav skips them (they carry a
+`generated: pipeline-segment-routes` marker), and they are in no works.json registry, so reading-nav /
+sidebar / segment-manifest / WorkContents are untouched. The pipeline family has its own data path
+(pipeline-export metadata + PipelineSegmentRoute); a dedicated public reader nav is a later slice.
+Redirects from the old fr chapter URLs are NOT enabled here (the redirect map stays
+status:not-enabled); go-live is a later slice.
 
 Each page carries the (canonicalId, language) join key in frontmatter; routePath is presentation only
 and is NEVER used as an identity/join key. Reads only committed metadata; deterministic + idempotent.
@@ -25,16 +28,17 @@ from pipeline_gate import route_visibility
 
 ROOT = Path(__file__).resolve().parent.parent
 META = ROOT / ".vitepress" / "theme" / "data" / "pipeline-export-segments.json"
-OUT_DIR = ROOT / "src" / "reading-review" / "introducao-a-ontologia"
+OUT_DIR = ROOT / "src" / "louis-lavelle" / "introducao-a-ontologia"
 EDITION = "pt"
 GENERATED_MARKER = "pipeline-segment-routes"
 
 
 def page_text(rec: dict) -> str:
-    # Visibility is decided by the stability-aware publication gate, never hardcoded. Today every
-    # segment is urlStability:draft / publicSlug:null -> hidden, so this emits buffer + search:false +
-    # noindex (byte-identical to before). A stable+publicSlug segment would instead emit an indexable
-    # page; nothing here mints publicSlug or changes urlStability.
+    # Visibility is decided by the stability-aware publication gate, never hardcoded. A
+    # stable+publicSlug segment emits an INDEXABLE page (no buffer / search:false / noindex); a
+    # draft/provisional segment emits a hidden page (buffer + search:false + noindex). Today all 99 pt
+    # segments are stable, so this emits 99 indexable public pages. Nothing here mints publicSlug or
+    # changes urlStability — that is the pipeline's job, surfaced via the vendored export.
     vis = route_visibility(rec)
     lines = ["---", f"title: {json.dumps(rec['displayTitle'], ensure_ascii=False)}"]
     if vis["buffer"]:
@@ -88,7 +92,7 @@ def main() -> None:
     if changed == 0:
         print("No segment-routes changes.")
     else:
-        print(f"segment-routes: {len(desired)} hidden pt pages ({changed} changed)")
+        print(f"segment-routes: {len(desired)} pt pages ({changed} changed)")
 
 
 if __name__ == "__main__":

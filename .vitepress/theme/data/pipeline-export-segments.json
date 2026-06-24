@@ -25,12 +25,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 1,
-      "publicSlug": null,
+      "publicSlug": "advertencia",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-00-000-001-advertencia",
       "segmentPrefix": "00-00-000-001",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -89,12 +89,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 2,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-1",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-001-002-paragrafo-1",
       "segmentPrefix": "00-01-001-002",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -153,12 +153,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 3,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-2",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-001-003-paragrafo-2",
       "segmentPrefix": "00-01-001-003",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -217,12 +217,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 4,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-3",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-001-004-paragrafo-3",
       "segmentPrefix": "00-01-001-004",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -281,12 +281,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 5,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-4",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-001-005-paragrafo-4",
       "segmentPrefix": "00-01-001-005",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -345,12 +345,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 6,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-5",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-001-006-paragrafo-5",
       "segmentPrefix": "00-01-001-006",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -409,12 +409,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 7,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-6",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-001-007-paragrafo-6",
       "segmentPrefix": "00-01-001-007",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -473,12 +473,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 8,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-7",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-002-008-paragrafo-7",
       "segmentPrefix": "00-01-002-008",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -537,12 +537,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 9,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-8",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-002-009-paragrafo-8",
       "segmentPrefix": "00-01-002-009",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -601,12 +601,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 10,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-9",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-002-010-paragrafo-9",
       "segmentPrefix": "00-01-002-010",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -665,12 +665,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 11,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-10",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-002-011-paragrafo-10",
       "segmentPrefix": "00-01-002-011",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -729,12 +729,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 12,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-11",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-002-012-paragrafo-11",
       "segmentPrefix": "00-01-002-012",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -793,12 +793,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 13,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-12",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-002-013-paragrafo-12",
       "segmentPrefix": "00-01-002-013",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -857,12 +857,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 14,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-13",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-002-014-paragrafo-13",
       "segmentPrefix": "00-01-002-014",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -921,12 +921,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 15,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-14",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-002-015-paragrafo-14",
       "segmentPrefix": "00-01-002-015",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -985,12 +985,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 16,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-15",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-002-016-paragrafo-15",
       "segmentPrefix": "00-01-002-016",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -1049,12 +1049,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 17,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-16",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-002-017-paragrafo-16",
       "segmentPrefix": "00-01-002-017",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -1113,12 +1113,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 18,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-17",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-002-018-paragrafo-17",
       "segmentPrefix": "00-01-002-018",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -1177,12 +1177,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 19,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-18",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-002-019-paragrafo-18",
       "segmentPrefix": "00-01-002-019",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -1241,12 +1241,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 20,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-19",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-002-020-paragrafo-19",
       "segmentPrefix": "00-01-002-020",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -1305,12 +1305,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 21,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-20",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-003-021-paragrafo-20",
       "segmentPrefix": "00-01-003-021",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -1369,12 +1369,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 22,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-21",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-003-022-paragrafo-21",
       "segmentPrefix": "00-01-003-022",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -1433,12 +1433,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 23,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-22",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-003-023-paragrafo-22",
       "segmentPrefix": "00-01-003-023",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -1497,12 +1497,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 24,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-23",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-003-024-paragrafo-23",
       "segmentPrefix": "00-01-003-024",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -1561,12 +1561,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 25,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-24",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-003-025-paragrafo-24",
       "segmentPrefix": "00-01-003-025",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -1625,12 +1625,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 26,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-25",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-003-026-paragrafo-25",
       "segmentPrefix": "00-01-003-026",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -1689,12 +1689,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 27,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-26",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-003-027-paragrafo-26",
       "segmentPrefix": "00-01-003-027",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -1753,12 +1753,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 28,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-27",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-003-028-paragrafo-27",
       "segmentPrefix": "00-01-003-028",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -1817,12 +1817,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 29,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-28",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-003-029-paragrafo-28",
       "segmentPrefix": "00-01-003-029",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -1881,12 +1881,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 30,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-29",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-003-030-paragrafo-29",
       "segmentPrefix": "00-01-003-030",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -1945,12 +1945,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 31,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-30",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-003-031-paragrafo-30",
       "segmentPrefix": "00-01-003-031",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -2009,12 +2009,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 32,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-31",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-003-032-paragrafo-31",
       "segmentPrefix": "00-01-003-032",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -2073,12 +2073,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 33,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-32",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-003-033-paragrafo-32",
       "segmentPrefix": "00-01-003-033",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -2137,12 +2137,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 34,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-33",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-004-034-paragrafo-33",
       "segmentPrefix": "00-01-004-034",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -2201,12 +2201,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 35,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-34",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-004-035-paragrafo-34",
       "segmentPrefix": "00-01-004-035",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -2265,12 +2265,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 36,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-35",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-004-036-paragrafo-35",
       "segmentPrefix": "00-01-004-036",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -2329,12 +2329,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 37,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-36",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-004-037-paragrafo-36",
       "segmentPrefix": "00-01-004-037",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -2393,12 +2393,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 38,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-37",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-004-038-paragrafo-37",
       "segmentPrefix": "00-01-004-038",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -2457,12 +2457,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 39,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-38",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-004-039-paragrafo-38",
       "segmentPrefix": "00-01-004-039",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -2521,12 +2521,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 40,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-39",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-004-040-paragrafo-39",
       "segmentPrefix": "00-01-004-040",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -2585,12 +2585,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 41,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-40",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-004-041-paragrafo-40",
       "segmentPrefix": "00-01-004-041",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -2649,12 +2649,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 42,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-41",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-004-042-paragrafo-41",
       "segmentPrefix": "00-01-004-042",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -2713,12 +2713,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 43,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-42",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-004-043-paragrafo-42",
       "segmentPrefix": "00-01-004-043",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -2777,12 +2777,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 44,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-43",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-004-044-paragrafo-43",
       "segmentPrefix": "00-01-004-044",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -2841,12 +2841,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 45,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-44",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-005-045-paragrafo-44",
       "segmentPrefix": "00-01-005-045",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -2905,12 +2905,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 46,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-45",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-005-046-paragrafo-45",
       "segmentPrefix": "00-01-005-046",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -2969,12 +2969,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 47,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-46",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-005-047-paragrafo-46",
       "segmentPrefix": "00-01-005-047",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -3033,12 +3033,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 48,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-47",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-005-048-paragrafo-47",
       "segmentPrefix": "00-01-005-048",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -3097,12 +3097,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 49,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-48",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-005-049-paragrafo-48",
       "segmentPrefix": "00-01-005-049",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -3161,12 +3161,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 50,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-49",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-01-005-050-paragrafo-49",
       "segmentPrefix": "00-01-005-050",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -3225,12 +3225,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 51,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-50",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-001-051-paragrafo-50",
       "segmentPrefix": "00-02-001-051",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -3289,12 +3289,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 52,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-51",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-001-052-paragrafo-51",
       "segmentPrefix": "00-02-001-052",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -3353,12 +3353,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 53,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-52",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-001-053-paragrafo-52",
       "segmentPrefix": "00-02-001-053",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -3417,12 +3417,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 54,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-53",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-001-054-paragrafo-53",
       "segmentPrefix": "00-02-001-054",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -3481,12 +3481,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 55,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-54",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-001-055-paragrafo-54",
       "segmentPrefix": "00-02-001-055",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -3545,12 +3545,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 56,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-55",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-001-056-paragrafo-55",
       "segmentPrefix": "00-02-001-056",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -3609,12 +3609,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 57,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-56",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-001-057-paragrafo-56",
       "segmentPrefix": "00-02-001-057",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -3673,12 +3673,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 58,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-57",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-002-058-paragrafo-57",
       "segmentPrefix": "00-02-002-058",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -3737,12 +3737,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 59,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-58",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-002-059-paragrafo-58",
       "segmentPrefix": "00-02-002-059",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -3801,12 +3801,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 60,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-59",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-002-060-paragrafo-59",
       "segmentPrefix": "00-02-002-060",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -3865,12 +3865,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 61,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-60",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-002-061-paragrafo-60",
       "segmentPrefix": "00-02-002-061",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -3929,12 +3929,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 62,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-61",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-002-062-paragrafo-61",
       "segmentPrefix": "00-02-002-062",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -3993,12 +3993,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 63,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-62",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-002-063-paragrafo-62",
       "segmentPrefix": "00-02-002-063",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -4057,12 +4057,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 64,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-63",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-002-064-paragrafo-63",
       "segmentPrefix": "00-02-002-064",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -4121,12 +4121,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 65,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-64",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-002-065-paragrafo-64",
       "segmentPrefix": "00-02-002-065",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -4185,12 +4185,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 66,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-65",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-002-066-paragrafo-65",
       "segmentPrefix": "00-02-002-066",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -4249,12 +4249,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 67,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-66",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-002-067-paragrafo-66",
       "segmentPrefix": "00-02-002-067",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -4313,12 +4313,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 68,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-67",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-002-068-paragrafo-67",
       "segmentPrefix": "00-02-002-068",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -4377,12 +4377,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 69,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-68",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-002-069-paragrafo-68",
       "segmentPrefix": "00-02-002-069",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -4441,12 +4441,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 70,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-69",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-002-070-paragrafo-69",
       "segmentPrefix": "00-02-002-070",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -4505,12 +4505,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 71,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-70",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-003-071-paragrafo-70",
       "segmentPrefix": "00-02-003-071",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -4569,12 +4569,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 72,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-71",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-003-072-paragrafo-71",
       "segmentPrefix": "00-02-003-072",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -4633,12 +4633,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 73,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-72",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-003-073-paragrafo-72",
       "segmentPrefix": "00-02-003-073",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -4697,12 +4697,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 74,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-73",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-003-074-paragrafo-73",
       "segmentPrefix": "00-02-003-074",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -4761,12 +4761,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 75,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-74",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-003-075-paragrafo-74",
       "segmentPrefix": "00-02-003-075",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -4825,12 +4825,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 76,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-75",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-003-076-paragrafo-75",
       "segmentPrefix": "00-02-003-076",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -4889,12 +4889,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 77,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-76",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-003-077-paragrafo-76",
       "segmentPrefix": "00-02-003-077",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -4953,12 +4953,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 78,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-77",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-003-078-paragrafo-77",
       "segmentPrefix": "00-02-003-078",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -5017,12 +5017,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 79,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-78",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-003-079-paragrafo-78",
       "segmentPrefix": "00-02-003-079",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -5081,12 +5081,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 80,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-79",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-003-080-paragrafo-79",
       "segmentPrefix": "00-02-003-080",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -5145,12 +5145,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 81,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-80",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-003-081-paragrafo-80",
       "segmentPrefix": "00-02-003-081",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -5209,12 +5209,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 82,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-81",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-004-082-paragrafo-81",
       "segmentPrefix": "00-02-004-082",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -5273,12 +5273,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 83,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-82",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-004-083-paragrafo-82",
       "segmentPrefix": "00-02-004-083",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -5337,12 +5337,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 84,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-83",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-004-084-paragrafo-83",
       "segmentPrefix": "00-02-004-084",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -5401,12 +5401,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 85,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-84",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-004-085-paragrafo-84",
       "segmentPrefix": "00-02-004-085",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -5465,12 +5465,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 86,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-85",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-004-086-paragrafo-85",
       "segmentPrefix": "00-02-004-086",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -5529,12 +5529,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 87,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-86",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-004-087-paragrafo-86",
       "segmentPrefix": "00-02-004-087",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -5593,12 +5593,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 88,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-87",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-004-088-paragrafo-87",
       "segmentPrefix": "00-02-004-088",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -5657,12 +5657,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 89,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-88",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-004-089-paragrafo-88",
       "segmentPrefix": "00-02-004-089",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -5721,12 +5721,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 90,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-89",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-004-090-paragrafo-89",
       "segmentPrefix": "00-02-004-090",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -5785,12 +5785,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 91,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-90",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-004-091-paragrafo-90",
       "segmentPrefix": "00-02-004-091",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -5849,12 +5849,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 92,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-91",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-005-092-paragrafo-91",
       "segmentPrefix": "00-02-005-092",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -5913,12 +5913,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 93,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-92",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-005-093-paragrafo-92",
       "segmentPrefix": "00-02-005-093",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -5977,12 +5977,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 94,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-93",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-005-094-paragrafo-93",
       "segmentPrefix": "00-02-005-094",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -6041,12 +6041,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 95,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-94",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/00-02-005-095-paragrafo-94",
       "segmentPrefix": "00-02-005-095",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -6071,12 +6071,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 96,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-95",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/99-99-999-096-paragrafo-95",
       "segmentPrefix": "99-99-999-096",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -6101,12 +6101,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 97,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-96",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/99-99-999-097-paragrafo-96",
       "segmentPrefix": "99-99-999-097",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -6131,12 +6131,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 98,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-97",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/99-99-999-098-paragrafo-97",
       "segmentPrefix": "99-99-999-098",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     },
     {
@@ -6161,12 +6161,12 @@
       "language": "pt",
       "maturity": "draft",
       "order": 99,
-      "publicSlug": null,
+      "publicSlug": "paragrafo-98",
       "publishable": false,
       "routePath": "louis-lavelle/introducao-a-ontologia/99-99-999-099-paragrafo-98",
       "segmentPrefix": "99-99-999-099",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
     }
   ],
@@ -6197,7 +6197,7 @@
     "maturity": "draft",
     "publishable": false,
     "referenceEditions": [],
-    "routeStability": "draft",
+    "routeStability": "stable",
     "segmentCount": 99,
     "sourceLanguage": "fr",
     "targetLanguage": "pt",

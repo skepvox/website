@@ -84,12 +84,13 @@ test.describe('pipeline-export reading-flow preview (Slice 2F, buffer/noindex, n
     }
   })
 
-  test('no public segment routes / redirects are created', () => {
+  test('the window page creates no routes; no hidden pt duplicate; redirects disabled', () => {
     expect(builtExists('/reading-review/introduction-a-l-ontologie-window')).toBe(true)
     // the earlier review surfaces still build
     expect(builtExists('/reading-review/introduction-a-l-ontologie')).toBe(true)
     expect(builtExists('/reading-review/introduction-a-l-ontologie-segment')).toBe(true)
-    expect(fs.existsSync(path.join(DIST, 'louis-lavelle/introducao-a-ontologia'))).toBe(false)
+    // the earlier HIDDEN pt family under reading-review/ is gone (relocated to the public namespace)
+    expect(fs.existsSync(path.join(DIST, 'reading-review/introducao-a-ontologia'))).toBe(false)
     expect(
       builtExists('/louis-lavelle/introduction-a-l-ontologie/00-01-002-008-paragraphe-7')
     ).toBe(false)

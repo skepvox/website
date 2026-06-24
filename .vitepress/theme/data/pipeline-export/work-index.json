@@ -30,7 +30,7 @@
       "maturity": "draft",
       "publishable": false,
       "referenceEditions": [],
-      "routeStability": "draft",
+      "routeStability": "stable",
       "segmentCount": 99,
       "sourceLanguage": "fr",
       "targetLanguage": "pt",

@@ -3,30 +3,22 @@ import fs from 'node:fs'
 import path from 'node:path'
 import { execFileSync } from 'node:child_process'
 
-// Slice 2K — stability-aware publication gate. Makes the publication switch explicit + testable
-// BEFORE any public flip. The gate (scripts/pipeline_gate.py) decides per-segment visibility from
-// pipeline metadata: eligible (public) iff urlStability=="stable" AND publicSlug present; everything
-// else hidden (buffer/noindex, out of sitemap/search/LLM). It never mints publicSlug or changes
-// urlStability. The 99 generated pt pages are wired through it; all stay hidden today.
+// Slice 2K/2L — stability-aware publication gate, now exercised by the live migration. The gate
+// (scripts/pipeline_gate.py) decides per-segment visibility from pipeline metadata: eligible (public)
+// iff urlStability=="stable" AND publicSlug present; everything else hidden (buffer/noindex, out of
+// sitemap/search/LLM). The pipeline has minted the pt edition, so the 99 pt pages are now INDEXABLE in
+// the public namespace; the reading-review/** demo surfaces stay noindex/excluded.
 const DIST = path.resolve('.vitepress/dist')
 const META = path.resolve('.vitepress/theme/data/pipeline-export-segments.json')
 const GATE = path.resolve('scripts/pipeline_gate.py')
 const GEN_SCRIPT = path.resolve('scripts/build-pipeline-segment-routes.py')
-const GEN_DIR = path.resolve('src/reading-review/introducao-a-ontologia')
+const GEN_DIR = path.resolve('src/louis-lavelle/introducao-a-ontologia')
 const REDIRECTS = path.resolve('src/public/_redirects')
 const ORIGIN = 'https://www.skepvox.com'
 
 const read = (p: string) => JSON.parse(fs.readFileSync(p, 'utf-8'))
 const gate = (seg: object) =>
   JSON.parse(execFileSync('python3', [GATE, JSON.stringify(seg)], { encoding: 'utf-8' }))
-
-function builtExists(href: string): boolean {
-  if (href.endsWith('/')) return fs.existsSync(path.join(DIST, href, 'index.html'))
-  return (
-    fs.existsSync(path.join(DIST, `${href}.html`)) ||
-    fs.existsSync(path.join(DIST, href, 'index.html'))
-  )
-}
 
 const sitemapUrls = () =>
   new Set(
@@ -37,90 +29,90 @@ const sitemapUrls = () =>
     ].map((m) => m[1].replace(ORIGIN, ''))
   )
 
-test.describe('pipeline publication gate (Slice 2K, stability-aware, nothing public yet)', () => {
+test.describe('pipeline publication gate (Slice 2K/2L, stability-aware; pt minted & public)', () => {
   test('the gate hides draft/provisional/no-publicSlug and only opens stable+publicSlug', () => {
-    const HIDDEN = {
-      eligible: false,
-      buffer: true,
-      noindex: true,
-      search: false,
-      sitemap: false,
-      index: false,
-      canonical: false,
-      llm: false
-    }
+    const HIDDEN = { eligible: false, buffer: true, noindex: true, search: false, sitemap: false }
     expect(gate({ urlStability: 'draft', publicSlug: null })).toMatchObject(HIDDEN)
     expect(gate({ urlStability: 'provisional', publicSlug: null })).toMatchObject(HIDDEN)
-    // defensive: stable without a publicSlug is still hidden
-    expect(gate({ urlStability: 'stable', publicSlug: null })).toMatchObject(HIDDEN)
-  })
-
-  test('synthetic fixture: a stable segment WITH a publicSlug would become eligible (no real data changed)', () => {
-    const v = gate({ urlStability: 'stable', publicSlug: 'paragrafo-7' })
-    expect(v).toMatchObject({
+    expect(gate({ urlStability: 'stable', publicSlug: null })).toMatchObject(HIDDEN) // defensive
+    expect(gate({ urlStability: 'stable', publicSlug: 'paragrafo-7' })).toMatchObject({
       eligible: true,
       buffer: false,
       noindex: false,
       search: true,
       sitemap: true,
       index: true,
-      canonical: true,
       llm: true
     })
-    // the real export is unchanged: still no stable / no publicSlug anywhere
-    const segs = read(META).segments
-    expect(segs.some((s: any) => s.urlStability === 'stable')).toBe(false)
-    expect(segs.some((s: any) => s.publicSlug)).toBe(false)
   })
 
-  test('every real pt segment is hidden by the gate (urlStability draft, publicSlug null)', () => {
-    const pt = read(META).segments.filter((s: any) => s.language === 'pt')
+  test('the vendored export now has 99 stable pt routes with publicSlug; fr stays draft/null', () => {
+    const segs = read(META).segments
+    const pt = segs.filter((s: any) => s.language === 'pt')
+    const fr = segs.filter((s: any) => s.language === 'fr')
     expect(pt.length).toBe(99)
+    expect(fr.length).toBe(99)
     for (const s of pt) {
+      expect(s.urlStability).toBe('stable')
+      expect(s.publicSlug).toBeTruthy()
+      expect(gate(s).eligible).toBe(true)
+    }
+    for (const s of fr) {
       expect(s.urlStability).toBe('draft')
       expect(s.publicSlug).toBeNull()
+      expect(gate(s).eligible).toBe(false)
     }
   })
 
-  test('the generator is wired through the gate; the 99 pages stay hidden + idempotent', () => {
+  test('the generator is wired through the gate; the 99 pt pages are now INDEXABLE + idempotent', () => {
     const src = fs.readFileSync(GEN_SCRIPT, 'utf-8')
     expect(src).toContain('from pipeline_gate import route_visibility')
     expect(src).toContain('route_visibility(rec)')
 
     const files = fs.readdirSync(GEN_DIR).filter((f) => f.endsWith('.md'))
     expect(files.length).toBe(99)
-    // every page reflects the gate's HIDDEN output (buffer + search:false + noindex)
+    // stable -> indexable: no buffer / search:false / robots noindex in any generated page
     for (const f of files) {
       const t = fs.readFileSync(path.join(GEN_DIR, f), 'utf-8')
-      expect(t).toMatch(/^buffer: true$/m)
-      expect(t).toMatch(/^search: false$/m)
-      expect(t).toContain("name: 'robots', content: 'noindex'")
+      expect(t).not.toMatch(/^buffer: true$/m)
+      expect(t).not.toMatch(/^search: false$/m)
+      expect(t).not.toContain("content: 'noindex'")
+      expect(t).toContain('pipelineCanonicalId:') // (canonicalId, language) join, not routePath
     }
-    // wiring is a no-op for today's all-draft data: regenerating leaves the tree clean
     const out = execFileSync('python3', [GEN_SCRIPT], { encoding: 'utf-8' })
     expect(out).toContain('No segment-routes changes.')
-    expect(fs.readdirSync(GEN_DIR).filter((f) => f.endsWith('.md')).length).toBe(99)
   })
 
-  test('nothing is public: redirects disabled, no relocation, live fr pages intact, family noindex', () => {
-    // no redirect channel
+  test('public pt pages are indexable (no noindex, in LLM); reading-review/** stays noindex/excluded', () => {
+    // a built public pt page carries NO robots-noindex
+    const pub = fs.readFileSync(
+      path.join(DIST, 'louis-lavelle/introducao-a-ontologia/00-01-002-008-paragrafo-7.html'),
+      'utf-8'
+    )
+    expect(pub).not.toMatch(/name="robots"[^>]*content="noindex"/)
+
+    // a reading-review demo page stays noindex and out of the sitemap
+    const demo = fs.readFileSync(
+      path.join(DIST, 'reading-review/introduction-a-l-ontologie-reader.html'),
+      'utf-8'
+    )
+    expect(demo).toMatch(/name="robots"[^>]*content="noindex"/)
+    expect([...sitemapUrls()].some((u) => u.startsWith('/reading-review/'))).toBe(false)
+
+    // LLM output: public pt family included; reading-review/** excluded
+    const llms = path.resolve(DIST, 'llms-full.txt')
+    if (fs.existsSync(llms)) {
+      const text = fs.readFileSync(llms, 'utf-8')
+      expect(text.includes('introducao-a-ontologia')).toBe(true)
+      expect(text.includes('reading-review/')).toBe(false)
+    }
+  })
+
+  test('redirects are still disabled (go-live one slice away)', () => {
     expect(fs.existsSync(REDIRECTS)).toBe(false)
-    // not relocated to the public path yet
-    expect(fs.existsSync(path.join(DIST, 'louis-lavelle/introducao-a-ontologia'))).toBe(false)
-    // the 12 live fr chapter routes still resolve
-    const work = '/louis-lavelle/introduction-a-l-ontologie'
-    expect(builtExists(work)).toBe(true)
-    const stems = fs
-      .readdirSync(path.resolve('src/louis-lavelle/introduction-a-l-ontologie'))
-      .filter((f) => f.endsWith('.md'))
-      .map((f) => f.replace(/\.md$/, ''))
-    expect(stems.length).toBe(12)
-    for (const stem of stems) expect(builtExists(`${work}/${stem}`), stem).toBe(true)
-    // the hidden pt family still builds, noindexed and out of the sitemap
-    const sampleRoute = '/reading-review/introducao-a-ontologia/00-01-002-008-paragrafo-7'
-    expect(builtExists(sampleRoute)).toBe(true)
-    const html = fs.readFileSync(path.join(DIST, `${sampleRoute}.html`), 'utf-8')
-    expect(html).toMatch(/name="robots"[^>]*content="noindex"/)
-    expect([...sitemapUrls()].some((u) => u.includes('introducao-a-ontologia'))).toBe(false)
+    const rmap = read(
+      path.resolve('.vitepress/theme/data/pipeline-redirect-map-introduction-a-l-ontologie.json')
+    )
+    expect(rmap.status).toBe('not-enabled')
   })
 })

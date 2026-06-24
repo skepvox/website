@@ -96,15 +96,17 @@ test.describe('pipeline-export segment preview (Slice 2E, buffer/noindex, no rou
     }
   })
 
-  test('no public segment routes / redirects are created', () => {
-    // exactly the two internal review pages exist; no 198-segment route family
+  test('the preview page creates no routes; no hidden pt duplicate; redirects disabled', () => {
+    // the internal preview pages exist...
     expect(builtExists('/reading-review/introduction-a-l-ontologie-segment')).toBe(true)
     expect(builtExists('/reading-review/introduction-a-l-ontologie')).toBe(true) // map page still works
-    expect(fs.existsSync(path.join(DIST, 'louis-lavelle/introducao-a-ontologia'))).toBe(false)
+    // ...and the earlier HIDDEN pt family under reading-review/ is gone (relocated to the public ns)
+    expect(fs.existsSync(path.join(DIST, 'reading-review/introducao-a-ontologia'))).toBe(false)
+    // the fr source edition is not generated as a public segment family
     expect(
       builtExists('/louis-lavelle/introduction-a-l-ontologie/00-01-002-008-paragraphe-7')
     ).toBe(false)
-    // no draft routePath in the sitemap
+    // the pt family is dropped from the sitemap by isChapterRoute (deep louis-lavelle routes)
     const urls = [...sitemapUrls()]
     expect(urls.some((u) => u.includes('introducao-a-ontologia'))).toBe(false)
     expect(urls.some((u) => /\/00-\d\d-\d\d\d-\d\d\d-/.test(u))).toBe(false)
