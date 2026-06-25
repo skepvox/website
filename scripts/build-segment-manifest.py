@@ -223,6 +223,12 @@ def build() -> dict:
     works = []
     segments = []
     for w in iter_works(sidebar):
+        if w.get("kind") == "pipeline-export":
+            # Pipeline-exported works have their own identity/prose/navigation artifacts
+            # (pipeline-export-segments.json + generated route family). This bridge manifest
+            # remains scoped to the older website-committed reading surfaces and must not
+            # downcast a pipeline work hub to a legacy single-file segment.
+            continue
         route = w["href"].rstrip("/")
         ids = parse_route(route)
         rows = reading.get(route)

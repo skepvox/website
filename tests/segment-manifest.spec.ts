@@ -55,6 +55,7 @@ test.describe('segment-manifest (reading-app Slice a data foundation)', () => {
     expect(missingSrc.map((r: any) => r.relativePath)).toEqual([])
     const missingBuilt = records.filter((r: any) => !builtExists(r.href))
     expect(missingBuilt.map((r: any) => r.href)).toEqual([])
+    expect(m.works.map((w: any) => w.href)).not.toContain('/louis-lavelle/introducao-a-ontologia')
   })
 
   test('canonicalId is unique, never a route href, and never a raw route slug', () => {

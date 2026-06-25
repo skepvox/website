@@ -17,6 +17,13 @@
               "kind": "multi-leaf",
               "leaves": 118,
               "meta": "1933"
+            },
+            {
+              "title": "Introdução à ontologia",
+              "href": "/louis-lavelle/introducao-a-ontologia",
+              "kind": "pipeline-export",
+              "leaves": 99,
+              "meta": "1947"
             }
           ]
         },

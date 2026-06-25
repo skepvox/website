@@ -55,11 +55,12 @@ test.describe('louis lavelle work grids', () => {
     expect(Boolean(structure.secondGridAfterOriginals)).toBe(true)
   })
 
-  test('first block contains only the Portuguese version', async ({ page }) => {
+  test('first block contains the Portuguese versions', async ({ page }) => {
     const pt = page.locator('.card-grid').nth(0)
-    await expect(pt.locator('.card-grid__item')).toHaveCount(1)
+    await expect(pt.locator('.card-grid__item')).toHaveCount(2)
     await expect(pt.locator('a[href="/louis-lavelle/a-consciencia-de-si"]')).toHaveCount(1)
-    await expect(pt.locator('.card-grid__meta')).toHaveText('1933')
+    await expect(pt.locator('a[href="/louis-lavelle/introducao-a-ontologia"]')).toHaveCount(1)
+    await expect(pt.locator('.card-grid__meta')).toHaveText(['1933', '1947'])
   })
 
   test('second block contains only the 9 French originals', async ({ page }) => {
@@ -68,8 +69,9 @@ test.describe('louis lavelle work grids', () => {
     for (const slug of FRENCH) {
       await expect(fr.locator(`a[href="/louis-lavelle/${slug}"]`)).toHaveCount(1)
     }
-    // the Portuguese version is not counted among the French originals
+    // the Portuguese versions are not counted among the French originals
     await expect(fr.locator('a[href="/louis-lavelle/a-consciencia-de-si"]')).toHaveCount(0)
+    await expect(fr.locator('a[href="/louis-lavelle/introducao-a-ontologia"]')).toHaveCount(0)
   })
 
   test('French cards show publication-year meta in chronological order', async ({ page }) => {
@@ -85,7 +87,7 @@ test.describe('louis lavelle work grids', () => {
     const hrefs = await page
       .locator('.card-grid a')
       .evaluateAll((els) => els.map((el) => el.getAttribute('href') || ''))
-    expect(hrefs).toHaveLength(10)
+    expect(hrefs).toHaveLength(11)
     for (const href of hrefs) {
       expect(href).toMatch(/^\/louis-lavelle\/[^/]+$/)
     }

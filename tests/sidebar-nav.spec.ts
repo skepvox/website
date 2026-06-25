@@ -68,6 +68,8 @@ test.describe('sidebar-nav manifest (Slice 2A data foundation)', () => {
       expect(byHref[href].kind, href).toBe('multi-leaf')
       expect(byHref[href].leaves, href).toBeGreaterThan(0)
     }
+    expect(byHref['/louis-lavelle/introducao-a-ontologia'].kind).toBe('pipeline-export')
+    expect(byHref['/louis-lavelle/introducao-a-ontologia'].leaves).toBe(99)
   })
 
   test('Lavelle translated + original works are both represented', () => {
@@ -78,6 +80,9 @@ test.describe('sidebar-nav manifest (Slice 2A data foundation)', () => {
     expect(groups.frenchOriginals.works.length).toBeGreaterThan(0)
     expect(groups.translationsPt.works.map((w: any) => w.href)).toContain(
       '/louis-lavelle/a-consciencia-de-si'
+    )
+    expect(groups.translationsPt.works.map((w: any) => w.href)).toContain(
+      '/louis-lavelle/introducao-a-ontologia'
     )
     expect(groups.frenchOriginals.works.map((w: any) => w.href)).toContain(
       '/louis-lavelle/de-l-etre'

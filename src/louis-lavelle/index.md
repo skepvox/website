@@ -143,6 +143,14 @@ head:
           },
           {
             "@type": "Book",
+            "name": "Introdução à ontologia",
+            "alternateName": "Introduction à l'ontologie",
+            "url": "https://skepvox.com/louis-lavelle/introducao-a-ontologia/",
+            "inLanguage": "pt-BR",
+            "datePublished": "1947"
+          },
+          {
+            "@type": "Book",
             "name": "De l'être",
             "url": "https://skepvox.com/louis-lavelle/de-l-etre.html",
             "inLanguage": "fr",
@@ -213,7 +221,7 @@ head:
         "@context": "https://schema.org",
         "@type": "ItemList",
         "itemListOrder": "http://schema.org/ItemListOrderAscending",
-        "numberOfItems": 10,
+        "numberOfItems": 11,
         "itemListElement": [
           {
             "@type": "ListItem",
@@ -224,54 +232,60 @@ head:
           {
             "@type": "ListItem",
             "position": 2,
+            "name": "Introdução à ontologia",
+            "url": "https://skepvox.com/louis-lavelle/introducao-a-ontologia/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
             "name": "De l'être",
             "url": "https://skepvox.com/louis-lavelle/de-l-etre.html"
           },
           {
             "@type": "ListItem",
-            "position": 3,
+            "position": 4,
             "name": "La conscience de soi",
             "url": "https://skepvox.com/louis-lavelle/la-conscience-de-soi.html"
           },
           {
             "@type": "ListItem",
-            "position": 4,
+            "position": 5,
             "name": "La Présence totale",
             "url": "https://skepvox.com/louis-lavelle/la-presence-totale.html"
           },
           {
             "@type": "ListItem",
-            "position": 5,
+            "position": 6,
             "name": "De l'acte",
             "url": "https://skepvox.com/louis-lavelle/de-l-acte.html"
           },
           {
             "@type": "ListItem",
-            "position": 6,
+            "position": 7,
             "name": "L'Erreur de Narcisse",
             "url": "https://skepvox.com/louis-lavelle/l-erreur-de-narcisse.html"
           },
           {
             "@type": "ListItem",
-            "position": 7,
+            "position": 8,
             "name": "Du temps et de l'éternité",
             "url": "https://skepvox.com/louis-lavelle/du-temps-et-de-l-eternite.html"
           },
           {
             "@type": "ListItem",
-            "position": 8,
+            "position": 9,
             "name": "Introduction à l'ontologie",
             "url": "https://skepvox.com/louis-lavelle/introduction-a-l-ontologie.html"
           },
           {
             "@type": "ListItem",
-            "position": 9,
+            "position": 10,
             "name": "De l'âme humaine",
             "url": "https://skepvox.com/louis-lavelle/de-l-ame-humaine.html"
           },
           {
             "@type": "ListItem",
-            "position": 10,
+            "position": 11,
             "name": "Quatre saints",
             "url": "https://skepvox.com/louis-lavelle/quatre-saints.html"
           }
