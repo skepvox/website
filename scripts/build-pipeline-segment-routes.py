@@ -132,9 +132,6 @@ def build_hub() -> str:
         "",
         f"# {WORK_HUB_TITLE}",
         "",
-        "*Louis Lavelle* — edição canônica em português, lida por trechos. "
-        "Escolha um trecho para começar a leitura.",
-        "",
     ]
 
     # group Part -> Chapter -> Segment; loose (front matter / conclusion) get their own lists.
@@ -144,6 +141,12 @@ def build_hub() -> str:
     for rec in pt:
         gp = rec["groupPath"]
         if not gp:
+            # The trailing conclusion sentinel currently has no authored groupPath in the export.
+            # Keep it visually continuous with the final chapter instead of creating a second loose
+            # list under the same heading. Front matter still renders as the initial loose list.
+            if chapter is not None and rec["segmentPrefix"].startswith("99-99-999"):
+                chapter["segs"].append(rec)
+                continue
             if not group or group["type"] != "loose":
                 group = {"type": "loose", "segs": []}
                 groups.append(group)

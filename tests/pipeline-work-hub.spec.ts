@@ -58,9 +58,17 @@ test.describe('pipeline pt work hub (Slice 2N, public entry point)', () => {
 
   test('the hub does not concatenate the full book (links only, no prose body)', () => {
     const src = fs.readFileSync(HUB_SRC, 'utf-8')
+    expect(src).not.toContain('Escolha um trecho para começar a leitura.')
     // a distinctive prose phrase from a segment must NOT appear on the hub
     expect(src.includes('na simples enunciação da palavra ser')).toBe(false)
     expect(src.includes('o ser é, o não-ser não é')).toBe(false)
+  })
+
+  test('the trailing conclusion bucket stays visually continuous with the final chapter list', () => {
+    const src = fs.readFileSync(HUB_SRC, 'utf-8')
+    expect(src).not.toMatch(/Parágrafo 94\]\([^)]+\)\n\n- \[Parágrafo 95\]/)
+    expect(src).toMatch(/Parágrafo 94\]\([^)]+\)\n- \[Parágrafo 95\]/)
+    expect(src).toMatch(/Parágrafo 97\]\([^)]+\)\n- \[Parágrafo 98\]/)
   })
 
   test('the hub is indexable and present in the sitemap; pt segments are crawlable but sitemap-pruned', () => {

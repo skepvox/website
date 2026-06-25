@@ -9,8 +9,6 @@ generated: pipeline-work-hub
 
 # Introdução à ontologia
 
-*Louis Lavelle* — edição canônica em português, lida por trechos. Escolha um trecho para começar a leitura.
-
 - [Advertência](/louis-lavelle/introducao-a-ontologia/00-00-000-001-advertencia)
 
 ## Primeira parte — As categorias primeiras da ontologia
@@ -140,7 +138,6 @@ generated: pipeline-work-hub
 - [Parágrafo 92](/louis-lavelle/introducao-a-ontologia/00-02-005-093-paragrafo-92)
 - [Parágrafo 93](/louis-lavelle/introducao-a-ontologia/00-02-005-094-paragrafo-93)
 - [Parágrafo 94](/louis-lavelle/introducao-a-ontologia/00-02-005-095-paragrafo-94)
-
 - [Parágrafo 95](/louis-lavelle/introducao-a-ontologia/99-99-999-096-paragrafo-95)
 - [Parágrafo 96](/louis-lavelle/introducao-a-ontologia/99-99-999-097-paragrafo-96)
 - [Parágrafo 97](/louis-lavelle/introducao-a-ontologia/99-99-999-098-paragrafo-97)
