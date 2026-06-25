@@ -54,12 +54,9 @@ const next = computed<Seg | null>(() =>
 )
 
 const part = computed(() => current.value?.groupPath.find((l) => l.kind === 'part') ?? null)
-// Orientation eyebrow: work · part only. The chapter is already the page's own <h2> in the prose
-// body, so repeating it here duplicated that heading on every mid-book trecho.
-const context = computed(() => {
-  if (!current.value) return ''
-  return part.value?.label ? `${WORK_TITLE} · ${part.value.label}` : WORK_TITLE
-})
+// Orientation eyebrow: the PART only — no work title (it lives in the up-link), no "·" separator.
+// The chapter is the page's own <h2>, the segment its <h3>; front matter (no part) gets no eyebrow.
+const context = computed(() => part.value?.label ?? '')
 
 const href = (s: Seg) => `/${s.routePath}` // routePath = presentation (the public URL), not identity
 // The "up" link carries the current trecho so the hub can open + highlight that chapter on return
@@ -71,7 +68,7 @@ const upHref = computed(() =>
 
 <template>
   <p
-    v-if="placement === 'top' && current"
+    v-if="placement === 'top' && current && context"
     class="pseg-context"
     data-testid="pseg-context"
     data-pipeline-nav="pt"
@@ -114,7 +111,7 @@ const upHref = computed(() =>
 
     <p class="pseg-nav__up">
       <SkLink class="pseg-nav__up-link" :href="upHref" data-testid="pseg-up">
-        ↑ Índice — {{ WORK_TITLE }}
+        ↑ Sumário — {{ WORK_TITLE }}
       </SkLink>
     </p>
   </nav>

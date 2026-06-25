@@ -131,4 +131,29 @@ test.describe('PipelineWorkContents (owned pt work-hub contents map)', () => {
     await expect(current).toHaveAttribute('aria-current', 'page')
     await expect(current).toBeVisible()
   })
+
+  test('Slice A: title leads the hierarchy with an edition line; rows no longer out-size chapters', async ({
+    page
+  }) => {
+    await page.goto(HUB)
+    // the edition/context line under the title exists and names the edition
+    await expect(page.locator('.pwc__edition')).toContainText(/edição em português/i)
+    const size = await page.evaluate(() => {
+      const px = (sel: string) => {
+        const el = document.querySelector(sel)
+        return el ? parseFloat(getComputedStyle(el).fontSize) : 0
+      }
+      return {
+        title: px('.pwc__title'),
+        edition: px('.pwc__edition'),
+        chapter: px('nav.pwc .pwc__chapter-heading'),
+        row: px('nav.pwc a.pwc__link')
+      }
+    })
+    expect(size.title).toBeGreaterThan(size.chapter) // the title is the largest element
+    expect(size.title).toBeLessThan(40) // down from 40px (was 2.5rem)
+    expect(size.edition).toBeGreaterThan(0)
+    // hierarchy inversion fixed: segment rows are no longer LARGER than their chapter disclosure
+    expect(size.row).toBeLessThanOrEqual(size.chapter)
+  })
 })

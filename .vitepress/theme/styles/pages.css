@@ -217,6 +217,40 @@
   margin-top: var(--sk-reading-heading-space);
 }
 
+/* —— Pipeline pt reading-leaf heading de-escalation (Slice A) ——
+   Scoped to leaves that carry the owned PipelineSegmentNav context (.pseg-context) — i.e. the
+   pipeline pt segment leaves ONLY — so legacy literatura / Lavelle full-text reading pages keep
+   their chapter-opener headings. Calms the per-trecho "typographic event": the chapter `## h2`
+   becomes a quiet small-caps kicker (no accent bar), the segment `### h3` a small title, and the
+   prose becomes the largest reading element. The headings stay real <h2>/<h3> (SEO untouched).
+   These rules follow the :not(.has-aside) h2 rule above so the equal-specificity margin wins. */
+.VPContentDoc:has(.pseg-context) .vt-doc :is(p, li, blockquote, dd) {
+  font-size: var(--sk-reading-prose);
+}
+.VPContentDoc:has(.pseg-context) .vt-doc h2 {
+  margin: 1.25rem 0 0.2rem;
+  font-size: var(--sk-reading-kicker);
+  font-weight: 600;
+  line-height: 1.3;
+  letter-spacing: var(--sk-reading-kicker-tracking);
+  text-transform: uppercase;
+  color: var(--sk-text-muted);
+}
+.VPContentDoc:has(.pseg-context) .vt-doc h2::before {
+  display: none; /* remove the chapter-opener accent bar — the loudest per-trecho "event" */
+}
+.VPContentDoc:has(.pseg-context) .vt-doc h3 {
+  margin: 0 0 1.25rem;
+  font-size: var(--sk-reading-segtitle);
+  font-weight: 600;
+  line-height: 1.3;
+  letter-spacing: 0;
+  color: var(--sk-text);
+}
+.VPContentDoc:has(.pseg-context) .vt-doc h2 + h3 {
+  margin-top: 0.1rem;
+}
+
 /* Reading text face: self-hosted Literata on the running book prose only. Headings,
    the back-link, ReadingNav, and all chrome stay in the UI sans (controlled). */
 .VPContentDoc:not(.has-aside) .vt-doc :is(p, li, blockquote, dd) {

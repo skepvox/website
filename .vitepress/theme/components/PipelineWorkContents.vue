@@ -13,11 +13,15 @@ import SkLink from './SkLink.vue'
 // Chapters are real disclosure buttons, default-collapsed for mobile density; the front matter and
 // the two parts stay visible so the skeleton is always understandable. routePath is presentation
 // only (the href); identity (canonicalId / segmentPrefix) is never shown nor used as a link.
-const props = withDefaults(defineProps<{ workId?: string; language?: string; title?: string }>(), {
-  workId: 'louis-lavelle/introduction-a-l-ontologie',
-  language: 'pt',
-  title: 'Introdução à ontologia'
-})
+const props = withDefaults(
+  defineProps<{ workId?: string; language?: string; title?: string; author?: string }>(),
+  {
+    workId: 'louis-lavelle/introduction-a-l-ontologie',
+    language: 'pt',
+    title: 'Introdução à ontologia',
+    author: 'Louis Lavelle'
+  }
+)
 
 interface Level {
   kind: string
@@ -39,6 +43,18 @@ interface Seg {
 
 const NAV_LABEL: Record<string, string> = { fr: 'Sommaire', pt: 'Sumário', en: 'Contents' }
 const navLabel = computed(() => NAV_LABEL[props.language] ?? NAV_LABEL.pt)
+
+// A quiet bibliographic line under the title — author + which edition — so the masthead has a home
+// and the title stops floating detached from the map.
+const EDITION_WORD: Record<string, string> = {
+  pt: 'edição em português',
+  fr: 'edição original em francês',
+  en: 'English edition'
+}
+const editionLine = computed(() => {
+  const word = EDITION_WORD[props.language]
+  return word ? `${props.author} — ${word}` : props.author
+})
 
 const segs = computed(() =>
   (meta.segments as Seg[])
@@ -175,7 +191,10 @@ onMounted(() => {
 
 <template>
   <section v-if="blocks.length" class="pwc-shell" aria-labelledby="pwc-title">
-    <h1 id="pwc-title" class="pwc__title">{{ title }}</h1>
+    <header class="pwc__head">
+      <h1 id="pwc-title" class="pwc__title">{{ title }}</h1>
+      <p class="pwc__edition">{{ editionLine }}</p>
+    </header>
     <nav class="pwc" :aria-label="navLabel">
       <template v-for="block in blocks" :key="block.key">
         <!-- Front matter / loose initial segments (e.g. Advertência): flush links, no chapter. -->
@@ -243,13 +262,31 @@ onMounted(() => {
   margin: 0 0 2.5rem;
 }
 
+/* The title + edition line are one masthead, bound to the map by a hairline so the title introduces
+   the contents instead of floating detached above them. */
+.pwc__head {
+  margin: 0 0 1.5rem;
+  padding-bottom: 1.1rem;
+  border-bottom: 1px solid var(--sk-reading-hairline);
+}
+
 .pwc__title {
-  margin: 0 0 1.85rem;
-  font-size: 2.5rem;
-  font-weight: 700;
-  letter-spacing: 0;
-  line-height: 1.12;
+  margin: 0;
+  font-family: var(--sk-reading-title-font);
+  font-size: var(--sk-reading-title);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.16;
   color: var(--sk-text);
+}
+
+.pwc__edition {
+  margin: 0.55rem 0 0;
+  font-size: var(--sk-reading-kicker);
+  font-weight: 600;
+  letter-spacing: var(--sk-reading-kicker-tracking);
+  text-transform: uppercase;
+  color: var(--sk-text-muted);
 }
 
 .pwc {
@@ -267,18 +304,29 @@ onMounted(() => {
   padding: 0 0 0.5rem;
 }
 
-/* The part label is a quiet, non-interactive orientation line (never a disclosure, never a doc
-   heading — so it does not disturb the page heading order). */
+/* The part label is a section DIVIDER that belongs to the map: a full-ink small-caps kicker with a
+   hairline running to the column edge. Non-interactive, never a doc heading. */
 .pwc__part-heading {
-  margin: 1.4rem 0 0.1rem;
-  font-size: 0.95rem;
-  font-weight: 600;
-  letter-spacing: 0.01em;
-  line-height: 1.4;
-  color: var(--sk-reading-heading);
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin: 1.6rem 0 0.2rem;
+  font-size: var(--sk-reading-kicker);
+  font-weight: 650;
+  letter-spacing: var(--sk-reading-kicker-tracking);
+  text-transform: uppercase;
+  line-height: 1.3;
+  color: var(--sk-text);
+}
+.pwc__part-heading::after {
+  content: '';
+  flex: 1 1 auto;
+  height: 1px;
+  background: var(--sk-reading-hairline);
 }
 
-/* The chapter heading is a real disclosure button (quiet literary eyebrow). */
+/* The chapter heading is a real disclosure button: a readable sentence-case title (not a shouty
+   uppercase caption), so it out-ranks the quieter segment rows beneath it. */
 .pwc__chapter-heading {
   display: flex;
   align-items: center;
@@ -291,11 +339,10 @@ onMounted(() => {
   background: none;
   cursor: pointer;
   text-align: left;
-  font-size: 0.74rem;
+  font-size: var(--sk-reading-row);
   font-weight: 600;
-  letter-spacing: 0.09em;
-  text-transform: uppercase;
-  color: var(--sk-text-muted);
+  letter-spacing: 0;
+  color: var(--sk-text);
   -webkit-tap-highlight-color: transparent;
   transition: color 0.18s ease;
 }
@@ -334,15 +381,18 @@ onMounted(() => {
   padding: 0.1rem 0 0.85rem;
 }
 
-/* Each leaf is a SkLink row: the display label leads; no bullets, no slugs, no UI-imposed numbering. */
+/* Each leaf is a SkLink row: quieter than its chapter (muted, lighter, indented), so the nesting
+   reads correctly Part > Chapter > Segment. No bullets, no slugs, no UI-imposed numbering. */
 .pwc__link {
   display: block;
   min-height: 44px;
-  padding: 0.5rem 0 0.5rem 1.5rem;
-  font-size: 1rem;
+  padding: 0.5rem 0 0.5rem 1.25rem;
+  font-size: var(--sk-reading-row);
+  font-weight: 400;
   line-height: 1.5;
   color: var(--sk-reading-muted);
   text-decoration: none;
+  scroll-margin-top: 5rem;
   transition: color 0.18s ease;
 }
 /* Front-matter links sit flush (no chapter indent). */
@@ -353,8 +403,8 @@ onMounted(() => {
 /* The trecho the reader returned from (via a leaf "up" link): a quiet current marker, dormant on a
    normal hub visit. The accent rule sits inside the leaf indent so it does not touch the page edge. */
 .pwc__link.is-current {
-  color: var(--sk-reading-heading);
-  box-shadow: inset 2px 0 0 0 var(--sk-accent);
+  color: var(--sk-text);
+  box-shadow: inset 2px 0 0 0 var(--sk-reading-current);
 }
 .pwc__link--loose.is-current {
   box-shadow: none;

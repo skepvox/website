@@ -29,10 +29,13 @@ function builtExists(href: string): boolean {
 }
 
 test.describe('pipeline pt segment nav (Slice 2O, owned prev/next/up, pipeline-sourced)', () => {
-  test('first segment: next-only + up + context (no prev)', async ({ page }) => {
+  test('first segment (front matter): next-only + up, no part-eyebrow (no prev)', async ({
+    page
+  }) => {
     const pt = ptByOrder()
     await page.goto(routeOf(pt[0]))
-    await expect(page.locator('[data-testid="pseg-context"]')).toBeVisible()
+    // advertência is front matter (no part) → no orientation eyebrow (Slice A: part-only eyebrow)
+    await expect(page.locator('[data-testid="pseg-context"]')).toHaveCount(0)
     const nav = page.locator('[data-testid="pseg-nav"]')
     await expect(nav).toBeVisible()
     await expect(nav.locator('[data-testid="pseg-prev"]')).toHaveCount(0)
@@ -143,6 +146,45 @@ test.describe('pipeline pt segment nav (Slice 2O, owned prev/next/up, pipeline-s
     expect(body).toContain('na simples enunciação da palavra ser') // prose intact
     expect(body.includes('Trecho anterior')).toBe(false) // nav is NOT in the page body
     expect(body.includes('pseg-nav')).toBe(false)
+  })
+
+  test('Slice A: leaf chapter heading is a calm kicker below the prose (no accent bar); up = "Sumário"', async ({
+    page
+  }) => {
+    const pt = ptByOrder()
+    const mid = pt.find((s: any) => s.segmentPrefix === '00-02-001-051') // "Distinção" chapter (h2 + h3)
+    await page.goto(routeOf(mid))
+    const h2 = page.locator('.VPContentDoc .vt-doc h2').first()
+    await expect(h2).toBeVisible()
+    const m = await h2.evaluate((el) => {
+      const cs = getComputedStyle(el)
+      const before = getComputedStyle(el, '::before')
+      const p = document.querySelector('.VPContentDoc .vt-doc p') as HTMLElement
+      return {
+        h2px: parseFloat(cs.fontSize),
+        transform: cs.textTransform,
+        before: before.display,
+        prosePx: parseFloat(getComputedStyle(p).fontSize)
+      }
+    })
+    expect(m.before).toBe('none') // the chapter-opener accent bar is gone
+    expect(m.transform).toBe('uppercase') // chapter demoted to a small-caps kicker
+    expect(m.h2px).toBeLessThan(m.prosePx) // the chapter no longer out-sizes the prose
+    expect(m.prosePx).toBeGreaterThan(16) // prose bumped to ~17px (the largest reading element)
+    // the up link now reads "Sumário" (unified with the hub), never "Índice"
+    const up = page.locator('[data-testid="pseg-up"]')
+    await expect(up).toContainText('Sumário')
+    await expect(up).not.toContainText('Índice')
+  })
+
+  test('Slice A scope: legacy reading pages (de-l-acte) keep their chapter-opener h2 (accent bar intact)', async ({
+    page
+  }) => {
+    await page.goto('/louis-lavelle/de-l-acte')
+    const h2 = page.locator('.VPContentDoc .vt-doc h2').first()
+    await expect(h2).toBeVisible()
+    const before = await h2.evaluate((el) => getComputedStyle(el, '::before').display)
+    expect(before).not.toBe('none') // unscoped pages keep the accent bar — no other book touched
   })
 
   test('performance boundary: each leaf carries only its own prose (no all-99 prose bundle)', () => {

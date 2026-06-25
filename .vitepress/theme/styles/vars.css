@@ -19,6 +19,20 @@
   --sk-reading-para-space: 1.4em;
   --sk-reading-heading-space: 3rem;
   --sk-reading-font: 'Literata', Georgia, 'Times New Roman', serif;
+  /* Reader-shell semantic type vocabulary (Slice A). These ALIAS the existing --sk-text-* scale +
+     colour ramp (with one off-rung display title), so the reading shell has its own names without a
+     parallel modular scale; aliasing means they flip in dark mode automatically. */
+  --sk-reading-title: 1.875rem; /* hub/leaf masthead — the one off-rung display size */
+  --sk-reading-title-font: var(
+    --vt-font-family-base
+  ); /* sans default; swap to --sk-reading-font for the serif-title experiment */
+  --sk-reading-kicker: 0.8125rem; /* part label + leaf chapter kicker (one small-caps family) */
+  --sk-reading-kicker-tracking: 0.07em;
+  --sk-reading-row: 0.9375rem; /* chapter disclosure + segment rows + nav titles */
+  --sk-reading-segtitle: 1rem; /* leaf segment title */
+  --sk-reading-prose: 1.0625rem; /* reading-leaf body (today implicit 1rem) */
+  --sk-reading-current: var(--sk-accent); /* the one structural accent — the current-marker bar */
+  --sk-reading-hairline: var(--sk-rule); /* semantic name for the hairline language */
   --sk-cue-active: rgba(181, 148, 84, 0.26); /* muted antique gold "now playing" wash */
   --sk-cue-hover: rgba(33, 53, 71, 0.06); /* neutral pre-click affordance */
 
