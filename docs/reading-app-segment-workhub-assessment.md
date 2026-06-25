@@ -1,5 +1,10 @@
 # Reading-App Segment Model & Owned Work-Hub Redesign — Assessment
 
+> **Start with [`reading-app-website.md`](reading-app-website.md) for the current state.** This is **not
+> superseded** — it remains the deep design reference for the segment/reading **data model**, granularity
+> invariants, and the two-state reading model (the substrate behind open decisions **D** mature
+> WorkContents/zoom-out and **E** personal review companion).
+
 **Status:** Assessment / design only. **No implementation in this document.** No component, frontmatter,
 builder, `page:true`, or `node_modules` change is proposed here — only the data model, the product
 shape, and a staged plan to get there.

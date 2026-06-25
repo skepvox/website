@@ -1,18 +1,22 @@
 # Reading-App — Next-Session Handoff
 
+> **Superseded: start with [`../reading-app-website.md`](../reading-app-website.md).** Archived
+> point-in-time handoff (bridge-manifest checkpoint); the work it pointed forward to is now done (pt is
+> live). Its parked ideas are preserved in the canonical doc's "Deferred ideas" section.
+
 **Purpose:** restart cleanly tomorrow without re-deriving the thread. Closing handoff only — **no
 implementation beyond docs.** We are ending the day at a stable website checkpoint.
 
 **Read first (context, in order):**
 `docs/reading-app-segment-workhub-assessment.md` → `docs/work-contents-component-spec.md` →
-`docs/book-pipeline-website-export-contract-assessment.md` (the most recent; the destination).
+`docs/archive/book-pipeline-website-export-contract-assessment.md` (the most recent; the destination).
 
 ---
 
 ## 1. Current stable state
 
 - The website is synced/pushed through the **book-pipeline → Kairos → website export-contract
-  assessment** (`docs/book-pipeline-website-export-contract-assessment.md`). That document is the
+  assessment** (`docs/archive/book-pipeline-website-export-contract-assessment.md`). That document is the
   destination this work is heading toward.
 - **WorkContents has proved two UI modes — as *website-data prototypes only*, not real app data:**
   - **grouped mode:** `de-l-acte` (book-level authored groups, collapsible).
@@ -66,7 +70,7 @@ named prerequisite to produce.)
 > assessment/plan.
 >
 > Target work: **Introdução à ontologia** (`skepvox-book-pipeline` `louis-lavelle/introduction-a-l-ontologie`).
-> Build on `docs/book-pipeline-website-export-contract-assessment.md`.
+> Build on `docs/archive/book-pipeline-website-export-contract-assessment.md`.
 >
 > Do (read-only inspection + written plan):
 > 1. Inspect the `skepvox-book-pipeline` flow for this work (raw → extracted → processed → segmented,

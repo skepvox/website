@@ -1,5 +1,9 @@
 # Introdução à ontologia — live migration plan
 
+> **Superseded for current state: start with [`reading-app-website.md`](reading-app-website.md).** This
+> plan has been executed (pt is live; fr chapter URLs 301 to pt). It remains the **route-migration plan of
+> record** — see **§6** for the old→new route table. Kept in place (referenced by tests/scripts).
+
 > **Type:** Decision document (document-only slice — no code, route, artifact, redirect, sitemap, search, or LLM changes are made by this file).
 > **Scope:** `skepvox-website`. Moving from the buffer-only pipeline reader **prototypes** (`src/reading-review/*`) to a **live** *Introdução à ontologia* reading experience served from the real `louis-lavelle/introducao-a-ontologia` / `louis-lavelle/introduction-a-l-ontologie` route families.
 > **Horizontal context:** The pipeline ships **identity** (`canonicalId`, `segmentPrefix`) and **presentation** (`routePath`, `displaySlug`, `publicSlug`) as deliberately separate layers. A route is *never* identity. URL permanence comes from a separate publishing layer (`publicSlug`), **never** from freezing an editorial `displayTitle`. The website joins by `(canonicalId, language)`, owns its own redirect map, and may index/canonicalize/sitemap **only** `urlStability == "stable"` routes — of which there are **zero today**. Authoritative conventions live in the **sibling** pipeline repo at `skepvox-book-pipeline/docs/{website-export-contract.md, public-url-convention.md, segment-prefix-stability-policy.md}` (verified present there); the local assessment is `docs/website-export-ingestion-assessment.md` (Slice A/B/C/D framing, recommended Slice B implemented). Those convention docs are **not** mirrored under `skepvox-website/docs`; the local assessment and the vendored `work-index.json` `routePolicy` cite them as bare filenames that resolve against the origin pipeline repo — so mirroring them locally is optional, not a broken reference to repair.

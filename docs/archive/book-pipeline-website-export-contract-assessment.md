@@ -1,5 +1,10 @@
 # Book-Pipeline → Kairos → Website/App Export Contract — Assessment
 
+> **Superseded: start with [`../reading-app-website.md`](../reading-app-website.md)** (website) and
+> [`skepvox-book-pipeline/docs/website-export-contract.md`]. Archived historical assessment — the
+> foundational export-contract analysis; its durable decisions now live in those canonical docs and its
+> concrete export sketches are superseded by the realized Slice-2B ingestion.
+
 **Status:** Assessment / spec only. **No implementation.** No change to code, manifests, builders,
 website content, `skepvox-book-pipeline`, or `kairos`. This defines the mature export contract that will
 later feed WorkContents, ReadingNav, the leaf zoom-out, search, the AI companion, and native apps. It is
