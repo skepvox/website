@@ -69,7 +69,7 @@ test.describe('pipeline publication gate (Slice 2K/2L, stability-aware; pt minte
     expect(src).toContain('from pipeline_gate import route_visibility')
     expect(src).toContain('route_visibility(rec)')
 
-    const files = fs.readdirSync(GEN_DIR).filter((f) => f.endsWith('.md'))
+    const files = fs.readdirSync(GEN_DIR).filter((f) => f.endsWith('.md') && f !== 'index.md')
     expect(files.length).toBe(99)
     // stable -> indexable: no buffer / search:false / robots noindex in any generated page
     for (const f of files) {
@@ -108,11 +108,11 @@ test.describe('pipeline publication gate (Slice 2K/2L, stability-aware; pt minte
     }
   })
 
-  test('redirects are still disabled (go-live one slice away)', () => {
-    expect(fs.existsSync(REDIRECTS)).toBe(false)
+  test('redirects are enabled at go-live (_redirects exists, map status enabled)', () => {
+    expect(fs.existsSync(REDIRECTS)).toBe(true)
     const rmap = read(
       path.resolve('.vitepress/theme/data/pipeline-redirect-map-introduction-a-l-ontologie.json')
     )
-    expect(rmap.status).toBe('not-enabled')
+    expect(rmap.status).toBe('enabled')
   })
 })

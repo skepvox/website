@@ -95,7 +95,7 @@ test.describe('pipeline-export reading-flow preview (Slice 2F, buffer/noindex, n
       builtExists('/louis-lavelle/introduction-a-l-ontologie/00-01-002-008-paragraphe-7')
     ).toBe(false)
     const urls = [...sitemapUrls()]
-    expect(urls.some((u) => u.includes('introducao-a-ontologia'))).toBe(false)
+    // the pt hub is intentionally in the sitemap; only deep per-segment routes are pruned
     expect(urls.some((u) => /\/00-\d\d-\d\d\d-\d\d\d-/.test(u))).toBe(false)
   })
 

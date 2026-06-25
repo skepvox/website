@@ -40,6 +40,8 @@ OUT_DIR = ROOT / "src" / "louis-lavelle" / "introducao-a-ontologia"
 PROSE_ROOT_DEFAULT = ROOT.parent / "skepvox-book-pipeline" / "export" / "prose"
 EDITION = "pt"
 GENERATED_MARKER = "pipeline-segment-routes"
+WORK_HUB_MARKER = "pipeline-work-hub"
+WORK_HUB_TITLE = "Introdução à ontologia"
 PERSONAL_MARKERS = ("read-at", "==", "%% review", "[!review]", "[!dt]")
 
 
@@ -105,6 +107,74 @@ def build(prose_root: Path) -> dict[str, str]:
     return pages
 
 
+def build_hub() -> str:
+    """The pt work hub (index.md): a readable entry point — authored Part -> Chapter -> Segment LINKS
+    into the pt route family, from pipeline-export metadata only (never segment-manifest). No prose
+    body is concatenated; links use routePath (presentation = the public URL), not canonicalId.
+    """
+    meta = json.loads(META.read_text(encoding="utf-8"))
+    pt = sorted(
+        (s for s in meta["segments"] if s["language"] == EDITION),
+        key=lambda s: s["order"],
+    )
+    description = "Introdução à ontologia de Louis Lavelle — edição em português, lida por trechos."
+    fm = [
+        "---",
+        f"title: {json.dumps(WORK_HUB_TITLE, ensure_ascii=False)}",
+        f"description: {json.dumps(description, ensure_ascii=False)}",
+        "sidebar: false",
+        "aside: false",
+        "outline: false",
+        f"generated: {WORK_HUB_MARKER}",
+        "---",
+    ]
+    body = [
+        "",
+        f"# {WORK_HUB_TITLE}",
+        "",
+        "*Louis Lavelle* — edição canônica em português, lida por trechos. "
+        "Escolha um trecho para começar a leitura.",
+        "",
+    ]
+
+    # group Part -> Chapter -> Segment; loose (front matter / conclusion) get their own lists.
+    groups: list[dict] = []
+    group: dict | None = None
+    chapter: dict | None = None
+    for rec in pt:
+        gp = rec["groupPath"]
+        if not gp:
+            if not group or group["type"] != "loose":
+                group = {"type": "loose", "segs": []}
+                groups.append(group)
+                chapter = None
+            group["segs"].append(rec)
+            continue
+        part, chap = gp[0], gp[1]
+        if not group or group["type"] != "part" or group["key"] != part["key"]:
+            group = {"type": "part", "key": part["key"], "label": part["label"], "title": part["title"], "chapters": []}
+            groups.append(group)
+            chapter = None
+        if not chapter or chapter["key"] != chap["key"]:
+            chapter = {"key": chap["key"], "title": chap["title"] or chap["label"], "segs": []}
+            group["chapters"].append(chapter)
+        chapter["segs"].append(rec)
+
+    def link(rec: dict) -> str:
+        return f"- [{rec['displayTitle']}](/{rec['routePath']})"
+
+    for grp in groups:
+        if grp["type"] == "loose":
+            body += [link(rec) for rec in grp["segs"]] + [""]
+        else:
+            head = grp["label"] + (f" — {grp['title']}" if grp["title"] else "")
+            body += [f"## {head}", ""]
+            for c in grp["chapters"]:
+                body += [f"### {c['title']}", ""] + [link(rec) for rec in c["segs"]] + [""]
+
+    return "\n".join(fm + body).rstrip() + "\n"
+
+
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description="Generate the pt public segment route family.")
     parser.add_argument("--prose-root", type=Path, default=PROSE_ROOT_DEFAULT)
@@ -141,10 +211,17 @@ def main(argv: list[str] | None = None) -> int:
             path.write_text(text, encoding="utf-8")
             changed += 1
 
+    # the pt work hub (index.md) — metadata-only links, regenerated alongside the leaves
+    hub_path = OUT_DIR / "index.md"
+    hub_text = build_hub()
+    if not hub_path.exists() or hub_path.read_text(encoding="utf-8") != hub_text:
+        hub_path.write_text(hub_text, encoding="utf-8")
+        changed += 1
+
     print(
         "No segment-routes changes."
         if changed == 0
-        else f"segment-routes: {len(desired)} pt pages ({changed} changed)"
+        else f"segment-routes: {len(desired)} pt pages + hub ({changed} changed)"
     )
     return 0
 

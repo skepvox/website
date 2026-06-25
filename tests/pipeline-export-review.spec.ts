@@ -119,8 +119,9 @@ test.describe('pipeline-export review consumer (Slice 2C/2D, buffer/noindex, no 
 
   test('no draft pipeline routePath leaks into the sitemap', () => {
     const urls = [...sitemapUrls()]
-    expect(urls.some((u) => u.includes('introducao-a-ontologia'))).toBe(false)
-    expect(urls.some((u) => /\/00-\d\d-\d\d\d-\d\d\d-/.test(u))).toBe(false) // 4-group segment prefixes
+    // the pt hub (/louis-lavelle/introducao-a-ontologia/) is intentionally in the sitemap; only the
+    // deep per-segment routes (4-group prefixes) must be pruned
+    expect(urls.some((u) => /\/00-\d\d-\d\d\d-\d\d\d-/.test(u))).toBe(false)
   })
 
   test('segment-manifest consumers and the WorkContentsMount allowlist are unchanged', () => {

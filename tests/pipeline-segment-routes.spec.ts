@@ -33,7 +33,7 @@ test.describe('pipeline pt segment route family (Slice 2M, public + real prose, 
   test('all 99 public pt pages build and carry real prose (none thin / review-only / noindex)', () => {
     const pt = ptSegments()
     expect(pt.length).toBe(99)
-    const files = fs.readdirSync(PUBLIC_DIR).filter((f) => f.endsWith('.md'))
+    const files = fs.readdirSync(PUBLIC_DIR).filter((f) => f.endsWith('.md') && f !== 'index.md')
     expect(files.length).toBe(99)
     for (const s of pt) expect(builtExists(publicRoute(s)), publicRoute(s)).toBe(true)
 
@@ -105,12 +105,12 @@ test.describe('pipeline pt segment route family (Slice 2M, public + real prose, 
     for (const stem of stems) expect(builtExists(`${work}/${stem}`), stem).toBe(true)
   })
 
-  test('redirects are NOT enabled (no _redirects, redirect-map still not-enabled)', () => {
-    expect(fs.existsSync(REDIRECTS)).toBe(false)
+  test('redirects are ENABLED at go-live (_redirects exists, map status enabled)', () => {
+    expect(fs.existsSync(REDIRECTS)).toBe(true)
     const rmap = read(
       path.resolve('.vitepress/theme/data/pipeline-redirect-map-introduction-a-l-ontologie.json')
     )
-    expect(rmap.status).toBe('not-enabled')
+    expect(rmap.status).toBe('enabled')
   })
 
   test('a public page renders its real prose with no review wording', async ({ page }) => {

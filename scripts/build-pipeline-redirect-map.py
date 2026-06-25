@@ -1,13 +1,17 @@
 #!/usr/bin/env python3
-"""Generate the old->new 301 redirect map for the 12 live fr chapter URLs of Introdução à ontologia
-(Slice 2I). DATA/DOC ONLY — this is NOT wired into any redirect channel (no src/public/_redirects);
-the artifact carries status:"not-enabled".
+"""Generate the old->new 301 redirect map AND Cloudflare _redirects for Introdução à ontologia (go-live).
 
-Maps each current fr chapter-level page under src/louis-lavelle/introduction-a-l-ontologie/ to the
-FIRST fr segment route of the same chapter — the lowest SSS sharing that chapter's BB-PP-CCC prefix —
-using the vendored pipeline export metadata (.vitepress/theme/data/pipeline-export-segments.json,
-fr edition). routePath is presentation-only and is used here solely to address the new public URL;
-it is never an identity/join key. Deterministic + idempotent (reads only committed files).
+Maps each old live FR chapter URL (the 12 pages under src/louis-lavelle/introduction-a-l-ontologie/)
+to the FIRST PT segment route of the same chapter — the now-public canonical pt edition — by the shared
+BB-PP-CCC chapter prefix (lowest SSS), using the vendored pipeline export. routePath is presentation
+only: used here to address the public destination URL, never as an identity/join key (identity is
+canonicalId).
+
+Emits:
+  - .vitepress/theme/data/pipeline-redirect-map-introduction-a-l-ontologie.json (status: "enabled")
+  - src/public/_redirects — Cloudflare Pages "<old>  <new>  301", one per old chapter URL.
+
+Deterministic + idempotent (reads only committed files).
 """
 
 import json
@@ -16,11 +20,13 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 META = ROOT / ".vitepress" / "theme" / "data" / "pipeline-export-segments.json"
-LEAVES = ROOT / "src" / "louis-lavelle" / "introduction-a-l-ontologie"
+OLD_LEAVES = ROOT / "src" / "louis-lavelle" / "introduction-a-l-ontologie"
 OUT = ROOT / ".vitepress" / "theme" / "data" / "pipeline-redirect-map-introduction-a-l-ontologie.json"
+REDIRECTS = ROOT / "src" / "public" / "_redirects"
 
-ROUTE_BASE = "/louis-lavelle/introduction-a-l-ontologie"
-EDITION = "fr"
+OLD_ROUTE_BASE = "/louis-lavelle/introduction-a-l-ontologie"  # the fr chapter URLs are the SOURCES
+TARGET_EDITION = "pt"  # the now-public canonical reading edition
+STATUS = "enabled"
 FRONT_PREFIX = "00-00-000"
 CONCLUSION_PREFIX = "99-99-999"
 PREFIX_RE = re.compile(r"^(\d\d-\d\d-\d\d\d)-")
@@ -36,11 +42,11 @@ def chapter_prefix(name: str) -> str:
 def build() -> dict:
     meta = json.loads(META.read_text(encoding="utf-8"))
     work = meta["work"]
-    fr = [s for s in meta["segments"] if s["language"] == EDITION]
+    pt = [s for s in meta["segments"] if s["language"] == TARGET_EDITION]
 
-    # First fr segment routePath per chapter prefix (lowest SSS = min by zero-padded segmentPrefix).
+    # First pt segment routePath per chapter prefix (lowest SSS = min by zero-padded segmentPrefix).
     first_by_chapter: dict[str, dict] = {}
-    for seg in fr:
+    for seg in pt:
         cp = chapter_prefix(seg["segmentPrefix"])
         cur = first_by_chapter.get(cp)
         if cur is None or seg["segmentPrefix"] < cur["segmentPrefix"]:
@@ -50,26 +56,28 @@ def build() -> dict:
         c = next((lvl for lvl in seg["groupPath"] if lvl["kind"] == "chapter"), None)
         return (c["title"] or c["label"]) if c else None
 
-    stems = sorted(p.stem for p in LEAVES.glob("*.md"))
+    stems = sorted(p.stem for p in OLD_LEAVES.glob("*.md"))
     entries = []
     for stem in stems:
         cp = chapter_prefix(stem)
         target = first_by_chapter.get(cp)
         if target is None:
-            raise ValueError(f"no fr segment for chapter prefix {cp} (old page {stem})")
+            raise ValueError(f"no {TARGET_EDITION} segment for chapter prefix {cp} (old page {stem})")
         if cp == FRONT_PREFIX:
             note = "Front matter — 1:1 (single front-matter segment)."
         elif cp == CONCLUSION_PREFIX:
             note = (
-                "Conclusion — maps to the first conclusion segment (99-99-999-096). "
-                "Segments 097-099 are new segment routes with no old-URL source (no redirect)."
+                "Conclusion — maps to the first conclusion segment; later conclusion segments are new "
+                "pt routes with no old-URL source."
             )
         else:
             title = chapter_title(target)
-            note = f"First fr segment of chapter “{title}”." if title else "First fr segment of chapter."
+            note = (
+                f"First pt segment of chapter “{title}”." if title else "First pt segment of chapter."
+            )
         entries.append(
             {
-                "oldPath": f"{ROUTE_BASE}/{stem}",
+                "oldPath": f"{OLD_ROUTE_BASE}/{stem}",
                 "targetPath": f"/{target['routePath']}",
                 "statusCode": 301,
                 "chapterPrefix": cp,
@@ -81,31 +89,57 @@ def build() -> dict:
         "$schema": "skepvox-pipeline-redirect-map-v1",
         "generatedBy": "scripts/build-pipeline-redirect-map.py",
         "source": "pipeline-export",
-        "status": "not-enabled",
+        "status": STATUS,
         "work": {
             "workId": work["workId"],
-            "edition": EDITION,
-            "routeSlug": "introduction-a-l-ontologie",
+            # The SOURCE URLs are the old fr chapter pages; the TARGET is the public pt CANONICAL
+            # edition. Kept explicit so future readers never confuse source-URL language with the
+            # target edition: targets are pt segment routes under introducao-a-ontologia, NOT fr.
+            "sourceLanguage": "fr",
+            "targetLanguage": TARGET_EDITION,
+            "targetEdition": "canonical",
+            "targetRouteSlug": "introducao-a-ontologia",
         },
         "note": (
-            "Old fr chapter URL -> first fr segment route of the same chapter (BB-PP-CCC, lowest SSS). "
-            "NOT wired into any redirect channel (src/public/_redirects is absent). routePath is "
-            "presentation-only; identity is canonicalId. Targets are chapter-level: paragraph-level "
-            "deep links have no old-URL source."
+            "Old fr chapter URL -> first PT (canonical edition) segment route of the same chapter "
+            "(shared BB-PP-CCC prefix, lowest SSS). Targets are built pt pages with real prose, never "
+            "an unbuilt fr segment route. Enabled: written to src/public/_redirects as 301s. routePath "
+            "is presentation only; identity is canonicalId."
         ),
         "entries": entries,
     }
 
 
+def redirects_text(manifest: dict) -> str:
+    lines = [
+        "# Generated by scripts/build-pipeline-redirect-map.py — do not edit by hand.",
+        "# Old fr chapter URLs -> first pt segment route of the same chapter (Introdução à ontologia).",
+    ]
+    for e in manifest["entries"]:
+        lines.append(f"{e['oldPath']}  {e['targetPath']}  {e['statusCode']}")
+    return "\n".join(lines) + "\n"
+
+
+def _write(path: Path, text: str, label: str) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    if path.exists() and path.read_text(encoding="utf-8") == text:
+        print(f"No {label} changes.")
+        return
+    path.write_text(text, encoding="utf-8")
+    print(f"{path.name}: written ({label})")
+
+
 def main() -> None:
     manifest = build()
-    text = json.dumps(manifest, ensure_ascii=False, indent=2, sort_keys=True) + "\n"
-    OUT.parent.mkdir(parents=True, exist_ok=True)
-    if OUT.exists() and OUT.read_text(encoding="utf-8") == text:
-        print("No redirect-map changes.")
-        return
-    OUT.write_text(text, encoding="utf-8")
-    print(f"{OUT.name}: {len(manifest['entries'])} entries (status: not-enabled)")
+    _write(
+        OUT,
+        json.dumps(manifest, ensure_ascii=False, indent=2, sort_keys=True) + "\n",
+        "redirect-map",
+    )
+    if manifest["status"] == "enabled":
+        _write(REDIRECTS, redirects_text(manifest), "_redirects")
+    elif REDIRECTS.exists() and "build-pipeline-redirect-map.py" in REDIRECTS.read_text("utf-8"):
+        REDIRECTS.unlink()  # disabled again -> remove our generated _redirects
 
 
 if __name__ == "__main__":

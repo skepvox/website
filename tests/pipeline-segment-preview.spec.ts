@@ -108,7 +108,7 @@ test.describe('pipeline-export segment preview (Slice 2E, buffer/noindex, no rou
     ).toBe(false)
     // the pt family is dropped from the sitemap by isChapterRoute (deep louis-lavelle routes)
     const urls = [...sitemapUrls()]
-    expect(urls.some((u) => u.includes('introducao-a-ontologia'))).toBe(false)
+    // the pt hub is intentionally in the sitemap; only deep per-segment routes are pruned
     expect(urls.some((u) => /\/00-\d\d-\d\d\d-\d\d\d-/.test(u))).toBe(false)
   })
 

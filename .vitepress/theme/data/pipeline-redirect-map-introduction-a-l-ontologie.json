@@ -6,93 +6,95 @@
       "note": "Front matter — 1:1 (single front-matter segment).",
       "oldPath": "/louis-lavelle/introduction-a-l-ontologie/00-00-000-avertissement",
       "statusCode": 301,
-      "targetPath": "/louis-lavelle/introduction-a-l-ontologie/00-00-000-001-avertissement"
+      "targetPath": "/louis-lavelle/introducao-a-ontologia/00-00-000-001-advertencia"
     },
     {
       "chapterPrefix": "00-01-001",
-      "note": "First fr segment of chapter “Distinction”.",
+      "note": "First pt segment of chapter “Distinção”.",
       "oldPath": "/louis-lavelle/introduction-a-l-ontologie/00-01-001-distinction",
       "statusCode": 301,
-      "targetPath": "/louis-lavelle/introduction-a-l-ontologie/00-01-001-002-paragraphe-1"
+      "targetPath": "/louis-lavelle/introducao-a-ontologia/00-01-001-002-paragrafo-1"
     },
     {
       "chapterPrefix": "00-01-002",
-      "note": "First fr segment of chapter “Être”.",
+      "note": "First pt segment of chapter “Ser”.",
       "oldPath": "/louis-lavelle/introduction-a-l-ontologie/00-01-002-etre",
       "statusCode": 301,
-      "targetPath": "/louis-lavelle/introduction-a-l-ontologie/00-01-002-008-paragraphe-7"
+      "targetPath": "/louis-lavelle/introducao-a-ontologia/00-01-002-008-paragrafo-7"
     },
     {
       "chapterPrefix": "00-01-003",
-      "note": "First fr segment of chapter “Existence”.",
+      "note": "First pt segment of chapter “Existência”.",
       "oldPath": "/louis-lavelle/introduction-a-l-ontologie/00-01-003-existence",
       "statusCode": 301,
-      "targetPath": "/louis-lavelle/introduction-a-l-ontologie/00-01-003-021-paragraphe-20"
+      "targetPath": "/louis-lavelle/introducao-a-ontologia/00-01-003-021-paragrafo-20"
     },
     {
       "chapterPrefix": "00-01-004",
-      "note": "First fr segment of chapter “Réalité”.",
+      "note": "First pt segment of chapter “Realidade”.",
       "oldPath": "/louis-lavelle/introduction-a-l-ontologie/00-01-004-realite",
       "statusCode": 301,
-      "targetPath": "/louis-lavelle/introduction-a-l-ontologie/00-01-004-034-paragraphe-33"
+      "targetPath": "/louis-lavelle/introducao-a-ontologia/00-01-004-034-paragrafo-33"
     },
     {
       "chapterPrefix": "00-01-005",
-      "note": "First fr segment of chapter “Connexion”.",
+      "note": "First pt segment of chapter “Conexão”.",
       "oldPath": "/louis-lavelle/introduction-a-l-ontologie/00-01-005-connexion",
       "statusCode": 301,
-      "targetPath": "/louis-lavelle/introduction-a-l-ontologie/00-01-005-045-paragraphe-44"
+      "targetPath": "/louis-lavelle/introducao-a-ontologia/00-01-005-045-paragrafo-44"
     },
     {
       "chapterPrefix": "00-02-001",
-      "note": "First fr segment of chapter “Distinction”.",
+      "note": "First pt segment of chapter “Distinção”.",
       "oldPath": "/louis-lavelle/introduction-a-l-ontologie/00-02-001-distinction",
       "statusCode": 301,
-      "targetPath": "/louis-lavelle/introduction-a-l-ontologie/00-02-001-051-paragraphe-50"
+      "targetPath": "/louis-lavelle/introducao-a-ontologia/00-02-001-051-paragrafo-50"
     },
     {
       "chapterPrefix": "00-02-002",
-      "note": "First fr segment of chapter “Bien”.",
+      "note": "First pt segment of chapter “Bem”.",
       "oldPath": "/louis-lavelle/introduction-a-l-ontologie/00-02-002-bien",
       "statusCode": 301,
-      "targetPath": "/louis-lavelle/introduction-a-l-ontologie/00-02-002-058-paragraphe-57"
+      "targetPath": "/louis-lavelle/introducao-a-ontologia/00-02-002-058-paragrafo-57"
     },
     {
       "chapterPrefix": "00-02-003",
-      "note": "First fr segment of chapter “Valeur”.",
+      "note": "First pt segment of chapter “Valor”.",
       "oldPath": "/louis-lavelle/introduction-a-l-ontologie/00-02-003-valeur",
       "statusCode": 301,
-      "targetPath": "/louis-lavelle/introduction-a-l-ontologie/00-02-003-071-paragraphe-70"
+      "targetPath": "/louis-lavelle/introducao-a-ontologia/00-02-003-071-paragrafo-70"
     },
     {
       "chapterPrefix": "00-02-004",
-      "note": "First fr segment of chapter “Idéal”.",
+      "note": "First pt segment of chapter “Ideal”.",
       "oldPath": "/louis-lavelle/introduction-a-l-ontologie/00-02-004-ideal",
       "statusCode": 301,
-      "targetPath": "/louis-lavelle/introduction-a-l-ontologie/00-02-004-082-paragraphe-81"
+      "targetPath": "/louis-lavelle/introducao-a-ontologia/00-02-004-082-paragrafo-81"
     },
     {
       "chapterPrefix": "00-02-005",
-      "note": "First fr segment of chapter “Connexion”.",
+      "note": "First pt segment of chapter “Conexão”.",
       "oldPath": "/louis-lavelle/introduction-a-l-ontologie/00-02-005-connexion",
       "statusCode": 301,
-      "targetPath": "/louis-lavelle/introduction-a-l-ontologie/00-02-005-092-paragraphe-91"
+      "targetPath": "/louis-lavelle/introducao-a-ontologia/00-02-005-092-paragrafo-91"
     },
     {
       "chapterPrefix": "99-99-999",
-      "note": "Conclusion — maps to the first conclusion segment (99-99-999-096). Segments 097-099 are new segment routes with no old-URL source (no redirect).",
+      "note": "Conclusion — maps to the first conclusion segment; later conclusion segments are new pt routes with no old-URL source.",
       "oldPath": "/louis-lavelle/introduction-a-l-ontologie/99-99-999-conclusion",
       "statusCode": 301,
-      "targetPath": "/louis-lavelle/introduction-a-l-ontologie/99-99-999-096-paragraphe-95"
+      "targetPath": "/louis-lavelle/introducao-a-ontologia/99-99-999-096-paragrafo-95"
     }
   ],
   "generatedBy": "scripts/build-pipeline-redirect-map.py",
-  "note": "Old fr chapter URL -> first fr segment route of the same chapter (BB-PP-CCC, lowest SSS). NOT wired into any redirect channel (src/public/_redirects is absent). routePath is presentation-only; identity is canonicalId. Targets are chapter-level: paragraph-level deep links have no old-URL source.",
+  "note": "Old fr chapter URL -> first PT (canonical edition) segment route of the same chapter (shared BB-PP-CCC prefix, lowest SSS). Targets are built pt pages with real prose, never an unbuilt fr segment route. Enabled: written to src/public/_redirects as 301s. routePath is presentation only; identity is canonicalId.",
   "source": "pipeline-export",
-  "status": "not-enabled",
+  "status": "enabled",
   "work": {
-    "edition": "fr",
-    "routeSlug": "introduction-a-l-ontologie",
+    "sourceLanguage": "fr",
+    "targetEdition": "canonical",
+    "targetLanguage": "pt",
+    "targetRouteSlug": "introducao-a-ontologia",
     "workId": "louis-lavelle/introduction-a-l-ontologie"
   }
 }
