@@ -147,7 +147,8 @@ test.describe('pipeline-export ingestion (Slice 2B: vendor + reshape, no routes)
     // (the live WorkContents path) are unchanged.
     expect(codeRefs('pipeline-export-segments')).toEqual([
       'theme/components/PipelineExportReview.vue',
-      'theme/components/PipelineReaderPreview.vue'
+      'theme/components/PipelineReaderPreview.vue',
+      'theme/components/PipelineSegmentNav.vue'
     ])
     expect(codeRefs('segment-manifest')).toEqual([
       'theme/components/WorkContents.vue',

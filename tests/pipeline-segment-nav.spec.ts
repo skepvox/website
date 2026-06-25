@@ -1,0 +1,137 @@
+import { test, expect } from '@playwright/test'
+import fs from 'node:fs'
+import path from 'node:path'
+import { execFileSync } from 'node:child_process'
+
+// Slice 2O — owned prev/next/up navigation for the live pt segment leaves (PipelineSegmentNav).
+// Injected via the theme content slots (page bodies untouched), self-gated by the
+// `generated: pipeline-segment-routes` frontmatter marker, joining pipeline-export-segments.json by
+// (canonicalId, language). Never crosses edition/language; uses SkLink; absent everywhere else.
+const DIST = path.resolve('.vitepress/dist')
+const META = path.resolve('.vitepress/theme/data/pipeline-export-segments.json')
+const GEN = path.resolve('scripts/build-pipeline-segment-routes.py')
+const COMP = path.resolve('.vitepress/theme/components/PipelineSegmentNav.vue')
+const HUB = '/louis-lavelle/introducao-a-ontologia/'
+
+const read = (p: string) => JSON.parse(fs.readFileSync(p, 'utf-8'))
+const ptByOrder = () =>
+  read(META)
+    .segments.filter((s: any) => s.language === 'pt')
+    .sort((a: any, b: any) => a.order - b.order)
+const routeOf = (s: any) => `/${s.routePath}`
+
+function builtExists(href: string): boolean {
+  const h = href.replace(/\/$/, '') || '/'
+  if (h === '/') return fs.existsSync(path.join(DIST, 'index.html'))
+  return (
+    fs.existsSync(path.join(DIST, `${h}.html`)) || fs.existsSync(path.join(DIST, h, 'index.html'))
+  )
+}
+
+test.describe('pipeline pt segment nav (Slice 2O, owned prev/next/up, pipeline-sourced)', () => {
+  test('first segment: next-only + up + context (no prev)', async ({ page }) => {
+    const pt = ptByOrder()
+    await page.goto(routeOf(pt[0]))
+    await expect(page.locator('[data-testid="pseg-context"]')).toBeVisible()
+    const nav = page.locator('[data-testid="pseg-nav"]')
+    await expect(nav).toBeVisible()
+    await expect(nav.locator('[data-testid="pseg-prev"]')).toHaveCount(0)
+    await expect(nav.locator('[data-testid="pseg-next"]')).toHaveCount(1)
+    await expect(nav.locator('[data-testid="pseg-up"]')).toHaveCount(1)
+    await expect(nav.locator('[data-testid="pseg-next"]')).toHaveAttribute('href', routeOf(pt[1]))
+  })
+
+  test('middle segment: prev + next + up, all pointing to pt routes', async ({ page }) => {
+    const pt = ptByOrder()
+    const i = pt.findIndex((s: any) => s.segmentPrefix === '00-01-002-008')
+    await page.goto(routeOf(pt[i]))
+    const nav = page.locator('[data-testid="pseg-nav"]')
+    await expect(nav.locator('[data-testid="pseg-prev"]')).toHaveAttribute(
+      'href',
+      routeOf(pt[i - 1])
+    )
+    await expect(nav.locator('[data-testid="pseg-next"]')).toHaveAttribute(
+      'href',
+      routeOf(pt[i + 1])
+    )
+    await expect(nav.locator('[data-testid="pseg-up"]')).toHaveAttribute('href', HUB)
+    // rel discipline (prev/next semantics)
+    await expect(nav.locator('[data-testid="pseg-prev"]')).toHaveAttribute('rel', 'prev')
+    await expect(nav.locator('[data-testid="pseg-next"]')).toHaveAttribute('rel', 'next')
+  })
+
+  test('last segment: prev-only + up (no next)', async ({ page }) => {
+    const pt = ptByOrder()
+    await page.goto(routeOf(pt[pt.length - 1]))
+    const nav = page.locator('[data-testid="pseg-nav"]')
+    await expect(nav.locator('[data-testid="pseg-prev"]')).toHaveCount(1)
+    await expect(nav.locator('[data-testid="pseg-next"]')).toHaveCount(0)
+    await expect(nav.locator('[data-testid="pseg-up"]')).toHaveCount(1)
+    await expect(nav.locator('[data-testid="pseg-prev"]')).toHaveAttribute(
+      'href',
+      routeOf(pt[pt.length - 2])
+    )
+  })
+
+  test('every nav href resolves to a built pt public page — no fr / old chapter / reading-review', async ({
+    page
+  }) => {
+    const pt = ptByOrder()
+    const i = pt.findIndex((s: any) => s.segmentPrefix === '00-01-002-008')
+    await page.goto(routeOf(pt[i]))
+    const nav = page.locator('[data-testid="pseg-nav"]')
+    const hrefs = await Promise.all(
+      ['pseg-prev', 'pseg-next', 'pseg-up'].map((id) =>
+        nav.locator(`[data-testid="${id}"]`).getAttribute('href')
+      )
+    )
+    for (const href of hrefs) {
+      expect(href).toBeTruthy()
+      expect(builtExists(href!), `${href} built`).toBe(true)
+      expect(href!.includes('introduction-a-l-ontologie')).toBe(false) // no fr / old chapter route
+      expect(href!.includes('reading-review')).toBe(false)
+      expect(
+        href === HUB || href!.startsWith('/louis-lavelle/introducao-a-ontologia/'),
+        `${href} is pt namespace`
+      ).toBe(true)
+    }
+  })
+
+  test('the nav is absent on non-pipeline-leaf pages', async ({ page }) => {
+    for (const route of [
+      '/louis-lavelle/introduction-a-l-ontologie/00-01-002-etre', // old fr chapter (preview serves it)
+      '/reading-review/introduction-a-l-ontologie-reader', // reading-review demo
+      '/louis-lavelle/introducao-a-ontologia/', // the pt hub (pipeline-work-hub marker, not -routes)
+      '/podcast/', // podcast
+      '/' // home
+    ]) {
+      await page.goto(route)
+      await expect(page.locator('[data-testid="pseg-nav"]'), route).toHaveCount(0)
+      await expect(page.locator('[data-testid="pseg-context"]'), route).toHaveCount(0)
+    }
+  })
+
+  test('SkLink + focus/hover discipline is preserved', () => {
+    const src = fs.readFileSync(COMP, 'utf-8')
+    expect(src).toContain("import SkLink from './SkLink.vue'")
+    // all links go through SkLink (no raw <a> in the template)
+    expect(src.includes('<a ')).toBe(false)
+    // visible hover is pointer-gated; keyboard focus is owned by SkLink (no per-component focus rule)
+    expect(src).toContain('@media (hover: hover) and (pointer: fine)')
+    expect(src.includes(':focus-visible')).toBe(false)
+  })
+
+  test('generated pages stay idempotent and prose-only (the nav is theme-injected, not in the body)', () => {
+    const out = execFileSync('python3', [GEN], { encoding: 'utf-8' })
+    expect(out).toContain('No segment-routes changes.')
+    const body = fs
+      .readFileSync(
+        path.resolve('src/louis-lavelle/introducao-a-ontologia/00-01-002-008-paragrafo-7.md'),
+        'utf-8'
+      )
+      .replace(/^---[\s\S]*?\n---\n/, '')
+    expect(body).toContain('na simples enunciação da palavra ser') // prose intact
+    expect(body.includes('Trecho anterior')).toBe(false) // nav is NOT in the page body
+    expect(body.includes('pseg-nav')).toBe(false)
+  })
+})

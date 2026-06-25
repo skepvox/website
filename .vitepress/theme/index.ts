@@ -11,6 +11,7 @@ import PipelineExportReview from './components/PipelineExportReview.vue'
 import PipelineSegmentPreview from './components/PipelineSegmentPreview.vue'
 import PipelineWindowPreview from './components/PipelineWindowPreview.vue'
 import PipelineReaderPreview from './components/PipelineReaderPreview.vue'
+import PipelineSegmentNav from './components/PipelineSegmentNav.vue'
 import ThemeChromeSync from './components/ThemeChromeSync.vue'
 
 import 'vitepress/dist/client/theme-default/styles/components/vp-code-group.css'
@@ -26,9 +27,14 @@ export default Object.assign({}, VPTheme, {
         'content-top': () => [
           h(BufferNotice),
           h(ReadingNav, { placement: 'top' }),
+          h(PipelineSegmentNav, { placement: 'top' }),
           h(WorkContentsMount)
         ],
-        'content-bottom': () => [h(ReadingNav, { placement: 'bottom' }), h(PodcastEpisodeNav)]
+        'content-bottom': () => [
+          h(ReadingNav, { placement: 'bottom' }),
+          h(PipelineSegmentNav, { placement: 'bottom' }),
+          h(PodcastEpisodeNav)
+        ]
       }),
       h(ThemeChromeSync)
     ]
