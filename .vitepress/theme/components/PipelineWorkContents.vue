@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed, onMounted, reactive } from 'vue'
+import { computed, nextTick, onMounted, reactive, ref } from 'vue'
 import meta from '../data/pipeline-export-segments.json'
 import SkLink from './SkLink.vue'
 
@@ -106,8 +106,9 @@ const blocks = computed<(LooseBlock | PartBlock)[]>(() => {
 
 // Collapse state. Chapters default COLLAPSED; the default is rendered identically on the server and
 // on first client paint (expanded starts empty), so hydration matches. Persisted open/closed state
-// is keyed by the chapter's stable groupPath key (never identity) and applied AFTER mount, so it
-// never causes a hydration mismatch and never stores reading progress or user identity.
+// is namespaced by work/language and stores only boolean flags keyed by the chapter's stable
+// groupPath key. It is applied AFTER mount, so it never causes a hydration mismatch and never stores
+// reading progress, last-read position, or user identity.
 const storageKey = computed(() => `skepvox:pwc:${props.workId}:${props.language}`)
 const expanded = reactive<Record<string, boolean>>({})
 const isOpen = (key: string) => expanded[key] ?? false
@@ -123,7 +124,23 @@ function persist() {
     // localStorage unavailable (private mode / disabled) — collapse still works in-session.
   }
 }
-onMounted(() => {
+
+// Return-to-hub highlight. When the reader follows a leaf's "up" link
+// (…/introducao-a-ontologia/#trecho-<segmentPrefix>), open + mark that chapter so they find their
+// place again. URL-driven UI state only — no stored reading progress. currentPrefix starts null (so
+// SSR and first client paint match) and is set after mount, exactly like the collapse state.
+const chapterKeyOf = computed(() => {
+  const map = new Map<string, string | null>()
+  for (const b of blocks.value) {
+    if (b.type === 'loose') for (const s of b.segments) map.set(s.segmentPrefix, null)
+    else for (const ch of b.chapters) for (const s of ch.segments) map.set(s.segmentPrefix, ch.key)
+  }
+  return map
+})
+const currentPrefix = ref<string | null>(null)
+const isCurrent = (s: Seg) => s.segmentPrefix === currentPrefix.value
+
+function restoreCollapse() {
   try {
     const raw = window.localStorage.getItem(storageKey.value)
     if (!raw) return
@@ -134,6 +151,25 @@ onMounted(() => {
   } catch {
     // ignore malformed / unavailable storage
   }
+}
+function applyReturnHash() {
+  const m = /^#trecho-(.+)$/.exec(window.location.hash)
+  if (!m) return
+  const prefix = m[1]
+  if (!chapterKeyOf.value.has(prefix)) return
+  currentPrefix.value = prefix
+  const chapterKey = chapterKeyOf.value.get(prefix)
+  if (chapterKey) expanded[chapterKey] = true
+  nextTick(() => {
+    const el = document.querySelector('.pwc__link.is-current')
+    if (!el) return
+    const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches
+    el.scrollIntoView({ block: 'center', behavior: reduce ? 'auto' : 'smooth' })
+  })
+}
+onMounted(() => {
+  restoreCollapse()
+  applyReturnHash()
 })
 </script>
 
@@ -148,7 +184,9 @@ onMounted(() => {
             v-for="s in block.segments"
             :key="s.canonicalId"
             class="pwc__link pwc__link--loose"
+            :class="{ 'is-current': isCurrent(s) }"
             :href="`/${s.routePath}`"
+            :current="isCurrent(s)"
             >{{ s.displayTitle }}</SkLink
           >
         </div>
@@ -183,7 +221,9 @@ onMounted(() => {
                 v-for="s in ch.segments"
                 :key="s.canonicalId"
                 class="pwc__link"
+                :class="{ 'is-current': isCurrent(s) }"
                 :href="`/${s.routePath}`"
+                :current="isCurrent(s)"
                 >{{ s.displayTitle }}</SkLink
               >
             </div>
@@ -308,6 +348,17 @@ onMounted(() => {
 /* Front-matter links sit flush (no chapter indent). */
 .pwc__link--loose {
   padding-left: 0;
+}
+
+/* The trecho the reader returned from (via a leaf "up" link): a quiet current marker, dormant on a
+   normal hub visit. The accent rule sits inside the leaf indent so it does not touch the page edge. */
+.pwc__link.is-current {
+  color: var(--sk-reading-heading);
+  box-shadow: inset 2px 0 0 0 var(--sk-accent);
+}
+.pwc__link--loose.is-current {
+  box-shadow: none;
+  font-weight: 600;
 }
 
 /* Four-state floor: visible hover lift only on real pointer devices (no stuck iOS tap state).

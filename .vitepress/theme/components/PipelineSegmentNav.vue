@@ -26,6 +26,7 @@ interface Seg {
   order: number
   displayTitle: string
   routePath: string
+  segmentPrefix: string
   groupPath: Level[]
 }
 
@@ -53,17 +54,19 @@ const next = computed<Seg | null>(() =>
 )
 
 const part = computed(() => current.value?.groupPath.find((l) => l.kind === 'part') ?? null)
-const chapterTitle = computed(() => {
-  const c = current.value?.groupPath.find((l) => l.kind === 'chapter')
-  return c ? c.title || c.label : ''
-})
+// Orientation eyebrow: work · part only. The chapter is already the page's own <h2> in the prose
+// body, so repeating it here duplicated that heading on every mid-book trecho.
 const context = computed(() => {
   if (!current.value) return ''
-  const tail = [part.value?.label, chapterTitle.value].filter(Boolean).join(' / ')
-  return tail ? `${WORK_TITLE} · ${tail}` : WORK_TITLE
+  return part.value?.label ? `${WORK_TITLE} · ${part.value.label}` : WORK_TITLE
 })
 
 const href = (s: Seg) => `/${s.routePath}` // routePath = presentation (the public URL), not identity
+// The "up" link carries the current trecho so the hub can open + highlight that chapter on return
+// (#trecho-<segmentPrefix>). URL-only, no stored reading progress.
+const upHref = computed(() =>
+  current.value ? `${HUB}#trecho-${current.value.segmentPrefix}` : HUB
+)
 </script>
 
 <template>
@@ -110,7 +113,7 @@ const href = (s: Seg) => `/${s.routePath}` // routePath = presentation (the publ
     </div>
 
     <p class="pseg-nav__up">
-      <SkLink class="pseg-nav__up-link" :href="HUB" data-testid="pseg-up">
+      <SkLink class="pseg-nav__up-link" :href="upHref" data-testid="pseg-up">
         ↑ Índice — {{ WORK_TITLE }}
       </SkLink>
     </p>

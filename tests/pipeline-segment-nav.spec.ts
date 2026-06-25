@@ -54,10 +54,19 @@ test.describe('pipeline pt segment nav (Slice 2O, owned prev/next/up, pipeline-s
       'href',
       routeOf(pt[i + 1])
     )
-    await expect(nav.locator('[data-testid="pseg-up"]')).toHaveAttribute('href', HUB)
+    // up returns to the hub, carrying the current trecho so the hub can open + highlight it
+    await expect(nav.locator('[data-testid="pseg-up"]')).toHaveAttribute(
+      'href',
+      `${HUB}#trecho-00-01-002-008`
+    )
     // rel discipline (prev/next semantics)
     await expect(nav.locator('[data-testid="pseg-prev"]')).toHaveAttribute('rel', 'prev')
     await expect(nav.locator('[data-testid="pseg-next"]')).toHaveAttribute('rel', 'next')
+    // the eyebrow orients by work · part only — the chapter ("Ser") is the page <h2>, not duplicated
+    const ctx = (await page.locator('[data-testid="pseg-context"]').innerText()).trim()
+    expect(ctx).toContain('Primeira parte')
+    expect(ctx).not.toContain('Ser')
+    expect(ctx).not.toContain(' / ')
   })
 
   test('last segment: prev-only + up (no next)', async ({ page }) => {
@@ -87,11 +96,12 @@ test.describe('pipeline pt segment nav (Slice 2O, owned prev/next/up, pipeline-s
     )
     for (const href of hrefs) {
       expect(href).toBeTruthy()
-      expect(builtExists(href!), `${href} built`).toBe(true)
+      const noHash = href!.split('#')[0] // the up link carries a #trecho-<prefix> fragment
+      expect(builtExists(noHash), `${noHash} built`).toBe(true)
       expect(href!.includes('introduction-a-l-ontologie')).toBe(false) // no fr / old chapter route
       expect(href!.includes('reading-review')).toBe(false)
       expect(
-        href === HUB || href!.startsWith('/louis-lavelle/introducao-a-ontologia/'),
+        noHash === HUB || noHash.startsWith('/louis-lavelle/introducao-a-ontologia/'),
         `${href} is pt namespace`
       ).toBe(true)
     }
@@ -133,5 +143,20 @@ test.describe('pipeline pt segment nav (Slice 2O, owned prev/next/up, pipeline-s
     expect(body).toContain('na simples enunciação da palavra ser') // prose intact
     expect(body.includes('Trecho anterior')).toBe(false) // nav is NOT in the page body
     expect(body.includes('pseg-nav')).toBe(false)
+  })
+
+  test('performance boundary: each leaf carries only its own prose (no all-99 prose bundle)', () => {
+    const html = (leaf: string) =>
+      fs.readFileSync(path.join(DIST, `louis-lavelle/introducao-a-ontologia/${leaf}.html`), 'utf-8')
+    const adv = html('00-00-000-001-advertencia')
+    const p7 = html('00-01-002-008-paragrafo-7')
+    const advPhrase = 'duas conferências proferidas' // distinctive to Advertência
+    const p7Phrase = 'na simples enunciação da palavra ser' // distinctive to Parágrafo 7
+    // each leaf has ITS OWN prose ...
+    expect(adv.includes(advPhrase)).toBe(true)
+    expect(p7.includes(p7Phrase)).toBe(true)
+    // ... and never another segment's prose (no all-segments bundle leaks onto any leaf)
+    expect(adv.includes(p7Phrase)).toBe(false)
+    expect(p7.includes(advPhrase)).toBe(false)
   })
 })

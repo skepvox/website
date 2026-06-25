@@ -7,6 +7,18 @@ const HUB = '/louis-lavelle/introducao-a-ontologia/'
 const STORAGE_KEY = 'skepvox:pwc:louis-lavelle/introduction-a-l-ontologie:pt'
 
 test.describe('PipelineWorkContents (owned pt work-hub contents map)', () => {
+  // Dismiss the GA consent banner (fixed, bottom) so it never intercepts clicks on bottom-of-page
+  // navigation (e.g. a leaf's "up" link). The banner is site-wide chrome, not reader-shell behaviour.
+  test.beforeEach(async ({ page }) => {
+    await page.addInitScript(() => {
+      try {
+        localStorage.setItem('skepvox-consent', 'denied')
+      } catch {
+        /* storage unavailable */
+      }
+    })
+  })
+
   test('renders the SSR contents skeleton: front matter, 2 parts, 10 chapters, 99 links', async ({
     page
   }) => {
@@ -48,7 +60,7 @@ test.describe('PipelineWorkContents (owned pt work-hub contents map)', () => {
     await expect(region).toBeHidden()
   })
 
-  test('open/closed state persists across reload via localStorage (no identity, no progress)', async ({
+  test('open/closed state persists across reload via localStorage (no progress signal)', async ({
     page
   }) => {
     await page.goto(HUB)
@@ -59,7 +71,7 @@ test.describe('PipelineWorkContents (owned pt work-hub contents map)', () => {
 
     const stored = await page.evaluate((k) => window.localStorage.getItem(k), STORAGE_KEY)
     expect(stored).toBeTruthy()
-    // only boolean open/closed flags keyed by groupPath key — never identity, never progress
+    // only boolean open/closed flags — never last-read position or progress
     const parsed = JSON.parse(stored as string) as Record<string, unknown>
     for (const v of Object.values(parsed)) expect(typeof v).toBe('boolean')
 
@@ -76,5 +88,47 @@ test.describe('PipelineWorkContents (owned pt work-hub contents map)', () => {
     await expect(page.locator('html')).toHaveClass(/dark/)
     await expect(page.locator('nav.pwc')).toBeVisible()
     await expect(page.locator('nav.pwc a.pwc__link')).toHaveCount(99)
+  })
+
+  test('returning with #trecho-<prefix> opens + highlights that chapter segment', async ({
+    page
+  }) => {
+    // a mid-book chapter segment (00-01-002 "Ser") — its chapter is collapsed by default
+    await page.goto(HUB + '#trecho-00-01-002-008')
+    const current = page.locator('nav.pwc a.pwc__link.is-current')
+    await expect(current).toHaveCount(1)
+    await expect(current).toHaveAttribute('aria-current', 'page')
+    await expect(current).toBeVisible() // visible => its chapter was opened (v-show)
+    await expect(current).toHaveAttribute(
+      'href',
+      '/louis-lavelle/introducao-a-ontologia/00-01-002-008-paragrafo-7'
+    )
+  })
+
+  test('returning with the front-matter prefix highlights the loose Advertência link', async ({
+    page
+  }) => {
+    await page.goto(HUB + '#trecho-00-00-000-001')
+    const current = page.locator('nav.pwc a.pwc__link--loose.is-current')
+    await expect(current).toHaveCount(1)
+    await expect(current).toHaveText('Advertência')
+    await expect(current).toHaveAttribute('aria-current', 'page')
+  })
+
+  test('a normal hub visit (no hash) highlights nothing', async ({ page }) => {
+    await page.goto(HUB)
+    await expect(page.locator('nav.pwc a.pwc__link.is-current')).toHaveCount(0)
+  })
+
+  test('clicking a leaf "up" link returns to the hub and highlights the trecho', async ({
+    page
+  }) => {
+    await page.goto('/louis-lavelle/introducao-a-ontologia/00-01-002-008-paragrafo-7')
+    await page.locator('[data-testid="pseg-up"]').click()
+    await expect(page).toHaveURL(/#trecho-00-01-002-008$/)
+    const current = page.locator('nav.pwc a.pwc__link.is-current')
+    await expect(current).toHaveCount(1)
+    await expect(current).toHaveAttribute('aria-current', 'page')
+    await expect(current).toBeVisible()
   })
 })
