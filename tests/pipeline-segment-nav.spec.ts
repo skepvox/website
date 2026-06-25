@@ -34,8 +34,12 @@ test.describe('pipeline pt segment nav (Slice 2O, owned prev/next/up, pipeline-s
   }) => {
     const pt = ptByOrder()
     await page.goto(routeOf(pt[0]))
-    // advertência is front matter (no part) → no orientation eyebrow (Slice A: part-only eyebrow)
+    // advertência is front matter: the owned header renders its chapter (h2 "Advertência") with no
+    // segment-title h3; the old part-eyebrow is gone entirely.
     await expect(page.locator('[data-testid="pseg-context"]')).toHaveCount(0)
+    const head = page.locator('[data-testid="pseg-head"]')
+    await expect(head.locator('h2')).toHaveText('Advertência')
+    await expect(head.locator('h3')).toHaveCount(0)
     const nav = page.locator('[data-testid="pseg-nav"]')
     await expect(nav).toBeVisible()
     await expect(nav.locator('[data-testid="pseg-prev"]')).toHaveCount(0)
@@ -65,11 +69,6 @@ test.describe('pipeline pt segment nav (Slice 2O, owned prev/next/up, pipeline-s
     // rel discipline (prev/next semantics)
     await expect(nav.locator('[data-testid="pseg-prev"]')).toHaveAttribute('rel', 'prev')
     await expect(nav.locator('[data-testid="pseg-next"]')).toHaveAttribute('rel', 'next')
-    // the eyebrow orients by work · part only — the chapter ("Ser") is the page <h2>, not duplicated
-    const ctx = (await page.locator('[data-testid="pseg-context"]').innerText()).trim()
-    expect(ctx).toContain('Primeira parte')
-    expect(ctx).not.toContain('Ser')
-    expect(ctx).not.toContain(' / ')
   })
 
   test('last segment: prev-only + up (no next)', async ({ page }) => {
@@ -134,50 +133,63 @@ test.describe('pipeline pt segment nav (Slice 2O, owned prev/next/up, pipeline-s
     expect(src.includes(':focus-visible')).toBe(false)
   })
 
-  test('generated pages stay idempotent and prose-only (the nav is theme-injected, not in the body)', () => {
+  test('generated pages stay idempotent; chapter/segment headings hoisted to frontmatter, prose-only body', () => {
     const out = execFileSync('python3', [GEN], { encoding: 'utf-8' })
     expect(out).toContain('No segment-routes changes.')
-    const body = fs
-      .readFileSync(
-        path.resolve('src/louis-lavelle/introducao-a-ontologia/00-01-002-008-paragrafo-7.md'),
-        'utf-8'
-      )
-      .replace(/^---[\s\S]*?\n---\n/, '')
-    expect(body).toContain('na simples enunciação da palavra ser') // prose intact
+    const raw = fs.readFileSync(
+      path.resolve('src/louis-lavelle/introducao-a-ontologia/00-01-002-008-paragrafo-7.md'),
+      'utf-8'
+    )
+    const fm = raw.match(/^---\n([\s\S]*?)\n---\n/)![1]
+    const body = raw.replace(/^---[\s\S]*?\n---\n/, '')
+    // the leading chapter/segment headings are hoisted into frontmatter for the owned reader-header
+    expect(fm).toContain('pipelineChapter: "Ser"')
+    expect(fm).toContain('pipelineSegmentTitle: "Parágrafo 7"')
+    // ... and removed from the body, so no page renders the same heading twice
+    expect(body.trimStart().startsWith('## ')).toBe(false)
+    expect(body.includes('## Ser')).toBe(false)
+    expect(body.includes('### Parágrafo 7')).toBe(false)
+    expect(body).toContain('na simples enunciação da palavra ser') // prose preserved exactly
     expect(body.includes('Trecho anterior')).toBe(false) // nav is NOT in the page body
     expect(body.includes('pseg-nav')).toBe(false)
   })
 
-  test('Slice A: leaf chapter heading is a calm kicker below the prose (no accent bar); up = "Sumário"', async ({
+  test('Slice B: owned reader-header renders real h2 + h3 (no vt-doc heading event); up = "Sumário"', async ({
     page
   }) => {
     const pt = ptByOrder()
-    const mid = pt.find((s: any) => s.segmentPrefix === '00-02-001-051') // "Distinção" chapter (h2 + h3)
+    const mid = pt.find((s: any) => s.segmentPrefix === '00-02-001-051') // "Distinção" / "Parágrafo 50"
     await page.goto(routeOf(mid))
-    const h2 = page.locator('.VPContentDoc .vt-doc h2').first()
-    await expect(h2).toBeVisible()
-    const m = await h2.evaluate((el) => {
-      const cs = getComputedStyle(el)
-      const before = getComputedStyle(el, '::before')
+    // the owned header carries the chapter (h2) + segment (h3), same text as the source headings
+    const head = page.locator('[data-testid="pseg-head"]')
+    await expect(head.locator('h2')).toHaveText('Distinção')
+    await expect(head.locator('h3')).toHaveText('Parágrafo 50')
+    // exactly one real h2 + one real h3 on the page (SEO outline preserved), and NOT in the prose body
+    await expect(page.locator('.VPContentDoc h2')).toHaveCount(1)
+    await expect(page.locator('.VPContentDoc h3')).toHaveCount(1)
+    await expect(page.locator('.VPContentDoc .vt-doc h2')).toHaveCount(0)
+    await expect(page.locator('.VPContentDoc .vt-doc h3')).toHaveCount(0)
+    // the chapter kicker is calm: uppercase, below the dominant ~17px prose, with no accent bar
+    const m = await head.locator('h2').evaluate((el) => {
       const p = document.querySelector('.VPContentDoc .vt-doc p') as HTMLElement
       return {
-        h2px: parseFloat(cs.fontSize),
-        transform: cs.textTransform,
-        before: before.display,
+        transform: getComputedStyle(el).textTransform,
+        before: getComputedStyle(el, '::before').content,
+        h2px: parseFloat(getComputedStyle(el).fontSize),
         prosePx: parseFloat(getComputedStyle(p).fontSize)
       }
     })
-    expect(m.before).toBe('none') // the chapter-opener accent bar is gone
-    expect(m.transform).toBe('uppercase') // chapter demoted to a small-caps kicker
-    expect(m.h2px).toBeLessThan(m.prosePx) // the chapter no longer out-sizes the prose
-    expect(m.prosePx).toBeGreaterThan(16) // prose bumped to ~17px (the largest reading element)
-    // the up link now reads "Sumário" (unified with the hub), never "Índice"
+    expect(m.transform).toBe('uppercase')
+    expect(m.before).toBe('none') // no accent-bar pseudo-element on the owned kicker
+    expect(m.h2px).toBeLessThan(m.prosePx)
+    expect(m.prosePx).toBeGreaterThan(16)
+    // the up link reads "Sumário" (unified with the hub), never "Índice"
     const up = page.locator('[data-testid="pseg-up"]')
     await expect(up).toContainText('Sumário')
     await expect(up).not.toContainText('Índice')
   })
 
-  test('Slice A scope: legacy reading pages (de-l-acte) keep their chapter-opener h2 (accent bar intact)', async ({
+  test('scope guard: legacy reading pages (de-l-acte) keep their chapter-opener h2 (accent bar intact)', async ({
     page
   }) => {
     await page.goto('/louis-lavelle/de-l-acte')

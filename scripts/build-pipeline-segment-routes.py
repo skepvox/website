@@ -65,9 +65,40 @@ def _read_prose(prose_root: Path, rec: dict) -> str:
     return body.strip("\n") + "\n"
 
 
+def _split_leading_headings(prose: str) -> tuple[str | None, str | None, str]:
+    """Lift the LEADING structural headings the vendored prose carries — `## chapter` then an
+    optional `### segment` — out of the body, so the owned PipelineReaderHeader can render them as
+    real <h2>/<h3> chrome instead of the rented vt-doc chapter-opener event (Slice B). Only the
+    leading headings are removed; any heading deeper in the prose is left as body content. The
+    remaining prose is preserved verbatim. Returns (chapter, segment_title, body).
+    """
+    lines = prose.split("\n")
+
+    def skip_blank(j: int) -> int:
+        while j < len(lines) and lines[j].strip() == "":
+            j += 1
+        return j
+
+    chapter: str | None = None
+    segment_title: str | None = None
+    i = skip_blank(0)
+    if i < len(lines) and lines[i].startswith("## "):
+        chapter = lines[i][3:].strip()
+        i = skip_blank(i + 1)
+        if i < len(lines) and lines[i].startswith("### "):
+            segment_title = lines[i][4:].strip()
+            i = skip_blank(i + 1)
+    return chapter, segment_title, "\n".join(lines[i:])
+
+
 def page_text(rec: dict, prose_root: Path) -> str:
     vis = route_visibility(rec)
     description = f"Introdução à ontologia — Louis Lavelle. {rec['displayTitle']}."
+    prose = _read_prose(prose_root, rec)  # hard-fails if missing
+    # Lift the leading chapter/segment headings out of the body → owned reader-header (Slice B). They
+    # stay REAL <h2>/<h3> (PipelineReaderHeader renders them from these frontmatter fields), so the
+    # document outline + SEO are preserved; the prose body simply no longer restarts with a heading.
+    chapter, segment_title, body = _split_leading_headings(prose)
     fm = [
         "---",
         f"title: {json.dumps(rec['displayTitle'], ensure_ascii=False)}",
@@ -87,11 +118,16 @@ def page_text(rec: dict, prose_root: Path) -> str:
         f"pipelineCanonicalId: {json.dumps(rec['canonicalId'])}",
         f"pipelineLanguage: {EDITION}",
         f"pipelineSegment: {json.dumps(rec['segmentPrefix'])}",
+    ]
+    if chapter is not None:
+        fm.append(f"pipelineChapter: {json.dumps(chapter, ensure_ascii=False)}")
+    if segment_title is not None:
+        fm.append(f"pipelineSegmentTitle: {json.dumps(segment_title, ensure_ascii=False)}")
+    fm += [
         f"generated: {GENERATED_MARKER}",
         "---",
     ]
-    prose = _read_prose(prose_root, rec)  # hard-fails if missing
-    return "\n".join(fm) + "\n\n" + prose
+    return "\n".join(fm) + "\n\n" + body
 
 
 def build(prose_root: Path) -> dict[str, str]:

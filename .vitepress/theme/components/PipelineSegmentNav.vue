@@ -53,11 +53,6 @@ const next = computed<Seg | null>(() =>
   index.value >= 0 && index.value < edition.value.length - 1 ? edition.value[index.value + 1] : null
 )
 
-const part = computed(() => current.value?.groupPath.find((l) => l.kind === 'part') ?? null)
-// Orientation eyebrow: the PART only — no work title (it lives in the up-link), no "·" separator.
-// The chapter is the page's own <h2>, the segment its <h3>; front matter (no part) gets no eyebrow.
-const context = computed(() => part.value?.label ?? '')
-
 const href = (s: Seg) => `/${s.routePath}` // routePath = presentation (the public URL), not identity
 // The "up" link carries the current trecho so the hub can open + highlight that chapter on return
 // (#trecho-<segmentPrefix>). URL-only, no stored reading progress.
@@ -67,15 +62,6 @@ const upHref = computed(() =>
 </script>
 
 <template>
-  <p
-    v-if="placement === 'top' && current && context"
-    class="pseg-context"
-    data-testid="pseg-context"
-    data-pipeline-nav="pt"
-  >
-    {{ context }}
-  </p>
-
   <nav
     v-if="placement === 'bottom' && current"
     class="pseg-nav"
@@ -118,15 +104,6 @@ const upHref = computed(() =>
 </template>
 
 <style scoped>
-/* Quiet bibliographic orientation above the trecho — not navigation: small, muted, reading column. */
-.pseg-context {
-  max-width: var(--sk-reading-measure, 35rem);
-  margin: 0 auto var(--sk-space-4);
-  font-size: 0.76rem;
-  letter-spacing: 0.01em;
-  color: var(--sk-reading-muted);
-}
-
 /* prev/next "continuar a leitura" footer + an up link to the work index, aligned to the column. */
 .pseg-nav {
   max-width: var(--sk-reading-measure, 35rem);

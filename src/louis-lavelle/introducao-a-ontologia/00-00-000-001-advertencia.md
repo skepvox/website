@@ -8,10 +8,9 @@ outline: false
 pipelineCanonicalId: "louis-lavelle/introduction-a-l-ontologie/00-00-000-001"
 pipelineLanguage: pt
 pipelineSegment: "00-00-000-001"
+pipelineChapter: "Advertência"
 generated: pipeline-segment-routes
 ---
-
-## Advertência
 
 Este livro tem sua origem em duas conferências proferidas aos alunos de filosofia da École Normale Supérieure em 1944. Pareceu-nos útil, naquele momento, confrontar a noção de existência, que contava então — e ainda conta — com tão grande favor junto ao público, com a noção tradicional de ser, à qual havíamos consagrado outrora o primeiro volume de nossa *Dialética do Eterno Presente*, e com a noção de realidade, com a qual se corria o risco de confundir uma e outra, e que era o objeto único da percepção comum e da experiência científica. E havíamos pensado que se podia definir o ser como a fonte de todos os modos possíveis de participação, a existência como o ato de participação no ser, na medida em que se efetua em um ser capaz de dizer «eu e mim», e a realidade como o ser ainda, na medida em que, presente por inteiro ao eu ou ao mim, ele todavia o ultrapassa e assume, diante dele, a forma de um ser dado. A partir daí, essas três noções, por exprimirem afirmações distintas sobre o ser, podiam ser definidas como as categorias primeiras da ontologia.
 
