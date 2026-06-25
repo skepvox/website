@@ -4,6 +4,7 @@ description: "Texte intégral en français de Introduction à l'ontologie de Lou
 sidebar: false
 aside: false
 footer: false
+search: false
 book: Introduction à l'ontologie
 author: Louis Lavelle
 language: fr

@@ -498,7 +498,16 @@ gtag('config', 'G-1VWHF2D1QJ');`
       llmstxt({
         // 'reading-review/**' is the internal pipeline-export review buffer surface (Slice 2C):
         // noindex/unlisted/out-of-search, and excluded from the LLM output too.
-        ignoreFiles: ['index.md', 'reading-review/**'],
+        // The old fr edition of Introdução à ontologia is superseded by the canonical pt edition under
+        // introducao-a-ontologia. Keep its prose out of the LLM output: the 12 chapter pages
+        // ('…/introduction-a-l-ontologie/**', 301 redirect sources) AND the full-text fr hub
+        // ('…/introduction-a-l-ontologie.md', which inlines the same chapters).
+        ignoreFiles: [
+          'index.md',
+          'reading-review/**',
+          'louis-lavelle/introduction-a-l-ontologie.md',
+          'louis-lavelle/introduction-a-l-ontologie/**'
+        ],
         customLLMsTxtTemplate: `\
 # skepvox
 
