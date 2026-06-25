@@ -108,15 +108,14 @@ def build(prose_root: Path) -> dict[str, str]:
 
 
 def build_hub() -> str:
-    """The pt work hub (index.md): a readable entry point — authored Part -> Chapter -> Segment LINKS
-    into the pt route family, from pipeline-export metadata only (never segment-manifest). No prose
-    body is concatenated; links use routePath (presentation = the public URL), not canonicalId.
+    """The pt work hub (index.md): a minimal entry point — frontmatter only.
+
+    The title and contents map (front matter, then Part -> Chapter -> Segment) are rendered by the
+    owned SSR component PipelineWorkContents (.vitepress/theme/components), which reads the SAME
+    pipeline-export metadata and builds the hierarchy from each segment's groupPath. No prose and no
+    markdown link list are emitted here, so the hub carries no bullet-list contents dependency and
+    `footer: false` retires the rented prev/next pager (matching every other non-leaf route).
     """
-    meta = json.loads(META.read_text(encoding="utf-8"))
-    pt = sorted(
-        (s for s in meta["segments"] if s["language"] == EDITION),
-        key=lambda s: s["order"],
-    )
     description = "Introdução à ontologia de Louis Lavelle — edição em português, lida por trechos."
     fm = [
         "---",
@@ -124,58 +123,12 @@ def build_hub() -> str:
         f"description: {json.dumps(description, ensure_ascii=False)}",
         "sidebar: false",
         "aside: false",
+        "footer: false",
         "outline: false",
         f"generated: {WORK_HUB_MARKER}",
         "---",
     ]
-    body = [
-        "",
-        f"# {WORK_HUB_TITLE}",
-        "",
-    ]
-
-    # group Part -> Chapter -> Segment; loose (front matter / conclusion) get their own lists.
-    groups: list[dict] = []
-    group: dict | None = None
-    chapter: dict | None = None
-    for rec in pt:
-        gp = rec["groupPath"]
-        if not gp:
-            # The trailing conclusion sentinel currently has no authored groupPath in the export.
-            # Keep it visually continuous with the final chapter instead of creating a second loose
-            # list under the same heading. Front matter still renders as the initial loose list.
-            if chapter is not None and rec["segmentPrefix"].startswith("99-99-999"):
-                chapter["segs"].append(rec)
-                continue
-            if not group or group["type"] != "loose":
-                group = {"type": "loose", "segs": []}
-                groups.append(group)
-                chapter = None
-            group["segs"].append(rec)
-            continue
-        part, chap = gp[0], gp[1]
-        if not group or group["type"] != "part" or group["key"] != part["key"]:
-            group = {"type": "part", "key": part["key"], "label": part["label"], "title": part["title"], "chapters": []}
-            groups.append(group)
-            chapter = None
-        if not chapter or chapter["key"] != chap["key"]:
-            chapter = {"key": chap["key"], "title": chap["title"] or chap["label"], "segs": []}
-            group["chapters"].append(chapter)
-        chapter["segs"].append(rec)
-
-    def link(rec: dict) -> str:
-        return f"- [{rec['displayTitle']}](/{rec['routePath']})"
-
-    for grp in groups:
-        if grp["type"] == "loose":
-            body += [link(rec) for rec in grp["segs"]] + [""]
-        else:
-            head = grp["label"] + (f" — {grp['title']}" if grp["title"] else "")
-            body += [f"## {head}", ""]
-            for c in grp["chapters"]:
-                body += [f"### {c['title']}", ""] + [link(rec) for rec in c["segs"]] + [""]
-
-    return "\n".join(fm + body).rstrip() + "\n"
+    return "\n".join(fm).rstrip() + "\n"
 
 
 def main(argv: list[str] | None = None) -> int:

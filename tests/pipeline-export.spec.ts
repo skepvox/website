@@ -141,14 +141,16 @@ test.describe('pipeline-export ingestion (Slice 2B: vendor + reshape, no routes)
     for (const stem of stems) expect(builtExists(`${work}/${stem}`), stem).toBe(true)
   })
 
-  test('pipeline-export is consumed only by review-only components; segment-manifest consumers unchanged', () => {
-    // The vendored export is consumed ONLY by buffer-only review components (none wired into any live
-    // work hub): the 2C/2D map and the 2G full-work reader prototype. segment-manifest's own consumers
-    // (the live WorkContents path) are unchanged.
+  test('pipeline-export consumers are exactly the owned reader-shell components; segment-manifest consumers unchanged', () => {
+    // The vendored export feeds the buffer-only review prototypes (2C/2D map, 2G full-work reader) AND
+    // the live owned reader shell: PipelineSegmentNav (leaf prev/next/up) and PipelineWorkContents (the
+    // pt work-hub contents map). It is never consumed by the legacy hand-authored book map, whose own
+    // consumers (the WorkContents path) are unchanged.
     expect(codeRefs('pipeline-export-segments')).toEqual([
       'theme/components/PipelineExportReview.vue',
       'theme/components/PipelineReaderPreview.vue',
-      'theme/components/PipelineSegmentNav.vue'
+      'theme/components/PipelineSegmentNav.vue',
+      'theme/components/PipelineWorkContents.vue'
     ])
     expect(codeRefs('segment-manifest')).toEqual([
       'theme/components/WorkContents.vue',

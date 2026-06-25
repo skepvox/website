@@ -7,6 +7,7 @@ import BufferNotice from './components/BufferNotice.vue'
 import ReadingNav from './components/ReadingNav.vue'
 import PodcastEpisodeNav from './components/PodcastEpisodeNav.vue'
 import WorkContentsMount from './components/WorkContentsMount.vue'
+import PipelineWorkContentsMount from './components/PipelineWorkContentsMount.vue'
 import PipelineExportReview from './components/PipelineExportReview.vue'
 import PipelineSegmentPreview from './components/PipelineSegmentPreview.vue'
 import PipelineWindowPreview from './components/PipelineWindowPreview.vue'
@@ -28,7 +29,8 @@ export default Object.assign({}, VPTheme, {
           h(BufferNotice),
           h(ReadingNav, { placement: 'top' }),
           h(PipelineSegmentNav, { placement: 'top' }),
-          h(WorkContentsMount)
+          h(WorkContentsMount),
+          h(PipelineWorkContentsMount)
         ],
         'content-bottom': () => [
           h(ReadingNav, { placement: 'bottom' }),

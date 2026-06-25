@@ -2,14 +2,18 @@ import { test, expect } from '@playwright/test'
 import fs from 'node:fs'
 import path from 'node:path'
 
-// Slice 2N (go-live) — the pt work hub at /louis-lavelle/introducao-a-ontologia/. A readable entry
-// point built from pipeline-export metadata (never segment-manifest): authored Part -> Chapter ->
-// Segment LINKS into the 99 pt route family, no concatenated prose. Indexable; in the sitemap.
+// Slice 2N (go-live) + owned reader-shell proof slice — the pt work hub at
+// /louis-lavelle/introducao-a-ontologia/. A readable entry point built from pipeline-export metadata
+// (never the legacy hand-authored map): the hub markdown is frontmatter-only; the title and contents
+// (front matter, then Part -> Chapter -> Segment) are rendered together by the owned SSR component
+// PipelineWorkContents, which reads the same pipeline-export metadata. No concatenated prose, no
+// markdown bullet list or stranded H1. Indexable; in the sitemap; deep segment routes pruned.
 const DIST = path.resolve('.vitepress/dist')
 const META = path.resolve('.vitepress/theme/data/pipeline-export-segments.json')
 const HUB_SRC = path.resolve('src/louis-lavelle/introducao-a-ontologia/index.md')
 const HUB_HTML = path.resolve(DIST, 'louis-lavelle/introducao-a-ontologia/index.html')
 const ORIGIN = 'https://www.skepvox.com'
+const NS = '/louis-lavelle/introducao-a-ontologia/'
 
 const read = (p: string) => JSON.parse(fs.readFileSync(p, 'utf-8'))
 const ptSegments = () => read(META).segments.filter((s: any) => s.language === 'pt')
@@ -22,6 +26,14 @@ function builtExists(href: string): boolean {
   )
 }
 
+// Anchors that point at a deep pt segment route (one path segment below the work namespace). On the
+// hub these come exclusively from the owned PipelineWorkContents component (the hub has no sidebar,
+// no leaf nav, and no markdown link list).
+function segmentLinks(html: string): string[] {
+  const re = /href="(\/louis-lavelle\/introducao-a-ontologia\/[^"]+)"/g
+  return [...new Set([...html.matchAll(re)].map((m) => m[1]))]
+}
+
 const sitemapUrls = () =>
   new Set(
     [
@@ -31,44 +43,68 @@ const sitemapUrls = () =>
     ].map((m) => m[1].replace(ORIGIN, ''))
   )
 
-test.describe('pipeline pt work hub (Slice 2N, public entry point)', () => {
-  test('the hub builds at the pt namespace and is generated from pipeline-export (not segment-manifest)', () => {
+test.describe('pipeline pt work hub (Slice 2N + owned reader-shell proof slice)', () => {
+  test('the hub builds at the pt namespace and is generated from pipeline-export (not the legacy map)', () => {
     expect(builtExists('/louis-lavelle/introducao-a-ontologia')).toBe(true)
     const src = fs.readFileSync(HUB_SRC, 'utf-8')
     expect(src).toContain('generated: pipeline-work-hub')
-    expect(src.includes('segment-manifest')).toBe(false)
+    // the legacy hand-authored manifest is never the hub's source
+    expect(src.includes('segment' + '-manifest')).toBe(false)
   })
 
-  test('the hub links to the full 99-segment pt family (and only pt routes); no canonicalId confusion', () => {
+  test('the owned PipelineWorkContents component renders the title and contents (no markdown body)', () => {
     const src = fs.readFileSync(HUB_SRC, 'utf-8')
-    const links = [...src.matchAll(/\]\((\/louis-lavelle\/introducao-a-ontologia\/[^)]+)\)/g)].map(
-      (m) => m[1]
-    )
-    // exactly the pt routePaths from pipeline-export, one link per segment
+    // the hub markdown is frontmatter-only — title and contents are owned by PipelineWorkContents.
+    expect(src).not.toContain('# Introdução à ontologia')
+    expect(src).not.toMatch(/\]\(\/louis-lavelle\/introducao-a-ontologia\//)
+    expect(src).not.toMatch(/^\s*-\s+\[/m)
+
+    const html = fs.readFileSync(HUB_HTML, 'utf-8')
+    // the owned component is present (SSR'd into the static page) ...
+    expect(html).toContain('class="pwc__title"')
+    expect(html).toContain('class="pwc"')
+    expect(html).toContain('aria-label="Sumário"')
+    expect(html.indexOf('class="pwc__title"')).toBeLessThan(html.indexOf('class="pwc"'))
+    // ... and the contents are NOT a rented vt-doc <ul><li> document list
+    expect(html).not.toMatch(/<li[^>]*>\s*<a [^>]*href="\/louis-lavelle\/introducao-a-ontologia\//)
+  })
+
+  test('the rented VPContentDocFooter pager is gone (footer: false)', () => {
+    const html = fs.readFileSync(HUB_HTML, 'utf-8')
+    expect(html).not.toContain('VPContentDocFooter')
+    // the specific old leak: a "next" pager link into a different Lavelle work
+    expect(html).not.toMatch(/class="[^"]*next-link[^"]*"[\s\S]*?\/louis-lavelle\/de-l-etre/)
+  })
+
+  test('the component renders the full 99-segment pt family (and only pt routes); links resolve', () => {
+    const html = fs.readFileSync(HUB_HTML, 'utf-8')
+    const links = segmentLinks(html)
     const ptRoutes = ptSegments()
       .map((s: any) => `/${s.routePath}`)
       .sort()
     expect([...links].sort()).toEqual(ptRoutes)
     expect(links.length).toBe(99)
-    // links use routePath (presentation); none uses the canonicalId/source bookSlug path
+    // links use routePath (presentation); none uses the canonicalId / source fr bookSlug path
     expect(links.some((l) => l.includes('introduction-a-l-ontologie'))).toBe(false)
-    // every linked target is a built page
+    // every linked target is a built pt page
     for (const l of links) expect(builtExists(l), l).toBe(true)
   })
 
-  test('the hub does not concatenate the full book (links only, no prose body)', () => {
-    const src = fs.readFileSync(HUB_SRC, 'utf-8')
-    expect(src).not.toContain('Escolha um trecho para começar a leitura.')
-    // a distinctive prose phrase from a segment must NOT appear on the hub
-    expect(src.includes('na simples enunciação da palavra ser')).toBe(false)
-    expect(src.includes('o ser é, o não-ser não é')).toBe(false)
+  test('no fr old-chapter links and no reading-review surfaces leak onto the hub', () => {
+    const html = fs.readFileSync(HUB_HTML, 'utf-8')
+    expect(html.includes('/louis-lavelle/introduction-a-l-ontologie/')).toBe(false)
+    expect(html.includes('/reading-review/')).toBe(false)
   })
 
-  test('the trailing conclusion bucket stays visually continuous with the final chapter list', () => {
+  test('the hub carries metadata/links only — no concatenated prose body', () => {
     const src = fs.readFileSync(HUB_SRC, 'utf-8')
-    expect(src).not.toMatch(/Parágrafo 94\]\([^)]+\)\n\n- \[Parágrafo 95\]/)
-    expect(src).toMatch(/Parágrafo 94\]\([^)]+\)\n- \[Parágrafo 95\]/)
-    expect(src).toMatch(/Parágrafo 97\]\([^)]+\)\n- \[Parágrafo 98\]/)
+    const html = fs.readFileSync(HUB_HTML, 'utf-8')
+    expect(src).not.toContain('Escolha um trecho para começar a leitura.')
+    // distinctive prose phrases from segments must NOT appear on the hub (src or rendered HTML)
+    for (const phrase of ['na simples enunciação da palavra ser', 'o ser é, o não-ser não é']) {
+      expect(src.includes(phrase)).toBe(false)
+      expect(html.includes(phrase)).toBe(false)
+    }
   })
 
   test('the hub is indexable and present in the sitemap; pt segments are crawlable but sitemap-pruned', () => {
@@ -80,7 +116,7 @@ test.describe('pipeline pt work hub (Slice 2N, public entry point)', () => {
       true
     )
     // deep pt segment routes are dropped from the sitemap by isChapterRoute (discoverable via the hub)
-    expect([...urls].some((u) => /\/introducao-a-ontologia\/00-/.test(u))).toBe(false)
+    expect([...urls].some((u) => u.startsWith(NS) && /\/00-|\/99-/.test(u))).toBe(false)
     // reading-review demo surfaces remain out of the sitemap
     expect([...urls].some((u) => u.startsWith('/reading-review/'))).toBe(false)
   })
