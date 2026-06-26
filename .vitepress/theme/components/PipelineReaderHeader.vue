@@ -3,6 +3,13 @@ import { computed } from 'vue'
 import { useData } from 'vitepress'
 import meta from '../data/pipeline-export-segments.json'
 import SkLink from './SkLink.vue'
+import {
+  navLabel as navLabelFor,
+  openingLabel as openingLabelFor,
+  locLabel as locLabelFor,
+  workHubHref,
+  trechoHref
+} from './reader-shell'
 
 // Owned reader LOCATION PATH for the live pipeline pt segment leaves (Slice F1). Replaces the flat
 // two-line chapter+segment header with a calm, navigable breadcrumb-as-reader-location-line:
@@ -13,14 +20,9 @@ import SkLink from './SkLink.vue'
 // prose, no data/generator change. Static (no sticky, no scroll listener). Front matter (empty
 // groupPath) renders Sumário · Abertura · <segment> with no chapter h2. The .pseg-head marker class is
 // kept so pages.css can scope the prose bump + the back-link exclusion to pipeline leaves.
-// See docs/reader-breadcrumb-navigation-assessment.md.
-const HUB = '/louis-lavelle/introducao-a-ontologia/'
-
-// Per-language label records (mirroring PipelineWorkContents). The path renders fr/en straight from
-// the data once pipelineLanguage flips; Slice F2 lifts these into one shared module.
-const NAV_LABEL: Record<string, string> = { fr: 'Sommaire', pt: 'Sumário', en: 'Contents' }
-const OPENING_LABEL: Record<string, string> = { fr: 'Ouverture', pt: 'Abertura', en: 'Opening' }
-const LOC_LABEL: Record<string, string> = { fr: 'Emplacement', pt: 'Localização', en: 'Location' }
+// See docs/reader-breadcrumb-navigation-assessment.md. Slice F2: the per-language labels and the hub /
+// #trecho href construction come from the shared ./reader-shell module — no pt hub hard-code, no local
+// label maps; fr/en inherit from the data via pipelineLanguage.
 
 interface Level {
   kind: string
@@ -54,9 +56,9 @@ const current = computed<Seg | null>(() =>
     : null
 )
 
-const navLabel = computed(() => NAV_LABEL[lang.value] ?? NAV_LABEL.pt)
-const openingLabel = computed(() => OPENING_LABEL[lang.value] ?? OPENING_LABEL.pt)
-const locLabel = computed(() => LOC_LABEL[lang.value] ?? LOC_LABEL.pt)
+const navLabel = computed(() => navLabelFor(lang.value))
+const openingLabel = computed(() => openingLabelFor(lang.value))
+const locLabel = computed(() => locLabelFor(lang.value))
 
 const groupPath = computed<Level[]>(() => current.value?.groupPath ?? [])
 const part = computed(() => groupPath.value.find((l) => l.kind === 'part') ?? null)
@@ -83,10 +85,12 @@ const chapterTitle = computed(
 const segmentTitle = computed(
   () => current.value?.displayTitle || (frontmatter.value.pipelineSegmentTitle as string) || ''
 )
+// Sumário → the work hub (contents top), derived from the segment's routePath (no pt hard-code).
+const hubHref = computed(() => (current.value ? workHubHref(current.value.routePath) : '/'))
 // Chapter → hub#trecho-<current>: opens + highlights the containing chapter (the exact href the bottom
-// up-link builds). Sumário → hub top (the whole contents) — a deliberately distinct destination.
+// up-link builds) — a deliberately distinct destination from the Sumário (whole contents) crumb.
 const chapterHref = computed(() =>
-  current.value ? `${HUB}#trecho-${current.value.segmentPrefix}` : HUB
+  current.value ? trechoHref(current.value.routePath, current.value.segmentPrefix) : hubHref.value
 )
 </script>
 
@@ -95,13 +99,13 @@ const chapterHref = computed(() =>
     v-if="isPipelineLeaf && current && segmentTitle"
     class="pseg-loc pseg-head"
     data-testid="pseg-head"
-    data-pipeline-nav="pt"
+    :data-pipeline-nav="lang"
     :aria-label="locLabel"
   >
     <ol role="list" class="pseg-loc__list">
       <!-- Sumário (root) — link to the hub contents top -->
       <li class="pseg-loc__rung">
-        <SkLink class="pseg-loc__link" :href="HUB">{{ navLabel }}</SkLink>
+        <SkLink class="pseg-loc__link" :href="hubHref">{{ navLabel }}</SkLink>
       </li>
       <!-- Part (mid-book) — plain text, label only (the long part title stays on the hub) -->
       <li v-if="part" class="pseg-loc__rung pseg-loc__rung--part">
@@ -172,16 +176,11 @@ const chapterHref = computed(() =>
 .pseg-loc__rung--chapter .pseg-head__chapter::before {
   content: none; /* no chapter-opener accent bar */
 }
-/* Part is the only shrinkable / truncatable rung (long part labels end-truncate; F4 hardens this). */
+/* The Part rung is plain inline text so it baseline-aligns with the other rungs (an inline-block +
+   overflow:hidden would make its baseline the bottom edge and ride the label up). Long-part-label
+   truncation is deferred to Slice F4, which must reinstate it baseline-safely. */
 .pseg-loc__rung--part {
   min-width: 0;
-}
-.pseg-loc__part {
-  display: inline-block;
-  max-width: 100%;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
 }
 
 /* Decorative middot separator — an aria-hidden span kept out of the a11y tree, faint ink. */

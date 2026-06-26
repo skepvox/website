@@ -120,10 +120,12 @@ test.describe('pipeline pt segment nav (Slice 2O, owned prev/next/up, pipeline-s
     const nav = html.slice(start, html.indexOf('</nav>', start) + 6)
     // three owned reader-icon svgs (prev / next / up)
     expect((nav.match(/class="reader-icon/g) || []).length).toBeGreaterThanOrEqual(3)
-    // the exact visible labels are preserved (source text; CSS uppercases the display only)
-    expect(nav).toContain('Trecho anterior')
-    expect(nav).toContain('Próximo trecho')
+    // the cleaner short direction labels (Slice F2) + the Sumário up-link; the old "trecho" labels gone
+    expect(nav).toContain('Anterior')
+    expect(nav).toContain('Próximo')
     expect(nav).toContain('Sumário')
+    expect(nav.includes('Trecho anterior')).toBe(false)
+    expect(nav.includes('Próximo trecho')).toBe(false)
     // the hand-rolled text glyphs are gone
     expect(nav.includes('‹')).toBe(false)
     expect(nav.includes('›')).toBe(false)
@@ -144,10 +146,10 @@ test.describe('pipeline pt segment nav (Slice 2O, owned prev/next/up, pipeline-s
       expect(await svg.getAttribute('focusable')).toBe('false')
     }
     await expect(nav.locator('[data-testid="pseg-prev"]')).toHaveAccessibleName(
-      /Trecho anterior\s+Parágrafo 6/
+      /Anterior\s+Parágrafo 6/
     )
     await expect(nav.locator('[data-testid="pseg-next"]')).toHaveAccessibleName(
-      /Próximo trecho\s+Parágrafo 8/
+      /Próximo\s+Parágrafo 8/
     )
     await expect(nav.locator('[data-testid="pseg-up"]')).toHaveAccessibleName('Sumário')
   })
@@ -193,7 +195,7 @@ test.describe('pipeline pt segment nav (Slice 2O, owned prev/next/up, pipeline-s
     expect(body.includes('## Ser')).toBe(false)
     expect(body.includes('### Parágrafo 7')).toBe(false)
     expect(body).toContain('na simples enunciação da palavra ser') // prose preserved exactly
-    expect(body.includes('Trecho anterior')).toBe(false) // nav is NOT in the page body
+    expect(body.includes('data-pipeline-nav')).toBe(false) // the slot-injected nav is NOT in the body
     expect(body.includes('pseg-nav')).toBe(false)
   })
 

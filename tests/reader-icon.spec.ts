@@ -112,7 +112,7 @@ test.describe('ReaderIcon foundation (Slice C1, boundary + tokens only)', () => 
     // C2: PipelineSegmentNav on ReaderIcon; the ‹ › ↑ text glyphs are gone
     expect(nav.includes("import ReaderIcon from './ReaderIcon.vue'")).toBe(true)
     expect(nav.includes('‹') || nav.includes('›') || nav.includes('↑')).toBe(false)
-    expect(nav.includes('Trecho anterior')).toBe(true) // visible label preserved
+    expect(nav.includes("from './reader-shell'")).toBe(true) // direction labels via the shared module (F2)
     // C3: PipelineWorkContents on ReaderIcon; the .pwc__chevron CSS triangle is gone
     expect(hub.includes("import ReaderIcon from './ReaderIcon.vue'")).toBe(true)
     expect(hub.includes('name="disclosure"')).toBe(true) // the owned disclosure glyph

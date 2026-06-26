@@ -4,6 +4,14 @@ import { useData } from 'vitepress'
 import meta from '../data/pipeline-export-segments.json'
 import SkLink from './SkLink.vue'
 import ReaderIcon from './ReaderIcon.vue'
+import {
+  navLabel as navLabelFor,
+  segNavLabel as segNavLabelFor,
+  prevLabel as prevLabelFor,
+  nextLabel as nextLabelFor,
+  segmentHref,
+  trechoHref
+} from './reader-shell'
 
 // Owned prev/next/up navigation for the LIVE public pipeline pt segment leaves
 // (src/louis-lavelle/introducao-a-ontologia/<leaf>.md). Injected via the theme content slots, so the
@@ -12,8 +20,6 @@ import ReaderIcon from './ReaderIcon.vue'
 // (canonicalId, language) — never by routePath (routePath is presentation, used only as the href).
 // It never crosses edition/language: prev/next are the order-adjacent records of the SAME language.
 const props = defineProps<{ placement: 'top' | 'bottom' }>()
-
-const HUB = '/louis-lavelle/introducao-a-ontologia/'
 
 interface Level {
   kind: string
@@ -35,6 +41,13 @@ const isPipelineLeaf = computed(() => frontmatter.value.generated === 'pipeline-
 const canonicalId = computed(() => frontmatter.value.pipelineCanonicalId as string)
 const lang = computed(() => frontmatter.value.pipelineLanguage as string)
 
+// Owned visible + aria labels, language-keyed from the shared reader-shell module (no pt hard-code;
+// fr/en inherit from the data via pipelineLanguage).
+const navAriaLabel = computed(() => segNavLabelFor(lang.value))
+const prevText = computed(() => prevLabelFor(lang.value))
+const nextText = computed(() => nextLabelFor(lang.value))
+const upText = computed(() => navLabelFor(lang.value))
+
 // Same-language edition, ordered by `order` — the canonical reading sequence. Filtering by language
 // guarantees prev/next never cross editions (no fr routes, no old chapter routes).
 const edition = computed<Seg[]>(() =>
@@ -53,11 +66,11 @@ const next = computed<Seg | null>(() =>
   index.value >= 0 && index.value < edition.value.length - 1 ? edition.value[index.value + 1] : null
 )
 
-const href = (s: Seg) => `/${s.routePath}` // routePath = presentation (the public URL), not identity
+const href = (s: Seg) => segmentHref(s.routePath) // routePath = presentation (the public URL), not identity
 // The "up" link carries the current trecho so the hub can open + highlight that chapter on return
-// (#trecho-<segmentPrefix>). URL-only, no stored reading progress.
+// (#trecho-<segmentPrefix>). URL-only, no stored reading progress. Hub href derived from routePath.
 const upHref = computed(() =>
-  current.value ? `${HUB}#trecho-${current.value.segmentPrefix}` : HUB
+  current.value ? trechoHref(current.value.routePath, current.value.segmentPrefix) : '/'
 )
 </script>
 
@@ -66,8 +79,8 @@ const upHref = computed(() =>
     v-if="placement === 'bottom' && current"
     class="pseg-nav"
     data-testid="pseg-nav"
-    data-pipeline-nav="pt"
-    aria-label="Navegação de trechos"
+    :data-pipeline-nav="lang"
+    :aria-label="navAriaLabel"
   >
     <div class="pseg-nav__row">
       <SkLink
@@ -77,7 +90,7 @@ const upHref = computed(() =>
         rel="prev"
         data-testid="pseg-prev"
       >
-        <span class="pseg-nav__dir"><ReaderIcon name="chevron-left" />Trecho anterior</span>
+        <span class="pseg-nav__dir"><ReaderIcon name="chevron-left" />{{ prevText }}</span>
         <span class="pseg-nav__title">{{ prev.displayTitle }}</span>
       </SkLink>
       <span v-else class="pseg-nav__spacer" aria-hidden="true"></span>
@@ -89,7 +102,7 @@ const upHref = computed(() =>
         rel="next"
         data-testid="pseg-next"
       >
-        <span class="pseg-nav__dir">Próximo trecho<ReaderIcon name="chevron-right" /></span>
+        <span class="pseg-nav__dir">{{ nextText }}<ReaderIcon name="chevron-right" /></span>
         <span class="pseg-nav__title">{{ next.displayTitle }}</span>
       </SkLink>
       <span v-else class="pseg-nav__spacer" aria-hidden="true"></span>
@@ -97,7 +110,7 @@ const upHref = computed(() =>
 
     <p class="pseg-nav__up">
       <SkLink class="pseg-nav__up-link" :href="upHref" data-testid="pseg-up">
-        <ReaderIcon name="chevron-up" />Sumário
+        <ReaderIcon name="chevron-up" />{{ upText }}
       </SkLink>
     </p>
   </nav>

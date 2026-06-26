@@ -3,6 +3,11 @@ import { computed, nextTick, onMounted, reactive, ref } from 'vue'
 import meta from '../data/pipeline-export-segments.json'
 import SkLink from './SkLink.vue'
 import ReaderIcon from './ReaderIcon.vue'
+import {
+  navLabel as navLabelFor,
+  openingLabel as openingLabelFor,
+  editionLine as editionLineFor
+} from './reader-shell'
 
 // Owned contents map for the pipeline-export pt work hub (Introdução à ontologia). It reads the
 // vendored pipeline-export metadata (../data/pipeline-export-segments.json) — the SAME source the
@@ -42,25 +47,12 @@ interface Seg {
   groupPath: Level[]
 }
 
-const NAV_LABEL: Record<string, string> = { fr: 'Sommaire', pt: 'Sumário', en: 'Contents' }
-const navLabel = computed(() => NAV_LABEL[props.language] ?? NAV_LABEL.pt)
-
-// Render-layer label for the front-matter bucket (the loose, empty-groupPath segments that precede
-// the authored parts — e.g. Advertência). Language-keyed like NAV_LABEL; NOT a data/groupPath change.
-const OPENING_LABEL: Record<string, string> = { fr: 'Ouverture', pt: 'Abertura', en: 'Opening' }
-const openingLabel = computed(() => OPENING_LABEL[props.language] ?? OPENING_LABEL.pt)
-
-// A quiet bibliographic line under the title — author + which edition — so the masthead has a home
-// and the title stops floating detached from the map.
-const EDITION_WORD: Record<string, string> = {
-  pt: 'edição em português',
-  fr: 'edição original em francês',
-  en: 'English edition'
-}
-const editionLine = computed(() => {
-  const word = EDITION_WORD[props.language]
-  return word ? `${props.author} — ${word}` : props.author
-})
+// Per-language labels come from the shared ./reader-shell module (Slice F2) so the hub, the leaf
+// location path, and the bottom nav share one vocabulary. The front-matter "Abertura" group label and
+// the bibliographic edition line ("<author> — edição em português") are the same records.
+const navLabel = computed(() => navLabelFor(props.language))
+const openingLabel = computed(() => openingLabelFor(props.language))
+const editionLine = computed(() => editionLineFor(props.author, props.language))
 
 const segs = computed(() =>
   (meta.segments as Seg[])

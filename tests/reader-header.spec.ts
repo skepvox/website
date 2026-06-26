@@ -69,6 +69,36 @@ test.describe('PipelineReaderHeader — Slice F1 reader-location path', () => {
     await expect(loc.locator('svg')).toHaveCount(0)
   })
 
+  test('the location-path rungs (Sumário, Part, Chapter h2) share a baseline — no vertical drift', async ({
+    page
+  }) => {
+    await page.goto(routeOf(MID))
+    const tops = await page.evaluate(() => {
+      const textTop = (sel: string) => {
+        const el = document.querySelector(sel)
+        if (!el) return null
+        const r = document.createRange()
+        r.selectNodeContents(el)
+        return r.getBoundingClientRect().top
+      }
+      return {
+        sumario: textTop('nav.pseg-loc li:nth-child(1) a'),
+        part: textTop('nav.pseg-loc .pseg-loc__part'),
+        chapter: textTop('nav.pseg-loc h2 a')
+      }
+    })
+    const vals = [tops.sumario, tops.part, tops.chapter].filter((v) => v != null) as number[]
+    expect(vals.length).toBe(3)
+    expect(Math.max(...vals) - Math.min(...vals)).toBeLessThanOrEqual(1.5) // tight baseline tolerance
+    // the chapter rung is the real <h2> but normalized inline: no margin, inherited kicker type
+    const h2 = await page.locator('nav.pseg-loc h2').evaluate((el) => {
+      const cs = getComputedStyle(el)
+      return { margin: cs.margin, fontSize: cs.fontSize, display: cs.display }
+    })
+    expect(h2.margin).toBe('0px')
+    expect(h2.fontSize).toBe('13px') // inherited --sk-reading-kicker, identical to the other rungs
+  })
+
   test('separators are decorative (aria-hidden), kept out of the accessibility tree', async ({
     page
   }) => {
