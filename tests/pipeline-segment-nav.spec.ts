@@ -154,6 +154,34 @@ test.describe('pipeline pt segment nav (Slice 2O, owned prev/next/up, pipeline-s
     await expect(nav.locator('[data-testid="pseg-up"]')).toHaveAccessibleName('Sumário')
   })
 
+  test('polish: the bottom Sumário up-link shares the Anterior/Próximo nav-label style + keeps its #trecho href', async ({
+    page
+  }) => {
+    const pt = ptByOrder()
+    const i = pt.findIndex((s: any) => s.segmentPrefix === '00-01-002-008')
+    await page.goto(routeOf(pt[i]))
+    const nav = page.locator('[data-testid="pseg-nav"]')
+    const styleOf = (sel: string) =>
+      nav
+        .locator(sel)
+        .first()
+        .evaluate((el) => {
+          const s = getComputedStyle(el)
+          return { tt: s.textTransform, weight: s.fontWeight }
+        })
+    const dir = await styleOf('.pseg-nav__dir')
+    const up = await styleOf('.pseg-nav__up-link')
+    // "Sumário" is navigation: same uppercase nav-label vocabulary + weight as Anterior / Próximo
+    expect(up.tt).toBe('uppercase')
+    expect(up.tt).toBe(dir.tt)
+    expect(up.weight).toBe(dir.weight)
+    // ...and still returns to the hub with the #trecho-<current> hash (behaviour unchanged)
+    await expect(nav.locator('[data-testid="pseg-up"]')).toHaveAttribute(
+      'href',
+      '/louis-lavelle/introducao-a-ontologia/#trecho-00-01-002-008'
+    )
+  })
+
   test('the nav is absent on non-pipeline-leaf pages', async ({ page }) => {
     for (const route of [
       '/louis-lavelle/introduction-a-l-ontologie/00-01-002-etre', // old fr chapter (preview serves it)

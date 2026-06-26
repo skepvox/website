@@ -44,7 +44,7 @@ test.describe('PipelineReaderHeader — Slice F1 reader-location path', () => {
     await expect(page.locator('.VPContentDoc h3')).toHaveCount(1)
     await expect(page.locator('.VPContentDoc .vt-doc h2, .VPContentDoc .vt-doc h3')).toHaveCount(0)
     await expect(loc.locator('h2')).toHaveText('Ser') // chapter (textContent, transform-agnostic)
-    await expect(loc.locator('h3')).toHaveText('Parágrafo 7') // segment (mixed case)
+    await expect(loc.locator('h3')).toHaveText('Parágrafo 7') // segment (textContent; CSS uppercases the display)
     const headingOrder = await loc.evaluate((el) =>
       [...el.querySelectorAll('h2, h3')].map((h) => h.tagName).join(',')
     )
@@ -97,6 +97,40 @@ test.describe('PipelineReaderHeader — Slice F1 reader-location path', () => {
     })
     expect(h2.margin).toBe('0px')
     expect(h2.fontSize).toBe('13px') // inherited --sk-reading-kicker, identical to the other rungs
+  })
+
+  test('the current segment h3 belongs to the UPPER-CASE SANS reader-location language, primary over the ancestors', async ({
+    page
+  }) => {
+    await page.goto(routeOf(MID))
+    const h3 = page.locator('nav.pseg-loc h3')
+    await expect(h3).toHaveCount(1)
+    expect(await h3.evaluate((el) => el.tagName)).toBe('H3') // still the real heading
+    expect(await h3.getAttribute('aria-current')).toBe('location')
+    const cs = await h3.evaluate((el) => {
+      const s = getComputedStyle(el)
+      return {
+        tt: s.textTransform,
+        fam: s.fontFamily.toLowerCase(),
+        size: s.fontSize,
+        weight: s.fontWeight
+      }
+    })
+    expect(cs.tt).toBe('uppercase') // same case language as the breadcrumb ancestors
+    expect(cs.fam).toContain('inter') // the SANS location family — not the serif prose / hub title
+    expect(cs.fam).not.toContain('literata')
+    expect(parseFloat(cs.size)).toBeCloseTo(16, 0) // 1rem — primary but below the 17px prose
+    expect(cs.weight).toBe('600')
+    // primary OVER the ancestors via weight + ink (the ancestor rungs share the case but are lighter)
+    const anc = await page
+      .locator('nav.pseg-loc .pseg-loc__rung')
+      .first()
+      .evaluate((el) => {
+        const s = getComputedStyle(el)
+        return { tt: s.textTransform, weight: s.fontWeight }
+      })
+    expect(anc.tt).toBe('uppercase')
+    expect(Number(cs.weight)).toBeGreaterThan(Number(anc.weight))
   })
 
   test('separators are decorative (aria-hidden), kept out of the accessibility tree', async ({

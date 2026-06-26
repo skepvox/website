@@ -172,13 +172,18 @@ const upHref = computed(() =>
 }
 .pseg-nav__up {
   margin: 1.1rem 0 0;
-  font-size: 0.78rem;
+  font-size: 0.72rem;
 }
+/* "Sumário" is navigation: it shares the same uppercase nav-label vocabulary as the Anterior / Próximo
+   direction labels (same size/weight/tracking/case), kept on its own row below the prev/next pair. */
 .pseg-nav__up-link {
   display: inline-flex;
   align-items: center;
   gap: 0.3em;
   --sk-icon-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
   color: var(--sk-text-muted);
   text-decoration: none;
   transition: color 0.18s ease;

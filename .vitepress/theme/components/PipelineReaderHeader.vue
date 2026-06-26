@@ -197,11 +197,17 @@ const chapterHref = computed(() =>
 .pseg-loc__current .pseg-head__title {
   margin: 0;
   padding: 0;
+  /* The current segment belongs to the same UPPER-CASE SANS reader-location language as the breadcrumb
+     ancestors (not the serif prose / hub title) — same case + tracking, so the whole path reads as one
+     vocabulary. It stays the clear CURRENT location, primary over the muted ancestors via size + weight
+     + full ink (not via case): 1rem/600 full-ink vs the ancestors' 0.8125rem/500 muted. Below the 17px
+     prose, so it never reads as a huge document title. Sans is explicit so it can't inherit a serif. */
+  font-family: var(--vt-font-family-base);
   font-size: var(--sk-reading-segtitle);
   font-weight: 600;
   line-height: 1.3;
-  letter-spacing: 0;
-  text-transform: none;
+  letter-spacing: var(--sk-reading-kicker-tracking);
+  text-transform: uppercase;
   color: var(--sk-text);
 }
 

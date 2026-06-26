@@ -316,7 +316,10 @@ onMounted(() => {
   letter-spacing: var(--sk-reading-kicker-tracking);
   text-transform: uppercase;
   line-height: 1.3;
-  color: var(--sk-text-muted);
+  /* Same meaning-bearing ink as the authored Part dividers (no muted-orphan look). It stays
+     structurally SUBORDINATE to the parts via the absent trailing hairline + lighter weight (600 vs
+     650) — not by dimming the ink. Render-layer grouping only; no invented Part. */
+  color: var(--sk-text);
 }
 /* Front-matter links sit flush under the Abertura label, before the first part. */
 .pwc__loose {

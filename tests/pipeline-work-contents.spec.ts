@@ -334,6 +334,13 @@ test.describe('PipelineWorkContents — Slice E readiness gate', () => {
         })
     expect(await hairline('.pwc__opening-heading')).toBe(false)
     expect(await hairline('.pwc__part-heading')).toBe(true)
+    // ...and consistent INK with the authored parts (same meaning-bearing color, not a muted orphan)
+    const color = (sel: string) =>
+      page
+        .locator(sel)
+        .first()
+        .evaluate((el) => getComputedStyle(el).color)
+    expect(await color('.pwc__opening-heading')).toBe(await color('.pwc__part-heading'))
   })
 
   test('expanded segment rows preserve the >=44px tap target', async ({ page }) => {
@@ -389,7 +396,7 @@ test.describe('PipelineWorkContents — Slice E readiness gate', () => {
   })
 
   for (const dark of [false, true]) {
-    test(`apparatus readability (${dark ? 'dark' : 'light'}): edition/Abertura/part labels clear 3:1 + the part divider stays distinct from the muted labels`, async ({
+    test(`apparatus readability (${dark ? 'dark' : 'light'}): edition/Abertura/part labels clear 3:1; Abertura shares the part full ink; edition stays muted`, async ({
       page
     }) => {
       await page.addInitScript((d) => {
@@ -442,11 +449,13 @@ test.describe('PipelineWorkContents — Slice E readiness gate', () => {
       expect(ed.ratio).toBeGreaterThanOrEqual(3)
       expect(op.ratio).toBeGreaterThanOrEqual(3)
       expect(part.ratio).toBeGreaterThanOrEqual(3)
-      // the authored Part divider stays clearly distinct (brighter ink) from the muted edition + Abertura
-      // labels — never undifferentiated grey (the Slice D concern, measured-resolved in both modes)
       const mutual = (a: number, b: number) => (Math.max(a, b) + 0.05) / (Math.min(a, b) + 0.05)
+      // the edition kicker (masthead subtitle) stays muted + distinct from the full-ink section labels
       expect(mutual(part.lum, ed.lum)).toBeGreaterThan(1.5)
-      expect(mutual(part.lum, op.lum)).toBeGreaterThan(1.5)
+      // the render-layer "Abertura" now SHARES the authored Part dividers' full ink (consistency, no
+      // muted-orphan look) — it stays subordinate via its absent trailing hairline + lighter weight,
+      // not by dimming the ink
+      expect(mutual(part.lum, op.lum)).toBeLessThan(1.25)
     })
   }
 })
