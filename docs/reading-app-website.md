@@ -14,10 +14,10 @@
   (locale-rooted as of slice A2; the old `/louis-lavelle/introducao-a-ontologia/` 404s) — a work **hub**
   plus **99 segment pages** (leaves are the bare `<segmentPrefix>`), each with **real prose**. This is the
   single canonical reading surface.
-- The **12 old fr chapter URLs 301-redirect** to the first pt segment of their chapter
-  (`src/public/_redirects`, generated).
+- The **12 old fr chapter URLs 404** — slice **A4** removed the redirect map and `src/public/_redirects`
+  (clean break, no redirects); they are **not** redirected to pt.
 - The **fr edition** (12 chapter pages + the single-page full-text hub `/louis-lavelle/introduction-a-l-ontologie`)
-  is kept **built only as redirect sources / an fr-language page**, but is **out of local search and LLM
+  is kept **built as a legacy fr-language page** (removed in A5), but is **out of local search and LLM
   output** (so pt is canonical there).
 - **`reading-review/**`** holds internal demo/prototype surfaces (map, single-leaf, windowed reader,
 full-work reader) — all `buffer:true`+`search:false`+`noindex`, out of sitemap/search/LLM.
@@ -118,7 +118,11 @@ joining by `(canonicalId, language)`, **pt-only** (never crosses edition/languag
 owned by the primitive; hover pointer-gated). The `reading-review/` prototypes
 (`PipelineWindowPreview` / `PipelineReaderPreview`) are the windowed + zoom-out demos.
 
-## 6. Route migration & redirects (done)
+## 6. Route migration & redirects (redirects removed in A4 — clean break)
+
+> **Superseded (slice A4 / IA-4):** the redirect machinery below was a temporary go-live cutover and is
+> **gone** — `build-pipeline-redirect-map.py`, the redirect-map JSON, and `src/public/_redirects` were
+> deleted, and old fr chapter URLs now 404 (no redirects). The historical description is kept for context.
 
 `scripts/build-pipeline-redirect-map.py` emits the redirect-map artifact
 (`.vitepress/theme/data/pipeline-redirect-map-introduction-a-l-ontologie.json`, `status: "enabled"`) and
@@ -147,14 +151,14 @@ segment route. The artifact encodes the source/target decision (`sourceLanguage:
   slugs — both pipeline-side.
 - **Kairos is personal review state, never a public export source.**
 - The **website consumes a clean export and never produces segmentation.**
-- **pt _Introdução à ontologia_ is the first live migrated edition**; old fr chapter URLs redirect to pt
-  segment routes.
+- **pt _Introdução à ontologia_ is the first live migrated edition**; the old fr chapter URLs 404 (clean
+  break — no redirects; slice A4).
 
 ## 9. Remaining website work
 
 - Resolve open decision **A** (retire vs redirect the fr full-text hub — see §11).
 - When the pipeline broadens to a second work (open **B**), re-vendor + generate its family the same way
-  (gate, hub, nav, redirects), and vendor its prose per published segment.
+  (gate, hub, nav — no redirects, clean break), and vendor its prose per published segment.
 - A stability-aware sitemap policy generalization (today deep pt routes are pruned by `isChapterRoute`;
   a future `urlStability`-keyed rule would generalize across works).
 

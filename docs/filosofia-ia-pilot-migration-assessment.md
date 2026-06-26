@@ -580,6 +580,10 @@ Ordered for safety; each is independently reviewable, commit-only on `develop`.
   comments + the hub/section tests (§10.1–10.7, 10.9).
 - **IA-4 — Disable the obsolete redirects.** `STATUS = "disabled"` + remove the redirect-map JSON and
   `pipeline-redirect-map.spec.ts`; assert `_redirects` no longer carries the fr→pt block (§10.8).
+  **Status: implemented** (slice A4, on `develop`) — went further than "disable": **deleted** the
+  generator (`build-pipeline-redirect-map.py`), the redirect-map JSON, `src/public/_redirects`, the
+  dedicated spec, and the `pnpm build` / `pipeline:redirect-map` wiring. Old fr chapter URLs 404 (clean
+  break); the legacy fr pages still build until IA-5. New proof: `tests/redirects-clean-break.spec.ts`.
 - **IA-5 — Remove legacy Lavelle (after pilot green).** Delete the legacy books, `build-lavelle-*.py`,
   the legacy `/louis-lavelle/` author hub + `works.json`, and the old fr edition pages; drop their
   nav/sidebar/test references. `/louis-lavelle/` ceases to exist (404).

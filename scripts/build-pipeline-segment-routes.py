@@ -25,8 +25,9 @@ CI without the sibling repo), the generator no-ops and keeps the committed pages
 These pages are kept OUT of the legacy hand-authored reading system: they carry a
 `generated: pipeline-segment-routes` marker that build-reading-nav.py skips, and they are in no
 works.json registry, so reading-nav / sidebar / segment-manifest / WorkContents are untouched.
-Redirects from the old fr chapter URLs are NOT enabled here (the redirect map stays not-enabled).
-Deterministic + idempotent; routePath is presentation only, never an identity/join key.
+No redirects: slice A4 removed the old fr->pt redirect map and src/public/_redirects (clean-break
+policy — old /louis-lavelle/... URLs may 404). Deterministic + idempotent; routePath is presentation
+only, never an identity/join key.
 """
 
 from __future__ import annotations

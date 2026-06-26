@@ -515,6 +515,16 @@ The detailed comparison (locale-rooted vs language-mixed) is in `filosofia-ia-pi
   sidebar (a scoped key can be added if the section grows).
 - **A4 / IA-4** — Disable the fr→pt redirects (`STATUS="disabled"`), delete the redirect-map JSON +
   spec.
+  **Status: implemented** on `develop`. Took the cleaner option (the obsolete map was purely
+  historical): **deleted** `scripts/build-pipeline-redirect-map.py`, its
+  `.vitepress/theme/data/pipeline-redirect-map-introduction-a-l-ontologie.json`, `src/public/_redirects`
+  (it held only the 12 fr→pt lines — `src/public/_headers` is unrelated and untouched), and the dedicated
+  `tests/pipeline-redirect-map.spec.ts`; removed the generator from the `pnpm build` chain + the
+  `pipeline:redirect-map` npm script. The build no longer emits `_redirects` (determinism asserted). Old
+  `/louis-lavelle/introduction-a-l-ontologie/<chapter>` URLs now **404** (accepted clean-break debt); the
+  12 legacy fr chapter pages + fr hub still build (removed in A5) but are no longer redirect sources.
+  Redirect assertions in `pipeline-publication-gate`/`pipeline-segment-routes`/`pipeline-discovery-hygiene`
+  were flipped to clean-break; `tests/redirects-clean-break.spec.ts` is the focused new-policy proof.
 - **A5 / IA-5** — Remove the legacy Lavelle corpus + builders + legacy author hub once green.
 
 **Phase B — Extend the proven scheme (reuses A1's projection, no new scheme risk).**

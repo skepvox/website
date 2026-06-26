@@ -8,12 +8,12 @@ import { spawnSync } from 'node:child_process'
 // docs/introduction-a-ontologia-live-migration-plan.md §4. The pipeline minted the pt edition; the 99
 // pt pages are generated under src/pt/filosofia/louis-lavelle/introducao-a-ontologia/<routePath-leaf>.md with their
 // REAL prose inlined as static Markdown (joined by segmentPrefix/language, never routePath). No
-// indexable public page may be thin / review-only / missing prose. Redirects are NOT enabled yet.
+// indexable public page may be thin / review-only / missing prose. No redirects: A4 removed the fr->pt
+// redirect map + src/public/_redirects (clean break); old /louis-lavelle/... URLs may 404.
 const DIST = path.resolve('.vitepress/dist')
 const META = path.resolve('.vitepress/theme/data/pipeline-export-segments.json')
 const PUBLIC_DIR = path.resolve('src/pt/filosofia/louis-lavelle/introducao-a-ontologia')
 const GEN = path.resolve('scripts/build-pipeline-segment-routes.py')
-const REDIRECTS = path.resolve('src/public/_redirects')
 
 const read = (p: string) => JSON.parse(fs.readFileSync(p, 'utf-8'))
 const ptSegments = () => read(META).segments.filter((s: any) => s.language === 'pt')
@@ -29,7 +29,7 @@ function builtExists(href: string): boolean {
   )
 }
 
-test.describe('pipeline pt segment route family (Slice 2M, public + real prose, not yet redirected)', () => {
+test.describe('pipeline pt segment route family (Slice 2M, public + real prose, no redirects / clean break)', () => {
   test('all 99 public pt pages build and carry real prose (none thin / review-only / noindex)', () => {
     const pt = ptSegments()
     expect(pt.length).toBe(99)
@@ -94,7 +94,7 @@ test.describe('pipeline pt segment route family (Slice 2M, public + real prose, 
     }
   })
 
-  test('the 12 live fr chapter routes (and the hub) still resolve before redirects are enabled', () => {
+  test('the 12 legacy fr chapter routes (and the fr hub) still build (legacy, removed in A5; no redirect shadows them)', () => {
     const work = '/louis-lavelle/introduction-a-l-ontologie'
     expect(builtExists(work)).toBe(true)
     const stems = fs
@@ -103,14 +103,8 @@ test.describe('pipeline pt segment route family (Slice 2M, public + real prose, 
       .map((f) => f.replace(/\.md$/, ''))
     expect(stems.length).toBe(12)
     for (const stem of stems) expect(builtExists(`${work}/${stem}`), stem).toBe(true)
-  })
-
-  test('redirects are ENABLED at go-live (_redirects exists, map status enabled)', () => {
-    expect(fs.existsSync(REDIRECTS)).toBe(true)
-    const rmap = read(
-      path.resolve('.vitepress/theme/data/pipeline-redirect-map-introduction-a-l-ontologie.json')
-    )
-    expect(rmap.status).toBe('enabled')
+    // clean break (A4): no _redirects file shadows these legacy routes
+    expect(fs.existsSync(path.resolve('src/public/_redirects'))).toBe(false)
   })
 
   test('a public page renders its real prose with no review wording', async ({ page }) => {

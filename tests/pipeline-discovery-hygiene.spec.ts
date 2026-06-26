@@ -3,20 +3,19 @@ import fs from 'node:fs'
 import path from 'node:path'
 import { execFileSync } from 'node:child_process'
 
-// Slice 2P — post-go-live discovery hygiene: ONE canonical reading surface
-// (/pt/filosofia/louis-lavelle/introducao-a-ontologia/). The 12 old fr chapter pages stay built only as 301
-// redirect sources and must not reappear through local search, LLM output, the sitemap, or the
-// canonical pt navigation. reading-review/** stays fully excluded.
+// Slice 2P (+ A4 clean break) — post-move discovery hygiene: ONE canonical reading surface
+// (/pt/filosofia/louis-lavelle/introducao-a-ontologia/). The 12 legacy fr chapter pages stay built
+// (removed in A5) but are NO LONGER redirect sources — A4 removed the redirect map and src/public/_redirects
+// — and must not reappear through local search, LLM output, the sitemap, or the canonical pt navigation.
+// reading-review/** stays fully excluded.
 const DIST = path.resolve('.vitepress/dist')
 const META = path.resolve('.vitepress/theme/data/pipeline-export-segments.json')
-const REDIRECTS = path.resolve('src/public/_redirects')
 const FR_DIR = path.resolve('src/louis-lavelle/introduction-a-l-ontologie')
 const FR_HUB = path.resolve('src/louis-lavelle/introduction-a-l-ontologie.md')
 const GEN = path.resolve('scripts/build-pipeline-segment-routes.py')
 const FR_CHAPTER_PROSE = 'Il y a dans la seule énonciation du mot être une sorte'
 
 const read = (p: string) => JSON.parse(fs.readFileSync(p, 'utf-8'))
-const pageBody = (t: string) => t.replace(/^---[\s\S]*?\n---\n/, '').trim()
 
 function builtExists(href: string): boolean {
   const h = href.replace(/\/$/, '') || '/'
@@ -30,41 +29,20 @@ const llms = () => {
   const p = path.resolve(DIST, 'llms-full.txt')
   return fs.existsSync(p) ? fs.readFileSync(p, 'utf-8') : ''
 }
-const redirectLines = () =>
-  fs
-    .readFileSync(REDIRECTS, 'utf-8')
-    .split('\n')
-    .filter((l) => l.trim() && !l.trim().startsWith('#'))
-    .map((l) => l.trim().split(/\s+/))
-
-test.describe('post-go-live discovery hygiene (Slice 2P, one canonical pt reading surface)', () => {
-  test('_redirects maps all 12 old fr chapter pages to built pt pages with prose', () => {
+test.describe('post-move discovery hygiene (Slice 2P + A4, one canonical pt reading surface)', () => {
+  test('clean break (A4): no _redirects file maps the legacy fr chapters into the moved pt namespace', () => {
+    // A4 removed the redirect map + src/public/_redirects entirely (old fr URLs may 404).
+    expect(fs.existsSync(path.resolve('src/public/_redirects'))).toBe(false)
+    expect(fs.existsSync(path.join(DIST, '_redirects'))).toBe(false)
+    // the 12 legacy fr chapter pages still exist on disk (removed only in A5), now without any redirect
     const frStems = fs
       .readdirSync(FR_DIR)
       .filter((f) => f.endsWith('.md'))
       .map((f) => f.replace(/\.md$/, ''))
     expect(frStems.length).toBe(12)
-    const lines = redirectLines()
-    expect(lines.length).toBe(12)
-    const sources = new Set(lines.map((l) => l[0]))
-    for (const stem of frStems) {
-      expect(sources.has(`/louis-lavelle/introduction-a-l-ontologie/${stem}`), stem).toBe(true)
-    }
-    for (const [oldPath, target, code] of lines) {
-      expect(code).toBe('301')
-      expect(oldPath.startsWith('/louis-lavelle/introduction-a-l-ontologie/')).toBe(true)
-      expect(target.startsWith('/pt/filosofia/louis-lavelle/introducao-a-ontologia/')).toBe(true)
-      expect(builtExists(target), `${target} built`).toBe(true)
-      const leaf = target.split('/').pop()
-      const src = fs.readFileSync(
-        path.resolve('src/pt/filosofia/louis-lavelle/introducao-a-ontologia', `${leaf}.md`),
-        'utf-8'
-      )
-      expect(pageBody(src).length, `${leaf} prose`).toBeGreaterThan(200)
-    }
   })
 
-  test('the old fr edition is excluded from local search and LLM output (but stays built as sources)', () => {
+  test('the old fr edition is excluded from local search and LLM output (but stays built, legacy)', () => {
     // out of local search: every fr chapter AND the full-text fr hub carry search:false
     const frFiles = fs.readdirSync(FR_DIR).filter((f) => f.endsWith('.md'))
     for (const f of frFiles) {
@@ -78,12 +56,12 @@ test.describe('post-go-live discovery hygiene (Slice 2P, one canonical pt readin
       expect(text.includes(FR_CHAPTER_PROSE)).toBe(false)
       expect(text.includes('na simples enunciação da palavra ser')).toBe(true) // pt canonical prose
     }
-    // still built (valid 301 redirect sources / fr-language full text)
+    // still built (legacy fr full text, removed in A5; no longer a redirect source after A4)
     expect(builtExists('/louis-lavelle/introduction-a-l-ontologie/00-01-002-etre')).toBe(true)
     expect(builtExists('/louis-lavelle/introduction-a-l-ontologie')).toBe(true)
   })
 
-  test('old fr chapters are not canonical reading pages: out of the sitemap (redirect sources only)', () => {
+  test('old fr chapters are not canonical reading pages: out of the sitemap (legacy, not redirect-protected)', () => {
     expect(sitemap()).not.toMatch(/introduction-a-l-ontologie\/00-/)
   })
 

@@ -13,7 +13,6 @@ const META = path.resolve('.vitepress/theme/data/pipeline-export-segments.json')
 const GATE = path.resolve('scripts/pipeline_gate.py')
 const GEN_SCRIPT = path.resolve('scripts/build-pipeline-segment-routes.py')
 const GEN_DIR = path.resolve('src/pt/filosofia/louis-lavelle/introducao-a-ontologia')
-const REDIRECTS = path.resolve('src/public/_redirects')
 const ORIGIN = 'https://www.skepvox.com'
 
 const read = (p: string) => JSON.parse(fs.readFileSync(p, 'utf-8'))
@@ -106,13 +105,5 @@ test.describe('pipeline publication gate (Slice 2K/2L, stability-aware; pt minte
       expect(text.includes('introducao-a-ontologia')).toBe(true)
       expect(text.includes('reading-review/')).toBe(false)
     }
-  })
-
-  test('redirects are enabled at go-live (_redirects exists, map status enabled)', () => {
-    expect(fs.existsSync(REDIRECTS)).toBe(true)
-    const rmap = read(
-      path.resolve('.vitepress/theme/data/pipeline-redirect-map-introduction-a-l-ontologie.json')
-    )
-    expect(rmap.status).toBe('enabled')
   })
 })

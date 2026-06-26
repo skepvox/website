@@ -528,8 +528,8 @@ gtag('config', 'G-1VWHF2D1QJ');`
         // noindex/unlisted/out-of-search, and excluded from the LLM output too.
         // The old fr edition of Introdução à ontologia is superseded by the canonical pt edition under
         // introducao-a-ontologia. Keep its prose out of the LLM output: the 12 chapter pages
-        // ('…/introduction-a-l-ontologie/**', 301 redirect sources) AND the full-text fr hub
-        // ('…/introduction-a-l-ontologie.md', which inlines the same chapters).
+        // ('…/introduction-a-l-ontologie/**', legacy fr pages removed in A5 — no longer redirect sources
+        // after A4) AND the full-text fr hub ('…/introduction-a-l-ontologie.md', which inlines the same chapters).
         ignoreFiles: [
           'index.md',
           'reading-review/**',
