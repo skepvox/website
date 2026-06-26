@@ -37,4 +37,4 @@ Pre-existing site docs, left untouched by this consolidation: `books-workflow.md
 
 - [social-presence-footer-strategy.md](social-presence-footer-strategy.md) — social/distribution
   presence and the future owned-footer link set (YouTube, Instagram, WhatsApp, podcast links,
-  newsletter/RSS), deferred until the owned footer/social icon component.
+  newsletter/RSS), deferred until after the Brás Cubas pilot and the consolidation/test-protocol pass.

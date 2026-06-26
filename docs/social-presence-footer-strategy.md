@@ -4,6 +4,10 @@
 > builds an owned global footer and owned social-link/icon components. It is not an implementation
 > slice. Do not add links or icons from this document through `@vue/theme` socialLinks unless the
 > icon, label, and accessible name are correct.
+>
+> **Roadmap placement:** implement this after the `/pt/literatura/` Brás Cubas pipeline rebuild and
+> the consolidation / simplification / test-protocol pass. The first implementation pieces should be
+> owned social-link data, an owned `SocialIcon` seam, `SocialLinks`, and then the owned footer.
 
 ## 1. Product Fit
 
@@ -191,4 +195,3 @@ Social platform importance changes quickly. Before implementing the footer, rech
 - skepvox's actual active accounts and posting capacity.
 
 The implementation should reflect real maintained presences, not aspirational accounts.
-
