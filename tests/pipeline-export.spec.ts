@@ -143,11 +143,12 @@ test.describe('pipeline-export ingestion (Slice 2B: vendor + reshape, no routes)
 
   test('pipeline-export consumers are exactly the owned reader-shell components; segment-manifest consumers unchanged', () => {
     // The vendored export feeds the buffer-only review prototypes (2C/2D map, 2G full-work reader) AND
-    // the live owned reader shell: PipelineSegmentNav (leaf prev/next/up) and PipelineWorkContents (the
-    // pt work-hub contents map). It is never consumed by the legacy hand-authored book map, whose own
-    // consumers (the WorkContents path) are unchanged.
+    // the live owned reader shell: PipelineReaderHeader (Slice F1 leaf location path), PipelineSegmentNav
+    // (leaf prev/next/up) and PipelineWorkContents (the pt work-hub contents map). It is never consumed
+    // by the legacy hand-authored book map, whose own consumers (the WorkContents path) are unchanged.
     expect(codeRefs('pipeline-export-segments')).toEqual([
       'theme/components/PipelineExportReview.vue',
+      'theme/components/PipelineReaderHeader.vue',
       'theme/components/PipelineReaderPreview.vue',
       'theme/components/PipelineSegmentNav.vue',
       'theme/components/PipelineWorkContents.vue'

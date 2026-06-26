@@ -34,12 +34,13 @@ test.describe('pipeline pt segment nav (Slice 2O, owned prev/next/up, pipeline-s
   }) => {
     const pt = ptByOrder()
     await page.goto(routeOf(pt[0]))
-    // advertência is front matter: the owned header renders its chapter (h2 "Advertência") with no
-    // segment-title h3; the old part-eyebrow is gone entirely.
+    // advertência is front matter (empty groupPath): the F1 location path renders Sumário · Abertura ·
+    // Advertência — NO chapter h2 (no chapter level), and "Advertência" is the current segment h3.
     await expect(page.locator('[data-testid="pseg-context"]')).toHaveCount(0)
     const head = page.locator('[data-testid="pseg-head"]')
-    await expect(head.locator('h2')).toHaveText('Advertência')
-    await expect(head.locator('h3')).toHaveCount(0)
+    await expect(head).toHaveAttribute('aria-label', 'Localização')
+    await expect(head.locator('h2')).toHaveCount(0)
+    await expect(head.locator('h3')).toHaveText('Advertência')
     const nav = page.locator('[data-testid="pseg-nav"]')
     await expect(nav).toBeVisible()
     await expect(nav.locator('[data-testid="pseg-prev"]')).toHaveCount(0)
