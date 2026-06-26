@@ -10,8 +10,6 @@ import { execFileSync } from 'node:child_process'
 // reading-review/** stays fully excluded.
 const DIST = path.resolve('.vitepress/dist')
 const META = path.resolve('.vitepress/theme/data/pipeline-export-segments.json')
-const FR_DIR = path.resolve('src/louis-lavelle/introduction-a-l-ontologie')
-const FR_HUB = path.resolve('src/louis-lavelle/introduction-a-l-ontologie.md')
 const GEN = path.resolve('scripts/build-pipeline-segment-routes.py')
 const FR_CHAPTER_PROSE = 'Il y a dans la seule énonciation du mot être une sorte'
 
@@ -30,38 +28,27 @@ const llms = () => {
   return fs.existsSync(p) ? fs.readFileSync(p, 'utf-8') : ''
 }
 test.describe('post-move discovery hygiene (Slice 2P + A4, one canonical pt reading surface)', () => {
-  test('clean break (A4): no _redirects file maps the legacy fr chapters into the moved pt namespace', () => {
-    // A4 removed the redirect map + src/public/_redirects entirely (old fr URLs may 404).
+  test('clean break + A5 removal: no _redirects, and the legacy fr edition is gone from src + dist', () => {
+    // A4 removed the redirect map + src/public/_redirects; A5 removed the whole legacy /louis-lavelle/ corpus.
     expect(fs.existsSync(path.resolve('src/public/_redirects'))).toBe(false)
     expect(fs.existsSync(path.join(DIST, '_redirects'))).toBe(false)
-    // the 12 legacy fr chapter pages still exist on disk (removed only in A5), now without any redirect
-    const frStems = fs
-      .readdirSync(FR_DIR)
-      .filter((f) => f.endsWith('.md'))
-      .map((f) => f.replace(/\.md$/, ''))
-    expect(frStems.length).toBe(12)
+    expect(fs.existsSync(path.resolve('src/louis-lavelle/introduction-a-l-ontologie'))).toBe(false)
+    expect(fs.existsSync(path.join(DIST, 'louis-lavelle'))).toBe(false)
   })
 
-  test('the old fr edition is excluded from local search and LLM output (but stays built, legacy)', () => {
-    // out of local search: every fr chapter AND the full-text fr hub carry search:false
-    const frFiles = fs.readdirSync(FR_DIR).filter((f) => f.endsWith('.md'))
-    for (const f of frFiles) {
-      expect(fs.readFileSync(path.join(FR_DIR, f), 'utf-8'), f).toMatch(/^search:\s*false/m)
-    }
-    expect(fs.readFileSync(FR_HUB, 'utf-8'), 'fr hub').toMatch(/^search:\s*false/m)
-    // out of LLM output: the fr chapter prose is gone (chapter pages AND the hub that inlines them);
-    // the pt equivalent remains
+  test('the old fr edition is gone from build and LLM output; the pt canonical prose remains', () => {
+    // the fr edition pages no longer build (removed in A5)
+    expect(builtExists('/louis-lavelle/introduction-a-l-ontologie/00-01-002-etre')).toBe(false)
+    expect(builtExists('/louis-lavelle/introduction-a-l-ontologie')).toBe(false)
+    // out of LLM output: the fr chapter prose is absent; the pt canonical prose remains the one surface
     const text = llms()
     if (text) {
       expect(text.includes(FR_CHAPTER_PROSE)).toBe(false)
       expect(text.includes('na simples enunciação da palavra ser')).toBe(true) // pt canonical prose
     }
-    // still built (legacy fr full text, removed in A5; no longer a redirect source after A4)
-    expect(builtExists('/louis-lavelle/introduction-a-l-ontologie/00-01-002-etre')).toBe(true)
-    expect(builtExists('/louis-lavelle/introduction-a-l-ontologie')).toBe(true)
   })
 
-  test('old fr chapters are not canonical reading pages: out of the sitemap (legacy, not redirect-protected)', () => {
+  test('no old fr chapter route appears in the sitemap (the legacy fr edition was removed in A5)', () => {
     expect(sitemap()).not.toMatch(/introduction-a-l-ontologie\/00-/)
   })
 

@@ -146,18 +146,36 @@ test.describe('ROUTE_BASE projection (slice A2 / IA-2 live architecture guard)',
     expect(/^OUT_DIR\s*=/m.test(seg)).toBe(false) // derived from the projected routePath, not hard-coded
   })
 
-  test('no route projection logic leaks into the reader components or shell (globbed, comment-safe)', () => {
-    const files = fs
+  test('no route projection logic leaks into the reader components or shell (comment-safe)', () => {
+    // (1) NO component anywhere imports the Python projection helper or defines the ROUTE_BASE constant.
+    const allComponents = fs
       .readdirSync(COMPONENTS)
       .filter((f) => f.endsWith('.vue') || f === 'reader-shell.ts')
-    expect(files.length).toBeGreaterThan(8) // all components covered, not a hand-picked subset
-    for (const f of files) {
-      const code = stripComments(compSrc(f))
-      // no Python projection import / ROUTE_BASE constant, and no locale-rooted prefix assembled in CODE.
-      // Route prefixes live ONLY in scripts/route_base.py (doc-comment references are allowed).
-      expect(/route_base|ROUTE_BASE/.test(code), `${f} references ROUTE_BASE in code`).toBe(false)
+    expect(allComponents.length).toBeGreaterThan(8) // all components covered, not a hand-picked subset
+    for (const f of allComponents) {
       expect(
-        code.includes('pt/filosofia'),
+        /route_base|ROUTE_BASE/.test(stripComments(compSrc(f))),
+        `${f} references ROUTE_BASE in code`
+      ).toBe(false)
+    }
+    // (2) the pipeline components that render a routePath must not ASSEMBLE the locale-rooted prefix in
+    // code — they derive every href from routePath; route prefixes live ONLY in scripts/route_base.py.
+    // (Non-pipeline components such as the homepage may carry a static nav link to /pt/filosofia/, which
+    // is not projection logic, so they are excluded from this check.)
+    const readerComponents = [
+      'PipelineReaderHeader.vue',
+      'PipelineSegmentNav.vue',
+      'PipelineWorkContents.vue',
+      'PipelineWorkContentsMount.vue',
+      'PipelineExportReview.vue',
+      'PipelineReaderPreview.vue',
+      'PipelineSegmentPreview.vue',
+      'PipelineWindowPreview.vue',
+      'reader-shell.ts'
+    ]
+    for (const f of readerComponents) {
+      expect(
+        stripComments(compSrc(f)).includes('pt/filosofia'),
         `${f} hard-codes the locale-rooted prefix in code`
       ).toBe(false)
     }

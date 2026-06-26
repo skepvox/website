@@ -93,7 +93,7 @@ head:
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Louis Lavelle",
-                "url": "https://skepvox.com/louis-lavelle/"
+                "url": "https://skepvox.com/pt/filosofia/louis-lavelle/"
               },
               {
                 "@type": "ListItem",
@@ -126,7 +126,7 @@ head:
               {
                 "@type": "Person",
                 "name": "Louis Lavelle",
-                "url": "https://skepvox.com/louis-lavelle/"
+                "url": "https://skepvox.com/pt/filosofia/louis-lavelle/"
               },
               {
                 "@type": "Thing",

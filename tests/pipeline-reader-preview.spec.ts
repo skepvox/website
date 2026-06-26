@@ -93,15 +93,10 @@ test.describe('pipeline-export reader prototype (Slice 2G, buffer/noindex, no ro
     expect(urls.some((u) => /\/00-\d\d-\d\d\d-\d\d\d(-|\/|$)/.test(u))).toBe(false)
   })
 
-  test('the existing 12 live fr chapter routes (and the hub) still resolve', () => {
-    const work = '/louis-lavelle/introduction-a-l-ontologie'
-    expect(builtExists(work)).toBe(true)
-    const stems = fs
-      .readdirSync(path.resolve('src/louis-lavelle/introduction-a-l-ontologie'))
-      .filter((f) => f.endsWith('.md'))
-      .map((f) => f.replace(/\.md$/, ''))
-    expect(stems.length).toBe(12)
-    for (const stem of stems) expect(builtExists(`${work}/${stem}`), stem).toBe(true)
+  test('the legacy fr edition (12 chapter pages + hub) is gone — removed in A5; nothing builds under /louis-lavelle/', () => {
+    expect(fs.existsSync(path.resolve('src/louis-lavelle/introduction-a-l-ontologie'))).toBe(false)
+    expect(builtExists('/louis-lavelle/introduction-a-l-ontologie')).toBe(false)
+    expect(fs.existsSync(path.join(DIST, 'louis-lavelle'))).toBe(false)
   })
 
   test('WorkContents/ReadingNav/segment-manifest consumers are unchanged', () => {
@@ -113,9 +108,7 @@ test.describe('pipeline-export reader prototype (Slice 2G, buffer/noindex, no ro
       path.resolve('.vitepress/theme/components/WorkContentsMount.vue'),
       'utf-8'
     )
-    expect(mount).toContain(
-      "new Set(['louis-lavelle/de-l-acte.md', 'literatura/machado-de-assis/bras-cubas.md'])"
-    )
+    expect(mount).toContain("new Set(['literatura/machado-de-assis/bras-cubas.md'])")
     expect(mount.includes('introduction-a-l-ontologie')).toBe(false)
   })
 

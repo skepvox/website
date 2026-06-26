@@ -43,19 +43,11 @@ test.describe('redirects clean break (slice A4 / IA-4)', () => {
     expect(fs.readFileSync(leaf, 'utf-8')).not.toMatch(/name="robots"[^>]*content="noindex"/)
   })
 
-  test('the 12 legacy fr chapter pages still build but are NOT shadowed by a redirect (404 debt accepted)', () => {
-    const frDir = path.resolve('src/louis-lavelle/introduction-a-l-ontologie')
-    const stems = fs
-      .readdirSync(frDir)
-      .filter((f) => f.endsWith('.md'))
-      .map((f) => f.replace(/\.md$/, ''))
-    expect(stems.length).toBe(12)
-    for (const stem of stems) {
-      expect(
-        fs.existsSync(path.join(DIST, 'louis-lavelle/introduction-a-l-ontologie', `${stem}.html`)),
-        stem
-      ).toBe(true)
-    }
-    expect(fs.existsSync(REDIRECTS)).toBe(false) // nothing redirects these legacy routes anymore
+  test('the legacy fr chapter pages are gone (removed in A5) and were never replaced by a redirect (404 debt accepted)', () => {
+    // A5 removed the whole legacy /louis-lavelle/ corpus, including the fr edition; A4 already removed
+    // any redirect, so the old fr chapter URLs simply 404.
+    expect(fs.existsSync(path.resolve('src/louis-lavelle/introduction-a-l-ontologie'))).toBe(false)
+    expect(fs.existsSync(path.join(DIST, 'louis-lavelle'))).toBe(false)
+    expect(fs.existsSync(REDIRECTS)).toBe(false)
   })
 })

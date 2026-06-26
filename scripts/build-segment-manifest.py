@@ -27,9 +27,9 @@ real `canonical-id`, authored titles, `segment-kind`, review/reading state). Unt
     leaf represents the canonical segment/trecho. `urlStability` is "preserve" (public URLs are
     SEO-sensitive; identity lives in canonicalId, not the slug).
 
-Scope: literatura + louis-lavelle reading surfaces. Podcasts are handled separately
-(PodcastEpisodeNav) and are out of scope. No prose is emitted. Idempotent: writes only on
-change, mirroring build-reading-nav.py / build-sidebar-nav.py.
+Scope: literatura reading surfaces (the legacy louis-lavelle corpus was removed in slice A5).
+Podcasts are handled separately (PodcastEpisodeNav) and are out of scope. No prose is emitted.
+Idempotent: writes only on change, mirroring build-reading-nav.py / build-sidebar-nav.py.
 """
 
 from __future__ import annotations
@@ -63,8 +63,6 @@ def parse_route(route: str) -> dict:
     parts = route.strip("/").split("/")
     if parts[0] == "literatura":
         corpus, author, work = "literatura", parts[1], parts[2]
-    elif parts[0] == "louis-lavelle":
-        corpus, author, work = "louis-lavelle", "louis-lavelle", parts[1]
     else:
         corpus, author, work = parts[0], parts[0], parts[-1]
     return {"corpus": corpus, "author": author, "work": work, "workId": f"{author}/{work}"}
@@ -81,7 +79,7 @@ def work_language(rel_path: str, corpus: str) -> str:
         match = FM_LANGUAGE_RE.search(fpath.read_text(encoding="utf-8"))
         if match:
             return match.group(1).lower()
-    return "fr" if corpus == "louis-lavelle" else "pt"
+    return "pt"  # literatura corpus default (louis-lavelle removed in A5)
 
 
 def classify(rows: list) -> str:
@@ -203,15 +201,11 @@ def single_file_segment(ids: dict, href: str, title: str) -> dict:
 
 
 def iter_works(sidebar: dict):
-    """Yield (work_dict) for literatura + louis-lavelle works, in sidebar-nav order."""
+    """Yield (work_dict) for literatura works, in sidebar-nav order."""
     for corpus in sidebar["corpora"]:
         if corpus["key"] == "literatura":
             for author in corpus.get("authors", []):
                 for w in author["works"]:
-                    yield w
-        elif corpus["key"] == "louis-lavelle":
-            for group in corpus.get("groups", []):
-                for w in group["works"]:
                     yield w
         # podcast and any other corpus: out of scope
 
@@ -272,7 +266,7 @@ def build() -> dict:
         "$schema": "skepvox-segment-manifest-v0",
         "generatedBy": "scripts/build-segment-manifest.py",
         "source": "website-committed",
-        "scope": ["literatura", "louis-lavelle"],
+        "scope": ["literatura"],
         "note": (
             "Provisional bridge manifest (reading-app Slice a). Durable segment identity "
             "(canonicalId) + conservative authored hierarchy (groupPath, inferred from the "

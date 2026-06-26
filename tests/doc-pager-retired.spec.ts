@@ -27,9 +27,9 @@ const ROUTES = [
   'literatura/machado-de-assis', // author hub
   'literatura/machado-de-assis/bras-cubas', // work hub — used to page cross-author
   'literatura/raul-pompeia/o-ateneu', // work hub (outline: [2, 3])
-  'louis-lavelle', // Lavelle hub
-  'louis-lavelle/de-l-etre', // Lavelle work hub
-  'pt/filosofia/louis-lavelle/introducao-a-ontologia' // pipeline pt work hub — used to page into "De l'être"
+  'pt/filosofia/', // locale-rooted philosophy section hub (A3; the legacy /louis-lavelle/ hubs were removed in A5)
+  'pt/filosofia/louis-lavelle/', // locale-rooted author hub
+  'pt/filosofia/louis-lavelle/introducao-a-ontologia' // pipeline pt work hub
 ]
 
 test.describe('doc pager retired on non-leaf routes (footer:false)', () => {

@@ -587,6 +587,12 @@ Ordered for safety; each is independently reviewable, commit-only on `develop`.
 - **IA-5 — Remove legacy Lavelle (after pilot green).** Delete the legacy books, `build-lavelle-*.py`,
   the legacy `/louis-lavelle/` author hub + `works.json`, and the old fr edition pages; drop their
   nav/sidebar/test references. `/louis-lavelle/` ceases to exist (404).
+  **Status: implemented** (slice A5, on `develop`) — **Phase A is complete.** The whole `src/louis-lavelle/`
+  tree, all 11 `build-lavelle-*.py` builders, the orphaned legacy images, and the legacy nav/sidebar/llms
+  config are gone; the shared reading generators dropped the `louis-lavelle` corpus; the homepage + 404 were
+  retargeted to `/pt/filosofia/louis-lavelle/`. `/louis-lavelle/` 404s (no redirects). The only Lavelle
+  surface is the new `/pt/filosofia/louis-lavelle/` hub + the live pt Introdução reader. Guard:
+  `tests/legacy-lavelle-removed.spec.ts`.
 - **Follow-on programme (not this pilot):** locale-root `/literatura/` → `/pt/literatura/` and
   `/podcast/` → `/pt/podcast/`; build the `/` → locale negotiation + the `fr/en/es/ru` roots, locale
   switcher, hreflang, localized nav/search/footer, VitePress `locales`, and `PipelineEditionSwitch`.

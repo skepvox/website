@@ -46,9 +46,10 @@ test.describe('PodcastEpisodeNav — owned within-show episode pager', () => {
       'literatura/machado-de-assis/index.html',
       'literatura/machado-de-assis/bras-cubas.html',
       'literatura/graciliano-ramos/vidas-secas/00-00-001-mudanca.html',
-      'louis-lavelle/index.html',
-      'louis-lavelle/de-l-etre.html',
-      'louis-lavelle/de-l-etre/00-00-001-de-la-primaute-de-l-etre.html',
+      // the live pt reader (the legacy /louis-lavelle/ book pages were removed in A5)
+      'pt/filosofia/louis-lavelle/index.html', // author hub
+      'pt/filosofia/louis-lavelle/introducao-a-ontologia/index.html', // work hub
+      'pt/filosofia/louis-lavelle/introducao-a-ontologia/00-01-002-008.html', // a reader leaf
       'index.html'
     ]
     for (const rel of off) {

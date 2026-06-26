@@ -20,7 +20,7 @@ test.describe('homepage pillars', () => {
   test('uses the three cards as the only homepage pillar links', async ({ page }) => {
     await expect(page.locator('#hero a')).toHaveCount(0)
     await expect(page.locator('#hero .description')).toHaveCount(0)
-    for (const href of ['/louis-lavelle/', '/literatura/', '/podcast/']) {
+    for (const href of ['/pt/filosofia/louis-lavelle/', '/literatura/', '/podcast/']) {
       await expect(page.locator(`#highlights a.vt-box[href="${href}"]`)).toHaveCount(1)
     }
   })

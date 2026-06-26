@@ -526,6 +526,22 @@ The detailed comparison (locale-rooted vs language-mixed) is in `filosofia-ia-pi
   Redirect assertions in `pipeline-publication-gate`/`pipeline-segment-routes`/`pipeline-discovery-hygiene`
   were flipped to clean-break; `tests/redirects-clean-break.spec.ts` is the focused new-policy proof.
 - **A5 / IA-5** — Remove the legacy Lavelle corpus + builders + legacy author hub once green.
+  **Status: implemented** on `develop` — **Phase A is complete.** Deleted the whole `src/louis-lavelle/`
+  tree (legacy author hub + `works.json`, the 9 originals + `a-consciencia-de-si`, and the old fr
+  `introduction-a-l-ontologie` hub + 12 chapter pages), all 11 `scripts/build-lavelle-*.py` builders,
+  `tests/louis-lavelle.spec.ts`, and the orphaned `src/public/images/louis-lavelle/` assets (the new
+  hub's `/images/authors/louis-lavelle.webp` is kept). Removed the `Lavelle` nav item, the
+  `'/louis-lavelle/'` sidebar group, the dead `louis-lavelle` `isChapterRoute` rule, and the obsolete
+  `louis-lavelle/introduction-a-l-ontologie` llms ignore entries; dropped the `louis-lavelle` corpus from
+  the shared `build-reading-nav.py` / `build-sidebar-nav.py` / `build-segment-manifest.py` generators and
+  regenerated their manifests. Retargeted the homepage pillar + JSON-LD + the 404 page from
+  `/louis-lavelle/` to `/pt/filosofia/louis-lavelle/`. **Final Phase A state:** the only public Lavelle
+  surface is `/pt/filosofia/louis-lavelle/` + the live pt _Introdução à ontologia_ reader at
+  `/pt/filosofia/louis-lavelle/introducao-a-ontologia/` (99 prefix-only leaves); old `/louis-lavelle/`
+  URLs 404 (clean break, no redirects). `tests/legacy-lavelle-removed.spec.ts` is the removal guard.
+  Coverage retired with the corpus (no replacement subject exists): WorkContents grouped-mode, the
+  segment-manifest segment-level/inferred-book classification, and the French reading-nav labels — all
+  exercised only by the removed lavelle works; they return with a future authored-grouped/French work.
 
 **Phase B — Extend the proven scheme (reuses A1's projection, no new scheme risk).**
 

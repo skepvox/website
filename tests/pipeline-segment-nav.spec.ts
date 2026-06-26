@@ -262,14 +262,17 @@ test.describe('pipeline pt segment nav (Slice 2O, owned prev/next/up, pipeline-s
     await expect(up).not.toContainText('Índice')
   })
 
-  test('scope guard: legacy reading pages (de-l-acte) keep their chapter-opener h2 (accent bar intact)', async ({
+  test('scope guard: the pipeline reader h2 override is scoped — non-pipeline vt-doc pages keep the accent bar', async ({
     page
   }) => {
-    await page.goto('/louis-lavelle/de-l-acte')
+    // The owned PipelineReaderHeader removes the accent bar on its own h2; that must not leak to other
+    // vt-doc pages. (The original subject was the legacy /louis-lavelle/de-l-acte page, removed in A5;
+    // the literatura author hub is a surviving non-pipeline vt-doc page with default accent-bar h2s.)
+    await page.goto('/literatura/machado-de-assis/')
     const h2 = page.locator('.VPContentDoc .vt-doc h2').first()
     await expect(h2).toBeVisible()
     const before = await h2.evaluate((el) => getComputedStyle(el, '::before').display)
-    expect(before).not.toBe('none') // unscoped pages keep the accent bar — no other book touched
+    expect(before).not.toBe('none') // unscoped pages keep the accent bar — the pipeline reader didn't touch it
   })
 
   test('performance boundary: each leaf carries only its own prose (no all-99 prose bundle)', () => {

@@ -109,11 +109,9 @@ test.describe('filosofia hubs (slice A3 / IA-3)', () => {
       'utf-8'
     )
     expect(sidebarNav.includes('/louis-lavelle/introducao-a-ontologia')).toBe(false)
-    // the legacy /louis-lavelle/ hub's works.json no longer lists Introdução as a pt translation
-    const works = read(path.resolve('src/louis-lavelle/works.json'))
-    expect(works.translationsPt.map((w: any) => w.href)).not.toContain(
-      '/louis-lavelle/introducao-a-ontologia'
-    )
+    // the legacy /louis-lavelle/ hub + its works.json were removed entirely in A5 (clean break)
+    expect(fs.existsSync(path.resolve('src/louis-lavelle/works.json'))).toBe(false)
+    expect(fs.existsSync(path.resolve('src/louis-lavelle'))).toBe(false)
   })
 
   test('the new section + author hubs are in the sitemap; segment leaves crawlable but pruned', () => {
@@ -134,11 +132,11 @@ test.describe('filosofia hubs (slice A3 / IA-3)', () => {
     expect(html(leaf).includes("content: 'noindex'")).toBe(false)
   })
 
-  test('the new Filosofia nav entry has independent activeMatch; legacy Lavelle nav is untouched', () => {
+  test('the Filosofia nav entry stays; the legacy Lavelle nav was removed in A5', () => {
     const config = fs.readFileSync(path.resolve('.vitepress/config.ts'), 'utf-8')
     expect(config).toContain("activeMatch: '^/pt/filosofia/'")
     expect(config).toContain("link: '/pt/filosofia/'")
-    expect(config).toContain("activeMatch: '^/louis-lavelle/'") // legacy entry stays until A5
+    expect(config.includes("activeMatch: '^/louis-lavelle/'")).toBe(false) // legacy nav removed in A5
   })
 
   test('isChapterRoute is marker-aware (no temporary pt/filosofia depth rule remains)', () => {

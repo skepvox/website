@@ -16,9 +16,6 @@ const manifest = () =>
 const LIT_FIRST = 'literatura/graciliano-ramos/vidas-secas/00-00-001-mudanca'
 const LIT_MID = 'literatura/machado-de-assis/dom-casmurro/00-08-074-a-presilha'
 const LIT_LAST = 'literatura/machado-de-assis/dom-casmurro/00-15-148-ebem-e-o-resto'
-const LAV_FR = 'louis-lavelle/de-l-etre/00-00-001-de-la-primaute-de-l-etre'
-const LAV_PT =
-  'louis-lavelle/a-consciencia-de-si/00-00-000-001-i-a-consciencia-de-si-e-o-erro-de-narciso'
 
 function navText(page: string): string {
   return (page.match(/<nav class="reading-nav[^"]*"[\s\S]*?<\/nav>/g) || [])
@@ -34,7 +31,7 @@ function contextText(page: string): string {
 test.describe('reading-nav manifest', () => {
   test('is keyed by work route with ordered [slug, displayTitle] rows', () => {
     const m = manifest()
-    expect(Object.keys(m).length).toBeGreaterThan(10)
+    expect(Object.keys(m).length).toBeGreaterThan(5) // literatura works only (legacy Lavelle removed in A5)
     for (const [route, rows] of Object.entries(m)) {
       expect(route.startsWith('/')).toBe(true)
       for (const row of rows) {
@@ -55,19 +52,9 @@ test.describe('reading-nav manifest', () => {
     expect(slugs.at(-1)).toBe('00-15-148-ebem-e-o-resto')
   })
 
-  test('Lavelle FR work is included despite leaves lacking chapter-id', () => {
-    const rows = manifest()['/louis-lavelle/de-l-etre']
-    expect(rows.length).toBeGreaterThan(1)
-    expect(rows[0][1]).toContain("primauté de l'être")
-  })
-
-  test('Lavelle pt-BR four-group slugs are included and correctly ordered', () => {
-    const rows = manifest()['/louis-lavelle/a-consciencia-de-si']
-    expect(rows.length).toBeGreaterThan(100)
-    expect(rows[0][0]).toMatch(/^\d\d-\d\d-\d\d\d-\d\d\d-/)
-    const slugs = rows.map((r) => r[0])
-    expect(slugs).toEqual([...slugs].sort())
-  })
+  // (The Lavelle FR + pt-BR reading-nav coverage was retired with the legacy /louis-lavelle/ corpus in
+  // A5 — it was the only French reading content; the live pt reader is the pipeline-export family, which
+  // has its own owned nav and is intentionally excluded from this legacy reading-nav manifest.)
 
   test('every manifest href resolves to a built page', () => {
     for (const [route, rows] of Object.entries(manifest())) {
@@ -104,18 +91,6 @@ test.describe('reading-nav component (SSR)', () => {
     const text = navText(page)
     expect(text).toContain('Anterior')
     expect(text).toContain('Próximo')
-  })
-
-  test('renders on a Lavelle FR leaf with French labels', () => {
-    const text = navText(html(LAV_FR))
-    expect(text).toContain('Suivant')
-    expect(text).not.toContain('Próximo')
-  })
-
-  test('renders on a Lavelle pt-BR leaf with Portuguese labels', () => {
-    const text = navText(html(LAV_PT))
-    expect(text).toContain('Próximo')
-    expect(text).not.toContain('Suivant')
   })
 
   test('first chapter has next-only, last chapter has prev-only', () => {

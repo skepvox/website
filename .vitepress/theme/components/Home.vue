@@ -11,7 +11,7 @@ import SkLink from './SkLink.vue'
   </section>
 
   <section id="highlights" class="vt-box-container">
-    <SkLink class="vt-box" href="/louis-lavelle/">
+    <SkLink class="vt-box" href="/pt/filosofia/louis-lavelle/">
       <h2>Louis Lavelle</h2>
       <p>
         Textos de Louis Lavelle, ainda pouco acessíveis, organizados aos poucos para minha própria

@@ -130,15 +130,10 @@ test.describe('pipeline-export ingestion (Slice 2B: vendor + reshape, no routes)
     expect(segs.some((s: any) => 'href' in s)).toBe(false)
   })
 
-  test('the 12 live fr chapter routes (and the hub) still resolve', () => {
-    const work = '/louis-lavelle/introduction-a-l-ontologie'
-    expect(builtExists(work)).toBe(true)
-    const stems = fs
-      .readdirSync(SRC_WORK)
-      .filter((f) => f.endsWith('.md'))
-      .map((f) => f.replace(/\.md$/, ''))
-    expect(stems.length).toBe(12)
-    for (const stem of stems) expect(builtExists(`${work}/${stem}`), stem).toBe(true)
+  test('the legacy fr edition (12 chapter pages + hub) is gone — removed in A5; nothing builds under /louis-lavelle/', () => {
+    expect(fs.existsSync(path.resolve('src/louis-lavelle/introduction-a-l-ontologie'))).toBe(false)
+    expect(builtExists('/louis-lavelle/introduction-a-l-ontologie')).toBe(false)
+    expect(fs.existsSync(path.join(DIST, 'louis-lavelle'))).toBe(false)
   })
 
   test('pipeline-export consumers are exactly the owned reader-shell components; segment-manifest consumers unchanged', () => {
@@ -163,9 +158,7 @@ test.describe('pipeline-export ingestion (Slice 2B: vendor + reshape, no routes)
       path.resolve('.vitepress/theme/components/WorkContentsMount.vue'),
       'utf-8'
     )
-    expect(mount).toContain(
-      "new Set(['louis-lavelle/de-l-acte.md', 'literatura/machado-de-assis/bras-cubas.md'])"
-    )
+    expect(mount).toContain("new Set(['literatura/machado-de-assis/bras-cubas.md'])")
     expect(mount.includes('introduction-a-l-ontologie')).toBe(false)
   })
 })

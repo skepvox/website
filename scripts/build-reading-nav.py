@@ -24,14 +24,14 @@ ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "src"
 OUT = ROOT / ".vitepress" / "theme" / "data" / "reading-nav.json"
 
-# Leaf reading pages: chapter files nested one level below a work directory.
-# literatura/<author>/<work>/<chapter>.md and louis-lavelle/<work>/<segment>.md.
-# Work hubs (one level shallower) and single-file works are excluded by glob depth.
-LEAF_GLOBS = ("literatura/*/*/*.md", "louis-lavelle/*/*.md")
+# Leaf reading pages: chapter files nested one level below a work directory,
+# literatura/<author>/<work>/<chapter>.md. Work hubs (one level shallower) and single-file
+# works are excluded by glob depth. (The legacy louis-lavelle/<work>/<segment>.md surface was
+# removed in slice A5; the live pt reader is the pipeline-export family, excluded below.)
+LEAF_GLOBS = ("literatura/*/*/*.md",)
 SKIP_NAMES = {"index.md", "readme.md"}
 FRONTMATTER_RE = re.compile(r"\A---\n(.*?)\n---", re.DOTALL)
-# Most specific human title first; never the slug. Lavelle pt segments carry
-# segment-title; literatura + Lavelle FR carry chapter-title.
+# Most specific human title first; never the slug. literatura leaves carry chapter-title.
 TITLE_KEYS = ("segment-title", "chapter-title", "title")
 
 

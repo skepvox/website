@@ -3,10 +3,11 @@ import fs from 'node:fs'
 import path from 'node:path'
 
 // Reading-app Slice b v1 — owned WorkContents book map (docs/work-contents-component-spec.md).
-// Mounted on ONE mechanics target (/louis-lavelle/de-l-acte) via the content-top slot. The map is
-// reusable (a future leaf overlay renders the same component with a currentId); these tests cover
-// the hub mount: guarded presence, the authored book hierarchy, collapse a11y, SkLink leaves, and
-// the printed-TOC (no docs-tree / no bullets / no slug-leakage) discipline.
+// Mounted on the flat-mode stress target (literatura/machado-de-assis/bras-cubas) via the content-top
+// slot. The grouped-mode mechanics target was louis-lavelle/de-l-acte, removed with the legacy corpus
+// in A5; no current literatura work is authored-grouped, so the grouped-mode tests (3 Livre groups,
+// collapse a11y, displayTitle leaves) were retired with it and return with a future grouped book. These
+// tests cover the flat-mode hub mount + the printed-TOC (no docs-tree / no bullets / no slug-leakage) discipline.
 const DIST = path.resolve('.vitepress/dist')
 const html = (rel: string) => fs.readFileSync(path.join(DIST, rel), 'utf-8')
 
@@ -19,80 +20,30 @@ const visibleText = (b: string) =>
     .trim()
 const count = (b: string, re: RegExp) => (b.match(re) || []).length
 
-const TARGET = 'louis-lavelle/de-l-acte.html' // grouped-mode mechanics target
-const FLAT = 'literatura/machado-de-assis/bras-cubas.html' // flat-mode stress target
+const FLAT = 'literatura/machado-de-assis/bras-cubas.html' // flat-mode stress target (the sole allowlisted hub)
 
 test.describe('WorkContents — owned work-hub book map (Slice b)', () => {
-  test('renders on both allowlisted work hubs (de-l-acte grouped, bras-cubas flat)', () => {
-    expect(block(html(TARGET)), 'present on de-l-acte hub').toBeTruthy()
+  test('renders on the allowlisted work hub (bras-cubas, flat mode)', () => {
     expect(block(html(FLAT)), 'present on bras-cubas hub').toBeTruthy()
   })
 
   test('is absent on leaves, non-adopted hubs, single-file works, podcast, and home', () => {
     const off = [
-      'louis-lavelle/de-l-acte/01-00-001-l-experience-de-l-acte.html', // a leaf of the target work
-      'louis-lavelle/index.html', // corpus hub
-      'louis-lavelle/de-l-etre.html', // another (not-yet-adopted) work hub
-      'louis-lavelle/a-consciencia-de-si.html', // another work hub
+      'literatura/machado-de-assis/dom-casmurro/00-01-001-do-titulo.html', // a reading leaf
+      'literatura/machado-de-assis/dom-casmurro.html', // another (not-allowlisted) work hub
       'literatura/machado-de-assis/a-cartomante.html', // single-file work
-      'literatura/index.html',
+      'literatura/index.html', // section hub
+      'literatura/machado-de-assis/index.html', // author hub
       'podcast/francais/001-le-badge.html',
       'index.html'
     ]
     for (const rel of off) expect(html(rel), rel).not.toContain('work-contents')
   })
 
-  test('renders the authored book hierarchy: 3 Livre groups, 27 chapter leaves', () => {
-    const b = block(html(TARGET))!
-    // localized group labels from works[].language (fr), never route family
-    expect(b).toContain('Livre 1')
-    expect(b).toContain('Livre 2')
-    expect(b).toContain('Livre 3')
-    // one disclosure button per book, each a real button with aria state
-    expect(count(b, /<button\b/g)).toBe(3)
-    expect(count(b, /aria-expanded="true"/g)).toBe(3) // small work -> default expanded
-    expect(count(b, /aria-controls="wc-/g)).toBe(3)
-    // 27 segment leaves, all real anchors (SkLink) into the target work
-    const hrefs = [...b.matchAll(/href="([^"]+)"/g)].map((m) => m[1])
-    expect(hrefs.length).toBe(27)
-    expect(hrefs.every((h) => h.startsWith('/louis-lavelle/de-l-acte/'))).toBe(true)
-    expect(count(b, /<a\b/g)).toBe(27)
-  })
-
-  test('leaf text is the displayTitle, never the slug; no bullet-list markup', () => {
-    const b = block(html(TARGET))!
-    const text = visibleText(b)
-    // displayTitle leads (authored "Chapitre …" carries its own quiet orientation). Use
-    // apostrophe-free fragments so SSR entity-escaping of ' cannot make the assertion flaky.
-    expect(text).toContain('Chapitre I. L') // first leaf, Livre 1
-    expect(text).toMatch(/Chapitre XXVII\./) // last leaf, Livre 3
-    // no slug leaks into the VISIBLE text (slugs live only in href attributes)
-    expect(text).not.toMatch(/\d{2}-\d{2}-\d{3}/)
-    expect(text).not.toContain('l-experience-de-l-acte')
-    // printed TOC, not a docs file tree: no ul/ol/li bullet markup for segments
-    expect(b).not.toMatch(/<ul\b/)
-    expect(b).not.toMatch(/<ol\b/)
-    expect(b).not.toMatch(/<li\b/)
-  })
-
-  test('collapse toggles via the group button (aria-expanded + controlled region)', async ({
-    page
-  }) => {
-    await page.goto('/louis-lavelle/de-l-acte')
-    const heading = page.locator('.work-contents__heading').first()
-    await expect(heading).toHaveAttribute('aria-expanded', 'true')
-    const regionId = await heading.getAttribute('aria-controls')
-    const region = page.locator(`#${regionId}`)
-    await expect(region).toBeVisible()
-
-    await heading.click()
-    await expect(heading).toHaveAttribute('aria-expanded', 'false')
-    await expect(region).toBeHidden()
-
-    await heading.click()
-    await expect(heading).toHaveAttribute('aria-expanded', 'true')
-    await expect(region).toBeVisible()
-  })
+  // (The grouped-mode tests — 3 Livre groups + 27 chapter leaves, displayTitle leaf labels, and the
+  // collapse-disclosure a11y — were exercised only by louis-lavelle/de-l-acte, the sole authored-grouped
+  // work, removed in A5. No current literatura work is grouped, so grouped-mode coverage returns with a
+  // future grouped book; the flat-mode tests (Brás Cubas) below remain.)
 
   test('leaves use SkLink; hover is pointer-gated; button owns the shared focus ring', () => {
     const src = fs.readFileSync(

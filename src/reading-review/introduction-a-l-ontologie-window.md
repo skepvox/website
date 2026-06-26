@@ -13,6 +13,6 @@ local search, and LLM output). It renders a small contiguous **window** of `pt` 
 (`00-01-001-006` → `00-01-002-010`, spanning the Distinção → Ser chapter boundary) one trecho at a time
 — with previous/next controls and a *Trechos* zoom-out — joined from the pipeline export by
 `(segmentPrefix, language)`, never by `routePath`. It creates **no** public segment route; the live work
-at `/louis-lavelle/introduction-a-l-ontologie` (12 fr chapter pages) is untouched.
+at `/louis-lavelle/introduction-a-l-ontologie` (12 fr chapter pages) was the legacy fr edition, removed in slice A5; this QA surface previews the committed pipeline-export data only.
 
 <PipelineWindowPreview />

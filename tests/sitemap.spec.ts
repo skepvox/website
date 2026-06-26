@@ -30,9 +30,7 @@ test.describe('sitemap de-emphasis', () => {
       '/literatura/machado-de-assis/dom-casmurro', // multi-chapter work hub
       '/literatura/machado-de-assis/o-alienista', // single-file work (depth edge case)
       '/literatura/raul-pompeia/o-ateneu', // single-file work
-      '/louis-lavelle/',
-      '/louis-lavelle/de-l-etre', // lavelle work
-      '/pt/filosofia/', // locale-rooted philosophy section hub (A3)
+      '/pt/filosofia/', // locale-rooted philosophy section hub (A3; replaces the legacy /louis-lavelle/ removed in A5)
       '/pt/filosofia/louis-lavelle/', // locale-rooted author hub (A3)
       '/pt/filosofia/louis-lavelle/introducao-a-ontologia/' // locale-rooted pipeline work hub (A2)
     ]) {
@@ -44,7 +42,6 @@ test.describe('sitemap de-emphasis', () => {
     const urls = sitemapUrls()
     for (const u of [
       '/literatura/machado-de-assis/dom-casmurro/00-01-001-do-titulo', // chapter under a multi-chapter work
-      '/louis-lavelle/de-l-etre/00-00-001-de-la-primaute-de-l-etre', // chapter under a kept lavelle work
       '/pt/filosofia/louis-lavelle/introducao-a-ontologia/00-01-002-008', // locale-rooted pipeline leaf (A2)
       '/404'
     ]) {
@@ -53,10 +50,7 @@ test.describe('sitemap de-emphasis', () => {
   })
 
   test('a dropped chapter stays indexable (no robots noindex meta)', () => {
-    for (const rel of [
-      'literatura/machado-de-assis/dom-casmurro/00-01-001-do-titulo.html',
-      'louis-lavelle/de-l-etre/00-00-001-de-la-primaute-de-l-etre.html'
-    ]) {
+    for (const rel of ['literatura/machado-de-assis/dom-casmurro/00-01-001-do-titulo.html']) {
       const html = fs.readFileSync(path.resolve('.vitepress/dist', rel), 'utf-8')
       expect(html, `${rel} must remain indexable`).not.toContain('name="robots"')
     }

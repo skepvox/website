@@ -6,9 +6,10 @@ import WorkContents from './WorkContents.vue'
 
 // Hub adapter for the book map. WorkContents adopts work hubs one at a time via this allowlist;
 // the map itself stays context-free so a future reading-leaf overlay can reuse it directly.
-//   - louis-lavelle/de-l-acte  — grouped mode (book-level hierarchy) mechanics target
 //   - machado-de-assis/bras-cubas — flat mode (163 leaves, empty groupPath) visual stress target
-const ALLOWED = new Set(['louis-lavelle/de-l-acte.md', 'literatura/machado-de-assis/bras-cubas.md'])
+// (The grouped-mode subject was louis-lavelle/de-l-acte, removed with the legacy corpus in slice A5;
+// no current literatura work is authored-grouped, so the grouped path awaits a future grouped book.)
+const ALLOWED = new Set(['literatura/machado-de-assis/bras-cubas.md'])
 
 const { page } = useData()
 const work = computed(() => {

@@ -14,12 +14,14 @@ what the manifests already encode):
   - .vitepress/theme/data/reading-nav.json  -> reading-leaf counts + multi/single kind
   - src/literatura/<author>/works.json      -> literature works (title, href, year)
   - .vitepress/theme/components/authors.ts   -> literature author order + labels
-  - src/louis-lavelle/works.json             -> Lavelle translated / original works
   - .vitepress/theme/data/pipeline-export-segments.json -> pipeline-exported work editions
   - src/podcast/shows.json + <show>/episodes.json -> shows + PUBLIC episodes only
 
+(The legacy louis-lavelle corpus was removed in slice A5; its locale-rooted successor is the
+pipeline-export pt Introdução à ontologia, surfaced via the new /pt/filosofia/ hubs in config.ts.)
+
 `kind` is "multi-leaf" when the work has a reading-nav.json key (it is split into
-reading leaves — chapters in literature, sections/segments·trechos in Lavelle),
+reading leaves — chapters in literature),
 "pipeline-export" when the href is a routePrefix from the pipeline-export bridge, else
 "single-file" (one page, e.g. A Cartomante / O Ateneu). `leaves` is the split-leaf
 count (0 for single-file). No full text, no generated prose. Idempotent: writes only on
@@ -41,16 +43,10 @@ READING_NAV = DATA / "reading-nav.json"
 PIPELINE_EXPORT = DATA / "pipeline-export-segments.json"
 AUTHORS_TS = ROOT / ".vitepress" / "theme" / "components" / "authors.ts"
 
-# Corpus order mirrors the user-facing global nav in config.ts (Home, Lavelle,
-# Literatura, Podcasts). Within each corpus, order is taken verbatim from the existing
-# user-facing manifests (authors.ts / works.json / shows.json / episodes.json).
-CORPUS_ORDER = ["louis-lavelle", "literatura", "podcast"]
-
-# Lavelle group labels mirror the headings on the Lavelle hub (src/louis-lavelle/index.md).
-LAVELLE_GROUPS = [
-    ("translationsPt", "Obras traduzidas"),
-    ("frenchOriginals", "Obras originais"),
-]
+# Corpus order mirrors the user-facing global nav in config.ts (Home, Literatura, Podcasts;
+# the new Filosofia section is a hand-authored hub, not a generated sidebar corpus). Within each
+# corpus, order is taken verbatim from the existing manifests (authors.ts / works.json / shows.json).
+CORPUS_ORDER = ["literatura", "podcast"]
 
 
 def load_json(path: Path):
@@ -117,21 +113,6 @@ def literature_authors(leaf_counts: dict[str, int], pipeline_counts: dict[str, i
     return authors
 
 
-def lavelle_groups(leaf_counts: dict[str, int], pipeline_counts: dict[str, int]) -> list[dict]:
-    data = load_json(SRC / "louis-lavelle" / "works.json")
-    groups = []
-    for key, label in LAVELLE_GROUPS:
-        works = data.get(key, [])
-        groups.append(
-            {
-                "key": key,
-                "label": label,
-                "works": [work_entry(w, leaf_counts, pipeline_counts) for w in works],
-            }
-        )
-    return groups
-
-
 def podcast_shows() -> list[dict]:
     shows = load_json(SRC / "podcast" / "shows.json")
     out = []
@@ -158,12 +139,6 @@ def build() -> dict:
     leaf_counts = reading_nav_index()
     pipeline_counts = pipeline_route_index()
     corpora_by_key = {
-        "louis-lavelle": {
-            "key": "louis-lavelle",
-            "label": "Louis Lavelle",
-            "route": "/louis-lavelle/",
-            "groups": lavelle_groups(leaf_counts, pipeline_counts),
-        },
         "literatura": {
             "key": "literatura",
             "label": "Literatura",

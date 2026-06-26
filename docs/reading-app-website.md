@@ -16,9 +16,9 @@
   single canonical reading surface.
 - The **12 old fr chapter URLs 404** — slice **A4** removed the redirect map and `src/public/_redirects`
   (clean break, no redirects); they are **not** redirected to pt.
-- The **fr edition** (12 chapter pages + the single-page full-text hub `/louis-lavelle/introduction-a-l-ontologie`)
-  is kept **built as a legacy fr-language page** (removed in A5), but is **out of local search and LLM
-  output** (so pt is canonical there).
+- The **fr edition** (12 chapter pages + the full-text hub) and the **whole legacy `/louis-lavelle/`
+  corpus** were **removed in slice A5** (Phase A complete). The only Lavelle surface now is the
+  locale-rooted `/pt/filosofia/louis-lavelle/` hub + the live pt edition; old `/louis-lavelle/` URLs 404.
 - **`reading-review/**`** holds internal demo/prototype surfaces (map, single-leaf, windowed reader,
 full-work reader) — all `buffer:true`+`search:false`+`noindex`, out of sitemap/search/LLM.
 

@@ -120,24 +120,11 @@ test.describe('segment-manifest (reading-app Slice a data foundation)', () => {
     // a group key never spans two works (stable + unambiguous group identity)
     const cross = Object.entries(keyMembers).filter(([, works]) => works.size > 1)
     expect(cross.map(([k]) => k)).toEqual([])
-    // concrete: all a-consciencia chapter-1 segments share one chapter key; de-l-acte has 3 book keys
-    const ch1Keys = new Set(
-      seg('louis-lavelle/a-consciencia-de-si')
-        .flatMap((s: any) => s.groupPath)
-        .filter((l: any) => l.kind === 'chapter' && l.index === 1)
-        .map((l: any) => l.key)
-    )
-    expect(ch1Keys).toEqual(new Set(['louis-lavelle/a-consciencia-de-si/00-00-001']))
-    const bookKeys = new Set(
-      seg('louis-lavelle/de-l-acte')
-        .flatMap((s: any) => s.groupPath)
-        .filter((l: any) => l.kind === 'book')
-        .map((l: any) => l.key)
-    )
-    expect(bookKeys.size).toBe(3)
+    // (The concrete grouped examples — louis-lavelle/a-consciencia-de-si chapter keys + de-l-acte book
+    // keys — were retired in A5 with the legacy corpus; no current literatura work is authored-grouped.)
   })
 
-  test('legacy chapter-level and segment-level leaves are both represented and classified', () => {
+  test('legacy chapter-level and single-file leaves are represented and classified', () => {
     const m = manifest()
     const byId = Object.fromEntries(m.works.map((w: any) => [w.workId, w]))
 
@@ -148,22 +135,9 @@ test.describe('segment-manifest (reading-app Slice a data foundation)', () => {
     expect(bc.every((s: any) => s.segmentKind === 'chapter')).toBe(true)
     expect(bc.every((s: any) => s.segmentIndex === undefined)).toBe(true)
 
-    // segment-level work: SSS preserved, segmentKind segment, chapter in groupPath
-    expect(byId['louis-lavelle/a-consciencia-de-si'].prefixCompatibility).toBe('segment-level')
-    const ac = seg('louis-lavelle/a-consciencia-de-si')
-    expect(ac.length).toBe(118)
-    const body = ac.filter((s: any) => !s.bucket) // exclude any front-matter/conclusion bucket
-    expect(body.every((s: any) => typeof s.segmentIndex === 'number')).toBe(true)
-    expect(body.every((s: any) => s.segmentKind === 'segment')).toBe(true)
-    expect(body.every((s: any) => s.groupPath.some((l: any) => l.kind === 'chapter'))).toBe(true)
-    // full BB-PP-CCC-SSS prefix preserved
-    expect(ac[0].prefix).toMatch(/^\d{2}-\d{2}-\d{3}-\d{3}$/)
-
-    // BB!=0 chapter-level work projects an inferred internal-book level
-    const da = seg('louis-lavelle/de-l-acte')
-    expect(
-      da.every((s: any) => s.groupPath.some((l: any) => l.kind === 'book' && l.inferred))
-    ).toBe(true)
+    // (The segment-level + inferred-book examples were louis-lavelle/a-consciencia-de-si and de-l-acte,
+    // retired in A5 with the legacy corpus; literatura works are all chapter-level/flat, so no current
+    // work exercises the segment-level / inferred-book classification paths.)
 
     // single-file works present and classified
     const sf = m.segments.filter((s: any) => s.prefixCompatibility === 'single-file')
@@ -190,8 +164,7 @@ test.describe('segment-manifest (reading-app Slice a data foundation)', () => {
     const works = manifest().works
     expect(works.every((w: any) => ['pt', 'fr', 'en'].includes(w.language))).toBe(true)
     const byId = Object.fromEntries(works.map((w: any) => [w.workId, w.language]))
-    expect(byId['louis-lavelle/de-l-acte']).toBe('fr')
-    expect(byId['louis-lavelle/a-consciencia-de-si']).toBe('pt')
+    // (the louis-lavelle fr/pt language examples were removed in A5; literatura is pt)
     expect(byId['machado-de-assis/bras-cubas']).toBe('pt')
   })
 

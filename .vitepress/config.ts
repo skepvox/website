@@ -23,12 +23,6 @@ const nav: ThemeConfig['nav'] = [
     link: '/pt/filosofia/'
   },
   {
-    // Legacy locale-less Lavelle corpus; independent activeMatch, removed in A5 when the section goes.
-    text: 'Lavelle',
-    activeMatch: '^/louis-lavelle/',
-    link: '/louis-lavelle/'
-  },
-  {
     text: 'Literatura',
     activeMatch: '^/literatura/',
     link: '/literatura/'
@@ -104,33 +98,6 @@ export const sidebar: ThemeConfig['sidebar'] = {
     }
   ],
 
-  '/louis-lavelle/': [
-    {
-      text: "La Dialectique de l'éternel présent",
-      items: [
-        { text: "De l'être", link: '/louis-lavelle/de-l-etre' },
-        { text: "De l'acte", link: '/louis-lavelle/de-l-acte' },
-        { text: "Du temps et de l'éternité", link: '/louis-lavelle/du-temps-et-de-l-eternite' },
-        { text: "De l'âme humaine", link: '/louis-lavelle/de-l-ame-humaine' }
-      ]
-    },
-    {
-      text: 'Œuvres introductoires',
-      items: [
-        { text: 'A consciência de si', link: '/louis-lavelle/a-consciencia-de-si' },
-        { text: 'La conscience de soi', link: '/louis-lavelle/la-conscience-de-soi' },
-        { text: 'La Présence totale', link: '/louis-lavelle/la-presence-totale' },
-        { text: "Introduction à l'ontologie", link: '/louis-lavelle/introduction-a-l-ontologie' }
-      ]
-    },
-    {
-      text: 'Œuvres morales',
-      items: [
-        { text: "L'Erreur de Narcisse", link: '/louis-lavelle/l-erreur-de-narcisse' },
-        { text: 'Quatre saints', link: '/louis-lavelle/quatre-saints' }
-      ]
-    }
-  ],
 }
 
 const i18n: ThemeConfig['i18n'] = {
@@ -182,19 +149,18 @@ function routeFromRelativePath(relativePath: string): string {
 // rather than hundreds of chapter pages. Work pages themselves (one level up)
 // stay in the sitemap. URLs here are already normalised (extensionless, hubs end
 // in "/").
-//   /literatura/<author>/<work>/<chapter>   and   /louis-lavelle/<work>/<chapter>   -> dropped (legacy)
-//   any page with the `generated: pipeline-segment-routes` marker                   -> dropped (A3)
-// Two kinds of leaf are pruned. LEGACY hand-authored chapters stay path-keyed until they are rebuilt
-// or removed (literatura in B4, legacy Lavelle in A5). PIPELINE reader segment leaves are pruned
-// MARKER-aware (slice A3): isChapterRoute drops any route collected into pipelineSegmentRoutes from
-// the `pipeline-segment-routes` frontmatter marker — the locale-rooted pt leaves — while the work hub
-// (`pipeline-work-hub`) stays. This needs no per-section path rule, so future locales/sections are
-// covered automatically (it replaced the temporary pt/filosofia depth rule).
+//   /literatura/<author>/<work>/<chapter>          -> dropped (legacy, path-keyed)
+//   any page with the `generated: pipeline-segment-routes` marker -> dropped (A3, marker-aware)
+// Two kinds of leaf are pruned. LEGACY hand-authored literatura chapters stay path-keyed until they are
+// rebuilt through the pipeline (B4). PIPELINE reader segment leaves are pruned MARKER-aware (slice A3):
+// isChapterRoute drops any route collected into pipelineSegmentRoutes from the `pipeline-segment-routes`
+// frontmatter marker — the locale-rooted pt leaves — while the work hub (`pipeline-work-hub`) stays. This
+// needs no per-section path rule, so future locales/sections are covered automatically. (The legacy
+// louis-lavelle depth rule was removed in A5 with the legacy corpus.)
 function isChapterRoute(url: string): boolean {
   if (pipelineSegmentRoutes.has(url)) return true
   const segments = url.replace(/^\/+|\/+$/g, '').split('/').filter(Boolean)
   if (segments[0] === 'literatura' && segments.length >= 4) return true
-  if (segments[0] === 'louis-lavelle' && segments.length >= 3) return true
   return false
 }
 
@@ -526,16 +492,10 @@ gtag('config', 'G-1VWHF2D1QJ');`
       llmstxt({
         // 'reading-review/**' is the internal pipeline-export review buffer surface (Slice 2C):
         // noindex/unlisted/out-of-search, and excluded from the LLM output too.
-        // The old fr edition of Introdução à ontologia is superseded by the canonical pt edition under
-        // introducao-a-ontologia. Keep its prose out of the LLM output: the 12 chapter pages
-        // ('…/introduction-a-l-ontologie/**', legacy fr pages removed in A5 — no longer redirect sources
-        // after A4) AND the full-text fr hub ('…/introduction-a-l-ontologie.md', which inlines the same chapters).
-        ignoreFiles: [
-          'index.md',
-          'reading-review/**',
-          'louis-lavelle/introduction-a-l-ontologie.md',
-          'louis-lavelle/introduction-a-l-ontologie/**'
-        ],
+        // (The old fr edition of Introdução à ontologia and the whole legacy louis-lavelle corpus were
+        // removed in slice A5, so they no longer need an ignore entry — the canonical pt edition under
+        // /pt/filosofia/louis-lavelle/introducao-a-ontologia/ is the only Lavelle surface in the output.)
+        ignoreFiles: ['index.md', 'reading-review/**'],
         customLLMsTxtTemplate: `\
 # skepvox
 

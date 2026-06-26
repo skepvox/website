@@ -94,16 +94,11 @@ test.describe('pipeline pt segment route family (Slice 2M, public + real prose, 
     }
   })
 
-  test('the 12 legacy fr chapter routes (and the fr hub) still build (legacy, removed in A5; no redirect shadows them)', () => {
-    const work = '/louis-lavelle/introduction-a-l-ontologie'
-    expect(builtExists(work)).toBe(true)
-    const stems = fs
-      .readdirSync(path.resolve('src/louis-lavelle/introduction-a-l-ontologie'))
-      .filter((f) => f.endsWith('.md'))
-      .map((f) => f.replace(/\.md$/, ''))
-    expect(stems.length).toBe(12)
-    for (const stem of stems) expect(builtExists(`${work}/${stem}`), stem).toBe(true)
-    // clean break (A4): no _redirects file shadows these legacy routes
+  test('the legacy fr edition is gone (12 chapter pages + hub removed in A5); no redirect either (clean break)', () => {
+    expect(fs.existsSync(path.resolve('src/louis-lavelle/introduction-a-l-ontologie'))).toBe(false)
+    expect(builtExists('/louis-lavelle/introduction-a-l-ontologie')).toBe(false)
+    expect(fs.existsSync(path.join(DIST, 'louis-lavelle'))).toBe(false)
+    // clean break (A4): and no _redirects file exists either
     expect(fs.existsSync(path.resolve('src/public/_redirects'))).toBe(false)
   })
 
