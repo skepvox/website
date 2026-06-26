@@ -32,3 +32,9 @@ Pre-existing site docs, left untouched by this consolidation: `books-workflow.md
 `local-podcast-business-model-next-steps.md`, `navigation-owned-shell-assessment.md`,
 `product-theme-roadmap-assessment.md`, `seo-strategy.md`, `sidebar-local-nav-model.md`,
 `slice-1c-color-accent-assessment.md`.
+
+## Deferred strategy notes
+
+- [social-presence-footer-strategy.md](social-presence-footer-strategy.md) — social/distribution
+  presence and the future owned-footer link set (YouTube, Instagram, WhatsApp, podcast links,
+  newsletter/RSS), deferred until the owned footer/social icon component.
