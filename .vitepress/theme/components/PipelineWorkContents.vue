@@ -266,23 +266,26 @@ onMounted(() => {
 /* The title + edition line are one masthead, bound to the map by a hairline so the title introduces
    the contents instead of floating detached above them. */
 .pwc__head {
-  margin: 0 0 1.5rem;
-  padding-bottom: 1.1rem;
+  margin: 0 0 1.75rem;
+  padding-bottom: 1.25rem;
   border-bottom: 1px solid var(--sk-reading-hairline);
 }
 
+/* The work title is the entry point: a serif (Literata) display line, continuous with the reading
+   prose. Serif reads better with near-normal tracking than the tight negative tracking a sans display
+   wants. */
 .pwc__title {
   margin: 0;
   font-family: var(--sk-reading-title-font);
   font-size: var(--sk-reading-title);
   font-weight: 600;
-  letter-spacing: -0.02em;
-  line-height: 1.16;
+  letter-spacing: -0.005em;
+  line-height: 1.12;
   color: var(--sk-text);
 }
 
 .pwc__edition {
-  margin: 0.55rem 0 0;
+  margin: 0.65rem 0 0;
   font-size: var(--sk-reading-kicker);
   font-weight: 600;
   letter-spacing: var(--sk-reading-kicker-tracking);
@@ -311,7 +314,7 @@ onMounted(() => {
   display: flex;
   align-items: center;
   gap: 0.75rem;
-  margin: 1.6rem 0 0.2rem;
+  margin: 2rem 0 0.35rem;
   font-size: var(--sk-reading-kicker);
   font-weight: 650;
   letter-spacing: var(--sk-reading-kicker-tracking);
@@ -350,6 +353,7 @@ onMounted(() => {
 
 .pwc__chapter-title {
   flex: 1 1 auto;
+  font-family: var(--sk-reading-font);
 }
 
 /* Quiet per-chapter segment count — orientation while collapsed; decorative, hidden from SR. */
@@ -387,6 +391,7 @@ onMounted(() => {
   display: block;
   min-height: 44px;
   padding: 0.5rem 0 0.5rem 1.25rem;
+  font-family: var(--sk-reading-font);
   font-size: var(--sk-reading-row);
   font-weight: 400;
   line-height: 1.5;

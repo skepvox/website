@@ -24,8 +24,8 @@
      parallel modular scale; aliasing means they flip in dark mode automatically. */
   --sk-reading-title: 1.875rem; /* hub/leaf masthead — the one off-rung display size */
   --sk-reading-title-font: var(
-    --vt-font-family-base
-  ); /* sans default; swap to --sk-reading-font for the serif-title experiment */
+    --sk-reading-font
+  ); /* Slice D: serif (Literata) — the hub title now reads bookish + continuous with the reading prose */
   --sk-reading-kicker: 0.8125rem; /* part label + leaf chapter kicker (one small-caps family) */
   --sk-reading-kicker-tracking: 0.07em;
   --sk-reading-row: 0.9375rem; /* chapter disclosure + segment rows + nav titles */

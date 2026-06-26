@@ -214,3 +214,85 @@ test.describe('PipelineWorkContents (owned pt work-hub contents map)', () => {
     expect(opened).not.toBe('none') // a real 90° transform when open
   })
 })
+
+// Slice D — raise the hub from "functional contents list" to a composed, bookish reading-app entry
+// surface: a printed-table-of-contents in the book's own (Literata) voice, with the small-caps part
+// dividers + tabular counts as quiet sans apparatus. The structural invariants (collapse/return/
+// metadata-only/no-fr-leak) are locked above + in pipeline-work-hub.spec; these lock the COMPOSITION.
+test.describe('PipelineWorkContents — Slice D composed bookish surface', () => {
+  test.beforeEach(async ({ page }) => {
+    await page.addInitScript(() => {
+      try {
+        localStorage.setItem('skepvox-consent', 'denied')
+      } catch {
+        /* storage unavailable */
+      }
+    })
+  })
+
+  const fam = (page: import('@playwright/test').Page, sel: string) =>
+    page
+      .locator(sel)
+      .first()
+      .evaluate((el) => getComputedStyle(el).fontFamily.toLowerCase())
+  const px = (page: import('@playwright/test').Page, sel: string) =>
+    page
+      .locator(sel)
+      .first()
+      .evaluate((el) => parseFloat(getComputedStyle(el).fontSize))
+
+  test('exactly one h1 (the work title), owned by the contents component — no duplicated/detached docs title', async ({
+    page
+  }) => {
+    await page.goto(HUB)
+    const h1 = page.locator('h1')
+    await expect(h1).toHaveCount(1)
+    await expect(h1).toHaveText('Introdução à ontologia')
+    await expect(h1).toHaveAttribute('id', 'pwc-title')
+    // the title lives INSIDE the masthead of the contents component (one composed surface),
+    // not as a separate docs page heading floating above/below the component
+    await expect(page.locator('.pwc__head #pwc-title')).toHaveCount(1)
+    // no stray h2/h3 docs headings leak onto the hub (parts are integrated <p> dividers, not headings)
+    await expect(page.locator('.vp-doc h2, .vp-doc h3')).toHaveCount(0)
+  })
+
+  test('the title + chapter/segment entries are the serif (Literata) reading voice; apparatus stays sans', async ({
+    page
+  }) => {
+    await page.goto(HUB)
+    expect(await fam(page, '.pwc__title')).toContain('literata') // serif title — the Slice D experiment, KEPT
+    expect(await fam(page, '.pwc__chapter-title')).toContain('literata') // serif chapter entries
+    expect(await fam(page, 'a.pwc__link')).toContain('literata') // serif segment + front-matter rows
+    // the apparatus — part dividers + per-chapter counts — stays sans for contrast (not the book voice)
+    expect(await fam(page, '.pwc__part-heading')).not.toContain('literata')
+    expect(await fam(page, '.pwc__count')).not.toContain('literata')
+  })
+
+  test('masthead hierarchy + printed-TOC apparatus: title > chapter, edition line, hairline, tabular counts, scroll-margin', async ({
+    page
+  }) => {
+    await page.goto(HUB)
+    // the serif title outranks the chapter rows (hierarchy holds; Slice A invariant preserved)
+    expect(await px(page, '.pwc__title')).toBeGreaterThan(await px(page, '.pwc__chapter-title'))
+    // the edition context line names the edition (small-caps apparatus under the title)
+    await expect(page.locator('.pwc__edition')).toContainText(/edição em português/i)
+    // the masthead is bound to the contents by a hairline (composed, not a detached header box)
+    const headBorder = await page
+      .locator('.pwc__head')
+      .evaluate((el) => parseFloat(getComputedStyle(el).borderBottomWidth))
+    expect(headBorder).toBeGreaterThan(0)
+    // tabular figure counts + current-row scroll-margin (roadmap Slice D apparatus)
+    expect(
+      await page
+        .locator('.pwc__count')
+        .first()
+        .evaluate((el) => getComputedStyle(el).fontVariantNumeric)
+    ).toContain('tabular-nums')
+    expect(
+      await page
+        .locator('a.pwc__link')
+        .first()
+        .evaluate((el) => parseFloat(getComputedStyle(el).scrollMarginTop))
+    ).toBeGreaterThan(0)
+  })
+})
