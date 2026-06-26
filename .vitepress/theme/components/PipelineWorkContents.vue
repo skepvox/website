@@ -45,6 +45,11 @@ interface Seg {
 const NAV_LABEL: Record<string, string> = { fr: 'Sommaire', pt: 'Sumário', en: 'Contents' }
 const navLabel = computed(() => NAV_LABEL[props.language] ?? NAV_LABEL.pt)
 
+// Render-layer label for the front-matter bucket (the loose, empty-groupPath segments that precede
+// the authored parts — e.g. Advertência). Language-keyed like NAV_LABEL; NOT a data/groupPath change.
+const OPENING_LABEL: Record<string, string> = { fr: 'Ouverture', pt: 'Abertura', en: 'Opening' }
+const openingLabel = computed(() => OPENING_LABEL[props.language] ?? OPENING_LABEL.pt)
+
 // A quiet bibliographic line under the title — author + which edition — so the masthead has a home
 // and the title stops floating detached from the map.
 const EDITION_WORD: Record<string, string> = {
@@ -198,18 +203,25 @@ onMounted(() => {
     </header>
     <nav class="pwc" :aria-label="navLabel">
       <template v-for="block in blocks" :key="block.key">
-        <!-- Front matter / loose initial segments (e.g. Advertência): flush links, no chapter. -->
-        <div v-if="block.type === 'loose'" class="pwc__loose">
-          <SkLink
-            v-for="s in block.segments"
-            :key="s.canonicalId"
-            class="pwc__link pwc__link--loose"
-            :class="{ 'is-current': isCurrent(s) }"
-            :href="`/${s.routePath}`"
-            :current="isCurrent(s)"
-            >{{ s.displayTitle }}</SkLink
-          >
-        </div>
+        <!-- Front-matter bucket (loose, empty-groupPath segments before the authored parts, e.g.
+             Advertência): a lightweight render-layer "Abertura" group so the front matter reads as a
+             deliberate opening rather than a stray link. Integrated with the map (small-caps family)
+             but visually SUBORDINATE to the authored Part dividers (muted, no hairline). Derived from
+             the loose bucket only — no invented groupPath/Part, no data change. -->
+        <section v-if="block.type === 'loose'" class="pwc__opening">
+          <p class="pwc__opening-heading">{{ openingLabel }}</p>
+          <div class="pwc__loose">
+            <SkLink
+              v-for="s in block.segments"
+              :key="s.canonicalId"
+              class="pwc__link pwc__link--loose"
+              :class="{ 'is-current': isCurrent(s) }"
+              :href="`/${s.routePath}`"
+              :current="isCurrent(s)"
+              >{{ s.displayTitle }}</SkLink
+            >
+          </div>
+        </section>
 
         <!-- Part → Chapter → Segment. The part label stays visible; the chapter is a disclosure button. -->
         <section v-else class="pwc__part">
@@ -301,7 +313,20 @@ onMounted(() => {
   margin-top: 1.5rem;
 }
 
-/* Front matter sits flush at the top, before the first part. */
+/* The front-matter "Abertura" group. Its heading is small-caps like a Part divider so it belongs to
+   the map, but MUTED ink + hairline-less, so it stays clearly subordinate to the authored Part
+   dividers (which are full-ink with a trailing hairline). A render-layer grouping of the loose
+   front-matter bucket — no invented Part. */
+.pwc__opening-heading {
+  margin: 0 0 0.2rem;
+  font-size: var(--sk-reading-kicker);
+  font-weight: 600;
+  letter-spacing: var(--sk-reading-kicker-tracking);
+  text-transform: uppercase;
+  line-height: 1.3;
+  color: var(--sk-text-muted);
+}
+/* Front-matter links sit flush under the Abertura label, before the first part. */
 .pwc__loose {
   display: flex;
   flex-direction: column;
@@ -403,6 +428,16 @@ onMounted(() => {
 /* Front-matter links sit flush (no chapter indent). */
 .pwc__link--loose {
   padding-left: 0;
+}
+
+/* Slice E: the expanded segment rows sit at the 44px tap-target floor (min-height 44px, contiguous),
+   so the inter-row PITCH cannot drop below 44px without breaking the ≥44px guardrail. What we can do
+   within the floor: vertically CENTER the row text so each row reads as a centered entry rather than
+   top-loaded with the empty space dumped below it — a calmer, more intentional rhythm. The 44px tap
+   floor, the 1.25rem indentation, and the is-current accent rule are all preserved. */
+.pwc__leaves .pwc__link {
+  display: flex;
+  align-items: center;
 }
 
 /* The trecho the reader returned from (via a leaf "up" link): a quiet current marker, dormant on a

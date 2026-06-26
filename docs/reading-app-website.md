@@ -18,7 +18,64 @@
   is kept **built only as redirect sources / an fr-language page**, but is **out of local search and LLM
   output** (so pt is canonical there).
 - **`reading-review/**`** holds internal demo/prototype surfaces (map, single-leaf, windowed reader,
-  full-work reader) — all `buffer:true` + `search:false` + `noindex`, out of sitemap/search/LLM.
+full-work reader) — all `buffer:true`+`search:false`+`noindex`, out of sitemap/search/LLM.
+
+---
+
+## 1a. Reader-template readiness gate — CERTIFIED (Slices A–E)
+
+**Slices A–E (`docs/reader-experience-next-level-roadmap.md`) are the settled reader-template
+foundation.** The pt _Introdução à ontologia_ flow (hub + leaves + nav + icons) is the proof template
+the fr edition and every next book will inherit. **Getting this template right once — here — is a key
+foundation we follow through _before_ multiplying books/editions**; fixing chrome across two editions
+and many books later is far more expensive. The Slice-E readiness gate (an audit/test/doc pass — a
+4-lens adversarial certification, live contrast/perf measurement, and a four-matrix visual sign-off)
+**found no blockers**.
+
+**Certified ready to multiply:**
+
+- **Owned reader shell, zero docs artifacts.** Hub + leaves carry no rented pager / sidebar / aside /
+  edit-link / duplicated title / unrelated next-book pager (built-HTML asserted). The hub is one
+  composed bookish surface with exactly one component-owned `<h1>`; leaves are real `<h2>`/`<h3>`
+  (SEO preserved) with the prose visually dominant and no typographic event trecho→trecho.
+- **Owned interaction + symbol language.** `ReaderIcon` is the only glyph source (4-name closed set,
+  no dependency); `SkLink` is the only link primitive; chapter disclosure is a real `<button>` with
+  `aria-expanded`/`aria-controls`; current-location is the inset accent bar + `aria-current`; focus
+  rings live on controls; motion is reduced-motion-gated; localStorage stores only the boolean collapse
+  preference. (Slices C1–C4 lock this; Slice E re-certifies.)
+- **A11y / contrast (measured).** Icons ~4.6:1 light / ~6.3:1 dark; the three small-caps apparatus
+  lines (edition kicker, Abertura, part divider) all clear the 3:1 UI bar in both modes, and the
+  authored part divider stays ~2–2.7× brighter than the muted labels (the Slice-D "undifferentiated
+  grey" concern is **measured-resolved**, no token change needed). ≥44px tap targets hold.
+- **Composition.** Bookish serif title + serif TOC entries with sans apparatus (Slice D); the
+  front-matter bucket now renders under a subordinate **"Abertura"** render-layer group (derived from
+  the loose/empty-`groupPath` segments — no invented Part, no data change).
+- **Performance boundary.** `pipeline-export-segments.json` is metadata-only (no prose field); the hub
+  loads metadata only; each leaf is its own static page loading only its own prose — no all-N bundle.
+  (Tested.)
+- **Discovery.** The hub is indexable + in the sitemap; deep pt segments are crawlable but
+  sitemap-pruned; `reading-review/**` + the icon harness stay noindex/out-of-sitemap/out-of-LLM; no
+  fr/old-chapter/reading-review links leak onto the hub or leaves.
+
+**Deferred — the bounded first task of the fr edition (not a blocker, scoped out of Slice E):**
+
+- **Leaf-nav + hub-mount parameterisation.** `PipelineWorkContents` is fully parameterised
+  (`workId`/`language`/`title`/`author` props + per-language `NAV_LABEL`/`EDITION_WORD`/`OPENING_LABEL`
+  maps) and `PipelineReaderHeader` is frontmatter-driven, but **`PipelineSegmentNav` still hard-codes
+  the pt hub URL (`const HUB`) and the pt word "Sumário"**, and **`PipelineWorkContentsMount` mounts
+  with no props** (so a fr hub would render pt defaults). The fr work's first step: derive `HUB` from
+  the current segment's `routePath` (verified to yield the correct pt **and** fr hub), key the nav
+  contents/direction words off the leaf's `pipelineLanguage` via a `NAV_LABEL`-style map, and have the
+  mount pass frontmatter-derived props. A localized, low-risk change — _no other reader chrome needs to
+  change to add fr._
+- **Expanded segment-row pitch.** The expanded TOC rows sit at the **44px tap-target floor**
+  (contiguous, so pitch = tap target); the rows are centered within that floor, but the pitch cannot
+  drop below 44px without breaching the ≥44px guardrail. A genuinely tighter, denser printed-contents
+  pitch (e.g. ~38–40px, common for dense reading-app TOCs) is available **if** the ≥44px target is
+  relaxed — a deliberate product trade-off, left open.
+- **Out of scope by policy / parked:** the edition switcher (`PipelineEditionSwitch`, meaningful only
+  with two editions), a shared `ContentsTree` (second pipeline work), a View-Transitions cross-fade,
+  and any progress/personal state (see §10).
 
 ## 2. Ingestion model (how the website consumes the export)
 

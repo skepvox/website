@@ -296,3 +296,157 @@ test.describe('PipelineWorkContents — Slice D composed bookish surface', () =>
     ).toBeGreaterThan(0)
   })
 })
+
+// Slice E — readiness gate: lock the certified template invariants so it is safe to multiply to the
+// fr edition + the next book: the Abertura front-matter group, the apparatus-line readability the
+// Slice D concern flagged (measured-resolved), the expanded-row 44px tap floor, and the metadata-only
+// / own-prose performance boundary.
+test.describe('PipelineWorkContents — Slice E readiness gate', () => {
+  test.beforeEach(async ({ page }) => {
+    await page.addInitScript(() => {
+      try {
+        localStorage.setItem('skepvox-consent', 'denied')
+      } catch {
+        /* storage unavailable */
+      }
+    })
+  })
+
+  test('front matter renders under a SUBORDINATE "Abertura" group (render-layer only; no invented Part/route)', async ({
+    page
+  }) => {
+    await page.goto(HUB)
+    const opening = page.locator('.pwc__opening-heading')
+    await expect(opening).toHaveCount(1)
+    await expect(opening).toHaveText('Abertura')
+    // the loose front-matter link (Advertência) sits under the Abertura group, still its own pt leaf route
+    const adv = page.locator('.pwc__opening a.pwc__link--loose')
+    await expect(adv).toHaveText('Advertência')
+    await expect(adv).toHaveAttribute('href', /00-00-000-001-advertencia$/)
+    // subordinate to authored Part dividers: the Abertura label has NO trailing hairline; Parts do
+    const hairline = (sel: string) =>
+      page
+        .locator(sel)
+        .first()
+        .evaluate((el) => {
+          const a = getComputedStyle(el, '::after')
+          return a.content !== 'none' && parseFloat(a.flexGrow || '0') > 0
+        })
+    expect(await hairline('.pwc__opening-heading')).toBe(false)
+    expect(await hairline('.pwc__part-heading')).toBe(true)
+  })
+
+  test('expanded segment rows preserve the >=44px tap target', async ({ page }) => {
+    await page.goto(HUB)
+    await page.locator('nav.pwc .pwc__chapter-heading').first().click()
+    await page.waitForTimeout(300)
+    const heights = await page
+      .locator('.pwc__leaves a.pwc__link')
+      .evaluateAll((els) =>
+        els.slice(0, 6).map((e) => Math.round(e.getBoundingClientRect().height))
+      )
+    expect(heights.length).toBeGreaterThanOrEqual(6)
+    for (const h of heights) expect(h).toBeGreaterThanOrEqual(44)
+  })
+
+  test('performance boundary: pipeline-export metadata has NO prose; a leaf carries only its own prose', () => {
+    const data = JSON.parse(
+      fs.readFileSync(path.resolve('.vitepress/theme/data/pipeline-export-segments.json'), 'utf-8')
+    )
+    const keys = new Set<string>(
+      (data.segments as Record<string, unknown>[]).flatMap((s) => Object.keys(s))
+    )
+    for (const p of ['prose', 'body', 'text', 'content', 'html', 'markdown'])
+      expect(keys.has(p)).toBe(false)
+    const leaf = fs.readFileSync(
+      path.resolve(
+        '.vitepress/dist/louis-lavelle/introducao-a-ontologia/00-01-002-008-paragrafo-7.html'
+      ),
+      'utf-8'
+    )
+    // a leaf is its own static page — no all-99 bundle: far-away segment titles must not appear
+    for (const far of ['Parágrafo 20', 'Parágrafo 50', 'Parágrafo 90'])
+      expect(leaf.includes(far)).toBe(false)
+  })
+
+  test('no docs artifacts on the leaf (rented pager / sidebar / aside / edit-link)', () => {
+    const leaf = fs.readFileSync(
+      path.resolve(
+        '.vitepress/dist/louis-lavelle/introducao-a-ontologia/00-01-002-008-paragrafo-7.html'
+      ),
+      'utf-8'
+    )
+    for (const art of [
+      'VPDocFooter',
+      'next-link',
+      'prev-link',
+      'edit-link',
+      'VPSidebar',
+      'VPDocAside',
+      'class="VPDoc '
+    ])
+      expect(leaf.includes(art)).toBe(false)
+  })
+
+  for (const dark of [false, true]) {
+    test(`apparatus readability (${dark ? 'dark' : 'light'}): edition/Abertura/part labels clear 3:1 + the part divider stays distinct from the muted labels`, async ({
+      page
+    }) => {
+      await page.addInitScript((d) => {
+        try {
+          localStorage.setItem('vitepress-theme-appearance', d ? 'dark' : 'light')
+          localStorage.setItem('skepvox-consent', 'denied')
+        } catch {
+          /* storage unavailable */
+        }
+      }, dark)
+      await page.goto(HUB)
+      const metric = (sel: string) =>
+        page
+          .locator(sel)
+          .first()
+          .evaluate((el) => {
+            const parse = (c: string) => {
+              const m = (c.match(/[\d.]+/g) || []).map(Number)
+              return { r: m[0] || 0, g: m[1] || 0, b: m[2] || 0, a: m[3] ?? 1 }
+            }
+            const lin = (v: number) => {
+              v /= 255
+              return v <= 0.03928 ? v / 12.92 : ((v + 0.055) / 1.055) ** 2.4
+            }
+            const lum = (c: { r: number; g: number; b: number }) =>
+              0.2126 * lin(c.r) + 0.7152 * lin(c.g) + 0.0722 * lin(c.b)
+            const bgOf = (n: Element | null) => {
+              while (n) {
+                const c = getComputedStyle(n).backgroundColor
+                if (c && c !== 'rgba(0, 0, 0, 0)' && c !== 'transparent') return parse(c)
+                n = n.parentElement
+              }
+              return { r: 255, g: 255, b: 255, a: 1 }
+            }
+            const s = parse(getComputedStyle(el).color)
+            const bg = bgOf(el)
+            const eff = {
+              r: s.a * s.r + (1 - s.a) * bg.r,
+              g: s.a * s.g + (1 - s.a) * bg.g,
+              b: s.a * s.b + (1 - s.a) * bg.b
+            }
+            const L1 = lum(eff)
+            const Lb = lum(bg)
+            return { lum: L1, ratio: (Math.max(L1, Lb) + 0.05) / (Math.min(L1, Lb) + 0.05) }
+          })
+      const ed = await metric('.pwc__edition')
+      const op = await metric('.pwc__opening-heading')
+      const part = await metric('.pwc__part-heading')
+      // all three apparatus lines clear the 3:1 UI/non-text bar against the surface
+      expect(ed.ratio).toBeGreaterThanOrEqual(3)
+      expect(op.ratio).toBeGreaterThanOrEqual(3)
+      expect(part.ratio).toBeGreaterThanOrEqual(3)
+      // the authored Part divider stays clearly distinct (brighter ink) from the muted edition + Abertura
+      // labels — never undifferentiated grey (the Slice D concern, measured-resolved in both modes)
+      const mutual = (a: number, b: number) => (Math.max(a, b) + 0.05) / (Math.min(a, b) + 0.05)
+      expect(mutual(part.lum, ed.lum)).toBeGreaterThan(1.5)
+      expect(mutual(part.lum, op.lum)).toBeGreaterThan(1.5)
+    })
+  }
+})
