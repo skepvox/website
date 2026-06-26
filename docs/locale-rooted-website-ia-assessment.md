@@ -500,6 +500,19 @@ The detailed comparison (locale-rooted vs language-mixed) is in `filosofia-ia-pi
   the locale-rooted nav/sidebar entry.
 - **A3 / IA-3** — Create `/pt/filosofia/` + `/pt/filosofia/louis-lavelle/` hubs + `philosophyAuthorCards`;
   nav/sidebar; generalize `isChapterRoute` (metadata-aware); LLM unchanged; hub/section tests.
+  **Status: implemented** on `develop`. Hand-authored SSR CardGrid hubs at `/pt/filosofia/` (section,
+  `philosophyAuthorCards` in `authors.ts`) and `/pt/filosofia/louis-lavelle/` (author); the Introdução
+  work card is sourced from pipeline-export metadata via `filosofia-cards.ts` (route + title from the
+  export — `works.json` is **not** reintroduced for the migrated book). Both hubs carry a self-referential
+  locale-rooted canonical and are in the sitemap; the work hub + 99 prefix-only segment leaves are
+  unchanged. `isChapterRoute` was **generalized to marker-aware**: a `transformPageData` hook collects
+  any `generated: pipeline-segment-routes` page into `pipelineSegmentRoutes` (mirroring `bufferRoutes`),
+  and the sitemap drops those — replacing the temporary `pt/filosofia` depth rule and covering any future
+  locale/section with no path rule (the legacy `literatura`/`louis-lavelle` chapter depth rules stay until
+  B4/A5). A global nav `Filosofia → /pt/filosofia/` entry was added (independent `activeMatch`; legacy
+  Lavelle nav stays until A5). **Deliberately NO rented config sidebar** for `/pt/filosofia/`: the nav +
+  CardGrid hierarchy give complete discovery without hard-coding the migrated book's pipeline route into a
+  sidebar (a scoped key can be added if the section grows).
 - **A4 / IA-4** — Disable the fr→pt redirects (`STATUS="disabled"`), delete the redirect-map JSON +
   spec.
 - **A5 / IA-5** — Remove the legacy Lavelle corpus + builders + legacy author hub once green.

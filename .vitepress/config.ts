@@ -18,6 +18,12 @@ const nav: ThemeConfig['nav'] = [
     link: '/'
   },
   {
+    text: 'Filosofia',
+    activeMatch: '^/pt/filosofia/',
+    link: '/pt/filosofia/'
+  },
+  {
+    // Legacy locale-less Lavelle corpus; independent activeMatch, removed in A5 when the section goes.
     text: 'Lavelle',
     activeMatch: '^/louis-lavelle/',
     link: '/louis-lavelle/'
@@ -35,6 +41,10 @@ const nav: ThemeConfig['nav'] = [
 ]
 
 export const sidebar: ThemeConfig['sidebar'] = {
+  // Note (slice A3): /pt/filosofia/ intentionally has NO rented config sidebar. The section's
+  // discovery is the global nav "Filosofia" entry + the two SSR CardGrid hubs (section -> author ->
+  // work hub -> segments), so the hierarchy is fully navigable without duplicating the migrated
+  // book's pipeline route into a hard-coded sidebar. A scoped key can be added if the section grows.
   '/podcast/': [
     {
       text: 'Vox Français',
@@ -156,6 +166,13 @@ function normalizeSitePathname(pathname: string): string {
 // direct URL but are unlisted, noindexed, and out of search.
 const bufferRoutes = new Set<string>()
 
+// Routes of pipeline reader segment leaves (frontmatter `generated: pipeline-segment-routes`),
+// collected during page rendering and pruned from the sitemap by isChapterRoute (marker-aware,
+// slice A3). The work hub carries `pipeline-work-hub`, not this marker, so it is NOT collected and
+// stays in the sitemap. This replaces the temporary pt/filosofia depth rule and covers any future
+// locale/section with no new path rule.
+const pipelineSegmentRoutes = new Set<string>()
+
 function routeFromRelativePath(relativePath: string): string {
   return normalizeSitePathname('/' + relativePath.replace(/\.md$/, '.html'))
 }
@@ -165,18 +182,19 @@ function routeFromRelativePath(relativePath: string): string {
 // rather than hundreds of chapter pages. Work pages themselves (one level up)
 // stay in the sitemap. URLs here are already normalised (extensionless, hubs end
 // in "/").
-//   /literatura/<author>/<work>/<chapter>             -> dropped
-//   /louis-lavelle/<work>/<chapter>                   -> dropped
-//   /pt/filosofia/<author>/<work>/<segment>           -> dropped (locale-rooted pipeline leaves, A2)
+//   /literatura/<author>/<work>/<chapter>   and   /louis-lavelle/<work>/<chapter>   -> dropped (legacy)
+//   any page with the `generated: pipeline-segment-routes` marker                   -> dropped (A3)
+// Two kinds of leaf are pruned. LEGACY hand-authored chapters stay path-keyed until they are rebuilt
+// or removed (literatura in B4, legacy Lavelle in A5). PIPELINE reader segment leaves are pruned
+// MARKER-aware (slice A3): isChapterRoute drops any route collected into pipelineSegmentRoutes from
+// the `pipeline-segment-routes` frontmatter marker — the locale-rooted pt leaves — while the work hub
+// (`pipeline-work-hub`) stays. This needs no per-section path rule, so future locales/sections are
+// covered automatically (it replaced the temporary pt/filosofia depth rule).
 function isChapterRoute(url: string): boolean {
+  if (pipelineSegmentRoutes.has(url)) return true
   const segments = url.replace(/^\/+|\/+$/g, '').split('/').filter(Boolean)
   if (segments[0] === 'literatura' && segments.length >= 4) return true
   if (segments[0] === 'louis-lavelle' && segments.length >= 3) return true
-  // Locale-rooted pipeline reader leaves (slice A2): the work hub is depth 4
-  // (/pt/filosofia/louis-lavelle/introducao-a-ontologia/) and stays; its segment
-  // leaves are depth 5 and are pruned. A3 generalises this to a metadata-aware
-  // (urlStability / pipeline-segment marker) gate that needs no per-section path rule.
-  if (segments[0] === 'pt' && segments[1] === 'filosofia' && segments.length >= 5) return true
   return false
 }
 
@@ -430,6 +448,10 @@ gtag('config', 'G-1VWHF2D1QJ');`
     // @ts-ignore - frontmatter is untyped; buffer pages are excluded from the sitemap
     if (frontmatter.buffer === true && pageData.relativePath) {
       bufferRoutes.add(routeFromRelativePath(pageData.relativePath))
+    }
+    // @ts-ignore - frontmatter is untyped; pipeline segment leaves are marker-pruned from the sitemap
+    if (frontmatter.generated === 'pipeline-segment-routes' && pageData.relativePath) {
+      pipelineSegmentRoutes.add(routeFromRelativePath(pageData.relativePath))
     }
     // @ts-ignore - frontmatter is untyped and can contain HeadConfig[]
     const head = frontmatter.head

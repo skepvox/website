@@ -32,6 +32,8 @@ test.describe('sitemap de-emphasis', () => {
       '/literatura/raul-pompeia/o-ateneu', // single-file work
       '/louis-lavelle/',
       '/louis-lavelle/de-l-etre', // lavelle work
+      '/pt/filosofia/', // locale-rooted philosophy section hub (A3)
+      '/pt/filosofia/louis-lavelle/', // locale-rooted author hub (A3)
       '/pt/filosofia/louis-lavelle/introducao-a-ontologia/' // locale-rooted pipeline work hub (A2)
     ]) {
       expect(urls, `${u} should be in the sitemap`).toContain(u)
