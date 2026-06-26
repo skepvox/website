@@ -6,84 +6,84 @@
       "note": "Front matter — 1:1 (single front-matter segment).",
       "oldPath": "/louis-lavelle/introduction-a-l-ontologie/00-00-000-avertissement",
       "statusCode": 301,
-      "targetPath": "/louis-lavelle/introducao-a-ontologia/00-00-000-001-advertencia"
+      "targetPath": "/pt/filosofia/louis-lavelle/introducao-a-ontologia/00-00-000-001"
     },
     {
       "chapterPrefix": "00-01-001",
       "note": "First pt segment of chapter “Distinção”.",
       "oldPath": "/louis-lavelle/introduction-a-l-ontologie/00-01-001-distinction",
       "statusCode": 301,
-      "targetPath": "/louis-lavelle/introducao-a-ontologia/00-01-001-002-paragrafo-1"
+      "targetPath": "/pt/filosofia/louis-lavelle/introducao-a-ontologia/00-01-001-002"
     },
     {
       "chapterPrefix": "00-01-002",
       "note": "First pt segment of chapter “Ser”.",
       "oldPath": "/louis-lavelle/introduction-a-l-ontologie/00-01-002-etre",
       "statusCode": 301,
-      "targetPath": "/louis-lavelle/introducao-a-ontologia/00-01-002-008-paragrafo-7"
+      "targetPath": "/pt/filosofia/louis-lavelle/introducao-a-ontologia/00-01-002-008"
     },
     {
       "chapterPrefix": "00-01-003",
       "note": "First pt segment of chapter “Existência”.",
       "oldPath": "/louis-lavelle/introduction-a-l-ontologie/00-01-003-existence",
       "statusCode": 301,
-      "targetPath": "/louis-lavelle/introducao-a-ontologia/00-01-003-021-paragrafo-20"
+      "targetPath": "/pt/filosofia/louis-lavelle/introducao-a-ontologia/00-01-003-021"
     },
     {
       "chapterPrefix": "00-01-004",
       "note": "First pt segment of chapter “Realidade”.",
       "oldPath": "/louis-lavelle/introduction-a-l-ontologie/00-01-004-realite",
       "statusCode": 301,
-      "targetPath": "/louis-lavelle/introducao-a-ontologia/00-01-004-034-paragrafo-33"
+      "targetPath": "/pt/filosofia/louis-lavelle/introducao-a-ontologia/00-01-004-034"
     },
     {
       "chapterPrefix": "00-01-005",
       "note": "First pt segment of chapter “Conexão”.",
       "oldPath": "/louis-lavelle/introduction-a-l-ontologie/00-01-005-connexion",
       "statusCode": 301,
-      "targetPath": "/louis-lavelle/introducao-a-ontologia/00-01-005-045-paragrafo-44"
+      "targetPath": "/pt/filosofia/louis-lavelle/introducao-a-ontologia/00-01-005-045"
     },
     {
       "chapterPrefix": "00-02-001",
       "note": "First pt segment of chapter “Distinção”.",
       "oldPath": "/louis-lavelle/introduction-a-l-ontologie/00-02-001-distinction",
       "statusCode": 301,
-      "targetPath": "/louis-lavelle/introducao-a-ontologia/00-02-001-051-paragrafo-50"
+      "targetPath": "/pt/filosofia/louis-lavelle/introducao-a-ontologia/00-02-001-051"
     },
     {
       "chapterPrefix": "00-02-002",
       "note": "First pt segment of chapter “Bem”.",
       "oldPath": "/louis-lavelle/introduction-a-l-ontologie/00-02-002-bien",
       "statusCode": 301,
-      "targetPath": "/louis-lavelle/introducao-a-ontologia/00-02-002-058-paragrafo-57"
+      "targetPath": "/pt/filosofia/louis-lavelle/introducao-a-ontologia/00-02-002-058"
     },
     {
       "chapterPrefix": "00-02-003",
       "note": "First pt segment of chapter “Valor”.",
       "oldPath": "/louis-lavelle/introduction-a-l-ontologie/00-02-003-valeur",
       "statusCode": 301,
-      "targetPath": "/louis-lavelle/introducao-a-ontologia/00-02-003-071-paragrafo-70"
+      "targetPath": "/pt/filosofia/louis-lavelle/introducao-a-ontologia/00-02-003-071"
     },
     {
       "chapterPrefix": "00-02-004",
       "note": "First pt segment of chapter “Ideal”.",
       "oldPath": "/louis-lavelle/introduction-a-l-ontologie/00-02-004-ideal",
       "statusCode": 301,
-      "targetPath": "/louis-lavelle/introducao-a-ontologia/00-02-004-082-paragrafo-81"
+      "targetPath": "/pt/filosofia/louis-lavelle/introducao-a-ontologia/00-02-004-082"
     },
     {
       "chapterPrefix": "00-02-005",
       "note": "First pt segment of chapter “Conexão”.",
       "oldPath": "/louis-lavelle/introduction-a-l-ontologie/00-02-005-connexion",
       "statusCode": 301,
-      "targetPath": "/louis-lavelle/introducao-a-ontologia/00-02-005-092-paragrafo-91"
+      "targetPath": "/pt/filosofia/louis-lavelle/introducao-a-ontologia/00-02-005-092"
     },
     {
       "chapterPrefix": "99-99-999",
       "note": "Conclusion — maps to the first conclusion segment; later conclusion segments are new pt routes with no old-URL source.",
       "oldPath": "/louis-lavelle/introduction-a-l-ontologie/99-99-999-conclusion",
       "statusCode": 301,
-      "targetPath": "/louis-lavelle/introducao-a-ontologia/99-99-999-096-paragrafo-95"
+      "targetPath": "/pt/filosofia/louis-lavelle/introducao-a-ontologia/99-99-999-096"
     }
   ],
   "generatedBy": "scripts/build-pipeline-redirect-map.py",

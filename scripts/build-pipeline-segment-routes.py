@@ -6,8 +6,9 @@ Per docs/introduction-a-ontologia-live-migration-plan.md §4: the pipeline minte
 urlStability:stable for the pt canonical edition (vendored into pipeline-export-segments.json). This
 generates one page per pt segment under <OUT_DIR>/<routePath-leaf>.md, where OUT_DIR is DERIVED from
 the (website-projected) routePath prefix — not a hard-code (slice A1 / IA-1, scripts/route_base.py).
-build-pipeline-export.py already applied ROUTE_BASE, so a single base flip relocates this whole tree
-with no edit here; today the prefix is src/louis-lavelle/introducao-a-ontologia/.
+build-pipeline-export.py already applied ROUTE_BASE, so a base flip relocates this whole tree with no
+edit here; as of slice A2 / IA-2 the prefix is src/pt/filosofia/louis-lavelle/introducao-a-ontologia/
+and the leaf is the bare segmentPrefix (LEAF_POLICY = "prefix-only").
 
 Prose is JOINED from the book-pipeline export/prose tree by (segmentPrefix, language) — never by
 routePath — and INLINED directly into each page body as static Markdown (no per-route JSON bundle, no

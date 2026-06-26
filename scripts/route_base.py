@@ -6,13 +6,12 @@ A public segment route is composed from two independent, website-owned knobs:
     projected routePath = ROUTE_BASE[workId] + "/" + leaf(record, LEAF_POLICY)
 
   1. ROUTE_BASE[workId] — the full public WORK PREFIX, {locale}/{section}/{author}/{editionSlug}:
-     everything BEFORE the leaf. The website owns this whole string. Today every value reproduces the
-     current path EXACTLY (zero user-visible change); the locale-rooted move (A2 / IA-2) flips one
-     value to "pt/filosofia/louis-lavelle/introducao-a-ontologia".
+     everything BEFORE the leaf. The website owns this whole string. As of slice A2 / IA-2 the pilot
+     book is locale-rooted at "pt/filosofia/louis-lavelle/introducao-a-ontologia".
   2. LEAF_POLICY — how the per-segment leaf is formed from the segment's book-pipeline identity:
-       - "vendored-slug" (today / default): leaf = the vendored final segment "<segmentPrefix>-<publicSlug>"
-         (e.g. "00-01-002-008-paragrafo-7") — reproduces today's URLs byte-for-byte.
-       - "prefix-only" (A2 target, NOT active yet): leaf = the bare segmentPrefix ("00-01-002-008").
+       - "vendored-slug": leaf = the vendored final segment "<segmentPrefix>-<publicSlug>"
+         (e.g. "00-01-002-008-paragrafo-7") — the pre-A2 URL form.
+       - "prefix-only" (ACTIVE as of A2): leaf = the bare segmentPrefix ("00-01-002-008").
          Readers never type leaf slugs; the stable segmentPrefix is already the order/pairing anchor,
          and the pretty displayTitle/publicSlug live in the UI + metadata — so the living edition can
          re-slug freely with no URL churn. (Precondition: segmentPrefix unique per edition — it is.)
@@ -25,9 +24,11 @@ flip, not a ROUTE_BASE surgery. routePath is PRESENTATION only (never identity, 
 it is re-projected freely with no book-pipeline change and no reader-shell change (the shell derives
 every href from routePath).
 
-A2 / IA-2 flips BOTH knobs together: ROUTE_BASE -> "pt/filosofia/louis-lavelle/introducao-a-ontologia"
-AND LEAF_POLICY -> "prefix-only", giving /pt/filosofia/louis-lavelle/introducao-a-ontologia/00-01-002-008.
-The pilot's work-inclusive base is docs §6.6's "degenerate" single-published-edition case; the finer
+A2 / IA-2 flipped BOTH knobs together: ROUTE_BASE -> "pt/filosofia/louis-lavelle/introducao-a-ontologia"
+AND LEAF_POLICY -> "prefix-only", so the live route is /pt/filosofia/louis-lavelle/introducao-a-ontologia/00-01-002-008
+(the old /louis-lavelle/introducao-a-ontologia/<segmentPrefix>-<publicSlug> URLs now 404 — clean break, no
+redirects; redirect cleanup is A4). The pilot's work-inclusive base is docs §6.6's "degenerate"
+single-published-edition case; the finer
 book-pipeline-relative routeSlug split (so the website map holds only {locale}/{section}/{author}) is
 deferred to the Phase-C multilingual programme per docs §6.4's future-proofing note. Implementation
 prompts: docs/locale-rooted-website-ia-assessment.md §11; docs/filosofia-ia-pilot-migration-assessment.md §12.
@@ -43,17 +44,15 @@ import argparse
 import json
 
 # workId -> full public WORK PREFIX for the PUBLISHED edition ({locale}/{section}/{author}/{editionSlug},
-# everything before the leaf). CURRENT VALUE REPRODUCES TODAY'S PATH EXACTLY — zero user-visible change.
-# A2 / IA-2 flips this one value (together with LEAF_POLICY -> "prefix-only"), e.g.
-#   "louis-lavelle/introduction-a-l-ontologie": "pt/filosofia/louis-lavelle/introducao-a-ontologia",
+# everything before the leaf). Locale-rooted as of slice A2 / IA-2 (the pilot's first public route move).
 ROUTE_BASE: dict[str, str] = {
-    "louis-lavelle/introduction-a-l-ontologie": "louis-lavelle/introducao-a-ontologia",
+    "louis-lavelle/introduction-a-l-ontologie": "pt/filosofia/louis-lavelle/introducao-a-ontologia",
 }
 
-# How the per-segment leaf is formed (the second website-owned knob). Default reproduces today's URLs;
-# A2 flips it to "prefix-only". Kept SEPARATE from ROUTE_BASE so the publicSlug tail is never baked
-# into the prefix (the policy can change without touching ROUTE_BASE).
-LEAF_POLICY = "vendored-slug"
+# How the per-segment leaf is formed (the second website-owned knob). ACTIVE policy is "prefix-only"
+# as of A2 (leaf = bare segmentPrefix). Kept SEPARATE from ROUTE_BASE so the publicSlug tail is never
+# baked into the prefix (the policy can change without touching ROUTE_BASE).
+LEAF_POLICY = "prefix-only"
 _LEAF_POLICIES = ("vendored-slug", "prefix-only")
 
 

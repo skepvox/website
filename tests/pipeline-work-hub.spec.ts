@@ -3,17 +3,17 @@ import fs from 'node:fs'
 import path from 'node:path'
 
 // Slice 2N (go-live) + owned reader-shell proof slice — the pt work hub at
-// /louis-lavelle/introducao-a-ontologia/. A readable entry point built from pipeline-export metadata
+// /pt/filosofia/louis-lavelle/introducao-a-ontologia/. A readable entry point built from pipeline-export metadata
 // (never the legacy hand-authored map): the hub markdown is frontmatter-only; the title and contents
 // (front matter, then Part -> Chapter -> Segment) are rendered together by the owned SSR component
 // PipelineWorkContents, which reads the same pipeline-export metadata. No concatenated prose, no
 // markdown bullet list or stranded H1. Indexable; in the sitemap; deep segment routes pruned.
 const DIST = path.resolve('.vitepress/dist')
 const META = path.resolve('.vitepress/theme/data/pipeline-export-segments.json')
-const HUB_SRC = path.resolve('src/louis-lavelle/introducao-a-ontologia/index.md')
-const HUB_HTML = path.resolve(DIST, 'louis-lavelle/introducao-a-ontologia/index.html')
+const HUB_SRC = path.resolve('src/pt/filosofia/louis-lavelle/introducao-a-ontologia/index.md')
+const HUB_HTML = path.resolve(DIST, 'pt/filosofia/louis-lavelle/introducao-a-ontologia/index.html')
 const ORIGIN = 'https://www.skepvox.com'
-const NS = '/louis-lavelle/introducao-a-ontologia/'
+const NS = '/pt/filosofia/louis-lavelle/introducao-a-ontologia/'
 
 const read = (p: string) => JSON.parse(fs.readFileSync(p, 'utf-8'))
 const ptSegments = () => read(META).segments.filter((s: any) => s.language === 'pt')
@@ -30,7 +30,7 @@ function builtExists(href: string): boolean {
 // hub these come exclusively from the owned PipelineWorkContents component (the hub has no sidebar,
 // no leaf nav, and no markdown link list).
 function segmentLinks(html: string): string[] {
-  const re = /href="(\/louis-lavelle\/introducao-a-ontologia\/[^"]+)"/g
+  const re = /href="(\/pt\/filosofia\/louis-lavelle\/introducao-a-ontologia\/[^"]+)"/g
   return [...new Set([...html.matchAll(re)].map((m) => m[1]))]
 }
 
@@ -45,7 +45,7 @@ const sitemapUrls = () =>
 
 test.describe('pipeline pt work hub (Slice 2N + owned reader-shell proof slice)', () => {
   test('the hub builds at the pt namespace and is generated from pipeline-export (not the legacy map)', () => {
-    expect(builtExists('/louis-lavelle/introducao-a-ontologia')).toBe(true)
+    expect(builtExists('/pt/filosofia/louis-lavelle/introducao-a-ontologia')).toBe(true)
     const src = fs.readFileSync(HUB_SRC, 'utf-8')
     expect(src).toContain('generated: pipeline-work-hub')
     // the legacy hand-authored manifest is never the hub's source
@@ -56,7 +56,7 @@ test.describe('pipeline pt work hub (Slice 2N + owned reader-shell proof slice)'
     const src = fs.readFileSync(HUB_SRC, 'utf-8')
     // the hub markdown is frontmatter-only — title and contents are owned by PipelineWorkContents.
     expect(src).not.toContain('# Introdução à ontologia')
-    expect(src).not.toMatch(/\]\(\/louis-lavelle\/introducao-a-ontologia\//)
+    expect(src).not.toMatch(/\]\(\/pt\/filosofia\/louis-lavelle\/introducao-a-ontologia\//)
     expect(src).not.toMatch(/^\s*-\s+\[/m)
 
     const html = fs.readFileSync(HUB_HTML, 'utf-8')
@@ -66,7 +66,9 @@ test.describe('pipeline pt work hub (Slice 2N + owned reader-shell proof slice)'
     expect(html).toContain('aria-label="Sumário"')
     expect(html.indexOf('class="pwc__title"')).toBeLessThan(html.indexOf('class="pwc"'))
     // ... and the contents are NOT a rented vt-doc <ul><li> document list
-    expect(html).not.toMatch(/<li[^>]*>\s*<a [^>]*href="\/louis-lavelle\/introducao-a-ontologia\//)
+    expect(html).not.toMatch(
+      /<li[^>]*>\s*<a [^>]*href="\/pt\/filosofia\/louis-lavelle\/introducao-a-ontologia\//
+    )
   })
 
   test('the rented VPContentDocFooter pager is gone (footer: false)', () => {
@@ -112,9 +114,11 @@ test.describe('pipeline pt work hub (Slice 2N + owned reader-shell proof slice)'
     expect(html).not.toMatch(/name="robots"[^>]*content="noindex"/)
     const urls = [...sitemapUrls()]
     // VitePress emits the dir-index hub with a trailing slash; accept either form
-    expect(urls.some((u) => u.replace(/\/$/, '') === '/louis-lavelle/introducao-a-ontologia')).toBe(
-      true
-    )
+    expect(
+      urls.some(
+        (u) => u.replace(/\/$/, '') === '/pt/filosofia/louis-lavelle/introducao-a-ontologia'
+      )
+    ).toBe(true)
     // deep pt segment routes are dropped from the sitemap by isChapterRoute (discoverable via the hub)
     expect([...urls].some((u) => u.startsWith(NS) && /\/00-|\/99-/.test(u))).toBe(false)
     // reading-review demo surfaces remain out of the sitemap

@@ -57,10 +57,13 @@ test.describe('louis lavelle work grids', () => {
 
   test('first block contains the Portuguese versions', async ({ page }) => {
     const pt = page.locator('.card-grid').nth(0)
-    await expect(pt.locator('.card-grid__item')).toHaveCount(2)
+    // Introdução à ontologia moved to /pt/filosofia/... in A2 and left the legacy louis-lavelle
+    // namespace; the legacy pt grid keeps only the legacy hand-authored translation. (A5 removes
+    // this legacy hub entirely.)
+    await expect(pt.locator('.card-grid__item')).toHaveCount(1)
     await expect(pt.locator('a[href="/louis-lavelle/a-consciencia-de-si"]')).toHaveCount(1)
-    await expect(pt.locator('a[href="/louis-lavelle/introducao-a-ontologia"]')).toHaveCount(1)
-    await expect(pt.locator('.card-grid__meta')).toHaveText(['1933', '1947'])
+    await expect(pt.locator('a[href="/louis-lavelle/introducao-a-ontologia"]')).toHaveCount(0)
+    await expect(pt.locator('.card-grid__meta')).toHaveText(['1933'])
   })
 
   test('second block contains only the 9 French originals', async ({ page }) => {
@@ -87,7 +90,7 @@ test.describe('louis lavelle work grids', () => {
     const hrefs = await page
       .locator('.card-grid a')
       .evaluateAll((els) => els.map((el) => el.getAttribute('href') || ''))
-    expect(hrefs).toHaveLength(11)
+    expect(hrefs).toHaveLength(10)
     for (const href of hrefs) {
       expect(href).toMatch(/^\/louis-lavelle\/[^/]+$/)
     }

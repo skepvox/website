@@ -10,8 +10,10 @@
 
 ## 1. Current live state
 
-- **pt _Introdução à ontologia_ is live** at `/louis-lavelle/introducao-a-ontologia/` — a work **hub**
-  plus **99 segment pages**, each with **real prose**. This is the single canonical reading surface.
+- **pt _Introdução à ontologia_ is live** at `/pt/filosofia/louis-lavelle/introducao-a-ontologia/`
+  (locale-rooted as of slice A2; the old `/louis-lavelle/introducao-a-ontologia/` 404s) — a work **hub**
+  plus **99 segment pages** (leaves are the bare `<segmentPrefix>`), each with **real prose**. This is the
+  single canonical reading surface.
 - The **12 old fr chapter URLs 301-redirect** to the first pt segment of their chapter
   (`src/public/_redirects`, generated).
 - The **fr edition** (12 chapter pages + the single-page full-text hub `/louis-lavelle/introduction-a-l-ontologie`)
@@ -93,7 +95,8 @@ and many books later is far more expensive. The Slice-E readiness gate (an audit
 
 ## 3. Route family + work hub
 
-- 99 pt segment pages are generated at `src/louis-lavelle/introducao-a-ontologia/<routePath-leaf>.md`.
+- 99 pt segment pages are generated at `src/pt/filosofia/louis-lavelle/introducao-a-ontologia/<segmentPrefix>.md`
+  (slice A2: locale-rooted prefix + prefix-only leaf).
 - The work **hub** (`index.md`) is generated from pipeline-export **metadata only** (authored
   Part → Chapter → Segment links into the 99 routes) — **no full-book concatenation**.
 - The pipeline family is kept **out of the legacy hand-authored reading system**: pages carry a

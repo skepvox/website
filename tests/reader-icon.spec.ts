@@ -135,8 +135,8 @@ test.describe('ReaderIcon foundation (Slice C1, boundary + tokens only)', () => 
 // the 3:1 WCAG non-text / UI-component bar. So --sk-icon-stroke-dark STAYS DORMANT (colour-first
 // sufficed; a heavier dark stroke would solve a problem that does not exist). These tests lock that in,
 // plus the a11y / motion / closed-API guarantees, so the reader shell cannot drift the icon language.
-const LEAF = '/louis-lavelle/introducao-a-ontologia/00-01-002-008-paragrafo-7'
-const PT_HUB = '/louis-lavelle/introducao-a-ontologia/'
+const LEAF = '/pt/filosofia/louis-lavelle/introducao-a-ontologia/00-01-002-008'
+const PT_HUB = '/pt/filosofia/louis-lavelle/introducao-a-ontologia/'
 const NAV_ICON = '[data-testid="pseg-nav"] svg.reader-icon'
 const DISC_ICON = 'nav.pwc .pwc__chapter-heading svg.reader-icon'
 

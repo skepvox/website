@@ -14,7 +14,7 @@ import {
 } from './reader-shell'
 
 // Owned prev/next/up navigation for the LIVE public pipeline pt segment leaves
-// (src/louis-lavelle/introducao-a-ontologia/<leaf>.md). Injected via the theme content slots, so the
+// (src/pt/filosofia/louis-lavelle/introducao-a-ontologia/<leaf>.md). Injected via the theme content slots, so the
 // page bodies are untouched. It renders ONLY on pages carrying the generated marker
 // `pipeline-segment-routes` (not by route parsing) and joins pipeline-export-segments.json by
 // (canonicalId, language) — never by routePath (routePath is presentation, used only as the href).

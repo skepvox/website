@@ -17,7 +17,7 @@ import {
 // Slice F2 — the shared reader-shell label + route-helper module: ONE source of truth for the
 // per-language vocabulary + href construction from routePath. Proves pt behavior is unchanged and that
 // the helpers produce correct fr output — WITHOUT shipping any fr page/route.
-const PT_ROUTE = 'louis-lavelle/introducao-a-ontologia/00-01-002-008-paragrafo-7'
+const PT_ROUTE = 'pt/filosofia/louis-lavelle/introducao-a-ontologia/00-01-002-008'
 const FR_ROUTE = 'louis-lavelle/introduction-a-l-ontologie/00-00-000-001-avertissement'
 const READER_SHELL = path.resolve('.vitepress/theme/components/reader-shell.ts')
 const compSrc = (f: string) =>
@@ -56,9 +56,9 @@ test.describe('reader-shell shared labels + route helpers (Slice F2)', () => {
 
   test('route helpers: pt hrefs equal the previous hard-coded HUB exactly (no behavior change)', () => {
     expect(segmentHref(PT_ROUTE)).toBe('/' + PT_ROUTE)
-    expect(workHubHref(PT_ROUTE)).toBe('/louis-lavelle/introducao-a-ontologia/')
+    expect(workHubHref(PT_ROUTE)).toBe('/pt/filosofia/louis-lavelle/introducao-a-ontologia/')
     expect(trechoHref(PT_ROUTE, '00-01-002-008')).toBe(
-      '/louis-lavelle/introducao-a-ontologia/#trecho-00-01-002-008'
+      '/pt/filosofia/louis-lavelle/introducao-a-ontologia/#trecho-00-01-002-008'
     )
   })
 
@@ -77,7 +77,7 @@ test.describe('reader-shell shared labels + route helpers (Slice F2)', () => {
     ]) {
       const src = compSrc(f)
       expect(/const HUB\s*=/.test(src)).toBe(false) // no local hub hard-code
-      expect(src.includes("'/louis-lavelle/introducao-a-ontologia/'")).toBe(false) // no pt hub literal
+      expect(src.includes("'/pt/filosofia/louis-lavelle/introducao-a-ontologia/'")).toBe(false) // no pt hub literal
       expect(/(NAV|OPENING|LOC|EDITION)_(LABEL|WORD)\s*:/.test(src)).toBe(false) // no local label maps
       expect(src.includes("from './reader-shell'")).toBe(true) // reads from the shared module
     }

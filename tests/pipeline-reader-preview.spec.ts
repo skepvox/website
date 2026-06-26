@@ -90,7 +90,7 @@ test.describe('pipeline-export reader prototype (Slice 2G, buffer/noindex, no ro
     ).toBe(false)
     const urls = [...sitemapUrls()]
     // the pt hub is intentionally in the sitemap; only deep per-segment routes are pruned
-    expect(urls.some((u) => /\/00-\d\d-\d\d\d-\d\d\d-/.test(u))).toBe(false)
+    expect(urls.some((u) => /\/00-\d\d-\d\d\d-\d\d\d(-|\/|$)/.test(u))).toBe(false)
   })
 
   test('the existing 12 live fr chapter routes (and the hub) still resolve', () => {

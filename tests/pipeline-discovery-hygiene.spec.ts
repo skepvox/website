@@ -4,7 +4,7 @@ import path from 'node:path'
 import { execFileSync } from 'node:child_process'
 
 // Slice 2P — post-go-live discovery hygiene: ONE canonical reading surface
-// (/louis-lavelle/introducao-a-ontologia/). The 12 old fr chapter pages stay built only as 301
+// (/pt/filosofia/louis-lavelle/introducao-a-ontologia/). The 12 old fr chapter pages stay built only as 301
 // redirect sources and must not reappear through local search, LLM output, the sitemap, or the
 // canonical pt navigation. reading-review/** stays fully excluded.
 const DIST = path.resolve('.vitepress/dist')
@@ -53,11 +53,11 @@ test.describe('post-go-live discovery hygiene (Slice 2P, one canonical pt readin
     for (const [oldPath, target, code] of lines) {
       expect(code).toBe('301')
       expect(oldPath.startsWith('/louis-lavelle/introduction-a-l-ontologie/')).toBe(true)
-      expect(target.startsWith('/louis-lavelle/introducao-a-ontologia/')).toBe(true)
+      expect(target.startsWith('/pt/filosofia/louis-lavelle/introducao-a-ontologia/')).toBe(true)
       expect(builtExists(target), `${target} built`).toBe(true)
       const leaf = target.split('/').pop()
       const src = fs.readFileSync(
-        path.resolve('src/louis-lavelle/introducao-a-ontologia', `${leaf}.md`),
+        path.resolve('src/pt/filosofia/louis-lavelle/introducao-a-ontologia', `${leaf}.md`),
         'utf-8'
       )
       expect(pageBody(src).length, `${leaf} prose`).toBeGreaterThan(200)
@@ -90,11 +90,11 @@ test.describe('post-go-live discovery hygiene (Slice 2P, one canonical pt readin
   test('the canonical pt surfaces never link back to old fr chapter pages', () => {
     // the pt hub and a pt segment page (with PipelineSegmentNav) carry no href to an fr chapter route
     const hub = fs.readFileSync(
-      path.join(DIST, 'louis-lavelle/introducao-a-ontologia/index.html'),
+      path.join(DIST, 'pt/filosofia/louis-lavelle/introducao-a-ontologia/index.html'),
       'utf-8'
     )
     const seg = fs.readFileSync(
-      path.join(DIST, 'louis-lavelle/introducao-a-ontologia/00-01-002-008-paragrafo-7.html'),
+      path.join(DIST, 'pt/filosofia/louis-lavelle/introducao-a-ontologia/00-01-002-008.html'),
       'utf-8'
     )
     for (const html of [hub, seg]) {
@@ -105,7 +105,7 @@ test.describe('post-go-live discovery hygiene (Slice 2P, one canonical pt readin
   test('the pt hub + segments are the discoverable, indexable reading surface', () => {
     // pt hub indexable + in the sitemap
     const hub = fs.readFileSync(
-      path.join(DIST, 'louis-lavelle/introducao-a-ontologia/index.html'),
+      path.join(DIST, 'pt/filosofia/louis-lavelle/introducao-a-ontologia/index.html'),
       'utf-8'
     )
     expect(hub).not.toMatch(/name="robots"[^>]*content="noindex"/)
@@ -115,7 +115,7 @@ test.describe('post-go-live discovery hygiene (Slice 2P, one canonical pt readin
     expect(pt.length).toBe(99)
     for (const s of pt) expect(builtExists(`/${s.routePath}`)).toBe(true)
     const seg = fs.readFileSync(
-      path.join(DIST, 'louis-lavelle/introducao-a-ontologia/00-01-002-008-paragrafo-7.html'),
+      path.join(DIST, 'pt/filosofia/louis-lavelle/introducao-a-ontologia/00-01-002-008.html'),
       'utf-8'
     )
     expect(seg).not.toMatch(/name="robots"[^>]*content="noindex"/)
@@ -142,7 +142,7 @@ test.describe('post-go-live discovery hygiene (Slice 2P, one canonical pt readin
   test('routePath stays presentation, canonicalId stays identity; generated pages idempotent', () => {
     // the pt pages carry the canonicalId join key; routePath is only the public URL/filename
     const seg = fs.readFileSync(
-      path.resolve('src/louis-lavelle/introducao-a-ontologia/00-01-002-008-paragrafo-7.md'),
+      path.resolve('src/pt/filosofia/louis-lavelle/introducao-a-ontologia/00-01-002-008.md'),
       'utf-8'
     )
     expect(seg).toContain(

@@ -165,12 +165,18 @@ function routeFromRelativePath(relativePath: string): string {
 // rather than hundreds of chapter pages. Work pages themselves (one level up)
 // stay in the sitemap. URLs here are already normalised (extensionless, hubs end
 // in "/").
-//   /literatura/<author>/<work>/<chapter>  -> dropped
-//   /louis-lavelle/<work>/<chapter>        -> dropped
+//   /literatura/<author>/<work>/<chapter>             -> dropped
+//   /louis-lavelle/<work>/<chapter>                   -> dropped
+//   /pt/filosofia/<author>/<work>/<segment>           -> dropped (locale-rooted pipeline leaves, A2)
 function isChapterRoute(url: string): boolean {
   const segments = url.replace(/^\/+|\/+$/g, '').split('/').filter(Boolean)
   if (segments[0] === 'literatura' && segments.length >= 4) return true
   if (segments[0] === 'louis-lavelle' && segments.length >= 3) return true
+  // Locale-rooted pipeline reader leaves (slice A2): the work hub is depth 4
+  // (/pt/filosofia/louis-lavelle/introducao-a-ontologia/) and stays; its segment
+  // leaves are depth 5 and are pruned. A3 generalises this to a metadata-aware
+  // (urlStability / pipeline-segment marker) gate that needs no per-section path rule.
+  if (segments[0] === 'pt' && segments[1] === 'filosofia' && segments.length >= 5) return true
   return false
 }
 

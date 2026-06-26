@@ -78,7 +78,7 @@ test.describe('pipeline-export review consumer (Slice 2C/2D, buffer/noindex, no 
     expect(segs.filter((s: any) => s.language === 'fr').length).toBe(99)
     expect(segs.filter((s: any) => s.language === 'pt').length).toBe(99)
     // the minted pt family is now built at its PUBLIC namespace...
-    expect(builtExists('/louis-lavelle/introducao-a-ontologia/00-01-002-008-paragrafo-7')).toBe(
+    expect(builtExists('/pt/filosofia/louis-lavelle/introducao-a-ontologia/00-01-002-008')).toBe(
       true
     )
     // ...and the earlier HIDDEN duplicate under reading-review/ is gone (no duplicate route family)
@@ -119,9 +119,9 @@ test.describe('pipeline-export review consumer (Slice 2C/2D, buffer/noindex, no 
 
   test('no draft pipeline routePath leaks into the sitemap', () => {
     const urls = [...sitemapUrls()]
-    // the pt hub (/louis-lavelle/introducao-a-ontologia/) is intentionally in the sitemap; only the
+    // the pt hub (/pt/filosofia/louis-lavelle/introducao-a-ontologia/) is intentionally in the sitemap; only the
     // deep per-segment routes (4-group prefixes) must be pruned
-    expect(urls.some((u) => /\/00-\d\d-\d\d\d-\d\d\d-/.test(u))).toBe(false)
+    expect(urls.some((u) => /\/00-\d\d-\d\d\d-\d\d\d(-|\/|$)/.test(u))).toBe(false)
   })
 
   test('segment-manifest consumers and the WorkContentsMount allowlist are unchanged', () => {

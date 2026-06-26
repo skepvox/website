@@ -31,7 +31,8 @@ test.describe('sitemap de-emphasis', () => {
       '/literatura/machado-de-assis/o-alienista', // single-file work (depth edge case)
       '/literatura/raul-pompeia/o-ateneu', // single-file work
       '/louis-lavelle/',
-      '/louis-lavelle/de-l-etre' // lavelle work
+      '/louis-lavelle/de-l-etre', // lavelle work
+      '/pt/filosofia/louis-lavelle/introducao-a-ontologia/' // locale-rooted pipeline work hub (A2)
     ]) {
       expect(urls, `${u} should be in the sitemap`).toContain(u)
     }
@@ -42,6 +43,7 @@ test.describe('sitemap de-emphasis', () => {
     for (const u of [
       '/literatura/machado-de-assis/dom-casmurro/00-01-001-do-titulo', // chapter under a multi-chapter work
       '/louis-lavelle/de-l-etre/00-00-001-de-la-primaute-de-l-etre', // chapter under a kept lavelle work
+      '/pt/filosofia/louis-lavelle/introducao-a-ontologia/00-01-002-008', // locale-rooted pipeline leaf (A2)
       '/404'
     ]) {
       expect(urls, `${u} should NOT be in the sitemap`).not.toContain(u)

@@ -6,7 +6,7 @@ import path from 'node:path'
 // semantic breadcrumb (<nav aria-label> > <ol role=list>) rendered as a calm bookish location line:
 // Sumário (link) · Part (text) · Chapter (real <h2>, link → hub#trecho) · current Segment (real <h3>,
 // aria-current). Static, no sticky/scroll, no icon separator, no data change.
-const HUB = '/louis-lavelle/introducao-a-ontologia/'
+const HUB = '/pt/filosofia/louis-lavelle/introducao-a-ontologia/'
 const COMP = path.resolve('.vitepress/theme/components/PipelineReaderHeader.vue')
 const data = JSON.parse(
   fs.readFileSync(path.resolve('.vitepress/theme/data/pipeline-export-segments.json'), 'utf-8')

@@ -64,7 +64,7 @@ export const editionLine = (author: string, lang?: string): string => {
 export const segmentHref = (routePath: string) => `/${routePath}`
 
 // Work-hub href: drop the leaf from the routePath, keep the trailing slash. Work-/edition-agnostic, e.g.
-//   'louis-lavelle/introducao-a-ontologia/00-01-002-008-paragrafo-7' → '/louis-lavelle/introducao-a-ontologia/'
+//   'pt/filosofia/louis-lavelle/introducao-a-ontologia/00-01-002-008' → '/pt/filosofia/louis-lavelle/introducao-a-ontologia/'
 //   'louis-lavelle/introduction-a-l-ontologie/00-00-000-001-avertissement' → '/louis-lavelle/introduction-a-l-ontologie/'
 export const workHubHref = (routePath: string) => `/${routePath.split('/').slice(0, -1).join('/')}/`
 

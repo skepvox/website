@@ -5,7 +5,7 @@ import path from 'node:path'
 // Owned reader-shell proof slice — live interaction for the PipelineWorkContents map on the pt work
 // hub. Runs on the desktop + mobile projects (the tablet project only runs tablet-shell), so the
 // collapse/persistence/dark behaviour is exercised at both widths.
-const HUB = '/louis-lavelle/introducao-a-ontologia/'
+const HUB = '/pt/filosofia/louis-lavelle/introducao-a-ontologia/'
 const STORAGE_KEY = 'skepvox:pwc:louis-lavelle/introduction-a-l-ontologie:pt'
 
 test.describe('PipelineWorkContents (owned pt work-hub contents map)', () => {
@@ -103,7 +103,7 @@ test.describe('PipelineWorkContents (owned pt work-hub contents map)', () => {
     await expect(current).toBeVisible() // visible => its chapter was opened (v-show)
     await expect(current).toHaveAttribute(
       'href',
-      '/louis-lavelle/introducao-a-ontologia/00-01-002-008-paragrafo-7'
+      '/pt/filosofia/louis-lavelle/introducao-a-ontologia/00-01-002-008'
     )
   })
 
@@ -125,7 +125,7 @@ test.describe('PipelineWorkContents (owned pt work-hub contents map)', () => {
   test('clicking a leaf "up" link returns to the hub and highlights the trecho', async ({
     page
   }) => {
-    await page.goto('/louis-lavelle/introducao-a-ontologia/00-01-002-008-paragrafo-7')
+    await page.goto('/pt/filosofia/louis-lavelle/introducao-a-ontologia/00-01-002-008')
     await page.locator('[data-testid="pseg-up"]').click()
     await expect(page).toHaveURL(/#trecho-00-01-002-008$/)
     const current = page.locator('nav.pwc a.pwc__link.is-current')
@@ -322,7 +322,7 @@ test.describe('PipelineWorkContents — Slice E readiness gate', () => {
     // the loose front-matter link (Advertência) sits under the Abertura group, still its own pt leaf route
     const adv = page.locator('.pwc__opening a.pwc__link--loose')
     await expect(adv).toHaveText('Advertência')
-    await expect(adv).toHaveAttribute('href', /00-00-000-001-advertencia$/)
+    await expect(adv).toHaveAttribute('href', /00-00-000-001$/) // prefix-only leaf (A2); label stays the displayTitle
     // subordinate to authored Part dividers: the Abertura label has NO trailing hairline; Parts do
     const hairline = (sel: string) =>
       page
@@ -367,7 +367,7 @@ test.describe('PipelineWorkContents — Slice E readiness gate', () => {
       expect(keys.has(p)).toBe(false)
     const leaf = fs.readFileSync(
       path.resolve(
-        '.vitepress/dist/louis-lavelle/introducao-a-ontologia/00-01-002-008-paragrafo-7.html'
+        '.vitepress/dist/pt/filosofia/louis-lavelle/introducao-a-ontologia/00-01-002-008.html'
       ),
       'utf-8'
     )
@@ -379,7 +379,7 @@ test.describe('PipelineWorkContents — Slice E readiness gate', () => {
   test('no docs artifacts on the leaf (rented pager / sidebar / aside / edit-link)', () => {
     const leaf = fs.readFileSync(
       path.resolve(
-        '.vitepress/dist/louis-lavelle/introducao-a-ontologia/00-01-002-008-paragrafo-7.html'
+        '.vitepress/dist/pt/filosofia/louis-lavelle/introducao-a-ontologia/00-01-002-008.html'
       ),
       'utf-8'
     )

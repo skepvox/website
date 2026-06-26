@@ -29,7 +29,7 @@ const ROUTES = [
   'literatura/raul-pompeia/o-ateneu', // work hub (outline: [2, 3])
   'louis-lavelle', // Lavelle hub
   'louis-lavelle/de-l-etre', // Lavelle work hub
-  'louis-lavelle/introducao-a-ontologia' // pipeline pt work hub — used to page into "De l'être"
+  'pt/filosofia/louis-lavelle/introducao-a-ontologia' // pipeline pt work hub — used to page into "De l'être"
 ]
 
 test.describe('doc pager retired on non-leaf routes (footer:false)', () => {

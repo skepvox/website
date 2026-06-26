@@ -6,19 +6,19 @@ import { spawnSync } from 'node:child_process'
 
 // Slice 2J/2L/2M — the real pt segment route family at its PUBLIC namespace, with REAL prose.
 // docs/introduction-a-ontologia-live-migration-plan.md §4. The pipeline minted the pt edition; the 99
-// pt pages are generated under src/louis-lavelle/introducao-a-ontologia/<routePath-leaf>.md with their
+// pt pages are generated under src/pt/filosofia/louis-lavelle/introducao-a-ontologia/<routePath-leaf>.md with their
 // REAL prose inlined as static Markdown (joined by segmentPrefix/language, never routePath). No
 // indexable public page may be thin / review-only / missing prose. Redirects are NOT enabled yet.
 const DIST = path.resolve('.vitepress/dist')
 const META = path.resolve('.vitepress/theme/data/pipeline-export-segments.json')
-const PUBLIC_DIR = path.resolve('src/louis-lavelle/introducao-a-ontologia')
+const PUBLIC_DIR = path.resolve('src/pt/filosofia/louis-lavelle/introducao-a-ontologia')
 const GEN = path.resolve('scripts/build-pipeline-segment-routes.py')
 const REDIRECTS = path.resolve('src/public/_redirects')
 
 const read = (p: string) => JSON.parse(fs.readFileSync(p, 'utf-8'))
 const ptSegments = () => read(META).segments.filter((s: any) => s.language === 'pt')
 const publicRoute = (s: any) =>
-  `/louis-lavelle/introducao-a-ontologia/${s.routePath.split('/').pop()}`
+  `/pt/filosofia/louis-lavelle/introducao-a-ontologia/${s.routePath.split('/').pop()}`
 const pageBody = (text: string) => text.replace(/^---[\s\S]*?\n---\n/, '').trim()
 
 function builtExists(href: string): boolean {
@@ -54,7 +54,7 @@ test.describe('pipeline pt segment route family (Slice 2M, public + real prose, 
 
   test('the built public pages contain the real prose body, not a notice', () => {
     const html = fs.readFileSync(
-      path.join(DIST, 'louis-lavelle/introducao-a-ontologia/00-01-002-008-paragrafo-7.html'),
+      path.join(DIST, 'pt/filosofia/louis-lavelle/introducao-a-ontologia/00-01-002-008.html'),
       'utf-8'
     )
     expect(html).toContain('na simples enunciação da palavra ser')
@@ -114,7 +114,7 @@ test.describe('pipeline pt segment route family (Slice 2M, public + real prose, 
   })
 
   test('a public page renders its real prose with no review wording', async ({ page }) => {
-    await page.goto('/louis-lavelle/introducao-a-ontologia/00-01-002-008-paragrafo-7')
+    await page.goto('/pt/filosofia/louis-lavelle/introducao-a-ontologia/00-01-002-008')
     await expect(
       page.getByText('na simples enunciação da palavra ser', { exact: false })
     ).toBeVisible()

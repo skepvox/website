@@ -29,7 +29,7 @@
       "maturity": "draft",
       "order": 6,
       "publishable": false,
-      "routePath": "louis-lavelle/introducao-a-ontologia/00-01-001-006-paragrafo-5",
+      "routePath": "pt/filosofia/louis-lavelle/introducao-a-ontologia/00-01-001-006",
       "segmentPrefix": "00-01-001-006",
       "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
@@ -60,7 +60,7 @@
       "maturity": "draft",
       "order": 7,
       "publishable": false,
-      "routePath": "louis-lavelle/introducao-a-ontologia/00-01-001-007-paragrafo-6",
+      "routePath": "pt/filosofia/louis-lavelle/introducao-a-ontologia/00-01-001-007",
       "segmentPrefix": "00-01-001-007",
       "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
@@ -91,7 +91,7 @@
       "maturity": "draft",
       "order": 8,
       "publishable": false,
-      "routePath": "louis-lavelle/introducao-a-ontologia/00-01-002-008-paragrafo-7",
+      "routePath": "pt/filosofia/louis-lavelle/introducao-a-ontologia/00-01-002-008",
       "segmentPrefix": "00-01-002-008",
       "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
@@ -122,7 +122,7 @@
       "maturity": "draft",
       "order": 9,
       "publishable": false,
-      "routePath": "louis-lavelle/introducao-a-ontologia/00-01-002-009-paragrafo-8",
+      "routePath": "pt/filosofia/louis-lavelle/introducao-a-ontologia/00-01-002-009",
       "segmentPrefix": "00-01-002-009",
       "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
@@ -153,7 +153,7 @@
       "maturity": "draft",
       "order": 10,
       "publishable": false,
-      "routePath": "louis-lavelle/introducao-a-ontologia/00-01-002-010-paragrafo-9",
+      "routePath": "pt/filosofia/louis-lavelle/introducao-a-ontologia/00-01-002-010",
       "segmentPrefix": "00-01-002-010",
       "urlStability": "stable",
       "workId": "louis-lavelle/introduction-a-l-ontologie"

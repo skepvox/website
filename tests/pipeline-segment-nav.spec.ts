@@ -11,7 +11,7 @@ const DIST = path.resolve('.vitepress/dist')
 const META = path.resolve('.vitepress/theme/data/pipeline-export-segments.json')
 const GEN = path.resolve('scripts/build-pipeline-segment-routes.py')
 const COMP = path.resolve('.vitepress/theme/components/PipelineSegmentNav.vue')
-const HUB = '/louis-lavelle/introducao-a-ontologia/'
+const HUB = '/pt/filosofia/louis-lavelle/introducao-a-ontologia/'
 
 const read = (p: string) => JSON.parse(fs.readFileSync(p, 'utf-8'))
 const ptByOrder = () =>
@@ -104,7 +104,7 @@ test.describe('pipeline pt segment nav (Slice 2O, owned prev/next/up, pipeline-s
       expect(href!.includes('introduction-a-l-ontologie')).toBe(false) // no fr / old chapter route
       expect(href!.includes('reading-review')).toBe(false)
       expect(
-        noHash === HUB || noHash.startsWith('/louis-lavelle/introducao-a-ontologia/'),
+        noHash === HUB || noHash.startsWith('/pt/filosofia/louis-lavelle/introducao-a-ontologia/'),
         `${href} is pt namespace`
       ).toBe(true)
     }
@@ -112,7 +112,7 @@ test.describe('pipeline pt segment nav (Slice 2O, owned prev/next/up, pipeline-s
 
   test('Slice C2: nav renders owned ReaderIcon chevrons + exact labels; no ‹ › ↑ glyphs (built HTML)', () => {
     const html = fs.readFileSync(
-      path.join(DIST, 'louis-lavelle/introducao-a-ontologia/00-01-002-008-paragrafo-7.html'),
+      path.join(DIST, 'pt/filosofia/louis-lavelle/introducao-a-ontologia/00-01-002-008.html'),
       'utf-8'
     )
     const start = html.indexOf('data-testid="pseg-nav"')
@@ -178,7 +178,7 @@ test.describe('pipeline pt segment nav (Slice 2O, owned prev/next/up, pipeline-s
     // ...and still returns to the hub with the #trecho-<current> hash (behaviour unchanged)
     await expect(nav.locator('[data-testid="pseg-up"]')).toHaveAttribute(
       'href',
-      '/louis-lavelle/introducao-a-ontologia/#trecho-00-01-002-008'
+      '/pt/filosofia/louis-lavelle/introducao-a-ontologia/#trecho-00-01-002-008'
     )
   })
 
@@ -186,7 +186,7 @@ test.describe('pipeline pt segment nav (Slice 2O, owned prev/next/up, pipeline-s
     for (const route of [
       '/louis-lavelle/introduction-a-l-ontologie/00-01-002-etre', // old fr chapter (preview serves it)
       '/reading-review/introduction-a-l-ontologie-reader', // reading-review demo
-      '/louis-lavelle/introducao-a-ontologia/', // the pt hub (pipeline-work-hub marker, not -routes)
+      '/pt/filosofia/louis-lavelle/introducao-a-ontologia/', // the pt hub (pipeline-work-hub marker, not -routes)
       '/podcast/', // podcast
       '/' // home
     ]) {
@@ -210,7 +210,7 @@ test.describe('pipeline pt segment nav (Slice 2O, owned prev/next/up, pipeline-s
     const out = execFileSync('python3', [GEN], { encoding: 'utf-8' })
     expect(out).toContain('No segment-routes changes.')
     const raw = fs.readFileSync(
-      path.resolve('src/louis-lavelle/introducao-a-ontologia/00-01-002-008-paragrafo-7.md'),
+      path.resolve('src/pt/filosofia/louis-lavelle/introducao-a-ontologia/00-01-002-008.md'),
       'utf-8'
     )
     const fm = raw.match(/^---\n([\s\S]*?)\n---\n/)![1]
@@ -274,9 +274,12 @@ test.describe('pipeline pt segment nav (Slice 2O, owned prev/next/up, pipeline-s
 
   test('performance boundary: each leaf carries only its own prose (no all-99 prose bundle)', () => {
     const html = (leaf: string) =>
-      fs.readFileSync(path.join(DIST, `louis-lavelle/introducao-a-ontologia/${leaf}.html`), 'utf-8')
-    const adv = html('00-00-000-001-advertencia')
-    const p7 = html('00-01-002-008-paragrafo-7')
+      fs.readFileSync(
+        path.join(DIST, `pt/filosofia/louis-lavelle/introducao-a-ontologia/${leaf}.html`),
+        'utf-8'
+      )
+    const adv = html('00-00-000-001') // prefix-only leaf (A2)
+    const p7 = html('00-01-002-008')
     const advPhrase = 'duas conferências proferidas' // distinctive to Advertência
     const p7Phrase = 'na simples enunciação da palavra ser' // distinctive to Parágrafo 7
     // each leaf has ITS OWN prose ...

@@ -484,6 +484,20 @@ The detailed comparison (locale-rooted vs language-mixed) is in `filosofia-ia-pi
   **and** `LEAF_POLICY` → `prefix-only`; regenerate the hub + 99 leaves under `src/pt/filosofia/…`
   (leaves become `<segmentPrefix>.md`); delete the old `src/louis-lavelle/introducao-a-ontologia/` tree;
   update test constants.
+  **Status: implemented** on `develop`. The pilot reader now lives at
+  `/pt/filosofia/louis-lavelle/introducao-a-ontologia/<segmentPrefix>`; the old
+  `/louis-lavelle/introducao-a-ontologia/…` URLs 404 (clean break — redirect disable/removal is A4, so the
+  generated `_redirects` still exists with its targets re-pointed to the new live routes). Only the moved
+  pipeline work changed: identity (`canonicalId`/`segmentPrefix`/`workId`/`language`/`editionRole`), the fr
+  source edition, literatura, and podcast are untouched, and no fr pages are generated. **Build-integrity
+  consequence:** the relocated book left the legacy `louis-lavelle` discovery surfaces — its stale entry was
+  pruned from `src/louis-lavelle/works.json`, so the `/louis-lavelle/` hub CardGrid + `build-sidebar-nav.py`
+  output no longer 404 into the moved tree. (The legacy hub's hand-authored JSON-LD in `index.md` still lists
+  the moved book at its old 404 URL; that non-visible structured data is cleaned with the rest of the legacy
+  hub in A5 — it is not visible content, not build/test-checked, and the page is an A5-removal target.) A
+  **minimal** locale-rooted `isChapterRoute` rule keeps the new leaves crawlable-but-pruned (hub kept); the
+  metadata-aware generalization is A3. **Not done here (A3):** the `/pt/filosofia/` section + author hubs and
+  the locale-rooted nav/sidebar entry.
 - **A3 / IA-3** — Create `/pt/filosofia/` + `/pt/filosofia/louis-lavelle/` hubs + `philosophyAuthorCards`;
   nav/sidebar; generalize `isChapterRoute` (metadata-aware); LLM unchanged; hub/section tests.
 - **A4 / IA-4** — Disable the fr→pt redirects (`STATUS="disabled"`), delete the redirect-map JSON +

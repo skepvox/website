@@ -12,7 +12,7 @@ const DIST = path.resolve('.vitepress/dist')
 const META = path.resolve('.vitepress/theme/data/pipeline-export-segments.json')
 const GATE = path.resolve('scripts/pipeline_gate.py')
 const GEN_SCRIPT = path.resolve('scripts/build-pipeline-segment-routes.py')
-const GEN_DIR = path.resolve('src/louis-lavelle/introducao-a-ontologia')
+const GEN_DIR = path.resolve('src/pt/filosofia/louis-lavelle/introducao-a-ontologia')
 const REDIRECTS = path.resolve('src/public/_redirects')
 const ORIGIN = 'https://www.skepvox.com'
 
@@ -86,7 +86,7 @@ test.describe('pipeline publication gate (Slice 2K/2L, stability-aware; pt minte
   test('public pt pages are indexable (no noindex, in LLM); reading-review/** stays noindex/excluded', () => {
     // a built public pt page carries NO robots-noindex
     const pub = fs.readFileSync(
-      path.join(DIST, 'louis-lavelle/introducao-a-ontologia/00-01-002-008-paragrafo-7.html'),
+      path.join(DIST, 'pt/filosofia/louis-lavelle/introducao-a-ontologia/00-01-002-008.html'),
       'utf-8'
     )
     expect(pub).not.toMatch(/name="robots"[^>]*content="noindex"/)

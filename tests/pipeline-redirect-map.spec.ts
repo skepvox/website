@@ -74,7 +74,9 @@ test.describe('pipeline-export redirect map (Slice 2N, ENABLED, fr chapter -> pt
     for (const r of fromFile) {
       expect(r.code).toBe('301')
       expect(r.oldPath.startsWith('/louis-lavelle/introduction-a-l-ontologie/')).toBe(true)
-      expect(r.targetPath.startsWith('/louis-lavelle/introducao-a-ontologia/')).toBe(true)
+      expect(r.targetPath.startsWith('/pt/filosofia/louis-lavelle/introducao-a-ontologia/')).toBe(
+        true
+      )
     }
   })
 
@@ -97,7 +99,7 @@ test.describe('pipeline-export redirect map (Slice 2N, ENABLED, fr chapter -> pt
       // ...with real prose (not thin / not a notice)
       const leaf = e.targetPath.split('/').pop()
       const src = fs.readFileSync(
-        path.resolve('src/louis-lavelle/introducao-a-ontologia', `${leaf}.md`),
+        path.resolve('src/pt/filosofia/louis-lavelle/introducao-a-ontologia', `${leaf}.md`),
         'utf-8'
       )
       expect(pageBody(src).length, `${leaf} prose`).toBeGreaterThan(200)
