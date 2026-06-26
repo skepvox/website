@@ -6174,14 +6174,14 @@
       "displayTitle": "Dedicatória",
       "groupPath": [],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 1,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-000-001",
       "segmentPrefix": "00-00-000-001",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -6189,14 +6189,14 @@
       "displayTitle": "Prólogo",
       "groupPath": [],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 2,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-000-002",
       "segmentPrefix": "00-00-000-002",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -6204,14 +6204,14 @@
       "displayTitle": "Ao leitor",
       "groupPath": [],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 3,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-000-003",
       "segmentPrefix": "00-00-000-003",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -6228,14 +6228,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 4,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-001-004",
       "segmentPrefix": "00-00-001-004",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -6252,14 +6252,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 5,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-002-005",
       "segmentPrefix": "00-00-002-005",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -6276,14 +6276,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 6,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-003-006",
       "segmentPrefix": "00-00-003-006",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -6300,14 +6300,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 7,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-004-007",
       "segmentPrefix": "00-00-004-007",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -6324,14 +6324,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 8,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-005-008",
       "segmentPrefix": "00-00-005-008",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -6348,14 +6348,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 9,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-006-009",
       "segmentPrefix": "00-00-006-009",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -6372,14 +6372,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 10,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-007-010",
       "segmentPrefix": "00-00-007-010",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -6396,14 +6396,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 11,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-008-011",
       "segmentPrefix": "00-00-008-011",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -6420,14 +6420,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 12,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-009-012",
       "segmentPrefix": "00-00-009-012",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -6444,14 +6444,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 13,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-010-013",
       "segmentPrefix": "00-00-010-013",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -6468,14 +6468,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 14,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-011-014",
       "segmentPrefix": "00-00-011-014",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -6492,14 +6492,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 15,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-012-015",
       "segmentPrefix": "00-00-012-015",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -6516,14 +6516,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 16,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-013-016",
       "segmentPrefix": "00-00-013-016",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -6540,14 +6540,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 17,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-014-017",
       "segmentPrefix": "00-00-014-017",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -6564,14 +6564,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 18,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-015-018",
       "segmentPrefix": "00-00-015-018",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -6588,14 +6588,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 19,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-016-019",
       "segmentPrefix": "00-00-016-019",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -6612,14 +6612,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 20,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-017-020",
       "segmentPrefix": "00-00-017-020",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -6636,14 +6636,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 21,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-018-021",
       "segmentPrefix": "00-00-018-021",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -6660,14 +6660,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 22,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-019-022",
       "segmentPrefix": "00-00-019-022",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -6684,14 +6684,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 23,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-020-023",
       "segmentPrefix": "00-00-020-023",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -6708,14 +6708,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 24,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-021-024",
       "segmentPrefix": "00-00-021-024",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -6732,14 +6732,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 25,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-022-025",
       "segmentPrefix": "00-00-022-025",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -6756,14 +6756,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 26,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-023-026",
       "segmentPrefix": "00-00-023-026",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -6780,14 +6780,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 27,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-024-027",
       "segmentPrefix": "00-00-024-027",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -6804,14 +6804,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 28,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-025-028",
       "segmentPrefix": "00-00-025-028",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -6828,14 +6828,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 29,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-026-029",
       "segmentPrefix": "00-00-026-029",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -6852,14 +6852,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 30,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-027-030",
       "segmentPrefix": "00-00-027-030",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -6876,14 +6876,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 31,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-028-031",
       "segmentPrefix": "00-00-028-031",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -6900,14 +6900,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 32,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-029-032",
       "segmentPrefix": "00-00-029-032",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -6924,14 +6924,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 33,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-030-033",
       "segmentPrefix": "00-00-030-033",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -6948,14 +6948,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 34,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-031-034",
       "segmentPrefix": "00-00-031-034",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -6972,14 +6972,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 35,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-032-035",
       "segmentPrefix": "00-00-032-035",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -6996,14 +6996,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 36,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-033-036",
       "segmentPrefix": "00-00-033-036",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7020,14 +7020,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 37,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-034-037",
       "segmentPrefix": "00-00-034-037",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7044,14 +7044,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 38,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-035-038",
       "segmentPrefix": "00-00-035-038",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7068,14 +7068,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 39,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-036-039",
       "segmentPrefix": "00-00-036-039",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7092,14 +7092,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 40,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-037-040",
       "segmentPrefix": "00-00-037-040",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7116,14 +7116,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 41,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-038-041",
       "segmentPrefix": "00-00-038-041",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7140,14 +7140,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 42,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-039-042",
       "segmentPrefix": "00-00-039-042",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7164,14 +7164,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 43,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-040-043",
       "segmentPrefix": "00-00-040-043",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7188,14 +7188,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 44,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-041-044",
       "segmentPrefix": "00-00-041-044",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7212,14 +7212,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 45,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-042-045",
       "segmentPrefix": "00-00-042-045",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7236,14 +7236,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 46,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-043-046",
       "segmentPrefix": "00-00-043-046",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7260,14 +7260,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 47,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-044-047",
       "segmentPrefix": "00-00-044-047",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7284,14 +7284,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 48,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-045-048",
       "segmentPrefix": "00-00-045-048",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7308,14 +7308,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 49,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-046-049",
       "segmentPrefix": "00-00-046-049",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7332,14 +7332,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 50,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-047-050",
       "segmentPrefix": "00-00-047-050",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7356,14 +7356,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 51,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-048-051",
       "segmentPrefix": "00-00-048-051",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7380,14 +7380,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 52,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-049-052",
       "segmentPrefix": "00-00-049-052",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7404,14 +7404,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 53,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-050-053",
       "segmentPrefix": "00-00-050-053",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7428,14 +7428,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 54,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-051-054",
       "segmentPrefix": "00-00-051-054",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7452,14 +7452,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 55,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-052-055",
       "segmentPrefix": "00-00-052-055",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7476,14 +7476,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 56,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-053-056",
       "segmentPrefix": "00-00-053-056",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7500,14 +7500,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 57,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-054-057",
       "segmentPrefix": "00-00-054-057",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7524,14 +7524,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 58,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-055-058",
       "segmentPrefix": "00-00-055-058",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7548,14 +7548,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 59,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-056-059",
       "segmentPrefix": "00-00-056-059",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7572,14 +7572,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 60,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-057-060",
       "segmentPrefix": "00-00-057-060",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7596,14 +7596,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 61,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-058-061",
       "segmentPrefix": "00-00-058-061",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7620,14 +7620,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 62,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-059-062",
       "segmentPrefix": "00-00-059-062",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7644,14 +7644,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 63,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-060-063",
       "segmentPrefix": "00-00-060-063",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7668,14 +7668,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 64,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-061-064",
       "segmentPrefix": "00-00-061-064",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7692,14 +7692,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 65,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-062-065",
       "segmentPrefix": "00-00-062-065",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7716,14 +7716,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 66,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-063-066",
       "segmentPrefix": "00-00-063-066",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7740,14 +7740,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 67,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-064-067",
       "segmentPrefix": "00-00-064-067",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7764,14 +7764,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 68,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-065-068",
       "segmentPrefix": "00-00-065-068",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7788,14 +7788,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 69,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-066-069",
       "segmentPrefix": "00-00-066-069",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7812,14 +7812,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 70,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-067-070",
       "segmentPrefix": "00-00-067-070",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7836,14 +7836,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 71,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-068-071",
       "segmentPrefix": "00-00-068-071",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7860,14 +7860,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 72,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-069-072",
       "segmentPrefix": "00-00-069-072",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7884,14 +7884,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 73,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-070-073",
       "segmentPrefix": "00-00-070-073",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7908,14 +7908,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 74,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-071-074",
       "segmentPrefix": "00-00-071-074",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7932,14 +7932,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 75,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-072-075",
       "segmentPrefix": "00-00-072-075",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7956,14 +7956,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 76,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-073-076",
       "segmentPrefix": "00-00-073-076",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -7980,14 +7980,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 77,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-074-077",
       "segmentPrefix": "00-00-074-077",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8004,14 +8004,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 78,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-075-078",
       "segmentPrefix": "00-00-075-078",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8028,14 +8028,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 79,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-076-079",
       "segmentPrefix": "00-00-076-079",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8052,14 +8052,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 80,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-077-080",
       "segmentPrefix": "00-00-077-080",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8076,14 +8076,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 81,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-078-081",
       "segmentPrefix": "00-00-078-081",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8100,14 +8100,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 82,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-079-082",
       "segmentPrefix": "00-00-079-082",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8124,14 +8124,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 83,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-080-083",
       "segmentPrefix": "00-00-080-083",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8148,14 +8148,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 84,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-081-084",
       "segmentPrefix": "00-00-081-084",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8172,14 +8172,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 85,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-082-085",
       "segmentPrefix": "00-00-082-085",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8196,14 +8196,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 86,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-083-086",
       "segmentPrefix": "00-00-083-086",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8220,14 +8220,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 87,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-084-087",
       "segmentPrefix": "00-00-084-087",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8244,14 +8244,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 88,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-085-088",
       "segmentPrefix": "00-00-085-088",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8268,14 +8268,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 89,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-086-089",
       "segmentPrefix": "00-00-086-089",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8292,14 +8292,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 90,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-087-090",
       "segmentPrefix": "00-00-087-090",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8316,14 +8316,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 91,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-088-091",
       "segmentPrefix": "00-00-088-091",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8340,14 +8340,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 92,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-089-092",
       "segmentPrefix": "00-00-089-092",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8364,14 +8364,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 93,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-090-093",
       "segmentPrefix": "00-00-090-093",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8388,14 +8388,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 94,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-091-094",
       "segmentPrefix": "00-00-091-094",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8412,14 +8412,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 95,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-092-095",
       "segmentPrefix": "00-00-092-095",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8436,14 +8436,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 96,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-093-096",
       "segmentPrefix": "00-00-093-096",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8460,14 +8460,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 97,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-094-097",
       "segmentPrefix": "00-00-094-097",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8484,14 +8484,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 98,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-095-098",
       "segmentPrefix": "00-00-095-098",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8508,14 +8508,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 99,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-096-099",
       "segmentPrefix": "00-00-096-099",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8532,14 +8532,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 100,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-097-100",
       "segmentPrefix": "00-00-097-100",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8556,14 +8556,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 101,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-098-101",
       "segmentPrefix": "00-00-098-101",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8580,14 +8580,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 102,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-099-102",
       "segmentPrefix": "00-00-099-102",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8604,14 +8604,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 103,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-100-103",
       "segmentPrefix": "00-00-100-103",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8628,14 +8628,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 104,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-101-104",
       "segmentPrefix": "00-00-101-104",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8652,14 +8652,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 105,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-102-105",
       "segmentPrefix": "00-00-102-105",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8676,14 +8676,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 106,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-103-106",
       "segmentPrefix": "00-00-103-106",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8700,14 +8700,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 107,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-104-107",
       "segmentPrefix": "00-00-104-107",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8724,14 +8724,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 108,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-105-108",
       "segmentPrefix": "00-00-105-108",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8748,14 +8748,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 109,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-106-109",
       "segmentPrefix": "00-00-106-109",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8772,14 +8772,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 110,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-107-110",
       "segmentPrefix": "00-00-107-110",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8796,14 +8796,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 111,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-108-111",
       "segmentPrefix": "00-00-108-111",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8820,14 +8820,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 112,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-109-112",
       "segmentPrefix": "00-00-109-112",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8844,14 +8844,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 113,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-110-113",
       "segmentPrefix": "00-00-110-113",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8868,14 +8868,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 114,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-111-114",
       "segmentPrefix": "00-00-111-114",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8892,14 +8892,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 115,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-112-115",
       "segmentPrefix": "00-00-112-115",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8916,14 +8916,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 116,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-113-116",
       "segmentPrefix": "00-00-113-116",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8940,14 +8940,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 117,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-114-117",
       "segmentPrefix": "00-00-114-117",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8964,14 +8964,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 118,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-115-118",
       "segmentPrefix": "00-00-115-118",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -8988,14 +8988,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 119,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-116-119",
       "segmentPrefix": "00-00-116-119",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9012,14 +9012,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 120,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-117-120",
       "segmentPrefix": "00-00-117-120",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9036,14 +9036,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 121,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-118-121",
       "segmentPrefix": "00-00-118-121",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9060,14 +9060,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 122,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-119-122",
       "segmentPrefix": "00-00-119-122",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9084,14 +9084,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 123,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-120-123",
       "segmentPrefix": "00-00-120-123",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9108,14 +9108,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 124,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-121-124",
       "segmentPrefix": "00-00-121-124",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9132,14 +9132,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 125,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-122-125",
       "segmentPrefix": "00-00-122-125",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9156,14 +9156,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 126,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-123-126",
       "segmentPrefix": "00-00-123-126",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9180,14 +9180,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 127,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-124-127",
       "segmentPrefix": "00-00-124-127",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9204,14 +9204,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 128,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-125-128",
       "segmentPrefix": "00-00-125-128",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9228,14 +9228,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 129,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-126-129",
       "segmentPrefix": "00-00-126-129",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9252,14 +9252,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 130,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-127-130",
       "segmentPrefix": "00-00-127-130",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9276,14 +9276,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 131,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-128-131",
       "segmentPrefix": "00-00-128-131",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9300,14 +9300,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 132,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-129-132",
       "segmentPrefix": "00-00-129-132",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9324,14 +9324,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 133,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-130-133",
       "segmentPrefix": "00-00-130-133",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9348,14 +9348,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 134,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-131-134",
       "segmentPrefix": "00-00-131-134",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9372,14 +9372,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 135,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-132-135",
       "segmentPrefix": "00-00-132-135",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9396,14 +9396,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 136,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-133-136",
       "segmentPrefix": "00-00-133-136",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9420,14 +9420,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 137,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-134-137",
       "segmentPrefix": "00-00-134-137",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9444,14 +9444,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 138,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-135-138",
       "segmentPrefix": "00-00-135-138",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9468,14 +9468,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 139,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-136-139",
       "segmentPrefix": "00-00-136-139",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9492,14 +9492,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 140,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-137-140",
       "segmentPrefix": "00-00-137-140",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9516,14 +9516,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 141,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-138-141",
       "segmentPrefix": "00-00-138-141",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9540,14 +9540,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 142,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-139-142",
       "segmentPrefix": "00-00-139-142",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9564,14 +9564,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 143,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-140-143",
       "segmentPrefix": "00-00-140-143",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9588,14 +9588,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 144,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-141-144",
       "segmentPrefix": "00-00-141-144",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9612,14 +9612,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 145,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-142-145",
       "segmentPrefix": "00-00-142-145",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9636,14 +9636,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 146,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-143-146",
       "segmentPrefix": "00-00-143-146",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9660,14 +9660,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 147,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-144-147",
       "segmentPrefix": "00-00-144-147",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9684,14 +9684,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 148,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-145-148",
       "segmentPrefix": "00-00-145-148",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9708,14 +9708,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 149,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-146-149",
       "segmentPrefix": "00-00-146-149",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9732,14 +9732,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 150,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-147-150",
       "segmentPrefix": "00-00-147-150",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9756,14 +9756,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 151,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-148-151",
       "segmentPrefix": "00-00-148-151",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9780,14 +9780,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 152,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-149-152",
       "segmentPrefix": "00-00-149-152",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9804,14 +9804,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 153,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-150-153",
       "segmentPrefix": "00-00-150-153",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9828,14 +9828,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 154,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-151-154",
       "segmentPrefix": "00-00-151-154",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9852,14 +9852,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 155,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-152-155",
       "segmentPrefix": "00-00-152-155",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9876,14 +9876,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 156,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-153-156",
       "segmentPrefix": "00-00-153-156",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9900,14 +9900,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 157,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-154-157",
       "segmentPrefix": "00-00-154-157",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9924,14 +9924,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 158,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-155-158",
       "segmentPrefix": "00-00-155-158",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9948,14 +9948,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 159,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-156-159",
       "segmentPrefix": "00-00-156-159",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9972,14 +9972,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 160,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-157-160",
       "segmentPrefix": "00-00-157-160",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -9996,14 +9996,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 161,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-158-161",
       "segmentPrefix": "00-00-158-161",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -10020,14 +10020,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 162,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-159-162",
       "segmentPrefix": "00-00-159-162",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     },
     {
@@ -10044,14 +10044,14 @@
         }
       ],
       "language": "pt",
-      "maturity": "draft",
+      "maturity": "reading-reviewed",
       "order": 163,
       "publicSlug": null,
-      "publishable": false,
+      "publishable": true,
       "routePath": "pt/literatura/machado-de-assis/bras-cubas/00-00-160-163",
       "segmentPrefix": "00-00-160-163",
       "source": "pipeline-export",
-      "urlStability": "draft",
+      "urlStability": "stable",
       "workId": "machado-de-assis/bras-cubas"
     }
   ],
@@ -10105,10 +10105,10 @@
           "segmentCount": 163
         }
       ],
-      "maturity": "draft",
-      "publishable": false,
+      "maturity": "reading-reviewed",
+      "publishable": true,
       "referenceEditions": [],
-      "routeStability": "draft",
+      "routeStability": "stable",
       "segmentCount": 163,
       "sourceLanguage": "pt",
       "targetLanguage": "pt",

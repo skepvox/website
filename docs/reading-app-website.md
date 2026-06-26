@@ -110,9 +110,19 @@ and many books later is far more expensive. The Slice-E readiness gate (an audit
 ## 4. Stability-aware visibility gate
 
 `scripts/pipeline_gate.py` (`route_visibility`) decides each segment's public visibility from its
-metadata: **eligible (indexable) iff `urlStability == "stable"` AND `publicSlug` present**; everything
-else is hidden (`buffer` + `noindex`, out of sitemap/search/LLM). It drives the generated-page
-frontmatter. **`urlStability` gates indexing/canonical/sitemap/search/LLM** — nothing draft is public.
+metadata: **eligible (indexable) iff `urlStability == "stable"`** (the pipeline's explicit publish
+signal); everything else is hidden (`buffer` + `noindex`, out of sitemap/search/LLM). It drives the
+generated-page frontmatter. **`urlStability` gates indexing/canonical/sitemap/search/LLM** — nothing
+draft is public.
+
+> **B3 — the gate no longer requires a `publicSlug`.** The pipeline sets `stable` under TWO publication
+> models (book-pipeline export contract §5): a **slug-tail** work (Lavelle) freezes a `publicSlug`; a
+> **prefix-only** work needs none — its bare `segmentPrefix` is the permanent public leaf. Requiring a
+> `publicSlug` too would wrongly hide prefix-only public books, so the gate keys on `urlStability` alone.
+> Still safe: Lavelle fr (draft source), reading-review buffers, and any unpublished work are never
+> `stable`. **Brás Cubas is the first prefix-only public book** — `/pt/literatura/machado-de-assis/bras-cubas/`
+> + its 163 `…/<segmentPrefix>` leaves are live/indexable (hubs in the sitemap; leaves crawlable but
+> marker-pruned; in search + LLM), with **no `publicSlug`, no slug tail, and no redirects**.
 
 ## 5. Owned reading navigation
 

@@ -179,14 +179,15 @@ test.describe('pipeline-export multi-work ingestion (B2: Lavelle + Brás Cubas)'
     expect(a.works.map((w: any) => w.workId).sort()).toEqual([BRAS, LAVELLE].sort())
   })
 
-  test('Brás Cubas: 163 pt records, prefix-only routePath under /pt/literatura/, draft (no publicSlug)', () => {
+  test('Brás Cubas: 163 pt records, prefix-only routePath, PUBLISHED stable WITHOUT a publicSlug (B3)', () => {
     const segs = workSegs(BRAS)
     expect(segs.length).toBe(163)
     expect(segs.every((s: any) => s.language === 'pt')).toBe(true)
     for (const s of segs) {
+      // prefix-only public leaf: bare segmentPrefix, no slug tail
       expect(s.routePath).toBe(`pt/literatura/machado-de-assis/bras-cubas/${s.segmentPrefix}`)
-      expect(s.urlStability).toBe('draft')
-      expect(s.publicSlug).toBeNull()
+      expect(s.urlStability).toBe('stable') // B3: published
+      expect(s.publicSlug).toBeNull() // ...without minting a publicSlug — segmentPrefix IS the permanent leaf
     }
   })
 

@@ -498,10 +498,10 @@ gtag('config', 'G-1VWHF2D1QJ');`
         // (The old fr edition of Introdução à ontologia and the whole legacy louis-lavelle corpus were
         // removed in slice A5, so they no longer need an ignore entry — the canonical pt edition under
         // /pt/filosofia/louis-lavelle/introducao-a-ontologia/ is the only Lavelle surface in the output.)
-        // 'pt/literatura/**' is the pipeline-built Brás Cubas surface (slice B2): draft / unpublished
-        // (buffer + noindex, out of sitemap/search), so it is held out of the LLM output too until the
-        // book is published in the pipeline (a later, separate act). Revisit this entry at publication.
-        ignoreFiles: ['index.md', 'reading-review/**', 'pt/literatura/**'],
+        // The pipeline-built Brás Cubas surface (/pt/literatura/**) was PUBLISHED in B3 (prefix-only
+        // stable), so — like the public Lavelle pt edition — it now enters the LLM output and no longer
+        // carries an ignore entry. ('index.md' still drops every hub from the LLM listing.)
+        ignoreFiles: ['index.md', 'reading-review/**'],
         customLLMsTxtTemplate: `\
 # skepvox
 

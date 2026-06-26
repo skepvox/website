@@ -3,11 +3,12 @@ import fs from 'node:fs'
 import path from 'node:path'
 import { execFileSync } from 'node:child_process'
 
-// Slice 2K/2L — stability-aware publication gate, now exercised by the live migration. The gate
-// (scripts/pipeline_gate.py) decides per-segment visibility from pipeline metadata: eligible (public)
-// iff urlStability=="stable" AND publicSlug present; everything else hidden (buffer/noindex, out of
-// sitemap/search/LLM). The pipeline has minted the pt edition, so the 99 pt pages are now INDEXABLE in
-// the public namespace; the reading-review/** demo surfaces stay noindex/excluded.
+// Slice 2K/2L + B3 — stability-aware publication gate. The gate (scripts/pipeline_gate.py) decides
+// per-segment visibility from pipeline metadata: eligible (public) iff urlStability=="stable" — the
+// pipeline's explicit publish signal, set under either model (slug-tail freezes a publicSlug; prefix-only
+// needs none, its segmentPrefix being the permanent public leaf). Everything else (draft/provisional)
+// stays hidden (buffer/noindex, out of sitemap/search/LLM). The reading-review/** demo surfaces stay
+// noindex/excluded.
 const DIST = path.resolve('.vitepress/dist')
 const META = path.resolve('.vitepress/theme/data/pipeline-export-segments.json')
 const GATE = path.resolve('scripts/pipeline_gate.py')
@@ -29,12 +30,9 @@ const sitemapUrls = () =>
   )
 
 test.describe('pipeline publication gate (Slice 2K/2L, stability-aware; pt minted & public)', () => {
-  test('the gate hides draft/provisional/no-publicSlug and only opens stable+publicSlug', () => {
+  test('the gate opens any stable route (with OR without publicSlug) and hides everything else', () => {
     const HIDDEN = { eligible: false, buffer: true, noindex: true, search: false, sitemap: false }
-    expect(gate({ urlStability: 'draft', publicSlug: null })).toMatchObject(HIDDEN)
-    expect(gate({ urlStability: 'provisional', publicSlug: null })).toMatchObject(HIDDEN)
-    expect(gate({ urlStability: 'stable', publicSlug: null })).toMatchObject(HIDDEN) // defensive
-    expect(gate({ urlStability: 'stable', publicSlug: 'paragrafo-7' })).toMatchObject({
+    const PUBLIC = {
       eligible: true,
       buffer: false,
       noindex: false,
@@ -42,7 +40,13 @@ test.describe('pipeline publication gate (Slice 2K/2L, stability-aware; pt minte
       sitemap: true,
       index: true,
       llm: true
-    })
+    }
+    expect(gate({ urlStability: 'draft', publicSlug: null })).toMatchObject(HIDDEN)
+    expect(gate({ urlStability: 'provisional', publicSlug: null })).toMatchObject(HIDDEN)
+    // B3: a prefix-only public work is stable WITHOUT a publicSlug (segmentPrefix is the permanent leaf).
+    expect(gate({ urlStability: 'stable', publicSlug: null })).toMatchObject(PUBLIC)
+    // a slug-tail public work is stable WITH a frozen publicSlug — also eligible.
+    expect(gate({ urlStability: 'stable', publicSlug: 'paragrafo-7' })).toMatchObject(PUBLIC)
   })
 
   test('the vendored export now has 99 stable pt routes with publicSlug; fr stays draft/null', () => {
@@ -62,6 +66,24 @@ test.describe('pipeline publication gate (Slice 2K/2L, stability-aware; pt minte
       expect(s.publicSlug).toBeNull()
       expect(gate(s).eligible).toBe(false)
     }
+  })
+
+  test('B3: Brás Cubas is published prefix-only — hubs in sitemap, leaves indexable+crawlable but pruned', () => {
+    const urls = sitemapUrls()
+    // section / author / work hubs are indexable + listed in the sitemap (same posture as Lavelle's hubs)
+    expect(urls.has('/pt/literatura/')).toBe(true)
+    expect(urls.has('/pt/literatura/machado-de-assis/')).toBe(true)
+    expect(urls.has('/pt/literatura/machado-de-assis/bras-cubas/')).toBe(true)
+    // representative leaf (ch 53): indexable (no robots noindex) + crawlable (real prose), but sitemap-pruned
+    const dir = path.join(DIST, 'pt/literatura/machado-de-assis/bras-cubas')
+    const html = fs.readFileSync(path.join(dir, '00-00-053-056.html'), 'utf-8')
+    expect(html).not.toMatch(/name="robots"[^>]*content="noindex"/)
+    expect(html).toContain('Virgília é que já se não lembrava') // the real prose body
+    expect(urls.has('/pt/literatura/machado-de-assis/bras-cubas/00-00-053-056')).toBe(false) // pruned
+    // prefix-only route shape: every built leaf is a bare segmentPrefix, NO slug tail
+    const leaves = fs.readdirSync(dir).filter((f) => /\.html$/.test(f) && f !== 'index.html')
+    expect(leaves.length).toBe(163)
+    expect(leaves.every((f) => /^\d{2}-\d{2}-\d{3}-\d{3}\.html$/.test(f))).toBe(true)
   })
 
   test('the generator is wired through the gate; the 99 pt pages are now INDEXABLE + idempotent', () => {

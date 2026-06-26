@@ -53,10 +53,10 @@
           "segmentCount": 163
         }
       ],
-      "maturity": "draft",
-      "publishable": false,
+      "maturity": "reading-reviewed",
+      "publishable": true,
       "referenceEditions": [],
-      "routeStability": "draft",
+      "routeStability": "stable",
       "segmentCount": 163,
       "sourceLanguage": "pt",
       "targetLanguage": "pt",

@@ -2,12 +2,25 @@
 title: Literatura
 description: 'Literatura em português, reunida em um formato simples de leitura por capítulos.'
 footer: false
-buffer: true
-search: false
 head:
+  - - link
+    - rel: canonical
+      href: "https://skepvox.com/pt/literatura/"
   - - meta
-    - name: robots
-      content: noindex
+    - property: og:title
+      content: "Literatura"
+  - - meta
+    - property: og:description
+      content: "Literatura em português, reunida em um formato simples de leitura por capítulos."
+  - - meta
+    - property: og:url
+      content: "https://skepvox.com/pt/literatura/"
+  - - meta
+    - property: og:type
+      content: website
+  - - meta
+    - property: og:locale
+      content: pt_BR
 ---
 
 <script setup>
