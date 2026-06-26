@@ -164,7 +164,8 @@ language)`; `routePath` is presentation only and may be re-projected freely.
 ### 6.1 Filosofia — the Phase A pilot (reference)
 
 Execute as in `filosofia-ia-pilot-migration-assessment.md`: introduce the `ROUTE_BASE` projection
-(IA-1, no visible move), flip the base to `pt/filosofia` and regenerate the 99-leaf tree under
+(IA-1, no visible move), flip the base to `pt/filosofia/louis-lavelle/introducao-a-ontologia` (and the
+leaf policy to prefix-only) and regenerate the 99-leaf tree under
 `src/pt/filosofia/louis-lavelle/introducao-a-ontologia/` (IA-2), create the section + author hubs and
 wire nav/sidebar/sitemap/LLM (IA-3), disable the obsolete fr→pt redirects (IA-4), remove the legacy
 Lavelle corpus once green (IA-5). The reader shell needs **no** code change (it is `routePath`-driven);
@@ -327,7 +328,12 @@ distribution metadata (incl. `show_page_url` + `rss_feed_url`). Components (`Pod
   `routePrefix`) and `build-pipeline-segment-routes.py` (derives `OUT_DIR` from the re-projected
   `routePath` instead of a hard-code). Book-pipeline unchanged. One constant per book governs its
   `{locale}/{section}` home. **Keying model:** for Phases A/B exactly **one** edition is _published_ per
-  work (the pt translation), so `ROUTE_BASE[workId] = "pt/filosofia/louis-lavelle"` is sufficient. The
+  work (the pt translation), so a single `ROUTE_BASE[workId]` is sufficient. **As implemented (A1, see
+  §10):** the base is the full **work** prefix — `"pt/filosofia/louis-lavelle/introducao-a-ontologia"`,
+  ending in the published edition's own-language work slug — and the per-segment **leaf** is a separate,
+  website-owned `LEAF_POLICY` knob (book-pipeline still mints a corpus-relative `routePath` whose leaf is
+  the single segment). Shrinking the base to `"{uiLocale}/{localizedSection}/{authorSlug}"` with a
+  book-pipeline-relative editionSlug is the §6.4 Phase-C refinement. The
   axis that varies a base is the **UI locale**, not the edition language (the edition language only sets
   the own-language _slug_, Family E). So in **Phase C** the projection generalizes per **UI locale**:
   the _same_ work/edition is re-projected under each UI-locale root it is presented in —
@@ -463,9 +469,21 @@ The detailed comparison (locale-rooted vs language-mixed) is in `filosofia-ia-pi
 - **A1 / IA-1** — Introduce the website `ROUTE_BASE` projection (map + `OUT_DIR`-from-`routePath`
   derivation + `routePath`/`routePrefix` re-projection), **set to reproduce current paths** (zero
   visible change) + the architecture-guard test. _This is the shared foundation for every later section._
-- **A2 / IA-2** — Flip `ROUTE_BASE` → `pt/filosofia/louis-lavelle`; regenerate the hub + 99 leaves under
-  `src/pt/filosofia/…`; delete the old `src/louis-lavelle/introducao-a-ontologia/` tree; update test
-  constants.
+  **Status: implemented** on `develop` — `scripts/route_base.py` owns two website knobs: `ROUTE_BASE`
+  (keyed by `workId`, the full `{locale}/{section}/{author}/{editionSlug}` work prefix) and `LEAF_POLICY`
+  (how the per-segment leaf is formed). `build-pipeline-export.py` re-projects the published (pt)
+  edition's `routePath`/`routePrefix` and `build-pipeline-segment-routes.py` derives its output dir from
+  the projected `routePath`; `tests/pipeline-route-base.spec.ts` is the guard. Output is byte-identical
+  today (current base + the default `vendored-slug` leaf), so **A2 flips both knobs**: `ROUTE_BASE[…]` →
+  `pt/filosofia/louis-lavelle/introducao-a-ontologia` **and** `LEAF_POLICY` → `prefix-only` (leaf = the
+  bare `segmentPrefix`), giving `/pt/filosofia/louis-lavelle/introducao-a-ontologia/00-01-002-008`.
+  Prefix-only leaves keep URLs stable while `displayTitle`/`publicSlug` stay free to change (readers
+  never type leaf slugs; `segmentPrefix` is unique per edition); the guard already proves this two-knob
+  projection.
+- **A2 / IA-2** — Flip **both knobs**: `ROUTE_BASE` → `pt/filosofia/louis-lavelle/introducao-a-ontologia`
+  **and** `LEAF_POLICY` → `prefix-only`; regenerate the hub + 99 leaves under `src/pt/filosofia/…`
+  (leaves become `<segmentPrefix>.md`); delete the old `src/louis-lavelle/introducao-a-ontologia/` tree;
+  update test constants.
 - **A3 / IA-3** — Create `/pt/filosofia/` + `/pt/filosofia/louis-lavelle/` hubs + `philosophyAuthorCards`;
   nav/sidebar; generalize `isChapterRoute` (metadata-aware); LLM unchanged; hub/section tests.
 - **A4 / IA-4** — Disable the fr→pt redirects (`STATUS="disabled"`), delete the redirect-map JSON +

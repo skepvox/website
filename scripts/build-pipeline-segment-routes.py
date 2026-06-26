@@ -4,7 +4,10 @@ with each page carrying its REAL prose body as static Markdown.
 
 Per docs/introduction-a-ontologia-live-migration-plan.md §4: the pipeline minted publicSlug /
 urlStability:stable for the pt canonical edition (vendored into pipeline-export-segments.json). This
-generates one page per pt segment under src/louis-lavelle/introducao-a-ontologia/<routePath-leaf>.md.
+generates one page per pt segment under <OUT_DIR>/<routePath-leaf>.md, where OUT_DIR is DERIVED from
+the (website-projected) routePath prefix — not a hard-code (slice A1 / IA-1, scripts/route_base.py).
+build-pipeline-export.py already applied ROUTE_BASE, so a single base flip relocates this whole tree
+with no edit here; today the prefix is src/louis-lavelle/introducao-a-ontologia/.
 
 Prose is JOINED from the book-pipeline export/prose tree by (segmentPrefix, language) — never by
 routePath — and INLINED directly into each page body as static Markdown (no per-route JSON bundle, no
@@ -33,10 +36,10 @@ import sys
 from pathlib import Path
 
 from pipeline_gate import route_visibility
+from route_base import segment_dir_parts
 
 ROOT = Path(__file__).resolve().parent.parent
 META = ROOT / ".vitepress" / "theme" / "data" / "pipeline-export-segments.json"
-OUT_DIR = ROOT / "src" / "louis-lavelle" / "introducao-a-ontologia"
 PROSE_ROOT_DEFAULT = ROOT.parent / "skepvox-book-pipeline" / "export" / "prose"
 EDITION = "pt"
 GENERATED_MARKER = "pipeline-segment-routes"
@@ -138,9 +141,24 @@ def build(prose_root: Path) -> dict[str, str]:
     )
     pages: dict[str, str] = {}
     for rec in pt:
+        # The filename follows whatever leaf build-pipeline-export.py already projected (LEAF_POLICY is
+        # owned there, scripts/route_base.py) — this generator is leaf-policy-agnostic. Today that leaf
+        # is "<segmentPrefix>-<publicSlug>"; after the A2 prefix-only flip it is the bare segmentPrefix.
         leaf = rec["routePath"].split("/")[-1]  # routePath = presentation; the filename only
         pages[f"{leaf}.md"] = page_text(rec, prose_root)
     return pages
+
+
+def resolve_out_dir() -> Path:
+    """Derive the generated-page directory from the (website-projected) routePath prefix in the
+    pipeline export — never a hard-code. build-pipeline-export.py already applied ROUTE_BASE
+    (scripts/route_base.py), so a single base flip relocates this whole tree with no edit here. All
+    pt segments share one work prefix; routePath is presentation only, never identity."""
+    meta = json.loads(META.read_text(encoding="utf-8"))
+    dirs = {segment_dir_parts(s["routePath"]) for s in meta["segments"] if s["language"] == EDITION}
+    if len(dirs) != 1:
+        raise ValueError(f"pt segments span multiple route prefixes: {sorted(dirs)}")
+    return ROOT.joinpath("src", *next(iter(dirs)))
 
 
 def build_hub() -> str:
@@ -190,21 +208,22 @@ def main(argv: list[str] | None = None) -> int:
         print(f"segment-routes (dry-run): {len(desired)} pt pages OK — prose joined for all.")
         return 0
 
-    OUT_DIR.mkdir(parents=True, exist_ok=True)
-    existing = {p.name for p in OUT_DIR.glob("*.md")}
+    out_dir = resolve_out_dir()  # derived from the projected routePath prefix, never hard-coded
+    out_dir.mkdir(parents=True, exist_ok=True)
+    existing = {p.name for p in out_dir.glob("*.md")}
     changed = 0
     for name in sorted(existing - set(desired)):
-        if f"generated: {GENERATED_MARKER}" in (OUT_DIR / name).read_text(encoding="utf-8"):
-            (OUT_DIR / name).unlink()
+        if f"generated: {GENERATED_MARKER}" in (out_dir / name).read_text(encoding="utf-8"):
+            (out_dir / name).unlink()
             changed += 1
     for name, text in sorted(desired.items()):
-        path = OUT_DIR / name
+        path = out_dir / name
         if not path.exists() or path.read_text(encoding="utf-8") != text:
             path.write_text(text, encoding="utf-8")
             changed += 1
 
     # the pt work hub (index.md) — metadata-only links, regenerated alongside the leaves
-    hub_path = OUT_DIR / "index.md"
+    hub_path = out_dir / "index.md"
     hub_text = build_hub()
     if not hub_path.exists() or hub_path.read_text(encoding="utf-8") != hub_text:
         hub_path.write_text(hub_text, encoding="utf-8")
