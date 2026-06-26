@@ -3,6 +3,7 @@ import { computed } from 'vue'
 import { useData } from 'vitepress'
 import meta from '../data/pipeline-export-segments.json'
 import SkLink from './SkLink.vue'
+import ReaderIcon from './ReaderIcon.vue'
 
 // Owned prev/next/up navigation for the LIVE public pipeline pt segment leaves
 // (src/louis-lavelle/introducao-a-ontologia/<leaf>.md). Injected via the theme content slots, so the
@@ -13,7 +14,6 @@ import SkLink from './SkLink.vue'
 const props = defineProps<{ placement: 'top' | 'bottom' }>()
 
 const HUB = '/louis-lavelle/introducao-a-ontologia/'
-const WORK_TITLE = 'Introdução à ontologia'
 
 interface Level {
   kind: string
@@ -77,7 +77,7 @@ const upHref = computed(() =>
         rel="prev"
         data-testid="pseg-prev"
       >
-        <span class="pseg-nav__dir">‹ Trecho anterior</span>
+        <span class="pseg-nav__dir"><ReaderIcon name="chevron-left" />Trecho anterior</span>
         <span class="pseg-nav__title">{{ prev.displayTitle }}</span>
       </SkLink>
       <span v-else class="pseg-nav__spacer" aria-hidden="true"></span>
@@ -89,7 +89,7 @@ const upHref = computed(() =>
         rel="next"
         data-testid="pseg-next"
       >
-        <span class="pseg-nav__dir">Próximo trecho ›</span>
+        <span class="pseg-nav__dir">Próximo trecho<ReaderIcon name="chevron-right" /></span>
         <span class="pseg-nav__title">{{ next.displayTitle }}</span>
       </SkLink>
       <span v-else class="pseg-nav__spacer" aria-hidden="true"></span>
@@ -97,7 +97,7 @@ const upHref = computed(() =>
 
     <p class="pseg-nav__up">
       <SkLink class="pseg-nav__up-link" :href="upHref" data-testid="pseg-up">
-        ↑ Sumário — {{ WORK_TITLE }}
+        <ReaderIcon name="chevron-up" />Sumário
       </SkLink>
     </p>
   </nav>
@@ -131,12 +131,22 @@ const upHref = computed(() =>
 .pseg-nav__spacer {
   flex: 0 1 48%;
 }
+/* The direction label + its owned chevron, aligned as one quiet row. The chevron rides ~1 step
+   above the tiny dir label so it reads as a clear directional mark; the gap/alignment live on this
+   wrapper (never on the icon). The icon inherits the dir's muted ink via currentColor. */
 .pseg-nav__dir {
+  display: flex;
+  align-items: center;
+  gap: 0.3em;
+  --sk-icon-size: 0.95rem;
   font-size: 0.72rem;
   font-weight: 600;
   letter-spacing: 0.04em;
   text-transform: uppercase;
   color: var(--sk-text-muted);
+}
+.pseg-nav__link--next .pseg-nav__dir {
+  justify-content: flex-end;
 }
 .pseg-nav__title {
   overflow: hidden;
@@ -152,6 +162,10 @@ const upHref = computed(() =>
   font-size: 0.78rem;
 }
 .pseg-nav__up-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3em;
+  --sk-icon-size: 0.95rem;
   color: var(--sk-text-muted);
   text-decoration: none;
   transition: color 0.18s ease;

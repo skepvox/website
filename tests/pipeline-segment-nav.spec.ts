@@ -109,6 +109,48 @@ test.describe('pipeline pt segment nav (Slice 2O, owned prev/next/up, pipeline-s
     }
   })
 
+  test('Slice C2: nav renders owned ReaderIcon chevrons + exact labels; no ‹ › ↑ glyphs (built HTML)', () => {
+    const html = fs.readFileSync(
+      path.join(DIST, 'louis-lavelle/introducao-a-ontologia/00-01-002-008-paragrafo-7.html'),
+      'utf-8'
+    )
+    const start = html.indexOf('data-testid="pseg-nav"')
+    expect(start).toBeGreaterThan(-1)
+    const nav = html.slice(start, html.indexOf('</nav>', start) + 6)
+    // three owned reader-icon svgs (prev / next / up)
+    expect((nav.match(/class="reader-icon/g) || []).length).toBeGreaterThanOrEqual(3)
+    // the exact visible labels are preserved (source text; CSS uppercases the display only)
+    expect(nav).toContain('Trecho anterior')
+    expect(nav).toContain('Próximo trecho')
+    expect(nav).toContain('Sumário')
+    // the hand-rolled text glyphs are gone
+    expect(nav.includes('‹')).toBe(false)
+    expect(nav.includes('›')).toBe(false)
+    expect(nav.includes('↑')).toBe(false)
+  })
+
+  test('Slice C2: nav chevrons are decorative; the link accessible name comes from the visible text', async ({
+    page
+  }) => {
+    const pt = ptByOrder()
+    const i = pt.findIndex((s: any) => s.segmentPrefix === '00-01-002-008')
+    await page.goto(routeOf(pt[i]))
+    const nav = page.locator('[data-testid="pseg-nav"]')
+    for (const id of ['pseg-prev', 'pseg-next', 'pseg-up']) {
+      const svg = nav.locator(`[data-testid="${id}"] svg.reader-icon`)
+      await expect(svg).toHaveCount(1)
+      expect(await svg.getAttribute('aria-hidden')).toBe('true') // decorative
+      expect(await svg.getAttribute('focusable')).toBe('false')
+    }
+    await expect(nav.locator('[data-testid="pseg-prev"]')).toHaveAccessibleName(
+      /Trecho anterior\s+Parágrafo 6/
+    )
+    await expect(nav.locator('[data-testid="pseg-next"]')).toHaveAccessibleName(
+      /Próximo trecho\s+Parágrafo 8/
+    )
+    await expect(nav.locator('[data-testid="pseg-up"]')).toHaveAccessibleName('Sumário')
+  })
+
   test('the nav is absent on non-pipeline-leaf pages', async ({ page }) => {
     for (const route of [
       '/louis-lavelle/introduction-a-l-ontologie/00-01-002-etre', // old fr chapter (preview serves it)

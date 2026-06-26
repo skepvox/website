@@ -106,13 +106,15 @@ test.describe('ReaderIcon foundation (Slice C1, boundary + tokens only)', () => 
     expect(comp).toContain('var(--sk-icon-size)')
   })
 
-  test('no reader consumer swaps yet: nav keeps ‹ › ↑, hub keeps the CSS triangle, neither imports ReaderIcon', () => {
+  test('Slice C2 done / C3 pending: nav uses ReaderIcon (no text glyphs); hub still has the CSS triangle', () => {
     const nav = fs.readFileSync(NAV, 'utf-8')
     const hub = fs.readFileSync(HUB, 'utf-8')
-    expect(nav.includes('Trecho anterior')).toBe(true)
-    expect(nav.includes('‹') && nav.includes('›')).toBe(true) // ‹ … ›
-    expect(hub.includes('border-left: 5px solid currentColor')).toBe(true) // the .pwc__chevron triangle
-    expect(nav.includes('ReaderIcon')).toBe(false)
+    // C2: PipelineSegmentNav is swapped to ReaderIcon; the ‹ › ↑ text glyphs are gone
+    expect(nav.includes("import ReaderIcon from './ReaderIcon.vue'")).toBe(true)
+    expect(nav.includes('‹') || nav.includes('›') || nav.includes('↑')).toBe(false)
+    expect(nav.includes('Trecho anterior')).toBe(true) // visible label preserved
+    // C3 NOT done yet: the hub disclosure is still the CSS-triangle chevron, no ReaderIcon
+    expect(hub.includes('border-left: 5px solid currentColor')).toBe(true)
     expect(hub.includes('ReaderIcon')).toBe(false)
   })
 
