@@ -33,6 +33,7 @@ interface Level {
 }
 interface Seg {
   canonicalId: string
+  workId: string
   language: string
   order: number
   displayTitle: string
@@ -45,6 +46,9 @@ const { frontmatter } = useData()
 const isPipelineLeaf = computed(() => frontmatter.value.generated === 'pipeline-segment-routes')
 const canonicalId = computed(() => frontmatter.value.pipelineCanonicalId as string)
 const lang = computed(() => (frontmatter.value.pipelineLanguage as string) || 'pt')
+// workId = canonicalId minus the segmentPrefix leaf — the per-work filter, so the location path is built
+// from ONE work's sequence (multi-work artifact, B2) and never folds across books that share a language.
+const workId = computed(() => canonicalId.value?.split('/').slice(0, -1).join('/'))
 
 // Join by (canonicalId, language) — identity, never routePath (presentation). Same source the bottom
 // PipelineSegmentNav uses; metadata only, no prose.
@@ -53,7 +57,7 @@ const lang = computed(() => (frontmatter.value.pipelineLanguage as string) || 'p
 const edition = computed<Seg[]>(() =>
   isPipelineLeaf.value
     ? (meta.segments as Seg[])
-        .filter((s) => s.language === lang.value)
+        .filter((s) => s.workId === workId.value && s.language === lang.value)
         .sort((a, b) => a.order - b.order)
     : []
 )
@@ -100,6 +104,13 @@ const chapterTitle = computed(
 const segmentTitle = computed(
   () => current.value?.displayTitle || (frontmatter.value.pipelineSegmentTitle as string) || ''
 )
+// Chapter-level work (e.g. Brás Cubas): the segment IS the whole chapter, so the chapter rung and the
+// segment line would be the SAME title. Collapse to ONE prominent current heading (the chapter as the
+// location) instead of rendering it twice. Detected from the data (chapter title == segment title), not
+// the work id; a paragraph-level work (Lavelle: chapter "Ser" ≠ segment "Parágrafo 7") is unaffected.
+const isChapterLevel = computed(
+  () => !!chapterLevel.value && !!current.value && chapterTitle.value === segmentTitle.value
+)
 // Sumário → the work hub (contents top), derived from the segment's routePath (no pt hard-code).
 const hubHref = computed(() => (current.value ? workHubHref(current.value.routePath) : '/'))
 // Chapter → hub#trecho-<current>: opens + highlights the containing chapter (the exact href the bottom
@@ -131,17 +142,24 @@ const chapterHref = computed(() =>
       <li v-else-if="isFrontMatter" class="pseg-loc__rung">
         <span class="pseg-loc__sep" aria-hidden="true">·</span>{{ openingLabel }}
       </li>
-      <!-- Chapter — the real <h2>, link to hub#trecho-<current> -->
-      <li v-if="chapterLevel" class="pseg-loc__rung pseg-loc__rung--chapter">
-        <span class="pseg-loc__sep" aria-hidden="true">·</span>
-        <h2 class="pseg-head__chapter">
-          <SkLink class="pseg-loc__link" :href="chapterHref">{{ chapterTitle }}</SkLink>
-        </h2>
+      <!-- Chapter-level work (Brás Cubas): the chapter IS the current location — one prominent real
+           <h2> (not a link), on its own row; no separate segment <h3> (it would duplicate the title). -->
+      <li v-if="isChapterLevel" class="pseg-loc__current">
+        <h2 class="pseg-head__title" aria-current="location">{{ segmentTitle }}</h2>
       </li>
-      <!-- Current segment — the real <h3>, current location, NOT a link -->
-      <li class="pseg-loc__current">
-        <h3 class="pseg-head__title" aria-current="location">{{ segmentTitle }}</h3>
-      </li>
+      <template v-else>
+        <!-- Chapter — the real <h2>, link to hub#trecho-<current> -->
+        <li v-if="chapterLevel" class="pseg-loc__rung pseg-loc__rung--chapter">
+          <span class="pseg-loc__sep" aria-hidden="true">·</span>
+          <h2 class="pseg-head__chapter">
+            <SkLink class="pseg-loc__link" :href="chapterHref">{{ chapterTitle }}</SkLink>
+          </h2>
+        </li>
+        <!-- Current segment — the real <h3>, current location, NOT a link -->
+        <li class="pseg-loc__current">
+          <h3 class="pseg-head__title" aria-current="location">{{ segmentTitle }}</h3>
+        </li>
+      </template>
     </ol>
   </nav>
 </template>

@@ -73,8 +73,11 @@ test.describe('pipeline-export review consumer (Slice 2C/2D, buffer/noindex, no 
     expect(html).toMatch(/data-qa="maturity"[^>]*>\s*draft\s*</)
   })
 
-  test('99 fr + 99 pt records; the pt public family is built and the hidden review family is gone', () => {
-    const segs = artifact().segments
+  test('Lavelle: 99 fr + 99 pt records; the pt public family is built and the hidden review family is gone', () => {
+    // scoped to Lavelle — the multi-work artifact also carries bras-cubas pt (covered in pipeline-export.spec)
+    const segs = artifact().segments.filter(
+      (s: any) => s.workId === 'louis-lavelle/introduction-a-l-ontologie'
+    )
     expect(segs.filter((s: any) => s.language === 'fr').length).toBe(99)
     expect(segs.filter((s: any) => s.language === 'pt').length).toBe(99)
     // the minted pt family is now built at its PUBLIC namespace...

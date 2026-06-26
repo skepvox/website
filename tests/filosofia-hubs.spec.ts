@@ -39,13 +39,16 @@ const sitemapUrls = () =>
 test.describe('filosofia hubs (slice A3 / IA-3)', () => {
   test('the Introdução work card is pipeline-sourced: rendered route + title match the export, no works.json', () => {
     const meta = read(META)
-    const pt = meta.work.editions.find((e: any) => e.language === 'pt')
+    const work = meta.works.find(
+      (w: any) => w.workId === 'louis-lavelle/introduction-a-l-ontologie'
+    )
+    const pt = work.editions.find((e: any) => e.language === 'pt')
     const expectedHref = `/${pt.routePrefix}/`
     expect(expectedHref).toBe(WORK_HUB)
     // the rendered work card on the author hub is built from pipeline metadata (work.title + pt routePrefix)
     const h = html(AUTHOR)
     expect(h).toContain(`href="${expectedHref}"`)
-    expect(h).toContain(meta.work.title) // "Introdução à ontologia"
+    expect(h).toContain(work.title) // "Introdução à ontologia"
     expect(h).toContain(`${pt.segmentCount} trechos`) // meta line derived from segmentCount
     // the helper reads the pipeline export and never a works.json (no reintroduction for the moved book)
     const src = fs.readFileSync(

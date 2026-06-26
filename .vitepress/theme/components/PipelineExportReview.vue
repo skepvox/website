@@ -20,6 +20,7 @@ interface Level {
 }
 interface Seg {
   canonicalId: string
+  workId: string
   language: string
   order: number
   segmentPrefix: string
@@ -31,8 +32,11 @@ interface Seg {
   groupPath: Level[]
 }
 
-const work = (data as any).work
-const allSegs = data.segments as Seg[]
+// This reading-review harness reviews the Lavelle pilot export specifically; with the multi-work
+// artifact (B2) it selects that work + its segments by workId.
+const WORK_ID = 'louis-lavelle/introduction-a-l-ontologie'
+const work = (data.works as any[]).find((w) => w.workId === WORK_ID)
+const allSegs = (data.segments as Seg[]).filter((s) => s.workId === WORK_ID)
 
 // Default to the canonical reading edition (pt: editionRole "canonical", default:true in the export).
 const EDITIONS = [

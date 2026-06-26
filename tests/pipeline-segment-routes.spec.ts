@@ -16,7 +16,10 @@ const PUBLIC_DIR = path.resolve('src/pt/filosofia/louis-lavelle/introducao-a-ont
 const GEN = path.resolve('scripts/build-pipeline-segment-routes.py')
 
 const read = (p: string) => JSON.parse(fs.readFileSync(p, 'utf-8'))
-const ptSegments = () => read(META).segments.filter((s: any) => s.language === 'pt')
+const ptSegments = () =>
+  read(META).segments.filter(
+    (s: any) => s.workId === 'louis-lavelle/introduction-a-l-ontologie' && s.language === 'pt'
+  )
 const publicRoute = (s: any) =>
   `/pt/filosofia/louis-lavelle/introducao-a-ontologia/${s.routePath.split('/').pop()}`
 const pageBody = (text: string) => text.replace(/^---[\s\S]*?\n---\n/, '').trim()

@@ -36,6 +36,32 @@
       "targetLanguage": "pt",
       "title": "Introdução à ontologia",
       "workId": "louis-lavelle/introduction-a-l-ontologie"
+    },
+    {
+      "author": "Machado de Assis",
+      "authorSlug": "machado-de-assis",
+      "bookSlug": "bras-cubas",
+      "bundlePath": "works/machado-de-assis/bras-cubas.json",
+      "collapsedLevels": [],
+      "editions": [
+        {
+          "default": true,
+          "editionRole": "canonical",
+          "language": "pt",
+          "routePrefix": "machado-de-assis/bras-cubas",
+          "routeSlug": "bras-cubas",
+          "segmentCount": 163
+        }
+      ],
+      "maturity": "draft",
+      "publishable": false,
+      "referenceEditions": [],
+      "routeStability": "draft",
+      "segmentCount": 163,
+      "sourceLanguage": "pt",
+      "targetLanguage": "pt",
+      "title": "Memórias póstumas de Brás Cubas",
+      "workId": "machado-de-assis/bras-cubas"
     }
   ]
 }

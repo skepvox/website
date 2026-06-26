@@ -47,6 +47,10 @@ import json
 # everything before the leaf). Locale-rooted as of slice A2 / IA-2 (the pilot's first public route move).
 ROUTE_BASE: dict[str, str] = {
     "louis-lavelle/introduction-a-l-ontologie": "pt/filosofia/louis-lavelle/introducao-a-ontologia",
+    # B2 / IA — the first /pt/literatura/ book, a pt original. The work prefix ends in the bookSlug
+    # (bras-cubas), not the localized title, because the canonical edition IS the source (the pipeline
+    # already emits routeSlug=bras-cubas). LEAF_POLICY stays prefix-only (bare segmentPrefix leaves).
+    "machado-de-assis/bras-cubas": "pt/literatura/machado-de-assis/bras-cubas",
 }
 
 # How the per-segment leaf is formed (the second website-owned knob). ACTIVE policy is "prefix-only"

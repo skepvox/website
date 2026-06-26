@@ -5,5 +5,7 @@ sidebar: false
 aside: false
 footer: false
 outline: false
+pipelineWorkId: "louis-lavelle/introduction-a-l-ontologie"
+pipelineLanguage: pt
 generated: pipeline-work-hub
 ---

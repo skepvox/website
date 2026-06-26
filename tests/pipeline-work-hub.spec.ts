@@ -16,7 +16,10 @@ const ORIGIN = 'https://www.skepvox.com'
 const NS = '/pt/filosofia/louis-lavelle/introducao-a-ontologia/'
 
 const read = (p: string) => JSON.parse(fs.readFileSync(p, 'utf-8'))
-const ptSegments = () => read(META).segments.filter((s: any) => s.language === 'pt')
+const ptSegments = () =>
+  read(META).segments.filter(
+    (s: any) => s.workId === 'louis-lavelle/introduction-a-l-ontologie' && s.language === 'pt'
+  )
 
 function builtExists(href: string): boolean {
   if (href.endsWith('/')) return fs.existsSync(path.join(DIST, href, 'index.html'))

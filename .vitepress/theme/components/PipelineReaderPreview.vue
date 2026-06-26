@@ -23,6 +23,7 @@ interface Level {
 }
 interface MetaSeg {
   canonicalId: string
+  workId: string
   language: string
   segmentPrefix: string
   order: number
@@ -37,9 +38,12 @@ interface WindowSeg {
   bodyHtml: string
 }
 
+// This reading-review reader previews the Lavelle pilot export specifically; with the multi-work
+// artifact (B2) it selects that work's segments by workId so another book's pt segments never bleed in.
+const WORK_ID = 'louis-lavelle/introduction-a-l-ontologie'
 const LANG = 'pt'
 const ptSegs = (meta.segments as MetaSeg[])
-  .filter((s) => s.language === LANG)
+  .filter((s) => s.workId === WORK_ID && s.language === LANG)
   .sort((a, b) => a.order - b.order)
 
 // The ONLY prose-bearing data: the small window (current + nearby), keyed by segmentPrefix.

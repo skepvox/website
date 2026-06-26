@@ -16,7 +16,9 @@ const HUB = '/pt/filosofia/louis-lavelle/introducao-a-ontologia/'
 const read = (p: string) => JSON.parse(fs.readFileSync(p, 'utf-8'))
 const ptByOrder = () =>
   read(META)
-    .segments.filter((s: any) => s.language === 'pt')
+    .segments.filter(
+      (s: any) => s.workId === 'louis-lavelle/introduction-a-l-ontologie' && s.language === 'pt'
+    )
     .sort((a: any, b: any) => a.order - b.order)
 const routeOf = (s: any) => `/${s.routePath}`
 

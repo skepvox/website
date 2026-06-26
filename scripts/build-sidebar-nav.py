@@ -69,9 +69,10 @@ def pipeline_route_index() -> dict[str, int]:
         return {}
     data = load_json(PIPELINE_EXPORT)
     routes: dict[str, int] = {}
-    for edition in data.get("work", {}).get("editions", []):
-        route = f"/{edition['routePrefix']}"
-        routes[route] = int(edition.get("segmentCount", 0))
+    for work in data.get("works", []):  # multi-work (B2): every vendored work's editions
+        for edition in work.get("editions", []):
+            route = f"/{edition['routePrefix']}"
+            routes[route] = int(edition.get("segmentCount", 0))
     return routes
 
 

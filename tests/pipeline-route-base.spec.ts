@@ -63,9 +63,11 @@ function project(
   return JSON.parse(execFileSync('python3', args, { encoding: 'utf-8' }))
 }
 
+// This guard is about the Lavelle A2/IA-2 move specifically; scope to that work (the multi-work artifact
+// also carries bras-cubas pt under a different ROUTE_BASE, covered in pipeline-export.spec).
 function ptSegments(): any[] {
   return read(META)
-    .segments.filter((s: any) => s.language === 'pt')
+    .segments.filter((s: any) => s.workId === WORK_ID && s.language === 'pt')
     .sort((a: any, b: any) => a.order - b.order)
 }
 const samplePt = () => ptSegments()[0]
@@ -86,10 +88,11 @@ test.describe('ROUTE_BASE projection (slice A2 / IA-2 live architecture guard)',
 
   test('the committed export reflects the live move: every pt route is locale-rooted + a bare segmentPrefix', () => {
     const data = read(META)
-    const ptEdition = data.work.editions.find((e: any) => e.language === 'pt')
-    const frEdition = data.work.editions.find((e: any) => e.language === 'fr')
+    const work = data.works.find((w: any) => w.workId === WORK_ID)
+    const ptEdition = work.editions.find((e: any) => e.language === 'pt')
+    const frEdition = work.editions.find((e: any) => e.language === 'fr')
     expect(ptEdition.routePrefix).toBe(LIVE_BASE)
-    for (const s of data.segments.filter((x: any) => x.language === 'pt')) {
+    for (const s of data.segments.filter((x: any) => x.workId === WORK_ID && x.language === 'pt')) {
       expect(s.routePath).toBe(`${LIVE_BASE}/${s.segmentPrefix}`) // prefix + bare segmentPrefix, no slug tail
     }
     // the fr source edition is left at its old locale-less path and generates no page

@@ -47,8 +47,9 @@ test.describe('pipeline publication gate (Slice 2K/2L, stability-aware; pt minte
 
   test('the vendored export now has 99 stable pt routes with publicSlug; fr stays draft/null', () => {
     const segs = read(META).segments
-    const pt = segs.filter((s: any) => s.language === 'pt')
-    const fr = segs.filter((s: any) => s.language === 'fr')
+    const LAV = 'louis-lavelle/introduction-a-l-ontologie'
+    const pt = segs.filter((s: any) => s.workId === LAV && s.language === 'pt')
+    const fr = segs.filter((s: any) => s.workId === LAV && s.language === 'fr')
     expect(pt.length).toBe(99)
     expect(fr.length).toBe(99)
     for (const s of pt) {

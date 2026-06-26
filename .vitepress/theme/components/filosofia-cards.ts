@@ -7,7 +7,8 @@ import type { CardGridItem } from './cards'
 // src/louis-lavelle/works.json is NOT reintroduced for it. A re-projection of the route (A2, or a
 // future locale move) flows through automatically. The export carries no reader-facing blurb, so a
 // small hand-curated blurb keyed by the pt routeSlug supplies the card description (generic fallback).
-// The export is single-work today; `[meta.work]` generalizes to a list when more books vendor.
+// The export is multi-work (B2): iterate `meta.works` and keep only this author's filosofia editions —
+// the routePrefix filter excludes works rooted under other sections (e.g. literatura/bras-cubas).
 
 const WORK_BLURBS: Record<string, string> = {
   'introducao-a-ontologia': 'Edição em português, organizada por trechos para leitura.'
@@ -16,7 +17,7 @@ const WORK_BLURBS: Record<string, string> = {
 // Cards for one author's published filosofia works, in the order the export lists them.
 export function filosofiaWorkCards(authorSlug: string): CardGridItem[] {
   const cards: CardGridItem[] = []
-  for (const work of [meta.work]) {
+  for (const work of meta.works) {
     if (work.authorSlug !== authorSlug) continue
     const pt = work.editions.find((e) => e.language === 'pt')
     // only the published pt edition, and only when it is locale-rooted under this author's filosofia hub

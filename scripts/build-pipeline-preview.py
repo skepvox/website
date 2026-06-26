@@ -29,6 +29,10 @@ OUT_SEGMENT = ROOT / ".vitepress" / "theme" / "data" / "pipeline-preview-segment
 OUT_WINDOW = ROOT / ".vitepress" / "theme" / "data" / "pipeline-preview-window.json"
 PROSE_ROOT = ROOT.parent / "skepvox-book-pipeline" / "export" / "prose"
 
+# These previews are of the Lavelle pilot export specifically; with the multi-work artifact (B2) the
+# work + its segments are selected by workId so other works (e.g. bras-cubas pt) never bleed in.
+WORK_ID = "louis-lavelle/introduction-a-l-ontologie"
+
 # Single-leaf preview (2E): pt, a Part 1 / chapter "Ser" body paragraph.
 SELECTED_LANGUAGE = "pt"
 SELECTED_PREFIX = "00-01-002-008"
@@ -88,13 +92,19 @@ def _payload(record: dict, work: dict) -> dict | None:
     }
 
 
+def _work(meta: dict) -> dict:
+    return next(w for w in meta["works"] if w["workId"] == WORK_ID)
+
+
 def build_single(meta: dict) -> dict | None:
-    work = meta["work"]
+    work = _work(meta)
     record = next(
         (
             s
             for s in meta["segments"]
-            if s["language"] == SELECTED_LANGUAGE and s["segmentPrefix"] == SELECTED_PREFIX
+            if s["workId"] == WORK_ID
+            and s["language"] == SELECTED_LANGUAGE
+            and s["segmentPrefix"] == SELECTED_PREFIX
         ),
         None,
     )
@@ -113,12 +123,13 @@ def build_single(meta: dict) -> dict | None:
 
 
 def build_window(meta: dict) -> dict | None:
-    work = meta["work"]
+    work = _work(meta)
     records = sorted(
         (
             s
             for s in meta["segments"]
-            if s["language"] == WINDOW_LANGUAGE
+            if s["workId"] == WORK_ID
+            and s["language"] == WINDOW_LANGUAGE
             and WINDOW_ORDER_MIN <= s["order"] <= WINDOW_ORDER_MAX
         ),
         key=lambda s: s["order"],

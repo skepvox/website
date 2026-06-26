@@ -76,7 +76,9 @@ test.describe('post-move discovery hygiene (Slice 2P + A4, one canonical pt read
     expect(hub).not.toMatch(/name="robots"[^>]*content="noindex"/)
     expect(sitemap()).toMatch(/introducao-a-ontologia\/?<\/loc>/)
     // 99 pt segment pages build and are indexable
-    const pt = read(META).segments.filter((s: any) => s.language === 'pt')
+    const pt = read(META).segments.filter(
+      (s: any) => s.workId === 'louis-lavelle/introduction-a-l-ontologie' && s.language === 'pt'
+    )
     expect(pt.length).toBe(99)
     for (const s of pt) expect(builtExists(`/${s.routePath}`)).toBe(true)
     const seg = fs.readFileSync(

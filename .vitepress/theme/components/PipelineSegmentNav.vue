@@ -28,6 +28,7 @@ interface Level {
 }
 interface Seg {
   canonicalId: string
+  workId: string
   language: string
   order: number
   displayTitle: string
@@ -40,6 +41,9 @@ const { frontmatter } = useData()
 const isPipelineLeaf = computed(() => frontmatter.value.generated === 'pipeline-segment-routes')
 const canonicalId = computed(() => frontmatter.value.pipelineCanonicalId as string)
 const lang = computed(() => frontmatter.value.pipelineLanguage as string)
+// workId = canonicalId minus the segmentPrefix leaf — the per-work filter, so prev/next stay within ONE
+// work (multi-work artifact, B2) and never jump across books that share a language.
+const workId = computed(() => canonicalId.value?.split('/').slice(0, -1).join('/'))
 
 // Owned visible + aria labels, language-keyed from the shared reader-shell module (no pt hard-code;
 // fr/en inherit from the data via pipelineLanguage).
@@ -48,12 +52,13 @@ const prevText = computed(() => prevLabelFor(lang.value))
 const nextText = computed(() => nextLabelFor(lang.value))
 const upText = computed(() => navLabelFor(lang.value))
 
-// Same-language edition, ordered by `order` — the canonical reading sequence. Filtering by language
-// guarantees prev/next never cross editions (no fr routes, no old chapter routes).
+// Same-work, same-language edition, ordered by `order` — the canonical reading sequence. Filtering by
+// (workId, language) guarantees prev/next never cross works or editions (no other book, no fr routes,
+// no old chapter routes).
 const edition = computed<Seg[]>(() =>
   isPipelineLeaf.value
     ? (meta.segments as Seg[])
-        .filter((s) => s.language === lang.value)
+        .filter((s) => s.workId === workId.value && s.language === lang.value)
         .sort((a, b) => a.order - b.order)
     : []
 )

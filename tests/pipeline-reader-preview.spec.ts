@@ -52,7 +52,9 @@ function codeRefs(needle: string): string[] {
 test.describe('pipeline-export reader prototype (Slice 2G, buffer/noindex, no route migration)', () => {
   test('performance boundary: full-work overview is metadata-only; prose is window-only', () => {
     const meta = read(META)
-    const pt = meta.segments.filter((s: any) => s.language === 'pt')
+    const pt = meta.segments.filter(
+      (s: any) => s.workId === 'louis-lavelle/introduction-a-l-ontologie' && s.language === 'pt'
+    )
     expect(pt.length).toBe(99)
     // the full-work source carries NO prose bodies (overview is metadata only)
     expect(meta.segments.every((s: any) => !('bodyHtml' in s))).toBe(true)

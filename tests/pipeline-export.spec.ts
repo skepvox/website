@@ -19,7 +19,11 @@ const PIPE_PROSE = path.resolve(
 )
 const SRC_WORK = path.resolve('src/louis-lavelle/introduction-a-l-ontologie')
 
+const LAVELLE = 'louis-lavelle/introduction-a-l-ontologie'
+const BRAS = 'machado-de-assis/bras-cubas'
+
 const artifact = () => JSON.parse(fs.readFileSync(ARTIFACT, 'utf-8'))
+const workSegs = (workId: string) => artifact().segments.filter((s: any) => s.workId === workId)
 
 // cleanUrls: dir routes -> index.html, leaf routes -> <href>.html
 function builtExists(href: string): boolean {
@@ -54,8 +58,8 @@ test.describe('pipeline-export ingestion (Slice 2B: vendor + reshape, no routes)
     expect(out).toBe('No pipeline-export changes.')
   })
 
-  test('198 records, 99 fr + 99 pt, paired by canonicalId', () => {
-    const segs = artifact().segments
+  test('Lavelle: 198 records, 99 fr + 99 pt, paired by canonicalId', () => {
+    const segs = workSegs(LAVELLE)
     expect(segs.length).toBe(198)
     const fr = segs.filter((s: any) => s.language === 'fr')
     const pt = segs.filter((s: any) => s.language === 'pt')
@@ -67,15 +71,15 @@ test.describe('pipeline-export ingestion (Slice 2B: vendor + reshape, no routes)
     expect([...frIds].sort()).toEqual([...ptIds].sort())
   })
 
-  test('every metadata record has a matching pipeline prose leaf', () => {
-    for (const s of artifact().segments) {
+  test('every Lavelle metadata record has a matching pipeline prose leaf', () => {
+    for (const s of workSegs(LAVELLE)) {
       const leaf = path.join(PIPE_PROSE, s.language, `${s.segmentPrefix}.md`)
       expect(fs.existsSync(leaf), leaf).toBe(true)
     }
   })
 
-  test('every pipeline prose leaf has a matching metadata record', () => {
-    const recs = new Set(artifact().segments.map((s: any) => `${s.language}/${s.segmentPrefix}`))
+  test('every Lavelle pipeline prose leaf has a matching metadata record', () => {
+    const recs = new Set(workSegs(LAVELLE).map((s: any) => `${s.language}/${s.segmentPrefix}`))
     for (const language of ['fr', 'pt']) {
       for (const f of fs.readdirSync(path.join(PIPE_PROSE, language))) {
         if (!f.endsWith('.md')) continue
@@ -84,9 +88,9 @@ test.describe('pipeline-export ingestion (Slice 2B: vendor + reshape, no routes)
     }
   })
 
-  test('routePath is unique across all 198 records', () => {
+  test('routePath is unique across all records (both works)', () => {
     const segs = artifact().segments
-    expect(new Set(segs.map((s: any) => s.routePath)).size).toBe(198)
+    expect(new Set(segs.map((s: any) => s.routePath)).size).toBe(segs.length)
   })
 
   test('the artifact and every record are tagged source:"pipeline-export"', () => {
@@ -148,7 +152,8 @@ test.describe('pipeline-export ingestion (Slice 2B: vendor + reshape, no routes)
       'theme/components/PipelineReaderPreview.vue',
       'theme/components/PipelineSegmentNav.vue',
       'theme/components/PipelineWorkContents.vue',
-      'theme/components/filosofia-cards.ts'
+      'theme/components/filosofia-cards.ts',
+      'theme/components/literatura-cards.ts'
     ])
     expect(codeRefs('segment-manifest')).toEqual([
       'theme/components/WorkContents.vue',
@@ -160,5 +165,73 @@ test.describe('pipeline-export ingestion (Slice 2B: vendor + reshape, no routes)
     )
     expect(mount).toContain("new Set(['literatura/machado-de-assis/bras-cubas.md'])")
     expect(mount.includes('introduction-a-l-ontologie')).toBe(false)
+  })
+})
+
+// B2 — the multi-work ingestion invariants + a few representative Brás Cubas samples, in ONE place (not
+// duplicated across specs, not a per-book explosion). The reshaper/route/page mechanics are already
+// covered generically by the existing specs; these lock the second work's identity + projection.
+test.describe('pipeline-export multi-work ingestion (B2: Lavelle + Brás Cubas)', () => {
+  test('the artifact is multi-work: works[] lists both works; the singular work key is gone', () => {
+    const a = artifact()
+    expect(Array.isArray(a.works)).toBe(true)
+    expect('work' in a).toBe(false)
+    expect(a.works.map((w: any) => w.workId).sort()).toEqual([BRAS, LAVELLE].sort())
+  })
+
+  test('Brás Cubas: 163 pt records, prefix-only routePath under /pt/literatura/, draft (no publicSlug)', () => {
+    const segs = workSegs(BRAS)
+    expect(segs.length).toBe(163)
+    expect(segs.every((s: any) => s.language === 'pt')).toBe(true)
+    for (const s of segs) {
+      expect(s.routePath).toBe(`pt/literatura/machado-de-assis/bras-cubas/${s.segmentPrefix}`)
+      expect(s.urlStability).toBe('draft')
+      expect(s.publicSlug).toBeNull()
+    }
+  })
+
+  test('the work-specific route prefix lives in route_base.py, never hardcoded in a component', () => {
+    expect(fs.readFileSync(path.resolve('scripts/route_base.py'), 'utf-8')).toContain(
+      'pt/literatura/machado-de-assis/bras-cubas'
+    )
+    // No component ASSEMBLES the prefix in code (doc comments may reference the route — stripped, matching
+    // the pipeline-route-base.spec convention). Components derive every href from routePath (the data).
+    const stripComments = (s: string) =>
+      s
+        .replace(/<!--[\s\S]*?-->/g, '')
+        .replace(/\/\*[\s\S]*?\*\//g, '')
+        .replace(/(^|[^:])\/\/.*$/gm, '$1')
+    const comps = path.resolve('.vitepress/theme/components')
+    for (const f of fs.readdirSync(comps).filter((n) => /\.(vue|ts)$/.test(n))) {
+      expect(
+        stripComments(fs.readFileSync(path.join(comps, f), 'utf-8')).includes(
+          'pt/literatura/machado-de-assis/bras-cubas'
+        ),
+        f
+      ).toBe(false)
+    }
+  })
+
+  test('representative authored titles: identity preserved, never the body sentence', () => {
+    const by = new Map(workSegs(BRAS).map((s: any) => [s.segmentPrefix, s]))
+    // ch 53: the authored dotted marker — not empty, not the Virgília body sentence
+    expect(by.get('00-00-053-056').displayTitle).toBe('.......')
+    expect(by.get('00-00-053-056').displayTitle.includes('Virgília')).toBe(false)
+    // ch 83 / 110: authored numeral titles preserved verbatim
+    expect(by.get('00-00-083-086').displayTitle).toBe('13')
+    expect(by.get('00-00-110-113').displayTitle).toBe('31')
+    // front matter + last chapter
+    expect(by.get('00-00-000-001').displayTitle).toBe('Dedicatória')
+    expect(by.get('00-00-160-163').displayTitle).toBe('Das negativas')
+  })
+
+  test('Brás Cubas is chapter-level (flat): 160 single-chapter body groupPaths, 3 empty front-matter', () => {
+    const segs = workSegs(BRAS)
+    const body = segs.filter((s: any) => s.groupPath.length > 0)
+    expect(body.length).toBe(160)
+    expect(
+      body.every((s: any) => s.groupPath.length === 1 && s.groupPath[0].kind === 'chapter')
+    ).toBe(true)
+    expect(segs.filter((s: any) => s.groupPath.length === 0).length).toBe(3)
   })
 })

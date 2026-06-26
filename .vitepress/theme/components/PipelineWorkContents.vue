@@ -19,16 +19,16 @@ import {
 // Chapters are real disclosure buttons, default-collapsed for mobile density; the front matter and
 // the two parts stay visible so the skeleton is always understandable. routePath is presentation
 // only (the href); identity (canonicalId / segmentPrefix) is never shown nor used as a link.
-const props = withDefaults(
-  defineProps<{ workId?: string; language?: string; title?: string; author?: string }>(),
-  {
-    workId: 'louis-lavelle/introduction-a-l-ontologie',
-    language: 'pt',
-    title: 'Introdução à ontologia',
-    author: 'Louis Lavelle'
-  }
-)
+const props = withDefaults(defineProps<{ workId?: string; language?: string }>(), {
+  workId: 'louis-lavelle/introduction-a-l-ontologie',
+  language: 'pt'
+})
 
+interface Work {
+  workId: string
+  title: string
+  author: string
+}
 interface Level {
   kind: string
   index: number
@@ -47,12 +47,18 @@ interface Seg {
   groupPath: Level[]
 }
 
+// Title + author come from the work record in the SAME pipeline-export metadata (looked up by workId),
+// so the hub never hard-codes a per-work title and any work the Mount points at renders correctly.
+const work = computed(() => (meta.works as Work[]).find((w) => w.workId === props.workId))
+const workTitle = computed(() => work.value?.title ?? props.workId)
+const author = computed(() => work.value?.author ?? '')
+
 // Per-language labels come from the shared ./reader-shell module (Slice F2) so the hub, the leaf
 // location path, and the bottom nav share one vocabulary. The front-matter "Abertura" group label and
 // the bibliographic edition line ("<author> — edição em português") are the same records.
 const navLabel = computed(() => navLabelFor(props.language))
 const openingLabel = computed(() => openingLabelFor(props.language))
-const editionLine = computed(() => editionLineFor(props.author, props.language))
+const editionLine = computed(() => editionLineFor(author.value, props.language))
 
 const segs = computed(() =>
   (meta.segments as Seg[])
@@ -61,59 +67,89 @@ const segs = computed(() =>
     .sort((a, b) => a.order - b.order)
 )
 
-// Bucketing mirrors the hub generator (scripts/build-pipeline-segment-routes.py build_hub): a loose
-// front-matter list, then Part → Chapter, with the trailing conclusion sentinels (empty groupPath,
-// 99-99-999 prefix) folded into the final chapter so they read continuously.
+// Bucketing mirrors the export structure: a loose front-matter list, then either Part → Chapter →
+// Segment (a parted, paragraph-level work like Lavelle, with trailing 99-99-999 conclusion sentinels
+// folded into the final chapter) OR a flat chapter list (a part-less, chapter-level work like Brás
+// Cubas, where each segment IS a chapter — rendered as direct links, no disclosure). The branch is
+// chosen per segment from its groupPath kinds, not from the work id.
 interface Chapter {
   key: string
   domId: string
   title: string
   segments: Seg[]
 }
+interface FlatEntry {
+  canonicalId: string
+  routePath: string
+  segmentPrefix: string
+  number: number
+  title: string
+}
 type LooseBlock = { type: 'loose'; key: string; segments: Seg[] }
 type PartBlock = { type: 'part'; key: string; heading: string; chapters: Chapter[] }
+type FlatBlock = { type: 'flat'; key: string; entries: FlatEntry[] }
+type Block = LooseBlock | PartBlock | FlatBlock
 
-const blocks = computed<(LooseBlock | PartBlock)[]>(() => {
-  const out: (LooseBlock | PartBlock)[] = []
-  let group: LooseBlock | PartBlock | null = null
+const blocks = computed<Block[]>(() => {
+  const out: Block[] = []
+  let group: Block | null = null
   let chapter: Chapter | null = null
   for (const rec of segs.value) {
     const gp = rec.groupPath
-    if (!gp || gp.length === 0) {
-      if (chapter && rec.segmentPrefix.startsWith('99-99-999')) {
-        chapter.segments.push(rec)
-        continue
-      }
-      if (!group || group.type !== 'loose') {
-        group = { type: 'loose', key: `loose-${out.length}`, segments: [] }
+    const part = gp?.find((l) => l.kind === 'part')
+    const chap = gp?.find((l) => l.kind === 'chapter')
+    // Conclusion sentinels (empty groupPath, 99-99-999 prefix) fold into the current parted chapter.
+    if (chapter && (!gp || gp.length === 0) && rec.segmentPrefix.startsWith('99-99-999')) {
+      chapter.segments.push(rec)
+      continue
+    }
+    if (part && chap) {
+      // Parted, paragraph-level: Part → Chapter (disclosure) → Segment.
+      if (!group || group.type !== 'part' || group.key !== part.key) {
+        group = {
+          type: 'part',
+          key: part.key,
+          heading: part.label + (part.title ? ` — ${part.title}` : ''),
+          chapters: []
+        }
         out.push(group)
         chapter = null
       }
-      group.segments.push(rec)
+      if (!chapter || chapter.key !== chap.key) {
+        chapter = {
+          key: chap.key,
+          domId: 'pwc-' + chap.key.replace(/[^a-z0-9]+/gi, '-'),
+          title: chap.title || chap.label,
+          segments: []
+        }
+        group.chapters.push(chapter)
+      }
+      chapter.segments.push(rec)
       continue
     }
-    const part = gp[0]
-    const chap = gp[1]
-    if (!group || group.type !== 'part' || group.key !== part.key) {
-      group = {
-        type: 'part',
-        key: part.key,
-        heading: part.label + (part.title ? ` — ${part.title}` : ''),
-        chapters: []
+    if (chap) {
+      // Part-less, chapter-level: each segment is a whole chapter → a direct link in a flat list.
+      if (!group || group.type !== 'flat') {
+        group = { type: 'flat', key: `flat-${out.length}`, entries: [] }
+        out.push(group)
+        chapter = null
       }
+      group.entries.push({
+        canonicalId: rec.canonicalId,
+        routePath: rec.routePath,
+        segmentPrefix: rec.segmentPrefix,
+        number: chap.index,
+        title: rec.displayTitle
+      })
+      continue
+    }
+    // Loose front matter (empty groupPath) → the "Abertura" opening list.
+    if (!group || group.type !== 'loose') {
+      group = { type: 'loose', key: `loose-${out.length}`, segments: [] }
       out.push(group)
       chapter = null
     }
-    if (!chapter || chapter.key !== chap.key) {
-      chapter = {
-        key: chap.key,
-        domId: 'pwc-' + chap.key.replace(/[^a-z0-9]+/gi, '-'),
-        title: chap.title || chap.label,
-        segments: []
-      }
-      group.chapters.push(chapter)
-    }
-    chapter.segments.push(rec)
+    group.segments.push(rec)
   }
   return out
 })
@@ -147,12 +183,13 @@ const chapterKeyOf = computed(() => {
   const map = new Map<string, string | null>()
   for (const b of blocks.value) {
     if (b.type === 'loose') for (const s of b.segments) map.set(s.segmentPrefix, null)
+    else if (b.type === 'flat') for (const e of b.entries) map.set(e.segmentPrefix, null)
     else for (const ch of b.chapters) for (const s of ch.segments) map.set(s.segmentPrefix, ch.key)
   }
   return map
 })
 const currentPrefix = ref<string | null>(null)
-const isCurrent = (s: Seg) => s.segmentPrefix === currentPrefix.value
+const isCurrent = (s: { segmentPrefix: string }) => s.segmentPrefix === currentPrefix.value
 
 function restoreCollapse() {
   try {
@@ -190,7 +227,7 @@ onMounted(() => {
 <template>
   <section v-if="blocks.length" class="pwc-shell" aria-labelledby="pwc-title">
     <header class="pwc__head">
-      <h1 id="pwc-title" class="pwc__title">{{ title }}</h1>
+      <h1 id="pwc-title" class="pwc__title">{{ workTitle }}</h1>
       <p class="pwc__edition">{{ editionLine }}</p>
     </header>
     <nav class="pwc" :aria-label="navLabel">
@@ -211,6 +248,24 @@ onMounted(() => {
               :href="`/${s.routePath}`"
               :current="isCurrent(s)"
               >{{ s.displayTitle }}</SkLink
+            >
+          </div>
+        </section>
+
+        <!-- Part-less, chapter-level work (e.g. Brás Cubas): a flat list of chapter links, each prefixed
+             by a quiet chapter number so punctuation-only / numeral authored titles (ch 53 "......."; ch
+             83 "13") stay legible and navigable. No disclosure — each segment is a whole chapter. -->
+        <section v-else-if="block.type === 'flat'" class="pwc__chapters">
+          <div class="pwc__loose">
+            <SkLink
+              v-for="e in block.entries"
+              :key="e.canonicalId"
+              class="pwc__link pwc__link--chapter"
+              :class="{ 'is-current': isCurrent(e) }"
+              :href="`/${e.routePath}`"
+              :current="isCurrent(e)"
+              ><span class="pwc__chapter-num" aria-hidden="true">{{ e.number }}</span
+              >{{ e.title }}</SkLink
             >
           </div>
         </section>
@@ -423,6 +478,26 @@ onMounted(() => {
 /* Front-matter links sit flush (no chapter indent). */
 .pwc__link--loose {
   padding-left: 0;
+}
+
+/* Part-less chapter links (Brás Cubas) sit flush like the opening list. The chapter number is a quiet,
+   tabular fixed-width tab so titles align and punctuation-only / numeral authored titles stay legible. */
+.pwc__link--chapter {
+  display: flex;
+  align-items: baseline;
+  padding-left: 0;
+}
+.pwc__chapter-num {
+  flex: 0 0 auto;
+  min-width: 2.5rem;
+  margin-right: 0.5rem;
+  font-size: 0.82em;
+  font-variant-numeric: tabular-nums;
+  color: var(--sk-reading-muted);
+}
+.pwc__link--chapter.is-current {
+  box-shadow: none;
+  font-weight: 600;
 }
 
 /* Slice E: the expanded segment rows sit at the 44px tap-target floor (min-height 44px, contiguous),
