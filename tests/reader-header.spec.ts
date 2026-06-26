@@ -159,18 +159,90 @@ test.describe('PipelineReaderHeader — Slice F1 reader-location path', () => {
     await expect(page.locator('.VPContentDoc h3')).toHaveCount(1)
   })
 
-  test('conclusion sentinel (99-99-999, empty groupPath): Sumário · <segment> — NOT mislabelled "Abertura"', async ({
+  test('conclusion sentinel (99-99-999, empty groupPath): FOLDS into the last authored chapter — never mislabelled "Abertura"', async ({
     page
   }) => {
     await page.goto(routeOf(LAST))
     const loc = page.locator('nav.pseg-loc')
     await expect(loc).toHaveCount(1)
-    await expect(loc).not.toContainText('Abertura') // conclusion is not the opening
-    await expect(loc.locator('h2')).toHaveCount(0)
+    await expect(loc).not.toContainText('Abertura') // a conclusion is NOT the opening
+    // the hub folds these back-matter sentinels into the last chapter; the path matches by inheriting
+    // the nearest prior authored part/chapter (Slice F4 look-back fold of REAL data, not invented)
+    await expect(loc).toContainText('Segunda parte')
+    await expect(loc.locator('h2')).toHaveText('Conexão')
     await expect(loc.locator('h3')).toHaveText('Parágrafo 98')
     await expect(loc.locator('h3')).toHaveAttribute('aria-current', 'location')
-    await expect(loc.locator('a')).toHaveCount(1) // only Sumário
+    // Sumário + the folded Chapter are the two links; the Chapter returns to its #trecho on the hub,
+    // which the hub maps onto the same last chapter the sentinel was folded into
+    await expect(loc.locator('a')).toHaveCount(2)
     await expect(loc.locator('a').first()).toHaveAttribute('href', HUB)
+    await expect(loc.locator('h2 a')).toHaveAttribute('href', `${HUB}#trecho-99-99-999-099`)
+    // proper SEO outline (h2 → h3), no lone h3, nothing duplicated into the prose body
+    await expect(page.locator('.VPContentDoc h2')).toHaveCount(1)
+    await expect(page.locator('.VPContentDoc h3')).toHaveCount(1)
+    await expect(page.locator('.VPContentDoc .vt-doc h2, .VPContentDoc .vt-doc h3')).toHaveCount(0)
+  })
+
+  test('hardening: a long chapter title wraps the path gracefully — no horizontal overflow, current segment still on its own line', async ({
+    page
+  }) => {
+    await page.setViewportSize({ width: 360, height: 720 })
+    await page.goto(routeOf(MID))
+    // inject a synthetic long chapter title (no route/fixture change) to stress the wrap
+    await page
+      .locator('nav.pseg-loc h2 a')
+      .evaluate((el) => (el.textContent = 'Da natureza das coisas humanas e divinas'))
+    const r = await page.evaluate(() => {
+      const doc = document.documentElement
+      const seg = document.querySelector('nav.pseg-loc h3')!.getBoundingClientRect()
+      const ancBottoms = [...document.querySelectorAll('nav.pseg-loc .pseg-loc__rung')].map(
+        (e) => e.getBoundingClientRect().bottom
+      )
+      return {
+        hOverflow: doc.scrollWidth > doc.clientWidth + 1,
+        segBelowAncestors: seg.top >= Math.max(...ancBottoms) - 2
+      }
+    })
+    expect(r.hOverflow).toBe(false) // the breadcrumb never overflows the reading column horizontally
+    expect(r.segBelowAncestors).toBe(true) // the current segment stays on its own line below the ancestors
+  })
+
+  test('separator discipline: rungs are joined by aria-hidden middots only — no chevron, slash, bar, or icon', async ({
+    page
+  }) => {
+    await page.goto(routeOf(MID))
+    const loc = page.locator('nav.pseg-loc')
+    const seps = loc.locator('.pseg-loc__sep')
+    expect(await seps.count()).toBeGreaterThanOrEqual(2)
+    for (const s of await seps.all()) {
+      await expect(s).toHaveText('·') // the editorial middot, kept after the uppercase polish
+      expect(await s.getAttribute('aria-hidden')).toBe('true')
+    }
+    const txt = await loc.innerText()
+    for (const ch of ['>', '/', '›', '»', '→', '|']) expect(txt.includes(ch)).toBe(false)
+    await expect(loc.locator('svg')).toHaveCount(0) // no ReaderIcon / raw svg in the breadcrumb
+  })
+
+  test('hardening: crumb links meet the ~44px touch-target minimum without inflating the line', async ({
+    page
+  }) => {
+    await page.goto(routeOf(MID))
+    const links = page.locator('nav.pseg-loc a.pseg-loc__link')
+    const n = await links.count()
+    expect(n).toBeGreaterThanOrEqual(2)
+    for (let i = 0; i < n; i++) {
+      const h = await links.nth(i).evaluate((el) => el.getBoundingClientRect().height)
+      expect(h).toBeGreaterThanOrEqual(43.5) // Apple HIG / WCAG 2.5.5 ~44px (negative margin cancels the push)
+    }
+  })
+
+  test('hardening: the truncatable Part carries title= so an ellipsised label stays legible', async ({
+    page
+  }) => {
+    await page.goto(routeOf(MID))
+    const part = page.locator('nav.pseg-loc .pseg-loc__part')
+    await expect(part).toHaveAttribute('title', 'Primeira parte')
+    await expect(part).toHaveText('Primeira parte')
   })
 
   test('no fr / old-chapter / reading-review / routePath-as-identity href leak in the path', async ({

@@ -48,29 +48,44 @@ const lang = computed(() => (frontmatter.value.pipelineLanguage as string) || 'p
 
 // Join by (canonicalId, language) — identity, never routePath (presentation). Same source the bottom
 // PipelineSegmentNav uses; metadata only, no prose.
-const current = computed<Seg | null>(() =>
+// Same-language edition, ordered by `order` — the canonical sequence, used to look back from a
+// conclusion sentinel to its authored chapter (the fold). Same source/sort as PipelineSegmentNav.
+const edition = computed<Seg[]>(() =>
   isPipelineLeaf.value
-    ? ((meta.segments as Seg[]).find(
-        (s) => s.canonicalId === canonicalId.value && s.language === lang.value
-      ) ?? null)
-    : null
+    ? (meta.segments as Seg[])
+        .filter((s) => s.language === lang.value)
+        .sort((a, b) => a.order - b.order)
+    : []
+)
+const current = computed<Seg | null>(
+  () => edition.value.find((s) => s.canonicalId === canonicalId.value) ?? null
 )
 
 const navLabel = computed(() => navLabelFor(lang.value))
 const openingLabel = computed(() => openingLabelFor(lang.value))
 const locLabel = computed(() => locLabelFor(lang.value))
 
-const groupPath = computed<Level[]>(() => current.value?.groupPath ?? [])
-const part = computed(() => groupPath.value.find((l) => l.kind === 'part') ?? null)
-const chapterLevel = computed(() => groupPath.value.find((l) => l.kind === 'chapter') ?? null)
-// Conclusion/back-matter sentinels (99-99-999-*, empty groupPath) are NOT the opening — do not label
-// them "Abertura". F1 renders them as Sumário · <segment>; the look-back fold to the last real chapter
-// (matching the hub) is deferred to Slice F4. Only true front matter gets the Abertura rung.
 const isConclusion = computed(
   () => !!current.value && current.value.segmentPrefix.startsWith('99-99-999')
 )
+// Conclusion/back-matter sentinels (99-99-999-*, empty groupPath) are NOT the opening. The hub FOLDS
+// them into the last authored chapter so they read continuously; the path matches by inheriting the
+// nearest prior authored part/chapter (Slice F4 look-back fold — a render-layer fold of EXISTING data,
+// never invented structure), so a conclusion reads "Sumário · <last part> · <last chapter> · <segment>"
+// instead of an orphaned "Sumário · <segment>". True front matter (00-00-000) keeps its Abertura rung.
+const groupPath = computed<Level[]>(() => {
+  const own = current.value?.groupPath ?? []
+  if (own.length > 0 || !isConclusion.value) return own
+  const idx = edition.value.findIndex((s) => s.canonicalId === current.value!.canonicalId)
+  for (let i = idx - 1; i >= 0; i--) {
+    if (edition.value[i].groupPath.length > 0) return edition.value[i].groupPath
+  }
+  return own
+})
+const part = computed(() => groupPath.value.find((l) => l.kind === 'part') ?? null)
+const chapterLevel = computed(() => groupPath.value.find((l) => l.kind === 'chapter') ?? null)
 const isFrontMatter = computed(
-  () => !!current.value && groupPath.value.length === 0 && !isConclusion.value
+  () => !!current.value && (current.value.groupPath?.length ?? 0) === 0 && !isConclusion.value
 )
 
 // Chapter rung text: prefer the JSON groupPath chapter (one source of truth), fall back to the
@@ -110,7 +125,7 @@ const chapterHref = computed(() =>
       <!-- Part (mid-book) — plain text, label only (the long part title stays on the hub) -->
       <li v-if="part" class="pseg-loc__rung pseg-loc__rung--part">
         <span class="pseg-loc__sep" aria-hidden="true">·</span>
-        <span class="pseg-loc__part">{{ part.label }}</span>
+        <span class="pseg-loc__part" :title="part.label">{{ part.label }}</span>
       </li>
       <!-- Abertura (front matter, empty groupPath) — plain text -->
       <li v-else-if="isFrontMatter" class="pseg-loc__rung">
@@ -176,11 +191,20 @@ const chapterHref = computed(() =>
 .pseg-loc__rung--chapter .pseg-head__chapter::before {
   content: none; /* no chapter-opener accent bar */
 }
-/* The Part rung is plain inline text so it baseline-aligns with the other rungs (an inline-block +
-   overflow:hidden would make its baseline the bottom edge and ride the label up). Long-part-label
-   truncation is deferred to Slice F4, which must reinstate it baseline-safely. */
+/* Long-title hardening (Slice F4). The realistic case (pt + the coming fr edition: short part labels
+   "Primeira parte"/"Première partie", short chapter words) keeps the ancestors on one line with the
+   current segment below — two calm lines, no truncation (measured). For unexpectedly long titles the
+   ancestor rungs WRAP to additional lines gracefully: the wrap is baseline-safe per line, never
+   overlaps, and never overflows the column horizontally (the breadcrumb stays inside the reading
+   measure). As a safety net the Part — the lowest-value rung — end-truncates with an ellipsis when it
+   is the sole over-long item on a line; the truncation lives on the flex-item <li> (not an inline-block)
+   so it is baseline-safe (the inline-block-overflow baseline bug applies only to inline-level boxes).
+   The current segment, on its own row, never truncates. */
 .pseg-loc__rung--part {
-  min-width: 0;
+  min-width: 2.5em;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 /* Decorative middot separator — an aria-hidden span kept out of the a11y tree, faint ink. */
@@ -192,7 +216,7 @@ const chapterHref = computed(() =>
 /* The current segment — the one prominent mixed-case line, on its own row (full ink, segtitle). */
 .pseg-loc__current {
   flex-basis: 100%;
-  margin-top: 0.7rem; /* clears the ancestor links' touch-slop so it never overlaps the segment text */
+  margin-top: 0.85rem; /* matches the ancestor links' touch-slop so it never overlaps the segment text */
 }
 .pseg-loc__current .pseg-head__title {
   margin: 0;
@@ -215,8 +239,11 @@ const chapterHref = computed(() =>
    margin (no line inflation); quiet pointer-gated hover. */
 .pseg-loc__link {
   display: inline-block;
-  padding-block: 0.7rem;
-  margin-block: -0.7rem;
+  /* padding + a cancelling negative margin give a ~44px touch box (Apple HIG / WCAG 2.5.5 minimum)
+     without inflating the line — the negative margin removes the padding's layout push, so the rung
+     baseline is unaffected. 0.85rem each side + ~17px content ≈ 44px. */
+  padding-block: 0.85rem;
+  margin-block: -0.85rem;
   color: inherit;
   text-decoration: none;
 }
