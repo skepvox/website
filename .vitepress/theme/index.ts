@@ -9,6 +9,7 @@ import PodcastEpisodeNav from './components/PodcastEpisodeNav.vue'
 import WorkContentsMount from './components/WorkContentsMount.vue'
 import PipelineWorkContentsMount from './components/PipelineWorkContentsMount.vue'
 import PipelineReaderHeader from './components/PipelineReaderHeader.vue'
+import ReaderIcon from './components/ReaderIcon.vue'
 import PipelineExportReview from './components/PipelineExportReview.vue'
 import PipelineSegmentPreview from './components/PipelineSegmentPreview.vue'
 import PipelineWindowPreview from './components/PipelineWindowPreview.vue'
@@ -52,5 +53,8 @@ export default Object.assign({}, VPTheme, {
     ctx.app.component('PipelineSegmentPreview', PipelineSegmentPreview)
     ctx.app.component('PipelineWindowPreview', PipelineWindowPreview)
     ctx.app.component('PipelineReaderPreview', PipelineReaderPreview)
+    // Slice C1: the owned reader-icon wrapper, registered globally so the reader-icon harness buffer
+    // page can render it. No live reader consumer uses it yet (swaps are Slice C2/C3).
+    ctx.app.component('ReaderIcon', ReaderIcon)
   }
 })

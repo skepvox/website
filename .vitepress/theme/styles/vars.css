@@ -33,6 +33,13 @@
   --sk-reading-prose: 1.0625rem; /* reading-leaf body (today implicit 1rem) */
   --sk-reading-current: var(--sk-accent); /* the one structural accent — the current-marker bar */
   --sk-reading-hairline: var(--sk-rule); /* semantic name for the hairline language */
+  /* Owned reader-icon vocabulary (Slice C1). Consumed by the ReaderIcon wrapper; no consumer wired
+     yet. The stroke is rendered with vector-effect:non-scaling-stroke so the value is a constant
+     VISUAL px (1.5px) at any glyph size, per the assessment's "1.5px calm hairline" target. */
+  --sk-icon-size: 1em; /* chrome glyph box — rides the adjacent label's font-size */
+  --sk-icon-touch: var(--sk-reading-row); /* 15px — reserved for a future icon-only control */
+  --sk-icon-stroke: 1.5; /* the calm bookish hairline (NOT lucide's default 2) */
+  --sk-icon-stroke-dark: 1.75; /* dormant dark escape hatch — defined, NOT applied (see assessment §2.4) */
   --sk-cue-active: rgba(181, 148, 84, 0.26); /* muted antique gold "now playing" wash */
   --sk-cue-hover: rgba(33, 53, 71, 0.06); /* neutral pre-click affordance */
 
