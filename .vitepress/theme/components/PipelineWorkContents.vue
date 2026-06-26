@@ -2,6 +2,7 @@
 import { computed, nextTick, onMounted, reactive, ref } from 'vue'
 import meta from '../data/pipeline-export-segments.json'
 import SkLink from './SkLink.vue'
+import ReaderIcon from './ReaderIcon.vue'
 
 // Owned contents map for the pipeline-export pt work hub (Introdução à ontologia). It reads the
 // vendored pipeline-export metadata (../data/pipeline-export-segments.json) — the SAME source the
@@ -223,10 +224,10 @@ onMounted(() => {
             >
               <span class="pwc__chapter-title">{{ ch.title }}</span>
               <span class="pwc__count" aria-hidden="true">{{ ch.segments.length }}</span>
-              <span
+              <ReaderIcon
+                name="disclosure"
                 class="pwc__chevron"
                 :class="{ 'is-open': isOpen(ch.key) }"
-                aria-hidden="true"
               />
             </button>
             <div
@@ -361,15 +362,14 @@ onMounted(() => {
   color: var(--sk-text-faint);
 }
 
+/* The disclosure glyph is the owned right-chevron (ReaderIcon), rotating 90° to point down when the
+   chapter opens. Coloured by a meaning-bearing muted ink via currentColor — NEVER opacity-dimmed (the
+   old border-triangle's opacity:0.45 was the dark-mode vanish bug, assessment §2.4). Rotation uses the
+   owned motion tokens; reduced-motion is gated below. */
 .pwc__chevron {
   flex: none;
-  width: 0;
-  height: 0;
-  border-left: 5px solid currentColor;
-  border-top: 4px solid transparent;
-  border-bottom: 4px solid transparent;
-  opacity: 0.45;
-  transition: transform 0.2s ease;
+  color: var(--sk-text-muted);
+  transition: transform var(--sk-motion-fast) var(--sk-ease);
 }
 .pwc__chevron.is-open {
   transform: rotate(90deg);
@@ -414,7 +414,8 @@ onMounted(() => {
 /* Four-state floor: visible hover lift only on real pointer devices (no stuck iOS tap state).
    Keyboard focus + neutral pressed/touch on the links are owned by the SkLink primitive. */
 @media (hover: hover) and (pointer: fine) {
-  .pwc__chapter-heading:hover {
+  .pwc__chapter-heading:hover,
+  .pwc__chapter-heading:hover .pwc__chevron {
     color: var(--sk-reading-heading);
   }
   .pwc__link:hover {

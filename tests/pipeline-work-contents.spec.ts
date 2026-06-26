@@ -1,4 +1,6 @@
 import { test, expect } from '@playwright/test'
+import fs from 'node:fs'
+import path from 'node:path'
 
 // Owned reader-shell proof slice — live interaction for the PipelineWorkContents map on the pt work
 // hub. Runs on the desktop + mobile projects (the tablet project only runs tablet-shell), so the
@@ -155,5 +157,60 @@ test.describe('PipelineWorkContents (owned pt work-hub contents map)', () => {
     expect(size.edition).toBeGreaterThan(0)
     // hierarchy inversion fixed: segment rows are no longer LARGER than their chapter disclosure
     expect(size.row).toBeLessThanOrEqual(size.chapter)
+  })
+
+  test('Slice C3: hub swapped to the owned ReaderIcon disclosure; CSS triangle gone; reduced-motion kept; no ad hoc SVG', () => {
+    const hub = fs.readFileSync(
+      path.resolve('.vitepress/theme/components/PipelineWorkContents.vue'),
+      'utf-8'
+    )
+    // swapped to the owned wrapper, disclosure glyph
+    expect(hub.includes("import ReaderIcon from './ReaderIcon.vue'")).toBe(true)
+    expect(hub.includes('name="disclosure"')).toBe(true) // the owned disclosure glyph
+    // the border-triangle implementation + its opacity-dim are removed
+    expect(hub.includes('border-left: 5px solid currentColor')).toBe(false)
+    expect(hub.includes('opacity: 0.45')).toBe(false)
+    // rotation stays a CSS transform on the wrapper class — NOT a new ReaderIcon prop
+    expect(hub.includes('.pwc__chevron.is-open')).toBe(true)
+    expect(hub.includes('transform: rotate(90deg)')).toBe(true)
+    expect(hub.includes('rotate=')).toBe(false) // no rotate prop on ReaderIcon
+    // reduced-motion still gates the chevron transition
+    expect(/prefers-reduced-motion: reduce[\s\S]*pwc__chevron/.test(hub)).toBe(true)
+    // governance: no per-glyph ad hoc inline SVG in the consumer
+    expect(/<svg[\s>]/.test(hub)).toBe(false)
+    // C2 untouched: PipelineSegmentNav still imports ReaderIcon
+    const nav = fs.readFileSync(
+      path.resolve('.vitepress/theme/components/PipelineSegmentNav.vue'),
+      'utf-8'
+    )
+    expect(nav.includes("import ReaderIcon from './ReaderIcon.vue'")).toBe(true)
+  })
+
+  test('Slice C3: disclosure is a decorative ReaderIcon; rotation toggles with state; name = chapter title', async ({
+    page
+  }) => {
+    await page.goto(HUB)
+    const btn = page.locator('nav.pwc .pwc__chapter-heading').first()
+    const svg = btn.locator('svg.reader-icon')
+    await expect(svg).toHaveCount(1)
+    // decorative: aria-hidden + focusable=false; no <title>
+    expect(await svg.getAttribute('aria-hidden')).toBe('true')
+    expect(await svg.getAttribute('focusable')).toBe('false')
+    await expect(svg.locator('title')).toHaveCount(0)
+    // accessible name = the chapter title only (count + icon are aria-hidden, excluded)
+    const title = ((await btn.locator('.pwc__chapter-title').textContent()) || '').trim()
+    expect(title.length).toBeGreaterThan(0)
+    expect(await btn.locator('.pwc__count').getAttribute('aria-hidden')).toBe('true')
+    // collapsed: rests as a right chevron (no is-open, no rotation)
+    await expect(svg).not.toHaveClass(/is-open/)
+    const collapsed = await svg.evaluate((el) => getComputedStyle(el).transform)
+    // open it: gains is-open and rotates to point down
+    await btn.click()
+    await expect(btn).toHaveAttribute('aria-expanded', 'true')
+    await expect(svg).toHaveClass(/is-open/)
+    await page.waitForTimeout(240) // let the 150ms rotation settle
+    const opened = await svg.evaluate((el) => getComputedStyle(el).transform)
+    expect(opened).not.toBe(collapsed) // rotation changed with state
+    expect(opened).not.toBe('none') // a real 90° transform when open
   })
 })

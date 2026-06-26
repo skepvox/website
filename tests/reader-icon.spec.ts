@@ -106,16 +106,20 @@ test.describe('ReaderIcon foundation (Slice C1, boundary + tokens only)', () => 
     expect(comp).toContain('var(--sk-icon-size)')
   })
 
-  test('Slice C2 done / C3 pending: nav uses ReaderIcon (no text glyphs); hub still has the CSS triangle', () => {
+  test('Slice C2 + C3 done: both reader consumers use ReaderIcon; the hand-rolled glyphs are gone', () => {
     const nav = fs.readFileSync(NAV, 'utf-8')
     const hub = fs.readFileSync(HUB, 'utf-8')
-    // C2: PipelineSegmentNav is swapped to ReaderIcon; the ‹ › ↑ text glyphs are gone
+    // C2: PipelineSegmentNav on ReaderIcon; the ‹ › ↑ text glyphs are gone
     expect(nav.includes("import ReaderIcon from './ReaderIcon.vue'")).toBe(true)
     expect(nav.includes('‹') || nav.includes('›') || nav.includes('↑')).toBe(false)
     expect(nav.includes('Trecho anterior')).toBe(true) // visible label preserved
-    // C3 NOT done yet: the hub disclosure is still the CSS-triangle chevron, no ReaderIcon
-    expect(hub.includes('border-left: 5px solid currentColor')).toBe(true)
-    expect(hub.includes('ReaderIcon')).toBe(false)
+    // C3: PipelineWorkContents on ReaderIcon; the .pwc__chevron CSS triangle is gone
+    expect(hub.includes("import ReaderIcon from './ReaderIcon.vue'")).toBe(true)
+    expect(hub.includes('name="disclosure"')).toBe(true) // the owned disclosure glyph
+    expect(hub.includes('border-left: 5px solid currentColor')).toBe(false)
+    // neither consumer ships an ad hoc inline <svg> — the owned wrapper is the only glyph source
+    expect(/<svg[\s>]/.test(nav)).toBe(false)
+    expect(/<svg[\s>]/.test(hub)).toBe(false)
   })
 
   test('package.json unchanged: no icon dependency added', () => {
