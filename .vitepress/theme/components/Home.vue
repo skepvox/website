@@ -3,126 +3,167 @@ import SkLink from './SkLink.vue'
 </script>
 
 <template>
-  <section id="hero">
-    <h1 class="tagline">
-      <span class="accent">skepvox</span>
-      <br />Engenharia de Letras
-    </h1>
-  </section>
+  <div class="home-index">
+    <header class="home-masthead">
+      <p class="home-masthead__eyebrow">Engenharia de Letras</p>
+      <h1 class="home-masthead__mark">skepvox</h1>
+      <p class="home-masthead__subline">Leituras e estudos pessoais, reunidos em três seções.</p>
+    </header>
 
-  <section id="highlights" class="vt-box-container">
-    <SkLink class="vt-box" href="/pt/filosofia/louis-lavelle/">
-      <h2>Louis Lavelle</h2>
-      <p>
-        Textos de Louis Lavelle, ainda pouco acessíveis, organizados aos poucos para minha própria
-        leitura.
-      </p>
-    </SkLink>
-    <SkLink class="vt-box" href="/literatura/">
-      <h2>Literatura</h2>
-      <p>Obras clássicas em domínio público, reunidas em um formato em que gosto de ler.</p>
-    </SkLink>
-    <SkLink class="vt-box" href="/podcast/">
-      <h2>Podcasts</h2>
-      <p>Episódios que uso para praticar idiomas, com áudio, transcrição e notas.</p>
-    </SkLink>
-  </section>
+    <nav class="home-pillars" aria-label="Seções">
+      <SkLink class="pillar" href="/literatura/">
+        <h2 class="pillar__label">Literatura</h2>
+        <span class="pillar__go" aria-hidden="true">→</span>
+        <p class="pillar__blurb">
+          Clássicos em domínio público, num formato pensado para ler com calma.
+        </p>
+      </SkLink>
+
+      <SkLink class="pillar" href="/pt/filosofia/">
+        <h2 class="pillar__label">Filosofia</h2>
+        <span class="pillar__go" aria-hidden="true">→</span>
+        <p class="pillar__blurb">
+          Textos de filosofia, ainda pouco acessíveis, organizados aos poucos para leitura atenta.
+        </p>
+      </SkLink>
+
+      <SkLink class="pillar" href="/podcast/">
+        <h2 class="pillar__label">Podcasts</h2>
+        <span class="pillar__go" aria-hidden="true">→</span>
+        <p class="pillar__blurb">
+          Episódios para praticar idiomas, com áudio, transcrição e notas.
+        </p>
+      </SkLink>
+    </nav>
+  </div>
 </template>
 
 <style scoped>
-section {
-  padding: 42px 32px;
+/* A6 — the homepage is a calm editorial index into the three site pillars (Literatura / Filosofia /
+   Podcasts), not a marketing hero. A quiet left-aligned masthead (eyebrow -> wordmark -> subline,
+   reusing the PodcastShowHeader rhythm) sits over a hairline table-of-contents; tokens only, no cards,
+   no shadows. The single ink-blue accent is confined to the wordmark + pointer interaction. */
+.home-index {
+  max-width: var(--sk-measure-lede);
+  margin: 0 auto;
+  padding: clamp(2.5rem, 8vh, 5rem) var(--sk-space-5) var(--sk-space-7);
 }
 
-#hero {
-  padding: 96px 32px 64px;
-  text-align: center;
+.home-masthead {
+  margin-bottom: var(--sk-space-7);
 }
 
-.tagline {
-  font-size: 76px;
-  line-height: 1.25;
-  font-weight: 900;
-  letter-spacing: -1.5px;
-  max-width: 960px;
-  margin: 0px auto;
-  color: var(--vt-c-text-1);
+.home-masthead__eyebrow {
+  margin: 0 0 var(--sk-space-2);
+  font-size: var(--sk-text-2xs);
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--sk-reading-muted);
 }
 
-.accent {
-  color: var(--sk-accent);
+.home-masthead__mark {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: var(--sk-masthead); /* clamp(1.85rem, 4vw, 2.25rem) — never the old 76px */
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.12;
+  color: var(--sk-accent); /* the single static use of the structural accent */
 }
 
-#highlights {
-  max-width: 960px;
-  margin: 0px auto;
-  color: var(--vt-c-text-2);
+.home-masthead__subline {
+  max-width: var(--sk-measure-lede);
+  margin: var(--sk-space-3) 0 0;
+  font-size: var(--sk-text-md);
+  line-height: 1.6;
+  color: var(--sk-text-body);
 }
 
-#highlights .vt-box {
-  display: block;
+/* Pillars — a hairline-framed table of contents, identical structure on desktop + mobile. */
+.home-pillars {
+  border-top: 1px solid var(--vt-c-divider);
+}
+
+.pillar {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  column-gap: var(--sk-space-4);
+  row-gap: var(--sk-space-2);
+  align-items: start;
+  padding: var(--sk-space-5) 0;
+  border-bottom: 1px solid var(--vt-c-divider);
   text-decoration: none;
   color: inherit;
-  background-color: var(--sk-surface-raised);
-  border: 1px solid var(--vt-c-divider, #e2e2e3);
-  border-radius: 8px;
-  /* Pillar-sized focus ring: keep SkLink's focus outline on the pillar's own radius. */
-  --sk-link-focus-radius: 8px;
-  transition:
-    border-color var(--sk-motion-base),
-    background-color var(--sk-motion-base);
+  /* SkLink rounds its focus ring to the row's corner radius. */
+  --sk-link-focus-radius: var(--sk-radius-sm);
 }
 
-@media (hover: hover) and (pointer: fine) {
-  #highlights .vt-box:hover {
-    border-color: var(--sk-accent);
-    background-color: var(--sk-surface);
-  }
-}
-
-/* Keyboard focus + neutral pressed/touch are owned by SkLink (components/SkLink.vue);
-   --sk-link-focus-radius on .vt-box keeps the ring on the pillar's corner radius. */
-
-#highlights h2 {
+.pillar__label {
+  grid-column: 1;
+  grid-row: 1;
+  margin: 0;
+  padding: 0;
+  border: 0; /* beat the theme h2 rule (border-top / margin) */
+  font-size: var(--sk-text-xl);
   font-weight: 600;
-  font-size: 20px;
-  letter-spacing: -0.4px;
+  letter-spacing: -0.01em;
   color: var(--vt-c-text-1);
-  transition: color 0.5s;
-  margin-bottom: 0.75em;
+  transition: color var(--sk-motion-base) var(--sk-ease);
 }
 
-#highlights p {
-  font-weight: 400;
+.pillar__go {
+  grid-column: 2;
+  grid-row: 1;
+  font-size: var(--sk-text-lg);
+  line-height: 1.3; /* sits on the title's optical row */
+  color: var(--sk-text-faint);
+  transition:
+    color var(--sk-motion-base) var(--sk-ease),
+    transform var(--sk-motion-base) var(--sk-ease);
+}
+
+.pillar__blurb {
+  grid-column: 1 / -1;
+  grid-row: 2;
+  margin: 0;
   font-size: var(--sk-text-sm);
+  line-height: 1.5;
+  color: var(--sk-text-muted);
 }
 
-@media (max-width: 960px) {
-  .tagline {
-    font-size: 64px;
-    letter-spacing: -0.5px;
+/* Hover is pointer-gated per the SkLink touch contract (never sticks on iOS). */
+@media (hover: hover) and (pointer: fine) {
+  .pillar:hover .pillar__label {
+    color: var(--sk-accent);
+  }
+  .pillar:hover .pillar__go {
+    color: var(--sk-accent);
+    transform: translateX(3px);
   }
 }
 
-@media (max-width: 794px) {
-  .tagline {
-    font-size: 48px;
-    letter-spacing: -0.5px;
+/* Keyboard focus + neutral pressed/touch states are owned by SkLink.vue. */
+
+/* Reduced-motion: zero the arrow nudge. Nested inside the pointer query so no :hover rule is
+   ever ungated (the nav interaction-state standard — hover only under hover+fine). */
+@media (hover: hover) and (pointer: fine) and (prefers-reduced-motion: reduce) {
+  .pillar:hover .pillar__go {
+    transform: none;
   }
 }
 
+/* Mobile — one breakpoint; the 1fr/auto grid is intrinsically responsive, so only padding relaxes. */
 @media (max-width: 576px) {
-  #hero {
-    padding: 56px 32px 42px;
+  .home-index {
+    padding: var(--sk-space-6) var(--sk-space-4) var(--sk-space-6);
   }
-  #highlights .vt-box {
-    padding: 20px 28px;
+  .home-masthead {
+    margin-bottom: var(--sk-space-6);
   }
-}
-
-@media (max-width: 370px) {
-  .tagline {
-    font-size: 36px;
+  .pillar {
+    padding: var(--sk-space-4) 0;
   }
 }
 </style>

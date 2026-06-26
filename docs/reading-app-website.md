@@ -19,6 +19,10 @@
 - The **fr edition** (12 chapter pages + the full-text hub) and the **whole legacy `/louis-lavelle/`
   corpus** were **removed in slice A5** (Phase A complete). The only Lavelle surface now is the
   locale-rooted `/pt/filosofia/louis-lavelle/` hub + the live pt edition; old `/louis-lavelle/` URLs 404.
+- The **homepage + global nav are a three-pillar index** (slice A6, closing Phase A): **Literatura
+  (`/literatura/`) / Filosofia (`/pt/filosofia/`) / Podcasts (`/podcast/`)**. `Home.vue` is a calm
+  editorial masthead + hairline table-of-contents (no marketing hero, no cards), consistent with the
+  reader shell. Literatura + Podcasts keep their current surfaces; no books/podcasts were migrated.
 - **`reading-review/**`** holds internal demo/prototype surfaces (map, single-leaf, windowed reader,
 full-work reader) — all `buffer:true`+`search:false`+`noindex`, out of sitemap/search/LLM.
 

@@ -1,17 +1,17 @@
 ---
 page: true
 title: skepvox — Engenharia de Letras
-description: "Textos de Louis Lavelle, literatura e podcasts que organizo para minha própria leitura e estudo."
+description: "Literatura clássica em domínio público, filosofia e podcasts para praticar idiomas — leituras e estudos pessoais reunidos em três seções."
 head:
   - - link
     - rel: canonical
       href: "https://skepvox.com/"
   - - meta
     - name: description
-      content: "Textos de Louis Lavelle, literatura e podcasts que organizo para minha própria leitura e estudo."
+      content: "Literatura clássica em domínio público, filosofia e podcasts para praticar idiomas — leituras e estudos pessoais reunidos em três seções."
   - - meta
     - name: keywords
-      content: "skepvox, Louis Lavelle, literatura, filosofia, biblioteca digital, obras clássicas"
+      content: "skepvox, literatura, filosofia, podcasts, obras clássicas, biblioteca digital"
   - - meta
     - name: robots
       content: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
@@ -20,7 +20,7 @@ head:
       content: "skepvox — Engenharia de Letras"
   - - meta
     - property: og:description
-      content: "Textos de Louis Lavelle, literatura e podcasts que organizo para minha própria leitura e estudo."
+      content: "Literatura clássica em domínio público, filosofia e podcasts para praticar idiomas — leituras e estudos pessoais reunidos em três seções."
   - - meta
     - property: og:url
       content: "https://skepvox.com/"
@@ -47,7 +47,7 @@ head:
       content: "skepvox — Engenharia de Letras"
   - - meta
     - name: twitter:description
-      content: "Textos de Louis Lavelle, literatura e podcasts que organizo para minha própria leitura e estudo."
+      content: "Literatura clássica em domínio público, filosofia e podcasts para praticar idiomas — leituras e estudos pessoais reunidos em três seções."
   - - meta
     - name: twitter:image
       content: "https://skepvox.com/og-skepvox.png"
@@ -77,7 +77,7 @@ head:
             "url": "https://skepvox.com/",
             "name": "skepvox",
             "alternateName": "Engenharia de Letras",
-            "description": "Textos de Louis Lavelle, literatura e podcasts que organizo para minha própria leitura e estudo.",
+            "description": "Literatura clássica em domínio público, filosofia e podcasts para praticar idiomas — leituras e estudos pessoais reunidos em três seções.",
             "publisher": {
               "@id": "https://skepvox.com/#organization"
             },
@@ -92,14 +92,14 @@ head:
               {
                 "@type": "ListItem",
                 "position": 1,
-                "name": "Louis Lavelle",
-                "url": "https://skepvox.com/pt/filosofia/louis-lavelle/"
+                "name": "Literatura",
+                "url": "https://skepvox.com/literatura/"
               },
               {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Literatura",
-                "url": "https://skepvox.com/literatura/"
+                "name": "Filosofia",
+                "url": "https://skepvox.com/pt/filosofia/"
               },
               {
                 "@type": "ListItem",
@@ -114,7 +114,7 @@ head:
             "@id": "https://skepvox.com/#webpage",
             "url": "https://skepvox.com/",
             "name": "skepvox — Engenharia de Letras",
-            "description": "Textos, obras e podcasts que organizo para minha própria leitura e estudo.",
+            "description": "Literatura, filosofia e podcasts reunidos em três seções para leitura e estudo pessoal.",
             "isPartOf": {
               "@id": "https://skepvox.com/#website"
             },
@@ -124,14 +124,14 @@ head:
             },
             "about": [
               {
-                "@type": "Person",
-                "name": "Louis Lavelle",
-                "url": "https://skepvox.com/pt/filosofia/louis-lavelle/"
-              },
-              {
                 "@type": "Thing",
                 "name": "Literatura",
                 "url": "https://skepvox.com/literatura/"
+              },
+              {
+                "@type": "Thing",
+                "name": "Filosofia",
+                "url": "https://skepvox.com/pt/filosofia/"
               }
             ],
             "mainEntity": {

@@ -17,15 +17,18 @@ const nav: ThemeConfig['nav'] = [
     text: 'Home',
     link: '/'
   },
-  {
-    text: 'Filosofia',
-    activeMatch: '^/pt/filosofia/',
-    link: '/pt/filosofia/'
-  },
+  // Three-pillar global nav (slice A6): Literatura / Filosofia / Podcasts — the same first-level model
+  // as the homepage. Filosofia is the locale-rooted /pt/filosofia/ section; Literatura + Podcasts keep
+  // their current (legacy) surfaces, unmoved.
   {
     text: 'Literatura',
     activeMatch: '^/literatura/',
     link: '/literatura/'
+  },
+  {
+    text: 'Filosofia',
+    activeMatch: '^/pt/filosofia/',
+    link: '/pt/filosofia/'
   },
   {
     text: 'Podcasts',
@@ -254,7 +257,7 @@ const config: UserConfigExport<ThemeConfig> = (() => {
 
   lang: 'pt-BR',
   title: 'skepvox — Engenharia de Letras',
-  description: 'Louis Lavelle, literatura clássica e podcasts',
+  description: 'Literatura clássica, filosofia e podcasts',
   srcDir: 'src',
 
   head: [
@@ -267,7 +270,7 @@ const config: UserConfigExport<ThemeConfig> = (() => {
       'meta',
       {
         property: 'og:description',
-        content: 'Louis Lavelle, literatura clássica e podcasts'
+        content: 'Literatura clássica, filosofia e podcasts'
       }
     ],
     [

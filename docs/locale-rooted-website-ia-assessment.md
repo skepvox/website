@@ -12,8 +12,8 @@ This revision incorporates four product-direction changes since the pilot doc: (
 now the website standard**, not just language-aware book editions; (2) **no redirects** for the IA
 migration (clean 404 break), including the old `/louis-lavelle/` and `/literatura/` redirects and the
 Cloudflare `_redirects` step; (3) **`/pt/literatura/` is a pipeline rebuild, not a mechanical move** of
-the old hand-authored pages; (4) **podcast is reassessed under locale roots**, with feed-URL migration
-treated as an operational step (not a blocker).
+the old hand-authored pages; (4) **podcast is reassessed separately**, because the current show and
+episode pages are already monolingual target-language surfaces, not mixed-language book pages.
 
 ---
 
@@ -27,7 +27,7 @@ Concretely:
 
 1. **Target shape:** `/{locale}/{section}/{author}/{work}/{leaf}` — e.g.
    `/pt/filosofia/louis-lavelle/introducao-a-ontologia/<segment>`,
-   `/pt/literatura/machado-de-assis/a-cartomante/<segment>`, `/pt/podcast/francais/<episode>`.
+   `/pt/literatura/machado-de-assis/bras-cubas/<segment>`.
    Future locales `/fr/`, `/en/`, `/es/`, `/ru/` mirror it with localized section names
    (`philosophie`, `philosophy`, …).
 2. **One unifying rule:** _the locale-rooted tree is built only from pipeline-export books + the owned
@@ -40,13 +40,17 @@ Concretely:
    book-relative path. This is the _only_ place the IA namespace lives, so each section/locale is a
    config value, not an engineering task. (Mechanics in `filosofia-ia-pilot-migration-assessment.md`
    §6; reused verbatim for every section.)
-4. **Pilot order, content-first:** Phase A = the **filosofia** pilot (one book, proves the scheme).
-   Phase B = **podcast** + the **first literatura book** (reuse the proven scheme). Phase C = the full
-   multilingual programme (`/fr…/ru` roots, locale negotiation, switcher, hreflang, localized
-   chrome). See §10.
-5. **Clean break.** Old URLs 404; the existing redirects are disabled, not re-pointed. The one
-   nuanced exception is **podcast feeds**, which are _migrated with an explicit platform-update step_
-   (not preserved, not silently broken) — see §7.
+4. **Pilot order, content-first:** Phase A = the **filosofia** pilot (one book, proves the scheme),
+   closing with the A6 homepage/global-pillar frame. Phase B starts with the **first literatura book**
+   — _Memórias Póstumas de Brás Cubas_ — rebuilt from the book-pipeline, not moved from legacy pages.
+   Then comes a consolidation / simplification / test-protocol pass before multiplying the model. The
+   owned social/footer/icon layer follows that consolidation. Podcast IA stays later and should not
+   assume `/pt/podcast/` as the canonical answer.
+   Phase C = the full multilingual programme (`/fr…/ru` roots, locale negotiation, switcher, hreflang,
+   localized chrome). See §10.
+5. **Clean break for web routes.** Old book/literature URLs 404; the existing redirects are disabled,
+   not re-pointed. Podcast feed moves are a separate operational decision, only needed if a later
+   podcast IA slice changes canonical feed URLs — see §7 and Appendix A.
 6. **Path-prefix now, VitePress `locales` later.** The site has no native VitePress multi-locale
    routing today (only the pt-BR theme i18n string table). Use plain `src/{locale}/…` directories now;
    that layout is exactly what VitePress directory-based i18n expects, so adopting `locales` in Phase C
@@ -113,16 +117,16 @@ language)`; `routePath` is presentation only and may be re-projected freely.
   /pt/filosofia/                       section hub → author → work → leaves   (Phase A pilot)
     /pt/filosofia/louis-lavelle/introducao-a-ontologia/<segment>
   /pt/literatura/                      pipeline-REBUILT literature only       (Phase B)
-    /pt/literatura/machado-de-assis/a-cartomante/<segment>
-  /pt/podcast/                         hub → show → episode                   (Phase B)
-    /pt/podcast/{francais|espanol|english}/<episode>   (+ .../feed.xml)
+    /pt/literatura/machado-de-assis/bras-cubas/<segment>
+  /pt/podcast/                         optional Portuguese podcast directory  (later, not canonical by default)
 /fr/  /en/  /es/  /ru/             future locale roots                        (Phase C)
-  /fr/philosophie/…  /fr/podcast/… (localized section names; same shape)
+  /fr/philosophie/…                 localized section names; same shape for books
+  /fr/podcast/… /es/podcast/… /en/podcast/…  possible future target-language podcast roots
 
 — legacy, locale-less, kept until rebuilt-or-removed (NOT moved into /pt/) —
 /louis-lavelle/    legacy Lavelle corpus + old fr edition + author hub        (remove in Phase A IA-5)
 /literatura/       old hand-authored literature pages                         (remove as rebuilt)
-/podcast/          current podcast (until Phase B move)
+/podcast/          current monolingual podcast surfaces                        (keep until a dedicated podcast IA)
 ```
 
 **Locale-specific vs shared:**
@@ -142,14 +146,15 @@ language)`; `routePath` is presentation only and may be re-projected freely.
 ```
 /{uiLocale}/{localizedSection}/{authorSlug}/{editionSlug-or-show}/{leaf}
    pt          filosofia          louis-lavelle  introducao-a-ontologia   00-01-002-008-paragrafo-7
-   pt          literatura         machado-de-assis a-cartomante           00-01-001-002-paragrafo-1
-   pt          podcast            francais        001-le-badge            (episode; no edition axis)
+   pt          literatura         machado-de-assis bras-cubas             00-04-001
+   (podcast)   podcast            francais        001-le-badge            current non-locale route; target-language show
 ```
 
 - `uiLocale` — lowercase ISO 639-1 (`pt`, `fr`, `en`, `es`, `ru`); **coarse UI language** (recommend
   `pt`, not `pt-BR`, for the root). Open: Cyrillic vs ASCII section slug for `/ru/` (recommend ASCII).
-- `localizedSection` — section name in the UI locale; **`podcast` stays unlocalized** (internationally
-  understood). Book sections localize (`filosofia`/`philosophie`/`philosophy`/`filosofía`).
+- `localizedSection` — section name in the UI locale. Book sections localize
+  (`filosofia`/`philosophie`/`philosophy`/`filosofía`). Podcast keeps the international `podcast`
+  token if/when it moves, but the canonical podcast route shape is not decided here.
 - `authorSlug` — language-neutral proper noun, stable across locales.
 - `editionSlug` (books) — the edition's **own-language** slug (Family E), stable across UI locales; for
   podcast the analogue is the **show** (target-language grouping), and the episode is the leaf.
@@ -188,16 +193,18 @@ chapter subdir) whose leaves are produced by per-book builders (`build-machado-d
   their pipeline-rebuilt equivalents are live. The legacy builders
   (`build-literatura-manifests.py`, `build-machado-*`, `build-graciliano-*`) are excluded from the new
   IA and removed in that cleanup.
-- **First literatura pilot → Machado de Assis, _A Cartomante_** (short story, single-text). Smallest
-  surface that exercises the _entire_ pipeline-export stack with no chapter-split complexity;
-  architectural parity with the filosofia leaves. Sequence after it: _Vidas Secas_ (short chapter-split,
-  validates grouping) → the larger novels.
-- **What book-pipeline must produce for _A Cartomante_:** a real export with language-neutral identity —
-  `canonicalId` `machado-de-assis/a-cartomante`, per-segment `segmentPrefix`, edition-keyed `workId`,
-  minimal/empty `groupPath` (a short story has no Part/Chapter), `publicSlug` + book-relative
-  `routePath` (`machado-de-assis/a-cartomante/<leaf>`, the website re-projects to
-  `pt/literatura/machado-de-assis/a-cartomante/…`), and vendored body-only prose split at segment
-  boundaries. (Confirm in the book-pipeline repo; the website ingests it exactly like filosofia.)
+- **First literatura pilot → Machado de Assis, _Memórias Póstumas de Brás Cubas_.** This deliberately
+  chooses a large, structurally stressful work already familiar from the website prototype rather than
+  the smallest possible short story. The goal is to prove that the pipeline-export + owned reader shell
+  can carry a real flagship literature book before we multiply. It must still be a **pipeline rebuild**,
+  not a mechanical migration of the current `src/literatura/` pages.
+- **What book-pipeline must produce for _Brás Cubas_:** a real export with language-neutral identity —
+  `canonicalId` `machado-de-assis/bras-cubas`, per-segment `segmentPrefix`, edition-keyed `workId`,
+  authored `groupPath` where real structure exists, `publicSlug` + book-relative `routePath`
+  (`machado-de-assis/bras-cubas/<leaf>`, the website re-projects to
+  `pt/literatura/machado-de-assis/bras-cubas/…`), and vendored body-only prose split at stable segment
+  boundaries. Confirm and clean the source in the book-pipeline first; the website ingests it exactly
+  like filosofia.
 - **No contamination of `/pt/literatura/`:** the work tree uses **only** the reader shell + pipeline
   segments; no legacy `CardGrid`-over-`works.json` work pages, no per-book hand-authored chapter
   builder runs under `/pt/`. A test asserts no `works.json` and no legacy-builder output exists
@@ -220,7 +227,7 @@ chapter subdir) whose leaves are produced by per-book builders (`build-machado-d
   merely disabled) in slice **B4**, when the legacy `/literatura/` section is removed after each
   author's corpus is rebuilt. A test asserts `/pt/literatura/` lists only pipeline-backed books.
 
-### 6.3 Podcast — locale-root the routes; migrate feeds with a platform-update step
+### 6.3 Podcast — keep current monolingual surfaces; reassess canonical roots later
 
 **Current state (verified):** hub `/podcast/` (pt chrome) → shows `/podcast/{francais|espanol|english}/`
 → episodes `/podcast/{show}/<NN-slug>`; each show has `index.md`, `episodes.json`, per-episode `.md` +
@@ -230,46 +237,47 @@ english}`); `scaffold-podcast-distribution-episode.py` + `podcast-show-config.js
 distribution metadata (incl. `show_page_url` + `rss_feed_url`). Components (`PodcastPlayer`,
 `PodcastShowHeader`, `PodcastEpisodeHeader`, `PodcastEpisodeNav`) are data-driven, not path-keyed.
 
-**Decisions:**
+**Updated decision after product review: do not force podcasts under `/pt/podcast/` now.** The book
+problem and the podcast problem are different:
 
-- **Routes → `/pt/podcast/`.** Hub `/pt/podcast/`, shows `/pt/podcast/{show}/`, episodes
-  `/pt/podcast/{show}/<NN-slug>`. Same projection idea as books: flip `show_page_url` (and the script's
-  target subdir) from `…/podcast/{show}/` to `…/pt/podcast/{show}/`; canonicals/manifests regenerate via
-  the sync script; update `config.ts` nav/sidebar + the tests.
-- **Show hubs stay hand-authored; components unchanged.** Unlike books (generated leaves), podcast
-  show hubs (`/pt/podcast/{show}/index.md`) and episode pages remain **hand-authored / sync-generated
-  markdown** (the existing model), not pipeline-export. The show hub keeps its show description +
-  `episodesToCards(episodes.json)` list; only its route-bearing frontmatter moves (canonical, `og:url`,
-  the RSS-feed `rel=alternate` link). `og:locale` stays the **target language** (`fr_FR`/`es_ES`/`en_US`)
-  in per-show frontmatter — it signals content language, independent of the pt UI root. The components
-  (`PodcastPlayer`, `PodcastShowHeader`, `PodcastEpisodeHeader`, `PodcastEpisodeNav`) are data-driven
-  and need **no** locale-aware variants.
-- **Learner-UI locale, not target language.** Vox Français/Español/English are _language-learning_
-  shows for a pt-speaking creator/audience; the **learner's UI is pt**, so all three live under
-  **`/pt/podcast/`**, never `/fr/`, `/es/`, `/en/`. The _target_ language is content metadata
-  (`og:locale` `fr_FR`/`es_ES`/`en_US`, `lang` on transcript content), not the route. The Phase-B move
-  to `/pt/podcast/` is **final** for the pt audience (not a way-station). In Phase C, when a `/fr/` UI
-  root is built, the same shows are **duplicated** (re-presented, not moved) under `/fr/podcast/{show}/`
-  with French chrome + identical content, the two linked by `hreflang` and each canonical-to-itself —
-  the standard same-content / localized-chrome i18n pattern.
-- **Section noun stays `podcast`** (international); only the nav label localizes later.
-- **Feeds migrate (not preserved, not silently broken).** Per steering, feed-URL stability is **not** a
-  blocker. Move the feeds to `/pt/podcast/{show}/feed.xml` and run the **platform-update checklist**
-  (Appendix A). The three debt tiers (§7) apply: a feed move is acceptable _only_ with an explicit
-  platform update + post-move verification.
-- **SEO/hreflang:** keep `og:locale` = target language on shows/episodes; **no hreflang in Phase B**
-  (single UI locale, no duplicated shows yet). Add reciprocal hreflang when `/fr/podcast/` etc. exist.
-  Podcast episode leaves should be pruned from the sitemap by the same metadata-aware rule as book
-  leaves (§6.5), not a new path string.
-- **Timing → Phase B**, after the filosofia pilot locks the scheme (so the podcast move is config +
-  scripts + the platform checklist, with zero scheme risk).
+- Books mix UI language, edition language, author/work identity, and reader navigation. Locale roots
+  solve a real reader-confusion problem there.
+- Podcast shows are already target-language surfaces: Vox Français is French-facing content, Vox
+  Español Spanish-facing content, Vox English English-facing content. Forcing all of them into
+  `/pt/podcast/` would make the URL say "Portuguese UI" while the page content, `og:locale`, audio,
+  transcript, and SEO audience are target-language.
+
+**Decisions for now:**
+
+- **Keep current canonical podcast URLs** (`/podcast/{francais|espanol|english}/…`) through Phase B.
+  A6 may still surface "Podcast" as one of the homepage/global pillars, but it should point to the
+  current podcast hub unless a dedicated podcast IA slice decides otherwise.
+- **Do not add `/pt/podcast/` by default.** It may become a Portuguese directory/landing page later
+  (for Brazilian learners discovering all shows), but it should not automatically become the canonical
+  episode/show namespace.
+- **Future full-locale candidates:** if podcast SEO and reader clarity demand locale roots later, the
+  stronger canonical pattern is likely **target-language roots**:
+  `/fr/podcast/...`, `/es/podcast/...`, `/en/podcast/...` for the show/episode surfaces, because those
+  match content language. A `/pt/podcast/` page can coexist as a Portuguese guide/index, linking into
+  the target-language shows rather than owning their episode URLs.
+- **Components stay data-driven.** `PodcastPlayer`, `PodcastShowHeader`, `PodcastEpisodeHeader`, and
+  `PodcastEpisodeNav` remain the right seams. Any route move later should be expressed through
+  `podcast-show-config.json` / sync output, not component path parsing.
+- **Feeds move only if canonical podcast URLs move.** Per steering, feed URLs can be changed in the
+  platforms, so feed URL stability is not a hard blocker. But it is still operationally special: no
+  feed path should silently change without the platform-update + verification checklist (Appendix A).
+- **SEO now:** keep `og:locale` and content language aligned with each show/episode's target language.
+  Do not add hreflang until there are true alternate localized versions or directories to link.
+- **Timing:** podcast becomes a later **podcast IA reassessment**, after Brás Cubas and the
+  consolidation/test-protocol pass. It is not part of the immediate book-locale rollout.
 
 ### 6.4 Home + global nav
 
 - **Home stays at `/`** through the split-brain (it is discovery, not content; re-homing twice is
   wasteful). `/` → locale negotiation is Phase C.
 - **Split-brain nav:** add locale-rooted entries (`Filosofia → /pt/filosofia/`, later
-  `Literatura → /pt/literatura/`, `Podcasts → /pt/podcast/`) **alongside** the legacy entries as
+  `Literatura → /pt/literatura/`; `Podcast` keeps the current `/podcast/` entry until its own IA
+  reassessment) **alongside** the legacy entries as
   **separate `config.ts` nav items with independent `activeMatch`** — no conditional URL logic, no
   merging. Independent `activeMatch` patterns (`^/pt/filosofia/` vs the legacy `^/louis-lavelle/`) do
   not conflict; each highlights only on its own routes. Remove each legacy nav entry only when its
@@ -348,8 +356,9 @@ distribution metadata (incl. `show_page_url` + `rss_feed_url`). Components (`Pod
   (they describe identity/structure, not locale). `build-sidebar-nav.py` reads the re-projected
   `routePrefix` automatically — no code change. The legacy reading-nav/segment-manifest builders skip
   the pipeline family (markers), so the book moves don't touch them.
-- **Podcast manifests** (`shows.json`, `episodes.json`) + `podcast-show-config.json` update via the
-  sync/scaffold scripts when `show_page_url` flips (§6.3).
+- **Podcast manifests** (`shows.json`, `episodes.json`) + `podcast-show-config.json` stay on their
+  current routes until the later podcast IA reassessment decides whether any canonical podcast URL or
+  feed URL changes.
 - **Redirect artifacts** are **disabled/removed** (§7): flip `build-pipeline-redirect-map.py`
   `STATUS` (an existing constant, currently `"enabled"`) to `"disabled"` — its guard then skips
   writing the 12 redirect **entries** to `src/public/_redirects` (and the generator deletes the file
@@ -368,8 +377,9 @@ distribution metadata (incl. `show_page_url` + `rss_feed_url`). Components (`Pod
 - **Reader-shell** (`reader-shell.spec`) → update example `PT_ROUTE`/`FR_ROUTE` constants; helpers
   unchanged.
 - **Redirect** (`pipeline-redirect-map.spec`) → **delete** (clean break).
-- **Podcast** (`podcast-show-page.spec`, `podcast-player.spec`, `podcast-episode-nav.spec`) → update
-  `dist/podcast/…` → `dist/pt/podcast/…` paths in Phase B.
+- **Podcast** (`podcast-show-page.spec`, `podcast-player.spec`, `podcast-episode-nav.spec`) → leave
+  current `dist/podcast/…` paths unchanged in the book-locale phases; update only in a later dedicated
+  podcast IA slice if canonical podcast routes change.
 - **New — architecture guard:** assert the `ROUTE_BASE` projection (current base reproduces today's
   paths; a `pt/filosofia/...` base would derive `src/pt/filosofia/...` + `/pt/filosofia/...`), locking
   the projection for every section.
@@ -396,22 +406,27 @@ distribution metadata (incl. `show_page_url` + `rss_feed_url`). Components (`Pod
 
 ## 7. Clean break / no redirects — and the three-tier debt distinction
 
-- **Web URL 404 debt — acceptable.** Old `/louis-lavelle/…` and old `/literatura/…` and old
-  `/podcast/…` web URLs are allowed to 404. No new redirects; the existing 12 fr→pt `301`s are
+- **Web URL 404 debt — acceptable for books/literature.** Old `/louis-lavelle/…` and old
+  `/literatura/…` web URLs are allowed to 404. No new redirects; the existing 12 fr→pt `301`s are
   **disabled** (flip `build-pipeline-redirect-map.py STATUS` from `"enabled"` to `"disabled"` → its 12
   entries are no longer written to `src/public/_redirects`), the redirect-map JSON + its spec deleted.
-- **RSS/feed URL migration — acceptable, but only as an explicit, verified step.** Feeds may move to
-  `/pt/podcast/{show}/feed.xml`, _provided_ the distribution platforms are updated to the new feed URL
+- **Podcast web URLs are not included in this clean-break by default.** Current `/podcast/…` routes
+  stay canonical until a dedicated podcast IA slice chooses a new route shape. If that later slice
+  moves podcast web URLs, clean 404 debt can still be accepted intentionally, but it is not part of
+  the book-locale rollout.
+- **RSS/feed URL migration — acceptable only if explicitly chosen.** Feeds may move _only_ if the
+  podcast IA slice changes the canonical feed URL, and only when distribution platforms are updated
   and each feed is verified afterward (Appendix A). The feed URL is a syndication contract with
-  Apple/Spotify/etc., not a web route — migrating it is an operational action, not a redirect.
+  Apple/Spotify/etc., not a normal web route — migrating it is an operational action, not a redirect.
 - **What must not happen:** a feed URL silently changing (or the old feed disappearing) **without** the
   platform-update step — do not rely on feed redirects as the migration mechanism. The authoritative
-  move is the platform-side feed URL update plus verification. The Phase-B podcast slice is therefore
-  gated on the platform checklist + verification.
+  move is the platform-side feed URL update plus verification. Any future feed-migration slice is
+  therefore gated on the platform checklist + verification.
 
 **SEO cost, stated honestly:** the live pt reading pages lose their old-URL equity (re-crawled at
-`/pt/…`; no `301` to carry rank); legacy literatura/Lavelle URLs 404 on removal. Accepted for a clean,
-future-proof, multilingual-ready foundation. Hubs remain the discovery surface; leaves stay
+`/pt/…`; no `301` to carry rank); legacy literatura/Lavelle URLs 404 on removal. Podcast keeps its
+current monolingual SEO surface until reassessed. Accepted for a clean, future-proof,
+multilingual-ready book foundation. Hubs remain the discovery surface; leaves stay
 crawlable-but-pruned (§6.5).
 
 ---
@@ -429,7 +444,10 @@ The detailed comparison (locale-rooted vs language-mixed) is in `filosofia-ia-pi
   tokens (`/fr/philosophie/`), localized metadata, per-language sitemaps/search (Phase C), and clean
   `hreflang` — strongest exactly where a pt-named `/filosofia/` fails (non-pt surfaces).
 - **Podcast:** keep `og:locale` = target language on shows/episodes (a French-learning show _is_ French
-  content); the learner-locale root (`/pt/podcast/`) keeps discovery coherent for the pt audience.
+  content). Current `/podcast/…` routes are acceptable while podcast pages are monolingual. A future
+  `/pt/podcast/` should be treated as a Portuguese directory/landing page unless a later podcast IA
+  deliberately chooses otherwise; canonical show/episode roots may instead be target-language
+  (`/fr/podcast/`, `/es/podcast/`, `/en/podcast/`) if SEO and reader clarity justify the move.
 - **Cost/discipline:** locale roots multiply URLs in Phase C (edition × locale); that duplicate content
   must be governed by correct `canonical` + reciprocal `hreflang` or it hurts SEO. The single-locale
   Phases A/B have **no** such exposure (one clean pt surface) — the upside accrues as locales are added,
@@ -449,10 +467,10 @@ The detailed comparison (locale-rooted vs language-mixed) is in `filosofia-ia-pi
 - Do **not** create or re-point redirects; do **not** keep the fr→pt `_redirects` block; do **not** add
   a Cloudflare redirect step.
 - Do **not** silently change/remove a podcast feed URL without the platform-update + verification step.
-- Do **not** put language-learning shows under the target-language locale (`/fr/podcast/…`); they live
-  under the learner UI locale (`/pt/podcast/…`).
-- Do **not** localize the `podcast` URL token; do **not** localize author/edition **slugs** (only
-  labels/copy localize).
+- Do **not** assume `/pt/podcast/` is the canonical podcast answer. Keep current podcast routes until
+  a dedicated podcast IA slice weighs Portuguese-directory vs target-language-root options.
+- Do **not** localize the `podcast` URL token if podcast moves; do **not** localize author/edition
+  **slugs** (only labels/copy localize).
 - Do **not** adopt VitePress `locales` config, build a locale switcher, move the home to `/pt/`, fork a
   `/pt/404/`, or add hreflang in Phases A/B.
 - Do **not** treat `routePath` as identity or change `canonicalId`/`segmentPrefix` during any move.
@@ -542,20 +560,52 @@ The detailed comparison (locale-rooted vs language-mixed) is in `filosofia-ia-pi
   Coverage retired with the corpus (no replacement subject exists): WorkContents grouped-mode, the
   segment-manifest segment-level/inferred-book classification, and the French reading-nav labels — all
   exercised only by the removed lavelle works; they return with a future authored-grouped/French work.
+- **A6 — Homepage + global three-pillar frame (closes Phase A).** Reframe the public site around three
+  pillars — **Literatura / Filosofia / Podcast** — as the first-level mental model, WITHOUT migrating
+  books or podcasts. **Status: implemented** on `develop`. `Home.vue` was refactored in place from a 76px
+  marketing hero + three `.vt-box` cards into a calm editorial index: a quiet left-aligned masthead
+  (eyebrow `Engenharia de Letras` → token-scaled `skepvox` wordmark → subline, reusing the
+  `PodcastShowHeader` rhythm) over a hairline table-of-contents of three `SkLink` rows — tokens only, no
+  cards/shadows, mobile-first. Pillars: **Literatura → `/literatura/`** (current legacy surface, unmoved),
+  **Filosofia → `/pt/filosofia/`** (the locale-rooted section), **Podcasts → `/podcast/`** (current,
+  unmoved). The global nav was reordered to the same Literatura/Filosofia/Podcasts model; the homepage
+  JSON-LD (`ItemList`/`about`), the site-level description, and the 404 page were reframed to the three
+  sections and no longer foreground the author. No `/louis-lavelle/` links, no `/pt/literatura/` content,
+  no redirects, no podcast/RSS/media changes; route `/` preserved. Guards: `tests/homepage.spec.ts`
+  (rewritten) + `tests/homepage-ia-pillars.spec.ts` (new). **Phase A is now complete.**
+
+  _Agreed sequence after A6 (Phase B):_ (1) a **`/pt/literatura/` pilot** with _Memórias Póstumas de Brás
+  Cubas_ rebuilt from book-pipeline — a pipeline rebuild, **not** a mechanical move of the legacy
+  `/literatura/` pages; (2) **consolidation / simplification / test-protocol** before multiplying more
+  books; (3) the **podcast IA reassessment stays later** (podcast routes/feeds untouched until then).
 
 **Phase B — Extend the proven scheme (reuses A1's projection, no new scheme risk).**
 
-- **B1 — Podcast → `/pt/podcast/`:** flip `show_page_url`/`rss_feed_url` + sync target dir; regenerate
-  show/episode pages + manifests + feeds at `/pt/podcast/…`; update nav/sidebar + podcast tests; run the
-  **platform-update checklist** (Appendix A) and verify every feed.
-- **B2 — First literatura book (_A Cartomante_) via pipeline rebuild:** vendor its book-pipeline export;
-  ingest + generate at `/pt/literatura/machado-de-assis/a-cartomante/…` via the reader shell; create
-  `/pt/literatura/` + `/pt/literatura/machado-de-assis/` hubs (pipeline-only author cards);
-  nav/sidebar/tests. Old `/literatura/` stays legacy.
-- **B3 — Nav convergence:** as each `/pt/<section>` lands, add its nav/sidebar entry; remove a legacy
-  section's nav only when that legacy section is removed.
-- **B4 (later) — Remaining literatura books** (_Vidas Secas_, then the novels) + remove legacy
-  `/literatura/` once each author's corpus is rebuilt.
+- **A6 — Homepage / global pillars (first, before the next content migration):** align the homepage and
+  global nav around `Literatura`, `Filosofia`, and `Podcast`; `Filosofia` points to `/pt/filosofia/`,
+  while Literatura keeps its current surface until the Brás Cubas pipeline pilot and Podcast keeps its
+  current surface until its own IA reassessment. No route move.
+- **B1 — First `/pt/literatura/` book: _Memórias Póstumas de Brás Cubas_ via pipeline rebuild:** vendor
+  its book-pipeline export; ingest + generate at `/pt/literatura/machado-de-assis/bras-cubas/…` via the
+  owned reader shell; create `/pt/literatura/` + `/pt/literatura/machado-de-assis/` hubs
+  (pipeline-only author cards); nav/sidebar/tests. Old `/literatura/` stays legacy.
+- **B2 — Consolidation / simplification / test protocol:** before adding another book, audit the
+  accumulated helpers, docs, generated artifacts, and growing Playwright surface; consolidate where
+  possible; define which invariants must be broad regression tests vs focused per-slice tests. This is
+  the guardrail pass before multiplying books.
+- **B3 — Owned social/footer/icon layer:** implement the deferred social-presence strategy after the
+  consolidation pass: owned social-link data, an owned `SocialIcon` seam for missing platform glyphs
+  (Instagram, YouTube, Spotify, Apple Podcasts, RSS, etc.), a `SocialLinks` component, and then a quiet
+  owned footer. This replaces the constrained `@vue/theme` `socialLinks` path instead of adding wrong
+  glyph workarounds.
+- **B4 — Remaining literatura books** (_Vidas Secas_, then the novels) + remove legacy `/literatura/`
+  once each author's corpus is rebuilt.
+- **B5 — Podcast IA reassessment (later):** keep current `/podcast/…` routes unless the reassessment
+  deliberately chooses a new canonical podcast shape. Compare three options: (1) keep `/podcast/…` as
+  a language-neutral podcast namespace; (2) add `/pt/podcast/` as a Portuguese directory/landing page
+  only; (3) move canonical show/episode surfaces to target-language roots such as `/fr/podcast/`,
+  `/es/podcast/`, `/en/podcast/`. Only if a feed URL changes, run the **platform-update checklist**
+  (Appendix A) and verify every feed.
 
 **Phase C — Full multilingual programme (separate, large).** `/fr/`, `/en/`, `/es/`, `/ru/` roots +
 localized section names/nav/footer/search/metadata; `/` → locale negotiation + locale switcher;
@@ -606,20 +656,26 @@ sitemap/search/LLM segmentation; VitePress `locales` adoption; `PipelineEditionS
 
 ---
 
-## Appendix A — Podcast feed platform-update checklist (Phase B, per show)
+## Appendix A — Conditional podcast feed platform-update checklist (later podcast IA, per show)
+
+This checklist is **conditional**. It applies only if a future podcast IA slice deliberately changes a
+canonical feed URL. The current recommendation is to keep `/podcast/…` routes and feeds unchanged
+until that reassessment.
 
 For **each** of `francais`, `espanol`, `english`:
 
-1. Update `scripts/podcast-show-config.json` → `show_page_url` and `rss_feed_url` to the `/pt/podcast/{show}/`
-   form (e.g. `https://www.skepvox.com/pt/podcast/francais/feed.xml`).
+1. Update `scripts/podcast-show-config.json` → `show_page_url` and `rss_feed_url` to the chosen new
+   canonical form (for example a target-language root such as
+   `https://www.skepvox.com/fr/podcast/francais/feed.xml`, if that is the selected strategy).
 2. Re-run `sync-podcast-lesson-pages.py` + the build so episode/show pages, `episodes.json`,
-   `shows.json`, canonicals, and the static `feed.xml` regenerate at `/pt/podcast/{show}/…`. **Feed-XML
-   detail:** the sync regenerates each RSS item's `<link>` (and the channel `<link>`) from the new
-   `show_page_url` — e.g. `…/podcast/francais/001-le-badge` → `…/pt/podcast/francais/001-le-badge`. The
+   `shows.json`, canonicals, and the static `feed.xml` regenerate at the chosen new route. **Feed-XML
+   detail:** the sync should regenerate each RSS item's `<link>` (and the channel `<link>`) from the new
+   `show_page_url` — e.g. `…/podcast/francais/001-le-badge` → the chosen new page route. The
    `<enclosure>` audio URLs are on the **media CDN** (`media.skepvox.com/…`), **not** the website
    route, so they stay unchanged. (Note: `sync-podcast-lesson-pages.py` does not currently rewrite
    `feed.xml`; the feeds are static today, so this step either teaches the sync to rewrite the item
-   `<link>`s or the three `feed.xml` files are updated in the same pass — confirm which in B1.)
+   `<link>`s or the three `feed.xml` files are updated in the same pass — confirm which in the podcast
+   IA implementation slice.)
 3. **(Optional, recommended) overlap window:** keep the old `src/public/podcast/{show}/feed.xml`
    serving the _same_ content for the cut-over period (a courtesy, **not** a redirect) so no subscriber
    sees an empty feed mid-switch; remove it after step 5 confirms.
@@ -635,15 +691,16 @@ For **each** of `francais`, `espanol`, `english`:
    old `/podcast/{show}/feed.xml` (restore the old file, revert `rss_feed_url`), re-run step 4 on the
    lagging platform, then retry. Only remove the old feed once all targeted platforms confirm.
 
-**Gate:** the podcast slice is not "done" until all three feeds pass step 5 **and** step 6's monitoring
-window closes clean. A silent feed move (no platform update) is explicitly disallowed (§7).
+**Gate:** any podcast feed-migration slice is not "done" until all changed feeds pass step 5 **and**
+step 6's monitoring window closes clean. A silent feed move (no platform update) is explicitly
+disallowed (§7). If the future podcast IA keeps the current feed URLs, this checklist is not invoked.
 
 ## Appendix B — Risks
 
 | Risk                                                                       | Likelihood       | Mitigation                                                                                                                |
 | -------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | Split-brain IA (`/pt/<section>` beside legacy locale-less siblings)        | High (by design) | Content-first phasing; clean-break posture; converge nav as sections land.                                                |
-| Podcast feed orphaned by a missed platform update                          | Med if rushed    | Appendix A gate + per-show verification; optional overlap window.                                                         |
+| Podcast feed orphaned by a missed platform update                          | Med if route moved | Avoid moving feeds by default; if moved, Appendix A gate + per-show verification; optional overlap window.                 |
 | Legacy-website assumptions leak into `/pt/literatura/`                     | Med              | Pipeline-only rule; author-hub cards from pipeline metadata not `works.json`; tests assert no legacy output under `/pt/`. |
 | Scheme churn (`pt` vs `pt-BR`, section/Cyrillic slugs) re-migrates `/pt/…` | Low              | Lock the scheme in A1's doc (coarse `pt`, ASCII section slugs).                                                           |
 | SEO equity loss on 404'd old URLs                                          | High             | Accepted per clean break; hubs remain discoverable; optional single deliberate redirect later if ever wanted.             |

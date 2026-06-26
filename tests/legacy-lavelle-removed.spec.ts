@@ -60,9 +60,12 @@ test.describe('legacy Lavelle corpus removed (slice A5 / IA-5)', () => {
 
   test('no homepage or structured-data URL points to the legacy /louis-lavelle/', () => {
     const home = fs.readFileSync(path.join(DIST, 'index.html'), 'utf-8')
-    expect(home.includes('skepvox.com/louis-lavelle/')).toBe(false) // JSON-LD
-    expect(home.includes('href="/louis-lavelle/"')).toBe(false) // the visible pillar
-    expect(home.includes('href="/pt/filosofia/louis-lavelle/"')).toBe(true) // retargeted to the live hub
+    expect(home.includes('skepvox.com/louis-lavelle/')).toBe(false) // legacy JSON-LD route
+    expect(home.includes('href="/louis-lavelle/"')).toBe(false) // legacy visible link
+    // A6 reframed the homepage around sections: the Filosofia pillar points at /pt/filosofia/, not the
+    // author hub, so the homepage no longer contains the /louis-lavelle/ substring at all.
+    expect(home.includes('href="/pt/filosofia/"')).toBe(true)
+    expect(home.includes('/louis-lavelle/')).toBe(false)
   })
 
   test('the new Lavelle surface survives: /pt/filosofia/louis-lavelle/ builds and links to Introdução', () => {
