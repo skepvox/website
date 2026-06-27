@@ -19,12 +19,31 @@
 - The **fr edition** (12 chapter pages + the full-text hub) and the **whole legacy `/louis-lavelle/`
   corpus** were **removed in slice A5** (Phase A complete). The only Lavelle surface now is the
   locale-rooted `/pt/filosofia/louis-lavelle/` hub + the live pt edition; old `/louis-lavelle/` URLs 404.
-- The **homepage + global nav are a three-pillar index** (slice A6, closing Phase A): **Literatura
-  (`/literatura/`) / Filosofia (`/pt/filosofia/`) / Podcasts (`/podcast/`)**. `Home.vue` is a calm
-  editorial masthead + hairline table-of-contents (no marketing hero, no cards), consistent with the
-  reader shell. Literatura + Podcasts keep their current surfaces; no books/podcasts were migrated.
-- **`reading-review/**`** holds internal demo/prototype surfaces (map, single-leaf, windowed reader,
-full-work reader) — all `buffer:true`+`search:false`+`noindex`, out of sitemap/search/LLM.
+- **pt _Memórias Póstumas de Brás Cubas_ is live** at `/pt/literatura/machado-de-assis/bras-cubas/`
+  (slices B2/B3) — the **first prefix-only public book**: a work hub + **163 segment leaves** (bare
+  `<segmentPrefix>`, **no `publicSlug`** — the segmentPrefix is the permanent public leaf), with real
+  prose. Section + author hubs at `/pt/literatura/` + `/pt/literatura/machado-de-assis/`.
+- The **homepage + global nav are a three-pillar index** (slice A6): **Literatura (`/pt/literatura/`) /
+  Filosofia (`/pt/filosofia/`) / Podcasts (`/podcast/`)**. `Home.vue` is a calm editorial masthead +
+  hairline table-of-contents, consistent with the reader shell.
+- **The legacy hand-authored `/literatura/` corpus + its bespoke reading system were retired in slice
+  B5** (the consolidation pass) — like the A5 `/louis-lavelle/` retirement: `src/literatura/`, the
+  `WorkContents`/`WorkContentsMount`/`ReadingNav` components, `build-reading-nav.py` /
+  `build-segment-manifest.py` / `build-literatura-manifests.py`, and `reading-nav.json` /
+  `segment-manifest.json` are gone (no redirects; old `/literatura/...` URLs 404). `/pt/literatura/`
+  (Brás Cubas) is the only Literatura surface; the other Machado/Graciliano/Pompeia books return only
+  when rebuilt through book-pipeline.
+- **`reading-review/**`** now holds only the **ReaderIcon a11y harness** (`buffer:true` + `search:false`
+  + `noindex`, out of sitemap/search/LLM). The reading-review **export-preview prototypes** (Slices
+  2C–2G: PipelineExportReview/ReaderPreview/SegmentPreview/WindowPreview + `build-pipeline-preview.py`)
+  were retired in the consolidation pass — superseded by the real public reader pages above.
+
+> **Consolidation checkpoint (post-Lavelle / post-Brás-Cubas).** Test taxonomy, certification, and the
+> next-book readiness checklist live in **`skepvox-book-pipeline/docs/book-import-certification-protocol.md`**
+> — adding a book should add **no permanent website spec** by default (the generic specs use the shared
+> `tests/pipeline-helpers.ts`; book-specific facts are one-off certification, recorded in the book plan).
+> An editorial **reading-divisions** enhancement for flat works (Brás Cubas) is proposed — design the
+> data seam now, implement content later — in **`docs/bras-cubas-reading-divisions-proposal.md`**.
 
 ---
 
