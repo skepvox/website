@@ -575,6 +575,14 @@ The detailed comparison (locale-rooted vs language-mixed) is in `filosofia-ia-pi
   no redirects, no podcast/RSS/media changes; route `/` preserved. Guards: `tests/homepage.spec.ts`
   (rewritten) + `tests/homepage-ia-pillars.spec.ts` (new). **Phase A is now complete.**
 
+  > **Homepage evolution beyond A6.** Turning this calm index into a _data-connected pillar gateway_
+  > (surfacing live pillar content from `pipeline-export-segments.json` + the podcast manifests, without
+  > reintroducing `works.json` or legacy `/literatura/` machinery) and narrowing the visible third pillar
+  > to **Vox Français → `/podcast/francais/`** is assessed in
+  > [`homepage-pillar-gateway-assessment.md`](homepage-pillar-gateway-assessment.md) (slices H1–H6). A6
+  > remains the editorial frame; the brand asset system (B3) stays a separate later phase. Note the live
+  > pillar targets are now `/pt/literatura/` (post-B5), not the `/literatura/` shown above.
+
   _Agreed sequence after A6 (Phase B):_ (1) a **`/pt/literatura/` pilot** with _Memórias Póstumas de Brás
   Cubas_ rebuilt from book-pipeline — a pipeline rebuild, **not** a mechanical move of the legacy
   `/literatura/` pages; (2) **consolidation / simplification / test-protocol** before multiplying more
