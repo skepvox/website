@@ -60,6 +60,17 @@ const navLabel = computed(() => navLabelFor(props.language))
 const openingLabel = computed(() => openingLabelFor(props.language))
 const editionLine = computed(() => editionLineFor(author.value, props.language))
 
+// A part-less work (Brás Cubas) groups its chapters under ONE quiet render-layer label so the map has a
+// home instead of a bare list — explicitly editorial (the lighter Abertura register, not an authored
+// Part divider), never invented canonical structure. Editorial reading-divisions could later replace
+// this single group with named divisions (see the consolidation report); the grammar is the same.
+const CHAPTERS_LABEL: Record<string, string> = {
+  pt: 'Capítulos',
+  fr: 'Chapitres',
+  en: 'Chapters'
+}
+const chaptersLabel = computed(() => CHAPTERS_LABEL[props.language] ?? 'Capítulos')
+
 const segs = computed(() =>
   (meta.segments as Seg[])
     .filter((s) => s.workId === props.workId && s.language === props.language)
@@ -252,21 +263,25 @@ onMounted(() => {
           </div>
         </section>
 
-        <!-- Part-less, chapter-level work (e.g. Brás Cubas): a flat list of chapter links, each prefixed
-             by a quiet chapter number so punctuation-only / numeral authored titles (ch 53 "......."; ch
-             83 "13") stay legible and navigable. No disclosure — each segment is a whole chapter. -->
-        <section v-else-if="block.type === 'flat'" class="pwc__chapters">
-          <div class="pwc__loose">
+        <!-- Part-less, chapter-level work (e.g. Brás Cubas): one quiet render-layer "Capítulos" group
+             (the editorial Abertura register — NOT an authored Part divider) whose chapters render in
+             the SAME row grammar as an authored chapter heading, but as direct links (each segment IS a
+             whole chapter — no disclosure). A quiet chapter-number tab keeps punctuation-only / numeral
+             titles (ch 53 "......."; ch 83 "13") legible. Same calm book-map dialect as Lavelle. -->
+        <section v-else-if="block.type === 'flat'" class="pwc__part pwc__part--editorial">
+          <p class="pwc__opening-heading">{{ chaptersLabel }}</p>
+          <div class="pwc__chapter-rows">
             <SkLink
               v-for="e in block.entries"
               :key="e.canonicalId"
-              class="pwc__link pwc__link--chapter"
+              class="pwc__chapter-row"
               :class="{ 'is-current': isCurrent(e) }"
               :href="`/${e.routePath}`"
               :current="isCurrent(e)"
-              ><span class="pwc__chapter-num" aria-hidden="true">{{ e.number }}</span
-              >{{ e.title }}</SkLink
             >
+              <span class="pwc__chapter-num" aria-hidden="true">{{ e.number }}</span>
+              <span class="pwc__chapter-title">{{ e.title }}</span>
+            </SkLink>
           </div>
         </section>
 
@@ -480,24 +495,53 @@ onMounted(() => {
   padding-left: 0;
 }
 
-/* Part-less chapter links (Brás Cubas) sit flush like the opening list. The chapter number is a quiet,
-   tabular fixed-width tab so titles align and punctuation-only / numeral authored titles stay legible. */
-.pwc__link--chapter {
+/* The editorial "Capítulos" group sits a touch below an authored Part so the two read as one family
+   with a clear hierarchy (authored Part divider > editorial chapter group). */
+.pwc__part--editorial {
+  margin-top: 1.5rem;
+}
+
+/* Part-less chapter rows (Brás Cubas) share the disclosure-button metrics + typography of an AUTHORED
+   chapter heading — same hairline rule, row height, size and weight — so the whole book map reads in one
+   grammar. They are direct links (each chapter IS a whole leaf, nothing to disclose), so no chevron/count.
+   The chapter number is a quiet, tabular fixed-width tab so titles align and punctuation-only / numeral
+   authored titles (ch 53 "......."; ch 83 "13") stay legible. */
+.pwc__chapter-row {
   display: flex;
   align-items: baseline;
-  padding-left: 0;
+  gap: 0.75rem;
+  min-height: 44px;
+  padding: 0.55rem 0;
+  border-top: 1px solid var(--sk-reading-rule);
+  font-size: var(--sk-reading-row);
+  font-weight: 600;
+  line-height: 1.4;
+  color: var(--sk-text);
+  text-decoration: none;
+  scroll-margin-top: 5rem;
+  transition: color 0.18s ease;
 }
-.pwc__chapter-num {
+.pwc__chapter-row .pwc__chapter-num {
   flex: 0 0 auto;
-  min-width: 2.5rem;
-  margin-right: 0.5rem;
+  min-width: 2rem;
   font-size: 0.82em;
+  font-weight: 500;
   font-variant-numeric: tabular-nums;
   color: var(--sk-reading-muted);
 }
-.pwc__link--chapter.is-current {
-  box-shadow: none;
-  font-weight: 600;
+.pwc__chapter-row .pwc__chapter-title {
+  flex: 1 1 auto;
+  font-family: var(--sk-reading-font);
+}
+/* The returned-from chapter (via a leaf "up" link): the same quiet current accent as an authored row. */
+.pwc__chapter-row.is-current {
+  color: var(--sk-text);
+  box-shadow: inset 2px 0 0 0 var(--sk-reading-current);
+}
+@media (hover: hover) and (pointer: fine) {
+  .pwc__chapter-row:hover {
+    color: var(--sk-reading-heading);
+  }
 }
 
 /* Slice E: the expanded segment rows sit at the 44px tap-target floor (min-height 44px, contiguous),
