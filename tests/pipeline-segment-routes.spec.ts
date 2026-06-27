@@ -3,6 +3,7 @@ import fs from 'node:fs'
 import os from 'node:os'
 import path from 'node:path'
 import { spawnSync } from 'node:child_process'
+import { LAVELLE_WORK_ID, workSegments } from './pipeline-helpers'
 
 // Slice 2J/2L/2M — the real pt segment route family at its PUBLIC namespace, with REAL prose.
 // docs/introduction-a-ontologia-live-migration-plan.md §4. The pipeline minted the pt edition; the 99
@@ -16,10 +17,7 @@ const PUBLIC_DIR = path.resolve('src/pt/filosofia/louis-lavelle/introducao-a-ont
 const GEN = path.resolve('scripts/build-pipeline-segment-routes.py')
 
 const read = (p: string) => JSON.parse(fs.readFileSync(p, 'utf-8'))
-const ptSegments = () =>
-  read(META).segments.filter(
-    (s: any) => s.workId === 'louis-lavelle/introduction-a-l-ontologie' && s.language === 'pt'
-  )
+const ptSegments = () => workSegments(read(META).segments, LAVELLE_WORK_ID, 'pt')
 const publicRoute = (s: any) =>
   `/pt/filosofia/louis-lavelle/introducao-a-ontologia/${s.routePath.split('/').pop()}`
 const pageBody = (text: string) => text.replace(/^---[\s\S]*?\n---\n/, '').trim()
@@ -82,19 +80,11 @@ test.describe('pipeline pt segment route family (Slice 2M, public + real prose, 
     expect(`${r.stderr}${r.stdout}`).toMatch(/missing prose|ERROR/)
   })
 
-  test('no duplicate stable family under reading-review; the 4 demo pages remain (noindex)', () => {
+  test('no duplicate stable pt family under reading-review (relocated to the public namespace)', () => {
+    // The reading-review export-preview prototypes (2C–2G) were retired in the consolidation pass once
+    // Lavelle + Brás Cubas shipped as real public reader pages; only the reader-icon a11y harness remains.
     expect(fs.existsSync(path.resolve('src/reading-review/introducao-a-ontologia'))).toBe(false)
     expect(fs.existsSync(path.join(DIST, 'reading-review/introducao-a-ontologia'))).toBe(false)
-    for (const demo of [
-      'introduction-a-l-ontologie',
-      'introduction-a-l-ontologie-segment',
-      'introduction-a-l-ontologie-window',
-      'introduction-a-l-ontologie-reader'
-    ]) {
-      expect(builtExists(`/reading-review/${demo}`), demo).toBe(true)
-      const html = fs.readFileSync(path.join(DIST, `reading-review/${demo}.html`), 'utf-8')
-      expect(html, demo).toMatch(/name="robots"[^>]*content="noindex"/)
-    }
   })
 
   test('the legacy fr edition is gone (12 chapter pages + hub removed in A5); no redirect either (clean break)', () => {

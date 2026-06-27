@@ -2,6 +2,7 @@ import { test, expect } from '@playwright/test'
 import fs from 'node:fs'
 import path from 'node:path'
 import { execFileSync } from 'node:child_process'
+import { LAVELLE_WORK_ID } from './pipeline-helpers'
 
 // Slice 2P (+ A4 clean break) — post-move discovery hygiene: ONE canonical reading surface
 // (/pt/filosofia/louis-lavelle/introducao-a-ontologia/). The 12 legacy fr chapter pages stay built
@@ -77,7 +78,7 @@ test.describe('post-move discovery hygiene (Slice 2P + A4, one canonical pt read
     expect(sitemap()).toMatch(/introducao-a-ontologia\/?<\/loc>/)
     // 99 pt segment pages build and are indexable
     const pt = read(META).segments.filter(
-      (s: any) => s.workId === 'louis-lavelle/introduction-a-l-ontologie' && s.language === 'pt'
+      (s: any) => s.workId === LAVELLE_WORK_ID && s.language === 'pt'
     )
     expect(pt.length).toBe(99)
     for (const s of pt) expect(builtExists(`/${s.routePath}`)).toBe(true)
@@ -92,17 +93,15 @@ test.describe('post-move discovery hygiene (Slice 2P + A4, one canonical pt read
     expect(sitemap().includes('/reading-review/')).toBe(false)
     const text = llms()
     if (text) expect(text.includes('reading-review/')).toBe(false)
-    // a reading-review demo page is noindex + search:false
+    // the surviving reading-review buffer page (the reader-icon a11y harness; the export-preview
+    // prototypes were retired in the consolidation pass) is noindex + search:false
     const demo = fs.readFileSync(
-      path.join(DIST, 'reading-review/introduction-a-l-ontologie-reader.html'),
+      path.join(DIST, 'reading-review/reader-icon-harness.html'),
       'utf-8'
     )
     expect(demo).toMatch(/name="robots"[^>]*content="noindex"/)
     expect(
-      fs.readFileSync(
-        path.resolve('src/reading-review/introduction-a-l-ontologie-reader.md'),
-        'utf-8'
-      )
+      fs.readFileSync(path.resolve('src/reading-review/reader-icon-harness.md'), 'utf-8')
     ).toMatch(/^search:\s*false/m)
   })
 

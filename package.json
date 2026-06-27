@@ -5,8 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vitepress",
-    "build": "python3 scripts/build-sidebar-nav.py && python3 scripts/build-pipeline-export.py && python3 scripts/build-pipeline-preview.py && python3 scripts/build-pipeline-segment-routes.py && vitepress build && python3 scripts/render-podcast-player-llms.py",
-    "pipeline:export": "python3 scripts/build-pipeline-export.py && python3 scripts/build-pipeline-preview.py",
+    "build": "python3 scripts/build-sidebar-nav.py && python3 scripts/build-pipeline-export.py && python3 scripts/build-pipeline-segment-routes.py && vitepress build && python3 scripts/render-podcast-player-llms.py",
+    "pipeline:export": "python3 scripts/build-pipeline-export.py",
     "pipeline:segment-routes": "python3 scripts/build-pipeline-segment-routes.py",
     "sidebar:nav": "python3 scripts/build-sidebar-nav.py",
     "preview": "vitepress preview",

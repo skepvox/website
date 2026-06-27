@@ -2,6 +2,7 @@ import { test, expect } from '@playwright/test'
 import fs from 'node:fs'
 import path from 'node:path'
 import { execFileSync } from 'node:child_process'
+import { LAVELLE_WORK_ID, workSegments } from './pipeline-helpers'
 
 // Slice 2O — owned prev/next/up navigation for the live pt segment leaves (PipelineSegmentNav).
 // Injected via the theme content slots (page bodies untouched), self-gated by the
@@ -14,12 +15,7 @@ const COMP = path.resolve('.vitepress/theme/components/PipelineSegmentNav.vue')
 const HUB = '/pt/filosofia/louis-lavelle/introducao-a-ontologia/'
 
 const read = (p: string) => JSON.parse(fs.readFileSync(p, 'utf-8'))
-const ptByOrder = () =>
-  read(META)
-    .segments.filter(
-      (s: any) => s.workId === 'louis-lavelle/introduction-a-l-ontologie' && s.language === 'pt'
-    )
-    .sort((a: any, b: any) => a.order - b.order)
+const ptByOrder = () => workSegments(read(META).segments, LAVELLE_WORK_ID, 'pt')
 const routeOf = (s: any) => `/${s.routePath}`
 
 function builtExists(href: string): boolean {

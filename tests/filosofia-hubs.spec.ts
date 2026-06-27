@@ -1,6 +1,7 @@
 import { test, expect } from '@playwright/test'
 import fs from 'node:fs'
 import path from 'node:path'
+import { LAVELLE_WORK_ID } from './pipeline-helpers'
 
 // Slice A3 / IA-3 — the locale-rooted filosofia navigation layer around the already-moved book:
 // section hub /pt/filosofia/ and author hub /pt/filosofia/louis-lavelle/, both SSR CardGrid hubs.
@@ -39,9 +40,7 @@ const sitemapUrls = () =>
 test.describe('filosofia hubs (slice A3 / IA-3)', () => {
   test('the Introdução work card is pipeline-sourced: rendered route + title match the export, no works.json', () => {
     const meta = read(META)
-    const work = meta.works.find(
-      (w: any) => w.workId === 'louis-lavelle/introduction-a-l-ontologie'
-    )
+    const work = meta.works.find((w: any) => w.workId === LAVELLE_WORK_ID)
     const pt = work.editions.find((e: any) => e.language === 'pt')
     const expectedHref = `/${pt.routePrefix}/`
     expect(expectedHref).toBe(WORK_HUB)

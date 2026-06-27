@@ -1,6 +1,7 @@
 import { test, expect } from '@playwright/test'
 import fs from 'node:fs'
 import path from 'node:path'
+import { LAVELLE_WORK_ID } from './pipeline-helpers'
 
 // Slice F1 — the static reader-location path that replaces the two-line PipelineReaderHeader. A
 // semantic breadcrumb (<nav aria-label> > <ol role=list>) rendered as a calm bookish location line:
@@ -12,7 +13,7 @@ const data = JSON.parse(
   fs.readFileSync(path.resolve('.vitepress/theme/data/pipeline-export-segments.json'), 'utf-8')
 )
 const pt = (data.segments as Record<string, unknown>[])
-  .filter((s) => s.workId === 'louis-lavelle/introduction-a-l-ontologie' && s.language === 'pt')
+  .filter((s) => s.workId === LAVELLE_WORK_ID && s.language === 'pt')
   .sort((a, b) => (a.order as number) - (b.order as number))
 const routeOf = (s: Record<string, unknown>) => '/' + (s.routePath as string)
 const MID = pt.find((s) => s.segmentPrefix === '00-01-002-008') as Record<string, unknown> // Ser / Parágrafo 7

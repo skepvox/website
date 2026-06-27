@@ -2,6 +2,7 @@ import { test, expect } from '@playwright/test'
 import fs from 'node:fs'
 import path from 'node:path'
 import { execFileSync } from 'node:child_process'
+import { LAVELLE_WORK_ID } from './pipeline-helpers'
 
 // Slice 2K/2L + B3 — stability-aware publication gate. The gate (scripts/pipeline_gate.py) decides
 // per-segment visibility from pipeline metadata: eligible (public) iff urlStability=="stable" — the
@@ -51,7 +52,7 @@ test.describe('pipeline publication gate (Slice 2K/2L, stability-aware; pt minte
 
   test('the vendored export now has 99 stable pt routes with publicSlug; fr stays draft/null', () => {
     const segs = read(META).segments
-    const LAV = 'louis-lavelle/introduction-a-l-ontologie'
+    const LAV = LAVELLE_WORK_ID
     const pt = segs.filter((s: any) => s.workId === LAV && s.language === 'pt')
     const fr = segs.filter((s: any) => s.workId === LAV && s.language === 'fr')
     expect(pt.length).toBe(99)
@@ -113,9 +114,10 @@ test.describe('pipeline publication gate (Slice 2K/2L, stability-aware; pt minte
     )
     expect(pub).not.toMatch(/name="robots"[^>]*content="noindex"/)
 
-    // a reading-review demo page stays noindex and out of the sitemap
+    // the surviving reading-review buffer page (the reader-icon harness; the export-preview prototypes
+    // were retired in the consolidation pass) stays noindex and out of the sitemap
     const demo = fs.readFileSync(
-      path.join(DIST, 'reading-review/introduction-a-l-ontologie-reader.html'),
+      path.join(DIST, 'reading-review/reader-icon-harness.html'),
       'utf-8'
     )
     expect(demo).toMatch(/name="robots"[^>]*content="noindex"/)

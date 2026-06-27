@@ -1,6 +1,7 @@
 import { test, expect } from '@playwright/test'
 import fs from 'node:fs'
 import path from 'node:path'
+import { LAVELLE_WORK_ID, workSegments } from './pipeline-helpers'
 
 // Slice 2N (go-live) + owned reader-shell proof slice — the pt work hub at
 // /pt/filosofia/louis-lavelle/introducao-a-ontologia/. A readable entry point built from pipeline-export metadata
@@ -16,10 +17,7 @@ const ORIGIN = 'https://www.skepvox.com'
 const NS = '/pt/filosofia/louis-lavelle/introducao-a-ontologia/'
 
 const read = (p: string) => JSON.parse(fs.readFileSync(p, 'utf-8'))
-const ptSegments = () =>
-  read(META).segments.filter(
-    (s: any) => s.workId === 'louis-lavelle/introduction-a-l-ontologie' && s.language === 'pt'
-  )
+const ptSegments = () => workSegments(read(META).segments, LAVELLE_WORK_ID, 'pt')
 
 function builtExists(href: string): boolean {
   if (href.endsWith('/')) return fs.existsSync(path.join(DIST, href, 'index.html'))

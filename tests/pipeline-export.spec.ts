@@ -2,6 +2,7 @@ import { test, expect } from '@playwright/test'
 import { execFileSync } from 'node:child_process'
 import fs from 'node:fs'
 import path from 'node:path'
+import { LAVELLE_WORK_ID as LAVELLE, BRAS_WORK_ID as BRAS, workSegments } from './pipeline-helpers'
 
 // Slice 2B — vendor the book-pipeline export + a website-local reshape, no routes.
 // docs/website-export-ingestion-assessment.md §2/§7. Data foundation only: a separate
@@ -17,13 +18,8 @@ const PIPE_PROSE = path.resolve(
   'louis-lavelle',
   'introduction-a-l-ontologie'
 )
-const SRC_WORK = path.resolve('src/louis-lavelle/introduction-a-l-ontologie')
-
-const LAVELLE = 'louis-lavelle/introduction-a-l-ontologie'
-const BRAS = 'machado-de-assis/bras-cubas'
-
 const artifact = () => JSON.parse(fs.readFileSync(ARTIFACT, 'utf-8'))
-const workSegs = (workId: string) => artifact().segments.filter((s: any) => s.workId === workId)
+const workSegs = (workId: string) => workSegments(artifact().segments, workId)
 
 // cleanUrls: dir routes -> index.html, leaf routes -> <href>.html
 function builtExists(href: string): boolean {
@@ -141,16 +137,14 @@ test.describe('pipeline-export ingestion (Slice 2B: vendor + reshape, no routes)
   })
 
   test('pipeline-export is consumed only by the owned reader-shell components + section cards', () => {
-    // The vendored export feeds the buffer-only review prototypes (2C/2D map, 2G full-work reader), the
-    // live owned reader shell: PipelineReaderHeader (Slice F1 leaf location path), PipelineSegmentNav
-    // (leaf prev/next/up) and PipelineWorkContents (the pt work-hub contents map), AND the filosofia +
-    // literatura author-hub work cards (filosofia-cards.ts / literatura-cards.ts — route + title sourced
-    // from the export). The legacy hand-authored book map (WorkContents / segment-manifest) was retired
-    // with the /literatura/ surface in B5.
+    // The vendored export feeds the LIVE owned reader shell: PipelineReaderHeader (Slice F1 leaf location
+    // path), PipelineSegmentNav (leaf prev/next/up) and PipelineWorkContents (the pt work-hub contents
+    // map), AND the filosofia + literatura author-hub work cards (filosofia-cards.ts / literatura-cards.ts
+    // — route + title sourced from the export). The reading-review export-preview prototypes (2C–2G) and
+    // the legacy hand-authored book map (WorkContents / segment-manifest) were retired in the
+    // consolidation pass once Lavelle + Brás Cubas shipped as real public reader pages.
     expect(codeRefs('pipeline-export-segments')).toEqual([
-      'theme/components/PipelineExportReview.vue',
       'theme/components/PipelineReaderHeader.vue',
-      'theme/components/PipelineReaderPreview.vue',
       'theme/components/PipelineSegmentNav.vue',
       'theme/components/PipelineWorkContents.vue',
       'theme/components/filosofia-cards.ts',

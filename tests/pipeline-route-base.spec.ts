@@ -3,6 +3,7 @@ import { execFileSync } from 'node:child_process'
 import fs from 'node:fs'
 import path from 'node:path'
 import { workHubHref } from '../.vitepress/theme/components/reader-shell'
+import { LAVELLE_WORK_ID } from './pipeline-helpers'
 
 // Architecture guard — the website-owned route projection (scripts/route_base.py). A projected route is
 // ROUTE_BASE[workId] (the {locale}/{section}/{author}/{editionSlug} work prefix) + '/' + leaf(record, LEAF_POLICY).
@@ -16,7 +17,7 @@ const ROUTE_BASE_PY = path.resolve('scripts/route_base.py')
 const META = path.resolve('.vitepress/theme/data/pipeline-export-segments.json')
 const COMPONENTS = path.resolve('.vitepress/theme/components')
 
-const WORK_ID = 'louis-lavelle/introduction-a-l-ontologie'
+const WORK_ID = LAVELLE_WORK_ID
 const LIVE_BASE = 'pt/filosofia/louis-lavelle/introducao-a-ontologia'
 // The book-pipeline still mints a corpus-relative routePath with the publicSlug tail; the website projects it.
 const VENDORED_RP = 'louis-lavelle/introducao-a-ontologia/00-01-002-008-paragrafo-7'
@@ -170,10 +171,6 @@ test.describe('ROUTE_BASE projection (slice A2 / IA-2 live architecture guard)',
       'PipelineSegmentNav.vue',
       'PipelineWorkContents.vue',
       'PipelineWorkContentsMount.vue',
-      'PipelineExportReview.vue',
-      'PipelineReaderPreview.vue',
-      'PipelineSegmentPreview.vue',
-      'PipelineWindowPreview.vue',
       'reader-shell.ts'
     ]
     for (const f of readerComponents) {

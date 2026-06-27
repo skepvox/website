@@ -8,10 +8,6 @@ import PodcastEpisodeNav from './components/PodcastEpisodeNav.vue'
 import PipelineWorkContentsMount from './components/PipelineWorkContentsMount.vue'
 import PipelineReaderHeader from './components/PipelineReaderHeader.vue'
 import ReaderIcon from './components/ReaderIcon.vue'
-import PipelineExportReview from './components/PipelineExportReview.vue'
-import PipelineSegmentPreview from './components/PipelineSegmentPreview.vue'
-import PipelineWindowPreview from './components/PipelineWindowPreview.vue'
-import PipelineReaderPreview from './components/PipelineReaderPreview.vue'
 import PipelineSegmentNav from './components/PipelineSegmentNav.vue'
 import ThemeChromeSync from './components/ThemeChromeSync.vue'
 
@@ -38,18 +34,13 @@ export default Object.assign({}, VPTheme, {
       h(ThemeChromeSync)
     ]
   },
-  // Review-only consumer of the vendored pipeline export, used solely on the buffer page
-  // src/reading-review/introduction-a-l-ontologie.md (Slice 2C). Registered globally so the
-  // markdown page can render it; mounted on no live work hub.
+  // The reading-review export-preview prototypes (Slices 2C–2G) were retired in the consolidation pass
+  // once Lavelle + Brás Cubas shipped as real public reader pages. ReaderIcon stays registered globally
+  // for the reader-icon a11y harness (src/reading-review/reader-icon-harness.md) and is also imported
+  // directly by the live reader-shell components.
   enhanceApp(ctx: { app: { component: (name: string, c: unknown) => void } }) {
     // @ts-ignore - VPTheme may define its own enhanceApp; chain it.
     VPTheme.enhanceApp?.(ctx)
-    ctx.app.component('PipelineExportReview', PipelineExportReview)
-    ctx.app.component('PipelineSegmentPreview', PipelineSegmentPreview)
-    ctx.app.component('PipelineWindowPreview', PipelineWindowPreview)
-    ctx.app.component('PipelineReaderPreview', PipelineReaderPreview)
-    // Slice C1: the owned reader-icon wrapper, registered globally so the reader-icon harness buffer
-    // page can render it. No live reader consumer uses it yet (swaps are Slice C2/C3).
     ctx.app.component('ReaderIcon', ReaderIcon)
   }
 })
