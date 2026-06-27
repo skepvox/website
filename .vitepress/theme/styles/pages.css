@@ -37,6 +37,15 @@
   margin-top: 16px;
 }
 
+/* H5 — rented @vue/theme footer harmony. VPFooter uses --vt-c-bg-soft in light and --vt-c-bg in dark,
+   which made the homepage end in a darker unrelated band only in light mode. Keep the rented footer,
+   but route its surface back to the owned page base in both modes; the top border remains a quiet
+   separator rather than a filled footer block. */
+#app .VPFooter {
+  border-top-color: var(--vt-c-divider);
+  background-color: var(--vt-c-bg);
+}
+
 /* ======================================================================
    Slice 1 — navigation interaction-state floor on the rented @vue/theme chrome.
 

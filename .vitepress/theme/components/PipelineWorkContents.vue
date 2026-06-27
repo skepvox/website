@@ -19,10 +19,10 @@ import {
 //     Chapter (collapsible, count = paragraph segments) → segment leaves; front matter is a light
 //     visible "Abertura" list above the parts.
 //   • a FLAT, chapter-level work WITH editorial reading-divisions (Brás Cubas; work record carries
-//     `readingDivisions`, authored:false): a collapsible "Abertura" section + one render-layer
+//     `readingDivisions`, authored:false): the same visible "Abertura" opening list + one render-layer
 //     "Capítulos" divider + each named editorial Division as a collapsible section (count =
-//     chapter-segments) revealing its chapter-segment leaves. The divisions are EDITORIAL (one quiet
-//     map note), never authored Parts.
+//     chapter-segments) revealing its chapter-segment leaves. The divisions are website editorial
+//     structure, never authored Parts.
 //   • a flat work with no divisions: a safe-fallback single "Capítulos" list.
 // It is mounted only on a generated work hub.
 //
@@ -100,16 +100,6 @@ const readingDivisions = computed<ReadingDivisions | null>(
   () => work.value?.readingDivisions ?? null
 )
 
-// ONE quiet caption per map (orientation, not a per-divider disclaimer): the divisions are an editorial
-// reading aid, NOT the author's structure. Author-agnostic so the component stays multi-work. Shown only
-// when a work renders EDITORIAL (authored:false) divisions.
-const MAP_NOTE: Record<string, string> = {
-  pt: 'Divisões de leitura — agrupamento editorial, não do autor.',
-  fr: 'Divisions de lecture — un regroupement éditorial, non de l’auteur.',
-  en: 'Reading divisions — an editorial grouping, not the author’s.'
-}
-const mapNote = computed(() => MAP_NOTE[props.language] ?? MAP_NOTE.pt)
-
 const segs = computed(() =>
   (meta.segments as Seg[])
     .filter((s) => s.workId === props.workId && s.language === props.language)
@@ -156,21 +146,10 @@ type LooseBlock = { type: 'loose'; key: string; segments: Seg[] }
 type PartBlock = { type: 'part'; key: string; heading: string; chapters: Chapter[] }
 type FlatBlock = { type: 'flat'; key: string; entries: FlatEntry[] }
 type ChaptersDividerBlock = { type: 'chapters-divider'; key: string; heading: string }
-// Front matter as a COLLAPSIBLE "Abertura" section (used for a flat work with editorial divisions, e.g.
-// Brás Cubas) — the same disclosure grammar as a chapter/division row, so the whole hub is one uniform
-// stack of collapsible sections. (A parted work like Lavelle keeps the lighter visible LooseBlock above
-// its authored Part dividers instead, so Lavelle is unchanged.)
-type AberturaBlock = {
-  type: 'abertura'
-  key: string
-  domId: string
-  heading: string
-  segments: Seg[]
-}
 // A flat work's chapter list, regrouped under one EDITORIAL reading division rendered as a COLLAPSIBLE
 // disclosure section (title + count of chapter-segments + chevron), exactly like a Lavelle chapter row —
-// expanding reveals the chapter-segment leaves. `editorial` (authored:false) drives the one quiet map
-// note. NOT an authored Part; never derived from groupPath.
+// expanding reveals the chapter-segment leaves. `editorial` preserves the data distinction for future
+// UI/policy use. NOT an authored Part; never derived from groupPath.
 type DivisionBlock = {
   type: 'division'
   key: string
@@ -179,13 +158,7 @@ type DivisionBlock = {
   editorial: boolean
   entries: FlatEntry[]
 }
-type Block =
-  | LooseBlock
-  | PartBlock
-  | FlatBlock
-  | ChaptersDividerBlock
-  | AberturaBlock
-  | DivisionBlock
+type Block = LooseBlock | PartBlock | FlatBlock | ChaptersDividerBlock | DivisionBlock
 
 // Regroup a flat work's chapter rows under its editorial reading divisions. Buckets the EXISTING flat
 // entries (already sorted by reading order) by each division's [startPrefix, endPrefix] range — never
@@ -279,25 +252,16 @@ const blocks = computed<Block[]>(() => {
     }
     group.segments.push(rec)
   }
-  // A flat work that declares editorial reading divisions becomes one uniform stack of COLLAPSIBLE
-  // sections (same disclosure grammar as Lavelle's chapters): the front matter turns into a collapsible
-  // "Abertura" section, the body gets one render-layer "Capítulos" divider, and the single flat chapter
+  // A flat work that declares editorial reading divisions uses the same opening grammar as a parted
+  // work (visible "Abertura" front matter), then the body gets one render-layer "Capítulos" divider,
+  // and the single flat chapter
   // list is regrouped under the named divisions (each a collapsible section revealing its
   // chapter-segments). NOT authored Parts. Falls back to the flat list on any division-data drift
   // (splitByDivisions returns null).
   const rd = readingDivisions.value
   if (rd && rd.divisions.length) {
     return out.flatMap((block): Block[] => {
-      if (block.type === 'loose')
-        return [
-          {
-            type: 'abertura',
-            key: 'abertura',
-            domId: 'pwc-abertura',
-            heading: openingLabel.value,
-            segments: block.segments
-          }
-        ]
+      if (block.type === 'loose') return [block]
       if (block.type === 'flat') {
         const divisions = splitByDivisions(block.entries, rd)
         if (!divisions) return [block]
@@ -311,12 +275,6 @@ const blocks = computed<Block[]>(() => {
   }
   return out
 })
-
-// True only when the map actually rendered EDITORIAL (authored:false) dividers — gates the one quiet
-// map note. Reads the realized blocks, so the fallback flat list never shows the note.
-const hasEditorialDivisions = computed(() =>
-  blocks.value.some((b) => b.type === 'division' && b.editorial)
-)
 
 // Collapse state. Chapters default COLLAPSED; the default is rendered identically on the server and
 // on first client paint (expanded starts empty), so hydration matches. Persisted open/closed state
@@ -344,14 +302,12 @@ function persist() {
 // place again. URL-driven UI state only — no stored reading progress. currentPrefix starts null (so
 // SSR and first client paint match) and is set after mount, exactly like the collapse state.
 // Map each leaf's segmentPrefix to the key of the COLLAPSIBLE section that contains it (or null when it
-// lives in an always-visible group). Returning from a leaf opens that section. Covers every section
-// kind: a collapsible Abertura, an editorial division, and a Lavelle Part>Chapter; the visible loose
-// front matter and the flat fallback need no opening (null).
+// lives in an always-visible group). Returning from a leaf opens that section. Covers editorial
+// divisions and Lavelle Part>Chapter; visible loose front matter and the flat fallback need no opening.
 const sectionKeyOf = computed(() => {
   const map = new Map<string, string | null>()
   for (const b of blocks.value) {
     if (b.type === 'loose') for (const s of b.segments) map.set(s.segmentPrefix, null)
-    else if (b.type === 'abertura') for (const s of b.segments) map.set(s.segmentPrefix, b.key)
     else if (b.type === 'flat') for (const e of b.entries) map.set(e.segmentPrefix, null)
     else if (b.type === 'division') for (const e of b.entries) map.set(e.segmentPrefix, b.key)
     else if (b.type === 'part')
@@ -401,10 +357,6 @@ onMounted(() => {
       <h1 id="pwc-title" class="pwc__title">{{ workTitle }}</h1>
       <p class="pwc__edition">{{ editionLine }}</p>
     </header>
-    <!-- One quiet caption for the whole map (not a per-divider badge): the named dividers below are an
-         editorial reading aid, not the author's structure. Shown only for editorial (authored:false)
-         divisions. -->
-    <p v-if="hasEditorialDivisions" class="pwc__map-note">{{ mapNote }}</p>
     <nav class="pwc" :aria-label="navLabel">
       <template v-for="block in blocks" :key="block.key">
         <!-- Front-matter bucket (loose, empty-groupPath segments before the authored parts, e.g.
@@ -449,44 +401,6 @@ onMounted(() => {
           </div>
         </section>
 
-        <!-- Front matter as a COLLAPSIBLE "Abertura" section (a flat work with editorial divisions, e.g.
-             Brás Cubas): the same disclosure grammar as a chapter/division row, so the whole hub is one
-             uniform stack of collapsible sections. Count = the front-matter pieces inside. -->
-        <div v-else-if="block.type === 'abertura'" class="pwc__chapter pwc__section">
-          <button
-            class="pwc__chapter-heading"
-            type="button"
-            :aria-expanded="isOpen(block.key)"
-            :aria-controls="block.domId"
-            @click="toggle(block.key)"
-          >
-            <span class="pwc__chapter-title">{{ block.heading }}</span>
-            <span class="pwc__count" aria-hidden="true">{{ block.segments.length }}</span>
-            <ReaderIcon
-              name="disclosure"
-              class="pwc__chevron"
-              :class="{ 'is-open': isOpen(block.key) }"
-            />
-          </button>
-          <div
-            :id="block.domId"
-            v-show="isOpen(block.key)"
-            role="group"
-            :aria-label="block.heading"
-            class="pwc__leaves"
-          >
-            <SkLink
-              v-for="s in block.segments"
-              :key="s.canonicalId"
-              class="pwc__link"
-              :class="{ 'is-current': isCurrent(s) }"
-              :href="`/${s.routePath}`"
-              :current="isCurrent(s)"
-              >{{ s.displayTitle }}</SkLink
-            >
-          </div>
-        </div>
-
         <!-- Flat work WITH editorial divisions (e.g. Brás Cubas): the work has no authored Parts, so
              add one render-layer "Capítulos" divider before the named editorial divisions. This makes
              the body read as Abertura → Capítulos → divisions, matching Lavelle's visible hierarchy
@@ -498,8 +412,8 @@ onMounted(() => {
         <!-- Flat work WITH editorial reading divisions (e.g. Brás Cubas): each named division is a
              COLLAPSIBLE disclosure section — title + count of chapter-segments + chevron, the SAME
              grammar as a Lavelle chapter row — and expanding reveals the chapter-segment leaves. The
-             divisions are EDITORIAL (the one quiet map note above), never authored Parts, and carry no
-             Part divider because the work has no authored Parts. A quiet chapter-number tab keeps
+             divisions are EDITORIAL, never authored Parts, and carry no Part divider because the work
+             has no authored Parts. A quiet chapter-number tab keeps
              punctuation-only / numeral authored titles (ch 53 "......."; ch 83 "13") legible. -->
         <div v-else-if="block.type === 'division'" class="pwc__chapter pwc__section">
           <button
@@ -756,11 +670,9 @@ onMounted(() => {
   margin-top: 1.5rem;
 }
 
-/* A flat work's hub (Brás Cubas) is one uniform stack of collapsible sections — the collapsible Abertura
-   and each editorial division — each reusing the chapter disclosure-button chrome (.pwc__chapter-heading).
-   The sections stack tightly via that button's top hairline, exactly like Lavelle's chapter rows; the
-   work has no authored Part divider, and the editorial nature is carried by the one quiet map note above,
-   never a per-row badge. */
+/* A flat work's hub (Brás Cubas) uses the same opening grammar as Lavelle: visible front matter first,
+   then a "Capítulos" divider and collapsible reading divisions. The sections stack tightly via the
+   disclosure-button chrome (.pwc__chapter-heading), exactly like Lavelle's chapter rows. */
 
 /* A numbered leaf row: a flat work's chapter-segment revealed inside an open editorial division. The same
    quiet, indented leaf as a Lavelle paragraph row, plus a tabular chapter-number tab so titles align and
@@ -778,17 +690,6 @@ onMounted(() => {
 }
 .pwc__leaf-title {
   flex: 1 1 auto;
-}
-
-/* One quiet caption for the whole editorial map (orientation, not a disclaimer): muted, small, never
-   repeated per divider. Sits between the masthead and the first divider. */
-.pwc__map-note {
-  margin: -0.75rem 0 1.5rem;
-  font-size: var(--sk-reading-kicker);
-  font-weight: 500;
-  letter-spacing: var(--sk-reading-kicker-tracking);
-  line-height: 1.4;
-  color: var(--sk-text-muted);
 }
 
 /* Part-less chapter rows (Brás Cubas) share the disclosure-button metrics + typography of an AUTHORED

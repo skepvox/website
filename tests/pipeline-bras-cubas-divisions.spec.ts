@@ -3,11 +3,12 @@ import fs from 'node:fs'
 import path from 'node:path'
 import { BRAS_WORK_ID, workSegments } from './pipeline-helpers'
 
-// Brás Cubas editorial reading-divisions — the flat 160-chapter hub reads in the SAME disclosure grammar
-// as Lavelle: a map of COLLAPSIBLE sections (each a row with a count of the final reading units inside,
-// expanding to reveal them). For Brás Cubas the sections are a collapsible "Abertura" + the 10 named
-// EDITORIAL divisions (count = chapter-segments); the chapter-segments are the revealed leaves, never a
-// raw flat wall. These are a render/navigation aid, NOT authored Parts (Machado wrote none). Compact,
+// Brás Cubas editorial reading-divisions — the flat 160-chapter hub reads in the SAME map grammar
+// as Lavelle: visible Abertura front matter, then a "Capítulos" divider, then COLLAPSIBLE sections
+// (each a row with a count of the final reading units inside, expanding to reveal them). For Brás Cubas
+// the sections are the 10 named reading divisions (count = chapter-segments); the chapter-segments are
+// the revealed leaves, never a raw flat wall. These are a render/navigation aid, NOT authored Parts.
+// Compact,
 // high-value: the Brás-Cubas surface + the guard that Lavelle's authored grammar is untouched. (Generic
 // ingestion/route/metadata invariants live in the pipeline-export / pipeline-work-hub specs.)
 const DIST = path.resolve('.vitepress/dist')
@@ -35,13 +36,13 @@ function brasLinks(html: string): string[] {
 }
 
 // The expected section rows (label + count of final reading units), derived from the DATA so the test
-// tracks the declared scheme: Abertura (front matter) first, then each editorial division.
+// tracks the declared scheme: each named reading division only. Abertura is visible front matter, not a
+// collapsible section.
 function expectedSections(): { label: string; count: number }[] {
   const work = read(META).works.find((w: any) => w.workId === BRAS_WORK_ID)
   const segs = brasPt()
   const body = segs.filter((s: any) => s.groupPath.length > 0)
-  const front = segs.filter((s: any) => s.groupPath.length === 0)
-  const sections = [{ label: 'Abertura', count: front.length }]
+  const sections = []
   for (const d of work.readingDivisions.divisions) {
     const a = body.findIndex((s: any) => s.segmentPrefix === d.startPrefix)
     const b = body.findIndex((s: any) => s.segmentPrefix === d.endPrefix)
@@ -61,7 +62,7 @@ test.describe('Brás Cubas hub — editorial reading divisions (collapsible map)
     })
   })
 
-  test('renders 11 collapsible section rows (Abertura + 10 divisions), each with its count; one quiet map note', async ({
+  test('renders visible Abertura plus 10 collapsible division rows, each with its count; no map note', async ({
     page
   }) => {
     const errors: string[] = []
@@ -71,7 +72,7 @@ test.describe('Brás Cubas hub — editorial reading divisions (collapsible map)
     await expect(nav).toBeVisible()
 
     const expected = expectedSections()
-    expect(expected.length).toBe(11) // Abertura + 10 divisions
+    expect(expected.length).toBe(10)
     const sections = nav.locator('.pwc__section')
     await expect(sections).toHaveCount(expected.length)
 
@@ -83,10 +84,11 @@ test.describe('Brás Cubas hub — editorial reading divisions (collapsible map)
       await expect(head.locator('.pwc__count')).toHaveText(String(expected[i].count))
       await expect(head).toHaveAttribute('aria-expanded', 'false')
     }
-    // Abertura is the first section (count 3); the first/last divisions read as expected
-    expect(expected[0]).toEqual({ label: 'Abertura', count: 3 })
-    expect(expected[1].label).toBe('O Defunto Autor')
-    expect(expected[10].label).toBe('O Acerto de Contas')
+    // Abertura is visible front matter, not a disclosure section; first/last body divisions read as expected
+    await expect(nav.locator('.pwc__opening-heading')).toHaveText('Abertura')
+    await expect(nav.locator('.pwc__opening a.pwc__link--loose')).toHaveCount(3)
+    expect(expected[0].label).toBe('O Defunto Autor')
+    expect(expected[9].label).toBe('Últimas Voltas')
     await expect(nav.locator('.pwc__chapters-heading')).toHaveText('Capítulos')
 
     // the OLD always-open dividers / generic flat list are gone
@@ -94,10 +96,9 @@ test.describe('Brás Cubas hub — editorial reading divisions (collapsible map)
     await expect(nav.locator('.pwc__part--editorial')).toHaveCount(0)
     await expect(nav.locator('a.pwc__chapter-row')).toHaveCount(0) // no raw wall of rows
 
-    // exactly one quiet caption marks the map as editorial (not the author's), never a per-row badge
-    const note = page.locator('.pwc__map-note')
-    await expect(note).toHaveCount(1)
-    await expect(note).toContainText(/agrupamento editorial/i)
+    // No explicit editorial disclaimer on the hub; the site as a whole is an editorial reading surface.
+    await expect(page.locator('.pwc__map-note')).toHaveCount(0)
+    await expect(page.getByText(/agrupamento editorial/i)).toHaveCount(0)
 
     expect(errors).toEqual([]) // SSR/hydration did not throw
   })
@@ -112,7 +113,9 @@ test.describe('Brás Cubas hub — editorial reading divisions (collapsible map)
     await expect(nav.locator('.pwc__leaves a.pwc__link--numbered')).toHaveCount(160)
 
     // a mid-book division is collapsed by default, then opens to reveal its chapter-segment leaves
-    const div = nav.locator('.pwc__section').nth(4) // O Amor de Virgília (47–63)
+    const div = nav.locator('.pwc__section').filter({
+      has: page.locator('.pwc__chapter-title', { hasText: /^Virgília$/ })
+    }) // 47–63
     const head = div.locator('.pwc__chapter-heading')
     await expect(div.locator('.pwc__leaves')).toBeHidden()
     await head.click()
@@ -145,7 +148,7 @@ test.describe('Brás Cubas hub — editorial reading divisions (collapsible map)
   test('hash return opens the containing division and highlights the chapter-segment', async ({
     page
   }) => {
-    // ch 84 "O conflito" lives in the 6th division (A Inquietação, 78–101)
+    // ch 84 "O conflito" lives in the 6th division (Inquietações, 78–101)
     await page.goto(BRAS_HUB + '#trecho-00-00-084-087')
     const current = page.locator('nav.pwc a.pwc__link.is-current')
     await expect(current).toHaveCount(1)
@@ -154,13 +157,18 @@ test.describe('Brás Cubas hub — editorial reading divisions (collapsible map)
     await expect(current).toHaveAttribute('href', /00-00-084-087$/)
   })
 
-  test('hash return into front matter opens the Abertura section', async ({ page }) => {
+  test('hash return into front matter highlights visible Abertura without opening a section', async ({
+    page
+  }) => {
     await page.goto(BRAS_HUB + '#trecho-00-00-000-001')
     const current = page.locator('nav.pwc a.pwc__link.is-current')
     await expect(current).toHaveCount(1)
     await expect(current).toBeVisible()
     await expect(current).toHaveText('Dedicatória')
     await expect(current).toHaveAttribute('aria-current', 'page')
+    await expect(
+      page.locator('nav.pwc .pwc__section').first().locator('.pwc__chapter-heading')
+    ).toHaveAttribute('aria-expanded', 'false')
   })
 
   test('every chapter link resolves; prefix-only leaves; no legacy /literatura/ leak; metadata-only', () => {

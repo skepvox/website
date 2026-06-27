@@ -48,11 +48,13 @@ const featured: Record<string, FeaturedWork | null> = {
 .home-index {
   max-width: var(--sk-measure-lede);
   margin: 0 auto;
-  padding: clamp(2.5rem, 8vh, 5rem) var(--sk-space-5) var(--sk-space-7);
+  padding: clamp(2.5rem, 7vh, 4.5rem) var(--sk-space-5) var(--sk-space-7);
 }
 
 .home-masthead {
-  margin-bottom: var(--sk-space-7);
+  margin-bottom: 0;
+  padding-bottom: var(--sk-space-6);
+  border-bottom: 1px solid var(--sk-reading-hairline);
 }
 
 .home-masthead__mark {
@@ -76,7 +78,7 @@ const featured: Record<string, FeaturedWork | null> = {
 
 /* Pillars — a hairline-framed table of contents, identical structure on desktop + mobile. */
 .home-pillars {
-  border-top: 1px solid var(--vt-c-divider);
+  border-top: 0;
 }
 
 .pillar {
@@ -133,7 +135,7 @@ const featured: Record<string, FeaturedWork | null> = {
   grid-column: 1 / -1;
   grid-row: 3;
   margin: 0;
-  font-size: var(--sk-text-xs);
+  font-size: var(--sk-reading-kicker);
   line-height: 1.5;
   color: var(--sk-text-muted);
 }
@@ -170,10 +172,7 @@ const featured: Record<string, FeaturedWork | null> = {
 /* Mobile — one breakpoint; the 1fr/auto grid is intrinsically responsive, so only padding relaxes. */
 @media (max-width: 576px) {
   .home-index {
-    padding: var(--sk-space-6) var(--sk-space-4) var(--sk-space-6);
-  }
-  .home-masthead {
-    margin-bottom: var(--sk-space-6);
+    padding: var(--sk-space-6) var(--sk-space-4);
   }
   .pillar {
     padding: var(--sk-space-4) 0;
