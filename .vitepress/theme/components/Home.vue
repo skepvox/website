@@ -11,7 +11,7 @@ import SkLink from './SkLink.vue'
     </header>
 
     <nav class="home-pillars" aria-label="Seções">
-      <SkLink class="pillar" href="/literatura/">
+      <SkLink class="pillar" href="/pt/literatura/">
         <h2 class="pillar__label">Literatura</h2>
         <span class="pillar__go" aria-hidden="true">→</span>
         <p class="pillar__blurb">

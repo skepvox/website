@@ -42,10 +42,10 @@ test.describe('PodcastEpisodeNav — owned within-show episode pager', () => {
       'podcast/francais/index.html',
       'podcast/espanol/index.html',
       'podcast/english/index.html',
-      'literatura/index.html',
-      'literatura/machado-de-assis/index.html',
-      'literatura/machado-de-assis/bras-cubas.html',
-      'literatura/graciliano-ramos/vidas-secas/00-00-001-mudanca.html',
+      'pt/literatura/index.html',
+      'pt/literatura/machado-de-assis/index.html',
+      'pt/literatura/machado-de-assis/bras-cubas/index.html', // pipeline work hub
+      'pt/literatura/machado-de-assis/bras-cubas/00-00-001-004.html', // a reader leaf
       // the live pt reader (the legacy /louis-lavelle/ book pages were removed in A5)
       'pt/filosofia/louis-lavelle/index.html', // author hub
       'pt/filosofia/louis-lavelle/introducao-a-ontologia/index.html', // work hub

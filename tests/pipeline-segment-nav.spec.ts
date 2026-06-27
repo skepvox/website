@@ -268,9 +268,9 @@ test.describe('pipeline pt segment nav (Slice 2O, owned prev/next/up, pipeline-s
     page
   }) => {
     // The owned PipelineReaderHeader removes the accent bar on its own h2; that must not leak to other
-    // vt-doc pages. (The original subject was the legacy /louis-lavelle/de-l-acte page, removed in A5;
-    // the literatura author hub is a surviving non-pipeline vt-doc page with default accent-bar h2s.)
-    await page.goto('/literatura/machado-de-assis/')
+    // vt-doc pages. (The /pt/literatura/machado-de-assis/ author hub is a surviving non-pipeline vt-doc
+    // page — a CardGrid hub with a default-styled "Obras" h2; the legacy /literatura/ hub was retired in B5.)
+    await page.goto('/pt/literatura/machado-de-assis/')
     const h2 = page.locator('.VPContentDoc .vt-doc h2').first()
     await expect(h2).toBeVisible()
     const before = await h2.evaluate((el) => getComputedStyle(el, '::before').display)

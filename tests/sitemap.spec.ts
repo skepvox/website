@@ -25,11 +25,9 @@ test.describe('sitemap de-emphasis', () => {
       '/podcast/francais/',
       '/podcast/francais/001-le-badge',
       '/podcast/francais/003-le-covoiturage-poli',
-      '/literatura/',
-      '/literatura/machado-de-assis/',
-      '/literatura/machado-de-assis/dom-casmurro', // multi-chapter work hub
-      '/literatura/machado-de-assis/o-alienista', // single-file work (depth edge case)
-      '/literatura/raul-pompeia/o-ateneu', // single-file work
+      '/pt/literatura/', // locale-rooted literatura section hub (B2; legacy /literatura/ retired in B5)
+      '/pt/literatura/machado-de-assis/', // author hub
+      '/pt/literatura/machado-de-assis/bras-cubas/', // pipeline pt work hub
       '/pt/filosofia/', // locale-rooted philosophy section hub (A3; replaces the legacy /louis-lavelle/ removed in A5)
       '/pt/filosofia/louis-lavelle/', // locale-rooted author hub (A3)
       '/pt/filosofia/louis-lavelle/introducao-a-ontologia/' // locale-rooted pipeline work hub (A2)
@@ -41,7 +39,7 @@ test.describe('sitemap de-emphasis', () => {
   test('drops chapter routes and /404', () => {
     const urls = sitemapUrls()
     for (const u of [
-      '/literatura/machado-de-assis/dom-casmurro/00-01-001-do-titulo', // chapter under a multi-chapter work
+      '/pt/literatura/machado-de-assis/bras-cubas/00-00-001-004', // pipeline pt leaf (B2/B3) — pruned
       '/pt/filosofia/louis-lavelle/introducao-a-ontologia/00-01-002-008', // locale-rooted pipeline leaf (A2)
       '/404'
     ]) {
@@ -50,18 +48,18 @@ test.describe('sitemap de-emphasis', () => {
   })
 
   test('a dropped chapter stays indexable (no robots noindex meta)', () => {
-    for (const rel of ['literatura/machado-de-assis/dom-casmurro/00-01-001-do-titulo.html']) {
+    for (const rel of ['pt/literatura/machado-de-assis/bras-cubas/00-00-001-004.html']) {
       const html = fs.readFileSync(path.resolve('.vitepress/dist', rel), 'utf-8')
       expect(html, `${rel} must remain indexable`).not.toContain('name="robots"')
     }
   })
 
   test('chapter pages are not excluded from local search (search config untouched)', () => {
-    // Local-search inclusion is governed by `search: false` frontmatter, used only
-    // on buffer pages. Chapter sources carry no such flag, so they stay in the
-    // local index; this slice changes only the sitemap, never search config.
+    // Local-search inclusion is governed by `search: false` frontmatter, used only on hidden/buffer
+    // pages. A published reading leaf carries no such flag, so it stays in the local index; this slice
+    // changes only the sitemap, never search config.
     const src = fs.readFileSync(
-      path.resolve('src/literatura/machado-de-assis/dom-casmurro/00-01-001-do-titulo.md'),
+      path.resolve('src/pt/literatura/machado-de-assis/bras-cubas/00-00-001-004.md'),
       'utf-8'
     )
     expect(src).not.toMatch(/^search:\s*false/m)

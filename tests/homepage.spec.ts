@@ -4,7 +4,7 @@ import { test, expect } from '@playwright/test'
 // Podcasts), not a marketing hero: a quiet left-aligned masthead (eyebrow -> wordmark -> subline) over a
 // hairline table-of-contents. Real-DOM checks against the built site (vitepress preview).
 const PILLARS = [
-  { label: 'Literatura', href: '/literatura/' },
+  { label: 'Literatura', href: '/pt/literatura/' },
   { label: 'Filosofia', href: '/pt/filosofia/' },
   { label: 'Podcasts', href: '/podcast/' }
 ]
@@ -55,7 +55,7 @@ test.describe('homepage — three-pillar index', () => {
     const hrefs = await page
       .locator('.home-index a')
       .evaluateAll((els) => els.map((el) => el.getAttribute('href')))
-    expect(hrefs.sort()).toEqual(['/literatura/', '/podcast/', '/pt/filosofia/'])
+    expect(hrefs.sort()).toEqual(['/podcast/', '/pt/filosofia/', '/pt/literatura/'])
   })
 
   test('meta description names the three pillars (no Louis Lavelle author framing)', async ({

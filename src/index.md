@@ -93,7 +93,7 @@ head:
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Literatura",
-                "url": "https://skepvox.com/literatura/"
+                "url": "https://skepvox.com/pt/literatura/"
               },
               {
                 "@type": "ListItem",
@@ -126,7 +126,7 @@ head:
               {
                 "@type": "Thing",
                 "name": "Literatura",
-                "url": "https://skepvox.com/literatura/"
+                "url": "https://skepvox.com/pt/literatura/"
               },
               {
                 "@type": "Thing",

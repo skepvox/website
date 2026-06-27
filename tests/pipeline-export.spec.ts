@@ -140,12 +140,13 @@ test.describe('pipeline-export ingestion (Slice 2B: vendor + reshape, no routes)
     expect(fs.existsSync(path.join(DIST, 'louis-lavelle'))).toBe(false)
   })
 
-  test('pipeline-export consumers are exactly the owned reader-shell components; segment-manifest consumers unchanged', () => {
+  test('pipeline-export is consumed only by the owned reader-shell components + section cards', () => {
     // The vendored export feeds the buffer-only review prototypes (2C/2D map, 2G full-work reader), the
     // live owned reader shell: PipelineReaderHeader (Slice F1 leaf location path), PipelineSegmentNav
-    // (leaf prev/next/up) and PipelineWorkContents (the pt work-hub contents map), AND the A3 filosofia
-    // author-hub work cards (filosofia-cards.ts — route + title sourced from the export). It is never
-    // consumed by the legacy hand-authored book map, whose consumers (the WorkContents path) are unchanged.
+    // (leaf prev/next/up) and PipelineWorkContents (the pt work-hub contents map), AND the filosofia +
+    // literatura author-hub work cards (filosofia-cards.ts / literatura-cards.ts — route + title sourced
+    // from the export). The legacy hand-authored book map (WorkContents / segment-manifest) was retired
+    // with the /literatura/ surface in B5.
     expect(codeRefs('pipeline-export-segments')).toEqual([
       'theme/components/PipelineExportReview.vue',
       'theme/components/PipelineReaderHeader.vue',
@@ -155,16 +156,6 @@ test.describe('pipeline-export ingestion (Slice 2B: vendor + reshape, no routes)
       'theme/components/filosofia-cards.ts',
       'theme/components/literatura-cards.ts'
     ])
-    expect(codeRefs('segment-manifest')).toEqual([
-      'theme/components/WorkContents.vue',
-      'theme/components/WorkContentsMount.vue'
-    ])
-    const mount = fs.readFileSync(
-      path.resolve('.vitepress/theme/components/WorkContentsMount.vue'),
-      'utf-8'
-    )
-    expect(mount).toContain("new Set(['literatura/machado-de-assis/bras-cubas.md'])")
-    expect(mount.includes('introduction-a-l-ontologie')).toBe(false)
   })
 })
 

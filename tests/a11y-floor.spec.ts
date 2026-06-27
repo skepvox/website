@@ -51,8 +51,12 @@ test.describe('a11y floor (Slice 1A)', () => {
     expect(sk).toMatch(/a:focus-visible\s*\{[^}]*var\(--sk-focus-ring\)/)
   })
 
-  test('ReadingNav prev/next links get the keyboard focus ring via SkLink', () => {
-    const nav = fs.readFileSync(path.resolve('.vitepress/theme/components/ReadingNav.vue'), 'utf-8')
+  test('the reader segment nav prev/next links get the keyboard focus ring via SkLink', () => {
+    // Repointed from the retired legacy ReadingNav (B5) to the live PipelineSegmentNav.
+    const nav = fs.readFileSync(
+      path.resolve('.vitepress/theme/components/PipelineSegmentNav.vue'),
+      'utf-8'
+    )
     const sk = fs.readFileSync(path.resolve('.vitepress/theme/components/SkLink.vue'), 'utf-8')
     expect(nav).toContain('<SkLink')
     expect(sk).toMatch(/a:focus-visible\s*\{[^}]*var\(--sk-focus-ring\)/)

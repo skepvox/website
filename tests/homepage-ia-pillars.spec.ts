@@ -14,7 +14,7 @@ const builtHub = (route: string) =>
   fs.existsSync(path.join(DIST, route.replace(/^\/|\/$/g, ''), 'index.html'))
 
 const PILLARS = [
-  { label: 'Literatura', href: '/literatura/' },
+  { label: 'Literatura', href: '/pt/literatura/' },
   { label: 'Filosofia', href: '/pt/filosofia/' },
   { label: 'Podcasts', href: '/podcast/' }
 ]
@@ -25,7 +25,7 @@ test.describe('A6 — three-pillar IA (homepage, nav, 404)', () => {
     const nav = config.slice(config.indexOf('const nav'), config.indexOf('export const sidebar'))
     const order = [...nav.matchAll(/text:\s*'([^']+)'/g)].map((m) => m[1])
     expect(order).toEqual(['Home', 'Literatura', 'Filosofia', 'Podcasts'])
-    expect(nav).toContain("link: '/literatura/'")
+    expect(nav).toContain("link: '/pt/literatura/'")
     expect(nav).toContain("link: '/pt/filosofia/'")
     expect(nav).toContain("link: '/podcast/'")
     expect(nav.includes('/louis-lavelle/')).toBe(false)
@@ -35,7 +35,7 @@ test.describe('A6 — three-pillar IA (homepage, nav, 404)', () => {
     // VitePress renders 404 as a client-side NotFound component, so the static 404.html carries no body
     // anchors — the 404.md source is the genuine guard (the built nav/siteData is covered by the nav test).
     const md = read(path.join(SRC, '404.md'))
-    expect(md).toContain('[Literatura](/literatura/)')
+    expect(md).toContain('[Literatura](/pt/literatura/)')
     expect(md).toContain('[Filosofia](/pt/filosofia/)')
     expect(md).toContain('[Podcasts](/podcast/)')
     expect(md.includes('/louis-lavelle/')).toBe(false)
@@ -45,7 +45,7 @@ test.describe('A6 — three-pillar IA (homepage, nav, 404)', () => {
     const html = read(path.join(DIST, 'index.html'))
     for (const { href } of PILLARS) expect(html, href).toContain(`href="${href}"`)
     // JSON-LD lists the three section URLs (format-agnostic substrings)
-    expect(html).toContain('skepvox.com/literatura/')
+    expect(html).toContain('skepvox.com/pt/literatura/')
     expect(html).toContain('skepvox.com/pt/filosofia/')
     expect(html).toContain('skepvox.com/podcast/')
     // no legacy route anywhere, and the author framing is fully gone from the homepage
@@ -54,7 +54,7 @@ test.describe('A6 — three-pillar IA (homepage, nav, 404)', () => {
   })
 
   test('each pillar destination is a real, built surface (no migration, no dead pillar)', () => {
-    expect(builtHub('/literatura/')).toBe(true)
+    expect(builtHub('/pt/literatura/')).toBe(true)
     expect(builtHub('/pt/filosofia/')).toBe(true)
     expect(builtHub('/podcast/')).toBe(true)
   })

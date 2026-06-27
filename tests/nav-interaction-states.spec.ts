@@ -29,7 +29,7 @@ const OWNED = [
   { file: 'components/CardGrid.vue', hover: 'border-color: var(--sk-accent)' },
   { file: 'components/Home.vue', hover: 'transform: translateX(3px)' },
   { file: 'components/PodcastShowHeader.vue', hover: 'border-bottom-color: var(--sk-accent)' },
-  { file: 'components/ReadingNav.vue', hover: 'color: var(--sk-reading-heading)' },
+  { file: 'components/PipelineSegmentNav.vue', hover: 'color: var(--sk-reading-heading)' },
   { file: 'components/PodcastEpisodeNav.vue', hover: 'color: var(--sk-reading-heading)' }
 ]
 const DELEGATES_TO_SKLINK = OWNED.map((c) => c.file)
@@ -153,29 +153,30 @@ test.describe('nav interaction-state standard — rendered behaviour', () => {
     expect(color).toBe('rgb(47, 74, 107)') // --sk-accent #2f4a6b (light)
   })
 
-  test('mobile: ReadingNav "next" navigates on the first tap after returning', async ({
+  test('mobile: segment nav "next" navigates on the first tap after returning', async ({
     page
   }, testInfo) => {
     test.skip(testInfo.project.name !== 'mobile', 'mobile touch regression only')
 
-    const FIRST = '/literatura/graciliano-ramos/vidas-secas/00-00-001-mudanca'
+    // Repointed from the retired legacy /literatura/ ReadingNav (B5) to the live pipeline reader's
+    // PipelineSegmentNav — same pointer-gated-hover pattern, so the tap-after-back regression class holds.
+    const FIRST = '/pt/literatura/machado-de-assis/bras-cubas/00-00-001-004'
     await page.goto(FIRST)
 
-    const next = page.locator('.reading-nav__link--next')
+    const next = page.locator('.pseg-nav__link--next')
     await expect(next).toBeVisible()
     const href = await next.getAttribute('href')
-    expect(href, 'ReadingNav should expose a next-chapter link on chapter 1').toBeTruthy()
+    expect(href, 'segment nav should expose a next link on the first chapter').toBeTruthy()
     const nextRe = new RegExp(href!.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '$')
 
     await next.click()
     await expect(page).toHaveURL(nextRe)
 
     await page.goBack()
-    await expect(page).toHaveURL(/00-00-001-mudanca$/)
+    await expect(page).toHaveURL(/00-00-001-004$/)
 
-    // The reshaped hover is pointer-gated, so the first tap here must navigate (no
-    // stuck :hover consuming it) — the tap-after-back regression class.
-    await page.locator('.reading-nav__link--next').click()
+    // The hover is pointer-gated, so the first tap here must navigate (no stuck :hover consuming it).
+    await page.locator('.pseg-nav__link--next').click()
     await expect(page).toHaveURL(nextRe)
   })
 })

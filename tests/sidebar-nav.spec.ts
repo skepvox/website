@@ -13,15 +13,6 @@ const MANIFEST = path.resolve('.vitepress/theme/data/sidebar-nav.json')
 const manifest = () => JSON.parse(fs.readFileSync(MANIFEST, 'utf-8'))
 const corpus = (m: any, key: string) => m.corpora.find((c: any) => c.key === key)
 
-function allWorks(m: any): any[] {
-  const out: any[] = []
-  for (const c of m.corpora) {
-    for (const a of c.authors ?? []) out.push(...a.works)
-    for (const g of c.groups ?? []) out.push(...g.works)
-  }
-  return out
-}
-
 // Resolve a site href to its built HTML file (cleanUrls: dirs -> index.html, leaves -> .html).
 function builtExists(href: string): boolean {
   if (href.endsWith('/')) return fs.existsSync(path.join(DIST, href, 'index.html'))
@@ -40,36 +31,10 @@ test.describe('sidebar-nav manifest (Slice 2A data foundation)', () => {
   })
 
   test('corpora are present in the user-facing (global-nav) order', () => {
-    // the legacy louis-lavelle corpus was removed in A5; literatura + podcast remain
-    expect(manifest().corpora.map((c: any) => c.key)).toEqual(['literatura', 'podcast'])
+    // the legacy louis-lavelle corpus was removed in A5; the hand-authored /literatura/ corpus in B5
+    // (Brás Cubas is now a /pt/literatura/ pipeline reader hub, not a sidebar-nav corpus). Podcast remains.
+    expect(manifest().corpora.map((c: any) => c.key)).toEqual(['podcast'])
   })
-
-  test('single-file works are classified single-file; multi-leaf works carry a leaf count', () => {
-    const byHref: Record<string, any> = Object.fromEntries(
-      allWorks(manifest()).map((w) => [w.href, w])
-    )
-    for (const href of [
-      '/literatura/machado-de-assis/a-cartomante',
-      '/literatura/raul-pompeia/o-ateneu'
-    ]) {
-      expect(byHref[href], href).toBeTruthy()
-      expect(byHref[href].kind, href).toBe('single-file')
-      expect(byHref[href].leaves, href).toBe(0)
-    }
-    for (const href of [
-      '/literatura/graciliano-ramos/vidas-secas',
-      '/literatura/machado-de-assis/bras-cubas'
-    ]) {
-      expect(byHref[href], href).toBeTruthy()
-      expect(byHref[href].kind, href).toBe('multi-leaf')
-      expect(byHref[href].leaves, href).toBeGreaterThan(0)
-    }
-    // (the pipeline pt work moved to /pt/filosofia/... in A2 and is no longer in the louis-lavelle
-    // corpus; A3 adds its locale-rooted nav/sidebar entry, with pipeline-export classification.)
-  })
-
-  // (The Lavelle translated/original corpus test was retired in A5 with the legacy /louis-lavelle/
-  // corpus; the locale-rooted pt Introdução is a hand-authored /pt/filosofia/ hub, not a sidebar-nav corpus.)
 
   test('no buffer/private podcast episodes leak: per-show count matches the public manifest', () => {
     const shows = JSON.parse(fs.readFileSync(path.resolve('src/podcast/shows.json'), 'utf-8'))
@@ -103,10 +68,10 @@ test.describe('sidebar-nav manifest (Slice 2A data foundation)', () => {
 
   test('config.ts remains the live rented-sidebar source; manifest feeds only owned components', () => {
     const config = fs.readFileSync(path.resolve('.vitepress/config.ts'), 'utf-8')
-    // the hand-maintained rented sidebar object is unchanged and still live
-    expect(config).toContain("'/literatura/':")
+    // the hand-maintained rented sidebar object is still live; podcast only since B5
     expect(config).toContain("'/podcast/':")
     expect(config.includes("'/louis-lavelle/':")).toBe(false) // legacy sidebar key removed in A5
+    expect(config.includes("'/literatura/':")).toBe(false) // legacy literatura sidebar removed in B5
     // the rented sidebar (config.ts) is NOT fed by the manifest
     expect(config).not.toContain('sidebar-nav')
     // the manifest's only .vitepress consumer is the owned PodcastEpisodeNav (Slice 2B);

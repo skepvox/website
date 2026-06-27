@@ -32,21 +32,6 @@ const sitemapUrls = () =>
     ].map((m) => m[1].replace(ORIGIN, ''))
   )
 
-function codeRefs(needle: string): string[] {
-  const found: string[] = []
-  const walk = (dir: string) => {
-    for (const e of fs.readdirSync(dir, { withFileTypes: true })) {
-      if (['data', 'dist', 'cache'].includes(e.name)) continue
-      const p = path.join(dir, e.name)
-      if (e.isDirectory()) walk(p)
-      else if (/\.(ts|vue|js|mjs)$/.test(e.name) && fs.readFileSync(p, 'utf-8').includes(needle))
-        found.push(path.relative(path.resolve('.vitepress'), p))
-    }
-  }
-  walk(path.resolve('.vitepress'))
-  return found.sort()
-}
-
 test.describe('pipeline-export reading-flow preview (Slice 2F, buffer/noindex, no route migration)', () => {
   test('the window artifact holds a contiguous pt window joined by (segmentPrefix, language)', () => {
     const a = artifact()
@@ -105,18 +90,8 @@ test.describe('pipeline-export reading-flow preview (Slice 2F, buffer/noindex, n
     expect(fs.existsSync(path.join(DIST, 'louis-lavelle'))).toBe(false)
   })
 
-  test('WorkContents/ReadingNav/segment-manifest consumers are unchanged', () => {
-    expect(codeRefs('segment-manifest')).toEqual([
-      'theme/components/WorkContents.vue',
-      'theme/components/WorkContentsMount.vue'
-    ])
-    const mount = fs.readFileSync(
-      path.resolve('.vitepress/theme/components/WorkContentsMount.vue'),
-      'utf-8'
-    )
-    expect(mount).toContain("new Set(['literatura/machado-de-assis/bras-cubas.md'])")
-    expect(mount.includes('introduction-a-l-ontologie')).toBe(false)
-  })
+  // (The legacy WorkContents / ReadingNav / segment-manifest book map was retired with the /literatura/
+  // surface in B5; the "unchanged consumers" guard went with it.)
 
   test('prev/next and the Trechos overview move between segments with no navigation; no routePath link', async ({
     page

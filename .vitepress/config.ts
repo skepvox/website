@@ -18,12 +18,13 @@ const nav: ThemeConfig['nav'] = [
     link: '/'
   },
   // Three-pillar global nav (slice A6): Literatura / Filosofia / Podcasts — the same first-level model
-  // as the homepage. Filosofia is the locale-rooted /pt/filosofia/ section; Literatura + Podcasts keep
-  // their current (legacy) surfaces, unmoved.
+  // as the homepage. Filosofia and Literatura are the locale-rooted /pt/<section>/ sections (Brás Cubas
+  // is live under /pt/literatura/); Podcasts keeps its current surface. The Literatura activeMatch also
+  // covers the legacy /literatura/ pages (kept as debt, no redirect) so the pillar still highlights there.
   {
     text: 'Literatura',
-    activeMatch: '^/literatura/',
-    link: '/literatura/'
+    activeMatch: '^/(pt/)?literatura/',
+    link: '/pt/literatura/'
   },
   {
     text: 'Filosofia',
@@ -70,37 +71,10 @@ export const sidebar: ThemeConfig['sidebar'] = {
     }
   ],
 
-  '/literatura/': [
-    {
-      text: 'Machado de Assis',
-      link: '/literatura/machado-de-assis/',
-      items: [
-        { text: 'Memórias Póstumas de Brás Cubas', link: '/literatura/machado-de-assis/bras-cubas' },
-        { text: 'Quincas Borba', link: '/literatura/machado-de-assis/quincas-borba' },
-        { text: 'Dom Casmurro', link: '/literatura/machado-de-assis/dom-casmurro' },
-        { text: 'Esaú e Jacó', link: '/literatura/machado-de-assis/esau-e-jaco' },
-        { text: 'O Alienista', link: '/literatura/machado-de-assis/o-alienista' },
-        { text: 'A Cartomante', link: '/literatura/machado-de-assis/a-cartomante' }
-      ]
-    },
-    {
-      text: 'Graciliano Ramos',
-      link: '/literatura/graciliano-ramos/',
-      items: [
-        { text: 'São Bernardo', link: '/literatura/graciliano-ramos/sao-bernardo' },
-        { text: 'Angústia', link: '/literatura/graciliano-ramos/angustia' },
-        { text: 'Vidas Secas', link: '/literatura/graciliano-ramos/vidas-secas' }
-      ]
-    },
-    {
-      text: 'Raul Pompeia',
-      link: '/literatura/raul-pompeia/',
-      items: [
-        { text: 'O Ateneu', link: '/literatura/raul-pompeia/o-ateneu' }
-      ]
-    }
-  ],
-
+  // The legacy hand-authored /literatura/ surface was retired (B5): Brás Cubas is live under
+  // /pt/literatura/ via the pipeline reader, and the other books return only when rebuilt through
+  // book-pipeline. Filosofia and Literatura sections navigate via the global nav + SSR CardGrid hubs,
+  // not a rented config sidebar.
 }
 
 const i18n: ThemeConfig['i18n'] = {

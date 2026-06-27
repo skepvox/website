@@ -321,8 +321,9 @@ test.describe('podcast sidebar labels', () => {
 
   test('uses one podcast sidebar with show groups and public episodes', () => {
     const config = fs.readFileSync(CONFIG, 'utf-8')
-    const podcastSidebar =
-      config.match(/'\/podcast\/': \[[\s\S]*?\n  \],\n\n  '\/literatura\/':/)?.[0] ?? ''
+    // /podcast/ is the only remaining rented sidebar key (the legacy /literatura/ block was removed in
+    // B5), so the block runs from its key to its closing `],`.
+    const podcastSidebar = config.match(/'\/podcast\/': \[[\s\S]*?\n  \],/)?.[0] ?? ''
     expect(config.match(/^\s*'\/podcast\/':/gm)).toHaveLength(1)
     expect(config).not.toMatch(/^\s*'\/podcast\/(?:francais|espanol|english)\/':/m)
 

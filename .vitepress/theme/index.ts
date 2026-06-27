@@ -4,9 +4,7 @@ import { VPTheme } from '@vue/theme'
 import './styles/index.css'
 import NavBarTitleBrand from './components/NavBarTitleBrand.vue'
 import BufferNotice from './components/BufferNotice.vue'
-import ReadingNav from './components/ReadingNav.vue'
 import PodcastEpisodeNav from './components/PodcastEpisodeNav.vue'
-import WorkContentsMount from './components/WorkContentsMount.vue'
 import PipelineWorkContentsMount from './components/PipelineWorkContentsMount.vue'
 import PipelineReaderHeader from './components/PipelineReaderHeader.vue'
 import ReaderIcon from './components/ReaderIcon.vue'
@@ -29,13 +27,10 @@ export default Object.assign({}, VPTheme, {
         'navbar-title': () => h(NavBarTitleBrand),
         'content-top': () => [
           h(BufferNotice),
-          h(ReadingNav, { placement: 'top' }),
           h(PipelineReaderHeader),
-          h(WorkContentsMount),
           h(PipelineWorkContentsMount)
         ],
         'content-bottom': () => [
-          h(ReadingNav, { placement: 'bottom' }),
           h(PipelineSegmentNav, { placement: 'bottom' }),
           h(PodcastEpisodeNav)
         ]

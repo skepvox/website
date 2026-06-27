@@ -32,21 +32,6 @@ const sitemapUrls = () =>
     ].map((m) => m[1].replace(ORIGIN, ''))
   )
 
-function codeRefs(needle: string): string[] {
-  const found: string[] = []
-  const walk = (dir: string) => {
-    for (const e of fs.readdirSync(dir, { withFileTypes: true })) {
-      if (['data', 'dist', 'cache'].includes(e.name)) continue
-      const p = path.join(dir, e.name)
-      if (e.isDirectory()) walk(p)
-      else if (/\.(ts|vue|js|mjs)$/.test(e.name) && fs.readFileSync(p, 'utf-8').includes(needle))
-        found.push(path.relative(path.resolve('.vitepress'), p))
-    }
-  }
-  walk(path.resolve('.vitepress'))
-  return found.sort()
-}
-
 test.describe('pipeline-export review consumer (Slice 2C/2D, buffer/noindex, no route migration)', () => {
   test('the default (pt) edition renders authored Part -> Chapter from source:"pipeline-export"', () => {
     const html = reviewHtml()
@@ -122,30 +107,9 @@ test.describe('pipeline-export review consumer (Slice 2C/2D, buffer/noindex, no 
     expect(urls.some((u) => /\/00-\d\d-\d\d\d-\d\d\d(-|\/|$)/.test(u))).toBe(false)
   })
 
-  test('segment-manifest consumers and the WorkContentsMount allowlist are unchanged', () => {
-    expect(codeRefs('segment-manifest')).toEqual([
-      'theme/components/WorkContents.vue',
-      'theme/components/WorkContentsMount.vue'
-    ])
-    const mount = fs.readFileSync(
-      path.resolve('.vitepress/theme/components/WorkContentsMount.vue'),
-      'utf-8'
-    )
-    // the grouped-mode subject (louis-lavelle/de-l-acte) was removed in A5; bras-cubas remains allowlisted
-    expect(mount).toContain("new Set(['literatura/machado-de-assis/bras-cubas.md'])")
-    expect(mount.includes('introduction-a-l-ontologie')).toBe(false)
-  })
-
-  test('WorkContents still renders on Brás Cubas; the review page uses a separate consumer', async ({
-    page
-  }) => {
-    await page.goto('/literatura/machado-de-assis/bras-cubas')
-    await expect(page.locator('.work-contents').first()).toBeVisible()
-
-    await page.goto('/reading-review/introduction-a-l-ontologie')
-    await expect(page.locator('[data-source="pipeline-export"]').first()).toBeVisible()
-    await expect(page.locator('.work-contents')).toHaveCount(0) // WorkContents is NOT mounted here
-  })
+  // (The legacy segment-manifest / WorkContents book map was retired with the /literatura/ surface in
+  // B5; its dedicated tests went with it. The review page below remains a separate, pipeline-export
+  // consumer.)
 
   test('language switcher: default pt; switching to fr updates content with no navigation; routePath is never a link', async ({
     page

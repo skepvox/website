@@ -23,10 +23,9 @@ const ROUTES = [
   'podcast', // podcast hub
   'podcast/francais/003-le-covoiturage-poli', // last Vox Français episode — used to page into Vox Español 001
   'podcast/espanol/001-la-boda-es-a-las-seis', // first Vox Español episode — used to be paged into from fr/003
-  'literatura', // literatura section hub
-  'literatura/machado-de-assis', // author hub
-  'literatura/machado-de-assis/bras-cubas', // work hub — used to page cross-author
-  'literatura/raul-pompeia/o-ateneu', // work hub (outline: [2, 3])
+  'pt/literatura/', // locale-rooted literatura section hub (B2; legacy /literatura/ retired in B5)
+  'pt/literatura/machado-de-assis/', // locale-rooted author hub
+  'pt/literatura/machado-de-assis/bras-cubas/', // pipeline pt work hub
   'pt/filosofia/', // locale-rooted philosophy section hub (A3; the legacy /louis-lavelle/ hubs were removed in A5)
   'pt/filosofia/louis-lavelle/', // locale-rooted author hub
   'pt/filosofia/louis-lavelle/introducao-a-ontologia' // pipeline pt work hub
@@ -46,9 +45,9 @@ test.describe('doc pager retired on non-leaf routes (footer:false)', () => {
     expect(page).not.toMatch(/class="[^"]*next-link[^"]*"[\s\S]*?\/podcast\/espanol\//)
   })
 
-  test('reading leaves remain unaffected (still no pager, ReadingNav present)', () => {
-    const leaf = html('literatura/graciliano-ramos/vidas-secas/00-00-001-mudanca')
+  test('reading leaves remain unaffected (still no pager, owned segment nav present)', () => {
+    const leaf = html('pt/literatura/machado-de-assis/bras-cubas/00-00-001-004')
     expect(leaf).not.toContain('VPContentDocFooter')
-    expect(leaf).toContain('reading-nav--bottom') // owned chapter nav still there
+    expect(leaf).toContain('pseg-nav') // owned pipeline segment nav still there
   })
 })
