@@ -14,7 +14,7 @@ const exists = (rel: string) => fs.existsSync(path.join(DIST, rel))
 // Public episode slugs per show, in order (the public manifest; buffers excluded upstream).
 const EPISODES: Record<string, string[]> = {
   francais: ['001-le-badge', '002-la-valise-verte', '003-le-covoiturage-poli'],
-  espanol: ['001-la-boda-es-a-las-seis', '002-la-sarten-esta-ocupada'],
+  espanol: ['001-la-boda-es-a-las-seis', '002-la-sarten-esta-ocupada', '003-el-tren-esta-parado'],
   english: ['001-the-two-minute-phone-call', '002-the-bowl-of-something']
 }
 const NAV_RE = /<nav class="episode-nav"[\s\S]*?<\/nav>/
@@ -87,7 +87,10 @@ test.describe('PodcastEpisodeNav — owned within-show episode pager', () => {
 
     const es = block(episodeHtml('espanol', '001-la-boda-es-a-las-seis'))!
     expect(blockText(es)).toContain('Siguiente')
-    const esLast = block(episodeHtml('espanol', '002-la-sarten-esta-ocupada'))!
+    const esMid = block(episodeHtml('espanol', '002-la-sarten-esta-ocupada'))!
+    expect(blockText(esMid)).toContain('Anterior')
+    expect(blockText(esMid)).toContain('Siguiente')
+    const esLast = block(episodeHtml('espanol', '003-el-tren-esta-parado'))!
     expect(blockText(esLast)).toContain('Anterior')
     expect(blockText(esLast)).not.toContain('Siguiente')
   })

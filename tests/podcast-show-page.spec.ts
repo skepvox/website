@@ -19,8 +19,8 @@ const SHOWS = [
   {
     slug: 'espanol',
     title: 'Vox Español',
-    count: '2 lecciones',
-    cards: 2,
+    count: '3 lecciones',
+    cards: 3,
     listen: ['Apple Podcasts', 'Spotify']
   },
   {
