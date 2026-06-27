@@ -565,7 +565,7 @@ The detailed comparison (locale-rooted vs language-mixed) is in `filosofia-ia-pi
   pillars — **Literatura / Filosofia / Podcast** — as the first-level mental model, WITHOUT migrating
   books or podcasts. **Status: implemented** on `develop`. `Home.vue` was refactored in place from a 76px
   marketing hero + three `.vt-box` cards into a calm editorial index: a quiet left-aligned masthead
-  (eyebrow `Engenharia de Letras` → token-scaled `skepvox` wordmark → subline, reusing the
+  (token-scaled `skepvox` wordmark → personal subline, reusing the
   `PodcastShowHeader` rhythm) over a hairline table-of-contents of three `SkLink` rows — tokens only, no
   cards/shadows, mobile-first. Pillars: **Literatura → `/literatura/`** (current legacy surface, unmoved),
   **Filosofia → `/pt/filosofia/`** (the locale-rooted section), **Podcasts → `/podcast/`** (current,
@@ -715,12 +715,12 @@ disallowed (§7). If the future podcast IA keeps the current feed URLs, this che
 
 ## Appendix B — Risks
 
-| Risk                                                                       | Likelihood       | Mitigation                                                                                                                |
-| -------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| Split-brain IA (`/pt/<section>` beside legacy locale-less siblings)        | High (by design) | Content-first phasing; clean-break posture; converge nav as sections land.                                                |
-| Podcast feed orphaned by a missed platform update                          | Med if route moved | Avoid moving feeds by default; if moved, Appendix A gate + per-show verification; optional overlap window.                 |
-| Legacy-website assumptions leak into `/pt/literatura/`                     | Med              | Pipeline-only rule; author-hub cards from pipeline metadata not `works.json`; tests assert no legacy output under `/pt/`. |
-| Scheme churn (`pt` vs `pt-BR`, section/Cyrillic slugs) re-migrates `/pt/…` | Low              | Lock the scheme in A1's doc (coarse `pt`, ASCII section slugs).                                                           |
-| SEO equity loss on 404'd old URLs                                          | High             | Accepted per clean break; hubs remain discoverable; optional single deliberate redirect later if ever wanted.             |
-| Phase-C hreflang/canonical done wrong → duplicate-content penalty          | Med (future)     | Discipline owned by the multilingual programme; no exposure in Phases A/B.                                                |
-| `build-pipeline-export.py` is single-book hard-coded (`BUNDLE`)            | Low now          | Parameterize over a works list when the 2nd book/edition vendors (Phase B/C).                                             |
+| Risk                                                                       | Likelihood         | Mitigation                                                                                                                |
+| -------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| Split-brain IA (`/pt/<section>` beside legacy locale-less siblings)        | High (by design)   | Content-first phasing; clean-break posture; converge nav as sections land.                                                |
+| Podcast feed orphaned by a missed platform update                          | Med if route moved | Avoid moving feeds by default; if moved, Appendix A gate + per-show verification; optional overlap window.                |
+| Legacy-website assumptions leak into `/pt/literatura/`                     | Med                | Pipeline-only rule; author-hub cards from pipeline metadata not `works.json`; tests assert no legacy output under `/pt/`. |
+| Scheme churn (`pt` vs `pt-BR`, section/Cyrillic slugs) re-migrates `/pt/…` | Low                | Lock the scheme in A1's doc (coarse `pt`, ASCII section slugs).                                                           |
+| SEO equity loss on 404'd old URLs                                          | High               | Accepted per clean break; hubs remain discoverable; optional single deliberate redirect later if ever wanted.             |
+| Phase-C hreflang/canonical done wrong → duplicate-content penalty          | Med (future)       | Discipline owned by the multilingual programme; no exposure in Phases A/B.                                                |
+| `build-pipeline-export.py` is single-book hard-coded (`BUNDLE`)            | Low now            | Parameterize over a works list when the 2nd book/edition vendors (Phase B/C).                                             |

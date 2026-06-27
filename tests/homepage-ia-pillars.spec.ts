@@ -63,6 +63,10 @@ test.describe('A6 — three-pillar IA (homepage, nav, 404)', () => {
     // no legacy route anywhere, and the author framing is fully gone from the homepage
     expect(html.includes('/louis-lavelle/')).toBe(false)
     expect(html.includes('Louis Lavelle')).toBe(false)
+    // old slogan removed from title/meta/JSON-LD/browser previews
+    expect(html.includes('Engenharia de Letras')).toBe(false)
+    expect(html).toContain('skepvox — Leituras e Estudos Pessoais')
+    expect(html).toContain('Leituras e estudos pessoais, reunidos em três seções.')
   })
 
   test('Home.vue renders the live previews via the card helpers, never importing the pipeline-export JSON', () => {

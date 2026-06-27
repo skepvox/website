@@ -1,14 +1,14 @@
 ---
 page: true
-title: skepvox — Engenharia de Letras
-description: "Literatura clássica em domínio público, filosofia e podcasts para praticar idiomas — leituras e estudos pessoais reunidos em três seções."
+title: skepvox — Leituras e Estudos Pessoais
+description: "Leituras e estudos pessoais, reunidos em três seções."
 head:
   - - link
     - rel: canonical
       href: "https://skepvox.com/"
   - - meta
     - name: description
-      content: "Literatura clássica em domínio público, filosofia e podcasts para praticar idiomas — leituras e estudos pessoais reunidos em três seções."
+      content: "Leituras e estudos pessoais, reunidos em três seções."
   - - meta
     - name: keywords
       content: "skepvox, literatura, filosofia, podcasts, obras clássicas, biblioteca digital"
@@ -17,10 +17,10 @@ head:
       content: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
   - - meta
     - property: og:title
-      content: "skepvox — Engenharia de Letras"
+      content: "skepvox — Leituras e Estudos Pessoais"
   - - meta
     - property: og:description
-      content: "Literatura clássica em domínio público, filosofia e podcasts para praticar idiomas — leituras e estudos pessoais reunidos em três seções."
+      content: "Leituras e estudos pessoais, reunidos em três seções."
   - - meta
     - property: og:url
       content: "https://skepvox.com/"
@@ -38,22 +38,22 @@ head:
       content: "https://skepvox.com/og-skepvox.png"
   - - meta
     - property: og:image:alt
-      content: "skepvox — Engenharia de Letras"
+      content: "skepvox — Leituras e Estudos Pessoais"
   - - meta
     - name: twitter:card
       content: summary_large_image
   - - meta
     - name: twitter:title
-      content: "skepvox — Engenharia de Letras"
+      content: "skepvox — Leituras e Estudos Pessoais"
   - - meta
     - name: twitter:description
-      content: "Literatura clássica em domínio público, filosofia e podcasts para praticar idiomas — leituras e estudos pessoais reunidos em três seções."
+      content: "Leituras e estudos pessoais, reunidos em três seções."
   - - meta
     - name: twitter:image
       content: "https://skepvox.com/og-skepvox.png"
   - - meta
     - name: twitter:image:alt
-      content: "skepvox — Engenharia de Letras"
+      content: "skepvox — Leituras e Estudos Pessoais"
   - - script
     - type: application/ld+json
     - |
@@ -76,8 +76,8 @@ head:
             "@id": "https://skepvox.com/#website",
             "url": "https://skepvox.com/",
             "name": "skepvox",
-            "alternateName": "Engenharia de Letras",
-            "description": "Literatura clássica em domínio público, filosofia e podcasts para praticar idiomas — leituras e estudos pessoais reunidos em três seções.",
+            "alternateName": "Leituras e Estudos Pessoais",
+            "description": "Leituras e estudos pessoais, reunidos em três seções.",
             "publisher": {
               "@id": "https://skepvox.com/#organization"
             },
@@ -113,8 +113,8 @@ head:
             "@type": "CollectionPage",
             "@id": "https://skepvox.com/#webpage",
             "url": "https://skepvox.com/",
-            "name": "skepvox — Engenharia de Letras",
-            "description": "Literatura, filosofia e podcasts reunidos em três seções para leitura e estudo pessoal.",
+            "name": "skepvox — Leituras e Estudos Pessoais",
+            "description": "Leituras e estudos pessoais, reunidos em três seções.",
             "isPartOf": {
               "@id": "https://skepvox.com/#website"
             },

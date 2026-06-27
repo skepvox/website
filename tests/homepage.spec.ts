@@ -90,13 +90,12 @@ test.describe('homepage — three-pillar index', () => {
     expect(hrefs.sort()).toEqual(['/podcast/francais/', '/pt/filosofia/', '/pt/literatura/'])
   })
 
-  test('meta description names the three pillars (no Louis Lavelle author framing)', async ({
+  test('meta description keeps the personal index tone (no old slogan or author framing)', async ({
     page
   }) => {
     const desc = (await page.locator('head meta[name="description"]').getAttribute('content')) ?? ''
-    expect(desc).toContain('Literatura')
-    expect(desc.toLowerCase()).toContain('filosofia')
-    expect(desc.toLowerCase()).toContain('podcast')
+    expect(desc).toBe('Leituras e estudos pessoais, reunidos em três seções.')
+    expect(desc).not.toContain('Engenharia de Letras')
     expect(desc).not.toContain('Louis Lavelle')
   })
 

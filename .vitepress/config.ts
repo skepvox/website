@@ -216,8 +216,8 @@ const config: UserConfigExport<ThemeConfig> = (() => {
   },
 
   lang: 'pt-BR',
-  title: 'skepvox — Engenharia de Letras',
-  description: 'Literatura clássica, filosofia e podcasts',
+  title: 'skepvox — Leituras e Estudos Pessoais',
+  description: 'Leituras e estudos pessoais, reunidos em três seções.',
   srcDir: 'src',
 
   head: [
@@ -225,12 +225,12 @@ const config: UserConfigExport<ThemeConfig> = (() => {
     ['meta', { name: 'theme-color', content: '#fcfcfa' }],
     ['meta', { property: 'og:url', content: `${SITE_ORIGIN}/` }],
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:title', content: 'skepvox — Engenharia de Letras' }],
+    ['meta', { property: 'og:title', content: 'skepvox — Leituras e Estudos Pessoais' }],
     [
       'meta',
       {
         property: 'og:description',
-        content: 'Literatura clássica, filosofia e podcasts'
+        content: 'Leituras e estudos pessoais, reunidos em três seções.'
       }
     ],
     [
@@ -465,7 +465,7 @@ gtag('config', 'G-1VWHF2D1QJ');`
         customLLMsTxtTemplate: `\
 # skepvox
 
-skepvox - Literatura & Filosofia
+skepvox - Leituras e Estudos Pessoais
 
 ## Índice de Conteúdos
 
