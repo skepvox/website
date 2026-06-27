@@ -2,7 +2,7 @@ import { test, expect } from '@playwright/test'
 import fs from 'node:fs'
 import path from 'node:path'
 
-// Owned reader-shell proof slice — live interaction for the PipelineWorkContents map on the pt work
+// Owned reader-shell proof — live interaction for the PipelineWorkContents map on the pt work
 // hub. Runs on the desktop + mobile projects (the tablet project only runs tablet-shell), so the
 // collapse/persistence/dark behaviour is exercised at both widths.
 const HUB = '/pt/filosofia/louis-lavelle/introducao-a-ontologia/'
@@ -137,7 +137,7 @@ test.describe('PipelineWorkContents (owned pt work-hub contents map)', () => {
     await expect(current).toBeVisible()
   })
 
-  test('Slice A: title leads the hierarchy with an author line; rows no longer out-size chapters', async ({
+  test('title leads the hierarchy with an author line; rows no longer out-size chapters', async ({
     page
   }) => {
     await page.goto(HUB)
@@ -163,7 +163,7 @@ test.describe('PipelineWorkContents (owned pt work-hub contents map)', () => {
     expect(size.row).toBeLessThanOrEqual(size.chapter)
   })
 
-  test('Slice C3: hub swapped to the owned ReaderIcon disclosure; CSS triangle gone; reduced-motion kept; no ad hoc SVG', () => {
+  test('hub swapped to the owned ReaderIcon disclosure; CSS triangle gone; reduced-motion kept; no ad hoc SVG', () => {
     const hub = fs.readFileSync(
       path.resolve('.vitepress/theme/components/PipelineWorkContents.vue'),
       'utf-8'
@@ -190,7 +190,7 @@ test.describe('PipelineWorkContents (owned pt work-hub contents map)', () => {
     expect(nav.includes("import ReaderIcon from './ReaderIcon.vue'")).toBe(true)
   })
 
-  test('Slice C3: disclosure is a decorative ReaderIcon; rotation toggles with state; name = chapter title', async ({
+  test('disclosure is a decorative ReaderIcon; rotation toggles with state; name = chapter title', async ({
     page
   }) => {
     await page.goto(HUB)
@@ -219,11 +219,11 @@ test.describe('PipelineWorkContents (owned pt work-hub contents map)', () => {
   })
 })
 
-// Slice D — raise the hub from "functional contents list" to a composed, bookish reading-app entry
+// raise the hub from "functional contents list" to a composed, bookish reading-app entry
 // surface: a printed-table-of-contents in the book's own (Literata) voice, with the small-caps part
 // dividers + tabular counts as quiet sans apparatus. The structural invariants (collapse/return/
 // metadata-only/no-fr-leak) are locked above + in pipeline-work-hub.spec; these lock the COMPOSITION.
-test.describe('PipelineWorkContents — Slice D composed bookish surface', () => {
+test.describe('PipelineWorkContents composed bookish surface', () => {
   test.beforeEach(async ({ page }) => {
     await page.addInitScript(() => {
       try {
@@ -264,7 +264,7 @@ test.describe('PipelineWorkContents — Slice D composed bookish surface', () =>
     page
   }) => {
     await page.goto(HUB)
-    expect(await fam(page, '.pwc__title')).toContain('literata') // serif title — the Slice D experiment, KEPT
+    expect(await fam(page, '.pwc__title')).toContain('literata') // serif title kept
     expect(await fam(page, '.pwc__chapter-title')).toContain('literata') // serif chapter entries
     expect(await fam(page, 'a.pwc__link')).toContain('literata') // serif segment + front-matter rows
     // the apparatus — part dividers + per-chapter counts — stays sans for contrast (not the book voice)
@@ -276,7 +276,7 @@ test.describe('PipelineWorkContents — Slice D composed bookish surface', () =>
     page
   }) => {
     await page.goto(HUB)
-    // the serif title outranks the chapter rows (hierarchy holds; Slice A invariant preserved)
+    // the serif title outranks the chapter rows
     expect(await px(page, '.pwc__title')).toBeGreaterThan(await px(page, '.pwc__chapter-title'))
     // the author context line names the author only (small-caps apparatus under the title)
     await expect(page.locator('.pwc__edition')).toHaveText('Louis Lavelle')
@@ -286,7 +286,7 @@ test.describe('PipelineWorkContents — Slice D composed bookish surface', () =>
       .locator('.pwc__head')
       .evaluate((el) => parseFloat(getComputedStyle(el).borderBottomWidth))
     expect(headBorder).toBeGreaterThan(0)
-    // tabular figure counts + current-row scroll-margin (roadmap Slice D apparatus)
+    // tabular figure counts + current-row scroll-margin
     expect(
       await page
         .locator('.pwc__count')
@@ -302,11 +302,10 @@ test.describe('PipelineWorkContents — Slice D composed bookish surface', () =>
   })
 })
 
-// Slice E — readiness gate: lock the certified template invariants so it is safe to multiply to the
-// fr edition + the next book: the Abertura front-matter group, the apparatus-line readability the
-// Slice D concern flagged (measured-resolved), the expanded-row 44px tap floor, and the metadata-only
-// / own-prose performance boundary.
-test.describe('PipelineWorkContents — Slice E readiness gate', () => {
+// Readiness gate: lock the certified template invariants so it is safe to multiply to the
+// fr edition + the next book: the Abertura front-matter group, the apparatus-line readability,
+// the expanded-row 44px tap floor, and the metadata-only / own-prose performance boundary.
+test.describe('PipelineWorkContents — readiness gate', () => {
   test.beforeEach(async ({ page }) => {
     await page.addInitScript(() => {
       try {

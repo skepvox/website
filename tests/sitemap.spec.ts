@@ -56,7 +56,7 @@ test.describe('sitemap de-emphasis', () => {
 
   test('chapter pages are not excluded from local search (search config untouched)', () => {
     // Local-search inclusion is governed by `search: false` frontmatter, used only on hidden/buffer
-    // pages. A published reading leaf carries no such flag, so it stays in the local index; this slice
+    // pages. A published reading leaf carries no such flag, so it stays in the local index; this guard
     // changes only the sitemap, never search config.
     const src = fs.readFileSync(
       path.resolve('src/pt/literatura/machado-de-assis/bras-cubas/00-00-001-004.md'),

@@ -3,7 +3,7 @@ import fs from 'node:fs'
 import path from 'node:path'
 import { LAVELLE_WORK_ID } from './pipeline-helpers'
 
-// Slice A3 / IA-3 — the locale-rooted filosofia navigation layer around the already-moved book:
+// the locale-rooted filosofia navigation layer around the already-moved book:
 // section hub /pt/filosofia/ and author hub /pt/filosofia/louis-lavelle/, both SSR CardGrid hubs.
 // The Introdução work card is sourced from pipeline-export metadata (never works.json); the work hub
 // + 99 segment leaves are unchanged. File-based against the built site (needs a prior build); the
@@ -37,7 +37,7 @@ const sitemapUrls = () =>
     ].map((m) => m[1].replace(ORIGIN, ''))
   )
 
-test.describe('filosofia hubs (slice A3 / IA-3)', () => {
+test.describe('filosofia hubs', () => {
   test('the Introdução work card is pipeline-sourced: rendered route + title match the export, no works.json', () => {
     const meta = read(META)
     const work = meta.works.find((w: any) => w.workId === LAVELLE_WORK_ID)

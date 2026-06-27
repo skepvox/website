@@ -2,9 +2,9 @@ import { test, expect } from '@playwright/test'
 import fs from 'node:fs'
 import path from 'node:path'
 
-// Slice 2B — owned PodcastEpisodeNav (docs/sidebar-local-nav-model.md). A calm within-show
+// Owned PodcastEpisodeNav. A calm within-show
 // prev/next pager rendered in the content-bottom slot on podcast EPISODE leaves only. It
-// restores correct episode progression after Slice 1's footer:false removed the wrong
+// restores correct episode progression after footer:false removed the wrong
 // sidebar-derived pager, and it never crosses a show/corpus boundary. File-based against the
 // built site (same approach as reading-nav.spec / podcast-show-page.spec).
 const DIST = path.resolve('.vitepress/dist')
@@ -115,7 +115,7 @@ test.describe('PodcastEpisodeNav — owned within-show episode pager', () => {
     expect((b.match(/<a\b/g) || []).length).toBe(2)
     expect(b).toContain('rel="prev"')
     expect(b).toContain('rel="next"')
-    // the rented sidebar-derived pager remains absent on episode pages (Slice 1)
+    // the rented sidebar-derived pager remains absent on episode pages
     expect(episodeHtml('francais', '002-la-valise-verte')).not.toContain('VPContentDocFooter')
   })
 

@@ -4,8 +4,8 @@ import fs from 'node:fs'
 import path from 'node:path'
 import { LAVELLE_WORK_ID as LAVELLE, BRAS_WORK_ID as BRAS, workSegments } from './pipeline-helpers'
 
-// Slice 2B — vendor the book-pipeline export + a website-local reshape, no routes.
-// docs/website-export-ingestion-assessment.md §2/§7. Data foundation only: a separate
+// vendor the book-pipeline export + a website-local reshape, no routes.
+// Data foundation only: a separate
 // `source:"pipeline-export"` artifact wired into no component, generating no page/route.
 // These tests lock the reshape, the metadata<->prose join, and that nothing live changed.
 const ARTIFACT = path.resolve('.vitepress/theme/data/pipeline-export-segments.json')
@@ -46,7 +46,7 @@ function codeRefs(needle: string): string[] {
   return found.sort()
 }
 
-test.describe('pipeline-export ingestion (Slice 2B: vendor + reshape, no routes)', () => {
+test.describe('pipeline-export ingestion (vendor + reshape, no routes)', () => {
   test('the generator is deterministic / idempotent', () => {
     const out = execFileSync('python3', ['scripts/build-pipeline-export.py'], {
       encoding: 'utf-8'
@@ -137,7 +137,7 @@ test.describe('pipeline-export ingestion (Slice 2B: vendor + reshape, no routes)
   })
 
   test('pipeline-export is consumed only by the owned reader-shell components + section cards', () => {
-    // The vendored export feeds the LIVE owned reader shell: PipelineReaderHeader (Slice F1 leaf location
+    // The vendored export feeds the LIVE owned reader shell: PipelineReaderHeader (leaf location
     // path), PipelineSegmentNav (leaf prev/next/up) and PipelineWorkContents (the pt work-hub contents
     // map), AND the filosofia + literatura author-hub work cards (filosofia-cards.ts / literatura-cards.ts
     // — route + title sourced from the export). The reading-review export-preview prototypes (2C–2G) and

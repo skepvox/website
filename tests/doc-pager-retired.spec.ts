@@ -2,7 +2,7 @@ import { test, expect } from '@playwright/test'
 import fs from 'node:fs'
 import path from 'node:path'
 
-// footer:false pager hygiene (docs/sidebar-local-nav-model.md, Slice 1).
+// footer:false pager hygiene.
 // The rented @vue/theme VPContentDocFooter derives prev/next from the sidebar and
 // ignores frontmatter, so it mis-paginated CROSS-show on podcast episodes (Vox Français
 // 003 -> Vox Español 001) and CROSS-author on literature work hubs. footer:false is now

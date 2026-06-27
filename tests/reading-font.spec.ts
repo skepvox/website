@@ -2,7 +2,7 @@ import { test, expect } from '@playwright/test'
 import fs from 'node:fs'
 import path from 'node:path'
 
-// Slice 2 — self-hosted Literata reading face, scoped to book chapter/segment prose.
+// self-hosted Literata reading face, scoped to book chapter/segment prose.
 // File-based against the built site: it proves the font ships and the CSS scope is
 // correct (prose = reading font, back-link/headings/chrome = UI sans). The live
 // computed-font check (incl. real 700 vs synthesized bold) is in the visual QA.
@@ -23,7 +23,7 @@ function allCss(): string {
 
 const css = allCss()
 
-test.describe('reading text face (Slice 2)', () => {
+test.describe('reading text face', () => {
   test('the self-hosted Literata woff2 files ship (400, 700, 400-italic)', () => {
     for (const f of ['literata-400.woff2', 'literata-700.woff2', 'literata-400-italic.woff2']) {
       expect(fs.existsSync(path.join(DIST, 'fonts', f)), f).toBe(true)

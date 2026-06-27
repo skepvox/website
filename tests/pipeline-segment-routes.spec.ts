@@ -5,8 +5,8 @@ import path from 'node:path'
 import { spawnSync } from 'node:child_process'
 import { LAVELLE_WORK_ID, workSegments } from './pipeline-helpers'
 
-// Slice 2J/2L/2M — the real pt segment route family at its PUBLIC namespace, with REAL prose.
-// docs/introduction-a-ontologia-live-migration-plan.md §4. The pipeline minted the pt edition; the 99
+// the real pt segment route family at its PUBLIC namespace, with REAL prose.
+// The pipeline minted the pt edition; the 99
 // pt pages are generated under src/pt/filosofia/louis-lavelle/introducao-a-ontologia/<routePath-leaf>.md with their
 // REAL prose inlined as static Markdown (joined by segmentPrefix/language, never routePath). No
 // indexable public page may be thin / review-only / missing prose. No redirects: A4 removed the fr->pt
@@ -30,7 +30,7 @@ function builtExists(href: string): boolean {
   )
 }
 
-test.describe('pipeline pt segment route family (Slice 2M, public + real prose, no redirects / clean break)', () => {
+test.describe('pipeline pt segment route family (public + real prose, no redirects / clean break)', () => {
   test('all 99 public pt pages build and carry real prose (none thin / review-only / noindex)', () => {
     const pt = ptSegments()
     expect(pt.length).toBe(99)

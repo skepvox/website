@@ -81,13 +81,12 @@ in `page_text()`. The defect is isolated to `build_hub()` (`:121-130`), whose fr
 
 ### 1.3 This is a regression against an existing, tested invariant
 
-The site already retired this pager everywhere else. `docs/sidebar-local-nav-model.md` (Slice 1)
-established `footer: false` on *every non-leaf route*, and `tests/doc-pager-retired.spec.ts:22-39`
-enumerates representative routes (podcast hub + episodes, literatura section/author/work hubs,
-Lavelle hub + work hubs) asserting `VPContentDocFooter` renders on **none** of them — it had
-mis-paginated cross-show (Vox Français 003 → Vox Español 001) and cross-author. The freshly generated
-pipeline pt hub was simply **never added** to that route set, so it regressed. The fix is to bring the
-new hub into an invariant the rest of the site already holds — not to invent policy.
+The site already retired this pager everywhere else. The current invariant is `footer: false` on
+reader and index routes where the rented sidebar-derived pager would mis-paginate cross-show or
+cross-author; `tests/doc-pager-retired.spec.ts:22-39` enumerates representative routes and asserts
+`VPContentDocFooter` renders on **none** of them. The freshly generated pipeline pt hub was simply
+**never added** to that route set, so it regressed. The fix is to bring the new hub into an invariant
+the rest of the site already holds — not to invent policy.
 
 ### 1.4 Harmless infrastructure vs reader-experience risk
 
@@ -110,11 +109,9 @@ else VitePress provides is either harmless or load-bearing.
 
 **Keep Vue + `@vue/theme`. No rewrite. There is no technical blocker.**
 
-The prior roadmap already chose this deliberately: **Option B — a skepvox-owned layout layer inside
-VitePress — as the default architecture for several quarters**, with Option C (fully owned shell) as
-the eventual destination and Option D (native) out of scope absent native pressure
-(`docs/product-theme-roadmap-assessment.md:124-138`). Nothing in the reader-shell target changes that
-calculus.
+The current architecture deliberately uses a skepvox-owned layout layer inside VitePress, with a fully
+owned shell as a possible later destination and native out of scope absent native pressure. Nothing in
+the reader-shell target changes that calculus.
 
 **What Vue is genuinely good for here.** The reader shell is mostly *local interactive state over
 static structure*: collapse/expand a contents tree, mark the current segment, persist UI preferences,

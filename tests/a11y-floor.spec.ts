@@ -2,7 +2,7 @@ import { test, expect } from '@playwright/test'
 import fs from 'node:fs'
 import path from 'node:path'
 
-// Slice 1A — additive semantic tokens + the global focus / reduced-motion floor.
+// Additive semantic tokens + the global focus / reduced-motion floor.
 // File-based against the built CSS bundle (the same approach as the other specs): it
 // asserts the shipped CSS, not a live browser focus simulation, which keeps it stable.
 const DIST = path.resolve('.vitepress/dist')
@@ -22,7 +22,7 @@ function allCss(): string {
 
 const css = allCss()
 
-test.describe('a11y floor (Slice 1A)', () => {
+test.describe('a11y floor', () => {
   test('global reduced-motion floor is shipped', () => {
     expect(css).toMatch(/prefers-reduced-motion:\s*reduce/)
     // distinctive declarations of the floor (survive minification)
@@ -36,7 +36,7 @@ test.describe('a11y floor (Slice 1A)', () => {
     expect(css).toMatch(/outline:\s*var\(--sk-focus-ring\)/)
   })
 
-  // After the SkLink slice the keyboard focus ring for these links is owned by the SkLink
+  // After SkLink, the keyboard focus ring for these links is owned by the SkLink
   // primitive (the anchors are wrapped in <SkLink>), not declared per-component. The
   // guarantee is unchanged — assert the links go through SkLink AND that SkLink ships the
   // tokenised ring. (The built bundle still containing `outline: var(--sk-focus-ring)` is
@@ -91,7 +91,7 @@ test.describe('a11y floor (Slice 1A)', () => {
     }
   })
 
-  // Slice 1B — owned components now consume the tokens (not just define them).
+  // Owned components now consume the tokens (not just define them).
   test('owned components consume the semantic tokens', () => {
     for (const usage of [
       'var(--sk-text-',

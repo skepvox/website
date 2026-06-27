@@ -15,10 +15,9 @@ shape, and a staged plan to get there.
 changes **only** to the website's future model. The pipeline and the vault are the source of truth and
 the personal workspace respectively; this document does not propose editing either.
 
-**Companion docs.** This builds on `docs/navigation-owned-shell-assessment.md` (owned shell),
-`docs/sidebar-local-nav-model.md` (local-nav model, Slices 1–2B shipped), and
-`docs/product-theme-roadmap-assessment.md`. It does **not** modify the intentionally-uncommitted
-future-experiment note in the roadmap doc.
+**Companion docs.** Start with `docs/reading-app-website.md` for the current reader architecture and
+`docs/site-visual-language-next-level-assessment.md` for the current visual-language direction. This
+document remains a deep historical design reference for the segment/work-hub model.
 
 ---
 

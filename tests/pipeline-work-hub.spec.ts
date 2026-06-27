@@ -3,7 +3,7 @@ import fs from 'node:fs'
 import path from 'node:path'
 import { LAVELLE_WORK_ID, workSegments } from './pipeline-helpers'
 
-// Slice 2N (go-live) + owned reader-shell proof slice — the pt work hub at
+// Public pt work hub at
 // /pt/filosofia/louis-lavelle/introducao-a-ontologia/. A readable entry point built from pipeline-export metadata
 // (never the legacy hand-authored map): the hub markdown is frontmatter-only; the title and contents
 // (front matter, then Part -> Chapter -> Segment) are rendered together by the owned SSR component
@@ -44,7 +44,7 @@ const sitemapUrls = () =>
     ].map((m) => m[1].replace(ORIGIN, ''))
   )
 
-test.describe('pipeline pt work hub (Slice 2N + owned reader-shell proof slice)', () => {
+test.describe('pipeline pt work hub (owned reader-shell)', () => {
   test('the hub builds at the pt namespace and is generated from pipeline-export (not the legacy map)', () => {
     expect(builtExists('/pt/filosofia/louis-lavelle/introducao-a-ontologia')).toBe(true)
     const src = fs.readFileSync(HUB_SRC, 'utf-8')

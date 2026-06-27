@@ -6,10 +6,9 @@ build sheet for the owned work-hub contents component that will replace the bull
 concatenated-book experience.
 
 **Foundations (shipped):** `.vitepress/theme/data/segment-manifest.json` (reading-app Slice a),
-`docs/reading-app-segment-workhub-assessment.md`, `docs/sidebar-local-nav-model.md`, and the existing
-owned patterns: `ReadingNav` (slot mount + `reading-nav.json`), `PodcastEpisodeNav` (`relativePath`
-guard + `sidebar-nav.json` consumption), `SkLink` (four-state primitive), `CardGrid` (pointer-gated
-hover).
+`docs/reading-app-segment-workhub-assessment.md`, and the existing owned patterns: `ReadingNav` (slot
+mount + `reading-nav.json`), `PodcastEpisodeNav` (`relativePath` guard + `sidebar-nav.json`
+consumption), `SkLink` (four-state primitive), `CardGrid` (pointer-gated hover).
 
 ---
 

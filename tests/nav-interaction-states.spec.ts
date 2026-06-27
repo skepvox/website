@@ -2,14 +2,14 @@ import { test, expect } from '@playwright/test'
 import fs from 'node:fs'
 import path from 'node:path'
 
-// Slice 1 — the navigation interaction-state standard, locked.
+// the navigation interaction-state standard, locked.
 // Every navigation / card / list affordance must keep FOUR states distinct and
 // non-conflicting:
 //   HOVER    only under @media (hover: hover) and (pointer: fine)  (never on touch)
 //   PRESSED  via :active, never inheriting hover (touch stays stable until navigation)
 //   FOCUS    via --sk-focus-ring / :focus-visible
 //   CURRENT  route via an explicit active class / aria-current, distinct from the above
-// Standard: docs/navigation-owned-shell-assessment.md.
+// Standard: owned navigation surfaces keep hover / pressed / focus / current states distinct.
 
 const THEME = path.resolve('.vitepress/theme')
 const read = (rel: string) => fs.readFileSync(path.join(THEME, rel), 'utf-8')

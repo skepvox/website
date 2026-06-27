@@ -398,8 +398,8 @@ problem and the podcast problem are different:
   `reading-app-website.md` — note current `/louis-lavelle/…` paths move to `/pt/…` (model unchanged,
   namespace re-projected); `seo-strategy.md` — update `/louis-lavelle/` literals to `/pt/…` and cite
   the locale-root SEO rationale.
-- **Keep:** `reader-shell-component-boundaries.md`, `reading-app-segment-workhub-assessment.md`,
-  `sidebar-local-nav-model.md` (data/component foundations; add a pointer to the `ROUTE_BASE` boundary).
+- **Keep:** `reader-shell-component-boundaries.md`, `reading-app-segment-workhub-assessment.md`
+  (data/component foundations; add a pointer to the `ROUTE_BASE` boundary where needed).
 - **Source of truth:** this doc (whole-site) + `filosofia-ia-pilot-migration-assessment.md` (pilot
   execution).
 
@@ -575,13 +575,12 @@ The detailed comparison (locale-rooted vs language-mixed) is in `filosofia-ia-pi
   no redirects, no podcast/RSS/media changes; route `/` preserved. Guards: `tests/homepage.spec.ts`
   (rewritten) + `tests/homepage-ia-pillars.spec.ts` (new). **Phase A is now complete.**
 
-  > **Homepage evolution beyond A6.** Turning this calm index into a _data-connected pillar gateway_
-  > (surfacing live pillar content from `pipeline-export-segments.json` + the podcast manifests, without
-  > reintroducing `works.json` or legacy `/literatura/` machinery) and narrowing the visible third pillar
-  > to **Vox Français → `/podcast/francais/`** is assessed in
-  > [`homepage-pillar-gateway-assessment.md`](homepage-pillar-gateway-assessment.md) (slices H1–H6). A6
-  > remains the editorial frame; the brand asset system (B3) stays a separate later phase. Note the live
-  > pillar targets are now `/pt/literatura/` (post-B5), not the `/literatura/` shown above.
+  > **Homepage evolution beyond A6.** The H1-H6 data/IA work is complete: live pillar content comes from
+  > `pipeline-export-segments.json` + the podcast manifests, the visible third pillar is **Vox Français
+  > → `/podcast/francais/`**, and the live pillar targets are `/pt/literatura/`, `/pt/filosofia/`, and
+  > `/podcast/francais/`. The current visual direction has moved to
+  > [`site-visual-language-next-level-assessment.md`](site-visual-language-next-level-assessment.md),
+  > which supersedes the older hairline/arrow homepage grammar.
 
   _Agreed sequence after A6 (Phase B):_ (1) a **`/pt/literatura/` pilot** with _Memórias Póstumas de Brás
   Cubas_ rebuilt from book-pipeline — a pipeline rebuild, **not** a mechanical move of the legacy

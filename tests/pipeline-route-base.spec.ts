@@ -7,7 +7,7 @@ import { LAVELLE_WORK_ID } from './pipeline-helpers'
 
 // Architecture guard — the website-owned route projection (scripts/route_base.py). A projected route is
 // ROUTE_BASE[workId] (the {locale}/{section}/{author}/{editionSlug} work prefix) + '/' + leaf(record, LEAF_POLICY).
-// Slice A2 / IA-2 flipped BOTH knobs to the live values: ROUTE_BASE -> pt/filosofia/louis-lavelle/introducao-a-ontologia
+// Live route projection: ROUTE_BASE -> pt/filosofia/louis-lavelle/introducao-a-ontologia
 // AND LEAF_POLICY -> prefix-only (leaf = the bare segmentPrefix). This guard pins that the live projection
 // produces /pt/filosofia/louis-lavelle/introducao-a-ontologia/<segmentPrefix>, that the leaf policy is still a
 // real knob, that identity (canonicalId/segmentPrefix) is route-neutral, and that no projection logic leaks
@@ -73,7 +73,7 @@ function ptSegments(): any[] {
 }
 const samplePt = () => ptSegments()[0]
 
-test.describe('ROUTE_BASE projection (slice A2 / IA-2 live architecture guard)', () => {
+test.describe('ROUTE_BASE projection (live architecture guard)', () => {
   test('the live projection is locale-rooted + prefix-only (A2 both knobs active)', () => {
     const p = project(VENDORED_RP, SEG_PREFIX)
 

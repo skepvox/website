@@ -6,7 +6,7 @@
 /* Bridge while we still use @vue/theme chrome. @vue/theme shows the navbar appearance
    switch only at >=1280px, but its other home — the hamburger nav-screen — is gone at
    >=768px and the drawer carries no toggle, so 768-1279px had NO reachable theme toggle
-   at all (the dead-band the navigation assessment flagged). Force-show the existing
+   at all (a dead band between desktop and mobile chrome). Force-show the existing
    switch beside search across the whole sub-desktop range; the theme's own >=1280px rule
    covers desktop above (the sub-pixel gap at 1280px is negligible). Focus styling for the
    switch now comes from the shared chrome :focus-visible block below, at all widths. */
@@ -47,19 +47,17 @@
 }
 
 /* ======================================================================
-   Slice 1 — navigation interaction-state floor on the rented @vue/theme chrome.
+   Navigation interaction-state floor on the rented @vue/theme chrome.
 
    The owned surfaces already keep four interaction states distinct and
    non-conflicting: HOVER only under @media (hover: hover) and (pointer: fine);
    PRESSED via :active (never inheriting hover); KEYBOARD FOCUS via
    --sk-focus-ring / :focus-visible; CURRENT ROUTE via an explicit active class /
    aria-current. These rules bring the rented chrome onto the same floor without
-   forking it (no node_modules edit, no patch). The standard is documented in
-   docs/navigation-owned-shell-assessment.md and locked by
-   tests/nav-interaction-states.spec.ts.
+   forking it (no node_modules edit, no patch). Locked by tests/nav-interaction-states.spec.ts.
    ====================================================================== */
 
-/* One focus language. Slice 1A put --sk-focus-ring on every OWNED interactive element,
+/* One focus language. --sk-focus-ring sits on every OWNED interactive element,
    so the chrome's fall-through to the browser's native button:focus ring read as a
    second focus visual. Route the chrome onto the owned ring. Specificity:
    .VPNavBar :is(a, button):focus-visible = (0,2,1) beats base.css button:focus-visible
@@ -226,7 +224,7 @@
   margin-top: var(--sk-reading-heading-space);
 }
 
-/* —— Pipeline pt reading-leaf prose (Slice B) ——
+/* —— Pipeline pt reading-leaf prose ——
    The chapter `##` and segment `###` headings are now OWNED chrome (PipelineReaderHeader renders them
    as real <h2>/<h3>, hoisted out of the prose by the website generator), so the leaf body carries no
    heading event at all — only running prose. The single remaining reading-leaf rule is the calm 17px

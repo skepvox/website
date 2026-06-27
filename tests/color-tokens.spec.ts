@@ -2,7 +2,7 @@ import { test, expect } from '@playwright/test'
 import fs from 'node:fs'
 import path from 'node:path'
 
-// Slice 1C-i — the semantic skepvox color-token layer. File-based against the built
+// Semantic skepvox color-token layer. File-based against the built
 // CSS bundle: it checks the token architecture, not a recolor (the values still equal
 // today's green/ink — the palette is chosen in 1C-ii).
 const DIST = path.resolve('.vitepress/dist')
@@ -22,7 +22,7 @@ function allCss(): string {
 
 const css = allCss()
 
-test.describe('color token layer (Slice 1C-i)', () => {
+test.describe('color token layer', () => {
   test('the semantic color tokens are defined', () => {
     for (const t of [
       '--sk-ink:',

@@ -4,7 +4,7 @@ import path from 'node:path'
 import { execFileSync } from 'node:child_process'
 import { LAVELLE_WORK_ID, workSegments } from './pipeline-helpers'
 
-// Slice 2O — owned prev/next/up navigation for the live pt segment leaves (PipelineSegmentNav).
+// owned prev/next/up navigation for the live pt segment leaves (PipelineSegmentNav).
 // Injected via the theme content slots (page bodies untouched), self-gated by the
 // `generated: pipeline-segment-routes` frontmatter marker, joining pipeline-export-segments.json by
 // (canonicalId, language). Never crosses edition/language; uses SkLink; absent everywhere else.
@@ -26,7 +26,7 @@ function builtExists(href: string): boolean {
   )
 }
 
-test.describe('pipeline pt segment nav (Slice 2O, owned prev/next/up, pipeline-sourced)', () => {
+test.describe('pipeline pt segment nav (owned prev/next/up, pipeline-sourced)', () => {
   test('first segment (front matter): next-only + up, no part-eyebrow (no prev)', async ({
     page
   }) => {
@@ -108,7 +108,7 @@ test.describe('pipeline pt segment nav (Slice 2O, owned prev/next/up, pipeline-s
     }
   })
 
-  test('Slice C2: nav renders owned ReaderIcon chevrons + exact labels; no ‹ › ↑ glyphs (built HTML)', () => {
+  test('nav renders owned ReaderIcon chevrons + exact labels; no ‹ › ↑ glyphs (built HTML)', () => {
     const html = fs.readFileSync(
       path.join(DIST, 'pt/filosofia/louis-lavelle/introducao-a-ontologia/00-01-002-008.html'),
       'utf-8'
@@ -118,7 +118,7 @@ test.describe('pipeline pt segment nav (Slice 2O, owned prev/next/up, pipeline-s
     const nav = html.slice(start, html.indexOf('</nav>', start) + 6)
     // three owned reader-icon svgs (prev / next / up)
     expect((nav.match(/class="reader-icon/g) || []).length).toBeGreaterThanOrEqual(3)
-    // the cleaner short direction labels (Slice F2) + the Sumário up-link; the old "trecho" labels gone
+    // the cleaner short direction labels + the Sumário up-link; the old "trecho" labels gone
     expect(nav).toContain('Anterior')
     expect(nav).toContain('Próximo')
     expect(nav).toContain('Sumário')
@@ -130,7 +130,7 @@ test.describe('pipeline pt segment nav (Slice 2O, owned prev/next/up, pipeline-s
     expect(nav.includes('↑')).toBe(false)
   })
 
-  test('Slice C2: nav chevrons are decorative; the link accessible name comes from the visible text', async ({
+  test('nav chevrons are decorative; the link accessible name comes from the visible text', async ({
     page
   }) => {
     const pt = ptByOrder()
@@ -225,7 +225,7 @@ test.describe('pipeline pt segment nav (Slice 2O, owned prev/next/up, pipeline-s
     expect(body.includes('pseg-nav')).toBe(false)
   })
 
-  test('Slice B: owned reader-header renders real h2 + h3 (no vt-doc heading event); up = "Sumário"', async ({
+  test('owned reader-header renders real h2 + h3 (no vt-doc heading event); up = "Sumário"', async ({
     page
   }) => {
     const pt = ptByOrder()

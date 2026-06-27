@@ -2,7 +2,7 @@ import { test, expect } from '@playwright/test'
 import fs from 'node:fs'
 import path from 'node:path'
 
-// Slice C1 — the owned ReaderIcon foundation (boundary + tokens only; no consumer swaps yet).
+// the owned ReaderIcon foundation (boundary + tokens only; no consumer swaps yet).
 // Asserts the wrapper renders the vendored inline SVGs SSR-cleanly with the owned a11y/stroke
 // defaults, that the registry is a closed set, and that no reader consumer / package.json changed.
 const DIST = path.resolve('.vitepress/dist')
@@ -14,7 +14,7 @@ const NAV = path.resolve('.vitepress/theme/components/PipelineSegmentNav.vue')
 const HUB = path.resolve('.vitepress/theme/components/PipelineWorkContents.vue')
 const NAMES = ['chevron-left', 'chevron-right', 'chevron-up', 'disclosure']
 
-test.describe('ReaderIcon foundation (Slice C1, boundary + tokens only)', () => {
+test.describe('ReaderIcon foundation', () => {
   test('renders inline SVGs in the SSR/built output with the owned static attributes', () => {
     const html = fs.readFileSync(HARNESS_HTML, 'utf-8')
     expect((html.match(/class="reader-icon/g) || []).length).toBeGreaterThanOrEqual(4) // SSR, no JS
@@ -106,7 +106,7 @@ test.describe('ReaderIcon foundation (Slice C1, boundary + tokens only)', () => 
     expect(comp).toContain('var(--sk-icon-size)')
   })
 
-  test('Slice C2 + C3 done: both reader consumers use ReaderIcon; the hand-rolled glyphs are gone', () => {
+  test('both reader consumers use ReaderIcon; the hand-rolled glyphs are gone', () => {
     const nav = fs.readFileSync(NAV, 'utf-8')
     const hub = fs.readFileSync(HUB, 'utf-8')
     // C2: PipelineSegmentNav on ReaderIcon; the ‹ › ↑ text glyphs are gone
@@ -129,7 +129,7 @@ test.describe('ReaderIcon foundation (Slice C1, boundary + tokens only)', () => 
   })
 })
 
-// ---- Slice C4: icon-system hardening + governance lock ----
+// ---- icon-system hardening + governance lock ----
 // The dark-mode decision is MEASURED, not guessed: the owned chevrons stroke at the meaning-bearing
 // muted ink (currentColor), giving ~6.3:1 contrast on warm-dark and ~4.6:1 in light — both well above
 // the 3:1 WCAG non-text / UI-component bar. So --sk-icon-stroke-dark STAYS DORMANT (colour-first
@@ -187,7 +187,7 @@ async function iconMetrics(page: import('@playwright/test').Page, sel: string) {
     })
 }
 
-test.describe('ReaderIcon — Slice C4 hardening + governance lock', () => {
+test.describe('ReaderIcon — hardening + governance lock', () => {
   // governance: the wrapper is inert (it animates nothing; the only motion is consumer-owned rotation).
   // Scoped to the <style> block (no comment false-positives) and matches LONGHANDS too, so a
   // transition-property:/animation-name: drift cannot slip past a shorthand-only regex.

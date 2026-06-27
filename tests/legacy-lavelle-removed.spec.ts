@@ -2,7 +2,7 @@ import { test, expect } from '@playwright/test'
 import fs from 'node:fs'
 import path from 'node:path'
 
-// Slice A5 / IA-5 — the legacy locale-less Louis Lavelle corpus is removed. The ONLY Lavelle surface is
+// the legacy locale-less Louis Lavelle corpus is removed. The ONLY Lavelle surface is
 // the new /pt/filosofia/louis-lavelle/ hub + the live pt Introdução à ontologia reader; old /louis-lavelle/
 // URLs 404 (clean break, no redirects). File-based against src + the built dist (needs a prior build).
 const DIST = path.resolve('.vitepress/dist')
@@ -14,7 +14,7 @@ const ORIGIN = 'https://www.skepvox.com'
 const isLegacyLavelle = (u: string) => /^\/louis-lavelle\//.test(u)
 const hasLegacyLavellePath = (s: string) => /(?<!pt\/filosofia\/)louis-lavelle\//.test(s)
 
-test.describe('legacy Lavelle corpus removed (slice A5 / IA-5)', () => {
+test.describe('legacy Lavelle corpus removed', () => {
   test('no source remains: src/louis-lavelle/ tree, build-lavelle-* scripts, legacy spec, orphan images are gone', () => {
     expect(fs.existsSync(path.join(SRC, 'louis-lavelle'))).toBe(false)
     expect(fs.existsSync(path.resolve('tests/louis-lavelle.spec.ts'))).toBe(false)

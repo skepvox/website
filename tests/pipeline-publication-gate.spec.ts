@@ -4,7 +4,7 @@ import path from 'node:path'
 import { execFileSync } from 'node:child_process'
 import { LAVELLE_WORK_ID } from './pipeline-helpers'
 
-// Slice 2K/2L + B3 — stability-aware publication gate. The gate (scripts/pipeline_gate.py) decides
+// stability-aware publication gate. The gate (scripts/pipeline_gate.py) decides
 // per-segment visibility from pipeline metadata: eligible (public) iff urlStability=="stable" — the
 // pipeline's explicit publish signal, set under either model (slug-tail freezes a publicSlug; prefix-only
 // needs none, its segmentPrefix being the permanent public leaf). Everything else (draft/provisional)
@@ -30,7 +30,7 @@ const sitemapUrls = () =>
     ].map((m) => m[1].replace(ORIGIN, ''))
   )
 
-test.describe('pipeline publication gate (Slice 2K/2L, stability-aware; pt minted & public)', () => {
+test.describe('pipeline publication gate (stability-aware; pt minted & public)', () => {
   test('the gate opens any stable route (with OR without publicSlug) and hides everything else', () => {
     const HIDDEN = { eligible: false, buffer: true, noindex: true, search: false, sitemap: false }
     const PUBLIC = {

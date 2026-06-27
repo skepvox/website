@@ -14,7 +14,7 @@ import {
   trechoHref
 } from '../.vitepress/theme/components/reader-shell'
 
-// Slice F2 — the shared reader-shell label + route-helper module: ONE source of truth for the
+// Shared reader-shell label + route-helper module: ONE source of truth for the
 // per-language vocabulary + href construction from routePath. Proves pt behavior is unchanged and that
 // the helpers produce correct fr output — WITHOUT shipping any fr page/route.
 const PT_ROUTE = 'pt/filosofia/louis-lavelle/introducao-a-ontologia/00-01-002-008'
@@ -23,13 +23,13 @@ const READER_SHELL = path.resolve('.vitepress/theme/components/reader-shell.ts')
 const compSrc = (f: string) =>
   fs.readFileSync(path.resolve('.vitepress/theme/components', f), 'utf-8')
 
-test.describe('reader-shell shared labels + route helpers (Slice F2)', () => {
+test.describe('reader-shell shared labels + route helpers (shared)', () => {
   test('pt labels are exactly the live strings (behavior unchanged); prev/next are the new short labels', () => {
     expect(navLabel('pt')).toBe('Sumário')
     expect(openingLabel('pt')).toBe('Abertura')
     expect(locLabel('pt')).toBe('Localização')
     expect(segNavLabel('pt')).toBe('Navegação de trechos')
-    expect(prevLabel('pt')).toBe('Anterior') // Slice F2: "trecho" dropped
+    expect(prevLabel('pt')).toBe('Anterior') // "trecho" dropped
     expect(nextLabel('pt')).toBe('Próximo')
     expect(prevLabel('pt')).not.toBe('Trecho anterior')
     expect(nextLabel('pt')).not.toBe('Próximo trecho')

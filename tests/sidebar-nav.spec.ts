@@ -3,9 +3,9 @@ import { execFileSync } from 'node:child_process'
 import fs from 'node:fs'
 import path from 'node:path'
 
-// Slice 2A — generated local-nav manifest (docs/sidebar-local-nav-model.md §4).
+// Generated local-nav manifest.
 // DATA FOUNDATION ONLY: nothing consumes sidebar-nav.json yet and config.ts remains the
-// live sidebar source, so this slice changes no visible navigation. These tests lock the
+// live sidebar source, so no visible navigation changes. These tests lock the
 // manifest's contract + determinism and that it is not yet wired into the UI.
 const DIST = path.resolve('.vitepress/dist')
 const MANIFEST = path.resolve('.vitepress/theme/data/sidebar-nav.json')
@@ -22,7 +22,7 @@ function builtExists(href: string): boolean {
   )
 }
 
-test.describe('sidebar-nav manifest (Slice 2A data foundation)', () => {
+test.describe('sidebar-nav manifest (data foundation)', () => {
   test('builds deterministically and is idempotent', () => {
     const out = execFileSync('python3', ['scripts/build-sidebar-nav.py'], {
       encoding: 'utf-8'
@@ -74,7 +74,7 @@ test.describe('sidebar-nav manifest (Slice 2A data foundation)', () => {
     expect(config.includes("'/literatura/':")).toBe(false) // legacy literatura sidebar removed in B5
     // the rented sidebar (config.ts) is NOT fed by the manifest
     expect(config).not.toContain('sidebar-nav')
-    // the manifest's only .vitepress consumer is the owned PodcastEpisodeNav (Slice 2B);
+    // the manifest's only .vitepress consumer is the owned PodcastEpisodeNav;
     // it is never wired into config.ts or the rented VPSidebar.
     const consumers: string[] = []
     const walk = (dir: string) => {

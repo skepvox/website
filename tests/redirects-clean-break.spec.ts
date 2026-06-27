@@ -2,7 +2,7 @@ import { test, expect } from '@playwright/test'
 import fs from 'node:fs'
 import path from 'node:path'
 
-// Slice A4 / IA-4 — clean-break / no-redirects policy. The obsolete Introdução fr->pt redirect map was
+// clean-break / no-redirects policy. The obsolete Introdução fr->pt redirect map was
 // removed: src/public/_redirects, the redirect-map JSON, the generator script, its build/package wiring,
 // and the dedicated spec are all gone. Old /louis-lavelle/... URLs may 404 (accepted, explicit). No
 // replacement redirects are created. File-based; runs after the full build, so it also proves the build
@@ -14,7 +14,7 @@ const REDIRECT_MAP = path.resolve(
 )
 const GEN = path.resolve('scripts/build-pipeline-redirect-map.py')
 
-test.describe('redirects clean break (slice A4 / IA-4)', () => {
+test.describe('redirects clean break', () => {
   test('the Cloudflare _redirects file is absent in src AND dist (no fr->pt redirects, clean break)', () => {
     expect(fs.existsSync(REDIRECTS)).toBe(false)
     expect(fs.existsSync(path.join(DIST, '_redirects'))).toBe(false) // the build did not emit one

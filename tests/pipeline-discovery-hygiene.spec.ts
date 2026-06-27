@@ -4,7 +4,7 @@ import path from 'node:path'
 import { execFileSync } from 'node:child_process'
 import { LAVELLE_WORK_ID } from './pipeline-helpers'
 
-// Slice 2P (+ A4 clean break) — post-move discovery hygiene: ONE canonical reading surface
+// post-move discovery hygiene: ONE canonical reading surface
 // (/pt/filosofia/louis-lavelle/introducao-a-ontologia/). The 12 legacy fr chapter pages stay built
 // (removed in A5) but are NO LONGER redirect sources — A4 removed the redirect map and src/public/_redirects
 // — and must not reappear through local search, LLM output, the sitemap, or the canonical pt navigation.
@@ -28,7 +28,7 @@ const llms = () => {
   const p = path.resolve(DIST, 'llms-full.txt')
   return fs.existsSync(p) ? fs.readFileSync(p, 'utf-8') : ''
 }
-test.describe('post-move discovery hygiene (Slice 2P + A4, one canonical pt reading surface)', () => {
+test.describe('post-move discovery hygiene (one canonical pt reading surface)', () => {
   test('clean break + A5 removal: no _redirects, and the legacy fr edition is gone from src + dist', () => {
     // A4 removed the redirect map + src/public/_redirects; A5 removed the whole legacy /louis-lavelle/ corpus.
     expect(fs.existsSync(path.resolve('src/public/_redirects'))).toBe(false)

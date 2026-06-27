@@ -3,7 +3,7 @@ import fs from 'node:fs'
 import path from 'node:path'
 import { LAVELLE_WORK_ID } from './pipeline-helpers'
 
-// Slice F1 — the static reader-location path that replaces the two-line PipelineReaderHeader. A
+// the static reader-location path that replaces the two-line PipelineReaderHeader. A
 // semantic breadcrumb (<nav aria-label> > <ol role=list>) rendered as a calm bookish location line:
 // Sumário (link) · Part (text) · Chapter (real <h2>, link → hub#trecho) · current Segment (real <h3>,
 // aria-current). Static, no sticky/scroll, no icon separator, no data change.
@@ -20,7 +20,7 @@ const MID = pt.find((s) => s.segmentPrefix === '00-01-002-008') as Record<string
 const FRONT = pt.find((s) => s.segmentPrefix === '00-00-000-001') as Record<string, unknown> // Advertência
 const LAST = pt[pt.length - 1] // 99-99-999-099 — conclusion sentinel (empty groupPath)
 
-test.describe('PipelineReaderHeader — Slice F1 reader-location path', () => {
+test.describe('PipelineReaderHeader reader-location path', () => {
   test.beforeEach(async ({ page }) => {
     await page.addInitScript(() => {
       try {
@@ -168,7 +168,7 @@ test.describe('PipelineReaderHeader — Slice F1 reader-location path', () => {
     await expect(loc).toHaveCount(1)
     await expect(loc).not.toContainText('Abertura') // a conclusion is NOT the opening
     // the hub folds these back-matter sentinels into the last chapter; the path matches by inheriting
-    // the nearest prior authored part/chapter (Slice F4 look-back fold of REAL data, not invented)
+    // the nearest prior authored part/chapter (look-back fold of REAL data, not invented)
     await expect(loc).toContainText('Segunda parte')
     await expect(loc.locator('h2')).toHaveText('Conexão')
     await expect(loc.locator('h3')).toHaveText('Parágrafo 98')

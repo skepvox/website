@@ -6,9 +6,8 @@
  * no changed nesting, no component artifact) and passes class / target / rel / aria-label
  * / title through via $attrs, so consuming markup and rendered DOM stay byte-equivalent.
  *
- * It owns only the SURFACE-INDEPENDENT half of the navigation four-state standard
- * (docs/navigation-owned-shell-assessment.md), so every owned affordance shares one
- * source of truth instead of re-declaring it:
+ * It owns only the SURFACE-INDEPENDENT half of the navigation four-state standard, so every owned
+ * affordance shares one source of truth instead of re-declaring it:
  *   - KEYBOARD FOCUS: a single --sk-focus-ring on :focus-visible.
  *   - PRESSED / TOUCH: neutral — pressing produces no sticky visual state, and the grey
  *     tap-highlight flash is suppressed. No colour is imposed on press, so a consumer's

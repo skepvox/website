@@ -292,7 +292,7 @@ Bounded: **one CSS primitive applied to two surfaces**, plus the rider seam. No 
 
 ## 10. Supersession note (relationship to the older homepage H-roadmap)
 
-The prior `docs/homepage-pillar-gateway-assessment.md` (slice series **H1–H6**) deliberately codified the homepage as a **hairline table-of-contents of three pillar rows each with a decorative `→`** (its §5 "Visual design direction" / §5.2, with the H5 hairline-re-point polish), explicitly chose to **extend the hairline-TOC grammar rather than the spine**, kept the `→` as `aria-hidden`, and explicitly argued **against** serifing the masthead ("keeps the gateway from impersonating a book page").
+The prior homepage data/IA pass deliberately codified the homepage as a **hairline table-of-contents of three pillar rows each with a decorative `→`**, chose to **extend the hairline-TOC grammar rather than the spine**, kept the `→` as `aria-hidden`, and explicitly argued **against** serifing the masthead ("keeps the gateway from impersonating a book page").
 
 **This assessment supersedes those specific *visual* decisions where they conflict:**
 

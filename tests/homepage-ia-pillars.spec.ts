@@ -5,7 +5,7 @@ import { PILLARS } from '../.vitepress/theme/components/pillars'
 
 // The public site's first-level mental model is three visible pillars (Literatura / Filosofia / Vox
 // Français), centralized in .vitepress/theme/components/pillars.ts and shared by the homepage + global
-// nav so they cannot drift (slice H2). Filosofia + Literatura are the locale-rooted /pt/<section>/
+// nav so they cannot drift. Filosofia + Literatura are the locale-rooted /pt/<section>/
 // sections; the visible podcast pillar is Vox Français (/podcast/francais/) — Vox Español / Vox English
 // stay public and reachable by URL / the /podcast/ hub / the podcast sidebar / the sitemap, just not
 // promoted in the primary IA. No /louis-lavelle/ links, no redirects. File-based against src + the built

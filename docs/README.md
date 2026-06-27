@@ -26,24 +26,17 @@ Where to start, by topic.
 - [archive/book-pipeline-website-export-contract-assessment.md](archive/book-pipeline-website-export-contract-assessment.md)
 - [archive/reading-app-next-session-handoff.md](archive/reading-app-next-session-handoff.md)
 
-## Homepage / site IA
+## Homepage / Site Visual Language
 
-- **[homepage-pillar-gateway-assessment.md](homepage-pillar-gateway-assessment.md)** — evolving the A6
-  calm editorial homepage into a **data-connected pillar gateway**: surfaces live pillar content from
-  `pipeline-export-segments.json` + the podcast manifests, narrows the visible third pillar to **Vox
-  Français** (Español/English stay public but unpromoted), and stays calm/editorial/bookish (no hero, no
-  dashboard, no generic cards). Defines slices **H1–H6**, the route-centralization `pillars.ts` module,
-  the test deltas, and the first implementation prompt. Frame: the A6 entry in
-  [locale-rooted-website-ia-assessment.md](locale-rooted-website-ia-assessment.md); shell posture:
-  [navigation-owned-shell-assessment.md](navigation-owned-shell-assessment.md) +
-  [sidebar-local-nav-model.md](sidebar-local-nav-model.md).
+- **[site-visual-language-next-level-assessment.md](site-visual-language-next-level-assessment.md)** —
+  current visual-language roadmap for the homepage and the three pillars. This is the live direction
+  for moving beyond the corrected IA/data layer into owned visual components, symbols, rhythm, color,
+  and interaction.
 
 ## Other docs (unrelated to the reading-app/pipeline-export work)
 
 Pre-existing site docs, left untouched by this consolidation: `books-workflow.md`,
-`local-podcast-business-model-next-steps.md`, `navigation-owned-shell-assessment.md`,
-`product-theme-roadmap-assessment.md`, `seo-strategy.md`, `sidebar-local-nav-model.md`,
-`slice-1c-color-accent-assessment.md`.
+`local-podcast-business-model-next-steps.md`, `seo-strategy.md`, `slice-1c-color-accent-assessment.md`.
 
 ## Deferred strategy notes
 
