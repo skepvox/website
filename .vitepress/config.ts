@@ -51,7 +51,8 @@ export const sidebar: ThemeConfig['sidebar'] = {
       link: '/podcast/espanol/',
       items: [
         { text: '001 - La boda es a las seis', link: '/podcast/espanol/001-la-boda-es-a-las-seis' },
-        { text: '002 - La sartén está ocupada', link: '/podcast/espanol/002-la-sarten-esta-ocupada' }
+        { text: '002 - La sartén está ocupada', link: '/podcast/espanol/002-la-sarten-esta-ocupada' },
+        { text: '003 - El tren está parado', link: '/podcast/espanol/003-el-tren-esta-parado' }
       ]
     },
     {

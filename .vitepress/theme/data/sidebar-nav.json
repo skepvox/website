@@ -33,8 +33,8 @@
         {
           "title": "Vox Español",
           "href": "/podcast/espanol/",
-          "meta": "2 episodios",
-          "episodeCount": 2,
+          "meta": "3 episodios",
+          "episodeCount": 3,
           "episodes": [
             {
               "number": 1,
@@ -45,6 +45,11 @@
               "number": 2,
               "title": "La sartén está ocupada",
               "href": "/podcast/espanol/002-la-sarten-esta-ocupada"
+            },
+            {
+              "number": 3,
+              "title": "El tren está parado",
+              "href": "/podcast/espanol/003-el-tren-esta-parado"
             }
           ]
         },

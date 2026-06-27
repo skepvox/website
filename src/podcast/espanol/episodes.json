@@ -14,5 +14,13 @@
     "durationSeconds": 1366.317,
     "description": "Una cocina compartida y una sartén ocupada.",
     "artworkUrl": "https://media.skepvox.com/podcast/espanol/artwork/show-cover-v3.jpg"
+  },
+  {
+    "number": 3,
+    "title": "El tren está parado",
+    "href": "/podcast/espanol/003-el-tren-esta-parado",
+    "durationSeconds": 1468.399,
+    "description": "Contraste entre ser y estar para identidad y función profesional, ubicación física, estado temporal, lugar de eventos, hora, estar de servicio, estar parado, estar enfermo, estar libre y lecturas concretas de directo.",
+    "artworkUrl": "https://media.skepvox.com/podcast/espanol/artwork/show-cover-v3.jpg"
   }
 ]

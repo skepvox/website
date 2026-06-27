@@ -1,0 +1,2518 @@
+{
+  "episode": {
+    "id": "espanol-003",
+    "title": "El tren está parado",
+    "showTitle": "Vox Español",
+    "audioUrl": "https://media.skepvox.com/podcast/espanol/audio/espanol-003-el-tren-esta-parado-v5.mp3",
+    "artworkUrl": "https://media.skepvox.com/podcast/espanol/artwork/show-cover-v3.jpg",
+    "lang": "es",
+    "durationSeconds": 1468.399
+  },
+  "sections": [
+    {
+      "id": "01-introduccion",
+      "label": "Introducción",
+      "isDialogue": false,
+      "paragraphs": [
+        {
+          "id": "01-introduccion-p001",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0001",
+              "start": 0.0,
+              "end": 3.34,
+              "text": "Bienvenidos a Podcast de español como lengua extranjera.",
+              "sep": " "
+            },
+            {
+              "id": "0002",
+              "start": 4.58,
+              "end": 9.8,
+              "text": "Hoy escucharemos una escena en una estación de tren, durante unos minutos de retraso.",
+              "sep": " "
+            },
+            {
+              "id": "0003",
+              "start": 11.26,
+              "end": 15.92,
+              "text": "Beatriz atiende en el mostrador de información; Samuel llega con prisa,",
+              "sep": " "
+            },
+            {
+              "id": "0004",
+              "start": 16.62,
+              "end": 20.68,
+              "text": "uniforme y una explicación que no encaja con el guion habitual de pasajero.",
+              "sep": " "
+            },
+            {
+              "id": "0005",
+              "start": 22.1,
+              "end": 24.62,
+              "text": "Fíjense en cómo la identidad, el lugar,",
+              "sep": " "
+            },
+            {
+              "id": "0006",
+              "start": 25.4,
+              "end": 31.34,
+              "text": "el estado del tren y una palabra administrativa cambian el sentido de toda la conversación.",
+              "sep": " "
+            },
+            {
+              "id": "0007",
+              "start": 32.92,
+              "end": 33.46,
+              "text": "Vamos allá.",
+              "sep": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-dialogo-lento",
+      "label": "Diálogo - versión lenta",
+      "isDialogue": true,
+      "paragraphs": [
+        {
+          "id": "02-dialogo-lento-p001",
+          "speaker": "Beatriz",
+          "cues": [
+            {
+              "id": "0008",
+              "start": 40.502,
+              "end": 42.062,
+              "text": "Usted es Samuel, ¿verdad?",
+              "sep": " "
+            },
+            {
+              "id": "0009",
+              "start": 42.762,
+              "end": 47.792,
+              "text": "El tren a Granada es directo, pero ahora está parado en la vía cuatro.",
+              "sep": " "
+            },
+            {
+              "id": "0010",
+              "start": 48.842,
+              "end": 52.562,
+              "text": "No está cancelado; solo se está poniendo dramático,",
+              "sep": " "
+            },
+            {
+              "id": "0011",
+              "start": 53.242,
+              "end": 56.962,
+              "text": "como casi todos los trenes cuando la pantalla usa letras rojas.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p002",
+          "speaker": "Samuel",
+          "cues": [
+            {
+              "id": "0012",
+              "start": 58.502,
+              "end": 59.602,
+              "text": "Soy Samuel, sí.",
+              "sep": " "
+            },
+            {
+              "id": "0013",
+              "start": 60.242,
+              "end": 61.282,
+              "text": "Estoy aquí por ese tren.",
+              "sep": " "
+            },
+            {
+              "id": "0014",
+              "start": 61.742,
+              "end": 68.462,
+              "text": "Me avisaron hace veinte minutos y vengo desde el depósito, no desde la cafetería ni desde la cola de viajeros.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p003",
+          "speaker": "Beatriz",
+          "cues": [
+            {
+              "id": "0015",
+              "start": 68.462,
+              "end": 71.622,
+              "text": "Entonces está en el lugar correcto.",
+              "sep": " "
+            },
+            {
+              "id": "0016",
+              "start": 73.422,
+              "end": 78.022,
+              "text": "Su billete es para las nueve y diez, pero ya son las nueve y veinte.",
+              "sep": " "
+            },
+            {
+              "id": "0017",
+              "start": 78.782,
+              "end": 80.322,
+              "text": "La paciencia es obligatoria,",
+              "sep": " "
+            },
+            {
+              "id": "0018",
+              "start": 81.462,
+              "end": 87.462,
+              "text": "el café está lejos y el banco libre está ocupado por una maleta con mucha personalidad.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p004",
+          "speaker": "Samuel",
+          "cues": [
+            {
+              "id": "0019",
+              "start": 88.622,
+              "end": 89.362,
+              "text": "No tengo billete.",
+              "sep": " "
+            },
+            {
+              "id": "0020",
+              "start": 90.262,
+              "end": 91.143,
+              "text": "Estoy de servicio.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p005",
+          "speaker": "Beatriz",
+          "cues": [
+            {
+              "id": "0021",
+              "start": 91.662,
+              "end": 93.722,
+              "text": "Ah, empleado público.",
+              "sep": " "
+            },
+            {
+              "id": "0022",
+              "start": 94.202,
+              "end": 99.982,
+              "text": "A veces los descuentos están mal cargados y el sistema es muy creativo con las categorías.",
+              "sep": " "
+            },
+            {
+              "id": "0023",
+              "start": 101.862,
+              "end": 104.762,
+              "text": "¿Su asiento está en turista o en preferente?",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p006",
+          "speaker": "Samuel",
+          "cues": [
+            {
+              "id": "0024",
+              "start": 105.442,
+              "end": 108.082,
+              "text": "Mi asiento está en la cabina, si todo va bien.",
+              "sep": " "
+            },
+            {
+              "id": "0025",
+              "start": 108.482,
+              "end": 113.242,
+              "text": "Y ahora mismo nada va especialmente bien, porque sigo delante del mostrador.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p007",
+          "speaker": "Beatriz",
+          "cues": [
+            {
+              "id": "0026",
+              "start": 114.082,
+              "end": 116.162,
+              "text": "La cabina no es para pasajeros, señor.",
+              "sep": " "
+            },
+            {
+              "id": "0027",
+              "start": 116.922,
+              "end": 118.542,
+              "text": "Aunque entiendo que esté cansado.",
+              "sep": " "
+            },
+            {
+              "id": "0028",
+              "start": 120.062,
+              "end": 123.182,
+              "text": "La estación está llena y el andén está imposible.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p008",
+          "speaker": "Samuel",
+          "cues": [
+            {
+              "id": "0029",
+              "start": 123.182,
+              "end": 126.442,
+              "text": "No quiero viajar en la cabina por capricho.",
+              "sep": " "
+            },
+            {
+              "id": "0030",
+              "start": 127.062,
+              "end": 128.182,
+              "text": "Soy maquinista suplente.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p009",
+          "speaker": "Beatriz",
+          "cues": [
+            {
+              "id": "0031",
+              "start": 129.042,
+              "end": 129.742,
+              "text": "¿Maquinista?",
+              "sep": " "
+            },
+            {
+              "id": "0032",
+              "start": 130.522,
+              "end": 133.202,
+              "text": "Pero el maquinista ya está asignado.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p010",
+          "speaker": "Samuel",
+          "cues": [
+            {
+              "id": "0033",
+              "start": 134.342,
+              "end": 135.022,
+              "text": "Estaba asignado.",
+              "sep": " "
+            },
+            {
+              "id": "0034",
+              "start": 135.602,
+              "end": 136.602,
+              "text": "Ahora está enfermo.",
+              "sep": " "
+            },
+            {
+              "id": "0035",
+              "start": 137.142,
+              "end": 139.242,
+              "text": "Por eso yo estoy aquí, con uniforme,",
+              "sep": " "
+            },
+            {
+              "id": "0036",
+              "start": 139.682,
+              "end": 145.082,
+              "text": "credencial y cara de persona que necesita pasar antes de que el tren sea una noticia local.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p011",
+          "speaker": "Beatriz",
+          "cues": [
+            {
+              "id": "0037",
+              "start": 146.062,
+              "end": 149.262,
+              "text": "Creí que la credencial era una funda elegante para el billete.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p012",
+          "speaker": "Samuel",
+          "cues": [
+            {
+              "id": "0038",
+              "start": 150.002,
+              "end": 151.302,
+              "text": "Es una identificación.",
+              "sep": " "
+            },
+            {
+              "id": "0039",
+              "start": 151.302,
+              "end": 155.342,
+              "text": "Y el tren está parado porque falta alguien en la cabina.",
+              "sep": " "
+            },
+            {
+              "id": "0040",
+              "start": 156.022,
+              "end": 161.502,
+              "text": "El tren no está cansado, no está triste y no está pensando; está sin maquinista.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p013",
+          "speaker": "Beatriz",
+          "cues": [
+            {
+              "id": "0041",
+              "start": 162.422,
+              "end": 166.562,
+              "text": "Según la pantalla, el tren está parado por incidencia técnica.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p014",
+          "speaker": "Samuel",
+          "cues": [
+            {
+              "id": "0042",
+              "start": 167.462,
+              "end": 170.982,
+              "text": "La incidencia técnica soy yo, bloqueado en información.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p015",
+          "speaker": "Beatriz",
+          "cues": [
+            {
+              "id": "0043",
+              "start": 171.802,
+              "end": 174.182,
+              "text": "Entonces el retraso no está en la vía.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p016",
+          "speaker": "Samuel",
+          "cues": [
+            {
+              "id": "0044",
+              "start": 175.202,
+              "end": 179.222,
+              "text": "Está aquí, delante de usted, explicando que no es pasajero,",
+              "sep": " "
+            },
+            {
+              "id": "0045",
+              "start": 179.522,
+              "end": 186.222,
+              "text": "que es trabajador y que el tren es directo solo si alguien lo conduce directamente fuera de la estación.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p017",
+          "speaker": "Beatriz",
+          "cues": [
+            {
+              "id": "0046",
+              "start": 186.662,
+              "end": 186.982,
+              "text": "Muy bien.",
+              "sep": " "
+            },
+            {
+              "id": "0047",
+              "start": 188.622,
+              "end": 189.502,
+              "text": "Pase por esa puerta.",
+              "sep": " "
+            },
+            {
+              "id": "0048",
+              "start": 190.742,
+              "end": 192.602,
+              "text": "El andén está libre por la izquierda,",
+              "sep": " "
+            },
+            {
+              "id": "0049",
+              "start": 193.462,
+              "end": 198.922,
+              "text": "la cabina está al fondo y mi orgullo profesional está momentáneamente en revisión.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogo-lento-p018",
+          "speaker": "Samuel",
+          "cues": [
+            {
+              "id": "0050",
+              "start": 199.922,
+              "end": 200.282,
+              "text": "Gracias.",
+              "sep": " "
+            },
+            {
+              "id": "0051",
+              "start": 200.982,
+              "end": 205.302,
+              "text": "Si el tren sale pronto, diremos que la incidencia técnica estaba bien peinada,",
+              "sep": " "
+            },
+            {
+              "id": "0052",
+              "start": 205.822,
+              "end": 210.642,
+              "text": "llevaba chaleco y estaba atrapada en información con una paciencia casi ferroviaria.",
+              "sep": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-explicacion",
+      "label": "Explicación",
+      "isDialogue": false,
+      "paragraphs": [
+        {
+          "id": "03-explicacion-p001",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0053",
+              "start": 217.769,
+              "end": 222.009,
+              "text": "La escena empieza con una estación y una pantalla de retrasos.",
+              "sep": " "
+            },
+            {
+              "id": "0054",
+              "start": 223.149,
+              "end": 226.809,
+              "text": "Una «estación» es el lugar donde salen y llegan trenes;",
+              "sep": " "
+            },
+            {
+              "id": "0055",
+              "start": 228.229,
+              "end": 231.649,
+              "text": "la «pantalla» muestra salidas, vías y avisos.",
+              "sep": " "
+            },
+            {
+              "id": "0056",
+              "start": 232.849,
+              "end": 239.33,
+              "text": "Beatriz dice que «el tren a Granada es directo, pero ahora está parado en la vía cuatro».",
+              "sep": " "
+            },
+            {
+              "id": "0057",
+              "start": 240.469,
+              "end": 246.289,
+              "text": "«Directo» describe el tipo de servicio: va a su destino con pocas paradas.",
+              "sep": " "
+            },
+            {
+              "id": "0058",
+              "start": 247.589,
+              "end": 252.849,
+              "text": "«Parado» describe el estado actual: el tren no se mueve.",
+              "sep": " "
+            },
+            {
+              "id": "0059",
+              "start": 254.429,
+              "end": 257.029,
+              "text": "La «vía» es el lugar donde el tren espera.",
+              "sep": " "
+            },
+            {
+              "id": "0060",
+              "start": 258.249,
+              "end": 264.689,
+              "text": "En una sola línea ya tenemos identidad del servicio, estado temporal y ubicación.",
+              "sep": " "
+            },
+            {
+              "id": "0061",
+              "start": 266.449,
+              "end": 271.829,
+              "text": "También tenemos presión social: la pantalla usa letras rojas y todos miran.",
+              "sep": " "
+            },
+            {
+              "id": "0062",
+              "start": 273.189,
+              "end": 279.529,
+              "text": "La escena no empieza con una regla, sino con un problema visible: gente esperando,",
+              "sep": " "
+            },
+            {
+              "id": "0063",
+              "start": 280.229,
+              "end": 285.709,
+              "text": "información incompleta y alguien que debe explicar por qué el tren no sale.",
+              "sep": " "
+            },
+            {
+              "id": "0064",
+              "start": 287.169,
+              "end": 291.189,
+              "text": "Esa presión convierte cada palabra en una decisión práctica.",
+              "sep": " "
+            },
+            {
+              "id": "0065",
+              "start": 292.529,
+              "end": 296.649,
+              "text": "El oyente ya sabe que el retraso no será una idea abstracta:",
+              "sep": " "
+            },
+            {
+              "id": "0066",
+              "start": 297.669,
+              "end": 300.709,
+              "text": "tendrá un lugar, una causa y una persona.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explicacion-p002",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0067",
+              "start": 301.826,
+              "end": 305.526,
+              "text": "Samuel responde: «Soy Samuel, sí.",
+              "sep": " "
+            },
+            {
+              "id": "0068",
+              "start": 305.846,
+              "end": 307.366,
+              "text": "Estoy aquí por ese tren».",
+              "sep": " "
+            },
+            {
+              "id": "0069",
+              "start": 308.186,
+              "end": 312.086,
+              "text": "Primero confirma identidad; luego explica presencia.",
+              "sep": " "
+            },
+            {
+              "id": "0070",
+              "start": 313.266,
+              "end": 317.206,
+              "text": "«Estoy aquí» coloca a Samuel delante del mostrador,",
+              "sep": " "
+            },
+            {
+              "id": "0071",
+              "start": 317.926,
+              "end": 321.066,
+              "text": "pero la frase «por ese tren» tiene doble lectura.",
+              "sep": " "
+            },
+            {
+              "id": "0072",
+              "start": 322.526,
+              "end": 324.887,
+              "text": "Para Beatriz, parece motivo de viaje.",
+              "sep": " "
+            },
+            {
+              "id": "0073",
+              "start": 326.046,
+              "end": 328.886,
+              "text": "Para Samuel, es motivo de trabajo.",
+              "sep": " "
+            },
+            {
+              "id": "0074",
+              "start": 330.246,
+              "end": 334.226,
+              "text": "El «depósito» es una zona técnica donde se",
+              "sep": " "
+            },
+            {
+              "id": "0075",
+              "start": 334.226,
+              "end": 337.466,
+              "text": "preparan trenes o personal antes del servicio.",
+              "sep": " "
+            },
+            {
+              "id": "0076",
+              "start": 339.206,
+              "end": 345.046,
+              "text": "Cuando Samuel dice que viene del depósito, no de la cafetería ni de la cola de viajeros,",
+              "sep": " "
+            },
+            {
+              "id": "0077",
+              "start": 345.826,
+              "end": 347.886,
+              "text": "intenta salir del mundo de los pasajeros.",
+              "sep": " "
+            },
+            {
+              "id": "0078",
+              "start": 349.286,
+              "end": 353.846,
+              "text": "Es una manera de decir: no vengo desde el espacio del público,",
+              "sep": " "
+            },
+            {
+              "id": "0079",
+              "start": 355.026,
+              "end": 357.286,
+              "text": "vengo desde el espacio interno del tren.",
+              "sep": " "
+            },
+            {
+              "id": "0080",
+              "start": 358.286,
+              "end": 362.506,
+              "text": "Para él, cada detalle señala función profesional.",
+              "sep": " "
+            },
+            {
+              "id": "0081",
+              "start": 364.006,
+              "end": 367.407,
+              "text": "Para Beatriz, todavía suena a información de estación.",
+              "sep": " "
+            },
+            {
+              "id": "0082",
+              "start": 369.246,
+              "end": 372.466,
+              "text": "Ahí el malentendido empieza a endurecerse:",
+              "sep": " "
+            },
+            {
+              "id": "0083",
+              "start": 373.946,
+              "end": 378.926,
+              "text": "los dos oyen las mismas palabras, pero las colocan en mapas distintos.",
+              "sep": " "
+            },
+            {
+              "id": "0084",
+              "start": 379.926,
+              "end": 385.406,
+              "text": "La palabra «depósito» ayuda porque apunta hacia detrás del servicio,",
+              "sep": " "
+            },
+            {
+              "id": "0085",
+              "start": 386.406,
+              "end": 388.107,
+              "text": "no hacia la zona normal de espera.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explicacion-p003",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0086",
+              "start": 388.53,
+              "end": 390.87,
+              "text": "Beatriz activa su guion habitual:",
+              "sep": " "
+            },
+            {
+              "id": "0087",
+              "start": 392.31,
+              "end": 396.61,
+              "text": "«Su billete es para las nueve y diez, pero ya son las nueve y veinte».",
+              "sep": " "
+            },
+            {
+              "id": "0088",
+              "start": 397.59,
+              "end": 401.83,
+              "text": "Un «billete» permite viajar, y la hora organiza el servicio.",
+              "sep": " "
+            },
+            {
+              "id": "0089",
+              "start": 403.01,
+              "end": 407.03,
+              "text": "Con la hora usamos el verbo «ser»: son las nueve y veinte.",
+              "sep": " "
+            },
+            {
+              "id": "0090",
+              "start": 407.73,
+              "end": 410.45,
+              "text": "También aparece «es para» con el billete:",
+              "sep": " "
+            },
+            {
+              "id": "0091",
+              "start": 411.81,
+              "end": 415.71,
+              "text": "el billete es para las nueve y diez porque corresponde a una salida prevista.",
+              "sep": " "
+            },
+            {
+              "id": "0092",
+              "start": 416.69,
+              "end": 419.39,
+              "text": "El problema es que Samuel no tiene billete.",
+              "sep": " "
+            },
+            {
+              "id": "0093",
+              "start": 420.87,
+              "end": 425.43,
+              "text": "Beatriz también menciona «el banco libre», ocupado por una maleta.",
+              "sep": " "
+            },
+            {
+              "id": "0094",
+              "start": 427.19,
+              "end": 432.47,
+              "text": "«Libre» indica disponibilidad; «ocupado» indica que algo ya tiene uso.",
+              "sep": " "
+            },
+            {
+              "id": "0095",
+              "start": 433.75,
+              "end": 438.13,
+              "text": "La frase es cómica porque una cosa llamada libre no está disponible.",
+              "sep": " "
+            },
+            {
+              "id": "0096",
+              "start": 439.69,
+              "end": 444.81,
+              "text": "Una maleta con «mucha personalidad» ocupa un lugar como si fuera pasajera.",
+              "sep": " "
+            },
+            {
+              "id": "0097",
+              "start": 445.71,
+              "end": 447.09,
+              "text": "En una estación llena,",
+              "sep": " "
+            },
+            {
+              "id": "0098",
+              "start": 447.63,
+              "end": 453.57,
+              "text": "incluso un banco puede tener más personalidad administrativa que algunas personas.",
+              "sep": " "
+            },
+            {
+              "id": "0099",
+              "start": 455.33,
+              "end": 459.13,
+              "text": "La escena enseña disponibilidad sin detenerse en teoría:",
+              "sep": " "
+            },
+            {
+              "id": "0100",
+              "start": 460.11,
+              "end": 464.35,
+              "text": "si algo está libre, puede usarse; si está ocupado,",
+              "sep": " "
+            },
+            {
+              "id": "0101",
+              "start": 464.73,
+              "end": 465.59,
+              "text": "bloquea el movimiento.",
+              "sep": " "
+            },
+            {
+              "id": "0102",
+              "start": 466.61,
+              "end": 471.97,
+              "text": "Y Beatriz crea, sin saberlo, un bloqueo mucho más importante que un banco.",
+              "sep": " "
+            },
+            {
+              "id": "0103",
+              "start": 473.27,
+              "end": 475.21,
+              "text": "El vocabulario prepara el giro:",
+              "sep": " "
+            },
+            {
+              "id": "0104",
+              "start": 475.71,
+              "end": 480.33,
+              "text": "disponibilidad y bloqueo van a mandar en toda la escena.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explicacion-p004",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0105",
+              "start": 481.129,
+              "end": 484.569,
+              "text": "Samuel corrige el marco: «No tengo billete.",
+              "sep": " "
+            },
+            {
+              "id": "0106",
+              "start": 485.089,
+              "end": 485.849,
+              "text": "Estoy de servicio».",
+              "sep": " "
+            },
+            {
+              "id": "0107",
+              "start": 487.549,
+              "end": 488.949,
+              "text": "Esta expresión es central.",
+              "sep": " "
+            },
+            {
+              "id": "0108",
+              "start": 490.109,
+              "end": 495.549,
+              "text": "«Estar de servicio» significa estar trabajando en ese momento, dentro de una función.",
+              "sep": " "
+            },
+            {
+              "id": "0109",
+              "start": 497.049,
+              "end": 501.689,
+              "text": "Observe también la tilde: «está», del verbo estar,",
+              "sep": " "
+            },
+            {
+              "id": "0110",
+              "start": 502.369,
+              "end": 507.729,
+              "text": "lleva la fuerza en la última sílaba; «esta», sin tilde,",
+              "sep": " "
+            },
+            {
+              "id": "0111",
+              "start": 508.489,
+              "end": 512.409,
+              "text": "es un demostrativo y la fuerza cae al principio.",
+              "sep": " "
+            },
+            {
+              "id": "0112",
+              "start": 514.029,
+              "end": 520.109,
+              "text": "Una persona puede ser maquinista como profesión y estar de servicio solo durante su turno.",
+              "sep": " "
+            },
+            {
+              "id": "0113",
+              "start": 521.629,
+              "end": 524.269,
+              "text": "Fuera del turno, sigue siendo maquinista,",
+              "sep": " "
+            },
+            {
+              "id": "0114",
+              "start": 525.029,
+              "end": 528.829,
+              "text": "pero puede estar libre, en casa o descansando.",
+              "sep": " "
+            },
+            {
+              "id": "0115",
+              "start": 530.629,
+              "end": 535.789,
+              "text": "Samuel no pide ayuda para viajar; necesita acceso para trabajar.",
+              "sep": " "
+            },
+            {
+              "id": "0116",
+              "start": 536.789,
+              "end": 540.249,
+              "text": "La expresión también tiene un matiz institucional:",
+              "sep": " "
+            },
+            {
+              "id": "0117",
+              "start": 541.469,
+              "end": 544.01,
+              "text": "policía de servicio, médico de servicio,",
+              "sep": " "
+            },
+            {
+              "id": "0118",
+              "start": 545.129,
+              "end": 546.59,
+              "text": "personal de estación de servicio.",
+              "sep": " "
+            },
+            {
+              "id": "0119",
+              "start": 548.289,
+              "end": 549.969,
+              "text": "Beatriz, sin embargo,",
+              "sep": " "
+            },
+            {
+              "id": "0120",
+              "start": 550.949,
+              "end": 555.529,
+              "text": "oye «servicio» y piensa en categorías de descuento.",
+              "sep": " "
+            },
+            {
+              "id": "0121",
+              "start": 557.149,
+              "end": 559.789,
+              "text": "El malentendido no viene de palabras absurdas,",
+              "sep": " "
+            },
+            {
+              "id": "0122",
+              "start": 560.489,
+              "end": 564.649,
+              "text": "sino de una palabra correcta leída desde el procedimiento equivocado.",
+              "sep": " "
+            },
+            {
+              "id": "0123",
+              "start": 565.789,
+              "end": 568.729,
+              "text": "Samuel intenta abrir una puerta profesional;",
+              "sep": " "
+            },
+            {
+              "id": "0124",
+              "start": 569.989,
+              "end": 572.889,
+              "text": "Beatriz abre un formulario de pasajero.",
+              "sep": " "
+            },
+            {
+              "id": "0125",
+              "start": 574.389,
+              "end": 575.129,
+              "text": "En esta escena,",
+              "sep": " "
+            },
+            {
+              "id": "0126",
+              "start": 576.229,
+              "end": 582.169,
+              "text": "entender «de servicio» debería cambiar la acción inmediata: dejarlo pasar.",
+              "sep": " "
+            },
+            {
+              "id": "0127",
+              "start": 583.849,
+              "end": 586.669,
+              "text": "Por eso esta expresión recibe atención completa:",
+              "sep": " "
+            },
+            {
+              "id": "0128",
+              "start": 588.069,
+              "end": 591.509,
+              "text": "define la función temporal que Beatriz no reconoce.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explicacion-p005",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0129",
+              "start": 592.458,
+              "end": 596.578,
+              "text": "Samuel dice: «Mi asiento está en la cabina».",
+              "sep": " "
+            },
+            {
+              "id": "0130",
+              "start": 597.638,
+              "end": 601.698,
+              "text": "La «cabina» es el espacio desde donde trabaja el maquinista.",
+              "sep": " "
+            },
+            {
+              "id": "0131",
+              "start": 602.878,
+              "end": 607.339,
+              "text": "No es un asiento de turista ni de preferente; es un puesto de trabajo.",
+              "sep": " "
+            },
+            {
+              "id": "0132",
+              "start": 608.498,
+              "end": 613.538,
+              "text": "Beatriz responde: «La cabina no es para pasajeros».",
+              "sep": " "
+            },
+            {
+              "id": "0133",
+              "start": 614.898,
+              "end": 619.838,
+              "text": "Tiene razón dentro de su marco, pero ese marco está equivocado.",
+              "sep": " "
+            },
+            {
+              "id": "0134",
+              "start": 620.838,
+              "end": 624.698,
+              "text": "El «mostrador» es el lugar de atención al público,",
+              "sep": " "
+            },
+            {
+              "id": "0135",
+              "start": 624.698,
+              "end": 629.519,
+              "text": "y Samuel sigue delante de él cuando debería avanzar hacia el tren.",
+              "sep": " "
+            },
+            {
+              "id": "0136",
+              "start": 631.178,
+              "end": 633.098,
+              "text": "Aquí la ubicación sostiene el humor:",
+              "sep": " "
+            },
+            {
+              "id": "0137",
+              "start": 634.398,
+              "end": 636.938,
+              "text": "la persona que puede mover el tren está",
+              "sep": " "
+            },
+            {
+              "id": "0138",
+              "start": 636.938,
+              "end": 641.758,
+              "text": "físicamente parada en el lugar que debería desbloquear problemas.",
+              "sep": " "
+            },
+            {
+              "id": "0139",
+              "start": 643.218,
+              "end": 647.119,
+              "text": "Además, la palabra «asiento» cambia de valor.",
+              "sep": " "
+            },
+            {
+              "id": "0140",
+              "start": 648.118,
+              "end": 653.258,
+              "text": "Para un pasajero, asiento significa plaza de viaje.",
+              "sep": " "
+            },
+            {
+              "id": "0141",
+              "start": 653.258,
+              "end": 658.138,
+              "text": "Para Samuel, significa lugar de trabajo dentro de la cabina.",
+              "sep": " "
+            },
+            {
+              "id": "0142",
+              "start": 658.378,
+              "end": 662.398,
+              "text": "El mismo objeto mental tiene dos funciones.",
+              "sep": " "
+            },
+            {
+              "id": "0143",
+              "start": 663.758,
+              "end": 670.178,
+              "text": "Por eso la conversación parece lógica frase por frase, aunque el resultado sea absurdo.",
+              "sep": " "
+            },
+            {
+              "id": "0144",
+              "start": 671.038,
+              "end": 677.098,
+              "text": "La cabina no es un lujo; es el punto donde empieza el movimiento del tren.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explicacion-p006",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0145",
+              "start": 678.197,
+              "end": 683.197,
+              "text": "La frase más clara llega después: «Soy maquinista suplente».",
+              "sep": " "
+            },
+            {
+              "id": "0146",
+              "start": 683.937,
+              "end": 690.777,
+              "text": "Un «maquinista» conduce un tren; «suplente» indica que sustituye a otra persona.",
+              "sep": " "
+            },
+            {
+              "id": "0147",
+              "start": 691.997,
+              "end": 695.117,
+              "text": "Samuel define su función, no solo su nombre.",
+              "sep": " "
+            },
+            {
+              "id": "0148",
+              "start": 696.397,
+              "end": 700.177,
+              "text": "Beatriz responde que el maquinista ya está asignado,",
+              "sep": " "
+            },
+            {
+              "id": "0149",
+              "start": 700.657,
+              "end": 705.227,
+              "text": "y Samuel corrige: «Estaba asignado.",
+              "sep": " "
+            },
+            {
+              "id": "0150",
+              "start": 705.697,
+              "end": 707.337,
+              "text": "Ahora está enfermo».",
+              "sep": " "
+            },
+            {
+              "id": "0151",
+              "start": 709.297,
+              "end": 715.457,
+              "text": "«Asignado» señala una función prevista; «enfermo» describe el estado de salud actual.",
+              "sep": " "
+            },
+            {
+              "id": "0152",
+              "start": 716.717,
+              "end": 719.897,
+              "text": "La situación cambió, y por eso Samuel está allí.",
+              "sep": " "
+            },
+            {
+              "id": "0153",
+              "start": 721.277,
+              "end": 727.597,
+              "text": "Este momento muestra una diferencia práctica: una planificación puede estar hecha,",
+              "sep": " "
+            },
+            {
+              "id": "0154",
+              "start": 728.277,
+              "end": 730.697,
+              "text": "pero un cuerpo puede estar enfermo.",
+              "sep": " "
+            },
+            {
+              "id": "0155",
+              "start": 732.097,
+              "end": 734.797,
+              "text": "La estación necesita ajustar el plan.",
+              "sep": " "
+            },
+            {
+              "id": "0156",
+              "start": 735.797,
+              "end": 740.517,
+              "text": "La palabra «suplente» también evita una explicación larga:",
+              "sep": " "
+            },
+            {
+              "id": "0157",
+              "start": 741.117,
+              "end": 743.457,
+              "text": "Samuel no roba el puesto de nadie,",
+              "sep": " "
+            },
+            {
+              "id": "0158",
+              "start": 744.637,
+              "end": 745.877,
+              "text": "viene porque alguien falta.",
+              "sep": " "
+            },
+            {
+              "id": "0159",
+              "start": 747.277,
+              "end": 751.657,
+              "text": "La escena se vuelve más clara y más urgente al mismo tiempo.",
+              "sep": " "
+            },
+            {
+              "id": "0160",
+              "start": 753.117,
+              "end": 758.098,
+              "text": "Si Beatriz acepta esa identidad, el retraso puede empezar a terminar.",
+              "sep": " "
+            },
+            {
+              "id": "0161",
+              "start": 759.297,
+              "end": 765.497,
+              "text": "La identidad profesional ya no es información social; es solución práctica.",
+              "sep": " "
+            },
+            {
+              "id": "0162",
+              "start": 767.057,
+              "end": 772.557,
+              "text": "En este punto, reconocer la identidad correcta abre el camino correcto.",
+              "sep": " "
+            },
+            {
+              "id": "0163",
+              "start": 774.197,
+              "end": 777.877,
+              "text": "Sin ese reconocimiento, la escena no se mueve.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explicacion-p007",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0164",
+              "start": 778.245,
+              "end": 784.005,
+              "text": "Samuel reúne pruebas visibles: uniforme, credencial y cara de urgencia.",
+              "sep": " "
+            },
+            {
+              "id": "0165",
+              "start": 785.645,
+              "end": 789.446,
+              "text": "El «uniforme» es la ropa propia de una empresa o servicio.",
+              "sep": " "
+            },
+            {
+              "id": "0166",
+              "start": 790.585,
+              "end": 793.905,
+              "text": "La «credencial» identifica a una persona en su trabajo.",
+              "sep": " "
+            },
+            {
+              "id": "0167",
+              "start": 795.305,
+              "end": 798.805,
+              "text": "Son señales que deberían cambiar la lectura de Beatriz.",
+              "sep": " "
+            },
+            {
+              "id": "0168",
+              "start": 799.465,
+              "end": 805.665,
+              "text": "Pero ella interpreta la credencial como si fuera una funda elegante para el billete.",
+              "sep": " "
+            },
+            {
+              "id": "0169",
+              "start": 806.705,
+              "end": 811.005,
+              "text": "La frase es seca porque no convierte a Beatriz en tonta;",
+              "sep": " "
+            },
+            {
+              "id": "0170",
+              "start": 812.345,
+              "end": 815.125,
+              "text": "solo muestra que está atrapada en el guion de pasajero.",
+              "sep": " "
+            },
+            {
+              "id": "0171",
+              "start": 816.765,
+              "end": 822.145,
+              "text": "Para Samuel, uniforme y credencial dicen «trabajador».",
+              "sep": " "
+            },
+            {
+              "id": "0172",
+              "start": 823.645,
+              "end": 827.905,
+              "text": "Para Beatriz, siguen siendo accesorios de alguien que viaja.",
+              "sep": " "
+            },
+            {
+              "id": "0173",
+              "start": 829.245,
+              "end": 835.345,
+              "text": "En la vida diaria, una credencial permite entrar, identificarse o demostrar una función.",
+              "sep": " "
+            },
+            {
+              "id": "0174",
+              "start": 836.085,
+              "end": 840.246,
+              "text": "Si esa señal se lee mal, la puerta correcta no se abre.",
+              "sep": " "
+            },
+            {
+              "id": "0175",
+              "start": 841.325,
+              "end": 846.245,
+              "text": "Por eso el objeto es pequeño, pero tiene mucho peso en la escena.",
+              "sep": " "
+            },
+            {
+              "id": "0176",
+              "start": 847.865,
+              "end": 853.045,
+              "text": "La credencial debería hablar por Samuel, pero aquí necesita traducción social.",
+              "sep": " "
+            },
+            {
+              "id": "0177",
+              "start": 854.685,
+              "end": 858.305,
+              "text": "Ese detalle mantiene la comedia cerca de la vida real:",
+              "sep": " "
+            },
+            {
+              "id": "0178",
+              "start": 859.465,
+              "end": 862.085,
+              "text": "a veces el documento correcto no basta.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explicacion-p008",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0179",
+              "start": 862.466,
+              "end": 868.786,
+              "text": "Samuel explica el centro del problema: «El tren está parado porque falta alguien en la cabina».",
+              "sep": " "
+            },
+            {
+              "id": "0180",
+              "start": 870.526,
+              "end": 873.366,
+              "text": "El tren no está cansado, triste ni pensando.",
+              "sep": " "
+            },
+            {
+              "id": "0181",
+              "start": 874.726,
+              "end": 878.666,
+              "text": "Estas palabras personifican el tren para negar la personificación.",
+              "sep": " "
+            },
+            {
+              "id": "0182",
+              "start": 879.986,
+              "end": 883.326,
+              "text": "La frase clave es «el tren está sin maquinista».",
+              "sep": " "
+            },
+            {
+              "id": "0183",
+              "start": 883.546,
+              "end": 888.906,
+              "text": "La expresión «estar sin» marca una falta temporal:",
+              "sep": " "
+            },
+            {
+              "id": "0184",
+              "start": 890.306,
+              "end": 891.966,
+              "text": "algo necesario no está presente.",
+              "sep": " "
+            },
+            {
+              "id": "0185",
+              "start": 892.976,
+              "end": 896.706,
+              "text": "Cuando Samuel llegue a la cabina, el estado puede cambiar.",
+              "sep": " "
+            },
+            {
+              "id": "0186",
+              "start": 898.026,
+              "end": 902.626,
+              "text": "Este vocabulario enseña sin tabla: el tren es directo,",
+              "sep": " "
+            },
+            {
+              "id": "0187",
+              "start": 902.626,
+              "end": 907.766,
+              "text": "está en la vía cuatro, está parado y está sin maquinista.",
+              "sep": " "
+            },
+            {
+              "id": "0188",
+              "start": 907.766,
+              "end": 912.926,
+              "text": "Cada frase responde a una pregunta distinta. ¿Qué tipo de tren es?",
+              "sep": " "
+            },
+            {
+              "id": "0189",
+              "start": 913.706,
+              "end": 915.906,
+              "text": "Directo. ¿Dónde está?",
+              "sep": " "
+            },
+            {
+              "id": "0190",
+              "start": 916.586,
+              "end": 919.886,
+              "text": "En la vía cuatro. ¿Cómo está ahora?",
+              "sep": " "
+            },
+            {
+              "id": "0191",
+              "start": 920.666,
+              "end": 922.666,
+              "text": "Parado. ¿Qué le falta?",
+              "sep": " "
+            },
+            {
+              "id": "0192",
+              "start": 923.826,
+              "end": 924.466,
+              "text": "Maquinista.",
+              "sep": " "
+            },
+            {
+              "id": "0193",
+              "start": 925.566,
+              "end": 928.126,
+              "text": "La escena ordena las preguntas antes que las reglas.",
+              "sep": " "
+            },
+            {
+              "id": "0194",
+              "start": 929.166,
+              "end": 935.446,
+              "text": "Y esas preguntas tienen consecuencias: si falta el maquinista, el tren no sale.",
+              "sep": " "
+            },
+            {
+              "id": "0195",
+              "start": 937.006,
+              "end": 940.446,
+              "text": "El estado del tren depende del lugar correcto de una persona.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explicacion-p009",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0196",
+              "start": 941.283,
+              "end": 946.463,
+              "text": "La pantalla ofrece una frase administrativa: «incidencia técnica».",
+              "sep": " "
+            },
+            {
+              "id": "0197",
+              "start": 948.243,
+              "end": 952.463,
+              "text": "Una incidencia es un problema que afecta al funcionamiento de un servicio;",
+              "sep": " "
+            },
+            {
+              "id": "0198",
+              "start": 953.783,
+              "end": 955.424,
+              "text": "«técnica» suena a máquina,",
+              "sep": " "
+            },
+            {
+              "id": "0199",
+              "start": 956.123,
+              "end": 957.043,
+              "text": "señal o sistema.",
+              "sep": " "
+            },
+            {
+              "id": "0200",
+              "start": 958.443,
+              "end": 964.103,
+              "text": "Samuel responde: «La incidencia técnica soy yo, bloqueado en información».",
+              "sep": " "
+            },
+            {
+              "id": "0201",
+              "start": 966.063,
+              "end": 967.524,
+              "text": "Ahí está el giro de la escena.",
+              "sep": " "
+            },
+            {
+              "id": "0202",
+              "start": 969.223,
+              "end": 975.823,
+              "text": "«Soy yo» identifica la causa; «bloqueado en información» describe su estado y su lugar.",
+              "sep": " "
+            },
+            {
+              "id": "0203",
+              "start": 977.323,
+              "end": 981.003,
+              "text": "La frase convierte una etiqueta fría en una persona concreta.",
+              "sep": " "
+            },
+            {
+              "id": "0204",
+              "start": 982.683,
+              "end": 985.523,
+              "text": "También explica por qué el retraso no se resuelve:",
+              "sep": " "
+            },
+            {
+              "id": "0205",
+              "start": 986.783,
+              "end": 991.863,
+              "text": "el sistema informa de un problema mientras mantiene al problema,",
+              "sep": " "
+            },
+            {
+              "id": "0206",
+              "start": 992.563,
+              "end": 995.023,
+              "text": "con uniforme, delante del mostrador.",
+              "sep": " "
+            },
+            {
+              "id": "0207",
+              "start": 996.803,
+              "end": 1000.583,
+              "text": "Esta expresión es clave porque desbloquea el chiste final.",
+              "sep": " "
+            },
+            {
+              "id": "0208",
+              "start": 1001.283,
+              "end": 1006.803,
+              "text": "Sin «incidencia técnica», Samuel sería solo un trabajador retrasado;",
+              "sep": " "
+            },
+            {
+              "id": "0209",
+              "start": 1008.103,
+              "end": 1009.043,
+              "text": "con esa expresión,",
+              "sep": " "
+            },
+            {
+              "id": "0210",
+              "start": 1009.043,
+              "end": 1011.783,
+              "text": "se vuelve la causa oficial del aviso.",
+              "sep": " "
+            },
+            {
+              "id": "0211",
+              "start": 1013.283,
+              "end": 1017.763,
+              "text": "La pantalla intenta resumir; Samuel pone cuerpo al resumen.",
+              "sep": " "
+            },
+            {
+              "id": "0212",
+              "start": 1019.023,
+              "end": 1022.843,
+              "text": "Lo técnico se vuelve humano, y por eso el remate funciona.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explicacion-p010",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0213",
+              "start": 1023.83,
+              "end": 1028.931,
+              "text": "Beatriz entiende: «Entonces el retraso no está en la vía».",
+              "sep": " "
+            },
+            {
+              "id": "0214",
+              "start": 1030.55,
+              "end": 1035.51,
+              "text": "Normalmente imaginamos que un retraso está en una señal, un tren o una vía.",
+              "sep": " "
+            },
+            {
+              "id": "0215",
+              "start": 1036.61,
+              "end": 1038.111,
+              "text": "Aquí está delante de ella.",
+              "sep": " "
+            },
+            {
+              "id": "0216",
+              "start": 1038.99,
+              "end": 1042.93,
+              "text": "Samuel resume: «Está aquí, delante de usted,",
+              "sep": " "
+            },
+            {
+              "id": "0217",
+              "start": 1043.71,
+              "end": 1046.71,
+              "text": "explicando que no es pasajero, que es trabajador».",
+              "sep": " "
+            },
+            {
+              "id": "0218",
+              "start": 1048.57,
+              "end": 1055.23,
+              "text": "«Pasajero» es la persona que viaja; «trabajador» es quien cumple una función.",
+              "sep": " "
+            },
+            {
+              "id": "0219",
+              "start": 1057.01,
+              "end": 1059.49,
+              "text": "La palabra «directo» vuelve con humor:",
+              "sep": " "
+            },
+            {
+              "id": "0220",
+              "start": 1060.99,
+              "end": 1066.07,
+              "text": "el tren es directo solo si alguien lo conduce directamente fuera de la estación.",
+              "sep": " "
+            },
+            {
+              "id": "0221",
+              "start": 1067.55,
+              "end": 1073.47,
+              "text": "La escena usa la misma palabra para el servicio y para la necesidad de actuar sin rodeos.",
+              "sep": " "
+            },
+            {
+              "id": "0222",
+              "start": 1074.75,
+              "end": 1079.931,
+              "text": "Beatriz ya no necesita más datos; necesita cambiar de acción.",
+              "sep": " "
+            },
+            {
+              "id": "0223",
+              "start": 1080.81,
+              "end": 1087.31,
+              "text": "Esa transición es importante: comprender quién es Samuel produce movimiento.",
+              "sep": " "
+            },
+            {
+              "id": "0224",
+              "start": 1088.63,
+              "end": 1092.75,
+              "text": "La identidad correcta desbloquea la ubicación correcta.",
+              "sep": " "
+            },
+            {
+              "id": "0225",
+              "start": 1094.15,
+              "end": 1099.55,
+              "text": "El diálogo deja de ser atención al público y se convierte en permiso para avanzar.",
+              "sep": " "
+            },
+            {
+              "id": "0226",
+              "start": 1100.59,
+              "end": 1104.71,
+              "text": "Por eso el momento no es solo gramatical: es operativo.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explicacion-p011",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0227",
+              "start": 1105.137,
+              "end": 1109.757,
+              "text": "Beatriz por fin abre el paso: «Pase por esa puerta».",
+              "sep": " "
+            },
+            {
+              "id": "0228",
+              "start": 1111.137,
+              "end": 1115.338,
+              "text": "El «andén» está libre por la izquierda, y la cabina está al fondo.",
+              "sep": " "
+            },
+            {
+              "id": "0229",
+              "start": 1116.697,
+              "end": 1121.977,
+              "text": "Son ubicaciones prácticas: por dónde pasar, hacia dónde ir, dónde trabajar.",
+              "sep": " "
+            },
+            {
+              "id": "0230",
+              "start": 1123.577,
+              "end": 1128.497,
+              "text": "«Libre» aquí es una palabra de movimiento: ya no hay bloqueo en ese lado.",
+              "sep": " "
+            },
+            {
+              "id": "0231",
+              "start": 1129.957,
+              "end": 1135.177,
+              "text": "Luego añade que su orgullo profesional está «momentáneamente en revisión».",
+              "sep": " "
+            },
+            {
+              "id": "0232",
+              "start": 1136.917,
+              "end": 1138.597,
+              "text": "No dice que sea mala empleada.",
+              "sep": " "
+            },
+            {
+              "id": "0233",
+              "start": 1140.157,
+              "end": 1146.517,
+              "text": "Habla de un estado temporal: por unos segundos, su seguridad profesional queda tocada.",
+              "sep": " "
+            },
+            {
+              "id": "0234",
+              "start": 1147.777,
+              "end": 1151.257,
+              "text": "La palabra «revisión» también encaja con una estación:",
+              "sep": " "
+            },
+            {
+              "id": "0235",
+              "start": 1152.837,
+              "end": 1156.477,
+              "text": "sistemas, horarios y decisiones se revisan.",
+              "sep": " "
+            },
+            {
+              "id": "0236",
+              "start": 1158.197,
+              "end": 1162.017,
+              "text": "Beatriz corrige el error sin perder su tono de atención al público.",
+              "sep": " "
+            },
+            {
+              "id": "0237",
+              "start": 1162.977,
+              "end": 1165.017,
+              "text": "Eso mantiene la comedia amable.",
+              "sep": " "
+            },
+            {
+              "id": "0238",
+              "start": 1166.217,
+              "end": 1167.977,
+              "text": "La escena no castiga a Beatriz;",
+              "sep": " "
+            },
+            {
+              "id": "0239",
+              "start": 1169.157,
+              "end": 1173.357,
+              "text": "la deja corregir el sistema que ella misma había cerrado.",
+              "sep": " "
+            },
+            {
+              "id": "0240",
+              "start": 1175.097,
+              "end": 1179.157,
+              "text": "Ese cierre conserva la cortesía y devuelve la acción al tren.",
+              "sep": " "
+            },
+            {
+              "id": "0241",
+              "start": 1180.277,
+              "end": 1184.697,
+              "text": "La vía queda libre porque la conversación cambia de categoría.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explicacion-p012",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0242",
+              "start": 1185.041,
+              "end": 1188.861,
+              "text": "El último turno de Samuel mantiene el humor seco:",
+              "sep": " "
+            },
+            {
+              "id": "0243",
+              "start": 1190.201,
+              "end": 1192.541,
+              "text": "la incidencia técnica estaba bien peinada,",
+              "sep": " "
+            },
+            {
+              "id": "0244",
+              "start": 1193.601,
+              "end": 1196.361,
+              "text": "llevaba chaleco y estaba atrapada en información.",
+              "sep": " "
+            },
+            {
+              "id": "0245",
+              "start": 1198.041,
+              "end": 1200.881,
+              "text": "Un «chaleco» es una prenda sin mangas,",
+              "sep": " "
+            },
+            {
+              "id": "0246",
+              "start": 1202.061,
+              "end": 1205.341,
+              "text": "útil en muchos uniformes porque hace visible a la persona.",
+              "sep": " "
+            },
+            {
+              "id": "0247",
+              "start": 1206.961,
+              "end": 1209.561,
+              "text": "La imagen final muestra lo absurdo:",
+              "sep": " "
+            },
+            {
+              "id": "0248",
+              "start": 1210.321,
+              "end": 1215.801,
+              "text": "el sistema buscaba una causa técnica, pero la causa tenía cara,",
+              "sep": " "
+            },
+            {
+              "id": "0249",
+              "start": 1217.001,
+              "end": 1218.821,
+              "text": "ropa de trabajo y paciencia.",
+              "sep": " "
+            },
+            {
+              "id": "0250",
+              "start": 1220.581,
+              "end": 1223.501,
+              "text": "«Ferroviaria» se relaciona con el mundo del tren,",
+              "sep": " "
+            },
+            {
+              "id": "0251",
+              "start": 1224.481,
+              "end": 1227.621,
+              "text": "así que la paciencia casi ferroviaria es una",
+              "sep": " "
+            },
+            {
+              "id": "0252",
+              "start": 1227.621,
+              "end": 1232.262,
+              "text": "paciencia hecha para retrasos, vías y avisos de pantalla.",
+              "sep": " "
+            },
+            {
+              "id": "0253",
+              "start": 1233.601,
+              "end": 1238.381,
+              "text": "Para estudiar la escena, siga preguntas concretas. ¿Quién es Samuel?",
+              "sep": " "
+            },
+            {
+              "id": "0254",
+              "start": 1239.101,
+              "end": 1241.481,
+              "text": "Es maquinista. ¿Dónde está?",
+              "sep": " "
+            },
+            {
+              "id": "0255",
+              "start": 1242.361,
+              "end": 1245.262,
+              "text": "Está en información. ¿Cómo está el tren?",
+              "sep": " "
+            },
+            {
+              "id": "0256",
+              "start": 1245.841,
+              "end": 1247.941,
+              "text": "Está parado. ¿Qué falta?",
+              "sep": " "
+            },
+            {
+              "id": "0257",
+              "start": 1249.101,
+              "end": 1250.521,
+              "text": "Falta alguien en la cabina.",
+              "sep": " "
+            },
+            {
+              "id": "0258",
+              "start": 1251.801,
+              "end": 1258.341,
+              "text": "Si responde esas preguntas, entiende el giro final sin necesitar una lista larga de usos.",
+              "sep": " "
+            },
+            {
+              "id": "0259",
+              "start": 1259.501,
+              "end": 1264.962,
+              "text": "Así el contraste no es una lista: es una forma de desbloquear el tren.",
+              "sep": " "
+            },
+            {
+              "id": "0260",
+              "start": 1266.261,
+              "end": 1271.601,
+              "text": "Ahora escuchemos el diálogo, esta vez a velocidad natural.",
+              "sep": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04-dialogo-natural",
+      "label": "Diálogo - velocidad natural",
+      "isDialogue": true,
+      "paragraphs": [
+        {
+          "id": "04-dialogo-natural-p001",
+          "speaker": "Beatriz",
+          "cues": [
+            {
+              "id": "0261",
+              "start": 1279.26,
+              "end": 1280.6,
+              "text": "Usted es Samuel, ¿verdad?",
+              "sep": " "
+            },
+            {
+              "id": "0262",
+              "start": 1281.16,
+              "end": 1285.391,
+              "text": "El tren a Granada es directo, pero ahora está parado en la vía cuatro.",
+              "sep": " "
+            },
+            {
+              "id": "0263",
+              "start": 1286.26,
+              "end": 1293.12,
+              "text": "No está cancelado; solo se está poniendo dramático, como casi todos los trenes cuando la pantalla usa letras rojas.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p002",
+          "speaker": "Samuel",
+          "cues": [
+            {
+              "id": "0264",
+              "start": 1294.38,
+              "end": 1295.34,
+              "text": "Soy Samuel, sí.",
+              "sep": " "
+            },
+            {
+              "id": "0265",
+              "start": 1295.8,
+              "end": 1296.72,
+              "text": "Estoy aquí por ese tren.",
+              "sep": " "
+            },
+            {
+              "id": "0266",
+              "start": 1297.12,
+              "end": 1302.62,
+              "text": "Me avisaron hace veinte minutos y vengo desde el depósito, no desde la cafetería ni desde la cola de viajeros.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p003",
+          "speaker": "Beatriz",
+          "cues": [
+            {
+              "id": "0267",
+              "start": 1303.22,
+              "end": 1305.48,
+              "text": "Entonces está en el lugar correcto.",
+              "sep": " "
+            },
+            {
+              "id": "0268",
+              "start": 1306.32,
+              "end": 1310.81,
+              "text": "Su billete es para las nueve y diez, pero ya son las nueve y veinte.",
+              "sep": " "
+            },
+            {
+              "id": "0269",
+              "start": 1311.48,
+              "end": 1312.74,
+              "text": "La paciencia es obligatoria,",
+              "sep": " "
+            },
+            {
+              "id": "0270",
+              "start": 1313.8,
+              "end": 1318.5,
+              "text": "el café está lejos y el banco libre está ocupado por una maleta con mucha personalidad.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p004",
+          "speaker": "Samuel",
+          "cues": [
+            {
+              "id": "0271",
+              "start": 1319.7,
+              "end": 1320.3,
+              "text": "No tengo billete.",
+              "sep": " "
+            },
+            {
+              "id": "0272",
+              "start": 1321.08,
+              "end": 1321.76,
+              "text": "Estoy de servicio.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p005",
+          "speaker": "Beatriz",
+          "cues": [
+            {
+              "id": "0273",
+              "start": 1322.44,
+              "end": 1323.96,
+              "text": "Ah, empleado público.",
+              "sep": " "
+            },
+            {
+              "id": "0274",
+              "start": 1324.4,
+              "end": 1329.22,
+              "text": "A veces los descuentos están mal cargados y el sistema es muy creativo con las categorías.",
+              "sep": " "
+            },
+            {
+              "id": "0275",
+              "start": 1330.3,
+              "end": 1333.26,
+              "text": "¿Su asiento está en turista o en preferente?",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p006",
+          "speaker": "Samuel",
+          "cues": [
+            {
+              "id": "0276",
+              "start": 1333.26,
+              "end": 1336.06,
+              "text": "Mi asiento está en la cabina, si todo va bien.",
+              "sep": " "
+            },
+            {
+              "id": "0277",
+              "start": 1336.24,
+              "end": 1340.4,
+              "text": "Y ahora mismo nada va especialmente bien, porque sigo delante del mostrador.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p007",
+          "speaker": "Beatriz",
+          "cues": [
+            {
+              "id": "0278",
+              "start": 1341.08,
+              "end": 1342.8,
+              "text": "La cabina no es para pasajeros, señor.",
+              "sep": " "
+            },
+            {
+              "id": "0279",
+              "start": 1343.42,
+              "end": 1344.82,
+              "text": "Aunque entiendo que esté cansado.",
+              "sep": " "
+            },
+            {
+              "id": "0280",
+              "start": 1346.18,
+              "end": 1348.72,
+              "text": "La estación está llena y el andén está imposible.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p008",
+          "speaker": "Samuel",
+          "cues": [
+            {
+              "id": "0281",
+              "start": 1349.54,
+              "end": 1351.46,
+              "text": "No quiero viajar en la cabina por capricho.",
+              "sep": " "
+            },
+            {
+              "id": "0282",
+              "start": 1351.94,
+              "end": 1353.0,
+              "text": "Soy maquinista suplente.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p009",
+          "speaker": "Beatriz",
+          "cues": [
+            {
+              "id": "0283",
+              "start": 1353.76,
+              "end": 1354.26,
+              "text": "¿Maquinista?",
+              "sep": " "
+            },
+            {
+              "id": "0284",
+              "start": 1354.88,
+              "end": 1357.12,
+              "text": "Pero el maquinista ya está asignado.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p010",
+          "speaker": "Samuel",
+          "cues": [
+            {
+              "id": "0285",
+              "start": 1358.04,
+              "end": 1358.68,
+              "text": "Estaba asignado.",
+              "sep": " "
+            },
+            {
+              "id": "0286",
+              "start": 1359.16,
+              "end": 1360.0,
+              "text": "Ahora está enfermo.",
+              "sep": " "
+            },
+            {
+              "id": "0287",
+              "start": 1360.0,
+              "end": 1362.22,
+              "text": "Por eso yo estoy aquí, con uniforme,",
+              "sep": " "
+            },
+            {
+              "id": "0288",
+              "start": 1362.64,
+              "end": 1367.18,
+              "text": "credencial y cara de persona que necesita pasar antes de que el tren sea una noticia local.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p011",
+          "speaker": "Beatriz",
+          "cues": [
+            {
+              "id": "0289",
+              "start": 1367.82,
+              "end": 1370.66,
+              "text": "Creí que la credencial era una funda elegante para el billete.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p012",
+          "speaker": "Samuel",
+          "cues": [
+            {
+              "id": "0290",
+              "start": 1371.42,
+              "end": 1372.42,
+              "text": "Es una identificación.",
+              "sep": " "
+            },
+            {
+              "id": "0291",
+              "start": 1373.02,
+              "end": 1375.72,
+              "text": "Y el tren está parado porque falta alguien en la cabina.",
+              "sep": " "
+            },
+            {
+              "id": "0292",
+              "start": 1376.3,
+              "end": 1380.9,
+              "text": "El tren no está cansado, no está triste y no está pensando; está sin maquinista.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p013",
+          "speaker": "Beatriz",
+          "cues": [
+            {
+              "id": "0293",
+              "start": 1381.68,
+              "end": 1385.18,
+              "text": "Según la pantalla, el tren está parado por incidencia técnica.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p014",
+          "speaker": "Samuel",
+          "cues": [
+            {
+              "id": "0294",
+              "start": 1385.86,
+              "end": 1388.72,
+              "text": "La incidencia técnica soy yo, bloqueado en información.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p015",
+          "speaker": "Beatriz",
+          "cues": [
+            {
+              "id": "0295",
+              "start": 1389.42,
+              "end": 1391.56,
+              "text": "Entonces el retraso no está en la vía.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p016",
+          "speaker": "Samuel",
+          "cues": [
+            {
+              "id": "0296",
+              "start": 1392.44,
+              "end": 1395.78,
+              "text": "Está aquí, delante de usted, explicando que no es pasajero,",
+              "sep": " "
+            },
+            {
+              "id": "0297",
+              "start": 1396.04,
+              "end": 1401.2,
+              "text": "que es trabajador y que el tren es directo solo si alguien lo conduce directamente fuera de la estación.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p017",
+          "speaker": "Beatriz",
+          "cues": [
+            {
+              "id": "0298",
+              "start": 1401.96,
+              "end": 1402.32,
+              "text": "Muy bien.",
+              "sep": " "
+            },
+            {
+              "id": "0299",
+              "start": 1403.66,
+              "end": 1404.44,
+              "text": "Pase por esa puerta.",
+              "sep": " "
+            },
+            {
+              "id": "0300",
+              "start": 1405.52,
+              "end": 1407.46,
+              "text": "El andén está libre por la izquierda,",
+              "sep": " "
+            },
+            {
+              "id": "0301",
+              "start": 1407.76,
+              "end": 1412.34,
+              "text": "la cabina está al fondo y mi orgullo profesional está momentáneamente en revisión.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogo-natural-p018",
+          "speaker": "Samuel",
+          "cues": [
+            {
+              "id": "0302",
+              "start": 1413.18,
+              "end": 1413.48,
+              "text": "Gracias.",
+              "sep": " "
+            },
+            {
+              "id": "0303",
+              "start": 1414.06,
+              "end": 1417.7,
+              "text": "Si el tren sale pronto, diremos que la incidencia técnica estaba bien peinada,",
+              "sep": " "
+            },
+            {
+              "id": "0304",
+              "start": 1417.7,
+              "end": 1422.18,
+              "text": "llevaba chaleco y estaba atrapada en información con una paciencia casi ferroviaria.",
+              "sep": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "05-conclusion",
+      "label": "Conclusión",
+      "isDialogue": false,
+      "paragraphs": [
+        {
+          "id": "05-conclusion-p001",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0305",
+              "start": 1429.247,
+              "end": 1435.147,
+              "text": "Hoy una estación nos ha mostrado que una persona puede ser maquinista y, al mismo tiempo,",
+              "sep": " "
+            },
+            {
+              "id": "0306",
+              "start": 1435.827,
+              "end": 1437.727,
+              "text": "estar bloqueada delante de un mostrador.",
+              "sep": " "
+            },
+            {
+              "id": "0307",
+              "start": 1439.287,
+              "end": 1445.887,
+              "text": "El tren es directo, pero está parado; Samuel es trabajador, pero Beatriz lo atiende como pasajero.",
+              "sep": " "
+            },
+            {
+              "id": "0308",
+              "start": 1447.367,
+              "end": 1449.867,
+              "text": "En la próxima escucha, sigan tres preguntas:",
+              "sep": " "
+            },
+            {
+              "id": "0309",
+              "start": 1451.187,
+              "end": 1455.488,
+              "text": "quién es cada persona, dónde está y qué estado bloquea la escena.",
+              "sep": " "
+            },
+            {
+              "id": "0310",
+              "start": 1456.267,
+              "end": 1461.347,
+              "text": "Hasta la próxima, y que su español sea directo sin quedarse parado en la vía cuatro.",
+              "sep": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -15,7 +15,7 @@
   },
   "espanol": {
     "repo": "skepvox-podcast-espanol",
-    "episodes": [1, 2],
+    "episodes": [1, 2, 3],
     "show_title": "Vox Español",
     "language_tag": "es-ES",
     "website_subdir": "espanol",

@@ -32,7 +32,7 @@ Para acompañar la escucha: https://www.skepvox.com/podcast/espanol/]]></itunes:
       <title>Vox Español</title>
       <link>https://www.skepvox.com/podcast/espanol/</link>
     </image>
-    <lastBuildDate>Mon, 22 Jun 2026 07:44:00 -0300</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 16:39:14 -0300</lastBuildDate>
     <pubDate>Sun, 07 Jun 2026 09:00:00 -0300</pubDate>
 
 
@@ -90,6 +90,45 @@ En la página del episodio guardo la transcripción completa, el vocabulario y l
       <enclosure url="https://media.skepvox.com/podcast/espanol/audio/espanol-002-la-sarten-esta-ocupada-v4.mp3" length="32793330" type="audio/mpeg" />
       <itunes:duration>00:22:46</itunes:duration>
       <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://media.skepvox.com/podcast/espanol/artwork/show-cover-v3.jpg" />
+    </item>
+
+    <item>
+      <title>003 - El tren está parado</title>
+      <link>https://skepvox.com/podcast/espanol/003-el-tren-esta-parado</link>
+      <guid isPermaLink="false">vox-espanol-003</guid>
+      <pubDate>Sun, 21 Jun 2026 09:00:00 -0300</pubDate>
+      <description><![CDATA[Guía completa y transcripción:
+https://skepvox.com/podcast/espanol/003-el-tren-esta-parado#transcripcion-completa
+
+En este episodio de Vox Español, trabajamos el contraste entre ser y estar en una estación de tren, con identidad, ubicación, función profesional y estados temporales.
+
+El episodio se llama "El tren está parado". Un tren a Granada, una pantalla de retrasos y un mostrador de información crean una conversación en la que cada detalle depende de entender quién es quién, dónde está cada cosa y qué está pasando en ese momento.
+
+Esta lección le ayuda a usar ser y estar para hablar de identidad, lugar, hora, estado temporal, función de servicio y expresiones como estar parado, estar libre y estar de servicio.
+
+La guía de lección explica también el vocabulario importante del episodio: estación, tren, vía, andén, mostrador, billete, retraso, incidencia técnica, directo, parado, libre y otras palabras útiles.
+
+En la página del episodio encontrará la guía de aprendizaje, la nota cultural, el diálogo lento, el diálogo a velocidad natural y la transcripción completa.]]></description>
+      <content:encoded><![CDATA[<p>Guía completa y transcripción:<br />
+<a href="https://skepvox.com/podcast/espanol/003-el-tren-esta-parado#transcripcion-completa">https://skepvox.com/podcast/espanol/003-el-tren-esta-parado#transcripcion-completa</a></p>
+
+<p>En este episodio de Vox Español, trabajamos el contraste entre ser y estar en una estación de tren, con identidad, ubicación, función profesional y estados temporales.</p>
+
+<p>El episodio se llama "El tren está parado". Un tren a Granada, una pantalla de retrasos y un mostrador de información crean una conversación en la que cada detalle depende de entender quién es quién, dónde está cada cosa y qué está pasando en ese momento.</p>
+
+<p>Esta lección le ayuda a usar ser y estar para hablar de identidad, lugar, hora, estado temporal, función de servicio y expresiones como estar parado, estar libre y estar de servicio.</p>
+
+<p>La guía de lección explica también el vocabulario importante del episodio: estación, tren, vía, andén, mostrador, billete, retraso, incidencia técnica, directo, parado, libre y otras palabras útiles.</p>
+
+<p>En la página del episodio encontrará la guía de aprendizaje, la nota cultural, el diálogo lento, el diálogo a velocidad natural y la transcripción completa.</p>]]></content:encoded>
+      <enclosure url="https://media.skepvox.com/podcast/espanol/audio/espanol-003-el-tren-esta-parado-v5.mp3" length="35243407" type="audio/mpeg" />
+      <podcast:transcript url="https://media.skepvox.com/podcast/espanol/transcripts/espanol-003-el-tren-esta-parado-v5.vtt" type="text/vtt" language="es" rel="captions" />
+      <itunes:duration>00:24:28</itunes:duration>
+      <itunes:episode>3</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
