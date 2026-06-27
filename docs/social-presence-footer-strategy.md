@@ -5,9 +5,12 @@
 > slice. Do not add links or icons from this document through `@vue/theme` socialLinks unless the
 > icon, label, and accessible name are correct.
 >
-> **Roadmap placement:** implement this after the `/pt/literatura/` Brás Cubas pipeline rebuild and
-> the consolidation / simplification / test-protocol pass. The first implementation pieces should be
-> owned social-link data, an owned `SocialIcon` seam, `SocialLinks`, and then the owned footer.
+> **Roadmap placement:** implement this after the `/pt/literatura/` Brás Cubas pipeline rebuild, the
+> consolidation / simplification / test-protocol pass, and the **brand asset system** pass. The brand
+> pass should settle favicon/search preview/Apple touch/manifest/OG/JSON-LD logo assets first, so the
+> social/footer icon layer does not invent a second visual language. The first footer implementation
+> pieces should then be owned social-link data, an owned `SocialIcon` seam, `SocialLinks`, and finally
+> the owned footer.
 
 ## 1. Product Fit
 
@@ -174,6 +177,11 @@ icons in the global footer.
 
 The future footer must use an owned social-link component, not the rented `@vue/theme` `socialLinks`
 surface, unless the rented surface can provide correct icons and accessible labels.
+
+This footer/icon work depends on the prior **brand asset system** slice. That slice owns the skepvox
+mark used by Google Search favicon, mobile browser suggestion previews, Apple touch icons, manifest
+icons, Open Graph/Twitter cards, and Organization JSON-LD logo. Footer social glyphs should align with
+that settled mark and token vocabulary, not the other way around.
 
 Requirements:
 

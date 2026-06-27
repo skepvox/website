@@ -430,20 +430,44 @@ This section is the working tasknote for the current roadmap execution. It recor
 - Intentionally untouched and still open: favicon, Apple touch icon, mask/pinned-tab icon if present, OG/social preview, media-session artwork, and any other direct logo asset usage.
 - This is not a redraw. The jagunço/rider remains the identity. No monogram, no "just horse," no gold identity color.
 
-### First task next session — start here
+### Brand Asset System — scheduled after the Brás Cubas + consolidation phase
 
-1. Real-device QA the pushed navbar mark in light/dark and mobile/desktop:
-   - confirm the ink-blue/ivory mark feels right beside the wordmark;
-   - confirm the mark does not feel too heavy or too faint at nav size;
-   - confirm the theme toggle / nav-open state did not introduce a color or repaint regression.
-2. Then run the **focused logo asset follow-up** before the broader shell work:
-   - inventory every remaining asset surface: favicon, Apple touch icon, mask/pinned-tab icon, OG/social image, media-session artwork, and direct `/logo.svg` usages;
-   - decide which surfaces should use the bare ink/ivory silhouette and which should use the ink-blue disc lockup;
-   - keep the existing jagunço+rider, with no redraw in this slice;
-   - do not use gold for identity assets; gold remains reserved for the live podcast cue;
-   - preserve SEO/social metadata and avoid disturbing navbar behavior.
-3. Only after that focused brand-asset pass, start the deeper **navigation and shell ownership assessment**.
+This follow-up is now part of the active Phase-B roadmap (see
+`docs/locale-rooted-website-ia-assessment.md`): after the `/pt/literatura/` Brás Cubas pilot and the
+consolidation / simplification / test-protocol pass, run a focused **Brand Asset System** slice before
+owned social/footer/icon work.
+
+Trigger: Google/mobile search surfaces can currently show different skepvox marks because favicon,
+Apple touch icon, manifest icons, Open Graph/social preview images, JSON-LD logo, and direct
+`/logo.svg` usages are not yet one governed asset matrix.
+
+Scope:
+
+- inventory every remaining asset surface: root `favicon.ico`, modern SVG/PNG favicon variants, Apple
+  touch icon, mask/pinned-tab icon if present, web-manifest icons, Open Graph/Twitter preview image,
+  media-session artwork if used, Organization JSON-LD logo, and direct `/logo.svg` usages;
+- create a small canonical asset matrix: a simplified high-contrast jagunço/rider mark for tiny/search
+  contexts and a separate social-preview card for rich previews;
+- keep the existing jagunço+rider identity, with no monogram and no "just horse" redraw;
+- do not use gold for identity assets; gold remains reserved for the live podcast cue;
+- preserve SEO/social metadata and avoid disturbing navbar behavior;
+- add build/test guards that every declared icon/logo path exists, is crawlable/static, and points to
+  the intended canonical asset family.
+
+External constraints to re-check during implementation:
+
+- Google Search favicon guidance: square, crawlable, stable icon, with a multiple-of-48px source
+  recommended for Search.
+- Google Organization logo guidance: crawlable logo at least 112px square and suitable on white
+  backgrounds.
+
+Only after this focused brand-asset pass should the owned `SocialIcon` / `SocialLinks` / footer work
+begin; otherwise footer icons risk creating a second unmanaged visual language.
 
 ### Roadmap continuity
 
-The next broad strategic move should not be another generic product report. After the logo asset follow-up, the useful assessment is specifically **navigation and shell ownership**: how to move from rented `@vue/theme` chrome toward a skepvox-owned web-app shell while preserving search, SEO, generated content, reading surfaces, podcast transcript behavior, and the calm iOS-level visual standard.
+The next broad strategic move should not be another generic product report. After the Brás Cubas pilot,
+the consolidation/test-protocol pass, the brand-asset pass, and the owned social/footer/icon layer, the
+useful assessment is specifically **navigation and shell ownership**: how to move from rented
+`@vue/theme` chrome toward a skepvox-owned web-app shell while preserving search, SEO, generated content,
+reading surfaces, podcast transcript behavior, and the calm iOS-level visual standard.

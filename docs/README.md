@@ -37,4 +37,5 @@ Pre-existing site docs, left untouched by this consolidation: `books-workflow.md
 
 - [social-presence-footer-strategy.md](social-presence-footer-strategy.md) — social/distribution
   presence and the future owned-footer link set (YouTube, Instagram, WhatsApp, podcast links,
-  newsletter/RSS), deferred until after the Brás Cubas pilot and the consolidation/test-protocol pass.
+  newsletter/RSS), deferred until after the Brás Cubas pilot, the consolidation/test-protocol pass, and
+  the Brand Asset System pass that unifies favicon/search preview/Apple touch/manifest/OG/logo assets.

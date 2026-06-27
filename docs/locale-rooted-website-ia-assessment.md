@@ -44,8 +44,9 @@ Concretely:
    closing with the A6 homepage/global-pillar frame. Phase B starts with the **first literatura book**
    — _Memórias Póstumas de Brás Cubas_ — rebuilt from the book-pipeline, not moved from legacy pages.
    Then comes a consolidation / simplification / test-protocol pass before multiplying the model. The
-   owned social/footer/icon layer follows that consolidation. Podcast IA stays later and should not
-   assume `/pt/podcast/` as the canonical answer.
+   **brand asset system** follows that consolidation (favicon/search preview/Apple touch/manifest/OG
+   image/JSON-LD logo), then the owned social/footer/icon layer builds on those assets. Podcast IA stays
+   later and should not assume `/pt/podcast/` as the canonical answer.
    Phase C = the full multilingual programme (`/fr…/ru` roots, locale negotiation, switcher, hreflang,
    localized chrome). See §10.
 5. **Clean break for web routes.** Old book/literature URLs 404; the existing redirects are disabled,
@@ -224,7 +225,7 @@ chapter subdir) whose leaves are produced by per-book builders (`build-machado-d
   section/author hubs remain live at `/literatura/…`; the legacy nav entry stays alongside a new
   `Literatura → /pt/literatura/` entry (§6.4). The legacy builders (`build-literatura-manifests.py`,
   `build-machado-*`, `build-graciliano-*`) keep running for the legacy pages and are **deleted** (not
-  merely disabled) in slice **B4**, when the legacy `/literatura/` section is removed after each
+  merely disabled) in slice **B5**, when the legacy `/literatura/` section is removed after each
   author's corpus is rebuilt. A test asserts `/pt/literatura/` lists only pipeline-backed books.
 
 ### 6.3 Podcast — keep current monolingual surfaces; reassess canonical roots later
@@ -527,7 +528,7 @@ The detailed comparison (locale-rooted vs language-mixed) is in `filosofia-ia-pi
   any `generated: pipeline-segment-routes` page into `pipelineSegmentRoutes` (mirroring `bufferRoutes`),
   and the sitemap drops those — replacing the temporary `pt/filosofia` depth rule and covering any future
   locale/section with no path rule (the legacy `literatura`/`louis-lavelle` chapter depth rules stay until
-  B4/A5). A global nav `Filosofia → /pt/filosofia/` entry was added (independent `activeMatch`; legacy
+  B5/A5 respectively). A global nav `Filosofia → /pt/filosofia/` entry was added (independent `activeMatch`; legacy
   Lavelle nav stays until A5). **Deliberately NO rented config sidebar** for `/pt/filosofia/`: the nav +
   CardGrid hierarchy give complete discovery without hard-coding the migrated book's pipeline route into a
   sidebar (a scoped key can be added if the section grows).
@@ -577,7 +578,9 @@ The detailed comparison (locale-rooted vs language-mixed) is in `filosofia-ia-pi
   _Agreed sequence after A6 (Phase B):_ (1) a **`/pt/literatura/` pilot** with _Memórias Póstumas de Brás
   Cubas_ rebuilt from book-pipeline — a pipeline rebuild, **not** a mechanical move of the legacy
   `/literatura/` pages; (2) **consolidation / simplification / test-protocol** before multiplying more
-  books; (3) the **podcast IA reassessment stays later** (podcast routes/feeds untouched until then).
+  books; (3) a **brand asset system** pass so search/favicon/mobile/social-preview surfaces speak one
+  visual language; (4) owned social/footer/icon components; (5) the **podcast IA reassessment stays
+  later** (podcast routes/feeds untouched until then).
 
 **Phase B — Extend the proven scheme (reuses A1's projection, no new scheme risk).**
 
@@ -593,14 +596,21 @@ The detailed comparison (locale-rooted vs language-mixed) is in `filosofia-ia-pi
   accumulated helpers, docs, generated artifacts, and growing Playwright surface; consolidate where
   possible; define which invariants must be broad regression tests vs focused per-slice tests. This is
   the guardrail pass before multiplying books.
-- **B3 — Owned social/footer/icon layer:** implement the deferred social-presence strategy after the
-  consolidation pass: owned social-link data, an owned `SocialIcon` seam for missing platform glyphs
+- **B3 — Brand asset system (search/favicon/social preview foundation):** after consolidation, inventory
+  and unify every brand asset surface before adding more icons: root favicon, SVG/PNG favicon variants,
+  Apple touch icon, web-manifest icons, mask/pinned-tab if present, Open Graph/Twitter preview image,
+  media/session artwork if used, Organization JSON-LD logo, and direct `/logo.svg` usages. Use one
+  simplified high-contrast jagunço/rider mark for tiny/search contexts and a distinct social-preview
+  card for rich previews. Goal: Google Search favicon, mobile browser suggestions, share previews, and
+  the navbar all resolve to one coherent identity, without broad route/content changes.
+- **B4 — Owned social/footer/icon layer:** implement the deferred social-presence strategy after the
+  brand asset system: owned social-link data, an owned `SocialIcon` seam for missing platform glyphs
   (Instagram, YouTube, Spotify, Apple Podcasts, RSS, etc.), a `SocialLinks` component, and then a quiet
   owned footer. This replaces the constrained `@vue/theme` `socialLinks` path instead of adding wrong
   glyph workarounds.
-- **B4 — Remaining literatura books** (_Vidas Secas_, then the novels) + remove legacy `/literatura/`
+- **B5 — Remaining literatura books** (_Vidas Secas_, then the novels) + remove legacy `/literatura/`
   once each author's corpus is rebuilt.
-- **B5 — Podcast IA reassessment (later):** keep current `/podcast/…` routes unless the reassessment
+- **B6 — Podcast IA reassessment (later):** keep current `/podcast/…` routes unless the reassessment
   deliberately chooses a new canonical podcast shape. Compare three options: (1) keep `/podcast/…` as
   a language-neutral podcast namespace; (2) add `/pt/podcast/` as a Portuguese directory/landing page
   only; (3) move canonical show/episode surfaces to target-language roots such as `/fr/podcast/`,
