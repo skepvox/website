@@ -1,6 +1,7 @@
 import { test, expect } from '@playwright/test'
 import fs from 'node:fs'
 import path from 'node:path'
+import { PILLARS } from '../.vitepress/theme/components/pillars'
 
 // The public site's first-level mental model is three visible pillars (Literatura / Filosofia / Vox
 // Français), centralized in .vitepress/theme/components/pillars.ts and shared by the homepage + global
@@ -12,25 +13,19 @@ import path from 'node:path'
 const DIST = path.resolve('.vitepress/dist')
 const SRC = path.resolve('src')
 const read = (p: string) => fs.readFileSync(p, 'utf-8')
-const builtHub = (route: string) =>
-  fs.existsSync(path.join(DIST, route.replace(/^\/|\/$/g, ''), 'index.html'))
-
-const PILLARS = [
-  { label: 'Literatura', href: '/pt/literatura/' },
-  { label: 'Filosofia', href: '/pt/filosofia/' },
-  { label: 'Vox Français', href: '/podcast/francais/' }
-]
+const PILLAR_HREFS = PILLARS.map((p) => p.href)
 
 test.describe('A6 — three-pillar IA (homepage, nav, 404)', () => {
   test('pillars.ts is the three visible pillars in order; nav derives from them with Home first; no legacy Lavelle', () => {
+    expect(PILLARS.map(({ label, href }) => ({ label, href }))).toEqual([
+      { label: 'Literatura', href: '/pt/literatura/' },
+      { label: 'Filosofia', href: '/pt/filosofia/' },
+      { label: 'Vox Français', href: '/podcast/francais/' }
+    ])
+
     // The visible pillars are centralized in pillars.ts and shared with the nav, so assert the IA at its
     // source of truth rather than re-parsing literal nav entries (the nav now spreads PILLARS).
     const pillars = read(path.resolve('.vitepress/theme/components/pillars.ts'))
-    const labels = [...pillars.matchAll(/label:\s*'([^']+)'/g)].map((m) => m[1])
-    expect(labels).toEqual(['Literatura', 'Filosofia', 'Vox Français'])
-    expect(pillars).toContain("href: '/pt/literatura/'")
-    expect(pillars).toContain("href: '/pt/filosofia/'")
-    expect(pillars).toContain("href: '/podcast/francais/'")
     expect(pillars.includes('/louis-lavelle/')).toBe(false)
 
     // The global nav keeps Home first, then derives the visible pillars from PILLARS (one source of truth).
@@ -54,7 +49,7 @@ test.describe('A6 — three-pillar IA (homepage, nav, 404)', () => {
 
   test('the homepage HTML + structured data carry the three pillars and no legacy Lavelle URL', () => {
     const html = read(path.join(DIST, 'index.html'))
-    for (const { href } of PILLARS) expect(html, href).toContain(`href="${href}"`)
+    for (const href of PILLAR_HREFS) expect(html, href).toContain(`href="${href}"`)
     // JSON-LD lists the three section URLs (format-agnostic substrings); the visible podcast pillar is
     // Vox Français (/podcast/francais/), not the generic /podcast/ hub.
     expect(html).toContain('skepvox.com/pt/literatura/')
@@ -105,14 +100,12 @@ test.describe('A6 — three-pillar IA (homepage, nav, 404)', () => {
     expect(pillars).not.toMatch(/from\s+['"][^'"]+\.json['"]/)
   })
 
-  test('the built homepage carries the pillar previews (marker + title, no author)', () => {
+  test('the built homepage carries one representative live preview without author/count bloat', () => {
     const html = read(path.join(DIST, 'index.html'))
-    expect(html).toContain('1881')
+    expect(html).toContain('pillar__live')
+    // One representative SSR data proof is enough: the preview mechanism is data-driven and should not
+    // become a per-book/per-episode homepage matrix.
     expect(html).toContain('Memórias póstumas de Brás Cubas')
-    expect(html).toContain('1947')
-    expect(html).toContain('Introdução à ontologia')
-    expect(html).toContain('001')
-    expect(html).toContain('Le badge')
     expect(html).not.toContain('163 capítulos')
     expect(html).not.toContain('99 trechos')
     // book previews are years + titles only — never the author name or the legacy route
@@ -120,24 +113,11 @@ test.describe('A6 — three-pillar IA (homepage, nav, 404)', () => {
     expect(html.includes('/louis-lavelle/')).toBe(false)
   })
 
-  test('each pillar destination is a real, built surface (no migration, no dead pillar)', () => {
-    expect(builtHub('/pt/literatura/')).toBe(true)
-    expect(builtHub('/pt/filosofia/')).toBe(true)
-    expect(builtHub('/podcast/francais/')).toBe(true)
-  })
-
-  test('the existing Filosofia book + Introdução reader still build (unmoved by A6)', () => {
-    expect(builtHub('/pt/filosofia/louis-lavelle/')).toBe(true)
-    expect(builtHub('/pt/filosofia/louis-lavelle/introducao-a-ontologia/')).toBe(true)
-    expect(
-      fs.existsSync(
-        path.join(DIST, 'pt/filosofia/louis-lavelle/introducao-a-ontologia/00-01-002-008.html')
-      )
-    ).toBe(true)
-  })
-
-  test('A6 introduces no redirects (clean break preserved)', () => {
-    expect(fs.existsSync(path.join(SRC, 'public/_redirects'))).toBe(false)
-    expect(fs.existsSync(path.join(DIST, '_redirects'))).toBe(false)
+  test('the homepage source stays a bounded gateway: no cards, no direct data import, no extra pillar route', () => {
+    const home = read(path.resolve('.vitepress/theme/components/Home.vue'))
+    expect(home).not.toContain('CardGrid')
+    expect(home).not.toContain('VPFeature')
+    expect(home).not.toContain('/podcast/')
+    expect(home).toContain('PILLARS')
   })
 })

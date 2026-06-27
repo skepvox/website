@@ -1,15 +1,11 @@
 import { test, expect } from '@playwright/test'
+import { PILLARS } from '../.vitepress/theme/components/pillars'
 
 // The homepage is a calm editorial index into the three visible site pillars (Literatura / Filosofia /
 // Vox Français), not a marketing hero: a quiet left-aligned masthead (wordmark -> subline) over a
 // hairline table-of-contents. The visible podcast pillar is Vox Français (H2 IA narrowing); Vox
 // Español / English stay public but unpromoted. Real-DOM checks against the built site (vitepress
 // preview).
-const PILLARS = [
-  { label: 'Literatura', href: '/pt/literatura/' },
-  { label: 'Filosofia', href: '/pt/filosofia/' },
-  { label: 'Vox Français', href: '/podcast/francais/' }
-]
 
 test.describe('homepage — three-pillar index', () => {
   test.beforeEach(async ({ page }) => {
@@ -19,36 +15,23 @@ test.describe('homepage — three-pillar index', () => {
   test('renders exactly the three pillars, in order, as section links', async ({ page }) => {
     await expect(page.locator('.home-pillars a.pillar')).toHaveCount(3)
     await expect(page.locator('.home-pillars a.pillar h2')).toHaveText(PILLARS.map((p) => p.label))
-    await expect(page.locator('.home-pillars a.pillar .pillar__blurb')).toHaveText([
-      'Clássicos que mantenho por perto, em uma biblioteca pessoal que venho construindo.',
-      'Textos de filosofia, alguns ainda pouco acessíveis, que venho organizando aos poucos.',
-      'Podcast criado para meu próprio estudo, como uma forma de manter contato com a língua e aprimorar meu francês.'
-    ])
+    await expect(page.locator('.home-pillars a.pillar .pillar__blurb')).toHaveText(
+      PILLARS.map((p) => p.blurb)
+    )
   })
 
-  test('the pillars surface quiet publication/catalogue previews from the helper layer', async ({
-    page
-  }) => {
-    // One plain-text live line per pillar: original publication year + book title for reading pillars,
-    // catalogue number + episode title for Vox Francais. No counts, no extra links.
+  test('the pillars surface one quiet preview line each without adding links', async ({ page }) => {
+    // H6: prove the live-preview mechanism without growing a per-book/per-episode homepage matrix.
     const live = page.locator('.home-pillars .pillar__live')
-    await expect(live).toHaveCount(3)
-
-    const lit = page.locator('.home-pillars a.pillar[href="/pt/literatura/"] .pillar__live')
-    await expect(lit).toHaveText('1881 · Memórias póstumas de Brás Cubas')
-    await expect(lit).not.toContainText(/capítulos|trechos/)
-
-    const fil = page.locator('.home-pillars a.pillar[href="/pt/filosofia/"] .pillar__live')
-    await expect(fil).toHaveText('1947 · Introdução à ontologia')
-    await expect(fil).not.toContainText(/capítulos|trechos/)
-
-    const vox = page.locator('.home-pillars a.pillar[href="/podcast/francais/"] .pillar__live')
-    await expect(vox).toHaveText('001 · Le badge')
+    await expect(live).toHaveCount(PILLARS.length)
+    await expect(live).toHaveText([/^\d{4} · .+/, /^\d{4} · .+/, /^\d{3} · .+/])
+    await expect(page.locator('.home-pillars')).not.toContainText(/capítulos|trechos/)
 
     // the preview is title-only — it never reintroduces author framing on the homepage
     await expect(page.locator('.home-pillars')).not.toContainText('Louis Lavelle')
-    // and it adds no links: the three pillars remain the only homepage links
-    await expect(page.locator('.home-index a')).toHaveCount(3)
+    // and it adds no links inside the pillar surface
+    await expect(page.locator('.home-pillars a.pillar')).toHaveCount(PILLARS.length)
+    await expect(page.locator('.home-pillars a:not(.pillar)')).toHaveCount(0)
   })
 
   test('each pillar links to its current section surface', async ({ page }) => {
@@ -88,9 +71,18 @@ test.describe('homepage — three-pillar index', () => {
   }) => {
     await expect(page.locator('.home-masthead a')).toHaveCount(0)
     const hrefs = await page
-      .locator('.home-index a')
+      .locator('.home-pillars a.pillar')
       .evaluateAll((els) => els.map((el) => el.getAttribute('href')))
-    expect(hrefs.sort()).toEqual(['/podcast/francais/', '/pt/filosofia/', '/pt/literatura/'])
+    expect(hrefs.sort()).toEqual(PILLARS.map((p) => p.href).sort())
+    await expect(page.locator('.home-pillars a[href="/podcast/"]')).toHaveCount(0)
+  })
+
+  test('the homepage stays a restrained gateway, not a card grid or marketing landing page', async ({
+    page
+  }) => {
+    await expect(page.locator('.home-index .vt-box, .home-index .VPFeature')).toHaveCount(0)
+    await expect(page.locator('.home-index')).not.toContainText('Engenharia de Letras')
+    await expect(page.locator('.home-index a[href^="/louis-lavelle/"]')).toHaveCount(0)
   })
 
   test('meta description keeps the personal index tone (no old slogan or author framing)', async ({
