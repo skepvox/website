@@ -19,11 +19,11 @@ const nav: ThemeConfig['nav'] = [
   },
   // Three-pillar global nav (slice A6): Literatura / Filosofia / Podcasts — the same first-level model
   // as the homepage. Filosofia and Literatura are the locale-rooted /pt/<section>/ sections (Brás Cubas
-  // is live under /pt/literatura/); Podcasts keeps its current surface. The Literatura activeMatch also
-  // covers the legacy /literatura/ pages (kept as debt, no redirect) so the pillar still highlights there.
+  // is live under /pt/literatura/); Podcasts keeps its current surface. The legacy /literatura/ surface
+  // was fully retired in B5 (404 debt, no redirect), so the activeMatch is locale-rooted only.
   {
     text: 'Literatura',
-    activeMatch: '^/(pt/)?literatura/',
+    activeMatch: '^/pt/literatura/',
     link: '/pt/literatura/'
   },
   {
@@ -121,24 +121,16 @@ function routeFromRelativePath(relativePath: string): string {
   return normalizeSitePathname('/' + relativePath.replace(/\.md$/, '.html'))
 }
 
-// Book/chapter leaf routes are kept indexable and locally searchable but dropped
-// from the sitemap, so broad "skepvox" searches favour the hubs and work pages
-// rather than hundreds of chapter pages. Work pages themselves (one level up)
-// stay in the sitemap. URLs here are already normalised (extensionless, hubs end
-// in "/").
-//   /literatura/<author>/<work>/<chapter>          -> dropped (legacy, path-keyed)
-//   any page with the `generated: pipeline-segment-routes` marker -> dropped (A3, marker-aware)
-// Two kinds of leaf are pruned. LEGACY hand-authored literatura chapters stay path-keyed until they are
-// rebuilt through the pipeline (B4). PIPELINE reader segment leaves are pruned MARKER-aware (slice A3):
-// isChapterRoute drops any route collected into pipelineSegmentRoutes from the `pipeline-segment-routes`
-// frontmatter marker — the locale-rooted pt leaves — while the work hub (`pipeline-work-hub`) stays. This
-// needs no per-section path rule, so future locales/sections are covered automatically. (The legacy
-// louis-lavelle depth rule was removed in A5 with the legacy corpus.)
+// Reader segment leaf routes are kept indexable and locally searchable but dropped from the sitemap, so
+// broad "skepvox" searches favour the hubs and work pages rather than hundreds of chapter pages. Work
+// hubs themselves stay in the sitemap. Pruning is purely MARKER-aware (slice A3): isChapterRoute drops
+// any route collected into pipelineSegmentRoutes from the `pipeline-segment-routes` frontmatter marker —
+// the locale-rooted pt leaves (/pt/filosofia/... + /pt/literatura/...) — while the work hubs
+// (`pipeline-work-hub`) stay. This needs no per-section path rule, so future locales/sections are covered
+// automatically. (The legacy path-keyed /literatura/ + /louis-lavelle/ depth rules were removed with
+// their corpora in B5 / A5.)
 function isChapterRoute(url: string): boolean {
-  if (pipelineSegmentRoutes.has(url)) return true
-  const segments = url.replace(/^\/+|\/+$/g, '').split('/').filter(Boolean)
-  if (segments[0] === 'literatura' && segments.length >= 4) return true
-  return false
+  return pipelineSegmentRoutes.has(url)
 }
 
 function normalizeSiteUrl(input: string): string {

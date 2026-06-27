@@ -9,16 +9,19 @@ import {
   editionLine as editionLineFor
 } from './reader-shell'
 
-// Owned contents map for the pipeline-export pt work hub (Introdução à ontologia). It reads the
-// vendored pipeline-export metadata (../data/pipeline-export-segments.json) — the SAME source the
-// leaf chrome (PipelineSegmentNav) uses — and renders the authored Part → Chapter → Segment
-// hierarchy from each segment's groupPath (never from route slugs). It is the pipeline-family
-// analogue of the legacy book map, kept deliberately separate: it consumes ONLY pipeline-export
-// metadata and is mounted only on the generated work hub.
+// Owned contents map for ANY pipeline-export work hub (the work is chosen by the mount's
+// pipelineWorkId/pipelineLanguage). It reads the vendored pipeline-export metadata
+// (../data/pipeline-export-segments.json) — the SAME source the leaf chrome (PipelineSegmentNav) uses —
+// filtered to (workId, language), and renders the structure from each segment's groupPath (never from
+// route slugs), in ONE book-map grammar for every work: a PARTED, paragraph-level work (e.g. Lavelle's
+// Introdução à ontologia) renders Part → Chapter (disclosure) → Segment; a FLAT, chapter-level work
+// (e.g. Brás Cubas) renders a quiet "Capítulos" group of direct chapter links. It is mounted only on a
+// generated work hub.
 //
-// Chapters are real disclosure buttons, default-collapsed for mobile density; the front matter and
-// the two parts stay visible so the skeleton is always understandable. routePath is presentation
-// only (the href); identity (canonicalId / segmentPrefix) is never shown nor used as a link.
+// In the parted case, chapters are real disclosure buttons, default-collapsed for mobile density; the
+// front matter ("Abertura") and the authored part dividers stay visible so the skeleton is always
+// understandable. routePath is presentation only (the href); identity (canonicalId / segmentPrefix) is
+// never shown nor used as a link.
 const props = withDefaults(defineProps<{ workId?: string; language?: string }>(), {
   workId: 'louis-lavelle/introduction-a-l-ontologie',
   language: 'pt'
