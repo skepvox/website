@@ -1,5 +1,5 @@
 import meta from '../data/pipeline-export-segments.json'
-import type { CardGridItem } from './cards'
+import type { CardGridItem, FeaturedWork } from './cards'
 
 // Filosofia work cards, sourced from the pipeline-export metadata (slice A3 / IA-3). The card route
 // (the pt edition's routePrefix) and title come straight from pipeline-export-segments.json — the
@@ -18,10 +18,12 @@ const WORK_BLURBS: Record<string, string> = {
 export function filosofiaWorkCards(authorSlug: string): CardGridItem[] {
   const cards: CardGridItem[] = []
   for (const work of meta.works) {
+    if (work.routeStability !== 'stable') continue
     if (work.authorSlug !== authorSlug) continue
     const pt = work.editions.find((e) => e.language === 'pt')
     // only the published pt edition, and only when it is locale-rooted under this author's filosofia hub
-    if (!pt || !pt.routePrefix.startsWith(`pt/filosofia/${authorSlug}/`)) continue
+    if (!pt || pt.default !== true || !pt.routePrefix.startsWith(`pt/filosofia/${authorSlug}/`))
+      continue
     cards.push({
       title: work.title,
       href: `/${pt.routePrefix}/`,
@@ -30,4 +32,19 @@ export function filosofiaWorkCards(authorSlug: string): CardGridItem[] {
     })
   }
   return cards
+}
+
+// The current published Filosofia pipeline work, for the quiet homepage pillar preview (slice H3).
+// Title-only (no author): the homepage must never surface "Louis Lavelle" (the legacy-route substring
+// guards), so the preview is the work title + a "<n> trechos" line. Returns null when no pt/filosofia
+// work is published. Home.vue calls this instead of importing pipeline-export-segments.json, so the
+// homepage stays off the consumer allow-list.
+export function filosofiaFeaturedWork(): FeaturedWork | null {
+  for (const work of meta.works) {
+    if (work.routeStability !== 'stable') continue
+    const pt = work.editions.find((e) => e.language === 'pt')
+    if (!pt || pt.default !== true || !pt.routePrefix.startsWith('pt/filosofia/')) continue
+    return { title: work.title, meta: `${pt.segmentCount} trechos` }
+  }
+  return null
 }

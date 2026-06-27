@@ -26,6 +26,28 @@ test.describe('homepage — three-pillar index', () => {
     ])
   })
 
+  test('the reading pillars surface a quiet live work preview from the helper layer', async ({
+    page
+  }) => {
+    // Literatura + Filosofia each show their current published pipeline work as ONE text line; Vox
+    // Français has no preview yet (H4). The previews are plain text inside the pillar row, not links.
+    const live = page.locator('.home-pillars .pillar__live')
+    await expect(live).toHaveCount(2)
+
+    const lit = page.locator('.home-pillars a.pillar[href="/pt/literatura/"] .pillar__live')
+    await expect(lit).toContainText('Memórias póstumas de Brás Cubas')
+    await expect(lit).toContainText('163 capítulos')
+
+    const fil = page.locator('.home-pillars a.pillar[href="/pt/filosofia/"] .pillar__live')
+    await expect(fil).toContainText('Introdução à ontologia')
+    await expect(fil).toContainText('99 trechos')
+
+    // the preview is title-only — it never reintroduces author framing on the homepage
+    await expect(page.locator('.home-pillars')).not.toContainText('Louis Lavelle')
+    // and it adds no links: the three pillars remain the only homepage links
+    await expect(page.locator('.home-index a')).toHaveCount(3)
+  })
+
   test('each pillar links to its current section surface', async ({ page }) => {
     for (const { label, href } of PILLARS) {
       await expect(

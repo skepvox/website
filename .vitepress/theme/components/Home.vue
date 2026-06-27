@@ -1,6 +1,18 @@
 <script setup lang="ts">
 import SkLink from './SkLink.vue'
 import { PILLARS } from './pillars'
+import { literaturaFeaturedWork } from './literatura-cards'
+import { filosofiaFeaturedWork } from './filosofia-cards'
+import type { FeaturedWork } from './cards'
+
+// Each reading pillar surfaces its current published pipeline work as ONE quiet line (title + count),
+// read through the allow-listed card helpers — Home.vue never imports the pipeline-export JSON itself.
+// Keyed by pillar; a pillar with no featured work (Vox Français) shows no preview yet (its episode
+// preview is a later slice, H4).
+const featured: Record<string, FeaturedWork | null> = {
+  literatura: literaturaFeaturedWork(),
+  filosofia: filosofiaFeaturedWork()
+}
 </script>
 
 <template>
@@ -12,12 +24,18 @@ import { PILLARS } from './pillars'
 
     <nav class="home-pillars" aria-label="Seções">
       <!-- The three visible pillars are the single IA in pillars.ts, shared with the global nav so the
-           two cannot drift. This stays a calm hairline table-of-contents: one SkLink row per pillar,
-           label + arrow, blurb on the second grid row. No live content here — that is a later slice. -->
+           two cannot drift. A calm hairline table-of-contents: one SkLink row per pillar — label +
+           arrow, blurb, and (for the reading pillars) one quiet live line naming the current published
+           work. The live line is plain text, never an extra link; Vox Français has none yet (H4). -->
       <SkLink v-for="pillar in PILLARS" :key="pillar.key" class="pillar" :href="pillar.href">
         <h2 class="pillar__label">{{ pillar.label }}</h2>
         <span class="pillar__go" aria-hidden="true">→</span>
         <p class="pillar__blurb">{{ pillar.blurb }}</p>
+        <p v-if="featured[pillar.key]" class="pillar__live">
+          <span class="pillar__live-title">{{ featured[pillar.key]?.title }}</span>
+          <span class="pillar__live-sep" aria-hidden="true"> · </span>
+          <span class="pillar__live-meta">{{ featured[pillar.key]?.meta }}</span>
+        </p>
       </SkLink>
     </nav>
   </div>
@@ -107,6 +125,27 @@ import { PILLARS } from './pillars'
   font-size: var(--sk-text-sm);
   line-height: 1.5;
   color: var(--sk-text-muted);
+}
+
+/* Live proof-of-life: one quiet line naming the section's current published work (title + count),
+   sitting below the blurb as the third grid row. Subordinate to the label and blurb (smaller, muted),
+   never an accent or a link. Informational text stays on the AA-capable muted ink; only the decorative
+   middot is faint. */
+.pillar__live {
+  grid-column: 1 / -1;
+  grid-row: 3;
+  margin: 0;
+  font-size: var(--sk-text-xs);
+  line-height: 1.5;
+  color: var(--sk-text-muted);
+}
+
+.pillar__live-sep {
+  color: var(--sk-text-faint);
+}
+
+.pillar__live-meta {
+  font-variant-numeric: tabular-nums;
 }
 
 /* Hover is pointer-gated per the SkLink touch contract (never sticks on iOS). */

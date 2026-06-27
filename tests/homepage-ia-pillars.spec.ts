@@ -65,6 +65,51 @@ test.describe('A6 — three-pillar IA (homepage, nav, 404)', () => {
     expect(html.includes('Louis Lavelle')).toBe(false)
   })
 
+  test('Home.vue renders the live previews via the card helpers, never importing the pipeline-export JSON', () => {
+    // The previews must flow through the allow-listed helper layer so the homepage stays OFF the
+    // pipeline-export consumer allow-list (tests/pipeline-export.spec.ts).
+    const home = read(path.resolve('.vitepress/theme/components/Home.vue'))
+    expect(home).toContain("from './literatura-cards'")
+    expect(home).toContain("from './filosofia-cards'")
+    expect(home).toMatch(/literaturaFeaturedWork\(\)/)
+    expect(home).toMatch(/filosofiaFeaturedWork\(\)/)
+    expect(home.includes('pipeline-export-segments')).toBe(false)
+  })
+
+  test('pipeline card helpers expose only stable default pt editions', () => {
+    // Homepage previews and section cards are public IA, so future draft/exported works must not leak
+    // here merely because they already have a /pt/<section>/ routePrefix in the pipeline metadata.
+    for (const file of ['literatura-cards.ts', 'filosofia-cards.ts']) {
+      const src = read(path.resolve(`.vitepress/theme/components/${file}`))
+      for (const marker of ['WorkCards(', 'FeaturedWork():']) {
+        const fn = src.slice(src.indexOf(marker), src.indexOf('\n}', src.indexOf(marker)))
+        expect(fn, `${file} ${marker}`).toContain("work.routeStability !== 'stable'")
+        expect(fn, `${file} ${marker}`).toContain('pt.default !== true')
+      }
+    }
+  })
+
+  test('pillars.ts stays pure IA data — no imports (no Vue, JSON, or pipeline-export dependency)', () => {
+    const pillars = read(path.resolve('.vitepress/theme/components/pillars.ts'))
+    // A pure-data module has NO imports at all — this is what lets config.ts import it without pulling a
+    // component or the pipeline-export JSON into the build-config graph. (The string "pipeline-export"
+    // may still appear in a comment; the guarantee is about imports, not prose.)
+    expect(pillars).not.toMatch(/^\s*import\s/m)
+    expect(pillars).not.toMatch(/from\s+['"][^'"]+\.vue['"]/)
+    expect(pillars).not.toMatch(/from\s+['"][^'"]+\.json['"]/)
+  })
+
+  test('the built homepage carries the two reading-pillar work previews (title + count, no author)', () => {
+    const html = read(path.join(DIST, 'index.html'))
+    expect(html).toContain('Memórias póstumas de Brás Cubas')
+    expect(html).toContain('163 capítulos')
+    expect(html).toContain('Introdução à ontologia')
+    expect(html).toContain('99 trechos')
+    // previews are titles + counts only — never the author name or the legacy route
+    expect(html.includes('Louis Lavelle')).toBe(false)
+    expect(html.includes('/louis-lavelle/')).toBe(false)
+  })
+
   test('each pillar destination is a real, built surface (no migration, no dead pillar)', () => {
     expect(builtHub('/pt/literatura/')).toBe(true)
     expect(builtHub('/pt/filosofia/')).toBe(true)
