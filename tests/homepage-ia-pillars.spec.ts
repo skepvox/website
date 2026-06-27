@@ -69,14 +69,16 @@ test.describe('A6 — three-pillar IA (homepage, nav, 404)', () => {
     expect(html).toContain('Leituras e estudos pessoais, reunidos em três seções.')
   })
 
-  test('Home.vue renders the live previews via the card helpers, never importing the pipeline-export JSON', () => {
+  test('Home.vue renders the live previews via helper layers, never importing the pipeline-export JSON', () => {
     // The previews must flow through the allow-listed helper layer so the homepage stays OFF the
     // pipeline-export consumer allow-list (tests/pipeline-export.spec.ts).
     const home = read(path.resolve('.vitepress/theme/components/Home.vue'))
     expect(home).toContain("from './literatura-cards'")
     expect(home).toContain("from './filosofia-cards'")
+    expect(home).toContain("from './podcast-featured'")
     expect(home).toMatch(/literaturaFeaturedWork\(\)/)
     expect(home).toMatch(/filosofiaFeaturedWork\(\)/)
+    expect(home).toMatch(/voxFrancaisFeaturedEpisode\(\)/)
     expect(home.includes('pipeline-export-segments')).toBe(false)
   })
 
@@ -103,13 +105,17 @@ test.describe('A6 — three-pillar IA (homepage, nav, 404)', () => {
     expect(pillars).not.toMatch(/from\s+['"][^'"]+\.json['"]/)
   })
 
-  test('the built homepage carries the two reading-pillar work previews (title + count, no author)', () => {
+  test('the built homepage carries the pillar previews (marker + title, no author)', () => {
     const html = read(path.join(DIST, 'index.html'))
+    expect(html).toContain('1881')
     expect(html).toContain('Memórias póstumas de Brás Cubas')
-    expect(html).toContain('163 capítulos')
+    expect(html).toContain('1947')
     expect(html).toContain('Introdução à ontologia')
-    expect(html).toContain('99 trechos')
-    // previews are titles + counts only — never the author name or the legacy route
+    expect(html).toContain('001')
+    expect(html).toContain('Le badge')
+    expect(html).not.toContain('163 capítulos')
+    expect(html).not.toContain('99 trechos')
+    // book previews are years + titles only — never the author name or the legacy route
     expect(html.includes('Louis Lavelle')).toBe(false)
     expect(html.includes('/louis-lavelle/')).toBe(false)
   })

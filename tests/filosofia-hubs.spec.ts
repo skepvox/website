@@ -48,7 +48,8 @@ test.describe('filosofia hubs (slice A3 / IA-3)', () => {
     const h = html(AUTHOR)
     expect(h).toContain(`href="${expectedHref}"`)
     expect(h).toContain(work.title) // "Introdução à ontologia"
-    expect(h).toContain(`${pt.segmentCount} trechos`) // meta line derived from segmentCount
+    expect(h).toContain('1947') // original publication year, not a segment-count line
+    expect(h).not.toContain(`${pt.segmentCount} trechos`)
     // the helper reads the pipeline export and never a works.json (no reintroduction for the moved book)
     const src = fs.readFileSync(
       path.resolve('.vitepress/theme/components/filosofia-cards.ts'),
@@ -71,6 +72,9 @@ test.describe('filosofia hubs (slice A3 / IA-3)', () => {
     const h = html(SECTION)
     expect(h).toContain(`href="${AUTHOR}"`)
     expect(h).toContain('Louis Lavelle') // the author card
+    expect(h).toContain('Saint-Martin-de-Villeréal, França · 1883–1951 †')
+    expect(h).not.toContain('Filosofia em português, reunida')
+    expect(h).not.toContain('>Autores<')
     expect(h).toContain(`<link rel="canonical" href="${ORIGIN}${SECTION}">`) // self-referential canonical
   })
 
@@ -79,6 +83,7 @@ test.describe('filosofia hubs (slice A3 / IA-3)', () => {
     const h = html(AUTHOR)
     expect(h).toContain(`href="${WORK_HUB}"`)
     expect(h).toContain('Introdução à ontologia') // displayed work title (the pipeline-sourced card)
+    expect(h).not.toContain('<p>Saint-Martin-de-Villeréal, França · 1883–1951 †</p>')
     expect(h).toContain(`<link rel="canonical" href="${ORIGIN}${AUTHOR}">`)
     expect(h.includes('href="/louis-lavelle/introducao-a-ontologia')).toBe(false) // no old-route leak
   })

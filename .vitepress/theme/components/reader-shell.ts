@@ -40,23 +40,15 @@ export const NEXT_LABEL: Record<string, string> = {
   fr: 'Suivant',
   en: 'Next'
 }
-export const EDITION_WORD: Record<string, string> = {
-  pt: 'edição em português',
-  fr: 'edição original em francês',
-  en: 'English edition'
-}
-
 export const navLabel = (lang?: string) => pick(NAV_LABEL, lang) // contents: Sumário / Sommaire / Contents
 export const openingLabel = (lang?: string) => pick(OPENING_LABEL, lang) // front-matter group: Abertura …
 export const locLabel = (lang?: string) => pick(LOC_LABEL, lang) // location-path nav aria-label
 export const segNavLabel = (lang?: string) => pick(SEGNAV_LABEL, lang) // bottom-nav aria-label
 export const prevLabel = (lang?: string) => pick(PREV_LABEL, lang) // prev direction label
 export const nextLabel = (lang?: string) => pick(NEXT_LABEL, lang) // next direction label
-// Bibliographic edition line under the hub title: "<author> — <edition word>".
-export const editionLine = (author: string, lang?: string): string => {
-  const word = EDITION_WORD[lang ?? PT]
-  return word ? `${author} — ${word}` : author
-}
+// Author line under the hub title. The edition/language is already implied by the section and route;
+// keep the masthead humble and avoid repeating "edição em português" on every work hub.
+export const editionLine = (author: string, _lang?: string): string => author
 
 // ---- Route helpers — derived from a segment record's routePath (PRESENTATION, not identity) ----
 

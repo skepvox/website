@@ -33,7 +33,8 @@ test.describe('reader-shell shared labels + route helpers (Slice F2)', () => {
     expect(nextLabel('pt')).toBe('Próximo')
     expect(prevLabel('pt')).not.toBe('Trecho anterior')
     expect(nextLabel('pt')).not.toBe('Próximo trecho')
-    expect(editionLine('Louis Lavelle', 'pt')).toBe('Louis Lavelle — edição em português')
+    expect(editionLine('Louis Lavelle', 'pt')).toBe('Louis Lavelle')
+    expect(editionLine('Machado de Assis', 'pt')).toBe('Machado de Assis')
   })
 
   test('label resolution falls back to pt for unknown/undefined languages', () => {

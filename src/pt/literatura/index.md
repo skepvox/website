@@ -1,6 +1,6 @@
 ---
 title: Literatura
-description: 'Literatura em português, reunida em um formato simples de leitura por capítulos.'
+description: "Literatura"
 footer: false
 head:
   - - link
@@ -11,7 +11,7 @@ head:
       content: "Literatura"
   - - meta
     - property: og:description
-      content: "Literatura em português, reunida em um formato simples de leitura por capítulos."
+      content: "Literatura"
   - - meta
     - property: og:url
       content: "https://skepvox.com/pt/literatura/"
@@ -29,9 +29,5 @@ import { literaturaAuthorCardsPt } from '@theme/components/authors'
 </script>
 
 # Literatura
-
-Literatura em português, reunida em um formato simples de leitura por capítulos.
-
-## Autores
 
 <CardGrid :items="literaturaAuthorCardsPt" />

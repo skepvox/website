@@ -56,6 +56,9 @@ test.describe('PipelineWorkContents (owned pt work-hub contents map)', () => {
     await expect(first).toHaveAttribute('aria-expanded', 'true')
     await expect(region).toBeVisible()
     await expect(region.locator('a.pwc__link').first()).toBeVisible()
+    const firstLeaf = region.locator('a.pwc__link--numbered').first()
+    await expect(firstLeaf.locator('.pwc__leaf-num')).toHaveText('1')
+    await expect(firstLeaf.locator('.pwc__leaf-title')).toHaveText('Parágrafo 1')
 
     await first.click()
     await expect(first).toHaveAttribute('aria-expanded', 'false')
@@ -134,12 +137,13 @@ test.describe('PipelineWorkContents (owned pt work-hub contents map)', () => {
     await expect(current).toBeVisible()
   })
 
-  test('Slice A: title leads the hierarchy with an edition line; rows no longer out-size chapters', async ({
+  test('Slice A: title leads the hierarchy with an author line; rows no longer out-size chapters', async ({
     page
   }) => {
     await page.goto(HUB)
-    // the edition/context line under the title exists and names the edition
-    await expect(page.locator('.pwc__edition')).toContainText(/edição em português/i)
+    // the author/context line under the title exists without repeating "edição em português"
+    await expect(page.locator('.pwc__edition')).toHaveText('Louis Lavelle')
+    await expect(page.locator('.pwc__edition')).not.toContainText(/edição em português/i)
     const size = await page.evaluate(() => {
       const px = (sel: string) => {
         const el = document.querySelector(sel)
@@ -268,14 +272,15 @@ test.describe('PipelineWorkContents — Slice D composed bookish surface', () =>
     expect(await fam(page, '.pwc__count')).not.toContain('literata')
   })
 
-  test('masthead hierarchy + printed-TOC apparatus: title > chapter, edition line, hairline, tabular counts, scroll-margin', async ({
+  test('masthead hierarchy + printed-TOC apparatus: title > chapter, author line, hairline, tabular counts, scroll-margin', async ({
     page
   }) => {
     await page.goto(HUB)
     // the serif title outranks the chapter rows (hierarchy holds; Slice A invariant preserved)
     expect(await px(page, '.pwc__title')).toBeGreaterThan(await px(page, '.pwc__chapter-title'))
-    // the edition context line names the edition (small-caps apparatus under the title)
-    await expect(page.locator('.pwc__edition')).toContainText(/edição em português/i)
+    // the author context line names the author only (small-caps apparatus under the title)
+    await expect(page.locator('.pwc__edition')).toHaveText('Louis Lavelle')
+    await expect(page.locator('.pwc__edition')).not.toContainText(/edição em português/i)
     // the masthead is bound to the contents by a hairline (composed, not a detached header box)
     const headBorder = await page
       .locator('.pwc__head')
@@ -323,7 +328,7 @@ test.describe('PipelineWorkContents — Slice E readiness gate', () => {
     const adv = page.locator('.pwc__opening a.pwc__link--loose')
     await expect(adv).toHaveText('Advertência')
     await expect(adv).toHaveAttribute('href', /00-00-000-001$/) // prefix-only leaf (A2); label stays the displayTitle
-    // subordinate to authored Part dividers: the Abertura label has NO trailing hairline; Parts do
+    // the section labels have NO trailing hairline; the following chapter rows own the separators
     const hairline = (sel: string) =>
       page
         .locator(sel)
@@ -333,7 +338,8 @@ test.describe('PipelineWorkContents — Slice E readiness gate', () => {
           return a.content !== 'none' && parseFloat(a.flexGrow || '0') > 0
         })
     expect(await hairline('.pwc__opening-heading')).toBe(false)
-    expect(await hairline('.pwc__part-heading')).toBe(true)
+    expect(await hairline('.pwc__part-heading')).toBe(false)
+    await expect(page.locator('.pwc__chapters-heading')).toHaveCount(0)
     // ...and consistent INK with the authored parts (same meaning-bearing color, not a muted orphan)
     const color = (sel: string) =>
       page

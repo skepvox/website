@@ -87,6 +87,7 @@ test.describe('Brás Cubas hub — editorial reading divisions (collapsible map)
     expect(expected[0]).toEqual({ label: 'Abertura', count: 3 })
     expect(expected[1].label).toBe('O Defunto Autor')
     expect(expected[10].label).toBe('O Acerto de Contas')
+    await expect(nav.locator('.pwc__chapters-heading')).toHaveText('Capítulos')
 
     // the OLD always-open dividers / generic flat list are gone
     await expect(nav.locator('.pwc__division-heading')).toHaveCount(0)
@@ -202,5 +203,11 @@ test.describe('Brás Cubas hub — editorial reading divisions (collapsible map)
     await expect(nav.locator('.pwc__opening-heading')).toHaveText('Abertura')
     await expect(nav.locator('.pwc__link--loose')).toHaveCount(1) // Advertência
     await expect(nav.locator('.pwc__section')).toHaveCount(0) // flat-work sections are Brás-Cubas-only
+    await expect(nav.locator('.pwc__chapters-heading')).toHaveCount(0) // Brás-Cubas-only body divider
+    // Lavelle paragraph leaves now share Brás Cubas's calm left ordinal rail for final reading units.
+    await nav.locator('.pwc__chapter-heading').first().click()
+    const firstLeaf = nav.locator('.pwc__leaves a.pwc__link--numbered').first()
+    await expect(firstLeaf.locator('.pwc__leaf-num')).toHaveText('1')
+    await expect(firstLeaf.locator('.pwc__leaf-title')).toHaveText('Parágrafo 1')
   })
 })

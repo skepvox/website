@@ -26,21 +26,24 @@ test.describe('homepage — three-pillar index', () => {
     ])
   })
 
-  test('the reading pillars surface a quiet live work preview from the helper layer', async ({
+  test('the pillars surface quiet publication/catalogue previews from the helper layer', async ({
     page
   }) => {
-    // Literatura + Filosofia each show their current published pipeline work as ONE text line; Vox
-    // Français has no preview yet (H4). The previews are plain text inside the pillar row, not links.
+    // One plain-text live line per pillar: original publication year + book title for reading pillars,
+    // catalogue number + episode title for Vox Francais. No counts, no extra links.
     const live = page.locator('.home-pillars .pillar__live')
-    await expect(live).toHaveCount(2)
+    await expect(live).toHaveCount(3)
 
     const lit = page.locator('.home-pillars a.pillar[href="/pt/literatura/"] .pillar__live')
-    await expect(lit).toContainText('Memórias póstumas de Brás Cubas')
-    await expect(lit).toContainText('163 capítulos')
+    await expect(lit).toHaveText('1881 · Memórias póstumas de Brás Cubas')
+    await expect(lit).not.toContainText(/capítulos|trechos/)
 
     const fil = page.locator('.home-pillars a.pillar[href="/pt/filosofia/"] .pillar__live')
-    await expect(fil).toContainText('Introdução à ontologia')
-    await expect(fil).toContainText('99 trechos')
+    await expect(fil).toHaveText('1947 · Introdução à ontologia')
+    await expect(fil).not.toContainText(/capítulos|trechos/)
+
+    const vox = page.locator('.home-pillars a.pillar[href="/podcast/francais/"] .pillar__live')
+    await expect(vox).toHaveText('001 · Le badge')
 
     // the preview is title-only — it never reintroduces author framing on the homepage
     await expect(page.locator('.home-pillars')).not.toContainText('Louis Lavelle')

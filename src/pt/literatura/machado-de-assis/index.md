@@ -1,6 +1,6 @@
 ---
 title: "Literatura — Machado de Assis"
-description: "Machado de Assis (1839–1908), escritor brasileiro, mestre do realismo."
+description: "Rio de Janeiro, Brasil · 1839–1908 †"
 outline: 2
 footer: false
 head:
@@ -9,13 +9,13 @@ head:
       href: "https://skepvox.com/pt/literatura/machado-de-assis/"
   - - meta
     - name: description
-      content: "Machado de Assis (1839–1908), escritor brasileiro, mestre do realismo."
+      content: "Rio de Janeiro, Brasil · 1839–1908 †"
   - - meta
     - property: og:title
       content: "Literatura — Machado de Assis"
   - - meta
     - property: og:description
-      content: "Machado de Assis (1839–1908), escritor brasileiro, mestre do realismo."
+      content: "Rio de Janeiro, Brasil · 1839–1908 †"
   - - meta
     - property: og:url
       content: "https://skepvox.com/pt/literatura/machado-de-assis/"
@@ -39,11 +39,19 @@ head:
         "@type": "Person",
         "@id": "https://skepvox.com/pt/literatura/machado-de-assis/#person",
         "name": "Machado de Assis",
-        "description": "Escritor brasileiro (1839–1908), mestre do realismo.",
+        "description": "Rio de Janeiro, Brasil · 1839–1908 †",
         "url": "https://skepvox.com/pt/literatura/machado-de-assis/",
         "image": "https://skepvox.com/images/authors/machado-de-assis.webp",
         "birthDate": "1839-06-21",
         "deathDate": "1908-09-29",
+        "birthPlace": {
+          "@type": "Place",
+          "name": "Rio de Janeiro, Brasil"
+        },
+        "deathPlace": {
+          "@type": "Place",
+          "name": "Rio de Janeiro, Brasil"
+        },
         "nationality": "Brasileira",
         "jobTitle": "Escritor",
         "inLanguage": "pt-BR"
@@ -65,9 +73,5 @@ const works = literaturaWorkCards('machado-de-assis')
   alt="Retrato de Machado de Assis"
   class="author-portrait"
 />
-
-1839–1908 †
-
-## Obras
 
 <CardGrid :items="works" />

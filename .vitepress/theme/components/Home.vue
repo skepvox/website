@@ -3,15 +3,15 @@ import SkLink from './SkLink.vue'
 import { PILLARS } from './pillars'
 import { literaturaFeaturedWork } from './literatura-cards'
 import { filosofiaFeaturedWork } from './filosofia-cards'
+import { voxFrancaisFeaturedEpisode } from './podcast-featured'
 import type { FeaturedWork } from './cards'
 
-// Each reading pillar surfaces its current published pipeline work as ONE quiet line (title + count),
-// read through the allow-listed card helpers — Home.vue never imports the pipeline-export JSON itself.
-// Keyed by pillar; a pillar with no featured work (Vox Français) shows no preview yet (its episode
-// preview is a later slice, H4).
+// Each pillar surfaces one quiet proof-of-life line as "marker · title": original publication year for
+// books, catalogue number for Vox Francais. Home.vue never imports pipeline-export JSON directly.
 const featured: Record<string, FeaturedWork | null> = {
   literatura: literaturaFeaturedWork(),
-  filosofia: filosofiaFeaturedWork()
+  filosofia: filosofiaFeaturedWork(),
+  'vox-francais': voxFrancaisFeaturedEpisode()
 }
 </script>
 
@@ -25,16 +25,15 @@ const featured: Record<string, FeaturedWork | null> = {
     <nav class="home-pillars" aria-label="Seções">
       <!-- The three visible pillars are the single IA in pillars.ts, shared with the global nav so the
            two cannot drift. A calm hairline table-of-contents: one SkLink row per pillar — label +
-           arrow, blurb, and (for the reading pillars) one quiet live line naming the current published
-           work. The live line is plain text, never an extra link; Vox Français has none yet (H4). -->
+           arrow, blurb, and one quiet live line. The live line is plain text, never an extra link. -->
       <SkLink v-for="pillar in PILLARS" :key="pillar.key" class="pillar" :href="pillar.href">
         <h2 class="pillar__label">{{ pillar.label }}</h2>
         <span class="pillar__go" aria-hidden="true">→</span>
         <p class="pillar__blurb">{{ pillar.blurb }}</p>
         <p v-if="featured[pillar.key]" class="pillar__live">
-          <span class="pillar__live-title">{{ featured[pillar.key]?.title }}</span>
-          <span class="pillar__live-sep" aria-hidden="true"> · </span>
           <span class="pillar__live-meta">{{ featured[pillar.key]?.meta }}</span>
+          <span class="pillar__live-sep" aria-hidden="true"> · </span>
+          <span class="pillar__live-title">{{ featured[pillar.key]?.title }}</span>
         </p>
       </SkLink>
     </nav>
@@ -127,10 +126,9 @@ const featured: Record<string, FeaturedWork | null> = {
   color: var(--sk-text-muted);
 }
 
-/* Live proof-of-life: one quiet line naming the section's current published work (title + count),
-   sitting below the blurb as the third grid row. Subordinate to the label and blurb (smaller, muted),
-   never an accent or a link. Informational text stays on the AA-capable muted ink; only the decorative
-   middot is faint. */
+/* Live proof-of-life: one quiet "marker · title" line sitting below the blurb as the third grid row.
+   Subordinate to the label and blurb (smaller, muted), never an accent or a link. Informational text
+   stays on the AA-capable muted ink; only the decorative middot is faint. */
 .pillar__live {
   grid-column: 1 / -1;
   grid-row: 3;

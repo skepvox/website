@@ -75,6 +75,20 @@ test.describe('pipeline publication gate (Slice 2K/2L, stability-aware; pt minte
     expect(urls.has('/pt/literatura/')).toBe(true)
     expect(urls.has('/pt/literatura/machado-de-assis/')).toBe(true)
     expect(urls.has('/pt/literatura/machado-de-assis/bras-cubas/')).toBe(true)
+    const section = fs.readFileSync(path.join(DIST, 'pt/literatura/index.html'), 'utf-8')
+    expect(section).toContain('Rio de Janeiro, Brasil · 1839–1908 †')
+    expect(section).not.toContain('Literatura em português, reunida')
+    expect(section).not.toContain('>Autores<')
+    const author = fs.readFileSync(
+      path.join(DIST, 'pt/literatura/machado-de-assis/index.html'),
+      'utf-8'
+    )
+    expect(author).toContain('Memórias póstumas de Brás Cubas')
+    expect(author).toContain('1881')
+    expect(author).not.toContain('<p>Rio de Janeiro, Brasil · 1839–1908 †</p>')
+    expect(author).not.toContain('Romance em português')
+    expect(author).not.toContain('163 trechos')
+    expect(author).not.toContain('>Obras<')
     // representative leaf (ch 53): indexable (no robots noindex) + crawlable (real prose), but sitemap-pruned
     const dir = path.join(DIST, 'pt/literatura/machado-de-assis/bras-cubas')
     const html = fs.readFileSync(path.join(dir, '00-00-053-056.html'), 'utf-8')

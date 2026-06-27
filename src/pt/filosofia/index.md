@@ -1,6 +1,6 @@
 ---
 title: Filosofia
-description: 'Filosofia em português, reunida em um formato simples de leitura por trechos.'
+description: "Filosofia"
 footer: false
 head:
   - - link
@@ -11,7 +11,7 @@ head:
       content: "Filosofia"
   - - meta
     - property: og:description
-      content: "Filosofia em português, reunida em um formato simples de leitura por trechos."
+      content: "Filosofia"
   - - meta
     - property: og:url
       content: "https://skepvox.com/pt/filosofia/"
@@ -29,9 +29,5 @@ import { philosophyAuthorCards } from '@theme/components/authors'
 </script>
 
 # Filosofia
-
-Filosofia em português, reunida em um formato simples de leitura por trechos.
-
-## Autores
 
 <CardGrid :items="philosophyAuthorCards" />
