@@ -126,6 +126,12 @@ def _reshape_work(bundle: dict) -> tuple[dict, list]:
     ]
     work_record = {field: work[field] for field in _WORK_FIELDS}
     work_record["editions"] = _project_editions(work["editions"], work_id, published_language)
+    # Optional editorial reading divisions (render/navigation aid) ride through verbatim — present only
+    # for a work that declares them (e.g. Brás Cubas), absent otherwise (Lavelle is unchanged). It is a
+    # work-record field, never a segment field; the website renders it as editorial dividers, never as
+    # authored Parts / groupPath.
+    if "readingDivisions" in work:
+        work_record["readingDivisions"] = work["readingDivisions"]
     return work_record, segments
 
 

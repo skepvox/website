@@ -15,8 +15,10 @@ import {
 // filtered to (workId, language), and renders the structure from each segment's groupPath (never from
 // route slugs), in ONE book-map grammar for every work: a PARTED, paragraph-level work (e.g. Lavelle's
 // Introdução à ontologia) renders Part → Chapter (disclosure) → Segment; a FLAT, chapter-level work
-// (e.g. Brás Cubas) renders a quiet "Capítulos" group of direct chapter links. It is mounted only on a
-// generated work hub.
+// (e.g. Brás Cubas) renders its direct chapter links either under named EDITORIAL reading-division
+// dividers (when the work record carries `readingDivisions`, authored:false — the same calm
+// divider→rows rhythm as Lavelle's Parts, but explicitly NOT authored Parts) or, as a safe fallback,
+// under one quiet "Capítulos" group. It is mounted only on a generated work hub.
 //
 // In the parted case, chapters are real disclosure buttons, default-collapsed for mobile density; the
 // front matter ("Abertura") and the authored part dividers stay visible so the skeleton is always
@@ -27,10 +29,24 @@ const props = withDefaults(defineProps<{ workId?: string; language?: string }>()
   language: 'pt'
 })
 
+// Editorial reading divisions (render/navigation aid) — an OPTIONAL work-record field carried straight
+// from the pipeline export. `authored: false` is the load-bearing flag: these are an editorial grouping
+// of a flat work's chapters (e.g. Brás Cubas's movements), explicitly NOT authored Parts, and are never
+// derived from / folded into groupPath. Absent for works that do not declare them (e.g. Lavelle).
+interface ReadingDivision {
+  label: string
+  startPrefix: string
+  endPrefix: string
+}
+interface ReadingDivisions {
+  authored: boolean
+  divisions: ReadingDivision[]
+}
 interface Work {
   workId: string
   title: string
   author: string
+  readingDivisions?: ReadingDivisions | null
 }
 interface Level {
   kind: string
@@ -65,14 +81,30 @@ const editionLine = computed(() => editionLineFor(author.value, props.language))
 
 // A part-less work (Brás Cubas) groups its chapters under ONE quiet render-layer label so the map has a
 // home instead of a bare list — explicitly editorial (the lighter Abertura register, not an authored
-// Part divider), never invented canonical structure. Editorial reading-divisions could later replace
-// this single group with named divisions (see the consolidation report); the grammar is the same.
+// Part divider), never invented canonical structure. This single "Capítulos" group is the SAFE FALLBACK
+// for a flat work that declares no reading-divisions; a flat work WITH reading-divisions instead groups
+// its chapters under named editorial dividers (below) in the same calm grammar as Lavelle's Parts.
 const CHAPTERS_LABEL: Record<string, string> = {
   pt: 'Capítulos',
   fr: 'Chapitres',
   en: 'Chapters'
 }
 const chaptersLabel = computed(() => CHAPTERS_LABEL[props.language] ?? 'Capítulos')
+
+// Optional editorial reading divisions for THIS work (from the export work record; null otherwise).
+const readingDivisions = computed<ReadingDivisions | null>(
+  () => work.value?.readingDivisions ?? null
+)
+
+// ONE quiet caption per map (orientation, not a per-divider disclaimer): the divisions are an editorial
+// reading aid, NOT the author's structure. Author-agnostic so the component stays multi-work. Shown only
+// when a work renders EDITORIAL (authored:false) divisions.
+const MAP_NOTE: Record<string, string> = {
+  pt: 'Divisões de leitura — agrupamento editorial, não do autor.',
+  fr: 'Divisions de lecture — un regroupement éditorial, non de l’auteur.',
+  en: 'Reading divisions — an editorial grouping, not the author’s.'
+}
+const mapNote = computed(() => MAP_NOTE[props.language] ?? MAP_NOTE.pt)
 
 const segs = computed(() =>
   (meta.segments as Seg[])
@@ -102,7 +134,47 @@ interface FlatEntry {
 type LooseBlock = { type: 'loose'; key: string; segments: Seg[] }
 type PartBlock = { type: 'part'; key: string; heading: string; chapters: Chapter[] }
 type FlatBlock = { type: 'flat'; key: string; entries: FlatEntry[] }
-type Block = LooseBlock | PartBlock | FlatBlock
+// A flat work's chapter list, regrouped under one EDITORIAL reading division. Same row grammar as a
+// FlatBlock (direct chapter links), but with a part-like divider heading so the map reads in Lavelle's
+// nested rhythm. `editorial` (authored:false) drives the one quiet map note — never authored Parts.
+type DivisionBlock = {
+  type: 'division'
+  key: string
+  heading: string
+  editorial: boolean
+  entries: FlatEntry[]
+}
+type Block = LooseBlock | PartBlock | FlatBlock | DivisionBlock
+
+// Regroup a flat work's chapter rows under its editorial reading divisions. Buckets the EXISTING flat
+// entries (already sorted by reading order) by each division's [startPrefix, endPrefix] range — never
+// from groupPath, never minting structure. Returns null (safe fallback to the single "Capítulos" group)
+// unless the divisions cleanly tile every entry exactly once — the pipeline already guarantees this, so
+// this guard only ever fires on malformed data, and degrades to the calm list rather than dropping rows.
+function splitByDivisions(entries: FlatEntry[], rd: ReadingDivisions): DivisionBlock[] | null {
+  const pos = new Map(entries.map((e, i) => [e.segmentPrefix, i]))
+  const covered = Array.from({ length: entries.length }, () => false)
+  const out: DivisionBlock[] = []
+  for (let n = 0; n < rd.divisions.length; n++) {
+    const d = rd.divisions[n]
+    const a = pos.get(d.startPrefix)
+    const b = pos.get(d.endPrefix)
+    if (a === undefined || b === undefined || a > b) return null
+    for (let i = a; i <= b; i++) {
+      if (covered[i]) return null // overlap → degrade to the calm single list
+      covered[i] = true
+    }
+    out.push({
+      type: 'division',
+      key: `div-${n}`,
+      heading: d.label,
+      editorial: rd.authored === false,
+      entries: entries.slice(a, b + 1)
+    })
+  }
+  if (covered.some((c) => !c)) return null // a gap (uncovered chapter) → fallback
+  return out
+}
 
 const blocks = computed<Block[]>(() => {
   const out: Block[] = []
@@ -165,8 +237,24 @@ const blocks = computed<Block[]>(() => {
     }
     group.segments.push(rec)
   }
+  // If this (flat) work declares editorial reading divisions, regroup its single flat chapter list under
+  // the named dividers — same calm Part→rows grammar as Lavelle, NOT authored Parts. Front matter stays
+  // its own Abertura group (loose blocks are untouched). Falls back to the flat list on any data drift.
+  const rd = readingDivisions.value
+  if (rd && rd.divisions.length) {
+    return out.flatMap((block): Block[] => {
+      if (block.type !== 'flat') return [block]
+      return splitByDivisions(block.entries, rd) ?? [block]
+    })
+  }
   return out
 })
+
+// True only when the map actually rendered EDITORIAL (authored:false) dividers — gates the one quiet
+// map note. Reads the realized blocks, so the fallback flat list never shows the note.
+const hasEditorialDivisions = computed(() =>
+  blocks.value.some((b) => b.type === 'division' && b.editorial)
+)
 
 // Collapse state. Chapters default COLLAPSED; the default is rendered identically on the server and
 // on first client paint (expanded starts empty), so hydration matches. Persisted open/closed state
@@ -198,6 +286,7 @@ const chapterKeyOf = computed(() => {
   for (const b of blocks.value) {
     if (b.type === 'loose') for (const s of b.segments) map.set(s.segmentPrefix, null)
     else if (b.type === 'flat') for (const e of b.entries) map.set(e.segmentPrefix, null)
+    else if (b.type === 'division') for (const e of b.entries) map.set(e.segmentPrefix, null)
     else for (const ch of b.chapters) for (const s of ch.segments) map.set(s.segmentPrefix, ch.key)
   }
   return map
@@ -244,6 +333,10 @@ onMounted(() => {
       <h1 id="pwc-title" class="pwc__title">{{ workTitle }}</h1>
       <p class="pwc__edition">{{ editionLine }}</p>
     </header>
+    <!-- One quiet caption for the whole map (not a per-divider badge): the named dividers below are an
+         editorial reading aid, not the author's structure. Shown only for editorial (authored:false)
+         divisions. -->
+    <p v-if="hasEditorialDivisions" class="pwc__map-note">{{ mapNote }}</p>
     <nav class="pwc" :aria-label="navLabel">
       <template v-for="block in blocks" :key="block.key">
         <!-- Front-matter bucket (loose, empty-groupPath segments before the authored parts, e.g.
@@ -273,6 +366,34 @@ onMounted(() => {
              titles (ch 53 "......."; ch 83 "13") legible. Same calm book-map dialect as Lavelle. -->
         <section v-else-if="block.type === 'flat'" class="pwc__part pwc__part--editorial">
           <p class="pwc__opening-heading">{{ chaptersLabel }}</p>
+          <div class="pwc__chapter-rows">
+            <SkLink
+              v-for="e in block.entries"
+              :key="e.canonicalId"
+              class="pwc__chapter-row"
+              :class="{ 'is-current': isCurrent(e) }"
+              :href="`/${e.routePath}`"
+              :current="isCurrent(e)"
+            >
+              <span class="pwc__chapter-num" aria-hidden="true">{{ e.number }}</span>
+              <span class="pwc__chapter-title">{{ e.title }}</span>
+            </SkLink>
+          </div>
+        </section>
+
+        <!-- Flat work WITH editorial reading divisions (e.g. Brás Cubas): the chapter rows are regrouped
+             under named editorial dividers. The divider sits exactly where Lavelle's authored Part
+             divider sits (small-caps kicker + trailing hairline), so the book reads in the SAME nested
+             grammar (divider → chapter rows); it is marked EDITORIAL (a lighter weight + the one map
+             note above), NEVER an authored Part. Rows are direct chapter links (each segment IS a whole
+             chapter — no disclosure), identical to the flat fallback's rows. -->
+        <section v-else-if="block.type === 'division'" class="pwc__part pwc__part--division">
+          <p
+            class="pwc__division-heading"
+            :class="{ 'pwc__division-heading--editorial': block.editorial }"
+          >
+            {{ block.heading }}
+          </p>
           <div class="pwc__chapter-rows">
             <SkLink
               v-for="e in block.entries"
@@ -502,6 +623,44 @@ onMounted(() => {
    with a clear hierarchy (authored Part divider > editorial chapter group). */
 .pwc__part--editorial {
   margin-top: 1.5rem;
+}
+
+/* Editorial reading-division divider (e.g. Brás Cubas's movements). It deliberately mirrors the
+   authored Part divider — full-ink small-caps kicker + a hairline running to the column edge — so the
+   flat book reads in the SAME nested book-map rhythm as Lavelle (divider → chapter rows). It is marked
+   EDITORIAL, not authored, by a slightly lighter weight (600 vs the Part divider's 650) plus the single
+   quiet map note above the map — never a loud per-divider badge. Non-interactive, always open. */
+.pwc__part--division {
+  margin-top: 1.5rem;
+}
+.pwc__division-heading {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin: 2rem 0 0.35rem;
+  font-size: var(--sk-reading-kicker);
+  font-weight: 600;
+  letter-spacing: var(--sk-reading-kicker-tracking);
+  text-transform: uppercase;
+  line-height: 1.3;
+  color: var(--sk-text);
+}
+.pwc__division-heading::after {
+  content: '';
+  flex: 1 1 auto;
+  height: 1px;
+  background: var(--sk-reading-hairline);
+}
+
+/* One quiet caption for the whole editorial map (orientation, not a disclaimer): muted, small, never
+   repeated per divider. Sits between the masthead and the first divider. */
+.pwc__map-note {
+  margin: -0.75rem 0 1.5rem;
+  font-size: var(--sk-reading-kicker);
+  font-weight: 500;
+  letter-spacing: var(--sk-reading-kicker-tracking);
+  line-height: 1.4;
+  color: var(--sk-text-muted);
 }
 
 /* Part-less chapter rows (Brás Cubas) share the disclosure-button metrics + typography of an AUTHORED
