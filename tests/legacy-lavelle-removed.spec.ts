@@ -33,11 +33,15 @@ test.describe('legacy Lavelle corpus removed (slice A5 / IA-5)', () => {
 
   test('config.ts has no nav/sidebar/route link to the legacy /louis-lavelle/ (Filosofia stays)', () => {
     const config = fs.readFileSync(path.resolve('.vitepress/config.ts'), 'utf-8')
+    const pillars = fs.readFileSync(path.resolve('.vitepress/theme/components/pillars.ts'), 'utf-8')
     expect(config.includes("'/louis-lavelle/'")).toBe(false) // nav link + sidebar key literal
     expect(config.includes("link: '/louis-lavelle/")).toBe(false)
     expect(config.includes("activeMatch: '^/louis-lavelle/'")).toBe(false)
     expect(/segments\[0\]\s*===\s*'louis-lavelle'/.test(config)).toBe(false) // dead isChapterRoute rule
-    expect(config).toContain("link: '/pt/filosofia/'") // the new Filosofia section nav stays
+    expect(config).toContain("from './theme/components/pillars'")
+    expect(config).toContain('PILLARS.map')
+    expect(pillars).toContain("label: 'Filosofia'")
+    expect(pillars).toContain("href: '/pt/filosofia/'") // the new Filosofia section nav stays
   })
 
   test('no sitemap URL is a legacy /louis-lavelle/ route (the new /pt/filosofia/louis-lavelle/ stays)', () => {

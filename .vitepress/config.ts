@@ -7,35 +7,28 @@ import type { Config as ThemeConfig } from '@vue/theme'
 import llmstxt from 'vitepress-plugin-llms'
 import baseConfig from '@vue/theme/config'
 import { headerPlugin } from './headerMdPlugin'
+import { PILLARS } from './theme/components/pillars'
 import {
   groupIconMdPlugin,
   groupIconVitePlugin
 } from 'vitepress-plugin-group-icons'
 
+// Three-pillar global nav: Home + the visible pillars derived from the shared pillars.ts IA, so nav and
+// homepage share one source of truth and cannot drift (slice H2). The visible podcast pillar is Vox
+// Français (/podcast/francais/); Vox Español / Vox English stay public and reachable by URL / the
+// /podcast/ hub / the podcast sidebar / the sitemap, just not promoted in the primary nav. Filosofia and
+// Literatura are the locale-rooted /pt/<section>/ sections; the legacy /literatura/ surface was retired
+// in B5 (no redirect), so each pillar's activeMatch is its own locale-rooted prefix.
 const nav: ThemeConfig['nav'] = [
   {
     text: 'Home',
     link: '/'
   },
-  // Three-pillar global nav (slice A6): Literatura / Filosofia / Podcasts — the same first-level model
-  // as the homepage. Filosofia and Literatura are the locale-rooted /pt/<section>/ sections (Brás Cubas
-  // is live under /pt/literatura/); Podcasts keeps its current surface. The legacy /literatura/ surface
-  // was fully retired in B5 (404 debt, no redirect), so the activeMatch is locale-rooted only.
-  {
-    text: 'Literatura',
-    activeMatch: '^/pt/literatura/',
-    link: '/pt/literatura/'
-  },
-  {
-    text: 'Filosofia',
-    activeMatch: '^/pt/filosofia/',
-    link: '/pt/filosofia/'
-  },
-  {
-    text: 'Podcasts',
-    activeMatch: '^/podcast/',
-    link: '/podcast/'
-  },
+  ...PILLARS.map((pillar) => ({
+    text: pillar.label,
+    activeMatch: pillar.activeMatch,
+    link: pillar.href
+  }))
 ]
 
 export const sidebar: ThemeConfig['sidebar'] = {

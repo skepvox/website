@@ -136,8 +136,12 @@ test.describe('filosofia hubs (slice A3 / IA-3)', () => {
 
   test('the Filosofia nav entry stays; the legacy Lavelle nav was removed in A5', () => {
     const config = fs.readFileSync(path.resolve('.vitepress/config.ts'), 'utf-8')
-    expect(config).toContain("activeMatch: '^/pt/filosofia/'")
-    expect(config).toContain("link: '/pt/filosofia/'")
+    const pillars = fs.readFileSync(path.resolve('.vitepress/theme/components/pillars.ts'), 'utf-8')
+    expect(config).toContain("from './theme/components/pillars'")
+    expect(config).toContain('PILLARS.map')
+    expect(pillars).toContain("label: 'Filosofia'")
+    expect(pillars).toContain("activeMatch: '^/pt/filosofia/'")
+    expect(pillars).toContain("href: '/pt/filosofia/'")
     expect(config.includes("activeMatch: '^/louis-lavelle/'")).toBe(false) // legacy nav removed in A5
   })
 

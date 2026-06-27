@@ -1,38 +1,23 @@
 <script setup lang="ts">
 import SkLink from './SkLink.vue'
+import { PILLARS } from './pillars'
 </script>
 
 <template>
   <div class="home-index">
     <header class="home-masthead">
-      <p class="home-masthead__eyebrow">Engenharia de Letras</p>
       <h1 class="home-masthead__mark">skepvox</h1>
       <p class="home-masthead__subline">Leituras e estudos pessoais, reunidos em três seções.</p>
     </header>
 
     <nav class="home-pillars" aria-label="Seções">
-      <SkLink class="pillar" href="/pt/literatura/">
-        <h2 class="pillar__label">Literatura</h2>
+      <!-- The three visible pillars are the single IA in pillars.ts, shared with the global nav so the
+           two cannot drift. This stays a calm hairline table-of-contents: one SkLink row per pillar,
+           label + arrow, blurb on the second grid row. No live content here — that is a later slice. -->
+      <SkLink v-for="pillar in PILLARS" :key="pillar.key" class="pillar" :href="pillar.href">
+        <h2 class="pillar__label">{{ pillar.label }}</h2>
         <span class="pillar__go" aria-hidden="true">→</span>
-        <p class="pillar__blurb">
-          Clássicos em domínio público, num formato pensado para ler com calma.
-        </p>
-      </SkLink>
-
-      <SkLink class="pillar" href="/pt/filosofia/">
-        <h2 class="pillar__label">Filosofia</h2>
-        <span class="pillar__go" aria-hidden="true">→</span>
-        <p class="pillar__blurb">
-          Textos de filosofia, ainda pouco acessíveis, organizados aos poucos para leitura atenta.
-        </p>
-      </SkLink>
-
-      <SkLink class="pillar" href="/podcast/">
-        <h2 class="pillar__label">Podcasts</h2>
-        <span class="pillar__go" aria-hidden="true">→</span>
-        <p class="pillar__blurb">
-          Episódios para praticar idiomas, com áudio, transcrição e notas.
-        </p>
+        <p class="pillar__blurb">{{ pillar.blurb }}</p>
       </SkLink>
     </nav>
   </div>
@@ -40,9 +25,9 @@ import SkLink from './SkLink.vue'
 
 <style scoped>
 /* A6 — the homepage is a calm editorial index into the three site pillars (Literatura / Filosofia /
-   Podcasts), not a marketing hero. A quiet left-aligned masthead (eyebrow -> wordmark -> subline,
-   reusing the PodcastShowHeader rhythm) sits over a hairline table-of-contents; tokens only, no cards,
-   no shadows. The single ink-blue accent is confined to the wordmark + pointer interaction. */
+   Vox Français), not a marketing hero. A quiet left-aligned masthead (wordmark -> subline) sits over
+   a hairline table-of-contents; tokens only, no cards, no shadows. The single ink-blue accent is
+   confined to the wordmark + pointer interaction. */
 .home-index {
   max-width: var(--sk-measure-lede);
   margin: 0 auto;
@@ -51,15 +36,6 @@ import SkLink from './SkLink.vue'
 
 .home-masthead {
   margin-bottom: var(--sk-space-7);
-}
-
-.home-masthead__eyebrow {
-  margin: 0 0 var(--sk-space-2);
-  font-size: var(--sk-text-2xs);
-  font-weight: 500;
-  letter-spacing: 0.05em;
-  text-transform: uppercase;
-  color: var(--sk-reading-muted);
 }
 
 .home-masthead__mark {

@@ -104,8 +104,8 @@ head:
               {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Podcasts",
-                "url": "https://skepvox.com/podcast/"
+                "name": "Vox Français",
+                "url": "https://skepvox.com/podcast/francais/"
               }
             ]
           },
