@@ -24,7 +24,7 @@ test.describe('mobile theme toggle', () => {
 
     await topSwitch.click()
     await expect(page.locator('html')).not.toHaveClass(/dark/)
-    await expect(page.locator('meta[name="theme-color"]')).toHaveAttribute('content', '#fcfcfa')
+    await expect(page.locator('meta[name="theme-color"]')).toHaveAttribute('content', '#f6f1e6')
 
     const overflow = await page.evaluate(
       () => document.documentElement.scrollWidth - document.documentElement.clientWidth

@@ -35,7 +35,7 @@
   --sk-icon-touch: var(--sk-reading-row);
   --sk-icon-stroke: 1.5;
   --sk-icon-stroke-dark: 1.75;
-  --sk-cue-active: rgba(181, 148, 84, 0.26);
+  --sk-cue-active: rgba(181, 148, 84, 0.4);
   --sk-cue-hover: rgba(33, 53, 71, 0.06);
 
   --sk-text-2xs: 0.75rem;
@@ -78,13 +78,11 @@
   --sk-text-faint: rgba(33, 53, 71, 0.42);
   --sk-rule: rgba(33, 53, 71, 0.1);
 
-  --sk-surface: #fcfcfa;
-  --sk-surface-raised: #f4f3ef;
-  --sk-surface-soft: #f8f7f3;
-  --sk-surface-overlay: #ffffff;
+  --sk-surface: #f6f1e6;
+  --sk-surface-raised: #efe9da;
+  --sk-surface-soft: #f2ece0;
+  --sk-surface-overlay: #fffdf8;
   --sk-border: rgba(45, 40, 30, 0.11);
-  --sk-paper: #f6f1e6;
-  --sk-paper-edge: rgba(45, 40, 30, 0.07);
   --vt-c-bg: var(--sk-surface);
   --vt-c-bg-soft: var(--sk-surface-raised);
   --vt-c-bg-mute: var(--sk-surface-soft);
@@ -132,8 +130,6 @@
   --sk-surface-soft: #1d1913;
   --sk-surface-overlay: #262019;
   --sk-border: rgba(237, 232, 223, 0.12);
-  --sk-paper: #201c14;
-  --sk-paper-edge: rgba(237, 232, 223, 0.08);
 
   --sk-accent: #8fb3df;
   --sk-accent-hover: #a6c4e8;
