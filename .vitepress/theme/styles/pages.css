@@ -1,10 +1,7 @@
-/* Hide the "Translations" card in the mobile nav sidebar */
 .VPNavBarLocaleScreen {
   display: none !important;
 }
 
-/* 768-1279px has no reachable theme toggle in @vue/theme (navbar switch hidden, nav-screen gone);
-   force-show the switch beside search across the sub-desktop range. */
 @media (max-width: 1279.98px) {
   .VPNavBar .VPNavBarAppearance {
     display: flex !important;
@@ -14,9 +11,6 @@
   }
 }
 
-/* Only phones hide the duplicate appearance card inside the open nav-screen overlay
-   (that overlay exists only <768px; at 768-1279px the top-bar switch above is the one
-   reachable control). */
 @media (max-width: 767.98px) {
   .VPNavScreen .VPNavScreenAppearance {
     display: none !important;
@@ -27,22 +21,15 @@
   }
 }
 
-/* Add back some space before the Appearance card */
 .VPNavScreenAppearance {
   margin-top: 16px;
 }
 
-/* Route the rented VPFooter surface back to the owned page base in both modes (it used a darker
-   --vt-c-bg-soft in light); the top border stays a quiet separator, not a filled band. */
 #app .VPFooter {
   border-top-color: var(--vt-c-divider);
   background-color: var(--vt-c-bg);
 }
 
-/* Bring the rented @vue/theme chrome onto the owned four-state interaction floor (hover/pressed/
-   focus/current) without forking it. Locked by tests/nav-interaction-states.spec.ts. */
-
-/* Route the rented chrome's focus ring onto the owned --sk-focus-ring (one focus language). */
 .VPNavBar :is(a, button):focus-visible,
 .VPSidebar a:focus-visible,
 .VPLocalNav button:focus-visible,
@@ -53,7 +40,6 @@
   border-radius: var(--sk-radius-sm);
 }
 
-/* >=44px hit area for the 40x22 appearance switch, grown centred within its own box. */
 .VPNavBar .VPNavBarAppearance .vt-switch::after {
   content: '';
   position: absolute;
@@ -64,10 +50,6 @@
   transform: translate(-50%, -50%);
 }
 
-/* @vue/theme's sidebar hover (`.link:hover .link-text { color: var(--vt-c-brand-text-1) }`) is
-   invalid (the token is undefined), so links get no hover feedback. Override via #VPSidebarNav (an id
-   selector that stably outranks the scoped rule), pointer-gated so a tap never sticks on mobile.
-   Locked by tests/nav-interaction-states.spec.ts. */
 @media (hover: hover) and (pointer: fine) {
   #VPSidebarNav .link:hover .link-text {
     color: var(--sk-text);
@@ -105,17 +87,6 @@
   font-size: 22px;
   line-height: 1.28;
   letter-spacing: -0.025em;
-}
-
-.vt-doc h2::before,
-.vp-doc h2::before {
-  content: '';
-  display: block;
-  width: 2rem;
-  height: 2px;
-  margin-bottom: 0.75rem;
-  border-radius: 999px;
-  background-color: var(--sk-reading-accent);
 }
 
 .vt-doc h3,
@@ -168,8 +139,6 @@
   }
 }
 
-/* Book chapter prose only: .VPContentDoc:not(.has-aside) is the leaf reading layout, which
-   excludes card hubs, work hubs, and podcast episode pages (they keep their own typography). */
 .VPContentDoc:not(.has-aside) .vt-doc {
   max-width: var(--sk-reading-measure);
   margin-inline: auto;
@@ -184,23 +153,37 @@
   margin-top: var(--sk-reading-heading-space);
 }
 
-/* Pipeline pt reading-leaf prose: the 17px prose bump, scoped to pipeline leaves via .pseg-head. */
 .VPContentDoc:has(.pseg-head) .vt-doc :is(p, li, blockquote, dd) {
   font-size: var(--sk-reading-prose);
 }
 
-/* Self-hosted Literata on the running book prose only; chrome stays UI sans. */
+.VPContentDoc:not(.has-aside):has(.pseg-head) .content {
+  display: flex;
+  flex-direction: column;
+  min-height: calc(100vh - 13rem);
+  min-height: calc(100svh - 13rem);
+  padding: var(--sk-space-7) clamp(1.15rem, 4vw, 2.25rem) var(--sk-space-6);
+  background-color: var(--sk-paper);
+  border-top: 1px solid var(--sk-paper-edge);
+  border-inline-start: 1px solid var(--sk-spine);
+}
+
+.VPContentDoc:not(.has-aside):has(.pseg-head) .content > * {
+  width: 100%;
+}
+
+.VPContentDoc:not(.has-aside):has(.pseg-head) .content > main {
+  flex: 1 0 auto;
+}
+
 .VPContentDoc:not(.has-aside) .vt-doc :is(p, li, blockquote, dd) {
   font-family: var(--sk-reading-font);
 }
 
-/* Book prose bold pins the real Literata 700. */
 .VPContentDoc:not(.has-aside) .vt-doc :is(p, li, blockquote, dd) :is(strong, b) {
   font-weight: 700;
 }
 
-/* Demote the generated body back-link (the first paragraph of a chapter reading layout) to a quiet
-   muted escape hatch; pipeline pt leaves (:has(.pseg-head)) are excluded — their first element is prose. */
 .VPContentDoc:not(.has-aside):not(:has(.pseg-head)) .vt-doc > div > p:first-child {
   margin-bottom: 1rem;
   font-size: 0.9rem;

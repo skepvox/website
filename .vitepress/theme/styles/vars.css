@@ -5,53 +5,39 @@
   --vp-code-tab-hover-text-color: var(--vt-c-text-inverse-1);
   --vp-code-tab-bg: #292d3ef0;
   --vp-code-block-bg: #292d3ef0;
-  /* Reading-prose color tokens are now compatibility aliases of the semantic color
-     layer defined below (Slice 1C-i). Same rendered values; existing consumers keep
-     working unchanged. */
+
   --sk-reading-heading: var(--sk-text);
   --sk-reading-body: var(--sk-text-body);
   --sk-reading-muted: var(--sk-text-muted);
   --sk-reading-rule: var(--sk-rule);
   --sk-reading-accent: var(--sk-accent-soft);
-  /* Reading rhythm (theme-independent); applied to book chapter prose in pages.css. */
+
   --sk-reading-measure: 35rem;
   --sk-reading-line-height: 1.75;
   --sk-reading-para-space: 1.4em;
   --sk-reading-heading-space: 3rem;
   --sk-reading-font: 'Literata', Georgia, 'Times New Roman', serif;
-  /* Reader-shell semantic type vocabulary (Slice A). These ALIAS the existing --sk-text-* scale +
-     colour ramp (with one off-rung display title), so the reading shell has its own names without a
-     parallel modular scale; aliasing means they flip in dark mode automatically. */
-  --sk-reading-title: 1.875rem; /* hub/leaf masthead — the one off-rung display size */
-  --sk-reading-title-font: var(
-    --sk-reading-font
-  ); /* Slice D: serif (Literata) — the hub title now reads bookish + continuous with the reading prose */
-  --sk-reading-kicker: 0.8125rem; /* part label + leaf chapter kicker (one small-caps family) */
+
+  --sk-reading-title: 1.875rem;
+  --sk-reading-title-font: var(--sk-reading-font);
+  --sk-reading-kicker: 0.8125rem;
   --sk-reading-kicker-tracking: 0.07em;
-  --sk-reading-row: 0.9375rem; /* chapter disclosure + segment rows + nav titles */
-  --sk-reading-segtitle: 1rem; /* leaf segment title */
-  --sk-reading-prose: 1.0625rem; /* reading-leaf body (today implicit 1rem) */
-  --sk-reading-current: var(--sk-accent); /* the one structural accent — the current-marker bar */
-  --sk-reading-hairline: var(--sk-rule); /* semantic name for the hairline language */
-  /* The vertical reading-spine: one owned line that replaces the full-width per-row hairlines so a
-     contents list reads as a bound volume's edge, not a table. --sk-spine inherits the hairline ink
-     and --sk-spine-tick the structural accent, so both flip in dark automatically. */
+  --sk-reading-row: 0.9375rem;
+  --sk-reading-segtitle: 1rem;
+  --sk-reading-prose: 1.0625rem;
+  --sk-reading-current: var(--sk-accent);
+  --sk-reading-hairline: var(--sk-rule);
+
   --sk-spine: var(--sk-rule);
   --sk-spine-tick: var(--sk-accent);
-  /* Owned reader-icon vocabulary (Slice C1). Consumed by the ReaderIcon wrapper; no consumer wired
-     yet. The stroke is rendered with vector-effect:non-scaling-stroke so the value is a constant
-     VISUAL px (1.5px) at any glyph size, per the assessment's "1.5px calm hairline" target. */
-  --sk-icon-size: 1em; /* chrome glyph box — rides the adjacent label's font-size */
-  --sk-icon-touch: var(--sk-reading-row); /* 15px — reserved for a future icon-only control */
-  --sk-icon-stroke: 1.5; /* the calm bookish hairline (NOT lucide's default 2) */
-  --sk-icon-stroke-dark: 1.75; /* dormant dark escape hatch — defined, NOT applied (see assessment §2.4) */
-  --sk-cue-active: rgba(181, 148, 84, 0.26); /* muted antique gold "now playing" wash */
-  --sk-cue-hover: rgba(33, 53, 71, 0.06); /* neutral pre-click affordance */
 
-  /* --- skepvox semantic tokens (Slice 1A, additive). Surfaces migrate onto these in
-     a later slice; defining them here changes nothing on its own. --- */
+  --sk-icon-size: 1em;
+  --sk-icon-touch: var(--sk-reading-row);
+  --sk-icon-stroke: 1.5;
+  --sk-icon-stroke-dark: 1.75;
+  --sk-cue-active: rgba(181, 148, 84, 0.26);
+  --sk-cue-hover: rgba(33, 53, 71, 0.06);
 
-  /* Type scale (rem). */
   --sk-text-2xs: 0.75rem;
   --sk-text-xs: 0.8125rem;
   --sk-text-sm: 0.9375rem;
@@ -63,7 +49,6 @@
   --sk-text-3xl: 2.25rem;
   --sk-masthead: clamp(1.85rem, 4vw, 2.25rem);
 
-  /* Spacing scale. */
   --sk-space-1: 0.25rem;
   --sk-space-2: 0.5rem;
   --sk-space-3: 0.75rem;
@@ -72,87 +57,59 @@
   --sk-space-6: 2rem;
   --sk-space-7: 3rem;
 
-  /* Motion: durations + one shared easing. Motion confirms state, never decorates. */
   --sk-motion-fast: 150ms;
   --sk-motion-base: 200ms;
   --sk-ease: cubic-bezier(0.4, 0, 0.2, 1);
 
-  /* Focus ring (a11y floor): the existing 2px brand ring, tokenised so every
-     interactive surface shares one definition. In 1C-i, --sk-accent still
-     aliases today's rendered green. */
   --sk-focus-ring: 2px solid var(--sk-accent);
   --sk-focus-offset: 3px;
 
-  /* Corner radii. */
   --sk-radius-sm: 6px;
   --sk-radius-md: 10px;
   --sk-radius-lg: 12px;
 
-  /* Reading measure tiers. Prose tracks the existing reading measure. */
   --sk-measure-prose: var(--sk-reading-measure);
   --sk-measure-lede: 42rem;
 
-  /* —— Semantic color layer (Slice 1C-i): owned names aliasing today's rendered
-     values. The final skepvox palette is chosen in 1C-ii; this slice changes no
-     pixels. --sk-ink / --sk-cue are channel triples for future alpha derivation. —— */
-  --sk-ink: 33 53 71; /* #213547 — the reading ink */
-  --sk-text: #213547; /* ink (= --vt-c-indigo); literal so --vt-c-text-1 can route through it */
+  --sk-ink: 33 53 71;
+  --sk-text: #213547;
   --sk-text-body: rgba(33, 53, 71, 0.86);
-  --sk-text-muted: rgba(
-    33,
-    53,
-    71,
-    0.68
-  ); /* bumped from .62 → ~4.7:1 on white (AA at small label sizes) */
-  --sk-text-faint: rgba(33, 53, 71, 0.42); /* decorative separators only (aria-hidden) */
+  --sk-text-muted: rgba(33, 53, 71, 0.68);
+  --sk-text-faint: rgba(33, 53, 71, 0.42);
   --sk-rule: rgba(33, 53, 71, 0.1);
-  /* Owned surface system (Slice 1C-iii). Literal warm-neutral values; the @vue/theme
-     surface tokens are routed through these so the whole shell — body, nav, sidebar,
-     aside, cards, search — follows one owned system instead of docs surfaces. */
-  --sk-surface: #fcfcfa; /* page base — quiet warm white, not clinical pure #fff */
-  --sk-surface-raised: #f4f3ef; /* cards / soft panels */
-  --sk-surface-soft: #f8f7f3; /* subtle fill between base and raised */
-  --sk-surface-overlay: #ffffff; /* elevated (search modal) — pops above the warm base */
-  --sk-border: rgba(45, 40, 30, 0.11); /* soft warm hairline for surfaces */
+
+  --sk-surface: #fcfcfa;
+  --sk-surface-raised: #f4f3ef;
+  --sk-surface-soft: #f8f7f3;
+  --sk-surface-overlay: #ffffff;
+  --sk-border: rgba(45, 40, 30, 0.11);
+  --sk-paper: #f6f1e6;
+  --sk-paper-edge: rgba(45, 40, 30, 0.07);
   --vt-c-bg: var(--sk-surface);
   --vt-c-bg-soft: var(--sk-surface-raised);
   --vt-c-bg-mute: var(--sk-surface-soft);
   --vt-c-divider: var(--sk-border);
   --vt-c-divider-light: var(--sk-border);
-  --vt-c-text-1: var(--sk-text); /* route @vue/theme text to the owned ink → warm ivory in dark */
+  --vt-c-text-1: var(--sk-text);
   --vt-c-text-2: var(--sk-text-muted);
-  --sk-accent: #2f4a6b; /* skepvox ink-blue (assessment Direction A) */
+  --sk-accent: #2f4a6b;
   --sk-accent-hover: #233a57;
   --sk-accent-soft: rgb(47 74 107 / 0.16);
   --sk-accent-contrast: #ffffff;
-  /* The horse+rider navbar mark — ink-blue on light. A dedicated token (not ambient
-     currentColor) so the mark never inherits the surrounding link's hover/active colour.
-     The legacy green #42b883 stays only inside logo.svg (favicon/provenance), never shown
-     in the nav. */
+
   --sk-brand-mark: #2f4a6b;
-  /* Route @vue/theme's brand token through the owned accent so inherited green islands
-     (nav-active state, local-search highlight, prose links) follow the skepvox accent
-     in one place. The live podcast cue uses --sk-cue (a muted gold), kept separate. */
+
   --vt-c-brand: var(--sk-accent);
-  /* Route @vue/theme's remaining green/brand-shade family through the owned accent.
-     --vt-c-brand is routed above; these are the leftover unrouted leaks that otherwise
-     still paint legacy Vue green in rented chrome: the skip link + outline active-marker
-     (var(--vt-c-green)), the search Cmd+K-key hover (var(--vt-c-brand-light)), and the
-     doc-pager title hover (var(--vt-c-brand-highlight) -> brand-dark/-light). The
-     #42b883 / #42d392 / #33a06f literals live only in @vue/theme's base --vt-c-green*
-     tokens (and logo.svg), so routing here recolours every consumer with no node_modules
-     edit. Declared once in :root; they resolve to the dark accent inside .dark
-     automatically — the same mechanism as --vt-c-brand. */
+
   --vt-c-green: var(--sk-accent);
   --vt-c-green-light: var(--sk-accent-hover);
   --vt-c-green-dark: var(--sk-accent-hover);
   --vt-c-brand-light: var(--sk-accent-hover);
   --vt-c-brand-dark: var(--sk-accent-hover);
   --vt-c-brand-highlight: var(--sk-accent-hover);
-  --sk-cue: 181 148 84; /* muted antique gold — the live-audio "now playing" hue,
-     warm against the cool ink-blue accent; kept distinct from brand and from warnings */
-  --sk-link: var(--sk-text-body); /* prose links read as ink… */
-  --sk-link-line: rgb(47 74 107 / 0.45); /* …with a quiet accent underline */
+  --sk-cue: 181 148 84;
+  --sk-link: var(--sk-text-body);
+  --sk-link-line: rgb(47 74 107 / 0.45);
   --sk-link-hover: var(--sk-accent);
 }
 
@@ -162,32 +119,27 @@
   --vp-code-tab-active-text-color: var(--vt-c-text-1);
   --vp-code-tab-bg: var(--vt-c-black-mute);
   --vp-code-block-bg: var(--vt-c-black-mute);
-  /* Dark ink: warm ivory (not pure white) over the warm deep surfaces below. */
+
   --sk-ink: 237 232 223;
   --sk-text: rgba(237, 232, 223, 0.92);
   --sk-text-body: rgba(237, 232, 223, 0.82);
   --sk-text-muted: rgba(237, 232, 223, 0.62);
   --sk-text-faint: rgba(237, 232, 223, 0.46);
   --sk-rule: rgba(237, 232, 223, 0.1);
-  /* Warm, deep, restrained dark surfaces (the 1C-iii goal): reading by lamplight, not a
-     terminal. The routed --vt-c-bg/-soft/-mute/divider follow these in dark too. */
-  --sk-surface: #181510; /* warm deep near-black base */
-  --sk-surface-raised: #211d16; /* restrained warm lift for cards */
+
+  --sk-surface: #181510;
+  --sk-surface-raised: #211d16;
   --sk-surface-soft: #1d1913;
-  --sk-surface-overlay: #262019; /* elevated modal */
-  --sk-border: rgba(237, 232, 223, 0.12); /* soft warm border */
-  /* Lifted ink-blue for the still-dark surfaces (1C-iii will warm the bg): readable,
-     not neon. The brand token follows --sk-accent, so it lifts in dark too. */
+  --sk-surface-overlay: #262019;
+  --sk-border: rgba(237, 232, 223, 0.12);
+  --sk-paper: #201c14;
+  --sk-paper-edge: rgba(237, 232, 223, 0.08);
+
   --sk-accent: #8fb3df;
   --sk-accent-hover: #a6c4e8;
   --sk-accent-soft: rgb(143 179 223 / 0.2);
-  --sk-brand-mark: rgba(
-    237,
-    232,
-    223,
-    0.92
-  ); /* warm ivory mark on dark, matching the reading ink */
-  --sk-cue-active: rgba(199, 166, 99, 0.34); /* lifted gold, readable on the dark bg */
+  --sk-brand-mark: rgba(237, 232, 223, 0.92);
+  --sk-cue-active: rgba(199, 166, 99, 0.34);
   --sk-cue-hover: rgba(255, 255, 255, 0.08);
   --sk-reading-heading: var(--sk-text);
   --sk-reading-body: var(--sk-text-body);

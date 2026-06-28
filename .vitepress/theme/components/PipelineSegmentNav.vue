@@ -13,12 +13,6 @@ import {
   trechoHref
 } from './reader-shell'
 
-// Owned prev/next/up navigation for the LIVE public pipeline pt segment leaves
-// (src/pt/filosofia/louis-lavelle/introducao-a-ontologia/<leaf>.md). Injected via the theme content slots, so the
-// page bodies are untouched. It renders ONLY on pages carrying the generated marker
-// `pipeline-segment-routes` (not by route parsing) and joins pipeline-export-segments.json by
-// (canonicalId, language) — never by routePath (routePath is presentation, used only as the href).
-// It never crosses edition/language: prev/next are the order-adjacent records of the SAME language.
 const props = defineProps<{ placement: 'top' | 'bottom' }>()
 
 interface Level {
@@ -41,20 +35,13 @@ const { frontmatter } = useData()
 const isPipelineLeaf = computed(() => frontmatter.value.generated === 'pipeline-segment-routes')
 const canonicalId = computed(() => frontmatter.value.pipelineCanonicalId as string)
 const lang = computed(() => frontmatter.value.pipelineLanguage as string)
-// workId = canonicalId minus the segmentPrefix leaf — the per-work filter, so prev/next stay within ONE
-// work (multi-work artifact, B2) and never jump across books that share a language.
 const workId = computed(() => canonicalId.value?.split('/').slice(0, -1).join('/'))
 
-// Owned visible + aria labels, language-keyed from the shared reader-shell module (no pt hard-code;
-// fr/en inherit from the data via pipelineLanguage).
 const navAriaLabel = computed(() => segNavLabelFor(lang.value))
 const prevText = computed(() => prevLabelFor(lang.value))
 const nextText = computed(() => nextLabelFor(lang.value))
 const upText = computed(() => navLabelFor(lang.value))
 
-// Same-work, same-language edition, ordered by `order` — the canonical reading sequence. Filtering by
-// (workId, language) guarantees prev/next never cross works or editions (no other book, no fr routes,
-// no old chapter routes).
 const edition = computed<Seg[]>(() =>
   isPipelineLeaf.value
     ? (meta.segments as Seg[])
@@ -71,9 +58,7 @@ const next = computed<Seg | null>(() =>
   index.value >= 0 && index.value < edition.value.length - 1 ? edition.value[index.value + 1] : null
 )
 
-const href = (s: Seg) => segmentHref(s.routePath) // routePath = presentation (the public URL), not identity
-// The "up" link carries the current trecho so the hub can open + highlight that chapter on return
-// (#trecho-<segmentPrefix>). URL-only, no stored reading progress. Hub href derived from routePath.
+const href = (s: Seg) => segmentHref(s.routePath)
 const upHref = computed(() =>
   current.value ? trechoHref(current.value.routePath, current.value.segmentPrefix) : '/'
 )
@@ -122,12 +107,9 @@ const upHref = computed(() =>
 </template>
 
 <style scoped>
-/* prev/next "continuar a leitura" footer + an up link to the work index, aligned to the column. */
 .pseg-nav {
   max-width: var(--sk-reading-measure, 35rem);
-  margin: 2.75rem auto 0;
-  padding-top: 1.25rem;
-  border-top: 1px solid var(--sk-reading-rule);
+  margin: 3.25rem auto 0;
 }
 .pseg-nav__row {
   display: flex;
@@ -149,9 +131,7 @@ const upHref = computed(() =>
 .pseg-nav__spacer {
   flex: 0 1 48%;
 }
-/* The direction label + its owned chevron, aligned as one quiet row. The chevron rides ~1 step
-   above the tiny dir label so it reads as a clear directional mark; the gap/alignment live on this
-   wrapper (never on the icon). The icon inherits the dir's muted ink via currentColor. */
+
 .pseg-nav__dir {
   display: flex;
   align-items: center;
@@ -179,8 +159,7 @@ const upHref = computed(() =>
   margin: 1.1rem 0 0;
   font-size: 0.72rem;
 }
-/* "Sumário" is navigation: it shares the same uppercase nav-label vocabulary as the Anterior / Próximo
-   direction labels (same size/weight/tracking/case), kept on its own row below the prev/next pair. */
+
 .pseg-nav__up-link {
   display: inline-flex;
   align-items: center;
@@ -194,8 +173,6 @@ const upHref = computed(() =>
   transition: color 0.18s ease;
 }
 
-/* Four-state floor: the visible hover lift applies only on real pointer devices, so an iOS tap never
-   sticks the hover state. Keyboard focus + neutral pressed/touch are owned by SkLink. */
 @media (hover: hover) and (pointer: fine) {
   .pseg-nav__link:hover .pseg-nav__title,
   .pseg-nav__up-link:hover {
