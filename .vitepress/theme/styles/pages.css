@@ -3,13 +3,8 @@
   display: none !important;
 }
 
-/* Bridge while we still use @vue/theme chrome. @vue/theme shows the navbar appearance
-   switch only at >=1280px, but its other home — the hamburger nav-screen — is gone at
-   >=768px and the drawer carries no toggle, so 768-1279px had NO reachable theme toggle
-   at all (a dead band between desktop and mobile chrome). Force-show the existing
-   switch beside search across the whole sub-desktop range; the theme's own >=1280px rule
-   covers desktop above (the sub-pixel gap at 1280px is negligible). Focus styling for the
-   switch now comes from the shared chrome :focus-visible block below, at all widths. */
+/* 768-1279px has no reachable theme toggle in @vue/theme (navbar switch hidden, nav-screen gone);
+   force-show the switch beside search across the sub-desktop range. */
 @media (max-width: 1279.98px) {
   .VPNavBar .VPNavBarAppearance {
     display: flex !important;
@@ -37,31 +32,17 @@
   margin-top: 16px;
 }
 
-/* H5 — rented @vue/theme footer harmony. VPFooter uses --vt-c-bg-soft in light and --vt-c-bg in dark,
-   which made the homepage end in a darker unrelated band only in light mode. Keep the rented footer,
-   but route its surface back to the owned page base in both modes; the top border remains a quiet
-   separator rather than a filled footer block. */
+/* Route the rented VPFooter surface back to the owned page base in both modes (it used a darker
+   --vt-c-bg-soft in light); the top border stays a quiet separator, not a filled band. */
 #app .VPFooter {
   border-top-color: var(--vt-c-divider);
   background-color: var(--vt-c-bg);
 }
 
-/* ======================================================================
-   Navigation interaction-state floor on the rented @vue/theme chrome.
+/* Bring the rented @vue/theme chrome onto the owned four-state interaction floor (hover/pressed/
+   focus/current) without forking it. Locked by tests/nav-interaction-states.spec.ts. */
 
-   The owned surfaces already keep four interaction states distinct and
-   non-conflicting: HOVER only under @media (hover: hover) and (pointer: fine);
-   PRESSED via :active (never inheriting hover); KEYBOARD FOCUS via
-   --sk-focus-ring / :focus-visible; CURRENT ROUTE via an explicit active class /
-   aria-current. These rules bring the rented chrome onto the same floor without
-   forking it (no node_modules edit, no patch). Locked by tests/nav-interaction-states.spec.ts.
-   ====================================================================== */
-
-/* One focus language. --sk-focus-ring sits on every OWNED interactive element,
-   so the chrome's fall-through to the browser's native button:focus ring read as a
-   second focus visual. Route the chrome onto the owned ring. Specificity:
-   .VPNavBar :is(a, button):focus-visible = (0,2,1) beats base.css button:focus-visible
-   = (0,1,1); anchors have no competing UA rule. */
+/* Route the rented chrome's focus ring onto the owned --sk-focus-ring (one focus language). */
 .VPNavBar :is(a, button):focus-visible,
 .VPSidebar a:focus-visible,
 .VPLocalNav button:focus-visible,
@@ -72,10 +53,7 @@
   border-radius: var(--sk-radius-sm);
 }
 
-/* Touch target (standard: nav controls >= 44px). The appearance switch pill is 40x22;
-   add a >=44px hit area that grows within the switch's own box (centred), never leftward
-   into the nav menu. .vt-switch is position:relative with no clipping overflow, so the
-   ::after expands the clickable area without a visual change. */
+/* >=44px hit area for the 40x22 appearance switch, grown centred within its own box. */
 .VPNavBar .VPNavBarAppearance .vt-switch::after {
   content: '';
   position: absolute;
@@ -86,24 +64,10 @@
   transform: translate(-50%, -50%);
 }
 
-/* Sidebar hover repair — DOCUMENTED SHELL STANDARD (not a one-off override).
-   - @vue/theme selector: VPSidebarLink.vue (scoped) `.link:hover .link-text { color:
-     var(--vt-c-brand-text-1) }`. --vt-c-brand-text-1 is defined NOWHERE in @vue/theme or
-     skepvox, so the declaration is invalid at computed-value time: desktop sidebar links
-     get NO hover feedback, and a nav affordance you cannot distinguish on hover from its
-     resting state is a state-confusion gap we want the shell to forbid.
-   - Project-side override: `#VPSidebarNav .link:hover .link-text { color: var(--sk-text) }`,
-     gated to pointer devices so a tap never sticks a hover on the mobile drawer.
-   - Why the specificity is STABLE (not a fragile tie): #VPSidebarNav is the id @vue/theme
-     assigns to the sidebar <nav> (VPSidebar.vue:32). An ID selector (1,0,0) strictly
-     outranks the scoped class+attribute selector (~0,4,0) regardless of source order,
-     build order, or scoped-hash changes — no source-order tie-break is relied upon.
-   - Four states stay distinct: resting = --vt-c-text-2 (muted); hover = --sk-text (a lift
-     toward full ink); current route = --sk-accent ink-blue (.link.active, unchanged);
-     focus = the ring above.
-   - Locked by tests/nav-interaction-states.spec.ts (asserts the #VPSidebarNav override
-     ships, is pointer-gated, and that hover != active colour). If @vue/theme ever renames
-     the nav id, that test fails loudly rather than letting the hover silently regress. */
+/* @vue/theme's sidebar hover (`.link:hover .link-text { color: var(--vt-c-brand-text-1) }`) is
+   invalid (the token is undefined), so links get no hover feedback. Override via #VPSidebarNav (an id
+   selector that stably outranks the scoped rule), pointer-gated so a tap never sticks on mobile.
+   Locked by tests/nav-interaction-states.spec.ts. */
 @media (hover: hover) and (pointer: fine) {
   #VPSidebarNav .link:hover .link-text {
     color: var(--sk-text);
@@ -204,12 +168,8 @@
   }
 }
 
-/* Reading edition — book chapter prose only. .VPContentDoc:not(.has-aside) is the
-   leaf reading layout (sidebar/aside/outline all false). This deliberately EXCLUDES
-   card hubs and work hubs (has-sidebar + has-aside) and podcast episode pages
-   (outline: 2 -> has-aside), so CardGrid and the podcast transcript / cue spans keep
-   their own typography. The 688px column lives in the patched @vue/theme
-   VPContentDoc.vue; we cap the inner .vt-doc from the project side, never the patch. */
+/* Book chapter prose only: .VPContentDoc:not(.has-aside) is the leaf reading layout, which
+   excludes card hubs, work hubs, and podcast episode pages (they keep their own typography). */
 .VPContentDoc:not(.has-aside) .vt-doc {
   max-width: var(--sk-reading-measure);
   margin-inline: auto;
@@ -224,35 +184,23 @@
   margin-top: var(--sk-reading-heading-space);
 }
 
-/* —— Pipeline pt reading-leaf prose ——
-   The chapter `##` and segment `###` headings are now OWNED chrome (PipelineReaderHeader renders them
-   as real <h2>/<h3>, hoisted out of the prose by the website generator), so the leaf body carries no
-   heading event at all — only running prose. The single remaining reading-leaf rule is the calm 17px
-   prose bump, scoped to pipeline leaves via the owned header (.pseg-head) so legacy literatura /
-   Lavelle full-text reading pages are untouched. */
+/* Pipeline pt reading-leaf prose: the 17px prose bump, scoped to pipeline leaves via .pseg-head. */
 .VPContentDoc:has(.pseg-head) .vt-doc :is(p, li, blockquote, dd) {
   font-size: var(--sk-reading-prose);
 }
 
-/* Reading text face: self-hosted Literata on the running book prose only. Headings,
-   the back-link, ReadingNav, and all chrome stay in the UI sans (controlled). */
+/* Self-hosted Literata on the running book prose only; chrome stays UI sans. */
 .VPContentDoc:not(.has-aside) .vt-doc :is(p, li, blockquote, dd) {
   font-family: var(--sk-reading-font);
 }
 
-/* Book prose bold uses the real Literata 700 (the theme's 650 weight would map to it
-   anyway, but pin it so a bold proposition number is unambiguously the 700 face). */
+/* Book prose bold pins the real Literata 700. */
 .VPContentDoc:not(.has-aside) .vt-doc :is(p, li, blockquote, dd) :is(strong, b) {
   font-weight: 700;
 }
 
-/* Demote the generated body back-link to a quiet escape hatch — smaller, muted (not
-   brand green), compact — so the chapter title stays dominant. Scoped to the chapter
-   reading layout and the FIRST direct paragraph of the content wrapper, which is only
-   the generated "[Voltar ao livro]" / "[Retour au livre]" link: never in-prose links,
-   blockquote paragraphs, hubs, work hubs, podcast, or home. CSS only; the link stays
-   functional and visible. Pipeline pt leaves (:has(.pseg-head)) are EXCLUDED — their
-   first body element is prose, not a back-link, so it must keep the full reading face. */
+/* Demote the generated body back-link (the first paragraph of a chapter reading layout) to a quiet
+   muted escape hatch; pipeline pt leaves (:has(.pseg-head)) are excluded — their first element is prose. */
 .VPContentDoc:not(.has-aside):not(:has(.pseg-head)) .vt-doc > div > p:first-child {
   margin-bottom: 1rem;
   font-size: 0.9rem;
@@ -332,17 +280,24 @@
 
 .vt-doc .lavelle-portrait,
 .vt-doc .author-portrait {
-  width: 100%;
-  border-radius: 10px;
-  margin: 12px 0 24px;
-  background-color: var(--vt-c-bg-soft);
-  border: 1px solid var(--vt-c-divider-light);
-  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.08);
+  display: block;
+  width: 132px;
+  height: auto;
+  border-radius: var(--sk-radius-sm);
+  margin: var(--sk-space-5) 0 var(--sk-space-3);
+  border: 1px solid var(--sk-border);
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.08);
 }
 
 .dark .vt-doc .lavelle-portrait,
 .dark .vt-doc .author-portrait {
-  border-color: var(--vt-c-divider-light);
-  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.28);
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.3);
   filter: grayscale(1);
+}
+
+.vt-doc .author-meta {
+  margin: 0 0 var(--sk-space-6);
+  font-size: var(--sk-text-sm);
+  line-height: 1.5;
+  color: var(--sk-text-muted);
 }

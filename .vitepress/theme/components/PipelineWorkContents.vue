@@ -104,7 +104,13 @@ interface FlatEntry {
   title: string
 }
 type LooseBlock = { type: 'loose'; key: string; segments: Seg[] }
-type PartBlock = { type: 'part'; key: string; heading: string; chapters: Chapter[] }
+type PartBlock = {
+  type: 'part'
+  key: string
+  label: string
+  title: string | null
+  chapters: Chapter[]
+}
 type FlatBlock = { type: 'flat'; key: string; entries: FlatEntry[] }
 type ChaptersDividerBlock = { type: 'chapters-divider'; key: string; heading: string }
 type DivisionBlock = {
@@ -161,7 +167,8 @@ const blocks = computed<Block[]>(() => {
         group = {
           type: 'part',
           key: part.key,
-          heading: part.label + (part.title ? ` — ${part.title}` : ''),
+          label: part.label,
+          title: part.title,
           chapters: []
         }
         out.push(group)
@@ -366,7 +373,10 @@ onMounted(() => {
         </div>
 
         <section v-else class="pwc__part">
-          <p class="pwc__part-heading">{{ block.heading }}</p>
+          <p class="pwc__part-heading">
+            <span class="pwc__part-label">{{ block.label }}</span>
+            <span v-if="block.title" class="pwc__part-title">{{ block.title }}</span>
+          </p>
           <div v-for="ch in block.chapters" :key="ch.key" class="pwc__chapter">
             <button
               class="pwc__chapter-heading"
@@ -465,12 +475,11 @@ onMounted(() => {
   padding: 0 0 0.5rem;
 }
 
-.pwc__part-heading,
 .pwc__chapters-heading {
   display: flex;
   align-items: center;
   gap: 0.75rem;
-  margin: 2rem 0 0.35rem;
+  margin: 1.5rem 0 0.35rem;
   font-size: var(--sk-reading-kicker);
   font-weight: 650;
   letter-spacing: var(--sk-reading-kicker-tracking);
@@ -478,8 +487,24 @@ onMounted(() => {
   line-height: 1.3;
   color: var(--sk-text);
 }
-.pwc__chapters-heading {
-  margin-top: 1.5rem;
+
+.pwc__part-heading {
+  margin: 2rem 0 0.5rem;
+  line-height: 1.3;
+  color: var(--sk-text);
+}
+.pwc__part-label {
+  font-size: var(--sk-reading-kicker);
+  font-weight: 650;
+  letter-spacing: var(--sk-reading-kicker-tracking);
+  text-transform: uppercase;
+}
+.pwc__part-title {
+  display: block;
+  margin-top: 0.15rem;
+  font-size: var(--sk-reading-row);
+  font-weight: 400;
+  color: var(--sk-text-muted);
 }
 
 .pwc__chapter-heading {

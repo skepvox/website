@@ -44,7 +44,7 @@ test.describe('card component consolidation', () => {
     )
     const inheritedHoverReset = source.indexOf('.card-grid__link:hover,\n.card-grid__link:active')
     const hoverMedia = source.indexOf('@media (hover: hover) and (pointer: fine)')
-    const visualHoverRule = source.indexOf('border-color: var(--sk-accent)')
+    const visualHoverRule = source.indexOf('color: var(--sk-accent)')
     expect(inheritedHoverReset).toBeGreaterThan(-1)
     expect(source).toMatch(
       /\.card-grid__link:hover,\s*\.card-grid__link:active\s*{[^}]*color:\s*inherit;/s

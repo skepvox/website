@@ -83,7 +83,6 @@ test.describe('a11y floor', () => {
       '--sk-space-',
       '--sk-motion-',
       '--sk-radius-',
-      '--sk-card-',
       '--sk-measure-prose:',
       '--sk-measure-lede:'
     ]) {
@@ -97,7 +96,6 @@ test.describe('a11y floor', () => {
       'var(--sk-text-',
       'var(--sk-space-',
       'var(--sk-motion-base)',
-      'var(--sk-card-radius)',
       'var(--sk-masthead)',
       'var(--sk-measure-lede)'
     ]) {

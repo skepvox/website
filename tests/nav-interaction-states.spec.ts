@@ -26,8 +26,8 @@ function hoverIsPointerGated(source: string, signatureHoverDecl: string): boolea
 // and all wrap their anchor in the SkLink primitive, which owns the keyboard focus ring +
 // neutral pressed/touch state (card-sized surfaces tune --sk-link-focus-radius).
 const OWNED = [
-  { file: 'components/CardGrid.vue', hover: 'border-color: var(--sk-accent)' },
-  { file: 'components/Home.vue', hover: 'transform: scaleY(1)' },
+  { file: 'components/CardGrid.vue', hover: 'color: var(--sk-accent)' },
+  { file: 'components/Home.vue', hover: 'color: var(--sk-accent)' },
   { file: 'components/PodcastShowHeader.vue', hover: 'border-bottom-color: var(--sk-accent)' },
   { file: 'components/PipelineSegmentNav.vue', hover: 'color: var(--sk-reading-heading)' },
   { file: 'components/PodcastEpisodeNav.vue', hover: 'color: var(--sk-reading-heading)' }

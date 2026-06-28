@@ -88,13 +88,6 @@
   --sk-radius-md: 10px;
   --sk-radius-lg: 12px;
 
-  /* Card primitive (references theme tokens for now, so it flips in dark mode). */
-  --sk-card-radius: var(--sk-radius-lg);
-  --sk-card-border: 1px solid var(--vt-c-divider, #e2e2e3);
-  --sk-card-bg: var(--vt-c-bg-soft, #f6f6f7);
-  --sk-card-bg-hover: var(--vt-c-bg, #ffffff);
-  --sk-card-pad: 1.25rem;
-
   /* Reading measure tiers. Prose tracks the existing reading measure. */
   --sk-measure-prose: var(--sk-reading-measure);
   --sk-measure-lede: 42rem;

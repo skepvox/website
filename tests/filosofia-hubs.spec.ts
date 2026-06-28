@@ -83,7 +83,8 @@ test.describe('filosofia hubs', () => {
     const h = html(AUTHOR)
     expect(h).toContain(`href="${WORK_HUB}"`)
     expect(h).toContain('Introdução à ontologia') // displayed work title (the pipeline-sourced card)
-    expect(h).not.toContain('<p>Saint-Martin-de-Villeréal, França · 1883–1951 †</p>')
+    expect(h).toContain('class="author-meta"') // compact life/place metadata line
+    expect(h).toContain('Saint-Martin-de-Villeréal, França · 1883–1951 †')
     expect(h).toContain(`<link rel="canonical" href="${ORIGIN}${AUTHOR}">`)
     expect(h.includes('href="/louis-lavelle/introducao-a-ontologia')).toBe(false) // no old-route leak
   })

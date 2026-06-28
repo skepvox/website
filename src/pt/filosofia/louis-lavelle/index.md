@@ -62,7 +62,6 @@ head:
 import CardGrid from '@theme/components/CardGrid.vue'
 import { filosofiaWorkCards } from '@theme/components/filosofia-cards'
 
-// Work cards sourced from pipeline-export metadata (route + title), never from a works.json.
 const works = filosofiaWorkCards('louis-lavelle')
 </script>
 
@@ -73,5 +72,7 @@ const works = filosofiaWorkCards('louis-lavelle')
   alt="Retrato de Louis Lavelle"
   class="author-portrait"
 />
+
+<p class="author-meta">{{ $frontmatter.description }}</p>
 
 <CardGrid :items="works" />

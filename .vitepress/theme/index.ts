@@ -8,6 +8,7 @@ import PodcastEpisodeNav from './components/PodcastEpisodeNav.vue'
 import PipelineWorkContentsMount from './components/PipelineWorkContentsMount.vue'
 import PipelineReaderHeader from './components/PipelineReaderHeader.vue'
 import ReaderIcon from './components/ReaderIcon.vue'
+import BrandMark from './components/BrandMark.vue'
 import PipelineSegmentNav from './components/PipelineSegmentNav.vue'
 import ThemeChromeSync from './components/ThemeChromeSync.vue'
 
@@ -34,13 +35,10 @@ export default Object.assign({}, VPTheme, {
       h(ThemeChromeSync)
     ]
   },
-  // The reading-review export-preview prototypes (Slices 2C–2G) were retired in the consolidation pass
-  // once Lavelle + Brás Cubas shipped as real public reader pages. ReaderIcon stays registered globally
-  // for the reader-icon a11y harness (src/reading-review/reader-icon-harness.md) and is also imported
-  // directly by the live reader-shell components.
   enhanceApp(ctx: { app: { component: (name: string, c: unknown) => void } }) {
     // @ts-ignore - VPTheme may define its own enhanceApp; chain it.
     VPTheme.enhanceApp?.(ctx)
     ctx.app.component('ReaderIcon', ReaderIcon)
+    ctx.app.component('BrandMark', BrandMark)
   }
 })

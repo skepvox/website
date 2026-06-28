@@ -85,6 +85,15 @@ test.describe('homepage — three-pillar index', () => {
     await expect(page.locator('.home-index a[href^="/louis-lavelle/"]')).toHaveCount(0)
   })
 
+  test('the pillars carry an owned mark, not a decorative arrow', async ({ page }) => {
+    await expect(page.locator('.pillar__go')).toHaveCount(0)
+    await expect(page.locator('.home-pillars svg.brand-mark')).toHaveCount(3)
+    const hasArrow = await page
+      .locator('.home-pillars')
+      .evaluate((el) => (el.textContent || '').includes('→'))
+    expect(hasArrow).toBe(false)
+  })
+
   test('meta description keeps the personal index tone (no old slogan or author framing)', async ({
     page
   }) => {
