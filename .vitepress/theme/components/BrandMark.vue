@@ -1,18 +1,17 @@
 <script setup lang="ts">
 import { computed } from 'vue'
-import { BRAND_MARK_PATHS, FILLED_BRAND_MARKS, type BrandMarkName } from './brand-marks'
+import { BRAND_MARK_PATHS, type BrandMarkName } from './brand-marks'
 
 const props = defineProps<{ name: BrandMarkName; label?: string }>()
 const decorative = computed(() => !props.label)
-const filled = computed(() => FILLED_BRAND_MARKS.has(props.name))
 </script>
 
 <template>
   <svg
     class="brand-mark"
     viewBox="0 0 24 24"
-    :fill="filled ? 'currentColor' : 'none'"
-    :stroke="filled ? 'none' : 'currentColor'"
+    fill="none"
+    stroke="currentColor"
     stroke-linecap="round"
     stroke-linejoin="round"
     focusable="false"
@@ -20,7 +19,7 @@ const filled = computed(() => FILLED_BRAND_MARKS.has(props.name))
     :role="decorative ? undefined : 'img'"
   >
     <title v-if="!decorative">{{ label }}</title>
-    <path :d="BRAND_MARK_PATHS[name]" :vector-effect="filled ? undefined : 'non-scaling-stroke'" />
+    <path :d="BRAND_MARK_PATHS[name]" vector-effect="non-scaling-stroke" />
   </svg>
 </template>
 
