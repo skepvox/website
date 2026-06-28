@@ -31,7 +31,8 @@ Where to start, by topic.
 - **[site-visual-language-next-level-assessment.md](site-visual-language-next-level-assessment.md)** —
   current visual-language roadmap for the homepage and the three pillars. This is the live direction
   for moving beyond the corrected IA/data layer into owned visual components, symbols, rhythm, color,
-  and interaction.
+  and interaction. Current stop point: V1/V2 are shipped; next session starts at V3 (reader surfaces
+  - remaining rented heading-bar cleanup).
 
 ## Other docs (unrelated to the reading-app/pipeline-export work)
 
