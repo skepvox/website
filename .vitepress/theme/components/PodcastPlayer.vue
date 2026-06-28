@@ -34,10 +34,6 @@ const props = defineProps<{
   sections: Section[]
 }>()
 
-// Display-only nudge: ASR word timestamps tend to lag the true spoken onset, so
-// the highlight is chosen slightly ahead of audio.currentTime. This affects ONLY
-// which cue is highlighted — click-to-seek still uses the true cue.start. Kept
-// small so it never lights up the next phrase before it is spoken.
 const VISUAL_SYNC_OFFSET_SECONDS = 0.15
 const MEDIA_SESSION_ARTWORK = {
   src: '/skepvox-media-session.png',
@@ -51,8 +47,6 @@ const TRANSCRIPT_ANCHORS: Record<string, string> = {
 }
 const transcriptAnchor = TRANSCRIPT_ANCHORS[props.episode.lang] ?? 'transcript'
 
-// Flat, time-ordered cue list + id->index map, built once (props are static).
-// Pure data work — safe to run during SSR.
 const flatCues: Cue[] = props.sections.flatMap((section) =>
   section.paragraphs.flatMap((paragraph) => paragraph.cues)
 )
@@ -63,17 +57,11 @@ const barRef = ref<HTMLElement | null>(null)
 const audioRef = ref<HTMLAudioElement | null>(null)
 const transcriptRef = ref<HTMLElement | null>(null)
 const activeId = ref<string | null>(null)
-// Roving tabindex: exactly one cue is in the tab order; arrows move between them.
 const focusId = ref<string | null>(flatCues.length ? flatCues[0].id : null)
 
-// Desktop uses CSS position:sticky. On mobile the @vue/theme content wrapper has
-// overflow:auto, which disables sticky, so the bar is pinned with position:fixed
-// only while the transcript is in view (JS-driven). barHeight feeds the spacer
-// (no content jump) and the auto-scroll clearance.
 const pinned = ref(false)
 const barHeight = ref(64)
 
-// Client-only state (never read during SSR render).
 let following = true
 let prefersReduced = false
 let hint = 0
@@ -92,8 +80,6 @@ function cueElement(id: string): HTMLElement | null {
   return root ? root.querySelector<HTMLElement>(`[data-cue="${cssEscape(id)}"]`) : null
 }
 
-// Incremental scan from the last known position — O(1) amortized as time
-// advances, so it stays cheap across hundreds of cues and frequent timeupdate.
 function activeIndex(time: number): number {
   if (!flatCues.length || time < flatCues[0].start) return -1
   let i = hint
@@ -108,9 +94,6 @@ function activeIndex(time: number): number {
 function scrollActiveIntoView(id: string): void {
   const el = cueElement(id)
   if (!el) return
-  // Only scroll when the active cue drifts out of a comfortable reading band,
-  // so the transcript does not re-center on every cue change. The band starts
-  // below the nav + audio bar so the active cue is never read under the bar.
   const rect = el.getBoundingClientRect()
   const viewport = window.innerHeight || document.documentElement.clientHeight
   const obstruction = navHeight + barHeight.value
@@ -127,8 +110,6 @@ function isNarrow(): boolean {
   return window.matchMedia('(max-width: 768px)').matches
 }
 
-// Pin the bar (position:fixed) while the transcript is in view; otherwise leave
-// it in flow so it never floats over the intro or the learning-guide sections.
 function updatePin(): void {
   pinScheduled = false
   const player = playerRef.value
@@ -163,16 +144,16 @@ function syncActive(): void {
 }
 
 function onPlay(): void {
-  following = true // re-engage follow-along whenever playback (re)starts
+  following = true
   syncActive()
 }
 
 function seekTo(cue: Cue): void {
   const audio = audioRef.value
   if (!audio) return
-  audio.currentTime = cue.start // seek uses the true cue start, not the offset
-  activeId.value = cue.id
   following = true
+  audio.currentTime = cue.start
+  syncActive()
   const played = audio.play()
   if (played && typeof played.catch === 'function') played.catch(() => {})
   scrollActiveIntoView(cue.id)
@@ -218,9 +199,6 @@ function onCueKey(event: KeyboardEvent, cue: Cue): void {
   }
 }
 
-// A deliberate scroll gesture from the reader suspends auto-scroll until they
-// re-engage by pressing play or activating a cue. Programmatic scrollIntoView
-// emits no wheel/touch events, so there are no false positives.
 function onReaderScroll(): void {
   following = false
 }
@@ -229,9 +207,6 @@ function onReducedMotionChange(event: MediaQueryListEvent): void {
   prefersReduced = event.matches
 }
 
-// Populate the OS media surface (lock screen / Dynamic Island) with the
-// episode/show titles and the compact skepvox app mark. The show covers remain
-// the page/feed/share artwork, but they are too detailed for tiny system UI.
 function setupMediaSession(): void {
   const ms = typeof navigator !== 'undefined' ? navigator.mediaSession : undefined
   if (!ms || typeof MediaMetadata === 'undefined') return
@@ -243,13 +218,13 @@ function setupMediaSession(): void {
       artwork: [MEDIA_SESSION_ARTWORK]
     })
   } catch {
-    /* metadata unsupported — ignore */
+    void 0
   }
   const bind = (action: MediaSessionAction, handler: MediaSessionActionHandler) => {
     try {
       ms.setActionHandler(action, handler)
     } catch {
-      /* action unsupported on this platform */
+      void 0
     }
   }
   bind('play', () => audioRef.value?.play())
@@ -350,7 +325,6 @@ onBeforeUnmount(() => {
   margin: var(--sk-space-5) 0 var(--sk-space-6);
 }
 
-/* Desktop: CSS sticky keeps the transport reachable while reading. */
 .vox-player__bar {
   position: sticky;
   position: -webkit-sticky;
@@ -366,14 +340,10 @@ onBeforeUnmount(() => {
   display: block;
 }
 
-/* Reserves the bar's height when it is lifted out of flow on mobile. */
 .vox-player__spacer {
   height: 0;
 }
 
-/* Mobile: sticky is disabled by the theme's overflow:auto content wrapper, so
-   the bar is pinned with position:fixed only while the transcript is in view.
-   Scoped entirely to the player; no global layout rules are touched. */
 @media (max-width: 768px) {
   .vox-player__bar {
     position: static;
@@ -436,9 +406,9 @@ onBeforeUnmount(() => {
 
 .vox-cue {
   cursor: pointer;
-  /* Keep the transcript copyable as text despite role="button". */
   user-select: text;
   -webkit-user-select: text;
+  -webkit-tap-highlight-color: transparent;
   border-radius: 4px;
   padding: 0.06em 0.12em;
   margin: 0 -0.02em;
@@ -449,8 +419,10 @@ onBeforeUnmount(() => {
   box-decoration-break: clone;
 }
 
-.vox-cue:hover {
-  background-color: var(--sk-cue-hover);
+@media (hover: hover) and (pointer: fine) {
+  .vox-cue:hover {
+    background-color: var(--sk-cue-hover);
+  }
 }
 
 .vox-cue.is-active {

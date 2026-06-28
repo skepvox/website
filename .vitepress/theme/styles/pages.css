@@ -30,6 +30,11 @@
   background-color: var(--vt-c-bg);
 }
 
+.VPApp:has(.vox-transcript) .VPLocalNav,
+.VPApp:has(.show-head) .VPLocalNav {
+  display: none;
+}
+
 .VPNavBar :is(a, button):focus-visible,
 .VPSidebar a:focus-visible,
 .VPLocalNav button:focus-visible,

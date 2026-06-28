@@ -3,9 +3,6 @@ import { execFileSync } from 'node:child_process'
 import fs from 'node:fs'
 import path from 'node:path'
 
-// Regression guard for the synced-transcript PodcastPlayer. Anchored on a real
-// built episode page so it catches the durability failure mode (page sync
-// dropping the player wiring) and the transcript SSR / LLM rendering.
 const PAGE_PATH = '/podcast/francais/001-le-badge'
 const CUES_FILE = path.resolve('src/podcast/francais/001-le-badge.cues.json')
 const DIST_HTML = path.resolve('.vitepress/dist/podcast/francais/001-le-badge.html')
@@ -30,8 +27,6 @@ function loadCues(): Cue[] {
   return cues
 }
 
-// A long, HTML-safe cue from the middle of the transcript, used to assert the
-// transcript text actually reaches the SSR HTML and the LLM output.
 function sampleTranscriptText(): string {
   const cues = loadCues()
     .slice(15, -15)
@@ -41,7 +36,6 @@ function sampleTranscriptText(): string {
   return cues[0].text
 }
 
-// Match Vue's SSR text escaping so the assertion holds for any cue text.
 function escapeHtml(text: string): string {
   return text
     .replace(/&/g, '&amp;')
@@ -51,8 +45,6 @@ function escapeHtml(text: string): string {
     .replace(/'/g, '&#39;')
 }
 
-// A mid-list cue with a comfortable gap to its successor, so the player's 0.15s
-// visual-sync offset lands unambiguously inside it.
 function safeHighlightCue(): Cue {
   const cues = loadCues()
   for (let i = 10; i < cues.length - 1; i++) {
@@ -107,7 +99,6 @@ test.describe('podcast player', () => {
     const cue = safeHighlightCue()
     await page.evaluate((c) => {
       const audio = document.querySelector('.vox-player__audio') as HTMLMediaElement
-      // Force a deterministic playhead without loading remote media.
       Object.defineProperty(audio, 'currentTime', {
         configurable: true,
         get: () => c.start + 0.2,
@@ -126,6 +117,38 @@ test.describe('podcast player', () => {
     await span.click()
     await expect(span).toHaveClass(/is-active/)
     await expect(span).toHaveAttribute('aria-current', 'true')
+  })
+
+  test('the cue highlight tracks audio time only and is not pinned by the click', async ({
+    page
+  }) => {
+    await page.goto(PAGE_PATH)
+    const cues = loadCues()
+    const cue = cues[Math.min(12, cues.length - 1)]
+    const span = page.locator(`[data-cue="${cue.id}"]`)
+    await page.evaluate(() => {
+      const audio = document.querySelector('.vox-player__audio') as HTMLMediaElement
+      Object.defineProperty(audio, 'currentTime', {
+        configurable: true,
+        get: () => 0,
+        set: () => {}
+      })
+    })
+    await span.click()
+    await expect(span).not.toHaveClass(/is-active/)
+  })
+
+  test('on initial load no cue is active and the cue hover is pointer-gated', async ({ page }) => {
+    await page.goto(PAGE_PATH)
+    await expect(page.locator('.vox-cue.is-active')).toHaveCount(0)
+    const player = fs.readFileSync(
+      path.resolve('.vitepress/theme/components/PodcastPlayer.vue'),
+      'utf-8'
+    )
+    const start = player.indexOf('@media (hover: hover) and (pointer: fine)')
+    const hoverIdx = player.indexOf('.vox-cue:hover')
+    expect(start).toBeGreaterThan(-1)
+    expect(hoverIdx).toBeGreaterThan(start)
   })
 
   test('pins the player bar on mobile', async ({ page }, testInfo) => {
