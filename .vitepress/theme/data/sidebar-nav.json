@@ -10,8 +10,8 @@
         {
           "title": "Vox Français",
           "href": "/podcast/francais/",
-          "meta": "3 épisodes",
-          "episodeCount": 3,
+          "meta": "4 épisodes",
+          "episodeCount": 4,
           "episodes": [
             {
               "number": 1,
@@ -27,6 +27,11 @@
               "number": 3,
               "title": "Le covoiturage poli",
               "href": "/podcast/francais/003-le-covoiturage-poli"
+            },
+            {
+              "number": 4,
+              "title": "Le studio calme",
+              "href": "/podcast/francais/004-le-studio-calme"
             }
           ]
         },

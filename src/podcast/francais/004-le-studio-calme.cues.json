@@ -1,0 +1,2672 @@
+{
+  "episode": {
+    "id": "francais-004",
+    "title": "Le studio calme",
+    "showTitle": "Vox Français",
+    "audioUrl": "https://media.skepvox.com/podcast/francais/audio/francais-004-le-studio-calme-v4.mp3",
+    "artworkUrl": "https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg",
+    "lang": "fr",
+    "durationSeconds": 1498.973
+  },
+  "sections": [
+    {
+      "id": "01-introduction",
+      "label": "Introduction",
+      "isDialogue": false,
+      "paragraphs": [
+        {
+          "id": "01-introduction-p001",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0001",
+              "start": 0.0,
+              "end": 4.88,
+              "text": "Bonjour et bienvenue dans le Podcast de français langue étrangère,",
+              "sep": " "
+            },
+            {
+              "id": "0002",
+              "start": 5.6,
+              "end": 8.88,
+              "text": "le podcast pour apprendre le français avec une scène courte,",
+              "sep": ""
+            },
+            {
+              "id": "0003",
+              "start": 9.56,
+              "end": 12.62,
+              "text": "un dialogue vivant et une explication claire.",
+              "sep": " "
+            },
+            {
+              "id": "0004",
+              "start": 13.86,
+              "end": 17.02,
+              "text": "Aujourd'hui, nous entrons dans un petit studio à louer.",
+              "sep": " "
+            },
+            {
+              "id": "0005",
+              "start": 18.08,
+              "end": 19.881,
+              "text": "Sophie fait visiter le logement à Marc.",
+              "sep": " "
+            },
+            {
+              "id": "0006",
+              "start": 20.42,
+              "end": 25.24,
+              "text": "L'annonce promet un lieu calme, pratique, lumineux.",
+              "sep": " "
+            },
+            {
+              "id": "0007",
+              "start": 25.88,
+              "end": 32.681,
+              "text": "Marc observe les murs, les fenêtres, la cuisine, et il commente tout avec beaucoup d'énergie.",
+              "sep": " "
+            },
+            {
+              "id": "0008",
+              "start": 34.1,
+              "end": 38.79,
+              "text": "Sophie reste professionnelle, même quand la visite devient moins simple que prévu.",
+              "sep": " "
+            },
+            {
+              "id": "0009",
+              "start": 39.46,
+              "end": 39.86,
+              "text": "C'est parti.",
+              "sep": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-dialogue-lent",
+      "label": "Dialogue - version lente",
+      "isDialogue": true,
+      "paragraphs": [
+        {
+          "id": "02-dialogue-lent-p001",
+          "speaker": "Sophie",
+          "cues": [
+            {
+              "id": "0010",
+              "start": 46.917,
+              "end": 50.497,
+              "text": "Bonjour Marc, vous êtes à l'heure, c'est déjà agréable.",
+              "sep": " "
+            },
+            {
+              "id": "0011",
+              "start": 52.137,
+              "end": 57.278,
+              "text": "Le studio est petit, mais lumineux, et la cour est très calme le matin.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p002",
+          "speaker": "Marc",
+          "cues": [
+            {
+              "id": "0012",
+              "start": 58.097,
+              "end": 58.858,
+              "text": "Petit, je vois.",
+              "sep": " "
+            },
+            {
+              "id": "0013",
+              "start": 59.837,
+              "end": 61.437,
+              "text": "Lumineux, je cherche encore.",
+              "sep": " "
+            },
+            {
+              "id": "0014",
+              "start": 62.857,
+              "end": 66.937,
+              "text": "Sur les photos, la pièce était grande, blanche et presque royale.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p003",
+          "speaker": "Sophie",
+          "cues": [
+            {
+              "id": "0015",
+              "start": 67.597,
+              "end": 69.197,
+              "text": "Les photos sont optimistes.",
+              "sep": " "
+            },
+            {
+              "id": "0016",
+              "start": 69.897,
+              "end": 74.417,
+              "text": "La pièce est blanche, oui, mais grande seulement si vous êtes très organisé.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p004",
+          "speaker": "Marc",
+          "cues": [
+            {
+              "id": "0017",
+              "start": 74.897,
+              "end": 77.577,
+              "text": "Je suis organisé quand les murs coopèrent.",
+              "sep": " "
+            },
+            {
+              "id": "0018",
+              "start": 78.837,
+              "end": 83.057,
+              "text": "Ici, ils sont proches, anciens, et un peu curieux.",
+              "sep": " "
+            },
+            {
+              "id": "0019",
+              "start": 84.657,
+              "end": 86.617,
+              "text": "J'entends déjà le voisin respirer.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p005",
+          "speaker": "Sophie",
+          "cues": [
+            {
+              "id": "0020",
+              "start": 87.317,
+              "end": 88.497,
+              "text": "Le voisin est discret.",
+              "sep": " "
+            },
+            {
+              "id": "0021",
+              "start": 89.757,
+              "end": 93.137,
+              "text": "Les murs sont anciens, mais les fenêtres sont nouvelles.",
+              "sep": " "
+            },
+            {
+              "id": "0022",
+              "start": 93.877,
+              "end": 98.177,
+              "text": "Regardez, la cuisine est ouverte et les placards sont profonds.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p006",
+          "speaker": "Marc",
+          "cues": [
+            {
+              "id": "0023",
+              "start": 99.077,
+              "end": 99.617,
+              "text": "Ouverte ?",
+              "sep": " "
+            },
+            {
+              "id": "0024",
+              "start": 100.517,
+              "end": 102.577,
+              "text": "Elle est ouverte sur mon manteau.",
+              "sep": " "
+            },
+            {
+              "id": "0025",
+              "start": 103.257,
+              "end": 109.457,
+              "text": "Si je fais une omelette, ma veste sera parfumée, chaude et probablement triste.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p007",
+          "speaker": "Sophie",
+          "cues": [
+            {
+              "id": "0026",
+              "start": 110.217,
+              "end": 114.437,
+              "text": "Vous avez beaucoup d'adjectifs pour un homme qui visite depuis quatre minutes.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p008",
+          "speaker": "Marc",
+          "cues": [
+            {
+              "id": "0027",
+              "start": 115.297,
+              "end": 117.177,
+              "text": "C'est parce que l'annonce était précise :",
+              "sep": ""
+            },
+            {
+              "id": "0028",
+              "start": 118.577,
+              "end": 124.077,
+              "text": "\"studio calme, sérieux, idéal pour personne discrète\".",
+              "sep": " "
+            },
+            {
+              "id": "0029",
+              "start": 125.077,
+              "end": 131.117,
+              "text": "Je croyais que le studio était sérieux, avec une petite bibliothèque intérieure et des principes.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p009",
+          "speaker": "Sophie",
+          "cues": [
+            {
+              "id": "0030",
+              "start": 131.627,
+              "end": 135.617,
+              "text": "Un studio peut être pratique, propre, lumineux.",
+              "sep": " "
+            },
+            {
+              "id": "0031",
+              "start": 137.677,
+              "end": 138.717,
+              "text": "Sérieux, c'est plus rare.",
+              "sep": " "
+            },
+            {
+              "id": "0032",
+              "start": 139.757,
+              "end": 141.957,
+              "text": "L'adjectif concernait plutôt le dossier.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p010",
+          "speaker": "Marc",
+          "cues": [
+            {
+              "id": "0033",
+              "start": 141.957,
+              "end": 142.767,
+              "text": "Ah.",
+              "sep": " "
+            },
+            {
+              "id": "0034",
+              "start": 143.577,
+              "end": 148.717,
+              "text": "Donc \"personne discrète\" n'était pas une voisine charmante qui arrose les plantes ?",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p011",
+          "speaker": "Sophie",
+          "cues": [
+            {
+              "id": "0035",
+              "start": 149.337,
+              "end": 151.877,
+              "text": "Non, c'était le profil souhaité.",
+              "sep": " "
+            },
+            {
+              "id": "0036",
+              "start": 152.937,
+              "end": 155.057,
+              "text": "Le propriétaire habite au-dessus.",
+              "sep": " "
+            },
+            {
+              "id": "0037",
+              "start": 155.937,
+              "end": 161.397,
+              "text": "Il aime les locataires calmes, soigneux et silencieux après vingt-deux heures.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p012",
+          "speaker": "Marc",
+          "cues": [
+            {
+              "id": "0038",
+              "start": 161.997,
+              "end": 164.237,
+              "text": "Je suis calme quand l'espace est généreux.",
+              "sep": " "
+            },
+            {
+              "id": "0039",
+              "start": 165.237,
+              "end": 168.717,
+              "text": "Dans un studio étroit, je deviens philosophique,",
+              "sep": ""
+            },
+            {
+              "id": "0040",
+              "start": 169.037,
+              "end": 172.937,
+              "text": "puis dramatique, puis très sonore malgré moi.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p013",
+          "speaker": "Sophie",
+          "cues": [
+            {
+              "id": "0041",
+              "start": 173.517,
+              "end": 174.137,
+              "text": "C'est noté.",
+              "sep": " "
+            },
+            {
+              "id": "0042",
+              "start": 175.317,
+              "end": 177.477,
+              "text": "La salle de bains est petite mais neuve.",
+              "sep": " "
+            },
+            {
+              "id": "0043",
+              "start": 178.477,
+              "end": 181.977,
+              "text": "Les carreaux bleus sont récents, et la porte ferme très bien.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p014",
+          "speaker": "Marc",
+          "cues": [
+            {
+              "id": "0044",
+              "start": 181.977,
+              "end": 186.997,
+              "text": "Elle ferme pour protéger la salle de bains ou pour me protéger, moi ?",
+              "sep": " "
+            },
+            {
+              "id": "0045",
+              "start": 188.097,
+              "end": 191.877,
+              "text": "Parce que la porte est courageuse, mais pas très large.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p015",
+          "speaker": "Sophie",
+          "cues": [
+            {
+              "id": "0046",
+              "start": 192.897,
+              "end": 194.857,
+              "text": "Marc, je dois être honnête.",
+              "sep": " "
+            },
+            {
+              "id": "0047",
+              "start": 196.077,
+              "end": 201.297,
+              "text": "Le studio est disponible, les charges sont raisonnables, et votre dossier est complet.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p016",
+          "speaker": "Marc",
+          "cues": [
+            {
+              "id": "0048",
+              "start": 202.137,
+              "end": 203.837,
+              "text": "Enfin une phrase positive.",
+              "sep": " "
+            },
+            {
+              "id": "0049",
+              "start": 204.457,
+              "end": 205.597,
+              "text": "Donc je suis choisi ?",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p017",
+          "speaker": "Sophie",
+          "cues": [
+            {
+              "id": "0050",
+              "start": 206.377,
+              "end": 207.137,
+              "text": "Pas encore.",
+              "sep": " "
+            },
+            {
+              "id": "0051",
+              "start": 208.037,
+              "end": 212.797,
+              "text": "L'annonce cherchait une personne calme, sérieuse et discrète.",
+              "sep": " "
+            },
+            {
+              "id": "0052",
+              "start": 214.637,
+              "end": 219.597,
+              "text": "Depuis l'entrée, vous avez insulté trois murs, une porte et une cuisine.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "02-dialogue-lent-p018",
+          "speaker": "Marc",
+          "cues": [
+            {
+              "id": "0053",
+              "start": 220.457,
+              "end": 220.998,
+              "text": "D'accord.",
+              "sep": " "
+            },
+            {
+              "id": "0054",
+              "start": 222.017,
+              "end": 228.317,
+              "text": "Je peux revenir demain, silencieux, poli et beaucoup plus petit, sans commentaire sur la porte.",
+              "sep": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-explication",
+      "label": "Explication",
+      "isDialogue": false,
+      "paragraphs": [
+        {
+          "id": "03-explication-p001",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0055",
+              "start": 235.421,
+              "end": 239.641,
+              "text": "Dans ce dialogue, Sophie fait visiter un studio à Marc.",
+              "sep": " "
+            },
+            {
+              "id": "0056",
+              "start": 240.601,
+              "end": 246.241,
+              "text": "Un studio, c'est un petit logement, souvent avec une seule pièce principale.",
+              "sep": " "
+            },
+            {
+              "id": "0057",
+              "start": 247.501,
+              "end": 253.681,
+              "text": "On y dort, on y travaille parfois, et la cuisine peut être dans le même espace.",
+              "sep": " "
+            },
+            {
+              "id": "0058",
+              "start": 254.921,
+              "end": 257.841,
+              "text": "Le mot est très courant dans les annonces immobilières,",
+              "sep": ""
+            },
+            {
+              "id": "0059",
+              "start": 258.441,
+              "end": 262.641,
+              "text": "surtout pour les étudiants ou les personnes seules.",
+              "sep": " "
+            },
+            {
+              "id": "0060",
+              "start": 264.181,
+              "end": 267.601,
+              "text": "Dans la scène, le studio est le lieu concret,",
+              "sep": ""
+            },
+            {
+              "id": "0061",
+              "start": 268.321,
+              "end": 272.782,
+              "text": "mais aussi le test social : Marc regarde le logement,",
+              "sep": " "
+            },
+            {
+              "id": "0062",
+              "start": 272.783,
+              "end": 275.281,
+              "text": "et Sophie regarde Marc.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p002",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0063",
+              "start": 276.621,
+              "end": 280.181,
+              "text": "Dès la première phrase, Sophie présente le logement :",
+              "sep": ""
+            },
+            {
+              "id": "0064",
+              "start": 281.041,
+              "end": 285.561,
+              "text": "\"Le studio est petit, mais lumineux,",
+              "sep": " "
+            },
+            {
+              "id": "0065",
+              "start": 285.561,
+              "end": 291.682,
+              "text": "et la cour est très calme le matin.\" Lumineux veut dire qu'il y a de la lumière.",
+              "sep": " "
+            },
+            {
+              "id": "0066",
+              "start": 293.101,
+              "end": 299.361,
+              "text": "On peut parler d'un appartement lumineux, d'une pièce lumineuse, ou d'une cuisine lumineuse.",
+              "sep": " "
+            },
+            {
+              "id": "0067",
+              "start": 300.961,
+              "end": 303.241,
+              "text": "Calme veut dire qu'il y a peu de bruit.",
+              "sep": " "
+            },
+            {
+              "id": "0068",
+              "start": 304.521,
+              "end": 309.661,
+              "text": "On peut chercher une rue calme, un voisin calme, ou une cour calme.",
+              "sep": " "
+            },
+            {
+              "id": "0069",
+              "start": 310.661,
+              "end": 316.721,
+              "text": "Ici, ces mots essaient de rendre le studio attirant, malgré sa petite taille.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p003",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0070",
+              "start": 317.108,
+              "end": 323.348,
+              "text": "Premier repère, très simple : le mot studio fonctionne comme un nom masculin singulier.",
+              "sep": " "
+            },
+            {
+              "id": "0071",
+              "start": 325.008,
+              "end": 326.668,
+              "text": "Sophie dit donc petit et lumineux.",
+              "sep": " "
+            },
+            {
+              "id": "0072",
+              "start": 327.688,
+              "end": 330.628,
+              "text": "Plus tard, Marc parle de la pièce.",
+              "sep": " "
+            },
+            {
+              "id": "0073",
+              "start": 332.208,
+              "end": 336.009,
+              "text": "Pièce est féminin singulier, alors il dit grande et blanche.",
+              "sep": " "
+            },
+            {
+              "id": "0074",
+              "start": 336.888,
+              "end": 339.448,
+              "text": "L'adjectif suit le mot qu'il décrit.",
+              "sep": " "
+            },
+            {
+              "id": "0075",
+              "start": 340.628,
+              "end": 347.269,
+              "text": "Ce n'est pas seulement une règle abstraite : cela permet de savoir si on parle du studio entier, de la pièce,",
+              "sep": " "
+            },
+            {
+              "id": "0076",
+              "start": 347.868,
+              "end": 350.228,
+              "text": "de la cour, ou d'une personne.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p004",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0077",
+              "start": 351.368,
+              "end": 354.148,
+              "text": "Marc répond : \"Petit, je vois.",
+              "sep": " "
+            },
+            {
+              "id": "0078",
+              "start": 355.328,
+              "end": 361.348,
+              "text": "Lumineux, je cherche encore.\" Il n'accepte pas complètement les mots de Sophie.",
+              "sep": " "
+            },
+            {
+              "id": "0079",
+              "start": 362.588,
+              "end": 365.509,
+              "text": "Puis il compare le studio aux photos.",
+              "sep": " "
+            },
+            {
+              "id": "0080",
+              "start": 367.068,
+              "end": 370.748,
+              "text": "Dans une annonce, les photos montrent souvent le meilleur moment :",
+              "sep": ""
+            },
+            {
+              "id": "0081",
+              "start": 371.448,
+              "end": 376.098,
+              "text": "bonne lumière, bon angle, pièce bien rangée.",
+              "sep": " "
+            },
+            {
+              "id": "0082",
+              "start": 377.248,
+              "end": 382.088,
+              "text": "Quand Sophie dit que \"les photos sont optimistes\", elle reste polie.",
+              "sep": " "
+            },
+            {
+              "id": "0083",
+              "start": 383.608,
+              "end": 385.268,
+              "text": "Elle ne dit pas que les photos mentent.",
+              "sep": " "
+            },
+            {
+              "id": "0084",
+              "start": 386.408,
+              "end": 389.388,
+              "text": "Elle suggère que la description est un peu trop favorable.",
+              "sep": " "
+            },
+            {
+              "id": "0085",
+              "start": 391.008,
+              "end": 392.288,
+              "text": "Cette expression est utile :",
+              "sep": ""
+            },
+            {
+              "id": "0086",
+              "start": 393.428,
+              "end": 399.128,
+              "text": "un horaire optimiste, un budget optimiste, une description optimiste.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p005",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0087",
+              "start": 399.439,
+              "end": 402.34,
+              "text": "Sophie et Marc se vouvoient pendant toute la visite.",
+              "sep": " "
+            },
+            {
+              "id": "0088",
+              "start": 403.399,
+              "end": 409.579,
+              "text": "C'est le registre normal entre une agente immobilière et un candidat locataire qui se rencontrent pour la première fois.",
+              "sep": " "
+            },
+            {
+              "id": "0089",
+              "start": 410.959,
+              "end": 417.359,
+              "text": "Le vouvoiement garde une distance professionnelle, même quand Sophie commence à noter les réactions de Marc.",
+              "sep": " "
+            },
+            {
+              "id": "0090",
+              "start": 418.699,
+              "end": 422.38,
+              "text": "À l'oral, dans \"vous êtes à l'heure\",",
+              "sep": ""
+            },
+            {
+              "id": "0091",
+              "start": 422.879,
+              "end": 426.779,
+              "text": "la liaison se prononce z après vous.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p006",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0092",
+              "start": 427.939,
+              "end": 432.839,
+              "text": "Sophie ajoute que la pièce est grande seulement si Marc est très organisé.",
+              "sep": " "
+            },
+            {
+              "id": "0093",
+              "start": 433.879,
+              "end": 437.919,
+              "text": "Le mot organisé décrit une personne qui range bien ses affaires,",
+              "sep": ""
+            },
+            {
+              "id": "0094",
+              "start": 439.099,
+              "end": 442.8,
+              "text": "prépare ses documents, et sait utiliser l'espace.",
+              "sep": " "
+            },
+            {
+              "id": "0095",
+              "start": 444.619,
+              "end": 448.079,
+              "text": "Dans un grand appartement, l'organisation aide.",
+              "sep": " "
+            },
+            {
+              "id": "0096",
+              "start": 449.319,
+              "end": 452.839,
+              "text": "Dans un studio, elle devient presque nécessaire.",
+              "sep": " "
+            },
+            {
+              "id": "0097",
+              "start": 454.039,
+              "end": 457.699,
+              "text": "Ici, l'adjectif passe du logement à Marc.",
+              "sep": " "
+            },
+            {
+              "id": "0098",
+              "start": 459.179,
+              "end": 464.019,
+              "text": "Sophie parle encore de la pièce, mais elle commence déjà à évaluer le candidat.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p007",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0099",
+              "start": 464.448,
+              "end": 468.528,
+              "text": "Marc répond : \"Je suis organisé quand les murs coopèrent.",
+              "sep": ""
+            },
+            {
+              "id": "0100",
+              "start": 470.088,
+              "end": 472.328,
+              "text": "\" Coopérer signifie travailler avec quelqu'un,",
+              "sep": " "
+            },
+            {
+              "id": "0101",
+              "start": 473.388,
+              "end": 474.748,
+              "text": "aider une action commune.",
+              "sep": " "
+            },
+            {
+              "id": "0102",
+              "start": 476.288,
+              "end": 482.108,
+              "text": "Des collègues coopèrent, des voisins coopèrent, des services coopèrent.",
+              "sep": " "
+            },
+            {
+              "id": "0103",
+              "start": 483.448,
+              "end": 486.808,
+              "text": "Des murs, normalement, ne coopèrent pas.",
+              "sep": " "
+            },
+            {
+              "id": "0104",
+              "start": 488.868,
+              "end": 491.208,
+              "text": "Marc donne donc une petite personnalité au logement.",
+              "sep": " "
+            },
+            {
+              "id": "0105",
+              "start": 491.208,
+              "end": 495.808,
+              "text": "Il trouve les murs proches, anciens et curieux.",
+              "sep": " "
+            },
+            {
+              "id": "0106",
+              "start": 495.808,
+              "end": 498.548,
+              "text": "Murs est masculin pluriel,",
+              "sep": ""
+            },
+            {
+              "id": "0107",
+              "start": 499.328,
+              "end": 505.088,
+              "text": "donc les adjectifs sont au pluriel : proches, anciens, curieux.",
+              "sep": " "
+            },
+            {
+              "id": "0108",
+              "start": 506.508,
+              "end": 508.248,
+              "text": "Les formes suivent l'image comique.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p008",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0109",
+              "start": 509.528,
+              "end": 511.688,
+              "text": "Sophie répond que le voisin est discret.",
+              "sep": " "
+            },
+            {
+              "id": "0110",
+              "start": 513.248,
+              "end": 515.608,
+              "text": "Discret est un mot important dans la scène.",
+              "sep": " "
+            },
+            {
+              "id": "0111",
+              "start": 516.368,
+              "end": 519.729,
+              "text": "Une personne discrète ne prend pas trop de place,",
+              "sep": ""
+            },
+            {
+              "id": "0112",
+              "start": 520.428,
+              "end": 524.008,
+              "text": "ne fait pas trop de bruit, et respecte l'espace des autres.",
+              "sep": " "
+            },
+            {
+              "id": "0113",
+              "start": 525.448,
+              "end": 528.108,
+              "text": "Dans un immeuble, c'est souvent une qualité.",
+              "sep": " "
+            },
+            {
+              "id": "0114",
+              "start": 529.328,
+              "end": 533.348,
+              "text": "Au masculin, on dit un voisin discret.",
+              "sep": " "
+            },
+            {
+              "id": "0115",
+              "start": 534.708,
+              "end": 537.588,
+              "text": "Au féminin, une voisine discrète.",
+              "sep": " "
+            },
+            {
+              "id": "0116",
+              "start": 538.948,
+              "end": 541.148,
+              "text": "On entend mieux le t dans discrète.",
+              "sep": " "
+            },
+            {
+              "id": "0117",
+              "start": 542.108,
+              "end": 548.269,
+              "text": "Dans la scène, Sophie présente le voisin comme rassurant, mais ce mot prépare aussi la suite :",
+              "sep": " "
+            },
+            {
+              "id": "0118",
+              "start": 549.168,
+              "end": 551.728,
+              "text": "le propriétaire veut une personne discrète.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p009",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0119",
+              "start": 552.076,
+              "end": 558.056,
+              "text": "Sophie continue : \"Les murs sont anciens, mais les fenêtres sont nouvelles.",
+              "sep": ""
+            },
+            {
+              "id": "0120",
+              "start": 559.296,
+              "end": 560.636,
+              "text": "\" Le mot mur est masculin.",
+              "sep": " "
+            },
+            {
+              "id": "0121",
+              "start": 561.116,
+              "end": 565.536,
+              "text": "Au pluriel, on écrit un s, mais on ne l'entend pas.",
+              "sep": " "
+            },
+            {
+              "id": "0122",
+              "start": 566.496,
+              "end": 568.276,
+              "text": "Le mot fenêtre est féminin.",
+              "sep": " "
+            },
+            {
+              "id": "0123",
+              "start": 569.296,
+              "end": 573.176,
+              "text": "Là aussi, le s du pluriel reste silencieux.",
+              "sep": " "
+            },
+            {
+              "id": "0124",
+              "start": 574.256,
+              "end": 577.176,
+              "text": "Les formes écrites changent plus que la prononciation.",
+              "sep": " "
+            },
+            {
+              "id": "0125",
+              "start": 577.896,
+              "end": 582.857,
+              "text": "Elle ajoute que la cuisine est ouverte et que les placards vont loin vers l'intérieur.",
+              "sep": " "
+            },
+            {
+              "id": "0126",
+              "start": 584.156,
+              "end": 587.316,
+              "text": "Une cuisine ouverte communique avec la pièce principale.",
+              "sep": " "
+            },
+            {
+              "id": "0127",
+              "start": 588.836,
+              "end": 592.856,
+              "text": "Dans une annonce, c'est souvent présenté comme moderne ou pratique.",
+              "sep": " "
+            },
+            {
+              "id": "0128",
+              "start": 594.276,
+              "end": 597.697,
+              "text": "Dans un studio, cela veut aussi dire que le lit,",
+              "sep": ""
+            },
+            {
+              "id": "0129",
+              "start": 598.356,
+              "end": 601.356,
+              "text": "le bureau et les vêtements ne sont pas loin de la cuisine.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p010",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0130",
+              "start": 602.916,
+              "end": 605.256,
+              "text": "Marc entend seulement ce risque concret.",
+              "sep": " "
+            },
+            {
+              "id": "0131",
+              "start": 605.256,
+              "end": 608.956,
+              "text": "Il imagine son manteau après une omelette :",
+              "sep": ""
+            },
+            {
+              "id": "0132",
+              "start": 610.136,
+              "end": 612.636,
+              "text": "la veste sera chaude et probablement triste.",
+              "sep": " "
+            },
+            {
+              "id": "0133",
+              "start": 614.516,
+              "end": 619.236,
+              "text": "Veste est féminin singulier, donc chaude est au féminin.",
+              "sep": " "
+            },
+            {
+              "id": "0134",
+              "start": 620.816,
+              "end": 622.336,
+              "text": "Triste garde la même forme.",
+              "sep": " "
+            },
+            {
+              "id": "0135",
+              "start": 624.096,
+              "end": 629.336,
+              "text": "Cette phrase est drôle parce que Marc transforme un avantage immobilier en menace personnelle.",
+              "sep": " "
+            },
+            {
+              "id": "0136",
+              "start": 629.336,
+              "end": 632.876,
+              "text": "Il ne critique pas seulement la cuisine ;",
+              "sep": ""
+            },
+            {
+              "id": "0137",
+              "start": 633.736,
+              "end": 636.576,
+              "text": "il imagine déjà une petite tragédie textile.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p011",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0138",
+              "start": 637.005,
+              "end": 642.825,
+              "text": "Sophie remarque : \"Vous avez beaucoup d'adjectifs pour un homme qui visite depuis quatre minutes.\"",
+              "sep": " "
+            },
+            {
+              "id": "0139",
+              "start": 644.245,
+              "end": 646.925,
+              "text": "Cette phrase change la direction du dialogue.",
+              "sep": " "
+            },
+            {
+              "id": "0140",
+              "start": 648.445,
+              "end": 655.405,
+              "text": "Marc utilise les adjectifs pour juger les murs, la cuisine, la porte, les photos.",
+              "sep": " "
+            },
+            {
+              "id": "0141",
+              "start": 656.905,
+              "end": 660.766,
+              "text": "Sophie, elle, commence à juger sa manière de parler.",
+              "sep": " "
+            },
+            {
+              "id": "0142",
+              "start": 661.765,
+              "end": 667.105,
+              "text": "Dans une visite de logement, on observe le lieu, mais on est aussi observé.",
+              "sep": " "
+            },
+            {
+              "id": "0143",
+              "start": 668.465,
+              "end": 672.385,
+              "text": "Les mots de Marc décrivent le studio, puis révèlent son attitude.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p012",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0144",
+              "start": 673.985,
+              "end": 675.345,
+              "text": "Marc cite alors l'annonce :",
+              "sep": ""
+            },
+            {
+              "id": "0145",
+              "start": 675.705,
+              "end": 681.232,
+              "text": "\"studio calme, sérieux, idéal pour personne discrète.\"",
+              "sep": " "
+            },
+            {
+              "id": "0146",
+              "start": 682.065,
+              "end": 686.185,
+              "text": "Une annonce immobilière est un petit texte qui présente un logement.",
+              "sep": " "
+            },
+            {
+              "id": "0147",
+              "start": 687.165,
+              "end": 691.185,
+              "text": "Elle doit attirer, mais elle doit aussi filtrer les candidats.",
+              "sep": " "
+            },
+            {
+              "id": "0148",
+              "start": 693.325,
+              "end": 696.265,
+              "text": "Marc croit que tous les adjectifs décrivent le studio.",
+              "sep": " "
+            },
+            {
+              "id": "0149",
+              "start": 697.785,
+              "end": 699.405,
+              "text": "Calme peut décrire un studio.",
+              "sep": " "
+            },
+            {
+              "id": "0150",
+              "start": 700.725,
+              "end": 704.085,
+              "text": "Pratique, propre, lumineux aussi.",
+              "sep": " "
+            },
+            {
+              "id": "0151",
+              "start": 705.365,
+              "end": 708.005,
+              "text": "Mais sérieux est moins naturel pour un logement.",
+              "sep": " "
+            },
+            {
+              "id": "0152",
+              "start": 709.505,
+              "end": 713.585,
+              "text": "Sérieux veut dire fiable, en qui on peut avoir confiance.",
+              "sep": " "
+            },
+            {
+              "id": "0153",
+              "start": 714.725,
+              "end": 717.965,
+              "text": "On parle plus souvent d'un dossier sérieux,",
+              "sep": ""
+            },
+            {
+              "id": "0154",
+              "start": 718.525,
+              "end": 722.285,
+              "text": "d'une personne sérieuse, ou d'une démarche sérieuse.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p013",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0155",
+              "start": 722.634,
+              "end": 725.354,
+              "text": "Dans une annonce, chaque mot compte.",
+              "sep": " "
+            },
+            {
+              "id": "0156",
+              "start": 726.754,
+              "end": 733.074,
+              "text": "Un adjectif peut vendre une qualité réelle, adoucir un défaut, ou signaler une attente.",
+              "sep": " "
+            },
+            {
+              "id": "0157",
+              "start": 734.474,
+              "end": 738.054,
+              "text": "Petit mais lumineux prépare le lecteur à un espace limité.",
+              "sep": " "
+            },
+            {
+              "id": "0158",
+              "start": 739.574,
+              "end": 740.974,
+              "text": "Calme rassure sur le bruit.",
+              "sep": " "
+            },
+            {
+              "id": "0159",
+              "start": 742.534,
+              "end": 746.474,
+              "text": "Idéal pour personne discrète indique déjà le comportement attendu.",
+              "sep": " "
+            },
+            {
+              "id": "0160",
+              "start": 747.634,
+              "end": 752.394,
+              "text": "Dans la scène, Marc lit l'annonce comme une description du lieu.",
+              "sep": " "
+            },
+            {
+              "id": "0161",
+              "start": 754.274,
+              "end": 758.614,
+              "text": "Sophie, elle, entend aussi une description du futur habitant.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p014",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0162",
+              "start": 760.274,
+              "end": 763.564,
+              "text": "Sophie précise donc que l'adjectif concernait plutôt le dossier.",
+              "sep": " "
+            },
+            {
+              "id": "0163",
+              "start": 764.954,
+              "end": 769.354,
+              "text": "Un dossier, ici, c'est l'ensemble des documents pour louer :",
+              "sep": ""
+            },
+            {
+              "id": "0164",
+              "start": 770.314,
+              "end": 774.234,
+              "text": "une pièce d'identité, un justificatif de revenu,",
+              "sep": " "
+            },
+            {
+              "id": "0165",
+              "start": 775.114,
+              "end": 777.234,
+              "text": "une garantie et d'autres papiers utiles.",
+              "sep": " "
+            },
+            {
+              "id": "0166",
+              "start": 778.554,
+              "end": 780.994,
+              "text": "Un dossier complet contient les pièces demandées.",
+              "sep": " "
+            },
+            {
+              "id": "0167",
+              "start": 782.314,
+              "end": 784.554,
+              "text": "Un dossier sérieux inspire confiance.",
+              "sep": " "
+            },
+            {
+              "id": "0168",
+              "start": 785.634,
+              "end": 788.834,
+              "text": "Dans la scène, Marc a peut-être le bon dossier.",
+              "sep": " "
+            },
+            {
+              "id": "0169",
+              "start": 789.934,
+              "end": 792.694,
+              "text": "Mais la visite ne se passe pas seulement sur le papier.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p015",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0170",
+              "start": 793.088,
+              "end": 795.488,
+              "text": "Marc pose alors une question comique :",
+              "sep": ""
+            },
+            {
+              "id": "0171",
+              "start": 796.448,
+              "end": 801.988,
+              "text": "\"personne discrète\" était-elle une voisine charmante ? Non.",
+              "sep": " "
+            },
+            {
+              "id": "0172",
+              "start": 803.408,
+              "end": 807.768,
+              "text": "Une personne discrète, dans une annonce, désigne le profil souhaité.",
+              "sep": " "
+            },
+            {
+              "id": "0173",
+              "start": 809.708,
+              "end": 815.518,
+              "text": "Attention : personne peut aussi vouloir dire l'inverse, comme dans personne n'est venu.",
+              "sep": " "
+            },
+            {
+              "id": "0174",
+              "start": 816.228,
+              "end": 818.568,
+              "text": "Ici, ce n'est pas le cas :",
+              "sep": ""
+            },
+            {
+              "id": "0175",
+              "start": 819.508,
+              "end": 824.228,
+              "text": "il s'agit de la personne, c'est-à-dire un être humain.",
+              "sep": " "
+            },
+            {
+              "id": "0176",
+              "start": 825.408,
+              "end": 829.289,
+              "text": "Le mot personne est féminin, même si la personne est un homme.",
+              "sep": " "
+            },
+            {
+              "id": "0177",
+              "start": 830.768,
+              "end": 836.928,
+              "text": "On dit donc une personne discrète, une personne sérieuse, une personne organisée.",
+              "sep": " "
+            },
+            {
+              "id": "0178",
+              "start": 838.108,
+              "end": 843.228,
+              "text": "Marc est un homme, mais l'annonce parle d'une personne.",
+              "sep": " "
+            },
+            {
+              "id": "0179",
+              "start": 844.208,
+              "end": 846.589,
+              "text": "C'est pourquoi Sophie dira plus tard :",
+              "sep": ""
+            },
+            {
+              "id": "0180",
+              "start": 847.128,
+              "end": 851.248,
+              "text": "une personne calme, sérieuse et discrète.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p016",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0181",
+              "start": 852.508,
+              "end": 857.268,
+              "text": "Le profil souhaité, c'est le type de personne que le propriétaire espère trouver.",
+              "sep": " "
+            },
+            {
+              "id": "0182",
+              "start": 858.768,
+              "end": 865.149,
+              "text": "On peut voir cette expression dans une annonce de logement, dans une offre d'emploi ou dans une activité de groupe.",
+              "sep": " "
+            },
+            {
+              "id": "0183",
+              "start": 866.508,
+              "end": 870.408,
+              "text": "Elle ne décrit pas une personne précise, déjà présente.",
+              "sep": " "
+            },
+            {
+              "id": "0184",
+              "start": 871.308,
+              "end": 874.428,
+              "text": "Elle décrit un ensemble de qualités attendues.",
+              "sep": " "
+            },
+            {
+              "id": "0185",
+              "start": 875.588,
+              "end": 881.688,
+              "text": "Dans la scène, Marc comprend peu à peu que l'annonce n'était pas seulement une publicité pour le studio.",
+              "sep": " "
+            },
+            {
+              "id": "0186",
+              "start": 883.188,
+              "end": 886.548,
+              "text": "C'était aussi une petite liste de qualités pour le futur locataire.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p017",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0187",
+              "start": 886.926,
+              "end": 889.846,
+              "text": "Sophie explique que le propriétaire habite au-dessus.",
+              "sep": " "
+            },
+            {
+              "id": "0188",
+              "start": 890.966,
+              "end": 893.886,
+              "text": "Le propriétaire est la personne qui possède le logement.",
+              "sep": " "
+            },
+            {
+              "id": "0189",
+              "start": 894.866,
+              "end": 898.246,
+              "text": "Le locataire est la personne qui loue et habite le logement.",
+              "sep": " "
+            },
+            {
+              "id": "0190",
+              "start": 899.446,
+              "end": 906.326,
+              "text": "Dans un immeuble, quand le propriétaire habite juste au-dessus, le bruit devient vite une question sensible.",
+              "sep": " "
+            },
+            {
+              "id": "0191",
+              "start": 907.806,
+              "end": 913.166,
+              "text": "Il aime les locataires calmes, soigneux et silencieux après l'heure du calme.",
+              "sep": " "
+            },
+            {
+              "id": "0192",
+              "start": 914.326,
+              "end": 919.686,
+              "text": "Soigneux veut dire attentif, propre, prudent avec les objets.",
+              "sep": " "
+            },
+            {
+              "id": "0193",
+              "start": 921.426,
+              "end": 923.366,
+              "text": "Silencieux veut dire qui fait peu de bruit.",
+              "sep": " "
+            },
+            {
+              "id": "0194",
+              "start": 924.786,
+              "end": 930.046,
+              "text": "Locataires est au pluriel, donc calmes prend un s.",
+              "sep": " "
+            },
+            {
+              "id": "0195",
+              "start": 931.586,
+              "end": 936.026,
+              "text": "Soigneux et silencieux gardent le x au masculin pluriel.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p018",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0196",
+              "start": 937.786,
+              "end": 940.466,
+              "text": "Cette heure du calme n'est pas une règle magique.",
+              "sep": " "
+            },
+            {
+              "id": "0197",
+              "start": 940.466,
+              "end": 944.086,
+              "text": "C'est surtout un repère social très courant :",
+              "sep": ""
+            },
+            {
+              "id": "0198",
+              "start": 945.066,
+              "end": 948.066,
+              "text": "on baisse la musique, on évite les grands travaux,",
+              "sep": " "
+            },
+            {
+              "id": "0199",
+              "start": 948.966,
+              "end": 950.566,
+              "text": "on fait attention aux voisins.",
+              "sep": " "
+            },
+            {
+              "id": "0200",
+              "start": 951.946,
+              "end": 956.786,
+              "text": "Cette information explique pourquoi les adjectifs calmes et silencieux sont si importants.",
+              "sep": " "
+            },
+            {
+              "id": "0201",
+              "start": 958.366,
+              "end": 960.546,
+              "text": "Sophie ne cherche pas seulement un bon dossier.",
+              "sep": " "
+            },
+            {
+              "id": "0202",
+              "start": 961.966,
+              "end": 967.926,
+              "text": "Elle cherche quelqu'un qui peut vivre près des autres sans transformer le studio en théâtre permanent.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p019",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0203",
+              "start": 968.285,
+              "end": 972.205,
+              "text": "Marc répond qu'il est calme seulement quand l'espace est généreux.",
+              "sep": " "
+            },
+            {
+              "id": "0204",
+              "start": 973.585,
+              "end": 977.645,
+              "text": "Généreux veut dire large, abondant, pas trop limité.",
+              "sep": " "
+            },
+            {
+              "id": "0205",
+              "start": 978.885,
+              "end": 980.465,
+              "text": "Un salon peut être généreux,",
+              "sep": ""
+            },
+            {
+              "id": "0206",
+              "start": 981.245,
+              "end": 986.705,
+              "text": "une portion au restaurant peut être généreuse, un horaire peut être généreux.",
+              "sep": " "
+            },
+            {
+              "id": "0207",
+              "start": 987.205,
+              "end": 990.366,
+              "text": "Mais un studio étroit ne donne pas beaucoup d'espace.",
+              "sep": " "
+            },
+            {
+              "id": "0208",
+              "start": 991.365,
+              "end": 995.185,
+              "text": "Marc avoue alors qu'il devient philosophique,",
+              "sep": ""
+            },
+            {
+              "id": "0209",
+              "start": 996.205,
+              "end": 998.825,
+              "text": "dramatique, puis sonore.",
+              "sep": " "
+            },
+            {
+              "id": "0210",
+              "start": 1000.045,
+              "end": 1001.626,
+              "text": "Sonore signifie qu'on l'entend :",
+              "sep": ""
+            },
+            {
+              "id": "0211",
+              "start": 1002.665,
+              "end": 1007.185,
+              "text": "une voix sonore, une salle sonore, un rire sonore.",
+              "sep": " "
+            },
+            {
+              "id": "0212",
+              "start": 1008.885,
+              "end": 1013.365,
+              "text": "Pour un logement qui cherche une personne calme, c'est une confession dangereuse.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p020",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0213",
+              "start": 1014.725,
+              "end": 1021.385,
+              "text": "Sophie dit : \"C'est noté.\" Cette petite formule est sèche et professionnelle.",
+              "sep": " "
+            },
+            {
+              "id": "0214",
+              "start": 1022.945,
+              "end": 1028.045,
+              "text": "Elle signifie : j'ai entendu, je garde cette information.",
+              "sep": " "
+            },
+            {
+              "id": "0215",
+              "start": 1029.445,
+              "end": 1035.406,
+              "text": "Puis elle continue la visite avec la salle de bains, les carreaux bleus et la porte.",
+              "sep": " "
+            },
+            {
+              "id": "0216",
+              "start": 1036.885,
+              "end": 1039.045,
+              "text": "Une salle de bains est une pièce pour se laver.",
+              "sep": " "
+            },
+            {
+              "id": "0217",
+              "start": 1039.905,
+              "end": 1044.745,
+              "text": "Les carreaux sont les petits éléments durs sur le sol ou sur les murs.",
+              "sep": " "
+            },
+            {
+              "id": "0218",
+              "start": 1046.105,
+              "end": 1048.865,
+              "text": "Ici, Sophie donne des points positifs :",
+              "sep": ""
+            },
+            {
+              "id": "0219",
+              "start": 1050.105,
+              "end": 1055.345,
+              "text": "petite mais neuve, bleus, récents, porte qui ferme bien.",
+              "sep": " "
+            },
+            {
+              "id": "0220",
+              "start": 1056.685,
+              "end": 1057.725,
+              "text": "Elle revient au concret.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p021",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0221",
+              "start": 1058.127,
+              "end": 1062.327,
+              "text": "Marc, lui, donne encore une personnalité aux objets.",
+              "sep": " "
+            },
+            {
+              "id": "0222",
+              "start": 1063.627,
+              "end": 1065.147,
+              "text": "La porte devient courageuse.",
+              "sep": " "
+            },
+            {
+              "id": "0223",
+              "start": 1066.167,
+              "end": 1070.087,
+              "text": "Elle protège peut-être la salle de bains, ou elle protège Marc.",
+              "sep": " "
+            },
+            {
+              "id": "0224",
+              "start": 1072.047,
+              "end": 1075.207,
+              "text": "Large garde la même forme au masculin et au féminin,",
+              "sep": ""
+            },
+            {
+              "id": "0225",
+              "start": 1075.627,
+              "end": 1079.487,
+              "text": "donc la porte est large, un couloir est large.",
+              "sep": " "
+            },
+            {
+              "id": "0226",
+              "start": 1080.847,
+              "end": 1085.127,
+              "text": "Courageuse, en revanche, est la forme féminine de courageux.",
+              "sep": " "
+            },
+            {
+              "id": "0227",
+              "start": 1085.907,
+              "end": 1089.147,
+              "text": "Cette remarque n'est pas seulement grammaticale.",
+              "sep": " "
+            },
+            {
+              "id": "0228",
+              "start": 1090.467,
+              "end": 1096.147,
+              "text": "Elle montre que Marc parle trop, même quand Sophie lui offre une information positive.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p022",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0229",
+              "start": 1097.907,
+              "end": 1101.567,
+              "text": "Sophie arrive au bilan : \"Le studio est disponible,",
+              "sep": ""
+            },
+            {
+              "id": "0230",
+              "start": 1102.407,
+              "end": 1106.407,
+              "text": "les charges sont raisonnables, et votre dossier est complet.\"",
+              "sep": " "
+            },
+            {
+              "id": "0231",
+              "start": 1107.767,
+              "end": 1110.327,
+              "text": "Disponible veut dire qu'on peut louer le studio.",
+              "sep": " "
+            },
+            {
+              "id": "0232",
+              "start": 1111.607,
+              "end": 1113.707,
+              "text": "Les charges sont les frais liés au logement,",
+              "sep": ""
+            },
+            {
+              "id": "0233",
+              "start": 1114.247,
+              "end": 1119.367,
+              "text": "par exemple l'entretien, l'eau ou certains services.",
+              "sep": " "
+            },
+            {
+              "id": "0234",
+              "start": 1120.767,
+              "end": 1125.447,
+              "text": "Raisonnable veut dire acceptable, pas excessif.",
+              "sep": " "
+            },
+            {
+              "id": "0235",
+              "start": 1127.027,
+              "end": 1129.067,
+              "text": "Un prix raisonnable rassure.",
+              "sep": " "
+            },
+            {
+              "id": "0236",
+              "start": 1130.287,
+              "end": 1132.507,
+              "text": "Des charges raisonnables rassurent aussi.",
+              "sep": " "
+            },
+            {
+              "id": "0237",
+              "start": 1133.827,
+              "end": 1138.807,
+              "text": "Enfin, un dossier complet est normalement une très bonne nouvelle pour un candidat.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p023",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0238",
+              "start": 1139.164,
+              "end": 1141.284,
+              "text": "Mais Marc demande trop vite :",
+              "sep": ""
+            },
+            {
+              "id": "0239",
+              "start": 1142.344,
+              "end": 1147.224,
+              "text": "\"Donc je suis choisi ?\" Sophie répond : \"Pas encore.\"",
+              "sep": " "
+            },
+            {
+              "id": "0240",
+              "start": 1148.644,
+              "end": 1153.744,
+              "text": "L'annonce cherchait une personne calme, sérieuse et discrète.",
+              "sep": " "
+            },
+            {
+              "id": "0241",
+              "start": 1154.764,
+              "end": 1159.304,
+              "text": "Le mot personne commande les formes féminines sérieuse et discrète.",
+              "sep": " "
+            },
+            {
+              "id": "0242",
+              "start": 1160.324,
+              "end": 1163.505,
+              "text": "Marc a un dossier complet, mais pendant la visite il",
+              "sep": ""
+            },
+            {
+              "id": "0243",
+              "start": 1163.506,
+              "end": 1168.544,
+              "text": "a insulté trois murs, une porte et une cuisine.",
+              "sep": " "
+            },
+            {
+              "id": "0244",
+              "start": 1169.304,
+              "end": 1173.984,
+              "text": "La blague vient de là : il a compris les adjectifs du logement,",
+              "sep": " "
+            },
+            {
+              "id": "0245",
+              "start": 1174.884,
+              "end": 1178.464,
+              "text": "mais il n'a pas montré les adjectifs de la personne idéale.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p024",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0246",
+              "start": 1180.044,
+              "end": 1183.024,
+              "text": "La dernière phrase de Marc garde le ton comique :",
+              "sep": ""
+            },
+            {
+              "id": "0247",
+              "start": 1184.104,
+              "end": 1187.564,
+              "text": "il propose de revenir demain \"silencieux,",
+              "sep": " "
+            },
+            {
+              "id": "0248",
+              "start": 1188.104,
+              "end": 1189.984,
+              "text": "poli et beaucoup plus petit\".",
+              "sep": " "
+            },
+            {
+              "id": "0249",
+              "start": 1191.964,
+              "end": 1195.084,
+              "text": "Silencieux et poli peuvent vraiment décrire son comportement.",
+              "sep": " "
+            },
+            {
+              "id": "0250",
+              "start": 1195.904,
+              "end": 1199.284,
+              "text": "Plus petit, en revanche, est impossible.",
+              "sep": " "
+            },
+            {
+              "id": "0251",
+              "start": 1200.864,
+              "end": 1203.464,
+              "text": "Il ne peut pas réduire sa taille pour plaire au studio.",
+              "sep": " "
+            },
+            {
+              "id": "0252",
+              "start": 1204.864,
+              "end": 1208.124,
+              "text": "Il comprend le problème, mais il reste Marc :",
+              "sep": ""
+            },
+            {
+              "id": "0253",
+              "start": 1209.144,
+              "end": 1213.284,
+              "text": "imaginatif, dramatique, et pas tout à fait discret.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p025",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0254",
+              "start": 1213.728,
+              "end": 1217.828,
+              "text": "À l'oral, écoutez surtout les formes qui changent clairement.",
+              "sep": " "
+            },
+            {
+              "id": "0255",
+              "start": 1219.528,
+              "end": 1225.368,
+              "text": "Sérieux devient sérieuse, discret devient discrète, ouvert devient ouverte.",
+              "sep": " "
+            },
+            {
+              "id": "0256",
+              "start": 1227.348,
+              "end": 1228.928,
+              "text": "Écoutez aussi ancien et ancienne :",
+              "sep": ""
+            },
+            {
+              "id": "0257",
+              "start": 1229.888,
+              "end": 1234.738,
+              "text": "au féminin, on entend le n ; nouveau devient nouvelle,",
+              "sep": " "
+            },
+            {
+              "id": "0258",
+              "start": 1235.388,
+              "end": 1236.848,
+              "text": "avec un son très différent.",
+              "sep": " "
+            },
+            {
+              "id": "0259",
+              "start": 1238.168,
+              "end": 1243.268,
+              "text": "D'autres adjectifs, comme calme, pratique ou raisonnable,",
+              "sep": ""
+            },
+            {
+              "id": "0260",
+              "start": 1244.008,
+              "end": 1248.368,
+              "text": "se prononcent de la même façon au masculin et au féminin.",
+              "sep": " "
+            },
+            {
+              "id": "0261",
+              "start": 1249.028,
+              "end": 1252.889,
+              "text": "Dans ce cas, le nom autour de l'adjectif donne l'information.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "03-explication-p026",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0262",
+              "start": 1254.668,
+              "end": 1256.369,
+              "text": "Retenons surtout le mouvement de la scène.",
+              "sep": " "
+            },
+            {
+              "id": "0263",
+              "start": 1257.628,
+              "end": 1261.188,
+              "text": "Au début, les mots vendent un logement.",
+              "sep": " "
+            },
+            {
+              "id": "0264",
+              "start": 1262.528,
+              "end": 1266.208,
+              "text": "À la fin, ils dessinent l'impression laissée par Marc.",
+              "sep": " "
+            },
+            {
+              "id": "0265",
+              "start": 1267.008,
+              "end": 1269.128,
+              "text": "Sophie fait visiter le studio ;",
+              "sep": ""
+            },
+            {
+              "id": "0266",
+              "start": 1270.468,
+              "end": 1274.028,
+              "text": "Marc, sans le vouloir, fait visiter son caractère.",
+              "sep": " "
+            },
+            {
+              "id": "0267",
+              "start": 1275.768,
+              "end": 1280.588,
+              "text": "Maintenant, écoutons le dialogue, cette fois à vitesse naturelle.",
+              "sep": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04-dialogue-naturel",
+      "label": "Dialogue - vitesse naturelle",
+      "isDialogue": true,
+      "paragraphs": [
+        {
+          "id": "04-dialogue-naturel-p001",
+          "speaker": "Sophie",
+          "cues": [
+            {
+              "id": "0268",
+              "start": 1287.59,
+              "end": 1290.61,
+              "text": "Bonjour Marc, vous êtes à l'heure, c'est déjà agréable.",
+              "sep": " "
+            },
+            {
+              "id": "0269",
+              "start": 1291.99,
+              "end": 1296.311,
+              "text": "Le studio est petit, mais lumineux, et la cour est très calme le matin.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p002",
+          "speaker": "Marc",
+          "cues": [
+            {
+              "id": "0270",
+              "start": 1297.05,
+              "end": 1297.631,
+              "text": "Petit, je vois.",
+              "sep": " "
+            },
+            {
+              "id": "0271",
+              "start": 1298.45,
+              "end": 1299.81,
+              "text": "Lumineux, je cherche encore.",
+              "sep": " "
+            },
+            {
+              "id": "0272",
+              "start": 1300.97,
+              "end": 1304.43,
+              "text": "Sur les photos, la pièce était grande, blanche et presque royale.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p003",
+          "speaker": "Sophie",
+          "cues": [
+            {
+              "id": "0273",
+              "start": 1304.97,
+              "end": 1306.31,
+              "text": "Les photos sont optimistes.",
+              "sep": " "
+            },
+            {
+              "id": "0274",
+              "start": 1306.93,
+              "end": 1310.69,
+              "text": "La pièce est blanche, oui, mais grande seulement si vous êtes très organisé.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p004",
+          "speaker": "Marc",
+          "cues": [
+            {
+              "id": "0275",
+              "start": 1311.37,
+              "end": 1313.31,
+              "text": "Je suis organisé quand les murs coopèrent.",
+              "sep": " "
+            },
+            {
+              "id": "0276",
+              "start": 1314.05,
+              "end": 1317.97,
+              "text": "Ici, ils sont proches, anciens, et un peu curieux.",
+              "sep": " "
+            },
+            {
+              "id": "0277",
+              "start": 1319.29,
+              "end": 1321.31,
+              "text": "J'entends déjà le voisin respirer.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p005",
+          "speaker": "Sophie",
+          "cues": [
+            {
+              "id": "0278",
+              "start": 1321.59,
+              "end": 1322.55,
+              "text": "Le voisin est discret.",
+              "sep": " "
+            },
+            {
+              "id": "0279",
+              "start": 1323.61,
+              "end": 1326.03,
+              "text": "Les murs sont anciens, mais les fenêtres sont nouvelles.",
+              "sep": " "
+            },
+            {
+              "id": "0280",
+              "start": 1326.75,
+              "end": 1331.01,
+              "text": "Regardez, la cuisine est ouverte et les placards sont profonds.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p006",
+          "speaker": "Marc",
+          "cues": [
+            {
+              "id": "0281",
+              "start": 1331.69,
+              "end": 1332.33,
+              "text": "Ouverte ?",
+              "sep": " "
+            },
+            {
+              "id": "0282",
+              "start": 1332.97,
+              "end": 1334.39,
+              "text": "Elle est ouverte sur mon manteau.",
+              "sep": " "
+            },
+            {
+              "id": "0283",
+              "start": 1335.19,
+              "end": 1340.11,
+              "text": "Si je fais une omelette, ma veste sera parfumée, chaude et probablement triste.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p007",
+          "speaker": "Sophie",
+          "cues": [
+            {
+              "id": "0284",
+              "start": 1340.53,
+              "end": 1344.37,
+              "text": "Vous avez beaucoup d'adjectifs pour un homme qui visite depuis quatre minutes.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p008",
+          "speaker": "Marc",
+          "cues": [
+            {
+              "id": "0285",
+              "start": 1345.03,
+              "end": 1346.61,
+              "text": "C'est parce que l'annonce était précise :",
+              "sep": ""
+            },
+            {
+              "id": "0286",
+              "start": 1347.79,
+              "end": 1352.417,
+              "text": "\"studio calme, sérieux, idéal pour personne discrète\".",
+              "sep": " "
+            },
+            {
+              "id": "0287",
+              "start": 1353.25,
+              "end": 1358.51,
+              "text": "Je croyais que le studio était sérieux, avec une petite bibliothèque intérieure et des principes.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p009",
+          "speaker": "Sophie",
+          "cues": [
+            {
+              "id": "0288",
+              "start": 1358.95,
+              "end": 1362.11,
+              "text": "Un studio peut être pratique, propre, lumineux.",
+              "sep": " "
+            },
+            {
+              "id": "0289",
+              "start": 1363.83,
+              "end": 1364.69,
+              "text": "Sérieux, c'est plus rare.",
+              "sep": " "
+            },
+            {
+              "id": "0290",
+              "start": 1365.55,
+              "end": 1367.37,
+              "text": "L'adjectif concernait plutôt le dossier.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p010",
+          "speaker": "Marc",
+          "cues": [
+            {
+              "id": "0291",
+              "start": 1367.84,
+              "end": 1368.19,
+              "text": "Ah.",
+              "sep": " "
+            },
+            {
+              "id": "0292",
+              "start": 1368.89,
+              "end": 1373.15,
+              "text": "Donc \"personne discrète\" n'était pas une voisine charmante qui arrose les plantes ?",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p011",
+          "speaker": "Sophie",
+          "cues": [
+            {
+              "id": "0293",
+              "start": 1373.73,
+              "end": 1375.79,
+              "text": "Non, c'était le profil souhaité.",
+              "sep": " "
+            },
+            {
+              "id": "0294",
+              "start": 1376.75,
+              "end": 1378.43,
+              "text": "Le propriétaire habite au-dessus.",
+              "sep": " "
+            },
+            {
+              "id": "0295",
+              "start": 1379.49,
+              "end": 1383.55,
+              "text": "Il aime les locataires calmes, soigneux et silencieux après vingt-deux heures.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p012",
+          "speaker": "Marc",
+          "cues": [
+            {
+              "id": "0296",
+              "start": 1384.25,
+              "end": 1386.15,
+              "text": "Je suis calme quand l'espace est généreux.",
+              "sep": " "
+            },
+            {
+              "id": "0297",
+              "start": 1386.93,
+              "end": 1393.63,
+              "text": "Dans un studio étroit, je deviens philosophique, puis dramatique, puis très sonore malgré moi.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p013",
+          "speaker": "Sophie",
+          "cues": [
+            {
+              "id": "0298",
+              "start": 1393.63,
+              "end": 1394.47,
+              "text": "C'est noté.",
+              "sep": " "
+            },
+            {
+              "id": "0299",
+              "start": 1395.45,
+              "end": 1397.25,
+              "text": "La salle de bains est petite mais neuve.",
+              "sep": " "
+            },
+            {
+              "id": "0300",
+              "start": 1398.15,
+              "end": 1401.09,
+              "text": "Les carreaux bleus sont récents, et la porte ferme très bien.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p014",
+          "speaker": "Marc",
+          "cues": [
+            {
+              "id": "0301",
+              "start": 1401.83,
+              "end": 1405.17,
+              "text": "Elle ferme pour protéger la salle de bains ou pour me protéger, moi ?",
+              "sep": " "
+            },
+            {
+              "id": "0302",
+              "start": 1406.17,
+              "end": 1409.33,
+              "text": "Parce que la porte est courageuse, mais pas très large.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p015",
+          "speaker": "Sophie",
+          "cues": [
+            {
+              "id": "0303",
+              "start": 1410.11,
+              "end": 1411.87,
+              "text": "Marc, je dois être honnête.",
+              "sep": " "
+            },
+            {
+              "id": "0304",
+              "start": 1412.79,
+              "end": 1417.27,
+              "text": "Le studio est disponible, les charges sont raisonnables, et votre dossier est complet.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p016",
+          "speaker": "Marc",
+          "cues": [
+            {
+              "id": "0305",
+              "start": 1417.91,
+              "end": 1419.41,
+              "text": "Enfin une phrase positive.",
+              "sep": " "
+            },
+            {
+              "id": "0306",
+              "start": 1419.95,
+              "end": 1420.87,
+              "text": "Donc je suis choisi ?",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p017",
+          "speaker": "Sophie",
+          "cues": [
+            {
+              "id": "0307",
+              "start": 1421.57,
+              "end": 1422.15,
+              "text": "Pas encore.",
+              "sep": " "
+            },
+            {
+              "id": "0308",
+              "start": 1422.95,
+              "end": 1426.95,
+              "text": "L'annonce cherchait une personne calme, sérieuse et discrète.",
+              "sep": " "
+            },
+            {
+              "id": "0309",
+              "start": 1428.49,
+              "end": 1432.65,
+              "text": "Depuis l'entrée, vous avez insulté trois murs, une porte et une cuisine.",
+              "sep": ""
+            }
+          ]
+        },
+        {
+          "id": "04-dialogue-naturel-p018",
+          "speaker": "Marc",
+          "cues": [
+            {
+              "id": "0310",
+              "start": 1433.37,
+              "end": 1433.81,
+              "text": "D'accord.",
+              "sep": " "
+            },
+            {
+              "id": "0311",
+              "start": 1434.69,
+              "end": 1439.97,
+              "text": "Je peux revenir demain, silencieux, poli et beaucoup plus petit, sans commentaire sur la porte.",
+              "sep": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "05-conclusion",
+      "label": "Conclusion",
+      "isDialogue": false,
+      "paragraphs": [
+        {
+          "id": "05-conclusion-p001",
+          "speaker": null,
+          "cues": [
+            {
+              "id": "0312",
+              "start": 1447.004,
+              "end": 1449.684,
+              "text": "Voilà pour \"Le studio calme\".",
+              "sep": " "
+            },
+            {
+              "id": "0313",
+              "start": 1451.144,
+              "end": 1454.184,
+              "text": "Pendant la visite, Marc écoute les mots de l'annonce,",
+              "sep": ""
+            },
+            {
+              "id": "0314",
+              "start": 1454.924,
+              "end": 1458.145,
+              "text": "mais il montre surtout sa propre manière d'habiter l'espace.",
+              "sep": " "
+            },
+            {
+              "id": "0315",
+              "start": 1459.664,
+              "end": 1463.084,
+              "text": "Gardez aussi ce contraste : un bon dossier aide beaucoup,",
+              "sep": " "
+            },
+            {
+              "id": "0316",
+              "start": 1463.864,
+              "end": 1467.084,
+              "text": "mais une première impression trop bruyante peut compliquer la visite.",
+              "sep": " "
+            },
+            {
+              "id": "0317",
+              "start": 1468.564,
+              "end": 1471.504,
+              "text": "Retenez les formes qui s'entendent bien à l'oral :",
+              "sep": ""
+            },
+            {
+              "id": "0318",
+              "start": 1472.304,
+              "end": 1479.464,
+              "text": "sérieux, sérieuse ; discret, discrète ; ouvert, ouverte.",
+              "sep": " "
+            },
+            {
+              "id": "0319",
+              "start": 1480.784,
+              "end": 1487.404,
+              "text": "À bientôt dans le Podcast de français langue étrangère, et pendant votre prochaine visite, restez calmes,",
+              "sep": " "
+            },
+            {
+              "id": "0320",
+              "start": 1488.144,
+              "end": 1491.944,
+              "text": "sérieux... et ne critiquez pas la cuisine trop tôt.",
+              "sep": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

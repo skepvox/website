@@ -22,5 +22,13 @@
     "durationSeconds": 1325.469,
     "description": "Un covoiturage poli, entre présentations et tu/vous.",
     "artworkUrl": "https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg"
+  },
+  {
+    "number": 4,
+    "title": "Le studio calme",
+    "href": "/podcast/francais/004-le-studio-calme",
+    "durationSeconds": 1498.973,
+    "description": "Accord de l'adjectif au masculin, au féminin, au singulier, au pluriel, et avec je, tu, vous et on.",
+    "artworkUrl": "https://media.skepvox.com/podcast/francais/artwork/show-cover-v3.jpg"
   }
 ]
