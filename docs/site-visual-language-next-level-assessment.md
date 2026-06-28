@@ -161,12 +161,13 @@ Keep the palette **quiet**. The accent token (`--sk-accent #2f4a6b` → `#8fb3df
 
 All additive, subtle, inside the global reduced-motion floor (`utilities.css` neutralises transitions/animations/smooth-scroll under `prefers-reduced-motion: reduce`).
 
-- **Hover / focus / tap.** Replace the homepage arrow-nudge (`translateX(3px)` on `.pillar__go`) with a **spine-tick reveal**: the left tick fades/grows in on pointer-hover. Pointer-gated (`@media (hover: hover) and (pointer: fine)`), reduced-motion-gated. The tick is a *hover* affordance only — keyboard focus surfaces `SkLink`'s focus ring (Home.vue must not declare its own `:focus-visible`, per `nav-interaction-states.spec.ts`), and tap stays neutral (SkLink owns the no-sticky-hover contract). The *signature* becomes the interaction; an arrow retires. (Replacing the `translateX(3px)` hover signature means the one `Home.vue` hover assertion in `nav-interaction-states.spec.ts` is updated to the spine-tick — see §9 V1 / §11.)
+- **Hover / focus / tap.** Replace the homepage arrow-nudge (`translateX(3px)` on `.pillar__go`) with the spine language, but **do not rely on hover for clickability**. On mobile there is no hover; each pillar must read as a tappable catalogue entry at rest through its mark/tick, indentation, target shape, and text grouping. Pointer-hover may add a spine-tick reveal; keyboard focus surfaces `SkLink`'s ring (Home.vue must not declare its own `:focus-visible`, per `nav-interaction-states.spec.ts`); tap stays neutral (SkLink owns the no-sticky-hover contract). The arrow retires because the entry itself becomes the affordance. (Replacing the `translateX(3px)` hover signature means the one `Home.vue` hover assertion in `nav-interaction-states.spec.ts` is updated to the spine-tick — see §9 V1 / §11.)
 - **Disclosure.** Keep the `disclosure` chevron's 90° rotation on open (token-timed, reduced-motion gated). The one correct micro-animation.
 - **Active / current.** Promote `box-shadow: inset 2px 0 0 var(--sk-reading-current)` to the **system-wide** "you are here" mark (homepage hover, map current row, leaf location). One language for presence.
 - **Podcast playback.** Keep the gold cue wash transition (the one alive surface). V4's owned transport may add a quiet play↔pause state change on the `play` glyph; reduced-motion gated.
+- **Ambient tonal life (V5/V6 candidate).** Explore CSS-only, almost imperceptible tonal movement only on marks, ticks, or the imprint — never on prose, rows, or page backgrounds. It must feel like ink catching light, not an animated interface. Every effect is off under `prefers-reduced-motion`.
 - **Page transitions.** The deferred View-Transitions crossfade stays deferred (SPA prefetch already softens swaps).
-- **Hard limits:** no scroll-jacking, no parallax, no entrance animations on load, nothing moving without a user action except the existing theme crossfade.
+- **Hard limits:** no scroll-jacking, no parallax, no entrance animations on load, no animated gradients/orbs/blobs, no animated reading text, and nothing moving without a user action except the existing theme crossfade or a deliberately accepted ambient mark/tick effect.
 
 ---
 
@@ -198,7 +199,7 @@ Keep the locked contract (exactly 3 pillar links, masthead `mark` + `subline`, n
 
 - **Tone the wordmark to ink** (drop the bright `--sk-accent` it uses today): in dark especially, the `#8fb3df` wordmark is currently the single loud element on the page, so this is the **committed** fix — the homepage test does not pin the colour. Setting `.home-masthead__mark` in **Literata** (within the tested 24–40px `--sk-masthead` clamp) is the **accepted aesthetic risk**: it reframes the wordmark as a title-page imprint rather than an app logo. It deliberately splits two lockups — the navbar "skepvox" stays the sans *running head*, the masthead becomes the serif *imprint* (a real book distinction). Validate it on the screenshots and **revert to the toned sans if it reads amateur**; the colour toning stands regardless.
 - Add the **rider colophon** as a decorative `aria-hidden` span (CSS mask of `logo.svg`, like `NavBarTitleBrand`), *not* an anchor — `homepage.spec.ts` forbids `.home-masthead a` and any eyebrow, so this stays compliant.
-- Replace the masthead `border-bottom` + the three `border-bottom`s with **one vertical spine** behind the pillar list and **space** between entries; the `→` is gone; hover reveals the spine tick (keyboard focus shows `SkLink`'s ring).
+- Replace the masthead `border-bottom` + the three `border-bottom`s with **one vertical spine** behind the pillar list and **space** between entries; the `→` is gone. The entry must still look tappable at rest on mobile; hover is only an enhancement for pointer devices.
 - Desktop: the spine sits in a slight **asymmetric left margin** (the pillar marks join it in V2) so the gateway reads as a *title page*, not a centered column in a void — this closes the desktop-void gap in V1, on the gateway. (The hub desktop margin column lands with the reader-map work.)
 
 ### 8b. Literatura / 8c. Filosofia — section / author / work
@@ -245,6 +246,8 @@ Do **not** touch the prose body (Literata, 35rem, 1.75). Add the **paper tone** 
 
 **Principle:** each slice delivers visible, reviewable progress on real surfaces. **No invisible token-only phase, and no splitting one coherent change across three tiny steps.** The earlier "foundation-only, almost nothing visible" V1 is replaced.
 
+**Post-V1 correction:** the spine alone is not enough. If the homepage pillars look like static text blocks on a phone, the slice has not solved the product problem. V2 must make the three pillar entries visibly tappable at rest on mobile without restoring arrows, adding cards, or adding copy. This is a required outcome, not a later nicety.
+
 ### V1 — The spine, proven on the gateway *and* the worst table *(visible — this is the proof slice)*
 
 Bounded: **one CSS primitive applied to two surfaces**, plus the rider seam. No data/route/dependency change; no pillar marks yet.
@@ -262,8 +265,9 @@ Bounded: **one CSS primitive applied to two surfaces**, plus the rider seam. No 
 
 - **`CardGrid` → spine catalogue entries:** drop the box (resting border transparent/none, raised fill removed) — fixes the **podcast episode boxes AND** the author/section hub lists in one change. **Keep** the tested hover line (`border-color: var(--sk-accent)` inside the pointer media query) so `nav-interaction-states.spec.ts` stays green; portrait/cover becomes a bookplate.
 - Apply the spine to the **Lavelle work hub + Literatura/Filosofia section & author hubs** (same V1 primitive); quiet the wrapping uppercase part labels.
-- **Pillar marks:** design and ship the three spine-glyph marks to **final quality**, visually assessed both modes — no placeholders.
-- **Validation:** screenshot section/author hubs + the podcast show page, both modes.
+- **Homepage mobile rest-state affordance:** the three homepage pillars must read as links without hover. Use final-quality marks/spine ticks, entry indentation, target rhythm, and touch-sized grouping so the row is visibly navigable before the user touches it. Do **not** restore arrows, badges, boxes, extra text, or full-width rules.
+- **Pillar marks:** design and ship the three spine-glyph marks to **final quality**, visually assessed both modes and mobile first — no placeholders.
+- **Validation:** screenshot homepage + section/author hubs + the podcast show page, mobile and desktop, both modes. Explicitly judge whether the homepage entries are tappable at rest on mobile.
 
 ### V3 — Reading surfaces + the heading-bar cleanup *(visible)*
 
@@ -279,6 +283,7 @@ Bounded: **one CSS primitive applied to two surfaces**, plus the rider seam. No 
 ### V5 — Pillar tonality + symbol polish + material light/dark pass *(visible, quiet)*
 
 - Tick-scale pillar tints (`--sk-pillar-*`) on marks + current/hover ticks only (never fills); finalize the mark family; make dark read as lamplight (warm paper lift) vs light-as-paper.
+- Assess restrained CSS-only tonal movement: a slow, reduced-motion-safe shift on a pillar mark, spine tick, or the `skepvox` imprint. Reject it if it reads as a startup gradient, decoration, or distraction. Do not animate rows, backgrounds, prose, or body copy.
 - **Validation:** all three pillars side by side, both modes.
 
 ### V6 — Visual QA sweep + minimal guardrails
@@ -326,9 +331,11 @@ Add only these lean, intention-encoding guardrails:
 - **Do not** turn the homepage into a hero or a card grid; keep the calm 3-pillar index and its locked contract.
 - **Do not** keep boxed `CardGrid` feature-cards (the podcast surface or the hubs); convert to catalogue entries on the spine.
 - **Do not** keep `→`/chevrons as the answer to "this is clickable." Keep chevrons only for prev/next, up, and disclosure; remove the homepage `→`; default new affordances to *no icon*.
+- **Do not** ship a homepage that depends on hover to communicate clickability; mobile rest-state affordance is mandatory.
 - **Do not** expand `ReaderIcon` for brand marks; use the separate `BrandMark` layer.
 - **Do not** ship weak/placeholder pillar marks. V1 ships only the real `rider`; the three pillar marks land **final-quality and visually assessed in V2**, or not at all.
 - **Do not** make the palette loud: no per-pillar coloured cards/backgrounds, no decorative gradient blobs/orbs/glows; pillar colour lives only at tick/mark scale.
+- **Do not** animate text blocks, prose, rows, backgrounds, gradients, blobs, or glows. Any motion/tonal life must be mark-scale, slow, optional, and disabled under `prefers-reduced-motion`.
 - **Do not** desaturate or shrink the podcast cover art to match the austere system — it is the site's one welcome spot of colour and tactility; frame it, don't flatten it.
 - **Do not** leave the rented "Navegar | Índice" band un-actioned on podcast surfaces — own it or hide it.
 - **Do not** change the test-locked tokens, classes, or contracts: `--sk-accent #2f4a6b`, the cue gold, the masthead clamp, the breadcrumb `h2`=13px / `h3`=uppercase-**sans**, the closed `ReaderIcon` union, the SkLink focus/hover split, ≥44px targets.
