@@ -33,6 +33,11 @@
   --sk-reading-prose: 1.0625rem; /* reading-leaf body (today implicit 1rem) */
   --sk-reading-current: var(--sk-accent); /* the one structural accent — the current-marker bar */
   --sk-reading-hairline: var(--sk-rule); /* semantic name for the hairline language */
+  /* The vertical reading-spine: one owned line that replaces the full-width per-row hairlines so a
+     contents list reads as a bound volume's edge, not a table. --sk-spine inherits the hairline ink
+     and --sk-spine-tick the structural accent, so both flip in dark automatically. */
+  --sk-spine: var(--sk-rule);
+  --sk-spine-tick: var(--sk-accent);
   /* Owned reader-icon vocabulary (Slice C1). Consumed by the ReaderIcon wrapper; no consumer wired
      yet. The stroke is rendered with vector-effect:non-scaling-stroke so the value is a constant
      VISUAL px (1.5px) at any glyph size, per the assessment's "1.5px calm hairline" target. */

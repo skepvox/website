@@ -27,7 +27,7 @@ function hoverIsPointerGated(source: string, signatureHoverDecl: string): boolea
 // neutral pressed/touch state (card-sized surfaces tune --sk-link-focus-radius).
 const OWNED = [
   { file: 'components/CardGrid.vue', hover: 'border-color: var(--sk-accent)' },
-  { file: 'components/Home.vue', hover: 'transform: translateX(3px)' },
+  { file: 'components/Home.vue', hover: 'transform: scaleY(1)' },
   { file: 'components/PodcastShowHeader.vue', hover: 'border-bottom-color: var(--sk-accent)' },
   { file: 'components/PipelineSegmentNav.vue', hover: 'color: var(--sk-reading-heading)' },
   { file: 'components/PodcastEpisodeNav.vue', hover: 'color: var(--sk-reading-heading)' }

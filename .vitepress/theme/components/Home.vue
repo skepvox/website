@@ -6,8 +6,6 @@ import { filosofiaFeaturedWork } from './filosofia-cards'
 import { voxFrancaisFeaturedEpisode } from './podcast-featured'
 import type { FeaturedWork } from './cards'
 
-// Each pillar surfaces one quiet proof-of-life line as "marker · title": original publication year for
-// books, catalogue number for Vox Francais. Home.vue never imports pipeline-export JSON directly.
 const featured: Record<string, FeaturedWork | null> = {
   literatura: literaturaFeaturedWork(),
   filosofia: filosofiaFeaturedWork(),
@@ -18,17 +16,14 @@ const featured: Record<string, FeaturedWork | null> = {
 <template>
   <div class="home-index">
     <header class="home-masthead">
+      <span class="home-masthead__colophon" aria-hidden="true"></span>
       <h1 class="home-masthead__mark">skepvox</h1>
       <p class="home-masthead__subline">Leituras e estudos pessoais, reunidos em três seções.</p>
     </header>
 
     <nav class="home-pillars" aria-label="Seções">
-      <!-- The three visible pillars are the single IA in pillars.ts, shared with the global nav so the
-           two cannot drift. A calm hairline table-of-contents: one SkLink row per pillar — label +
-           arrow, blurb, and one quiet live line. The live line is plain text, never an extra link. -->
       <SkLink v-for="pillar in PILLARS" :key="pillar.key" class="pillar" :href="pillar.href">
         <h2 class="pillar__label">{{ pillar.label }}</h2>
-        <span class="pillar__go" aria-hidden="true">→</span>
         <p class="pillar__blurb">{{ pillar.blurb }}</p>
         <p v-if="featured[pillar.key]" class="pillar__live">
           <span class="pillar__live-meta">{{ featured[pillar.key]?.meta }}</span>
@@ -41,10 +36,6 @@ const featured: Record<string, FeaturedWork | null> = {
 </template>
 
 <style scoped>
-/* A6 — the homepage is a calm editorial index into the three site pillars (Literatura / Filosofia /
-   Vox Français), not a marketing hero. A quiet left-aligned masthead (wordmark -> subline) sits over
-   a hairline table-of-contents; tokens only, no cards, no shadows. The single ink-blue accent is
-   confined to the wordmark + pointer interaction. */
 .home-index {
   max-width: var(--sk-measure-lede);
   margin: 0 auto;
@@ -52,20 +43,29 @@ const featured: Record<string, FeaturedWork | null> = {
 }
 
 .home-masthead {
-  margin-bottom: 0;
-  padding-bottom: var(--sk-space-6);
-  border-bottom: 1px solid var(--sk-reading-hairline);
+  margin: 0 0 var(--sk-space-7);
+}
+
+.home-masthead__colophon {
+  display: block;
+  width: 46px;
+  height: 46px;
+  margin-bottom: var(--sk-space-4);
+  background-color: var(--sk-brand-mark);
+  -webkit-mask: url(/logo.svg) center / contain no-repeat;
+  mask: url(/logo.svg) center / contain no-repeat;
 }
 
 .home-masthead__mark {
   margin: 0;
   padding: 0;
   border: 0;
-  font-size: var(--sk-masthead); /* clamp(1.85rem, 4vw, 2.25rem) — never the old 76px */
+  font-family: var(--sk-reading-title-font);
+  font-size: var(--sk-masthead);
   font-weight: 600;
-  letter-spacing: -0.02em;
-  line-height: 1.12;
-  color: var(--sk-accent); /* the single static use of the structural accent */
+  letter-spacing: -0.01em;
+  line-height: 1.1;
+  color: var(--sk-text);
 }
 
 .home-masthead__subline {
@@ -76,31 +76,40 @@ const featured: Record<string, FeaturedWork | null> = {
   color: var(--sk-text-body);
 }
 
-/* Pillars — a hairline-framed table of contents, identical structure on desktop + mobile. */
 .home-pillars {
-  border-top: 0;
+  border-inline-start: 1px solid var(--sk-spine);
+  padding-inline-start: var(--sk-space-5);
 }
 
 .pillar {
-  display: grid;
-  grid-template-columns: 1fr auto;
-  column-gap: var(--sk-space-4);
-  row-gap: var(--sk-space-2);
-  align-items: start;
+  display: block;
+  position: relative;
   padding: var(--sk-space-5) 0;
-  border-bottom: 1px solid var(--vt-c-divider);
   text-decoration: none;
   color: inherit;
-  /* SkLink rounds its focus ring to the row's corner radius. */
   --sk-link-focus-radius: var(--sk-radius-sm);
 }
 
+.pillar::before {
+  content: '';
+  position: absolute;
+  left: calc(-1 * var(--sk-space-5) - 1px);
+  top: var(--sk-space-5);
+  width: 2px;
+  height: 1.45rem;
+  background: var(--sk-spine-tick);
+  transform: scaleY(0);
+  transform-origin: top;
+  opacity: 0;
+  transition:
+    transform var(--sk-motion-base) var(--sk-ease),
+    opacity var(--sk-motion-base) var(--sk-ease);
+}
+
 .pillar__label {
-  grid-column: 1;
-  grid-row: 1;
   margin: 0;
   padding: 0;
-  border: 0; /* beat the theme h2 rule (border-top / margin) */
+  border: 0;
   font-size: var(--sk-text-xl);
   font-weight: 600;
   letter-spacing: -0.01em;
@@ -108,33 +117,15 @@ const featured: Record<string, FeaturedWork | null> = {
   transition: color var(--sk-motion-base) var(--sk-ease);
 }
 
-.pillar__go {
-  grid-column: 2;
-  grid-row: 1;
-  font-size: var(--sk-text-lg);
-  line-height: 1.3; /* sits on the title's optical row */
-  color: var(--sk-text-faint);
-  transition:
-    color var(--sk-motion-base) var(--sk-ease),
-    transform var(--sk-motion-base) var(--sk-ease);
-}
-
 .pillar__blurb {
-  grid-column: 1 / -1;
-  grid-row: 2;
-  margin: 0;
+  margin: var(--sk-space-2) 0 0;
   font-size: var(--sk-text-sm);
   line-height: 1.5;
   color: var(--sk-text-muted);
 }
 
-/* Live proof-of-life: one quiet "marker · title" line sitting below the blurb as the third grid row.
-   Subordinate to the label and blurb (smaller, muted), never an accent or a link. Informational text
-   stays on the AA-capable muted ink; only the decorative middot is faint. */
 .pillar__live {
-  grid-column: 1 / -1;
-  grid-row: 3;
-  margin: 0;
+  margin: var(--sk-space-2) 0 0;
   font-size: var(--sk-reading-kicker);
   line-height: 1.5;
   color: var(--sk-text-muted);
@@ -148,28 +139,22 @@ const featured: Record<string, FeaturedWork | null> = {
   font-variant-numeric: tabular-nums;
 }
 
-/* Hover is pointer-gated per the SkLink touch contract (never sticks on iOS). */
 @media (hover: hover) and (pointer: fine) {
+  .pillar:hover::before {
+    transform: scaleY(1);
+    opacity: 1;
+  }
   .pillar:hover .pillar__label {
     color: var(--sk-accent);
   }
-  .pillar:hover .pillar__go {
-    color: var(--sk-accent);
-    transform: translateX(3px);
-  }
 }
 
-/* Keyboard focus + neutral pressed/touch states are owned by SkLink.vue. */
-
-/* Reduced-motion: zero the arrow nudge. Nested inside the pointer query so no :hover rule is
-   ever ungated (the nav interaction-state standard — hover only under hover+fine). */
 @media (hover: hover) and (pointer: fine) and (prefers-reduced-motion: reduce) {
-  .pillar:hover .pillar__go {
-    transform: none;
+  .pillar::before {
+    transition: none;
   }
 }
 
-/* Mobile — one breakpoint; the 1fr/auto grid is intrinsically responsive, so only padding relaxes. */
 @media (max-width: 576px) {
   .home-index {
     padding: var(--sk-space-6) var(--sk-space-4);
