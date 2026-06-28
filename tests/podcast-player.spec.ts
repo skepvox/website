@@ -2,15 +2,11 @@ import { test, expect } from '@playwright/test'
 import { execFileSync } from 'node:child_process'
 import fs from 'node:fs'
 import path from 'node:path'
-
-// Regression guard for the synced-transcript PodcastPlayer. Anchored on a real
-// built episode page so it catches the durability failure mode (page sync
-// dropping the player wiring) and the transcript SSR / LLM rendering.
 const PAGE_PATH = '/podcast/francais/001-le-badge'
 const CUES_FILE = path.resolve('src/podcast/francais/001-le-badge.cues.json')
 const DIST_HTML = path.resolve('.vitepress/dist/podcast/francais/001-le-badge.html')
 const LLMS_FILE = path.resolve('.vitepress/dist/llms-full.txt')
-const RENDER_MARKER = '<!-- Rendered for LLM outputs from synced cue JSON. -->'
+const RENDER_MARKER = '<' + '!-- Rendered for LLM outputs from synced cue JSON. --' + '>'
 
 interface Cue {
   id: string
@@ -29,9 +25,6 @@ function loadCues(): Cue[] {
   }
   return cues
 }
-
-// A long, HTML-safe cue from the middle of the transcript, used to assert the
-// transcript text actually reaches the SSR HTML and the LLM output.
 function sampleTranscriptText(): string {
   const cues = loadCues()
     .slice(15, -15)
@@ -40,8 +33,6 @@ function sampleTranscriptText(): string {
   if (!cues.length) throw new Error('no transcript sample found')
   return cues[0].text
 }
-
-// Match Vue's SSR text escaping so the assertion holds for any cue text.
 function escapeHtml(text: string): string {
   return text
     .replace(/&/g, '&amp;')
@@ -50,9 +41,6 @@ function escapeHtml(text: string): string {
     .replace(/"/g, '&quot;')
     .replace(/'/g, '&#39;')
 }
-
-// A mid-list cue with a comfortable gap to its successor, so the player's 0.15s
-// visual-sync offset lands unambiguously inside it.
 function safeHighlightCue(): Cue {
   const cues = loadCues()
   for (let i = 10; i < cues.length - 1; i++) {
@@ -107,7 +95,6 @@ test.describe('podcast player', () => {
     const cue = safeHighlightCue()
     await page.evaluate((c) => {
       const audio = document.querySelector('.vox-player__audio') as HTMLMediaElement
-      // Force a deterministic playhead without loading remote media.
       Object.defineProperty(audio, 'currentTime', {
         configurable: true,
         get: () => c.start + 0.2,
@@ -157,11 +144,6 @@ test.describe('podcast player', () => {
     expect(top).toBeLessThanOrEqual(90)
   })
 })
-
-// Published target episode. It used to be a reviewed buffer page, so this locks
-// the promotion contract: the page stays built/reachable, becomes indexable,
-// enters the public manifest/sidebar/sitemap, and keeps the synced transcript.
-// Fully file-based (no browser, no remote audio); requires a prior build.
 test.describe('published target episode (francais-003)', () => {
   const SLUG = '003-le-covoiturage-poli'
   const SRC = path.resolve(`src/podcast/francais/${SLUG}.md`)
@@ -205,10 +187,6 @@ test.describe('published target episode (francais-003)', () => {
     expect(fs.readFileSync('.vitepress/config.ts', 'utf-8')).toContain(`/podcast/francais/${SLUG}`)
   })
 })
-
-// Per-show episode card grid: a generated manifest drives SSR cards on the index
-// pages. Released episodes are listed; future buffers/drafts remain absent.
-// File-based; requires a prior build (pnpm podcast:build).
 test.describe('episode card grid', () => {
   const MANIFEST = path.resolve('src/podcast/francais/episodes.json')
   const INDEX_HTML = path.resolve('.vitepress/dist/podcast/francais/index.html')
@@ -233,7 +211,6 @@ test.describe('episode card grid', () => {
     const html = fs.readFileSync(INDEX_HTML, 'utf-8')
     expect(html).toContain('class="card-grid"')
     expect((html.match(/class="card-grid__item"/g) || []).length).toBe(3)
-    // the episode number is preserved as the card eyebrow (001/002/003 style)
     expect(html).toMatch(/card-grid__eyebrow[^>]*>001</)
     expect(html).toMatch(/card-grid__eyebrow[^>]*>002</)
     expect(html).toMatch(/card-grid__eyebrow[^>]*>003</)
@@ -249,17 +226,11 @@ test.describe('episode card grid', () => {
 
   test('future buffer episode is not linked from the index', () => {
     const html = fs.readFileSync(INDEX_HTML, 'utf-8')
-    // Future buffer slugs may appear in VitePress's internal route hashmap, but
-    // must never be a navigable link or appear in the card grid.
     expect(html).not.toContain(`href="/podcast/francais/${FUTURE_BUFFER_SLUG}"`)
     const grid = html.match(/<ul class="card-grid".*?<\/ul>/s)?.[0] ?? ''
     expect(grid).not.toContain(FUTURE_BUFFER_SLUG)
   })
 })
-
-// The pre-publication notice renders (theme content-top slot) only on buffer
-// pages (frontmatter buffer: true). Public pages must stay clean. File-based;
-// requires a prior build.
 test.describe('buffer notice', () => {
   const dist = (slug: string) => path.resolve(`.vitepress/dist/podcast/francais/${slug}.html`)
   const FR_LABEL = 'Pré-publication · page non listée'
@@ -272,10 +243,6 @@ test.describe('buffer notice', () => {
     }
   })
 })
-
-// Generated show manifest drives an SSR CardGrid on the /podcast/ hub. Episode
-// counts come from the per-show episodes.json, so released episodes count and
-// future buffers do not. File-based; needs a prior build (pnpm podcast:build).
 test.describe('podcast hub show grid', () => {
   const SHOWS = path.resolve('src/podcast/shows.json')
   const HUB_HTML = path.resolve('.vitepress/dist/podcast/index.html')
@@ -291,7 +258,6 @@ test.describe('podcast hub show grid', () => {
       expect(typeof s.meta).toBe('string')
       expect(typeof s.episodeCount).toBe('number')
     }
-    // francais includes the released 003 and excludes future buffers.
     const fr = shows.find((s: { href: string }) => s.href === '/podcast/francais/')
     expect(fr.episodeCount).toBe(3)
   })
@@ -308,8 +274,6 @@ test.describe('podcast hub show grid', () => {
 
   test('does not leak future buffer episodes into the hub', () => {
     const html = fs.readFileSync(HUB_HTML, 'utf-8')
-    // Future buffer slugs may appear in VitePress's internal route hashmap, but
-    // never as a link or inside the card grid.
     expect(html).not.toContain('href="/podcast/francais/004-le-studio-calme"')
     const grid = html.match(/<ul class="card-grid".*?<\/ul>/s)?.[0] ?? ''
     expect(grid).not.toContain('004-le-studio-calme')
@@ -321,8 +285,6 @@ test.describe('podcast sidebar labels', () => {
 
   test('uses one podcast sidebar with show groups and public episodes', () => {
     const config = fs.readFileSync(CONFIG, 'utf-8')
-    // /podcast/ is the only remaining rented sidebar key (the legacy /literatura/ block was removed in
-    // B5), so the block runs from its key to its closing `],`.
     const podcastSidebar = config.match(/'\/podcast\/': \[[\s\S]*?\n  \],/)?.[0] ?? ''
     expect(config.match(/^\s*'\/podcast\/':/gm)).toHaveLength(1)
     expect(config).not.toMatch(/^\s*'\/podcast\/(?:francais|espanol|english)\/':/m)
@@ -343,10 +305,6 @@ test.describe('podcast sidebar labels', () => {
     expect(config).not.toContain('Vox Español - Podcast de español como lengua extranjera')
   })
 })
-
-// Product contract for the compact "lesson thesis" episode header
-// (PodcastEpisodeHeader), generated by sync-podcast-lesson-pages.py. These lock
-// in the redesign so the old generated-document shape cannot creep back.
 test.describe('podcast episode header', () => {
   const PUBLIC_003_HTML = path.resolve(
     '.vitepress/dist/podcast/francais/003-le-covoiturage-poli.html'
@@ -355,11 +313,11 @@ test.describe('podcast episode header', () => {
   test('built page SSR-renders the compact header (eyebrow, episode-title H1, lede)', () => {
     const html = fs.readFileSync(DIST_HTML, 'utf-8')
     expect(html).toContain('class="vox-ep__eyebrow"')
-    expect(html).toContain('Vox Français') // show, from cue JSON
-    expect(html).toMatch(/Épisode[^<]*001/) // localized label + number from id
-    expect(html).toMatch(/\d+ min/) // duration from durationSeconds
+    expect(html).toContain('Vox Français')
+    expect(html).toMatch(/Épisode[^<]*001/)
+    expect(html).toMatch(/\d+ min/)
     expect(html).toContain('class="vox-ep__lede"')
-    expect(html).toContain('Se présenter, préciser un rôle') // learning point (slot text)
+    expect(html).toContain('Se présenter, préciser un rôle')
   })
 
   test('visible H1 is the episode title only; SEO/frontmatter title stays full', () => {
@@ -367,24 +325,26 @@ test.describe('podcast episode header', () => {
     const h1s = [...html.matchAll(/<h1[^>]*>(.*?)<\/h1>/gs)].map((m) =>
       m[1].replace(/<[^>]+>/g, '').trim()
     )
-    expect(h1s).toEqual(['Le badge']) // exactly one H1, episode title only
+    expect(h1s).toEqual(['Le badge'])
     const title = html.match(/<title>(.*?)<\/title>/)?.[1] ?? ''
-    expect(title).toContain('Vox Français 001 — Le badge') // full SEO <title>
+    expect(title).toContain('Vox Français 001 — Le badge')
     expect(html).toContain('property="og:title" content="Vox Français 001 — Le badge"')
   })
 
   test('drops the generated-document boilerplate (intro, permalink, Transcript H2)', () => {
     const html = fs.readFileSync(DIST_HTML, 'utf-8')
-    expect(html).not.toContain('Cette page accompagne') // no boilerplate intro
-    expect(html).not.toContain('Lien permanent') // no raw permalink block
-    expect(html).not.toContain('Transcription complète') // no transcript H2
+    expect(html).not.toContain('Cette page accompagne')
+    expect(html).not.toContain('Lien permanent')
+    expect(html).not.toContain('Transcription complète')
   })
 
-  test('keeps the native player + transcript, with no custom player controls', () => {
+  test('replaces native audio controls with the owned transport, keeping the audio element + transcript', () => {
     const html = fs.readFileSync(DIST_HTML, 'utf-8')
-    expect(html).toContain('vox-player') // native audio player
-    expect(html).toContain('class="vox-transcript"') // SSR transcript
-    // the rejected custom controls must not return
+    expect(html).toContain('vox-player')
+    expect(html).toContain('class="vox-transcript"')
+    expect(html).toContain('<audio')
+    expect(html).not.toMatch(/<audio[^>]*\scontrols/)
+    expect(html).toContain('vox-transport')
     expect(html).not.toContain('vox-step')
     expect(html).not.toContain('vox-rate')
   })
