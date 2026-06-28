@@ -109,6 +109,9 @@
   --sk-link: var(--sk-text-body);
   --sk-link-line: rgb(47 74 107 / 0.45);
   --sk-link-hover: var(--sk-accent);
+  --sk-pillar-literatura: #9a6f37;
+  --sk-pillar-filosofia: #3c5896;
+  --sk-pillar-vox-francais: #4e827a;
 }
 
 .dark {
@@ -142,4 +145,7 @@
   --sk-reading-muted: var(--sk-text-muted);
   --sk-reading-rule: var(--sk-rule);
   --sk-reading-accent: var(--sk-accent-soft);
+  --sk-pillar-literatura: #cba36a;
+  --sk-pillar-filosofia: #8ba2dc;
+  --sk-pillar-vox-francais: #82b4ab;
 }

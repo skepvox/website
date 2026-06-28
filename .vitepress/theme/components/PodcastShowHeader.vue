@@ -3,12 +3,6 @@ import { computed } from 'vue'
 import { useData } from 'vitepress'
 import SkLink from './SkLink.vue'
 
-// "Series index" masthead for a podcast show page: a quiet eyebrow framing the show
-// as a series with a real lesson count, the show title (from frontmatter), one
-// editorial standfirst, and a restrained text "listen" line — usually Apple
-// Podcasts / Spotify (RSS remains discoverable in the document head unless
-// explicitly passed here). No badge artwork; the lesson cards below stay the
-// page's hero.
 const props = defineProps<{
   lang: string
   eyebrow: string
@@ -36,7 +30,6 @@ interface ListenLink {
   secondary?: boolean
 }
 
-// Only the platforms that actually have a source URL; RSS is secondary when used.
 const links = computed<ListenLink[]>(() => {
   const out: ListenLink[] = []
   if (props.apple) out.push({ label: 'Apple Podcasts', href: props.apple })
@@ -89,15 +82,15 @@ const links = computed<ListenLink[]>(() => {
   color: var(--sk-text-faint);
 }
 
-/* Beats the theme's `.vt-doc h1`: restrained masthead title, not a marketing hero. */
 .show-head__title {
   margin: 0 0 0.65rem;
   padding: 0;
   border: 0;
+  font-family: var(--sk-reading-title-font);
   font-size: var(--sk-masthead);
   line-height: 1.12;
   font-weight: 600;
-  letter-spacing: -0.02em;
+  letter-spacing: -0.015em;
   color: var(--sk-reading-heading);
 }
 
@@ -140,10 +133,6 @@ const links = computed<ListenLink[]>(() => {
     border-color 0.18s ease;
 }
 
-/* Four-state floor (navigation interaction-state standard): the visible hover applies
-   only on real pointer devices, so an iOS tap never sticks the hover state (the
-   tap-after-back class of bug). On touch no hover rule matches, so the link keeps its
-   resting colour and :active adds nothing — the first tap follows the link. */
 @media (hover: hover) and (pointer: fine) {
   .show-head__listen-link:hover {
     color: var(--sk-accent);
@@ -155,6 +144,4 @@ const links = computed<ListenLink[]>(() => {
   font-size: 0.85rem;
   color: var(--sk-reading-muted);
 }
-/* Keyboard focus + neutral pressed/touch are owned by the SkLink primitive (see
-   components/SkLink.vue), so no per-component :focus-visible rule lives here. */
 </style>

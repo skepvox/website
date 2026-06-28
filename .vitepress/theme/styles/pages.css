@@ -74,9 +74,10 @@
 
 .vt-doc h1,
 .vp-doc h1 {
+  font-family: var(--sk-reading-title-font);
   font-size: 30px;
   line-height: 1.16;
-  letter-spacing: -0.03em;
+  letter-spacing: -0.02em;
 }
 
 .vt-doc h2,

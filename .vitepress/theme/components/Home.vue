@@ -23,8 +23,15 @@ const featured: Record<string, FeaturedWork | null> = {
     </header>
 
     <nav class="home-pillars" aria-label="Seções">
-      <SkLink v-for="pillar in PILLARS" :key="pillar.key" class="pillar" :href="pillar.href">
-        <BrandMark class="pillar__mark" :name="pillar.key as BrandMarkName" />
+      <SkLink
+        v-for="pillar in PILLARS"
+        :key="pillar.key"
+        :class="['pillar', `pillar--${pillar.key}`]"
+        :href="pillar.href"
+      >
+        <span class="pillar__node">
+          <BrandMark class="pillar__mark" :name="pillar.key as BrandMarkName" />
+        </span>
         <div class="pillar__body">
           <h2 class="pillar__label">{{ pillar.label }}</h2>
           <p class="pillar__blurb">{{ pillar.blurb }}</p>
@@ -72,25 +79,54 @@ const featured: Record<string, FeaturedWork | null> = {
 
 .home-pillars {
   border-inline-start: 1px solid var(--sk-spine);
-  padding-inline-start: var(--sk-space-5);
+  padding-inline-start: var(--sk-space-3);
 }
 
 .pillar {
+  position: relative;
   display: grid;
   grid-template-columns: auto 1fr;
   column-gap: var(--sk-space-4);
   align-items: start;
-  padding: var(--sk-space-5) 0;
+  padding: var(--sk-space-5) var(--sk-space-3);
+  border-radius: var(--sk-radius-md);
   text-decoration: none;
   color: inherit;
-  --sk-link-focus-radius: var(--sk-radius-sm);
+  transition: background-color var(--sk-motion-base) var(--sk-ease);
+  --sk-link-focus-radius: var(--sk-radius-md);
+  --pillar-tint: var(--sk-text-muted);
+}
+
+.pillar--literatura {
+  --pillar-tint: var(--sk-pillar-literatura);
+}
+.pillar--filosofia {
+  --pillar-tint: var(--sk-pillar-filosofia);
+}
+.pillar--vox-francais {
+  --pillar-tint: var(--sk-pillar-vox-francais);
+}
+
+.pillar::before {
+  content: '';
+  position: absolute;
+  inset-inline-start: calc(-1 * var(--sk-space-3) - 1px);
+  top: var(--sk-space-5);
+  width: 2px;
+  height: 1.7rem;
+  border-radius: 2px;
+  background: var(--pillar-tint);
+}
+
+.pillar__node {
+  grid-column: 1;
+  display: inline-flex;
+  margin-top: 0.15rem;
 }
 
 .pillar__mark {
-  grid-column: 1;
-  margin-top: 0.2rem;
-  font-size: 1.4rem;
-  color: var(--sk-text-muted);
+  font-size: 1.55rem;
+  color: var(--pillar-tint);
   transition: color var(--sk-motion-base) var(--sk-ease);
 }
 
@@ -135,7 +171,14 @@ const featured: Record<string, FeaturedWork | null> = {
   font-variant-numeric: tabular-nums;
 }
 
+.pillar:active {
+  background: var(--sk-cue-hover);
+}
+
 @media (hover: hover) and (pointer: fine) {
+  .pillar:hover {
+    background: var(--sk-cue-hover);
+  }
   .pillar:hover .pillar__mark,
   .pillar:hover .pillar__label {
     color: var(--sk-accent);
@@ -147,7 +190,10 @@ const featured: Record<string, FeaturedWork | null> = {
     padding: var(--sk-space-6) var(--sk-space-4);
   }
   .pillar {
-    padding: var(--sk-space-4) 0;
+    padding: var(--sk-space-4) var(--sk-space-3);
+  }
+  .pillar::before {
+    top: var(--sk-space-4);
   }
 }
 </style>
